@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "1994-12-28"
+last_updated: "1997-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -59,11 +59,11 @@ El cargo de Diputado Propietario o Suplente en ejercicio es incompatible con cua
 
 El Poder Legislativo del Estado de Nuevo León tendrá las atribuciones que para su integración, organización y funcionamiento establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Nuevo León, esta Ley y sus disposiciones reglamentarias.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1997)</small>
+
 ###### Artículo 5o.
 
-La. Legislatura tendrá cada año de ejercicio dos Períodos Ordinarios de Sesiones, el Primero se abrirá el 15 de Octubre y terminará el 15 de Enero, el Segundo se iniciará el 15 de Abril y terminará el 15 de Junio, ambos períodos pueden ser prorrogados hasta por un mes por acuerdo del Pleno.
-
-En el año de la elección para la renovación del Titular del Poder Ejecutivo, el Segundo Período de Sesiones comprenderá del 1o. de Julio al 14 de Octubre, en el que se atenderá el Sexto Informe de Gobierno, la calificación de la elección del siguiente Gobernador y Diputados, y la Toma de Protesta de Ley al Gobernador que resulte electo, en Sesión Solemne que deberá celebrarse el día 4 de Octubre, conforme a lo dispuesto por el Artículo 55 de la Constitución Política del Estado.
+La Legislatura tendrá cada año de ejercicio dos Períodos Ordinarios de Sesiones, el Primero se abrirá el 15 de Octubre y terminará el 15 de Enero, el Segundo se iniciará el 30 de Abril y terminará el 30 de Junio, ambos períodos pueden ser prorrogados hasta por un mes por acuerdo del Pleno.
 
 ###### Artículo 6o.
 
@@ -77,9 +77,11 @@ Para la instalación del Congreso y la Apertura de Sesiones de cada año de ejer
 
 Para la Apertura de Sesiones podrá el Congreso del Estado convocar a invitados especiales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 1997)</small>
+
 ###### Artículo 8o.
 
-Durante la primera quincena del mes de mayo del Segundo Período Ordinario de Sesiones en los primeros cinco años de ejercicio constitucional del Gobernador del Estado, el Congreso celebrará Sesión Solemne el día la hora que se señale a propuesta del Ejecutivo, a la que deberá asistir el Tribunal Superior de Justicia, a fin de que el Gobernador Constitucional presente un informe por escrito en el que manifieste al pueblo de Nuevo León, a través del Congreso del Estado la situación y perspectivas generales del Estado y de la Administración Pública. En el sexto año se hará también como lo dispone el Artículo 57 de la Constitución Política del Estado de Nuevo León.
+Durante la primera quincena del mes de Junio, dentro del Segundo Período Ordinario de Sesiones, concurrirá al Congreso el Gobernador, así como los Magistrados del Tribunal Superior de Justicia, para que en sesión solemne a la que convocará el propio Congreso, el Ejecutivo presente por escrito un informe sobre la situación y perspectivas generales que guarda el Estado y la Administración Pública.
 
 El Presidente del Congreso contestará el Informe de Gobierno en términos generales con las formalidades que requiere la Sesión Solemne.
 
@@ -111,91 +113,59 @@ Ninguna autoridad podrá ejercer mandamiento judicial o administrativo sobre los
 
 Tampoco podrá cumplimentarse mandamiento judicial o administrativo sobre los bienes de los Diputados en el interior de las instalaciones del Congreso.
 
-### CAPITULO II. DEL COLEGIO ELECTORAL
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 1997)</small>
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
+### CAPITULO II. DEL COLEGIO ELECTORAL
 
 ###### Artículo 13.
 
-El Pleno del Congreso del Estado, mediante declaratoria se constituirá en Colegio Electoral, para calificar la elección de Gobernador del Estado y tendrá en materia electoral las atribuciones que le señala la Constitución Política del Estado de Nuevo León y la Ley Electoral del Estado.
-
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
 ###### Artículo 14.
 
-También conocerá de la Nulidad de la elección de Gobernador, en los términos establecidos en la Constitución Política del Estado de Nuevo León y en la Ley Electoral del Estado.
-
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
 ###### Artículo 15.
 
-En el año de la elección del Titular del Poder Ejecutivo, el Congreso se erigirá en Colegio Electoral para calificar la elección de Gobernador, según lo dispuesto por el Artículo 63 Fracción XV de la Constitución Política del Estado de Nuevo León y el 164 de la Ley Electoral del Estado.
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-Las resoluciones que se dicten en tales casos son definitivas e inatacables.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 1997)</small>
 
 ### CAPITULO III. LA COMISION INSTALADORA DEL COLEGIO ELECTORAL
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
-
 ###### Artículo 16.
 
-En el año de la elección de Gobernador y Diputados Locales la Directiva del Congreso, además de sus funciones, se constituirá en Comisión Instaladora para presidir los trabajos del Colegio Electoral y ser enlace con la siguiente Legislatura. El Congreso del Estado comunicará a la Comisión Estatal Electoral, la designación de la Directiva del Congreso.
-
-En el año en que sólo haya elecciones para la revocación del Poder Legislativo, la Diputación Permanente actuará como Comisión Instaladora.
-
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
 ###### Artículo 17.
 
-La Directiva del Congreso tendrá a su cargo recibir:
-
-I.- El resultado concentrado del Cómputo Final de la Elección del Gobernador realizado por la Comisión Estatal Electoral;
-
-II.- Copia de las Actas del resultado del cómputo, acompañada de las Actas de Escrutinio de la elección de Gobernador levantadas en las Casillas Electorales;
-
-III.- El porcentaje de la votación de la Elección de Gobernador, obtenido por cada uno de los Partidos Políticos;
-
-IV.- Los paquetes electorales de la elección de Gobernador; y
-
-V.- Copia de los escritos de protesta y de los recursos de inconformidad interpuestos por los Partidos Políticos.
-
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
 ###### Artículo 18.
 
-El Pleno del Congreso del Estado, constituido en Colegio Electoral, eligirá (sic) una comisión denominada Colegio Electoral para que estudie y analice la documentación a que se refiere el artículo anterior y dictamine en relación a la elección de Gobernador del Estado.
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
 ### CAPITULO IV. DE LA CALIFICACION DE ELECCIONES
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
-
 ###### Artículo 19.
 
-El Pleno del Congreso, se constituirá en Sesión Permanente y declarará un receso para que la Comisión de Colegio Electoral formule el Dictamen correspondiente dentro de los siguientes cinco días.
-
-Formulado el Dictamen, el Presidente de la Comisión del Colegio Electoral lo comunicará a la Directiva del Congreso para que éste cite a sesión del Pleno.
-
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
 ###### Artículo 20.
 
-El día y hora en que sea convocado el Pleno del Congreso, el Presidente de la Comisión de Colegio Electoral o el Diputado que éste designe, dará lectura al contenido del dictamen de la calificación de la elección del Gobernador.
-
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
 ###### Artículo 21.
 
-El Pleno del Congreso podrá declarar varios recesos, pero no podrá suspender los trabajos hasta haber concluido con la calificación de la elección de Gobernador.
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-En la misma Sesión declarará en su caso, sobre la nulidad de la elección de Gobernador, en los términos previstos por la Constitución Política del Estado de Nuevo León y la Ley Electoral del Estado.
-
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1997)</small>
 
 ###### Artículo 22.
 
-Al término de la Sesión, los Secretarios de la Directiva del Congreso, fijarán en los estrados del mismo, un aviso firmado por ambos en que se dé conocimiento de la calificación de la elección de Gobernador, o en su caso de la nulidad de la misma, ordenándose su publicación en el Periódico Oficial de (sic) Estado.
+En el año de la Elección de Diputados Locales, la Diputación Permanente además de sus funciones, será el enlace con la siguiente Legislatura. El Congreso del Estado comunicará a la Comisión Estatal Electoral, la designación de la Diputación Permanente.
 
-Los trabajos deberán ser concluidos dentro de los quince días siguientes de la fecha en que se constituye el Colegio Electoral.
+En el año de la elección del Titular del Poder Ejecutivo, el Pleno del Congreso, o en su caso la Diputación Permanente, dará a conocer en todo el Estado la Declaración de Gobernador Electo, de acuerdo a lo dispuesto por la fracción XV del Artículo 63 de la Constitución Política del Estado; misma que se mandará publicar en el Periódico Oficial del Estado y en los periódicos de mayor circulación en la entidad.
 
 ###### Artículo 23.
 
@@ -207,11 +177,11 @@ Los trabajos deberán ser concluidos dentro de los quince días siguientes de la
 
 ### CAPITULO V. DE LA INSTALACION DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 1997)</small>
 
 ###### Artículo 25.
 
-Calificadas las elecciones de Diputados con arreglo a la Constitución Política del Estado de Nuevo León y a la Ley Electoral del Estado, y recibidas por los interesados las credenciales respectivas, el Presidente de la Comisión Instaladora, citará a los Diputados Electos para que se presenten al Recinto del Congreso, quince días antes de la Apertura de las Sesiones para iniciar las Juntas Preparatorias correspondientes.
+Una vez Calificadas las elecciones de Diputados con arreglo a la Constitución Política del Estado y a la Ley Electoral del Estado, y recibidas por los interesados las credenciales respectivas, el Presidente de la Diputación Permanente citará a los Diputados Electos para que se presenten al Recinto del Congreso, quince días antes de la Apertura de las Sesiones para iniciar las Juntas Preparatorias correspondientes.
 
 Con la citación anterior la Comisión Instaladora concluirá sus funciones.
 
@@ -511,7 +481,9 @@ III.- Especiales.
 
 Son Comisiones Permanentes: Las de Dictamen Legislativo y la de Vigilancia de la Contaduría Mayor de Hacienda.
 
-Son Comisiones Temporales: Las Jurisdiccionales y la de Colegio Electoral.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1997)</small>
+
+Son Comisiones Temporales: Las Jurisdiccionales.
 
 Son Comisiones Especiales: Las que designe el Pleno para la resolución de un asunto específico.
 
@@ -527,9 +499,11 @@ Un mismo Diputado no podrá ser a la vez, Presidente de dos o más comisiones de
 
 La Comisión de Vigilancia de la Contaduría Mayor de Hacienda se integrará por nueve Diputados. El Presidente será designado por el grupo legislativo mayoritario y el Vice-Presidente por el grupo legislativo minoritario con mayor número de Diputados; el Pleno designará al resto de los integrantes.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1997)</small>
+
 ###### Artículo 69.
 
-Las Comisiones Jurisdiccionales y de Colegio Electoral funcionarán en los términos previstos en la Constitución y las leyes cuando así lo acuerde la Asamblea; conocerán específicamente de los hechos que las hayan motivado su integración.
+Las Comisiones Jurisdiccionales funcionarán en los términos previstos en la Constitución y las Leyes cuando así lo acuerde la Asamblea; conocerán específicamente de los hechos que las hayan motivado su integración.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
 
@@ -629,11 +603,9 @@ La Comisión de Vigilancia de la Contaduría Mayor de Hacienda estará integrada
 
 Son Comisiones Jurisdiccionales las que se integran en los términos de la Constitución y de las Leyes para el efecto de la Responsabilidad de los Servidores Públicos.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
-
 ###### Artículo 73.
 
-La Comisión de Colegio Electoral funcionará transitoriamente para dictaminar en relación a la calificación o en su caso de la nulidad de la elección de Gobernador, en los términos que establecen las Leyes.
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
 ###### Artículo 74.
 
@@ -778,3 +750,7 @@ P.O. 28 DE DICIEMBRE DE 1994.
 PRIMERO:- El presente Decreto entrara en vigor al día siguiente de su publicación en el periódico Oficial del Gobierno del Estado.
 
 SEGUNDO:- Cuando en una Ley, Reglamento o cualquier otra disposición este expresado el término de "Comisión de Coordinación y Gobierno Interno", se entenderá que se refiere a la "Gran Comisión".
+
+P.O. 18 DE JUNIO DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
