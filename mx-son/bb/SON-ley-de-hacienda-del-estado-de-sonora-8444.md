@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1977-07-27"
+last_updated: "1977-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 27 DE JULIO DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE AGOSTO DE 1977.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976
 
@@ -2977,7 +2977,9 @@ en adelante 500.00
 
 5.- Por expedición de permisos para portar armas 500.00
 
-6.- Por expedición de pasaportes 250.00
+> <small>(REFORMADO, B.O. 17 DE AGOSTO DE 1977)</small>
+
+6.- Por expedición de pasaportes 400.00
 
 7.- Expedición de certificados de necesidad para
 
@@ -3716,3 +3718,7 @@ UNICO.- Esta Ley entrará en vigor tres días después de su publicación en el 
 B.O. 27 DE JULIO DE 1977.
 
 UNICO.- Esta Ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
+
+B.O. 17 DE AGOSTO DE 1977.
+
+UNICO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado.
