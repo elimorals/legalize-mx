@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-transito-del-estado-de-chihuahua-19595"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-31"
-last_updated: "2001-01-31"
+last_updated: "2001-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TRANSITO DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2001.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 31 de enero de 2001.
 
@@ -953,7 +953,9 @@ CUARTO. Los Municipios del Estado por conducto de sus Ayuntamientos, deberán ex
 
 En tanto se realiza la reglamentación a que se refiere el párrafo anterior, se aplicarán las disposiciones vigentes emitidas por las autoridades competentes.
 
-QUINTO. Lo aplicable a la obligación de presentar la póliza vigente que ampare los daños a terceros en sus personas o bienes, con motivo de la conducción de vehículos, así como la exigencia de tener vigente ese seguro para que un vehículo circule legalmente, será exigible en el término de seis meses, contados a partir de la publicación del presente ordenamiento.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2001)</small>
+
+QUINTO. Lo aplicable a la obligación de presentar la póliza vigente que ampare los daños a terceros en sus personas o bienes, con motivo de la conducción de vehículos, así como la exigencia de tener vigente ese seguro para que un vehículo circule legalmente, será exigible a partir del primero de marzo del año 2002.
 
 SEXTO.- En aquellos municipios que a la entrada en vigor de esta Ley, el servicio de tránsito sea prestado por el Estado, los Ayuntamientos deberán manifestar dentro de los tres meses siguientes, su intención de asumir la prestación material del servicio o suscribir en los términos de la Constitución General de la República y la presente Ley, el convenio necesario para que sea el Estado quien lo otorgue.
 
@@ -982,3 +984,9 @@ C.P. PATRICIO MARTINEZ GARCIA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. VICTOR E. ANCHONDO PAREDES
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE NOVIEMBRE DE 2001.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en Periódico Oficial del Estado.
