@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-de-los-municipios-del-estado-de-queretaro-26735
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2002-11-13"
+last_updated: "2002-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1560 +21,1436 @@ state: "QUE"
 ---
 # LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO ARTEAGA
 
-REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON
+LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO ARTEAGA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2002.
 
-Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de octubre de 2009.
+Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre de 2002.
 
-EL CIUDADANO LICENCIADO FERNANDO MARGÁIN BERLANGA, PRESIDENTE MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, A TODOS LOS HABITANTES DE ESTE MUNICIPIO HAGO SABER:
+ING. IGNACIO LOYOLA VERA, Gobernador Constitucional del Estado Libre y Soberano de Querétaro Arteaga, a los habitantes del mismo, sabed que:
 
-QUE EL REPUBLICANO AYUNTAMIENTO DE ESTE MUNICIPIO, EN SESIÓN EXTRAORDINARIA CELEBRADA EL DIA 26 DE OCTUBRE DEL AÑO 2009, HA TENIDO A BIEN APROBAR EL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, EN LOS SIGUIENTES TÉRMINOS:
+LA QUINCUAGESIMA TERCERA LEGISLATURA DEL ESTADO DE QUERETARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTICULOS 40 Y 41 FRACCIONES II Y XXXI DE LA CONSTITUCION POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERETARO ARTEAGA, Y......EXPIDE LA SIGUIENTE:
 
-AL REPUBLICANO AYUNTAMIENTO DEL MUNICIPIO DE SAN PEDRO GARZA, GARCÍA, NUEVO LEÓN.
+LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO ARTEAGA
 
-PRESENTE.-
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-A los integrantes de la Comisión de Gobierno y Reglamentación de este Republicano Ayuntamiento de San Pedro de los Garza, García, Nuevo León, nos fue turnada por el Licenciado Fernando Berlanga, Presidente Municipal del Municipio para su estudio y dictamen la INICIATIVA DE REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA, GARCÍA, NUEVO LEÓN, el cual presentamos consignando en el apartado de "RESULTANDOS", los hechos relacionados con su proceso de creación y en el de "CONSIDERANDOS" las argumentaciones de carácter jurídico aplicables, por lo que con fundamento en lo dispuesto por el artículo 58 y 72 del Reglamento para el Gobierno Interior del Republicano Ayuntamiento ésta Comisión emite el siguiente dictamen:
+### CAPÍTULO ÚNICO
 
-RESULTANDOS.
+###### Artículo 1.
 
-En consecuencia se transcribe el texto de la INICIATIVA DE REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO DE LOS GARZA GARCÍA, NUEVO LEÓN, siendo el contenido del citado reglamento que se propone, el siguiente:
+La presente Ley es de observancia general, tiene por objeto regular la Hacienda Pública de los municipios del Estado de Querétaro y la totalidad de sus ingresos por los conceptos contenidos en la presente Ley.
 
-# LIBRO PRIMERO. DEL OBJETO DEL REGLAMENTO Y DE LAS DISPOSICIONES GENERALES
+###### Artículo 2.
 
-## TITULO UNICO. DEL OBJETO Y DISPOSICIONES GENERALES
+Son competentes para la aplicación de la presente Ley: los Ayuntamientos de los Municipios del Estado, por conducto del Encargado de las Finanzas Públicas Municipales.
 
-### CAPITULO UNICO. DISPOSICONES (SIC) GENERALES
+###### Artículo 3.
 
-###### ARTÍCULO 1.
+La iniciativa de Ley de Ingresos del Municipio se formulará de conformidad a lo establecido en la presente Ley, la Ley para el Manejo de los Recursos Públicos del Estado, la Ley Orgánica Municipal del Estado de Querétaro y las demás aplicables.
 
-El presente Reglamento es de orden público e interés social y tiene por objeto establecer las bases de la formación, organización, estructura, y funcionamiento de la Policía Preventiva, el esquema de la Policía Metropolitana, la sistematización de la información, los procesos de evaluación, el régimen laboral, la seguridad de los servidores públicos, los Consejos Ciudadanos, los Comités Comunitarios y la prevención del delito, el órgano competente para resolver los conflictos que se presenten entre el personal adscrito y la autoridad municipal, el procedimiento a seguir y los recursos procedentes dentro del sistema de seguridad municipal.
+###### Artículo 4.
 
-###### ARTÍCULO 2.
+Para los casos no contemplados expresamente en las disposiciones de esta Ley se aplicará supletoriamente lo dispuesto en la Código Fiscal del Estado de Querétaro y sus Municipios, cuando la aplicación supletoria, no sea contraria a dicho ordenamiento.
 
-En los casos no previstos en el presente Reglamento se aplicará lo dispuesto por la Ley de Seguridad Pública para el Estado de Nuevo León, el Código Civil del Estado de Nuevo León, el Código de Procedimientos Civiles del Estado de Nuevo León y los principios generales de derecho.
+Para efectos de esta Ley, cada vez que se mencione Código Fiscal, se entenderá al Código Fiscal del Estado de Querétaro y sus Municipios.
 
-###### ARTÍCULO 3.
+###### Artículo 5.
 
-Para los efectos del presente Reglamento se entiende por:
+Las normas legales hacendarias que establezcan las obligaciones a cargo de los particulares serán de aplicación estricta.
 
-ARMAMENTOS Y EQUIPOS OFICIALES: Comprenden la pistola reglamentaria y el fusil de fuego en el calibre de uso permitido; la fornitura con sus accesorios de funda de pistola, cartuchera, porta-esposas, porta-gas, juego de esposas metálicas, cilindro de gas lacrimógeno, dotación de cartuchos de fuego hábiles, el tolete.
+###### Artículo 6.
 
-BASES DE DATOS CRIMINALÍSTICAS Y DE PERSONAL: Las bases de datos de un registro y la información contenidas en ellas, en materia de detenciones, información criminal, personal de seguridad pública, servicios de seguridad privada, armamento y equipo, vehículos, huellas dactilares, teléfonos celulares, sentenciados y las demás necesarias para la operación del Sistema, cuyo propósito es clasificar, ordenar, registrar, resguardar, utilizar y compartir la información recabada y relacionada con dicho servicio.
+Las infracciones a las disposiciones contenidas en esta Ley, serán sancionadas de conformidad con el Código Fiscal.
 
-CAMBIO DE ADSCRIPCIÓN: Cambio de área de prestación del servicio, respetando la jerarquía.
+###### Artículo 7.
 
-CENTRO: Centro de Comando, Control y Comunicaciones en materia de seguridad municipal.
+Para efectos de la presente Ley las siglas VSMGZ se entenderán como Veces Salario Mínimo General Vigente de la Zona.
 
-CLAVES: Directorio de señales designado para la comunicación confidencial, utilizando el código mil y el alfabeto fonético internacional.
+###### Artículo 8.
 
-COLONIA Y COMUNIDAD: El conjunto de ciudadanos que habitan en un lugar determinado del municipio; con intereses o fines comunes y que se constituyen en la división administrativa o territorial del municipio.
+Ningún gravamen podrá imponerse o recaudarse si no está previsto en la correspondiente Ley de Ingresos.
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+###### Artículo 9.
 
-COMISION: La Comisión de Honor y Justicia de la Secretaría de Seguridad Municipal
+Las obligaciones tributarias se originan cuando se realicen los hechos o circunstancias a los cuales las Leyes condicionan su nacimiento; aún cuando esos hechos o circunstancias impliquen infracción a otras Leyes o reglamentos; pero sin que este cobro legitime, en forma alguna, tales actividades.
 
-COMITÉS CIUDADANOS: Los Comités Ciudadanos Municipales de Seguridad Municipal.
+###### Artículo 10.
 
-CONSEJO DE COORDINACIÓN: Consejo de Coordinación del Sistema Integral de Seguridad Publica del Estado.
+Son Leyes y disposiciones Fiscales de los Municipios del Estado de Querétaro:
 
-CONSEJOS CIUDADANOS: Consejos Ciudadanos Municipales de Seguridad.
+I.- La presente Ley
 
-CUERPOS DE SEGURIDAD MUNICIPAL: La Policía Preventiva, la Policía de Tránsito, los Grupos Tácticos de Intervención o de Reacción y el personal adscrito a las áreas de reclusión y de información.
+II.- La Ley de Ingresos de cada Municipio.
 
-ENLACE: Servidor Público designado por la administración municipal a través de quién se podrá intercambiar información.
+III.- El Presupuesto de Egresos de cada Municipio.
 
-EQUIPO MÓVIL: Vehículos, asignados al personal integrante de los Cuerpos de Seguridad Municipal.
+IV.- La Ley para el manejo de los recursos públicos del Estado de Querétaro
 
-ESCALA DE RANGOS POLICIALES: Relación que contiene a todos los integrantes de las Instituciones Policiales y los ordena en forma descendente de acuerdo a su categoría, jerarquía, división, servicio, antigüedad y demás elementos pertinentes.
+V.- Los que establezcan o reglamenten algún ingreso previsto en la Ley respectiva y también los que organicen los servicios administrativos necesarios para la recaudación, distribución y control de los ingresos de los Municipios.
 
-INFORMACIÓN EN MATERIA DE SEGURIDAD MUNICIPAL: Datos contenidos en los documentos que el personal genera, obtiene, adquiere, transforma o conserva por cualquier título o aquélla que por disposición legal deban generar.
+VI.- Los que establezcan recursos administrativos en contra de resoluciones fiscales que tengan relación con la Hacienda Pública de los Municipios.
 
-INTERCAMBIO DE INFORMACIÓN: Intercambio de datos entre las dependencias Federales, Estatales y Municipales en materia de seguridad municipal.
+VII.- La Ley Orgánica Municipal del Estado de Querétaro, en su parte relativa, y
 
-KARDEX: Al conjunto de datos de identificación del personal policial que comprende: huellas digitales, fotografía, escolaridad, antecedentes en el servicio, trayectoria en la seguridad pública, historial académico, laboral y disciplinario, estímulos, reconocimientos y sanciones a que se haya hecho acreedor y cualquier cambio de adscripción, actividad o rango.
+VIII.- Los Reglamentos Municipales en su parte relativa.
 
-LEY: Ley de Seguridad Pública para el Estado de Nuevo León.
+###### Artículo 11.
 
-LEY GENERAL: Ley General del Sistema Nacional de Seguridad Pública.
+Los ingresos a que esta Ley se refiere, únicamente podrán ser adicionados, reformados o derogados por la Legislatura del Estado.
 
-LEY DE RESPONSABILIDADES: Ley de Responsabilidades de los Servidores Públicos para el Estado y Municipios de Nuevo León.
+###### Artículo 12.
 
-METROPOL: Policía Metropolitana.
+Los Ayuntamientos organizarán en sus respectivas jurisdicciones territoriales, la recaudación de sus distintos ingresos.
 
-PERSONAL ADSCRITO: El personal que desempeña tareas operativas adscrito a las áreas de policía preventiva, policía de tránsito, Grupos Tácticos de Intervención o de Reacción, áreas de reclusión y de información.
+###### Artículo 13.
 
-PLACAS E INSIGNIAS OFICIALES: Juego de placas metálicas de camisola y cuelleras de pecho y máscara; gafete metálico de identificación nominal; insignias, distintivos de camisola; juego de sectores o emblemas en material de tela con el logotipo y escudo de armas del municipio o la corporación.
+Los Presidentes Municipales serán solidariamente responsables con los Titulares de las Dependencias Encargadas de las Finanzas Públicas Municipales, respecto de la vigilancia y control que deben ejercer para lograr la mayor recaudación en sus jurisdicciones y también para conseguir que los Ayuntamientos obtengan las percepciones que legítimamente les correspondan.
 
-PREVENCIÓN DEL DELITO: Acción y efecto anticipadamente para evitar un riesgo de algún hecho delictivo.
+###### Artículo 14.
 
-PROGRAMA PREVENTIVO: Las acciones, principios, normas, políticas y procedimientos, tendientes a disminuir o eliminar riesgos o altos riesgos de hechos delictivos.
+Ningún Ayuntamiento podrá intervenir o interferir en forma alguna, en las funciones hacendarias de otro Ayuntamiento. La infracción de esta disposición será causal de responsabilidad en los términos de las Leyes respectivas.
 
-SECRETARÍA: Secretaría de Seguridad Pública del Estado de Nuevo León.
+###### Artículo 15.
 
-SECRETARÍA DE SEGURIDAD: Secretaría de Seguridad Municipal.
+Es obligación de todas las personas físicas o morales con actividad empresarial o económica, sin excepción, empadronarse en la Dependencia Encargada de las Finanzas Públicas Municipales de su jurisdicción, en los términos de esta Ley.
 
-SEGURIDAD PÚBLICA: Servicio público cuyo propósito es preservar y garantizar la tranquilidad, el orden y la paz de la comunidad.
+## TITULO SEGUNDO. DE LA HACIENDA DE LOS MUNICIPIOS
 
-SERVICIO: Horario durante el cual el personal adscrito debe desempeñar su función.
+### CAPÍTULO ÚNICO
 
-SISTEMATIZACIÓN: Creación de una base de datos para registrar la información.
+###### Artículo 16.
 
-SUJETOS OBLIGADOS EN MATERIA DE SEGURIDAD PÚBLICA: Las dependencias y áreas administrativas competentes para aplicar el presente reglamento.
+La Hacienda Pública de los Municipios del Estado de Querétaro, para erogar los gastos de la administración y las demás obligaciones a su cargo, percibirá en cada ejercicio fiscal, que principia el día primero de enero y termina el día 31 de diciembre de cada año, los impuestos, derechos, productos, aprovechamientos e ingresos extraordinarios que procedan sujetándose a los principios generales establecidos en esta Ley.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+Igualmente tendrán derecho los Municipios a percibir las participaciones y aportaciones que a los Municipios otorguen el Gobierno del Estado y el Gobierno Federal.
 
-###### ARTÍCULO 4.
+###### Artículo 17.
 
-Son autoridades competentes para aplicar el presente Reglamento, las siguientes:
+La Ley de Ingresos de los Municipios del Estado de Querétaro establecerá anualmente el monto de los derechos, impuestos, productos, aprovechamientos e ingresos extraordinarios, así como las participaciones y aportaciones que tengan derecho a percibir.
 
-I. El C. Presidente Municipal;
+###### Artículo 18.
 
-II. El Secretario de Seguridad Municipal;
+Para clasificación, registro y manejo de Bienes se estará a lo establecido en la Ley de Bienes del Estado de Querétaro y sus Municipios y demás ordenamientos aplicables.
 
-III. El Director General de Policía;
+## TÍTULO TERCERO. DE LOS IMPUESTOS
 
-IV. El Director General de Tránsito y Vialidad;
+### CAPÍTULO PRIMERO. DEL IMPUESTO PREDIAL
 
-V. El Coordinador de las Áreas de información; y
+###### Artículo 19.
 
-VI. La Comisión de Honor y Justicia.
+En lo relativo a este impuesto se estará a lo establecido en la Ley del Impuesto Predial de los Municipios del Estado de Querétaro.
 
-# LIBRO SEGUNDO. DE LA REGULACION DEL FUNCIONAMIENTO DE LA POLICIA PREVENTIVA MUNICIPAL
+### CAPÍTULO SEGUNDO. DEL IMPUESTO SOBRE TRASLADO DE DOMINIO
 
-###### ARTÍCULO 5.
+###### Artículo 20.
 
-Las atribuciones conferidas a los integrantes de los Cuerpos de Seguridad Municipal deberán ejercerse con estricto apego a los principios de legalidad, objetividad, eficacia, profesionalismo y honradez, respetando invariablemente los derechos humanos.
+Están obligados al pago del Impuesto Sobre Traslado de Dominio de Inmuebles, las personas físicas o morales que adquieran inmuebles que consistan en el suelo o en el suelo y las construcciones adheridas a él, ubicados en territorio del Estado de Querétaro, así como los derechos relacionados con los mismos. El impuesto se calculará aplicando la tasa del 1.6% al valor del inmueble.
 
-###### ARTÍCULO 6.
+###### Artículo 21.
 
-En el cumplimiento de sus atribuciones, el personal integrante de los Cuerpos de Seguridad Municipal quedará sujeto a los principios de territorialidad, proximidad, proactividad y promoción.
+En las operaciones de traslado de dominio y otras operaciones inmobiliarias contempladas en esta Ley, se concederá una deducción de 15 VSMGZ elevado al año en la base de los impuestos de los inmuebles de interés social y popular, únicamente cuando se trate de la primera adquisición de los mismos.
 
-###### ARTÍCULO 7.
+###### Artículo 22.
 
-En cumplimiento al principio de territorialidad, los elementos policiales deberán tener pleno conocimiento sobre la zona o extensión territorial que les corresponde vigilar y proteger, además de cumplir con lo siguiente:
+Para los efectos de esta Ley, se considera inmueble de interés social aquel cuyo valor total no exceda de 20 VSMGZ elevado al año y por inmueble de interés popular aquel cuyo valor total no exceda de 30 VSMGZ elevado al año.
 
-a) Actuar dentro de un esquema operativo y funcional de mayor cobertura, delimitando geográficamente, mediante la confirmación de distritos y sectores que les faciliten ejercer con cercanía y prontitud el servicio de vigilancia, protección y prevención;
+###### Artículo 23.
 
-b) Conocer la distribución geográfica, poblacional y socioeconómica del territorio, distrito o zona de cobertura que les corresponda; y
+Para los efectos de esta Ley, se entiende por traslación de dominio de inmuebles la que derive de:
 
-c) Contar con información sobre el comportamiento delictivo o de las infracciones administrativas que se generen en su territorio, distrito o sector, para lo cual se proveerá de la información estadística necesaria y de estudios e informes que sobre el particular se realicen.
+I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones y sociedades;
 
-###### ARTÍCULO 8.
+II.- La compraventa en la que el vendedor se reserve la propiedad, aún cuando la transferencia de ésta opere con posterioridad;
 
-Para cumplir con el principio de proximidad, los elementos Policiales deberán:
+III.- El contrato en el que se pacte que el futuro comprador entra en posesión de los bienes o que el futuro vendedor reciba el precio de la venta o parte de él, antes de que se formalice el contrato prometido;
 
-a) Mantener un (sic) estrecha comunicación y cercanía con la comunidad para identificar sus necesidades y prioridades en materia de vigilancia, seguridad, protección y prevención del delito e infracciones administrativas;
+IV.- La cesión de derechos del comprador o del futuro comprador en los casos de las fracciones II y III que anteceden, respectivamente;
 
-b) Promover y facilitar la participación de la comunidad en las tareas de seguridad, protección y prevención de delito e infracciones administrativas;
+V.- La fusión y escisión de sociedades;
 
-c) Instrumentar alianzas con organizaciones y asociaciones de vecinos, padres de familia, comerciantes o de cualquier otra naturaleza que posibiliten el cumplimiento de sus objetivos;
+VI.- El pago en especie, independientemente del acto jurídico que lo origine;
 
-d) Brindar la orientación e información necesaria a las víctimas de cualquier delito o infracción, buscando que se les proporcione atención adecuada y oportuna por parte de las Instituciones correspondientes;
+VII.- La constitución de usufructo, transmisión de éste entre vivos, o de la nuda propiedad, así como la extinción de usufructo temporal;
 
-e) Servir como una instancia auxiliar para el conocimiento de la problemática social de la comunidad y canalizar sus planeamientos e inquietudes ante las dependencias u organismos que correspondan; y
+VIII.- La adquisición de inmuebles por prescripción;
 
-f) Rendir cuentas periódicamente a la comunidad, a través de los Consejos Ciudadanos sobre la evaluación de las actividades que se realizan y sobre la problemática delictiva que se genera en su entorno o sector, estableciendo compromisos de acción que tiendan a su mejoramiento escuchando en todo momento las opiniones y experiencias de la comunidad, lo anterior a través del Secretario de Seguridad.
+IX.- La cesión de derechos del heredero, legatario o copropietario en la parte relativa y en proporción a los inmuebles;
 
-###### ARTÍCULO 9.
+Se considerará cesión de derechos hereditarios la renuncia o repudiación de la herencia o legado efectuada después de la declaratoria de herederos o legatarios, cuando se incrementen las porciones de los coherederos o legatarios, así como el repudio o cesión de derechos hereditarios hecha en favor de persona determinada cuando se realice antes de la declaratoria de herederos o legatarios;
 
-El principio de proactividad debe cumplirse con la participación activa de los elementos de policía, en el diseño e instrumentación de estrategias o acciones para evitar la generación de delitos e infracciones administrativas, integrándose por los siguientes elementos:
+X.- La adquisición por medio de fideicomiso, en los siguientes casos:
 
-a) Participar en el diseño y puesta en marcha de los programas de prevención de delito que al respecto se instrumenten conforme a las disposiciones contenidas en la Ley y en éste Reglamento;
+a) En el acto en el que el fideicomitente designa o se obliga a designar fideicomisario diverso de él y siempre que no tenga derecho a readquirir del fiduciario los bienes.
 
-b) Recabar información que de acuerdo con su criterio pueda representar un riesgo o peligro para la comunidad; o bien, que pueda ser de utilidad para prever posibles conductas delictivas o infracciones administrativas o lograr, en su caso, la identificación o detención de personas que hayan cometido algún delito o infracción; y
+b) El acto en el que el fideicomitente pierda el derecho a readquirir los bienes del fiduciario, si se hubiera reservado tal derecho.
 
-c) Privilegiar, en los casos en que la Ley y éste Reglamento lo prevé, la solución de conflictos de menor impacto mediante el diálogo, la conciliación o la mediación, con el propósito de restaurar y armonizar los intereses de las partes en conflicto.
+XI.- En la cesión de los derechos que se tengan sobre los bienes afectos al fideicomiso, en cualquiera de los siguientes momentos:
 
-###### ARTÍCULO 10.
+a) El acto en el que el fideicomisario designado ceda sus derechos o de instrucciones al fiduciario para que transmita la propiedad de los bienes a un tercero. En estos casos se considerará que el fideicomisario adquiere los bienes en el acto de su designación y que los enajena en el momento de ceder sus derechos o de dar dichas instrucciones.
 
-El principio de promoción se cumplirá con las actividades que deben realizar los elementos de policía, con el propósito de generar en la comunidad una cultura de la legalidad, del respeto de las instituciones, de la denuncia ciudadana y de la prevención o autoprotección al delito, integrándose por los elementos siguientes:
+b) El acto en el que el fideicomitente ceda sus derechos si entre éstos se incluye el de que los bienes se transmitan a su favor.
 
-a) Fomentar entre la comunidad el respeto a los Derechos Humanos; y
+XII.- La división de la copropiedad y la constitución o disolución de la sociedad conyugal, así como la modificación de las capitulaciones matrimoniales, por la parte que se adquiera en demasía del porcentaje que le corresponda al copropietario o cónyuge;
 
-b) Promover una cultura de legalidad, de la denuncia ciudadana y de la prevención o autoprotección del delito.
+XIII.- La adquisición a través de permuta, caso en el que se considerará que se efectúan dos adquisiciones;
 
-###### ARTÍCULO 11.
+XIV.- La adquisición de la propiedad de bienes inmuebles en virtud de remate judicial o administrativo, y
 
-Los Cuerpos de Seguridad Municipal, tendrán la siguiente estructura jerárquica:
+XV.- La devolución de la propiedad de bienes a consecuencia de la rescisión o terminación del contrato por mutuo acuerdo, o la reversión en caso de expropiaciones.
 
-I. El Secretario de Seguridad Municipal;
+###### Artículo 24.
 
-II. El Director General de Policía; y
+No se causa el impuesto a que se refiere este capítulo:
 
-III. El Director General de Tránsito y Vialidad.
+I.- En las adquisiciones de inmuebles que hagan la Federación, las Entidades Federativas y los Municipios para formar parte del dominio Público;
 
-###### ARTÍCULO 12.
+II.- En las adquisiciones de inmuebles que hagan los partidos políticos nacionales y estatales, siempre y cuando dichos inmuebles sean para la sede principal de sus instalaciones oficiales;
 
-La Dirección General de Policía, tendrá la siguiente estructura operativa:
+III.- En las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero, si dicho impuesto se cubrió cuando adquirió la arrendadora como acto necesario para la realización del contrato;
 
-I. Coordinador General Operativo, quién tendrá el grado de Inspector;
+IV.- En las adquisiciones de inmuebles fideicomitidos que hagan los fideicomisarios al extinguir el fideicomiso en los términos del contrato de fideicomiso, si dicho impuesto se cubrió, por cuenta del fideicomisario cuando adquirió la fiduciaria;
 
-II. Comandantes de Grupos Operativos quiénes tendrán el grado de Sub-Inspector, y jerárquicamente con mando respecto de los siguientes grupos:
+V.- En la transmisión del usufructo que se de por causa de muerte;
 
-a) Bancario y Comercial,
+VI.- En la adquisición de propiedad por sucesión, siempre que se realice entre cónyuges, ascendientes y descendientes en línea recta, sin limitación de grado y que dicho inmueble sea única propiedad del autor de la sucesión.
 
-b) Residencial,
+VII.- En la transmisión de propiedad que se realice al constituir o disolver el patrimonio familiar, así como al modificar las capitulaciones matrimoniales, con la salvedad que se hace en la fracción XII del Artículo 23 de esta Ley.
 
-c) Escolar; y
+VIII.- En las adquisiciones de inmuebles que hagan las Instituciones de Asistencia Privada con domicilio en el Estado, siempre y cuando se encuentren constituidas conforme a la Ley que las regula.
 
-d) Preventivo.
+###### Artículo 25.
 
-III. Comandantes de Compañía, quiénes tendrán el grado de Sub-Inspectores y jerárquicamente bajo su mando a los siguientes grados:
+Será base gravable de este impuesto el valor mayor que resulte entre el valor de operación, el valor catastral o el valor comercial a la fecha de operación, determinado por el avalúo bancario practicado por la institución autorizada o valuador facultado conforme a la Ley, mismo que deberá anexarse como parte integrante del aviso traslativo de dominio de la operación de que se trate.
 
-a) Oficial
+Cuando no se pacte precio, el impuesto se calculará tomando en cuenta lo anterior. En la constitución, adquisición o extinción del usufructo o la nuda propiedad se estará también a lo dispuesto en el primer párrafo de este Artículo, debiendo en todo caso realizarse el avalúo bancario o fiscal ahí mencionado.
 
-b) Sub-Oficial,
+En la adquisición de bienes por remate, el avalúo deberá referirse a la fecha en que quede firme la operación del mismo.
 
-c) Policía Primero,
+###### Artículo 26.
 
-d) Policía Segundo,
+Las autoridades fiscales estarán facultadas para practicar, ordenar o tomar en cuenta el avalúo del inmueble referido a la fecha de adquisición y cuando el valor que resulte de dicho avalúo exceda más de un 10% del precio pactado, éste no se tomará en cuenta y el impuesto se calculará sobre el valor del nuevo avalúo, determinándose las diferencias de impuestos que resulten.
 
-e) Policía Tercero; y
+###### Artículo 27.
 
-f) Policía Raso.
+Cuando el impuesto no se hubiere pagado dentro de su plazo ordinario legal, éste se actualizará multiplicándolo por el factor que se obtenga de dividir el índice nacional de precios al consumidor del mes inmediato anterior a aquél en que se realice el pago, entre el mencionado índice correspondiente al mes anterior a aquél en que se efectúe la adquisición.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+###### Artículo 28.
 
-###### ARTÍCULO 13.
+Para fines de esta Ley se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos del 50% del valor de la propiedad.
 
-La Dirección General de Tránsito Municipal y Vialidad, tendrá la siguiente estructura operativa:
+###### Artículo 29.
 
-I. Coordinador General, quién tendrá el grado de Inspector;
+Cuando los avalúos sean referidos a una fecha anterior a aquella en que se practiquen, se procederá conforme a lo siguiente:
 
-II. Supervisores Generales, quienes tendrán el grado de Sub-Inspectores;
+a) Se determinará el valor del bien a la fecha en que se practique el avalúo, aplicando en su caso, las bases que al efecto expidan las autoridades municipales competentes.
 
-III. Jefe de Grupo, tendrá bajo su mando a los siguientes grados:
+b) La cantidad obtenida conforme a la fracción anterior, se dividirá entre el factor que se obtenga de dividir el índice nacional de precios al consumidor del mes inmediato anterior a aquél en que se practique el avalúo entre el índice del mes al cual es referido el mismo; si el avalúo es referido a una fecha en que no se disponga del dato del índice nacional de precios al consumidor, dicha cantidad se dividirá entre el factor que corresponda, según el número de años transcurridos entre la fecha a la cual es referido el avalúo y la fecha en que se practique, de acuerdo a la tabla que de a conocer para tales efectos la Secretaría de Hacienda y Crédito Público.
 
-a) Patrullero
+c).- El resultado que se obtenga conforme al inciso anterior, será el valor del bien a la fecha a la que el avalúo sea referido. El valuador podrá efectuar ajustes a este valor, cuando existan razones que así lo justifiquen, las cuales deberán señalarse expresamente en el avalúo.
 
-b) Motociclista
+###### Artículo 30.
 
-c) Crucero
+Para lo señalado en este capítulo, los peritos valuadores deberán estar autorizados conforme a la Ley y serán responsables del contenido de sus avalúos.
 
-# LIBRO TERCERO. DEL ESQUEMA INTERMUNICIPAL DENOMINADO POLICIA METROPOLITANA, POR SUS SIGLAS "METROPOL"
+###### Artículo 31.
 
-###### ARTÍCULO 14.
+El pago del impuesto deberá hacerse dentro de los 15 días hábiles siguientes a aquél en que se realice cualquiera de los supuestos que a continuación se señalan:
 
-El presente apartado establece la forma en que la Policía Preventiva, la Policía de Tránsito y los Grupos Tácticos o Unidades Especiales de Intervención o de Reacción del Municipio, pueden colaborar y coordinarse con los Cuerpos de Seguridad de los Municipios de Apodaca, N.L., Cadereyta Jiménez, N.L., General Escobedo, N.L., García, N. L., Guadalupe, N.L., Benito Juárez, N.L., Monterrey, N.L., San Nicolás de los Garza, N.L., Santa Catarina, N.L. y Santiago, N.L., para atender el servicio de seguridad pública en sus territorios.
+I.- Cuando el acto se eleve a escritura pública, el plazo comenzará a contarse a partir de que el acto quede perfeccionado con la firma de los otorgantes, razón por la cual los Notarios están obligados a dejar constancia del día y hora en que se realice la firma;
 
-###### ARTÍCULO 15.
+II.- A los tres años de la muerte del autor de la sucesión si transcurrido dicho plazo no se hubiera llevado a cabo la adjudicación, así como al cederse los derechos hereditarios o al enajenarse bienes por la sucesión. En estos últimos casos, el impuesto correspondiente a la adquisición por causas de muerte, se causará en el momento en que se realice la cesión o la enajenación independientemente del que se cause por el cesionario o por el adquirente;
 
-La colaboración y coordinación a que se refiere el artículo anterior, consistirá en:
+III.- Tratándose de adquisiciones efectuadas a través de fideicomisos cuando se realicen los supuestos de adquisición a que se refiere la fracción X del Artículo 23 de la presente Ley;
 
-I. Operar conjuntamente en acciones específicas;
+IV.- A los tres meses de que haya quedado firme la resolución judicial de prescripción positiva o información de dominio;
 
-II. Contar con la autorización para que en casos de flagrancia en la comisión de delitos y faltas administrativas, las unidades de los once Municipios puedan ingresar más allá de los límites territoriales de su Municipio a efecto de atender la urgencia y continuidad de la acción que se presenta; y
+V.- Cuando se constituya o adquiera el usufructo o la nuda propiedad;
 
-III. El intercambio de información estratégica que permita desarrollar acciones de prevención, contención o represión de delitos y faltas administrativas.
+VI.- Tratándose de adjudicaciones por remate, a los seis meses posteriores a la fecha en que haya quedado firme la resolución que apruebe el remate en cuestión;
 
-## TITULO PRIMERO. PRINCIPIOS DE FUNCIONAMIENTO
+VII.- A la fecha del contrato por el que se realice la transmisión de propiedad o derechos sobre la misma, por cualquier documento de carácter privado, en la que conste cualquiera de los supuestos referidos en el artículo 23;
 
-### CAPITULO UNICO. DE LAS ATRIBUCIONES Y FUNCIONAMIENTO DE LA POLICIA PREVENTIVA
+VIII.- En los contratos en los que la condición suspensiva consista en el otorgamiento de un crédito para adquisición, que celebre con instituciones bancarias o financieras, organismos públicos o similares; el momento en que se firme la escritura pública de adquisición.
 
-###### ARTÍCULO 16.
+###### Artículo 32.
 
-Las unidades policíacas de los Municipios a que se refiere el artículo 14 del presente Reglamento tienen autorización para ingresar al territorio de otro Municipio para atender los casos a que se refiere la fracción II del artículo 15 anterior.
+La Dirección de Catastro del Estado o de los Municipios dispondrá de un plazo de siete días hábiles después de haberse presentado el aviso traslativo de dominio para resolver sobre la aceptación o no aceptación del valor de la propiedad manifestado para efectos de pago del impuesto. De no resolver lo conducente, dentro del plazo señalado, se tendrá por autorizado en definitiva el valor de la propiedad manifestado para efectos del pago del impuesto, siempre que se hubiere presentado el aviso de la escritura de que se trate en forma completa dentro de los quince días hábiles siguientes a la fecha de la citada escritura.
 
-###### ARTICULO 17.
+###### Artículo 33.
 
-Los acuerdos para llevar a cabo acciones específicas, se tomarán por los Secretarios de Seguridad de los municipios señalados en el artículo 14 a través de sus mandos, involucrados en ellas.
+En los casos en que la operación traslativa de dominio que implique la realización de otras operaciones catastrales, tales como manifestación de nuevas construcciones o ampliaciones, subdivisiones, fusiones de terreno o cualesquiera otra que implique cambios en la superficie física de terreno o de construcciones registradas en los archivos catastrales, el plazo para emitir la resolución por parte de la Dirección de Catastro del Estado o de los Municipios, será de quince días hábiles contados a partir de la presentación del aviso traslativo de dominio o de veintiún días hábiles en el caso de que la operación catastral simultánea se trate del registro de un fraccionamiento o condominio.
 
-###### ARTÍCULO 18.
+###### Artículo 34.
 
-El intercambio de información estratégica se obsequiará mediante solicitud entre los Secretarios de Seguridad de los municipios interesados.
+En las adquisiciones que se hagan constar en escritura pública los notarios, jueces y demás fedatarios que por disposición legal tengan funciones notariales, así como en las ratificaciones de cualquier acto o contrato que implique traslación de dominio, calcularán el impuesto bajo su responsabilidad y lo enterarán mediante declaración en la oficina autorizada que corresponda al de la ubicación del inmueble de que se trate; sin este requisito no se podrá autorizar definitivamente dicha escritura. En los demás casos, los contribuyentes pagarán el impuesto mediante declaración ante la oficina autorizada que corresponda al de la ubicación del inmueble de que se trate. Se presentará declaración por todas las adquisiciones aún cuando no haya impuesto por enterar.
 
-# LIBRO CUARTO. DE LA REGULACION DE LOS PROCESOS PARA LA SISTEMATIZACION DE LA INFORMACION EN MATERIA DE SEGURIDAD MUNICIPAL
+Los fedatarios no estarán obligados a enterar el impuesto sobre Traslado de Dominio cuando no haya sido expensado por alguna de las partes o cuando consignen en escrituras públicas operaciones por las que ya se hubiera pagado el citado impuesto y acompañen a su declaración copia del recibo con el que se efectuó dicho pago. En el primer caso, deberán dar aviso de la operación a la autoridad municipal que corresponda dentro de los quince días hábiles siguientes a la firma de la escritura.
 
-## TITULO SEGUNDO. ESTRUCTURA JERARQUICA Y OPERATIVA
+El enajenante y el adquirente responden solidariamente del impuesto que se deba pagar.
 
-### CAPITULO I. ESTRUCTURA JERARQUICA
+Cuando por el avalúo practicado, ordenado o tomado en consideración por la Dependencia Encargada de las Finanzas Públicas Municipales, resulte liquidación, por diferencias de impuestos, los fedatarios no serán responsables solidarios por las mismas y las partes deberán cubrir dichas diferencias dentro de un plazo de quince días naturales a partir de la fecha en que se les notifique a ellos o a quien los represente.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+###### Artículo 35.
 
-###### ARTÍCULO 19.
+Los causantes de este impuesto presentarán en la Dependencia Encargada de las Finanzas Públicas de la demarcación correspondiente, o donde en su caso lo prevenga la Ley de Ingresos, una declaración o aviso que contendrá:
 
-El presente Libro establece las atribuciones de las autoridades administrativas municipales encargadas de prestar el servicio de seguridad municipal, con el fin de instaurar las reglas para la creación de una base de datos en materia de seguridad municipal que clasifique, ordene, registre, resguarde y utilice la información y la forma de operar la misma.
+I.- Los nombres y domicilios de los contratantes o del adquirente en su caso;
 
-### CAPITULO II. ESTRUCTURA OPERATIVA
+II.- Fecha en que se extendió la escritura pública y su número, fecha de la celebración del contrato privado o fecha de la resolución administrativa, judicial o de cualquiera otra autoridad competente, y fecha en que fue declarada firme en su caso;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+III.- Nombre del notario ante quien se haya extendido la escritura, mención de que se trata de contrato privado o indicación de que autoridad dictó la resolución;
 
-###### ARTÍCULO 20.
+IV.- La naturaleza o concepto del acto jurídico que se trate;
 
-La Secretaría de Seguridad en el ámbito de su competencia, suministrará, intercambiará, sistematizará, consultará, analizará y actualizará, la información que diariamente se genere sobre seguridad municipal, mediante los sistemas e instrumentos tecnológicos respectivos.
+V.- Identificación del inmueble, señalando su ubicación, nomenclatura si la tiene, superficie, linderos y nombre de los colindantes;
 
-###### ARTÍCULO 21.
+VI.- Antecedentes de propiedad o de posesión del inmueble en el Registro Público de la Propiedad;
 
-La Secretaría de Seguridad municipal establecerá políticas, programas, lineamientos, mecanismos, instrumentos, servicios y acciones para la administración de la información que deba incorporarse a la base de datos.
+VII.- Valor gravable conforme a las disposiciones contenidas en este Capítulo;
 
-###### ARTÍCULO 22.
+VIII.- Clave catastral o en su defecto, número de cuenta con que se pague el impuesto predial por el inmueble;
 
-Para la aplicación del presente Titulo, el Centro dependerá directamente del Presidente Municipal y en forma delegada del Secretario de Seguridad con las siguientes atribuciones:
+IX.- Monto del impuesto y su actualización y recargos si fuere el caso.
 
-I. Establecer, controlar, administrar y resguardar las bases de datos criminalísticos y de personal que tenga a cargo atribuciones o maneje información en materia de seguridad;
+Las personas físicas o morales que se dediquen, sea por su objeto social o por su actividad preponderante, a la realización de operaciones traslativas de dominio de inmuebles, tendrán la obligación de presentar a la Dependencia Encargada de las Finanzas Públicas Municipales, un aviso mensual que contenga la relación pormenorizada de los actos y contratos traslativos de dominio que hayan celebrado en el mes, debiendo precisar los datos a que se refiere este Artículo y acompañar copia de los documentos respectivos. Esta obligación se cumplirá dentro de los quince días siguientes al mes en que se hubieren llevado a cabo las operaciones indicadas. Para el caso de que en el periodo de referencia no se hubiere celebrado operación alguna, así deberán manifestarlo los obligados.
 
-II. Administrar al personal del Centro;
+Las personas morales que tengan como objeto social principal la compraventa de inmuebles y dichos inmuebles los adquieran solamente para formar parte de su activo fijo, podrán solicitar de la Dependencia Encargada de las Finanzas Públicas Municipales que se les exima de la obligación consignada en el párrafo anterior respecto de dichos inmuebles.
 
-III. Determinar los criterios técnicos y de homologación de las bases de datos;
+###### Artículo 36.
 
-IV. Emitir los protocolos de interconexión, acceso y seguridad de estas bases de datos;
+Las declaraciones deberán ser firmadas y acompañadas de los documentos, en su caso como se establece en las siguientes fracciones:
 
-V. Vigilar el cumplimiento de los criterios de acceso a la información y hacer del conocimiento de las instancias competentes cualquier irregularidad detectada; y
+I.- Si el acto o contrato traslativo de dominio se hace constar en escritura pública, la declaración será firmada por el notario que la hubiera autorizado;
 
-VI. Brindar asesoría a las Instituciones de Seguridad para la integración de información, interconexión, acceso, uso, intercambio y establecimiento de medidas de seguridad para las bases de datos.
+II.- Cuando se trate de actos o contratos que se hagan constar en documentos privados, la declaración será firmada por cualquier interesado y se deberá acompañar de cuatro copias del contrato privado;
 
-###### ARTÍCULO 23.
+III.- En los casos de la adquisición de la propiedad como consecuencia de una resolución administrativa, judicial o de cualquier otra autoridad competente, el causante firmará la declaración y acompañará copia certificada de la resolución respectiva, con la constancia en su caso, de la fecha en que fue declarada firme;
 
-La administración de la información para la operación del Centro, en materia de Seguridad Municipal, consiste en:
+IV.- Deberá acompañarse a la declaración, además de los documentos señalados en las fracciones I y II anteriores, la constancia de estar al corriente en el pago del impuesto predial o cualesquiera otro gravamen fiscal derivados de los bienes inmuebles, en los términos de esta Ley y otros ordenamientos fiscales del Estado;
 
-I. El servicio de registro, atención y despacho de llamadas de emergencia;
+V.- El avalúo a que se refiere el primer párrafo del Artículo 25, salvo el caso de que se trate de ventas realizadas por las personas a que se refieren los dos últimos párrafos del Artículo 35 y cumplan con las obligaciones ahí establecidas;
 
-II. La Red Estatal de Comunicaciones, como instancia integrante de la Red Nacional de Telecomunicaciones de Seguridad Pública;
+VI.- Cuando la Dependencia Encargada de las Finanzas Públicas estime necesario, podrá solicitar de los Notarios o de los declarantes, que le proporcionen una copia autorizada del documento en que se hubiere hecho constar el acto o contrato de que se trate, y
 
-III. El servicio de registro, atención y seguimiento de la denuncia anónima;
+VII.- Las oficinas de la Dependencia Encargada de las Finanzas Públicas recibirán las declaraciones y demás documentos tal y como se presenten sin hacer observaciones ni objeciones, y entregarán como constancia de pago el recibo oficial por el monto de la liquidación determinada.
 
-IV. Los mecanismos de video-vigilancia por circuito cerrado de televisión y de reconocimiento de placas para uso exclusivo de las instituciones policiales;
+###### Artículo 37.
 
-V. El desarrollo e implementación de herramientas tecnológicas aplicadas a la seguridad pública; y
+Las declaraciones a que se refieren los Artículos anteriores se harán en los formatos que para tal efecto se aprueben oficialmente. La Dependencia Encargada de las Finanzas Públicas esta facultada para comprobar la veracidad de los datos de las declaraciones, los causantes están obligados a cubrir las diferencias que resulten, sin perjuicio de las sanciones que deban aplicarse por la falsedad de sus declaraciones, salvo el caso establecido en el último párrafo del Artículo 34 de esta Ley.
 
-VI. Los registros que en los términos de ésta y otras Leyes resguarda la Secretaría.
+Cuando las declaraciones sean formuladas por un Notario, en virtud de haberse realizado ante su fe el acto o contrato traslativo de dominio, la Dependencia Encargada de las Finanzas Públicas, en ejercicio de su facultad de comprobación, solamente podrá requerir copia de los documentos a que se refiere el instrumento público y que por lo mismo obren en el protocolo del Notario, con la consecuencia de que una vez exhibidos la Dependencia Encargada de las Finanzas Públicas no podrá negar el empadronamiento respectivo, salvo por discrepancia con la declaración.
 
-###### ARTÍCULO 24.
+En todo caso, los inmuebles a que se refieran las declaraciones a que se refieren los Artículos 36 y 37 deberán ser empadronados por la Dependencia Encargada de las Finanzas Públicas para su entrega a los interesados junto con los recibos de pago generados, en un plazo de quince días hábiles contados a partir de la fecha en que se hubiesen presentado. En caso de no resolver dentro del plazo señalado, se tendrán por empadronados las (sic) inmuebles y por autorizados en definitiva los pagos realizados con motivo de dicho acto o contrato traslativo de dominio, y si con posterioridad al mencionado plazo surgieran diferencias en los pagos realizados o discrepancias en la declaración, estos no causarán responsabilidad alguna para el contribuyente ni para el fedatario.
 
-De conformidad con lo señalado en la Ley General, toda información relacionada a la materia de seguridad pública, tendrá la categoría de reservada. A está información sólo podrán tener acceso:
+###### Artículo 38.
 
-I. Las autoridades municipales competentes para la aplicación de este Reglamento;
+La consulta escrita en relación a la base gravable del impuesto que se formule a la Dependencia Encargada de las Finanzas Públicas por los Notarios o por los interesados, cuando se trate de contratos privados, deberá resolverse dentro de los diez días hábiles siguientes a la fecha de su presentación, sin que con esto interrumpa el plazo para su pago.
 
-II. Las autoridades competentes en materia de investigación y persecución del delito, para los fines que se prevean en los ordenamientos legales aplicables; y
+###### Artículo 39.
 
-III. Los probables responsables, estrictamente para la rectificación de sus datos personales y para solicitar que se asiente en el mismo el resultado del procedimiento penal, en términos de las disposiciones legales aplicables.
+Los encargados del Registro Público de la Propiedad no inscribirán los actos jurídicos a que se refieren los Artículos anteriores sin que se les compruebe haber realizado el pago del impuesto de traslación de dominio.
 
-Bajo ninguna circunstancia se podrá proporcionar información contenida en las bases de datos a terceros. Las bases de datos no podrán ser utilizadas como instrumento de discriminación, vulneración de la dignidad, intimidad, privacidad u honra de persona alguna.
+### CAPÍTULO TERCERO. IMPUESTO SOBRE FRACCIONAMIENTOS, CONDOMINIOS Y SUBDIVISIÓN DE PREDIOS
 
-###### ARTÍCULO 25.
+###### Artículo 40.
 
-La utilización de la información que se genere en la base de datos criminalístico y de personal se hará bajo los más estrictos principios de confidencialidad y de reserva.
+Es objeto de este impuesto la realización de subdivisiones de terrenos urbanos, en los términos del Código Urbano para el Estado de Querétaro y demás disposiciones aplicables, así como la realización de fraccionamientos y condominios en los términos de dichos ordenamientos.
 
-###### ARTÍCULO 26.
+###### Artículo 41.
 
-La consulta de la base de datos se realizará única y exclusivamente en el ejercicio de funciones oficiales por parte de las instituciones de seguridad pública del Estado y de los Municipios, en el marco de sus atribuciones y competencias, una vez que acrediten la finalidad de la información consultada, dejando constancia sobre el particular; por ende, el público no tendrá acceso a la información que se contenga.
+Son sujetos de este impuesto las personas físicas o morales que efectúen subdivisiones de terrenos, fraccionamientos, condominios o relotificaciones de predios urbanos, previo el cumplimiento de las disposiciones establecidas en el Código Urbano para el Estado de Querétaro.
 
-###### ARTÍCULO 27.
+El adquirente de un terreno resultante de una subdivisión será responsable solidario del pago de dicho impuesto.
 
-La Secretaría de Seguridad, implementará el sistema o subsistemas de base de datos criminalístico y de personal, utilizando para tal fin los medios tecnológicos idóneos que permitan la concentración única de la información generada que pueden ser objeto de consulta mediante la utilización del equipo y tecnología compatible y conforme al manual de operación que para tal efecto se expida por la Secretaría de Seguridad.
+###### Artículo 42.
 
-###### ARTÍCULO 28.
+Para el caso de las subdivisiones, se entiende que se está obligado al pago de este impuesto una vez que obtenidas las autorizaciones legales correspondientes se realicen total o parcialmente los actos jurídicos tendientes a individualizar una porción del todo.
 
-Atendiendo a las necesidades propias del Municipio, reglamentariamente se determinarán las bases para incorporar otros servicios o instrumentos que faciliten la integración de la información sobre seguridad pública y los mecanismos modernos que den agilidad y rapidez a su acceso.
+El plazo para realizar el pago de este impuesto estará sujeto a las mismas reglas que para el Impuesto sobre Traslado de dominio se establecen en el Artículo 31 de esta Ley.
 
-###### ARTÍCULO 29.
+Cuando de las autorizaciones respectivas se desprenda que resultan diversas fracciones, se podrá optar por realizar el pago de todas ellas en una sola exhibición o bien el realizar el pago por cada fracción conforme se vayan enajenando.
 
-La base de datos criminalísticos y de personal podrá incluir un sistema de recepción y emisión de la información que puedan ser utilizados para asuntos relacionados con protección civil, salud o cualesquier otro servicio público en beneficio de la comunidad.
+###### Artículo 43.
 
-###### ARTÍCULO 30.
+El impuesto por fraccionamientos y condominios se calculará aplicando la tasa que anualmente señale la Ley de Ingresos del Municipio de que se trate, tomando como base el valor que resulte mayor entre el valor comercial, catastral o de operación.
 
-El personal adscrito al Centro estará sujeto a la libre remoción; quedará sujeto a las evaluaciones de certificación y control de confianza establecidos por la Ley.
+El impuesto por subdivisión de inmuebles se calculará aplicando al valor de la fracción objeto de la subdivisión, una tasa equivalente al 50% de la que se fije para calcular el pago del impuesto de traslación de dominio.
 
-###### ARTÍCULO 31.
+###### Artículo 44.
 
-El personal adscrito al Centro deberá preservar la reserva y secrecía de los asuntos que conozca con motivo de las funciones que desempeñe.
+Para los efectos de este capítulo, se entiende por:
 
-###### ARTÍCULO 32.
+División o Fraccionamiento: La separación real o legal de una o más porciones pertenecientes a un predio.
 
-Con el objeto de garantizar el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, el personal adscrito al Centro, se sujetará a las siguientes obligaciones:
+Habrá división real de un inmueble cuando se realicen total o parcialmente obras materiales tendientes a individualizar una porción del todo, con el propósito de explotar su uso por un tercero.
 
-I. Conducirse con dedicación y disciplina, así como con apego al orden jurídico y respeto a las garantías individuales y derechos humanos reconocidos por la Constitución;
+Habrá división legal de un inmueble, cuando se celebre cualquier acto o contrato que implique enajenación de una o más porciones del mismo.
 
-II. Preservar la secrecía de los asuntos que por razón del desempeño de su función conozcan, en términos de las disposiciones aplicables;
+###### Artículo 45.
 
-III. Abstenerse de substraer, ocultar, alterar o dañar información o bienes en perjuicio de la autoridad municipal;
+Para determinar el valor del inmueble se estará en lo conducente, a lo dispuesto por los Artículos 27 al 30 de esta Ley.
 
-IV. Abstenerse, conforme a las disposiciones aplicables, de dar a conocer por cualquier medio a quien no tenga derecho, documentos, registros, imágenes, constancias, estadísticas, reportes o cualquier otra información reservada de la cual tenga conocimiento en ejercicio y con motivo de su empleo, cargo o comisión;
+###### Artículo 46.
 
-V. Atender con diligencia la solicitud de informe, queja o auxilio de la ciudadanía, o de sus propios subordinados, excepto cuando la petición rebase su competencia, en cuyo caso deberá turnarlo al área que corresponda;
+El Impuesto a que se refiere este capítulo se causa con base en la clasificación de fraccionamientos y condominios establecida en el Código Urbano del Estado de Querétaro.
 
-VI. Abstenerse de introducir, a las instalaciones del Centro bebidas embriagantes, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo cuando sean producto de detenciones, cateos, aseguramientos u otros similares, y que previamente exista la autorización correspondiente;
+### CAPÍTULO CUARTO. DEL IMPUESTO DE DIVERSIONES Y ESPECTÁCULOS PÚBLICOS
 
-VII. Abstenerse de consumir, dentro o fuera del Centro, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo los casos en que el consumo de los medicamentos controlados sea autorizado mediante prescripción médica, avalada por la dependencia municipal encargada de prestar los servicios médicos;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-VIII. Abstenerse de consumir en las instalaciones de sus instituciones o en actos del servicio, bebidas embriagantes;
+###### Artículo 47.
 
-IX. Abstenerse de realizar conductas que desacrediten su persona o la imagen del Centro, dentro o fuera del servicio;
+El Impuesto sobre diversiones y espectáculos públicos, se pagará preferentemente por adelantado en la Dependencia Encargada de la (sic) Finanzas Públicas que corresponda.
 
-X. No permitir que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio, y
+###### Artículo 48.
 
-XI. Los demás que establezcan las disposiciones legales aplicables.
+Cuando se trate de diversiones y espectáculos públicos temporales o transitorios, el impuesto se cubrirá simultáneamente con el pago de los derechos de la licencia que ampare su funcionamiento, expedida por la autoridad municipal.
 
-###### ARTÍCULO 33.
+Para los efectos de esta Ley se considerarán diversiones o espectáculos públicos temporales o transitorios, todos aquellos cuya duración no exceda de treinta días, en el territorio del municipio correspondiente.
 
-En el caso necesario se asignará una clave confidencial a las personas autorizadas para obtener la información de las bases de datos, a fin de que quede la debida constancia de cualquier movimiento o consulta.
+###### Artículo 49.
 
-###### ARTÍCULO 34.
+En los casos de espectáculos públicos permanentes, los Ayuntamientos podrán celebrar los convenios o arreglos que procedan y estimen convenientes, sobre las bases de una cuota mensual fija, cuyo monto se determinará tomando en cuenta entre otros, los factores siguientes:
 
-Al personal adscrito que quebrante la reserva de las bases de datos o proporcione información sobre las mismas, se le sujetará al procedimiento de responsabilidad administrativa o penal, según corresponda.
+I.- La importancia de la población o localidad en donde se lleve a cabo el espectáculo.
 
-###### ARTÍCULO 35.
+II.- La capacidad y categoría de la sala o el lugar donde el espectáculo se realice.
 
-A las autoridades Municipales competentes para aplicar el presente Reglamento y al personal adscrito a la Secretaría de Seguridad, le será asignada una clave de identificación o alias.
+III.- La periodicidad de las funciones.
 
-Las claves o alias asignados serán homologadas en los Municipios de Apodaca, Cadereyta Jiménez, Benito Juárez, Escobedo, García, Guadalupe, Monterrey, San Nicolás de los Garza, Santa Catarina y Santiago, Nuevo León.
+###### Artículo 50.
 
-# LIBRO QUINTO. DE LA FORMA PARA REGULAR LOS PROCESOS DE EVALUACION EN MATERIA DE SEGURIDAD MUNICIPAL
+El Presidente Municipal o la Dependencia Encargada de las Finanzas Públicas Municipales cuando lo estime conveniente, nombrará el o los inspectores necesarios para vigilar el cumplimiento de las disposiciones legales, con cargo a las empresas o promotores de espectáculos o diversiones públicas.
 
-###### ARTÍCULO 36.
+### CAPÍTULO QUINTO. DEL IMPUESTO PARA EDUCACIÓN Y OBRAS PÚBLICAS MUNICIPALES
 
-En este Libro se establece el procedimiento que debe seguirse para la evaluación del desempeño y control de confianza de los servidores públicos integrantes de la Secretaría de Seguridad.
+###### Artículo 51.
 
-###### ARTÍCULO 37.
+Es objeto de este Impuesto la realización de pagos por concepto de impuestos y derechos que establezca esta Ley.
 
-Las evaluaciones se practicarán individualmente, al inicio de la prestación del servicio y cuando menos dos veces al año.
+###### Artículo 52.
 
-###### ARTÍCULO 38.
+Son sujetos de este impuesto todos aquellos que realicen los pagos a que se refiere el artículo anterior, siendo la base de este impuesto el monto total de pagos por concepto de impuestos y derechos municipales.
 
-El titular de la Secretaría de Seguridad deberá someterse a las pruebas de evaluación, mismas que serán ordenadas por el Presidente Municipal, con la misma periodicidad que menciona el artículo anterior.
+###### Artículo 53.
 
-###### ARTÍCULO 39.
+Este impuesto se causará y pagará a razón de una cantidad equivalente al 25% sobre su base.
 
-El procedimiento de evaluación comprenderá las siguientes pruebas:
+###### Artículo 54.
 
-I. Evaluación Psicológica;
+El pago de este impuesto se hará en el momento en que se realicen los pagos de impuestos y derechos.
 
-II. Evaluación Médica y Toxicológica;
+## TÍTULO CUARTO. DE LOS DERECHOS
 
-III. Evaluación Poligráfica;
+### CAPÍTULO PRIMERO. DE LAS LICENCIAS
 
-IV. Investigación socio-económica, y
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-V. Las demás que ordene la Ley.
+###### Artículo 55.
 
-### CAPITULO UNICO. ESQUEMA DE METROPOL
+Para el funcionamiento de toda clase de giros mercantiles, industriales, de servicios, o de cualquier índole que traten de establecerse y operar en la jurisdicción de los diferentes Municipios, deberán contar con Licencia inicial, la que se expedirá por los Municipios, sin cobro alguno. Si una negociación opera en varios Municipios, deberá estar amparada por licencia de cada uno de ellos.
 
-###### ARTÍCULO 40.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-Las pruebas mencionadas en el artículo anterior, comprenderán los siguientes aspectos:
+###### Artículo 56.
 
-I. Los antecedentes personales y familiares;
+Las licencias de funcionamiento de todos los establecimientos mercantiles, industriales, de servicios o de cualquier otra índole que funcionen en la jurisdicción de los diferentes Municipios, tendrán vigencia por el año calendario en que se otorguen. Si una negociación opera en varios Municipios, deberá contar con su licencia en cada uno de ellos. Estas licencias se expedirán sin costo alguno.
 
-II. El comportamiento en el servicio;
+Sin perjuicio de los (sic) dispuesto en el párrafo que antecede, los establecimientos podrán funcionar provisionalmente al amparo de la licencia vigente; pero entre el día 1° de enero y el 31 de marzo del año siguiente, los interesados deberán iniciar la renovación de su licencia. Concluido este plazo sin la renovación respectiva, cesará definitivamente su vigencia.
 
-III. El rendimiento y la eficacia;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-IV. La preparación académica;
+###### Artículo 57.
 
-V. El nivel de conocimiento y comprensión de la problemática delictiva o de las infracciones administrativas de su entorno y del ámbito específico de su asignación;
+Se requerirá licencia sin costo alguno para el funcionamiento de los establecimientos de las actividades siguientes de acuerdo a su rama:
 
-VI. La capacidad de comunicación e interacción con la comunidad;
+I. Agricultura, ganadería, caza, pesca, silvicultura y servicios para la agricultura y la ganadería;
 
-VII. El conocimiento de los ordenamientos jurídicos, normativos y reglamentarios que rigen su actuación; y
+II. Minería y extracción de petróleo;
 
-VIII. Los demás que se determinen conforme a la Ley.
+III. Industrias manufactureras;
 
-###### ARTÍCULO 41.
+IV. Electricidad, distribución de gas natural y agua potable;
 
-El titular de la Secretaría de Seguridad notificará al interesado el resultado de las evaluaciones.
+V. Construcción y servicios relacionados con la misma;
 
-###### ARTÍCULO 42.
+VI. Comercio, restaurantes y hoteles;
 
-Las pruebas de evaluación se practicarán por especialistas en el ramo, designados por la autoridad municipal.
+VII. Transporte, comunicaciones y agencias de viajes;
 
-###### ARTÍCULO 43.
+VIII. Servicios financieros, inmobiliarios, alquiler de bienes muebles y servicios profesionales;
 
-Para la práctica de las pruebas de evaluación, la Administración designará fedatarios adscritos a la Administración Municipal.
+IX. Servicios comunales, sociales y personales;
 
-###### ARTÍCULO 44.
+X. Venta de bebidas alcohólicas, en todas sus presentaciones;
 
-El titular de la Secretaría de Seguridad, deberá informar a las autoridades competentes sobre los resultados de las evaluaciones que se practiquen.
+XI. Otras actividades semejantes a las anteriores.
 
-###### ARTÍCULO 45.
+###### Artículo 58.
 
-Las instrucciones que el titular de la Secretaría de Seguridad emita para la práctica de las pruebas de evaluación, deberán girarse por escrito y ser notificadas.
+Para llevar a cabo las actividades que se enumeran a continuación, los interesados deberán contar con la licencia de funcionamiento correspondiente,
 
-# LIBRO SEXTO. DE LA REGULACION DEL REGIMEN LABORAL DE LOS INTEGRANTES DE LAS INSTITUCIONES POLICIALES MUNICIPALES Y DE LAS PRESTACIONES DE SEGURIDAD SOCIAL
+I.- Sin cobro:
 
-###### ARTÍCULO 46.
+a) La celebración de bailes, gallos, serenatas, ferias populares, kermesses y otras fiestas similares, así como para la quema de fuegos artificiales.
 
-El Presente Libro establece las normas que regulan la relación de trabajo del personal adscrito a los Cuerpos de Seguridad Municipal, determinan la prescripción de las acciones, las prestaciones de seguridad social, sus derechos y obligaciones, estímulos, condecoraciones y sanciones.
+b) Para el funcionamiento de aparatos fono electromecánicos, electrónicos y otros accionados por monedas o fichas.
 
-### CAPITULO UNICO. DE LA INFORMACION
+c) Para el funcionamiento durante horas extraordinarias de los diferentes negocios o giros o bien, de funcionamiento dominical o días feriados.
 
-###### ARTÍCULO 47.
+d) Para el funcionamiento eventual de equipos de sonido para anuncios o propaganda comercial.
 
-Las acciones derivadas de la relación jurídica surgida entre el personal adscrito y el Municipio, prescriben en un año contado a partir del día siguiente a la fecha en que la obligación sea exigible, con las excepciones que se consignan en los artículos siguientes.
+II.- Con Cobro:
 
-###### ARTÍCULO 48.
+a) La venta eventual de bebidas embriagantes.
 
-Prescriben en un mes:
+b) Para funcionar en los mercados municipales o en las zonas de mercados que se establezcan, o en la vía pública.
 
-I. Las acciones del Municipio para separar al personal adscrito, para disciplinar sus faltas y para efectuar descuentos en sus salarios; y
+c) Para anuncios y promociones publicitarias que se fijen gráficamente o en cualquier forma que no sea por sonido, en las calles o en los exteriores de los edificios o en sus azoteas.
 
-II. Las acciones del personal adscrito para separarse del servicio.
+###### Artículo 59.
 
-En los casos de la fracción I, la prescripción corre a partir, respectivamente, del día siguiente a la fecha en que se tenga conocimiento de la causa de la separación o de la falta, desde el momento en que se compruebe el incumplimiento a los derechos u obligaciones o las pérdidas o averías imputables al personal adscrito.
+Para el uso de fierros quemadores, los interesados deberán registrarse, así como contar con la licencia correspondiente sin cobro alguno.
 
-En los casos de la fracción II, la prescripción corre a partir de la fecha en que se tenga conocimiento de la causa de separación.
+###### Artículo 60.
 
-###### ARTÍCULO 49.
+Para los efectos de esta Ley, se considerarán como comerciantes ambulantes a todos los que, sin tener establecimiento fijo, verifiquen operaciones de comercio.
 
-Prescriben en un mes las acciones del personal adscrito que sea separado del servicio.
-
-La prescripción corre a partir del día siguiente a la fecha de la separación.
-
-###### ARTÍCULO 50.
-
-Prescriben en dos años:
-
-I. Las acciones del personal adscrito para reclamar el pago de indemnizaciones por riesgo del servicio;
-
-II. Las acciones de los beneficiarios en los casos de muerte por riesgos del servicio.
-
-La prescripción corre, respectivamente, desde el momento en que se determine el grado de la incapacidad para el servicio o desde la fecha de la muerte del personal adscrito.
-
-### CAPITULO I. DEL CENTRO DE CONTROL
-
-###### ARTÍCULO 51.
-
-Para los efectos de la prescripción, los meses se regularán por el número de días que les corresponda. El primer día se contará completo, aún cuando no lo sea, pero el último debe ser completo y cuando sea feriado, no se tendrá por completa la prescripción sino cumplido el primero útil siguiente.
-
-###### ARTÍCULO 52.
-
-La jornada ordinaria de servicio se establecerá en el Contrato Individual de Trabajo y corresponderá a las necesidades del servicio y a la categoría del cargo.
-
-###### ARTÍCULO 53.
-
-El personal adscrito tendrá la obligación de prestar el servicio en jornadas extraordinarias, por razones de emergencia o de necesidad pública.
-
-###### ARTÍCULO 54.
-
-Las horas laboradas que excedan a la jornada ordinaria se pagaran a salario doble.
-
-## TITULO UNICO. DEL ESQUEMA DE METROPOL
-
-### CAPITULO II. DE LA CLASIFICACION DE LA INFORMACION EN MATERIA DE SEGURIDAD MUNICIPAL
-
-###### ARTÍCULO 55.
-
-Por cada seis días de servicio el personal adscrito disfrutará de un día de descanso.
-
-###### ARTÍCULO 56.
-
-El personal adscrito gozará de las siguientes prestaciones:
-
-I. Recibir un salario acorde con su rango y riesgo de las funciones que desempeñe;
-
-II. Quince días de vacaciones anuales;
-
-III. Dotación de uniformes y equipo necesario para el desempeño de su función;
-
-IV. Permisos con goce de sueldo, hasta por tres días continuos, por los siguientes motivos:
-
-a) Muerte del cónyuge o un familiar de primer grado en línea ascendente o descendente;
-
-b) Enfermedad grave de un familiar en primer grado en línea ascendente o descendente.
-
-V. Licencia sin goce de sueldo hasta por seis meses, para atender problemas familiares, contingencias o imprevistos que requieran su presencia. En ambos casos, la licencia debe solicitarse por escrito;
-
-VI. Servicio médico de calidad, para su esposa o concubina y sus hijos solteros menores de veinticinco años, siempre y cuando se encuentren estudiando, en los términos que señala la normatividad municipal en materia de prestación del servicio médico municipal;
-
-VII. Servicio médico de calidad, para sus hijos con capacidades diferentes que les impida desempeñar una actividad laboral;
-
-VIII. Seguro de vida en caso de muerte natural y accidental a favor de las personas que designe. La cuantía de este seguro se determinará por el Republicano Ayuntamiento;
-
-IX. Beca para sus hijos en los términos que acuerde el Republicano Ayuntamiento, para el caso de fallecimiento en el cumplimiento de su función;
-
-X. Prima vacacional equivalente al veinticinco por ciento sobre los salarios que les correspondan durante el período de vacaciones;
-
-XI. Prima de antigüedad de conformidad con las normas siguientes:
-
-a) La prima de antigüedad consistirá en el importe de doce días de salario, por cada año de servicio;
-
-b) La prima de antigüedad se pagará al personal adscrito que se separe voluntariamente de su empleo, siempre que haya cumplido quince años de servicio, por lo menos. Asimismo se pagará al que se separe por causa justificada.
-
-XII. Prima dominical equivalente al veinticinco por ciento sobre el salario diario tabulado;
-
-XIII. Aguinaldo equivalente a quince días de salario;
-
-XIV. Jubilación en los términos que se pacten en el contrato individual; y
-
-XV. Indemnización cuando sea separado injustamente del servicio y así lo determine la autoridad competente.
-
-###### ARTÍCULO 57.
-
-La indemnización consistirá en:
-
-I. Veinte días de salario por cada uno de los años de servicios prestados; y
-
-II. En el importe de tres meses de salario.
-
-###### ARTICULO 58.
-
-El Municipio quedará eximido de la obligación de indemnizar al personal adscrito:
-
-I. Cuando sea separado del servicio por causa justificada;
-
-II. Cuando no cumpla con los requisitos legales para la permanencia en el servicio; y
-
-III. Por la pérdida de la confianza.
-
-###### ARTÍCULO 59.
-
-El personal adscrito tendrá las siguientes obligaciones:
-
-I. Presentarse puntualmente para iniciar el servicio;
-
-II. Presentarse a sus labores uniformado y portando el equipo individual que según su categoría le corresponda;
-
-III. Mantener en buen estado el equipo y las armas que le sean asignados;
-
-IV. Usar el equipo y armamento que tenga asignado únicamente durante el horario en que preste su servicio;
-
-V. Cumplir con los programas de capacitación y adiestramiento;
-
-VI. Conducirse con verdad, cortesía, urbanidad, respeto, discreción, honestidad, obediencia y apego a la legalidad en el desempeño de sus funciones;
-
-VII. Cumplir con los principios constitucionales de legalidad, objetividad, eficacia, profesionalismo y honradez, respetando invariablemente los derechos humanos;
-
-VIII. Someterse a los exámenes a que se refiere la Ley y este Reglamento;
-
-IX. Presentarse a sus labores libre de efectos de drogas enervantes o estupefacientes o indicios de alcohol en la sangre;
-
-X. Reportar a su superior jerárquico los hechos, de los que teniendo conocimiento, constituyan transgresiones a las leyes, reglamentos o disposiciones administrativas;
-
-XI. Acatar las órdenes superiores de prestar el servicio para atender emergencias o por causa de necesidad pública; y
-
-XII. Las demás que señalen las leyes o reglamentos.
-
-Al causar baja deberá entregar toda la información, documentación, equipo, materiales, identificaciones, valores u otros recursos que hayan sido puestos bajo su responsabilidad o custodia mediante acta de entrega recepción.
-
-###### ARTÍCULO 60.
-
-Las sanciones por incumplimiento a las obligaciones del personal adscrito, serán las siguientes:
-
-I. El incumplimiento a la obligación contenida en la fracción I del artículo 58 se considerará falta de asistencia al servicio;
-
-II. El incumplimiento a la obligación contenida en la fracción II del artículo 58, será impedimento para prestar el servicio y se considerará como falta de asistencia al servicio;
-
-III. El incumplimiento a la obligación contenida en la fracción III del artículo 58 implicará responsabilidad por los daños que se ocasionen al equipo y al armamento;
-
-IV. El incumplimiento a la obligación contenida en la fracción IV del artículo 58 será causa de separación del servicio;
-
-V. El incumplimiento a la obligación contenida en la fracción V del artículo 58 será causa de separación del servicio;
-
-VI. El incumplimiento a la obligación contenida en la fracción VI del artículo 58 será causa de amonestación.
-
-VII. La reincidencia en un plazo de quince días naturales será causa de suspensión por tres días sin goce de sueldo. Acumular tres infracciones en un plazo de treinta días naturales será causa de suspensión por treinta días sin goce de sueldo; y
-
-VIII. El incumplimiento a las obligaciones contenidas en las fracciones VII, VIII, IX, X y XI del artículo 58 será causa de separación del cargo.
-
-TITIULO (SIC) SEGUNDO
-
-DE LA SUSPENSION Y SEPARACION DEL SERVICIO
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 61.
 
-Son causas de suspensión temporal de la obligación de prestar el servicio con goce de sueldo:
+Las licencias municipales se otorgarán una vez que se hayan satisfecho los requisitos señalados en los diversos ordenamientos aplicables, así como los señalados por las autoridades municipales competentes y previa solicitud del interesado presentada ante la Dependencia Encargada de las Finanzas Públicas Municipales y deberá contener los siguientes datos:
 
-I. La enfermedad contagiosa del personal adscrito; o
+I.- Razón social, nombre y dirección del solicitante.
 
-II. La incapacidad temporal ocasionada por un accidente o enfermedad que no constituya riesgo de trabajo.
+II.- Giro del negocio que pretenda establecer o se encuentre ya establecido.
 
-La incapacidad deberá ser validada por la Institución que preste los servicios de seguridad social en el Municipio.
+III.- Domicilio del negocio y,
+
+IV.- En general, todos los demás datos que sirvan para formar un conocimiento claro y exacto del giro o establecimiento, facultándose a la Dependencia Encargada de las Finanzas Públicas Municipales recabe y verifique los datos informativos que a su juicio sean necesarios.
 
 ###### Artículo 62.
 
-Son causas de suspensión temporal de las obligaciones de prestar el servicio sin goce de sueldo:
+Las solicitudes de licencias municipales para diversiones y espectáculos públicos, además de los requisitos solicitados en el artículo anterior de esta Ley deberán, presentar los datos siguientes:
 
-I. La sujeción a proceso penal;
+I.- Clase de espectáculo
 
-II. Estar sujeto a procedimiento de responsabilidad administrativa;
+II.- Lugar, fecha y hora en que deberá verificarse.
 
-III. El cumplimiento de los servicios y el desempeño de los cargos mencionados en el artículo 5° de la Constitución Política de los Estados Unidos Mexicanos y el de las obligaciones consignadas en el artículo 31, fracción III de la misma Constitución;
-
-IV. La falta de los documentos que exijan las leyes y reglamentos, necesarios para la prestación del servicio, cuando sea imputable al personal adscrito; y
-
-V. Las demás que señale la Ley.
+III.- Clasificación de las localidades, con la expresión del número máximo de espectadores que pueden acomodarse en cada una de ellas.
 
 ###### Artículo 63.
 
-La suspensión surtirá efectos:
+Las solicitudes de licencias municipales para rifas, loterías y demás juegos permitidos por la Ley, deberán contener, además de los determinados en el artículo 62, los siguientes:
 
-I. En los casos de la fracción I del artículo 61, desde el momento en que el Municipio tenga conocimiento de que el personal adscrito se encuentra enfermo;
+I.- Lugar en donde se llevará a cabo la lotería o rifa, o en donde operarán los juegos que pretendan establecerse.
 
-II. En los casos de la fracción II del artículo 61, desde el momento en que se produzca la incapacidad para el servicio;
+II.- Fecha de la celebración de la lotería o rifa, o de las funciones de que se trate, y
 
-III. Tratándose de la fracción I del artículo 62, desde el momento en que el personal adscrito acredite estar a disposición de la autoridad judicial;
+III.- En su caso:
 
-IV. Tratándose de la fracción II del artículo 62, desde el momento en que la autoridad competente considere necesario decretar la suspensión;
+a) Número y valor de los boletos, certificados o constancias que se otorguen, si se trata de lotería o rifa;
 
-V. En los casos de la fracción III del artículo 62, desde la fecha en que deban prestarse los servicios o desempeñarse los cargos; y
+b) Importe de la entrada al espectáculo, si se trata de juegos permitidos por la Ley.
 
-VI. En los casos de la fracción IV del artículo 62, desde el momento que sea requerido.
+c) Número de mesas de billar o boliches que se pretenda explotar e importe de la cuota que se cobrará por hora y
+
+d) Número de mesas de juegos mecánicos, electromecánicos o de aparatos fonoelectromecánicos e importe que se cobrará por accionarlos.
+
+La autoridad municipal en todos los casos relacionados con loterías, rifas y juegos permitidos por la Ley, como requisito indispensable para el otorgamiento de la licencia municipal, exigirá la presentación de la autorización o permiso otorgado por la Secretaría de Gobernación.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 64.
 
-El personal adscrito deberá regresar al servicio:
+Para el otorgamiento de licencia municipal de funcionamiento de establecimientos donde se expendan bebidas alcohólicas o para la revalidación de sus licencias, la autoridad municipal requerirá al interesado, la licencia de funcionamiento expedida por la Secretaría de Gobierno, la licencia sanitaria, cuando ésta no se encuentre prohibida por disposición de orden federal y demás requisitos establecidos en las Leyes estatales.
 
-I. En los casos de las fracciones I y II del artículo 61 a partir del día siguiente de la fecha en que termine el período fijado por la dependencia encargada de la seguridad social o antes si desaparece la incapacidad para el servicio, sin que la suspensión pueda exceder del término fijado en la Ley del Seguro Social para el tratamiento de las enfermedades que no sean consecuencia de un riesgo de trabajo;
+###### Artículo 65.
 
-II. En los casos de las fracciones I y II del artículo 62, hasta que cause ejecutoria la resolución correspondiente;
+Recibida la solicitud para el otorgamiento o revalidación de la licencia municipal de funcionamiento, el Encargado de las Finanzas Públicas Municipales ordenará la práctica de una visita de inspección al negocio de que se trate, con objeto de:
 
-III. En el caso de la fracción III del artículo 62, hasta por un período de seis años; y
+I.- Verificar los datos asentados en la solicitud.
 
-IV. En los casos de la fracción IV del artículo 62, dentro de los quince días siguientes a la terminación de la causa de la suspensión.
+II.- Determinar el ramo, giro, artículos, efectos y servicios motivo de la negociación, que proceda gravar en su caso con impuestos y/o derechos.
 
-###### ARTÍCULO 65.
+III.- Si se han cumplido todos y cada uno de los requisitos, de los reglamentos y de las disposiciones legales que regulen o controlen el funcionamiento de los diferentes negocios.
 
-Serán causas por las cuales causará baja el personal adscrito, las siguientes:
+Con el resultado de la visita de inspección y tratando de salvaguardar en todo los intereses de la sociedad, se concederá o negará el otorgamiento o la revalidación de la licencia solicitada.
 
-I. Por muerte o incapacidad permanente;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-II. Faltar a sus labores por más de tres ocasiones en un período de treinta días naturales, sin permiso o causa justificada;
+###### Artículo 66.
 
-III. Recibir sentencia condenatoria por la comisión de delito intencional;
+Las licencias que se concedan tendrán vigencia anual, siempre y cuando subsista la misma situación del giro mercantil, industrial, de servicios, comercio ambulante o negociación de cualquier otra índole; cualquier modificación en la licencia otorgada, el contribuyente deberá presentar el aviso correspondiente ante la dependencia encargada de las finanzas públicas municipales, quien emitirá la autorización correspondiente, si el interesado reúne los requisitos que señale la autoridad municipal y los ordenamientos aplicables.
 
-IV. Por propia voluntad;
+Las licencias para el ejercicio de actividades permanentes deberán ser revalidadas anualmente, a petición de los interesados, por la autoridad municipal que las concedió, previo el pago de derechos en caso de ser aprobado el refrendo.
 
-V. Por negarse a someterse a los exámenes toxicológicos;
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-VI. Por no acreditar los exámenes de control de confianza;
+En el caso de suspensión de actividades el contribuyente deberá presentar ante la dependencia encargada de las finanzas públicas municipales el aviso de baja del padrón; en caso de que el contribuyente no presente dicho aviso, la dependencia encargada de las finanzas públicas municipales, procederá a realizar una visita de verificación y levantará informe que contenga la situación que guarda el inmueble, procediendo en caso de no existir el negocio, a dar de baja del padrón al contribuyente y a la aplicación de multas correspondientes.
 
-VII. Por negarse a prestar el servicio para atender emergencias o por razones de necesidad pública;
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-VIII. Por acumular cuatro infracciones en un plazo de noventa días naturales;
+A partir del 1° de enero del año siguiente, los interesados deberán iniciar la renovación de su licencia, debiéndose concluir el trámite el 31 de marzo del mismo año, a más tardar; en casos excepcionales, la autoridad podrá autorizar licencias provisionales.
 
-IX. Por jubilación;
+###### Artículo 67.
 
-X. Por presentarse a sus labores bajo los efectos de drogas enervantes, estupefacientes o de bebidas alcohólicas;
+Para la revalidación de las licencias, que deberá hacerse precisamente en el curso del mes de enero de cada año, se tomará en cuenta la inspección que debe de practicarse al establecimiento de que se trate, por conducto de la dependencia encargada de las finanzas públicas municipales, en caso de que ésta lo estime conveniente.
 
-XI. Por disparar el arma de fuego sin causa justificada;
+###### Artículo 68.
 
-XII. Por incumplimiento de los requisitos legales señalados en la Ley;
+Para ser otorgada una licencia inicial o la revalidación anual, los interesados deberán empadronarse en la dependencia encargada de las finanzas públicas municipales, teniendo la obligación de proporcionar por escrito, todos los datos que para este objeto se les soliciten.
 
-XIII. Por infringir, tolerar o permitir actos de tortura o tratos inhumanos y crueles;
+###### Artículo 69.
 
-XIV. Por conducirse con falsedad, falta de respeto, indiscreción, y desobediencia;
+Una vez que haya sido empadronado el causante, deberá cubrir en la Dependencia Encargada de las Finanzas Públicas Municipales, los derechos que le fije la correspondiente Ley de Ingresos.
 
-XV. Por imposibilidad del personal adscrito de cumplir con sus obligaciones, por causas que le sean imputables;
+###### Artículo 70.
 
-XVI. Por poner en peligro la vida, la integridad o las propiedades de los particulares o de sus compañeros por causa de imprudencia, descuido, negligencia, o abandono del servicio;
+Hecho el pago a que se refiere el artículo anterior, se le entregará al causante constancia de la licencia, que podrá consistir en una placa metálica, o un tarjetón que contendrá los datos siguientes:
 
-XVII. Por revelar claves del servicio, información secreta o reservada de la que tenga conocimiento, salvo en los casos autorizados por la ley;
+a. Nombre del Municipio.
 
-XVIII. Por adquirir otra nacionalidad;
+b. Domicilio del establecimiento.
 
-XIX. Por presentar documentación alterada o falsa sobre los hechos de los que tenga conocimiento o en los que haya intervenido;
+c. Clave Única el Registro Poblacional CURP o Registro Federal de Contribuyentes para personas morales.
 
-XX. Por aplicar a sus subalternos en forma dolosa o reiterada, correctivos disciplinarios sin tener facultad para ello o sin causa justificada;
+d. Año en el cual se expide
 
-XXI. Por no cumplir con el perfil necesario para ingresar al servicio;
+e. Duración de la Licencia.
 
-XXII. Por exigir a sus subalternos, dinero o cualquier otro tipo de dádiva para permitirles el goce de las prestaciones que les corresponden;
+f. Número de la cuenta que le corresponde en el padrón.
 
-XXIII. Por ocasionar intencionalmente, durante el desempeño del servicio perjuicios materiales, en los edificios, obras, maquinaria, instrumentos y demás objetos relacionados con el servicio;
+g. Giro gravado, y en su caso, giros autorizados.
 
-XXIV. Por ocasionar los perjuicios de que habla la fracción anterior siempre que sean graves, sin dolo, pero con negligencia tal, que ella sea la causa única del perjuicio;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-XXV. Cuando en los procesos de promoción concurran las siguientes circunstancias:
+h) Razón social o nombre del contribuyente;
 
-a. Si hubiere sido convocado a tres procesos consecutivos de promoción sin que haya participado en los mismos, o que habiendo participado en dichos procesos, no hubiese obtenido el grado inmediato superior que le correspondería por causas imputables a él;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-b. Que haya alcanzado la edad máxima correspondiente a su jerarquía, de acuerdo con lo establecido en las disposiciones aplicables, y
+i) Horario de funcionamiento; y
 
-c. Que del expediente del integrante no se desprendan méritos suficientes para conservar su permanencia.
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-XXVI. Por cometer actos inmorales durante el desempeño del servicio;
+j) Fecha y firma del Presidente Municipal y/o Encargado de las Finanzas Públicas Municipales.
 
-XXVII. Por negarse a adoptar las medidas preventivas o a seguir los procedimientos indicados para evitar accidentes o enfermedades;
+Los causantes estarán obligados a tener siempre en lugar visible de su establecimiento, la licencia municipal.
 
-XXVIII. Por sentencia ejecutoria que le imponga pena de prisión; y
+###### Artículo 71.
 
-XXIX. Las demás que señale la Ley o éste Reglamento.
+La licencia anual que se otorgue para el ejercicio de cualquiera de las actividades a que se refieren el presente Título requiere que previamente la soliciten los interesados y que paguen los derechos correspondientes. Su expedición se hará constar en una credencial que deberá portarla el interesado siempre que ejerza la actividad autorizada y contendrá:
 
-TITIULO (SIC) TERCERO
+a. La fotografía del interesado.
 
-DE LA CARRERA POLICIAL Y DE LA PROFESIONALIZACION
+b. Su nombre y dirección.
 
-###### ARTÍCULO 66.
+c. Año para el cual se expide.
 
-La Carrera Policial es una actividad profesional regulada por los lineamientos que definen los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento; así como la separación o baja del servicio de los integrantes de las Instituciones Policiales.
+d. La actividad que ampare.
 
-###### ARTÍCULO 67.
+###### Artículo 72.
 
-El personal adscrito se organizará bajo un esquema de jerarquización terciaria, cuya célula básica se compondrá invariablemente por tres elementos.
+Las licencias las expedirá la autoridad municipal, a solicitud de los interesados y previo el pago de los derechos correspondientes. En ellas se deberá especificar el motivo por el que se expide y las actividades que amparan, así como el tiempo en que estarán en vigor y todos los datos que permitan a los inspectores municipales y a otras autoridades, tener conocimiento exacto de la autorización concedida.
 
-Los titulares de las categorías jerárquicas estarán facultados para ejercer la autoridad y mando policial en los diversos cargos o comisiones.
+###### Artículo 73.
 
-###### ARTÍCULO 68.
+Todos los dueños o encargados de establecimientos mercantiles o industriales o de cualquier otra índole, que operen así como los que practiquen cualquier actividad para cuyo ejercicio la exija la Ley, sin la licencia correspondiente, serán sancionados por la autoridad municipal con la clausura del establecimiento o la suspensión de actividades, según el caso; debiendo siempre asegurar previamente el interés fiscal.
 
-La carrera policial comprende el grado policial, la antigüedad, las insignias, condecoraciones, estímulos y reconocimientos obtenidos, el resultado de los procesos de promoción, así como el registro de las correcciones disciplinarias y sanciones que, en su caso, haya acumulado el integrante. Se regirá por las normas siguientes:
+###### Artículo 74.
 
-I. La Administración Municipal deberá consultar los antecedentes de cualquier aspirante en el Registro Nacional antes de que se autorice su ingreso a las mismas;
+Se declara de interés público que los establecimientos y las actividades a que se refiere el artículo anterior, respectivamente, sólo operen o se ejerzan con la licencia respectiva, vigilados y controlados por las autoridades municipales.
 
-II. Todo aspirante deberá tramitar, obtener y mantener actualizado el Certificado Único Policial, que expedirá el centro de control de confianza respectivo;
+### CAPÍTULO SEGUNDO. POR LOS SERVICIOS PRESTADOS POR DIVERSOS CONCEPTOS RELACIONADOS CON CONSTRUCCIONES Y URBANIZACIONES
 
-III. Ninguna persona podrá ingresar a los Cuerpos de Seguridad si no ha sido debidamente certificado y registrado en el Sistema;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-IV. Sólo ingresarán y permanecerán en los Cuerpos de Seguridad, aquellos aspirantes e integrantes que cursen y aprueben los programas de formación, capacitación, profesionalización y certificación;
+###### Artículo 75.
 
-V. La permanencia de los integrantes en los Cuerpos de Seguridad está condicionada al cumplimiento de los requisitos que determine la Ley y el presente Reglamento;
+Por los servicios prestados por diversos conceptos relacionados con construcciones y urbanizaciones en las clasificaciones que establezca el Código Urbano, los reglamentos municipales y la respectiva Ley de Ingresos de los Municipios se causarán y pagarán los derechos que al efecto se establezcan en la citada Ley de Ingresos.
 
-VI. Los méritos de los integrantes de los Cuerpos de Seguridad serán evaluados por las instancias encargadas de determinar las promociones y verificar que se cumplan los requisitos de permanencia, señaladas en las leyes respectivas;
+I. Por licencias de construcción
 
-VII. Para la promoción de los integrantes de los Cuerpos de Seguridad se deberán considerar, por lo menos, los resultados obtenidos en los programas de profesionalización, los méritos demostrados en el desempeño de sus funciones y sus aptitudes de mando y liderazgo; y
+II. Por licencias de construcción de bardas, tápiales y demoliciones.
 
-VIII. Los integrantes podrán ser cambiados de adscripción, con base en las necesidades del servicio.
+III. Por alineamiento, nomenclatura y número oficial.
 
-###### ARTÍCULO 69.
+IV. Por revisión de proyecto arquitectónico.
 
-Las jerarquías que integran la carrera policial serán las siguientes:
+V. Por la revisión a proyecto de fraccionamientos.
 
-I. Comisario;
+VI. Por el dictamen técnico sobre autorización del proyecto, avance de obra de urbanización o venta provisional de lotes de fraccionamientos y condominios.
 
-II. Inspector;
+VII. Por el dictamen técnico para la renovación de licencia de fraccionamientos y condominios
 
-III. Subinspector;
+VIII. Por la relotificación de fraccionamientos y condominios.
 
-IV. Oficial;
+IX. Por ajustes de medidas de los fraccionamientos y condominios.
 
-V. Suboficial;
+X. Por reposición de copias de planos de fraccionamientos y condominios.
 
-VI. Policía Primero;
+XI. Por constancias de fraccionamientos emitidos por la dependencia municipal competente.
 
-VII. Policía Segundo;
+XII. Por la certificación de documentos o planos de fraccionamientos y condominios.
 
-VIII. Policía Tercero; y
+XIII. Por la revisión a proyectos para condominios.
 
-IX. Policía Raso.
+XIV. Por la emisión de la declaratoria de régimen de propiedades condominio.
 
-###### ARTÍCULO 70.
+XV. Por servicio de apoyo técnico
 
-La permanencia es el resultado del cumplimiento constante de los requisitos establecidos en la Ley y en el (sic) éste Reglamento para continuar en el servicio activo de las Instituciones Policiales. Son requisitos de ingreso y permanencia en las Instituciones Policiales, los siguientes:
+XVI. Por concepto de licencia provisional de construcción.
 
-A. De Ingreso:
+XVII. Por supervisión de obras de urbanización en fraccionamientos.
 
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles, sin tener otra nacionalidad;
+XVIII. Por carta urbana del plan de desarrollo.
 
-II. Ser de notoria buena conducta, no haber sido condenado por sentencia ejecutoria por delito doloso, ni estar sujeto a proceso penal;
+### CAPÍTULO TERCERO. POR EL SERVICIO DE AGUA POTABLE Y SANEAMIENTO
 
-III. En su caso, tener acreditado el Servicio Militar Nacional;
+###### Artículo 76.
 
-IV. Acreditar que ha concluido los estudios de enseñanza media básica;
+El servicio de agua potable y saneamiento corresponde al Municipio.
 
-V. Aprobar el concurso de ingreso y los cursos de formación;
+###### Artículo 77.
 
-VI. Contar con los requisitos de edad y el perfil físico, médico y de personalidad que exijan las disposiciones aplicables;
+Los municipios podrán establecer convenios de colaboración con el Gobierno del Estado para el otorgamiento del servicio y cobro por el suministro de agua potable y saneamiento, sin detrimento de las facultades que la Constitución Política de los Estados Unidos Mexicanos le otorga a los Municipios.
 
-VII. Aprobar los procesos de evaluación de control de confianza;
+###### Artículo 78.
 
-VIII. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+Cuando el Municipio preste el Servicio de agua potable, alcantarillado y saneamiento, las tarifas y cuotas correspondientes deberán estar incluidas en su respectiva Ley de Ingresos.
 
-IX. No padecer alcoholismo;
+###### Artículo 79.
 
-X. Someterse a exámenes para comprobar la ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+Los derechos respectivos se causarán sobre el consumo que registren los aparatos medidores correspondientes y en su caso las cuotas fijas que al efecto se estipulen en los respectivos convenios y con base en las tarifas que al efecto se establezcan, conforme a la Legislación aplicable.
 
-XI. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
+###### Artículo 80.
 
-XII. Cumplir con los deberes establecidos en la Ley y éste Reglamento; y
+Para los efectos del artículo anterior, los verificadores de consumo de agua llevarán a cabo la lectura de los medidores, en los periodos al efecto establecidos por el prestador del servicio, haciendo constar el consumo que se hubiere efectuado en el periodo.
 
-XIII. Los demás que establezcan otras disposiciones legales aplicables.
+### CAPÍTULO CUARTO. POR EL SERVICIO DE ALUMBRADO PÚBLICO
 
-B. De Permanencia:
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-I. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso;
+###### Artículo 81.
 
-II. Mantener actualizado su Certificado Único Policial;
+Serán sujetos del pago de derecho de alumbrado público, los propietarios o poseedores de predios del Municipio que corresponda, que se beneficien con el servicio de alumbrado público.
 
-III. No superar la edad máxima de retiro que establezcan las disposiciones aplicables;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-IV. Acreditar que ha concluido los estudios de enseñanza media básica;
+###### Artículo 82.
 
-V. Aprobar los cursos de formación, capacitación y profesionalización;
+Los Ayuntamientos están facultados para determinar la forma del cobro de este derecho siendo de manera directa ó mediante el convenio que establezcan con la Comisión Federal de Electricidad.
 
-VI. Aprobar los procesos de evaluación de control de confianza;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-VII. Aprobar las evaluaciones del desempeño;
+###### Artículo 83.
 
-VIII. Participar en los procesos de promoción o ascenso que se convoquen, conforme a las disposiciones aplicables;
+Para el caso que la Ley de Ingresos del Municipio sea omisa o el Ayuntamiento así lo acuerde, la dependencia encargada de las finanzas públicas correspondiente, establecerá la liquidación del importe de este derecho conforme a lo siguiente:
 
-IX. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+El derecho será calculado a cada propietario o poseedor de predios, de acuerdo a la superficie del terreno, superficie de la construcción, uso o destino del predio y valor catastral del inmueble para lo cual se definen los siguientes conceptos:
 
-X. No padecer alcoholismo;
+A. Coeficiente expresado en días de salario mínimo de la zona por metro cuadrado, aplicado por predio a la superficie del terreno;
 
-XI. Someterse a exámenes para comprobar la ausencia de alcoholismo;
+B. Coeficiente expresado en días de salario mínimo de la zona por metro cuadrado, aplicado por predio a la superficie construida;
 
-XII. Someterse a exámenes para comprobar el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+C. Coeficiente expresado en un número que se aplicará por predio sobre la base del valor catastral del mismo para aquellos inmuebles que tengan una superficie construida mayor al 5% de la superficie del terreno;
 
-XIII. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
+D. Coeficiente expresado en un número que se aplicará por predio sobre la base el valor catastral del mismo para aquellos inmuebles en donde se realicen actividades industriales, comerciales o de servicios. Se excluyen de este cargo a aquellos predios de uso mixto habitacional-comercial o habitacional-artesanal cuyo avalúo catastral no exceda el equivalente a 6000 días de salario mínimo.
 
-XIV. No ausentarse del servicio, sin causa justificada, por un periodo de tres días consecutivos o de cuatro días dentro de un término de treinta días, y
+La base del derecho por servicio de alumbrado público será el resultado de sumar el coeficiente "A" por el número de metros cuadrados del terreno, más el coeficiente "B" multiplicado por el número de metros cuadrados de superficie construida, más el coeficiente "C" multiplicado por el valor catastral del inmueble; cuando se trate de inmuebles de uso industrial, comercial o de servicios, se sumará adicionalmente el coeficiente "D" multiplicado por el valor catastral del inmueble, resultando la cantidad anual a pagar, pudiendo cobrar en forma mensual, bimestral o anual.
 
-XV. Las demás que establezcan las disposiciones legales aplicables.
+Se define el valor de los coeficientes así:
 
-###### ARTÍCULO 71.
+COEFICIENTE VALOR DEL COEFICIENTE EXPRESADO
 
-La edad límite para permanecer en el activo de la policía preventiva, policía de transito y grupos tácticos de intervención o reacción es la siguiente:
+EN DÍAS DE SALARIO MÍNIMO
 
-Categoría Años
+A 0.2
 
-I. Para la categoría Policía Raso 52
+B 0.15
 
-II. Para la categoría Policía Tercero 53
+C 0.0001
 
-III. Para la categoría Policía Segundo 54
+D 0.0035
 
-IV. Para la categoría Policía Primero 56
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-V. Para la Suboficiales 58
+###### Artículo 84.
 
-VI. Para los Oficiales 60
+Los propietarios o poseedores de inmuebles de uso habitacional, industrial, comercial o de servicios enterarán el pago del derecho en los plazos y términos que acuerde el Ayuntamiento.
 
-VII. Para los Subinspectores 61
+### CAPÍTULO QUINTO. POR LOS SERVICIOS PRESTADOS POR EL REGISTRO CIVIL
 
-VIII. Para los Inspectores 63
+###### Artículo 85.
 
-IX. Para los Comisarios 65
+Ningún acto del Registro Civil se realizará si no se cubre previamente el importe de los derechos que señale la Ley.
 
-###### ARTÍCULO 72.
+###### Artículo 86.
 
-La Secretaría de Seguridad como responsable del Servicio de Carrera Policial fomentará la vocación de servicio mediante la promoción y permanencia en las Instituciones Policiales para satisfacer las expectativas de desarrollo profesional de sus integrantes.
+A petición de los interesados el Oficial del Registro Civil podrá trasladarse a los domicilios de los solicitantes, para celebrar matrimonios y para llevar a cabo el registro de nacimientos, siempre y cuando se cubran previamente los derechos que fije la Ley de Ingresos de los Municipios.
 
-###### ARTICULO 73.
+En estos casos los Oficiales actuarán con el Secretario respectivo, quedando bajo su exclusiva responsabilidad las formas del registro que deben sacar de las oficinas correspondientes.
 
-La promoción es el acto mediante el cual se otorga a los integrantes de los Cuerpos de Seguridad, el grado inmediato superior al que ostenten, dentro del orden jerárquico previsto en las disposiciones legales aplicables.
+###### Artículo 87.
 
-Las promociones sólo podrán conferirse atendiendo a la normatividad aplicable y cuando exista una vacante para la categoría jerárquica superior inmediata correspondiente a su grado.
+Por los servicios extraordinarios de que habla el artículo anterior, los Oficiales y Secretarios percibirán la cuarta parte de lo que se recaude por concepto de derechos, excepto el Impuesto para Educación y Obras Públicas Municipales de los que señale la Ley de Ingresos del Municipio, participación que le será pagada mensualmente por la Dependencia Encargada de las Finanzas Públicas, distribuyéndose el 66% para el Oficial y el 34% para el Secretario.
 
-Al personal que sea promovido, le será ratificada su nueva categoría jerárquica mediante la expedición de la constancia de grado correspondiente.
+###### Artículo 88.
 
-Para ocupar un grado dentro de las Instituciones Policiales, se deberán reunir los requisitos establecidos por la Ley y éste Reglamento.
+Por los siguientes servicios ordinarios se causará y pagará lo establecido en la correspondiente Ley de Ingresos de los Municipios:
 
-###### ARTÍCULO 74.
+I.- Actas de nacimiento o reconocimiento de hijos.
 
-La antigüedad del personal adscrito se clasificará y computará de la siguiente forma:
+II.- Registro extemporáneo, de nacimiento
 
-I. Antigüedad en el servicio, a partir de la fecha de su ingreso a los Cuerpos de Seguridad, y
+III.- Legitimación o reconocimiento de personas.
 
-II. Antigüedad en el grado, a partir de la fecha señalada en la constancia o patente de grado correspondiente.
+IV.- Asentamiento de actas de adopción o tutela.
 
-La antigüedad contará hasta el momento en que esta calidad deba determinarse para los efectos de la Carrera Policial.
+V.- Matrimonios efectuados en el juzgado
 
-### CAPITULO III. DE LA RECEPCION DE LA INFORMACION
+VI.- Divorcios administrativos.
 
-###### ARTÍCULO 75.
+VII.- Inscripción de ejecutorias que declaran ausencia de una persona, la presunción de su muerte, incapacidad legal o rectificación.
 
-El personal adscrito a los Cuerpos de Seguridad que haya alcanzado la edad límite para la permanencia, previstas en las disposiciones que los rijan, podrán ser reubicados, a consideración de las instancias, en otras áreas de los servicios de las propias instituciones.
+VIII.- Actas de defunción.
 
-### CAPITULO I. DEL PERSONAL ADSCRITO AL CENTRO DE CONTROL
+IX.- Anotaciones marginales
 
-###### ARTÍCULO 76.
+X.- Corrección de actas
 
-La certificación es el proceso mediante el cual los integrantes de los Cuerpos de Seguridad se someten a las evaluaciones periódicas establecidas por el Centro de Control de Confianza correspondiente, para comprobar el cumplimiento de los perfiles de personalidad, éticos, socioeconómicos y médicos, en los procedimientos de ingreso, promoción y permanencia.
+XI.- Búsqueda de archivos y/o certificaciones de inexistencia de documentos.
 
-El Municipio mantendrá en servicio únicamente al personal adscrito que cuente con el requisito de certificación expedido por su centro de control de confianza respectivo.
+###### Artículo 89.
 
-###### ARTÍCULO 77.
+Por los siguientes servicios extraordinarios se causará y pagará lo establecido en la correspondiente Ley de Ingresos de los Municipios:
 
-La certificación tiene por objeto:
+I.- En las oficinas, fuera de horario normal.
 
-A.- Reconocer habilidades, destrezas, actitudes, conocimientos generales y específicos para desempeñar sus funciones, conforme a los perfiles aprobados por el Consejo Nacional;
+a) Matrimonios
 
-B.- Identificar los factores de riesgo que interfieran, repercutan o pongan en peligro el desempeño de las funciones policiales, con el fin de garantizar la calidad de los servicios, enfocándose a los siguientes aspectos del personal adscrito a los Cuerpos de Seguridad:
+b) Matrimonios en días inhábiles
 
-I. Cumplimiento de los requisitos de edad y el perfil físico, médico y de personalidad que exijan las disposiciones aplicables;
+c) Los demás actos cada uno
 
-II. Observancia de un desarrollo patrimonial justificado, en el que sus egresos guarden adecuada proporción con sus ingresos;
+II.- A domicilio
 
-III. Ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+a) Matrimonios horas hábiles de oficina
 
-IV. Ausencia de vínculos con organizaciones delictivas;
+b) Matrimonios en horas inhábiles de oficina
 
-V. Notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal y no estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público, y
+c) Demás actos horas hábiles cada uno
 
-VI. Cumplimiento de los deberes establecidos en la Ley y en éste Reglamento
+d) Demás actos horas inhábiles cada uno
 
-###### ARTÍCULO 78.
+###### Artículo 90.
 
-La Profesionalización es el proceso permanente y progresivo de formación que se integra por las etapas de formación inicial, actualización, promoción, especialización y alta dirección, para desarrollar al máximo las competencias, capacidades y habilidades de los integrantes de los Cuerpos de Seguridad.
+Por las siguientes Certificaciones se causará y pagará lo establecido en la correspondiente Ley de Ingresos de los Municipios:
 
-Los planes de estudio para la Profesionalización se integrarán por el conjunto de contenidos estructurados en unidades didácticas de enseñanza aprendizaje que estarán comprendidos en el programa rector que se aprueben conforme a las disposiciones legales aplicables.
+I.- Por copia certificada de cualquier acta ordinaria
 
-###### ARTÍCULO 79.
+II.- Por copia certificada de cualquier acta urgente
 
-Los requisitos para participar en la promoción serán los siguientes:
+III.- Certificación de firmas por hoja
 
-I. Perfil y capacidad;
+### CAPÍTULO SEXTO. POR LOS SERVICIOS PRESTADOS POR AUTORIDADES DE SEGURIDAD PÚBLICA, POLICIA Y TRÁNSITO MUNICIPAL
 
-II. Acreditar la aprobación de los exámenes:
+###### Artículo 91.
 
-a) De aptitud psicológica;
+Por los servicios prestados por autoridades de seguridad pública, policía y tránsito municipal se causará y pagará lo establecido en la correspondiente Ley de Ingresos del municipio que se trate.
 
-b) Médico toxicológico; y
+### CAPÍTULO SÉPTIMO. POR LOS SERVICIOS PÚBLICOS MUNICIPALES
 
-c) De conocimientos generales.
+###### Artículo 92.
 
-III. Antigüedad en la corporación;
+Por los siguientes servicios públicos prestados por la dependencia encargada de la prestación de servicios públicos municipales se causarán y pagarán los derechos que al efecto se establezcan en la correspondiente Ley de Ingresos de los Municipios.
 
-IV. Conducta;
+I.- Por arreglo, conservación y mantenimiento de la vía pública.
 
-V. Méritos especiales;
+II.- Por el arreglo de predios baldíos.
 
-VI. Aprobar los cursos correspondientes.
+III.- Por depositar residuos sólidos en el tiradero municipal o relleno sanitario.
 
-Para la promoción, se deberán considerar además, los resultados obtenidos en los programas de profesionalización, los méritos demostrados en el desempeño de sus funciones y sus aptitudes de mando y liderazgo; así mismo el aspirante deberá tener actualizado el Certificado Único Policial, que expedirá el Centro de Control de Confianza respectivo.
+IV.- Por recolección domiciliaria de basura no doméstica
 
-###### ARTÍCULO 80.
+V.- Por los servicios de vigilancia.
 
-La conducta del personal adscrito será acreditada de la siguiente forma:
+VI.- Por otros servicios prestados por la dependencia se deberán especificar en la Ley de Ingresos del Municipio.
 
-I. Conducta Profesional: Será acreditado para los efectos de este Reglamento, con el kardex del personal adscrito; y
+### CAPÍTULO OCTAVO. POR LOS SERVICIOS PRESTADOS POR PANTEONES MUNICIPALES
 
-II. Conducta Ciudadana: Será acreditada a través de una investigación que se realizará con los vecinos de la zona de su adscripción
+###### Artículo 93.
 
-### CAPITULO II. DE LA ASIGNACION DE CLAVES DE IDENTIFICACION DE LOS INTEGRANTES DE LOS CUERPOS DE SEGURIDAD MUNICIPAL
+Las inhumaciones o exhumaciones que se hagan en los panteones municipales, pagarán los derechos que determine la tarifa respectiva de la correspondiente Ley de Ingresos del Municipio.
 
-###### ARTÍCULO 81.
+###### Artículo 94.
 
-Los exámenes de conocimientos generales de la actividad policial en materias técnico-operativos, abarcarán, entre otras áreas, las siguientes:
+Para la construcción de bóvedas en los sepulcros, que son obligatorias en primera, segunda y tercera clases, los interesados harán el pago correspondiente en la dependencia encargada de las finanzas públicas municipales, en el momento de solicitar la inhumación.
 
-I. Cursos de adiestramiento y capacitación;
+###### Artículo 95.
 
-II. Mediante examen de conocimientos, aptitudes y destrezas;
+Cuando se solicite la perpetuidad de una fosa, dentro del primer año de verificada la inhumación, se abonará a los derechos que cause la perpetuidad, lo que se hubiere enterado por derecho de temporalidad.
 
-III. Básico de cómputo; y
+Igualmente, si dentro del primer año, después de hecho un refrendo de temporalidad, se solicitará la perpetuidad de una fosa, se reducirá del importe del derecho de ésta, la suma pagada por el último refrendo.
 
-Técnicas de función policial.
+###### Artículo 96.
 
-###### ARTÍCULO 82.
+Sólo se procederá a asignar fosas en forma gratuita cuando, ante la inexistencia o desconocimiento de los deudos, por mandato de autoridad competente se ordene la inhumación.
 
-El examen médico será practicado por médicos y comprenderá:
+###### Artículo 97.
 
-I. Examen de salud; y
+Por la licencia de construcción en los panteones, criptas y barandales se causará y pagará lo establecido en la correspondiente Ley de Ingresos del Municipio que se trate.
 
-II. Examen toxicológico.
+###### Artículo 98.
 
-###### ARTÍCULO 83.
+Por el traslado de cadáveres: dentro del estado, fuera del estado y restos áridos y cenizas, dentro y fuera del estado, se causará y pagará lo establecido en la correspondiente Ley de Ingresos de los Municipios.
 
-El examen de aptitudes físicas comprenderá las siguientes pruebas:
+###### Artículo 99.
 
-I. Resistencia;
+Por la inhumación en panteones delegacional y particular se causará y pagará lo establecido en la correspondiente Ley de Ingresos del Municipio.
 
-II. Flexibilidad;
+###### Artículo 100.
 
-III. Velocidad; y
+Por el permiso para la cremación de cadáveres se causará y pagará lo establecido en la correspondiente Ley de Ingresos del Municipio.
 
-IV. Fuerza.
+### CAPÍTULO NOVENO. POR LOS SERVICIOS PRESTADOS POR EL RASTRO MUNICIPAL
 
-###### ARTÍCULO 84.
+###### Artículo 101.
 
-El examen psicológico comprenderá psicometrías enfocadas a la personalidad, adaptabilidad al puesto e inteligencia, para determinar la capacidad y aptitud para desempeñarse en el nuevo grado.
+Por los siguientes servicios prestados por el rastro municipal se causarán y pagarán los derechos que al efecto se establezcan en la Ley de Ingresos de cada Municipio.
 
-### CAPITULO I. DE LA EVALUACION
+I.- Por sacrificio y procesamiento, por cabeza: vacuno, porcino, ovicaprino, terneras, caballar, mular y asnal, degüello y procesamiento por Kg. en pie.
 
-###### ARTÍCULO 85.
+II.- Por sacrificio y procesamiento de aves, que incluye escalado y pelado: pollos y gallinas mercado, pollos y gallinas supermercado, pavos Mercado, Pavos supermercado, otras aves.
 
-Para participar en la promoción del grado inmediato superior al que aspire el personal adscrito, además de cumplir con los requisitos previstos en el presente Reglamento, deberán cumplir con lo siguiente:
+III.- El sacrificio de ganado en horas extraordinarias, independientemente de los honorarios del veterinario, autorizado por la secretaría de salud, por cabeza: vacunos y terneras, porcinos, ovicaprinos, caballar, mular y asnal, aves, otros.
 
-I. Para ascender de Policía Raso a Policía Tercero tener como mínimo 2 años de antigüedad en el grado;
+IV.- La introducción de ganado al rastro, en horas extraordinarias por cabeza: vacuno, terneras y ovicaprinos, porcino, otros, sin incluir aves, aves.
 
-II. Para ascender de Policía Tercero a Policía Segundo tener como mínimo 2 años de antigüedad en el grado;
+V.- Por el uso de: agua para lavado de vísceras y cabeza, por pieza, y cazo.
 
-III. Para ascender de Policía Segundo a Policía Primero tener como mínimo 2 años de antigüedad en el grado;
+VI.- Por el sacrificio de ganado vacuno, porcino, lanar, cabrio, fuera del rastro municipal, exclusivamente para consumo familiar, por cabeza.
 
-IV. Para ascender de Policía Primero a Suboficial tener como mínimo 3 años de antigüedad en el grado;
+### CAPÍTULO DÉCIMO. POR LOS SERVICIOS PRESTADOS EN MERCADOS MUNICIPALES
 
-V. Para ascender de Suboficial a Oficial tener como mínimo 3 años de antigüedad en el grado;
+###### Artículo 102.
 
-VI. Para ascender de Oficial a Subinspector tener como mínimo 3 años de antigüedad en el grado; y
+Por los siguientes servicios prestados en mercados municipales se causarán y pagarán los derechos que al efecto se establezcan en la correspondiente Ley de Ingresos de cada Municipio.
 
-VII. Para ascender de Subinspector a Inspector tener como mínimo 5 años de antigüedad en el grado.
+I. Por la asignación de locales en los mercados municipales según tipo de Local: cerrado interior, abierto interior, cerrado exterior, abierto exterior.
 
-###### ARTÍCULO 86.
+II. Por las cesiones de derechos realizadas en los mercados municipales: concepto tianguis dominical, locales, formas o extensiones.
 
-El grado que ostenten los policías será acreditado por un nombramiento que se expedirá a cada uno de los interesados.
+III. Por los cambios de giros en los locales de mercados municipales.
 
-###### ARTÍCULO 87.
+### CAPÍTULO DÉCIMO PRIMERO. POR SERVICIOS PRESTADOS POR LA SECRETARIA DEL AYUNTAMIENTO
 
-El régimen de estímulos es el mecanismo por el cual el personal adscrito recibe el reconocimiento público por actos de servicio meritorios o por su trayectoria ejemplar.
+###### Artículo 103.
 
-Todo estímulo otorgado será acompañado de una constancia que lo acredite, la cual deberá ser integrada al kardex del personal adscrito y en su caso, con la autorización de portación de la condecoración o distintivo correspondiente.
+Por las certificaciones expedidas por el Secretario del Ayuntamiento se causarán y pagarán los derechos que al efecto se establezcan por cada hoja, en la Ley de Ingresos de cada Municipio:
 
-# LIBRO SEPTIMO. DE LA SEGURIDAD Y PROTECCION DE LOS SERVIDORES PUBLICOS MUNICIPALES
+I. Legalización de firmas de funcionarios
 
-###### ARTÍCULO 88.
+II. Por reposición de documento oficial.
 
-El Presidente Municipal y el Secretario de Seguridad gozarán de protección tres años a partir de la conclusión de su encargo, acorde con lo que prescribe el segundo párrafo del artículo 57 de la Ley.
+III. Expedición de credenciales de identificación
 
-###### ARTÍCULO 89.
+IV. Expedición de constancias de residencia
 
-El derecho de la protección se perderá en el caso de que el beneficiario asuma un cargo público con motivo del cual le sea asignada protección o sea sujeto a proceso por el delito de delincuencia organizada.
+###### Artículo 104.
 
-###### ARTÍCULO 90.
+Ninguna dependencia de los Municipios, legalmente autorizada para ello, expedirá certificados o copia de documentos oficiales, si no se justifica previamente mediante el recibo oficial, que los interesados han cubierto en la dependencia encargada de las finanzas públicas, los derechos que señala la tarifa de la correspondiente Ley de Ingresos de cada Municipio.
 
-Al Presidente Municipal y al Secretario de Seguridad, se les asignarán cuando menos dos custodios.
+Asimismo, no se procederá a la legalización de firmas de funcionarios de los Municipios si no se han pagado los respectivos derechos.
 
-### CAPITULO II. DE LOS RESULTADOS DE LA EVALUACION
+### CAPÍTULO DÉCIMO SEGUNDO. POR EL SERVICIO DE REGISTRO DE FIERROS QUEMADORES Y SU RENOVACIÓN
 
-###### ARTÍCULO 91.
+###### Artículo 105.
 
-El R. Ayuntamiento autorizará la protección que deben de recibir los servidores públicos a los que se refiere el artículo 56 de la Ley.
+Por el servicio de registro de fierros quemadores y su renovación se causarán y pagarán los derechos que al efecto se establezcan en la Ley de Ingresos de cada Municipio.
 
-### CAPITULO I. DEL PERSONAL ADSCRITO
+###### Artículo 106.
 
-###### ARTÍCULO 92.
+Los propietarios o criadores de ganado, antes de iniciar sus actividades, deben registrar ante la Presidencia Municipal de su jurisdicción, el fierro quemador que sirva para marcar sus animales, el cual deberá ser individual por cada propietario o criador y con el que justificará la propiedad de los mismos.
 
-Corresponde al Republicano Ayuntamiento establecer el número de custodios que corresponde asignar al o los servidores públicos, a excepción de los asignados al Presidente y Secretario de Seguridad.
+###### Artículo 107.
 
-### CAPITULO II. DE LA PRESCRIPCION
+Durante el mes de enero de cada año, los propietarios o criadores de ganado deberán llevar a cabo la renovación del registro del fierro quemador.
 
-###### ARTÍCULO 93.
+###### Artículo 108.
 
-Los custodios quedarán a las órdenes de los custodiados a los que fueron asignados.
+Para los efectos de las disposiciones contenidas en los dos artículos anteriores, los causantes formularán ante la Presidencia Municipal que corresponda, una manifestación que contenga los datos siguientes:
 
-###### ARTÍCULO 94.
+1. Nombre y dirección del interesado
 
-El Republicano Ayuntamiento decidirá el equipamiento con que deberán contar los custodios.
+2. Ubicación de la explotación
 
-###### ARTÍCULO 95.
+3. Especie y número de las cabezas de ganado, señas y características del mismo, que sean propiedad del interesado.
 
-Previa a la designación de custodios, el Republicano Ayuntamiento deberá escuchar al servidor público sobre los motivos para su solicitud.
+4. Calca del fierro quemador que se usará para marcar a los animales.
 
-ARTÍCULO 96 La Secretaría de Seguridad proporcionará el personal y el equipo necesario para la protección de los servidores públicos, previa aprobación del Republicano Ayuntamiento.
+###### Artículo 109.
 
-###### ARTÍCULO 97.
+Para el registro de fierros quemadores, cada Municipio llevará un libro especial en el que se anotarán los datos pertinentes; al interesado se le expedirá una copia del registro que debe autorizar con su firma el C. Presidente Municipal.
 
-Los custodios asignados al Ex Presidente Municipal y al Ex Secretario de Seguridad deberán ser cambiados a solicitud de éstos.
+No se llevará a cabo ningún registro de fierros quemadores, ni se expedirán a los interesados las copias a que se refiere este artículo, si no fueren cubiertos los derechos correspondientes.
 
-# LIBRO OCTAVO. DEL CONSEJO CIUDADANO DE SEGURIDAD MUNICIPAL
+###### Artículo 110.
 
-## TITULO PRIMERO. DEL CONSEJO CIUDADANO
+Los Ayuntamientos, con base en los datos del libro a que se refiere el artículo anterior deberán llevar un libro auxiliar para tener un control minucioso y exacto de altas y bajas de los animales de cada causante con registro, a fin de estar en posibilidad de autorizar las facturas de ventas que procedan y exigir el pago de los derechos e impuestos correspondientes a cada operación.
 
-###### ARTÍCULO 98.
+###### Artículo 111.
 
-El presente apartado tiene por objeto regular la creación, estructura, atribuciones y funcionamiento del Consejo Ciudadano Municipal de Seguridad.
+Los propietarios o criadores de ganado que omitan el registro de fierros quemadores; manifiesten menor número de cabezas de las que realmente tienen; o utilicen el mismo fierro quemador para el ganado de dos o más propietarios distintos, se harán acreedores a las multas correspondientes sin perjuicio de que, además, paguen los derechos omitidos y sus respectivos recargos.
 
-###### ARTÍCULO 99.
+### CAPÍTULO DÉCIMO TERCERO. POR OTROS SERVICIOS PRESTADOS POR AUTORIDADES
 
-El Consejo Ciudadano de Seguridad Pública Municipal, es el órgano encargado de vigilar el seguimiento de las acciones en materia de Seguridad Pública Municipal; proponer los lineamientos necesarios para el mejoramiento del área, promover la participación ciudadana, coadyuvar con las autoridades de Seguridad Pública Municipal y las instancias auxiliares, en el análisis del fenómeno delictivo, de las conductas antisociales y de las infracciones administrativas, generando propuestas de planes, programas y acciones en materia de seguridad municipal.
+MUNICIPALES
 
-## TITULO SEGUNDO. DE LA INTEGRACION, FUNCIONES Y ATRIBUCIONES DEL CONSEJO CIUDADANO
+###### Artículo 112.
 
-###### ARTÍCULO 100.
+Por los servicios prestados por instituciones municipales a la comunidad a través de sus diversos talleres de capacitación se causan por curso semestral o por curso de verano y se pagarán los derechos conforme lo establezca la Ley de Ingresos de cada Municipio.
 
-El Pleno del Consejo Ciudadano se integrará, se reunirá y tendrá las atribuciones que señala el Titulo II del Reglamento de Participación Ciudadana.
+###### Artículo 113.
 
-### CAPITULO III. DE LA JORNADA DE TRABAJO
+Por los servicios de mantenimiento y reparación de mobiliario urbano derivado de actos de particulares con responsabilidad para estos, se causará y pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio.
 
-###### ARTÍCULO 101.
+###### Artículo 114.
 
-El Consejo Ciudadano de Seguridad Municipal, además de las atribuciones que señala el Titulo II del Reglamento de Participación Ciudadana, tendrá las siguientes:
+Por la publicación realizada en la Gaceta Municipal se causa por palabra, por la suscripción anual y por ejemplar individual, los derechos que se establezcan en la correspondiente Ley de Ingresos de cada Municipio.
 
-I. Proponer al Presidente Municipal el diseño, implementación y evaluación de planes, programas, políticas y directrices para mejorar la seguridad publica en el municipio;
+###### Artículo 115.
 
-II. Observar que la Secretaría de Seguridad cumpla con los objetivos y metas establecidas en lo correspondiente al Plan Municipal de Desarrollo y en los programas o proyectos específicos que se relacionen con los objetivos y fines del presente Reglamento;
+Por el registro en el padrón de proveedores del municipio, en el padrón de usuarios del rastro municipal, en el padrón de usuarios del relleno sanitario, en el padrón de boxeadores y luchadores y en el registro a otros padrones similares se causa el registro y se paga conforme lo establezca la Ley de Ingresos de cada Municipio.
 
-III. Ser órgano de consulta, análisis y opinión en materia de Seguridad Municipal;
+###### Artículo 116.
 
-IV. Proponer proyectos o emitir opinión sobre las iniciativas de ley o reglamentos en materia de Seguridad Municipal;
+Por los dictámenes emitidos por protección civil, ecología y medio ambiente municipales se causará y pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio.
 
-V. Emitir los lineamientos necesarios para el funcionamiento del Consejo, así como fijar las políticas y programas de éste;
+###### Artículo 117.
 
-VI. Fomentar la participación ciudadana a través de los Comités de Participación Comunitaria en materia de Seguridad Municipal;
+El arrendamiento de fincas y terrenos, así como la explotación de capitales de los Municipios del Estado, se hará previa autorización del Ayuntamiento, en cuyo acuerdo debe constar la opinión del Presidente Municipal, de los Regidores de Hacienda y el encargado de las finanzas del Municipio, extendiéndose contratos por escrito.
 
-VII. Elaborar proyectos y estudios en materia de Seguridad Municipal, para la prevención de delito, sus causas, efectos y consecuencias;
+Se exceptúan del requisito anterior, los contratos a corto tiempo que se celebren con empresas de circo, carpas, ferias, para ocupar terrenos en las vías públicas; contratos que autorizará el encargado de las finanzas públicas municipales.
 
-VIII. Solicitar a las dependencias municipales competentes a través del Presidente Municipal, la información que le sea necesaria para el cumplimiento de sus atribuciones;
+###### Artículo 118.
 
-IX. Emitir opiniones, para la actualización, elaboración y evaluación del Plan de Desarrollo Municipal en materia de Seguridad Municipal, así como evaluar periódicamente la ejecución del mismo y proponer medidas para que se guarde estrecha relación con el Consejo de Coordinación del Sistema Integral de Seguridad Publica del Estado;
+Cuando se trate de un contrato cuyo plazo exceda del período para el cual hubiere sido electo el Ayuntamiento que intervenga, se estará a lo dispuesto en la Ley Orgánica Municipal del Estado.
 
-X. Difundir información en materia de Seguridad Municipal con la finalidad de promover una cultura de la legalidad, de la denuncia ciudadana, de la prevención o autoprotección al delito y de la solución pacífica de conflictos mediante la mediación y conciliación;
+###### Artículo 119.
 
-XI. Proponer al Presidente Municipal, estrategias para hacer mas eficiente el funcionamiento de la policía preventiva municipal;
+En todos los contratos que se celebren respecto de bienes inmuebles o inversiones de los Ayuntamientos, se buscará que los Municipios obtengan las mayores percepciones posibles, como productos de sus bienes.
 
-XII. Proponer a la instancia correspondiente, la entrega de estímulos a los elementos policiales que se hayan distinguido por su desempeño a favor de la comunidad;
+###### Artículo 120.
 
-XIII. Proponer modificaciones a normas y procedimientos, que permitan mejorar la atención de las quejas que formule la ciudadanía contra abusos y actuaciones en que incurran los elementos de Seguridad Municipal;
+Los arrendamientos de inmuebles deben de recaudarse por mensualidades adelantadas, haciéndose constar esta circunstancia en los contratos respectivos.
 
-XIV. Asistir, previa invitación, a las sesiones de trabajo de los comités técnicos u órganos de la administración, con los elementos de Seguridad Municipal, así como a los eventos que realice la Administración Municipal en materia de Seguridad Municipal;
+###### Artículo 121.
 
-XV. Las demás emanadas de la Ley de Seguridad Pública del Estado de Nuevo León.
+De todo contrato autorizado deberá conservarse una copia en la dependencia encargada de las finanzas públicas que corresponda, para los efectos del control de la recaudación de los diferentes productos.
 
-### CAPITULO IV. DE LAS PRESTACIONES
+###### Artículo 122.
 
-###### ARTÍCULO 102.
+Por la explotación de bienes municipales por los siguientes conceptos: Arrendamiento de fincas municipales; explotación de tierras municipales para fabricación de ladrillo, teja y adobe, y extracción de cantera, piedra común, piedra fabricación de cal, por la explotación de yacimientos de arena, tierra, cal, barro, balastras, grava, cantera, piedra y similares, la explotación de yacimientos de minerales naturales y por la explotación de yacimientos naturales se pagarán las cuotas conforme lo establezca la correspondiente Ley de Ingresos de cada Municipio.
 
-El Consejo deberá instalarse y durar en su encargo en los términos que se establecen en el Titulo II del Reglamento de Participación Ciudadana.
+###### Artículo 123.
 
-# LIBRO NOVENO. DE LA REGULACION DE LOS COMITES COMUNITARIOS EN MATERIA DE SEGURIDAD MUNICIPAL
+Por el arrendamiento de locales en mercados municipales se causará y pagará lo establecido en la correspondiente Ley de Ingresos de los Municipios.
 
-## TITULO PRIMERO. OBJETO Y PARTICIPACION CIUDADANA
+###### Artículo 124.
 
-### CAPITULO V. DE LAS OBLIGACIONES
+El derecho de establecer mercados de cualquier clase que sean, es facultad exclusiva de los Ayuntamientos, los que también deberán de determinar, cuando fuere necesario e indispensable, las vías públicas que pueden ser utilizadas como zonas de mercados, para establecer puestos semifijos.
 
-###### ARTÍCULO 103.
+###### Artículo 125.
 
-El presente capítulo tiene por objeto regular la integración, operación y función de los Comités Comunitarios en la prevención del delito y la forma de coordinarse a través de la dependencia encargada de promover la participación ciudadana con la Secretaría de Seguridad.
+Todos los causantes de rentas de pisos en los mercados y zonas de mercados, quedan sujetos a la fiel observancia de los reglamentos vigentes.
 
-###### ARTÍCULO 104.
+## TÍTULO QUINTO. DE LOS PRODUCTOS
 
-La participación ciudadana para la seguridad pública, tiene por objeto promover, fomentar, difundir, discutir, analizar y evaluar aspectos vinculados con la prevención del delito, la cultura de la legalidad, de la denuncia ciudadana, la protección o autoprotección del delito y en general, cualquier actividad que se relacione con la materia, buscando sensibilizar a la ciudadanía sobre la importancia de colaborar, ya sea de manera individual u organizada, con las autoridades para el cumplimiento del objeto y fines de la misma, según se establece en el artículo 97 de la Ley.
+### CAPÍTULO PRIMERO. BIENES MUEBLES E INMUEBLES
 
-## TITULO SEGUNDO. INTEGRACION DE LOS COMITES DE PARTICIPACION COMUNITARIA
+###### Artículo 126.
 
-### CAPITULO VI. DE LAS SANCIONES
+Para el pago de rentas de pisos en los mercados y vías públicas habilitadas como zonas de mercados, servirá de base la calificación que haga el encargado de las finanzas públicas municipales, de acuerdo con la tarifa de la correspondiente Ley de Ingresos de cada Municipio.
 
-###### ARTÍCULO 105.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-Los Comités Comunitarios serán integrados por las Juntas de Vecinos que contempla el Reglamento de Participación Ciudadana.
+###### Artículo 127.
 
-###### ARTÍCULO 106.
+El pago de la renta por el uso de piso de mercados y zonas de comercio en la vía pública la realizarán los recaudadores municipales, quienes estarán bajo la directa vigilancia y control del encargado de las finanzas públicas municipales; expedirán el recibo o boleto numerado correspondiente, mismo que deberá estar autorizado con el sello de dicha dependencia y la fecha del día de la recaudación.
 
-La estructura de los Comités Comunitarios se regirá por las Juntas de Vecinos que contempla el Reglamento de Participación Ciudadana
+Para facilitar la recaudación, en todo caso los boletos deberán estar impresos, siendo de diferentes denominaciones, según se estime conveniente.
 
-###### ARTÍCULO 107.
+También podrá hacerse la recaudación, mediante tarjetones impresos que obrarán en poder de los locatarios y en los que diariamente se hará la anotación por los recaudadores de haberse efectuado el pago. Al finalizar el mes los indicados tarjetones se concentrarán a la dependencia encargada de las finanzas públicas para comprobar la corrección de los ingresos diarios que, mediante el recibo oficial correspondiente, hayan amparado la entrega de los recaudadores.
 
-El cargo o nombramiento para ser integrante del Comité Comunitario no es remunerable, es un cargo Honorífico.
+###### Artículo 128.
 
-### CAPITULO II. PARTICIPACION CIUDADANA
+La dependencia encargada de las finanzas públicas municipales llevará una relación de los locatarios de los mercados y zonas de mercados que ocupen puestos fijos, y durante el mes de enero de cada año el encargado de dicha dependencia procederá a clasificarlos como primera o segunda categoría, según la importancia y la situación del puesto que ocupen, asignándoles las cuotas diarias que deben pagar en el año, de acuerdo con las prevenciones de la tarifa correspondiente establecida en cada Municipio.
 
-###### ARTÍCULO 108.
+###### Artículo 129.
 
-La supervisión, validación y registro de los Comités Comunitarios, será acorde a las Juntas de Vecinos y de conformidad a los lineamientos que contempla el Reglamento de Participación Ciudadana.
+Cuando algún locatario deje de cubrir por tres días consecutivos las rentas correspondientes según la cuota diaria señalada, el Presiente Municipal o el Encargado de las Finanzas Públicas Municipales podrán ordenar indistintamente y sin más trámite, la desocupación del local arrendado, sin perjuicio de exigir por los medios legales, el pago de los adeudos y los gastos originados.
 
-###### ARTÍCULO 109.
+###### Artículo 130.
 
-Durante el periodo de actividades de los Comités Comunitarios en el caso prioritario de un mejoramiento para beneficio de la comunidad, la dependencia encargada de la participación ciudadana tendrá facultades de indicar o aceptar la renuncia de los miembros de la mesa directiva y proceder a su sustitución, así como a formar nuevos Comités y ratificar a los ya existentes.
+Por el uso de la vía pública se pagarán las cuotas conforme a lo establecido en la Ley de Ingresos de cada Municipio.
 
-###### ARTÍCULO 110.
+I. Cuotas por piso en la vía pública, permisos para la venta de artículos en la vía pública, a excepción de expendios con venta y/o alquiler de libros, periódicos y revistas.
 
-Los Comités Comunitarios además de las atribuciones que les confiere a las Juntas de Vecinos el Reglamento de Participación Ciudadana, tendrá las siguientes:
+a) Con venta de cualquier clase de artículos, por día
 
-I. Promover la participación ciudadana en su entorno;
+b) Con uso de vehículos de motor, por mes.
 
-II. Representar los intereses de los vecinos de su colonia en materia de seguridad, municipal coordinando acciones con la Secretaría de Seguridad;
+c) Con uso de casetas metálicas, por mes.
 
-III. Recabar y dar a conocer periódicamente a los habitantes de su colonia, sobre avances en materia de seguridad municipal, en coordinación con la Secretaría de Seguridad;
+d) Vendedores con puesto fijo, de cualquier clase de artículo, mensual.
 
-IV. Informar a los vecinos que existen los Comités Comunitarios y quiénes son las personas que lo integran;
+II.- La guarda de animales que transiten en vía pública sin vigilancia de sus dueños, más fletes y forrajes correspondientes y en su caso los daños que causaren.
 
-V. Conocer y emitir opinión sobre los programas en materia de seguridad municipal;
+III. Todos aquellos bienes entregados a la autoridad o recogidos de la vía pública por extravío, falta de permiso o por estar ubicados inadecuadamente, después de 15 días serán adjudicados al patrimonio del municipio.
 
-VI. Brindar información a los vecinos respecto a las dependencias a las que pueden acudir para la solución y reporte de los programas en materia de seguridad municipal;
+IV. Por estacionamiento según el reglamento.
 
-VII. Organizar y distribuir el material informativo sobre programas de participación ciudadana en materia de seguridad municipal; y
+V. Los vehículos de transporte público y de carga pagarán por uso de la vía pública por los siguientes conceptos:
 
-VIII. Las demás que la Ley y este Reglamento le otorgue.
+a) Sitios autorizados para taxi.
 
-# LIBRO DECIMO. DE LA REGULACION DE LOS PROGRAMAS DE PREVENCION DEL DELITO MUNICIPAL
+b) Sitios autorizados para servicio público de carga
 
-## TITULO PRIMERO. DE LA PREVENCION DEL DELITO MUNICIPAL
+VI. Los vehículos de transporte público pagarán en zonas autorizadas para ello por los siguientes conceptos:
 
-### CAPITULO UNICO. OBJETO Y AUTORIDADES
+a) Autobuses urbanos.
 
-###### ARTÍCULO 111.
+b) Microbuses y taxi buses urbanos.
 
-Las disposiciones de este Libro tienen por objeto establecer el órgano responsable de diseñar los programas y actividades relacionadas en materia de la prevención del delito
+c) Autobuses, microbuses y taxi buses suburbanos.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+###### Artículo 131.
 
-### CAPITULO I. DE LAS CAUSAS DE SUSPENSIÓN TEMPORAL EN EL SERVICIO
+Por la instalación, tendido y permanencia de cables subterráneos o aéreos en la vía pública se causará y pagará lo establecido en la correspondiente Ley de Ingresos de los Municipios:
 
-###### ARTÍCULO 112.
+I. Instalación.
 
-Los órganos competentes para diseñar los programas y actividades en materia de prevención del delito serán:
+II. Tendido por cada 100 metros.
 
-I. El C. Presidente Municipal;
+III. Por permanencia en vía pública, calles, guarniciones y/o postes.
 
-II. El Secretario del R. Ayuntamiento;
+###### Artículo 132.
 
-III. El Secretario de Seguridad Municipal;
+Por poner andamios, tapiales, materiales para la construcción y similares, que de alguna manera sean obstáculo para el libre tránsito en la vía pública, por día y por metro cuadrado se pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio.
 
-IV. El Director General de Policía;
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-V. El Director General de Tránsito y Vialidad;
+### CAPÍTULO SEGUNDO. USO DE LA VÍA PÚBLICA
 
-VI.- El Coordinador de Programas de Atención Social y Prevención.
+###### Artículo 133.
 
-###### ARTÍCULO 113.
+Los productos financieros se percibirán de acuerdo a las tasas de interés contratadas y autorizadas por las instituciones financieras competentes.
 
-La autoridad municipal podrá aplicar diversos tipos de programas, ya sea por medios electrónicos o cualquier otro tipo de medio de comunicación para la prevención de delitos.
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-## TITULO SEGUNDO. DE LOS PROGRAMAS DE PREVENCION DEL DELITO
+### CAPITULO TERCERO. PRODUCTOS FINANCIEROS
 
-### CAPITULO I. PROGRAMAS DE PREVENCION DEL DELITO
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-###### ARTÍCULO 114.
+###### Artículo 134.
 
-Es facultad de las autoridades mencionadas en el artículo 112 de este Reglamento, el implementar diferentes programas en materia de prevención del delito.
+Por venta y prestación de servicios de productos del rastro municipal de los siguientes conceptos, se pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio:
 
-###### ARTÍCULO 115.
+I. Venta de productos Rastro.
 
-Los programas de prevención del delito deberán establecer las bases para la articulación de programas, proyectos y acciones tendientes a prevenir la comisión de algún delito o infracción administrativa, instrumentando las medidas necesarias para evitar su realización; estableciendo como mínimo los siguientes ámbitos de intervención:
+a. Litro de sangre.
 
-I. La prevención social;
+b. Tonelada de estiércol.
 
-II. La prevención comunitaria; y
+c. Tonelada de pluma de aves.
 
-III. La prevención de enfoque policial; (sic)
+d. Tonelada de huesos, piel, pezuñas y/o cuernos.
 
-###### ARTÍCULO 116.
+II. Guarda de ganado no reclamado.
 
-La prevención social del delito tiene como propósito reducir los factores criminógenos mediante actividades multidisciplinarias e interinstitucionales relacionadas con el fortalecimiento de la familia, la educación, la salud y el desarrollo social, urbano y económico.
+a. Vacuno y terneras
 
-###### ARTÍCULO 117.
+b. Porcino.
 
-La prevención comunitaria del delito tiene por objeto promover la participación de la comunidad, en acciones tendientes a mejorar las condiciones de seguridad de su entorno y al desarrollo de prácticas que fomenten una cultura de prevención, autoprotección, de la denuncia ciudadana y de la solución de los conflictos a través del diálogo y la negociación.
+c. Ovicaprino.
 
-###### ARTÍCULO 118.
+d. Otros animales sin incluir aves.
 
-La prevención del delito con enfoque policial tiene por objeto promover, mediante un diagnóstico de la problemática delictiva en el territorio del Municipio, incentivos que procuren modificar el ambiente físico para dificultar las diferentes manifestaciones de los delitos y de las infracciones administrativas, así como reducir su incidencia.
+e. Aves.
 
-### CAPITULO II. DE LA IMPLEMENTACION DE LOS PROGRAMAS SOBRE PREVENCION DEL DELITO
+III. Uso de corraleta por actividad de compra-venta, sin incluir atención:
 
-###### ARTÍCULO 119.
+a. Vacuno.
 
-La Secretaría de Seguridad deberá implementar los programas de prevención del delito, llevando a cabo actividades que tengan como finalidad contrarrestar los factores criminógenos y contener, disminuir o evitar la comisión de delitos, conductas antisociales e infracciones administrativas, así como prevenir la victimización.
+b. Novillo, vaquilla o ternera.
 
-###### ARTÍCULO 120.
+c. Porcino.
 
-Los programas de prevención social del delito deberán diseñarse e implementarse considerando la participación ciudadana e interinstitucional con enfoque multidisciplinario, encaminándose a contrarrestar, nulificar o disminuir los factores criminógenos y las consecuencias, daño e impacto social del delito.
+d. Ovicaprino
 
-###### ARTÍCULO 121.
+e. Otros sin incluir aves.
 
-La implementación de los programas tenderá a lograr un efecto multiplicador fomentando la participación ciudadana, de las diversas autoridades del Gobierno Municipal, así como de organizaciones civiles, académicas y comunitarias.
+f. Aves.
 
-###### ARTÍCULO 122.
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-La Secretaría de Seguridad promoverá la protección de las personas y de sus bienes en todos sus aspectos y deberán incluir acciones a favor de personas con capacidades diferentes, menores de edad y las que se encaminen a salvaguardar los derechos de personas que en razón de su sexo, preferencia sexual, edad, condición social, religiosa o étnica sean objeto de discriminación o rechazo.
+### CAPÍTULO CUARTO. RASTRO MUNICIPAL
 
-###### ARTÍCULO 123.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-La Secretaría de Seguridad deberá llevar un registro del diseño, implementación, actualización y evaluación de los programas de prevención del delito.
+###### Artículo 135.
 
-###### ARTÍCULO 124.
+Por utilizar los cementerios municipales se causará y pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio.
 
-La Secretaría de Seguridad atenderá en el ámbito de su competencia a las víctimas y a los ofendidos; implementando programas de prevención del delito enfocados a evitar la victimización, los cuales deberán estar a lo dispuesto en este ordenamiento, en la Ley de Atención y Apoyo a las Víctimas y a los Ofendidos de Delitos y a las demás disposiciones aplicables en la materia.
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-> <small>(DEROGADO, P.O. 18 DE JULIO DE 2011)</small>
+### CAPÍTULO QUINTO. FUNERARIAS Y CEMENTERIOS MUNICIPALES
 
-# LIBRO DECIMO PRIMERO. DEL ORGANO SANCIONADOR
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-> <small>(DEROGADO, P.O. 18 DE JULIO DE 2011)</small>
+###### Artículo 136.
 
-## TITULO PRIMERO. DE LA COMISION DE HONOR Y JUSTICIA
+Por el cobro de las concesiones a particulares se causará y pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio.
 
-### CAPITULO I. DE SU COMPETENCIA
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2011)</small>
+###### Artículo 137.
 
-###### ARTÍCULO 125.
+Por el cobro de la venta de hologramas de verificación vehicular se causará y pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio.
 
-La Comisión de Honor y Justicia en materia de Seguridad Municipal tendrá competencia para conocer y sustanciar los procedimientos de responsabilidad administrativa derivados del incumplimiento a los deberes u obligaciones profesionales del personal adscrito, de las quejas y denuncias que en su contra se presenten, la aplicación de sanciones y los acuerdos necesarios para su funcionamiento, preservando el derecho a la garantía de audiencia; dicho Órgano estará adscrito a la Secretaría de la Contraloría y Transparencia Municipal, y su actuación se regulará de conformidad a lo contemplado en el Reglamento Interior de dicha Secretaría.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-> <small>(DEROGADO, P.O. 18 DE JULIO DE 2011)</small>
+###### Artículo 138.
 
-### CAPITULO II. DE SU INTEGRACION
+Por el cobro de otros productos se deberán especificar y se causará y pagará conforme lo establecido en la correspondiente Ley de Ingresos de los Municipios.
 
-## TITULO PRIMERO. DEL REGISTRO DE LA INFORMACION
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO II. DE LAS CAUSAS DE BAJA EN EL SERVICIO
+## TITULO SEXTO. DE LOS APROVECHAMIENTOS
 
-###### ARTÍCULO 126.
+### CAPÍTULO SEXTO. PRODUCTOS DIVERSOS
 
-(DEROGADO, P.O. 18 DE JULIO DE 2011)
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-> <small>(DEROGADO, P.O. 18 DE JULIO DE 2011)</small>
+###### Artículo 139.
 
-### CAPITULO III. DE LA DESIGNACION DE SUS INTEGRANTES
+Los encargados de las finanzas públicas municipales tienen la obligación de vigilar que todos los causantes estén al corriente en sus pagos de derechos e impuestos, haciendo en su caso, uso de las facultades que esta Ley les confiere para exigir el pago por medio del procedimiento económico coactivo.
 
-###### ARTÍCULO 127.
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-(DEROGADO, P.O. 18 DE JULIO DE 2011)
+###### Artículo 140.
 
-###### ARTÍCULO 128.
+Los Encargados de las Finanzas Públicas Municipales, empleando el procedimiento citado, deberán proceder de inmediato al cobro de todos los adeudos que resulten a cargo de los causantes municipales, por las contribuciones que no se hayan cubierto de manera oportuna.
 
-(DEROGADO, P.O. 18 DE JULIO DE 2011)
+###### Artículo 141.
 
-###### ARTÍCULO 129.
+Los Presidentes Municipales podrán reducir hasta un cincuenta por ciento, el importe de los recargos correspondientes a rezagos fiscales, si el pago lo hicieren espontáneamente los interesados.
 
-(DEROGADO, P.O. 18 DE JULIO DE 2011)
+###### Artículo 142.
 
-###### ARTÍCULO 130.
+La recaudación de los rezagos de ejercicios fiscales anteriores, se hará de acuerdo con las disposiciones vigentes en la época en que se causaron las contribuciones que corresponden a los municipios.
 
-(DEROGADO, P.O. 18 DE JULIO DE 2011)
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-###### ARTÍCULO 131.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-(DEROGADO, P.O. 18 DE JULIO DE 2011)
+###### Artículo 143.
 
-> <small>(DEROGADO, P.O. 18 DE JULIO DE 2011)</small>
+La dependencia encargada de las finanzas públicas que corresponda, procederá a hacer efectivas las multas administrativas que se impongan, por violación a los Reglamentos Gubernativos, en los términos que establecen las disposiciones legales aplicables.
 
-### CAPITULO IV. DE LOS ACUERDOS Y RESOLUCIONES
+###### Artículo 144.
 
-###### ARTÍCULO 132.
+A falta de otro funcionario que expresamente determinen las disposiciones legales aplicables, los encargados de las finanzas públicas municipales están facultados para imponer las multas que deben aplicarse a los infractores de la presente Ley, cuando la violación amerite sanción económica, en los casos previstos por el Código Fiscal.
 
-(DEROGADO, P.O. 18 DE JULIO DE 2011)
+###### Artículo 145.
 
-### CAPITULO I. DE LA CARRERA POLICIAL
+Por toda multa que se hiciere efectiva, se expedirá el correspondiente recibo oficial, para que el importe de la misma ingrese a la dependencia encargada de las finanzas públicas, quedando estrictamente prohibido el cobro de multas por cualquier otra dependencia del Ayuntamiento.
 
-###### ARTÍCULO 133.
+###### Artículo 146.
 
-(DEROGADO, P.O. 18 DE JULIO DE 2011)
+Los Presidentes Municipales podrán reducir hasta un cien por ciento, el importe de las multas correspondientes a rezagos fiscales, si el pago lo hicieren espontáneamente los interesados.
 
-### CAPITULO II. DE LA PERMANENCIA EN EL SERVICIO
+### CAPÍTULO SEGUNDO. MULTAS
 
-###### ARTÍCULO 134.
+###### Artículo 147.
 
-(DEROGADO, P.O. 18 DE JULIO DE 2011)
+Los causantes morosos que se hagan acreedores a apremios de cobro, deberán pagar, tomando como base el monto del adeudo principal:
 
-### CAPITULO III. DE LAS PROMOCIONES
+a) Un 5%, por gastos de requerimiento.
 
-###### ARTÍCULO 135.
+b) Un 5% adicional, por gastos de clausura, si la hubiere;
 
-(DEROGADO, P.O. 18 DE JULIO DE 2011)
+c) Un 10% adicional, en caso de que se practique embargo de bienes, independientemente de los gastos que se originen para el traslado de los bienes embargados, hasta el lugar en donde se depositen.
 
-> <small>(DEROGADO, P.O. 18 DE JULIO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO III BIS (SIC). DE SU FUNCIONAMIENTO Y ATRIBUCIONES
+Para el caso de que los porcentajes mencionados en los incisos anteriores, fueran menor a 1 VSMGZ, se aplicará el monto que resulte de 1 VSMGZ por inciso.
 
-ARTÍCULO 135 BIS. (DEROGADO, P.O. 18 DE JULIO DE 2011)
+###### Artículo 148.
 
-ARTÍCULO 135 BIS 1. (DEROGADO, P.O. 18 DE JULIO DE 2011)
+Todos los gastos necesarios para efectuar el remate de bienes embargados, siguiendo el procedimiento económico coactivo que establece esta Ley, serán a cargo de los causantes que, por morosidad en sus pagos, se hayan hecho acreedores al empleo de tal procedimiento, en su contra.
 
-ARTÍCULO 135 BIS 2. (DEROGADO, P.O. 18 DE JULIO DE 2011)
+###### Artículo 149.
 
-ARTÍCULO 135 BIS 3. (DEROGADO, P.O. 18 DE JULIO DE 2011)
+Los gastos de ejecución fiscal municipal a que se refiere este Capítulo, se harán efectivos juntamente con el adeudo principal y los recargos, mediante la expedición del recibo oficial correspondiente, de la dependencia encargada de las finanzas públicas respectiva.
 
-ARTÍCULO 135 BIS 4. (DEROGADO, P.O. 18 DE JULIO DE 2011)
+Lo recaudado por gastos de ejecución deberá ser ingresado para ser considerado en el presupuesto que será autorizado por el Ayuntamiento.
 
-> <small>(DEROGADO, P.O. 18 DE JULIO DE 2011)</small>
+### CAPÍTULO TERCERO. GASTOS DE EJECUCIÓN
 
-### CAPITULO V. DEL PROCEDIMIENTO
+###### Artículo 150.
 
-### CAPITULO IV. DE LA CERTIFICACION
+Los Presidentes Municipales quedan facultados para reducir hasta un cincuenta por ciento, el importe de los recargos correspondientes a rezagos fiscales, si el pago lo hicieren espontáneamente los interesados.
 
-###### ARTÍCULO 136.
+###### Artículo 151.
 
-(DEROGADO, P.O. 18 DE JULIO DE 2011)
+La recaudación de los rezagos de ejercicios fiscales anteriores, se hará de acuerdo con las disposiciones vigentes en la época en que se causaron los impuestos, derechos, productos y aprovechamientos que corresponden a los Municipios.
 
-###### ARTÍCULO 137.
+### CAPÍTULO CUARTO. RECARGOS
 
-(DEROGADO, P.O. 18 DE JULIO DE 2011)
+###### Artículo 152.
 
-###### ARTÍCULO 138.
+Los demás aprovechamientos en favor de los Municipios, que se enumeran a continuación, se recaudarán por la dependencia encargada de las finanzas públicas correspondiente.
 
-(DEROGADO, P.O. 18 DE JULIO DE 2011)
+I. Herencias, legados, donaciones y donativos.
 
-## TITULO SEGUNDO. DEL CENTRO DE CONTROL MUNICIPAL DE LA INFORMACION EN MATERIA DE SEGURIDAD MUNICIPAL
+II. Productos de bienes y objetos que legalmente se puedan enajenar.
 
-### CAPITULO V. DE LA PROFESIONALIZACION
+III. Venta de basura y desperdicios.
 
-###### ARTÍCULO 139.
+IV. Arrendamiento de aguas negras y de aguas superficiales.
 
-(DEROGADO, P.O. 18 DE JULIO DE 2011)
+V. Conexiones y contratos.
 
-# LIBRO DECIMO SEGUNDO. DE LOS RECURSOS
+VI. Indemnizaciones y reintegros.
 
-### CAPITULO UNICO. DEL RECURSO DE REVOCACION
+VII. Cooperaciones.
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2011)</small>
+VIII. Subvenciones y subsidios expidiéndose en todo caso, recibo oficial donde se exprese el motivo de la recaudación.
 
-###### ARTÍCULO 140.
+En todo caso deberán estar previstas en la Ley de ingresos del Municipio de que se trate.
 
-Las resoluciones adoptadas por la Comisión serán impugnables, en la forma y términos que establezca el Reglamento Interior de la Secretaría de la Contraloría y Transparencia Municipal.
+###### Artículo 153.
 
-# LIBRO DECIMO TERCERO. DEL PROCEDIMIENTO DE MODIFICACION AL REGLAMENTO
+El importe de todos los ingresos que se obtengan por concepto de aprovechamiento, se destinarán preferentemente para obras públicas del municipio.
 
-### CAPITULO UNICO. PROCEDIMIENTO DE MODIFICACION
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-###### ARTÍCULO 141.
+## TÍTULO SÉPTIMO. DE LAS PARTICIPACIONES FEDERALES
 
-En la medida que se modifiquen las condiciones relativas a la seguridad pública en el Municipio, en virtud de su crecimiento demográfico, social, el presente Reglamento podrá ser modificado o actualizado, tomando en cuenta la opinión de la propia comunidad.
+### CAPÍTULO QUINTO. OTROS APROVECHAMIENTOS
 
-###### ARTÍCULO 142.
+###### Artículo 154.
 
-Para garantizar la participación ciudadana en la revisión para la actualización, toda persona residente en el Municipio tiene la facultad de realizar por escrito sugerencias, ponencias o quejas en relación con el contenido normativo del presente Reglamento, escrito que deberá dirigirse al C. Secretario del Republicano Ayuntamiento a fin de que el C. Presidente Municipal dé cuenta de una síntesis de tales propuestas en Sesión del Republicano Ayuntamiento, para que dicho cuerpo colegiado tome la decisión correspondiente.
+Las participaciones las constituyen los ingresos que se reciban por otorgamiento del Gobierno Estatal y Federal y conforme lo establece la Ley de Coordinación Fiscal.
 
-T R A N S I T O R I O S
+Las Participaciones Federales están constituidas por el Fondo General de Participaciones, por el Fondo de Fomento Municipal, por el Impuesto Federal Sobre Tenencia o Uso de Vehículos, por el Impuesto Especial Sobre Producción y Servicios, por el Impuesto Sobre Automóviles Nuevos, así como la Reserva de Contingencia, y cualquier otra que con dicho carácter determine la Federación.
 
-Artículo Primero. Se Aprueba el Reglamento en Materia de Seguridad Municipal de San Pedro Garza García, Nuevo León, en los términos que se exponen en el contenido del presente dictamen.
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-Artículo Segundo. El presente Reglamento entrará en vigor 30-treinta días después del siguiente al de su publicación en el Periódico Oficial del Estado, debiéndose posteriormente hacer su publicación en la Gaceta Municipal.
+## TÍTULO OCTAVO. DE LAS APORTACIONES FEDERALES
 
-Artículo Tercero. Hasta en tanto se reforma el Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León, la referencia que en el presente Reglamento se hace a la Secretaría de Seguridad Municipal, deberá entenderse referida a la Secretaría de Seguridad Pública y Vialidad.
+### CAPÍTULO ÚNICO
 
-Artículo Cuarto. Se derogan todas las disposiciones que contravengan lo dispuesto en este Reglamento.
+###### Artículo 155.
 
-Artículo Quinto. Se deroga el Capítulo Sexto y los artículos 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55 y 56 del Reglamento de Policía y Buen Gobierno del Municipio de San Pedro Garza García, Nuevo León.
+Las aportaciones las constituyen los ingresos que obtengan los Municipios conforme a lo previsto en la Ley de Coordinación Fiscal.
 
-Artículo Sexto. Las quejas y denuncias y los procedimientos de responsabilidad administrativa que se encuentren radicados en la Contraloría Municipal y pendientes de resolver, deberán ser remitidos a la Comisión de Honor y Justicia para su resolución, conforme a las reglas establecidas por la Ley de Seguridad Pública para el Estado de Nuevo León.
+## TÍTULO NOVENO. DE LOS INGRESOS EXTRAORDINARIOS
 
-Por lo anteriormente expuesto y fundado y de conformidad con lo establecido en los artículos 21 y 115 fracciones II y III inciso h), de la Constitución Política de los Estados Unidos Mexicanos; 25, 130 y 132 I, inciso h), de la Constitución Política del Estado de Nuevo León; 26 inciso a), fracciones V y VII, 160, 161, 162, 163, 164, 165, 166 y 168 de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León; Artículo 10 fracción VI de la Ley del Periódico Oficial del Estado; 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 54, 55, 56, 57, 58, 59, 60, 61, 85, 86, 87, 88, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 151, 152, 153, 154, 155, 156, 157, 226, 227, 228, 229, 230, 231, 232, 234, 235, 36, 237 y 238 de la Ley d Seguridad Pública del Estado de Nuevo León; 58, 59, 60, 61, fracción I, numeral 3, 63, 64, 70, 71, 73, 74, 75, 76, 77 t (sic) demás relativos del Reglamento para el Gobierno Interior del Republicano Ayuntamiento de San Pedro Garza García, Nuevo León, esta Comisión de Gobierno y Reglamentación del Republicano Ayuntamiento, presenta por medio de la presente su propuesta de dictamen de la INICIATIVA DE REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA, GARCÍA, NUEVO LEÓN; y para efectos de desahogar el procedimiento reglamentario respectivo, esta Comisión de Gobierno y Reglamentación del Republicano Ayuntamiento, presenta a la consideración de este Órgano Colegiado, el siguiente:
+### CAPÍTULO ÚNICO
 
-A C U E R D O:
+###### Artículo 156.
 
-PRIMERO. Se aprueba la INICIATIVA DE REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, por las razones y términos anteriormente señalados.
+Son ingresos extraordinarios aquellos que la Hacienda Pública de cualquier Municipio perciba, cuando cualquier circunstancia coloque al propio Municipio frente a necesidades imprevistas que lo obliguen a efecturar erogaciones extraordinarias.
 
-SEGUNDO. Publíquese el presente acuerdo en el Periódico Oficial del Estado, hágase posteriormente su difusión a través de la Gaceta Municipal.
+Los ingresos extraordinarios, podrán ser lo siguientes:
 
-TERCERO. Gírense las instrucciones al C. Lic. Fernando Margáin Berlanga, Presidente Municipal y a la C. Lic. Ma. Emilda Ortiz Caballero, Secretario del Republicano Ayuntamiento para el exacto cumplimiento del presente acuerdo.
+I. Empréstitos;
 
-POR LO TANTO MANDO SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LE DE EL DEBIDO CUMPLIMIENTO. DADO EN EL DESPACHO DEL C. PRESIDENTE MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN A LOS 27-VEINTISIETE DÍAS DEL MES DE OCTUBRE DE 2009-DOS MIL NUEVE.
+II. Expropiaciones;
 
-ATENTAMENTE
+III. Aportaciones extraordinarias de los entes públicos;
 
-LIC. FERNANDO MARGÁIN BERLANGA
-
-PRESIDENTE MUNICIPAL
-
-LIC. MA. EMILDA ORTIZ CABALLERO
-
-SECRETARIO DEL R. AYUNTAMIENTO
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
-
-P.O. 26 DE MAYO DE 2010.
-
-Artículo Primero.- Las presentes REFORMAS POR MODIFICACIÓN AL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose posteriormente hacer su publicación en la Gaceta Municipal, para su difusión.
-
-Artículo Segundo.- Se deroga cualquier disposición que contravenga lo dispuesto en las presentes Reformas.
-
-P.O. 6 DE OCTUBRE DE 2010.
-
-Artículo Primero.- Las presentes REFORMAS POR MODIFICACIÓN Y ADICION AL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose posteriormente hacer su publicación en la Gaceta Municipal, para su difusión:
-
-Articulo Segundo.- El Comité de Honor y Justicia deberá aprobar en un plazo no mayor a 90 días naturales contados a partir del inicio de la vigencia de este ordenamiento, el Manual de Operaciones a que se refiere el artículo 135 BIS del presente Reglamento.
-
-Artículo Tercero.- Se deroga cualquier disposición que contravenga lo dispuesto en las presentes Reformas.
-
-P.O. 18 DE JULIO DE 2011.
-
-Artículo Primero.- Las presentes reformas modificación y derogación al Reglamento en Materia de Seguridad Municipal de San Pedro Garza García, Nuevo León, entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León.
-
-Artículo Segundo.- Se derogan todas las disposiciones que contravengan lo dispuesto en este Reglamento.
-
-### CAPITULO VI. DE LOS NOMBRAMIENTOS
-
-### CAPITULO VII. DE LOS RECONOCIMIENTOS
-
-### CAPITULO UNICO. SEGURIDAD Y PROTECCION DE LOS SERVIDORES PUBLICOS
-
-### CAPITULO UNICO. OBJETO Y DISPOSICIONES GENERALES
-
-## TITULO TERCERO. DEL PERSONAL ADSCRITO AL CENTRO MUNICIPAL DE CONTROL DE LA INFORMACION
-
-### CAPITULO I. INTEGRACION DEL CONSEJO CIUDADANO
-
-## TITULO UNICO. DEL PROCEDIMIENTO DE EVALUACION
-
-### CAPITULO II. ATRIBUCIONES DEL CONSEJO CIUDADANO
-
-## TITULO PRIMERO. DEL REGIMEN LABORAL
-
-### CAPITULO III. DE LA INSTALACION Y DURACION DEL CONSEJO
+IV. Aportaciones extraordinarias de mejoras.
 
 ## TITULO UNICO. OBJETO Y SUJETOS DE LA SEGURIDAD Y PROTECCION DE LOS SERVIDORES PUBLICOS
 
 ### CAPITULO I. DE LA INTEGRACION DE LOS COMITES
 
-### CAPITULO UNICO. OBJETO DE LOS COMITES
+### CAPÍTULO ÚNICO
+
+## TRANSITORIOS
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Para los efectos de lo establecido en el artículo 18, en tanto se expida la Ley de Bienes del Estado de Querétaro y sus Municipios, de mantendrán vigentes las disposiciones de la Ley de Hacienda de los Municipios del Estado en lo tocante a la clasificación y registro de los bienes.
+
+SEGUNDO. Para la formulación de las Iniciativas de Ley de Ingresos del ejercicio fiscal 2003 se sujetará a lo establecido en la presente Ley.
+
+TERCERO. Para las disposiciones que mencionan al "Código Fiscal del Estado y Municipios", se aplicarán las relativas al Código Fiscal del Estado, mientras el primero no sea aprobado por la Legislatura y el segundo no sea abrogado.
+
+CUARTO. En tal virtud de la firma del Convenio de Adhesión del Estado con la Federación al Sistema Nacional de Coordinación Fiscal continuarán suspendidas las contribuciones siguientes:
+
+a. Impuesto sobre la compra venta de animales.
+
+b. Impuesto sobre la compra venta de pollos.
+
+QUINTO. Se abroga la Ley General de Hacienda de los Municipios publicada el 26 de diciembre de 1963 y se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+ASÍ LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y MANDARA SE IMPRIMA, PUBLIQUE Y OBSERVE.
+
+DADO EN EL SALON "CONSTITUYENTES DE 1916-1917", RECINTO OFICIAL DEL PODER LEGISLATIVO, A LOS VEINTICUATRO DIAS DEL MES DE OCTUBRE DEL AÑO DOS MIL DOS.
+
+ATENTAMENTE
+
+QUINCUAGÉSIMA TERCERA LEGISLATURA
+
+MESA DIRECTIVA
+
+DIP. ODILÓN HERNÁNDEZ GUERRERO
+
+PRESIDENTE
+
+Rúbrica
+
+DIP. OSCAR SÁNCHEZ AGUILAR
+
+PRIMER SECRETARIO
+
+Rúbrica
+
+DIP. JUAN JOSÉ FLORES SOLÓRZANO
+
+SEGUNDO SECRETARIO.
+
+Rúbrica
+
+Ing. Ignacio Loyola Vera, Gobernador Constitucional del Estado de Querétaro, en ejercicio de lo dispuesto por el artículo 57 fracción I de la Constitución Política del Estado Libre y Soberano de Querétaro Arteaga; expido y promulgo la Ley de Hacienda de los Municipios del Estado de Querétaro Arteaga, en el Palacio de la Corregidora, sede del Poder Ejecutivo del Estado a los doce días del mes de noviembre del año dos mil dos, para su debida publicación y observancia.
+
+SUFRAGIO EFECTIVO. NO REELECCIÓN.
+
+"UNIDOS POR QUERÉTARO"
+
+ING. IGNACIO LOYOLA VERA
+
+GOBERNADOR CONSTITUCIONAL DEL ESTADO
+
+Rúbrica
+
+LIC. BERNARDO GARCIA CAMINO
+
+SECRETARIO DE GOBIERNO
+
+Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE DICIEMBRE DE 2002
+
+Artículo Primero.- La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a la presente Ley.
