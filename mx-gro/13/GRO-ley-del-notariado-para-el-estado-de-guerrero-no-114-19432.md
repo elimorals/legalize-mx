@@ -4,7 +4,7 @@ identifier: "GRO-ley-del-notariado-para-el-estado-de-guerrero-no-114-19432"
 country: "mx"
 rank: "ley"
 publication_date: "1967-09-06"
-last_updated: "1988-08-05"
+last_updated: "1991-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE GUERRERO NO. 114
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1991.
 
 Ley publicada en los Periódicos Oficiales del Estado de Guerrero, el 6 de septiembre de 1967; el 13 de septiembre de 1967; el 20 de septiembre de 1967; y el 4 de octubre de 1967.
 
@@ -651,6 +651,10 @@ El Notario debe residir en el lugar donde ejerce sus funciones, no pudiendo sepa
 
 Pueden autorizarse permutas del cargo notarial entre los Notarios. Siempre que a juicio del Gobierno del Estado, no se perjudique el servicio público, debiéndose expedir al efecto las nuevas patentes.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+
+Cuando ocurra alguna vacante definitiva de una Notaría y un Notario de otro Distrito solicite ocuparla el Gobernador del Estado mediante acuerdo publicado en el Periódico Oficial podrá autorizar dicho cambio.
+
 ###### Art. 95.
 
 En los lugares en donde haya varios Notarios, éstos ejercerán sus funciones indistintamente, en las demarcaciones señaladas para todos.
@@ -1242,3 +1246,9 @@ Para los efectos del párrafo anterior se tendrá por computados los tres años 
 ###### ARTICULO SEGUNDO.
 
 Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1991.
+
+###### ARTICULO UNICO.
+
+El presente Decreto de reformas y adiciones entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
