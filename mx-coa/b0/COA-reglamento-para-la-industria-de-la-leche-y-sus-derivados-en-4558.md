@@ -4,7 +4,7 @@ identifier: "COA-reglamento-para-la-industria-de-la-leche-y-sus-derivados-en-455
 country: "mx"
 rank: "reglamento"
 publication_date: "1935-11-16"
-last_updated: "1935-11-16"
+last_updated: "1936-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4558&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO PARA LA INDUSTRIA DE LECHE Y SUS DERIVADOS EN EL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 1936.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el sábado 16 de noviembre de 1935.
 
@@ -99,7 +99,7 @@ Tampoco se permitirá la mezcla de leche de vaca con la de cabra; de leches cert
 
 teurizada (sic) una leche que al entrar a la Planta tenga más de 1,000.000 de bacterias por centímetro cúbico.
 
-Artículo 10o (sic).- El transporte de leche Certificada o Pasteurizada en la ciudad de Saltillo, deberá hacerse en vehículos que ostenten una leyenda con el nombre de la negociación y clases de leches que expendan.
+Artículo 10o (sic).- EI transporte de leche Certificada o Pasteurizada en la ciudad de Saltillo, deberá hacerse en vehículos que ostenten una leyenda con el nombre de la negociación y clases de leches que expendan.
 
 ### CAPITULO SEGUNDO.
 
@@ -219,7 +219,7 @@ a).- Este Departamento constará cuando menos de dos locales con las condiciones
 
 Paredes de material de mampostería, lisas; pintadas de aceite, de color claro; piso de cemento con desagüe por medio de resumidero o de caño que se una al del establo; techo de bóveda sin claros en sus puntos de unión a las paredes y pintado de aceite.
 
-b).- El primero de los locales exigidos será para contener las máquinas llenadoras y taponadoras automáticas, y la cortina de refrigeración con su dispositivo para el agua helada.
+b).- EI primero de los locales exigidos será para contener las máquinas llenadoras y taponadoras automáticas, y la cortina de refrigeración con su dispositivo para el agua helada.
 
 Este local tendrá anexos otros dos: un cuarto de refrigeración con aislamiento de corcho, destinado a la conservación de la leche ya enfrascada y un cuarto con piso de cemento en el que habrá un depósito para el vaciado de la leche que será bombeada a la cortina mecánicamente.
 
@@ -347,7 +347,7 @@ h).- Queda prohibido repartir leche en canastillas de mano y otros medios que no
 
 i).- Las personas encargadas de expender la leche habrán de proveerse de tarjeta de salud que se renovarán cada 12 meses y usar durante las horas de trabajo, gorra y bata de tela blanca.
 
-j).- Puede permitirse la venta de leche en panaderías o establecimientos comerciales, siempre que se maneje envasada en frascos de uno, y medio y un cuarto de litro, cerrados con su tapón de cartón encerado y que se conserve en cada refrigeradora.
+j).- (DEROGADO, P.O. 16 DE MAYO DE 1936)
 
 ###### Artículo 25.
 
@@ -429,7 +429,7 @@ El queso, la crema y mantequilla fabricados fuera del Estado de Coahuila y que s
 
 ###### Artículo 43.
 
-Se considera mantequilla adulterada la que al butirorrefractómetro dé un índice superior a 48o. a la temperatura de 35 grados C., y aquella cuyo peso específico a la temperatura del agua hirviente sea inferior a 0.865, referido al del agua a 15 grados.
+Se considera mantequilla adulterada la que al butirorrefractómetro dé un índice superior a 48º. a la temperatura de 35 grados C., y aquella cuyo peso específico a la temperatura del agua hirviente sea inferior a 0.865, referido al del agua a 15 grados.
 
 ### CAPITULO SEPTIMO (SIC).
 
@@ -484,3 +484,9 @@ DR. JESUS VALDES SANCHEZ.
 El Srio. del Ejecutivo del Edo.
 
 PROF. MANUEL MIJARES V.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE MAYO DE 1936.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA.
