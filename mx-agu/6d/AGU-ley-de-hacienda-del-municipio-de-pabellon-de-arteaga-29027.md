@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-pabellon-de-arteaga-29027"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "1995-06-04"
+last_updated: "1996-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE PABELLON DE ARTEAGA, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 1996.
 
 Ley publicada en el Alcance de la Sección Décima del Periódico Oficial del Estado de Aguascalientes, el martes 31 de diciembre de 1985.
 
@@ -220,8 +220,6 @@ Si de tal informe apareciere algún crédito fiscal insoluto, la autoridad reten
 Cuando en las manifestaciones o avisos exigidos, no se expresen los datos o no se acompañen los documentos o planos también requeridos, las autoridades fiscales darán un plazo de quince días para que se corrija la omisión, que se contará a partir de la fecha en que los interesados reciban el requerimiento.
 
 Si transcurrido dicho plazo, no se expresan los datos o no se presentan los documentos o planos requeridos, la Tesorería Municipal no tomará en cuenta las manifestaciones o avisos, sin perjuicio de imponer al infractor las sanciones que procedan.
-
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1991)</small>
 
 ### CAPITULO II. DEL IMPUESTO SOBRE ADQUISICION DE INMUEBLES
 
@@ -707,6 +705,16 @@ Este impuesto se causará y pagará de conformidad con lo que al efecto señale 
 
 Los derechos por la prestación de servicios públicos que presten las diversas dependencias municipales, se causarán en el momento que el particular reciba la prestación del servicio o en el momento en que se provoque por parte del Municipio, el gasto que deba ser remunerado por aquél, salvo el caso que la disposición que fije el derecho, señale cosa distinta.
 
+(NOTA: EL 30 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, PARTE FINAL, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 15/2019, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 3 DE OCTUBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).(ADICIONADO, P.O. 21 DE ENERO DE 1996)
+
+###### ARTICULO 68 Bis.
+
+Son causantes del derecho por concepto de alumbrado público en calles, plazas, jardines y demás lugares de uso común, los consumidores de energía eléctrica clasificados en las tarifas 1, 2, 3, OM, HM, HS, HSL, HT, HTL, 1-15, 1-30, HS-R, HS-RF, HS-RM, HT-R, HT-RF, HT,RM, HM-R, HM-RF II, HM-RM, publicadas en el Diario Oficial de la Federación, de fecha 31 de diciembre de 1986, 10 de noviembre de 1991, 3 de abril de 1992, 13 de mayo de 1993, 4 de octubre de 1993 y 30 de septiembre de 1994.
+
+Los derechos de alumbrado público se cubrirán en un 10% del importe de energía eléctrica de los sujetos obligados al pago de este derecho, los importes que resulten serán recaudados por conducto de la Comisión Federal de Electricidad, adicionando su monto en las facturas de los consumidores.
+
+Mensualmente la Comisión Federal de Electricidad presentará estado de cuenta de las aplicaciones al Ayuntamiento para su análisis y aprobación.
+
 ###### ARTICULO 69.
 
 El importe de las tasas que para cada derecho señala la Ley de Ingresos Municipal, deberá ser cubierto en la Tesorería Municipal.
@@ -860,3 +868,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Las Asociaciones Religiosas constituidas en los términos de la Ley de Asociaciones Religiosas y Culto Público, no pagarán el impuesto sobre adquisición de inmuebles, únicamente por lo que ve a las adquisiciones que realicen hasta el 31 de diciembre de 1995.
+
+P.O. 21 DE ENERO DE 1996.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
