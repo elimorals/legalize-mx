@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1964-03-24"
+last_updated: "1964-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE MARZO DE 1964.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE AGOSTO DE 1964.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -713,7 +713,13 @@ XIX.- conceder licencias a los empleados de su nombramiento;
 
 XX.- pedir la protección de los Poderes de la Unión en caso de sublevación o trastorno interior; y
 
-XXI.- las demás que le confiere esta Constitución.
+> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 1964)</small>
+
+XXI.- conceder primas y subsidios a los que establezcan en el Estado, industrias y cultivos nuevos, necesarios o ampliados;
+
+> <small>(ADICIONADA, D.O. 20 DE AGOSTO DE 1964)</small>
+
+XXII.- las demás que le confiere esta Constitución.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1311,7 +1317,7 @@ D.O. 20 DE AGOSTO DE 1932.
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS.
 
-D.O. 4 DE JULIO DE 1938
+D.O. 4 DE JULIO DE 1938.
 
 ###### ARTICULO 1.
 
@@ -1365,7 +1371,7 @@ D.O. 22 DE ENERO DE 1955.
 
 Esta Ley comenzará a regir el día siguiente al de su publicación en el "Diario Oficial" del Estado.
 
-D.O. 31 DE DICIEMBRE DE 1960
+D.O. 31 DE DICIEMBRE DE 1960.
 
 ###### ARTICULO SEGUNDO.
 
@@ -1388,6 +1394,10 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 D.O. 24 DE MARZO DE 1964.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" del Gobierno del Estado.
+
+D.O. 20 DE AGOSTO DE 1964.
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Estado.
 
 ###### ARTICULO PRIMERO.
 
