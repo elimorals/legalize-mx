@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-consejeria-juridica-del-ejecutivo-257
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-09"
-last_updated: "2002-09-09"
+last_updated: "2003-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25748&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2002-09-06"
 
 REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL EJECUTIVO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO FUE ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL EJECUTIVO FEDERAL., PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 3 DE JULIO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación el lunes 09 de septiembre de 2002.
 
@@ -410,3 +412,13 @@ SEGUNDO.- Los asuntos pendientes a la entrada en vigor de este Reglamento contin
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los seis días del mes de septiembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Contraloría y Desarrollo Administrativo, Francisco Javier Barrio Terrazas.- Rúbrica.
 
 hfdhfghf
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 3 DE JULIO DE 2003.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Consejería Jurídica del Ejecutivo Federal publicado en el Diario Oficial de la Federación del 9 de septiembre de 2002.
+
+TERCERO.- Los asuntos pendientes a la entrada en vigor de este Reglamento, continuarán siendo tramitados hasta su total conclusión por las unidades administrativas a las que hayan sido turnados.
