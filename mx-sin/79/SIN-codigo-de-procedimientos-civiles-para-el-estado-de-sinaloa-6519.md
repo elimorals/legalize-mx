@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "1982-04-19"
+last_updated: "1983-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 1983.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -213,11 +213,13 @@ III. Cuando alguno tenga acción, o excepción que dependa del ejercicio de acci
 
 Las acciones duran lo que la obligación que representan, menos en los casos que la ley señala distintos plazos.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE FEBRERO DE 1983)</small>
+
 ###### Artículo 34.
 
-Intentada la acción y fijados los puntos cuestionados, no podrá modificarse ni alterarse salvo en los casos en que la Ley lo permita. El desistimiento de la demanda sólo importa la pérdida de la instancia y requiere el consentimiento del demandado. El desistimiento de la acción extingue ésta aún sin consentirlo el reo. En todos los casos el desistimiento produce el efecto de que las cosas vuelvan al estado que tenían antes de la presentación de la demanda y obliga al que lo hizo a pagar las costas y los daños y perjuicios a la contraparte, salvo convenio en contrario.
+Intentada la acción y fijados los puntos cuestionados, no podrá modificarse ni alterarse salvo en los casos en que la Ley lo permita. El desistimiento de la demanda sólo importa la pérdida de la instancia y requiere el consentimiento del demandado. El desistimiento de la acción extingue ésta aún en consentirlo el reo. En todos los casos el desistimiento produce el efecto de que las cosas vuelvan al estado que tenían antes de la presentación de la demanda y obliga al que lo hizo a pagar las costas y los daños y perjuicios a la contraparte salvo convenio en contrario.
 
-Se tendrá por abandonado un juicio y por perdido el derecho de las partes si éstas no promueven durante trescientos sesenta días naturales en la primera instancia y ciento ochenta en la segunda, salvo los casos de fuerza mayor o cuando se trate de la ejecución de una sentencia firme. El abandono en la segunda instancia sólo da lugar a la pérdida del recurso y a la devolución de los autos.
+Se tendrá por abandonado un juicio y por perdido el derecho de las partes si éstas no promueven durante trescientos sesenta días naturales, incluyendo los inhábiles, en la primera instancia y ciento ochenta en la segunda, salvo los casos de fuerza mayor o cuando se trate de la ejecución de una sentencia firme. Si el último día del término fuere inhábil, se entenderá prorrogado hasta el primer día hábil siguiente. El abandono en la segunda instancia sólo da lugar a la pérdida del recurso y a la devolución de los autos.
 
 Por promoción deberá entenderse todo lo que tienda a la secuela legal de un procedimiento.
 
@@ -779,9 +781,11 @@ Los términos judiciales empezarán a correr desde el día siguiente a aquél en
 
 Cuando fueren varias las partes y el término común, se contará desde el día siguiente a aquél en que todas hayan quedado notificadas.
 
+> <small>(ADICIONADO[N. DE E. REFORMADO], P.O. 2 DE FEBRERO DE 1983)</small>
+
 ###### Artículo 131.
 
-En ningún término se contarán los días en que no puedan tener lugar actuaciones judiciales.
+En ningún término se contarán los días en que no puedan tener lugar actuaciones judiciales, salvo disposición contraria de la Ley.
 
 ###### Artículo 132.
 
@@ -6584,3 +6588,9 @@ P.O. 19 DE ABRIL DE 1982.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 2 DE FEBRERO DE 1983.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Sinaloa".
