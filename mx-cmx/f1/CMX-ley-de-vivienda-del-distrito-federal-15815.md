@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-vivienda-del-distrito-federal-15815"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-02"
-last_updated: "2000-03-02"
+last_updated: "2000-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15815&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-01-10"
 
 LEY DE VIVIENDA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE SEPTIEMBRE DE 2000.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 2 de marzo de 2000.
 
@@ -388,7 +388,9 @@ c) El que los beneficiarios, puedan cubrir sus créditos en los términos y porc
 
 ### CAPÍTULO V. DEL CRÉDITO Y DE LOS BENEFICIARIOS
 
-Artículo 32 Los créditos de vivienda y los créditos para locales no destinados a vivienda, que se concedan a través de los programas de vivienda, suponen la devolución total de los mismos en su valor actualizado. En consecuencia sólo podrán otorgarse en proporción a la capacidad de pago del beneficiario, y con las debidas garantías.
+> <small>(REFORMADO, G.O. 5 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 32 Los créditos de vivienda y los créditos para locales no destinados a vivienda, que se concedan a través de los programas de vivienda, suponen la devolución total de los mismos, en los términos que señale la normatividad aplicable. En consecuencia sólo podrán otorgarse en proporción a la capacidad de pago del beneficiario.
 
 Artículo 33 Por concepto de servicio de amortizaciones e intereses, ningún crédito de vivienda otorgado por el Instituto debe superar el veinte por ciento de los ingresos nominales mensuales de la familia beneficiaria.
 
@@ -432,9 +434,7 @@ III. El otorgamiento de facilidades y promoción de apoyos en el pago de los imp
 
 IV. El establecimiento de facilidades, trato preferente y procedimientos simplificados ante la Tesorería del Distrito Federal y el Registro Público de la Propiedad, concertando acuerdos de facilidades con el Colegio de Notarios del Distrito Federal y otros agentes involucrados.
 
-### CAPÍTULO VI
-
-ESTÍMULOS A LA VIVIENDA.
+### CAPÍTULO VI. ESTÍMULOS A LA VIVIENDA
 
 Artículo 43 El Gobierno del Distrito Federal concederá a través de sus dependencias y organismos los beneficios, estímulos y facilidades que se consignan en esta Ley, en el Código Financiero, así como las contenidas en otras disposiciones legales y administrativas vigentes.
 
@@ -587,3 +587,9 @@ La presente Ley entrará en vigor al día siguiente de su publicación en la Gac
 Salón de Sesiones de la Asamblea Legislativa del Distrito Federal, a 28 de diciembre de mil novecientos noventa y nueve.- POR LA MESA DIRECTIVA, DIP. RENE BALDOMERO RODRIGUEZ RUIZ, PRESIDENTE.- DIP. YOLANDA TELLO MONDRAGON, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C. Base Segunda fracción II, inciso b, de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial de la Jefa de Gobierno del Distrito Federal, en la Ciudad de México, a los diez días del mes de enero del dos mil.- LA JEFA DE GOBIERNO DEL DISTRITO FEDERAL, ROSARIO ROBLES BERLANGA.- FIRMA.- EL SECRETARIO DE GOBIERNO, LEONEL GODOY RANGEL.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, ROBERTO EIBENSCHUTZ HARTMAN.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 5 DE SEPTIEMBRE DE 2000.
+
+UNICO.- El presente decreto entrará en vigor el mismo día de su publicación en la Gaceta Oficial del Distrito Federal.
