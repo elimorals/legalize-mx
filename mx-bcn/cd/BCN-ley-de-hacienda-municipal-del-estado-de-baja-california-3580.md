@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "1966-12-31"
+last_updated: "1967-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1966.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1967.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -363,17 +363,23 @@ Sólo cuando estén abiertas al público las oficinas fiscales se efectuarán ac
 
 Es obligación de los causantes señalar en los avisos, manifestaciones, o precedimiento (sic) que inicien, domicilio, ubicado dentro de la jurisdicción de la oficina a que se dirijan, para que se les hagan las notificaciones correspondientes y se practiquen las diligencias que sean necesarias, y mientras no cumplan con esta obligación las notificaciones y diligencias se harán en el local de la oficina.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1958)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1967)</small>
 
 ###### ARTICULO 57.
 
-Se establece un impuesto sobre actividades mercantiles e industriales. Son causantes del mismo las personas físicas o jurídicas que obtengan ingresos provenientes de estas actividades y que no sean sujetos pasivos de tributación estatal en esta materia conforme a la Ley de Ingresos del Estado.
+Se establece un Impuesto sobre la Explotación de Capitales. Son causantes del mismo las personas físicas o jurídicas que exploten capitales propios o ajenos en en (sic) negociaciones mercantiles, industriales o de servicios. Las tasas y plazos para su pago se establecerán por las Leyes de Ingresos respectivas. Este Impuesto no lo causarán las Instituciones o Negociaciones que son fuentes fiscales privativas del Gobierno Federal, de acuerdo con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos en su Artículo 73 Fracción XXIX.
 
-Ninguna actividad mercantil o industrial podrá ejercerse habitualmente sin licencia de la Presidencia Municipal y el permiso en su caso, que señalen los reglamentos respectivos. También se requiere obtener placa de registro en el Padrón Municipal. Los permisos o licencias para el establecimiento de cafés cantantes o cabarets, cantinas, casas de juego u otras actividades que puedan quedar clasificadas dentro del Inciso IV del Artículo 71 de la Ley de Hacienda del Estado, serán expedidas y revalidadas exclusivamente por el Gobernador del Estado conforme al Reglamento respectivo, debiendo cubrir los derechos correspondientes de acuerdo con las cuotas y tarifas que establecen las Leyes de Ingresos Municipales.
+Ninguna actividad mercantil o industrial podrá ejercerse habitualmente sin licencia de la Presidencia Municipal y el permiso en su caso, que señalen los Reglamentos respectivos. También se requiere obtener Placa de Registro en el Padrón Municipal. Los permisos o licencias para el establecimientos (sic) de Cafés-Cantantes o Cabarets, Cantinas, u otras actividades que puedan quedar clasificadas dentro del Inciso IV del Artículo 71 de la Ley de Hacienda del Estado, serán expedidas y revalidadas exclusivamente por el Gobernador del Estado conforme al Reglamento respectivo, debiendo cubrir los derechos correspondientes de acuerdo con las cuotas y tarifas que establecen las Leyes de Ingresos Municipales.
 
 ###### ARTICULO 58.
 
 Son actividades mercantiles eventuales, aquellas que se realizan esparódicamente (sic) o en forma evidentemente transitoria así como las que por su propia naturaleza o características deban durar por un término menor de tres meses.- Las actividades que realicen los Comerciantes Ambulantes se regirán por lo que establece el Reglamento del Mercado y Comercio Ambulante, enterando el impuesto de acuerdo con la Ley de Ingresos correspondiente.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1967)</small>
+
+###### ARTICULO 58 Bis.
+
+Se establece el Impuesto sobre Ingresos por Arrendamiento de Inmuebles dedicados a cualquier uso. Este Impuesto será a cargo del arrendador del inmueble. Se exceptúan del impuesto los ingresos que se obtengan por alquiler de cuartos en los Hoteles, Moteles y Casas de Huéspedes cuando el negocio comercial sea explotado directamente por el propietario del inmueble. Los causantes de este impuesto deberán registrar los contratos de arrendamiento respectivos en la Tesorería Municipal que corresponda y cubrirán el impuesto en la forma, plazos y con la tasa que fije la Ley de Ingresos del Municipio respectivo. Los contratos de arrendamiento de inmuebles, existentes al entrar en vigor esta disposición legal deberán ser registrados en un plazo no mayor de 30 días. Los contratos que se celebren con posterioridad deberán registrarse en un plazo no mayor de 15 días a partir de la fecha de su celebración. Son solidariamente responsables ante las Autoridades Fiscales Municipales del registro del contrato respectivo el arrendatario y el arrendador del inmueble. El arrendador es exclusivamente responsable del pago del impuesto que establece este Artículo. El arrendador deberá presentar en la Tesorería o Recaudación de Rentas Municipal el original y duplicado del contrato debidamente timbrado para que la Autoridad Fiscal Municipal haga la anotación correspondiente de que ha sido registrado el contrato y en esa forma el arrendatario se cerciore que se cumplió con esa disposición. Las Autoridades Judiciales y Administrativas exigirán se cumpla con el requisito de registro de contrato antes de dar curso a este documento.
 
 ###### ARTICULO 59.
 
@@ -447,6 +453,16 @@ Son causantes del impuesto sobre diversiones, espectáculos públicos y juegos p
 
 La venta de boletos y los ingresos serán supervisados por un interventor que designarán las Autoridades Municipales.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1967)</small>
+
+###### ARTICULO 66 Bis.
+
+Se establece un Impuesto sobre Asistencia a Diversiones y Espectáculos Públicos en los que se cause o cobre una cuota de admisión. Son causantes de este Impuesto las personas asistentes a los espectáculos o diversiones donde se cause o cobre cuota de admisión. El impuesto se causará sobre el monto de la cuota de entrada, admisión o asistencia al espectáculo o diversión.
+
+El monto del impuesto lo recibirán y retendrán los comerciantes administradores de las diversiones y espectáculos públicos, para ser enterados en las Tesorerías Municipales correspodientes (sic), siendo solidariamente responsables con el causante del pago del impuesto.
+
+Las tasas y exhibiciones del Impuesto se establecerán en la forma, plazos y términos que fijen las Leyes Fiscales Municipales correspondientes.
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1958)</small>
 
 ###### ARTICULO 67.
@@ -499,9 +515,11 @@ Los servicios que preste el Ayuntamiento obligan a quien los disfrute al pago de
 
 El pago de derechos deberá ser realizado por el causante, con anterioridad a la ejecución del servicio que lo causa, y la falta de aquel será razón suficiente para que éste no se proporcione.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1967)</small>
+
 ###### ARTICULO 74.
 
-Cuando el Ayuntamiento se vea precisado por razones legítimas a prestar servicio de carácter administrativo a un causante, sin el conocimiento o consentimiento previo de éste, el beneficiado estará obligado a cubrir de inmediato el importe de los derechos devengados.
+La inspección, verificación, vigilancia y demás servicios de carácter administrativo y sobre seguridad pública que preste el Ayuntamiento o se vea precisado a prestar por sus razones legítimas, causarán los derechos que al efecto establecen los Reglamentos y la Ley de Ingresos Municipal.
 
 ###### ARTICULO 75.
 
@@ -783,11 +801,11 @@ IV.- Las señaladas en las fracciones XII, XIV y XVII, con multa de $50.00 a 1,0
 
 Al tener conocimiento la Autoridad Fiscal de la colaboración de un profesionista en un acto de defraudación fiscal sea su intervención directa o indirecta, mediata o inmediata se consignarán los hechos al Ministerio Público para los efectos correspondientes.
 
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 1958)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1967)</small>
 
 ###### ARTICULO 94 Bis.
 
-Sin perjuicio de que se apliquen los recargos y sanciones correspondientes, el Tesorero Municipal podrá clausurar temporalmente los giros comerciales o industriales que omitan el pago de sus impuestos durante cuatro meses consecutivos.
+Sin perjuicio de que se apliquen los recargos y sanciones correspondientes, el Tesorero Municipal podrá clausurar temporalmente los giros Comerciales, Industriales o de Servicios que omitan o dejen de cubrir sus impuestos durante dos meses consecutivos, o dos meses de vencido el crédito fiscal.
 
 ###### ARTICULO 95.
 
@@ -1423,35 +1441,25 @@ IV.- Los ejecutores y los depositarios caucioarán (sic) su manejo a satisfacci�
 
 Tanto en la Tesorería General como en las oficinas ejecutoras, se utilizará el número de ejecutores que sea necesario para el desempeño de esas labores; pero una vez determinado no se harán nuevas designaciones, salvo cuando sea indispensable a juicio del Presidente Municipal y por acuerdo expreso de éste. Los mandamientos de ejecución se distribuirán para su cumplimiento en orden estrictamente cronológico y equitativamente entre los ejecutores de que disponga cada oficina.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1967)</small>
+
 ###### ARTICULO 175.
 
-Los honorarios de los ejecutores, depositarios y peritos, serán los siguientes:
+Los honorarios de los ejecutores, personal administrativo, depositarios y peritos, serán los siguientes:
 
-I.- Para los ejecutores:
+I.- Para los Ejecutores:
 
-a).- Los que hagan la notificación del adeudo y el requerimiento de pago tendrán derecho cuando el procedimiento llegue al secuestro o embargo, al cinco por ciento sobre el monto del mismo adeudo, si actuare en lugar de residencia de la oficina exactora, o si lo hicieren fuera de ese lugar el diez por ciento.
+a).- Los que hagan la notificación del adeudo y el requerimiento de pago tendrán derecho al cuatro por ciento sobre el monto del mismo adeudo, si actuare en lugar de residencia de la oficina exactora o si lo hiciere fuera de ese lugar el ocho por ciento.
 
-b).- Si un ejecutor notificare un adeudo y otro ejecutor hiciera el requerimiento de pago, se dividirán los honorarios que procedan conforme al inciso anterior.
+b).- Si un ejecutor notificara un adeudo y otro ejecutor hiciera el requerimiento de pago, se dividirán los honorarios que procedan conforme al inciso anterior.
 
-c).- El ejecutor que practique la diligencia de embargo tendrá derecho independientemente de los honorarios que devengue por otros conceptos, al cinco por ciento sobre el valor de los bienes secuestrados que sirvieron de base a la adjudicación en remate, a la venta de remate, o de no efectuarse una ni la otra, sobre el monto de crédito fiscal a esa fecha.
+c).- El ejecutor que practique la diligencia de embargo tendrán (sic) derecho, independientemente de los honorarios que devengue por otros conceptos, al cuatro por ciento sobre el valor de los bienes secuestrados que sirvieron de base a la adjudicación en remate, a la venta de remate, o de no efectuarse una ni otra, sobre el monto de crédito fiscal a esa fecha.
 
-d).- En ningún expediente administrativo de ejecución excederán de ochocientos pesos los honorarios del ejecutor o ejecutores que intervengan, cualquiera que sea el número, la naturaleza y la importancia de las diligencias que practiquen. Las oficinas exactoras bajo la revisión de la Tesorería Municipal, determinarán la proporción que corresponda a cada ejecutor, siempre que en un mismo expediente hubieren actuado varios.
+d).- En ningún expediente administrativo de ejecución los gastos serán menores de $10.00, ni excederán de $800.00 los honorarios del ejecutor o ejecutores que intervengan, cualquiera que sea el número, la naturaleza y la importancia de las diligencias que practiquen. Las oficinas exactoras bajo la revisión de la Tesorería Municipal, determinarán la proporción que corresponda a cada Ejecutor, siempre que en un mismo expediente hubieren actuado varios.
 
-e).- Ningún ejecutor tendrá derecho a percibir honorarios mientras el procedimiento no llegue al secuestro o embargo de bienes del deudor, aunque haya practicado notificaciones o requerimientos de pago.
+II.- Para el Personal Administrativo:
 
-II.- Para los depositarios:
-
-a).- Si se trata de terrenos u otros bienes raíces cuyo depósito sólo requiere el cuidado de que se cubran oportunamente los impuestos o derechos causados, el quince por ciento calculado sobre el monto de los impuestos o derechos causados.
-
-b).- Si se trata de inmuebles dados en arrendamiento por el propietario o la oficina exactora, el diez por ciento de las cantidades que se apliquen al pago del adeudo fiscal.
-
-c).- Si se trata de una intervención con cargo a la caja no retribuída con sueldo mensual, el equivalente al diez por ciento de las cantidades que se apliquen al pago del adeudo fiscal.
-
-d).- Si se trata de créditos o derechos que debiera deducir en juicio, el depositario será siempre abogado y se le abonarán los honorarios procedentes a los Procuradores, con arreglo a las normas aplicables del derecho común.
-
-e).- En los casos de sueldo fijo mensual u otra forma no especificada, los honorarios serán los que fije la oficina exactora con citación del ejecutado, y si éste manifestare inconformidad por escrito, se requerirá la autorización del C. Presidente Municipal, a cuya consideración se someterán los puntos de visla (sic) Oficina exactora tendrán (sic) en cuenta ta (sic) particular inconforme. Tanto él (sic) como al respecto, la importancia del trabajo que deba remunerarse, el valor de los bienes secuestrados, el monto del adeudo fiscal y las costumbres del lugar.
-
-III.- Para los peritos valuadores los honorarios serán señalados en los términos del inciso e) de la fracción anterior.
+En las diligencias que se lleven a cabo, el personal administrativo de la Tesorería Municipal tendrá derecho al 1% (que se cobrará adicional si las actuaciones son en el lugar de resistencia de la oficina y si lo hiciere fuera de ese lugar el 2%). El Tesorero Municipal a solicitud del Recaudador y del Jefe de Ejecución indicará cuales son las personas que han intervenido durante la formulación de la documentación respectiva, procediéndose mensualmente a distribuir el importe con base al sueldo presupuestal que devenguen.
 
 ###### ARTICULO 176.
 
@@ -1591,15 +1599,17 @@ El término de la prescripción de los créditos se suspenderá durante las pró
 
 DE LA CANCELACION POR INCOBRABILIDAD E INCOSTEABILIDAD DEL COBRO
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1967)</small>
+
 ###### ARTICULO 199.
 
 Procederá la cancelación de los créditos fiscales:
 
-I.- Cuando los sujetos del crédito sean insolventes.
+I.- Cuando los sujetos del crédito sean insolventes; y para el efecto deberán constar en el expediente respectivo los informes de dos ejecutores que manifestarán la ausencia del deudor de este lugar, la inexistencia y desaparición del negocio, acompañadas éstas de los informes del Registro Público de la Propiedad, así como de la Tesorería General del Estado, en el sentido de que el causante no tiene bienes o negocio registrado en el Municipio o en el Estado y después de un año en el cual deberá resolverse sobre la cancelación después de repetir los informes en ese lapso.
 
-II.- Cuando su importe sea menor de diez pesos y no se pague espontáneamente dentro de los sesenta días siguientes a la fecha en que las oficinas recaudadoras hayan exigido el pago. Esta regla sólo se aplicará cuando se trate de una sola prestación fiscal a cargo de un solo deudor. Si existieren varios créditos menores de diez pesos a cargo de un solo deudor, procederá la acumulación de los mismos, para los efectos del cobro.
+II.- Cuando su importe sea menor de $50.00 y no se pague espontáneamente dentro de los sesenta días siguientes a la fecha en que las oficinas recaudadoras hayan exigido el pago. Esta regla solo se aplicará cuando se trate de una sola prestación fiscal a cargo de un solo deudor.
 
-III.- La regla prevista en la fracción anterior, se aplicará cuando se trate de una solo prestación fiscal a cargo del mismo deudor, pero si existieren varios créditos menoress (sic) de diez pesos a cargo de un deudor, procederá la acumulación para efecto de cobro.
+III.- La regla prevista en la Fracción anterior, se aplicará cuando se trate de una solo (sic) prestación fiscal a cargo del mismo deudor, pero si existieren varios créditos menores de $50.00 a cargo de un solo deudor, procederá la acumulación para efecto de cobro.
 
 ###### ARTICULO 200.
 
@@ -1660,3 +1670,7 @@ P.O. 31 DE DICIEMBRE DE 1966.
 ###### ARTICULO 2o.
 
 Este Decreto entrará en vigor el día primero de enero de mil novecientos sesenta y siete.
+
+P.O. 31 DE DICIEMBRE DE 1967.
+
+UNICO:- Estas Reformas y Adiciones a los Artículos 57, 58, 66, 74, 94, 175 y 199 y la Derogación del Artículo 5o. de la Ley de Hacienda Municipal, entrarán en vigor el día primero de enero de mil novecientos sesenta y ocho.
