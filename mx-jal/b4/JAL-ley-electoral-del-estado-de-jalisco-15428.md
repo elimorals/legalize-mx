@@ -4,7 +4,7 @@ identifier: "JAL-ley-electoral-del-estado-de-jalisco-15428"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-29"
-last_updated: "1997-04-29"
+last_updated: "1999-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ELECTORAL DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 1999.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 29 de abril de 1997.
 
@@ -1554,6 +1554,10 @@ Los ciudadanos que se hubieren desempeñado como consejeros electorales con dere
 ###### Artículo 137.
 
 Los consejeros electorales no podrán tener ningún otro empleo, cargo o comisión, que pueda implicar subordinación, ya sea directa o indirecta, hacia alguna persona o entidad, pública o privada, que pueda lesionar el desempeño de su cargo, conforme a los principios rectores de certeza, legalidad, independencia, imparcialidad, equidad y objetividad. Tendrán una remuneración adecuada e irrenunciable, que no podrá ser disminuida durante su encargo.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+Los consejeros y comisionados distritales y municipales estarán impedidos de intervenir en el proceso, cuando participe como candidato su cónyuge o algún pariente consanguíneo en línea recta sin límite de grado; o colateral por consanguinidad, hasta el cuarto grado; o dentro del segundo en la colateral por afinidad; o se presentare alguna circunstancia de la que se deduzca con fundamento, parcialidad en detrimento del proceso.
 
 ###### Artículo 138.
 
@@ -4690,3 +4694,9 @@ Ing. Alberto Cárdenas Jiménez
 El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE JUNIO DE 1999.
+
+Único. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
