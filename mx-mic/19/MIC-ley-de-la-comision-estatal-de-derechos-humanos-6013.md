@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-la-comision-estatal-de-derechos-humanos-6013"
 country: "mx"
 rank: "ley"
 publication_date: "1993-02-08"
-last_updated: "1993-02-08"
+last_updated: "2003-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS, PUBLICADO EN EL PERIODICO OFICIAL EL 14 DE JULIO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el lunes 8 de febrero de 1993.
 
@@ -538,3 +540,27 @@ DIPUTADO PRESIDENTE.- JOSE GONZALEZ MORFIN.- DIPUTADO SECRETARIO.- MARGARITO ANT
 En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 8 días del mes de febrero de 1993, mil novecientos noventa y tres.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- LIC. AUSENCIO CHAVEZ HERNANDEZ.- EL SECRETARIO DE GOBIERNO.- ING. FRANCISCO OCTAVIO APARICIO MENDOZA.- (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 14 DE JULIO DE 2003.
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se abroga la Ley de la Comisión Estatal de Derechos Humanos, aprobada por el Congreso del Estado y publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, con fecha 8 de febrero de 1993.
+
+TERCERO. Dentro de los treinta días siguientes a la entrada en vigor de la presente Ley, el Congreso del Estado deberá expedir convocatoria para elegir al Presidente de la Comisión Estatal de los Derechos Humanos. En tanto se realiza el procedimiento de elección, el Congreso del Estado designará un Presidente con el carácter de interino, quien terminará su encargo una vez electo el Presidente de la Comisión Estatal de los Derechos Humanos.
+
+CUARTO. Una vez electo el Presidente de la Comisión Estatal de los Derechos Humanos, el Congreso del Estado deberá expedir convocatoria para elegir a los visitadores regionales de la Comisión Estatal de los Derechos Humanos los que entrarán a ejercer su encargo el primer día hábil del mes de enero de 2004.
+
+QUINTO. El proyecto de Reglamento Interior de la Comisión Estatal de los Derechos Humanos, habrá de estar concluido dentro de los noventa días siguientes a la elección del Presidente de la Comisión Estatal de los Derechos Humanos y deberá presentarse al Pleno para su discusión y aprobación, en su caso, durante los primeros quince días del mes de enero de 2004.
+
+SEXTO. Los asuntos que se encuentren en trámite al momento de la entrada en vigor de la presente Ley, deberán substanciarse conforme a las disposiciones de la Ley de la Comisión Estatal de Derechos Humanos, aprobada por el Congreso del Estado y publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el 8 de febrero de 1993.
+
+SÉPTIMO. La nueva estructura de la Comisión Estatal de los Derechos Humanos, deberá estar conformada y comenzar a funcionar el primer día hábil del mes de enero del año 2004, en tanto, funcionará con la estructura actual y conforme a las atribuciones de la Ley Estatal de la Comisión de Derechos Humanos, aprobada por el Congreso del Estado y publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el 8 de febrero de 1993.
+
+OCTAVO. En tanto no sean nombrados los funcionarios de que habla la presente Ley, el Secretario General de la Comisión Estatal de Derechos Humanos, se desempeñará con las facultades conferidas al Secretario Ejecutivo de la Comisión de los Derechos Humanos, con excepción de la asistencia y participación en el Pleno.
+
+NOVENO. Después de instalado el Pleno de la Comisión y con un plazo no mayor de quince días, el Presidente convocará a sesión para el efecto de nombrar al Secretario Ejecutivo de la Comisión, discutir y aprobar, en su caso, el proyecto de Reglamento Interior de la Comisión, y demás asuntos que tenga en trámite.
+
+DÉCIMO. El mobiliario y equipo de la Comisión Estatal de Derechos Humanos, se transfiere al patrimonio de la Comisión Estatal de los Derechos Humanos.
