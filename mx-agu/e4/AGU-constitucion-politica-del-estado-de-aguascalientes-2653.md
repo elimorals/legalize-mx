@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2001-10-29"
+last_updated: "2002-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2002.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -204,8 +204,6 @@ El Poder Legislativo se deposita en una corporación que se denomina Congreso de
 El Congreso se integrará con representantes del pueblo que residan en el territorio del Estado, electos en su totalidad cada tres años y que se denominarán Diputados.
 
 Por cada Diputado Propietario se eligirá (sic) un Suplente.
-
-> <small>N. DE E. PARA EFECTOS DE LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
@@ -391,17 +389,19 @@ II.- Decretar las contribuciones necesarias para cubrir los gastos del Estado y 
 
 En materia de contribuciones municipales sobre la propiedad inmobiliaria, tomando en cuenta anualmente a propuesta de los Ayuntamientos, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para su cobro a propuesta de los Municipios;
 
-III.- Aprobar el Presupuesto Anual de Gastos del Estado, con vista del proyecto que presente el Gobernador y, en el que no podrá haber partidas secretas.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2002)</small>
+
+III.- Examinar, discutir y aprobar anualmente el Presupuesto de Egresos del Estado, en el que no podrá haber partidas secretas.
 
 IV.- Autorizar al Ejecutivo para celebrar empréstitos sobre el crédito del Estado, fijando las bases sobre las cuales deben celebrarse dichos empréstitos y aprobarlos.
 
 Ningún empréstito podrá celebrarse sino para la ejecución de obras que directamente produzcan incremento de los ingresos públicos;
 
-V.- Revisar las cuentas públicas que trimestralmente deben presentarle el Gobernador del Estado, organismos descentralizados y los Ayuntamientos, dentro de los veinte días siguientes a la conclusión de los plazos señalados. En los recesos del Congreso, se presentarán ante la Diputación Permanente. La ampliación del plazo de entrega de éstas, estará sujeta a una solicitud justificada a juicio del Congreso.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2002)</small>
 
-Las cuentas públicas se turnarán a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda; ésta, con el auxilio del órgano técnico, revisará los resultados de la gestión financiera, comprobará que los ingresos estén de acuerdo a la Ley de Ingresos, que las partidas gastadas están justificadas y son conformes con las normas de ejecución de los Presupuestos de Egresos.
+V.- Revisar las cuentas públicas que mensualmente deben presentarle los titulares de los Poderes del Estado, los Ayuntamientos del Estado, las dependencias definidas como tales en la Ley Orgánica de la Administración Pública y en la Ley Orgánica Municipal, los organismos paraestatales o paramunicipales, organismos autónomos, empresas de participación mayoritaria y fideicomisos pertenecientes a la Administración Pública Descentralizada del Gobierno del Estado y de los ayuntamientos, dentro de los veinte días siguientes a la conclusión de los plazos señalados. En los recesos del Congreso, se presentarán ante la Diputación Permanente. La ampliación del plazo de entrega de éstas, estará sujeta a una solicitud justificada a juicio del Congreso.
 
-La cuenta pública deberá ser revisada y fiscalizada semestralmente por el Honorable Congreso del Estado;
+Las cuentas públicas se turnarán a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda; ésta, con el auxilio del órgano técnico, revisará los resultados de la gestión financiera, comprobará que los ingresos estén de acuerdo a la Ley de Ingresos, que las partidas gastadas estén justificadas y que son conformes con las normas de ejecución de los presupuestos de egresos, y el cumplimiento de los objetivos contenidos en los programas.
 
 VI.- Autorizar al Ejecutivo para ejercer actos de dominio sobre los bienes inmuebles pertenecientes al Estado.
 
@@ -421,13 +421,9 @@ XIII.- Conceder licencia al Gobernador, para salir del territorio del Estado, cu
 
 XIV.- Decidir sobre la renuncia del cargo de Gobernador; conceder licencia a dicho servidor público para separarse del cargo, hasta por noventa días.
 
-> <small>N. DE E. PARA EFECTOS DE LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
-
 XV.- Designar a los Magistrados del Supremo Tribunal de Justicia del Estado, del Tribunal de lo Contencioso Administrativo y del Tribunal Local Electoral, de la terna propuesta por el Ejecutivo; en caso de que los rechace, aceptar una nueva terna en términos del Artículo 54 de esta Constitución.
 
 Los nombramientos de los Magistrados deberán recaer en aquellas personas seleccionadas por el Consejo de la Judicatura Estatal que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de su actividad jurídica.
-
-> <small>N. DE E. PARA EFECTOS DE LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
 XVI.- Conocer de las renuncias que de sus cargos presenten los Magistrados del Supremo Tribunal de Justicia del Estado, los Consejeros Ciudadanos del Consejo General del Instituto Estatal Electoral y los Magistrados del Tribunal Local Electoral y del Tribunal Contencioso Administrativo, comunicándose su aceptación a la autoridad competente, para que proceda conforme a sus facultades.
 
@@ -665,7 +661,9 @@ Son facultades y obligaciones del Gobernador:
 
 I.- Promulgar y ejecutar las Leyes que expida el Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia.
 
-II.- Presentar cada año al Congreso a más tardar el 15 de diciembre los proyectos de Ley de Ingresos y Presupuesto de Egresos para el Ejercicio Fiscal siguiente, debiendo comparecer el Secretario de Finanzas y Administración a dar cuenta del mismo.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2002)</small>
+
+II.- Presentar cada año al Congreso del Estado a más tardar el 31 de octubre los proyectos de Ley de Ingresos y Presupuesto de Egresos para el Ejercicio Fiscal siguiente, excepto cuando el Gobernador inicie su encargo en la fecha prevista en el Artículo 41, en cuyo caso el Gobernador entrante entregará los proyectos a más tardar el 15 de diciembre, mismos que deberán incluir: los ingresos que de sus actividades generen las dependencias definidas como tales en la Ley Orgánica de la Administración Pública del Estado, los organismos paraestatales, organismos autónomos, empresas de participación mayoritaria y fideicomisos pertenecientes a la Administración Pública Descentralizada del Gobierno del Estado; los presupuestos de egresos de cada uno de éstos y sus programas, debiendo comparecer el Secretario de Finanzas y Administración ante el Pleno y Comisiones a dar cuenta del mismo, y si lo considera conveniente la Comisión de Vigilancia de la Contaduría Mayor de Hacienda, también deberán comparecer ante ésta, los responsables del gasto de los Poderes del Estado, así como de los organismos y dependencias.
 
 III.- (DEROGADA, P.O. 29 DE OCTUBRE DE 2001)
 
@@ -751,8 +749,6 @@ Las faltas temporales del Secretario General de Gobierno serán suplidas por el 
 
 Del Poder Judicial.
 
-> <small>N. DE E. PARA EFECTOS DE LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
-
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 ### CAPITULO UNICO.
@@ -768,8 +764,6 @@ El Poder Judicial del Estado está conformado por el Supremo Tribunal de Justici
 Las condiciones para el ingreso, formación y permanencia, en los diversos órganos jurisdiccionales que conforman al Poder Judicial, así como las facultades y obligaciones de éstos y de los servidores públicos que los integran, se regirán por lo dispuesto en esta Constitución y en las Leyes Orgánicas del Poder Judicial del Estado y del Tribunal de lo Contencioso Administrativo del Estado, respectivamente.
 
 La representación del Poder Judicial de Aguascalientes corresponde al Supremo Tribunal de Justicia del Estado, por conducto de su Presidente.
-
-> <small>N. DE E. PARA EFECTOS DE LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
@@ -803,8 +797,6 @@ IV.- No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
 
 V.- No haber tenido cargo de secretario o su equivalente en el Poder Ejecutivo del Estado, Procurador de Justicia, Diputado Federal o Local o Dirigente de Partido Político durante el año previo al día de su designación.
 
-> <small>N. DE E. PARA EFECTOS DE LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
-
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 54.
@@ -819,8 +811,6 @@ Si dentro del término de siete días hábiles de haber sometido la terna para M
 
 Si dentro del término referido el Congreso del Estado rechaza la terna propuesta por el Ejecutivo del Estado, éste propondrá una nueva terna de entre la cual el Congreso del Estado deberá elegir al Magistrado en un término de cinco días hábiles.
 
-> <small>N. DE E. PARA EFECTOS DE LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
-
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 55.
@@ -832,8 +822,6 @@ El Consejo de la Judicatura Estatal se integrará por siete miembros, de los cua
 Los Consejeros deberán reunir los requisitos que la Ley determine y durarán en su encargo tres años, y serán sustituidos en forma escalonada por sextas partes; el Presidente durará el mismo tiempo que dure en su encargo como Presidente del Supremo Tribunal de Justicia.
 
 El Consejo estará facultado para expedir acuerdos para el adecuado ejercicio de sus funciones, de conformidad con lo que establezca la Ley, así como para coadyuvar en la elaboración del presupuesto de egresos del Poder Judicial del Estado.
-
-> <small>N. DE E. PARA EFECTOS DE LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
@@ -872,8 +860,6 @@ II.- Conocer, en los términos de esta Constitución de los procesos que por il�
 III.- Declarar si ha lugar a formación de causa en contra de los jueces, por ilícitos oficiales o del orden común.
 
 IV.- Conocer del nombramiento y remoción de los servidores públicos del Poder Judicial en los términos señalados por los Artículos 55 y 56 de esta Constitución y del Reglamento del Consejo de la Judicatura Estatal.
-
-> <small>N. DE E. PARA EFECTOS DE LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
 V.- Conceder licencia a sus Magistrados en funciones para separarse de sus cargos, y llamar de entre los Supernumerarios, al suplente respectivo.
 
@@ -1806,6 +1792,12 @@ SEGUNDO.- Los Magistrados del Supremo Tribunal de Justicia actualmente en funcio
 TERCERO.- Los Jueces de Primera Instancia actualmente en funciones, que no resulten ascendidos en la carrera judicial, a la conclusión de su encargo, deberán sustituirse de manera sucesiva, en el orden que decida el Consejo de la Judicatura Estatal.
 
 CUARTO.- Con el fin de proveer una salida e ingreso alternado de los actuales Magistrados del Supremo Tribunal de Justicia del Estado, por única ocasión y al terminar su encargo de diez años, los dos magistrados mas antiguos en el Poder Judicial serán sustituidos. Cada seis meses se aplicará el mismo procedimiento hasta completar la renovación total de los actuales magistrados.
+
+P.O. 11 DE NOVIEMBRE DE 2002.
+
+PRIMERO.- La presente reforma constitucional entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La iniciativa que contenga los proyectos de Ley de Ingresos y Presupuesto de Egresos para el Ejercicio Fiscal del año 2003, deberán presentarse a más tardar el 15 de noviembre del año 2002.
 
 ###### ARTICULO UNICO.
 
