@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2001-10-02"
+last_updated: "2002-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE OCTUBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE DICIEMBRE DE 2002.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1569,6 +1569,10 @@ Los planes y programas podrán ser modificados o suspendidos siguiendo el mismo 
 
 Los ayuntamientos están facultados para constituir con cargo a la hacienda pública municipal, organismos públicos descentralizados, con la aprobación de la Legislatura del Estado, así como aportar recursos de su propiedad en la integración del capital social de empresas paramunicipales y fideicomisos.
 
+> <small>(ADICIONADO, G.G. 11 DE DICIEMBRE DEL 2002)</small>
+
+Los ayuntamientos podrán crear organismos descentralizados para la atención del desarrollo de la mujer.
+
 ###### Artículo 124.
 
 Los órganos de control y evaluación gubernamental de los ayuntamientos, serán los responsables de la supervisión y evaluación de la operación de los organismos auxiliares y fideicomisos a que se refiere el presente capítulo.
@@ -1601,7 +1605,9 @@ VIII. Seguridad pública y tránsito;
 
 IX. Embellecimiento y conservación de los poblados, centros urbanos y obras de interés social;
 
-X. Asistencia social en el ámbito de su competencia;
+> <small>(REFORMADA, G.G. 11 DE DICIEMBRE DEL 2002)</small>
+
+X. Asistencia social en el ámbito de su competencia, y atención para el desarrollo integral de la mujer, para lograr su incorporación plena y activa en todos los ámbitos;
 
 XI. De empleo.
 
@@ -2115,7 +2121,7 @@ Publíquese el presente decreto en la "Gaceta del Gobierno".
 
 Este decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
 
-G.G. 30 DE SEPTIEMBRE DE 1997.
+G.G. 30 DE SEPTIEMBRE DE 1997
 
 PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
 
@@ -2148,3 +2154,9 @@ G.G. 2 DE OCTUBRE DE 2001.
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este decreto entrará en vigor el primero de enero de dos mil dos.
+
+G.G. 11 DE DICIEMBRE DEL 2002.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente a su publicación en el periódico oficial "Gaceta del Gobierno".
