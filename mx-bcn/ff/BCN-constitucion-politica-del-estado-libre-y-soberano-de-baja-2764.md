@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1999-10-29"
+last_updated: "2000-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 1999.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2000.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -773,15 +773,37 @@ En las faltas temporales que excedan de treinta días el Congreso nombrará un G
 
 El nombramiento de Gobernador Interino lo hará el Congreso en escrutinio secreto y por mayoría absoluta de votos.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1999)</small>
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DEL 2000)</small>
 
-En caso de falta absoluta del Gobernador ocurrida durante los dos primeros años del período, el Congreso designará por mayoría absoluta de votos un Gobernador Provisional que convoque a elecciones dentro de los dos meses siguientes, debiendo verificarse éstas en un término no mayor de cuatro meses posteriores a la convocatoria. Si estuviere en receso, la Comisión Permanente convocará al Congreso dentro de las veinticuatro horas siguientes a un periodo extraordinario, para que designe al Gobernador Provisional.
+Son causas de falta absoluta del Gobernador del Estado, las siguientes:
 
-La persona que sea electa Gobernador Provisional, tomará posesión de su cargo dentro del término de diez días posteriores a la fecha en que se haga la declaratoria correspondiente.
+I.- La muerte;
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1999)</small>
+II.- La incapacidad total y permanente para ejercer el cargo; que será declarada por autoridad judicial y ratificada por el Congreso del Estado;
 
-Si la falta absoluta ocurriere después de los dos primeros años, y el Congreso estuviere en funciones, designará por mayoría absoluta un Gobernador Sustituto que termine el periodo. Si el Congreso no estuviere en funciones, la Comisión Permanente nombrará mediante mayoría simple un Gobernador Interino y convocará, desde luego, a un periodo extraordinario de Sesiones, para que el Congreso designe al Gobernador Substituto.
+III.- La renuncia expresa por causa grave que será calificada por el Congreso del Estado;
+
+IV.- La separación del cargo por declaratoria de autoridad competente;
+
+V.- Si transcurridos seis meses y convocado por el Congreso, el Gobernador ausente o separado de sus funciones no se presenta, sin causa justificada, a asumir el ejercicio de su cargo;
+
+VI.- Las demás que establezca expresamente esta Constitución.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DEL 2000)</small>
+
+En caso de falta absoluta ocurrida durante los dos primeros años del período, el Congreso designará por mayoría absoluta de votos un Gobernador Provisional que convoque a elecciones dentro de los dos meses siguientes, debiendo verificarse éstas en un término no mayor de cuatro meses posteriores a la convocatoria. Si estuviere en receso, la Comisión Permanente convocará al Congreso dentro de las veinticuatro horas siguientes a un período extraordinario, para que designe al Gobernador Provisional.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DEL 2000)</small>
+
+La persona que sea designada Gobernador Provisional, tomará posesión de su cargo dentro del término de diez días posteriores a la fecha en que se haga la declaratoria correspondiente.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DEL 2000)</small>
+
+Si la falta absoluta ocurriere después de los dos primeros años, y el Congreso estuviere en funciones, designará por mayoría absoluta un Gobernador Sustituto que termine el período. Si el Congreso no estuviere en funciones, la Comisión Permanente convocará dentro de las veinticuatro horas siguientes, a un período extraordinario de sesiones, para que el Congreso en un término de ocho días designe al Gobernador Sustituto; caso en el cual el Secretario de Gobierno se hará cargo del despacho de conformidad con lo dispuesto por el artículo 45 de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DEL 2000)</small>
+
+El ciudadano que sea designado para suplir al Titular del Poder Ejecutivo como Gobernador Interino, Provisional o Sustituto, deberá reunir los requisitos establecidos en el Artículo 41 de esta Constitución con excepción de lo dispuesto por la fracción VI.
 
 ###### ARTICULO 47.
 
@@ -1417,7 +1439,7 @@ VII.- Las demás que señale la Ley Orgánica de la Administración Pública Mun
 
 ###### ARTICULO 86.
 
-En las poblaciones que no sean cabeceras de municipalidad, según la importancia del poblado, los Ayuntamientos correspondientes nombrarán Delegado o Subd-elegados (sic), con las facultades y obligaciones que se determinarán en la Ley Orgánica Municipal.
+En las poblaciones que no sean cabeceras de municipalidad, según la importancia del poblado, los Ayuntamientos correspondientes nombrarán Delegado o Subd elegados (sic), con las facultades y obligaciones que se determinarán en la Ley Orgánica Municipal.
 
 ###### ARTICULO 87.
 
@@ -1465,7 +1487,7 @@ El Congreso del Estado, dentro de los ámbitos de su competencia, expedirá la L
 
 I.- Se impondrán, mediante juicio político, las sanciones indicadas en el Artículo 93 a los servidores públicos señalados en el mismo precepto, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
 
-No procede el juicio político por la mera expresión de ideas;
+No procede el juicio político por la mera expresión de ideas.
 
 II.- La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la (sic) penal; y
 
@@ -1573,11 +1595,11 @@ En el Estado las mujeres tienen los mismos derechos civiles y políticos que los
 
 Las relaciones entre el Estado y sus servidores estarán reguladas por Ley del Servicio Civil que se sujetará a los siguientes principios:
 
-I.- Los trabajadores del Estado que sean de base, no podrán ser cesados sino por causa de incompetencia, mala conducta o de responsabilidad.
+I.- Los trabajadores del Estado que sean de base, no podrán ser cesados sino por causa de incompetencia, mala conducta o de responsabilidad;
 
-II.- Las promociones de los empleados se harán dentro de las mismas funciones en forma escalafonaria atendiendo a la competencia, antigüedad y antecedentes en el servicio.
+II.- Las promociones de los empleados se harán dentro de las mismas funciones en forma escalafonaria atendiendo a la competencia, antigiiedad (sic) y antecedentes en el servicio;
 
-III.- Serán preferidos en los empleos del Estado, en igualdad de circunstancias, las personas más necesitadas económicamente.
+III.- Serán preferidos en los empleos del Estado, en igualdad de circunstancias, las personas más necesitadas económicamente;
 
 IX (sic).- La Ley fijará cuáles son los empleados de confianza y cuáles los de base.
 
@@ -2256,3 +2278,11 @@ P.O. 29 DE OCTUBRE DE 1999.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Córrase el trámite que señala el Artículo 112, de la Constitución Política del Estado a los Municipios para que emitan su opinión, en los términos de Ley.
+
+P.O. 6 DE OCTUBRE DE 2000.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En cumplimiento de los requisitos y trámites en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, envíese a los Ayuntamientos copia de la iniciativa y del acta de los debates que haya provocado.
+
+TERCERO.- Envíese al Ejecutivo para su publicación.
