@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1951-01-24"
+last_updated: "1951-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 1951.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 1951.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -291,13 +291,13 @@ Si por cualquier circunstancia no hubiere Comisión Permanente al instalarse el 
 
 El Congreso no puede abrir sus sesiones ni ejercer su encargo, sin la concurrencia de más de la mitad del número total de sus miembros; pero los presentes deberán reunirse los días señalados por la Ley y compeler a los ausentes a que concurran bajo las penas que la misma Ley desige (sic), y en su caso llamar a los respectivos suplentes a fin de que funcionen mientras se presentan los propietarios.
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1946)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 1951)</small>
 
 ###### Art. 31.
 
-El Congreso tendrá cada año un período de sesiones ordinarias y durará cuatro meses, comenzando el día 1° de diciembre.
+El Congreso tendrá cada año, dos períodos de sesiones ordinarias, y durarán tres meses cada uno, comenzando uno el día primero de diciembre y el otro el día primero de junio.
 
-Fuera del período que señala el párrafo anterior, el Congreso solo celebrará sesiones extraordinarias cuando para ello fuere convocado por el Ejecutivo o por la Diputación Permanente, ocupándose entonces únicamente de los asuntos para los cuales se hizo la Convocatoria.
+Fuera de los períodos que señala el párrafo anterior, el Congreso solo celebrará sesiones extraordinarias cuando para ellos fuere convocado por el Ejecutivo o por la Diputación Permanente, ocupándose entonces únicamente de los asuntos para los cuales se hizo la convocatoria.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE OCTUBRE DE 1946)</small>
 
@@ -1056,3 +1056,13 @@ El presente Decreto surtirá sus efectos a partir del día siguiente al de su pu
 P.O. 24 DE ENERO DE 1951.
 
 El presente Decreto surtirá sus efectos al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JUNIO DE 1951.
+
+###### Artículo 1°.
+
+La Diputación Permanente que actúa desde el día primero de abril, por receso del H. Congreso, deberá funcionar hasta el día 31 del actual, para normalizar sus períodos ordinarios de sesiones.
+
+###### Artículo 2°.
+
+El presente Decreto surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
