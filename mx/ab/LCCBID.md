@@ -4,7 +4,7 @@ identifier: "LCCBID"
 country: "mx"
 rank: "ley"
 publication_date: "1959-12-19"
-last_updated: "1986-01-13"
+last_updated: "1989-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=436&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCCBID"
 
 LEY QUE ESTABLECE BASES PARA LA EJECUCION EN MEXICO, POR EL PODER EJECUTIVO FEDERAL, DEL CONVENIO CONSTITUTIVO DEL BANCO INTERAMERICANO DE DESARROLLO.
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ENERO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 1989.
 
 Ley publicada en el Diario Oficial de la Federación el sábado 19 de diciembre de 1959.
 
@@ -42,17 +42,17 @@ LEY que establece bases para la ejecución en México, por el Poder Ejecutivo Fe
 
 Se aprueba el Convenio Constitutivo del Banco Interamericano de Desarrollo, para los efectos de la fracción VIII del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, conforme al texto adoptado en Washington el 8 de abril de 1959.
 
-> <small>(REFORMADO, D.O.F. 01 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 2o.
 
-El Banco de México queda autorizado para efectuar, con la garantía del Gobierno Federal, la suscripción adicional de 91,824 acciones o partes sociales del Banco Interamericano de Desarrollo, hasta por el equivalente de 918.240,000 (novecientos dieciocho millones, dos cientos cuarenta mil) dólares de los Estados Unidos de América, del peso y ley en vigor al 1o. de enero de 1959.
+El Banco de México queda autorizado para efectuar con la garantía del Gobierno Federal, la suscripción adicional de 163,308 acciones o partes sociales del Banco Interamericano de Desarrollo hasta por el equivalente de 1,633'080,000 (un mil seiscientos treinta y tres millones, ochenta mil) dólares de los Estados Unidos de América de peso y ley en vigor al 1o. de enero de 1959.
 
-> <small>(REFORMADO, D.O.F. 01 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 3o.
 
-El Banco de México queda autorizado para efectuar, con la garantía del Gobierno Federal, aportaciones adicionales hasta el equivalente de 28.000,000 (veintiocho millones) de dólares de los Estados Unidos de América, para cubrir la cuota de la contribución de México al Fondo de Operaciones Especiales a que se refiere el Artículo IV del Convenio Constitutivo de dicho Organismo.
+El Banco de México queda autorizado para efectuar con la garantía del Gobierno Federal, aportaciones adicionales hasta el equivalente de 7'947,000 (siente (sic) millones novecientos cuarenta y siete mil) dólares de los Estados Unidos de América, para cubrir la cuota de la contribución de México al Fondo de Operaciones Especiales a que se refiere el Artículo IV del Convenio Constitutivo de dicho organismo.
 
 > <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
 
@@ -163,3 +163,9 @@ D.O.F. 13 DE ENERO DE 1986.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE DICIEMBRE DE 1989.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
