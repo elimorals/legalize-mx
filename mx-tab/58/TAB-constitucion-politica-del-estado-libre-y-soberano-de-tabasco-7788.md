@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1996-12-21"
+last_updated: "1997-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,21 +21,37 @@ state: "TAB"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
+DECLARATORIA CONJUNTA PARA LA OPERACIÓN DE LA INTERCONEXIÓN ENTRE LOS SISTEMAS TECNOLÓGICOS DEL CONSEJO DE LA JUDICATURA FEDERAL Y DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, PARA LA TRAMITACIÓN ELECTRÓNICA DEL JUICIO DE AMPARO DERIVADA DEL CONVENIO SUSCRITO EL UNO DE JUNIO DE DOS MIL DIECISIETE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1996.
+TEXTO ORIGINAL.
 
-Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
+Declaratoria publicada en el Diario Oficial de la Federación, el miércoles 24 de noviembre de 2021.
 
-General Brigadier CARLOS GREENE, Gobernador Constitucional del Estado Libre y Soberano de Tabasco a sus habitantes hago saber:
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
 
-LA H. XXVI LEGISLATURA DEL ESTADO DE TABASCO, erigida en Congreso Constituyente el día 10 de marzo último en la ciudad de Villahermosa, de conformidad con el artículo 64 de la Ley Orgánica Electoral de 23 de diciembre de 1918, expide la siguiente
+DECLARATORIA CONJUNTA PARA LA OPERACIÓN DE LA INTERCONEXIÓN ENTRE LOS SISTEMAS TECNOLÓGICOS DEL CONSEJO DE LA JUDICATURA FEDERAL Y DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, PARA LA TRAMITACIÓN ELECTRÓNICA DEL JUICIO DE AMPARO DERIVADA DEL CONVENIO SUSCRITO EL UNO DE JUNIO DE DOS MIL DIECISIETE.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+El Pleno del Consejo de la Judicatura Federal, con fundamento en los artículos 94, párrafo segundo; 100, párrafos primero y noveno, de la Constitución Política de los Estados Unidos Mexicanos; 73 y 86, fracciones II, XVII y XXXV, de la Ley Orgánica del Poder Judicial de la Federación, 1, 2, fracción VII, 12, 15 y 16 del Acuerdo General Conjunto 1/2013 de la Suprema Corte de Justicia de la Nación, del Tribunal Electoral del Poder Judicial de la Federación y del Consejo de la Judicatura Federal, relativo a la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL) y al expediente electrónico, 1 y 2 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los servicios de interconexión tecnológica entre los órganos jurisdiccionales con diversas instituciones públicas, así como 3, fracción IV, 20, 71, 72, 75 y 76 del Acuerdo General Conjunto 12/2020, del Pleno del Consejo de la Judicatura Federal, que regula la integración y trámite de expediente electrónico y el uso de videoconferencias en todos los asuntos competencia de los órganos jurisdiccionales a cargo del propio Consejo, y el Poder Judicial del Estado de San Luis Potosí, con fundamento en el artículo 116 párrafo segundo, fracción III de la Constitución Política de los Estados Unidos Mexicanos; artículos 3 y 90 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí; artículo 1, 4, 17 y 96 de la Ley Orgánica del Poder Judicial del Estado de San Luis Potosí, y 39 del Reglamento Interior del Poder Judicial del Estado de San Luis Potosí, las intervinientes tienen a bien emitir las siguientes:
 
-Constitución Política del Estado Libre y Soberano de Tabasco
+CONSIDERACIONES
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+La Ley de Amparo, reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el dos de abril de dos mil trece, establece en los artículos 3, 20, 21, 22, 23, 24, 25, 26, 27, 30, 31, 70, 80, 88, 89, 90, 100, 101, 108, 110, 116, 123 y 177, el uso de las tecnologías de la información en el trámite del juicio constitucional, específicamente un sistema electrónico del Poder Judicial de la Federación a través del cual y con el uso de la firma electrónica, las partes tienen la opción de enviar y recibir promociones, documentos, comunicaciones y notificaciones oficiales, así como consultar acuerdos, resoluciones y sentencias, promover demandas, recursos y cualquier otro escrito u oficio que envíen las partes en un juicio de amparo o diverso juicio competencia de órganos jurisdiccionales del Poder Judicial de la Federación.
+
+Derivado de lo anterior, el ocho de julio de dos mil trece, se publicó en el Diario Oficial de la Federación el Acuerdo General Conjunto número 1/2013 de la Suprema Corte de Justicia de la Nación, del Tribunal Electoral del Poder Judicial de la Federación y del Consejo de la Judicatura Federal, relativo a la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL) y al expediente electrónico, mismo que establece en sus artículos 1, 2 fracción VII, 12, 15 y 16, las bases para la integración, consulta y almacenamiento del expediente electrónico en los órganos administrativos y jurisdiccionales del Poder Judicial de la Federación, a efecto de que, el sistema de integración de dichos expedientes electrónicos, permita a los servidores públicos encargados, la mayor diligencia y cuidado respecto de los datos personales de las partes en materia de información pública, y se generen los medios para su acceso y visualización.
+
+En los artículos 3, fracción IV, 20, 71, 72, 75 y 76 del Acuerdo General 12/2020 del Pleno del Consejo de la Judicatura Federal, que regula la integración y trámite de expediente electrónico y el uso de videoconferencias en todos los asuntos competencia de los órganos jurisdiccionales a cargo del propio Consejo, se facultó al Consejo de la Judicatura Federal para celebrar convenios de interconexión tecnológica con otras instituciones públicas que figuren como partes en los juicios de amparo y que cuenten con sistemas tecnológicos de gestión, entre ellos los Tribunales Judiciales de los Estados a fin de que reciban electrónicamente demandas de amparo, rindan sus informes a través de esa vía y puedan consultar expedientes electrónicos o carpetas digitales, incluso se prevé como opción que el Consejo de la Judicatura Federal pueda compartir con estos los desarrollos tecnológicos con los que cuenta y, mediante declaratoria publicada en el Diario Oficial de la Federación, se haga del conocimiento de las y los justiciables que pueden presentar promociones y recursos por vía electrónica en los órganos jurisdiccionales con los que se hayan celebrado los convenios.
+
+El pasado uno de junio de dos mil diecisiete, el Consejo de la Judicatura Federal y el Poder Judicial del Estado de San Luis Potosí, tuvieron a bien suscribir el convenio de interconexión entre los sistemas tecnológicos de gestión jurisdiccional, el cual, en su cláusula Décimo Segunda prevé la publicación de la presente declaratoria en el Diario Oficial de la Federación y en el Periódico Oficial del Estado de San Luis Potosí, a fin de que opere plenamente la tramitación electrónica del juicio de Amparo entre los Juzgados de Distrito y Tribunales de Circuito que administra el Consejo de la Judicatura Federal y los órganos jurisdiccionales del Poder Judicial del Estado de San Luis Potosí; el cual, en una primera etapa, permitirá el trámite electrónico del juicio de amparo indirecto que se promueva en contra de las salas del Supremo Tribunal de Justicia y en una posterior etapa, ante los órganos jurisdiccionales de Primera Instancia del Poder Judicial del Estado, que tengan su sede en la ciudad de San Luis Potosí, San Luis Potosí, y más adelante, los órganos jurisdiccionales de los demás distritos judiciales que cuenten con el equipamiento tecnológico y la conectividad necesaria, así como el uso de firmas electrónicas, objeto de la presente declaratoria.
+
+Por lo expuesto y fundado, el Consejo de la Judicatura Federal y el Poder Judicial del Estado de San Luis Potosí, tienen a bien declarar lo siguiente:
+
+A partir del uno de diciembre dos mil veintiuno, inicia el trámite electrónico de interconexión tecnológica del juicio de amparo indirecto entre los Juzgados de Distrito y Tribunales de Circuito del Poder Judicial de la Federación y las Salas del Supremo Tribunal de Justicia del Poder Judicial del Estado de San Luis Potosí, en el que se hará uso de la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL), la Firma Electrónica Avanzada (e.firma) o de otros certificados digitales que sean reconocidos por ambas instituciones declarantes. La interconexión con los demás órganos jurisdiccionales del Poder Judicial del Estado de San Luis Potosí se realizará gradualmente y mediante un adenda a la presente declaratoria.
+
+Los servicios de interconexión tecnológica de las Salas del Supremo Tribunal de Justicia y los órganos jurisdiccionales del Poder Judicial del Estado de San Luis Potosí, funcionarán en días hábiles, de lunes a jueves de las ocho horas a las catorce horas con treinta minutos y de las ocho horas a las catorce horas los días viernes.
+
+En consecuencia, todos los escritos, oficios y determinaciones para trámite de los juicios de amparo indirecto del Poder Judicial de la Federación que sean recibidos a través de la interconexión tecnológica, serán atendidos en el horario antes señalado, por lo cual los plazos, surtirán efectos a partir de la primera hora hábil siguiente.
+
+Para el caso de días inhábiles o festivos, no se recibirán comunicaciones oficiales de los Juzgados de Distrito y Tribunales de Circuito del Poder Judicial de la Federación, con excepción de las Salas en materia penal y en su oportunidad los juzgados de primera instancia que conozcan de la materia penal y los especializados en justicia para adolescentes del Poder Judicial del Estado de San Luis Potosí, los cuales conocerán los trescientos sesenta y cinco días del año, y serán atendidos en el día hábil siguiente, a aquel en que se tengan por legalmente recibidas las comunicaciones de término o vencimiento.
 
 ## TITULO I. DEL ESTADO Y SUS HABITANTES
 
@@ -1327,56 +1343,6 @@ El manejo de Recursos Económicos del Estado, de los Municipios y de sus respect
 
 Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del título séptimo de esta Constitución.(REFORMADO, P.O. 9 DE ABRIL DE 1983)
 
-###### ARTICULO 76.
-
-Corresponde al Estado la Rectoría del Desarrollo de la Entidad, para Garantizar que éste sea integral, que fortalezca su soberanía y su Régimen Democrático y que, mediante el Crecimiento Económico que fomente el empleo, y una más justa distribución del ingreso y la riqueza, permita el pleno ejercicio de las libertades y la dignidad de los individuos, grupos y clases sociales cuya seguridad protege el derecho.
-
-El Estado Planeará, Conducirá, Coordinará y Orientará la Actividad Económica Estatal, y llevará a cabo la regulación y fomento de las Actividades que demande el interés General, en el marco de las Libertades Otorgadas por la Ley.
-
-Al Desarrollo Económico Estatal Concurrirán con Responsabilidad Social, el Sector Público, el Sector Social y el Sector Privado, sin menoscabo de otras formas de Actividad Económica que contribuyan al Desarrollo de la Entidad.
-
-El Sector Público tendrá a su cargo, de manera exclusiva, las áreas estratégicas definidas por esta Constitución y las Leyes que de ella emanen. Para un mejor cumplimiento de sus fines, la Ley Precisará las formas de Participación Social en estas áreas, conservando el Estado en todo tiempo el Control sobre la Conducción y Operación. Asimismo, podrá participar por sí, o a través de los Sectores Social o Privado de acuerdo con la Ley, para impulsar y organizar las areas prioritarias del desarrollo.
-
-Bajo criterios de equidad social y productividad, se apoyara e impulsará al sector social y al sector privado de la economía, sujetandolos junto con las actividades económicas que realiza el Estado, a las modalidades que dicte el interés Público y al uso, en beneficio general de los recursos productivos, cuidando de su conservación y del medio ambiente.
-
-La Ley, establecerá los mecanismos que faciliten la organización y expansión de la actividad económica del sector social, mediante organizaciones para trabajadores, cooperativas, comunidades, empresas que pertenezcan mayoritaria o exclusivamente a los trabajadores y, en general, de todas las formas de organización social para la producción, distribución y consumo de bienes y servicios socialmente necesarios.
-
-La Ley alentará y protegerá la actividad económica que realizan los particulares y proveerá condiciones para el desenvolvimiento de la empresa privada en los términos legales.
-
-El Estado organizará un sistema de planeación Democrática del Desarrollo Estatal que imprima solidez, dinamismo, permanencia y equidad, al crecimiento de la economía y a la democratización Política, Social y Cultural del Estado.
-
-Los fines del proyecto estatal contenidos en esta Constitución determinarán los objetivos de la planeación. La Planeación será democrática buscando la participación de los diversos sectores sociales y recogiendo las aspiraciones y demandas de la sociedad para incorporarlos al plan y a los programas de desarrollo. Por tanto, habrá un Plan Estatal de Desarrollo al que se sujetarán obligatoriamente los programas de la administración pública del Estado. La Ley facultará al Ejecutivo para que pueda establecer los procedimientos de participación y consulta popular en el Sistema Estatal de Planeación Democrática, así como los criterios de la formulación, instrumentación, control y evaluación del Plan y los programas de desarrollo. Asimismo, determinará cuales serán los órganos responsables del proceso de planeación y las bases para que el Ejecutivo coordine, mediante convenios con los Gobiernos de las entidades municipales, e induzca y concerte con los particulares, las acciones a realizar para su elaboración y ejecución.
-
-El Ejecutivo informará al congreso del Estado de los criterios que sirvan de base al plan estatal de desarrollo, con el fin de que los tome en consideración al ejercer sus atribuciones constitucionales.
-
-El Estado coadyuvará con la Federación, promoviendo las condiciones para el desarrollo rural integral, con el propósito de generar empleos y de garantizar el acceso de la población campesina al bienestar y justa incorporación y participación en el desarrollo del Estado. Igualmente, fomentará la actividad agropecuaria y forestal para el mejor uso de la tierra, con obras de infraestructura, insumos, creditos y servicios de capacitación y extensionismo.
-
-El Estado impulsará también, junto con la Federación, la organización para la producción, industrialización y comercialización, que requiera la economía estatal y el beneficio de los campesinos.
-
-> <small>N. DE E. EN TERMINOS DEL TERCERO TRANSITORIO DEL DECRETO DE REFORMA, SE MANTIENEN VIGENTES LOS DOCE PARRAFOS ANTERIORES.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 1983)</small>
-
-Los recursos Económicos de que dispongan el Gobierno del Estado, de los Municipios, así como sus respectivas Administraciones Públicas Paraestatales, se administrarán con eficiencia y honradez para satisfacer los objetivos a los que estén destinados.
-
-> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 1983)</small>
-
-Las Adquisiciones, Arrendamientos y Enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y contratación de obras que realicen, se adjudicarán o llevarán a cabo a traves de licitaciones públicas, mediante convocatoria Pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportinidad (sic) y demás circunstancias pertinentes.
-
-> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 1983)</small>
-
-Cuando las licitaciones a que hace referencia al párrafo anterior, no sean idóneas para asegurar dichas condiciones, las Leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
-
-> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 1983)</small>
-
-El manejo de Recursos Económicos del Estado, de los Municipios y de sus respectivas Administraciones Públicas paraestatales, se sujetarán a las bases de este artículo.
-
-> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 1983)</small>
-
-Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del título séptimo de esta Constitución.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
 ###### ARTICULO 77.
 
 Para los efectos de esta Constitución, la residencia no se pierde por ausencia en el desempeño de cargo de elección popular, de comisiones oficiales del Gobierno del Estado o con motivo del deber de todo mexicano de servir a la Patria y sus Instituciones.
@@ -1433,7 +1399,13 @@ La presente Constitución puede ser adicionada o reformada. Para que las adicion
 
 Esta Constitución no perderá su vigencia, aun cuando por alguna rebelión se interrumpa su observancia. En caso de que por cualquier trastorno público se establezca un Gobierno contrario a los principios que ella sanciona, tan luego como el pueblo recobre su libertad se restablecerá su observancia y con arreglo a ella y a las leyes que en su virtud se hubieren expedido, serán juzgados quienes hayan figurado en el Gobierno emanado de la rebelión, así como los que hubieren contribuido a ésta.
 
-## TRANSITORIOS.
+## TRANSITORIOS
+
+PRIMERO. La presente declaratoria entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese la presente Declaratoria en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+EL LICENCIADO ARTURO GUERRERO ZAZUETA, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que esta Declaratoria conjunta para la operación de la interconexión entre los sistemas tecnológicos del Consejo de la Judicatura Federal y del Poder Judicial del Estado de San Luis Potosí, para la tramitación electrónica del juicio de amparo derivada del convenio suscrito el uno de junio de dos mil diecisiete, fue aprobada por el Pleno del Consejo de la Judicatura Federal, en sesión ordinaria de 10 de noviembre de 2021, por unanimidad de votos de los señores Consejeros: Presidente Ministro Arturo Zaldívar Lelo de Larrea, Bernardo Bátiz Vázquez, Jorge Antonio Cruz Ramos, Eva Verónica de Gyvés Zárate, Alejandro Sergio González Bernabé, Sergio Javier Molina Martínez y Loretta Ortiz Ahlf.- Ciudad de México, a 17 de noviembre de 2021.- Conste.- Rúbrica.
 
 ###### Art. 1°.
 
