@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-la-procuraduria-social-del-distrito-158
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-03-28"
-last_updated: "2000-03-28"
+last_updated: "2002-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15888&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-02-09"
 
 REGLAMENTO DE LA LEY DE LA PROCURADURIA SOCIAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE MARZO DE 2002.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 28 de marzo de 2000.
 
@@ -78,7 +78,9 @@ I. Un Consejo de Gobierno;
 
 II. Un Procurador;
 
-a) Un Subprocurador de Quejas y Orientación Social;
+> <small>(REFORMADO, G.O. 27 DE MARZO DE 2002)</small>
+
+a) Un Subprocurador de Orientación, Quejas y Conciliaciones;
 
 b) Un Subprocurador de Concertación Social;
 
@@ -98,7 +100,9 @@ II. Aprobar o, en su caso, modificar el orden del día de las sesiones del Conse
 
 III. Las demás atribuciones que le confieran otros ordenamientos jurídicos y administrativos aplicables.
 
-Para que las sesiones del Consejo de Gobierno sean válidas, deberán contar con un quórum de las dos terceras partes de sus miembros, y las decisiones del Consejo de Gobierno serán tomadas por mayoría de votos de los miembros presentes; en caso de empate, el Presidente tendrá voto de calidad.
+> <small>(REFORMADO, G.O. 27 DE MARZO DE 2002)</small>
+
+Para que las sesiones del Consejo de Gobierno sean válidas, deberán contar con un quórum de la mitad más uno de sus miembros con derecho a voz y voto, y las decisiones del Consejo de Gobierno serán tomadas por mayoría de votos de los miembros presentes; en caso de empate, el Presidente tendrá voto de calidad.
 
 ###### Artículo 5°.
 
@@ -154,99 +158,127 @@ XIV. Ejecutar los acuerdos del Consejo de Gobierno;
 
 XV. Suscribir las resoluciones administrativas y los laudos arbítrales, e imponer las sanciones correspondientes por la violación a la Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal, y
 
-XVI. Las demás atribuciones que le confieran este Reglamento y otros ordenamientos jurídicos y administrativos aplicables.
+> <small>(ADICIONADA, G.O. 27 DE MARZO DE 2002)</small>
 
-###### Artículo 7°.
+XVI. Ejecutar las actividades y programas derivados del Programa General de Desarrollo del Distrito Federal, que sean afines a las atribuciones conferidas en la Ley y la Ley Condominal, por acuerdo del Consejo de Gobierno y del Jefe de Gobierno del Distrito Federal;
 
-Corresponde a la Subprocuraduría de Concertación Social:
+> <small>(ADICIONADA, G.O. 27 DE MARZO DE 2002)</small>
+
+XVII. Efectuar las inspecciones y notificaciones derivadas de la aplicación de la Ley Condominal y seguimiento de la queja administrativa;
+
+> <small>(ADICIONADA, G.O. 27 DE MARZO DE 2002)</small>
+
+XVIII.- Certificar y expedir copias de los documentos que obren en los archivos de la Procuraduría, y
+
+XIX. Las demás atribuciones que le confieran este Reglamento y otros ordenamientos jurídicos y administrativos aplicables.
+
+> <small>(REFORMADO, G.O. 27 DE MARZO DE 2002)</small>
+
+Artículo. 7°.- Corresponde a la Subprocuraduría de Concertación Social:
 
 I. Procurar el cumplimiento de la Ley Condominal;
 
-II. Iniciar, vigilar, coordinar y controlar el procedimiento de conciliación;
+II. Brindar orientación, asesoría y apoyo en materia condominal y en materia de arrendamiento;
 
-III. Aplicar, dentro del ámbito de su competencia, los medios de apremio señalados en la ley;
+III. Establecer los lineamientos y criterios para promover y apoyar la constitución de autoadministraciones de condominios, y proporcionarles capacitación y asesoría;
 
-IV. Establecer los lineamientos y criterios para promover y apoyar la constitución de autoadministraciones de condominios, y proporcionarles capacitación y asesoría;
+IV. Fijar las bases y coordinar el funcionamiento de los registros de autorización de los libros de actas de las Asambleas de Condóminos, de los nombramientos de Administradores, y acreditación de convocatorias;
 
-V. Fijar las bases y coordinar el funcionamiento de los registros de autorización de los libros de actas de las Asambleas de Condóminos, de los nombramientos de Administradores, y de las empresas capacitadoras;
+V. Fomentar la promoción de la cultura condominal;
 
-VI. Fomentar la promoción de la cultura condominal;
+VI. Acordar y someter a la aprobación del Procurador el despacho de los asuntos que le encomiende e informarle de su cumplimiento;
 
-VII. Acordar y someter a la aprobación del Procurador el despacho de los asuntos que le encomiende e informarle de su cumplimiento;
+VII. Desempeñar las comisiones que le encargue el Procurador, e informarle sobre su desarrollo y resultados;
 
-VIII. Desempeñar las comisiones que le encargue el Procurador, e informarle sobre su desarrollo y resultados;
+VIII. Proponer al Procurador la delegación de facultades en servidores subalternos;
 
-IX. Proponer al Procurador la delegación de facultades en servidores subalternos.
+IX. Someter a la consideración del Procurador los estudios, proyectos y programas que elaboren las unidades administrativas a su cargo;
 
-X. Someter a la consideración del Procurador los estudios, proyectos y programas que elaboren las unidades administrativas a su cargo;
+X. Acordar con sus subalternos el trámite, resolución y despacho de los asuntos de competencia de éstos;
 
-XI. Acordar con sus subalternos el trámite, resolución y despacho de los asuntos competencia de éstos;
+XI. Apoyar al Procurador en la promoción, conducción, coordinación, vigilancia y evaluación de las actividades de la Procuraduría Social;
 
-XII. Apoyar al Procurador en la promoción, conducción, coordinación, vigilancia y evaluación de las actividades de la Procuraduría Social, y
+XII. Certificar y expedir copias de los documentos que obren en los archivos de la Subprocuraduría, y
 
-XIII. Las demás atribuciones que le confieran otros ordenamientos jurídicos, las delegadas expresamente por el Procurador y las que correspondan a las unidades administrativas adscritas a la misma.
+XIII. Las demás atribuciones que le confieren otros ordenamientos jurídicos, las delegadas expresamente por el Procurador y las que corresponda a la (sic) unidades administrativas adscritas a la misma.
 
-###### Artículo 8°.
+> <small>(REFORMADO, G.O. 27 DE MARZO DE 2002)</small>
 
-Corresponde a la Subprocuraduría de Quejas y Orientación Social:
+Artículo. 8°.- Corresponde a la Subprocuraduría de Orientación, Quejas y Conciliaciones:
 
-I. Recibir las quejas que presenten los ciudadanos u organizaciones de particulares, así como las que le turnen las demás unidades administrativas receptoras de quejas;
+I. Recibir las quejas que presenten los ciudadanos u organizaciones de particulares, así como las que le turnen las demás unidades administrativas receptoras de quejas; y las relacionadas con problemas derivados por la convivencia en los condominios;
 
-II. Proporcionar a cualquier persona que lo solicite, sin más requisito que el proporcionar sus datos general, los servicios de orientación e información competencia de la Procuraduría;
+II. Proporcionar a cualquier persona que lo solicite, sin más requisito que el proporcionar sus datos general (sic), los servicios de orientación e información competencia de la Procuraduría;
 
-III. Promover reuniones de trabajo con las distintas dependencias y entidades de la Administración Pública del Distrito Federal, con el objeto de establecer mecanismos más ágiles y expeditos para la adecuada solución de las quejas;
+III. Proporcionar los servicios relacionados a orientación, queja y conciliación en materia administrativa, de arrendamiento y materia condominal;
 
-IV. Procurar la conciliación entre las autoridades y la ciudadanía, o entre la ciudadanía y otras personas físicas o morales, cuando la queja se refiera a servicios públicos que se prestan en virtud de una concesión, autorización o permiso;
+IV. Promover reuniones de trabajo con las distintas dependencias y entidades de la Administración Pública del Distrito Federal, con el objeto de establecer mecanismos más ágiles y expeditos para la adecuada solución de las quejas;
 
-V. Solicitar informes de las autoridades o concesionarios o permisionarios prestadores de servicios contra quienes se presenten las quejas y, en su caso, realizar la investigación requerida;
+V. Procurar la conciliación entre las autoridades y la ciudadanía, o entre la ciudadanía y otras personas físicas o morales, cuando la queja se refiera a servicios públicos que se prestan en virtud de una concesión, autorización o permiso;
 
-VI. Establecer el sistema de seguimiento a las quejas que procedan, considerando su Investigación e informar del resultado de la misma al quejoso;
+VI. Solicitar informes de las autoridades o concesionarios o permisionarios prestadores de servicios contra quienes se presenten las quejas y, en su caso, realizar la investigación requerida;
 
-VII. Asesorar y orientar a los ciudadanos en el ejercicio de sus derechos sociales y canalizar sus peticiones a las diferentes instancias de la Administración Pública del Distrito Federal con facultades para su atención directa;
+VII. Establecer el sistema de seguimiento a las quejas que procedan, considerando su investigación e informar del resultado de la misma al quejoso;
 
-VIII. Acordar y someter a la aprobación del Procurador el despacho de los asuntos que le encomiende e informarle de su cumplimiento;
+VIII. Asesorar y orientar a los ciudadanos en el ejercicio de sus derechos sociales y canalizar sus peticiones a las diferentes instancias de la Administración Pública del Distrito Federal con facultades para su atención directa;
 
-IX. Desempeñar las comisiones que le encargue el Procurador, e informarle sobre su desarrollo y resultados;
+IX. Acordar y someter a la aprobación del Procurador el despacho de los asuntos que le encomiende e informarle de su cumplimiento;
 
-X. Proponer al Procurador la delegación de facultades en servidores subalternos;
+X. Desempeñar las comisiones que le encargue el Procurador, e informarle sobre su desarrollo y resultados;
 
-XI. Someter a la consideración del Procurador los estudios, proyectos y programas que elaboren las unidades administrativas a su cargo;
+XI. Proponer al Procurador la delegación de facultades en servidores subalternos;
 
-XII. Acordar con sus subalternos el trámite, resolución y despacho de los asuntos competencia de éstos;
+XII. Someter a la consideración del Procurador los estudios, proyectos y programas que elaboren las unidades administrativas a su cargo;
 
-XIII. Apoyar al Procurador en la promoción, conducción, coordinación, vigilancia y evaluación de las actividades de la Procuraduría, y
+XIII. Acordar con sus subalternos el trámite, resolución y despacho de los asuntos competencia de éstos;
 
-XIV. Las demás atribuciones que le confieran otros ordenamientos jurídicos, las delegadas expresamente por el Procurador y las que correspondan a las unidades administrativas adscritas a la misma.
+XIV. Apoyar al Procurador en la promoción, conducción, coordinación, vigilancia y evaluación de las actividades de la Procuraduría;
+
+XV. Iniciar, vigilar, coordinar y controlar el procedimiento de conciliación en materia condominal;
+
+XVI Aplicar, dentro del ámbito de su competencia, los medios de apremio señalados en la ley;
+
+XVII. Certificar y expedir copias de los documentos que obren en los archivos de la Subprocuraduria, y
+
+XVIII. Las demás atribuciones que le confieran otros ordenamientos jurídicos, las delegadas expresamente por el Procurador y las que correspondan a las unidades administrativas adscritas a la misma.
+
+> <small>(REFORMADO, G.O. 27 DE MARZO DE 2002)</small>
 
 ###### Artículo 9°.
 
 Corresponde a la Coordinación General de Recomendaciones y Asuntos Jurídicos:
 
-I. Recopilar la información que se requiera y formular los estudios tendentes a la elaboración de sugerencias y recomendaciones;
+I. Recopilar la información que se requiera y formular los estudios tendentes a la elaboración de sugerencias, dictámenes y recomendaciones;
+
+II. Someter a consideración del Procurador las recomendaciones y sugerencias , para la suscripción de las mismas;
 
 II. Realizar estudios sobre la problemática y repercusión social que tienen las acciones o programas aplicados por la Administración Pública del Distrito Federal, tomando como indicador las inconformidades de la población ante la Procuraduría;
 
-III. Elaborar los proyectos de dictámenes resultantes de las actuaciones que realice y notificarlos a las autoridades competentes de la Administración Pública del Distrito Federal;
+III. Elaborar y suscribir dictámenes resultantes de las actuaciones que realicen y notificarlos a las autoridades competentes de la Administración Pública del Distrito Federal;
 
 IV. Realizar sondeos de opinión y encuestas entre los habitantes del Distrito Federal, en las materias competencia de la Procuraduría;
 
 V. Formular proyectos de convenios y mecanismos de colaboración con instituciones diversas;
 
-VI. Atender los procedimientos derivados de las impugnaciones formuladas contra actos u omisiones de la Procuraduría;
+VI. Atender los procedimientos derivados de las impugnaciones formuladas contra actos u omisiones de la Procuraduría; y de los Programas específicos que ésta ejecute;
 
 VII. Atender y resolver las consultas jurídicas;
 
 VIII. Opinar sobre los actos jurídicos que pretenda realizar la Procuraduría para el cumplimiento de sus funciones;
 
-IX. Iniciar, vigilar, coordinar y controlar los procedimientos administrativos y de arbitraje del régimen de condominio;
+IX. Iniciar, sustanciar y resolver los procedimientos administrativos y de arbitraje del régimen de condominio;
 
 X. Aplicar, dentro del ámbito de su competencia, los medios de apremio señalados en la Ley;
 
 XI. Atender los recursos de inconformidad y revisión de resoluciones administrativas, así como el de aclaración en el arbitraje;
 
-XII. Substanciar el recurso de revisión previsto en el artículo 58 de la Ley, y
+XII. Substanciar el recurso de revisión previsto en el artículo 58 de la Ley;
 
-XIII. Las demás atribuciones que le confieran este Reglamento y otros ordenamientos jurídicos y administrativos aplicables.
+XIII. Realizar las notificaciones e inspecciones necesarias para la sustanciación de los procedimientos señalados en la Ley, y la Ley Condominal, así como las diligencias y demás actuaciones que se requieran;
+
+XIV. Certificar y expedir copias de los documentos que obren en los archivos de la Coordinación, y
+
+XV. Las demás atribuciones que le confieran este Reglamento y otros ordenamientos jurídicos y administrativos aplicables.
 
 ###### Artículo 10.
 
@@ -282,9 +314,13 @@ Sin perjuicio de lo previsto por otras disposiciones aplicables, en los casos de
 
 I. El Procurador por un Subprocurador que se encargará del despacho, o fungirá como su representante oficial en determinados actos, actividades o comisiones;
 
-II. Los Subprocuradores por un Director de Área de la Subprocuraduría correspondiente o el funcionario que designe el Procurador, que se encargará del despacho, o fungirá como su representante oficial en determinados actos, actividades o comisiones;
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2002)</small>
 
-III. El Coordinador General de Recomendaciones y Asuntos Jurídicos por un Director de Área de la Coordinación General o el funcionario que designe el Procurador, que se encargará del despacho, o fungirá como su representante oficial en determinados actos, actividades o comisiones;
+II. Los Subprocuradores por un Subdirector de Áreas de la Subprocuraduría correspondiente o el funcionario que designe el Procurador, que se encargará del despacho, o fungirá como su representante oficial en determinados actos, actividades o comisiones;
+
+> <small>(REFORMADO, G.O. 27 DE MARZO DE 2002)</small>
+
+III. El Coordinador General de Recomendaciones y Asuntos Jurídicos por un Subdirector de Área de la Coordinación General o el funcionario que designe el Procurador, que se encargará del despacho, o fungirá como su representante oficial en determinados actos, actividades o comisiones;
 
 IV. El encargado de alguna de las Oficinas Desconcentradas en delegaciones, por un funcionario que designe el Procurador, que se encargará del despacho, o fungirá como su representante oficial en determinados actos, actividades o comisiones, y
 
@@ -404,19 +440,23 @@ Los medios de apremio, serán notificados de conformidad con la Ley, e informar�
 
 Los afectados por un medio de apremio impuesto por la Procuraduría Social podrán, a su elección, interponer el recurso de inconformidad, o intentar el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Distrito Federal, dentro de los términos legales.
 
-### Capítulo IX. Del Registro de Libros de Actas, Administradores y Empresas Privadas de Capacitación
+> <small>(REFORMADA SU DENOMINACION, G.O. 27 DE MARZO DE 2002)</small>
+
+### Capítulo IX. Del Registro de Libro de Actas y Administradores
 
 ###### Artículo 35.
 
 Para que proceda la autorización de los libros de actas, se deberá observar lo siguiente:
 
-I. Deberá promover la autorización quien haya sido designado como secretario o administrador del condominio en el acta de asamblea de que se trate; o bien, el administrador designado por quien otorgó la escritura constitutiva del condominio o su representante legal, y
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2002)</small>
+
+I. Deberá promover la autorización quien haya sido designado como administrador del condominio en el acta de la asamblea que se trate; o bien el administrador designado por quien otorgó la escritura constitutiva del condominio o su representación legal, y
 
 II. A la promoción referida en la fracción anterior se deberá anexionar la siguiente documentación:
 
-a) Copia de la Escritura Constitutiva del Régimen de Propiedad en Condominio;
+a) (DEROGADO, G.O. 27 DE MARZO DE 2002)
 
-b) Copia del Reglamento Interno del Condominio;
+b) (DEROGADO, G.O. 27 DE MARZO DE 2002)
 
 c) Copia de la Convocatoria de la Asamblea, y
 
@@ -428,13 +468,7 @@ Para que proceda el Registro de Administrador, previsto en la Ley Condominal, el
 
 ###### Artículo 37.
 
-La Procuraduría podrá negar la autorización de Libros de Actas de Asambleas o el Registro de Administrador, de manera enunciativa en los siguientes casos:
-
-I. Que no se haya convocado a la asamblea de que se trate, y
-
-II. Que el acta de asamblea de que se trate, adolezca de las formalidades previstas en la Ley Condominal.
-
-En cualquiera de estos casos se notificará al promovente la causa debidamente fundada y motivada, relativa a la negación de la autorización o registro.
+(DEROGADO, G.O. 27 DE MARZO DE 2002)
 
 ###### Artículo 38.
 
@@ -442,13 +476,17 @@ Cuando el Administrador o Comité de Vigilancia de algún inmueble sujeto al Ré
 
 I. Que el promovente acredite su interés jurídico, y
 
-II. Que a juicio de la Procuraduría se cumplan los requisitos previstos en la Ley Condominal, o algún otro de carácter formal.
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2002)</small>
+
+II. Que se cumplan los requisitos previstos en la Ley Condominal.
 
 La Procuraduría negará la asistencia de un asesor a las asambleas de condominios cuando no se cumpla con las formalidades legales; en todo caso, se notificará al promovente la causa, debidamente fundada y motivada.
 
+> <small>(REFORMADO, G.O. 27 DE MARZO DE 2002)</small>
+
 ###### Artículo 39.
 
-Para que proceda la autorización de convocatoria de asambleas generales en los términos del artículo 34, fracción III, inciso c), la Ley Condominal, se tendrá que acreditar la propiedad del condominio de cada uno de los solicitantes con una copia simple de la carátula de la escritura original, folio real, carta de adjudicación o de la boleta predial, y en el caso de ser inquilino, una carta poder suficiente expedida por el propietario del condominio.
+Para que proceda la autorización de convocatorias de asambleas generales en los términos del artículo 34, fracción III, inciso c), de la Ley Condominal, se tendrá que acreditar la propiedad del condominio de cada uno de los solicitantes con una copia simple de la carátula de la escritura original, folio real, carta de adjudicación, de la boleta predial o documento idóneo, y en el caso de ser inquilino, una carta poder suficiente expedida por el propietario del condominio.
 
 ### Capítulo X. De la Amigable Composición en Materia de Arrendamiento Inmobiliario
 
@@ -469,3 +507,11 @@ SEGUNDO.- En un plazo no mayor a 60 días naturales, contados a partir de la pub
 TERCERO.- El Manual de Operación de la Procuraduría Social, deberá expedirse en un plazo no mayor a 60 días naturales, contados a partir de la publicación del presente Reglamento en la Gaceta Oficial del Distrito Federal.
 
 Dado en la Residencia de la Jefa de Gobierno del Distrito Federal, en la Ciudad de México, a los nueve días del mes de febrero de 2000.- LA JEFA DE GOBIERNO DEL DISTRITO FEDERAL, ROSARIO ROBLES BERLANGA.- FIRMA.- EL SECRETARIO DE GOBIERNO, LEONEL GODOY RANGEL.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 27 DE MARZO DE 2002.
+
+DECRETO QUE REFORMAN, ADICIONAN Y DEROGAN LOS ARTICULOS 3, 4, 6, 7, 8, 9, 12, 35, 37, 38, 39 Y CAPITULO IX DEL TITULO TERCERO, DEL REGLAMENTO.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
