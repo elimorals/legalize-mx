@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "1994-12-28"
+last_updated: "1996-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 1996.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -807,7 +807,7 @@ XIII.- Recibir la declaración de situación patrimonial de los funcionarios que
 
 XIV.- Llevar el libro de actas del Pleno; cuidando que sean autorizadas en su debida oportunidad;
 
-XV.- Poner constancia, con sello y firma, del día y la hora en que reciba las promociones que presenten lo interesados, devolviéndoles la copia en que se asienten esos datos. También asentará constancia de los anexos que se acompañen al escrito;
+XV.- Poner constancia, con sello y firma, del día y la hora en que reciba las promociones que presenten los interesados, devolviéndoles la copia en que se asienten esos datos. También asentará constancia de los anexos que se acompañen al escrito;
 
 XVI.- Preparar los proyectos de resolución que se le encomienden respecto de asuntos de la competencia del Pleno o del Presidente;
 
@@ -1078,6 +1078,14 @@ XI.- Las demás que prescriban las leyes.
 La Defensoría de Oficio del Estado tiene por objeto patrocinar, en materia penal, en los términos del artículo 20 de la Constitución Federal, a los procesados que no cuenten con defensor particular; y en materia civil y familiar, a las personas que carezcan de recursos económicos suficientes para pagar un abogado o cuando teniéndolos, a juicio del Juez sea urgente su designación.
 
 En materia familiar, el Defensor de Oficio tendrá el carácter de mandatario de la persona a quien el Juez le comisione su patrocinio.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 1996)</small>
+
+El Supremo Tribunal de Justicia organizará y mantendrá capacitado, un cuerpo de defensores de oficio que actuarán en favor de los indígenas sujetos a proceso penal o que sean parte en juicios de carácter civil.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 1996)</small>
+
+El Supremo Tribunal de Justicia, cuando así lo solicite expresamente el Ministerio Público, ordenará que los citados defensores de oficio representen y asesoren a los indígenas desde el inicio de la etapa de la averiguación previa.
 
 ###### ARTICULO 102.
 
@@ -2262,3 +2270,7 @@ VII.- Se aplicarán supletoriamente los preceptos del Código de Procedimientos 
 QUINTO.- Hasta en tanto se nombran y entran en funciones los Magistrados Supernumerarios, la ausencia absoluta, temporal o accidental de los Magistrados Numerarios, se cubrirá en los términos de esta ley, antes de su reforma.
 
 SEXTO.- Quedan derogadas las disposiciones que se opongan a las del presente Decreto.
+
+P.O. 21 DE AGOSTO DE 1996.
+
+UNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
