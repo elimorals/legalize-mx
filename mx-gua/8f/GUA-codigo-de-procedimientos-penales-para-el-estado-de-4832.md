@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-penales-para-el-estado-de-4832"
 country: "mx"
 rank: "codigo"
 publication_date: "1959-04-02"
-last_updated: "1981-01-18"
+last_updated: "1981-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ENERO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 1981.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 2 de abril de 1959.
 
@@ -195,9 +195,17 @@ El Ministerio Público firmará al calce y, si lo estima conveniente, también a
 
 Si antes de que se pongan las firmas o huellas, los comparecientes hicieren alguna modificación o rectificación, se hará constar inmediatamente, expresándose los motivos que dijeron tener para hacerla. Si fuere después, pero antes de retirarse los interesados, se asentará la modificación o rectificación en acta que se levantará inmediatamente después de la anterior y que firmarán los que hayan intervenido en la diligencia.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 4 DE AGOSTO DE 1981)</small>
+
 ###### Art. 21.
 
-Podrán entregarse al Ministerio Público los expedientes para que los estudie fuera del local del tribunal, pero no a las demás partes que intervengan en ellos. Estas y el ofendido podrán imponerse de los autos en la secretaría del tribunal, debiéndose tomar las medidas necesarias para que no los destruyan, alteren o substraigan.
+El Juez entregará al Ministerio Público y al Defensor de Oficio los expedientes para que los estudien fuera del local del Tribunal, cuando se vayan a formular conclusiones o a expresar agravios.
+
+Tanto el Agente del Ministerio Público como el Defensor de Oficio están obligados a devolver el expediente dentro de los términos que señala este Código para formular conclusiones o expresar agravios; si no los devuelven, el Juez les hará un extrañamiento y dará aviso inmediato a sus superiores jerárquicos para que apliquen las sanciones administrativas a que haya lugar.
+
+Las otras partes podrán imponerse de los autos en la Secretaría del Tribunal.
+
+El Juez tomará las medidas necesarias para que los expedientes no se substraigan, alteren o destruyan.
 
 ###### Art. 22.
 
@@ -893,6 +901,8 @@ Instrucción.
 
 Declaración preparatoria del inculpado y nombramiento del defensor.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 4 DE AGOSTO DE 1981)</small>
+
 ###### Art. 133.
 
 El tribunal ante el cual se ejercite la acción penal practicará sin demora alguna, todas las diligencias procedentes que promuevan las partes.
@@ -971,7 +981,11 @@ Autos de formal prisión, de sujeción a proceso y de libertad por falta de elem
 
 ###### Art. 144.
 
-La declaración preparatoria se recibirá en local al que tenga acceso el público, sin que puedan estar presentes los testigos que deban ser examinados con relación a los hechos que se averigüen.
+El Juez, al tener conocimiento de que el inculpado queda a su disposición, acordará la recepción de su declaración preparatoria y al notificarle este acuerdo se le requerirá para que nombre defensor, haciéndole saber que de no hacerlo, se le designará el de oficio.
+
+Entre el momento en que se notifique este acuerdo y el de la recepción de la preparatoria deberá transcurrir un lapso prudente.
+
+La declaración preparatoria se recibirá en local al que tenga acceso el público y no deberán estar presentes los testigos que vayan a ser examinados con relación a los hechos que se averigüen.
 
 ###### Art. 145.
 
@@ -3460,3 +3474,9 @@ P.O. 18 DE ENERO DE 1981.
 ###### ARTICULO UNICO.
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE AGOSTO DE 1981.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor cinco días después al de su publicación en el Periódico Oficial del Gobierno del Estado.
