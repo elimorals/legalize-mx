@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1920-02-06"
+last_updated: "1920-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE FEBRERO DE 1920.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE FEBRERO DE 1920.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -35,7 +35,7 @@ DECRETO NUM. 3
 
 "(SIC) El XXV Congreso Constitucional del Estado Libre y Soberano de Yucatán, en funciones de Constituyente, a nombre y con la autoridad del pueblo yucateco ha tenido a bien expedir la siguiente:
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE YUCATAN.
+CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE YUCATAN
 
 ## TITULO PRELIMINAR. De los habitantes del Estado
 
@@ -445,6 +445,8 @@ IX.- las demás que le confiere esta Constitución.
 
 ### CAPITULO TERCERO. RESTRICCIONES A LAS FACULTADES DEL GOBERNADOR
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 26 DE FEBRERO DE 1920)</small>
+
 ## TITULO QUINTO. DEL PODER EJECUTIVO
 
 ### CAPITULO CUARTO. DEL SECRETARIO GENERAL DE GOBIERNO
@@ -563,7 +565,7 @@ XXI.- las demás que le confiere esta Constitución.
 
 ###### Artículo 56.
 
-No puede el Gobernador:
+No puede el Gobernador del Estado:
 
 I.- renunciar a su cargo, ni ausentarse del Territorio del Estado ni separarse del ejercicio de sus funciones, sin causa grave calificada por el Congreso;
 
@@ -571,13 +573,15 @@ II.- imponer contribución alguna a menos que el Congreso le hubiese concedido f
 
 III.- impedir ni retardar la instalación del Congreso;
 
-IV.- impedir ni retardar las elecciones populares, ni intervenir en ellas para que recaigan en determinada persona, ya sea por sí o por medio de otras autoridades o agentes, siendo este motivo de responsabilidad y nulidad de la elección;
+IV.- impedir ni retardar las elecciones populares, ni intervenir en ellas para que recaigan en determinada persona, ya sea por sí o por medio de otras autoridades o agentes, siendo este motivo, de responsabilidad y nulidad de la elección;
 
 V.- mezclarse en las causas pendientes, ni disponer durante el juicio de las personas de los reos;
 
 VI.- remitir deudas, mandando hacer cortes de cuenta respecto de los deudores del Estado, para dejar insolutos los créditos de la Hacienda Pública;
 
-VII.- permitir o tolerar que se establezcan en el Estado, loterías, rifas, casas de juegos ilícitos, peleas de gallos, corridas de toros, prostíbulos, espectáculos inmorales, fábricas o expendios de licores, con excepción de la cerveza y de la sidra.
+> <small>(REFORMADA, D.O. 26 DE FEBRERO DE 1920)</small>
+
+VII.- permitir o tolerar que se establezcan en el Estado loterías, rifas, casas de juegos ilícitos, peleas de gallos, corridas de toros, prostíbulos y espectáculos inmorales.
 
 ###### Artículo 57.
 
@@ -777,7 +781,7 @@ Corresponde al Estado, por medio de Leyes Agrarias, evitar el acaparamiento de l
 
 Son contrarios al bienestar general, y por tanto, la Ley no puede autorizarlos ni tolerarlos:
 
-I.- la fabricación, introducción, comercio y expendio de bebidas embriagantes en el Estado, con excepción de la cerveza y de la sidra;
+I.- (DEROGADA, D.O. 26 DE FEBRERO DE 1920)
 
 II.- los espectáculos que ataquen a la moral pública, considerándose como tales las corridas de toros y peleas de gallos;
 
@@ -835,7 +839,7 @@ No gozan de Fuero Constitucional los altos funcionarios del Estado por los delit
 
 ###### Artículo 99.
 
-Si el delito fuere común, el Congreso del Estado, erigido en gran Jurado, declarará, a mayoría absoluta de votos del número total de Diputados, si ha o no lugar a proceder contra el acusado. En caso negativo no habrá lugar a ningún procedimiento ulterior. En caso afirmativo, el acusado quedará por el mismo hecho separado de su encargo y sujeto a la acción de los Tribunales Comunes.
+Si el delito fuere común, el Congreso del Estado, erigido en gran Jurado, declarará, a mayoría absoluta de votos del número total de Diputados, si ha o nó lugar a proceder contra el acusado. En caso negativo no habrá lugar a ningún procedimiento ulterior. En caso afirmativo, el acusado quedará por el mismo hecho separado de su encargo y sujeto a la acción de los Tribunales Comunes.
 
 ###### Artículo 100.
 
@@ -922,3 +926,7 @@ D.O. 6 DE FEBRERO DE 1920.
 ###### ARTICULO SEGUNDO
 
 - Estas reformas entrarán en vigor al día siguiente de su publicación en el DIARIO OFICIAL del Estado.
+
+D.O. 26 DE FEBRERO DE 1920.
+
+Este Decreto comenzará a surtir sus efectos desde el día primero de marzo del año en curso.
