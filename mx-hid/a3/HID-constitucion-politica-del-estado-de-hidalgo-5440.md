@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1948-09-16"
+last_updated: "1948-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 1948.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 1948.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -106,6 +106,18 @@ Las anteriores reformas entrarán en vigor en todo el Estado, a los quince días
 P.O. 16 DE SEPTIEMBRE DE 1948.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+
+P.O. 8 DE NOVIEMBRE DE 1948.
+
+DECRETO NUMERO 10, QUE REFORMA AL ARTICULO 16 DE LA CONSTITUCION.
+
+Este Decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE NOVIEMBRE DE 1948.
+
+DECRETO NUMERO 11, QUE REFORMA LOS ARTICULOS 48, 52, 78 Y 93 DE LA CONSTITUCION.
+
+Este Decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 ## TITULO II. DEL PODER PUBLICO Y DE LA FORMA DE GOBIERNO
 
@@ -229,11 +241,13 @@ El Estado adopta para su régimen interior, la forma de gobierno republicano rep
 
 En las elecciones Municipales participarán las mujeres en igualdad de condiciones que los hombres con el derecho de elegir y de ser electas, para ocupar cualquier cargo Municipal.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 1948)</small>
+
 ### CAPITULO III. DE LA INICIATIVA Y FORMACION DE LAS LEYES
 
 ###### Artículo 16.
 
-El poder publico del Estado se considera dividido para el ejercicio de sus funciones, en: Legislativo, Ejecutivo, Judicial y Municipal. Nunca podrán reunirse dos o más de estos poderes en una sola persona o corporación, ni depositarse el Legislativo en un solo individuo.
+El Poder Público del Estado se considera dividido para el ejercicio de sus funciones en: Legislativo, Ejecutivo y Judicial. Nunca podrán reunirse dos o más de estos Poderes en una sola persona o corporación ni depositarse en (sic) Legislativo en un solo individuo.
 
 ###### Artículo 17.
 
@@ -499,7 +513,9 @@ No podrán ser electos Gobernadores:
 
 I. Los Ministros de cualquier culto.
 
-II. El Gobernador substituto y el provisional para el periodo siguiente a aquél en que hubiere desempeñado el cargo.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 1948)</small>
+
+II. El Gobernador Substituto Constitucional y el designado para concluir el período en caso de falta absoluta del Constitucional, aun cuando tenga distinta denominación, y el Gobernador Interino, el Provisional o el Ciudadano que, bajo cualquiera denominación, supla las faltas temporales del Gobernador siempre que desempeñe el cargo en los dos últimos años del período.
 
 > <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1948)</small>
 
@@ -535,11 +551,11 @@ Si la falta absoluta ocurriere encontrándose el Gobernador en el ejercicio de s
 
 El Presidente del Tribunal se encargará, además, del Despacho del Gobierno, siempre que por cualquier motivo no precisado por esta Constitución, se encuentre acéfalo el Poder Ejecutivo.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1948)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 1948)</small>
 
 ###### Artículo 52.
 
-El Gobernador no puede abandonar el territorio Nacional, sin licencia del Congreso o de la Diputación Permanente, en su caso, quien desde luego nombrará al Interino.
+El Gobernador del Estado puede salir del Territorio del mismo sin licencia de (sic) Congreso o de la Diputación Permanente, por un plazo máximo de quince días; pero siempre necesitará obtener licencia de los organismos citados, cuando salga del Territorio Nacional.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 1930)</small>
 
@@ -801,57 +817,9 @@ Las Asambleas Municipales no pueden funcionar sin la concurrencia de más de la 
 
 Son atribuciones de las Asambleas Municipales:
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1948)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 1948)</small>
 
-I. Expedir Reglamentos y Decretos sobre la administración municipal, componiéndose ésta de las siguientes materias:
-
-a). Policía y Tránsito.
-
-b). Mercados.
-
-c). Rastros.
-
-d). Salones de belleza y peluquerías.
-
-e). Cantinas, pulquerías, cabarets, billares y demás establecimientos semejantes.
-
-f). Salones de diversión y espectáculos públicos.
-
-g). Pavimentación y embanquetado de las calles.
-
-h). Panteones.
-
-i). Disposiciones educativas que no estén expresamente reservadas por esta Constitución o las Leyes a la Federación o al Estado.
-
-j). Organización de festejos, conciertos y demás actos semejantes.
-
-k). Carteles, anuncios y demás medios de propaganda comercial.
-
-l). Horas de trabajo en los establecimientos comerciales, boticas y droguerías; así como el aspecto exterior que deban de presentar, sin perjuicio de las disposiciones sanitarias respectivas.
-
-m). Neverías, dulcerías y refresquerías.
-
-n). Restaurants, fondas y loncherías.
-
-o). Servicio de limpia y transporte de cualquier especie.
-
-p). Molinos de nixtamal, tortillerías y panaderías.
-
-q). Aguas potables y saneamiento.
-
-> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 1948)</small>
-
-r). Parques y Jardines.
-
-> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 1948)</small>
-
-s). Albercas y Baños Públicos.
-
-> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 1948)</small>
-
-t). Reglamentación y construcción de obras, que no estén reservadas a la Federación o al Estado, por las Leyes.
-
-Sin embargo, cuando se trate de medidas, reglamentos y decretos que afecten al interés público del Municipio o a una mayoría de la población, dichas disposiciones serán sometidas a referéndum consultivo de la población con capacidad electoral, siempre que ellas no sean de carácter urgente. En caso contrario, las mismas disposiciones podrán dictarse y entrar en vigor sujetándolas posteriormente al procedimiento del veto popular. Una Ley Reglamentaria establecerá los requisitos y procedimientos necesarios para la práctica del referéndum en ambos casos.
+I. Expedir Reglamentos de Policía y buen gobierno sobre los ramos y materias de Administración Municipal; entendiéndose por tales aquellas que no estén reservadas a la Federación o al Estado.
 
 II. Formar anualmente su proyecto de Ley de Ingresos y su Presupuesto de Egresos, en la forma y términos que disponga la Ley Orgánica respectiva.
 
@@ -995,13 +963,15 @@ Si el Tribunal Superior, después de oír al acusado, lo declara culpable, este 
 
 Cuando el mismo hecho tenga otra pena señalada en la ley, el propio Tribunal la impondrá al acusado.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 1948)</small>
+
 ### CAPITULO II. DE LAS ASAMBLEAS MUNICIPALES
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1948)</small>
 
 ###### Artículo 93.
 
-De los delitos comunes y oficiales cometidos por los Jueces de Primera Instancia y agentes del Ministerio Publico, el Tribunal Superior declarara en la forma que determine la ley, si ha o no lugar a proceder. En caso negativo, el acusado continuara en el ejercicio de su encargo, cesando todo procedimiento en su contra. En el afirmativo, quedara suspenso el acusado y sujeto a los Tribunales comunes.
+De los delitos comunes y oficiales cometidos por el Juez de Primera Instancia, Agente del Ministerio Público y Presidentes Municipales, el Tribunal Superior de Justicia declarará, en la forma que determine la Ley, si ha lugar o no a proceder. En caso negativo el acusado continuará en el ejercicio de su encargo cesando todo procedimiento en su contra. En caso afirmativo, quedará suspenso el acusado y sujeto a los Tribunales y Leyes comunes.
 
 ###### Artículo 94.
 
