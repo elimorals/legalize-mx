@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2000-02-28"
+last_updated: "2000-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2000.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2000.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -131,11 +131,11 @@ Del Territorio del Estado.
 
 El territorio del Estado es el que de hecho y por derecho le pertenece, dentro de los límites establecidos por el Pacto Federal. Se divide en los Municipios de Aguascalientes, Rincón de Romos, Calvillo, Jesús María, Asientos, Tepezalá, Cosío, San José de Gracia, Pabellón de Arteaga, San Francisco de los Romo y El Llano.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
 
 ###### Artículo 10.
 
-La Ley Orgánica respectiva determinará los requisitos necesarios para la erección de nuevos Municipios.
+La Ley Orgánica Municipal del Estado de Aguascalientes, determinará los requisitos necesarios para la creación de Municipios.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -205,73 +205,77 @@ El Congreso se integrará con representantes del pueblo que residan en el territ
 
 Por cada Diputado Propietario se eligirá (sic) un Suplente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
 
 ###### Artículo 17.
 
-El Congreso del Estado estará integrado por dieciocho Diputados electos según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, de los que corresponderán ocho al Municipio de Aguascalientes y uno por cada uno de los Municipios restantes; y hasta nueve Diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal cuya demarcación es el Estado.
+El Congreso del Estado estará integrado por dieciocho Diputados electos según el principio de votación de mayoría relativa, mediante el sistema de distritos electorales uninominales, de los que corresponderán ocho al Municipio de Aguascalientes y uno por cada uno de los Municipios restantes; y hasta nueve Diputados electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal cuya demarcación es el Estado.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1997)</small>
+El Instituto Estatal Electoral fijará el ámbito territorial de los distritos electorales uninominales y sus cabeceras, debiendo revisarse la misma después de cada Censo Nacional de Población.
 
-El Consejo Estatal Electoral fijará el ámbito territorial de los distritos electorales uninominales y sus cabeceras.
+La asignación de los nueve Diputados según el principio de representación proporcional, se sujetará a las siguientes bases y a lo que en particular disponga el Código Estatal Electoral:
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1997)</small>
+I.- El partido político deberá acreditar que tiene su registro nacional e inscribir candidatos a Diputados por mayoría relativa, en por lo menos doce de los dieciocho distritos uninominales.
 
-La asignación de los nueve Diputados según el principio de representación proporcional, se sujetará a las siguientes bases y a lo que en particular disponga la Ley:
+II.- Las diputaciones por el principio de representación proporcional se otorgarán a todo partido político que obtenga por lo menos el dos punto cinco por ciento de la votación emitida.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1997)</small>
+III.- El partido político que cumpla con los incisos anteriores tendrá derecho a que se le asigne por el principio de representación proporcional, el número de Diputados de sus listas que corresponda al porcentaje de votos obtenidos en la circunscripción plurinominal.
 
-a).- El partido político deberá acreditar que tiene su registro nacional y registrar candidatos a Diputados por mayoría relativa, en por lo menos doce de los dieciocho distritos uninominales;
+El Código Estatal Electoral determinará la fórmula y el procedimiento que se observará en dicha asignación; y
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1997)</small>
+IV.- Los Diputados por mayoría relativa y de representación proporcional, tendrán la misma jerarquía e igualdad de derechos y obligaciones.
 
-b).- Las diputaciones por el principio de representación proporcional se otorgarán a todo partido político que obtenga por lo menos el dos por ciento de la votación emitida;
+Sus obligaciones consisten en el ejercicio de la representación popular y desempeñarán sus funciones en el Congreso del Estado, Diputación Permanente y Gran Jurado.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1997)</small>
+La renovación de los Poderes Legislativo y Ejecutivo y de los Ayuntamientos se verificará por medio de elecciones directas, cuya organización es una función pública que se ejerce por los Poderes Legislativo y Ejecutivo del Estado, con la participación de los partidos políticos acreditados y de los ciudadanos, reglamentada por la Ley de la materia. En el ejercicio de esta función pública, la certeza, legalidad, independencia, imparcialidad y objetividad, serán principios rectores.
 
-c).- El partido político que cumpla con los incisos anteriores tendrá derecho a que se le asigne por el principio de representación proporcional, el número de diputados de sus listas que correspondan al porcentaje de votos obtenidos en la circunscripción plurinominal.
+El Código Estatal Electoral de Aguascalientes regulará el ejercicio de los derechos y obligaciones políticos y electorales de los ciudadanos y partidos políticos; determinará las prerrogativas que tendrán estos últimos; dispondrá la forma, procedimientos y requisitos a los que deberán ajustarse las elecciones; reglamentará las atribuciones de los organismos electorales y jurisdiccionales que gozarán de autonomía en su funcionamiento e independencia en sus decisiones.
 
-La Ley determinará la fórmula electoral y el procedimiento que se observará en dicha asignación; y
+Los procedimientos, mecanismos, plazos, términos, medios de impugnación y publicidad de los resultados electorales que sean aplicables, a las figuras del plebiscito y el referéndum, serán calificados por el Consejo General del Instituto Estatal Electoral en los términos establecidos en las Leyes de la materia.
 
-d).- Los Diputados por mayoría relativa y de representación proporcional, como representantes del pueblo, tendrán la misma jerarquía e igualdad de derechos y obligaciones.
+La Ley del Sistema de Medios de Impugnación en Materia Electoral, reglamentará todos los actos y resoluciones electorales para que se sujeten invariablemente a los principios de constitucionalidad, legalidad y definitividad de las etapas de los procesos electorales, tomando en cuenta los plazos convenientes para el desahogo de todas las instancias impugnativas.
 
-Sus obligaciones consisten en el ejercicio de sus funciones en el Congreso del Estado, Diputación Permanente, Colegio Electoral y Gran Jurado.
+Los Códigos Penal y Estatal Electoral tipificarán los delitos y determinarán las faltas en materia electoral, así como las sanciones de carácter administrativo y/o penal que por ellos deban imponerse a los infractores de sus disposiciones.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1997)</small>
+Con relación a las figuras del Plebiscito, Referéndum e Iniciativa Popular, el Instituto Estatal Electoral será el órgano responsable de organizarlos.
 
-El Congreso del Estado, constituido en Colegio Electoral tendrá como función la declaración de validez de la elección de Gobernador del Estado, mediante votación por mayoría relativa.
+El Referéndum y Plebiscito podrán solicitarlo:
 
-La renovación de los Poderes Legislativo y Ejecutivo y de los Ayuntamientos se verificará por medio de elecciones populares directas, cuya organización es una función pública que se ejerce por los Poderes Legislativo y Ejecutivo del Estado, con la participación de los partidos políticos acreditados y de los ciudadanos, reglamentada por la Ley de la materia. En el ejercicio de esta función pública, la certeza, legalidad, independencia, imparcialidad y objetividad, serán principios rectores.
+I.- El cinco por ciento de los ciudadanos inscritos en el Padrón Electoral, cuya identificación se acreditará con el folio, nombre y firma que se contienen en la credencial de elector; o
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1997)</small>
+II.- Una tercera parte de los Diputados que integran el H. Congreso del Estado.
 
-La Ley Electoral del Estado de Aguascalientes regulará el ejercicio de los derechos y obligaciones políticos y electorales de los ciudadanos y partidos políticos, determinará las prerrogativas que tendrán estos últimos, dispondrá la forma, procedimientos y requisitos a los que deberán ajustarse las elecciones; reglamentará las atribuciones de los organismos electorales y jurisdiccionales que gozarán de autonomía en su funcionamiento e independencia en sus decisiones, debiendo contar el Consejo Estatal Electoral con Consejeros Ciudadanos. Asimismo, establecerá un sistema de medios de impugnación para que todos los actos y resoluciones electorales se sujeten invariablemente a los principios de constitucionalidad, legalidad y definitividad de las etapas de los procesos electorales, tomando en cuenta los plazos convenientes para el desahogo de todas las instancias impugnativas. La Ley tipificará los delitos y determinará las faltas en materia electoral, así como las sanciones de carácter administrativo y/o penal que por ellos deban imponerse a los infractores de sus disposiciones.
+Para que la solicitud se declare aprobada se requiere del voto favorable de las dos terceras partes de los integrantes del H. Congreso del Estado, la cual será turnada al Instituto Estatal Electoral para que a su vez, elabore la pregunta para expedir enseguida la convocatoria correspondiente.
 
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 1997)</small>
+No podrán someterse a Referéndum ni a Plebiscito aquellas leyes o artículos que contemplen las siguientes materias:
 
-El tribunal Local Electoral será un órgano jurisdiccional autónomo en su funcionamiento e independiente en sus decisiones, temporal, integrado por Magistrados, adscrito al Poder Judicial del Estado.
+a).- Las disposiciones constitucionales y legales en materia tributaria o fiscal, así como Ley de Ingresos y Presupuesto de Egresos en el Estado de Aguascalientes.
 
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 1997)</small>
+b).- Ley Orgánica del Poder Ejecutivo del Estado de Aguascaliente.
 
-El Consejo Estatal Electoral se integrará y funcionará conforme a lo que disponga la Ley.
+c).- Ley Orgánica del H. Congreso del Estado y su Reglamento Interior.
 
-Se considera a los partidos políticos como entidades de interés público; la Ley determinará las formas específicas de su intervención en el proceso electoral.
+d).- Ley Orgánica del Poder Judicial del Estado; y
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1997)</small>
+e).- Las demás que determinen las leyes.
 
-Los partidos políticos tiene (sic) como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal, y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios y plataformas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible.
+El Tribunal Local Electoral será un órgano jurisdiccional autónomo en su funcionamiento e independiente en sus decisiones, temporal, integrado por tres Magistrados, adscritos al Poder Judicial del Estado. En tiempo no electoral será el Pleno del Tribunal quien conozca y resuelva de los recursos.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1997)</small>
+El Tribunal Local Electoral tendrá la facultad de declarar la validez de la elección.
 
-Los partidos políticos nacionales con registro tendrán derecho a participar en las elecciones estatales y municipales, y deberán contar, en forma equitativa con un mínimo de elementos para el desarrollo de sus actividades tendientes a la obtención del sufragio popular.
+El Tribunal Local Electoral tendrá también participación en el plebiscito y el referéndum, con base en las atribuciones establecidas en la Ley de la materia.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1997)</small>
+El Instituto Estatal Electoral se integrará y funcionará conforme a lo que disponga el Código Estatal Electoral.
+
+Se consideran a los partidos políticos como entidades de interés público; el Código Estatal Electoral determinará las formas específicas de su intervención en el proceso electoral.
+
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal, y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios y plataformas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible.
+
+Los partidos políticos nacionales con registro, tendrán derecho a participar en las elecciones estatales y municipales, y deberán contar, en forma equitativa, con un mínimo de elementos para el desarrollo de sus actividades tendientes a la obtención del sufragio popular.
 
 Los partidos políticos tendrán derecho al uso permanente y en condiciones de equidad de los medios de comunicación social, de acuerdo con las formas y procedimientos que establezcan las leyes aplicables.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1997)</small>
-
-La Ley establecerá las reglas a que se sujetará el financiamiento público de los partidos políticos y sus campañas electorales, de acuerdo a las disponibilidades del Presupuesto de Egresos del Estado y a lo que determine el Consejo Estatal Electoral. También determinará los topes para gastos de campañas y los montos máximos de las aportaciones pecuniarias de los particulares. De igual forma, regulará los procedimientos de control y vigilancia del origen y uso del financiamiento en su conjunto y las sanciones que en su caso corresponda por incumplimiento.
+El Código Estatal Electoral establecerá las reglas a que se sujetará el financiamiento público de los partidos políticos y sus campañas electorales, de acuerdo a las disponibilidades del Presupuesto de Egresos del Estado y a lo que determine el Instituto Estatal Electoral. También determinará los topes para gastos de campaña y los montos máximos de las aportaciones pecuniarias de los particulares. De igual forma, regulará los procedimientos de control y vigilancia del origen y uso del financiamiento en su conjunto y las sanciones que en su caso corresponda por incumplimiento.
 
 ###### Artículo 17 Bis.
 
@@ -375,7 +379,7 @@ Los diputados deben presentarse al recinto oficial el día señalado por la Ley 
 
 De las Facultades del Congreso.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
 
 ###### Artículo 27.
 
@@ -385,151 +389,83 @@ I.- Legislar para el Estado, sobre todas las materias que no sean de la competen
 
 II.- Decretar las contribuciones necesarias para cubrir los gastos del Estado y de los Municipios.
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 1978)</small>
+En materia de contribuciones municipales sobre la propiedad inmobiliaria, tomando en cuenta anualmente a propuesta de los Ayuntamientos, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para su cobro a propuesta de los Municipios.
 
-III.- Aprobar el Presupuesto Anual de Gastos del Estado, con vista del proyecto que presente el Gobernador, y, en el que no podrá haber partidas secretas.
+III.- Aprobar el Presupuesto Anual de Gastos del Estado, con vista del proyecto que presente el Gobernador y, en el que no podrá haber partidas secretas.
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
-
-IV.- Autorizar al Ejecutivo y a los Ayuntamientos, para celebrar empréstitos sobre el crédito del Estado y de los Municipios respectivamente, fijando las bases sobre las cuales deben celebrarse dichos empréstitos y aprobarlos.
+IV.- Autorizar al Ejecutivo para celebrar empréstitos sobre el crédito del Estado, fijando las bases sobre las cuales deben celebrarse dichos empréstitos y aprobarlos.
 
 Ningún empréstito podrá celebrarse sino para la ejecución de obras que directamente produzcan incremento de los ingresos públicos.
 
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 1998)</small>
+V.- Revisar las cuentas públicas que trimestralmente deben presentarle el Gobernador del Estado, organismos descentralizados y los Ayuntamientos, dentro de los veinte días siguientes a la conclusión de los plazos señalados. En los recesos del Congreso, se presentarán ante la Diputación Permanente. La ampliación del plazo de entrega de éstas, estará sujeta a una solicitud justificada a juicio del Congreso.
 
-V.- Recibir las cuentas públicas que mensualmente deben presentarle el Gobernador y los Ayuntamientos dentro de los primeros diez días de cada mes. La ampliación del plazo de entrega de las cuentas públicas, estará sujeta a una solicitud justificada, a juicio del H. Congreso.
+Las cuentas públicas se turnarán a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda; ésta, con el auxilio del órgano técnico, revisará los resultados de la gestión financiera, comprobará que los ingresos estén de acuerdo a la Ley de Ingresos, que las partidas gastadas están justificadas y son conformes con las normas de ejecución de los Presupuestos de Egresos.
 
-Las cuentas públicas se turnarán a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda. Esta, con el auxilio del órgano técnico, revisará los resultados de la gestión financiera, comprobará que los ingresos estén de acuerdo a la Ley de Ingresos, que las partidas gastadas estén justificadas y de conformidad con las normas de ejecución de los Presupuestos de Egresos.
+La cuenta pública deberá ser revisada y fiscalizada semestralmente por el Honorable Congreso del Estado.
 
-La cuenta pública deberá revisarse semestralmente por el Honorable Congreso del Estado.
-
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1995)</small>
-
-La Cuenta Pública deberá ser revisada anualmente por el honorable Congreso del Estado.
-
-La Contaduría Mayor de Hacienda con base en la revisión, propondrá al Congreso, dentro de los seis meses siguientes a la conclusión del semestre, que las declare revisadas. Y si hubiese encontrado que no estaban justificadas o no fuesen conformes con las normas de ejecución de los Presupuestos de Egresos, así lo señalará a efecto de que se ejerciten las acciones correspondientes.
-
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
-
-VI.- Autorizar al Ejecutivo y a los Ayuntamientos para ejercer actos de dominio sobre los bienes inmuebles pertenecientes al Estado y a los Municipios, respectivamente.
-
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+VI.- Autorizar al Ejecutivo para ejercer actos de dominio sobre los bienes inmuebles pertenecientes al Estado.
 
 VII.- Conocer de los convenios que el Gobernador celebre con los Estados vecinos respecto a las cuestiones de límites, y en caso de aprobarlos, someterlos a la aprobación del Congreso de la Unión.
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
-
 VIII.- Fijar la división territorial y política, administrativa y judicial del Estado.
-
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1995)</small>
 
 IX.- Crear y suprimir cargos públicos.
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
-
 X.- Convocar a elecciones conforme a la Ley.
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 1995)</small>
-
-XI. - Erigirse en Colegio Electoral para la calificación de la elección de Gobernador del Estado.
-
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+XI. Erigirse en Colegio Electoral para la calificación de la elección de Gobernador del Estado.
 
 XII.- Designar, en los términos que previene esta Constitución, al ciudadano que debe suplir al Gobernador en sus faltas temporales o absolutas.
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+XIII.- Conceder licencia al Gobernador, para salir del territorio del Estado, cuando fuere por más de veinte días, en cuyo caso se nombrará al ciudadano que deba sustituirlo durante su ausencia.
 
-XIII.- Conceder licencia al Gobernador, para salir del territorio del Estado, cuando fuere por más de veinte días, en cuyo caso se nombrará al ciudadano que deba substituirlo durante su ausencia.
+XIV. Decidir sobre la renuncia del cargo de Gobernador; conceder licencia a dicho servidor público para separarse del cargo, hasta por noventa días.
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+XV.- Aprobar los nombramientos de los Magistrados del Supremo Tribunal de Justicia del Estado, de la terna propuesta por el Ejecutivo; en caso de que los rechace, aceptar una nueva terna en términos del Artículo 54 de esta Constitución.
 
-XIV.- Decidir sobre la renuncia del cargo de Gobernador; conceder licencia a dicho servidor público para separarse del cargo, hasta por noventa días.
+Los nombramientos de los Magistrados deberán recaer en aquellas personas seleccionadas por el Consejo de la Judicatura Estatal que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de su actividad jurídica.
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1999)</small>
+XVI.- Conocer de las renuncias que de sus cargos presenten los Magistrados del Supremo Tribunal de Justicia, los Consejeros Ciudadanos del Consejo Estatal Electoral y los Magistrados del Tribunal Local Electoral, comunicándose su aceptación a la autoridad competente, para que proceda conforme a sus facultades.
 
-XV.- Designar a los Magistrados del Supremo Tribunal de Justicia del Estado y del Tribunal de lo Contencioso Administrativo, de la terna propuesta por el Ejecutivo; en caso de que los rechace, aceptar una nueva terna, la que tratándose de los Magistrados del Supremo Tribunal de Justicia se elegirá en términos del Artículo 54 de la Constitución.
-
-Los nombramientos de los Magistrados deberán recaer en aquellas personas que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de su actividad jurídica.
-
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1999)</small>
-
-XVI.- Conocer de las renuncias que de sus cargos presenten los Magistrados del Supremo Tribunal de Justicia, los Consejeros Ciudadanos del Consejo Estatal Electoral, los Magistrados del Tribunal Local Electoral y los Magistrados del Tribunal de lo Contencioso Administrativo, comunicándose su aceptación a la autoridad competente, para que proceda conforme a sus facultades.
-
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
-
-XVII.- Conceder licencia a los Diputados para separarse de sus cargos, llamando inmediatamente a los respectivos Suplentes.
-
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+XVII.- Conceder licencia a los Diputados para separarse de sus cargos, llamando inmediatamente a los respectivos suplentes.
 
 XVIII.- Intervenir, erigido en Gran Jurado y de acuerdo con las prevenciones de esta Constitución, en los procedimientos relativos a ilícitos oficiales o del orden común en contra de los servidores públicos que gocen de fuero.
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
-
 XIX.- Cambiar provisionalmente la residencia de los Poderes del Estado.
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+XX.- Fijar y modificar la extensión del territorio que corresponda a los Municipios, por voto de las dos terceras partes de sus integrantes. Con esa misma mayoría crear nuevos Municipios con la intervención de los Municipios afectados.
 
-XX.- Crear nuevos Municipios dentro de los límites de los existentes, con aprobación de las dos terceras partes de los Ayuntamientos.
+XXI.- Dirimir las controversias que no siendo de carácter judicial, ni sean de las previstas en el último párrafo de la fracción II del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos se susciten entre los Ayuntamientos;
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+XXII.- Conceder amnistía con aprobación de las dos terceras partes de los Diputados presentes;
 
-XXI.- Dirimir las controversias que no siendo de carácter judicial, se susciten entre los Ayuntamientos.
-
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
-
-XXII.- Conceder amnistía con aprobación de las dos terceras partes de los diputados presentes.
-
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
-
-XXIII.- Reclamar ante la Suprema Corte de Justicia de la Nación cuando alguna ley o acto del Gobierno Federal constituya un ataque a la Soberanía del Estado, o a la Constitución General, por el que resulte afectado éste.
-
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+XXIII.- Reclamar ante la Suprema Corte de Justicia de la Nación cuando alguna Ley o acto de Gobierno Federal constituya un ataque a la soberanía del Estado, o a la Constitución General, por el que resulte afectado éste;
 
 XXIV.- Investir al Gobernador de facultades extraordinarias en caso de calamidad pública.
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+XXV.- Premiar a las personas que hayan prestado eminentes servicios públicos al Estado; o a los hijos de éste que los haya prestado a la Patria o a la humanidad y recompensar a los buenos servidores de la Administración Pública.
 
-XXV.- Premiar a las personas que hayan prestado eminentes servicios públicos al Estado; o a los hijos de éste que lo haya prestado a la Patria o a la humanidad, y recompensar a los buenos servidores de la Administración Pública.
+XXVI.- Expedir la Ley que regulará su estructura y funcionamiento interno.
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+La Ley determinará las formas y procedimientos para la agrupación de los Diputados, según su afiliación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en el Congreso.
 
-XXVI.- Expedir la ley que regulará su estructura y funcionamiento interno.
-
-La ley determinará las formas y procedimientos para la agrupación de los Diputados, según su afiliación de Partido, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en el Congreso.
-
-Esta ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo Estatal para tener vigencia.
-
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+Esta Ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo Estatal para tener vigencia.
 
 XXVII.- Nombrar y remover a los servidores públicos de sus dependencias.
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
-
 XXVIII.- Legislar en materia de responsabilidades de los servidores públicos.
-
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
 
 XXIX.- Expedir las leyes que regulen las relaciones del Estado y de los Municipios con sus trabajadores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 1995)</small>
-
 XXX.- Citar a solicitud de las dos terceras partes de sus miembros a los titulares de las dependencias del Poder Ejecutivo y a los de los Organismos Descentralizados o de empresas de participación estatal, para que informen sobre el estado que guardan sus respectivas dependencias, cuando se discuta una Ley que sea de su incumbencia o se estudie un negocio relativo a sus actividades.
 
-Integrar a solicitud de una tercera parte de sus miembros, comisiones para investigar el funcionamiento de todos los Organismos Descentralizados del Estado o de las Empresas de Participación Estatal. Los resultados de las investigaciones se harán del conocimiento del Ejecutivo del Estado; y
+Integrar a solicitud de una tercera parte de sus miembros, comisiones para investigar el funcionamiento de todos los Organismos Descentralizados del Estado o de las Empresas de Participación Estatal. Los resultados de las investigaciones se harán del conocimiento del Ejecutivo del Estado.
 
-> <small>(REFORMADA P.O. 15 DE ENERO DE 1995)</small>
-
-XXXI.- Elegir de entre las propuestas que le presenten sus integrantes a los Consejeros Ciudadanos y a los Magistrados del Tribunal Local Electoral, que reúnan los requisitos de la Ley de la materia por el voto de dos terceras partes de sus integrantes, si en una primera votación no se obtuviese tal mayoría, se procederá a designarlos mediante el procedimiento de insaculación.
-
-> <small>(ADICIONADA, P.O. 26 DE MARZO DE 1995)</small>
+XXXI.- Elegir de entre las propuestas que le presenten sus integrantes a los Consejeros Ciudadanos y a los Magistrados del Tribunal Local Electoral, que reúnan los requisitos de la Ley de la materia, por el voto de dos terceras partes de sus integrantes, si en una primera votación no se obtuviere tal mayoría, se procederá a designarlos mediante el procedimiento de insaculación.
 
 XXXII.- Ratificar el nombramiento que el Gobernador del Estado haga del Procurador General de Justicia.
 
-> <small>(ADICIONADA, P.O. 26 DE MARZO DE 1995)</small>
-
-XXXIII.- Nombrar a los miembros del Consejo de la Judicatura Estatal en los términos del Artículo 55 de esta Constitución.
-
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1995)</small>
+XXXIII.- Nombrar a los miembros del Consejo de la Judicatura Estatal en los términos del Artículo 55 de esta Constitución; y
 
 XXXIV.- Las demás que le concede esta Constitución y la General de la República.
 
@@ -595,11 +531,13 @@ III.- Al Supremo Tribunal de Justicia, en asuntos de su ramo; y
 
 IV.- A los Ayuntamientos, en los asuntos de su competencia.
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
 
 ###### Artículo 31.
 
-Toda iniciativa pasará, sin otro trámite que su lectura, a la Comisión respectiva para que dictamine. El modo, forma y término para las discusiones y votaciones se establecerán en la Ley Orgánica y Reglamento del Poder Legislativo.
+Toda iniciativa, pasará, sin otro trámite que su lectura, a la Comisión respectiva para que dictamine. Cuando la iniciativa corresponda a algún Municipio o se refiera a materias municipales, deberá oírse la opinión de los Ayuntamientos, en los trabajos de las Comisiones. El modo, forma y término para las discusiones y votaciones se establecerán en la Ley Orgánica y Reglamento del Congreso del Estado.
+
+En los mismos términos se procederá respecto de las iniciativas que se refieran a los ámbitos de competencia de los Poderes Ejecutivo y Judicial.
 
 > <small>(REFORMADO, P.O. 24 DE JULIO DE 1994)</small>
 
@@ -725,73 +663,55 @@ Si al comenzar un período constitucional no se presentase el Gobernador electo,
 
 En los casos en que el Gobernador pueda legalmente ausentarse del Territorio del Estado, sin separarse de su cargo, el Secretario General de Gobierno quedará encargado del Despacho, quien se limitará a conocer de los asuntos que fueren inaplazables y de los de mero trámite.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
 
 ###### Artículo 46.
 
 Son facultades y obligaciones del Gobernador:
 
-I.- Promulgar y ejecutar las Leyes que expida el Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia;
+I.- Promulgar y ejecutar las Leyes que expida el Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia.
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1992)</small>
+II.- Presentar cada año al Congreso a más tardar el 15 de diciembre los proyectos de Ley de Ingresos y Presupuesto de Egresos para el Ejercicio Fiscal siguiente, debiendo comparecer el Secretario de Finanzas a dar cuenta del mismo.
 
-II.- Presentar cada año al Congreso a más tardar el día 15 de diciembre, los Proyectos de Ley de Ingresos y Presupuesto de Egresos para el Ejercicio Fiscal siguiente, debiendo comparecer el Secretario de Finanzas a dar cuenta del mismo.
-
-III.- (DEROGADA, P.O. 20 DE AGOSTO DE 1995)
-
-> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 1994)</small>
+III.- (DEROGADA, P.O. 23 DE OCTUBRE DE 2000)
 
 IV.- Informar anualmente y por escrito al Congreso del Estado, dentro del período comprendido entre el 15 y 30 de noviembre, sobre el estado general que guarde la administración pública estatal.
 
-V.- Pedir y dar informes al Congreso sobre cualquier ramo de la Administración, y al Supremo Tribunal sobre el de Justicia;
+V.- Pedir y dar informes al Congreso sobre cualquier ramo de la Administración, y al Supremo Tribunal sobre el de Justicia.
 
-VI.- Reconocer, cuando después de una elección se instale más de un Cuerpo Legislativo, cuál es el que representa la legalidad; y cuando estuviere dividido el Congreso en varios grupos, al que tenga quórum legal;
+VI.- Reconocer, cuando después de una elección se instale más de un Cuerpo Legislativo, cuál es el que representa la legalidad; y cuando estuviere dividido el Congreso en varios grupos, al que tenga quórum legal.
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1973)</small>
+VII.- Celebrar convenios:
 
-VII.- Celebrar Convenios:
-
-a).- De coordinación con las Secretarías de Estado.
+a).- De coordinación con las Secretarías de Estado y con los Municipios.
 
 b).- Sobre límites con los Estados vecinos previa aprobación del Congreso.
 
-> <small>(ADICIONADO, P.O. 10 DE ENERO DE 1982)</small>
-
-c).- Respecto de cualquiera otra materia de su competencia, con los demás Estados de la República.
-
-> <small>(ADICIONADO, P.O. 10 DE ENERO DE 1982)</small>
+c).- Respecto de cualquier otra materia de su competencia, con los demás Estados de la República.
 
 d).- En general, con las personas de derecho privado.
 
-> <small>(REFORMADA, P.O. 24 DE JULIO DE 1994)</small>
-
 VIII.- Concertar empréstitos en los términos de la fracción IV del Artículo 27 de esta Constitución.
 
-IX.- Ejercer actos de dominio sobre los bienes de la propiedad del Estado, con autorización del Congreso tratándose de inmuebles;
-
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1995)</small>
+IX.- Ejercer actos de dominio sobre los bienes de la propiedad del Estado, con autorización del Congreso, tratándose de inmuebles.
 
 X.- Nombrar y remover al Secretario General de Gobierno, al Secretario de Finanzas, y a los demás servidores públicos del Poder Ejecutivo Estatal; así como al Procurador General de Justicia del Estado cuyo nombramiento será ratificado por el Congreso del Estado.
 
-XI.- Facilitar al Poder Judicial el auxilio que necesite para el ejercicio de sus funciones y hacer que se cumplan las sentencias de los Tribunales;
+XI.- Facilitar al Poder Judicial el auxilio que necesite para el ejercicio de sus funciones y hacer que se cumplan las sentencias de los Tribunales.
 
-XII.- Solicitar de la Diputación Permanente que convoque al Congreso a sesiones extraordinarias, cuando fuere necesario;
+XII.- Solicitar de la Diputación Permanente que convoque al Congreso a sesiones extraordinarias cuando fuere necesario.
 
-XIII.- Expedir títulos profesionales respecto de estudios realizados en Instituciones dependientes del Estado;
+XIII.- Expedir títulos profesionales respecto de estudios realizados en instituciones dependientes del Estado.
 
-XIV.- Conceder, conforme a la ley, indulto, reducción y conmutación de penas;
+XIV.- Conceder, conforme a la Ley, indulto, reducción y conmutación de penas.
 
-XV.- Decretar la expropiación, por causa de utilidad pública, con los requisitos y formalidades que establezca la Ley de la materia;
+XV.- Decretar la expropiación, por causa de utilidad pública, con los requisitos y formalidades que establezca la Ley de la materia.
 
-XVI.- Disponer de la Policía en los Municipios en que habitual o transitoriamente se encuentre;
-
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1995)</small>
+XVI.- Disponer de la Policía Preventiva Municipal en los casos que juzgue como de fuerza mayor o alteración grave del orden público.
 
 XVII.- Proponer al Congreso del Estado las ternas para nombrar Magistrados del Supremo Tribunal de Justicia del Estado, en términos del Artículo 54, y de acuerdo a las disposiciones del Artículo 27 fracción XV de esta Constitución.
 
-XVIII.- (DEROGADA, P.O. 15 DE ENERO DE 1995)
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 1991)</small>
+XVIII.- Ejercer las facultades que en materia de Vialidad Estatal le asignen las Leyes; y
 
 XIX.- Las demás que esta Constitución y la General de la República le confieren.
 
@@ -1011,11 +931,11 @@ CAPITULO DECIMOCUARTO
 
 De la Hacienda Pública.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
 
 ###### Artículo 63.
 
-La Hacienda Pública se compone de los bienes y derechos pertenecientes al Estado y de las contribuciones que el Congreso decreta. Su administración estará a cargo del Ejecutivo por conducto del Secretario de Finanzas del Estado, quien será responsable de su manejo.
+La Hacienda Pública se compone de los bienes y derechos pertenecientes al Estado y de las contribuciones que el Congreso decreta. Su administración estará a cargo del Ejecutivo y de la Secretaría de Finanzas, por conducto de los Secretarios de Finanzas y de Administración; y de los Poderes Legislativo y Judicial, quienes serán responsables de su manejo en el ámbito de sus competencias.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1039,113 +959,145 @@ CAPITULO DECIMOQUINTO
 
 Del Municipio.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
 
-###### Articulo 66.
+###### Artículo 66.
 
-El Municipio es libre en su régimen interior, será administrado por un Ayuntamiento de elección popular directa, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+El Municipio es la institución jurídica política y social de carácter público, con autoridades propias funciones específicas y con libre administración de su hacienda con personalidad jurídica y patrimonio propios, cuya finalidad consiste en organizar a una comunidad en la gestión de sus intereses, proteger y fomentar los valores de la convivencia local y prestar los servicios básicos que ésta requiera. Asimismo tiene la potestad para normar directa y libremente las materias de su competencia.
 
-Los Municipios, con el concurso del Estado cuando así fuere necesario y lo determinen las leyes, tendrán a su cargo los siguientes servicios públicos:
+El Municipio es libre en su régimen interior, será gobernado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
-A).- Agua potable y alcantarillado.
+Los Ayuntamientos se integrarán por un Presidente Municipal y el número de Regidores y Síndicos que la Ley determine; serán electos por el sistema de mayoría relativa y residirán en las cabeceras de los Municipios.
 
-B).- Alumbrado público.
+El Presidente Municipal presidirá el Ayuntamiento y representará a éste y al Municipio política y administrativamente.
 
-C).- Limpia.
+Los Regidores de mayoría relativa y los de representación proporcional tendrán la misma categoría e iguales derechos y obligaciones.
 
-D).- Mercados y centrales de abasto.
+Tendrán, además, hasta seis Regidores que serán elegidos según el principio de representación proporcional y su asignación a los partidos políticos, entre los cuales no debe figurar el que haya obtenido mayoría de votos, se hará de acuerdo con el procedimiento que establezca la Ley.
 
-E).- Panteones.
+Los Ayuntamientos se renovarán en su totalidad cada tres años. Se elegirá un suplente por el Presidente Municipal y por cada Regidor y Síndico para que cubra las faltas temporales o absolutas del propietario correspondiente, serán cubiertas conforme a lo dispuesto por la Ley Orgánica Municipal del Estado.
 
-F).- Rastro.
+El Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, podrá suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves que la Ley prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
 
-G).- Calles, parques y jardines.
+En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la Ley no procede que entren en funciones los suplentes ni que se celebren nuevas elecciones, la Legislatura del Estado designará, entre los vecinos, a los consejos municipales que concluirán los períodos respectivos; estos concejos estarán integrados por el número de miembros que determine la Ley, quienes deberán cumplir los requisitos de elegibilidad establecidos para los Regidores.
 
-H).- Seguridad pública y Tránsito.
+Para ser Presidente Municipal, Regidor o Síndico de un Ayuntamiento se requiere:
 
-I).- Los demás que el Congreso del Estado determine según las condiciones territoriales y socioeconómicas de los Municipios, así como su capacidad administrativa y financiera.
+I.- Ser ciudadano mexicano por nacimiento, en ejercicio de sus derecho.
 
-Los Municipios del Estado, previo acuerdo entre sus Ayuntamientos y con sujeción a la ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les corresponda.
+II.- Tener 18 años cumplidos el día de la elección; y
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1995)</small>
+III.- Ser originario del Municipio o tener una residencia en él no menor de dos años, inmediatamente anteriores al día de la elección.
+
+Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, elegidos por votación, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el periodo inmediato.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
 
 ###### Artículo 67.
 
-Los Ayuntamientos se compondrán del número de Regidores y Síndicos que prevenga la Ley; serán electos por el sistema de mayoría relativa; residirán en las cabeceras de los Municipios y estarán presididos por el Primer Regidor quien a la vez tendrá el carácter de Presidente Municipal. Este servidor público es política y administrativamente el representante del Ayuntamiento y del Municipio.
+Los Municipios gozan de personalidad jurídica para todos los efectos legales. En asuntos jurisdiccionales, serán representados por los Síndicos o por aquellos que se designen de conformidad con lo que establezca la Ley Orgánica Municipal del Estado.
 
-Tendrán, además, hasta seis Regidores que serán electos según el principio de representación proporcional y su asignación a los partidos políticos, entre los cuales no debe figurar el que haya obtenido mayoría de votos, se hará de acuerdo con el procedimiento que establezca la Ley.
-
-Los Regidores de mayoría relativa y los de representación proporcional, tendrán la misma categoría e iguales derechos y obligaciones.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 1977)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
 
 ###### Artículo 68.
 
-Para ser Regidor o Síndico de un Ayuntamiento se requiere:
+Los Ayuntamientos tendrán facultades para aprobar, de acuerdo con las Leyes Estatales, los Bandos de Policía y Gobierno, los Reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia; y aseguren la participación ciudadana y vecinal.
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 1950)</small>
+Para cualquier tipo de concesión de los servicios públicos municipales, los Ayuntamientos deberán recabar la autorización del Congreso del Estado, para lo cual, se requerirá la aprobación de la mayoría simple de sus miembros.
 
-I.- Ser ciudadano mexicano por nacimiento, en ejercicio de sus derechos;
+El objeto de las Leyes de competencia municipal, será establecer:
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1985)</small>
+I.- Las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación y los órganos para dirimir las controversias entre dicha administración y los particulares, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad.
 
-II.- Tener 18 años cumplidos el día de la elección.
+II.- Los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los Ayuntamientos para dictar resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al periodo del Ayuntamient.
 
-III.- (DEROGADA, P.O. 15 DE ENERO DE 1995)
+III.- Las normas de aplicación general para celebrar los convenios a que se refieren tanto las fracciones III y IV del Artículo 115, como el segundo párrafo de la fracción VII del Artículo 116, de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(ADICIONADA, P.O. 8 DE JULIO DE 1973)</small>
+IV.- El procedimiento y condiciones para que el Gobierno Estatal asuma una función o servicio municipal cuando, al no existir el convenio correspondiente, la Legislatura Estatal considere que el Municipio de que se trate esté imposibilitado para ejercerlo o prestarlo; en este caso, será necesaria solicitud previa del Ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes; y
 
-IV.- Ser originario del municipio o tener una residencia en él no menor de dos años inmediatamente anteriores a la elección.
+V.- Las disposiciones aplicables en los Municipios que no cuenten con los Bandos o Reglamentos correspondientes.
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1977)</small>
-
-No podrán ser electas Regidores o Síndicos las personas que se encuentren comprendidas en los casos a que se refiere el Artículo 20 de esta Constitución, salvo aquellas que se encuentren dentro de la excepción prevista en el párrafo último del mismo artículo.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
 
 ###### Artículo 69.
 
-Los Municipios gozan de personalidad jurídica para todos los efectos legales. En asuntos judiciales serán representados por los Síndicos.
+Los Municipios tendrán a su cargo las funciones y servicios públicos siguientes:
 
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 1984)</small>
+I.- Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales.
 
-Los Ayuntamientos poseerán facultades para expedir de acuerdo con las bases normativas que establezca el Congreso del Estado, los Bandos de Policía y Buen Gobierno y los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones.
+II.- Alumbrado público.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+III.- Limpia, recolección, traslado, tratamiento y disposición final de residuos.
+
+IV.- Mercados y centrales de abasto.
+
+V.- Panteones.
+
+VI.- Rastro.
+
+VII.- Calles, parques, jardines y su equipamiento.
+
+VIII.- Seguridad pública, en los términos del Artículo 21 de la Constitución Federal, policía preventiva municipal y tránsito; y
+
+IX.- Los demás que el Congreso del Estado determine, según las condiciones territoriales y socioeconómicas de cada Municipio, así como su capacidad administrativa y financiera.
+
+Sin perjuicio de su competencia constitucional, en el desempeño de las funciones o la prestación de los servicios a su cargo, los Municipios observarán lo dispuesto por las Leyes Federales y Estatales.
+
+Los Municipios, previo acuerdo entre sus Ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. En este caso y tratándose de la asociación de Municipios del Estado con uno o más Municipios de otra u otras Entidades Federativas, deberán contar con la aprobación del Congreso.
+
+Asimismo, cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Gobierno del Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
 
 ###### Artículo 70.
 
-Los Ayuntamientos se renovarán en su totalidad cada tres años. Por cada Regidor y Síndico, se elegirá un Suplenta (sic) para que cubra las faltas temporales o absolutas del propietario correspondiente.
+Los Municipios administrarán libremente su Hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que el Congreso del Estado establezca a su favor, y en todo caso:
 
-Si llegaren a faltar en forma absoluta el Primer Regidor y su Suplente, el Ayuntamiento, bajo la Presidencia de uno de los Síndicos, designará a la persona que se haga cargo de la Presidencia durante el tiempo que falte para concluír el período.
-
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 1984)</small>
-
-El Congreso del Estado por acuerdo de las dos terceras partes de sus integrantes, podrá suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves que la ley prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
-
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 1984)</small>
-
-En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procediera que entraren en funciones los suplentes ni que se celebren nuevas elecciones, el Congreso del Estado designará entre los vecinos a los Consejos Municipales que concluirán los períodos respectivos.
-
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
-
-###### Artículo 71.
-
-Los Municipios administrarán libremente su hacienda; la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que el Congreso del Estado establezca a su favor, y en todo caso:
-
-A).- Percibirán las contribuciones, incluyendo tasas adicionales, que establezca el Estado sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base al cambio de valor de los inmuebles.
+I.- Percibirán las contribuciones, incluyendo tasas adicionales, que establezca el estado sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles.
 
 Los Municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones.
 
-B).- Las participaciones federales, que serán cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos que anualmente se determinen por el Congreso del Estado.
+II.- Las participaciones federales que serán cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos que anualmente se determinen por el Congreso del Estado.
 
-C).- Los ingresos derivados de la prestación de servicios públicos a su cargo.
+III.- Los ingresos derivados de la prestación de servicios públicos a su cargo.
 
-Las leyes locales no establecerán exenciones o subsidios respecto de las contribuciones a que se refiere el inciso A), en favor de personas físicas o morales, ni de instituciones oficiales o privadas. Sólo los bienes del dominio público de la Federación, de los Estados o de los Municipios estarán exentos de dichas contribuciones.
+El Congreso del Estado aprobará las Leyes de Ingresos de los Municipios, revisará y fiscalizará sus cuentas públicas. Los presupuestos de egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles.
 
-El Congreso aprobará las Leyes de Ingresos de los Municipios y revisará sus cuentas públicas. Los Presupuestos de Egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles.
+Los recursos que integran la Hacienda Municipal serán ejercidos en forma directa por los Ayuntamientos, o bien por quien ellos autoricen, conforme a la Ley.
 
-Los Municipios, en los términos de las leyes relativas, federales o locales, estarán facultados para formular, aprobar y administrar la Zonificación y Planes de Desarrollo Urbano; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en su jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones, y participar en la creación y administración de zonas de reservas ecológicas. Para tal efecto y de conformidad con los fines señalados en el Artículo 27 de la Constitución General de la República, expedirán los Reglamentos y disposiciones administrativas que fueren necesarios.
+Las Leyes locales no establecerán exenciones o subsidios respecto de las contribuciones a que se refieren las fracciones I y III, a favor de personas físicas o morales ni de instituciones oficiales o privadas. Sólo estarán exentos los bienes de dominio público de la Federación, de los Estados o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 71.
+
+Los Municipios, en los términos de las Leyes Federales y Estatales relativas, estarán facultados para:
+
+I.- Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal.
+
+II.- Participar en la creación y administración de sus reservas territoriales.
+
+III.- Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando la Federación o el Estado elaboren proyectos de desarrollo regional deberán asegurar la participación de los Municipios.
+
+IV.- Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en sus jurisdicciones territoriales.
+
+V.- Intervenir en la regularización de la tenencia de la tierra urbana.
+
+VI.- Otorgar licencias y permisos para construcciones.
+
+VII.- Participar en la creación y administración de zonas de reservas ecológicas, y en la elaboración y aplicación de programas de ordenamiento en esta materia.
+
+VIII.- Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial.
+
+IX.- Celebrar convenios para la administración y custodia de las zonas federales.
+
+X.- Elaborar las tablas de valores unitarios de suelo y construcciones, y someterlas a la aprobación del Congreso, para que sirvan de base para el cobro de contribuciones sobre la propiedad inmobiliaria; y
+
+XI.- La policía preventiva municipal estará al mando del Presidente Municipal, en los términos del reglamento correspondiente.
+
+Aquélla acatará las órdenes que el Gobernador del Estado le transmita en los casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
+
+En lo conducente y de conformidad con los fines señalados en el párrafo tercero del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1549,7 +1501,7 @@ P.O. 5 DE ENERO DE 1975.
 
 DECRETO NÚMERO 12, POR EL QUE SE ADICIONA LA FRACCIÓN XXX AL ARTÍCULO 27 DE LA CONSTITUCIÓN POLÍTICA LOCAL.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES..
 
 P.O. 5 DE ENERO DE 1975.
 
@@ -1559,7 +1511,7 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 P.O. 31 DE AGOSTO DE 1975.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 2 DE NOVIEMBRE DE 1975.
 
@@ -1788,6 +1740,36 @@ Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 28 DE FEBRERO DE 2000.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE OCTUBRE DE 2000.
+
+DECRETO NÚMERO 122, POR EL QUE SE REFORMAN LOS ARTÍCULOS 10, 27, 31, 46, 63, 66, 67, 68, 69, 70 Y 71 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Congreso del Estado deberá adecuar las leyes municipales conforme a lo dispuesto en este Decreto a más tardar el 22 de marzo del año 2001.
+
+TERCERO.- Tratándose de funciones y servicios que conforme al presente Decreto sean competencia de los Municipios y que a la entrada en vigor de las reformas a que se refiere el Artículo transitorio anterior sean prestados por el Gobierno del Estado, o de manera coordinada con los Municipios, éstos podrán asumirlos, previa aprobación del Ayuntamiento.
+
+El titular del Poder Ejecutivo dispondrá lo necesario para que la función o servicio público de que se trate, se transfiera al Municipio de manera ordenada, conforme al programa de transferencia que presente, en un plazo máximo de 90 días contados a partir de la recepción de la correspondiente solicitud.
+
+En el caso de la fracción I del Artículo 69 dentro del plazo señalado en el párrafo anterior, el Gobierno del Estado podrá solicitar al Congreso, conservar en su ámbito de competencia los servicios a que se refiere la citada fracción, cuando la transferencia de Estado a Municipio afecte, en perjuicio de la población, su prestación.
+
+En tanto se realiza la transferencia a que se refiere el primer párrafo, las funciones y servicios públicos seguirán ejerciéndose o prestándose en los términos y condiciones vigentes.
+
+CUARTO.- Antes del inicio del ejercicio fiscal del año 2002 el Congreso del Estado, en coordinación con los Municipios respectivos adoptarán las medidas conducentes a fin de que los valores unitarios de suelo que sirven de base para el cobro de las contribuciones sobre la propiedad inmobiliaria sean equiparables a los valores de mercado de dicha propiedad, y procederán en su caso a realizar las adecuaciones correspondientes a las tasas aplicables para el cobro de las mencionadas contribuciones, a fin de garantizar su apego a los principios de proporcionalidad y equidad.
+
+QUINTO.- El Estado y los Municipios realizarán los actos conducentes a efecto de que los convenios que, en su caso, hubiesen celebrado con anterioridad, se ajusten a lo establecido en este Decreto y a las Leyes Estatales.
+
+SEXTO.- En la realización de las acciones conducentes al cumplimiento del presente Decreto, se respetarán los derechos y obligaciones contraídos previamente con terceros, así como los derechos de los trabajadores estatales y municipales.
+
+P.O. 23 DE OCTUBRE DE 2000.
+
+DECRETO NÚMERO 127, QUE REFORMA EL ARTÍCULO 17 DE LA CONSTITUCIÓN POLÍTICA LOCAL.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Ley Estatal Electoral y el Consejo Estatal Electoral, conservarán su denominación, hasta en tanto, no se modifiquen al respecto las leyes de la materia.
 
 ###### ARTICULO UNICO.
 
