@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-procuraduria-federal-del-consumidor-1313"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-08-23"
-last_updated: "2002-08-21"
+last_updated: "2004-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1313&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1994-08-19"
 
 REGLAMENTO DE LA PROCURADURIA FEDERAL DEL CONSUMIDOR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE AGOSTO DE 2002.
+> <small>N. DE E. EL PRESENTE REGLAMENTO HA SIDO ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA PROCURADURIA FEDERAL DEL CONSUMIDOR, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 16 DE JULIO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección de Diario Oficial de la Federación el martes 23 de agosto de 1994.
 
@@ -458,3 +460,11 @@ Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Dist
 D.O.F. 21 DE AGOSTO DE 2002.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE JULIO DE 2004.
+
+PRIMERO.- Este Reglamento entrará en vigor a los treinta días naturales siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento de la Procuraduría Federal del Consumidor publicado en el Diario Oficial de la Federación en fecha 23 de agosto de 1994.
+
+TERCERO.- Los procedimientos y recursos iniciados conforme al Reglamento que se deroga, se seguirán substanciando ante las unidades administrativas equivalentes previstas en el presente Reglamento.
