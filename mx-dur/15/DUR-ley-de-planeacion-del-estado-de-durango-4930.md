@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-planeacion-del-estado-de-durango-4930"
 country: "mx"
 rank: "ley"
 publication_date: "1987-02-01"
-last_updated: "1987-02-01"
+last_updated: "2004-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PLANEACION DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 1 de febrero de 1987.
 
@@ -83,7 +83,9 @@ Las disposiciones reglamentarias de esta Ley establecerán las normas de organiz
 
 El Gobernador del Estado tiene la responsabilidad del desarrollo y la planeación democrática en las esferas de su competencia y atribuciones. Para tal fin, proveerá lo conducente para establecer los canales de participación y consulta popular en el proceso de planeación, así como para entablar la relación más equitativa tanto con el Gobierno Federal como con los Ayuntamientos de la Entidad. El Ejecutivo Estatal aprobará el Plan Estatal de Desarrollo y los Programas que de él emanen.
 
-La coordinación de Planeación es la dependencia del Ejecutivo encargada de coordinar las acciones relativas a la planeación estatal.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+La Secretaría de Desarrollo Social del Gobierno del Estado es la dependencia del ejecutivo encargada de coordinar las acciones relativas a la planeación estatal.
 
 ###### ARTICULO 6o.
 
@@ -103,9 +105,11 @@ El Sistema Estatal de planeación democrática estructurará los esfuerzos de la
 
 Forman parte del sistema, las dependencias y entidades u organismos de la administración pública estatal y los ayuntamientos, a través de sus unidades administrativas que tengan asignadas las funciones de planeación; con el apoyo de la participación ciudadana.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 9o.
 
-En el sistema de planeación democrática, la coordinación de planeación, tendrá las siguientes atribuciones:
+En el sistema de planeación democrática, la Secretaría de Desarrollo Social del Gobierno del Estado, tendrá las siguientes atribuciones:
 
 I.- Coordinar las acciones en el proceso de la planeación del desarrollo del Estado.
 
@@ -253,13 +257,17 @@ Dicha actividad implica la programación sectorial, regional e institucional y e
 
 En los términos de la presente Ley, la planeación y programación estatales serán sometidas a la aprobación de las siguientes prescripciones:
 
-I.- El Plan Estatal de Desarrollo y los Programas Regionales y Especiales del Estado que impliquen relaciones de dos o más sectores, serán presentados por la Coordinación de Planeación.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+I.- El Plan Estatal de Desarrollo y los Programas Regionales y Especiales del Estado que impliquen relaciones de dos o más sectores, serán presentados por la Secretaría de Desarrollo Social del Gobierno del Estado.
 
 II.- Los programas sectoriales serán presentados por los titulares de las Dependencias de la Administración Pública Centralizada.
 
 III.- Los programas de dependencias y entidades u organismos de carácter estatal serán presentados por las dependencias de coordinación sectorial que correspondan.
 
-IV.- Si dependencias y entidades u organismos no estuvieren agrupados en un sector específico, la presentación serán (sic) hecha por la Coordinación de Planeación.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+IV.- Si algunas dependencias y entidades no estuvieren agrupadas en un sector específico, la presentación será hecha por la Secretaría de Desarrollo Social del Gobierno del Estado.
 
 ###### ARTICULO 29o.
 
@@ -347,9 +355,11 @@ V.- En materia de programación, los convenios establecerán, en lo posible, las
 
 La integración de los programas de incorporación de los recursos materiales y patrimoniales de la Federación, al Estado y a los Municipios, que incluyan la transferencia de recursos humanos, se respetarán los derechos de los trabajadores.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 43o.
 
-Las acciones de inversión y gasto corriente de la federación en el estado, relativas a los programas de Desarrollo Socio-Económico, serán coordinadas por el Comité de Planeación para el Desarrollo del Estado de Durango.
+Las acciones de inversión y gasto corriente de la Federación en el Estado, relativas a los programas de desarrollo socioeconómico, serán coordinadas por la Secretaría de Desarrollo Social del Gobierno del Estado.
 
 ###### ARTICULO 44o.
 
@@ -367,9 +377,11 @@ III.- Lograr la autosuficiencia económica y financiera de los ayuntamientos par
 
 IV.- Proporcionar a los Ayuntamientos, en el marco de la planeación democrática, la asesoría y el apoyo técnico en materia de programación presupuestación hacendaria, jurídica, administrativa y financiera.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 46o.
 
-La coordinación de planeación propondrá al gobernador del Estado los procedimientos conforme a los cuales se ejecutarán las acciones objeto de coordinación y de acuerdo, escuchando la opinión de los titulares de las dependencias de la administración pública centralizada y la de los ayuntamientos, de acuerdo a las facultades y obligaciones que a cada una competen.
+La Secretaría de Desarrollo Social del Gobierno del Estado propondrá al titular del Poder Ejecutivo Estatal los procedimientos conforme a los cuales se ejecutarán las acciones objeto de coordinación y de acuerdo, escuchando la opinión de los titulares de las dependencias de la administración pública centralizada y la de los ayuntamientos, de acuerdo a las facultades y obligaciones que a cada una competen.
 
 ###### ARTICULO 47o.
 
@@ -405,13 +417,155 @@ Las acciones concertadas se formalizarán por medio de los contratos, convenios 
 
 Las controversias o desacuerdos que se susciten con motivo de la interpretación e incumplimiento de los convenios, contratos o acuerdos, serán resueltos administrativamente por las partes, o, en su caso, por los órganos judiciales competentes.
 
-### CAPITULO SEPTIMO. De las Responsabilidades
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+### CAPITULO SEPTIMO. Del Comité de Planeación para el Desarrollo del Estado de Durango
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 54o.
 
-Los responsables de la contravención y falta de cumplimiento de las disposiciones de esta Ley, si son servidores públicos serán sancionados en los términos del Título V de la Constitución Política del Estado y los ordenamientos reglamentarios relativos, independientemente de las medidas disciplinarias que en cada caso se determinen.
+El Comité de Planeación para el desarrollo del Estado, es una instancia de coordinación interinstitucional y concertación social responsable de planear, programar, formular, conducir y evaluar la política general del desarrollo económico y social de la Entidad. Le corresponde el despacho de los siguientes asuntos:
 
-En los convenios de coordinación que se celebren con el Gobierno Federal y con los Ayuntamientos se incluirán una o varias cláusulas en las que se establezca las sanciones por el incumplimiento de sus estipulaciones o de los acuerdos que de ello se deriven.
+I. Gestionar e impulsar la participación de las comunidades y del sector social y privado en la obra de gobierno;
+
+II. Proyectar y coordinar, con la participación del Gobierno del Estado y los Municipios, la planeación regional;
+
+III. Propiciar la integración de los sectores social y privado en el sistema de planeación, procurando la incorporación de sus esfuerzos al proceso del desarrollo estatal;
+
+IV. Establecer las bases o lineamientos generales para la formulación del Plan Estatal de Desarrollo; y
+
+V. Las demás que le confieran los ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 55º.
+
+El Comité, para el adecuado cumplimiento de sus atribuciones, se integrará de la siguiente manera:
+
+I. Un Presidente, que será el C. Gobernador del Estado;
+
+II. Un Vicepresidente que será el Secretario de Desarrollo Social del Gobierno del Estado, quien tendrá las mismas facultades del Presidente en las ausencias del mismo;
+
+III. Un Coordinador General, que será el Subsecretario de Planeación de la Secretaría de Desarrollo Social del Gobierno del Estado;
+
+IV. Un Secretario Técnico, que será el titular en el Estado de la Delegación de la Secretaría de Desarrollo Social del Gobierno Federal;
+
+V. Los titulares de las dependencias y entidades de la Administración Pública Estatal que señale el C. Gobernador del Estado;
+
+VI. Los titulares de las dependencias y entidades de la Administración Pública Federal que actúen en el Estado; y
+
+VII. Los titulares de las comisiones donde participen los sectores público, social y privado, cuyas acciones interesen al desarrollo socio-económico de la Entidad.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 56º.
+
+También podrán formar parte del Comité:
+
+I. Los CC. Presidentes Municipales;
+
+II. Los representantes de las organizaciones mayoritarias de Trabajadores y Campesinos, así como de las sociedades cooperativas que actúan a nivel estatal y estén debidamente registradas ante las autoridades correspondientes,
+
+III. Los representantes de las organizaciones mayoritarias de empresarios que actúen a nivel estatal y estén debidamente registradas ante las autoridades correspondientes;
+
+IV. Los representantes de instituciones de educación superior y de centros de investigación que operen en el Estado; y
+
+V. Los Senadores y Diputados Federales por la Entidad, así como los Diputados Locales.
+
+El Comité deberá extender la invitación correspondiente y propiciar la activa participación de quiénes acepten formar parte de él. Por cada uno de los miembros propietarios, se designará un suplente.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 57º.
+
+Son facultades del Coordinador General:
+
+I. Brindar apoyo técnico a las dependencias y entidades de la administración pública estatal y municipal en el proceso de promoción y gestión de los recursos para los diferentes programas relacionados con el desarrollo estatal;
+
+II. Operar la planeación, programación y concertación para el desarrollo del Estado, de acuerdo a la encomienda del Ejecutivo Estatal, además de coordinar y evaluar la política general de desarrollo de la entidad;
+
+III. Coordinar los trabajos para la formulación del Plan Estatal de Desarrollo y de los informes anuales del Ejecutivo del Estado; y
+
+Representar al Comité en todos los actos en que éste participe, así como ejecutar las tareas especiales que le encomiende el titular del Poder Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 58º.
+
+Al Secretario Técnico, corresponde:
+
+I. Prestar el apoyo técnico necesario para el cumplimiento de los objetivos y tareas que corresponden al Comité;
+
+II. Apoyar la formulación, actualización, instrumentación del Plan Estatal de Desarrollo, siguiendo los lineamientos dictados por el Presidente del Comité;
+
+III. Coadyuvar en la formulación y proponer los planes, programas y proyectos de desarrollo que ordene el Presidente del Comité, encargándose de las funciones de presupuestación, evaluación e información relacionadas con los mismos;
+
+IV. Participar, junto con el Coordinador General, en la formulación de grupos de trabajo y de los Subcomités Sectoriales, Regionales y Especiales;
+
+V. Participar en la formulación del Reglamento Interior del Comité;
+
+VI. Sugerir al Presidente del Comité, programas y acciones a concertar entre el Ejecutivo del Estado, el Ejecutivo Federal y los Municipios de la Entidad; y
+
+VII. Ejecutar las tareas especiales que le encomiende el Presidente del Comité, en el ámbito de su competencia.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 59º.
+
+A los representantes de las dependencias del Ejecutivo del Estado corresponde:
+
+I. Participar en todos los grupos de trabajo, así como en los Subcomités Sectoriales, Regionales y Especiales, de los cuales formen parte;
+
+II. Participar en la formulación, actualización e instrumentación del Plan Estatal de Desarrollo;
+
+III. Programar las actividades de sus dependencias, conforme a sus lineamientos y objetivos del Plan Estatal de Desarrollo, buscando siempre los aspectos compatibles y la coordinación de sus programas con los del Gobierno Federal y los de los Municipios de la Entidad; y
+
+IV. Ejecutar las tareas especiales que les encomiende el Presidente del Comité.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 60o.
+
+A los representantes de las dependencias y entidades de la Administración Pública Federal que operen en el Estado, se les invitará a:
+
+I. Participar en los grupos de trabajos, así como en los Subcomités Sectoriales, Regionales y Especiales, de los cuales formen parte;
+
+II. Cuidar que la formulación de sus programas, sea compatible y la ejecución de los mismos, se haga en forma coordinada con los planes, programas y proyectos del Gobierno del Estado y de los Municipios de la Entidad; y
+
+III. Sugerir al Presidente del Comité, programas y acciones a concertar entre el Ejecutivo del Estado y el Ejecutivo Federal.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 61º.
+
+Con respecto a la autonomía municipal, a los Presidente (sic) de los Ayuntamientos se les invitará a:
+
+I. Participar en todos los grupos de trabajo, así como en los Subcomités Sectoriales, Regionales y Especiales, de los cuales formen parte;
+
+II. Colaborar en la formulación, actualización e instrumentación del Plan Estatal de Desarrollo; y
+
+III. Cuidar que la programación de sus actividades, sea compatible y la ejecución de sus programas, se coordine con los planes, programas y proyectos del Gobierno del Estado y Municipios colindantes.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 62º.
+
+A los miembros representantes de los Sectores Social y Privado, se les invitará a:
+
+I. Participar en todos los grupos de trabajo, así como en los subcomités sectoriales, regionales y especiales, de los cuales formen parte;
+
+II. Participar en la formulación y actualización del Plan Estatal de Desarrollo, planteando los problemas, soluciones y puntos de vista de los sectores que representan;
+
+III. Promover, en sus sectores, el espíritu y actos concretos de coordinación y cooperación en la Entidad; y
+
+IV. Difundir y dar a conocer, en sus sectores, los planes y programas del sector público que opera en la Entidad.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 63º.
+
+La participación de los miembros del Comité, se hará conforme a lo que establezca el reglamento interior que expida el Ejecutivo del Estado y a lo que disponga el mismo, respecto a la integración y operación de los grupos de trabajo y de los Subcomités Sectoriales, Regionales y Especiales.
 
 T R A N S I T O R I O S
 
@@ -436,3 +590,15 @@ DADO en el PALACIO del PODER EJECUTIVO, en Victoria de Durango Dgo., a los veint
 EL Gobernador Constitucional del Estado Lic. José Ramírez Gamero.- Rúbrica.
 
 El Secretario General de Gobierno Lic. Gustavo Rivera Ramos.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 23 DE DICIEMBRE DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
