@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "1933-05-30"
+last_updated: "1934-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE MAYO DE 1933.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE AGOSTO DE 1934.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -656,9 +656,13 @@ Si en el contrato no se determinaren con toda precisión la especie y calidad de
 
 En el contrato mercantil en que se fijare pena de indemnización contra el que no lo cumpliere, la parte perjudicada podrá exigir el cumplimiento del contrato ó la pena prescrita; pero utilizando una de estas dos acciones, quedará extinguida la otra.
 
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)</small>
+
 ## TITULO SEGUNDO.
 
 DE LAS SOCIEDADES DE COMERCIO.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)</small>
 
 ### CAPÍTULO I.
 
@@ -666,61 +670,33 @@ De las diferentes clases de sociedades mercantiles.
 
 ###### Art. 89.
 
-La ley reconoce cinco formas ó especies de sociedades mercantiles:
-
-I. La sociedad en nombre colectivo;
-
-II. La sociedad en comandita simple;
-
-III. La sociedad anónima;
-
-IV. La sociedad en comandita por acciones;
-
-V. La sociedad cooperativa.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 90.
 
-Toda sociedad comercial constituye una personalidad jurídica distinta de la de los asociados.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 91.
 
-Las sociedades civiles, sin perder su carácter, pueden constituirse como sociedades de comercio, de conformidad con las disposiciones de este título.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 92.
 
-La ley reconoce, además de las sociedades propiamente dichas, las asociaciones comerciales momentáneas y en participación, sin atribuirles no obstante personalidad jurídica distinta de la de los asociados.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)</small>
 
 ###### Art. 93.
 
-Todo contrato de sociedad ha de constar en escritura pública: el que se estipule, entre los socios, bajo otra forma, no producirá ningún efecto legal.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 94.
 
-Cualquiera reforma ó ampliación que se haga en el contrato de sociedad, debe formalizarse con las mismas solemnidades prescritas para celebrarlo.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 95.
 
-Las escrituras públicas de sociedad deberán contener para su validez:
-
-I. Los nombres, apellidos y domicilios de los otorgantes;
-
-II. La razón ó firma social, así como la denominación de la sociedad en su caso, expresando el domicilio de la sociedad;
-
-III. El objeto y duración de la sociedad y la manera de computar dicha duración;
-
-IV. El capital social especificando la naturaleza, número y valor de las acciones en que se dividiere; valor é importe suscrito, si se tratare de sociedades anónimas ó en comandita por acciones; ó la manifestación de lo que cada socio llevé á la compañía, ya en industria, dinero efectivo, créditos ó efectos, con expresión del valor que se diere á unos y otros, en todo género de sociedades;
-
-V. Los nombres de los socios que han de tener á su cargo la dirección ó administración de la sociedad y el uso de la firma social, si se tratare de las sociedades en nombre colectivo ó en comandita simple; ó la manera conforme á la cual haya de administrarse y dirigirse la sociedad, especificando las facultades de que han de disfrutar los directores y administradores, si se tratare de otro cualquier género de sociedad;
-
-VI. El importe del fondo de reserva en las sociedades por acciones, exceptuándose de esta obligación las sociedades cooperativas;
-
-VII. La manera y forma de hacer la distribución de las utilidades y pérdidas que correspondan á los miembros de la sociedad;
-
-VIII. La participación que los fundadores de las sociedades anónimas y en comandita por acciones se reserven en las utilidades, y la forma en que hayan de percibirlas;
-
-IX. Los casos en que la sociedad haya de disolverse anticipadamente;
-
-X. Las bases para practicar la liquidación de la sociedad, y la manera de proceder á la elección de los liquidadores, cuando no hubiesen sido designados anticipadamente.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ### CAPÍTULO II.
 
@@ -732,19 +708,21 @@ De la sociedad en nombre colectivo.
 
 ###### Art. 96.
 
-La omisión de alguno de los requisitos prescritos en el artículo anterior, es causa de nulidad del pacto social, la que se declarará á pedimento de cualquiera de los socios.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 97.
 
-La falta de la escritura pública, ó de los requisitos que debe contener para su validez, no podrá alegarse como excepción contra un tercero que hubiese contratado con la sociedad.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 98.
 
-Las asociaciones momentáneas y en participación, así como las modificaciones que en ellas se introduzcan, no están sujetas en su constitución á ninguna formalidad externa. En consecuencia, su existencia puede probarse por todos los medios de prueba que el derecho común establece.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 99.
 
-Las asociaciones comerciales no están sujetas á la inscripción en el Registro Público de Comercio.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)</small>
 
 ### CAPÍTULO IV.
 
@@ -752,67 +730,59 @@ De la sociedad en comandita simple.
 
 ###### Art. 100.
 
-La sociedad en nombre colectivo es la que existe bajo una razón social, y en la cual todos los asociados están ilimitada y solidariamente obligados por las operaciones celebradas por la sociedad bajo dicha razón social.
-
-La cláusula del contrato de sociedad que suprima la responsabilidad ilimitada y solidaria, no producirá efecto alguno con respecto á tercero.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 101.
 
-Sólo los nombres de los asociados pueden formar parte de la razón social. Cuando no queden comprendidos en ella los nombres de todos los socios, se agregarán las palabras "y compañía," ú otras equivalentes para expresar ésta.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 102.
 
-Cuando la razón social de una compañía sea la que hubiere servido á otra cuyos derechos y obligaciones han sido transferidos á la nueva, se agregará á la razón social la palabra "sucesores."
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 103.
 
-Los que contraviniendo lo dispuesto en el artículo 101 incluyan su nombre en la razón social de una compañía colectiva, quedarán sujetos á la responsabilidad solidaria de los socios, sin perjuicio de la penal, si á ella hubiere lugar.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 104.
 
-Sólo pueden hacer uso de la razón social, el socio ó socios expresamente autorizados para ello en la escritura de sociedad.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 105.
 
-El socio ó socios que hagan uso de la razón social sin estar autorizados por la escritura, no obligarán con sus actos y contratos á la compañía, aunque los ejecuten á nombre de ésta y bajo su firma.
-
-La responsabilidad civil y penal de tales actos recaerá sobre sus autores.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 106.
 
-Los socios no pueden ceder sus derechos sin previo consentimiento de los miembros de la compañía; y sin él, tampoco pueden admitirse otros nuevos, salvo pacto en contrario en uno ú otro caso. Los socios industriales no pueden, en ningún caso, ceder sus derechos.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 107.
 
-Los socios tendrán siempre el derecho del tanto en las cesiones ó ventas que algún miembro de la Compañía pretenda hacer del todo ó parte de su representación en la sociedad, teniendo quince días para ejercitar el derecho del tanteo, contados desde el aviso que les pase el que enajene. Si fuesen varios los que quieran usar de este derecho, les competerá en la proporción que representen.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 108.
 
-Los socios de las compañías colectivas tienen dos obligaciones para con la sociedad:
-
-I. La de poner en la masa común, en los términos convenidos, la porción de capital á que se hubieren comprometido en el contrato social;
-
-II. La de evicción y saneamiento de las cosas que ponen en la masa común del capital social, como parte de su representación en la sociedad.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 109.
 
-En todo contrato de sociedad en nombre colectivo, cada socio contrae una obligación de dar, ó una obligación de hacer, ó ambas á la vez, según las condiciones del contrato social.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 110.
 
-Los asientos en los libros de la compañía serán una prueba bastante para justificar que un socio ha puesto en ella lo que le correspondía; pero los socios administradores, por lo que á ellos toca, deberán, además, acreditar este hecho por medio de otra prueba suficiente.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 111.
 
-En el caso de que un socio retarde la entrega total ó parcial se su parte, y de que la compañía de que es miembro no opte por la rescisión del contrato, sino por el pago, éste se hará abonándose los intereses respectivos durante la mora, á más de que se decida por quien corresponda, si por causa de los daños y perjuicios que haya podido resentir la sociedad, tiene que satisfacerse alguna otra prestación.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 112.
 
-El socio industrial, ni por cuenta propia ni por ajena, podrá ocuparse en negociaciones de especie alguna, salvo si la compañía se lo permitiere expresamente, y en caso de verificarlo quedará al arbitrio de los socios capitalistas, excluirlo de la compañía, privándole de los beneficios que le correspondan en ella, ó aprovecharse de los que hubiere obtenido contraviniendo esta disposición.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 113.
 
-La administración de la sociedad puede confiarse en la escritura pública á uno ó más socios. Habiendo socio ó socios especialmente encargados de la administración, los demás no podrán contraria ni entorpecer las gestiones de aquéllos, ni impedir sus efectos. Si la administración no se hubiere limitado por un acto especial á alguno de los socios, todos tendrán la facultad de concurrir á la dirección y manejo de los negocios comunes, y los socios presentes se pondrán de acuerdo para todo contrato ú obligación que interese á la sociedad.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ### CAPÍTULO V.
 
@@ -820,273 +790,203 @@ De la sociedad anónima.
 
 ###### Art. 114.
 
-Las obligaciones que contraigan por la mayoría de los socios encargados de la administración, sin conocimiento de la minoría, ó contra su voluntad expresa, serán válidas; pero los que las hayan contraído serán personalmente responsables á la sociedad de los perjuicios que por ellas se le causen.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 115.
 
-El nombramiento de los socios administradores hecho en la escritura de sociedad, no podrá revocarse sin el consentimiento de todos y cada uno de los socios, á no ser judicialmente por dolo, culpa ó inhabilidad; y á su vez estos administradores están obligados á cumplir hasta el fin de la sociedad con su encargo; respondiendo á ella de los daños y perjuicios que pueda motivar su negligencia en la gestión de los negocios que le sean encomendados.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 116.
 
-Siempre que la mayoría de los socios lo acuerde, puede nombrarse un interventor al socio ó socios que administren. Lo mismo podrá hacerse en caso de que judicialmente se promueva la separación del administrador ó administradores.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 117.
 
-Los socios administradores ejercerán todas las facultades que fueren necesarias al giro y desarrollo de los negocios que forman el objeto de la compañía; pero en ningún caso podrán vender ó hipotecar los bienes inmuebles de la sociedad, á no ser que les hubiere sido expresamente concedida esta facultad.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 118.
 
-El socio ó socios administradores que infringieren las facultades que les hubieren sido concedidas; que hicieren uso de la firma social para negocios propios, ó que comerciaren por su cuenta particular, pagarán los daños y perjuicios que ocasionaren, además de la responsabilidad penal en que puedan incurrir.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 119.
 
-El socio ó socios administradores están obligados á rendir cuentas siempre que lo pida la mayoría de los socios, aun cuando no sea en las épocas fijadas en el contrato de compañía.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 120.
 
-No es delegable el cargo de administrador de la sociedad sino cuando hay autorización expresa para ello; pero el administrador puede, bajo su responsabilidad, dar poderes para la gestión de algunos negocios relativos á la sociedad.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 121.
 
-Todas las cuestiones de la sociedad, sean ó no de administración, se resolverán por mayoría de votos, sin contrariar los derechos adquiridos por los socios en virtud de la escritura; salvo que en ésta se haya pactado la manera de decidirlas, ó que la ley prevenga otra cosa. La mayoría se computará por cantidades, y cuando una sola persona represente el mayor interés, se necesitará además el voto de otra.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 122.
 
-La escritura social sólo podrá modificarse con la aprobación de todos los socios.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 123.
 
-Todo socio, sea ó no administrador, tiene derecho de examinar el estado de la administración y contabilidad que se lleve, y de hacer las reclamaciones que estime convenientes al interés común.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 124.
 
-Las sentencias ejecutoriadas contra la sociedad establecen la autoridad de la cosa juzgada contra los socios.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 125.
 
-Al terminar la sociedad, se hará balance general para fijar las pérdidas ó ganancias que hubiere habido, computándose las cantidades percibidas por los socios como simples adelantos, con excepción de las que se hubiesen dado á los socios industriales por vía de alimentos.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 126.
 
-En el reparto de las ganancias ó pérdidas se observarán las reglas siguientes:
-
-I. Si se ha hecho pacto expreso sobre el modo de repartir las ganancias y las pérdidas, se observará estrictamente;
-
-II. Cuando solo se haya fijado la parte que cada socio debe tener en las ganancias, se entenderá que la misma, debe reportar en las pérdidas, y vice versa;
-
-III. Si no se hubiere pactado el modo de repartir las ganancias y pérdidas, la distribución se hará entre los socios capitalistas, proporcionalmente á sus capitales;
-
-IV. A falta de pacto para distribuir las ganancias, corresponde al socio industrial la misma porción de ellas que al menor de los socios capitalistas. Si fueren varios los socios industriales, se dividirá entre ellos, por igual, la mitad de las ganancias, y en ningún caso sufrirán las pérdidas, salvo pacto en contrario.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 127.
 
-El socio que no reclame la división social en el término de sesenta días contados desde que se le hiciese saber, ó desde que cesaré el impedimento legal que probaré haber tenido para reclamarla dentro de dicho término, se entenderá que la aprueba.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 128.
 
-Se tendrán por nulas en los contratos de sociedad todas las condiciones á cuya virtud uno ó más socios queden excluídos de la participación de las ganancias.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 129.
 
-Será nula toda estipulación á cuya virtud los herederos del socio que muera queden privados del derecho de exigir cuentas y pago de capital y utilidades á los socios que sobrevivan.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 130.
 
-Ni el capital social ni las utilidades pueden repartirse sino después de la disolución de la compañía y previa la liquidación respectiva, salvo pacto en contrario.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 131.
 
-El contrato de sociedad en nombre colectivo puede rescindirse respecto de un socio:
-
-I. Porque un socio use de la firma ó capital social para negocios propios;
-
-II. Por ejercitar actos de administración, el socio que no tenga facultad de hacerlo;
-
-III. Por comisión de fraude ó dolo contra la compañía;
-
-IV. Por no entregar en todo ó en parte el capital estipulado;
-
-V. Por hacer operaciones que le estén prohibidas por disposición legal ó estipulación en el contrato social;
-
-VI. Por no prestar los servicios personales que deba á la sociedad, sin comprobar justa causa que se lo impida, por tiempo limitado, y cuya duración no sea tal que perjudique los intereses de la sociedad.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 132.
 
-El socio excluído de la compañía, en cualquiera de los casos del artículo anterior, es responsable de la parte de pérdidas que le corresponda, y los otros socios pueden retener la parte de capital y utilidades de aquél hasta concluir las operaciones pendientes al tiempo de la rescisión, debiéndose hacer hasta entonces la liquidación de la sociedad.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 133.
 
-Las sociedades en nombre colectivo, además de las causas previstas en el contrato, se disuelven:
-
-I. Por mutuo consentimiento;
-
-II. Por haberse cumplido el término prefijado en el contrato de sociedad; por haberse acabado la Empresa que fué objeto de su formación, ó por haber caducado el privilegio ó patente de invención en los casos en que la sociedad se hubiese organizado para llevar á cabo su explotación;
-
-III. Por la pérdida de las dos terceras partes del capital de la sociedad, ó por la de una tercera parte si algún socio la perdiere;
-
-IV. Por la muerte ó incapacidad del socio industrial, siempre que su industria haya dado nacimiento á la sociedad, ó por la de cualquiera otro de los socios; pero en este caso la disolución sólo se llevará á cabo si la escritura no contiene pacto expreso de que continúe con los herederos del socio difunto ó que subsista entre los socios supervivientes;
-
-V. Por la demencia ó incapacidad que produzca la inhabilitación de un socio gerente para administrar sus bienes, si algún socio lo pidiere;
-
-VI. Por la revocación del nombramiento de socios administradores, en los casos en que proceda, si alguno de los socios pidiere la disolución;
-
-VII. Por quiebra, legalmente declarada, de la sociedad.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 134.
 
-Después de cumplido el término fijado en la escritura de sociedad, no se entenderá ésta prorrogada por la voluntad presunta de los socios.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 135.
 
-El socio que haga uso de los derechos que le conceden las fracciones III, V y VI del art. 133, no podrá impedir que se concluyan los negocios pendientes, y hasta que esto suceda, tendrá lugar la división de los bienes.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 136.
 
-La disolución de la sociedad que proceda de cualquiera otra causa que no sea la espiración del término, no surtirá sus efectos á perjuicio de tercero hasta que se publique con arreglo á este Código.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 137.
 
-En el caso de que á la muerte de un socio, la sociedad hubiere de continuar con los supervivientes, se procederá á la liquidación de la parte que corresponda al socio difunto para entregarla á su sucesión.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 138.
 
-Al disolverse las sociedades en nombre colectivo, se pondrán inmediatamente en liquidación, la cual se practicará en el término de seis meses salvo pacto en contrario. Cuando la sociedad se ponga en liquidación, debe agregar á su razón social las palabras "en liquidación."
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 139.
 
-Los liquidadores pueden nombrarse en la escritura social, ó en el momento de llevar á cabo la disolución de la sociedad.
-
-El cargo de liquidador es personal, salvo pacto en contrario.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 140.
 
-Cuando el liquidador ó liquidadores hayan sido nombrados en escritura, no podrán ser removidos sino por causa superveniente calificada de bastante por la unanimidad de los socios, ó por la autoridad judicial, si hubiere discordia entre ellos; y en el caso de que llegaré á faltar por muerte, incapacidad ó cualquier otro motivo, se procederá á reemplazarlos por medio del voto unánime de los socios.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 141.
 
-En el momento en que se nombren los liquidadores, si esto no se hizo en la escritura, ó tan luego como entren á ejercer sus funciones, cesan las atribuciones de los administradores, y serán nulas todas las obligaciones que estos contraigan.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 142.
 
-Además de las instrucciones expresas, dadas á los liquidadores en la escritura, serán sus obligaciones:
-
-I. Formar el inventario de todos los valores, bienes muebles ó inmuebles de la sociedad;
-
-II. Exigir del administrador y de todos los que hayan tomado parte en la gestión de los negocios de la sociedad, la cuenta que están en obligación de rendir; y en caso de que el mismo socio administrador resulte investido con el carácter de liquidador, formará, no obstante, la cuenta respectiva de su administración, la cual agregará á los demás documentos sociales;
-
-III. Presentar mensualmente los estados que manifiesten la situación que guarde la liquidación, autorizados debidamente con su firma: estados que podrán verificar los socios, comparándolos con los libros y papeles de la sociedad;
-
-IV. Llevar los libros prescritos por las leyes;
-
-V. Cobrar lo que se deba á la sociedad y pagar lo que ella deba;
-
-VI. Liquidar á cada socio su cuenta particular;
-
-VII. Repartir entre los socios, si así les conviniere, conforme al artículo 145, las existencias que tenga la sociedad en valores, créditos, derechos, acciones, bienes muebles ó inmuebles, ó proceder á su enajenación, distribuyendo su importe entre los socios;
-
-VIII. No transigir ni contraer compromisos sobre los intereses sociales, traspasando los límites de la escritura, á no ser que se les hubiere dado expresamente esta facultad.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 143.
 
-Los liquidadores son responsables á los socios de cualquier perjuicio que resulte al haber común por fraude ó negligencia de su parte en el desempeño de su encargo.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 144.
 
-Ningún socio podrá exigir del liquidador la entrega total del haber que le corresponda; pero sí la parcial que sea compatible con los intereses de los acreedores de la sociedad, mientras no estén extinguidos sus créditos pasivos, ó se haya depositado su importe si se presentaré inconveniente para hacer el pago. La oportunidad, no obstante, de hacer los repartos parciales, queda sujeta á la calificación de los liquidadores ó de la junta de los socios, que cualquiera tendrá el derecho de convocar con ese objeto.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 145.
 
-Pagados todos los créditos pasivos de la sociedad, procederán el liquidador ó liquidadores á la división de lo que quede libre entre los socios, conforme á lo estipulado en el contrato de sociedad. Si no hubiere estipulaciones expresas, se observarán las reglas siguientes:
-
-I. Si los bienes en que consiste el haber social son de fácil división, se repartirán con igualdad ó en la proporción respectiva, según que sea la misma ó diversa en cantidad la acción que corresponda á los socios en la masa común;
-
-II. Si los bienes fuesen de diversa naturaleza, se fraccionarán en partes iguales ó en las proporcionales respectivas, procurando que cada lote contenga valores equivalentes; y si esto no se pudiere alcanzar, las diferencias que hubiere se compensarán por medio de obligaciones de pago, que se impondrán al que toque un lote de mayor cantidad respecto de otro que la obtenga menor;
-
-III. Una vez formados los lotes, y estando conformes los interesados, ó en caso de no estarlo, fenecido el plazo que para pedir modificación concede el artículo siguiente, se sortearán por el liquidador á presencia de los socios, levantándose en seguida el acta respectiva, suscrita por todos;
-
-IV. Si la liquidación social se hiciere á virtud de la muerte de uno de los socios, la división ó venta de los inmuebles se hará conforme á las disposiciones de este Código, aunque entre los herederos haya menores de edad.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 146.
 
-Ya sea en los casos de reparto parcial, ya en los de liquidación, ó ya en los de división de los bienes en lotes, los socios gozarán de un plazo de ocho días, contados en los términos del art. 127, para exigir modificaciones si creyeren perjudicados sus derechos.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 147.
 
-Los socios tendrán derecho, durante el período de la liquidación, de cerciorarse del estado que guarde, imponiéndose de los documentos en que se vaya haciendo constar la liquidación, en el mismo lugar en que se practique.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 148.
 
-En las liquidaciones de las sociedades en que hubiere menores interesados, serán representados por sus tutores y curadores.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 149.
 
-Los libros y papeles de la sociedad se conservarán bajo la responsabilidad de los liquidadores hasta que se hayan terminado todas las operaciones de la liquidación, y por diez años más, por los socios que hayan sido administradores.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 150.
 
-La acción que tienen los socios para reclamar de la compañía el pago de lo que se les debiere, la dirigirán contra los liquidadores, y éstos á su vez reclamarán á los socios el pago del exceso de las sumas que hubiese percibido, dadas las que hubiere señalado la escritura social.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 151.
 
-Cuando los acreedores de la compañía dirijan su acción contra el liquidador ó liquidadores, éstos sólo estarán obligados á cubrir sus créditos con los fondos de la sociedad, y si por no alcanzar éstos resultare algún saldo á su favor, la deducirán por este mismo saldo contra el socio ó socios que tenga á bien.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 152.
 
-Los acreedores particulares de un socio no tendrán, respecto á la sociedad, otro derecho que el de embargar lo que conste corresponder al socio deudor por utilidades ó capital, y para percibirlos en la misma forma y plazos en que éste debiera recibirlos de la sociedad.
-
-Si el acreedor particular del socio lo fuere por crédito anterior á la constitución de la sociedad, tendrá derecho á embargar y á exigir de ésta la liquidación y pago inmediatos de lo que por capital é intereses corresponda al socio deudor.
-
-Los acreedores personales de un socio podrán, no obstante, en caso de muerte de su deudor, pedir la liquidación de la sociedad, siempre que en el contrato de compañía no se haya estipulado que los herederos continúen en ella.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 153.
 
-La responsabilidad solidaria de los socios prescribe á los cinco años de haberse publicado la liquidación de la sociedad.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)</small>
 
 ###### Art. 154.
 
-La sociedad en comandita simple es aquella que celebran uno ó varios socios comanditados, ilimitada y solidariamente responsables de las obligaciones sociales, con uno ó varios socios comanditarios que no son responsables de las deudas y pérdidas de la sociedad, sino hasta la concurrencia del capital que se comprometan á introducir á ella.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 155.
 
-La razón social comprenderá necesariamente el nombre ó razón de comercio de uno ó varios socios comanditados.
-
-El nombre de los socios comanditarios no puede formar parte de la razón social.
-
-Cuando los nombres de todos los socios comanditados no sean comprendidos en la razón social, ésta terminará con las palabras "y compañía", ú otras equivalentes para expresar ésta.
-
-Después de la razón social se agregarán siempre las palabras "sociedad en comandita."
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 156.
 
-El socio ó socios comanditarios no pueden ejercer acto alguno de administración, ni aun con el carácter de apoderados de los administradores; pero los avisos, autorizaciones y vigilancia ejercidos ó dados por los comanditarios, en los términos del contrato de sociedad, no se reputarán actos de administración.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 157.
 
-El socio comanditario quedará obligado solidariamente para con los terceros por todas las operaciones de la sociedad en que haya tomado parte en contravención con lo dispuesto en el artículo anterior. También será responsable solidariamente para con los terceros, aun en las operaciones en que no haya tomado parte si habitualmente ha administrado los negocios de la sociedad, ó ha permitido que se incluya su nombre en la razón social.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 158.
 
-Si para los casos de muerte ó incapacidad del socio administrador no se hubiere determinado en la escritura social la manera de sustituirlo, y la sociedad hubiere de continuar, podrá interinamente un socio comanditario á falta de socios comanditados, desempeñar los actos urgentes ó de mera administración durante el término de un mes, contado desde el día en que la muerte ó incapacidad hubiere tenido lugar.
-
-En estos casos el socio comanditario no es responsable más que de la ejecución de su mandato.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 159.
 
-Los socios comanditarios no pueden imponerse del estado general de los negocios, sino en las épocas fijadas por el contrato social. Sin embargo, puede la autoridad, á pedimento de un socio comanditario, ordenar en todo tiempo la exhibición de los libros y papeles de la sociedad.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 160.
 
-Ninguna repartición podrá hacerse á los comanditarios, bajo cualquiera denominación que sea, sino sobre las utilidades líquidas comprobadas en la forma determinada por la escritura social.
-
-Los administradores son personal y solidariamente responsables de toda distribución hecha sin inventario previo de las ganancias, en mayor suma que la de éstas, ó bajo inventario hecho con dolo ó culpa grave.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 161.
 
-Ni los socios comanditarios ni los socios responsables podrán ser obligados á devolver las cantidades que conforme á las estipulaciones del contrato social hayan percibido de las utilidades obtenidas en los períodos fijados en el mismo contrato. Los socios responsables serán los únicos obligados por los créditos pasivos de la compañía, tanto durante el giro de ésta como al tiempo de la disolución.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 162.
 
-Todas las disposiciones sobre las compañías en nombre colectivo son aplicables á la sociedad en comandita simple, excepto en las que aquí se establece concerniente á los socios comanditarios.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)</small>
 
 ### CAPÍTULO VI.
 
@@ -1094,383 +994,257 @@ De las sociedades en comandita por acciones.
 
 ###### Art. 163.
 
-La sociedad anónima carece de razón social, y se designa por la denominación particular del objeto de su empresa. En dicha sociedad los socios no son responsables sino por el importe de su acción.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 164.
 
-Si algún socio hiciere constar su nombre en la denominación de la sociedad, se hará personal y solidariamente responsable de las obligaciones sociales.
-
-La denominación debe ser diferente de la de cualquiera otra sociedad.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 165.
 
-Después de la denominación de la sociedad se agregarán las palabras "Sociedad anónima," cada vez que sea necesario hacer uso de aquella denominación.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 166.
 
-La sociedad anónima puede constituirse de dos maneras: por suscripción pública ó por medio de la comparecencia de dos ó más personas que suscriban la escritura social, que contenga todos los requisitos necesarios para su validez.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 167.
 
-Cuando la sociedad haya de constituirse por suscrición (sic) pública, será necesario:
-
-I. La publicación del programa;
-
-II. La suscrición (sic) del capital;
-
-III. La celebración de la Asamblea general que apruebe y ratifique la constitución de la sociedad;
-
-IV. La protocolización del acta de la Asamblea general constitutiva y de los Estatutos.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 168.
 
-El programa, redactado y suscrito por los fundadores, debe contener íntegros el proyecto de los Estatutos de la nueva sociedad, con todas las explicaciones que se juzgaren necesarias; la exhibición que se exija del capital social, y además la comprobación del valor que se atribuya á los títulos, efectos, bienes muebles é inmuebles con que uno ó más socios contribuyeren á la sociedad. Los Estatutos deberán contener todos los requisitos que exige el artículo 95, y además la manera de convocar y llevar á cabo la primera Asamblea general.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 169.
 
-La suscrición (sic)de las acciones debe recogerse en uno ó varios ejemplares del programa de los fundadores, y debe indicar el nombre y apellido, ó la razón social y el domicilio de quien suscribe las acciones, el número con todas sus letras de las acciones suscritas, la fecha de la suscrición(sic), y expresar claramente la declaración de que el suscritor (sic) conoce y acepta el proyecto de Estatutos, todo certificado por dos testigos.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 170.
 
-Para proceder á la constitución de la sociedad:
-
-Deberá ser íntegramente suscrito el capital social y exhibido en dinero efectivo en diez porciento del capital que consista en numerario.
-
-Si todo ó parte del capital social consiste en aportaciones en títulos, efectos, bienes muebles ó inmuebles, éstas serán íntegramente representadas por acciones liberadas.
-
-Si en las acciones cuyo valor deba cubrirse en numerario no se exhibiere el diez porciento de éste, dentro de los plazos fijados por los fundadores, se tendrán por no suscritas.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 171.
 
-El pago del importe de la exhibición solicitada por los fundadores de la sociedad, que se haga por los suscritores de las acciones, se entregará por éstos en la institución de crédito, ó á falta de ésta, en la casa de comercio designada para este efecto en el programa de los fundadores.
-
-Estas sumas depositadas se entregarán á los administradores nombrados en la primera Asamblea general, después de hecha la protocolización y registro de los documentos que se refieran á la sociedad, ó se devolverán á los suscritores en los casos en que no llegare á establecerse.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 172.
 
-Suscrito el capital social, y hecho el depósito de que habla el artículo anterior, se convocará la reunión de la Asamblea general.
-
-Esta se ocupará:
-
-I. De reconocer y aprobar la exhibición decretada por los fundadores, así como el valor atribuído á los títulos, efectos, bienes muebles é inmuebles con que uno ó más socios hubiesen contribuído á la sociedad, no teniendo derecho de votar los que los hubieren aportado;
-
-II. De discutir y aprobar los Estatutos;
-
-III. De deliberar acerca de la participación que los fundadores hubiesen reservado en las utilidades;
-
-IV. De hacer el nombramiento de los administradores y comisarios que hayan de funcionar durante el plazo señalado por los Estatutos.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 173.
 
-Del acta de la Asamblea general formará parte una lista que firmarán todos los accionistas que concurran, y en la cual se expresará el número de acciones y de votos que éstos representen.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 174.
 
-Celebrada la Asamblea general y levantada el acta, se procederá á su protocolización y registro, haciéndose otro tanto con los Estatutos.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 175.
 
-Cuando la sociedad anónima no haya de constituirse por suscrición pública, bastará que los socios que la organicen suscriban una escritura pública observando las prescripciones de los arts. 95 y 170. A la escritura se agregará la comprobación que se haya hecho del valor atribuído á los títulos, efectos, bienes muebles ó inmuebles con que alguno ó más socios hubieren contribuído á la sociedad. Los Estatutos se aprobarán por la primera Asamblea general, que será convocada en los términos que establezca dicha escritura.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 176.
 
-Toda operación hecha por lo fundadores de una sociedad anónima, con excepción de las necesarias para constituirla, será nula con respecto á la misma, sino fuere aprobada por la Asamblea general.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 177.
 
-La venta ó cesión de acciones hecha por los suscritores ó fundadores de la sociedad, antes de la constitución legal de ésta, será nula.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 178.
 
-El capital de las sociedades anónimas se divide en acciones de igual valor, y éstas confieren á sus poseedores iguales derechos, á no ser que se haya estipulado lo contrario al constituirse la sociedad.
-
-Las acciones pueden ser nominativas ó al portador.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 179.
 
-Las acciones, ya sean nominativas ó al portador, deberán expresar:
-
-I. La denominación de la sociedad y el lugar de su domicilio;
-
-II. La fecha de su constitución;
-
-III. El importe del capital social, las exhibiciones que sobre dicho capital hubiere hecho el accionista, y el número total de acciones en que esté dividido;
-
-IV. La duración de la sociedad;
-
-V. Los derechos concedidos á las acciones por la escritura ó por los Estatutos.
-
-Las acciones deben ser firmadas por el número de administradores que determinen los Estatutos.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 180.
 
-Las sociedades anónimas deben tener un registro para las acciones nominativas, el cual contendrá:
-
-I. La designación precisa de cada accionista y la indicación del número de sus acciones;
-
-II. La indicación de las exhibiciones efectuadas;
-
-III. Las cesiones que se verifiquen con sus fechas respectivas, ó la conversión de las acciones nominativas en acciones al portador, cuando esto fuere permitido por los Estatutos;
-
-IV. La mención de las acciones depositadas como garantía de la gestión de los administradores, directores y comisarios.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 181.
 
-La propiedad de las acciones nominativas se prueba por la inscripción en el registro de que habla el artículo anterior.
-
-La cesión tiene lugar por medio de la declaración hecha en el registro, fechada y firmada por el cedente y el cesionario ó sus respectivos apoderados.
-
-La sociedad podrá dar certificados de esta inscripciones á quienes lo soliciten.
-
-La cesión de las acciones al portador se verifica por la sola tradición del título.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 182.
 
-Cada acción en las sociedades anónimas es indivisible, y en consecuencia, cuando haya varios copropietarios de una misma acción, nombrarán un representante común, y sino se pusieren de acuerdo en el nombramiento, lo hará la autoridad judicial.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 183.
 
-Cuando los accionistas dejaren de pagar una ó más exhibiciones decretadas por la sociedad, esta procederá á la venta de las acciones por cuenta y riesgo del accionista, salvo lo que prevengan los Estatutos, teniendo en todo caso la sociedad acción sobre los dividendos que les correspondieren, para hacer efectivo el pago de dichas exhibiciones.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 184.
 
-Queda prohibido á las sociedades anónimas comparar sus propias acciones, salvo en los siguientes casos:
-
-I. Cuando se compren acciones liberadas con la autorización de la Asamblea general y con fondos que provengan de beneficios que no sean los destinados al fondo de reserva;
-
-II. Cuando la compra se haga á virtud de una autorización prevista de antemano por los Estatutos;
-
-III. Cuando se haga con el capital de la sociedad, guardando todas las formalidades exigidas para la reducción del capital social.
-
-Los títulos comprados en el primer caso indicado, no podrán ser representados en las Asambleas generales, y no se computarán en la formación de las mayorías de que hablen los Estatutos.
-
-Los títulos de acciones comprados en los dos últimos casos serán anulados.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 185.
 
-Las compra hechas en contravención al artículo anterior, no serán nulas, á no ser que el vendedor haya procedido de mala fe; pero los administradores y el director que las hayan autorizado, serán personalmente responsables de los daños y perjuicios originados á la sociedad, sin que esto impida el ejercicio de la acción penal que contra ellos proceda.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 186.
 
-En ningún caso podrán las sociedades anónimas hacer préstamos ó anticipos sobre sus propias acciones.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 187.
 
-La administración de las sociedades anónimas es temporal y revocable. El socio ó socios que la desempeñen serán considerados como mandatarios.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 188.
 
-La administración de las sociedades anónimas será confiada á un Consejo de Administración y á uno ó más directores.
-
-Las sociedades anónimas podrán nombrar Consejos consultivos fuera de su domicilio, los que tendrán las facultades de ejecución y administración que los Estatutos les confieran.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 189.
 
-A falta de disposición contraria de los Estatutos, el Consejo de Administración tiene las más amplias facultades para llevar á cabo todas las operaciones que hagan necesarias la naturaleza y el objeto de la sociedad.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 190.
 
-Los miembros del Consejo de Administración serán nombrados por la Asamblea general de accionistas; sin embargo, en la primera vez pueden ser nombrados en la escritura pública de sociedad; pero siempre podrán ser reelegibles salvo pacto en contrario.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 191.
 
-Las vacantes del Consejo de Administración serán reemplazadas de la manera que lo establezcan los Estatutos de la sociedad.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 192.
 
-El cargo de miembro del Consejo de Administración de una sociedad anónima es personal, y nunca podrá desempeñarse por apoderado.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 193.
 
-Cada uno de los miembros del Consejo de Administración debe depositar en poder de la sociedad, por toda la época de su encargo, cierto número de acciones, como garantía de su gestión. Los Estatutos de la sociedad designarán en cada caso el número de estas acciones.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 194.
 
-Los administradores de la sociedad no contraen ninguna obligación personal en las operaciones en que intervengan á nombre de la misma.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 195.
 
-Los administradores son responsables para con la sociedad, conforme al derecho común, en la ejecución del mandato que han recibido y de las faltas cometidas en su gestión.
-
-La responsabilidad sólo podrá ser exigida por la Junta general de accionistas ó por la persona autorizada por ésta.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 196.
 
-El miembro del Consejo que tenga un interés opuesto al de la sociedad, en cualquiera operación que se someta á su aprobación, está obligado á ponerlo en su conocimiento, haciendo constar esta declaración en el acta relativa.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 197.
 
-La gestión de los negocios de la sociedad, así como su representación en lo que á ella concierna, serán encomendadas, como lo indica el art. 188, á uno ó más directores generales, cuyo nombramiento revocación y atribuciones se determinan en los Estatutos.
-
-La responsabilidad de estos agentes se rige por las reglas del derecho común.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 198.
 
-La vigilancia de las sociedades anónimas debe ser confiada á uno ó varios socios que se llamarán comisarios, los que para desempeñar su encargo depositarán el número de acciones que determinen los Estatutos.
-
-Los comisarios serán nombrados por la Asamblea general; sin embargo, la primera vez pueden ser nombrados en la escritura pública de sociedad.
-
-No obstante cualquiera estipulación en contrario, los comisarios serán siempre reelegibles y su cargo revocable.
-
-Las vacantes de los comisarios serán remplazadas de la manera que lo establezcan los Estatutos; pero siempre en virtud de nombramiento de la Asamblea general.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 199.
 
-Los comisarios tienen derecho ilimitado de vigilancia sobre todas las operaciones de la sociedad. Cada vez que lo deseen, pueden inspeccionar los libros correspondencia, actas y en general todas las escrituras y papeles de la sociedad. En consecuencia, los accionistas no podrán ejercer por sí estas facultades.
-
-Los administradores les entregarán cada año el balance general para que procedan á hacer su comprobación y los comisarios someterán á la Asamblea el resultado de sus trabajos con las proposiciones que crean convenientes, acompañadas de las explicaciones y demostraciones necesarias.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 200.
 
-La extensión y efectos de la responsabilidad de los comisarios, se rigen por las reglas que establecen la de los miembros del Consejo de Administración.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 201.
 
-La Asamblea general de accionistas tiene los más amplios poderes para llevar á cabo y ratificar los actos de la sociedad. Ella tiene, salvo pacto en contrario, el derecho de reformar los Estatutos de la misma.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 202.
 
-Las Asambleas son ordinarias y extraordinarias. La ordinaria se reunirá á lo menos una vez al año, después de la clausura del ejercicio social. La Asamblea general ordinaria se ocupará:
-
-I. De discutir, aprobar ó modificar el balance general, después de oído el informe de los comisarios;
-
-II. De nombrar los miembros del Consejo de Administración que deben funcionar;
-
-III. De nombrar á los comisarios;
-
-IV. De determinar los emolumentos que correspondan á los miembros del Consejo de Administración y á los comisarios si no se hubiere señalado en los Estatutos;
-
-V. De los demás asuntos señalados en el orden del día.
-
-La extraordinaria se reunirá cada vez que sea convocada conforme á los Estatutos.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 203.
 
-La convocación de las Asambleas generales debe hacerse por medio de la publicación de un aviso en el periódico oficial del Estado, Distrito ó Territorio en que la sociedad tenga su domicilio. El aviso deberá contener la orden del día o nota de todas las cuestiones que hayan de someterse á la deliberación de la Asamblea.
-
-Toda resolución tomada con infracción de este artículo será nula.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 204.
 
-La convocación de las Asambleas debe ser hecha por el Consejo de Administración ó por los comisarios, y para que se tengan por legalmente reunidas, deberá estar representada en ellas más de la mitad del capital social.
-
-El número de votos de que hayan de disfrutar los accionistas en la Asamblea, así como la manera de computarlos, será determinado por los Estatutos.
-
-Si la Asamblea no pudiere verificarse el día señalado para su reunión, se repetirá la convocatoria; y en la segunda junta se resolverá sobre los asuntos indicados en la orden del día, cualquier que sea la porción del capital representada por los socios presentes.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 205.
 
-Las resoluciones de las Asambleas generales se tomarán, cuando menos, á mayoría absoluta de votos de las acciones computables.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 206.
 
-Cuando la escritura social ó los Estatutos no dispongan otra cosa será necesaria la representación de las tres cuartas partes del capital social, y el voto unánime del número de accionistas que representen la mitad de dicho capital, para poder tomar las resoluciones siguientes:
-
-I. Disolución anticipada de la sociedad, salvo en caso de que se lleve á efecto por pérdida de la mitad del capital social;
-
-II. La prórroga de su duración;
-
-III. La fusión con otras sociedades;
-
-IV. La reducción del capital social;
-
-V. El aumento del capital social;
-
-VI. El cambio del objeto de la sociedad;
-
-VII. Cualquiera otra modificación de la escritura social ó de los Estatutos.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 207.
 
-Acordado el aumento de capital social en los términos que dispone el artículo anterior, se llevará á cabo con entera sujeción á las formalidades y condiciones prescritas para la constitución de las sociedades anónimas.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 208.
 
-Las modificaciones á que se refieren las fracciones II, III, IV y VI del art. 206, se reducirán á escritura pública y serán inscritas en el Registro de Comercio.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 209.
 
-El Consejo de Administración debe convocar una Asamblea extraordinaria á lo menos con un mes de anticipación, cuando la solicitud para su convocación haya sido hecha por un número de accionistas que represente la tercera parte del capital social, y se hayan presentado por escrito las cuestiones que deban tratarse en la Asamblea.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 210.
 
-Los accionistas pueden hacerse representar en las Asambleas generales por mandatarios, ya sea que pertenezcan ó no á la sociedad, constituyéndose en mandato en la forma en que establezcan los Estatutos.
-
-Los miembros del Consejo de Administración no podrán ser mandatarios.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 211.
 
-Todas las actas de las Asambleas, ya ordinarias ó extraordinarias, se levantarán por duplicado, y á uno de los ejemplares de la acta se agregará la lista de que habla el art. 173.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 212.
 
-Los miembros del Consejo de Administración no podrán votar:
-
-I. Para la aprobación de las cuentas;
-
-II. Para las resoluciones que afecten su responsabilidad personal.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 213.
 
-Las sociedades anónimas no podrán repartir á sus accionistas más utilidades que las que del balance aparezcan obtenidas en su beneficio; sin embargo, en los Estatutos ó escrituras de sociedad se podrá estipular que las acciones, durante un período que no exceda de cinco años, podrán gozar de intereses no mayores del seis porciento anual. En este caso el monto de los intereses debe calcularse entre los gastos de instalación. Los accionistas no estarán jamás obligados á restituir los dividendos que hayan recibido.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 214.
 
-De las utilidades netas de la sociedad deberá separarse anualmente una parte, que no bajará del cinco por ciento, para formar el fondo de reserva, hasta que haya alcanzado, á lo menos, á la quinta parte del importe del capital social.
-
-El fondo de reserva debe ser reconstituído de la misma manera, cuando haya disminuído por cualquier motivo.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 215.
 
-Las sociedades anónimas deberán publicar anualmente en el periódico oficial del Estado, Distrito ó Territorio en que tengan su domicilio, un balance en que se hará constar el capital social, especificando la parte exhibida y la parte por exhibir, la existencia en caja y las diversas cuentas que formen el activo y el pasivo de la compañía.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 216.
 
-Las sociedades anónimas se disolverán:
-
-I. Por el consentimiento de los accionistas, en los términos del artículo 206;
-
-II Por la espiración del plazo para el cual fueron establecidas;
-
-III. Por la pérdida de la mitad del capital social siempre que la disolución sea aprobada en Asamblea general, cuando menos por el voto e la mayoría de los accionistas que representen la mitad de dicho capital;
-
-IV. Por quiebra de la sociedad, legalmente declarada.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 217.
 
-Al acordar la Asamblea la disolución de la sociedad, hará el nombramiento de los liquidadores, y no haciéndolo, serán nombrados por la autoridad judicial cuando sea requerida para ello.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 218.
 
-El nombramiento de los liquidadores pone término al mandato de los administradores de la sociedad; éstos, sin embargo, deberán prestar su concurso á los liquidadores, cuando sean requeridos para ello.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 219.
 
-La cuenta de los administradores, durante la época que medie entre el último balance aprobado por la Asambleas y la apertura de la liquidación, deberá ser presentada á los liquidadores para su aprobación.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 220.
 
-Cuando uno ó varios administradores sean nombrados liquidadores, la cuenta de que habla el artículo anterior deberá ser publicada en dos ó más periódicos del domicilio de la sociedad, con el balance final de la liquidación; pero si ésta alcanza una duración mayor de la de un ejercicio social, la cuenta referida deberá unirse al primer balance que los liquidadores presenten á la Asamblea general de accionistas.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 221.
 
-Si la liquidación durá más de un año, los liquidadores formarán el balance anual conforme á las disposiciones de la ley y de los Estatutos.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 222.
 
-Terminada la liquidación, los liquidadores formarán el final indicando la parte que á cada acción corresponda en la repartición del activo social, y aquél se publicará treinta días seguidos en uno ó más periódicos del domicilio de la sociedad. Los accionistas, en los quince días siguientes al último de la publicación, podrán presentar sus reclamaciones á los liquidadores, las cuales se resolverán en una Asamblea que se convocará al efecto, por mayoría de votos, gozando de un voto cada acción.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 223.
 
-Después de la espiración del plazo de que habla el artículo anterior, ya sea que no haya habido reclamación, ó que ésta hubiere sido resuelta por la Asamblea, el balance final se considerará aprobado, quedando viva la responsabilidad de los liquidadores, en todo lo que se refiera á la repartición del activo social.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 224.
 
-Las sumas que pertenezcan á los accionistas y que no fueren cobradas en el trascurso de dos meses contados desde el día en que el balance se considere aprobado, se depositarán en cualquier institución de crédito con la indicación del nombre del accionista, si la acción fuere nominativa, ó del número de la acción si ésta fuere al portador. Dichas sumas se pagarán por la institución de crédito en que se hubiere constituído el depósito, á la persona indicada ó al portador de la acción.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 225.
 
-Los libros de la sociedad disuelta deberán ser conservados en el Registro público de Comercio donde los depositarán los liquidadores.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)</small>
 
 ### CAPÍTULO VII.
 
@@ -1478,53 +1252,53 @@ De las sociedades cooperativas.
 
 ###### Art. 226.
 
-La sociedad en comandita por acciones, es la que celebran uno ó varios socios comanditados, ilimitada y solidariamente responsables de las obligaciones sociales, con accionistas comanditarios cuya responsabilidad está limitada al importe de sus acciones.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 227.
 
-Las disposiciones relativas á las sociedades anónimas son aplicables á las en comandita por acciones, salvo las modificaciones consignadas en el presente capítulo.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 228.
 
-La sociedad en comandita por acciones existe bajo una razón social que no podrá contener más que los nombres de los socios comanditados. Cuando los nombres de todos los socios comanditados no sean comprendidos en la razón social, se terminará por las palabras "y compañía," ú otras equivalentes para expresar ésta.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 229.
 
-Si la sociedad toma una denominación particular, se deberán agregar después de ella las palabras "Sociedad en comandita por acciones."
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 230.
 
-En las escrituras de sociedad en comandita por acciones, se debe hacer constar el nombre del socio ó socios comanditados que hayan de administrar los negocios de la sociedad.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 231.
 
-Cada sociedad en comandita por acciones debe tener un consejo de vigilancia, compuesto cuando menos de tres accionistas comanditarios. Este consejo será nombrado por la Asamblea general constitutiva.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 232.
 
-Los miembros del consejo de vigilancia tienen la obligación de comprobar los libros, la caja, la cartera y valores de la sociedad. El consejo debe presentar cada año á la Asamblea general un informe en el cual señalará las irregularidades é inexactitudes que haya reconocido en los inventarios y balances, y exponer, si hubiere lugar, los motivos que se opongan á la distribución de los dividendos propuestos por el socio ó socios administradores.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 233.
 
-La responsabilidad de los miembros del consejo de vigilancia se limita á la que puede exigirse por la ejecución de su mandato, conforme á las reglas del derecho común.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 234.
 
-Por lo menos un mes antes de la celebración de las asambleas, estarán á disposición de los accionistas, en las oficinas de la sociedad, el balance, inventario é informe del consejo de vigilancia.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 235.
 
-Las acciones de los socios comanditados jamás podrán ser al portador .
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 236.
 
-Salva disposición contraria de los Estatutos, la sociedad se disuelve por la muerte, incapacidad ó impedimento del socio ó socios administradores comanditados que prive á la sociedad de sus servicios. El consejo de vigilancia, salvo pacto en contrario, puede designar en estos casos un administrador que desempeñe los actos urgentes o de mera administración hasta la reunión de la Asamblea, la cual será convocada á lo sumo al mes de nombramiento de administrador.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 237.
 
-Las disposiciones de los artículos del 187 al 200 y fracción III del artículo 216, no son aplicables á las sociedades en comandita por acciones.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR LA LEY DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)</small>
+(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933) (REPUBLICADA SU DEROGACION POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ### CAPÍTULO VIII.
 
@@ -1532,91 +1306,93 @@ De la fusión de las sociedades.
 
 ###### Art. 238.
 
-(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933) (REPUBLICADA SU DEROGACION POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 239.
 
-(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933) (REPUBLICADA SU DEROGACION POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 240.
 
-(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933) (REPUBLICADA SU DEROGACION POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 241.
 
-(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933) (REPUBLICADA SU DEROGACION POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 242.
 
-(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933) (REPUBLICADA SU DEROGACION POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 243.
 
-(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933) (REPUBLICADA SU DEROGACION POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 244.
 
-(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933) (REPUBLICADA SU DEROGACION POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 245.
 
-(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933) (REPUBLICADA SU DEROGACION POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 246.
 
-(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933) (REPUBLICADA SU DEROGACION POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 247.
 
-(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933) (REPUBLICADA SU DEROGACION POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 248.
 
-(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933) (REPUBLICADA SU DEROGACION POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 249.
 
-(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933) (REPUBLICADA SU DEROGACION POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 250.
 
-(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933) (REPUBLICADA SU DEROGACION POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 251.
 
-(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933) (REPUBLICADA SU DEROGACION POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 252.
 
-(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933) (REPUBLICADA SU DEROGACION POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 253.
 
-(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933) (REPUBLICADA SU DEROGACION POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 254.
 
-(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933) (REPUBLICADA SU DEROGACION POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 255.
 
-(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933) (REPUBLICADA SU DEROGACION POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 256.
 
-(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933) (REPUBLICADA SU DEROGACION POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 257.
 
-(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933) (REPUBLICADA SU DEROGACION POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 258.
 
-(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933) (REPUBLICADA SU DEROGACION POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 259.
 
-(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933) (REPUBLICADA SU DEROGACION POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)</small>
 
 ### CAPÍTULO IX.
 
@@ -1624,27 +1400,25 @@ De las sociedades extranjeras.
 
 ###### Art. 260.
 
-La fusión de varias sociedades debe ser decidida por cada una de ellas. La decisión debe ser tomada en los términos que expresa la fracción III del art. 207; pero para los socios que disientan, la sociedad se tendrá por disuelta.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 261.
 
-La publicación á que se refiere el art. 17 deberá hacerse por cada una de las sociedades que hayan acordado fusionarse. Cada sociedad deberá publicar su último balance y aquella ó aquellas que dejen de existir, deberán publicar, además, el sistema establecido para la extinción de su pasivo.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 262.
 
-La fusión de dos ó más sociedades no podrá tener efecto sino tres meses después de haberse publicado las bases de la fusión, á menos que se pacte el pago de todas las deudas sociales, ó se constituya el depósito de su importe en una institución de crédito, ó se haya obtenido el consentimiento de todos los acreedores. Las deudas á plazo se darán por vencidas.
-
-El certificado en que se haga constar el depósito, deberá publicarse conforme al artículo anterior.
-
-Durante el plazo señalado, todo acreedor de las sociedades que se fusionan, tiene derecho para oponerse á la fusión, la cual se suspenderá si no se obtiene el pago, el depósito ó el consentimiento de que habla este artículo.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 263.
 
-Cuando se haya vencido el plazo de tres meses sin que se haya presentado ningún opositor, la fusión podrá llevarse á cabo, y la sociedad que quede existente, ó la que resulte de la fusión, tomará á su cargo los derechos y las obligaciones de las sociedades extinguidas.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 264.
 
-Cuando de la fusión de dos ó más sociedades haya de resultar una distinta, su constitución se sujetará á los principios que rijan la constitución de las sociedades á cuyo género haya de pertenecer.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)</small>
 
 ### CAPÍTULO X.
 
@@ -1652,19 +1426,17 @@ De las asociaciones.
 
 ###### Art. 265.
 
-Las sociedades legalmente constituidas en país extranjero que se establezcan en la República ó tengan en ella alguna agencia ó sucursal, deberán sujetarse, para gozar del derecho que les concede el artículo 15, á las siguientes prescripciones:
-
-I. A la inscripción y registro de que trata el artículo 24;
-
-II. Cuando sean por acciones, á publicar anualmente un balance que contenga con toda claridad su activo y pasivo, así como el nombre de las personas encargadas de su administración y dirección.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 266.
 
-La falta de cumplimiento de las prescripciones del artículo anterior, constituye personal y sólidamente responsable de todas las obligaciones contraídas en la República por la sociedad, á los que contraten á nombre de ella. Las prescripciones de este artículo no son renunciables.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 267.
 
-Las sociedades extranjeras que existen actualmente en la República, quedan sometidas á las disposiciones de este capítulo para la validez de sus actos futuros.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)</small>
 
 ### CAPÍTULO XI.
 
@@ -1672,21 +1444,21 @@ Disposiciones penales.
 
 ###### Art. 268.
 
-Las asociaciones comerciales son de dos especies: las asociaciones momentáneas y las asociaciones en participación.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES ERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 269.
 
-La asociación momentánea es la que tiene por objeto tratar sin razón social una ó varias operaciones determinadas de comercio.
-
-Los socios están obligados solidariamente para con los terceros con quienes contratan.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 270.
 
-La asociación en participación es aquella en la cual se interesan dos ó más personas en operaciones que tratan en su propio nombre una ó varias, siempre que éstas constituyan una sola entidad jurídica. No hay entre los terceros y los asociados que no contratan, ninguna acción directa.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 271.
 
-Las asociaciones momentáneas y en participación tienen lugar entre los asociados para los objetos, en las formas, con las proposiciones de interés y condiciones que ellos estimen convenientes.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)</small>
 
 ### CAPÍTULO I.
 
@@ -1694,7 +1466,7 @@ De los comisionistas.
 
 ###### Art. 272.
 
-Los que por medio de un delito violen ó eludan los acuerdos de las asambleas, las convenciones sociales ó las disposiciones de este Código relativas á sociedades, además de la pena que por su delito merezcan, quedan civilmente obligados á la indemnización de daños y perjuicios, y serán nulos todos los actos á virtud del delito consumados.
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ## TITULO TERCERO.
 
@@ -3302,7 +3074,7 @@ La omisión de alguna de las circunstancias requeridas en el artículo 581 no in
 
 ###### Art. 586.
 
-Las cartas de porte ó billetes en los casos de transporte de viajeros por ferrocarriles u otras empresas sujetas á tarifas, podrán ser diferentes, unos para las personas y otros para los equipajes; pero todos contendrán la indicación del porteador, la fecha de la expedición, los puntos de salida y llegada, el precio, y en lo tocante á equipajes, el número y peso de los bultos, con las demás indicaciones que se crean necesarias para su fácil identificación.
+Las cartas de porte ó billetes en los casos de trasporte de viajeros por ferrocarriles u otras empresas sujetas á tarifas, podrán ser diferentes, unos para las personas y otros para los equipajes; pero todos contendrán la indicación del porteador, la fecha de la expedición, los puntos de salida y llegada, el precio, y en lo tocante á equipajes, el número y peso de los bultos, con las demás indicaciones que se crean necesarias para su fácil identificación.
 
 ###### Art. 587.
 
@@ -7950,6 +7722,10 @@ Art. 1,413. Las partes, durante el juicio, podrán convenir en que los bienes em
 
 Art. 1,414. Cualquier incidente que se suscitare en el juicio mercantil ejecutivo, se decidirá por el juez sin sustanciar artículo, pero sin perjuicio del derecho de los interesados para que se les oiga en audiencia verbal siempre que así lo pidieren.
 
+TÍ¿ITULO CUARTO.
+
+DEL PROCEDIMIENTO ESPECIAL EN LAS QUIEBRAS.
+
 ## TITULO CUARTO.
 
 DEL PROCEDIMIENTO ESPECIAL EN LAS QUIEBRAS.
@@ -7994,6 +7770,8 @@ D.O.F. 30 DE MAYO DE 1933.
 
 UNICO.- Esta Ley entrará en vigor el día primero de junio del presente año.
 
+D.O.F. 4 DE AGOSTO DE 1934.
+
 ###### ARTICULO 1°.
 
 Esta ley entrará en vigor el 15 de septiembre de 1932.
@@ -8015,3 +7793,19 @@ IV.- La responsabilidad civil en que puedan incurrir las personas que intervenga
 V.- Las acciones que se deriven de los títulos, actos o contratos mencionados prescribirán y caducarán en los términos de la presente ley. El plazo en que debe practicarse el acto o diligencia o llenarse el requisito o formalidad de cuya omisión resulta la caducidad de la acción, se contará a partir de la fecha en que esta ley entre en vigor, cuando dicho plazo haya comenzado a correr y no haya concluído aún esa fecha. Debe computarse como parte del término de la prescripción, el tiempo útilmente transcurrido bajo la vigencia de las leyes que ésta abroga o deroga; pero en ningún caso la acción quedará extinguida por prescripción antes del 15 de marzo de 1933;
 
 VI.- Las acciones, las excepciones procesales y los actos procesales referentes a los títulos, actos y contratos de que hablan las fracciones anteriores, se regirán por las leyes vigentes al tiempo en que se ejerciten las primeras, se propongan las segundas y se practiquen los últimos, no siendo por tanto necesario que el demandado reconozca su firma, para que se despache ejecución en su contra, en el caso de los documentos para los que esta ley no exige ese requisito, siempre que el auto de exequendo se dicte después de que la misma entre en vigor.
+
+###### ARTICULO 3°.
+
+Las sociedades anónimas que al entrar en vigor la presente Ley estén constituyéndose por el procedimiento de suscripción pública, podrán ajustar sus estatutos a las prevensiones de esta Ley sobre sociedades de capital variable, siempre que así lo acuerde la asamblea constitutiva que al efecto se celebre, con el quórum y la mayoría requeridos por el artículo 190, computados en relación con las acciones que hayan sido suscritas.
+
+###### ARTICULO 4°.
+
+Se derogan el Título Segundo del Libro Segundo del Código de Comercio de 15 de septiembre de 1889 y todas las disposiciones legales que se opongan a la presente Ley.
+
+###### ARTICULO 1°.
+
+Esta Ley entrará en vigor en la fecha de su publicación.
+
+###### ARTICULO 2°.
+
+Sus disposiciones regirán los efectos jurídicos de los actos anteriores a su vigencia, siempre que su aplicación no resulte retroactiva.
