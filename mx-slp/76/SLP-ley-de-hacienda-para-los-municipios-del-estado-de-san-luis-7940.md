@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-los-municipios-del-estado-de-san-luis-7940
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-01"
-last_updated: "1991-12-31"
+last_updated: "1992-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 1992.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de San Luis Potosí, el 1o. de enero de 1988.
 
@@ -867,7 +867,9 @@ Cuando un edificio se encuentre dividido en departamentos, viviendas, locales co
 
 Las cuotas o tarifas de derechos por servicio doméstico, industrial, comercial, artesanal, público, urbano y otros no especificados se establecerán en la respectiva Ley de Ingresos Municipal de aquellos Ayuntamientos que no hayan descentralizado los servicios de agua potable y alcantarillado.
 
-En los Municipios en los que los servicios sean prestados por organismos paramunicipales autorizados por el H. Congreso del Estado, serán los Consejos de Administración de estas dependencias los que aprueben las cuotas y tarifas, reservándose el Congreso la facultad de revisarlas y adecuarlas en su caso, las que serán publicadas en el Periódico Oficial del Estado para su obligatoriedad.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1992)</small>
+
+Los Municipios en que los servicios sean prestados por Organismos Paramunicipales autorizados por el H. Congreso del Estado, sus Consejos de Administración aprobarán las cuotas y tarifas que deban cubrir los usuarios por todos los servicios públicos de agua potable, presentándolos anualmente a más tardar el quince de noviembre de cada año, y para su obligatoriedad el Congreso del Estado las revisará y ordenará su publicación en el Periódico Oficial del Estado, en su caso. Asimismo quedan obligados estos organismos para que su Consejo de Administración remita para su revisión al propio Congreso a más tardar el treinta y uno de diciembre de cada año un informe de manejo de los recursos financieros que tengan a su cargo.
 
 > <small>(REFORMADO, P.O. 4 DE ENERO DE 1991)</small>
 
@@ -1266,3 +1268,7 @@ PRIMERO.- Los dueños de vehículos de motor que efectúen cambios de propietari
 SEGUNDO.- El Artículos 63.-" de la presente Ley, surtirá sus efectos y una vez que el Estado se coordine con la Federación para implementar el Registro Estatal de vehículos y al conocerse las reglas que al respecto establezca la Secretaría de Hacienda y Crédito Público, la Secretaría de Finanzas del Estado emitirá en su caso, la Reglamentación del Artículo citado, la que deberá ser publicada oportunamente en el Periódico Oficial del Estado.
 
 TERCERO.- Esta Ley entrará en vigor a partir del 1o. de enero de 1992.
+
+P.O. 4 DE JUNIO DE 1992.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
