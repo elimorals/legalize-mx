@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "1974-12-31"
+last_updated: "1975-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 1975.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -310,6 +310,12 @@ VIII.- Tratándose de empresas fraccionadoras debidamente autorizadas y por oper
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1974)</small>
 
 IX.- En los casos de actos constitutivos de fideicomiso de administración, de garantía o testamentario.
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 1975)</small>
+
+###### ARTICULO 34
+
+BIS.- Están exentos de pago del Impuesto Sobre Transmisión de Dominio, los actos de ejecución de fideicomiso cuando los derechos reales o posesorios que afecten, se transmitan al mismo sujeto señalado en el acto constitutivo de ese fideicomiso como fideicomisario.
 
 ###### ARTICULO 35.
 
@@ -1349,11 +1355,11 @@ Este Impuesto se causará conforme la tasa que fije la Ley de Ingresos del Estad
 
 Son sujetos de este Impuesto, quienes causen los impuestos, derechos y rezagos a que se refiere el Artículo 152.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE FEBRERO DE 1973)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JUNIO DE 1975)</small>
 
 ###### ARTICULO 156.
 
-No causarán este impuesto:
+No causarán este Impuesto:
 
 I.- Los derechos de registro de escrituras relativas a créditos hipotecarios, refaccionarios o de habilitación o avío, destinados a actividades agropecuarias;
 
@@ -1365,11 +1371,17 @@ IV.- El Impuesto sobre venta de primera mano de gasolina y derivados del petról
 
 V.- El Impuesto Sobre Hospedaje;
 
-VI.- Los ingresos a que se refiere el Artículo 56 de esta Ley;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 1975)</small>
+
+VI.- El Impuesto Sobre Actividades Mercantiles e Industriales solo por lo que se declare exento en el Artículo 56, de esta Ley;
 
 > <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 1973)</small>
 
-VII.- Los causantes del impuesto Federal Sobre Ingresos Mercantiles.
+VII.- Los causantes del impuesto Federal Sobre Ingresos Mercantiles;
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 1975)</small>
+
+VIII.- El Impuesto Sobre Profesiones y Ejercicios Lucrativos.
 
 > <small>(ADICIONADO, P.O. 30 DE ABRIL DE 1973)</small>
 
@@ -1600,3 +1612,7 @@ SEGUNDO: Las personas físicas, jurídicas o unidades económicas que al entrar 
 TERCERO: Las personas físicas, jurídicas o unidades económicas que al entrar en vigor este Decreto tengan a su servicio sujetos de los mencionados en la fracción II del artículo 151-13 estarán obligados a inscribirse mediante la presentación de la "Relación bimestral de Retenciones" en el mes de marzo de 1975.
 
 CUARTO: La vigencia del presente Decreto empezará a partir del día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 20 DE JUNIO DE 1975.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
