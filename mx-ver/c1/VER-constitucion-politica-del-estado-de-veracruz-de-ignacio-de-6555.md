@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1926-10-30"
+last_updated: "1931-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE OCTUBRE DE 1926.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE NOVIEMBRE DE 1931.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -62,6 +62,10 @@ El período de funcionamiento de los Magistrados del H. Tribunal, comenzará el 
 G.O. 30 DE OCTUBRE DE 1926.
 
 UNICO.- Esta reforma comenzará a surtir sus efectos, desde el momento de su publicación en la Gaceta Oficial del Estado, y se publicará por Bando Solemne en todas las poblaciones del Estado.
+
+G.O. 10 DE NOVIEMBRE DE 1931.
+
+La presente Ley entrará en vigor tan luego como sea publicada en la "Gaceta Oficial" del Estado.
 
 ### CAPITULO II.
 
@@ -146,6 +150,8 @@ Los individuos que desempeñen algún cargo concejil quedarán exentos, durante 
 ### CAPITULO I.
 
 DEL PODER LEGISLATIVO.
+
+> <small>(REFORMADO, G.O. 10 DE NOVIEMBRE DE 1931)</small>
 
 ###### Artículo 20.
 
@@ -259,9 +265,11 @@ No pueden reunirse dos o más de esos Poderes en una sola persona o corporación
 
 Los miembros de la Legislatura, los Ayuntamientos y el Gobernador, serán nombrados popularmente en elección directa, en los términos que disponga la ley orgánica respectiva. Los Magistrados del Tribunal Superior, serán electos por la Legislatura en la forma que determina esta Constitución. Los Jueces Municipales serán nombrados por los Ayuntamientos en sus respectivas jurisdicciones.
 
+> <small>(REFORMADO, G.O. 10 DE NOVIEMBRE DE 1931)</small>
+
 ###### Artículo 39.
 
-Para las elecciones de Diputados, se dividirá al Estado en Distritos de sesenta mil habitantes. La fracción que pase de treinta mil compondrá también un Distrito, salvo lo dispuesto en el artículo 46.
+Para las elecciones de Diputados se dividirá el Estado en Distritos de cien mil habitantes. La fracción que pase de cincuenta mil habitantes compondrá también un Distrito, salvo lo dispuesto en el artículo 46.
 
 ###### Artículo 40.
 
@@ -293,7 +301,7 @@ Los padrones electorales se sacarán de los de las Municipalidades y no se exped
 
 ###### Artículo 46.
 
-La Legislatura del Estado se compondrá, cuando menos, de quince miembros nombrados por los Distritos electorales que establezca la ley, según lo dispuesto en el artículo 39, o por los que fuere necesario para alcanzar ese mínimum. Por cada Diputado propietario se nombrará un suplente.
+La H. Legislatura del Estado se compondrá cuando menos, de once miembros nombrados por los Distritos Electorales que establezca la Ley, según lo dispuesto en el artículo 39 reformado o por los que fuere necesario para alcanzar ese mínimo. Por cada Diputado propietario se nombrará un suplente.
 
 ###### Artículo 47.
 
