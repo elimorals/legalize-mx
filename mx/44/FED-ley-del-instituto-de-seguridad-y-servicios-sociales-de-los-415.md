@@ -4,7 +4,7 @@ identifier: "FED-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-415"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-27"
-last_updated: "1985-04-01"
+last_updated: "1986-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=415&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,11 @@ abbreviation: "LISSSTE"
 ---
 # LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE FEBRERO DE 1987 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE FEBRERO DE 1985.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL D.O.F. DE 1 DE ABRIL DE 1985 NO APLICA AL ARTICULADO DE LA FE DE ERRATAS PUBLICADA EN EL D.O.F. DE 29 DE MARZO DE 1985.</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1986.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 27 de diciembre de 1983.
 
@@ -90,11 +90,15 @@ X. Indemnización global;
 
 XI. Servicios de atención para el bienestar y desarrollo infantil;
 
-XII. Servicios de integración a jubilados y pensionados;
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+XII. Servicios integrales de retiro a jubilados y pensionistas;
 
 XIII. Arrendamiento o venta de habitaciones económicas pertenecientes al Instituto;
 
-XIV. Préstamos hipotecarios para la adquisición en propiedad de terrenos y/o casas, construcción, reparación, ampliación o mejoras de las mismas; así como para el pago de pasivos adquiridos por estos conceptos;
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+XIV. Préstamos hipotecarios y financiamiento en general para vivienda, en sus modalidades de adquisición en propiedad de terrenos y/o casas habitación, construcción, reparación, ampliación o mejoras de las mismas; así como para el pago de pasivos adquiridos por estos conceptos;
 
 XV. Préstamos a mediano plazo;
 
@@ -108,9 +112,13 @@ XIX. Promociones culturales, de preparación técnica, fomento deportivo y recre
 
 XX. Servicios funerarios
 
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
 ###### Artículo 4o.
 
-La administración de los seguros, prestaciones y servicios a que se refiere el artículo anterior, estará a cargo del organismo público descentralizado denominado Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, con personalidad jurídica, patrimonio propio y domicilio en la Ciudad de México.
+La administración de los seguros, prestaciones y servicios de que trata el artículo anterior, así como la del Fondo de la Vivienda, estarán a cargo del organismo descentralizado con personalidad jurídica y patrimonio propios, denominado Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, con domicilio en la Ciudad de México.
+
+Para el cumplimiento de sus fines el Instituto contará con delegaciones, las cuales, como unidades desconcentradas, estarán jerárquicamente subordinadas a la administración central y tendrán las facultades específicas para resolver sobre la materia y la competencia territorial que se determine en su caso.
 
 ###### Artículo 5o.
 
@@ -144,9 +152,11 @@ A) Que el trabajador o el pensionista tenga derecho a las prestaciones señalada
 
 B) Que dichos familiares no tengan por sí mismos derechos propios a las prestaciones señaladas en el artículo antes mencionado.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
 ###### Artículo 6o.
 
-Las dependencias y entidades de la Administración Pública Federal a que se refiere esta Ley, deberán remitir al Instituto, en enero de cada año, una relación del personal sujeto al pago de las cuotas y descuentos correspondientes, según los artículos 16 y 18 de este ordenamiento. Asimismo, pondrán en conocimiento del Instituto, dentro de los 30 días siguientes a la fecha en que ocurran:
+Las dependencias y entidades de la Administración Pública Federal a que se refiere esta Ley, deberán remitir al Instituto en enero de cada año, una relación del personal sujeto al pago de cuotas y descuentos correspondientes, según los artículos 16 y 25 de esta Ley, así como efectuar los descuentos que se ordenen con motivo de la aplicación de la misma, debiendo remitir al Instituto las nóminas y recibos en que éstos figuren, dentro de los 10 días siguientes a la fecha en que debieron hacerse. De igual forma pondrán en conocimiento del Instituto dentro de los 30 días siguientes a la fecha en que ocurran:
 
 I. Las altas y bajas de los trabajadores;
 
@@ -156,7 +166,17 @@ III. La iniciación de los descuentos así como su terminación y en su caso los
 
 IV. Los nombres de los familiares que los trabajadores deben señalar a fin de que disfruten de los beneficios que esta Ley concede. Esto último dentro de los treinta días siguientes a la fecha de la toma de posesión del trabajador.
 
-En todo tiempo, las dependencias y entidades proporcionarán al Instituto los datos que les requiera y designarán a quienes se encarguen del cumplimiento de estas obligaciones, los cuales serán responsables de los daños y perjuicios que ocasionen con sus omisiones y sancionados en los términos de esta Ley.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+En todo tiempo, las dependencias y entidades deberán expedir los certificados e informes que les soliciten tanto los interesados como el Instituto y proporcionar los expedientes y datos que el propio Instituto les requiera de los trabajadores, ex-trabajadores, jubilados y pensionistas así como los informes sobre aportaciones y cuotas y designarán a quienes se encarguen del cumplimiento de estas obligaciones.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+En caso de negativa, demora injustificada o cuando la información se suministre en forma inexacta o falsa, la Autoridad competente fincará la responsabilidad e impondrá las sanciones que correspondan en los términos de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+Los pagadores y los encargados de cubrir sueldos serán responsables en los términos de esta Ley de los actos y omisiones en relación a las retenciones y descuentos que resulten en perjuicio del Instituto, de los trabajadores, jubilados o pensionistas, independientemente de la responsabilidad civil, penal o administrativa en que incurran.
 
 ###### Artículo 7o.
 
@@ -190,15 +210,13 @@ El Instituto recopilará y clasificará la información sobre el personal, a efe
 
 ###### Artículo 13.
 
-Las dependencias y entidades de la Administración Pública sujetas al régimen de esta Ley, quedan obligadas a remitir sin demora al Instituto, los expedientes y datos que les solicite de los trabajadores y ex-trabajadores y los informes sobre aportaciones y cuotas.
+(DEROGADO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
-En caso de negativa, demora injustificada o cuando la información se suministre en forma inexacta o falsa, la autoridad competente fincará la responsabilidad e impondrá las sanciones que correspondan en los términos de esta Ley.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ###### Artículo 14.
 
-Las controversias judiciales que surjan sobre la aplicación de esta Ley, así como todas aquellas en que el Instituto tuviere el carácter de actor o demandado, serán de la competencia de los tribunales federales.
-
-Por lo que se refiere a los trabajadores del Instituto, quedan incorporados al régimen de la presente Ley. Las relaciones de trabajo entre el propio Instituto y su personal, se regirán por la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del Apartado B del Artículo 123 Constitucional.
+Los trabajadores del Instituto quedan incorporados al régimen de la presente Ley. Las relaciones de trabajo entre el propio Instituto y su personal, se regirán por la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del Apartado B del Artículo 123 Constitucional.
 
 ## TITULO SEGUNDO. Del Régimen Obligatorio
 
@@ -224,9 +242,29 @@ Todo trabajador comprendido en el artículo 1o. de este ordenamiento, deberá cu
 
 Dicha cuota se aplicará en la siguiente forma:
 
-I. 2% para cubrir los seguros, prestaciones y servicios señalados en las fracciones de la I a la III del artículo 3o. de esta Ley; y
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
-II. 6% para cubrir los seguros, prestaciones y servicios señalados en las fracciones de la V a la XX del artículo 3o. de la presente Ley.
+I. 2.50% para cubrir los seguros, prestaciones y servicios señalados en las fracciones de la I a la III del artículo 3o. de esta Ley;
+
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+II. 0.50% para cubrir la prestación señalada en la fracción XIV del artículo 3o. de esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+III. 0.50% para cubrir las prestaciones señaladas en las fracciones XV y XVI del artículo 3o. de esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+IV. 0.50% para cubrir los servicios señalados en la fracción XVII del artículo 3o. de esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+V. El porcentaje restante se aplicará para cubrir el 50% de la prima que sobre el sueldo básico se establezca anualmente, conforme a las valuaciones actuariales, para el pago de las jubilaciones, pensiones e indemnizaciones globales, así como para integrar las reservas correspondientes conforme al artículo 182 de esta Ley y para cubrir los servicios sociales y culturales a que se refieren las fracciones de la XI a la XIII y de la XVIII a la XXX del artículo 3o., de esta Ley, así como los gastos generales de administración del Instituto, exceptuando los correspondientes al Fondo de la Vivienda.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+Los porcentajes señalados en las fracciones de la I a la IV incluyen los gastos específicos de administración.
 
 ###### Artículo 17.
 
@@ -234,15 +272,7 @@ Los trabajadores que desempeñen dos o más empleos en las dependencias o entida
 
 ###### Artículo 18.
 
-Las dependencias y entidades están obligadas a:
-
-I. Efectuar los descuentos de las cuotas a que se refiere el artículo 16 de esta Ley y los que el Instituto ordene con motivo de la aplicación de la misma;
-
-II. Enviar al Instituto las nóminas y recibos en que figuren los descuentos dentro de los diez días siguientes a la fecha en que debieron hacerse; y
-
-III. Expedir los certificados e informes que les soliciten tanto el Instituto como los interesados.
-
-Los pagadores y los encargados de cubrir sueldos serán responsables en los términos de esta Ley de los actos u omisiones que resulten en perjuicio del Instituto o de los trabajadores, independientemente de la responsabilidad civil, penal o administrativa en que incurran.
+(DEROGADO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### Artículo 19.
 
@@ -256,27 +286,47 @@ III. Cuando el trabajador sufra de prisión preventiva seguida de fallo absoluto
 
 IV. Cuando el trabajador fuere suspendido en los términos del párrafo final del artículo 45 de la Ley Federal de los Trabajadores al Servicio del Estado, por todo el tiempo que dure la suspensión y siempre que por laudo ejecutariado se le autorice a reanudar labores.
 
-En los casos señalados el trabajador deberá pagar la totalidad de las cuotas y aportaciones a que se refieren las fracciones II del artículo 16 y III del artículo 21. Si el trabajador falleciere antes de reanudar sus labores y sus familiares derechohabientes tuvieren derecho a pensión, éstos deberán cubrir el importe de esas cuotas a fin de poder disfrutar de la misma.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+En los casos señalados el trabajador deberá pagar la totalidad de las cuotas y aportaciones a que se refieren las fracciones de la II a la V del artículo 16 y de la II a la IV y la VII del artículo 21. Si el trabajador falleciere antes de reanudar sus labores y sus familiares derechohabientes tuvieren derecho a pensión, éstos deberán cubrir el importe de esas cuotas a fin de poder disfrutar de la misma.
 
 ###### Artículo 20.
 
 Cuando no se hubieren hecho a los trabajadores los descuentos procedentes conforme a esta Ley, el Instituto mandará descontar hasta un 30% del sueldo mientras el adeudo no esté cubierto, a menos que el trabajador solicite y obtenga mayores facilidades para el pago.
 
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
 ###### Artículo 21.
 
-Las dependencias y entidades públicas sujetas al régimen de esta Ley, cubrirán al Instituto como aportaciones los siguientes porcentajes sobre los equivalentes al sueldo básico de los trabajadores:
+Las dependencias y entidades públicas sujetas al régimen de esta Ley, cubrirán al Instituto como aportaciones el equivalente al 17.75% del sueldo básico de los trabajadores.
 
-I. 6% para cubrir el seguro de enfermedades, maternidad y servicios de medicina preventiva y rehabilitación física y mental;
+Dicho porcentaje se aplicará en la siguiente forma:
 
-II. 0.75% para cubrir íntegramente el seguro de riesgos del trabajo;
+I. 6.50% para cubrir los seguros, prestaciones y servicios señalados en las fracciones de la I a la III del artículo 3o. de esta Ley;
 
-III. 6% para cubrir los seguros, prestaciones y servicios señalados en las fracciones de la V a la XX del Artículo 3o. de la presente Ley; y
+II. 0.50% para cubrir la prestación señalada en la fracción XIV del artículo 3o. de esta Ley;
 
-IV. 5% para constituir el Fondo de la Vivienda.
+III. 0.50% para cubrir las prestaciones señaladas en las fracciones XV y XVI del artículo 3o. de esta Ley;
+
+IV. 0.50% para cubrir los servicios señalados en la fracción XVII del artículo 3o. de esta Ley;
+
+V. 0.75% para cubrir íntegramente el seguro de accidentes y enfermedades de trabajo y atender los servicios de prevención, de donde se aplicará el 0.25% para el pago de pensiones y el 0.50% para la atención médica;
+
+VI. 5.00% para constituir el Fondo de la Vivienda; y
+
+VII. El porcentaje restante se aplicará para cubrir el 50% de la prima que sobre el sueldo básico se establezca anualmente conforme a las valuaciones actuariales, para el pago de jubilaciones, pensiones e indemnizaciones globales, así como para integrar las reservas correspondientes conforme al artículo 182 de esta Ley y para cubrir los servicios sociales y culturales a que se refieren las fracciones de la XI a la XIII y de la XVIII a la XX del artículo 3o. de esta Ley, así como los gastos generales de administración del Instituto, exceptuando los correspondientes al Fondo de la Vivienda.
+
+Los porcentajes señalados en las fracciones de la I a la V, incluyen los gastos específicos de administración.
+
+Además, para los servicios a que se refiere la fracción XI del artículo 3o. de la presente Ley, las dependencias y entidades cubrirán el 50% del costo unitario por cada uno de los hijos de sus trabajadores que hagan uso del servicio en las estancias de bienestar infantil del Instituto. Dicho costo será determinado anualmente por la Junta Directiva.
+
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ###### Artículo 22.
 
-Las dependencias y entidades públicas harán entregas quincenales al Instituto, por conducto de sus respectivas tesorerías o departamentos correspondientes, del monto de las cantidades estimadas por concepto de las cuotas y aportaciones a que se refieren los artículos 16 y 21. También entregarán quincenalmente al Instituto el importe de los descuentos que el Instituto ordene que se hagan a los trabajadores por otros adeudos derivados de la aplicación de esta Ley.
+Las dependencias y entidades públicas harán entregas quincenales al Instituto, por conducto de sus respectivas tesorerías o departamentos correspondientes, del monto de las cantidades estimadas por concepto de las cuotas y aportaciones a que se refieren los artículos 16, 21 y 25, fracción II, de esta Ley. También entregarán quincenalmente al Instituto el importe de los descuentos que el Instituto ordene que se hagan a los trabajadores por otros adeudos derivados de la aplicación de esta Ley.
+
+No se concentrarán en la Tesorería de la Federación los ingresos provenientes de las aportaciones, las que deberán ser enteradas directamente al Instituto.
 
 Para los efectos de este artículo, se realizará un cálculo estimativo del monto de las entregas quincenales, ajustándose las cuentas y haciéndose los pagos insolutos cada mes.
 
@@ -370,7 +420,9 @@ El Instituto proporcionará servicios de medicina preventiva tendientes a preser
 
 La medicina preventiva, conforme a los programas que se autoricen sobre la materia, atenderá:
 
-I. El control de enfermedades previsibles por vacunación;
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+I. El control de enfermedades prevenibles por vacunación;
 
 II. El control de enfermedades transmisibles;
 
@@ -388,7 +440,9 @@ VIII. Nutrición;
 
 IX. Salud mental;
 
-X. Higiene del trabajo y previsión de riesgos; y
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+X. Higiene para la salud; y
 
 XI. Las demás actividades de medicina preventiva que determinen la Junta Directiva y el Director General.
 
@@ -412,9 +466,11 @@ Se considerarán accidentes del trabajo, toda lesión orgánica o perturbación 
 
 Asimismo, se consideran riesgos del trabajo las enfermedades señaladas por las leyes del trabajo.
 
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
 ###### Artículo 35.
 
-Las prestaciones que concede este Capítulo serán cubiertas íntegramente con la aportación a cargo de las dependencias o entidades que señala la fracción II del artículo 21 de esta Ley.
+Las prestaciones que concede este Capítulo serán cubiertas íntegramente con la aportación a cargo de las dependencias y entidades que señala la fracción V del artículo 21 de esta Ley.
 
 ###### Artículo 36.
 
@@ -494,19 +550,37 @@ El Instituto, para el cumplimiento de sus fines, estará facultado para realizar
 
 Las dependencias y entidades públicas, deberán:
 
-I. Facilitar la realización de estudios e investigaciones sobre riesgos del trabajo;
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
-II. Proporcionar datos e informes para la elaboración de estadísticas sobre riesgos del trabajo; y
+I. Facilitar la realización de estudios e investigaciones sobre accidentes y enfermedades de trabajo;
 
-III. Difundir e implantar en su ámbito de competencia, las normas preventivas de riesgos del trabajo.
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+II. Proporcionar datos e informes para la elaboración de estadísticas sobre accidentes y enfermedades de trabajo;
+
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+III. Difundir e implantar en su ámbito de competencia, las normas preventivas de accidentes y enfermedades de trabajo; y
+
+> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+IV. Integrar las Comisiones Mixtas de Seguridad e Higiene.
 
 ###### Artículo 46.
 
 La seguridad e higiene en el trabajo, en las dependencias y entidades, se normará por lo establecido en la Ley Federal de los Trabajadores al Servicio del Estado y por las disposiciones de esta Ley y sus Reglamentos.
 
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+El Instituto se coordinará con las dependencias, entidades, organismos e instituciones que considere necesarios para la elaboración de programas y el desarrollo de campañas tendientes a prevenir accidentes y enfermedades de trabajo.
+
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
 ###### Artículo 47.
 
-Corresponderá al Instituto promover el buen funcionamiento de las comisiones de seguridad e higiene de las dependencias y entidades, afiliadas a su régimen y a dichas Comisiones, considerar las recomendaciones que el propio Instituto formule en beneficio de los trabajadores.
+Corresponde al Instituto promover la integración y funcionamiento de las Comisiones Mixtas de Seguridad e Higiene en los centros de trabajo de las Dependencias y Entidades del Sector Público afiliados al régimen de seguridad social del Instituto y, a las propias Comisiones Mixtas, atender las recomendaciones que el Instituto formule en materia de seguridad e higiene.
+
+El Instituto deberá asimismo promover la integración y funcionamiento de una Comisión Consultiva Nacional y de Comisiones Consultivas Estatales de Seguridad e Higiene del Sector Público Federal.
 
 ### CAPITULO V. Seguro de jubilación, de retiro por edad y tiempo de servicios, invalidez, muerte y cesantía en edad avanzada e indemnización global
 
@@ -568,9 +642,11 @@ La edad y el parentesco de los trabajadores y sus familiares derechohabientes se
 
 El Instituto podrá ordenar en cualquier tiempo, la verificación y autenticidad de los documentos y la justificación de los hechos que hayan servido de base para conceder una pensión. Cuando se descubra que son falsos, el Instituto, con audiencia del interesado, procederá a la respectiva revisión y en su caso denunciará los hechos al Ministerio Público para los efectos que procedan.
 
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
 ###### Artículo 54.
 
-Para que un trabajador o sus familiares, en su caso, puedan disfrutar de una pensión, deberán cubrir previamente al Instituto los adeudos existentes con el mismo, por concepto de las cuotas a que se refiere el artículo 16 fracción II. Al transmitirse una pensión por fallecimiento del trabajador o pensionista, sus familiares tendrán la obligación de cubrir los adeudos por concepto de créditos a corto plazo que se hubieren concedido al mismo.
+Para que un trabajador o sus familiares, en su caso, puedan disfrutar de una pensión, deberán cubrir previamente al Instituto los adeudos existentes con el mismo por concepto de las cuotas a que se refiere el artículo 16 fracciones de la II a la V. Al transmitirse una pensión por fallecimiento del trabajador o pensionista, sus familiares tendrán la obligación de cubrir los adeudos por concepto de créditos a corto plazo que se hubieren concedido al mismo.
 
 ###### Artículo 55.
 
@@ -600,9 +676,11 @@ Toda fracción de más de seis meses de servicios se considerará como año comp
 
 #### SECCION SEGUNDA. Pensión por jubilación
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
 ###### Artículo 60.
 
-Tienen derecho a la pensión por jubilación los trabajadores con 30 años o más de servicios e igual tiempo de cotización al Instituto, en los términos de esta Ley, cualquiera que sea su edad.
+Tienen derecho a la pensión por jubilación los trabajadores con 30 años o más de servicios y las trabajadoras con 28 años o más de servicios e igual tiempo de cotización al Instituto, en los términos de esta Ley, cualquiera que sea su edad, no siendo aplicables a éstas los dos últimos porcentajes de la tabla del artículo 63.
 
 La pensión por jubilación dará derecho al pago de una cantidad equivalente al 100% del sueldo que se define en el artículo 64 y su percepción comenzará a partir del día siguiente a aquél en que el trabajador hubiese disfrutado el último sueldo antes de causar baja.
 
@@ -650,9 +728,11 @@ El monto de la pensión de retiro por edad y tiempo de servicios se determinará
 
 29 años de servicio....................... 95 %
 
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
 ###### Artículo 64.
 
-Para calcular el monto de las cantidades que correspondan por pensión en los términos de los artículos, 60, 63, 67 y 76 de esta Ley y demás relativos, se tomará en cuenta el promedio del sueldo básico disfrutado en los tres años inmediatos anteriores a la fecha de la baja del trabajador o de su fallecimiento. Dicho promedio constituye el sueldo regulador.
+Para calcular el monto de las cantidades que correspondan por pensión en los términos de los artículos 60, 63, 67, 76 y demás relativos de esta Ley, se tomará en cuenta el promedio del sueldo básico disfrutado en el último año inmediato anterior a la fecha de la baja del trabajador o de su fallecimiento.
 
 ###### Artículo 65.
 
@@ -812,9 +892,13 @@ Serán aplicables a esta pensión las disposiciones generales relativas a las de
 
 Al trabajador que sin tener derecho a pensión por jubilación, de retiro por edad y tiempo de servicios, cesantía en edad avanzada o invalidez, se separe definitivamente del servicio, se le otorgará en sus respectivos casos, una indemnización global equivalente a:
 
-I. El monto total de las cuotas con que hubiese contribuido de acuerdo con la fracción II del artículo 16, si tuviese de uno a cuatro años de servicios;
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
-II. El monto total de las cuotas que hubiese enterado en los términos de la fracción II del artículo 16, más 45 días de su último sueldo básico según lo define el artículo 15, si tuviese de cinco a nueve años de servicios; y
+I. El monto total de las cuotas con que hubiese contribuido de acuerdo con las fracciones de la II a la V del artículo 16, si tuviese de uno a cuatro años de servicios;
+
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+II. El monto total de las cuotas que hubiese enterado en los términos de las fracciones de la II a la V del artículo 16, más 45 días de su último sueldo básico según lo define el artículo 15, si tuviese de cinco a nueve años de servicios; y
 
 III. El monto total de las cuotas que hubiera pagado conforme al mismo precepto, más 90 días de su último sueldo básico, si hubiera permanecido en el servicio de diez a catorce años.
 
@@ -828,9 +912,11 @@ I. Si el trabajador tuviese algún adeudo con el Instituto; y
 
 II. Previa orden de las autoridades competentes y cuando al trabajador se le impute algún delito con motivo del desempeño de su cargo y que entrañe responsabilidad con la dependencia o entidad correspondiente. En este caso se retendrá el total de la indemnización hasta que los Tribunales dicten fallo absolutorio y, en caso contrario, sólo se entregará el sobrante, si lo hubiere, después de cubrir dicha responsabilidad. Si el trabajador estuviere protegido por algún fondo de garantía, operará éste en primer término. En el caso del último párrafo del artículo anterior, la indemnización global sólo podrá afectarse para cubrir los adeudos que tuviese para con el Instituto hasta la fecha de su muerte.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
 ###### Artículo 89.
 
-Si el trabajador separado del servicio reingresare y quisiere que el tiempo durante el que trabajó con anterioridad se le compute para los efectos de esta Ley, reintegrará en el plazo prudente que le conceda el Instituto, la indemnización global que hubiere recibido, más sus intereses a razón del 6% anual.
+Si el trabajador separado del servicio reingresare y quisiere que el tiempo durante el que trabajo con anterioridad se le compute para efectos de esta Ley, reintegrará en el plazo prudente que le conceda el Instituto la indemnización global que hubiere recibido más los intereses que fije la Junta Directiva.
 
 Si falleciere antes de ejercer este derecho o de solventar el adeudo, sus beneficiarios podrán optar por reintegrar la indemnización que le hubiere correspondido al trabajador en los términos del artículo 87 o bien por cubrir íntegramente el adeudo para disfrutar de la pensión en los casos en que ésta proceda.
 
@@ -838,21 +924,29 @@ Si falleciere antes de ejercer este derecho o de solventar el adeudo, sus benefi
 
 El Instituto proporcionará servicios de pre-pensión y post-pensión a los trabajadores, pensionistas y a sus familiares derechohabientes en los términos del reglamento que al efecto se expida.
 
-### CAPITULO VI. De los préstamos personales a corto y mediano plazo
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
-### CAPITULO VII. De la Vivienda
+### CAPITULO VI. Del Sistema Integral de Crédito
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 7 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
-#### SECCION PRIMERA. Préstamos a corto plazo
+### CAPITULO VII. De las prestaciones sociales y culturales
+
+#### SECCION PRIMERA. Créditos a Corto Plazo
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ###### Artículo 91.
 
-De acuerdo a los recursos disponibles aprobados por la Junta Directiva en el programa de presupuesto anual los préstamos a corto plazo se otorgarán a los trabajadores de base conforme a las siguientes reglas:
+De acuerdo a los recursos aprobados por la Junta Directiva en el programa de presupuesto anual los préstamos a corto plazo se otorgarán a los trabajadores de base conforme a las siguientes reglas:
 
-I. A quienes hayan cubierto al Instituto las aportaciones por más de seis meses;
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
-II. Mediante garantía del total de dichas aportaciones a que se refiere la fracción II del artículo 16 de esta Ley;
+I. A quienes hayan cubierto al Instituto las cuotas y aportaciones por más de un año;
+
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+II. Mediante garantía del total de dichas cuotas y aportaciones a que se refieren las fracciones III de los artículos 16 y 21 de esta Ley;
 
 III. El monto del préstamo se regirá por las siguientes bases:
 
@@ -866,7 +960,9 @@ En ningún caso, dicho préstamo será superior al equivalente a 10 veces el sue
 
 De la cantidad total destinada anualmente para esta prestación, se afectará el 25% para los préstamos mencionados en el inciso A); 30% a los señalados en el inciso B); y 45% para los referidos en el inciso C).
 
-IV. El plazo para el pago del préstamo y el interés anual sobre saldos insolutos, que no será superior al 9% anual, serán los que mediante acuerdos generales fije la Junta Directiva, en vista de los recursos disponibles y observando el grado de recuperación, la equidad, la importancia de la cobertura y la utilización racional de los recursos asignados a esta prestación;
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+IV. El plazo para el pago del préstamo y el interés anual sobre saldos insolutos serán los que, mediante acuerdos generales, fije la Junta Directiva, en vista de los recursos disponibles y observando el grado de recuperación, la equidad, la importancia de la cobertura y la utilización racional de los recursos asignados a esta prestación.
 
 V. Cuando el préstamo sobrepase el monto de las aportaciones, el excedente se garantizará con un fondo especial llamado fondo de garantía, que constituyan los interesados mediante el pago de primas, en los términos que fije la Junta Directiva, dicho fondo se registrará contablemente por separado de los demás ingresos y egresos del Instituto;
 
@@ -904,13 +1000,17 @@ Los trabajadores y pensionistas que lo soliciten, podrán obtener créditos para
 
 En el otorgamiento de los préstamos a mediano plazo para la adquisición de bienes de uso duradero, se considerará el monto del sueldo y la amortización creciente. No se concederá otro tipo de préstamo mientras éste permanezca insoluto.
 
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
 ###### Artículo 99.
 
-Los créditos para la adquisición de los bienes a que se refiere el artículo anterior, se otorgarán mediante garantía prendaria, pagaderos en forma directa del derechohabiente al Instituto o mediante los mecanismos que se precisen en el reglamento que sobre el particular emita la Junta Directiva. No causarán intereses cuando se amorticen en un plazo máximo de 90 días.
+Los créditos para la adquisición de los bienes a que se refiere el artículo anterior, se otorgarán mediante las garantías que acuerde la Junta Directiva, pudiendo el derechohabiente hacer sus pagos en forma directa al Instituto o mediante los mecanismos que sobre el particular emita la propia Junta. No causarán intereses cuando se amorticen en un plazo máximo de 90 días.
 
-El plazo mayor que se considerará para estas adquisiciones, será de 5 años; el interés nunca será superior al 9% anual, y la cantidad autorizada será hasta 20 veces el sueldo básico mínimo mensual de los servidores públicos en las mismas condiciones a la de los préstamos a corto plazo.
+El plazo mayor que se considerará para estas adquisiciones, será de 5 años; el interés será el que, mediante acuerdos generales, fije la Junta Directiva y la cantidad autorizada será hasta 20 veces el sueldo básico mínimo mensual de los servidores públicos en las mismas condiciones al de los préstamos a corto plazo.
 
-#### SECCION PRIMERA. Del Crédito para Vivienda
+> <small>(ADICIONADA [N. DE E. REUBICADA, ANTES SECCION PRIMERA DEL CAPITULO VII], D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+#### SECCION TERCERA. Del Crédito para Vivienda
 
 (REFORMADO PRIMER PARRAFO, D.O.F. 7 DE FEBRERO DE 1985) (F. DE E., D.O.F. 29 DE MARZO DE 1985)
 
@@ -918,9 +1018,9 @@ El plazo mayor que se considerará para estas adquisiciones, será de 5 años; e
 
 Para los fines a que se refieren las fracciones XI, inciso f) del apartado B) del artículo 123 Constitucional; el inciso h) de la fracción VI del artículo 43 de la Ley Federal de los Trabajadores al Servicio del Estado; y las fracciones XIII y XIV del artículo 3o. de esta Ley, se constituirá el Fondo de la Vivienda que tiene por objeto:
 
-> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
-I. Establecer y operar un sistema de financiamiento que permita a los trabajadores obtener créditos baratos y suficientes mediante préstamos con garantía hipotecaria en primer lugar sobre inmuebles urbanos, por una sola vez;
+I. Establecer y operar un sistema de financiamiento que permita a los trabajadores obtener crédito barato y suficiente, mediante préstamos con garantía hipotecaria. Estos préstamos se harán por una sola vez.
 
 II. Coordinar y financiar programas de construcción de habitaciones destinadas a ser adquiridas en propiedad por los trabajadores que carezcan de ellas; y
 
@@ -930,13 +1030,15 @@ III. Los demás que esta Ley establece.
 
 Los recursos del fondo se integran:
 
-I. Con las aportaciones que las dependencias y entidades enteren al Instituto por el equivalente a un 5% sobre el sueldo básico de sus trabajadores, previstas en la fracción IV del artículo 21;
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+I. Con las aportaciones que las dependencias y entidades enteren al Instituto por el equivalente a un 5% sobre el sueldo básico de sus trabajadores, previstas en la fracción VI del artículo 21;
 
 II. Con los bienes y derechos adquiridos por cualquier título; y
 
-> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
-III. Con el 0.5% que se deduzca del sueldo básico de los trabajadores que como cuota enteren en los términos del artículo 16 fracción II, y el 0.5% que como aportación enteren las dependencias y entidades conforme al artículo 21 fracción III de la presente Ley; y
+III. Con el 0.50% que se deduzca del sueldo básico de los trabajadores que como cuota enteren en los términos del artículo 16 fracción II y el 0.50% que como aportación enteren las dependencias y entidades conforme al artículo 21 fracción II de la presente Ley; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 7 DE FEBRERO DE 1985)</small>
 
@@ -952,7 +1054,9 @@ La Junta Directiva determinará el porcentaje que de los recursos del Fondo se d
 
 Los recursos del Fondo se destinarán:
 
-I. Al otorgamiento de créditos a los trabajadores que sean titulares de depósitos constituidos a su favor por más de seis meses en el Instituto. El importe de estos créditos deberá aplicarse a los siguientes fines:
+> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+I. Al otorgamiento de créditos a los trabajadores que sean titulares de depósitos constituidos a su favor por más de 18 meses en el Instituto. El importe de estos créditos deberá aplicarse a los siguientes fines:
 
 A) A la adquisición de terrenos para que se construyan en ellos viviendas o conjuntos habitacionales destinados a la habitación de los trabajadores;
 
@@ -960,9 +1064,17 @@ B) A la adquisición de habitaciones cómodas e higiénicas, incluyendo aquélla
 
 C) A la construcción, reparación, ampliación o mejoramiento de sus habitaciones; y
 
-D) Al pago de pasivos contraídos por los conceptos anteriores;
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
-II. Al financiamiento de la construcción de conjuntos habitacionales para ser adquiridos por los trabajadores, mediante créditos que les otorgue el Instituto.
+D) Al pago del enganche, en el porcentaje que acuerde la Junta Directiva a propuesta de la Comisión Ejecutiva y de los gastos de escrituración, cuando tenga por objeto la adquisición de viviendas de interés social; y
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+E) Al pago de pasivos contraídos por los conceptos anteriores;
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+II. Al financiamiento de la construcción de conjuntos habitacionales para ser adquiridos por los trabajadores, mediante créditos que otorgue el Instituto, directamente o con la participación de entidades públicas y/o privadas.
 
 Estos financiamientos sólo se concederán por concurso tratándose de programas habitacionales aprobados por el Instituto y que se ajusten a las disposiciones aplicables en materia de construcción.
 
@@ -994,11 +1106,11 @@ Los gobiernos de las Entidades Federativas y Municipios podrán celebrar conveni
 
 Los pensionistas gozarán de los beneficios que establece este artículo, con sujeción a los acuerdos generales que en los términos y dentro de los lineamientos de esta Ley dicte la Junta Directiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ###### Artículo 106.
 
-Las aportaciones al Fondo de la Vivienda previstas en la Fracción IV del artículo 21 de esta Ley, se aplicarán en su totalidad a constituir en favor de los trabajadores depósitos que no devengarán intereses y que se sujetarán a las bases siguientes:
+Las aportaciones al Fondo de la Vivienda previstas en la fracción VI del artículo 21 de esta Ley, se aplicarán en su totalidad a constituir en favor de los trabajadores depósitos que no devengarán intereses y que se sujetarán a las bases siguientes:
 
 I. Cuando un trabajador reciba financiamiento del Fondo, el 40% del importe de los depósitos que en su favor se hayan acumulado hasta esa fecha, se aplicará de inmediato como pago inicial del crédito concedido;
 
@@ -1028,9 +1140,11 @@ III. El monto de las aportaciones al fondo proveniente de las diversas regiones 
 
 IV. El número de trabajadores en las diferentes regiones o localidades del Territorio Nacional.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
 ###### Artículo 108.
 
-Para otorgar y fijar los créditos a los trabajadores en cada región o localidad, se tomarán en cuenta el número de miembros de la familia de los trabajadores; el sueldo o salario, o el ingreso conyugal si hay acuerdo entre los interesados y las características y precios de venta de las habitaciones disponibles. Para tal efecto, se establecerá por el Instituto un régimen para relacionar los créditos.
+Para otorgar y fijar créditos a los trabajadores en cada región o localidad, se tomarán en cuenta el número de miembros de la familia de los trabajadores, la antigüedad, el sueldo o el salario o el ingreso conyugal si hay acuerdo entre los interesados y las características y precios de venta de las habitaciones disponibles. Para tal efecto, se establecerá por el Instituto un régimen para relacionar los créditos.
 
 Dentro de cada grupo de trabajadores en una clasificación semejante, si hay varios con el mismo derecho, se asignarán entre éstos los créditos individuales mediante un sistema de sorteos ante Notario Público.
 
@@ -1042,15 +1156,25 @@ Con sujeción a los requisitos que fije la Junta Directiva, se determinarán; lo
 
 Los créditos que se otorguen con cargo al fondo deberán darse por vencidos anticipadamente si los deudores, sin el consentimiento del Instituto, enajenan las viviendas, gravan los inmuebles que garanticen el pago de los créditos concedidos o incurren en las causas de rescisión consignadas en los contratos respectivos .
 
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
 ###### Artículo 111.
 
-Los créditos que se otorguen a los trabajadores estarán cubiertos por un seguro para los casos de incapacidad total permanente o de muerte, que libere al trabajador o a sus beneficiarios de las obligaciones derivadas de los mismos. El costo de este seguro quedará a cargo del Instituto.
+Los créditos que se otorguen estarán cubiertos por un seguro para los casos de incapacidad total permanente o de muerte, que libere al trabajador, jubilado o pensionista o a sus respectivos beneficiarios, de las obligaciones derivadas de los mismos. El costo de este seguro quedará a cargo del Instituto.
+
+Los trabajadores, jubilados o pensionistas podrán manifestar expresamente y por escrito su voluntad ante el Instituto a través del Fondo de la Vivienda en el acto del otorgamiento del crédito o posteriormente, para que en caso de muerte, la adjudicación del inmueble se haga a quien hayan designado como beneficiario. Para que proceda el cambio de beneficiario, el trabajador, jubilado o pensionista deberá solicitarlo igualmente por escrito acompañado de dos testigos ante el Fondo; una vez presentada dicha solicitud, éste deberá comunicar al trabajador, jubilado o pensionista su consentimiento y el registro de los nuevos beneficiarios en un plazo no mayor de 45 días calendario. En caso de controversia el Instituto procederá exclusivamente a la liberación referida y se abstendrá de adjudicar el inmueble.
+
+A falta de beneficiario designado, la adjudicación del inmueble deberá hacerse conforme al orden de prelación que establece el Artículo 112.
+
+El Fondo solicitará al Registro Público de la Propiedad correspondiente, efectuar la inscripción de los inmuebles en favor de los beneficiarios, cancelando en consecuencia la que existiere a nombre del trabajador, jubilado o pensionista con los gravámenes o limitaciones de dominio que hubieren.
 
 ###### Artículo 112.
 
 En los casos de pensión o jubilación, de incapacidad total permanente o muerte, el trabajador o sus beneficiarios tendrán derecho a la entrega de un tanto más del saldo de los depósitos que se hubieren constituido a su favor, de acuerdo a lo establecido en esta Ley. En caso de muerte del trabajador, dicha entrega se hará a sus beneficiarios, en el orden de prelación siguiente:
 
-I. Los que al efecto el trabajador haya designado ante el Instituto;
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+I. Los que al efecto el trabajador, jubilado o pensionista haya designado para estos fines ante el Instituto;
 
 II. La viuda, el viudo y los hijos que dependan económicamente del trabajador en el momento de su muerte;
 
@@ -1058,9 +1182,17 @@ III. Los ascendientes concurrirán con las personas mencionadas en la fracción 
 
 IV. A falta de viuda o viudo, concurrirán con las personas señaladas, en las dos fracciones anteriores, el supérstite con quien el derechohabiente vivió como si fuera su cónyuge durante los cinco años que precedieron inmediatamente a su muerte o con el que tuvo hijos, siempre que ambos hubierán permanecido libres de matrimonio durante el concubinato, pero si al morir el trabajador tenía varias relaciones de esta clase, ninguna de las personas con quienes las tuvo tendrá derecho;
 
-V. Los hijos que no dependan económicamente del trabajador; y
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
-VI. Los ascendientes que no dependan económicamente del trabajador.
+V. Los hijos que no dependan económicamente del trabajador;
+
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+VI. Los ascendientes que no dependan económicamente del trabajador; y
+
+> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+VII. Los colaterales hasta el segundo grado.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 7 DE FEBRERO DE 1985)</small>
 
@@ -1098,9 +1230,23 @@ A los trabajadores que se pensionen o jubilen se les aplicará en lo conducente,
 
 En el caso de que opten por permanecer voluntariamente dentro del régimen del fondo, el Instituto les descontará de sus pensiones las aportaciones a cargo del trabajador pensionado o jubilado, con sujeción a las normas que en materia de aportaciones y entregas de descuentos establece esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
 ###### Artículo 117.
 
-Los créditos a los trabajadores a que se refiere la fracción I del artículo 103 devengarán un interés del 4% anual sobre saldos insolutos descontados ambos de cuando menos el 25% de sueldo básico. Tratándose de créditos para la adquisición o construcción de habitaciones, su plazo no será menor de diez años, pudiendo otorgarse un plazo máximo de veinte años. Para los otros créditos mencionados en la citada fracción I, se podrán fijar plazos menores.
+Los créditos a los trabajadores a que se refiere la fracción I del artículo 103, devengarán intereses sobre saldos insolutos, debiéndose recuperar en una cantidad de cuando menos el 25% del sueldo básico, sobre las siguientes bases:
+
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+A) Tratándose de créditos hipotecarios, el interés anual será del 4% sobre saldos insolutos; y
+
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+B) En el caso de adjudicación de vivienda, se pagará un interés del 4% anual por la cantidad equivalente al monto máximo aprobado para el crédito hipotecario; por la cantidad que exceda de dicho monto los intereses que deberán pagar los beneficiarios serán fijados por la Junta Directiva, a propuesta de la Comisión Ejecutiva del Fondo de la Vivienda.
+
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+Tratándose de créditos para adquisición o construcción de habitaciones, su plazo no será menor de 10 años, pudiendo otorgarse un plazo máximo de 20 años. Para los otros créditos mencionados en la citada Fracción I, se podrán fijar plazos menores.
 
 > <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
@@ -1162,9 +1308,9 @@ Las aportaciones de las dependencias y entidades, así como los descuentos que e
 
 Los servidores públicos o trabajadores de las dependencias o entidades de la Administración Pública responsables de enterar las aportaciones y descuentos, en caso de incumplimiento, serán sancionados en los términos de lo dispuesto en el Título Sexto de la presente Ley.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 7 DE FEBRERO DE 1985)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA, ANTES SECCION SEGUNDA DEL CAPITULO VII], D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
-#### SECCION SEGUNDA. Del Arrendamiento y Venta de Vivienda
+#### SECCION CUARTA. Del Arrendamiento y Venta de Vivienda
 
 > <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
@@ -1256,7 +1402,9 @@ Los pensionistas gozarán de los beneficios de este artículo en los términos q
 
 Los arrendamientos, con opción de venta, de habitaciones a los trabajadores y pensionistas, se regirán por las disposiciones reglamentarias que dicte la Junta Directiva, las que tendrán por objetivo social en todo caso, el beneficio de los mismos.
 
-### CAPITULO VIII. De las Prestaciones Sociales y Culturales
+(REUBICADO [N. DE E. ANTES CAPITULO VIII], D.O.F. 24 DE DICIEMBRE DE 1986)
+
+### CAPITULO I. Continuación Voluntaria en el Régimen Obligatorio del Seguro de Enfermedades, Maternidad y Medicina Preventiva
 
 #### SECCION PRIMERA. Prestaciones Sociales
 
@@ -1308,7 +1456,7 @@ VII. Los demás que acuerde la Junta Directiva.
 
 ## TITULO TERCERO. Del Régimen Voluntario
 
-### CAPITULO I. Continuación Voluntaria en el Régimen Obligatorio del Seguro de Enfermedades, Maternidad y Medicina Preventiva
+### CAPITULO II. La Incorporación Voluntaria al Régimen Obligatorio
 
 ###### Artículo 142.
 
@@ -1334,7 +1482,7 @@ III. Ingresar nuevamente al régimen obligatorio de esta Ley.
 
 El registro de familiares derechohabientes y las demás reglas del seguro contratado se ajustarán a las disposiciones aplicables previstas en esta Ley.
 
-### CAPITULO II. La Incorporación Voluntaria al Régimen Obligatorio
+### CAPITULO III. Disposiciones Especiales
 
 ###### Artículo 146.
 
@@ -1346,7 +1494,7 @@ En los convenios de incorporación que incluyan reconocimiento de antigüedad de
 
 Igualmente en los casos de sustitución del régimen de seguridad social, las reservas constituidas podrán transferirse en favor del Instituto en la forma y términos en que se convengan.
 
-### CAPITULO III. Disposiciones Especiales
+### CAPITULO I. Funciones
 
 ###### Artículo 148.
 
@@ -1356,7 +1504,7 @@ Igual disposición se observará en lo relativo a las incorporaciones señaladas
 
 ## TITULO CUARTO. De las Funciones y Organización del Instituto
 
-### CAPITULO I. Funciones
+### CAPITULO II. Organos de Gobierno
 
 ###### Artículo 149.
 
@@ -1388,7 +1536,7 @@ X. Realizar toda clase de actos jurídicos y celebrar los contratos que requiera
 
 XI. Las demás funciones que le confieran esta Ley y sus Reglamentos.
 
-### CAPITULO II. Organos de Gobierno
+### CAPITULO III. Patrimonio
 
 ###### Artículo 151.
 
@@ -1440,7 +1588,9 @@ II. Examinar para su aprobación y modificación, el programa institucional y lo
 
 III. Decidir las inversiones del Instituto y determinar las reservas actuariales y financieras que deban constituirse para asegurar el otorgamiento de las prestaciones y servicios que determina esta Ley así como también para la operación del Fondo de la Vivienda; y el cumplimiento de sus fines;
 
-IV. Conocer y aprobar en su caso, el informe pormenorizado del estado del Instituto;
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+IV. Conocer y aprobar en su caso, en el primer bimestre del año, el informe pormenorizado del estado que guarde la administración del Instituto;
 
 V. Aprobar y poner en vigor los reglamentos interiores y de servicios del Instituto;
 
@@ -1468,7 +1618,9 @@ XV. En relación con el Fondo de la Vivienda:
 
 A) Examinar y en su caso aprobar, dentro de los últimos tres meses del año, el presupuesto de ingresos y egresos, así como los programas de labores y de financiamiento del fondo para el siguiente año;
 
-B) Examinar y en su caso aprobar, dentro de los cuatro primeros meses del año, los estados financieros que resulten de la operación en el último ejercicio y el informe de actividades de la Comisión Ejecutiva del Fondo;
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+B) Examinar y en su caso aprobar, en el primer bimestre del año, el informe de actividades de la Comisión Ejecutiva del Fondo y, dentro de los cuatro primeros meses del año, los estados financieros que resulten de la operación en el último ejercicio;
 
 C) Establecer las reglas para el otorgamiento de créditos y para la operación de los depósitos relacionados con el Fondo;
 
@@ -1650,7 +1802,9 @@ VI. Designar a un Auditor Externo que auxilie a la Comisión en las actividades 
 
 VII. Las que le fijen el Reglamento Interior del Instituto y las demás disposiciones legales aplicables.
 
-### CAPITULO III. Patrimonio
+### CAPITULO IV. Reservas e Inversiones
+
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
 ###### Artículo 174.
 
@@ -1819,3 +1973,31 @@ En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Consti
 D.O.F. 7 DE FEBRERO DE 1985.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE DICIEMBRE DE 1986.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Los juicios en los que el Instituto sea parte, iniciados con anterioridad a la entrada en vigor del presente Decreto, se seguirán tramitando ante las autoridades que conozcan de los mismos; las controversias judiciales que surjan con posterioridad serán de la competencia de los tribunales federales o del fuero común, según corresponda.
+
+###### ARTICULO TERCERO.
+
+Las solicitudes de pensión cuyo otorgamiento se encuentre pendiente al entrar en vigor el presente Decreto, se resolverán conforme a las reformas que el mismo establece.
+
+###### ARTICULO CUARTO.
+
+Los intereses a favor del Instituto por concepto de reintegro de indemnización global, se causarán a la tasa del 6% anual hasta el 31 de diciembre de 1986 y, a partir de la entrada en vigor del presente Decreto, a las tasas que fije la Junta Directiva.
+
+###### ARTICULO QUINTO.
+
+El Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, conforme a sus políticas de integrar y expander las prestaciones sociales, incorporará y tomará bajo su administración los sistemas de tiendas, centros comerciales, estancias de bienestar infantil y centros deportivos para los trabajadores y sus familiares derechohabientes en operación por las diversas dependencias, entidades, organismos e instituciones de la Administración Pública Federal en toda la República que estén incorporadas a la presente Ley; dicha incorporación será instrumentada operativamente por el Instituto en forma progresiva, según lo permitan las particulares condiciones de cada tienda, centro comercial, estancia de bienestar infantil y centro deportivo y del propio Instituto y debiendo efectuarse la transferencia presupuestal del año respectivo al Instituto.
+
+Las operaciones que se originen por las transferencias indicadas estarán sujetas a convenios firmados por el Instituto y las Dependencias, entidades, organismos e instituciones respectivas y sancionados por la Secretaría de Programación y Presupuesto.
+
+###### ARTICULO SEXTO.
+
+Las designaciones de beneficiarios hechas con antelación ante el Fondo de la Vivienda surtirán los efectos legales consignados en las presentes reformas.
