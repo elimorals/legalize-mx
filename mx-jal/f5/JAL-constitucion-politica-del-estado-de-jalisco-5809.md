@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1990-01-02"
+last_updated: "1991-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 1991.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -43,19 +43,35 @@ Constitución Política del Estado de Jalisco
 
 El Estado es Libre y Soberano en su régimen interior, pero unido a las demás partes integrantes de los Estados Unidos Mexicanos en la Federación establecida por la ley fundamental.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1991)</small>
 
 ###### Art. 2º.
 
-El Gobierno del Estado es republicano, democrático, representativo y popular, tiene como base de su organización política y administrativa el municipio libre.
+El Estado de Jalisco adopta para su régimen interno, la forma de Gobierno Republicano, Democrático, Representativo y Popular, y tiene como base de su división territorial y de su organización política y administrativa, el municipio libre.
 
-El poder público dimana del pueblo quien designa a sus representantes, mediante elecciones que se verifiquen conforme a las normas y procedimientos establecidos en la Ley Electoral.
+Todo poder público dimana del pueblo y se instituye para su beneficio.
 
-Los procesos electorales son funciones de orden público; en consecuencia, compete al Gobierno del Estado, su preparación, desarrollo y vigilancia, con la corresponsabilidad de los partidos políticos registrados y de los ciudadanos.
+> <small>(F. DE E., P.O. 17 DE SEPTIEMBRE DE 1991)</small>
 
-La Ley señalará los organismos que tendrán a su cargo dicha función; establecerá los medios de impugnación para garantizar que sus actos y resoluciones se ajusten a lo dispuesto por esta Constitución y las Leyes que de ella emanen; instituirá un Tribunal de lo Contencioso Electoral, dotado de autonomía y personalidad jurídica propia, que tendrá la organización y atribuciones que la citada Ley le confiera.
+La Soberanía del Estado reside esencial y originalmente en el pueblo, quien lo ejerce por medio de los Poderes Estatales, del modo y en los términos que establecen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las Leyes.
 
-Las resoluciones del Tribunal de lo Contencioso Electoral serán obligatorias y sólo podrán ser modificadas por el Colegio Electoral del Congreso del Estado, que será la última instancia en la calificación de las elecciones, dichas resoluciones tendrán el carácter de inatacables y definitivas.
+Los procesos electorales son funciones de orden público, y tendrán como principios rectores la legalidad, imparcialidad, profesionalismo, certeza y objetividad. Su organización compete a los poderes Legislativo y Ejecutivo del Estado, con la participación corresponsable de los partidos políticos nacionales registrados y de los ciudadanos, conforme a las normas y procedimientos que determine la Ley.
+
+La Ley Electoral señalará la integración y atribuciones de los organismos que realizarán dicha función estatal, los que serán autónomos, de carácter permanente, con personalidad jurídica y patrimonio propios. Las sesiones de todos los órganos colegiados serán públicas, en los términos de la Ley de la materia.
+
+> <small>(F. DE E., P.O. 17 DE SEPTIEMBRE DE 1991)</small>
+
+En la Ley, igualmente se establecerán los medios de impugnación que darán definitividad a las distintas etapas de los procesos electorales y garantizarán que los actos y resoluciones se sujeten, invariablemente, al principio de legalidad previsto por esta Constitución y las leyes, de los que conocerán, respectivamente, los organismos electorales y, el Tribunal de lo Contencioso Electoral, que será un órgano jurisdiccional dotado de autonomía y personalidad jurídica propia, con la organización y competencia que la citada Ley le confiere.
+
+Los actos y las resoluciones que dicte el Tribunal de lo Contencioso Electoral no admiten juicio ni recurso alguno, por lo que tendrán el carácter de definitivos e inatacables, salvo aquellos que se pronuncien con posterioridad a la jornada electoral, que sólo podrán ser revisados y, en su caso, modificados por el Colegio Electoral, en los términos de los Artículos 8º, 23, fracción VII, de esta Constitución.
+
+Dicho órgano jurisdiccional, para el ejercicio de sus funciones, contará con un cuerpo de magistrados y secretarios, los cuales serán independientes y sólo responderán al mandato de la Ley.
+
+Los magistrados del expresado Tribunal deberán satisfacer los requisitos que señale la Ley, que no podrán ser menores a los que establece esta Constitución para ser magistrado del Supremo Tribunal de Justicia del Estado.
+
+> <small>(F. DE E., P.O. 17 DE SEPTIEMBRE DE 1991)</small>
+
+Los consejeros ciudadanos integrantes del Consejo Electoral del Estado, serán propuestos por el Titular del Poder Ejecutivo y se elegirán por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado. Si dicha mayoría no se obtiene en la primera votación, se procederá a insacular, de los candidatos propuestos, el número que corresponda de consejeros ciudadanos. La ley señalará las reglas y el procedimiento correspondiente, así como los requisitos que deben satisfacerse.
 
 ### CAPITULO SEGUNDO. Del Territorio del Estado
 
@@ -63,7 +79,9 @@ Las resoluciones del Tribunal de lo Contencioso Electoral serán obligatorias y 
 
 El Territorio del Estado, es el que le corresponde conforme a la Constitución Federal.
 
-### CAPITULO TERCERO. De los habitantes del Estado
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE AGOSTO DE 1991)</small>
+
+### CAPITULO TERCERO. De los habitantes del Estado y sus derechos
 
 ###### Art. 4º.
 
@@ -86,6 +104,20 @@ Para los efectos de las fracciones III y IV, el hombre y la mujer gozarán de ig
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1984)</small>
 
 V. En los casos de infracciones a los Reglamentos Gubernativos y de Policía, será sancionado con multa o arresto, que no podrá exceder de 36 horas; pero si el infractor no pagare la multa que se le hubiere impuesto, se permutará ésta por arresto hasta por treinta y seis horas. La Ley, los Reglamentos o Bandos de Policía y Buen Gobierno, regularán todo lo relativo a la sanción de las faltas a que alude esta fracción. En tratándose de personas de escasos recursos, dependientes económicos, jornaleros y obreros, en ningún caso, podrán ser castigados con multa mayor del importe de un día de salario mínimo general aplicable a la región. La misma limitación existirá para sancionar a los trabajadores no asalariados.
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 1991)</small>
+
+VI. Participar en la vida política del Estado, en la forma y términos que señalen las leyes, sin que pueda aspirar simultáneamente a diferentes cargos de elección popular en el mismo proceso electoral, ni ser candidato a Diputado por los principios de mayoría relativa o de representación proporcional a la vez;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 1991)</small>
+
+VII. Afiliarse individual y libremente, al partido político nacional de su preferencia, cumpliendo con los requisitos estatutarios, de ingreso.
+
+Para este efecto, se considerará a los partidos políticos nacionales registrados, como entidades de interés público, y formas de organización política, constituidos conforme a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y sus leyes reglamentarias; tienen como fin primordial promover la participación del pueblo en la vida democrática; contribuir a la integración de la representación de los poderes Legislativo y Ejecutivo y de los Ayuntamientos y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del Poder Público, de acuerdo con los programas, principios e ideas que postulen mediante el sufragio universal, libre, secreto y directo.
+
+> <small>(F. DE E., P.O. 17 DE SEPTIEMBRE DE 1991)</small>
+
+Solo los partidos políticos que hubiesen obtenido su registro ante el Instituto Federal Electoral, conforme a lo dispuesto en el Código Federal de Instituciones y Procedimientos Electorales, podrán participar en las elecciones de diputados, gobernador y munícipes, una vez que acrediten su registro ante el Consejo Electoral del Estado. La Ley determinará los derechos, prerrogativas y las formas específicas de su intervención en los procesos electorales.
 
 ###### Art. 5º.
 
@@ -113,9 +145,17 @@ El Congreso del Estado se compondrá de treinta y cuatro Diputados electos en fo
 
 La demarcación territorial de los veinte distritos electorales, será la que resulte de dividir la población total del Estado entre el número de los distritos mencionados y para su distribución se tomará en cuenta el último censo general de población.
 
-El Colegio Electoral del Congreso del Estado calificará la elección de sus miembros, que se integrará con todos los presuntos Diputados electos, tanto por el principio de mayoría relativa como de representación proporcional, que hubiesen obtenido su constancia expedida por el Consejo Electoral del Estado. El Colegio Electoral hará la declaratoria de quiénes son Diputados conforme a la Ley.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1991)</small>
 
-La Diputación Permanente es la facultada para instalar el Colegio Electoral.
+El Colegio Electoral será instalado por la Diputación Permanente del Congreso y calificará la elección de sus miembros. Estará integrado con todos los presuntos diputados electos tanto por el principio de mayoría relativa como de representación proporcional, que hubiesen obtenido su constancia expedida por el Consejo Electoral del Estado. Dicho Colegio hará la declaratoria de quienes son Diputados. Esta declaratoria y todos los demás actos del Congreso, en funciones de Colegio Electoral, son definitivos e inatacables.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 1991)</small>
+
+Las constancias otorgadas a presuntos Diputados, cuya elección no haya sido impugnada ante el Tribunal de lo Contencioso Electoral, serán dictaminadas y sometidas desde luego al Colegio Electoral, para que sean aprobadas en sus términos, salvo que existiesen hechos supervenientes que obliguen a su revisión.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 1991)</small>
+
+Las resoluciones del Tribunal de lo Contencioso Electoral serán obligatorias y sólo podrán ser modificadas o revocadas por el Colegio Electoral del Congreso del Estado, mediante el voto de las dos terceras partes de sus miembros presentes, cuando de su revisión se deduzca que existen violaciones a las reglas en materia de admisión y valoración de pruebas y en la motivación del fallo, o cuando éste sea contrario a derecho.
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 1987)</small>
 
@@ -304,6 +344,10 @@ VIII. Aprobar o rechazar los nombramientos de Magistrados del Supremo Tribunal d
 > <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 1987)</small>
 
 Designar de entre las listas que hubiesen presentado los partidos políticos registrados, a los Magistrados del Tribunal de lo Contencioso Electoral.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 1991)</small>
+
+Designar, igualmente, a las personas que desempeñarán los cargos de consejeros ciudadanos ante el Consejo Electoral del Estado, en la forma y términos establecidos en el último párrafo del Artículo 2º de esta Constitución, así como para conocer de sus renuncias;
 
 IX. Designar en los términos que previene esta Constitución al ciudadano que deba substituir al Gobernador en sus faltas temporales o absolutas.
 
@@ -551,9 +595,29 @@ c) Estar en pleno ejercicio de sus derechos;
 
 d) No ser servidor público de la Federación, el Estado o Municipios de que se trate, ni tener mando de fuerza pública en el mismo, a no ser que se separe del cargo sesenta días antes de la elección. Si se trata del Tesorero Municipal, es preciso que haya rendido sus cuentas a la Contaduría Mayor de Hacienda.
 
-El Congreso, por acuerdo de las dos terceras partes de sus integrantes, podrá declarar que los Ayuntamientos se han desintegrado y suspender o revocar el mandado a algunos de sus miembros, por cualquiera de las causas graves que las leyes prevengan, previo el derecho de audiencia y defensa correspondiente. Si no procediere que entraren en funciones los suplentes, ni que se celebren nuevas elecciones, el Congreso designará entre los vecinos a los Consejos Municipales que concluirán los periodos respectivos.
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 1991)</small>
 
-Si alguno de sus miembros dejare de desempeñar su cargo por causa grave, será substituido por un suplente, o se procederá según lo disponga la Ley.
+Los munícipes de representación proporcional serán asignados a los partidos políticos conforme a los procedimientos, fórmulas y sistemas que disponga la Ley Electoral y las siguientes bases generales:
+
+> <small>(F. DE E., P.O. 17 DE SEPTIEMBRE DE 1991)</small>
+
+1ª. Sólo tendrán derecho a participar en la asignación de regidores de representación proporcional, los partidos políticos que no hubiesen alcanzado el triunfo por mayoría relativa, en el municipio de que se trate y que, además, reúnan los siguientes requisitos:
+
+a) Tener registradas planillas en, por lo menos, una tercera parte del total de los Municipios de la Entidad, y
+
+b) Alcanzar, por lo menos, el 4% del total de la votación municipal emitida en el Municipio correspondiente y, en caso de coalición, el 6% del total de la votación municipal emitida.
+
+2ª. En la asignación de regidores de representación proporcional, en los Ayuntamientos en que puedan acreditarse más de uno, se respetará el orden de los candidatos en que los partidos, que tengan derecho a ello, los hubiesen propuesto.
+
+3ª. En los Municipios en que la población no exceda de ochenta mil habitantes, habrá siete regidores electos por el principio de mayoría relativa y se asignará uno de representación proporcional.
+
+4ª. En los que exceda de ochenta mil, pero no de quinientos mil habitantes, se elegirán nueve regidores por el principio de mayoría relativa y se asignarán hasta cuatro ediles de representación proporcional.
+
+5ª. En los que su población exceda de quinientos mil habitantes, habrá once regidores electos por el principio de mayoría relativa y se asignarán hasta cinco regidores de representación proporcional.
+
+(REFORMADO, P.O. 20 DE AGOSTO DE 1991)(F. DE E., P.O. 17 DE SEPTIEMBRE DE 1991)
+
+El Congreso, por acuerdo de las dos terceras partes de sus integrantes, podrá declarar que los Ayuntamientos se han desintegrado y suspender o revocar el mandato a algunos de sus miembros por cualesquiera de las causas graves que las leyes provengan (sic), previo el derecho de audiencia y defensa correspondiente. Si no procediere que entraren en funciones los suplentes, ni que se celebren nuevas elecciones, el Congreso designará entre los vecinos a los Concejos Municipales que concluirán los periodos respectivos. De igual forma procederá en caso de nulidad de elecciones y expedirá la convocatoria para éstas en un término no mayor de dos meses, salvo que concurran circunstancias que ameriten ampliar dicho plazo.
 
 II. Los Ayuntamientos están investidos de facultades para expedir y aplicar los Bandos de Policía y Buen Gobierno, Reglamentos, Circulares y Disposiciones Administrativas de observancia general, dentro de sus respectivas jurisdicciones, conforme a las bases que establezcan las Leyes.
 
@@ -1160,3 +1224,9 @@ Segundo.- La reforma al Art. 24 de la Constitución Política del Estado de Jali
 P.O. 2 DE ENERO DE 1990.
 
 Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco, una vez que haya sido aprobado por la mayoría de los Ayuntamientos del Estado de Jalisco, en los términos que dispone el Art. 66 de la Constitución Política Local.
+
+P.O. 20 DE AGOSTO DE 1991.
+
+Artículo Primero. En tanto se expidan las nuevas normas reglamentarias en materia electoral, seguirá en vigor la Ley Electoral del Estado de Jalisco, contenida en el Decreto 12817, del veinticinco de octubre de mil novecientos ochenta y siete.
+
+Artículo Segundo. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
