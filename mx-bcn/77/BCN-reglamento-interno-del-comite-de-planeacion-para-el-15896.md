@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-del-comite-de-planeacion-para-el-15896"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-01-28"
-last_updated: "2000-08-18"
+last_updated: "2003-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DEL COMITE DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 2003.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 28 de enero de 2000.
 
@@ -55,17 +55,25 @@ El presupuesto del COPLADE y los lineamientos para su ejecución, se sujetarán 
 
 ### CAPÍTULO II. DE LA ORGANIZACIÓN DEL COPLADE
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 6o.
 
-Para el estudio, planeación, despacho y mejor desempeño de las responsabilidades que le competen al COPLADE, este contará con lo siguientes órganos, funcionarios y unidades administrativas:
+Para el estudio, planeación, despacho y mejor desempeño de las responsabilidades que le competen al COPLADE, contará con lo siguientes órganos:
 
 I.- Asamblea Plenaria;
 
-II.- La Junta Directiva;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2003)</small>
 
-III.- Un Director;
+II.- Junta Directiva;
 
-IV.- El Comisariato.
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2003)</small>
+
+III.- Dirección;
+
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2003)</small>
+
+IV.- Comisariato.
 
 ### CAPÍTULO III. DE LA ASAMBLEA PLENARIA
 
@@ -83,11 +91,15 @@ Para los efectos de lo señalado en las fracciones V, VI, VII, VIII y IX del art
 
 El cargo de los miembros de la Asamblea Plenaria será honorífico, quienes lo integren no percibirán retribución, emolumento o compensación alguna por su desempeño.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 10.
 
-La Asamblea Plenaria, para el adecuado cumplimiento de sus atribuciones, contará con los siguientes órganos y funcionarios:
+La Asamblea Plenaria, para el adecuado cumplimiento de sus atribuciones, contará con:
 
-I.- El Presidente;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2003)</small>
+
+I.- La Presidencia;
 
 II.- La Coordinación General;
 
@@ -101,7 +113,9 @@ IV.- Los subcomités.
 
 De las sesiones de la Asamblea Plenaria:
 
-I.- La Asamblea Plenaria celebrará sesiones cuando menos una vez al año, en el lugar, fecha y hora que se indique en la convocatoria correspondiente;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2003)</small>
+
+I.- La Asamblea Plenaria celebrará sesiones para dar a conocer el Plan Estatal de Desarrollo y sus respectivas actualizaciones, y cuando por la relevancia de los trabajos de planeación lo consideren el Presidente y el Coordinador General de la misma, en el lugar, fecha y hora que se indique en la convocatoria correspondiente;
 
 II.- La Asamblea Plenaria sesionará con el quórum correspondiente, entendiéndose por éste, la asistencia del Presidente, el Coordinador General, el Secretario Técnico y los representantes de las Dependencias y Entidades Federales y Estatales que se encuentren presentes;
 
@@ -147,25 +161,27 @@ VI.- Convocar a sesiones, para tratar asuntos que por la naturaleza e importanci
 
 El Coordinador General tendrá las siguientes facultades y obligaciones:
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2003)</small>
 
-I.- Coordinar la operación de los Subcomités;
+I.- Coordinar la operación y funcionamiento del COPLADE;
 
-II.- Convocar a sesiones de la Asamblea Plenaria y de los Subcomités;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2003)</small>
+
+II.- Convocar a las sesiones de la Asamblea Plenaria;
 
 III.- Formular la agenda para las sesiones de Asamblea Plenaria y someterla a la consideración de esta;
 
 IV.- Coordinar la elaboración de los trabajos que en cumplimiento de las atribuciones del COPLADE determine la Asamblea Plenaria;
 
-V.- Elaborar el Directorio de los integrantes de la Asamblea Plenaria, el cual deberá mantenerse actualizado;
+V.- (DEROGADA, P.O. 16 DE MAYO DE 2003)
 
 VI.- Realizar el seguimiento de los acuerdos de la Asamblea Plenaria;
 
 VII.- Difundir las resoluciones y trabajos de la Asamblea Plenaria;
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2003)</small>
 
-VIII.- Autorizar la creación de los Subcomités Sectoriales, Regionales y Especiales que le soliciten.
+VIII.- Autorizar la creación de subcomités.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2000)</small>
 
@@ -175,9 +191,13 @@ Para el adecuado desarrollo de las sesiones de la Asamblea Plenaria, el Coordina
 
 I.- Llevar el registro de asistencia de los miembros de la Asamblea Plenaria en las sesiones respectivas;
 
-II.- Levantar las actas de cada una de las sesiones de la Asamblea Plenaria y consignarlas a firma del Coordinador General y del Secretario Técnico, en el libro respectivo;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2003)</small>
 
-III.- Leer el acta de la sesión anterior en las reuniones de la Asamblea Plenaria;
+II.- Levantar las actas de cada una de las sesiones de la Asamblea Plenaria, rubricándolas conjuntamente con el Coordinador General en el libro respectivo;
+
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2003)</small>
+
+III.- Elaborar el directorio de los integrantes de la Asamblea Plenaria, el cual deberá mantenerse actualizado;
 
 IV.- Cuidar que circulen con oportunidad entre los miembros de la Asamblea Plenaria, las actas de las sesiones, las agendas y programas de trabajo, las ordenes del día y la documentación que se deba conocer en las sesiones correspondientes;
 
@@ -193,11 +213,11 @@ ARTICULO 17;- La Coordinación General de la Asamblea Plenaria, coadyuvará de m
 
 Para efectos de las funciones de control y evaluación, la Coordinación General podrá apoyarse en la Dirección de Control y Evaluación Gubernamental, quien ejercerá las atribuciones que en dicha materia le otorga el Acuerdo del Ejecutivo Estatal, publicado en el Periódico Oficial del Estado con fecha 20 de julio de 1985.
 
-> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 19.
 
-Para efectos de la función de inversión pública, en el marco de los Convenios de Desarrollo Social celebrados entre el Ejecutivo Federal y el Ejecutivo Estatal, la Coordinación General podrá apoyarse en la Unidad Administrativa de la Secretaría de Planeación y Finanzas que tenga encomendada dicha función, quien ejercerá las atribuciones que en dicha materia le otorgue su Reglamento Interno, publicado en el Periódico Oficial del Estado con fecha 28 de agosto de 1998.
+Para efectos de la función de inversión pública, en el marco de los Convenios de Desarrollo Social celebrados entre el Ejecutivo Federal y el Ejecutivo Estatal, la Coordinación General podrá apoyarse en la Unidad Administrativa de la Secretaría de Planeación y Finanzas que tengan encomendada dicha función, quien ejercerá las atribuciones que en dicha materia le otorgue su Reglamento Interno.
 
 #### SECCIÓN IV. DE LA SECRETARÍA TÉCNICA
 
@@ -237,15 +257,17 @@ II.- Cuando los programas a los que da seguimiento han sido suprimidos o transfe
 
 Los Subcomités contarán con las siguientes atribuciones:
 
-I.- Formular, instrumentar, controlar y evaluar los programas sectoriales, regionales o especiales que les corresponda atender de conformidad a su acuerdo de creación;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2003)</small>
 
-II.- Elaborar el programa de mediano plazo del Sector, Región o Área Especial que les corresponda atender;
+I.- Formular, instrumentar, controlar y evaluar los programas o proyectos que les corresponda atender de manera coordinada entre sus miembros de conformidad con su acuerdo de creación;
+
+II.- (DEROGADA, P.O. 16 DE MAYO DE 2003)
 
 III.- Poner a la consideración del Coordinador General los trabajos que realicen en cumplimiento de las atribuciones del COPLADE;
 
 IV.- Realizar los trabajos que les encomienden, tanto la Asamblea Plenaria como la Coordinación General, para coadyuvar al cumplimiento de los propósitos del COPLADE;
 
-V.- Elaborar el programa operativo anual de trabajo del Subcomité y ponerlo a la consideración de la Coordinación General;
+V.- (DEROGADA, P.O. 16 DE MAYO DE 2003)
 
 VI.- Elaborar el informe anual de actividades del Subcomité, mismo que hará del conocimiento de la Coordinación General;
 
@@ -287,11 +309,17 @@ VII.- El calendario de operación, especificando fechas, actividades y metas;
 
 VIII.- El presupuesto de operación del Subcomité y las fuentes de financiamiento del mismo;
 
-IX.- En el caso de ser un Subcomité especial transitorio, el tiempo que durará operando.
+IX.- En el caso de ser un Subcomité especial transitorio, el tiempo que durará operando;
+
+> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2003)</small>
+
+X.- La competencia de la dependencia estatal relacionada con la temática a tratar.
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 26.
 
-Todo Subcomité Especial deberá tener como miembro con voz y voto a un representante designado por la Coordinación General. Este representante será a la vez el Asesor Técnico del Subcomité o Grupo de Trabajo.
+Todo Subcomité deberá tener como miembro con voz y voto a un representante designado por la Dirección del COPLADE. Este representante será a la vez el Asesor Técnico del Subcomité o Grupo de Trabajo.
 
 ### CAPÍTULO IV. DE LA JUNTA DIRECTIVA
 
@@ -317,35 +345,47 @@ Los miembros titulares y suplentes de la Junta Directiva, no podrán gozar de re
 
 #### SECCIÓN I. DE LAS SESIONES
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 32.
 
-La Junta Directiva celebrará sesiones ordinarias por lo menos cada tres meses y extraordinarias cuando así se requiera, previa convocatoria, de las primeras, por el Presidente de la misma y las segundas, por el Director o cualesquiera de los vocales titulares, integrándose el quórum con la presencia de la mitad más uno de sus miembros, dentro de los cuales deberá estar siempre el Presidente o la persona que lo sustituya, sujetando los trabajos al orden del día elaborado previamente.
+La Junta Directiva celebrará sesiones ordinarias por lo menos cada tres meses y extraordinarias cuando así se requiera, previa convocatoria del Director del COPLADE con la aprobación del Presidente de la misma.
+
+Para ambas sesiones el quórum se integrará con la presencia de la mayoría de sus miembros, dentro de los cuales deberá estar presente el Presidente o la persona que lo supla o aquel designe, sujetando los trabajos al orden del día elaborado previamente.
 
 ###### ARTICULO 33.
 
 Las sesiones de la Junta Directiva iniciarán con la firma de la lista de asistencia, lectura del acta de la sesión anterior y enseguida los puntos a tratar en la sesión, finalizando con el registro de acuerdos tomados en la misma.
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 34.
 
-En cada sesión el Secretario de la Junta Directiva levantará acta, la cual, previa aprobación de la misma será firmada por cada uno de los vocales titulares y el Presidente o suplente.
+De cada sesión el Secretario de la Junta Directiva levantará acta, la cual será firmada por cada uno de los vocales titulares, el Presidente o sus respectivos suplentes.
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 35.
 
-El Presidente de la Junta Directiva podrá invitar a las sesiones de dicho órgano a representantes de Instituciones Públicas Federales o Estatales que guarden relación con el objeto del COPLADE.
+El Presidente de la Junta Directiva podrá invitar a las sesiones de dicho órgano, a representantes de Instituciones Públicas y Sociales que guarden relación con el objeto del COPLADE, quienes podrán participar tan solo con derecho a voz.
 
 ###### ARTICULO 36.
 
 La Junta Directiva podrá establecer Comisiones de Estudio y Dictamen permanentes o transitorias cuando así lo estime conveniente.
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 37.
 
-La Convocatoria que al efecto se expida, deberá cumplir por lo menos con los siguientes requisitos:
+Las Convocatorias que se expidan para la celebración de sesiones ordinarias, deberán cumplir por lo menos con los siguientes requisitos:
 
-I.- Ser elaborada en forma escrita y del conocimiento de los miembros de la Junta Directiva con cinco días de anticipación;
+I.- Ser elaborada en forma escrita y hacerse del conocimiento de los miembros de la Junta Directiva con cinco días de anticipación;
 
-II.- Contener invariablemente un orden del día, con los asuntos a tratar, que serán materia de la sesión;
+II.- Contener invariablemente un orden del día, con los asuntos a tratar que serán materia de la sesión;
 
-III.- La convocatoria contendrá un apartado con asuntos generales a tratar.
+El orden del día deberá contener un apartado con asuntos generales a tratar.
+
+Las convocatorias que se expidan para la celebración de sesiones extraordinarias, contarán con los mismos requisitos que se exigen para las ordinarias, a excepción de la notificación que será por lo menos con veinticuatro horas de anticipación. En este tipo de sesiones sólo podrán tratarse los asuntos que motivaron la convocatoria.
 
 #### SECCIÓN II. DE LA PRESIDENCIA
 
@@ -375,7 +415,7 @@ I.- Someter a la consideración de los vocales titulares o suplentes presentes e
 
 II.- Formular, de acuerdo con el Presidente de la Junta Directiva el orden del día;
 
-III.- ( REFORMADA [N. DE E. DEROGADA], P.O. 18 DE AGOSTO DE 2000)
+III.- (REFORMADA [N. DE E. DEROGADA], P.O. 18 DE AGOSTO DE 2000)
 
 IV.- Asistir puntualmente a las reuniones de la Junta Directiva;
 
@@ -594,3 +634,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO
 
 A la entrada en vigor del presente ordenamiento, cuando en el contenido del Decreto que crea al Comité de Planeación para el Desarrollo del Estado publicado en el Periódico Oficial del Estado de fecha 23 de Julio de 1999, se haga referencia al Comité, se entenderá que se trata del COPLADE.
+
+P.O. 16 DE MAYO DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
