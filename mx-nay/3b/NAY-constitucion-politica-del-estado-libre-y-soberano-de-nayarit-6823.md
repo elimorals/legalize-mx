@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1980-06-25"
+last_updated: "1980-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 1980.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -705,11 +705,11 @@ a). El Gobernador substituto Constitucional o el designado para concluir el per�
 
 b). El Gobernador Interino, el Provisional o el Ciudadano que bajo cualquier denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1976)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1980)</small>
 
 ###### Art. 66.
 
-Si al comenzar el período Constitucional no se presentare el Gobernador Electo, o la elección no estuviere hecha ni declarada el 15 de noviembre, cesará sin embargo, el Gobernador cuyo período hubiere terminado y entonces, como en las faltas repentinas, se encargará desde luego del Poder Ejecutivo con el carácter de interino, el Ciudadano que la Legislatura designe, si ésta estuviere en funciones, en caso contrario lo designará la Diputación Permanente en los términos establecidos en esta misma Constitución.
+Si al comenzar el período Constitucional no se presentare el Gobernador electo, o la elección no estuviere hecha ni declarada el 18 de Septiembre, cesará sin embargo, el Gobernador cuyo período hubiere terminado, entonces, como en las faltas repentinas, se encargará desde luego del Poder Ejecutivo con el carácter de interino, el Ciudadano que la Legislatura designe si ésta estuviere en funciones, en caso contrario lo designará la Diputación permanente en los términos establecidos en esta misma Constitución.
 
 ###### Art. 67.
 
@@ -931,17 +931,17 @@ El ejercicio del Poder Judicial se deposita en un cuerpo que se denominará Supr
 
 El Supremo Tribunal de Justicia del Estado, se compondrá de tres Magistrados Propietarios y tres Suplentes o Supernumerarios.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1976)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1980)</small>
 
 ###### Art. 83.
 
-Los Magistrados del Supremo Tribunal de Justicia del Estado, serán nombrados por el Gobernador el día dieciséis de noviembre de los años respectivos, y los nombramientos serán sometidos a la aprobación del Congreso, en los términos de la Fracción IX del Artículo 47 de esta Constitución.
+Los Magistrados del Supremo Tribunal de Justicia del Estado, serán nombrados por el Gobernador el día veinte de Septiembre de los años respectivos, y los nombramientos serán sometidos a la aprobación del Congreso, en los términos de la Fracción IX del Artículo 47 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1976)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1980)</small>
 
 ###### Art. 84.
 
-Los Magistrados del Supremo Tribunal de Justicia, durarán en sus funciones seis años, no pudiendo ser movidos sin previo juicio de responsabilidades, en el que se pronuncie sentencia condenatoria. Tomarán posesión el día veinte del mismo mes de noviembre, en que se inicie el ejercicio constitucional del Gobernador del Estado.
+Los Magistrados del Supremo Tribunal de Justicia, durarán en sus funciones seis años, no pudiendo ser removidos sin previo juicio de responsabilidades, en el que se pronuncie sentencia condenatoria. Tomarán posesión el día veinticuatro del mismo mes de Septiembre, en que se inicie el ejercicio Constitucional del Gobernador del Estado.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
@@ -955,7 +955,9 @@ II.- Poseer título profesional de abogado expedido por Autoridad o corporación
 
 III.- Ser de buena conducta y haberla observado intachable, pública y notoriamente.
 
-IV.- Tener no menos de treinta ni más de sesenta años cumplidos, el día de la elección.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 1980)</small>
+
+IV.- Tener no menos de 30 años de edad cumplidos el día del nombramiento.
 
 ###### Art. 86.
 
@@ -1101,9 +1103,11 @@ II.- Su Ley de Ingresos, con la limitación que señala el artículo 115 Bis de 
 
 Los Ayuntamientos mandarán al Congreso todas sus cuentas a más tardar treinta días después de terminado el año y dentro de los primeros cinco días de cada mes, las cuentas correspondientes al mes anterior.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1980)</small>
+
 ###### Art. 111.
 
-El Presidente Municipal tres días antes de cesar, rendirá ante el Ayuntamiento un informe de todas las labores que dicha Corporación hubiere llevado a cabo en su periodo, y a este informe se le dará la publicidad debida.
+El Presidente Municipal anualmente, en sesión solemne del Ayuntamiento, informará de las labores realizadas por éste durante su ejercicio Constitucional.
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1947)</small>
 
@@ -1317,7 +1321,7 @@ DIPUTADO POR EL 14º DISTRITO ELECTORAL.
 
 Pablo Retes, Z., Vice-Presidente, Diputado por el Primer Distrito Electoral.- Marcos Esmerio, Diputado por el Segundo Distrito Electoral.- M.L. Urbina, Diputado por el Tercer Distrito Electoral.- Francisco Amézquita, Diputado por el Cuarto Distrito Electoral.- F. R. Pérez, Diputado por el Quinto Distrito Electoral.- Manuel Guzmán, Diputado Suplente por el Sexto Distrito Electoral.- Fidencio Estrada, Diputado por el Séptimo Distrito Electoral.- José María Ledón, Diputado por el Octavo Distrito Electoral.- J. Aguiar Béjar, Diputado Suplente por el Décimo Distrito Electoral.- Francisco N. Arroyo, Diputado por el Décimosegundo Distrito Electoral.- Antonio de P. Monroy, Diputado por el Décimotercero Distrito Electoral.- Mig. C. Madrigal, Diputado por el Décimoquinto Distrito Electoral.- F. R. Corona, Primer Secretario, Diputado por el Noveno Distrito Electoral.- Alfredo Robles, Segundo Secretario, Diputado por el Décimo Primero Distrito Electoral.
 
-Por lo tanto mando se imprima, publique por Bando Solemne, circule y se le dé el más exacto cumplimiento.
+Por lo tanto mando se imprima, publique por Bando Solemne, circule y sé le dé el más exacto cumplimiento.
 
 Dado en el Palacio del Poder Ejecutivo en Tepic, Nay., a los cinco días del mes de febrero de mil novecientos diez y ocho.
 
@@ -1371,7 +1375,7 @@ P.O. 12 DE DICIEMBRE DE 1929.
 
 El presente decreto comenzará a surtir sus efectos legales a partir del día de su promulgación.
 
-P.O. 5 DE ENERO DE 1930
+P.O. 5 DE ENERO DE 1930.
 
 El presente decreto comenzará a surtir sus efectos legales a partir del día de su promulgación.
 
@@ -1449,11 +1453,11 @@ P.O. 24 DE AGOSTO DE 1938.
 
 UNICO.- El presente Decreto surte sus efectos desde la fecha de su publicación, en el Periódico Oficial del Estado, y deroga todas las disposiciones que se opongan a su cumplimiento.
 
-P.O. 7 DE ENERO DE 1939
+P.O. 7 DE ENERO DE 1939.
 
 UNICO.- El presente Decreto surte sus efectos a partir del día primero de enero de mil novecientos treinta y nueve.
 
-P.O. 27 DE NOVIEMBRE DE 1940
+P.O. 27 DE NOVIEMBRE DE 1940.
 
 ART. PRIMERO.- Los juicios de responsabilidad oficial que se encuentren instaurados en contra de Ayuntamientos en general o de CC. Regidores en particular, se declaran sujetos a la revisión del H. Congreso, para lo cual el Magistrado del Supremo Tribunal o el Procurador General de Justicia del Estado, en su caso, remitirán al propio Congreso los expedientes respectivos dentro del término de diez días contados desde la fecha en que entre en vigor esta disposición.
 
@@ -1599,6 +1603,10 @@ PRIMERO.- El presente Decreto entrará en vigor a partir del día de su publicac
 
 SEGUNDO.- Las Instituciones de Educación Superior, dotadas de autonomía, deberán presentar en el mes de abril su Informe anual, a que se refiere la Fracción XXVI del Artículo 47 de la Constitución Política del Estado.
 
-P.O. 25 DE JUNIO DE 1980
+P.O. 25 DE JUNIO DE 1980.
 
 UNICO.- Este Decreto entrará en vigor en la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE JULIO DE 1980.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
