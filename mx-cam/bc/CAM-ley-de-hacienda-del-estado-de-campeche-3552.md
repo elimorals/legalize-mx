@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-3552"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-11"
-last_updated: "1995-12-26"
+last_updated: "1996-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 11 de diciembre de 1992.
 
@@ -46,6 +46,30 @@ LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 ###### ARTICULO 1.
 
 La Hacienda Pública del Estado de Campeche, para atender los gastos y cumplir las obligaciones de su administración, organización y prestación de servicios públicos, percibirá en cada ejercicio fiscal los ingresos que por concepto de impuestos, derechos, productos, aprovechamientos, ingresos extraordinarios y participaciones que autorice la Ley de Ingresos que anualmente aprueba el Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+La Hacienda Pública del Estado de Campeche se compone:
+
+I.- De los ingresos provenientes de los impuestos sobre honorarios por servicios médicos profesionales, al comercio de libros, periódicos y revistas, sobre espectáculos públicos, sobre nóminas.
+
+II.- De los ingresos provenientes de los derechos derivados de la prestación de servicios públicos.
+
+III.- De los ingresos provenientes de los productos derivados de la enajenación de bienes muebles e inmuebles propiedad del Estado; el importe de los arrendamientos de bienes muebles e inmuebles propiedad del Estado; por servicios prestados por los talleres gráficos del Estado y periódico Oficial; por bienes mostrencos y vacantes; por instituciones de asistencia social; por aquellos que deriven de los contratos o leyes que lo establezcan y por la explotación de los recursos naturales propiedad de la Federación que se encuentren en el territorio del Estado, conforme a los términos y proporciones que le asignen las leyes y convenios relativos.
+
+IV.- De los ingresos provenientes de los aprovechamientos originados por conceptos de rezagos, recargos, garantías y multas, reintegros, donaciones, préstamos y aquellos que se deriven de concesiones y contratos, indemnizaciones a favor del Estado, fianzas cuya pérdida se declare por resolución firme a favor del Estado y gastos de administración e incentivos derivados de los convenios y sus anexos.
+
+V.- De los ingresos extraordinarios tales como financiamientos, impuestos y derechos extraordinarios, expropiaciones, contribuciones de mejoras, apoyos financieros federales y 1% sobre obras que se realicen en el Estado.
+
+VI.- De las participaciones que por ingresos federales se le asignen de acuerdo con lo dispuesto en la ley federal de la materia, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, y el Convenio de Colaboración Administrativa en materia Fiscal Federal y sus anexos.
+
+VII.- De las utilidades de los organismos descentralizados de carácter estatal, empresas de participación estatal y fideicomisos.
+
+VIII.- De ingresos provenientes de las tasas adicionales que, en su caso, fije la Legislatura Local;
+
+IX.- De los capitales y créditos a favor del Estado, así como las donaciones, herencias y legados que reciba; y
+
+X.- De los bienes muebles e inmuebles propiedad del Estado.
 
 ###### ARTICULO 2.
 
@@ -919,6 +943,366 @@ a) Por el registro a concurso 6
 
 b) Por inscripción y venta de bases 9 a 35
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+II.- Por el ingreso que perciban por los servicios que prestan los organismos, de acuerdo a las cuotas o tarifas siguientes:
+
+a). HOSPITAL "MANUEL CAMPOS"
+
+Por los servicios que preste el Hospital cobrará:
+
+IMPORTES
+
+Consulta de Neurocirugía $50.00
+
+Consulta de Neurología 50.00
+
+Consulta de Medicina Interna 50.00
+
+Consulta de Cardiología 50.00
+
+Consulta de Neumología 50.00
+
+Consulta de Ginecología 50.00
+
+Consulta de Pediatría 50.00
+
+Consulta de Traumatología y Ortopedia 50.00
+
+Consulta de Cirugía General 50.00
+
+Consulta de Geriatría 50.00
+
+Consulta de Comunicación y Audiología 50.00
+
+Consulta de Rehabilitación 50.00
+
+Consulta de Clínica de Displasias 10.00
+
+Cirugías Neurológicas 2000
+
+Cirugías (Especialidades) 1000
+
+Estudios de Tomografía Computada 500
+
+Ultrasonografía 120
+
+Mastografía 300
+
+Rayos X 50
+
+Estudios de Laboratorio 20
+
+Asimismo, los ingresos que obtenga por la venta de fármacos, biológicos y material de curación, deberán ser concentrados en las oficinas recaudadoras de la Secretaría de Finanzas y Administración.
+
+b) HOSPITAL PSIQUIATRICO "MANUEL CAMPOS"
+
+Las cuotas de recuperación del Hospital Psiquiátrico son:
+
+IMPORTES
+
+Pre-Consulta $10.00
+
+Revaloraciones 10.00
+
+1.- A Exento
+
+2.- B 10.00
+
+3.- C 16.00
+
+4.- D 20.00
+
+5.- E 30.00
+
+6.- E-1 40.00
+
+7.- F 50.00
+
+El rubro señalado como exento en el cuadro anterior corresponde a las siguientes Instituciones: Preceptoría de Menores, Internos del Centro de Readaptación Social, Hogar de Ancianos, Aldeas Infantiles, Casa Hogar y, previo estudio socioeconómico.
+
+CUOTAS DE RECUPERACION POR PRUEBAS PSICOLOGICAS
+
+B C D E F F-2
+
+Bender/Benton
+
+$7.00 $8.00 $12.00 $15.00 $18.00 $20.00
+
+Machover
+
+7.00 8.00 12.00 15.00 18.00 20.00
+
+H.T.P.
+
+7.00 8.00 12.00 15.00 18.00 20.00
+
+Goodenough
+
+7.00 8.00 12.00 14.00 17.00 20.00
+
+Test de la familia
+
+7.00 8.00 12.00 14.00 17.00 20.00
+
+Ejecución y discriminación
+
+7.00 8.00 12.00 14.00 17.00 20.00
+
+Dislexia
+
+8.00 10.00 13.00 15.00 18.00 20.00
+
+Frosting
+
+17.00 19.00 21.00 23.00 26.00 30.00
+
+Sacks
+
+7.00 9.00 12.00 14.00 17.00 20.00
+
+Inventario de Intereses Juveniles
+
+8.00 10.00 12.00 15.00 18.00 20.00
+
+Intereses de Ansiedad: Edo-Rasgo
+
+8.00 10.00 12.00 15.00 18.00 20.00
+
+M.M.P.I
+
+10.00 12.00 15.00 16.00 19.00 25.00
+
+M.M.P.I.R.
+
+11.00 13.00 15.00 17.00 20.00 25.00
+
+Geist (Intereses)
+
+8.00 10.00 12.00 15.00 18.00 20.00
+
+Raven (Escala General)
+
+7.00 9.00 12.00 14.00 17.00 20.00
+
+Raven (Escala Especial)
+
+7.00 9.00 12.00 14.00 17.00 20.00
+
+Barsit
+
+8.00 10.00 13.00 15.00 18.00 20.00
+
+Beta II-R
+
+10.00 12.00 14.00 16.00 19.00 22.00
+
+Test de Anstey-Dominos
+
+7.00 9.00 12.00 14.00 17.00 20.00
+
+Wais
+
+11.00 13.00 16.00 18.00 21.00 25.00
+
+Wisc
+
+11.00 13.00 16.00 18.00 21.00 25.00
+
+Wisc-RM
+
+12.00 14.00 16.00 18.00 21.00 25.00
+
+WPPSI
+
+12.00 14.00 16.00 18.00 21.00 25.00
+
+T.A.T.
+
+7.00 9.00 12.00 14.00 17.00 20.00
+
+C.A.T.-A
+
+7.00 9.00 12.00 14.00 17.00 20.00
+
+C.A.T.-H
+
+7.00 9.00 12.00 14.00 17.00 20.00
+
+S.A.T.
+
+7.00 9.00 12.00 14.00 17.00 20.00
+
+Purdue (Test No Verbal)
+
+8.00 10.00 12.00 14.00 18.00 22.00
+
+Test de la Memoria Auditiva Inmediata
+
+10.00 13.00 15.00 17.00 20.00 24.00
+
+Evaluación de la Afasia
+
+11.00 14.00 16.00 18.00 21.00 25.00
+
+Kuder (Preferencias) Vocacionales
+
+10.00 13.00 16.00 18.00 20.00 24.00
+
+D.A.T. (Vocacional)
+
+18.00 19.00 21.00 23.00 26.00 30.00
+
+Batería de Aptitudes Generales
+
+8.00 10.00 12.00 15.00 18.00 20.00
+
+Dominio-Sometimiento
+
+8.00 10.00 13.00 15.00 18.00 20.00
+
+Angeline (Orientación Vocacional)
+
+7.00 9.00 12.00 14.00 17.00 20.00
+
+Hereford (Interés Vocacional)
+
+7.00 9.00 12.00 14.00 17.00 20.00
+
+Thurstone (Interés Vocacional)
+
+7.00 9.00 12.00 14.00 17.00 20.00
+
+Asimismo, los ingresos que obtenga por la venta de fármacos, biológicos y material de curación, deberán ser concentrados en las oficinas recaudadoras de la Secretaría de Finanzas y Administración.
+
+c) INSTITUTO CAMPECHANO
+
+INGRESOS ESCOLARES
+
+COSTO COSTO
+
+PREPARATORIA LICENCIATURA
+
+Inscripciones
+
+$ 125.00 $ 125.00
+
+Colegiaturas
+
+80.00 90.00
+
+Examen de Admisión
+
+140.00 140.00
+
+Curso de Introducción
+
+90.00 125.00
+
+Elaboración de Credenciales
+
+12.00 12.00
+
+Seguro de Accidentes Escolares
+
+23.00 23.00
+
+Portacredencial
+
+17.00 17.00
+
+Derechos por Expedición de Certificados
+
+115.00 115.00
+
+Derechos por Expedición de Constancias
+
+90.00 90.00
+
+Derechos por Cotejo de Planes y Revalidaciones
+
+160.00 160.00
+
+Derechos por Examen a Título de Suficiencia
+
+90.00 90.00
+
+Derechos por Examen Extraordinario
+
+80.00 80.00
+
+Derechos por Cotejo de Documentos
+
+28.00 28.00
+
+Derecho de Asesoría
+
+28.00
+
+Derecho por Expedición de Servicio Social
+
+80.00
+
+Derechos por Expedición de Carta de Pasante
+
+110.00
+
+Derecho por Examen Profesional
+
+280.00
+
+Derecho por Expedición de Carta de Grado
+
+110.00
+
+Derecho por Firmas de Título Profesional
+
+125.00
+
+Derecho de Hoja de Piel
+
+125.00
+
+Servicios Deportivos
+
+34.00 34.00
+
+Material de Apoyo
+
+34.00 34.00
+
+Constancia Provisional
+
+17.00 17.00
+
+Servicio Fotográfico
+
+46.00 46.00
+
+Escuela de Posgrado y Maestría
+
+1,495.00
+
+Diplomado en Pedagogía
+
+1,495.00
+
+OTROS INGRESOS COSTO
+
+Renta de Nevería $ 3,000.00
+
+Constancia de Pago 25.00
+
+Fotocopias 0.35
+
+Duplicado de Credencial 23.00
+
+Recargos 0.10%
+
+Alquiler Teatro "Ricardo Hernández" 345.00
+
+Certificado Médico Dental 55.00
+
 El pago de derechos antes mencionados, deberán ser cubiertos en las oficinas recaudadoras de la Secretaría de Finanzas y Administración, las que expedirán el comprobante correspondiente, mismo que deberá ser presentado ante la autoridad respectiva previamente a la obtención del servicio.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 1995)</small>
@@ -929,11 +1313,19 @@ El pago de derechos antes mencionados, deberán ser cubiertos en las oficinas re
 
 Por la expedición de licencias para el funcionamiento, distribución y comercialización de bebidas alcohólicas, a personas físicas o morales, se causarán y pagarán derechos de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado, conforme a la siguiente:
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
 T A R I F A
 
 Salarios Mínimos Generales Diarios Vigentes
 
-I.- Vinaterías, supermercados, centros nocturnos, restaurantes, bares, depósitos, expendios, tiendas de abarrotes, centros recreativos y deportivos, discotecas, salones de baile, cantinas, salón cerveza, casinos, botaneros, taquerías, loncherías y similares, etc. De 1620 a 3240
+I.- Cabaret o Centro Nocturno, Bar, Cantina, Restaurant con venta de bebidas alcohólicas, Discoteca, Hotel, Motel, Distribuidora, Bodega, Almacén y Supermercado 2,522
+
+II.- Centros recreativos y deportivos, Casino, Club Social, otros 2,240
+
+III.- Salón Cerveza, Salón de Baile, Salón Billar, Boliche, Vinatería, Licorería, Minisuper, Agencia y Subagencia 1,965
+
+IV.- Depósito, Expendio, Botanero, Tienda de Abarrotes, Lonchería, Cocktelería, Taquería 1,620
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
@@ -941,21 +1333,21 @@ I.- Vinaterías, supermercados, centros nocturnos, restaurantes, bares, depósit
 
 Por la autorización de permisos eventuales para el funcionamiento de giros de prestación de servicios, que incluyan el expendio de bebidas alcohólicas, así como permisos eventuales para expendio de bebidas alcohólicas en giros establecidos, se causarán y pagarán derechos por cada día, de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado, conforme a la siguiente:
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
 T A R I F A
 
 Salarios Mínimos Generales Diarios Vigentes
 
-I.- Cantinas, bares, centros nocturnos De 48 a 58
+I.- Cabaret o Centro Nocturno, Bar, Cantina 48
 
-II.- Discotecas, salones de baile De 41 a 46
+II.- Discoteca, Salón Cerveza, Salón de Baile, Restaurant con venta de bebidas alcohólicas, Distribuidora, Bodega Almacén, Hotel, Motel, Salón de Billar, Boliche 41
 
-III.- Vinaterías, supermercados, depósitos, expendios, tiendas de abarrotes, botaneros, restaurantes De 34 a 39
+III.- Vinatería, Licorería, Supermercado, Minisuper, Tienda de Abarrotes, Agencia, Subagencia, Depósito, Expendio, Botanero 34
 
-IV.- Centros recreativos y deportivos, casinos, bodegas distribuidoras De 28 a 32
+IV.- Lonchería, Cocktelería, Taquería 28
 
-V.- Taquerías, loncherías y similares De 22 a 26
-
-VI.- Otros De 13 a 20
+V.- Centro Recreativo y Deportivo, Casino, Club Social, otros 22
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
@@ -963,21 +1355,21 @@ VI.- Otros De 13 a 20
 
 Por las autorizaciones de funcionamiento en horario extraordinario de giros de prestación de servicios que incluyan el expendio de bebidas alcohólicas, se causarán y pagarán derechos por cada hora, de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado, conforme a la siguiente:
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
 T A R I F A
 
 Salarios Mínimos Generales Diarios Vigentes
 
-I.- Cantinas, bares, centros nocturnos De 11 a 13
+I.- Cabaret o Centro Nocturno, Bar, Cantina 11
 
-II.- Discotecas, salones de baile De 9 a 10
+II.- Discoteca, Salón Cerveza, Salón de Baile, Restaurant con venta de bebidas alcohólicas, Distribuidora, Bodega, Almacén, Hotel, Motel, Salón de Billar, Boliche 9
 
-III.- Vinaterías, supermercados, depósitos, expendios, tiendas de abarrotes, botaneros, restaurantes De 7 a 8
+III.- Vinatería, Licorería, Supermercado, Minisuper, Tienda de Abarrotes, Agencia, Subagencia, Depósito, Expendio, Botanero 7
 
-IV.- Centros recreativos y deportivos, casinos, bodegas distribuidoras De 5 a 6.5
+IV.- Lonchería, Cocktelería, Taquería 5
 
-V.- Taquerías, loncherías y similares De 2.5 a 4
-
-VI.- Otros De 1 a 2
+V.- Centro Recreativo y Deportivo, Casino, Club Social, otros 3
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
@@ -985,21 +1377,21 @@ VI.- Otros De 1 a 2
 
 Las licencias para el funcionamiento, distribución y comercialización de bebidas alcohólicas en sus diversos giros, deberán revalidarse anualmente, dentro de los tres primeros meses de cada año, se causarán y pagarán derechos de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado, conforme a la siguiente:
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
 T A R I F A
 
 Salarios Mínimos Generales Diarios Vigentes
 
-I.- Cantinas, bares, centros nocturnos De 48 a 58
+I.- Cabaret o Centro Nocturno, Bar, Cantina 48
 
-II.- Discotecas, salones de baile De 41 a 46
+II.- Discoteca, Salón Cerveza, Salón de Baile, Restaurant con venta de bebidas alcohólicas, Distribuidora, Bodega, Almacén, Hotel, Motel, Salón de Billar, Boliche 41
 
-III.- Vinaterías, supermercados, depósitos, expendios, tiendas de abarrotes, botaneros, restaurantes De 34 a 39
+III.- Vinatería, Licorería, Supermercado, Minisuper, Tienda de Abarrotes, Agencia, Subagencia, Depósito, Expendio, Botanero 34
 
-IV.- Centros recreativos y deportivos, casinos, bodegas distribuidoras De 28 a 32
+IV.- Lonchería, Cocktelería, Taquería 28
 
-V.- Taquerías, loncherías, y similares De 22 a 26
-
-VI.- Otros De 13 a 20
+V.- Centro Recreativo y Deportivo, Casino, Club Social, otros 22
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
@@ -1019,9 +1411,13 @@ T A R I F A
 
 Salarios Mínimos Generales Diarios Vigentes
 
-I.- Por cambio de domicilio de la licencia De 648 a 1246
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II.- Por ampliación de giro de la licencia De 1296 a 1944
+I.- Por cambio de domicilio de la Licencia 648
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+II.- Por ampliación de giro de la Licencia 1296
 
 III.- Por reposición de una licencia 39
 
@@ -1326,3 +1722,9 @@ P.O. 26 DE DICIEMBRE DE 1995.
 PRIMERO.- El presente decreto entrará en vigor el día primero de Enero de mil novecientos noventa y seis.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan a las contenidas en este decreto.
+
+P.O. 31 DE DICIEMBRE DE 1996.
+
+Primero.- El presente decreto entrará en vigor el día primero de enero de mil novecientos noventa y siete.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
