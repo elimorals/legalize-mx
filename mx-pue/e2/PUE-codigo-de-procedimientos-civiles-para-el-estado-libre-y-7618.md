@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-civiles-para-el-estado-libre-y-7618"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-18"
-last_updated: "1990-12-04"
+last_updated: "1991-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 1991.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 18 de noviembre de 1986.
 
@@ -1413,9 +1413,11 @@ Las acciones basadas en actos jurídicos deben intentarse acompañando a la dema
 
 Título legal fundatorio de la acción es el documento público o privado que, según la ley, constituye la formalidad o, en su caso, la solemnidad del acto jurídico generador del derecho materia del juicio.
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 1991)</small>
+
 ###### Artículo 208.
 
-Cuando la celebración de un contrato no se haya hecho constar con la formalidad establecida en la ley, cualquiera de las partes tiene acción para exigir de la otra que se extienda el documento correspondiente.
+Cuando la celebración de un contrato no se haya hecho constar con la formalidad establecida en la ley, cualesquiera de las partes tiene acción para exigir de la otra que se extienda el documento correspondiente; pero cuando esta acción se refiera al arrendamiento y el que pretenda ejercitarla sea el arrendador, este acompañará a su demanda, el documento o documentos que lo acrediten como propietario del bien arrendado o que tienen facultades para arrendar, por autorización de este o por disposición legal.
 
 ###### Artículo 209.
 
@@ -8556,3 +8558,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 4 DE DICIEMBRE DE 1990.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JULIO DE 1991.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
