@@ -4,7 +4,7 @@ identifier: "SON-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-8446
 country: "mx"
 rank: "ley"
 publication_date: "1962-12-31"
-last_updated: "1982-01-11"
+last_updated: "1987-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE ENERO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JULIO DE 1987.
 
 Ley publicada en la Sección Tercera del Boletín Oficial del Gobierno del Estado de Sonora, lunes 31 de diciembre de 1962.
 
@@ -431,11 +431,13 @@ III.- En caso de que el Instituto exigiere el pago forzoso del saldo que se adeu
 
 IV.- En caso de rescisión del contrato o de recuperación del inmueble por el Instituto en virtud de la reserva de dominio, el trabajador será considerado como arrendatario durante el tiempo que hubiere ocupado la finca, estando obligado a cubrir el importe de la renta y de los daños y deterioros que por su culpa o negligencia o la de sus familiares o dependientes hubiere sufrido el inmueble. Si existiere alguna diferencia a favor del trabajador entre lo que hubiere abonado a cuenta del precio o del importe de las rentas y la indemnización por daños y deterioros en su caso, se le hará entrega de aquella una vez hechas las anteriores deducciones. Para los efectos de este artículo se fijará desde el otorgamiento de la escritura la renta mensual que se asigne al inmueble:
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 19 DE MARZO DE 1975)</small>
+> <small>(REFORMADA, B.O. 20 DE JULIO DE 1987)</small>
 
-V.- Los honorarios notariales para el otorgamiento de las escrituras, serán cubiertos por mitad entre el Instituto y los trabajadores. El pago de impuestos y gastos adicionales serán por cuenta exclusiva de estos.
+V.- Los contratos de compra venta de vivienda que realice el Instituto con sus derechohabientes y los contratos de hipoteca en virtud de las cuales, se garanticen las obligaciones contenidas en los mismos, podrán hacerse constar en instrumentos privados, debiéndose inscribir éstos, en el Registro Público de la Propiedad que corresponda, con la constancia del registrador sobre la autenticidad de las firmas y de la voluntad de las partes.
 
-Los pensionistas gozarán de los beneficios de este artículo en los términos que dentro de los lineamientos de esta ley fije la Junta Directiva por medio de acuerdos generales.
+También, se podrán hacer constar en instrumentos privados, con las mismas formalidades establecidas en el párrafo anterior, los contratos de hipoteca que celebre el Instituto con sus derechohabientes y que tengan por objeto garantizar las obligaciones derivadas del otorgamiento de los préstamos o créditos a que se refieren el Artículo 43 y la fracción I, incisos a), b) y c) del Artículo 50-A de la presente Ley.
+
+Los instrumentos privados en que consten los contratos de hipoteca a que se refiere este Artículo, tendrá el carácter de escritura pública, para los efectos de la fracción I del Artículo 528 Código de Procedimiento Civiles del Estado de Sonora.
 
 ###### Artículo 41.
 
@@ -675,7 +677,7 @@ III.- Porque el interesado deje de constituir los depósitos durante un período
 
 ###### Artículo 50-O.
 
-A los servidores públicos que se pensionen o se jubilen se les aplicará en lo conducente y conforme a lo que se establezca el Reglamento respectivo, lo dispuesto en los dos artículos anteriores. En el caso de que opten por permanecer voluntariamente dentro del régimen del Fondo, el Instituto les descontará de sus pensiones íntegramente las aportaciones que le correspondería cubrir a entidades públicas.
+A los servidores públicos que se pensionen o se jubilen se les aplicará en lo conducente y conforme a lo que se establezca el Reglamento respectivo, lo dispuesto en los dos artículos anteriores. En el casos de que opten por permanecer voluntariamente dentro del régimen del Fondo, el Instituto les descontará de sus pensiones íntegramente las aportaciones que le correspondería cubrir a entidades públicas.
 
 > <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
 
@@ -1137,7 +1139,7 @@ Artículo 88 C.- (DEROGADO, B.O. 19 DE MARZO DE 1975)
 
 ###### Artículo 89.
 
-Al trabajador que sin tener derecho a jubilación o pensión por vejez o invalidez, se separe definitivamente del servicio, se le otorgará una indemnización global equivalente al seis por ciento con hubiese contribución de acuerdo con el artículo 16, o sea a las tres cuartas partes de las aportaciones que hubiese hecho a partir de la fecha de entrada en vigor de esta Ley. Las aportaciones anteriores a esta Ley se devolverá íntegramente, al separarse del servicio sin jubilación o pensión.
+Al trabajador que sin tener derecho a jubilación o pensión por vejez o invalidez, se separe definitivamente del servicio, se le otorgará una indemnización global equivalente al seis por ciento con hubiese contribución de acuerdo con el artículo 16, o sea a la tres cuartas partes de las aportaciones que hubiese hecho a partir de la fecha de entrada en vigor de esta Ley. Las aportaciones anteriores a esta Ley se devolverá íntegramente, al separarse del servicio sin jubilación o pensión.
 
 Si el trabajador falleciere sin tener derecho a las pensiones mencionadas al principio de este artículo, el Instituto entregará el importe de la global a los beneficiario (sic) que aquél hubiere designado, y la falta de designación, a sus derechos legítimos.
 
@@ -1714,3 +1716,13 @@ Las aportaciones a que se refiere la fracción I del Artículo 50-B, empezarán 
 ###### ARTICULO SEGUNDO.
 
 La presente Ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE JULIO DE 1987.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todos los preceptos que se opongan a esta Ley.
