@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-y-de-cabildo-del-ayuntamiento-de-tijuana-262
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-13"
-last_updated: "2003-02-28"
+last_updated: "2003-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO Y DE CABILDO DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2003.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 13 de septiembre de 2002.
 
@@ -707,7 +707,9 @@ X.- Comisión de Educación, Cultura y Bibliotecas;
 
 XI.- Comisión de Juventud;
 
-XII.- Comisión de Asistencia y Desarrollo Social;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE MAYO DE 2003)</small>
+
+XII.- Comisión de Asistencia, Salud, Desarrollo Social y Humano;
 
 > <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
 
@@ -717,9 +719,13 @@ XIV.- Comisión de Desarrollo Económico;
 
 XV.- Comisión de Deportes;
 
-XVI.- Comisión de Asuntos Fronterizos, y
+XVI.- Comisión de Asuntos Fronterizos, y (sic)
 
 XVII.- Comisión Reguladora de Bebidas Alcohólicas.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE MAYO DE 2003)</small>
+
+XVIII.- Comisión de Equidad y Género.
 
 Para efectos de crear nuevas Comisiones permanentes, deberá procederse a la reforma del present (sic) Reglamento.
 
@@ -895,21 +901,37 @@ I (sic).- Proponer al Cabildo la ejecución de programas especiales para combati
 
 III.- En general, aquellas que el Cabildo le encomiende.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 91.
 
-Comisión de Asistencia y Desarrollo Social.- La Comisión de Asistencia Desarrollo Social tendrá las siguientes atribuciones:
+Comisión de Asistencia, Salud, Desarrollo Social y Humano.- La Comisión de Asistencia, Salud, Desarrollo Social y Humano, tendrá las siguientes atribuciones:
 
 I.- Promover acciones tendientes a incentivar la participación y desarrollo integral de los habitantes de (sic) Municipio;
 
-II.- Vigilar la elaboración y actualización de programas en materia asistencial y de desarrollo social;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2003)</small>
+
+II.- Vigilar la elaboración y actualización de programas en materia asistencial, salud y desarrollo social y humano;
 
 III.- Promover la organización de los habitantes en uniones vecinales con el fin de incentivar l (sic) democracia participativa y el desarrollo comunitario;
 
-IV.- Supervisar y apoyar los programas de la Secretaría de Desarrollo Humano, del Sistema Municipa (sic) para el Desarrollo Integral de la Familia y del organismo descentralizado “Desarrollo Social Municipal”;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2003)</small>
 
-V.- Procurar mediante el principio de subsidiaridad, el apoyo oportuno y adecuado a personas grupos (sic) marginados, discapacitados y damnificados por eventos de la naturaleza y otras causas, co (sic) programas y recursos destinados a la asistencia social, y
+IV.- Supervisar y apoyar los programas de la Secretaría de Desarrollo Humano, del Sistema Municipal para el Desarrollo Integral de la Familia y del organismo descentralizado Desarrollo Social Municipal, e Instituto Municipal de la Mujer;
 
-VI.- En general, aquellas que el Cabildo le encomiende.
+V.- Procurar mediante el principio de subsidiaridad, el apoyo oportuno y adecuado a personas grupos (sic) marginados, discapacitados y damnificados por eventos de la naturaleza y otras causas, co (sic) programas y recursos destinados a la asistencia social, y (sic)
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2003)</small>
+
+VI.- Dictaminar respecto de los asuntos relativos a los proyectos de reglamentos, iniciativas de ley, disposiciones normativas de observancia general relacionadas con la asistencia, salud, desarrollo social y humano;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE MAYO DE 2003)</small>
+
+VII.- Vigilar el adecuado cumplimiento del Ayuntamiento en las funciones que como autoridad sanitaria le corresponde ejercer, de conformidad a los lineamientos legales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE MAYO DE 2003)</small>
+
+VIII.- En general, aquellas que el Cabildo le encomiende.
 
 > <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
@@ -987,6 +1009,20 @@ II.- Emitir Dictamen, previo estudio y análisis del expediente debidamente inte
 
 III.- Las demás que le confiera el Cabildo y el ordenamiento de la materia.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2003)</small>
+
+ARTICULO 96 BIS.- Comisión de Equidad y Género.- La Comisión de Equidad y Género tendrá las siguientes atribuciones:
+
+I.- Dictaminar sobre cuestiones y asuntos tendientes a garantizar la igualdad y equidad en todas las esferas de la vida social, educativa, cultural, laboral, económica y política, entre hombre y mujer;
+
+II.- Proponer al Cabildo políticas públicas, así como promover y realizar investigaciones y estudios normativos tendientes a garantizar relaciones equitativas e igualitarias entre hombre y mujer;
+
+III.- Dar seguimiento y supervisar las acciones de la administración pública municipal con la finalidad de verificar la plena observancia de las disposiciones constitucionales en materia de igualdad entre el hombre y la mujer;
+
+IV.- Impulsar proyectos normativos y acciones que fortalezcan las condiciones de desarrollo integral de la mujer, y
+
+V.- En general, aquellas que el Cabildo le encomiende.
+
 ###### ARTICULO 97.
 
 Comisiones especiales.- El Cabildo podrá establecer, mediante disposició (sic) normativa de observancia general, comisiones especiales para conocer de los procedimientos de responsabilidad que se instruyan en contra de algún Munícipe o funcionario público o para atende (sic) transitoriamente asuntos de interés público.
@@ -1021,7 +1057,9 @@ Proyectos remitidos.- Los proyectos que hayan sido remitidos a las Comisiones se
 
 Convocatoria.- Las sesiones de las Comisiones serán convocadas por s (sic) Presidente, y Secretario en su caso, cuando menos con treinta y seis horas de anticipación. Al inici (sic) de la sesión, el Secretario de la Comisión certificará que se cumplimentó la convocatoria en esto (sic) términos.
 
-Para que las Comisiones puedan sesionar válidamente, se requiere la asistencia de la mitad mas uno de sus miembros, entre los que deberá estar su Presidente.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2003)</small>
+
+Para que las comisiones puedan sesionar válidamente, se requiere la asistencia de la mitad más uno de sus miembros, entre los que deberá estar su presidente, y en el caso de que este, pasados treinta minutos de la hora en que fue convocada la sesión, se encontrara ausente, la sesión será presidida por el presidente de la comisión subsiguiente respectiva, de acuerdo con el dictamen de procedimiento aprobado por el Cabildo para tal efecto, siempre y cuando lo apruebe la mayoría de los ediles presentes, con la salvedad de que éste, carecerá de la facultad de ejercer el voto de calidad.
 
 Si no ocurre (sic) la mayoría de los regidores integrantes de la Comisión, se señalará hora para sesiona (sic) en segunda convocatoria a más tardar al siguiente día hábil, celebrado válidamente la sesión con lo (sic) integrantes que concurran.
 
@@ -1178,3 +1216,9 @@ SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO
 P.O. 28 DE FEBRERO DE 2003.
 
 ACUERDO TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 30 DE MAYO DE 2003.
+
+PRIMERO.- Las presentes reformas y adición entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberán publicarse en un periódico de mayor circulación en la localidad para el conocimiento de los vecinos.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a las presentes reformas y adición.
