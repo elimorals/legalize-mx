@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-notariado-del-estado-de-zacatecas-8251"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-14"
-last_updated: "1987-01-14"
+last_updated: "1989-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8251&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL NOTARIADO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1989.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 14 de enero de 1987.
 
@@ -125,9 +125,11 @@ I.- En la esfera del derecho, la autenticidad y fuerza probatorias a las declara
 
 II.- En la autentificación de los hechos, la exactitud de los que el notario perciba por sus sentidos.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 3.
 
-El notario asume el compromiso de ilustrar a las partes en materia jurídica. Les explicará el valor y las consecuencias legales de los actos que celebren. Se excluirán de dicha información a los profesionistas del derecho.
+El notario asume el compromiso de ilustrar a las partes en materia jurídica, explicándoles el valor y las consecuencias legales de los actos que celebren.
 
 ###### ARTICULO 4.
 
@@ -153,13 +155,17 @@ I.- Si su intervención en la autentificación del acto o del hecho, ponen en pe
 
 II.- En los días inhábiles por ley, salvo que se trate del otorgamiento de testamento, casos de urgencia inaplazable en términos de la ley, o de interés social o político.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 6.
 
-Las funciones del notario son incompatibles con empleos, cargos, comisiones públicas o de particulares, con el desempeño del mandato judicial y con el ejercicio de la profesión de abogado, con la de comerciante, agente de cambio o ministro de cualquier culto religioso.
+Las funciones del notario son incompatibles con empleos, cargos públicos o de particulares, con el desempeño del mandato judicial y con el ejercicio de la profesión de abogado, con la de comerciante, agente de cambio o ministro de cualquier culto religioso.
 
 El notario podrá:
 
-I.- Aceptar cargos docentes o asistenciales;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1989)</small>
+
+I.- Desempeñar comisiones públicas que no impliquen remuneración o aceptar cargos docentes o asistenciales;
 
 II.- Ser consejero o desempeñar el cargo de secretario de sociedades o asociaciones, sin ser miembro del Consejo;
 
@@ -169,9 +175,11 @@ IV.- Ser mandatario de su cónyuge, ascendientes o descendientes por consanguini
 
 V.- Resolver consultas jurídicas y gestionar en los procedimientos administrativos necesarios para obtener permisos o autorizaciones que sean previos al otorgamiento de escrituras o al registro fiscal de las mismas.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 7.
 
-El notario residirá en la ciudad en que esté considerado como de número en su patente y podrá actuar con fe pública dentro de los límites del Estado.
+El notario tendrá su domicilio y deberá residir permanentemente en la ciudad en que esté considerado como de número en su patente y podrá actuar con fe pública dentro de los límites del Estado.
 
 ###### ARTICULO 8.
 
@@ -183,13 +191,17 @@ Los notarios deben guardar reserva acerca de lo actuado ante ellos y están suje
 
 ### CAPITULO SEGUNDO. DEL PROTOCOLO
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 10.
 
-El Protocolo está conformado por el libro, libros o volúmenes en los que el notario asienta las escrituras y las actas, debidamente escritas y firmadas con las formalidades de ley. El apéndice de dichos libros o volúmenes se considera parte esencial del Protocolo.
+El protocolo está conformado por el libro, libros o volúmenes en los que el notario asienta las escrituras, las actas y las certificaciones debidamente escritas y firmadas con las formalidades de ley. El apéndice de dichos libros o volúmenes se considera parte esencial del protocolo.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 11.
 
-Los libros del Protocolo que se lleven al mismo tiempo no podrán ser más de diez. El notario podrá optar por el número de ellos, de acuerdo a su criterio y necesidades, siempre en número par, a excepción de llevarse en un libro.
+Los libros del protocolo que se lleven al mismo tiempo no podrán ser más de diez para escrituras o actas y hasta cuatro libros de registro de certificaciones. El notario podrá optar por el número de ellos, de acuerdo a su criterio y necesidades, siempre en número par, a excepción de llevarse en un libro.
 
 ###### ARTICULO 12.
 
@@ -225,9 +237,11 @@ En los Protocolos podrá utilizarse cualquier procedimiento de impresión firme 
 
 Se asentarán cuarenta líneas por página, a igual distancia unas de otras.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 18.
 
-Tanto los libros como las escrituras o las actas se numerarán progresivamente aún cuando no pase alguna. Numeración que se hará tomando en cuenta los volúmenes autorizados, con la secuela del mismo procedimiento hacia los libros por autorizar.
+Tanto los libros como las escrituras o las actas y las certificaciones se numerarán progresivamente aún cuando no pase alguna. Numeración que se hará tomando en cuenta los volúmenes autorizados, con la secuela del mismo procedimiento hacia los libros por autorizar.
 
 Entre uno y otro de los instrumentos de un mismo volumen, habrá el espacio suficiente para las firmas y autorización.
 
@@ -251,15 +265,19 @@ Por ningún motivo podrán sacarse de la notaría los libros o volúmenes y sus 
 
 Si alguna autoridad con facultades legales ordena la inspección de uno o más libros del Protocolo, el acto se efectuará en la misma oficina del notario y en presencia de éste.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 22.
 
-Los notarios guardarán en su archivo los libros cerrados del Protocolo durante cinco años contados desde la fecha en que se asentó la razón del cierre. A la expiración de este término, el notario entregará los libros respectivos al Archivo General de Notarías, en donde permanecerán con carácter definitivo.
+Los notarios guardarán en su archivo los libros cerrados del protocolo durante cinco años contados desde la fecha en que se asentó la razón del cierre. A la expiración de este término el notario entregará los libros respectivos al archivo de notarías en donde permanecerán con carácter definitivo.
 
-De los Protocolos en el archivo del notario, éste tiene la obligación de expedir segundos testimonios a las partes que hayan intervenido en los instrumentos públicos que dichos libros contengan.
+De los protocolos en el archivo del notario, éste tiene la obligación de expedir ulteriores testimonios a las partes que hayan intervenido en los instrumentos públicos que dichos libros contengan. Igual obligación tendrá la Dirección de Notarías respecto de los protocolos existentes en su archivo.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 23.
 
-El notario, en relación con los libros del Protocolo, llevará una carpeta por cada volumen, en donde irá depositando los documentos necesarios que se relacionen con las escrituras y las actas. El contenido de estas carpetas se llama "Apéndice", que será considerado como parte integral del Protocolo.
+El notario, en relación con los libros del protocolo llevará una carpeta por cada volumen, en donde irán depositando los documentos necesarios, originales o copias autorizadas, que se relacionen con las escrituras o las actas; para el caso de expedientes que por resolución judicial deban protocolizarse, se conservará copia fiel de los documentos insertos en el instrumento y que deban devolverse al Juzgado de origen. El contenido de estas carpetas se llama "Apéndice", que será considerado como parte integral del protocolo.
 
 ###### ARTICULO 24.
 
@@ -299,7 +317,9 @@ Las hojas que conformen el Protocolo abierto se harán en papel oficial que prov
 
 Escritura es el instrumento que el notario asienta en el Protocolo para hacer constar un acto jurídico, autentificado con su firma y sello y firmado por las partes que en él intervengan.
 
-Se tendrán como parte de la escritura, el documento en que se consigne el acto jurídico asentado en el Protocolo, y sea agregado al Apéndice.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+
+Se tendrán como parte de la escritura, los documentos en que se sustente el acto Jurídico asentado en el protocolo, y que, en original o copia autorizada deban agregarse al apéndice.
 
 En el Protocolo se puede levantar un extracto del documento, indicando sus elementos esenciales.
 
@@ -491,9 +511,61 @@ La protocolización, en su caso, se hará agregando el o los documentos al Apén
 
 Los instrumentos públicos y los poderes otorgados fuera de la República, una vez legalizados, deberán protocolizarse para que surtan sus efectos. Este acto se llevará a cabo ante el notario que designen las partes.
 
-### CAPITULO QUINTO. DE LOS TESTIMONIOS
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1989)</small>
 
-### CAPITULO SEXTO. DEL VALOR PROBATORIO DE LAS ESCRITURAS, ACTAS Y TESTIMONIOS
+### CAPITULO CUARTO BIS. DE LAS CERTIFICACIONES
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+
+###### ARTICULO 54-A.
+
+Certificación es la razón que asienta el notario en un documento para autenticar lo que en ella menciona y cuyo extracto y registro obra en el libro correspondiente.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+
+###### ARTICULO 54-B.
+
+El notario destinará para el registro de certificaciones, el o los libros que le sean autorizados para el efecto.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+
+###### ARTICULO 54-C.
+
+En el libro en el que se registren las certificaciones, deberá contener:
+
+I.- Número de registro;
+
+II.- Lugar y fecha de la certificación;
+
+III.- Nombre y domicilio del solicitante;
+
+IV.- Objeto y extracto de la certificación;
+
+V.- Número de fojas en el caso de documentos;
+
+VI.- Número de certificaciones de un mismo documento u objeto;
+
+VII.- Observaciones pertinentes;
+
+VIII.- Firma del Notario.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+
+###### ARTICULO 54-D.
+
+En la razón relativa a la certificación que expidan los notarios, deberá constar su firma autógrafa, su sello, el número de libro y registro que le correspondió.
+
+Tratándose de certificación de documentos en varias fojas, éstas deberán unirse, sellarse y rubricarse cada una por el propio notario.
+
+El notario no está obligado a conservar en el apéndice correspondiente, copia de los documentos que certifique y que se refieran a instrumentos expedidos por el propio notario o certificaciones que ya consten en su libro de registro.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+
+###### ARTICULO 54-E.
+
+De cada certificación, el notario agregará al apéndice respectivo, una copia autentificada del documento.
+
+### CAPITULO QUINTO. DE LOS TESTIMONIOS
 
 ###### ARTICULO 55.
 
@@ -513,11 +585,15 @@ Se salvarán las testaduras y entrerrenglonaduras. El testimonio será autorizad
 
 Los notarios pueden expedir y autorizar testimonios o copias impresas por cualquier medio de reproducción que sea legible y certificaciones de las actas o hechos que consten en su Protocolo. En la certificación harán constar el número y la fecha de la escritura o del acta respectiva.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 58.
 
-A cada parte interviniente o autorizada, podrá el notario expedir los testimonios que sean requeridos, señalando el número que les corresponda.
+A cada parte interviniente o autorizada, podrá el notario expedir los testimonios que sean requeridos, señalando el número que les corresponda. Igual facultad tendrá la Dirección de Notarías, respecto de los protocolos bajo su custodia.
 
-### CAPITULO PRIMERO. DISPOSICIONES PRELIMINARES
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1989)</small>
+
+### CAPITULO SEXTO. DEL VALOR PROBATORIO DE LAS ESCRITURAS, ACTAS, TESTIMONIOS Y CERTIFICACIONES
 
 ###### ARTICULO 59.
 
@@ -557,7 +633,7 @@ Cuando el notario expida un testimonio, pondrá al margen del instrumento una an
 
 ## TITULO SEGUNDO. DE LA ORGANIZACION Y DIRECCION DEL NOTARIADO
 
-### CAPITULO SEGUNDO. DE LOS NOTARIOS
+### CAPITULO PRIMERO. DISPOSICIONES PRELIMINARES
 
 ###### ARTICULO 64.
 
@@ -571,15 +647,17 @@ Los notarios sólo podrán ser suspendidos o cesados en los términos de la pres
 
 La oficina de los notarios se denominará: "Notaría Pública Número..., asentándose a continuación el que le corresponda...". Estará abierta por lo menos ocho horas diarias, a excepción de los sábados, domingos y los días inhábiles que establezca la ley. En lugar visible habrá un letrero con el número de la notaría, el nombre y apellidos del notario.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 67.
 
-El Gobernador del Estado autorizará la creación y funcionamiento de las notarías. En cada Distrito Judicial habrá, por lo menos, un notario de número. Sin embargo, el Ejecutivo del Estado podrá crear mayor número de notarías tomando en cuenta las necesidades del propio servicio notarial.
+El Gobernador del Estado autorizará la creación y funcionamiento de las notarías. En cada Distrito Judicial habrá, por lo menos, dos notarías de número. Sin embargo, el Ejecutivo del Estado podrá crear mayor número de notarías tomando en cuenta las necesidades del propio servicio notarial.
 
 ###### ARTICULO 68.
 
 Cada notaría será atendida por un notario titular o por quien debe substituirlo en los términos de la presente ley.
 
-### CAPITULO TERCERO. DEL NOMBRAMIENTO DE LOS NOTARIOS
+### CAPITULO SEGUNDO. DE LOS NOTARIOS
 
 ###### ARTICULO 69.
 
@@ -597,7 +675,9 @@ V.- Acreditar haber tenido y tener buena conducta;
 
 VI.- Tener por lo menos cinco años de residencia en el Estado;
 
-VII.- Acreditar haber practicado durante un año ininterrumpido bajo la dirección y responsabilidad de algún notario de número, quien deberá cerciorarse que el interesado, al iniciar su práctica, posee título profesional de abogado.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1989)</small>
+
+VII.- Acreditar haber practicado durante un año ininterrumpido bajo la dirección y responsabilidad del notario del número, que designe el Ejecutivo del Estado, para cuyo fin el interesado justificará poseer título de abogado y cédula para ejercer la profesión.
 
 VIII.- No haber sido condenado por sentencia ejecutoriada por delito doloso;
 
@@ -607,9 +687,11 @@ X.- No ser ministro de culto religioso;
 
 XI.- Aprobar el examen de oposición previsto por esta ley.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 70.
 
-Los requisitos que se fijan en las fracciones I y II del artículo anterior se comprobarán por los medios que establece el Código Civil para justificar el estado civil de las personas; los de la fracción III, por el Título correspondiente inscrito en la Dirección General de Profesiones, y por constancias expedidas por las autoridades judiciales y administrativas; el de la fracción IV, con certificado de dos médicos con título oficial; el de la fracción V, por información testimonial de dos testigos idóneos, recibida con audiencia del Ministerio Público, sin cuya presencia la información carecerá de validez; el procedimiento respectivo se iniciará ante el Juez competente, previa la publicación de un edicto en el Periódico Oficial, Organo del Gobierno del Estado, y en un diario de los de mayor circulación en la Entidad; el de la facción VI, con certificación expedida por la Presidencia Municipal correspondiente; el de la fracción VII, con el oficio original de contestación que el Ejecutivo del Estado dé al notario en relación a la iniciación de la práctica hecha por el interesado en su notaría, y con el certificado de práctica que expida el propio notario; los de las fracciones VIII, IX y X no requieren prueba pero su afirmación admite evidencia en contrario; el de la fracción XI, con copia certificada del acta del examen de oposición y mediante la publicación de un edicto en el Periódico Oficial, Organo del Gobierno del Estado, y en uno de los diarios de mayor circulación en la Entidad.
+Los requisitos que se fijan en las fracciones I y II del artículo anterior se comprobarán por los medios que establece el Código Familiar para justificar el estado civil de las personas; los de la fracción III, por el título correspondiente inscrito en la Dirección General de Profesiones y, por constancias expedidas por las autoridades judiciales y administrativas; el de la fracción IV, con certificado de dos médicos con título oficial; el de la fracción V, por información testimonial de dos testigos idóneos, recibida con audiencia del Ministerio Público, sin cuya presencia la información carecerá de validez; el procedimiento respectivo se iniciará ante el Juez competente, previa la publicación de un edicto en el Periódico Oficial, Organo del Gobierno del Estado, y en un diario de mayor circulación en la Entidad; el de la facción VI, con certificación expedida por la Presidencia Municipal correspondiente. El de la fracción VII, con el oficio original que el Ejecutivo del Estado de al notario en relación a la autorización para iniciar la práctica y con el certificado que expida el propio notario; los de las fracciones VIII, IX y X no requieren prueba pero su afirmación admite evidencia en contrario; el de la fracción XI con copia certificada del acta del examen de oposición y mediante la publicación de un edicto en el Periódico Oficial, Organo del Gobierno del Estado, y en uno de los diarios de mayor circulación en la Entidad.
 
 ###### ARTICULO 71.
 
@@ -621,7 +703,9 @@ II.- Proveerse, a su costa, del sello y de los libros del Protocolo; hacer regis
 
 III.- Otorgar la protesta legal ante el Gobernador del Estado o funcionario que designe;
 
-IV.- Establecer la oficina o notaría en el lugar en que va a desempeñar su cargo, dentro de treinta días contados desde la fecha en que rindió la protesta de ley;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1989)</small>
+
+IV.- Establecer la notaría en el lugar designado para el desempeño de su cargo, dentro de los treinta días contados desde la fecha en que rindió la protesta de ley;
 
 V.- Inscribirse como miembro del Colegio de Notarios de Zacatecas.
 
@@ -645,7 +729,7 @@ Expedida la patente, a costa del interesado se mandará publicar en el Periódic
 
 Inmediatamente que el notario comience a ejercer sus funciones, dará aviso al público por medio del Periódico Oficial, Organo del Gobierno del Estado y de un periódico de la localidad; lo comunicará al Ejecutivo del Estado, al Tribunal Superior de Justicia, a la Legislatura del Estado y al Colegio de Notarios.
 
-### CAPITULO CUARTO. DE LOS CONVENIOS DE SUPLENCIA Y DE LA ASOCIACION DE NOTARIOS
+### CAPITULO TERCERO. DEL NOMBRAMIENTO DE LOS NOTARIOS
 
 ###### ARTICULO 77.
 
@@ -711,7 +795,7 @@ El Ejecutivo del Estado expedirá las patentes a que se refiere el artículo ant
 
 Cuando no hubiere oposición por no haberse presentado más de una solicitud, el Gobernador del Estado expedirá el nombramiento en favor del solicitante, siempre y cuando éste haya aprobado el examen y cumpla los demás requisitos previstos en el artículo 69 de esta ley.
 
-### CAPITULO QUINTO. DE LA SUSPENSION, CESACION O TERMINACION DEFINITIVA DEL CARGO DE NOTARIO
+### CAPITULO CUARTO. DE LOS CONVENIOS DE SUPLENCIA Y DE LA ASOCIACION DE NOTARIOS
 
 ###### ARTICULO 88.
 
@@ -751,7 +835,7 @@ Los convenios de asociación y disolución de los mismos, por cualquier causa, d
 
 En caso de no existir convenio de suplencia o de asociación, las ausencias temporales de los notarios serán resueltas por el Ejecutivo del Estado.
 
-### CAPITULO SEXTO. DE LA RESPONSABILIDAD Y DE LOS DELITOS OFICIALES DE LOS NOTARIOS
+### CAPITULO QUINTO. DE LA SUSPENSION, CESACION O TERMINACION DEFINITIVA DEL CARGO DE NOTARIO
 
 ###### ARTICULO 94.
 
@@ -763,9 +847,15 @@ II.- Sanción administrativa impuesta por el Ejecutivo del Estado, con motivo de
 
 III.- Por impedimentos físicos o intelectuales transitorios que coloquen al notario en la imposibilidad de actuar, por tiempo máximo de dos años, caso en el cual surtirá efectos la suspensión durante todo el tiempo en el que se prolongue el impedimento;
 
-IV.- Negarse, sin causa justificada, en términos del reglamento correspondiente, a recibir a los practicantes a que se refiere la fracción VII del artículo 69 de esta ley, que le hayan sido designados por el Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1989)</small>
 
-V.- Las demás que señala esta ley.
+IV.- Negarse sin causa justificada, a recibir a los practicantes a que se refiere la fracción VII del artículo 69 de esta ley.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1989)</small>
+
+V.- La realización del procedimiento relativo a la fracción IV del artículo 107. El Ejecutivo del Estado habilitará a quien deba fungir como suplente durante el término de la suspensión, para garantizar la atención al público, observando lo dispuesto por el artículo 111.
+
+VI.- Las demás que señala esta ley.
 
 ###### ARTICULO 95.
 
@@ -801,7 +891,17 @@ V.- Si se comprueba por cualquier medio ante el Ejecutivo del Estado que el nota
 
 VI.- Si no fijare su domicilio en el lugar sede al de su notaría;
 
-VII.- Negarse, sin causa justificada y en forma sistemática, en términos del reglamento correspondiente, a recibir a los practicantes a que se refiere la fracción VII del artículo 69 de esta ley, en que le hayan sido designados por el Ejecutivo del Estado.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1989)</small>
+
+VII.- Negarse sin causa justificada y en forma sistemática, a recibir a los practicantes a que se refiere la fracción VII del artículo 69 de esta ley.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1989)</small>
+
+VIII.- Negarse sin motivo suficiente a ejercer las comisiones públicas que se le confieran.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1989)</small>
+
+IX.- No observar las disposiciones contenidas en el Arancel del Notariado del Estado.
 
 ###### ARTICULO 100.
 
@@ -833,7 +933,7 @@ IV.- Que se publique la petición, en extracto, en el Periódico Oficial, Organo
 
 En caso de oposición, se dejarán a salvo los derechos de tercero.
 
-### CAPITULO SEPTIMO. DE LA CLAUSURA DE NOTARIAS
+### CAPITULO SEXTO. DE LA RESPONSABILIDAD Y DE LOS DELITOS OFICIALES DE LOS NOTARIOS
 
 ###### ARTICULO 105.
 
@@ -857,7 +957,9 @@ IV.- Separación definitiva.
 
 Para la aplicación de las sanciones previstas en las fracciones I, II y III, se practicará una investigación. En su resultado se fundará la resolución procedente.
 
-Para la aplicación de la sanción de la fracción IV, el Ejecutivo del Estado solicitará que la Secretaría General de Gobierno designe un visitador para practicar la investigación conducente. De su resultado se dará conocimiento al Colegio de Notarios para que en el término de veinte días emita su parecer, con la facultad de allegar datos no contenidos en la investigación de referencia.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+
+Para la aplicación de la sanción de la fracción IV, la dependencia correspondiente del Ejecutivo del Estado practicará la investigación conducente. De su resultado se dará conocimiento al Colegio de Notarios para que en el término de veinte días emita su parecer, con la facultad de allegar datos no contenidos en la investigación de referencia.
 
 Recibido el parecer del Colegio, la autoridad respectiva oirá personalmente al notario, concediéndole quince días para que aporte pruebas en su descargo. Fenecido el término se dictará la resolución definitiva, sin que haya lugar a recurso administrativo. La substanciación del procedimiento señalado, se verificará dentro de un término de tres meses, con posibilidad de ampliación para el desahogo natural de las pruebas ofrecidas.
 
@@ -865,7 +967,7 @@ Recibido el parecer del Colegio, la autoridad respectiva oirá personalmente al 
 
 Son delitos oficiales de los notarios del Estado, aquellos del orden común que se les atribuyan en el ejercicio de sus funciones; en consecuencia, quedarán sometidos a la jurisdicción de las autoridades de la materia.
 
-### CAPITULO PRIMERO. DEL COLEGIO Y DEL CONSEJO DE NOTARIOS DEL ESTADO
+### CAPITULO SEPTIMO. DE LA CLAUSURA DE NOTARIAS
 
 ###### ARTICULO 109.
 
@@ -885,41 +987,55 @@ El notario que se encuentre en cualquiera de las condiciones a que se refieren l
 
 ## TITULO TERCERO. DE LAS INSTITUCIONES RELATIVAS AL NOTARIADO
 
-### CAPITULO SEGUNDO. DEL ARCHIVO GENERAL DE NOTARIAS
+### CAPITULO PRIMERO. DEL COLEGIO Y DEL CONSEJO DE NOTARIOS DEL ESTADO
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 113.
 
-El Colegio de Notarios del Estado de Zacatecas, es un organismo público descentralizado por colaboración, con personalidad jurídica y patrimonio propio; agrupará a todos los notarios que ejerzan sus funciones en esta Entidad y regulará su organización y funcionamiento conforme a esta ley y a la Ley de Profesiones para el Estado de Zacatecas, al Reglamento del Colegio y a sus propios Estatutos.
+El Colegio de Notarios del Estado de Zacatecas agrupará en una asociación civil a todos los notarios que ejerzan sus funciones en esta Entidad y regulará su organización y funcionamiento conforme a esta ley y a sus propios estatutos.
 
-### CAPITULO TERCERO. DE LAS INSPECCIONES DE LAS NOTARIAS
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1989)</small>
+
+### CAPITULO SEGUNDO. DEL ARCHIVO DE NOTARIAS
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 114.
 
-En la Capital del Estado se dispondrá de un Archivo General de Notarías que dependerá de la Secretaría General de Gobierno.
+En la Capital del Estado se dispondrá de un Archivo de Notarías que dependerá de la Secretaría General de Gobierno donde se concentrarán y conservarán los protocolos y apéndices correspondientes, en los términos de las disposiciones relativas que normen el Archivo General del Estado.
 
-Se regirá por las disposiciones relativas que normen el Archivo General del Estado.
+### CAPITULO TERCERO. DE LAS INSPECCIONES DE LAS NOTARIAS
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 115.
 
-El Ejecutivo practicará visitas generales a las notarías, cuando lo estime conveniente, a cuyo efecto lo hará por conducto de quien designe.
+El Ejecutivo practicará visitas generales a las notarías cuando lo estime conveniente, a cuyo efecto lo hará a través del personal de la Dirección de Notarías.
 
 En las visitas se observarán las reglas siguientes:
 
-I.- Si la visita fuera general, el inspector revisará todo el Protocolo o diversas partes de él, según lo estime necesario, así como las carpetas del Apéndice para cerciorarse de la observancia de todos los requisitos de ley, quedándole prohibido imponerse del texto de los instrumentos;
+I.- Si la visita fuere general, el inspector revisará todo el protocolo o diversas partes de él, según lo estime necesario, así como las carpetas del apéndice para cerciorarse de la observancia de todos los requisitos de ley;
 
-II.- Si se hubiere ordenado la visita especial de un tomo o instrumento determinado, el visitador o inspector se limitará a examinar el contenido del mismo, de sus declaraciones y cláusulas en caso de que el instrumento sea de los sujetos a registro público.
+II.- Si se hubiere ordenado visita especial para la revisión de un tomo o instrumento determinado, el inspector se limitará a examinar el contenido del mismo, así como los documentos correspondientes del apéndice, en su caso.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 116.
 
-En el acta, hará constar el visitador las irregularidades que observe; consignará en general los puntos en que la ley no haya sido fielmente cumplida y los datos y fundamentos que el notario exponga en su defensa. Este tendrá derecho a un duplicado del acta firmada por el visitador y por él mismo.
+En el acta, hará constar el inspector las irregularidades que observe; consignará en general los puntos en que la ley no haya sido fielmente cumplida y los datos y fundamentos que el notario exponga en su defensa. Este tendrá derecho a un duplicado del acta firmada por el inspector y por él mismo.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 117.
 
-Las visitas se practicarán precisamente en el despacho u oficina del notario, en horas y días hábiles y en presencia del notario titular, para cuyo efecto el visitado será notificado cuando menos con cinco días hábiles de anticipación.
+Las visitas se practicarán en la notaría, en horas y días hábiles con la presencia del notario, titular o suplente, según el caso.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 118.
 
-En toda visita, el notario deberá ordenar lo procedente en su oficina, con objeto de que se den al visitador todas las facilidades que se requieran para haser debidamente su investigación.
+En toda visita, el notario dará al inspector las facilidades que se requieran para practicar la investigación.
 
 ## TRANSITORIOS
 
@@ -962,3 +1078,15 @@ LIC. GENARO BORREGO ESTRADA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. DANIEL DAVILA GARCIA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE DICIEMBRE DE 1989.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+A la vigencia del presente Decreto, los Notarios Públicos deberán presentar ante la Secretaría General de Gobierno, para su autorización, el o los libros de su protocolo que hayan de destinarse al registro de las certificaciones, entendiéndose que los mismos tendrán numeración especial y progresiva, tanto en los volúmenes como en los asientos de los registros.
