@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-profesiones-del-estado-de-baja-california-sur-3000"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-30"
-last_updated: "1992-12-10"
+last_updated: "2000-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY DE PROFESIONES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE DICIEMBRE DE 1992.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA EL EJERCICIO DE LAS PROFESIONES DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL BOLETIN OFICIAL EL 10 DE JULIO DE 2000.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 30 de junio de 1989.
 
@@ -444,3 +446,17 @@ B.O. 10 DE DICIEMBRE DE 1992.
 ###### ARTÍCULO UNICO.
 
 ESTE DECRETO ENTRARA EN VIGOR A PARTIR DEL DIA SIGUIENTE AL DE SU PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR.
+
+B.O. 10 DE JULIO DE 2000.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Baja California Sur.
+
+SEGUNDO.- Se abroga la Ley para el Ejercicio de las Profesiones en el Estado de Baja California Sur, contenida en el Decreto 886 publicado en el Boletín Oficial del Estado el día 1°. De Diciembre de junio (sic) de 1992, así como todas sus modificaciones y Reglamentos derivados de la misma que se opongan a esta Ley.
+
+TERCERO.- A las agrupaciones de profesionistas que a la fecha de la entrada en vigor de esta Ley, se encuentren debidamente reconocidas, autorizadas y registradas ante la Dirección, se les asegura respetando su registro, autorización y reconocimiento.
+
+CUARTO.- Quienes sin tener la licenciatura o título en homeopatía debidamente reconocida y autorizada por institución de educación superior acreditada, llevan a cabo la práctica homeopática y se ostentan como homeópatas en Baja California Sur, deberán regularizar su situación en un término de un año contado a partir de la entrada en vigor del presente decreto, para lo cual, se faculta a la Secretaría de Educación para (sic) disponga lo necesario a efecto de expedir los documentos que acrediten la profesión correspondiente a quienes cumplan con los requerimientos legales, cientifícos y técnicos necesarios para el desempeño de la profesión.
+
+A los médicos alópatas que hubieren cursado la homeopatia como especialidad médica, se les otorgará sin mayor trámite la cédula que autorice su ejercicio profesional como homeópatas.
+
+QUINTO.- LA Dirección de Profesiones deberá mantener contacto con las universidades y autoridades de la materia del resto de las Entidades Federativas para los efectos de contar con la relación de profesionistas en ejercicio y de aquellos que se les ha inhabilitado. La información deberá proporcionarse a la generalidad de los ciudadanos que la solicite.
