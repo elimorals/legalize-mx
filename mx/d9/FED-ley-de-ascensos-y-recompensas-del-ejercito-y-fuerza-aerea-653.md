@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ascensos-y-recompensas-del-ejercito-y-fuerza-aerea-653"
 country: "mx"
 rank: "ley"
 publication_date: "1956-01-07"
-last_updated: "1980-01-04"
+last_updated: "1980-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=653&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1955-12-31"
 
 LEY DE ASCENSOS Y RECOMPENSAS DEL EJERCITO Y FUERZA AEREA NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE ENERO DE 1980.
 
 Ley publicada en el Diario Oficial de la Federación el sábado 7 de enero de 1956.
 
@@ -553,6 +553,10 @@ La condecoración de Perseverancia se otorgará por la Secretaría de la Defensa
 
 Esta condecoración será de cuatro clases: 1a., 2a., 3a. y 4a.; y se concederá por su orden, a los que cumplan 30, 25 20 y 15 años de servicios.
 
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 1980)</small>
+
+Quienes en los términos de esta disposición se hagan acreedores a la Condecoración de perseverancia, a partir de la 4a. clase, tendrán derecho, además, al pago de una prima como complemento del haber. En los Presupuestos de Egresos correspondientes, se fijará oportunamente el monto o proporción de dicha prima.
+
 > <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
 
 ###### ARTICULO 52.
@@ -722,3 +726,9 @@ D.O.F. 4 DE ENERO DE 1980.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 15 DE ENERO DE 1980.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+Artículo Segundo.- Para el año de 1980, la aplicación quedará sujeta a las posibilidades presupuestales.
