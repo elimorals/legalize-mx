@@ -4,7 +4,7 @@ identifier: "SIN-ley-que-establece-las-bases-de-endeudamiento-publico-del-16262"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-03"
-last_updated: "2000-04-03"
+last_updated: "2003-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 LEY QUE ESTABLECE LAS BASES DE ENDEUDAMIENTO PUBLICO DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE SINALOA, PUBLICADA EN EL PERIODICO OFICIAL EL 27 DE AGOSTO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el lunes 03 de abril de 2000.
 
@@ -132,3 +134,15 @@ Gonzalo M. Armienta Calderón.
 El Secretario de Administración y Finanzas.
 
 Oscar J. Lara Aréchiga.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 27 DE AGOSTO DE 2003.
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo. Se abroga la Ley que Establece las Bases de Endeudamiento Público del Estado de Sinaloa de fecha 31 de marzo de 2000, publicada en el Periódico Oficial "El Estado de Sinaloa", número 40 de fecha 3 de abril del mismo año.
+
+Artículo Tercero. Se deroga el inciso e) de la fracción I, del artículo 2 del Código Fiscal del Estado de Sinaloa, y todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o contravengan lo previsto en la presente Ley.
+
+Artículo Cuarto. Las entidades a que se refiere el Artículo 2 de esta Ley contratarán los créditos ya aprobados a la entrada en vigor de la misma en los términos del Decreto respectivo y deberán inscribir todos sus empréstitos o créditos vigentes en el Registro Estatal de Deuda Pública dentro de un plazo de noventa días a partir de la fecha de su publicación.
