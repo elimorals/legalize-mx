@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-agua-del-estado-de-mexico-14161"
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-10"
-last_updated: "2004-10-12"
+last_updated: "2004-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL AGUA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2004.
 
 Ley publicada en la Sección Cuarte de la Gaceta del Gobierno del Estado de México, el miércoles 10 de marzo de 1999.
 
@@ -636,6 +636,18 @@ La Comisión podrá hacer estudios necesarios para determinar la factibilidad de
 Previamente a la ejecución de las obras, la Comisión promoverá la participación de los tres niveles de gobierno, para la realización de aportaciones en la ejecución de proyectos.
 
 Los servicios regionales de suministro de agua en bloque, drenaje y tratamiento de aguas residuales de origen público-urbano, se realizarán previa celebración del convenio correspondiente con el ayuntamiento de que se trate, en el cual se determinarán, en su caso, las aportaciones a realizar para la ejecución de las obras, el caudal a suministrar, la tarifa a pagar, la forma de garantizar el pago y las demás disposiciones y condiciones especiales a considerar en la prestación de los servicios regionales, en los términos de la legislación aplicable.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 61 Bis.
+
+La Comisión para el debido cumplimiento de su objeto y asegurar su capacidad financiera, podrá celebrar convenios con los municipios y con los organismos prestadores de los servicios en los cuales aceptará como fuente o única garantía de pago, o ambas, de los derechos por la prestación de sus servicios, las participaciones derivadas de la Coordinación Fiscal del municipio correspondiente.
+
+La Comisión, para el cumplimiento de sus obligaciones, podrá otorgar al Gobierno Federal, total o parcialmente, las garantías de pago que otorguen a su favor los municipios con los que celebre los convenios a que hace referencia el presente artículo, para hacerse efectivas en caso de incumplimiento de las obligaciones asumidas por los municipios; de la misma manera tratándose de aguas alumbradas por el Estado se otorgarán a la Comisión de manera lisa y llana. Lo anterior se podrá hacer valer, mediante la simple notificación que realice la Comisión al municipio respectivo.
+
+En los casos en que se afecten participaciones derivadas de la Coordinación Fiscal, la afectación a que se refiere el párrafo anterior no estará sujeta a lo dispuesto en el artículo 271 del Código Financiero del Estado de México y Municipios.
+
+Los municipios, a fin de implementar las afectaciones a que hace referencia este Artículo, podrán constituir fideicomisos o utilizar cualesquier otros mecanismos legales con el acuerdo de la Comisión y de la Secretaría de Finanzas, Planeación y Administración.
 
 ### CAPITULO II. Del Servicio de Suministro de Agua Potable
 
@@ -1512,3 +1524,75 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- El presente Decreto prevalecerá sobre cualquier disposición que se oponga al mismo.
 
 CUARTO.- El Ejecutivo Estatal, a través de la Secretaría de Agua, Obra Pública e Infraestructura para el Desarrollo, deberá informar a la Legislatura del Estado a través de la Comisión de Protección Ambiental, sobre todos los actos jurídicos que celebre para dar cumplimiento a lo establecido en el presente Decreto, una vez formalizados dichos actos jurídicos.
+
+G.G. 21 DE DICIEMBRE DE 2004.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+###### ARTICULO TERCERO.
+
+Se otorga un estímulo fiscal a los municipios u organismos operadores, o cualquier otro tipo de organismo u órgano, que sean los responsables de la prestación del servicio de agua potable, drenaje, y tratamiento de aguas residuales municipales, a quienes en lo sucesivo se les denominará el "Prestador del Servicio", consistente en una cantidad equivalente al monto de los adeudos por derechos derivados del suministro de agua en bloque establecidos en el Artículo 95, fracción II, inciso A, del Código Financiero del Estado de México y Municipios, a los que en lo sucesivo se les denominará los "Derechos por Suministro de Agua en Bloque", incluyendo actualizaciones, recargos y multas, que se hayan causado con anterioridad al primero de julio del dos mil cuatro, en los términos que se señalan en el presente Artículo y en los puntos que a continuación se mencionan:
+
+1. Para acogerse a los beneficios del presente ordenamiento, el Prestador del Servicio deberá presentar una solicitud ante la Comisión del Agua del Estado de México, a la que en lo sucesivo se le denominará la "CAEM", acompañando a dicha solicitud los siguientes documentos:
+
+a) Escrito en que se realice el reconocimiento de los créditos fiscales generados por los Derechos por Suministro de Agua en Bloque, que no se ubiquen en el supuesto de prescripción previsto por el artículo 43 del Código Financiero del Estado de México y Municipios. En dicho documento deberá establecerse el monto del crédito fiscal a valor histórico, así como el de las actualizaciones, recargos y multas, conforme al cálculo que se realice en los términos de las disposiciones fiscales aplicables.
+
+Lo anterior, sin menoscabo del ejercicio de las facultades de comprobación en esta materia de la CAEM.
+
+b) Que acrediten que desde el primero de Julio del 2004, a la fecha de la presentación de la solicitud, se encuentran al corriente en el cumplimiento de las obligaciones fiscales a su cargo por concepto de Derechos por Suministro de Agua en Bloque.
+
+c) En el caso de que se hubiese interpuesto algún medio de defensa en contra del cobro de Derechos por Suministro de Agua en Bloque, se deberá acompañar copia sellada del desistimiento correspondiente y copia certificada del acuerdo o resolución dictados por la autoridad u órgano jurisdiccional que conozca el asunto, en el que se ponga fin a la controversia.
+
+d) El acta de cabildo correspondiente, mediante la cual se autorice al municipio correspondiente: (i) para llevar a cabo la afectación en garantía de sus participaciones derivadas de la Coordinación Fiscal a favor de la CAEM, en los términos establecidos en el punto uno del presente Artículo; (ii), para dirigir a la Secretaría de Finanzas, Planeación y Administración, en lo sucesivo la "Secretaría", la solicitud a que se refiere el punto 2 del presente artículo; y (iii) para celebrar el convenio mencionado en el punto 7 del presente artículo.
+
+2. Para asegurar el cumplimiento de pago de los Derechos por Suministro de Agua en Bloque causados a partir del 1 de julio de 2004 a cargo de cada prestador del servicio, cada municipio a quien en lo sucesivo se denominará el "Municipio Participante", deberá avalar el cumplimiento de pago de los Derechos por Suministro de Agua en Bloque de su respectivo Prestador de Servicio y otorgar como garantía a favor de la CAEM, el porcentaje suficiente de sus ingresos por participaciones derivadas de la Coordinación Fiscal, según se acuerde en el convenio a que se refiere el punto siete del presente artículo.
+
+A fin de llevar a cabo la afectación a que hace referencia el párrafo anterior, cada Municipio Participante dirigirá una solicitud a la Secretaría.
+
+3. Este Artículo no será aplicable a un Prestador del Servicio, cuando dicho prestador, sus accionistas, administradores o representadores legales, se encuentres (sic) sujetos a procedimientos judiciales o de investigación ante las autoridades competentes en materia penal, relacionados con el cumplimiento de disposiciones fiscales.
+
+4. El estímulo fiscal a que se refiere el primer párrafo del presente Artículo, se calculará y aplicará conforme a lo siguiente:
+
+a) La CAEM acreditará una cantidad equivalente al monto de los pagos que realice oportunamente el Prestador del Servicio por Derechos por Suministro de Agua en Bloque que se causen a partir de la firma del convenio, a que se refiere el punto 7 del presente Artículo, contra los adeudos reconocidos conforme al inciso a) del punto 1, de los más antiguos a los más recientes, hasta agotar el adeudo.
+
+b) Al efectuar el acreditamiento a que se refiere el inciso anterior, la CAEM acreditará adicionalmente una cantidad equivalente al monto de actualizaciones y recargos relativos al crédito fiscal reconocido, respecto de los Derechos por Suministro de Agua en Bloque, que se causen durante el mismo período a que corresponda el pago de que se trate.
+
+5. Si algún Prestador del Servicio, con anterioridad a la entrada en vigor del presente Decreto, interpuso algún medio de defensa ante los tribunales competentes y, respecto de dicho medio de defensa, se hubiera dictado resolución definitiva adversa a sus intereses, no será sujeto de los beneficios que establece este ordenamiento, por lo que hace a los créditos materia de dicho medio de defensa.
+
+6. Para acogerse a los beneficios que ampara el presente Artículo, cada Prestador del Servicio deberá comprometerse a:
+
+a) Convenir la forma y el monto de pago de los Derechos por Suministro de Agua en Bloque que se causen a partir del primero de julio de 2004, en función de la capacidad financiera y de pago de cada organismo.
+
+b) Cumplir con un programa de eficiencias físicas, comerciales y financieras en su operación, con base a estudios de prediagnóstico y diagnóstico elaborados de manera conjunta federación, estado y municipios, los cuales se elaborarán en un plazo no mayor a dieciocho meses contados a partir de la firma de los convenios correspondientes.
+
+7. La CAEM será el órgano encargado de revisar y, en su caso, aprobar la solicitud que el Prestador del Servicio presente de conformidad con lo señalado en el punto 1 del presente Artículo.
+
+Una vez autorizada la solicitud correspondiente, la adeción (sic) al presente Artículo deberá ser formalizada por medio de la firma de un convenio entre la CAEM y cada Prestador del Servicio.
+
+8. En el caso de que el Prestador del Servicio omita dar cumplimiento de sus obligaciones fiscales por más de tres meses consecutivos o al programa de eficiencias físicas, comerciales y financieras establecidas para cada año, a que se refieren los incisos a) y b) del punto 6 del presente Artículo no tendrá derecho al acreditamiento que se prevé en este Artículo y deberá cubrir el total del crédito fiscal que hubiese sido reconocido de conformidad con lo que señala en el inciso a) del punto 1 del presente Artículo, así como la actualización y accesorios de dicho crédito que se hubiesen generado y sigan causándose hasta la fecha en que los cubra. Lo anterior, con independencia de las diferencias que determine a su cargo la CAEM a que se refiere el citado punto 1, en ejercicio de sus facultades de comprobación.
+
+9. En el caso de que las autoridades fiscales estatales hayan iniciado procedimiento administrativo de ejecución con motivo de los créditos fiscales generados por los conceptos a que se refiere el primer párrafo del presente Artículo, aquel será suspendido en el momento en que el Prestador del Servicio se acoja a los beneficios que en él se establecen, a través del convenio previsto en el punto siete de este Artículo.
+
+10. La aplicación de los beneficios establecidos, en el presente Artículo no dará lugar a devolución alguna.
+
+11. La Secretaría de Agua, Obra Pública e Infraestructura para el Desarrollo podrá expedir las disposiciones de carácter general que sean necesarias para la correcta y debida aplicación del estímulo fiscal a que se refiere el presente Artículo.
+
+12. Se autoriza a los Ayuntamientos a suscribir por sí, o a través de sus organismos operadores de agua los convenios a que hace referencia el punto 7 del presente artículo para adherirse a los beneficios del estímulo fiscal a que se refiere el presente artículo, y a otorgar a la CAEM en garantía del cumplimiento del pago de los Derechos por Suministro de Agua en Bloque el porcentaje de sus participaciones derivadas de la Coordinación Fiscal que les correspondan, mismo que se especificará en el convenio de referencia. La vigencia de dicho convenio y de la afectación de participaciones federales correspondientes, podrán exceder el período constitucional para el que fue electo el ayuntamiento del Municipio Participante correspondiente.
+
+###### ARTICULO CUARTO.
+
+Los Municipios y Organismos Operadores de Agua podrán con la aprobación de sus cabildos y consejos directivos respectivamente, implementar un Programa de Estímulos Fiscales a sus usuarios de uso doméstico, por el suministro de agua potable establecidos en el artículo 130 fracción I del Código Financiero del Estado de México, incluyendo actualizaciones, recargos y multas de hasta el 100% que se hayan causado con anterioridad al 1 de julio de 2004, en los términos que a continuación se señalan:
+
+a) Reconocimiento de la deuda al día treinta de junio de dos mil cuatro para su pago, o en su caso la suscripción del convenio para cubrir el crédito fiscal en parcialidades, en términos del Código Financiero del Estado de México y Municipios.
+
+b) Autorización por escrito para la instalación de medidores a costa del usuario, en términos del artículo 133 del Código Financiero para el Estado de México y Municipios.
+
+c) Pago del adeudo del mes de julio a la fecha de la firma del convenio con el usuario, que permita que esté al corriente en sus pagos.
+
+d) En caso de incumplimiento en el pago por más de tres meses.
