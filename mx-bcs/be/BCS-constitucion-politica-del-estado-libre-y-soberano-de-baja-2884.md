@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1980-04-07"
+last_updated: "1980-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE ABRIL DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE ABRIL DE 1980.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -791,7 +791,7 @@ V.- No haber sido condenado por delito intencional.
 
 92.- Los nombramientos de Magistrados del Tribunal Superior de Justicia que el Gobernador del Estado someta al Congreso del Estado o a la Comisión Permanente, en su caso, deberán ser aprobados o desechados dentro del improrrogable término de diez días.
 
-Si el Congreso del Estado o la Comisión Permanente, en su caso, nada resolviere dentro del plazo anterior, se tendrán por aprobados los nombramiencos y los designados entrarán a desempeñar sus funciones.
+Si el Congreso del Estado o la Comisión Permanente, en su caso, nada resolviere dentro del plazo anterior, se tendrán por aprobados los nombramiencos (sic) y los designados entrarán a desempeñar sus funciones.
 
 En caso de que no se aprueben dos nombramientos sucesivos respecto a una misma vacante, el Gobernador del Estado hará un tercero que surtirá efectos desde luego como provisional y que será sometido a la aprobación de la Comisión Permanente. Cuando los nombramientos hayan sido sometidos a la Comisión Permanente, el tercero se someterá al Congreso del Estado en el siguiente período de sesiones.
 
@@ -913,17 +913,25 @@ II.- Los ingresos que adquiera por concepto de convenios, participaciones legale
 
 ### CAPITULO II. DE LA EXTENSION, LIMITES Y CABECERAS
 
-120.- El territorio del Estado de Baja California Sur, se divide en tres Municipios que son: La Paz, Comondú y Mulegé, que tendrán los siguientes límites:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE ABRIL DE 1980)</small>
 
-a).- MUNICIPIO DE LA PAZ: Al norte colinda con el Municipio de Comondú, línea descrita en la colindancia sur de la municipalidad citada; por el este, sur y oeste, lo rodean las aguas litorales del Golfo de California y el Océano Pacífico, respectivamente.
+120.- El territorio del Estado de Baja California Sur se divide en cuatro Municipios que son: La Paz, Comondú, Mulegé y Los Cabos, que tendrán los siguientes límites:
+
+> <small>(REFORMADO, B.O. 10 DE ABRIL DE 1980)</small>
+
+a).- Municipio de La Paz: al Norte, colinda con el Municipio de Comondú, línea descrita en la colindancia Sur de la municipalidad citada; por el Sur, con la colindancia Norte del Municipio de Los Cabos; por el Este y el Oeste, lo rodean aguas litorales del Golfo de California y el Océano Pacífico, respectivamente.
 
 b).- MUNICIPIO DE COMONDU: Al norte la misma línea de colindancia del sur del Municipio de Mulegé; por el sur, colinda con la municipalidad de La Paz, en una línea recta que parte del Golfo de California, del lugar conocido por Los Dolores que corresponde a la municipalidad de La Paz, cruzando la península hasta un lugar conocido por El Cayuco, rada que se ubica en la Costa de Bahía de Almejas, en el litoral del Océano Pacífico; por el este colinda con el litoral del Golfo de California y por el oeste con el Océano Pacífico.
 
 c).- MUNICIPIO DE MULEGE: Al norte colinda con el Estado de Baja California, siendo su línea limítrofe el paralelo 28° de latitud norte; al sur con una línea que partiendo de la Punta de San Ildefonso, situada en el extremo sur de la Bahía de San Nicolás, sigue con rumbo suroeste hasta el punto conocido por Cerrito de la Pitahaya, situado al sureste e inmediato al Puerto de Santa Rosaliita (sic); de aquí con rumbo oeste, hasta llegar al litoral del Pacífico, con el lugar conocido por la Bocana de Rancho Nuevo; por el este con el Golfo de California y por el oeste con el Océano Pacífico.
 
-Las cabeceras de los Municipios antes descritos, serán las siguientes:
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 10 DE ABRIL DE 1980)</small>
 
-De La Paz, la población del mismo nombre; de Comondú, Ciudad Constitución; y de Mulegé, Santa Rosalía.
+d).- Municipio de Los Cabos: al Norte, en línea quebrada con la Delegación de Todos Santos, partiendo del Océano Pacífico de un punto llamado "La Tinaja", que va en línea recta al copo de la Sierra de "La Soledad" rumbo al Este; de este punto hacia el Norte, en línea recta al copo de la sierra de "Santa Genoveva" y de este lugar pasando por el copo de la Sierra de "Las Casitas" hasta un lugar conocido como "San Vicente"; de este lugar en línea recta hacia el Este hasta llegar a "Piedras Gordas" Delegación de San Antonio, en el Golfo de California; al Sur, el Océano Pacífico; al Este, el Golfo de California, y al Oeste, el Océano Pacífico y la Delegación de Todos Santos.
+
+> <small>(REFORMADO, B.O. 10 DE ABRIL DE 1980)</small>
+
+Las cabeceras de los Municipios antes descritos serán las siguientes: La Paz, la población del mismo nombre; Comondú, Ciudad Constitución; de Mulegé, Santa Rosalía y de Los Cabos, San José del Cabo.
 
 121.- Los Municipios se dividirán en:
 
@@ -1408,3 +1416,29 @@ B.O. 7 DE ABRIL DE 1980.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el siguiente día al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 10 DE ABRIL DE 1980.
+
+###### ARTICULO 1o.
+
+A partir de la fecha en que entre en vigor este Decreto, todas las personas que de manera definitiva, temporal o transitoria residan dentro del territorio que corresponda al nuevo Municipio, se considerarán vecinos y habitantes del mismo y quedarán sujetas a la jurisdicción de las autoridades de éste.
+
+###### ARTICULO 2o.
+
+Los bienes propiedad del Municipio de La Paz ubicados en el territorio que se le segrega, pasarán, mediante el procedimiento legal correspondiente a integrar el patrimonio del Municipio de Los Cabos.
+
+###### ARTICULO 3o.
+
+Las obligaciones de contenido económico o suscritos por el Ayuntamiento de La Paz por obras de beneficio colectivo realizadas por éste en el territorio del Municipio de Los Cabos, a partir de la vigencia del presente Decreto pasa a cargo del nuevo gobierno municipal.
+
+###### ARTICULO 4o.
+
+Mientras los Ordenamientos propios del nuevo Municipio no sean expedidos seguirán aplicándose los vigentes hasta ese momento en su respectivo territorio.
+
+###### ARTICULO 5o.
+
+El Ayuntamiento de La Paz, ejercerá sus atribuciones en el Municipio que se crea, hasta el 31 de diciembre de 1980, y deberá formular la iniciativa de Ley de Ingresos del mismo, tramitándolo en los términos del artículo 26, fracción X de la Ley Orgánica Municipal.
+
+###### ARTICULO 6o.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
