@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interno-de-la-contaduria-mayor-de-hacienda-11899"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-12-03"
-last_updated: "1991-12-03"
+last_updated: "1996-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERNO DE LA CONTADURIA MAYOR DE HACIENDA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1996.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 3 de diciembre de 1991.
 
@@ -291,7 +291,7 @@ b) Presentar los informes y dictámenes derivados de las visitas y auditorías p
 
 c) Elaborar los proyectos de pliegos de observaciones, que procedan, con motivo de las revisiones y auditorías practicadas a las entidades;
 
-VIII.- Proponer al Contador Mayor Hacienda, se sugiera a las entidades, la adopción y establecimiento de medidas de control para el mejor cumplimiento de las Leyes a que estén sujetas;
+VIII.-·Proponer al Contador Mayor Hacienda, se sugiera a las entidades, la adopción y establecimiento de medidas de control para el mejor cumplimiento de las Leyes a que estén sujetas;
 
 IX.- Coordinarse con las demás Direcciones de la Contaduría Mayor de Hacienda, para el buen funcionamiento de la dependencia y cuando la realización de los planes y programas de trabajo autorizados, así lo requieran; y
 
@@ -411,9 +411,19 @@ XX.- Formular, bajo los lineamientos que apruebe el Contador Mayor de Hacienda, 
 
 XXI.- Asesorar, en general, jurídicamente a la Contaduría Mayor de Hacienda, desahogando las consultas que por escrito se le formulen; y realizar los estudios, trabajos, comisiones y actividades que, en materia legal, requiera en el desempeño de sus funciones;
 
-XXII.- Coordinarse con las demás Direcciones de la Contaduría Mayor de Hacienda, para el buen funcionamiento de la dependencia y cuando la realización de los planes y programas de trabajo autorizados, así como lo requieran; y
+XXII.- Coordinarse con las demás Direcciones de la Contaduría Mayor de Hacienda, para el buen funcionamiento de la dependencia y cuando la realización de los planes y programas de trabajo autorizados, así como lo requieran; y (sic)
 
-XXIII.- Las demás que le señale este Reglamento, y aquellas disposiciones que, por escrito, le expida el Contador Mayor de Hacienda.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+XXIII.- Vigilar que las formas valoradas cumplan con los requisitos de Ley;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+XXIV.- Las demás que le señale este Reglamento y aquellas disposiciones que, por escrito, le expida el Contador Mayor de Hacienda.
 
 ###### Art. 15.
 
@@ -423,9 +433,19 @@ I.- Un Departamento Jurídico;
 
 II.- Un Departamento de Responsabilidades y Finiquitos;
 
-III.- Un Departamento de Consultoría; y
+III.- Un Departamento de Consultoría; y (sic)
 
-IV.- Las demás áreas administrativas y personal auxiliar que requiera el funcionamiento de la Dirección y que autorice el presupuesto de egresos de la Dependencia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+IV.- Un departamento de control de formas valoradas y papelería oficial, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+V.- Las demás áreas administrativas y personal auxiliar que requiera el funcionamiento de la Dirección y que autoriza el presupuesto de egresos de la dependencia.
 
 ### CAPITULO IX. DE LAS ATRIBUCIONES DE LA DIRECCION TECNICA
 
@@ -758,3 +778,9 @@ Lic. Guillermo Cosío Vidaurri
 El Secretario General de Gobierno
 
 Lic. Enrique Romero González
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 28 DE DICIEMBRE DE 1996.
+
+Unico. El presente decreto entrará en vigor el día 1 de enero de 1997, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
