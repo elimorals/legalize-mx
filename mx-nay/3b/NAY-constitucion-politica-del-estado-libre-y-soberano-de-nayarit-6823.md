@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1977-07-20"
+last_updated: "1977-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 1977.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -51,7 +51,7 @@ El Estado es Libre y Soberano en cuanto a su régimen interior corresponde, pero
 
 ###### Art. 2.
 
-El Gobierno del Estado es Republicano, popular y representativo, teniendo como base de su división territorial y de su organización política y administrativa el Municipio Libre, en los términos que establece la Constitución General de la República.
+El Gobierno del Estado es Repúblicano, popular y representativo, teniendo como base de su división territorial y de su organización política y administrativa el Municipio Libre, en los términos que establece la Constitución General de la República.
 
 ### CAPITULO II. Del Territorio del Estado
 
@@ -59,7 +59,7 @@ El Gobierno del Estado es Republicano, popular y representativo, teniendo como b
 
 ###### Art. 3.
 
-El territorio del Estado es el que le corresponde conforme a la Constitución Federal, y se divide en los siguientes Municipios: Acaponeta, Ahuacatlán, Amatlán de Cañas, Compostela, Del Nayar, Huajicori, Ixtlán del Río Jala, Xalisco, La Yesca, Rosamorada, Ruiz, San Blas San Pedro Lagunillas, Santiago Ixc., Santa María del Oro Tecuala Tepic y Tuxpan. Igualmente forman parte del Territorio del Estado las Islas que le corresponden conforme al Artículo 48º de la Constitución General de la República.
+El territorio del Estado es el que le corresponde conforme a la Constitución Federal, y se divide en los siguientes Municipios: Acaponeta, Ahuacatlán, Amatlán de Cañas, Compostela, Del Nayar, Huajicori, Ixtlán del Río Jala, Xalisco, La Yesca, Rosamorada, Ruiz, San Blas San Pedro Lagunillas, Santiago Ixc., Santa María del Oro Tecuala Tepic y Tuxpan. Igualmente forman parte del Territorio del Estado las Islas que le corresponden conforme al Artículo 48° de la Constitución General de la República.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
@@ -353,11 +353,11 @@ El Congreso del Estado se renovará cada tres años contados desde el 15 de octu
 
 La Legislatura del Estado celebrará anualmente dos períodos de sesiones ordinarias: uno que contará desde el 15 de octubre hasta el día 14 de enero, y otro que comenzará el 15 de abril terminando el 14 de Julio. Cada uno de estos períodos podrá prorrogarse hasta por un mes, si así lo exige la importancia de los asuntos pendientes de resolución y lo juzga necesario las dos terceras partes de los CC. Diputados.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1943)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 1977)</small>
 
 ###### Art. 37.
 
-Durante el primer mes del primer Período Ordinario de Sesiones de cada año, de toda preferencia se ocupará la Legislatura del examen y votación de los Presupuestos del Estado y a decretar las contribuciones para cubrirlos.
+Durante el periodo ordinario de sesiones de cada año, de toda preferencia la Legislatura se ocupará del examen y votación de los Presupuestos del Estado, y a decretar las contribuciones para cubrirlos.
 
 > <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1943)</small>
 
@@ -391,13 +391,13 @@ A estas sesiones extraordinarias, precederá una Junta Preparatoria.
 
 La celebración de sesiones extraordinarias no impedirá la elección del Congreso en el tiempo que deba hacerse, y el nuevo seguirá ocupándose del asunto o asuntos de que se ocupaba el saliente.
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1977)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 1977)</small>
 
 ###### Art. 42.
 
-El Gobernador asistirá a la sesión solemne del Congreso el 15 de noviembre de cada año y presentará un informe por escrito, en el que se exponga suscintamente, el estado de todos los Ramos de la Administración Pública. El Presidente de la Legislatura contestará en términos generales.
+El Congreso celebrará sesión solemne el tercer domingo de diciembre de cada año, a la que comparecerá el Gobernador y rendirá por escrito un informe anual, en el que expondrá sucintamente el estado de todos los Ramos de la Administración Pública. El Presidente de la Legislatura contestará en términos generales.
 
-El último año de su mandato, el Gobernador rendirá su informe administrativo ante el Congreso el primero de noviembre.
+Solo el último año de su mandato, el Gobernador rendirá dicho informe el 15 de octubre.
 
 > <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1943)</small>
 
@@ -495,7 +495,7 @@ XIX. Decidir acerca de las elecciones de Ayuntamientos cuando se reclame la nuli
 
 > <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
-XX. Conceder amnistía y expedir las Leyes de indulto, cuando lo estime de equidad.
+XX. Conceder amnistía y expedir Leyes de indulto, cuando lo estime de equidad.
 
 XXI. Dictar leyes sobre vías de comunicación local del Estado, sobre empresas de utilidad pública y aprovechamientos de las aguas de su jurisdicción, siempre que no tengan carácter de prepiedad (sic) federal.
 
@@ -735,9 +735,9 @@ II.- Sancionar, promulgar y ejecutar las Leyes y Decretos dados por el Poder Leg
 
 III.- Iniciar ante la Legislatura, las Leyes y Decretos que juzgue convenientes para el mejoramiento de la administración pública y pedirle que inicie ante el Congreso de la Unión, lo que sea de la competencia Federal.
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1976)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 1977)</small>
 
-IV.- Presentar a la Legislatura dentro de los primeros diez días del primer período de sesiones de cada año, el presupuesto de gastos del año siguiente, proponiendo arbitrios para cubrirlo.
+IV.- Presentar a la Legislatura, en la primera decena del mes de Diciembre, el Presupuesto de gastos del año siguiente, proponiendo arbitrios para cubrirlo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MARZO DE 1977)</small>
 
@@ -1337,7 +1337,7 @@ El presente Decreto deroga todas las disposiciones que a él se opongan y empeza
 
 P.O. 14 DE AGOSTO DE 1924.
 
-Por esta sola vez, y de acuerdo con lo que estatuye el Reglamento Interior del H. Congreso en su artículo 5o, el día 15 de diciembre del año en curso, se hará la elección de los C.C. Magistrados Propietarios que faltan para que sea integrado el Tribunal Trinitario (sic); a cuyo efecto, la Comisión Permanente que funcione en aquella fecha, se encargará de hacer la convocatoria que procede. Los Ciudadanos electos rendirán la protesta de ley, el día 27 del propio diciembre ante la Diputación Permanente y se harán cargo de sus puestos, el 1o. de enero próximo.
+Por esta sola vez, y de acuerdo con lo que estatuye el Reglamento Interior del H. Congreso en su artículo 5o, el día 15 de Diciembre del año en curso, se hará la elección de los C.C. Magistrados Propietarios que faltan para que sea integrado el Tribunal Trinitario (sic); a cuyo efecto, la Comisión Permanente que funcione en aquella fecha, se encargará de hacer la convocatoria que procede. Los Ciudadanos electos rendirán la protesta de ley, el día 27 del propio diciembre ante la Diputación Permanente y se harán cargo de sus puestos, el 1o. de enero próximo.
 
 P.O. 3 DE MAYO DE 1925.
 
@@ -1554,3 +1554,15 @@ P.O. 20 DE JULIO DE 1977.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 5 DE NOVIEMBRE DE 1977.
+
+DECRETO 5979, REFORMA ART. 42.
+
+UNICO.- Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 5 DE NOVIEMBRE DE 1977.
+
+DECRETO 5980, REFORMA ARTS. 37 Y 69.
+
+UNICO.- Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
