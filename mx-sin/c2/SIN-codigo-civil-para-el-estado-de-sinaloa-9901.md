@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "1941-05-29"
+last_updated: "1941-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 1941.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 1941.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -6739,8 +6739,6 @@ IV.- Por último, se ministrarán igualmente a prorrata, a los demás parientes 
 
 Es inoficioso el testamento en que no se deje la pensión alimenticia, según lo establecido en este Capítulo.
 
-> <small>(F. DE E., P.O. 28 DE NOVIEMBRE DE 1940)</small>
-
 ###### Artículo 1274.
 
 El preterido tendrá solamente derecho a que se le de la pensión que corresponda, subsistiendo el testamento en todo lo que no perjudique ese derecho.
@@ -7533,7 +7531,7 @@ Toda persona que tuviere en su poder un testamento cerrado y no lo presente, com
 
 ### CAPITULO VI.
 
-Del Testamento MIlitar.
+Del Testamento Militar.
 
 ###### Artículo 1448.
 
@@ -8889,11 +8887,13 @@ En los contratos civiles cada uno se obliga en la manera y términos que aparezc
 
 Cuando la ley exija determinada forma para un contrato, mientras que éste no revista esa forma no será válido, salvo disposición en contrario; pero si la voluntad de las partes para celebrarlo consta de manera fehaciente, cualquiera de ellas puede exigir que se dé al contrato la forma legal.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1941)</small>
+
 ###### Artículo 1719.
 
 Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
 
-Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
+Si alguna de ellas no puede o no sabe firmar, firmará otra a su ruego, debiendo prestarse la ratificación correspondiente ante Notario o ante el Juez de Primera Instancia del Distrito Judicial en que se comprenda el lugar de la celebración del acto.
 
 División de los Contratos.
 
@@ -10899,9 +10899,11 @@ La promesa de contratar o sea el contrato preliminar de otro puede ser unilatera
 
 La promesa de contrato sólo da origen a obligaciones de hacer, consistentes en celebrar el contrato respectivo de acuerdo con lo ofrecido.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1941)</small>
+
 ###### Artículo 2128.
 
-Para que la promesa de contratar sea válida debe constar por escrito, contener los elementos característicos del contrato definitivo y limitarse a cierto tiempo.
+Para que la promesa de contratar sea válida debe constar por escrito, contener los elementos característicos del contrato definitivo y limitarse a cierto tiempo; pero si la promesa recae sobre un inmueble, el contrato respectivo deberá otorgarse en escritura pública si el valor excede de quinientos pesos.
 
 ###### Artículo 2129.
 
@@ -11263,9 +11265,11 @@ De las Donaciones en General.
 
 El contrato de compra-venta no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1941)</small>
+
 ###### Artículo 2199.
 
-La venta de un inmueble que tenga un valor hasta de cinco mil pesos, podrá hacerse en instrumento privado que firmarán el vendedor y el comprador ante dos testigos.
+La venta de un inmueble que tenga un valor hasta de quinientos pesos, podrá otorgarse en escritura privada.
 
 ###### Artículo 2200.
 
@@ -11275,9 +11279,11 @@ Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su r
 
 De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1941)</small>
+
 ###### Artículo 2202.
 
-Si el valor del inmueble excede de cinco mil pesos, su venta se hará en escritura pública.
+Si el valor del inmueble excede de quinientos pesos su venta se otorgará en escritura pública.
 
 ###### Artículo 2203.
 
@@ -11701,9 +11707,11 @@ Se prohibe a los encargados de los establecimientos públicos y a los funcionari
 
 El arrendamiento debe otorgarse por escrito cuando la renta pase de cien pesos anuales.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1941)</small>
+
 ###### Artículo 2289.
 
-Si el predio fuere rústico y la renta pasare de cinco mil pesos anuales, el contrato se otorgará en escritura pública.
+Si el predio fuere rústico y la renta pasare de un mil pesos anuales, el contrato se otorgará en escritura pública.
 
 ###### Artículo 2290.
 
@@ -12397,17 +12405,17 @@ Solamente será gratuito el mandato cuando así se haya convenido expresamente.
 
 ###### Artículo 2432.
 
-El mandato puede ser escrito o verbal.
+(DEROGADO, P.O. 31 DE MAYO DE 1941)
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1941)</small>
 
 ###### Artículo 2433.
 
-El mandato escrito puede otorgarse:
+El mandato será siempre por escrito y podrá otorgarse:
 
 I.- En escritura pública;
 
-II.- En escrito privado, firmado por el otorgante y dos testigos y ratificadas las firmas ante Notario Público, Juez de Primera Instancia, Jueces Menores o ante el correspondiente funcionario o empleado administrativo, cuando el mandato se otorgue para asuntos administrativos;
-
-III.- En carta poder sin ratificación de firmas.
+II.- En carta poder o escrito privado firmado por el otorgante ante dos testigos y ratificadas las firmas ante Notario o Jueces de Primera Instancia, cuando sea judicial y el interés del negocio no sea mayor de un mil pesos.
 
 ###### Artículo 2434.
 
@@ -12431,21 +12439,21 @@ Cuando se quisieren limitar, en los tres casos antes mencionados, las facultades
 
 Los notarios insertarán este artículo en los testimonios de los poderes que otorguen.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1941)</small>
+
 ###### Artículo 2437.
 
-El mandato debe otorgarse en escritura pública o en carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante Notario, ante los Jueces o autoridades administrativas correspondientes:
+El mandato deberá siempre otorgarse en escritura pública en los casos siguientes:
 
-I.- Cuando sea general;
+I.- Cuando sea general, amplísimo de administración y para ejercer actos de dominio;
 
-II.- Cuando el interés del negocio para que se confiere llegue a cinco mil pesos o exceda de esa cantidad;
+II.- Cuando sea judicial y el interés del negocio para que se usa sea mayor de un mil pesos;
 
-III.- Cuando en virtud de él haya de ejecutar el mandatario, a nombre del mandante, algún acto que conforme a la ley debe constar en instrumento público.
+III.- Cuando deba usarse para la tramitación de juicios de divorcio, nulidad de matrimonio, para la celebración de éste, y para todos aquellos a que este Código se refiere.
 
 ###### Artículo 2438.
 
-El mandato podrá otorgarse en escrito privado firmado ante dos testigos, sin que sea necesaria la previa ratificación de las firmas, cuando el interés del negocio para que se confiere exceda de doscientos pesos y no llegue a cinco mil.
-
-Sólo puede ser verbal el mandato cuando el interés del negocio no exceda de doscientos pesos.
+(DEROGADO, P.O. 31 DE MAYO DE 1941)
 
 ###### Artículo 2439.
 
@@ -12593,9 +12601,9 @@ II.- Los jueces, magistrados y demás funcionarios y empleados de la administrac
 
 III.- Los empleados de la Hacienda Pública, en cualquiera causa en que puedan intervenir de oficio, dentro de los límites de sus respectivos distritos.
 
-###### Artículo 2468.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1941)</small>
 
-El mandato judicial será otorgado en escritura pública, o en escrito presentado y ratificado por el otorgante ante el juez de los autos. Si el juez no conoce al otorgante, exigirá testigos de identificación.
+###### Artículo 2468.
 
 La substitución del mandato judicial se hará en la misma forma que su otorgamiento.
 
@@ -13145,9 +13153,11 @@ Por el contrato de sociedad los socios se obligan mutuamente a combinar sus recu
 
 La aportación de los socios puede consistir en una cantidad de dinero u otros bienes, o en su industria. La aportación de bienes implica la transmisión de su dominio a la sociedad, salvo que expresamente se pacte otra cosa.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1941)</small>
+
 ###### Artículo 2572.
 
-El contrato de sociedad debe constar por escrito, pero se hará constar en escritura pública cuando algún socio transfiera a la sociedad bienes cuya enajenación deba hacerse en escritura pública.
+El contrato de sociedad deberá constar precisamente por escrito; pero si el capital social es mayor de quinientos pesos, deberá otorgarse aquél en escritura pública.
 
 ###### Artículo 2573.
 
@@ -14287,9 +14297,11 @@ El acreedor hipotecario puede adquirir la cosa hipotecada, en remate judicial, o
 
 Puede también convenir con el deudor en que se le adjudique en el precio que se fije al exigirse la deuda, pero no al constituírse la hipoteca. Este convenio no puede perjudicar los derechos de tercero.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1941)</small>
+
 ###### Artículo 2798.
 
-Cuando el crédito hipotecario exceda de cinco mil pesos, la hipoteca debe otorgarse en escritura pública. Cuando no exceda de esa cantidad, podrá otorgarse en escritura privada, ante dos testigos, de la cual se harán tantos ejemplares como sean las partes contratantes.
+Cuando el crédito hipotecario exceda de quinientos pesos, el contrato respectivo deberá otorgarse en escritura pública. Cuando no exceda de esa cantidad, podrá otorgarse en escritura privada, ante dos testigos y ratificadas las firmas ante Notario o Jueces de Primera Instancia, debiendo hacerse tantos ejemplares cuantas sean las partes contratantes.
 
 ###### Artículo 2799.
 
@@ -15174,5 +15186,9 @@ P.O. 16 DE ENERO DE 1941.
 Unico.- Este Decreto comenzará a surtir sus efectos a partir del primero de diciembre del año de 1940, derogando las disposiciones que se le opongan.
 
 P.O. 29 DE MAYO DE 1941.
+
+Unico.- El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial.
+
+P.O. 31 DE MAYO DE 1941.
 
 Unico.- El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial.
