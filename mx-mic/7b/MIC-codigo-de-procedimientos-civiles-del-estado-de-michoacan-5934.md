@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-civiles-del-estado-de-michoacan-5934"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1956-08-27"
+last_updated: "1958-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 1956.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 1958.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el 30 de julio de 1936.
 
@@ -7313,11 +7313,13 @@ De la Justicia Municipal
 
 ### CAPITULO I. Disposiciones generales
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 1958)</small>
+
 ###### Artículo 1405.
 
-Conocerán los jueces municipales de los juicios cuya cuantía no exceda de trescientos pesos; y los jueces de tenencia de los que no excedan de veinticinco pesos.
+Conocerán los Jueces Municipales de los juicios cuya cuantía no exceda de un mil pesos; y los jueces de tenencia de los que no excedan de cincuenta pesos.
 
-Para estimar el interés del negocio se atenderá a lo que el actor demande. Los réditos, daños y perjuicios no serán tenidos en consideración si son posteriores a la presentación de la demanda aun cuando se reclamen en ellos.
+Para estimar el interés del negocio se atenderá a lo que el actor demande. Los réditos, daños y perjuicios no serán tenidos en consideración si son posteriores a la presentación de la demanda aún cuando se reclamen en ellos.
 
 Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en un año, a no ser que se tratare de prestaciones vencidas, en cuyo caso se estará a lo dispuesto en la primera parte de este artículo.
 
@@ -7708,3 +7710,13 @@ P.O. 27 DE AGOSTO DE 1956.
 ###### ARTICULO UNICO.
 
 Esta Ley entrará en vigor diez días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE ABRIL DE 1958.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley tendrá vigencia a los 5 cinco días de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+De os juicios civiles que se hallen en trámite en los Juzgados de Primera Instancia y tengan una cuantía que no exceda de un mil pesos, deberán conocer los jueces menores municipales correspondientes al Distrito Judicial de que se trate, a partir de la vigencia de la presente reforma.
