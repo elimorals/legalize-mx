@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-ejecucion-de-penas-privativas-y-restrictivas-de-10373"
 country: "mx"
 rank: "ley"
 publication_date: "1971-06-10"
-last_updated: "1996-12-19"
+last_updated: "1998-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EJECUCION DE PENAS PRIVATIVAS Y RESTRICTIVAS DE LIBERTAD DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 1998.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 10 de junio de 1971.
 
@@ -391,7 +391,7 @@ Cuando a juicio del Ejecutivo se demuestre la insolvencia económica del solicit
 
 VI.- Que el agraciado con la libertad preparatoria resida en el lugar que se determine y del cual no podrá ausentarse sin el permiso del Departamento de Prevención Social. La designación se hará conciliando la circunstancia de que el reo pueda proporcionarse trabajo en el lugar que se le fije, como el hecho de que su permanencia en él no sea un obstáculo para su enmienda.
 
-> <small>(N. DE E. POR DECRETO No. 221, PUBLICADO EN EL P.O. No. 49 DE FECHA 19 DE DICIEMBRE DE 1996, SE DEJA EN SUSPENSO LA VIGENCIA DEL PRESENTE ARTICULO EXCLUSIVAMENTE EN LO QUE SE REFIERE AL DELITO DE ROBO CALIFICADO, A FAVOR DE LOS INTERNOS SENTENCIADOS POR DICHO ILICITO, Y QUE A LA ENTRADA EN VIGOR DE ESTE DECRETO SE ENCUENTREN COMPURGANDO LA PENA CORRESPONDIENTE)</small>
+(N. DE E. POR DECRETO No. 429, PUBLICADO EN EL P.O. No. 28 DE FECHA 5 DE ABRIL DE 1998, SE REFORMAN LOS ARTICULOS PRIMERO Y SEGUNDO DEL DECRETO No. 221 DE 11 (SIC) DE DICIEMBRE DE 1996, Y QUE DEJA EN SUSPENSO LA VIGENCIA DEL PRESENTE ARTICULO EXCLUSIVAMENTE EN LO QUE SE REFIERE AL DELITO DE ROBO CALIFICADO, A FAVOR DE LOS INTERNOS SENTENCIADOS POR EL MISMO CON FECHA ANTERIOR AL 14 DE SEPTIEMBRE DE 1998, SIEMPRE Y CUANDO SE ENCUENTREN COMPURGANDO LA SANCION CORRESPONDIENTE)
 
 ###### Artículo 55.
 
@@ -615,6 +615,10 @@ SEGUNDO.- Todos los procesos y recursos relativos a los delitos especificados en
 
 P.O. 19 DE DICIEMBRE DE 1996.
 
-PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+PRIMERO.- El presente Decreto, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Una vez que se cumplan los supuestos de la suspensión de la vigencia de que se trata el presente Decreto, las disposiciones correspondientes recobrarán su pleno vigor en forma automática, sin que para ello se requiera declaración alguna del Congreso del Estado.
+
+P.O. 5 DE ABRIL DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
