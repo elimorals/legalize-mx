@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-1-1994-del-tribunal-en-pleno-del-dia-primero-630
 country: "mx"
 rank: "acuerdo"
 publication_date: "1994-02-25"
-last_updated: "1996-03-12"
+last_updated: "1996-04-09"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63024&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-02-01"
 
 ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MARZO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE ABRIL DE 1996.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 25 de febrero de 1994.
 
@@ -105,7 +105,13 @@ CUARTO.- Se reforma, modifica y adiciona el punto segundo, fracciones II, V, XII
 
 2.- Juzgados Primero y Segundo de Distrito en el Estado de Yucatán, con residencia en la ciudad de Mérida;
 
-3.- Juzgado de Distrito en el Estado de Quintana Roo, con residencia en la ciudad de Chetumal;
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 17/1995 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 1996)</small>
+
+3.- Juzgado Primero de Distrito en el Estado de Quintana Roo, con residencia en Ciudad Chetumal;
+
+> <small>(ADICIONADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 17/1995 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 1996)</small>
+
+3 Bis.- Juzgado Segundo de Distrito en el Estado de Quintana Roo, con residencia en Cancún;
 
 4.- Juzgados Primero y Segundo de Distrito en el Estado de Campeche, con residencia en la ciudad de Campeche".
 
@@ -207,7 +213,15 @@ QUINTO.- Se reforma modifica y adiciona el punto Tercero, fracciones IV, V, VI, 
 
 "XL.- Los Juzgados Segundo, Tercero y Cuarto de Distrito en el Estado de Guerrero, con residencia en la ciudad de Acapulco, ejercerán jurisdicción en los municipios de: Acapulco de Juárez, Atoyac de Alvarez, Ayutla de los Libres, Azoyú, Benito Juárez, Coahuayutla de Guerrero, Copala, Coyuca de Benítez, Cuajinicuilapa, Cuautepec, Florencio Villarreal, Igualapa, José Azueta, Juan R. Escudero, Ometepec, Petatlán, San Luis Acatlán, Tecoanapa, Tecpan de Galeana, Tepecoacuilco de Trujano, Tlacoachistlahuaca, La Unión y Xochistlahuaca;"
 
-"XL Bis.- El Juzgado Quinto de Distrito en el Estado de Guerrero, con residencia en la ciudad de Iguala, ejercerá jurisdicción en el territorio del Estado, excepto en los municipios comprendidos en las fracciones XXXIX y XL"
+"XL Bis.- El Juzgado Quinto de Distrito en el Estado de Guerrero, con residencia en la ciudad de Iguala, ejercerá jurisdicción en el territorio del Estado, excepto en los municipios comprendidos en las fracciones XXXIX y XL;"
+
+> <small>(ADICIONADO POR EL PUNTO DECIMO DEL ACUERDO GENERAL NUMERO 17/1995 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 1996)</small>
+
+"XLI.- El Juzgado Primero de Distrito en el Estado de Quintana Roo, con residencia en Ciudad Chetumal, ejercerá jurisdicción en los municipios de Felipe Carrillo Puerto, José María Morelos y Othón P. Blanco;"
+
+> <small>(ADICIONADO POR EL PUNTO DECIMO DEL ACUERDO GENERAL NUMERO 17/1995 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 1996)</small>
+
+"XLII.- El Juzgado Segundo de Distrito en el Estado de Quintana Roo, con residencia en Cancún, ejercerá jurisdicción en los municipios de Benito Juárez, Cozumel, Isla Mujeres, Lázaro Cárdenas y Solidaridad."
 
 TRANSITORIOS:
 
@@ -230,6 +244,18 @@ D.O.F. 12 DE MARZO DE 1996.
 PRIMERO.- Este Acuerdo entrará en vigor el veintisiete de marzo de mil novecientos noventa y seis.
 
 SEGUNDO.- Se modifican y adicionan los Acuerdos 1/1993 y 1/1994, ambos del Pleno de la Suprema Corte de Justicia de la Nación, de fechas trece de enero de mil novecientos noventa y tres y primero de febrero de mil novecientos noventa y cuatro, respectivamente, en los términos señalados en el presente Acuerdo.
+
+TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
+
+CUARTO.- El Pleno del Consejo de la Judicatura Federal resolverá cualquier cuestión administrativa que pudiera suscitarse con motivo de la aplicación del presente Acuerdo.
+
+QUINTO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación.
+
+D.O.F. 9 DE ABRIL DE 1996.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día veintidós de abril de mil novecientos noventa y seis.
+
+SEGUNDO.- Se modifican y adicionan los Acuerdos 1/1993 y 1/1994 del Pleno de la Suprema Corte de Justicia de la Nación, de fechas trece de enero de mil novecientos noventa y tres y primero de febrero de mil novecientos noventa y cuatro, en los términos señalados en el presente Acuerdo.
 
 TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
 
