@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1928-10-06"
+last_updated: "1928-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 1928.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 1928.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -619,7 +619,7 @@ XIX. Velar por la moralidad pública, impidiendo enérgicamente el establecimien
 
 XX. Otorgar concesiones en los términos que establezcan las leyes o sobre las bases que fije el Congreso en defecto de aquéllas.
 
-XXI. y las demás que le confiera esta Constitución.
+XXI. (DEROGADA, P.O. 13 DE NOVIEMBRE DE 1928)
 
 > <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
 
@@ -909,11 +909,11 @@ La designación de Primer Regidor Presidente Municipal, Propietario y Suplente, 
 
 Los Ayuntamientos, en unión de un Representante por cada Partido Político, con voz pero sin voto, harán la calificación de las elecciones de funcionarios Municipales, en su jurisdicción, cuya calificación es revisable por el Congreso del Estado en el caso de la Fracción XXXIII bis del artículo 43 de la presente ley. Los propios Ayuntamientos harán la declaratoria respectiva una vez confirmada la calificación por el Congreso, en su caso.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+> <small>(REFORMADO, 13 DE NOVIEMBRE DE 1928)</small>
 
 ###### Art. 115.
 
-Las faltas temporales del Presidente Municipal y Regidores, serán cubiertas por sus respectivos suplentes, las primeras por el tiempo que duren, y las segundas por mientras se hace nueva elección.
+Las faltas temporales o absolutas del Presidente Municipal y Regidores, serán cubiertas por sus respectivos suplentes, las primeras por el tiempo que duren, y las segundas por mientras se hace nueva elección.
 
 ###### Art. 116.
 
@@ -1286,3 +1286,7 @@ Manuel A. Barrantes.
 P.O. 6 DE OCTUBRE DE 1928.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE SINALOA.
+
+P.O. 13 DE NOVIEMBRE DE 1928.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN LOS ARTICULOS 3° Y 4° DEL CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
