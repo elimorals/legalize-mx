@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1947-12-29"
+last_updated: "1948-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,27 +20,27 @@ abbreviation: "CPEUM"
 ---
 # CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-CÓDIGO FISCAL DEL ESTADO DE NUEVO LEÓN
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE DICIEMBRE DE 1948.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
+Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
-Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 1984.
+El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
 
-EL CIUDADANO ALFONSO MARTINEZ DOMINGUEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON, A TODOS SUS HABITANTES HAGO SABER:
+VENUSTIANO CARRANZA, Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de los Estados Unidos Mexicanos, hago saber:
 
-Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
+Que el Congreso Constituyente reunido en esta ciudad el 1o. de diciembre de 1916, en virtud del decreto de convocatoria de 19 de septiembre del mismo año, expedido por la Primera Jefatura, de conformidad con lo prevenido en el artículo 4o. de las modificaciones que el 14 del citado mes se hicieron al decreto de 12 de diciembre de 1914, dado en la H. Veracruz, adicionando el Plan de Guadalupe, de 26 de marzo de 1913, ha tenido a bien expedir la siguiente:
 
-D E C R E T O N U M. 2 1 3
-
-CODIGO FISCAL DEL ESTADO DE NUEVO LEON
+CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, QUE REFORMA LA DE 5 DE FEBRERO DE 1857.
 
 # LIBRO PRIMERO. DISPOSICIONES GENERALES
 
-## TITULO I. Disposiciones Generales
+## TITULO PRIMERO.
 
-### CAPITULO UNICO
+### CAPITULO I.
+
+DE LAS GARANTIAS INDIVIDUALES.
 
 ###### ARTICULO 1.
 
@@ -218,11 +218,17 @@ Todo proceso se seguirá forzosamente por el delito o delitos señalados en el a
 
 Todo mal tratamiento que en la aprehensión o en las prisiones, toda molestia que se infiera sin motivo legal; toda gabela o contribución, en las cárceles, son abusos que serán corregidos por las leyes y reprimidos por las autoridades.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE DICIEMBRE DE 1948)</small>
+
 ###### Art. 20.
 
-En todo juicio del orden criminal, tendrá el acusado las siguientes garantías:
+En todo juicio del orden criminal tendrá el acusado las siguientes garantías:
 
-I.- Inmediatamente que lo solicite será puesto en libertad, bajo de fianza hasta de diez mil pesos, según sus circunstancias personales y la gravedad del delito que se le impute, siempre que dicho delito no merezca ser castigado con una pena mayor de cinco años de prisión y sin más requisitos que poner la suma de dinero respectiva a disposición de la autoridad, u otorgar caución hipotecaria o personal bastante para asegurarla.
+> <small>(REFORMADA, D.O.F. 2 DE DICIEMBRE DE 1948)</small>
+
+I.- Inmediatamente que lo solicite será puesto en libertad bajo fianza que fijará el juez tomando en cuenta sus circunstancias personales y la gravedad del delito que se le impute, siempre que dicho delito merezca ser castigado con pena cuyo término medio aritmético no sea mayor de cinco años de prisión, y sin más requisito que poner la suma de dinero respectiva, a disposición de la autoridad u otorgar caución hipotecaria o personal bastante para asegurarla, bajo la responsabilidad del juez en su aceptación.
+
+En ningún caso la fianza o caución será mayor de $ 250,000.00, a no ser que se trate de un delito que represente para su autor un beneficio económico o cause a la víctima un daño patrimonial, pues en estos casos la garantía será, cuando menos, tres veces mayor al beneficio obtenido o al daño ocasionado.
 
 II.- No podrá ser compelido a declarar en su contra, por lo cual queda rigurosamente prohibida toda incomunicación o cualquier otro medio que tienda a aquel objeto.
 
@@ -300,11 +306,17 @@ Son también propiedad de la Nación las aguas de los mares territoriales en la 
 
 En los casos a que se refieren los dos párrafos anteriores, el dominio de la Nación es inalienable e imprescriptible, y sólo podrán hacerse concesiones por el Gobierno Federal a los particulares o sociedades civiles o comerciales constituidas conforme a las leyes mexicanas, con la condición de que se establezcan trabajos regulares para la explotación de los elementos de que se trata y se cumpla con los requisitos que prevengan las leyes. Tratándose del petróleo y de los carburos de hidrógeno sólidos, líquidos o gaseosos, no se expedirán concesiones y la Ley Reglamentaria respectiva determinará la forma en que la Nación llevará a cabo las explotaciones de esos productos.
 
-La capacidad para adquirir el dominio de las tierras y aguas de la Nación, se regirá por las siguientes prescripciones:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE DICIEMBRE DE 1948)</small>
+
+La capacidad para adquirir el dominio de las tierras y aguas de la nación, se regirá por las siguientes prescripciones:
 
 I.- Sólo los mexicanos por nacimiento o por naturalización y las sociedades mexicanas, tienen derecho para adquirir el dominio de las tierras, aguas y sus accesiones, o para obtener concesiones de explotación de minas, aguas o combustibles minerales en la República Mexicana. El Estado podrá conceder el mismo derecho a los extranjeros, siempre que convengan ante la Secretaría de Relaciones, en considerarse como nacionales respecto de dichos bienes y en no invocar, por lo mismo, la protección de sus Gobiernos por lo que se refiere a aquéllos; bajo la pena, en caso de faltar al convenio, de perder en beneficio de la Nación, los bienes que hubieren adquirido en virtud del mismo.
 
 En una faja de cien kilómetros a lo largo de las fronteras y de cincuenta en las playas, por ningún motivo podrán los extranjeros adquirir el dominio directo sobre tierras y aguas.
+
+> <small>(ADICIONADO, D.O.F. 2 DE DICIEMBRE DE 1948)</small>
+
+El Estado, de acuerdo con los intereses públicos internos y los principios de reciprocidad, podrá, a juicio de la Secretaría de Relaciones, conceder autorización a los Estados extranjeros para que adquieran, en el lugar permanente de la residencia de los Poderes Federales, la propiedad privada de bienes inmuebles necesarios para el servicio directo de sus embajadas o legaciones.
 
 II.- Las asociaciones religiosas denominadas iglesias, cualquiera que sea su credo, no podrán, en ningún caso, tener capacidad para adquirir, poseer o administrar bienes raíces, ni capitales impuestos sobre ellos; los que tuvieren actualmente, por sí o por interpósita persona, entrarán al dominio de la Nación, concediéndose acción popular para denunciar los bienes que se hallaren en tal caso. La prueba de presunciones será bastante para declarar fundada la denuncia. Los templos destinados al culto público son de la propiedad de la Nación, representada por el Gobierno Federal, quien determinará los que deben continuar destinados a su objeto. Los obispados, casas curales, seminarios, asilos o colegios de asociaciones religiosas, conventos o cualquier otro edificio que hubiere sido construído o destinado a la administración, propaganda o enseñanza de un culto religioso, pasarán desde luego, de pleno derecho, al dominio directo de la Nación, para destinarse exclusivamente a los servicios públicos de la Federación o de los Estados, en sus respectivas jurisdicciones. Los templos que en lo sucesivo se erigieren para el culto público serán propiedad de la Nación.
 
@@ -424,9 +436,11 @@ Tampoco constituyen monopolios las asociaciones o sociedades cooperativas de pro
 
 En los casos de invasión, perturbación grave de la paz pública, o de cualquiera otro que ponga a la sociedad en grande peligro o conflicto, solamente el Presidente de la República Mexicana, de acuerdo con el Consejo de Ministros, y con aprobación del Congreso de la Unión, y en los recesos de éste, de la Comisión Permanente, podrá suspender en todo el país, o en lugar determinado las garantías que fuesen obstáculo para hacer frente, rápida y fácilmente, a la situación; pero deberá hacerlo por un tiempo limitado, por medio de prevenciones generales y sin que la suspensión se contraiga a determinado individuo. Si la suspensión tuviese lugar hallándose el Congreso reunido, éste concederá las autorizaciones que estime necesarias para que el Ejecutivo haga frente a la situación. Si la suspensión se verificase en tiempo de receso, se convocará sin demora al Congreso para que las acuerde.
 
-### CAPITULO UNICO. De los Derechos y Obligaciones de los Contribuyentes
+### CAPITULO II.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+DE LOS MEXICANOS.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1934)</small>
 
 ###### ARTICULO 3.
 
@@ -516,9 +530,9 @@ Los mexicanos serán preferidos a los extranjeros en igualdad de circunstancias,
 
 Para pertenecer a la Marina Nacional de Guerra o a la Fuerza Aérea, y desempeñar cualquier cargo o comisión en ellas, se requiere ser mexicano por nacimiento. Esta misma calidad será indispensable en Capitanes, Pilotos, Patrones, Maquinistas, Mecánicos y, de una manera general, para todo el personal que tripule cualquier embarcación o aeronave que se ampare con la bandera o insignia mercante mexicana. Será también necesaria la calidad de mexicano por nacimiento para desempeñar los cargos de Capitán de Puerto, y todos los servicios de practicaje y Comandante de Aeródromo, así como todas las funciones de Agente Aduanal en la República.
 
-### CAPITULO UNICO
+### CAPITULO III.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+DE LOS EXTRANJEROS.
 
 ###### ARTICULO 8.
 
@@ -564,7 +578,9 @@ Son extranjeros los que no posean las calidades determinadas en el artículo 30.
 
 Los extranjeros no podrán de ninguna manera inmiscuirse en los asuntos políticos del país.
 
-### CAPITULO I. De las Infracciones
+### CAPITULO IV.
+
+DE LOS CIUDADANOS MEXICANOS.
 
 ###### ARTICULO 11.
 
@@ -700,11 +716,11 @@ VI.- Por sentencia ejecutoria que imponga como pena esa suspensión.
 
 La ley fijará los casos en que se pierden, y los demás en que se suspenden los derechos de ciudadano, y la manera de hacer la rehabilitación.
 
-## TITULO II
+## TITULO SEGUNDO.
 
-### CAPITULO II. De los Delitos Fiscales
+### CAPITULO I.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+DE LA SOBERANIA NACIONAL Y DE LA FORMA DE GOBIERNO.
 
 ###### ARTICULO 13.
 
@@ -742,7 +758,11 @@ Es voluntad del pueblo mexicano constituirse en una República representativa, d
 
 El pueblo ejerce su soberanía por medio de los Poderes de la Unión, en los casos de la competencia de éstos, y por los de los Estados, en lo que toca a sus regímenes interiores, en los términos respectivamente establecidos por la presente Constitución Federal y las particulares de los Estados, las que en ningún caso podrán contravenir las estipulaciones del Pacto Federal.
 
-### CAPITULO I. De los Recursos Administrativos
+### CAPITULO II.
+
+DE LAS PARTES INTEGRANTES DE LA FEDERACION Y DEL TERRITORIO NACIONAL.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1934)</small>
 
 ###### ARTICULO 15.
 
@@ -788,32 +808,6 @@ Cuando de conformidad con este artículo se entienda que hay enajenación, el ad
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-###### ARTICULO 15 Bis.
-
-Se entiende que no hay enajenación en los siguientes casos:
-
-I.- En escisión, siempre que se cumpla con los requisitos siguientes:
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
-
-A).- Que los accionistas propietarios de por lo menos el 51% de las acciones con derecho a voto, de la sociedad escindente y de las escindidas, sean los mismos durante un período de dos años contados a partir del año inmediato anterior a la fecha en que se realice la escisión; siempre y cuando se protocolice la escisión de que se trate, dentro de un período de un año a partir de la fecha en que se llevó a cabo.
-
-Para determinar el porcentaje del 51% se deberá considerar el total de las acciones con derecho a voto emitidas por la sociedad a la fecha de inicio del periodo, excluyendo las que se consideran colocadas entre el gran público inversionista y que hayan sido enajenadas a través de bolsa de valores autorizada o mercados reconocidos. No se consideran como acciones con derecho a voto, aquéllas que lo tengan limitado y las que en los términos de la Legislación Mercantil se denominen acciones de goce; tratándose de sociedades que no sean por acciones se considerarán las partes sociales en vez de las acciones con derecho a voto, siempre que no lo tengan limitado.
-
-B).- Que cuando desaparezca una sociedad con motivo de escisión, la sociedad escindente designe a la sociedad que asuma la obligación de registrarse en los padrones de la Secretaría de Finanzas y Tesorería General del Estado.
-
-Cuando no se cumpla con el requisito a que se refiere el inciso B) que antecede, los fedatarios públicos, dentro del mes siguiente a la fecha de autorización de la escritura correspondiente, deberán informar de esta circunstancia a la Secretaría de Finanzas y Tesorería General del Estado. En estos casos, la autoridad podrá exigir el registro correspondiente a cualquiera de las sociedades escindidas.
-
-No se incumple con el requisito de permanencia accionaria previsto en esta fracción, cuando la transmisión de propiedad de acciones sea por causa de muerte, liquidación, adjudicación judicial o donación.
-
-II.- En fusión, siempre que la sociedad que subsista o la que surja con motivo de la fusión, se encuentre al corriente en el pago de los impuestos estatales en el ejercicio que terminó por fusión.
-
-III.- En las operaciones de préstamos de títulos o valores por la entrega de los bienes prestados al prestatario y por la restitución de los mismos al prestamista, siempre que efectivamente se restituyan los bienes a más tardar al vencimiento de la operación.
-
-En los casos de fusión o escisión de sociedades, cuando la sociedad escindente desaparezca, la sociedad que subsista, la que surja con motivo de la fusión o la escindida que se designe, deberá encontrarse al corriente en el pago de los impuestos estatales en el ejercicio que terminó por fusión o escisión, o en su defecto enterar los impuestos correspondientes o, en su caso, solicitar por la empresa que desaparezca la devolución de los saldos a favor de esta última que resulten.
-
-En los pagos a que se refieren la fracción II y el párrafo anterior, correspondiente a la fusionada o a la escindente que desaparezcan, se deberán considerar todos los ingresos acumulables y las deducciones autorizadas, el importe total de los actos o actividades gravados y exentos y de los acreditamientos, el valor de todos sus activos o deudas, según corresponda, que la misma tuvo desde el inicio del ejercicio y hasta el día de su desaparición. En este caso, se considerará como fecha de terminación del ejercicio aquélla que corresponda a la fusión o escisión.
-
 ###### Art. 42.
 
 El territorio nacional comprende el de las partes integrantes de la Federación y además el de las islas adyacentes en ambos mares. Comprende, asimismo, la isla de Guadalupe, y las de Revillagigedo, situadas en el Océano Pacífico.
@@ -848,9 +842,13 @@ El Estado del (sic) Nayarit tendrá la extensión territorial y límites que com
 
 Las islas de ambos mares que pertenezcan al Territorio Nacional, dependerán directamente del Gobierno de la Federación, con excepción de aquellas sobre las que hasta la fecha hayan ejercido jurisdicción los Estados.
 
-## TITULO III. De las Facultades de las Autoridades Fiscales
+## TITULO TERCERO.
 
-### CAPITULO II. De las Notificaciones y la Garantía del Interés Fiscal
+### CAPITULO I.
+
+DE LA DIVISION DE PODERES.
+
+> <small>(REFORMADO, D.O.F. 12 DE AGOSTO DE 1938)</small>
 
 ###### ARTICULO 16.
 
@@ -874,7 +872,9 @@ El Supremo Poder de la Federación se divide para su ejercicio, en Legislativo, 
 
 No podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo en un individuo, salvo el caso de Facultades Extraordinarias al Ejecutivo de la Unión, conforme a lo dispuesto en el artículo 29.- En ningún otro caso se otorgarán al Ejecutivo facultades extraordinarias para legislar.
 
-### CAPITULO III. Del Procedimiento Administrativo de Ejecución
+### CAPITULO II.
+
+DEL PODER LEGISLATIVO.
 
 ###### ARTICULO 18.
 
@@ -938,11 +938,11 @@ Para efectos de este Código, la firma electrónica a que se refiere el párrafo
 
 El poder legislativo de los Estados Unidos Mexicanos se deposita en un Congreso general, que se dividirá en dos Cámaras, una de diputados y otra de senadores.
 
-#### SECCION PRIMERA. Disposiciones Generales
+#### SECCION I.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+DE LA ELECCION E INSTALACION DEL CONGRESO.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
 
 ###### ARTICULO 17.
 
@@ -1096,9 +1096,9 @@ A la apertura de sesiones ordinarias del Congreso asistirá el Presidente de la 
 
 Toda resolución del Congreso tendrá el carácter de ley o decreto. Las leyes o decretos se comunicarán al Ejecutivo firmados por los presidentes de ambas Cámaras y por un secretario de cada una de ellas, y se promulgarán en esta forma: "El Congreso de los Estados Unidos Mexicanos decreta: (texto de la ley o decreto)".
 
-#### SECCION SEGUNDA. Del Recurso de Revocación
+#### SECCION II.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+DE LA INICIATIVA Y FORMACION DE LAS LEYES.
 
 ###### ARTICULO 132.
 
@@ -1164,9 +1164,11 @@ I (sic).- El Ejecutivo de la Unión no puede hacer observaciones a las resolucio
 
 Tampoco podrá hacerlas al Decreto de convocatoria a sesiones extraordinarias que expida la Comisión Permanente.
 
-#### SECCION TERCERA. Del Recurso en caso del Procedimiento Administrativo de Ejecución
+#### SECCION III.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+DE LAS FACULTADES DEL CONGRESO.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE FEBRERO DE 1944)</small>
 
 ###### ARTICULO 133.
 
@@ -1264,9 +1266,9 @@ VIII.- Para dar bases sobre las cuales el Ejecutivo pueda celebrar empréstitos 
 
 IX.- Para impedir que en el comercio de Estado a Estado se establezcan restricciones.
 
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 1942)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1947)</small>
 
-X.- Para legislar en toda la República sobre hidrocarburos, minería, industria cinematográfica, comercio, instituciones de crédito y energía eléctrica, para establecer el Banco de Emisión Unico en los términos del artículo 28 de esta Constitución y para expedir las leyes del trabajo reglamentarias del artículo 123 de la propia Constitución.
+X.- Para legislar en toda la República sobre hidrocarburos, minería, industria cinematográfica, comercio, juegos con apuestas y sorteos, instituciones de crédito y energía eléctrica, para establecer el Banco de Emisión Unico en los términos del artículo 28 de la Constitución y para expedir las leyes del trabajo reglamentarias del artículo 123 de la propia Constitución.
 
 XI.- Para crear y suprimir empleos públicos de la Federación y señalar, aumentar o disminuir sus dotaciones.
 
@@ -1432,7 +1434,9 @@ III.- Nombrar los empleados de su secretaría y hacer el reglamento interior de 
 
 IV.- Expedir convocatoria para elecciones extraordinarias, con el fin de cubrir las vacantes de sus respectivos miembros.
 
-#### SECCION CUARTA. De la Impugnación de Notificaciones
+#### SECCION IV.
+
+DE LA COMISION PERMANENTE.
 
 ###### ARTICULO 134.
 
@@ -1601,22 +1605,6 @@ El plazo para que se configure la prescripción, en ningún caso, incluyendo cua
 La declaratoria de prescripción de los créditos fiscales podrá realizarse de oficio por la autoridad recaudadora o a petición del contribuyente.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
-
-###### ARTICULO 144 Bis.
-
-La Secretaría de Finanzas y Tesorería General del Estado podrá cancelar créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
-
-Se consideran créditos de cobro incosteable, aquellos cuyo importe sea inferior o igual al equivalente en moneda nacional a 25 cuotas, aquellos cuyo importe sea inferior o igual al equivalente en moneda nacional a 100 cuotas y cuyo costo de recuperación rebase el 75% del importe del crédito, así como aquellos cuyo costo de recuperación sea igual o mayor a su importe.
-
-Se consideran insolventes los deudores o los responsables solidarios cuando no tengan bienes embargables para cubrir el crédito o éstos ya se hubieran realizado, cuando no se puedan localizar o cuando hubieran fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
-
-Cuando el deudor tenga dos o más créditos a su cargo, todos ellos se sumarán para determinar si se cumplen los requisitos señalados.
-
-La Secretaría de Finanzas y Tesorería General del Estado dará a conocer las reglas de carácter general para la aplicación de este artículo.
-
-La cancelación de los créditos a que se refiere este artículo no libera de su pago.
 
 ###### ARTICULO 145.
 
@@ -1853,16 +1841,6 @@ B).- Bienes que ya reporten cualquier gravamen real o algún embargo anterior.
 C).- Bienes de fácil descomposición o deterioro o materias inflamables.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
-
-###### ARTICULO 151 Bis.
-
-En el caso de embargo de depósitos bancarios en términos del artículo 150, fracción I, del presente Código, la autoridad que haya ordenado el embargo girará oficio al gerente de la sucursal bancaria a la que corresponda la cuenta, a efecto de que la inmovilice y conserve los fondos depositados.
-
-La institución bancaria deberá informar a la autoridad a que se refiere el párrafo anterior, el incremento de los depósitos bancarios por los intereses que se generen, en el mismo período y frecuencia con que lo haga al cuentahabiente.
-
-Los fondos únicamente podrán transferirse al fisco una vez que el crédito fiscal relacionado quede firme, y hasta por el importe necesario para cubrirlo.
-
-En tanto el crédito fiscal garantizado no quede firme, el contribuyente titular de las cuentas bancarias embargadas podrá ofrecer otra forma de garantía de acuerdo con el artículo 139 de este Código, en sustitución del embargo de las cuentas. La autoridad deberá resolver y notificar al contribuyente sobre la admisión o rechazo de la garantía ofrecida, o el requerimiento de requisitos adicionales, dentro de un plazo máximo de 10 días. La autoridad tendrá la obligación de comunicar a la institución bancaria el sentido de la resolución enviándole copia de la misma, dentro del plazo de 15 días siguientes al en que haya notificado dicha resolución al contribuyente, si no lo hace durante el plazo señalado, la institución bancaria levantará el embargo de la cuenta.
 
 ###### ARTICULO 152.
 
@@ -2461,16 +2439,6 @@ Los bienes pasarán a ser propiedad del adquirente libres de gravámenes y a fin
 Una vez que se hubiera otorgado y firmado la escritura en que conste la adjudicación de un inmueble, el Secretario de Finanzas y Tesorero General del Estado dispondrá que se entregue al adquiriente, girando las órdenes necesarias, aún las de desocupación, si estuviere habitado por el ejecutado o por terceros que no pudieren acreditar legalmente el uso.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
-
-###### ARTICULO 182 Bis.
-
-En el caso en que los bienes rematados no puedan ser entregados al postor a cuyo favor se hubiera fincado el remate en la fecha en que éste lo solicite, por existir impedimento jurídico debidamente fundado para ello, aquél podrá, en un plazo de seis meses contado a partir de la fecha en que solicite la entrega de los bienes, solicitar a la autoridad fiscal la entrega del monto pagado por la adquisición de dichos bienes. La autoridad entregará la cantidad respectiva en un plazo de dos meses contado a partir de la fecha en que se efectúe la solicitud. Si dentro de este último plazo cesa la causa por la cual la autoridad fiscal se vio imposibilitada para efectuar la entrega de los bienes rematados, se procederá a la entrega de los mismos en lugar de entregar al postor las cantidades pagadas por esos bienes.
-
-Transcurrido el plazo de seis meses a que se refiere el párrafo anterior, sin que el postor solicite a la autoridad fiscal la entrega del monto pagado por la adquisición de dichos bienes, el importe de la postura causará abandono a favor del fisco estatal dentro de dos meses contados a partir de la fecha en que concluya el plazo antes citado y se estará a lo dispuesto en el artículo 191 de este Código.
-
-En el caso en que la autoridad fiscal entregue las cantidades pagadas por la adquisición de los bienes rematados, se dejará sin efectos el remate efectuado. Si con posterioridad a la entrega de las cantidades señaladas anteriormente cesa la causa por la cual la autoridad fiscal se vio imposibilitada jurídicamente para efectuar la entrega de los bienes rematados, ésta deberá iniciar nuevamente el procedimiento establecido en esta Sección para enajenar los mismos, dentro de los quince días siguientes a aquél en que haya cesado el impedimento o se cuente con resolución firme que permita hacerlo.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 183.
 
@@ -4176,9 +4144,9 @@ V.- Otorgar o negar su aprobación a los nombramientos de Ministros de la Suprem
 
 VI.- Conceder licencia hasta por treinta días al Presidente de la República y nombrar el interino que supla esa falta.
 
-### CAPITULO I
+### CAPITULO III.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+DEL PODER EJECUTIVO.
 
 ###### ARTICULO 20.
 
@@ -4378,7 +4346,11 @@ Todos los reglamentos, decretos y órdenes del Presidente deberán estar firmado
 
 Los secretarios del Despacho, luego que esté abierto el período de sesiones ordinarias, darán cuenta al Congreso, del estado que guarden sus respectivos ramos. Cualquiera de las Cámaras podrá citar a los secretarios de Estado para que informen, cuando se discuta una ley o se estudie un negocio relativo a su secretaría.
 
-### CAPITULO II
+### CAPITULO IV.
+
+DEL PODER JUDICIAL.
+
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 1944)</small>
 
 ###### ARTICULO 23.
 
@@ -4582,22 +4554,6 @@ Si en la declaración complementaria se determina que el pago efectuado fue meno
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-###### ARTICULO 33 Bis.
-
-La Administración Pública Estatal, Central y Paraestatal, en ningún caso contratará adquisiciones, arrendamientos, servicios u obra pública con proveedores que:
-
-I.- Tengan a su cargo créditos fiscales firmes, determinados, que no se encuentren pagados o garantizados en alguna de las formas permitidas por este Código.
-
-II.- No se encuentren inscritos en el Registro Estatal o Federal de Contribuyentes, según se trate de impuestos estatales o federales, respectivamente.
-
-III.- Habiendo vencido el plazo para presentar alguna declaración, provisional o no, y con independencia de que en la misma resulte o no cantidad a pagar, ésta no haya sido presentada.
-
-La prohibición establecida en este dispositivo no será aplicable a quienes se encuentren en el supuesto de la fracción I de este Artículo, siempre que se obtenga la autorización de las autoridades fiscales en los términos que este Código establece para cubrir los pagos a plazo, ya sea diferidos o en parcialidades.
-
-Quienes se ubiquen en los supuestos de las fracciones II y III de este Artículo contarán, previo a su contratación, con un plazo de quince días para corregir su situación fiscal, a partir del día siguiente a aquél en que surta efectos las (sic) notificación que realice la autoridad respecto de la irregularidad detectada.
-
-Para estos efectos, en los contratos de adquisiciones, arrendamientos, servicios u obra pública se establecerá cláusula de retención, respecto de las contraprestaciones a favor de los contratistas o proveedores, a efecto de garantizar el pago de las contribuciones omitidas.
-
 ### CAPITULO III
 
 ###### ARTICULO 34.
@@ -4734,7 +4690,7 @@ Corresponde a los Tribunales de la Federación conocer:
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1946)</small>
 
-I. De todas las controversias del orden civil o criminal que se susciten sobre el cumplimiento y aplicación de leyes federales o con motivo de los tratados celebrados con las potencias extranjeras. Cuando dichas controversias sólo afecten intereses particulares, podrán conocer también de ellas, a elección del actor, los jueces y tribunales locales del orden común de los Estados, del Distrito Federal y Territorios. Las sentencias de primera instancia serán apelables para ante el superior inmediato del juez que conozca del asunto en primer grado.
+I.- De todas las controversias del orden civil o criminal que se susciten sobre el cumplimiento y aplicación de leyes federales o con motivo de los tratados celebrados con las potencias extranjeras. Cuando dichas controversias sólo afecten intereses particulares, podrán conocer también de ellas, a elección del actor, los jueces y tribunales locales del orden común de los Estados, del Distrito Federal y Territorios. Las sentencias de primera instancia serán apelables para ante el superior inmediato del juez que conozca del asunto en primer grado.
 
 En los juicios en que la Federación esté interesada, las leyes podrán establecer recursos ante la Suprema Corte de Justicia contra las sentencias de segunda instancia o contra las de tribunales administrativos creados por ley federal, siempre que dichos tribunales estén dotados de plena autonomía para dictar sus fallos.
 
@@ -4798,7 +4754,9 @@ También será consignado a la autoridad o agente de ella, el que, verificada un
 
 Si la detención se verificare fuera del lugar en que resida el juez, al término mencionado se agregará el suficiente para recorrer la distancia que hubiere entre dicho lugar y el en que se verificó la detención.
 
-## TITULO IV. De las Infracciones y Delitos Fiscales
+## TITULO CUARTO.
+
+DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS PUBLICOS.
 
 ###### Art. 108.
 
@@ -4850,7 +4808,11 @@ La responsabilidad por delitos y faltas oficiales, sólo podrá exigirse durante
 
 En demandas del orden civil, no hay fuero ni inmunidad para ningún funcionario público.
 
-## TITULO V. De los Procedimientos Administrativos
+## TITULO QUINTO.
+
+DE LOS ESTADOS DE LA FEDERACION.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE FEBRERO DE 1947)</small>
 
 ###### Art. 115.
 
@@ -4986,9 +4948,11 @@ V.- Los títulos profesionales expedidos por las autoridades de un Estado, con s
 
 Los Poderes de la Unión, tienen el deber de proteger a los Estados contra toda invasión o violencia exterior. En cada caso de sublevación o trastorno interior, les prestarán igual protección, siempre que sean excitados por la Legislatura del Estado o por su Ejecutivo, si aquélla no estuviere reunida.
 
-## TITULO VI
+## TITULO SEXTO.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
+DEL TRABAJO Y DE LA PREVISION SOCIAL.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE SEPTIEMBRE DE 1929)</small>
 
 ### CAPITULO IV
 
@@ -5252,34 +5216,6 @@ Concluida la visita en el domicilio fiscal, para iniciar otra a la misma persona
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
-###### ARTICULO 48 Bis.
-
-Las autoridades fiscales deberán concluir la visita que se desarrolle en el domicilio fiscal de los contribuyentes o la revisión de la contabilidad y los informes, datos, documentos o registros de los mismos, que se efectúe en las oficinas de las propias autoridades, dentro de un plazo máximo de doce meses contados a partir de que surta efectos la notificación del inicio de las facultades de comprobación.
-
-El plazo a que se refiere el párrafo anterior, podrá ampliarse por doce meses, siempre que el oficio mediante el cual se notifique dicha ampliación, haya sido expedido por el superior jerárquico de la autoridad fiscalizadora.
-
-Los plazos para concluir las visitas domiciliarias o las revisiones a que se refiere el párrafo anterior y su prórroga, se suspenderán en los casos de:
-
-I.- Huelga, a partir de su estallamiento y hasta su levantamiento.
-
-II.- Fallecimiento del contribuyente, hasta en tanto se designe al representante legal de la sucesión.
-
-III.- Cuando el contribuyente cambie su domicilio fiscal sin haber presentado el aviso correspondiente, o cuando no se le localice en el que haya señalado.
-
-IV.- Interposición de algún medio de defensa contra los actos o actividades motivo de la revisión, dichos plazos se suspenderán desde la fecha en que se interponga el medio de defensa hasta que se dicte su resolución definitiva.
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
-
-V.- Cuando el contribuyente no atienda el requerimiento de datos, informes o documentos solicitados por las autoridades fiscales para verificar el cumplimiento de sus obligaciones fiscales, durante el periodo que transcurra entre el día del vencimiento del plazo otorgado en el requerimiento y hasta el día en que conteste o atienda el requerimiento, sin que la suspensión pueda exceder de seis meses. En el caso de dos o más solicitudes de información, se sumarán los distintos periodos de suspensión y en ningún caso el periodo de suspensión podrá exceder de un año.
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
-
-VI.- Tratándose de la fracción VII del artículo anterior, el plazo se suspenderá a partir de que la autoridad informe al contribuyente la reposición del procedimiento.
-
-Dicha suspensión no podrá exceder de un plazo de dos meses contados a partir de que la autoridad notifique al contribuyente la reposición del procedimiento.
-
-Cuando las autoridades no concluyan la visita o revisión dentro de los plazos autorizados, las facultades de comprobación se entenderán concluidas a su vencimiento, quedando a salvo las facultades de las autoridades para determinar la situación fiscal del contribuyente o responsable solidario con base en la verificación realizada dentro del plazo autorizado.
-
 ###### ARTICULO 49.
 
 Las visitas en los domicilios fiscales ordenadas por las autoridades fiscales podrán concluirse anticipadamente en los siguientes casos:
@@ -5419,22 +5355,6 @@ Las autoridades fiscales que al ejercer las facultades de comprobación conozcan
 El plazo para emitir la resolución a que se refiere este Artículo se suspenderá en los casos previstos en el Artículo 48 Bis de este Código. Si durante el plazo para emitir la resolución de que se trate, los contribuyentes interponen algún medio de defensa, dicho plazo se suspenderá desde la fecha en que se interponga el citado medio de defensa y hasta que se dicte resolución definitiva del mismo.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
-
-###### ARTICULO 51 Bis.
-
-Las autoridades fiscales podrán, como resultado del ejercicio de las facultades de comprobación, determinar la simulación de los actos jurídicos exclusivamente para efectos fiscales, la cual tendrá que quedar debidamente fundada y motivada dentro del procedimiento de comprobación y declarada su existencia en el propio acto de determinación de su situación fiscal a que se refiere el artículo anterior.
-
-En los actos jurídicos en los que exista simulación, el hecho imponible gravado será el efectivamente realizado por las partes.
-
-La resolución en que la autoridad determine la simulación deberá incluir lo siguiente:
-
-I. Identificar el acto simulado y el realmente celebrado.
-
-II. Cuantificar el beneficio fiscal obtenido por virtud de la simulación.
-
-III. Señalar los elementos por los cuales se determinó la existencia de dicha simulación, incluyendo la intención de las partes de simular el acto.
-
-Para efectos de probar la simulación, la autoridad podrá basarse, entre otros, en elementos presuncionales.
 
 ###### ARTICULO 52.
 
@@ -6412,18 +6332,6 @@ VII.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 2017)
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-###### ARTICULO 123 Bis.
-
-Procede el sobreseimiento del recurso en los casos siguientes:
-
-I.- Cuando el promovente se desista expresamente de su recurso.
-
-II.- Cuando durante el procedimiento en que se substancie el recurso administrativo, sobrevenga alguna de las causas de improcedencia a que se refiere el artículo 123 de este Código.
-
-III.- Cuando de las constancias que obran en el expediente administrativo quede demostrado que no existe el acto o resolución impugnada.
-
-IV.- Cuando hayan cesado los efectos del acto o resolución impugnada.
-
 ###### ARTICULO 124.
 
 El interesado podrá optar por impugnar un acto a través del recurso de revocación o promover directamente contra dicho acto, juicio ante el Tribunal de Justicia Administrativa del Estado. Deberá intentar la misma vía elegida si pretende impugnar un acto administrativo que sea antecedente o consecuente de otro, a excepción de las resoluciones dictadas en cumplimiento de las emitidas en el recurso de revocación.
@@ -6668,65 +6576,43 @@ D.O.F. 27 DE ABRIL DE 1933.
 
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor el día 1o. de Enero de 1999.
+Esta Ley comenzará a regir desde la fecha de su publicación en el "Diario Oficial."
 
-P.O. 31 DE DICIEMBRE DE 1999.
+D.O.F. 29 DE ABRIL DE 1933.
 
-Artículo Único.- El presente Decreto entrará en vigor el día 1o. de Enero del año 2000.
+###### ARTICULO UNICO.
 
-P.O. 29 DE DICIEMBRE DE 2000.
+En las próximas elecciones ordinarias de Poderes Federales, se elegirán Senadores de número par por un período de seis años; en el año de 1936 deberán verificarse elecciones extraordinarias de Senadores de número impar, para un período de cuatro años, y en el año de 1940 se verificarán elecciones ordinarias de la totalidad de los miembros del Senado de la República.
 
-###### ARTÍCULO ÚNICO.
+D.O.F. 4 DE NOVIEMBRE DE 1933.
 
-El presente Decreto entrará en vigor el 1o. de Enero del año 2001.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
-P.O. 27 DE DICIEMBRE DE 2001
+D.O.F. 10 DE ENERO DE 1934.
 
-Artículo Único.- El presente Decreto entrará en vigor el 1° de enero del año 2002.
+UNICO.- Se abroga la Ley de 6 de enero de 1915, sus reformas y demás disposiciones legales que se opongan a la vigencia de la presente reforma.
 
-P.O. 27 DE DICIEMBRE DE 2002.
+D.O.F. 18 DE ENERO DE 1934.
 
-Artículo Único.- El presente Decreto entrará en vigor el día 1° de Enero del año 2003.
+DECRETO QUE REFORMA EL ARTICULO 42.
 
-P.O. 26 DE DICIEMBRE DE 2003.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
-Artículo Único.- El presente Decreto entrará en vigor el 1° de enero del año 2004.
+D.O.F. 18 DE ENERO DE 1934.
 
-P.O. 27 DE DICIEMBRE DE 2005.
+DECRETO QUE REFORMA LOS ARTICULOS 30, 37, 73, FRACCION XVI Y 133.
 
-Artículo Primero.- El presente Decreto entrará en vigor el 1º de enero del año 2006.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
-Artículo Segundo.- Los procedimientos promovidos con anterioridad al inicio de la vigencia del presente Decreto se regirán por la legislación que se encontraba en vigor a la fecha de su promoción.
+D.O.F. 18 DE ENERO DE 1934.
 
-P.O. 16 DE OCTUBRE DE 2006.
+DECRETO QUE REFORMA LA FRACCION X DEL ARTICULO 73.
 
-Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
-P.O. 31 DE DICIEMBRE DE 2006.
+D.O.F. 18 DE ENERO DE 1934.
 
-Artículo Único.- El presente Decreto entrará en vigor el 1º de enero del año 2007.
-
-P.O. 31 DE DICIEMBRE DE 2007.
-
-Artículo Único.- El presente Decreto entrará en vigor el día 1° de enero del año 2008.
-
-P.O. 25 DE SEPTIEMBRE DE 2009.
-
-Único.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 23 DE DICIEMBRE DE 2009.
-
-Único.- El presente Decreto entrará en vigor el día 1° de enero de 2010.
-
-P.O. 17 DE DICIEMBRE DE 2010.
-
-Único.- El presente Decreto entrará en vigor el 1° de Enero del año 2011.
-
-P.O. 31 DE DICIEMBRE DE 2012.
-
-Único.- El presente Decreto entrará en vigor el día 1° de enero del año 2013.
-
-P.O. 30 DE DICIEMBRE DE 2015.
+DECRETO QUE REFORMA LA FRACCION I DEL ARTICULO 104.
 
 ###### ARTICULO UNICO.
 
@@ -6746,21 +6632,25 @@ D.O.F. 15 DE DICIEMBRE DE 1934.
 
 DECRETO QUE REFORMA EL ULTIMO PARRAFO DE LA BASE 4ª DE LA FRACCION VI DEL ARTICULO 73, EL ARTICULO 94 Y LAS FRACCIONES II Y III DEL ARTICULO 95.
 
-###### ARTICULO PRIMERO
+###### ARTICULO PRIMERO.
 
-- Este código entrará en vigor el día 1o. de Enero de 1985, previa su publicación en el Periódico Oficial del Estado.
+La presente reforma entrará en vigor el día 15 de diciembre del año en curso.
 
-###### ARTICULO SEGUNDO
+###### ARTICULO SEGUNDO.
 
-- A partir de la entrada en vigor de este código, se abroga el Código Fiscal del Estado de fecha 1o. de Enero de 1956.
+Los ministros de la Suprema Corte de la Nación y los magistrados del Tribunal Superior de Justicia del Distrito y Territorios Federales, actualmente en ejercicio, cesarán en sus encargos el día 31 de diciembre del año en curso.
 
-###### ARTICULO TERCERO
+###### ARTICULO TERCERO.
 
-- Las disposiciones administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieren otorgado a título particular, que contravengan o se opongan a lo preceptuado en este Código, quedan sin efectos.
+Los ministros de la Suprema Corte de Justicia y los magistrados del Tribunal Superior de Justicia del Distrito y Territorios Federales que sean designados de acuerdo con la presente reforma, tomarán posesión el día 1º de enero del próximo año de 1935.
 
-###### ARTICULO CUARTO
+###### ARTICULO CUARTO.
 
-- Las solicitudes de devolución formuladas con anterioridad a la vigencia de este Código, causarán por las cantidades correspondientes, de ser procedente su devolución, a partir de la entrada en vigor del presente ordenamiento, los intereses que el mismo señala.
+La Suprema Corte de Justicia de la Nación designará a los nuevos magistrados de Circuito y jueces de Distrito, dentro de los diez primero días del mes de enero de 1935. Asimismo, el Tribunal Superior de Justicia del Distrito y Territorios Federales designará a los nuevos jueces del fuero común del Distrito y Territorios Federales dentro del mismo plazo.
+
+D.O.F. 15 DE DICIEMBRE DE 1934.
+
+DECRETO QUE REFORMA EL ARTICULO 32.
 
 ###### ARTICULO 1o.
 
@@ -6858,13 +6748,19 @@ D.O.F. 21 DE SEPTIEMBRE DE 1944.
 
 ###### ARTICULO PRIMERO.
 
-El presente Decreto entrará en vigor el día 1o. de Enero de 1987.
+Dentro de los treinta días siguientes al en que entre en vigor esta reforma constitucional, el C. Presidente de la República hará, en los términos de la misma reforma, el nombramiento de los Ministros y Magistrados que deberán integrar la Suprema Corte de Justicia y el Tribunal Superior de Justicia del Distrito y Territorios Federales.
 
 ###### ARTICULO SEGUNDO.
 
-Se derogan todas las disposiciones que contravengan a lo preceptuado en el presente Decreto.
+La Suprema Corte y el Tribunal Superior de Justicia del Distrito y Territorios Federales harán, respectivamente, las designaciones de los funcionarios inamovibles a que se refiere esta ley, dentro del término de treinta días, que se contarán a partir de la fecha en que tales cuerpos judiciales queden constituídos con arreglo al artículo anterior.
 
-P.O. 30 DE DICIEMBRE DE 1987.
+D.O.F. 21 DE ABRIL DE 1945.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 30 DE DICIEMBRE DE 1946.
+
+DECRETO QUE REFORMA LA FRACCION I DEL ARTICULO 104.
 
 ###### ARTICULO UNICO.
 
@@ -6893,6 +6789,24 @@ D.O.F. 12 DE FEBRERO DE 1947.
 DECRETO QUE ADICIONA EL PARRAFO PRIMERO DE LA FRACCION I DEL ARTICULO 115.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 29 DE DICIEMBRE DE 1947.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 2 DE DICIEMBRE DE 1948.
+
+DECRETO QUE REFORMA LA FRACCION I DEL ARTICULO 20.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 2 DE DICIEMBRE DE 1948.
+
+DECRETO QUE ADICIONA LA FRACCION I DEL ARTICULO 27.
+
+###### ARTICULO UNICO.
+
+La presente adición a la fracción I del artículo 27 de la Constitución General de la República entrará en vigor el día siguiente al de su publicación en el "Diario Oficial".
 
 ###### ARTICULO PRIMERO
 
