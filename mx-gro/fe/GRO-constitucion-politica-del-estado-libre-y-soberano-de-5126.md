@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1953-12-23"
+last_updated: "1953-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1953.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1953.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -249,9 +249,9 @@ La Capital del Estado, es la Ciudad de Chilpancingo de los Bravos, donde deben r
 
 ###### Artículo 20.
 
-El Territorio del Estado comprende el que le señaló la Ley de su creación con la modificación contenida en el Decreto número 1 de 23 de marzo de 1907, relativo al arreglo de límites con el vecino Estado de Michoacán.
+El Territorio del Estado comprende el que le señaló la Ley de su creación con la modificación contenida en el Decreto número 1 de 23 de Marzo de 1907, relativo al arreglo de límites con el vecino Estado de Michoacán.
 
-Se divide en las siguientes Municipalidades: Ometepec, Igualapa, Tlacoachistlahuaca, Xochistlahuaca, Cuajinicuilapa, Taxco de Alarcón, Pilcaya, Tetipac, Teloloapan, Cuetzala del Progreso, Apaxtla, Ixcateopan, Pedro Ascencio Alquisiras, San Luis Acatlán, Cuautepec, Copala, Azoyú, Chilapa, Atlixtac, Ahuacuotzingo, Copalillo, Zitlala, Ayutla de los Libres, Florencio Villarreal, Tecoanapa, Chilpancingo de los Bravo, Zumpango del Río, Leonardo Bravo, Heliodoro Castillo, Juan R. Escudero, Arcelia, Acapetlahuaya, Ajuchitlán del Progreso, San Miguel Totolapan, Tlapehuala, Tecpan de Galeana, Atoyac de Alvarez, Benito Juárez, Tixtla de Guerrero, Mártir de Cuilapan, Mochitlán, Quechultenango, Iguala, Tepecoacuilco, Huitzuco, Cocula, Buena Vista de Cuéllar, Atenango del Río, Coyuca de Catalán, Zirándaro, Pungarabato, Cutzamala de Pinzón, Tlalchapa, La Unión, Coahuayutla de Guerrero, Petatlán, José Azueta, Tlapa, Copanatoyac, Atlamajalcingo del Monte, Tlacoapa, Tlalixtaquilla, Malinaltepec, Alcozauca de Guerrero, Zapotitlán Tablas, Xalpatlahuac, Metlatonoc, Acapulco, San Marcos, Coyuca de Benítez, Huamuxtitlán, Xochihuehuetlán, Alpoyeca, Cualac y Olinalá.
+Se divide en las siguientes Municipalidades: Ometepec, Igualapa, Tlacoachistlahuaca, Xochistlahuaca, Cuajinicuilapa, Taxco de Alarcón, Pilcaya, Tetipac, Teloloapan, Cuetzala del Progreso, Apaxtla, Ixcateopan, Pedro Ascencio de Alquisiras, San Luis Acatlán, Cuautepec, Copala, Azoyú, Chilapa, Atlixtac, Ahuacuotzingo, Copalillo, Zitlala, Ayutla de los Libres, Florencio Villarreal, Tecoanapa, Chilpancingo de los Bravo, Zumpango del Río, Leonardo Bravo, Heliodoro Castillo, Juan R. Escudero, Arcelia, General Canuto Neri, Ajuchitlán del Progreso, San Miguel Totolapan, Tlapehuala, Tecpan de Galeana, Atoyac de Alvarez, Benito Juárez, Tixtla de Guerrero, Mártir de Cuilapan, Mochitlán, Quechultenango, Iguala, Tepecoacuilco, Huitzuco, Cocula, Buena Vista de Cuéllar, Atenango del Río, Coyuca de Catalán, Zirándaro, Pungarabato, Cutzamala de Pinzón, Tlalchapa, La Unión, Coahuayutla de Guerrero, Petatlán, Tlapa, Copanatoyac, Atlamajalcingo del Monte, Tlacoapa, Tlalixtaquilla, Malinaltepec, Alcozauca de Guerrero, Zapotitlán Tablas, Xalpatlahuac, Metlatonoc, Acapulco, San Marcos, Coyuca de Benítez, Huamuxtitlán, Xochihuehuetlán, Alpoyeca, Cualac y Olinalá.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
 
@@ -1163,7 +1163,7 @@ Esta Constitución no perderá su fuerza ni vigor, aún cuando por alguna rebeli
 
 ### CAPITULO I. DEL MUNICIPIO COMO PARTE DE LA DIVISION TERRITORIAL DEL ESTADO Y DE SU ORGANIZACION POLITICA Y ADMINISTRATIVA
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1953)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1953)</small>
 
 ### CAPITULO II. DE LOS DISTRITOS
 
@@ -1532,3 +1532,9 @@ El Municipio de José Azueta comprenderá los núcleos de población que se le a
 ###### Art. 2o.
 
 Este Decreto surtirá sus efectos a partir del día primero de enero del año de mil novecientos cincuenta y cuatro.
+
+P.O. 30 DE DICIEMBRE DE 1953.
+
+Art. 1/o.- El Municipio de General Canuto Néri tendrá como Cabecera a Acapetlahuaya y comprenderá los núcleos de población que se le asignen al hacerse la modificación correspondiente a la Ley número 59 Orgánica de División Territorial del Estado.
+
+Art. 2/o.- La presente reforma entrará en vigor el día primero de enero del año de mil novecientos cincuenta y cuatro.
