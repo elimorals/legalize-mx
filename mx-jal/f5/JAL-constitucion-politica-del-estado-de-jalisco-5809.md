@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1979-05-31"
+last_updated: "1982-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 1982.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -72,6 +72,10 @@ IV. Ser votado en toda elección popular y desempeñar cualquier empleo del Esta
 > <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 1954)</small>
 
 Para los efectos de las fracciones III y IV, el hombre y la mujer gozarán de igualdad política.
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 1982)</small>
+
+V. En los casos de infracciones a los reglamentos Gubernativos y de Policía, ser sancionado solo con multa o arresto, que no podrá exceder de un día; pero, si el infractor no pagare la multa que se le hubiere impuesto se permutará ésta por arresto hasta por 48 horas. La Ley regulará todo lo relativo a la sanción de las faltas a que alude esta fracción. En tratándose de personas de escasos recursos, dependientes económicos, jornaleros u obreros, en ningún caso podrán ser castigados con multa mayor del importe de un día del salario mínimo general aplicable en la región.
 
 ###### Art. 5º.
 
@@ -846,3 +850,11 @@ P.O. 31 DE MAYO DE 1979.
 PRIMERO.- Envíese el presente Decreto a los Ayuntamientos del Estado, en los términos y para los efectos del Artículo 66 de la Constitución Política del Estado.
 
 SEGUNDO.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco", incluyendo la Declaratoria a que se refiere el Artículo 66 de la Constitución Política del Estado.
+
+P.O. 29 DE JULIO DE 1982.
+
+Primero. Envíese el presente Decreto a los Ayuntamientos del Estado, en los términos y para los efectos del Art. 66 de la Constitución Política del Estado.
+
+Segundo.- Este Decreto entrará en vigor, el día de su publicación en el Periódico Oficial El Estado de Jalisco, incluyendo la declaratoria a que se refiere el art. 66 de la Constitución Política del Estado.
+
+Tercero.- En tanto se expida la Ley Reglamentaria de la Frac. V del Art. 4º de la Constitución Política del estado de Jalisco, se estará a lo que dispongan los actuales Reglamentos Gubernativos y de Policía.
