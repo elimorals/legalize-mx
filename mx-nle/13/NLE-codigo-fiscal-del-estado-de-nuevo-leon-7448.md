@@ -4,7 +4,7 @@ identifier: "NLE-codigo-fiscal-del-estado-de-nuevo-leon-7448"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-11-30"
-last_updated: "1993-12-31"
+last_updated: "1994-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO FISCAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1994.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 1984.
 
@@ -83,7 +83,9 @@ II.- Derechos son las contraprestaciones establecidas en Ley por los servicios p
 
 III.- Contribuciones especiales son las prestaciones cuyo presupuesto de hecho se caracteriza por un beneficio económico particular proporcionado al contribuyente por la realización de obras públicas o de tareas estatales o municipales provocadas por las actividades del contribuyente. Su rendimiento no debe tener un destino ajeno al financiamiento de las obras o actividades correspondientes.
 
-Cuando sean organismos descentralizados quienes presten los servicios señalados en la fracción II del mismo, las contribuciones correspondientes tendrán la naturaleza de derechos.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+
+Cuando sean organismos descentralizados quienes presten los servicios u otorgue el uso o aprovechamiento de los bienes señalados en la fracción II del mismo, las contribuciones correspondientes tendrán la naturaleza de derechos.
 
 > <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
 
@@ -2480,3 +2482,7 @@ SEGUNDO:- Cuando con anterioridad al primero de Enero de 1993 se hubieran causad
 P.O. 31 DE DICIEMBRE DE 1993.
 
 UNICO.- El presente Decreto entrará en vigor el día 1º de Enero de 1994.
+
+P.O. 30 DE DICIEMBRE DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor el día 1o. de Enero de 1995.
