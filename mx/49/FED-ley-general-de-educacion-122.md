@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-educacion-122"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-13"
-last_updated: "1993-07-13"
+last_updated: "2000-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGE"
 
 LEY GENERAL DE EDUCACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2000.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 13 de julio de 1993.
 
@@ -428,11 +428,15 @@ De acuerdo con las necesidades educativas específicas de la población, tambié
 
 La educación inicial tiene como propósito favorecer el desarrollo físico, cognoscitivo, afectivo y social de los menores de cuatro años de edad. Incluye orientación a padres de familia o tutores para la educación de sus hijos o pupilos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
 ###### ARTICULO 41.
 
-La educación especial está destinada a individuos con discapacidades transitorias o definitivas, así como a aquéllos con aptitudes sobresalientes. Procurará atender a los educandos de manera adecuada a sus propias condiciones, con equidad social.
+La educación especial está destinada a individuos con discapacidades transitorias o definitivas, así como a aquéllos con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, con equidad social.
 
-Tratándose de menores de edad con discapacidades, esta educación propiciará su integración a los planteles de educación básica regular. Para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva.
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+Tratándose de menores de edad con discapacidades, esta educación propiciará su integración a los planteles de educación básica regular, mediante la aplicación de métodos, técnicas y materiales específicos. Para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva, para lo cual se elaborarán programas y materiales de apoyo didácticos necesarios.
 
 Esta educación incluye orientación a los padres o tutores, así como también a los maestros y personal de escuelas de educación básica regular que integren a alumnos con necesidades especiales de educación.
 
@@ -869,3 +873,9 @@ SEXTO.- Las autoridades competentes se obligan a respetar íntegramente los dere
 México, D. F., a 9 de julio de 1993. Dip. Juan Ramiro Robledo Ruiz, Presidente.- Sen. Mauricio Valdés Rodríguez, Presidente.- Dip. Luis Moreno Bustamante, Secretario.- Sen. Ramón Serrano Ahumada, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de julio de 1993.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 12 DE JUNIO DE 2000.
+
+Artículo Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
