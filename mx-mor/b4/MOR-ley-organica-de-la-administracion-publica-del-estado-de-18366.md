@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-de-18366"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-09-29"
-last_updated: "2002-12-25"
+last_updated: "2003-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 29 de septiembre de 2000.
 
@@ -215,7 +215,9 @@ Para el estudio, planeación y despacho de los asuntos del Poder Ejecutivo, ést
 
 I. Secretaría de Gobierno;
 
-II. Secretaría de Hacienda;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2003)</small>
+
+II. Secretaría de Finanzas y Planeación;
 
 III. Secretaría de Desarrollo Económico;
 
@@ -347,9 +349,11 @@ XXXIII. Vigilar y coordinar el funcionamiento de las instituciones del Consejo T
 
 XXXIV. Las demás que señalen las disposiciones jurídicas o le delegue el Titular del Ejecutivo por mandato específico;
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 2003)</small>
+
 ###### ARTÍCULO 27.
 
-A la Secretaría de Hacienda le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Finanzas y Planeación le corresponde el despacho de los siguientes asuntos:
 
 I. Proponer e instrumentar la política fiscal del Estado, tomando en cuenta los convenios celebrados por el Ejecutivo con la Federación y los ayuntamientos, así como las disposiciones jurídicas sobre la materia;
 
@@ -393,7 +397,9 @@ XX. Intervenir en los juicios de carácter fiscal en defensa de los intereses de
 
 XXI. Integrar el Anteproyecto de Presupuesto de Egresos del Gobierno del Estado y el Programa General del Gasto del Sector Público, y someterlos a consideración del Ejecutivo por conducto del Secretario de Gobierno;
 
-XXII. Autorizar los programas y proyectos de inversión que propongan las dependencias y entidades de la administración pública, verificando su congruencia con los programas sectoriales e institucionales. Asimismo, dar seguimiento a su ejecución, controlar la aplicación de recursos y evaluar su ejercicio;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2003)</small>
+
+XXII. Autorizar los programas y proyectos de inversión que propongan las dependencias y entidades de la administración pública, verificando su congruencia con los programas sectoriales e institucionales. Asimismo, controlar la aplicación de recursos y evaluar su ejercicio;
 
 XXIII. Intervenir en el otorgamiento de transferencias que conceda el Gobierno del Estado, así como comprobar que su aplicación se efectúe en los términos establecidos;
 
@@ -401,7 +407,9 @@ XXIV. Autorizar la ministración de recursos para el ejercicio del Presupuesto d
 
 XXV. Autorizar la ministración de recursos que corresponda a los ayuntamientos por concepto de participaciones;
 
-XXVI. Controlar, vigilar y evaluar el ejercicio del gasto público y del Presupuesto de Egresos del Gobierno del Estado, de conformidad con las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2003)</small>
+
+XXVI. Controlar y evaluar el ejercicio del Gasto Público y del Presupuesto de Egresos del Gobierno del Estado, de conformidad con las disposiciones jurídicas aplicables;
 
 XXVII. Dictar las medidas administrativas sobre responsabilidades que afecten la Hacienda Pública del Estado en el ejercicio del gasto;
 
@@ -421,7 +429,9 @@ XXXIV. Normar la celebración de actos y contratos en los que se establezcan pag
 
 XXXV. Formular mensualmente los estados financieros de la Hacienda Pública, incluyendo el correspondiente al de origen y aplicación de recursos, así como elaborar la cuenta pública y mantener la relación con la Contaduría Mayor de Hacienda, órgano técnico bajo el control de la Comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado;
 
-XXXVI. Controlar y vigilar financiera y administrativamente la operación de las entidades de la Administración Pública Paraestatal que no estén expresamente encomendadas a otra dependencia;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2003)</small>
+
+XXXVI. Controlar financieramente la operación de las Entidades de la Administración Pública Paraestatal que no estén expresamente encomendadas a otra dependencia;
 
 XXXVII. Normar, coordinar e integrar la participación de las dependencias y entidades del sector público en la elaboración de los documentos necesarios para preparar el Informe Anual del Ejecutivo;
 
@@ -621,7 +631,9 @@ XI. Proyectar, ejecutar, mantener y realizar las obras que propongan las depende
 
 XII. Establecer de acuerdo con los proyectos, programas y contratos el Sistema de Seguimiento Físico y Financiero de las Obras Públicas que realice el Sector Público Estatal;
 
-XIII. Expedir, en coordinación con la Secretaría de Hacienda, las bases a que se sujetarán los concursos para la ejecución de obras del Gobierno del Estado, así como adjudicar, vigilar cumplimientos y, en su caso, rescindir los contratos celebrados, de conformidad con las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2003)</small>
+
+XIII. Expedir, en coordinación con la Secretaría de Finanzas y Planeación, las bases a que se sujetarán los concursos para la ejecución de obras del Gobierno del Estado, así como adjudicar, vigilar cumplimientos y, en su caso, rescindir los contratos celebrados, de conformidad con las disposiciones jurídicas aplicables;
 
 XIV. Asesorar y dar asistencia técnica al Ejecutivo y a los ayuntamientos en las materias que son de su competencia;
 
@@ -789,7 +801,9 @@ XXI. Las demás que le sean encomendadas por el Titular del Poder Ejecutivo, le 
 
 A la Secretaría de la Contraloría le corresponde el despacho de los siguientes asuntos:
 
-I. Proponer e instrumentar la política de control, inspección y supervisión en la Administración Pública del Estado;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2003)</small>
+
+I. Proponer e instrumentar la política de control, inspección y supervisión en la Administración Pública del Estado, vigilando la ejecución y aplicación del gasto público, de conformidad con las disposiciones jurídicas aplicables;
 
 II. Ejercer las atribuciones derivadas de los convenios que, en materia de su competencia, celebre el Gobierno del Estado con la Federación y los ayuntamientos;
 
@@ -921,9 +935,11 @@ XXIII. Las demás que señalen las disposiciones jurídicas del Estado o le dele
 
 ### CAPÍTULO PRIMERO. DE LOS ORGANISMOS ADMINISTRATIVOS
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2003)</small>
+
 ###### ARTÍCULO 37.
 
-Para orientar, regular y establecer los lineamientos de política laboral en el Estado, habrá una Dirección del Trabajo y Previsión Social, dependiente de la Secretaría de Gobierno; dependencia que además se encargará de vigilar el cumplimiento de la normatividad de la materia respecto de la capacitación y previsión social de los trabajadores.
+Para orientar, regular, establecer e impulsar los lineamientos de política laboral en el Estado, habrá una Subsecretaría encargada de la atención del trabajo y la previsión social, dependiente de la Secretaría de Gobierno; dependencia que además se encargará de vigilar el cumplimiento de la normatividad de la materia respecto de la capacitación y previsión social de los trabajadores.
 
 ###### ARTÍCULO 38.
 
@@ -943,9 +959,11 @@ Serán del conocimiento y resolución del Tribunal Estatal de Conciliación y Ar
 
 Los Tribunales a que se refiere el artículo anterior tendrán autonomía plena para ejercer sus funciones y dictar sus resoluciones.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2003)</small>
+
 ###### ARTÍCULO 42.
 
-Para el desempeño de los Tribunales que comprende este Titulo, el Ejecutivo del Estado proporcionara el apoyo administrativo necesario, por conducto de las Secretarias de Gobierno y de Hacienda, así como de la Oficialía Mayor.
+Para el desempeño de los Tribunales que comprende este Titulo, el Ejecutivo del Estado proporcionará el apoyo administrativo necesario, por conducto de las Secretarías de Gobierno y de Finanzas y Planeación, así como de la Oficialía Mayor.
 
 ###### ARTÍCULO 43.
 
@@ -981,7 +999,9 @@ Asimismo, el Gobierno del Estado podrá poseer menos del 50% de las acciones rep
 
 Los fideicomisos públicos son aquellos creados por el Gobierno del Estado, organismos descentralizados o empresas de participación estatal mayoritaria, con la finalidad de apoyar al Ejecutivo Estatal en la realización de sus atribuciones o atención a las áreas de desarrollo prioritario.
 
-En los fideicomisos creados por el Gobierno del Estado, la Secretaría de Hacienda fungirá como Fideicomitente Unico de la Administración Pública Central.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2003)</small>
+
+En los fideicomisos creados por el Gobierno del Estado, la Secretaría de Finanzas y Planeación fungirá como Fideicomitente Único de la Administración Pública Central.
 
 ###### ARTICULO 48.
 
@@ -1084,3 +1104,11 @@ QUINTA.- Todas las facultades, atribuciones, funciones y obligaciones inherentes
 SEXTA.- Se autoriza al Titular del Poder Ejecutivo, por conducto de la Secretaría de Hacienda, para realizar las transferencias presupuestales necesarias, con el fin de que pueda dar cumplimiento a las disposiciones del presente Decreto.
 
 SÉPTIMA.- El Ejecutivo del Estado contará con un plazo de ciento veinte días hábiles, a partir de la fecha en que entre en vigor el presente Decreto, para expedir el Reglamento Interior de la Secretaría de Turismo.
+
+P.O. 28 DE AGOSTO DE 2003.
+
+PRIMERA.- Una vez aprobado y expedido por el Constituyente Permanente el Decreto que reforma diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Morelos, por el que se crea el Órgano de Auditoría Superior Gubernamental, el presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos a que se refieren los artículos 44 y 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERA.- Cuando en alguna ley, reglamento o disposición jurídica se haga referencia a la Secretaría de Hacienda o a la Secretaría de Finanzas, se entenderá hecha a la Secretaría de Finanzas y Planeación.
