@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1987-09-22"
+last_updated: "1987-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE SEPTIEMBRE DE 1987.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE SEPTIEMBRE DE 1987.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -393,6 +393,10 @@ VI.- Examinar las cuentas de los caudales públicos durante el primero o segundo
 
 VII.- Señalar las contribuciones y otros ingresos que deban formar la Hacienda Municipal, procurando sean suficientes a cubrir las necesidades de los municipios; determinar anualmente las bases, montos y plazos con que sean cubiertas las participaciones federales a los municipios;
 
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 1987)</small>
+
+VII Bis.- Instituir el Tribunal de lo Contencioso Administrativo, el cual estará dotado de plena independencia y autonomía para dictar y hacer cumplir sus fallos. Este Tribunal formará parte del Poder Ejecutivo y tendrá a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten entre la administración pública centralizada y descentralizada del Estado y los Municipios, y los Particulares. Conocerá también de las responsabilidades administrativas en que incurran los servidores públicos;
+
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 VIII.- dar bases conforme a las cuales el Ejecutivo pueda celebrar empréstitos a nombre del Estado, con las limitaciones puestas a las facultades de los Estados en el artículo 117 de la Constitución Federal; aprobar esos mismos empréstitos, reconocer y mandar pagar la deuda del Estado;
@@ -468,6 +472,10 @@ XXII.- aceptar las renuncias de los Magistrados del Tribunal Superior de Justici
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 XXIII.- nombrar a los Magistrados del Tribunal Superior de Justicia y a los suplentes de éstos;
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 1987)</small>
+
+XXIII Bis.- Aprobar los nombramientos de los Magistrados del Tribunal de lo Contencioso Administrativo y recibir la protesta de los mismos;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -817,6 +825,10 @@ II.- promulgar, publicar y ejecutar las Leyes que expida el Congreso del Estado,
 
 III.- nombrar y remover a los titulares de las dependencias que señala la Ley Orgánica del Poder Ejecutivo del Estado, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las Leyes;
 
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 1987)</small>
+
+III Bis.- Nombrar y aceptar las renuncias de los Magistrados del Tribunal de lo Contencioso Administrativo.
+
 IV.- disponer de la Guardia Nacional y de la fuerza pública del Municipio en donde residiere habitual o transitoriamente;
 
 V.- disponer de la fuerza pública de los otros municipios para la defensa del Estado y para conservar la tranquilidad y el orden público cuando éste se alterare;
@@ -855,7 +867,9 @@ XVII.- practicar visitas oficiales, cuando lo crea conveniente, a los municipios
 
 XVIII.- concurrir al Congreso, cuando lo juzgue conveniente, para presentar o sostener alguna Iniciativa del Ejecutivo o autorizar a cualquier funcionario del mismo para dicho objeto;
 
-XIX.- conceder licencias a los empleados de su nombramiento;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 1987)</small>
+
+XIX.- Conceder licencia a los empleados de su nombramiento, así como a los Magistrados del Tribunal de lo Contencioso Administrativo.
 
 XX.- pedir la protección de los Poderes de la Unión en caso de sublevación o trastorno interior; y
 
@@ -1708,3 +1722,9 @@ UNICO.- Este decreto entrará en vigor, el día siguiente al de su publicación 
 D.O. 22 DE SEPTIEMBRE DE 1987.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 30 DE SEPTIEMBRE DE 1987.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir del primer día hábil del mes siguiente al de su publicación en el Diario Oficial del Estado.
