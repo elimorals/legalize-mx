@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-la-seguridad-publica-para-el-estado-de-jalisco-13178"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-28"
-last_updated: "1993-12-28"
+last_updated: "1997-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13178&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de diciembre de 1993.
 
@@ -47,11 +47,11 @@ LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE JALISCO
 
 La presente Ley es de orden público e interés social, tiene por objeto establecer las bases para la prestación del servicio de seguridad pública, así como regular los servicios privados de seguridad en el Estado de Jalisco.
 
-> <small>(F. DE E., P.O. 17 DE MAYO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
 
 ###### Artículo 2°.
 
-La seguridad pública es un servicio cuya prestación corresponde en el ámbito de su competencia al Estado, respetando a la ciudadanía y las garantías que a ella consagra la Constitución Política de los Estados Unidos Mexicanos, la particular de Jalisco y el respeto a los derechos humanos; teniendo como fines y atribuciones los siguientes:
+La seguridad pública es un servicio cuya prestación corresponde en el ámbito de su competencia al Estado y a los municipios, respetando a la ciudadanía y las garantías que consagra la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y el respeto a los derechos humanos; tiene como fines y atribuciones los siguientes:
 
 I. Proteger y respetar la vida, la integridad corporal, la dignidad y los derechos de las personas así como de sus bienes;
 
@@ -64,6 +64,18 @@ III. Promover y coordinar los programas de prevención de delitos e infracciones
 IV. Establecer los mecanismos de coordinación con el Ministerio Público, para auxiliarlo en la investigación y persecución de los delitos y de los delincuentes; y
 
 V. Disponer la coordinación entre las diversas autoridades para apoyo y auxilio de la población en casos de siniestros y desastres conforme a la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+Disponer la coordinación entre las diversas autoridades para apoyo y auxilio de la población, tanto respecto de la seguridad pública, como en casos de siniestros y desastres conforme a la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+Procurar la seguridad pública mediante la prevención, persecución y sanción de las infracciones y delitos, así como la reinserción social del delincuente y del menor infractor y el auxilio a las víctimas de hechos delictuosos; y
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+Combatir las causas que generen la comisión de delitos y conductas antisociales, y desarrollar políticas, programas y acciones para fomentar en la sociedad, valores culturales y cívicos que induzcan al respeto a la legalidad.
 
 ###### Artículo 3°.
 
@@ -78,6 +90,22 @@ III. Procuraduría: La Procuraduría General de Justicia en el Estado, y por Pro
 > <small>(F. DE E., P.O. 17 DE MAYO DE 1994)</small>
 
 IV. Cuerpos de Seguridad pública del Estado, las corporaciones a que se refiere el artículo 7° de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+Consejo Estatal: El Consejo Estatal de Seguridad Pública;
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+Ley General: Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; y
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+Consejo Estatal: El Consejo Estatal de Seguridad Pública;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+VII. Registro: El Registro Estatal de Seguridad Pública.
 
 > <small>(F. DE E., P.O. 17 DE MAYO DE 1994)</small>
 
@@ -193,25 +221,57 @@ IV. Fotografías de frente y de perfil;
 
 V. Descripción del equipo a su cargo;
 
-VI. Trayectoria de los servicios desempeñados;
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
 
-VII. Cascajo y proyectil del arma de fuego que porte;
+Los de estímulos, reconocimientos y sanciones a que se haya hecho acreedor el servidor público.
 
-VIII. Tipo sanguíneo; y
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
 
-IX. Los demás que determine el reglamento respectivo.
+Cualquier cambio de adscripción, actividad o rango del servidor público, así como las razones que lo motivaron.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+Los vehículos que tuvieran asignados, anotándose el número de matrícula, las placas de circulación, la marca, modelo, tipo, número de serie y motor para el registro del vehículo;
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+Cualquier auto de procesamiento, sentencia condenatoria o absolutoria, sanción administrativa o resolución que modifique, confirme o revoque dichos actos, en contra del servidor público;
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+Las armas y municiones que les hayan sido autorizadas por las dependencias competentes, aportando el número de registro, la marca, modelo, calibre, matrícula y demás elementos de identificación; y
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+Los demás que determine el reglamento respectivo.
 
 Quedarán integrados al Registro Policial, los elementos de los Servicios Privados de Seguridad.
 
 Asimismo, serán objeto del Registro Policial, aquellos aspirantes que hayan sido rechazados y los admitidos que hayan desertado del curso de formación policial; se llevará un control de los elementos suspendidos, destituidos, inhabilitados, consignados y de las renuncias.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+El Estado y los Municipios suministrarán, intercambiarán y sistematizarán la información sobre seguridad pública, mediante los instrumentos tecnológicos modernos que permitan el fácil y rápido acceso a los usuarios a que se refiere este Título.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+La consulta del Registro será obligatoria y previa al ingreso de toda persona a cualquier institución y deberá agregarse al expediente respectivo la respuesta que se reciba. Con los resultados obtenidos, la autoridad procederá de conformidad con las normas conducentes.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+Las órdenes de detención o aprehensión se notificarán al Registro, cuando no pongan en riesgo la investigación o la causa procesal.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+El Reglamento de esta Ley especificará los demás datos que deban aportar al Registro cada una de las instituciones de seguridad pública.
+
 ### CAPITULO QUINTO. De los Principios de Actuación de los Cuerpos de Seguridad Pública
 
-> <small>(F. DE E., P.O. 17 DE MAYO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
 
 ###### Artículo 12.
 
-Los elementos de los cuerpos de seguridad pública, deberán basar su actuación fundamentalmente en los siguientes principios:
+Los elementos de los cuerpos de seguridad pública deberán basar su actuación en los principios de legalidad, eficiencia, profesionalismo y honradez fundamentalmente en los siguientes lineamientos:
 
 I. Velar por el respeto irrestricto de los derechos y garantías individuales y sociales consagradas en la Constitución Política de los Estados Unidos Mexicanos, y los otorgados en la particular del Estado, así como el respeto permanente de los derechos humanos;
 
@@ -235,7 +295,21 @@ IX. Procurar la inmediata libertad de los detenidos cuya conducta no constituya 
 
 X. Actuar en el marco de las obligaciones señaladas en la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios; y
 
-XI. Los demás que se deriven de otras disposiciones legales aplicables.
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+Prestar auxilio a las personas amenazadas por algún peligro o que hayan sido víctimas de algún delito, así como brindar protección a sus bienes y derechos. Su actuación será congruente, oportuna y proporcional al hecho.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+Participar en operativos de coordinación con otros cuerpos de seguridad, así como brindarles, en su caso, el apoyo que conforme a derecho proceda; y
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+Los demás que se deriven de otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+La persona que ejerza funciones de seguridad pública, sólo podrá portar las armas de cargo que le hayan sido autorizadas individualmente o aquellas que se le hubiesen asignado en lo particular y que estén registradas colectivamente para la institución de seguridad pública a que pertenezcan, de conformidad con las disposiciones legales aplicables.
 
 ## TITULO TERCERO. DERECHOS Y REGIMEN DISCIPLINARIO, ESTIMULOS Y RECONOCIMIENTO DE LOS MIEMBROS DE LOS CUERPOS DE SEGURIDAD PUBLICA
 
@@ -495,9 +569,13 @@ El Programa deberá contener las bases de concertación entre los Gobiernos Esta
 
 El Gobierno del Estado, dispondrá lo necesario para que a través de un sistema de comunicación telefónica, los habitantes de la Entidad, en casos de emergencia, establezcan contacto en forma rápida y eficiente con los cuerpos de seguridad pública, el servicio telefónico de emergencia funcionará las 24 horas.
 
-> <small>(F. DE E., P.O. 17 DE MAYO DE 1994)</small>
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
 
-El servicio telefónico de emergencia operará de acuerdo con las bases previstas en los convenios de coordinación o en los Programas de Gobierno, debiendo ajustarse cada corporación a los mecanismos que al efecto se establezcan.
+El Consejo Estatal impulsará las acciones necesarias para que el Estado y los Municipios establezcan un servicio para la localización de personas y bienes.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+El servicio tendrá comunicación directa con las instituciones de seguridad pública, salud, protección civil, y las demás instancias de asistencia, públicas y privadas.
 
 ###### Artículo 35.
 
@@ -543,21 +621,357 @@ V. Para acreditar ante la Secretaría los elementos que integren los servicios d
 
 VI. Los demás que señalen otras disposiciones legales aplicables.
 
-> <small>(F. DE E., P.O. 17 DE MAYO DE 1994)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
 
 ###### Artículo 40.
 
 Corresponde al Ejecutivo del Estado:
 
-I. Autorizar conforme al reglamento respectivo, a las personas físicas o morales su funcionamiento como cuerpos de seguridad privada;
+Supervisar permanentemente al personal, instalaciones, equipo y operaciones de los cuerpos de seguridad privada;
 
-II. Supervisar permanentemente al personal, instalaciones, equipo y operaciones de los cuerpos de seguridad privada;
+Sancionar a las personas físicas o morales que presten servicios de seguridad privada cuando incurran en las infracciones que señale el reglamento respectivo, sin perjuicio de la disciplina interna del cuerpo al que sirvan; y
 
-III. Sancionar a las personas físicas o morales que presten servicios de seguridad privada cuando incurran en las infracciones que señale el reglamento respectivo, sin perjuicio de la disciplina interna del cuerpo al que sirvan; y
+La Secretaría tendrá la facultad de ordenar a las instituciones públicas o privadas, las medidas en materia de seguridad pública que adopten para mejorar las condiciones de protección de bienes, valores y servicios que se presten, previo el estudio técnico emitido por cualquiera de las corporaciones enumeradas en el artículo 7 de esta ley.
 
-> <small>(F. DE E., P.O. 17 DE MAYO DE 1994)</small>
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
 
-IV. La Secretaría tendrá la facultad de ordenar a las Instituciones públicas o privadas, las medidas en materia de Seguridad Pública que adopten para mejorar las condiciones de protección de bienes, valores y servicios que se presten, previo el estudio técnico emitido por cualquiera de las corporaciones enumeradas en el artículo 8° de esta Ley.
+## TITULO NOVENO. DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+### CAPITULO PRIMERO. DEL CONSEJO ESTATAL DE SEGURIDAD PUBLICA
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+###### Artículo 41.
+
+El Sistema Estatal de Seguridad Pública tiene por objeto desarrollar las bases de coordinación entre la Federación, el Estado y los Municipios, en materia de seguridad pública.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+###### Artículo 42.
+
+El Sistema Estatal de Seguridad Pública se integra con las instancias, instrumentos, políticas y acciones previstos en el presente capítulo, tendientes a cumplir los objetivos y fines de la seguridad pública.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+###### Artículo 43.
+
+El Consejo Estatal de Seguridad Pública es la instancia encargada en Jalisco, de la coordinación, planeación y supervisión del Sistema Estatal de Seguridad Pública, así como de autorizar la prestación de servicios de seguridad privada conforme a lo establecido en la presente Ley, en el reglamento respectivo y a los lineamientos que para tal efecto emita.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+###### Artículo 44.
+
+La coordinación y la aplicación de esta Ley se hará con respeto absoluto de las atribuciones constitucionales que tengan las instituciones y autoridades que intervienen en los sistemas de seguridad pública.
+
+Cuando las acciones conjuntas sean para perseguir delitos, se cumplirán sin excepción los requisitos previstos en los ordenamientos constitucionales y legales aplicables.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+### CAPITULO SEGUNDO. DE LA COORDINACION ENTRE EL ESTADO Y SUS MUNICIPIOS
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+###### Artículo 45.
+
+Las autoridades competentes en materia de seguridad pública del Estado y los municipios se coordinarán para:
+
+I. Integrar el Sistema Estatal de Seguridad Pública;
+
+II. Determinar las políticas de seguridad pública, así como ejecutar, dar seguimiento y evaluar sus acciones, a través de las instancias previstas en esta Ley;
+
+III. Desarrollar los lineamientos, mecanismos e instrumentos para la mejor organización y funcionamiento de las instituciones de seguridad pública, así como para la formación de sus integrantes;
+
+IV. Establecer, supervisar, utilizar y mantener actualizados todos los instrumentos de información del Sistema Estatal;
+
+V. Formular propuestas para el Programa Estatal de Seguridad Pública, así como para llevarlo a cabo y evaluar su desarrollo; y
+
+VI. Tomar medidas y realizar acciones y operativos conjuntos.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+###### Artículo 46.
+
+La coordinación comprenderá las materias siguientes:
+
+I. Procedimientos e instrumentos de formación, reglas de ingreso, permanencia, promoción y retiro de los miembros de las instituciones policiales, como base de la carrera policial, así como la reglamentación e instrumentación de dicha carrera;
+
+II. Sistemas disciplinarios, así como de estímulos y recompensas;
+
+III. Organización, administración, operación y modernización tecnológica de las instituciones de seguridad pública;
+
+IV. Las propuestas de aplicación de recursos para la seguridad pública, incluido el financiamiento conjunto;
+
+V. Suministro, intercambio y sistematización de todo tipo de información sobre seguridad pública;
+
+VI. Acciones policiales conjuntas, en los términos de esta Ley;
+
+VII. Regulación y control de los servicios de seguridad que presten particulares y otros auxiliares;
+
+VIII. Relación con la comunidad y fomento de la cultura de prevención de infracciones y delitos; y
+
+IX. Las relacionadas con las anteriores, que sean necesarias para incrementar eficacia de las medidas y acciones tendientes a alcanzar los fines de la seguridad pública.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+###### Artículo 47.
+
+Las políticas, lineamientos y acciones de coordinación se llevarán a cabo mediante la suscripción de los convenios respectivos o con base en los acuerdos y resoluciones que se tomen en el Consejo Estatal y en las demás instancias de coordinación en materia de seguridad pública.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+### CAPITULO TERCERO. DE LAS INSTANCIAS DE COORDINACION
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+###### Artículo 48.
+
+El Consejo Estatal será la instancia superior de coordinación del Sistema Estatal de Seguridad Pública, y estará integrado por:
+
+I. Un Presidente, que será el Gobernador del Estado.
+
+II. Los Titulares de las siguientes dependencias del Poder Ejecutivo del Estado:
+
+A. Secretaría General de Gobierno.
+
+B. Procuraduría General de Justicia.
+
+C. Secretaría de Vialidad y Transporte.
+
+D. Subsecretaría de Seguridad Pública, Protección Civil y Prevención y Readaptación Social.
+
+E. Dirección General de la Policía Judicial.
+
+F. Dirección General de Seguridad Pública del Estado.
+
+III. De los Poderes Legislativo y Judicial del Estado:
+
+A. El Presidente del Supremo Tribunal de Justicia del Estado.
+
+B. El Presidente de la Comisión de Seguridad Pública del Congreso del Estado.
+
+IV. Los Presidentes Municipales de las Cabeceras de los partidos judiciales en el Estado.
+
+V. En cumplimiento a la Constitución Federal y a la Ley General de las entidades públicas federales:
+
+A. El Comandante de la Región Militar y de la Zona Militar que correspondan a la entidad.
+
+B. El Delegado Estatal de la Procuraduría General de la República.
+
+D (SIC). El Representante en el Estado de la Subsecretaría de Gobierno de la Secretaría de Gobernación.
+
+E. El Delegado Estatal del Centro de Investigación y Seguridad Nacional.
+
+F. El Delegado General de la Secretaría de Comunicaciones y Transportes en el Estado.
+
+G. El Comandante Regional de la Policía Federal de Caminos.
+
+H. El Administrador Regional de Auditoría Fiscal de Occidente de la Secretaría de Hacienda y Crédito público.
+
+VI. Un Secretario Ejecutivo.
+
+VII. A quienes el pleno del Consejo Estatal decida invitar a participar y que por sus funciones estén vinculados con los fines de la Seguridad Pública.
+
+El cargo de Consejero será honorífico y por lo tanto no remunerado, con excepción de su Secretario Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+###### Artículo 49.
+
+El Consejo Estatal designará al Secretario Ejecutivo, a propuesta de su Presidente.
+
+El Secretario Ejecutivo deberá cumplir con los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos;
+
+II. Tener más de 35 años de edad;
+
+III. Contar con título de Abogado o Licenciado en Derecho debidamente registrado; y
+
+IV. Ser de reconocida capacidad y probidad, y contar con experiencia en áreas de seguridad pública.
+
+La Secretaría Ejecutiva del Consejo Estatal dependerá administrativamente de la Secretaría General de Gobierno.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+###### Artículo 50.
+
+El Consejo Estatal conocerá y resolverá los siguientes asuntos:
+
+I. La coordinación del Sistema Estatal de Seguridad Pública;
+
+II. La determinación de lineamientos para el establecimiento de políticas generales en materia de seguridad pública;
+
+III. La formulación de propuestas para el Programa Estatal de Seguridad Pública.
+
+IV. El establecimiento de medidas para vincular el Sistema Estatal con el Sistema Nacional y otros sistemas estatales o locales;
+
+V. La emisión de bases y reglas para la realización de operativos conjuntos entre corporaciones de seguridad pública, locales y municipales;
+
+VI. La realización de programas de cooperación nacional sobre seguridad pública, en coordinación con las entidades y dependencias competentes;
+
+VII. La elaboración de anteproyectos de leyes, reglamentos, y otras disposiciones, en materia de seguridad pública, para remitirlos al Titular del Ejecutivo, para los efectos de esta Ley;
+
+VIII. El análisis de proyectos y estudios que se sometan a su consideración por conducto del Secretario Ejecutivo.
+
+IX. La expedición de reglas para la organización y funcionamiento del Sistema Estatal de Seguridad Pública;
+
+X. La proposición al Consejo Nacional de acuerdos, programas específicos y convenios sobre las materias de coordinación de la seguridad pública;
+
+XI. Determinar las bases a las que deben sujetarse los prestadores de servicios de seguridad privada, así como autorizar a quienes prestarán dichos servicios; para tal efecto deberá obtenerse la aprobación de por lo menos dos terceras partes de los miembros del Consejo; y
+
+XII. Los demás que sean necesarios dentro del marco legal, para cumplir los objetivos de esta Ley.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+###### Artículo 51.
+
+El Consejo Estatal se reunirá por lo menos cada dos meses a convocatoria de su Presidente, por conducto del Secretario Ejecutivo, quien integrará la agenda de los asuntos a tratar.
+
+Corresponde al Consejo Estatal la facultad de promover en todo tiempo la efectiva coordinación y funcionamiento del Sistema Estatal.
+
+Los miembros del Consejo Estatal podrán proponer acuerdos y resoluciones, así como vigilar su cumplimiento.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+###### Articulo 52.
+
+Serán funciones del Secretario Ejecutivo del Consejo Estatal:
+
+I. Elaborar las propuestas de contenido del Programa Estatal de Seguridad Pública y someterlas a la aprobación del Consejo Estatal;
+
+II. Levantar y certificar los acuerdos que se tomen en el Consejo Estatal y llevar el archivo de éstos;
+
+III. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo Estatal;
+
+IV. Proponer al Consejo Estatal la aprobación de políticas, lineamientos y acciones para el buen desempeño de las instituciones de seguridad pública en el Estado;
+
+V. Elaborar y publicar informes de actividades del Consejo Estatal;
+
+VI. Coordinar el servicio estatal de apoyo a la carrera policial y a las instituciones estatales de formación de las policías;
+
+VII. Administrar y sistematizar los instrumentos de información del Sistema Estatal, así como recabar todos los datos que se requieran;
+
+VIII. Informar por escrito, por lo menos cada dos meses, al Consejo Estatal de sus actividades;
+
+IX. Formular sugerencias a las autoridades competentes, para que las instituciones de seguridad pública del Estado y los Municipios, desarrollen de manera más eficaz sus funciones;
+
+X. Promover por conducto de las instituciones de seguridad pública, la realización de acciones conjuntas, conforme a las bases y reglas que emita el Consejo Estatal, sin menoscabo de otras que realicen las autoridades competentes;
+
+XI. Tomar las medidas necesarias para hacer efectiva la coordinación y preservación de la seguridad pública;
+
+XII. Organizar la realización de estudios especializados sobre las materias de seguridad pública;
+
+XIII. Coordinar acciones entre las policías preventivas en el Estado; y
+
+XIV. Las demás que le asigne el Consejo Estatal o le confieran otros ordenamientos legales aplicables.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+### CAPITULO CUARTO. DE LOS CONSEJOS MUNICIPALES DE SEGURIDAD PUBLICA
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+###### Artículo 53.
+
+En cada uno de los Municipios que son cabecera de Partido Judicial, deberán integrarse Consejos Municipales de Seguridad Pública.
+
+En los demás municipios, el Consejo Estatal promoverá la instalación de los respectivos Consejos Municipales, en la medida en que la importancia de la problemática de seguridad pública lo recomiende o exija.
+
+Los Consejos Municipales se integrarán en los términos y condiciones que se establezcan en los Acuerdos del Consejo Estatal, procurando estructuras similares a éste, y tomando en cuenta, sus características y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+###### Artículo 54.
+
+Los Consejos Municipales se organizarán en lo conducente, de manera similar al Consejo Estatal, y tendrán las funciones relativas para hacer posible la coordinación y los fines de la seguridad pública, en sus ámbitos de competencia.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 197)</small>
+
+### CAPITULO QUINTO. DE LA ESTADISTICA DE SEGURIDAD PUBLICA
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+###### Artículo 55.
+
+El Reglamento señalará los instrumentos de acopio de datos que permitan analizar la incidencia criminológica, y en general, la problemática de seguridad pública en los ámbitos del Estado y sus Municipios, con el propósito de planear las estrategias de las políticas tendientes a la preservación del orden y la paz públicos.
+
+Para este efecto, dispondrá los mecanismos que permitan la evaluación y reordenación, en su caso, de las políticas de seguridad pública.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+###### Artículo 56.
+
+Las normas generales para la recepción de la información serán establecidas de conformidad con los ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+###### Artículo 57.
+
+La estadística de seguridad pública sistematizará los datos y cifras relevantes sobre servicios de seguridad preventiva, procuración y administración de justicia, sistemas de prisión preventiva, de ejecución de sentencias y de tratamiento de menores, y los factores asociados a la problemática de seguridad pública.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+### CAPITULO SEXTO. DE LA INFORMACION DE APOYO A LA PROCURACION DE JUSTICIA
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+###### Artículo 58.
+
+El Consejo Estatal integrará una base estatal de datos sobre personas probables responsables de delitos, indiciadas, procesadas o sentenciadas, de consulta obligatoria en las actividades de seguridad pública, donde se incluyan sus características criminales, medios de identificación, recursos y modos de operación. Esta base estatal de datos se actualizará permanentemente y se conformará con la información que aporten las instituciones de prevención, procuración y administración de justicia, readaptación social, y en general, todas las instituciones que deban contribuir a la seguridad pública, relativa a las investigaciones, averiguaciones previas, órdenes de detención y aprehensión, sentencias o ejecución de penas.
+
+Dicha información se debe dar de baja de esta base de datos a la brevedad posible, por resoluciones de libertad por desvanecimiento de datos o falta de elementos para procesar, así como por sentencias absolutorias.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+###### Artículo 59.
+
+La Institución del Ministerio Público sólo podrá reservarse la información que ponga en riesgo alguna investigación, pero la proporcionará inmediatamente después que deje de existir tal condición.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+### CAPITULO SEPTIMO. DE LAS REGLAS GENERALES SOBRE LA INFORMACION
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+###### Artículo 60.
+
+El Reglamento de esta Ley determinará las bases para incorporar otros servicios o instrumentos que tiendan a integrar la información sobre seguridad pública y los mecanismos modernos que den agilidad y rapidez a su acceso.
+
+Asimismo, establecerá las condiciones de seguridad sobre manejo y acceso a la información, la que tendrá siempre un responsable de inscripción. En los casos necesarios se asignará una clave confidencial a los responsables de inscribir y a las personas autorizadas para obtener la información en los sistemas, a fin de que quede la debida constancia de cualquier movimiento o consulta.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+###### Artículo 61.
+
+Para el acceso a la información sobre seguridad pública, podrán establecerse los diferentes niveles de consulta, respecto de:
+
+I. La policía preventiva;
+
+II. La policía judicial;
+
+III. El Ministerio Público;
+
+IV. Las autoridades judiciales;
+
+V. Las autoridades administrativas de readaptación social; y
+
+VI. Otras autoridades relacionadas con la materia.
+
+El Reglamento de esta Ley señalará el nivel en la clasificación que corresponda a cada tipo o acceso de información y la que podrá tener carácter público.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+###### Artículo 62.
+
+La información será manejada bajo los principios de confidencialidad y reserva. No se proporcionará al público la información que ponga en riesgo la seguridad pública o atente contra el honor de las personas. El incumplimiento de esta obligación se equipará al delito de revelación de secretos, sin perjuicio de las responsabilidades de otra naturaleza en las que incurran.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+###### Artículo 63.
+
+Cualquier interesado que estime falsa o errónea alguna información podrá solicitar la investigación correspondiente con el objeto de que, en su caso, se anote la corrección que proceda, conforme al procedimiento que establezca el Reglamento de esta Ley.
 
 TRANSITORIOS:
 
@@ -598,3 +1012,21 @@ Lic. Carlos Rivera Aceves
 El Secretario General de Gobierno
 
 Lic. José Luis Leal Sanabria
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE SEPTIEMBRE DE 1997.
+
+PRIMERO.- El Consejo Estatal deberá de elaborar el Anteproyecto de Reglamento de esta Ley, en un plazo no mayor de 90 días de la entrada en vigor del presente Decreto, y lo remitirá al Titular del Ejecutivo del Estado para su aprobación y publicación.
+
+Asimismo, dispondrá del término de 60 días para la elaboración de su Reglamento Interior, en el cual entre otros puntos, deberá de especificar la periodicidad y mecánica de sus reuniones.
+
+SEGUNDO.- El Consejo Estatal deberá convocar e instalar los Consejos Municipales de Seguridad Pública conforme a las disposiciones legales aplicables.
+
+TERCERO.- Queda sin efecto el Acuerdo del C. Gobernador del Estado de fecha 3 de Mayo de 1996, relativo al Consejo Estatal de Seguridad Pública.
+
+CUARTO.- Inmediatamente a la entrada en vigor de este Decreto, el Consejo Estatal deberá designar a su Secretario Ejecutivo, conforme a los lineamientos que marca esta Ley.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan o sean incongruentes con el presente Decreto.
+
+SEXTO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial "El Estado de Jalisco".
