@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-rehabilitacion-y-reintegracion-social-de-personas-6365"
 country: "mx"
 rank: "ley"
 publication_date: "1995-10-13"
-last_updated: "2000-01-21"
+last_updated: "2000-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6365&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE REHABILITACION Y REINTEGRACION SOCIAL DE PERSONAS CON PROBLEMAS DE DROGADICCION Y ALCOHOLISMO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 13 de octubre de 1995.
 
@@ -47,9 +47,11 @@ La presente Ley es de Orden Público y de interés social, su objeto es regular 
 
 El Estado y la Sociedad asumen la tarea de rehabilitar y reintegrar a la vida productiva a personas con problemas de drogadicción y alcoholismo, mediante la creación de centros de rehabilitación y capacitación que otorguen tratamiento individual y progresivo y atienda los aspectos físicos, mental y social en forma conjunta con los padres, tutores, cónyuges, hijos o quienes mantengan lazos firmes de unión con el drogadicto o alcohólico.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2000)</small>
+
 ###### ARTICULO 3.
 
-La presente Ley tiene su fundamento en los artículos 106 de la Constitución Política Local; 7mo. de la Ley de Salud Pública para el Estado de Baja California y 4to. fracción III de la Ley sobre el Sistema Estatal de Asistencia Social del Estado de Baja California.
+La presente Ley, tiene su fundamento en los artículos 106 de la Constitución Política del Estado Libre y Soberano de Baja California; 4, 7, 16, y 25 de la Ley de Salud Pública del Estado de Baja California y 4to. Fracción III de la Ley sobre el Sistema Estatal de Asistencia Social del Estado de Baja California.
 
 ###### ARTICULO 4.
 
@@ -235,6 +237,24 @@ El organismo coordinador promoverá la celebración de convenios con las empresa
 
 La atención que se otorgue en los términos del artículo anterior causará el pago del importe de la cuota que establezca el reglamento correspondiente.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRA, P.O. 4 DE FEBRERO DE 2000)</small>
+
+## TITULO IV. (ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 4 DE FEBRERO DE 2000) (F. DE E., P.O. 25 DE FEBRERO DE 2000)
+
+### CAPITULO UNICO. OBLIGACIONES DE LOS CENTROS DE REHABILITACION Y REINTEGRACION
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2000)</small>
+
+###### ARTICULO 22.
+
+Los Centros de Rehabilitación de los sectores público, social o privado, tendrán las siguientes obligaciones:
+
+I.- Registrarse ante la dependencia correspondiente de ISESALUD, (actualmente Instituto de Servicios de Salud en el Estado de Baja California, que en el texto de esta ley se identifica como Sector Salud), que establece la presente Ley denominada Comisión Interdisciplinaria;
+
+II.- Prestar las medidas y acciones necesarias para que la Comisión Interdisciplinaria o el personal de ISESALUD, practiquen visitas o inspecciones para verificar el cumplimiento de esta Ley;
+
+III.- Sujetarse en su caso, a las visitas e inspecciones que la Comisión Interdisciplinaria practique para los efectos de fiscalizar el destino de los fondos públicos entregados en los Centros de Rehabilitación.
+
 ## ARTICULOS TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -302,3 +322,9 @@ En un plazo de 20 días hábiles el Sistema Estatal para el Desarrollo Integral 
 ###### ARTICULO CUARTO.
 
 Las autorizaciones otorgadas a que refiere el Artículo 6, continuarán vigentes hasta el tiempo de su expiración sujetándose a las prevenciones del presente Decreto.
+
+P.O. 4 DE FEBRERO DE 2000.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- En un plazo de sesenta días se expedirá el Reglamento que regirá la presente Ley.
