@@ -4,7 +4,7 @@ identifier: "TAM-ley-reglamentaria-de-las-oficinas-del-registro-civil-del-8327"
 country: "mx"
 rank: "ley"
 publication_date: "1940-10-30"
-last_updated: "1954-02-10"
+last_updated: "1954-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY REGLAMENTARIA DE LAS OFICINAS DEL REGISTRO CIVIL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 1954.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 1954.
 
 Ley publicada en el Periódico Oficial, el 30 de octubre de 1940.
 
@@ -251,9 +251,11 @@ En las Congregaciones donde ya venga funcionando Oficina del Registro Civil o do
 
 Para inscripción de las actas del Registro Civil cada Oficina deberá llevar, por duplicado un juego de tres libros: uno destinado a nacimientos, posesión de estado de hijo o progenitura; otro de inscripciones sobre matrimonio, disolución de matrimonio y divorcios; y otro destinado a inscripciones sobre fallecimiento y declaraciones de ausencia.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 1954)</small>
+
 ###### Art. 23.
 
-Todos los libros del Registro Civil serán proporcionados por el Departamento de Estadística del Gobierno del Estado, y serán autorizados, firmándose y sellándose en su primera y última hoja, por el Ejecutivo del Estado; se renovará cada año y el original quedará en el Archivo de la Oficina así como los documentos sueltos que con el carácter de anexos existan en la misma Oficina, remitiéndose, precisamente el primer mes del año siguiente al Departamento de Estadística los libros duplicados.
+Todos los libros del Registro Civil serán proporcionados por la Dirección de Economía y Registro Civil del Gobierno del Estado, y serán autorizados firmándose y sellándose en su primera y última hoja, por el C. Gobernador del Estado o por el C. Secretario General de Gobierno; se renovarán cada año y el original quedará en el archivo de la oficina respectiva, con los documentos que con el carácter de anexos existen en la misma, remitiéndose, precisamente el primer mes del año siguiente, a la citada Dirección, los libros duplicados.
 
 ###### Art. 24.
 
@@ -583,7 +585,7 @@ I.- Exigir de todos los Oficiales del Registro Civil el exacto cumplimiento de l
 
 II.- Hacer visitas de inspección a las Oficinas del Registro Civil cuando el C. Gobernador del Estado lo determine;
 
-III.- Resolver la dudas (sic) que consulten los Oficiales del ramo, dando previamente cuenta al C. Gobernador del Estado;
+III.- Resolver la (sic) dudas que consulten los Oficiales del ramo, dando previamente cuenta al C. Gobernador del Estado;
 
 IV.- Dar cuenta al C. Gobernador del Estado, cuando sea necesario substituir a un Oficial del ramo por su ineptitud o porque tenga una conducta inconveniente;
 
@@ -646,3 +648,7 @@ SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS QUE SE RELACIONAN CON LA PR
 ###### ARTICULO SEXTO.
 
 Se abrogan la Tarifa VI del Artículo 18 y las disposiciones del Capítulo Sexto, de la Ley Reglamentaria de las Oficinas del Registro Civil, contenidas en el Decreto No. 248, expedido el 6 de Agosto de 1940.
+
+P.O. 8 DE MAYO DE 1954.
+
+UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
