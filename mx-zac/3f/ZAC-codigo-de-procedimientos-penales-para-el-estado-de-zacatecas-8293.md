@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-procedimientos-penales-para-el-estado-de-zacatecas-82
 country: "mx"
 rank: "codigo"
 publication_date: "1967-07-19"
-last_updated: "1991-05-01"
+last_updated: "1993-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 1993.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 19 de julio de 1967.
 
@@ -65,7 +65,7 @@ II. Practicar la averiguación previa; y
 
 III. Buscar las pruebas de la existencia de los delitos de la competencia de los tribunales del Estado y de la responsabilidad de quienes en ellos hubieren participado.
 
-###### ARTICULO 3o.
+###### ARTICULO 3o
 
 Dentro del mismo período, el Ministerio Público deberá:
 
@@ -2185,9 +2185,9 @@ I.- Que garantice debidamente, a juicio del Juez, la reparación del daño;
 
 II.- Que la concesión de la libertad no constituya un grave peligro social;
 
-III.- Que no exista riesgo fundado de que el inculpado pueda sustraerse a la acción de la justicia;
+III..- Que no exista riesgo fundado de que el inculpado pueda sustraerse a la acción de la justicia;
 
-IV.- Que no se trate de personas que por ser reincidentes o haber mostrado habituaildad, la concesión de la libertad haga presumir fundadamente que evadirían la acción de la justicia.
+IV.- Que no se trate de personas que por ser reincidentes o haber motrado habituaildad, la concesión de la libertad haga presumir fundadamente que evadirián la acción de la justicia.
 
 Para los efectos del párrafo anterior, no procederá la libertad provisional cuando se trate de los delitos previstos en los siguientes artículos del Código Penal del Estado 117, 118, 152, 169, 170, 235, 236, 237, 266, 293, en relación con el 297, 299, 306, 307, 317 en relación con el 320 fracción IV cuando se realice en cualquier de las circunstancias señaladas en los artículos 321 fracciones I, IV, V y VII.
 
@@ -2989,87 +2989,85 @@ Después de dictada sentencia irrevocable no procederá la suspensión condicion
 
 Cuando por alguna de las causas que señala el artículo 88 del Código Penal deba hacerse efectiva la sanción impuesta, revocándose el beneficio de la suspensión condicional, el tribunal que concedió ésta procederá, con audiencia del Ministerio Público, y del reo y de su defensor, si fuere posible, a comprobar la existencia de dicha causa y, en su caso, ordenará que se ejecute la sanción.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 1993)</small>
+
 ### CAPITULO III. Libertad Condicional
 
 ###### ARTICULO 478.
 
-Cuando algún reo que esté compurgando una sanción privativa de libertad crea tener derecho a la libertad condicional, la solicitará del órgano del Poder Ejecutivo que designe la ley, a cuyo efecto, acompañará los certificados y las demás pruebas que tuviere.
+(DEROGADO, P.O. 10 DE JULIO DE 1993)
 
 ###### ARTICULO 479.
 
-Recibida la solicitud, se recabarán los datos necesarios acerca de la temibilidad del reo, de la conducta que haya observado durante, su prisión, de las manifestaciones exteriores de arrepentimiento o de enmienda y sobre las inclinaciones que demuestre. Estos datos se pedirán a las comisiones unitarias integradas, respectivamente, por el Ministerio Público, por el juez y por el jefe de la prisión que hubiere intervenido en el caso del solicitante.
-
-Los informes que rindan estas comisiones no serán obstáculo para que se obtengan los datos necesarios por cualquier otro medio. En vista de esos informes y datos se resolverá sobre la procedencia de la libertad solicitada.
+(DEROGADO, P.O. 10 DE JULIO DE 1993)
 
 ###### ARTICULO 480.
 
-Cuando se conceda la libertad condicional, se recibirá una información sobre la solvencia e idoneidad de la persona a que se refiere la fracción l del artículo 82 del Código Penal, que hubiere sido propuesta y en vista de ella se resolverá si es de admitirse.
+(DEROGADO, P.O. 10 DE JULIO DE 1993)
 
 ###### ARTICULO 481.
 
-Admitida dicha persona, otorgará la fianza en los términos que este Código establece para la libertad bajo caución, y se extenderá al reo un salvoconducto para que pueda comenzar a disfrutar de la libertad condicional. Esta concesión se comunicará al jefe de la prisión respectiva, a la autoridad municipal del lugar que se señale para la residencia del mismo reo y al tribunal que haya conocido del proceso.
+(DEROGADO, P.O. 10 DE JULIO DE 1993)
 
 ###### ARTICULO 482.
 
-El salvoconducto a que se refiere el artículo anterior se remitirá al jefe de la prisión para que lo entregue al reo al ponerlo en libertad, haciéndolo suscribir un acta en que conste que recibió dicho salvoconducto y que se obliga a no separarse del lugar que se le haya señalado para su residencia, sin permiso de la autoridad que le concedió la libertad condicional. En caso de que al que se le haya concedido la libertad condicional obtenga permiso para cambiar de residencia, se presentará a la autoridad municipal del lugar a donde vaya a radicarse y exhibirá ante ella el documento que justifique haber dado aviso del cambio a la autoridad municipal de su anterior domicilio.
+(DEROGADO, P.O. 10 DE JULIO DE 1993)
 
 ###### ARTICULO 483.
 
-El reo deberá presentar el salvo-conducto, siempre que sea requerido para ello por un magistrado, o juez o agente de la policía judicial o del Ministerio Público, y si se rehusare, se comunicará a la autoridad que le concedió la libertad condicional, la que podrá imponerle hasta quince días de arresto, pero sin revocarle dicha libertad.
+(DEROGADO, P.O. 10 DE JULIO DE 1993)
 
 ###### ARTICULO 484.
 
-Cuando el que goce de libertad condicional se encuentre en alguno de los casos que menciona el artículo 84 del Código Penal, la autoridad municipal o cualquiera otra que tenga conocimiento de ello, dará cuenta a la que le concedió la libertad, para los efectos del mismo artículo.
+(DEROGADO, P.O. 10 DE JULIO DE 1993)
 
 ###### ARTICULO 485.
 
-Cuando el reo cometiere un nuevo delito, el tribunal que conozca de éste remitirá copia certificada de la sentencia que cause ejecutoria a la autoridad que concedió la libertad, quien de plano decretará la revocación, de conformidad con el artículo 84 del Código Penal.
+(DEROGADO, P.O. 10 DE JULIO DE 1993)
 
 ###### ARTICULO 486.
 
-Cuando se revoque la libertad condicional, conforme a los dos artículos anteriores, se recogerá e inutilizará el salvoconducto.
+(DEROGADO, P.O. 10 DE JULIO DE 1993)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 1993)</small>
 
 ### CAPITULO IV. Retención
 
 ###### ARTICULO 487.
 
-Siempre que llegare a conocimiento del órgano del Ejecutivo encargado de la ejecución de las sentencias, cualquiera noticia que pueda motivar que se aplique la retención, procederá a practicar una investigación que deberá concluirse y resolverse antes de que el reo cumpla la condena impuesta.
-
-Los jefes de las prisiones están obligados a comunicar a la autoridad a que se refiere el párrafo anterior, cualquier hecho que pueda dar motivo a que se aplique la retención.
+(DEROGADO, P.O. 10 DE JULIO DE 1993)
 
 ###### ARTICULO 488.
 
-En vista de la investigación practicada, se resolverá si procede o no la retención. En la resolución se harán constar los motivos que la funden y el tiempo que debe durar, en caso de que se decrete.
+(DEROGADO, P.O. 10 DE JULIO DE 1993)
 
 ###### ARTICULO 489.
 
-Cuando el fallo considere inaplicable la retención, no impedirá que ésta se decrete posteriormente por causa superveniente, siempre que el reo no haya sido puesto en libertad por haber cumplido su condena.
+(DEROGADO, P.O. 10 DE JULIO DE 1993)
 
 ###### ARTICULO 490.
 
-Las resoluciones sobre la procedencia o improcedencia de la retención se comunicarán al reo, al jefe de la prisión donde cumpla su condena y al tribunal que dictó la sentencia.
+(DEROGADO, P.O. 10 DE JULIO DE 1993)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 1993)</small>
 
 ### CAPITULO V. Conmutación y Reducción de Sanciones y Cesación de sus Efectos
 
 ###### ARTICULO 491.
 
-El que hubiere sido condenado por sentencia irrevocable y se encontrare en los casos de los artículos 49 ó 73 del Código Penal, podrá solicitar del órgano del Poder Ejecutivo que designe la ley, la reducción o la conmutación de la sanción que se le hubiere impuesto, acompañando a su solicitud testimonio de la sentencia y, en su caso, las constancias que acrediten plenamente los motivos que tuviere para solicitar la conmutación o la reducción.
+(DEROGADO, P.O. 10 DE JULIO DE 1993)
 
 ###### ARTICULO 492.
 
-Recibida la solicitud se resolverá, sin más trámite lo que fuere procedente.
-
-Dictada la resolución se comunicará al tribunal que haya conocido del proceso y al jefe de la prisión en que se encuentre el reo. El tribunal deberá mandar notificar la resolución al interesado.
-
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1986)</small>
+(DEROGADO, P.O. 10 DE JULIO DE 1993)
 
 ###### ARTICULO 493.
 
-En los casos a que se refiere el artículo 75 del Código Penal, se seguirá el procedimiento señalado por los artículos anteriores, sin que pueda modificarse lo que se relacione con la reparación del daño.
+(DEROGADO, P.O. 10 DE JULIO DE 1993)
 
 ###### ARTICULO 494.
 
-En el caso del artículo 50 del Código Penal, aún cuando el interesado se encuentre disfrutando del beneficio de la suspensión condicional de la sentencia, el tribunal que sentenció resolverá de oficio o a petición de parte, y sin más trámite, que cese cualquier efecto que la sentencia produzca.
+(DEROGADO, P.O. 10 DE JULIO DE 1993)
 
 ### CAPITULO VI. Revisión Extraordinaria para el Reconocimiento
 
@@ -3188,3 +3186,15 @@ PRIMERO.- Las reformas y adiciones a que se refiere este Decreto, entrará en vi
 P.O. 1 DE MAYO DE 1991
 
 UNICO.- El presente Decreto entrará en vigor a los quince días después de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 10 DE JULIO DE 1993
+
+PRIMERO.- Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+SEGUNDO.- Se derogan los capítulos I, II y III del Título Cuarto del Libro Primero del Código Penal del Estado, así como el artículo 72 del Capítulo VII del Título Tercero del Ordenamiento antes invocado.
+
+TERCERO.- Se derogan los capítulos III, IV y V del Título Décimo Tercero del Código de Procedimientos Penales del Estado.
+
+CUARTO.- Constituidos los Consejos Técnicos Interdisciplinarios, de cada Centro Regional, dispondrán de noventa días naturales para la elaboración de su reglamento interno.
+
+QUINTO.- Se crea la Dirección de Prevención y de Readaptación Social dependiente de la Secretaría General de Gobierno, con las facultades y obligaciones que esta Ley otorga, funciones que desempeñará a partir del día de inicio de la vigencia de esta Ley. Consecuentemente, la Dirección de Gobernación cesará en las funciones que anteriormente desempeñaba relativas a la ejecución de sanciones privativas de la libertad.
