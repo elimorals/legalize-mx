@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1999-06-11"
+last_updated: "1999-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JUNIO DE 1999.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -101,6 +101,10 @@ Toda persona tiene derecho a decidir de manera libre, responsable e informada so
 > <small>(ADICIONADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
 Toda persona tiene derecho a la protección de la salud. La Ley definirá las bases y modalidades para el acceso a los servicios de salud y establecerá la concurrencia de la Federación y las entidades federativas en materia de salubridad general, conforme a lo que dispone la fracción XVI del artículo 73 de esta Constitución.
+
+> <small>(ADICIONADO, D.O.F. 28 DE JUNIO DE 1999)</small>
+
+Toda persona tiene derecho a un medio ambiente adecuado para su desarrollo y bienestar.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 7 DE FEBRERO DE 1983)</small>
 
@@ -398,23 +402,37 @@ El Congreso no puede dictar leyes que establezcan o prohiban religión alguna.
 
 Los actos religiosos de culto público se celebrarán ordinariamente en los templos. Los que extraordinariamente se celebren fuera de éstos se sujetarán a la ley reglamentaria.
 
-> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE JUNIO DE 1999)</small>
 
 ###### Art. 25.
 
-Corresponde al Estado la rectoría del desarrollo nacional para garantizar que éste sea integral, que fortalezca la Soberanía de la Nación y su régimen democrático y que, mediante el fomento del crecimiento económico y el empleo y una más justa distribución del ingreso y la riqueza, permita el pleno ejercicio de la libertad y la dignidad de los individuos, grupos y clases sociales, cuya seguridad protege esta Constitución.
+Corresponde al Estado la rectoría del desarrollo nacional para garantizar que éste sea integral y sustentable, que fortalezca la Soberanía de la Nación y su régimen democrático y que, mediante el fomento del crecimiento económico y el empleo y una más justa distribución del ingreso y la riqueza, permita el pleno ejercicio de la libertad y la dignidad de los individuos, grupos y clases sociales, cuya seguridad protege esta Constitución.
+
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
 El Estado planeará, conducirá, coordinará y orientará la actividad económica nacional, y llevará al cabo la regulación y fomento de las actividades que demande el interés general en el marco de libertades que otorga esta Constitución.
 
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
+
 Al desarrollo económico nacional concurrirán, con responsabilidad social, el sector público, el sector social y el sector privado, sin menoscabo de otras formas de actividad económica que contribuyan al desarrollo de la Nación.
+
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
 El sector público tendrá a su cargo, de manera exclusiva, las áreas estratégicas que se señalan en el Artículo 28, párrafo cuarto de la Constitución, manteniendo siempre el Gobierno Federal la propiedad y el control sobre los organismos que en su caso se establezcan.
 
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
+
 Asimismo podrá participar por sí o con los sectores social y privado, de acuerdo con la ley, para impulsar y organizar las áreas prioritarias del desarrollo.
+
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
 Bajo criterios de equidad social y productividad se apoyará e impulsará a las empresas de los sectores social y privado de la economía, sujetándolos a las modalidades que dicte el interés público y al uso, en beneficio general, de los recursos productivos, cuidando su conservación y el medio ambiente.
 
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
+
 La ley establecerá los mecanismos que faciliten la organización y la expansión de la actividad económica del sector social: de los ejidos, organizaciones de trabajadores, cooperativas, comunidades, empresas que pertenezcan mayoritaria o exclusivamente a los trabajadores y, en general, de todas las formas de organización social para la producción, distribución y consumo de bienes y servicios socialmente necesarios.
+
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
 La ley alentará y protegerá la actividad económica que realicen los particulares y proveerá las condiciones para que el desenvolvimiento del sector privado contribuya al desarrollo económico nacional, en los términos que establece esta Constitución.
 
@@ -1388,9 +1406,17 @@ XXIX-F.- Para expedir leyes tendientes a la promoción de la inversión mexicana
 
 XXIX-G.-Para expedir leyes que establezcan la concurrencia del Gobierno Federal, de los gobiernos de los Estados y de los municipios, en el ámbito de sus respectivas competencias, en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico.
 
-> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 1999)</small>
 
-XXIX-H.- Para expedir leyes que instituyan tribunales de lo contencioso administrativo, dotados de plena autonomía para dictar sus fallos, y que tengan a su cargo dirimir las controversias que se susciten entre la administración Pública Federal y los particulares, estableciendo las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones; y
+XXIX-H.- Para expedir leyes que instituyan tribunales de lo contencioso-administrativo, dotados de plena autonomía para dictar sus fallos, y que tengan a su cargo dirimir las controversias que se susciten entre la administración pública federal y los particulares, estableciendo las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones.
+
+> <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 1999)</small>
+
+XXIX-I.- Para expedir leyes que establezcan las bases sobre las cuales la Federación, los estados, el Distrito Federal y los municipios, coordinarán sus acciones en materia de protección civil, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 1999)</small>
+
+XXIX-J.- Para legislar en materia de deporte, estableciendo las bases generales de coordinación de la facultad concurrente entre la Federación, los estados, el Distrito Federal y municipios; asimismo de la participación de los sectores social y privado, y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
@@ -4571,3 +4597,23 @@ Por única vez, el período de los Consejeros designados por la Suprema Corte de
 TERCERO.- En tanto queda instalado el Consejo de la Judicatura Federal, en términos del transitorio que antecede, funcionará una comisión temporal compuesta por el Presidente del Consejo y por los funcionarios que dependan directamente del propio Consejo. Dicha comisión proveerá los trámites y resolverá los asuntos administrativos de notoria urgencia que se presenten, salvo los relacionados con nombramientos, adscripción, ratificación y remoción de jueces y magistrados. Una vez instalado el Consejo, dará cuenta al pleno de las medidas tomadas, a fin de que éste acuerde lo que proceda.
 
 CUARTO.- Los procesos a que aluden los artículos que se reforman, iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose conforme a las disposiciones vigentes en el momento en que fueron iniciados.
+
+D.O.F. 28 DE JUNIO DE 1999.
+
+DECRETO QUE ADICIONA LA FRACCION XXIX-J AL ARTICULO 73.
+
+PRIMERO.- La presente adición entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se fija como plazo máximo para la expedición de la ley reglamentaria de las atribuciones de la Federación en materia de deporte, el de un año.
+
+D.O.F. 28 DE JUNIO DE 1999.
+
+DECRETO QUE ADICIONA UN PARRAFO QUINTO AL ARTICULO 4 Y REFORMA EL PRIMER PARRAFO DEL ARTICULO 25.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE JUNIO DE 1999.
+
+DECRETO QUE REFORMA LA FRACCION XXIX-H Y ADICIONA LA FRACCION XXIX-I AL ARTICULO 73.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
