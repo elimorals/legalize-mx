@@ -4,7 +4,7 @@ identifier: "LIEPS"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1994-12-28"
+last_updated: "1995-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=447&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIEPS"
 
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 1995.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el martes 30 de diciembre de 1980.
 
@@ -84,7 +84,7 @@ E).- Bebidas alcohólicas:
 
 1.- Con una graduación de hasta 13.5º G.L. .......... 1.5%
 
-2.- Con una graduación de más de 13.5º y hasta 20º G.L. .......... 30%
+2.- Con una graduación de más de 13.5º y hasta 20º G.L. ........... 30%
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -92,21 +92,21 @@ F).- Aguardiente y bebidas alcohólicas con una graduación de más de 20º G.L.
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-G).- Alcohol y bebidas alcohólicas con una graduación de más de 55º G.L., así como sus concentrados ............ 60%
+G).- Alcohol y bebidas alcohólicas con una graduación de más de 55º G.L., así como sus concentrados ........... 60%
 
 H).- Tabacos labrados:
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-1.- Cigarros ........... 85%
+1.- Cigarros .......... 85%
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
-2.- Cigarros populares sin filtro elaborados con tabacos obscuros con tamaño máximo de 77 milímetros de longitud, cuyo precio máximo al público al 1o. de enero de cada año, no exceda de la cantidad que establezca el Congreso de la Unión, así como puros y otros tabacos labrados ........... 20.9%
+2.- Cigarros populares sin filtro elaborados con tabacos obscuros con tamaño máximo de 77 milímetros de longitud, cuyo precio máximo al público al 1o. de enero de cada año, no exceda de la cantidad que establezca el Congreso de la Unión, así como puros y otros tabacos labrados .......... 20.9%
 
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-I).- Gasolinas: La tasa que resulte para el mes de que se trate en los términos de los artículos 2o-A y 2o-B de esta Ley.
+I) Gasolinas nova y magna sin: la tasa que resulte para el mes de que se trate en los términos de los artículos 2o.-A y 2o.-B de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -134,29 +134,41 @@ C).- Comisión, mediación, agencia, representación, correduría, consignación
 
 III.- En la exportación definitiva en los términos de la legislación aduanera de los bienes a que se refiere la fracción I de este artículo, siempre que se efectúe a países con una tasa del impuesto sobre la renta aplicable a personas morales superior al 30%, así como en la enajenación de bienes que la citada legislación aduanera establece como importación temporal realizada por personas residentes en el país a empresas de comercio exterior .......... 0%
 
-> <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 2o.-A.
 
-La tasa aplicable en cada mes para la enajenación de gasolinas o diesel será la que resulte para cada agencia de ventas de Petróleos Mexicanos conforme a lo siguiente:
+La tasa aplicable en cada mes para la enajenación de gasolinas o diesel será la que resulte para cada agencia de ventas de Petróleos Mexicanos y sus organismos subsidiarios conforme a lo siguiente:
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 I.- El precio de referencia ajustado por calidad, cuando proceda, que se determine para el combustible de que se trate de acuerdo con la fracción VI de este artículo, se adicionará con el costo de manejo y el costo neto de transporte a la agencia de ventas de que se trate en el periodo comprendido del día 26 del segundo mes anterior al día 25 del mes inmediato anterior a aquél por el que se calcule la tasa, sin incluir, en este último caso, el impuesto al valor agregado.
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-II.- Se multiplicará por el factor 0.9302 para gasolinas, diesel automotriz y diesel sin y por 1.0 para el diesel industrial de alto y bajo azufre y diesel marino, el monto que se obtenga de adicionar a la comisión que haya pagado Petróleos Mexicanos a los expendios autorizados por el combustible de que se trate en el periodo citado, los costos netos del transporte del combustible de la agencia de ventas de que trate al establecimiento del expendedor incurridos durante dicho periodo, sin incluir, en ambos casos, el impuesto al valor agregado.
+II.- Se multiplicará por el factor 0.9524 para las gasolinas nova y magna sin, diesel automotriz y diesel sin, por 1.0 para el diesel industrial de alto y bajo azufre y diesel marino, el monto que se obtenga de adicionar a la comisión que haya pagado Petróleos Mexicanos a los expendios autorizados por el combustible de que se trate en el periodo citado, los costos netos de transporte del combustible de la agencia de ventas de que se trate al establecimiento del expendedor incurridos durante dicho periodo, sin incluir, en ambos casos, el impuesto al valor agregado.
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-III.- Se multiplicará por el factor de 0.8457 para gasolinas, diesel automotriz y diesel sin y por 0.9091 para el diesel industrial de alto y bajo azufre y el diesel marino, el precio de venta al público del combustible de que se trate vigente en la zona geográfica correspondiente en el periodo citado.
+III.- Se multiplicará por el factor de 0.8658 para gasolinas nova y magna sin, diesel automotriz y diesel sin, por 0.9091 para el diesel industrial de alto y bajo azufre y el diesel marino, el precio de venta al público, del combustible de que se trate vigente en la zona geográfica correspondiente en el periodo citado, cuando la enajenación se realice con tasa del impuesto al valor agregado de 10%.
+
+Se multiplicará por el factor de 0.8282 para gasolinas nova y magna sin, diesel automotriz y diesel sin, por 0.8696 para el diesel industrial de alto y bajo azufre y el diesel marino, el precio de venta al público, del combustible de que se trate vigente en la zona geográfica correspondiente en el periodo citado, cuando la enajenación se realice con tasa del impuesto al valor agregado de 15%.
+
+> <small>(ADICIONADA, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
 IV.- El monto que resulte conforme a la fracción III se disminuirá con las cantidades obtenidas conforme a las fracciones I y II de este artículo.
 
+> <small>(ADICIONADA, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+
 V.- La cantidad determinada conforme a la fracción IV se dividirá entre el monto que se obtuvo conforme a la fracción I de este artículo y el resultado se multiplicará por 100. El porcentaje que se obtenga será la tasa aplicable al combustible de que se trate que enajene la agencia correspondiente durante el mes por el que se calcula la tasa.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
+> <small>(ADICIONADA, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+
 VI.- El precio de referencia para cada uno de los combustibles a que se refiere la fracción I de este artículo, será el promedio de las cotizaciones del día 26 del segundo mes anterior al día 25 del mes inmediato anterior a aquél por el que se calcula la tasa, convertidas a nuevos pesos con el promedio del tipo de cambio de venta del dólar de los Estados Unidos de América que publica el Banco de México en el Diario Oficial de la Federación, como sigue:
+
+> <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
 a).- Gasolinas: el promedio del precio spot de la gasolina regular sin plomo vigente en la Costa del Golfo de los Estados Unidos de América.
 
@@ -282,7 +294,9 @@ IV.- Que tratándose del impuesto trasladado por la enajenación de alcohol, el 
 
 Se entenderá por traslado del impuesto el cobro o cargo que el contribuyente debe efectuar de un monto equivalente al impuesto establecido en esta Ley. No se considerará acreditable el impuesto que se traslade sin tener esta obligación.
 
-El derecho al acreditamiento es personal para los contribuyentes de este impuesto y no podrá ser transmitido por acto entre vivos, excepto tratándose de fusión de sociedades.
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+El derecho al acreditamiento es personal para los contribuyentes de este impuesto y no podrá ser transmitido por acto entre vivos, excepto tratándose de fusión. En el caso de escisión de sociedades el acreditamiento del impuesto pendiente de acreditar a la fecha de la escisión sólo lo podrá efectuar la sociedad escindente. Cuando esta última desaparezca, se estará a lo dispuesto en el penúltimo párrafo del artículo 14-A del Código Fiscal de la Federación.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -295,6 +309,10 @@ I.- En maquinaria fija de combustión interna, maquinaria de flama abierta y loc
 II.- En vehículos marinos y en maquinaria utilizada en las actividades de acuacultura.
 
 III.- En tractores, motocultores, combinadas, empacadoras de forraje, revolvedoras, desgranadoras, molinos, cosechadoras o máquinas de combustión interna para aserrío, bombeo de agua o generación de energía eléctrica, que se utilicen en actividades de siembra, cultivo y cosecha de productos agrícolas; cría y engorda de ganado, aves de corral y animales; cultivo de los bosques o montes, así como en la cría, conservación, restauración, fomento y aprovechamiento de la vegetación de los mismos.
+
+> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+IV.- En vehículos de baja velocidad o bajo perfil, que por sus características no estén autorizados para circular por sí mismos en carreteras federales o concesionadas, y siempre que se cumplan los requisitos que mediante reglas de carácter general establezca la Secretaría de Hacienda y Crédito Público.
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -316,9 +334,13 @@ El acreditamiento señalado en este artículo podrá efectuarse contra las contr
 
 Las personas que adquieran diesel para su consumo final en las actividades agropecuarias o silvícolas a que se refiere la fracción III del artículo 4o-A de esta Ley, podrán solicitar la devolución del monto del impuesto especial sobre producción y servicios que tuvieran derecho a acreditar en términos del artículo 4º-B anterior, en lugar de efectuar el acreditamiento a que el mismo se refiere, siempre que cumplan con lo dispuesto en el presente artículo.
 
-Las personas a que se refiere el párrafo anterior que podrán solicitar la devolución, serán únicamente aquéllas cuyos ingresos en el ejercicio inmediato anterior no hayan excedido de veinte veces el salario mínimo general correspondiente al área geográfica del contribuyente elevado al año. En ningún caso el monto de la devolución podrá ser superior a N$ 225.00 mensuales por cada persona física, salvo que se trate de personas físicas que registren sus operaciones en el cuaderno de entradas y salidas previsto para el régimen simplificado en la Ley del Impuesto sobre la Renta, en cuyo caso podrán solicitar la devolución de hasta N$ 450.00 mensuales.
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-Las personas morales que podrán solicitar la devolución serán aquéllas cuyos ingresos en el ejercicio inmediato anterior, no hayan excedido de veinte veces el salario mínimo general correspondiente al área geográfica del contribuyente elevado al año, por cada uno de los socios o asociados, sin exceder de doscientas veces dicho salario mínimo. El monto de la devolución no podrá ser superior a N$ 225.00 mensuales, por cada uno de sus socios o asociados sin que exceda en su totalidad de N$ 2,250.00 mensuales, salvo que se trate de personas morales que registren sus operaciones en el cuaderno de entradas y salidas previsto para el régimen simplificado en la Ley del Impuesto sobre la Renta, en cuyo caso podrán solicitar la devolución de hasta N$ 450.00 mensuales, por cada uno de sus socios o asociados, sin que en este último caso exceda en su totalidad de N$ 4,500.00 mensuales.
+Las personas a que se refiere el párrafo anterior que podrán solicitar la devolución, serán únicamente aquéllas cuyos ingresos en el ejercicio inmediato anterior no hayan excedido de veinte veces el salario mínimo general correspondiente al área geográfica del contribuyente elevado al año. En ningún caso el monto de la devolución podrá ser superior a $ 300.00 mensuales por cada persona física, salvo que se trate de personas físicas que registren sus operaciones en el cuaderno de entradas y salidas previsto para el régimen simplificado en la Ley del Impuesto sobre la Renta, en cuyo caso podrán solicitar la devolución de hasta $ 600.00 mensuales.
+
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+Las personas morales que podrán solicitar la devolución serán aquéllas cuyos ingresos en el ejercicio inmediato anterior, no hayan excedido de veinte veces el salario mínimo general correspondiente al área geográfica del contribuyente elevado al año, por cada uno de los socios o asociados, sin exceder de doscientas veces dicho salario mínimo. El monto de la devolución no podrá ser superior a $ 300.00 mensuales, por cada uno de los socios o asociados sin que exceda en su totalidad de $ 3,000.00 mensuales, salvo que se trate de personas morales que registren sus operaciones en el cuaderno de entradas y salidas previsto para el régimen simplificado en la Ley del Impuesto sobre la Renta, en cuyo caso podrán solicitar la devolución de hasta $ 600.00 mensuales, por cada uno de los socios o asociados, sin que en este último caso exceda en su totalidad de $6,000.00 mensuales.
 
 La devolución correspondiente se solicitará trimestralmente en los meses de abril, junio y octubre del mismo año y enero del siguiente. En caso de que el contribuyente no solicite en tiempo la devolución que le corresponda, la podrá solicitar posteriormente.
 
@@ -444,9 +466,9 @@ Para calcular el impuesto tratándose de enajenaciones se considerará como valo
 
 Cuando con motivo de la enajenación de bienes sujetos al pago de este impuesto se convenga además del precio por dicha enajenación el pago de cantidades adicionales al mismo por concepto de publicidad o cualquier otro, que en su defecto se hubieran tenido que realizar por parte del enajenante, dichas erogaciones formarán parte del valor o precio pactado, salvo que se trate de los bienes a los que se refieren los incisos I), J), y K) de la fracción I del artículo 2o. de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-Los productores o importadores de tabacos labrados para calcular el impuesto por la enajenación de esos bienes en territorio nacional, considerarán como valor de los mismos, el precio de venta al detallista. En el caso de exportación definitiva de dichos bienes en los términos de la legislación aduanera, así como en la enajenación de bienes que la citada legislación aduanera establece como importación temporal realizada por personas residentes en el país a empresas de comercio exterior, considerarán el valor que se utilice para los fines del impuesto general de exportación. Tratándose de la enajenación de los combustibles a que se refieren los incisos I) y J) de la fracción I del artículo 2o. de esta Ley, los productores o importadores para calcular el impuesto por la enajenación de esos bienes considerarán como valor el precio a que se refiere la fracción I, del artículo 2o-A de esta Ley, multiplicado por el factor de 1.075 para gasolinas, diesel automotriz y diesel sin y por 1.0 para el diesel industrial de alto y bajo azufre y diesel marino.
+Los productores o importadores de tabacos labrados para calcular el impuesto por la enajenación de esos bienes en territorio nacional, considerarán como valor de los mismos, el precio de venta al detallista. En el caso de exportación definitiva de dichos bienes en los términos de la legislación aduanera, así como en la enajenación de bienes que la citada legislación aduanera establece como importación temporal realizada por personas residentes en el país a empresas de comercio exterior, considerarán el valor que se utilice para los fines del impuesto general de exportación. Tratándose de la enajenación de los combustibles a que se refieren los incisos I) y J) de la fracción I del artículo 2o. de esta Ley, los productores o importadores para calcular el impuesto por la enajenación de esos bienes considerarán como valor el precio a que se refiere la fracción I, del artículo 2o-A de esta Ley, multiplicado por el factor de 1.05 para gasolinas, diesel automotriz y diesel sin y por 1.0 para el diesel industrial de alto y bajo azufre y diesel marino.
 
 > <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -1287,3 +1309,15 @@ Las cantidades establecidas en el artículo 4o-C de esta Ley, se entienden actua
 ## TRANSITORIO
 
 UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1995.
+
+D.O.F. 15 DE DICIEMBRE DE 1995.
+
+Disposición Transitoria de la Ley del Impuesto Especial sobre Producción y Servicios
+
+Artículo Décimo Primero. Durante el año de 1996, para efectos del artículo 2o., fracción I, inciso H), subinciso 2 de esta Ley, son cigarros populares sin filtro los que al 1o. de enero de 1996 tengan un precio máximo al público que no exceda de $ 0.13 por cigarro.
+
+## Transitorios
+
+Primero. El presente Decreto entrará en vigor el 1o. de enero de 1996.
+
+Segundo. De conformidad con la disposición del Banco de México publicada en el Diario Oficial de la Federación el día 6 de enero de 1994, todas las sumas en moneda nacional que en las leyes fiscales se encuentren expresadas en "nuevos pesos" y su abreviatura "N", a partir del 1o. de enero de 1996 deberán entenderse como "pesos" y su símbolo "$".
