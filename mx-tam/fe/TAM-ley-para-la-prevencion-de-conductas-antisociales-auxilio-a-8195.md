@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-prevencion-de-conductas-antisociales-auxilio-a-8195
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-27"
-last_updated: "1986-12-27"
+last_updated: "1993-05-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA PREVENCION DE CONDUCTAS ANTISOCIALES, AUXILIO A LAS VICTIMAS, MEDIDAS TUTELARES Y READAPTACION SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 27 de diciembre de 1986.
 
@@ -155,7 +155,7 @@ La Dirección General, por conducto de su titular o de la Dirección de Prevenci
 
 I.- Promover campañas, exposición de conferencias, distribución de folletos e ilustraciones, propagar por los distintos medios masivos de comunicación, instituir cursos en las escuelas, preparar y exponer material audiovisual, organizar seminarios, capacitar instructores hacia la comunidad, sobre los efectos perniciosos que causan el tabaco, el alcohol, los enervantes, la pornografía, los vicios en general, el pandillerismo y las conductas antisociales en que degeneran;
 
-II.- Promover:
+II .- Promover:
 
 a).- Parques infantiles;
 
@@ -183,7 +183,7 @@ III.- Establecer un programa de Seguridad Vecinal, a nivel municipal, con los Co
 
 Para la elaboración del Programa de Seguridad Vecinal, la Dirección General se sujetará a las siguientes bases:
 
-I.- Con la intervención del Consejo Consultivo Estatal de Seguridad Pública y el Municipal que corresponda, celebrará acuerdo de coordinación con el Ayuntamiento respectivo, a efecto de instrumentar el programa;
+I.- Con la intervención del Consejo Consultivo Estatal de Seguridad Pública y el Municipal que corresponda, celebrará acuerdo de coordinación con el Ayuntamiento respectivo, a efecto de instrumentar el programa.
 
 > <small>(F. DE E., P.O. 14 DE MARZO DE 1987)</small>
 
@@ -239,7 +239,7 @@ La Tesorería General del Estado informará trimestralmente a la Dirección Gene
 
 ###### ARTICULO 17.
 
-A fin de que la autoridad competente inicie de inmediato el procedimiento económico-coactivo que corresponda, los Tribunales y la Dirección General harán del conocimiento de aquella, los casos de revocación de libertad provisional, libertad preparatoria o de suspensión condicional de la sentencia, cuando dicha revocación determine que se haga efectiva la caución otorgada.
+A fin de que la autoridad competente inicie de inmediato el procedimiento económico-coactivo que corresponda, los Tribunales y la Dirección, General harán del conocimiento de aquella, los casos de revocación de libertad provisional, libertad preparatoria o de suspensión condicional de la sentencia, cuando dicha revocación determine que se haga efectiva la caución otorgada.
 
 La Dirección General informará a la Tesorería General del Estado de las sentencias ejecutorias en las que se haga condena a multa y/o reparación del daño.
 
@@ -623,7 +623,7 @@ IX.- Exigir a los Directores de los Centros de Readaptación Social, que mensual
 
 X.- Conocer, investigar y resolver las quejas de los internos sobre el trato de que sean, objeto y sus inconformidades respecto al tratamiento y medidas impuestas por los Directores y Consejos Técnicos Interdisciplinarios de los Centros de Readaptación Social;
 
-XI.- Resolver los casos de condenados por sentencia firme a que se refieren los Artículos 9o, 10, 11 y 12 del Código Penal del Estado;
+XI.- Resolver los casos de condenados por sentencia firme a que se refieren los Artículos 9o,10,11 y 12 del Código Penal del Estado;
 
 XII.- Proveer a la ejecución de las medidas que dicte el Juez a procesados que enloquezcan durante el procedimiento, en los términos del Artículo 71 del Código Penal;
 
@@ -705,7 +705,7 @@ El personal de custodia o vigilancia quedará organizado conforme a las reglas d
 
 ###### ARTICULO 70.
 
-El personal de tratamiento y readaptación formará el Consejo Técnico Interdisciplinario y se integrará por los especialistas que sean necesarios para el cumplimiento de los fines de esta Ley, tales como psiquiatras, psicólogos, trabajadores sociales, maestros, médicos e instructores técnicos.
+El personal de tratamiento y readaptación formará el Consejo Técnico Interdisciplinario y se integrará por los especialistas que sean necesarios para el cumplimiento de los fines de esta Ley, tales como psiquiatras, psicólogos, trabajadores sociales, maestros, médicos e instructores técnicos. Al Consejo podrá llamarse a los Consejeros Penitenciarios cuando se juzgue necesario por el Director.
 
 ###### ARTICULO 71.
 
@@ -823,9 +823,11 @@ Para que pueda operar la conmutación, es indispensable cubrir o garantizar la r
 
 El Ejecutivo promoverá la creación de establecimientos abiertos, en los cuales el régimen de tratamiento se fundará en la confianza y la responsabilidad del interno respecto a la comunidad en que viva.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MAYO DE 1993)</small>
+
 ###### ARTICULO 94.
 
-El régimen de establecimiento abierto, así como el sistema de permisos de salida de fin de semana, salida diaria con reclusión nocturna o con reclusión de fin de semana, será el tratamiento preliberacional cuando técnicamente sea recomendable, tomando en consideración la personalidad y grado de readaptación de cada sujeto, siempre y cuando el tiempo por compurgar hasta la posible liberación del interno, bien sea por el cumplimiento de la sanción o por la posible obtención de los beneficios de libertad preparatoria y remisión parcial de la pena, no exceda de seis meses.
+El régimen de establecimiento abierto consiste en un sistema de internamiento en Granjas, Campamentos y Colonias de Readaptación Social, así como en permisos de salida diaria o de fin de semana con reclusión nocturna, salida con reclusión de fin de semana, salida diaria con reclusión nocturna y de fin de semana, que constituye el tratamiento preliberacional que se concederá cuando técnicamente sea recomendable, valorando en su conjunto la personalidad y grado de readaptación del interno, para tal efecto la Dirección General se apoyará en la opinión del Consejo Técnico y el Organismo Técnico-Criminológico de la Institución que corresponda.
 
 Cuando sea procedente la preliberación de salida y reclusión en cualquiera de sus modalidades, el beneficiado será internado en un sector totalmente separado de los sentenciados o procesados.
 
@@ -1065,7 +1067,7 @@ La Ley que crea los Consejos Tutelares Estatales en el Estado, que por la presen
 
 ###### ARTICULO CUARTO.
 
-La Ley de Ejecución de Sanciones que Privan y Restringen la Libertad en el Estado, que por la presente se abroga, continuará aplicándose para los internos a quienes se le haya dictado sentencia firme antes de la entrada en vigor de la presente Ley, por lo que se refiere a la concesión de beneficios.
+La Ley de Ejecución de Sanciones que Privan y Restringen la libertad en el Estado, que por la presente se abroga, continuará aplicándose para los internos a quienes se le haya dictado sentencia firme antes de la entrada en vigor de la presente Ley, por lo que se refiere a la concesión de beneficios.
 
 SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.
 
@@ -1074,3 +1076,11 @@ Cd. Victoria, Tam., a 3 de diciembre de 1986.- Diputado Presidente, LIC. MERCEDE
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los veintiséis días del mes de diciembre de mil novecientos ochenta y seis.- El Gobernador Constitucional del Estado, DR. EMILIO MARTINEZ MANAUTOU.- El Secretario General de Gobierno.- LIC. ROBERTO PERALES MELENDEZ.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE MAYO DE 1993
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
