@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-la-central-de-notificadores-y-actuarios-del-33987
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-30"
-last_updated: "2003-08-30"
+last_updated: "2003-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "ZAC"
 
 REGLAMENTO DE LA CENTRAL DE NOTIFICADORES Y ACTUARIOS DEL DISTRITO JUDICIAL DE FRESNILLO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2003.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 30 de agosto de 2003.
 
@@ -58,91 +58,145 @@ Las actividades del personal de la Central de Notificadores y Actuarios se sujet
 
 Para el cabal desempeño de sus atribuciones, la Central de Notificadores y Actuarios se estructurará de la siguiente manera:
 
-I.- Titular de la Central.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
 
-II.- Area Operativa.
+l.- Coordinador de Centrales de Notificadores y Actuarias.
 
-III.- Actuarios - Notificadores adscritos a la Central.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
 
-IV.- Notificadores adscritos a los juzgados.
+II.- Jefe de la Central.
 
-V.- Notificadores adscritos al área de consulta.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
 
-VI.- Personal administrativo necesario.
+III.- Area Operativa.
 
-### CAPITULO II. DEL TITULAR DE LA CENTRAL
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
+
+IV.- Actuarios - Notificadores adscritos a la Central.
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
+
+V.- Notificadores adscritos a los Juzgados.
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
+
+VI.- Notificadores adscritos al área de consulta.
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2003)</small>
+
+VII.- Personal administrativo necesario.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE OCTUBRE DE 2003)</small>
+
+### CAPITULO II. DEL COORDINADOR
+
+> <small>N. DE E. DE CONFORMIDAD CON EL INCISO C) DEL ACUERDO GENERAL NUMERO 7/2003 QUE MODIFICA EL REGLAMENTO, PUBLICADO EN EL P.O. DE 22 DE OCTUBRE DE 2003, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTICULO DE DIECISEIS FRACCIONES A DIEZ.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE OCTUBRE DE 2003)</small>
 
 ###### Artículo 5.
 
-La Central de Notificadores y Actuarios estará a cargo del Titular de la Central, cuyas atribuciones son las siguientes:
+La Central de Notificadores y Actuarios será controlada por el Coordinador de Centrales de Notificadores y Actuarios, cuyas atribuciones son las siguientes:
 
 l.- Planear, organizar, coordinar y evaluar la realización de las notificaciones y ejecuciones de mandamientos judiciales que se turnen a la Central a su cargo.
 
-II.- Controlar al personal administrativo y resguardar los expedientes que se reciban en la oficina.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
 
-III.- Promover planes, programas y métodos de trabajo que contribuyan a la mejor aplicación y utilización de los elementos técnicos y humanos del área de notificación y actuaría para el logro de un trabajo eficiente.
+II.- Promover planes, programas y métodos de trabajo que contribuyan a la mejor aplicación y utilización de los elementos técnicos y humanos del área de notificación y actuaría para el logro de un trabajo eficiente.
 
-IV.- Distribuir por zonas o sectores el trabajo de notificaciones y ejecuciones de acuerdo a distancias, al volumen de trabajo y número de actuarios - notificadores.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
 
-V.- Asignar a cada notificador de la Central el área en que deberá desempeñarse de acuerdo a las necesidades del servicio y a su criterio.
+III.- Distribuir por zonas o sectores el trabajo de notificaciones y ejecuciones de acuerdo a distancias, al volumen de trabajo y número de actuarios - notificadores.
 
-VI.- Firmar los folios de asignación de fechas y actuarios, formando los cuadernillos necesarios en aquellos casos en que la diligencio se ejecute sin el expediente original.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
 
-VII.- Establecer el soporte logístico y administrativo necesario, para lograr que las funciones de actuaría y de notificación se realicen en condiciones de respeto, honestidad y eficiencia.
+IV.- Asignar a cada notificador de la Central, el área en que deberá desempeñarse de acuerdo a las necesidades del servicio, a su criterio o al del Jefe de la Central.
 
-VIII.- Verificar que las notificaciones y ejecuciones se realicen con estricto apego a la Ley y conforme a los lineamientos establecidos en las resoluciones judiciales respectivas.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
 
-IX.- Supervisar que en el área de consulta, se brinde al público una atención eficaz y esmerada.
+V.- Verificar que las notificaciones y ejecuciones se realicen con estricto apego a la ley y conforme a los lineamientos establecidos en las resoluciones judiciales respectivas.
 
-X.- Atender a los abogados postulantes y demás interesados en las solicitudes de información sobre el estado de las actuaciones, brindando orientación y recibiendo planteamientos y quejas.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
 
-XI.- Establecer una estrecha coordinación con el personal de los juzgados, a efecto de proveer a un cabal cumplimiento de las resoluciones judiciales de acuerdo a los criterios de sus titulares.
+VI.- Establecer una estrecha coordinación con el personal de los juzgados, a efecto de proveer a un cabal cumplimiento de las resoluciones judiciales de acuerdo a los criterios de sus titulares.
 
-XII.- Optimizar el tiempo de los notificadores-actuarios en los casos de inasistencia o cancelación de citas y diligencias.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
 
-XIII.- Levantar actas administrativas al personal a su cargo por faltas y otras irregularidades cometidas con motivo de su desempeño, para dar cuenta a su superior y tomar las medidas disciplinarias correspondientes.
+VII. - Recibir del Jefe de la Central y levantar las actas administrativas del personal de la Central, para dar cuenta a la Secretaría General de Acuerdos del Tribunal Superior de Justicia y tomar las medidas disciplinarias correspondientes.
 
-XIV.- Plantear ante la Secretaría General de Acuerdos del Tribunal Superior de Justicia, la problemática y necesidades de la Central para el normal desarrollo de sus actividades.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
 
-XV.- Rendir dentro de los primeros dos días hábiles de cado mes, un informe al Presidente del Tribunal Superior de Justicia.
+VIII.- Plantear ante la Secretaría General de Acuerdos del Tribunal Superior de Justicia, la problemática y necesidades de la Central para el normal desarrollo de sus actividades.
 
-XVI.- Las demás que le sean encomendadas o estén previstos en las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
+
+IX.- Rendir cada mes un Informe al Presidente del Tribunal Superior de Justicia.
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
+
+X.- Las demás que le sean encomendadas o estén previstas en las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2003)</small>
+
+Artículo 5 bis.- La Central de Notificadores y Actuarios estará a cargo del Jefe de la Central, cuyas atribuciones son las siguientes:
+
+l.- Organizar, dirigir y controlar el desahogo de ejecuciones y notificaciones.
+
+II.- Planear el trabajo que debe desarrollar el personal del área operativa.
+
+III.- Controlar al personal administrativo y resguardar los expedientes que se reciban en la oficina.
+
+IV.- llevar un registro de número, fecha, horario de recepción y devolución de cédulas y anexos.
+
+V.- Entregar a los Juzgados, debidamente autorizadas, las fichas de trámite para el desahogo de diligencias a efecto de la asignación de fechas por porte de la Central.
+
+VI.- Controlar mediante firma autorizada, los paquetes de folios para la asignación de diligencias de ejecución promovidas por los litigantes.
+
+VII.- Coordinarse con los notificadores adscritos a cada juzgado, para un mejor control y seguimiento de las notificaciones pendientes o urgentes.
+
+VIII.- Monitorear, por los medios disponibles, las diligencias a cargo de los notificadores - actuarios.
+
+IX.- Establecer el soporte logístico y administrativo necesario, para lograr que las funciones de actuaría y de notificación se realicen en condiciones de respeto, honestidad y eficiencia.
+
+X.- Supervisar que en el área de consulta, se brinde al público una atención eficaz y esmerada.
+
+XI.- Atender a los abogados postulantes y demás interesados en las solicitudes de información sobre el estado de las actuaciones, brindando orientación y recibiendo planteamientos y quejas.
+
+XII.- Optimizar el tiempo de los notificadores - actuarios en los casos de Inasistencia o cancelación de citas y diligencias.
+
+XIII.- Levantar actas administrarlas al personal a su cargo por fallas y otras irregularidades cometidas con motivo de su desempeño, para dar cuenta a su superior y tomar las medidas disciplinarias correspondientes.
+
+XIV.- Rendir dentro de los primeros dos días hábiles de cada mes, un informe al Coordinador.
+
+XV.- Las demás que le sean encomendadas o estén previstas en las disposiciones legales aplicables.
 
 ### CAPITULO III. AREA OPERATIVA
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2003)</small>
 
 ###### Artículo 6.
 
 Son atribuciones del área operativa:
 
-l.- Organizar, dirigir y controlar el desahogo de ejecuciones y notificaciones.
+I.- Coordinar y operar el programa de agenda general para la designación de actuarios y para el seguimiento y control de las diligencias que han de practicarse, mediante asignación computarizada y aleatoria, tomando en cuenta las diligencias programadas por los jueces.
 
-II.- Coordinar y operar el programa de agenda general para la designación de actuarios y para el seguimiento y control de las diligencias que han de practicarse, mediante asignación computarizada y aleatoria, tomando en cuenta las diligencias programados por los jueces.
+II.- Asignar al personal respectivo, a petición del interesado y a la brevedad, las diligencias a ejecutar, verificando su debida autorización y la previa presentación de las (sic) ficha respectiva en horario hábil.
 
-III.- Asignar al personal respectivo, a petición del interesado y a la brevedad, las diligencias a ejecutar, verificando su debida autorización y la previa presentación de la ficha respectiva en horario hábil.
+III.- Turnar al personal asignado por la Central para la realización de notificaciones, las cédulas respectivas, conforme a la zona previamente determinada.
 
-IV.- Turnar al personal asignado por la Central para la realización de notificaciones, las cédulas respectivas, conforme a la zona previamente determinada.
+IV.- Firmar los folios de asignación de fechas y actuarios, formando los cuadernillos necesarios en aquellos casos en que la diligencia se ejecute sin el expediente original.
 
-V.- Agilizar la diligenciación de exhortos y requisitorias, el cumplimiento de ejecutorias de amparo y demás requerimientos y diligencias necesarias y urgentes.
+V.- Agilizar lo diligenciación de exhortos y requisitorias, el cumplimiento de ejecutorias de amparo y demás requerimientos y diligencias necesarias urgentes.
 
-VI.- Recibir de los notificadores adscritos a los juzgados las cédulas que habrán de notificarse.
+VI.- Recibir de los notificadores adscritos a los Juzgados las cédulas que habrán de notificarse.
 
-VII.- Autorizar los documentos que justifiquen la recepción, en la Central, de los expedientes que proporcionan los juzgados para la práctica de diligencias programadas.
+VII.- Autorizar los documentos que Justifiquen la recepción, en la Central, de los expedientes que proporcionan los juzgados para la práctica de diligencias programadas.
 
-VIII.- Devolver a los notificadores adscritos a los juzgados las cédulas notificadas; o, en su caso, el acta levantada con motivo de su no realización, en la que se especificarán las razones de ello.
+VIII.- Devolver a los notificadores adscritos a los juzgados las cédulas notificadas o, en su caso, el ocia levantada con motivo de su no realización, en las que se especificarán las razones de ello.
 
 IX.- Recabar las firmas que justifiquen la devolución y entrega de expedientes a los Juzgados.
 
-X.- Llevar un registro de número, fecha y horario de recepción y devolución de cédulas y anexos.
-
-XI.- Entregar a los juzgados, debidamente autorizados, las fichas de trámite para el desahogo de diligencias a efecto de la asignación de fechas por parte de la Central.
-
-XII.- Controlar mediante firma autorizada, los paquetes de folios para la asignación de diligencias de ejecución promovidas por los litigantes.
-
-XIII.- Coordinarse con los notificadores adscritos a cada juzgado, para un mejor control y seguimiento de las notificaciones pendientes o urgentes.
-
-XIV.- Monitorear, por los medios disponibles, las diligencias a cargo de los notificadores-actuarios.
-
-XV.- Los demás que se le encomienden o determinen las disposiciones legales relativas.
+X.- Las demás que se le encomienden o determinen las disposiciones legales relativas.
 
 ###### Artículo 7.
 
@@ -309,3 +363,9 @@ LIC. FELIPE BORREGO.
 EL SECRETARIO GENERAL DE ACUERDOS DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
 LIC. MARCO AURELIO RENTERÍA SALCEDO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE OCTUBRE DE 2003.
+
+ÚNICO.- Publíquese el presente Reglamento en el Periódico Oficial Órgano de Gobierno del Estado, el cual entrará en vigor al día siguiente de su publicación.
