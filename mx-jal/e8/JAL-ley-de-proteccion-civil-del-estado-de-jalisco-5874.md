@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-civil-del-estado-de-jalisco-5874"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-10"
-last_updated: "2004-02-21"
+last_updated: "2004-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROTECCION CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 10 de julio de 1993.
 
@@ -643,19 +643,27 @@ II. Un Secretario General, que será el Secretario General de Gobierno;
 
 III. Un Secretario Técnico, que será el Titular de la Unidad Estatal de Protección Civil;
 
-> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JULIO DE 2004)</small>
 
-IV. Los presidentes de las siguientes comisiones permanentes del Congreso del Estado de:
+IV. Los presidentes de las siguientes comisiones legislativas permanentes del Congreso del Estado de:
 
-a) Protección Civil;
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2004)</small>
 
-b) Asistencia Social;
+a) Seguridad Pública y Protección Civil;
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2004)</small>
+
+b) Desarrollo Humano;
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2004)</small>
 
 c) Desarrollo Urbano;
 
-d) Protección y Mejoramiento Ambiental; y
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2004)</small>
 
-e) Seguridad Pública, Prevención y Readaptación Social;
+d) Medio ambiente, Desarrollo Sustentable y Recursos hidráulicos; y
+
+e) (DEROGADO, P.O. 3 DE JULIO DE 2004)
 
 > <small>(REFORMADA, P.O. 3 DE FEBRERO DE 1998)</small>
 
@@ -919,7 +927,7 @@ II. El Centro Estatal de Operaciones; y (sic)
 
 > <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
 
-III. Las Bases regionales necesarias que se establezcan, conforme el Programa Estatal de Protección Civil;
+III. Las Bases regionales necesarias que se establezcan, conforme el Programa Estatal de Protección Civil.
 
 > <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2004)</small>
 
@@ -1165,7 +1173,7 @@ I. Territorial. Formados por los habitantes de una colonia, zona, centro de pobl
 
 II. Profesional o de oficio. Constituidos de acuerdo a la profesión que tengan o al oficio que desempeñen; y (sic)
 
-III. Actividad específica. Atendiendo a la función de auxilio que desempeñen, constituidos por personas dedicadas a realizar acciones específicas de rescate, de salvamento, de evacuación u otras;
+III. Actividad específica. Atendiendo a la función de auxilio que desempeñen, constituidos por personas dedicadas a realizar acciones específicas de rescate, de salvamento, de evacuación u otras.
 
 > <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2004)</small>
 
@@ -1792,3 +1800,7 @@ P.O. 21 DE FEBRERO DE 2004.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO.- La Unidad Estatal de Protección Civil deberá instalar en su estructura orgánica el Centro de Análisis del Riesgo en un plazo no mayor a noventa días contados a partir del día siguiente de la publicación del presente Decreto.
+
+P.O. 3 DE JULIO DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
