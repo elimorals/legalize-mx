@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-6650"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-11-04"
-last_updated: "1997-02-06"
+last_updated: "2000-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6650&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2000.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos el 4 de noviembre de 1992.
 
@@ -523,9 +523,11 @@ Las sesiones serán siempre presididas por el Presidente Municipal, quien tendr�
 
 Las sesiones de los Ayuntamientos se harán constar en un libro de actas, en el cual deberán asentarse los extractos de los asuntos tratados y el resultado de las votaciones, así como los acuerdos y resoluciones que se dicten en asuntos específicos; cuando en la sesión se aprueben normas de carácter general o reglamentos, el texto aprobado se hará constar íntegramente en el libro de actas. En ambos casos se firmarán las actas respectivas por los miembros del Ayuntamiento que hubieren estado presentes, ante el Secretario del Ayuntamiento, que asistirá a las sesiones de cabildo con voz informativa, levantará las actas respectivas y las autorizará con su firma.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 2000)</small>
+
 ###### Artículo 51.
 
-Durante el ejercicio del Ayuntamiento, cada treinta y uno de mayo, el Presidente Municipal, en sesión solemne de cabildo, rendirá un informe respecto de las actividades desarrolladas en la anualidad que corresponda.
+Durante el ejercicio del Ayuntamiento, cada treinta y uno de octubre, el Presidente Municipal, en sesión solemne de cabildo, presentará un informe respecto de las actividades desarrolladas en la anualidad que corresponda.
 
 En el último año de la gestión administrativa del Ayuntamiento, el informe del Presidente Municipal se hará en forma global, comprendiendo los tres años del ejercicio y hará una relación comparativa entre el programa inicial propuesto y los resultados obtenidos. A esta sesión de cabildo asistirá un representante del Congreso del Estado, quien comentará en términos generales el informe rendido.
 
@@ -667,7 +669,9 @@ XIV.- Autorizar las órdenes de pago a la Tesorería Municipal, que sean conform
 
 XV.- Informar al Ayuntamiento respecto del cumplimiento dado a los acuerdos y resoluciones de éste;
 
-XVI.- Rendir, el día treinta y uno de mayo de cada año, en sesión solemne de cabildo, un informe del estado que guarde la administración y de las labores desarrolladas durante el año. El informe correspondiente al último año de ejercicio se sujetará a las prevenciones del artículo 51 de esta Ley;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2000)</small>
+
+XVI.- Presentar, el día treinta y uno de Octubre de cada año, en sesión solemne de cabildo, un informe del estado que guarde la administración y de las labores desarrolladas durante el año. El informe correspondiente al último año de ejercicio se sujetará a las prevenciones del artículo 51 de esta Ley;
 
 XVII.- Coordinar la elaboración de los proyectos de Ley de Ingresos del municipio y del Presupuesto de Egresos, para someterlos a la aprobación del Ayuntamiento;
 
@@ -2002,3 +2006,13 @@ Los Ayuntamientos expedirán el Reglamento que establezca las acciones que compr
 ###### ARTICULO TERCERO.
 
 Se derogan todas aquéllas disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE MAYO DE 2000.
+
+PRIMERO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo, a efecto de que sea publicado en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDO.- Por esta única vez, los Presidentes Municipales rendirán su informe fuera del término de un año, con el propósito de que el mismo comprenda el período correspondiente del primero de junio de mil novecientos noventa y nueve al treinta y uno de octubre del dos mil.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
