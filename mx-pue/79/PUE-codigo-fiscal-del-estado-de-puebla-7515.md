@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "1991-12-03"
+last_updated: "1992-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO FISCAL DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 1992.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -913,35 +913,45 @@ XVII.- No liquidar, retener o enterar correctamente, las contribuciones en térm
 
 XVIII.- Infringir en cualquier forma las disposiciones fiscales, diversas a las señaladas en este artículo.
 
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 1992)</small>
+
+XIX.- Adquirir por cualquier título, tarjeta de circulación, tarjetón de carga, placas metálicas de verificación vehicular o cualquier otro documento identificatorio para ser utilizado en un vehículo nacional distinto a aquél que haya sido manifestado ante las autoridades fiscales.
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 1992)</small>
+
+XX.- Adquirir por cualquier título, tarjeta de circulación, tarjetón de carga, placas metálicas de verificación vehicular o cualquier otro documento para ser utilizado en un vehículo de procedencia extranjera que sea distinta a aquel que haya sido manifestado ante las autoridades fiscales.
+
 ### CAPITULO II. DE LAS SANCIONES
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 59.
 
-La Autoridad Fiscal impondrá las sanciones con infracciones a las disposiciones señaladas en el articulo 58 de este Código como sigue:
+La autoridad fiscal impondrá las sanciones por infracción a las disposiciones señaladas en el artículo 58 de este Código como sigue:
 
-I.- De una vez el salario mínimo diario vigente en el Estado, por infringir la fracción VI del artículo 58 de este Código.
+I.- Una vez el salario mínimo diario vigente en el Estado, a quien cometa la comprendida en la fracción VI.
 
-II.- De tres veces el salario mínimo diario vigente en el Estado, por infringir la fracción II del artículo 58 de este Código.
+II.- Tres veces el salario mínimo diario vigente en el Estado, a quien cometa la comprendida en la fracción II.
 
-III.- De cuatro veces el salario mínimo diario vigente en el Estado, por infringir la fracción III del artículo 58 de este Código.
+III.- Cuatro veces el salario mínimo diario vigente en el Estado, a quien cometa la comprendida en la fracción III.
 
-IV.- De cinco veces el salario mínimo diario vigente en el Estado, por infringir la fracción V del artículo 58 de este Código.
+IV.- Cinco veces el salario mínimo diario vigente en el Estado, a quien cometa la comprendida en la fracción V.
 
-V.- De seis veces el salario mínimo diario vigente en el Estado, por infringir la fracción XV del artículo 58 de este Código.
+V.- Seis veces el salario mínimo diario vigente en el Estado, a quien cometa la comprendida en la fracción XV.
 
-VI.- De ocho veces el salario mínimo diario vigente en el Estado, por infringir las fracciones XVI y XVIII del artículo 58 de este Código.
+VI.- Ocho veces el salario mínimo diario vigente en el Estado, a quien cometa las comprendidas en las fracciones XVI y XVIII.
 
-VII.- De diez veces el salario mínimo diario vigente en el Estado, por infringir las fracciones IX y XI del artículo 58 de este Código.
+VII.- De diez veces el salario mínimo diario vigente en el Estado, a quien cometa las comprendidas en las fracciones IX y XI.
 
-VIII.- De quince veces el salario mínimo diario vigente en el Estado, por infringir la fracción X del artículo 58 de este Código.
+VIII.- Quince veces el salario mínimo diario vigente en el Estado, a quien cometa la comprendida en la fracción X.
 
-IX.- De dieciséis veces el salario mínimo diario vigente en el Estado, por infringir las fracciones IV y VII del artículo 58 de este Código.
+IX.- Dieciséis veces el salario mínimo diario vigente en el Estado, a quien cometa las comprendidas en las fracciones IV y VII.
 
-X.- De dieciocho veces el salario mínimo diario vigente en el Estado, por infringir las fracciones I, VIII, XII y XIII del artículo 58 de este Código.
+X.- Dieciocho veces el salario mínimo diario vigente en el Estado, a quien cometa las comprendidas en las fracciones I, VIII, XII y XIII.
 
-XI.- De veinte veces el salario mínimo diario vigente en el Estado, por infringir las fracciones XIV y XVII del artículo 58 de este Código.
+XI.- Veinte veces el salario mínimo diario vigente en el Estado, a quien cometa las comprendidas en las fracciones XIV, XVII y XIX.
 
-En caso de reincidencia en la infracción a las disposiciones de este Título, la Autoridad Fiscal triplicará el monto de las sanciones contenidas en este Capítulo. Debe entenderse por reincidencia, la repetición de un mismo acto violatorio a las disposiciones fiscales del Estado.
+XII.- Cincuenta veces el salario mínimo diario vigente en el Estado, a quien cometa la comprendida en la fracción XX.
 
 ### CAPITULO III. DE LOS DELITOS FISCALES
 
@@ -1254,8 +1264,6 @@ I.- Recuperar el monto del crédito fiscal adeudado, de los ingresos de la negoc
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
 II.- Enterar diariamente ante la Oficina Ejecutora, el monto de lo recaudado y rendir cuenta mensual comprobada ante dicha Oficina.
-
-El interventor no podrá enajenar los bienes del activo fijo.
 
 ###### ARTICULO 101.
 
@@ -1612,3 +1620,7 @@ UNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicaci
 P.O. 3 DE DICIEMBRE DE 1991.
 
 El presente Decreto entrará en vigor el día primero de enero de mil novecientos noventa y dos.
+
+P.O. 1 DE DICIEMBRE DE 1992.
+
+El presente Decreto entrará en vigor el día primero de enero de mil novecientos noventa y tres.
