@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-el-funcionamiento-expedicion-y-revalidacion-de-14520"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-30"
-last_updated: "1996-05-30"
+last_updated: "1997-01-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY PARA EL FUNCIONAMIENTO, EXPEDICION Y REVALIDACION DE LICENCIAS Y PERMISOS A DISTRIBUIDORES Y COMERCIALIZADORES DE BEBIDAS ALCOHOLICAS DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 30 de mayo de 1996.
 
@@ -63,9 +63,11 @@ Para la operación y funcionamiento de los establecimientos o giros que se dediq
 
 Es facultad del Ejecutivo del Estado, vigilar todo lo concerniente al cumplimiento y aplicación de la presente Ley, a través de la Secretaría de Finanzas y Administración del Gobierno del Estado, sin perjuicio de las facultades que el presente ordenamiento otorga al Ministerio Público del Estado y a las autoridades municipales.
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1997)</small>
+
 ###### ARTICULO 6.
 
-Para garantizar el cumplimiento de esta Ley, el Gobierno del Estado, por conducto de su Secretaría de Finanzas y Administración, podrá celebrar acuerdos de coordinación con los Ayuntamientos en los términos que dispone la Ley Orgánica de los Municipios, especialmente en lo relativo a las acciones de inspección y vigilancia.
+Para garantizar el cumplimiento de esta ley, el Ejecutivo del Estado, por conducto de su Secretaría de Finanzas y Administración, podrá celebrar acuerdos de coordinación con los Ayuntamientos, en los términos que dispone la Ley Orgánica de los Municipios, delegando en éstos el ejercicio de las atribuciones que esta ley le confiere, salvo las que expresamente se exceptúen en dichos acuerdos o en esta ley, sin perjuicio de poder ejercerlas en cualquier momento en forma paralela o exclusiva.
 
 ###### ARTICULO 7.
 
@@ -121,7 +123,7 @@ XIX.- Hotel y Motel.
 
 XX.- Centros Recreativos y Deportivos.
 
-XXI.- Restaurant-Bar.
+XXI.- (DEROGADA, P.O. 8 DE ENERO DE 1997)
 
 XXII.- Bar.
 
@@ -175,7 +177,7 @@ XIX.- HOTEL Y MOTEL: Establecimiento público donde se proporciona hospedaje, ad
 
 XX.- CENTRO RECREATIVO Y DEPORTIVO: Lugar donde se ofrece al público servicios específicos e instalaciones deportivas y que podrán contar con venta y consumo de cerveza mediante la licencia o permiso autorizada específica.
 
-XXI.- RESTAURANT-BAR: Los establecimientos autorizados para vender, con o sin alimentos, bebidas alcohólicas en envase abierto y al copeo, debiendo contar con las instalaciones necesarias de cocina para la preparación de los alimentos. Los restaurant-bar podrán contar en su interior con pistas de baile, lo cual se hará constar en la licencia o permiso respectivo.
+XXI.- (DEROGADA, P.O. 8 DE ENERO DE 1997)
 
 XXII.- BAR: El lugar en el que se expenden bebidas alcohólicas en botella o en copa, sin la venta de alimentos, incluyéndose las botanas.
 
@@ -291,13 +293,15 @@ III.- Cantinas y salón cerveza de lunes a sábado de 10:00 horas a 18:00 horas.
 
 IV.- Loncherías, coctelerías y taquerías de lunes a domingo de 9:00 horas a 18:00 horas.
 
-V.- Restaurante-Bar de lunes a sábado de 9:00 horas a 2:00 horas y domingo de 9:00 horas a 24:00 horas.
+V.- (DEROGADA, P.O. 8 DE ENERO DE 1997)
 
 VI.- Centros turísticos, recreativos y deportivos de lunes a domingo de 9:00 horas a 19:00 horas.
 
 VII.- Vinaterías, supermercados, depósitos, expendios, tiendas de abarrotes, botaneros, agencias, subagencias, minisupers y licorerías de lunes a domingo de 9:00 horas a 21:00 horas.
 
-VIII.- Restaurantes de lunes a domingo de 9:00 horas a 24:00 horas; y
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 1997)</small>
+
+VIII.- Restaurantes de lunes a sábado de 9:00 horas a 2:00 horas, y domingo de 9:00 horas a 24:00 horas; y
 
 IX.- Bares de 13:00 horas a 1:00 horas, y bares anexos a hoteles de 13:00 horas a 2:00 horas, de lunes a domingo.
 
@@ -317,7 +321,9 @@ El Ejecutivo, por conducto de la Secretaría de Finanzas y Administración del G
 
 Asimismo, el Ejecutivo por conducto de la Secretaría de Finanzas y Administración del Gobierno del Estado, podrá establecer en forma discrecional, un horario distinto que se hará constar en las propias licencias o permisos que se expidan para aquellos establecimientos y giros en los que medien circunstancias especiales.
 
-Los Presidentes Municipales de acuerdo con las circunstancias de cada Municipio, podrán proponer a las autoridades correspondientes, la modificación de horarios y días de funcionamiento, los cuales para que entren en vigor, deberán contar con el acuerdo del Ejecutivo por conducto de la Secretaría de Finanzas y Administración del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1997)</small>
+
+Los presidentes municipales, de acuerdo con las circunstancias propias de cada Municipio, podrán proponer, mediante escrito debidamente fundado y motivado, a las autoridades correspondientes la modificación de horarios y días de funcionamiento, los cuales para que entren en vigor deberán contar con el correspondiente acuerdo del Ejecutivo, emitido por conducto de su Secretaría de Finanzas y Administración.
 
 ###### ARTICULO 23.
 
@@ -343,9 +349,11 @@ Ningún establecimiento podrá iniciar su funcionamiento sin contar con la licen
 
 Para los efectos de esta Ley, se entiende por licencia o permiso la autorización que otorgue el Ejecutivo, por conducto del titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, para la operación y funcionamiento de los establecimientos que se dediquen al almacenamiento, distribución, venta y consumo de bebidas alcohólicas en los locales que establece la presente Ley, entendiéndose siempre que es un acto discrecional de la autoridad, que constituye exclusivamente, al otorgarse al solicitante un derecho personal, intransferible y condicionado, y consecuentemente, podrá cancelarse cuando a su juicio lo requiera el orden público, la moral, o las buenas costumbres, o cuando medie algún otro motivo de interés general, quedando además, sujeta a la revalidación anual.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ENERO DE 1997)</small>
+
 ###### ARTICULO 28.
 
-Para obtener licencia o permiso con el objeto de operar establecimientos y giros destinados para el almacenamiento, distribución, venta y consumo de bebidas alcohólicas, el interesado deberá presentar su solicitud en las formas que establezca la Secretaría de Finanzas y Administración del Gobierno del Estado, acompañándola de los siguientes documentos:
+Para obtener licencia o permiso con el objeto de operar establecimientos y giros destinados para el almacenamiento, distribución, venta y consumo de bebidas alcohólicas, el interesado bajo protesta de decir verdad deberá presentar su solicitud en las formas que establezca la Secretaría de Finanzas y Administración del Gobierno del Estado, acompañándola de los siguientes documentos:
 
 I.- Copia certificada del acta de nacimiento si se trata de persona física o copia del acta constitutiva y de los estatutos si se trata de persona moral.
 
@@ -401,6 +409,14 @@ Cuando una misma persona física o moral sea propietaria o poseedora de varios e
 
 Si en un mismo local se encuentran establecidos diversos giros sean o no propiedad de la misma persona física o moral, se deberá obtener la licencia o permiso y revalidación o renovación para cada uno de ellos.
 
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 1997)</small>
+
+El establecimiento de giros diversos en un mismo local, previsto en el párrafo que antecede, queda sujeto a dictamen previo favorable de la Secretaría de Finanzas y Administración, el que se emitirá atendiendo a que las características físicas del local permitan una distribución adecuada y delimitación plena de aquellos.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 1997)</small>
+
+Queda prohibido que en un mismo local se opere al amparo de dos o más licencias o permisos para establecimientos o giros iguales.
+
 ###### ARTICULO 37.
 
 Durante los meses de enero a marzo de cada año, los propietarios, representantes legales o encargados de los establecimientos y giros destinados al almacenamiento, distribución, venta y consumo de bebidas alcohólicas, deberán solicitar a las autoridades correspondientes la revalidación de la licencia o permiso correspondiente para el nuevo año.
@@ -409,7 +425,9 @@ Durante los meses de enero a marzo de cada año, los propietarios, representante
 
 Para obtener la revalidación o renovación a que se refiere el artículo anterior, se requiere:
 
-I.- Presentar por escrito la solicitud.
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 1997)</small>
+
+I.- Presentar por escrito la correspondiente solicitud, formulada bajo protesta de decir verdad;
 
 II.- Que el local del establecimiento continúe reuniendo los requisitos exigidos por esta Ley.
 
@@ -463,6 +481,14 @@ Los inspectores o servidores públicos que en ejercicio de sus funciones conozca
 
 El Ejecutivo del Estado por conducto del titular de la Secretaría de Finanzas y Administración del Gobierno del Estado discrecionalmente, podrá autorizar los cambios de domicilio, nombre, razón social y giro a los titulares de licencias o permisos destinados al almacenamiento, distribución, venta y consumo de bebidas alcohólicas, en el territorio del Estado, siempre y cuando se compruebe que el solicitante ha cumplido con todos los requisitos establecidos en la presente Ley y su reglamento y hayan cubierto los derechos correspondientes mencionados en la Ley de Hacienda del Estado.
 
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 1997)</small>
+
+No se autorizará el cambio de domicilio si en el local o lugar a donde se pretende el traslado ya opera un giro o establecimiento similar bajo diversa licencia o permiso.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 1997)</small>
+
+Las correspondientes solicitudes de cambio se harán bajo protesta de decir verdad.
+
 ###### ARTICULO 47.
 
 El Ejecutivo por conducto del titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, podrá disponer el cambio de domicilio de los establecimientos con licencia o permiso cuando así lo requiera el interés general.
@@ -475,9 +501,11 @@ La Secretaría de Finanzas y Administración del Gobierno del Estado podrá orde
 
 La Policía Judicial del Estado y los Cuerpos de Seguridad Pública Municipal estarán obligados a prestar el auxilio necesario y a consignar cualquier infracción que descubran en el cumplimiento de sus obligaciones de vigilancia, para lo cual deberán levantar acta, la que remitirán a la Secretaría de Finanzas y Administración del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1997)</small>
+
 ###### ARTICULO 49.
 
-La vigilancia para el cumplimiento de las disposiciones a que esta Ley se refiere, estará a cargo de los inspectores que designen la Secretaría de Finanzas y Administración del Gobierno del Estado, quienes para verificar las infracciones se auxiliarán de la Policía Judicial del Estado o los Cuerpos de Seguridad Pública Municipal, en su caso.
+La vigilancia, para el cumplimiento de las disposiciones a que esta ley se refiere, estará a cargo de los inspectores que designen la Secretaría de Finanzas y Administración o, en su caso, el Ayuntamiento, quienes para verificar las infracciones se auxiliarán de los agentes de policía judicial del fuero común o de seguridad pública destacamentados en la respectiva localidad.
 
 ###### ARTICULO 50.
 
@@ -529,7 +557,9 @@ Procederá la cancelación de las licencias o permisos correspondientes mediante
 
 I.- Por hechos o actos que se realicen dentro de los establecimientos que alteren el orden público, la moral o las buenas costumbres, cuando sea culpa del permisionario o encargado o bien cuando medien motivos de interés general, a juicio discrecional del Ejecutivo por conducto del titular de la Secretaría de Finanzas y Administración del Gobierno del Estado.
 
-II.- Cuando se compruebe la inactividad del establecimiento o bien no exista o se desconozca el domicilio del permisionario, en estos casos procederá la cancelación de oficio de la licencia o permiso correspondiente mediante resolución administrativa que al efecto se emita.
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 1997)</small>
+
+II.- Cuando, mediante la correspondiente acta de verificación, se compruebe la inactividad del establecimiento, por un lapso de treinta o más días de calendario consecutivos, o que el establecimiento es inexistente, o cuando se tenga noticia de su baja en los Registros Federal o Estatal de Contribuyentes, o se desconozca el domicilio del titular de la licencia o permiso. En estos casos la cancelación procederá de oficio, mediante resolución administrativa que al efecto se emita.
 
 III.- Cuando el establecimiento haya dejado de reunir cualquiera de los requisitos que establece la presente Ley o se incurra por parte de los permisionarios en faltas u omisiones graves.
 
@@ -546,6 +576,10 @@ VIII.- En los casos de reincidencia a las infracciones a que se refiere el Capí
 IX.- En los casos de que el permisionario haya cambiado de domicilio del establecimiento sin antes haber solicitado de las autoridades correspondientes, el permiso respectivo, o de que esté operando con giro distinto al que indica su licencia.
 
 X.- Por operar fuera de los horarios establecidos en la licencia o permiso de funcionamiento correspondiente. En este caso el establecimiento podrá ser clausurado preventivamente en tanto el permisionario regularice su situación, a reserva de que su licencia o permiso le pueda ser cancelada si existe reincidencia o motivos graves a juicio del Ejecutivo por conducto de la Secretaría de Finanzas y Administración del Gobierno del Estado.
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 1997)</small>
+
+XI.- Por contravención a lo previsto en el tercer párrafo del artículo 36 o en el segundo párrafo del artículo 46.
 
 ### CAPITULO IX. DEL PROCEDIMIENTO ADMINISTRATIVO DE CANCELACION DE LICENCIAS DE FUNCIONAMIENTO
 
@@ -641,9 +675,11 @@ Cuando se desprendan, alteren o destruyan parcial o totalmente, sin autorizació
 
 El procedimiento administrativo para decretar las sanciones señaladas en la presente Ley, se iniciará con la recepción de las actas de inspección que remitan los inspectores.
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1997)</small>
+
 ###### ARTICULO 68.
 
-La Secretaría de Finanzas y Administración del Gobierno del Estado, será la encargada de llevar este procedimiento y decretar las sanciones correspondientes.
+La Secretaría de Finanzas y Administración o, en caso de delegación de atribuciones, el Ayuntamiento serán los encargados de llevar este procedimiento y decretar las sanciones correspondientes.
 
 ###### ARTICULO 69.
 
@@ -657,9 +693,13 @@ Las autoridades encargadas de aplicar la presente Ley, podrán solicitar el auxi
 
 Recibida el acta de inspección, el visitado dispondrá de cinco días hábiles a partir de la fecha del cierre del acta, para que manifieste lo que a su derecho convenga, presentando las pruebas documentales que desvirtúen los hechos consignados. Dichas pruebas se desahogarán dentro de los tres días siguientes; si el plazo se considera insuficiente se podrá ampliar hasta por tres días más.
 
-Se tendrán por consentidos los hechos consignados en las actas, si el visitado no los desvirtúa dentro del plazo otorgado, determinado en el párrafo anterior.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1997)</small>
 
-Una vez desahogadas las pruebas se dictará resolución.
+Se tendrán por consentidos los hechos consignados en el acta si el visitado, dentro del plazo señalado en el párrafo anterior, no hace manifestación alguna u omite aportar pruebas que desvirtúen aquellos. La autoridad ejecutora podrá allegarse todas las pruebas que considere pertinentes para poder resolver conforme a derecho, mismas pruebas que se agregarán a los autos y de las que se dará conocimiento al visitado.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1997)</small>
+
+Una vez desahogadas las pruebas se dictará resolución dentro del plazo que al efecto marque la ley. Si el visitado comparece a través de un mandatario, éste deberá acreditar debidamente su personalidad.
 
 ###### ARTICULO 72.
 
@@ -668,6 +708,10 @@ Si la resolución decreta la sanción de multa, ésta se cubrirá en la forma y 
 ###### ARTICULO 73.
 
 La contravención a las disposiciones que se señalan en este ordenamiento se sancionará con multa, clausura del establecimiento o cancelación de las licencias de funcionamiento.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 1997)</small>
+
+La aplicación de las sanciones consistentes en clausura definitiva y cancelación de la licencia de funcionamiento son facultades indelegables del Ejecutivo del Estado, por lo que sólo él podrá aplicarlas a través de su Secretaría de Finanzas y Administración.
 
 ###### ARTICULO 74.
 
@@ -762,3 +806,11 @@ Palacio Legislativo, Campeche, Cam., a 28 de Mayo de 1996.- Dip. Yanuario Garcí
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche, a los veintinueve días del mes de Mayo de mil novecientos noventa y seis.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, ING. JORGE SALOMÓN AZAR GARCÍA.- EL SECRETARIO DE GOBIERNO, LIC. FERNANDO RAFFUL.- RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE ENERO DE 1997.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan en lo conducente todas aquellas disposiciones legales y reglamentarias que contravengan el contenido de este Decreto.
