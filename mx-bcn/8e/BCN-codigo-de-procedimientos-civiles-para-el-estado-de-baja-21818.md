@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "1987-08-10"
+last_updated: "1988-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1988.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -2153,7 +2153,9 @@ VII.- Las pólizas originales de contratos celebrados con intervención de corre
 
 VIII.- El juicio uniforme de contadores, si las partes ante el juez o por escritura pública, o por escrito privado reconocido judicialmente, se hubieren sujetado a él expresamente o lo hubieren aprobado.
 
-ART. 437.- Las sentencias que causen ejecutoria y los convenios judiciales, laudos o juicios de contadores, motivarán ejecución, si el interesado no intentare la vía de apremio.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1988)</small>
+
+ART. 437.- Las sentencias que causen ejecutoria y los convenios judiciales, los convenios celebrados ante la Procuraduría Federal del Consumidor, los laudos que emita la propia Procuraduría y los laudos o juicios de Contadores, motivarán ejecución, si el interesado no intentare la Vía de Apremio.
 
 ART. 438.- Cuando la confesión judicial se haga durante la secuela del juicio ordinario, cesará éste si el actor lo pidiere, y se procederá en la vía ejecutiva.
 
@@ -2371,6 +2373,10 @@ ART. 485.- Para la ejecución del desahucio, se tiene como domicilio legal del e
 
 ART. 486.- Procede la vía de apremio a instancia de parte, siempre que se trate de la ejecución de una sentencia o de un convenio celebrado en el juicio, ya sea por las partes o por terceros que hayan venido al juicio por cualquier motivo que sea.
 
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1988)</small>
+
+Esta disposición será aplicable en la ejecución de convenios celebrados ante la Procuraduría Federal del Consumidor y tratándose de laudos emitidos por dicha Procuraduría.
+
 ART. 487.- La ejecución de sentencia que haya causado ejecutoria o que deba llevarse adelante por estar otorgada ya la fianza correspondiente, se hará por el juez que hubiere conocido del negocio en primera instancia.
 
 La ejecución de los autos firmes, que resuelvan un incidente, queda a cargo del Juez que conozca del principal.
@@ -2381,7 +2387,9 @@ ART. 488.- Cuando las transacciones o los convenios se celebren en segunda insta
 
 ART. 489.- El tribunal que haya dictado en segunda instancia sentencia ejecutoria, dentro de los tres días siguientes a la notificación devolverá los autos al inferior, acompañándole la ejecutoria y constancia de las notificaciones.
 
-ART. 490.- La ejecución de las sentencias arbitrales se hará por el juez competente designado por las partes y, en su defecto por el juez del lugar del juicio, y, si hubiere varios, por el de número más bajo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1988)</small>
+
+ART. 490.- La ejecución de las sentencias arbitrales, de los convenios celebrados ante la Procuraduría Federal del Consumidor y de los laudos dictados por ésta, se hará por el Juez competente, designado por las partes o en su defecto por el Juez del lugar del juicio y si hubiere varios, por el Juez que corresponda en turno.
 
 ART. 491.- La ejecución de las sentencias y convenios en la vía ejecutiva, se efectuará conforme a las reglas generales de los juicios ejecutivos.
 
@@ -2463,7 +2471,9 @@ ART. 517.- Contra la ejecución de las sentencias y convenios judiciales no se a
 
 ART. 518.- Los términos fijados en el artículo anterior se contarán desde la fecha de la sentencia o convenio a no ser que en ellos se fije el plazo para el cumplimiento de la obligación, en cuyo caso el término se contará desde el día en que se venció el plazo o desde que pudo exigirse la última prestación vencida, si se tratare de prestaciones periódicas.
 
-ART. 519.- Todo lo que en este Capítulo se dispone respecto de la sentencia, comprende a las transacciones, convenios judiciales y los laudos que ponen fin a los juicios arbitrales.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1988)</small>
+
+ART. 519.- Todo lo que en este Capítulo se dispone respecto de la sentencia, comprende a las transacciones, convenios judiciales, convenios celebrados ante la Procuraduría Federal del Consumidor, los laudos que emita la propia Procuraduría y los laudos que ponen fin a los juicios arbitrales.
 
 #### SECCION II. De los embargos
 
@@ -4660,3 +4670,9 @@ El producto de las multas y sanciones pecuniarias que se impongan a las partes, 
 ###### ARTICULO QUINTO.
 
 El presente Decreto entrará en vigor, a los treinta días siguientes al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 1988.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
