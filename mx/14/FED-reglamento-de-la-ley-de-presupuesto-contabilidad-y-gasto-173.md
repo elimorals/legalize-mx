@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-presupuesto-contabilidad-y-gasto-173"
 country: "mx"
 rank: "reglamento"
 publication_date: "1981-11-18"
-last_updated: "2001-06-25"
+last_updated: "2002-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1981-11-13"
 
 REGLAMENTO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JUNIO DE 2002.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de noviembre de 1981.
 
@@ -62,6 +62,28 @@ RAMOS: Los ramos generales que para efectos presupuestarios se establezcan en el
 ###### ARTICULO 3o.
 
 Las disposiciones que expida la Secretaría con fundamento en la Ley mediante acuerdos, circulares u otros medios, las hará del conocimiento de quienes efectúen gasto público para su aplicación. Cuando dichas disposiciones se refieran a la forma y términos en que los particulares puedan ejercer derechos o deban cumplir obligaciones derivadas de la Ley, se publicarán en el "Diario Oficial" de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 3o.
+
+Bis. Las entidades señaladas en las fracciones III, IV, VI, VII y VIII del artículo 2o. de la Ley estarán facultadas para realizar los trámites presupuestarios y, en su caso, emitir las autorizaciones correspondientes en los términos de la ley, mediante la utilización de documentos impresos con la correspondiente firma autógrafa del servidor público competente, o bien, a través de equipos y sistemas electrónicos autorizados por la Secretaría, para lo cual, en sustitución de la firma autógrafa, se emplearán medios de identificación electrónica.
+
+La Secretaría emitirá las disposiciones para la utilización de los equipos y sistemas electrónicos a los que se refiere este artículo, las cuales deberán establecer, como mínimo, lo siguiente:
+
+I. Los trámites presupuestarios que podrán llevarse a cabo y las autorizaciones correspondientes que podrán emitirse;
+
+II. Las especificaciones de los equipos y sistemas electrónicos y las unidades administrativas que estarán facultadas para autorizar su uso;
+
+III. Los requisitos y obligaciones que deberán cumplir los servidores públicos autorizados para realizar los trámites y, en su caso, para emitir las autorizaciones a que se refiere la fracción I de este artículo;
+
+IV. Los medios de identificación electrónica que hagan constar la validez de los trámites y autorizaciones llevados a cabo por los servidores públicos autorizados, y
+
+V. La forma en que los archivos electrónicos generados deberán conservarse, así como los requisitos para tener acceso a los mismos.
+
+El uso de los medios de identificación electrónica que se establezca conforme a lo previsto en este artículo, en sustitución de la firma autógrafa, producirá los mismos efectos que las leyes otorgan a los documentos equivalentes con firma autógrafa y, en consecuencia, tendrán el mismo valor probatorio, para lo cual, las diversas entidades referidas en el primer párrafo del presente que opten por la utilización de estos medios, aceptarán en la forma que se prevenga en las disposiciones señaladas con anterioridad, las consecuencias y alcance probatorio de los medios de identificación electrónica.
+
+La Secretaría, por conducto de la Subsecretaría de Egresos, y las entidades, conforme a las disposiciones a que se refiere el segundo párrafo de este artículo, serán responsables de llevar un estricto control de los medios de identificación electrónica, así como de cuidar la seguridad y protección de los equipos y sistemas electrónicos y, en su caso, de la confidencialidad de la información en ellos contenida.
 
 ###### ARTICULO 4o.
 
@@ -691,7 +713,7 @@ Solamente se podrán otorgar anticipos con cargo al Presupuesto de Egresos, en l
 
 I. Por concepto de Servicios Personales;
 
-a) Las remuneraciones por un mes al personal del Servicio Exterior, y
+a ) Las remuneraciones por un mes al personal del Servicio Exterior, y
 
 b) Las pagas de marcha al personal civil y militar que deberán reembolsarse siempre en su totalidad, mediante descuentos que practicará la Tesorería de la Federación, por si o a través de sus oficinas pagadoras, equivalentes cada uno a la cuarta parte de los sueldos, haberes o remuneraciones que disfruten los deudores;
 
@@ -1786,3 +1808,9 @@ Tercero.- La comisión intersecretarial a que se refiere el artículo 38-A que s
 D.O.F. 25 DE JUNIO DE 2001.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE JUNIO DE 2002.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Secretaría de Hacienda y Crédito Público emitirá, a más tardar a los 60 días hábiles contados a partir de la publicación del presente Decreto, las disposiciones a que se refiere el artículo 3o.- Bis.
