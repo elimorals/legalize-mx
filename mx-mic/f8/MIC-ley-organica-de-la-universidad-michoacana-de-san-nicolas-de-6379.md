@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-universidad-michoacana-de-san-nicolas-de-637
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-02-03"
-last_updated: "1986-02-03"
+last_updated: "1986-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA DE LA UNIVERSIDAD MICHOACANA DE SAN NICOLAS DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 1986.
 
 Ley orgánica publicada en la Sección Segunda del Periódico Oficial, el lunes 3 de febrero de 1986.
 
@@ -191,7 +191,17 @@ V. Crear, modificar o suprimir Escuelas, Facultades, Institutos, Unidades Profes
 
 VI. Designar a las Comisiones del propio Consejo que esta Ley establece;
 
-VII. Designar como Rector, de la terna presentada por la Comisión respectiva, a quien obtenga por lo menos el voto de las dos terceras partes de los miembros del Consejo;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 1986)</small>
+
+VII. Elegir como Rector, de la terna presentada por la Comisión respectiva, a quien obtenga el voto de las dos terceras partes de los miembros del Consejo; si en la primera votación no se hubiese alcanzado la mayoría de dos terceras partes, el Consejo Universitario en esa misma sesión electoral, elegirá Rector a quien en una nueva votación, obtenga mayoría.
+
+La sesión a que se refiere el párrafo anterior, la llevará a cabo el Consejo Universitario dentro de los cinco días naturales siguientes al que la Comisión de Rectoría le hubiese propuesto la terna correspondiente.
+
+Si dentro del mencionado término el Consejo Universitario no sesiona o sesionando no elige Rector o vence el plazo a que se refiere el párrafo anterior, la Comisión de Rectoría designara Rector provisional, entre aquellos que reúnan los requisitos establecidos en el artículo 21 de esta Ley, lo cual deberá hacer en el acto mismo de conocerse el resultado de la sesión electoral del consejo o al día siguiente de que concluya el término que al mismo se concede.
+
+En este caso, el Rector provisional deberá reiniciar el proceso de elección de Rector definitivo según lo dispuesto en el presente ordenamiento.
+
+En el supuesto del primer párrafo, el Presidente del Consejo Universitario no tendrá voto de calidad.
 
 VIII. Designar de terna propuesta por el Rector a los directores de Escuelas, Facultades, Institutos y Unidades Profesionales; en su caso, removerlos en los términos de esta Ley y del Estatuto Universitario;
 
@@ -247,13 +257,25 @@ La Comisión de Rectoría se integrará por cuatro Directores, tres Consejeros P
 
 Corresponde a esta Comisión:
 
-I. Auscultar a la comunidad universitaria y emitir dictamen proponiendo terna ante el Consejo Universitario para la elección del Rector;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 1986)</small>
 
-II. Designar Rector Provisional cuando por causa injustificada esta autoridad falte a sus funciones por un término mayor de treinta días, procediendo de inmediato conforme a lo establecido en la fracción anterior de este artículo, a fin de que el Consejo elija Rector substituto; quien terminará el período legal correspondiente;
+I. Auscultar a la comunidad universitaria y emitir dictamen, en un término de quince días naturales, proponiendo terna ante el Consejo Universitario para la elección de Rector;
 
-III. Dictaminar sobre la renuncia y/o remoción del Rector, cuando el Consejo así lo determine; y
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 1986)</small>
 
-IV. Designar Rector Provisional cuando desintegrado el Consejo Universitario y falte el Rector, la institucionalidad de la vida universitaria así lo demande, para que normalizada la situación, se proceda conforme a la fracción II de este artículo.
+II. Designar Rector provisional cuando esta autoridad falte en forma definitiva o cuando falte injustificadamente por más de treinta días.
+
+El Rector provisional convocará al Consejo Universitario a fin de que designe Rector substituto, para concluir el período legal.
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 1986)</small>
+
+III. Dictaminar sobre licencias, renuncia o remoción del Rector cuando así lo determine el Consejo.
+
+IV. (DEROGADA, P.O. 23 DE JUNIO DE 1986)
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 1986)</small>
+
+V. Elegir Rector provisional conforme a lo dispuesto en el párrafo tercero de la fracción VII del artículo 12 de esta Ley.
 
 ###### ARTICULO 15.
 
@@ -393,7 +415,9 @@ Para ser Consejero Representante de Profesores, será necesario llenar los sigui
 
 I. Ser mexicano por nacimiento;
 
-II. Tener título Profesional, y una antigüedad mínima de tres años de servicio docente o de investigación dentro de la Universidad, No ocupar cargo administrativo en la misma en el momento de la elección y durante su desempeño; así como tener el 80% de asistencia a sus clases;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 1986)</small>
+
+II. Tener título profesional, salvo la Escuela Popular de Bellas Artes; una antigüedad mínima de tres años de servicio docente o de investigación dentro de la Universidad, exceptuando las dependencias de nueva creación. No ocupar cargo administrativo en la misma en el momento de la elección y durante su desempeño; así como tener el 80% de asistencia a sus clases;
 
 III. No haber cometido faltas que puedan calificarse graves ni en contra de disciplina que hubiesen sido sancionadas por autoridades universitarias; y
 
@@ -405,7 +429,9 @@ Para ser Consejero Representante de Alumnos será necesario llenar los siguiente
 
 I. Ser mexicano por nacimiento;
 
-II. No ser de primer año de la Facultad o Escuela donde curse sus estudios, salvo el caso de los estudiantes de Preparatoria;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 1986)</small>
+
+II. No ser de primer año de la Facultad o escuela donde curse sus estudios, salvo el caso de los estudiantes de Preparatoria y los de las dependencias de nueva creación.
 
 III. Ser alumno regular y haber aprobado los dos años anteriores;
 
@@ -498,3 +524,19 @@ DIPUTADO PRESIDENTE.- LIC. OCTAVIANO ALANIS ALANIS.- DIPUTADO SECRETARIO.- PROFR
 En cumplimiento a lo dispuesto en la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente decreto en la residencia del Poder Ejecutivo en la ciudad de Morelia, Michoacán, a los 31 treinta y un días del mes de enero de 1986 mil novecientos ochenta y seis.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- ING. CUAUHTEMOC CARDENAS SOLORZANO.- EL SECRETARIO DE GOBIERNO.- LIC. LEONEL GODOY RANGEL.- (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE JUNIO DE 1986
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Por esta única vez, el término a que se refiere el segundo párrafo de la fracción VII del artículo 12, empezará a contar a partir de la fecha en que entre en vigor este Decreto y el proceso dispuesto en el artículo 14 fracción I se da por realizado.
+
+###### ARTICULO TERCERO.
+
+Se derogan las disposiciones legales que se opongan a este Decreto.
