@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-del-estado-de-baja-california-sur-21977"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-29"
-last_updated: "2001-06-29"
+last_updated: "2001-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE OCTUBRE DE 2001.
 
 Ley publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el viernes 29 de junio de 2001.
 
@@ -1299,7 +1299,13 @@ QUINTO.- La contribución mencionada en el Título Cuarto Capitulo Segundo de es
 
 SEXTO.- Continúan vigentes los artículos transitorios tercero del decreto 1105; y tercero del decreto 1125.
 
-SÉPTIMO.- El ingreso que genere la recaudación proveniente del Impuesto Sobre Nóminas se destinará a obras de infraestructura social, previa consulta a la comunidad, para lo cual se deberá constituir un Fideicomiso de Inversión y Administración, el que se integrará con cuatro representantes de la iniciativa privada, el Secretario de Promoción y Desarrollo Económico, un representante de cada Ayuntamiento, un miembro del Congreso del Estado y será presidido por el Secretario de Finanzas.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2001)</small>
+
+SÉPTIMO.- El ingreso que genere la recaudación proveniente del Impuesto Sobre Nóminas se destinará a inversiones públicas productivas, consistentes en obras de infraestructura social, previa consulta a la comunidad, a efecto de conocer su opinión sobre los proyectos prioritarios de dichas inversiones, para lo cual se deberá constituir un Fideicomiso Irrevocable de Inversión, Administración y Fuente de Pago.
+
+Asimismo, el ingreso proveniente del impuesto sobre nóminas, podrá servir como fuente de pago de los créditos que se contraten para la ejecución de las citadas obras de infraestructura social.
+
+El Comité técnico del Fideicomiso estará integrado por diez representantes de las cámaras de comercio, industria, pesca, servicios y de los colegios de profesionistas organizados de los cinco municipios de la entidad, un representante del Congreso del Estado; un representante de cada Ayuntamiento; un representante de las instituciones financieras que otorguen financiamiento, en su caso; un representante de la institución fiduciaria; el Secretario de Planeación Urbana, Infraestructura y Ecología; el Secretario de Promoción y Desarrollo Económico, el titular de la Unidad de Desarrollo administrativo y Control Gubernamental, y será presidido por el Secretario de Finanzas.
 
 OCTAVO.- Durante el ejercicio fiscal del 2001, el impuesto para la educación superior y fomento al empleo en el Estado, quedará suspendido.
 
@@ -1334,3 +1340,9 @@ C. M. EN C.P. GRAZIELLA SÁNCHEZ MOTA.
 EL SECRETARIO DE FINANZAS
 
 C. LIC. JOSE J. BORGES CONTRERAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 31 DE OCTUBRE DE 2001.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA SUR.
