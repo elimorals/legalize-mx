@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-crea-el-comite-de-la-feria-de-puebla-11971"
 country: "mx"
 rank: "ley"
 publication_date: "1987-09-18"
-last_updated: "1987-09-18"
+last_updated: "1994-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11971&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY QUE CREA EL COMITE DE LA FERIA DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 1994.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 18 de septiembre de 1987.
 
@@ -51,19 +51,27 @@ LEY QUE CREA EL COMITE DE LA FERIA DE PUEBLA.
 
 Se crea el Comité de la Feria de Puebla, como Organismo Público Descentralizado del Estado, con personalidad jurídica y patrimonio propios, para la organización y realización de los eventos feriales que se celebren en el Municipio de Puebla, el cual tendrá su domicilio en la Ciudad de Puebla.
 
-###### ARTICULO 2º.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1994)</small>
 
-El Comité de la Feria de Puebla, tendrá por objeto promover y realizar los eventos feriales que se verifiquen en la ciudad sede, por lo menos una vez al año, y que abarcarán las áreas agropecuarias, industriales, artesanales, comerciales y todas las demás que juzgue necesarias.
+###### ARTICULO 2°.
 
-###### ARTICULO 3º.
+El Comité de la Feria de Puebla, tendrá por objeto promover y realizar los eventos feriales que se verifiquen en la Ciudad sede, por lo menos una vez al año y que abarcarán áreas agropecuarias, industriales, artesanales, comerciales y todas las demás que juzgue convenientes, para satisfacer la necesidades sociales sin objeto de lucro.
 
-El Comité de la Feria estará integrado por:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JULIO DE 1994)</small>
 
-l.- Un representante de cada una de las siguientes dependencias del Gobierno del Estado: Secretaría de Economía; Secretaría de Cultura; Secretaría de la Contraloría General del Estado; Secretaría de Fomento Agropecuario; Secretaría de Educación Pública y Promotora del Estado de Puebla.
+###### ARTICULO 3°.
+
+El órgano supremo del Comité de la Feria de Puebla, será una Asamblea General integrada por:
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 1994)</small>
+
+I.- Un representante de cada una de las siguientes dependencias del Gobierno del Estado: Secretaría de Finanzas; Secretaría de la Contraloría General del Estado; Secretaría de Economía, Secretaría de Fomento Agropecuario; Secretaría de Educación Pública; Secretaría de Cultura y Promotora del Estado de Puebla.
 
 II.- Un representante del H. Ayuntamiento del Municipio de Puebla.
 
-III.- Un representante de cada una de las siguientes organizaciones: Cámara Nacional de Comercio, Servicios y Turismo de Puebla; Cámara Nacional de la Industria de la Construcción en Puebla; Comisión Federal de Electricidad; Junta de Mejoramiento Moral, Cívico y Material del Municipio de Puebla; Cámara de la Industria Textil de Puebla y Tlaxcala Cámara Nacional de la Industria de la Transformación en Puebla; Confederación Patronal Mexicana; Consejo Coordinador Empresarial; Asociación de Hoteles y Restaurantes de Puebla, A.C.; Congreso del Trabajo; Confederación Nacional de la Pequeña Propiedad; Confederación Nacional Campesina; un Representante común de las Uniones Regionales Ganaderas del Estado y de las Cámaras Agrícolas y Ganaderas de Puebla y Tlaxcala.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 1994)</small>
+
+III.- Un representante de cada una de las siguientes organizaciones; Cámara Nacional de Comercio, Servicios y Turismo de Puebla; Cámara Nacional de la Industria de la Construcción en Puebla; Comisión Federal de Electricidad; Cámara de la Industria Textil de Puebla y Tlaxcala; Cámara Nacional de la Industria de la Transformación en Puebla; Confederación Patronal Mexicana; Consejo Coordinador Empresarial; Asociación de Hoteles y Restaurantes de Puebla, A.C.; Congreso del Trabajo; Confederación Nacional de la Pequeña Propiedad; Confederación Nacional Campesina; un representante Común de las Uniones Regionales Ganaderas del Estado y de las Cámaras Agrícolas y Ganaderas de Puebla y Tlaxcala; SECOFI; CONACEX, BANCOMEXT, NAFINSA, CANIRAC, CANACOPE, Cámara Nacional del Transporte, Aduana Interior del Estado de Puebla y las organizaciones de carácter social legalmente constituidas que manifiesten su deseo de participar y que lo apruebe la Asamblea General.
 
 IV.- El Gobierno Federal, si lo estima conveniente, podrá acreditar un representante.
 
@@ -117,15 +125,19 @@ Tanto las Asambleas Ordinarias como las Extraordinarias, se llevarán a cabo con
 
 Los acuerdos de las Asambleas Generales, se tomarán por mayoría de votos de los presentes.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1994)</small>
+
 ###### ARTICULO 14.
 
-El órgano ejecutivo del Comité de la Feria de Puebla, será un Consejo Directivo formado en primer lugar, por el C. Gobernador del Estado, quien tendrá el carácter de Presidente Honorario; un Vicepresidente Honorario que será el Presidente Municipal; un Presidente Ejecutivo; un Vicepresidente; un Secretario; un Prosecretario; un Tesorero; un Protesorero y dos Vocales.
+El Organo Ejecutivo del Comité de la Feria de Puebla, será un Consejo Directivo formado por el C. Gobernador del Estado, quien tendrá el carácter de Presidente Honorario, un Vicepresidente Honorario que será el Presidente Municipal; un Presidente Ejecutivo; un Vicepresidente; un Secretario; un Prosecretario; un Tesorero; un Protesorero y dos Vocales, los cuales tendrán a su cargo la administración del Comité.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 15.
 
-El Presidente Ejecutivo del Consejo Directivo será nombrado por el mismo Comité a propuesta del Ejecutivo del Estado y durará en su encargo un año.
+El Presidente Ejecutivo del Consejo Directivo, será nombrado por la Asamblea General del Comité, a propuesta del Gobernador del Estado y durará en su encargo un año.
 
-Los demás cargos del Consejo serán asignados por elección hecha por los integrantes del Comité de la Feria de Puebla, de entre sus miembros.
+Los demás cargos del Consejo serán designados por elección hecha por los integrantes del Comité de la Feria de Puebla de entre sus miembros.
 
 ###### ARTICULO 16.
 
@@ -157,11 +169,15 @@ VIII.- Convocar a los suplentes del Comité que deban integrar el Consejo Direct
 
 IX.- Todas las demás que le señale la Asamblea.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JULIO DE 1994)</small>
+
 ###### ARTICULO 19.
 
-El Presidente del Consejo Directivo tendrá la representación jurídica del Comité de la Feria de Puebla, y además las siguientes atribuciones:
+El Presidente Ejecutivo del Consejo Directivo tendrá la representación jurídica del Comité de la Feria de Puebla y además las siguientes atribuciones:
 
-I.- Representar al Consejo Directivo y al Comité de la Feria de Puebla, ante las autoridades de la Federación, del Estado o de los Municipios, y ante cualquier persona física o moral, como mandatario general para pleitos y cobranzas, con todas las facultades generales y particulares que requieran cláusula especial conforme a la Ley; pero para enajenar o gravar bienes muebles e inmuebles del Organismo, deberá recabar, previamente, la autorización del Comité de la Feria.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 1994)</small>
+
+I.- Representar al Consejo Directivo y al Comité de la Feria, ante las autoridades de la Federación, del Estado o de los Municipios y ante cualquier persona física o moral, como mandatario general para pleitos, cobranzas y actos de administración, con todas las facultades generales y particulares que requieran cláusula especial conforme a la Ley; pero para enajenar o gravar bienes muebles e inmuebles del organismo, deberá recabar previamente la autorización de la Asamblea General.
 
 II.- Otorgar o suscribir títulos de crédito, con la amplitud a que se refiere la fracción I del artículo 9º de la Ley General de Títulos y Operaciones de Crédito.
 
@@ -171,7 +187,9 @@ IV.- Ejecutar los acuerdos del Consejo Directivo.
 
 V.- Proponer al Consejo las medidas que considere adecuadas para el mejor funcionamiento del Organismo.
 
-VI.- Delegar el mandato, en todo o en parte, en favor de uno o más apoderados y substituirlos o revocarlos cuando lo considere necesario, informando de ello al Consejo Directivo.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 1994)</small>
+
+VI.- Delegar el mandato para pleitos, cobranzas y actos de administración en favor de uno a más apoderados y sustituirlos o revocarlos cuando lo considere necesario, informando de ello al Consejo Directivo.
 
 VII.- Elaborar los proyectos de planes y programas de trabajo del organismo y someterlos a la aprobación del Consejo Directivo.
 
@@ -201,15 +219,21 @@ Son obligaciones del Secretario:
 
 I.- Firmar y recibir la correspondencia.
 
-II.- Firmar en unión del Presidente toda clase de escritos y documentos.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 1994)</small>
 
-III.- Dar cuenta al Presidente, de los asuntos del Comité, y proporcionar a los integrantes del mismo del Consejo Directivo y a los Comisarios, los informes que les soliciten.
+II.- Firmar en unión del Presidente Ejecutivo toda clase de escritos y documentos.
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 1994)</small>
+
+III.- Dar cuenta al Presidente Ejecutivo de los Asuntos del Comité y proporcionar a los integrantes del Consejo Directivo y a los Comisarios, los informes que le soliciten.
 
 IV.- Asistir a las Asambleas Generales y a las Juntas del Consejo Directivo, levantando y autorizando con su firma las actas en los libros correspondientes.
 
 V.- Cumplir los acuerdos del Comité del Consejo Directivo, del Presidente, y vigilar que la tramitación de los asuntos se haga en forma rápida y eficaz.
 
-VI.- Autorizar con su firma los recibos de gastos ordinarios de la Secretaría, que hayan sido aprobados de acuerdo con lo que dispone esta Ley.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 1994)</small>
+
+VI.- Autorizar con su firma los recibos y gastos de la Secretaría que hayan sido aprobados de acuerdo con lo que dispone esta Ley.
 
 VII.- Dar cuenta al Presidente con las faltas en que incurran los empleados y trabajadores de la Feria.
 
@@ -231,17 +255,29 @@ El Tesorero se encargará de la recaudación y distribución de los fondos del C
 
 I.- Recibir las aportaciones del Gobierno Federal, Estatal o Ayuntamiento de la Ciudad de Puebla, o las que haga cualquiera otra persona, física o moral.
 
-II.- Expedir toda clase de recibos.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 1994)</small>
 
-III.- Pagar los recibos autorizados por el Presidente.
+II.- Pagar los recibos autorizados por el Presidente Ejecutivo.
 
-IV.- Distribuir los fondos del Comité en términos de las partidas presupuestales aprobadas.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 1994)</small>
 
-V.- Llevar la contabilidad del Comité en la forma que señale el Código de Comercio y la Ley General de Sociedades Mercantiles.
+III.- Distribuir los fondos del Comité en términos de lo que disponga el Consejo Directivo.
 
-VI.- Informar mensualmente al Consejo Directivo, en la Sesión Ordinaria, el estado que guardan las finanzas.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 1994)</small>
 
-VII.- Hacer oportunamente el depósito de los fondos en las Instituciones de Crédito que señale el Consejo Directivo y llevar, bajo la firma mancomunada del Presidente, las cuentas de cheques respectivas.
+IV.- Llevar la contabilidad que permita conocer la realidad de la información financiera.
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 1994)</small>
+
+V.- Informar mensualmente al Consejo Directivo en la sesión ordinaria, el estado que guardan las finanzas.
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 1994)</small>
+
+VI.- Efectuar oportunamente el deposito de los fondos en las instituciones de que crédito que señale el Consejo Directivo y llevar bajo la firma mancomunada del Presidente, las cuentas de cheques respectivas.
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 1994)</small>
+
+VII.- Expedir cheques a favor de beneficiarios, debiendo llevar estos mancomunadamente dos firmas de las registradas y producir anualmente el balance que deba ser presentado para su aprobación ante la asamblea general ordinaria.
 
 VIII.- Producir anualmente el balance que deba ser presentado para su aprobación ante la Asamblea General Ordinaria.
 
@@ -259,9 +295,13 @@ II.- Asistir a todas las Asambleas y Juntas que se celebren.
 
 III.- Auxiliar al Tesorero en sus trabajos, cuando así lo requiera éste, para que pueda realizar eficazmente su cometido.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1994)</small>
+
 ###### ARTICULO 25.
 
-La Secretaría de la Contraloría General del Estado designará un Comisario Propietario y un Auxiliar, quien ejercerá sus atribuciones en la forma que lo hacen los de su especie en las Instituciones de Crédito.
+Para la vigilancia, control y evaluación del Organismo, la Secretaría de la Contraloría General del Estado designará un Comisario Público, que tendrá las atribuciones, que a la misma Secretaría le otorgan, la Ley Orgánica de la Administración Pública del Estado y las demás disposiciones legales aplicables.
+
+El Comisario Público, que tendrá un Suplente, asistirá a las Sesiones del Organismo, con voz pero sin voto.
 
 ###### ARTICULO 26.
 
@@ -282,6 +322,12 @@ Cuando el Comisario Auxiliar supla faltas temporales o definitivas del Comisario
 ###### ARTICULO 30.
 
 Todo lo no previsto por esta Ley y su Reglamento será resuelto por el Consejo Directivo, dando cuenta de ello, al Comité en su oportunidad.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 1994)</small>
+
+###### ARTICULO 31.
+
+El Comité de la Feria de Puebla, estará exento de toda clase de impuestos estatales y municipales.
 
 ## TRANSITORIOS.
 
@@ -308,3 +354,9 @@ Corresponde al Comité de la Feria de Puebla la posesión de los inmuebles y la 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Heroica Ciudad de Puebla de Zaragoza, a los quince días del mes de septiembre de mil novecientos ochenta y siete.- Presidente.- Dip. Antonio Castelán Guarneros.- Rúbrica.- Secretario.- Dip. Dr. Héctor Fregoso Tovar.- Rúbrica.- Secretario.- Dip. Felipe Flores Mena.- Rúbrica.
 
 Por tanto mando se imprima, publique y circule para sus efectos.- Dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza, a los diecisiete días del mes de Septiembre de mil novecientos ochenta y siete.- El Gobernador Constitucional del Estado.- Lic. Mariano Piña Olaya.- Rúbrica.- El Secretario de Gobernación.- Lic. Marco Antonio Rojas Flores.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE JULIO DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
