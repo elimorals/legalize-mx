@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-hacienda-y-credito-8649
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-09-11"
-last_updated: "2004-05-07"
+last_updated: "2004-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8649&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-09-06"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE MAYO DE 2004.
 
 Reglamento publicado en el Diario Oficial de la Federación el miércoles 11 de septiembre de 1996.
 
@@ -67,15 +67,15 @@ I. Unidad de Coordinación con Entidades Federativas:
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-I.1. Dirección General Adjunta de Participaciones y Aportaciones Federales;
+I. 1. Dirección General Adjunta de Participaciones y Aportaciones Federales;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-I.2. Dirección General Adjunta de Enlace con los Organismos del Sistema Nacional de Coordinación Fiscal, y
+I. 2. Dirección General Adjunta de Enlace con los Organismos del Sistema Nacional de Coordinación Fiscal, y
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-I.3. Dirección General Adjunta de Planeación, Financiamiento y Vinculación con Entidades Federativas.
+I. 3. Dirección General Adjunta de Planeación, Financiamiento y Vinculación con Entidades Federativas.
 
 I. 4. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
@@ -87,39 +87,39 @@ III. Unidad de Inteligencia Financiera:
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-III.1. Dirección General Adjunta de Normatividad y Relaciones Nacionales e Internacionales;
+III. 1. Dirección General Adjunta de Normatividad y Relaciones Nacionales e Internacionales;
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-III.2. Dirección de Normatividad y Relaciones Nacionales e Internacionales;
+III. 2. Dirección de Normatividad y Relaciones Nacionales e Internacionales;
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-III.3. Dirección de Verificación y Cumplimiento;
+III. 3. Dirección de Verificación y Cumplimiento;
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-III.4. Dirección General Adjunta de Análisis Financiero;
+III. 4. Dirección General Adjunta de Análisis Financiero;
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-III.5. Dirección de Análisis Proactivo "1";
+III. 5. Dirección de Análisis Proactivo "1";
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-III.6. Dirección de Análisis Proactivo "2";
+III. 6. Dirección de Análisis Proactivo "2";
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-III.7. Dirección General Adjunta de Procesos Legales;
+III. 7. Dirección General Adjunta de Procesos Legales;
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-III.8. Dirección de Análisis Técnico Contable, y
+III. 8. Dirección de Análisis Técnico Contable, y
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-III.9. Dirección de Formulación y Seguimiento de Denuncias.
+III. 9. Dirección de Formulación y Seguimiento de Denuncias.
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -135,15 +135,15 @@ IV. Unidad de Planeación Económica de la Hacienda Pública:
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-IV.1. Dirección General Adjunta de Finanzas Públicas;
+IV. 1. Dirección General Adjunta de Finanzas Públicas;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-IV.2. Dirección General Adjunta de Estadística de la Hacienda Pública, y
+IV. 2. Dirección General Adjunta de Estadística de la Hacienda Pública, y
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-IV.3. Dirección General Adjunta de Análisis de Políticas Públicas.
+IV. 3. Dirección General Adjunta de Análisis de Políticas Públicas.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -181,11 +181,11 @@ VII. 1. Dirección General Adjunta de Banca Múltiple;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-VII.2. Dirección de Regulación de Intermediarios Financieros No Bancarios;
+VII. 2. Dirección de Regulación de Intermediarios Financieros No Bancarios;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-VII.3. Dirección de Regulación de Intermediarios Financieros Bancarios;
+VII. 3. Dirección de Regulación de Intermediarios Financieros Bancarios;
 
 VII. 4. Dirección de Control Jurídico;
 
@@ -195,11 +195,11 @@ VII. 6. Dirección de Análisis Financiero de Intermediarios Bancarios;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-VII.7. Dirección de Análisis Financiero de Intermediarios No Bancarios;
+VII. 7. Dirección de Análisis Financiero de Intermediarios No Bancarios;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-VII.8. Dirección de Vinculación Internacional;
+VII. 8. Dirección de Vinculación Internacional;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -207,15 +207,15 @@ VII. 9. Dirección General Adjunta de Ahorro y Regulación Financiera;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-VII.10. Dirección de Planeación y Ahorro;
+VII. 10. Dirección de Planeación y Ahorro;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-VII.11. Dirección Jurídica de Regulación Financiera, y
+VII. 11. Dirección Jurídica de Regulación Financiera, y
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-VII.12. Dirección de Estudios de Ahorro.
+VII. 12. Dirección de Estudios de Ahorro.
 
 VII. 13. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
@@ -229,25 +229,25 @@ VIII. Dirección General de Seguros y Valores:
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-VIII.1. Dirección de Análisis de Riesgos;
+VIII. 1. Dirección de Análisis de Riesgos;
 
 VIII. 2. Dirección General Adjunta de Seguros y Fianzas;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-VIII.3. Dirección General Adjunta de Organizaciones y Actividades Auxiliares del Crédito;
+VIII. 3. Dirección General Adjunta de Organizaciones y Actividades Auxiliares del Crédito;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-VIII.4. Dirección de Organizaciones y Actividades Auxiliares del Crédito;
+VIII. 4. Dirección de Organizaciones y Actividades Auxiliares del Crédito;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-VIII.5. Dirección General Adjunta de Normatividad y Coordinación Sectorial, y
+VIII. 5. Dirección General Adjunta de Normatividad y Coordinación Sectorial, y
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-VIII.6. Dirección Jurídica.
+VIII. 6. Dirección Jurídica.
 
 VIII. 7. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
@@ -263,11 +263,11 @@ X. 1. Dirección General Adjunta de Análisis Económico y Estadística de Ingre
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-X.2. Dirección General Adjunta de Estudios de Política de Ingresos, y
+X. 2. Dirección General Adjunta de Estudios de Política de Ingresos, y
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-X.3. Dirección General Adjunta de Análisis y Evaluación Técnico Contable en Materia Impositiva y del Sector Financiero.
+X. 3. Dirección General Adjunta de Análisis y Evaluación Técnico Contable en Materia Impositiva y del Sector Financiero.
 
 X. 4. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
@@ -281,21 +281,21 @@ X. 8. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 X. 9. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-X.10. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
+X. 10. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 XI. Unidad de Legislación Tributaria:
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XI.1. Dirección General Adjunta de Legislación y Estudios Tributarios;
+XI. 1. Dirección General Adjunta de Legislación y Estudios Tributarios;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XI.2. Dirección General Adjunta de Legislación Aduanera y Comercio Exterior, y
+XI. 2. Dirección General Adjunta de Legislación Aduanera y Comercio Exterior, y
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XI.3. Dirección General Adjunta de Legislación de Derechos, Productos y Aprovechamientos.
+XI. 3. Dirección General Adjunta de Legislación de Derechos, Productos y Aprovechamientos;
 
 XI. 4. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
@@ -307,7 +307,7 @@ XII. Coordinación General de Estudios y Tratados Internacionales:
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XII.1. Dirección General Adjunta de Tratados Internacionales.
+XII. 1. Dirección General Adjunta de Tratados Internacionales.
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -361,7 +361,7 @@ XXV. Dirección General de Promoción Cultural, Obra Pública y Acervo Patrimoni
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXV. Bis. Dirección General Adjunta de Adquisiciones y Contratación de Servicios.
+XXV. Bis. Dirección General Adjunta de Adquisiciones y Contratación de Servicios;
 
 XXV. Ter (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
@@ -377,31 +377,31 @@ XXVI. 4. Dirección General de Legislación y Consulta Fiscal y Presupuestaria;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXVI.5. Dirección General Adjunta de Legislación y Consulta Presupuestaria;
+XXVI. 5. Dirección General Adjunta de Legislación y Consulta Presupuestaria;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXVI.6. Dirección de Legislación y Consulta Presupuestaria;
+XXVI. 6. Dirección de Legislación y Consulta Presupuestaria;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXVI.7. Dirección de Legislación y Consulta de Asuntos Fiscales "A";
+XXVI. 7. Dirección de Legislación y Consulta de Asuntos Fiscales "A";
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXVI.8. Dirección de Legislación y Consulta de Asuntos Fiscales "B";
+XXVI. 8. Dirección de Legislación y Consulta de Asuntos Fiscales "B";
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXVI.9. Dirección General de Apoyo Técnico;
+XXVI. 9. Dirección General de Apoyo Técnico;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXVI.10. Dirección de Apoyo Técnico, y
+XXVI. 10. Dirección de Apoyo Técnico, y
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXVI.11. Dirección de Evaluación y Control de Legislación y Consulta.
+XXVI. 11. Dirección de Evaluación y Control de Legislación y Consulta.
 
 XXVI. 12. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
@@ -804,6 +804,10 @@ IV. Someter a la consideración del Secretario el proyecto de presupuesto anual 
 V. Emitir los oficios de inversión que de acuerdo a la normatividad presupuestaria aplicable le competen, para que las unidades administrativas de la Secretaría puedan ejercer el gasto de inversión, así como, en su caso, aprobar las modificaciones procedentes;
 
 VI. Definir los lineamientos para la formulación del Manual de Organización General de la Secretaría y para los manuales de organización específicos, de procedimientos y demás documentos administrativos; consolidarlos e integrarlos al Almacén Único de Procesos e Información del Personal de la Secretaría, con base en lo establecido en el artículo 15-I, fracción XIX de este Reglamento;
+
+> <small>(ADICIONADA, D.O.F. 28 DE MAYO DE 2004)</small>
+
+VI Bis. Ejercer, reembolsar, pagar y contabilizar el presupuesto de las Subsecretarías, la Tesorería de la Federación, la Procuraduría Fiscal de la Federación y las demás unidades administrativas de la Secretaría, así como solicitar a la Tesorería de la Federación la ministración de recursos que correspondan;
 
 VII. Remitir para aprobación del Secretario, de acuerdo al plan estratégico de la Secretaría y considerando las propuestas de mejora presentadas por las unidades administrativas de la misma, la propuesta de las directrices, normas, criterios y los niveles de servicio que la Oficialía Mayor debe cumplir a las unidades administrativas de la Secretaría en materia de servicios de apoyo administrativo de los recursos humanos, financieros y materiales, así como de los demás servicios de carácter administrativo que sean necesarios para el despacho de los asuntos de las unidades administrativas antes mencionadas; así como remitir para los mismos efectos, la propuesta de los lineamientos que en las citadas materias y en la presupuestaria deban seguir dichas unidades administrativas, incorporando la opinión que al efecto emitan los servidores públicos a que se refiere el artículo 2o., Apartado A de este Reglamento, así como de los titulares de la Unidad de Coordinación con Entidades Federativas, de la Unidad de Comunicación Social y Vocero, de la Unidad de Inteligencia Financiera, de la Coordinación General de Tecnologías de Información y Comunicaciones y de la Coordinación General de Calidad y Seguridad de la Información, excepto en lo relacionado con tecnologías de información y comunicaciones, y de calidad y seguridad de la información;
 
@@ -1239,7 +1243,7 @@ XLVI. Proceder al cobro de los títulos de crédito que excepcionalmente le sean
 
 XLVII. Aprobar las propuestas de cancelación de créditos distintos de los fiscales a favor del Gobierno Federal, radicados en la Tesorería de la Federación, de conformidad con las disposiciones legales aplicables;
 
-XLVIII. Dirigir, coordinar y supervisar las actividades del Resguardo Federal de Valores, que tiene por objeto garantizar la custodia, vigilancia, protección y seguridad de los fondos y valores de la Federación o al cuidado del Gobierno Federal.
+XLVIII. Dirigir, coordinar y supervisar las actividades del Resguardo Federal de Valores, que tiene por objeto garantizar la custodia, vigilancia, protección y seguridad de los fondos y valores de la Federación o al cuidado del Gobierno Federal;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -2223,7 +2227,7 @@ VIII. Concentrar la información estadística sobre la deuda pública;
 
 > <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2001)</small>
 
-IX. Registrar, administrar y enajenar los activos financieros asociados al crédito público.
+IX. Registrar, administrar y enajenar los activos financieros asociados al crédito público;
 
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -4665,6 +4669,10 @@ VI. Difundir entre las unidades administrativas de la Secretaría las normas, li
 
 VII. Coordinar la instrumentación de las normas de contabilidad; diseñar y difundir instrucciones para rendición de cuenta comprobada sobre los movimientos de fondos y deuda pública federales, en coordinación con las unidades administrativas de la Secretaría, responsables de dichas funciones;
 
+> <small>(ADICIONADA, D.O.F. 28 DE MAYO DE 2004)</small>
+
+VII Bis. Auxiliar al Oficial Mayor en el ejercicio, reembolso y pago del presupuesto de las Subsecretarías, la Tesorería de la Federación, la Procuraduría Fiscal de la Federación y las demás unidades administrativas de la Secretaría; y solicitar a la Tesorería de la Federación la ministración de recursos que correspondan;
+
 VIII. Emitir, conforme a las disposiciones que señalen las unidades administrativas competentes, los manuales y procedimientos para la operación del sistema de contabilidad, así como los catálogos de cuentas y los instructivos para el registro de las operaciones presupuestarias del Ramo 06 Hacienda y Crédito Público, así como para el registro contable de sus activos, pasivos, patrimonio, costos y gastos y someter a consideración superior los informes y estados financieros correspondientes;
 
 IX. Requerir la información relativa al desarrollo de los programas de las unidades administrativas de la Secretaría e informar, en su caso, a las instancias correspondientes acerca del cumplimiento de los programas y del ejercicio de los presupuestos;
@@ -6955,7 +6963,7 @@ VI. Vigilar las actividades asociadas con el procedimiento, seguimiento y contro
 
 VII. Vigilar y controlar los procedimientos relacionados con los pagos y depósitos a través de la cuenta aduanera, comprobando el cumplimiento de las obligaciones de las instituciones de crédito y demás instituciones autorizadas a que se refiere la Ley Aduanera, y
 
-VIII. Coordinar con las Delegaciones Regionales de la Tesorería de la Federación los asuntos de su competencia.
+VIII. Coordinar con las Delegaciones Regionales de la Tesorería de la Federación los asuntos de su competencia;
 
 > <small>(ADICIONADA, D.O.F. 22 DE MARZO DE 2001)</small>
 
@@ -6975,7 +6983,7 @@ III. Ordenar y practicar inspecciones, auditorías y análisis de los sistemas i
 
 IV. Formular pliegos preventivos de responsabilidades y los de observaciones que correspondan a los servidores públicos de la Tesorería de la Federación, así como proceder a su notificación, requerimiento de pago y dictar mandamiento de ejecución por escrito, debidamente fundado y motivado, designando ejecutor para embargar bienes de los responsables de irregularidades, asegurando los intereses del Erario Federal; ampliar y reducir los embargos precautorios cuando proceda, y
 
-V. Coordinar con las Delegaciones Regionales de la Tesorería de la Federación los asuntos de su competencia.
+V. Coordinar con las Delegaciones Regionales de la Tesorería de la Federación los asuntos de su competencia;
 
 > <small>(ADICIONADA, D.O.F. 22 DE MARZO DE 2001)</small>
 
@@ -7956,3 +7964,7 @@ Hasta en tanto se lleve a cabo la instalación del Sistema Integral de Administr
 DÉCIMO QUINTO. Se abroga el Acuerdo que establece el Sistema Integral de Administración Financiera Federal, publicado en el Diario Oficial de la Federación el 27 de enero de 1998, así como el Acuerdo por el que se establecen los lineamientos relativos al funcionamiento, organización y requerimientos de operación del Sistema Integral de Administración Financiera Federal, publicado en el Diario Oficial de la Federación el 30 de abril de 2002.
 
 DÉCIMO SEXTO.- Dentro de los 30 días naturales contados a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, la Dirección General de Programación y Presupuesto "B" someterá a consideración del Secretario las políticas, directrices, normas o criterios técnicos y administrativos para la mejor organización y funcionamiento de los órganos desconcentrados de la Secretaría y las entidades del sector coordinado por la misma, incluyendo los relativos a la materia presupuestaria, de administración de sueldos y de prestaciones.
+
+D.O.F. 28 DE MAYO DE 2004.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
