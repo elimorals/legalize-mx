@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-obra-publica-del-estado-de-nayarit-11592"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-19"
-last_updated: "2003-12-24"
+last_updated: "2005-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE OBRA PUBLICA DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2005.
 
 Ley Publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit el Miércoles 19 de Abril de 1995.
 
@@ -47,21 +47,17 @@ LEY DE OBRA PUBLICA DEL ESTADO DE NAYARIT.
 
 DISPOSICIONES GENERALES.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 1o.
 
-La presente Ley es de orden público e interés social y tiene por objeto regular las acciones relativas a la planeación, programación, presupuestación, gasto, ejecución, conservación, mantenimiento, demolición y control de la obra pública y los servicios relacionados con la misma, que contraten o realicen:
+La presente ley es de orden público y tiene por objeto regular las acciones de planeación, programación, presupuestación, contratación, ejecución, conservación, mantenimiento, demolición y control de la obra pública que realicen los entes públicos en el Estado de Nayarit.
 
-I.- El Gobierno del Estado;
+Para efectos de esta ley, quedan comprendidos como entes públicos los poderes del estado, los municipios, los tribunales administrativos, así como las entidades de carácter estatal o municipal. Esta ley será aplicable a los órganos del estado constitucionalmente autónomos, así como a los poderes legislativo y judicial, siempre y cuando no se contrapongan a las leyes que los rigen.
 
-II.- Los Ayuntamientos;
+Los entes públicos se abstendrán de crear fideicomisos, otorgar mandatos o celebrar cualquier tipo de contrato que evada lo previsto en este ordenamiento.
 
-III.- Los Organismos Descentralizados del Estado;
-
-IV.- Las Empresas de participación estatal mayoritaria y los fideicomisos públicos que, de conformidad con las disposiciones legales aplicables, sean considerados entidades paraestatales.
-
-Las dependencias y entidades bajo su responsabilidad, podrán emitir internamente de conformidad con el presente ordenamiento, las políticas, bases y lineamientos para la materia a que se refiere el presente artículo.
-
-Las dependencias o entidades señaladas en este artículo, se abstendrán de otorgar mandatos o celebrar actos o cualquier tipo de contrato, cuya finalidad sea evadir lo previsto en el presente ordenamiento.
+Para la aplicación de esta ley por los entes públicos distintos al poder ejecutivo, las atribuciones y obligaciones que ésta le otorga, serán aplicables de acuerdo a su estructura orgánica a las dependencias y entidades de cada uno de los entes públicos que realicen funciones análogas.
 
 ###### ARTICULO 2o.
 
@@ -81,11 +77,13 @@ V.- Todas aquellas de naturaleza análoga.
 
 El gasto de la obra pública se sujetará a las disposiciones específicas en el presupuesto anual de egresos del Estado y de los Municipios, así como a lo previsto en la Ley de Presupuestación, Contabilidad y Gasto Público y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 4o.
 
-El Ejecutivo del Estado aplicará la presente Ley por conducto de la Secretaría de Obras y Servicios Públicos, sin perjuicio de la intervención de otras dependencias del propio Ejecutivo conforme a esta y otras disposiciones legales.
+El Ejecutivo del Estado aplicará la presente ley por conducto de la Secretaría de Obras Públicas, sin perjuicio de la intervención de otras dependencias y entidades de carácter estatal conforme a ésta y otras disposiciones legales.
 
-Los ayuntamientos, en la ejecución de sus obras, se sujetarán a lo dispuesto en la Ley Orgánica para la Administración Municipal y en lo conducente a la presente Ley.
+Los ayuntamientos se sujetarán a lo dispuesto en esta ley y en lo conducente a la Ley Municipal del Estado de Nayarit. En el ámbito municipal corresponderá a las secretarías o direcciones de obra pública municipales la aplicación de esta ley, salvo lo que expresamente establezcan los reglamentos municipales.
 
 > <small>(REFORMADO, P.O., 17 DE MAYO DE 1997)</small>
 
@@ -119,7 +117,7 @@ Los titulares de las dependencias o entidades a que se refiere el artículo 1o.,
 
 Las Secretarías de Finanzas, Contraloría General y Obras y Servicios Públicos del Estado, en el ámbito de sus respectivas competencias, podrán contratar asesoría técnica para la realización de investigaciones de mercado, el mejoramiento del sistema de obra pública, verificación de costos, pruebas de calidad y otras actividades vinculadas con el objeto de esta Ley.
 
-Para los efectos de este artículo, las citadas dependencias pondrán a disposición entre si los resultados de los trabajos objeto de los respectivos contratos de asesoría técnica.
+Para los efectos de este artículo, las citadas dependencias pondrán a disposición entre sí los resultados de los trabajos objeto de los respectivos contratos de asesoría técnica.
 
 ###### ARTICULO 11.
 
@@ -127,11 +125,17 @@ Las dependencias y entidades deberán formular un inventario de la maquinaria y 
 
 Los Ayuntamientos cumplirán esta disposición enviando la documentación respectiva a la Contaduría Mayor de Hacienda del Congreso del Estado, en los términos que ésta le señale.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 12.
 
-Las controversias que se susciten con motivo de la interpretación o aplicación de esta Ley o de los contratos celebrados con base en ellas serán resueltas por los Tribunales Estatales.
+Las controversias que se susciten con motivo de la interpretación o aplicación de la presente ley, o de los contratos celebrados con base en ésta, serán resueltas por el Tribunal de Justicia Administrativa del Estado de Nayarit. Lo anterior sin perjuicio de que otras autoridades administrativas conozcan en la esfera de su competencia, de los medios de impugnación que, conforme a la ley sean procedentes.
 
-Los actos, contratos y convenios que las dependencias y entidades realicen en contravención a lo dispuesto por esta Ley, serán nulos de pleno derecho.
+Para lo no previsto expresamente por esta ley, se aplicará supletoriamente la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit.
+
+En los casos de los poderes legislativo y judicial, se aplicarán supletoriamente las disposiciones que regulan sus procedimientos internos.
+
+Los actos, contratos y convenios que los entes públicos realicen en contravención a lo dispuesto por esta ley, serán nulos de pleno derecho.
 
 ### CAPITULO II
 
@@ -337,7 +341,7 @@ III.- El cumplimiento de los contratos.
 
 Para los efectos de las fracciones I y III, los titulares de las dependencias y entidades, fijarán las bases, forma y porcentaje a los que deberán sujetarse las garantías que deban constituirse a favor de la Secretaría de Finanzas o la Tesorería de los Ayuntamientos según corresponda, incluyendo a las que se refiere la fracción II.
 
-Las garantías previstas en la fracciones II y III de este artículo, deberán presentarse dentro de los diez días naturales siguientes a la fecha en que el contratista reciba copia del fallo de adjudicación; y el o los anticipos correspondientes se entregarán, a mas tardar dentro de los diez días siguientes a la presentación de la garantía.
+Las garantías previstas en las fracciones II y III de este artículo, deberán presentarse dentro de los diez días naturales siguientes a la fecha en que el contratista reciba copia del fallo de adjudicación; y el o los anticipos correspondientes se entregarán, a mas tardar dentro de los diez días siguientes a la presentación de la garantía.
 
 Cuando las dependencias y entidades celebren contratos en los casos señalados en el artículo 57 fracción VI, bajo su responsabilidad, podrán exceptuar al contratista de presentar la garantía de cumplimiento del contrato respectivo.
 
@@ -421,9 +425,9 @@ Los organismos privados con representación legal y personalidad jurídica, podr
 
 ###### ARTICULO 35.
 
-Las dependencias y entidades, para hacer la evaluación de las proposiciones, deberán verificar que las mismas incluyan la información, documentación y requisitos solicitados en las bases de la licitación; que el programa de ejecución sea factible de realizar dentro del plazo solicitado con los recursos considerados por el solicitante y, que las características, especificaciones y calidad de los materiales sea de las requeridas por la convocante; además verificar el debido análisis, cálculo e integración de los precios unitarios, conforme a las disposiciones que se expidan.
+Las dependencias y entidades, para hacer la evaluación de las proposiciones, deberán verificar que las mismas incluyan la información, documentación y requisitos solicitados en las bases de la licitación; que el programa de ejecución sea factible de realizar dentro del plazo solicitado con los recursos considerados por el solicitante y, que las características, especificaciones y calidad de los materiales sean de las requeridas por la convocante; además verificar el debido análisis, cálculo e integración de los precios unitarios, conforme a las disposiciones que se expidan.
 
-Una vez hecha la evaluación de las proposiciones, el contrato se adjudicará a la persona que, de entre los licitantes, reúna las condiciones legales, técnicas y económicas requeridas por la convocante y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas; si resultare que dos o mas proposiciones son solventes, el contrato se adjudicará a quien presente la proposición cuyo precio sea el más bajo.
+Una vez hecha la evaluación de las proposiciones, el contrato se adjudicará a la persona que, de entre los licitantes, reúna las condiciones legales, técnicas y económicas requeridas por la convocante y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas; si resultare que dos o más proposiciones son solventes, el contrato se adjudicará a quien presente la proposición cuyo precio sea el más bajo.
 
 La dependencia o entidad convocante emitirá un dictamen que servirá como fundamento para el fallo, en el que se hará constar el análisis de las proposiciones admitidas y se hará mención de las proposiciones desechadas.
 
@@ -465,7 +469,7 @@ XI. En su caso, los procedimientos mediante las cuales las partes, entre si, res
 
 La adjudicación del contrato obligará a la dependencia o entidad y a la persona en que hubiere recaído dicha adjudicación a formalizar el documento relativo, dentro de los diez días naturales siguientes al de la adjudicación.
 
-Si el interesado no firmare el contrato, perderá en favor de la convocante la garantía que hubiere otorgado y la dependencia o entidad podrá, sin necesidad de un nuevo procedimiento, adjudicar el contrato al participante que haya presentado la siguiente proposición solvente mas baja, de conformidad con lo asentado en el dictamen a que se refiere el artículo 35, y así sucesivamente, en caso de que este último no acepte la adjudicación, siempre que la diferencia en precio con respecto a la postura que inicialmente hubiere resultado ganadora, en todo caso, no sea superior al diez por ciento.
+Si el interesado no firmare el contrato, perderá en favor de la convocante la garantía que hubiere otorgado y la dependencia o entidad podrá, sin necesidad de un nuevo procedimiento, adjudicar el contrato al participante que haya presentado la siguiente proposición solvente más baja, de conformidad con lo asentado en el dictamen a que se refiere el artículo 35, y así sucesivamente, en caso de que este último no acepte la adjudicación, siempre que la diferencia en precio con respecto a la postura que inicialmente hubiere resultado ganadora, en todo caso, no sea superior al diez por ciento.
 
 Si la dependencia o entidad no firmare el contrato respectivo, el contratista, sin recurrir en responsabilidad, podrá determinar no ejecutar la obra. En este supuesto, la dependencia o entidad liberará la garantía otorgada para el sostenimiento de su proposición y cubrirá los gastos no recuperables en que hubiere incurrido el contratista para preparar y elaborar su propuesta, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con la licitación de que se trate.
 
@@ -489,19 +493,41 @@ III.- Para la amortización de los anticipos en los casos de rescisión del cont
 
 El contratista que no reintegre el saldo por amortizar en el plazo señalado, cubrirá los cargos que resulten conforme a la disposición que emita la Secretaria de Finanzas.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 40.
 
-Las dependencias y entidades instrumentarán lo necesario para nombrar residentes o supervisores, los cuales serán responsables directos de la supervisión, vigilancia, control y revisión de los trabajos, incluyendo la aprobación de las estimaciones presentadas por el contratista.
+Las estimaciones de trabajos ejecutados se presentarán por el contratista al ente público por periodos no mayores a un mes, acompañadas de la documentación que acredite la procedencia de su pago, la cual deberá tramitarse oportunamente ante la Secretaría de Finanzas o Tesorería, según corresponda, conforme a las políticas establecidas.
+
+La Secretaría de Finanzas o Tesorería, según sea el caso, sólo procederá al pago de las estimaciones previa autorización del titular de la dependencia ejecutora de la obra pública quien será el responsable de que junto a cada estimación, se acompañen autorizados por él al menos los siguientes documentos:
+
+I. Números generadores;
+
+II. Notas de bitácora;
+
+III. Croquis;
+
+IV. Controles de calidad, pruebas de laboratorio y fotografías;
+
+V. Análisis, cálculo e integración de los importes correspondientes a cada estimación, y
+
+VI. Avances de obra, tratándose de contratos a precio alzado.
+
+VII. La demás información y documentos que sean necesarios a fin de garantizar el cumplimiento del contrato en los términos pactados y la veracidad de los conceptos por pagar.
+
+Las diferencias técnicas o numéricas pendientes de pago se resolverán y, en su caso, incorporarán en la siguiente estimación.
 
 ###### ARTICULO 41.
 
 Las dependencias y entidades pondrán oportunamente a disposición del contratista el o los bienes inmuebles en que deba llevarse a cabo la obra; el incumplimiento de esto, prorrogará la fecha de terminación de la obra en igual periodo, considerando la fecha de iniciación hasta la fecha en que se puso a disposición del contratista el o los inmuebles.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 42.
 
-Las estimaciones de trabajos ejecutados, a más tardar se presentarán por el contratista a la dependencia o entidad por periodos mensuales, acompañadas de la documentación que acredite la procedencia de su pago, la cual deberá tramitarse oportunamente ante la Secretaria de Finanzas, conforme a las políticas establecidas.
+A cada obra que realicen los entes públicos deberá asignarse por escrito al menos un supervisor de la misma.
 
-Las diferencias técnicas o numéricas pendientes de pago se resolverán y, en su caso, incorporarán en la siguiente estimación.
+La vigilancia, control y revisión de los trabajos, serán responsabilidad directa de los supervisores de la obra. De los conceptos pagados no ejecutados que llegaren a determinarse por las autoridades competentes responderá directamente el titular de la dependencia responsable de la ejecución de la obra sin perjuicio de las responsabilidades en que directa o indirectamente, por acción o por omisión, pudieran incurrir quienes participen en la supervisión, control y verificación de las obras.
 
 > <small>(REFORMADO, P.O., 17 DE MAYO DE 1997)</small>
 
@@ -567,9 +593,13 @@ Concluida la obra, no obstante su recepción formal, el contratista quedará obl
 
 El contratista deberá garantizar durante un plazo de doce meses, el cumplimiento de las obligaciones a que se refiere el párrafo anterior, mediante fianza equivalente al diez por ciento del monto total ejercido.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 50.
 
-Los contratistas con quienes se celebren contratos de Obra Pública y de Servicios, en los que participe económicamente el Estado o Municipios, cubrirán el cinco al millar sobre el importe de cada una de las estimaciones de trabajo como derechos por el servicio de vigilancia, inspección y control que corresponde a la Secretaria de la Contraloría General del Estado.
+Los contratistas que celebren contratos de obra pública y de servicios con los entes públicos, cubrirán el cinco al millar sobre el importe de cada una de las estimaciones de trabajo, por el concepto de derechos por servicios de vigilancia, inspección y control.
+
+La parte contratante deberá retener el importe correspondiente a que se refiere el párrafo anterior en el momento del pago de cada una de las estimaciones de la obra.
 
 ###### ARTICULO 51.
 
@@ -747,7 +777,7 @@ DE LAS INCONFORMIDADES.
 
 ###### ARTICULO 69.
 
-Las personas interesadas podrán inconformarse por escrito ante la Secretaria de la Contraloría General del Estado, por los actos que contravengan las disposiciones que rigen la materia objeto de esta Ley, dentro de los diez días hábiles siguientes a aquel en que este ocurra o el inconforme tenga conocimiento del acto impugnado. Transcurrido el plazo anterior, precluye para él o los interesados el derecho de inconformarse, sin perjuicio de que la Secretaría de la Contraloría pueda actuar en cualquier tiempo en terminos de ley.
+Las personas interesadas podrán inconformarse por escrito ante la Secretaria de la Contraloría General del Estado, por los actos que contravengan las disposiciones que rigen la materia objeto de esta Ley, dentro de los diez días hábiles siguientes a aquel en que éste ocurra o el inconforme tenga conocimiento del acto impugnado. Transcurrido el plazo anterior, precluye para él o los interesados el derecho de inconformarse, sin perjuicio de que la Secretaría de la Contraloría pueda actuar en cualquier tiempo en términos de ley.
 
 ###### ARTICULO 70.
 
@@ -841,7 +871,7 @@ Cuarto.- El Gobernador del Estado y el Congreso del Estado preverán lo conducen
 
 Quinto.- Los procedimientos y recursos administrativos que se encuentren en trámite al entrar en vigor esta resolución, se substanciarán de conformidad a las disposiciones legales anteriores al mismo.
 
-Sexto.- El Poder Ejecutivo y los Ayuntamientos del estado deberán prever que sus respectivos proyectos de leyes de ingresos del año 2003 y siguientes; se ajusten a lo establecido en el en el artículo 71 del ARTÍCULO PRIMERO de este decreto, en tanto no se modifique su contenido.
+Sexto.- El Poder Ejecutivo y los Ayuntamientos del estado deberán prever que sus respectivos proyectos de leyes de ingresos del año 2003 y siguientes; se ajusten a lo establecido en el artículo 71 del ARTÍCULO PRIMERO de este decreto, en tanto no se modifique su contenido.
 
 Asimismo, realizarán las acciones necesarias para que en sus respectivos presupuestos de egresos se considere, a partir del año 2003, una partida específica para el pago de la responsabilidad patrimonial por los daños y perjuicios en que pudieren incurrir sus servidores públicos.
 
@@ -858,3 +888,13 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 24 DE DICIEMBRE DE 2003.
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+P.O. 23 DE MARZO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+###### ARTÍCULO SEGUNDO.
+
+Los entes públicos comenzarán a realizar las retenciones correspondientes al derecho por Servicios de Vigilancia, Inspección y Control de la obra pública a cada una de las estimaciones que se paguen a partir de que hayan transcurrido quince días contados a partir de la entrada en vigor del presente decreto.
