@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2003-09-29"
+last_updated: "2004-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2004.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -1631,7 +1631,7 @@ Se impondrán de uno a dos años de prisión y multa de dos a veinte días de sa
 
 #### SECCION SEGUNDA.- CORRUPCION DE MENORES E INCAPACES
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 202.
 
@@ -1743,7 +1743,7 @@ La misma sanción establecida en el artículo anterior se impondrá a quien púb
 
 ###### Artículo 217.
 
-Se impondrá prisión de dos a nueve años y multa de diez a cien días de salario, al responsable del delito de corrupción de menores o incapaces.
+Se impondrá prisión de cinco a diez años y multa de cincuenta a mil días de salario, al responsable del delito de corrupción de menores o incapaces.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
 
@@ -1777,25 +1777,25 @@ Para los efectos de los tres artículos anteriores se considerará como empleado
 
 Las sanciones que señalan los artículos 217, 219 y 221 se duplicarán cuando el delincuente percibiere un lucro derivado de su conducta o sea ascendiente, hermano, hermana, padrastro, madrastra, tutor o tutora del menor o persona que viva en la casa de éste. En el segundo supuesto se privará al reo de todo derecho a los bienes del ofendido y de la patria potestad sobre sus descendientes.
 
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 224 Bis.
 
-Al que utilice un menor o menores de dieciséis años a posar en fotografías y o participar en videos pornográficos, se le impondrá prisión de dos a diez años y multa de veinte a ciento veinte días de salario.
+Al que procure, induzca, facilite o utilice a uno o más menores de dieciséis años o personas incapaces, con o sin su consentimiento, para realizar actos de exhibicionismo corporal lascivos o sexuales, con la finalidad de fotografiarlos, videograbarlos, filmarlos o exhibirlos, usando medios impresos o electrónicos, se le impondrá prisión de ocho a catorce años y multa de cien a mil doscientos días de salario.
 
-Se entiende por pornografía infantil, la reproducción sexualmente explícita de la imagen de un menor o menores de dieciséis años mediante fotografías o videos pornográficos.
+Se entiende por pornografía infantil, la representación sexualmente explícita de imágenes de personas menores de dieciséis años, y se equiparan a la misma los casos en que se incluya a una o varias personas incapaces de comprender las consecuencias del hecho en que intervienen.
 
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 224 Ter.
 
-Quien por cualquier medio, sea directo, mecánico o con soporte informático, electrónico o de cualquier otro tipo, venda, publique, distribuya, exhiba y difunda; transporte o posea con algunos de estos fines, material pornográfico infantil, se le impondrá prisión de dos a cinco años y multa de diez a cien días de salario.
+Además del decomiso de los objetos, instrumentos y productos del delito, al que por cualquiera que fuera el medio, fije, grabe, imprima, promueva, arriende, transmita, venda, publique, distribuya, exhiba y difunda; transporte o posea con algunos de estos fines, material pornográfico infantil, se le impondrá prisión de ocho a catorce años y multa de cien a mil doscientos días de salario.
 
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 224 Quáter.
 
-Se duplicará la sanción a la persona que cometa o consienta cualquiera de las conductas descritas con anterioridad, si fuere ascendiente, hermano, hermana, padrastro, madrastra, tutor, tutora, o todo aquél que tenga relación de amistad o de otra índole con el menor.
+Se duplicará la sanción a la persona que cometa, participe o consienta cualquiera de las conductas descritas con anterioridad, si fuere ascendiente, pariente por consanguinidad o afinidad, en línea recta o colateral sin limitación de grado, ministro de cualquier culto, profesor o cualquier otra persona que ejerza sobre el menor o incapaz influencia moral, física, psicológica o de cualquier índole, así como quien tenga cualquier representación de carácter judicial sobre la víctima.
 
 #### SECCION SEGUNDA.- FALSIFICACION DE SELLOS, MARCAS Y PUNZONES
 
@@ -4116,6 +4116,16 @@ P.O. 2 DE SEPTIEMBRE DE 2003.
 ###### ARTICULO PRIMERO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
+
+P.O. 30 DE ABRIL DE 2004.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO SEGUNDO.
 
