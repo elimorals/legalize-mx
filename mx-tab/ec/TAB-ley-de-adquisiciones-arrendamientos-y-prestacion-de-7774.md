@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-adquisiciones-arrendamientos-y-prestacion-de-7774"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-19"
-last_updated: "1991-12-28"
+last_updated: "1999-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 1999.
 
 Ley publicada en la Sección "H" del Periódico Oficial del Estado de Tabasco, el 19 de diciembre de 1987.
 
@@ -102,6 +102,10 @@ IV.- Racionalizar y simplificar las estructuras con que cuenten a efecto de util
 ###### ARTICULO 7.
 
 Las adquisiciones, arrendamientos y servicios con cargo total o parcial a fondos federales conforme a los convenios o acuerdos celebrados entre el Ejecutivo Federal y esta Entidad Federativa, estarán sujetos a las disposiciones de la Ley Federal de Adquisiciones, Arrendamientos y Prestación de Servicios relacionados con bienes muebles. Para estos efectos se pactará lo conducente en los mencionados convenios con la participación que en su caso, corresponda a los municipios interesados.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 1999)</small>
+
+En el caso de aportaciones establecidas indistintamente en el Presupuesto de Egresos de la Federación, en el Capítulo V de la Ley de Coordinación Fiscal o en el ordenamiento jurídico respectivo, y registradas en las Leyes Estatales y Municipales como Ingresos Propios, en los que la administración y ejercicio de los mismos, sean responsabilidad de la Entidad o del Municipio, estarán sujetos a lo dispuesto en esta Ley.
 
 ###### ARTICULO 8.
 
@@ -227,9 +231,13 @@ II.- La descripción general, cantidad y unidad de medida de cada uno de los bie
 
 III.- La indicación de los lugares, fechas y horarios en que los interesados podrán obtener las bases y especificaciones de la licitación y, en su caso, el costo de las mismas; y
 
-IV.- La fecha, hora y lugar de la celebración del acto de apertura de ofertas.
+IV.- La fecha, hora y lugar de la celebración del acto de apertura de ofertas;
 
 Si a juicio de la Oficialía pudieran existir proveedores idóneos fuera del territorio nacional, podrán enviar copias a las respectivas representaciones diplomáticas acreditadas en el país, con objeto de procurar su participación, sin perjuicio de que puedan publicarse en los diarios o revistas de mayor circulación, en el país donde se encuentren los proveedores potenciales.
+
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 1999)</small>
+
+V.- Las convocatorias a que se refiere este artículo, se incorporarán en el Sistema Electrónico de Contrataciones Gubernamentales SECONET, conforme las disposiciones que se emitan en el ámbito administrativo por los servidores públicos a los que los ordenamientos legales aplicables les otorguen las facultades para ello. En aquellos asuntos que en virtud de obligaciones que contraigan los poderes del Estado, y en su caso, los Municipios, para incorporar en dicho sistema las contrataciones que se efectúen con recursos públicos que sean aportados por la Federación, se sujetarán en lo conducente a lo dispuesto en esta Ley, en su artículo 7, y a los demás ordenamientos que les fueren obligatorios.
 
 ###### ARTICULO 27.
 
@@ -550,3 +558,17 @@ SECRETARIO DE GOBIERNO
 P.O. 28 DE DICIEMBRE DE 1991.
 
 Unico: Este Decreto surte sus efectos legales a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE MARZO DE 1999.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones legales y administrativas, que se opongan a lo ordenado en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado, implementará, desarrollará y ejecutará en un término de 30 días contados a partir de la entrada en vigor del presente Decreto, las acciones relacionadas con el Sistema Electrónico de Contrataciones Gubernamentales que para efectos de esta Ley se denominará SECONET; cumplido lo anterior, los concursos mediante convocatoria por licitación pública de adquisiciones, arrendamientos y prestación de servicios, así como los simplificados menores y mayores, que con cargo a recursos estatales y de aquellos provenientes de las aportaciones del Ramo General 33 en cualquiera de sus Fondos, en las que el Estado sea el responsable de su administración y ejercicio, se incorporarán con carácter obligatorio, con las excepciones que el propio Comité determine expresamente.
