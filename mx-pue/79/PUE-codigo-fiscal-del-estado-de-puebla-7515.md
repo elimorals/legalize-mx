@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "1998-12-09"
+last_updated: "2000-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO FISCAL DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2000.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -1281,31 +1281,53 @@ La Autoridad Fiscal impondrá las sanciones por infracción a las disposiciones 
 
 A.- Por las infracciones señaladas en el artículo 58:
 
-I.- De $ 10.00 a quien cometa la comprendida en la fracción VI.
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2000)
 
-II.- De $ 51.00 a quien cometa la comprendida en la fracción II.
+I.- De $ 23.00 a quien cometa la comprendida en la fracción VI.
 
-III.- De $ 68.00 a quien cometa la comprendida en la fracción III.
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2000)
 
-IV.- De $ 85.00 a quien cometa la comprendida en la fracción V.
+II.- De $ 71.00 a quien cometa la comprendida en la fracción II.
 
-V.- De $ 102.00 a quien cometa la comprendida en la fracción XV.
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2000)
 
-VI.- De $ 136.00 a quien cometa la comprendida en la fracción XVIII.
+III.- De $ 93.00 a quien cometa la comprendida en la fracción III.
 
-VII.- De $ 170.00 a quien cometa las comprendidas en las fracciones IX y XI.
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2000)
 
-VIII.- De $ 255.00 a quien cometa la comprendida en la fracción X.
+IV.- De $117.00 a quien cometa la comprendida en la fracción V.
 
-IX.- De $ 272.00 a quien cometa las comprendidas en las fracciones IV y VII.
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2000)
 
-X.- De $ 306.00 a quien cometa las comprendidas en la fracciones I, VIII, XII y XIII.
+V.- De $ 140.00 a quien cometa la comprendida en la fracción XV.
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2000)
 
-XI.- De $ 340.00 a quien cometa las comprendidas en las fracciones XVII y XXI.
+VI.- De $ 186.00 a quien cometa la comprendida en la fracción XVIII.
 
-XII.- De $ 849.00 a quien cometa las comprendidas en la fracciones XIX y XX.
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2000)
+
+VII.- De $234.00 a quien cometa las comprendidas en las fracciones IX y XI.
+
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2000)
+
+VIII.- De $ 351.00 a quien cometa la comprendida en la fracción X.
+
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2000)
+
+IX.- De $ 374.00 a quien cometa las comprendidas en las fracciones IV y VII.
+
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2000)
+
+X.- De $ 420.00 a quien cometa las comprendidas en la fracciones I, VIII, XII y XIII.
+
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2000)
+
+XI.- De $467.00 a quien cometa las comprendidas en las fracciones XVII y XXI.
+
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2000)
+
+XII.- De $ 1,166.00 a quien cometa las comprendidas en la fracciones XIX y XX.
 
 B.- Cuando la comisión de la infracción señalada en el artículo 58-A sea descubierta por las Autoridades Fiscales mediante el ejercicio de sus facultades de comprobación, se aplicarán las siguientes sanciones:
 
@@ -2142,3 +2164,7 @@ El presente Decreto deberá publicarse en el Periódico Oficial del Estado y ent
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE JULIO DE 2000.
+
+El presente Acuerdo entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
