@@ -4,7 +4,7 @@ identifier: "FED-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-415"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-27"
-last_updated: "1983-12-27"
+last_updated: "1985-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=415&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LISSSTE"
 ---
 # LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE MARZO DE 1985 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE FEBRERO DE 1985.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 27 de diciembre de 1983.
 
@@ -840,6 +842,8 @@ El Instituto proporcionará servicios de pre-pensión y post-pensión a los trab
 
 ### CAPITULO VII. De la Vivienda
 
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
 #### SECCION PRIMERA. Préstamos a corto plazo
 
 ###### Artículo 91.
@@ -906,13 +910,17 @@ Los créditos para la adquisición de los bienes a que se refiere el artículo a
 
 El plazo mayor que se considerará para estas adquisiciones, será de 5 años; el interés nunca será superior al 9% anual, y la cantidad autorizada será hasta 20 veces el sueldo básico mínimo mensual de los servidores públicos en las mismas condiciones a la de los préstamos a corto plazo.
 
-#### SECCION PRIMERA. Del Fondo de la Vivienda
+#### SECCION PRIMERA. Del Crédito para Vivienda
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
 ###### Artículo 100.
 
-El Fondo de la Vivienda a que se refiere la fracción XI inciso f) del Apartado B del Artículo 123 Constitucional; e inciso h) de la fracción VI del artículo 43 de la Ley Federal de los Trabajadores al Servicio del Estado tiene por objeto:
+Para los fines a que se refieren las fracciones XI, inciso f) del apartado b) del artículo 123 Constitucional; el inciso h) de la fracción VI del artículo 43 de la Ley Federal de los Trabajadores al Servicio del Estado; y las fracciones XIII y XIV del artículo 3o. de esta Ley, se constituirá el Fondo de la Vivienda que tiene por objeto:
 
-I. Establecer y operar un sistema de financiamiento que permita a los trabajadores obtener créditos baratos y suficientes mediante préstamos con garantía hipotecaria en primer lugar sobre inmuebles urbanos, por una sola vez, para los fines señalados en el artículo 103 fracción I de esta Ley;
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+I. Establecer y operar un sistema de financiamiento que permita a los trabajadores obtener créditos baratos y suficientes mediante préstamos con garantía hipotecaria en primer lugar sobre inmuebles urbanos, por una sola vez;
 
 II. Coordinar y financiar programas de construcción de habitaciones destinadas a ser adquiridas en propiedad por los trabajadores que carezcan de ellas; y
 
@@ -926,11 +934,19 @@ I. Con las aportaciones que las dependencias y entidades enteren al Instituto po
 
 II. Con los bienes y derechos adquiridos por cualquier título; y
 
-III. Con los rendimientos que se obtengan de las inversiones de los recursos a que se refieren las anteriores fracciones I y II.
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+III. Con el 0.5% que se deduzca del sueldo básico de los trabajadores que como cuota enteren en los términos del artículo 16 fracción II, y el 0.5% que como aportación enteren las dependencias y entidades conforme al artículo 21 fracción III de la presente Ley; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+IV. Con los rendimientos que se obtengan de las inversiones de los recursos a que se refieren las anteriores fracciones.
+
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
 ###### Artículo 102.
 
-La Junta Directiva del Instituto determinará el porcentaje que del 5% correspondiente al Fondo de la Vivienda se asignará el financiamiento de adquisición de terrenos; de programas de casas habitación destinadas a ser adquiridas en propiedad por los trabajadores; a préstamos hipotecarios; y a la construcción, reparación, ampliación o mejoras de dichas casas, así como al pago de pasivos adquiridos por estos conceptos.
+La Junta Directiva determinará el porcentaje que de los recursos del Fondo se destinará anualmente al financiamiento de adquisiciones de terrenos; de programas de casas habitación destinadas a ser adquiridas en propiedad por los trabajadores; a préstamos hipotecarios; y a la construcción, reparación, ampliación o mejoras de dichas casas; así como el pago de pasivos adquiridos por estos conceptos.
 
 ###### Artículo 103.
 
@@ -978,13 +994,19 @@ Los gobiernos de las Entidades Federativas y Municipios podrán celebrar conveni
 
 Los pensionistas gozarán de los beneficios que establece este artículo, con sujeción a los acuerdos generales que en los términos y dentro de los lineamientos de esta Ley dicte la Junta Directiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
 ###### Artículo 106.
 
-Las aportaciones al Fondo de la Vivienda se aplicarán en su totalidad a constituir en favor de los trabajadores depósitos que no devengarán intereses y que se sujetarán a las bases siguientes:
+Las aportaciones al Fondo de la Vivienda previstas en la Fracción IV del artículo 21 de esta Ley, se aplicarán en su totalidad a constituir en favor de los trabajadores depósitos que no devengarán intereses y que se sujetarán a las bases siguientes:
 
 I. Cuando un trabajador reciba financiamiento del Fondo, el 40% del importe de los depósitos que en su favor se hayan acumulado hasta esa fecha, se aplicará de inmediato como pago inicial del crédito concedido;
 
 II. Durante la vigencia del crédito, se continuará aplicando el 40% de la aportación al pago de los abonos subsecuentes que deba hacer el trabajador;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+Para la correcta aplicación del 40% a que se refiere esta fracción y la anterior, el Fondo está obligado a constituir reserva actuarial en los términos señalados en el artículo 182;
 
 III. Una vez liquidado el crédito otorgado a un trabajador, se continuará aplicando el total de las aportaciones para integrar un nuevo depósito en su favor;
 
@@ -1040,6 +1062,10 @@ V. Los hijos que no dependan económicamente del trabajador; y
 
 VI. Los ascendientes que no dependan económicamente del trabajador.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+Para garantizar el pago de los depósitos a que este artículo se refiere, el Instituto está obligado a constituir una reserva actuarial, en los términos señalados por el artículo 182.
+
 ###### Artículo 113.
 
 Para los efectos de la primera parte de la fracción IV del artículo 106 de la presente Ley, se entenderá que un trabajador ha dejado de prestar servicios cuando transcurra un periodo mínimo de doce meses sin laborar en ninguna de las dependencias o entidades por suspensión temporal de los efectos del nombramiento o cese, a menos que exista litigio pendiente sobre la subsistencia de su designación o nombramiento.
@@ -1076,13 +1102,17 @@ En el caso de que opten por permanecer voluntariamente dentro del régimen del f
 
 Los créditos a los trabajadores a que se refiere la fracción I del artículo 103 devengarán un interés del 4% anual sobre saldos insolutos descontados ambos de cuando menos el 25% de sueldo básico. Tratándose de créditos para la adquisición o construcción de habitaciones, su plazo no será menor de diez años, pudiendo otorgarse un plazo máximo de veinte años. Para los otros créditos mencionados en la citada fracción I, se podrán fijar plazos menores.
 
-Los financiamientos señalados en la fracción II del mismo artículo se otorgarán a la tasa de interés que fije la Junta Directiva y a un plazo máximo de dieciocho meses.
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+Los financiamientos señalados en la fracción II del mismo artículo, se otorgarán a la tasa de interés y condiciones que fije la Junta Directiva tomando como referencia las que para créditos similares en materia de vivienda de interés social establezca el Banco de México, y a un plazo máximo de dieciocho meses.
 
 ###### Artículo 118.
 
 Todos los inmuebles adquiridos o construidos por los trabajadores para su propia habitación, con los recursos del Fondo para la Vivienda administrados por el Instituto, quedarán exentos a partir de la fecha de su adquisición o construcción de todos los impuestos federales y del Departamento del Distrito Federal por el doble del crédito y hasta por la suma de diez veces el salario mínimo del Distrito Federal elevado al año, durante el término que el crédito permanezca insoluto.
 
-Gozarán también de exención los convenios, contratos o actos en los que se hagan constar tales adquisiciones. Esta franquicia quedará insubsistente, si los inmuebles fueran enajenados por los trabajadores o destinados a otros fines.
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+Gozarán también de exención los convenios, contratos o actos en los que se hagan constar las correspondientes operaciones, los cuales tendrán el carácter de escritura pública para todos los efectos legales y se inscribirán en el Registro Público de la Propiedad respectivo, incluyendo la constitución del régimen de propiedad en condominio que haga constar el Instituto en relación con los conjuntos que financie o adquiera, sin menoscabo de que el trabajador pueda acudir ante Notario Público de su elección en las operaciones en que sea parte. Los gastos que se causen por los referidos conceptos serán cubiertos por mitad entre el Instituto y los Trabajadores; para tal efecto la Junta Directiva tomando como base el arancel que establece los honorarios de los notarios, determinará el porcentaje de reducción de los mismos, sin que dicha reducción pueda ser inferior al 50%. Las exenciones quedarán insubsistentes si los inmuebles fueran enajenados por los trabajadores o destinados a otros fines.
 
 El Instituto gestionará los convenios correspondientes con los gobiernos de los Estados y Municipios para que los trabajadores protegidos por esta Ley gocen de las exenciones de impuestos que correspondan a la propiedad raíz, en los términos de este artículo.
 
@@ -1106,11 +1136,13 @@ El Instituto deberá mantener en efectivo o en depósitos bancarios a la vista, 
 
 El Instituto sólo podrá realizar con cargo al Fondo las inversiones en los bienes muebles e inmuebles estrictamente necesarias para el cumplimiento de los fines del mismo fondo.
 
-En caso de adjudicación o de recepción en pago, de bienes inmuebles, el Instituto deberá venderlos en el término de seis meses.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
 ###### Artículo 124.
 
-El Instituto cuidará que sus actividades relacionadas con el Fondo se realicen dentro de una política integrada de vivienda y desarrollo urbano y para ello podrá coordinarse con otros organismos del sector público.
+El Instituto cuidará que sus actividades relacionadas con el Fondo se realicen dentro de una política integrada de vivienda y desarrollo urbano y para ello deberá dar estricto cumplimiento a los planes, programas y políticas que el Ejecutivo Federal establezca.
 
 ###### Artículo 125.
 
@@ -1130,89 +1162,99 @@ Las aportaciones de las dependencias y entidades, así como los descuentos que e
 
 Los servidores públicos o trabajadores de las dependencias o entidades de la Administración Pública responsables de enterar las aportaciones y descuentos, en caso de incumplimiento, serán sancionados en los términos de lo dispuesto en el Título Sexto de la presente Ley.
 
-#### SECCION SEGUNDA. De los Préstamos Hipotecarios
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+#### SECCION SEGUNDA. Del Arrendamiento y Venta de Vivienda
+
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
 ###### Artículo 127.
 
-Los trabajadores que hayan contribuido por más de seis meses al Instituto, podrán obtener por una sola vez préstamos con garantía hipotecaria en primer lugar sobre inmuebles urbanos.
+El Instituto, proporcionará habitaciones en arrendamiento, con opción de venta, en relación con lo dispuesto por el inciso b) fracción I del artículo 103, conforme a los programas previamente aprobados por la Junta Directiva.
 
-Los préstamos se destinarán a los siguientes fines:
-
-I. Adquisición de terrenos en los que deberá construirse la habitación del trabajador, cuando carezca de esta en propiedad;
-
-II. Adquisición o construcción de casas que habite el trabajador; cuando no tenga alguna otra propiedad:
-
-III. Efectuar mejoras o reparaciones de los inmuebles, la Junta Directiva determinará mediante acuerdos de carácter general, el límite máximo del monto de los créditos que se otorguen; y
-
-IV. Redención de gravámenes que soporten tales inmuebles. Los pensionistas gozarán de los beneficios que establece este artículo, con sujeción a los acuerdos generales que en los términos y dentro de los lineamientos de esta Ley, dicte la Junta Directiva.
-
-Para los fines de este artículo se dispondrá del 1 % de las aportaciones consignadas en el artículo 21 fracción III de esta Ley.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
 ###### Artículo 128.
 
-El préstamo no excederá del ochenta y cinco por ciento del avalúo fijado por el Instituto al inmueble a través de su personal técnico, a menos que el interesado proporcione otras garantías adicionales, suficientes para garantizar el excedente.
+Los créditos a que se refiere este capítulo no excederán del ochenta y cinco por ciento del avalúo fijado al inmueble por institución bancaria, a menos que el interesado proporcione al Instituto otras garantías adicionales, suficientes para garantizar el excedente.
 
-Cuando el trabajador o pensionista no estuviere de acuerdo con el avalúo practicado por el Instituto, podrá designar perito para practicar uno nuevo y en caso de discordancia, se podrá nombrar un tercero por ambas partes; a fin de que a la vista de su dictamen, la Junta Directiva resuelva en definitiva.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
 ###### Artículo 129.
 
-El Instituto constituirá un fondo especial que tendrá por objeto liquidar los créditos por préstamos hipotecarios a que se refiere el artículo 127 de esta Ley y que quedaren insolutos al fallecer el trabajador a quien se hubieren otorgado.
+Las viviendas propiedad del Instituto que se encuentren rentadas podrán ser enajenadas a sus arrendatarios a título oneroso, siempre y cuando sean trabajadores al servicio del Estado o pensionistas, y bajo los lineamientos que señala el artículo anterior.
 
-A la muerte del deudor, el Instituto cancelará a favor de los familiares de aquel, y con cargo a dicho fondo, el saldo insoluto, siempre y cuando no haya retraso en sus pagos.
-
-La Junta Directiva reglamentará la forma de constituir el fondo y los términos en que los interesados deberán contribuir al mismo.
-
-En ningún caso habrá lugar a la devolución de las aportaciones que los acreditados hagan para constituir el fondo a que se refiere este precepto.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
 ###### Artículo 130.
 
-Los préstamos hipotecarios se sujetarán, en lo conducente, a las condiciones y facilidades que establece el artículo 135 y se cubrirán mediante amortizaciones quincenales que incluirán capital e intereses.
+Los contratos a que se refiere esta sección se sujetarán, en lo conducente, a las condiciones y facilidades que establece el artículo 135 y los pagos se harán mediante amortizaciones quincenales que incluirán capital e interés.
 
-Los créditos que se otorguen por los conceptos señalados en el artículo anterior, deberán darse por vencidos anticipadamente si los deudores enajenan las viviendas, no las dedican para su habitación o incurren en alguna de las causas de rescisión estipuladas.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
 ###### Artículo 131.
 
 El Instituto formulará tablas indicadoras para determinar las cantidades máximas que puedan concederse al trabajador en calidad de crédito hipotecario, según su sueldo o sueldos, tomando como base que las amortizaciones no deben sobrepasar el 50% del sueldo o sueldos que el trabajador perciba y por los cuales se le practiquen descuentos para el Instituto. En los casos en que el trabajador justifique tener otros ingresos permanentes que puedan computarse para la amortización de préstamos, éste podrá sobrepasar el máximo fijado para su sueldo en forma proporcional, en todo caso, la Junta Directiva determinará mediante acuerdos de carácter general, el límite máximo del monto de los créditos que se otorguen.
 
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
 ###### Artículo 132.
 
-Si por haber sido cesado el trabajador o por otras causas graves a juicio del Instituto, no pudiere cubrir los abonos provenientes del préstamo hipotecario o del contrato de venta con garantía hipotecaria o con reserva de dominio o de promesa de venta, podrá concedérsele, previa solicitud, un plazo de espera de seis meses, al término de los cuales deberá reanudar sus pagos y el adeudo del lapso de espera lo pagará en el plazo y condiciones que señale la Junta Directiva.
+Si el trabajador hubiere pagado sus abonos con regularidad durante cinco años o más y se viere imposibilitado de continuar cubriéndolos, el Instituto rematará el inmueble en pública subasta y tendrá derecho a que del producto, una vez pagado el crédito insoluto, se le entregue el remanente.
+
+Si la imposibilidad del pago ocurre dentro de los cinco primeros años, el inmueble será devuelto al Instituto, rescindido el contrato de venta con garantía hipotecaria o de promesa de venta y sólo se cobrará al trabajador el importe de las rentas causadas durante el período de ocupación de la finca, devolviéndosele la diferencia entre estas y lo que hubiere abonado a cuenta del precio. A tal fin se fijará desde el otorgamiento de la escritura la renta mensual que se le asigne al inmueble.
+
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
 ###### Artículo 133.
 
-Los préstamos hipotecarios a los trabajadores causarán el interés anual sobre saldo insoluto, que fije la Junta Directiva, pero en ningún caso excederá del sesenta y cinco por ciento que establezca el Banco de México como interés social.
+Los arrendamientos a que se refiere esta sección podrán rescindirse anticipadamente si los deudores incurren en las causales señaladas en el artículo 110 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
 ###### Artículo 134.
 
-Todos los inmuebles adquiridos o construidos por los trabajadores para su propia habitación, con fondos administrados por el Instituto, incluidos los que provengan del Fondo para la Vivienda, quedarán exentos a partir de la fecha de su adquisición o construcción, de todos los impuestos federales y del Departamento del Distrito Federal por el doble de crédito, durante el término que permanezca insoluto.
+Los inmuebles devueltos al Instituto a que se refiere el Segundo Párrafo del artículo 132, así como aquellos que recupere por cualquier otro concepto; podrán ser nuevamente enajenados sin más trámites que los establecidos en esta Ley, dentro de un término de dos años contados a partir de la fecha en que el Instituto tome posesión de los mismos; transcurrido dicho término pasarán a formar parte de su activo fijo.
 
-Gozarán también de exención los convenios, contratos o actos en los que hagan constar tales adquisiciones. Esta franquicia quedará insubsistente, si los inmuebles fueran enajenados por los trabajadores o destinados a otros fines.
-
-El Instituto gestionará la celebración de los convenios correspondientes con los gobiernos de los Estados y Municipios para que los trabajadores protegidos por esta Ley gocen de las exenciones de impuestos que corresponden a la propiedad raíz, en los términos de este artículo.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
 ###### Artículo 135.
 
-El Instituto adquirirá o construirá habitaciones para ser vendidas a precios módicos a los trabajadores derechohabientes de esta Ley que carezcan de la misma.
+La enajenación de las habitaciones a que se refiere esta Sección, podrá hacerse por medio de venta a plazos con garantía hipotecaria o con reserva de dominio, o por medio de promesa de venta bajo las normas siguientes:
 
-La enajenación de estas habitaciones podrá hacerse por medio de venta a plazos con garantía hipotecaria o con reserva de dominio o por medio de contratos de promesa de venta y con las facilidades siguientes:
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
 I. El trabajador entrará en posesión de la habitación sin más formalidades que la firma del contrato respectivo;
 
-II. Pagados el capital e intereses, se otorgará la escritura que proceda;
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
-III. El plazo para cubrir el precio del inmueble, no excederá de quince años;
+II. Pagados el capital, intereses y accesorios, se otorgará el contrato, convenio o acto definitivo que proceda, o se extenderá el finiquito correspondiente en los casos en que se hubiere otorgado contrato sujeto a condición resolutoria;
 
-IV. Si el trabajador hubiere pagado sus abonos con regularidad durante cinco años o más y se viere imposibilitado de continuar cubriéndolos, tendrá derecho a que el Instituto remate en pública subasta el inmueble y que el producto, una vez pagado el crédito insoluto, se le entregue el remanente;
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
-V. Si la imposibilidad del pago ocurre dentro de los cinco primeros años, el inmueble será devuelto al Instituto, rescindido el contrato de venta con garantía hipotecaria o de promesa de venta y sólo se cobrará al trabajador el importe de las rentas causadas durante el periodo de ocupación de la finca, devolviéndosele la diferencia entre éstas y lo que hubiere abonado a cuenta del precio. A tal fin se fijará desde el otorgamiento de la escritura la renta mensual que se le asigne al inmueble; y
+III. El plazo para cubrir el precio del inmueble no excederá de quince años;
 
-VI. Los honorarios notariales para el otorgamiento de las escrituras serán cubiertos por mitad entre el Instituto y los trabajadores; el pago de los impuestos y gastos adicionales será por cuenta exclusiva de éstos.
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
-Los pensionistas gozarán de los beneficios de este artículo en los términos que dentro de los lineamientos de esta Ley fije la Junta Directiva por medio de acuerdos generales.
+IV. La Administración, operación o mantenimiento del conjunto habitacional, así como los gastos correspondientes a estos conceptos, se regirán por lo establecido en el artículo 120 de esta Ley; y
+
+V. (DEROGADA, D.O.F. 7 DE FEBRERO DE 1985)
+
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+VI. Los convenios, contratos o actos en los que se hagan constar las correspondientes operaciones se sujetarán a lo establecido por el segundo párrafo del artículo 118 de esta ley.
+
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+Los pensionistas gozarán de los beneficios de este artículo en los términos que dentro de los lineamientos de esta ley fije la Junta Directiva por medio de acuerdos Generales.
+
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
 ###### Artículo 136.
 
-Los arrendamientos con opción de venta de habitaciones a los trabajadores, se regirán por las disposiciones reglamentarias que dicte la Junta Directiva, las que tendrán por objetivo social en todo caso, el beneficio de los mismos trabajadores.
+Los arrendamientos, con opción de venta, de habitaciones a los trabajadores y pensionistas, se regirán por las disposiciones reglamentarias que dicte la Junta Directiva, las que tendrán por objeto social en todo caso, el beneficio de los mismos.
 
 ### CAPITULO VIII. De las Prestaciones Sociales y Culturales
 
@@ -1406,7 +1448,9 @@ VI. Establecer o suprimir delegaciones del Instituto en las Entidades Federativa
 
 VII. Autorizar al Director General a celebrar convenios con los Gobiernos de los Estados o de los Municipios, a fin de que sus trabajadores y familiares aprovechen las prestaciones y servicios que comprende el régimen de esta Ley;
 
-VIII. Conceder, negar, suspender, modificar o revocar las jubilaciones y pensiones; en los términos de esta Ley;
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+VIII. Dictar los acuerdos y resoluciones a que se refiere el artículo 162 de esta Ley;
 
 IX. Dictar los acuerdos que resulten necesarios para otorgar las demás prestaciones y servicios establecidos en esta Ley;
 
@@ -1438,11 +1482,13 @@ G) Las demás funciones necesarias para el cumplimiento de los fines del fondo; 
 
 XVI. En general, realizar todos aquellos actos y operaciones autorizados por esta Ley y los que fuesen necesarios para la mejor administración y gobierno del Instituto.
 
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
 ###### Artículo 158.
 
-La Junta Directiva celebrará por lo menos dos sesiones al mes y cuantas sean necesarias para la debida marcha de la Institución.
+La Junta Directiva celebrará por lo menos una sesión cada dos meses y cuantas sean necesarias para la debida marcha de la Institución.
 
-Las sesiones serán válidas con la asistencia de por lo menos seis consejeros, tres de los cuales deberán ser representantes del Estado y tres de la Federación de Sindicatos de los Trabajadores al Servicio del Estado.
+Las sesiones serán válidas con la asistencia de por lo menos seis consejeros, tres de los cuales deberán ser representantes del Estado y tres de la Federación de Sindicatos de los Trabajadores al Servicios (sic) del Estado.
 
 ###### Artículo 159.
 
@@ -1458,7 +1504,7 @@ A falta del Presidente de la Junta, las sesiones serán presididas por uno de lo
 
 ###### Artículo 162.
 
-Los acuerdos de la Junta Directiva por los cuales se concedan, nieguen, modifiquen, suspendan o revoquen las jubilaciones y pensiones a que esta Ley se refiere, serán revisados y sancionados de oficio por la Secretaría de Programación y Presupuesto para que puedan ser ejecutados.
+(DEROGADO PRIMER PARRAFO, D.O.F. 7 DE FEBRERO DE 1985)
 
 Las resoluciones de la Junta Directiva que afecten intereses particulares, podrán recurrirse ante la misma dentro de los treinta días siguientes. Si la Junta sostiene su resolución, los interesados podrán acudir ante la Secretaría de Programación y Presupuesto dentro de un término de treinta días para que ésta resuelva en definitiva.
 
@@ -1498,9 +1544,11 @@ El Director General será auxiliado por los trabajadores de confianza que al efe
 
 La Comisión Ejecutiva del Fondo de la Vivienda estará integrada por nueve miembros; uno designado por la Junta Directiva, a propuesta del Director del Instituto, el cual hará las veces de Vocal Ejecutivo de la Comisión; un vocal nombrado por cada una de las siguientes Dependencias: Secretaría de Programación y Presupuesto; Secretaría de Hacienda y Crédito Público; Secretaría del Trabajo y Previsión Social y Secretaría de Desarrollo Urbano y Ecología y cuatro vocales más nombrados a propuesta de la Federación de Sindicatos de los Trabajadores al Servicio del Estado. Por cada vocal propietario se designará un suplente.
 
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
 ###### Artículo 166.
 
-Los vocales de la Comisión Ejecutiva no podrán ser miembros de la Junta Directiva ni tener otro cargo dentro del Instituto. Igualmente será incompatible esta designación con el cargo sindical de Secretario General de la Sección que corresponda al Fondo.
+Los Vocales de la Comisión Ejecutiva no podrán ser miembros de la Junta Directiva. Igualmente será incompatible esta designación con el cargo sindical de Secretario General de la Sección que corresponda al Fondo.
 
 Para ocupar el cargo de vocal se requiere ser mexicano por nacimiento, de reconocida honorabilidad y experiencia técnica y administrativa.
 
@@ -1508,11 +1556,13 @@ Para ocupar el cargo de vocal se requiere ser mexicano por nacimiento, de recono
 
 Los Vocales de la Comisión Ejecutiva durarán en sus funciones por todo el tiempo que subsista su designación y podrán ser removidos libremente a petición de quienes los hayan propuesto.
 
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
 ###### Artículo 168.
 
-La Comisión Ejecutiva sesionará por lo menos una vez por semana.
+La Comisión Ejecutiva sesionará por lo menos dos veces al mes.
 
-Las sesiones serán válidas con la asistencia de por lo menos cinco de sus miembros, de los cuales uno será el Vocal Ejecutivo, dos representantes del Gobierno Federal y dos de la Federación de Sindicatos de Trabajadores al Servicio del Estado. Las decisiones se tomarán por mayoría de los presentes y en caso de empate el Vocal Ejecutivo tendrá voto de calidad.
+Las sesiones serán válidas con la asistencia de por lo menos cinco de sus miembros, de los cuales uno será el Vocal Ejecutivo, dos representantes del Gobierno Federal y dos de la Federación de Sindicatos de Trabajadores al Servicios (sic) del Estado. Las decisiones se tomarán por mayoría de los presentes y en caso de empate el Vocal Ejecutivo tendrá voto de calidad.
 
 ###### Artículo 169.
 
@@ -1560,11 +1610,15 @@ Uno de la Secretaría de Programación y Presupuesto;
 
 Uno de la Secretaría de Hacienda y Crédito Público;
 
-Uno del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, con derecho a voz, pero sin voto y que actuará como Secretario Técnico.
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+Uno del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, designado por el Director General, con derecho a voz pero sin voto y que actuará como Secretario Técnico;
 
 Tres designados por la Federación de Sindicatos de los Trabajadores al Servicio del Estado.
 
-La Junta Directiva, cada 30 días designará de entre los miembros de la Comisión de Vigilancia representantes del Gobierno Federal, quién deba presidirla. La Presidencia será rotativa y nunca recaerá en el representante del Instituto.
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+La Junta Directiva cada 6 meses designará de entre los miembros de la Comisión de Vigilancia representantes del Gobierno Federal a quien debe presidirla.
 
 Por cada miembro de la Comisión, se nombrará un suplente que actuará en caso de faltas temporales del titular.
 
@@ -1626,7 +1680,9 @@ Los trabajadores contribuyentes o los pensionistas y jubilados y sus familiares 
 
 Los bienes muebles e inmuebles que pertenezcan al Instituto gozarán de las franquicias, prerrogativas y privilegios que sean concedidos a los fondos y bienes de la Federación.
 
-Dichos bienes, así como los actos y contratos que celebre el Instituto estarán exentos de toda clase de impuestos y derechos.
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+Dichos bienes, así como los actos y contratos que celebre el Instituto estarán exentos de toda clase de impuestos y derechos, y aquellos en los que intervenga en materia de vivienda no requerirán de intervención notarial, sin menoscabo de que el trabajador pueda acudir ante Notario Público de su elección en las operaciones en que sea parte.
 
 El Instituto se considerará de acreditada solvencia y no estará obligado a constituir depósitos o fianza legal de ninguna clase.
 
@@ -1636,9 +1692,11 @@ Si llegare a ocurrir en cualquier tiempo que los recursos del Instituto no basta
 
 ### CAPITULO IV. Reservas e Inversiones
 
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
 ###### Artículo 178.
 
-La constitución, inversión y manejo de las reservas financieras y actuariales del Instituto serán presentadas en el programa presupuestal anual, para aprobación de la Junta Directiva, las cuales se sujetarán a lo dispuesto por el Reglamento Financiero que expida la propia Junta.
+La constitución, inversión y manejo de las reservas financieras y actuariales del Instituto serán presentadas en el programa presupuestal anual para aprobación de la Junta Directiva, las cuales se sujetarán a lo dispuesto por el Reglamento Financiero que expida la propia Junta; y que incluirá las bases de los regímenes del reparto anual y de primas escalonadas que mencionan los artículos 180 y 181.
 
 ###### Artículo 179.
 
@@ -1652,9 +1710,13 @@ El régimen financiero que se seguirá para las prestaciones médicas de los seg
 
 Para las pensiones del seguro de riesgos del trabajo y el seguro de jubilación, de retiro por edad y tiempo de servicios, invalidez, muerte e indemnización global y cesantía en edad avanzada, será el régimen financiero denominado de primas escalonadas.
 
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
 ###### Artículo 182.
 
-La constitución de las reservas actuariales será prioritaria sobre las financieras, con el fin de garantizar el pago de los compromisos de pensiones e indemnizaciones globales. Las reservas actuariales serán invertidas en las condiciones generales que proponga el Gobierno Federal por conducto de la Secretaría de Hacienda y Crédito Público.
+La Constitución de las reservas actuariales será prioritaria sobre las financieras, con el fin de garantizar el pago de los compromisos de pensiones, indemnizaciones globales, amortizaciones de créditos otortados (sic) a los trabajadores en los términos de las fracciones I y II del artículo 103 de esta Ley, y entrega de depósitos prevista en el artículo 112 de este propio ordenamiento.
+
+Las reservas actuariales serán invertidas en las condiciones generales que proponga el Gobierno Federal por conducto de la Secretaría de Hacienda y Crédito Público.
 
 ###### Artículo 183.
 
@@ -1747,3 +1809,9 @@ Artículo Décimo Primero.- A los trabajadores y familiares derechohabientes que
 México, D.F., a 15 de diciembre de 1983.- Raúl Salinas Lozano, S. P.- Luz Lajous, D. P.- Guillermo Mercado Romero, S. S.- Jorge Canedo Vargas, D. S.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciséis días del mes de diciembre de mil novecientos ochenta y tres.- Miguel de la Madrid Hurtado.- Rúbrica.- El Secretario de Relaciones Exteriores, Bernardo Sepúlveda Amor.- Rúbrica.- El Secretario de la Defensa Nacional, Juan Arévalo Gardoqui.- Rúbrica.- El Secretario de Marina, Miguel Angel Gómez Ortega.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Jesús Silva Herzog Flores.- Rúbrica.- El Secretario de Programación y Presupuesto, Carlos Salinas de Gortari.- Rúbrica.- El Secretario de la Contraloría General de la Federación, Francisco Rojas Gutiérrez.- Rúbrica.- El Secretario de Energía, Minas e Industria Paraestatal, Francisco Labastida Ochoa.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Héctor Hernández Cervantes.- Rúbrica.- El Secretario de Agricultura y Recursos Hidráulicos, Horacio García Aguilar.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Rodolfo Félix Valdés.- Rúbrica.- El Secretario de Desarrollo Urbano y Ecología, Marcelo Javelly Girard.- Rúbrica.- El Secretario de Educación Pública, Jesús Reyes Heroles.- Rúbrica.- El Secretario de Salubridad y Asistencia, Guillermo Soberón Acevedo.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Arsenio Farell Cubillas.- Rúbrica.- El Secretario de la Reforma Agraria, Luis Martínez Villicaña.- Rúbrica.- El Secretario de Turismo, Antonio Enríquez Savignac.- Rúbrica.- El Secretario de Pesca, Pedro Ojeda Paullada.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Ramón Aguirre Velázquez.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett Díaz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 7 DE FEBRERO DE 1985.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
