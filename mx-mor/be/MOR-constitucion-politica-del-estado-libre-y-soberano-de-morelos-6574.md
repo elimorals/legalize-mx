@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1977-09-07"
+last_updated: "1979-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 1979.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -206,7 +206,7 @@ DE LOS PODERES PUBLICOS.
 
 DE LA ELECCION Y CALIDAD DE LOS DIPUTADOS.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1979)</small>
 
 ###### Artículo 20.
 
@@ -226,25 +226,23 @@ Los Poderes Públicos residirán en la Ciudad de Cuernavaca; pero por causas gra
 
 DE LA INSTALACION DEL CONGRESO Y DE LOS PERIODOS DE SUS SESIONES.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1979)</small>
 
 ###### Artículo 23.
 
-El Poder Legislativo se deposita en una Asamblea que se denomina "CONGRESO DEL ESTADO DE MORELOS", compuesta por Diputados Electos por Sufragio Directo y se complementará, además, con Diputados de Partido, apegándose a los que disponga la Ley Electoral.
+El Poder Legislativo se deposita en una Asamblea que se denomina "Congreso del Estado de Morelos" integrada por Diputados electos cada 3 años, de acuerdo a las disposiciones de la Ley Electoral del Estado, y no podrán ser electos para el período inmediato, ni aún tratándose de distinto Distrito Electoral.
 
-I.- Los Diputados serán designados en su totalidad cada tres años, en los términos que dispone la Ley Electoral, y no podrán ser reelectos para el período inmediato ni aún tratándose de distinto Distrito Electoral.
+La Ley Electoral determinará la forma de participación de los Partidos Políticos en los procesos electorales conforme a las bases siguientes:
 
-En cuanto se refiere a Diputados de Partido, regirán las reglas siguientes:
+I.- Se reconoce la intervención de los partidos políticos en los procesos electorales, estatales y municipales y para ese fin, contarán en forma equitativa con representantes en el Congreso del Estado y en los Ayuntamientos, con garantías amplias para el sufragio popular y las actividades que les son propias.
 
-I.- Los Partidos Políticos Nacionales y Estatales, legalmente registrados en la Dirección de Gobernación del Estado, con un año de anterioridad al día de la elección, y que obtengan cuando menos el cinco por ciento de la votación total para la renovación de la Legislatura, tendrán derecho a que se les acredite como Diputados de Partido a uno de sus Candidatos;
+II.- El fin de los partidos políticos será el de promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan.
 
-II.- Cuando un Partido logre la mayoría en uno o más Distritos Electorales, no tendrá derecho a designar Diputado de Partido;
+III.- Para los procesos electorales, los partidos políticos deberán contar, en forma equitativa, con un mínimo de elementos para sus actividades tendientes a la obtención del sufragio popular.
 
-III.- El Diputado de Partido se acreditará en riguroso orden, de acuerdo con el porcentaje de votos que haya logrado en relación con los demás Candidatos del mismo partido;
+IV.- Los partidos políticos, en términos de la Ley respectiva, tendrán derecho a participar en las elecciones estatales y municipales.
 
-IV.- Los Diputados de Mayoría y los de Partido como representantes del pueblo tienen la misma categoría y, por lo tanto, iguales derechos e idénticas obligaciones.
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1979)</small>
 
 ### CAPITULO III.
 
@@ -262,21 +260,37 @@ DE LA INICIATIVA Y FORMACION DE LAS LEYES.
 
 ###### Artículo 24.
 
-Se elegirá un Diputado Propietario y un Suplente por cada 80,000 habitantes o fracción mayor de 40,000 correspondiendo cada uno de ellos a un Distrito Electoral Local.
+El Congreso del Estado estará integrado por doce diputados de mayoría relativa, mediante el sistema de distritos electorales uninominales, y por tres diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal. Por cada diputado propietario se elegirá un suplente.
 
-La Ley determinará el número de Distritos Electorales en que deba dividirse el Estado y la circunscripción de cada uno de ellos, de manera que el Congreso quede integrado por nueve Diputados, por lo menos.
+La Ley determinará la demarcación de cada uno de los distritos electorales uninominales.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
+La elección de los diputados conforme al prjncipio (sic) de representación proporcional y el sistema de listas regionales, se sujetará a las bases siguientes y a lo que en particular disponga la Ley:
+
+I.- Para obtener el registro de sus listas regionales, el partido que lo solicite, deberá acreditar que participa con candidatos a diputados de mayoría relativa en lo menos la tercera parte de los distritos electorales uninominales.
+
+II.- Tendrá derecho a que le sean atribuídos diputados electos según el principio de representación proporcional todo aquél partido que: a) no haya obtenido dos o más constancias de mayoría; y b), alcance por lo menos el 1.5% de total de la votación emitida para todas las listas regionales en las circunscripciones plurinominales.
+
+III.- Al partido que cumpla con los supuestos señalados en las fracciones que anteceden, les será asignado el número de diputados de su lista regional que corresponda al porcentaje de votos obtenidos en la circunscripción plurinominal de que se trate, la Ley determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación; en todo caso, en las asignaciones se seguirá el orden que tuvieren los candidatos en las listas correspondientes.
+
+IV.- En el caso de que dos o más partidos con derecho a participar en la distribución de las listas regionales obtengan en su conjunto 3 o más constancias de mayoría, solo será objeto de reparto el 50% de las curules que deben asignarse por el principio de representación proporcional.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1979)</small>
 
 ###### Artículo 25.
 
-Para ser Diputado Propietario o Suplente se requiere:
+Para ser diputado propietario o suplente se requiere:
 
 I.- Ser morelense por nacimiento.
 
-II.- Ser ciudadano del Estado en ejercicio de sus derechos.
+II.- Tener una residencia efectiva por más de un año anterior a la selección del Distrito que represente.
 
-III.- Haber cumplido veinticinco años de edad.
+III.- Ser ciudadano del Estado en ejercicio de sus derechos.
+
+IV.- Haber cumplido 21 años de edad.
+
+Para poder figurar en las listas de las circunscripciones electorales plurinominales como candidato a diputado, se requiere además de los requisitos comprendidos en las fracciones I, III y IV, tener una residencia efectiva por más de un año anterior a la fecha de la elección en alguno de los distritos que comprende la circunscripción electoral en la que se realice la elección.
+
+La vecindad no se pierde por ausencia en el desempeño de los cargos públicos de elección popular.
 
 ###### Artículo 26.
 
@@ -304,9 +318,11 @@ VII.- Los que hayan tomado parte directa o indirectamente en alguna asonada, mot
 
 VIII.- Los Ministros de cualquier culto.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1979)</small>
+
 ###### Artículo 27.
 
-Los individuos comprendidos en las fracciones I a la VI del artículo anterior, dejarán de tener la prohibición que en ellas se establece, siempre que se separen de sus respectivos encargos noventa días antes del señalado para la elección.
+Los individuos comprendidos en las fracciones de la I a la VI del Artículo anterior, dejarán de tener la prohibición que en ellas se establece, siempre que se separen de sus respectivos cargos cuarenta y cinco días antes del señalado para la elección.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -324,7 +340,7 @@ DE LA DIPUTACION PERMANENTE.
 
 ###### Artículo 30.
 
-Es facultad del Congreso calificar la elección de sus miembros, la que se hará en la forma siguiente: Los ciudadanos a quienes las Juntas Computadoras de las Cabeceras de Distrito Electoral, expidan credenciales por haber obtenido mayoría de votos para Diputados, instaladas en el Colegio Electoral, calificarán la validez o nulidad de las elecciones declarando quienes son Diputados. Esta declaración y todos los demás actos del Congreso en funciones de Colegio Electoral, son irrevocables.
+El Congreso del Estado calificará la elección de sus miembros a través de un Colegio Electoral integrado por cuatro presuntos diputados que de acuerdo con las constancias de mayoría que registre la Comisión local electoral hubieren obtenido mayor número de votos y por un presunto diputado que resultare electo en la circunscripción plurinominal que obtuviera la votación más alta.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -334,15 +350,25 @@ El Congreso no puede abrir sus Sesiones sin la concurrencia de más de la mitad 
 
 Transcurrido el plazo anterior sin que se hubieren presentado, se llamará al desempeño de la función, a los suplentes respectivos y si tampoco se presentaren dentro de un plazo de diez días, se convocará a elecciones, en los Distrito (sic) de que se trate.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1979)</small>
 
 ###### Artículo 32.
 
-El Congreso tendrá cada año dos períodos de Sesiones Ordinarias. El primero se iniciará el 4 de mayo y terminará el 14 de julio; el segundo empezará el 5 de octubre y concluirá el 31 de diciembre.
+El Congreso tendrá cada año, dos períodos de Sesiones ordinarias. El primero se iniciará el cuatro de mayo y terminará el 31 de agosto. El segundo empezará el 5 de octubre y concluirá el 31 de diciembre.
 
-En el primer período de Sesiones el Congreso se ocupará invariablemente, del examen, discusión y aprobación de la cuenta pública del año anterior, tanto del Estado como de los Municipios. En el segundo período se ocupará, preferentemente, del examen, discusión y aprobación de los presupuestos de egresos del Estado y de los Municipios, así como de las correspondientes leyes de ingresos decretando las contribuciones y percepciones necesarias para cubrir aquéllos.
+> <small>(F. DE E., P.O. 5 DE ENERO DE 1979)</small>
 
-Lo anterior se entiende, sin perjuicio de que el Congreso, en ambos períodos, desarrolle su actividad legislativa general y se ocupe de los demás asuntos que le competen conforme a esta Constitución.
+En el primer período de sesiones el Congreso se ocupará invariablemente del exámen, discusión y aprobación de la cuenta pública del año anterior, tanto del Estado como de los Municipios. Para este efecto, el Estado o los Municipios, presentarán al Congreso dentro de los primeros quince días del mes de marzo de cada año, la cuenta correspondiente al año anterior.
+
+En el segundo período se ocupará, preferentemente, del examen discusión y aprobación de los presupuestos de egresos del Estado y de los Municipios, así como de las correspondientes leyes de ingresos, decretando las contribuciones y percepciones necesarias para cubrir aquellos. Para su estudio y aprobación, en su caso, las leyes de ingresos y presupuestos de egresos del Estado y de los Municipios deberán presentarse a más tardar el día último del mes de octubre de cada año.
+
+Los Secretarios de Finanzas y de Programación y Presupuesto y los Regidores de Hacienda correspondientes, comparecerán al Congreso a dar cuenta de los mismos.
+
+> <small>(F. DE E., P.O. 5 DE ENERO DE 1979)</small>
+
+Los plazos de presentación de las leyes de ingresos, presupuestos de egresos y cuentas públicas a que se refiere este Artículo, sólo podrán ampliarse a solicitud del Ejecutivo o de los Presidentes Municipales, por causas plenamente justificadas a juicio del Congreso o de la Comisión Permanente, pero será obligación de los Secretarios de Finanzas y de Programación y Presupuesto o de los Regidores de Hacienda de los Municipios respectivamente, comparecer ante el Congreso, para informar las razones que los motiven.
+
+Lo anterior se entiende, sin perjuicio de que el Congreso, en ambos períodos desarrolle su actividad legislativa general y se ocupe de los demás asuntos que le compete conforme a esta Constitución.
 
 ###### Artículo 33.
 
@@ -358,17 +384,25 @@ Fuera de los períodos ordinarios de sesiones, el Congreso podrá celebrar sesio
 
 Las sesiones del Congreso tendrán el carácter de públicas o secretas, de acuerdo con lo que disponga el Reglamento Interior del mismo.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1979)</small>
+
 ###### Artículo 36.
 
-Los Diputados son inviolables por las opiniones que manifiesten en el desempeño de su cargo, y no podrán ser reconvenidos por ellas en ningún tiempo, ni por ninguna autoridad.
+Los diputados son inmunes por las opiniones que manifiesten en el desempeño de su cargo y no podrán ser reconvenidos por ellas en ningún tiempo, ni por ninguna autoridad.
+
+El Presidente del Congreso velará por el respeto debido al fuero constitucional de sus miembros, así como por la inviolabilidad del recinto parlamentario.
 
 ###### Artículo 37.
 
 Los Diputados que sin la licencia respectiva dejen de asistir hasta por el término de ocho sesiones consecutivas, no tendrán derecho de percibir las dietas correspondientes. Si la falta se prolongare por más tiempo sin justificarla, se llamará al suplente respectivo, quien deberá concurrir a las sesiones hasta la terminación del período en que ocurra la falta.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1979)</small>
+
 ###### Artículo 38.
 
-Las resoluciones del Congreso, tendrán el carácter de leyes, decretos o acuerdos económicos. Las leyes y decretos se remitirán al Ejecutivo firmados por el Presidente y los Secretarios, y los acuerdos económicos sólo por los Secretarios.
+Las resoluciones del Congreso tendrán el carácter de leyes, decretos o acuerdos económicos. Las leyes y decretos se remitirán al Ejecutivo firmados por el Presidente y los Secretarios, y los acuerdos económicos solo por los Secretarios.
+
+El Congreso expedirá la ley que en lo sucesivo regulará su estructura y funcionamiento interno, la cual no podrá ser vetada ni requerirá promulgación expresas (sic) del Ejecutivo Estatal para tener vigencia.
 
 ###### Artículo 39.
 
@@ -428,7 +462,9 @@ XII.- Suprimir alguno o algunos de los Municipios existentes, incorporándolos a
 
 XIII.- Decretar las contribuciones que deben formar la Hacienda Municipal, las que deben ser bastantes para cubrir las necesidades de los Municipios.
 
-XIV.- Autorizar la venta, hipoteca o cualquiera otro gravamen de bienes raíces del Estado o de los Municipios.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1979)</small>
+
+XIV.- Autorizar la venta, hipoteca o cualquiera otro gravámen de bienes raíces del Estado o de los Municipios, así como todos los actos o contratos que comprometen dichos bienes en uso o concesión en favor de particulares y de organismos públicos.
 
 XV.- Fijar, según las necesidades locales, el número máximo de Ministros de los cultos que puede permitirse en el Estado.
 
@@ -464,7 +500,7 @@ I.- Los trabajadores solo podrán ser suspendidos o cesados por causa justificad
 
 J.- Los trabajadores tendrán el derecho de asociarse para la defensa de sus intereses comunes. Podrán, asimismo, hacer uso del derecho de huelga previo el cumplimiento de los requisitos que determine la Ley, respecto de una o varias dependencias de los poderes públicos, cuando se violen de manera general y sistemático los derechos que este artículo les consagra.
 
-K.- La seguridad social se organizará conforme a las siguientes bases mínimas;
+K.- La seguridad social se organizará conforme a las siguientes bases mínimas:
 
 a).- Cubrirá los accidentes y enfermedades profesionales; las enfermedades no profesionales y maternidad; y la jubilación, la invalidez, vejez y muerte.
 
@@ -540,11 +576,21 @@ XLI.- Declarar sobre la culpabilidad de los mismos funcionarios, por los delitos
 
 XLII.- Resolver las controversias que se susciten entre el Ejecutivo y el Tribunal Superior de Justicia del Estado, y que no tengan el carácter de controversias de que deba conocer la Suprema Corte de Justicia de la Nación, conforme al artículo 105 de la Constitución Federal.
 
-XLIII.- Formar su Reglamento Interior y expedir el del Tribunal Superior de Justicia, a iniciativa del mismo.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1979)</small>
+
+XLIII.- Expedir el Reglamento del Tribunal Superior de Justicia, a iniciativa del mismo.
 
 XLIV.- Dictar las resoluciones o acuerdos económicos que estime pertinentes, relativos a su régimen interior.
 
-XLV.- Las demás que expresamente le confiere esta Constitución.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1979)</small>
+
+XLV.- Integrar, a solicitud de las dos terceras partes de sus miembros, comisiones que procedan a la investigación del funcionamiento de los organismos descentralizados y empresas de participación estatal mayoritarias, haciendo del conocimiento del Ejecutivo los resultados.
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 1979)</small>
+
+XLVI.- Revisar las cuentas públicas del gobierno del Estado y de los Municipios, cuando así lo aprueben las dos terceras partes de los miembros reunidos en la asamblea que lo determine.
+
+XLVII.- Las demás que expresamente le confiere esta Constitución.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -658,7 +704,7 @@ B.- Cuando sea necesario para el cumplimiento de alguna ley general.
 
 C.- En los casos de falta absoluta del Gobernador, o cuando tenga que separase de sus funciones por más de dos meses.
 
-D.- Cuando alguno de los funcionarios a que se refiere el artículo 40, fracción XL, hubiere cometido un delito grave; entendiéndose por tal el que sea castigado con la pena de prisión o la destitución del cargo.
+D.- Cuando alguno de los funcionarios a que se refiere el artículo 40, fracción XL, hubiere cometido un delito grave; entendiéndose por tal el que sea castigado con la pena de prisión o la de destitución del cargo.
 
 E.- Cuando lo pida el Ejecutivo del Estado.
 
@@ -952,11 +998,15 @@ III.- Tener la preparación necesaria a juicio del Gobernador del Estado, para e
 
 Los Decretos, Reglamentos y Acuerdos del Gobernador del Estado, deberán ser suscritos por el Secretario de Gobierno, exceptuándose de esta regla, los que se refieran a la Hacienda Pública que serán suscritos por el Secretario de Finanzas y los que se refieren a la promoción económica, gastos, aplicaciones y egresos en general, que serán suscritos por el Secretario de Programación y Presupuesto.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1979)</small>
 
 ###### Artículo 77.
 
-Los Secretarios del Estado, serán los órganos de comunicación por cuyo conducto hará saber el Gobernador sus resoluciones, y en su caso llevarán la voz de éste ante el Congreso, cuando el Gobernador o la Cámara lo juzguen oportuno.
+Los Secretarios del Estado, serán los órganos de comunicación por cuyo conducto hará saber el Gobernador sus resoluciones, y en su caso llevarán la voz de éste ante el Congreso, cuando el Gobernador o la cámara lo juzguen oportuno.
+
+Una vez abiertos los períodos extraordinarios de sesiones, los Secretarios del Estado, comparecerán ante el Congreso y darán cuenta del estado que guarden sus correspondientes Secretarías.
+
+En cualquier tiempo, tanto el Congreso como la Comisión Permanente podrán citar a los Secretarios del Estado, cuando se discute una Ley o se estudie un negocio relativo a su Secretaría, para que informen en relación con el mismo.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -1202,7 +1252,17 @@ XIII.- Suspender hasta por tres meses a los Jueces de Primera Instancia y a los 
 
 XIV.- Nombrar a los Jueces Municipales de Paz de las ternas propuestas por los Ayuntamientos.
 
-XV.- Ejercer las demás atribuciones que les señalen las Leyes.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1979)</small>
+
+XV.- Designar Magistrados o Jueces supernumerarios, a fin de obtener una justicia pronta y expedita.
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 1979)</small>
+
+XVI.- Designar a uno o más de sus miembros, a petición del Ejecutivo del Estado, a petición de un Presidente Municipal o de oficio, para que investigue la actuación de algún Magistrado o Juez, o de algún hecho o hechos que constituyen la violación de una garantía individual.
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1979)</small>
+
+XVII.- Ejercer las demás atribuciones que le señalen las leyes.
 
 ###### Artículo 100.
 
@@ -1312,13 +1372,15 @@ El Congreso del Estado expedirá las leyes Orgánicas y la de División Territor
 
 I.- La circunscripción geográfica de cada Municipio deberá establecerse de tal manera que la propia comunicación entre los poblados que lo compongan se integren de tal manera que formen una corporación con potencialidad económica y capacidad financiera suficientes para el mantenimiento del Gobierno propio y de los servicios públicos a su cargo.
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1979)</small>
 
-II.- Cada municipio deberá tener una población mayor de 10,000 habitantes que pueda llenar las condiciones a que se refiere la Fracción XI del Artículo 40 de esta Constitución.
+II.- Cada Municipio deberá tener una población mayor de 30 mil habitantes que pueda llenar las condiciones a que se refiere la fracción XI del Artículo 40 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1979)</small>
 
-III.- El Gobierno del Municipio se ejercerá por un Ayuntamiento de elección popular directa que se renovará en su totalidad cada 3 años, siendo el número de sus componentes proporcional al de sus habitantes, siempre impares y nunca menor de tres, nombrándose por cada regidor propietario un suplente. El período de ejercicio de los Ayuntamientos se iniciará el 1o. de junio del año que corresponda.
+III.- El Gobierno del Municipio se ejercerá por un Ayuntamiento de elección popular directa que se renovará en su totalidad cada 3 años, siendo el número de sus componentes proporcional al de sus habitantes siempre impares y nunca menor de tres, nombrándose por cada Regidor propietario un Suplente. El período de ejercicio de los Ayuntamientos se iniciará el 1o. de junio del año que corresponda.
+
+Los integrantes de los Ayuntamientos serán electos por el principio de mayoría relativa, adoptándose en los Municipios de Cuernavaca y Cuautla, el principio de Regidores de representación proporcional, en los términos que establezca la ley relativa a los procesos electorales del Estado.
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -1739,3 +1801,17 @@ Artículo Primero.- El presente Decreto entrara en vigor al día siguiente de su
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a las prescripciones contenidas en el presente Decreto.
 
 Artículo Tercero.- Remítase el presente Decreto al Ejecutivo del Estado para los efectos a que se refiere la Fracción XVII del Artículo 70 de la Constitución Política Local.
+
+P.O. 2 DE ENERO DE 1979.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Dentro del plazo de 30 días a partir de la vigencia del presente Decreto, se expedirá la Ley Electoral del Estado.
+
+###### ARTICULO TERCERO.
+
+Remítase el presente Decreto al Ejecutivo del Estado, para los efectos a que se refiere la fracción XVII del Artículo 70 de la Constitución Política Local.
