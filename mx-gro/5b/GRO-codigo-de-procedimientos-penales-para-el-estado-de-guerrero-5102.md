@@ -4,7 +4,7 @@ identifier: "GRO-codigo-de-procedimientos-penales-para-el-estado-de-guerrero-510
 country: "mx"
 rank: "codigo"
 publication_date: "1993-02-05"
-last_updated: "2002-05-28"
+last_updated: "2003-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUERRERO, NUMERO 357
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2003.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 5 de febrero de 1993.
 
@@ -553,11 +553,11 @@ Habrá caso urgente, cuando se trate de alguno de los delitos considerados como 
 
 En estos supuestos el Ministerio Público, bajo su responsabilidad, ordenará su detención, fundando y expresando los indicios que motivan su proceder. La orden de detención, que siempre será por escrito, deberá ser ejecutada por la policía judicial, la que sin dilación alguna, pondrá al detenido a disposición del Ministerio Público que la haya librado.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 70.
 
-Se califican como delitos graves para todos los efectos legales, los siguientes: homicidio, previsto en los Artículos 103, 104 y 108; secuestro, señalado por los Artículos 128 y 129; asalto contra un poblado, a que se refiere el Artículo 136; violación, señalado por los artículos 139 al 142; robo, contenido en el Artículo 163 fracción III, en relación con el 164; extorsión, previsto por el Artículo 174 segundo párrafo, cuando sea cometido por agentes policiales; ataque a los medios de transporte, previsto en el Artículo 206; rebelión, previsto en los artículos del 229 al 232, con excepción de la parte final del Artículo 230; terrorismo, previsto en el Artículo 234 en su primer párrafo, y sabotaje, previsto en el Artículo 235 fracciones I, II y III, todos del Código Penal Vigente.
+Se califican como delitos graves para todos los efectos legales, los siguientes: homicidio, previsto en los artículos 103, 104 y 108; y tercer párrafo del artículo 112; secuestro, señalado por los artículos 128 y 129; asalto contra un poblado, a que (sic) refiere el artículo 136; violación, contemplado por los artículos 139 al 142; robo, contenido en el artículo 163 fracción III, en relación con el 164; extorsión, previsto por el artículo 174 segundo párrafo, cuando sea cometido por agentes policiales; ataque a los medios de transporte, previsto en el artículo 206; rebelión, establecido en los artículos del 229 al 232, con excepción de la parte final del artículo 230; terrorismo, previsto en el artículo 234 en su primer párrafo, y sabotaje, tipificado en el artículo 235 fracción (sic) I, II y III, todos del Código Penal vigente.
 
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 2002)</small>
 
@@ -1608,5 +1608,9 @@ P.O. 19 DE OCTUBRE DE 2001.
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 28 DE MAYO DE 2002.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE DICIEMBRE DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
