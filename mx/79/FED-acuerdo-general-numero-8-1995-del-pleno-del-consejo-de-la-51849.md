@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-8-1995-del-pleno-del-consejo-de-la-51849
 country: "mx"
 rank: "acuerdo"
 publication_date: "1995-10-19"
-last_updated: "1998-04-21"
+last_updated: "1998-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1995-10-12"
 
 ACUERDO GENERAL NUMERO 8/1995, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ABRIL DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 1998.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 19 de octubre de 1995.
 
@@ -51,9 +51,15 @@ ACUERDO
 
 PRIMERO.- El Consejo de la Judicatura Federal contará con las comisiones permanentes que establece la ley y las que el mismo determine.
 
-SEGUNDO.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL ACUERDO GENERAL NUMERO 13/1998, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ABRIL DE 1998)
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 47/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 1998)</small>
+
+SEGUNDO.- Cada Comisión se formará por tres miembros designados por el Pleno del Consejo de la Judicatura Federal por mayoría calificada de cinco votos.
 
 TERCERO.- Las comisiones serán presididas por uno de sus miembros, el cual será electo por consenso el primer día hábil de enero de cada año, y durará un año en su encargo sin que pueda ser reelegido para el periodo inmediato siguiente.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 47/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 1998)</small>
+
+La integración de las comisiones, así como la elección de quien las presida, se hará, en forma excepcional, en la última sesión ordinaria del mes de diciembre de cada cuatro años, cuando coincida con la terminación del periodo que corresponde al Presidente de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal, y se respetará la forma de elección y tiempo de encargo a que se refiere el primer párrafo de este punto.
 
 CUARTO.- Las comisiones celebrarán sesiones ordinarias con la frecuencia que establezca el Reglamento Interior respectivo, y sesiones extraordinarias a las que convoque cualquiera de sus miembros. La convocatoria señalará el día y hora de las mismas y contendrá el orden del día con los asuntos a desahogar, debiéndose levantar el acta que contenga los acuerdos adoptados.
 
@@ -130,3 +136,9 @@ PRIMERO.- El presente Acuerdo General, entrará en vigor a los quince días sigu
 SEGUNDO.- La Contraloría del Poder Judicial de la Federación, presentará al Pleno del Consejo de la Judicatura Federal para su aprobación, en un plazo que no excederá del presente mes de abril, una propuesta de programa que comprenda las acciones necesarias para la entrega-recepción de los recursos asignados a la Secretaría Ejecutiva de Vigilancia.
 
 TERCERO.- Se deroga en la parte conducente, el punto SEGUNDO del Acuerdo General número 8/1995, del Pleno del Consejo de la Judicatura Federal, de fecha doce de octubre de mil novecientos noventa y cinco.
+
+D.O.F. 15 DE DICIEMBRE DE 1998.
+
+PRIMERO.- El presente Acuerdo entrará en vigor en la fecha de su aprobación.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
