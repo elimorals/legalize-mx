@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "1997-12-24"
+last_updated: "1998-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1998.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -2663,17 +2663,17 @@ V.- Arresto hasta por treinta y seis horas.
 
 Primero.- Se abroga el Código Municipal para el Estado de Chihuahua, que entró en vigor el 30 de septiembre de 1982.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
-Segundo.- Este Código entrará en vigor el día primero de enero de 1996, a excepción del Capítulo Tercero del Título Tercero, del Libro Segundo, referente el impuesto predial, el cual entrará en vigor el día primero de enero de 1998, a efecto de que los Municipios adecúen sus valores, en los términos de la Ley de Catastro, continuando vigente a este respecto durante 1996 y 1997, las disposiciones contenidas en el Código que se abroga.
+Segundo.- Este Código entrará en vigor el día primero de enero de 1996, a excepción del Capítulo Tercero, del Título Tercero, del libro Segundo, referente a el impuesto predial, el cual entrará en vigor el día primero de enero de 1999, a efecto de que los Municipios adecúen sus valores, en los términos de la Ley de Catastro, continuando vigentes a este respecto durante 1996, 1997 y 1998, las disposiciones contenidas en el Código que se abroga.
 
-En cuanto a las diferencias del impuesto a cargo de los contribuyentes, que resulten con motivo de la adecuación de valores y la aplicación de la nueva tarifa, se pagarán en un lapso de dos años, de la manera siguiente:
+En cuanto a las diferencias del impuesto a cargo de los contribuyentes, que resulten con motivo de la adecuación de valores y la aplicación de la nueva tarifa, se apegarán en un lapso de dos años, de la manera siguiente:
 
-I.- En 1998, el cincuenta por ciento de la diferencia; y,
+I.- En 1999, el cincuenta por ciento de la diferencia; y,
 
-II.- En 1999, el resto del total de la diferencia.
+II.- En el año 2000, el resto del total de la diferencia.
 
-Lo anterior, sin perjuicio de los incrementos acordados por el Ayuntamiento con carácter general, los que deriven de nuevas construcciones que aumente (sic) el valor de los inmuebles y aquellos que provengan de reformas a las disposiciones legales aplicables.
+Lo anterior, sin perjuicio de los incrementos acordados por el Ayuntamiento con carácter general, los que deriven de nuevas construcciones que aumentarán el valor de los inmuebles y aquellos que provengan de reformas a las disposiciones legales aplicables.
 
 Tercero.- Mientras no se expidan los nuevos reglamentos a que se refiere este Código, continuarán en vigor los que hasta la fecha se hubieran expedido en lo que no contravengan al presente Código.
 
@@ -2760,6 +2760,12 @@ Los comités de Vecinos integrados a la fecha de la entrada en vigor de la prese
 De no existir el Registro Interior, los Comités de Vecinos serán validados por los Ayuntamientos.
 
 P.O. 24 DE DICIEMBRE DE 1997.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE ENERO DE 1998.
 
 ###### ARTICULO UNICO.
 
