@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-para-el-gobierno-interior-de-la-legislatura-del-7336
 country: "mx"
 rank: "reglamento"
 publication_date: "1975-04-15"
-last_updated: "1982-01-01"
+last_updated: "1982-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7336&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA LEGISLATURA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 1982.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el martes 15 de abril de 1975.
 
@@ -119,11 +119,11 @@ Acto seguido el Presidente tomará asiento y bajo la misma fórmula tomará la p
 
 Igual protesta está obligado a rendir cada uno de los Diputados que se presentaren con posterioridad, previa calificación de la Legislatura de la elección correspondiente y dictamen de la Comisión que al efecto se nombre conforme al artículo 7 de este Reglamento.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE MAYO DE 1982)</small>
 
 ###### Artículo 12.
 
-Rendida la protesta, los Diputados procederán a la elección en escrutinio secreto y por mayoría de votos de un Presidente, un Vicepresidente y un Secretario, quienes pasarán a ejercer sus respectivos cargos.
+Rendida la protesta, los Diputados procederán a la elección en escrutinio secreto y por mayoría de votos de un Presidente, un Vicepresidente y un Secretario, quienes pasarán a ejercer sus respectivos cargos. En esta ocasión se elegirá también a un Secretario Suplente para los efectos del Artículo 16 de este Reglamento.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
 
@@ -153,11 +153,11 @@ De la Elección de la Mesa Directiva.
 
 Para la Celebración del Segundo Período Ordinario de sesiones y para los consecuentes de los dos años siguientes de ejercicio, deberá celebrarse una Junta Previa diez dias anteriores a la fecha de apertura, a fin de elegir un Presidente y un Vicepresidente para el primer mes de sesiones y en su caso, al Secretario, haciendo las comunicaciones señaladas por el Artículo 19.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1982)</small>
 
 ###### Artículo 16.
 
-El Secretario fungirá en su cargo, durante un año y se elegirá en la Junta Previa de cada primer Período Ordinario de Sesiones señalado en el artículo anterior.
+Al elegir al Secretario se elegirá también a un Secretario Suplente que lo sustituya en sus ausencias temporales.
 
 > <small>(REFORMADO PRIMER PARRAFO Y REUBICADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
 
@@ -297,9 +297,11 @@ Del Secretario.
 
 El Secretario ejercerá su cargo durante un año y podrá ser reelecto en todo tiempo si así lo acuerda la Legislatura.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1982)</small>
+
 ###### Artículo 26.
 
-La ausencia del Secretario será suplida por el diputado que se elija en esa sesión, pero si se convirtiese en falta injustificada de tres sesiones se eligirá (sic) a quien deba sustituirlo para el resto del ejercicio anual.
+Si el Secretario faltare injustificadamente a tres sesiones consecutivas será sustituido por el resto del ejercicio anual por el Secretario Suplente, eligiéndose a otro Suplente si el tiempo que faltare por concluír así lo amerita.
 
 ###### Artículo 27.
 
@@ -980,3 +982,13 @@ Este Reglamento comenzará a regir a partir de la fecha de su publicación en el
 P.O. 1 DE ENERO DE 1982.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE MAYO DE 1982.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+En la primera Sesión Ordinaria celebrada luego de entrar en vigor el presente Decreto se elegirá para el resto del Ejercicio Anual a un Secretario Suplente de conformidad a lo establecido por este Decreto.
