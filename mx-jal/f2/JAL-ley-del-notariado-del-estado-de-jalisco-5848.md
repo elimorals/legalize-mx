@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-notariado-del-estado-de-jalisco-5848"
 country: "mx"
 rank: "ley"
 publication_date: "1991-10-08"
-last_updated: "2002-04-18"
+last_updated: "2003-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2003 .
 
 Ley publicada en la Sección Segunda del Periódico del Estado de Jalisco, el martes 8 de octubre de 1991.
 
@@ -437,6 +437,10 @@ III. Fungir como árbitro o amigable componedor, a excepción de aquellas contro
 
 Los notarios en funciones podrán actuar sin necesidad de autorización expresa en los municipios que forman parte de la región notarial a la que pertenezca el municipio de su adscripción en los términos del artículo 177 de esta Ley.
 
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2003)</small>
+
+Cuando en alguna región no hubiere notario en ejercicio o habiéndolo la demanda del servicio notarial lo exigiere, los demás notarios del Estado, podrán actuar en ella, previa autorización que otorgue el Ejecutivo y por la temporalidad que ésta prevea, debiendo agregar dicha autorización a su libro de protocolo y relacionarla en todas sus actuaciones. Para esta situación, el o los notarios designados a cubrir la ausencia del notario ausente o faltante, se reputarán simultáneamente como notarios titulares de su municipio y región notarial, así como de la adscripción municipal de la región que estará cubriendo por falta temporal, del fedatario respectivo, pero deberán respetarse en lo conducente los principios establecidos en los artículos 9 y 23 de esta Ley.
+
 ###### Artículo 34.
 
 El Notario sólo podrá excusarse de prestar sus servicios, en los siguientes casos:
@@ -504,6 +508,10 @@ Las prohibiciones a que se refiere la fracción III que le sean aplicables al no
 ###### Artículo 36.
 
 Los instrumentos notariales, sólo podrán verse y, en su caso, obtener copia de los mismos por quienes aparezcan haber intervenido en ellos o justificaren representar los derechos de esas personas.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2003)</small>
+
+Así mismo, por mandamiento judicial que se otorgue a petición de cualquier interesado que acredite su interés jurídico, cuando dicho instrumento o copia de éste se requiera para el ejercicio de una acción legal e intentar en contra del contenido de dicho acto notarial.
 
 Tratándose de disposiciones testamentarias, después de la muerte del testador, podrán tener acceso al instrumento, el albacea, los herederos o legatarios y los autorizados por mandamiento judicial.
 
@@ -1003,7 +1011,15 @@ VIII. Cuando alguna palabra o frase resulte equivocada, se encerrará dentro de 
 
 En ambos casos, las palabras testadas o puestas entre renglones, se salvarán antes de las firmas;
 
-IX. Cuando se trate de enajenación o constitución de gravámenes sobre bienes inmuebles, insertará el certificado de libertad o gravamen, actualizado, el cual agregará al Libro de Documentos correspondiente, y
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE OCTUBRE DE 2003)</small>
+
+IX. Cuando se trate de enajenación o constitución de gravámenes sobre bienes inmuebles, insertará el certificado de libertad o de gravamen actualizado, el cual agregará al libro de documentos correspondiente, salvo cuando se trate de:
+
+a) Adjudicaciones en remate judicial o administrativo.
+
+b) Enajenaciones realizadas por los gobiernos federal, estatal o municipal a sus organismos descentralizados, dentro de los programas para la adquisición de vivienda popular y de regularización de la tenencia de la tierra; y
+
+c) Enajenaciones de inmueble resultantes de programas de regularización del suelo y su fraccionamiento, expedidas directamente por los ayuntamientos de la entidad o en asociaciones con particulares, en los términos estipulados por la Ley de Desarrollo Urbano del Estado de Jalisco.
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2002)</small>
 
@@ -2572,3 +2588,7 @@ NOVENO.- Los notarios que a la entrada en vigor del presente Decreto desempeñen
 DÉCIMO.- Los notarios suplentes que a la entrada en vigor del presente Decreto estén desempeñando un cargo público, deberán, en el plazo que establece el artículo cuarto transitorio, hacer su trámite para ser nombrado notarios titulares y, en su caso, solicitar licencia y una vez concluida ésta, deberán iniciar funciones como notarios dentro de los noventa días siguientes.
 
 DÉCIMO PRIMERO.- La función del Consejo de Notarios por el periodo de tres años a que se refiere el artículo 176 de la Ley, será aplicable al Consejo de Notarios que hubiere sido electo después de la entrada en vigor del presente Decreto.
+
+P.O. 30 DE OCTUBRE DE 2003.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
