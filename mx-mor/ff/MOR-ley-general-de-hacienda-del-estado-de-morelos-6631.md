@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-6631"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "1999-11-17"
+last_updated: "1999-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1999.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -2725,11 +2725,47 @@ ARTICULO 384 BIS 14.- Los vehículos adquiridos quedan afectos preferentemente a
 
 Las dependencias oficiales competentes y sus delegaciones, no tramitarán ninguna solicitud de alta, baja o traspaso de vehículos por los cuales no se hubiese pagado el impuesto en los términos establecidos en este capítulo.
 
-### CAPITULO PRIMERO. CONTRIBUCIONES DE COOPERACION PARA OBRAS PUBLICAS
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+### CAPITULO DECIMO SEPTIMO. DEL IMPUESTO SOBRE LA PRESTACION DE SERVICIOS DE HOSPEDAJE
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 384 BIS 15.- Son sujetos del Impuesto sobre Hospedaje, las personas jurídico-individuales o jurídico-colectivas (personas físicas o morales) que presten servicio de hospedaje en el Estado de Morelos.
+
+Aquellos sujetos que presten servicio de hospedaje estarán obligados a la retención y entero del impuesto.
+
+Para los efectos de este impuesto se consideran servicios de hospedaje, la prestación de alojamiento o albergue temporal de personas mediante el pago de un precio determinado, dentro de los que quedan comprendidos los servicios prestados por hoteles, moteles, campamentos, paraderos de casas rodantes y de tiempo compartido.
+
+No se considerarán servicios de hospedaje, el albergue o alojamiento prestados por hospitales, clínicas, asilos, conventos, seminario e internados.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 384 BIS 16.- El impuesto a que se refiere este Capítulo se causará al momento en que se perciban las cantidades recibidas por los servicios de hospedaje, incluyendo depósitos, anticipos, gastos de toda clase, reembolsos, intereses normales o moratorios, penas convencionales y cualquier otro concepto.
+
+Cuando los contribuyentes convengan la prestación de servicios de hospedaje e incluyan servicios accesorios, tales como transportación, comida, uso de instalaciones, u otros similares y no desglosen y comprueben la prestación de estos últimos, se entenderá que el valor respectivo corresponde a servicios de hospedaje.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 384 BIS 17.- Los contribuyentes además de cumplir con las obligaciones señaladas en el Código Fiscal para el Estado de Morelos, deberán cumplir con las siguientes:
+
+I.- Empadronarse ante la Secretaría de Hacienda del Estado, en las oficinas que para ello autorice, dentro de los quince días hábiles siguientes a la fecha de iniciación de actividades, haciendo uso de las formas oficialmente aprobadas, con los datos que en ellas se exijan y señalando domicilio en el Estado.
+
+II.- Presentar los avisos y cumplir con las obligaciones que se señalan en el Capítulo III del Título II del Código Fiscal para el Estado de Morelos, en los casos de cambio de nombre, denominación o razón social, clausura, fusión, escisión, liquidación o transformación de personas morales, suspensión o reanudación de actividades u obligaciones, o cualquiera otra circunstancia que modifique los datos aportados por el contribuyente contenidos en los formatos oficiales de empadronamiento, dentro de los diez días siguientes a la fecha en que se realice dicho cambio.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 384 BIS 18.- Los contribuyentes calcularán el impuesto de la prestación de servicios de hospedaje aplicando la tasa del 2% al total del valor de las cantidades recibidas por concepto de servicios de hospedaje y deberán pagarlo mediante declaración que se presentará tomando en cuenta lo siguiente:
+
+I.- El impuesto se calculará por ejercicios fiscales, presentando la declaración anual en el primer bimestre del siguiente año. Los pagos provisionales se acreditarán en la declaración anual.
+
+II.- Los contribuyentes deberán realizar pagos bimestrales provisionales a cuenta del impuesto anual a pagar dentro de los diez primeros días hábiles de los meses de enero, marzo, mayo, julio, septiembre y noviembre, mediante una declaración que contenga los datos relativos a los pagos objeto de este impuesto realizados en el bimestre inmediato anterior.
+
+III.- Los contribuyentes presentarán sus declaraciones y efectuarán el entero del impuesto en las oficinas autorizadas por la Secretaría de Hacienda Estatal.
 
 ## TITULO TERCERO. DE LAS CONTRIBUCIONES ESPECIALES
 
-### CAPITULO SEGUNDO. CONTRIBUCIONES ESPECIALES PARA OBRAS DE PLANIFICACION
+### CAPITULO PRIMERO. CONTRIBUCIONES DE COOPERACION PARA OBRAS PUBLICAS
 
 ###### ARTICULO 385.
 
@@ -2809,9 +2845,7 @@ La Dirección de Contribuciones Estatales o la Tesorería Municipal correspondie
 
 D.- (sic) En los casos de fraccionamientos, condominios, conjuntos habitacionales, divisiones y subdivisiones, la cuota de cooperación será de $3,000.00 por cada lote, condominio, departamento, división y subdivisión que acuerde la Dirección General de Fraccionamientos, Condominios y Conjuntos Habitacionales.
 
-### CAPITULO PRIMERO. DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
-
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+### CAPITULO SEGUNDO. CONTRIBUCIONES ESPECIALES PARA OBRAS DE PLANIFICACION
 
 ###### ARTICULO 386.
 
@@ -3087,7 +3121,7 @@ No habrá exención alguna de las contribuciones especiales que esta Ley estable
 
 ## TITULO CUARTO. DE LOS DERECHOS
 
-### CAPITULO SEGUNDO. POR REGISTRO PUBLICO DEL COMERCIO
+### CAPITULO PRIMERO. DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
@@ -3301,7 +3335,7 @@ VII.- Los instrumentos jurídicos, bien sean públicos o privados, que otorguen 
 
 Por Vivienda de Interés Social o Popular se entenderá lo preceptuado en el artículo 170, fracción I, último párrafo de esta misma Ley.
 
-### CAPITULO TERCERO. POR REGISTRO DE CONTRATOS DE ARRENDAMIENTO Y OTROS CONTRATOS RELATIVOS A INMUEBLES
+### CAPITULO SEGUNDO. POR REGISTRO PUBLICO DEL COMERCIO
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
@@ -3419,7 +3453,7 @@ V.- Están exentos del pago de los derechos que establece este capítulo: la Fed
 
 VI.- La consulta a los libros del Registro Público de Comercio, dentro del horario autorizado, causará un día de salario.
 
-### CAPITULO CUARTO. DEL REGISTRO DE TITULOS PROFESIONALES, EXPEDICIÓN DE CEDULAS Y CONEXOS
+### CAPITULO TERCERO. POR REGISTRO DE CONTRATOS DE ARRENDAMIENTO Y OTROS CONTRATOS RELATIVOS A INMUEBLES
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
@@ -3445,9 +3479,9 @@ II.- Los actos, contratos y convenios no incluidos en la fracción anterior 1
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE ENERO DE 1990)</small>
 
-### CAPITULO QUINTO. DE LOS DERECHOS POR SERVICIOS DE CONTROL VEHICULAR
+### CAPITULO CUARTO. DEL REGISTRO DE TITULOS PROFESIONALES, EXPEDICIÓN DE CEDULAS Y CONEXOS
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 421.
 
@@ -3517,9 +3551,9 @@ Están exentos del pago de derechos, los profesores que ejerzan su actividad, ú
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 28 DE FEBRERO DE 1986)</small>
 
-### CAPITULO SEXTO. POR SERVICIOS DE SALUD
+### CAPITULO QUINTO. DE LOS DERECHOS POR SERVICIOS DE CONTROL VEHICULAR
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 424.
 
@@ -3527,69 +3561,101 @@ Los servicios de control vehicular se causarán y pagarán conforme a la siguien
 
 I.- Licencias.
 
-1.- Expedición y reexpedición con vigencia de 5 años
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-A) Para chofer N$ 64.40
+1.- Expedición:
 
-B) Para automovilista N$ 42.80
+1.1.- Con vigencia de un año
 
-C) Motociclista N$ 23.20
+a).- Para chofer $110.00
 
-D) Turista N$ 36.80
+b).- Para automovilista $77.00
 
-2.- Resello anual:
+c).- Motociclista $54.00
 
-A) Para chofer N$ 22.80
+d).- Turista $110.00
 
-B) Automovilista N$ 19.60
+1.2.- Con vigencia de tres años
 
-C) Motociclista N$ 9.60
+a).- Para chofer $265.00
 
-3.- Por la expedición provisional para manejar a menores:
+b).- Para automovilista $186.00
 
-A) Automovilistas N$ 18.40
+c).- Motociclista $130.00
 
-B) Motociclista N$ 9.60
+1.3.- Con vigencia de cinco años
 
-C) Turistas N$ 9.60
+a).- Para chofer $385.00
+
+b).- Para automovilista $270.00
+
+c).- Motociclista $189.00
+
+2.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+3.- Para la expedición provisional para manejar por un año a menores:
+
+a).- Automovilistas $ 77.00
+
+b).- Motociclistas $ 54.00
 
 4.- Seguro de vida: tarifa de acuerdo con lo que se convenga con la compañía aseguradora.
 
-II.- Expedición de placas, calcomanías y tarjetas de circulación.
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-1.- Auto particular N$ 80.00
+5.- Reposición:
 
-2.- Camión particular N$ 80.00
+a).- Chofer $ 88.00
 
-3.- Remolque con capacidad de más de dos toneladas N$ 133.60
+b).- Automovilista $ 62.00
 
-4.- Remolque con capacidad de hasta dos toneladas N$ 80.00
+c).- Motociclista $ 43.00
 
-5.- Demostradoras N$ 180.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-6.- Transporte escolar N$ 73.60
+II.- POR EXPEDICIÓN DE PLACAS, TARJETAS DE CIRCULACIÓN Y ENGOMADO
 
-7.- Motocicletas N$ 45.60
+A).- Servicio particular:
 
-8.- Vehículos servicio público:
+1.- Auto o camión particular:
 
-A) Automóvil de servicio público N$ 153.60
+a).- Placas $120.00
 
-B) Combi de servicio público N$ 153.60
+b).- Tarjeta de circulación $ 50.00
 
-C) Van de servicio público N$ 153.60
+c).- Engomado $ 50.00
 
-D) Microbús de servicio público N$ 153.60
+2.- Demostradoras 500.00
 
-E) Combis de patrimonio comunal N$ 153.60
+3.- Remolque:
 
-F) Camión materialista N$ 133.60
+a).- Placas $120.00
 
-G) Camión de carga en general N$ 133.60
+b).- Engomado $ 50.00
 
-H) Camión de pasajeros urbano y sub-urbanos N$ 156.40
+4.- Motocicletas:
 
-I) Bicicletas N$ 18.40
+a).- Placas $120.00
+
+b).- Tarjeta de Circulación $50.00
+
+B).- Servicio Público:
+
+1.- Vehículos de servicio público:
+
+a).- Placa $250.00
+
+b).- Tarjeta de circulación $100.00
+
+2.- Remolque:
+
+a).- Placa $250.00
+
+b).- Engomado $100.00
+
+3.- Por reposición o sustitución de placas para el servicio público $250.00
 
 III.- Refrendo anual de tarjetas de circulación y engomado.
 
@@ -3721,17 +3787,7 @@ D) Con cuatro giros N$ 547.20
 
 E) Con cinco giros N$ 659.20
 
-3.- Expedición para camiones de carga con conversión.
-
-A) Con un giro N$ 174.40
-
-B) Con dos giros N$ 252.80
-
-C) Con tres giros N$ 331.20
-
-D) Con cuatro giros N$ 404.80
-
-E) Con cinco giros N$ 510.40
+3.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
 
 4.- Servicio de control vehicular para circular sin placas y sin tarjeta de circulación.
 
@@ -3779,7 +3835,7 @@ X.- Infracciones.
 
 De N$ 15.00 a N$ 3,500.00
 
-XI.- Revisión mecánica semestral N$ 36.80
+XI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
 
 XII.- Expedición de:
 
@@ -3799,7 +3855,7 @@ XIII.- Depósito y arrastre de vehículos.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE ENERO DE 1990)</small>
 
-### CAPITULO SEPTIMO. POR LEGALIZACION DE FIRMAS, CERTIFICADOS, CERTIFICACIONES Y COPIAS CERTIFICADAS
+### CAPITULO SEXTO. POR SERVICIOS DE SALUD
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
@@ -4207,7 +4263,7 @@ b).- Auxiliar del servicio 1.0 a 2.0.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE ENERO DE 1990)</small>
 
-### CAPITULO OCTAVO. POR LOS SERVICIOS CATASTRALES
+### CAPITULO SEPTIMO. POR LEGALIZACION DE FIRMAS, CERTIFICADOS, CERTIFICACIONES Y COPIAS CERTIFICADAS
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
@@ -4283,7 +4339,9 @@ Los certificados, certificaciones y copias certificadas que expidan las Dependen
 
 Los certificados de insolvencia no causarán los derechos fijados en la tarifa.
 
-### CAPITULO NOVENO. POR APROBACION, AUTORIZACION Y SUPERVISION DE FRACCIONAMIENTOS, CONDOMINIOS Y CONJUNTOS HABITACIONALES
+### CAPITULO OCTAVO. POR LOS SERVICIOS CATASTRALES
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 433.
 
@@ -4467,9 +4525,7 @@ Los avalúos practicados por la Dirección del Catastro a solicitud de parte int
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE NOVIEMBRE DE 1999)</small>
 
-### CAPITULO DECIMO. POR SERVICIOS DE ARCHIVO Y NOTARIALES
-
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+### CAPITULO NOVENO. POR APROBACION, AUTORIZACION Y SUPERVISION DE FRACCIONAMIENTOS, CONDOMINIOS Y CONJUNTOS HABITACIONALES
 
 ###### ARTICULO 436.
 
@@ -4485,7 +4541,7 @@ Los avalúos practicados por la Dirección del Catastro a solicitud de parte int
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE ENERO DE 1990)</small>
 
-### CAPITULO DECIMO PRIMERO. POR DERECHOS DE INSCRIPCION DE AGRUPACIONES
+### CAPITULO DECIMO. POR SERVICIOS DE ARCHIVO Y NOTARIALES
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
@@ -4551,7 +4607,9 @@ o inexistencia de testamento 5
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE ENERO DE 1990)</small>
 
-### CAPITULO DECIMO SEGUNDO. DE LOS SERVICIOS DE SUPERVISION DE LA SECRETARIA DE LA CONTRALORIA DEL ESTADO
+### CAPITULO DECIMO PRIMERO. POR DERECHOS DE INSCRIPCION DE AGRUPACIONES
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 440.
 
@@ -4568,6 +4626,16 @@ II.- Por la inscripción de cada acta que
 tenga modificaciones de los estatutos. 5
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE ENERO DE 1990)</small>
+
+### CAPITULO DECIMO SEGUNDO. DE LOS SERVICIOS DE SUPERVISION DE LA SECRETARIA DE LA CONTRALORIA DEL ESTADO
+
+#### SECCIÓN ÚNICA
+
+ARTICULO 440 BIS.- Por el servicio de Vigilancia, Inspección y Control que las Leyes de la materia encomiendan a la Secretaría de la Contraloría General del Estado, los contratistas con quienes se celebren contratos de obra pública y de servicios relacionados con la misma, pagarán un derecho equivalente al cinco al millar sobre el importe de cada uno de las estimaciones de trabajo.
+
+Las Oficinas Pagadoras de las Dependencias de la Administración Pública Estatal, al hacer el pago de las estimaciones de obra, retendrán el importe del derecho a que se refiere el párrafo anterior.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE ENERO DE 1990)</small>
 
 ### CAPITULO DECIMO TERCERO. DE LOS SERVICIOS DE POLICIA BANCARIA Y AUXILIAR
 
@@ -4618,14 +4686,6 @@ B) Riesgo medio: los servicios prestados en jornada nocturna y en losque (sic) s
 C) Riesgo alto: se consideran los servicios prestados en los lugares enlos (sic) que se resguardan valores, paralos (sic) que sea indispensable portar armamento en turnos diurnos y nocturnos.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 16 DE DICIEMBRE DE 1992)</small>
-
-#### SECCIÓN ÚNICA
-
-ARTICULO 440 BIS.- Por el servicio de Vigilancia, Inspección y Control que las Leyes de la materia encomiendan a la Secretaría de la Contraloría General del Estado, los contratistas con quienes se celebren contratos de obra pública y de servicios relacionados con la misma, pagarán un derecho equivalente al cinco al millar sobre el importe de cada uno de las estimaciones de trabajo.
-
-Las Oficinas Pagadoras de las Dependencias de la Administración Pública Estatal, al hacer el pago de las estimaciones de obra, retendrán el importe del derecho a que se refiere el párrafo anterior.
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE ENERO DE 1990)</small>
 
 ### CAPITULO DECIMO CUARTO. POR LOS SERVICIOS DE LA DIRECCION ESTATAL DEL REGISTRO CIVIL
 
@@ -4695,13 +4755,11 @@ A) Ordinarias 1.5
 
 B) Urgentes 2.0
 
+## TITULO QUINTO. DE LOS PRODUCTOS
+
 ### CAPITULO I (SIC)
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
-
-## TITULO QUINTO. DE LOS PRODUCTOS
-
-### CAPITULO II (SIC). REDITOS DE CAPITALES IMPUESTOS
 
 ###### ARTICULO 441.
 
@@ -4757,15 +4815,13 @@ Los ingresos por productos, derivados del arrendamiento, uso o explotación de b
 
 Las utilidades por acciones y participaciones en sociedad o empresas, el rendimiento por otras inversiones en sociedades o empresas, el rendimiento por otras inversiones en créditos y valores, y las recuperaciones e inversiones en acciones, créditos y valores, se considerarán productos en su calidad de ingresos financieros del Estado, y su captación, manejo y administración será llevada a cabo por la secretaría de programación y finanzas, con base en la línea de política económica que dicte el ejecutivo del Estado.
 
-### CAPITULO III (SIC). PRODUCTOS DE PUBLICACIONES
-
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+### CAPITULO II (SIC). REDITOS DE CAPITALES IMPUESTOS
 
 ###### ARTICULO 446.
 
 Cada año, durante el mes de enero, la Secretaría de Finanzas, Presentará al Jefe del Ejecutivo, un estado de todos los capitales, cualquiera que sea su origen, que se le deuden (sic), ya sea por obligación personal, hipotecarios o por cualquier otro título con expresión de los réditos que no hayan sido satisfechos, nombre de los deudores, fincas o garantías afectadas al pago y obligaciones de plazo cumplido.
 
-### CAPITULO CUARTO. ALMACENAJE
+### CAPITULO III (SIC). PRODUCTOS DE PUBLICACIONES
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
@@ -4835,7 +4891,7 @@ palabra $200.00
 
 El monto de los productos no especificados, se determinará por la Secretaría de Programación y Finanzas.
 
-### CAPITULO UNICO
+### CAPITULO CUARTO. ALMACENAJE
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
@@ -4868,6 +4924,10 @@ Las cuotas de almacenaje que establece este capítulo deberán pagarse anticipad
 ## TITULO SEXTO. APROVECHAMIENTOS
 
 > <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 454.
 
@@ -5074,3 +5134,23 @@ PRIMERO.- Aprobado que sea el presente Decreto, túrnese al Titular del Poder Ej
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
 
 TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 1999.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor, al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+El Capítulo Decimoséptimo a que se refiere este Decreto iniciará su vigencia el día primero de enero del año dos mil.
+
+###### ARTÍCULO SEGUNDO.
+
+Para la aplicación de lo dispuesto en el Capítulo Decimoséptimo a que se refiere este Decreto, el Ejecutivo Estatal dispone de treinta días hábiles a partir de la fecha de publicación del presente, para expedir y publicar las disposiciones administrativas que regulen la operación y los procedimientos para la presentación de las declaraciones correspondientes.
+
+###### ARTÍCULO TERCERO.
+
+A los contribuyentes tenedores de licencias para conducir expedidas con anterioridad que estén al corriente en el pago de los resellos respectivos a la fecha de iniciación de la vigencia del presente Decreto y se presenten a solicitar el resello de las mismas, se les deberá expedir una licencia nueva con el costo de acuerdo a las tarifas que establece este Decreto.
+
+###### ARTÍCULO CUARTO.
+
+A los contribuyentes tenedores de licencias para conducir expedidas con anterioridad que presenten adeudos en el pago de los resellos respectivos, deberán cubrir el importe de los resellos adeudados de conformidad a las tarifas existentes en los ejercicios correspondientes, sin ninguna sanción o accesorios siempre y cuando cubran el importe antes del 22 de diciembre del año 2000. Estos contribuyentes deberán solicitar la expedición de una licencia nueva con el costo de las tarifas que establece este Decreto.
