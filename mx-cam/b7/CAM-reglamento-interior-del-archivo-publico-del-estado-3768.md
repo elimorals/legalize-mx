@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-del-archivo-publico-del-estado-3768"
 country: "mx"
 rank: "reglamento"
 publication_date: "1944-03-14"
-last_updated: "1944-03-14"
+last_updated: "1997-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 REGLAMENTO INTERIOR DEL ARCHIVO PUBLICO DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL ARCHIVO GENERAL DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 13 DE AGOSTO DE 1997, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 14 de marzo de 1944.
 
@@ -274,3 +276,13 @@ Dado en el Palacio del Poder Ejecutivo del Estado, en Campeche, a los once días
 - El Gobernador Constitucional del Estado, Lic. Eduardo J. Lavalle Urbina.
 
 - El Secretario General de Gobierno, Lic. Fernando Berrón Ramos.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 13 DE AGOSTO DE 1997.
+
+Primero.- La presente ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se abrogan el decreto número 67, expedido el 5 de abril de 1941, por la XXXVI Legislatura del H. Congreso del Estado, mediante el cual se estableció el Archivo Público del Estado, y el Reglamento Interior del mismo Archivo expedido por el Ejecutivo del Estado el 11 de marzo de 1944; y se derogan todas las demás disposiciones legales y reglamentarias en lo que se opongan al contenido de este decreto.
+
+Tercero.- Se faculta al Gobernador del Estado para que, dentro de un plazo no mayor de noventa días, expida el Reglamento de esta ley, siendo entre tanto aplicables las disposiciones del reglamento que se abroga, en lo que no se opongan a esta ley.
