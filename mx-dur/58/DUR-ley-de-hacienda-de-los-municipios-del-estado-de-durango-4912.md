@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-de-los-municipios-del-estado-de-durango-4912"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-06"
-last_updated: "1991-01-31"
+last_updated: "1992-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 1992.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 6 de marzo de 1988.
 
@@ -1839,9 +1839,19 @@ El servicio de limpia en los Municipios del Estado, estará a cargo de las Autor
 
 Causan al derecho por servicio de limpia, los propietarios o poseedores de los predios edificados o no edificados, ubicados dentro de los perímetros urbanos correspondientes a cada municipio.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1992)</small>
+
 ###### ARTICULO 141.
 
-El derecho por el servicio de limpia se pagará a razón de I al millar anual, sobre el valor fiscal tratándose de predios urbanos y dentro de los primeros quince días de enero de cada año. En caso de valores fiscales superiores a $500,000.00 el pago podrá hacerse por bimestre dentro de los primeros quince días de los meses de Enero, Marzo, Mayo, Julio, Septiembre y Noviembre.
+El derecho por el servicio de limpia se pagará a razón de 2 al millar anual sobre el valor fiscal tratándose de predios urbanos y dentro de los primeros días de cada año. En caso de valores fiscales superiores a $500,000.00 (QUINIENTOS MIL PESOS) el pago podrá hacerse por bimestre dentro de los primeros quince días de los meses de Enero, Marzo, Mayo, Julio, Septiembre y Noviembre.
+
+En el caso de negativa, previa notificación por escrito a los propietarios de los predios baldíos y como medida de salud y seguridad, el municipio se vea obligado a realizar la limpieza de lotes baldíos, los propietarios pagarán dicho servicio de acuerdo a la tarifa siguiente:
+
+0.05 salarios mínimos por metro cuadrado el predio objeto de limpia y
+
+1.5 salarios mínimos por metro cúbico de basura acarreado para su disposición.
+
+El pago del (sic) de derechos establecidos en el párrafo anterior deberá realizarse, dentro de los quince (15) días siguientes a la fecha de su notificación de conformidad a la forma que define el Código Fiscal Municipal.
 
 ###### ARTICULO 142.
 
@@ -2993,11 +3003,11 @@ POR SERVICIO PUBLICO DE ILUMINACION.
 
 Son contribuyentes del derecho de iluminación pública en las calles, plazas, parques, jardines y demás lugares de uso común, los usuarios de las tarifas de la Comisión Federal de Electricidad 1, 1B, 1C, 2, 3, 8 y 12 publicadas, en el Diario Oficial de la Federación del día 31 de diciembre de 1986 y las que se lleguen a decretar.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 209.
 
-La tasa para determinar el monto de derecho de Servicio Público de Iluminación, será del 4% en las tarifas 1, 1A, 1B, 1C, 2 y 3 del 7% en las tarifas 8 y 12 y otras tarifas que establezca la Comisión Federal de Electricidad, las tasas de derecho de aplicación sobre la base del resultado de la aplicación de los factores de utilización de las cargas instaladas en las tarifas anteriormente mencionadas.
+La tasa para determinar el monto de servicio público de iluminación será de un 6% en las tarifas 1, 2, y 3 y del 5% en las tarifas 1A, 1B y 1C, del 10% en las tarifas 8 y 12 y otras tarifas que establezca la Comisión Federal de Electricidad. Las tasas de derecho de aplicación sobre la base del resultado de la aplicación de los factores de utilización de las cargas instaladas en las tarifas anteriormente mencionadas.
 
 ###### ARTICULO 210.
 
@@ -3278,3 +3288,9 @@ P.O. 31 DE ENERO DE 1991.
 ###### ARTICULO PRIMERO.
 
 El presente Decreto entrará en vigor e (sic) 1o. de Enero de 1991.
+
+P.O. 26 DE ENERO DE 1992.
+
+PRIMERO.- El presente Decreto entrará en vigor el 1o. de Enero de 1992.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
