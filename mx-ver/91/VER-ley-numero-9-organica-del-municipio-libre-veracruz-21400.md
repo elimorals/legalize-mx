@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2004-08-24"
+last_updated: "2004-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE NOVIEMBRE DE 2004.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -1166,6 +1166,10 @@ i) Notificar a los interesados, por medio de la cédula catastral, el resultado 
 j) Recibir y, en su caso, turnar a la autoridad competente, para su resolución, los escritos de interposición del recurso administrativo de revocación que, en materia catastral, presenten los interesados;
 
 k) Turnar periódicamente a la autoridad catastral del Estado toda modificación a los registros catastrales, conforme a lo establecido en la ley de la materia;
+
+> <small>(ADICIONADO, G.O. 4 DE NOVIEMBRE DE 2004)</small>
+
+l) Elaborar y mantener actualizado un padrón de terrenos baldíos, ubicados dentro de las zonas urbanas y suburbanas del Municipio;
 
 XX. Abstenerse de hacer pago o firmar orden de pago alguna que no esté autorizado conforme a lo previsto por esta ley y las disposiciones presupuestales aplicables;
 
@@ -2346,3 +2350,9 @@ G.O. 24 DE AGOSTO DE 2004.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial del estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 4 DE NOVIEMBRE DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
