@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-penales-del-estado-de-campeche-3386"
 country: "mx"
 rank: "codigo"
 publication_date: "1975-12-09"
-last_updated: "1975-12-16"
+last_updated: "1986-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 1986.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el martes 9 de diciembre de 1975.
 
@@ -1705,9 +1705,11 @@ V.- Todos los datos que arroje la averiguación, que hagan probable la responsab
 
 VI.- Los nombres del juez que dicte la determinación y del secretario que la autorice.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1986)</small>
+
 ###### Artículo 321.
 
-Cuando el delito cuya existencia se haya comprobado no merezca pena corporal, o esté sancionado con pena alternativa, se dictará auto con todos los requisitos del de formal prisión, sujetando a proceso a la persona contra quien aparezcan datos suficientes para presumir su responsabilidad, para el solo efecto de señalar el delito por el cual se siga el proceso.
+Cuando el delito cuya existencia se haya comprobado no merezca pena corporal, o mereciéndola ésta no exceda de un año, o esté sancionado con pena alternativa, se dictará auto con todos los requisitos del de formal prisión, sujetando a proceso a la persona contra quien aparezcan datos suficientes para presumir su responsabilidad, para el solo efecto de señalar el delito por el cual se siga el proceso.
 
 ###### Artículo 322.
 
@@ -2916,3 +2918,13 @@ POR SU IMPORTANCIA SE TRANSCRIBE EL ARTICULO UNICO DEL DECRETO.
 ###### ARTICULO UNICO.
 
 Los Código Penal y de Procedimientos Penales del Estado, a que se ha hecho mención, comenzarán a regir el día 2 de enero de 1976.
+
+P.O. 9 DE OCTUBRE DE 1986.
+
+###### ARTICULO PRIMERO.
+
+Este decreto entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan a lo dispuesto por este decreto.
