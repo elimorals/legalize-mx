@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-22748"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-11-08"
-last_updated: "2004-11-30"
+last_updated: "2005-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 2005.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el jueves 8 de noviembre de 2001.
 
@@ -57,9 +57,41 @@ Las entidades paraestatales, forman parte de la Administración Pública del Est
 
 Para el despacho de los asuntos que competan al Poder Ejecutivo, el Gobernador del Estado se auxiliará de las dependencias y entidades que señalen la Constitución Política del Estado, la presente Ley, y las demás disposiciones jurídicas relativas vigentes.
 
-###### ARTICULO 4º.
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2005)</small>
 
-El Gobernador del Estado se auxiliará directamente de las siguientes unidades de apoyo: Secretaría Particular, Secretaría Privada, Dirección de Atención a la Ciudadanía y Giras, Dirección General de Información, Dirección General de Difusión Institucional, Representación en el Distrito Federal y la Unidad de Modernización y Desarrollo Informático. Además contará con las unidades administrativas necesarias para administrar programas especiales y de asesoría que requiera.
+###### ARTICULO 4°.
+
+La Oficina del Gobernador es la Unidad Administrativa encargada de auxiliar directamente al titular del Poder Ejecutivo del Estado, proporcionándole el apoyo técnico, la asesoría y coordinación que requiera para el despacho de los asuntos de su competencia y tendrá las atribuciones y facultades contenidas en las disposiciones legales y las que el Gobernador del Estado le asigne.
+
+A cargo de esta Unidad Administrativa estará el Secretario Particular y será auxiliado directamente de las unidades de apoyo siguientes:
+
+I. Secretaría Privada;
+
+II. Dirección General de Atención a la Ciudadanía;
+
+III. Dirección General de Ayudantía y Giras;
+
+IV. Dirección General de Relaciones Públicas;
+
+V. Dirección General de Administración y Servicios;
+
+VI.- Representación en el Distrito Federal;
+
+VII. Coordinación de Asesores, y
+
+VIII. Las demás que determine el Titular del Poder Ejecutivo.
+
+El Gobernador del Estado se auxiliará directamente de las áreas siguientes:
+
+I.- Coordinación de Comunicación Social:
+
+a).- Dirección General de Información y Prensa, y
+
+b).- Dirección General de Difusión Institucional.
+
+II.- Coordinación de Proyectos Estratégicos, y
+
+III.- Coordinación de la Comisión Ciudadana para el Desarrollo del Estado.
 
 ###### ARTICULO 5º.
 
@@ -135,39 +167,41 @@ Para el eficiente despacho de los asuntos de su competencia las dependencias del
 
 Los titulares de las dependencias del Poder Ejecutivo, formularán anteproyectos de leyes, reglamentos, decretos y acuerdos de las materias que correspondan a sus competencias y los remitirán al Gobernador del Estado a través de la Secretaría General de Gobierno.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 21.
 
-Al tomar posesión del cargo, los titulares de las dependencias mencionadas en esta Ley, deberán levantar un inventario sobre los bienes que se encuentran en poder de las mismas, debiendo registrar éste en la Secretaría de Finanzas y Administración, y la Contraloría General del Estado verificará la exactitud del mismo.
+Al tomar posesión del cargo, los titulares de las dependencias mencionadas en esta Ley realizarán un inventario sobre los bienes que se encuentran en ellas, debiendo registrarlo en la Contraloría General del Estado quien verificará su exactitud.
 
 ### CAPITULO TERCERO. De la Competencia de las Dependencias del Poder Ejecutivo
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 22.
 
 El Gobernador del Estado, en el estudio, planeación y despacho de los asuntos en los diversos ramos de la Administración Pública, será auxiliado por las siguientes dependencias:
 
-I. Secretaría General de Gobierno;
+Secretaría General de Gobierno;
 
-II. Secretaría de Finanzas y Administración;
+Secretaría de Seguridad Pública;
 
-III. Secretaría de Desarrollo Social;
+Secretaría de Finanzas;
 
-IV. Secretaría de Obras Públicas;
+Secretaría de Gestión e Innovación;
 
-V. Procuraduría General de Justicia;
+Secretaría de Desarrollo Social;
 
-VI. Secretaría de Desarrollo Económico;
+Secretaría de Obras Públicas;
 
-VII. Secretaría de Planeación; y
+Procuraduría General de Justicia;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+Secretaría de Desarrollo Económico;
 
-VIII.- Contraloría General del Estado; y
+Secretaría de Planeación y Desarrollo Regional;
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+Contraloría General del Estado; y
 
-IX.- Secretaría de Turismo.
-
-El Procurador General de Justicia es el consejero y representante jurídico del Gobierno del Estado, y ejercerá las funciones que la Constitución Política del Estado y demás disposiciones legales le confieren.
+Secretaría de Turismo.
 
 ###### ARTICULO 23.
 
@@ -267,11 +301,15 @@ XLII. Otorgar al Poder Judicial del Estado el auxilio que requiera para el debid
 
 XLIII. Intervenir en el auxilio o coordinación con las autoridades federales a efecto de cumplir con las disposiciones legales y programas aplicables;
 
-XLIV. Vigilar el tránsito en las carreteras y caminos de competencia del Estado, en los términos que dispongan las leyes en materia de seguridad pública y de vialidad del Estado y los reglamentos respectivos;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
 
-XLV. Organizar la defensa y prevención social contra la delincuencia, elaborando para proponer al Gobernador del Estado, los planes y programas relativos a la seguridad de los habitantes, el orden público, la reeducación y la prevención de hechos delictivos en el Estado, así como los propios a la Reeducación Social de los sujetos a un proceso penal, administrar los Centros de Reeducación Social y tramitar por acuerdo del Gobernador del Estado las solicitudes de extradición, amnistía, indultos, libertad anticipada y traslado de reos; y, en su caso, ejecutar las penas y medidas de seguridad impuestas por el Poder Judicial del Estado a través de las instancias que para tal efecto se designen;
+XLIV.- Facilitar los medios para dar solución voluntaria a controversias entre particulares a través de mecanismos innovadores de solución de conflictos;
 
-XLVI. Establecer un Consejo Tutelar para Menores Infractores, administrando el Centro de Reeducación Social para Menores Infractores en donde se aplicarán las normas correspondientes, así como elaborar y ejecutar los programas de readaptación social en esta materia; y
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
+
+XLV.- Elaborar, en coordinación con la Secretaría de Seguridad Pública, la propuesta al Gobernador del Estado de los planes y programas relativos a la seguridad de los habitantes y el orden público, así como tramitar por acuerdo del Gobernador del Estado las solicitudes de indulto y libertad anticipada;
+
+XLVI. (DEROGADA, P.O. 21 DE MARZO DE 2005)
 
 XLVII. Ejercer las atribuciones y facultades que le señalen las demás leyes, convenios, acuerdos, reglamentos y ordenamientos de carácter general;
 
@@ -283,23 +321,127 @@ XLVIII.- Supervisar los trabajos del Centro de Control y Evaluación de la Activ
 
 Las dependencias y entidades del Poder Ejecutivo enviarán a la Secretaría General de Gobierno los proyectos de iniciativas de leyes o decretos que serán sometidos al Congreso del Estado, por lo menos con un mes de anticipación a la fecha en que se pretendan presentar, salvo en los casos de las iniciativas de Ley de Ingresos y proyecto de Presupuesto de Egresos del Estado, y en aquellos otros de notoria urgencia a juicio del Gobernador del Estado. Además proporcionarán oportunamente la información y el apoyo que requiera para el ejercicio de sus funciones.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 26.
 
-Para auxiliar al Secretario General de Gobierno habrá tres Subsecretarios, que deberán cubrir los requisitos que señala el Artículo 19 de la Constitución Política del Estado y que tendrán las atribuciones, funciones y obligaciones que las disposiciones legales, o en su caso el Gobernador del Estado o el Secretario General de Gobierno les designen.
+Para auxiliar al Secretario General de Gobierno habrá dos Subsecretarios que deberán cubrir los requisitos que señala el Artículo 19 de la Constitución Política del Estado y tendrán las atribuciones, funciones y obligaciones que las disposiciones legales, o en su caso el Gobernador del Estado o el Secretario General de Gobierno les designen.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2005)</small>
+
+ARTICULO 26 A.- La Secretaría de Seguridad Pública es la dependencia encargada de mantener el orden público y la paz social en el Estado, salvaguardar la integridad, bienes y derechos de las personas, así como prevenir la comisión de delitos.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2005)</small>
+
+ARTICULO 26 B.- La representación de la Secretaría de Seguridad Pública, el trámite y resolución de los asuntos de su competencia, corresponden originariamente al Secretario de Seguridad Pública, quien podrá delegar cualquiera de sus facultades, a los titulares de las Unidades Administrativas señaladas en el Artículo 47 fracción I A de esta Ley, excepto aquéllas que por disposición legal deba ejercer directamente.
+
+Los Directores Generales en la materia de su competencia, suplirán en sus ausencias temporales al Secretario de Seguridad Pública y tendrán las atribuciones, funciones y obligaciones que las leyes estatales o reglamentos les asignen.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2005)</small>
+
+ARTICULO 26 C.- A la Secretaría de Seguridad Pública le corresponde el despacho de los siguientes asuntos:
+
+I.- Mantener el orden público y la paz social en el Estado y preservar la integridad, bienes y derechos de las personas;
+
+II.- Elaborar, en coordinación con la Secretaría General de Gobierno, los planes y programas relativos a la Seguridad de los habitantes, al orden público, a la reeducación y a la prevención de los hechos delictivos, para someterlos a consideración del Titular del Ejecutivo, así como vigilar el cumplimiento estricto de las disposiciones legales relativas a la seguridad pública;
+
+III.- Establecer y ejecutar políticas, normas, convenios y programas que se deriven de la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública;
+
+IV.- Recabar, sistematizar y analizar la información en materia de seguridad pública para establecer y ejecutar los programas, estrategias y acciones de prevención a la delincuencia;
+
+V.- Otorgar a las autoridades y dependencias de gobierno el auxilio que soliciten para el ejercicio de sus funciones;
+
+VI.- Difundir políticas, acciones y programas de la Secretaría, en los términos que marca la ley;
+
+VII.- Celebrar los convenios interinstitucionales y contratos para el cumplimiento de su función;
+
+VIII.- Coadyuvar, por instrucción del Titular del Poder Ejecutivo, con las policías preventivas municipales en los casos que se juzguen como de fuerza mayor o alteración grave del orden público;
+
+IX.- Coordinar sus acciones, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, con las autoridades municipales, estatales y federales, a efecto de dar cumplimiento a las leyes y tratados internacionales en materia de Seguridad Pública;
+
+X.- Implementar, en coordinación con el Instituto Estatal de Seguridad Pública, los programas de capacitación y formación policial que inculquen los principios rectores de legalidad, eficiencia, profesionalismo y honradez;
+
+XI.- Autorizar, controlar, supervisar y sancionar los servicios de seguridad privada en el Estado;
+
+XII.- Vigilar y regular el tránsito en las carreteras y caminos de competencia estatal y el cumplimiento de las disposiciones de vialidad en los términos que dispongan las leyes aplicables;
+
+XIII.- Determinar zonas o regiones en el estado para un mejor cumplimiento de sus funciones y atribuciones que la ley le confiere;
+
+XIV.- En coordinación con las autoridades competentes, diseñar y ejecutar programas de prevención a las adicciones y al tráfico de sustancias prohibidas;
+
+XV.- En coordinación con las autoridades competentes, fomentar la participación ciudadana en la realización de programas y acciones tendientes a prevenir las adicciones y el tráfico de sustancias prohibidas;
+
+XVI.- Recabar, sistematizar y analizar la información en materia de venta, tráfico y consumo de sustancias prohibidas dentro del Estado, para proporcionarla a las distintas autoridades competentes;
+
+XVII.- Coadyuvar y colaborar con las autoridades competentes encargadas de la prevención de adicciones y combate a los delitos contra la salud;
+
+XVIII.- Prevenir los delitos y las infracciones administrativas en el ámbito de su competencia;
+
+XIX.- Diseñar, implementar, desarrollar y evaluar lineamientos de la política del Estado para prevenir el delito;
+
+XX.- Diseñar, coordinar y evaluar, programas y acciones de cultura para la prevención del delito, promoviendo la participación ciudadana;
+
+XXI.- Fomentar, a través de los comités de seguridad, la participación ciudadana en la prevención del delito;
+
+XXII.- Ejecutar a través de los centros de readaptación social las penas y medidas de seguridad impuestas por el Poder Judicial, así como los tratamientos para menores infractores determinados por el Consejo Tutelar para Menores Infractores;
+
+XXIII.- Organizar, dirigir, y administrar los centros de reeducación social en el Estado;
+
+XXIV.- Establecer y ejecutar programas y actividades que tengan como fin la reeducación social del sentenciado y menores infractores;
+
+XXV.- Elaborar los expedientes técnicos correspondientes a las solicitudes de extradición, amnistía, indulto, libertad anticipada y traslado de reos;
+
+XXVI.- Diseñar, implementar, coordinar y evaluar las funciones de apoyo y asistencia a reos preliberados o personas que gocen de algún substitutivo penal;
+
+XXVII.- Crear programas de reinserción social de los sentenciados que finalizaron el proceso de reeducación social;
+
+XXVIII.- Organizar, dirigir, y administrar los centros de reeducación social para menores infractores;
+
+XXIX.- Planear, organizar, regular, vigilar y sancionar en coordinación con los ayuntamientos, las normas de vialidad;
+
+XXX.- Otorgar, expedir, cancelar y revocar concesiones relativas al transporte público previo acuerdo delegatorio del Gobernador Constitucional del Estado;
+
+XXXI.- Expedir, cancelar y revocar permisos, licencias y demás autorizaciones relativas al transporte de particulares en el Estado;
+
+XXXII.- Recomendar a las autoridades municipales competentes las acciones que en materia de ingeniería vial considere necesarias para el cumplimiento de sus fines;
+
+XXXIII.- Inspeccionar y vigilar la situación física, mecánica y legal, tanto interior como exterior de los vehículos de transporte público y privado que transiten por las carreteras y caminos de jurisdicción estatal, así como sancionar el incumplimiento de las normas legales aplicables;
+
+XXXIV.- Verificar las condiciones físicas de los operadores del transporte público y privado que transiten por las carreteras y caminos de jurisdicción estatal;
+
+XXXV.- Diseñar y autorizar lar rutas del transporte público previo dictamen de factibilidad de la Secretaría de Planeación y Desarrollo Regional, así como determinar las rutas que utilizarán los concesionarios de transporte público;
+
+XXXVI.- Realizar las acciones técnicas, jurídicas y operativas necesarias para el debido control y regulación del transporte en el Estado;
+
+XXXVII.- Autorizar, regular y sancionar la publicidad en los vehículos de transporte público y privado en el Estado;
+
+XXXVIII.- Ejecutar las resoluciones emitidas por el Consejo de Honor y Justicia de la Secretaría;
+
+XXXIX.- Expedir disposiciones que sean de utilidad para mejorar los servicios de seguridad pública y proponerlas en materia de seguridad privada;
+
+XL.- Expedir manuales de organización y procedimientos y demás ordenamientos necesarios para el funcionamiento de la dependencia; y
+
+XLI.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, en convenios, contratos o cualquier tipo de acuerdo.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 27.
 
-La Administración de la Hacienda Pública del Estado estará a cargo de la Secretaría de Finanzas y Administración.
+La Administración de la Hacienda Pública del Estado estará a cargo de la Secretaría de Finanzas.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 28.
 
-La representación de la Secretaría de Finanzas y Administración y el trámite y resolución de los asuntos de su competencia, corresponden originariamente al Secretario de Finanzas y Administración, quién podrá delegar cualquiera de sus facultades, a los titulares de las Unidades Administrativas señaladas en el Artículo 47 Fracción II de esta Ley, excepto aquellas que por disposición legal deba ejercer directamente.
+La Representación de la Secretaría de Finanzas y el trámite y resolución de los asuntos de su competencia, corresponden originariamente al Secretario de Finanzas, quien podrá delegar cualquiera de sus facultades, a los titulares de las unidades administrativas señaladas en el artículo 47 fracción II de esta ley, excepto aquellas que por disposición legal deba ejercer directamente.
 
-Los Subsecretarios y Directores Generales, en la materia de su competencia, suplirán en sus ausencias temporales al Secretario de Finanzas y Administración, y tendrán las atribuciones, funciones y obligaciones que el Secretario o los Reglamentos les asignen.
+Los Subsecretarios y Directores Generales, en la materia de su competencia, suplirán en sus ausencias temporales al Secretario de Finanzas y tendrán las atribuciones, funciones y obligaciones que el Secretario o los Reglamentos les asignen.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 29.
 
-A la Secretaría de Finanzas y Administración le corresponde, además de las atribuciones que expresamente le otorgan la Constitución Política del Estado, las leyes y reglamentos vigentes, el ejercicio de las siguientes:
+A la Secretaría de Finanzas le corresponde, además de las atribuciones que expresamente le otorga la Constitución Política del Estado, las leyes y reglamentos vigentes, el ejercicio de las siguientes:
 
 I. Formular y presentar al Gobernador del Estado a través del Secretario General de Gobierno, los proyectos de leyes, reglamentos y demás disposiciones de carácter general que se requieran para la planeación, programación, presupuestación y evaluación del gasto público, así como de la actividad económica, financiera, administrativa, fiscal y de deuda pública del Estado;
 
@@ -337,11 +479,11 @@ XVII. Intervenir y opinar en todos los casos cuando las dependencias o entidades
 
 XVIII. Celebrar convenios con las personas de Derecho público o privado sobre cualquier materia de su competencia;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2003)</small>
-
 XIX. Elaborar los informes financieros que integran la Cuenta de la Hacienda Pública Estatal de conformidad con la legislación vigente, y coordinar a las dependencias y entidades paraestatales para la oportuna y correcta solventación a las observaciones y recomendaciones que, en su caso, formule el Congreso del Estado por conducto de su órgano técnico de fiscalización;
 
-XX. Administrar y custodiar los fondos y valores del Estado;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
+
+XX.- Administrar y custodiar los fondos y valores del Estado, así como establecer las bases y condiciones generales para la contratación y operación de los servicios financieros y bancarios, que regirán para todas las dependencias del Gobierno del Estado y proponerlas a las entidades paraestatales.
 
 XXI. Verificar que los servidores públicos que manejen fondos y valores del Estado otorguen fianza suficiente para garantizar su manejo y custodia respectivamente en los términos que determinen las leyes;
 
@@ -349,7 +491,17 @@ XXII. Dirigir la organización, llevar el registro y control de la Deuda Públic
 
 XXIII. Organizar, dirigir, controlar y supervisar las actividades de todas sus oficinas recaudadoras;
 
-XXIV. Determinar las bases para los procesos de planeación, programación y elaboración anual del Presupuesto de Egresos y emitir los lineamientos generales en los que se establecerán los montos, calendarios y procedimientos para el ejercicio más eficiente y eficaz del gasto, así como controlar y efectuar los pagos conforme a los programas y presupuestos aprobados;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
+
+XXIV.- Determinar las bases y normas para:
+
+a) Los procesos de planeación, programación y elaboración anual del Presupuesto de Egresos del Estado;
+
+b) Emitir los lineamientos generales en los que se establecerán los montos, calendarios y procedimientos para el ejercicio más eficiente y eficaz del gasto público;
+
+c) Establecer los procesos y mecanismos de control del gasto público para las dependencias y entidades en apego al Presupuesto de Egresos; y
+
+d) Efectuar los pagos conforme a los programas y presupuestos aprobados.
 
 XXV. Presentar al Gobernador del Estado para su acuerdo, la cancelación de cuentas incobrables o incosteables a favor del Estado;
 
@@ -359,7 +511,9 @@ XXVII. Definir y presentar al Gobernador del Estado para su aprobación los crit
 
 XXVIII. Otorgar y suscribir títulos y valores, así como suscribir en concurrencia con el Gobernador del Estado, obligaciones bursátiles, bonos de deuda y valores afines;
 
-XXIX. Llevar cuenta y registro de las operaciones financieras efectuadas por el Poder Ejecutivo, que conforman la Contabilidad Gubernamental, así como emitir criterios y lineamientos para el registro contable de las operaciones financieras llevadas a cabo por las dependencias del sector central;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
+
+XXIX.- Llevar cuenta y registro de las operaciones financieras efectuadas por el Poder Ejecutivo, que conforman la contabilidad Gubernamental, así como emitir criterios y lineamientos para el registro contable de las operaciones financieras llevadas a cabo por las dependencias del sector central y las entidades del sector paraestatal, pudiendo autorizar a los funcionarios de las distintas dependencias y entidades para la firma de cheques y firmas electrónicas de los sistemas bancarios;
 
 XXX. Emitir o autorizar, según el caso, los catálogos de cuentas para la contabilidad del gasto público del Estado;
 
@@ -369,39 +523,87 @@ XXXII. Administrar el catastro de los bienes inmuebles ubicados en el territorio
 
 XXXIII. Representar al Poder Ejecutivo en materia fiscal y catastral, e intervenir cuando se afecte a la Hacienda Pública, ante los Tribunales, así como ante autoridades administrativas y fiscales, federales, estatales y municipales en su caso, y coadyuvar con las dependencias y entidades del Poder Ejecutivo, en las mismas materias;
 
-XXXIV. Planear, supervisar y dar seguimiento interno a las funciones institucionales de la Secretaría de Finanzas y Administración;
+XXXIV. (DEROGADA, P.O. 21 DE MARZO DE 2005)
 
-XXXV. Prestar el apoyo administrativo que requieran las dependencias del Poder Ejecutivo, y coadyuvar con la Secretaría General de Gobierno en el cumplimiento de las disposiciones legales que rijan las relaciones entre el Gobierno del Estado y sus servidores públicos;
+XXXV. (DEROGADA, P.O. 21 DE MARZO DE 2005)
 
-XXXVI. Formalizar el ingreso y llevar los controles administrativos del personal de las dependencias del Poder Ejecutivo;
+XXXVI. (DEROGADA, P.O. 21 DE MARZO DE 2005)
 
-XXXVII. Instrumentar y ejecutar el servicio civil de carrera;
+XXXVII. (DEROGADA, P.O. 21 DE MARZO DE 2005)
 
-XXXVIII. Integrar, elaborar y pagar la nómina de los servidores públicos de las dependencias del Poder Ejecutivo, efectuando las retenciones fiscales y practicando los descuentos que legalmente correspondan;
+XXXVIII. (DEROGADA, P.O. 21 DE MARZO DE 2005)
 
-XXXIX. Tramitar los nombramientos, remociones, renuncias, licencias y jubilaciones de los servidores públicos de las dependencias del Poder Ejecutivo;
+XXXIX. (DEROGADA, P.O. 21 DE MARZO DE 2005)
 
-XL. Adquirir los bienes y servicios que requiere el funcionamiento de las dependencias del Poder Ejecutivo;
+XL. (DEROGADA, P.O. 21 DE MARZO DE 2005)
 
-XLI. Proveer oportunamente a las dependencias del Poder Ejecutivo de los elementos y materiales de trabajo necesarios para el desarrollo de sus funciones;
+XLI. (DEROGADA, P.O. 21 DE MARZO DE 2005)
 
-XLII. Administrar los seguros de las dependencias del Poder Ejecutivo, y de las entidades que lo soliciten;
+XLII. (DEROGADA, P.O. 21 DE MARZO DE 2005)
 
-XLIII. Administrar, controlar y vigilar los Almacenes Generales de bienes consumibles del Poder Ejecutivo;
+XLIII. (DEROGADA, P.O. 21 DE MARZO DE 2005)
 
-XLIV. Administrar los Talleres Gráficos del Estado;
+XLIV. (DEROGADA, P.O. 21 DE MARZO DE 2005)
 
-XLV. Coadyuvar en la implementación y ejecutar los acuerdos relativos a la creación de nuevas unidades administrativas que requieran las dependencias del Poder Ejecutivo;
+XLV. (DEROGADA, P.O. 21 DE MARZO DE 2005)
 
-XLVI. Ejercer las atribuciones previstas en la Ley Patrimonial del Estado de Aguascalientes;
+XLVI. (DEROGADA, P.O. 21 DE MARZO DE 2005)
 
-XLVII. Firmar conjuntamente con el Gobernador del Estado y el Secretario General de Gobierno los nombramientos de los Servidores Públicos del Poder Ejecutivo;
+XLVII. (DEROGADA, P.O. 21 DE MARZO DE 2005)
 
-XLVIII. Coadyuvar con la Contraloría General del Estado en el establecimiento de las normas para la recepción y entrega de las dependencias del Poder Ejecutivo, que incluirá necesariamente el levantamiento de inventarios;
+XLVIII. (DEROGADA, P.O. 21 DE MARZO DE 2005)
 
-XLIX. Tramitar las propuestas que los titulares de las dependencias del Poder Ejecutivo hagan para la designación de su personal; y
+XLIX. (DEROGADA, P.O. 21 DE MARZO DE 2005)
 
 L. Ejercer las atribuciones y facultades que le señalen las demás leyes, convenios, acuerdos, reglamentos y ordenamientos de carácter general.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2005)</small>
+
+ARTICULO 29 A.- La Secretaría de Gestión e Innovación será la dependencia encargada de emitir los lineamientos, manuales de organización, procesos, procedimientos y, en general, todo lo relativo a la ministración y administración de bienes, productos, servicios y recursos humanos que requieran las dependencias de la Administración Pública del Estado, y proponerlas a las Entidades Paraestatales, que sean necesarios para el desempeño de las funciones que le confiere esta Ley y las demás disposiciones legales, siendo la entidad rectora de la modernización, desarrollo informático, simplificación administrativa y de la gestión de la calidad.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2005)</small>
+
+ARTICULO 29 B.- La representación de la Secretaría de Gestión e Innovación y el trámite y resolución de los asuntos de su competencia corresponden originalmente al Secretario de Gestión e Innovación, quien podrá delegar cualquiera de sus facultades a los titulares de las unidades administrativas señaladas en el Artículo 47 fracción II A de esta ley, excepto aquéllas que por disposición legal deba ejercer directamente.
+
+El Coordinador General y Directores Generales, en la materia de su competencia, suplirán en sus ausencias temporales al Secretario de Gestión e Innovación y tendrán las atribuciones, funciones y obligaciones que el Secretario o los Reglamentos les asignen.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2005)</small>
+
+ARTICULO 29 C.- A la Secretaría de Gestión e Innovación le corresponde, además de las atribuciones que expresamente le confieran las leyes y reglamentos aplicables, el ejercicio de las siguientes facultades:
+
+I.- Coordinar el manejo y desenvolvimiento de las Unidades Administrativas que realicen las funciones a que se refiere el Artículo 29A de esta Ley;
+
+II.- Aprobar el nombramiento de los titulares de las Unidades Administrativas de las Dependencias de la Administración Pública, que realicen las funciones a que se refiere el Artículo 29A de esta Ley, previo acuerdo con el Gobernador;
+
+III.- Formalizar el ingreso y llevar los controles administrativos del personal de las dependencias del Poder Ejecutivo del Estado;
+
+IV.- Analizar, para su propuesta, el Tabulador de Sueldos y Salarios que se aplicará en las Dependencias de la Administración Pública Estatal, así como el que se aplique en las Entidades;
+
+V.- Instrumentar y ejecutar el Servicio Civil de Carrera;
+
+VI.- Integrar, elaborar y remitir a la Secretaría de Finanzas para su pago, la nómina de los servidores públicos de las dependencias de la Administración Pública Estatal, efectuando las retenciones fiscales y practicando los descuentos que legalmente correspondan;
+
+VII.- Autorizar, previo acuerdo con el Gobernador del Estado, las propuestas de creación de nuevas áreas en las dependencias de la Administración Pública Estatal que no se encuentran previstas en este ordenamiento;
+
+VIII.- Tramitar las remociones, renuncias, licencias y jubilaciones de los servidores públicos;
+
+IX.- Firmar conjuntamente con el Gobernador del Estado y el Secretario General de Gobierno los nombramientos de los Servidores Públicos de la Administración Pública Estatal;
+
+X.- Adquirir los bienes, productos y servicios que requieran las dependencias de la Administración Pública Estatal, para el cabal funcionamiento de ellas;
+
+XI.- Proveer oportunamente a las dependencias de la Administración Pública Estatal, de los elementos y materiales de trabajo necesarios para el desarrollo de sus funciones;
+
+XII.- Administrar los seguros de las dependencias de la Administración Pública Estatal, y de las entidades que lo soliciten;
+
+XIII.- Administrar, controlar y vigilar los Almacenes Generales de bienes consumibles de la Administración Pública Estatal;
+
+XIV.- Coadyuvar con la Contraloría General del Estado en el establecimiento de las normas para la recepción y entrega de las dependencias de la Administración Pública Estatal;
+
+XV.- Normar, coordinar, implementar, desarrollar y unificar las funciones de modernización, desarrollo informático y de calidad que requieran las dependencias y entidades de la Administración Pública Estatal, así como proponer su implementación a los organismos descentralizados;
+
+XVI.- Dictar los lineamientos para la operación de los Sistemas Electrónicos mediante la utilización de firma electrónica, de observancia obligatoria para las dependencias de la Administración Pública Estatal, y proponerlo a las entidades paraestatales; y
+
+XVII.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, en convenios, contratos o cualquier tipo de acuerdo.
 
 ###### ARTICULO 30.
 
@@ -411,69 +613,103 @@ La Secretaría de Desarrollo Social es la dependencia encargada de formular, coo
 
 La representación de la Secretaría de Desarrollo Social y el trámite y resolución de los asuntos de su competencia, corresponden originariamente al Secretario de Desarrollo Social, quien podrá delegar cualquiera de sus facultades, a los titulares de las Unidades Administrativas señaladas en el Artículo 47 Fracción III de esta Ley, excepto aquellas que por disposición legal deba ejercer directamente.
 
-Los Subsecretarios y Directores Generales, en la materia de su competencia, suplirán en sus ausencias temporales al Secretario de Desarrollo Social, y tendrán las atribuciones, funciones y obligaciones que el Secretario o los Reglamentos les asignen.
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2005)</small>
+
+El Subsecretario y Directores Generales, en la materia de su competencia, suplirán en sus ausencias temporales al Secretario de Desarrollo Social, y tendrán las atribuciones, funciones y responsabilidades que el Secretario o los Reglamentos les asignen.
 
 ###### ARTICULO 32.
 
 A la Secretaría de Desarrollo Social corresponde el despacho de los siguientes asuntos:
 
-I. Formular, conducir y evaluar la política general de desarrollo social y, en particular, la de asentamientos humanos, desarrollo regional y urbano, vivienda y ecología;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
 
-II. Coordinar las acciones que la Federación y el Gobernador del Estado convengan con los gobiernos municipales para el desarrollo integral de las diversas regiones del Estado;
+I.- Formular, conducir y evaluar la política general de desarrollo social;
 
-III. Elaborar los programas estatales especiales que le señale el Gobernador del Estado tomando en cuenta las propuestas que para el efecto realizan las dependencias y entidades de la Administración Pública del Estado y los gobiernos municipales, así como autorizar las acciones e inversiones convenidas en el marco de lo dispuesto en la fracción anterior, en coordinación con la Secretaría de Finanzas y Administración;
+II. (DEROGADA, P.O. 21 DE MARZO DE 2005)
+
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
+
+III.- Elaborar los programas estatales especiales que le señale el Gobernador del Estado tomando en cuenta las propuestas que para el efecto realizan las dependencias y entidades de la Administración Pública del Estado y los gobiernos municipales, así como autorizar las acciones e inversiones convenidas con los municipios, en coordinación con la Secretaría de Finanzas;
 
 IV. Evaluar la aplicación de las transferencias de fondos a favor de los municipios y de los sectores social y privado que se deriven de las acciones e inversiones convenidas en los términos de las fracciones anteriores;
 
-V. Coordinar, concertar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, en especial de los pobladores de las zonas rurales y de colonos de las áreas urbanas, para elevar el nivel de vida de la población;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
 
-VI. Coordinar y ejecutar la política estatal para crear y apoyar empresas que agrupen a campesinos y grupos populares en las ciudades a través de las acciones de planeación, programación, concertación y evaluación; de aplicación, recuperación y revolvencia de recursos para ser destinados a los mismos fines;
+V.- Coordinar, concertar y ejecutar programas especiales para la atención de las personas socialmente vulnerables, para promover un desarrollo económico con sentido social;
 
-VII. Proyectar la distribución de la población y la ordenación territorial de los centros de población;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
 
-VIII. Prever a nivel estatal las necesidades de tierra para desarrollo urbano y vivienda, con la intervención de las dependencias federales que corresponda, considerando la disponibilidad de agua determinada por las propias dependencias federales y regular, en coordinación con los municipios, los mecanismos para satisfacer dichas necesidades;
+VI.- Coordinar y ejecutar junto con la Secretaría de Desarrollo Económico, la política estatal para crear y apoyar empresas que vinculen a personas socialmente vulnerables;
 
-IX. Promover y concertar programas de vivienda y de desarrollo urbano y apoyar su ejecución;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
 
-X. Fomentar la organización de sociedades cooperativas de vivienda y materiales de construcción en coordinación con las Secretarías de Trabajo y Previsión Social y de Economía del Gobierno Federal;
+VII.- Promover las condiciones que aseguren el disfrute de los derechos sociales, individuales y colectivos, garantizando el acceso a los programas de desarrollo social, para elevar la calidad de vida a través de la educación, la salud, la alimentación, la generación de empleo e ingreso y la capacitación;
 
-XI. Autorizar la relotificación, fusión y subdivisión de los bienes inmuebles;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
 
-XII. Elaborar y vigilar el cumplimiento de los programas de desarrollo urbano;
+VIII.- Elaborar diagnósticos en coordinación con las dependencias y entidades públicas del Estado, los Ayuntamientos y los Comités Comunitarios sobre la situación de las comunidades y grupos sociales vulnerables, así como evaluar el impacto social de los programas implementados considerando los diversos indicadores de gestión;
 
-XIII. Vigilar el cumplimiento de las disposiciones legales reglamentarias en materia de desarrollo urbano;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
 
-XIV. Realizar las tareas relativas a la ingeniería del transporte y el rendimiento de la vialidad del Estado;
+IX.- Promover y concertar conjuntamente con la Secretaría de Planeación y Desarrollo Regional los programas de mejoramiento de vivienda, para elevar la calidad de vida de las personas socialmente vulnerables;
 
-XV. Formular el programa general de obras del Gobierno del Estado en coordinación con la Secretaría de Obras Públicas y la Secretaría de Planeación;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
 
-XVI. Promover y apoyar mecanismos de financiamiento para el bienestar social, el desarrollo regional y urbano, así como para la vivienda y la protección del medio ambiente;
+X.- Fomentar la organización de sociedades de participación de vivienda y materiales de construcción en coordinación con el Gobierno Federal;
 
-XVII. Promover la construcción de obras de infraestructura y equipamiento para el desarrollo regional y urbano, el bienestar social y la protección y restauración del medio ambiente;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
 
-XVIII. Promover el ordenamiento ecológico general del territorio del Estado;
+XI.- Realizar acciones de socialización, entrenamiento, apoyo y esparcimiento, así como la realización de trámites gubernamentales, con la finalidad de acercar estos servicios a quienes no tienen acceso a ellos, sin que se constituya como una autoridad intermedia entre el Gobierno del Estado y los Ayuntamientos;
 
-XIX. Crear y administrar viveros de árboles y flores para la red estatal de carreteras, así como brindar el apoyo en la reforestación del territorio del Estado;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
 
-XX. Formular y conducir la política general de saneamiento ambiental, en coordinación con las demás dependencias competentes, estableciendo normas y criterios para el aprovechamiento de los recursos naturales;
+XII.- Facilitar las oportunidades de ingreso para personas socialmente vulnerables mediante la generación de destrezas, valoradas por el mercado y el crecimiento comercial o productivo;
 
-XXI. Determinar las normas y en su caso ejecutar las acciones que aseguren la conservación o restauración de los ecosistemas fundamentales para el desarrollo de la comunidad;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
 
-XXII. Vigilar en coordinación con las autoridades federales y municipales el cumplimiento de las normas y programas para la protección y restauración del medio ambiente;
+XIII. Facilitar los medios para elevar la calidad de vida de las personas a través de programas de superación personal, autoestima e inteligencia emocional apegados a las condiciones particulares de quienes viven en desventaja y son emocionalmente vulnerables;
 
-XXIII. Normar el aprovechamiento racional de la flora y la fauna silvestre, con el propósito de conservarlos y desarrollarlos;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
 
-XXIV. Establecer los criterios ecológicos y normas de carácter general que deban satisfacer las descargas de aguas residuales para evitar la contaminación que ponga en peligro la salud pública o degrade los sistemas ecológicos;
+XIV. Promover y apoyar conjuntamente con la Secretaría de Planeación y Desarrollo Regional, los mecanismos de financiamiento para el bienestar social, el desarrollo regional, urbano y rural;
 
-XXV. Proponer al Gobernador del Estado el establecimiento de áreas naturales protegidas de interés del Estado, y promover la participación de las autoridades federales o locales en su administración y vigilancia;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
 
-XXVI. Evaluar las manifestaciones de impacto ambiental de proyectos de desarrollo que le presenten los sectores público, social y privado;
+XV.- Promover la construcción de obras de infraestructura y equipamiento para el desarrollo regional, con lo cual se pretende el bienestar social y la protección de la familia;
 
-XXVII. Promover, fomentar y realizar investigaciones relacionadas con la vivienda, desarrollo regional y ecología;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
 
-XXVIII. Previo acuerdo delegatorio del Gobernador del Estado, expedir, cancelar y revocar las concesiones, permisos, licencias y autorizaciones; y
+XVI. Fomentar la participación de instituciones académicas, de investigación, de organizaciones nacionales e internacionales gubernamentales y no gubernamentales y de la sociedad en general, en el desarrollo e implementación de estrategias para superar rezagos sociales e impulsar el bienestar de la población;
 
-XXIX. Ejercer las atribuciones y facultades que le señalen las demás leyes, convenios, acuerdos, reglamentos y ordenamientos de carácter general.
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
+
+XVII.- Suscribir los convenios en materia de Desarrollo Social que puedan ser instrumento de vinculación entre la Secretaría, la iniciativa privada y las organizaciones civiles nacionales e internacionales o cualquier clase de organismo lícito que pueda coadyuvar, con el cumplimiento de los programas, acciones e inversiones en materia de desarrollo social;
+
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
+
+XVIII.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, en convenios, contratos o cualquier tipo de acuerdo.
+
+XIX. (DEROGADA, P.O. 21 DE MARZO DE 2005)
+
+XX. (DEROGADA, P.O. 21 DE MARZO DE 2005)
+
+XXI. (DEROGADA, P.O. 21 DE MARZO DE 2005)
+
+XXII. (DEROGADA, P.O. 21 DE MARZO DE 2005)
+
+XXIII. (DEROGADA, P.O. 21 DE MARZO DE 2005)
+
+XXIV. (DEROGADA, P.O. 21 DE MARZO DE 2005)
+
+XXV. (DEROGADA, P.O. 21 DE MARZO DE 2005)
+
+XXVI. (DEROGADA, P.O. 21 DE MARZO DE 2005)
+
+XXVII. (DEROGADA, P.O. 21 DE MARZO DE 2005)
+
+XXVIII. (DEROGADA, P.O. 21 DE MARZO DE 2005)
+
+XXIX. (DEROGADA, P.O. 21 DE MARZO DE 2005)
 
 ###### ARTICULO 33.
 
@@ -493,7 +729,9 @@ I. Ejecutar las obras públicas que determine el Plan Estatal de Desarrollo y lo
 
 II. Participar en la realización de programas especiales de vivienda y urbanización;
 
-III. Dictar las normas generales y establecer los criterios que deban orientar las actividades del organismo desconcentrado, denominado Comisión de Caminos del Estado de Aguascalientes; así como ejercer todas la atribuciones que se señalan en el acuerdo que crea este organismo;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
+
+III.- Dictar las normas y establecer los criterios que deban orientar las actividades de proyecto, construcción, ampliación y conservación de caminos, carreteras y vialidades del Estado de Aguascalientes;
 
 IV. Proyectar, ejecutar, mantener y operar en su caso, directamente o por adjudicación a particulares, las obras públicas;
 
@@ -505,7 +743,15 @@ VII. Expedir las bases a las que deban sujetarse las licitaciones públicas para
 
 VIII. Auxiliar a las entidades del Poder Ejecutivo en la elaboración y supervisión de los proyectos y presupuestos que sean puestos a su consideración; y
 
-IX. Ejercer las atribuciones y facultades que le señalen las demás leyes, convenios, acuerdos, reglamentos y ordenamientos de carácter general.
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
+
+IX.- Programar, presupuestar, normar, regular, ejecutar y evaluar los resultados, así como formular las políticas de construcción, equipamiento, rehabilitación, mantenimiento y conservación de inmuebles e instalaciones de los espacios educativos de todos los tipos, niveles y modalidades del Estado de Aguascalientes; de acuerdo a la planeación realizada para tales fines por el Instituto de Educación de Aguascalientes.
+
+Para llevar a cabo los fines anteriores la Secretaría deberá coordinarse con los órganos de planeación de los gobiernos estatal y municipales del Estado de Aguascalientes, que correspondan, además de las instituciones de educación superior que tengan interés directo en las obras a realizarse.
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2005)</small>
+
+X.- Ejercer las atribuciones y facultades que le señale las demás leyes, reglamentos y ordenamientos de carácter general, en convenios, contratos o cualquier tipo de acuerdo.
 
 ###### ARTICULO 36.
 
@@ -537,7 +783,9 @@ V. Promover un marco jurídico simple y claro que facilite la actividad empresar
 
 VI. Impulsar la vinculación de los sectores productivo y educativo;
 
-VII. Generar información actualizada, oportuna y confiable sobre las actividades económicas, coordinándose con la Secretaría de Planeación para su difusión;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
+
+VII.- Generar información actualizada, oportuna y confiable sobre las actividades económicas, coordinándose con la Secretaría de Planeación y Desarrollo Regional para su difusión;
 
 VIII. Participar en la planeación, en coordinación con las autoridades competentes, y en la programación de obras e inversiones tendientes a promover la explotación racional de los recursos minerales del Estado;
 
@@ -575,19 +823,25 @@ XXIV. Promover el establecimiento en la Entidad, de industrias prioritarias y em
 
 XXV. Ejercer las atribuciones y facultades que le señalen las demás leyes, convenios, acuerdos, reglamentos y ordenamientos de carácter general.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 40.
 
-La Secretaría de Planeación es la dependencia encargada de proponer, coordinar y ejecutar la Planeación del Estado.
+La Secretaría de Planeación y Desarrollo Regional es la dependencia encargada de proponer, coordinar y ejecutar la Planeación del Estado, incluyendo los programas Estatales de Desarrollo Urbano, el Sistema Estatal de Planeación, así como el control urbano a nivel estatal.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 41.
 
-La representación de la Secretaría de Planeación y el trámite y resolución de los asuntos de su competencia, corresponden originariamente al Secretario de Planeación, quien podrá delegar cualquiera de sus facultades, a los titulares de las Unidades Administrativas señaladas en el Artículo 47 Fracción VI de esta Ley, excepto aquellas que por disposición legal deba ejercer directamente.
+La representación de la Secretaría de Planeación y Desarrollo Regional, y el trámite y resolución de los asuntos de su competencia, corresponden originariamente al Secretario de Planeación y Desarrollo Regional, quien podrá delegar cualquiera de sus facultades, a los titulares de las Unidades Administrativas señaladas en el Artículo 47 Fracción VI de esta Ley, excepto aquéllas que por disposición legal deba ejercer directamente.
 
-El Subsecretario y Directores Generales, en la materia de su competencia, suplirán en sus ausencias temporales al Secretario de Planeación, y tendrán las atribuciones, funciones y obligaciones que el Secretario o los Reglamentos les asignen, quienes además apoyarán al Secretario en la coordinación y seguimiento de los trabajos del Comité de Planeación para el Desarrollo del Estado.
+El Subsecretario y Directores Generales, en la materia de su competencia, suplirán en sus ausencias temporales al Secretario de Planeación y Desarrollo Regional, y tendrán las atribuciones, funciones y obligaciones que el Secretario o los Reglamentos les asignen, quienes además apoyarán al Secretario en la coordinación y seguimiento de los trabajos del Comité de Planeación para el Desarrollo del Estado, la Comisión Estatal de Desarrollo Urbano y demás organismos y comités en los que intervenga la Secretaría de Planeación y Desarrollo Regional.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 42.
 
-A la Secretaría de Planeación corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Planeación y Desarrollo Regional corresponde el despacho de los siguientes asuntos:
 
 I. Coordinar las acciones en el proceso de la planeación del desarrollo del Estado, instaurando, operando y manteniendo actualizado el Sistema Estatal de Planeación;
 
@@ -653,7 +907,45 @@ XXXI. Implementar al interior de la Secretaría de Planeación los procesos para
 
 XXXII. Celebrar los convenios operativos derivados de los suscritos por el Gobernador del Estado, que sean necesarios para el cumplimiento de sus atribuciones en el ámbito de su competencia; y
 
-XXXIII. Ejercer las atribuciones y facultades que le señalen las demás leyes, convenios, acuerdos, reglamentos y ordenamientos de carácter general.
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
+
+XXXIII.- Formular, conducir y evaluar la política general del desarrollo urbano y regional así como la de asentamientos humanos y vivienda;
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2005)</small>
+
+XXXIV.- Coordinar las acciones que la Federación y el Gobierno del Estado convengan con los gobiernos municipales para el desarrollo integral de las diversas regiones del Estado;
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2005)</small>
+
+XXXV.- Proyectar la distribución de la población y la ordenación territorial de los centros de población;
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2005)</small>
+
+XXXVI.- Prever a nivel estatal las necesidades de tierra para desarrollo urbano y vivienda, con la intervención de las dependencias federales que corresponda, considerando la disponibilidad de agua determinada por las propias dependencias federales y regular, en coordinación con los Municipios, los mecanismos para satisfacer dichas necesidades;
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2005)</small>
+
+XXXVII.- Promover, concertar y coordinar programas de vivienda y de desarrollo urbano y apoyar su ejecución;
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2005)</small>
+
+XXXVIII.- Elaborar y vigilar el cumplimiento de los programas de desarrollo urbano;
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2005)</small>
+
+XXXIX.- Vigilar el cumplimiento de las disposiciones legales reglamentarias en materia de desarrollo urbano;
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2005)</small>
+
+XL.- Conjuntamente con la Secretaría de Desarrollo Social y el Instituto de Vivienda del Estado, promover y apoyar mecanismos de financiamiento para el desarrollo regional y urbano;
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2005)</small>
+
+XLI.- Formar parte del Consejo Estatal de Población, participando en la integración de la información para garantizar la congruencia de la misma;
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2005)</small>
+
+XLII.- Ejercer las atribuciones y facultades que le señale el Código Urbano para el Estado y demás leyes, convenios, acuerdos, reglamentos y ordenamientos de carácter general.
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
 
@@ -769,19 +1061,27 @@ La Contraloría General del Estado es la dependencia encargada de establecer nor
 
 La representación de la Contraloría General del Estado y el trámite y resolución de los asuntos de su competencia, corresponden originariamente al Contralor General del Estado, quien podrá delegar cualquiera de sus facultades, a los titulares de las Unidades Administrativas señaladas en el Artículo 47 Fracción VII de esta Ley, excepto aquellas que por disposición legal deba ejercer directamente.
 
-Los Directores Generales, en la materia de su competencia, suplirán en sus ausencias temporales al Contralor General del Estado y Administración, y tendrán las atribuciones, funciones y obligaciones que al Contralor o los Reglamentos les asignen.
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2005)</small>
+
+Los Directores Generales, en la materia de su competencia, suplirán en sus ausencias temporales al Contralor General del Estado y tendrán las atribuciones, funciones y obligaciones que al Contralor o los Reglamentos les asignen.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 45.
 
-A la Contraloría General del Estado le corresponde el despacho de los siguientes asuntos, además de los mencionados en la Constitución Política del Estado y la Ley de Responsabilidades de los Servidores Públicos:
+A la Contraloría General del Estado le corresponde el despacho de los siguientes asuntos:
 
 I. Planear, organizar y coordinar el sistema de control y evaluación gubernamental;
 
 II. Fijar las normas del control, evaluación, fiscalización, contabilidad y auditoría que deben observar las dependencias y entidades del Poder Ejecutivo, así como vigilar su cumplimiento y, en su caso, prestarles el apoyo y asesoramiento que éstas le soliciten;
 
-III. Controlar el debido ejercicio del gasto público y su congruencia con el Presupuesto de Egresos, practicando las auditorías que para el caso sean necesarias;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
 
-IV. Comprobar el cumplimiento por parte de las dependencias del Poder Ejecutivo, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, inversión, deuda, patrimonio, fondos y valores de la prioridad o al cuidado del Poder Ejecutivo;
+III.- Vigilar el debido ejercicio del gasto público y su congruencia con el Presupuesto de Egresos, practicando las auditorías que para el caso sean necesarias;
+
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
+
+IV.- Comprobar el cumplimiento por parte de las dependencias y entidades del Poder Ejecutivo, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, inversión, deuda, patrimonio, fondos y valores al cuidado o propiedad del Poder Ejecutivo;
 
 V. Llevar el control y registro de los bienes muebles e inmuebles al cuidado o propiedad de la Administración Pública Estatal, así como supervisar el correcto uso y estado de conservación de los mismos;
 
@@ -795,17 +1095,25 @@ IX. Informar al Gobernador del Estado sobre el resultado de la evaluación, fisc
 
 X. Coordinarse con la Contaduría Mayor de Hacienda del Congreso del Estado para el establecimiento de los procedimientos necesarios para el cabal cumplimiento de sus respectivas atribuciones;
 
-XI. Coordinarse con las Dependencias Públicas Federales competentes para integrar la Unidad de Control y Evaluación de la Estructura del Comité de Planeación para el Desarrollo del Estado de Aguascalientes y, en el seno de este último, coordinarse con las mismas para efectuar el control y evaluación de los recursos que el Ejecutivo Federal transfiera al Estado para su ejercicio;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
 
-XII. Promover la implantación de órganos de control municipales y apoyar a los respectivos Municipios en esos trámites;
+XI.- Coordinarse con las Dependencias Públicas Federales competentes para integrar la estructura de la Unidad de Control y Evaluación en la Secretaría de Planeación y Desarrollo Regional y, en el seno de este último, coordinarse con las mismas, para efectuar el control y evaluación de los recursos que el Ejecutivo Federal transfiera al Estado para su ejercicio;
+
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
+
+XII.- Promover la implantación de órganos de control municipales y apoyar a los respectivos Municipios en esos trámites, así como asesorarlos en su operación a solicitud de los mismos;
 
 XIII. Atender las quejas y denuncias que presenten los particulares organizados o a título individual, que se deriven del ejercicio de la inversión que efectúe el Poder Ejecutivo;
 
-XIV. Designar con acuerdo del Gobernador del Estado a los contralores internos en las dependencias y entidades del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
+
+XIV.- Designar y remover con acuerdo del Gobernador del Estado a los Contralores Internos en las Dependencias y Entidades del Poder Ejecutivo.
 
 XV. Nombrar a los comisarios o a sus equivalentes, en los órganos de vigilancia de los consejos o juntas de gobierno y administración de las entidades del Poder Ejecutivo;
 
-XVI. Emitir los lineamientos e intervenir en la entrega y recepción de las oficinas públicas del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
+
+XVI.- Emitir los lineamientos y coordinar la Entrega-Recepción de las oficinas públicas del Poder Ejecutivo.
 
 XVII. Conocer, investigar y resolver sobre los actos y omisiones de los servidores públicos que constituyan responsabilidades administrativas; en su caso determinar el daño causado al Estado, turnándolo a la autoridad competente para su ejecución, mediante el pliego de responsabilidades proceder al saneamiento por medio de la sanción administrativa o denuncia judicial respectiva;
 
@@ -823,9 +1131,11 @@ XXI. Ejercer las atribuciones y facultades que le señalen las demás leyes, con
 
 Corresponde a los Directores Generales el trámite y la resolución de los asuntos en el ámbito de su competencia. Habrá las direcciones de área, subdirecciones y departamentos que determinen las leyes y demás disposiciones jurídicas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 47.
 
-Las dependencias que establece la presente Ley se auxiliarán de las siguientes Subsecretarías y Direcciones Generales; además contarán con las Direcciones de Area y Unidades Administrativas que establezcan los reglamentos respectivos.
+Las dependencias que establece la presente Ley se auxiliarán de las siguientes Subsecretarías, Coordinaciones Generales y Direcciones Generales; además contarán con las Direcciones de Área y Unidades Administrativas que establezcan los reglamentos respectivos.
 
 I. SECRETARIA GENERAL DE GOBIERNO:
 
@@ -833,7 +1143,7 @@ A. Subsecretaría de Gobierno;
 
 B. Subsecretaría de Asuntos Jurídicos;
 
-C. Subsecretaría de Seguridad Pública;
+C. (DEROGADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2005)
 
 a) Dirección General de Gobernación;
 
@@ -851,27 +1161,47 @@ g) Dirección General de Asuntos Jurídicos;
 
 h) Dirección General de Coordinación Jurídica Gubernamental;
 
-i) Dirección General de Seguridad Pública y Vialidad;
+i) (DEROGADO, P.O. 21 DE MARZO DE 2005)
 
-j) Dirección General de Reeducación Social;
+j) (DEROGADO, P.O. 21 DE MARZO DE 2005)
 
 k) Dirección General Administrativa; y
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2005)</small>
 
-l) Secretariado Técnico del Consejo Estatal de Población; y
+l) Secretariado Técnico del Consejo de Población; y
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2005)</small>
 
-m) Centro de Control y Evaluación de la Actividad Policial.
+m) Coordinación Estatal de Protección Civil.
 
-II. SECRETARIA DE FINANZAS Y ADMINISTRACION:
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2005)</small>
+
+I. A. SECRETARIA DE SEGURIDAD PUBLICA.
+
+a) Dirección General de Transporte;
+
+b) Dirección General de Reeducación Social;
+
+c) Dirección de Prevención al Narcotráfico;
+
+d) Dirección General de Prevención del Delito y Política Criminal;
+
+e) Dirección General de Seguridad Publica y Vialidad;
+
+f) Dirección General Jurídica; y
+
+g) Dirección General de Administración.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2005)</small>
+
+II. SECRETARIA DE FINANZAS:
 
 A. Subsecretaría de Ingresos;
 
 B. Subsecretaría de Egresos;
 
-C. Subsecretaría de Administración;
+C. (DEROGADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2005)
 
 a) Dirección General Jurídica;
 
@@ -885,55 +1215,109 @@ e) Dirección General de Administración Financiera;
 
 f) Dirección General de Programación, Presupuesto y Cuenta Pública;
 
-g) Dirección General de Adquisiciones;
+g) (DEROGADO, P.O. 21 DE MARZO DE 2005)
 
-h) Dirección General de Recursos Humanos; y
+h) (DEROGADO, P.O. 21 DE MARZO DE 2005)
 
-i) Dirección General de Servicios.
+i) (DEROGADO, P.O. 21 DE MARZO DE 2005)
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2005)</small>
+
+j) Dirección General de Política Fiscal y Hacendaria; y
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2005)</small>
+
+k) Dirección General de Evaluación y Seguimiento.
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2005)</small>
+
+II. A.- SECRETARIA DE GESTION E INNOVACION.
+
+A. Coordinación General de Mejores Prácticas Gubernamentales.
+
+a) Dirección General de Competitividad de Procesos;
+
+b) Dirección General de Proyectos de Tecnologías de Información;
+
+c) Dirección General de Soporte a las Tecnologías de Información;
+
+B. Dirección General de Adquisiciones;
+
+C. Dirección General de Capital Humano;
+
+D. Dirección General de Servicios Integrales;
+
+E. Dirección General Jurídica; y
+
+F. Dirección General Administrativa.
 
 III. SECRETARIA DE DESARROLLO SOCIAL:
 
-A. Subsecretaría de Desarrollo Urbano;
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2005)</small>
 
-B. Subsecretaría de Ecología;
+A. Subsecretaría de Desarrollo Social.
 
-C. Subsecretaría de Programas de Desarrollo Social y Humano;
+B. (DEROGADO, P.O. 21 DE MARZO DE 2005)
 
-a) Dirección General de Control y Desarrollo Urbano;
+C. (DEROGADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2005)
 
-b) Dirección General de Transporte Público;
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2005)</small>
 
-c) Dirección General de Protección y Ordenamiento Ecológico;
+a) Dirección General de Enlace y Vinculación.
 
-d) Dirección General de Normatividad;
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2005)</small>
 
-e) Dirección General de Programación;
+b) Dirección General de Programación.
 
-f) Dirección General de Evaluación y Seguimiento;
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2005)</small>
 
-g) Dirección General de Concertación Social;
+c) Dirección General Jurídica.
 
-h) Dirección General Administrativa;
+d) (DEROGADO, P.O. 21 DE MARZO DE 2005)
 
-i) Coordinación General de Asesores; y
+e) (DEROGADO, P.O. 21 DE MARZO DE 2005)
 
-j) Dirección General Jurídica.
+f) (DEROGADO, P.O. 21 DE MARZO DE 2005)
+
+g) (DEROGADO, P.O. 21 DE MARZO DE 2005)
+
+h) (DEROGADO, P.O. 21 DE MARZO DE 2005)
+
+i) (DEROGADO, P.O. 21 DE MARZO DE 2005)
+
+j) (DEROGADO, P.O. 21 DE MARZO DE 2005)
 
 IV. SECRETARIA DE OBRAS PUBLICAS:
 
 A. Subsecretaría de Coordinación Técnica.
 
-a) Dirección General de Planeación, Licitación y Control;
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2005)</small>
 
-b) Dirección General de Supervisión de Obras y Servicios Públicos;
+a) Dirección General de Planeación y Proyectos.
 
-c) Dirección General de Proyectos y Presupuestos;
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2005)</small>
 
-d) Dirección General de la Unidad de Control de Calidad y Laboratorio;
+b) Dirección General de Supervisión de Obras.
 
-e) Dirección General Administrativa; y
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2005)</small>
 
-f) Dirección General Jurídica.
+c) Dirección General de Costos y Licitación de Obra.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2005)</small>
+
+d) Dirección General de Infraestructura Carretera.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2005)</small>
+
+e) Dirección General de Infraestructura Educativa.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2005)</small>
+
+f) Dirección General Administrativa.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2005)</small>
+
+g) Dirección General Jurídica.
 
 V. SECRETARIA DE DESARROLLO ECONOMICO:
 
@@ -965,27 +1349,33 @@ k) Dirección General de Estadística e Informática; y
 
 l) Dirección General de Relaciones Públicas.
 
-VI. SECRETARIA DE PLANEACION:
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
 
-A. Subsecretaría de Planeación;
+VI. SECRETARIA DE PLANEACION Y DESARROLLO REGIONAL:
 
-a) Dirección General de Administración Estratégica;
+A. Subsecretaría de Planeación y Desarrollo.
 
-b) Dirección General de Planeación de Obra Pública;
+a) Dirección General de Desarrollo Urbano.
 
-c) Dirección General Operativa; y
+b) Dirección General de Programación y Operación de Obra Pública.
 
-d) Dirección General para el Federalismo y el Desarrollo Municipal.
+c) Dirección General de Administración de la Información.
+
+d) Dirección General de Planeación Estratégica Integral.
+
+e) Dirección General de Federalismo y Desarrollo Municipal.
+
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
 
 VII. CONTRALORIA GENERAL DEL ESTADO:
 
-a) Dirección General de Auditoría y Control de Gestoría;
+a) Dirección General de Auditoría a Programas de Inversión Pública.
 
-b) Dirección General de Control y Registro Patrimonial;
+b) Dirección General Patrimonial y Contraloría Social.
 
-c) Dirección General de Responsabilidades; y
+c) Dirección General de Auditoría Gubernamental.
 
-d) Dirección General Jurídica.
+d) Dirección General Jurídica
 
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2004)</small>
 
@@ -1094,3 +1484,39 @@ CUARTO.- Cuando la competencia de alguna dependencia o entidad establecida con a
 QUINTO.- El Poder Ejecutivo contará con ciento ochenta días naturales, contados a partir del día siguiente de la publicación de este Decreto, para la expedición del Reglamento Interior respectivo.
 
 SEXTO.- Las bases normativas, acuerdos, manuales de procedimientos utilizados y actos jurídicos celebrados por la Coordinadora de Turismo para el Estado de Aguascalientes, en materia de turismo, a la entrada en vigor del presente Decreto serán competencia exclusiva de la Secretaría de Turismo.
+
+P.O. 21 DE MARZO DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado con las excepciones que en los artículos siguientes se indican.
+
+SEGUNDO.- Por lo que respecta a la denominación de la Secretaría de Finanzas, entrará en vigor una vez que inicie la vigencia del decreto que reforma los artículos 46, fracciones II y X, y 63 de la Constitución Política del Estado de Aguascalientes.
+
+TERCERO.- Se faculta al Ejecutivo Estatal para realizar las reasignaciones presupuestales necesarias, única y exclusivamente, respecto de las dependencias y áreas de nueva creación y de aquéllas a las que se les modifica su estructura administrativa, con la limitante de no rebasar los montos y las partidas presupuestales aprobadas por el H. Congreso del Estado en el Presupuesto de Egresos del Estado de Aguascalientes para el Ejercicio Fiscal 2005, relativo al gasto corriente que prevé la fracción I del artículo 11 de dicho Presupuesto.
+
+CUARTO.- Por lo que respecta a la reforma a los artículos 32, fracción XVII, en lo relativo a la materia de protección y restauración del medio ambiente, y de sus fracciones XVIII a XXVI, XXVII en lo relativo a la materia de ecología, y XXVIII, 47, fracción III apartado B e inciso c), entrarán en vigor un día después de la vigencia del decreto legal por el que se crea el organismo encargado de la protección y restauración del medio ambiente.
+
+QUINTO.- Se reformarán, en un plazo de ciento veinte días contados a partir de la entrada en vigor del presente Decreto, todas las disposiciones legales que procedan conforme a la presente reforma.
+
+SEXTO.- Al crearse la Secretaría de Seguridad Pública se transfieren a ésta, de la Subsecretaría de Seguridad Pública, el personal de base que labore a su servicio, sin perjuicio de sus derechos adquiridos, así como los recursos materiales para la atención de los asuntos que tuviera encargados antes de la entrada en vigor de este Decreto.
+
+SEPTIMO.- Todos aquellos actos jurídicos suscritos por el entonces Subsecretario de Seguridad Pública, quedarán vigentes en los mismos términos en que fueron suscritos.
+
+OCTAVO.- Al crearse la Secretaría de Gestión e Innovación, se transfieren a ésta, de la Subsecretaría de Administración y la Unidad de Modernización y Desarrollo Informático, el personal de base que continúe laborando a su servicio, sin perjuicio de sus derechos adquiridos; así como los recursos materiales para la atención de los asuntos que tuviera encargados antes de la entrada en vigor de este Decreto.
+
+NOVENO.- Las referencias que se hagan en ordenamientos jurídicos, decretos, reglamentos, convenios, acuerdos y demás disposiciones jurídicas a la Secretaría de Finanzas y Administración y a la Secretaría de Planeación, se entenderán hechas a la Secretaría de Finanzas y a la Secretaría de Planeación y Desarrollo Regional, respectivamente.
+
+DECIMO.- Las referencias que se hagan en ordenamientos jurídicos, decretos, reglamentos, convenios, acuerdos y demás disposiciones jurídicas a la Subsecretaría de Seguridad Pública y a la Subsecretaría de Administración, se entenderán hechas a la Secretaría de Seguridad Pública y a la Secretaría de Gestión e Innovación, respectivamente.
+
+DECIMO PRIMERO.- Todos aquellos contratos, acuerdos y convenios suscritos por el Secretario de Finanzas y Administración, y que fuere competencia de la Secretaría de Gestión e Innovación a que se refiere esta Ley, quedarán vigentes en los mismos términos en que fueron suscritos.
+
+DECIMO SEGUNDO.- Al separar las funciones de la Secretaría de Desarrollo Social del Estado y que ahora son de la Secretaría de Planeación y Desarrollo Regional, se transfieren a ésta, de la Secretaría de Desarrollo Social el personal de base que continúe laborando a su servicio, sin perjuicio de sus derechos adquiridos; así como los recursos materiales que tuviera encargados antes de la entrada en vigor de este Decreto.
+
+DECIMO TERCERO.- Las referencias que se hacen en decretos, reglamentos, convenios y demás disposiciones jurídicas a la Secretaría de Planeación, se entenderán hechas a la Secretaría de Planeación y Desarrollo Regional.
+
+DECIMO CUARTO.- Al integrar a la Secretaría de Obras Públicas la Dirección General de Infraestructura Carretera y la Dirección General de Infraestructura Educativa, se transfieren a esta Secretaría, de la Comisión de Caminos del Estado y del Consejo Estatal del Comité para la Construcción de Espacios Educativos en el Estado de Aguascalientes como organismo desconcentrado del Instituto de Educación del Estado, el personal de base que continúe laborando a su servicio sin perjuicio de sus derechos adquiridos; así como los recursos materiales para la atención de los asuntos que tuviera encargados antes de la entrada en vigor de este Decreto.
+
+DECIMO QUINTO.- Cada Secretaría reestructurada contará con ciento veinte días contados a partir del día siguiente de la publicación del presente Decreto, para la expedición y adecuación del Reglamento Interior respectivo.
+
+DECIMO SEXTO.- Cuando la competencia de alguna dependencia o entidad establecida con anterioridad a la entrada en vigor del presente Decreto deba ser ejercida por otra u otras de las que el mismo establece, pasarán los expedientes en trámite y el archivo a la dependencia o entidad competente que corresponda, y los asuntos que se encuentren en trámite competerá a cada una de las áreas reestructuradas para la conclusión, substanciación y emisión de las resoluciones respectivas.
+
+DECIMO SEPTIMO.- Las facultades y referencias del Código Urbano para el Estado de Aguascalientes que a continuación se mencionan y que actualmente están conferidas a la Secretaría de Desarrollo Social del Estado; en adelante se entenderán conferidas a la Secretaría de Planeación y Desarrollo Regional: artículo 14 fracción II, 20, 21, 22 fracciones IV, VII y IX; 23 fracciones VI y XXVI; 28 fracción II, 33 fracciones IV y VII; 34, 58, 64, 77, 78 fracción V; 81, 82, 89, 91 fracción II; 100 fracción II; 118, 168, 170, 196, 232, 264, 266, 271, 338, 343, 351, 357, 412, 413, 415, 421, 424, 425, 426, 427, 430, 431, 433, 437, 444, 445, 446, 448, 449, 450, 451, 458, 459, 460, 462, 464, 474 fracciones VI, VII, VIII, IX y X; 478, 490, 492, 570, 571, 582, 584, 585, 589, 590, 660, 672, 678, 680 y 681.
