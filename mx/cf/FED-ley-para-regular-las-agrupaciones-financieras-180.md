@@ -4,7 +4,7 @@ identifier: "FED-ley-para-regular-las-agrupaciones-financieras-180"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "1993-07-23"
+last_updated: "1993-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LRAF"
 
 LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JULIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1993.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -84,19 +84,15 @@ Se requerirá autorización de la Secretaría de Hacienda y Crédito Público pa
 
 Por su naturaleza, dichas autorizaciones serán intransmisibles.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 7o.
 
-Los grupos a que se refiere la presente Ley estarán integrados por una sociedad controladora y por algunas de las entidades financieras siguientes: almacenes generales de depósito, arrendadoras financieras, casas de bolsa, casas de cambio, empresas de factoraje financiero, instituciones de banca múltiple, instituciones de fianzas, instituciones de seguros, así como por sociedades operadoras de sociedades de inversión.
+Los grupos a que se refiere la presente Ley estarán integrados por una sociedad controladora y por algunas de las entidades financieras siguientes: almacenes generales de depósito, arrendadoras financieras, empresas de factoraje financiero, casas de cambio, instituciones de fianzas, instituciones de seguros, sociedades financieras de objeto limitado, casas de bolsa, instituciones de banca múltiple, así como por sociedades operadoras de sociedades de inversión.
 
-> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
-Cada grupo contará por lo menos con tres tipos diferentes de entidades financieras de las antes citadas, que no sean sociedades operadoras de sociedades de inversión.
-
-> <small>(DEROGADO TERCER PARRAFO, D.O.F. 23 DE JULIO DE 1993)</small>
-
-I. (DEROGADA, D.O.F. 23 DE JULIO DE 1993)
-
-II. (DEROGADA, D.O.F. 23 DE JULIO DE 1993)
+El grupo financiero podrá formarse con cuando menos dos tipos diferentes de las entidades financieras siguientes: instituciones de banca múltiple, casas de bolsa e instituciones de seguros. En los casos en que el grupo no incluya a dos de las mencionadas entidades deberá contar por lo menos con tres tipos diferentes de entidades financieras de las citadas en el párrafo anterior, que no sean sociedades operadoras de sociedades de inversión.
 
 La Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general, podrá autorizar que otras sociedades puedan formar parte de estos grupos.
 
@@ -174,6 +170,10 @@ La Secretaría de Hacienda y Crédito Público expedirá las reglas generales qu
 
 ## TITULO TERCERO. De las Sociedades Controladoras
 
+> <small>(ADICIONADO, PASANDO LOS ARTICULOS 15 A 27 A FORMAR PARTE DEL MISMO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+### CAPITULO I. De las Sociedades Controladoras
+
 ###### ARTICULO 15.
 
 El control de las asambleas generales de accionistas y de la administración de todos los integrantes de cada grupo, deberá tenerlo una misma sociedad anónima controladora.
@@ -194,21 +194,33 @@ Los estatutos de la controladora, el convenio de responsabilidades mencionado en
 
 Una vez aprobados los documentos citados, se inscribirán en el Registro Público de Comercio sin que sea preciso mandamiento judicial.
 
-> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 18.
 
-El capital pagado de las sociedades controladoras se integrará por acciones serie "A", que representarán el cincuenta y uno por ciento del capital ordinario de la sociedad.
+El capital social de las sociedades controladoras estará formado por una parte ordinaria y podrá también estar integrado por una parte adicional. El capital social ordinario de las sociedades controladoras se integrará por acciones de la Serie "A", que representarán el cincuenta y uno por ciento del capital ordinario de la sociedad.
 
-Asimismo, el cuarenta y nueve por ciento de la parte ordinaria del capital, podrá integrarse indistinta o conjuntamente por acciones series "A", "B" y "C"; la serie "C", sólo podrá emitirse hasta por el treinta por ciento de dicho capital.
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
-El capital pagado también podrá integrarse con una parte adicional, representada por acciones serie "L", que se emitirán hasta por un monto equivalente al treinta por ciento del capital ordinario de la sociedad, previa autorización de la Comisión Nacional de Valores.
+Asimismo, el cuarenta y nueve por ciento de la parte ordinaria del capital social, podrá integrarse indistinta o conjuntamente por acciones series "A", "B" y "C"; la serie "C", sólo podrá emitirse hasta por el treinta por ciento de dicho capital ordinario.
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+En su caso, el capital social adicional estará representado por acciones serie "L", que podrán emitirse hasta por un monto equivalente al treinta por ciento del capital social ordinario de la sociedad, previa autorización de la Comisión Nacional de Valores.
+
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
 
 Las acciones de la serie "A" sólo podrán adquirirse por personas físicas mexicanas y sociedades de inversión comunes exclusivas para esas personas; por el Fondo Bancario de Protección al Ahorro, así como por el fondo de protección y garantía a que se refiere la Ley del Mercado de Valores.
 
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+
 Las acciones de la serie "B" sólo podrán adquirirse por las personas señaladas en el párrafo anterior; por personas morales mexicanas cuyos estatutos contengan cláusula de exclusión directa e indirecta de extranjeros, así como por inversionistas institucionales de los mencionados en el artículo 19 de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+
 Las acciones de las series "C" y "L", podrán adquirirse por las personas a que se refiere el párrafo anterior; por las demás personas mexicanas, así como por personas físicas o morales extranjeras.
+
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
 
 En ningún momento podrán participar en forma alguna en el capital de la controladora, personas morales extranjeras que ejerzan funciones de autoridad. Tampoco podrán hacerlo entidades financieras del país, incluso las que formen parte del respectivo grupo, salvo cuando actúen como inversionistas institucionales, en términos del artículo 19 de esta Ley.
 
@@ -232,17 +244,19 @@ Salvo lo previsto en el párrafo siguiente, las instituciones de seguros y de fi
 
 Las inversiones que realicen, individual o conjuntamente, sociedades de inversión controladas directa o indirectamente por entidades financieras integrantes de un grupo, en acciones y obligaciones subordinadas computables emitidas por la controladora y demás participantes del grupo, en ningún caso podrán ser superiores al diez por ciento del total de tales acciones y obligaciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 20.
 
-Ninguna persona física o moral podrá adquirir directa o indirectamente, mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, el control de más del cinco por ciento del capital pagado de una sociedad controladora. La Secretaría de Hacienda y Crédito Público podrá autorizar, cuando a su juicio así se justifique, un porcentaje mayor, sin exceder en caso alguno del diez por ciento.
+Ninguna persona física o moral podrá adquirir directa o indirectamente, mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, el control de más del cinco por ciento del capital social de una sociedad controladora. La Secretaría de Hacienda y Crédito Público podrá autorizar, cuando a su juicio así se justifique, un porcentaje mayor, sin exceder en caso alguno del diez por ciento.
 
 Dichos límites también se aplicarán a las personas que la citada Secretaría considere, para estos efectos, como una misma persona.
 
 Se exceptúa de lo dispuesto en los párrafos anteriores:
 
-> <small>(REFORMADA, D.O.F. 9 DE JUNIO DE 1992)</small>
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
-I. A los inversionistas institucionales, siempre y cuando su inversión no exceda en lo individual o en conjunto del quince por ciento del capital pagado de la sociedad emisora, las controladoras deberán establecer mecanismos que permitan el cumplimiento de lo dispuesto en esta fracción. Las inversiones que en su caso realicen sociedades de inversión conforme al último párrafo del artículo anterior, computarán dentro del límite previsto en esta fracción;
+I. A los inversionistas institucionales, siempre y cuando su inversión no exceda en lo individual o en conjunto del veinte por ciento del capital social de la sociedad emisora. Las controladoras deberán establecer mecanismos que permitan el cumplimiento de lo dispuesto en esta fracción. Las inversiones que en su caso realicen sociedades de inversión conforme al último párrafo del artículo anterior, computarán dentro del límite previsto en esta fracción;
 
 II. Al Fondo Bancario de Protección al Ahorro y al fondo de protección y garantía previsto en la Ley del Mercado de Valores;
 
@@ -250,9 +264,31 @@ III. A las personas que adquieran acciones conforme a programas aprobados por la
 
 IV. A las propias controladoras, cuando adquieran acciones de otra controladora, conforme a lo previsto en programas aprobados por la Secretaría de Hacienda y Crédito Público, conducentes a la fusión de las mismas.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+V. Las entidades financieras del exterior que inviertan en acciones serie "C" del capital social de una sociedad controladora quienes, previa autorización de la Secretaría de Hacienda y Crédito Público, podrán adquirir el control de acciones representativas de hasta el veinte por ciento del capital social de una sociedad controladora, siempre y cuando el capital social de dichas entidades financieras del exterior se encuentre diversificado a juicio de la propia Secretaría. Si dicha diversificación disminuyera, la Secretaría de Hacienda y Crédito Público podrá requerir a la entidad financiera del exterior que ajuste su inversión en acciones de la serie "C" a los límites señalados en el primer párrafo de este artículo.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 20
+
+Bis.- Se requerirá autorización de la Secretaría de Hacienda y Crédito Público, quien oirá la opinión de la Comisión que supervise a la sociedad controladora de conformidad con lo señalado por el artículo 30 de esta Ley y del Banco de México, para que cualquier grupo de personas adquiera, directa o indirectamente, mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, el control de dicha sociedad controladora.
+
+Para los efectos señalados en el presente artículo, se entenderá que un grupo de personas adquiere el control de una sociedad controladora cuando sea propietario de treinta por ciento o más de las acciones representativas del capital pagado de la propia sociedad, tenga el control de la asamblea general de accionistas, esté en posibilidad de nombrar a la mayoría de los miembros del consejo de administración, o por cualquier otro medio controle a la sociedad controladora de que se trate.
+
+Las solicitudes de autorización a que se refiere el primer párrafo de este artículo deberán acompañarse de lo siguiente:
+
+I. Relación de las personas que pretendan adquirir el control de la sociedad controladora de que se trate indicando el capital que suscribirán, la manera en que realizarán su pago, así como el origen de los recursos con que se realizará dicho pago;
+
+II. Relación de los consejeros y directivos que nombrarían en la sociedad controladora de la que pretenden adquirir el control; y
+
+III. La demás (sic) documentación que a juicio de la Secretaría de Hacienda y Crédito Público se requiera a efecto de evaluar la solicitud correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 21.
 
-La controladora se abstendrá de inscribir en el registro de acciones a que se refiere el artículo 128 de la Ley General de Sociedades Mercantiles, las transmisiones que se efectúen en contravención de lo dispuesto en los artículos 18, 19 y 20 de la presente Ley. En estos casos, la controladora deberá rechazar la inscripción e informar sobre la transmisión a la Secretaría de Hacienda y Crédito Público, dentro de los cinco días hábiles siguientes al que conozca de dicha transmisión.
+La controladora se abstendrá de inscribir en el registro de acciones a que se refiere el artículo 128 de la Ley General de Sociedades Mercantiles, las transmisiones que se efectúen en contravención de lo dispuesto en los artículos 18, 19, 20 y 20 bis de la presente Ley. En estos casos, la controladora deberá rechazar la inscripción e informar sobre la transmisión a la Secretaría de Hacienda y Crédito Público, dentro de los cinco días hábiles siguientes al que conozca de dicha transmisión.
 
 Las personas que contravengan lo previsto en los artículos señalados en el párrafo anterior, serán sancionadas por la Secretaría de Hacienda y Crédito Público, la cual oyendo previamente al interesado, determinará en su caso, que se vendan a la propia controladora las acciones que excedan de los límites fijados, al cincuenta por ciento del menor de los valores siguientes:
 
@@ -289,6 +325,10 @@ I. Acciones emitidas por los demás integrantes del grupo. La controladora sólo
 II. Inmuebles, mobiliario y equipo, estrictamente indispensables para la realización de su objeto, y
 
 III. Valores a cargo del Gobierno Federal, instrumentos de captación bancaria y otras inversiones que autorice la referida Secretaría.
+
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+IV. Títulos representativos de cuando menos el cincuenta y uno por ciento del capital ordinario de entidades financieras del exterior, previa autorización de la Secretaría de Hacienda y Crédito Público, en los términos y proporciones que dicha Secretaría señale.
 
 > <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
 
@@ -366,6 +406,136 @@ Las resoluciones de la Comisión se tomarán por acuerdo de su Junta de Gobierno
 
 Las resoluciones a que se refiere este artículo podrán ser recurridas ante la Secretaría de Hacienda y Crédito Público, dentro de los quince días siguientes a la fecha en que hubieren sido notificadas. La propia Secretaría podrá revocar, modificar o confirmar la resolución recurrida, previa audiencia de las partes.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+### CAPITULO II. De las Filiales de Instituciones Financieras del Exterior
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 27-A.
+
+Para efectos de esta Ley se entenderá por:
+
+I. Filial: La sociedad mexicana autorizada para organizarse y operar conforme a la Ley correspondiente, como cualquiera de las entidades financieras que se mencionan en el primer párrafo del artículo 7o. de la presente Ley;
+
+II. Institución Financiera del Exterior: La entidad financiera constituida en un país con el que México haya celebrado un tratado o acuerdo internacional en virtud del cual se permita el establecimiento en territorio nacional de Filiales; y
+
+III. Sociedad Controladora Filial: La sociedad mexicana autorizada para constituirse y funcionar como sociedad controladora de un grupo financiero en los términos de esta Ley, y en cuyo capital participe una Institución Financiera del Exterior en los términos del presente capítulo.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 27-B.
+
+Las Sociedades Controladoras Filiales se regirán por lo previsto en los tratados o acuerdos internacionales correspondientes, el presente capítulo, las disposiciones contenidas en esta Ley aplicables a las Sociedades Controladoras y grupos financieros, y las reglas para el establecimiento de filiales que expida la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de las Comisiones Nacionales Bancaria, de Valores y de Seguros y Fianzas.
+
+La Secretaría de Hacienda y Crédito Público estará facultada para interpretar para efectos administrativos las disposiciones sobre servicios financieros que se incluyan en los tratados o acuerdos internacionales a que hace mención el párrafo anterior, así como para proveer a su observancia.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 27-C.
+
+Las entidades financieras en cuyo capital participe una Sociedad Controladora Filial se regirán por las disposiciones aplicables a las Filiales de Instituciones Financieras del Exterior.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 27-D.
+
+Para constituir una Sociedad Controladora Filial y operar como grupo financiero, la Institución Financiera del Exterior requerirá autorización del Gobierno Federal, que compete otorgar discrecionalmente a la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y, según corresponda en virtud de los integrantes del grupo financiero, de las Comisiones Nacionales Bancaria, de Valores y de Seguros y Fianzas. Por su naturaleza estas autorizaciones serán intransmisibles.
+
+Las autorizaciones que al efecto se otorguen, así como sus modificaciones, se publicarán en el Diario Oficial de la Federación y en dos periódicos de amplia circulación del domicilio social de la Sociedad Controladora Filial de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 27-E.
+
+Las autoridades financieras, en el ámbito de sus respectivas competencias, garantizarán el cumplimiento de los compromisos de trato nacional que en su caso sean asumidos por México, en los términos establecidos en el tratado o acuerdo internacional aplicable.
+
+Las Filiales podrán realizar las mismas operaciones que las sociedades controladoras a menos que el tratado o acuerdo internacional aplicable establezca alguna restricción.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 27-F.
+
+Solamente podrá constituir un grupo financiero la Institución Financiera del Exterior expresamente autorizada en el tratado o acuerdo internacional aplicable, de conformidad con lo que señalen la presente Ley y las reglas a las que se refiere el primer párrafo del artículo 27-B.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 27-G.
+
+La solicitud de autorización para constituir una Sociedad Controladora Filial deberá cumplir con los requisitos establecidos en la presente Ley y en las reglas a las que se refiere el artículo anterior.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 27-H.
+
+El capital social de las Sociedades Controladoras Filiales deberá estar integrado por una sola serie de acciones. Una Institución Financiera del Exterior, directa o indirectamente, deberá ser en todo momento propietaria de acciones que representen cuando menos el noventa y nueve por ciento del capital social de la Filial, salvo en el caso a que se refiere el último párrafo del artículo 27-I.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 27-I.
+
+Las acciones representativas del capital social de una Sociedad Controladora Filial o una entidad financiera Filial únicamente podrán ser enajenadas previa autorización de la Secretaría de Hacienda y Crédito Público.
+
+Salvo en el caso en que el adquirente sea una Institución Financiera del Exterior o una Sociedad Controladora Filial, para llevar a cabo la enajenación deberán modificarse los estatutos sociales de la Sociedad Controladora Filial cuyas acciones sean objeto de la operación, a efecto de cumplir con lo dispuesto en Capítulo I del presente Título.
+
+Cuando el adquirente sea una Institución Financiera del Exterior o una Sociedad Controladora Filial deberá observarse lo dispuesto en las fracciones I y III del artículo 27-J.
+
+No se requerirá autorización de la Secretaría de Hacienda y Crédito Público ni modificación de estatutos cuando la transmisión de acciones sea, en garantía o propiedad, al Fondo Bancario de Protección al Ahorro o al Fondo de Apoyo al Mercado de Valores.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 27-J.
+
+La Secretaría de Hacienda y Crédito Público podrá autorizar:
+
+a) a las Instituciones Financieras del Exterior o a las Sociedades Controladoras Filiales la adquisición de acciones representativas del capital social de una sociedad controladora de un grupo financiero; y
+
+b) a las Sociedades Controladoras Filiales la adquisición de acciones representativas del capital social de una entidad financiera en cuyo capital participen mayoritariamente mexicanos.
+
+Siempre y cuando se cumplan los siguientes requisitos:
+
+I. La Institución Financiera del Exterior o la Sociedad Controladora Filial, según corresponda, deberá adquirir acciones que representen cuando menos el noventa y nueve por ciento del capital social de la sociedad controladora o de la entidad financiera, según sea el caso;
+
+II. Deberán modificarse los estatutos sociales de la sociedad controladora o de la entidad financiera mexicana de que se trate, cuyas acciones sean objeto de enajenación, a efecto de cumplir con lo dispuesto en el presente capítulo; y
+
+III. Cuando el adquirente sea una Institución Financiera del Exterior o una Sociedad Controladora Filial que ya sea propietaria de acciones representativas del capital social de una Sociedad Controladora Filial o entidad financiera Filial, deberá fusionar ambas sociedades o entidades, según corresponda, a efecto de controlar solamente una entidad financiera Filial del mismo tipo, o una sola Sociedad Controladora Filial.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 27-K.
+
+Las Sociedades Controladoras Filiales no podrán emitir obligaciones subordinadas, salvo para ser adquiridas por la Institución Financiera del Exterior propietaria, directa o indirectamente, de las acciones representativas del capital social de la Sociedad Controladora Filial emisora. Tampoco les estará permitido a las Sociedades Controladoras Filiales establecer sucursales o subsidiarias fuera del territorio nacional.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 27-L.
+
+El consejo de administración de las Sociedades Controladoras Filiales estará integrado por lo menos por cinco consejeros, de entre los cuales la mayoría deberá residir en territorio nacional.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 27-M.
+
+Se exceptúa a los directores generales de las Sociedades Controladoras Filiales del requisito previsto en la fracción I del artículo 26 de la presente Ley. Los directores generales de las Sociedades Controladoras Filiales deberán residir en territorio nacional.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 27-N.
+
+El órgano de vigilancia de las Sociedades Controladoras Filiales estará integrado por lo menos por un comisario nombrado por la Institución Financiera del Exterior propietaria de las acciones representativas del capital social de la Sociedad Controladora Filial.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 27
+
+Ñ.- La inspección y vigilancia de las Sociedades Controladoras Filiales estará a cargo de la Comisión que supervise a la entidad financiera integrante del Grupo que la Secretaría de Hacienda y Crédito Público determine como la preponderante dentro del propio grupo, en los términos de esta Ley. Cuando autoridades supervisoras del país de origen de la Institución Financiera del Exterior propietaria de acciones representativas del capital social de una Sociedad Controladora Filial o de una Filial, según sea el caso, deseen realizar visitas de inspección, deberán solicitarlo a las mencionadas Comisiones Nacionales. En todo caso las visitas deberán hacerse por conducto de la Comisión correspondiente, la que establecerá los términos en que las visitas deban realizarse.
+
+La solicitud a que hace mención el párrafo anterior deberá hacerse por escrito, cuando menos con treinta días naturales de anticipación y deberá acompañarse de lo siguiente:
+
+I. Descripción del acto de inspección a ser realizado; y
+
+II. Las disposiciones legales pertinentes al acto de inspección objeto de la solicitud.
+
 ## TITULO CUARTO. De la Protección de los Bienes del Público
 
 ###### ARTICULO 28.
@@ -406,9 +576,11 @@ Las empresas de servicios complementarios a que se refiere el último párrafo d
 
 ## TITULO QUINTO. De las Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 31.
 
-Las entidades financieras integrantes de un grupo sólo podrán adquirir acciones representativas del capital de otras entidades financieras, de conformidad con las disposiciones aplicables, y sin exceder del uno por ciento del capital pagado de la emisora; en ningún caso participarán en el capital de los otros integrantes del grupo.
+Las entidades financieras integrantes de un grupo sólo podrán adquirir acciones representativas del capital de otras entidades financieras, de conformidad con las disposiciones aplicables, y sin exceder del uno por ciento del capital pagado de la emisora; en ningún caso participarán en el capital de los otros integrantes del grupo. Asimismo, los integrantes de un grupo podrán invertir en títulos representativos del capital social de entidades financieras del exterior, previa autorización de la Secretaría de Hacienda y Crédito Público.
 
 No obstante lo dispuesto en el párrafo anterior, las instituciones de seguros y las de fianzas podrán participar, de conformidad con las disposiciones de las respectivas leyes aplicables, en el capital de otras de dichas instituciones.
 
@@ -527,3 +699,41 @@ TERCERO.- Los recursos a que se refiere el artículo 110 de la Ley de Institucio
 CUARTO.- El porcentaje y el monto máximos previstos para las multas que aplique la Comisión Nacional Bancaria en términos del artículo 108 de la Ley de Instituciones de Crédito, que por virtud de este Decreto se reforma, continuarán siendo aplicables tratándose de incumplimientos o violaciones cometidos con anterioridad a la entrada en vigor del presente Decreto.
 
 QUINTO.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 23 DE DICIEMBRE DE 1993.
+
+PRIMERO.- El presente Decreto entrará en vigor el primero de enero de 1994.
+
+SEGUNDO.- La Secretaría de Hacienda y Crédito Público autorizará el límite de capital individual que podrá alcanzar cada Filial, así como el límite agregado que en su conjunto podrán alcanzar las Filiales del mismo tipo, de conformidad con los tratados o acuerdos internacionales aplicables.
+
+TERCERO.- Las adquisiciones por parte de Filiales, Instituciones Financieras del Exterior o Sociedades Controladoras Filiales de acciones de intermediarios financieros, en cuyo capital participen mayoritariamente inversionistas mexicanos, o de acciones de Filiales o Sociedades Controladoras Filiales, estarán sujetas a los límites de capital individuales y agregados que en su caso establezcan los tratados o acuerdos internacionales aplicables.
+
+CUARTO.- Cuando una Filial alcance el noventa por ciento del límite de capital individual autorizado, deberá notificar este hecho a la Secretaría de Hacienda y Crédito Público dentro de los cinco días hábiles siguientes.
+
+El incumplimiento de la obligación a que se refiere el párrafo anterior será sancionado por la Comisión Nacional competente, previa audiencia, con multa de hasta 2,500 días de salario mínimo por cada día de retraso en la notificación correspondiente.
+
+QUINTO.- Cuando una Filial exceda el límite de capital individual autorizado, la Secretaría de Hacienda y Crédito Público estará facultada para establecer un programa de reducción de capital a fin de que en un periodo determinado se ajuste a dicho límite. En todo caso, para cumplir con los requerimientos de capitalización aplicables se tomará en cuenta el menor entre el límite de capital individual autorizado y el capital real con que cuente la Filial de que se trate.
+
+Cuando se exceda el límite de capital individual autorizado, la Comisión Nacional competente estará facultada para remover, suspender o imponer veto a los miembros del consejo de administración, directores generales, comisarios, directores, gerentes y funcionarios que puedan obligar con su firma a la sociedad, previa audiencia, de conformidad con el procedimiento establecido en la ley aplicable.
+
+Si la infracción a lo dispuesto en el párrafo anterior es reiterada, o si la Filial no cumple con el programa de reducción de capital a que se refiere el primer párrafo del presente artículo, se podrá declarar la revocación de la autorización para constituir y operar una Filial o una Sociedad Controladora Filial, previa audiencia, en los términos establecidos en la ley aplicable.
+
+SEXTO.- El otorgamiento de autorizaciones para organizarse y operar como Filiales, así como para inscribirse en la Sección de Intermediarios del Registro Nacional de Valores e Intermediarios, se podrá suspender cuando se hayan alcanzado los límites agregados a la participación de Instituciones Financieras del Exterior, o procedan las cláusulas de salvaguarda que en su caso establezca el tratado o acuerdo internacional aplicable.
+
+SEPTIMO.- Los límites individuales y agregados aplicables a las Filiales que en su caso establezcan los tratados o acuerdos internacionales correspondientes, serán calculados con base en la información proporcionada por la Comisión Nacional competente y por el Banco de México, en los términos de las reglas para el establecimiento de Filiales.
+
+OCTAVO.- Tratándose de instituciones de banca múltiple Filiales, los límites de capital individuales y agregados se fijarán con base en el capital neto de la totalidad de las instituciones de banca múltiple establecidas en México en la fecha de cálculo.
+
+NOVENO.- Tratándose de sociedades financieras de objeto limitado Filiales, los límites individuales y agregados se fijarán con base en la suma de los activos de la totalidad de las instituciones de banca múltiple y las sociedades financieras de objeto limitado establecidas en México en la fecha de cálculo.
+
+DECIMO.- Tratándose de las sociedades Filiales inscritas en la Sección de Intermediarios del Registro Nacional de Valores e Intermediarios, los límites de capital individuales y agregados se fijarán con base en el capital global de la totalidad de las instituciones del mismo tipo establecidas en México en la fecha de cálculo.
+
+DECIMO PRIMERO.- Tratándose de organizaciones auxiliares de crédito Filiales, casas de cambio Filiales e instituciones de fianzas Filiales, los límites de capital individuales y agregados se fijarán con base en la suma del capital contable de la totalidad de las instituciones del mismo tipo establecidas en México en la fecha de cálculo.
+
+DECIMO SEGUNDO.- Los límites de capital individuales y agregados aplicables a las instituciones de seguros se fijarán con base en la cantidad que como requerimiento bruto de solvencia, necesiten las instituciones de seguros. Dicho requerimiento bruto de solvencia corresponderá al capital mínimo de garantía que se establezca, de acuerdo a las reglas que conforme al artículo 60 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros compete emitir a la Secretaría de Hacienda y Crédito Público, y se considerará por separado para la realización de las operaciones de vida, accidentes y enfermedades por una parte y de daños, considerando cada uno de sus ramos, por la otra.
+
+DECIMO TERCERO.- No obstante lo dispuesto en el artículo 29 fracción II de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, las Instituciones Financieras del Exterior podrán adquirir, previa autorización de un programa de inversiones por la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Seguros y Fianzas, una participación accionaria en una institución de seguros de las previstas en el inciso a) de la fracción I Bis, del artículo 29 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, por constituirse o ya establecida, de conformidad con lo dispuesto en los tratados o acuerdos internacionales aplicables.
+
+Las Instituciones Financieras del Exterior que antes de la entrada en vigor del tratado o acuerdo aplicable tengan inversiones en instituciones de seguros, podrán incrementar éstas de conformidad con dicho tratado.
+
+A las inversiones señaladas en los dos párrafos anteriores no les serán aplicables los límites de capital individuales y agregados de conformidad con el tratado o acuerdo internacional aplicable.
