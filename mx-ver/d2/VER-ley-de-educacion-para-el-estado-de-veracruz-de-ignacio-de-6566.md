@@ -4,7 +4,7 @@ identifier: "VER-ley-de-educacion-para-el-estado-de-veracruz-de-ignacio-de-6566"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-21"
-last_updated: "1993-12-21"
+last_updated: "2002-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE EDUCACION PARA EL ESTADO DE VERACRUZ-LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE AGOSTO DE 2002.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 21 de diciembre de 1993.
 
@@ -79,7 +79,9 @@ Todos los habitantes de la entidad tienen derecho a las mismas oportunidades de 
 
 La educación que impartan el Estado, los municipios, los organismos descentralizados y órganos desconcentrados, y los particulares con autorización o con reconocimiento de validez oficial de estudios, tendrá, además de los fines establecidos en el segundo párrafo del artículo 3º de la Constitución Política de los Estados Unidos Mexicanos, y en el artículo 7º de la Ley General de Educación, las siguientes finalidades:
 
-I. Fomentar actividades de carácter científico y tecnológico, que respondan a las necesidades del desarrollo regional, municipal, estatal y nacional;
+> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2002)</small>
+
+I. Fomentar actividades de carácter científico y tecnológico, que respondan a las necesidades de desarrollo sustentable regional, municipal, estatal y nacional;
 
 II. Proteger y acrecentar los bienes y valores que constituyen el acervo cultural del Estado, y hacerlos accesibles a la colectividad;
 
@@ -93,17 +95,23 @@ VI. Fomentar el cuidado de la salud individual, prevenir sobre los perjuicios qu
 
 VII. Crear conciencia para preservar la integridad de la familia;
 
-VIII. Fortalecer el conocimiento del ambiente natural inmediato al individuo, así como el del territorio del Estado, con el fin de aprovechar racionalmente sus recursos;
+> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2002)</small>
 
-IX. Crear conciencia de la necesidad de mejorar el ambiente y de preservar el equilibrio ecológico;
+VIII. Promover el conocimiento de los ecosistemas existentes en el territorio del Estado y destacar la importancia de su vinculación con los individuos, en un sentido de mutua pertenencia entre éstos y el medio ambiente;
+
+> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2002)</small>
+
+IX. Crear conciencia de la necesidad de mejorar el ambiente, de preservar el equilibrio ecológico y de hacer un aprovechamiento racional de los recursos naturales;
 
 X. Fortalecer el aprecio por la historia de la entidad y de la región;
 
 XI. Valorar la esencia de las tradiciones y de las manifestaciones culturales de las diversas regiones de la entidad.
 
+> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 2002)</small>
+
 ###### ARTICULO 9°.
 
-El criterio que orientará a la educación que se imparta en el Sistema Educativo Estatal, responderá a un proyecto democrático y nacionalista; contribuirá a la mejor convivencia humana y, basado en los avances de la ciencia, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios; y promoverá y fortalecerá los principios de fraternidad e igualdad de derechos de todos los hombres.
+El criterio que orientará a la educación que se imparta en el Sistema Educativo Estatal, responderá a un proyecto democrático, nacionalista y sustentable; contribuirá a la mejor convivencia humana y al aprovechamiento adecuado de los recursos naturales y, basados en los avances de la ciencia, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios; y promoverá y fortalecerá los principios de fraternidad e igualdad de derechos de todos los hombres.
 
 ###### ARTICULO 10.
 
@@ -153,7 +161,9 @@ Corresponden al Estado, en materia educativa, las siguientes atribuciones:
 
 I. Prestar los servicios de educación inicial, especial, para adultos y de formación y capacitación para el trabajo;
 
-II. Atender las necesidades educativas de la entidad considerando las características particulares del entorno social;
+> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2002)</small>
+
+II. Atender las necesidades educativas de la entidad considerando las características particulares de los entornos social, cultural y ecológico-ambiental;
 
 III. Elaborar los calendarios escolares que sean de su competencia y ajustar, en su caso, el calendario escolar para cada ciclo lectivo de primaria, secundaria, normal y demás para la formación de docentes de educación básica, respecto del calendario fijado por la autoridad educativa federal, garantizando el número de días efectivos de clases previstos en éste. Los maestros serán debidamente remunerados si la modificación implica mas días de clases que los establecidos en el calendario escolar;
 
@@ -181,7 +191,9 @@ XIV. Adecuar el sistema estatal de créditos al sistema nacional de créditos, a
 
 XV. Promover la participación social en favor de los servicios educativos;
 
-XVI. Fomentar y difundir las actividades artísticas, culturales y físico-deportivas en todas sus manifestaciones; y
+> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2002)</small>
+
+XVI. Fomentar y difundir las actividades artísticas, culturales, físico-deportivas y ambientales en todas sus manifestaciones; y
 
 XVII. Las demás atribuciones que con tal carácter establezca la Ley General de Educación, esta ley y las disposiciones que de las mismas emanen.
 
@@ -287,9 +299,15 @@ III. Las propuestas didáctico-metodológicas pertinentes a la naturaleza de los
 
 IV. Los criterios, normas y procedimientos de evaluación y acreditación del aprendizaje.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE AGOSTO DE 2002)</small>
+
 ###### ARTICULO 28.
 
-En la elaboración de los planes y programas de estudio deberán considerarse el contexto y las dimensiones reales del proceso educativo, las necesidades sociales y los requerimientos del educando, a fin de alcanzar tanto los propósitos educativos para el individuo, como los específicos de productividad y de servicio social. Además, se tomarán en cuenta los criterios lógicos, psicológicos, pedagógicos y sociales inherentes a dicho proceso, de tal manera que:
+En la elaboración de los planes y programas de estudio deberán considerarse el contexto y las dimensiones reales del proceso educativo, las necesidades sociales, culturales y ambientales, así como los requerimientos del educando a fin de alcanzar tanto los propósitos educativos para el individuo, como los específicos de productividad y de servicio social.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE AGOSTO DE 2002)</small>
+
+Además se tomarán en cuenta los criterios lógicos, psicológicos, pedagógicos y sociales inherentes a dicho proceso, de tal manera que:
 
 I. Todos los elementos y procesos contribuyan al desarrollo integral del educando;
 
@@ -894,3 +912,11 @@ SECRETARIO GENERAL DE GOBIERNO.
 ROBERTO BRAVO GARZON.
 
 SECRETARIO DE EDUCACION Y CULTURA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 13 DE AGOSTO DE 2002.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano de difusión del gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente ordenamiento.
