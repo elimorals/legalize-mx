@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-deuda-publica-municipal-del-estado-de-mexico-5977"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-31"
-last_updated: "1986-12-31"
+last_updated: "1987-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,23 +21,47 @@ state: "MEX"
 ---
 # LEY DE DEUDA PUBLICA MUNICIPAL DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE MARZO DE 1987 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
-LEY DE DEUDA PUBLICA MUNICIPAL DEL ESTADO DE MÉXICO
+LEY DE INGRESOS DEL MUNICIPIO DE SAN JUAN QUIAHIJE, DISTRITO DE JUQUILA, OAXACA, PARA EL EJERCICIO FISCAL 2026
 
 TEXTO ORIGINAL.
 
-Ley publicada en el Número 129 de la Gaceta del Gobierno del Estado de México, el miércoles 31 de diciembre de 1986.
+Ley publicada en la Trigésima Sexta Sección del Número 4 del Periódico Oficial del Estado de Oaxaca, el sábado 24 de enero de 2026.
 
-El Ciudadano LICENCIADO ALFREDO BARANDA G., Gobernador del Estado Libre y Soberano de México, a sus habitantes sabed:
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
 
-Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
+###### Artículo 37.
 
-DECRETO NUMERO 161
+El pago de los derechos a que se refiere esta sección, debe hacerse previo a la expedición de las certificaciones y constancias y se pagará conforme a las siguientes cuotas:
 
-LA H. XLIX LEGISLATURA DEL ESTADO DE MEXICO, DECRETA:
+CONCEPTO CUOTA EN PERIODICIDAD
 
-LEY DE DEUDA PUBLICA MUNICIPAL DEL ESTADO DE MEXICO
+PESOS
+
+(NOTA: EL 6 DE JULIO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 35/2026, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE JULIO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+I. COPIAS CERTIFICADAS DE
+
+DOCUMENTOS EXISTENTES
+
+EN LOS ARCHIVOS DE LAS
+
+OFICINAS MUNICIPALES 40.00 POR EVENTO
+
+II. Expedición de certificados de 72.00 Por evento
+
+residencia, origen, dependencia
+
+económica, de situación fiscal, de
+
+contribuyentes inscritos en la
+
+Tesorería Municipal y de morada
+
+conyugal.
+
+III. Constancia de origen e identidad 207.00 Por evento
+
+uso extranjero.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
