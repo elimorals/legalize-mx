@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-6631"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "2000-12-27"
+last_updated: "2001-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DEL 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -2729,23 +2729,23 @@ Las dependencias oficiales competentes y sus delegaciones, no tramitarán ningun
 
 ### CAPITULO DECIMO SEPTIMO. DEL IMPUESTO SOBRE LA PRESTACION DE SERVICIOS DE HOSPEDAJE
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DEL 2001)</small>
 
 ARTICULO 384 BIS 15.- Son sujetos del Impuesto sobre la Prestación de Servicios de Hospedaje todas las personas que reciban el servicio de hospedaje en el Estado de Morelos.
 
 Las personas físicas o morales que presten servicio de hospedaje estarán obligados a la retención y entero del impuesto.
 
-El objeto del impuesto será exclusivamente el servicio de hospedaje que se reciba. Para los efectos de este impuesto se consideran servicios de hospedaje, la prestación de alojamiento o albergue temporal de personas mediante el pago de un precio determinado.
+El objeto del impuesto será exclusivamente el servicio de hospedaje que se reciba. Para los efectos de este impuesto se consideran servicios de hospedaje, la prestación de alojamiento o albergue temporal de personas mediante el pago de un precio determinado; queda excluido el servicio de alojamiento o albergue que se preste en hospitales, asilos para ancianos y cualquier otro centro de asistencia social.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DEL 2001)</small>
 
-ARTICULO 384 BIS 16.- El impuesto a que se refiere este capítulo se causará al momento que se perciba el pago por los servicios de hospedaje.
+ARTICULO 384 BIS 16.- El impuesto al que se refiere este Capítulo se causará y retendrá en el momento en que se perciba el pago por los servicios de hospedaje.
 
-Los recursos que genere el impuesto que se recaude anualmente sobre la prestación de servicios de hospedaje se destinarán, el 82% a la publicidad, promoción y difusión turística, y el 14% a la realización de obras de infraestructura de interés turístico en el Estado de Morelos.
+Los recursos que genere el Impuesto sobre la Prestación de Servicios de Hospedaje serán destinados a la publicidad, promoción y difusión turística así como la realización de obras de infraestructura de interés turístico en el Estado de Morelos, destinándose un mínimo del setenta y seis por ciento a la publicidad, promoción y difusión turística; hasta el diez por ciento como máximo a la realización de obras de infraestructura de interés turístico; el seis por ciento a la administración del fideicomiso y el ocho por ciento restante para cubrir los gastos administrativos que la recaudación genere. Esta última cantidad quedará a favor del Gobierno del Estado.
 
-El Gobierno del Estado conservará el 4% del monto total enterado para cubrir los gastos administrativos que la recaudación ocasione. Los adicionales en caso de ejecución forzosa quedarán a favor del propio gobierno.
+Se constituirá un fideicomiso público para la administración y aplicación de los recursos que genere el impuesto a que se refiere este artículo y su Comité Técnico se conformará por un Presidente que será el Gobernador del Estado quien tendrá voto de calidad y siete representantes más del Poder Ejecutivo; y ocho miembros de la iniciativa privada que representen a todas las agrupaciones de prestadores de servicios de hospedaje legalmente constituidas en el Estado de Morelos.
 
-Se autoriza la constitución de un fideicomiso público de administración, inversión y ejecución, con participación de la iniciativa privada, que se encargue de la aplicación de los recursos que el impuesto genere, para cumplir con los objetivos que señala este artículo; el órgano directivo de dicho fideicomiso se integrará por cinco representantes del Poder Ejecutivo del Estado y cuatro representantes de la iniciativa privada, de los diferentes sectores del sector turístico del Estado.
+La Secretaría de Hacienda del Estado enterará bimestralmente al fideicomiso el noventa y dos por ciento de los recursos recaudados durante el período, a más tardar el día veintisiete de los meses de marzo, mayo, julio, septiembre, noviembre y enero.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -5196,3 +5196,15 @@ PRIMERO.- Aprobado que sea el presente Decreto túrnese al Titular del Poder Eje
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial "Tierra y Libertad", Órgano Informativo del Gobierno del Estado.
 
 TERCERO.- El fideicomiso público de administración, inversión y ejecución a que se refiere el presente decreto, deberá constituirse en un plazo no mayor de dos meses.
+
+P.O. 9 DE MAYO DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo para los efectos a que se refieren los artículos 44 y 70 fracción XVII de la Constitución Política.
+
+TERCERO.- El Fideicomiso Público de Administración, Inversión y Ejecución a que se refiere el presente Decreto deberá constituirse en un plazo no mayo de dos meses a partir de su publicación.
+
+CUARTO.- La cantidad acumulada durante el ejercicio fiscal del año dos mil y lo que se acumule hasta el momento de la constitución del fideicomiso se integrará como primera aportación al patrimonio fideicomitido, deduciendo el ocho por ciento por gastos de recaudación y los gastos inherentes a su constitución.
+
+QUINTO.- Los recursos que constituyan el patrimonio del fideicomiso podrán destinarse a los fines que le sean propios a partir del momento de su constitución, previo acuerdo de su comité técnico y en base a sus reglas de operación.
