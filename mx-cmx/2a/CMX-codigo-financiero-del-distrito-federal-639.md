@@ -4,7 +4,7 @@ identifier: "CMX-codigo-financiero-del-distrito-federal-639"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-31"
-last_updated: "1995-12-28"
+last_updated: "1996-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=639&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1994-12-30"
 
 CODIGO FINANCIERO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE DICIEMBRE DE 1996.
 
 Código publicado en la Segunda, Tercera y Cuarta Secciones del Diario Oficial de la Federación el sábado 31 de diciembre de 1994.
 
@@ -66,9 +66,9 @@ VI.- Dependencias: Los órganos administrativos del sector central del Distrito 
 
 VII. Organos Desconcentrados: Las Delegaciones y los que con este carácter se establezcan conforme a la Ley Orgánica de la Administración Pública del Distrito Federal y su Reglamento, que integran la Administración Pública Desconcentrada;
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VIII.- Entidades: Los organismos descentralizados, empresas de participación estatal y los fideicomisos públicos del Sector Paraestatal del Distrito Federal;
+VIII. Entidades: Los organismos descentralizados, empresas de participación estatal mayoritaria y los fideicomisos públicos del Sector Paraestatal del Distrito Federal;
 
 IX.- Secretaría: La Secretaría de Finanzas;
 
@@ -180,9 +180,9 @@ III. La Tesorería;
 
 IV. La Procuraduría Fiscal del Distrito Federal;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-V. La Comisión de Aguas del Distrito Federal, la que en materia de Derechos por el Suministro de Agua y Descarga a la Red de Drenaje, contará con las facultades y obligaciones a que se refieren los artículos 16, 43, 44, 45, 53, 54, 57, 71, 72, 76, 77, 79, 81, 85, 99, 101, 103, 104, 119, 196, 198, 264, 265, 502, 504, 505, 506, 507, 513 y 514 y demás aplicables del presente ordenamiento, y
+V. La Comisión de Aguas del Distrito Federal, la que en materia de Derechos por el Suministro de Agua y Descarga a la Red de Drenaje, contará con las facultades y obligaciones a que se refieren los artículos 16, 43, 44, 45, 46, 53, 54, 57, 61, 71, 72, 76, 77, 79, 81, 85, 99, 101, 103, 104, 119, 196, 198, 264, 265, 502, 504, 505, 506, 507, 513 y 514 y demás aplicables del presente ordenamiento, y
 
 > <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
@@ -228,11 +228,15 @@ II. Contribuciones de mejoras. Son aquéllas a cargo de personas físicas o mora
 
 III. Aportaciones de seguridad social. Son aquéllas a cargo de personas que se benefician en forma especial por servicios de seguridad social proporcionados por el Distrito Federal, y
 
-IV. Derechos. Son las contraprestaciones por el uso o aprovechamiento de los bienes del dominio público del Distrito Federal, así como por recibir los servicios que presta la Entidad en sus funciones de derecho público, excepto cuando se presten por organismos descentralizados u órganos desconcentrados cuando, en este último caso, se trate de contraprestaciones que no se encuentren previstas como tales en este Código.
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+IV. Derechos. Son las contraprestaciones por el uso o aprovechamiento de los bienes del dominio público del Distrito Federal, con excepción de las concesiones o los permisos, así como por recibir servicios que presta la Entidad en sus funciones de derecho público, excepto cuando se presten por organismos descentralizados u órganos desconcentrados cuando, en este último caso, se trate de contraprestaciones que no se encuentren previstas como tales en este Código.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 25.
 
-Son aprovechamientos, los ingresos que percibe el Distrito Federal por funciones de derecho público distintos de las contribuciones, de los ingresos derivados de financiamiento, y de los que obtengan los organismos descentralizados y las empresas de participación estatal.
+Son aprovechamientos, los ingresos que percibe el Distrito Federal por funciones de derecho público y por el uso, aprovechamiento o explotación de bienes del dominio público distintos de las contribuciones, de los ingresos derivados de financiamiento, y de los que obtengan los organismos descentralizados y las empresas de participación estatal.
 
 ###### ARTICULO 26.
 
@@ -318,13 +322,17 @@ Para efectos fiscales los avalúos vinculados con las contribuciones establecida
 
 I. Instituciones de Crédito;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II. Sociedades Civiles o Mercantiles cuyo objeto específico sea la realización de avalúos, las cuales deberán tener cuando menos el 51% de su capital suscrito por las personas físicas a que se refiere el párrafo siguiente, y
+II. Sociedades civiles o mercantiles cuyo objeto específico sea la realización de avalúos, las cuales deberán tener cuando menos el 51% de su capital suscrito por las personas físicas a que se refiere el presente artículo;
 
-> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III. La Comisión de Avalúos de Bienes Nacionales, en los asuntos de su competencia.
+III. La Comisión de Avalúos de Bienes Nacionales, en los asuntos de su competencia, y
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+IV. Corredores públicos.
 
 Las instituciones de crédito, así como las sociedades civiles o mercantiles a que se hace mención, deberán auxiliarse para la realización de los avalúos de personas físicas registradas ante la autoridad fiscal, debiendo acreditar ante ella los siguientes requisitos:
 
@@ -342,9 +350,13 @@ d).- Que tengan título profesional en algún ramo relacionado con la materia va
 
 Las instituciones de crédito y las sociedades civiles o mercantiles, a que se refiere la fracción II de este artículo, deberán obtener previamente a la iniciación de actividades, autorización para la realización de avalúos, por parte de la autoridad fiscal, para lo cual deberán acreditar los requisitos a que se refiere la citada fracción.
 
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-Las personas morales a que se refieren las fracciones I a III de este artículo, deberán presentar a más tardar el día quince de cada mes, copia de los avalúos que suscriban realizados en el mes inmediato anterior, respecto de inmuebles ubicados en el Distrito Federal.
+Los corredores públicos deberán acreditar ante la autoridad fiscal que cumplen con los requisitos de los incisos b), c) y d) de este artículo.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+Las personas a que se refieren las fracciones I a IV de este artículo, deberán presentar a más tardar el día 15 de cada mes, copia de los avalúos que suscriban realizados en el mes inmediato anterior, respecto de inmuebles ubicados en el Distrito Federal.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE ABRIL DE 1995)</small>
 
@@ -362,7 +374,9 @@ Los avalúos a que se refiere este Código y las determinaciones de valor efectu
 
 La Federación, el Distrito Federal, los estados, los municipios, las entidades paraestatales, los prestadores de servicios públicos concesionados de carácter federal o local y, en general, cualquier persona o institución oficial o privada, aun cuando de conformidad con otras leyes o decretos no estén obligados a pagar contribuciones o estén exentos de ellas, deberán cubrir las que establezca este Código, con las excepciones que en el mismo se señalan.
 
-Tratándose de las contribuciones, relacionadas con la propiedad inmobiliaria, a que se refiere la fracción IV, inciso b), tercer párrafo, del artículo 122 de la Constitución, la Federación y los organismos descentralizados, sólo quedan relevados de su pago cuando los bienes de que se trate sean considerados bienes del dominio público de la Federación, conforme a las disposiciones de las leyes respectivas.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+Tratándose de las contribuciones relacionadas con la propiedad inmobiliaria, a que se refiere el segundo párrafo del inciso c) de la fracción IV del artículo 115 de la Constitución, la Federación y los organismos descentralizados, sólo quedan relevados de su pago cuando los bienes de que se trate sean considerados bienes del dominio público de la Federación, conforme a las disposiciones de las leyes respectivas.
 
 Las personas que de acuerdo con la (sic) disposiciones fiscales no estén obligadas a pagar contribuciones únicamente tendrán las obligaciones de carácter formal que establezca este Código.
 
@@ -446,9 +460,11 @@ Para formalizar el otorgamiento de la garantía, el titular de la oficina recaud
 
 Para que un tercero asuma la obligación de garantizar por cuenta de otro con prenda, hipoteca o embargo en la vía administrativa, deberá cumplir con los requisitos que para cada caso se establecen en este artículo.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 43.
 
-La garantía del interés fiscal se ofrecerá por el interesado ante la autoridad recaudadora que corresponda, para que en un plazo de quince días la califique, acepte si procede y le dé el trámite correspondiente. El ofrecimiento deberá ser acompañado de los documentos relativos al crédito fiscal por garantizar, y se expresará la causa por la que se ofrece la garantía.
+La garantía del interés fiscal se ofrecerá por el interesado ante la autoridad recaudadora que corresponda, para que en un plazo de cinco días hábiles la califique, acepte si procede y le dé el trámite correspondiente. El ofrecimiento deberá ser acompañado de los documentos relativos al crédito fiscal por garantizar, y se expresará la causa por la que se ofrece la garantía.
 
 Las autoridades a que se refiere el párrafo anterior para calificar la garantía ofrecida, deberán verificar que se cumplan los requisitos que se establecen en este Código en cuanto a la clase de la garantía ofrecida, el motivo por el cual se otorgó y que su importe cubra los conceptos que señala el último párrafo del artículo 41 de este Código; cuando no se cumplan, la autoridad requerirá al interesado, a fin de que en un plazo de cinco días contados a partir del día siguiente a aquél en que se le notifique dicho requerimiento, cumpla con el requisito omitido; en caso contrario, no se aceptará la garantía.
 
@@ -482,7 +498,9 @@ Procede garantizar el interés fiscal, cuando:
 
 I. Se solicite la suspensión del procedimiento administrativo de ejecución;
 
-II. Cuando se solicite prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades, si dichas facilidades se conceden individualmente;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+II. Se solicite prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades, si dichas facilidades se conceden individualmente y siempre que el crédito fiscal tenga un monto superior a treinta mil pesos;
 
 III. Se solicite la aplicación del producto en los términos del artículo 108 de este Código, y
 
@@ -502,15 +520,27 @@ Tratándose de fianza a favor de el Distrito Federal, otorgada para garantizar o
 
 El pago de un crédito fiscal podrá hacerse en efectivo o en especie en los casos que así lo establezca este Código y demás leyes aplicables.
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-El pago de los créditos fiscales también podrá efectuarse por medio de cheques certificados. Los cheques no certificados de cuentas personales de los contribuyentes, así como las transferencias de fondos de dichas cuentas a las de la Tesorería a través de medios bancarios, únicamente se aceptarán cuando lo autorice la Secretaría, previo cumplimiento de los requisitos que al efecto señale la propia Secretaría.
+El pago de los créditos fiscales también podrá efectuarse por medio de cheques certificados o cheques de caja. Los cheques no certificados de cuentas personales de los contribuyentes, las transferencias de fondos de dichas cuentas a las de la Tesorería a través de medios bancarios y las tarjetas de crédito, únicamente se aceptarán para realizar el pago cuando lo autorice la Secretaría, previo cumplimiento de los requisitos que se señalen en las reglas de carácter general que para tal efecto expida, mismas que deberán publicarse en la Gaceta Oficial del Distrito Federal. Para la aceptación de otros instrumentos de pago, será necesaria la autorización que en cada caso emita la Secretaría.
 
-El cheque recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será siempre del 20% del valor de éste, y se exigirá independientemente de los créditos fiscales a que se refiere este artículo.
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-Para tal efecto, la autoridad requerirá al contribuyente respectivo, para que dentro del plazo de tres días, contado a partir de aquél en el que surta efectos la notificación del requerimiento correspondiente, efectúe el pago a que se refiere el párrafo anterior, o acredite con las pruebas documentales procedentes que la falta de pago no le es imputable.
+Los pagos con cheque se recibirán salvo buen cobro. Se aceptarán también cheques distintos de la cuenta personal del contribuyente siempre y cuando el librador se identifique previamente a satisfacción de la autoridad.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+El cheque recibido por las autoridades fiscales deberá ser presentado al librado dentro de los quince días naturales siguientes al de su fecha y en caso de que no sea pagado por causas imputables al contribuyente, dará lugar al cobro del monto del cheque y a una indemnización que será siempre del 20% del valor de éste, y se exigirá independientemente de los créditos fiscales a que se refiere este artículo.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+Para tal efecto, la autoridad notificará al contribuyente respectivo, para que dentro del plazo de tres días, contado a partir de aquél en el que surta efectos la notificación correspondiente, efectúe el pago a que se refiere el párrafo anterior, o acredite con las pruebas documentales procedentes que la falta de pago no le es imputable o presente escrito acompañando dichas pruebas.
 
 Transcurrido el plazo señalado si no se obtiene el pago a que se alude en el párrafo anterior o el contribuyente no demuestra que la falta de pago del título de crédito se produjo por causas ajenas a su voluntad, la autoridad fiscal requerirá y cobrará, la indemnización mencionada, el crédito fiscal y en su caso, los demás accesorios causados, mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal que en su caso procediera.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+Quien pague créditos fiscales recibirá de la oficina recaudadora el recibo oficial o la forma prellenada, ambos documentos expedidos y controlados exclusivamente por la Secretaría, en los que conste la impresión original de la máquina registradora, y cuando se carezca de ella, deberá constar el sello de la oficina recaudadora y el nombre y la firma del cajero o del servidor público autorizado. Tratándose de los pagos efectuados en las oficinas de las instituciones de crédito, el comprobante para el contribuyente deberá contener la impresión de la máquina registradora, el sello, la constancia o el acuse de recibo correspondiente.
 
 > <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
@@ -526,15 +556,21 @@ Los créditos fiscales se pagarán en la fecha o dentro del plazo señalado en l
 
 Tratándose de los créditos fiscales determinados por las autoridades, en el ejercicio de sus facultades de comprobación, determinación o sancionadoras, deberán pagarse o garantizarse junto con sus accesorios dentro de los quince días siguientes a aquél en que surta efectos su notificación.
 
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 50 A.- Los particulares podrán acudir ante las autoridades fiscales dentro de un plazo de seis días siguientes a aquél en que haya surtido efectos la notificación de las resoluciones a que se refieren los artículos 81, 502, fracciones I y II, 504, 505 y 506 de este Código, así como en los casos en que la autoridad fiscal determine mediante reglas de carácter general, a efecto de hacer las aclaraciones que consideren pertinentes, debiendo la autoridad, resolver en un plazo de seis días contados a partir de que quede debidamente integrado el expediente mediante el procedimiento previsto en las citadas reglas.
+
+Lo previsto en este artículo no constituye instancia, ni interrumpe ni suspende los plazos para que los particulares puedan interponer los medios de defensa. Las resoluciones que se emitan por la autoridad fiscal no podrán ser impugnadas por los particulares.
+
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 51.
 
 La falta de pago de un crédito fiscal en la fecha o plazo a que se refiere el artículo anterior, dará lugar a que el crédito sea exigible, y deberán pagarse recargos en concepto de indemnización a la Hacienda Pública del Distrito Federal por la falta de pago oportuno. Dichos recargos se calcularán conforme a una tasa que será 30% mayor de la que establezca la Asamblea de Representantes del Distrito Federal, para el caso de pago diferido o en parcialidades.
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-Los recargos se causarán hasta por cinco años por cada mes o fracción que transcurra a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe, excepto cuando el contribuyente pague en forma espontánea en términos del artículo 500 de este Código, los créditos fiscales omitidos, caso en el cual el importe de los recargos no excederá de los causados en el último año.
+Los recargos se causarán hasta por cinco años por cada mes o fracción que transcurra a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe, excepto cuando el contribuyente pague en forma espontánea en términos del artículo 500 de este Código, los créditos fiscales omitidos, caso en el cual el importe de los recargos no excederá de los causados en los últimos doce meses.
 
 Los recargos se calcularán sobre el total del crédito fiscal excluyendo los propios recargos y cualquier otro accesorio.
 
@@ -642,9 +678,17 @@ Las autoridades fiscales están obligadas a devolver las cantidades pagadas inde
 
 Si el pago de lo indebido se hubiera efectuado en cumplimiento de acto de autoridad, el derecho a la devolución nace cuando dicho acto hubiera quedado insubsistente.
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de cincuenta días hábiles siguientes a la fecha en que se presentó la solicitud ante la autoridad fiscal competente con todos los datos, informes y documentos que señale la forma oficial respectiva. Si la devolución no se hubiera efectuado en el plazo de cincuenta días hábiles, las autoridades fiscales pagarán intereses que se calcularán a partir del día siguiente al de vencimiento de dicho plazo, conforme a una tasa que será igual a la prevista para los recargos en los términos del Artículo 51 de este Código.
+Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de cuarenta días hábiles siguientes a la fecha en que se presentó la solicitud ante la autoridad fiscal competente con todos los datos, informes y documentos que señale la forma oficial respectiva; si faltare alguno de los datos, informes o documentos, la autoridad dentro de los quince días hábiles siguientes a la presentación de la solicitud, deberá requerir al interesado para que los exhiba. De existir requerimiento de información, el plazo de cuarenta días se contará a partir de que se presente la información solicitada.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+Si la devolución no se hubiera efectuado en el plazo de cuarenta días hábiles, las autoridades fiscales pagarán intereses que se calcularán a partir del día siguiente al de vencimiento de dicho plazo, conforme a una tasa que será igual a la prevista para los recargos en los términos del Artículo 51 de este Código.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+El pago de intereses deberá incluirse en la liquidación correspondiente, sin necesidad de que exista petición expresa del pago de intereses por parte del contribuyente.
 
 El contribuyente que habiendo efectuado el pago de una contribución determinada por el mismo o por la autoridad, interponga oportunamente los medios de defensa que el presente Código y demás leyes establezcan y obtenga resolución firme que le sea favorable total o parcialmente, tendrá derecho a obtener del Distrito Federal el pago de intereses conforme a una tasa que será igual a la prevista para los recargos en los términos del artículo 51 de este Código, sobre las cantidades que se hayan pagado indebidamente y a partir de que se efectuó el pago. En estos casos el contribuyente podrá compensar las cantidades a su favor, incluyendo los intereses, contra la misma contribución que se pague mediante declaración, ya sea a su cargo o que deba enterar en su carácter de retenedor.
 
@@ -656,7 +700,9 @@ La obligación de devolver prescribe en los mismos términos y condiciones que e
 
 El crédito fiscal se extingue por prescripción en el término de cinco años. El término de la prescripción se inicia a partir de la fecha en que el pago pudo ser legalmente exigido y se podrá oponer como excepción en los recursos administrativos. El término para que se consuma la prescripción se interrumpe con cada gestión de cobro que el acreedor notifique o haga saber al deudor o por el reconocimiento expreso o tácito de éste respecto de la existencia del crédito. Se considera gestión de cobro cualquier actuación de la autoridad dentro del procedimiento administrativo de ejecución, siempre que se haga del conocimiento del deudor.
 
-Los particulares podrán solicitar a la autoridad la declaratoria de prescripción de los créditos fiscales.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+La declaratoria de prescripción de créditos fiscales podrá hacerse de oficio por el órgano colegiado de Tesorería que para tal efecto se integre o a petición de los particulares por el Procurador Fiscal del Distrito Federal.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
@@ -744,29 +790,51 @@ f). Optar por autodeterminar el consumo de agua y los derechos correspondientes,
 
 g). Los demás que este Código establezca.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 64.
 
-Las personas físicas y morales, obligadas al pago de contribuciones establecidas en este Código y de aquellas contribuciones federales que con base en los acuerdos o convenios de coordinación con la Secretaría de Hacienda y Crédito Público corresponda administrar al Distrito Federal, tendrán la opción de hacer dictaminar el cumplimiento de sus obligaciones fiscales, en los términos de este Código y del instructivo que al efecto publique la Secretaría.
+Están obligadas a dictaminar el cumplimiento de sus obligaciones fiscales, en los términos de este Código y del instructivo que al efecto publique la Secretaría, las personas físicas y morales, que se encuentren en alguno de los supuestos siguientes:
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 1995)</small>
+I. Las que en el año calendario inmediato anterior hayan contado con un promedio mensual de trescientos o más trabajadores;
 
-El dictamen será obligatorio para los organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos a que se refiere la Ley Federal de las Entidades Paraestatales.
+II. Las que en el año calendario inmediato anterior hayan consumido por una o más tomas, más de 2000 m3 de agua bimestral promedio, de uso no doméstico o uso doméstico, y cuando el uso sea sólo doméstico siempre que el inmueble donde se encuentre instalada dicha toma o tomas de agua, se haya otorgado en uso o goce temporal, y
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+III. Estar constituido como organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos públicos conforme a la ley de la materia.
 
-Igualmente están obligados a dictaminar el cumplimiento de sus obligaciones fiscales, aquellos contribuyentes que se encuentren en suspensión de actividades para efectos de impuestos federales y que durante el período de suspensión concedan el uso o goce temporal de sus bienes inmuebles.
+Las personas físicas y morales que no se encuentren en alguno de los supuestos señalados en las fracciones de este artículo, tendrán la opción de hacer dictaminar el cumplimiento de sus obligaciones fiscales.
 
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-El dictamen deberá formularse por Contador Público que pertenezca a un Colegio Profesional y que se encuentre registrado ante la Secretaría.
+ARTICULO 64 A.- El registro para formular dictámenes del cumplimiento de obligaciones fiscales establecidas en este Código, lo podrán obtener las personas que tengan Cédula Profesional de Contador Público registrado ante la autoridad competente, que sean miembros de un colegio profesional, y que presenten solicitud de registro ante la Secretaría, acompañando copia certificada de los siguientes documentos:
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+I. Cédula Profesional, y
+
+II. Constancia emitida por un colegio de contadores públicos que acredite su calidad de miembro activo, expedida dentro de los dos meses anteriores a la fecha de la presentación de la solicitud.
+
+Una vez otorgado el registro, el Contador Público deberá comprobar ante la Secretaría, dentro de los tres meses siguientes a cada año, que es socio activo del colegio profesional y presentar constancia de actualización de conocimientos sobre contribuciones locales, expedida por dicho Colegio, o constancia de que sustentó y aprobó el examen correspondiente ante la autoridad fiscal.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 64 B.- El Contador Público que vaya a emitir el dictamen a que se refiere el artículo 64 de este Código, podrá auxiliarse de las personas contempladas en el artículo 35 del propio Código.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 65.
 
-Los contribuyentes que dictaminen el cumplimiento de sus obligaciones fiscales deberán presentar, dentro de los dos meses siguientes a la terminación del período a dictaminar, el aviso a las autoridades fiscales en la forma oficial aprobada. En caso de que dicho aviso se presente con posterioridad a la fecha establecida, las autoridades fiscales, previo análisis de las causas que motivaron el retraso, podrán autorizar la procedencia del dictamen.
+Los contribuyentes que dictaminen el cumplimiento de sus obligaciones fiscales deberán presentar, dentro de los cuatro meses siguientes a la terminación del período a dictaminar, el aviso a las autoridades fiscales en la forma oficial aprobada. En caso de que dicho aviso se presente con posterioridad a la fecha establecida, las autoridades fiscales, previo análisis de las causas que motivaron el retraso, podrán autorizar la procedencia del dictamen.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+El aviso a que se refiere este artículo no surtirá efectos cuando:
+
+a) No se presente en el formato publicado.
+
+b) El Contador Público propuesto no cuente con el registro correspondiente ante las autoridades fiscales del Distrito Federal, o su registro se encuentre suspendido.
+
+c) Exista impedimento del Contador Público que suscriba el aviso.
+
+d) Se esté practicando visita domiciliaria al contribuyente por el periodo al cual corresponde el aviso para dictaminar, salvo que se encuentren obligados por disposición del artículo 64 de este Código.
 
 El período del dictamen deberá abarcar las contribuciones causadas durante un año de calendario.
 
@@ -802,11 +870,15 @@ g). Ser agente o corredor de bolsa de valores en ejercicio, y
 
 h). Encontrarse vinculado en cualquier otra forma con el contribuyente, que le impida independencia e imparcialidad de criterio.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 66.
 
-El dictamen sobre el cumplimiento de las obligaciones fiscales se presentará dentro de los cuatro meses siguientes al cierre del período a dictaminar.
+El dictamen a que se refiere el artículo 64 de este Código, se presentará dentro de los ocho meses siguientes al cierre del período a dictaminar, por los contribuyentes que hayan optado por dictaminar el cumplimiento de sus obligaciones fiscales y por los obligados a dictaminar.
 
-Las autoridades fiscales podrán conceder prórroga hasta por un mes, para la presentación del dictamen, si existen causas comprobadas que impidan el cumplimiento dentro del plazo establecido.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+Las autoridades fiscales podrán conceder prórroga hasta por un mes, para la presentación del dictamen, si existen causas comprobadas que impidan el cumplimiento dentro del plazo establecido, previo análisis de las causas que motivaron el retraso. La solicitud de prórroga deberá ser firmada por el contribuyente y presentarse ante la Secretaría a más tardar quince días naturales antes del vencimiento del plazo de presentación, señalando los motivos que tuviere para el retraso. Se considerará concedida la prórroga hasta por un mes, si dentro de los diez días naturales siguientes a la fecha de presentación de la solicitud de prórroga, la Secretaría no da contestación.
 
 Los contribuyentes que opten o se encuentren obligados a dictaminar el cumplimiento de sus obligaciones fiscales deberán exhibir la siguiente documentación:
 
@@ -856,11 +928,13 @@ Las declaraciones, que en los términos de este Código presenten los contribuye
 
 Los contribuyentes tendrán la obligación de conservar las declaraciones y comprobantes de pago de las contribuciones a que se refiere este Código, durante el plazo de cinco años.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 70.
 
-Los contribuyentes deberán dar toda clase de facilidades a las autoridades competentes para que realicen las labores catastrales que sean necesarias y para el ejercicio de las facultades de comprobación. Asimismo, deberán permitir el acceso a las personas autorizadas para la instalación de tomas de agua y medidores; para la adecuación y corrección de tomas, y para efectuar y verificar la lectura del aparato medidor.
+Los contribuyentes deberán dar toda clase de facilidades y acceso a sus inmuebles, a las autoridades competentes para que realicen las labores catastrales y para el ejercicio de sus facultades de comprobación. Asimismo, deberán permitir el acceso a las personas autorizadas para la instalación de tomas de agua y medidores; para la adecuación y corrección de tomas, y para efectuar y verificar la lectura del aparato medidor.
 
-Para tal efecto, se emitirá orden por escrito que contenga el nombre de las personas autorizadas para llevar a cabo dichas funciones, quienes se identificarán con documento que será expedido por la autoridad fiscal.
+Para tal efecto, se emitirá orden por escrito que contenga el nombre de las personas autorizadas para llevar a cabo dichas funciones. Las personas autorizadas se identificarán con credenciales vigentes expedidas por las autoridades fiscales.
 
 ###### ARTICULO 71.
 
@@ -940,25 +1014,37 @@ II. Si la contabilidad y documentación del contribuyente no permite reconstruir
 
 Al ingreso estimado presuntivamente por alguno de los procedimientos anteriores, se le aplicará la tasa o tarifa impositiva que corresponda.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 75.
 
-Las autoridades fiscales podrán determinar presuntivamente el valor de los inmuebles utilizando indistintamente cualquiera de los siguientes medios:
+Las autoridades fiscales podrán determinar presuntivamente el valor catastral de los inmuebles, cuando:
 
-I. Los datos aportados por los contribuyentes en las declaraciones de cualquier contribución presentadas a las autoridades fiscales federales o del Distrito Federal;
+I. Los contribuyentes se opongan u obstaculicen el inicio o desarrollo de las facultades de comprobación de las autoridades fiscales;
 
-II. Información proporcionada por terceros a solicitud de la autoridad fiscal, cuando tengan relación de negocios con los contribuyentes;
+II. Los contribuyentes no cuenten con la información o documentación relativa al cumplimiento de las obligaciones fiscales a que se refiere este Código, que le sea solicitada por las autoridades fiscales en el ejercicio de sus facultades de comprobación, no proporcionen dicha información o documentación, la oculten o la destruyan;
 
-III. Cualquier otra información obtenida por la autoridad fiscal en ejercicio de sus facultades, y
+III. Los contribuyentes que otorguen el uso o goce temporal de sus inmuebles mediante contratos o actos pactados aparentemente a título gratuito y acuerden o perciban, por sí o a través de diversas personas, contraprestaciones debidamente comprobadas por el otorgamiento de dicho uso o goce temporal para evitar el pago del impuesto a que se refiere el artículo 149, fracción II, y
 
-IV. Indirectos de investigación económica, geográfica, geodésica o de cualquier otra clase, que la Administración Pública del Distrito Federal o cualquier otra dependencia gubernamental utilice para tener un mejor conocimiento del territorio del Distrito Federal y de los inmuebles que en él se asienten, siendo éstos, los siguientes:
+IV. Los contribuyentes otorguen el uso o goce temporal de sus inmuebles mediante contratos o actos pactados con terceros a través de los cuales acuerden o perciban, con motivo de subarrendamientos, cesiones de derechos u otros instrumentos, contraprestaciones por el otorgamiento de dicho uso o goce temporal, excepto cuando demuestren que no tenían conocimiento, ni habían otorgado el consentimiento expreso o tácito de estos actos.
 
-a). Fotogrametría, incluyendo la verificación de linderos en campo;
+Para los efectos de la determinación presuntiva a que se refiere este artículo, las autoridades fiscales podrán determinar el valor catastral de los inmuebles utilizando conjunta o separadamente cualquiera de los siguientes medios:
 
-b). Topografía;
+1.- Los datos aportados por los contribuyentes en las declaraciones de cualquier contribución presentada a las autoridades fiscales federales o del Distrito Federal;
 
-c). Investigación de campo sobre las características físicas de los inmuebles considerando el suelo, construcciones e instalaciones especiales; y
+2.- Información proporcionada por terceros a solicitud de la autoridad fiscal, cuando tenga relación de negocios con los contribuyentes;
 
-d). Otros medios que permita el avance tecnológico en la materia.
+3.- Cualquier otra información obtenida por la autoridad fiscal en ejercicio de sus facultades, y
+
+4.- Indirectos de investigación económica, geográfica, geodésica o de cualquier otra clase, que la administración pública del Distrito Federal o cualquier otra dependencia gubernamental o entidad paraestatal de la administración pública federal utilice para tener un mejor conocimiento del territorio del Distrito Federal y de los inmuebles que en él se asientan, siendo éstos, los siguientes:
+
+a) Fotogrametría, incluyendo la verificación de linderos en campo;
+
+b) Topografía;
+
+c) Investigación de campo sobre las características físicas de los inmuebles, considerando el suelo, construcciones e instalaciones especiales, y
+
+d) Otros medios que permitan el avance tecnológico en la materia.
 
 ### CAPITULO III. De los Derechos y Obligaciones de los Contribuyentes
 
@@ -1041,6 +1127,10 @@ I. Multa de uno hasta diez días de salario mínimo general vigente en el Distri
 II. Auxilio de la fuerza pública, y
 
 III. Denuncia respectiva, en su caso, por desobediencia a un mandato legítimo de autoridad competente.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+Para efectos de este artículo, los cuerpos de seguridad o policiales del Distrito Federal, deberán prestar en forma expedita el apoyo que solicite la autoridad fiscal, en los términos de los ordenamientos que los regulan.
 
 ###### ARTICULO 81.
 
@@ -1130,13 +1220,21 @@ VI. Las actas parciales se entenderá que forman parte integrante del acta final
 
 VII.- Las autoridades fiscales deberán concluir la visita domiciliaria o la revisión de la documentación que se realice en las oficinas de las propias autoridades, dentro de un plazo máximo de ocho meses contados a partir de que se notifique la orden de visita o el requerimiento respectivo. Cuando las autoridades no cierren el acta final de visita o no concluyan la revisión, en el plazo mencionado, se entenderá concluida en esa fecha, quedando sin efectos los actos realizados durante la visita o revisión.
 
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 83 A.- Las visitas domiciliarias ordenadas por las autoridades fiscales, podrán concluirse anticipadamente cuando el contribuyente haya presentado ante la Tesorería, antes del inicio de la visita, aviso para dictaminar el cumplimiento de sus obligaciones fiscales, siempre que dicho aviso se haya presentado en el plazo y cumpliendo los requisitos establecidos en este Código.
+
+En estos casos se deberá levantar acta en la que se señale esta situación.
+
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 84.
 
 Cuando las autoridades fiscales soliciten de los contribuyentes, responsables solidarios o terceros, informes, datos o documentos o pidan la presentación de la contabilidad o parte de ella, para el ejercicio de sus facultades de comprobación, fuera de una visita domiciliaria, se estará a lo siguiente:
 
-I.- La solicitud se notificará en el domicilio fiscal de la persona a la que va dirigida y en su defecto, tratándose de personas físicas, también podrá notificarse en su casa habitación o en el lugar donde éstas se encuentren.
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+I.- La solicitud se notificará en el domicilio fiscal de la persona a la que va dirigida y en su defecto, tratándose de personas físicas, también podrá notificarse en su casa habitación o en el lugar donde éstas se encuentren. Si al presentarse el notificador en el lugar donde deba de practicarse la diligencia, no estuviere la persona a quien va dirigida la solicitud o su representante legal, se dejará citatorio con la persona que se encuentre en dicho lugar, para que el contribuyente, responsable solidario, tercero o representante legal lo esperen a hora determinada el día siguiente para recibir la solicitud; si no se atendiere el citatorio, la solicitud se notificará con quien se encuentre en el domicilio señalado en la misma.
 
 II.- En la solicitud se indicará el lugar y el plazo en el cual se deberán proporcionar los informes o documentos.
 
@@ -1178,7 +1276,9 @@ II. Que el dictamen se formule de acuerdo a las disposiciones de este Código y 
 
 III. Que el contador público emita conjuntamente con su dictamen, un informe sobre la revisión fiscal en el que se consigne, bajo protesta de decir verdad, los datos que señale este Código y el instructivo que al efecto publique la Secretaría.
 
-Las opiniones o interpretaciones contenidas en los dictámenes no obligarán a las autoridades fiscales, las que podrán ejercer directamente sus facultades de vigilancia y comprobación sobre los sujetos pasivos o responsables solidarios y expedir las liquidaciones de contribuciones omitidas que correspondan.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+Las opiniones o interpretaciones contenidas en los dictámenes no obligarán a las autoridades fiscales, las que podrán ejercer directamente sus facultades de vigilancia y comprobación sobre los sujetos pasivos o responsables solidarios y expedir la resolución por la que se determine el crédito fiscal que corresponda.
 
 La revisión de los dictámenes y demás documentos relativos a los mismos, podrá efectuarse en forma previa o simultánea al ejercicio de otras facultades de comprobación establecidas en este Código, respecto de los contribuyentes o responsables solidarios.
 
@@ -1200,7 +1300,9 @@ Una vez realizado lo anterior, si a juicio de las autoridades fiscales el dictam
 
 Cuando la autoridad fiscal tenga plena certeza de la omisión en el pago de alguna contribución establecida en este Código, podrá requerir directamente al contribuyente.
 
-Respecto de la revisión efectuada las autoridades fiscales deberán levantar una última acta parcial, contando el contribuyente con un plazo de 15 días a partir de su notificación, para desvirtuar los hechos u omisiones observados.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+Respecto de la revisión efectuada las autoridades fiscales deberán levantar una última acta parcial, contando el contribuyente con un plazo de 15 días a partir de la fecha de conclusión de su levantamiento, para desvirtuar los hechos u omisiones observadas.
 
 > <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
@@ -1214,7 +1316,7 @@ a). Se presente incompleta la información a que se refieren los artículos 65, 
 
 b). No cumpla con lo señalado en el artículo 87, fracción I, incisos a) y b), de este Código, y
 
-c). No cumpla con los requisitos establecidos en el último párrafo del artículo 64 de este Código;
+c). (DEROGADO, G.O. 31 DE DICIEMBRE DE 1996)
 
 II. Suspender los efectos de su registro para emitir dictámenes, cuando:
 
@@ -1226,6 +1328,10 @@ c). Acumule tres amonestaciones. En este caso la suspensión será hasta por dos
 
 d). Se encuentre sujeto a proceso por la comisión de delitos de carácter fiscal o delitos intencionales que ameriten pena corporal. En este caso, la suspensión durará el tiempo en que el Contador se encuentre sujeto a dicho proceso.
 
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+e) El Contador Público se haya auxiliado de personas distintas a las que se refiere el artículo 35 de este Código, para la determinación de la base gravable del impuesto predial. En este caso la suspensión será hasta por tres años.
+
 El cómputo de las amonestaciones, se hará por cada actuación del Contador Público, independientemente del contribuyente a que se refieran, y
 
 III. Proceder a la cancelación definitiva de su registro para emitir dictámenes, cuando:
@@ -1233,6 +1339,14 @@ III. Proceder a la cancelación definitiva de su registro para emitir dictámene
 a). Exista reincidencia en la violación de las disposiciones que rigen la formulación del dictamen y demás información para efectos fiscales. Para estos efectos se entiende que hay reincidencia cuando el Contador Público acumule tres suspensiones, y
 
 b). Hubiera participado en la comisión de delitos de carácter fiscal o delitos intencionales que ameriten pena corporal, respecto de los cuales se haya dictado sentencia definitiva que lo declare culpable.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+La audiencia a que se refiere este artículo, se sujetará a lo siguiente:
+
+a) Determinada la irregularidad, se le notificará por oficio al Contador Público, concediéndole un plazo de quince días naturales contados a partir de la fecha de su notificación, a efecto de que manifieste, por escrito, lo que a su derecho convenga y ofrezca las pruebas documentales pertinentes, mismas que deberá acompañar a su escrito.
+
+b) Agotada la fase anterior, con vista en los elementos que obren en el expediente, la Secretaría emitirá la resolución que proceda.
 
 ###### ARTICULO 89.
 
@@ -1290,9 +1404,17 @@ IV. Señalar en forma precisa en los requerimientos mediante los cuales se exija
 
 V. Difundir entre los contribuyentes los derechos y medios de defensa que se pueden hacer valer contra las resoluciones de las autoridades fiscales. Para este efecto establecerán una carta de los derechos del contribuyente.
 
-VI. Efectuar reuniones de información con los contribuyentes, especialmente cuando se modifiquen las disposiciones fiscales, y
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VII. Publicar anualmente las resoluciones dictadas por las autoridades fiscales que establezcan disposiciones de carácter general, agrupándolas de manera que faciliten su conocimiento por parte de los contribuyentes; se podrán publicar aisladamente aquellas disposiciones cuyos efectos se limitan a períodos inferiores a un año.
+VI. Efectuar reuniones de información con los contribuyentes, especialmente cuando se modifiquen las disposiciones fiscales;
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+VII. Publicar anualmente las resoluciones dictadas por las autoridades fiscales que establezcan disposiciones de carácter general, agrupándolas de manera que faciliten su conocimiento por parte de los contribuyentes; se podrán publicar aisladamente aquellas disposiciones cuyos efectos se limitan a períodos inferiores a un año, y
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+VIII. Proporcionar información completa y confiable sobre los trámites, requisitos y plazos, para las instancias o peticiones que formulen los contribuyentes, para lo cual emitirán el Manual de Trámites y Servicios al Contribuyente.
 
 ###### ARTICULO 94.
 
@@ -1348,13 +1470,13 @@ I. Por la notificación de requerimiento para el cumplimiento de obligaciones no
 
 II. Por el embargo, la extracción de bienes muebles o la inscripción en el Registro Público de la Propiedad correspondiente del embargo de bienes inmuebles, así como por la notificación en que se finque el remate de bienes, el 2% del crédito fiscal, por cada uno de dichos actos.
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-Cuando en el caso de las fracciones anteriores, los porcentajes señalados sean inferiores a $61.00, se cobrará esta cantidad en lugar del 6% y 2% del crédito.
+Cuando en el caso de las fracciones anteriores, los porcentajes señalados sean inferiores a $ 73.00, se cobrará esta cantidad en lugar del 6% y 2% del crédito.
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de $11,064.00.
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de $ 12,945.00.
 
 Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven de los embargos señalados en los artículos 81, fracción II, y 41 fracción V de este Código, que únicamente comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigación, de inscripciones o cancelaciones en el registro público que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios.
 
@@ -1654,7 +1776,9 @@ El remate deberá ser convocado para una fecha fijada dentro de los treinta día
 
 La convocatoria se fijará en el sitio visible y usual de la oficina recaudadora y en los lugares públicos que se juzgue conveniente.
 
-Cuando el valor de los bienes muebles o inmuebles exceda de N$106,800.00 la convocatoria se publicará en la Gaceta Oficial del Distrito Federal, en el Diario Oficial de la Federación y en uno de los periódicos de mayor circulación, dos veces con intermedio de siete días. La última publicación de la convocatoria se hará cuando menos diez días antes de la fecha del remate.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+Cuando el valor de los bienes muebles o inmuebles exceda de $ 200,000.00 la convocatoria se publicará en la Gaceta Oficial del Distrito Federal, en el Diario Oficial de la Federación y en uno de los periódicos de mayor circulación, dos veces con intermedio de siete días. La última publicación de la convocatoria se hará cuando menos diez días antes de la fecha del remate.
 
 ###### ARTICULO 128.
 
@@ -1704,9 +1828,11 @@ II. Las cantidades que se ofrezcan, y
 
 III. Lo que se ofrezca de contado y los términos en que haya de pagarse la diferencia, la que causará intereses según la tasa que anualmente se establezca en la Ley de Ingresos del Distrito Federal, para el caso del pago diferido o en parcialidades.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 135.
 
-El día y hora señalados en la convocatoria, el jefe de la oficina recaudadora, hará saber a los postores que estén presentes cuáles posturas fueron calificadas como legales y les dará a conocer cuál es la mejor postura, concediendo plazos sucesivos de cinco minutos a cada una, hasta que la última postura no sea mejorada.
+El día y hora señalados para el remate en la convocatoria, el jefe de la oficina recaudadora, hará saber a los postores que estén presentes cuáles posturas fueron calificadas como legales y les dará a conocer cuál es la mejor postura, concediendo plazos sucesivos de cinco minutos a cada una, hasta que la última postura no sea mejorada.
 
 El jefe de la oficina recaudadora fincará el remate en favor de quien hubiera hecho la mejor postura.
 
@@ -1830,7 +1956,9 @@ La base del impuesto predial determinada mediante el avalúo directo a que se re
 
 Sin embargo, los contribuyentes podrán optar por determinar y declarar el valor catastral de sus inmuebles aplicando a los mismos los valores unitarios a que se refiere el artículo 151 de este Código.
 
-Para determinar el valor catastral de los inmuebles sujetos al régimen de propiedad en condominio, se considerarán, además, las jaulas de tendido, lugares de estacionamiento, cuartos de servicio, bodegas y cualquier otro accesorio del propio inmueble.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+Para determinar el valor catastral de los inmuebles sujetos al régimen de propiedad en condominio, se considerarán para cada local, departamento, casa o despacho del condominio, las especificaciones relativas a las áreas privativas como jaulas de tendido, cajones de estacionamiento, cuartos de servicio, bodegas y cualquier otro accesorio de carácter privativo; también se considerará la parte proporcional de las áreas comunes que les corresponde, como corredores, escaleras, patios, jardines, estacionamientos y demás instalaciones de carácter común, conforme al indiviso determinado en la escritura constitutiva del condominio.
 
 Con el objeto de facilitar el cumplimiento de las obligaciones de los contribuyentes, a que se refiere el párrafo tercero de esta fracción, la autoridad les proporcionará en el formato oficial una propuesta de determinación del valor catastral y pago del impuesto correspondiente.
 
@@ -1842,7 +1970,9 @@ II. Cuando los contribuyentes otorguen el uso o goce temporal de un inmueble, in
 
 Al efecto, multiplicarán el total de las contraprestaciones que correspondan a un bimestre por el factor 38.47 y aplicarán al resultado la tarifa del artículo 152, fracción I de este Código.
 
-La cantidad que resulte conforme al párrafo anterior se multiplicará por el factor 0.75 cuando el uso del inmueble sea distinto al habitacional, y por el factor 0.42 cuando el uso sea habitacional, y el resultado será el impuesto a pagar. En el caso de inmuebles con usos habitacionales y no habitacionales, se aplicará a la cantidad resultante conforme al párrafo anterior, el factor que corresponda a cada uso, considerando para ello la parte proporcional determinada en base a las contraprestaciones fijadas para cada uno de ellos, las cantidades respectivas se sumarán y el resultado así obtenido será el impuesto a pagar.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+La cantidad que resulte conforme al párrafo anterior se multiplicará por el factor 0.585 cuando el uso del inmueble sea distinto al habitacional y por el factor 0.32 cuando el uso sea habitacional y el resultado será el impuesto a pagar. En el caso de inmuebles con usos habitacionales y no habitacionales, se aplicará a la cantidad resultante conforme al párrafo anterior, el factor que corresponda a cada uso, considerando para ello la parte proporcional determinada en base a las contraprestaciones fijadas para cada uno de ellos, las cantidades respectivas se sumarán y el resultado así obtenido será el impuesto a pagar.
 
 No obstante lo dispuesto en el párrafo anterior, en ningún caso se pagará por concepto de impuesto predial, una cantidad inferior a la que como cuota fija se establezca en el rango "A" de la tarifa prevista en el artículo 152 de este Código.
 
@@ -1878,11 +2008,11 @@ El impuesto predial se calculará por períodos bimestrales, aplicando al valor 
 
 II. Tratándose de inmuebles de uso habitacional, el impuesto que resulte a cargo de los contribuyentes conforme a la tarifa prevista en la fracción I de este artículo será objeto de las reducciones que a continuación se señalan:
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-1. Los contribuyentes con inmuebles cuyo valor catastral se encuentre dentro del rango "A" de la tarifa citada pagarán una cuota fija de $14.00.
+1.- Los contribuyentes con inmuebles cuyo valor catastral se encuentre dentro del rango "A" de la tarifa citada pagarán una cuota fija de $16.65
 
-Los contribuyentes cuyos inmuebles tengan un valor catastral que se ubique en los rangos marcados con las literales "B" o "C", y los que se encuentren marcados con la literal "D" con valor hasta de $58,202.10, pagarán la cantidad que resulte de sumar a la cuota fija señalada en el párrafo anterior, la que se obtenga de multiplicar por 0.0139% la diferencia entre el valor catastral del propio inmueble y la cantidad señalada como límite inferior del mencionado rango "B".
+Los contribuyentes cuyos inmuebles tengan un valor catastral que se ubique en los rangos marcados con las literales "B" o "C", y los que se encuentren marcados con la literal "D" con valor hasta de $ 58,202.10, pagarán la cantidad que resulte de sumar a la cuota fija señalada en el párrafo anterior, la que se obtenga de multiplicar por 0.01654% la diferencia entre el valor catastral del propio inmueble y la cantidad señalada como límite inferior del mencionado rango "B".
 
 2.- Salvo el caso previsto en el apartado anterior, para el rango marcado con la literal "D" el impuesto a pagar en el caso de inmuebles cuyo valor catastral se encuentre comprendido en los rangos marcados con las demás literales de la tarifa mencionada, será reducido en los porcentajes que a continuación se mencionan:
 
@@ -1960,11 +2090,13 @@ e). Los inmuebles respecto de los que se obtenga licencia única de construcció
 
 f). Otros inmuebles que sean efectivamente utilizados conforme a la autorización que hubiese otorgado la autoridad competente
 
-IV. Tratándose de los inmuebles que a continuación se mencionan, los contribuyentes tendrán derecho a una reducción del 50% del impuesto a su cargo:
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-1.- Los dedicados a usos agrícola, pecuario, forestal, de pastoreo controlado, ubicados en la zona primaria designada para la protección o conservación ecológica.
+IV. Tratándose de los inmuebles que a continuación se mencionan, los contribuyentes tendrán derecho a una reducción del impuesto a su cargo:
 
-2.- Los ubicados en zonas en las que los Programas Parciales de Desarrollo Urbano Delegacional determinen intensidades de uso, conforme a las cuales la proporción de las construcciones cuya edificación se autorice, resulte inferior a un 10% de la superficie total del terreno.
+1.- Del 80% los dedicados a usos agrícola, pecuario, forestal, de pastoreo controlado, ubicados en la zona primaria designada para la protección o conservación ecológica.
+
+2.- Del 50% los ubicados en zonas en las que los Programas Parciales de Desarrollo Urbano Delegacional determinen intensidades de uso, conforme a las cuales la proporción de las construcciones cuya edificación se autorice, resulte inferior a un 10% de la superficie total del terreno.
 
 ###### ARTICULO 153.
 
@@ -2010,9 +2142,7 @@ RANGO LIMITE LIMITE CUOTA FIJA FACTOR PARA
 
 INFERIOR SUPERIOR APLICARSE
 
-SOBRE
-
-EL
+SOBRE EL
 
 EXCEDENTE
 
@@ -2036,19 +2166,7 @@ G 1,200,000.10 EN
 
 ADELANTE 36,000.00 0.03300
 
-> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-a) (DEROGADO, G.O. 28 DE DICIEMBRE DE 1995)
-
-b) (DEROGADO, G.O. 28 DE DICIEMBRE DE 1995)
-
-> <small>(DEROGADO TERCER PARRAFO ANTERIOR AL ANTEPENULTIMO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-Cuando del inmueble formen parte departamentos habitacionales, la tarifa se debe aplicar atendiendo al valor de cada uno de ellos. Lo dispuesto en este párrafo no es aplicable a hoteles, moteles y en general a cualquier inmueble que se destine al servicio de hospedaje.
-
-> <small>(DEROGADO PENULTIMO PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(DEROGADO PENULTIMO PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 Sólo los bienes que la Federación y el Distrito Federal adquieran para formar parte del dominio público estarán exentos del impuesto a que se refiere este Capítulo.
 
@@ -2110,19 +2228,13 @@ Los avalúos que se realicen para efectos de este impuesto, deberán ser practic
 
 En caso contrario, dichas personas morales autorizadas y peritos registrados se harán acreedores a la suspensión o cancelación definitiva de la autorización o registro y a las sanciones pecuniarias a que haya lugar, sin perjuicio de la responsabilidad penal en que pudieran incurrir en el caso de la comisión de algún delito fiscal.
 
-En tratándose de inmuebles destinados a vivienda, los propios contribuyentes podrán determinar el valor del inmueble, aplicando el procedimiento y los valores de referencia del Manual de Procedimientos y Lineamientos Técnicos de Valuación Inmobiliaria y de Autorización de Sociedades y Registro de Peritos Valuadores, utilizando los formatos que para tal efecto sean aprobados por la autoridad fiscal.
+> <small>(DEROGADO ULTIMO PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 159.
 
-La reducción a que se refiere el artículo 156 se realizará como sigue:
-
-I. Se considerarán como un sólo inmueble los bienes que sean o resulten colindantes, adquiridos por la misma persona o por sus dependientes económicos en un período de 36 meses. De la suma de los precios o valores de los inmuebles adquiridos en el período mencionado, únicamente se tendrá derecho a hacer una reducción, la que se realizará al momento en que se efectúe la primera adquisición. El adquirente deberá manifestar, bajo protesta de decir verdad, al fedatario ante quien se formalice la adquisición, si el inmueble objeto de la operación colinda con otro que hubiera adquirido con anterioridad, para que se ajuste al monto de la reducción y pagará, en su caso, la diferencia del impuesto que corresponda. Lo dispuesto en esta fracción no es aplicable a las adquisiciones por causa de muerte;
-
-II. Cuando se adquiera parte de la propiedad o de los derechos de un inmueble, la reducción se hará en la proporción que corresponda a dicha parte;
-
-III. Tratándose de usufructo o de la nuda propiedad, únicamente se tendrá derecho al 50% de la reducción por cada uno de ellos, y
-
-IV. No se considerarán como vivienda, aun cuando se utilicen para este fin, los inmuebles que por sus características originales, deban destinarse a servicios domésticos, de portería o guarda de vehículos.
+En inmuebles destinados a vivienda, los propios contribuyentes podrán determinar el valor del inmueble, aplicando el procedimiento y los valores de referencia del Manual de Procedimientos y Lineamientos Técnicos de Valuación Inmobiliaria y de Autorización de Sociedades y Registro de Peritos Valuadores, utilizando los formatos que para tal efecto sean aprobados por la autoridad fiscal.
 
 ###### ARTICULO 160.
 
@@ -2171,6 +2283,10 @@ Tratándose de fideicomisos con inmuebles en los que el fedatario considere que 
 En ambos supuestos, no se exigirá al notario público documentación adicional y en las escrituras respectivas no se requerirá la cláusula especial a que se refiere este artículo.
 
 Los fedatarios estarán obligados a verificar que los avalúos o las determinaciones de valor efectuadas por los propios contribuyentes, que sirvan de base para el cálculo del impuesto a que se refiere este Capítulo, se encuentran vigentes y en el caso de los primeros, que se hayan practicado por personas morales autorizadas y peritos registrados, cuya autorización o registro no se encuentre cancelada o suspendida.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+Tratándose de inmuebles en condominio los fedatarios públicos deberán anotar en las escrituras públicas o demás documentos mediante los cuales se adquiera o transmita la propiedad de bienes inmuebles, así como en la constitución o transmisión de derechos reales sobre los mismos, una descripción general de la construcción del condominio, que comprenda las construcciones de uso común, indicando las medidas y superficies que les corresponda, así como la calidad de los materiales empleados, la descripción de cada departamento, vivienda, casa o local, su número, situación, medidas y superficies, piezas de que conste, espacio para estacionamiento de vehículos, si lo hubiere, los indivisos correspondientes a la localidad, así como la parte proporcional de los derechos sobre las áreas comunes del inmueble.
 
 ###### ARTICULO 162.
 
@@ -2224,7 +2340,11 @@ Asimismo, deberán presentar ante la autoridad fiscal, a través de la forma ofi
 
 IV. Presentar ante las oficinas autorizadas las declaraciones a que se refiere el artículo 166 de este Código y pagar el impuesto en los términos de este Capítulo;
 
-V. Los contribuyentes de este impuesto deberán presentar, con las declaraciones a que se refiere el artículo 166 de este Código, los boletos que no hayan sido vendidos, los cuales deberán tener todas sus secciones y estar adheridos a los talonarios respectivos, ya que de no ser así se considerarán como vendidos, y
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+V. Los contribuyentes de este impuesto deberán presentar, con las declaraciones a que se refiere el artículo 166 de este Código, los boletos que no hayan sido vendidos, los cuales deberán tener todas sus secciones y estar adheridos a los talonarios respectivos, ya que de no ser así se considerarán como vendidos.
+
+La Secretaría de Finanzas podrá autorizar en forma previa, sistemas electrónicos alternos de control, para la emisión de boletos de los espectáculos públicos que se realicen en el Distrito Federal, verificando que dichos sistemas cuenten con niveles de seguridad que garanticen su confiabilidad, respecto a los boletos no vendidos, y
 
 VI. Garantizar el interés fiscal cuando se encuentren en la hipótesis prevista en la fracción II del artículo 166 de este Código.
 
@@ -2248,13 +2368,17 @@ El pago de este impuesto no libera de la obligación de obtener los permisos o a
 
 III. Que organicen las actividades a que se refiere la fracción I de este artículo u obtenga los premios derivados de las mismas, cuando los billetes, boletos o contraseñas, sean distribuidos en el Distrito Federal, independientemente del lugar donde se realice el evento.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 170.
 
-No pagarán el impuesto a su cargo, conforme a lo establecido en este Capítulo, la Federación, el Distrito Federal, los Estados, los Municipios, el Patronato del Ahorro Nacional, la Lotería Nacional para la Asistencia Pública y Pronósticos para la Asistencia Pública. Los Partidos Políticos Nacionales, no estarán obligados al pago de este impuesto en los términos de la Ley de la materia.
+No pagarán el impuesto a su cargo en los supuestos a que se refieren las fracciones I y III del artículo anterior, la Federación, el Distrito Federal, los Estados, los Municipios, el Patronato del Ahorro Nacional, la Lotería Nacional para la Asistencia Pública y Pronósticos para la Asistencia Pública. Los partidos políticos nacionales, no estarán obligados al pago de este impuesto en los términos de la ley de la materia.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 171.
 
-Quienes organicen loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase, calcularán el impuesto aplicando la tasa del 12% al valor nominal de los billetes, boletos y demás comprobantes que permitan participar en dichos eventos.
+Quienes organicen loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase, calcularán el impuesto aplicando la tasa del 12% al valor nominal de los billetes, boletos y demás comprobantes que se distribuyan en el Distrito Federal y que permitan participar en dichos eventos.
 
 Por lo que se refiere a las personas que organicen las actividades que se consignan en el presente Capítulo, que emitan billetes, boletos, contraseñas u otros documentos, cualquiera que sea la denominación que se les dé, en los cuales no se exprese el valor de los mismos o sean distribuidos gratuitamente, el impuesto se calculará aplicando la tasa del 12% al valor total de los premios.
 
@@ -2299,6 +2423,10 @@ VII. Presentar ante la autoridad fiscal, la licencia o permiso otorgado por las 
 VIII. Manifestar ante la autoridad fiscal competente cualquier modificación de las bases para la celebración de loterías, rifas, sorteos y concursos, dentro de los 15 días siguientes a que esto ocurra, y
 
 IX. Garantizar el interés fiscal en el supuesto contemplado en el artículo 176 de este Código.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+Las personas físicas y morales que organicen loterías, rifas, sorteos y juegos con apuestas, apuestas permitidas y concursos de toda clase, que no estén obligadas al pago del impuesto a su cargo, conforme a lo dispuesto en el artículo 170 de este Código, tendrán las obligaciones previstas en las fracciones II, III, IV, V, VI, VII y VIII, de este artículo.
 
 ###### ARTICULO 176.
 
@@ -2352,37 +2480,39 @@ El impuesto sobre tenencia o uso de vehículos, se determinará como sigue:
 
 I. En caso de vehículos de uso particular hasta de diez pasajeros, la determinación se hará atendiendo al cilindraje del motor, conforme a lo siguiente:
 
-> <small>(REFORMADA LA TARIFA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA LA TARIFA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 CILINDRAJE CUOTA
 
 PESOS
 
-Hasta 4 $80.00
+Hasta 4 $ 95.00
 
-DE 6 240.00
+de 6 286.00
 
-DE 8 O MAS 300.00
+de 8 o más 357.00
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II. En el caso de vehículos importados al país, de año o modelo posterior a 1964, pagarán una cuota $1,000.00 los demás pagarán conforme a la cuota señalada en la fracción anterior.
+II. En el caso de vehículos importados al país, de año o modelo posterior a 1964, pagarán una cuota $767.00 los demás pagarán conforme a la cuota señalada en la fracción anterior.
 
 Las autoridades fiscales, mediante reglas de carácter general, darán a conocer las relaciones de los vehículos importados a que se refiere esta fracción.
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III. En caso de motocicletas, se pagará una cuota de $100.00.
+III. En caso de motocicletas, se pagará una cuota de $119.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-IV. En el caso de vehículos destinados al transporte público de pasajeros, se pagará una cuota de $250.00.
+IV. En el caso de vehículos destinados al transporte público de pasajeros, se pagará una cuota de $297.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-V. En el caso de vehículos destinados al transporte de carga, se pagará una cuota de $50.00 por cada tonelada de capacidad de carga.
+V. En el caso de vehículos destinados al transporte de carga, se pagará una cuota de $59.00 por cada tonelada de capacidad de carga o de arrastre.
 
-El impuesto sobre tenencia o uso de vehículos, se pagará mediante declaración, en la forma oficial autorizada, dentro de los primeros tres meses de cada año conjuntamente con los derechos por servicios de control vehicular.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+El impuesto sobre tenencia o uso de vehículos se pagará mediante declaración en la forma oficial aprobada, dentro de los tres primeros meses de cada año conjuntamente con los derechos por servicio de control vehicular. Cuando se tramite el alta en el Distrito Federal de un vehículo matriculado en otra entidad federativa o por la Federación y ésta se realice en el segundo, tercero o cuarto trimestre del año, se cubrirá el 75%, 50% o 25% de las cuotas señaladas en este artículo, respectivamente.
 
 Se aplicarán en forma supletoria a las disposiciones de este Capítulo, las contenidas en la Ley del Impuesto sobre Tenencia o Uso de Vehículos.
 
@@ -2422,9 +2552,9 @@ III. Los consignatarios o comisionistas en cualquier operación de adquisición 
 
 No están obligados al pago de este impuesto las personas físicas o morales que adquieran vehículos automotores usados, cuando por dichas operaciones deba pagarse el impuesto al valor agregado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO VIII BIS. Del Impuesto por la Prestación de Servicios de Hospedaje
+### CAPITULO VII BIS. Del Impuesto por la Prestación de Servicios de Hospedaje
 
 > <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
@@ -2442,9 +2572,9 @@ ARTICULO 186 B.- El impuesto a que se refiere este capítulo se causará al mome
 
 Cuando los contribuyentes convengan la prestación de servicios de hospedaje e incluyan servicios accesorios, tales como transportación, comida, uso de instalaciones, u otros similares y no desglosen y comprueben la prestación de estos últimos, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.
 
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-ARTICULO 186 C.- Los contribuyentes calcularán el impuesto a la prestación de servicios de hospedaje aplicando la tasa del 3% al total del valor de las contraprestaciones que perciban por servicios de hospedaje y deberán pagarlo mediante declaración que presentarán, en la forma oficial aprobada, ante las oficinas autorizadas, a más tardar el día quince del mes siguiente a aquél en que se perciban dichas contraprestaciones.
+ARTICULO 186 C.- Los contribuyentes calcularán el impuesto a la prestación de servicios de hospedaje aplicando la tasa del 2% al total del valor de las contraprestaciones que perciban por servicios de hospedaje y deberán pagarlo mediante declaración que presentarán, en la forma oficial aprobada, ante las oficinas autorizadas, a más tardar el día quince del mes siguiente a aquél en que se perciban dichas contraprestaciones.
 
 ### CAPITULO VIII. De las Contribuciones de Mejoras
 
@@ -2484,39 +2614,39 @@ I. Por la dotación del servicio de suministro de agua potable y drenaje a nuevo
 
 1.- Cuando el inmueble sea destinado a casa habitación:
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-a). Hasta 50 m2 de construcción $1,649.00
+a) Hasta 50 m2 de construcción $1,962.00
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-b). De 51 m2 a 70 m2 de construcción $3,298.00
+b) De 51 m2 a 70 m2 de construcción..$3,925.00
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-c). De 71 m2 de construcción en adelante, por cada 50 m2 $3,298.00
+c) De 71 m2 de construcción en adelante, por cada 50 m2 $3,925.00
 
 En el caso de que estos inmuebles tengan zonas destinadas a estacionamiento de vehículos, por éstas se pagarán las siguientes cuotas:
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-a). Hasta 500 m2 de construcción $1,649.00
+a) Hasta 500 m2 de construcción $1,962.00
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-b). De 501 m2 a 700 m2 de construcción $3,298.00
+b) De 501 m2 a 700 m2 de construcción $3,925.00
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-c). De 701 m2 de construcción en adelante, por cada 500 m2 $3,298.00
+c) De 701 m2 de construcción en adelante, por cada 500 m2 $3,925.00
 
 En el caso de que las zonas de estacionamiento de vehículos correspondientes a los inmuebles a que se refiere este inciso y el siguiente, no estén construidas, no se causará en razón de ellas la contribución de mejoras a que se refiere esta fracción;
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-2.- Tratándose de inmuebles cuyo destino sea distinto al habitacional, por cada 50 m2 de construcción $6,597.00
+2.- Tratándose de inmuebles cuyo destino sea distinto al habitacional, por cada 50 m2 de construcción $7,850.40
 
-En el caso de que estos inmuebles tengan zonas destinadas a estacionamiento de vehículos por éstas se pagará por cada 500 m2 de construcción, la cantidad de $6,597.00
+En el caso de que estos inmuebles tengan zonas destinadas a estacionamiento de vehículos por éstas se pagará por cada 500 m2 de construcción, la cantidad de $7,850.00
 
 3.- En el caso de construcciones destinadas a bodegas o estacionamientos de vehículos, ya sean públicos o privados, se pagará el 50% de las cuotas previstas en el primer párrafo del inciso 2 de esta fracción;
 
@@ -2550,7 +2680,9 @@ III. Cuando se trate de construir instalaciones hidráulicas tendientes a increm
 
 IV. Cuando con motivo del cambio de las instalaciones ya existentes, se requieran modificaciones a la red de suministro, que impliquen un incremento en el volumen de agua, se pagarán las contribuciones de mejoras considerando el incremento diario de metros cúbicos de agua, prorrateados en los mismos términos que en la fracción anterior.
 
-En los supuestos de causación de la contribución de mejoras a que se refiere este artículo, el pago de esta contribución será requisito indispensable para la expedición de la autorización de cambio de uso del suelo y de la licencia de construcción de obra nueva o ampliación correspondiente, y servirá como base de la contribución para la determinación de las cuotas señaladas, la superficie construida que se autorice en la licencia respectiva.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+En los supuestos de causación de la contribución de mejoras a que se refiere este artículo, el pago de esta contribución será requisito indispensable para la expedición de la autorización de cambio de uso del suelo o de registro de obra, así como para la expedición de la licencia de construcción de obra nueva o ampliación correspondiente, y servirá como base de la contribución para la determinación de las cuotas señaladas, la superficie construida que se autorice en la licencia respectiva.
 
 ###### ARTICULO 191.
 
@@ -2590,6 +2722,8 @@ Los contribuyentes que efectúen mediante una sola exhibición el pago total del
 
 #### Sección Primera. De los Derechos por el Suministro de Agua
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 194.
 
 Las autoridades fiscales deberán autorizar, conforme a reglas de carácter general, que las contribuciones de mejoras se paguen en parcialidades en un plazo hasta de cinco años, tomando en consideración la situación económica de la mayoría de las personas obligadas a pagar la contribución de que se trate, caso en el que los pagos se harán cuando se efectúen los correspondientes al impuesto predial. Las parcialidades causarán un interés, conforme a la tasa que será igual a la de recargos aplicables a los pagos en parcialidades que prevé este Código.
@@ -2602,149 +2736,229 @@ El Jefe del Distrito Federal, mediante disposiciones de carácter general, podr�
 
 ###### ARTICULO 196.
 
-Están obligados al pago de los derechos por el suministro de agua que provea el Distrito Federal, los usuarios del servicio. El monto de dichos derechos comprenderá las erogaciones necesarias para adquirir, extraer, conducir, distribuir el líquido y posteriormente su descarga a la red de drenaje, así como las que se realicen para mantener la infraestructura necesaria para ello, y se pagarán bimestralmente, de acuerdo a las tarifas que a continuación se indican:
+Están obligados al pago de los derechos por el suministro de agua que provea el Distrito Federal, los usuarios del servicio. El monto de dichos derechos comprenderá las erogaciones necesarias para adquirir, extraer, conducir y distribuir el líquido, así como su descarga a la red de drenaje, y las que se realicen para mantener y operar la infraestructura necesaria para ello, y se pagarán bimestralmente, de acuerdo a las tarifas que a continuación se indican:
 
 I. En caso de que haya instalado medidor, los derechos señalados se pagarán de acuerdo con lo siguiente:
 
 a). Tratándose de tomas de uso doméstico, que para efectos de este Código son las que se encuentren instaladas en inmuebles de uso habitacional, el pago de los derechos correspondientes se hará conforme al volumen de consumo medido, de acuerdo a la siguiente:
 
-> <small>(REFORMADA , G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 TARIFA
 
-CONSUMO POR METROS CUOTA POR METRO
+CONSUMO EN m3 TARIFA
 
-CUBICOS CUBICO
+LIMITE LIMITE CUOTA CUOTA
 
-DE 00.1 A 10.0 EXENTO
+INFERIOR SUPERIOR MINIMA ADICIONAL
 
-DE 10.1 A 20.0 $0.90
+POR METRO
 
-DE 20.1 A 30.0 1.00
+CUBICO
 
-DE 30.1 A 60.0 2.30
+EXCEDENTE
 
-DE 60.1 A 120.0 2.75
+DEL LIMITE
 
-DE 120.1 A 240.0 3.70
+INFERIOR
 
-DE 240.1 A 420.0 4.25
+00.0 10.0 $10.00 $0.00
 
-DE 420.1 A 660.0 4.85
+10.1 20.0 10.00 1.00
 
-DE 660.1 A 960.0 5.40
+20.1 30.0 20.00 1.00
 
-MAS DE 960.0 6.00
+30.1 60.0 30.00 2.40
+
+60.1 90.0 02.00 4.75
+
+90.1 120.0 244.00 6.55
+
+120.1 240.0 440.00 8.35
+
+240.1 420.0 1,441.00 10.10
+
+420.1 660.0 3,260.00 11.90
+
+660.1 960.0 6,116.00 13.70
+
+960.1 1,500.0 10,225.00 15.45
+
+1,500.1 EN
+
+ADELANTE 18,567.00 17.25
 
 b). Las tomas de agua instaladas en inmuebles distintos a los señalados en el inciso anterior, se considerarán como de uso no doméstico para efectos de este Código y el pago de los derechos correspondientes, se hará conforme al volumen de consumo medido en ese período, de acuerdo a la siguiente:
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 TARIFA
 
-CONSUMO POR CUOTA POR
+CONSUMO EN m3 TARIFA
 
-METROS METRO
+LIMITE LIMITE CUOTA CUOTA
 
-CUBICOS CUBICO
+INFERIOR SUPERIOR BASE ADICIONAL
 
-DE 00.1 A 30.0 $2.25
+POR METRO
 
-DE 30.1 A 60.0 3.80
+CUBICO
 
-DE 60.1 A 120.0 4.45
+EXCEDENTE
 
-DE 120.1 A 240.0 5.85
+DEL LIMITE
 
-DE 240.1 A 420.0 6.75
+INFERIOR
 
-DE 420.1 A 660.0 8.05
+00.0 10.0 $40.00 $ 0.00
 
-DE 660.1 A 960.0 9.45
+10.1 20.0 80.00 0.00
 
-MAS DE 960.0 10.70
+20.1 30.0 120.00 0.00
+
+30.1 60.0 120.00 5.95
+
+60.1 90.0 298.00 7.75
+
+90.1 120.0 530.00 9.50
+
+120.1 240.0 816.00 11.30
+
+240.1 420.0 2,172.00 13.10
+
+420.1 660.0 4,529.00 14.85
+
+660.1 960.0 8,095.00 16.70
+
+960.1 1,500.0 13,104.00 18.45
+
+1,500.1 EN
+
+ADELANTE 23,065.00 20.25
 
 Las autoridades fiscales determinarán el consumo de agua por medio de la lectura de los aparatos medidores, con base al promedio del consumo diario resultante de cuando menos tres lecturas en un año. A partir de la tercera lectura, el consumo promedio se determinará con base en las dos lecturas más recientes.
 
-II. En el caso de que no haya medidor instalado los derechos señalados se pagarán de acuerdo a lo siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-a). Tratándose de tomas de uso doméstico, se pagará una cuota fija, considerando el consumo promedio que corresponda a la colonia catastral en que se encuentre ubicado el inmueble en que esté instalada la toma.
+II. En el caso de que no haya medidor instalado, el medidor esté descompuesto o exista la imposibilidad de efectuar la lectura del consumo, los derechos señalados se pagarán de acuerdo a lo siguiente:
 
-Para tal efecto, se considerarán las colonias catastrales con base en la clasificación y características que señale la Asamblea para fines de la determinación de los valores unitarios del suelo, construcciones e instalaciones especiales, de acuerdo a lo dispuesto por el artículo 151 de este Código y los derechos bimestrales correspondientes se pagarán conforme a la siguiente:
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+a) Tratándose de tomas de uso doméstico, se pagará el derecho considerando el consumo promedio que corresponda a la colonia catastral en que se encuentre el inmueble en que esté instalada la toma, siempre que en dicha colonia catastral el número de tomas con medidor sea mayor o igual al 70% del total de tomas existentes en esa colonia. En los casos en que no se cumpla con esa condición, se aplicará la cuota fija correspondiente de la tarifa prevista en este inciso.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+Para tal efecto, se considerarán las colonias catastrales con base en la clasificación y características que señale la Asamblea para fines de la determinación de los valores unitarios del suelo, construcciones e instalaciones especiales, de acuerdo a lo dispuesto por el artículo 151 de este Código.
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 TARIFA
 
-Tipo de colonia catastral Cuota bimestral
+TIPO DE COLONIA CUOTA BIMESTRAL
 
-en que se ubique el inmueble expresada en
+CATASTRAL EN QUE EXPRESADA EN PESOS
 
-en que esté instalada pesos
+SE UBIQUE EL
 
-una toma de agua
+INMUEBLE Y ESTE
 
-0 EXENTO
+INSTALADA UNA
 
-1 $12.70
+TOMA DE AGUA
 
-2, 3 y 8 25.00
+0 $ 10.00
 
-4, 5 y 7 107.70
+1 15.00
 
-6 251.95
+2, 3 Y 8 30.00
 
-Los inmuebles ubicados en las colonias tipo
+4, 5 Y 7 128.00
 
-6 y 7 que tengan un valor catastral que
+6 300.00
 
-corresponda al rango marcado con la literal
+LOS INMUEBLES
 
-"M" a la "S" de la tarifa establecida en la
+UBICADOS EN LAS
 
-fracción I del artículo 152 de este Código. $646.35
+COLONIAS TIPO 6 Y 7
+
+QUE TENGAN UN
+
+VALOR CATASTRAL
+
+QUE CORRESPONDA
+
+AL RANGO MARCADO
+
+CON LA LITERAL
+
+"M" A LA "S" DE LA
+
+TARIFA ESTABLECIDA
+
+EN LA FRACCION I DEL
+
+ARTICULO 152 DE ESTE
+
+CODIGO. $ 770.00
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+La Comisión de Aguas del Distrito Federal publicará en la Gaceta Oficial del Distrito Federal, las listas de las colonias catastrales que vayan contando con un 70% o más de tomas con medidor instalado.
 
 b). En el caso de tomas de agua consideradas para efectos de este Código como de uso no doméstico, se pagará una cuota fija bimestral, considerando el diámetro de la toma, conforme a la siguiente:
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 TARIFA
 
-Diámetro de la toma en Cuota bimestral
+DIAMETRO DE LA TOMA CUOTA BIMESTRAL
 
-milímetros expresada en pesos
+EN MILIMETROS EXPRESADA EN
 
-13 $161.50
+EXPRESADA EN PESOS
 
-Más de 13 a 15 2,533.55
+PESOS
 
-Más de 15 a 19 4,145.50
+13 $378.00
 
-Más de 19 a 26 8,060.35
+MAS DE 13 A 15 2,533.55
 
-Más de 26 a 32 12,436.80
+MAS DE 15 A 19 4,145.50
 
-Más de 32 a 39 18,194.45
+MAS DE 19 A 26 8,060.35
 
-Más de 39 a 51 32,243.25
+MAS DE 26 A 32 12,436.80
 
-Más de 51 a 64 48,363.95
+MAS DE 32 A 39 18,194.45
 
-Más de 64 a 76 69,091.85
+MAS DE 39 A 51 32,243.25
 
-Más de 76 a 102 140,486.15
+MAS DE 51 A 64 48,363.95
 
-Más de 102 a 150 304,002.95
+MAS DE 64 A 76 69,091.85
 
-Más de 150 a 200 538,916.20
+MAS DE 76 A 102 140,486.15
 
-Más de 200 a 250 842,919.20
+MAS DE 102 A 150 304,002.95
 
-Más de 250 a 300 1,213,711.25
+MAS DE 150 A 200 538,916.20
 
-Más de 300 en adelante 1,287,410.20
+MAS DE 200 A 250 842,919.20
 
-Los pagos bimestrales de los derechos a que se refiere la fracción II de este artículo tendrán el carácter de provisionales, debiendo efectuarse los ajustes correspondientes cuando se instale aparato medidor, a partir de la fecha en que se hubiere solicitado su instalación ya sea para que los contribuyentes cubran la diferencia que resulte a su cargo o bien para que puedan acreditar contra pagos posteriores la cantidad que pagaron de más.
+MAS DE 250 A 300 1,213,711.25
+
+MAS DE 300 EN
+
+ADELANTE 1,287,410.20
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+La autoridad fiscal, a solicitud del contribuyente, recibirá los pagos bimestrales de los derechos a que se refiere la fracción II de este artículo, con el carácter de provisionales, debiendo efectuarse los ajustes correspondientes cuando el aparato medidor se instale, repare o posibilite su lectura, a partir de la fecha en que se hubiere solicitado su instalación, reparación o lectura, ya sea para que los contribuyentes cubran la diferencia que resulte a su cargo o bien para que puedan acreditar contra pagos posteriores la cantidad que pagaron de más.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+El solicitante de una licencia de construcción de obra nueva que cuente con toma de agua y no cuente con medidor, previamente a la obtención de la licencia, deberá pagar el medidor, aditamentos e instalaciones conforme a los presupuestos que al efecto elabore la Comisión de Aguas del Distrito Federal.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
@@ -2752,43 +2966,47 @@ Los pagos bimestrales de los derechos a que se refiere la fracción II de este a
 
 Las personas físicas y las morales que usen o aprovechen agua residual o residual tratada que suministre el Distrito Federal en el caso de contar con excedentes, así como agua potable proporcionada por el mismo Distrito Federal, a través de los medios que en este artículo se indican, pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-I. Agua residual $0.45 por m3
+I. Tratándose de agua potable:
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+a) De tomas de válvula de tipo cuello de garza $10.70 por m3.
 
-II. Agua residual tratada a nivel secundario
+b) Cuando se surta en camiones cisternas para su
 
-a). De tomas de válvula de tipo cuello de garza $1.00 por m3
+comercialización incluyendo transporte en el Distrito Federal $29.75 por m3.
 
-b). Cuando exista toma en el inmueble $1.10 por m3
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-c). Cuando se surta en camiones cisterna para su comercialización, incluyendo el transporte en el Distrito Federal $9.00 por m3
+II. Agua residual $0.55 por m3.
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III. Agua residual tratada a nivel terciario:
+III. Agua residual tratada a nivel secundario:
 
-a). De tomas de válvula de tipo cuello de garza $2.00 por m3
+a) De tomas de válvula de tipo cuello de garza, el 60% de la cuota prevista en el inciso a) de la fracción I de este artículo.
 
-b). Cuando exista toma en el inmueble $2.10 por m3
+b) Cuando exista toma en el inmueble, el 60% de la cuota correspondiente en la tarifa prevista en el inciso b) de la fracción I del artículo 196 de este Código.
 
-c). Cuando se surtan en camiones cisternas para su comercialización, incluyendo el transporte en el Distrito Federal $10.00 por m3
+c) Cuando se surta en camiones cisterna para su comercialización, incluyendo el transporte en el Distrito Federal, el 60% de la cuota prevista en el inciso b) de la fracción I de este artículo.
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-IV. Tratándose de agua potable:
+IV. Agua residual tratada a nivel terciario:
 
-a). De tomas de válvula de tipo cuello de garza $9.00 por m3
+a) De tomas de válvula de tipo cuello de garza, el 70% de la cuota prevista en el inciso a) de la fracción I de este artículo.
 
-b). Cuando se surta en camiones cisternas para su comercialización incluyendo transporte en el Distrito Federal $25.00 por m3
+b) Cuando exista toma en el inmueble, el 70% de la cuota prevista en la fracción I del artículo 196 de este Código, según corresponda el uso.
+
+c) Cuando se surtan en camiones cisternas para su comercialización, incluyendo el transporte en el Distrito Federal, el 80% de la cuota prevista en el inciso b) de la fracción I de este artículo.
 
 En el caso de tomas en el inmueble, los derechos correspondientes deberán pagarse por bimestres naturales a partir del mes de enero de cada año, dentro de los veinte días de calendario siguientes, ante las oficinas autorizadas; en los demás casos, los derechos deberán pagarse antes de la prestación del servicio respectivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 198.
 
-La determinación y pago del derecho de agua, salvo lo previsto en el artículo anterior, se hará por bimestres naturales a partir del mes de enero de cada año, dentro de los veinte días de calendario siguientes a cada bimestre en los términos que a continuación se indican:
+La determinación y pago del derecho de agua, salvo lo previsto en el artículo anterior, se realizará por períodos bimestrales, y se deberá efectuar dentro de los 30 días naturales siguientes al de la emisión de la boleta, en los términos que a continuación se indican:
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
@@ -2800,47 +3018,63 @@ II. Tratándose de las tomas de agua de uso no doméstico, señaladas en la frac
 
 Para determinar el derecho que les corresponda por cada bimestre, los contribuyentes efectuarán por sí mismos la lectura de los medidores de las tomas de agua el primer día de cada bimestre.
 
-Con el objeto de facilitar el cumplimiento de las obligaciones de los usuarios a que se refiere el primer párrafo de esta fracción, la autoridad fiscal podrá emitir propuestas de declaraciones, mismas que proporcionará al contribuyente en los formatos oficiales autorizados. Estas propuestas contendrán la determinación del consumo de agua y de los derechos correspondientes. No tendrán el carácter de resoluciones fiscales y por tanto no relevarán al contribuyente de la obligación de presentar sus declaraciones. En caso de ser aceptadas por los usuarios serán presentadas en las oficinas autorizadas. En el supuesto contrario, procederán a determinar su consumo y pagar los derechos respectivos en los términos señalados en el presente artículo.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+Con el objeto de facilitar el cumplimiento de las obligaciones de los usuarios a que se refiere el primer párrafo de esta fracción, la autoridad fiscal emitirá propuestas de declaración, mismas que proporcionará al contribuyente en los formatos oficiales autorizados. Estas propuestas contendrán la determinación del consumo de agua y de los derechos correspondientes, no tendrán el carácter de resoluciones fiscales y, por tanto, no relevarán al contribuyente de la obligación de presentar sus declaraciones. En caso de ser aceptadas por los usuarios, serán presentadas en las oficinas autorizadas. En el supuesto contrario, procederán a determinar su consumo y pagar los derechos respectivos en los términos señalados en el presente artículo.
 
 En el caso de tomas de agua, de uso no doméstico a que se refiere el artículo 196 fracción II, inciso b), los contribuyentes deberán pagar ante las oficinas autorizadas los derechos correspondientes. Cuando los contribuyentes omitan la determinación y declaración del derecho correspondiente a su consumo en los términos de esta fracción, o bien, declaren consumos menores a los determinados por la autoridad competente, ésta, determinará y liquidará los derechos omitidos, recargos y sanciones que correspondan.
 
-> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III. Tratándose de inmuebles que cuenten con más de una toma y número de cuenta, o cuando dos o más tomas alimenten el mismo sistema hidráulico, se aplicará la tarifa correspondiente a la suma de los consumos de dichas tomas.
+III. La autoridad fiscal asignará una cuenta:
 
-> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+a) Para cada una de las tomas generales en el predio.
 
-IV. En los inmuebles en régimen en condominio que tengan varios apartamentos, viviendas y locales, en que no exista medidor para cada uno de ellos, el consumo que corresponda a la toma general o tomas generales será dividido entre el número de apartamentos, viviendas o locales que sean servidos por la toma o tomas de que se trate, al volumen de consumo así determinado se le aplicará la tarifa que corresponda según el uso que proceda y se emitirá una boleta por cada apartamento, vivienda o local, sin que lo anterior se considere como una excepción a lo dispuesto por la fracción I del artículo 200 de este Código.
+b) Para cada una de las ramificaciones internas correspondientes a cada apartamento, vivienda o local en régimen en condominio.
 
-> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+c) Para cada una de las ramificaciones internas correspondientes a cada apartamento, vivienda o local en regímenes distintos al condominio, a solicitud de todos los usuarios y previo dictamen técnico de la autoridad.
 
-V. En los inmuebles que tengan varios apartamentos, viviendas y locales, en que no exista medidor para cada uno de ellos, el consumo que corresponda a la toma o tomas generales será dividido entre el número de apartamentos, viviendas o locales, que sean servidos por la toma o tomas de que se trate y al volumen de consumo así determinado se le aplicará la tarifa que corresponda según el uso que proceda, sin que lo anterior se considere como una excepción a lo dispuesto por la fracción I del artículo 200 de este Código.
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+IV. Cuando exista medidor, la determinación de los consumos realizados por los usuarios será a partir de los registros de los consumos de la o las tomas generales y, en su caso, de las ramificaciones internas.
 
-VI. En los inmuebles en régimen en condominio que tengan varios apartamentos, viviendas y locales, en que existan medidores individuales para cada uno de ellos y medidor o medidores generales, se emitirá una boleta para cada uno de los apartamentos, viviendas o locales, aplicando la tarifa que corresponda según el uso que proceda. Asimismo por el remanente que resulte de determinar el consumo de la toma o tomas generales menos el consumo total de los condominios, se emitirá una boleta para que ésta sea pagada a prorrata entre los condóminos.
+Tratándose de inmuebles que cuenten con más de una toma y número de cuenta, o cuando dos o más tomas alimenten el mismo sistema hidráulico o a inmuebles colindantes de un mismo usuario, se aplicará la tarifa correspondiente a la suma de los consumos de dichas tomas. En estos supuestos se emitirá una boleta.
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+V. En los inmuebles en régimen en condominio que tengan varios apartamentos, viviendas y locales:
+
+a) Cuando exista medidor individual para cada apartamento, vivienda o local y cuenten con medidor o medidores generales, se emitirá una boleta para cada uno de ellos, aplicando la tarifa que corresponda, según el uso que proceda. Asimismo, por el remanente que resulte de determinar el consumo de la toma o tomas generales menos el consumo total de los condóminos, se emitirá una boleta para que ésta sea pagada a prorrata entre los mismos. A solicitud de todos los usuarios del inmueble, dicho prorrateo podrá cargarse en las boletas de cada unidad, según el uso que corresponda, eliminando la emisión de la boleta del consumo remanente.
+
+b) Cuando no existan medidores individuales y se cuente con medidor en toma general o tomas generales, el consumo será dividido entre el número de apartamentos, viviendas o locales que sean servidos por la toma o tomas de que se trate; al volumen de consumo así determinado se le aplicará la tarifa que corresponda según el uso que proceda y se emitirá una boleta por cada apartamento, vivienda o local, sin que lo anterior se considere como una excepción a lo dispuesto por la fracción I del artículo 200 de este Código.
+
+c) Cuando cuenten con medidor en la toma o tomas generales y la instalación hidráulica de por lo menos una unidad no permita la instalación de medidor individual en cada apartamento, vivienda o local, el consumo de sus unidades medidas será restado del consumo total de la toma o tomas generales y la diferencia será prorrateada entre las unidades sin medidor, emitiéndose una boleta por cada unidad con el consumo así determinado y de acuerdo al uso que corresponda.
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+VI. En los inmuebles distintos al régimen en condominio que tengan varios apartamentos, viviendas y locales:
+
+a) Cuando exista medidor individual en cada apartamento, vivienda o local, y cuenten con medidor o medidores generales, se aplicará lo dispuesto en el inciso a), fracción V que antecede.
+
+b) Cuando no existan medidores individuales y cuenten con medidor en la toma o tomas generales, el consumo que corresponda a la toma o tomas generales será dividido entre el número de apartamentos, viviendas o locales, que sean servidos por la toma o tomas de que se trata y al volumen de consumo así determinado se le aplicará la tarifa que corresponda según el uso que proceda, emitiéndose una sola boleta, salvo la asignación posterior de cuentas individuales, sin que lo anterior se considere como una excepción a lo dispuesto por la fracción I del artículo 200 de este Código.
+
+c) Cuando cuenten con medidor en la toma o tomas generales y la instalación hidráulica de por lo menos una unidad no permita la instalación de medidor individual en cada apartamento, vivienda o local, el consumo de sus unidades medidas será restado del consumo total de la toma o tomas generales y la diferencia se dividirá entre las unidades sin medidor; al volumen de consumo así determinado, se le aplicará la tarifa que corresponda según el uso que proceda y se emitirá una sola boleta por la diferencia de consumo, salvo la asignación posterior de cuentas individuales.
 
 > <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
 VII. En los inmuebles que tengan varios apartamentos, viviendas, locales o unidades en condominio, que cuenten con medidores individuales y que no cuenten con medidor en la toma o tomas generales, el consumo o los consumos por las áreas comunes que no sean registrados se pagarán a prorrata entre los usuarios aplicándose la tarifa del uso que proceda prevista en el artículo 196, fracción II, de este Código.
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(DEROGADO PENULTIMO Y ULTIMO PARRAFOS, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-Los contribuyentes que usen o aprovechen agua en tomas instaladas en inmuebles de uso habitacional, que habiéndose utilizado para fines distintos vuelvan al de habitación, deberán comunicarlo a la autoridad fiscal dentro del bimestre en que ese hecho ocurra y en caso de no hacerlo, seguirán declarando conforme al uso anterior, hasta en tanto no realicen la comunicación señalada.
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-Asimismo, los contribuyentes que dejen de utilizar como habitación sus inmuebles y los destinen a otro distinto, deberán comunicarlo a la autoridad fiscal en el bimestre mismo en que ello ocurra.
-
-> <small>(DEROGADOS PENULTIMO Y ULTIMO PARRAFOS, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 199.
 
-Cuando existan descomposturas o situaciones que impidan la lectura de los medidores, los contribuyentes deberán dar aviso de estos hechos y además deberán determinar el derecho a su cargo, con base en el promedio que resulte de los tres últimos bimestres en que hayan declarado sus consumos. En el caso de que la descompostura no sea por el uso normal, los contribuyentes deberán cubrir el costo de la reparación o reposición de los medidores, de conformidad con los presupuestos que al efecto elabore la autoridad fiscal.
+Cuando existan descomposturas o situaciones que impidan la lectura de los medidores, los contribuyentes deberán dar aviso de estos hechos a la Comisión de Aguas del Distrito Federal, durante el bimestre en que ocurran.
 
-En caso de omisión, la autoridad procederá de acuerdo a lo dispuesto en el último párrafo del artículo 196 de este Código, según el caso.
+En el caso de que la descompostura no sea por el uso normal de los medidores, los contribuyentes deberán cubrir el costo de la reparación o reposición de los medidores, de conformidad con los presupuestos que al efecto elabore la Comisión de Aguas del Distrito Federal.
+
+En el caso de omisión del aviso, la autoridad procederá de acuerdo a lo dispuesto en el penúltimo párrafo del artículo 196 de este Código, según el caso.
 
 #### Sección Segunda. De los Servicios de Prevención y Control de la Contaminación Ambiental
 
@@ -2848,29 +3082,47 @@ En caso de omisión, la autoridad procederá de acuerdo a lo dispuesto en el úl
 
 Los contribuyentes del derecho de agua tienen las siguientes obligaciones:
 
-I. Solicitar a las autoridades competentes la instalación de aparatos medidores.
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-En los edificios y apartamentos, viviendas o locales, la obligación de solicitar la instalación del aparato medidor se refiere a la toma general de la que se surten los apartamentos, viviendas y locales, pudiéndose solicitar la instalación de medidores para individualizar sus consumos, siendo a su cargo el costo de las adaptaciones, tuberías y medidores, conforme a los presupuestos que para tal efecto se formulen.
+I. Solicitar a la Comisión de Aguas del Distrito Federal, la instalación de aparatos medidores.
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+En los edificios y apartamentos, viviendas o locales, la obligación de solicitar la instalación del aparato medidor se refiere a la toma o tomas generales de la o las que se surten los apartamentos, viviendas y locales. Los usuarios de apartamentos, viviendas y locales que se surtan de una toma o tomas generales podrán solicitar la instalación de medidores para individualizar sus consumos, siendo a su cargo el costo de las adaptaciones, tuberías y medidores, conforme a los presupuestos que para el efecto formule la Comisión de Aguas del Distrito Federal y podrán ser instalados previo dictamen de la autoridad.
 
-En caso de que en el mismo predio el agua suministrada tenga usos doméstico y no domésticos, abastecida por una misma toma, los usuarios deberán instalar medidores individuales para cada uso. El costo de las instalaciones, incluyendo el de los medidores, quedarán a cargo de los usuarios. En tanto no se instalen los medidores individuales, los usuarios están obligados a pagar el derecho conforme a la tarifa del uso predominante.
+En caso de que en el mismo predio el agua suministrada tenga usos doméstico y no doméstico, abastecida por una misma toma, los usuarios solicitarán la instalación de medidores individuales para cada uso. El costo de las instalaciones, incluyendo el de los medidores, quedará a cargo de los usuarios. En tanto no se instalen los medidores individuales, los usuarios están obligados a pagar el derecho conforme a la tarifa del uso predominante;
 
-II. Conservar los aparatos medidores en condiciones adecuadas de operación;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III. Dar aviso a las autoridades competentes de las descomposturas de su medidor o situaciones que impidan su lectura, dentro del bimestre en que ello ocurra;
+II. Conservar los aparatos medidores y sus aditamentos en condiciones adecuadas de operación;
 
-IV. Permitir el acceso a las personas autorizadas para la instalación de tomas y medidores; para la adecuación y corrección de tomas; para efectuar y verificar la lectura del aparato medidor, y
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-V. Tratándose de tomas de agua de uso no doméstico o doméstico en que se haya optado por la determinación del consumo por parte del mismo contribuyente, deberán llevar un registro cronológico por escrito de las mediciones del consumo de agua que realicen para determinar el monto del derecho a su cargo.
+III. Dar aviso a las autoridades competentes de las descomposturas de su medidor y sus aditamentos o de situaciones que impidan su lectura, dentro del bimestre en que ello ocurra;
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+IV. Permitir el acceso a las personas autorizadas para la instalación de tomas y medidores; para la adecuación y corrección de tomas; para efectuar y verificar la lectura del aparato medidor;
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+V. Tratándose de tomas de agua de uso no doméstico, o doméstico en que se haya optado por la determinación del consumo por parte del mismo contribuyente, deberán llevar un registro cronológico en la forma oficial aprobada por la autoridad fiscal, en donde consten las mediciones del consumo de agua que realicen para determinar el monto del derecho a su cargo, y
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+VI. Comunicar a la Comisión de Aguas del Distrito Federal el cambio de uso de las tomas de agua, dentro del bimestre en que este hecho ocurra. Los contribuyentes que usen o aprovechen agua en tomas instaladas en inmuebles de uso habitacional, que habiéndose utilizado para fines distintos vuelvan al de habitacional, en tanto no cumplan con la obligación de comunicar el cambio de uso, seguirán declarando conforme al uso anterior.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 201.
 
-En caso de que los contribuyentes no enteren oportunamente los derechos a su cargo, o bien, cuando reincidan en declarar consumos menores a los determinados por la autoridad, la Comisión de Aguas del Distrito Federal, suspenderá el suministro de agua a inmuebles de uso no doméstico; y podrá restringirlo, a la cantidad necesaria para satisfacer los requerimientos básicos, tratándose de tomas de uso doméstico, considerando, en este último caso, lo previsto en el artículo 46 de la Ley de Salud para el Distrito Federal.
+En caso de que los contribuyentes no enteren oportunamente los derechos a su cargo, o bien, cuando reincidan en declarar consumos menores a los determinados por la autoridad, la Comisión de Aguas del Distrito Federal, suspenderá los servicios hidráulicos a inmuebles de uso no doméstico; y podrá restringirlos, a la cantidad necesaria para satisfacer los requerimientos básicos, tratándose de tomas de uso doméstico, considerando, en este último caso, lo previsto en el artículo 46 de la Ley de Salud para el Distrito Federal.
 
 Igualmente, queda facultado dicho órgano para suspender el servicio, cuando se comprueben derivaciones no autorizadas o con uso distinto al manifestado; modificaciones o manipulaciones a los ramales de las tuberías de distribución; se comercialice el agua suministrada por el Distrito Federal a través de tomas conectadas a la red pública, sin autorización, se empleen mecanismos para succionar agua de las tuberías de distribución o bien, se destruya, altere o inutilice los aparatos medidores.
 
 Cuando se suspenda el suministro de agua, para el restablecimiento del mismo, previamente se cubrirán los derechos y accesorios legales que se hubiesen generado, por la omisión del pago, así como aquéllos que correspondan a la reinstalación del suministro, conforme a los presupuestos que para tal efecto formulen las autoridades competentes.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+La Comisión de Aguas del Distrito Federal, restablecerá los servicios hidráulicos una vez cubiertos los derechos de agua y accesorios legales que se hubiesen generado por la omisión del pago, así como los costos de reinstalación de los servicios, conforme a los presupuestos que para tal efecto formule la propia Comisión.
 
 #### Sección Tercera. De los Servicios de Construcción y Operación Hidráulica
 
@@ -2878,33 +3130,41 @@ Cuando se suspenda el suministro de agua, para el restablecimiento del mismo, pr
 
 Por los servicios de evaluación de impacto ambiental que efectúe la autoridad competente en los términos de la legislación correspondiente, se pagarán las siguientes cuotas:
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-I. Por la verificación del informe preventivo de impacto ambiental $596.00
+I. Por la verificación del informe preventivo de impacto ambiental $709.00
 
 > <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
 II. Por la evaluación de la manifestación de impacto ambiental:
 
-a). En su modalidad general $693.00
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-b). En su modalidad intermedia $1,385.00
+a) En su modalidad general $825.00
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+b) En su modalidad intermedia $1,648.00
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+III. Por la evaluación del estudio de riesgo ambiental $2,260.00
 
 ###### ARTICULO 203.
 
 Por los servicios de verificación obligatoria y de reposición de certificado o de la calcomanía sobre emisión de contaminantes, se pagarán derechos, conforme a lo siguiente:
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-I. Vehículos con motor a gasolina, incluyendo motocicletas $46.00
+I. Vehículos con motor a gasolina $55.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II. Vehículos con motor a diesel $137.00
+II. Vehículos con motor a diesel $163.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III. Por la reposición del certificado o de la calcomanía de verificación vehicular, relativos a la emisión de contaminantes $23.00
+III. Por la reposición del certificado o de la calcomanía de verificación vehicular, relativos a la emisión de contaminantes $27.00
 
 #### Sección Cuarta. De los Servicios de Expedición de Licencias
 
@@ -2926,7 +3186,21 @@ Por la expedición de licencias para fraccionamiento de terreno, se pagará el d
 
 La cuota de los derechos a que se refiere este artículo comprende la revisión y estudio de planos y proyectos, así como la supervisión de las obras de urbanización que se ejecuten en el fraccionamiento.
 
-Por la supervisión y revisión de las obras sujetas a contrato, efectuadas por las autoridades del Distrito Federal, se pagará el derecho de supervisión y revisión, conforme a la cuota de 3% sobre el valor de la obra. Las cuotas de los derechos que se recauden por este concepto, se destinarán a los órganos encargados de su supervisión y revisión. Cuando la supervisión y revisión se efectúe por distintas autoridades, le corresponderá a cada una de ellas, el 3% de la parte del valor de la obra supervisada por ellas.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+Por la supervisión y revisión de las obras públicas sujetas a contrato, efectuadas por las autoridades del Distrito Federal, se pagarán derechos equivalentes al 1.5% sobre las estimaciones y, en su caso, en el finiquito, al momento de su pago.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+Por los servicios de auditoría de los contratos de obras o de servicios relacionados con las mismas, se pagarán derechos equivalentes al 2% sobre las estimaciones y, en su caso, en el finiquito, al momento de su pago.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+Las cuotas de los derechos de supervisión y revisión que se recauden se destinarán a las áreas de obras, y las cuotas de los derechos de auditoría recaudadas, se destinarán a la Contraloría General del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+Los recursos por supervisión y servicios de auditoría se asignarán a las unidades administrativas mediante ampliaciones líquidas a su presupuesto.
 
 ###### ARTICULO 206.
 
@@ -2934,25 +3208,29 @@ Por la expedición de licencias para construcción de obras nuevas, se pagará e
 
 I. Inmuebles de uso habitacional:
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-a). Hasta 5 niveles, por m2 de construcción. $7.00
+a) Hasta 5 niveles, por m2 de construcción $8.30
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-b). Más de 5 niveles, por m2 de construcción. 12.00
+b) Más de 5 niveles, por m2 de construcción $14.30
 
 La vivienda nueva construida por instituciones públicas, con crédito de interés social otorgado por ellas o cuya superficie no exceda de 75 m2, tendrá derecho a una reducción del 50%.
 
 II. Inmuebles de uso no habitacional:
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-a). Hasta 3 niveles, por m2 de construcción $15.00
+a) Hasta 3 niveles, por m2 de construcción $17.80
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-b). Más de 3 niveles, por m2 de construcción $27.00
+b) Más de 3 niveles, por m2 de construcción $32.10
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+Por el refrendo o la prórroga de la licencia para construcción de obras nuevas, se pagará una cuota equivalente al 10% de los derechos causados por su expedición.
 
 ###### ARTICULO 207.
 
@@ -2960,55 +3238,65 @@ Por la expedición de licencias de obras y construcciones distintas a las mencio
 
 I. Bardas:
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-a). Hasta 2.50 metros de altura, por m2 $5.00
+a) Hasta 2.50 metros de altura, por m2 o fracción $6.00
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-b). De más de 2.50 metros de altura por m2 $2.00
+b) Por la altura excedente a que se refiere el inciso anterior, por m2 o fracción $2.40
 
 II. Tapias y andamios:
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-a). Por tapial alineado al parámetro de construcción:
+a) Por tapial alineado al paramento de construcción:
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+1.- Hasta 2.50 metros de altura, por metro lineal o fracción $6.00
 
-1.- Hasta 2.50 metros de altura sobre la longitud del tapial $5.00 por metro lineal.
+2.- Por la altura excedente a que se refiere el numeral anterior, por m2 o fracción $2.40
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-2.- De más de 2.50 metros de altura sobre la superficie del tapial, por vez $2.00 m2
+b) Por tapial ocupando banquetas en túnel elevado, sobre la superficie ocupada, por día $2.40 m2
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-b). Por tapial ocupando banquetas en túnel elevado, sobre la superficie ocupada, por día $2.00 m2
+c) Por andamios o cualquier otra forma de usar la vía pública,
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+sobre la superficie ocupada, por día $3.60 m2
 
-c). Por andamios o cualquier otra forma de usar la vía pública, sobre la superficie ocupada, por día $3.00 m2
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+III. Excavaciones y rellenos, por cada licencia $142.00
 
-III. Excavaciones y rellenos, por cada licencia $119.00 m2
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+III BIS. Obras, modificaciones, reparaciones, rotura del pavimento, cortes en las banquetas y guarniciones para la ejecución de obras o instalaciones subterráneas, por m2 de vía pública afectada $40.00
 
-IV. Demoliciones por la superficie cubierta, computando cada piso B planta $3.00 m2
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+IV. Demoliciones por la superficie cubierta, computando cada piso o planta $3.60 m2
 
-V. Cambio de techos en habitación $3.00 m2
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+V. Cambio de techos en habitación $3.60 m2
 
 VI. Modificaciones:
 
 Sin aumento de superficie construida, conservándose la estructura o muros maestros, 100% del importe de los derechos correspondientes a obra nueva calculada sobre la superficie modificada
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VII. Cambio de edificios al régimen de condominio $3.00 m2
+VII. Cambio de edificios al régimen de condominio $ 3.60 m2
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+VIII. Cambio de uso $ 3.60 m2
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+Por el refrendo o la prórroga de la licencia para construcción de las obras a que se refiere este artículo, se pagará una cuota equivalente al 10% de los derechos causados por su expedición.
 
 ###### ARTICULO 208.
 
@@ -3024,31 +3312,41 @@ Los contribuyentes podrán determinar el valor del predio, aplicando los valores
 
 Estos derechos deberán pagarse previamente a la expedición de la licencia respectiva.
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 209.
 
-Las personas físicas o morales que exploten yacimientos de materiales pétreos ubicados en el Distrito Federal, están obligadas al pago de derechos por la expedición de licencias y su prórroga, conforme a una cuota de $1.00 por cada metro cúbico de explotación autorizada.
+Las personas físicas o morales que exploten yacimientos de materiales pétreos ubicados en el Distrito Federal, están obligadas al pago de derechos por la expedición de licencias y su prórroga, conforme a una cuota de $1.20 por cada metro cúbico de explotación autorizada.
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 210.
 
-Por la verificación anual del cumplimiento de los requisitos que en el Distrito Federal exijan las disposiciones jurídicas correspondientes, tratándose de giros y establecimientos mercantiles que para su funcionamiento requieran de licencia; así como en la celebración de espectáculos públicos, musicales, deportivos, taurinos, teatrales y cinematográficos, y en el caso de estacionamientos públicos, se pagarán derechos conforme a una cuota de $827.00.
+Por la verificación anual del cumplimiento de los requisitos que en el Distrito Federal exijan las disposiciones jurídicas correspondientes, tratándose de giros y establecimientos mercantiles que para su funcionamiento requieran de licencia y no tengan venta de bebidas alcohólicas; así como en la celebración de espectáculos públicos, musicales, deportivos, taurinos, teatrales y cinematográficos, que no tengan venta de bebidas alcohólicas, y en el caso de estacionamientos públicos, se pagarán derechos conforme a una cuota de $984.00
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 211.
 
-Por la expedición y revalidación de licencia de funcionamiento y permiso, de giros y establecimientos mercantiles, espectáculos públicos o en ferias, romerías, kermesses y festejos populares, con venta de bebidas alcohólicas en envase cerrado, abierto o al copeo, se pagarán derechos conforme a lo siguiente:
+Por la expedición y revalidación de licencia de funcionamiento y autorización, así como por la verificación, de giros y establecimientos mercantiles, espectáculos públicos o en ferias, romerías, kermesses y festejos populares, con venta de bebidas alcohólicas en envase cerrado, abierto o al copeo, se pagarán derechos conforme a lo siguiente:
 
-I. Por la expedición de la licencia de funcionamiento $10,000.00
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II. Por la revalidación anual de la licencia $3,000.00
+I. Por la expedición de la licencia de funcionamiento $11,900.00
 
-III. Por la expedición de permiso para la venta de bebidas alcohólicas $5,000.00
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+II. Por la revalidación y verificación anual de la licencia $2,500.00
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+III. Por la expedición de autorización y su verificación, para la venta de bebidas alcohólicas $5,950.00
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
 El solicitante de la licencia a que se refiere la fracción I de este artículo, deberá cubrir previamente a su expedición, una cantidad equivalente al 25% del valor catastral de la superficie que en el establecimiento se destine a la venta de bebidas alcohólicas.
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
 El valor a que se refiere el párrafo anterior, se determinará conforme a lo que establece la fracción I del artículo 149 de este Código.
 
@@ -3056,159 +3354,141 @@ El valor a que se refiere el párrafo anterior, se determinará conforme a lo qu
 
 Por los siguientes servicios prestados en los términos de la reglamentación de construcciones del Distrito Federal, se pagarán las cuotas que se indican:
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-I. Por la expedición o reposición de la placa de control de uso y ocupación de inmueble $263.00
+I. Por la expedición o reposición de la placa de control de uso y ocupación de inmueble $313.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II. Por la evaluación y registro de aspirantes a directores responsables de obra o corresponsables, por la primera evaluación $479.00
+II. Por la evaluación y registro de aspirantes a directores responsables de obra o corresponsables, por la primera evaluación $570.00
 
-Por las subsiguientes $241.00
+Por las subsiguientes $287.00
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 212 A.- Por la expedición de licencias y permisos de anuncios para publicidad, conforme a lo establecido por las disposiciones jurídicas correspondientes, con excepción de los anuncios denominativos que no requieran licencia y los de televisión, radio, periódicos y revistas, se pagarán derechos, cualquiera que sean sus fines, el lugar en que se fijen o instalen, el procedimiento para su colocación y los materiales, estructuras, soportes y sistemas de iluminación utilizados en su construcción, de acuerdo a las cuotas que a continuación se establecen:
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+I. Anuncio que se transmita a través de pantalla electrónica:
+
+1.- Por el otorgamiento de licencia, por cada año de vigencia $4,300.00
+
+2.- Por el otorgamiento de permiso con una duración no mayor de
+
+120 días $1,400.00
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+II. Anuncio que se despliegue a través de una sola carátula, vista o pantalla, excepto electrónica:
+
+1.- Por el otorgamiento de licencia, por cada año de vigencia $1,400.00
+
+2.- Por el otorgamiento de permiso con una duración no mayor de 120 días $480.00
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+III. Anuncio que se despliegue a través de dos o más carátulas, vistas o pantallas, excepto electrónicas:
+
+1.- Por el otorgamiento de licencia, por cada año de vigencia $2,200.00
+
+2.- Por el otorgamiento de permiso con una duración no mayor de 120 días $940.00
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+IV. Anuncio colocado o instalado sobre elementos fijos o semifijos que formen parte del mobiliario urbano:
+
+1.- Por el otorgamiento de la licencia, por cada elemento de mobiliario
+
+urbano, por cada año de vigencia $300.00
+
+2.- Por el otorgamiento de permiso, por cada elemento de mobiliario urbano, con una duración no mayor de 120 días $120.00
+
+3.- Por revalidación de licencia $260.00
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+V. Anuncio denominativo de azotea, autosoportado, colgante, volado o en saliente, en marquesina, con patrocinio, de proyección óptica y de objetos inflables:
+
+1.- Por el otorgamiento de licencia, por cada año de vigencia $700.00
+
+2.- Por el otorgamiento de permiso con una duración no mayor de 120 días $240.00
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+VI. Anuncio relacionado con promociones de preventa de desarrollos inmobiliarios:
+
+1.- Por el otorgamiento de permiso, con duración no mayor de 120 días $300.00
+
+2.- Por la prórroga del permiso, con duración no mayor de 120 días $250.00
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+VII. Anuncio en vehículos de servicio público de transporte de pasajeros:
+
+1.- Por el otorgamiento de licencia publicitaria, por cada año de vigencia $800.00
+
+2.- Por revalidación o ampliación de licencia publicitaria, por cada año $680.00
+
+3.- Por el otorgamiento de permiso publicitario, por vehículo:
+
+a) Sobre laterales, posteriores o toldos, con duración no mayor de 120 días $150.00
+
+b) En laterales punta a punta, con duración no mayor de 120 días $200.00
+
+c) Interiores con duración no mayor de 120 días $20.00
+
+d) Integrales con duración no mayor de 180 días $600.00
+
+e) Monitores de audio y video con duración no mayor de 120 días $700.00
+
+f) Pantallas electrónicas con duración no mayor de 120 días $200.00
+
+g) Por la prórroga de permiso con duración no mayor de 120 días $130.00
+
+h) Por la prórroga de permiso con duración no mayor de 180 días en anuncios integrales $1,300.00
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+VIII. Anuncio en vehículos de servicio público de transporte de carga:
+
+1.- Por el otorgamiento de licencia publicitaria, por cada año de vigencia $700.00
+
+2.- Por revalidación o ampliación de licencia publicitaria, por cada año $580.00
+
+3.- Por el otorgamiento de permiso publicitario sobre laterales, con
+
+duración no mayor de 120 días, por vehículo: $300.00
+
+4.- Por la prórroga de permiso publicitario con duración no mayor de 120 días, por vehículo $250.00
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+IX. Anuncio colocado en el interior de un inmueble donde se celebren espectáculos públicos con capacidad o aforo de más de dos mil quinientas personas, por cada carátula o pantalla de exhibición, que corresponda a un mismo anuncio publicitario.
+
+1.- Por el otorgamiento de licencia, por cada año de vigencia $250.00
+
+2.- Por el otorgamiento de permiso, por cada mes de vigencia $25.00
 
 > <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-ARTICULO 212 A.- Por la expedición de licencias y permisos de anuncios para publicidad, conforme a lo establecido por las disposiciones jurídicas correspondientes, con excepción de los anuncios denominativos y los de radio y televisión se pagarán derechos, cualquiera que sean sus fines, el lugar en que se fijen o instalen, el procedimiento para su colocación y los materiales, estructuras, soportes y sistemas de iluminación utilizados en su construcción, de acuerdo a las cuotas que a continuación se establecen:
-
-POR EL POR EL
-
-OTORGAMIENTO DE OTORGAMIENTO
-
-LICENCIAS, POR DE PERMISOS,
-
-CADA AÑO DE POR UNA
-
-VIGENCIA: DURACION NO
-
-MAYOR DE 120
-
-DIAS:
-
-$ $
-
-I. Anuncios
-
-cuyo
-
-contenido se
-
-transmita a
-
-través de
-
-pantalla
-
-electrónica: 6,000.00 2,000.00
-
-II. Anuncios
-
-cuyo contenido
-
-se despliegue a
-
-través de
-
-una sola carátula,
-
-vista o pantalla,
-
-excepto
-
-electrónica: 2,000.00 666.00
-
-III. Anuncios
-
-cuyo contenido
-
-se despliegue
-
-a través de
-
-dos o más
-
-carátulas,
-
-vistas o
-
-pantallas,
-
-excepto
-
-electrónicas: 4,000.00 1,333.00
-
-IV. Anuncios
-
-Colocados
-
-o instalados
-
-sobre
-
-elementos
-
-fijos o
-
-semifijos
-
-que formen
-
-parte
-
-del mobiliario
-
-urbano,
-
-por cada
-
-elemento de
-
-mobiliario
-
-urbano: 1,000.00 333.00
-
-V. Anuncios
-
-soportados o
-
-colocados en
-
-vehículos de
-
-servicio de
-
-transporte
-
-público
-
-concesionado,
-
-con y sin
-
-itinerario fijo:
-
-a) En el
-
-exterior
-
-de la
-
-carrocería: 250.00 83.00
-
-b) En el
-
-interior del
-
-vehículo: 20.00 7.00
-
 Estos derechos deberán pagarse previamente a la expedición de la licencia o permiso respectivo, mediante declaración del contribuyente en la forma oficial aprobada.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 212 B.- Por el retiro de anuncio, cuando no haya sido autorizado por la autoridad correspondiente:
+
+I. Anuncios a que se refieren las fracciones I, II, III y IV del artículo 212 A de este Código $10,000.00
+
+II. Anuncios a que se refieren las fracciones V y VI del artículo 212 A de este Código $5,000.00
 
 ###### ARTICULO 213.
 
-Por cada inscripción, anotación o cancelación de inscripción que practique el Registro Público correspondiente, se causará una cuota de $360.00, con las excepciones que se señalan en las fracciones siguientes y en los demás artículos de esta Sección.
+Por cada inscripción, anotación o cancelación de inscripción que practique el Registro Público correspondiente, se causará una cuota de $428.00, con las excepciones que se señalan en las fracciones siguientes y en los demás artículos de esta Sección.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-I. Se causará una cuota de $3,600.00
+I. Se causará una cuota de $4,284.00
 
 > <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
@@ -3236,11 +3516,19 @@ Las cuotas a que se refiere este artículo comprenderán la búsqueda de anteced
 
 Por la devolución de documentos como resultado de la calificación, se pagarán por concepto de derechos las siguientes cuotas:
 
-I. Cuando se deniegue el asiento por causas insubsanables $110.00
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II. Cuando no se cumpla con los requisitos exigidos en la suspensión $100.00
+I. Cuando se deniegue el asiento por causas insubsanables $131.00
 
-En los casos de devolución de documentos a solicitud del interesado, se pagará por concepto de derechos la cantidad de $60.00
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+II. Cuando no se cumpla con los requisitos exigidos en la suspensión $119.00
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+En los casos de devolución de documentos a solicitud del
+
+interesado, se pagará por concepto de derechos la cantidad de $71.00
 
 Los derechos previstos en este artículo no se pagarán cuando sea por una causa imputable al Registro Público correspondiente.
 
@@ -3250,31 +3538,31 @@ Los derechos previstos en este artículo no se pagarán cuando sea por una causa
 
 Por la expedición de los documentos en que consten los actos que a continuación se relacionan, se pagarán por concepto de derechos, las siguientes cuotas:
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-I. Certificado de libertad o existencia de gravámenes, hasta por un período de 20 años $115.00
+I. Certificado de libertad o existencia de gravámenes, hasta por un período de 20 años $137.00
 
-Por cada período de cinco años o fracción que exceda de ese lapso $77.00
+Por cada período de cinco años o fracción que exceda de ese lapso $91.60
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II. Informes o constancias solicitados por autoridades de la Federación, de las entidades federativas, municipios u organismos de ellos. $225.00
+II. Informes o constancias solicitados por autoridades de la Federación, de las entidades federativas, municipios u organismos de ellos $268.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III. Certificados de no propiedad de bienes inmuebles por cada período de cinco años a la fecha de la expedición $15.00
+III. Certificados de no propiedad de bienes inmuebles por cada período de cinco años a la fecha de la expedición $17.80
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-IV. Certificado de no inscripción de un bien inmueble, por cada período de cinco años a partir del año de 1871 $60.00
+IV. Certificado de no inscripción de un bien inmueble, por cada período de cinco años a partir del año de 1871 $71.40
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-V. Informes respecto al registro o depósito de testamentos que se rindan a solicitud de jueces, notarios o partes interesadas $300.00
+V. Por cada informe respecto al registro o depósito de testamentos que se rindan a solicitud de jueces, notarios o partes interesadas $357.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VI. Por cada certificación de los asientos registrales de un folio, de una partida de los libros o de un contrato privado archivado en el libro de legajos $300.00
+VI. Por cada certificación de los asientos registrales de un folio, de una partida de los libros o de un contrato privado archivado en el libro de legajos $357.00
 
 Las cuotas a que se refiere este artículo comprenderán la búsqueda de antecedentes registrales y las copias correspondientes.
 
@@ -3284,119 +3572,123 @@ Por el registro de los documentos en que consten los actos que a continuación s
 
 I. Poderes y sustitución de los mismos:
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-a) Si un solo poderdante designa un solo apoderado. $165.00
+a) Si un solo poderdante designa un solo apoderado $196.00
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-b). Por cada poderdante o apoderado, adicional $60.00
+b) Por cada poderdante o apoderado, adicional $71.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II. Por revocación o renuncia de poderes, por cada una. $60.00
+II. Por revocación o renuncia de poderes, por cada una $71.00
 
 #### Sección Quinta. Del Registro Público de la Propiedad o del Comercio y del Archivo General de Notarías
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 217.
 
 Por el registro de los documentos en que consten los actos que a continuación se relacionan, se pagarán por concepto de derechos, las siguientes cuotas:
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-I. Fianzas, contrafianzas u obligaciones solidarias con el fiador, para el sólo efecto de comprobar la solvencia del fiador, contrafiador u obligado solidario $225.00
+I. Fianzas, contrafianzas u obligaciones solidarias con el fiador,
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+para el sólo efecto de comprobar la solvencia del fiador, contrafiador
 
-II. Sustitución de acreedor o deudor o reconocimiento de adeudo $225.00
+u obligado solidario $268.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III. División de crédito, en cualquier caso y por cada inmueble, con excepción de lo previsto por la siguiente fracción $77.00
+II. Sustitución de acreedor o deudor o reconocimiento de adeudo $268.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-IV. Por la individualización de gravámenes a que se refiere el artículo 2912 del Código Civil, se pagará, por la primera, la cuota que corresponda a la tarifa prevista en el artículo 213 fracción I de este Código, y por cada anotación subsecuente se pagará $360.00
+III. División de crédito, en cualquier caso y por cada inmueble, con excepción de lo previsto por la siguiente fracción $92.00
 
-> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-V. Por la anotación de embargo de varios bienes, se pagará por el primero la cuota que corresponda a la tarifa prevista en el artículo 213 fracción I de este Código, y por cada anotación en folio que se derive de la misma orden judicial, se pagará $360.00
+IV. Por la individualización de gravámenes a que se refiere el artículo 2912 del Código Civil, se pagará, por la primera, la cuota que corresponda a la tarifa prevista en el artículo 213 fracción I de este Código, y por cada anotación subsecuente se pagará $428.00
 
-> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VI. Por la cancelación de hipoteca $360.00
+V. Por la anotación de embargo de varios bienes, se pagará por el primero la cuota que corresponda a la tarifa prevista en el artículo 213 fracción I de este Código, y por cada anotación en folio que se derive de la misma orden judicial, se pagará $428.00
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+VI. Por la cancelación de hipoteca $428.00
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 218.
 
-Por el registro de rectificaciones relativas a inscripciones principales, cuando se refieran a modificaciones de plazo, intereses, garantías, datos equivocados o cualesquiera otras que no constituyan novación del contrato, se pagará por concepto de derechos la cantidad de $106.00.
+Por el registro de rectificaciones relativas a inscripciones principales, cuando se refieran a modificaciones de plazo, intereses, garantías, datos equivocados o cualesquiera otras que no constituyan novación del contrato, se pagará por concepto de derechos la cantidad de $126.00
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 219.
 
-Por la ratificación de firmas ante el registrador, se pagarán por concepto de derechos $15.00 por cada firma.
+Por la ratificación de firmas ante el registrador, se pagarán por concepto de derechos $17.80 por cada firma.
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 220.
 
-Por el registro de cada acto correspondiente al cumplimiento de la condición, cancelación de la reserva de dominio o consolidación de la propiedad, en cada caso $150.00.
+Por el registro de cada acto correspondiente al cumplimiento de la condición, cancelación de la reserva de dominio o consolidación de la propiedad, en cada caso $178.00
 
 ###### ARTICULO 221.
 
 Por el registro de los documentos en que consten los actos que a continuación se relacionan, se pagarán por concepto de derechos las siguientes cuotas:
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-I. Patrimonio familiar $150.00
+I. Patrimonio familiar $178.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II. Por la cancelación del patrimonio familiar $150.00
+II. Por la cancelación del patrimonio familiar $178.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III. Acta de matrimonio y capitulaciones matrimoniales. $150.00
+III. Acta de matrimonio y capitulaciones matrimoniales $178.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-IV. Documentos o resoluciones judiciales relativas a las sucesiones, independientemente de los derechos que se causen por el registro de la transmisión de los bienes hereditarios $360.00
+IV. Documentos o resoluciones judiciales relativas a las sucesiones, independientemente de los derechos que se causen por el registro de la transmisión de los bienes hereditarios $428.00
 
 ###### ARTICULO 222.
 
 Por el registro de los documentos en que consten los actos que a continuación se relacionan, se pagarán las siguientes cuotas:
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-I. Actos, contratos, convenios o resoluciones judiciales o administrativas por los que se constituya un fraccionamiento, se lotifique, relotifique, divida o subdivida un inmueble, por cada lote $225.00
+I. Actos, contratos, convenios o resoluciones judiciales o administrativas por los que se constituya un fraccionamiento, se lotifique, relotifique, divida o subdivida un inmueble, por cada lote $268.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II. Fusión, por cada lote $225.00
+II. Fusión, por cada lote 268.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III. Constitución de régimen de propiedad en condominio o sus modificaciones, por cada unidad $225.00
+III. Constitución de régimen de propiedad en condominio o sus modificaciones, por cada unidad $268.00
 
 ###### ARTICULO 223.
 
 Por el registro de los documentos en que consten los actos que a continuación se relacionan se pagará por concepto de derechos las siguientes cuotas:
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-I. Matrícula de comerciante persona física $225.00
+I. Matrícula de comerciante persona física $268.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II. Constitución o aumento de capital o inscripción de créditos, de sociedades mercantiles comprendidas en la Ley Federal de Fomento a la Microindustria $150.00
+II. Constitución o aumento de capital o inscripción de créditos, de sociedades mercantiles comprendidas en la Ley Federal de Fomento a la Microindustria $178.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III. De corresponsalía mercantil, por su registro o cancelación. $225.00
+III. De corresponsalía mercantil, por su registro o cancelación $268.00
 
 > <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
@@ -3404,9 +3696,13 @@ III. De corresponsalía mercantil, por su registro o cancelación. $225.00
 
 Por el registro de los documentos en que consten los actos que a continuación se relacionan, se pagarán las siguientes cuotas:
 
-I. Fideicomisos de garantía que no incluyan inmuebles, por cada inscripción $360.00
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II. Por la cesión de derechos hereditarios o fideicomisarios que no incluyan inmuebles $360.00
+I. Fideicomisos de garantía que no incluyan inmuebles, por cada inscripción $428.00
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+II. Por la cesión de derechos hereditarios o fideicomisarios que no incluyan inmuebles $428.00
 
 ###### ARTICULO 225.
 
@@ -3414,91 +3710,91 @@ Por los actos que a continuación se mencionan se pagarán derechos conforme a l
 
 I. Depósito de testamentos ológrafos en el Registro Público de la Propiedad:
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-a) Si fueren hechos en los locales de las oficinas respectivas, en horas hábiles $225.00
+a) Si fueren hechos en los locales de las oficinas respectivas, en horas hábiles$268.00
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-b). Si fueren hechos en los locales de las oficinas respectivas, en horas inhábiles $329.00
+b) Si fueren hechos en los locales de las oficinas respectivas, en horas inhábiles $392.00
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-c). Si fueren hechos fuera de los locales de las oficinas respectivas, en horas hábiles $448.00
+c) Si fueren hechos fuera de los locales de las oficinas respectivas, en horas hábiles $533.00
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-d). Si fueren hechos fuera de los locales de las oficinas respectivas, en horas inhábiles $675.00
+d) Si fueren hechos fuera de los locales de las oficinas respectivas, en horas inhábiles $803.00
 
 II. Servicios de inscripción en el Registro Público de la Propiedad o del Comercio de los avisos de testamentos, se pagará el derecho de inscripción en el registro de la propiedad:
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-a). Si se hace dentro de días y horas hábiles $106.00
+a) Si se hace dentro de días y horas hábiles $126.00
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-b). Si se hace en días y horas inhábiles $210.00
+b) Si se hace en días y horas inhábiles $250.00
 
 ###### ARTICULO 226.
 
 Por los servicios que preste el Registro Público de la Propiedad correspondiente por la expedición de documentos que a continuación se mencionan o búsqueda de antecedentes, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-I. Acceso a la información de datos respecto de antecedentes registrales de un inmueble, persona moral o bien mueble, por cada folio o por cada dos partidas de antecedentes en libros $15.00
+I. Acceso a la información de datos respecto de antecedentes registrales de un inmueble, persona moral o bien mueble, por cada folio o por cada dos partidas de antecedentes en libros $18.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II. De la búsqueda de antecedentes registrales omitidos o equivocados en un documento $67.00
+II. De la búsqueda de antecedentes registrales omitidos o equivocados en un documento $80.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III. De la búsqueda de antecedentes registrales mediante la utilización de sistemas digitalizados, por cada folio, partida registral, imagen registral digitalizada o microficha $67.00
+III. De la búsqueda de antecedentes registrales mediante la utilización de sistemas digitalizados, por cada folio, partida registral, imagen registral digitalizada o microficha $80.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-IV. De la búsqueda de antecedentes registrales con la utilización de medios electrónicos, respecto de condominios o fraccionamientos o programas de regularización $300.00
+IV. De la búsqueda de antecedentes registrales con la utilización de medios electrónicos, respecto de condominios o fraccionamientos o programas de regularización $357.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-V. Por la expedición de copias simples de registro de antecedentes, se pagará por la primera hoja $22.00 y $1.00 adicionales por cada hoja subsecuente.
+V. Por la expedición de copias simples de registro de antecedentes, se pagará por la primera hoja $26.00 y $1.20 adicionales por cada hoja subsecuente.
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VI. Por cada búsqueda de datos en el Boletín Registral $73.00
+VI. Por cada búsqueda de datos en el Boletín Registral $87.00
 
-> <small>(ADICIONADA G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VII. Por conexión y servicio de vinculación remota al Sistema Integral de Informática Registral del Registro Público de la Propiedad, se pagará una cuota anual de $7,000.00
+VII. Por conexión y servicio de vinculación remota al Sistema Integral de Informática Registral del Registro Público de la Propiedad, se pagará una cuota anual de $8,330.00
 
 > <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
 ARTICULO 226 A.- Para el cobro de los derechos que establece esta Sección, cuando un mismo documento origine dos o más asientos, se causarán derechos por cada uno de ellos.
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 227.
 
-Por la integración de jurado para examen de oposición para el ejercicio notarial, o bien por el examen para aspirante de notario, se pagará una cuota de $753.00 por derecho de examen respectivo.
+Por la integración de jurado para examen de oposición para el ejercicio notarial, o bien por el examen para aspirante de notario, se pagará una cuota de $896.00 por derecho de examen respectivo.
 
 ###### ARTICULO 228.
 
 Por los avisos, servicios de revisión y autorización de los folios que integran los libros del protocolo de los notarios públicos, se pagará el derecho de revisión y autorización de folios conforme a las cuotas que a continuación se establecen:
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-I. Por la autorización de cada 200 folios $150.00
+I. Por la autorización de cada 200 folios $178.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II. Por la revisión y la certificación de la razón de cierre, por libro. $301.00
+II. Por la revisión y la certificación de la razón de cierre, por libro $358.00
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 229.
 
-Por los servicios de registro de patentes, sello, firma y convenio de notarios y corredores públicos, que preste el Registro Público de la Propiedad y del Comercio, según corresponda, se pagará una cuota de $600.00 por cada uno de los rubros citados.
+Por los servicios de registro de patentes, sello, firma y convenio de notarios y corredores públicos, que preste el Registro Público de la Propiedad y del Comercio, según corresponda, se pagará una cuota de $714.00 por cada uno de los rubros citados.
 
 ###### ARTICULO 230.
 
@@ -3508,53 +3804,53 @@ Por los servicios que preste el Archivo General de Notarías, se pagarán los mi
 
 Se exceptúan de lo dispuesto en el artículo anterior, los siguientes servicios que se pagarán con las cuotas que se indican:
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-I. Por las certificaciones relativas a constancias o documentos que obren en los apéndices del protocolo, por cada página $31.00
+I. Por las certificaciones relativas a constancias o documentos que obren en los apéndices del protocolo, por cada página $37.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II. Cualquier anotación marginal en un protocolo $15.00
+II. Cualquier anotación marginal en un protocolo $18.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III. Registro de avisos de testamentos públicos abiertos o cerrados. $15.00
+III. Registro de avisos de testamentos públicos abiertos o cerrados $18.00
 
 ###### ARTICULO 232.
 
 Por los servicios que preste el Registro Civil se pagarán derechos conforme las cuotas que a continuación se establecen:
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-I. Inscripción de matrimonios $15.00
+I. Inscripción de matrimonios $18.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II. Inscripción de tutela, adopción, estado de interdicción, declaración de ausencia o presunción de muerte $54.00
+II. Inscripción de tutela, adopción, estado de interdicción, declaración de ausencia o presunción de muerte $64.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III. Inscripción de actas de divorcio $54.00
+III. Inscripción de actas de divorcio $64.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-IV. Expedición de constancia de los actos de estado civil o de los mexicanos en el extranjero $269.00
+IV. Expedición de constancia de los actos de estado civil o de los mexicanos en el extranjero $320.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-V. Por el divorcio a que se refiere el artículo 272 del Código Civil para el Distrito Federal $539.00
+V. Por el divorcio a que se refiere el artículo 272 del Código Civil para el Distrito Federal $641.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VI. Expedición de copias certificadas $12.00
+VI. Expedición de copias certificadas $14.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VII. Búsqueda de datos en el Registro $15.00
+VII. Búsqueda de datos en el Registro $18.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VIII. Por otras inscripciones $54.00
+VIII. Por otras inscripciones $64.00
 
 No se pagará el derecho a que se refiere este artículo por la aclaración de actas del Registro Civil, así como por la inscripción de nacimientos que se celebren en la oficina del Registro Civil, de matrimonios celebrados colectivamente, ni por la inscripción de defunciones.
 
@@ -3562,17 +3858,17 @@ No se pagará el derecho a que se refiere este artículo por la aclaración de a
 
 Por las anotaciones marginales e inserciones en las actas del Registro Civil se pagará el derecho por anotaciones en acta del Registro Civil conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-I. De cambio de régimen patrimonial en el matrimonio $539.00
+I. De cambio de régimen patrimonial en el patrimonio $641.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II. De rectificación de actas $131.00
+II. De rectificación de actas $156.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III. De actas de defunción de personas fallecidas fuera del Distrito Federal o en el extranjero $54.00
+III. De actas de defunción de personas fallecidas fuera del Distrito Federal o en el extranjero $64.00
 
 Por las anotaciones marginales de reconocimiento y legitimación de descendientes, no se pagará el derecho a que se refiere este artículo.
 
@@ -3580,21 +3876,21 @@ Por las anotaciones marginales de reconocimiento y legitimación de descendiente
 
 Por los servicios que preste el Registro Civil fuera de sus oficinas se pagará el derecho de extraordinarios del Registro Civil, conforme a las cuotas que a continuación se establecen:
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-I. Por el registro de nacimientos $83.00
+I. Por el registro de nacimientos $99.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II. Por la celebración de matrimonios $539.00
+II. Por la celebración de matrimonios $641.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III. Por la autorización para que los jueces del Registro Civil celebren matrimonios fuera de la circunscripción territorial que les corresponda, independientemente de la cuota que señala la fracción anterior $1,110.00
+III. Por la autorización para que los jueces del Registro Civil celebren matrimonios fuera de la circunscripción territorial que les corresponda, independientemente de la cuota que señala la fracción anterior $1,321.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-IV. Por otros servicios $704.00
+IV. Por otros servicios $838.00
 
 ###### ARTICULO 235.
 
@@ -3602,65 +3898,63 @@ Por los servicios de control vehicular que se presten respecto a vehículos part
 
 I. Por el refrendo para la vigencia anual de las placas de matrícula o para trámite de alta que comprende la expedición inicial de placas, tarjeta de circulación y calcomanía:
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-a). Por el refrendo $71.00
+a) Por el refrendo $84.00
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-b). Por el trámite de alta $154.00
+b) Por el trámite de alta $183.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II. Por reposición de placas, por cada una $96.00
+II. Por reposición de placas, derivada de pérdida $300.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III. Por la expedición de permiso provisional, hasta por treinta días, para que un vehículo particular se destine temporalmente a fines de carga mercantil $150.00
+II BIS. Por reposición de placas, derivada de mutilación o deterioro, por cada una $114.00
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-IV. Por expedición de permiso para circular sin placas, tarjeta de circulación o calcomanía, hasta por treinta días $48.00
+III. Por la expedición de permiso provisional, hasta por treinta días, para que un vehículo particular se destine temporalmente a fines de carga mercantil $178.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-V. Por reposición de tarjeta de circulación o calcomanía de refrendo para vigencia anual de placas $48.00
+IV. Por expedición de permiso para circular sin placas, tarjeta de circulación o calcomanía, hasta por treinta días $57.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VI. Por cambio de propietario, carrocería o motor, incluyendo la
+V. Por reposición o canje de tarjeta de circulación o calcomanía de refrendo para vigencia anual de placas $57.00
 
-expedición de nueva tarjeta de circulación $58.00
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+VI. Por cambio de propietario, carrocería o motor incluyendo la expedición de nueva tarjeta de circulación $69.00
 
-VII. Por trámite de baja de vehículo $96.00
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+VII. Por trámite de baja de vehículo $114.00
 
-VIII. Por certificación de no adeudos para la baja de un vehículo $37.00
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+VIII. Por certificación de no adeudo de sanciones $44.00
 
-IX. Por expedición anual de credencial de identificación de gestor $71.00
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+IX. Por expedición anual de credencial de identificación de gestor $84.00
 
-X. Por cualquier otro permiso que conceda la autoridad no especificado
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-en este artículo, que no exceda de 90 días $71.00
+X. Por cualquier otro permiso que conceda la autoridad no especificado en este artículo, que no exceda de 90 días $84.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-XI. Por cualquier otro servicio distinto a los señalados en las
+XI. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $84.00
 
-fracciones anteriores $71.00
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 236.
 
-Por los servicios de control vehicular que se presten respecto a vehículos de servicio público de transporte y servicio particular de transporte, se pagarán las siguientes cuotas:
+Por los servicios de control vehicular que se presten respecto a vehículos de servicio público de transporte y servicio particular de transporte, así como lo relacionado a los servicios auxiliares del servicio público de transporte, se pagarán las siguientes cuotas:
 
 > <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
@@ -3668,155 +3962,223 @@ I. Por el otorgamiento de concesiones y permisos:
 
 a). Concesión:
 
-1.- Por su otorgamiento, por cada vehículo que comprenda. $4,500.00
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-2.- Por su prórroga, por cada vehículo que comprenda. $3,500.00
+1.- Por su otorgamiento, por cada vehículo que comprenda $5,355.00
 
-3.- Por su refrendo anual de vigencia, por cada vehículo. $250.00
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-4.- Por reposición de título-concesión $864.00
+2.- Por su prórroga, por cada vehículo que comprenda $4,165.00
 
-b). Permiso:
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-1.- Por su otorgamiento, por cada vehículo que comprenda. $3,000.00
+3.- Por la vigencia anual, por cada vehículo $300.00
 
-2.- Por su prórroga, por cada vehículo que comprenda. $2,000.00
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-3.- Por su refrendo anual de vigencia, por cada vehículo. $150.00
+4.- Por reposición de título-concesión $1,028.00
 
-4.- Por reposición de título-permiso $564.00
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+b) Concesión por Servicio de Transporte Público Metropolitano:
+
+1.- Por su otorgamiento, por rutas de penetración por cada empresa o asociación $3,130.00
+
+Por cada vehículo excedente a los establecidos en la concesión $1,000.00
+
+2.- Por la vigencia anual $60.00
+
+3.- Por el establecimiento de base $135.00
+
+4.- (DEROGADO, G.O. 31 DE DICIEMBRE DE 1996)
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+c) Permiso:
+
+1.- Por su otorgamiento o prórroga, por cada vehículo que comprenda, por año:
+
+Transporte Escolar y de Personal $300.00
+
+Transporte de carga de bienes propiedad de los particulares:
+
+Motocicletas y triciclos automotores $200.00
+
+Vehículos automotores de hasta 3.5 toneladas distintos a motocicletas y triciclos $350.00
+
+Vehículos automotores de más de 3.5 toneladas distintos a motocicletas y triciclos $500.00
+
+Transporte de emergencia y valores $500.00
+
+Transporte de paquetería:
+
+Motocicletas y triciclos automotores $200.00
+
+Vehículos automotores de hasta 3.5 toneladas distintos a motocicletas y triciclos $300.00
+
+Vehículos automotores de más de 3.5 toneladas distintos a motocicletas y triciclos $500.00
+
+2.- Por su otorgamiento, en servicios auxiliares del servicio público de transporte, de bases, sitios, paraderos, módulos de encierro y lanzaderas, así como para efectuar maniobras de carga y descarga en vehículos de carga particular y transporte de pasajeros especializado, por cada espacio útil autorizado para un vehículo, por anualidad $444.00
+
+Por cualquier otro servicio auxiliar del servicio público de transporte, por cada espacio útil autorizado para un vehículo, por anualidad $444.00
+
+3.- Por la vigencia anual, por cada vehículo $178.00
+
+4.- Por reposición de Título-Permiso $671.00
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 II. Por el trámite de alta que comprende expedición inicial de placas, tarjeta de circulación y calcomanía, así como por su refrendo para la vigencia anual de las placas de matrícula:
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
 a). Tratándose de vehículos de servicio público de transporte:
 
-1.- Por el trámite de alta $327.00
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-2.- Por el refrendo $237.00
+1.- Por el trámite de alta $389.00
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+2.- Por el refrendo $282.00
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
 b). Tratándose de vehículos de servicio particular de transporte:
 
-1.- Por el trámite de alta $279.00
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-2.- Por el refrendo $200.00
+1.- Por el trámite de alta $332.00
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+2.- Por el refrendo $238.00
 
 III. Por reposición de placas, por cada una:
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-a). Vehículos de servicio público de transporte $231.00
+a) Vehículos de servicio público de transporte $275.00
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-b). Vehículos de servicio particular de transporte $192.00
+b) Vehículos de servicio particular de transporte $228.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-IV. Por la expedición de permiso para circular sin placas, tarjeta de circulación o calcomanía, hasta por treinta días $96.00
+IV. Por la expedición de permiso para circular sin placas, tarjeta de circulación o calcomanía, hasta por treinta días $114.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-V. Por la expedición de permisos para circular con aditamentos a la carrocería $70.00
+V. Por la expedición de permisos para circular con aditamentos a la carrocería $83.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VI. Por reposición de tarjeta de circulación o calcomanía de refrendo para vigencia anual de placas $48.00
+VI. Por reposición o canje de tarjeta de circulación o calcomanía de refrendo para vigencia anual de placas $57.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VII. Por cambio de propietario, carrocería, motor o domicilio, incluyendo la expedición de nueva tarjeta de circulación $37.00
+VII. Por cambio de carrocería, motor o domicilio, incluyendo la expedición de nueva tarjeta de circulación $44.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VIII. Por sustitución de vehículos de servicio público de transporte de pasajeros o de carga $71.00
+VIII. Por sustitución de vehículos de servicio público de transporte de pasajeros o de carga $84.00
 
 > <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
 IX. Por la revista reglamentaria anual:
 
-a). En las oficinas autorizadas $120.00
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-b). A domicilio $200.00
+a) En las oficinas autorizadas $143.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-X. Por duplicado de revista $70.00
+b) A domicilio $238.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-XI. Por la expedición de calcomanía de revista $48.00
+X. Por duplicado de revista $83.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-XII. Por la reposición de calcomanía de revista $48.00
+XI. Por la expedición de calcomanía de revista $57.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-XIII. Por el trámite de baja de vehículo $144.00
+XII. Por la reposición de calcomanía de revista $57.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-XIV. Por expedición anual de credencial de identificación de gestor o de representante de ruta $147.00
+XIII. Por el trámite de baja de vehículo $171.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-XV. Por expedición de tarjeta de identificación del conductor de transporte público de pasajeros o de carga, por un año de vigencia. $25.00
+XIV. Por certificado de no adeudo de sanciones $44.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-XVI. Por permiso para salir del Distrito Federal $37.00
+XV. Por expedición anual de credencial de identificación de gestor o de representante de ruta $175.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-XVII. Por autorizar:
+XVI. Por expedición de tarjeta de identificación del conductor de transporte público de pasajeros o de carga, por un año de vigencia $30.00
 
-a). El establecimiento de sitios y bases por vehículo o su refrendo, por anualidad $373.00
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-b). Zonas de estacionamiento de carga y descarga, por anualidad $373.00
+XVII. Por permiso para salir del Distrito Federal $44.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-XVIII. Por la autorización de cesión de derechos de concesión, por cada vehículo que comprenda $2,500.00
+XVIII. Por la autorización de cesión de derechos de concesión, por cada vehículo que comprenda $2,975.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-XIX. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $71.00
+XIX. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $84.00
 
 ###### ARTICULO 237.
 
 Por los servicios de control vehicular que se presten respecto a remolques, se pagará el derecho conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-I. Por placa y tarjeta de circulación, de vigencia anual $279.00
+I. Por el trámite de alta que comprende expedición inicial de placa y tarjeta de circulación $332.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II. Por reposición de placa $241.00
+I BIS. Por refrendo para vigencia anual de placa $118.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III. Por la expedición de permiso para circular sin placa o tarjeta de circulación $96.00
+II. Por reposición de placa, derivada de pérdida $287.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-IV. Por reposición de tarjeta de circulación $48.00
+II BIS. Por reposición de placa, derivada de mutilación o deterioro $114.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-V. Por cambio de propietario o domicilio, incluyendo la expedición de nueva tarjeta de circulación $37.00
+III. Por la expedición de permiso para circular sin placa o tarjeta de circulación $114.00
 
-> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-V BIS. Por el trámite de baja $79.00
+IV. Por reposición o canje de tarjeta de circulación $57.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VI. Por cualquier otro servicio distinto a los señalados en las
+V. Por cambio de propietario o domicilio, incluyendo la expedición de nueva tarjeta de circulación $44.00
 
-fracciones anteriores $71.00
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+V BIS. Por el trámite de baja $94.00
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+VI. Por certificado de no adeudo de sanciones $44.00
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+VII. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $90.00
 
 #### Sección Sexta. Del Registro Civil
 
@@ -3824,63 +4186,97 @@ fracciones anteriores $71.00
 
 Por los servicios de control vehicular que se presten respecto a motocicletas y motonetas, se pagarán las siguientes cuotas:
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-I. Por placa y tarjeta de circulación, de vigencia anual….$115.00
+I. Por el trámite de alta que comprende expedición inicial de placa y tarjeta de circulación $137.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II. Por reposición de tarjeta de circulación $48.00
+I BIS. Por refrendo para vigencia anual de placa $90.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III. Por cambio de propietario o domicilio, incluyendo la expedición de
+II. Por reposición o canje de tarjeta de circulación $57.00
 
-nueva tarjeta de circulación $37.00
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+III. Por cambio de propietario o domicilio, incluyendo la expedición de nueva tarjeta de circulación $44.00
 
-IV. Por reposición de placa $96.00
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+IV. Por reposición de placa, derivada de pérdida $300.00
 
-V. Por la expedición de permiso para circular sin placa o tarjeta de
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-circulación $48.00
+IV. BIS. Por reposición de placa, derivada de mutilación o deterioro $114.00
 
-> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-V BIS. Por el trámite de baja de vehículo $79.00
+V. Por la expedición de permiso para circular sin placa o tarjeta de circulación $57.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VI. Por cualquier otro servicio distinto a los señalados en las
+V. BIS. Por el trámite de baja de vehículo $94.00
 
-fracciones anteriores $37.00
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+VI. Por certificado de no adeudo de sanciones $44.00
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+VII. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $44.00
 
 > <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
 ARTICULO 238 A.- Por los servicios de control vehicular que se presten respecto a bicitaxis, se pagarán las siguientes cuotas:
 
-I. Por la concesión $600.00
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II. Por placa y tarjeta de circulación, de vigencia anual. $250.00
+I. Por la concesión $714.00
 
-III. Por el refrendo para la vigencia anual de placas $30.00
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-IV. Por reposición de Título-Concesión $250.00
+II. Por el trámite de alta que comprende expedición inicial de placa y tarjeta de circulación $297.00
 
-V. Por reposición de tarjeta de circulación $80.00
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VI. Por reposición de placa $100.00
+III. Por el refrendo para la vigencia anual de placas $36.00
 
-VII. Por cambio de propietario o domicilio, incluyendo la expedición de nueva tarjeta de circulación $80.00
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VIII. Por la expedición de permiso para circular sin placa o tarjeta de circulación $90.00
+IV. Por reposición de Título-Concesión $297.00
 
-IX. Por el trámite de baja $50.00
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-X. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $65.00
+V. Por reposición o canje de tarjeta de circulación $95.00
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+VI. Por reposición de placa, derivada de pérdida $300.00
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+VI BIS. Por reposición de placa, derivada de mutilación o deterioro $114.00
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+VII. Por cambio de propietario o domicilio, incluyendo la expedición de nueva tarjeta de circulación $95.00
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+VIII. Por la expedición de permiso para circular sin placa o tarjeta de circulación $107.00
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+IX. Por el trámite de baja $59.00
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+X. Por certificado de no adeudo de sanciones $44.00
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+XI. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $77.00
 
 ###### ARTICULO 239.
 
@@ -3890,13 +4286,13 @@ Los derechos por refrendo para vigencia de placas, y en su caso, de tarjeta de c
 
 Por la expedición o refrendo de placas de demostración:
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-a). Por la expedición $385.00
+a) Por la expedición $458.00
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-b). Por el refrendo $298.00
+b) Por el refrendo $355.00
 
 #### Sección Séptima. De los Derechos por Servicios de Control Vehicular
 
@@ -3904,63 +4300,63 @@ b). Por el refrendo $298.00
 
 Por los servicios relacionados con licencias y permisos para conducir vehículos, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-I. Licencias tipo "A", por cada año de vigencia $83.00
+I. Licencias tipo "A", por cada año de vigencia $99.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II. Licencias tipo "B", por cada año de vigencia $129.00
+II. Licencias tipo "B", por cada año de vigencia $154.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III. Licencias tipo "C", por cada año de vigencia $175.00
+III. Licencias tipo "C", por cada año de vigencia $208.00
 
-> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III. BIS. Licencias tipo "D", por cada año de vigencia. $226.00
+III BIS. Licencias tipo "D", por cada año de vigencia $269.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-IV. Por reposición de las licencias a que se refieren las fracciones anteriores por término que no exceda a la fecha de vencimiento señalada en la original $83.00
+IV. Por reposición de las licencias a que se refieren las fracciones anteriores por término que no exceda a la fecha de vencimiento señalada en la original $99.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-V. Permiso individual para aprendizaje de manejo, por 30 días. $71.00
+V. Permiso individual para aprendizaje de manejo, por 30 días $84.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VI. Por expedición o reposición de permiso para conducir. $83.00
+VI. Por expedición o reposición de permiso para conducir $99.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VII. Por certificación de expedición de licencia $37.00
+VII. Por certificación de expedición de licencia $44.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VIII. Por expedición de antecedente de licencia o permiso. $37.00
+VIII. Por expedición de antecedente de licencia o permiso $44.00
 
-> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VIII BIS. Por certificado de no adeudo de sanciones $37.00
+VIII BIS. Por certificado de no adeudo de sanciones $44.00
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-IX. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $83.00
+IX. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $99.00
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 242.
 
-Por el servicio de grúa que se preste como consecuencia de la comisión de infracciones al Reglamento de Tránsito del Distrito Federal o a solicitud de los conductores de vehículos, los propietarios de los mismos pagarán una cuota de $179.00.
+Por el servicio de grúa que se preste como consecuencia de la comisión de infracciones al Reglamento de Tránsito del Distrito Federal o a solicitud de los conductores de vehículos, los propietarios de los mismos pagarán una cuota de $213.00
 
 El derecho a que se refiere este artículo se causará por la sola prestación del servicio, con independencia de las sanciones administrativas que procedan.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 243.
 
-Por el servicio de almacenaje de cualquier tipo de vehículo, se pagará por cada día un derecho de $16.00 en tanto los propietarios no los retiren.
+Por el servicio de almacenaje de cualquier tipo de vehículo, se pagará por cada día un derecho de $19.00 en tanto los propietarios no los retiren.
 
 Si transcurridos dos meses de que el vehículo quedó a disposición del propietario éste no lo retira, las autoridades fiscales procederán a determinar el crédito fiscal adeudado hasta esa fecha y lo notificarán mediante publicación que se haga por una sola vez en la Gaceta Oficial del Distrito Federal, en la que se señalarán las características del vehículo.
 
@@ -3972,15 +4368,15 @@ Los propietarios de los vehículos a que se refiere este artículo y el anterior
 
 ###### ARTICULO 244.
 
-Por los servicios de alineamiento de inmuebles sobre la vía pública, se pagará el derecho de alineamiento de inmuebles conforme a una cuota de $8.00 por cada metro de frente del inmueble.
+Por los servicios de alineamiento de inmuebles sobre la vía pública, se pagará el derecho de alineamiento de inmuebles conforme a una cuota de $9.50 por cada metro de frente del inmueble.
 
 Los alineamientos a que se refiere este artículo tendrán una vigencia de seis meses contados a partir de la fecha de su expedición.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 245.
 
-Por los servicios de señalamiento de número oficial de inmuebles se pagará el derecho por número oficial conforme a una cuota de $48.00
+Por los servicios de señalamiento de número oficial de inmuebles se pagará el derecho por número oficial conforme a una cuota de $57.00
 
 No se pagará el derecho que establece el párrafo anterior, cuando las autoridades competentes del Distrito Federal, ordenen el cambio de número.
 
@@ -3988,25 +4384,23 @@ No se pagará el derecho que establece el párrafo anterior, cuando las autorida
 
 Por los servicios de expedición de las constancias y/o certificaciones, licencias y estudios que a continuación se indican, se cubrirán por concepto de derechos, las siguientes cuotas:
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-I. Solicitud de constancias y/o certificados de zonificación de uso
+I. Por constancias de zonificación, así como constancias y/o certificados de uso el suelo $313.00
 
-de suelo $263.00
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+II. Expedición o prórroga de la licencia de uso de suelo $1,041.00
 
-II. Expedición o prórroga de la licencia de uso de suelo $875.00
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-III. Por el estudio y dictamen técnico de densidad, por unidad de incremento $5,251.00
+III. Por el estudio y dictamen técnico de densidad; por unidad de incremento $6,249.00
 
 Tratándose de estudios y dictámenes de incremento de densidad, relacionados con viviendas de interés social, no se estará obligado al pago de los derechos correspondientes.
 
 ###### ARTICULO 247.
 
-Por el otorgamiento de concesiones para el uso o goce de inmuebles del dominio público del Distrito Federal, se pagará anualmente, por cada uno, el derecho de concesión de inmuebles conforme a una cuota de $300.00
+Por el otorgamiento de concesiones para el uso o goce de inmuebles del dominio público del Distrito Federal, se pagará anualmente, por cada uno, el derecho de concesión de inmuebles conforme a una cuota de $357.00
 
 Tratándose de inmuebles que se destinen a uso agrícola, ganadero, pesquero o silvícola, la cuota a que se refiere el párrafo anterior se reducirá en un 50%.
 
@@ -4016,15 +4410,13 @@ Este derecho se pagará independientemente del que corresponda conforme a la Sec
 
 Por los servicios de almacenaje de bienes en bodegas o locales proporcionados por el Distrito Federal, distintos a los señalados en el artículo 243 de este Código, se pagará el derecho de almacenaje, conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-I. Cuando los bienes ocupen hasta tres metros cuadrados de superficie y hasta tres metros de altura, por día $8.00
+I. Cuando los bienes ocupen hasta tres metros cuadrados de superficie y hasta tres metros de altura, por día $9.50
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II. Por cada metro o fracción que exceda de la superficie o de la altura
-
-mencionada, por día $ 1.00
+II. Por cada metro o fracción que exceda de la superficie o de la altura mencionada, por día $1.20
 
 El derecho de almacenaje se pagará a partir del día siguiente a la fecha de ingreso de los bienes en las bodegas o locales, excepto cuando se trate de bienes que habiendo sido embargados o decomisados y almacenados hubiesen sido rematados por autoridad administrativa o judicial, en cuyo caso, el derecho se pagará a partir del décimo primer día siguiente a la fecha en que se hubiere fincado el remate.
 
@@ -4036,45 +4428,47 @@ Por los servicios de publicaciones, que preste el Distrito Federal, se pagará e
 
 I. Publicaciones en el Boletín Judicial:
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-a). Hasta 80 palabras $9.00
+a) Hasta 80 palabras 11.00
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-b). Hasta 120 palabras $14.00
+b) Hasta 120 palabras $17.00
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-c). Hasta 160 palabras $18.00
+c) Hasta 160 palabras $21.00
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-d). Hasta 200 palabras $23.00
+d) Hasta 200 palabras $27.00
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-e). Por mayor número, además de la cuota anterior por cada palabra $00.05
+e) Por mayor número, además de la cuota anterior por cada palabra $00.06
 
 II. Publicaciones en la Gaceta Oficial:
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-a). Por plana entera $448.00
+a) Por plana entera $533.00
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-b). Por media plana $241.00
+b) Por media plana $287.00
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-c). Por un cuarto de plana $150.00
+c) Por un cuarto de plana $178.00
 
 ###### ARTICULO 250.
 
 No se pagará el derecho de publicaciones a que se refiere el artículo anterior por las publicaciones en el boletín judicial ordenadas por las dependencias de la Administración Pública del Distrito Federal y las relativas a asuntos que se tramiten por la Defensoría de Oficio del Ramo Civil cuando la parte que ésta patrocine y a quien interese la publicación sea persona de escasos recursos económicos. Tampoco se pagarán por las publicaciones que ordene el poder judicial y tribunales administrativos del Distrito Federal, salvo que se trate de publicaciones relacionada con un asunto en particular en los que el derecho pueda ser cobrado a la parte interesada.
 
-Asimismo, no se pagará el derecho de publicaciones en la Gaceta Oficial cuando sean ordenadas por las dependencias de la Administración Pública del Distrito Federal.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+Asimismo, no se pagará el derecho de publicaciones en la Gaceta Oficial cuando sean ordenadas por las dependencias de la administración pública del Distrito Federal, salvo que se trate de publicaciones ordenadas en interés de un particular.
 
 ###### ARTICULO 251.
 
@@ -4100,21 +4494,21 @@ Para la determinación del valor de los inmuebles, como excepción a lo dispuest
 
 Por los servicios de recolección y recepción de residuos sólidos que generen los establecimientos mercantiles, industriales y similares, así como dependencias y entidades federales o locales, que preste el Distrito Federal, se pagarán los derechos correspondientes conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-I. Por el servicio de recolección, por cada 10 kilogramos o fracción $3.00
+I. Por el servicio de recolección, por cada 10 kilogramos o fracción $3.60
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II. Por el servicio de recepción en estaciones de transferencia, por cada 10 kilogramos o fracción $1.00
+II. Por el servicio de recepción en estaciones de transferencia, por cada 10 kilogramos o fracción $1.20
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III. Por el servicio de recepción en sitios de disposición final, por cada 10 kilogramos o fracción $00.35
+III. Por el servicio de recepción en sitios de disposición final, por cada 10 kilogramos o fracción $00.40
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-El pago de estos derechos se hará previamente a la recolección o a la recepción de los residuos, conforme a las estimaciones que al efecto formulen los contribuyentes, debiendo enterarse por períodos mensuales dentro de los cinco días anteriores al inicio del mes por el que deba efectuarse el pago ante las oficinas autorizadas por la autoridad fiscal.
+El pago de estos derechos se hará previamente a la recolección o a la recepción de los residuos, conforme a las estimaciones que al efecto formulen los contribuyentes, debiendo enterarse por períodos mensuales dentro de los cinco días anteriores al inicio del mes por el que deba efectuarse el pago ante las oficinas autorizadas por la autoridad fiscal, salvo los casos que autorice la Secretaría.
 
 > <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
@@ -4122,11 +4516,11 @@ En el caso en que el monto de los derechos causados resulte superior al efectuad
 
 #### Sección Octava. De los Servicios de Alineamiento y Señalamiento de Número Oficial y de Expedición de Constancias de Zonificación y de Uso de Inmuebles
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 255.
 
-Por el estudio y la evaluación para el funcionamiento de los servicios privados de seguridad en el Distrito Federal, se pagarán derechos a razón de $44.00 por cada elemento de seguridad con que cuente la empresa prestadora del servicio. La misma cuota se pagará por cada evaluación posterior que realice la autoridad competente, en los términos del permiso respectivo.
+Por el estudio y la evaluación para el funcionamiento de los servicios privados de seguridad en el Distrito Federal, se pagarán derechos a razón de $52.00 por cada elemento de seguridad con que cuente la empresa prestadora del servicio. La misma cuota se pagará por cada evaluación posterior que realice la autoridad competente, en los términos del permiso respectivo.
 
 El pago de estos derechos no implica la autorización para el funcionamiento de las empresas que realicen el entero.
 
@@ -4134,69 +4528,73 @@ El pago de estos derechos no implica la autorización para el funcionamiento de 
 
 Tratándose de los servicios que a continuación se enumeran que sean prestados por cualquiera de las autoridades administrativas y judiciales del Distrito Federal y por la Procuraduría General de Justicia del Distrito Federal, se pagarán derechos conforme a las cuotas que para cada caso se indican, salvo en aquellos casos que en otros artículos de este Capítulo se establezcan cuotas distintas:
 
-I. Expedición de copias certificadas de documentos, por cada hoja tamaño carta u oficio:
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+I. Expedición de copias certificadas:
 
-a). Por la búsqueda de documento original en los archivos oficiales $18.00
+a) Heliográficas de plano $92.00
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+b) De documentos, por cada hoja tamaño carta u oficio $4.80
 
-b). Por hoja certificada $4.00
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+I BIS. Expedición de copias simples o fotostáticas de documentos, tamaño carta u oficio, excepto los que obren en autos de los órganos judiciales del Distrito Federal y en Agencias del Ministerio Público del Distrito Federal:
 
-II. Por reposición de constancia o duplicado de la misma. $11.00
+a) Copia simple o fotostática, por una sola cara $0.30
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+b) Copia simple o fotostática en reducción o ampliación, por una sola cara $0.60
 
-III. Compulsa de documentos, por hoja $2.00
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+II. Por reposición de constancia o duplicado de la misma $13.00
 
-IV. Legalización de firmas $21.00
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+III. Compulsa de documentos, por hoja $2.40
 
-V. Constancia de adeudos $37.00
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+III BIS. Por la búsqueda de documento original en los archivos oficiales $21.00
 
-VI. Informe de adeudos $16.00
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+IV. Legalización de firmas $25.00
 
-VII. Por cualquier otra certificación o expedición de constancias distintas a las señaladas en las fracciones anteriores $37.00
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VIII. Por el registro y autorización para la práctica de avalúos para efectos fiscales:
+V. Constancia de adeudos $44.00
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-a). Por la autorización a personas morales cuyo objeto sea la realización de avalúos $1,610.00
+VI. Informe de adeudos $19.00
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-b). Por la revalidación anual de la autorización a que se refiere el inciso anterior $805.00
+VII. Por certificaciones de pago a partir del número de cuenta, placa o registro de contribuyentes $22.00
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-c). Por el registro como perito valuador para auxiliar en la
+VII Bis. Por cualquier otra certificación o expedición de constancias distintas a las señaladas en las fracciones anteriores $44.00
 
-práctica de avalúos $805.00
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+VIII. Por autorización para la práctica de avalúos para efectos fiscales:
 
-d). Por la revalidación anual del registro a que se refiere el inciso anterior $483.00
+a) Por la autorización a personas morales cuyo objeto sea la realización de avalúos $1,916.00
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+b) Por la revalidación anual de la autorización a que se refiere el inciso anterior $958.00
 
-e). Por el examen en materia de valuación inmobiliaria $402.00
+c) Por el registro como perito valuador para auxiliar en la práctica de avalúos $958.00
+
+d) Por la revalidación anual del registro a que se refiere el inciso anterior $575.00
+
+e) Por el examen en materia de valuación inmobiliaria $478.00
 
 Cuando por causas no imputables a los solicitantes de algunos de los servicios a que se refiere este Capítulo fuere necesario reponer o modificar algún registro, documento o trámite, no se pagarán los derechos correspondientes a la reposición o modificación.
 
 ###### ARTICULO 257.
 
-Por el estacionamiento de vehículos en la vía pública se pagará el derecho de estacionamiento conforme a una cuota de $1.00 por cada dieciocho minutos.
+Por el estacionamiento de vehículos en la vía pública se pagará el derecho de estacionamiento conforme a una cuota de $1.00 por quince minutos.
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 1995)</small>
 
@@ -4204,7 +4602,7 @@ El pago de este derecho se hará mediante relojes marcadores, tarjetas o cualqui
 
 #### Sección Novena. De los Derechos sobre las Concesiones de Inmuebles
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 258.
 
@@ -4224,11 +4622,11 @@ Para los efectos del artículo anterior, el valor del inmueble del Distrito Fede
 
 El derecho por el uso o aprovechamiento de inmuebles, se calculará por ejercicios fiscales. Los contribuyentes efectuarán pagos provisionales mensuales a más tardar el día 10 de cada mes mediante declaración que presentarán en las oficinas autorizadas. El pago provisional será una doceava parte del monto del derecho calculado al año.
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 261.
 
-Están obligados al pago de los derechos establecidos en esta Sección, los locatarios de los mercados públicos del Distrito Federal, por el uso o aprovechamiento de los locales que al efecto les sean asignados por la autoridad competente, así como por las demás instalaciones inherentes, a razón de $4.00 por metro cuadrado, mismos que se causarán mensualmente y se pagarán dentro de los diez primeros días del mes.
+Están obligados al pago de los derechos establecidos en esta Sección, los locatarios de los mercados públicos del Distrito Federal, por el uso o aprovechamiento de los locales que al efecto les sean asignados por la autoridad competente, así como por las demás instalaciones inherentes, a razón de $5.00 por metro cuadrado, mismos que se causarán mensualmente y se pagarán dentro de los diez primeros días del mes.
 
 #### Sección Décima Segunda. De las Cuotas de Recuperación por la Prestación de Servicios Médicos
 
@@ -4236,13 +4634,13 @@ Están obligados al pago de los derechos establecidos en esta Sección, los loca
 
 Por la utilización para fines comerciales de parques y bosques del dominio público del Distrito Federal, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-a). Filmaciones con fines comerciales, por día $2,100.00
+a) Filmaciones con fines comerciales, por día $2,499.00
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-b). Tomas fotográficas con fines comerciales, por día. $1,050.00
+b) Tomas fotográficas con fines comerciales, por día $1,249.00
 
 Los ingresos recaudados por este concepto, se destinarán al mantenimiento y conservación de los parques, bosques y sus instalaciones.
 
@@ -4250,45 +4648,7 @@ Los ingresos recaudados por este concepto, se destinarán al mantenimiento y con
 
 ###### ARTICULO 263.
 
-Están obligadas al pago del derecho a que se refiere esta Sección, las personas que usen las vías y áreas públicas del Distrito Federal, para realizar actividades mercantiles de cualquier tipo, en los términos de la reglamentación correspondiente, ya sea en puestos fijos, semifijos o en forma ambulante, conforme a lo siguiente:
-
-I. El derecho se causará atendiendo a la clasificación según la permanencia física del comerciante en un lugar geográfico por el cual se le otorgue la licencia correspondiente, en los términos de la reglamentación aplicable, conforme a lo siguiente:
-
-a). Por puesto fijo:
-
-Se considerará aquella instalación en la cual se ejerza el comercio en vías y áreas públicas, que se encuentre en un lugar determinado con carácter permanente;
-
-b). Por puesto semifijo:
-
-Se considerará aquella instalación de tipo desarmable o desmontable en la cual se ejerza el comercio en vías y áreas públicas.
-
-Para los efectos de este artículo, se asimilan a puestos semifijos los vehículos que se utilicen para portar y ofrecer mercancía al público, cualquiera que sea la fuerza que los mueva, incluyendo la humana;
-
-c). Por ambulante:
-
-El comercio que se ejerza con una movilidad constante, cuando la persona porte directamente, sin vehículo, ni mueble, la mercancía que ofrezca al público.
-
-II. El pago del derecho a que se refiere esta Sección, se hará de acuerdo a las siguientes cuotas diarias:
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-Puestos fijos $1.00 por m2
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-Puestos semifijos $1.00 por m2
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-Comerciantes ambulantes $0.35
-
-III. La cuota diaria del derecho a que hace referencia este artículo, se pagará en las oficinas autorizadas, en los siguientes términos:
-
-a). Tratándose de puestos fijos y semifijos los contribuyentes realizarán el pago diariamente pudiendo optar por cubrirlo por semanas o meses anticipados.
-
-b). Tratándose de ambulantes, el pago será diario, pero podrán optar por hacerlo por semanas anticipadas.
-
-El pago del derecho por el uso de vías y áreas públicas por el ejercicio de actividades comerciales, sólo acreditará el cumplimiento de esa obligación tributaria por parte de los contribuyentes y es independiente del acatamiento de las obligaciones a que esté sujeto de acuerdo a la reglamentación sustantiva.
+(DEROGADO, G.O. 31 DE DICIEMBRE DE 1996)
 
 #### Sección Décima Cuarta. De los Derechos de Registro de Modificaciones al Programa Parcial de Desarrollo Urbano Delegacional
 
@@ -4302,7 +4662,9 @@ Cuando la descarga sea menor al porciento del volumen de agua extraída señalad
 
 Los derechos correspondientes se calcularán en términos del párrafo anterior, a partir de la fecha en que se ejerza la opción ante la autoridad fiscal.
 
-En caso de que se ejerza la opción a que se refiere el tercer párrafo de este artículo, el contribuyente deberá presentar el aviso correspondiente ante la autoridad fiscal y pagar los derechos en los formatos aprobados para tal efecto. Para calcular el pago, los contribuyentes efectuarán la lectura de los dispositivos de medición instalados en las descargas a la red de drenaje el primer día de cada bimestre y efectuarán el cálculo correspondiente. La autoridad fiscal podrá verificar en todo momento la precisión de los dispositivos instalados, y ordenar que el contribuyente realice las modificaciones que se requieran, a fin de que los mismos midan correctamente las descargas.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+En caso de que se ejerza la opción a que se refiere el tercer párrafo de este artículo, el contribuyente deberá presentar el aviso correspondiente ante la Comisión de Aguas del Distrito Federal, llevar un registro cronológico de sus lecturas en la forma oficial aprobada, y pagar los derechos en los formatos aprobados para tal efecto. Para calcular el pago, los contribuyentes efectuarán la lectura de los dispositivos de medición instalados en las descargas a la red de drenaje el primer día de cada bimestre y efectuarán el cálculo correspondiente. La Comisión de Aguas del Distrito Federal podrá verificar en todo momento la precisión de los dispositivos instalados, y ordenar que el contribuyente realice las modificaciones que se requieran, a fin de que los mismos midan correctamente las descargas.
 
 #### Sección Décima Quinta. De los Derechos por los Servicios de Recolección y Recepción de Residuos Sólidos
 
@@ -4316,7 +4678,7 @@ Para los efectos de esta Sección, será aplicable en lo conducente, lo establec
 
 ###### ARTICULO 266.
 
-Los concesionarios de bienes del dominio público del Distrito Federal o de la prestación de servicios públicos, deberán cubrir las contraprestaciones en favor de la Entidad que señale el respectivo Título de Concesión, las cuales tendrán la naturaleza jurídica de aprovechamientos, salvo en aquellos casos en que las disposiciones legales aplicables denomine tales contraprestaciones como derechos.
+Los concesionarios o permisionarios del uso de bienes del dominio público del Distrito Federal o de la prestación de servicios públicos, deberán cubrir las contraprestaciones en favor de la entidad que señale el permiso o el título de concesión respectivos, las cuales tendrán la naturaleza jurídica de aprovechamientos, salvo en aquellos casos en que las disposiciones legales aplicables denominen tales prestaciones como derechos.
 
 ###### ARTICULO 267.
 
@@ -4332,9 +4694,29 @@ b). Los aprovechamientos que se cobren por el uso o disfrute de bienes o por la 
 
 c). Se podrán establecer aprovechamientos diferenciales por el uso de bienes o prestación de servicios, cuando éstos respondan a estrategias de comercialización o racionalización y se otorguen de manera general. La omisión total o parcial en el cobro de los aprovechamientos establecidos en los términos de este Código, afectará a los Organos, disminuyendo una cantidad equivalente a dos veces el valor de la omisión efectuada del presupuesto del Organo de que se trate.
 
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+Los aprovechamientos derivados del ejercicio de las funciones de las áreas que generen los mismos, podrán destinarse preferentemente a la operación de dichas áreas, previa autorización de la Secretaría, de conformidad con las reglas generales que emita la propia Secretaría, mismas que se publicarán a más tardar el día veinte de enero de cada año en la Gaceta Oficial del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 267 a.- En el caso de los aprovechamientos que se cobren por el uso o explotación de las vías y áreas públicas para realizar actividades mercantiles de cualquier tipo, las autoridades fiscales podrán establecer las cuotas correspondientes, siempre que éstas permitan diferenciar entre los distintos tipos de usos de espacio permisionado y la diversidad urbana prevaleciente en cada zona.
+
+Unicamente se cobrarán las cuotas a que se refiere el párrafo anterior, a las personas que cuenten con el permiso vigente expedido por las Delegaciones para llevar a cabo esas actividades, o concesión otorgada por autoridad competente, atendiendo a lo dispuesto en el primer párrafo del presente artículo y de conformidad con lo siguiente:
+
+I. Con motivo del ejercicio del comercio en vía pública, las cuotas respectivas en ningún caso podrán ser superiores a $20.00 por día, ni inferiores a $5.00 por día de ocupación, siempre y cuando no excedan de una superficie de 2 metros cuadrados, dependiendo de la ubicación del área ocupada para esas actividades.
+
+II. Sólo en forma excepcional, cuando en el permiso respectivo se autoricen y se ocupen superficies superiores a 2 metros cuadrados, mismas que nunca deberán exceder de 4 metros cuadrados, las cuotas respectivas podrán ser superiores a lo previsto en la fracción I, pero sin exceder de $35.00 por día, ni ser inferiores a $10.00 por día de ocupación, dependiendo de la ubicación del área ocupada para esas actividades.
+
+III. Unicamente se autorizará la instalación de puestos fijos en las zonas de mercados que, de conformidad con el Reglamento de Mercados, determine la autoridad competente; en ese caso las cuotas respectivas no podrán ser superiores a $65.00 por día, ni inferiores a $20.00 por día de ocupación, dependiendo de la ubicación del área ocupada para esas actividades.
+
+IV. Tratándose de restaurantes, restaurantes-bares o cafeterías que extiendan la prestación de sus servicios a la vía pública, en los términos de la Ley para el Funcionamiento de Establecimientos Mercantiles en el Distrito Federal, las cuotas respectivas en ningún caso podrán ser superiores a $20.00 por metro cuadrado por día, ni inferiores a $5.00 por metro cuadrado por día de ocupación, atendiendo a la ubicación del establecimiento mercantil de que se trate.
+
+Las personas obligadas al pago de las cuotas a que se refiere el presente artículo podrán cubrirlas, a su elección, por semanas o meses anticipados.
+
 #### Sección Décima Sexta. De los Derechos por el Control de los Servicios Privados de Seguridad
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 268.
 
@@ -4356,15 +4738,17 @@ La Secretaría deberá preparar la propuesta de montos de endeudamiento anual qu
 
 #### Sección Primera. De los Derechos por el Estacionamiento de Vehículos
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 272.
 
 Dicha Secretaría deberá preparar los informes trimestrales y el informe anual sobre el ejercicio de los recursos crediticios, a efecto de presentar los informes correspondientes a la Asamblea y al Presidente de la República respectivamente, así como para la elaboración de las cuentas públicas.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 273.
 
-La Secretaría, por conducto de la Tesorería, será la única autorizada para gestionar, previa autorización de la Secretaría de Hacienda y Crédito Público, créditos para el financiamiento de los programas a cargo del Distrito Federal. En ningún caso gestionará financiamientos que generen obligaciones que excedan, a juicio de la Secretaría, la capacidad de pago del Distrito Federal.
+La Secretaría será la única autorizada para gestionar, previa autorización de la Secretaría de Hacienda y Crédito Público, créditos para el financiamiento de los programas a cargo del Distrito Federal. En ningún caso gestionará financiamientos que generen obligaciones que excedan, a juicio de la Secretaría, la capacidad de pago del Distrito Federal.
 
 ###### ARTICULO 274.
 
@@ -4460,6 +4844,8 @@ De los Anteproyectos de las entidades.
 
 ### CAPITULO I. De Los Aprovechamientos
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 287.
 
 Son auxiliares de la Secretaría:
@@ -4514,11 +4900,17 @@ A fin de asegurar la recaudación de toda clase de créditos a favor del Distrit
 
 La recepción de los fondos y, en su caso, los valores resultantes de la recaudación, se justificará con los documentos relativos a la determinación del crédito, resoluciones administrativas o judiciales, autorizaciones, convenios, contratos, permisos, concesiones y los demás que establezca este Código y demás disposiciones legales aplicables. Dichos fondos se comprobarán con los documentos o formas oficiales que establezca el presente ordenamiento y las disposiciones respectivas, en los que conste la impresión de la máquina registradora de la Secretaría o de los auxiliares de ésta, y cuando se carezca de ella, con el sello de una u otra y firma del cajero, debiendo reflejarse en los registros de la oficina recaudadora en los términos de este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 295.
 
-Todos los fondos que se recauden, provenientes de la aplicación de la Ley de Ingresos del Distrito Federal y de este Código, comprendidos los que estén destinados a un fin determinado, así como los que por otros conceptos tenga derecho a percibir el Distrito Federal, por cuenta propia o ajena, se concentrarán en la Secretaría, salvo los provenientes de cuotas de seguridad social destinadas a la Caja de Prevención de la Policía Preventiva del Distrito Federal, así como los demás que por disposición de este Código y demás leyes aplicables, se establezca la excepción de concentración de fondos.
+Todos los fondos que se recauden, provenientes de la aplicación de la Ley de Ingresos del Distrito Federal y de este Código, comprendidos los que estén destinados a un fin determinado, así como los que por otros conceptos tenga derecho a percibir el Distrito Federal, por cuenta propia o ajena, se concentrarán en la Secretaría, salvo los siguientes:
+
+I. Los provenientes de cuotas de seguridad social destinadas a la Caja de Prevención de la Policía Preventiva del Distrito Federal;
+
+II. Los provenientes de productos y aprovechamientos, cuando la unidad administrativa cuente con autorización de la Secretaría, para obtener ampliaciones líquidas a su presupuesto, mediante la aplicación directa de la totalidad de estos fondos o en la proporción que la propia Secretaría determine, y
+
+III. Los demás que por disposición de este Código y demás leyes aplicables, se establezca la excepción de concentración de fondos.
 
 En el caso de los fondos destinados a un fin determinado, sólo podrá disponerse de ellos por aplicación del presupuesto de egresos.
 
@@ -4610,7 +5002,15 @@ En los casos de transmisión de valores que representen inversiones financieras 
 
 ###### ARTICULO 308.
 
-Los bienes que se embarguen por autoridades del Distrito Federal, distintas de las fiscales conforme a las leyes administrativas aplicables, los decomisados por autoridades judiciales, los que sin estar decomisados no sean recogidos por quienes tengan derecho a ello en el lapso que marca el artículo 41 del Código Penal para el Distrito Federal en Materia del Fuero Común y para toda la República en Materia del Fuero Federal y los abandonados expresa o tácitamente en beneficio del Distrito Federal, se pondrán a disposición de la Secretaría, junto con la documentación que justifique los actos, para su guarda, administración, aplicación, adjudicación, remate o venta, donación o destrucción, según proceda.
+Los bienes que se embarguen por autoridades del Distrito Federal, distintas de las fiscales conforme a las leyes administrativas aplicables, y los abandonados expresa o tácitamente en beneficio del Distrito Federal, se pondrán a disposición de la Secretaría, junto con la documentación que justifique los actos, para su guarda, administración, aplicación, adjudicación, remate o venta, donación o destrucción, según proceda.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+Los bienes y valores que se encuentren a disposición de la autoridad investigadora del Ministerio Público del Distrito Federal o de las judiciales del Distrito Federal, conforme al artículo 41 del Código Penal para el Distrito Federal en materia del Fuero Común y para toda la República en materia del Fuero Federal, y que no hubieren sido recogidos por quien tenga derecho o interés jurídico en ellos, se enajenarán en subasta o licitación pública, o mediante adjudicación directa cuando se trate de bienes perecederos o que su mantenimiento sea costoso. El procedimiento administrativo de enajenación, estará a cargo de la Procuraduría General de Justicia del Distrito Federal o del Tribunal Superior de Justicia del Distrito Federal, según corresponda, con la participación en las licitaciones de la Secretaría y la Oficialía Mayor del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+A los bienes decomisados por las autoridades judiciales les será aplicable lo dispuesto en el párrafo anterior.
 
 El abandono de bienes que, como consecuencia de la aplicación del procedimiento administrativo de ejecución, estén en poder o al cuidado de autoridades fiscales, se consumará si no son reclamados en el plazo de un año contado a partir de la fecha en que se hayan extinguido los créditos fiscales y queden a disposición de quien tenga derecho a ellos.
 
@@ -4622,11 +5022,11 @@ Los bienes embargados propiedad o a cuenta de los adeudos fiscales propiedad del
 
 Para efectuar el retiro de los bienes a que se alude en el artículo anterior, una vez vencidos los plazos establecidos, deberá acreditarse el pago por derechos de almacenaje establecidos en este Código, y presentar la documentación que justifique dicho retiro.
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 310.
 
-Los bienes a que se refiere este Capítulo una vez que se verifique la documentación justificatoria que se acompañe a los mismos, y en caso de no haber impedimento legal alguno, podrán ser rematados en subasta pública, conforme a lo previsto(sic) el Capítulo V, del Título Segundo, del Libro Primero, de este Código enajenados fuera de remate o adjudicados en forma definitiva al Distrito Federal conforme a las reglas de carácter general que dicte la Secretaría. El producto del remate quedará en depósito en la Secretaría a efecto de ser aplicado presupuestalmente en los programas autorizados, o bien, para proceder de acuerdo con las instrucciones de las autoridades judiciales o disposiciones legales aplicables.
+Los bienes a que se refiere este Capítulo una vez que se verifique la documentación justificatoria que se acompañe a los mismos, y en caso de no haber impedimento legal alguno, podrán ser rematados en subasta pública, conforme a lo previsto en el Capítulo V del Título Segundo, del Libro Primero, de este Código, enajenados fuera de remate o adjudicados en forma definitiva al Distrito Federal conforme a las reglas de carácter general que dicte la Secretaría. El producto del remate quedará en depósito en la Secretaría a efecto de ser aplicado presupuestalmente en los programas autorizados, o bien, para proceder de acuerdo con las instrucciones de las autoridades judiciales o disposiciones legales aplicables. En tratándose de adjudicaciones directas, subastas o licitaciones públicas, instrumentadas por la Procuraduría General de Justicia del Distrito Federal, o el Tribunal Superior de Justicia del Distrito Federal, quedará en depósito ante la Secretaría el diez por ciento del producto que se obtenga en cada evento, por un plazo de seis meses a efecto de facilitar y cumplir con las indemnizaciones que en derecho procedan; quedando bajo la guardia y custodia de la Procuraduría General de Justicia del Distrito Federal o del Tribunal Superior de Justicia del Distrito Federal, el noventa por ciento restante, según corresponda, para ser aplicado a las indemnizaciones cuando se rebase el diez por ciento y para el mejoramiento de la procuración de justicia en el caso de los bienes que hubiesen estado a disposición de la autoridad investigadora, o para el mejoramiento de la administración de justicia en el caso de los bienes que hubiesen estado a disposición de las autoridades judiciales, de conformidad con el artículo 41 del Código Penal para el Distrito Federal en materia del Fuero Común y para toda la República en materia del Fuero Federal, y con los lineamientos expedidos para el efecto por las autoridades competentes.
 
 ###### ARTICULO 311.
 
@@ -4694,9 +5094,9 @@ I. Que se encuentren debidamente contabilizados al treinta y uno de diciembre de
 
 II. Que exista disponibilidad presupuestal para esos compromisos en el año en que se cumplieron;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III. Que se radiquen en la Secretaría los documentos que permitan efectuar los pagos respectivos, a más tardar el último día del mes de febrero del año siguiente al del ejercicio al que corresponda el gasto, y
+III. Que se radiquen en la Secretaría los documentos que permitan efectuar los pagos respectivos, a más tardar el último día del mes de enero del año siguiente al del ejercicio al que corresponda el gasto, y
 
 > <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
@@ -4790,13 +5190,17 @@ Una vez concluida la vigencia de un Presupuesto de Egresos las dependencias y ó
 
 Solamente se podrán efectuar pagos por anticipos en los siguientes casos:
 
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+I. Los establecidos en la Ley de Adquisiciones y Obras Públicas, cuando las dependencias, órganos desconcentrados y entidades celebren contratos de obra pública. En este caso y a fin de acreditar dichos anticipos, las referidas unidades administrativas al final del ejercicio y para efecto de cuenta pública, expedirán constancia que acredite que fue invertido el anticipo correspondiente;
+
 > <small>(REFORMADA, G.O. 24 DE ABRIL DE 1995)</small>
 
-I. Pagas de marcha, las cuales deberán reembolsarse siempre en su totalidad, mediante descuentos que practicará la Secretaría, por sí o a través de sus oficinas pagadoras, equivalentes cada una a la cuarta parte de los sueldos que disfruten los deudores;
+II. Pagas de marcha, las cuales deberán reembolsarse siempre en su totalidad, mediante descuentos que practicará la Secretaría, por sí o a través de sus oficinas pagadoras, equivalentes cada una a la cuarta parte de los sueldos que disfruten los deudores;
 
-II. En casos excepcionales podrá anticiparse el pago de viáticos, sin que éstos excedan del importe que el empleado vaya a devengar en un período de treinta días, y
+III. En casos excepcionales podrá anticiparse el pago de viáticos, sin que éstos excedan del importe que el empleado vaya a devengar en un período de treinta días, y
 
-III. Los demás que, en su caso, establezcan otros ordenamientos legales y los que autorice expresamente por escrito la Secretaría.
+IV. Los demás que, en su caso, establezcan otros ordenamientos legales y los que autorice expresamente por escrito la Secretaría.
 
 Los interesados reintegrarán en todo caso las cantidades anticipadas que no hubieran devengado o erogado.
 
@@ -4864,7 +5268,9 @@ Las garantías que se otorguen ante autoridades judiciales y las que reciban las
 
 Las garantías que deban constituirse a favor de las dependencias, entidades y órganos desconcentrados por actos y contratos que celebren, deberán sujetarse a lo siguiente:
 
-I. Salvo disposición expresa, la forma de garantizar el cumplimiento de las obligaciones a favor de las entidades, será mediante fianza otorgada por compañía autorizada en los términos de la Ley Federal de Instituciones de Fianzas. En casos excepcionales y previa autorización de la Secretaría se podrá admitir otra forma de garantía o eximirse de ésta;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+I. Salvo disposición expresa, la forma de garantizar el cumplimiento de las obligaciones a favor de las dependencias, órganos desconcentrados y entidades, será mediante fianza otorgada por compañía autorizada en los términos de la Ley Federal de Instituciones de Fianzas. En casos excepcionales y previa autorización de la Secretaría y dictamen del área correspondiente, se podrá admitir otra forma de garantía o eximirse de ésta;
 
 II. En los contratos que comprendan varios ejercicios fiscales, deberá estipularse la obligación para el contratista, proveedor o prestador de servicios de presentar una fianza por el diez por ciento del importe del ejercicio inicial, y se incrementará con el diez por ciento del monto autorizado para cada uno de los ejercicios subsecuentes, en la inteligencia de que, mediante dicha fianza, deberán quedar garantizadas todas las obligaciones que en virtud del contrato asuma el contratista, proveedor o prestador de servicios;
 
@@ -4900,11 +5306,17 @@ La Secretaría aplicará o devolverá los certificados de depósito de dinero ex
 
 La Secretaría, directamente o por conducto de los auxiliares facultados legalmente para ello, calificará, aceptará, registrará, conservará en guarda y custodia, sustituirá, cancelará, devolverá y hará efectivas, según proceda las garantías que se otorguen a favor del Distrito Federal.
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 1995)</small>
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-Las autoridades judiciales, ante quienes se constituyan garantías, podrán realizar los actos señalados en el párrafo anterior, excepto hacerlas efectivas o efectuar su aplicación, lo cual se llevará a cabo por la Secretaría directamente o por conducto de los auxiliares facultados legalmente.
+En los casos de las fianzas que se otorguen ante las autoridades judiciales para garantizar el beneficio de la libertad provisional bajo caución o el de la libertad condicional, que conforme a las disposiciones legales respectivas, se deban hacer efectivas a favor del Estado, las propias autoridades judiciales ante quienes se constituyan las garantías, podrán realizar los actos señalados en el párrafo anterior.
 
-En los casos de actos o contratos celebrados con las dependencias y entidades de la Administración Pública del Distrito Federal, la calificación se hará cumpliendo los requisitos de verificación que para tal efecto establezcan las reglas administrativas en materia del servicio de tesorería.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+Las autoridades judiciales, ante quienes se constituyan garantías distintas de las previstas en el párrafo anterior, podrán realizar los actos señalados en el primer párrafo de este artículo, excepto hacerlas efectivas o efectuar su aplicación, lo cual se llevará a cabo por la Secretaría directamente o por conducto de los auxiliares facultados legalmente.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+En los casos de actos o contratos celebrados con las dependencias, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal, la calificación se hará cumpliendo los requisitos de verificación que para tal efecto establezcan las reglas administrativas en materia del servicio de tesorería.
 
 ###### ARTICULO 348.
 
@@ -4912,7 +5324,7 @@ Las garantías que se otorguen a favor del Distrito Federal, podrán sustituirse
 
 ### CAPITULO III. De la Custodia y Administración de Bienes Embargados
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 349.
 
@@ -4946,7 +5358,7 @@ II. En las garantías de prenda, hipoteca, embargo administrativo u obligación 
 
 ###### ARTICULO 351.
 
-Las garantías otorgadas a favor del Distrito Federal se harán efectivas por la Secretaría o por los auxiliares al hacerse exigibles las obligaciones o los créditos garantizados.
+Las garantías otorgadas a favor del Distrito Federal se harán efectivas por la Secretaría o por los auxiliares y, en su caso, por las autoridades judiciales, al hacerse exigibles las obligaciones o los créditos garantizados.
 
 Si las garantías se otorgaron con motivo de obligaciones contractuales, concursos de obra y adquisiciones, concesiones, autorizaciones, prórrogas, permisos o por otro tipo de obligaciones no fiscales, en caso de incumplimiento del deudor, la autoridad que tenga a su cargo el control y vigilancia de la obligación o adeudo garantizado, integrará debidamente el expediente relativo a la garantía para su efectividad, de conformidad con las reglas administrativas en materia del servicio de tesorería, con los originales o copias certificadas de los documentos que a continuación se indican:
 
@@ -5008,9 +5420,11 @@ Del Ejercicio Presupuestal de las Dependencias y Organos Desconcentrados.
 
 El Programa se referirá a la actividad de la administración pública del Distrito Federal en su conjunto y contendrá las previsiones sobre los recursos que serán asignados para la consecución de los objetivos y metas previstos; determinará los instrumentos y responsables de su ejecución, establecerá los lineamientos de política de carácter sectorial, institucional y delegacional.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 359.
 
-El Programa regirá el contenido de los programas sectoriales, delegacionales, institucionales y especiales que deban ser elaborados conforme a este Código, los cuales observarán congruencia con dicho Programa. Su vigencia no excederá del periodo constitucional de la gestión gubernamental en que se formule, aunque sus previsiones y proyecciones se podrán referir a un plazo mayor. El Programa será revisado cada tres años.
+El programa regirá el contenido de los programas sectoriales, delegacionales, institucionales y especiales que deban ser elaborados conforme a este Código, los cuales observarán congruencia con dicho Programa. Su vigencia no excederá del período constitucional de la gestión gubernamental en que se formule, aunque sus previsiones y proyecciones se podrán referir a un plazo mayor.
 
 Los programas a que se refiere el párrafo anterior, que se formulen para la consideración y aprobación del Jefe del Distrito Federal, de conformidad con lo que establece este Código, deberán ser validados previamente, por la (sic) Comité de Planeación para el Desarrollo del Distrito Federal y dictaminados por la Secretaría.
 
@@ -5394,7 +5808,7 @@ El ejercicio del presupuesto se sujetará estrictamente a los montos y calendari
 
 ### CAPITULO IV. De la Efectividad y Aplicación de las Garantías
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 409.
 
@@ -5434,6 +5848,10 @@ Las entidades manejarán y ejercerán sus recursos aprobados por medio de los ó
 
 Las entidades recibirán los fondos, subsidios y transferencias de la Tesorería, debiendo manejarlos, administrarlos y ejercerlos con sujeción a las normas que rijan su funcionamiento y lo que señale este Código.
 
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+La ministración de estas aportaciones a las entidades, se hará como complemento a sus ingresos propios y conforme al calendario financiero mensual autorizado por la Secretaría, deduciendo las disponibilidades financieras mensuales de las entidades.
+
 # LIBRO TERCERO. DE LA PROGRAMACION Y EL PRESUPUESTO DE EGRESOS
 
 ## TITULO SEGUNDO. DEL PRESUPUESTO DE EGRESOS
@@ -5452,7 +5870,7 @@ El ejercicio presupuestal de los órganos a que se refiere el artículo anterior
 
 En lo conducente, y en todo aquello que no se oponga a las normas que rijan su organización y funcionamiento, los órganos a que se refiere esta Sección aplicarán lo dispuesto en este Código para el ejercicio de sus recursos.
 
-> <small>(ADICIONADA CON ARTICULOS QUE LA INTEGRAN, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 419.
 
@@ -5766,7 +6184,7 @@ V. Orden, y
 
 VI. Presupuesto.
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO I
 
@@ -5774,7 +6192,7 @@ Disposiciones Generales.
 
 ###### ARTICULO 451.
 
-La Secretaría solicitará a las dependencias, órganos desconcentrados y entidades el envío de sus catálogos de cuentas, mismos que someterá a un proceso de revisión para, en su caso, autorizarlos en un lapso no mayor de sesenta días posteriores a la fecha de recepción.
+La Secretaría solicitará a las entidades el envío de sus catálogos de cuentas, mismos que someterá a un proceso de revisión para, en su caso, autorizarlos en un lapso no mayor de sesenta días posteriores a la fecha de recepción.
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1995)</small>
 
@@ -5990,7 +6408,9 @@ a). Balance general o estado de situación financiera;
 
 b). Estado de resultados;
 
-c). Estado de rectificaciones o resultados de ejercicios anteriores;
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+c) Estado de rectificaciones;
 
 d). Estado de costo de programas;
 
@@ -6180,17 +6600,21 @@ b). Balance general o estado de situación financiera comparativo;
 
 c). Estado de cambios en la situación financiera;
 
-d). Estado de resultados comparativo;
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-e). Estado de detalle del presupuesto de egresos;
+d) Estado de resultados;
 
-f ). Estado analítico de ingresos;
+e). Estado de resultados comparativo;
 
-g). Estado del pasivo titulado;
+f). Estado de detalle del presupuesto de egresos;
 
-h). Estado del patrimonio de organismos descentralizados, y
+g ). Estado analítico de ingresos;
 
-i ). Estado de costos de producción;
+h). Estado del pasivo titulado;
+
+i). Estado del patrimonio de organismos descentralizados, y
+
+j). Estado de costos de producción;
 
 II. Información para integrar el apartado de resultados generales;
 
@@ -6352,7 +6776,7 @@ VI. En caso de que la multa se pague dentro de los 15 días siguientes a la fech
 
 ###### ARTICULO 502.
 
-Las infracciones relacionadas con los padrones de contribuyentes, darán lugar a la imposición de una multa de $60.00 a $105.00, en los siguientes casos:
+Las infracciones relacionadas con los padrones de contribuyentes, darán lugar a la imposición de una multa de $71.00 a $125.00, en los siguientes casos:
 
 I. No solicitar la inscripción o hacerlo extemporáneamente, salvo cuando la solicitud se presente de manera espontánea, y
 
@@ -6360,7 +6784,7 @@ II. No presentar los avisos que establece este Código o hacerlo extemporáneame
 
 ###### ARTICULO 503.
 
-Cuando los contribuyentes de los impuestos sobre espectáculos públicos y loterías, rifas, sorteos y concursos, omitan presentar las licencias o permisos a que se refieren los artículos 167, fracción II y 175, fracción VII, de este Código, según el caso, se les impondrá una multa de $150.00 a $300.00.
+Cuando los contribuyentes de los impuestos sobre espectáculos públicos y loterías, rifas, sorteos y concursos, omitan presentar las licencias o permisos a que se refieren los artículos 167, fracción II y 175, fracción VII, de este Código, según el caso, se les impondrá una multa de $178.00 a $357.00
 
 La sanción prevista en este artículo también se impondrá a quienes presenten extemporáneamente los documentos a que el mismo se refiere.
 
@@ -6368,23 +6792,23 @@ La sanción prevista en este artículo también se impondrá a quienes presenten
 
 A quien cometa las infracciones que a continuación se señalan, relacionadas con la obligación de presentar avisos o manifestaciones, se les impondrá las siguientes multas:
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-I. Por no presentar el aviso de no causación del impuesto sobre adquisición de inmuebles a que se refiere el artículo 161 de este Código, multa de $450.00 a $1,140.00;
+I. Por no presentar el aviso de no causación del impuesto sobre adquisición de inmuebles a que se refiere el artículo 161 de este Código, multa de $535.00 a $1,357.00;
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II. Por no realizar las manifestaciones o presentar los documentos a que se refieren los artículos 167, fracción III y 175, fracción VIII, de este Código, multa de $450.00 a $1,140.00;
+II. Por no realizar las manifestaciones o presentar los documentos a que se refieren los artículos 167, fracción III y 175, fracción VIII, de este Código, multa de $535.00 a $1,357.00;
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III. Por no presentar el aviso a las autoridades competentes, sobre las descomposturas del medidor, en los términos del artículo 200, fracción III, de este Código, tratándose de tomas de uso no doméstico, multa de $86.00 a $150.00; en el caso de tomas de uso doméstico, la multa será en cantidad de $43.00 a $75.00;
+III. Por no presentar el aviso a las autoridades competentes, sobre las descomposturas del medidor, en los términos del artículo 200, fracción III, de este Código, tratándose de tomas de uso no doméstico, multa de $102.00 a $178.00; en el caso de tomas de uso doméstico, la multa será en cantidad de $51.00 a $89.00;
 
 IV. Por presentar solicitudes que sin derecho den lugar a una devolución o compensación, una multa del 10% al 20% de la devolución o compensación indebida, y
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-V. Por no presentar aviso de cambio de domicilio, una multa de $60.00 a $105.00.
+V. Por no presentar aviso de cambio de domicilio, una multa de $71.00 a $125.00
 
 ###### ARTICULO 505.
 
@@ -6392,19 +6816,21 @@ A quien cometa las infracciones relacionadas con la obligación de presentar dec
 
 I. Por no presentar las declaraciones que tengan el carácter de periódicas:
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-a). La mayor que resulte entre $60.00 y el 8% de la contribución que debió declararse tratándose de contribuciones relacionadas con inmuebles de uso habitacional.
+a) La mayor que resulte entre $71.00 y el 8% de la contribución que debió declararse tratándose de contribuciones relacionadas con inmuebles de uso habitacional.
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-b). La mayor que resulte entre $900.00 y el 8% de la contribución que debió declararse, en los casos distintos de los previstos en el inciso anterior.
+b) La mayor que resulte entre $142.00 y el 10% de la contribución que debió declararse, en los casos distintos de los previstos en el inciso anterior.
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II. Por no presentar las declaraciones que tengan un carácter diverso a las de la fracción anterior, la mayor que resulte entre $90.00 y el 8% de la contribución que debió declararse.
+II. Por no presentar las declaraciones que tengan un carácter diverso a las de la fracción anterior, la mayor que resulte entre $107.00 y el 8% de la contribución que debió declararse.
 
 Cuando el monto de la contribución que debió declararse sea inferior a las cantidades señaladas en las fracciones anteriores, el monto máximo de la multa que se imponga será hasta el equivalente a tales cantidades.
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 506.
 
@@ -6446,39 +6872,41 @@ a). En un 25% del monto de las contribuciones omitidas que hayan sido objeto de 
 
 b). En un 20% del monto de las contribuciones omitidas o del beneficio indebido, en el caso de la fracción II del artículo anterior y siempre que el infractor pague o devuelva los mismos con sus accesorios, dentro de los quince días siguientes a la fecha en que surta efectos la notificación de la resolución respectiva. Para aplicar la reducción contenida en este inciso no se requiere modificar la resolución que impuso la multa.
 
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 508 A.- La falta de pago de los aprovechamientos a que se refiere el artículo 267 A, tendrá como consecuencia que no se puedan utilizar para el ejercicio del comercio, las vías y áreas públicas permisionadas o concesionadas y, por lo tanto, se pueda proceder al retiro de las personas que las ocupen, independientemente de las demás sanciones que resulten aplicables.
+
 ###### ARTICULO 509.
 
-A quien cometa las infracciones que a continuación se señalan, relacionadas con la contabilidad, se le impondrá una multa de $600.00 a $1,350.00.
+A quien cometa las infracciones que a continuación se señalan, relacionadas con la contabilidad, se le impondrá las multas siguientes:
 
-I. No llevar algún libro o registro especial, que establezcan las disposiciones fiscales;
+I. De $2,500.00 a $5,000.00, por no llevar algún libro o registro especial, que establezcan las disposiciones fiscales;
 
-II. No hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos o inexactos;
+II. De $600.00 a $1,350.00, por no hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos o inexactos;
 
-III. No conservar la contabilidad a disposición de la autoridad por el plazo que establezcan las disposiciones fiscales, y
+III. De $3,000.00 a $8,000.00, por no conservar la contabilidad a disposición de la autoridad por el plazo que establezcan las disposiciones fiscales;
 
-IV. Microfilmar o grabar en discos ópticos o en cualquier otro medio que autorice la Secretaría, mediante disposiciones de carácter general, documentación o información para efectos fiscales sin cumplir con los requisitos establecidos en las disposiciones relativas.
+IV. De $1,200.00 a $2,500.00, por microfilmar o grabar en discos ópticos o en cualquier otro medio que autorice la Secretaría, mediante disposiciones de carácter general, documentación o información para efectos fiscales sin cumplir con los requisitos establecidos en las disposiciones relativas, y
 
-> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 1995)</small>
-
-V.- Por no dictaminar el cumplimiento de obligaciones fiscales o no presentar el dictamen conforme lo establecen las disposiciones fiscales, habiendo formulado el aviso respectivo, en su caso.
+V. De $5,000.00 a $25,000.00, por no dictaminar el cumplimiento de las obligaciones fiscales o no presentar el dictamen conforme lo establecen las disposiciones fiscales, habiendo formulado el aviso respectivo, en su caso.
 
 ###### ARTICULO 510.
 
-Cuando los notarios, corredores públicos y demás personas que por disposición legal tengan fe pública, así como los jueces, omitan el cumplimiento de cualquiera de las obligaciones previstas a su cargo por los artículos 38 y 161, último párrafo, de este Código, se les impondrá una multa de $675.00 a $1,200.00.
+Cuando los notarios, corredores públicos y demás personas que por disposición legal tengan fe pública, así como los jueces omitan el cumplimiento de cualquiera de las obligaciones previstas a su cargo por los artículos 38 y 161, último párrafo de este Código, se les impondrá una multa de $803.00 a $1,428.00
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 511.
 
-A los fedatarios que no incluyan en el documento en que conste alguna adquisición, la cláusula especial a que se refiere el artículo 161 de este Código, se les impondrá una multa de $675.00 a $1,200.00.
+A los fedatarios que no incluyan en el documento en que conste alguna adquisición, la cláusula especial a que se refiere el artículo 161 de este Código, se les impondrá una multa de $803.00 a $1,428.00
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO VI. De la Evaluación del Gasto Público
 
 ###### ARTICULO 512.
 
-En el caso de que los peritos autorizados para practicar avalúos y las personas morales a que se alude en el artículo 35 de este Código, no se ajusten a los procedimientos y lineamientos técnicos y a los manuales de valuación emitidos por la autoridad fiscal, se les impondrá una multa de $1,200.00 a $2,400.00.
+En el caso de que los peritos autorizados para practicar avalúos y las personas morales a que se alude en el artículo 35 de este Código, no se ajusten a los procedimientos y lineamientos técnicos y a los manuales de valuación emitidos por la autoridad fiscal, se les impondrá una multa de $5,000.00 a $25,000.00
 
 ###### ARTICULO 513.
 
@@ -6486,73 +6914,71 @@ A quienes cometan las infracciones que a continuación se señalan, se les impon
 
 I. Por practicar, encubrir o consentir que se lleven a cabo instalaciones hidráulicas, así como derivaciones de agua, sin la autorización respectiva, así como realizar modificaciones o manipulaciones a los ramales de las tuberías de distribución según el diámetro de la instalación:
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA LA TARIFA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-Diámetro de la MULTA
+Diámetro de MULTA
 
-Instalación
+la instalación
 
 expresada
 
-en milímetros______________
+en milímetros DE A
 
-DE A
+Hasta 13 $857.00 1.714.00
 
-Hasta 13 $720.00 $1,440.00
+Hasta 19 1,023.00 2,047.00
 
-Hasta 19 860.00 1,720.00
+Hasta 26 1,279.00 2,553.00
 
-Hasta 26 1,075.00 2,145.00
+Hasta 32 1,702.00 3,397.00
 
-Hasta 32 1,430.00 2,855.00
+Hasta 39 2,213.00 4,421.00
 
-Hasta 39 1,860.00 3,715.00
+Hasta 51 2,719.00 5,438.00
 
-Hasta 51 2,285.00 4,570.00
+Hasta 64 3,231.00 6,462.00
 
-Hasta 64 2,715.00 5,430.00
+De 64 en adelante 4,213.00 8,431.00
 
-De 64 en 3,540.00 7,085.00
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-adelante
+II. Por comercializar el agua suministrada por el Distrito Federal a través de tomas particulares conectadas a la red pública si en la misma existe aparato medidor, de $1,279.00 a $2,553.00, si no existe o tratándose de tomas de uso no doméstico, la comercialización se hace sin contar con autorización, la multa será de $2,553.00 a $5,105.00;
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II. Por comercializar el agua suministrada por el Distrito Federal a través de tomas particulares conectadas a la red pública si en la misma existe aparato medidor, de $1,075.00 a $2,145.00; si no existe o tratándose de tomas de uso no doméstico, la comercialización se hace sin contar con autorización, la multa será de $2,145.00 a $4,290.00;
+III. Por emplear mecanismos para succionar agua de las tuberías de distribución, de $33,963.00 a $67,919.00, sin perjuicio de pago de la reparación del desperfecto causado, que tendrá el carácter de crédito fiscal;
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III. Por emplear mecanismos para succionar agua de las tuberías de distribución, de $28,540.00 a $57,075.00, sin perjuicio de pago de la reparación del desperfecto causado, que tendrá el carácter de crédito fiscal;
+IV. A quien destruya, altere o inutilice los aparatos medidores o sus aditamentos o violen los sellos de los mismos:
 
-IV. A quien destruya, altere o inutilice los aparatos medidores o viole los sellos de los mismos:
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+a) Tratándose de tomas de uso doméstico o de cualquier toma de agua cuyo diámetro de entrada no sea mayor de 19 milímetros, de $357.00 a $1,309.00
 
-a). Tratándose de tomas de uso doméstico o de cualquier toma de agua cuyo diámetro de entrada no sea mayor de 19 milímetros, de $300.00 a $1,100.00.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-b). Tratándose de toma de agua de uso no doméstico, de $1,200.00 a 7,500.00.
+b) Tratándose de tomas de agua de uso no doméstico, de $1,428.00 a $8,925.00
 
 > <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
 Para los efectos de esta fracción, se considera alteración, entre otros supuestos, el hecho de que se coloque cualquier dispositivo que impida medir correctamente el consumo de agua. Se presume que la alteración es accidental cuando el contribuyente lo comunique a las autoridades fiscales en el bimestre siguiente a aquél en que ocurra, salvo prueba en contrario;
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-V. Por no presentar los avisos a que se refiere el artículo 198 de este Código, la multa será de $290.00 a $580.00 cuando se trate de tomas con diámetro de entrada de 19 milímetros o inferiores y de $580.00 a $1,160.00 para diámetros superiores;
+V. Por no presentar los avisos a que se refiere el artículo 200, fracción VI, de este Código, la multa será de $345.00 a $690.00 cuando se trate de tomas con diámetro de entrada de 19 milímetros o inferiores y de $690.00 a $1,380.00 para diámetros superiores;
 
-> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VI. Por el segundo aviso de descompostura de su medidor, que motive la práctica por las autoridades fiscales de una segunda visita, siempre que en la primera y segunda visita se verifique que el aparato medidor funciona correctamente, la multa será de $75.00, y
+VI. Por el segundo aviso de descompostura de su medidor, que motive la práctica por las autoridades fiscales de una segunda visita, siempre que en la primera y segunda visita se verifique que el aparato medidor funciona correctamente, la multa será de $89.00, y
 
-> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VII. Por derramar azolve a las coladeras, pozos, lumbreras y demás accesorios de la red de drenaje en la vía pública sin la autorización correspondiente, la multa será de $7,000.00 a $10,000.00.
+VII. Por derramar azolve a las coladeras, pozos, lumbreras y demás accesorios de la red de drenaje en la vía pública sin la autorización correspondiente, la multa será de $8,330.00 a $11,900.00
 
 ###### ARTICULO 514.
 
-A quien cometa las infracciones que a continuación se señalan, relacionadas con las facultades de comprobación, se le impondrá una multa de $600.00 a $1,350.00.
+A quien cometa las infracciones que a continuación se señalan, relacionadas con las facultades de comprobación, se le impondrá una multa de $714.00 a $1,606.00
 
 I. Oponerse a que se practique la visita en el domicilio fiscal;
 
@@ -6644,9 +7070,9 @@ IV. Ordene o practique visitas domiciliarias o embargos sin mandamiento escrito 
 
 Comete el delito de defraudación fiscal quien mediante el uso de engaños o aprovechamiento doloso de errores, omita total o parcialmente el pago de alguna contribución prevista en este Código y obtenga un beneficio indebido en perjuicio del Distrito Federal.
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-El delito previsto en este artículo se sancionará, si el monto de lo defraudado no excede de $27,000.00, con prisión de tres meses a un año; si el monto de lo defraudado excede del último monto señalado, pero sea inferior a $54,000.00, con prisión de seis meses a dos años de prisión y cuando exceda de este último monto, la pena será de uno a seis años de prisión.
+El delito previsto en este artículo se sancionará, si el monto de lo defraudado no excede de $32,130.00, con prisión de tres meses a un año; si el monto de lo defraudado excede del último monto señalado, pero sea inferior a $64,260.00, con prisión de seis meses a dos años y cuando exceda de este último monto, la pena será de uno a seis años de prisión.
 
 Para los efectos de este artículo se tomará en cuenta el monto de las contribuciones defraudadas en un mismo año de calendario, aun cuando sean diferentes y se trate de diversas acciones u omisiones.
 
@@ -6670,9 +7096,9 @@ II. Omitan total o parcialmente el pago del impuesto predial;
 
 III. Omitan total o parcialmente el pago del impuesto predial, como consecuencia de la omisión o inexactitud en cuanto a las características físicas de los inmuebles de su propiedad, el destino o uso de los mismos, así como el otorgamiento del uso o goce de dichos bienes a terceros.
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-Los delitos previstos en este artículo se sancionarán, si el monto de lo defraudado no excede de $27,000.00, con prisión de tres meses a un año; si el monto de lo defraudado excede del último monto señalado, pero sea inferior a $54,000.00, con prisión de seis meses a dos años de prisión y cuando exceda de este último monto, la pena será de uno a seis años de prisión.
+Los delitos previstos en este artículo se sancionarán, si el monto de lo defraudado no excede de $32,130.00, con prisión de tres meses a un año; si el monto de lo defraudado excede del último monto señalado, pero sea inferior a $64,260.00, con prisión de seis meses a dos años y cuando exceda de este último monto, la pena será de uno a seis años de prisión.
 
 Las sanciones previstas en este artículo, sólo se aplicarán a los propietarios o poseedores de inmuebles de uso habitacional, cuando hayan omitido total o parcialmente el pago de las contribuciones a su cargo durante un lapso mayor de un año.
 
@@ -6688,15 +7114,19 @@ III. Omitan dolosamente, el pago total o parcial de los citados derechos;
 
 IV. Consignen en las declaraciones que presenten un volumen de agua inferior al realmente consumido;
 
-V. Alteren o destruyan dolosamente un medidor, lo retiren o sustituyan sin autorización de la autoridad competente; imposibiliten su funcionamiento o lectura, o rompan los sellos correspondientes;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VI. Conecten, en tomas de uso no doméstico el servicio de agua sin autorización de la autoridad competente, cuando éste haya sido suspendido, y
+V. Alteren o destruyan dolosamente un medidor o sus aditamentos, lo retiren o sustituyan sin autorización de la autoridad competente; imposibiliten su funcionamiento o lectura, o rompan los sellos correspondientes;
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+VI. Obtengan una toma de agua encontrándose suspendido el suministro, en los términos del artículo 201 de este Código, y
 
 VII. Comercien sin contar con la autorización respectiva, con el agua provista por la autoridad competente, para usos no comerciales.
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-Los delitos previstos en este artículo se sancionarán, si el monto de lo defraudado no excede de $27,000.00, con prisión de tres meses a un año; si el monto de lo defraudado excede del último monto señalado, pero sea inferior a $54,000.00, con prisión de seis meses a dos años de prisión y cuando exceda de este último monto, la pena será de uno a seis años de prisión.
+Los delitos previstos en este artículo se sancionarán, si el monto de lo defraudado no excede de $32,130.00, con prisión de tres meses a un año; si el monto de lo defraudado excede del último monto señalado, pero sea inferior a $64,260.00, con prisión de seis meses a dos años y cuando exceda de este último monto, la pena será de uno a seis años de prisión.
 
 Tratándose de los supuestos previstos en las fracciones I, V, VI y VII de este artículo, se impondrá una sanción hasta de seis años de prisión, siempre que no se pueda cuantificar el monto de lo defraudado.
 
@@ -6714,7 +7144,7 @@ III. Desocupe el lugar donde se hubiera iniciado un procedimiento de comprobaci�
 
 ###### ARTICULO 531.
 
-Se impondrá sanción de tres meses a seis años de prisión al depositario o interventor designado por las autoridades fiscales del Distrito Federal que, con perjuicio del fisco del Distrito Federal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubiesen constituido, si el valor de lo dispuesto no excede de $54,000.00, cuando exceda, la sanción será de tres a nueve años de prisión.
+Se impondrá sanción de tres meses a seis años de prisión al depositario o interventor designado por las autoridades fiscales del Distrito Federal que, con perjuicio del fisco del Distrito Federal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubiesen constituido, si el valor de lo dispuesto no excede de $64,260.00, cuando exceda, la sanción será de tres a nueve años de prisión.
 
 Igual sanción, de acuerdo al valor de dichos bienes, se aplicará al depositario que los oculte o no los ponga a disposición de la autoridad competente.
 
@@ -6734,9 +7164,9 @@ Son correcciones disciplinarias:
 
 I. Apercibimiento, y
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II. Multa que no exceda de $750.00
+II. Multa que no exceda de $892.00
 
 Las conductas indebidas a que se refiere este artículo, por parte de los servidores públicos se sancionarán de acuerdo con lo dispuesto por la Ley Federal de Responsabilidades de los Servidores Públicos.
 
@@ -6864,13 +7294,11 @@ II. El de oposición al procedimiento administrativo de ejecución, y
 
 III. El de oposición de tercero.
 
-> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-Será optativo para los afectados interponer el recurso de revocación previsto en este artículo o impugnar los actos administrativos mencionados ante el Tribunal de lo Contencioso Administrativo. La resolución que se dicte en dichos recursos será también impugnable ante dicho Tribunal.
+Será optativo para los afectados interponer los recursos previstos en este artículo o impugnar los actos administrativos mencionados ante el Tribunal de lo Contencioso Administrativo. La resolución que se dicte en dichos recursos será también impugnable ante dicho Tribunal.
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 1995)</small>
-
-Los recursos establecidos en las fracciones II y III deberán agotarse previamente a la promoción del juicio ante el Tribunal de lo Contencioso Administrativo del Distrito Federal.
+> <small>(DEROGADO PENULTIMO PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 Las resoluciones que se dicten como consecuencia de recursos no establecidos legalmente, serán nulas. Dicha nulidad será declarada, aun de oficio, por la autoridad superior de la que hubiera dictado la resolución si ésta no modifica, en favor del particular, la primera resolución; si hubiera modificación favorable al particular, la nulidad de la nueva resolución sólo podrá ser declarada por el Tribunal de lo Contencioso Administrativo del Distrito Federal.
 
@@ -6928,15 +7356,29 @@ VII. En los casos en que no se amplíe el recurso administrativo o si en la ampl
 
 VIII. En los demás casos en que la improcedencia resulte de alguna disposición de este Código.
 
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 549 A.- Procederá la declaratoria de caducidad, cualquiera que sea el estado del recurso, si transcurridos doscientos días naturales, incluyendo los inhábiles y contados a partir de la fecha en que se haya realizado el último acto procesal, no hubiera promoción del recurrente.
+
+El término de la caducidad sólo se interrumpirá por promociones del recurrente o su representante legal, o por actos de los mismos realizados ante otra autoridad administrativa diversa siempre que tengan relación inmediata y directa con la instancia.
+
 ###### ARTICULO 550.
 
 El recurso se sobreseerá, en los siguientes casos:
 
 I. Por desistimiento del recurrente;
 
-II. Cuando durante la tramitación del recurso aparezca o sobrevenga alguna de las causas de improcedencia a que se refiere el artículo anterior, y
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III. Por muerte o extinción del recurrente, ocurrida durante la tramitación del recurso, si su pretensión es intransferible o si con tales eventos deja sin materia el medio de defensa.
+II. Cuando durante la tramitación del recurso aparezca o sobrevenga alguna de las causas de improcedencia a que se refiere el artículo anterior;
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+III. Por muerte o extinción del recurrente, ocurrida durante la tramitación del recurso, si su pretensión es intransferible o si con tales eventos deja sin materia el medio de defensa, y
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+IV. Por caducidad del procedimiento.
 
 ###### ARTICULO 551.
 
@@ -6968,7 +7410,7 @@ En el caso previsto en la fracción II de este artículo, el recurso podrá hace
 
 ### CAPITULO I. De las Infracciones y Sanciones Relacionadas con los Padrones de Contribuyentes
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 554.
 
@@ -7004,7 +7446,9 @@ El valor de las demás pruebas queda al prudente arbitrio de la autoridad;
 
 II. La autoridad acordará sobre la admisibilidad del recurso y de las pruebas ofrecidas, desechando las que no sean procedentes, dentro del plazo de cinco días, contados a partir de la fecha en que fue presentado o a partir de que el recurrente dio cumplimiento a los requerimientos de la autoridad, según el caso;
 
-III. La autoridad deberá dictar resolución y notificarla en un término que no excederá de cuatro meses contados a partir de la admisión del recurso. Transcurrido dicho plazo sin que se notifique la resolución, se considera que se ha configurado la negativa ficta, y el interesado podrá impugnarla ante el Tribunal de lo Contencioso Administrativo del Distrito Federal, en cualquier tiempo mientras no se notifique la resolución respectiva, o bien esperar a que ésta se dicte;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
+
+III. La autoridad deberá dictar resolución y notificarla en un término que no excederá de cuatro meses contados a partir de la admisión del recurso. Transcurrido dicho plazo sin que se notifique la resolución, se considera que se ha configurado la negativa ficta, y el interesado podrá impugnarla ante el Tribunal de lo Contencioso Administrativo del Distrito Federal, en cualquier tiempo mientras no se notifique la resolución respectiva;
 
 IV. La resolución se fundará en derecho y examinará todos y cada uno de los argumentos hechos valer por el recurrente, teniendo la autoridad la facultad de invocar hechos notorios; pero cuando uno de los argumentos sea suficiente para desvirtuar la validez del acto impugnado, bastará con el examen de ese, y
 
@@ -7032,21 +7476,21 @@ Si la resolución ordena realizar un determinado acto o iniciar la reposición d
 
 ### CAPITULO II. De las Infracciones y Sanciones Relacionadas con la Presentación de Declaraciones e Informes en General
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO III. De las Infracciones y Sanciones Relacionadas con el Pago de Contribuciones
+### CAPITULO III. De las Infracciones y Sanciones Relacionadas con el Pago de Contribuciones y Aprovechamientos
 
 ### CAPITULO IV. De las Infracciones y Sanciones Relacionadas con la Contabilidad
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO V. De las Infracciones y Sanciones Relacionadas con Usuarios de Servicios, Fedatarios y Terceros
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO VI. De las Infracciones y Sanciones Relacionadas con las Facultades de Comprobación
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO VII. Del Destino de las Sanciones Fiscales
 
@@ -7066,7 +7510,7 @@ Si la resolución ordena realizar un determinado acto o iniciar la reposición d
 
 ### CAPITULO VII. De los Delitos Cometidos por Depositarios e Interventores
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO I. Consideraciones Generales
 
@@ -7256,7 +7700,7 @@ DECIMO TERCERO.- Tratándose de transmisiones de propiedad por causa de muerte, 
 
 DECIMO CUARTO.- Las infracciones cometidas antes de la entrada en vigor de este Código, se sancionarán de conformidad con las disposiciones de la Ley de Hacienda del Departamento del Distrito Federal vigente hasta el 31 de diciembre de 1994, a menos que el contribuyente manifieste su voluntad de acogerse a las disposiciones contenidas en el presente Código, por estimarlo más favorable.
 
-DECIMO QUINTO.- El derecho por el uso de vías y áreas públicas para el ejercicio de actividades comerciales a que se refiere el artículo 263 de este Código, se causará a partir del primer día del mes de calendario siguiente a aquél en que la Asamblea de Representantes del Distrito Federal expida el ordenamiento jurídico que regule dichas actividades.
+DECIMO QUINTO.- (DEROGADO, G.O. 31 DE DICIEMBRE DE 1996)
 
 ASAMBLEA DE REPRESENTANTES DEL DISTRITO FEDERAL
 
@@ -8171,3 +8615,201 @@ Obras complementarias; Son aquellas que proporcionan amenidades o beneficios al 
 La autoridad fiscal, mediante reglas de carácter general dará a conocer lo relativo a lo dispuesto en este artículo, en lenguaje llano y mediante folletos ejemplificativos.
 
 > <small>N. DE E. VER CUADROS ANEXOS EN LA GACETA OFICIAL DEL DISTRITO FEDERACION DE FECHA 28 DE DICIEMBRE DE 1995, PAGINAS 42-216.</small>
+
+G.O. 31 DE DICIEMBRE DE 1996.
+
+DISPOSICIONES TRANSITORIAS DEL CODIGO FINANCIERO DEL DISTRITO FEDERAL
+
+Artículo Primero.- Conforme a los artículos 122, Base Segunda, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, y Séptimo Transitorio del Decreto mediante el cual se declaran reformados diversos artículos de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 22 de agosto de 1996, las menciones al Jefe del Distrito Federal en este Código, se entenderán referidas al Jefe de Gobierno del Distrito Federal, a partir del 5 de diciembre de 1997.
+
+Artículo Segundo.- Conforme al Decreto de reformas a la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 22 de agosto de 1996, las menciones a la Asamblea de Representantes del Distrito Federal en este Código, se entenderán referidas a la Asamblea Legislativa, a partir del 17 de septiembre de 1997, de conformidad con el artículo Tercero Transitorio del Decreto de fecha 20 de octubre de 1993, por el que se reforman diversos artículos constitucionales, publicado en el Diario Oficial de la Federación el 25 de octubre de 1993.
+
+Artículo Tercero.- Los contribuyentes que dictaminen su situación fiscal en los términos del artículo 64 de este Código por los últimos tres años calendario, se les exime del pago de contribuciones y recargos de los dos años calendario anteriores a los dictaminados y los recargos de las diferencias que arrojen los dictámenes, siempre que la autoridad fiscal no haya ejercido facultades de comprobación con anterioridad a la presentación del aviso para dictaminar.
+
+Los contribuyentes que deseen acogerse a este beneficio, deberán mencionar en el aviso de dictamen, que éste abarcará los tres últimos años calendario.
+
+Para que el aviso de dictamen surta efectos para lo dispuesto en el presente artículo, deberá ser presentado a más tardar el día anterior a aquél en que la autoridad fiscal ejerza sus facultades de comprobación.
+
+En caso de que la autoridad fiscal ejerza facultades de comprobación con posterioridad a la presentación del dictamen y detecte irregularidades que impliquen la omisión de contribuciones y sus accesorios y éstas no hayan sido reflejadas en el dictamen, quedarán sin efectos los beneficios contenidos en el presente artículo.
+
+Las diferencias que arrojen los dictámenes a que se refiere este artículo, deberán pagarse antes del 31 de octubre de 1997.
+
+Artículo Cuarto.- Para efectos de cumplir con el requisito de presentar la constancia de que se encuentra actualizado respecto de las contribuciones locales, a que se refiere el último párrafo del artículo 64 A de este Código, el Contador Público deberá presentar dentro de los primeros cuatro meses de 1997, en las oficinas de la Secretaría, la constancia que emita el colegio o asociación profesional a que pertenezca.
+
+Artículo Quinto.- El Manual de Trámites y Servicios al Contribuyente a que se refiere el artículo 93, fracción VIII, de este Código, deberá expedirse dentro de los treinta días siguientes a la fecha en que entre el vigor el presente Decreto.
+
+Artículo Sexto.- Tratándose de transmisiones de propiedad por causa de muerte, el impuesto correspondiente se causará conforme se realicen las situaciones jurídicas o de hecho previstas por las leyes fiscales vigentes durante el lapso en que ocurran, a menos que el contribuyente manifieste su voluntad expresa de acogerse a las disposiciones en vigor, contenidas en este Código al tiempo de que el contribuyente exprese su voluntad de acogerse a ellas, por estimarlas más favorables.
+
+Artículo Séptimo.- Para los efectos del artículo 196, fracción II, inciso a), de este Código, la Comisión de Aguas del Distrito Federal, publicará en la Gaceta Oficial del Distrito Federal, dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, la lista de colonias catastrales que cuenten con un 70% o más de tomas con medidor instalado.
+
+Artículo Octavo.- Las autoridades fiscales modificarán durante los dieciocho meses siguientes a la fecha de inicio del presente Decreto, la fecha de pago de los derechos por suministro de agua conforme a lo previsto en el artículo 198, párrafo primero de este Código; en tanto no notifique el cambio de fecha de pago, las autoridades fiscales seguirán enviando boletas o propuestas de determinación de derechos por periodos bimestrales naturales a partir del mes de enero y la fecha límite de pago será el último día del mes siguiente a cada bimestre.
+
+Artículo Noveno.- Respecto de las personas que en 1995 y 1996, no hayan realizado la obra correspondiente y hubieran obtenido el estudio y dictamen técnico de densidad, se podrá prorrogar el estudio mencionado durante 1997 mediante el pago del 10% de la cuota prevista en el artículo 246, fracción III, de este Código, vigente al momento de solicitar dicha prórroga.
+
+Artículo Décimo.-El artículo 549 A del Código Financiero del Distrito Federal, será aplicable a los contribuyentes que se encuentren en el supuesto establecido en el mismo artículo, a la fecha de entrada en vigor del presente Decreto, salvo que promuevan dentro de los treinta días siguientes a su vigencia.
+
+Artículo Décimo Primero.- En el año de 1997, las Reglas Generales a que se refiere el artículo 267 de este Código, se publicarán dentro de los cuarenta días siguientes a la fecha de entrada en vigor del presente Decreto.
+
+Artículo Décimo Segundo.- Se deroga el artículo Décimo Quinto Transitorio vigente a partir del 1o. de enero de 1995, que suspendía la aplicación del Artículo 263 de este Código, hasta en tanto la Asamblea de Representantes del Distrito Federal expidiera el ordenamiento jurídico que regularía las actividades comerciales en vías y áreas públicas.
+
+Artículo Décimo Tercero.- Las cuotas a que se refieren las fracciones I, II y III del artículo 267 A, se aplicarán únicamente a las personas que formen parte de los programas de reordenamiento del comercio en vía pública que aplique la Administración Pública del Distrito Federal, en los cuales no quedarán incluidos los trabajadores no asalariados definidos en los artículos 2o. y 3o. del Reglamento para los Trabajadores no Asalariados del Distrito Federal, ni los comerciantes que utilicen las vías públicas exclusivamente para trasladarse de un lugar a otro y no se asienten en espacios públicos para ofrecer sus mercancías.
+
+> <small>N. DE E. DEBIDO A LA IMPORTANCIA DEL ARTICULO SEGUNDO DEL PRESENTE DECRETO, CONSIDERAMOS PERTINENTE SU TRANSCRIPCIÓN:</small>
+
+ARTICULO SEGUNDO DEL DECRETO
+
+###### ARTICULO SEGUNDO.
+
+Para los efectos de emisión de valores unitarios del suelo, construcciones adheridas a él e instalaciones especiales a que se refiere el Artículo 151 del Código Financiero, se presentan a continuación las siguientes tablas cuya aplicación se hará conforme a las definiciones y normas que se indican:
+
+DEFINICIONES
+
+I. REGION: Es una circunscripción convencional del territorio del Distrito Federal determinada con fines de control catastral de los inmuebles, representada con los tres primeros dígitos del número de cuenta catastral asignado por la autoridad fiscal.
+
+II. MANZANA: Es una parte de una región que regularmente está delimitada por tres o más calles o límites semejantes, representada por los tres siguientes dígitos del mencionado número de cuenta, la que tiene otros dos que representan el lote, que es el número asignado a cada uno de los inmuebles que integran en conjunto una manzana, con tres dígitos o más en el caso de condominios, para identificar a cada una de las localidades de un condominio construido en un lote.
+
+III. COLONIA CATASTRAL: Es una zona de territorio continuo del Distrito Federal, que comprende grupos de manzanas o lotes, la cual tiene asignado un valor unitario de suelo, expresado en pesos por metro cuadrado, en atención a la homogeneidad observable en cuanto a características y valor comercial. Existen dos tipos de colonia catastral: Area de valor y corredor de valor.
+
+a) Colonia catastral tipo área de valor: Grupo de manzanas con características similares en infraestructura, equipamiento urbano, tipo de inmuebles y dinámica inmobiliaria.
+
+Cada área está identificada con la letra A, seguida de seis dígitos, correspondiendo los dos primeros a la delegación respectiva, los tres siguientes a un número progresivo y el último a un dígito clasificador de la colonia catastral.
+
+Dicha clasificación es la siguiente:
+
+0: Colonia catastral que corresponde a áreas periféricas de valor bajo con desarrollo incipiente, con usos del suelo que están iniciando su incorporación al área urbana y con equipamientos y servicios dispersos.
+
+1: Colonia catastral que corresponde a áreas periféricas o intermedias de valor bajo, en proceso de transición o cierta consolidación, con usos del suelo eminentemente habitacionales y con equipamientos y servicios semidispersos y de pequeña escala.
+
+2: Colonia catastral que corresponde a áreas intermedias de valor medio bajo, en proceso de transición o consolidación, con usos del suelo eminentemente habitacionales y/o incipiente mezcla de usos y con equipamientos y servicios semidispersos y de regular escala.
+
+3: Colonia catastral que corresponde a áreas intermedias de valor medio con cierto proceso de transición o en consolidación, con usos del suelo eminentemente habitacionales y/o mezcla de usos y con equipamientos y servicios semiconcentrados y de regular escala.
+
+4: Colonia catastral que corresponde a áreas intermedias o algo céntricas de valor medio con proceso de consolidación o consolidados con usos del suelo habitacionales y/o mezcla de usos y con equipamientos y servicios semiconcentrados y de mediana escala.
+
+5: Colonia catastral que corresponde a áreas intermedias o céntricas de valor medio alto, consolidadas con usos del suelo habitacionales y/o mezcla de usos y con equipamientos y servicios concentrados y de mediana escala.
+
+6: Colonia catastral que corresponde a áreas intermedias o céntricas de valor alto, consolidadas con usos del suelo habitacionales y/o mezcla de usos y con equipamientos y servicios de escala significativa, concentrados en puntos de interacción o corredores próximos.
+
+7: Colonia catastral que corresponde a áreas intermedias o céntricas de valor medio, a alto con usos del suelo mezclados y con equipamientos y servicios semiespecializados y/o especializados de escala significativa concentrados en puntos de interacción o corredores próximos.
+
+8: Colonia catastral que corresponde a áreas intermedias de valor medio a alto, consolidadas, con usos de suelo mezclados y con equipamientos y servicios semiespecializados y de escala regular.
+
+9: Colonia catastral que corresponde a áreas periféricas, con características rurales y con equipamientos y servicios distantes.
+
+b) Colonia catastral tipo corredor de valor: Conjunto de inmuebles que por las características de uso al que se destinan, principalmente no habitacional, (tales como comercial, industrial, servicios, oficinas, entre otros, y/o mixtos -incluyendo habitacional-), y cuyo frente o frentes colindan con una vialidad pública del Distrito Federal, independientemente de su acceso o entrada principal, se ha convertido en un corredor de valor con mayor actividad económica y mayor valor comercial del suelo respecto del predominante de la zona. El valor por metro cuadrado de suelo del corredor de valor se encuentra contenido en el presente Código Financiero.
+
+Cada corredor está identificado con la letra C, seguida de dos dígitos, que corresponden a la delegación, y una literal progresiva.
+
+IV. TIPO: Corresponde a la clasificación de las construcciones, considerando el uso al que se les dedica y el rango de niveles de la construcción, de acuerdo con lo siguiente:
+
+a) Uso: Corresponde al aprovechamiento genérico que tiene el inmueble y se clasifica en:
+
+a) 1.- Construcciones que cuentan con cubiertas o techos (completos o semicompletos).
+
+H: Habitación. L: Hoteles. D: Deportes. C: Comercio. O: Oficinas. S: Salud. Q: Cultura. A: Abasto. I: Industria. K: Comunicaciones.
+
+(H) Habitación.- Se refiere a las edificaciones en donde residen individual o colectivamente las personas o familias y comprende todo tipo de vivienda a la que se incluyen los cuartos de servicio, patios, andadores, estacionamientos, cocheras, jaulas de tendido y elementos asociados a ésta. También se incluyen orfanatorios, asilos, casas cuna y similares.
+
+(L) Hoteles.- Se refiere a las edificaciones destinadas a prestar servicio de alojamiento temporal, comprendiendo hoteles, moteles, casas de huéspedes, albergues y similares.
+
+(D) Deportes.- Se refiere a aquellas edificaciones e instalaciones en donde se practican ejercicios de acondicionamiento físico y/o se realicen y se presenten todo tipo de espectáculos deportivos, tales como: centros deportivos, clubes, pistas, canchas, gimnasios, balnearios, albercas públicas y privadas, academias de aerobics y artes marciales, estadios, autódromos, plazas taurinas, arenas de box y luchas, velódromos, campos de tiro, centros de equitación y lienzos charros, así como instalaciones similares.
+
+(C) Comercio.- Se refiere a las edificaciones destinadas a la compra-venta o intercambio de artículos de consumo y servicios, tales como: tiendas, panaderías, farmacias, boticas, droguerías, tiendas de autoservicio, tiendas departamentales, centros comerciales, venta de materiales de construcción y electricidad, ferreterías, madererías, vidrierías, venta de materiales y pinturas, renta y venta de artículos, maquinaria, refacciones, llantas, salas de belleza, peluquerías, tintorerías, sastrerías, baños, instalaciones destinadas a la higiene física de las personas, sanitarios públicos, saunas y similares, laboratorios fotográficos, servicios de limpieza y mantenimiento de edificios, servicios de alquiler y en general todo tipo de comercios. También incluye a las edificaciones destinadas al consumo de alimentos y bebidas, entre otros: restaurantes, cafeterías, fondas, cantinas, bares, cervecerías, pulquerías, videobares y centros nocturnos, entre otros.
+
+(O) Oficinas.- Se refiere a aquellas edificaciones destinadas al desarrollo empresarial, público o privado, tales como: oficinas empresariales, corporativas, de profesionistas, sucursales de banco, casas de cambio, oficinas de gobierno, representaciones exclusivas para ese uso y sus accesorios, edificios de uso mixto que incluyen vivienda, instalaciones destinadas a la seguridad del orden público y privado, agencias funerarias, de inhumaciones, cementerios, mausoleos y similares, así como despachos médicos de diagnóstico.
+
+(S) Salud.- Se refiere a aquellas edificaciones destinadas a la atención, diagnóstico, tratamiento y rehabilitación de las personas afectadas por enfermedades o accidentes, tales como: unidades médicas, clínicas, hospitales, sanatorios, maternidades, laboratorios clínicos y radiológicos, consultorios, centros de tratamiento de enfermedades crónicas y similares.
+
+(Q) Cultura.- Se refiere a las edificaciones o instalaciones destinadas al desarrollo de actividades culturales, tales como: salas de lectura, hemerotecas y archivos, galerías de arte, museos, centros de exposición, planetarios, observatorios, teatros, auditorios, cines, salas de conciertos, cinetecas, centros de convenciones, casas de cultura, academias de danza, música, pintura y similares. Edificaciones destinadas a la enseñanza básica, media, superior, especial, de investigación, guarderías, jardines de niños, escuelas primarias, secundarias en general, escuelas técnicas y de capacitación, preparatorias, institutos técnicos, vocacionales, politécnicos, tecnológicos, universidades, escuelas normales, centros de estudios de posgrado, centros y laboratorios de investigación, institutos de estudios contables, de cómputo y similares. Así como, las edificaciones destinadas a las actividades de culto religioso, comprende templos, capillas, iglesias, sinagogas, mezquitas y similares.
+
+(A) Abasto.- Se refiere a las edificaciones o instalaciones públicas y privadas destinadas al almacenamiento, venta y distribución de diversos productos, tales como: centros de acopio y transferencia de productos perecederos y no perecederos, bodegas, silos, tolvas, almacenes de granos, de huevo, de lácteos, de abarrotes, centrales y módulos de abasto, rastros, frigoríficos, obradores, mercados, tianguis e instalaciones similares.
+
+(I) Industria.- Se refiere a cualquier instalación o edificación destinada a ser fábrica o taller, relacionada con la industria extractiva, manufacturera y de transformación, de ensamble, de bebidas, de alimentos, agrícola, pecuaria, forestal, textil, del calzado, siderúrgica, metalmecánica, automotriz, química, televisiva, cinematográfica, electrónica y similares. También incluye las instalaciones para el almacenamiento de maquinaria, materias primas y productos procesados, así como aquellas destinadas al alojamiento de equipos e instalaciones relacionadas con los sistemas de agua potable, drenaje, energía eléctrica, servicios de limpia, disposición de desechos sólidos y similares. Comprende también a aquellas destinadas al almacenamiento o suministro de combustible para vehículos o para uso doméstico e industrial, tales como: gasolineras e inmuebles de depósito y venta de gas líquido y combustibles. Asimismo, se incluyen las edificaciones e instalaciones destinadas a prestar servicios de reparación y conservación de bienes muebles y herramientas, tales como: talleres de reparación, lubricación, alineación y balanceo de vehículos, maquinaria, lavadoras, refrigeradores, bicicletas, de equipo eléctrico, vulcanizadoras, carpinterías, talleres de reparación de muebles y similares.
+
+(K) Comunicaciones.- Se refiere a las edificaciones o instalaciones destinadas a transmitir o difundir información, hacia o entre las personas, incluye las edificaciones o instalaciones destinadas al traslado de personas y bienes, así como a los espacios reservados para el resguardo y servicio de vehículos y similares, tales como: correos, telégrafos, teléfonos, estaciones de radio, televisión, y similares, terminales de autobuses urbanos, taxis, peseros, terminales y estaciones de autobuses foráneos y de carga, estacionamientos cubiertos, ya sean públicos o privados, encierros e instalaciones de mantenimiento de vehículos, terminales aéreas, helipuertos, estaciones de ferrocarril, embarcaderos, muelles y demás edificios destinados a la actividad del transporte.
+
+a) 2.- Construcciones que no poseen cubiertas o techos, en uso no habitacional.
+
+b) Rango de Niveles: Corresponde al número de plantas cubiertas y descubiertas de la construcción, conforme a la siguiente clasificación:
+
+CLAVE DESCRIPCION
+
+01 Superficies construidas descubiertas.
+
+02 De 1 a 2 niveles o bien, si no existe una clara distinción de ellos y la construcción tenga una altura de hasta 6.00 metros.
+
+05 De 3 a 5 niveles o bien, si no existe una clara distinción de ellos y la construcción tenga una altura de 6.01 a 15.00 metros.
+
+10 De 6 a 10 niveles
+
+15 De 11 a 15 niveles
+
+20 De 16 a 20 niveles
+
+99 De 21 a más niveles
+
+RU Se aplica a edificaciones sin una clara distinción de niveles tales como naves Rango industriales, bodegas galerones, centros comerciales, restaurantes y estructuras Unico semejantes que excedan una altura de 15.00 metros.
+
+V. CLASE: Es el grupo al que pertenece una construcción de acuerdo con las características propias de sus espacios, servicios, estructura e instalaciones básicas, así como de los acabados típicos que le corresponden, la cual tiene asignado un valor unitario de construcción. Se divide en Habitacional y No Habitacional.
+
+a) HABITACIONAL
+
+1. Precaria. Cuartos de usos múltiples (dormitorio, comedor y preparación de alimentos); servicios mínimos incompletos (letrinas o sanitarios en la mayoría de los casos fuera del cuerpo principal de la construcción); procedimientos informales de construcción; muros desplantados directamente sobre el suelo, habilitados con mamposterías (tabiques y piedra de desecho) sin refuerzos horizontales y verticales; con techos predominantemente de láminas metálicas, cartón, asbesto o similares apoyados en viguetería (madera y/o fierro); pisos habilitados con pedacerías de mamposterías (tabiques y piedras), o firmes de mezcla pobre en cemento-arena y/o concreto simple; muros aparentes o aplanados escasos con mezcla o yeso; herrería y cancelería de fierro, perfiles sencillos de desecho; vidriería incompleta; instalaciones básicas incompletas y/o visibles (eléctrica e hidráulica).
+
+2. Económica. Espacios con algunas diferenciaciones por uso (sala-comedor, recámara(s) y cocineta o cocina); servicios mínimos completos (generalmente un baño); con procedimientos formales de construcción o de autoconstrucción; estructura a base de muros de carga de espesor propios de esta clase, con refuerzos horizontales y verticales de concreto armado y/o marcos rígidos de concreto armado, acero, o mixtas; techos y/o entrepisos de concreto armado, maderas, terrados, bóvedas y similares, con claros cortos no mayores de 3.5 mts.; pisos habilitados con firmes de mezclas de cemento-arena y/o concreto simple, con acabados escobillados o en cemento pulido, o en su caso para recibir a otros materiales: losetas vinílicas delgadas (hasta 3 mm.), mosaicos de pasta coloreados y/o losetas de cerámica de pequeñas dimensiones (generalmente 20 x 20 cm.), alfombras pequeñas y delgadas de pelo ralo; muros refractarios o con acabados aparentes o aplanados de mezcla y/o de yeso, lisos, generalmente con pintura; herrería y cancelería de fierro y/o aluminio de perfiles sencillos; vidrios pequeños y delgados; instalaciones básicas completas visibles u ocultas (hidráulica, sanitaria, eléctrica y gas).
+
+3. Media. Espacios diferenciados por su uso (sala, comedor, recámara(s), cocina); servicios completos (generalmente baño y medio baño, cuarto de servicio); con procedimientos formales de construcción; estructura a base de muros de carga de espesor propio de esta clase, con refuerzos horizontales y verticales de concreto armado, y/o marcos rígidos de concreto armado, acero, o mixtas; techos y/o entrepisos de concreto armado, maderas, terrados, bóvedas y similares, con claros cortos no mayores de 4.00 mts.; pisos habilitados con firmes de mezclas de cemento-arena y/o concreto simple, con acabados tales como: losetas vinílicas de más de 3 mm. de espesor, mosaicos de pasta coloreados y/o con dibujos, losetas de granito y losetas cerámicas (generalmente de 30x30 cms.), alfombras de tránsito intenso duelas de pino; muros refractarios o con acabados aparentes barnizados, y/o con aplanados de mezcla o de yeso, lisos o con pasta hecha en obra (tirol planchado o rústico), pintura, tapices vinílicos, lambrines a mediana altura de madera de pino (duelas machihembradas y/o triplay ranurado), azulejos lisos o marmoleados; herrería y cancelería de fierro y/o aluminio en perfiles tubulares y/o madera de pino; vidrios medio dobles y traslúcidos (sic) o con dibujo principalmente en baños; instalaciones básicas completas ocultas (hidráulica, sanitaria, eléctrica y gas).
+
+4. Buena. Espacios totalmente diferenciados por usos e inclusión de áreas complementarias (estudio, despacho, sala de t.v.); servicios completos (dos o más baños, cuarto de servicio y/o cuarto de lavado y/o planchado); con procedimientos constructivos formales; estructura a base de muros de carga de espesor propio de esta clase, con refuerzos horizontales y verticales de concreto armado, y/o marcos rígidos de concreto armado, acero, o mixtas; techos y/o entrepisos de concreto armado, maderas, terrados, bóvedas y similares, con claros cortos mayores de 4.00 mts.; pisos con recubrimientos de primera calidad: terrazos, mármol y losetas cerámicas de 30x30 cms o mayores, alfombras gruesas de pelo alto; duelas machihembradas, parquet: de maderas tropicales, caoba, cedro, encino; muros con acabados tales como: aplanados de mezcla y/o de yeso, lisos o rústicos y/o con esgrafiados de pastas pigmentadas (de marca), pinturas de alta calidad, tapices vinílicos y/o tela, lambrines a media altura de maderas tropicales, caoba, cedro, encino, azulejos biselados, mármoles, y elementos decorativos; herrería y/o cancelería de fierro forjado, perfiles tubulares de grueso calibre, aluminio adonizado, calibres gruesos, y/o madera finas con tratamiento para intemperie; vidrios especiales y/o cristales diversos, espejos, domos, vitrales, emplomados, acrílicos; instalaciones completas y algunas especiales (tina de hidromasaje, intercomunicación).
+
+5. Muy buena. Espacios totalmente diferenciados y especializados por uso, presentando múltiples áreas complementarias (biblioteca, estudio, despacho, desayunador, terrazas, sala de juegos, gimnasio, alberca, vestidores, lavandería, planchado, cuarto de máquinas, cuartos de servicio, etc.); con procedimientos constructivos especializados; estructura a base de muros de carga de espesor propio de esta clase, con refuerzos horizontales y verticales de concreto armado, y/o marcos rígidos de concreto armado, acero, o mixtas; techos y/o entrepisos de concreto armado, metálicos, maderas, terrados, bóvedas y similares; con algunos entrepisos a doble altura o más, claros cortos mayores a 4.00 mts., sótanos; pisos con recubrimientos de lujo tales como: placas de mármol, y/o cerámicas de grandes dimensiones (con entrecalles o biseladas), adoquines, canteras, alfombras y/o tapetes gruesos anudados o de pelo alto; duelas machihembradas y parquet de maderas: tropicales, caoba, cedro, encino; muros con acabados tales como: aplanados con mezcla y/o con yeso, lisos o rústicos y/o con esgrafiados de pastas pigmentadas (de marca), en su caso pinturas de alta calidad, tapices de tela o seda, lambrines de piso a techo de maderas tropicales, caoba, cedro encino; herrería y/o cancelería de fierro forjado, perfiles tubulares de grueso calibre, aluminio adonizado, calibres gruesos, y/o madera finas con tratamiento para intemperie; vidrios especiales y/o cristales diversos, espejos, domos, vitrales, emplomados, acrílicos; profusión de instalaciones básicas y complementarias tales como tinas de hidromasaje, sonido ambiental, aire acondicionado o lavado, intercomunicación, seguridad.
+
+b) USO NO HABITACIONAL
+
+1. Precaria. Cuartos de usos múltiples o espacios sin diferenciación por uso; servicios mínimos incompletos (sanitarios o de aseo); no existen procedimientos formales de construcción; muros desplantados directamente en el suelo habilitados con mamposterías (tabiques y piedra de desecho) sin refuerzos horizontales y verticales; con techos predominantemente de láminas de secciones pequeñas metálicas, cartón, asbesto o similares; pisos de tierra, y/o habilitados con pedacerías de mamposterías (tabiques y piedras), o firmes de mezcla pobre en cemento-arena y/o concreto simple; muros aparentes o aplanados escasos con mezcla o yeso; herrería y cancelería de fierro perfiles sencillos; vidrios pequeños y delgados; instalaciones básicas incompletas y/o visibles (eléctrica e hidráulica).
+
+Incluye los usos no habitacionales que pudieran ubicarse en una edificación con uso habitacional de clase precaria, tales como tiendas, talleres y otros servicios básicos.
+
+No incluye industrias, bodegas, mercados, centros comerciales y similares.
+
+2. Económica. Espacios con algunas diferenciaciones por uso (áreas de servicio, oficinas, bodegas, etc.); servicios mínimos completos (sanitarios, de aseo); con procedimientos formales de construcción o de autoconstrucción; estructura a base de muros de carga de espesor propio de esta clase, con refuerzos horizontales y verticales de concreto armado y/o marcos rígidos de concreto armado, acero, o mixtas; techos de láminas de secciones pequeñas metálicas, asbesto y similares, de concreto armado, prefabricados, maderas, terrados, bóvedas y similares; con entrepisos de concreto armado, prefabricados, maderas, terrados, bóvedas y similares; pisos de materiales compactados, y/o habilitados con firmes de mezclas de cemento-arena y/o concreto simple, con acabados escobillados o en cemento pulido, o en su caso para recibir a otros materiales: losetas vinílicas delgadas (hasta 3 mm.), mosaicos de pasta coloreados y/o losetas de cerámica de pequeñas dimensiones (generalmente 20 x 20 cm.), alfombras pequeñas y delgadas de pelo ralo; muros refractarios o con acabados aparentes o aplanados de mezcla y/o de yeso, lisos, generalmente con pintura; herrería y/o cancelería de fierro o aluminio, en perfiles sencillos y/o madera de pino de espesores delgados; vidrios pequeños y delgados; instalaciones básicas completas visibles u ocultas (hidráulica, sanitaria, eléctrica y gas).
+
+Incluye los usos no habitacionales que pudieran ubicarse en una edificación con uso habitacional de clase económica tales como tiendas, talleres, locales comerciales y otros servicios.
+
+3. Media. Espacios diferenciados por su uso; servicios completos; con procedimientos formales de construcción; con estructura de acero o prefabricados con alturas de entrepiso o techos mayores a 3 mts. y/o estructura a base de muros de carga de espesor propios de esta clase con refuerzos horizontales y verticales de concreto armado, y/o marcos rígidos de concreto armado, con alturas de entrepisos o techos de 2.30 mts. o más; con techos de láminas de secciones regulares metálicas, asbestos y similares, de concreto armado, prefabricados, maderas, terrados, bóvedas y similares; con entrepisos de concreto armado, prefabricados, maderas, terrados, bóvedas o similares; pisos habilitados con firmes de mezclas de cemento-arena y/o concreto simple con acabados tales como: cemento pulido o escobillado, losetas vinílicas de más de 3 mm. de espesor, mosaicos de pasta, coloreados y/o con dibujos, losetas de granito, de terrazo, y/o cerámicas (generalmente de 30x30 cms.), alfombras de tránsito intenso, duelas de pino; muros refractarios o con acabados aparentes barnizados y/o con aplanados de mezcla o de yeso, lisos o con pasta hecha en obra (tirol planchado o rústico), pintura, tapices vinílicos, lambrines a mediana altura de madera de pino (duelas machihembradas y/o triplay ranurado); azulejos lisos o marmoleados; herrería y cancelería de fierro y/o aluminio en perfiles tubulares y/o madera de pino de espesores regulares; con vidrios medios dobles y translúcidos; servicios e instalaciones completas y algunas especiales para el uso establecido.
+
+4. Buena. Espacios totalmente diferenciados y adecuados a su uso e inclusión de usos no indispensables para el tipo de construcción; servicios completos; con procedimientos constructivos formales; con estructura de acero o prefabricados con alturas de entrepiso o techo mayores a 3 mts. y/o estructura a base de muros de carga de espesor propio de esta clase, o mayores, con refuerzos horizontales y verticales de concreto armado, y/o marcos rígidos de concreto armado, con alturas de entrepisos o techos de 2.30 mts. o más, con techos de láminas estructurales de secciones regulares o grandes, metálicas, asbestos y similares, de concreto armado, prefabricados, maderas, terrados, bóvedas y similares; con entrepisos de concreto armado, prefabricados metálicos, maderas, terrados, bóvedas o similares; pisos habilitados con firmes de mezclas de cemento-arena y/o concreto armado y/o con recubrimientos de primera calidad, terrazos, mármoles y/o losetas cerámicas antiderrapantes de 30x30 cms. o mayores, alfombras gruesas de pelo alto; duelas machihembradas, parquet: de maderas tropicales, caoba, cedro, encino; muros con acabados tales como: aplanados de mezcla y/o de yeso, lisos o rústicos y/o con esgrafiados de pastas pigmentadas (de marca), pinturas de alta calidad, tapices vinílicos y/o tela, lambrines a media altura de maderas tropicales, caoba, cedro, encino, azulejos biselados, mármoles, y algunos elementos decorativos; herrería y/o cancelería de fierro forjado, perfiles tubulares de grueso calibre, aluminio adonizado, calibres gruesos, y/o madera finas con tratamiento para intemperie; vidrios especiales y/o cristales diversos, espejos, domos, vitrales, emplomados, acrílicos; instalaciones completas y especiales para el uso establecido.
+
+5. Muy buena. Espacios amplios totalmente diferenciados y especializados a su uso e inclusión de usos no indispensables para el tipo de construcción; con procedimientos constructivos especializados; con estructura de acero o prefabricados con alturas de entrepiso o techo mayores a 3 mts. y/o estructura a base de muros de carga de espesor propio de esta clase con refuerzos horizontales y verticales de concreto armado, y/o marcos rígidos de concreto armado, con alturas de entrepisos o techos de 2.30 mts. o más, con techos de láminas estructurales reforzadas de secciones especiales metálicas, asbesto y similares, de concreto armado, prefabricados, maderas, terrados, bóvedas y similares; con entrepisos de concreto armado prefabricados, maderas, terrados, bóvedas o similares, sótanos; pisos habilitados de concreto armado y/o recubrimientos de lujo tales como: placas de mármol, y/o cerámicas de grandes dimensiones (con entrecalles o biseladas), adoquines, canteras, alfombras y tapetes gruesos anudados o de pelo alto; duelas machihembradas y parquet: de maderas tropicales, caoba, cedro, encino; muros con acabados tales como: aplanados con mezcla y/o con yeso, lisos o rústicos y/o con esgrafiados de pastas pigmentadas (de marca), en su caso pinturas de alta calidad, tapices de tela o seda, lambrines de piso a techo de maderas tropicales, caoba, cedro encino; herrería y cancelería de fierro forjado, perfiles tubulares de grueso calibre, aluminio adonizado, calibres gruesos, y/o madera finas con tratamiento para intemperie; vidrios especiales y/o cristales diversos, espejos, domos, vitrales, emplomados, acrílicos; profusión de instalaciones básicas, complementarias y especiales (inteligente).
+
+NORMAS DE APLICACION
+
+1. Para la aplicación de la Tabla de Valores Unitarios de Suelo a un inmueble específico, se determinará primero la Delegación a que corresponda. Según su ubicación se constatará si se encuentra comprendido dentro de la Tabla de Colonia Catastral de tipo Corredor, de ser este el caso le corresponderá al inmueble el valor unitario por metro cuadrado respectivo. En caso contrario se determinará la región con los tres primeros dígitos del número de cuenta catastral y su Manzana con los tres siguientes dígitos del mismo número de cuenta, a los cuales deberá corresponder una Colonia Catastral de tipo Area con un valor unitario por metro cuadrado. El valor unitario que haya correspondido se multiplicará por el número de metros cuadrados de terreno, con lo que se obtendrá el valor total del suelo del inmueble.
+
+2. Para la aplicación de la Tabla de Valores Unitarios de las construcciones, la edificación se colocará en el Tipo y Clase que le correspondan para multiplicar después el valor asignado por el número de metros cuadrados construidos, con lo que se obtendrá el valor total de la edificación.
+
+En el caso de que la edificación tenga diversos Tipos y Clases, en los inmuebles de uso habitacional se considerará el tipo de construcción que predomine en el mismo y en los inmuebles con usos diversos se hará la aplicación de la Tabla de Valores Unitarios de las construcciones según corresponda a cada uno de ellos, sumando después los resultados para obtener el valor total de la construcción.
+
+Al resultado obtenido se le aplicará una reducción según el número de años transcurridos desde que se terminó la construcción o desde la última reparación, remodelación o mantenimiento que conserve a las construcciones en buen estado, en razón de 1% por cada año transcurrido, sin que en ningún caso se descuente más del 40%.
+
+3. Cuando el inmueble sea de uso distinto al habitacional y cuente con instalaciones especiales, elementos accesorios y obras complementarias el valor resultante de aplicar lo señalado en el numeral 2, se incrementará en 8%.
+
+Instalaciones especiales; aquellas que se consideran indispensables o necesarias para el funcionamiento operacional del inmueble de acuerdo a su uso específico: Tales como, elevadores, escaleras electromecánicas, equipos de calefacción o aire lavado, sistema hidroneumático, antenas parabólicas, equipos contra incendio, caldera en un hotel y baños públicos, espuela de ferrocarril en industrias, pantalla en un cinematógrafo, planta de emergencia en un hospital, butacas en una sala de espectáculos, entre otros. Obras complementarias; son aquellas que proporcionan amenidades o beneficios al inmueble, como son: Bardas, celosías, marquesinas, cisternas, equipos de bombeo, gas estacionario, entre otros.
+
+Obras complementarias; Son aquellas que proporcionan amenidades o beneficios al inmueble, como son: Bardas, celosías, patios y andadores, marquesinas, cisternas, equipos de bombeo, gas estacionario, entre otros.
+
+4. El valor del suelo del inmueble, de sus construcciones y de sus instalaciones especiales, según sea el caso, se sumarán para obtener el valor catastral del inmueble.
+
+La autoridad fiscal, mediante reglas de carácter general dará a conocer lo relativo a lo dispuesto en este artículo, en lenguaje llano y mediante folletos ejemplificativos.
+
+> <small>N. DE E. VER CUADROS ANEXOS A LA PRESENTE REFORMA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DE 31 DE DICIEMBRE DE 1996, PAGINAS 60-235.</small>
+
+## TRANSITORIOS
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día primero de enero de 1997.
+
+###### ARTICULO SEGUNDO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal para su observancia y en (sic) Diario Oficial de la Federación para su mayor difusión.
