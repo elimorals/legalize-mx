@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-manzanillo-colima-26795"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2002-11-11"
+last_updated: "2003-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2003.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -79,7 +79,23 @@ IV. Congreso, al Congreso del Estado de Colima; y
 
 V. Código, al Código Fiscal Municipal.
 
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2003)</small>
+
+VI. Municipio, al Municipio Libre de Manzanillo, Colima;
+
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2003)</small>
+
+VII. Ayuntamiento, al Ayuntamiento Constitucional de Manzanillo, Colima
+
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2003)</small>
+
+VIII. Cabildo, al Presidente Municipal, los Regidores y el Síndico del Ayuntamiento Constitucional de Manzanillo, Colima.
+
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2006)</small>
+
 Los días a que se refiere este ordenamiento, se computarán en hábiles, salvo disposición en contrario.
+
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2006)</small>
 
 A falta de disposición expresa de esta Ley que regule una situación fiscal determinada, se aplicarán supletoriamente, en ese orden, los códigos fiscales del Municipio y del Estado, la Ley de Hacienda del Estado, las leyes federales o, en su defecto, las normas de derecho común.
 
@@ -343,9 +359,11 @@ A petición del contribuyente se pondrá el valor de la transacción, siempre y 
 
 En los casos en que se transmita la nuda propiedad de inmuebles, la base del impuesto será el 50 por ciento del valor aplicable. Al extinguirse el usufructo se pagará el impuesto que resulte del otro 50 por ciento del valor catastral.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2003)</small>
+
 ###### ARTICULO 27.
 
-La base del impuesto será el 50 por ciento del valor del inmueble, en los siguientes casos:
+La base del impuesto será tasa cero, en los siguientes casos:
 
 I. En las donaciones entre ascendientes o descendientes en línea recta en primer y segundo grados y entre consortes;
 
@@ -391,7 +409,9 @@ I. Los nombres y domicilios de los contratantes o del adquirente, en su caso;
 
 II. Fecha en que se extendió la escritura pública y su número, fecha de la resolución administrativa o judicial y fecha en que se causó ejecutoria, en su caso;
 
-III. Nombre del notario público ante quien se haya exten (sic), al apliccritura (sic) o indicación de qué autoridad dictó la resolución;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2003)</small>
+
+III. Nombre del notario público ante quien se haya extendido la escritura o indicación de qué autoridad dictó la resolución;
 
 IV. La naturaleza o concepto del hecho, acto, operación o contrato.
 
@@ -569,7 +589,11 @@ g) Entregar a la Tesorería Municipal el boletaje sobrante para que sea inutiliz
 
 h) Permitir a los interventores designados por la Tesorería Municipal la verificación y determinación de la base gravable y del impuesto causado; y
 
-i) En general, adoptar las medidas de control que para la correcta determinación de este impuesto establezca la Tesorería Municipal.
+i) En general, adoptar las medidas de control que para la correcta determinación de este impuesto establezca la Tesorería Municipal;
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2003)</small>
+
+j) Pagar a la Tesorería Municipal por cada interventor y por cada evento, de tres a diez unidades de salario mínimo.
 
 ###### ARTICULO 49.
 
@@ -673,6 +697,10 @@ b) Habitacional densidad media:
 
 3.- Vivienda plurifamiliar vertical 0.10
 
+(ADICIONADO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 15 DE MAYO DE 2006)
+
+4.- Vivienda unifamiliar en usos mixtos 0.08
+
 c) Habitacional densidad baja:
 
 1.- Vivienda campestre o aislada 0.19
@@ -743,6 +771,14 @@ i) Manufacturas y usos industriales:
 
 j) Otros 0.00 a 0.50
 
+(ADICIONADO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 15 DE MAYO DE 2006)
+
+k) Habitacional densidad baja zona residencial 0.63
+
+(ADICIONADO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 15 DE MAYO DE 2006)
+
+l) Habitacional en usos mixtos 0.34
+
 III. Permiso para demolición, incluyendo la inspección de la obra de acuerdo a la siguiente tarifa:
 
 a) En el caso de muros y/o bardas por metro lineal 0.22
@@ -759,7 +795,11 @@ c) De paso cubierto 1.09
 
 d) Otros 1.63
 
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2006)</small>
+
 V. Permiso para la construcción de albercas, por metro cúbico de capacidad 0.55
+
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2006)</small>
 
 VI. Permiso para bardeos, de acuerdo a la siguiente clasificación, por metro lineal:
 
@@ -782,6 +822,10 @@ h) Abastos, almacenamientos y talleres 0.03
 i) Manufacturas y usos industriales 0.03
 
 j) Otros de 0.03 a 0.15
+
+(ADICIONADO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 22 DE FEBRERO DE 2003) (F. DE E., P.O. 15 DE MAYO DE 2006)
+
+(sic) k) Habitacional densidad baja en zona residencial 0.10
 
 VII. Los pagos de las licencias contempladas en este artículo previo dictamen de la dependencia municipal competente, cuando se trate de trabajos a consecuencia de fenómenos naturales 0.00
 
@@ -909,6 +953,14 @@ j) Zona rural 0.05
 
 k) Otros de 0.06 a 0.31
 
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+l) Habitacional densidad baja en zona residencial 0.28
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+m) habitacional en usos mixtos 0.11
+
 II. Designación del número oficial, por evento, según el tipo de construcción:
 
 a) Habitacional densidad alta 0.36
@@ -965,7 +1017,9 @@ i) Turístico 0.19
 
 j) Otros de 0.05 a 0.19
 
-IV. Dictamen de vocación del suelo, por evento:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2003)</small>
+
+IV. Dictamen de vocación del uso de suelo, por evento;
 
 A) De uso y destino para certificaciones en general y en particular:
 
@@ -1022,6 +1076,10 @@ i) Manufacturas y usos industriales
 5.- Industria pesada de alto impacto y riesgo 3.63
 
 j) Otros de 7.26 a 24.20
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+k) Habitacional densidad baja en zona residencial 9.68
 
 Además de las cuotas previstas en el presente inciso, los solicitantes de este servicio pagarán los derechos por alineamiento y designación de número oficial de acuerdo a las cuotas señaladas en las fracciones I y II de este artículo.
 
@@ -1169,6 +1227,10 @@ g) Habitacional en comunidad rural, que cuenten con un programa de desarrollo ur
 
 h) Otros de 0.05 a 0.16
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2003)</small>
+
+i) Habitacional densidad baja zona residencial 0.16
+
 III. Permiso para relotificación de predios, por metro cuadrado resultante según su categoría:
 
 a) Habitacional densidad alta 0.08
@@ -1243,9 +1305,11 @@ j) Otros de 0.05 a 0.24
 
 Las áreas de estacionamiento comprendidas en las categorías en los incisos e), f), g), h) e i), se considerará en el cobro, con el 10 por ciento de las mismas tarifas de acuerdo a la superficie habilitada para este servicio.
 
-VII. Por la supervisión de las obras de urbanización se cobrará el 2.5% del valor catastral del predio.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2003)</small>
 
-En caso de que el promotor no asigne supervisor para los trabajos de urbanización, el Ayuntamiento realizará la supervisión de las obras. En este caso, el promotor pagará al Ayuntamiento aplicando la tasa del cuatro por ciento del valor catastral del predio.
+VII. Por la supervisión de las obras de urbanización se cobrará hasta el 2.5% del valor catastral del predio.
+
+En caso de que el promotor no asigne supervisor para los trabajos de urbanización, el Ayuntamiento realizará la supervisión de las obras. En este caso, el promotor pagará al Ayuntamiento aplicando la tasa del cuatro por ciento del valor catastral del predio;
 
 VIII. Por la incorporación municipal de predios rústicos interurbanos a zona urbana, de conformidad con la Ley de Asentamientos Humanos del Estado, se pagará el monto que se determine en función del estudio técnico elaborado por la dependencia municipal competente, por lote:
 
@@ -1302,6 +1366,30 @@ d) Corresponsable de obra (persona moral) 112.13
 e) Perito Urbano 200.00
 
 f) Perito en edificación 200.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+g) Perito urbano en proyecto de urbanización 56.06
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+h) Perito urbano en proyecto de edificación 56.06
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+i) Perito urbano en obras de urbanización 56.06
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+j) Perito urbano en obras de edificación 56.06
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+k). Perito en supervisión municipal de obras de urbanización 56.06
+
+(ADICIONADO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 22 DE FEBRERO DE 2003)
+
+l) Perito en supervisión municipal de obras de edificación 56.06
 
 Por refrendos a los registros dentro del período autorizado se causará el 50 por ciento del importe de la tarifa en vigor.
 
@@ -1577,6 +1665,98 @@ a) Por la expedición de licencias de funcionamiento, por ejercicio fiscal, por 
 
 36.- Otros giros no especificados 23.00 a 1000.00
 
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+37.- Abarrotes con venta de cerveza, vinos y licores 100
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+38.- Abarrotes con venta de cerveza 50
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+39.- Bar folklórico 300
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+40.- Bebidas preparadas para llevar 300
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+41.- Billares con venta de cerveza 50
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+42.- Cafetería con venta de cerveza 50
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+43.- Casinos, clubes sociales y similares De 50 a 500
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+44.- Cenadurías A 50
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+45.- Cenadurías B 25
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+46.- Centros de espectáculos 400
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+47.- Cocina económica con venta de cerveza 50
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+48.- Disco-bar 600
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+49.- Farmacias con venta de cerveza 50
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+50.- Farmacias con venta de cerveza, vinos y licores 100
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+51.- Lonchería con venta de cerveza 23
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+52.- Marisquería A 50
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+53.- Marisquería B 25
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+54.- Moteles A 500
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+55.- Moteles B 200
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+56.- Ramada en zona de playa con venta de cerveza 25
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+57.- Ramada en zona de playa con venta de cerveza, vinos y licores 60
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+58.- Snack-bar 300
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+59.- Venta de carnitas con cerveza 50
+
 En zona rural, por cada uno:
 
 1.- Tienda de abarrotes con venta de cerveza y mezcal 25.00
@@ -1590,6 +1770,14 @@ En zona rural, por cada uno:
 5.- Salón para fiestas 50.00
 
 6.- Ramadas 60.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+7.- Abarrotes con venta de cerveza 25
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+8.- Abarrotes con venta de cerveza vinos y licores 75
 
 b) Por el refrendo anual de licencias de funcionamiento se pagará el 50 por ciento del costo total por expedición de la licencia correspondiente;
 
@@ -1657,6 +1845,126 @@ c) Por la expedición de permisos para el funcionamiento temporal de establecimi
 
 31.- Otros giros no especificados 2.00 a 11.00
 
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+32.- Abarrotes y autoservicio con venta de cerveza, vinos y licores 4.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+33.- Abarrotes con venta de cerveza 2.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+34.- Bar folklórico 11.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+35.- Bebidas preparadas para llevar 11.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+36.- Billares con venta de cerveza 2.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+37.- Cafetería con venta de cerveza 2.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+38.- Casinos, clubes sociales y similares 10.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+39.- Cenadurías A 3.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+40.- Cenadurías B 3.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+41.- Centros nocturnos con baile de pasarela 5.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+42. Centros de espectáculos 4.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+43.- Cocina económica con venta de cerveza 3.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+44.- Disco-bar 6.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+45.- Farmacias con venta de cerveza 5.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+46.- Farmacias con venta de cerveza, vinos y licores 4.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+47.- Hoteles de 1 estrella 4.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+48.- Hoteles de 2 a 3 estrellas 4.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+49.- Hoteles de 4 a 5 estrellas 8.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+50.- Locales para fiesta tipo "A" 5.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+51.- Locales para fiesta tipo "B" 4.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+52.- Lonchería con venta de cerveza 1.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+53.- Marisquería A 3.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+54.- Marisquería B 3.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+55.- Moteles A 15.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+56.- Moteles B 10.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+57.- Ramada en zona de playa con venta de cerveza 2.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+58.- Ramada en zona de playa con venta de cerveza, vinos y licores 6.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+59.- Refresquería con venta de cerveza en mercados públicos 2.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+60.- Snack-bar 5.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+61.- Venta de carnitas con cerveza 50.00
+
 d) Por la expedición de autorizaciones de funcionamiento en horario extraordinario, de establecimientos en los que expendan bebidas alcohólicas, por cada hora:
 
 1.- Agencias 10.00
@@ -1721,6 +2029,122 @@ d) Por la expedición de autorizaciones de funcionamiento en horario extraordina
 
 31.- Otros giros no especificados 0.80 a 15.00
 
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+32.- Abarrotes y autoservicio con venta de cerveza, vinos y licores 4.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+33.- Abarrotes con venta de cerveza 2.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+34.- Bar folklórico 3.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+35.- Bebidas preparadas para llevar 3.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+36.- Billares con venta de cerveza 2.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+37.- Cafetería con venta de cerveza 2.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+38.- Casinos, clubes sociales y similares 15.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+39.- Cenadurías A 1.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+40.- Cenadurías B 1.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+41.- Centros nocturnos con baile de pasarela 5.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+42.- Centros de espectáculos 4.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+43.- Cocina económica con venta de cerveza 3.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+44.- Disco-bar 5.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+45.- Farmacias con venta de cerveza 5.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+46.- Farmacias con venta de cerveza, vinos y licores 4.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+47.- Hoteles de 1 estrella 4.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+48.- Hoteles de 2 a 3 estrellas 4.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+49.- Hoteles de 4 a 5 estrellas 5.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+50.- Locales para fiesta tipo "A" 4.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+51.- Locales para fiesta tipo "B" 2.50
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+52.- Lonchería con venta de cerveza 1.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+53.- Marisquería A 1.50
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+54.- Marisquería B 1.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+55.- Moteles A 4.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+56.- Moteles B 4.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+57.- Ramada en zona de playa con venta de cerveza 2.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+58.- Ramada en zona de playa con venta de cerveza, vinos y licores 5.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+59.- Snack-bar 4.00
+
+(ADICIONADO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 22 DE FEBRERO DE 2003)
+
+60.- Venta de carnitas con cerveza 3.00
+
 e) Por la autorización de:
 
 CAMBIO DE DOMICILIO:
@@ -1744,6 +2168,148 @@ f) Por la expedición de permisos para la realización de eventos sociales, por 
 5.- Callejeada, rallies y desfiles 0.00
 
 6.- Otros no especificados 1.00 a 7.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+7.- Eventos particulares o familiares utilizando equipo de sonido o música viva, en zona urbana 3.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+8.- Eventos particulares o familiares utilizando equipo de sonido o música viva, en zona rural 1.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+9.- Fiestas Patronales 0.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+g) Por la expedición de autorización en horarios extraordinarios anualizados (dos horas extras por día), de establecimientos que expendan bebidas alcohólicas, cuando lo permita la Ley que Regula la Venta de Bebidas Alcohólicas y el Reglamento Municipal, previa autorización del Cabildo. Se aplicará el doble de la tarifa de acuerdo a los giros marcados en los incisos a) o c) de esta fracción.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+h) Por la suspensión de actividades se pagará por cada vez 2.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+i) Por los depósitos en garantía, por ejercicio fiscal, por cada una:
+
+1.- Abarrotes y autoservicio con venta de cerveza, vinos y licores 40 a 50
+
+2.- Abarrotes con venta de cerveza 30 a 40
+
+3.- Agencias 80 a 100
+
+4.- Bares 50 a 70
+
+5.- Bar folklórico 50 a 70
+
+6.- Bebidas preparadas para llevar 50 a 70
+
+7.- Billares con venta de cerveza 20 a 25
+
+8.- Birrierías 20 a 25
+
+9.- Cabaretes 70 a 80
+
+10.- Cafetería con venta de cerveza 20 a 25
+
+11.- Casinos y similares 90 a 100
+
+12.- Cenadurías A 20 a 25
+
+13.- Cenadurías B 20 a 25
+
+14.- Centros botaneros 70 a 80
+
+15.- Centros nocturnos 90 a 100
+
+16.- Centros nocturnos con baile de pasarela 90 a 100
+
+17.- Centros de espectáculos 90 a 100
+
+18.- Clubes sociales 20 a 25
+
+19.- Cocina económica con venta de cerveza 20 a 25
+
+20.- Depósitos de cerveza 50 a 70
+
+21.- Deposito de cerveza vinos y licores 70 a 80
+
+22.- Discotecas 90 a 100
+
+23.- Disco-bar 90 a 100
+
+24.- Fondas 20 a 25
+
+25.- Farmacias con venta de cerveza 20 a 25
+
+26.- Farmacias con venta de cerveza, vinos y licores 30 a 40
+
+27.- Hoteles de 1 estrella 80 a 100
+
+28.- Hoteles de 2 a 3 estrellas 80 a 100
+
+29.- Hoteles de 4 a 5 estrellas 80 a 100
+
+30.- Locales para fiesta tipo "A" 70 a 80
+
+31.- Locales para fiesta tipo "B" 70 a 80
+
+32.- Lonchería con venta de cerveza 20 a 25
+
+33.- Marisquería A 20 a 25
+
+34.- Marisquería B 20 a 25
+
+35.- Menuderías 20 a 25
+
+36.- Moteles A 70 a 80
+
+37.- Moteles B 70 a 80
+
+38.- Palenques 90 a 100
+
+39.- Parianes 90 a 100
+
+40.- Pizzerías 30 a 40
+
+41.- Ramada en zona de playa con venta de cerveza 20 a 25
+
+42.- Ramada en zona de playa con venta de cerveza, vinos y licores 50 a 60
+
+43.- Restaurante clasificación "A" 50 a 60
+
+44.- Restaurante clasificación "B" 40 a 50
+
+45.- Restaurante clasificación "C" 30 a 40
+
+46.- Restaurantes-Bar 70 a 80
+
+47.- Rosticerías 20 a 25
+
+48.- Snack-bar 50 a 70
+
+49.- Taquerías 20 a 30
+
+50.- Tiendas departamentales 80 a 100
+
+51.- Venta de carnitas con cerveza 20 a 25
+
+52.- Otros giros no especificados 20 a 100
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+En zona rural, por cada uno:
+
+1.- Abarrotes con venta de cerveza 20 a 22
+
+2.- Abarrotes con venta de cerveza, vinos y licores 22 a 25
+
+3.- Cenadurías 20 a 22
+
+4.- Taquerías 20 a 22
+
+5.- Salón para fiestas 25 a 30
 
 Las licencias de funcionamiento de giros distintos a los referidos en el artículo 79 de esta Ley, no causarán el pago de derechos pero deberán obtenerse por los interesados dentro de los treinta días siguientes a la fecha de inicio de operaciones y refrendarse durante los meses de enero y febrero de cada año.
 
@@ -1835,13 +2401,15 @@ Los derechos por servicios que preste el catastro municipal se causarán y pagar
 
 Unidad de salario
 
+(REFORMADO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 22 DE FEBRERO DE 2003)
+
 I. Copias e impresiones:
 
 a) De planos generales 5.00
 
-b) De plano de un predio con acotaciones 5.00
+b) De plano de un predio con acotaciones 3.60
 
-c) De plano manzanero 3.00
+c) De plano manzanero 3.60
 
 d) De plano manzanero graficado 5.00
 
@@ -1853,7 +2421,7 @@ f) De plano general a diferentes escalas:
 
 2.- Por cada impresión hasta de 1.10 x 0.84 mts 8.00
 
-3.- Por cada capa (sic) adicional al plano general 5.00
+3.- Por cada copia adicional al plano general 5.00
 
 g) De planos de predios urbanos con medidas, superficie y nombre de calles:
 
@@ -1861,9 +2429,9 @@ g) De planos de predios urbanos con medidas, superficie y nombre de calles:
 
 2.- Con nombres de colindantes 4.60
 
-h) De planos de predios rústicos:
+h) De planos de predios rústicos
 
-1.- Hasta 5-00-00 hectáreas 20.00
+1.- Hasta 5-00-00 hectáreas 15.00
 
 2.- Más de 5-00-00 hectáreas 25.00
 
@@ -1871,13 +2439,13 @@ i) De fotos aéreas, más costo de laboratorio, según tamaño 10.00
 
 j) De cada fotografía de contacto en formato 23 x 23 ctms. Escala 1,4500 2.00
 
-k) De tarjetas de registro 2.50
+k) De tarjetas de registro. 2.50
 
 l) Aviso de transmisión patrimonial 2.50
 
 m) De avalúos catastrales 3.00
 
-n) Otras copias no especificadas de 2.00 a 25.00
+(REFORMADO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 22 DE FEBRERO DE 2003)
 
 II. Certificaciones:
 
@@ -1887,7 +2455,9 @@ b) Certificación catastral de un predio para tramitar juicio a favor del poseed
 
 c) Constancia certificada de inscripción o no en los registros catastrales 1.80
 
-d) Constancia de pago del impuesto predial 2.00
+d) Constancia de pago del impuesto predial 1.00
+
+(REFORMADO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 22 DE FEBRERO DE 2003)
 
 III. Avalúos, asignación de claves y mediciones:
 
@@ -1927,7 +2497,7 @@ d) Por medición de terreno, elaboración y expedición de planos, de conformida
 
 1.- Tratándose de predios urbanos:
 
-Hasta 120.00 M2 5.00
+Hasta 120.00 M2. 5.00
 
 De 120.01 a 200.00 M2 6.00
 
@@ -1935,7 +2505,7 @@ De 200.01 a 300.00 M2 7.00
 
 De 300.01 a 500.00 M2 7.50
 
-De 500.01 a 1,000.00 M2 8.50
+De 500.01 a 1,000.00 M2. 8.50
 
 De 1,000.01 a 2,000.00 M2 11.00
 
@@ -1946,6 +2516,8 @@ Más de 2,000.00 M2 15.00
 Hasta 10-00-00 hectáreas 8.50
 
 Más de 10-00-00 hectáreas 5.00
+
+(REFORMADO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 22 DE FEBRERO DE 2003)
 
 IV. Fusiones, subdivisiones, cesiones y registros:
 
@@ -1965,11 +2537,15 @@ d) Por inscripción o registro de títulos documentos públicos o privados, en v
 
 1.- Cuando el valor del inmueble sea hasta el equivalente a 6,111.00 unidades de salario 1.80
 
-2.- Cuando el valor del inmueble sea mayor al equivalente de 6,111.00 00 unidades de salario 2.70
+2.- Cuando el valor del inmueble sea mayor al equivalente de 6,111.00 unidades de salario 2.70
 
 e) Por la búsqueda y expedición de información catastral de predios urbanos 1.80
 
-V. Por modificar registros manifestados erróneamente 1.80.
+(REFORMADO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 22 DE FEBRERO DE 2003)
+
+V. Por modificar registros manifestados erróneamente 1.80
+
+(REFORMADO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 22 DE FEBRERO DE 2003)
 
 VI. Por cartografía a escala 1:1,000 en forma digital, por cada zona catastral:
 
@@ -1977,13 +2553,21 @@ a) Archivos DXF (manzanas, predios y nomenclaturas) 75.00
 
 b) Archivos DXF (manzanas, predios, construcciones, nomenclaturas, cotas, fotogramétricas en coordenadas Universal Transversa de Mercator 120.00
 
+(REFORMADO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 22 DE FEBRERO DE 2003)
+
 VII. Por cartografía del plano general, en formato digital de la zona urbana de la cabecera municipal:
 
 a) Archivos DXF (manzanas, predios, construcciones, nomenclatura de calles, hidrografía, vías de comunicación, cotas fotogramétricas en coordenadas Universal Transversa de Mercator 145.00
 
+(REFORMADO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 22 DE FEBRERO DE 2003)
+
 VIII. Por cartografía 1:10,000 en formato digital por cada población o comunidad:
 
-a) Archivos DXF (manzanas, predios, construcciones, nomenclatura de calles, hidrografía, vías de comunicación, cotas fotogramétricas en coordenadas Universal Transversa de Mercator 72.00 a 145.00
+a) Archivos DXF (manzanas, predios, construcciones, nomenclatura de calles, hidrografía, vías de comunicación, cotas fotogramétricas en coordenadas Universal Transversa de Mercator. 72.00 a 145.00
+
+(REFORMADO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 22 DE FEBRERO DE 2003)
+
+IX. Formato de Subdivisión debidamente requisitado 6.00
 
 C) ECOLOGIA
 
@@ -2036,6 +2620,18 @@ a) Especies comerciales (frutales y de ornato) o industriales
 - Arboles de 51 hasta 70 ctms. de diámetro de fuste principal 5.00
 
 - Arboles de más de 70 ctms. de diámetro de fuste principal 10.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+- Arboles de 71 hasta 90 ctms. de diámetro de fuste principal 10.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+- Arboles de 91 hasta 120 ctms. de diámetro de fuste principal 15.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+- Arboles de más de 121 ctms. de diámetro de fuste principal 25.00
 
 V. Por la expedición de la cédula de calibración de equipo de perifoneo:
 
@@ -2183,9 +2779,11 @@ III. Los particulares que soliciten el uso de la unidad deportiva por la noche, 
 
 Es objeto de este derecho la prestación del servicio de aseo público por parte del Ayuntamiento a los habitantes del municipio. Se entiende por aseo público las acciones de limpia, recolección, traslado, tratamiento y disposición final de residuos, así como la limpieza de predios baldíos.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2003)</small>
+
 ###### ARTICULO 96.
 
-Son sujetos de este derecho las personas físicas o morales que requieran servicios especiales de aseo público y que para tal efecto celebren contrato especial con el Ayuntamiento.
+Son sujetos de este derecho las personas físicas o morales que requieran servicios especiales de aseo público y que para tal efecto celebren convenio especial con el Ayuntamiento.
 
 ###### ARTICULO 97.
 
@@ -2195,13 +2793,19 @@ Unidad de salario
 
 I. Por recolección y traslado de residuos no peligrosos, previo dictamen de la autoridad competente:
 
-a) Los propietarios, poseedores o usuarios de predios destinados a la realización de actividades económicas que generen una cantidad diaria menor a menor a 1. 50 M3 sin compactar pagarán 0.00.
+(REFORMADO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 22 DE FEBRERO DE 2003) (F. DE E., P.O. 15 DE MAYO DE 2006)
 
-b) Quienes realicen actividades comerciales, industriales o de prestación de servicios, así como el de los fraccionamientos no municipalizados y que requieren de éstos servicios en forma permanente, deberán celebrar convenio con el Ayuntamiento, en el cuál se fijará la forma en que se prestarán éstos, cobrándose en base a volumen tal y como se establece en éste artículo, o en base a estimatoria, con respecto al peso o volumen. Respecto a las tarifas medidas se estará a lo dispuesto por las siguientes:
+a) Los propietarios, poseedores o usuarios de predios destinados a la realización de actividades económicas que generen una cantidad diaria menor a 25 kilogramos 0.00
+
+(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 15 DE MAYO DE 2006)
+
+b) Quienes realicen actividades comerciales, industriales o de prestación de servicios, así como el de los fraccionamientos no municipalizados y que requieren de estos servicios en forma permanente, deberán celebrar convenio con el Ayuntamiento, en el cual se fijará la forma en que se prestarán éstos, cobrándose en base a volumen tal y como se establece en éste artículo, o en base a estimatoria, con respecto al peso o volumen. Respecto a las tarifas mínimas se estará a lo dispuesto por las siguientes:
 
 1) Por tonelada 0.50
 
-2) Por metro cúbico compactado 0.40
+(REFORMADO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 15 DE MAYO DE 2006)
+
+2) Por metro cúbico 0.40
 
 3) Por metro cúbico sin compactar 0.20
 
@@ -2211,7 +2815,7 @@ b) Quienes realicen actividades comerciales, industriales o de prestación de se
 
 II. Cuando se requiera el servicio de camiones de aseo en forma exclusiva, por cada flete 15.00
 
-III. Por los servicios de recepción de residuos no peligrosos, en estaciones de transferencia del Ayuntamiento, transportados por terceros en sus propios medios, por tonelada o fracción 13.87
+III. (DEROGADA, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 15 DE MAYO DE 2006)
 
 IV. Por realizar servicios especiales de limpieza, recolección y transporte de residuos en lotes no edificados o edificaciones ruinosas o inhabitables, en rebeldía de los obligados a mantenerlos limpios, por metro cuadrado, cada vez 0.12
 
@@ -2267,11 +2871,37 @@ b) En propiedad particular 5.00
 
 c) Otros 10.00
 
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+d) En Primera Zona 3.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+e) En Segunda Zona 2.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+f) En tercera Zona 1.00
+
 II. Exhumaciones, por cada una 10.00
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+a) Primera Zona 9.37
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+b) Segunda Zona 5.66
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+c) Tercera Zona 3.75
 
 III. Permiso de traslado de cadáveres fuera del municipio 2.94
 
-IV. Por la limpieza de lotes en propiedad particular, anualmente por gaveta, que deberá pagarse en los meses de enero y febrero:
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 15 DE ENERO DE 2003)</small>
+
+IV. Por la limpieza de lotes en propiedad particular, anualmente por gaveta, que deberá pagarse en los meses de enero y febrero 2.50
 
 a) Para la propiedad de 1 x 3 mts 2.50
 
@@ -2381,6 +3011,18 @@ a) Por salida de autobuses foráneos 0.14
 
 b) Otros no especificados Según convenio
 
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+c) Renta de taquillas mensualmente 12.93
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+d) Renta de locales mensualmente 14.37
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+Los productos señalados en ésta fracción, se causarán al 50% en tanto no se tenga la Central de Autobuses debidamente construida.
+
 V. El importe de las rentas de otros bienes muebles e inmuebles propiedad del municipio, será fijado en los contratos respectivos por el Presidente Municipal, previo acuerdo del Cabildo.
 
 ###### ARTICULO 110.
@@ -2399,11 +3041,25 @@ En los cementerios públicos se causarán y pagarán los productos de conformida
 
 Unidad de salario
 
-I. Venta de lotes en propiedad, por metro cuadrado:
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2003)</small>
 
-a) Sección antigua 2.39
+I. Venta de lotes en propiedad:
 
-b) Sección nueva 4.79
+a) (DEROGADO, P.O. 15 DE ENERO DE 2003)
+
+b) (DEROGADO, P.O. 15 DE ENERO DE 2003)
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+c) Primera Zona 4.45
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+d) Segunda Zona 1.67
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+e) Tercera Zona 0.56
 
 II. Construcción y venta de gavetas para fosas en el cementerio según contrato;
 
@@ -2555,6 +3211,10 @@ Los gastos de cobranza y de ejecución que se generen con motivo de la realizaci
 
 Con el propósito de elevar la recaudación tributaria y obtener una mayor eficiencia administrativa, se creará un fondo integrado por los gastos de cobranza y ejecución, que se destinará a incentivar al personal, repartiéndolo entre los que participen directa e indirectamente en la recuperación de los mismos, debiendo crear la partida presupuestal correspondiente.
 
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
 ###### ARTICULO 123.
 
 Las participaciones federales son aquellos ingresos que recibe el municipio de conformidad con las leyes de coordinación fiscal, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, al Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos.
@@ -2569,9 +3229,95 @@ Son los ingresos que percibirá el Ayuntamiento en forma independiente y adicion
 
 Son ingresos extraordinarios los que perciba la hacienda pública municipal, de conformidad con las leyes correspondientes.
 
-T R A N S I T O R I O S
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 15 DE ENERO DE 2003)</small>
 
 ## TITULO NOVENO. INGRESOS EXTRAORDINARIOS
+
+## TITULO DECIMO. ESTIMULOS FISCALES Y FINANCIEROS
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE ENERO DE 2003)</small>
+
+###### ARTICULO 126.
+
+Se establece el Programa de Estímulos Fiscales y Financieros del Municipio de Manzanillo para las empresas de nueva creación y para aquellas que regularicen su situación ante el fisco municipal, con el objetivo de impulsar y estimular la instalación de nuevas empresas, así como, regularizar aquellas personas físicas o morales que estando establecidas, mantienen una situación irregular ante el fisco municipal y que soliciten su regularización por iniciativa propia.
+
+También tiene como propósito establecer los instrumentos y mecanismos para el otorgamiento de los estímulos, mediante la creación del Consejo de Promoción Económica del Ayuntamiento de Manzanillo.
+
+I. Los incentivos y apoyos que el Gobierno Municipal promoverá y otorgará a las empresas de nueva creación y personas físicas o morales que por iniciativa propia o a invitación del Ayuntamiento regularicen situaciones ante el fisco municipal de las ramas comercial, industrial y de servicios consistirán en: Estímulos fiscales, mediante la reducción temporal del impuesto predial, a las empresas que se inscriban en el programa y califiquen para ello;
+
+II. La reducción temporal del impuesto predial, se aplicará de forma escalonada, siendo para el primer año hasta del 75%, para el segundo año hasta el 50%, para el tercer año hasta del 25%, y para el cuarto año no operará descuento alguno. No aplicando durante el período que opere el programa de estímulos, la bonificación del 12% por pago anticipado.
+
+La aplicación de los descuentos y el período serán determinados por el Consejo de Promoción Económica Municipal, que para el efecto constituya el Ayuntamiento, bajo las bases que se establecen en el Programa de Estímulos Fiscales y Financieros del Municipio de Manzanillo, el Reglamento del Funcionamiento del Consejo de Promoción Económica Municipal del Ayuntamiento de Manzanillo y la presente Ley;
+
+III. En el caso de los Programas de Urbanización de la Zona Industrial de Tapeixtles y su consecuente regularización de situación catastral, se aplicará por única vez la cuota o tarifa según corresponda del 0.0% del pago de las superficies de cesión que genera la transformación de suelo rústico a urbano señaladas en los artículos 131 y 139 fracción IX del Reglamento de Zonificación para el estado de Colima.
+
+Asimismo, para las cuotas que generen la ejecución de las obras mediante el sistema de acciones por colaboración.
+
+Para obtener los beneficios señalados en este punto, es indispensable que los beneficiarios soliciten su regularización a más tardar el 30 de junio del 2003 ante el Secretario Técnico del Consejo de Promoción Económica Municipal.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+###### ARTICULO 127.
+
+Para el otorgamiento de los incentivos y apoyos a las empresas que se inscriban en el Programa de Estímulos, se deberán de utilizar los criterios de rentabilidad social, considerando el Manual de Funcionamiento del Consejo de Promoción Económica Municipal, las bases del programa y los siguientes elementos:
+
+Número de empleos que se generen y su nivel de remuneración.
+
+Monto de inversión.
+
+Período de la ejecución de la inversión e inicio de operación de la empresa.
+
+Programa de capacitación que realice.
+
+Ubicación del proyecto.
+
+Protección y mejoramiento del medio ambiente.
+
+Consumo y tratamiento de agua.
+
+Desarrollo tecnológico.
+
+Volumen de producción destinado al mercado externo.
+
+Integración y fortalecimiento de cadenas productivas locales.
+
+Incorporación de proveedores locales.
+
+Las bases que se fijen por el Consejo de Promoción para el otorgamiento y ejecución de los incentivos y apoyos, indicarán adicionalmente las obligaciones a cumplir por las empresas que gocen de los beneficios que otorga el programa, así como las sanciones a las que se harán acreedoras cuando no cumplan con lo convenido o que se simulen acciones para merecer los incentivos y apoyos.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+###### ARTICULO 128.
+
+Las empresas que obtengan los beneficios del programa serán sancionadas por la autoridad fiscal, cuando incurran en cualquiera de las siguientes infracciones:
+
+a) Dar información falsa para la obtención de incentivos o apoyos;
+
+b) Incumplir los compromisos en los tiempos y formas señaladas en la resolución emitida por el Consejo y acordados en el convenio respectivo;
+
+c) Destinar los apoyos e incentivos otorgados a un uso distinto del autorizado;
+
+d) Ceder los beneficios concedidos en la resolución emitida por el Consejo, sin autorización previa;
+
+e) Omitir la presentación oportuna del aviso para notificar modificaciones a las condiciones registradas para el otorgamiento de los incentivos.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+###### ARTICULO 129.
+
+Las infracciones tendrán el carácter de crédito fiscal y serán sancionadas conforme a la presente Ley, el Código Fiscal Municipal y las bases de operación del programa, así como lo que determine el Consejo de Promoción Económica del Municipio de Manzanillo.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+###### ARTICULO 130.
+
+Independientemente de las sanciones administrativas establecidas en los incisos anteriores, el Consejo, cuando lo juzgue conveniente, por las faltas cometidas, podrá determinar la suspensión o cancelación de los incentivos o apoyos que hubieren otorgado a la empresa beneficiada.
+
+En caso de que se determine la cancelación o suspensión de los incentivos o apoyos, además de las sanciones antes señaladas, el infractor que hubiese gozado de los beneficios del programa, deberá reintegrar a la Tesorería Municipal el monto de los incentivos o apoyos más sus intereses y demás accesorios.
+
+Asimismo, si el empresario inicia la aplicación de su inversión sin tener la resolución favorable por parte del Consejo y cuando ésta se emita y le sea en sentido negativo, el empresario deberá enterar a la Tesorería Municipal las contribuciones que hubiere dejado de pagar, adicionando los recargos, actualizaciones y multas, con base en la presente Ley y el Código Fiscal Municipal, tomando en cuenta para calcularlos, las fechas en que debieron haberse pagado.
+
+T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
 
@@ -2585,13 +3331,15 @@ Se abroga la Ley General de Hacienda Municipal expedida mediante Decreto número
 
 Los créditos fiscales no cubiertos en el año en que se causaron, se liquidarán de conformidad con las tasas o cuotas establecidas en la ley de ingresos vigente en la fecha en que nació la obligación fiscal.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2003)</small>
+
 ###### ARTICULO CUARTO.
 
 Con motivo de la actualización de los valores catastrales para adecuarlas a las reformas del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y a fin de evitar impactos desproporcionados en el pago del impuesto predial, la base para la determinación de dicho impuesto se continuará ajustando hasta alcanzar el 100 por ciento del valor catastral en los términos del artículo 7º de esta Ley, como a continuación se señala:
 
-AÑO 2003 2004 2005 2006 2007
+AÑO 2003 2004 2005 2006
 
-BASE 60% 70% 80% 90% 100%
+BASE 70% 80% 90% 100%
 
 ###### ARTICULO QUINTO.
 
@@ -2601,13 +3349,15 @@ En los predios con valor catastral de $264,000.01 en adelante, el impuesto que r
 
 Lo previsto en este artículo, no será aplicable respecto de los predios cuyo valor se hubiera modificado en el último bimestre del año que se trate, por motivos distintos a la publicación de las tablas de valores unitarios de terreno y de construcción.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2003)</small>
+
 ###### ARTICULO SEXTO.
 
 Se tomará como base para el cálculo del impuesto sobre transmisiones patrimoniales los porcentajes que a continuación se señalan respecto del valor que resulte conforme al artículo 25 del presente ordenamiento.
 
-AÑO 2003 2004 2005 2006 2007
+AÑO 2003 2004 2005 2006
 
-BASE 60% 70% 80% 90% 100%
+BASE 70% 80% 90% 100%
 
 El Gobernador del Estado dispondrá se imprima, publique, circule y observe.
 
@@ -2620,3 +3370,9 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno a los 11 días del mes de noviembre del año dos mil dos.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA. Rúbrica. EL DIRECTO GENERAL DE GOBIERNO, ENCARGADO DEL DESPACHO DE LA SECRETARÍA GENERAL DE GOBIERNO, LIC. JOSÉ GILBERTO GARCÍA NAVA. Rúbrica. EL SECRETARIO DE FINANZAS, ING. ALMAR PETTERSEN MORA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE ENERO DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Colima.
