@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40056"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2004-06-19"
+last_updated: "2004-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LEY ORGANICA DEL PODER LEGISLATIVO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2004.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 19 de junio de 2004.
 
@@ -1163,7 +1163,9 @@ IV. Brindar asesoría en la celebración de contratos que así se requiera;
 
 V. Aplicar los recursos presupuéstales de acuerdo con los programas y partidas autorizadas;
 
-VI. Autorizar la adquisición de bienes y contratación de servicios; que no requieran autorización previa de la Comisión de Administración en los términos de éste reglamento y del manual operativo de Adquisiciones;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+VI. Autorizar la adquisición de bienes y contratación de servicios; que no requieran autorización previa de la Comisión de Administración en los términos del Título Décimo Tercero de este Reglamento;
 
 VII. Controlar el ejercicio presupuestario mediante el registro contable de ingresos y egresos;
 
@@ -1349,6 +1351,10 @@ V. Acreditar los exámenes que para el efecto se realicen.
 
 ## TÍTULO DÉCIMO PRIMERO. DE LOS SERVIDORES PÚBLICOS DEL CONGRESO DEL ESTADO
 
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 135.
 
 1. Los servidores públicos del Congreso del Estado, además de los derechos y obligaciones que le imponen las leyes tendrán los siguientes:
@@ -1364,6 +1370,10 @@ IV. Abstenerse de permanecer en el área de curules, salvo lo dispuesto por este
 V. Abstenerse de ostentar su calidad de servidor público del Congreso, en el desarrollo sus actividades profesionales, comerciales, artísticas o técnicas; ajenas a las oficiales.
 
 2. El incumplimiento a lo dispuesto en este artículo será sancionado de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
+### CAPÍTULO SEGUNDO. DEL FUNCIONAMIENTO
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 136.
 
@@ -1384,6 +1394,10 @@ c) Considerar el grado académico y la experiencia de los candidatos.
 2. Para todos los demás servidores públicos del Congreso del Estado, les son aplicables las disposiciones del sistema escalafonario si son trabajadores de base; o de confianza que pertenezcan al Servicio Civil de Carrera, en estos casos se aplicarán las disposiciones de la Ley de los Servidores Públicos del Estado de Jalisco y sus Municipios y los reglamentos correspondientes.
 
 ## TÍTULO DÉCIMO SEGUNDO. DEL FUNCIONAMIENTO ADMINISTRATIVO DEL CONGRESO DEL ESTADO
+
+### CAPÍTULO TERCERO. DE LAS FACULTADES DEL COMITÉ
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 138.
 
@@ -1425,6 +1439,10 @@ XI. Estrategia de comunicación; y
 
 XII. Catálogos de formato.
 
+### CAPÍTULO CUARTO. DE LA ADQUISICIÓN DE LOS BIENES O SERVICIOS
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 141.
 
 1. Corresponde a la Comisión de Administración, la vigilancia del cumplimiento de las disposiciones en materia de planeación, programación, presupuestación y aplicación de los recursos del Congreso del Estado, de conformidad con el presupuesto aprobado.
@@ -1433,9 +1451,529 @@ XII. Catálogos de formato.
 
 3. La administración de los recursos económicos del Congreso del Estado, se realizará por la Comisión de Administración por conducto del Secretario General.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 142.
 
-1. Las bases, criterios y procedimientos de las adquisiciones, enajenaciones y obra pública que realice el Congreso del Estado, se harán de conformidad con los manuales de operación que se emitan al respecto y en su caso, von la legislación aplicable.
+Las bases, criterios y procedimientos de las adquisiciones de bienes, contratación de arrendamientos, prestación de servicios, enajenaciones y obra pública, se hará de conformidad con el Título siguiente; y en su caso, con la legislación aplicable.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+## TÍTULO DÉCIMO TERCERO. DE ADQUISICIONES DE BIENES, SERVICIOS Y ENAJENACIONES DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+### CAPÍTULO QUINTO. DEL PADRÓN DE PROVEEDORES
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 143.
+
+1. Para los efectos de este Título se entenderá por:
+
+I. Comité: Comité de Adquisiciones de Bienes y Servicios del Congreso del Estado.
+
+II. Congreso: Poder Legislativo del Estado de Jalisco.
+
+III. Comisión: Comisión de Administración del Congreso.
+
+IV. Dirección: La Dirección de Control Presupuestal y Financiero dependiente de la Secretaría General del Congreso;
+
+V. Padrón: Padrón de Proveedores del Congreso.
+
+VI. Acuerdo: Acuerdo del Comité de Adquisiciones de Bienes y Servicios del Poder Legislativo.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 144.
+
+1. El Comité es el órgano de apoyo responsable de aprobar la adquisición, acordada por la Comisión, de bienes, la contratación de los servicios y las enajenaciones necesarias, para la realización de las actividades legislativas, técnicas y administrativas del Congreso, cuyos montos sean mayores a 500 veces el salario mínimo general vigente para la Zona Metropolitana de Guadalajara.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 145.
+
+1. El Comité es un órgano colegiado interdisciplinario de asearía, consulta y toma de decisiones, cuyo principal objeto es la determinación de acciones tendientes a la optimización de recursos destinados a la adquisición de bienes muebles, a la contratación de arrendamientos, prestación de servicios y enajenaciones.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 146.
+
+1. El Comité estará integrado de la siguiente manera:
+
+I. Un Diputado representante de la Comisión de Administración;
+
+II. Un Diputado representante de la Comisión de Hacienda;
+
+> <small>(F. DE E., P.O. 3 DE FEBRERO DE 2005)</small>
+
+III. Tres representantes nombrados por el Consejo Estatal de Desarrollo Económico y la Competitividad, a petición del Congreso;
+
+IV. El Director de Control Presupuestal, quien fungirá como Secretario Técnico del Comité.
+
+2. Los integrantes participarán de manera honorífica, por lo que no tendrán remuneración alguna.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 147.
+
+1. Los integrantes del Comité serán designados de la siguiente manera:
+
+I. En el caso de los diputados, por elección de las Comisiones a que pertenezcan.
+
+II. Los representantes del Consejo Económico Social y la Competitividad por su Pleno.
+
+2. Todas las designaciones anteriores se comunicarán al Pleno.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 148.
+
+1. Dentro de los primeros treinta días de cada Legislatura, la Asamblea proveerá a la integración de este Comité, en los términos de los artículos aquí establecidos.
+
+2. El Comité integrado de conformidad con este precepto ejercerá sus atribuciones durante el período constitucional de la Legislatura en curso.
+
+> <small>(F. DE E., P.O. 3 DE FEBRERO DE 2005)</small>
+
+3. Los representantes del Consejo Económico Social y la Competitividad que hubieren concurrido al Comité integrado por la Legislatura inmediata anterior, se tendrán por miembros del Comité que integre la nueva Legislatura, en tanto aquel no revoque su nombramiento.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+### CAPÍTULO SEXTO. DE LOS PROCEDIMIENTOS DE ADQUISICIÓN
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 149.
+
+1. El Comité funcionará bajo la dirección de un coordinador, que será uno de sus integrantes designados del Congreso, nombrado por los miembros de aquel.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 150.
+
+1. Todos los integrantes del Comité tendrán voz y voto en las decisiones de la misma, con excepción del Secretario Técnico, quien sólo tendrá voz informativa.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 151.
+
+1. El Comité sesionará cuantas veces sea necesario, previa convocatoria que con anticipación de veinticuatro horas notifique el coordinador de dicho órgano, debiéndose señalar el orden del día a que se sujetará la sesión, el cual contendrá por lo menos:
+
+I. Lectura del orden del día;
+
+II. Firma de lista de asistencia;
+
+III. Lectura del acta anterior;
+
+IV. Revisión de la agenda de trabajo;
+
+V. Asuntos varios;
+
+VI. Lectura de acuerdos y comisiones;
+
+VII. Cierre de la sesión.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 152.
+
+1. Para que tengan validez las decisiones del Comité, será necesario el voto favorable de la mayoría de los integrantes de la misma; en caso de empate, el coordinador tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 153.
+
+1. Las sesiones se realizarán en el lugar que se indique en la convocatoria, debiéndose levantar una acta por el Secretario Técnico a la que se le agregarán los documentos relacionados con las decisiones tomadas.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 154.
+
+1. En la primera sesión del Comité, se darán a conocer los nombres de las personas que fungirán como integrantes de la misma.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+### CAPÍTULO SÉPTIMO. DE LAS SANCIONES
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 155.
+
+1. Son facultades del Comité las siguientes:
+
+I. Definir las políticas, sistemas, procedimientos y normas que regulen las operaciones indicadas en el artículo 144 de este Reglamento.
+
+II. Seleccionar al proveedor de los bienes o servicios de cada requisición, en atención a las normas fijadas en el artículo 176 de este ordenamiento.
+
+III. Fijar las políticas que deben observarse al elaborar el Programa de adquisiciones, de acuerdo a los planes y programas del Congreso.
+
+IV. Integrar y conservar actualizado el Padrón.
+
+V. Coordinarse con la Dirección para que se disponga de una existencia mínima de los materiales y productos de mayor consumo por las diferentes áreas del Congreso.
+
+VI. Hacer recomendaciones para el óptimo uso de materiales, equipo y servicios externos por parte del personal que labore al servicio del Poder Legislativo.
+
+VII. Obtener las mejores cotizaciones posibles, considerando precio y calidad, para las adquisiciones de bienes y contratación de servicios que se realicen en el Congreso.
+
+VIII. Publicar las requisiciones, convocatorias, y el Padrón para su difusión en la página de Internet del Congreso y en los medios que este acuerde.
+
+IX. Mantener informados a los titulares de los órganos del Congreso sobre los criterios y requisitos para la realización de adquisiciones y contratación de servicios; y
+
+X. Coordinar sus actividades con los demás órganos del Congreso para proveer los requerimientos de adquisiciones y servicios con agilidad y oportunidad.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 156.
+
+1. Son obligaciones del coordinador del Comité, las siguientes:
+
+I. Convocar a sesiones al Comité en los términos a que se refiere el artículo 10 de este ordenamiento.
+
+II. Conducir el desarrollo del Comité.
+
+III. Exigir que en cada sesión que celebre el Comité se cumpla con los lineamientos marcados en este ordenamiento, tomando en su caso las medidas que consideren necesarias.
+
+IV. Informar por escrito a la Comisión, y por conducto de ésta al Congreso, sobre el funcionamiento del Comité, en forma mensual o cuantas veces sea requerido.
+
+V. Remitir a la Secretaria General el Padrón, las requisiciones y convocatorias expedidas para su difusión en la página de Internet del Congreso y en los medios que éste acuerde.
+
+VI. Dictar las medidas para el debido cumplimiento de los Acuerdos.
+
+VII. Las demás que le sean asignadas por el propio Comité.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 157.
+
+1. Son responsabilidades del Secretario Técnico del Comité, las siguientes:
+
+I. Formular las convocatorias y las actas respectivas de cada una de las sesiones del Comité;
+
+II. Conservar bajo su resguardo y responsabilidad los expedientes de cada una de las sesiones del Comité, mismos que deberán estar disponibles para la consulta de los integrantes del mismo;
+
+III. Desarrollar en las sesiones los puntos establecidos en el artículo 10; y
+
+IV. Las demás que le sean asignadas por el Coordinador o por el propio Comité.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+### CAPÍTULO OCTAVO. DE LA SUSPENSIÓN O CANCELACIÓN DE LAS ADJUDICACIONES
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 158.
+
+1. Las adquisiciones de bienes o servicios a que se refiere este título, podrán ser ordinarias o extraordinarias.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 159.
+
+1. Son ordinarias aquellas adquisiciones que, en forma regular y periódica, se pueden proveer de acuerdo a los programas previamente establecidos.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 160.
+
+1. Son adquisiciones extraordinarias aquellas que, estando sujetas a los programas previamente establecidos, por necesidades urgentes requieren ser autorizadas.
+
+2. Estas adquisiciones se autorizarán por la Comisión, debiendo informar de las mismas al Comité, en la primera sesión inmediata posterior.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 161.
+
+1. La comparación entre las características de los productos o servicios ofrecidos por los posibles proveedores, entre las condiciones de venta y entre los precios ofrecidos por cada uno de ellos, se efectuará mediante el sistema de cotizaciones.
+
+2. Para los efectos de este titulo, se entenderá por cotización la constancia escrita, con vigencia determinada, de todos los pormenores que distingan lo ofrecido por cada posible proveedor para atender una determinada requisición.
+
+3. Las cotizaciones podrán ser totales, si el posible proveedor se compromete a suministrar la totalidad de los bienes o servicios a los que se refiera la requisición, o parcial, si se refiere solamente a algunos de ellos.
+
+4. El Comité determinará, al autorizar los lineamientos a los que deberá ajustarse cada adquisición, aquellos casos en los que se requerirá que los posibles proveedores presenten sus cotizaciones en sobre cerrado y con las medidas de seguridad que se estimen necesarias para asegurar que ningún interesado conozca, antes del momento en que la Comisión compare las propuestas, las condiciones o precios ofrecidos por otro.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 162.
+
+> <small>(F. DE E., P.O. 3 DE FEBRERO DE 2005)</small>
+
+1. Para que las cotizaciones recibidas puedan ser discutidas y en su caso aprobadas por el Comité, deben reunir los siguientes requisitos:
+
+I. Que cuando menos una de las cotizaciones que se presenten, y preferentemente la mayor cantidad posible de ellas, provengan de proveedores inscritos en el Padrón, excepto en el caso en que ninguno de ellos se encuentre en aptitud de suministrar el bien o servicio requerido, y el apremio de la operación o la indisposición de los proveedores posibles impida que alguno de estos últimos tramite su registro en el Padrón;
+
+II. Que se entregue al coordinador del Comité, por el Secretario Técnico, conjuntamente con un estudio comparativo que se haga de diversas cotizaciones, no admitiéndose una sola cotización, sino dos o más, salvo el caso de proveedor único; debidamente justificado.
+
+III. Que se hayan entregado las cotizaciones a la Dirección con el tiempo necesario, para cumplir con lo señalado en la fracción anterior.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 163.
+
+1. Las adquisiciones ordinarias de bienes o servicios se realizarán bajo las siguientes bases:
+
+I. Anualmente el Comité, conjuntamente con la Dirección, determinarán de acuerdo con las políticas fijadas por el Congreso, o por el Comité, qué bienes o servicios se adquirirán en montos globales y cuáles se contratarán en montos parciales.
+
+II. Para decidir compra de bienes o servicios, se tomarán en consideración, entre otros, los siguientes elementos:
+
+a) La existencia en almacén en relación con los índices de consumo, la disponibilidad en el mercado y tiempo de entrega.
+
+b) La justificación de compra.
+
+c) La oportunidad de la compra, en relación con los recursos financieros disponibles y la expectativa de los precios.
+
+d) La existencia de una partida expresa señalada en el presupuesto, así como que se cuente con un saldo disponible.
+
+III. Los integrantes del Comité deberán firmar las propuestas de adquisiciones que se aprueben, mismas que deberán anexarse a la documentación que ampare la compra, al momento de enviarse a la Dirección para su pago.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 164.
+
+1. Las adquisiciones extraordinarias se realizarán de conformidad a lo dispuesto en la fracción II del artículo anterior, y deberán ser aprobadas por la Comisión.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 165.
+
+1. La selección del proveedor, se hará tomando en cuenta los siguientes factores:
+
+I. El mejor precio del bien o servicio.
+
+II. Su calidad, seriedad y responsabilidad.
+
+III. Los beneficios complementarios que ofrece cada proveedor.
+
+IV. Las condiciones del contrato.
+
+V. La garantía que se ofrece.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 166.
+
+1. Se preferirán como proveedores de bienes o servicios, en igualdad de circunstancias, en el orden señalado, a:
+
+I. Las personas físicas o jurídicas que se encuentren registradas en el Padrón y que hayan hecho operaciones cumpliendo con lo pactado.
+
+II. Entidades públicas municipales.
+
+III. Entidades publicas estatales.
+
+IV. Entidades públicas federales.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 167.
+
+1. Los interesados en suministrar los bienes o servicios requeridos por el Congreso que no se encuentren inscritos en el Padrón o no tengan vigente su registro en él, deberán acompañar, junto con su cotización y de acuerdo con las condiciones exigidas por el Comité, las referencias que permitan identificarlo como un proveedor solvente y los datos para su oportuna localización.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 168.
+
+1. En los pedidos y contratos se estipularan las condiciones de calidad, precio y en su caso financiamiento, anticipo, tiempo de entrega, enajenación de los trabajos, forma de pago y garantías y, cuando fuere necesario, la capacitación del personal que opere los bienes que se adquieran.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 169.
+
+1. La Dirección integrará el Padrón, que será el registro de las personas físicas o jurídicas susceptibles de suministrar consumibles y bienes muebles, o proporcionar los servicios que requiera el Congreso.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 170.
+
+1. Son objetivos del Padrón:
+
+I. Brindar una base de proveedores potenciales, de probada solvencia, confiabilidad y capacidad, a los que pueda encomendarse el suministro de los bienes y servicios que demanda el Congreso.
+
+II. Contar de manera oportuna con información suficientemente confiable sobre la cantidad, calidad, oportunidad y rangos de precios con los que podrían adquirirse los bienes y servicios que el Congreso requiere para su operación cotidiana, facilitando así su programación y su impacto sobre el presupuesto.
+
+III. Poseer un historial de las condiciones de oferta con las que el Congreso ha adquirido sus insumos, consolidando con ello una memoria institucional que permita a los miembros de cualquier Legislatura obtener condiciones de contratación iguales o mejores que las conseguidas en el pasado.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 171.
+
+1. Para ser inscritos en el Padrón, los interesados deberán acudir personalmente ante la Dirección, y cumplir con los siguientes requisitos:
+
+I. Presentar su solicitud mediante escrito firmado por el representante legal de la empresa, tratándose de personas jurídicas, o directamente por el interesado, de ser persona física. Dicho escrito deberá consignar con toda claridad el domicilio en el que el interesado recibirá las notificaciones que sean necesarias, así como la mayor cantidad posible de datos para su pronta localización.
+
+II. Entregar copia simple de la identificación oficial vigente del interesado, y exhibir el documento original para su cotejo, cuando se trate de personas físicas. En el caso de las personas jurídicas, deberán entregar copia simple de su acta constitutiva, del poder que la organización confiere a quien solicita la inscripción para que la representante legalmente, y de la identificación oficial de dicho representante, exhibiendo para su cotejo el original de los documentos o copias de éstos debidamente certificadas por fedatario público autorizado.
+
+III. Facilitar copia de la inscripción en el Registro Federal de Contribuyentes, o del documento análogo emitido por la autoridad fiscal mexicana, junto con el original para su cotejo.
+
+IV. Presentar un currículum de sus actividades profesionales o empresariales, en el que se incluyan referencias comerciales y otros datos que, sin detrimento del secreto profesional o industrial que las leyes exigen, puedan brindar al Congreso información relacionada con los giros que el interesado desarrolla, sus alianzas o filiaciones con otras empresas nacionales o extranjeras, sus operaciones en los mercados jaliscienses, sus principales clientes, los certificados y reconocimientos que haya recibido, su registro en los padrones de proveedores de otras entidades públicas, y la mención de la procedencia o, en su caso, del grado de integración regional de los productos que ofrece.
+
+V. Proporcionar la lista, genérica o detallada, de los bienes o servicios que está en condiciones de suministrar, así como sus restricciones en cantidad o tiempo de entrega, cuando el interesado estime necesario señalarlas.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 172.
+
+1. Las solicitudes de inscripción en el Padrón que reciba la Dirección serán revisadas en lo que toca al cumplimiento de los requisitos exigidos por el presente ordenamiento, y verificada esta circunstancia serán canalizadas al Comité para su análisis y aprobación, en su caso.
+
+2. Si a juicio de la Dirección la solicitud fuese confusa o incompleta, por conducto de su titular se requerirá al solicitante para que en un término de cinco días hábiles posteriores a la fecha en que le sea notificada esta circunstancia, la aclare o complete. En caso contrario, la solicitud se tendrá por no presentada.
+
+3. Turnada la solicitud, el Comité deberá resolverla en término que no excederá de quince días hábiles contados a partir de la fecha de recepción. Transcurrido ese término, de no existir respuesta sobre la aceptación o rechazo de la inscripción, se tendrá por resuelta a favor del interesado.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 173.
+
+1. Los Acuerdos que resuelvan sobre la inscripción de un proveedor en el Padrón se publicarán en la página de Internet del Congreso dentro de los tres días hábiles siguientes, y se notificarán al interesado en un plazo que no excederá de diez días hábiles contados a partir del día hábil siguiente a la fecha del acuerdo.
+
+2. Los proveedores inscritos en el Padrón obtendrán una cédula de registro con vigencia indefinida.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 174.
+
+1. El Comité podrá suspender o cancelar el registro de un proveedor del padrón, cuando, previo dictamen emitido por la Dirección, se verifique cualquiera de las circunstancias siguientes:
+
+I. Incurra en falsedad de datos al momento de su registro o al presentar cualesquier cotización;
+
+II. Incumpla las condiciones establecidas en un contrato que hubiere suscrito con el Congreso, causándole perjuicio a este último;
+
+III. Omita la presentación de los documentos que acrediten o respalden sus cotizaciones, y
+
+IV. No informe oportunamente los cambios en la información proporcionada al momento de su registro.
+
+2. Previamente a que la Dirección dictamine sobre la suspensión o cancelación del registro de un Proveedor, el interesado deberá ser notificado de esta posibilidad, señalándole un plazo de diez días hábiles para que las subsane o pruebe su improcedencia. Todos los documentos que se recaben al seguirse este procedimiento integrarán el expediente que se pondrá a disposición del Comité para que emita su resolución.
+
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004) (F. DE E., P.O. 3 DE FEBRERO DE 2005)
+
+###### Artículo 175.
+
+1. La inscripción en el Padrón no es obligatoria, ya que cualesquier proveedor podrá participar en las adquisiciones, siempre y cuando cumpla con los requisitos establecidos en el presente título.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 176.
+
+1. Salvo disposición legal en contrario, las adquisiciones de bienes y contratación de servicios que requieran, se realizarán por conducto del Comité mediante los procedimientos enunciados en este artículo.
+
+> <small>(F. DE E., P.O. 3 DE FEBRERO DE 2005)</small>
+
+2. El Comité, según el caso, evaluará las propuestas que presenten los proveedores de bienes y servicios, a efecto de seleccionarlos, considerando para ello las mejores condiciones de precio, calidad, garantía, plazo de entrega y financiamiento para el pago, con base en los siguientes procedimientos:
+
+I. Por concurso, cuyos montos serán aquellos que rebasen el resultante de 5,000 (cinco mil) veces el salario mínimo general vigente en el área geográfica correspondiente a la zona metropolitana de Guadalajara, antes de impuestos.
+
+a) Formulación y evaluación de las bases e invitaciones a por lo menos tres proveedores.
+
+b) Exhibición de la convocatoria en el tablero oficial de información que para tal efecto exista en el edificio y en la página de Internet del Congreso, de la misma manera, los integrantes del Comité podrán invitar a participar a aquellas personas que consideren adecuadas.
+
+> <small>(F. DE E., P.O. 3 DE FEBRERO DE 2005)</small>
+
+II. Por invitación a cuando menos tres proveedores, cuyos montos serán aquellos que se encuentren en el rango de entre 2,000 (dos mil) a 5.000 (cinco mil) veces el salario mínimo general vigente en el área geográfica correspondiente a la zona metropolitana de Guadalajara, antes de impuestos.
+
+a) Se elaborará cuadro comparativo con las propuestas que se reciban.
+
+b) Se asignará el pedido y/o contrato de acuerdo a los criterios de precio, calidad, tiempo de entrega y demás condiciones favorables para el Congreso.
+
+> <small>(F. DE E., P.O. 3 DE FEBRERO DE 2005)</small>
+
+III. Adjudicación directa: cuyos montos serán aquellos que sean iguales o superiores a 500 (quinientos) y menores a 2000 (dos mil) veces el salario mínimo general vigente en el área geográfica correspondiente a la zona metropolitana de Guadalajara, antes de impuestos.
+
+3. Para las adquisiciones por adjudicación directa se deberá observar invariablemente el inciso a) de la fracción II de este artículo.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 177.
+
+1. En los casos en que los precios de las adquisiciones de bienes y servicios sean menores al equivalente a 500 veces el salario mínimo general vigente en el Área Metropolitana de Guadalajara, se aplicarán los lineamientos que establezca la Comisión.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 178.
+
+1. Las personas físicas o jurídicas que hayan sido adjudicadas para suministrar bienes o servicios, cuando se les requiera a juicio del Comité, deberán garantizar el cumplimiento del contrato mediante la presentación de fianzas, garantías, pólizas o cualquier otro instrumento establecido al efecto.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 179.
+
+1. Los instrumentos a que se refiere el artículo anterior, se otorgarán mediante documento que expida compañía autorizada con domicilio en el Estado de Jalisco; tratándose de proveedores domiciliados en esta Entidad. Cuando estos tengan su domicilio fuera de Jalisco, deberán exhibir la garantía, con la aceptación de la afianzadora que la expida de someterse a la competencia de los juzgados del fuero común del Primer Partido Judicial del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 180.
+
+1. Los proveedores serán responsables por los defectos, vicios ocultos o falta de calidad en general, en los bienes o servicios o por cualquier otro incumplimiento en que hubieren incurrido en los términos del pedido, de conformidad a los términos establecidos en la fianza presentada.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 181.
+
+> <small>(F. DE E., P.O. 3 DE FEBRERO DE 2005)</small>
+
+1. En caso de incumplimiento del presente ordenamiento por parte de los servidores públicos que tengan injerencia en el proceso de adquisición de bienes, contratación de servicios o enajenaciones, se aplicarán las sanciones establecidas en la Ley de Responsabilidades para los Servidores Públicos del Estado de Jalisco.
+
+2. Toda adquisición que se haga en contravención de las normas establecidas en este título es nula de pleno derecho.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 182.
+
+1. Las personas que hubieren participado en algún procedimiento de concurso o invitación a cotizar y que consideren afectados sus legítimos intereses por no haberse apegado el procedimiento de adquisición a lo estipulado por el presente ordenamiento, los Acuerdos Legislativos aplicables o los términos de la respectiva convocatoria, podrán inconformarse por escrito ante la Comisión, explicando detalladamente las causas que motivan sus discrepancias y las conductas indebidas en que, a su juicio, podría haber incurrido cualesquier servidor público por los actos impugnados.
+
+> <small>(F. DE E., P.O. 3 DE FEBRERO DE 2005)</small>
+
+2. Podrán, asimismo, presentar escritos de inconformidad todas las personas que, habiendo tenido conocimiento de hechos irregulares realizados durante el trámite de adquisición de bienes o contratación de servicios, quisieran dar parte de ellos a la Comisión, aunque hubieren o no tenido una injerencia directa en el procedimiento. En tal situación, el escrito deberá contener los datos generales del denunciante, así como el domicilio en el que recibirán las notificaciones que se generen.
+
+3. Las inconformidades deberán presentarse dentro de los diez días hábiles siguientes a aquél en que el hecho objetado ocurra o que el inconforme tenga conocimiento de él.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 183.
+
+1. Al escrito de inconformidad deberán acompañarse las pruebas que se tengan, las cuales serán valoradas por la Comisión durante el período de investigación.
+
+2. La manifestación de hechos falsos se sancionará conforme a las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 184.
+
+1. Recibido un escrito de inconformidad, la Comisión dispondrá de 30 días naturales, contados a partir del día siguiente al que se reciba el documento, para realizar sus averiguaciones y resolver lo conducente.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 185.
+
+1. Para el desahogo de las inconformidades, la Comisión podrá auxiliarse de los órganos dependientes de la Secretaría General del Congreso, que estarán obligados a proporcionar toda la información que les fuere requerida.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 186.
+
+1. La Dirección deberá conservar por el tiempo y en la forma que señale la legislación aplicable, el Comité o la Comisión, la documentación que justifique y compruebe la realización de las operaciones de adquisición de bienes y contratación de servicios.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 187.
+
+1. Transcurrido el plazo para presentar escritos de inconformidad, precluye para los interesados el derecho a objetar los procedimiento (sic). Empero, la Auditoria Superior del Estado tendrá en cualquier tiempo la facultad de requerir información y fiscalizar los procesos de adquisición de bienes o contratación de servicios, en los términos de ley.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 188.
+
+1. Los procesos de adjudicación de contratos para la compra de bienes o contratación de servicios podrán suspenderse cuando:
+
+I. Se advierta que existan o pudieran existir actos contrarios a las disposiciones de este Reglamento o de las disposiciones legales aplicables;
+
+II. Con la suspensión no se cause perjuicio al interés público y no se contravengan disposiciones de orden público, o bien, si de continuarse el procedimiento de contratación, pudieran producirse daños o perjuicios al Congreso.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 189.
+
+1. La resolución que emita la Comisión, sin perjuicio de la responsabilidad que proceda respecto de los servidores públicos que hubieren intervenido, tendrá por consecuencia:
+
+I. Declarar la nulidad de todo o parte del procedimiento a partir del acto o actos irregulares, estableciendo las directrices necesarias para que el mismo se realice conforme a la ley; o
+
+II. La declaración de improcedencia de la inconformidad.
 
 T R A N S I T O R I O S
 
@@ -1468,3 +2006,9 @@ Diputado Secretario
 ENRIQUE GARCÍA HERNÁNDEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 18 DE DICIEMBRE DE 2004.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
