@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-vivienda-360"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1984-02-07"
-last_updated: "1984-02-07"
+last_updated: "1985-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=360&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1983-12-30"
 
 LEY FEDERAL DE VIVIENDA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE FEBRERO DE 1985.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 7 de febrero de 1984.
 
@@ -57,7 +57,9 @@ III.- La ampliación de la cobertura social de los mecanismos de financiamiento 
 
 IV.- La articulación y congruencia de las acciones de las dependencias y entidades de la Administración Pública Federal, con las de los gobiernos estatales y municipales y con las de los sectores social y privado, tendientes a la integración de un Sistema Nacional de Vivienda para la satisfacción de las necesidades habitacionales del país;
 
-V.- La promoción de la participación activa y responsable de los sectores social y privado, mediante acciones concertadas en donde se establezcan los estímulos correspondientes para canalizar sus recursos y esfuerzos al auspicio de la construcción y mejoramiento de vivienda así como la construcción y mejoramiento de vivienda en renta;
+(REFORMADA, D.O.F. 7 DE FEBRERO DE 1985) (F. DE E., D.O.F. 29 DE MARZO DE 1985)
+
+V.- La coordinación de los sectores público, social y privado para estimular la construcción de vivienda en renta, dando preferencia a la vivienda de interés social;
 
 VI.- El mejoramiento del inventario habitacional y la organización y estímulo a la producción, mejoramiento y conservación de la vivienda urbana y rural y de sus materiales básicos para el bienestar de la familia mexicana;
 
@@ -97,7 +99,11 @@ V.- Las normas para el otorgamiento de créditos y asignación de vivienda;
 
 VI.- La promoción y fomento a las sociedades cooperativas de vivienda y de otras formas de gestión solidaria; y
 
-VII.- Las bases de coordinación de las dependencias y entidades de la Administración Pública Federal, con los gobiernos de los estados, con los municipios y con los sectores, social y privado, para el establecimiento del Sistema Nacional de Vivienda.
+VII.- Las bases de coordinación de las dependencias y entidades de la Administración Pública Federal, con los gobiernos de los estados, con los municipios y con los sectores, social y privado, para el establecimiento del Sistema Nacional de Vivienda;
+
+(REFORMADA, D.O.F. 7 DE FEBRERO DE 1985) (F. DE E., D.O.F. 29 DE MARZO DE 1985)
+
+VIII.- La promoción y fomento de la construcción de vivienda de interés social para destinarla al arrendamiento.
 
 ###### ARTICULO 5o.
 
@@ -113,7 +119,9 @@ Corresponde a la Secretaría de Desarrollo Urbano y Ecología:
 
 I.- Formular, conducir y evaluar la política general de vivienda, de conformidad con las disposiciones de esta Ley y con las que dicte al respecto el Ejecutivo Federal así como coordinar los programas y acciones que tiendan a satisfacer necesidades habitacionales que realicen las entidades de la Administración Pública Federal y las funciones y programas afines que en su caso se determinen;
 
-II.- Promover, coordinar o realizar los programas habitacionales que determine el Ejecutivo Federal;
+(REFORMADA, D.O.F. 7 DE FEBRERO DE 1985) (F. DE E., D.O.F. 29 DE MARZO DE 1985)
+
+II.- Promover, coordinar o realizar los programas habitacionales que determine el Ejecutivo Federal en los que se estimula la construcción de viviendas de interés social destinadas al arrendamiento;
 
 III.- Intervenir en la formulación y presentar a la Secretaría de Programación y Presupuesto los proyectos de presupuestos anuales de las entidades de la Administración Pública Federal en las que funja como coordinador de sector y que realicen programas de vivienda;
 
@@ -189,7 +197,9 @@ I.- Suelo para vivienda y oferta pública en fraccionamientos populares;
 
 II.- Producción y distribución de materiales de construcción;
 
-III.- Producción y mejoramiento de la vivienda urbana;
+(REFORMADA, D.O.F. 7 DE FEBRERO DE 1985) (F. DE E., D.O.F. 29 DE MARZO DE 1985)
+
+III.- Producción y mejoramiento de la vivienda urbana estimulando la construcción de la vivienda de interés social destinada al arrendamiento;
 
 IV.- Producción y mejoramiento de la vivienda rural y apoyo a las comunidades rurales para su desarrollo;
 
@@ -209,7 +219,9 @@ X.- Promoción y apoyo a los programas de vivienda de los gobiernos de las entid
 
 Para el cumplimiento del Programa Sectorial de Vivienda, las dependencias y entidades de la Administración Pública Federal, en la programación de sus actividades, deberán:
 
-I.- Promover la canalización de recursos financieros a tasas de interés preferenciales compatibles con el Programa Sectorial de Vivienda;
+(REFORMADA, D.O.F. 7 DE FEBRERO DE 1985) (F. DE E., D.O.F. 29 DE MARZO DE 1985)
+
+I.- Promover la canalización de recursos financieros a tasas de interés preferenciales compatibles con el Programa Sectorial de Vivienda estimulando la construcción de vivienda de interés social destinada al arrendamiento;
 
 II.- Apoyar la producción y distribución de materiales básicos para la construcción de vivienda;
 
@@ -636,3 +648,9 @@ TERCERO.- A partir de la fecha de entrada en vigor de la presente Ley, en un per
 México, D.F., a 29 de diciembre de 1983.- Luz Lajous, D.P.- Raúl Salinas Lozano, S. P.- Artemio Meixueiro, D.S.- Myrna Esther Hoyos de Navarrete, S.S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos ochenta y tres.- Miguel de la Madrid Hurtado.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Jesús Silva Herzog Flores.- Rúbrica.- El Secretario de Programación y Presupuesto, Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Energía, Minas e Industria Paraestatal, Francisco Labastida Ochoa.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Héctor Hernández Cervantes.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Rodolfo Félix Valdés.- Rúbrica.- El Secretario de Desarrollo Urbano y Ecología, Marcelo Javelly Girard.- Rúbrica.- El Secretario de la Reforma Agraria, Luis Martínez Villicaña.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Ramón Aguirre Velázquez.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett Díaz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 7 DE FEBRERO DE 1985.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
