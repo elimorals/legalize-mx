@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-civiles-del-estado-de-michoacan-5934"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1981-06-15"
+last_updated: "1988-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 1988.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el 30 de julio de 1936.
 
@@ -4795,7 +4795,11 @@ VI. Cualquier documento privado que haya sido reconocido por el que lo suscriba,
 
 VII. Los convenios celebrados ante el juez o ante alguna de las salas del Supremo Tribunal de Justicia en el curso de un juicio;
 
-VIII. El juicio uniforme de contadores, ratificado judicialmente, si las partes ante el juez o por escritura pública se hubieren sujetado expresamente a él o lo hubieren aprobado.
+VIII. El juicio uniforme de contadores, ratificado judicialmente, si las partes ante el juez o por escritura pública se hubieren sujetado expresamente a él o lo hubieren aprobado;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 1988)</small>
+
+IX. Los convenios celebrados ante la Procuraduría Federal del Consumidor, así como los laudos que emita dicha autoridad.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -5602,6 +5606,10 @@ La sala que haya dictado la sentencia que cause ejecutoria, devolverá los autos
 ###### Artículo 755.
 
 Las transacciones extrajudiciales y el juicio de contadores serán ejecutados por el juez que deba conocer del negocio.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 1988)</small>
+
+La ejecución de los convenios celebrados ante la Procuraduría Federal del Consumidor y los laudos dictados por ésta, se hará por el juez competente que se haya designado por las partes, y en su defecto se ejecutarán por el juez que conforme a las reglas del Título Segundo de este Código, corresponda conocer del asunto.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -10564,3 +10572,7 @@ SEGUNDO.- Los recursos de apelación y de queja interpuestos con anterioridad a 
 TERCERO.- Continuarán su curso legal los juicios sumarios civiles derivados de las diligencias de apeo o deslinde y amojonamiento, con motivo de haber sido declaradas contenciosas por el juez, al tenor de lo dispuesto en el artículo 1335 del Código de Procedimientos Civiles, antes de su reforma por el presente Decreto.
 
 CUARTO.- Se derogan todas las disposiciones legales que se opongan a lo previsto en este Decreto.
+
+P.O. 24 DE NOVIEMBRE DE 1988.
+
+UNICO.- Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
