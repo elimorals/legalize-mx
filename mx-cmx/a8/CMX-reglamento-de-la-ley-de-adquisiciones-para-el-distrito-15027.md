@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-adquisiciones-para-el-distrito-15027"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-09-23"
-last_updated: "1999-09-23"
+last_updated: "2003-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15027&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-08-19"
 
 REGLAMENTO DE LA LEY DE ADQUISICIONES PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE ABRIL DE 2003.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 23 de septiembre de 1999.
 
@@ -36,9 +36,11 @@ REGLAMENTO DE LA LEY DE ADQUISICIONES PARA EL DISTRITO FEDERAL
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
+
 ###### Artículo 1°.
 
-El presente ordenamiento tiene por objeto reglamentar las disposiciones de la Ley de Adquisiciones para el Distrito Federal, en lo conducente a la planeación, programación, presupuestación, gasto y ejecución de las adquisiciones y arrendamientos de bienes muebles, así como su control, conservación y mantenimiento, de igual forma será aplicable a la prestación de los servicios de cualquier naturaleza, excepto los de obra pública que contraten las Dependencias, Organos Desconcentrados y Entidades de la Administración Pública del Distrito Federal.
+El presente ordenamiento tiene por objeto reglamentar las disposiciones de la Ley de Adquisiciones para el Distrito Federal, en lo conducente a la planeación, programación, presupuestación, contratación, gasto, ejecución, conservación, mantenimiento y control de las adquisiciones, arrendamientos de bienes muebles y prestación de servicios de cualquier naturaleza que realicen las Dependencias, Órganos Desconcentrados, Entidades y Delegaciones de la Administración Pública del Distrito Federal, excepto los de obra pública que las mismas contraten.
 
 ###### Artículo 2°.
 
@@ -46,129 +48,175 @@ Además de los conceptos que expresamente señala el artículo 2° de la Ley, y 
 
 I.- Bienes Patrimoniales: Los bienes muebles e inmuebles que se encuentran en posesión o que son propiedad del Distrito Federal;
 
-II.- Comité Central: El Comité de Adquisiciones, Arrendamientos y Prestación de Servicios a que se refiere el artículo 20 de la Ley;
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
 
-III.- Comités: El Comité Central y los Comités de las Entidades;
+II.- Comités: El Comité Central, el Comité Delegacional y los Comités de las Entidades;
 
-IV.- Consolidación de Adquisiciones, Arrendamientos y Prestación de Servicios: La figura mediante la cual las Dependencias, Organos Desconcentrados o Entidades, realizan adquisiciones o arrendamientos de bienes o contratación de la prestación de servicios de manera conjunta;
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
 
-V.- Delegaciones: Los órganos políticos administrativos desconcentrados con autonomía funcional en acciones de gobierno;
+III.- Comité Central: El Comité de Adquisiciones, Arrendamientos y Prestación de Servicios a que se refiere el artículo 20 párrafo primero de la Ley;
 
-VI.- Desarrollo de Proveedores: El fomento de proveedores nacionales con capacidad técnica y administrativa para la manufactura de bienes y servicios que requieren las Dependencias, Organos Desconcentrados y Entidades, con calidad igual o superior a los nacionales que comúnmente se adquieren o a los provenientes del extranjero;
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
 
-VII.- Dictamen Técnico de Especialidad: La opinión técnica que emiten los Subcomités Técnicos de Especialidad sobre los asuntos que se someten a su consideración, en las materias específicas para las que fueron creados;
+IV.- Comité Delegacional: El comité de El Comité de Adquisiciones, Arrendamientos y Prestación de Servicios a que se refiere el artículo 20 párrafo segundo de la Ley;
 
-VIII.- Garantía: El instrumento jurídico a través del cual el licitante respalda su propuesta y el proveedor el cumplimiento del contrato y en su caso, el anticipo que se le hubiese entregado;
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
 
-IX.- Pena Convencional: La cláusula que se establece en el contrato, en virtud de la cual se fija un pago para el caso de que el proveedor incurra en incumplimiento total o no cumpla de la manera convenida las obligaciones contraídas con la Dependencia, Organo Desconcentrado o Entidad;
+V.- Consolidación de adquisiciones, arrendamientos y prestación de servicios: La figura mediante la cual, conjunta o separadamente, las Dependencias, Órganos Desconcentrados, Delegaciones o Entidades, podrán realizar adquisiciones o arrendamientos de bienes o contratación de servicios;
 
-X.- Reglamento: El Reglamento de la Ley de Adquisiciones para el Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
 
-XI.- Subcomité: Los Subcomités de Adquisiciones, Arrendamientos y Prestación de Servicios que se establezcan en las Dependencias, Organos Desconcentrados y Entidades, y
+VI.- Delegaciones: Los Órganos Político Administrativos en cada una de las demarcaciones territoriales en que se divide el Distrito Federal;
 
-XII.- Subcomité Técnico de Especialidad: Los órganos colegiados que son creados o aprobados por los Comités, encargados de emitir opinión técnica relacionadas con las especificaciones de los bienes y servicios a contratar.
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
+
+VII.- Desarrollo de proveedores: El fomento de proveedores nacionales con capacidad técnica y administrativa para la manufactura de bienes y servicios que requieren las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, con calidad igual o superior a los que comúnmente se adquieren provenientes del extranjero;
+
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
+
+VIII.- Dictamen técnico de especialidad: La opinión técnica que emiten los Subcomités Técnicos de Especialidad sobre los asuntos que se someten a su consideración, en las materias específicas para las que fueron creados;
+
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
+
+IX.- Garantía: El instrumento jurídico a través del cual el licitante respalda su propuesta y el proveedor el cumplimiento del contrato y en su caso, el anticipo que se le hubiese entregado;
+
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
+
+X.- Pena convencional: Pago que se fija a cargo del proveedor para el caso de que incurra en incumplimiento de las obligaciones estipuladas contractualmente con las Dependencias, Órganos Desconcentrados, Delegaciones o Entidades;
+
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
+
+XI.- Reglamento: El presente Reglamento;
+
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
+
+XII.- Subcomité: Órgano Colegiado creado en auxilio de las funciones de los Comités de Adquisiciones, Arrendamientos y Prestación de Servicios que se establezcan en las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades,
+
+> <small>(ADICIONADA, G.O. 1 DE ABRIL DE 2003)</small>
+
+XIII.- Subcomité Técnico de Especialidad: Órgano Colegiado creado o aprobado por los Comités, encargado de emitir opinión técnica relacionada con las especificaciones de los bienes, arrendamientos y servicios a contratar;
+
+> <small>(ADICIONADA, G.O. 1 DE ABRIL DE 2003)</small>
+
+XIV.- Grupo de Trabajo: El integrado por los representantes de las unidades requirentes, de la contraloría, la Secretaría, la Oficialía y cuando sea necesario un representante del Consejo Consultivo de Abastecimiento quienes elaborarán las bases y anexos de licitación y la convocatoria, que será sancionado por el Comité Central,
+
+> <small>(ADICIONADA, G.O. 1 DE ABRIL DE 2003)</small>
+
+XV.- Impacto ambiental: Modificación del ambiente ocasionado por la acción del hombre o de la naturaleza; y
+
+> <small>(ADICIONADA, G.O. 1 DE ABRIL DE 2003)</small>
+
+XVI.- Verificación de precios: Es la revisión del precio con el que las empresas venden los bienes o servicios al público, mismo que servirá como referencia para obtener la suficiencia presupuestal, sin que sea determinante para la adquisición de bienes o servicios.
+
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 3°.
 
-Los servidores públicos de las Dependencias, Organos Desconcentrados y Entidades que participen en las adquisiciones, arrendamientos y prestación de servicios, estarán obligados a observar las disposiciones contenidas en la Ley, el presente Reglamento, así como la Ley Federal de Responsabilidades de los Servidores Públicos y demás disposiciones aplicables.
+Los servidores públicos de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que participen en las adquisiciones, arrendamientos y prestación de servicios, estarán obligados a observar las disposiciones contenidas en la Ley, el Reglamento, y el régimen de responsabilidades de los servidores públicos y demás disposiciones aplicables.
+
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 4°.
 
-Con objeto de aplicar correctamente la normatividad en los procedimientos para las adquisiciones, arrendamientos y prestación de servicios, que lleven a cabo las Dependencias, Organos Desconcentrados y Entidades, la Secretaría en el oficio de autorización de inversión que emita para cada caso, señalará el origen de los recursos presupuestales, esto es, si se trata de recursos del Gobierno del Distrito Federal, federales o provenientes de créditos externos.
+Con objeto de aplicar correctamente la normatividad en los procedimientos para las adquisiciones, arrendamientos y prestación de servicios, que lleven a cabo las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, la Secretaría en el oficio de autorización de inversión que emita para cada caso, señalará el origen de los recursos presupuestales, esto es, si se trata de recursos del Gobierno del Distrito Federal, federales o de créditos externos.
+
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 5°.
 
-Las asesorías técnicas a que se refiere el artículo 10 de la Ley, serán los servicios que presten las personas físicas o morales, tendientes a mejorar los sistemas de adquisiciones, arrendamientos y prestación de servicios, los cuales, de ninguna forma dejarán de sujetarse a las disposiciones que establece la Ley, así como el presente Reglamento.
+La contratación de asesorías técnicas que presten personas físicas o morales, se sujetará a las disposiciones que establece la Ley y el Reglamento.
+
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 6°.
 
-Las Dependencias, Organos Desconcentrados y Entidades, previamente al arrendamiento de bienes muebles, deberán realizar los estudios de factibilidad necesarios, considerando la conveniencia de su adquisición mediante arrendamiento financiero con opción a compra. En estos casos se deberá de tomar en cuenta el dictamen que al respecto emita la Comisión de Avalúos de Bienes del Distrito Federal.
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, previamente al arrendamiento de bienes muebles, realizarán los estudios de factibilidad necesarios, considerando la conveniencia de su adquisición mediante arrendamiento financiero con opción a compra. En estos casos se deberá de tomar en cuenta el dictamen que al respecto emita la Oficialía Mayor por sí o a través de sus Unidades Administrativas competentes.
 
-> <small>(F. DE E., G.O. 12 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 7°.
 
-Para la optimización de sus presupuestos las Dependencias, Organos Desconcentrados y Entidades procurarán y promoverán la Consolidación de Adquisiciones, Arrendamientos y Prestación de Servicios para lo cual la Oficialía emitirá los lineamientos correspondientes que permitan mantener una estrecha comunicación e intercambio de información de sus necesidades.
+Para la optimización de sus presupuestos las Dependencias y Órganos Desconcentrados promoverán la consolidación de adquisiciones, arrendamientos y prestación de servicios, para lo cual la Oficialía y la Secretaría emitirán los lineamientos correspondientes que permitan mantener una estrecha comunicación e intercambio de información de sus necesidades, mismos a los que se sujetarán las Entidades en caso de integrarse a dicho procedimiento. Para el caso de las Delegaciones, se estará a lo dispuesto en la Ley.
+
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 8°.
 
-Las Dependencias, Organos Desconcentrados y Entidades de acuerdo a su disponibilidad presupuestal y calendarización del presupuesto autorizado, podrán otorgar anticipos para la adquisición de bienes de fabricación especial, sobre diseño, cuyo proceso de fabricación sea mayor a 4 meses o se inicie a partir del fincamiento del pedido.
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, de acuerdo a su disponibilidad presupuestal y calendarización del presupuesto autorizado, podrán otorgar anticipos para la adquisición de bienes de fabricación especial, sobre diseño, cuyo proceso de fabricación sea mayor a 4 meses o se inicie a partir de la formalización del contrato.
+
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 9°.
 
-Para el otorgamiento de anticipos a que se refiere al artículo anterior, el titular del área administrativa solicitante o adquiriente deberá justificar plenamente dicho otorgamiento y presentarlo al Comité o Subcomité, según sea el caso, a fin de que dicha situación figure en el dictamen correspondiente.
+Para el otorgamiento de anticipos a que se refiere el artículo anterior, el titular del área administrativa solicitante o adquirente justificará plenamente dicho otorgamiento.
 
-Asimismo, las condiciones y porcentaje del anticipo deberán indicarse en las bases de las licitaciones, en las solicitudes de la cotización y en los contratos respectivos. Este anticipo podrá otorgarse hasta por un 50% del monto total del contrato asignado sin considerar impuestos y deberá pactarse bajo la condición de precio fijo. De igual forma, los proveedores constituirán previamente a la entrega del anticipo la garantía por la totalidad de su monto, la que deberá subsistir hasta su total amortización.
+Las condiciones y porcentaje del anticipo se indicarán en las bases de las licitaciones, en las solicitudes de la cotización y en los contratos respectivos. Dicho anticipo no podrá exceder del 50% del monto total del contrato asignado sin considerar impuestos y se pactará bajo la condición de precio fijo. De igual forma, los proveedores constituirán previamente a la entrega del anticipo la garantía por el 100% del monto total del anticipo, la que subsistirá hasta su total amortización.
+
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 10.
 
-En las adquisiciones y arrendamientos de bienes distintos a los previstos en el artículo 11 de este Reglamento y en las contrataciones de servicios en que sea estrictamente indispensable otorgar anticipos hasta por un 50% del monto total del contrato correspondiente, sólo se podrá realizar, a través de la autorización escrita del Oficial Mayor del Gobierno del Distrito Federal, del Oficial Mayor de la Procuraduría General de Justicia del Distrito Federal o su equivalente en las Entidades, para lo cual los titulares del área administrativa solicitante o adquirente deberán presentar previamente ante los mismos, la solicitud debidamente justificada.
+Las adquisiciones y arrendamientos de. bienes o las contrataciones de servicios en que sea estrictamente indispensable otorgar anticipos que excedan del 50% del monto total del contrato correspondiente, sólo se podrán realizar a través de la autorización por escrito del Oficial Mayor del Distrito Federal, del Oficial Mayor de la Procuraduría General de Justicia del Distrito Federal o el titular de la Delegación o Entidad de que se trate, para lo cual los titulares del área administrativa solicitante o adquirente presentarán previamente ante los mismos, la solicitud debidamente justificada.
+
+La autorización a que se refiere el párrafo anterior, se integrará al expediente respectivo.
+
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 11.
 
-En las adquisiciones de bienes cuyo proceso de fabricación sea mayor a 4 meses o se inicie a partir del fincamiento del pedido, se podrán efectuar pagos parciales previa verificación física de sus avances. Cuando se hubiere otorgado anticipo para este tipo de bienes, se amortizará proporcionalmente con cada uno de los pagos parciales que se realicen.
+En las adquisiciones de bienes cuyo proceso de fabricación sea mayor a 4 meses o se inicie a partir de la formalización del contrato, se podrán efectuar pagos parciales previa verificación física de sus avances. Cuando se hubiere otorgado anticipo para este tipo de bienes, se amortizará proporcionalmente con cada uno de los pagos parciales que se realicen.
+
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 12.
 
-De conformidad con lo dispuesto por el artículo 8° de la Ley, la Secretaría del Desarrollo Económico emitirá un Programa General de Desarrollo de Proveedores en el que establezca las políticas y lineamientos en esta materia. La Oficialía en apoyo a este Programa, dictará las disposiciones administrativas que estime procedentes.
+La Secretaría de Desarrollo Económico determinará las Dependencias. Órganos Desconcentrados, Delegaciones y Entidades que en el ámbito de su competencia, establecerán programas específicos de desarrollo de proveedores, observando los lineamientos que al efecto se emitan. Estos programas deberán ser congruentes con sus programas anuales de adquisiciones.
 
-> <small>(F. DE E., G.O. 12 DE OCTUBRE DE 1999)</small>
+Los programas específicos de desarrollo de proveedores se registrarán para su seguimiento y evaluación ante la Secretaria de Desarrollo Económico.
 
-La Secretaría de Desarrollo Económico determinará las Dependencias, Organos Desconcentrados y Entidades que en el ámbito de su competencia, establecerán programas específicos de desarrollo de proveedores, observando los lineamientos que al efecto se emitan. Estos programas deberán ser congruentes con sus Programas Anuales de Adquisiciones.
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades de la Administración Pública del Distrito Federal observarán las disposiciones administrativas generales de carácter obligatorio que dicte la Oficialía en coordinación con la Secretaría del Medio Ambiente, en materia de adquisición o arrendamiento de bienes o contratación de servicios que causen menor impacto ambiental.
 
-Los Programas Específicos de Desarrollo de Proveedores deberán registrarse para su seguimiento y evaluación ante la citada Secretaría.
+## TITULO SEGUNDO. DE LA PROGRAMACIÓN, PLANEACIÓN Y PRESUPUESTACIÓN
 
-## TITULO SEGUNDO. DE LA PROGRAMACION, PLANEACION Y
+### CAPITULO UNICO. DE LOS PROGRAMAS ANUALES DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS
 
-PRESUPUESTACION
-
-### CAPITULO UNICO. DE LOS PROGRAMAS ANUALES DE
-
-ADQUISICIONES, ARRENDAMIENTOS Y
-
-PRESTACIÓN DE SERVICIOS
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 13.
 
-Las Dependencias, Organos Desconcentrados y Entidades para la elaboración de su Programa Anual de Adquisiciones, Arrendamientos y Prestación de Servicios, además de lo dispuesto en el artículo 16 de la Ley, deberán tomar en consideración lo siguiente:
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades para la elaboración de su Programa Anual de Adquisiciones, Arrendamientos y Prestación de Servicios, además de lo dispuesto en el artículo 16 de la Ley, observarán los Lineamientos que al efecto emitan la Secretaría y la Oficialía, en el ámbito de su respectiva competencia.
 
-I.- El Programa Operativo Anual;
-
-II.- La calendarización de sus recursos presupuestales, debidamente autorizados por la Secretaría;
-
-III.- Los bienes muebles que sean susceptibles de reparación, mantenimiento, rehabilitación y reposición, y
-
-IV.- La verificación de la existencia de bienes en sus almacenes.
-
-> <small>(F. DE E., G.O. 12 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 14.
 
-Las Dependencias, Organos Desconcentrados y Entidades deberán enviar dentro de los dos primeros meses de cada año, un ejemplar de su Programa Anual de Adquisiciones, Arrendamientos y Prestación de Servicios a la Secretaría para su validación presupuestal y uno más, a la Dirección General de Recursos Materiales y Servicios Generales de la Oficialía, para su presentación al Consejo Consultivo de Abastecimiento, informando de su remisión a sus respectivas contralorías internas.
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades enviarán su Programa Anual de Adquisiciones, Arrendamientos y Prestación de Servicios, a la Secretaría para su validación presupuestal y una copia de dicho programa a la Dirección General de Recursos Materiales y Servicios Generales de la Oficialía, para su revisión y posterior presentación al Consejo Consultivo de Abastecimiento, informando de su remisión a sus respectivas Contralorías internas, conforme a los Lineamientos que al efecto emitan la Secretaría y la Oficialía.
 
-## TITULO TERCERO. DE LA INTEGRACIÓN Y FUNCIONAMIENTO DE
+Las modificaciones al Programa Anual de Adquisiciones que sean autorizadas por la Secretaría, serán notificadas a la Dirección General de Recursos Materiales y Servicios Generales de la Oficialía, previo al inicio de los procedimientos de adquisición, arrendamiento o prestación de servicios que correspondan.
 
-LOS COMITES Y SUBCOMITES DE
+## TITULO TERCERO. DE LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS COMITES Y SUBCOMITES DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS
 
-ADQUISICIONES, ARRENDAMIENTOS Y
+> <small>(REFORMADA SU DENOMINACION, G.O. 1 DE ABRIL DE 2003)</small>
 
-PRESTACIÓN DE SERVICIOS
+### CAPITULO PRIMERO. DEL COMITÉ CENTRAL, COMITÉ DELEGACIONAL Y DE LOS COMITÉS DE LAS ENTIDADES
 
-### CAPITULO PRIMERO. DEL COMITE CENTRAL Y DE LOS COMITES DE
-
-LAS ENTIDADES
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 15.
 
-Se establece el Comité de Adquisiciones, Arrendamientos y Prestación de Servicios, como órgano colegiado constituido en los términos que establece la Ley y este Reglamento, para la toma de decisiones, emisión de dictámenes, la generación de directrices y políticas internas en las materias de su competencia.
+Los Comités a que se refiere el presente capitulo, se establecerán para la toma de decisiones, emisión de dictámenes, la generación de directrices y políticas internas en las materias de su competencia, conforme a lo establecido en la Ley y el Reglamento.
+
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 16.
 
-Este Comité Central tendrá por objeto promover que las Dependencias, Organos Desconcentrados y Entidades realicen sus adquisiciones, arrendamientos y prestación de servicios de manera racional, óptima, eficiente y transparente, supervisando que se cumplan las metas establecidas y la observancia de la propia Ley, el presente Reglamento y demás disposiciones aplicables.
+Los Comités a que se refiere el artículo anterior, tendrán por objeto promover que las adquisiciones, arrendamientos y prestación de servicios se realicen de manera racional, óptima, eficiente y transparente, y que se apliquen las políticas para la verificación de precios, especificación de insumos, menor impacto ambiental, pruebas de calidad y otros requerimientos que formulen las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, supervisando que se cumplan las metas establecidas, así como la Ley, el Reglamento y demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 17.
 
-El Comité de Adquisiciones, Arrendamientos y Prestación de Servicios se integrará por:
+El Comité Central de Adquisiciones, Arrendamientos y Prestación de Servicios se integrará por:
 
 I.- Un Presidente, que será el Oficial Mayor;
 
@@ -176,15 +224,25 @@ I.- Un Presidente, que será el Oficial Mayor;
 
 II.- Un Secretario Ejecutivo, que será el Director General de Recursos Materiales y Servicios Generales, de la Oficialía;
 
-III.- Vocales, que serán un representante de la Jefatura de Gobierno, de cada Secretaría, de la Oficialía Mayor, de la Contraloría General, de la Consejería Jurídica y de Servicios Legales y de la Procuraduría General de Justicia del Distrito Federal, los cuales deberán contar con un nivel mínimo de Director General, y
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
 
-> <small>(F. DE E., G.O. 12 DE OCTUBRE DE 1999)</small>
+III.- Vocales, los Directores Generales de Administración u homólogos de la Administración Pública Centralizada y, para el caso de la Procuraduría General de Justicia del Distrito Federal, el Director General de Recursos Materiales y Servicios Generales;
 
-IV.- Asesores, que serán un representante de la Contraloría y uno de la Consejería Jurídica y de Servicios Legales, diversos a los que participen como Vocales, así como aquéllos que determine el Comité.
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
 
-> <small>(F. DE E., G.O. 12 DE OCTUBRE DE 1999)</small>
+IV.- Dos Contralores Ciudadanos, los cuales serán acreditados y designados por el Jefe de Gobierno del Distrito Federal; y
 
-El Comité Central contará con un Secretario Técnico, que será designado por el Secretario Ejecutivo. El Secretario Ejecutivo del Comité fungirá como vocal representante de la Oficialía Mayor.
+> <small>(ADICIONADA, G.O. 1 DE ABRIL DE 2003)</small>
+
+V.- Asesores, un representante de la Contraloría y uno de la Consejería Jurídica y de Servicios Legales, diversos a los que participen como vocales, quienes deberán tener nivel mínimo de Director, y los demás que determine el Comité Central;
+
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
+
+El Presidente del Comité decidirá cuando se requiera contar con la presencia de otros servidores públicos, los cuales tendrán el carácter de invitados.
+
+> <small>(ADICIONADO, G.O. 1 DE ABRIL DE 2003)</small>
+
+El Comité Central contará con un Secretario Técnico, que será designado por el Secretario Ejecutivo.
 
 > <small>(F. DE E. PRIMER PARRAFO, G.O. 12 DE OCTUBRE DE 1999)</small>
 
@@ -204,9 +262,9 @@ III.- Convocar a sesión extraordinaria;
 
 IV.- Proponer la designación de invitados del Comité Central, y
 
-> <small>(F. DE E., G.O. 12 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
 
-V.- Las demás que determine el Comité Central y otros ordenamientos legales aplicables.
+V.- las demás atribuciones que determine el Comité Central, el Manual de Integración y Funcionamiento y otros ordenamientos legales aplicables.
 
 ###### Artículo 19.
 
@@ -226,9 +284,7 @@ III.- Designar al Secretario Técnico;
 
 IV.- Suscribir las convocatorias a sesión del Comité Central;
 
-> <small>(F. DE E., G.O. 12 DE OCTUBRE DE 1999)</small>
-
-V.- Firmar las convocatorias de las licitaciones que dictamine el Comité Central, y
+V.- (DEROGADA, G.O. 1 DE ABRIL DE 2003)
 
 > <small>(F. DE E., G.O. 12 DE OCTUBRE DE 1999)</small>
 
@@ -238,9 +294,9 @@ VI.- Realizar las demás funciones a su cargo previstas en las disposiciones apl
 
 Corresponde al Secretario Técnico:
 
-> <small>(F. DE E., G.O. 12 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
 
-I.- Integrar el orden del día de cada sesión con la documentación respectiva y vigilar su oportuna entrega a los miembros del Comité Central y demás invitados;
+I.- Integrar el orden del día de cada sesión con la documentación respectiva y vigilar su oportuna entrega a los miembros del Comité Central y demás invitados, para lo cual, observarán los lineamientos para la Integración y Remisión de Carpetas, Información o Documentación Vía Electrónica con relación a los Órganos Colegiados, Comisiones o Mesas de Trabajo, emitidos por la Oficialía;
 
 > <small>(F. DE E., G.O. 12 DE OCTUBRE DE 1999)</small>
 
@@ -252,41 +308,115 @@ III.- Las demás que le encomienden el Presidente y el Secretario Ejecutivo.
 
 Para el cumplimiento de su objeto el Comité Central además de las que expresamente señala la Ley, tendrá las siguientes facultades y obligaciones:
 
-I.- Dictaminar sobre la procedencia de celebrar licitaciones públicas, así como los casos en que no se celebren por encontrarse en alguno de los supuestos de excepción previstos en el artículo 54 de la Ley;
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
 
-II.- Aplicar, difundir y coadyuvar al debido cumplimiento de la Ley, el presente Reglamento y demás disposiciones jurídicas y administrativas de la materia;
+I.- Dictaminar sobre la procedencia de los casos de excepción a la licitación pública previstos en el artículo 54 de la Ley, salvo los supuestos de las fracciones IV y XII;
 
-> <small>(F. DE E., G.O. 12 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
 
-III.- Difundir las políticas relativas a la Consolidación de Adquisiciones, Arrendamientos y Prestación de Servicios, condiciones de pagos, así como en lo referente al aprovechamiento de bienes;
+II.- Aplicar, difundir, vigilar y coadyuvar al debido cumplimiento de la Ley, el Reglamento y demás disposiciones aplicables;
 
-IV.- Autorizar los Manuales de Integración y Funcionamiento de los Subcomités y Subcomités Técnicos de especialidad;
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
+
+III.- Difundir las políticas relativas a la consolidación de adquisiciones, arrendamientos y prestación de servicios, condiciones de pagos, así como en lo referente al aprovechamiento de bienes y servicios;
+
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
+
+IV.- Elaborar y aprobar su Manual de Integración y Funcionamiento, así como autorizar los que correspondan a los Subcomités y Subcomités Técnicos de Especialidad;
 
 V.- Dar seguimiento al cumplimiento de sus acuerdos;
 
-VI.- Supervisar semestralmente la actuación de los Subcomités y Subcomités Técnicos de Especialidad, a través del procedimiento que se establezca en los lineamientos que al efecto expida;
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
 
-VII.- Determinar, mediante reglas de carácter general, los casos en los que se podrá pactar cláusula arbitral en los contratos, previa opinión de la Oficialía y de la Contraloría;
+VI.- Analizar trimestralmente el informe de los casos dictaminados, conforme a la fracción I de este artículo; así como analizar semestralmente el informe de actuación de los Subcomités y Subcomités Técnicos de Especialidad, conforme al procedimiento que se establezca en los lineamientos que al efecto expida;
 
-VIII.- Autorizar, en las licitaciones públicas, por motivos de urgencia justificados, siempre y cuando no se tenga por objeto limitar el número de participantes, la reducción del plazo para la celebración del acto de presentación de propuestas, revisión de documentación legal y administrativa y apertura de ofertas técnicas;
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
 
-IX.- Aprobar previa justificación, el abastecimiento simultáneo de un mismo bien o de la prestación de servicios, y
+VII.- Determinar, mediante reglas de carácter general, los casos en los que se podrá pactar cláusula arbitral en los contratos y convenios, previa opinión de la Oficialía;
+
+VIII.- (DEROGADA, G.O. 1 DE ABRIL DE 2003)
+
+IX.- (DEROGADA, G.O. 1 DE ABRIL DE 2003)
 
 X.- Las demás que le confieran otras disposiciones aplicables a la materia.
 
+> <small>(ADICIONADO, G.O. 1 DE ABRIL DE 2003)</small>
+
+Artículo 21 BIS.- El Comité Delegacional se establecerá en los términos y con las facultades que expresamente le confiere la Ley.
+
+El Comité Delegacional se integrará con los Directores Generales de Administración en las Delegaciones y dos Contralores Ciudadanos propuestos por los titulares de las Delegaciones, que serán ratificados y acreditados por el Jefe de Gobierno del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 1 DE ABRIL DE 2003)</small>
+
+Artículo 21 TER.- El Comité Delegacional está integrado por:
+
+I.- Un Presidente, que será el Jefe Delegacional que corresponda, cargo que será desempeñado con carácter rotativo;
+
+II.- Un Secretario Ejecutivo, que será el Director General de Administración;
+
+III.- Un Secretario Técnico; que será el servidor público titular del área responsable de la administración de los recursos materiales, con nivel mínimo de Director;
+
+IV.- Vocales; que serán los Directores Generales de Administración que no tengan el cargo de Secretario Ejecutivo en el Comité Delegacional;
+
+V.- Dos Contralores Ciudadanos; y
+
+VI.- Asesores; que serán un representante de la Contraloría y un representante de una área jurídica distinta a la del Jefe Delegacional que presida, en ambos casos con nivel mínimo de Director.
+
+Los cargos a que se refieren las fracciones I, II y III del presente artículo, serán desempeñados por servidores públicos adscritos al mismo órgano político-administrativo, de conformidad con el Manual de Integración y Funcionamiento del mismo Comité Delegacional.
+
+El Presidente del Comité Delegacional decidirá cuando se requiera contar con la presencia de otros servidores públicos, los cuales tendrán el carácter de invitados.
+
+> <small>(ADICIONADO, G.O. 1 DE ABRIL DE 2003)</small>
+
+Artículo 21 CUATER.- Para el cumplimiento de su objeto, el Comité Delegacional, además de las facultades conferidas en la Ley, tendrá las siguientes:
+
+I.- Dictaminar sobre la procedencia de los casos de excepción a la licitación pública previstos en el artículo 54 de la Ley, salvo los casos de las fracciones IV y XII del mismo precepto;
+
+II.- Aplicar, difundir, vigilar y coadyuvar al debido cumplimiento de la Ley, el presente Reglamento y demás disposiciones aplicables que emitan, en el ámbito de su respectiva competencia, la Secretaría, la Oficialía, la Secretaría de Desarrollo Económico y la Secretaría del Medio ambiente
+
+III.- Difundir las políticas relativas a la consolidación de adquisiciones, arrendamientos y prestación de servicios, condiciones de pagos, así como en lo referente al aprovechamiento de bienes y servicios;
+
+IV.- Elaborar y aprobar su Manual de Integración y Funcionamiento, así como autorizar los que correspondan a los Subcomités y Subcomités Técnicos de Especialidad;
+
+V.- Dar seguimiento al cumplimiento de sus acuerdos;
+
+VI.- Analizar trimestralmente el informe de los casos dictaminados, conforme a la fracción I de este artículo.
+
+VII.- Analizar semestralmente el informe de actuación de los Subcomités y Subcomités Técnicos de Especialidad, conforme al procedimiento que se establezca en los lineamientos que al efecto expida;
+
+VIII.- Determinar, mediante reglas de carácter general, los casos en los que se podrá pactar cláusula arbitral en los contratos y convenios, previa opinión de la Oficialía; y
+
+IX.- Las demás que le confieran otras disposiciones aplicables a la materia.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE ABRIL DE 2003)</small>
+
 ###### Artículo 22.
 
-Las Entidades podrán constituir Comités de Adquisiciones, Arrendamientos y Prestación de Servicios, los cuales contarán con la siguiente estructura:
+Las Entidades establecerán Comités de Adquisiciones, Arrendamientos y Prestación de Servicios, en los términos establecidos en la Ley y el Reglamento, con la siguiente estructura:
 
-I.- Un Presidente, que será el titular o encargado del Area Administrativa de la Entidad;
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
 
-II.- Un Secretario Ejecutivo, que será el servidor público responsable de los recursos materiales y servicios generales de la Entidad;
+I.- Un Presidente, que será el titular de la Entidad;
 
-III.- Un Secretario Técnico, que será designado por el Secretario Ejecutivo y que deberá tener un nivel mínimo de subdirector de Area o su equivalente;
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
 
-IV.- Vocales, que serán los titulares de cada Dirección de Area, los responsables de las áreas de programación y presupuesto, técnicas y almacenes, o sus equivalente, y
+II.- Un Secretario Ejecutivo, que será el responsable del área administrativa de la Entidad;
 
-V.- Asesores, que serán un representante de la Contraloría Interna, y en su caso, uno del área jurídica de la Entidad.
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
+
+III.- Un Secretario Técnico, que será el responsable de los recursos materiales y servicios generales de la Entidad;
+
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
+
+IV.- Vocales, que serán los responsables de las áreas de programación y presupuesto, técnicas y almacenes, o sus equivalentes;
+
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
+
+V.- Dos Contralores Ciudadanos, nombrados por el Jefe de Gobierno; y
+
+> <small>(ADICIONADA, G.O. 1 DE ABRIL DE 2003)</small>
+
+VI.- Asesores, que serán un representante de la Contraloría Interna, y en su caso, uno del área jurídica de la Entidad.
 
 El Presidente del Comité de la Entidad decidirá cuando se requiera contar con la presencia de otros servidores públicos, los cuales tendrán el carácter de invitados.
 
@@ -302,43 +432,59 @@ III.- Dar seguimiento al cumplimiento de sus acuerdos;
 
 IV.- Aplicar los lineamientos generales y las políticas que emita el Comité Central y que deberá impulsar la Administración Pública Local, en materia de adquisiciones, arrendamientos y prestación de servicios;
 
-V.- Fijar las políticas para la verificación de precios, especificación de insumos, pruebas de calidad y otros requerimientos que formulen sus áreas operativas, atendiendo a las políticas que al efecto establezca el Comité Central;
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
+
+V.- Fijar las políticas para la verificación de precios, especificación de insumos, pruebas de calidad, menor impacto al ambiente y otros requerimientos que formulen sus áreas operativas, atendiendo a las políticas que al efecto establezca el Comité Central;
 
 VI.- Revisar sus programas y presupuestos de adquisiciones, arrendamientos y prestación de servicios, así como formular las observaciones y recomendaciones pertinentes;
 
-VII.- Dictaminar sobre la procedencia de celebrar licitaciones públicas, así como los casos en que no se celebren por encontrarse en alguno de los supuestos de excepción previstos en el artículo 54 de la Ley;
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
+
+VII.- Dictaminar los casos de excepción a la licitación pública previstos en el artículo 54 de la Ley, salvo sus fracciones IV y XII;
 
 VIII.- Emitir las políticas internas, bases y lineamientos en materia de adquisiciones, arrendamientos y prestación de servicios tomando en consideración las propuestas que al efecto formule el Comité Central;
 
-> <small>(F. DE E., G.O. 12 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
 
-IX.- Promover y difundir las políticas respectivas a la Consolidación de Adquisiciones, Arrendamientos y Prestación de Servicios, condiciones de pagos, así como al uso y aprovechamiento racional de bienes;
+IX.- Promover y difundir las políticas respectivas a la consolidación de adquisiciones, arrendamientos y prestación de servicios, condiciones de pagos, así como al uso y aprovechamiento racional de bienes y servicios;
 
-X.- Analizar trimestralmente el informe de los casos dictaminados que envíen las unidades de adquisiciones conforme a la fracción VII de este artículo, así como los resultados generales de las adquisiciones, arrendamientos y prestación de servicios y en su caso, disponer las medidas necesarias para su atención;
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
 
-XI.- Aplicar, difundir y coadyuvar al debido cumplimiento de la Ley, el presente Reglamento y demás disposiciones jurídicas y administrativas de la materia;
+X.- Analizar trimestralmente el informe de los casos dictaminados que envíen las unidades de adquisiciones conforme a la fracción VII de este artículo, así como los resultados generales de las adquisiciones, arrendamientos y prestación de servicios y en su caso, disponer las medidas necesarias para su aplicación;
 
-XII.- Supervisar semestralmente la actuación de los Subcomités y Subcomités Técnicos de Especialidad que se constituyan en la Entidad de que se trate;
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
 
-XIII.- Determinar la creación, suspensión o extinción de los Subcomités en la Entidad en que éstos operen;
+XI.- Aplicar, difundir y vigilar el cumplimiento de la Ley, el Reglamento y demás disposiciones aplicables;
 
-XIV.- Autorizar en las licitaciones públicas, por motivos de urgencia justificados por parte de la unidad solicitante de los bienes o servicios, y siempre y cuando no tenga por objeto limitar el número de participantes, la reducción de plazos para la celebración del acto de presentación de propuestas, revisión de documentación legal y administrativa y apertura de ofertas técnicas;
+XII.- (DEROGADA, G.O. 1 DE ABRIL DE 2003)
 
-XV.- Aprobar, previa justificación del área requeriente, el abastecimiento simultáneo de un mismo bien o de la prestación de un servicio, y
+XIII.- (DEROGADA, G.O. 1 DE ABRIL DE 2003)
+
+XIV.- (DEROGADA, G.O. 1 DE ABRIL DE 2003)
+
+XV.- (DEROGADA, G.O. 1 DE ABRIL DE 2003) y
 
 XVI.- Las demás que le confieran otras disposiciones aplicables a la materia.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE ABRIL DE 2003)</small>
+
 ###### Artículo 24.
 
-El Comité Central sesionará de manera ordinaria quincenalmente o de manera extraordinaria cuando se estime necesario, a solicitud de su Presidente o de la mayoría de sus miembros.
+El Comité Central y el Comité Delegacional sesionarán de manera ordinaria una vez al mes o de manera extraordinaria cuando se estime necesario, a solicitud de su Presidente o de la mayoría de sus integrantes o de cualquiera de ellos con derecho a voz y voto.
 
-Para la celebración de las sesiones se requerirá que asistan como mínimo, la mitad más uno de sus miembros con derecho a voto, contando invariablemente con la presencia del Presidente o su suplente.
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
+
+Para la celebración de las sesiones se requerirá que asistan como mínimo, la mitad más uno de sus integrantes con derecho a voto, contando invariablemente con la presencia del Presidente o su suplente.
 
 En el caso de las Entidades, el pleno de los Comités deberán establecer la periodicidad de sus sesiones ordinarias, así como los casos y formas en que se convocarán las extraordinarias, lo que se deberá establecer en su Manual de Integración y Funcionamiento.
 
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
+
 ###### Artículo 25.
 
-Las ausencias de los Presidentes de los Comités, serán suplidas por los Secretarias Ejecutivos, en el caso de las ausencias de estos últimos, serán suplidos por los Secretarios Técnicos. Los demás miembros de los Comités, deberán designar a los servidores públicos que los suplan.
+Las ausencias de los Presidentes de los Comités serán suplidas por los secretarios ejecutivos, en el caso de las ausencias de estos últimos, serán suplidos por los secretarios técnicos. Las demás integrantes de los Comités, designarán a los servidores públicos que los suplan; en ningún caso el Secretario Técnico podrá suplir la ausencia del Presidente, ni al Secretario Ejecutivo en su carácter de Presidente suplente.
+
+Lo señalado en el párrafo anterior se establecerá en las disposiciones contenidas en los Manuales de Integración y Funcionamiento.
 
 ###### Artículo 26.
 
@@ -346,33 +492,47 @@ Los Presidentes de los Comités tendrán voz y voto y en caso de empate, les cor
 
 El Secretario Ejecutivo y los Vocales de los Comités tendrán igualmente voz y voto.
 
-En el caso de los asesores, el Secretario Técnico e invitados de los Comités, solamente tendrán derecho a voz.
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
+
+El Secretario Técnico sólo tendrá derecho a voz. En los casos que supla al Secretario Ejecutivo tendrá derecho a voz y voto.
+
+> <small>(ADICIONADO, G.O. 1 DE ABRIL DE 2003)</small>
+
+El Contralor Ciudadano acreditado tendrá derecho a voz y voto.
+
+> <small>(ADICIONADO, G.O. 1 DE ABRIL DE 2003)</small>
+
+Los asesores e invitados de los Comités, solamente tendrán derecho a voz.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 27.
 
-Las sesiones de los Comités, se deberán celebrar conforme al orden del día que para el efecto se elabore, el cual deberá ser remitido conjuntamente con la documentación respectiva, a sus integrantes, cuando menos con dos días hábiles de anticipación a la sesión ordinaria y de un día hábil para el caso de las extraordinarias.
+Las sesiones de los Comités, se celebrarán conforme al orden del día que para el efecto se elabore, el cual será remitido conjuntamente con la documentación respectiva, a sus integrantes, cuando menos con dos días hábiles de anticipación a la sesión ordinaria y de un día hábil para el caso de las extraordinarias, de conformidad con los Lineamientos para la Integración y Remisión de Carpetas, Información o Documentación Vía Electrónica con relación a los Órganos Colegiados, Comisiones o Mesas de Trabajo, emitidos por la Oficialía.
 
-Los asuntos que se sometan a dictaminación se presentarán a través de los formatos que al efecto establezcan los Comités, los que contendrán la información resumida del caso a presentar. En el mismo formato se asentará el dictamen correspondiente, el que deberá ser firmado por todos los miembros asistentes que tengan derecho a voz y voto.
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
+
+Los asuntos que se sometan a dictaminación se presentarán a través de los formatos que establezcan los Comités, los que contendrán la información resumida del caso a presentar y la justificación del procedimiento de excepción a la licitación pública. En el mismo formato se asentará el dictamen correspondiente, que será firmado por el Presidente, el Secretario Ejecutivo y por los vocales o sus respectivos suplentes.
 
 De cada sesión se levantará acta, que deberá ser firmada por todos los que hubieren asistido a ella.
 
 En la última sesión ordinaria de cada ejercicio presupuestal que efectúen los Comités, deberán someter al pleno del mismo, el calendario de sesiones ordinarias para el ejercicio presupuestal siguiente.
 
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
+
 ###### Artículo 28.
 
-El Comité Central presentará un informe anual sobre los logros obtenidos al Jefe de Gobierno del Distrito Federal y por su parte los Comités de las Entidades, deberán presentarlo al Director General y a su respectivo Organo de Gobierno.
+El Comité Central y el Comité Delegacional presentarán al Jefe de Gobierno del Distrito Federal un informe anual sobre los logros obtenidos, según las metas fijadas para el año que se reporte.
 
-### CAPITULO SEGUNDO
+Los Comités de las Entidades presentarán dicho informe al Jefe de Gobierno del Distrito Federal, a su Director General y a su respectivo Órgano de Gobierno.
 
-DE LOS SUBCOMITES DE ADQUISICIONES,
+### CAPITULO SEGUNDO. DE LOS SUBCOMITES DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS
 
-ARRENDAMIENTOS Y PRESTACION DE
-
-SERVICIOS
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 29.
 
-La Jefatura de Gobierno, las Secretarías, la Oficialía, la Contraloría, la Procuraduría General de Justicia del Distrito Federal, la Consejería Jurídica y de Servicios Legales, las Delegaciones y los Organos Desconcentrados, en auxilio de las funciones del Comité Central, establecerán Subcomités, los cuales se integrarán de la siguiente manera:
+La Jefatura de Gobierno, las Secretarías, la Oficialía, la Contraloría, la Procuraduría General de Justicia del Distrito Federal, la Consejería Jurídica y de Servicios Legales, los Órganos Desconcentrados y las Delegaciones, en auxilio de las funciones del Comité Central y del Comité Delegacional en el ámbito de su competencia, establecerán Subcomités, los cuales se integrarán de la siguiente manera:
 
 I.- Un Presidente, que será el titular de la Dependencia, Delegación u Organo Desconcentrado de que se trate;
 
@@ -380,9 +540,17 @@ II.- Un Secretario Ejecutivo, que será el servidor público responsable del ár
 
 III.- Un Secretario Técnico, que será el servidor público encargado directo de las adquisiciones de la Dependencia, Delegación u Organo Desconcentrado;
 
-IV.- Vocales, que serán un representante del Comité Central, los encargados directos de programación y presupuesto y de almacenes de las Dependencias, Delegaciones u Organos Desconcentrados y demás miembros que se establezcan en el Manual de Integración y Funcionamiento del Subcomité Correspondiente, y
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
 
-V.- Asesores, que serán un representante de la Contraloría o la Contraloría Interna, y en su caso, un representante del área jurídica de la Dependencia, Delegación u Organo Desconcentrado.
+IV.- Vocales, un representante del Comité Central o Delegacional, los responsables directos de programación y presupuesto y de almacenes de las Dependencias, Delegaciones u Órganos Desconcentrados y demás miembros que se establezcan en el Manual de Integración y Funcionamiento del Subcomité de que se trate;
+
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
+
+V.- Un Contralor Ciudadano acreditado; y
+
+> <small>(ADICIONADA, G.O. 1 DE ABRIL DE 2003)</small>
+
+VI.- Asesores, un representante de la Contraloría o la Contraloría Interna, y un representante del área jurídica de la Dependencia, Delegación u Órgano Desconcentrado.
 
 El Presidente del Subcomité decidirá cuando se requiera con la presencia de otros servidores públicos, los cuales tendrán el carácter de invitados.
 
@@ -390,37 +558,53 @@ El Presidente del Subcomité decidirá cuando se requiera con la presencia de ot
 
 Para el cumplimiento de su objeto, los Subcomités tendrán las siguientes facultades y obligaciones:
 
-I.- Elaborar y proponer al Comité Central, su Manual de Integración y Funcionamiento;
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
 
-II.- Elaborar y aprobar su programa anual de trabajo, y evaluarlo trimestralmente;
+I.- Elaborar y proponer al Comité Central o al Comité Delegacional, su Manual de Integración y Funcionamiento;
+
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
+
+II.- Elaborar, aprobar, analizar y evaluar trimestralmente su Programa Anual de Trabajo;
 
 III.- Dar seguimiento al cumplimiento de sus acuerdos;
 
-IV.- Aplicar los lineamientos generales y las políticas que emita el Comité Central y que deberá impulsar la Administración Pública Local en materia de adquisiciones, arrendamientos y prestación de servicios;
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
 
-V.- Aplicar las políticas para la verificación de precios, especificación de insumos, pruebas de calidad y otros requerimientos que fije el Comité Central;
+IV.- Aplicar los lineamientos generales y las políticas que emitan en su ámbito de atribuciones el Comité Central y el Comité Delegacional;
+
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
+
+V.- Aplicar las políticas para la verificación de precios, especificación de insumos, pruebas de calidad, menor impacto al ambiente y otros requerimientos que fije el Comité Central;
 
 VI.- Revisar sus programas y presupuestos de adquisiciones, arrendamientos y prestación de servicios, así como formular observaciones y recomendaciones;
 
-VII.- Dictaminar sobre la procedencia de celebrar licitaciones públicas, así como los casos en que no se celebren por encontrase en alguno de los supuestos de excepción previstos en el artículo 54 de la Ley;
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
 
-> <small>(F. DE E., G.O. 12 DE OCTUBRE DE 1999)</small>
+VII.- Dictaminar los casos de excepción a la licitación previstos en el artículo 54 de la Ley, salvo las fracciones IV y XII del mismo precepto;
 
-VIII.- Aplicar las políticas relativas a la Consolidación de Adquisiciones, Arrendamientos y Prestación de Servicios, condiciones de pagos, así como el uso y aprovechamiento de los bienes;
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
 
-IX.- Establecer las políticas internas, bases y lineamientos en materia de adquisiciones, arrendamientos y prestación de servicios;
+VIII.- Aplicar las políticas relativas a la consolidación de adquisiciones, arrendamientos y prestación de servicios, condiciones de pagos, así como el uso y aprovechamiento de los bienes y servicios, debiendo atender lo previsto en el artículo 23 de la ley;
 
-X.- Analizar y resolver sobre los supuestos no previstos en las políticas internas, bases y lineamientos a que se refiere la fracción anterior, debiendo informar a su titular la resolución, y en su caso, someterlo al Comité Central;
+IX.- (DEROGADA, G.O. 1 DE ABRIL DE 2003)
 
-XI.- Analizar trimestralmente el informe de los casos dictaminados conforme a la fracción VII de este artículo, así como los resultados generales de las adquisiciones, arrendamientos y prestación de servicios y en su caso, disponer las medidas necesarias para su atención;
+X.- (DEROGADA, G.O. 1 DE ABRIL DE 2003)
 
-XII.- Elaborar y enviar semestralmente un informe sobre las adquisiciones, arrendamientos y servicios al Comité Central para su análisis;
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
 
-XIII.- Autorizar en las licitaciones públicas por motivos de urgencia justificados por el área de adquisiciones y siempre y cuando no se tenga por objeto limitar el número de participantes, la reducción de plazos para la celebración del acto de presentación de propuestas, revisión de documentación legal y administrativa y apertura de ofertas técnicas;
+XI.- Analizar trimestralmente el informe de los casos dictaminados conforme a la fracción VII del presente artículo, así como los resultados generales de las adquisiciones, arrendamientos y prestación de servicios y en su caso, disponer las medidas necesarias para su aplicación;
 
-XIV.- Aprobar previa justificación de la unidad de adquisiciones, el abastecimiento simultáneo de un mismo bien o de la prestación de un servicio;
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
 
-XV.- Aplicar, difundir, y coadyuvar al debido cumplimiento de la Ley, el presente Reglamento y demás disposiciones aplicables, y
+XII.- Elaborar y enviar semestralmente el informe de actuación sobre las adquisiciones, arrendamientos y servicios, para su análisis, al Comité Central o al Comité Delegacional;
+
+XIII.- (DEROGADA, G.O. 1 DE ABRIL DE 2003)
+
+XIV.- (DEROGADA, G.O. 1 DE ABRIL DE 2003)
+
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
+
+XV.- Aplicar, difundir y vigilar el cumplimiento de la Ley, el Reglamento y demás disposiciones aplicables, y
 
 XVI.- Las demás que les confieran las disposiciones aplicables en esta materia.
 
@@ -432,49 +616,53 @@ En los casos en que resulte indispensable contar con Subcomités en las Entidade
 
 Las reglas que rijan la periodicidad de las sesiones, las suplencias de los miembros titulares de los Subcomités, así como lo relativo a los derechos de voz y voto deberán establecerse en el Manual de Integración y Funcionamiento correspondiente de cada Subcomité.
 
-### CAPITULO TERCERO. DE LOS SUBCOMITES TECNICOS DE
+### CAPITULO TERCERO. DE LOS SUBCOMITES TÉCNICOS DE ESPECIALIDAD
 
-ESPECIALIDAD
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 33.
 
-El Comité Central mediante acuerdo podrá crear Subcomités Técnicos de Especialidad.
+El Comité Central y el Comité Delegacional mediante acuerdo, podrán crear Subcomités Técnicos de Especialidad.
 
-El Comité Central igualmente podrá aprobar la creación de Subcomités Técnicos de Especialidad en las Dependencias u Organos Desconcentrados. Para tal efecto, la Dependencia u Organo Desconcentrado de que se trate, deberá presentar el Manual de Integración y Funcionamiento del Subcomité Técnico de Especialidad.
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
+
+El Comité Central y el Comité Delegacional podrán aprobar la creación de Subcomités Técnicos de Especialidad en las Dependencias, Órganos Desconcentrados y Delegaciones, para tal efecto, según sea el caso. La Dependencia, Órgano Desconcentrado o Delegación de que se trate, deberá presentar el Manual de Integración y Funcionamiento del Subcomité Técnico de Especialidad al Comité Central o Delegacional, respectivamente, para su autorización.
 
 Por su parte, los Comités de las Entidades podrán constituir Subcomités Técnicos de Especialidad.
 
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
+
 ###### Artículo 34.
 
-Las reglas que rijan la periodicidad de las sesiones, las suplencias de los miembros titulares de los Subcomités Técnicos de Especialidad, así como lo relativo a los derechos de voz y voto deberán establecerse en sus Manuales de Integración y Funcionamiento correspondiente.
+Las reglas que rijan la periodicidad de las sesiones, las suplencias de los integrantes titulares de los Subcomités Técnicos de Especialidad, así como lo relativo a los derechos de voz y voto, se establecerán en sus Manuales de Integración y Funcionamiento, respectivamente.
 
 ###### Artículo 35.
 
 Los Subcomités Técnicos de Especialidad, tendrán las siguientes facultades y obligaciones generales:
 
-I.- Cuando así le sea solicitado, deberán formular opiniones, en el ámbito de la materia para la que fueron creados, emitiendo Dictámenes Técnicos de Especialidad;
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
+
+I.- Cuando así le sea solicitado, deberán formular opiniones, en el ámbito de la materia para la que fueron creados, y/o emitir dictámenes técnicos de especialidad;
 
 II.- Participar cuando así le sea solicitado como órgano de apoyo y asesoría para el establecimiento de las especificaciones técnicas de los bienes y servicios a contratar de acuerdo a su materia, y
 
 III.- Las demás que les confieran su Manual de Integración y Funcionamiento y otras disposiciones jurídicas aplicables.
 
-## TITULO CUARTO
+## TITULO CUARTO. DE LOS PROCEDIMIENTOS DE ADQUISICIÓN, ARRENDAMIENTO Y PRESTACIÓN DE SERVICIOS
 
-DE LOS PROCEDIMIENTOS DE ADQUISICION,
+### CAPITULO PRIMERO. DE LAS LICITACIONES PÚBLICAS
 
-ARRENDAMIENTO Y PRESTACIÓN DE
-
-SERVICIOS
-
-### CAPITULO PRIMERO. DE LAS LICITACIONES PUBLICAS
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 36.
 
-Las convocatorias a licitaciones públicas que realicen las Dependencias, Organos Desconcentrados y Entidades, deberán publicarse en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación, debiéndose tomar invariablemente para el efecto del cómputo de los plazos a los que alude el artículo 43 de la Ley, la fecha de publicación en el órgano de difusión local.
+Las convocatorias a licitaciones públicas que realicen las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, se publicaran en la Gaceta Oficial del Distrito Federal y en los medios electrónicos que, en su caso, determine la Oficialía para su mayor difusión; el cómputo de los plazos se hará conforme lo establecido en la ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 37.
 
-Las bases que emitan las Dependencias, Organos Desconcentrados y Entidades además de lo previsto por el artículo 33 de la Ley, deberán contener lo siguiente:
+Las bases que emitan las Dependencias. Órganos Desconcentrados, Delegaciones y Entidades, además de lo previsto por el artículo 33 de la ley, contendrán lo siguiente:
 
 I.- Las causas por las que se declarará desierta la licitación;
 
@@ -482,13 +670,23 @@ II.- El derecho que tienen los licitantes para inconformarse;
 
 III.- En su caso, el lugar, fecha, cantidad y forma para la presentación de muestras para verificar especificaciones, y
 
-IV.- En el caso de que se requiera practicar visitas a las instalaciones de los licitantes, para llevar a cabo una correcta evaluación de sus propuestas, éstas deberán ser para todos los participantes señalándose la fecha, hora y forma en que se llevarán a cabo.
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
 
-> <small>(F. DE E., G.O. 12 DE OCTUBRE DE 1999)</small>
+IV. En su caso, cuando por el destino o uso de los bienes se requieran pruebas de laboratorio para acreditar que cumplan con normas de calidad y/o seguridad, sin perjuicio de que la convocante pueda realizar por si misma las pruebas que estime necesarias a los bienes, precisando la metodología a seguir y los resultados mínimos que deberán dar éstas;
+
+> <small>(ADICIONADA, G.O. 1 DE ABRIL DE 2003)</small>
+
+V.- En el caso de que se requiera practicar visitas a las instalaciones de los licitantes, para llevar a cabo una correcta evaluación de sus propuestas, éstas deberán ser en igualdad de condiciones para todos los participantes, señalándose el método para ejecutarlas y los requisitos que se solicitarán, y
+
+> <small>(ADICIONADA, G.O. 1 DE ABRIL DE 2003)</small>
+
+VI.- En los casos que sea procedente, la documentación que acredite que los bienes o servicios que se ofertan son los de menor impacto ambiental, de conformidad con lo establecido en la Ley.
+
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 38.
 
-En los casos en que los bienes que vayan a ser adquiridos por las Dependencias, Organos Desconcentrados y Entidades que por su propia naturaleza no requieran de refacciones, instalaciones, equipos adecuados, personal competente para brindar el servicio de mantenimiento preventivo o correctivo, así como la capacitación a operadores, se deberán aclarar dentro de las bases de licitación pública estas circunstancias y no será necesario que se presente la manifestación a que alude la fracción XX del artículo 33, de la Ley.
+En los casos en que los bienes que vayan a ser adquiridos por las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, que por su propia naturaleza no requieran de refacciones, instalaciones, equipos adecuados, personal competente para brindar el servicio de mantenimiento preventivo o correctivo, así como la capacitación a operadores, se aclararán tales circunstancias dentro de las bases de licitación pública y no será necesario que se presente la manifestación a que hace referencia la fracción XX del artículo 33 de la ley.
 
 ###### Artículo 39.
 
@@ -496,49 +694,61 @@ No será requisito para aceptar la entrega de las propuestas, que quien las pres
 
 Quien suscriba la propuesta, deberá acompañar los documentos notariales que lo acrediten como representante de la persona física o moral con facultades legales expresas para comprometerse y contratar en nombre y representación de la misma.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE ABRIL DE 2003)</small>
+
 ###### Artículo 40.
 
-La inasistencia de alguno de los participantes a la junta de aclaraciones será bajo su estricta responsabilidad, sin embargo, la Dependencia, Organo Desconcentrado o Entidad de que se trate, estará obligada a entregar copia del acta que se hubiese levantado en la junta respectiva, cuando dichos participantes acudan a sus instalaciones a solicitarla.
+La inasistencia de alguno de los participantes a la junta de aclaraciones será bajo su estricta responsabilidad, sin embargo, la Dependencia, Órgano Desconcentrado, Delegación o Entidad de que se trate, estará obligada a entregar copia del acta que se hubiese levantado en la junta respectiva, en los términos que establece la Ley, cuando dichos participantes acudan a sus instalaciones a solicitarla.
 
 En el caso de que durante la junta de aclaraciones se efectúen modificaciones a las bases de licitación, la convocante estará obligada a entregar copia del acta correspondiente con acuse de recibo a cada uno de los participantes que hayan adquirido las bases de licitación, incluyendo aquellos que no hubiesen asistido a dicha junta.
 
-###### Artículo 41
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE ABRIL DE 2003)</small>
 
-De conformidad con lo previsto en los artículos 43, 44, 46, 47, 48 y 49 de la Ley, la sesión de aclaración de bases, el acto de presentación de propuestas, revisión de documentación legal y administrativa, y apertura de ofertas técnicas, acto de apertura de ofertas económicas y el acto de emisión de fallo, para la adquisición o arrendamiento de bienes, arrendamiento o la contratación de servicios por licitación pública se desarrollarán de acuerdo con lo siguiente:
+###### Artículo 41.
+
+La sesión de aclaración de bases, el acto de presentación y apertura del sobre que contenga la documentación legal y administrativa, propuesta técnica y económica y el acto de emisión de fallo, para la adquisición o arrendamiento de bienes, o la contratación de servicios por licitación pública, se desarrollarán de acuerdo con lo siguiente:
 
 I.- La convocante llevará a cabo la sesión o sesiones de aclaración de bases, en la que se dará respuesta a las preguntas que por escrito o de manera verbal en la propia sesión, presenten los participantes que hayan adquirido las bases de licitación;
 
-La sesión de aclaración de bases se llevará a cabo en punto de la hora señalada para su celebración, con la participación de los representantes de la convocante y de los licitantes que estén presentes; a este evento se deberá invitar a la Contraloría o a la Contraloría Interna de la Dependencia, Organo Desconcentrado o Entidad, según sea el caso;
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
+
+La sesión o sesiones de aclaración de bases se llevará a cabo en punto de la hora señalada para su celebración, con la participación de los representantes de la convocante y de los licitantes que estén presentes; a este evento se invitará a la Contraloría o a la Contraloría Interna de la Dependencia, Órgano Desconcentrado, Delegación o Entidad, según sea el caso;
 
 El acto se iniciará indicando el nombre o razón social de los participantes que hubiesen solicitado aclaraciones por escrito; se consultará a los participantes si se tienen dudas adicionales, de ser así, se recibirán las que, por escrito o verbalmente, se presenten. Se procederá a dar respuesta a las preguntas presentadas hasta desahogarlas en su totalidad, de conformidad con lo que establece la Ley;
 
-Se levantará acta administrativa de la sesión de aclaración de bases, la que contendrá las preguntas formuladas y las respuestas que se hubieren dado, la que será firmada por los participantes en el acto y pasará a formar parte integrante de las bases de la licitación, entregándose copia a cada uno de los licitantes;
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
-II.- El acto de presentación de propuestas, revisión de documentación legal y administrativa y apertura de ofertas técnicas se llevará a cabo en punto de la hora señalada para su celebración, con la participación de los representantes de la convocante y de los licitantes que estén presentes; a este evento se deberá invitar a la Contraloría o a la Contraloría Interna de la Dependencia, Organo Desconcentrado o Entidad, según sea el caso;
+Se levantara acta circunstanciada de la sesión o sesiones de aclaración de bases, la que contendrá únicamente las preguntas formuladas y las respuestas que se hubieren dado, la que será firmada por los participantes en el acto y formará parte integrante de las bases de la licitación, entregándose copia a cada uno de los licitantes;
 
-Este acto se iniciará con la apertura del sobre que contenga la documentación legal y administrativa, se revisará que esté completa, procediéndose a desechar las propuestas en que se hubiesen omitido alguno de los documentos solicitados;
+> <small>(ADICIONADO, G.O. 1 DE ABRIL DE 2003)</small>
 
-A continuación, se llevará a cabo la apertura de los sobres que contengan las propuestas técnicas de aquellos participantes que hubieran cumplido con los requisitos de la documentación legal y administrativa, verificando que estas propuestas cumplan con los requisitos establecidos en las bases de la licitación, desechándose las propuestas que incumplan con alguno de los requisitos solicitados, las que serán devueltas por la convocante una vez transcurridos quince días naturales, contados a partir de la fecha en que se dé a conocer el fallo de la licitación;
+La omisión de firma por parte de los participantes, no invalidará el contenido ni los efectos del acta.
 
-Las propuestas técnicas aceptadas y los sobres que contengan sus propuestas económicas deberán ser rubricados por los participantes presentes en este acto. Los sobres con las propuestas económicas quedarán en custodia de la convocante, para salvaguardar su confidencialidad;
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
 
-En este acto, o previo a la celebración del acto de apertura de propuestas económicas, la convocante realizará el análisis detallado de las propuestas técnicas y emitirá un dictamen técnico, en el que se señalará a los participantes que cumplieron y los que incumplieron con la documentación legal y administrativa solicitada, las ofertas técnicas aceptadas y las desechadas, así como los motivos concretos para su desechamiento;
+II.- El acto de presentación y apertura del sobre que contenga la documentación legal y administrativa, propuesta técnica y económica se llevará a cabo en punto de la hora señalada para su celebración, con la participación de los representantes de la convocante y de los licitantes que estén presentes; a este evento se deberá invitar a la Contraloría o a la Contraloría Interna de la Dependencia, Órgano Desconcentrado. Delegación o Entidad, según sea el caso;
 
-En el caso de que el análisis detallado de las propuestas técnicas aceptadas se realice en este acto, se comunicará a los participantes el resultado de la evaluación;
+Este acto se iniciará con la recepción del sobre de cada uno de los licitantes participantes. Posteriormente se dará apertura al sobre que contenga la documentación legal y administrativa, propuesta técnica y económica, la cual se revisará de manera cuantitativa y sucesiva y se dará lectura a los precios de la propuesta económica. A continuación, los servidores públicos y los participantes que se encuentren en el acto, rubricarán la documentación legal y administrativa, propuestas técnicas y económicas presentadas por lo licitantes.
 
-III.- El acto de apertura de ofertas económicas deberá iniciarse con la comunicación del dictamen técnico, a continuación se abrirán los sobres que contengan las propuestas económicas de los licitantes que no hubiesen sido descalificados; se revisará que cumplan con los requisitos solicitados, y se dará lectura en voz alta al importe de las propuestas que contengan los documentos y cubran los requisitos exigidos en las bases de la licitación;
+En este acto la convocante levantará un acta circunstanciada, en la que se señalará a los participantes que cumplieron y los que incumplieron con la documentación legal y administrativa solicitada, las ofertas técnicas y económicas aceptadas y las desechadas, así como los motivos concretos para su desechamiento;
 
-Las propuestas económicas aceptadas para su análisis detallado deberán ser rubricadas por los asistentes al acto;
+Las propuestas técnicas y económicas de los participantes que hubiesen sido desechadas quedarán en custodia de la convocante y serán devueltas a los quince días hábiles posteriores a la fecha de emisión del fallo;
 
-La evaluación de las propuestas económicas, sólo podrá realizarse una vez que haya concluido la evaluación técnica;
+En el acto de presentación y apertura de las propuestas, la convocante podrá declarar desiertas las partidas cuando no se hubieran recibido ofertas para ellas, debiendo proceder en los términos establecidos en la Ley, por lo que convocará públicamente en una segunda convocatoria, o en su defecto cuando la suma total de éstas no se sitúe por monto en una licitación, se procederá en términos del artículo 55 de la Ley.
 
-Posterior al acto de apertura de ofertas económicas, la convocante elaborará un dictamen que servirá como fundamento para el fallo, en él se hará constar el análisis de las propuestas admitidas y se hará mención de aquéllas que fueron desechadas, el que se agregará y formará parte del acta de emisión del fallo de la licitación, y
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
 
-IV.- El acto de emisión de fallo se llevará a cabo, en punto de la hora señalada para su celebración, con la participación de los representantes de la convocante y de los licitantes que estén presentes; a este evento se deberá invitar a la Contraloría o a la Contraloría Interna de la Dependencia, Organo Desconcentrado o Entidad, según sea el caso.
+III.- La convocante procederá a realizar la revisión cualitativa de la documentación legal y administrativa, propuesta técnica y económica de cada uno de los licitantes, así como de los resultados de pruebas de laboratorio, las realizadas por la propia convocante y/o visitas según sea el caso, y elaborará el dictamen técnico que servirá como fundamento para el fallo, en él se hará constar el análisis de las propuestas admitidas y se hará mención de aquéllas que fueron desechadas, y
+
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
+
+IV.- El acto de emisión de fallo se llevará a cabo, en punto de la hora señalada para su celebración, con la participación de los representantes de la convocante y de los licitantes que estén presentes; a este evento se invitará a la Contraloría o a la Contraloría Interna de la Dependencia, Órgano Desconcentrado, Delegación o Entidad, según sea el caso.
 
 El acto de emisión de fallo se iniciará con la comunicación del resultado del dictamen de adjudicación, señalando las propuestas que fueron aceptadas, así como las que fueron desechadas, las causas de descalificación y en su caso, el nombre del licitante ganador, emitiéndose el fallo correspondiente.
 
-Se levantará acta administrativa del acto de presentación de propuestas, de revisión de documentación legal y administrativa y apertura de ofertas técnicas; del acto de apertura de propuestas económicas y del acto de emisión de fallo, las que deberán ser rubricadas y firmadas por todos los servidores públicos y licitantes presentes en cada acto, debiendo entregar a cada uno de ellos copia de la misma.
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
+
+Se levantará acta circunstanciada del acto de emisión de fallo, la que será rubricada y firmada por todos los servidores públicos y licitantes presentes, debiendo entregar a cada uno de ellos copia de la misma.
 
 La convocante en todas y cada una de sus determinaciones, deberá precisar los argumentos que la llevaron a tomar dicha resolución, debiendo fundar y motivar la misma, entendiéndose por fundar, el citar con precisión el o los preceptos legales aplicables, y por motivar, las circunstancias especiales, razones particulares o causas inmediatas que se hayan tenido en consideración para la emisión del fallo, debiendo existir una adecuación entre los motivos aducidos y las normas aplicadas al caso y constar en la propia determinación.
 
@@ -546,95 +756,123 @@ La convocante en todas y cada una de sus determinaciones, deberá precisar los a
 
 La Contraloría se encuentra facultada para intervenir en cualquier acto que contravenga las disposiciones objeto de la Ley y el presente Reglamento.
 
-Si derivado de su intervención, la Contraloría detecta alguna irregularidad o violación a las disposiciones aplicables, podrá suspender temporalmente el procedimiento de licitación pública o invitación restringida, manteniéndose el proceso en el estado que se encuentra hasta en tanto se emita una resolución. Dicha resolución podrá tener los siguientes efectos: confirmar la validez del acto, anularlo o suspender definitivamente el procedimiento.
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
-De confirmarse la validez del acto, el procedimiento se continuará hasta el pronunciamiento del fallo; en caso de decretarse la nulidad del acto, éste se repondrá a partir del momento en que se origino la causa que haya dado motivo a la nulidad.
+Si derivado de su intervención, la Contraloría detecta alguna irregularidad o violación a las disposiciones aplicables, podrá suspender temporal o definitivamente el procedimiento de licitación pública o invitación restringida, manteniéndose el proceso en el estado que se encuentra hasta en tanto se emita una resolución, la cual podrá tener como efecto confirmar la validez del acto, anularlo o suspender definitivamente el procedimiento.
+
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
+
+De confirmarse la validez del acto, el procedimiento se continuará hasta el pronunciamiento del fallo; en caso de decretarse la nulidad del acto, éste se repondrá a partir del momento en que se originó la causa que haya dado motivo a la misma.
+
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 43.
 
-Cuando se declare la suspensión definitiva del procedimiento de licitación pública por causas imputables a la convocante, la Dependencia, Organo Desconcentrado o Entidad, reembolsará a los participantes los gastos no recuperables que hayan realizado, debiendo en su caso, proceder a convocar a una nueva licitación pública o invitación restringida, según sea el caso.
+Cuando se declare la suspensión definitiva del procedimiento de licitación pública por causas imputables a la convocante, la Dependencia, Órgano Desconcentrado, Delegación o Entidad, analizará la procedencia de reembolsar a los participantes que lo soliciten, los gastos no recuperables que hayan realizado, y en su caso, convocará a una nueva licitación pública o invitación restringida.
 
-###### Artículo 44
+###### Artículo 44.
 
-En los casos en que por razones de urgencia justificada sea necesario reducir el plazo para el acto de presentación de propuestas, revisión de documentación legal y administrativa y apertura de ofertas técnicas, el titular del área que requiera de los bienes o servicios, deberá solicitarlo al Comité Central o al Comité de la Entidad de que se trate, o en su caso, al Subcomité correspondiente, mediante escrito firmado en el que se expongan las razones de urgencia para dicha reducción, a efecto de que el Comité o Subcomité correspondiente dictamine lo procedente.
+(DEROGADO, G.O. 1 DE ABRIL DE 2003)
 
-Para la disminución de los plazos posteriores al acto de presentación de propuestas, revisión legal y administrativa y apertura de ofertas técnicas, no se requerirá autorización del Comité o Subcomités correspondiente. Por su parte, los actos de venta de bases y de sesión de aclaraciones no podrán ser reducidos bajo ninguna circunstancia.
-
-> <small>(F. DE E., G.O. 12 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 45.
 
-Las Dependencias, Organos Desconcentrados y Entidades que contraten adquisiciones, arrendamientos o prestación de servicios bajo los supuestos previstos en el artículo 54 de la Ley, enviarán dentro de los primeros 10 días naturales de cada mes a la Contraloría, un informe sobre las operaciones realizadas en el mes anterior.
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que contraten adquisiciones, arrendamientos o prestación de servicios bajo los supuestos previstos en el artículo 54 de la Ley, enviarán dentro de los primeros 10 días naturales de cada mes a la Secretaría, con copia a la Contraloría y otra a la Oficialía, un informe sobre las operaciones realizadas en el mes calendario inmediato anterior, acompañado de la documentación soporte.
+
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 46.
 
-Las especificaciones de los bienes o servicios objeto de una licitación, deberán ser precisadas por el titular del área solicitante, a efecto de que, el responsable del área de adquisiciones, las incluya en las bases de la licitación respectiva, dichas especificaciones deberán ser susceptibles de medirse y verificarse.
+Las especificaciones de los bienes o servicios objeto de una licitación, serán precisadas por el titular del área requirente, a efecto de que, el responsable del área de adquisiciones, las incluya en las bases de la licitación respectiva, dichas especificaciones serán susceptibles de medirse y verificarse.
 
-Si para tales efectos se requiere de la realización de pruebas, el titular del área solicitante precisará las pruebas necesarias, el método para ejecutarlas y el resultado mínimo que deberán obtener para determinar si cumple o no con lo solicitado, en cuyo caso la convocante podrá determinar los laboratorios debidamente acreditados en los cuales se realizarían las pruebas.
+Si se requiere la realización de pruebas, el titular del área solicitante precisará las pruebas necesarias, el método para ejecutarlas y el resultado mínimo que deberán obtener para determinar si cumple o no con lo solicitado, en cuyo caso la convocante podrá llevarlas a cabo por si misma o determinar los laboratorios debidamente acreditados en los cuales se harán las pruebas.
 
-Tanto las pruebas requeridas, como el método para ejecutarlas y los resultados mínimos que deberán de dar éstas, se contendrán en las bases de licitación, por lo que aquellas que no hayan sido precisadas en las bases, o bien las adicionales a las establecidas originalmente que se pretendan exigir sin atender lo previsto por la Ley, no podrán ser tomadas en cuenta en la evaluación de las propuestas presentadas por los participantes para la adjudicación del contrato respectivo.
+Las pruebas, el método para ejecutarlas y los resultados mínimos que deberán obtener, se contendrán en las bases de la licitación, por lo que aquellas que no hayan sido precisadas en las bases, o bien las adicionales a las establecidas originalmente que se pretendan exigir sin atender lo previsto por la Ley, no podrán ser tomadas en cuenta en la evaluación de las propuestas presentadas por los licitantes para la adjudicación del contrato respectivo.
 
-Para las pruebas indicadas en este artículo y cuando se requieran tiempo mayores a los indicados en el artículo 43 de la Ley, las Dependencias, Organos Desconcentrados y Entidades podrán ampliar el plazo para el acto de apertura de ofertas económicas, lo que deberá especificarse en las bases respectivas.
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 47.
 
-Las Dependencias, Organos Desconcentrados y Entidades procederán a declarar desierta una licitación pública y expedirán una segunda convocatoria cuando se presente alguno de los siguientes supuestos:
+Las Dependencias, Órganos Desconcentrados Delegaciones y Entidades declararán desierta una licitación pública y expedirán una segunda convocatoria cuando se presente alguno de los siguientes supuestos:
 
-I.- Cuando nadie se hubiere inscrito para participar en el acto de presentación de propuestas, revisión de documentación legal y administrativa y apertura de ofertas técnicas, y
+I.- Cuando nadie se hubiere inscrito para participar en el acto de presentación y apertura del sobre que contenga la documentación legal y administrativa, propuesta técnica y económica;
 
-II.- Cuando ninguna de las ofertas presentadas reúna los requisitos establecidos en las bases de licitación o que sus precios no sean aceptables, de acuerdo a las políticas que sobre verificación de precios emitan los Comités.
+II.- Cuando ninguna de las ofertas presentadas reúna los requisitos establecidos en las bases de licitación o que sus precios no sean aceptables; y
+
+III.- Cuando en el acto de presentación y apertura de propuestas ninguno de los participantes cumpla con los documentos legales y administrativos que haya requerido la convocante.
+
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 48.
 
-Las Dependencias, Organos Desconcentrados y Entidades, podrán suspender el procedimiento de una licitación pública o invitación restringida a cuando menos tres proveedores, sin responsabilidad para las mismas, por caso fortuito o causas de fuerza mayor, así como por causas de interés público y general, previa opinión de la Contraloría.
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, podrán suspender el procedimiento de una licitación pública o invitación restringida a cuando menos tres proveedores, sin responsabilidad las mismas, por caso fortuito o causas de fuerza mayor, así como por causas que afecten el interés público y general, previa opinión de la Contraloría.
 
-### CAPITULO SEGUNDO. DE LOS PROCEDIMIENTOS DE INVITACION
+### CAPITULO SEGUNDO. DE LOS PROCEDIMIENTOS DE INVITACIÓN RESTRINGIDA Y ADJUDICACIÓN DIRECTA
 
-RESTRINGIDA Y ADJUDICACION DIRECTA
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 49.
 
-Las Dependencias, Organos Desconcentrados y Entidades en los casos de excepción que establece el artículo 54 de la Ley, deberán de manera preferente contratar a través del procedimiento de invitación restringida a cuando menos tres proveedores.
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades en los casos de excepción que establece el artículo 54 de la Ley, preferentemente contratarán a través del procedimiento de invitación restringida a cuando menos tres proveedores.
+
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 50.
 
-En el procedimiento señalado en el artículo anterior, las Dependencias, Organos Desconcentrados y Entidades deberán invitar a las personas físicas o morales cuyas actividades comerciales estén relacionadas con el objeto del contrato a celebrarse y cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás requisitos que sean establecidos.
+En el procedimiento señalado en el artículo anterior, las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades deberán invitar a las personas físicas o morales cuyas actividades comerciales estén relacionadas con el objeto del contrato a celebrarse y cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás requisitos que sean establecidos en las bases de invitación.
+
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 51.
 
-Para llevar a cabo un procedimiento de invitación restringida de conformidad con el artículo 56, fracción II, de la Ley, se deberá contar por lo menos con tres propuestas que cumplan con el total de los documentos legales y administrativos solicitados en las bases de la invitación, lo cual deberá quedar asentado en el acta que se levante de dicho evento.
+Para llevar a cabo un procedimiento de invitación restringida de conformidad con el artículo 56, fracción II, de la Ley, se deberá contar por lo menos con tres propuestas que cumplan con el total de los requisitos solicitados en las bases de invitación tanto para la documentación legal y administrativa, como para la propuesta técnica y económica, lo cual quedará asentado en el acta circunstanciada que se elabore en dicho evento.
 
-Si durante el citado acto, se determina que alguna de las propuestas presentadas no cumple con la documentación legal y administrativa solicitada en las bases correspondientes, se procederá a desechar esa oferta, no se abrirán las propuestas técnicas y si como consecuencia de ello, no se contara con un mínimo de tres propuestas a que refiere el artículo en cita, se deberá proceder a declarar desierta la invitación.
+Si durante el citado acto, se determina que alguna de las propuestas presentadas no cumple con la documentación legal y administrativa, propuesta técnica y económica, solicitadas en las bases correspondientes, se desechará la propuesta presentada, y como consecuencia de ello no se contara con un mínimo de tres propuestas, se declarará desierta la invitación.
 
-En los casos en que se cuente con un mínimo tres propuestas que cumplan con todos los requisitos legales y administrativos solicitados en las bases, se procederá a la apertura de las correspondientes propuestas técnicas; si derivada de la evaluación técnica se determina que sólo una o dos de las propuestas cumplen cualitativamente con los requisitos solicitados, ello no será motivo para declarar desierto el procedimiento, y deberá continuarse con el mismo hasta el pronunciamiento del fallo.
+En los casos en que se cuente con un mínimo de tres propuestas que cumplan cuantitativamente con toda la documentación legal y administrativa, propuesta técnica y económica solicitadas en las bases, quedará asentada en el acta circunstanciada respectiva.
+
+La convocante evaluará las propuestas presentadas y si determina que sólo una o dos de ellas cumplen cualitativamente con los requisitos solicitados, ello no será motivo para declarar desierto el procedimiento, y continuará con el mismo hasta el pronunciamiento del fallo.
+
+En los casos en que la adjudicación se realice por partida se contará con un mínimo de tres propuestas que cumplan cuantitativamente con los requisitos solicitados para cada partida, en caso contrario se procederá a declarar desiertas dichas partidas.
+
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 52.
 
-Para los casos en que en dos ocasiones se haya declarado desierto un procedimiento de invitación restringida, la contratación correspondiente se podrá llevar a cabo mediante adjudicación directa, previo dictamen del Comité o Subcomité respectivo.
+Para los casos en que en dos ocasiones se haya declarado desierto un procedimiento de invitación restringida, la contratación se podrá llevar a cabo mediante adjudicación directa, haciéndolo del conocimiento al Comité o Subcomité que se trate.
 
-### CAPITULO TERCERO. DE LOS GRADOS DE INTEGRACION NACIONAL
+### CAPITULO TERCERO. DE LOS GRADOS DE INTEGRACIÓN NACIONAL
+
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 53.
 
-Las Dependencias, Organos Desconcentrados y Entidades, deberán incluir dentro de las bases de la licitación pública nacional, que los licitantes manifiesten bajo protesta de decir verdad que los bienes que se ofertan, son producidos en México y cuentan por lo menos con un 50% de integración nacional, de conformidad con lo establecido en la Ley.
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, incluirán dentro de las bases de la licitación pública nacional como requisito, que los licitantes manifiesten, bajo protesta de decir verdad, que los bienes que se ofertan, son producidos en México y cuentan por lo menos con un 50% de integración nacional, de conformidad con lo establecido en la Ley.
+
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 54.
 
-En el caso de las licitaciones públicas internacionales a que se refiere el artículo 30, Fracción II de la Ley, en los bienes y servicios de proveedores extranjeros se procurará contar con el contenido de integración nacional mínimo que señala la Ley, mismo que podrá disminuirse u omitirse con base en los lineamientos y criterios generales que expida la Secretaría de Desarrollo Económico, y previa dictaminación que esta dependencia realice.
+En el caso de las licitaciones públicas internacionales los bienes y servicios de proveedores extranjeros se procurará contar con el 35% mínimo de contenido de integración nacional, mismo que podrá disminuirse u omitirse con base en los lineamientos y criterios generales que expida la Secretaría de Desarrollo Económico, y previa dictaminación que esta Dependencia realice.
 
-## TITULO SEXTO (sic). DE LOS CONTRATOS
+## TITULO SEXTO (SIC). DE LOS CONTRATOS
 
 ### CAPITULO PRIMERO. DEL CONTENIDO GENERAL DE LOS CONTRATOS
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE ABRIL DE 2003)</small>
+
 ###### Artículo 55.
 
-Todas las adquisiciones, arrendamientos y prestación de los servicios que lleven a cabo las Dependencias, Organos Desconcentrados o Entidades, deberán ser formalizados mediante el contrato respectivo.
+Todas las adquisiciones, arrendamientos y prestación de servicios que lleven a cabo las Dependencias, Órganos Desconcentrados, Delegaciones o Entidades, se formalizarán mediante el contrato respectivo.
 
 La Oficialía emitirá lineamientos o bases generales en las que se determine las operaciones en que por su monto, no se requerirá la formalización de un contrato.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE ABRIL DE 2003)</small>
+
 ###### Artículo 56.
 
-Los contratos que celebren las Dependencias, Organos Desconcentrados o Entidades, contendrán como mínimo los siguientes requisitos:
+Los contratos que celebren las Dependencias, Órganos Desconcentrados, Delegaciones o Entidades, contendrán como mínimo lo siguiente:
 
 I.- El objeto del mismo;
 
@@ -658,37 +896,53 @@ X.- Las condiciones de pago del precio de los bienes o servicios contratados;
 
 XI.- La fijación y monto de las penas convencionales;
 
-XII.- La precisión de si el precio es fijo o variable y en este último caso, la fórmula en que se realizarán los ajustes;
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
 
-XIII.- Salvo que exista impedimento, la estipulación de que los derechos de autor o de otros derechos exclusivos, que se deriven de los servicios de consultorías, asesorías, estudios e investigaciones contratados, invariablemente se constituirán a favor del Gobierno del Distrito Federal o de la Dependencia, del Organo Desconcentrado o Entidad, según corresponda;
+XII.- La precisión de que el precio es fijo, salvo los casos previstos en la Ley;
 
-XIV.- En caso de terminación anticipada del contrato, ya sea por mutuo consentimiento, caso fortuito o fuerza mayor, será sin responsabilidad para la convocante;
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
 
-XV.- La circunstancia de que en caso de existir pago en exceso, el proveedor estará obligado a reintegrarlo a la convocante con sus respectivos intereses, así como la parte proporcional del anticipo no amortizado con los intereses que genere, a partir del momento en que se hagan exigibles los mismos;
+XIII.- La estipulación de que los derechos de autor o de otros derechos exclusivos, que se deriven de la contratación de servicios de consultorías, asesorías, estudios e investigaciones, invariablemente se constituirán a favor del Gobierno del Distrito Federal o de la Dependencia, del Órgano Desconcentrado, de la Delegación o Entidad, según corresponda, salvo que exista impedimento;
 
-> <small>(F. DE E., G.O. 12 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
 
-XVI.- Para el caso de la rescisión por causas imputables al proveedor, este deberá reintegrar los anticipos no amortizados con sus respectivos intereses, y
+XIV.- En el caso de terminación anticipada, suspensión temporal o definitiva de los contratos, ya sea por mutuo consentimiento, caso fortuito o fuerza mayor, será sin responsabilidad para la convocante;
 
-XVII.- El señalamiento de que para la interpretación de los contratos, así como para dirimir las controversias que se susciten con motivo de su incumplimiento, las partes deberán someterse a los Tribunales del Distrito Federal.
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
+
+XV.- La estipulación de que en caso de existir pagos en exceso, el proveedor estará obligado a reintegrar las cantidades a la convocante con sus respectivos intereses, así como la parte proporcional del anticipo no amortizado con los intereses que genere, a partir del momento en que se hagan exigibles los mismos;
+
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
+
+XVI.- Las causas de rescisión de contrato;
+
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
+
+XVII.- Para el caso de la rescisión por causas imputables al proveedor, éste reintegrará los anticipos no amortizados con sus respectivos intereses, acorde con lo dispuesto en la Ley, y
+
+> <small>(ADICIONADA, G.O. 1 DE ABRIL DE 2003)</small>
+
+XVIII.- El señalamiento de que para la interpretación y aplicación de los contratos, así como para dirimir las controversias que se susciten con motivo de su incumplimiento, las partes deberán someterse a los tribunales competentes del Distrito Federal.
 
 En el caso de que los contratos abiertos adicionalmente a los requisitos antes mencionados, se deberán considerar los señalados en el artículo 63 de la Ley.
 
-### CAPITULO SEGUNDO. DE LAS PENAS CONVENCIONALES Y DE LOS
+### CAPITULO SEGUNDO. DE LAS PENAS CONVENCIONALES Y DE LOS DAÑOS Y PERJUICIOS
 
-DAÑOS Y PERJUICIOS
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 57.
 
-Las Dependencias, Organos Desconcentrados y Entidades, preferentemente pactarán penas convencionales, a cargo de los proveedores, las que no deberán exceder del importe de la garantía de cumplimiento del contrato exhibida por el proveedor.
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, pactarán penas convencionales, a cargo de los proveedores, las que no excederán del importe de la garantía de cumplimiento del contrato exhibida por el proveedor.
 
-En caso de no estipularse penas convencionales a cargo de los proveedores, podrá exigirse la reparación de los daños y perjuicios.
+En caso de no estipularse penas convencionales a cargo de los proveedores, podrá exigirse la reparación de los daños y perjuicios conforme a lo previsto en la Ley.
 
 ###### Artículo 58.
 
 En caso de incumplimiento a las obligaciones establecidas en los contratos por causas imputables a los proveedores, se harán efectivas las penas convencionales a cargo de los mismos, en el importe facturado que corresponda y en su caso, se exigirá la reparación de daños y perjuicios ocasionados, independientemente de la aplicación de las garantías que hayan sido pactadas.
 
-Los proveedores no se harán acreedores a las penas convencionales, cuando el incumplimiento contractual derive de caso fortuito o fuerza mayor, entendiéndose por éstos, los sucesos de la naturaleza o del hombre, ajenos al proveedor, que lo imposibiliten jurídicamente a cumplir, constituyendo una imposibilidad verdadera u obstáculo insuperable que impida el cumplimiento parcial o total de sus obligaciones, siendo necesario que tales hechos no le sean imputables directa o indirectamente y escapen a toda previsión.
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
+
+Los proveedores no se harán acreedores a las penas convencionales, cuando el incumplimiento contractual derive del otorgamiento de prórroga o de caso fortuito o fuerza mayor, entendiéndose por éstos, los sucesos de la naturaleza o del hombre, ajenos al proveedor, que lo imposibiliten jurídicamente a cumplir, constituyendo una imposibilidad verdadera u obstáculo insuperable que impida el cumplimiento parcial o total de sus obligaciones, siendo necesario que tales hechos no le sean imputables directa o indirectamente y escapen a toda previsión.
 
 ### CAPITULO TERCERO. DE LAS GARANTIAS
 
@@ -696,21 +950,29 @@ Los proveedores no se harán acreedores a las penas convencionales, cuando el in
 
 Los porcentajes de las garantías se ajustarán a lo expresamente señalado en la Ley. Dichos porcentajes deberán calcularse sin considerar los impuestos.
 
-Las Dependencias, Organos Desconcentrados y Entidades, podrán bajo su responsabilidad reducir el porcentaje de la garantía de la seriedad de las propuestas. Así mismo, podrán incrementar el importe de las garantías de cumplimiento de los contratos, cuando por la naturaleza de los bienes a adquirir o arrendar o de los servicios a contratar, se estime necesario.
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
-En los casos en que se modifiquen los porcentajes a que deberán sujetarse las garantías que se constituyan en términos del párrafo anterior, éstos deberán ser fijados por los titulares de las Dependencias, Organos Desconcentrados y Entidades.
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, podrán, bajo su responsabilidad, incrementar el porcentaje de la garantía de formalidad para el sostenimiento de la propuesta y reducir el porcentaje de la garantía de cumplimiento del contrato, cuando por la naturaleza de los bienes a adquirir o arrendar o de los servicios a contratar, se estime necesario.
+
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
+
+En los casos en que se modifiquen los porcentajes de las garantías que se constituyan en términos del párrafo anterior, éstos serán fijados por los titulares de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades.
+
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 60.
 
-La garantía de seriedad de propuesta se aplicará en los siguientes casos:
+La garantía de formalidad de la propuesta, se hará efectiva en los siguientes casos:
 
-I.- Cuando el licitante retire su propuesta una vez iniciado el acto de presentación de propuestas, revisión de documentación legal y administrativa y apertura de propuestas técnicas, y
+I.- Cuando el licitante retire su propuesta una vez iniciado el acto de presentación y apertura del sobre que contenga la documentación legal y administrativa, propuesta técnica y económica; y
 
-II.- Cuando adjudicado el contrato, por causas imputables al proveedor no se suscriba en el término previsto por el artículo 59 de la Ley.
+II.- Cuando notificado el proveedor de la adjudicación de que fue sujeto, por causas imputables a éste no se formalice el contrato dentro del plazo de 15 días hábiles.
+
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 61.
 
-En los casos de modificaciones a los contratos, los proveedores deberán entregar ante la Dependencia, Organo Desconcentrado o Entidad de que se trate, los documentos que demuestren la actualización de sus garantías.
+En caso de modificación del contrato, los proveedores deberán entregar ante la Dependencia, Órgano Desconcentrado, Delegación o Entidad de que se trate, los documentos que demuestren la actualización de sus garantías.
 
 ###### Artículo 62.
 
@@ -718,21 +980,25 @@ En los casos de contratos celebrados con Entidades, las garantías que se otorgu
 
 ### CAPITULO CUARTO. DE LA RESCISION DE LOS CONTRATOS
 
-> <small>(F. DE E. PRIMER PARRAFO, G.O. 12 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 63.
 
-Las Dependencias, Organos Desconcentrados y Entidades podrán rescindir el contrato administrativamente en términos del artículo 42 de la Ley y hacer efectivas las garantías correspondientes en caso de incumplimiento de las obligaciones a cargo del proveedor.
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades podrán rescindir el contrato administrativamente en términos del artículo 42 de la Ley y hacer efectivas las garantías correspondientes en caso de incumplimiento de las obligaciones a cargo del proveedor.
 
 El procedimiento para la rescisión de los contratos, deberá iniciarse en el plazo que señala la Ley.
 
-En el caso de que se pacten penas convencionales, los 10 días naturales para iniciar el procedimiento de rescisión comenzarán a partir del día natural siguiente al en que se haya agotado el monto límite de las penas convencionales.
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
+
+En el caso de que se pacten penas convencionales, los 5 días hábiles para iniciar el procedimiento de rescisión comenzarán a partir del día hábil siguiente a aquel en que se hubiere agotado el plazo para hacer efectivas las penas convencionales.
 
 Si previamente a la determinación de dar por rescindido el contrato, se hiciera entrega de los bienes o se proporcionaran los servicios, el procedimiento iniciado quedará sin efectos.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE ABRIL DE 2003)</small>
+
 ###### Artículo 64.
 
-El procedimiento de rescisión se llevará a cabo conforme a lo siguiente:
+El procedimiento de rescisión administrativa de los contratos se llevará a cabo conforme a lo siguiente:
 
 > <small>(F. DE E., G.O. 12 DE OCTUBRE DE 1999)</small>
 
@@ -748,13 +1014,21 @@ III.- De la audiencia de desahogo de pruebas se levantará acta circunstanciada,
 
 IV.- Al término de la audiencia o en un plazo no mayor de 5 días hábiles se resolverá lo que en derecho proceda, considerando los argumentos vertidos y las pruebas admitidas y desahogadas. La resolución de dar o no por rescindido el contrato, deberá estar debidamente fundada y motivada y se notificará personalmente al proveedor.
 
+> <small>(ADICIONADO, G.O. 1 DE ABRIL DE 2003)</small>
+
+En caso de rescisión, la Dependencia, Órgano Desconcentrado, Delegación o Entidad, de que se trate, remitirá en forma inmediata a la Contraloría la resolución del procedimiento acompañada de la documentación que la sustente, a efecto que en el ámbito de su competencia, resuelva lo conducente.
+
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
+
 ###### Artículo 65.
 
-No se considerará que hay incumplimiento de contrato, cuando la Dependencia, Organo Desconcentrado o Entidad, haya prorrogado el plazo de entrega de bienes o el inicio de la prestación de servicios, por causas de fuerza mayor, en casos fortuitos o causas imputables a la convocante siempre y cuando la misma conste por escrito y se otorgue previo a su vencimiento.
+No se considerará que hay incumplimiento de contrato, cuando la Dependencia, Órgano Desconcentrado, Delegación o Entidad, haya prorrogado el plazo de entrega de bienes o el inicio de la prestación de servicios, por causas de fuerza mayor, en casos fortuitos o causas imputables a la convocante, siempre y cuando conste por escrito y se acredite fehaciente y documentalmente, y se otorgue previo a su vencimiento.
+
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2003)</small>
 
 ###### Artículo 66.
 
-Las Dependencias Organos Desconcentrados y Entidades, para los efectos del artículo 81 de la Ley, deberán informar a la Contraloría, de las irregularidades en que incurran los proveedores, remitiendo el expediente que contenga la documentación que soporte las mismas.
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, informarán a la Contraloría, de las irregularidades en que incurran los proveedores, remitiendo el expediente que contenga la documentación que soporte las mismas.
 
 ## TRANSITORIOS
 
@@ -769,3 +1043,15 @@ CUARTO.- Los Comités y Subcomités que se encuentren en funciones, deberán aju
 QUINTO.- Se derogan todas las disposiciones reglamentarias y administrativas que se opongan a lo establecido por este Reglamento.
 
 Dado en la Residencia del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los diecinueve días del mes de agosto de mil novecientos noventa y nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, CUAUHTEMOC CARDENAS SOLORZANO.- FIRMA.- LA SECRETARIA DE GOBIERNO, ROSARIO ROBLES BERLANGA.- FIRMA.
+
+N. DE. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
+
+G.O. 1 DE ABRIL DE 2003.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones administrativas y reglamentarias que se opongan a lo establecido en el presente Decreto.
+
+CUARTO. Los procedimientos de adquisiciones iniciados con anterioridad a la entrada en vigor de las presentes reformas, atenderán hasta su total conclusión al Reglamento vigente en el momento de su inicio, siempre y cuando no contravengan lo dispuesto en la Ley de Adquisiciones para el Distrito Federal.
