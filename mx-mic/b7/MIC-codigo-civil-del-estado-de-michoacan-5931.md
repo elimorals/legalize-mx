@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-del-estado-de-michoacan-5931"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1955-01-17"
+last_updated: "1956-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO CIVIL PARA EL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1955.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 1956.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el jueves 30 de julio de 1936.
 
@@ -10531,7 +10531,47 @@ II. A garantir las calidades de la cosa;
 
 III. A prestar la evicción.
 
-### CAPITULO I. De las donaciones en general
+### CAPITULO X. De la Compraventa de Recursos Forestales
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 1956)</small>
+
+###### Artículo 2178 Bis.
+
+La compraventa de recursos Forestales es un contrato por el cual el propietario de un predio, sin trasmitir el dominio del mismo y a cambio de un precio cierto y en dinero, cede o transfiere el derecho a explotar o aprovechar recursos forestales que en el predio existan.
+
+El contrato que en este artículo se establece y reglamenta es la única forma jurídica válida para trasmitir parcial o totalmente el derecho a explotar o aprovechar recursos forestales. Deberá hacerse necesariamente por escrito, ratificarse ante Notario Público y sujetarse a las disposiciones contenidas en este artículo, las cuales, por ser de orden público, no pueden ser objeto de renuncia u omisión por los contratantes.
+
+I.- El comprador deberá llenar los requisitos que conforme al artículo 27 Constitucional y las disposiciones legales y administrativas de él derivadas sean necesarios para poseer o administrar fincas rústicas.
+
+II.- Deberá indicarse, con presición, el objeto o la materia del contrato, especificando claramente los recursos forestales que el comprador tendrá derecho a aprovechar así como el lugar, tiempo y forma de medir o cuantificar justamente las cantidades o volúmenes de productos que extraiga, aplicando siempre el sistema métrico decimal. Deberán también fijarse, aunque sea estimativamente, las cantidades de productos que los contratantes calculen podrán aprovecharse, pero, en todo caso, el contrato se concretará solamente a las cantidades cuya explotación permita la autoridad forestal competente.
+
+III.- El vendedor tiene derecho a vigilar en todo tiempo los trabajos de explotación que el comprador efectúe, con vistas, por una parte, a que se realicen con apego a los ordenamientos forestales y, por otra, a determinar el monto real de los aprovechamientos obtenidos en el predio, hacer las liquidaciones y exigir los pagos que justamente le correspondan.
+
+IV.- El comprador está obligado a realizar los aprovechamientos con sujeción estricta a las normas técnicas y legales que rijan en materia forestal.
+
+V.- El comprador tendrá derecho a proyectar, trazar y construir las brechas, vías de saca y caminos necesarios para la explotación, de conformidad con los permisos y autorizaciones que de acuerdo con las leyes aplicables se le otorguen.
+
+VI.- El comprador deberá obtener el permiso de explotación de las Autoridades competentes dentro del plazo de un año contado a partir de la fecha de celebración del contrato. Si al vencerse dicho plazo no obtiene el permiso de explotación o si antes del vencimiento las autoridades competentes niegan el repetido permiso, operará la condición resolutoria volviendo las cosas al estado que tenían antes, como si no hubiese existido el contrato. Operará también como condición resolutoria, el hecho de que el comprador no inicie los trámites para obtener el permiso de explotación dentro de los 30 días posteriores al de la celebración del contrato o el de que intente trasmitir su derecho a explotar. En igual forma se dará por concluído el contrato si el permiso de explotación se otorga a un tercero. Se prohibe toda estipulación que tenga como consecuencia prorrogar el término de un año fijado para la obtención del permiso de explotación forestal.
+
+VII.- Queda prohibido al comprador trasmitir o ceder en cualquier forma el derecho a la explotación forestal, constituyendo ésta una excepción a lo dispuesto en el artículo 2157.
+
+VIII.- El comprador pagará al vendedor, totalmente en dinero, el precio de todos los recursos que corte, tome u obtenga del predio, aún cuando parte de ellos no los destine directamente al comercio sino que los utilice en la construcción de campamentos, obras de arte de caminos o en cualquier otra forma.
+
+IX.- El comprador deberá, a más tardar cada mes, formular las liquidaciones y hacer los pagos sobre las cantidades de productos cortados u obtenidos en el monte. Serán por cuenta del comprador las pérdidas, menoscabos, deméritos y riestos (sic) que los recursos sufran al apearse, cortarse u obtenerse así como por el transporte del lugar donde se encuentren a aquél donde se beneficien, traten o transformen.
+
+X.- El vendedor no está obligado a garantizar calidades determinadas de los recursos forestales, estableciéndose la presunción de que el comprador las conoce y acepta.
+
+XI.- Tratándose de propiedades particulares, habrá lesión en perjuicio del dueño del monte, cuando se estipule en el contrato un precio inferior al que por recursos forestales similares se haya establecido, para terrenos ejidales que tengan una localización económica semejante, tomando en cuenta distancias a los centros de consumo, vías de comunicación, medios de transporte y precios de los productos elaborados.
+
+La lesión en este caso producirá la nulidad absoluta del contrato y dará derecho al vendedor a reclamar la diferencia de precios que se le haya dejado de pagar.
+
+XII.- Si hubiere algún anticipo del precio y el contrato quedare resuelto por cualquiera de las causas fijadas en la fracción VI, el comprador no tendrá derecho a exigir el pago de intereses, quedando el vendedor obligado, única y exclusivamente, a devolver las sumas recibidas como anticipo que excedan del diez por ciento del importe del contrato fijado conforme a lo dispuesto en la fracción II.
+
+XIII.- No producirán efectos contra terceros los contratos que no se inscriban en el Registro Público de la Propiedad dentro de los 30 días siguientes a la fecha de su otorgamiento. En caso de que varios contratos tengan por objeto los mismos recursos forestales, prevalecerá el que se haya inscrito en el Registro Público de la Propiedad y si varios están inscritos prevalecerá el registrado en Primer término.
+
+XIV.- Queda prohibida la promesa de compraventa de recursos forestales.
+
+XV.- En caso de controversia, para declarar que los contratos han quedado resueltos, bastará simplemente comprobar que se ha realizado cualquiera de los hechos que, conforme a este artículo, operan como una condición resolutoria del contrato.
 
 ###### Artículo 2140.
 
@@ -10575,7 +10615,7 @@ La entrega de la cosa vendida debe hacerse en el lugar convenido, y si no hubier
 
 Si el comprador se constituyó en mora de recibir, abonará al vendedor el alquiler de las bodegas, graneros o vasijas en que se contenga lo vendido, y el vendedor quedará descargado del cuidado ordinario de conservar la cosa, y solamente será responsable del dolo o de la culpa grave.
 
-### CAPITULO II. De las personas que pueden recibir donaciones
+### CAPITULO I. De las donaciones en general
 
 ###### Artículo 2149.
 
@@ -10615,7 +10655,7 @@ Cuando el comprador a plazo o con espera del precio, fuere perturbado en su pose
 
 La falta de pago del precio da derecho para pedir la rescisión del contrato, aunque la venta se haya hecho a plazo; pero si la cosa ha sido enajenada a un tercero, se observará lo dispuesto en los artículos 1806 y 1807.
 
-### CAPITULO III. De la revocación y reducción de las donaciones
+### CAPITULO II. De las personas que pueden recibir donaciones
 
 ###### Artículo 2157.
 
@@ -10689,7 +10729,7 @@ Si el vendedor recoge la cosa vendida porque no le haya sido pagado su precio, s
 
 En la venta de que habla el artículo 2168, mientras que no pasa la propiedad de la cosa vendida al comprador, si éste recibe la cosa, será considerado como arrendatario de la misma.
 
-### CAPITULO I. Del mutuo simple
+### CAPITULO III. De la revocación y reducción de las donaciones
 
 ###### Artículo 2172.
 
@@ -10703,7 +10743,7 @@ La venta de un inmueble cuyo valor en el contrato y en el catastro, no exceda de
 
 Si el valor del inmueble, fiscal o en venta, excede de cinco mil pesos, deberá otorgarse escritura pública.
 
-### CAPITULO II. Del mutuo con interés
+### CAPITULO I. Del mutuo simple
 
 ###### Artículo 2175.
 
@@ -10721,7 +10761,9 @@ Por regla general las ventas judiciales se harán en moneda efectiva y al contad
 
 En las enajenaciones judiciales que hayan de verificarse para dividir cosa común, se observará lo dispuesto para la partición entre herederos.
 
-### CAPITULO I. Disposiciones generales
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 16 DE ENERO DE 1956)</small>
+
+### CAPITULO II. Del mutuo con interés
 
 ## TITULO CUARTO. De las donaciones
 
@@ -10747,7 +10789,7 @@ Con excepción de lo relativo al precio, son aplicables a este contrato las regl
 
 ## TITULO QUINTO. Del mutuo
 
-### CAPITULO II. De los derechos y obligaciones del arrendador
+### CAPITULO I. Disposiciones generales
 
 ###### Artículo 2184.
 
@@ -10851,7 +10893,7 @@ Si la donación fuere de todos los bienes, el donatario será responsable de tod
 
 Salvo que el donante dispusiere otra cosa, las donaciones que consistan en prestaciones periódicas se extinguen con la muerte del donante.
 
-### CAPITULO III. De los derechos y obligaciones del arrendatario
+### CAPITULO II. De los derechos y obligaciones del arrendador
 
 ###### Artículo 2209.
 
@@ -10861,7 +10903,7 @@ Los no nacidos pueden adquirir por donación, con tal que hayan estado concebido
 
 Las donaciones hechas simulando otro contrato a personas que conforme a la ley no puedan recibirlas, son nulas, ya se hagan de un modo directo, ya por interpósita persona.
 
-### CAPITULO IV. Del arrendamiento de fincas urbanas
+### CAPITULO III. De los derechos y obligaciones del arrendatario
 
 ###### Artículo 2211.
 
@@ -10981,7 +11023,7 @@ Revocada o reducida una donación por inoficiosa, el donatario sólo responderá
 
 ## TITULO SEXTO. Del arrendamiento
 
-### CAPITULO V. Del arrendamiento de fincas rústicas
+### CAPITULO IV. Del arrendamiento de fincas urbanas
 
 ###### Artículo 2236.
 
@@ -11029,7 +11071,7 @@ En el caso de haberse pactado que la restitución se hará cuando pueda o tenga 
 
 No se declararán nulas las deudas contraídas por el menor para proporcionarse los alimentos que necesite, cuando su representante legítimo se encuentre ausente.
 
-### CAPITULO VI. Del arrendamiento de bienes muebles
+### CAPITULO V. Del arrendamiento de fincas rústicas
 
 ###### Artículo 2245.
 
@@ -11053,7 +11095,7 @@ Las partes no pueden, bajo pena de nulidad, convenir de antemano que los interes
 
 ## TITULO SEPTIMO. Del comodato
 
-### CAPITULO VII. Disposiciones especiales respecto de los arrendamientos por tiempo indeterminado
+### CAPITULO VI. Del arrendamiento de bienes muebles
 
 ###### Artículo 2250.
 
@@ -11113,7 +11155,7 @@ Si la transmisión de la propiedad se hiciere por causa de utilidad pública, el
 
 Los arrendamientos de bienes municipales o de establecimientos públicos, estarán sujetos a las disposiciones del derecho administrativo, y en lo que no lo estuvieren, a las disposiciones de este Título.
 
-### CAPITULO VIII. Del subarriendo
+### CAPITULO VII. Disposiciones especiales respecto de los arrendamientos por tiempo indeterminado
 
 ###### Artículo 2264.
 
@@ -11183,7 +11225,7 @@ III. Cuando el contrato fuere por tiempo indeterminado, si el arrendador autoriz
 
 Las mejoras a que se refieren las fracciones II y III del artículo anterior, deberán ser pagadas por el arrendador, no obstante que en el contrato se hubiese estipulado que las mejoras quedasen a beneficio de la cosa arrendada.
 
-### CAPITULO IX. Del modo de terminar el arrendamiento
+### CAPITULO VIII. Del subarriendo
 
 ###### Artículo 2277.
 
@@ -11285,7 +11327,7 @@ Si el arrendamiento debe ser inscrito en el Registro, sólo vale el inscrito.
 
 En los arrendamientos que han durado más de cinco años y cuando el arrendatario ha hecho mejoras de importancia en la finca arrendada, tiene éste derecho si está al corriente en el pago de la renta, a que, en igualdad de condiciones, se le prefiera a otro interesado en el nuevo arrendamiento de la finca. También gozará del derecho del tanto si el propietario quiere vender la finca arrendada, aplicándose en la conducente lo dispuesto en los artículos 2160 y 2161.
 
-### CAPITULO I. Del depósito
+### CAPITULO IX. Del modo de terminar el arrendamiento
 
 ###### Artículo 2300.
 
@@ -11323,7 +11365,7 @@ III.- Cuando durante cinco años a partir de la vigencia de este precepto, no se
 
 Todo pacto que se celebre contraviniendo esta disposición, será nulo de pleno derecho y los arrendadores incurrirán en una multa equivalente al importe del aumento de las rentas de un año, la cual impondrá la autoridad judicial que conozca del juicio donde se haga valer la ineficacia de la elevación de las rentas.
 
-### CAPITULO II. Del secuestro
+### CAPITULO I. Del depósito
 
 ###### Artículo 2306.
 
@@ -11355,7 +11397,7 @@ El permiso a que se refiere el artículo que precede, no será obligatorio sino 
 
 Terminado el arrendamiento, tendrá a su vez el arrendatario saliente, derecho para usar de las tierras y edificios por el tiempo absolutamente indispensable para la recolección y aprovechamiento de los frutos pendiente al terminar el contrato.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO II. Del secuestro
 
 ###### Artículo 2312.
 
@@ -11433,7 +11475,7 @@ Si en el arrendamiento de un predio rústico se incluyere el ganado de labranza 
 
 Lo dispuesto en el artículo 2318 es aplicable a los aperos de la finca arrendada.
 
-### CAPITULO II. De las obligaciones del mandatario con respecto al mandante
+### CAPITULO I. Disposiciones generales
 
 ###### Artículo 2331.
 
@@ -11443,7 +11485,7 @@ Todos los arrendamientos, sean de predios rústicos o urbanos, que no se hayan c
 
 Dado el aviso a que se refiere el artículo anterior, el arrendatario del predio urbano está obligado a poner cédulas y a mostrar el interior de la casa a los que pretenden verla. Respecto de los predios rústicos, se observará lo dispuesto en los artículos 2309, 2310 y 2311.
 
-### CAPITULO III. De las obligaciones del mandante con relación al mandatario
+### CAPITULO II. De las obligaciones del mandatario con respecto al mandante
 
 ###### Artículo 2333.
 
@@ -11457,9 +11499,7 @@ Si el subarriendo se hiciere en virtud de la autorización general concedida en 
 
 Si el arrendador aprueba expresamente el contrato especial de subarriendo, el subarrendatario queda subrogado en todos los derechos y obligaciones del arrendatario, a no ser que por convenio se acuerde otra cosa.
 
-### CAPITULO IV
-
-De las obligaciones y derechos del mandante y del mandatario con relación a tercero.
+### CAPITULO III. De las obligaciones del mandante con relación al mandatario
 
 ###### Artículo 2336.
 
@@ -11623,7 +11663,9 @@ El comodato termina por la muerte del comodatario.
 
 ## TITULO NOVENO. Del mandato
 
-### CAPITULO V. Del mandato judicial
+### CAPITULO IV
+
+De las obligaciones y derechos del mandante y del mandatario con relación a tercero.
 
 ###### Artículo 2369.
 
@@ -11721,7 +11763,7 @@ El posadero no se exime de la responsabilidad que le imponen los dos artículos 
 
 Las fondas, cafés, casas de baño y otros establecimientos semejantes, no responden de los efectos que introduzcan los parroquianos, a menos que los pongan bajo el cuidado de los empleados del establecimiento.
 
-### CAPITULO VI. De los diversos modos de terminar el mandato
+### CAPITULO V. Del mandato judicial
 
 ###### Artículo 2392.
 
@@ -11753,7 +11795,7 @@ El secuestro judicial se rige por las disposiciones del Código de Procedimiento
 
 ## TITULO DECIMO. Del contrato de prestación de servicios
 
-### CAPITULO I. Del servicio doméstico, del servicio por jornal, del servicio a precio alzado y del contrato de aprendizaje
+### CAPITULO VI. De los diversos modos de terminar el mandato
 
 ###### Artículo 2399.
 
@@ -11859,7 +11901,7 @@ Al extenderse un poder, el otorgante cuidará de expresar el tiempo por el cual 
 
 Los poderes conferidos bajo la vigencia de leyes anteriores a este Código, se sujetarán para fijar su duración a lo que esas mismas leyes prevengan.
 
-### CAPITULO II. De la prestación de servicios profesionales
+### CAPITULO I. Del servicio doméstico, del servicio por jornal, del servicio a precio alzado y del contrato de aprendizaje
 
 ###### Artículo 2416.
 
@@ -11921,7 +11963,7 @@ Si se le designó la persona del substituto, no podrá nombrar a otro: si no se 
 
 El substituto tiene para con el mandante los mismos derechos y obligaciones que el mandatario.
 
-### CAPITULO III. Del contrato de obras a precio alzado
+### CAPITULO II. De la prestación de servicios profesionales
 
 ###### Artículo 2431.
 
@@ -11943,7 +11985,7 @@ El mandatario podrá retener en prenda las cosas que son objeto del mandato hast
 
 Si muchas personas hubiesen nombrado a un solo mandatario para algún negocio común, le quedan obligadas solidariamente para todos los efectos del mandato.
 
-### CAPITULO IV. De los porteadores y alquiladores
+### CAPITULO III. Del contrato de obras a precio alzado
 
 ###### Artículo 2435.
 
@@ -11961,7 +12003,7 @@ Los actos que el mandatario practique a nombre del mandante, pero traspasando lo
 
 El tercero que hubiere contratado con el mandatario que se excedió en sus facultades, no tendrá acción contra de éste, si le hubiere dado a conocer cuáles fueron aquéllas y no se hubiere obligado personalmente por el mandante.
 
-### CAPITULO V. Del contrato de hospedaje
+### CAPITULO IV. De los porteadores y alquiladores
 
 ###### Artículo 2439.
 
@@ -12045,7 +12087,7 @@ El procurador que ha substituído un poder, puede revocar la substitución si ti
 
 La parte puede ratificar antes de la sentencia que cause ejecutoria, lo que el procurador hubiere hecho excediéndose del poder.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO V. Del contrato de hospedaje
 
 ###### Artículo 2449.
 
@@ -12107,13 +12149,13 @@ Lo que el mandatario, sabiendo que ha cesado el mandato, hiciere con un tercero 
 
 ## TITULO PRIMERO. De la concurrencia y prelación de los créditos
 
-### CAPITULO II. De los socios
+### CAPITULO I. Disposiciones generales
 
 ###### Artículo 2459.
 
 El servicio doméstico, el servicio por jornal, el servicio a precio alzado en que el operario sólo pone su trabajo, y el contrato de aprendizaje se regirán por la Ley Federal del Trabajo.
 
-### CAPITULO III. De la administración de la sociedad
+### CAPITULO II. De los socios
 
 ###### Artículo 2460.
 
@@ -12157,7 +12199,7 @@ Siempre que un profesor no pueda continuar prestando sus servicios, deberá avis
 
 El que preste servicios profesionales, sólo es responsable, hacia las personas a quienes sirve, por negligencia, impericia o dolo, sin perjuicio de las penas que merezca en caso de delito.
 
-### CAPITULO IV. De la disolución de las sociedades
+### CAPITULO III. De la administración de la sociedad
 
 ###### Artículo 2470.
 
@@ -12279,7 +12321,7 @@ El constructor de cualquiera obra mueble tiene derecho de retenerla mientras no 
 
 Los empresarios constructores son responsables, por la inobservancia de las disposiciones municipales o de policía y por todo daño que causen a los vecinos.
 
-### CAPITULO V. De la liquidación de la sociedad
+### CAPITULO IV. De la disolución de las sociedades
 
 ###### Artículo 2500.
 
@@ -12379,7 +12421,7 @@ El contrato de transporte se rescindir de hecho antes de emprenderse el viaje, o
 
 En el caso previsto en el artículo anterior, cada uno de los interesados perderá los gastos que hubiere hecho si el viaje no se ha verificado; y si está en curso, el porteador tendrá derecho a que se le pague del porte la parte proporcional al camino recorrido, y la obligación de presentar los efectos, para su depósito, a la autoridad judicial del punto en que ya no le sea posible continuarlo, comprobando y recabando la constancia relativa de hallarse en el estado consignado en la carta de porte, de cuyo hecho dará conocimiento oportuno al cargador, a cuya disposición deben quedar.
 
-### CAPITULO VI. De las asociaciones y de las sociedades extranjeras
+### CAPITULO V. De la liquidación de la sociedad
 
 ###### Artículo 2520.
 
@@ -12493,7 +12535,7 @@ En caso de disolución, los bienes de la asociación se aplicarán conforme a lo
 
 Las asociaciones de beneficencia se regirán por las leyes especiales correspondientes.
 
-### CAPITULO VII. De la aparcería agrícola y pecuaria
+### CAPITULO VI. De las asociaciones y de las sociedades extranjeras
 
 ###### Artículo 2542.
 
@@ -12561,7 +12603,7 @@ La capacidad para que las sociedades adquieran bienes raíces, se regir por lo d
 
 No quedan comprendidas en este Título las sociedades cooperativas, ni las mutualistas, que se regirán por las respectivas leyes especiales.
 
-### CAPITULO I. Del juego y de la apuesta
+### CAPITULO VII. De la aparcería agrícola y pecuaria
 
 ###### Artículo 2555.
 
@@ -12591,7 +12633,7 @@ Ningún socio puede ser excluído de la sociedad sino por el acuerdo unánime de
 
 El socio excluído es responsable de la parte de pérdidas que le corresponda, y los otros socios pueden retener la parte del capital y utilidades de aquél, hasta concluir las operaciones pendientes al tiempo de la declaración, debiendo hacerse hasta entonces la liquidación correspondiente.
 
-### CAPITULO II. De la renta vitalicia
+### CAPITULO I. Del juego y de la apuesta
 
 ###### Artículo 2562.
 
@@ -12645,7 +12687,7 @@ El socio o socios administradores están obligados a rendir cuentas siempre que 
 
 Cuando la administración no se hubiere limitado a alguno de los socios, todos tendrán derecho de concurrir a la dirección y manejo de los negocios comunes. Las decisiones serán tomadas por mayoría, observándose, respecto de ésta lo dispuesto en el artículo 2566.
 
-### CAPITULO III. De la compra de esperanza
+### CAPITULO II. De la renta vitalicia
 
 ###### Artículo 2573.
 
@@ -12687,7 +12729,7 @@ Se dice extemporánea la renuncia, si al hacerla, las cosas no se hallan en su e
 
 La disolución de la sociedad no modifica los compromisos contraídos con terceros.
 
-### CAPITULO I. De la fianza en general
+### CAPITULO III. De la compra de esperanza
 
 ###### Artículo 2579.
 
@@ -12739,7 +12781,7 @@ Si al terminar la sociedad en que hubiere socios capitalistas e industriales, re
 
 Salvo pacto en contrario, los socios industriales no responderán de las pérdidas.
 
-### CAPITULO II. De los efectos de la fianza entre el fiador y el acreedor
+### CAPITULO I. De la fianza en general
 
 ###### Artículo 2589.
 
@@ -12755,7 +12797,7 @@ II. Que tienen representante domiciliado en el lugar donde van a operar suficien
 
 Concedida la autorización por la Secretaría de Relaciones Exteriores y previa protocolización, se inscribirán en el registro las escrituras constitutivas de las asociaciones y sociedad extranjeras.
 
-### CAPITULO III. De los efectos de la fianza entre el fiador y el deudor
+### CAPITULO II. De los efectos de la fianza entre el fiador y el acreedor
 
 ###### Artículo 2591.
 
@@ -12765,7 +12807,7 @@ TITULO DECIMOSEGUNDO
 
 De los contratos aleatorios
 
-### CAPITULO IV. De los efectos de la fianza entre los cofiadores
+### CAPITULO III. De los efectos de la fianza entre el fiador y el deudor
 
 ###### Artículo 2592.
 
@@ -12809,7 +12851,7 @@ Las loterías o rifas, cuando se permitan, serán regidas, las primeras, por las
 
 El contrato celebrado entre los compradores de billetes y las loterías autorizadas en país extranjero, no ser válido en el Estado de Michoacán, a menos que la venta de esos billetes haya sido permitida por la autoridad correspondiente.
 
-### CAPITULO V. De la extinción de la fianza
+### CAPITULO IV. De los efectos de la fianza entre los cofiadores
 
 ###### Artículo 2602.
 
@@ -12883,7 +12925,7 @@ El pensionista sólo puede demandar las pensiones, justificando su supervivencia
 
 Si el que paga la renta vitalicia ha causado la muerte del acreedor o la de aquél sobre cuya vida había sido constituída, debe devolver el capital al que la constituyó o a sus herederos.
 
-### CAPITULO VI. De la fianza legal o judicial
+### CAPITULO V. De la extinción de la fianza
 
 ###### Artículo 2620.
 
@@ -12899,7 +12941,7 @@ TITULO DECIMOTERCERO
 
 De la fianza
 
-### CAPITULO I. De la hipoteca en general
+### CAPITULO VI. De la fianza legal o judicial
 
 ###### Artículo 2622.
 
@@ -12975,7 +13017,7 @@ No tendrá lugar la responsabilidad del artículo anterior, si el que dió la ca
 
 Quedan sujetas a las disposiciones de este Título, las fianzas otorgadas por individuos o compañías accidentalmente en favor de determinadas personas, siempre que no las extiendan en forma de póliza; que no las anuncien públicamente por la prensa o por cualquier otro medio, y que no empleen agentes que las ofrezcan.
 
-### CAPITULO II. De la hipoteca voluntaria
+### CAPITULO I. De la hipoteca en general
 
 ###### Artículo 2640.
 
@@ -13057,7 +13099,7 @@ La transacción entre el acreedor y el deudor principal, aprovecha al fiador, pe
 
 Si son varios los fiadores de un deudor por una sola deuda, responder cada uno de ellos por la totalidad de aquélla, no habiendo convenio en contrario; pero si sólo uno de los fiadores es demandado, podrá hacer citar a los demás para que se defiendan juntamente, y en la proporción debida estén a las resultas del juicio.
 
-### CAPITULO III. De la hipoteca necesaria
+### CAPITULO II. De la hipoteca voluntaria
 
 ###### Artículo 2656.
 
@@ -13113,7 +13155,7 @@ IV. Si se obligó a relevarlo de la fianza en tiempo determinado, y éste ha tra
 
 V. Si la deuda se hace exigible por el vencimiento del plazo.
 
-### CAPITULO IV. De la extinción de las hipotecas
+### CAPITULO III. De la hipoteca necesaria
 
 ###### Artículo 2665.
 
@@ -13149,7 +13191,7 @@ El fiador que pide el beneficio de división, sólo responde por la parte del fi
 
 El que fía al fiador, en el caso de insolvencia de éste, es responsable para con los otros fiadores, en los mismos términos en que lo seria el fiador fiado.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO IV. De la extinción de las hipotecas
 
 ###### Artículo 2670.
 
@@ -13183,7 +13225,7 @@ El fiador que se ha obligado por tiempo determinado, queda libre de su obligaci�
 
 Si la fianza se ha otorgado por tiempo indeterminado, tiene derecho el fiador, cuando la deuda principal se vuelva exigible, de pedir al acreedor que promueva judicialmente, dentro del plazo de un mes, el cumplimiento de la obligación. Si el acreedor no ejercita sus derechos dentro del plazo mencionado, o si en el juicio entablado deja de promover, sin causa justificada, por más de tres meses, el fiador quedará libre de su obligación.
 
-### CAPITULO II. De los créditos hipotecarios y pignoraticios y de algunos otros privilegiados
+### CAPITULO I. Disposiciones generales
 
 ###### Artículo 2678.
 
@@ -13391,7 +13433,7 @@ TITULO DECIMOQUINTO
 
 De la hipoteca
 
-### CAPITULO III. De algunos acreedores preferentes sobre determinados bienes
+### CAPITULO II. De los créditos hipotecarios y pignoraticios y de algunos otros privilegiados
 
 ###### Artículo 2721.
 
@@ -13523,7 +13565,7 @@ La acción hipotecaria prescribirá a los diez años, contados desde que pueda e
 
 La hipoteca nunca es tácita, ni general; para producir efectos contra tercero necesita siempre de registro, y se contrae por voluntad, en los convenios y en el caso del artículo 2729 y por necesidad, cuando la ley sujeta a alguna persona a prestar esa garantía sobre bienes determinados. En el primer caso se llama voluntaria; en el segundo, necesaria.
 
-### CAPITULO IV. Acreedores de primera clase
+### CAPITULO III. De algunos acreedores preferentes sobre determinados bienes
 
 ###### Artículo 2746.
 
@@ -13577,7 +13619,7 @@ La hipoteca prorrogada segunda o más veces sólo conservar la preferencia deriv
 
 Lo mismo se observará en el caso de que el acreedor conceda un nuevo plazo para que se le pague su crédito.
 
-### CAPITULO V. Acreedores de segunda clase
+### CAPITULO IV. Acreedores de primera clase
 
 ###### Artículo 2757.
 
@@ -13633,7 +13675,7 @@ Los que tienen derecho de exigir la constitución de hipoteca necesaria, tienen 
 
 Si el responsable de la hipoteca designada en las fracciones II, III y IV del artículo 2761 no tuviere inmuebles, no gozará el acreedor más que del privilegio mencionado en el artículo 2821, fracción I, salvo lo dispuesto en el Capítulo IX, del Título IX, del Libro Primero.
 
-### CAPITULO VI. Acreedores de tercera clase
+### CAPITULO V. Acreedores de segunda clase
 
 ###### Artículo 2766.
 
@@ -13765,7 +13807,7 @@ TERCERA PARTE
 
 ## TITULO SEGUNDO. Del Registro Público
 
-### CAPITULO VII. Acreedores de cuarta clase
+### CAPITULO VI. Acreedores de tercera clase
 
 ###### Artículo 2790.
 
@@ -13847,7 +13889,7 @@ Los gastos judiciales hechos por un acreedor, en lo particular, ser pagados en e
 
 El crédito cuya preferencia provenga de convenio fraudulento entre el acreedor y el deudor, pierde toda preferencia, a no ser que el dolo provenga sólo del deudor, quien en este caso ser responsable de los daños y perjuicios que se sigan a los demás acreedores, además de las penas que merezca por el fraude.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO VII. Acreedores de cuarta clase
 
 ###### Artículo 2806.
 
@@ -13913,7 +13955,7 @@ II. Si los acreedores hubieren hecho novación de la deuda o de cualquier otro m
 
 Los acreedores que obtuvieren la separación de bienes, no podrán entrar al concurso del heredero, aunque aquéllos no alcancen a cubrir sus créditos.
 
-### CAPITULO II. De los títulos sujetos a registro
+### CAPITULO I. Disposiciones generales
 
 ###### Artículo 2819.
 
@@ -13939,7 +13981,7 @@ Tratándose de bienes muebles, cesará la preferencia si hubieren sido inmoviliz
 
 IX. Los créditos anotados en el Registro de la Propiedad, en virtud de mandamiento judicial, por embargos, secuestros o ejecución de sentencias, sobre los bienes anotados y solamente en cuanto a créditos posteriores.
 
-### CAPITULO III. Del modo de hacer el registro
+### CAPITULO II. De los títulos sujetos a registro
 
 ###### Artículo 2820.
 
@@ -13957,9 +13999,7 @@ V. El crédito por alimentos fiados al deudor para su subsistencia y la de su fa
 
 VI. La responsabilidad civil en la parte que comprende el pago de los gastos de curación o de los funerales del ofendido y las pensiones que por concepto de alimentos se deban a sus familiares. En lo que se refiere a la obligación de restituir, por tratarse de devoluciones de cosa ajena, no entra en concurso, y por lo que toca a las otras indemnizaciones que se deban por el delito, se pagarán como si se tratara de acreedores comunes de cuarta clase.
 
-### CAPITULO IV. Del registro de las informaciones de dominio
-
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 1945)</small>
+### CAPITULO III. Del modo de hacer el registro
 
 ###### Artículo 2821.
 
@@ -13971,13 +14011,15 @@ II. Los créditos del erario que no estén comprendidos en el artículo 2806, y 
 
 III. Los créditos de los establecimientos de beneficencia pública o privada.
 
-### CAPITULO V. De las inscripciones de posesión
+### CAPITULO IV. Del registro de las informaciones de dominio
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 1945)</small>
 
 ###### Artículo 2822.
 
 Satisfechos los créditos de que se ha hablado anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
 
-### CAPITULO VI. De la extinción de las inscripciones
+### CAPITULO V. De las inscripciones de posesión
 
 ###### Artículo 2823.
 
@@ -13986,6 +14028,8 @@ Pagados los créditos enumerados en los capítulos que preceden, se pagarán los
 ###### Artículo 2824.
 
 Con los bienes restantes serán pagados todos los demás créditos que no estén comprendidos en las disposiciones anteriores. El pago se hará a prorrata y sin atender a las fechas, ni al origen de los créditos.
+
+### CAPITULO VI. De la extinción de las inscripciones
 
 ###### Artículo 2825.
 
@@ -14388,3 +14432,17 @@ P.O. 17 DE ENERO DE 1955.
 ###### ARTICULO UNICO.
 
 Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE ENERO DE 1956.
+
+PRIMERO.- Los contratos de compraventa de recursos forestales celebrados con anterioridad no producirán efectos contra terceros si no se ratifican ante Notario Público y si no se inscriben en el Registro Público de la Propiedad dentro de los 30 días siguientes a la publicación de este Decreto.
+
+SEGUNDO.- Los contratos de compraventa de recursos forestales ya existentes se resolverán también quedando sin efecto en los siguientes casos:
+
+a).- Si dentro de los 30 días siguientes a la publicación de este Decreto los compradores interesados no presentan ante las autoridades forestales competentes la solicitud para el otorgamiento de los permisos de explotación, en caso de que no lo hubieren hecho antes.
+
+b).- Si en el término de 6 meses, contado también a partir de la publicación de este Decreto, los compradores no obtienen el permiso forestal correspondiente o si, aún antes de fenecer tal plazo, se les niega.
+
+c).- Si la autorización para explotar se otorga a un tercero.
+
+TERCERO.- Estas reformas entrarán en vigor diez días después de la fecha de su publicación en el Periódico Oficial del Estado.
