@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "1975-12-30"
+last_updated: "1981-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1981.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -132,7 +132,9 @@ I. A la publicación, por medio de la prensa, de la calidad mercantil, con sus c
 
 II. A la inscripción en el Registro público de Comercio, de los documentos cuyo tenor y autenticidad deben hacerse notorios;
 
-III. A seguir un orden uniforme riguroso de cuenta y razón;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1981)</small>
+
+III. A mantener un sistema de Contabilidad conforme al Artículo 33;
 
 IV. A la conservación de la correspondencia que tenga relación con el giro del comerciante.
 
@@ -144,11 +146,15 @@ Del anuncio de la calidad mercantil.
 
 Los comerciantes tienen el deber:
 
-I. De participar la apertura del establecimiento ó despacho de su propiedad, por medio de una circular dirigida á los comerciantes de las plazas en que tengan domicilio, sucursales, relaciones ó corresponsales mercantiles, la cual contendrá: el nombre del establecimiento ó despacho, su ubicación y objeto; si hay persona encargada de su administración, su nombre y firma; si hay compañía, su naturaleza, la indicación del gerente ó gerentes, la razón social ó denominación y la persona ó personas autorizadas para usar una ú otra, y la designación de las casas, sucursales ó agencias, si las hubiere;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1981)</small>
 
-II. De dar parte, también por medio de circular, de las modificaciones que sufra cualquiera de las circunstancias antes referidas;
+I. De participar la apertura del establecimiento o despacho de su propiedad, por los medios de comunicación que sean idóneos, en las plazas en que tengan domicilio, sucursales, relaciones o corresponsables mercantiles; esta información dará a conocer el nombre del establecimiento o despacho, su ubicación y objeto; si hay persona encargada de su administración, su nombre y firma; si hay compañía, su naturaleza, la indicación del gerente ó gerentes, la razón social ó denominación y la persona ó personas autorizadas para usar una ú otra, y la designación de las casas, sucursales ó agencias, si las hubiere;
 
-III. De publicar en el periódico oficial, y en su defecto en algún otro, las circulares que dirijan, así como el estado de liquidación y la clausura del establecimiento ó despacho.
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1981)</small>
+
+II. De dar parte, en igual forma, de las modificaciones que sufra cualquiera de las circunstancias antes referidas;
+
+III. (DEROGADA, D.O.F. 23 DE ENERO DE 1981)
 
 ### CAPÍTULO II.
 
@@ -162,9 +168,11 @@ Art.19. La inscripción ó matrícula en el Registro mercantil será potestativa
 
 El registrador está obligado á llevar el registro general de comercio por orden cronológico de presentación de documentos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 1981)</small>
+
 ###### Art. 21.
 
-En la hoja de inscripción de cada comerciante ó sociedad, se anotarán:
+En la hoja de inscripción de cada comerciante o sociedad se anotarán:
 
 I. Su nombre, razón social ó título;
 
@@ -198,7 +206,7 @@ XIII. Los títulos de propiedad industrial, patentes de invención y marcas de f
 
 XIV. Las emisiones de acciones, cédulas y obligaciones de ferrocarriles y de toda clase de sociedades, sean de obras públicas, compañías de crédito ú otras, expresando la serie y número de los títulos de cada emisión, su interés y amortización, la cantidad total de la emisión, y los bienes, obras, derechos ó hipotecas, cuando los hubiere, que se afecten á su pago. También se inscribirán con arreglo á estos preceptos, las emisiones que hicieren los particulares;
 
-XV. Las emisiones de billetes de Banco, expresando su fecha, clases, series, cantidades é importe de cada emisión;
+XV. (DEROGADA, D.O.F. 23 DE ENERO DE 1981)
 
 XVI. Los buques con expresión de su nombre, clase de aparejo, sistema ó fuerza de las máquinas si fuesen de vapor, expresando si son caballos nominales ó indicados; punto de construcción del casco y máquinas; año de la misma; material del casco, indicando si es de madera, hierro, acero ó mixto; dimensiones principales de eslora, manga y puntal; tonelaje total y neto; y por último los nombres y domicilios de los dueños y partícipes de su propiedad;
 
@@ -260,99 +268,121 @@ Cuando se necesite rectificar una inscripción en el Registro por error material
 
 De la contabilidad mercantil.
 
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1981)</small>
+
 ###### Art. 33.
 
-El comerciante está obligado á llevar cuenta y razón de todas sus operaciones en tres libros á lo menos, que son: el libro de inventarios y balances, el libro general de diario y el libro mayor ó de cuentas corrientes.
+El comerciante está obligado a llevar y mantener un sistema de contabilidad adecuado. Este sistema podrá llevarse mediante los instrumentos, recursos y sistemas de registro y procesamiento que mejor se acomoden a las características particulares del negocio, pero en todo caso deberá satisfacer los siguientes requisitos mínimos:
 
-Las sociedades y compañías por acciones llevarán también un libro ó libros de actas, en las que constarán todos los acuerdos que se refieran á la marcha y operaciones sociales, tomadas por las juntas generales y los consejos de administración.
+A) Permitirá identificar las operaciones individuales y sus características, así como conectar dichas operaciones individuales con los documentos comprobatorios originales de las mismas;
+
+B) Permitirá seguir la huella desde las operaciones individuales a las acumulaciones que den como resultado las cifras finales de las cuentas y viceversa;
+
+C) Permitirá la preparación de los estados que se incluyan en la información financiera del negocio;
+
+D) Permitirá conectar y seguir la huella entre las cifras de dichos estados, las acumulaciones de las cuentas y las operaciones individuales;
+
+E) Incluirá los sistemas de control y verificación internos necesarios para impedir la omisión del registro de operaciones, para asegurar la corrección del registro contable y para asegurar la corrección de las cifras resultantes.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1981)</small>
 
 ###### Art. 34.
 
-Los libros que se prescriben de rigurosa necesidad en la orden de la contabilidad mercantil, estarán encuadernados, forrados, foliados y sellados con el timbre correspondiente en la forma que prevengan las leyes.
+Cualquiera que sea el sistema de registro que se emplee, se deberán llevar debidamente encuadernados, empastados y foliados el libro mayor y, en el caso de las personas morales, el libro o los libros de actas. La encuadernación de estos libros podrá hacerse a posteriori, dentro de los tres meses siguientes al cierre del ejercicio; sin perjuicio de los requisitos especiales que establezcan las leyes y reglamentos fiscales para los registros y documentos que tengan relación con las obligaciones fiscales del comerciante.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1981)</small>
 
 ###### Art. 35.
 
-Los comerciantes podrán llevar los libros por sí mismos ó por personas á quienes autorice para ello.
+En el libro mayor se deberán anotar, como mínimo y por lo menos una vez al mes, los nombres o designaciones de las cuentas de la contabilidad, su saldo al final del período de registro inmediato anterior, el total de movimientos de cargo o crédito a cada cuenta en el período y su saldo final. Podrán llevarse mayores particulares por oficinas, segmentos de actividad o cualquier otra clasificación, pero en todos los casos deberá existir un mayor general en que se concentren todas las operaciones de la entidad.
 
-Si el comerciante no llevaré los libros por sí mismo, se presumirá concedida la autorización al que los lleve, salvo prueba en contrario.
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1981)</small>
 
-Art .36. Los libros de los comerciantes se llevarán en idioma español, con claridad, por orden progresivo de fechas y operaciones, sin dejar huecos, y en manera alguna podrán ser alterados. Los errores que en ellos se cometan, se salvarán por nuevo asiento relacionado con la partida errada.
+###### Art. 36.
+
+En el libro o los libros de actas se harán constar todos los acuerdos relativos a la marcha del negocio que tomen las asambleas o juntas de socios, y en su caso, los consejos de administración.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1981)</small>
 
 ###### Art. 37.
 
-El comerciante, aunque sea extranjero, que no lleve sus libros en castellano, incurrirá en una multa que no bajará de cincuenta pesos, ni excederá de trescientos; se hará á sus expensas la traducción al idioma español, de los asientos de libro que se manden reconocer y compulsar, y se le compelerá por los medios del derecho, á que en un término que le señalen transcriba á dicho idioma los libros que hubiere llevado en otro.
+Todos los registros a que se refiere este capítulo deberán llevarse en castellano, aunque el comerciante sea extranjero. En caso de no cumplirse este requisito el comerciante incurrirá en una multa no menos de 25,000.00 pesos, que no excederá del cinco por ciento de su capital y las autoridades correspondientes podrán ordenar que se haga la traducción al castellano por medio de perito traductor debidamente reconocido, siendo por cuenta del comerciante todos los costos originados por dicha traducción.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1981)</small>
 
 ###### Art. 38.
 
-El libro de inventarios y balances empezará por el inventario, que deberá formular el comerciante al tiempo de dar principio á sus operaciones, y contendrá:
-
-I. La relación exacta del dinero, valores, créditos, efectos al cobro, bienes muebles é inmuebles, mercaderías y efectos de todas clases, apreciados en su valor real, y que constituyan su activo;
-
-II. La relación exacta de las deudas y toda clase de obligaciones pendientes, si las tuviere, y que formen su pasivo;
-
-III. Fijará, en su caso la diferencia exacta entre el activo y el pasivo, que será el capital con que principia sus operaciones.
-
-El comerciante formará además anualmente, y extenderá en el mismo libro, el balance general de sus negocios con los pormenores expresados en este artículo, y de acuerdo con los asientos del diario, sin reserva ni omisión alguna, bajo su firma y responsabilidad.
+El comerciante deberá conservar, debidamente archivados, los comprobantes originales de sus operaciones, de tal manera que puedan relacionarse con dichas operaciones y con el registro que de ellas se haga, y deberá conservarlos por un plazo mínimo de diez años.
 
 ###### Art. 39.
 
-En el libro diario se asentará por primera partida el resultado del inventario de que se trata el artículo anterior, dividiendo en una ó varias cuentas consecutivas, según el sistema de contabilidad que se adopte.
-
-Seguirán después día por día, y según el orden en que se vayan haciendo, todas las operaciones que haga el comerciante en su tráfico, por cuenta propia ó ajena, designando las circunstancias y carácter de cada operación y el resultado que produce á su cargo ó descargo: de modo que cada partida manifieste quién sea el acreedor y quién el deudor en el negocio á que se refiere.
-
-Cuando las operaciones sean numerosas, cualquiera que sea su importancia, ó cuando hayan tenido lugar fuera del domicilio, podrán anotarse un solo asiento las que se refieran á cada cuenta y se hayan verificado en cada día; pero guardando en la expresión de ellas cuando se detallen, el orden mismo en que se hayan verificado.
-
-Se anotarán, asimismo, en la fecha en que las retire de caja, las cantidades que el comerciante tome á su cargo, y se llevarán á una cuenta especial que al intento se abrirá en el libro mayor .
+(DEROGADO, D.O.F. 23 DE ENERO DE 1981)
 
 ###### Art. 40.
 
-Las cuentas corrientes con cada objeto ó persona particular, se abrirán por Debe y Haber en el libro mayor; y á cada cuenta se trasladarán, por orden riguroso de fechas, los asientos del diario.
+(DEROGADO, D.O.F. 23 DE ENERO DE 1981)
 
 ###### Art. 41.
 
 En el libro de actas que llevará cada sociedad, cuando se trate de juntas generales, se expresará: la fecha respectiva, los asistentes á ellas, los números de acciones que cada uno represente, el número de votos de que pueden hacer uso, los acuerdos que se tomen, los que se consignarán á la letra; y cuando las votaciones no sean económicas, los votos emitidos, cuidando además de consignar todo lo que conduzca al perfecto conocimiento de lo acordado. Cuando el acta se refiera á junta del Consejo de administración, sólo se expresará: la fecha, nombre de los asistentes y relación de los acuerdos aprobados. Estas actas serán autorizadas con las firmas de las personas á quienes los estatutos confieran esta facultad.
 
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1981)</small>
+
 ###### Art. 42.
 
-No se puede hacer pesquisa de oficio por tribunal ni autoridad alguna para inquirir si los comerciantes llevan ó no libros arreglados. Deberán, sin embargo, exhibirlos cuando se les mande, para el simple acto de ver si tiene el timbre correspondiente.
+No se puede hacer pesquisa de oficio por tribunal ni autoridad alguna, para inquirir si los comerciantes llevan o no el sistema de contabilidad a que se refiere este capítulo.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1981)</small>
 
 ###### Art. 43.
 
-Tampoco podrá decretarse, á instancia de parte, la comunicación, entrega ó reconocimiento general de los libros, cartas, cuentas y documentos de los comerciantes, sino en los casos de sucesión universal, liquidación de compañía, dirección ó gestión comercial por cuenta de otro ó de quiebra.
+Tampoco podrá decretarse, a instancia de parte, la comunicación, entrega o reconocimiento general de los libros, registros, comprobantes, cartas, cuentas y documentos de los comerciantes, sino en los casos de sucesión universal, liquidación de compañía dirección o gestión comercial por cuenta de otro o de quiebra.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1981)</small>
 
 ###### Art. 44.
 
-Fuera de los casos prefijados en el artículo anterior, sólo podrá decretarse la exhibición de los libros y documentos de los comerciantes, á instancia de parte ó de oficio, cuando la persona á quien pertenezcan tenga interés ó responsabilidad en el asunto en que proceda la exhibición.
+Fuera de los casos prefijados en el artículo anterior, sólo podrá decretarse la exhibición de los libros, registros y documentos de los comerciantes, a instancia de parte o de oficio, cuando la persona a quien pertenezcan tenga interés o responsabilidad en el asunto en que proceda la exhibición.
 
-El reconocimiento se hará en el escritorio del comerciante, á su presencia ó á la de la persona que comisione, y se contraerá exclusivamente á los puntos que tengan relación directa con la acción deducida, comprendiendo en ellos aun los que sean extraños á la cuenta especial del que ha solicitado el reconocimiento.
+El reconocimiento se hará en el lugar en que habitualmente se guarden o conserven los libros registros o documentos, o en el que de común acuerdo fijen las partes, en presencia del comerciante o de la persona que comisione y se contraerá exclusivamente a los puntos que tengan relación directa con la acción deducida comprendiendo en ellos aún los que sean extraños a la cuenta especial del que ha solicitado el reconocimiento.
 
 ###### Art. 45.
 
 Si los libros se hallasen fuera de la residencia del tribunal que decrete su exhibición, se verificará ésta en el lugar donde existan dichos libros, sin exigirse su traslación al del juicio.
 
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1981)</small>
+
 ###### Art. 46.
 
-Todo comerciante está obligado á conservar los libros de su comercio hasta liquidar sus cuentas, y diez años después. Los herederos de un comerciante tienen la misma obligación.
+Todo comerciante está obligado a conservar los libros, registros y documentos de su negocio por un plazo mínimo de diez años. Los herederos de un comerciante tienen la misma obligación.
 
 ### CAPÍTULO IV.
 
 De la correspondencia.
 
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1981)</small>
+
 ###### Art. 47.
 
-Los comerciantes están obligados á conservar en buen orden todas las cartas y telegramas que reciban con relación á sus negocios y giro, anotando al dorso la fecha en que se recibieron y contestaron, ó si no se dió contestación.
+Los comerciantes están obligados a conservar debidamente archivadas las cartas, telegramas y otros documentos que reciban en relación con sus negocios o giro, así como copias de las que expidan.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1981)</small>
 
 ###### Art. 48.
 
-A un libro copiador se trasladarán, bien sea á mano ó valiéndose de un medio mecánico cualquiera íntriga y sucesivamente por orden de fechas, inclusas la antefirma y firma, todas las cartas que el comerciante escriba sobre su tráfico, y los despachos telegráficos que expida.
+Tratándose de las copias de las cartas, telegramas y otros documentos que los comerciantes expidan, así como de los que reciban que no estén incluidos en el artículo siguiente, el archivo podrá integrarse con copias obtenidas por cualquier medio: mecánico, fotográfico o electrónico, que permita su reproducción posterior íntegra y su consulta o compulsa en caso necesario.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1981)</small>
 
 ###### Art. 49.
 
-Son aplicables al libro copiador de cartas las reglas establecidas en el art. 36 excepto la referente al uso exclusivo del idioma español.
+Los comerciantes están obligados a conservar los originales de aquellas cartas, telegramas o documentos en que se consignen contratos, convenios o compromisos que den nacimiento a derechos y obligaciones y deberán conservarlos por un plazo mínimo de diez años.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1981)</small>
 
 ###### Art. 50.
 
-Los tribunales pueden decretar de oficio, ó á instancia de parte legítima, que se presenten en juicio las cartas que tengan relación con el asunto del litigio, así como que se compulsen del copiador las de igual clase que se hayan escrito por los litigantes, fijándose de antemano con precisión las que hayan de copiarse por la parte que lo solicite.
+Los tribunales pueden decretar de oficio, o a instancia de parte legítima, que se presenten en juicio las cartas que tengan relación con el asunto del litigio, así como que se compulsen de las respectivas copias las que se hayan escrito por los litigantes, fijándose de antemano, con precisión, por la parte que las solicite, las que hayan de ser copiadas o reproducidas.
 
 ## TÍTULO TERCERO.
 
@@ -7009,3 +7039,7 @@ SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA
 ###### ARTICULO SEPTIMO.
 
 El presente Decreto entrará en vigor a los treinta días de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 23 DE ENERO DE 1981.
+
+ARTICULO TRANSITORIO.- El presente decreto entrará en vigor el día primero de enero de 1981.
