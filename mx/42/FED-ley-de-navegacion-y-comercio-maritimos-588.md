@@ -4,7 +4,7 @@ identifier: "FED-ley-de-navegacion-y-comercio-maritimos-588"
 country: "mx"
 rank: "ley"
 publication_date: "1963-11-21"
-last_updated: "1974-12-23"
+last_updated: "1975-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=588&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LNCM"
 
 LEY DE NAVEGACION Y COMERCIO MARITIMOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1975.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 21 de noviembre de 1963.
 
@@ -52,29 +52,63 @@ Serán objeto de esta ley: la navegación marítima, portuaria y sus maniobras c
 
 Los buques mexicanos en alta mar serán considerados territorio mexicano.
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 3o.
 
-Cuando los buques nacionales se encuentren en aguas extranjeras, los actos jurídicos relacionados con ellos se someterán a las leyes mexicanas en lo que sea compatible con la aplicación que de su legislación haga el Estado extranjero correspondiente. Recíprocamente, los buques extranjeros que se encuentren en aguas territoriales o interiores nacionales, se considerarán sometidos a las leyes del Estado extranjero en lo que sea compatible con la aplicación de las leyes mexicanas.
+La navegación en los mares territoriales de la República es libre para las embarcaciones de todos los países, en los términos del Derecho y Tratados Internacionales.
+
+Las embarcaciones extranjeras que naveguen en aguas mexicanas, quedan sujetas por este solo hecho, al cumplimiento de las Leyes de la República y de sus reglamentos.
+
+Las calificaciones necesarias para la resolución de los conflictos de leyes, sin exceptuar la clasificación de bienes, serán las determinadas por la Ley mexicana, salvo el caso en que, conforme a las disposiciones mexicanas, el conflicto haya sido resuelto por la aplicación de la Ley extranjera.
+
+Si de acuerdo con las leyes del Estado extranjero, declaradas competentes por las leyes nacionales, ha lugar para aplicar las leyes mexicanas, serán éstas las que deban aplicarse.
+
+Son inaplicables en México, todas las disposiciones de las legislaciones extranjeras que contravengan el orden público, tal cual sea calificado en México.
+
+Nadie puede prevalerse de una situación jurídica creada en virtud de la aplicación de una ley extranjera, con fraude a la Ley mexicana.
+
+Cuando la celebración o ejecución de los contratos se realice o deba realizarse en territorio mexicano, no serán válidas para las partes, las cláusulas en que se obliguen a iniciar las acciones exclusivamente ante tribunales extranjeros, y las sentencias dictadas por éstos, a consecuencia de tales cláusulas, no podrán hacerse valer ante ninguna autoridad mexicana y su cumplimiento no podrá ser reclamado ante los tribunales nacionales, salvo que el afectado hubiere optado por deducir su acción o ejercitar sus derechos en el extranjero.
+
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
 
 ###### ARTICULO 4o.
 
-A los delitos y faltas cometidas a bordo de buques nacionales se aplicarán las leyes mexicanas, salvo que, habiéndose cometido en aguas extranjeras, los responsables hayan sido sometidos a la jurisdicción de otro país.
+Los delitos que se cometan a bordo de buques se considerarán, conforme lo dispone el Código Penal Federal, como ejecutados en territorio de la República, en los siguientes casos:
+
+a).- Cuando sean cometidos por mexicanos o por extranjeros en alta mar, a bordo de buques nacionales;
+
+b).- Cuando se ejecuten a bordo de un buque mexicano surto en puerto o en aguas territoriales de otra nación, si el delincuente no ha sido juzgado en la nación a que pertenezca el puerto; y
+
+c).- Cuando se cometan a bordo de un buque extranjero surto en puerto o en aguas nacionales si se turbare la tranquilidad pública o si el presunto delincuente o el ofendido, no fueren de la tripulación. En caso contrario se obrará conforme al derecho de reciprocidad.
+
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
 
 ###### ARTICULO 5o.
 
-La autoridad mexicana intervendrá y aplicará las leyes mexicanas, en caso de delitos o faltas cometidas a bordo de buques extranjeros en aguas nacionales:
+Cuando se tenga conocimiento de que se están cometiendo hechos presumiblemente delictuosos a bordo de un buque en aguas nacionales, las autoridades tomarán las providencias del caso con arreglo a las leyes mexicanas.
 
-I.- Si se alterase el orden público.
+Asimismo intervendrán conforme a éstas, si el capitán o el patrón de un buque extranjero o el cónsul respectivo solicitaren la intervención de las autoridades mexicanas, con motivo de la comisión de faltas de los tripulantes contra la disciplina interior de la nave.
 
-II.- Si así lo solicitaren el capitán del barco o el cónsul del país al que pertenezca la nave.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
 
 ###### ARTICULO 6.
 
-Supletoriamente a las disposiciones de esta ley, serán aplicables los usos marítimos, el Código de Comercio, la Ley sobre el Contrato del Seguro, la Ley General de Instituciones de Seguros, el Código Civil para el Distrito Federal y la Ley de Vías Generales de Comunicación en sus respectivas materias.
+Las cuestiones que se susciten sobre la interpretación y el cumplimiento de las concesiones y permisos, así como en lo relativo a las vías generales de comunicación por agua, sus medios de transporte y a los servicios marítimos, portuarios, conexos y auxiliares, se decidirán conforme a lo dispuesto en:
 
-Ninguna disposición de esta ley se aplicará en oposición a los Tratados, Convenios y Convenciones Internacionales debidamente ratificados en los que México sea parte.
+a).- Esta ley y las demás leyes en materia de comunicaciones por agua y sus reglamentos; así como los tratados internacionales debidamente ratificados por México;
+
+b).- La Ley de Vías Generales de Comunicación;
+
+c).- El Código de Comercio, la Ley sobre Contrato de Seguro y la Ley General de Instituciones de Seguros;
+
+d).- El Código Civil para el Distrito Federal;
+
+e).- Los términos mismos de las concesiones, permisos y contratos aprobados conforme a la Ley;
+
+f).- Los usos marítimos internacionales;
+
+g).- El Código Federal de Procedimientos Civiles.
 
 ###### ARTICULO 6o.
 
@@ -104,25 +138,49 @@ A falta de disposición especial expresa, esta ley será aplicable en lo conduce
 
 Las infracciones a esta ley y a sus reglamentos, excepto las que expresamente estén encomendadas a otras autoridades y que no constituyan delito, serán sancionadas por la Secretaría de Marina, previa audiencia del infractor, con multas de $100.00 hasta $100,000.00. Al efecto, al tenerse conocimiento de una posible infracción, se notificará debidamente al presunto responsable, emplazándolo para que dentro de un término de 15 días, que puede ampliarse a juicio de la autoridad si las circunstancias así lo requieren, ofrezca las pruebas que estime convenientes. El monto de la multa será fijado teniendo en cuenta la naturaleza de los hechos y las condiciones económicas del infractor. En caso de reincidencia, que se considerará como tal la repetición de un acto de la misma naturaleza en un lapso de seis meses, la Secretaría de Marina podrá imponer una multa hasta de $200,000.00.
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 9o.
 
-Son bienes del dominio marítimo:
+Para los efectos de esta Ley:
 
-I.- El mar territorial y las aguas interiores.
+I.- Son bienes del dominio marítimo y, en consecuencia de propiedad nacional, los siguientes:
 
-II.- La plataforma continental, los zócalos submarinos de las islas, cayos y arrecifes adyacentes a los puertos, lagos, lagunas o esteros que comuniquen con el mar en los términos descritos por la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales debidamente ratificados en los que México sea parte.
+a).- El mar territorial y las aguas marítimas interiores;
 
-III.- Los canales que comuniquen espacios marítimos.
+b).- La plataforma continental, los zócalos submarinos de las islas, cayos y arrecifes adyacentes de los puertos, lagos, lagunas o esteros que comuniquen con el mar en los términos descritos por la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales debidamente ratificados por México;
 
-IV.- Los ríos navegables, en la parte inmediatamente unida al mar, cuando conduzcan a puertos de navegación marítima.
+c).- Los canales que comuniquen espacios marítimos;
 
-V.- La parte de la zona federal comprendida en la faja territorial adyacente a las playas del mar o de los ríos a que se refiere el inciso anterior, con anchura de 20 metros desde la marea más alta, que se considere expresamente zona portuaria, determinada conjuntamente por las Secretarías del Patrimonio Nacional y de Marina.
+d).- Los ríos navegables, cuando conduzcan a puertos de navegación marítima;
 
-VI.- Los puertos marítimos y sus instalaciones.
+e).- Las playas marítimas, entendiéndose por tales las partes de tierra que por virtud de la marea cubre y descubre el agua, desde los límites de mayor reflujo hasta los límites de mayor flujo anuales;
 
-VII.- Los recursos y productos de los bienes enumerados en los incisos anteriores.
+f).- Las porciones de la zona marítimo terrestre que formen parte de los recintos portuarios;
 
-VIII.- Las construcciones e instalaciones realizadas por particulares y que reviertan en favor de la nación por caducidad o terminación de las concesiones, autorizaciones o permisos.
+g).- Los puertos, bahías, radas y ensenadas;
+
+h).- Los diques, muelles, escolleras, malecones y demás obras e instalaciones de los puertos, cuando sean de uso público;
+
+i).- Los recursos y productos de los bienes enumerados en los incisos anteriores; y
+
+j).- Las construcciones e instalaciones realizadas por particulares, en bienes del dominio marítimo, al revertir en favor de la Nación.
+
+II.- Estarán sujetos al régimen de los bienes del dominio marítimo, cuando formen parte de los recintos portuarios o se afecten a los servicios que rige esta Ley, los siguientes:
+
+a).- Los canales navegables, cuando se trate de aguas interiores;
+
+b).- Los lagos y lagunas navegables;
+
+c).- La zona marítimo terrestre;
+
+d).- Las riberas y las zonas federales contiguas a los cauces de las corrientes, a los vasos o depósitos de propiedad nacional; y
+
+e).- Los terrenos ganados al mar o a los esteros.
+
+III.- Son vías generales de comunicación por agua los mares territoriales y las demás aguas de jurisdicción federal, cuando sean aptas para la navegación. Comprenden las obras e instalaciones que constituyan las terminales marítimas o fluviales y las áreas necesarias para la prestación de los servicios portuarios y marítimos; y
+
+IV.- Se entiende por recintos portuarios las áreas sujetas al régimen de los bienes del dominio marítimo, destinadas al establecimiento de las instalaciones y la prestación de los servicios a que se refiere esta Ley.
 
 ###### ARTICULO 10.
 
@@ -132,13 +190,11 @@ Los bienes del dominio marítimo constituyen propiedad nacional, inalienable e i
 
 Las construcciones e instalaciones que realicen los particulares en relación con los permisos, autorizaciones o concesiones correspondientes, se considerarán de propiedad privada durante la vigencia de tales permisos, autorizaciones o concesiones. Al terminar dicha vigencia, los indicados bienes pasarán al dominio marítimo nacional.
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 12.
 
-Será gratuita la ocupación de la zona marítima en los siguientes casos:
-
-I.- Para el establecimiento de astilleros, diques, varaderos e instalaciones destinadas a la construcción, conservación y reparación de embarcaciones.
-
-II.- Para el establecimiento de estaciones de salvamento y señales marítimas, Casa del Marino, almacenes, escuelas, hospitales y, en general, para toda obra de utilidad pública o que sea necesaria relacionada directamente con la navegación y el tráfico marítimos.
+Compete a la Secretaría de Marina el otorgamiento de concesiones, permisos y autorizaciones para la realización de actividades conexas con las comunicaciones por agua sobre bienes del dominio marítimo.
 
 ###### ARTICULO 13.
 
@@ -160,9 +216,313 @@ V.- Los servicios marítimos y portuarios.
 
 Para los efectos de esta ley son servicios marítimos los que auxilien, protejan y preserven de contingencias adversas las vidas y los bienes en la aventura de mar.
 
-Son servicios portuarios los que se presten a bordo, en las dársenas y fondeaderos, en las zonas marítimas y en las construcciones e instalaciones portuarias para asegurar los buques durante su estadía, facilitar sus maniobras y hacer expeditas la carga, la descarga, el aprovisionamiento y el manejo de sus cargamentos.
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
+Son servicios portuarios los que se presten a bordo, en las dársenas o fondeaderos, así como en los bienes a que se refiere el segundo párrafo del artículo 9o. de esta Ley y en las construcciones e instalaciones portuarias, para asegurar los buques durante su estadía, facilitar sus maniobras, aprovisionamientos y manejo de sus cargamentos.
 
 La enumeración de unos y otros será materia del reglamento.
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
+###### ARTICULO 14-A.
+
+Las medidas para auxilio y protección de las vidas y de los bienes en la aventura de mar, que deba proporcionar el naviero, son servicios marítimos que no requieren autorización distinta de la que proceda para efectuar el transporte mismo.
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
+###### ARTICULO 14-B.
+
+Son servicios marítimos que auxilian y protegen las vidas de contingencias adversas en la aventura de mar, los siguientes:
+
+a).- De visitas iniciales, periódicas y extraordinarias a los buques;
+
+b).- De inspección de los botes, balsas, chalecos y aros salvavidas;
+
+c).- De transporte por agua de personas en caso de emergencia;
+
+d).- De señales de socorro y salvamento de los buques;
+
+e).- De radiotelegrafía y radiotelefonía;
+
+f).- Meteorológicos;
+
+g).- De alumbrado de emergencia;
+
+h).- De detección, extinción de incendios y equipo de bomberos;
+
+i).- De sanidad a bordo; y
+
+j).- Aquellos a los que la ley o los tratados debidamente ratificados por México les confieran tal carácter.
+
+Los servicios mencionados se sujetarán a las disposiciones siguientes:
+
+I.- El servicio de visitas de inspección a las embarcaciones, comprenderá las iniciales, sobre las condiciones técnicas de construcción de la embarcación, las periódicas tanto ordinarias como especiales y las extraordinarias que se harán a los buques que arriben a los puertos mexicanos cuando fuere oportuno, ya sea porque se descubra un defecto u ocurriere un accidente que afecte la seguridad del buque o la eficacia o integridad de los aparatos de salvamento y otros elementos del armamento. Este servicio incluirá en su caso, la expedición de los certificados de seguridad;
+
+II.- El servicio de inspección de botes, balsas, chalecos y aros salvavidas, se prestará en la forma y proporciones que aseguren a los botes una gran estabilidad con mar gruesa y en franco bordo y, respecto a los chalecos y aros salvavidas, deberán ser en número suficiente y estar en un sitio fácilmente accesible y su situación se indicará claramente.
+
+III.- En caso de emergencia el servicio de transporte por agua de personas comprende el establecimiento, utilización y sostenimiento de las instalaciones de seguridad marítima que se consideren necesarias, teniendo en cuenta la intensidad del tráfico marítimo y los peligros de la navegación; así como el suministro de los medios adecuados y posibles para localizar y salvar a las personas en peligro;
+
+IV.- La autoridad marítima vigilará que los buques estén provistos de medios eficaces para hacer señales de socorro o salvamento de día y de noche;
+
+V.- La autoridad marítima vigilará que los buques de carga con tonelaje bruto de 1,600 toneladas en adelante y los de pasaje, estén provistos de una estación radiotelegráfica y que los buques de carga de tonelaje bruto comprendido entre 300 y 1,600 toneladas, que no cuenten con dicha estación tengan una radiotelefónica.
+
+Tratándose de embarcaciones menores de 300 toneladas, la Secretaría de Marina determinará los medios mínimos de comunicación con que deban proveerse;
+
+VI.- Para los servicios meteorológicos, la autoridad marítima deberá vigilar que se tomen en los buques las medidas necesarias para el examen de los reportes, su difusión e intercambio en la forma que resulte más conveniente para ayudar a la navegación;
+
+VII.- La autoridad marítima deberá vigilar que ninguna instalación en los pasillos, escaleras y salidas del buque, obstruya el acceso a los puestos de lanzamiento y lugares de estiba de los botes o balsas salvavidas;
+
+VIII.- La autoridad marítima vigilará que las alarmas contra incendios, sistemas de detección, instalación rociadora y, en general los dispositivos para la extinción de incendios tanto en los buques de pasaje como de carga, se mantengan en buen estado de funcionamiento y dispuestos para su inmediato empleo.
+
+En todo buque de pasaje y cuando sea aplicable, en los buques de carga, se expondrán permanentemente, para orientación de los oficiales del buque, los planos generales que indiquen claramente la disposición en cada cubierta de las estaciones para combatir incendios; y
+
+IX.- Los servicios de sanidad a bordo se prestarán en los términos que prevengan los ordenamientos correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
+###### ARTICULO 14-C.
+
+Son servicios marítimos que preservan los bienes de contingencias adversas en la aventura de mar, los siguientes:
+
+a).- Los señalados en los artículos anteriores, en aquello que concierne al buque;
+
+b).- De aseguramiento de la carga;
+
+c).- De embalaje, marcas y etiquetas en el transporte de mercancías peligrosas;
+
+d).- De tanques de lastre de agua o de doble fondo; y
+
+e).- Los demás a los que la Ley o los tratados debidamente ratificados por México, les confieran tal carácter.
+
+Los servicios enunciados, se regirán por las siguientes prescripciones:
+
+I.- El servicio de aseguramiento de la carga, consiste en revisar el plan de estiba de un buque e indicar las características principales de las instalaciones utilizadas para asegurar su estabilidad. El consignatario de éste o su representante dará aviso previo de la llegada del buque y a su arribo, proporcionará copia del plan de estiba a la administración portuaria cuando ésta lo solicitare.
+
+II.- Para el transporte de mercancías peligrosas, los documentos de embarque deberán acompañarse de un certificado de la autoridad marítima o declaración ante la misma, de que el cargamento está embalado y marcado en forma adecuada por el embarcador o el expedidor, con las etiquetas necesarias y en debidas condiciones para su manejo y transporte. Estas mercancías deberán estibarse en forma segura y apropiada.
+
+Cuando lo estime necesario, la autoridad marítima practicará inspecciones a los buques en puerto y a su cargamento, para comprobar el cumplimiento de esta disposición; y
+
+III.- Para transportar graneles, los tanques de doble fondo utilizados para asegurar la estabilidad en los buques deberán tener una compartimentación longitudinal y estanca(sic) adecuada, salvo en el caso de que la anchura del tanque, medida en la media de la eslora no exceda del 60% de la manga de trazado del buque. La administración portuaria deberá vigilar que se adopten las precauciones necesarias para asegurar dicha estabilidad de los buques con respecto a los tanques de lastre de agua o de doble fondo.
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
+###### ARTICULO 14-D.
+
+Son servicios portuarios a bordo para seguridad de los buques, durante su estadía, las siguientes inspecciones:
+
+a).- De cubierta
+
+b).- De máquinas de embarcaciones;
+
+c).- Para fijar las líneas de máxima carga;
+
+d).- Para practicar el arqueo; y
+
+e).- De equipo, cadenas e implementos del buque.
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
+###### ARTICULO 14-E.
+
+La inspección de una embarcación se practicará:
+
+a).- Previamente a su abanderamiento;
+
+b).- Al expirar la vigencia de los certificados de seguridad;
+
+c).- Cuando entre a dique o varadero;
+
+d).- Cuando sufra modificaciones o reparaciones de importancia en su casco, cubierta, máquinas o demás partes principales;
+
+e).- Cuando sufra accidentes;
+
+f).- Cuando lo soliciten fundadamente, a juicio de la autoridad marítima, los pasajeros, tripulantes, embarcadores, o el cónsul de la nación a que pertenezca el buque, en caso de ser extranjero;
+
+g).- A solicitud del Capitán o del Jefe de Máquinas, al tomar el mando o al hacerse cargo de las máquinas, respectivamente;
+
+h).- Cuando haya requerimiento judicial; e
+
+i).- Cuando lo estime necesario o conveniente la Secretaría de Marina.
+
+Las inspecciones tendrán por objeto:
+
+I.- Las de cubierta, tanto la inicial como las periódicas o las extraordinarias, garantizar la seguridad de la embarcación y de los tripulantes, así como de los pasajeros o del cargamento, según sea el caso, y expedir, si fuere procedente los certificados de seguridad correspondientes.
+
+II.- Las de máquinas, tanto las iniciales como las periódicas o las extraordinarias, asegurar que el sistema impulsor del buque se encuentre en las debidas condiciones y expedir, en su caso, los certificados de seguridad de máquinas.
+
+III.- Las concernientes a línea de máxima carga, asegurar el cumplimiento de las normas relativas a la marca que indique el nivel máximo de inmersión al que el buque puede navegar y expedir, en su caso, el certificado de franco bordo correspondiente.
+
+IV.- Las de arqueo, determinar el tonelaje de la embarcación y expedir, cuando proceda, el certificado relativo. Estas se efectuarán en su caso, de acuerdo con las normas establecidas en los convenios internacionales debidamente ratificados por México.
+
+Los barcos extranjeros que arriben a puertos mexicanos serán arqueados conforme a las disposiciones mexicanas, cuando lo estime necesario la autoridad marítima, para determinar la base de pago de los derechos y gastos portuarios; a cuyo efecto, el naviero o su representante proporcionarán la documentación y elementos requeridos para ello.
+
+V.- Las de equipos, cadenas e implementos del buque, la revisión total o parcial de todo aquello que pueda influir, directa o indirectamente, en la navegación y tráfico de las embarcaciones, así como en la seguridad de la tripulación y de los trabajadores portuarios.
+
+Los propietarios, navieros, capitanes y demás tripulantes de las embarcaciones, deberán facilitar las inspecciones por todos los medios a su alcance; proporcionar toda clase de datos e informes que se les pidan y ordenar las maniobras que se les indiquen.
+
+Los navieros estarán obligados a cubrir todos los gastos que originen las inspecciones y, de manera especial, cuando se trate de pruebas de resistencia, determinación de espesores, experimentos de estabilidad y las que la autoridad marítima estime necesarias e incluirán, en dicho importe, el de los gastos que impliquen la reparación del material averiado.
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
+###### ARTICULO 14-F.
+
+Son servicios portuarios en las dársenas y fondeaderos los siguientes:
+
+a).- El de lanchas para pilotos de puerto;
+
+b).- El de lanchas al servicio de buques;
+
+c).- El pilotaje;
+
+d).- El remolque;
+
+e).- El fondeo, atraque, desatraque o espera;
+
+f).- La enmienda;
+
+g).- El amarre temporal;
+
+h).- El muellaje;
+
+i).- El amarre de cabos; y
+
+j).- El de señales marítimas y balizamiento.
+
+Estos servicios se regirán por las siguientes disposiciones:
+
+I.- Para los efectos de esta Ley, el servicio de lanchas para pilotos de puerto, consiste en conducir al práctico o piloto de puerto, hasta el costado del barco para abordarlo y, a la inversa, retornarlo a tierra;
+
+II.- El servicio de lanchas para los buques, consiste en conducir a la tripulación o a usuarios distintos de los pilotos de puerto, hasta el costado del barco para abordarlo a retornar a tierra, utilizando lanchas propias del barco o destinadas al servicio público;
+
+III.- El servicio de pilotaje consiste en la utilización obligatoria u opcional, por parte de los capitanes de los buques, del piloto de puerto nombrado o autorizado por la Secretaría de Marina, para efectuar las maniobras de entrada o salida dentro de los límites fijados para el servicio del puerto, de acuerdo con las condiciones físicas, meteorológicas y topohidrográficas del mismo;
+
+IV.- La Secretaría de Marina determinará los puertos, las embarcaciones y las áreas, con respecto a las cuales sea obligatorio el pilotaje;
+
+V.- Cuando el servicio de pilotaje sea opcional, el naviero podrá solicitarlo si lo estima conveniente y, en tal caso, el piloto deberá prestar el servicio;
+
+VI.- El servicio de remolque en puerto comprende las maniobras siguientes:
+
+a).- Remolque de embarcaciones a flote; y
+
+b).- Remolque de embarcaciones semihundidas, dragas, diques, balsas, restos de buques o cualquier otro vehículo destinado al transporte por agua.
+
+VII.- El servicio de remolque se proporcionará de acuerdo con las necesidades de los buques que deban ser remolcados y se utilizará el número de remolcadores que indique la Secretaría de Marina, la cual dictará las disposiciones que se requieran en cada puerto, según sus características, la clase de buques y la maniobra de éstos;
+
+VIII.- Las maniobras de fondeo, atraque, desatraque, enmienda o espera, que efectúe el práctico, son complementarias del servicio de pilotaje.
+
+Se considera como enmienda, tomar un buque, para conducirlo a otro fondeadero, muelle o a distinto tramo del mismo, cuando se requiera levar o largar amarras;
+
+IX.- Para el servicio de amarre temporal, consistente en la permanencia de una embarcación en puerto sin realizar operaciones y sin tripulación a bordo, se tomará en cuenta la clase de embarcación y si el cargamento es de altura, de cabotaje o mixto.
+
+El amarre temporal se hará en el lugar designado por la autoridad marítima; y sólo se autorizará cuando no se perjudiquen los servicios portuarios o la prestación de servicios públicos.
+
+X.- El amarre será permitido, previa garantía que otorgue el armador, a satisfacción de las autoridades federales del trabajo, por el importe de las indemnizaciones y demás prestaciones de la dotación.
+
+Igualmente deberá otorgar el naviero una garantía a satisfacción de la Secretaría de Marina, por el importe de los gastos que pudieran originarse en los casos de salvamento o destrucción de la embarcación.
+
+XI.- El servicio de muellaje consiste en poner a disposición de quienes intervienen en el tráfico marítimo, las instalaciones correspondientes para carga o descarga y, en su caso, los dispositivos instalados especialmente para las maniobras portuarias. Se proporcionará este servicio en los lugares indicados por la autoridad marítima en cada caso.
+
+XII.- El servicio público de amarre de cabos de las embarcaciones en las instalaciones destinadas a servicio público, es independiente del servicio de pilotaje. Se prestará al arribar las embarcaciones, y a la salida de éstas. El amarre y desamarre de cabos se considera como un solo servicio y termina en el momento en que la nave leva anclas y se pone en movimiento.
+
+Los amarradores de cabos deberán contar con el equipo y embarcaciones que autorice la Secretaría de Marina, la que fijará las condiciones de prestación de los servicios, cuyo pago se sujetará a las tarifas que apruebe la Secretaría de Comunicaciones y Transportes.
+
+Se aplicarán las disposiciones de la Ley Federal del Trabajo a los amarradores de cabos, respecto de los servicios que proporcionen en instalaciones de atraque no destinadas a servicio público.
+
+XIII.- Los buques nacionales de guerra y los dedicados al servicio público de la Federación, tendrán derecho a que los servicios de pilotaje y de amarre de cabos se les proporcionen gratuitamente; y
+
+XIV.- Los concesionarios de obras de atraque para servicio particular tendrán la obligación de instalar y conservar por su cuenta, las señales que para la seguridad de la navegación estime necesarias la Secretaría de Marina.
+
+Los mismos concesionarios podrán emplear, para su exclusivo servicio, semáforos y telégrafos luminosos; pero en todo caso están obligados a solicitar la autorización respectiva, acompañando a su solicitud el plano de localización, los dibujos descriptivos del sistema que vayan a instalar y una memoria del funcionamiento para que se registren e incluyan en el estado de iluminación y en los avisos a los marinos. Todas las señales quedan sujetas a la inspección de la Secretaría de Marina.
+
+Los concesionarios serán responsables de los accidentes que sufran las embarcaciones, originados por el mal funcionamiento de las señales marítimas a su cargo.
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
+###### ARTICULO 14-G.
+
+Serán partes integrantes de las vías generales de comunicación por agua, en los términos y con los límites que fije la Secretaría de Marina, las áreas destinadas a las siguientes instalaciones y servicios:
+
+a).- De astilleros, diques, varaderos y talleres;
+
+b).- De instalaciones para transbordador;
+
+c).- De instalaciones para paso;
+
+d).- De atracaderos;
+
+e).- De ocupación eventual de la zona para varar embarcaciones; y
+
+f).- Los demás que señalen las disposiciones sobre la materia.
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
+###### ARTICULO 14-H.
+
+Son servicios portuarios en las construcciones e instalaciones del puerto, los siguientes;
+
+a).- De limpieza;
+
+b).- De vigilancia del sistema contra incendio;
+
+c).- De cobertizos y defensas contra la intemperie;
+
+d).- De almacenes, electricidad y agua;
+
+e).- De conservación y mantenimiento; y
+
+f).- Los demás que señalen las disposiciones sobre la materia.
+
+Los servicios mencionados se sujetarán a las disposiciones siguientes:
+
+I.- El de limpieza del recinto portuario, tendrá por objeto eliminar los desechos ocasionados por los usuarios, concesionarios y permisionarios; y corresponde efectuarlo a éstos, o en su defecto a la autoridad marítima, la cual formulará en el segundo caso, las liquidaciones respectivas.
+
+II.- El de vigilancia del sistema contra incendio, comprende la revisión periódica, por la autoridad marítima, de los dispositivos y equipos para extinción de cualquier siniestro de este tipo.
+
+La propia autoridad proporcionará el servicio de bomberos para el recinto portuario; y
+
+III.- El de cobertizos y defensas contra la intemperie, podrá prestarse, previa solicitud de los usuarios, por los concesionarios o permisionarios respectivos, o en su defecto, por la autoridad marítima la que podrá proporcionar los de empolinamiento, resguardo con tela plástica y conexos, mediante el pago de las liquidaciones correspondientes.
+
+La Autoridad marítima tendrá a su cargo la intervención, promoción y vigilancia respecto de los servicios de almacenes, electricidad y agua, en los recintos portuarios.
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
+###### ARTICULO 14-I.
+
+Son servicios portuarios para el manejo de los cargamentos, las maniobras a que se refiere el artículo 272 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
+###### ARTICULO 14-J.
+
+Son servicios portuarios para atender el aprovisionamiento del buque, los siguientes:
+
+a).- Avituallamiento
+
+b).- Suministro de agua potable y vapor;
+
+c).- Combustibles y lubricantes;
+
+d).- Comunicación telefónica a bordo y de electricidad a bordo y en las áreas de maniobras, y
+
+e).- Servicio de grúas y aparejos.
+
+Los servicios mencionados se someten a las siguientes disposiciones:
+
+I.- El avituallamiento de las embarcaciones corresponde a la empresa naviera; pero el capitán del barco o patrón de la embarcación, en su caso, podrá tomar las medidas convenientes para conservar el buque bien provisto y pertrechado.
+
+El servicio público de avituallamiento de barcos, requerirá permiso de la Secretaría de Marina y se proporcionará únicamente en los lugares que ella determine previamente.
+
+II.- Los de suministro de agua potable y vapor a las embarcaciones, se proporcionarán por la autoridad u organismo correspondiente; por los titulares de concesiones o permisos otorgados por la Secretaría de Marina, y en su caso, por la autoridad marítima, de acuerdo con las cuotas que aprueben las Dependencias competentes.
+
+III.- El de combustible y lubricantes para las embarcaciones se proporcionará en los lugares asignados por la Secretaría de Marina a Petróleos Mexicanos, o por distribuidores de dicho organismo, mediante concesión del área respectiva otorgada por la propia Secretaría.
+
+IV.- Los de comunicación telefónica a bordo y el de suministro de electricidad a las embarcaciones y a las áreas de maniobras que proporcione la autoridad marítima, se prestarán a solicitud de los usuarios y mediante el pago de los derechos o cuotas correspondientes.
+
+V.- Las reparaciones de buques en las áreas de atraque o de fondeo sólo podrán efectuarse en el lugar y dentro del plazo que para ello señale la autoridad marítima.
+
+VI.- Los buques averiados y aquellos que no realicen operaciones de carga o descarga, deberán desalojar las instalaciones de atraque, cuando causen trastornos a la operación del puerto, a juicio de la autoridad marítima.
+
+VII.- El servicio de grúas y aparejos, requerirá la concesión o permiso de la Secretaría de Marina, según sea el caso.
 
 # LIBRO SEGUNDO
 
@@ -174,15 +534,17 @@ La enumeración de unos y otros será materia del reglamento.
 
 La suprema autoridad marítima radica en el Ejecutivo Federal.
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 16.
 
-La autoridad marítima se ejercerá:
+La autoridad marítima se ejerce:
 
-I.- Directamente por la Secretaría de Marina en el mar territorial, plataforma continental, zócalos submarinos de las islas, cayos y arrecifes, aguas interiores, zonas portuarias, ríos, lagos, lagunas, esteros y en las riberas de los mismos.
+I.- Por la Secretaría de Marina, directamente o por conducto de las Superintendencias de Operación Portuaria, de las Capitanías de Puerto y de las Delegaciones de la propia Secretaría, según se determine por ésta.
 
-II.- Al través de los capitanes en los buques nacionales.
+II.- Por los cónsules mexicanos, en el extranjero.
 
-III.- Al través de los cónsules mexicanos en el extranjero.
+III.- Por los capitanes de buques nacionales, en los términos previstos por esta Ley.
 
 ###### ARTICULO 17.
 
@@ -202,27 +564,47 @@ VI.- Autorizar la instalación de astilleros, diques y varaderos.
 
 VII.- Autorizar e inspeccionar las construcciones de buques.
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 18.
 
-Para que los servicios relativos a la navegación marítima y portuaria sean debidamente prestados, la Secretaría de Marina ejercerá las siguientes facultades:
+Compete al Ejecutivo Federal por conducto de la Secretaría de Marina, en lo relativo a vías generales de comunicación por agua, el transporte que se preste en las mismas y los servicios auxiliares o conexos, las siguientes atribuciones:
 
-I.- Vigilar y en su caso, ordenar, que se efectúen las instalaciones necesarias y se mantengan convenientemente, para la prestación de los servicios en mar y puertos.
+I.- La elaboración de proyectos y la construcción, modificación, reconstrucción y conservación de obras;
 
-II.- Suspender, previa inspección, la prestación de los servicios cuando no reúnan las condiciones exigidas.
+II.- La iniciación, recepción, trámite y dictamen de promociones, realización de estudios, proposición de planes y programas, señalamiento de necesidades y regulación para el establecimiento, construcción, modificación, implantación, administración, supresión y operación;
 
-III.- Inspeccionar las construcciones, instalaciones y servicios establecidos dentro de su jurisdicción.
+III.- Lo relativo a puertos, astilleros, diques, varaderos, talleres de reparaciones navales y los servicios conexos y auxiliares correspondientes;
 
-IV.- Imponer las sanciones administrativas conforme a lo dispuesto por esta ley y su reglamento.
+IV.- Las maniobras portuarias;
 
-V.- Ejercer todas las demás facultades para el mejor cumplimiento de esta ley.
+V.- Intervenir en las tarifas que fije o apruebe la Secretaría de Comunicaciones y Transportes, en materia de servicios marítimos y portuarios, así como de maniobras portuarias;
+
+VI.- Otorgar las concesiones o permisos a que se refiere la presente Ley;
+
+VII.- Introducir en las condiciones conforme a las cuales se presten los servicios, todas las modalidades que dicte el interés de los mismos;
+
+VIII.- Inspeccionar las construcciones, instalaciones y servicios, en relación con los bienes del dominio marítimo y los recintos portuarios;
+
+IX.- Imponer las sanciones que correspondan en materia de su competencia;
+
+X.- Aplicar las disposiciones de esta Ley, formular requerimientos para el cumplimiento de la misma y fijar términos para el efecto, así como dictar las demás medidas administrativas que procedan.
+
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
 
 ###### ARTICULO 19.
 
-Los Capitanes de Puerto dependerán de la Secretaría de Marina y tendrán a sus órdenes al personal portuario; ordenarán el movimiento en el puerto; inspeccionarán u ordenarán la inspección de los buques en general, tendrán todas las atribuciones que correspondan a su calidad de primera autoridad portuaria, dentro de la jurisdicción que se les asigne.
+Los Superintendentes de Operación Portuaria, los Capitanes de Puerto y los Delegados de circunscripciones administrativas nombrados por la Secretaría de Marina, tendrán a sus órdenes el personal portuario; ordenarán el movimiento en el puerto; la inspección de las embarcaciones, de la carga y en general ejercerán las atribuciones que correspondan a su calidad de autoridades marítimas, dentro de la jurisdicción que se les asigne.
 
 ###### ARTICULO 20.
 
 El capitán del buque será a bordo la primera autoridad; en alta mar y en aguas extranjeras será considerado representante de las autoridades mexicanas.
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
+###### ARTICULO 20 Bis.
+
+Todos los tripulantes de embarcación mexicana, incluyendo al capitán o patrón de la misma, deberán ser mexicanos por nacimiento.
 
 ###### ARTICULO 21.
 
@@ -290,9 +672,11 @@ A la llegada de un buque a puerto, su capitán dará cuenta a la autoridad marí
 
 Los buques, así como las instalaciones marítimas con todos sus accesorios, deberán ser inspeccionados periódicamente, revisando todo aquello que puedan influir directa o indirectamente en la navegación. Estas inspecciones se efectuarán en los términos de la presente ley y del reglamento.
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 32.
 
-El cargo de miembro del Resguardo Marítimo es incompatible con cualquier comisión o empleo en las empresas navieras.
+Los cargos de Superintendente de Operación Portuaria, Capitán de Puerto, Delegado de circunscripción administrativa, piloto de puerto, miembro del Resguardo Marítimo y Jefe de la Policía de Puerto, serán incompatibles con cualquier comisión o empleo en las empresas navieras o en sus agencias.
 
 ### CAPITULO II. De los puertos
 
@@ -300,9 +684,13 @@ SECCION A:
 
 De su régimen y operación
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 33.
 
-El Ejecutivo Federal determinará el establecimiento de los puertos marítimos y fijará su ubicación geográfica, su naturaleza y la zona que les corresponda: señalará qué obras e instalaciones públicas se deben considerar incorporadas al puerto o afectas a su funcionamiento.
+El Ejecutivo Federal, en los Decretos respectivos, determinará el establecimiento de los puertos, fijará su ubicación geográfica, su naturaleza y las zonas, así como el recinto que corresponda; señalará las obras e instalaciones públicas que deban considerarse incorporadas a los mismos o afectas a su funcionamiento.
+
+Los lugares de las costas, de las riberas de los ríos y de lagos y lagunas, que no hayan sido declarados puertos o cuando éstos se encuentren en construcción, se considerarán como puertos, para la aplicación de las disposiciones de esta Ley, sobre vigilancia, policía y accidentes marítimos.
 
 ###### ARTICULO 34.
 
@@ -360,13 +748,17 @@ III.- Comprobante de pago o garantía por daños causados a instalaciones portua
 
 IV.- Certificado de inspección que demuestren el buen estado del buque.
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 41.
 
-Los movimientos de entradas y salidas de los buques en los puertos quedarán sujetos a las prioridades que establezca el reglamento; pero no habrá distinciones de los buques por su pabellón o por el monto de los derechos que deban pagar al puerto.
+Los movimientos de entrada y salida de los buques en los puertos, así como cualquier maniobra dentro de los mismos, quedarán sujetos a las prioridades que correspondan; pero no habrá distinciones al respecto, por el sólo pabellón de los buques o por el monto de los cargos que deban pagar por los servicios portuarios.
+
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
 
 ###### ARTICULO 42.
 
-Los reglamentos relativos a la prioridad se considerarán de interés público y no podrán modificarse por acuerdo entre particulares, pero los interesados podrán, en cada caso, renunciar a su prioridad en favor de terceros.
+Las disposiciones sobre prioridades, son de interés público y no podrán modificarse por acuerdo entre particulares.
 
 ###### ARTICULO 43.
 
@@ -398,15 +790,19 @@ De los puertos de administración estatal
 
 Los puertos de administración estatal serán operados directamente por la Secretaría de Marina. Dicha operación comprenderá las obras, instalaciones y servicios portuarios.
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 48.
 
-En los puertos de administración estatal, el Ejecutivo Federal, por conducto de la Secretaría de Marina, designará el capitán del puerto y todos los funcionarios y empleados encargados de la administración y operación portuaria.
+La administración portuaria estará encomendada a una Superintendencia de la cual dependerá la Capitanía de puerto, en las cuestiones relativas a su operación y administración, o en su caso a cargo de la segunda, según lo determine el Ejecutivo Federal, por conducto de la Secretaría de Marina.
 
-No es compatible el desempeño de dichos cargos con el ejercicio de actividades particulares en relación con la navegación y el tráfico marítimos.
+No es compatible el desempeño de dichas funciones con el ejercicio de actividades particulares relacionadas con la navegación y el tráfico marítimos.
+
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
 
 ###### ARTICULO 49.
 
-Los funcionarios y empleados administrativos que no dependen directamente de la capitanía del puerto, pero sí de la Secretaría de Marina, colaborarán con las autoridades portuarias en el desempeño de sus funciones.
+Los funcionarios y empleados administrativos de la Secretaría de Marina que no dependan de la administración portuaria colaborarán con ésta en el desempeño de sus funciones.
 
 #### SECCION C:. De los puertos de administración descentralizada
 
@@ -432,6 +828,12 @@ La navegación marítima se divide en navegación de altura y navegación de cab
 
 La Secretaría de Marina, en casos excepcionales y cuando el interés público lo exija, fijará rutas de navegación así como el número y tonelaje de las embarcaciones que deban realizar determinado tráfico. Las medidas que en ejercicio de esta facultad se dicten, estarán en vigor mientras dure la causa o causas que las motivaron.
 
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
+###### ARTICULO 53 Bis.
+
+Están reservados de manera exclusiva a mexicanos o a sociedades mexicanas con cláusula de exclusión de extranjeros, las actividades de transporte marítimo nacional.
+
 ###### ARTICULO 54.
 
 Los buques autorizados a zarpar no deben ejecutar operaciones que alteren las condiciones de sus despachos.
@@ -442,9 +844,11 @@ Quedarán sin efecto los despachos, si no se hiciere uso de ellos dentro de las 
 
 Los buques despachados no podrán ser objeto de arraigo, embargo o cualesquiera otras providencias que tiendan a evitar su salida del puerto. Sólo podrán suspenderse los efectos del despacho a solicitud de autoridad competente por el tiempo indispensable, para aprehender a algún delincuente, rescatar efectos robados o embarcados indebidamente, así como para desembarcar personas que no deban ir en el viaje.
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 56.
 
-El reglamento establecerá las diversas categorías de pilotos de puerto y los requisitos que deban llenar para desempeñar su cargo, así como las condiciones en que deban prestar sus servicios.
+La Secretaría de Marina fijará las condiciones de prestación de los servicios de pilotaje. Los pilotos autorizados se sujetarán a las tarifas que apruebe la Secretaría de Comunicaciones y Transportes. Cuando se trate de pilotos nombrados por la Secretaría de Marina, que perciban sus emolumentos y honorarios con cargo a la Federación, se pagarán los derechos correspondientes.
 
 ###### ARTICULO 57.
 
@@ -492,11 +896,17 @@ Para arribar a un punto no considerado como puerto, se requiere permiso o autori
 
 Si durante la navegación el buque quedare inutilizado para continuar su viaje, el capitán, el naviero, armador o los agentes de ambos estarán obligados a obtener otro o los medios para realizar en buenas condiciones el tráfico convenido, procurándose dichos medios no sólo en el puerto o lugar de arribo, sino en cualquier otro.
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 67.
 
-La prestación del servicio de transporte marítimo estará sujeta a autorización otorgada por la Secretaría de Marina. En ella se expresará la clase de transportación a que se dedicará el buque, su capacidad y características esenciales, la matrícula de la nave y la obligación del naviero de someterse a las tarifas correspondientes. En el tráfico de altura las tarifas se ajustarán a los usos marítimos, reciprocidades y convenios internacionales sobre el particular.
+Las cuotas de los servicios de transporte marítimo o por las demás vías generales de comunicación por agua, en tráficos de cabotaje e interior serán las de las tarifas que apruebe la Secretaría de Comunicaciones y Transportes, con intervención de la Secretaría de Marina. Las tarifas del tráfico de carga y navegación de altura en los buques de línea, estarán sujetas a registro previo, ante la Secretaría de Comunicaciones y Transportes.
 
-Para el fomento y apoyo de los servicios que realice una nave, podrá el Gobierno de la nación, al concederle la autorización, determinar las primas, subvenciones o subsidios que se le otorguen cuando realice esos servicios.
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
+###### ARTICULO 67 Bis.
+
+Las Secretarías de Marina y de Comunicaciones y Transportes con la colaboración del Instituto Mexicano de Comercio Exterior, tomarán las medidas necesarias tendientes a impedir prácticas de competencia desleal, de empresas extranjeras, respecto de buques mexicanos y, en forma enunciativa y no limitativa, cuando las tarifas de fletes, o de transporte de pasajeros en navegación de altura, sean lesivas al comercio exterior mexicano o a la marina mercante nacional.
 
 ###### ARTICULO 68.
 
@@ -584,9 +994,27 @@ Los objetos salvados en un naufragio o accidente marítimo quedarán afectos al 
 
 El costo del auxilio o salvamento será fijado en el contrato o convenio de salvamento, o a falta de éste, por la autoridad marítima, según los usos, y en caso de inconformidad, por el juez competente.
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 86.
 
-Si el naufragio hubiere ocurrido en aguas de jurisdicción mexicana y el buque o sus restos constituyeren obstáculo para la navegación, la autoridad marítima señalará al naviero un plazo prudente para que los retire. Si el naviero no procediere al retiro, los bienes se considerarán abandonados a favor del Estado.
+Si una embarcación se varare o se fuere a pique en un puerto, en un lugar considerado como tal en los términos del último párrafo del artículo 33, o en una vía general de comunicación por agua, en condiciones que constituya un obstáculo para la navegación o que la afecte, será removida en el plazo que fije la Secretaría de Marina por el propietario, naviero o por quien represente interés jurídico en la embarcación, quienes responderán solidariamente de esta obligación. Si no la removieren dentro del término señalado, la propia Secretaría formulará el presupuesto respectivo, que servirá de título para reclamar, previamente, el valor del salvamento y se seguirá el procedimiento administrativo de ejecución establecido por el Código Fiscal de la Federación y la Secretaría de Marina procederá por sí o por medio de tercera persona, a la ejecución de las obras, necesarias para la remoción.
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
+###### ARTICULO 86
+
+Bis.- Independientemente del abandono de una embarcación, realizado en garantía en favor de acreedores o con traslación de dominio a la aseguradora, el abandono de una embarcación en favor de la Nación, tendrá lugar:
+
+I.- Si permanece en puerto sin hacer operaciones y sin tripulación, durante un plazo de cinco días naturales y sin que se solicite la autorización de amarre o de abandono respectivo;
+
+II.- Cuando, fuera de los límites de un puerto, se encuentre en el caso de la fracción anterior, el plazo será de 30 días;
+
+III.- Cuando hubieren transcurrido los plazos o las prórrogas concedidas, sin que la embarcación sea puesta en servicio; y
+
+IV.- Cuando quedare varada o se fuere a pique, en los casos a que se refiere el artículo anterior, sin que se lleven al cabo las maniobras necesarias para su salvamento.
+
+La declaratoria de abandono en favor de la Nación, es prerrogativa del Ejecutivo Federal y en consecuencia, podrá ejercerla o exigir la remoción de una embarcación o de sus restos, en los casos mencionados.
 
 ###### ARTICULO 87.
 
@@ -606,7 +1034,9 @@ La nacionalidad de los buques se comprobará con la suprema patente de navegaci�
 
 Se consideran buques mexicanos:
 
-I.- Los matriculados y abanderados en el país, con sujeción a la presente ley.
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
+I.- Los abanderados o matriculados como tales con sujeción a la presente Ley;
 
 II.- Los abandonados en aguas de jurisdicción nacional.
 
@@ -628,15 +1058,31 @@ II.- Por resolución judicial.
 
 III.- En el caso de dimisión de bandera.
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 92.
 
-Para que una sociedad pueda poseer buques matriculados y abanderados como mexicanos, debe constituirse conforme a las leyes mexicanas, tener su domicilio en el país y estar constituida con socios mexicanos que posean la mayoría del capital de la empresa; los miembros de su consejo de administración y su gerente, deben ser, asimismo, mexicanos.
+Tienen capacidad para obtener el abanderamiento y matrícula de embarcaciones como mexicanas:
 
-Deberán comprobar, siempre que la autoridad lo solicite, la proporción y estructura de su capital.
+a).- Las personas físicas de nacionalidad mexicana;
+
+b).- Las personas morales constituidas conforme a las leyes mexicanas, con cláusula de exclusión de extranjeros, cuyos estatutos consignen expresamente que todos los Administradores, así como los Gerentes y los Subgerentes en su caso, serán siempre personas de nacionalidad mexicana.
+
+En las sociedades por acciones, éstas deberán ser nominativas. En todo caso, deberán comprobar siempre que la autoridad lo solicite, la proporción y estructura de su capital o integración.
+
+c).- Las sociedades o asociaciones científicas o culturales, constituidas conforme a las leyes mexicanas, sólo respecto de embarcaciones destinadas exclusivamente a sus propios fines en navegación interior de puerto, fluvial o lacustre.
+
+d).- Los extranjeros residentes en el país con calidad de inmigrados, únicamente cuando se trate de embarcaciones destinadas a recreo personal y de sus familiares, para las navegaciones mencionadas en el inciso anterior.
 
 ###### ARTICULO 93.
 
 Los propietarios o armadores de los buques adquiridos en el extranjero, deberán matricularlos y abanderarlos en un plazo no mayor de un año a partir de su arribo a puertos mexicanos.
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
+###### ARTICULO 93
+
+Bis.- Independientemente del permiso de importación que corresponde otorgar a la Secretaría de Industria y Comercio, para los efectos del abanderamiento y, en su caso, matrícula, la adquisición de buques en el extranjero por armadores o navieros mexicanos, se sujetará a la previa opinión de la Secretaría de Marina, la que podrá oponerse, cuando las embarcaciones carezcan de las condiciones necesarias para garantizar la seguridad y correcta operación, o cuando los astilleros establecidos en el país tengan capacidad de construir embarcaciones de características adecuadas para el tráfico a que pretendan destinarse las de importación.
 
 ###### ARTICULO 94.
 
@@ -758,11 +1204,11 @@ Si los accesorios fueran indispensables para la navegación, los terceros que te
 
 La enajenación del buque supone la de sus pertenencias y accesorios.
 
-> <small>(REFORMADO, D.O.F. 18 DE FEBRERO DE 1969)</small>
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
 
 ###### ARTICULO 111.
 
-Los actos constitutivos, traslativos, extintivos de propiedad y los derechos reales sobre la nave, deberán constar en escritura pública o en póliza ante corredor.
+Constarán en escritura pública o en póliza ante corredor, que deberán registrarse los actos constitutivos, traslativos o extintivos de propiedad sobre las embarcaciones que se destinen a un servicio público, cuando su valor exceda de $500,000.00; o cuando se constituyan gravámenes sobre la nave, que deban ser inscritos en el Registro Público Marítimo Nacional.
 
 Sección B
 
@@ -1492,6 +1938,130 @@ Durante los movimientos de carga y descarga, el consignatario, su representante 
 
 El domicilio del agente del naviero será considerado como domicilio del naviero para todos los efectos legales.
 
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
+###### ARTICULO 255-A.
+
+Se requerirá permiso de la Secretaría de Marina para actuar como agente consignatario de buques o agente del naviero, en lo relativo a los servicios conexos de la navegación y del comercio marítimos.
+
+Para los efectos de la presente Ley, se entiende por agente consignatario de buques, a la persona física o moral que con el carácter de mandatario mercantil, atiende en el territorio nacional, por cuenta y orden de un naviero, una o varias de sus operaciones relativas a uno o diversos buques de su representado; o a nombre de éste, celebra contratos de transporte por agua, para personas, mercancías o efectos, en los términos de la carta de encargo expedida por la empresa naviera.
+
+Los conceptos de agente marítimo y de agente naviero, se consideran equivalentes al de agente consignatario de buques.
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
+###### ARTICULO 255-B.
+
+Los permisos para actuar como agentes consignatarios de buques, solamente se otorgarán a ciudadanos mexicanos o sociedades constituidas conforme a las leyes mexicanas, y cuyo capital se encuentre representado por acciones nominativas. Las autoridades tendrán, en cualquier tiempo, facultades para comprobar la composición del capital social. Los proyectos de escrituras constitutivas de dichas sociedades, sus reformas y estatutos deberán someterse, previamente, a la aprobación de la Secretaría de Marina.
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
+###### ARTICULO 255-C.
+
+Los solicitantes de permiso a que se refiere el artículo anterior deberán satisfacer los siguientes requisitos:
+
+a).- Acreditar su existencia legal, cuando el solicitante sea persona moral; y su nacionalidad, tratándose de personas físicas;
+
+b).- Otorgar la garantía que señale la Secretaría de Marina para responder del cumplimiento de sus obligaciones ante las autoridades y terceros.
+
+c).- Los demás derivados de la presente Ley y sus Reglamentos.
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
+###### ARTICULO 255-D.
+
+El agente consignatario de buques deberá comprobar ante la Secretaría de Marina su representación, con el mandato que se le hubiere conferido; o bien, en cada caso, ante la autoridad marítima correspondiente, mediante la carta de encargo, cable, telex o documentos a que se refiere el artículo siguiente.
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
+###### ARTICULO 255-E.
+
+El mandato, la carta de encargo, cable, telex, o los documentos que formen parte integrante de la misma, establecerán que el consignatario de buques designado, prestará por cuenta y orden de su representado, uno o varios de los siguientes servicios conexos de la navegación, del transporte y del comercio marítimos:
+
+I.- Asistir y recibir la nave o naves designadas;
+
+II.- Preparar, en cuanto sea necesario, su alistamiento y expedición;
+
+III.- Prestar la debida asistencia al capitán o capitanes de las naves, para el cumplimiento de su función;
+
+IV.- Vigilar los servicios confiados a la empresa y a terceros; procurar su buena marcha y cuidar que se atiendan;
+
+V.- Recibir las mercancías, de acuerdo con la documentación respectiva;
+
+VI.- Firmar, como representante del capitán los conocimientos de embarque y demás documentación necesaria;
+
+VII.- Otorgar pólizas de fletamento, cubrir y pagar fletes y gastos autorizados;
+
+VIII.- Cobrar cheques y pagar los reembolsos que procedan;
+
+IX.- Atender las reclamaciones recibidas, comunicarlas a la empresa naviera y cumplir las instrucciones que de ella reciba; y
+
+X.- Efectuar las gestiones legales ante las autoridades respectivas.
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
+###### ARTICULO 255-F.
+
+Es obligación de los agentes consignatarios de buques, registrar ante la Secretaría de Comunicaciones y Transportes, las tarifas de fletes y pasajes de altura que reciban de sus armadores representados para operar servicios regulares de línea en rutas marítimas de y hacia México.
+
+Los agentes consignatarios de buques, deberán presentar copia de dichas tarifas al Instituto Mexicano del Comercio Exterior, para los efectos del Artículo 2o. fracción XXXIX de la Ley que creó el citado organismo.
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
+###### ARTICULO 255-G.
+
+Las modificaciones a las tarifas de fletes deberán registrarse previamente a la fecha propuesta para su entrada en vigor como sigue:
+
+a).- Los recargos específicos, con 14 días.
+
+b).- El alza parcial de una tarifa con 30 días. La que comprenda la mayor parte o la totalidad de los productos incluidos en la tarifa, con 150 días.
+
+c).- Las modificaciones de baja, hasta con 2 días. Las que comprenden altas y bajas, con 30 días.
+
+Las primeras tarifas que se presenten o registren, entrarán en vigor en la fecha del mismo.
+
+En ninguno de los casos citados será obligatoria la publicación de las tarifas en el Diario Oficial de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
+###### ARTICULO 255-H.
+
+Las tarifas registradas se aplicarán sin variaciones, hasta que entre en vigor otra conforme al artículo anterior.
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
+###### ARTICULO 255-I.
+
+Los documentos probatorios de la aplicación de las tarifas consignarán las cuotas y además todos los conceptos que integren el flete, en forma desglosada.
+
+Para fines de comprobación de la aplicación de las tarifas, los agentes consignatarios de buques deberán conservar copias autorizadas de dichos documentos a disposición de las autoridades competentes, durante el plazo de un año contado a partir de la fecha de presentación de las cuentas de fletes, para su cobro, al deudor.
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
+###### ARTICULO 255-J.
+
+Los agentes consignatarios de buques deberán ajustarse a las normas de conducta relativas al transporte marítimo aplicables de acuerdo con los tratados internacionales o los usos marítimos.
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
+###### ARTICULO 255-K.
+
+Los agentes consignatarios de buques extranjeros y los armadores, en su caso, someterán a la aprobación de la Secretaría de Marina, para los efectos del artículo 67 Bis, los convenios que celebren con otros consignatarios o armadores y, en forma enunciativa y no limitativa, los convenios que celebren sus representados que operen servicios regulares de línea en rutas marítimas de y hacia México con otro armador, varios armadores, conferencias o asociaciones de armadores, para controlar y regular la competencia; así como los convenios para la distribución de ingresos o cargamentos en los tráficos, asignando las escalas en los puertos o limitando de otra manera y regulando el tráfico de carga o de pasajeros de y hacia México, de acuerdo con el artículo 67 Bis de esta Ley.
+
+Cuando en los convenios se establezcan modificaciones de tarifas de fletes o de pasaje en tráfico de altura, se someterán, además, al registro previo de la Secretaría de Comunicaciones y Transportes.
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
+###### ARTICULO 255-L.
+
+Las sociedades cooperativas de producción pesquera podrán actuar como consignatarios de sus propios buques, o de los que estén a su servicio.
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
+###### ARTICULO 255-M.
+
+Los armadores mexicanos y los organismos descentralizados federales que presten servicios de transporte por agua, podrán acreditar un representante especial autorizado por la Secretaría de Marina en cada uno de los puertos que toquen sus buques en tráfico de cabotaje, para tramitar directamente lo relativo a los mismos.
+
 ## TITULO IV. DE LOS RIESGOS
 
 ###### ARTICULO 256.
@@ -1562,13 +2132,15 @@ Los gastos de liquidación tendrán también el carácter de avería gruesa y su
 
 ## TITULO UNICO. De las maniobras en los puertos
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 272.
 
-Dentro de la zona portuaria, las maniobras de carga, descarga, alijo, almacenaje, transbordo, estiba, desestiba, acarreo, y en general las que auxilien y complementen el comercio marítimo, son servicios públicos conexos de la navegación y su prestación requiere permiso de la Secretaría de Marina.
+Las maniobras de carga, descarga, alijo, almacenaje, transbordo, estiba, desestiba, acarreo y en general las que auxilien y complementen el comercio marítimo y el transporte por agua, dentro de los recintos portuarios y en las zonas bajo jurisdicción federal sometidas a la autoridad marítima, son servicios portuarios conexos y su prestación requiere permiso de la Secretaría de Marina, la cual los expedirá, según corresponda, para maniobras de servicio público o de servicio particular.
 
-Además de quienes en el futuro obtengan la autorización correspondiente, para los efectos de la presente Ley son permisionarios los consignatarios, agentes aduanales, armadores, destinatarios, agentes de buques reexpedidores de carga, y en general, a quienes de manera directa o como intermediarios, al igualmente desarrollen actividades que requieran de estos servicios.
+Tendrán preferencia para la obtención de los citados permisos, las empresas cuyo objeto social sea la prestación de servicios portuarios; los armadores y navieros, consignatarios de buques, agentes aduanales y en general quienes realicen actividades que requieran de estos servicios.
 
-Los Permisionarios celebrarán contratos de trabajo con las Organizaciones de Trabajadores reconocidas, y las relaciones entre ambos se regirán por la Ley Federal del Trabajo. Tratándose de sociedades cooperativas, éstas se normarán por su ley específica, y en sus relaciones con trabajadores ajenos a la Cooperativa, por la Ley Federal del Trabajo.
+Las relaciones entre permisionarios y sus trabajadores se regirán por las disposiciones de la Ley Federal del Trabajo.
 
 ###### ARTICULO 273.
 
@@ -1613,3 +2185,11 @@ Los permisionarios o concesionarios que se encuentren operando servicios maríti
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 22 DE DICIEMBRE DE 1975.
+
+PRIMERO.- Las sociedades constituidas de acuerdo con lo dispuesto en el texto original del artículo 92 de la Ley, que consignen en sus estatutos cláusula de admisión de extranjeros, podrán continuar operando en los tráficos expresamente autorizados, con las embarcaciones cuya bandera o matrícula hubieren solicitado u obtenido con anterioridad a la vigencia de la Ley para Fomentar la Inversión Mexicana y Regular la Extranjera, siempre que satisfagan los requisitos establecidos en dicho precepto y los demás aplicables conforme al mismo.
+
+Para operar con otras embarcaciones, deberán ajustarse a las disposiciones aplicables de la Ley con sus reformas y adiciones.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
