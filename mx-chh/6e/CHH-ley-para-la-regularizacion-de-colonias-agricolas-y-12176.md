@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-regularizacion-de-colonias-agricolas-y-12176"
 country: "mx"
 rank: "ley"
 publication_date: "1998-08-12"
-last_updated: "1998-08-12"
+last_updated: "2004-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12176&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA LA REGULARIZACION DE COLONIAS AGRICOLAS Y MANCOMUNES AGROPECUARIOS DE REGIMEN ESTATAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2004.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 12 de agosto de 1998.
 
@@ -45,31 +45,41 @@ LEY PARA LA REGULARIZACION DE COLONIAS AGRICOLAS Y MANCOMUNES AGROPECUARIOS DE R
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2004)</small>
+
 ###### Artículo 1.
 
-La presente Ley tiene por objeto la regularización de la propiedad a favor de los poseedores de predios en las colonias y mancomunes creados conforme a la Ley Agraria estatal expedida y promulgada el 25 de mayo de 1922, y de la copropiedad rural surgida del mismo proceso de colonización.
+La presente Ley tiene por objeto la regularización de la posesión a favor de los tenedores de predios en las colonias y mancomunes creados conforme a la Ley Agraria estatal expedida y promulgada el 25 de mayo de 1922, y de la copropiedad rural surgida del mismo proceso de colonización.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2004)</small>
 
 ###### Artículo 2.
 
-Se declara de interés público la regularización de la posesión en la tenencia de la tierra a que se refiere el artículo anterior, comprendiendo las operaciones de deslinde, reconocimiento de derechos, planificación, división y subdivisión, registro y, en su caso, hasta el otorgamiento de los títulos de propiedad.
+Se declara de interés público la regularización de la posesión en la tenencia de la tierra a que se refiere el artículo anterior, comprendiendo las operaciones de deslinde, reconocimiento de derechos, planificación, división y subdivisión, registro y, en su caso, hasta el otorgamiento de los títulos de posesión definitiva.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2004)</small>
 
 ###### Artículo 3.
 
-La propiedad de una sola persona, física o moral, no podrá ser mayor a las extensiones territoriales previstas por el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos. Las personas morales sólo podrán ser propietarias en los términos del mismo artículo constitucional y su Ley Reglamentaria.
+La propiedad en favor de una sola persona, física o moral, no podrá ser mayor a las extensiones territoriales previstas por el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos. Las personas morales sólo podrán ser propietarias en los términos del mismo artículo constitucional y su Ley Reglamentaria.
 
 ###### Artículo 4.
 
 Con excepción de las establecidas en el artículo siguiente, las acciones tendientes a la regularización y registro de la tenencia de la tierra, conforme a la presente Ley, no causarán impuesto ni derecho estatal o municipal alguno.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2004)</small>
+
 ###### Artículo 5.
 
-Para la regularización de sus predios, los poseedores que participen de los servicios del Estado mediante al apoyo técnico y jurídico cubrirán una cuota de recuperación a favor del Estado, que será fijada en la Ley de Ingresos del Gobierno del Estado. Dicha cuota de recuperación será distribuida conforme se convenga entre el Estado y el Municipio que corresponda, cuando el inmueble a regularizar se encuentre dentro del supuesto establecido en el artículo 28 de esta Ley.
+Para la regularización de sus predios, los poseedores que participen de los servicios del Estado mediante al (sic) apoyo técnico y jurídico cubrirán una cuota de recuperación a favor de éste último, que será fijada en la Ley de Ingresos del Gobierno del Estado. Dicha cuota de recuperación será distribuida conforme se convenga entre el Estado y el Municipio que corresponda, cuando el inmueble a regularizar se encuentre dentro del supuesto establecido en el artículo 28 de esta Ley.
 
 El Ejecutivo queda facultado para celebrar convenios con los interesados, aceptando en efectivo o en terreno el importe de los gastos erogados en las operaciones de titulación, en tanto no se contravenga la presente Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2004)</small>
+
 ###### Artículo 6.
 
-Corresponde a la Dirección General de Desarrollo Rural del Ejecutivo del Estado la aplicación de la presente Ley y, particularmente:
+Corresponde a la Secretaría de Desarrollo Rural del Ejecutivo del Estado la aplicación de la presente Ley y, particularmente:
 
 I.- Promover y llevar a cabo las acciones tendientes a cumplir con los fines de la misma;
 
@@ -77,9 +87,13 @@ II.- Proporcionar la asesoría y asistencia técnica en materia topográfica par
 
 III.- Proporcionar asesoría y asistencia jurídica para llevar a cabo los procedimientos de regularización;
 
-IV.- Promover y coadyuvar con los ayuntamientos en la regularización de las propiedades que además se encuentren dentro de las zonas urbanas en las poblaciones de los municipios;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2004)</small>
 
-V.- Crear y llevar el registro de las colonias y mancomunes a que se refiere la presente Ley, así como de sus órganos directivos;
+IV.- Promover y coadyuvar con los ayuntamientos en la regularización de las posesiones que además se encuentren dentro de las zonas urbanas en las poblaciones de los municipios;
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2004)</small>
+
+V.- Efectuar el registro de las colonias y mancomunes a que se refiere la presente Ley, así como de sus órganos directivos;
 
 VI.- Coordinar la Comisión para la Regularización y Titulación de Colonias Agrícolas y Mancomunes Agropecuarios de Régimen Estatal;
 
@@ -87,33 +101,15 @@ VII.- Expedir las acreditaciones de posesión, provisionales o definitivas, a lo
 
 VIII.- Las demás que establezca la presente Ley.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2004)</small>
+
 ###### Artículo 7.
 
-Cuando en la presente Ley se haga mención de la Dirección, se entenderá referida la Dirección General de Desarrollo Rural del Ejecutivo del Estado.
+Cuando en la presente Ley se haga mención a la Secretaría, se entenderá referida a la Secretaría de Desarrollo Rural del Ejecutivo del Estado.
 
 ###### Artículo 8.
 
-Para dar cumplimiento a los objetivos de este Ordenamiento, existirá como órgano consultivo de la Dirección, la Comisión para la Regularización de la Propiedad Rural, que estará conformada de la siguiente manera:
-
-I.- Por un Presidente, que será el Gobernador del Estado o su representante;
-
-II.- Por un Vicepresidente, que será el Coordinador Agrario en el Estado o su representante;
-
-III.- Por un Secretario Técnico, nombrado por el Director General de Desarrollo Rural del Gobierno del Estado;
-
-IV.- Un Vocal, representante del H. Congreso del Estado;
-
-V.- Un Vocal, representante de una organización sindical campesina;
-
-VI.- Cuatro Vocales, representantes de Colonias Agrícolas y Mancomunes Agropecuarios de Régimen Estatal; y
-
-VII.- Un Vocal, representante del Registro Público de la Propiedad y del Notariado.
-
-Por cada Vocal existirá un suplente.
-
-Las decisiones serán tomadas por mayoría de votos y el Presidente tendrá voto de calidad en caso de empate. Esta Comisión expedirá su Reglamento Interno.
-
-A las sesiones de la Comisión podrán asistir, a invitación de ésta, y sólo con voz, otros funcionarios de la Administración Pública Federal, Estatal o Municipal, que guarden relación con los asuntos que se vayan a tratar.
+(DEROGADO, P.O. 5 DE JUNIO DE 2004)
 
 ###### Artículo 9.
 
@@ -121,9 +117,11 @@ El Ejecutivo del Estado podrá celebrar los convenios necesarios con el Gobierno
 
 ### CAPITULO II. De las Colonias Agrícolas y Mancomunes Agropecuarios de Régimen Estatal
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2004)</small>
+
 ###### Artículo 10.
 
-Se reconoce personalidad jurídica a las Colonias Agrícolas y Mancomunes Agropecuarios que permanezcan bajo ese régimen.
+Se reconoce personalidad jurídica a las Colonias Agrícolas y Mancomunes Agropecuarios que permanezcan bajo ese régimen, y estarán obligadas a observar las normas de esta Ley.
 
 ###### Artículo 11.
 
@@ -133,35 +131,61 @@ Para los efectos de esta Ley, son colonias agrícolas y mancomunes agropecuarios
 
 Son poseedores con derechos para la adquisición del pleno dominio, aquellos que encontrándose en los supuestos de los artículos 1153, 1154 y 2914 del Código Civil del Estado detenten predios de los referidos en el artículo 1 de esta Ley.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2004)</small>
+
 ###### Artículo 13.
 
-Se considerará coposesores, para efectos de esta Ley, a las personas físicas y morales que acrediten tener derechos en la posesión indivisa denominada "colonias agrícolas estatales" y/o "mancomunes agropecuarios". Se considerará como posesión exclusiva toda extensión de tierra de las colonias y mancomunes, limitada y circunscrita en los títulos, documentación legal y/o posesión que acrediten los coposesores que han estado haciendo uso y disfrute hasta la fecha de expedición de la presente Ley.
+Se considerarán coposesores, para efectos de esta Ley, a las personas físicas y morales que acrediten tener derechos en la posesión indivisa denominada "colonias agrícolas estatales" y/o "mancomunes agropecuarios". Se entiende como posesión exclusiva a toda extensión de tierra de las colonias y mancomunes, limitada y circunscrita en los títulos, documentación legal y/o posesión respecto de las cuales los coposeedores acrediten haber ejercido su uso y disfrute hasta la fecha de expedición de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2004)</small>
+
+###### Artículo 13 Bis.
+
+Podrán ser titulares de predios en las colonias o mancomunes, los que se encuentren en los siguientes términos:
+
+I.- Los registrados ante la Secretaría, que se encuentren en posesión de la tierra y las tengan en aprovechamiento;
+
+II.- Los que hubieren adquirido por cualquier medio establecido en el derecho común, sin perjuicio de terceros, los mantengan en aprovechamiento y no estén registrados en la Secretaría, o
+
+III.- Los que hubieren poseído y aprovechado las tierras de que se trate, en concepto de titular, de manera pacífica, continua y pública durante un periodo de cinco años, si la posesión es de buena fe.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2004)</small>
+
+###### Artículo 13 Ter.
+
+En las colonias o mancomunes de régimen estatal no operará la prescripción negativa.
 
 ### CAPITULO III. De la Organización de Colonias Agrícolas y Mancomunes Agropecuarios
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2004)</small>
+
 ###### Artículo 14.
 
-El órgano superior de la Colonia Agrícola o Mancomún Agropecuario es la Asamblea General, que estará representada por una Mesa Directiva y se regularán por las siguientes disposiciones:
+El órgano superior de la Colonia Agrícola o Mancomún Agropecuario es la Asamblea General, que estará representada por una Mesa Directiva y se regulará por las siguientes disposiciones:
 
-I.- La Asamblea General estará conformada por aquellos poseedores que acrediten un derecho preliminar o definitivo, acreditándose el primero con la constancia que expida la Dirección en tal sentido conforme a la presente Ley, hasta en tanto se adquiera el título justificativo de la propiedad;
+I.- La Asamblea General estará conformada por aquellos poseedores que acrediten un derecho preliminar o definitivo, acreditándose el primero con la constancia que expida la Secretaría en tal sentido conforme a la presente Ley, hasta en tanto se adquiera el título justificativo de la posesión;
 
-II.- Para efectos de constitución de la Asamblea, serán convocados por la Dirección y a la primera reunión acudirá un representante de la misma para presidirla e instalar a la mesa directiva;
+II.- Para efectos de constitución de la Asamblea, serán convocados por la Secretaría y a la primera reunión acudirá un representante de la misma para presidirla e instalar a la mesa directiva;
 
-III.- Una vez instalada la Asamblea y designada la Mesa Directiva, ésta presentará un Proyecto de Reglamento Interno para que sea discutido y en su caso aprobado por la primera, y
+III.- Para el reconocimiento y validez de la elección o nombramiento de nueva mesa directiva, se deberá dar aviso a la Secretaría, la cual enviará un representante que dará fe de lo acontecido.
 
-IV.- El nombramiento de la Mesa Directiva y el Reglamento Interno aprobado serán depositados para su registro ante la Dirección.
+IV.- El nombramiento de la Mesa Directiva y el Reglamento Interno aprobado serán depositados para su registro ante la Secretaría.
 
 ###### Artículo 15.
 
 Los colonos o coposesores pueden concurrir a las Asambleas personalmente o por apoderados instituidos en forma o en carta poder suscrita ante fedatario público o ante dos testigos.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2004)</small>
+
 ###### Artículo 16.
 
-Las Asambleas se verificarán en el lugar y días establecidos en el Reglamento Interior de la Colonia o Mancomún.
+Las Asambleas se verificarán en el lugar y días establecidos en el Reglamento Interior o conforme al uso y/o costumbre de la Colonia o Mancomún.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2004)</small>
 
 ###### Artículo 17.
 
-La convocatoria para Asamblea General se hará del conocimiento de sus integrantes por los medios y formas establecidos en el Reglamento Interior de la Colonia o Mancomún. En toda convocatoria se expresará el orden del día y el lugar, día y hora de la Asamblea, la que se celebrará ocho días después de la publicación de la convocatoria.
+La convocatoria para Asamblea General se hará del conocimiento de sus integrantes por los medios y formas establecidos en el Reglamento Interior o conforme al uso y/o costumbre de la Colonia o Mancomún. En toda convocatoria se expresará el orden del día y el lugar, día y hora de la Asamblea, la que se celebrará ocho días después de la publicación de la convocatoria.
 
 ###### Artículo 18.
 
@@ -173,35 +197,63 @@ Podrá instalarse válidamente la Asamblea, cualquiera que sea el número de asi
 
 De toda Asamblea se levantará acta en la que se asentarán substancialmente las deliberaciones que se tengan y los acuerdos que se tomen.
 
-El acta será firmada por todos los concurrentes; en ella se integrará una lista de asistencia con expresión de los derechos que afirmen tener o que les hayan sido reconocidos y de la representación con que obran los concurrentes. En el caso de que alguno de los concurrentes no sepa firmar o no quiera hacerlo, el representante de la Dirección o del Presidente Municipal certificará su asistencia. Las Asambleas serán presididas por el Presidente de la Mesa Directiva.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2004)</small>
+
+El acta será firmada por todos los concurrentes y en ella se integrará una lista de asistencia con expresión de los derechos que afirmen tener o que les hubieren sido reconocidos y de la representación con que comparecen los concurrentes. En el caso de que alguno de ellos no pueda o no quiera firmar, el representante de la Secretaría o de la Presidencia Municipal certificará su asistencia. Las Asambleas serán presididas por el Presidente de la Mesa Directiva.
 
 ###### Artículo 20.
 
 En todas las convocatorias que se expidan, se exhortará a los integrantes de la Asamblea a que con anticipación a la reunión exhiban la acreditación provisional o definitiva de sus derechos, con el apercibimiento de que ante la omisión no podrán participar en aquélla.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2004)</small>
+
 ###### Artículo 21.
 
-Si por falta de tiempo no pudiesen resolverse todos los asuntos contenidos en el orden del día de una Asamblea, se declarará ésta en sesión permanente y se podrá suspender dicha sesión, para reanudarla en el día y la hora que se acuerde, sin necesidad de convocatoria formal.
+Si por falta de tiempo no se pudiesen resolver todos los asuntos contenidos en el orden del día de una Asamblea, se declarará ésta en sesión permanente y se podrá suspender dicha sesión, para reanudarla en el día y la hora que se acuerde, sin necesidad de convocatoria formal.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2004)</small>
 
 ###### Artículo 22.
 
-La Mesa Directiva de la Asamblea se formará por Colonos o Mancomuneros. Se integrará por un Presidente, un Secretario, un Tesorero y Cuatro vocales y funcionará de manera colegiada. Existirá también un Consejo de Vigilancia o Comisario de la Colonia o Mancomún, que será designado en los términos que establezca el Reglamento Interior.
+La Mesa Directiva de la Asamblea se formará por Colonos o Mancomuneros y se integrará por un Presidente, un Secretario, un Tesorero y Cuatro vocales, debiendo funcionar de manera colegiada. Existirá también un Consejo de Vigilancia o Comisario de la Colonia o Mancomún, que será designado en los términos que establezca el Reglamento Interior.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2004)</small>
+
+###### Artículo 22 Bis.
+
+Será nula la Asamblea que contravenga lo dispuesto en el presente capítulo.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2004)</small>
+
+###### Artículo 22 Ter.
+
+Las colonias o mancomunes deberán informar semestralmente a la Secretaría, a través de la mesa directiva, de las enajenaciones o transmisiones de predios, de la actualización del padrón de colonos o mancomuneros y de las reformas que hicieren a su reglamento interno.
 
 ### CAPITULO IV. De la Revisión Preliminar de Derechos de Posesión
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2004)</small>
+
 ###### Artículo 23.
 
-La Mesa Directiva de la Colonia o Mancomún, a instancia del representante de la Dirección, convocará a la Asamblea General con el objeto de iniciar y encauzar el procedimiento de división y adjudicación; instándolos para que presenten sus títulos o documentación legal.
+La Mesa Directiva de la Colonia o Mancomún, a instancia del representante de la Secretaría, convocará a la Asamblea General con el objeto de iniciar y encauzar el procedimiento de división y adjudicación, instándolos para que presenten sus títulos o documentación legal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2004)</small>
 
 ###### Artículo 24.
 
-El representante de la Dirección, auxiliado por técnicos de la Comisión para la Regularización de la Propiedad Rural si fuera necesario, y con vista de pruebas exhibidas por los posesores, procederá:
+El representante de la Secretaría, con vista de pruebas exhibidas por los posesores, procederá:
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2004)</small>
 
 I.- A formar la genealogía, que podrá servir de título supletorio a colonos y mancomuneros;
 
-II.- A formular el historial de los derechos, con los datos que se hayan obtenido del Registro Público de la Propiedad o de cualquier otro registro;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2004)</small>
 
-III.- A formular un "memorándum de traspasos" que contenga un breve examen de los traspasos a la fecha, principalmente cuando se encuentre que un mismo derecho o una misma porción de tierra ha sido objeto de diversas operaciones de cesión o traspaso, haciendo presumir la presencia de un futuro conflicto;
+II.- A elaborar el historial de los derechos, con los datos que se hubieren obtenido del Registro Público de la Propiedad o de cualquier otra dependencia;
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2004)</small>
+
+III.- A elaborar un registro que contenga un breve examen de los traspasos a la fecha, principalmente cuando se encuentre que un mismo derecho o una misma porción de tierra ha sido objeto de diversas operaciones de cesión o traspaso, haciendo presumir la presencia de un futuro conflicto;
 
 IV.- A formar el cuadro provisional del reconocimiento de derechos individuales de acuerdo con las siguientes bases:
 
@@ -211,19 +263,27 @@ b).- Si no hay oposición, se podrá hacer discrecionalmente la aplicación de l
 
 c).- Al colono o mancomunero que tenga acotado una porción mayor que la que le corresponde según sus títulos justificativos de derechos, se le reconocerá solamente la extensión que amparen dichos títulos. Si no hay conflicto y hubiere terreno suficiente, se podrá aplicar el terreno excedente, mediante su pago al precio que se fijará en cada caso.
 
-d).- Para los efectos del inciso anterior, el representante del Ejecutivo tendrá a la vista el valor catastral de los terrenos con el objeto de que pueda informar a los interesados en todo momento, sobre el monto de la indemnización que pudiere corresponderles. El representante de la Dirección extenderá recibo expreso de los documentos que reciba.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2004)</small>
+
+d).- Para los efectos del inciso anterior, el representante del Ejecutivo tendrá a la vista el valor catastral de los terrenos con el objeto de que pueda informar a los interesados en todo momento, sobre el monto de la indemnización que pudiere corresponderles. El representante de la Secretaría extenderá recibo expreso de los documentos que reciba.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2004)</small>
 
 ###### Artículo 25.
 
-El representante de la Dirección y la Comisión para la Regularización de la Propiedad Rural tendrán libre acceso a los registros archivos y protocolos públicos para hacer la compulsa de los documentos relativos a la copropiedad y a las personas que tengan derecho a ella. El primero podrá también con el mismo objeto, acordar la exhibición de los documentos que obran en poder de particulares, en caso de resistencia infundada, dará cuenta al Ejecutivo para que aplique las sanciones que acuerde la Ley para que haga que se cumplan las determinaciones.
+El representante de la Secretaría tendrá libre acceso a los registros archivos y protocolos públicos para hacer la compulsa de los documentos relativos a la copropiedad y a las personas que tengan derecho a ella. Podrá también con el mismo objeto, acordar la exhibición de los documentos que obran en poder de particulares, en caso de resistencia infundada, dará cuenta al Ejecutivo para que aplique las sanciones que acuerde la Ley para que haga que se cumplan las determinaciones.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2004)</small>
 
 ###### Artículo 26.
 
-Para la comprobación de los derechos individuales de los coposesores se admitirán todos los medios de prueba reconocidos por la Ley, los que se apreciarán con un criterio de equidad y buena fe y sólo se aplicará cuando dos o más personas sostengan que les pertenece el mismo derecho o se alegue la inexistencia del mismo.
+Para la comprobación de los derechos individuales de los coposesores se admitirán todos los medios de prueba reconocidos por la Ley, los que se apreciarán con un criterio de equidad y buena fe.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2004)</small>
 
 ###### Artículo 27.
 
-No obstante lo dispuesto en el artículo anterior, la Dirección queda facultada para admitir y examinar los títulos que se presenten con posterioridad y para reconocer los derechos que les corresponda, haciendo las aplicaciones que procedan en terreno libre siempre y cuando tuviere existencia.
+No obstante lo dispuesto en el artículo anterior, la Secretaría queda facultada para admitir y examinar los títulos que se presenten con posterioridad y para reconocer los derechos que les corresponda, haciendo las aplicaciones que procedan en terreno libre siempre y cuando tuviere existencia.
 
 ###### Artículo 28.
 
@@ -239,9 +299,33 @@ Si resultan observaciones fundadas, el "cuadro provisional" se modificará confo
 
 Los poseedores podrán optar entre el deslinde de su propiedad individual o continuar bajo el Régimen de Colonias o Mancomún y en ambos casos, entre acogerse a los derechos y procedimientos que esta Ley otorga o los que actualmente consagran los Códigos Civil y de Procedimientos Civiles en el Estado. Quienes se encuentren bajo el régimen mancomunado podrán promover el deslinde de su parte, sin perjuicio de que otros permanezcan bajo aquél.
 
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2004)</small>
+
+###### Artículo 30 Bis.
+
+Para efectos del artículo anterior, el núcleo de población que decidió continuar bajo el régimen de colonia o mancomún, requerirá la manifestación expresa de la Asamblea General.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2004)</small>
+
+###### Artículo 30 Ter.
+
+Los poseedores que eligieron acogerse a esta Ley, deberán acreditar ante la Secretaría la calidad de colono o mancomunero y el derecho o derechos de posesión sobre el predio que se pretenda regularizar.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2004)</small>
+
 ###### Artículo 31.
 
-Para los casos de los poseedores con juicios en proceso que decidan acogerse a la presente Ley, el representante de la Dirección se limitará a perfeccionarlas y concluirlas de acuerdo con las disposiciones de esta Ley, siempre que no hubiera litigio ni controversia respecto del inmueble que se trate.
+Para los casos de los poseedores con juicios en proceso que decidan acogerse a la presente Ley, el representante de la Secretaría se limitará a perfeccionarlas y concluirlas de acuerdo con las disposiciones de esta Ley, siempre que no hubiera litigio ni controversia respecto del inmueble que se trate.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2004)</small>
+
+###### Artículo 31 Bis.
+
+Los colonos o mancomunes deberán proporcionar a la Secretaría, cuando ésta así lo solicite, información, documentación o cualquier otro medio de prueba que facilite la comprobación o existencia del derecho o derechos de posesión sobre el predio que se pretenda regularizar.
+
+Para estos efectos, la Secretaría notificará a los colonos o mancomuneros, otorgándoles un término prudente, que se concederá atendiendo a la distancia y posibilidades económicas de los poblados.
+
+En el caso de no presentar lo solicitado en el término señalado, se suspenderá provisionalmente el derecho de regularizar su predio por esta vía, hasta en tanto no se cumpla con lo requerido.
 
 ###### Artículo 32.
 
@@ -251,7 +335,9 @@ En los términos del artículo 1650, fracción II, del Código Administrativo de
 
 Los predios de propiedad estatal se sujetarán al siguiente procedimiento administrativo de regularización:
 
-I.- Conocerá de ella la Dirección;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2004)</small>
+
+I.- Conocerá de él la Secretaría;
 
 II.- La radicación del expediente de la información y la identificación del inmueble serán publicadas en el Periódico Oficial, por tres veces de siete en siete días, debiéndose fijar también estas publicaciones en los lugares públicos correspondientes;
 
@@ -271,13 +357,25 @@ En estos casos, podrán acogerse a los beneficios de este Ordenamiento en lo que
 
 Una vez agotados los procedimientos de regularización, se llevará a cabo la titulación de los predios a favor de quienes hubiesen acreditado sus derechos para ser propietarios, conforme a lo siguiente:
 
-I.- Respecto de los predios que sean propiedad del Estado, los títulos respectivos serán expedidos por la Dirección General de Desarrollo Rural;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2004)</small>
+
+I.- Respecto de los predios que sean propiedad del Estado, los títulos respectivos serán expedidos por la Secretaría de Desarrollo Rural;
 
 II.- Aquellos predios que sean de los contemplados en el artículo 28 de esta Ley, serán titulados por el H. Ayuntamiento del Municipio en que se encuentren ubicados;
 
-III.- Cuando el inmueble sea declarado propiedad de su poseedor, mediante resolución judicial, tratándose de los contemplados en la presente Ley no requerirán protocolización ante Notario y la Dirección será la encargada de tramitar su inscripción en el Registro Público de la Propiedad; y
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2004)</small>
 
-IV.- Para los efectos de inscripción en el Registro Público de la Propiedad, serán admitidos los avalúos a que se refiere el artículo 52 de la presente Ley.
+III.- Cuando el inmueble sea declarado propiedad de su poseedor, mediante resolución judicial, tratándose de los contemplados en la presente Ley no requerirán protocolización ante Notario y la Secretaría será la encargada de tramitar su inscripción en el Registro Público de la Propiedad; y
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2004)</small>
+
+IV.- Para los efectos de inscripción en el Registro Público de la Propiedad, serán admitidos los avalúos a que se refiere el artículo 48 de la presente ley.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2004)</small>
+
+###### Artículo 35 Bis.
+
+Los poseedores que no participen de los servicios del Estado, como lo señala el artículo 5 de esta Ley, quedarán a salvo sus derechos para hacerlos valer por las vías legales correspondientes.
 
 ### CAPITULO VI. Del Apeo o Deslinde
 
@@ -285,9 +383,11 @@ IV.- Para los efectos de inscripción en el Registro Público de la Propiedad, s
 
 El apeo o deslinde tendrá lugar para definir los límites que separen un predio de otro u otros, para establecer sus medidas lineales, superficie y colindancias, y para la elaboración de los planos respectivos. Siempre se llevará a instancia del poseedor o poseedores del inmueble.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2004)</small>
+
 ###### Artículo 37.
 
-La petición de apeo deberá hacerse por escrito ante la Dirección, y en ella se expresarán los datos que a continuación se indican:
+La petición de apeo deberá hacerse por escrito ante la Secretaría, y en ella se expresarán los datos que a continuación se indican:
 
 I.- Ubicación del inmueble que debe deslindarse;
 
@@ -301,9 +401,13 @@ IV.- Los nombres y domicilios de los testigos que vayan a declarar respecto de l
 
 La práctica de apeo se llevará a cabo con arreglo a las siguientes disposiciones:
 
-I.- La Dirección hará saber a los colindantes la petición de apeo y nombrará un perito, asentándose la debida constancia en el expediente;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2004)</small>
 
-II.- La Dirección extenderá la constancia de la comisión que se confiere al perito y se le entregará autorizada con su firma.
+I.- La Secretaría hará saber a los colindantes la petición de apeo y nombrará un perito, asentándose la debida constancia en el expediente;
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2004)</small>
+
+II.- La Secretaría extenderá la constancia de la comisión que se confiere al perito y se le entregará autorizada con su firma.
 
 Al mismo tiempo que la constancia a que se refiere el párrafo que antecede, se entregará al perito un extracto que contenga:
 
@@ -317,19 +421,27 @@ IV.- Los colindantes podrán ocurrir o no a presenciar las operaciones, pero en 
 
 V.- Las medidas longitudinales y las de superficie han de ser expresadas en los términos correspondientes al sistema métrico decimal; y sólo que en los títulos constara que aquéllas se hicieron conforme a otro sistema, en el informe se expresarán las correspondientes equivalencias;
 
-VI.- Los peritos están obligados a atender cuantas observaciones les hagan el promovente y los que se hayan opuesto o se propongan oponer al deslinde; pero no suspenderán la mensura, ni expresarán juicio sobre aquéllas sino en el informe escrito que rendirán a la Dirección;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2004)</small>
+
+VI.- Los peritos están obligados a atender cuantas observaciones les hagan el promovente y los que se hayan opuesto o se propongan oponer al deslinde; pero no suspenderán la mensura, ni expresarán juicio sobre aquéllas sino en el informe escrito que rendirán a la Secretaría;
 
 VII.- Si fuera necesario identificar alguno o algunos de los puntos deslindados, el perito prevendrá a cada parte que presente por lo menos dos testigos de identidad y levantará al efecto las actas respectivas;
 
-VIII.- Terminados los trabajos de campo, el perito deberá presentar a la Dirección el plano del terreno y un informe en que ha de constar una relación detallada de las operaciones que se ejecutaron para obtener la posición de todos los puntos del perímetro y la extensión superficial del terreno, consignándose al efecto todos los datos de campo y los resultados de los cálculos que se hicieron, expresándolos de manera tal que sea posible verificar cualquiera de ellos sin necesidad de recurrir al mismo perito;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2004)</small>
+
+VIII.- Terminados los trabajos de campo, el perito deberá presentar a la Secretaría el plano del terreno y un informe en que ha de constar una relación detallada de las operaciones que se ejecutaron para obtener la posición de todos los puntos del perímetro y la extensión superficial del terreno, consignándose al efecto todos los datos de campo y los resultados de los cálculos que se hicieron, expresándolos de manera tal que sea posible verificar cualquiera de ellos sin necesidad de recurrir al mismo perito;
 
 IX.- El perito ha de acompañar a su informe los escritos o manifestaciones originales que le hayan sido entregadoscon (sic) arreglo a lo dispuesto en la fracción V de este artículo; y en el caso de que alguno o algunos de los colindantes no le hayan presentado manifestación, así lo hará constar en el informe;
 
-X.- Si hubiere oposición o controversia, se someterá a amigable composición conforme a los artículos 43 y 44 de esta Ley; si ello no fuera posible, se suspenderá el trámite para que los interesados hagan valer sus derechos en los términos de la legislación común;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2004)</small>
 
-XI.- Si todos los interesados están conformes, se aprobará el apeo teniéndose las líneas como límites legales del predio;
+X.- Si hubiere oposición o controversia, se someterá a amigable composición conforme al artículo 44 de esta Ley; si ello no fuera posible, se suspenderá el trámite para que los interesados hagan valer sus derechos en los términos de la legislación común;
 
-XII.- El apeo aprobado por la Dirección en los términos anteriores, confiere al promovente la posesión del terreno contra los dueños de las propiedades colindantes que hubieran prestado su conformidad.
+XI.- Si todos los interesados están conformes, se aprobará el apeo teniéndose las líneas como límites legales del predio.
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2004)</small>
+
+XII.- El apeo aprobado por la Secretaría en los términos anteriores, confiere al promovente la posesión del terreno contra los dueños de las propiedades colindantes que hubieran prestado su conformidad.
 
 ###### Artículo 39.
 
@@ -357,13 +469,17 @@ VI.- Las tierras que correspondan al Estado por razón de deducciones y las que 
 
 VII.- Se aplicarán los excedentes, si se dispone de ellos, a los coposesores que no hayan completado la extensión de sus derechos que les haya sido reconocido.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2004)</small>
+
 ###### Artículo 40.
 
-El representante de la Dirección dará cuenta con el proyecto de división a la Asamblea General; si hay observaciones fundadas a juicio de la Asamblea, se modificará el Proyecto; si las observaciones fueren infundadas y los interesados no se inconformasen, el expediente se remitirá a la Dirección para su resolución.
+El representante de la Secretaría dará cuenta con el proyecto de división a la Asamblea General; si hay observaciones fundadas a juicio de la Asamblea, se modificará el Proyecto; si las observaciones fueren infundadas y los interesados no se inconformasen, el expediente se remitirá a la Secretaría para su resolución.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2004)</small>
 
 ###### Artículo 41.
 
-Si la Asamblea aprueba el proyecto de división, la Dirección procederá a la protocolización de las diligencias de apeo y de las actas de la Asamblea General en las que se haya aprobado el cuadro del reconocimiento de derechos individuales y el proyecto de deslinde.
+Si la Asamblea aprueba el proyecto de división, la Secretaría procederá a la protocolización de las diligencias de apeo y de las actas de la Asamblea General en las que se haya aprobado el cuadro del reconocimiento de derechos individuales y el proyecto de deslinde.
 
 ###### Artículo 42.
 
@@ -371,37 +487,51 @@ La resolución de reconocimiento o adjudicación deberá ser publicada en el Per
 
 ###### Artículo 43.
 
-En caso de conflicto en el deslinde de las propiedades, se resolverá mediante amigable composición con la intervención de la Dirección y en caso de subsistir la controversia se estará a lo dispuesto en los Códigos Civil y de Procedimientos Civiles.
+(DEROGADO, P.O. 5 DE JUNIO DE 2004)
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2004)</small>
 
 ###### Artículo 44.
 
-Para la amigable composición, la Dirección iniciará un procedimiento sumario notificando a las partes y citando a una audiencia en la que se recibirán sus pruebas y se oirán las alegaciones, bajo los siguientes lineamientos:
+Para la amigable composición, la Secretaría iniciará un procedimiento sumario notificando a las partes y citando a una audiencia en la que se recibirán sus pruebas y se oirán los alegatos, bajo los siguientes lineamientos:
 
-I.- Cuando la disputa se entablare entre dos posesiones rurales y se sometieren a la decisión arbitral de la Dirección, de acuerdo con los resultados técnicos que aporten los elementos de prueba se procurará fijar la línea que los delimite en los términos en que acuerden los poseedores de los predios en disputa;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2004)</small>
 
-II.- Cuando la disputa se ocasionare porque resulta afectado el fundo legal de una población, la Dirección cuidará de que se respete en toda su integridad dicho fundo legal;
+I.- Cuando la disputa se entablare entre dos posesiones rurales y se sometieren a la decisión arbitral de la Secretaría, de acuerdo con los resultados técnicos que aporten los elementos de prueba se procurará fijar la línea que los delimite en los términos en que acuerden los poseedores de los predios en disputa;
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2004)</small>
+
+II.- Cuando la disputa se ocasionare porque resulta afectado el fundo legal de una población, la Secretaría cuidará de que se respete en toda su integridad dicho fundo legal;
 
 III.- Si la disputa se entablara entre la Colonia o Mancomún y otros particulares ajenos a ellos, se instará a las partes para fijar los límites en los términos de la fracción I de este artículo y en caso de persistir la controversia, quedarán a salvo sus derechos para ejercitarlos por la vía legal que corresponda;
 
-IV.- Los acuerdos serán signados por los interesados y sancionados por la Dirección, teniendo el carácter de definitivos.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2004)</small>
+
+IV.- Los acuerdos serán signados por los interesados y sancionados por la Secretaría, teniendo el carácter de definitivos.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2004)</small>
 
 ###### Artículo 45.
 
-Agotados los procedimientos de deslinde y, en su caso, decisión de permanecer bajo el régimen de colonia o mancomún, si se trata de predios propiedad del Estado, la Dirección procederá a expedir los títulos correspondientes, y a su inscripción en el Registro Público de la Propiedad del Distrito que corresponda.
+Agotados los procedimientos de deslinde y, en su caso, decisión de permanecer bajo el régimen de colonia o mancomún, si se trata de predios propiedad del Estado, la Secretaría procederá a expedir los títulos correspondientes, y a su inscripción en el Registro Público de la Propiedad del Distrito que corresponda.
 
 ### CAPITULO VII. Disposiciones Finales
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2004)</small>
+
 ###### Artículo 46.
 
-Toda inconformidad en contra de actos de la Dirección, se promoverá por medio de los recursos previstos en el Código Administrativo del Estado.
+Toda inconformidad en contra de actos de la Secretaría, se promoverá por medio de los recursos previstos en el Código Administrativo del Estado.
 
 ###### Artículo 47.
 
 Es admisible la gestión oficiosa, sin otorgamiento de fianza, para ejercer los derechos de los menores o incapacitados.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2004)</small>
+
 ###### Artículo 48.
 
-Los avalúos que se determinen para efectos de registro deberán ser el valor catastral de las extensiones registradas y en su caso serán válidos los que extienda la Comisión de Avalúos de Bienes Nacionales (CABIN), así como los que expidan peritos autorizados para tal efecto por la Dirección.
+Los avalúos que se determinen para efectos de registro deberán ser el valor catastral de las extensiones registradas y en su caso serán válidos los que extienda la Comisión de Avalúos de Bienes Nacionales (CABIN), así como los que expidan peritos autorizados para tal efecto por la Secretaría.
 
 ###### Artículo 49.
 
@@ -438,3 +568,11 @@ C. P. FRANCISCO JAVIER BARRIO TERRAZAS
 EL SECRETARIO DE GOBIERNO
 
 LIC. FRANCISCO HUGO GUTIERRREZ DAVILA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE JUNIO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
