@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-la-operadora-municipal-de-estacionamientos-de-juarez-309
 country: "mx"
 rank: "ley"
 publication_date: "1990-06-20"
-last_updated: "1990-06-20"
+last_updated: "2003-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30946&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE LA OPERADORA MUNICIPAL DE ESTACIONAMIENTOS DE JUAREZ
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 20 de junio de 1990.
 
@@ -75,21 +75,27 @@ VI.- Los bienes muebles e inmuebles que se le destinen para su objeto.
 
 Los bienes muebles e inmuebles del Organismo Municipal, son inembargables, inalienables e imprescriptibles.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2003)</small>
+
 ###### ARTÍCULO CUARTO.
 
-La Operadora Municipal de Estacionamientos de Juárez, requerirá de autorización expresa del Ayuntamiento del Municipio de Juárez, para:
+La Operadora Municipal de Estacionamientos de Juárez, regirá su funcionamiento en base a esta Ley, su Reglamento y las disposiciones del Código Municipal para el Estado de Chihuahua, así como los demás ordenamientos estatales que le sean aplicables, y supletoriamente en base al Código Fiscal para el Estado de Chihuahua, el Código Fiscal de la Federación y la Ley Aduanera, en el orden citado, para todo lo no previsto en la legislación estatal, y requerirá de autorización expresa del Ayuntamiento del Municipio de Juárez, para:
 
-I.- Contratar créditos.
+I.- Contratar empréstitos.
 
 II.- Enajenar bienes inmuebles, y
 
 III.- Celebrar contratos de obra y de servicios profesionales.
 
-En los casos de las fracciones primera y segunda de este artículo, se requerirá además, la autorización del Congreso del Estado. En los términos y casos previstos en la fracción XVI del artículo 25 del Código Municipal.
+El Director de Operadora podrá celebrar los actos jurídicos correspondientes, cuando en los casos previstos en la fracción III de este artículo, los contratos en cuestión sean de los que según las leyes no deban sujetarse a licitación pública, o cuando los de prestación de servicios no excedan del monto señalado en la Ley de Obra Pública y Servicios Relacionados con la Misma, para su adjudicación directa.
+
+En los casos de las fracciones primera y segunda de este artículo, se requerirá además la autorización del Congreso del Estado. En los términos y casos previstos en la fracción XVI del artículo 28 del Código Municipal.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2003)</small>
 
 ###### ARTÍCULO QUINTO.
 
-La Administración de la Operadora Municipal de Estacionamientos de Juárez, estará a cargo de un Consejo Directivo y un Director, integrado por 9 (nueve) miembros, de la siguiente manera:
+La Administración de la Operadora Municipal de Estacionamientos de Juárez, estará a cargo de un Consejo Directivo y un Director, integrado por nueve miembros, de la siguiente manera:
 
 1.- El Presidente Municipal de Ciudad Juárez, en funciones, quien será el Presidente del Consejo Directivo.
 
@@ -101,7 +107,7 @@ La Administración de la Operadora Municipal de Estacionamientos de Juárez, est
 
 5.- El Presidente de la Cámara Nacional de Comercio y Servicios Turísticos de Ciudad Juárez.
 
-6.- El Presidente del Centro Bancario de Ciudad Juárez.
+6.- Un regidor designado por el Ayuntamiento del Municipio de Juárez.
 
 7.- Un Representante designado por el Comité Organizador Permanente de la Feria Exposición de Ciudad Juárez, A.C., que será el Secretario del Consejo Directivo.
 
@@ -109,7 +115,7 @@ La Administración de la Operadora Municipal de Estacionamientos de Juárez, est
 
 9.- Un Director, designado también por el Presidente Municipal.
 
-De los anteriores Miembros del Consejo Directivo, el Representante del Consejo de Planeación, el Secretario, el Vocal Tesorero y el Director, durarán en su cargo 2 (dos) años, al término de los cuales se designarán todo el tiempo que determine el Presidente Municipal, pudiendo también ser ratificados. Sin embargo, en todo momento, serán removibles por quienes les hayan designado.
+De los anteriores Miembros del Consejo Directivo, el Representante del Consejo de Planeación, el Secretario, el Vocal Tesorero y el Director, durarán en su cargo todo el tiempo que determine el Presidente Municipal, pudiendo también ser ratificados. Sin embargo, en todo momento, serán removibles por quienes les hayan designado.
 
 Los cargos de todos los miembros del Consejo Directivo serán de carácter honorario, salvo el del Director cuyo cargo, además será de tiempo completo.
 
@@ -173,9 +179,11 @@ El Director, el Representante del Consejo de Planeación, el Secretario y el Voc
 
 A dichas sesiones podrá asistir cualquier otro Miembro del Consejo Directivo que lo desee.
 
-ARTÍCULO DECIMOPRIMERO.- El Director tendrá la representación del Organismo y gozará de un poder general, para pleitos y cobranzas y actos de administración, con la amplitud de facultades que señalan los primeros dos párrafos del artículo 2453 del Código Civil del Estado de Chihuahua.
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2003)</small>
 
-El Administrador, que al efecto designe el Consejo Directivo, tendrá Poder General para pleitos y cobranzas, con la misma amplitud que señalan los preceptos en cuestión, pudiendo ejercitarlo ante las Juntas de Conciliación y Arbitraje y toda clase de autoridades del trabajo, así como ante las autoridades Fiscales, Federales, Estatales o Municipales, ante el Instituto Mexicano del Seguro Social y ante el Instituto del Fondo Nacional para Vivienda de los Trabajadores.
+ARTÍCULO DECIMOPRIMERO.- El Director tendrá la representación del Organismo y gozará de un poder general para pleitos y cobranzas y actos de administración, con la amplitud de facultades que señalan los primeros dos párrafos del artículo 2453 del Código Civil del Estado de Chihuahua, así como las atribuciones indicadas por el artículo 21 de la Ley de Entidades Paraestatales del Estado de Chihuahua.
+
+El Administrador, que al efecto designe el Consejo Directivo, tendrá Poder General para Pleitos y Cobranzas, con la misma amplitud que señalan los preceptos en cuestión, pudiendo ejercitarlo ante las Juntas de Conciliación y Arbitraje y toda clase de autoridades del trabajo, así como ante las autoridades Fiscales, Federales, Estatales o Municipales, y ante el Instituto del Fondo Nacional para Vivienda de los Trabajadores.
 
 El Director y el Administrador que se designen serán considerados representantes del patrón, para todos los efectos a que se refiere el artículo 11 de la Ley Federal del Trabajo, pudiendo comparecer a las audiencias de conciliación.
 
@@ -197,7 +205,9 @@ El personal del Organismo no será considerado personal al servicio del Municipi
 
 ARTÍCULO DECIMOCUARTO.- Estará estrictamente prohibido al Consejo Directivo y al Personal Contratado, realizar trabajos o actividades ajenos a los fines del organismo.
 
-ARTÍCULO DECIMOQUINTO.- Los Ingresos del Organismo, derivados de cualquier fuente se destinarán exclusivamente a cubrir el costo y administración del Organismo, sin que por ningún motivo el Estado o los Municipios puedan disponer de estos ingresos, salvo que existieran excedentes y la Ley de Ingresos del Municipio de Juárez ordene su transferencia para destinarse a la ejecución de obras específicas que evidente beneficio colectivo.
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2003)</small>
+
+ARTÍCULO DECIMOQUINTO.- Los Ingresos del Organismo, derivados de cualquier fuente, se destinarán exclusivamente a cubrir el costo y administración del Organismo, sin que por ningún motivo el Estado o los Municipios puedan disponer de estos ingresos, que deben destinarse únicamente al objeto de la citada descentralizada.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -228,3 +238,11 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintinueve días del mes de marzo de mil novecientos noventa.
 
 El Gobernador Constitucional del Estado LIC. FERNANDO BAEZA MELÉNDEZ. El Secretario de Gobierno. LIC. MARTHA I. LARA ALATORRE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE ABRIL DE 2003.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
