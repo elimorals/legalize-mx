@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-instituto-campechano-3928"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1965-08-31"
-last_updated: "1981-03-24"
+last_updated: "1986-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY ORGANICA DEL INSTITUTO CAMPECHANO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 1986.
+
+REPUBLICADO, P.O. 15 DE SEPTIEMBRE DE 1986.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 31 de agosto de 1965
 
@@ -53,7 +55,9 @@ El Instituto Campechano es una institución pública, dotada de plena capacidad 
 
 El Instituto Campechano tiene facultad:
 
-I.- Para expedir certificados de estudios, diplomas a las personas que hayan concluido los estudios de secundaria o adquirido los conocimientos necesarios para el ejercido de un arte u oficio, y diplomas honoríficos;
+(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADA, P.O. 15 DE SEPTIEMBRE DE 1986)
+
+I.- Para expedir certificados de estudios, diplomas, títulos, según su caso a las personas que hayan concluido sus estudios de Secundaria, Preparatoria, Normal, Educación Preescolar, Licenciatura o adquirido los conocimientos necesarios para el ejercido de un arte u oficio, y diplomas honoríficos;
 
 II.- Para revalidar estudios correspondientes a los grados que imparte, y
 
@@ -79,6 +83,22 @@ IV.- Escuela de Artes y Oficios;
 
 V.- Escuela Normal Superior.
 
+(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADA, P.O. 15 DE SEPTIEMBRE DE 1986)
+
+VI.- Escuela Preparatoria;
+
+(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADA, P.O. 15 DE SEPTIEMBRE DE 1986)
+
+VII.- Escuela de Turismo;
+
+(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADA, P.O. 15 DE SEPTIEMBRE DE 1986)
+
+VIII.- Escuela de Periodismo y Ciencias de la Comunicación;
+
+(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADA, P.O. 15 DE SEPTIEMBRE DE 1986)
+
+IX.- Escuela de Trabajo Social.
+
 Independientemente de los planteles mencionados, el Instituto Campechano, por acuerdo de su Consejo General, podrá crear otras o liquidar cualquiera de ellas, en función de las necesidades vinculadas a los servicios educativos que presta a la comunidad.
 
 ###### Artículo 6o.
@@ -91,13 +111,23 @@ Son autoridades del Instituto Campechano, las siguientes:
 
 I.- El Gobernador del Estado;
 
-II.- El Director;
+(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADA, P.O. 15 DE SEPTIEMBRE DE 1986)
+
+II.- El Director General;
 
 III.- El Consejo General;
 
-IV.- Los Directores de las Escuelas;
+(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADA, P.O. 15 DE SEPTIEMBRE DE 1986)
 
-V.- Los otros funcionarios a quienes concede autoridad esta Ley.
+IV.- Los Secretarios Generales A y B;
+
+(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADA, P.O. 15 DE SEPTIEMBRE DE 1986)
+
+V.- Los Directores;
+
+(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADA, P.O. 15 DE SEPTIEMBRE DE 1986)
+
+VI.- Los otros funcionarios a quienes conceda autoridad esta Ley en función a las necesidades de la Institución.
 
 ###### Artículo 8o.
 
@@ -179,7 +209,9 @@ Cuando por causa justificada tuviese que separarse de su cargo el Director por m
 
 El Director General del Instituto durará tres años en el ejercicio de su encargo a partir de la fecha de su designación por el Gobernador del Estado; y si, transcurrido su término, no se nombra a quien haya de sustituirlo, dentro del plazo de un mes después de finalizado su ejercicio, se considerará prorrogado éste por un segundo período de tres años. En cualquier caso, se nombrará nuevo Director General para reemplazar a quien haya ejercido el cargo por seis años.
 
-En caso de falta absoluta del Director General, por fallecimiento o por renuncia, abandono o remoción del cargo, el Gobernador del Estado nombrará al nuevo titular.
+(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADO, P.O. 15 DE SEPTIEMBRE DE 1986)
+
+En caso de falta absoluta del Director General, por fallecimiento, renuncia, abandono o remoción del cargo, ocupará su lugar el Decano de la Institución mientras el Gobernador del Estado procede a nombrar al nuevo titular.
 
 > <small>(REFORMADO, P.O. 24 DE MARZO DE 1981)</small>
 
@@ -189,19 +221,37 @@ El Consejo General estará integrado:
 
 I.- Por el Director General;
 
-II.- Por el Secretario General, que fungirá como Secretario del Consejo General;
+(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADA, P.O. 15 DE SEPTIEMBRE DE 1986)
 
-III.- Por el Tesorero;
+II.- Por el Secretario General "A" que fungirá como Secretario del consejo general;
 
-IV.- Por los Directores de las Escuelas;
+(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADA, P.O. 15 DE SEPTIEMBRE DE 1986)
 
-V.- Por un representante profesor de las escuelas;
+III.- Por el Secretario General "B";
 
-VI.- Por un representante empleado de los trabajadores administrativos y manuales;
+(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADA, P.O. 15 DE SEPTIEMBRE DE 1986)
 
-VII.- Por un representante alumno de las Escuelas;
+IV.- Por el Director de Finanzas;
 
-VIII.- Eventualmente, cuando las circunstancias lo ameriten, por un representante de los padres de familia.
+(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADA, P.O. 15 DE SEPTIEMBRE DE 1986)
+
+V.- Por los Directores;
+
+(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADA, P.O. 15 DE SEPTIEMBRE DE 1986)
+
+VI.- Por un representante profesor de las escuelas;
+
+(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADA, P.O. 15 DE SEPTIEMBRE DE 1986)
+
+VII.- Por un representante empleado de los trabajadores;
+
+(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADA, P.O. 15 DE SEPTIEMBRE DE 1986)
+
+VIII.- Por un representante alumno de las Escuelas;
+
+(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADA, P.O. 15 DE SEPTIEMBRE DE 1986)
+
+IX.- Eventualmente cuando las circunstancias lo ameriten, por un representante de los padres de familia.
 
 > <small>(REFORMADO, P.O. 24 DE MARZO DE 1981)</small>
 
@@ -315,19 +365,23 @@ Para ser consejero representante de los alumnos se requiere:
 
 I.- Ser estudiante numerario en alguna de las escuelas del Instituto;
 
-II.- Haber obtenido en el año anterior un promedio de calificaciones mínimo de 8;
+(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADA, P.O. 15 DE SEPTIEMBRE DE 1986)
+
+II.- Haber obtenido en el año inmediato anterior, un promedio de calificaciones mínimo de 9 (nueve);
 
 III.- No haber cometido faltas graves contra la disciplina del Instituto que hubieren sido sancionadas.
 
-> <small>(REFORMADO, P.O. 24 DE MARZO DE 1981)</small>
+(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADO, P.O. 15 DE SEPTIEMBRE DE 1986)
 
 ###### Artículo 28.
 
-El Secretario General del Instituto Campechano será designado por el Gobernador del Estado y actuará también como Secretario del Consejo General.
+Tanto el Secretario General "A", como el Secretario General "B" del Instituto Campechano, serán designados por el Gobernador del Estado.
+
+(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADO, P.O. 15 DE SEPTIEMBRE DE 1986)
 
 ###### Artículo 29.
 
-Para ser Secretario del Instituto Campechano, se requiere:
+Para ser Secretario General "A" y "B", se requiere:
 
 I.- Ser mayor de 25 años de edad en el momento de la designación;
 
@@ -335,41 +389,65 @@ II.- Poseer título profesional expedido por autoridad o corporación legalmente
 
 III.- Ser de costumbres honestas.
 
+(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADO, P.O. 15 DE SEPTIEMBRE DE 1986)
+
 ###### Artículo 30.
 
-Son atribuciones del Secretario:
+Los Secretarios Generales "A" y "B" del Instituto Campechano tendrán las siguientes funciones y atribuciones:
 
-I.- Colaborar con el Director del Instituto en los asuntos de carácter docente, de orientación y de difusión de la cultura;
+I.- El Secretario General "A"
 
-II.- Firmar en unión del Director del Instituto los certificados, diplomas y documentación y correspondencia oficial;
+a).- Actuará como Secretario del Consejo General;
 
-III.- Levantar y autorizar las actas de las sesiones del Consejo General;
+b).- Colaborará con el director General del Instituto Campechano en los asuntos de carácter docente, de orientación y de difusión de la cultura;
 
-IV.- Firmar por sí, sólo la correspondencia oficial de mero trámite;
+c).- Firmar en unión del Director General los certificados diplomas, títulos y demás documentación de carácter oficial;
 
-V.- Las demás inherentes a su cargo que deriven de esta Ley, de los acuerdos del Consejo General y de los reglamentos.
+d).- Levantar y autorizar las actas de las sesiones del Consejo General;
+
+e).- Firmar por sí, sólo la correspondencia de mero trámite;
+
+f).- Coordinar las tareas académicas de las escuelas del Instituto Campechano;
+
+g).- Las demás inherentes al cargo que deriven de esta Ley, de los acuerdos del Consejo General y de los reglamentos;
+
+II.- El Secretario General B:
+
+a).- Será el encargado de la coordinación administrativa;
+
+b).- Coordinará las labores de las bibliotecas, librería y del personal administrativo y manual de esta Institución;
+
+c).- Firmará en unión del Director General la documentación de carácter administrativo;
+
+d).- Firmar por sí, la correspondencia de mero trámite;
+
+e).- Las demás inherentes al cargo que se deriven de esta ley, de los acuerdos del Consejo General y de los reglamentos.
 
 ###### Artículo 31.
 
 Colaborarán con el Secretario los empleados que sean necesarios.
 
-> <small>(REFORMADO, P.O. 24 DE MARZO DE 1981)</small>
+(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADO, P.O. 15 DE SEPTIEMBRE DE 1986)
 
 ###### Artículo 32.
 
-El Secretario General será suplido en sus faltas, que no excedan de diez días, por la persona que designe el Director General del Instituto; por mayor tiempo y hasta por treinta días, lo suplirá en su ausencia la persona que designe el Consejo General con el carácter de interino. Para separarse de su cargo hasta por sesenta días, solicitará del Gobernador del Estado la licencia correspondiente, y será suplido durante el tiempo que dure ésta por la persona que, con el carácter de Secretario General interino, designe el propio Gobernador del Estado.
+El Secretario General A será suplido por el Secretario General B y viceversa, en sus faltas hasta por 30 días. Para separarse de su cargo hasta por 60 días, solicitarán del Gobernador del Estado la licencia correspondiente, y serán suplidos durante el tiempo que dure ésta, por la persona que, con carácter de Secretario General Interino, designe el propio Gobernador del Estado.
 
 ###### Artículo 33.
 
 En caso de falta absoluta del Secretario, por fallecimiento o por renuncia, abandono o remoción del cargo, el Gobernador del Estado nombrará al nuevo titular.
 
+(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADO, P.O. 15 DE SEPTIEMBRE DE 1986)
+
 ###### Artículo 34.
 
-El Tesorero será designado por el Gobernador del Estado.
+El Director de Finanzas será designado por el Gobernador del Estado.
+
+(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADO, P.O. 15 DE SEPTIEMBRE DE 1986)
 
 ###### Artículo 35.
 
-Para ser Tesorero del Instituto se requiere:
+Para ser Director de Finanzas del Instituto Campechano se requiere:
 
 I.- Ser mayor de 25 años;
 
@@ -379,9 +457,11 @@ III.- Otorgar caución suficiente para el manejo de los fondos del Instituto;
 
 IV.- Ser de costumbres honestas.
 
+(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADO, P.O. 15 DE SEPTIEMBRE DE 1986)
+
 ###### Artículo 36.
 
-Son obligaciones del Tesorero del Instituto, las siguientes:
+Son obligaciones del Director de Finanzas del Instituto Campechano las siguientes:
 
 I.- Tener bajo su cuidado y responsabilidad los fondos del Instituto, los que manejará bajo la vigilancia oficial;
 
@@ -401,15 +481,17 @@ V.- Informar el Gobernador del Estado, al Consejo General y al Director General 
 
 VI.- Consultar con el Director General del Instituto acerca de los cambios que se hagan en la organización del trabajo contable; someter a su aprobación o, en su caso, darle conocimiento de las medidas que adopte para la recaudación de cuotas, derechos e ingresos en general, así como para la buena marcha de la Tesorería; y recabar necesariamente su visto bueno para efectuar cualquier pago o gasto.
 
+(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADO, P.O. 15 DE SEPTIEMBRE DE 1986)
+
 ###### Artículo 37.
 
-Colaborarán con el Tesorero los empleados que sean necesarios.
+Colaborarán con el Director de Finanzas los empleados que sean necesarios.
 
-> <small>(REFORMADO, P.O. 24 DE MARZO DE 1981)</small>
+(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADO, P.O. 15 DE SEPTIEMBRE DE 1986)
 
 ###### Artículo 38.
 
-Sin embargo, si la separación no excede de quince días, será el Director General del Instituto, con la correspondiente comunicación al Consejo General, quien la conceda.
+El Director de Finanzas podrá separarse de su cargo hasta por 15 días con autorización del Director General, con la correspondiente comunicación al Consejo General; si la separación es por mayor tiempo, habrá de solicitar la licencia respectiva al Gobernador del Estado, quien dispondrá lo conveniente en beneficio de los intereses del Instituto.
 
 ###### Artículo 39.
 
@@ -419,33 +501,41 @@ En caso de falta absoluta del Tesorero, por fallecimiento o por renuncia, abando
 
 El personal de las escuelas del Instituto se compondrá de un Director, un Secretario y los profesores y empleados administrativos que requieran las necesidades del servicio.
 
+(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADO, P.O. 15 DE SEPTIEMBRE DE 1986)
+
 ###### Artículo 41.
 
-Los Directores de las escuelas serán designados por el Gobernador del Estado.
+Los Directores serán designados por el Gobernador del Estado.
+
+(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADO, P.O. 15 DE SEPTIEMBRE DE 1986)
 
 ###### Artículo 42.
 
-Para ser Director de una escuela, deberán reunirse los siguientes requisitos:
+Para ser Director, deberán reunirse los siguientes requisitos:
 
 I.- Ser ciudadano mexicano y mayor de veinticinco años de edad;
 
 II.- Tener título profesional. En casos justificados, el Gobernador del Estado podrá dispensar este requisito en la Escuela de Artes y Oficios;
 
-III.- Haberse distinguido en la labor docente;
+(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADA, P.O. 15 DE SEPTIEMBRE DE 1986)
+
+III.- Haberse distinguido en la labor docente o administrativa;
 
 IV.- Llevar una vida honorable.
 
+(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADO, P.O. 15 DE SEPTIEMBRE DE 1986)
+
 ###### Artículo 43.
 
-Los directores de las escuelas serán suplidos en sus faltas que no excedan de treinta días, por las personas que designe el Consejo General con el carácter de interinos. Por mayor tiempo y hasta por sesenta días, para separarse de sus cargos solicitarán del Gobernador del Estado la licencia correspondiente, y serán suplidos durante el tiempo que dure ésta por la persona que con el carácter de Director Interino designe el propio Gobernador del Estado.
+Los Directores serán suplidos en sus faltas que no excedan de treinta días, por las personas que designe el Consejo General con el carácter de interinos. Por mayor tiempo y hasta por sesenta días, para separarse de sus cargos solicitarán del Gobernador del Estado la licencia correspondiente, y serán suplidos durante el tiempo que dure ésta por la persona que con el carácter de Director Interino designe el propio Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 24 DE MARZO DE 1981)</small>
+(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADO, P.O. 15 DE SEPTIEMBRE DE 1986)
 
 ###### Artículo 44.
 
-El Director de una Escuela durará en su encargo dos años a partir de la fecha de su designación por el Gobernador del Estado, y podrá ser confirmado, luego de transcurrido el período de su ejercicio, de manera expresa o tácita para continuar desempeñando el cargo por dos años más. En todo caso, el Director de una escuela no durará más de cuatro años en su encargo.
+Los Directores durarán en su encargo dos años a partir de la fecha de su designación por el Gobernador del Estado y podrá ser confirmado, luego de transcurrido el período de su ejercicio, de manera expresa o tácita para continuar desempeñando el cargo por dos años más. En todo caso, los Directores no durarán más de cuatro años en su encargo.
 
-En caso de falta absoluta del Director de una escuela, por renuncia, abandono o remoción del cargo, el Gobernador del Estado nombrará al nuevo titular.
+En caso de falta absoluta de algún Director, por renuncia, abandono o remoción del cargo, el Gobernador del Estado nombrará al nuevo titular.
 
 ###### Artículo 45.
 
@@ -499,7 +589,9 @@ En cada escuela se establecerá un Consejo Técnico integrado por el Director, u
 
 Para los fines estimativos del aprovechamiento en las escuelas del Instituto se establecerán los siguientes medios:
 
-I.- En la Escuela Secundaria (Diurna y Nocturna):
+(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADA, P.O. 15 DE SEPTIEMBRE DE 1986)
+
+I.- En las Escuelas Secundarias (Diurna y Nocturna) y la Escuela Preparatoria:
 
 a).- Pruebas bimestrales;
 
@@ -509,7 +601,9 @@ c).- Exámenes extraordinarios;
 
 d).- Exámenes a título de suficiencia;
 
-II.- En las Escuelas Normal Superior, Normal de Profesores y de Educación Preescolar:
+(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADA, P.O. 15 DE SEPTIEMBRE DE 1986)
+
+II.- En las Escuelas de Educación Preescolar, Normal Superior, Normal de Profesores, Periodismo y Ciencias de la Comunicación, Trabajo Social, Turismo y Artes y Oficios:
 
 a).- Pruebas bimestrales;
 
@@ -521,7 +615,9 @@ d).- Exámenes extraordinarios;
 
 e).- Exámenes a título de suficiencia;
 
-III.- En la Escuela de Artes y Oficios:
+(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADA, P.O. 15 DE SEPTIEMBRE DE 1986)
+
+III.- En los módulos de la Escuela de Artes y Oficios:
 
 Exámenes de capacidad;
 
@@ -704,3 +800,23 @@ Sin perjuicio de lo establecido en el articulado de la Ley, para todos los efect
 ###### ARTICULO SEGUNDO.
 
 Las presentes reformas y adiciones entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 13 DE SEPTIEMBRE DE 1986.
+
+REPUBLICADO, P.O. 15 DE SEPTIEMBRE DE 1986.
+
+###### ARTICULO PRIMERO.
+
+Se abroga el Decreto número 47, de fecha 20 de marzo de 1981, publicado en el Periódico Oficial del Gobierno del Estado número 2930, de fecha 24 del mismo mes y año.
+
+###### ARTICULO SEGUNDO.
+
+Todos los bienes muebles e inmuebles del Instituto Literario y de Estudios Superiores de Campeche pasan a formar parte del patrimonio del Instituto Campechano.
+
+###### ARTICULO TERCERO.
+
+Cuando la Ley Orgánica del Instituto Campechano haga referencia a el Tesorero se entenderá Director de Finanzas del Instituto Campechano.
+
+###### ARTICULO CUARTO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
