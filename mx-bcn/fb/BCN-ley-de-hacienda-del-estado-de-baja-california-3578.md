@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "1973-02-28"
+last_updated: "1973-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 1973.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -1061,6 +1061,10 @@ Este Impuesto se regulará por las disposiciones que al efecto señala la Ley de
 
 Este Impuesto se regulará por las disposiciones que al efecto señala la Ley del Impuesto Sobre Alcoholes y Bebidas Alcohólicas vigente en el Estado.
 
+### CAPITULO XV. Impuesto para la Educación Media y Superior sobre Adquisición de Bienes y Servicios para Consumo
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 1973)</small>
+
 ###### ARTICULO 152.
 
 Son objeto del Impuesto Adicional para la Educación Media y Superior, los Impuestos, derechos y rezagos, de los mismos, que se causan conforme a las Leyes Fiscales del Estado.
@@ -1099,11 +1103,7 @@ VI.- Los ingresos a que se refiere el Artículo 56 de esta Ley;
 
 VII.- Los causantes del impuesto Federal Sobre Ingresos Mercantiles.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE FEBRERO DE 1973)</small>
-
-Impuesto para la Educación Media y Superior sobre la adquisición de Bienes y Servicios para consumo
-
-> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 1973)</small>
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 1973)</small>
 
 ###### ARTICULO 156
 
@@ -1138,6 +1138,12 @@ Impuesto para la Educación Media y Superior sobre la adquisición de Bienes y S
 ###### ARTICULO 156
 
 6.- Los retenedores de este impuesto deberán enterarlo en la Recaudación de Rentas del Estado correspondiente dentro de los días del 1o. al 20 del mes siguiente a aquél en que haya sido retenido mediante la presentación de una declaración en las formas aprobadas por la Secretaría de Finanzas del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 1973)</small>
+
+###### ARTICULO 156
+
+7.- No causarán este Impuesto los causantes del Impuesto Sobre Hospedaje.
 
 ## TITULO III. DERECHOS
 
@@ -1282,3 +1288,7 @@ DECRETO NUMERO 85.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 30 DE ABRIL DE 1973.
+
+UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
