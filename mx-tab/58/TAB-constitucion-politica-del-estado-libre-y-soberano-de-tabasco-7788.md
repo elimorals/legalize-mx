@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1960-06-01"
+last_updated: "1961-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 1960.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 1961.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -281,7 +281,9 @@ I.- Ser ciudadano tabasqueño por nacimiento, o por naturalización en el caso d
 
 II.- Tener veinticinco años de edad el día de la elección.
 
-III.- No ser Ministro de ningún culto.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE MAYO DE 1961)</small>
+
+III.- No ser Ministro de ningún culto, ni dedicarse o haberse dedicado a la elaboración o fabricación de bebidas embriagantes, o a su comercio o venta en expendio o cantina, o en cualquier otra forma o negocio explote el vicio del alcoholismo.
 
 IV.- No estar en el servicio activo del Ejército Federal, Guardia Nacional, Policía o Gendarmería, en el distrito en que se haga la elección, cuando menos noventa días antes de la misma.
 
@@ -759,7 +761,9 @@ I.- Ser ciudadano mexicano por nacimiento y nativo del estado o con vecindad no 
 
 II.- Tener veinticinco años de edad cumplidos el día de la elección.
 
-III.- No ser Ministro de ningún culto.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE MAYO DE 1961)</small>
+
+III.- No ser ministro de ningún culto, ni dedicarse o haberse dedicado a la elaboración o fabricación de bebidas embriagantes, o a su comercio o venta en expendio o cantina, o en cualquier otra forma o negocio explote el vicio del alcoholismo.
 
 > <small>(REFORMADA, P.O. 28 DE MARZO DE 1938)</small>
 
@@ -1572,3 +1576,7 @@ P.O. 1 DE JUNIO DE 1960.
 ###### Art. 1o.
 
 Este decreto comienza a surtir sus efectos legales desde la fecha de su publicación en el Periódico Oficial del Gobierno.
+
+P.O. 17 DE MAYO DE 1961.
+
+UNICO.- Este decreto surte sus efectos legales desde la fecha de su publicación en el Periódico Oficial del Gobierno.
