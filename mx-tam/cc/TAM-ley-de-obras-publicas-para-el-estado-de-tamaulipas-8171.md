@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-obras-publicas-para-el-estado-de-tamaulipas-8171"
 country: "mx"
 rank: "ley"
 publication_date: "1984-11-03"
-last_updated: "1994-02-16"
+last_updated: "2001-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8171&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE OBRAS PUBLICAS PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE FEBRERO DEL 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DEL 2001.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, 3 de noviembre de 1984.
 
@@ -47,7 +47,9 @@ La presente Ley es de orden público e interés social y tiene por objeto regula
 
 I.- El Gobierno del Estado por conducto de las dependencias y entidades de la Administración Pública Estatal competentes;
 
-II.- Los Ayuntamientos de los Municipios, a través de sus organismos o empresas paramunicipales;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2001)</small>
+
+II.- Los Ayuntamientos de los Municipios, por conducto de sus dependencias o de sus entidades.
 
 ###### ARTICULO 2.
 
@@ -61,9 +63,9 @@ I.- DEPENDENCIAS: Las señaladas por el Artículo 21 de la Ley Orgánica de la A
 
 II.- ENTIDADES: Las mencionadas en el Artículo 34 de la Ley Orgánica de la Administración Pública del Estado;
 
-> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 1994)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2001)</small>
 
-III.- LA SECRETARIA: La Secretaría de Obras y Servicios Públicos;
+III.- LA SECRETARIA: La Secretaría de Desarrollo Urbano y Ecología;
 
 IV.- OBRA PUBLICA: Todo trabajo que tenga por objeto crear, construir, conservar, demoler o modificar bienes inmuebles por su naturaleza a disposición de la Ley, quedan comprendidos:
 
@@ -74,6 +76,10 @@ b).- La construcción, instalación, conservación, mantenimiento, reparación y
 c).- Todos aquellos de naturaleza análoga.
 
 Los bienes muebles que deban incorporarse, adherirse o destinarse a un inmueble necesario para la realización o complementación de las obras públicas se regirá por las disposiciones de esta Ley, sin perjuicio de que su adquisición se regule por la Ley respectiva.
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2001)</small>
+
+V.- LA CONTRALORÍA: La Contraloría Gubernamental.
 
 ###### ARTICULO 3.
 
@@ -89,9 +95,11 @@ La Secretaría queda facultada para interpretar las disposiciones de esta Ley, p
 
 Los Ayuntamientos aplicarán esta Ley en sus respectivos Municipios observando lo dispuesto en el Código Municipal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 5.
 
-La ejecución de las obras públicas que realicen el Gobierno del Estado y los Municipios con cargo total o parcial a fondos aportados por la Federación, estará sujeta a las disposiciones de la Ley de Obras Públicas de la Federación y en lo conducente a lo ordenado por esta Ley, así como a lo pactado en los Convenios y Acuerdos de Coordinación que se celebren.
+La ejecución de las obras públicas que realicen el Gobierno del Estado y los Municipios con cargo total o parcial a fondos aportados por la Federación, estará sujeta a las disposiciones de la Ley de Obras y Servicios de la Federación y en lo conducente a lo ordenado por esta ley, así como a lo pactado en los Convenios y Acuerdos de Coordinación que se celebren.
 
 En lo que corresponde a la ejecución de obras públicas que realicen los Municipios con cargo total o parcial a fondos aportados por el Gobierno del Estado, se sujetará a lo dispuesto por esta Ley y lo previsto en los Convenios y Acuerdos de Coordinación que celebren con el Ejecutivo Local.
 
@@ -101,9 +109,11 @@ Cuando por las condiciones especiales de la obra se requiera la intervención de
 
 Previamente a la ejecución de las obras a que se refiere este artículo, se deberán establecer convenios o acuerdos donde se especifiquen los términos para la coordinación de las acciones de las dependencias, entidades y municipios que intervengan.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 7.
 
-Las Dependencias y Entidades a que se refiere el Artículo 1 de esta Ley, deberán formular un inventario de la maquinaria y equipo de construcción a su cuidado o de su propiedad y lo mantendrán actualizado, debiéndolo remitir a la Secretaría.
+Las Dependencias y Entidades del Gobierno del Estado a que se refiere el Artículo 1 de esta ley, deberán formular y mantener un inventario actualizado de la maquinaria y equipo de construcción que estén bajo su cuidado o sean de su propiedad, debiéndolo remitir a la Secretaría.
 
 Asimismo, dichas dependencias y entidades llevarán el catálogo de los estudios y proyectos que realicen sobre la obra pública, los cuales serán concentrados en la Secretaría.
 
@@ -127,7 +137,7 @@ III.- Respetar las disposiciones legales y reglamentarias y tomar en consideraci
 
 > <small>(REFORMADA, P.O. 16 DE FEBRERO DE 1994)</small>
 
-IV.- Prever los requerimientos de áreas y predios para la obra pública, debiéndose observar las declaraciones de provisiones usos, reservas y destinos de áreas y predios, obteniéndose la licencia de uso de suelo correspondiente, ante la autoridad competente.
+IV.- Prever los requerimientos de áreas y predios para la obra pública, debiéndose observar las declaraciones de provisiones, usos, reservas y destinos de áreas y predios, obteniéndose la licencia de uso de suelo correspondiente, ante la autoridad competente.
 
 V.- Considerar la disponibilidad de recursos con relación a las necesidades de la obra pública;
 
@@ -193,25 +203,33 @@ En el caso de obras cuya ejecución rebase un ejercicio presupuestal, deberá de
 
 ### CAPITULO III. DEL PADRON DE CONTRATISTAS DE OBRA PUBLICA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE FEBRERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 14.
 
-La Secretaría llevará el padrón de contratistas de obra pública y fijará los criterios y procedimientos para clasificar a las personas inscritas en él, de acuerdo con su capacidad técnica y económica.
+La Contraloría llevará el padrón de contratistas de obra pública y fijará, de acuerdo con su capacidad técnica y económica, los criterios y procedimientos para clasificar a las personas inscritas en él.
 
-Los Ayuntamientos podrán llevar un padrón de contratistas observando lo dispuesto en este capítulo o regirse por el de la Secretaría, para el caso de obras que deban realizarse exclusivamente con recursos municipales.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2001)</small>
+
+Los Ayuntamientos podrán llevar un padrón de contratistas, siempre y cuando se observe lo dispuesto en este capítulo o se rijan por el de la Contraloría, para el caso de obras que deban realizarse exclusivamente con recursos municipales.
 
 Las dependencias, las entidades y los municipios sólo podrán celebrar contratos de obra pública o de servicios relacionados con los mismos, con las personas inscritas en el padrón cuyo registro este vigente.
 
 La clasificación a que se refiere el párrafo primero de este Artículo deberá de considerarse por las dependencias, las entidades y los municipios en la convocatoria y contratación de la obra pública.
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1994)</small>
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2001)</small>
 
-Cuando las personas queden registradas en el Padrón de contratistas de obra pública, la Secretaría, en un término de cinco días hábiles, lo hará del conocimiento de las dependencias, entidades y municipios y dispondrá su publicación en el Periódico Oficial del Estado.
+Tratándose de obras que deban de llevarse a cabo con la participación de recursos exclusivamente municipales, los Ayuntamientos podrán llevar un padrón de contratistas, en el que se observarán las disposiciones de este capítulo, o en su caso las que señala el capítulo relativo a la Contraloría.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2001)</small>
+
+Cuando las personas queden registradas en el padrón de contratistas de obra pública, la Contraloría, en un término de cinco días hábiles, lo hará del conocimiento de las dependencias, entidades y municipios y dispondrá su publicación en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 15.
 
-Las personas interesadas en inscribirse en el padrón de contratistas de obra pública, deberán solicitarlo por escrito ante la Secretaría acompañando, según su naturaleza jurídica y características, la siguiente información y documentos:
+Las personas interesadas en inscribirse en el padrón de contratistas de obra pública, deberán solicitarlo por escrito ante la Contraloría acompañando, según su naturaleza jurídica y características, la siguiente información y documentos:
 
 I.- Datos generales de la interesada;
 
@@ -235,11 +253,29 @@ VIII.- Cédula profesional de su responsable técnico;
 
 IX.- Registro Patronal en el Instituto Mexicano del Seguro Social;
 
-X.- Registro Patronal en el Instituto del Fondo Nacional de la Vivienda para los Trabajadores; y
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2001)</small>
 
-XI.- Los demás documentos e información que la Secretaría considere pertinentes.
+X.- Registro Patronal en el Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
 
-La Secretaría podrá verificar en cualquier tiempo la información a que se refiere este artículo.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2001)</small>
+
+XI.- Ultima declaración del Impuesto Sobre la Renta;
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2001)</small>
+
+XII.- Comprobante del pago de los derechos que establezca la ley respectiva;
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2001)</small>
+
+XIII.- Domicilio para oír y recibir notificaciones en la capital del Estado; y
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2001)</small>
+
+XIV.- Los demás documentos o información que la Contraloría considere pertinentes.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2001)</small>
+
+La Contraloría podrá verificar en cualquier tiempo, la información a que se refiere este artículo y fijar nuevos requisitos en adición a los ya establecidos; asimismo, podrá emitir lineamientos que deberán cumplir los interesados para inscribirse en el padrón de contratistas, los cuales deberán publicarse previamente en el Periódico Oficial del Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE FEBRERO DE 1994)</small>
 
@@ -247,37 +283,57 @@ La Secretaría podrá verificar en cualquier tiempo la información a que se ref
 
 El registro en el padrón de contratistas de obra pública tendrá vigencia por el ejercicio fiscal en que se inscriban.
 
-Los contratistas que tengan interés en continuar inscritos en el padrón de contratistas de obra pública presentará ante la Secretaría dentro de los treinta días hábiles anteriores al vencimiento de su registro su solicitud de revalidación, acompañando la información y documentos que procedan en los términos del artículo anterior.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2001)</small>
+
+Los contratistas que tengan interés en continuar inscritos en el padrón de contratistas de obra pública, presentarán ante la Contraloría, dentro de los treinta días hábiles anteriores al vencimiento de su registro, su solicitud de refrendo, acompañando información y documentos que procedan en los términos del artículo anterior.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 17.
 
-La Secretaría dentro de un término que no exceda de treinta días contados a partir de la fecha de recepción de la solicitud, resolverá sobre la inscripción o revalidación. Transcurrido este plazo sin que haya respuesta se tendrá por registrado al solicitante o por revalidado el registro.
+La Contraloría resolverá las solicitudes de inscripción o refrendo, dentro de un término que no exceda de treinta días contados a partir de la fecha de recepción de la solicitud correspondiente.
+
+En el caso de negativa, se explicarán las razones de la misma y el término con el que cuenta el solicitante para solicitar la devolución de los documentos presentados. Si la solicitud fuera confusa o incompleta, la Contraloría dentro del término señalado en el párrafo anterior, solicitará su aclaración o complementación, lo cual deberá llevarse a cabo en el plazo que ésta establezca.
+
+Si dentro del plazo concedido el contratista no presenta la información solicitada, se le tendrá por desistido de la solicitud sin responsabilidad para la Contraloría.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 18.
 
-La Secretaría está facultada para suspender el registro de los contratistas cuando:
+La Contraloría ésta facultada para suspender el registro de los contratistas cuando:
 
 I.- Se les declare en estado de quiebra o , en su caso, sujetos a concurso de acreedores;
 
 II.- Incurran en cualquier acto u omisión que le sea imputable y que perjudique los intereses de la dependencia, entidad o municipio contratante;
 
-III.- Hayan celebrado contratos en contravención a lo dispuesto por esta Ley por causas que le sean imputables; y
+III.- Hayan celebrado contratos en contravención a lo dispuesto por esta Ley por causas que le sean imputables: y
 
-IV.- Se les declare incapacitados legalmente para contratar.
+IV.- Se les declare incapacitados legalmente para contratar:
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 19.
 
-La Secretaría está facultada para cancelar el registro de los contratistas cuando:
+La Contraloría está facultada para cancelar el registro de los contratistas cuando:
 
-I.- La información que hubiere proporcionado para la inscripción o revalidación resultase falsa, o hayan actuado con dolo o mala fe en una subasta o ejecución de una obra;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2001)</small>
+
+I.- La información que hubieren proporcionado para la inscripción o refrendo resultase falsa, o hayan actuado con dolo o mala fe en un concurso o ejecución de una obra;
 
 II.- No cumplan en sus términos con algún contrato por alguna causa imputables a ellos y perjudique gravemente los intereses de la dependencia, entidad o municipio contratante, o el interés general; y
 
-III.- Se declare su quiebra fraudulenta.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2001)</small>
+
+III.- Quede sujeto a concurso mercantil.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 20.
 
-Las resoluciones que nieguen las solicitudes de inscripción o revalidación, o determinen la suspensión o la cancelación el registro en el padrón de contratistas de obra pública se notificarán personalmente o por correo certificado con acuse de recibo o por telégrafo, en el domicilio que el interesado haya señalado. Contra esas resoluciones el interesado podrá interponer recurso de revocación en los términos de esta ley.
+Las resoluciones que nieguen las solicitudes de inscripción o refrendo, o determinen la suspensión o la cancelación del registro en el padrón de contratistas de obra pública, se notificarán personalmente por correo certificado con acuse de recibo o por telégrafo, en el domicilio que el interesado haya señalado.
+
+Las resoluciones señaladas en el párrafo anterior, podrán ser combatidas directamente por el interesado, mediante la interposición del recurso de revocación que esta misma ley señala.
 
 ### CAPITULO IV. DE LOS SERVICIOS RELACIONADOS CON LA OBRA PUBLICA
 
@@ -311,7 +367,7 @@ Previamente a la adjudicación de la obra o al inicio de la misma en los casos d
 
 A efecto a que se esté en posibilidades de contratar y ejecutar obra pública se requiere:
 
-I.- Que la obra esté incluída en el programa de inversión autorizada.
+I.- Que la obra esté incluída en el programa de inversión autorizada;
 
 > <small>(REFORMADA, P.O. 16 DE FEBRERO DE 1994)</small>
 
@@ -353,15 +409,15 @@ V.- El lugar, fecha y hora en que se celebrará el acto de apertura de proposici
 
 > <small>(REFORMADA, P.O. 16 DE FEBRERO DE 1994)</small>
 
-VI.- Los criterios y mecanismos conforme a los cuales se decidirá la adjudicación;
+VI.- Los criterios y mecanismos conforme a los cuales se decidirá la adjudicación.
 
 > <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 1994)</small>
 
 VII.- La información sobre los anticipos.
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1994)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2001)</small>
 
-En el ejercicio de sus atribuciones, la Secretaría de la Contraloría Estatal deberá intervenir en todo el proceso de licitación, adjudicación y ejecución de la obra.
+En el ejercicio de sus atribuciones, la Contraloría deberá intervenir en todo el proceso de licitación, adjudicación y ejecución de la obra.
 
 > <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1994)</small>
 
@@ -389,11 +445,11 @@ Los municipios observarán lo dispuesto en este artículo, en lo conducente, suj
 
 Los interesados deberán garantizar la seriedad de las proposiciones en los procedimientos de adjudicación, el cumplimiento de los contratos y la correcta inversión en la obra de los anticipos que, en su caso, reciban.
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1994)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 31.
 
-Las garantías que deban otorgar los contratistas se constituirán a favor de la Secretaría de Hacienda del Estado o de la Tesorería Municipal respectiva, según corresponda.
+Las garantías que deban otorgar los contratistas se constituirán a favor de la Secretaría de Finanzas, o de la Tesorería Municipal respectiva, según corresponda.
 
 > <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1994)</small>
 
@@ -435,7 +491,9 @@ I.- Aquellas en cuyas empresas participe el funcionario que deba decidir directa
 
 II.- Los contratistas que por causas imputables a ellos mismos se encuentran en situación de mora, respecto de la ejecución de otra u otras obras públicas que tengan contratadas, y
 
-III.- Las demás que por cualquier causa se encuentren impedidos para ello por disposición de la Ley.
+(REFORMADO, P.O. 11 DE OCTUBRE DE 2001
+
+III.- Las demás que por cualquier causa se encuentren impedidas para ello por disposición de la ley, o cuando a criterio de la Contraloría hayan incumplido obligaciones derivadas de contratos celebrados en el marco de esta ley.
 
 Lo establecido en este artículo se aplicará también a los contratos de servicios relacionados con la obra pública.
 
@@ -467,9 +525,13 @@ La contratante podrá dentro del programa de inversión aprobado, bajo su respon
 
 Si las modificaciones exceden del porcentaje indicado o varían sustancialmente el proyecto, se deberá celebrar, por una sola vez, un convenio adicional entre las partes respecto de las nuevas condiciones en los términos del artículo 24 de esta Ley, las que no podrán en modo alguno afectar las que se refieren a la naturaleza y características esenciales de la obra objeto del contrato original, ni convenirse para eludir en cualquier forma el cumplimiento de la Ley.
 
-> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 1994)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2001)</small>
 
-El titular de la dependencia, entidad o municipio, informará de lo anterior a la Secretaría de la Contraloría Estatal en un plazo de diez días hábiles contados a partir de la fecha en que se hubiere formalizado la modificación.
+El titular de la dependencia, entidad o municipio, informará de lo anterior a la Contraloría, en un plazo de diez días hábiles contados a partir de la fecha en que se hubiere formalizado la modificación.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2001)</small>
+
+Cuando se trate de obras que se ejecuten con recursos estrictamente municipales, las disposiciones señaladas en el párrafo anterior, deberán ser comunicadas al órgano de control del municipio.
 
 > <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1994)</small>
 
@@ -535,9 +597,11 @@ La ejecución de obras por administración directa no podrá realizarse por otra
 
 En la ejecución de estas obras son aplicables, en lo conducente, las disposiciones contenidas en los artículos 37,38,42,43,48 y 53.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 48.
 
-La dependencia o entidad deberá enviar a la Secretaría de Servicios Administrativos copia de los títulos de propiedad si los hubiere y los datos sobre localización y construcción de las obras públicas, a efecto de que se incluyan en los catálogos e inventarios de los bienes y recursos del Estado y, en su caso, para su inscripción en el Registro Público de la Propiedad del Estado.
+La dependencia o entidad estatal deberá enviar a la Secretaría de Administración, copia de los títulos de propiedad, si los hubiere, y los datos sobre localización y construcción de las obras públicas, a efecto de que se incluyan en los catálogos e inventarios de los bienes y recursos del Estado y, en su caso, para su inscripción en el Registro Público de la Propiedad del Estado.
 
 ###### ARTICULO 49.
 
@@ -563,9 +627,9 @@ I.- Cuando existan condiciones o circunstancias extraordinarias o imprevisibles;
 
 II.- Cuando peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona o región del Estado, como consecuencia de desastres producidos por fenómenos naturales o por casos fortuitos o de fuerza mayor. En estos casos las dependencias, entidades o municipios se coordinarán, según proceda, con las dependencias competentes;
 
-> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 1994)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2001)</small>
 
-III.- Cuando la dependencia, entidad o municipio hubiera rescindido el contrato respectivo. En estos casos la dependencia, entidad o municipio, verificará previamente, conforme al criterio de adjudicación que establece el segundo párrafo del Artículo 34, si existe una proposición que resulte aceptable, en cuyo caso, el contrato se celebrará con el contratista respectivo. La contratante, en un plazo que no exceda de diez días hábiles, contados a partir de la fecha de inicio de los trabajos, deberá informar de estos a la Secretaría de la Contraloría Estatal;
+III.- Cuando la dependencia, entidad estatal o municipal hubiere rescindido el contrato respectivo. En estos casos, la dependencia, entidad o municipio, verificará previamente, conforme el criterio de adjudicación que establece el segundo párrafo del Artículo 34, si existe una proposición que resulte aceptable, en cuyo caso, el contrato se celebrará con el contratista respectivo. La contratante, en un plazo que no exceda de diez días hábiles, contados a partir de la fecha de inicio de los trabajos, deberá informar de estos a la Contraloría;
 
 IV.- Cuando se trate de trabajos cuya ejecución requiera de la aplicación de sistemas y procedimientos de tecnología avanzada;
 
@@ -583,11 +647,11 @@ Para los casos previstos en las fracciones anteriores se convocará a la o las p
 
 Las dependencias, entidades y municipios conservarán en forma ordenada y sistemática toda la información y documentación comprobatoria del gasto relacionado con las obras que realicen o contraten, cuando menos por un lapso de cinco años, contados a partir de la fecha de su recepción.
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1994)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 54.
 
-La Secretaría y la Secretaría de la Contraloría Estatal establecerán los procedimientos de información que se requieran para el seguimiento y control del gasto que se realice por concepto de adquisiciones de materiales, equipo y maquinaria o cualquier otro accesorio relacionado con la obra pública.
+La Secretaría y la Contraloría establecerán los procedimientos de información que se requieran para el seguimiento y control del gasto que se realice por concepto de adquisiciones de materiales, equipo y maquinaria o cualquier otro accesorio relacionado con la obra pública.
 
 > <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1994)</small>
 
@@ -605,9 +669,9 @@ Las autoridades competentes, en el ejercicio de sus facultades, podrán verifica
 
 Los contratistas con quienes se celebre contrato de obra pública y de servicios relacionados con la misma cubrirán el cinco al millar sobre el importe de cada una de las estimaciones de trabajo, como derechos por los servicios de supervisión y control de la obra.
 
-> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 1994)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2001)</small>
 
-La Secretaría de Hacienda, al hacer el pago de las estimaciones de obra, retendrá el importe de los derechos a que se refiere el párrafo anterior; en su caso, igual obligación tendrán las Tesorerías Municipales respectivas, quienes concentrarán en la Secretaría de Hacienda los importes correspondientes, dentro de los primeros diez días hábiles de cada mes.
+La Secretaría de Finanzas, al hacer el pago de las estimaciones de obra, retendrá el importe de los derechos a que se refiere el párrafo anterior; la misma obligación tendrán las Tesorerías Municipales respectivas, quienes concentrarán en la Secretaría de Finanzas los importes correspondientes, dentro de los primeros diez días hábiles de cada mes.
 
 > <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1994)</small>
 
@@ -707,15 +771,11 @@ VII.- La Secretaría o el Ayuntamiento acordarán lo que proceda sobre la admisi
 
 VIII.- Vencido el plazo para la rendición de las pruebas, la Secretaría o el Ayuntamiento, dictará resolución en un término que no excederá de quince días hábiles.
 
+> <small>(REFORMADO, P.O. 11 OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 68.
 
-Contra la resolución que cancele o suspenda el registro en el Padrón de Contratistas de Obras Públicas podrá solicitarse la suspensión del acto impugnado, conforme a las siguientes bases:
-
-I.- Será solicitada en el mismo escrito en el que se interponga el recurso;
-
-II.- Dentro de los diez días hábiles siguientes, la Secretaría o el Ayuntamiento correspondiente, según sea el caso, señalará la garantía y el monto por el que ésta deba otorgarse; y
-
-III.- Otorgada la garantía se suspenderá la aplicación de la resolución impugnada.
+Durante el tiempo en que se substancie el procedimiento para la suspensión o cancelación del registro en el padrón de contratistas, y aquel en el que, en su caso, se trámite el recurso de revocación, el contratista no podrá participar en concursos, ni celebrar contratos para la ejecución de las obras que regula esta ley, ni para la prestación de servicios relacionados con las mismas.
 
 ## TRANSITORIOS
 
@@ -754,3 +814,13 @@ Para la asesoría y consulta en la aplicación de esta Ley y su Reglamento, el E
 ###### ARTICULO CUARTO.
 
 En lo no previsto por la Ley de Obras Públicas para el Estado de Tamaulipas, se aplicarán supletoriamente los Códigos Civil y de Procedimientos Civiles para el Estado de Tamaulipas.
+
+P.O. 11 DE OCTUBRE DE 2001
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Padrón de Contratistas de Obras Públicas y la documentación existente en la Secretaría de Desarrollo Urbano y Ecología, deberán ser entregados a la contraloría, en un término no mayor de treinta días naturales, contados a partir de la entrada en vigor del presente Decreto.
