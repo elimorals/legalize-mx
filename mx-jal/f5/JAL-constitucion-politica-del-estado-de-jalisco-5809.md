@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2001-06-07"
+last_updated: "2001-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 2001.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -1001,7 +1001,9 @@ A la iniciativa de Presupuesto de Egresos del Estado que presente el titular del
 
 En ningún caso el presupuesto del Poder Judicial podrá ser inferior al ejercido el año inmediato anterior, actualizado con base en la cifra oficial de inflación que publique el Banco de México.
 
-La competencia del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo y del Tribunal Electoral, su funcionamiento en pleno y salas; la competencia y funcionamiento de los juzgados de primera instancia, menores y de paz, así como de los jurados, se regirá por lo que dispongan las leyes, de conformidad con las bases que esta Constitución establece.
+(REFORMADO, P.O. 17 DE JULIO DE 2001) (F. DE E., P.O. 5 DE DICIEMBRE DE 2002)
+
+La competencia del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo y del Tribunal Electoral, su funcionamiento en pleno o salas; la competencia y funcionamiento de los juzgados de primera instancia, menores y de paz, así como de los jurados, se regirá por lo que dispongan las leyes, de conformidad con las bases que esta Constitución establece.
 
 La ley fijará los términos en que sea obligatoria la jurisprudencia que establezcan los tribunales del Poder Judicial, funcionando en pleno o en salas, sobre interpretación de leyes de su competencia, así como los requisitos para su interpretación o modificación, sin que se contravenga la jurisprudencia que establezcan los tribunales del Poder Judicial de la Federación.
 
@@ -1155,17 +1157,31 @@ El Tribunal Electoral tendrá a su cargo la resolución de toda controversia que
 
 En materia electoral la interposición de los recursos no producirá en ningún caso efectos suspensivos del acto o resolución impugnado.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Art. 69.
 
-El Tribunal Electoral, para el ejercicio de sus funciones contará con un cuerpo de magistrados y secretarios, los cuales serán independientes y sólo responderán al mandato de la ley.
+El Tribunal Electoral es el órgano jurisdiccional competente para resolver las controversias en materia electoral, el cual guardará autonomía en sus funciones e independencia en sus decisiones, de conformidad a los principios establecidos en el artículo 116 fracción IV de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Para el ejercicio de sus funciones el Tribunal Electoral contará con un cuerpo de magistrados y secretarios, los cuales sólo responderán al mandato de la ley.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 Los magistrados electorales deberán satisfacer los requisitos que señale la ley, que no podrán ser menores a los que establece esta Constitución para ser Magistrado del Supremo Tribunal de Justicia del Estado.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+
 Los magistrados electorales serán electos por el voto de cuando menos las dos terceras partes de los miembros presentes del Congreso del Estado, con base en la propuesta de candidatos que realicen los grupos parlamentarios, escuchando a los partidos políticos, instituciones de educación superior, colegios de abogados y demás organizaciones sociales y civiles, en la forma y términos que determine la ley.
 
-Los magistrados electorales durarán en el ejercicio de su encargo cuatro años, contados a partir de la fecha en que rindan la protesta de ley, al término de los cuales podrán ser reelectos y, si lo fueren, continuarán en esa función por cuatro años más, durante los cuales sólo podrán ser privados de su empleo en los términos que establezcan esta Constitución y las leyes, en materia de responsabilidad de los servidores públicos.
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Los magistrados electorales durarán en el ejercicio de su encargo cuatro años, contados a partir de la fecha en que rindan la protesta de ley.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Durante su ejercicio los magistrados electorales sólo podrán ser privados de su empleo en los términos que establezcan esta Constitución y las leyes en materia de responsabilidad de los servidores públicos.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1193,15 +1209,13 @@ VIII. Los conflictos o diferencias laborales entre el Consejo Electoral del Esta
 
 IX. Las demás que señale la ley.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Art. 71.
 
-Para el ejercicio de sus atribuciones el Tribunal Electoral funcionará con una Sala Superior y salas de Primera Instancia, en los términos que determine la Ley Orgánica del Poder Judicial. Las sesiones de resolución de las salas serán públicas.
+Para el ejercicio de sus atribuciones el Tribunal Electoral se integrará por cinco magistrados, de entre los cuales será electo, por ellos mismos, el Presidente del Tribunal Electoral. Las sesiones de resolución de las salas serán públicas.
 
-La Sala Superior se integrará por cinco magistrados, de entre los que será electo, por ellos mismos, el Presidente del Tribunal Electoral, de conformidad con lo que establezca la ley. Las salas de Primera Instancia se integrarán por tres magistrados cada una.
-
-Una vez decretada la conclusión de algún proceso electoral, se instalará la sala permanente, que se integrará por tres magistrados y de acuerdo a las disposiciones de las leyes aplicables.
+Una vez decretada la conclusión de algún proceso electoral, el Tribunal Electoral se constituirá en sala permanente, la que se integrará por tres de sus magistrados. Los dos magistrados restantes se incorporarán a la Dirección del Instituto de Investigaciones y Capacitación Electoral, de acuerdo a las disposiciones de las leyes aplicables.
 
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -2268,3 +2282,19 @@ P.O. 7 DE JUNIO DE 2001.
 PRIMERO.- Envíese copia certificada del presente dictamen de decreto a los 124 ayuntamientos del Estado, con el diario de debates, en el que consten las discusiones que hubiere provocado, para que con fundamento en lo establecido por el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda.
 
 SEGUNDO.- El presente decreto entrará en vigor el primero de marzo del 2001 previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 17 DE JULIO DE 2001.
+
+PRIMERO.- El presente decreto entrará en vigor a (sic) día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Los magistrados al Tribunal Electoral deberán ser nombrados a más tardar el día 22 de julio del año 2001.
+
+Una vez que hubieren tomado protesta los magistrados electorales, deberán nombrar de inmediato al Presidente del Tribunal Electoral, integrar la Sala Permanente del Tribunal Electoral, constituir el Instituto de Investigaciones y Capacitación Electoral y designar a los Directores de dicha Institución.
+
+TERCERO.- El Congreso del Estado, deberá reformar la Legislación Estatal en materia Electoral, en un plazo de 90 días a partir de la vigencia del presente decreto.
+
+CUARTO.- El Segundo párrafo del artículo 78, de la Ley Orgánica del Poder Judicial, sólo será aplicable a los magistrados electorales que se elijan con posterioridad a la publicación del presente decreto.
+
+QUINTO.- Se deberán realizar las adecuaciones presupuestales necesarias de acuerdo con las leyes aplicables acorde a nueva estructura del Tribunal Electoral.
+
+SEXTO.- Remítase copia certificada del expediente que se integre con motivo de la presente iniciativa a los 124 Ayuntamientos de la Entidad para los efectos de lo dispuesto por el artículo 117 de la Constitución Política del Estado de Jalisco.
