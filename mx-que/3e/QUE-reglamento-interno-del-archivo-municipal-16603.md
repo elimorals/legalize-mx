@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interno-del-archivo-municipal-16603"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-06-16"
-last_updated: "2000-06-16"
+last_updated: "2004-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16603&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2004.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 16 de junio de 2000.
 
@@ -191,19 +191,19 @@ X. Está prohibido hablar en voz alta.
 
 La Comisión Dictaminadora de Documentos es el órgano técnico auxiliar cuya función consiste en el estudio y análisis del acervo documental que se requiera depurar.
 
-###### Artículo 14.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2004)</small>
 
-La Comisión Dictaminadora de Depuración de Documentos se integra de la siguiente manera:
+Artículo 17 (sic).- La Comisión Dictaminadora de Depuración de Documentos se integra de la siguiente manera:
 
-Secretario del H. Ayuntamiento.- Presidente
+I. El Secretario del H. Ayuntamiento, como Presidente;
 
-Director del Archivo Municipal.- Secretario
+II. El Director del Archivo Municipal, como Secretario;
 
-Regidores Integrantes de la Comisión de Educación y Cultura.- Vocales
+III. Los Regidores Integrantes de la Comisión de Educación y Cultura, como Vocales;
 
-Titular de la Dependencia Generadora.- Vocal
+IV. Titular de la Dependencia Generadora, como Vocal;
 
-Titular de la Contraloría Interna Municipal.- Vocal
+V. Secretario de la Contraloría Municipal, como Vocal.
 
 ###### Artículo 15.
 
@@ -294,3 +294,13 @@ PRESIDENTE MUNICIPAL DE QUERÉTARO.
 LIC. RICARDO DEL RÍO TREJO,
 
 SECRETARIO DEL AYUNTAMIENTO DE QUERÉTARO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 10 DE SEPTIEMBRE DE 2004.
+
+PRIMERO. Publíquese la presente reforma por una sola ocasión en la Gaceta Municipal.
+
+SEGUNDO. La presente reforma entrará en vigor el día siguiente al de su publicación en la Gaceta Municipal.
+
+TERCERO. Comuníquese al Titular de la Secretaría del Ayuntamiento, al Director del Archivo Municipal, al Titular de la Secretaría de la Contraloría Municipal.
