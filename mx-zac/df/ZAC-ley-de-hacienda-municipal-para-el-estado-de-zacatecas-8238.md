@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-municipal-para-el-estado-de-zacatecas-8238"
 country: "mx"
 rank: "ley"
 publication_date: "1984-12-29"
-last_updated: "1993-12-29"
+last_updated: "2000-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sabado 29 de diciembre de 1984.
 
@@ -249,7 +249,7 @@ V. Fusión de Sociedades.
 
 VI. La dación de pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de Asociaciones o Sociedades Civiles o Mercantiles.
 
-VII. Constitución de usufructo, transmisión de ésto o de la nuda propiedad, así como la extinción del usufructo temporal.
+VII. Constitución de usufructo, transmisión de esto o de la nuda propiedad, así como la extinción del usufructo temporal.
 
 VIII. Prescripción adquisitiva.
 
@@ -365,7 +365,7 @@ Los bienes inmuebles o derechos relacionados con los mismos, con los que se real
 
 Para el pago de este impuesto, tratándose de escrituras públicas, los Notarios, Jueces, Corredores Públicos y demás fedatarios que por disposición legal tengan funciones notariales, deberán presentar un aviso ante la Oficina Recaudadora correspondiente, de los actos o contratos en que intervengan, gravados por este impuesto, aún cuando no haya impuesto por enterar. Este aviso contendrá:
 
-I. Nombre y domicilio delos contratantes.
+I. Nombre y domicilio de los contratantes.
 
 II. Naturaleza del Contrato.
 
@@ -495,33 +495,187 @@ Son responsables solidarios en el pago de este impuesto los propietarios o posee
 
 Están exentos de pago de este impuesto de rifas, loterías y sorteos que se autoricen para obras o actividades de beneficio social; a los objetivos del promotoriado voluntario acreditado o con fines mutualistas de organizaciones similares, así como a los partidos en los términos de la Ley Federal de Organizaciones Políticas y Procesos Electorales.
 
-### CAPITULO UNICO
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+CAPITULO
+
+IMPUESTO SOBRE DIVERSIONES Y ESPECTACULOS PUBLICOS
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTICULO 58], P.O. 30 DE DICIEMBRE DE 2000)
+
+#### SECCION PRIMERA. DEL OBJETO
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 58.
 
-Los derechos por la prestación de servicios públicos se causan en el momento en que el particular solicite la prestación del servicio o en el momento en que provoque por parte del Municipio, el gasto que deba ser remunerado por aquel, salvo que la Ley disponga cosa distinta.
+Es objeto de este impuesto el ingreso que se obtenga por la explotación de los siguientes espectáculos: teatro, circo, lucha, box, taurinos, deportivos, carpas, variedades, conciertos, audiciones musicales y exhibiciones de cualquier naturaleza en las que se cobre cuota de admisión.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+#### SECCION SEGUNDA. DEL SUJETO
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 59.
 
-El importe de los derechos se determinará de acuerdo con las tasas que señale la Ley de Ingresos y será cubierto en la Tesorería Municipal.
+Son sujetos de este impuesto las personas físicas, morales o unidades económicas que reciban los ingresos a que se refiere el articulo anterior.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+#### SECCION TERCERA. DE LA BASE
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 60.
 
-La Dependencia o servidor público que preste el servicio por el cual se pague el derecho procederá a la realización del mismo al presentarle el interesado el recibo oficial que acredite su pago en la Tesorería Municipal.
+La base para el pago de este impuesto serán los ingresos que se generen por el boleto o cuota de entrada a las diversiones o espectáculos públicos.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+#### SECCION CUARTA. DE LA TASA
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 61.
 
-El Servidor Público que preste algún servicio por el que se cause un derecho, será solidariamente responsable de su pago, sin perjuicio de las sanciones que procedan.
+El impuesto se calculará aplicando a la base determinada, la tasa conforme a la Ley de Ingresos Municipal correspondiente.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+#### SECCION QUINTA. DEL PAGO
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 62.
 
-La Federación, el Estado, los Organismos Públicos de Seguridad Social, de Beneficencia Pública y los Partidos Políticos en los términos de la Ley Federal de Organizaciones políticas procesos electorales podrán estar exentos del pago de derechos mediante acuerdo, en cada caso, del ayuntamiento.
+El pago de este impuesto deberá cubrirse en la Tesorería Municipal correspondiente al lugar donde el espectáculo se realice, dentro de los siguientes términos:
+
+I. Tratándose de contribuyentes establecidos, mensualmente dentro de los primeros 20 días del mes siguiente a aquel en que se hubiese causado; y
+
+II. Tratándose de contribuyentes eventuales, el mismo día que se cause el impuesto.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+#### SECCION SEXTA. DE LAS OBLIGACIONES
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 63.
 
-Las certificaciones que soliciten las Autoridades para surtir efectos probatorios en juicios penales o amparos, y las que expidan las Autoridades Judiciales con el mismo fin, están exentas de pago de derechos.
+Los sujetos de este impuesto están obligados a:
+
+I. Presentar en la Tesorería Municipal, para su resello, el boletaje y el programa que corresponda a cada función, cuando menos un día antes de que se verifiquen los espectáculos:
+
+II. No vender boletos en tanto no estén resellados por las autoridades fiscales;
+
+III. Permitir a los interventores que designe la Tesorería Municipal, la verificación y determinación de pago del impuesto, dando las facilidades que requieran para su cumplimiento;
+
+IV. En general adoptar la (sic) medidas de control que para la correcta determinación de este impuesto, establezca la Tesorería Municipal.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 64.
+
+Los contribuyentes establecidos además están obligados a:
+
+I. Empadronarse ante la Tesorería Municipal, dentro de los 20 días siguientes a la fecha de iniciación de sus operaciones, haciendo uso de las formas oficialmente aprobadas, con los datos que en las mismas exijan;
+
+II. Presentar ante la Tesorería Municipal el aviso respectivo en los casos de cambio de nombre, de domicilio o clausura, dentro del mismo plazo establecido en la fracción anterior.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 65.
+
+Los contribuyentes eventuales además están obligados a:
+
+I. Dar aviso de iniciación y terminación de actividades a la Tesorería Municipal cuando menos un día antes del inicio de las mismas;
+
+II. Previamente a la iniciación de actividades, otorgar garantía a satisfacción de la Tesorería Municipal en los términos del Código Fiscal Municipal.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 66.
+
+A los contribuyentes que no garanticen el impuesto conforme a lo estipulado en la fracción II del artículo anterior, la Tesorería Municipal podrá suspender el espectáculo hasta en tanto se cumpla con la garantía, pudiéndose auxiliar de la fuerza pública.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+#### SECCION SEPTIMA. DE LA RESPONSABILIDAD SOLIDARIA
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 67.
+
+Son sujetos responsables solidariamente del pago de este impuesto:
+
+I. Los propietarios o poseedores de inmuebles en los que habitualmente o en forma ocasional y por cualquier acto o contrato, se realicen espectáculos de los señalados en el artículo 8, si no se da aviso de la celebración del contrato.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+#### SECCION OCTAVA. DE LAS EXENCIONES
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 68.
+
+Están exentas de este impuesto las personas morales o unidades económicas que se dediquen a obras de beneficio social y que celebren espectáculos gravados por este impuesto y cuyos ingresos se destinen a obras de beneficio social, mediante acuerdo expreso de la Tesorería Municipal siempre y cuando cumpla con los siguientes requisitos:
+
+I. Solicitar por escrito a la Tesorería Municipal, el otorgamiento de dicha exención; y
+
+II. Acreditar que la institución realizará directamente el espectáculo o diversión pública por la que se solicita la exención, acreditándolo con:
+
+a) El contrato de arrendamiento del local en el cual se presentará el espectáculo o diversión pública; y
+
+b) El contrato de prestación de servicios que celebre la institución con el grupo, conjunto o artistas para la presentación del espectáculo o diversión pública.
+
+Y los partidos políticos en los términos de la legislación electoral federal y local.
+
+## TITULO SEGUNDO. DE LOS DERECHOS
+
+### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTICULO 64], P.O. 30 DE DICIEMBRE DE 2000)
+
+###### ARTICULO 69.
+
+Los derechos por la prestación de servicios públicos se causan en el momento en que el particular solicite la prestación del servicio o en el momento en que provoque por parte del Municipio, el gasto que deba ser remunerado por aquel, salvo que la Ley disponga cosa distinta.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 59], P.O. 30 DE DICIEMBRE DE 2000)
+
+###### ARTICULO 70.
+
+El importe de los derechos se determinará de acuerdo con las tasas que señale la Ley de Ingresos y será cubierto en la Tesorería Municipal.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 60], P.O. 30 DE DICIEMBRE DE 2000)
+
+###### ARTICULO 71.
+
+La Dependencia o servidor público que preste el servicio por el cual se pague el derecho procederá a la realización del mismo al presentarle el interesado el recibo oficial que acredite su pago en la Tesorería Municipal.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 61], P.O. 30 DE DICIEMBRE DE 2000)
+
+###### ARTICULO 72.
+
+El Servidor Público que preste algún servicio por el que se cause un derecho, será solidariamente responsable de su pago, sin perjuicio de las sanciones que procedan.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 62], P.O. 30 DE DICIEMBRE DE 2000)
+
+###### ARTICULO 73.
+
+La Federación, el Estado, los Organismos Públicos de Seguridad Social, de Beneficencia Pública y los Partidos Políticos en los términos de la Ley Federal de Organizaciones políticas procesos electorales podrán estar exentos del pago de derechos mediante acuerdo, en cada caso, del ayuntamiento.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 63], P.O. 30 DE DICIEMBRE DE 2000)
+
+###### ARTICULO 74.
+
+Las certificaciones que soliciten las Autoridades para surtir efectos probatorios en juicios penales o amparos, y las que expidan las Autoridades Judiciales con el mismo fin, están exentas de pago de derechos.
+
+## TITULO TERCERO. DE LOS PRODUCTOS
+
+### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTICULO 66], P.O. 30 DE DICIEMBRE DE 2000)
+
+###### ARTICULO 75.
 
 Son productos los ingresos que obtiene el Municipio por las actividades que desarrolle en sus funciones de derecho privado, así como por el uso, explotación o aprovechamientos de los bienes que constituyen su patrimonio, tales como:
 
@@ -535,11 +689,17 @@ IV. Fianzas.
 
 V. Los demás que señale la Ley de Ingresos.
 
-###### ARTICULO 65.
+(REUBICADO [N. DE E. ANTES ARTICULO 65], P.O. 30 DE DICIEMBRE DE 2000)
+
+###### ARTICULO 76.
 
 Los ingresos por productos se determinarán en los actos, convenios, contratos o concesiones respectivos y en lo dispuesto en la Ley de Ingresos, según el caso.
 
-###### ARTICULO 66.
+## TITULO CUARTO. DE LOS APROVECHAMIENTOS
+
+### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTICULO 67], P.O. 30 DE DICIEMBRE DE 2000)
+
+###### ARTICULO 77.
 
 Son aprovechamientos los ingresos que obtenga el Municipio por los siguientes conceptos:
 
@@ -571,23 +731,11 @@ XIII. Aportaciones para obras y servicios públicos,
 
 XIV. Otros no especificados.
 
-###### ARTICULO 67.
+## TITULO QUINTO. DE LAS PARTICIPACIONES
+
+###### ARTICULO 78.
 
 Son ingresos por este concepto los que obtenga el Municipio por este concepto de participaciones en los fondos establecidos en la Ley de Coordinación Fiscal, así como por lo estipulado en la Ley General de Coordinación del Estado de Zacatecas.
-
-## TITULO SEGUNDO. DE LOS DERECHOS
-
-### CAPITULO UNICO
-
-## TITULO TERCERO. DE LOS PRODUCTOS
-
-### CAPITULO UNICO
-
-## TITULO CUARTO. DE LOS APROVECHAMIENTOS
-
-### CAPITULO UNICO
-
-## TITULO QUINTO. DE LAS PARTICIPACIONES
 
 ## TRANSITORIOS
 
@@ -652,3 +800,7 @@ Durante del año de 1994, el impuesto a que se refiere el artículo 28 de la Ley
 ###### ARTICULO TERCERO.
 
 El presente decreto entrará en vigor el día 1º. de enero de 1994.
+
+P.O. 30 DE DICIEMBRE DE 2000.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
