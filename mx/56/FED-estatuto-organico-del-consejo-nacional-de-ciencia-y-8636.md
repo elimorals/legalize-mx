@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-de-ciencia-y-8636"
 country: "mx"
 rank: "estatuto"
 publication_date: "1994-09-07"
-last_updated: "1994-09-07"
+last_updated: "1995-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8636&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-06-17"
 
 ESTATUTO ORGANICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE MAYO DE 1995.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 7 de septiembre de 1994.
 
@@ -165,29 +165,31 @@ VIII.- Delegaciones Regionales
 
 ### CAPITULO TERCERO. DE LA JUNTA DIRECTIVA
 
+> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 1995)</small>
+
 ###### ARTICULO 4o.
 
-En concordancia con las actuales denominaciones y atribuciones correspondientes a las Secretarías de Estado, previstas en la vigente Ley Orgánica de la Administración Pública Federal, son miembros permanentes de la Junta Directiva los siguientes:
+En concordancia con las actuales denominaciones y atribuciones correspondientes a las Secretarías de Estado, previstas en la vigente Ley Orgánica de la Administración Pública Federal, así como en la propia ley de creación del Consejo Nacional de Ciencia y Tecnología, son miembros permanentes de la Junta Directiva los titulares de las siguientes dependencias y entidades:
 
-El Secretario de Relaciones Exteriores;
+Secretaría de Relaciones Exteriores;
 
-El Secretario de Hacienda y Crédito Público;
+Secretaría de Hacienda y Crédito Público;
 
-El Secretario de Desarrollo Social;
+Secretaría de Medio Ambiente, Recursos Naturales y Pesca;
 
-El Secretario de Energía, Minas e Industria Paraestatal;
+Secretaría de Energía;
 
-El Secretario de Comercio y Fomento Industrial;
+Secretaría de Comercio y Fomento Industrial;
 
-El Secretario de Agricultura y Recursos Hidráulicos;
+Secretaría de Agricultura, Ganadería y Desarrollo Rural;
 
-El Secretario de Educación Pública;
+Secretaría de Educación Pública;
 
-El Secretario de Salud;
+Secretaría de Salud;
 
-El Rector de la Universidad Nacional Autónoma de México, y
+Universidad Nacional Autónoma de México, y
 
-El Director General del Instituto Politécnico Nacional.
+El Instituto Politécnico Nacional.
 
 ###### ARTICULO 5o.
 
@@ -922,3 +924,11 @@ TERCERO.- Con el propósito de dar cumplimiento a lo establecido por el artícul
 CUARTO.- Se derogan todas las disposiciones internas de carácter administrativo que se opongan al presente ordenamiento.
 
 Aprobado por la Junta Directiva del Consejo Nacional de Ciencia y Tecnología en su Vigésima Octava sesión celebrada el día 17 del mes de junio del año de 1994.- El Secretario de la Junta Directiva, Jorge Romero Reyes.- Rúbrica.- El Secretario Técnico, Carlos Mancera Corcuera.- Rúbrica.- El Prosecretario, Ignacio Villagordoa Mesa.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 31 DE MAYO DE 1995.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Acuerdo.
