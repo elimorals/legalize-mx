@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "1993-09-17"
+last_updated: "1993-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 1993.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -843,7 +843,9 @@ Este beneficio no procederá, cuando se abandone a la víctima o la responsable 
 
 Obligaciones y consecuencias respecto de la libertad previa.- Cuando el Ministerio Público deje en libertad previa al indiciado, le prevendrá para que comparezca cuantas veces sea citado durante la averiguación o el proceso; si no comparece, sin justa causa y comprobada, estando satisfechos los requisitos previstos en el artículo 16 Constitucional, solicitará su aprehensión y se hará efectiva la garantía otorgada.
 
-La garantía se cancelará y en su caso se devolverá por el Ministerio Público, cuando se resuelva definitivamente no ejercer la acción penal.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1993)</small>
+
+La garantía se cancelará y en su caso se devolverá y entregará personalmente al indiciado por el Ministerio Público, cuando se resuelva definitivamente no ejercer la acción penal.
 
 Consignado el caso, la medida cautelar se considerará prorrogada hasta que el Juez resuelva lo conducente respecto a la procedencia de la libertad y el monto de la caución.
 
@@ -939,9 +941,11 @@ II.- Cuando el tercero pida que se le releve de la obligación y presente al inc
 
 Efectos de la revocación y riesgo del fiador.- Al revocar la libertad caucional, el Juzgador mandará reaprehender al inculpado, salvo que éste se haya presentado ante aquél. La caución se hará efectiva en los casos de las fracciones I, II, III y VII del artículo 131, sin que sea necesario requerir al fiador y en su perjuicio.
 
+(ADICIONADO [N. DE E. REFORMADO] PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1993) (F. DE E., P.O. 31 DE DICIEMBRE DE 1993)
+
 ###### Artículo 134.
 
-Devolución o cancelación de la caución.- El Juzgador ordenará la devolución del depósito o mandará cancelar la garantía:
+Devolución o cancelación de la caución.- En todo momento, el Juzgador cuidará que el depósito sea entregado precisamente al inculpado.
 
 I.- Cuando el inculpado se presente voluntariamente ante el Juzgador;
 
@@ -2886,3 +2890,9 @@ P.O. 17 DE SEPTIEMBRE DE 1993.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 10 DE DICIEMBRE DE 1993.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
