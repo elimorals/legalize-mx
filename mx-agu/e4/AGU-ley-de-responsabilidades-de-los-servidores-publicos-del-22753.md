@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidades-de-los-servidores-publicos-del-22753"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-12"
-last_updated: "2001-11-12"
+last_updated: "2003-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2003.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2001.
 
@@ -903,57 +903,65 @@ En estos casos, el nuevo plazo comenzará a contarse a partir de la fecha en que
 
 La Contraloría General del Estado llevará el registro de la situación patrimonial de los servidores públicos de conformidad con esta Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2003)</small>
+
 ###### ARTICULO 109.
 
 Están obligados a presentar declaración de situación patrimonial, bajo protesta de decir verdad, los siguientes servidores públicos:
 
 I.- En el Congreso del Estado: los Diputados, el Contador Mayor de Hacienda, el Secretario General, los Directores Generales y los Jefes de Departamento;
 
-II.- En el Poder Ejecutivo: Todos los servidores públicos, desde el nivel de Jefes de Departamento o equivalente hasta el titular del Poder Ejecutivo del Estado, incluyendo Subcomandantes, Comandantes, Agentes del Ministerio Público, de la Policía Ministerial y Recaudadores de Rentas;
+II.- En el Poder Ejecutivo: todos los servidores públicos, desde el nivel de Jefes de Departamento o equivalente hasta el titular del Poder Ejecutivo del Estado, incluyendo Subcomandantes, Comandantes, Agentes del Ministerio Público, de la Policía Ministerial y Recaudadores de Rentas;
 
 III.- En el Poder Judicial: desde el nivel de Actuario, Jueces Menores de las cabeceras municipales hasta los Magistrados del Poder Judicial;
 
-IV.- En el Instituto Estatal Electoral: Todos los servidores públicos que laboren en el mismo, desde el nivel de jefe de departamento o su equivalente hasta el de Consejero Ciudadano y Presidente;
+IV.- En el Instituto Estatal Electoral: todos los servidores públicos que laboren en el mismo, desde el nivel de Jefe de Departamento o su equivalente hasta el de Consejero Ciudadano y Presidente;
 
 V.- En los Municipios: desde el nivel de Jefes de Departamento o equivalente hasta los Presidentes Municipales incluyéndose Subcomandantes, Comandantes, Síndicos y Regidores e integrantes de los Consejos Municipales.
 
 Esta misma obligación la tendrán los servidores públicos que tengan a su cargo, una o más de las funciones siguientes;
 
-a). Dirección, supervisión, inspección, auditoría, seguridad, vigilancia, custodia, fiscalización, procuración y administración de justicia así como readaptación social;
+a) Procuración y administración de justicia y reeducación social;
 
-b). Representación legal titular delegada para realizar actos de dominio, de administración general o de ejercicio presupuestal;
+b) Representación legal titular delegada para realizar actos de dominio, de administración general o de ejercicio presupuestal;
 
-c). Manejo, recaudación o administración de fondos y recursos federales, estatales o municipales;
+c) Administración de fondos y recursos federales, estatales o municipales;
 
-d). Custodia de bienes y valores;
+d) Custodia de bienes y valores;
 
-e). Atención o resolución de trámites directos con el público para efectuar pagos de cualquier índole para obtener licencias, permisos, concesiones o cualquier otra clase de autorización;
+e) Resolución de trámites directos con el público para efectuar pagos de cualquier índole para obtener licencias, permisos, concesiones o cualquier otra clase de autorización; y
 
-f). Adquisición o comercialización de bienes y servicios; y
-
-g). Efectúen pagos de cualquier índole.
+f) Adquisición o comercialización de bienes y servicios.
 
 Asimismo, deberán presentar declaración de situación patrimonial los demás servidores públicos que determine el Contralor General del Estado mediante disposiciones generales debidamente fundadas y motivadas.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2003)</small>
 
 ###### ARTICULO 110.
 
 La declaración de situación patrimonial deberá ser presentada por los servidores públicos obligados a ello en los siguientes plazos:
 
-I.- Dentro de los treinta días naturales siguientes a la toma de posesión;
+I. Dentro de los treinta días naturales siguientes a la toma de posesión del empleo, cargo o Comisión
 
-II.- Dentro del período comprendido entre el día 1º de enero y 31 de marzo, si entre la fecha de la toma de posesión y el 31 de diciembre hay sesenta días naturales o más; y
+II. Dentro del período comprendido entre el 1° de enero y 31 de marzo, correspondiente al año natural próximo anterior;
 
-III.- Dentro de los treinta días naturales siguientes a la fecha en que se deje de desempeñar el empleo, cargo o comisión.
+III. Dentro del período comprendido entre el día 1° de enero y 31 de marzo, si entre la fecha de la toma de posesión y el 31 de diciembre hay sesenta días naturales o más; y
+
+IV. Dentro de los treinta días naturales siguientes a la fecha en que se deje de desempeñar el empleo, cargo o comisión, por el período comprendido del 1° de enero próximo anterior y a la fecha de su conclusión.
 
 El servidor público que en su declaración faltare a la verdad, será suspendido y cuando por su importancia lo amerite, destituido o inhabilitado de tres meses a tres años. En los casos que goce de fuero constitucional, será el Congreso del Estado quien determine la procedencia del Juicio Político.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2003)</small>
+
 ###### ARTICULO 111.
 
-Si transcurridos los plazos a que hacen referencia las fracciones I y II del artículo anterior, no se hubiere presentado la declaración correspondiente, sin causa justificada, se aplicará al servidor público, previa instancia sumaria que conceda garantía de audiencia al omiso extemporáneo, una sanción pecuniaria consistente en quince días y hasta seis meses del total del sueldo base presupuestal que tenga asignado, previniéndosele en el caso de la fracción I, que de no rendir su declaración dentro de los quince días naturales siguientes a la fecha de la notificación del citatorio, será separado de su cargo. La Contraloría General del Estado notificará este hecho al superior jerárquico o a los titulares de las dependencias o entidades.
+Si transcurridos los plazos a que hacen referencia las fracciones I, II y III del artículo anterior, no se hubiere presentado la declaración correspondiente, sin causa justificada, se aplicará al servidor público, previa instancia sumaria que conceda garantía de audiencia al omiso extemporáneo, una sanción pecuniaria consistente en quince días y hasta seis meses del total del sueldo base presupuestal que tenga asignado, previniéndosele en el caso de la fracción I, que de no rendir su declaración dentro de los quince días naturales siguientes a la fecha de la notificación del citatorio, será separado de su cargo. La Contraloría General del Estado notificará este hecho al superior jerárquico o a los titulares de las dependencias o entidades.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2003)</small>
 
 ###### ARTICULO 112.
 
-Si no se presenta la declaración a que se refiere la fracción III del Artículo 110, sin causa justificada, la Contraloría General del Estado inhabilitará al infractor por un año, asimismo, se practicarán las investigaciones necesarias en cuanto a su situación patrimonial y se dará vista al Ministerio Público si se presume la comisión de algún delito, para que se proceda conforme a la legislación penal.
+Si no se presenta la declaración a que se refiere la fracción IV del artículo 110, sin causa justificada, la Contraloría General del Estado inhabilitará al infractor por un año, asimismo, se practicarán las investigaciones necesarias en cuanto a su situación patrimonial y se dará vista al Ministerio Público si se presume la comisión de algún delito, para que se proceda conforme a la legislación penal.
 
 ###### ARTICULO 113.
 
@@ -1044,3 +1052,9 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE AGOSTO DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Estado.
