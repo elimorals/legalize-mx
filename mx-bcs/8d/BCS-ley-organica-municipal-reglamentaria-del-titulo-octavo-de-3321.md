@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-municipal-reglamentaria-del-titulo-octavo-de-3321"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-31"
-last_updated: "1985-07-10"
+last_updated: "1985-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA MUNICIPAL REGLAMENTARIA DEL TITULO OCTAVO DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE DICIEMBRE DE 1985.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 31 de diciembre de 1976.
 
@@ -131,25 +131,29 @@ Cuando se produzca la desaparición de Poderes o la desintegración del Ayuntami
 
 Se considerará desintegrado un Ayuntamiento, cuando, por cualquier causa aunque sea temporal, falten todos los munícipes propietarios y suplentes quedando sin gobierno el Municipio. Si quedan algunos munícipes pero no los suficientes para constituir quórum, se llamará a los suplentes y si aún así tampoco integran mayoría, se estará a lo dispuesto en el artículo anterior.
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1985)</small>
 
 ###### Artículo 16.
 
-Los Ayuntamientos iniciarán sus funciones el día primero de enero siguiente a su elección.
+Los Ayuntamientos iniciarán sus funciones el día 16 de abril siguiente a su elección.
 
-Dentro de los últimos tres días del año de la elección, en Sesión Pública Solemne, en la que el Presidente Municipal en funciones o el Presidente de la Junta de Gobierno Municipal, en sus respectivos casos, rinda el último Informe de Administración, se tomará también la protesta prevista en el Artículo 163 de la Constitución Política del Estado a los funcionarios electos. El Presidente entrante rendirá la protesta de Ley y a continuación la tomará a los demás munícipes que se encuentren presentes.
+Dentro de los días 13, 14 y 15 de abril del año de la elección, en sesión pública solemne, en la que el Presidente Municipal en funciones o el Presidente de la Junta de Gobierno Municipal, en sus respectivos casos, rinda el último informe de su administración, se tomará también la protesta prevista en el artículo 163 de la Constitución Política del Estado a los funcionarios electos. El Presidente Municipal entrante rendirá la protesta de Ley y a continuación la tomará a los demás Munícipes que se encuentren presentes.
 
 ###### Artículo 17.
 
 Concluida la ceremonia del acto formal de instalación, el Presidente, o quien haga sus veces, presidirá la Primera Sesión de Cabildo del nuevo Ayuntamiento, en la que, en su caso se acordará notificar de inmediato a los miembros propietarios electos ausentes para que asuman su cargo dentro de un plazo perentorio de cinco días, apercibidos de que si no se presentan, transcurrido dicho plazo, los suplentes entrarán en ejercicio definitivo de sus funciones.
 
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1985)</small>
+
 ###### Artículo 18.
 
-El ayuntamiento saliente seguirá fungiendo hasta el momento en que, a las nueve horas del día primero de enero, señalado para que el nuevo Ayuntamiento inicie sus funciones, dará posesión de las oficinas municipales a los miembros del entrante, que hubieren rendido la protesta en la sesión solemne establecida en el artículo 13 de esta Ley. Inmediatamente después el nuevo Presidente hará la siguiente declaratoria:
+El Ayuntamiento saliente seguirá fungiendo hasta el momento en que a las 9:00 horas del día 16 de abril, señalado para que el nuevo Ayuntamiento inicie sus funciones, dará posesión de las oficinas municipales a los miembros del entrante que hubieran rendido la protesta en la sesión solemne establecida en el Artículo 16 de esta Ley, inmediatamente después el nuevo Presidente hará la siguiente declaratoria:
 
-"Queda legítimamente instalado el Ayuntamiento del Municipio de ............. que deberá funcionar durante los años de ............ .
+"Queda legítimamente instalado el Ayuntamiento del Municipio de . . . . . . .
 
-A continuación el Ayuntamiento saliente entregará al entrante los fondos municipales mediante el corte de caja respectivo, así como inventarios, cuya verificación podrá hacerse desde luego por los miembros de ambos Ayuntamientos, o dentro los tres días siguientes, si lo acepta el segundo.
+Que deberá funcionar durante el período de . . . . . . . . . . "
+
+A continuación el Ayuntamiento saliente entregará al entrante los fondos municipales mediante el corte de caja respectivo, así como inventarios, cuya verificación pueda hacerse desde luego por los miembros de ambos Ayuntamientos; o dentro de los tres días siguientes, si lo acepta el segundo.
 
 ###### Artículo 19.
 
@@ -357,13 +361,13 @@ XVIII. Proveer lo necesario para que las oficinas de Catastro y Registro Públic
 
 XIX. Las demás disposiciones que les señala esta Ley y cualquier otro ordenamiento en vigor.
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1985)</small>
 
 ###### Artículo 27-A.
 
-Los nombramientos de Delegados deberán hacerse con la participación de los Ciudadanos de las respectivas jurisdicciones, mediante la celebración de plebiscitos y de acuerdo con las normas que establezca la Convocatoria que para tal efecto expida cada Ayuntamiento y que será publicada en la primera quincena del mes de enero del primer año de Gobierno Municipal, a efecto que los plebiscitos se desarrollen en la segunda quincena de ese mismo mes.
+Los nombramientos de Delegados deberán hacerse con la participación de los ciudadanos de las respectivas jurisdicciones, mediante la celebración de plebiscitos y de acuerdo a las normas que establezca la convocatoria que para tal efecto expida el Ayuntamiento y que será publicada en la segunda quincena del mes de abril del primer año de Gobierno Municipal, a efecto de que los plebiscitos se desarrollen en la primera quincena del mes de mayo de ese mismo año.
 
-Dicha convocatoria deberá establecer el número de participantes elegibles, quiénes o que órganos pueden proporcionarlos, requisitos de elegibilidad, calendario de actividades y las demás circunstancias y normas que el Ayuntamiento estime a que debe someterse la elección correspondiente. El Ayuntamiento calificará los plebiscitos celebrados, hará la declaratoria correspondiente y pasará ésta al Presidente Municipal para su ejecución, que surtirá sus efectos a partir del quince de Febrero.
+En dicha convocatoria deberá establecerse el número de participantes elegibles, quiénes o qué órganos pueden proporcionarlos, requisitos de elegibilidad, calendario de actividades y las demás circunstancias y normas que el Ayuntamiento estime a que debe someterse la elección correspondiente. El Ayuntamiento calificará los plebiscitos celebrados, hará la declaratoria correspondiente y pasará ésta al Presidente Municipal para su ejecución, que surtirá sus efectos a partir del día 1o. de junio.
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
@@ -1258,3 +1262,39 @@ B.O. 10 DE JULIO DE 1985.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE DICIEMBRE DE 1985.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Por esta única vez, en la ceremonia en que los Presidentes Municipales rendirán un informe en los últimos tres días de su periodo municipal, rendirán protesta un Concejo Municipal integrado con siete miembros que se encargara provisionalmente de las funciones del Ayuntamiento desde el primero de enero al 15 de abril de 1987. El Concejo será propuesto por el Gobernador al Congreso con base en lo dispuesto por el articulo 144 de la Constitución Política del Estado de Baja California Sur.
+
+###### ARTICULO TERCERO.
+
+El Gobernador propondrá al Congreso del Estado o a la Diputación Permanente, en su caso, a los integrantes de los Concejos Municipales y a sus suplentes.
+
+###### ARTICULO CUARTO.
+
+El Congreso o la Diputación Permanente en su caso, en ejercicio de las facultades que le otorga la Constitución Política del Estado, designara a los integrantes de los Concejos Municipales y a sus suplentes en un termino improrrogable de setenta y dos horas.
+
+Si el Congreso del Estado, o la Diputación Permanente en su caso, no hiciere la designación de algunos de los integrantes propuestos, los Concejos Municipales empezaran a realizar sus funciones con los designados.
+
+En los casos rechazados se comunicara al Ejecutivo dentro del mismo plazo para realizar una nueva propuesta.
+
+El Concejo Municipal, una vez rendida su propuesta, celebrara su primera reunión y elegirá un Presidente y Comisiones.
+
+###### ARTICULO QUINTO.
+
+El Ayuntamiento saliente dará posesión y hará entrega de las oficinas municipales al Concejo Municipal, a las 9:00 horas del día 1o. de enero de 1987.
+
+###### ARTICULO SEXTO.
+
+Por esta única ocasión, los Concejos Municipales rendirán su informe del día 13 al 15 de abril de 1987 y seguirán fungiendo hasta el momento en que, a las nueve horas del día 16 de abril, señalado para que el nuevo ayuntamiento inicie sus funciones y se proceda en los términos del reformado articulo 18 de la Ley Orgánica Municipal, Reglamentaria del Título Octavo de la Constitución Política del Estado de Baja California Sur.
+
+###### ARTICULO SEPTIMO.
+
+Los Delegados Municipales continuaran en su cargo hasta el 15 de febrero de 1987, fecha en que cumplen su gestión en la que fueron electos, debiéndose designar por esta única vez por el Concejo Municipal, delegados municipales, que duraran en su encargo hasta la fecha en que entren en funciones los nuevos delegados electos, en los términos del nuevo texto del articulo 27-A.
