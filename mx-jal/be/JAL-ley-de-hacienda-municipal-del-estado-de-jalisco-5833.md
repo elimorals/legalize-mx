@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2003-12-30"
+last_updated: "2004-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -65,9 +65,9 @@ Son Contribuciones Especiales, las prestaciones que fije la Ley a quienes, indep
 
 Son Derechos, las contraprestaciones establecidas en la Ley, por los servicios que presten los Municipios en sus funciones de derecho público.
 
-###### Art. 6.
+###### Art. 6°.
 
-° Son productos, los ingresos que perciben los Municipios por actividades que no correspondan a sus funciones propias de derecho público; así como por la explotación o venta de sus bienes patrimoniales, de dominio privado.
+Son productos, los ingresos que perciben los Municipios por actividades que no correspondan a sus funciones propias de derecho público; así como por la explotación o venta de sus bienes patrimoniales, de dominio privado.
 
 ###### Art. 7°.
 
@@ -1189,9 +1189,7 @@ XIII. La constitución y transmisión del derecho de superficie;
 
 XIV. (DEROGADA, P.O. 29 DE JUNIO DE 1991)
 
-> <small>(ADICIONADA, P.O. 1 DE ENERO DE 1991)</small>
-
-XIV Bis. La transmisión de bienes y derechos, si por rescisión del contrato vuelven al enajenante después de 60 días de la fecha en que se otorgó éste;
+XIV. bis. (DEROGADA, P.O. 28 DE FEBRERO DE 2004)
 
 XV. Cualquier otro acto o contrato por el que se transmitan bienes inmuebles o derechos sobre los mismos.
 
@@ -1257,19 +1255,19 @@ El pago de este impuesto deberá efectuarse ante la tesorería municipal respect
 
 Para los efectos del pago del impuesto en caso de escrituras, adjudicaciones o contratos que se celebren fuera del Estado, de bienes ubicados en el municipio, el adquirente, dentro del término establecido en el párrafo anterior, dará aviso por escrito, acompañando copia de la adquisición o contrato, a las autoridades fiscales competentes, en cuya jurisdicción se encuentren ubicados los inmuebles.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2004)</small>
 
 ###### Art. 117.
 
 Quedan exentos del pago de este impuesto y en su caso de la responsabilidad solidaria:
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
+I. La Federación, el Estado y sus Municipios, respecto de la adquisición de bienes que se vayan a destinar al dominio público, que sean afectos al pago de este impuesto; salvo que tales bienes se destinen para ser usados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público;
 
-I. La Federación, el Estado y sus Municipios, respecto de la adquisición de bienes que se vayan a destinar al dominio público, que sean afectos al pago de este impuesto; salvo que tales bienes se destinen para ser usados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público; y
+II. Los Estados extranjeros por la adquisición de inmuebles, en caso de reciprocidad;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
+III. La persona a quien por rescisión o cualquier otra ineficacia del contrato que conste en resolución judicial ejecutoriada, le hubieren sido devueltos los bienes o derechos que transmitió; y
 
-II. Los Estados extranjeros por la adquisición de inmuebles, en caso de reciprocidad.
+IV. Cuando por cualquier causa regresen los bienes o derechos al enajenante dentro de los 60 días naturales de la fecha en que se celebró el contrato de transmisión.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
@@ -1951,17 +1949,17 @@ XIII. Otros no especificados.
 
 Quedan comprendidos dentro de esta clasificación los ingresos que obtenga el Municipio por concepto de Participaciones Federales y Estatales, de conformidad a lo dispuesto en las Leyes que las concedan y en los convenios que, en su caso, se celebren o se hayan celebrado.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE AGOSTO DE 1998)</small>
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 1998)</small>
 
 ## TITULO SEXTO. De las Aportaciones Federales para Fines Específicos
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE AGOSTO DE 1998)</small>
 
 ### CAPITULO UNICO
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 1998)</small>
 
 Art. 194 bis. Las aportaciones federales para fines específicos que a través de los diferentes fondos le corresponden al Municipio, se percibirán en los términos que establezcan el Presupuesto de Egresos de la Federación, la Ley de Coordinación Fiscal y los convenios respectivos.
-
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 1998)</small>
 
 # LIBRO TERCERO. De los Ilícitos Fiscales
 
@@ -2358,6 +2356,16 @@ Los estados financieros y demás información financiera y contable que emanen d
 ###### Art. 236.
 
 Para los efectos de esta Ley, incurre en responsabilidad toda persona física o moral que dolosa o culposamente, cause daño o perjuicio a la Hacienda Pública Municipal.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2004)</small>
+
+Art. 236 bis.- Los Ayuntamientos están obligados a conservar la documentación comprobatoria de su contabilidad de archivos físicos por seis años.
+
+El Congreso del Estado, a través de la Auditoría Superior del Estado, podrá autorizar la destrucción de la documentación del primer año de la administración saliente, al inicio de una nueva, siempre y cuando se haya emitido la aprobación de la última cuenta pública anual de la que concluye su ejercicio constitucional.
+
+Al rendir la aprobación de la cuenta anual correspondiente al segundo ejercicio fiscal de la administración en funciones, podrá autorizar la destrucción de la documentación correspondiente al segundo año de la administración anterior, y así sucesivamente para las cuentas anuales subsiguientes.
+
+Se exceptúa de lo dispuesto en este artículo la documentación relativa a los convenios, actos o contratos cuya vigencia y cumplimiento no hubieran concluido, se encuentren en litigio, exista disposición legal expresa para ello o no hubieren prescrito las acciones legales que pudieran ejercitarse derivadas de la celebración de dichos convenios, actos o contratos, en cuyo caso, los plazos empezarán a correr a partir de la fecha de extinción, cumplimiento de las obligaciones establecidas en los documentos respectivos o resolución judicial definitiva.
 
 ###### Art. 237.
 
@@ -3358,3 +3366,15 @@ Los servidores públicos de la Contaduría Mayor de Hacienda pasarán a formar p
 SÉPTIMO. Los asuntos que se encuentren en trámite o en proceso en la Contaduría Mayor de Hacienda al entrar en vigor el presente decreto, continuarán tramitándose, por la Auditoría Superior del Estado en los términos de las disposiciones vigentes antes de la entrada en vigor del presente decreto.
 
 OCTAVO. Dentro del término de noventa días naturales, contados a partir de la entrada en vigor del presente decreto, deberá expedirse el Reglamento Interno de la Auditoría Superior del Estado de Jalisco.
+
+P.O. 28 DE FEBRERO DE 2004.
+
+DECRETO NUMERO 20439.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 28 DE FEBRERO DE 2004.
+
+DECRETO NUMERO 20440.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
