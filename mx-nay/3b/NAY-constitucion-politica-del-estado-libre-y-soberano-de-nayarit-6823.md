@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1980-11-29"
+last_updated: "1981-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1981.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -309,11 +309,11 @@ II. Tener 21 años de edad, cumplidos el día de la elección.
 
 III. Ser originario del Estado o tener residencia efectiva no menor de 5 años inmediatamente anteriores al día de la elección en el Distrito que vaya a representar.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
 ###### Art. 29.
 
-No pueden ser Diputados: El Gobernador del Estado, el Secretario General de Gobierno, los Directores Generales de Gobernación y de Finanzas y Administración, los Magistrados del Supremo Tribunal de Justicia en funciones, el Procurador General de Justicia, los miembros del Ejército Nacional o de las Fuerzas del Estado en servicio activo, los Jueces de Primera Instancia o Menores, los Presidentes Municipales en sus respectivas jurisdicciones, a menos que se separen de su cargo o servicio 90 días ante de la elección.
+No pueden ser Diputados: El Gobernador del Estado, el Secretario General de Gobierno, el Subsecretario General de Gobierno, el Secretario de Finanzas, los Magistrados del Tribunal Superior de Justicia en funciones, el Procurador General de Justicia, los miembros del Ejército Nacional, los Jueces de Primera Instancia o Menores, los Presidentes Municipales en sus respectivas jurisdicciones, a menos que se separen de su cargo o servicio 90 días antes de su elección.
 
 ###### Art. 30.
 
@@ -463,9 +463,9 @@ VII. Dar la resolución correspondiente, aprobando, reformando, o reprobando las
 
 VIII. Convocar a elecciones, hacer el escrutinio de los votos emitidos para Gobernador; calificar dicha elección y declarar electo al que haya tenido mayoría de sufragios válidos.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1945)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
-IX. Aprobar los nombramientos de los Magistrados Propietarios y Suplentes del Supremo Tribunal de Justicia del Estado, que hará el Gobernador en los términos del artículo 83, de esta Constitución. Si el Congreso no resolviere dentro del improrrogable término de tres días, se tendrán por aprobados los nombramientos y en caso de que alguno o algunos de los nombramientos no sean aprobados dentro del citado término, el Gobernador hará un segundo nombramiento que surtirá sus efectos desde luego, con el carácter de provisional y que, será sometido a la aprobación de la Legislatura en el siguiente Periodo Ordinario de Sesiones, en el que si no lo aprueba o nada resuelve, el Magistrado o Magistrados provisionales, continuarán en sus funciones con el carácter de definitivos.
+IX. Aprobar los nombramientos de los Magistrados Propietarios y Suplentes del Tribunal Superior de Justicia del Estado, que hará el Gobernador en los términos del artículo 83 de esta Constitución. Si el Congreso no resolviere dentro del improrrogable término de tres días, se tendrán por aprobados los nombramientos y en caso de que alguno o algunos de los nombramientos no sean aprobados dentro del citado término, el Gobernador hará un segundo nombramiento que surtirá sus efectos desde luego, con el carácter de provisional, y que será sometido a la aprobación de la Legislatura en el siguiente Periodo Ordinario de Sesiones, en el que si lo aprueba o nada resuelve, el Magistrado o Magistrados provisionales, continuarán en sus funciones con el carácter de definitivo.
 
 X. Recibir a los mismos funcionarios, la protesta de guardar y hacer guardar la Constitución General, la Particular del Estado y las leyes que de ambas emanen.
 
@@ -479,11 +479,13 @@ XIII. Elegir quien deba sustituir al Gobernador en sus faltas.
 
 XIV. Autorizar al Ejecutivo para gravar, enajenar y ceder los bienes del Estado, así como contraer obligaciones a nombre del mismo.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
-XV. Declarar a pedimento del Procurador General de Justicia cuando ha lugar a formación de causa contra el Gobernador, los Magistrados del Supremo Tribunal de Justicia y el Secretario General de Gobierno, tanto por delitos de orden común, como por delitos y faltas oficiales, erigiéndose para el caso en Gran Jurado. Tratándose del Procurador General de Justicia, la petición deberá hacerla el Agente del Ministerio Público adscrito a la Procuraduría.
+XV. Declarar a pedimento del Procurador General de Justicia cuando ha lugar a formación de causa contra el Gobernador, los Magistrados del Tribunal Superior de Justicia y el Secretario General de Gobierno, tanto por delitos del orden común, como por delitos y faltas oficiales, erigiéndose para el caso en Gran Jurado. Tratándose del Procurador General de Justicia, la petición deberá hacerla el Agente del Ministerio Público Adscrito a la Procuraduría.
 
-XVI. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 1941)
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 1981)</small>
+
+XVI. Facultar al Ejecutivo del Estado para que constituya Empresas Públicas y Organismos Descentralizados.
 
 XVII. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 1941)
 
@@ -556,6 +558,8 @@ El derecho de iniciar leyes compete:
 I. A los Diputados.
 
 II. Al Gobernador del Estado.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
 III. Al Tribunal Superior de Justicia, solamente en asuntos del orden Judicial.
 
@@ -633,7 +637,9 @@ I. Dictaminar sobre todos los asuntos pendientes al tiempo de receso, y proveer 
 
 II. Nombrar al Gobernador Provisional que deba sustituir al que esté en funciones.
 
-III. Conceder licencias con goce de sueldo o sin él al Gobernador del Estado, a los Diputados, a los Magistrados del Supremo Tribunal, y a los empleados dependientes de la Legislatura.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1981)</small>
+
+III. Conceder licencias con goce de sueldo o sin él al Gobernador del Estado, a los Diputados, a los Magistrados del Tribunal Superior de Justicia y a los Empleados dependientes de la Legislatura.
 
 IV. Remover libremente a los empleados de su Secretaría y Contador Mayor de Hacienda.
 
@@ -665,9 +671,9 @@ I. Ser ciudadano mexicano por nacimiento, hijo de padres mexicanos, nativo del E
 
 II. Tener 30 años cumplidos el día de la elección.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
-III. No ser Secretario General de Gobierno, Magistrado del Supremo Tribunal, Procurador General de Justicia, Juez de Primera Instancia o Presidente Municipal; ni estar en servicio activo en el Ejército Nacional o Fuerzas del Estado, salvo que se hubieren separado de sus cargos o del servicio lo menos 90 días antes de la elección.
+III. No ser Secretario General de Gobierno, Magistrado del Tribunal Superior de Justicia, Procurador General de Justicia, Juez de Primera Instancia o Presidente Municipal; ni estar en servicio activo en el Ejército Nacional, salvo que se hubieren separado de sus cargos o del servicio lo menos 90 días antes de la elección.
 
 > <small>(REFORMADA, P.O. 25 DE AGOSTO DE 1943)</small>
 
@@ -737,9 +743,9 @@ II.- Sancionar, promulgar y ejecutar las Leyes y Decretos dados por el Poder Leg
 
 III.- Iniciar ante la Legislatura, las Leyes y Decretos que juzgue convenientes para el mejoramiento de la administración pública y pedirle que inicie ante el Congreso de la Unión, lo que sea de la competencia Federal.
 
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
-IV.- Presentar a la Legislatura en la primera decena del primer periodo ordinario de sesiones, el Presupuesto del gasto del año siguiente, proponiendo arbitrios para cubrirlo.
+IV.- Presentar a la Legislatura, en la primera decena del mes de Noviembre, el presupuesto de gastos del año siguiente, proponiendo arbitrios para cubrirlo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MARZO DE 1977)</small>
 
@@ -769,9 +775,9 @@ X.- Hacer cumplir los fallos y sentencias de los Tribunales y prestar a éstos e
 
 XI.- Impartir a los Tribunales el auxilio que demanden para el desempeño de sus funciones.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1969)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
-XII.- Nombrar y remover libremente a los Directores Generales, al Procurador General de Justicia y a los demás empleados cuyo nombramiento no esté encomendado a otras autoridades.
+XII.- Nombrar y remover libremente al Secretario General de Gobierno, al Subsecretario General de Gobierno, a los Secretarios de Finanzas, de Programación y Desarrollo, de Fomento Educativo, de Obras y Servicios Públicos, de Agricultura y Ganadería, de Promoción Cultural, al Procurador General de Justicia, al Oficial Mayor y a los demás empleados cuyo nombramiento no esté encomendado a otras Autoridades.
 
 XIII.- Llevar las comunicaciones y relaciones del Estado con el Gobierno General y con los de los otros Estados.
 
@@ -785,7 +791,9 @@ XV.- Castigar corresccionalmente (sic) a los que le falten al respecto o desobed
 
 XVI.- Hacer que las elecciones sean libres e impedir que alguno ejerza presión en ellas.
 
-XVII.- (DEROGADA, P.O. 27 DE NOVIEMBRE DE 1940)
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 1981)</small>
+
+XVII.- Crear Organismos y Empresas Públicas Descentralizadas.
 
 > <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
 
@@ -797,11 +805,11 @@ XX.- Recibir la protesta de todos los funcionarios y empleados de nombramiento d
 
 XXI.- Expedir títulos profesionales previas las aprobaciones correspondientes y con arreglo a las leyes.
 
-XXII.- Organizar y disciplinar la Guardia Nacional y las demás fuerzas del Estado y ejercer, respecto de unas y otras, el mando y sus demás atribuciones que le concede la Constitución General.
+XXII.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 1981)
 
-XXIII.- Poner sobre las armas la Guardia Nacional, con aprobación de la Legislatura o de la Diputación Permanente en los recesos de aquélla.
+XXIII.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 1981)
 
-XXIV.- Disponer de las fuerzas de seguridad pública y movilizar la Guardia Nacional dentro de los límites del Estado, según lo exijan las necesidades públicas; y ordenar que pase la guardia a otros Estados, en los términos que dispone la Constitución General.
+XXIV.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 1981)
 
 > <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
 
@@ -869,11 +877,11 @@ Para el despacho de los negocios oficiales del Poder Ejecutivo, habrá un funcio
 
 Para ser Secretario General de Gobierno se requiere: Ser mexicano por nacimiento, en el ejercicio pleno de sus derechos; ser mayor de 30 años, no ser militar en servicio activo, ni ministro de algún culto religioso.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
 ###### Art. 74.
 
-Los acuerdos, circulares, órdenes y disposiciones que dicte el Gobernador, así como los documentos que suscriba en el ejercicio de sus funciones Constitucionales, deberán ser autorizados por el Secretario General de Gobierno y por el Director General encargado del ramo a que el asunto corresponda, sin cuyo requisito no surtirán efectos legales.
+Los acuerdos, circulares, órdenes y disposiciones que dicte el Gobernador, así como los documentos que suscriba en el ejercicio de sus funciones Constitucionales deberán ser autorizadas por el Secretario General de Gobierno y por el Secretario encargado del Ramo a que el asunto corresponda, sin cuyo requisito no surtirán efectos legales.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
 
@@ -881,23 +889,23 @@ Los acuerdos, circulares, órdenes y disposiciones que dicte el Gobernador, así
 
 El Secretario General de Gobierno es responsable de las disposiciones del Gobernador, que autorice con su firma, cuando fueren contrarias a la Constitución y Leyes del Estado.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
 ###### Art. 76.
 
-Las faltas temporales del Secretario General de Gobierno serán suplidas por el Director General de Gobernación, en cuyo caso tendrá las mismas responsabilidades y prerrogativas que aquél.
+Las faltas temporales del Secretario General de Gobierno serán suplidas por el Subsecretario General de Gobierno, en cuyo caso tendrá las mismas responsabilidades y prerrogativas que aquél.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
 ###### Art. 77.
 
-El Secretario General de Gobierno o el Director General de Administración en su caso, concurrirán a las sesiones del Congreso cuando el Gobernador, conforme a esta Constitución, deba asistir. Los Directores Generales sólo cuando el Gobernador fuere requerido para informar sobre algún asunto encomendado a ellos.
+El Secretario General de Gobierno o el Subsecretario General de Gobierno en su caso, concurrirán a las Sesiones del Congreso cuando el Gobernador, conforme a esta Constitución deba asistir. Los Secretarios sólo cuando el Gobernador fuere requerido para informar sobre algún asunto encomendado a ellos.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
 ###### Art. 78.
 
-El Secretario General de Gobierno, al igual que los demás directores Generales, no podrá patrocinar a particulares en asuntos judiciales ni administrativos mientras esté en el ejercicio de sus funciones.
+El Secretario General de Gobierno al igual que los demás Secretarios, no podrá patrocinar a particulares en asuntos judiciales, ni administrativos, mientras estén en ejercicio de sus funciones.
 
 ###### Art. 79.
 
@@ -919,73 +927,69 @@ El Secretario General de Gobierno, en unión del Procurador General de Justicia,
 
 ### CAPITULO I. Del Poder Judicial
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1938)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
 ###### Art. 81.
 
-El ejercicio del Poder Judicial se deposita en un cuerpo que se denominará Supremo Tribunal de Justicia del Estado, en Jueces de Primera Instancia, Menores, de Paz y Tribunal para Menores e Incapacitados.
+El ejercicio del Poder Judicial se deposita en su cuerpo que se denominará Tribunal Superior de Justicia del Estado, en Jueces de Primera Instancia y Menores.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1945)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
 ###### Art. 82.
 
-El Supremo Tribunal de Justicia del Estado, se compondrá de tres Magistrados Propietarios y tres Suplentes o Supernumerarios.
+El Tribunal Superior de Justicia del Estado, se compondrá de tres Magistrados Propietarios y tres Suplentes o Supernumerarios.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 1980)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
 ###### Art. 83.
 
-Los Magistrados del Supremo Tribunal de Justicia del Estado, serán nombrados por el Gobernador el día veinte de Septiembre de los años respectivos, y los nombramientos serán sometidos a la aprobación del Congreso, en los términos de la Fracción IX del Artículo 47 de esta Constitución.
+Los Magistrados del Tribunal Superior de Justicia del Estado, serán nombrados por el Gobernador el veinte de Septiembre de los años respectivos, y los nombramientos serán sometidos a la aprobación del Congreso, en los términos de la fracción IX del artículo 47 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 1980)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
 ###### Art. 84.
 
-Los Magistrados del Supremo Tribunal de Justicia, durarán en sus funciones seis años, no pudiendo ser removidos sin previo juicio de responsabilidades, en el que se pronuncie sentencia condenatoria. Tomarán posesión el día veinticuatro del mismo mes de Septiembre, en que se inicie el ejercicio Constitucional del Gobernador del Estado.
+Los Magistrados del Tribunal Superior de Justicia, durarán en sus funciones seis años, no pudiendo ser removidos sin previo juicio de responsabilidades, en el que se pronuncie sentencia condenatoria firme. Tomarán posesión el día veinticuatro del mismo mes de Septiembre, en que se inicie el ejercicio Constitucional del Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
 ###### Art. 85.
 
-Para ser Magistrado del Supremo Tribunal de Justicia del Estado, se requiere:
+Para ser Magistrado del Tribunal Superior de Justicia del Estado se requiere:
 
 I.- Ser mexicano por nacimiento e hijo de padres mexicanos por nacimiento, en pleno ejercicio de sus derechos políticos y civiles.
 
-II.- Poseer título profesional de abogado expedido por Autoridad o corporación Oficial legalmente autorizada para ello.
+II.- Poseer Título Profesional de Abogado expedido por Autoridad o Corporación oficial legalmente autorizada para ello.
 
-III.- Ser de buena conducta y haberla observado intachable, pública y notoriamente.
-
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 1980)</small>
+III.- Ser de buena conducta y haberla observado intachable pública y notoriamente.
 
 IV.- Tener no menos de 30 años de edad cumplidos el día del nombramiento.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
+
 ###### Art. 86.
 
-Para ser Juez de Primera Instancia, se requiere: ser mexicano, mayor de edad, abogado con título oficial; pero en caso de falta absoluta de éste podrá serlo con carácter interino, un conocedor en derecho a juicio del Supremo Tribunal; y para ser Juez Menor o de Paz, sólo se requiere: ser ciudadano mexicano, mayor de edad, instruido en la ciencia del Derecho a juicio del mismo Tribunal.
+Para ser Juez de Primera Instancia, se requiere: Ser ciudadano mexicano, mayor de edad, abogado con título oficial; pero en caso de falta absoluta de éste podrá serlo con carácter interino, un conocedor en Derecho a juicio del Tribunal Superior; y para ser Juez Menor, sólo se requiere ser ciudadano mexicano, mayor de edad Pasante en Derecho a juicio del mismo Tribunal.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 1977)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
 ###### Art. 87.
 
-Los Jueces de Primera Instancia, los Menores y de Paz y los demás empleados del Poder Judicial, serán nombrados por el Supremo Tribunal de Justicia del Estado. Los Jueces de Primera Instancia no podrán ser removidos de sus cargos sin previo juicio en el que se haya pronunciado sentencia condenatoria ejecutoriada y los demás empleados podrán ser removidos por causa justificada a juicio del Tribunal.
+Los Jueces de Primera Instancia, los Menores y los demás empleados del Poder Judicial, serán nombrados por el Tribunal Superior de Justicia del Estado. Los Jueces de Primera Instancia no podrán ser removidos de sus cargos sin previo juicio en el que se haya pronunciado sentencia condenatoria ejecutoriada y los demás empleados podrán ser removidos por causa justificada a juicio del Tribunal.
 
 ###### Art. 88.
 
 Los Partidos Judiciales del Estado continúan divididos en la misma forma y condiciones en que han estado hasta hoy, a reserva de lo que disponga la ley orgánica judicial
 
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 1938)</small>
-
 ###### Art. 89.
 
-Para el Ramo de Justicia podrán adoptarse los Códigos y Leyes Orgánicas del Distrito Federal o de alguna de las Entidades de la Unión, mediante Decreto del Congreso y sin necesidad de publicarse en el Periódico Oficial del Estado.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 1981)
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
 ###### Art. 90.
 
-Los Magistrados, el Procurador de Justicia, Agentes del Ministerio Público, Jueces de Primera Instancia, Menores, de Paz y sus respectivos Secretarios, no podrán ejercer la profesión de abogados, sino en sus negocios propios, en los de sus esposas y en los de sus hijos.
-
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1930)</small>
-
-Se exceptúa de esta prohibición a los Magistrados Suplentes o Supernumerarios cuando no estén ejerciendo sus funciones.
+Los Magistrados, el Procurador de Justicia, Agentes del Ministerio Público, Jueces de Primera Instancia, Menores y sus respectivos Secretarios, no podrán ejercer la profesión de Abogados, ni por sí ni por interpósita persona, sino en sus negocios propios, en los de sus esposas y en los de sus hijos.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
@@ -1003,9 +1007,11 @@ El Ministerio Público es el representante legítimo de los intereses sociales a
 
 Ejerce las funciones de Ministerio Público en el Estado, el Procurador General de Justicia que será el jefe nato de aquél y los agentes que determine la ley.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
+
 ###### Art. 94.
 
-Para ser Procurador General de Justicia del Estado, se necesitan los mismos requisitos que para ser Magistrado del Supremo Tribunal.
+Para ser Procurador General de Justicia del Estado, se necesitan los mismos requisitos que para ser Magistrado del Tribunal Superior de Justicia.
 
 ###### Art. 95.
 
@@ -1171,39 +1177,39 @@ VI. Las donaciones, legados, herencias y reintegros que se hagan o dejen al Teso
 
 VII. El importe de fianzas o depósitos carcelarios, y demás cantidades que por disposición de la Autoridad Judicial deban ingresar al Erario.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
 ###### Art. 117.
 
-Para la guarda y distribución de los caudales públicos, habrá una dependencia principal que se denominará Dirección General de Finanzas y Administración, a cargo de un Director General nombrado por el Ejecutivo. Esta Dirección General será auxiliada por el número de oficinas recaudadoras foráneas y locales que sean necesarias.
+Para la guarda y distribución de los caudales públicos, habrá una dependencia principal que se denominará Secretaría de Finanzas, a cargo de un Secretario nombrado por el Ejecutivo. Esta Secretaría será auxiliada por el número de oficinas recaudadoras foráneas y locales que sean necesarias.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
 ###### Art. 118.
 
-El Director General de Finanzas y Administración y los Recaudadores Foráneos distribuirán los fondos públicos conforme al Presupuesto de Egresos y serán responsables de aquéllos que distribuyan y no estuvieren comprendidos en dicho presupuesto o autorizados por una Ley posterior.
+El Secretario de Finanzas y los Recaudadores foráneos distribuirán los fondos públicos conforme al Presupuesto de Egresos y serán responsables de aquellos que distribuyan y no estuvieren comprendidos en dicho presupuesto o autorizados por una Ley posterior.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
 ###### Art. 119.
 
-Para la glosa de las cuentas que debe llevarse en todas las oficinas en que se manejen fondos públicos, habrá una Contaduría General dependiente de la propia Dirección General de Finanzas y Administración con el personal que la Ley de Egresos señale.
+Para la glosa de las cuentas que deban llevarse en todas las oficinas en que se manejan fondos públicos, habrá una Contaduría General dependiente de la propia Secretaría de Finanzas con el personal que la Ley de Egresos señale.
 
 La Contaduría del Estado tendrá una coordinación estrecha con la Contraloría General mediante la información que le sea requerida.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
 ###### Art. 120.
 
-Todo empleado de la Dirección General de Finanzas y Administración que tuviere manejo de caudales públicos, le caucionará competentemente en los términos que establezca la Ley.
+Todo empleado de la Secretaría de Finanzas que tuviere manejo de caudales públicos, le caucionará competentemente en los términos que establezca la Ley.
 
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
 ### CAPITULO UNICO. Prevenciones Generales
 
 ###### Art. 121.
 
-El año fiscal queda comprendido del diecinueve de septiembre de cada año al dieciocho de septiembre del año siguiente inclusive.
+El año Fiscal queda comprendido del primero de Enero al treinta y uno de Diciembre inclusive.
 
 ###### Art. 121 Bis.
 
@@ -1215,23 +1221,23 @@ El año fiscal queda comprendido del diecinueve de septiembre de cada año al di
 
 Todo funcionario público, cualquiera que sea su categoría, es responsable de los delitos del orden común que cometa durante su encargo y de los delitos oficiales, faltas u omisiones en que incurriere en sus funciones; pero el Gobernador del Estado, durante el periodo de su duración sólo podrá ser acusado por los delitos de traición a la Patria, violación expresa de la Constitución Federal o de la Particular del Estado, ataques a la libertad electoral y delitos graves del orden común.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
 ###### Art. 123.
 
-En los delitos del orden común que cometieren el Gobernador, los Diputados, los Magistrados del Supremo Tribunal y el Secretario General de Gobierno, la Legislatura, erigida en Gran Jurado, y previa petición del Procurador General de Justicia o del Agente del Ministerio Público adscrito, tratándose del Procurador, declarará con no menos de la mayoría de los Diputados, si ha lugar o no a procedimiento alguno durante el periodo de sus funciones; pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado deje de tener fuero. En caso afirmativo, el acusado queda, por el mismo hecho, separado de su cargo y sujeto desde luego a la acción de los Tribunales Comunes, a menos que se trate del Gobernador del Estado, pues en tal caso habrá lugar a acusarlo como si se tratare de un delito oficial.
+En los delitos del orden común que cometieren el Gobernador, los Diputados, los Magistrados del Tribunal Superior y el Secretario General de Gobierno, la Legislatura, erigida en Gran Jurado, y previa petición del Procurador General de Justicia o del Agente del Ministerio Público adscrito tratándose del Procurador, declarará con no menos de la mayoría de los Diputados, si ha lugar o no a procedimiento alguno durante el periodo de sus funciones; pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado deja de tener fuero. En caso afirmativo, el acusado queda, por el mismo hecho, separado de su cargo y sujeto desde luego a la acción de los Tribunales comunes, a menos que se trate del Gobernador del Estado, pues en tal caso habrá lugar a acusarlo como si se tratara de un delito oficial.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 1935)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
 ###### Art. 124.
 
-Una vez hecha la declaración de haber lugar a formación de causa en contra de los altos Funcionarios a que se refiere el artículo anterior, por los delitos, faltas u omisiones oficiales en que incurran, conocerá del proceso el Supremo Tribunal de Justicia en única Instancia, en la forma que determine la Ley de Responsabilidades de Funcionarios del Estado. Si se tratare de la responsabilidad oficial del Magistrado en funciones, será substituido en los términos de Ley.
+Una vez hecha la declaración de haber lugar a formación de causa en contra de los altos funcionarios a que se refiere el artículo anterior, por los delitos, faltas u omisiones oficiales en que incurran, conocerá del proceso el Tribunal Superior de Justicia en única instancia, en la forma que determine la Ley de Responsabilidades de Funcionarios del Estado. Si se tratare de la responsabilidad oficial del Magistrado en funciones, será substituido en los términos de Ley.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 1977)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
 ###### Art. 125.
 
-De los delitos comunes cometidos por los Jueces de Primera Instancia, Presidentes Municipales, Síndicos y Regidores, el Supremo Tribunal declarará en la forma que determine la Ley, si ha lugar o no a proceder. En caso afirmativo, quedará suspenso el acusado y sujeto a los Tribunales del orden común. De los delitos, faltas y omisiones oficiales en que incurran dichos funcionarios, el Supremo Tribunal resolverá sobre la culpabilidad del acusado en la forma que determine la Ley, imponiendo en su caso la pena que es de aplicarse por el delito, falta u omisión oficial.
+De los delitos comunes cometidos por los Jueces de Primera Instancia, Presidentes Municipales, Síndicos y Regidores, el Tribunal Superior de Justicia, declarará en la forma que determine la Ley, si ha lugar o no a proceder. En caso afirmativo, quedará suspenso el acusado y sujeto a los Tribunales del orden común. De los delitos, faltas u omisiones oficiales en que incurran dichos Funcionarios, el Tribunal Superior resolverá sobre la culpabilidad del acusado en la forma que determine la Ley, imponiendo en su caso, la pena que es de aplicarse por delito, falta u omisión oficial.
 
 ###### Art. 126.
 
@@ -1287,11 +1293,11 @@ La educación que imparta el Estado, se ajustará a las prevenciones del artícu
 
 Los funcionarios y empleados públicos que no tengan limitado el tiempo de su duración, permanecerán en sus puestos por todo aquél a que los hicieren acreedores sus servicios y buena conducta.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1969)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
 ###### Art. 138.
 
-En el caso del Artículo 76, Fracción V de la Constitución General de la República, asumirá el Poder Ejecutivo el Presidente del Congreso o el de la Comisión Permanente si aquél estuviera en receso; y a falta de estos funcionarios, el Vicepresidente, el Primer Secretario o el Segundo, por el orden que se indica. Si los miembros Legisladores ya dichos se encontraren impedidos por fuerza de las circunstancias anormales que priven, entonces será Gobernador el último Director General de Gobierno o el último Presidente del Supremo Tribunal de Justicia, en el mismo orden que se menciona. Quien fuere Gobernador en las condiciones citadas, convocará a nuevas elecciones exactamente a los treinta días de estar ejercitando el interinato, ajustándose en todo a la Constitución local y a la Ley Electoral.
+En el caso del Artículo 76 fracción V de la Constitución General de la República, asumirá el Poder Ejecutivo el Presidente del Congreso o de la Comisión Permanente si aquél estuviera en receso; y a falta de estos Funcionarios, el Vice-Presidente, el Primer Secretario o el Segundo por el orden que se indica.- Si los miembros legislativos ya dichos se encontraran impedidos por fuerza de las circunstancias anormales que priven, entonces será Gobernador el Secretario General de Gobierno o el Presidente del Tribunal Superior de Justicia, en el mismo orden que se menciona.- Quien fuere Gobernador en las circunstancias citadas, convocará a nuevas elecciones exactamente a los treinta días de estar ejercitando al interinato, ajustándose en todo a la Constitución Local y a la Ley Electoral.
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1930)</small>
 
@@ -1377,11 +1383,11 @@ P.O. 12 DE DICIEMBRE DE 1929.
 
 El presente decreto comenzará a surtir sus efectos legales a partir del día de su promulgación.
 
-P.O. 5 DE ENERO DE 1930
+P.O. 5 DE ENERO DE 1930.
 
 El presente decreto comenzará a surtir sus efectos legales a partir del día de su promulgación.
 
-P.O. 6 DE FEBRERO DE 1930
+P.O. 6 DE FEBRERO DE 1930.
 
 El presente decreto comenzará a surtir sus efectos legales a partir del día de su promulgación.
 
@@ -1459,7 +1465,7 @@ P.O. 7 DE ENERO DE 1939.
 
 UNICO.- El presente Decreto surte sus efectos a partir del día primero de enero de mil novecientos treinta y nueve.
 
-P.O. 27 DE NOVIEMBRE DE 1940
+P.O. 27 DE NOVIEMBRE DE 1940.
 
 ART. PRIMERO.- Los juicios de responsabilidad oficial que se encuentren instaurados en contra de Ayuntamientos en general o de CC. Regidores en particular, se declaran sujetos a la revisión del H. Congreso, para lo cual el Magistrado del Supremo Tribunal o el Procurador General de Justicia del Estado, en su caso, remitirán al propio Congreso los expedientes respectivos dentro del término de diez días contados desde la fecha en que entre en vigor esta disposición.
 
@@ -1573,17 +1579,17 @@ DECRETO 5979, REFORMA ART. 42.
 
 UNICO.- Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
-P.O. 22 DE ABRIL DE 1978.
-
-###### ARTICULO UNICO.
-
-Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
-
 P.O. 5 DE NOVIEMBRE DE 1977.
 
 DECRETO 5980, REFORMA ARTS. 37 Y 69.
 
 UNICO.- Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 22 DE ABRIL DE 1978.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 18 DE JUNIO DE 1980.
 
@@ -1622,3 +1628,9 @@ Sólo por lo que respecta al presente año, el Gobernador presentará ante el Co
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE DICIEMBRE DE 1981.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial, Organo del Estado.
