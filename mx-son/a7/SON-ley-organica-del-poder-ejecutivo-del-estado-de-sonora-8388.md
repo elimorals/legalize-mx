@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2004-02-12"
+last_updated: "2004-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 12 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE MAYO DE 2004.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -94,6 +94,10 @@ Asimismo, compete al Gobernador nombrar y remover a los demás trabajadores de l
 > <small>(REFORMADO, B.O. 19 DE JUNIO DE 1986)</small>
 
 El Acuerdo a que se refiere el párrafo anterior, deberá publicarse en el Boletín Oficial del Gobierno del Estado.
+
+(ADICIONADO, B.O. 20 DE MAYO DE 2004(
+
+Queda prohibido al Ejecutivo Estatal hacer entrega de numerario o bienes en especie a servidores públicos de confianza de primer nivel, a título de bono, indemnización, compensación, o cualquier otro concepto semejante o análogo, por dejar de prestar sus servicios a la conclusión del sexenio o dentro del año inmediato anterior.
 
 ###### ARTICULO 8o.
 
@@ -767,7 +771,7 @@ B. En materia de desarrollo regional:
 
 I.- Intervenir en la planeación, formulación y aplicación de los programas de desarrollo regionales, sectoriales y especiales, con la participación que corresponda a las dependencias y entidades estatales y municipales, de conformidad con el Plan Estatal de Desarrollo;
 
-II.- Promover la inversión pública y privada para el desarrollo social en el Estado, en coordinación con los gobiernos federal y municipales y en concertación con las instituciones de crédito y diversos grupos sociales,
+II.- Promover la inversión pública y privada para el desarrollo social en el Estado, en coordinación con los gobiernos federal y municipales y en concertación con las instituciones de crédito y diversos grupos sociales;
 
 III.- Promover la construcción de obras de infraestructura y equipamiento para el desarrollo regional y urbano, y el bienestar social, en coordinación con los gobiernos municipales y con la participación de los sectores social y privado;
 
@@ -1320,3 +1324,7 @@ B.O. 12 DE FEBRERO DE 2004.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE MAYO DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
