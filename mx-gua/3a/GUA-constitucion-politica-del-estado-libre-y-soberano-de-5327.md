@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1988-06-24"
+last_updated: "1990-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1990.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -265,7 +265,9 @@ II.- Alistarse en la Guardia Nacional;
 
 III.- Votar en las elecciones populares;
 
-IV.- Desempeñar los demás cargos gratuitos que se le señalaren, relativos a funciones electorales y censales; y,
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1990)</small>
+
+IV.- Desempeñar los demás cargos gratuitos que se les señalaren, relativos a funciones electorales y censales, pero serán retribuidas aquellas que se realicen profesionalmente en los términos de esta Constitución y las Leyes correspondientes; y
 
 V.- Las demás que dispongan las Leyes.
 
@@ -455,7 +457,9 @@ Para la elección de Diputados según el Principio de Representación Proporcion
 
 La elección de los diputados, según el Principio de Representación Proporcional y el sistema de listas, se sujetará a las bases generales siguientes y a lo que en particular disponga la Ley:
 
-I.- Para obtener el registro de sus listas de candidatos, el partido político que lo solicite, deberá acreditar que participa con candidatos a diputados por mayoría relativa, en por lo menos la tercera parte de los dieciocho Distritos Uninominales y que tiene su registro definitivo como partido político nacional o estatal;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1990)</small>
+
+I.- Para obtener el registro de sus listas de candidatos el Partido Político que lo solicite, deberá acreditar que participa con candidatos a diputados por mayoría relativa en por lo menos la mitad de la totalidad de los distritos uninominales y que tiene su registro definitivo como Partido Político Nacional o Estatal;
 
 II.- Tendrá derecho a que le sean asignados diputados electos según el Principio de Representación Proporcional, todo aquel partido político que alcance por lo menos el 1.5% del total de la votación emitida válidamente para las listas de candidatos de Representación Proporcional;
 
@@ -475,7 +479,9 @@ I.- Ser ciudadano guanajuatense en ejercicio de sus derechos y no haber sido con
 
 II.- Tener por lo menos 21 años cumplidos al día de la elección; y,
 
-III.- Tener residencia en el Estado cuando menos de un año anterior a la fecha de la elección.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1990)</small>
+
+III.- Tener residencia en el Estado cuando menos de dos años anteriores a la fecha de la elección.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -643,7 +649,9 @@ VI.- Autorizar el cambio de residencia de las Cabeceras Municipales, erigir nuev
 
 VII.- Hacer la división del Estado en Distritos Electorales;
 
-VIII.- Calificar las Elecciones Ordinarias y Extraordinarias del Gobernador del Estado, de los Senadores al Congreso de la Unión y de los Ayuntamientos, haciendo las declaratorias correspondientes. En caso de nulidad de elecciones de Ayuntamiento, nombrar un Concejo Municipal mientras se celebran nuevas elecciones y expedir la convocatoria para éstas;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1990)</small>
+
+VIII.- Calificar las elecciones ordinarias y extraordinarias del Gobernador del Estado, de los Senadores al Congreso de la Unión y de los Ayuntamientos, haciendo las declaratorias correspondientes. En caso de Nulidad de Elecciones de Ayuntamiento, nombrar un Concejo Municipal mientras se celebran nuevas elecciones y expedir la convocatoria para éstas en un término no mayor de dos meses, salvo que, concurran circunstancias que ameriten ampliar dicho plazo y mediante el voto de las dos terceras partes de los diputados;
 
 IX.- Erigirse en Colegio Electoral para elegir Gobernador Interino o Sustituto, de acuerdo a lo dispuesto por los Artículos 73 y 74 de esta Constitución;
 
@@ -675,9 +683,9 @@ XX.- Nombrar y remover a sus empleados. Estas facultades las tendrá la Diputaci
 
 XXI.- Otorgar o negar su aprobación a los nombramientos de los Magistrados del Supremo Tribunal de Justicia hechos por el Gobernador del Estado, conforme a la fracción XII del Artículo 77 de esta Constitución. Esta facultad la tendrá la Diputación Permanente cuando el Congreso no esté en Período Ordinario de Sesiones;
 
-> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1990)</small>
 
-Designar a los Magistrados del Tribunal de lo Contencioso Electoral, de acuerdo a las propuestas de los partidos políticos. Esta facultad la tendrá la Diputación Permanente cuando el Congreso no esté en período de sesiones.
+Elegir, de entre sus miembros, a sus representantes ante los Organismos Electorales y a las personas que le competa para integrar dichos órganos y el Organismo Jurisdiccional electoral, en los términos que establezca la Ley de la materia. Esta facultad la tendrá la Diputación Permanente, cuando el Congreso no esté en período de sesiones;
 
 XXII.- Erigirse en Jurado de Responsabilidades, en los casos de Juicio Político;
 
@@ -1241,7 +1249,9 @@ I.- Ser ciudadano guanajuatense en ejercicio de sus derechos civiles y político
 
 II.- Tener, por lo menos, veintiún años cumplidos al día de la elección; y,
 
-III.- Tener cuando menos un año de residir en el lugar en donde deba desempeñar el cargo, al tiempo de la elección.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1990)</small>
+
+III.- Tener cuando menos dos años de residir en el municipio en donde deba desempeñar el cargo, al tiempo de la elección.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1463,7 +1473,7 @@ Ningún ciudadano podrá desempeñar a la vez dos cargos de elección popular, p
 
 La infracción de estas disposiciones será castigada con la pérdida de los cargos.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1990)</small>
 
 ### CAPITULO VI. DE LAS DEPENDENCIAS ADMINISTRATIVAS DEL AYUNTAMIENTO
 
@@ -1471,11 +1481,7 @@ La infracción de estas disposiciones será castigada con la pérdida de los car
 
 ###### ARTICULO 132.
 
-Todo Funcionario o Empleado Público recibirá por sus servicios, el sueldo o salario determinado por la Ley, mismo que no podrá ser renunciable. Los cargos de los Funcionarios Electorales y Censales, serán obligatorios y gratuitos.
-
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 1988)</small>
-
-Las relaciones de trabajo entre el Estado, Municipios y sus trabajadores, se regirán por la Ley de Trabajo de los Servidores Públicos del Estado y de los Municipios, con base en lo dispuesto por el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias.
+Todo funcionario o empleado público recibirá por sus servicios, el sueldo o salario determinado por la Ley, mismo que no podrá ser renunciable. Los cargos de los funcionarios electorales y censales, serán obligatorios y gratuitos sólo serán remunerados aquellos que se presten profesionalmente en los términos que establezcan las Leyes de la materia.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1942,5 +1948,11 @@ DECRETO No. 182.
 No se aplicará retroactivamente a los Magistrados que se encuentren en funciones, lo establecido por el artículo 86 reformado, de la Constitución Política del Estado.
 
 ###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE DICIEMBRE DE 1990.
+
+###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
