@@ -4,7 +4,7 @@ identifier: "COL-ley-de-fomento-economico-para-el-estado-de-colima-12442"
 country: "mx"
 rank: "ley"
 publication_date: "1998-08-29"
-last_updated: "1998-08-29"
+last_updated: "2004-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE FOMENTO ECONOMICO PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 29 de agosto de 1998.
 
@@ -215,9 +215,19 @@ a).- Racionalizar y hacer eficiente el uso de la tierra y el agua;
 
 b).- Elevar la productividad del campo;
 
-c).- Industrializar los productos agropecuarios; y
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-VIII.- De la VENTANILLA UNICA DE GESTION:
+c).- Industrializar los productos agropecuarios;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+VIII.- Fideicomisos:
+
+a).- Constituir fideicomisos públicos para promover el desarrollo económico;
+
+b).- Constituir un fideicomiso público para promover el establecimiento, consolidación y expansión de la micro, pequeña y mediana empresa; y
+
+IX.- De la VENTANILLA UNICA DE GESTION:
 
 En la gestión y realización de trámites y permisos, ante las dependencias y organismos descentralizados federales, estatales y municipales; así mismo, en coordinación con los Ayuntamientos de la entidad, proporcionar información y asesoría para orientar la localización y funcionamiento de las empresas.
 
@@ -229,7 +239,11 @@ La Secretaría promoverá ante los Ayuntamientos de la entidad, la aplicación d
 
 Los incentivos y apoyos que se concedan de conformidad a lo dispuesto en el artículo 7o. de la presente Ley:
 
-I.- Se autorizarán en la Ley de Ingresos y el Presupuesto de Egresos del Estado, cuando sea el caso y los promueva el Ejecutivo; y
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+I.- Se autorizarán en la Ley de Ingresos y el Presupuesto de Egresos del Estado, cuando sea el caso y los promueva el Ejecutivo.
+
+En la iniciativa de Presupuesto de Egresos para cada ejercicio fiscal, durante el periodo de vigencia del impuesto sobre nóminas, el Ejecutivo del Estado incluirá en las partidas de promoción económica, un monto equivalente al 1% del monto total del Presupuesto de Egresos. Dichos recursos serán administrados y ejercidos a través del fideicomiso público que para el efecto sea constituido, para el financiamiento y programas de capacitación, de la micro, pequeña y mediana empresa, así como en la inversión en obra estratégica para el desarrollo económico del estado, pudiéndose agregar otros programas que para los mismos fines sean definidos por el mismo fideicomiso.
 
 II.- Se autorizarán en las leyes generales de ingresos y los Presupuestos de Egresos de los Municipios, cuando sea el caso y se otorguen por los Ayuntamientos.
 
@@ -642,3 +656,9 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los 28 días del mes de agosto de mil novecientos noventa y ocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. HECTOR MICHEL CAMARENA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 25 DE DICIEMBRE DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor el 1º. de enero de 2005, previa su publicación en el Periódico Oficial "El Estado de Colima".
