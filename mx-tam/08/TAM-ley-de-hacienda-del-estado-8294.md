@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-del-estado-8294"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-29"
-last_updated: "2002-12-18"
+last_updated: "2003-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 1976.
 
@@ -625,7 +625,7 @@ IV.- Por su conducto someterán a la consideración de la Junta Central de Catas
 
 N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
-> <small>(F.DE E., P.O. 29 DE ENERO DE 1977)</small>
+> <small>(F. DE E., P.O. 29 DE ENERO DE 1977)</small>
 
 ###### ARTICULO 51o.
 
@@ -1343,6 +1343,14 @@ d).- La transmisión de bienes entre dependencias y organismos públicos descent
 
 e).- La donación de bienes a instituciones de asistencia social con reconocimiento oficial, así como a Dependencias y Organismos Públicos Descentralizados del Gobierno del Estado de Tamaulipas.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+f).- En un 50%, la enajenación de bienes muebles efectuada por los adultos mayores, así como por los jubilados y pensionados domiciliados en el Estado.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+g).- La enajenación de vehículos efectuada por personas domiciliadas en el Estado, cuyo modelo sea de veinte o más años, anteriores al de aplicación de esta ley.
+
 ### CAPITULO IV. IMPUESTO SOBRE PRODUCTOS DE INVERSION
 
 DE CAPITALES
@@ -1683,7 +1691,7 @@ No se considera como ingreso o premio el reintegro correspondiente al billete qu
 
 III.- Que organicen o celebren las actividades a que se refiere la fracción I de este artículo u obtenga los premios derivados de las mismas, independientemente del lugar donde se realice el evento.
 
-Las personas o instituciones que organicen o celebren los eventos señalados en las fracciones I y III de éste articulo, les deberán retener el impuesto que se cause. Tratándose de premios en especie, quienes los obtengan deberán proveer los recursos necesarios para la retención de impuesto.
+Las personas o instituciones que organicen o celebren los eventos señalados en las fracciones I y III de éste artículo, les deberán retener el impuesto que se cause. Tratándose de premios en especie, quienes los obtengan deberán proveer los recursos necesarios para la retención de impuesto.
 
 DE LOS SUJETOS
 
@@ -2137,7 +2145,7 @@ DE LA TARIFA
 
 ###### ARTICULO 179o.
 
-.Este impuesto se liquidará y pagará conforme a la siguiente:
+Este impuesto se liquidará y pagará conforme a la siguiente:
 
 TARIFA
 
@@ -2853,7 +2861,7 @@ Están exentos del pago de este impuesto:
 
 I.- Las erogaciones que se cubran por concepto de:
 
-a) .- Participación de los trabajadores en las utilidades de las empresas;
+a).- Participación de los trabajadores en las utilidades de las empresas;
 
 b).- Indemnizaciones por riesgos o enfermedades profesionales, que se conceden de acuerdo con las leyes o contratos respectivos;
 
@@ -3289,6 +3297,28 @@ VIII.- Cuando se trate de contratos, demandas o resoluciones que se refieren a p
 
 IX.- En los casos en que los servicios que preste el Registro Público de la Propiedad no se encuentren expresamente previstos en esta Sección, los derechos que a ellos corresponda se causarán por asimilación, aplicando las disposiciones relativas a casos con los que guarden semejanza.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+ARTICULO 264 BIS.- Se exime del pago de los derechos a que se refiere el artículo 263, a los contribuyentes domiciliados en el Estado, en los siguientes supuestos:
+
+I.- Por la inscripción de las escrituras de terrenos que no excedan de 250 metros cuadrados y que hayan sido adquiridos a través de programas que implemente el Gobierno del Estado, por sí o a través de sus entidades.
+
+Para que se otorgue el beneficio señalado, el contribuyente debe acreditar no ser propietario de otro bien inmueble con constancia expedida por la Dirección del Registro Público de la Propiedad y de Comercio.
+
+II.- Por la parte que exceda al importe de 3 días de salario mínimo general vigente en la capital del Estado, a los causados por la inscripción de actos traslativos de dominio y de garantías reales o fiduciarias, cuando la adquisición consista en terrenos que se destinen a la construcción de casas habitación, así como adquisición de vivienda, siempre y cuando la superficie de terreno no exceda de 250 metros cuadrados y la construcción no tenga una superficie mayor a los 100 Metros cuadrados y se contraten a través de los programas de apoyo a la vivienda que se instrumenten por los Gobiernos Federal, del Estado y sus Municipios, así como sus organismos descentralizados; así como las adquiridas con créditos otorgados por instituciones financieras o concedido por los patrones a sus trabajadores. Dicha exención será aplicable sólo a aquellas personas físicas que no posean otra propiedad, lo cual acreditarán con constancia expedida por la Dirección del Registro Público de la Propiedad y de Comercio.
+
+III.- Por la inscripción de la cancelación de reserva de dominio solicitada por los organismos citados en la fracción anterior.
+
+IV.- Por la inscripción de bienes inmuebles o derechos reales pertenecientes, al Gobierno del Estado, sus organismos descentralizados y a los Municipios.
+
+V.- Por la inscripción de títulos dentro del Programa de Regularización de la Tenencia de la Tierra en propiedad o posesión particular en el territorio del Estado, que permita la reinscripción al programa de Apoyos Directos al Campo, de los predios rurales privados, con superficies elegibles, carentes de documentación y libre de toda litis, que ya estén inscritos en dicho Programa.
+
+VI.- Por la inscripción de avisos preventivos de compra-venta, hipoteca y donaciones.
+
+VII.- Por la inscripción de fraccionamiento de terrenos, así como los actos, contratos, convenios o resoluciones por las que se lotifique o relotifique, divida o subdivida un inmueble, que por cualquier medio la Comisión para la Regularización de la Tenencia de la Tierra realice o efectúe para regularizar, a sus ocupantes, la tenencia de la tierra, mediante su enajenación.
+
+VIII.- Por la inscripción de títulos de predios urbanos en tierras ejidales, tramitados a través de un organismo gubernamental.
+
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 265.
@@ -3475,7 +3505,7 @@ V.- Revisión de estudios:
 
 VI.- Diversos:
 
-1.- Expedicón de carta de docencia, 25 % de un día de salario mínimo.
+1.- Expedición de carta de docencia, 25 % de un día de salario mínimo.
 
 2.- Legalización de documentos de Universidad y Normal Superior, 75 % de un día de salario mínimo.
 
@@ -3655,7 +3685,7 @@ b).- En tamaños mayores, por cada decímetro cuadrado adicional o fracción, 1 
 
 No se causarán los derechos establecidos en este Artículo en los casos comprendidos en las fracciones I y V del Artículo 265.
 
-VI.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 1991
+VI.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 1991)
 
 ### CAPITULO V. SERVICIOS SANITARIOS
 
@@ -3828,6 +3858,14 @@ XVIII.- Envió de documentación oficial a domicilio ubicado en el Estado, un d�
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 XIX.- Búsqueda de registro vehícular en otras entidades federativas, dos días de salario mínimo, por cada búsqueda.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+ARTICULO 281 BIS.- Se exime del pago de los derechos previstos por el artículo anterior, en los siguientes términos:
+
+I.- De un 50%, a los comprendidos en las fracciones I, inciso a) y V; en una sola ocasión por año, tratándose de vehículos cuyos propietarios sean adultos mayores, así como jubilados y pensionados domiciliados en el Estado. Tratándose de vehículos que se les asignen placas de circulación con identificación de "discapacitado", y que de acuerdo con la normatividad vigente, sus propietarios tengan derecho a ello, se eximirá el 100%.
+
+II. De un 50%, a los comprendidos en la fracción XVII; tratándose de adultos mayores, así como a los jubilados y pensionados domiciliados en el Estado.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
@@ -4035,7 +4073,7 @@ II.- Zona Centro: el municipio de Victoria, quince días de salario mínimo, por
 
 III.- Zona Sur, los municipios de Tampico, Ciudad Madero y Altamira, cuarenta y cinco días de salario mínimo, por vértice.
 
-En los municipios no comprendidos en las fracciones anteriores se pagará, cuarenta y cinco días de salario mínimo, por vértice
+En los municipios no comprendidos en las fracciones anteriores se pagará, cuarenta y cinco días de salario mínimo, por vértice.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -4414,3 +4452,9 @@ Las referencias que en el Código Fiscal del Estado de Tamaulipas se hagan a la 
 ###### ARTICULO TERCERO.
 
 Los procedimientos administrativos de ejecución que se encuentren en trámite antes de la fecha de entrada en vigor de este Decreto, continuarán aplicándose las disposiciones vigentes al inicio de los mismos, hasta su conclusión.
+
+P.O. 16 DE DICIEMBRE DE 2003.
+
+###### ARTICULO UNICO.
+
+El presente Decreto surtirá efectos a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
