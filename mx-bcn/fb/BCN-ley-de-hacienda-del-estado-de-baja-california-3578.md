@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "1974-02-28"
+last_updated: "1974-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 1974.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -109,11 +109,11 @@ III.- Los fideicomitentes, mientras sean poseedores del predio objeto del fideic
 
 IV.- Tratándose de predios ejidales, quien posea provisional o definitivamente el predio o en su caso, al núcleo de ejidatarios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE FEBRERO DE 1974)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 1974)</small>
 
 ###### ARTICULO 7.
 
-La base del impuesto es la siguiente:
+La base del Impuesto es la siguiente:
 
 > <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1974)</small>
 
@@ -125,9 +125,13 @@ II.- El valor a precio de venta de la producción agrícola, avícola o ganadera
 
 En aquellos casos que se desconozca el precio de venta, el Ejecutivo del Estado fijará el precio oficial de los diferentes productos en atención a sus calidades, el que servirá de base para los efectos de este Impuesto.
 
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1974)</small>
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 1974)</small>
 
-III.- Cuando se dediquen a actividades distintas a la explotación agropecuaria será aplicable lo señalado en la fracción I de este artículo.
+III.- Cuando se dediquen a actividades distintas a la explotación agropecuaria será aplicable a lo señalado en la Fracción I de este Artículo.
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 1974)</small>
+
+IV.- Cuando el predio se encuentre edificado con diversos departamentos propiedad de distintas personas, que a la vez sean copropietarios del terreno en que se encuentre construído el edificio, así como de sus escaleras, pasillos, jardines, muros medianeros, pisos y demás servicios e instalaciones, la Secretaría de Finanzas fijará el Impuesto de acuerdo con los valores catastrales, y entrará en vigor a partir del bimestre siguiente a la fecha en que se haya autorizado preventivamente la escritura de constitución del condominio. Si éste se constituye sin estar terminadas las construcciones, el Impuesto se continuará causando sobre el valor total del terreno y será a cargo de las personas que lo constituyeron. En estos casos, la base se aplicará a cada uno de los departamentos, despachos o locales comerciales a partir del bimestre siguiente a la fecha de la terminación de los mismos o a la fecha en que sean ocupados sin estar terminados; y cada predio, departamento, despacho o local se empadronará por separado, girándose a cada cual el recibo de pago correspondiente.
 
 > <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1974)</small>
 
@@ -561,11 +565,13 @@ V.- Clausura.
 
 En caso de traspaso, la manifestación deberá hacerse con diez días de anticipación. No podrá efectuarse éste sin que previamente se compruebe que el establecimiento o negociación está al corriente en el pago de sus obligaciones fiscales.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 1974)</small>
+
 ###### ARTICULO 67.
 
-Los causantes y retenedores de este Impuesto están obligados a presentar sus declaraciones y a efectuar su pago en las Oficinas Recaudadoras correspondientes dentro de los días comprendidos del primero al quince de cada mes.
+Los causantes y retenedores de este Impuesto están obligados a presentar sus declaraciones y a efectuar su pago en las Oficinas Recaudadoras correspondientes dentro de los días comprendidos del primero al veinte de cada mes.
 
-Asimismo, presentarán sus declaraciones aún cuando no haya obtenido ingresos gravables, expresando las causa de ello.
+Asimismo, presentarán sus declaraciones aún cuando no hubieran obtenido ingresos gravables, expresando la causa de ello.
 
 No se admitirán las declaraciones si en el mismo acto de su presentación no se pagan íntegramente el Impuesto y recargos correspondientes en su caso.
 
@@ -731,9 +737,11 @@ II.- Garantizar el interés fiscal.
 
 III.- Obtener licencia previa del Gobernador del Estado cuando se trate de actividades que consistan en la venta de bebidas alcohólicas al copeo o en botella cerrada, para el consumo dentro del establecimiento.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 1974)</small>
+
 ###### ARTICULO 87.
 
-Los causantes eventuales que efectúen venta de bebidas alcohólicas en ferias, kermesses y diversiones análogas de carácter transitorio, causarán y pagarán el Impuesto diariamente. No causarán el Impuesto los negocios que en forma exclusiva vendan cerveza.
+Los causantes eventuales que efectúen ventas de bebidas con graduación alcohólica en ferias, kermesses y diversiones análogas de carácter transitorio, causarán y pagarán el Impuesto diariamente. No causan el Impuesto los negocios que en forma exclusiva vendan cerveza.
 
 ###### ARTICULO 88.
 
@@ -809,15 +817,19 @@ Son causantes de este impuesto las personas físicas, morales o unidades económ
 
 El impuesto se causará y pagará de acuerdo con las bases, tasas o cuotas que señale la Ley de Ingresos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 1974)</small>
+
 ###### ARTICULO 100.
 
-Los causantes de este impuesto deberán cubrir su importe de la siguiente manera:
+Los causantes de este Impuesto deberán cubrir su importe de la siguiente manera:
 
 I.- En la oficina Recaudadora de su jurisdicción antes de la salida del producto de su lugar de origen.
 
 II.- Ante la primera autoridad fiscal competente que requiera su pago.
 
-III.- Tratándose de producciones avícolas, deberá efectuarse el pago mensual o semestralmente presentando su declaración en las formas autorizadas por la Secretaría de Finanzas.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 1974)</small>
+
+III.- Tratándose de producción avícola, deberá efectuarse el pago en forma mensual presentando su declaración en las formas autorizadas por la Secretaría de Finanzas.
 
 ###### ARTICULO 101.
 
@@ -831,13 +843,17 @@ Son solidariamente responsables de este impuesto las personas físicas, morales 
 
 Todo tenedor de productos gravados por este impuesto, está obligado a comprobar el pago del impuesto en el momento en que sea requerido por las autoridades fiscales y la falta de comprobación dará lugar al cobro del impuesto y en caso de no liquidar su importe, se procederá a garantizar el interés fiscal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 1974)</small>
+
 ###### ARTICULO 104.
 
 Son obligaciones de los causantes:
 
 I.- Empadronarse en la oficina Recaudadora correspondiente.
 
-II.- Tratándose de producción avícola, deberá efectuarse el pago mensual o semestralmente, presentando su declaración en las formas autorizadas por la Secretaría de Finanzas.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 1974)</small>
+
+II.- Tratándose de producción avícola, efectuar el pago mensualmente presentando su declaración en las formas autorizadas por la Secretaría de Finanzas.
 
 III.- Cumplir las que señale esta Ley y demás disposiciones fiscales relativas.
 
@@ -917,9 +933,11 @@ Son sujetos de este Impuesto las personas físicas, morales o unidades económic
 
 Este Impuesto se causará con base en el volumen de algodón despepitado y se pagará conforme a la cuota que fije la Ley de Ingresos del Estado.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 1974)</small>
+
 ###### ARTICULO 119.
 
-Los causantes de este Impuesto deberán pagarlo mensualmente dentro de los días del primero al diez de cada mes, conforme al volumen despepitado en el mes inmediato anterior, mediante la presentación en la Recaudación de Rentas correspondiente, de una declaración, la que deberá contener el dato de los kilos de algodón en pluma despepitados.
+Los causantes de este Impuesto deberán pagarlo mensualmente dentro de los días del primero al veinte de cada mes, conforme al volumen despepitado en el mes inmediato anterior, mediante la presentación en la Recaudación de Rentas correspondiente, de una declaración, la que deberá contener el dato de los kilos de algodón en pluma despepitados.
 
 ###### ARTICULO 120.
 
@@ -1036,6 +1054,8 @@ I.- Determinar el boletaje vendido, y el importe de los ingresos.
 II.- Formular liquidación que deberá ser firmada por un representante de la empresa.
 
 ### CAPITULO XI. Impuesto Sobre Compraventa y Operaciones Similares
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 1974)</small>
 
 ###### ARTICULO 144.
 
@@ -1328,3 +1348,7 @@ UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación e
 P.O. 28 DE FEBRERO DE 1974.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 10 DE MARZO DE 1974.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
