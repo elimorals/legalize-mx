@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2004-04-24"
+last_updated: "2004-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2004.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -85,7 +85,11 @@ X.- Perspectiva de género, a la posición o modo personal que acepta la iniquid
 
 > <small>(ADICIONADA, P.O. 22 DE MAYO DE 2002)</small>
 
-XI.- Enfoque de género, a la orientación de las acciones para centrar, proyectar y dirigir la atención y el interés de favorecer, en todas y cada una de las prácticas pedagógicas, el mejoramiento de la condición de las mujeres.
+XI.- Enfoque de género, a la orientación de las acciones para centrar, proyectar y dirigir la atención y el interés de favorecer, en todas y cada una de las prácticas pedagógicas, el mejoramiento de la condición de las mujeres;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2004)</small>
+
+XII.- Minoría Cultural, a la parte de la población que se diferencia de la mayoritaria en sus prácticas religiosas, económicas, de organización social, artísticas o de cualquier otro tipo.
 
 ###### Artículo 3.
 
@@ -633,7 +637,11 @@ IX.- Inculcar en los niños el respeto a la propiedad pública y privada; y
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-X.- Fomentar en los educandos una cultura sobre el cuidado del agua.
+X.- Fomentar en los educandos una cultura sobre el cuidado del agua;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2004)</small>
+
+XI.- Crear conciencia en el educando de que existen minorías culturales que éstas tienen producción cultural y que su organización religiosa, económica, social o de cualquier índole es totalmente respetable.
 
 #### SECCIÓN VIII. DE LA EDUCACIÓN PARA ADULTOS
 
@@ -697,7 +705,11 @@ XIV.- Impulsar la creación de la cultura al no graffiti o pintas;
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-XV.- Fomentar en los educandos una cultura sobre el cuidado del agua.
+XV.- Fomentar en los educandos una cultura sobre el cuidado del agua;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2004)</small>
+
+XVI.- Impulsar en el educando la apreciación y el reconocimiento a las formas diferentes de organización y expresión que son producto de minorías culturales, así como de las propias.
 
 ###### Artículo 41.
 
@@ -753,7 +765,11 @@ X.- Impulsar el conocimiento y la capacitación del desarrollo sostenido y suste
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-XI.- Fomentar en los educandos una cultura sobre el cuidado del agua.
+XI.- Fomentar en los educandos una cultura sobre el cuidado del agua;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2004)</small>
+
+XII.- Fomentar, promover y difundir en el educando la apreciación y el reconocimiento de la organización, prácticas y actividades de cualquier tipo, producto de las minorías culturales, basado en el respecto a la diversidad cultural.
 
 ###### Artículo 46.
 
@@ -851,6 +867,10 @@ XII.- Concientizar al educando sobre el respeto a la propiedad privada y públic
 
 XIII.- Concientizar al educando, que el graffiti o pintas que dañan propiedades privadas o públicas representan un delito;
 
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2004)</small>
+
+XIII (sic).- Fomentar en el educando el reconocimiento a las actividades que son producto de minorías culturales;
+
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
 XV (sic).- Fomentar en los educandos una cultura sobre el cuidado del agua.
@@ -933,7 +953,11 @@ XI.- Fortalecer en el educando el respeto a la propiedad privada y pública; y
 
 > <small>(ADICIONADA, P.O. 6 DE MARZO DE 2002)</small>
 
-XII.- Crear y fomentar la conciencia en el educando, que el graffiti y las pintas que dañan la propiedad privada y pública, representan un delito.
+XII.- Crear y fomentar la conciencia en el educando, que el graffiti y las pintas que dañan la propiedad privada y pública, representan un delito;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2004)</small>
+
+XIII.- Crear conciencia en el educando de que las actividades de las minorías culturales representan otra forma de vida.
 
 ###### Artículo 64.
 
@@ -1039,7 +1063,11 @@ IV.- Promover la orientación, actualización, formación, atención y capacitac
 
 V.- Desarrollar estrategias de apoyo profesional técnico y de infraestructura educativa, acorde a las necesidades educativas especiales de las personas con o sin discapacidad, o con aptitudes sobresalientes, para el logro de objetivos comunes a la educación regular; y
 
-VI.- Promover la capacitación laboral en talleres, instituciones o empresas, para que las personas que por su edad no puedan ingresar o continuar en los servicios de educación especial, tengan acceso a una vida autónoma y productiva.
+VI.- Promover la capacitación laboral en talleres, instituciones o empresas, para que las personas que por su edad no puedan ingresar o continuar en los servicios de educación especial, tengan acceso a una vida autónoma y productiva;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2004)</small>
+
+VII.- Crear conciencia en el educando de que existen minorías culturales que tienen producción cultural y que su organización religiosa, económica, social o de cualquier otra índole es totalmente respetable.
 
 ###### Artículo 76.
 
@@ -2112,5 +2140,11 @@ P.O. 18 DE FEBRERO DE 2004.
 P.O. 24 DE ABRIL DE 2004.
 
 ###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE JUNIO DE 2004.
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
