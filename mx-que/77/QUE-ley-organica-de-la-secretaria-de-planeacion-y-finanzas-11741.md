@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-secretaria-de-planeacion-y-finanzas-11741"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-12-31"
-last_updated: "2000-12-29"
+last_updated: "2004-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY ORGANICA DE LA SECRETARIA DE PLANEACION Y FINANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2000.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO DE LA LEY QUE ABROGA LA LEY ORGANICA DE LA SECRETARIA DE PLANEACION Y FINANZAS DEL ESTADO DE QUERETARO, PUBLICADO EN LA P.O. DE 20 DE OCTUBRE DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el martes 31 de diciembre de 1996.
 
@@ -1680,3 +1682,9 @@ La presente Ley entrara en vigor el día 1 de enero de 2001.
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+P.O. 20 DE OCTUBRE DE 2004.
+
+PRIMERO.- La presente Ley surtirá sus efectos al día siguiente, a aquel en que se publique el Reglamento Interior de la Secretaría de Planeación y Finanzas del Estado, en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO.- Se derogan todas las disposiciones legales, de igual o menor jerarquía, que se opongan a la presente Ley.
