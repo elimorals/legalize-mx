@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2003-02-21"
+last_updated: "2004-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 2004.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -6149,7 +6149,13 @@ ART. 930.- Podrá acudirse al Juez de lo Familiar, por escrito o por comparecenc
 
 Tratándose de alimentos, ya sean provisionales o los que se deban por contrato, por testamento o por disposición de la Ley, el Juez fijará a petición del acreedor, sin audiencia del deudor y mediante información que estime necesaria, una pensión alimenticia provisional, mientras se resuelve el juicio en definitiva.
 
-Será optativo para las partes acudir asesoradas, y en este supuesto, los asesores necesariamente deberán ser Licenciados en Derecho, con cédula profesional. En caso de que una de las partes se encuentre asesorada y la otra no, se solicitarán de inmediato los servicios de un defensor de oficio, el que deberá acudir, desde luego, a enterarse del asunto, disfrutando de un término que no podrá exceder de tres días para hacerlo, por cuya razón se diferirá la audiencia en un término igual.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
+
+Las partes podrán acudir asesoradas, y en este supuesto, los asesores deberán ser Licenciados en Derecho, con cédula profesional. En caso de que una de las partes se encuentre asesorada y la otra no, el Juez de lo Familiar deberá hacer del conocimiento de esta última que tiene el derecho a solicitar se difiera la audiencia por un término de cinco días, con el fin de que acceda a los servicios de un asesor. Este último deberá de enterarse del asunto dentro de dicho término.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2004)</small>
+
+Una vez resuelto lo anterior, se continuará con la audiencia.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6650,3 +6656,7 @@ P.O. 9 DE AGOSTO DE 2002.
 P.O. 21 DE FEBRERO DE 2003.
 
 UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 5 DE MARZO DE 2004.
+
+UNICO.- La presente reforma y adición al Código de Procedimientos Civiles para el Estado de Baja California, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
