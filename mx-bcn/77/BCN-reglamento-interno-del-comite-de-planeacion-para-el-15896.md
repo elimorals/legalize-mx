@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-del-comite-de-planeacion-para-el-15896"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-01-28"
-last_updated: "2000-01-28"
+last_updated: "2000-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DEL COMITE DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2000.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 28 de enero de 2000.
 
@@ -135,7 +135,7 @@ II.- Dirigir y moderar los debates durante las sesiones de la Asamblea Plenaria;
 
 III.- Informar al Ejecutivo Federal de las resoluciones de la Asamblea Plenaria que por su naturaleza e importancia así lo ameriten;
 
-IV.- Crear los Subcomités Sectoriales, Especiales y Regionales, que considere necesarios para el cumplimiento de los fines del COPLADE;
+IV.- (REFORMADA [N. DE E. DEROGADA], P.O. 18 DE AGOSTO DE 2000)
 
 V.- Suscribir convenios de coordinación con otras Dependencias y Entidades de la Administración Pública federal, estatal y municipal, que contribuyan al logro eficiente de los fines del COPLADE;
 
@@ -147,7 +147,9 @@ VI.- Convocar a sesiones, para tratar asuntos que por la naturaleza e importanci
 
 El Coordinador General tendrá las siguientes facultades y obligaciones:
 
-I.- Coordinar la operación de los Subcomités y Grupos de Trabajo constituidos;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2000)</small>
+
+I.- Coordinar la operación de los Subcomités;
 
 II.- Convocar a sesiones de la Asamblea Plenaria y de los Subcomités;
 
@@ -161,11 +163,15 @@ VI.- Realizar el seguimiento de los acuerdos de la Asamblea Plenaria;
 
 VII.- Difundir las resoluciones y trabajos de la Asamblea Plenaria;
 
-VIII.- Crear, previa autorización del Presidente de la Asamblea Plenaria, los Subcomités Sectoriales, Regionales, Especiales y los Grupos de Trabajo que se planteen ante la Coordinación General y autorizar los manuales que regulen su funcionamiento interno.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2000)</small>
 
-###### ARTICULO 16.
+VIII.- Autorizar la creación de los Subcomités Sectoriales, Regionales y Especiales que le soliciten.
 
-Para el adecuado desarrollo de las sesiones de la Asamblea Plenaria, el Coordinador General designará a un secretario, que tendrá las siguientes obligaciones:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2000)</small>
+
+###### ARTÍCULO 16.
+
+Para el adecuado desarrollo de las sesiones de la Asamblea Plenaria, el Coordinador General se auxiliará del Director del COPLADE, quien fungirá como Secretario de la misma y tendrá las siguientes obligaciones:
 
 I.- Llevar el registro de asistencia de los miembros de la Asamblea Plenaria en las sesiones respectivas;
 
@@ -177,43 +183,21 @@ IV.- Cuidar que circulen con oportunidad entre los miembros de la Asamblea Plena
 
 V.- Las demás que le encomiende el Coordinador General para el adecuado desarrollo de las sesiones celebradas por la Asamblea Plenaria.
 
-###### ARTICULO 17.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2000)</small>
 
-El COPLADE, por conducto de la Coordinación General dará cumplimiento a lo previsto por las fracciones IV, V y VI del artículo 4 del decreto de creación del COPLADE.
+ARTICULO 17;- La Coordinación General de la Asamblea Plenaria, coadyuvará de manera activa al cumplimiento de lo previsto por las fracciones IV, V y VI del Artículo 4 del Decreto que crea al COPLADE, para lo cual se podrá apoyar en la estructura administrativa del Ejecutivo Estatal.
 
-Para el cumplimiento de las funciones señaladas, la Coordinación General se auxiliará de la Unidad de Control y Evaluación y de la Unidad de Inversión Pública.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2000)</small>
 
 ###### ARTICULO 18.
 
-Corresponde a la Unidad de Control y Evaluación el ejercicio de las atribuciones que se determinan en el Acuerdo del Ejecutivo que crea a esta Unidad, publicado en el Periódico Oficial el día 20 de julio de 1985, las cuales se mencionan a continuación:
+Para efectos de las funciones de control y evaluación, la Coordinación General podrá apoyarse en la Dirección de Control y Evaluación Gubernamental, quien ejercerá las atribuciones que en dicha materia le otorga el Acuerdo del Ejecutivo Estatal, publicado en el Periódico Oficial del Estado con fecha 20 de julio de 1985.
 
-I.- Captar el seguimiento físico-financiero de los programas de inversión del Convenio de Desarrollo Social;
-
-II.- Evaluar bimestralmente el avance de ejecución de los programas autorizados;
-
-III.- Recibir la información mensual sobre la conciliación bancaria del ejercicio de los recursos y programas de inversión del Convenio de Desarrollo Social;
-
-IV.- Verificar el cumplimiento de la normatividad de obras públicas, de proveedores, de adquisiciones y arrendamientos de los programas de inversión del Convenio de Desarrollo Social;
-
-V.- Obtener los cierres contables del ejercicio anual de los recursos, convenidos, verificando su congruencia con los reportes de las Dependencias ejecutoras;
-
-VI.- Proponer al Presidente de la junta directiva y/o al Director General del COPLADE las medidas o cambios necesarios a los programas de inversión cuando estos no hayan cumplido con las metas programadas.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2000)</small>
 
 ###### ARTICULO 19.
 
-Corresponde a la Unidad de Inversión Pública el ejercicio de las atribuciones que al COPLADE le confieren las acciones convenidas entre los Ejecutivos Federal y Estatal en materia de inversión, en el marco de los Convenios de Desarrollo:
-
-I.- Apoyar técnicamente a las instancias ejecutoras de obra pública para la presentación de sus propuestas de inversión convenida con la Federación;
-
-II.- Autorizar los recursos establecidos en el marco del Convenio de Desarrollo Social;
-
-III.- Aplicar la metodología que corresponda en la distribución de los recursos que el Presupuesto de Egresos de la Federación otorgue a los Municipios;
-
-IV.- Implementar y administrar un Sistema Único de Información que registre, de seguimiento y controle la inversión pública, convenida en el Estado;
-
-V.- Elaborar informes periódicos de los avances físicos-financieros de los programas de inversión pública acordados con la Federación;
-
-VI.- Las demás que se establezcan en otras disposiciones legales aplicables.
+Para efectos de la función de inversión pública, en el marco de los Convenios de Desarrollo Social celebrados entre el Ejecutivo Federal y el Ejecutivo Estatal, la Coordinación General podrá apoyarse en la Unidad Administrativa de la Secretaría de Planeación y Finanzas que tenga encomendada dicha función, quien ejercerá las atribuciones que en dicha materia le otorgue su Reglamento Interno, publicado en el Periódico Oficial del Estado con fecha 28 de agosto de 1998.
 
 #### SECCIÓN IV. DE LA SECRETARÍA TÉCNICA
 
@@ -235,9 +219,19 @@ IV.- Cumplir con las comisiones y trabajos que le encomiende la Asamblea Plenari
 
 Los Subcomités actuarán como órganos auxiliares del COPLADE, como autoridad rectora de la planeación del desarrollo de la Entidad y se clasificarán en: Sectoriales, Regionales y Especiales.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 22.
 
-Cada Subcomité estará a cargo del funcionario designado como coordinador del sector administrativo correspondiente de la Administración Estatal y la forma de integración del mismo quedará bajo la responsabilidad del mismo coordinador del sector, quien deberá notificar al Coordinador General dicha integración.
+Cada Subcomité estará a cargo del funcionario designado como coordinador del sector administrativo correspondiente de la Administración Estatal y la forma de integración del mismo quedará bajo la responsabilidad del coordinador del sector, quien deberá notificar al Coordinador General dicha integración, observándose el mismo procedimiento para su extinción.
+
+Con la finalidad .de mantener un desarrollo armónico en el proceso de planeación, los coordinadores deberán presentar por escrito durante el primer trimestre del año un informe de la situación que guarda cada Subcomité.
+
+Los Subcomités podrán extinguirse por las siguientes causas:
+
+I.- Cuando el fin u objeto para 10 que fue creado ha quedado satisfecho;
+
+II.- Cuando los programas a los que da seguimiento han sido suprimidos o transferidos a los Ayuntamientos.
 
 ###### ARTICULO 23.
 
@@ -381,7 +375,7 @@ I.- Someter a la consideración de los vocales titulares o suplentes presentes e
 
 II.- Formular, de acuerdo con el Presidente de la Junta Directiva el orden del día;
 
-III.- Firmar en conjunto con el Presidente de la Junta Directiva, el orden del día;
+III.- ( REFORMADA [N. DE E. DEROGADA], P.O. 18 DE AGOSTO DE 2000)
 
 IV.- Asistir puntualmente a las reuniones de la Junta Directiva;
 
@@ -413,9 +407,11 @@ IV.- Desempeñar las funciones que les asigne la Junta Directiva.
 
 ### CAPÍTULO V. DE LAS FACULTADES DEL DIRECTOR
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 41.
 
-El Director General en cumplimiento a lo previsto por el artículo 11 del Decreto de creación del COPLADE, dirigirá, administrará y representará a este organismo en los actos jurídicos, administrativos y eventos en que sea parte, así como ante otros organismos e instituciones, ya sean éstas públicas o privadas, conforme a los poderes otorgados por la Junta Directiva.
+El Director en cumplimiento a lo previsto por el artículo 11 del Decreto de creación del COPLADE, dirigirá, administrará y representará a este organismo en los actos jurídicos, administrativos y eventos en que sea parte, así como ante otros organismos e instituciones, ya sean éstas públicas o privadas, conforme a los poderes otorgados por la Junta Directiva.
 
 ###### ARTICULO 42.
 
@@ -586,3 +582,15 @@ C.P. JORGE RAMOS
 EL SECRETARIO DE PLANEACIÓN Y FINANZAS
 
 DR. VICTOR ADÁN LÓPEZ CAMACHO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 18 DE AGOSTO DE 2000.
+
+###### ARTÍCULO PRIMERO
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO
+
+A la entrada en vigor del presente ordenamiento, cuando en el contenido del Decreto que crea al Comité de Planeación para el Desarrollo del Estado publicado en el Periódico Oficial del Estado de fecha 23 de Julio de 1999, se haga referencia al Comité, se entenderá que se trata del COPLADE.
