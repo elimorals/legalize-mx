@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2002-12-21"
+last_updated: "2003-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ENERO DE 2003.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -351,7 +351,9 @@ XI.- Imponer a los diputados sanciones pecuniarias por el monto de la dieta que 
 
 XII.- Conceder licencia a los diputados para que en un mes puedan faltar hasta tres sesiones. No se concederá licencia alguna cuando se perjudique el quórum;
 
-XIII.- Llamar al orden al que faltare a él, sea diputado o público asistente, pudiendo en caso de desobediencia o grave desorden suspender o levantar la sesión;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2003)</small>
+
+XIII.- Llamar al orden al que faltare a él, sea Diputado, invitado, compareciente, o público asistente, conforme a su criterio o a petición de un Diputado, pudiendo en caso de desobediencia o grave desorden suspender o levantar la sesión;
 
 XIV.- Solicitar el auxilio de la fuerza pública cuando sea necesario para garantizar el buen funcionamiento del Congreso;
 
@@ -1257,9 +1259,13 @@ Las intervenciones de los oradores no podrán durar más de veinte minutos en la
 
 Si el orador no termina su exposición en el tiempo que le corresponde, el Presidente, tras indicarle que ponga fin a su intervención, le retirará el uso de la palabra.
 
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2003)</small>
+
 ###### Art. 115.
 
-Quedan absolutamente prohibidas las alusiones irrespetuosas y las imputaciones de mala intención o de móviles ilegítimos tanto a la Legislatura como a sus miembros.
+Quedan absolutamente prohibidas las alusiones irrespetuosas y las imputaciones de mala intención o de móviles ilegítimos tanto a la Legislatura como a sus miembros, o a cualesquier persona que intervenga en el desarrollo de la sesión, ya sea por invitación o por comparecencia.
+
+El Presidente del Congreso hará cumplir lo dispuesto en el párrafo que antecede.
 
 ###### Art. 116.
 
@@ -1487,7 +1493,7 @@ Una vez ratificadas las denuncias, la Oficialía Mayor las turnará al President
 
 El procedimiento para la elección de Gobernador interino, provisional o sustituto, en los casos previstos por la Constitución Política del Estado, se sujetará a lo establecido en la misma.
 
-La designación del Presidente de la Comisión Estatal de Derechos Humanos la hará el Congreso de entre una terna propuesta por la Junta de Coordinación Parlamentaria. La remoción la hará a propuesta del ( sic) cualquier diputado aprobada por la mayoría de los diputados presentes.
+La designación del Presidente de la Comisión Estatal de Derechos Humanos la hará el Congreso de entre una terna propuesta por la Junta de Coordinación Parlamentaria. La remoción la hará a propuesta del (sic) cualquier diputado aprobada por la mayoría de los diputados presentes.
 
 ###### Art. 150.
 
@@ -1776,3 +1782,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+P.O. 18 DE ENERO DE 2003.
+
+UNICO.- El Presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado.
