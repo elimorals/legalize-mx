@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-familiar-del-estado-de-zacatecas-8211"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-10"
-last_updated: "1997-07-05"
+last_updated: "2000-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2000.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 
@@ -127,9 +127,11 @@ El Estado garantiza y protege la constitución, organización, funcionamiento y 
 
 El Estado promoverá la organización social y económica de la familia, mediante el vínculo del matrimonio, o del concubinato, al que se reconoce como institución del derecho familiar.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 6.
 
-El hombre y la mujer son iguales ante la ley. Esta protegerá la organización y el desarrollo de la familia. Toda persona tiene derecho a decidir de manera libre, responsable e informada, sobre el número y espaciamiento de sus hijos, tal como lo establece el artículo 4º de la Constitución Federal, sin que por ello se autorice el aborto, salvo en los casos señalados expresamente por la ley. Es deber de los padres preservar el derecho de los menores a la satisfacción de sus necesidades y a la salud física y mental. La ley determinará los apoyos a la protección de los menores o incapacitados, a cargo de las instituciones públicas.
+El hombre y la mujer son iguales ante la ley. Esta protegerá la organización y el desarrollo de la familia. Toda persona tiene derecho a decidir de manera libre, responsable e informada, sobre el número y espaciamiento de sus hijos, tal como lo establece el artículo 4º de la Constitución Federal, sin que por ello se autorice el aborto, salvo en los casos señalados expresamente por la ley. La ley determinará los apoyos a la protección de los menores o incapacitados, a cargo de las instituciones públicas. Es deber de los padres preservar el derecho de los menores a la satisfacción de sus necesidades y a su salud física y mental en los términos de la Ley de los Derechos del Niño.
 
 ###### ARTICULO 7.
 
@@ -319,9 +321,11 @@ Está prohibido al Oficial del Registro Civil y a los testigos que conforme a es
 
 La constancia así asentada no tendrá efecto alguno en materia de reconocimiento paterno, ya que éste se sujetará a las normas previstas en este Código, pero servirá de base para que, por conducto del Consejo de Familia del Distrito Judicial que corresponda, se promueva la investigación del paradero del presunto padre a fin de que, una vez localizado, se haga de su conocimiento la existencia del menor y el estado de abandono en que se encuentra.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 44.
 
-Toda persona que encontrare un recién nacido o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al Registro Civil, con los vestidos, valores o cualesquiera otros objetos encontrados en él y declarará la hora, el día, mes y año en que lo hubiere hallado, dándose la debida intervención al Ministerio Público.
+Toda persona que encontrare un recién nacido o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al Registro Civil, con los vestidos, valores o cualesquiera otros objetos encontrados en él y declarará la hora, el día, mes y año en que lo hubiere hallado, dándose la debida intervención al Ministerio Público e informando de ello al Consejo Estatal de los Derechos del Niño para los efectos que señala la ley de la materia.
 
 ###### ARTICULO 45.
 
@@ -1353,9 +1357,11 @@ El cónyuge menor de edad necesita de un tutor especial para poder solicitar el 
 
 Presentada la demanda, el Juez de Primera Instancia citará a los peticionarios a una junta para que la ratifiquen por sí mismos ante su presencia. En esta junta procurará el Juez avenir a los cónyuges; si no logra avenirlos aprobará provisionalmente, oyendo al Ministerio Público, los puntos del convenio relativo a la situación de los hijos menores o incapacitados, a la separación de los cónyuges y a los alimentos de aquéllos, de los que un cónyuge debe dar al otro mientras dure el procedimiento, dictando las medidas necesarias de aseguramiento. Si no insistieren los cónyuges, se dará por terminada la instancia.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 227.
 
-Si el Juez tuviera motivos suficientes, a su juicio, para dudar de la firmeza de la decisión en los solicitantes, citará a éstos a una segunda junta, en la cual procurará restablecer entre ellos la concordia y cerciorarse de la completa libertad de ambos para solicitar el divorcio. Si insistieren los cónyuges en su propósito de divorciarse, citará el Juez a las partes para oír sentencia, la que se dictará dentro del término legal, y en ella volverá a estudiar la situación de los hijos, debiendo oír el parecer del Ministerio Público sobre todos los puntos del convenio.
+Si el Juez tuviera motivos suficientes, a su juicio, para dudar de la firmeza de la decisión en los solicitantes, citará a éstos a una segunda junta, en la cual procurará restablecer entre ellos la concordia y cerciorarse de la completa libertad de ambos para solicitar el divorcio. Si insistieren los cónyuges en su propósito de divorciarse, citará el Juez a las partes para oír sentencia, la que se dictará dentro del término legal, y en ella volverá a estudiar la situación de los hijos, debiendo oír el parecer del Ministerio Público sobre todos los puntos del convenio, y del Consejo Estatal de los Derechos del Niño en relación a la situación de los menores.
 
 ###### ARTICULO 228.
 
@@ -1431,13 +1437,19 @@ IV. Dictar, en su caso, las medidas precautorias para proteger a la mujer que qu
 
 V. Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pide el divorcio propondrá la persona a cuyo cuidado deben quedar provisionalmente los hijos. El Juez, con audiencia del otro cónyuge, resolverá inmediatamente designando la persona que crea conveniente en caso de no ser aceptada la propuesta;
 
-VI. En la sentencia que decrete el divorcio, el Juez determinará los derechos y obligaciones derivadas de la patria potestad que conservará cada uno de los cónyuges, respecto de la persona y bienes de sus hijos, teniendo en cuenta el interés particular de los menores, su salud, costumbres, educación y conservación de su patrimonio. Para tal efecto, deberá el Tribunal oír al Ministerio Público, a los cónyuges, y en caso de estimarlo necesario, a los abuelos, tíos o hermanos mayores, pudiendo además discrecionalmente acordar de oficio cualquiera providencia que considere benéfica para los hijos;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2000)</small>
 
-VII. Los hijos quedarán bajo la custodia del cónyuge no culpable; sin embargo el Juez, en protección a los derechos de los menores, podrá disponer lo que considere más beneficioso para ellos, tomando en cuenta lo dispuesto en el Artículo que precede. Si los dos cónyuges fueran culpables, los hijos quedarán al cuidado de los ascendientes a quienes corresponda la patria potestad en defecto de los padres; y si no los hubiere se les nombrará un tutor.
+VI. En la sentencia que decrete el divorcio, el Juez determinará los derechos y obligaciones derivadas de la patria potestad que conservará cada uno de los cónyuges, respecto de la persona y bienes de sus hijos, teniendo en cuenta el interés particular de los menores, su salud, costumbres, educación y conservación de su patrimonio. Para tal efecto, deberá el Tribunal oír al Ministerio Público, al Consejo Estatal de los Derechos del Niño, a los cónyuges, y en caso de estimarlo necesario, a los abuelos, tíos o hermanos mayores, pudiendo además discrecionalmente acordar de oficio cualquiera providencia que considere benéfica para los hijos;
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2000)</small>
+
+VII. Los hijos quedarán bajo la custodia del cónyuge no culpable; sin embargo el Juez, en protección a los derechos de los menores, podrá disponer lo que considere más beneficioso para ellos, tomando en cuenta lo dispuesto en la fracción que precede y por la Ley de los Derechos del Niño. Si los dos cónyuges fueran culpables, los hijos quedarán al cuidado de los ascendientes a quienes corresponda la patria potestad en defecto de los padres; y si no los hubiere se les nombrará un tutor.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 235.
 
-El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas las obligaciones que tienen para con sus hijos.
+El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas las obligaciones que tienen para con sus hijos, observando en todo caso, la Ley de los Derechos del Niño.
 
 ###### ARTICULO 236.
 
@@ -1626,6 +1638,10 @@ III. El tutor del acreedor alimentario;
 IV. Los hermanos y demás parientes colaterales dentro del quinto grado; y
 
 V. El Ministerio Público.
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2000)</small>
+
+VI.- El Consejo Estatal de los Derechos del Niño.
 
 ###### ARTICULO 274.
 
@@ -2105,6 +2121,10 @@ III. Las personas que hayan acogido al que se pretende adoptar y lo traten como 
 
 IV. El Ministerio Público del lugar del domicilio del adoptado cuando éste no tenga padres conocidos, ni tutor, ni personas que ostensiblemente le impartan su protección y lo hayan acogido como hijo.
 
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2000)</small>
+
+V. Si el menor fuere expósito cuyos padres no sean localizados deberá otorgar su consentimiento al Consejo Estatal de los Derechos del Niño; en los demás casos bastará la opinión del mismo.
+
 Si el menor que se va a adoptar tiene más de catorce años, también se necesita su consentimiento para la adopción.
 
 ###### ARTICULO 360.
@@ -2119,9 +2139,11 @@ El procedimiento para hacer la adopción es el señalado en el Código de Proced
 
 Se considerará consumada la adopción a partir del momento en que cause ejecutoria la resolución judicial que la decretó.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 363.
 
-El Juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente.
+El Juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente, así como al Consejo Estatal de los Derechos del Niño, para el seguimiento de la situación del menor.
 
 ###### ARTICULO 364.
 
@@ -2138,6 +2160,12 @@ La adopción puede revocarse:
 I. Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, es necesario que consientan en la revocación las personas que prestaron su consentimiento, en los términos establecidos por esta Ley;
 
 II. Por ingratitud del adoptado.
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2000)</small>
+
+III.- Por maltrato, abandono o costumbres desordenadas, en los términos de la Ley de los Derechos del Niño. La revocación se tramitará de conformidad a lo dispuesto por el Código de Procedimientos Civiles.
+
+En este caso, el Ministerio Público, en protección al menor, ordenará la separación inmediata del adoptado; lo pondrá a la protección y cuidado de los ascendientes a los que legalmente les corresponda el ejercicio de la patria potestad; a su falta o impedimento, el menor pasará a la custodia del Sistema Estatal para el Desarrollo Integral de la Familia, y dentro de las veinticuatro horas siguientes pedirá al Juez la revocación de la adopción, quien deberá resolver en un término de setenta y dos horas a partir de la fecha de la solicitud.
 
 ###### ARTICULO 366.
 
@@ -2159,9 +2187,11 @@ La sentencia del Juez deja sin efecto la adopción y restituye las cosas al esta
 
 En el caso de revocación por ingratitud, ésta deja de producir efectos desde que se comete el acto ingrato, aunque la resolución que la declare sea posterior.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 369.
 
-Las resoluciones que dicten los Jueces aprobando la revocación, se comunicarán al Oficial del Registro Civil del lugar en que aquélla se hizo para que cancele el acta de adopción.
+Las resoluciones que dicten los Jueces aprobando la revocación, se comunicarán al Oficial del Registro Civil del lugar en que aquélla se hizo para que cancele el acta de adopción. Igualmente al Consejo Estatal de los Derechos del Niño para los efectos del seguimiento de su situación.
 
 ### CAPITULO QUINTO. DE LA TUTELA LEGITIMA DE LOS MENORES ABANDONADOS Y DE LOS ACOGIDOS POR ALGUNA PERSONA, O DE LOS PROTEGIDOS
 
@@ -2343,9 +2373,13 @@ I. Cuando el que la ejerce es condenado expresamente a la pérdida de ese derech
 
 II. En los casos de divorcio, teniendo en cuenta lo establecido al efecto por esta ley;
 
-III. Cuando por las costumbres depravadas de quienes la ejerzan, malos tratamientos o abandono de sus deberes, pueda comprometerse la seguridad o la salud física o mental de los menores, aun cuando estos hechos no cayeren bajo la sanción de la Ley penal;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2000)</small>
 
-IV. La exposición por los que la ejercen; o los dejen abandonados por más de seis meses, si quedaran a cargo de alguna persona.
+III. Cuando por las costumbres depravadas de quienes la ejerzan, malos tratamientos o abandono de sus deberes, pueda comprometerse la seguridad o la salud física o mental de los menores, aun cuando estos hechos no cayeren bajo la sanción de la ley penal, tomando en cuenta lo dispuesto por la legislación de los derechos del niño;
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2000)</small>
+
+IV. La exposición por los que la ejercen; o los dejen abandonados por más de seis meses, si quedaran a cargo de alguna persona, considerando lo señalado en la fracción V del artículo 359 de este Código.
 
 ###### ARTICULO 403.
 
@@ -2437,19 +2471,23 @@ Ningún incapaz puede tener a un mismo tiempo más de un tutor y de un curador d
 
 El tutor y el curador pueden desempeñar respectivamente la tutela o la curatela hasta de tres incapacitados. Si éstos son hermanos o son coherederos o legatarios de la misma persona, puede nombrarse un sólo tutor y un curador a todos ellos aunque sean más de tres.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 416.
 
-Cuando los intereses de alguno o algunos de los incapacitados sujetos a la misma tutela fueren opuestos, el tutor lo pondrá en conocimiento del Juez, quien nombrará un tutor especial que defienda los intereses de los incapacitados, que él mismo designará, mientras se resuelve el punto de oposición.
+Cuando los intereses de alguno o algunos de los incapacitados sujetos a la misma tutela fueren opuestos, el tutor lo pondrá en conocimiento del Juez, quien nombrará un tutor especial que defienda los intereses de los incapacitados, que él mismo designará, mientras se resuelve el punto de oposición, debiendo comunicar de ello al Consejo Estatal de los Derechos del Niño para el seguimiento correspondiente.
 
 ###### ARTICULO 417.
 
 Los cargos de tutor y de curador de un incapaz no pueden ser desempeñados al mismo tiempo por una sola persona. Tampoco pueden desempeñarse por personas que tengan entre sí parentesco de cualquier grado de la línea recta o dentro del cuarto grado de la colateral.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 418.
 
-Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y, en caso de intestado, los parientes y personas con quienes haya vivido, o el denunciante de la sucesión, bajo la pena de multa equivalente a treinta días del salario mínimo, están obligados a dar parte del fallecimiento al Agente del Ministerio Público, dentro del término de ocho días, a fin de que promueva lo necesario para que se provea a la tutela del incapacitado.
+Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y, en caso de intestado, los parientes y personas con quienes haya vivido, o el denunciante de la sucesión, bajo la pena de multa equivalente a treinta días del salario mínimo, están obligados a dar parte del fallecimiento al Agente del Ministerio Público, dentro del término de ocho días, a fin de que promueva lo necesario para que se provea a la tutela del incapacitado; igualmente se comunicará del hecho al Consejo Estatal de los Derechos del Niño.
 
-Los Oficiales del Registro Civil, las autoridades administrativas y las judiciales tienen la obligación de dar aviso al mismo funcionario para igual efecto, de los casos en que sea necesario nombrar tutor y que lleguen a su conocimiento en el ejercicio de sus funciones.
+Los Oficiales del Registro Civil, las autoridades administrativas y las judiciales tienen la obligación de dar aviso al mismo funcionario y al Consejo Estatal de los Derechos del Niño para igual efecto, de los casos en que sea necesario nombrar tutor y que lleguen a su conocimiento en el ejercicio de sus funciones.
 
 ###### ARTICULO 419.
 
@@ -2627,9 +2665,11 @@ II. Cuando el tutor testamentario o legítimo es coheredero o tiene cualquier ot
 
 El tutor dativo será nombrado por el Juez si el menor no ha cumplido catorce años.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 455.
 
-Si el menor tiene más de catorce años, él mismo nombrará el tutor y el Juez confirmará el nombramiento, si no tiene justa causa en contrario. Para reprobar los ulteriores nombramientos que haga el menor, se oirá, a más del Ministerio Público, a un defensor que el mismo menor elegirá.
+Si el menor tiene más de catorce años, él mismo nombrará el tutor y el Juez confirmará el nombramiento, si no tiene justa causa en contrario. Para reprobar los ulteriores nombramientos que haga el menor, se oirá, a más del Ministerio Público, a un defensor que el mismo menor elegirá y al Consejo Estatal de los Derechos del Niño.
 
 ###### ARTICULO 456.
 
@@ -2643,9 +2683,11 @@ El tutor dativo para asuntos judiciales tendrá el honorario que señale el aran
 
 Si el Juez no hace oportunamente el nombramiento de tutor, es responsable de los daños y perjuicios que se sigan al menor por esa falta.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 459.
 
-A los menores de edad que no están sujetos a la patria potestad ni a tutela testamentaria o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en ese caso tendrá por objeto el cuidado de la persona del menor, a efecto de que reciba la educación que corresponda a su posibilidad económica y a sus aptitudes. El tutor será nombrado a petición del Ministerio Público, del mismo menor, y aún de oficio, por el Juez de Primera Instancia y de lo Familiar.
+A los menores de edad que no están sujetos a la patria potestad ni a tutela testamentaria o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en ese caso tendrá por objeto el cuidado de la persona del menor, a efecto de que reciba la educación que corresponda a su posibilidad económica y a sus aptitudes. El tutor será nombrado a petición del Ministerio Público, del Consejo Estatal de los Derechos del Niño, del mismo menor, y aún de oficio, por el Juez de Primera Instancia y de lo Familiar.
 
 ###### ARTICULO 460.
 
@@ -2903,7 +2945,9 @@ El tutor está obligado:
 
 I. A alimentar y a educar al incapacitado;
 
-II. A destinar, de preferencia, los recursos del incapacitado a la curación de sus enfermedades o a su regeneración, si es un ebrio consuetudinario o un farmacodependiente;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2000)</small>
+
+II. A destinar, de preferencia, los recursos del incapacitado a la curación de sus enfermedades o a su regeneración, si es un ebrio consuetudinario o un adicto al consumo de estupefacientes o a las sustancias inhalantes;
 
 III. A formar inventario solemne y circunstanciado de cuanto constituye el patrimonio del incapacitado, dentro del término que el Juez designe, con intervención del curador y del mismo incapacitado, si goza de discernimiento y ha cumplido dieciséis años.
 
@@ -2917,6 +2961,10 @@ V. A representar al incapacitado en juicio y fuera de él, en todos los actos ci
 
 VI. A solicitar oportunamente la autorización judicial para todo lo que legalmente no puede hacer sin ella.
 
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2000)</small>
+
+VII. A respetar los derechos del niño, en los términos de la legislación estatal sobre la materia.
+
 ###### ARTICULO 497.
 
 Los gastos de alimentación y educación del menor deben regularse de manera que nada necesario le falte, según su condición y posibilidad económica.
@@ -2929,19 +2977,21 @@ Cuando el tutor entre en ejercicio de su cargo, el Juez fijará, con audiencia d
 
 El tutor destinará el menor a la carrera u oficio que éste elija, según sus circunstancias. Si el tutor infringe esta disposición, el Juez dictará las medidas convenientes, a petición de parte interesada o de la representación social.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 500.
 
-Si el que tenía la patria potestad sobre el menor lo había dedicado a alguna carrera, el tutor no variará ésta, sin la aprobación del Juez, quien decidirá este punto prudentemente oyendo en todo caso al mismo menor, al curador y al Ministerio Público.
+Si el que tenía la patria potestad sobre el menor lo había dedicado a alguna carrera, el tutor no variará ésta, sin la aprobación del Juez, quien decidirá este punto prudentemente oyendo en todo caso al mismo menor, al curador, al Ministerio Público y al Consejo Estatal de los Derechos del Niño.
 
 ###### ARTICULO 501.
 
 Si las rentas del menor no alcanzan a cubrir los gastos de alimentación y educación, el Juez decidirá si ha de ponérsele a aprender algún oficio o adoptarse otro medio para evitar la enajenación de sus bienes y, si fuere posible, sujetará a las rentas de éstos los gastos de alimentación.
 
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 1992)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 502.
 
-Si los menores o los mayores con alguna de las incapacidades a que se refiere el Artículo 409 fracción II fuesen indigentes, o carecieren de suficientes medios para los gastos que demandan su alimentación y educación, el tutor exigirá judicialmente la prestación de esos gastos a los parientes que tienen obligación legal de alimentar a los incapacitados. Las expensas que esto originen, serán cubiertas por el deudor alimentista. Cuando el mismo tutor sea obligado a dar alimentos, por razón de su parentesco con su tutelado, el curador o el Ministerio Público, ejercitará la acción a que este artículo se refiere.
+Si los pupilos con alguna de las incapacidades a que se refiere el artículo 409 fracción II fueren indigentes, o carecieren de suficientes medios para los gastos que demanden su alimentación y educación, el tutor exigirá judicialmente la prestación de estos gastos a los parientes que tienen obligación legal de alimentar a los incapacitados. Las expensas que esto originen, serán cubiertas por el deudor alimentista. Cuando el mismo tutor sea el obligado a dar alimentos, por razón de su parentesco con su tutelado, el curador, el Ministerio Público y el Consejo Estatal de los Derechos del Niño, ejercitarán la acción a que este artículo se refiere.
 
 > <small>(REFORMADO, P.O. 15 DE JULIO DE 1992)</small>
 
@@ -3071,9 +3121,11 @@ Ni con licencia judicial, ni en almoneda o fuera de ella, puede el tutor comprar
 
 Cesa la prohibición del artículo anterior, respecto de la venta de bienes, en el caso de que el tutor o sus parientes allí mencionados sean coherederos, partícipes o socios del incapacitado.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 530.
 
-El tutor no podrá hacer pago de sus créditos contra el incapacitado, sin la conformidad del curador y la aprobación judicial.
+El tutor, no podrá hacer pago de sus créditos contra el incapacitado, sin la conformidad del curador, del Consejo Estatal de los Derechos del Niño y la aprobación judicial.
 
 ###### ARTICULO 531.
 
@@ -3087,9 +3139,11 @@ El tutor no puede dar en arrendamiento los bienes del incapacitado por más de d
 
 El arrendamiento hecho de conformidad con el artículo anterior subsistirá por el tiempo convenido, aun cuando se acabe la tutela, pero será nula toda anticipación de rentas o alquileres por más de un año. La anticipación de rentas deberá ser autorizada por el Juez, y en su caso dichas rentas deberán ser depositadas e invertidas en una Institución Bancaria.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 534.
 
-Sin autorización judicial no puede el tutor recibir dinero prestado en nombre del incapacitado. La autorización judicial, si se concede, fijará las estipulaciones y garantías del préstamo.
+Sin autorización judicial no puede el tutor recibir dinero prestado en nombre del incapacitado. La autorización judicial, si se concede, fijará las estipulaciones y garantías del préstamo. En todos los casos se deberá comunicar al Consejo Estatal de los Derechos del Niño.
 
 ###### ARTICULO 535.
 
@@ -3131,11 +3185,11 @@ En ningún caso bajará la retribución del cinco ni excederá del diez por cien
 
 Si los bienes del incapacitado tuvieren un aumento en sus productos, debido exclusivamente a la industria y diligencia del tutor, tendrá derecho a que se le aumente la remuneración hasta un veinticinco por ciento de los productos líquidos. La calificación del aumento será hecha por el Juez.
 
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 1992)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 545.
 
-En caso de maltratamiento, de negligencia en los cuidados debidos al incapacitado o de mala administración de sus bienes, podrá el tutor ser removido de la tutela a petición del curador, de los parientes del incapacitado, del Consejo Local de Tutelas o del Ministerio Público.
+En caso de maltratamiento, de negligencia en los cuidados debidos al incapacitado o de mala administración de sus bienes, podrá el tutor ser removido de la tutela a petición del curador, de los parientes del incapacitado, del Consejo Local de Tutelas, del Ministerio Público o del Consejo Estatal de los Derechos del Niño.
 
 ###### ARTICULO 546.
 
@@ -3151,11 +3205,11 @@ El tutor debe rendir al Juez cuenta detallada de su administración, en el mes d
 
 El Juez puede, en cualquier momento, exigir al tutor que le rinda cuenta de su administración, aun cuando hubiere cumplido el tutor lo que le impone el artículo anterior.
 
-> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1992)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 548
 
-Bis.- También tiene el tutor obligación de rendir cuentas, cuando por causas graves que calificará el juez, la exijan el curador, el Consejo Local de Tutelas, el Ministerio Público, los propios incapaces señalados en la Fracción II del Artículo 409, o los menores que hayan cumplido dieciséis años de edad.
+Bis.- También tiene el tutor obligación de rendir cuentas, cuando por causas graves que calificará el juez, la exijan el curador, el Consejo Local de Tutelas, el Ministerio Público, el Consejo Estatal de los Derechos del Niño, los propios incapaces señalados en la fracción II del artículo 409, o los menores que hayan cumplido dieciséis años de edad.
 
 ###### ARTICULO 549.
 
@@ -3437,9 +3491,11 @@ La patria potestad, la adopción, la tutela y la curaduría son instituciones qu
 
 El funcionamiento de tales instituciones queda sujeto a las modalidades que le impongan las resoluciones que se dicten de acuerdo con las leyes aplicables.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 607.
 
-Las providencias protectoras del incapaz, que esta ley establece, y las que juzguen pertinentes los Tribunales, se dictarán por ellos de oficio, o a petición del Ministerio Público, de los parientes del incapaz, de éste mismo si ya hubo cumplido catorce años, de su tutor o de su curador.
+Las providencias protectoras del incapaz, que esta ley establece, y las que juzguen pertinentes los Tribunales, se dictarán por ellos de oficio, o a petición del Ministerio Público, de los parientes del incapaz, de éste mismo si ya hubo cumplido catorce años, de su tutor, de su curador o del Consejo Estatal de los Derechos del Niño.
 
 ###### ARTICULO 608.
 
@@ -4059,7 +4115,9 @@ III. Estudio sobre las posibles causas del problema familiar;
 
 IV. De ser posible pruebas psicológicas y psiquiátricas de las partes contendientes;
 
-V. Una vez entregado el reporte, el Juez Familiar, citará a las partes a una plática con el Consejo de Familia, a fin de que expongan su problema y considerarlo desde el punto de vista social y humano;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2000)</small>
+
+V. Una vez entregado el reporte, el Juez Familiar, citará a las partes a una plática con el Consejo de Familia, a fin de que expongan su problema y considerarlo desde el punto de vista social y humano oyendo previamente la opinión del Consejo Estatal de los Derechos del Niño;
 
 VI. Lo anterior tendrá por objeto, evitar una posible ruptura en las relaciones familiares, procurando la avenencia de las partes.
 
@@ -4105,13 +4163,19 @@ IX. Vigilar a los incapaces que realicen conductas antisociales, para tratar de 
 
 X. Recoger a los niños expósitos, abandonados o huérfanos, para internarlos en las instituciones públicas, en los términos de esta Ley;
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 1994)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2000)</small>
 
-XI. Las que establecen los artículos 36, 43 y 731, fracción II, así como todas las demás señaladas expresamente en este Código.
+XI. Informar al Consejo Estatal de los Derechos del Niño de la situación de los menores a consecuencia de los juicios de que tenga conocimiento;
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2000)</small>
+
+XII. Todas las demás funciones señaladas en este Código.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 726.
 
-Cuando los Consejos de Familia tengan conocimiento, de que un cónyuge abandonó a otro y a sus hijos, sin recursos económicos para satisfacer sus necesidades, pondrán este hecho en conocimiento del Ministerio Público para que éste ejercite las acciones correspondientes.
+Cuando los Consejos de Familia tengan conocimiento, de que un cónyuge abandonó a otro y a sus hijos, sin recursos económicos para satisfacer sus necesidades, pondrán este hecho en conocimiento del Ministerio Público para que éste ejercite las acciones correspondientes; asimismo del Consejo Estatal de los Derechos del Niño.
 
 ###### ARTICULO 727.
 
@@ -4143,7 +4207,9 @@ II. Tramitar, por conducto de los Consejos Familiares o del Ministerio Público,
 
 III. Procurar, con medios propios o en coordinación con otras instituciones privadas o públicas, municipales, estatales o federales, que se proporcione a los menores la asistencia social necesaria para protegerlos del abandono, evitar su explotación y encauzar su rehabilitación cuando sufran invalidez física, mental o moral; y
 
-IV. Llevar a cabo programas permanentes que estimulen la paternidad responsable, entendida como el cumplimiento constante y voluntario de todas y cada una de las obligaciones que este Código preceptúa a cargo del padre y de la madre, así como de los deberes morales inherentes.
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2000)</small>
+
+IV. Informar al Consejo Estatal de los Derechos del Niño sobre la situación de los menores bajo su custodia y posterior a la misma.
 
 ###### ARTICULO 732.
 
@@ -4251,8 +4317,12 @@ SEGUNDO.- Los menores de dieciocho años que se encuentren a disposición de aut
 
 TERCERO.- Para dar cumplimiento a lo dispuesto en el anterior artículo transitorio, la Secretaría General de Gobierno girará instrucciones a la Dirección de Prevención y Readaptación Social para que a partir de la publicación de este Decreto, levante y mantenga actualizado el censo de la población interna menor de dieciocho años en los Centros de Rehabilitación Social en la Entidad.
 
-CUARTO. El Centro de la población interna menor de dieciocho años, deberá estar disponible a más tardar el día en que inicie su vigencia este Decreto y la Secretaría General de Gobierno lo hará del conocimiento de los Jueces del fuero común por conducto del Tribunal Superior de Justicia del Estado. Tal comunicado lo hará extensivo a los Tribunales Federales radicados en la Entidad.
+CUARTO. El Centro de la población interna menor de dieciocho años, deberá estar disponible a más tardar el día en que inicie su vigencia este Decreto y la Secretaría General de Gobierno lo hará el conocimiento de los Jueces del fuero común por conducto del Tribunal Superior de Justicia del Estado. Tal comunicado lo hará extensivo a los Tribunales Federales radicados en la Entidad.
 
 QUINTO.- Las actuaciones practicadas por lo (sic) órganos ministeriales y jurisdiccionales de fuero común, antes del inicio de vigencia de este Decreto, tendrán validez legal por lo que respecta a procesados, sentenciados y reos menores de dieciocho años, únicamente en lo que sean compatibles con el procedimiento que prevé el Código tutelar para Menores del Estado de Zacatecas.
 
-SEXTO. El presupuesto de Egresos del Estado para el ejercicio fiscal de 1998, contemplará las previsiones necesarias para atender los requerimientos del Consejo Tutelar de Menores.
+SEXTO. El presupuesto de Egresos del Estado para el ejercicio fiscal de 1998, contemplará las previsiones necesarias para atender los requerimientos del Consejo Tutelar para Menores.
+
+P.O. 29 DE MARZO DE 2000.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
