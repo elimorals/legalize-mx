@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-regular-las-actividades-que-realizan-los-2774"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-10-10"
-last_updated: "1997-11-21"
+last_updated: "2001-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA REGULAR LAS ACTIVIDADES QUE REALIZAN LOS COMERCIANTES AMBULANTES, DE PUESTOS FIJOS Y SEMI-FIJOS, Y LOS DE MERCADOS SOBRE RUEDAS PARA EL MUNICIPIO DE TIJUANA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 2001.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el sábado 10 de octubre de 1992.
 
@@ -65,9 +65,11 @@ III.- VENDEDOR CON PUESTO SEMIFIJO: Es el comerciante debidamente autorizado, qu
 
 IV.- VENDEDOR EN MERCADO SOBRE RUEDAS: Es el comerciante debidamente autorizado, que participando con un grupo de comerciantes, se estaciona en un lugar especifico de la via publica un determinado dia de la semana, con sujecion a las condiciones fijadas en su permiso y bajo los condicionantes y regulaciones que en lo especifico establece el presente Reglamento, para el expendio de mercancias o prestacion de servicios al publico.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 5o.
 
-Los permisos otorgados por la Autoridad Municipal para el ejercicio del Comercio Ambulante, Comercio en puestos fijos o Semifijos, y Comercio de los Mercados sobre Ruedas, son personalisimos y por tanto intransferibles y no negociables, por tanto cualquier conducta que entrane (sic) su transferencia, negociacion, incumplimiento con las Leyes que le sean aplicables o violacion a este Reglamento producira su revocacion inmediata.
+Los permisos otorgados por la Autoridad Municipal para el ejercicio del Comercio Ambulante, Comercio en puestos fijos o semifijos, y comercio de los Mercados sobre Ruedas, son personalismos, no negociables y por tanto intransferibles, únicamente en el periodo de renovación el beneficiario del permiso podrá proponer a la autoridad lo substituya el cónyuge o en su caso un familiar con parentesco en primer grado que cumplan los requisitos a que se refiere el artículo 8 del ordenamiento, en tal situación o de fallecer el beneficiario, la autoridad si expide el permiso lo otorgará en ese orden, cualquier otra conducta distinta que entrañe su transferencia, negociación, incumplimiento con las Leyes que le sean aplicables o violación a este Reglamento producirá su revocación inmediata.
 
 ###### ARTICULO 6o.
 
@@ -526,3 +528,7 @@ P.O. 21 DE NOVIEMBRE DE 1997.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, órgano de difusión oficial, y publíquese en un periódico local de mayor circulación para conocimiento de la población.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones u ordenamientos que contravengan a la presente reforma.
+
+P.O. 26 DE OCTUBRE DE 2001.
+
+PRIMERO: La presente reforma entra en vigor al día siguiente de su publicación el (sic) Periódico Oficial del Estado y deberá publicarse en un periódico mayor (sic) circulación en la localidad para conocimiento de la población.
