@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-30-1998-del-pleno-del-consejo-de-la-5183
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-08-12"
-last_updated: "1998-08-12"
+last_updated: "2003-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51832&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-08-12"
 
 ACUERDO GENERAL NUMERO 30/1998, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE DELEGA DIVERSAS FACULTADES EN MATERIA DE RECURSOS HUMANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE MARZO DE 2003.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo VIII, Agosto de 1998, página 953.
 
@@ -101,7 +101,9 @@ XXII. Conocer de los asuntos que plantee el Sindicato de Trabajadores del Poder 
 
 CUARTO.- La Comisión de Administración estará facultada para autorizar la adscripción temporal de plazas de nueva creación en los Tribunales de Circuito y Juzgados de Distrito, así como para las áreas administrativas, en los casos en que a su juicio existan circunstancias que lo justifiquen, previa solicitud de los titulares respectivos.
 
-QUINTO.- Los consejeros nombrarán al personal adscrito a sus ponencias, con excepción de los secretarios técnicos que las integren y que serán propuestos por el consejero al Pleno del Consejo de la Judicatura.
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 8/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE MARZO DE 2003)</small>
+
+QUINTO.- Los Consejeros y los titulares de las áreas que corresponda nombrarán al personal adscrito a sus ponencias, con excepción de los Secretarios Técnicos que las integren, los que serán propuestos por cada titular a la Comisión de Administración, previa revisión por parte de la Secretaría Ejecutiva del Pleno, de que se cumple con los requisitos legales correspondientes; y hecho lo anterior, se informará al Pleno del Consejo de la Judicatura Federal respecto de la designación de que se trate.
 
 Las comisiones del Consejo de la Judicatura Federal, a propuesta de su presidente, nombrarán a los secretarios técnicos y personal subalterno que tengan adscrito, en los términos del artículo 84 de la Ley Orgánica del Poder Judicial de la Federación y del Acuerdo General Número 8/1995.
 
@@ -156,3 +158,13 @@ PRIMERO.- Este acuerdo entrará en vigor en la fecha de su aprobación por el Pl
 SEGUNDO.- Se derogan todas las disposiciones internas del Poder Judicial de la Federación que se opongan al presente acuerdo.
 
 LICENCIADO ADOLFO O. ARAGÓN MENDÍA, SECRETARIO EJECUTIVO DEL PLENO Y CARRERA JUDICIAL DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General Número 30/1998, por el que delega diversas facultades en materia de recursos humanos, fue aprobado por el Pleno del Consejo de la Judicatura Federal, en sesión de doce de agosto de mil novecientos noventa y ocho, por unanimidad de votos de los señores consejeros: presidente Ministro José Vicente Aguinaco Alemán, Alonso Galván Villagómez, Rodolfo Héctor Lara Ponte, Mario Melgar Adalid y Luis Gilberto Vargas Chávez.- México, Distrito Federal, a dieciocho de agosto de mil novecientos noventa y ocho.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 3 DE MARZO DE 2003.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Se derogan, en lo conducente, todas las disposiciones internas del propio Consejo que se opongan a este acuerdo.
+
+TERCERO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
