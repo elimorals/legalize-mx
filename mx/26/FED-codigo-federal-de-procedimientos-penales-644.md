@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "1988-01-12"
+last_updated: "1989-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE ENERO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ENERO DE 1989.
+
+(REPUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1989).
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -771,11 +773,11 @@ VI.- La condenación o absolución que proceda, y los demás puntos resolutivos 
 
 Los autos contendrán una breve exposición del punto de que se trate y la resolución que corresponda, precedida de su motivación y fundamentos legales
 
-> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1988)</small>
+(REFORMADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
 
 ###### ARTICULO 97.
 
-Los autos que contengan resoluciones de mero trámite deberán dictarse dentro de cuarenta y ocho horas, contadas desde aquélla en que se haga la promoción; los demás autos, salvo lo que la ley disponga para casos especiales, dentro de tres días, y la sentencia, dentro de quince días a partir del siguiente a la terminación de la audiencia; pero si el expediente excediere de quinientas fojas, a este plazo se aumentará un día por cada cien de exceso.
+Los autos que contengan resoluciones de mero trámite deberán dictarse dentro de cuarenta y ocho horas, contadas desde aquella en que se haga la promoción; los demás autos, salvo lo que la ley disponga para casos especiales dentro de tres días y la sentencia dentro de diez días a partir del siguiente a la terminación de la Audiencia; pero si el expediente excediere de quinientas fojas, por cada cien de exceso o fracción se aumentará un día más del plazo señalado, sin que nunca sea mayor de treinta días hábiles.
 
 ###### ARTICULO 98.
 
@@ -1505,6 +1507,10 @@ Cuando por la urgencia del caso o la gravedad de la lesión se requiera la inter
 
 Si el lesionado no debe estar privado de libertad, la autoridad que conozca del caso podrá permitir, si lo juzga conveniente, que sea atendido en lugar distinto bajo responsiva de médico con título legalmente reconocido y previa la clasificación legal de las lesiones. Este permiso se concederá sin perjuicio de que la autoridad se cerciore del estado del lesionado cuando lo estime oportuno.
 
+(ADICIONADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
+
+Siempre que se deba explorar físicamente a personas del sexo femenino, la atención correspondiente deberá ser proporcionada, a petición de la interesada, por médicos mujeres, salvo que no las haya en el momento y sitio en que deba efectuarse la exploración, en cuyo supuesto la propia interesada podrá proponer quien la atienda.
+
 ###### ARTICULO 189.
 
 En el caso de la segunda parte del artículo anterior, el lesionado tiene la obligación de participar a la autoridad que conozca del asunto en qué lugar va a ser atendido y cualquier cambio de éste o de su domicilio. La falta de aviso del cambio ameritará su ingreso al hospital o que se le imponga una corrección disciplinaria.
@@ -2027,9 +2033,7 @@ Los documentos redactados en idioma extranjero se presentarán originales, acomp
 
 Si ésta fuere objetada, se ordenará que sean traducidos por los peritos que designe el tribunal.
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1988)</small>
+### CAPITULO UNICO. (REFORMADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
 
 ### CAPITULO UNICO
 
@@ -2123,7 +2127,11 @@ Los tribunales, en sus resoluciones, expondrán los razonamientos que hayan teni
 
 ###### ARTICULO 291.
 
-Cerrada la instrucción, se mandará poner la causa a la vista del Ministerio Público, por diez días, para que formule conclusiones por escrito. Si el expediente excediere de doscientas fojas, por cada cien de exceso, o fracción, se aumentará un día al plazo señalado.
+Cerrada la instrucción, se mandará poner la causa a la vista del Ministerio Público, por diez días, para que formule conclusiones por escrito. Si el expediente excediere de doscientas fojas, por cada cien de exceso o fracción, se aumentará un día al plazo señalado, sin que nunca sea mayor de treinta días hábiles.
+
+Transcurrido el plazo a que se refiere el párrafo anterior sin que el Ministerio Público haya presentado conclusiones, el juez deberá informar mediante notificación personal al Procurador General de la República acerca de esta omisión, para que dicha autoridad formule u ordene la formulación de las conclusiones pertinentes, en un plazo de diez días hábiles, contados desde la fecha en que se le haya notificado la omisión, sin perjuicio de que se apliquen las sanciones que correspondan; pero, si el expediente excediere de doscientas fojas, por cada cien de exceso o fracción se aumentará un día en el plazo señalado, sin que nunca sea mayor de treinta días hábiles.
+
+Si transcurren los plazos a que alude el párrafo anterior, sin que se formulen las conclusiones, el juez tendrá por formuladas conclusiones de no acusación y el procesado será puesto en inmediata libertad y se sobreseerá el proceso.
 
 ###### ARTICULO 292.
 
@@ -2139,11 +2147,11 @@ En el primer caso de la parte final del artículo anterior, deberá fijar en pro
 
 Si las conclusiones fueren de no acusación; si en las formuladas no se comprendiere algún delito que resulte probado de la instrucción; si fueren contrarias a las constancias procesales; o si en ellas no se cumpliere con lo dispuesto en el artículo 293, el tribunal las enviará, con el proceso, al Procurador General de la República, señalando cuál es la omisión o contradicción, si éstas fueren el motivo del envío.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+(REFORMADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
 
 ###### ARTICULO 295.
 
-El Procurador General de la República o el Subprocurador que corresponda oirán el parecer de los funcionarios que deban emitirlo, y dentro de los quince días siguientes al de la fecha en que se haya recibido el proceso, resolverán si son de confirmarse o modificarse las conclusiones. Si transcurrido este plazo no se recibe respuesta de los funcionarios primeramente mencionados, se entenderá que las conclusiones han sido confirmadas.
+El Procurador General de la República o el Subprocurador que corresponda oirán el parecer de los funcionarios que deban emitirlo y dentro de los diez días siguientes al de la fecha en que se haya recibido el proceso, resolverá, si son de confirmarse o modificarse las conclusiones. Si transcurrido este plazo no se recibe respuesta de los funcionarios primeramente mencionados, se entenderá que las conclusiones han sido confirmadas.
 
 ###### ARTICULO 296.
 
@@ -2659,7 +2667,9 @@ Si se trata de sentencia absolutoria, podrá remitirse original el proceso, a no
 
 Cuando la apelación se admite en el efecto devolutivo, salvo el caso del párrafo anterior, se remitirá el duplicado autorizado de constancias o testimonio de lo que las partes designen y de lo que el tribunal estime conveniente.
 
-El duplicado o testimonio debe remitirse dentro de ocho días y si no se cumple con esta prevención, el tribunal de apelación a pedimento del apelante, impondrá al inferior una multa de cincuenta a mil pesos.
+(REFORMADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
+
+El duplicado o testimonio debe remitirse dentro de cinco días y si no se cumple con esta prevención, el tribunal de apelación, a pedimento del apelante, impondrá al inferior una multa de cinco a quince veces el salario mínimo.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ENERO DE 1986)</small>
 
@@ -4022,3 +4032,9 @@ D.O.F. 12 DE ENERO DE 1988.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a los sesenta días de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE ENERO DE 1989.
+
+REPUBLICADO D.O.F. 4 DE ENERO DE 1989.
+
+UNICO.- El presente Decreto entrará en vigor el día 1o. de abril de 1989.
