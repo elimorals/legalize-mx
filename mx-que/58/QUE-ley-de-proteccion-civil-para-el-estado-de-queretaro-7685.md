@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-proteccion-civil-para-el-estado-de-queretaro-7685"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-03"
-last_updated: "1992-12-03"
+last_updated: "2003-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE PROTECCION CIVIL PARA EL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el 3 de diciembre de 1992.
 
@@ -99,9 +99,11 @@ III. Las organizaciones, corporaciones y grupos de voluntarios que se encuentren
 
 El Ejecutivo del Estado a través del Consejo Estatal de Protección Civil, fomentará programas, estudios, investigaciones y otras actividades para desarrollar nuevos métodos, sistemas, equipos, dispositivos que permitan prevenir y controlar alguna catástrofe, desastre o calamidad pública y proporcionar a la comunidad los servicios que requiera para la atención de las necesidades generadas por la inminencia o presencia de un desastre.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 9.
 
-El Ejecutivo del Estado a través de la Secretaría de Gobierno, del Consejo Estatal y de la Unidad de Protección Civil, desarrollará programas educativos e informativos sobre los problemas reales y potenciales de la protección civil en el Estado, orientando a la población en esta materia.
+El Ejecutivo del Estado a través de la Secretaría de Seguridad Ciudadana, del Consejo Estatal y de la Unidad de Estatal Protección Civil, desarrollará programas educativos e informativos sobre los problemas reales y potenciales de la protección civil en el Estado, orientando a la población en esta materia.
 
 ###### ARTICULO 10.
 
@@ -131,13 +133,17 @@ EL Consejo Estatal de Protección Civil se integrará por:
 
 I. Un Presidente, que será el Gobernador del Estado;
 
-II. Un Secretario Ejecutivo, que será el Secretario de Gobierno;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2003)</small>
+
+II. Un Secretario Ejecutivo, que será el Secretario de Seguridad Ciudadana;
 
 III. Un Secretario Técnico, que será designado por el Gobernador del Estado;
 
 IV. Los Representantes de los Poderes Legislativo y Judicial del Estado;
 
-V. Los Titulares de las Dependencias y Entidades de la Administración Pública Estatal, que por el ramo que atienden les corresponda participar en los programas de prevención, auxilio y apoyo ante alguna posible calamidad.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2003)</small>
+
+V. El Secretario de Gobierno y los Titulares de las Dependencias y Entidades de la Administración Pública Estatal, que por el ramo que atienden, les corresponda participar en los programas de prevención, auxilio y apoyo ante alguna posible calamidad.
 
 VI. Las Delegaciones Estatales de las Dependencias y Entidades de la Administración Pública Federal, que atiendan ramos de actividad relacionados con la ejecución de los programas de prevención, auxilio y apoyo;
 
@@ -273,9 +279,11 @@ Los integrantes miembros del Consejo Estatal de Protección Civil ejercerán sus
 
 ### CAPITULO III. DE LA UNIDAD ESTATAL DE PROTECCION CIVIL
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 20.
 
-La Unidad Estatal de Protección Civil tendrá a su cargo la organización y operación del Sistema Estatal de Protección Civil, y depende del Poder Ejecutivo del Estado, a través de la Secretaría de Gobierno; sus acciones se apoyarán en el Consejo Estatal de Protección Civil y serán coordinadas por el Secretario Técnico.
+La Unidad Estatal de Protección Civil tendrá a su cargo la organización y operación del Sistema Estatal de Protección Civil, y depende del Poder Ejecutivo del Estado, a través de la Secretaría de Seguridad Ciudadana; sus acciones se apoyarán en el Consejo Estatal de Protección Civil y serán coordinadas por el Secretario Técnico.
 
 ###### ARTICULO 21.
 
@@ -856,3 +864,15 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO
 JESUS RODRIGUEZ HERNANDEZ
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE DICIEMBRE DE 2003.
+
+PRIMERO. Esta ley entrará en vigor el día 1 de enero del año 2004, debiéndose publicar en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. Se abroga la "Ley que Crea la Dirección de Seguridad Pública del Estado de Querétaro" del 22 de febrero de 1974, publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" con fecha 7 de marzo de 1974, y se derogan todas las demás disposiciones que se opongan a esta Ley. En consecuencia, las referencias que las leyes y demás disposiciones legales en el Estado tengan o hagan respecto de la Dirección de Seguridad Pública y/o Dirección de Tránsito y Transporte y/o sus titulares, se deberán entender hechas a favor de la Secretaría de Seguridad Ciudadana o su Titular.
+
+TERCERO. Las Unidades Administrativas que con motivo de esta Ley se transfieran de la Secretaría de Gobierno o de alguna otra a la Secretaría de Seguridad Ciudadana, incluirán al personal a su servicio, sin perjuicio de sus derechos adquiridos, así como el mobiliario, los vehículos, maquinaria, aparatos, instrumentos, archivos y el equipo que se haya venido usando. Los derechos laborales del personal que, en virtud de lo dispuesto en la presente Ley, pasen de una dependencia a otra, se respetarán conforme a la disposición legal de la materia.
+
+CUARTO. Los juicios y procedimientos administrativos que se encuentren en trámite y que con motivo de esta Ley deban pasar al conocimiento de la Secretaría de Seguridad Ciudadana, continuarán con su desahogo por quien conozca, y para el caso de que no se hayan resuelto a la fecha de entrada en vigor de esta Ley, se remitirán a la Secretaría a efectos de que ella determine lo conducente. Tratándose de asuntos en litigio, la Secretaría asumirá la personalidad jurídica, ya sea activa o pasiva, hasta la total terminación de los mismos a partir de la entrada en vigor de esta Ley.
