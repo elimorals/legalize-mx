@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-40978
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-03"
-last_updated: "2004-09-03"
+last_updated: "2004-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 3 de septiembre de 2004.
 
@@ -439,6 +439,10 @@ o. Por lo menos tres adultos mayores que designe el Consejo, a propuesta de su P
 
 Los funcionarios a que se refieren los incisos k), l), m), n) y o), sólo formarán parte del Consejo en caso de aceptar la invitación del Presidente.
 
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2004)</small>
+
+Los Vocales a que se refiere el inciso o) del presente artículo, durarán en su cargo tres años contados a partir de la fecha de su designación y no podrán ser reelectos.
+
 En todo tiempo, el Presidente del Consejo podrá invitar a participar, con voz pero sin voto, a todas aquellas personas que considere idóneas para colaborar en el cumplimiento de los objetivos del Consejo.
 
 ###### ARTÍCULO 24.
@@ -636,3 +640,9 @@ LIC. JOSÉ ALFREDO BOTELLO MONTES
 SECRETARIO DE GOBIERNO
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE OCTUBRE DE 2004.
+
+ÚNICO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
