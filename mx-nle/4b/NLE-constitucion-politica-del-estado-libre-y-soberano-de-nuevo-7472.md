@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1975-02-01"
+last_updated: "1976-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 1976.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -113,7 +113,9 @@ II.- Ser votados para cualquier cargo de elección, si reúnen las condiciones q
 
 III.- Hacer peticiones, reclamaciones o protestas en asuntos políticos e iniciar leyes ante el Congreso.
 
-IV.- Asociarse para tratar los asuntos políticos del Estado.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 1976)</small>
+
+IV.- Asociarse para tratar los asuntos políticos del Estado y formar partidos políticos en los términos que prevenga la Ley Electoral correspondiente.
 
 ###### Art. 37.
 
@@ -179,11 +181,11 @@ Los ciudadanos nuevoleoneses, reunidos en sus respectivas secciones en los días
 
 Fuera del caso de delito infraganti, ningún ciudadano puede ser arrestado el día de las elecciones ni la víspera. En caso de delito infraganti la autoridad tomará las providencias necesarias para la aprehensión del delincuente, una vez que haya depositado su voto.
 
-(REFORMADO, P.O. 14 DE DICIEMBRE DE 1966)(REPUBLICADO, P.O. 18 DE ENERO DE 1967)
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1976)</small>
 
 ###### Art. 44.
 
-La Ley Reglamentaria determinará las obligaciones y facultades de los Partidos Políticos y de los candidatos independientes, garantizando ampliamente sus derechos; dispondrá detalladamente la forma, procedimientos y demás requisitos con que deben celebrarse las elecciones, en el concepto de que cada asamblea electoral resolverá las dudas que se ofrezcan sobre la calidad de sus propios miembros; dividirá el Estado en Distritos Electorales, señalando los Municipios que correspondan a cada uno; establecerá los derechos y obligaciones de los votantes; designará quienes no tienen derecho a votar; precisará los casos de nulidad de una elección, acordándose los trámites a que debe sujetarse el procedimiento para pedirla y resolverá, y establecerá las penas que deben aplicarse a los infractores de sus disposiciones.
+La Ley Electoral del Estado de Nuevo León, reglamentaria de la Constitución Política Local en la materia, determinará las obligaciones, facultades y derechos de los partidos políticos, garantizando ampliamente sus derechos: dispondrá detalladamente la forma, procedimientos y demás requisitos con que deban celebrarse las elecciones, en el concepto de que cada asamblea electoral resolverá las dudas que se ofrezcan sobre la calidad de sus propios miembros; dividirá el Estado en Distritos Electorales, señalando los Municipios que correspondan a cada uno; establecerá los derechos y obligaciones de los votantes; designará quienes no tienen derecho de votar, precisará los casos de nulidad de una elección, acordándose los trámites a que debe sujetarse el procedimiento para pedirla y resolverla, y establecerá las penas que deben aplicarse a los infractores de sus disposiciones.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1942)</small>
 
@@ -195,11 +197,19 @@ El censo electoral se levantará cada seis años y precisamente en el que corres
 
 Del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 1942)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1976)</small>
 
 ###### Art. 46.
 
-Se deposita el ejercicio del Poder Legislativo en un Congreso compuesto de nueve diputados, electos cada tres años, proporcionalmente al número de habitantes - Cuando el censo del Estado pase de ochocientos mil habitantes; el Congreso tendrá cuando menos once diputados.- Los Distritos electorales no podrán tener menos de cuarenta mil; ni más de ciento veinte mil habitantes; y por cada uno de aquellos se elegirán un diputado propietario y un suplente.
+Se deposita el ejercicio del Poder Legislativo en un Congreso compuesto por quince Diputados electos por mayoría de votos, cada tres años; y en su caso, por Diputados de Partido en los términos del presente artículo. Los distritos electorales no podrán tener menos de cuarenta mil ni más de ciento veinte mil habitantes y por cada uno de aquellos se eligirá un Diputado Propietario y un Suplente. Los Diputados de Partido designarán de acuerdo con esta Constitución y con lo que disponga la Ley Electoral a quienes resulten nominados de acuerdo con las reglas siguientes:
+
+I.- Todo partido político que hubiese obtenido su registro conforme a la Ley Electoral del Estado, con un año o más de anterioridad al día de la elección, al obtener cuando menos el seis y medio por ciento de la votación total en el Estado, en la elección de diputados respectiva, tendrá derecho a que se le acredite, de sus candidatos, a un diputado, que se denominará "de partido".
+
+II.- Las diputaciones de partido serán acreditadas a los candidatos que mayor número de sufragios hubieren obtenido en sus distritos, a favor de sus propios partidos. La suplencia corresponderá al respectivo compañero de fórmula.
+
+III.- El partido político que obtenga uno o más diputados de mayoría no tendrá derecho a que se le acredite diputado de partido.
+
+IV.- Los diputados de mayoría y los de partido, siendo representantes del pueblo, tendrán la misma categoría e iguales derechos y obligaciones.
 
 ###### Art. 47.
 
@@ -359,9 +369,9 @@ XIII.- Revisar y aprobar en su caso, cada año y cuando lo juzgue conveniente, l
 
 XIV.- Promover e impulsar la educación pública y el engrandecimiento de todos los ramos de prosperidad en general.
 
-(REFORMADA, P.O. 14 DE DICIEMBRE DE 1966)(REPUBLICADO, P.O. 18 DE ENERO DE 1967)
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 1976)</small>
 
-XV.- Computar los votos que hayan obtenido los ciudadanos para los cargos de Gobernador y Diputados; decidir los empates o indecisiones que resulten; resolver en el acto las dudas que se ofrezcan sobre la nulidad de las expresadas elecciones y sobre la calidad de los electos; y calificar la verdadera imposibilidad que aleguen los elegidos para no admitir esos cargos.
+XV.- Computar los votos de que hubieren obtenido los candidatos para los cargos de Gobernador y Diputados; hacer lo propio con los obtenidos por los partidos políticos para los efectos del artículo 46 de esta Constitución; decidir los empates o indecisiones que resulten; resolver las dudas que se ofrezcan sobre la nulidad de las expresadas elecciones y sobre la calidad de los electos; y calificar la verdadera imposibilidad que aleguen los elegidos para no aceptar dichos cargos.
 
 XVI.- Recibir al Gobernador, Magistrados y Diputados, en su caso, la protesta de guardar y hacer guardar la Constitución Federal, la particular del Estado y las leyes que de ambas emanen.
 
@@ -941,9 +951,19 @@ Los Municipios administrarán libremente su Hacienda, la cual se formará aparte
 
 Quedan investidos los Municipios de personalidad jurídica para todos los efectos legales.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1976)</small>
+
 ###### Art. 121.
 
-Una Ley Reglamentaria señalará el número de Alcaldes, Regidores y Síndicos de que deban componerse los Ayuntamientos, tomando como base el censo de la población; y detallará sus facultades y obligaciones.
+Una Ley reglamentaria señalará el número de regidores y síndicos, todos con voz y voto, que juntamente con el presidente municipal, integren los ayuntamientos, tomando como base el censo de la población y detallarán sus facultades y obligaciones.
+
+Además de los electos por planilla, y también en razón del número de habitantes, formarán parte de los ayuntamientos, en su caso, y con las mismas facultades y obligaciones, regidores de partido electos conforme a las siguientes disposiciones:
+
+a).- Cada uno de los partidos políticos distintos al que obtuviere mayoría de votos y que hayan participado en la elección tendrá derecho que se le reconozca un regidor de partido que será el ciudadano que haya sido postulado como primer regidor, siempre y cuando el propio partido haya obtenido, del total de la votación en el municipio de que se trate, cuando menos el 6% o más, en el caso de los municipios cuya población exceda de quinientos mil habitantes; el 14% o más, en municipios que cuenten con más de cincuenta mil habitantes y no excedan de quinientos mil y el 16% o más, en municipios que cuenten con un mínimo de doce mil habitantes y no excedan de cincuenta mil.
+
+b).- En ningún caso los regidores de partido podrán exceder de tres en aquellos municipios cuya población exceda de quinientos mil habitantes; de dos en los municipios que cuenten con más de cincuenta mil habitantes y no excedan de quinientos mil y de uno en los demás que proceda.
+
+c).- Cuando en un municipio hayan participado en la elección y obtenido los porcentajes correspondientes más partidos del número máximo señalando para regidores de partido, éstos serán acreditados por órden decreciente de la votación.
 
 ###### Art. 122.
 
@@ -1427,6 +1447,10 @@ P.O. 22 DE JULIO DE 1942.
 
 Estas reformas empezarán a regir el día de su publicación en el Periódico Oficial del Estado.
 
+P.O. 30 DE DICIEMBRE DE 1942.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+
 P.O. 23 DE JUNIO DE 1943.
 
 > <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL "DECRETO No. 73 INTERPRETACIÓN AUTÉNTICA DEL INCISO b) DEL ARTÍCULO 84 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
@@ -1436,10 +1460,6 @@ PRIMERO:— De los términos del Decreto Número 40 publicado en el Periódico O
 SEGUNDO: — En consecuencia: A contar del 4 de Octubre de 1946, nadie que haya ocupado el puesto de Gobernador provisional o interinamente, o con cualquier otro carácter durante los segundos tres años de un período Gubernamental podrá ser electo para ese mismo cargo en el período Constitucional inmediato.
 
 TERCERO :— En la forma que antecede queda interpretada Jurídicamente la disposición contenida en el Inciso b) del Artículo 84 de la Constitución Política del Estado y fijado su alcance por el H. Congreso Local.
-
-P.O. 30 DE DICIEMBRE DE 1942.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
 
 P.O. 30 DE ABRIL DE 1947.
 
@@ -1536,3 +1556,27 @@ P.O. 1 DE FEBRERO DE 1975.
 PRIMERO:- Las presentes reformas entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO:- En relación con las reformas a los artículos 97 y 103 de la Constitución Política del Estado de Nuevo León, surtirán sus efectos con respecto a los nombramientos que durante su vigencia se realicen.
+
+P.O. 29 DE SEPTIEMBRE DE 1976.
+
+DECRETO NÚMERO 6
+
+###### ARTICULO PRIMERO
+
+- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO
+
+- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 1976.
+
+DECRETO NÚMERO 7
+
+###### ARTICULO PRIMERO
+
+- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO
+
+- Se derogan las disposiciones que se opongan al presente Decreto.
