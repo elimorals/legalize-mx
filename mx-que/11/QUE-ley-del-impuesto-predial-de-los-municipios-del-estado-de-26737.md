@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-impuesto-predial-de-los-municipios-del-estado-de-26737"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2004-12-09"
+last_updated: "2004-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL IMPUESTO PREDIAL DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre de 2002.
 
@@ -505,15 +505,13 @@ Las autoridades fiscales municipales, determinarán las reducciones únicamente 
 
 Las dependencias encargadas de las finanzas públicas municipales darán a conocer mediante publicación en estrados el beneficio de esta disposición, previo análisis del censo de familias afectadas, aunado a los datos que por el mismo concepto tenga la Unidad de Protección Civil Municipal o Estatal en su caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, 29 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO SEXTO.
 
-Tratándose de la primera enajenación, las personas físicas que tengan en propiedad inmuebles regularizados mediante los Programas de Certificación de Derechos Ejidales (PROCEDE) o los de la Comisión para la Regularización de la Tenencia de la Tierra (CORETT) y adeuden hasta cinco ejercicios fiscales, solo pagarán por cada uno de los ejercicios fiscales, la tarifa establecida en el artículo 7 de esta Ley, siempre y cuando realicen la totalidad del pago de los adeudos de los ejercicios fiscales, en una sola exhibición, dentro del periodo del ejercicio fiscal del año 2004.
+Las personas físicas que tengan en propiedad inmuebles regularizados mediante los Programas de Certificación de Derechos Ejidales (PROCEDE) o los de la Comisión para la Regularización de la Tenencia de la Tierra (CORETT) y adeuden ejercicios fiscales, pagarán por cada uno de éstos la tarifa establecida en el artículo 7 de esta Ley, sin multas ni recargos, siempre y cuando realicen el pago durante el ejercicio fiscal del año 2005.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
-
-Las dependencias encargadas de las finanzas públicas municipales darán a conocer mediante publicación en estrados el beneficio de esta disposición.
+Las dependencias encargadas de las finanzas públicas municipales darán a conocer mediante publicación en estrados el beneficio de esta disposición, así también, la presente ley se publicará en los diarios de mayor circulación en el Estado, por parte del Poder Legislativo.
 
 ASÍ LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y MANDARÁ SE IMPRIMA, PUBLIQUE Y OBSERVE.
 
@@ -616,3 +614,9 @@ P.O. 9 DE DICIEMBRE DE 2004.
 Artículo Primero. La presente Ley entrará en vigor a partir del primero de enero de 2005.
 
 Artículo Segundo. Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+P.O. 31 DE DICIEMBRE DE 2004.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan a la presente Ley.
