@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2003-12-02"
+last_updated: "2004-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE ABRIL DE 2004.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -76,6 +76,14 @@ La soberanía estatal reside esencial y originariamente en el pueblo del Estado 
 ###### Artículo 5.
 
 En el Estado de México todos los individuos son iguales y tienen las libertades, derechos y garantías que la Constitución Federal, esta Constitución y las leyes del Estado establecen.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2004)</small>
+
+El derecho a la información será garantizado por el Estado. La ley establecerá las previsiones que permitan asegurar la protección, el respeto y la difusión de este derecho.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2004)</small>
+
+Los poderes públicos y los órganos autónomos transparentarán sus acciones, garantizarán el acceso a la información pública y protegerán los datos personales en los términos que señale la ley reglamentaria.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -529,13 +537,13 @@ Los diputados que falten a tres sesiones consecutivas sin previa licencia del Pr
 
 La Legislatura del Estado sesionará por lo menos una vez cada año fuera de la capital del Estado.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 50.
 
-Las sesiones serán conducidas por una directiva electa mensualmente, cuyos integrantes velarán por el cumplimiento de las normas contenidas en la Ley Orgánica correspondiente sobre el debate y votación de los asuntos.
+Las sesiones serán conducidas por una directiva, cuyos integrantes velarán por el cumplimiento de las normas contenidas en la Ley Orgánica correspondiente sobre el debate y votación de los asuntos.
 
-En la segunda sesión del primer período ordinario del ejercicio de la Legislatura y para todo el período constitucional, se elegirá un órgano denominado Gran Comisión, cuya integración y funciones serán determinadas por la Ley Orgánica del Poder Legislativo.
+En la segunda sesión del primer período ordinario del ejercicio de la Legislatura y para todo el período constitucional, se integrará un órgano denominado Junta de Coordinación Política, cuya integración y funciones serán determinadas por la Ley Orgánica del Poder Legislativo y demás ordenamientos jurídicos aplicables.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -563,7 +571,9 @@ La Legislatura podrá solicitar del Gobernador del Estado o del Presidente del T
 
 Cuando se trate de iniciativas de los ayuntamientos o se discutan asuntos de su competencia, podrá solicitarse al presidente municipal, que concurra él o un integrante del ayuntamiento para responder a los cuestionamientos que se les planteen.
 
-Las solicitudes para este efecto se harán por conducto de la Gran Comisión.
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2004)</small>
+
+Las solicitudes para este efecto se harán por conducto de la Junta de Coordinación Política.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -1913,7 +1923,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 
 G.G. 9 DE SEPTIEMBRE DE 1939.
 
-Artículo Transitorio.- Este Decreto entrará en vigor desde la fecha de su publicación en la "Gaceta del Gobierno".do de dos años a que el mismo se refiere empezará a contarse desde el día 1° de enero de 1928.
+Artículo Transitorio.- Este Decreto entrará en vigor desde la fecha de su publicación en la "Gaceta del Gobierno".
 
 G.G. 27 DE DICIEMBRE DE 1939.
 
@@ -2488,3 +2498,25 @@ P.O. 2 DE DICIEMBRE DE 2003.
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+G.G. 30 DE ABRIL DE 2004.
+
+DECRETO NUMERO 44, POR EL QUE SE ADICIONA CON DOS PARRAFOS EL ARTICULO 5 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 30 DE ABRIL DE 2004.
+
+DECRETO NUMERO 45, POR EL QUE SE REFORMAN LOS ARTICULOS 50 Y 52 EN SU TERCER PARRAFO, DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Cuando en otros ordenamientos legales, reglamentarios y demás disposiciones, se señalen funciones y atribuciones de "la Gran Comisión", o se haga referencia a la misma, se entenderá que corresponden a "la Junta de Coordinación Política".
