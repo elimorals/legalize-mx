@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "1981-04-07"
+last_updated: "1983-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 1983.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -3379,6 +3379,10 @@ Las medidas de aseguramiento adoptadas se comunicarán a la Administración Gene
 
 El juez competente, al tener por radicada una sucesión, además de las medidas de que tratan los artículos anteriores, a solicitud de los interesados, del Ministerio Público o de oficio, ordenará la publicación de edictos, en la forma prevista para los emplazamientos, haciendo saber la radicación del juicio sucesorio para que se presenten los que se crean con derecho a la herencia y los acreedores de la misma.
 
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 1983)</small>
+
+De oficio, el Juez ordenará al Encargado del Registro Público de la Propiedad que informe, si en el Libro de Registro de Testadores a que se refiere el Artículo 2764 del Código Civil, se encuentra registrado o no, algún testamento otorgado por el autor de la herencia y, en caso afirmativo, los datos que de él consten en el Registro.
+
 ###### Art. 572.
 
 En todo juicio sucesorio tendrá el Fisco del Estado un interventor que cuide de sus intereses, designado por las autoridades hacendarias y sin honorarios a cargo de la sucesión. Su intervención cesará luego que estén cubiertos los intereses fiscales.
@@ -4740,3 +4744,9 @@ Se deroga el Artículo Transitorio Segundo del Decreto número 158, de fecha 14 
 ###### ARTICULO SEGUNDO.
 
 Estas reformas entrarán en vigor el día 15 de abril de 1981.
+
+P.O. 4 DE NOVIEMBRE DE 1983.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
