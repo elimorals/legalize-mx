@@ -4,7 +4,7 @@ identifier: "BCS-ley-reglamentaria-de-la-contaduria-mayor-de-hacienda-del-3281"
 country: "mx"
 rank: "ley"
 publication_date: "1975-06-25"
-last_updated: "1975-06-25"
+last_updated: "1991-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DE LA CONTADURIA MAYOR DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE DICIEMBRE DE 1991.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el 25 de junio de 1975.
 
@@ -71,9 +71,11 @@ El Congreso autorizará a la Comisión de la Contaduría Mayor de Hacienda para 
 
 Las dependencias señaladas en el artículo 4o. deberán presentar a la Contaduría Mayor de Hacienda sus cuentas de ingresos y egresos mensualmente, debiendo hacer la remisión de la documentación respectiva dentro de los cuarenta y cinco días siguientes al período que comprenden.
 
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE1991)</small>
+
 ###### ARTICULO 9o.
 
-Los Tesoreros Municipales presentarán sus cuentas mensualmente a la Contaduría Mayor de Hacienda por conducto del Presidente Municipal, para efecto de examen y aprobación en su caso.
+Los Ayuntamientos, previa su aprobación correspondiente, presentarán sus cuentas mensualmente a la Contaduría Mayor de Hacienda por conducto del Presidente o Tesorero Municipal, para el efecto de su examen y glosa.
 
 ###### ARTICULO 10o.
 
@@ -160,3 +162,11 @@ Esta Ley entrará en vigor a partir de su publicación en el Boletín Oficial de
 Sala de Sesiones del Poder Legislativo. La Paz, B. Cfa. Sur 17 de Junio de 1975.- EL PRESIDENTE, DIP. PROFR. MANUEL SALGADO CALDERON, Rúbrica.- EL SECRETARIO DIP. ING. OCTAVIO CLEMENTE PEREZ. Rúbrica.
 
 En cumplimiento de lo dispuesto por la fracción II del artículs (sic) 79 de la Constitución Política del Estado de Baja Cnlifornia (sic) Sur y para su debida publicación y observancia expido el presente Decreto en la residencia del Poder Ejecutivo Estatal en la ciudad de La Paz, a los veinte días del mes de junio de mil novecientos setenta y cinco. EL GOBERNADOR DEL ESTADO, LIC. ANGEL CESAR MENDOZA ARAMBURO, Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, PROFR. MARCELO RUBIO RUIZ, Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 10 DE DICIEMBRE DE1991.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
