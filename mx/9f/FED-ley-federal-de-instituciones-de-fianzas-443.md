@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-instituciones-de-fianzas-443"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1950-12-29"
-last_updated: "1953-12-30"
+last_updated: "1956-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=443&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1950-12-26"
 
 LEY FEDERAL DE INSTITUCIONES DE FIANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1953.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1956.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1950.
 
@@ -103,15 +103,11 @@ Satisfechos estos requisitos, la misma Secretaría otorgará permiso para que la
 
 La infracción de cualquiera de las disposiciones de este precepto, imputable a la institución de fianzas, será causa de revocación de la autorización para operar.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1953)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
 ###### ARTICULO 14.
 
-Las responsabilidades que asuma una Institución mediante el otorgamiento de fianzas, no deberán exceder en conjunto, de cincuenta veces el capital más el importe de las inversiones de las reservas de previsión y contingencia.
-
-Cuando las responsabilidades de una institución lleguen a dicho límite, sólo podrá otorgar nuevas fianzas en los términos y condiciones que la Secretaría de Hacienda y Crédito Público determine, previo estudio de su situación económica y de la regularidad de sus operaciones.
-
-Para los efectos de este artículo, se deducirá del volumen total de responsabilidades por fianzas en vigor, el importe de la cedidas en reafianzamiento o reaseguro a instituciones mexicanas y a empresas extranjeras.
+El conjunto de responsabilidades que asuma una institución mediante el otorgamiento de fianzas, no excederá del límite que le corresponda calculado de acuerdo con las bases que fije el reglamento de este artículo.
 
 ## TITULO II. Régimen económico
 
@@ -173,13 +169,17 @@ Las garantías a que se refiere este precepto deberán satisfacer los requisitos
 
 No se requerirá la garantía de que habla el artículo anterior, cuando previamente se demuestre ante la Secretaría de Hacienda y Crédito Público que el fiado es ampliamente solvente y tiene suficiente capacidad de pago.
 
+(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1956)(F. DE E., D.O.F. 21 DE SEPTIEMBRE DE 1957)
+
 ###### ARTICULO 23.
 
 La garantía que consista en prenda, sólo podrá constituirse sobre:
 
 I.- Dinero en efectivo.
 
-II.- Valores de los indicados en las fracciones III y V del artículo 40 de esta Ley.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
+II.- Valores de los indicados en las fracciones III, V y V bis del artículo 40 de esta Ley.
 
 III.- Valores señalados en las fracciones IV y VI del artículo 40. En el caso de esta fracción, la responsabilidad de la fiadora no excederá del ochenta por ciento del valor de la prenda.
 
@@ -305,7 +305,13 @@ IV.- Títulos de las deudas públicas interior y exterior del Gobierno Federal, 
 
 V.- Certificados de participación y bonos hipotecarios emitidos por instituciones nacionales de crédito.
 
-VI.- Acciones, obligaciones o valores diversos de los señalados en la fracción anterior, que previamente hayan sido aprobados como objeto de inversión, por el organismo que señalen las leyes respectivas.
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
+V bis.- Bonos para la habitación emitidos por instituciones nacionales de crédito.
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
+VI.- Acciones, obligaciones o valores diversos de los señalados en las dos fracciones anteriores, que previamente hayan sido aprobados como objeto de inversión por la Comisión Nacional de Valores.
 
 VII.- Acciones de sociedades cuyo objeto exclusivo sea la adquisición, construcción y administración de un edificio en el que la institución de fianzas establezca sus oficinas principales.
 
@@ -323,13 +329,23 @@ XIII.- Gastos anticipados, los de establecimiento y primera organización.
 
 XIV.- Bienes diversos de los indicados en las fracciones anteriores que la institución adquiera con motivo de sus créditos.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
 ###### ARTICULO 41.
 
-Las instituciones de fianzas deberán invertir en los valores señalados en las fracciones III y V del artículo anterior, el treinta por ciento como mínimo, de su capital y reservas de fianzas en vigor y de previsión.
+Las instituciones de fianzas deberán invertir por lo menos el 25% de su capital, reservas de capital, reservas de fianzas en vigor y de previsión en los valores señalados en las fracciones III y V del artículo anterior. Para los efectos de la inversión obligatoria a que se refiere este artículo, sólo se computarán los valores que se emitan con un interés no superior al 6% anual.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1953)</small>
+Un 5% del capital, reservas del capital, reservas de fianzas en vigor y de previsión, deberá estar invertido en bonos para la habitación popular emitidos por instituciones nacionales de crédito. Además, deberá mantenerse invertido cuando menos el 5% del capital pagado, reservas de capital, reservas de fianzas en vigor y de previsión, como sigue:
 
-Para los efectos de la inversión obligatoria en los valores a que se refiere este artículo, sólo se computarán aquellos que se emitan con un interés no superior al 6% anual.
+> <small>(F. DE E., D.O.F. 21 DE SEPTIEMBRE DE 1957)</small>
+
+1.- En habitaciones populares construídas por las instituciones de fianzas, con rentas bajas que, en ningún caso, excedan de $350.00 mensuales, de acuerdo con las características que para cada región del país fije la Secretaría de Hacienda y Crédito Público, previa opinión del Instituto Nacional de la Vivienda; o
+
+2.- En la edificación de habitaciones populares destinadas a ser vendidas mediante procedimientos de amortización cuyos pagos periódicos, por su propia cuantía, puedan equipararse al importe de rentas, de acuerdo con las características y plazos de amortización que autorice la propia Secretaría de Hacienda y Crédito Público, tras de oír la opinión del Instituto Nacional de la Vivienda; o
+
+3.- En préstamos hipotecarios con interés no mayor del 7% anual, destinados a la construcción de habitaciones populares que podrán otorgarse hasta por un 65% del valor del inmueble hipotecado, siempre que el inmueble se utilice precisamente para la habitación del deudor; o
+
+4.- En bonos para la habitación popular emitidos por instituciones nacionales de crédito
 
 ###### ARTICULO 42.
 
@@ -397,7 +413,9 @@ El activo de las instituciones de fianzas se valorizará de acuerdo con las sigu
 
 I.- Los bonos y demás obligaciones que se encuentren al corriente en sus servicios de amortización e intereses, al valor actual que represente el título, calculado al tipo de interés real que según el precio de adquisición devengue. Si no están al corriente en tales servicios, al posible valor de mercado en la fecha de cierre del ejercicio.
 
-II.- Las obligaciones del Gobierno Federal y los bonos hipotecarios de instituciones nacionales de crédito, siempre se valuarán por el sistema de amortización a valores actuales.
+(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956) (F. DE E., D.O.F. 21 DE SEPTIEMBRE DE 1957)
+
+II.- Las obligaciones del Gobierno Federal y los bonos hipotecarios de instituciones nacionales de crédito, así como los bonos para la habitación emitidos por éstas siempre se valuarán por el sistema de amortización a valores actuales.
 
 III.- Las acciones a su valor de mercado o en su defecto, al que fije la Secretaría de Hacienda y Crédito Público.
 
@@ -511,11 +529,13 @@ V.- En el caso que establece el artículo 95 en su regla IV.
 
 La reserva de contingencia se constituirá e invertirá dentro del bimestre siguiente a aquél en el cual se percibió la prima.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
 ### CAPITULO II. Facultades respecto a operaciones
 
 ###### ARTICULO 66.
 
-La reserva de contingencia se invertirá: el cincuenta por ciento en valores de los indicados en las fracciones III y V del artículo 40 de esta Ley; y el cincuenta por ciento restante en valores de renta fija previamente aprobados para efectos de inversión por el organismo que señalen las leyes respectivas.
+La reserva de contingencia se invertirá: el 45% en valores de los indicados en las fracciones III y V del artículo 40 de esta Ley; el 10% en valores de los indicados en la fracción V bis de dicho artículo y el 45% restante en valores de renta fija previamente aprobados para efectos de inversión por la Comisión Nacional de Valores.
 
 ###### ARTICULO 67.
 
@@ -1155,6 +1175,8 @@ Tanto la Tesorería de la Federación, como las Tesorerías del Distrito y Terri
 
 Los procedimientos conciliatorios o contenciosos, iniciados ante la Comisión Consultiva de Fianzas y pendientes de resolución, se concluirán por la Dirección de Crédito, de la Secretaría de Hacienda y Crédito Público, para cuyo efecto, dicha Comisión, inmediatamente después de la publicación de este decreto, pondrá a disposición de la misma los expedientes relativos; y, en consecuencia, se deroga el artículo XII Transitorio de la Ley Federal de Instituciones de Fianzas, de 26 de diciembre de 1950.
 
+D.O.F. 31 DE DICIEMBRE DE 1956.
+
 ###### ARTICULO 1°.
 
 Institución de fianzas es una sociedad anónima, autorizada previamente por el Gobierno Federal para otorgar fianzas a título oneroso.
@@ -1178,3 +1200,17 @@ Las instituciones de fianzas podrán emitir acciones no suscritas que se conserv
 ###### ARTICULO 4°.
 
 La escritura social y sus modificaciones deberán ser aprobadas por la Secretaría de Hacienda y Crédito Público, cuando se ajusten a la Ley. La misma ordenará al Registro Público de la Propiedad y de Comercio de la ciudad de México y al del domicilio social, que haga la inscripción correspondiente sin necesidad de mandamiento judicial. La inscripción que se haga en contravención a lo dispuesto por este artículo, no surtirá efecto legal.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Las instituciones de fianzas ajustarán sus inversiones a lo que dispone el artículo 41 reformado en el plazo de un año; pero tanto la disminución de la inversión obligatoria del treinta al veinticinco por ciento a que se refiere el primer párrafo de dicho precepto, como las inversiones que cita el mismo artículo, hasta llegar al diez por ciento obligatorio, será en la proporción que corresponda, al día último de los meses de marzo, junio, septiembre y diciembre de 1957, sin que en ningún momento la inversión total en valores públicos sea inferior al treinta por ciento.
+
+El mismo régimen de ajuste se aplicará respecto de la inversión obligatoria establecida en el artículo 66 reformado para la reserva de contingencia.
+
+###### ARTICULO TERCERO.
+
+Entretanto no se expida el Reglamento respectivo, el límite de responsabilidades seguirá determinándose de acuerdo con lo dispuesto en el artículo 14 que se reforma.
