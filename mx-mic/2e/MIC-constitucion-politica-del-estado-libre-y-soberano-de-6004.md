@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1977-03-10"
+last_updated: "1978-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 1978.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -265,9 +265,9 @@ No podrán ser electos diputados:
 
 I.- Los ciudadanos que tengan mando de fuerza pública en el distrito por el que pretendan ser electos;
 
-> <small>(REFORMADA, P.O. 01 DE NOVIEMBRE DE 1962)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 1978)</small>
 
-II.- El Gobernador del Estado, los Secretarios Generales de Gobierno, los Magistrados del Supremo Tribunal de Justicia, el Tesorero General y el Procurador General de Justicia.
+II.- El Gobernador del Estado, el Secretario General de Gobierno, el Oficial Mayor, el Procurador de Justicia, el Tesorero General y los Magistrados del Supremo Tribunal de Justicia.
 
 III.- Los jueces de primera instancia, los recaudadores de rentas y los presidentes municipales en los distritos electorales donde ejerzan sus funciones, y
 
@@ -623,9 +623,9 @@ II.- Los que tengan mando de fuerza pública;
 
 III.- Aquellos que desempeñen algún cargo o comisión del Gobierno Federal, y
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 1962)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 1978)</small>
 
-IV.- Los Secretarios Generales de Gobierno, el Procurador General de Justicia, el Tesorero General del Estado y los Magistrados del Supremo Tribunal de Justicia.
+IV.- El Secretario General de Gobierno, el Oficial Mayor, el Procurador de Justicia, el Tesorero General y los Magistrados del Supremo Tribunal de Justicia;
 
 Las personas a que se refieren las tres últimas fracciones podrán ser electas si se separan de sus cargos noventa días antes de la elección.
 
@@ -679,9 +679,9 @@ La designación de Gobernador Provisional, Interino y Substituto debe recaer en 
 
 Si al comenzar un período constitucional no se presentare el Gobernador electo, o la elección no estuviera hecha y declarada el 16 de septiembre, cesará, sin embargo, el Gobernador cuyo período haya concluído, y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador interino, el que designe el Congreso del Estado, o en su receso, con el carácter de provisional, el que designe la Diputación Permanente, en cuyo caso se procederá conforme a lo dispuesto en el artículo 54.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1962)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 1978)</small>
 
-Cuando la falta del Gobernador fuese temporal, el Congreso del Estado, o en su defecto la Diputación Permanente, designará un Gobernador Interino para que funcione durante el tiempo que dure la falta: si ésta no excede de treinta días, el primer Secretario General de Gobierno, se encargará del despacho del Poder Ejecutivo, salvo que se encuentre comprendido en alguna de las prohibiciones que establece esta Constitución, en cuyo caso la substitución se hará por el segundo Secretario de Gobierno y si éste se halla en el mismo caso, se procederá en los términos indicados en la primera parte de ese párrafo. Si la falta se convierte de temporal en absoluta se observará lo dispuesto por el artículo 54.
+Cuando la falta del Gobernador fuese temporal, el Congreso del Estado, o en su defecto la Diputación Permanente, designará un Gobernador Interino para que funcione durante el tiempo que dure la falta; si ésta no excede de treinta días, el Secretario General de Gobierno, se encargará del despacho del Poder Ejecutivo, salvo que se encuentre comprendido en alguna de las prohibiciones que establece esta Constitución, en cuyo caso la sustitución se hará por el Oficial Mayor de Gobierno y si éste se halla en el mismo caso, se procederá en los términos indicados en la primera parte de este párrafo. Si la falta se convierte de temporal en absoluta se observará lo dispuesto por el artículo 54.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -735,9 +735,9 @@ XIII.- Cuidar de la formación e instrucción de las fuerzas de policía y segur
 
 XIV.- Disponer de las fuerzas de seguridad y de la Guardia Nacional, y ordenar que pase ésta a otros Estados, en los términos que establezca la Constitución Federal;
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 1962)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 1978)</small>
 
-XV.- Nombrar y remover a los Secretarios de Gobierno, a los Oficiales Mayores, al Tesorero General, al Procurador General de Justicia, a los Jefes y Oficiales de las Fuerzas de Policía y Seguridad del Estado y a los demás funcionarios y empleados de la administración, cuyo nombramiento y remoción no estén determinados de otro modo en esta Constitución o en las leyes.
+XV.- Nombrar y remover al Secretario General de Gobierno, al Oficial Mayor, al Procurador de Justicia, al Tesorero General, a los Coordinadores, a los Directores, a los Jefes de Departamento y a los demás funcionarios y empleados de la administración cuyo nombramiento y remoción no estén determinados de otro modo en esta Constitución o en las leyes;
 
 XVI.- Imponer multas hasta de quinientos pesos, o arresto hasta de quince días, por infracciones a los reglamentos gubernamentales o de policía. Sólo cuando el sancionado no pague la multa, se conmutará ésta por el arresto correspondiente;
 
@@ -771,9 +771,9 @@ IV.- Impedir a retardar las elecciones populares o la instalación de la Legisla
 
 V.- Intervenir en las elecciones para favorecer a personas determinadas;
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 1962)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 1978)</small>
 
-VI.- Salir del territorio del Estado por más de treinta días sin licencia del Congreso o de la Diputación Permanente. Cuando el Gobernador, sin abandonar sus funciones, salga del territorio del Estado o de la capital, el primer Secretario de Gobierno quedará Encargado del Despacho salvo el caso de falta temporal o impedimento en el que será reemplazado por el segundo Secretario de Gobierno.
+VI.- Salir del territorio del Estado por más de treinta días sin licencia del Congreso o de la Diputación Permanente. Cuando el Gobernador, sin abandonar sus funciones, salga del territorio del Estado, el Secretario General de quedará encargado del despacho, salvo el caso de falta temporal o impedimento, en el que será reemplazado por el Oficial Mayor;
 
 VII.- Mezclarse en asuntos judiciales, ni disponer, durante la tramitación de un juicio, de las cosas que en él se versen o de las personas que estén bajo la acción de la justicia, y
 
@@ -783,11 +783,11 @@ VIII.- Autorizar la ocupación de la propiedad de persona alguna, ni privarla de
 
 #### SECCION III. Del Despacho del Poder Ejecutivo
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1962)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 1978)</small>
 
 ###### Artículo 62.
 
-Para el despacho de los negocios del orden administrativo del Estado, tendrá el Gobernador un Secretario General de Gobierno; podrá también el propio Gobernador designar un segundo Secretario, cuyas atribuciones se determinarán por disposición especial.
+Para el despacho de los negocios del orden político y administrativo del Estado, tendrá el Gobernador un Secretario General y un Oficial de Gobierno.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -801,25 +801,31 @@ II.- Ser ciudadano en pleno ejercicio de sus derechos;
 
 III.- Haber cumplido veinticinco años de edad el día de su designación;
 
-IV.- No haber sido condenado por delitos infamantes o contra la propiedad.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 1978)</small>
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1962)</small>
+IV.- No haber sido condenado por delito no culposo.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 1978)</small>
+
+Los mismos requisitos serán necesarios para ser Oficial Mayor de Gobierno.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 1978)</small>
 
 ###### Artículo 64.
 
-Los Secretarios de Gobierno a que se refiere el artículo 62, serán los órganos por los cuales el Ejecutivo comunique sus resoluciones, en su caso, en la materia de competencia de cada uno de ellos, y llevarán en el Congreso la voz del Gobernador, cuando éste lo crea conveniente.
+El Secretario General de Gobierno a que se refiere el artículo 62, será el órgano por el cual el Ejecutivo comunique sus resoluciones y llevará en el Congreso la voz del Gobernador cuando éste lo crea conveniente.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1962)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 1978)</small>
 
 ###### Artículo 65.
 
-Todas las leyes, decretos, reglamentos, órdenes generales, acuerdos que resuelvan asuntos administrativos y circulares de observancia general, serán firmados por el Gobernador del Estado y por el Secretario de Gobierno encargado de la materia a que el asunto corresponda.
+Todas las leyes, decretos, reglamentos, órdenes generales, acuerdos que resuelvan asuntos administrativos y circulares de observancia general, serán firmados por el Gobernador del Estado y por el Secretario General de Gobierno o por el Oficial Mayor, en los asuntos de su competencia.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1962)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 1978)</small>
 
 ###### Artículo 66.
 
-Los Secretarios de Gobierno serán responsables de los actos que el Gobernador autorice contra la Constitución y leyes federales, o contra la Constitución y leyes del Estado.
+El Secretario General de Gobierno y el Oficial Mayor, en su caso, serán responsables de los actos que el Gobernador autorice contra la Constitución y leyes federales o contra la Constitución y leyes del Estado.
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1173,11 +1179,11 @@ Sin declaración expresa del Congreso de haber lugar a formación de causa, los 
 
 Se concede acción popular para denunciar ante el Congreso los delitos comunes y oficiales de los funcionarios del Estado, sin obligación de constituirse en parte.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE NOVIEMBRE DE 1962)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 1978)</small>
 
 ###### Artículo 105.
 
-Siempre que se trate de un delito del orden común cometido por algún diputado, por el Gobernador, por un Magistrado, por los Secretarios de Gobierno por el Procurador de Justicia o por el Tesorero del Estado, el Congreso, erigido en Gran Jurado, declarará por los dos tercios de los votos de sus miembros presentes cuando se trate del Gobernador, y por mayoría, cuando se trate de otros funcionarios, si procede o no la formación de causa. En caso negativo, no habrá lugar a procedimiento ulterior, salvo que aparezcan nuevos datos y nuevos elementos, pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, pues la resolución del Congreso no prejuzga absolutamente sobre los fundamentos de la acusación. En caso afirmativo, quedará el acusado separado de su encargo y sujeto a la acción de los tribunales comunes, salvo que se trate del Gobernador del Estado, en cuyo caso sólo habrá lugar a que el Congreso lo juzgue como si se tratare de un delito oficial. La declaración de haber lugar a formación de causa contra un funcionario de elección popular, procede desde la fecha en que haya sido declarado electo.
+Siempre que se trate de un delito del orden común cometido por algún diputado, por el Gobernador, por un magistrado, por el Secretario General de Gobierno, por el Oficial mayor, por el Procurador de Justicia o por el Tesorero del Estado, el Congreso, erigido en Gran Jurado, declarará por los dos tercios de los votos de sus miembros presentes cuando se trate del Gobernador, y por mayoría, cuando se trate de otros funcionarios, si procede o no la formación de causa. En caso negativo, no habrá lugar a procedimiento ulterior, salvo que aparezcan nuevos datos y elementos, pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, pues la resolución del Congreso no prejuzga absolutamente sobre los fundamentos de la acusación. En caso afirmativo quedará el acusado separado de su encargo y sujeto a la acción de los tribunales comunes, salvo que se trate del Gobernador del Estado, en cuyo caso sólo habrá lugar a que el Congreso lo juzgue como si se tratare de un delito oficial. La declaración de haber lugar a formación de causa contra un funcionario de elección popular, procede desde la fecha en que haya sido declarado electo.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1205,11 +1211,11 @@ En los delitos oficiales no cabe la gracia del indulto.
 
 La responsabilidad por los delitos, omisiones y faltas oficiales de funcionarios públicos que gocen de fuero constitucional, sólo podrán exigirse durante el período en que los funcionarios ejerzan su cargo y dentro de un año después. En cuanto a los delitos comunes, se observarán las reglas generales de prescripción que establezcan las leyes.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1962)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 1978)</small>
 
 ###### Artículo 109.
 
-El Gobernador Constitucional del Estado y los diputados gozarán de fuero desde el día en que fueren declarados electos; los Magistrados propietarios, desde la fecha en que fueren designados; los Gobernadores provisionales, interinos y substitutos, los diputados suplentes, los Magistrados supernumerarios, los Secretarios de Gobierno, el Procurador de Justicia y el Tesorero General, únicamente cuando ejerzan sus funciones.
+El Gobernador Constitucional del Estado y los diputados gozarán de fuero desde el día en que fueren declarados electos; los magistrados propietarios, desde la fecha en que fueren designados; los gobernadores provisionales, interinos y sustitutos, los diputados suplentes, los magistrados supernumerarios, el Secretario General de Gobierno, el Oficial Mayor, el Procurador de Justicia y el Tesorero General, únicamente cuando ejerzan sus funciones.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1611,11 +1617,11 @@ El cargo de Gobernador prefiere a cualquier otro.
 
 Todos los funcionarios de elección popular, a excepción de aquellos cuyo cargo es consejil, recibirán una compensación por sus servicios, que será determinada por la Ley y pagada por los fondos públicos. Esta compensación no es renunciable.
 
-> <small>(REFORMADO, P.O. 01 DE NOVIEMBRE DE 1962)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 1978)</small>
 
 ###### Artículo 157.
 
-Los diputados y los Secretarios de Gobierno, al tomar posesión de su encargo, harán ante el Congreso, o en su caso ante la Diputación Permanente, la protesta de guardar y hacer guardar la Constitución Federal, la del Estado y las leyes que de ambas emanen, y desempeñar leal y patrióticamente sus respectivos encargos. Los demás funcionarios y empleados protestarán bajo la misma fórmula y ante las autoridades o corporaciones que determinen las leyes.
+Los diputados, el Secretario General de Gobierno y el Oficial Mayor, al tomar posesión de su encargo, rendir ante el Congreso, o en su caso ante la Diputación Permanente, la protesta de guardar y hacer guardar la Constitución Federal, la del Estado y las leyes que de ambas emanen, y desempeñar leal y patrióticamente sus respectivos encargos. Los demás funcionarios y empleados protestarán bajo la misma fórmula y ante las autoridades o corporaciones que determinen las leyes.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1637,9 +1643,9 @@ En el caso de la fracción V del artículo 76 de la Constitución Federal, asumi
 
 I.- El Presidente de la última Legislatura o el de la Diputación Permanente, si la disolución de los Poderes ocurriese estando ésta en funciones;
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 1962)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 1978)</small>
 
-II. El primer o segundo Secretario de Gobierno conforme a los artículos 57 y 61, fracción VI, de esta Constitución;
+II. El Secretario General de Gobierno o el Oficial Mayor conforme a los artículos 57 y 61, fracción VI, de esta Constitución;
 
 III. El último Presidente del Supremo Tribunal de Justicia.
 
@@ -1838,3 +1844,7 @@ Este Decreto entrará en vigor, a los quince días de su publicación en el Peri
 P.O. 10 DE MARZO DE 1977.
 
 UNICO.- El presente Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MARZO DE 1978.
+
+UNICO.- Este Decreto entrará en vigor a los 15 quince días siguientes al de su publicación en el Periódico Oficial del Estado.
