@@ -4,7 +4,7 @@ identifier: "LGOAAC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1985-01-14"
-last_updated: "1993-12-23"
+last_updated: "1995-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=317&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGOAAC"
 
 LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE NOVIEMBRE DE 1995.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de enero de 1985.
 
@@ -140,9 +140,9 @@ Los capitales mínimos a que se refiere esta fracción, deberán estar totalment
 
 Las organizaciones auxiliares del crédito y casas de cambio podrán emitir acciones sin valor nominal así como preferentes o de voto limitado. En caso de que exista más de una serie de acciones deberá indicarse expresamente el porcentaje del capital social que podrá corresponder.
 
-> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
-El capital pagado de las sociedades podrá integrarse con una parte representada por acciones de voto limitado hasta por un monto equivalente al veinticinco por ciento del mismo, previa autorización de la Secretaría de Hacienda y Crédito Público.
+El capital social de las sociedades podrá integrarse con una parte representada por acciones de voto limitado hasta por un monto equivalente al treinta por ciento del capital pagado, previa autorización de la Secretaría de Hacienda y Crédito Público. La adquisición de acciones de voto limitado no estará sujeta al límite establecido en la fracción IV de este artículo. Estas acciones no computarán para efecto del límite establecido en el tercer párrafo del numeral 1, fracción III de este artículo.
 
 > <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -168,19 +168,13 @@ II. La duración de la sociedad será indefinida;
 
 III. En ningún momento podrán participar en el capital social de las organizaciones auxiliares del crédito y casas de cambio, directamente o a través de interpósita persona:
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
-1.- Gobiernos o dependencias oficiales extranjeros, entidades financieras del exterior, ni a personas físicas o morales extranjeras, sea cual fuere la forma que revistan, excepto en los casos previstos en el siguiente párrafo.
+1.- Personas morales extranjeras que ejerzan funciones de autoridad.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+Las entidades financieras del exterior, así como las personas físicas y morales extranjeras, podrán participar en el capital pagado de los almacenes generales de depósito, arrendadoras financieras, empresas de factoraje financiero y casas de cambio.
 
-La Secretaría de Hacienda y Crédito Público podrá, discrecionalmente, autorizar la participación en el capital pagado de los almacenes generales de depósito, arrendadoras financieras, empresas de factoraje financiero y casas de cambio, a entidades financieras del exterior así como a personas físicas y morales extranjeras. La autorización que se otorgue a un inversionista extranjero será intransmisible.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
-
-La inversión mexicana en todo caso tendrá que ser mayoritaria y deberá mantener la facultad de determinar el manejo y control efectivo de la empresa.
-
-> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+La inversión mexicana en todo caso deberá mantener la facultad de determinar el manejo y control efectivo de la empresa. La inversión extranjera deberá hacerse constar en una serie especial de acciones y en ningún caso podrá rebasar el cuarenta y nueve por ciento del capital pagado de la sociedad.
 
 > <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -204,7 +198,11 @@ IV. Ninguna persona física o moral podrá adquirir directa o indirectamente med
 
 4.- Los accionistas de las organizaciones auxiliares del crédito y de casas de cambio que adquieran acciones conforme a lo previsto en programas aprobados por la Secretaría de Hacienda y Crédito Público, conducentes a la fusión de dichas sociedades, a quienes la mencionada Secretaría podrá otorgar excepcionalmente la autorización correspondiente, por un plazo no mayor de dos años, y
 
-5.- Las organizaciones auxiliares del crédito y casas de cambio, cuando adquieran acciones conforme a lo previsto en programas aprobados por la Secretaría de Hacienda y Crédito Público conducentes a la fusión de las mismas.
+5.- Las organizaciones auxiliares del crédito y casas de cambio, cuando adquieran acciones conforme a lo previsto en programas aprobados por la Secretaría de Hacienda y Crédito Público conducentes a la fusión de las mismas;
+
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+6.- Las Instituciones Financieras del Exterior, directa o indirectamente, o las Sociedades Controladoras Filiales que adquieran acciones de cualquier serie, conforme a programas aprobados por la Secretaría de Hacienda y Crédito Público, con la finalidad de convertir a la respectiva organización auxiliar del crédito o casa de cambio, en una Filial.
 
 Los mencionados límites se aplicarán asimismo, a la adquisición del control por parte de personas que la Secretaría de Hacienda y Crédito Público considere para estos efectos como una sola persona.
 
@@ -356,8 +354,6 @@ Los almacenes generales de depósito que hayan de recibir mercancías destinadas
 
 El capital y reservas de capital de los almacenes generales de depósito deberá estar invertido:
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
-
 I. En el establecimiento de bodegas, plantas de transformación y oficinas propias de la organización; en el acondicionamiento de bodegas ajenas cuyo uso adquiera el almacén en los términos de esta Ley; en el equipo de transporte, maquinaria, útiles, herramienta y equipo necesario para su funcionamiento; en acciones de sociedades que se organicen exclusivamente para adquirir el dominio y administrar edificios, y siempre que en algún edificio propiedad de esa sociedad tenga establecida o establezca su oficina principal o alguna sucursal o dependencia el almacén general de depósito accionista; y en acciones de las sociedades a que se refiere el artículo 68 de esta Ley. La inversión en acciones y los requisitos que deban satisfacer las sociedades a que se refiere esta fracción, se sujetarán a las reglas generales que dicte la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria.
 
 > <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
@@ -443,8 +439,6 @@ Asimismo, se suspenderá en sus funciones al bodeguero habilitado y no podrá se
 ###### ARTICULO 19.
 
 Los almacenes generales de depósito podrán actuar como corresponsales de instituciones de crédito, así como de otros almacenes generales de depósito o de empresas de servicios complementarios a éstos, nacionales o extranjeros, en operaciones relacionadas con las que les son propias; también podrán conceder corresponsalías a dichas instituciones, almacenes o empresas en las operaciones antes citadas; tomar seguro por cuenta ajena por las mercancías depositadas; gestionar la negociación de bonos de prenda por cuenta de sus depositantes; efectuar el embarque de las mercancías, tramitando los documentos correspondientes y prestar todos los servicios técnicos necesarios a la conservación y salubridad de las mercancías.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 20.
 
@@ -676,7 +670,7 @@ Las arrendadoras financieras, sin perjuicio de mantener el capital mínimo previ
 
 > <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 15 DE JULIO DE 1993)</small>
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 199O)</small>
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 Para efectos de este artículo, la Secretaría de Hacienda y Crédito Público, oyendo previamente a la Comisión Nacional Bancaria y al Banco de México, señalará los conceptos que se considerarán integrantes del capital contable de las arrendadoras financieras.
 
@@ -952,7 +946,7 @@ Cuando el crédito de habilitación o avío sea complementario de un crédito re
 
 El importe de todas las operaciones que las uniones de crédito practiquen para ser reembolsadas a plazo superior a trescientos sesenta días, no podrá exceder del 80% de sus obligaciones, entendiéndose por éstas todos los saldos que integren el pasivo real;
 
-III.- (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
+III. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
 
 IV. Las operaciones de crédito que practiquen con sus socios, deberán estar relacionadas directamente con las actividades de las empresas o negocios de éstos, y deberán tener las garantías que sean propias de cada tipo de crédito, sin perjuicio de las demás que puedan pactarse.
 
@@ -1016,7 +1010,7 @@ A las uniones de crédito les estará prohibido:
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-I.- Realizar operaciones de descuento, préstamo o crédito de cualquier clase con personas que no sean socios de la unión, excepto con las personas expresamente autorizadas en el artículo 40, fracción II de esta Ley;
+I. Realizar operaciones de descuento, préstamo o crédito de cualquier clase con personas que no sean socios de la unión, excepto con las personas expresamente autorizadas en el artículo 40, fracción II de esta Ley;
 
 > <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -1100,9 +1094,9 @@ X. Las demás operaciones análogas y conexas que, mediante reglas de carácter 
 
 Por virtud del contrato de factoraje, la empresa de factoraje financiero conviene con el cliente en adquirir derechos de crédito que éste tenga a su favor por un precio determinado o determinable, en moneda nacional o extranjera, independientemente de la fecha y la forma en que se pague, siendo posible pactar cualquiera de las modalidades siguientes:
 
-I.- Que el cliente no quede obligado a responder por el pago de los derechos de crédito transmitidos a la empresa de factoraje financiero; o
+I. Que el cliente no quede obligado a responder por el pago de los derechos de crédito transmitidos a la empresa de factoraje financiero; o
 
-II.- Que el cliente quede obligado solidariamente con el deudor, a responder del pago puntual y oportuno de los derechos de crédito transmitidos a la empresa de factoraje financiero.
+II. Que el cliente quede obligado solidariamente con el deudor, a responder del pago puntual y oportuno de los derechos de crédito transmitidos a la empresa de factoraje financiero.
 
 Los contratos de factoraje en moneda extranjera se sujetarán a las disposiciones y limitaciones previstas en esta Ley y a las que emita el Banco de México.
 
@@ -1344,7 +1338,17 @@ Se exceptúa de lo dispuesto en el párrafo anterior a las Filiales en cuyo capi
 
 La solicitud de autorización para constituirse y operar como Filial deberá cumplir con los requisitos establecidos en la presente Ley y en las reglas a las que se refiere al primer párrafo del artículo 45 Bis 2.
 
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+ArtIculo 45 Bis 7.- El capital social de las Filiales estará representado por dos series de acciones. Cuando menos el cincuenta y uno por ciento del capital social de las Filiales se integrará por acciones de la Serie "F". El cuarenta y nueve por ciento restante del capital social podrá integrarse indistinta o conjuntamente por acciones Serie "F" y "B".
+
+La totalidad de las acciones Serie "F" deberán ser propiedad en todo momento de una Institución Financiera del Exterior, directa o indirectamente, o de una Sociedad Controladora Filial. Las acciones Serie "B" que no sean propiedad de dicha Institución Financiera del Exterior o Sociedad Controladora Filial, estarán sujetas a lo dispuesto por las fracciones III y IV del artículo 8o. de esta Ley.
+
+Las acciones deberán pagarse íntegramente en el acto de ser suscritas.
+
+Las Filiales no podrán emitir acciones de voto limitado.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 45 Bis 7.
 
@@ -1352,11 +1356,15 @@ El capital social de las Filiales deberá estar integrado por una sola serie de 
 
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
-###### ARTICULO 45 Bis 8.
+###### Articulo 45 Bis 8.
 
-Las acciones de una Filial únicamente podrán ser enajenadas previa autorización de la Secretaría de Hacienda y Crédito Público.
+Las acciones Serie "F" de una Filial sólo podrán ser enajenadas previa autorización de la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
 Salvo en el caso en que el adquirente sea una Institución Financiera del Exterior, una Sociedad Controladora Filial o una Filial, para llevar a cabo la enajenación deberán modificarse los estatutos sociales de la Filial cuyas acciones sean objeto de la operación, a efecto de cumplir con lo dispuesto en el Capítulo Unico del Título Primero de la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
 Cuando el adquirente sea una Institución Financiera del Exterior, una Sociedad Controladora Filial o una Filial, deberá observarse lo dispuesto en las fracciones I, III, y IV del artículo 45 Bis 9.
 
@@ -1366,7 +1374,9 @@ Cuando el adquirente sea una Institución Financiera del Exterior, una Sociedad 
 
 La Secretaría de Hacienda y Crédito Público podrá autorizar a las Instituciones Financieras del Exterior, a las Sociedades Controladoras Filiales o a las Filiales, la adquisición de acciones representativas del capital social de una organización auxiliar del crédito o casa de cambio, siempre y cuando se cumplan los siguientes requisitos:
 
-I. La Institución Financiera del Exterior, la Sociedad Controladora Filial o la Filial, según sea el caso, deberá adquirir acciones que representen cuando menos el noventa y nueve por ciento del capital social;
+> <small>(REFORMADA, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+I. La Institución Financiera del Exterior, la Sociedad Controladora Filial o la Filial, según sea el caso, deberá adquirir acciones que representen cuando menos el cincuenta y uno por ciento del capital social;
 
 II. Deberán modificarse los estatutos sociales de la organización auxiliar del crédito o casa de cambio, cuyas acciones sean objeto de enajenación, a efecto de cumplir con lo dispuesto en el presente capítulo;
 
@@ -1374,11 +1384,23 @@ III. Cuando el adquirente sea una Institución Financiera del Exterior o una Soc
 
 IV. Cuando el adquirente sea una Filial deberá fusionarse con la organización auxiliar del crédito del mismo tipo o casa de cambio, según corresponda, que haya sido adquirida.
 
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+En el otorgamiento de las autorizaciones a que se refiere este artículo, la Secretaría de Hacienda y Crédito Público deberá preservar la preponderancia de la inversión nacional sobre la inversión extranjera.
+
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 45 Bis 10.
 
 Las Filiales no podrán emitir obligaciones subordinadas, salvo para ser adquiridas por la Institución Financiera del Exterior propietaria, directa o indirectamente, de las acciones representativas del capital social de la Filial emisora. Tampoco les estará permitido a las Filiales el establecimiento de sucursales o subsidiarias fuera del territorio nacional.
+
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+ArtIculo 45 Bis 11.- El consejo de administración de las Filiales estará integrado por lo menos por cinco consejeros, de entre los cuales la mayoría deberá residir en territorio nacional. Su nombramiento deberá hacerse en asamblea especial para cada serie de acciones. A las asambleas que se reúnan con ese fin, así como aquéllas que tengan el propósito de designar comisarios por cada serie de acciones, les serán aplicables, en lo conducente, las disposiciones para las asambleas generales ordinarias previstas en la Ley General de Sociedades Mercantiles.
+
+Los propietarios de las acciones Serie "B", en su caso, tendrán derecho a nombrar cuando menos un consejero. Sólo podrá revocarse el nombramiento de los consejeros de minoría, cuando se revoque el de todos los demás de la misma serie.
+
+El presidente del consejo deberá elegirse de entre los propietarios de la Serie "F", y tendrá voto de calidad en caso de empate. Por los propietarios se nombrarán suplentes, los cuales podrán suplir indistintamente a cualesquiera de los propietarios, en el entendido de que dentro de cada sesión, un suplente sólo podrá representar a un propietario.
 
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
@@ -1391,6 +1413,10 @@ El consejo de administración de las Filiales estará integrado por lo menos por
 ###### ARTICULO 45 Bis 12.
 
 Los directores generales de las Filiales deberán residir en territorio nacional.
+
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+ArtIculo 45 Bis 13.- El órgano de vigilancia de las Filiales estará integrado por lo menos por un comisario designado por los accionistas de la Serie "F" y, en su caso, un comisario nombrado por los accionistas de la Serie "B", y sus respectivos suplentes.
 
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
@@ -1968,13 +1994,9 @@ Para efectos de lo previsto en este capítulo, por divisas se entenderán las me
 
 II. En los estatutos sociales deberá indicarse que en la realización de su objeto, la sociedad deberá ajustarse a lo previsto en la presente Ley y a las demás disposiciones aplicables; y
 
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
-
-III. Que estén constituidas como sociedades mexicanas con cláusula de exclusión de extranjeros.
+III. (DEROGADA, D.O.F. 17 DE NOVIEMBRE DE 1995)
 
 IV. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
-
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 15 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 83.
 
@@ -2002,7 +2024,7 @@ Las casas de cambio deberán ajustarse a lo siguiente:
 
 I. Contarán con un local exclusivo para la realización de sus operaciones;
 
-II. Deberán proporcionar a la Secretaría de Hacienda y Crédito Público o al Banco de México, su posición en divisas cuando le sea solicitada;
+II Deberán proporcionar a la Secretaría de Hacienda y Crédito Público o al Banco de México, su posición en divisas cuando le sea solicitada;
 
 III. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
 
@@ -2076,11 +2098,11 @@ VI. Si la sociedad no realiza las funciones, ni lleva a cabo las operaciones par
 
 > <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
 
-VII. Si sus administradores han intervenido en operaciones que infrinjan las disposiciones financieras y cambiarias; y
+VII.- Si sus administradores han intervenido en operaciones que infrinjan las disposiciones financieras y cambiarias; y
 
 > <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
 
-VIII. En cualquier otro establecido por la Ley.
+VIII.- En cualquier otro establecido por la Ley.
 
 > <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -2107,8 +2129,6 @@ V. Adquirir bienes inmuebles y mobiliario o equipo no destinados a las oficinas 
 VI. Realizar operaciones que no les estén expresamente autorizadas, y
 
 VII. Celebrar operaciones en virtud de las cuales resulten o puedan resultar deudores de la casa de cambio, sus funcionarios y empleados, salvo que correspondan a prestaciones de carácter laboral otorgadas de manera general; los comisarios propietarios y suplentes, estén o no en funciones; los auditores externos de la casa de cambio; o los ascendientes o descendientes en primer grado o cónyuges de las personas anteriores.
-
-ArtIculo 87-B.- (DEROGADO, D.O.F. 15 DE JULIO DE 1993)
 
 ### CAPITULO I. De las Infracciones Administrativas
 
@@ -2216,6 +2236,10 @@ Para proceder penalmente por los delitos previstos en los artículos 96, 97, 98,
 
 Las multas previstas en los artículos 96, 97 y 98 de esta Ley, se impondrán a razón de días de salario. Para calcular su importe, se tendrá como base el salario mínimo general vigente en el Distrito Federal al momento de realizarse la conducta sancionada.
 
+> <small>(ADICIONADO, D .O. 17 DE NOVIEMBRE DE 1995)</small>
+
+La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Valores, dictará disposiciones de carácter general para prevenir y detectar en las organizaciones auxiliares del crédito y casas de cambio, actos u operaciones con recursos, derechos o bienes que procedan o representen el producto de un probable delito. Estas disposiciones deberán ser observadas por los empleados y funcionarios de los citados intermediarios. La violación de las mismas será sancionada con multa equivalente del diez hasta el cien por ciento del monto del acto u operación de que se trate, la cual será impuesta por la Comisión Nacional Bancaria y de Valores a los intermediarios financieros mencionados.
+
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 96.
@@ -2256,7 +2280,7 @@ e) A sabiendas, permitan a un deudor desviar el importe del crédito, préstamo 
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-III.- A sabiendas, presenten a la Comisión Nacional Bancaria datos falsos sobre la solvencia del deudor, arrendatario o de los clientes que transmitan los derechos de crédito, o de los deudores de éstos, o bien, sobre el valor de las garantías de los créditos, préstamos, arrendamientos financieros o derechos de crédito, imposibilitándola a adoptar las medidas necesarias para que se realicen los ajustes correspondientes en los registros de la organización respectiva.
+III. A sabiendas, presenten a la Comisión Nacional Bancaria datos falsos sobre la solvencia del deudor, arrendatario o de los clientes que transmitan los derechos de crédito, o de los deudores de éstos, o bien, sobre el valor de las garantías de los créditos, préstamos, arrendamientos financieros o derechos de crédito, imposibilitándola a adoptar las medidas necesarias para que se realicen los ajustes correspondientes en los registros de la organización respectiva.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -2531,3 +2555,13 @@ DECIMO TERCERO.- No obstante lo dispuesto en el artículo 29 fracción II de la 
 Las Instituciones Financieras del Exterior que antes de la entrada en vigor del tratado o acuerdo aplicable tengan inversiones en instituciones de seguros, podrán incrementar éstas de conformidad con dicho tratado.
 
 A las inversiones señaladas en los dos párrafos anteriores no les serán aplicables los límites de capital individuales y agregados de conformidad con el tratado o acuerdo internacional aplicable.
+
+D.O.F. 17 DE NOVIEMBRE DE 1995.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+QUINTO.- Lo establecido en los artículos segundo y tercero transitorios del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley para Regular las Agrupaciones Financieras, Ley de Instituciones de Crédito, Ley General de Organizaciones y Actividades Auxiliares del Crédito, Ley del Mercado de Valores, Ley de Sociedades de Inversión, Ley General de Instituciones y Sociedades Mutualistas de Seguros y Ley Federal de Instituciones de Fianzas, publicado en el Diario Oficial de la Federación el 23 de diciembre de 1993, no es aplicable a las sociedades financieras de objeto limitado, arrendadoras financieras, empresas de factoraje financiero e instituciones de seguros, filiales, que resulten de las adquisiciones que sean autorizadas por la Secretaría de Hacienda y Crédito Público.
+
+SEXTO.- Las sociedades financieras de objeto limitado, organizaciones auxiliares del crédito, casas de cambio, instituciones de seguros e instituciones de fianzas, deberán efectuar, en su caso, los actos corporativos necesarios para ajustar sus estatutos a lo dispuesto por el presente Decreto, dentro de un plazo máximo de ciento veinte días contado a partir del inicio de la vigencia del mismo.
