@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1977-01-13"
+last_updated: "1977-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 1977.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -313,11 +313,23 @@ La residencia de los Poderes es la Capital del Estado.
 
 El ejercicio de las funciones que ésta Constitución señala al Poder Legislativo, se deposita en el Congreso del Estado de Durango.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 1977)</small>
 
 ###### ARTICULO 30.
 
-El Congreso se integra con Diputados electos popular y directamente cuyo número, en ejercicio, en ningún caso será menor de once. Por cada distrito electoral se elegirán un diputado propietario y un suplente en la forma y términos que señala la Ley Electoral del Estado.
+El Congreso se integra con Diputados electos popular y directamente cuyo número, en ejercicio, en ningún caso será menor de once, complementándose además, con Diputados de proporción Minoritaria. Por cada Distrito Electoral se elegirán un Diputado propietario y un suplente en la forma y términos que señala la Ley Electoral del Estado.
+
+En lo que se refiere a Diputados de Proporción Minoritaria, regirán las reglas siguientes:
+
+I.- Todo partido político, registrado conforme lo dispone la Ley Electoral, que obtenga cuando menos el cuatro por ciento de la votación total en el Estado en la elección respectiva, tendrá derecho a que se acredite, de entre sus candidatos, a un Diputado de Proporción Minoritaria y hasta dos si obtiene el seis por ciento más de dicha votación. Serán Diputados de Proporción Minoritaria Suplentes los que hayan figurado como tales en la elección.
+
+II.- Cada Diputado de mayoría excluye uno de Proporción Minoritaria, por lo que, si un Partido obtiene dos o más Diputados de Mayoría, ya no podrá acreditar diputados de proporción minoritaria.
+
+III.- Será acreditado Diputado de Proporción Minoritaria aquél que obtenga el mayor número de sufragios en relación a los demás candidatos del mismo partido en el Estado.
+
+IV.- Sólo los Partidos Políticos registrados cuando menos un año antes del día de la elección podrán acreditar Diputados de Proporción Minoritaria.
+
+V.- Los Diputados de mayoría y los de proporción minoritaria tendrán la misma categoría legal e iguales derechos y obligaciones.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -396,6 +408,10 @@ El asiento del Congreso es la Capital del Estado. Podrá trasladarse provisional
 Los miembros del Congreso durarán en su encargo tres años, iniciando sus sesiones el 1o. de septiembre posterior a la elección. El Congreso del Estado sesionará ordinariamente del 1o. de septiembre al 31 de diciembre y del 15 de marzo al 15 de julio de cada año, no pudiendo instalarse ni ejercer sus funciones sin la concurrencia de la mayoría de los diputados integrantes.
 
 Cuando los diputados asistentes no reúnan el número requerido para la instalación del Congreso, o reuniéndolo no asistiera el total de miembros, excitarán a los ausentes para que concurran dentro de los diez días siguientes, con la advertencia de que si no lo hacen sin causa justificada, se entenderá que declinan su responsabilidad, llamándose de inmediato a los suplentes, los que deberán presentarse dentro de un plazo de diez días. Si los suplentes no comparecieren sin causa justificada en el plazo señalado se declararán vacantes los cargos convocándose a nueva elección.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 1977)</small>
+
+Incurrirán en responsabilidad, y se harán acreedores a las sanciones que la Ley señala, quienes habiendo sido electos diputados o acreditados como diputados de proporción minoritaria, no se presenten, sin causa justificada, a juicio del Congreso, a desempeñar el cargo dentro de los términos señalados en el párrafo anterior. También incurrirán en responsabilidad, que la misma Ley sancionará, los Partidos Políticos, que, habiendo postulado candidato en una elección para Diputados acuerden que sus miembros que resultaren electos o que deben ser acreditados como Diputados de Proporción Minoritaria no se presenten a desempeñar sus funciones.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1173,7 +1189,7 @@ Los Jueces de Primera Instancia, Menores, Municipales y Auxiliares durarán en s
 
 ###### ARTICULO 102.
 
-Los Presidentes de las Juntas Municipales, Jefes de Cuartel y de Manzana, son auxiliares en la. administración de la justicia y, para ese efecto, se sujetarán a las disposiciones de la Ley Orgánica del Poder Judicial.
+Los Presidentes de las Juntas Municipales, Jefes de Cuartel y de Manzana, son auxiliares en la administración de la justicia y, para ese efecto, se sujetarán a las disposiciones de la Ley Orgánica del Poder Judicial.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1656,3 +1672,7 @@ Unicamente y por el presente año de 1973 mil novecientos setenta y tres, el Gob
 P.O. 13 DE ENERO DE 1977.
 
 UNICO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE NOVIEMBRE DE 1977.
+
+UNICO.- Las presentes Reformas y Adiciones a la Constitución Política del Estado Libre y Soberano de Durango, entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
