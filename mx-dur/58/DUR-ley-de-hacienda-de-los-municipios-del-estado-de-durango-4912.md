@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-de-los-municipios-del-estado-de-durango-4912"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-06"
-last_updated: "1997-06-12"
+last_updated: "1998-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 1998.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 6 de marzo de 1988.
 
@@ -75,9 +75,11 @@ Los ingresos y las disposiciones establecidas en la Ley, sólo dejarán de perci
 
 Las Leyes de Ingresos serán publicadas con la debida anticipación para que puedan regir en el curso del año para el que se expidan.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 1998)</small>
+
 ###### ARTICULO 5.
 
-Los Ayuntamientos formularán y aprobarán en el mes de septiembre de cada año, el proyecto de presupuesto de ingresos, al mismo tiempo que su presupuesto de egresos con sujeción a las disposiciones de esta Ley.
+Los Ayuntamientos formularán y aprobarán durante la segunda quincena del mes de octubre de cada año, el proyecto de presupuesto de ingresos, al mismo tiempo que su presupuesto de egresos, con sujeción a las disposiciones de esta ley.
 
 Estos proyectos se remitirán a más tardar el día último del citado mes al Congreso del Estado, acompañado de un cuadro de estimaciones del rendimiento probable de cada concepto de ingresos.
 
@@ -2849,9 +2851,15 @@ II.- Por servicios que preste el Departamento de Sanidad Municipal y otros, la c
 
 III.- Los derechos de revisión y servicios que presten las autoridades municipales a través de su Departamento en los diversiones (sic) ramos de su competencia, se determinarán discrecionalmente por el C. Tesorero Municipal correspondiente atendiendo la índole de la prestación y nunca será menor de 0.5 salarios mínimos.
 
-### CAPITULO XVIII
+C A P I T U L O XVIII
 
 POR SERVICIO PUBLICO DE ILUMINACION.
+
+### CAPITULO XIX
+
+POR LA EXPLOTACIÓN COMERCIAL DE MATERIAL DE CONSTRUCCION.
+
+> <small>N. DE E. SE SUSPENDE EN EL TERRITORIO DEL ESTADO DE DURANGO, LA APLICACION DEL DERECHO ESTABLECIDO EN EL PRESENTE ARTICULO, P.O. 23 DE DICIEMBRE DE 1993.</small>
 
 ###### ARTICULO 208.
 
@@ -2866,26 +2874,6 @@ La tasa para determinar el monto de servicio público de iluminación será de u
 ###### ARTICULO 210.
 
 El derecho por servicio público de iluminación será recaudado por conducto de la Comisión Federal de Electricidad y se aplicarán de conformidad con los convenios que los HH. Ayuntamiento celebren con dicha Institución.
-
-### CAPITULO XIX
-
-POR LA EXPLOTACIÓN COMERCIAL DE MATERIAL DE CONSTRUCCION.
-
-> <small>N. DE E. SE SUSPENDE EN EL TERRITORIO DEL ESTADO DE DURANGO, LA APLICACION DEL DERECHO ESTABLECIDO EN EL PRESENTE ARTICULO, P.O. 23 DE DICIEMBRE DE 1993.</small>
-
-###### ARTICULO 211.
-
-La explotación comercial de materiales de construcción, bancos ubicados dentro del Municipio, causarán el pago de un derecho que se calculará conforme a la siguiente tarifa:
-
-Por metro cúbico de arena, cascajo de tierra, de 0.010 sobre el salario mínimo; así como 0.001 por metro cúbico de otros materiales no especificados.
-
-> <small>N. DE E. SE SUSPENDE EN EL TERRITORIO DEL ESTADO DE DURANGO, LA APLICACION DEL DERECHO ESTABLECIDO EN EL PRESENTE ARTICULO, P.O. 23 DE DICIEMBRE DE 1993.</small>
-
-###### ARTICULO 212.
-
-El pago de este derecho podrá sujetarse a la aplicación de cuotas calculadas por la Tesorería Municipal conforme a volúmenes globales de explotación comercial, previas (sic) los estudios que realice.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO XX
 
@@ -2927,13 +2915,31 @@ C).- Por lo que exceda de 7,758 salarios mínimos en adelante, 1.2 al millar.
 
 III.- Por otros servicios solicitados a la Oficina Municipal de Catastro y no contemplados en los apartados anteriores, serán cuantificados por esa dependencia.
 
-## TITULO CUARTO
+###### ARTICULO 211.
 
-PRODUCTOS.
+La explotación comercial de materiales de construcción, bancos ubicados dentro del Municipio, causarán el pago de un derecho que se calculará conforme a la siguiente tarifa:
+
+Por metro cúbico de arena, cascajo de tierra, de 0.010 sobre el salario mínimo; así como 0.001 por metro cúbico de otros materiales no especificados.
+
+> <small>N. DE E. SE SUSPENDE EN EL TERRITORIO DEL ESTADO DE DURANGO, LA APLICACION DEL DERECHO ESTABLECIDO EN EL PRESENTE ARTICULO, P.O. 23 DE DICIEMBRE DE 1993.</small>
+
+###### ARTICULO 212.
+
+El pago de este derecho podrá sujetarse a la aplicación de cuotas calculadas por la Tesorería Municipal conforme a volúmenes globales de explotación comercial, previas (sic) los estudios que realice.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO I
 
 ENAJENACION DE BIENES MUEBLES E INMUEBLES PERTENECIENTES AL MUNICIPIO.
+
+## TITULO CUARTO
+
+PRODUCTOS.
+
+### CAPITULO II
+
+ARRENDAMIENTO DE BIENES PROPIEDAD DEL MUNICIPIO.
 
 ###### ARTICULO 213.
 
@@ -2969,9 +2975,9 @@ El pago de los artículos provenientes de la enajenación de bienes que formen p
 
 En ningún caso podrán enajenarse bienes de uso común o destinados al servicio de los Municipios, mientras tengan este carácter o destino.
 
-### CAPITULO II
+### CAPITULO III
 
-ARRENDAMIENTO DE BIENES PROPIEDAD DEL MUNICIPIO.
+POR ESTABLECIMIENTOS O EMPRESAS QUE DEPENDAN DEL MUNICIPIO.
 
 ###### ARTICULO 221.
 
@@ -2993,43 +2999,43 @@ Las rentas mensuales por ocupación de casillas o sitios dentro de los Mercados 
 
 En los contratos o concesiones respectivos, siempre se estipulará el cumplimiento de las obligaciones en ellos contraídas, en caso de no cumplirse en la forma y términos que se estipuló en ellos, se exigirá mediante el ejercicio de la facultad económico- coactivo.
 
-### CAPITULO III
+### CAPITULO IV
 
-POR ESTABLECIMIENTOS O EMPRESAS QUE DEPENDAN DEL MUNICIPIO.
+POR CREDITOS A FAVOR DEL MUNICIPIO.
 
 ###### ARTICULO 226.
 
 Tendrán carácter de productos los ingresos que se obtengan por la explotación de establecimientos o empresas que dependan del municipio.
 
-### CAPITULO IV
+### CAPITULO V
 
-POR CREDITOS A FAVOR DEL MUNICIPIO.
+POR VENTA DE BIENES MOSTRENCOS Y ABANDONADOS.
 
 ###### ARTICULO 227.
 
 Tendrán carácter de productos los ingresos que se obtengan por los créditos a favor del municipio.
 
-### CAPITULO V
-
-POR VENTA DE BIENES MOSTRENCOS Y ABANDONADOS.
-
-###### ARTICULO 228.
-
-Tendrán carácter de productos los ingresos que se obtengan por la venta de bienes mostrencos y abandonados.
-
 ### CAPITULO VI
 
 LOS QUE SE OBTENGAN DE LA VENTA DE OBJETOS RECOGIDOS POR AUTORIDADES MUNICIPALES.
 
-###### ARTICULO 229.
+###### ARTICULO 228.
 
-Tendrán carácter de productos los ingresos que se obtengan de la venta de objetos recogidos por Autoridades Municipales.
+Tendrán carácter de productos los ingresos que se obtengan por la venta de bienes mostrencos y abandonados.
 
 ### CAPITULO VII
 
 POR ESTACIONAMIENTO DE VEHICULOS EN LA VIA PUBLICA EN AQUELLOS LUGARES DONDE EXISTEN APARATOS MARCADORES DE TIEMPO.
 
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 1993)</small>
+
+###### ARTICULO 229.
+
+Tendrán carácter de productos los ingresos que se obtengan de la venta de objetos recogidos por Autoridades Municipales.
+
+### CAPITULO UNICO
+
+APROVECHAMIENTOS.
 
 ###### ARTICULO 230.
 
@@ -3051,7 +3057,7 @@ Se aplicará una multa equivalente a 15 días de salario mínimo general vigente
 
 ### CAPITULO UNICO
 
-APROVECHAMIENTOS.
+PARTICIPACIONES.
 
 ###### ARTICULO 231.
 
@@ -3083,7 +3089,7 @@ La falta oportuna del pago de impuestos, derechos, causará un recargo en concep
 
 ### CAPITULO UNICO
 
-PARTICIPACIONES.
+INGRESOS EXTRAORDINARIOS.
 
 ## TITULO SEXTO
 
@@ -3302,3 +3308,7 @@ U N I C O.- El presente Decreto entrará en vigor al día siguiente al de su pub
 P.O. 12 DE JUNIO DE 1997.
 
 U N I C O.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 19 DE NOVIEMBRE DE 1998.
+
+Ú N I C O.- El presente decreto entrará en vigor tres días después de su Publicación en el Periódico Oficial del Gobierno del Estado.
