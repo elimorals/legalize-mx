@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-6113"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-26"
-last_updated: "1989-12-28"
+last_updated: "1990-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1990.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el lunes 26 de diciembre de 1983.
 
@@ -41,9 +41,11 @@ LEY DE HACIENDA DEL ESTADO DE MICHOACAN DE OCAMPO
 
 ### CAPITULO UNICO. PRINCIPIOS GENERALES
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 1o.
 
-La Hacienda Pública del Estado de Michoacán, para cubrir los gastos de Gobierno y demás obligaciones a su cargo, percibirá en cada ejercicio fiscal los ingresos por concepto de impuestos, derechos, contribuciones especiales, productos y aprovechamientos que anualmente establezcan las leyes fiscales correspondientes, así como las participaciones en ingresos Federales y Municipales.
+La Hacienda Pública del Estado de Michoacán para cubrir los gastos del gobierno y demás obligaciones a su cargo, percibirá en cada ejercicio fiscal los ingresos por concepto de impuestos, derechos, contribuciones especiales, productos y aprovechamientos que anualmente establezcan las leyes fiscales correspondientes, así como las participaciones en ingresos Federales.
 
 ###### ARTICULO 2o.
 
@@ -63,11 +65,11 @@ Cuando en esta ley se tomen como base para el pago de los créditos fiscales a c
 
 #### Sección Primera. Del Objeto
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 5o.
 
-Es objeto de este Impuesto, la enajenación de vehículos de motor entre particulares, cuyos modelos correspondan a los últimos diez años.
+Es objeto del impuesto sobre compra venta de vehículos de motor entre particulares, la enajenación de vehículos de motor, cuyos modelos correspondan a los últimos diez años.
 
 I. Para los efectos de este Impuesto, se considera enajenación de vehículos:
 
@@ -107,11 +109,11 @@ e) Que no se compruebe el pago de este impuesto, tratándose de vehículos usado
 
 #### Sección Segunda. De los Sujetos
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 6o.
 
-Es sujeto de este impuesto, la persona que reciba un ingreso como resultado de la enajenación de vehículos de motor en los términos del articulo anterior, siempre que no sea comerciante en esta clase de negocios, o que se trate de empresas afectas al pago del Impuesto del Valor Agregado.
+Son sujetos del Impuesto sobre compra venta de vehículos de motor entre particulares, las personas que reciban un ingreso como resultado de la enajenación de vehículos de motor en los términos del artículo anterior, siempre que no sean comerciantes en esta clase de negocios, o que se trate de personas físicas afectas al pago del Impuesto al Valor Agregado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
 
@@ -129,11 +131,11 @@ III. Los retenedores a que se refiere el artículo 9o. de esta Ley.
 
 #### Sección Tercera. De la Base
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 8o.
 
-La base de este Impuesto, será el importe resultante de alpicar (sic) las tablas contenidas en la Ley de Ingresos del Estado vigente en la fecha de la enajenación.
+La base de este impuesto será el importe establecido en la Ley de Ingresos del Estado vigente en la fecha de la enajenación, según la marca, tipo y modelo del vehículo de que se trate.
 
 #### Sección Cuarta. De las Obligaciones y del Pago
 
@@ -159,9 +161,11 @@ El propietario del vehículo está obligado a conservar por cinco años contados
 
 Los vehículos transmitidos o adquiridos, quedan afectos preferentemente al pago del impuesto a que se refiere este capítulo.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 12.
 
-Las dependencias oficiales competentes y sus delegaciones, no tramitarán ninguna solicitud de alta, baja o traspaso de vehículos por los cuales no se hubiere pagado el impuesto en los términos prescritos por este capítulo.
+Las dependencias oficiales competentes y sus delegaciones, no tramitarán ninguna solicitud de alta, baja o traspaso de vehículos por los cuales no se hubiese pagado el impuesto cuando éste se cause en los términos prescritos por este capítulo.
 
 #### Sección Quinta. De las Exenciones
 
@@ -179,19 +183,21 @@ Las infracciones cometidas por los contribuyentes de este impuesto, se sancionar
 
 #### Sección Primera. del Objeto
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 15.
 
-Es objeto de este impuesto el ingreso que se obtenga por la exploración de: salas de teatro o de cinematografía, circos, luchas, corridas de toros, jaripeos, bailes públicos, espectáculos deportivos, audiciones musicales, exhibiciones de cualesquier naturaleza y eventos con cuota de admisión, de mesa, consumo mínimo u otra denominación que se le dé y que condicionen el acceso al espectáculo.
+Es objeto del impuesto sobre espectáculos públicos el ingreso que se origine con motivo de la celebración de espectáculos públicos en: salas de teatro o cinematografía, circos, luchas, corridas de toros, bailes públicos, espectáculos deportivos, audiciones musicales, exhibiciones de cualesquiera naturaleza y eventos con cuota de admisión, de mesa, consumo mínimo u otra denominación que se le dé y que condicionan el acceso al espectáculo.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1989)</small>
-
-Este impuesto se calculará por ejercicios fiscales, salvo en los casos en que la realización de los eventos se efectúen ocasionalmente.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 24 DE DICIEMBRE DE 1990)</small>
 
 #### Sección Segunda. De los Sujetos
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 16.
 
-Son sujetos de este impuesto las personas físicas, morales o grupos organizados que perciban los ingresos referidos en el artículo anterior.
+Son sujetos del impuesto sobre espectáculos públicos las personas físicas, morales o grupos organizados que perciban los ingresos referidos en el artículo anterior.
 
 ###### ARTICULO 17.
 
@@ -205,9 +211,11 @@ II. Los funcionarios que tengan a su cargo el otorgamiento de permisos o licenci
 
 #### Sección Tercera. De la Base
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 18.
 
-Es base para el pago de este impuesto el ingreso bruto que se obtenga.
+Es base para el pago del impuesto sobre espectáculos públicos el ingreso bruto que se obtenga, con motivo de la celebración de las actividades a que se refiere el artículo 15 de esta Ley.
 
 En caso de que en una misma función se presenten dos o más espectáculos de los gravados, se causará el impuesto que tenga señalada la mayor tasa en la Ley de Ingresos.
 
@@ -333,7 +341,7 @@ II. El manifestado ante la autoridad competente que expida la licencia o permiso
 
 #### Sección Primera. Del Objeto
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 27.
 
@@ -345,7 +353,7 @@ Las infracciones cometidas por los contribuyentes de este impuesto, se sancionar
 
 ###### ARTICULO 28.
 
-Es objeto de este impuesto, todo ingreso o hecho generador de un impuesto o derecho del Estado, con las excepciones que esta Ley establece.
+Es objeto del Impuesto adicional para carreteras y construcción de edificios escolares, todo ingreso generado de un impuesto o derecho del Estado, con las excepciones que esta Ley establece.
 
 #### Sección Tercera. De la Base y de la Tasa
 
@@ -1413,7 +1421,7 @@ III. Cualquier poseedor de alcohol, aguardientes u otras bebidas alcohólicas, s
 
 Para los efectos de este impuesto las operaciones de comisión se considerarán como compraventa, teniendo el comisionista las mismas obligaciones que la presente parte establece para los sujetos del impuesto.
 
-#### Sección Tercera. De la Base y Tasa
+#### Sección Tercera. De la Base y de la Tasa
 
 ###### ARTICULO 133.
 
@@ -2234,3 +2242,9 @@ P.O. 28 DE DICIEMBRE DE 1989.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día 1o. de enero de 1990, previa publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 1990.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
