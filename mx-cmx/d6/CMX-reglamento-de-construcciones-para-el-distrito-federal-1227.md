@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-construcciones-para-el-distrito-federal-1227"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-08-02"
-last_updated: "1993-08-02"
+last_updated: "1994-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1227&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1993-07-14"
 
 REGLAMENTO DE CONSTRUCCIONES PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JULIO DE 1994.
 
 Reglamento publicado en el Diario Oficial de la Federación el lunes 2 de agosto de 1993.
 
@@ -1294,15 +1294,13 @@ III. Cada diez filas habrá pasillos paralelos a las gradas, con anchura mínima
 
 Los elevadores para pasajeros, elevadores para carga, escaleras eléctricas y bandas transportadoras de público, deberán cumplir con las Normas Técnicas Complementarias correspondientes y las disposiciones siguientes:
 
-I. Elevadores para pasajeros. Las edificaciones que tengan más de cuatro niveles, además de la planta baja, o una altura o profundidad mayor de 12 m. del nivel de acceso a la edificación, exceptuando las edificaciones para habitación unifamiliar, deberán contar con un elevador o sistema de elevadores para pasajeros con las siguientes condiciones de diseño:
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1994)</small>
 
-a) La capacidad de transporte del elevador o sistema de elevadores, será cuando menos del 10% de la población del edificio en 5 minutos;
+I. Elevadores para pasajeros. Las edificaciones que tengan más de cuatro niveles, además de la planta baja, o una altura o profundidad mayor de 12 metros del nivel de acceso a la edificación, deberán contar con un elevador o sistema de elevadores para pasajeros.
 
-b) El intervalo máximo de espera será de 80 segundos;
+Se exceptúan de lo dispuesto en el párrafo anterior:
 
-c) Se deberá indicar claramente en el interior de la cabina la capacidad máxima de carga útil, expresada en kilogramos y en número de personas, calculadas en 70 kilos cada una;
-
-d) Los cables y elementos mecánicos deberán tener una resistencia igual o mayor al doble de la carga útil de operación;
+Las edificaciones habitacionales plurifamiliares hasta de cinco niveles, además de la planta baja, o con una altura o profundidad no mayor de 15 metros desde el nivel de acceso a la edificación, siempre y cuando la superficie de cada vivienda sea, como máximo, de 70 metros cuadrados sin contar indivisos.
 
 II. Los elevadores de carga en edificaciones de comercio deberán calcularse considerando una capacidad mínima de carga útil de 250 kg. por cada metro cuadrado de área neta de la plataforma de carga. Los monta-automóviles en estacionamientos deberán calcularse con una capacidad mínima de carga útil de 200 kg. por cada metro cuadrado de área neta de la plataforma de carga.
 
@@ -2110,19 +2108,13 @@ III. La carga media W se deberá emplear en el cálculo de asentamientos diferid
 
 IV. Cuando el efecto de la carga viva sea favorable para la estabilidad de la estructura, como en el caso de problemas de flotación, volteo y de succión por viento, su intensidad se considerará nula sobre toda el área, a menos que pueda justificarse otro valor acorde con la definición del artículo 187 de este Reglamento, y
 
-V. Las cargas uniformes de la tabla siguiente se considerarán distribuidas sobre el área tributaria de cada elemento.
+V. Las cargas uniformes de la tabla siguiente se considerarán distribuidas sobre el área tributaria de cada elemento
 
-TABLA DE CARGAS
-
-VIVAS UNITARIAS,
-
-EN kg/m²
+TABLA DE CARGAS VIVAS UNITARIAS, EN kg/m²
 
 Destino de piso
 
-o cubierta w wa wm Observa-
-
-ciones
+o cubierta w wa wm Observaciones
 
 a) Habitación
 
@@ -3603,3 +3595,9 @@ Salón de Sesiones de la II Asamblea de Representantes del Distrito Federal, a l
 REQUISITOS MINIMOS
 
 (VEASE ARCHIVO ANEXO)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 15 DE JULIO DE 1994.
+
+UNICO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
