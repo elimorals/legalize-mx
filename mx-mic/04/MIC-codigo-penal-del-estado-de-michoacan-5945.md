@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-del-estado-de-michoacan-5945"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-07-07"
-last_updated: "1984-08-27"
+last_updated: "1988-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO PENAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO: 27 DE AGOSTO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 1988.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el lunes 7 de julio de 1980.
 
@@ -1471,7 +1471,7 @@ II. Al que para hacer que un inocente aparezca como reo de un delito, ponga sobr
 
 No se procederá contra el autor de ese delito, sino en virtud de sentencia ejecutoriada o resolución de sobreseimiento dictado por el juez o tribunal que hubiese conocido del delito imputado.
 
-### CAPITULO IV. Usurpación de Funciones Públicas o de Profesión
+### CAPITULO IV. Usurpación de Funciones o de Profesión
 
 ###### Artículo 195.
 
@@ -2145,6 +2145,8 @@ En caso de tentativa de lesiones, cuando no fuere posible determinar el grado de
 
 ### CAPITULO III. Abuso de Confianza
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 1988)</small>
+
 ###### Artículo 278.
 
 La riña es la contienda de obra con propósito de dañarse recíprocamente.
@@ -2177,6 +2179,8 @@ Se impondrá de tres días a cinco años de prisión, al ascendiente que mate o 
 
 ### CAPITULO IV. Fraude
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 1988)</small>
+
 ###### Artículo 282.
 
 Al que instigue o ayude a otro al suicidio se le impondrá de tres a diez años de prisión, si el suicidio se consumare.
@@ -2202,6 +2206,8 @@ Se aplicará de tres a cinco años de prisión a la madre que para ocultar su de
 Igual pena se aplicará si el infante es producto de una violación.
 
 ### CAPITULO VII. Daño en las Cosas
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 1988)</small>
 
 ###### Artículo 285.
 
@@ -2287,29 +2293,29 @@ DELITOS CONTRA EL PATRIMONIO
 
 Comete el delito de robo quien se apodera de una cosa mueble, ajena y sin consentimiento de quien legítimamente pueda disponer de ella.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 1988)</small>
+
 ###### Artículo 300.
 
-El delito de robo se sancionará conforme a las siguientes reglas:
+Al responsable del delito de robo se le sancionará conforme a las reglas siguientes:
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 1984)</small>
+I. Cuando el valor de lo robado no exceda del importe de cien días de salario, la sanción será de tres días a un año de prisión y multa de tres a diez días de salario;
 
-I. Cuando el valor de lo robado no exceda de quince mil pesos, se aplicará prisión de tres días a un año y multa de ciento cincuenta a tres mil pesos;
+II. Si el valor de lo robado excede del importe señalado en la fracción anterior, pero no del que se establece en la siguiente, la sanción será de uno a tres años de prisión y multa de diez a treinta días de salario; y,
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 1984)</small>
+III. Cuando el valor de lo robado exceda del importe de quinientos días de salario, la sanción será de tres a doce años de prisión y multa de treinta a ciento veinte días de salario.
 
-II. Si el valor de lo robado excede de quince mil pesos, pero no de sesenta mil pesos, la pena de prisión será de uno a tres años y multa de tres mil a nueve mil pesos;
-
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 1984)</small>
-
-III. Cuando exceda de sesenta mil pesos, se aplicará prisión de tres a doce años y multa de nueve mil a treinta y seis mil pesos.
+Para la aplicación de este artículo se considerará como salario, el salario mínimo general vigente en el momento y lugar en que se cometió el delito.
 
 ###### Artículo 301.
 
 Para la aplicación de la sanción, se dará por consumado el robo desde el momento en que el ladrón tiene en su poder la cosa robada, aún cuando la abandone o lo desapoderen de ella.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 1988)</small>
+
 ###### Artículo 302.
 
-Para estimar la cuantía del robo se atenderá únicamente al valor intrínseco de la cosa robada. Si éste no pudiera determinarse o por su naturaleza no fuere posible fijar su valor o cantidad, se aplicará de tres días a tres años de prisión.
+Para estimar la cuantía del robo se atenderá únicamente al valor intrínseco de la cosa robada. Si éste no pudiera determinarse o por su naturaleza no fuese posible fijar su valor o su cantidad, se aplicará de tres días a cinco años de prisión.
 
 En los casos de tentativa de robo, cuando no fuere posible determinar el monto, se aplicarán de tres días a dos años de prisión.
 
@@ -2353,11 +2359,11 @@ I. La disposición o destrucción de una cosa mueble, ejecutada intencionalmente
 
 II. El aprovechamiento de energía eléctrica ejecutado sin derecho y sin consentimiento de quien legalmente pueda disponer de ella.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1984)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 1988)</small>
 
 ###### Artículo 307.
 
-Cuando el valor de lo robado no pase de quince mil pesos, sea restituido por el ladrón espontáneamente y pague los daños y perjuicios antes de que la autoridad tome conocimiento del delito, no se impondrá sanción alguna, si no se ha ejecutado el robo por medio de la violencia.
+Cuando el valor de lo robado no exceda del máximo establecido en la fracción I del Artículo 300, sea restituido por el ladrón espontáneamente dicho valor, o la cosa obtenida por el delito o su equivalente y pague los daños y perjuicios antes de que la autoridad tome conocimiento del ilícito, no se impondrá sanción alguna, siempre y cuando no se haya ejecutado el robo por medio de la violencia.
 
 ###### Artículo 308.
 
@@ -2411,19 +2417,17 @@ Es aplicable al delito de abigeato en lo conducente, lo dispuesto por los artíc
 
 ###### Artículo 320.
 
-Comete el delito de abuso de confianza el que, con perjuicio de alguien, disponga para sí o para otro, de una cosa mueble, ajena, de la cual sólo se le haya transmitido la tenencia y no el dominio.
+Comete el delito de abuso de confianza, quien, con perjuicio de alguien, disponga para sí o para otro, de una cosa mueble, ajena, de la cual sólo se le haya transmitido la tenencia y no el dominio.
 
-> <small>(REFORMADO PARRAFO, P.O. 27 DE AGOSTO DE 1984)</small>
+Al responsable del delito anteriormente señalado se le sancionará conforme a las reglas siguientes:
 
-Se sancionará con prisión de tres días a un año y multa de cien a dos mil pesos, cuando el monto del abuso no exceda de veinte mil pesos.
+Con prisión de tres días a un año y multa de tres a siete días de salario, cuando el monto del abuso no exceda del importe de cien días de salario.
 
-> <small>(REFORMADO PARRAFO, P.O. 27 DE AGOSTO DE 1984)</small>
+Si excede del monto a que se refiere el párrafo anterior pero no del que se establece en el siguiente, la prisión será de uno a tres años y multa de siete a veintiún días de salario.
 
-Si excede de esa cantidad, pero no de cien mil pesos, la prisión será de uno a tres años y multa de dos mil a seis mil pesos.
+Si el monto es mayor de mil veces el salario, la prisión será de tres a doce años y multa de veintiuno a cien días de salario.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1984)</small>
-
-Si el monto es mayor de cien mil pesos, la prisión será de tres a doce años y la multa de seis mil a veinticuatro mil pesos.
+Para la aplicación de este artículo se considerará como salario, el salario mínimo general vigente en el momento y lugar en que se cometió el delito.
 
 ###### Artículo 321.
 
@@ -2445,23 +2449,17 @@ Los delitos previstos en este capítulo, sólo se perseguirán por querella del 
 
 ###### Artículo 324.
 
-Comete el delito de fraude, el que engañando a alguien o aprovechándose del error en que éste se halla, se haga ilícitamente de alguna cosa o alcance un lucro indebido para sí o para otro.
+Comete el delito de fraude, quien engañando a alguien o aprovechándose del error en que éste se halla, se haga ilícitamente de alguna cosa o alcance un lucro indebido para sí o para otro.
 
-El delito de fraude se castigará con las penas siguientes:
+Al responsable del delito de fraude se le sancionará conforme a las siguientes reglas:
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 1984)</small>
+I. Con prisión de tres días a un año y multa de tres a diez días de salario, cuando el valor de lo defraudado no exceda del importe de cien días de salario;
 
-I. Con prisión de tres días a un año y multa de ciento cincuenta a tres mil pesos, cuando el valor de lo defraudado no exceda de quince mil pesos.
+II. Con prisión de uno a tres años y multa de diez a treinta días de salario, cuando el valor de lo defraudado exceda del monto señalado en la fracción anterior, pero no del que se establece en la siguiente; y,
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 1984)</small>
+III. Con prisión de tres a doce años y multa de treinta a ciento veinte días de salario, si el valor de lo defraudado fuere mayor de quinientos días de salario.
 
-II. Con prisión de uno a tres años y multa de tres mil a nueve mil pesos, cuando el valor de lo defraudado excediere de quince mil pesos, pero no de sesenta mil pesos; y
-
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 1984)</small>
-
-III. Con prisión de tres a doce años y multa de nueve mil a treinta y seis mil pesos, si el valor de lo defraudado fuere mayor de sesenta mil pesos.
-
-Cuando el sujeto pasivo del delito entregue la cosa de que se trata a virtud no sólo del engaño, sino de las maquinaciones o artificios que para obtener ese bien se hayan empleado, la pena señalada en las fracciones anteriores se aumentará con prisión de tres días a dos años.
+Para la aplicación de este artículo se considerará como salario, el salario mínimo general vigente en el momento y lugar en que se cometió el delito.
 
 ###### Artículo 325.
 
@@ -2541,19 +2539,25 @@ A las sanciones que señalan el artículo anterior, se acumularán las que corre
 
 ###### Artículo 332.
 
-Se aplicarán de tres días a cinco años de prisión y multa de cien a cinco mil peso, al que, por cualquier medio cause daño a cosa ajena o propia en perjuicio de tercero.
+Se sancionará con prisión de tres días a cinco años y multa de tres a veinte días de salario, a quien, por cualquier medio, cause daño a cosa ajena o propia en perjuicio de tercero.
 
-Cuando el delito de daño en las cosas, se consume en edificios públicos o que por su valor histórico o arquitectónico forman parte del acervo cultural el Estado, se aplicará de dos a ocho años de prisión y multa de dos mil a ocho mil pesos.
+Cuando el delito de daño en las cosas se consume en edificios públicos o que por su valor histórico o arquitectónico formen parte del acervo cultural del Estado, se sancionará con prisión de dos a ocho años y multa de veinte a cincuenta días de salario.
+
+Para la aplicación de los artículos de este capítulo se considerará como salario, el salario mínimo general vigente en el momento y lugar en que se cometió el delito.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 1988)</small>
 
 ###### Artículo 333.
 
-Cuando el monto de un delito de daño en las cosas por culpa, no exceda de cinco mil pesos o cuando resulte mayor de esa suma, pero sea cometido con motivo del tránsito de vehículos de motor terrestre, únicamente se sancionará con multa hasta de veinte mil pesos y reparación del daño.
+Cuando el monto de un delito de daño en las cosas por culpa, no exceda de veinte días de salario o cuando resulte mayor de esa suma, pero sea cometido con motivo del tránsito de vehículos de motor terrestre, únicamente se sancionará con multa hasta de cien días de salario y reparación del daño.
 
 Este delito será perseguible por querella de la parte ofendida, si no concurren lesiones u homicidio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 1988)</small>
+
 ###### Artículo 334.
 
-Se aplicarán de cinco a diez años de prisión y multa de cinco a diez mil pesos, a los que causen incendio, inundación o explosión con daño o peligro de:
+Se sancionará con prisión de cinco a diez años y multa de veinte a cincuenta días de salario, a quienes causen incendio, inundación o explosión con daño o peligro de:
 
 I. Un edificio, vivienda o cuarto donde se encuentre alguna persona;
 
@@ -2611,7 +2615,7 @@ T R A N S I T O R I O S :
 
 PRIMERO.- Este Código comenzará a regir el día 15 de agosto de 1980.
 
-SEGUNDO.- Se abroga el Código Penal que entró en vigor el 1o. de mayo de 1962, los Decretos que lo hayan adicionado o reformado; así como las Leyes anteriores sobre la materia, en lo que se oponga al nuevo Código.
+SEGUNDO.- Se abroga el Código Penal que entró en vigor el 1° de mayo de 1962, los Decretos que lo hayan adicionado o reformado; así como las Leyes anteriores sobre la materia, en lo que se oponga al nuevo Código.
 
 TERCERO.- Quedan vigentes las disposiciones de carácter penal contenidas en leyes especiales, en todo lo no previsto en este Código.
 
@@ -2623,7 +2627,7 @@ Por tanto, mando se publique y observe.
 
 PALACIO DEL PODER EJECUTIVO.- Morelia, Mich. a 7 de julio de 1980.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS TORRES MANZO.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. AUSENCIO CHAVEZ HERNANDEZ.- Firmados.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE CODIGO</small>
 
 P.O. 27 DE NOVIEMBRE DE 1980.
 
@@ -2640,3 +2644,13 @@ El presente decreto entrará en vigor el día siguiente de su publicación en el
 Conforme al Artículo 5°. del Código Penal quienes resulten beneficiados con estas reformas, podrán solicitar el beneficio previsto en el Artículo 79 de dicho ordenamiento ante el juez de la causa.
 
 Asimismo, quienes se encuentren sujetos a proceso por un delito patrimonial y con estas reformas se vean beneficiados, podrán solicitar de inmediato el beneficio de su libertad provisional bajo caución.
+
+P.O. 11 DE FEBRERO DE 1988.
+
+###### ARTICULO PRIMERO.
+
+El presente decretó entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Conforme al Artículo 5o. del Código Penal vigente en el Estado, quienes se encuentren sujetos a proceso y resulten beneficiados con estas reformas, podrán solicitar de inmediato la aplicación de los beneficios que legalmente procedan.
