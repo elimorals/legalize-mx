@@ -4,7 +4,7 @@ identifier: "FED-ley-reglamentaria-del-articulo-27-constitucional-en-el-ramo-375
 country: "mx"
 rank: "ley"
 publication_date: "1958-11-29"
-last_updated: "1958-11-29"
+last_updated: "1977-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=375&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1958-11-27"
 
 LEY REGLAMENTARIA DEL ARTICULO 27 CONSTITUCIONAL EN EL RAMO DEL PETROLEO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1977.
 
 Ley publicada en el Diario Oficial de la Federación el sábado 29 de noviembre de 1958.
 
@@ -71,9 +71,11 @@ El reglamento de esta ley establecerá los casos en que la Secretaría de Econom
 
 Petróleos Mexicanos podrá celebrar con personas físicas o morales los contratos de obras y de prestación de servicios que la mejor realización de sus actividades requiere. Las remuneraciones que en dichos contratos se establezcan, serán siempre en efectivo y en ningón (sic) caso concederán por los servicios que se presten o las obras que se ejecuten, porcentajes en los productos, ni participación en los resultados de las explotaciones.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+
 ###### ARTICULO 7o.
 
-El reconocimiento y la exploración superficial de los terrenos, para investigar sus posibilidades petrolíferas, requerirán únicamentte (sic) permiso de la Secretaría de Economía. Si hubiere oposición del propietario o poseedor de los terrenos objeto de la exploración, la Secretaría de Economía, oyendo a las partes, concederá el permiso mediante fianza que deberá otorgar Petróleos Mexicanos por los daños y perjuicios que pudieran causarse a los afectados.
+El reconocimiento y la exploración superficial de los terrenos para investigar sus posibilidades petrolíferas, requerirán únicamente permiso de la Secretaría de Patrimonio y Fomento Industrial. Si hubiere oposición del propietario o poseedor cuando los terrenos sean particulares, o de los representantes legales de los ejidos o comunidades, cuando los terrenos estén afectos al régimen ejidal o comunal, la Secretaría de Patrimonio y Fomento Industrial, oyendo a las partes, concederá el permiso mediante el reconocimiento que haga Petróleos Mexicanos de la obligación de indemniar (sic) a los afectados por los daños y perjuicios que pudieren causarse de acuerdo con el peritaje que la Comisión de Avalúos de Bienes Nacionales practique dentro de un plazo que no excederá de un año, pudiendo entregar Petróleos Mexicanos un anticipo, en consulta con la propia Comisión.
 
 ###### ARTICULO 8o.
 
@@ -83,9 +85,11 @@ El Ejecutivo Federal establecerá zonas de reservas petroleras en terrenos que p
 
 La industria petrolera es de la exclusiva jurisdiccin (sic) federal. En consecuencia únicamente el Gobierno Federal puede dictar las disposiciones técnicas o reglamentarias que la rijan, y establecer los impuestos que graven cualquiera de sus aspectos.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+
 ###### ARTICULO 10.
 
-La industria petrolera es de utilidad pública. Por lo tanto, tendrá preferencia sobre cualquier aprovechamiento de la superficie y del subsuelo de los terrenos, y procederá la ocupación o la expropiación de los mismos, mediante la indemnización legal correspondiente, en todos los casos en que lo requieran las necesidades del país o de la industria.
+La industria petrolera es de utilidad pública prioritaria sobre cualquier aprovechamiento de la superficie y del subsuelo de los terrenos, incluso sobre la tenencia de ejidos o comunidades y procederá la ocupación provisional, la definitiva o la expropiación de los mismos, mediantes (sic) la indemnización legal, en todos los casos en que lo requieran la Nación o su industria petrolera.
 
 ###### ARTICULO 11.
 
@@ -128,3 +132,9 @@ Esta ley entrará en vigor al día siguiente de su publicación en el "Diario Of
 Donato Bravo Izquierdo, S. P.- Francisco Pérez Ríos, D. P.- José Castillo Tielmans, S. S.- Fernando Díaz Durán, D. S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido la presente ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintisiete días del mes de noviembre de mil novecientos cincuenta y ocho.- Adolfo Ruiz Cortines.- Rúbrica.- El Secretario de Gobernación, Angel Carvajal.- Rúbrica.- El Secretario de Economía, Gilberto Loyo.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Antonio Carrillo Flores.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 30 DE DICIEMBRE DE 1977.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
