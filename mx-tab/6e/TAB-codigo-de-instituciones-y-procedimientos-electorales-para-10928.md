@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-instituciones-y-procedimientos-electorales-para-10928
 country: "mx"
 rank: "codigo"
 publication_date: "1996-12-28"
-last_updated: "1996-12-28"
+last_updated: "2002-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CODIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 2002.
 
 Código publicado en el Periódico Oficial del Estado de Tabasco, el sábado 28 de diciembre de 1996.
 
@@ -3467,333 +3467,145 @@ Los Presidentes de los Consejos Electorales Distritales y Municipales conservar�
 
 El Consejo Estatal determinará el procedimiento para su destrucción.
 
-# LIBRO SEXTO. DEL TRIBUNAL ELECTORAL DE TABASCO
+> <small>(DEROGADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)</small>
 
-## TITULO PRIMERO. DISPOSICIONES PRELIMINARES
+# LIBRO SEXTO
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)</small>
+
+## TITULO PRIMERO
 
 ###### Artículo 258.
 
-El Tribunal Electoral de Tabasco, es el órgano autónomo y representa la máxima autoridad jurisdiccional en la materia electoral en la entidad, y sujetará sus actos y resoluciones conforme a lo establecido en la Constitución Local y las particulares de este Código que son las siguientes:
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)
 
-I. Substanciar y resolver en forma definitiva, los recursos a que se refiere este Código;
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)</small>
 
-II. Expedir su Reglamento Interior;
+## TITULO SEGUNDO
 
-III. Realizar tareas de capacitación, investigación y difusión en materia de derecho electoral;
-
-IV. Celebrar convenios de colaboración con otros Tribunales Electorales, Instituciones y autoridades para su mejor desempeño; y
-
-V. Las demás que considere necesarias para su eficaz y correcto funcionamiento.
-
-El Tribunal Electoral de Tabasco, al resolver los asuntos de su competencia, garantizará que los actos y resoluciones electorales se sujeten al principio de legalidad.
-
-El Tribunal Electoral funcionará siempre en Pleno; sus sesiones de resolución jurisdiccional serán públicas, salvo lo previsto en la fracción II del artículo 267.
-
-## TITULO SEGUNDO. DE LA INTEGRACION DEL TRIBUNAL ELECTORAL
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)</small>
 
 ### CAPITULO UNICO
 
 ###### Artículo 259.
 
-El Tribunal Electoral residirá en la capital del Estado, se integrará con cinco Magistrados electos, a más tardar la última semana de marzo del año de la elección, por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados; tres de ellos y un suplente provendrán de una lista de 20 Jueces de Primera Instancia de la Judicatura que presente ante el Congreso del Estado el Presidente del Tribunal Superior de Justicia; los dos restantes y un suplente, serán aprobados de entre los Magistrados que componen el Tribunal Superior de Justicia con excepción de su Presidente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)
 
 ###### Artículo 260.
 
-El Tribunal se instalará e iniciará sus funciones a más tardar la última semana del mes de marzo del año de la elección, y concluirá sus actividades al término del proceso electoral de que se trate o cuando los recursos interpuestos hayan causado ejecutoria.
-
-En caso de elecciones extraordinarias, se estará a lo dispuesto por la convocatoria respectiva.
-
-En periodos no electorales, cuando se hubiere recibido un recurso ante el Instituto, el órgano jurisdiccional electoral se reintegrará de conformidad con la fracción IX del artículo 108.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)
 
 ###### Artículo 261.
 
-Los Magistrados Electorales que integren el Tribunal durarán en su encargo ocho años improrrogables y deberán satisfacer los requisitos siguientes:
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)
 
-I. Ser ciudadano mexicano por nacimiento;
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)</small>
 
-II. Tener treinta años de edad cumplidos al día de la designación;
+## TITULO TERCERO
 
-III. Ser Licenciado en Derecho con título expedido y registrado por institución legalmente autorizada para ello, y haber ejercido la profesión cuando menos cinco años;
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)</small>
 
-IV. No ser ministro de ningún culto religioso;
-
-V. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite sanción corporal;
-
-VI. Haber residido en la entidad durante los últimos dos años;
-
-VII. No desempeñar ni haber desempeñado el cargo de Presidente del Comité Ejecutivo Nacional, Estatal, Municipal o equivalente de un partido político en los últimos tres años anteriores a la designación; y
-
-VIII. No tener ni haber tenido cargo alguno de elección, ni haber sido postulado como candidato en los últimos tres años anteriores a la designación. La retribución que reciban los Magistrados, será la prevista en el presupuesto de egresos del Estado.
-
-## TITULO TERCERO. DEL PLENO DE LOS MAGISTRADOS DEL TRIBUNAL
-
-### CAPITULO PRIMERO. DEL PLENO DEL TRIBUNAL
+### CAPITULO PRIMERO
 
 ###### Artículo 262.
 
-El Pleno del Tribunal se integra por los Magistrados Electorales. Para que pueda sesionar válidamente se requiere la presencia de la mayoría de sus integrantes, entre ellos su Presidente. Sus determinaciones serán válidas con el voto de la mayoría de los presentes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)
 
-Son atribuciones del Pleno del Tribunal Electoral de Tabasco las siguientes:
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)</small>
 
-I. Elegir de entre los Magistrados Electorales que integran al Pleno, en la primera sesión que corresponda a la fecha de su designación, al Presidente del Tribunal. Asimismo, conocer y aceptar, en su caso, su renuncia al cargo de Presidente del Tribunal;
-
-II. Designar o remover, a propuesta del Presidente del Tribunal, al Secretario General de Acuerdos;
-
-III. Aprobar y en su caso, modificar el Reglamento Interior del Tribunal con base en el proyecto que le presente una Comisión de tres Magistrados que a ese efecto se integre a propuesta del Presidente del Pleno; y
-
-IV. Las ausencias temporales o definitivas de los Magistrados Electorales serán cubiertas por el suplente respectivo, en términos de su reglamento interno.
-
-### CAPITULO SEGUNDO. DEL PLENO
+### CAPITULO SEGUNDO
 
 ###### Artículo 263.
 
-El Pleno es competente para:
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)
 
-I. Substanciar y resolver los recursos sometidos a su jurisdicción y competencia, así como proveer la ejecución de las resoluciones que pronuncie;
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)</small>
 
-II. Desechar, sobreseer, tener por no interpuestos, o por no presentados, cuando proceda, los recursos o los escritos de terceros interesados o de coadyuvantes;
-
-III. Calificar y resolver sobre las excusas que presenten los Magistrados;
-
-IV. Encomendar a los Jueces Instructores, Secretarios y Actuarios, la realización de diligencias que deban practicarse fuera del Tribunal;
-
-V. Determinar la fecha y hora de sus sesiones públicas;
-
-VI. Nombrar, a propuesta del Presidente del Pleno, a los Jueces Instructores, Secretarios y Actuarios;
-
-VII. Solicitar al Presidente del Tribunal, cuando proceda, la suspensión, remoción o cese de los servidores públicos a que hace mención la fracción inmediata anterior, así como del personal adscrito o que dependa directamente de la Presidencia del Tribunal;
-
-VIII. Definir los criterios de jurisprudencia conforme a lo establecido en este Código; y
-
-IX. Determinar y, en su caso, aplicar las sanciones previstas en el artículo 334 y siguientes.
-
-Concluido el proceso electoral, el Presidente del Tribunal declarará en receso al mismo, salvo lo previsto en el último párrafo del artículo 260 de este Código. En el caso de elecciones extraordinarias, el Pleno se integrará en los términos previstos por este ordenamiento, hasta la conclusión de las mismas.
-
-### CAPITULO TERCERO. DE LOS MAGISTRADOS
+### CAPITULO TERCERO
 
 ###### Artículo 264.
 
-Son atribuciones de los Magistrados las siguientes:
-
-I. Concurrir, participar y votar, cuando corresponda, en las sesiones públicas y reuniones internas a las que sean convocados por el Presidente del Tribunal;
-
-II. Integrar el Pleno para resolver colegiadamente los asuntos de su competencia;
-
-III. Formular los proyectos de resolución de los expedientes que le sean turnados para tal efecto;
-
-IV. Exponer en sesión pública, personalmente o por conducto de un Secretario sus proyectos de resolución, señalando las consideraciones jurídicas y los preceptos en que se funden;
-
-V. Discutir y votar los proyectos de resolución que sean sometidos a su consideración en las sesiones públicas;
-
-VI. Formular voto particular razonado en caso de disentir de un proyecto de resolución aprobado por la mayoría y solicitar que se agregue al expediente;
-
-VII. Solicitar al Pleno que sus proyectos de resolución se agreguen a los expedientes como votos particulares cuando no sean aprobados por la mayoría;
-
-VIII. Realizar los engroses de los fallos aprobados por el Pleno, cuando sean designados para tales efectos;
-
-IX. Proponer los criterios, el texto y el rubro de la jurisprudencia definida de conformidad con lo dispuesto en el artículo 331, primer párrafo, de este Código;
-
-X. Formar parte de la Comisión de Justicia cuando sean convocados para tal efecto por el Presidente del Tribunal, de conformidad con lo dispuesto en este Código y en el Reglamento correspondiente;
-
-XI. Realizar tareas de docencia e investigación en el Tribunal; y
-
-XII. Las demás que señale este Código o el Reglamento Interior del Tribunal o las que sean necesarias para el funcionamiento correcto del Tribunal.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)
 
 ###### Artículo 265.
 
-Durante el tiempo que ejerzan las funciones de su cargo, los Magistrados no podrán, en ningún caso, aceptar y desempeñar empleo o encargo de la Federación, de los Estados, Municipios o de los particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia cuando sean compatibles con el ejercicio de la magistratura. Una vez concluido el proceso electoral de que se trate, los Magistrados se reintegrarán a las funciones que venían realizando en el Poder Judicial del Estado, sin perjuicio de la vigencia del nombramiento de Magistrado Electoral.
-
-Los Magistrados del Tribunal Electoral deberán excusarse de conocer algún asunto en el que tengan interés personal por relaciones de parentesco, negocios, amistad estrecha o enemistad que pueda afectar su imparcialidad. El Pleno del Tribunal calificará y resolverá de inmediato la excusa.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)
 
 ###### Artículo 266.
 
-Cuando el Consejero Presidente del Consejo Estatal del Instituto o el Presidente del Tribunal Electoral de Tabasco estimen, respectivamente, que ha lugar a la remoción de alguno de los Consejeros Electorales o Magistrados, el Presidente del Tribunal procederá a integrar la Comisión de Justicia.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)
 
-La Comisión de Justicia se integrará por:
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)</small>
 
-I. El Presidente del Tribunal Electoral de Tabasco, quien la presidirá;
+## TITULO CUARTO
 
-II. Los Consejeros del Poder Legislativo acreditados ante el Consejo Estatal Electoral;
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)</small>
 
-III. Dos Consejeros Electorales del Consejo Estatal Electoral; y
-
-IV. Dos Magistrados del Tribunal Electoral, que serán propuestos por el Presidente.
-
-Procederá la remoción de los Consejeros Electorales y de los Magistrados, cuando incurran en conductas graves que sean contrarias a la función que la Ley les confiere.
-
-La Comisión de Justicia observará el derecho de audiencia y sus resoluciones serán definitivas e inatacables.
-
-## TITULO CUARTO. DE SU FUNCIONAMIENTO
-
-### CAPITULO PRIMERO. DEL PRESIDENTE DEL TRIBUNAL
+### CAPITULO PRIMERO
 
 ###### Artículo 267.
 
-El Presidente del Tribunal será electo por el Pleno en los términos del artículo 262, fracción I de este Código y durará en el cargo cuatro años.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)
 
-El Presidente del Tribunal tendrá las siguientes atribuciones:
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)</small>
 
-I. Representar al Tribunal, celebrar convenios, otorgar todo tipo de poderes y realizar los actos jurídicos y administrativos que se requieran para el buen funcionamiento del Tribunal;
-
-II. Presidir las sesiones del Pleno, así como conducir las sesiones y conservar el orden durante las mismas. Cuando los asistentes no guarden la compostura debida, podrá ordenar el desalojo de los presentes y la continuación de la sesión en privado;
-
-III. Proponer al Pleno el nombramiento del Secretario General de Acuerdos, así como las propuestas de Jueces, Instructores, Secretarios y Actuarios;
-
-IV. Designar al Secretario Administrativo, a los titulares y personal de las coordinaciones del Tribunal, al personal administrativo de servicios generales y, en su caso, al personal jurídico y administrativo;
-
-V. Cubrir las ausencias temporales de los Magistrados por acuerdo del Pleno;
-
-VI. Vigilar que se cumplan, según corresponda, las determinaciones del Pleno y de los Jueces Instructores;
-
-VII. Despachar la correspondencia del Tribunal Electoral;
-
-VIII. Elaborar y enviar el proyecto de presupuesto del Tribunal Electoral directamente al titular del Poder Ejecutivo, o por conducto del funcionario que éste designe;
-
-IX. Vigilar que el Tribunal cuente con los recursos humanos, financieros y materiales necesarios para su buen funcionamiento;
-
-X. Convocar a sesiones públicas o reuniones internas, a los Magistrados del Tribunal Electoral, a los Jueces Instructores y a los demás miembros del personal jurídico o administrativo;
-
-XI. Tomar las medidas necesarias para coordinar las funciones jurisdiccionales y administrativas;
-
-XII. Requerir cualquier informe o documento que, obrando en poder de los órganos del Instituto Electoral de Tabasco o de las autoridades estatales, distritales o municipales, de los partidos políticos, agrupaciones y organizaciones políticas, pueda servir para la substanciación o resolución de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en este Código;
-
-XIII. Ordenar, en casos extraordinarios que se realice alguna diligencia o se desahogue o perfeccione alguna prueba, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en este Código;
-
-XIV. Rendir ante el Pleno un informe al término de cada proceso electoral dando cuenta de la marcha del Tribunal Electoral, de los principales criterios adoptados en sus resoluciones y ordenar su publicación;
-
-XV. Decretar, cuando proceda, a petición del Pleno, la suspensión, remoción o cese del Secretario Administrativo, Coordinadores y demás personal jurídico, y administrativo del Tribunal Electoral, así como de los Jueces Instructores o Secretario General de Acuerdos;
-
-XVI. Presidir e integrar la Comisión de Justicia de conformidad con lo dispuesto en este Código y en el Reglamento correspondiente;
-
-XVII. Acordar con el Secretario Administrativo, y titulares de las coordinaciones adscritas a la Presidencia del Tribunal, los asuntos de su competencia;
-
-XVIII. Fijar los lineamientos para la selección, capacitación, designación y promoción del personal del Tribunal Electoral, tomando en cuenta los principios de certeza, legalidad, independencia, imparcialidad y objetividad;
-
-XIX. Vigilar que se cumplan las disposiciones del reglamento interior del Tribunal Electoral; y
-
-XX. Las demás que señale este Código o aquellas que sean necesarias para el funcionamiento correcto del Tribunal Electoral.
-
-### CAPITULO SEGUNDO. DE LOS JUECES INSTRUCTORES
+### CAPITULO SEGUNDO
 
 ###### Artículo 268.
 
-El Pleno del Tribunal Electoral contará, por lo menos con diez Jueces Instructores durante el proceso electoral.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)
 
 ###### Artículo 269.
 
-Son atribuciones de los Jueces Instructores:
-
-I. Admitir los recursos de apelación y de inconformidad, así como los escritos de los coadyuvantes y de los terceros interesados, cuando cumplan con los requisitos establecidos en este Código;
-
-II. Someter al Pleno los acuerdos de desechamiento de los recursos de apelación y de inconformidad que sean notoriamente improcedentes o evidentemente frívolos;
-
-III. Someter a la consideración del Pleno el acuerdo de tener por no interpuestos los recursos de apelación y de inconformidad y por no presentados los escritos de los coadyuvantes y de los terceros interesados cuando no reúnan los requisitos establecidos en este Código;
-
-IV. Someter al Pleno el acuerdo que ordene archivar como asunto total y definitivamente concluido, el recurso de inconformidad;
-
-V. Determinar y acordar, cuando proceda, la acumulación de los recursos de apelación y de inconformidad, así como determinar la procedencia de la conexidad de la causa de acuerdo con lo dispuesto en el artículo 308 de este Código;
-
-VI. Formular los requerimientos necesarios para la substanciación de los expedientes y solicitar al Presidente del Pleno que requiera, si lo juzga conveniente, cualquier informe o documento que obrando en poder de los órganos del Instituto Electoral de Tabasco o de las autoridades estatales y municipales, de los partidos políticos o de particulares, pueda servir para la substanciación de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en este Código;
-
-VII. Girar exhortos a los juzgados estatales encomendándoles la realización de alguna diligencia o en el ámbito de su competencia, efectuar por sí mismos las que deban practicarse fuera de las oficinas del Juzgado; y
-
-VIII. Desempeñar las demás tareas que le encomienden el Presidente y los Magistrados del Tribunal Electoral, en el ámbito de su competencia, para la buena marcha y funcionamiento del mismo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)
 
 ###### Artículo 270.
 
-Los Jueces Instructores deberán reunir los siguientes requisitos:
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)
 
-I. Ser ciudadano tabasqueño o residente en el Estado con antigüedad de dos años, y en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)</small>
 
-II. Tener 30 años de edad por lo menos, al momento de la designación;
-
-III. Tener título de licenciado en derecho con antigüedad mínima de tres años;
-
-IV. No desempeñar o haber desempeñado cargo de elección popular en los últimos tres años, y
-
-V. No ser o haber sido dirigente nacional, estatal o municipal de algún partido político en los últimos tres años. La retribución que reciban los Jueces Instructores, será la prevista en el presupuesto de egresos del Estado.
-
-### CAPITULO TERCERO. DEL SECRETARIO GENERAL DE ACUERDOS DEL TRIBUNAL ELECTORAL
+### CAPITULO TERCERO
 
 ###### Artículo 271.
 
-El Secretario General de Acuerdos del Tribunal Electoral, tendrá las siguientes atribuciones:
-
-I. Apoyar al Presidente del Tribunal Electoral en las tareas que le encomiende;
-
-II. Dar cuenta, tomar las votaciones y formular el acta respectiva en las sesiones del Pleno;
-
-III. Llevar el control del turno de los Magistrados;
-
-IV. Llevar el registro de las sustituciones de los Magistrados;
-
-V. Supervisar el debido funcionamiento de la Oficialía de Partes del Tribunal Electoral;
-
-VI. Supervisar que se hagan en tiempo y forma las notificaciones del Pleno;
-
-VII. Supervisar el debido funcionamiento de los archivos jurisdiccionales y, en su momento, su concentración y preservación;
-
-VIII. Dictar previo acuerdo con el Presidente del Tribunal Electoral, los lineamientos generales para la identificación e integración de los expedientes;
-
-IX. Autorizar con su firma las actuaciones del Pleno;
-
-X. Llevar el registro de las tesis de jurisprudencia que se adopten;
-
-XI. Dar cuenta en las sesiones públicas con los expedientes que no sean de ponencia de los Magistrados;
-
-XII. Revisar el engrose de las resoluciones aprobadas por el Pleno;
-
-XIII. Remitir a los Jueces Instructores los recursos de apelación, de inconformidad y, en su caso, los de revisión, de acuerdo con el turno que les corresponda, llevando el control respectivo;
-
-XIV. Coordinar, de conformidad con los lineamientos que dicte el Pleno a los Jueces Instructores;
-
-XV. Vigilar el adecuado funcionamiento de la Oficialía de Partes;
-
-XVI. Vigilar la correcta integración de los expedientes;
-
-XVII. Expedir las certificaciones y constancias que se requieran; y
-
-XVIII. Las demás que le señalen este Código y el Reglamento Interior del Tribunal.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)
 
 ###### Artículo 272.
 
-El Secretario General deberá satisfacer los requisitos que se exigen para ser Juez Instructor, y percibirá la remuneración prevista en el presupuesto de egresos del Estado. El Secretario General tendrá la obligación de guardar absoluta reserva sobre los asuntos del Tribunal Electoral.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)
 
-### CAPITULO CUARTO. DEL SECRETARIO ADMINISTRATIVO Y DE LAS COORDINACIONES DEL TRIBUNAL ELECTORAL
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)</small>
+
+### CAPITULO CUARTO
 
 ###### Artículo 273.
 
-El Secretario Administrativo dependerá directamente del Presidente del Tribunal Electoral y tendrá a su cargo la atención de todo lo relativo a los recursos humanos, financieros y materiales del Tribunal Electoral y percibirá la remuneración fijada en el presupuesto de egresos del Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)
 
 ###### Artículo 274.
 
-Las Coordinaciones del Tribunal Electoral tendrán a su cargo las tareas de capacitación, investigación, documentación y difusión, así como de comunicación social. Sus titulares dependerán directamente del Presidente del Tribunal Electoral y percibirán la remuneración prevista en el presupuesto de egresos del Tribunal.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)
 
-### CAPITULO QUINTO. DE LOS SECRETARIOS Y DEL PERSONAL AUXILIAR Y ADMINISTRATIVO
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)</small>
+
+### CAPITULO QUINTO
 
 ###### Artículo 275.
 
-Los Secretarios del Tribunal Electoral deben reunir los requisitos siguientes:
-
-I. Ser ciudadano en goce de sus derechos políticos y civiles, y contar con credencial para votar con fotografía;
-
-II. Haber cumplido por lo menos 25 años de edad al momento de la designación; y
-
-III. Gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)
 
 ###### Artículo 276.
 
-Para ser designado Actuario del Tribunal Electoral se requieren los mismos requisitos señalados en el artículo anterior, con excepción del título de licenciado en derecho que puede ser el documento que lo acredite como pasante en la licenciatura de derecho.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)
 
-### CAPITULO SEXTO. DEL TRIBUNAL ELECTORAL
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)</small>
+
+### CAPITULO SEXTO
 
 ###### Artículo 277.
 
-Todos los servidores públicos y empleados del Tribunal Electoral se conducirán con imparcialidad y velarán por la aplicación irrestricta del principio de legalidad en todas las diligencias y actuaciones en el desempeño de sus funciones, y tendrán la obligación de guardar absoluta reserva sobre los asuntos que sean competencia del tribunal.
-
-Los Secretarios y Actuarios tendrán las atribuciones que señale este Código y, en su caso, el Reglamento respectivo.
-
-Todos los servidores del Tribunal Electoral serán considerados de confianza. El Presidente, establecerá los lineamientos para que previamente a la suspensión, remoción o cese de alguno de ellos, se les conceda el derecho de audiencia. Una vez decretada la sanción que se le aplique al servidor responsable, éste podrá inconformarse ante el Pleno del Tribunal Electoral conforme a las prevenciones de este Código.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO, P.O. 29 DE NOVIEMBRE DE 2002)
 
 # LIBRO SEPTIMO. DE LAS NULIDADES, DEL SISTEMA DE MEDIOS DE IMPUGNACION Y DE LAS FALTAS Y SANCIONES ADMINISTRATIVAS
 
@@ -4518,3 +4330,39 @@ LIC. ROBERTO MADRAZO PINTADO.
 LIC. VICTOR MANUEL BARCELO RODRIGUEZ.
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 29 DE NOVIEMBRE DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Libro Sexto del Código de Instituciones y Procedimientos Electorales del Estado de Tabasco publicado en el Suplemento al Periódico Oficial Número 5667, de fecha 28 de diciembre de 1996, con sus respectivos Títulos y Capítulos; así como todas aquellas disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado, procederá a la designación de los tres Magistrados que integrarán el nuevo Tribunal Electoral de Tabasco, a más tardar a los diez días de haber entrado en vigor la presente Ley, o en su defecto, aprovechando la experiencia de los magistrados actuales y la vigencia de su nombramiento, podrá determinar, sin necesidad de un nuevo acto legislativo, la permanencia de tres de ellos, en el orden en que fueron designados en el decreto 04 de fecha 29 de marzo del año próximo pasado.
+
+###### ARTÍCULO CUARTO.
+
+El Tribunal Electoral de Tabasco, deberá iniciar sus funciones con su nueva integración a más tardar el día seis de enero del año 2003.
+
+###### ARTÍCULO QUINTO.
+
+El Pleno del Tribunal Electoral procederá a designar al Titular del Órgano de Control y Evaluación, a más tardar a los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+El Pleno del Tribunal Electoral de Tabasco, deberá aprobar su nuevo Reglamento Interior a más tardar a los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los archivos, bienes y recursos del actual Tribunal Electoral de Tabasco, serán transferidos a los Magistrados que integran la nueva conformación que se prevé en la Constitución de la Entidad. Para tal efecto el Presidente del nuevo órgano jurisdiccional, deberá recibir los mencionados archivos, bienes y recursos debidamente inventariados.
+
+###### ARTÍCULO OCTAVO.
+
+Por esta única ocasión el Ejecutivo Estatal efectuará las previsiones presupuestales necesarias que le serán asignadas para el ejercicio de sus funciones correspondientes al año 2003, al Tribunal Electoral de Tabasco, tomando en cuenta que se trata de años electorales y las disposiciones conferidas en el presente decreto.
