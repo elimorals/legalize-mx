@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-educacion-del-estado-de-zacatecas-20026"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-17"
-last_updated: "2003-02-19"
+last_updated: "2003-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE EDUCACION DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 2003
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 17 de julio de 1999.
 
@@ -441,9 +441,11 @@ De acuerdo con las necesidades educativas específicas de la población, tambié
 
 La educación inicial tiene como propósito favorecer el desarrollo físico, cognoscitivo, afectivo y social de los menores de cuatro años de edad. Incluye orientación a padres de familia o tutores para la educación de sus hijos o pupilos.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 24.
 
-La educación preescolar deberá impartirse en establecimientos denominados Jardines de Niños y tiene como propósito fundamental la socialización, procurando que adquieran los conocimientos básicos sobre la naturaleza, la vida y la sociedad y se oriente su desarrollo hacia la creatividad. La educación preescolar, no constituye un requisito previo a la primaria.
+La educación preescolar deberá impartirse en establecimientos denominados Jardines de Niños y tiene como propósito fundamental la socialización, procurando que adquieran los conocimientos básicos sobre la naturaleza, la vida y la sociedad y se oriente su desarrollo hacia la creatividad. La educación preescolar, es el antecedente obligatorio de la educación primaria.
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2002)</small>
 
@@ -717,9 +719,11 @@ El Acuerdo Secretarial respectivo señalará los requisitos específicos que deb
 
 Todos los habitantes del Estado tienen derecho a las mismas oportunidades de educación, con sólo satisfacer los requisitos establecidos en la ley y los ordenamientos que de ella se deriven.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 58.
 
-Todos los habitantes del Estado deberán cursar la educación primaria y secundaria y es obligación de los padres, tutores o representantes legales de los menores de edad hacer que los menores de 15 años cursen la primaria y la secundaria. El Estado será el encargado de promover la educación preescolar. El incumplimiento de estas obligaciones será motivo de las sanciones previstas en la ley.
+Todos los habitantes del Estado deberán cursar la educación preescolar, primaria y secundaria y es obligación de los padres, tutores o representantes legales de los menores de edad, hacer que los menores de 15 años cursen preescolar, la primaria y secundaria. El Estado tendrá la obligación de impartir la educación preescolar. El incumplimiento de estas obligaciones será motivo de las sanciones previstas en la ley.
 
 ###### Artículo 59.
 
@@ -741,7 +745,9 @@ VI. Opinar, en los casos de la educación que impartan los particulares, en rela
 
 Son obligaciones de quienes ejercen la patria potestad o la tutela:
 
-I. Hacer que sus hijos o pupilos, menores de edad, reciban la educación primaria y secundaria;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE DICIEMBRE DE 2003)</small>
+
+I. Hacer que sus hijos o pupilos, menores de edad, reciban la educación preescolar, primaria y secundaria.
 
 II. Apoyar el proceso educativo de sus hijos o pupilos, de conformidad con lo señalado en el Proyecto educativo del Estado y colaborar con las instituciones educativas donde estén inscritos sus hijos o pupilos, en las actividades cívicas que dichas instituciones realicen; así como cumplir la Ley sobre el Escudo, Bandera e Himno Nacionales;
 
@@ -851,7 +857,9 @@ I. Ostentarse como plantel incorporado sin estarlo;
 
 II. Incumplir con lo dispuesto en el artículo 49 de esta Ley, y 59 de la Ley General de Educación;
 
-III. Impartir la educación primaria, secundaria, la normal y demás para la formación de maestros de educación básica, sin contar con la autorización correspondiente;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE DICIEMBRE DE 2003)</small>
+
+III. Impartir la educación preescolar, primaria, secundaria, la normal y demás para la formación de maestros de educación básica, sin contar con la autorización correspondiente;
 
 IV. Impartir educación inicial, sin contar con el registro correspondiente.
 
@@ -984,3 +992,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 27 DE DICIEMBRE DE 2003.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
