@@ -4,7 +4,7 @@ identifier: "COL-ley-de-pensiones-civiles-para-el-estado-de-colima-4421"
 country: "mx"
 rank: "ley"
 publication_date: "1962-12-29"
-last_updated: "1965-05-29"
+last_updated: "1966-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PENSIONES CIVILES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 1965.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 1966.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 29 de diciembre de 1962.
 
@@ -251,17 +251,21 @@ PRESTAMOS A CORTO PLAZO
 
 En préstamos a empleados y funcionarios acogidos a los términos de esta Ley que tengan cuando menos seis meses de nombrados.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1966)</small>
+
 ###### Art. 27.
 
-Los préstamos a que se contrae el artículo anterior, podrán autorizarse hasta por el importe de tres meses de sueldo de que disfrute el solicitante, salvo préstamos especiales que autorice el Consejo.
+Los préstamos a que se contrae el artículo anterior podrán ser autorizados hasta por el importe de tres meses de sueldo de que disfrute el solicitante, salvo préstamos especiales que autorice el Consejo.- En caso de que el crédito se conceda con cargo al fondo de garantía, podrá hacerse sólo hasta por el importe de tres meses de sueldo, y su concesión quedará al exclusivo criterio del Consejo Directivo.
 
 ###### Art. 28.
 
 Los préstamos serán, en cuanto a su monto, de tal manera que los abonos para reintegrar la cantidad pedida y sus intereses sumados a los descuentos que deban hacerse por cualquier otro adeudo a favor de la Dirección, no excedan del cincuenta por ciento de los sueldos del interesado.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1966)</small>
+
 ###### Art. 29.
 
-El plazo para la devolución de la cantidad prestada y sus accesorios será hasta de veinte quincenas.
+El plazo para la devolución de la cantidad prestada y sus accesorios será hasta de veinticuatro quincenas, salvo el caso de los créditos sobre fondo de garantía que no podrán concederse a más de dieciséis quincenas.
 
 ###### Art. 30.
 
@@ -275,9 +279,11 @@ El pago del capital e intereses se hará en abonos quincenales iguales.
 
 No se concederá nuevo préstamo mientras permanezca insoluto el anterior; pero podrá renovarse cuando haya transcurrido la cuarta parte del plazo por el que fué concedido, se hayan cubierto los abonos de dicho período, y el solicitante cubra una prima de renovación del uno al millar entre el total del nuevo préstamo, además de los intereses correspondientes.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1966)</small>
+
 ###### Art. 33.
 
-Para que pueda concederse un préstamo a corto plazo deberá el funcionario o empleado suscribir la obligación en forma solidaria con otro empleado o funcionario en servicio o contribución al fondo de garantía con el dos por ciento sobre el monto del adeudo al iniciarse la operación. Los préstamos hasta el importe del fondo propio no requieren aquellas garantías.
+Para que pueda concederse un préstamo a corto plazo, deberá el funcionario o empleado suscribir la obligación en forma solidaria con otro empleado o funcionario en servicio, o contribuir al fondo de garantía con el dos por ciento sobre el monto del adeudo al iniciarse la operación, después de ajustarse a lo previsto en el Art. 27.- Los préstamos hasta por el importe del fondo propio, no requieren aquellas garantías.
 
 ###### Art. 34.
 
@@ -504,3 +510,7 @@ Palacio de Gobierno.- Colima, Col., Diciembre 28 de 1962.- EL GOBERNADOR CONSTIT
 P.O. 29 DE MAYO DE 1965.
 
 UNICO.- Este Decreto empezará a surtir sus efectos a partir del día siguiente de su publicación en el Periódico Oficial.
+
+P.O. 17 DE DICIEMBRE DE 1966.
+
+Este Decreto surtirá sus efectos a partir de su publicación en el Periódico Oficial del Estado.
