@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "1989-10-06"
+last_updated: "1991-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 1991.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -12793,9 +12793,15 @@ Nadie puede alegar ignorancia de las inscripciones del Registro Público.
 
 El reglamento fijará el número de secciones de que se componga el Registro y la sección en que deban inscribirse los títulos que se registren.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE JULIO DE 1991)</small>
+
+Podrán hacerse las inscripciones y anotaciones en el Registro Público de la Propiedad, por medio del sistema de folio real que deberá llevarse conforme al sistema que establezca el Reglamento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JULIO DE 1991)</small>
+
 ###### Art. 2494.
 
-El registro será público. Los encargados de la oficina tienen la obligación de permitir a las personas que lo soliciten que se enteren de las inscripciones constantes en los libros del Registro y de los documentos relacionados con las inscripciones, que estén archivados. También tienen obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los libros del Registro; así como certificaciones de no existir asientos de ninguna especie o de especie determinada, sobre bienes señalados o a cargo de ciertas personas.
+El registro será público. Los encargados de la oficina tienen la obligación de permitir a las personas que lo soliciten que se enteren de las inscripciones constantes en los libros del Registro y de los documentos relacionados con las inscripciones, que estén archivados. Igualmente, permitirán la consulta de los folios por medio del sistema electrónico y expedirán por escrito las constancias que de los mismos les sean solicitadas. También tienen obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los Libros del Registro; así como certificaciones de no existir asientos de ninguna especie o especie determinada, sobre bienes señalados o a cargo de ciertas personas.
 
 Tratándose de testamentos ológrafos depositados en el Registro, se observará lo dispuesto en el artículo 2819.
 
@@ -12823,9 +12829,13 @@ VIII. Las fundaciones de beneficencia privada;
 
 IX. Las resoluciones judiciales o de árbitros o arbitradores que produzcan algunos de los efectos mencionados en la fracción I;
 
-X. Los testamentos por efecto de los cuales se deje la propiedad de bienes raíces, o de derechos reales, haciéndose el registro después de la muerte del testador;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 1991)</small>
 
-XI. En los casos de intestado, el auto declaratorio de los herederos legítimos y el nombramiento de albacea definitivo.
+X. Los testamentos por efecto de los cuales se deje la propiedad de bienes raíces, o de derechos reales, haciéndose el registro después de la muerte del testador; bajo el sistema de folio real, la anotación se hará en el folio correspondiente a la propiedad del testador;
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JULIO DE 1991)</small>
+
+XI. En los casos de intestado, el auto declaratorio de los herederos legítimos y el nombramiento de albacea definitivo. En el sistema de folio real, esta anotación se practicará en el folio correspondiente, en donde el autor de la sucesión aparezca como el titular del dominio.
 
 En los casos previstos en las dos fracciones anteriores se tomará razón del acta de defunción del autor de la herencia;
 
@@ -12881,9 +12891,11 @@ En el caso de embargo precautorio, juicio ejecutivo o procedimiento de apremio c
 
 No pueden los bienes raíces o los derechos reales impuestos sobre los mismos aparecer inscritos a la vez en favor de dos o más personas distintas, a menos que éstas sean copartícipes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JULIO DE 1991)</small>
+
 ###### Art. 2505.
 
-Para inscribir o anotar títulos por los que se declaren, transmitan, graven, modifiquen o extingan el dominio y demás derechos reales sobre inmuebles, deberá constar previamente inscrito el derecho de la persona que otorgue o en cuyo nombre se otorguen esos actos.
+Para inscribir o anotar títulos por los que se declaren, transmitan, graven, modifiquen o extingan el dominio y demás derechos reales sobre inmuebles, deberá constar previamente inscrito el derecho de la persona que otorgue o en cuyo nombre se otorguen esos actos. En el caso del folio real se observará esta disposición.
 
 > <small>(REFORMADO, P.O. 6 DE JUNIO DE 1971)</small>
 
@@ -12913,9 +12925,11 @@ III. Los documentos privados que en esta forma fueren válidos con arreglo a la 
 
 IV. Los títulos a que se refieren el párrafo segundo del artículo 1815 y el artículo 2415 de este Código sin que requieran para su registro de la constancia que exige la fracción anterior.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 1991)</small>
+
 ###### Art. 2508.
 
-La primera inscripción de cada inmueble en el Registro Público será de dominio. No obstante lo anterior el titular de cualquier derecho real impuesto sobre un inmueble cuyo dueño no hubiere inscrito su dominio, podrá solicitar la inscripción de su derecho.
+Cuando se utilice el sistema de libros, la primera inscripción de cada inmueble en el Registro Público será de dominio. No obstante lo anterior el titular de cualquier derecho real impuesto sobre un inmueble cuyo dueño no hubiere inscrito su dominio, podrá solicitar la inscripción de su derecho. El folio real podrá abrirse en sustitución de la inscripción principal en la sección de dominio.
 
 ###### Art. 2509.
 
@@ -12957,7 +12971,11 @@ VI. La naturaleza del acto o contrato;
 
 VII. La fecha del título y el funcionario que lo haya autorizado;
 
-VIII. El día y la hora de la presentación del título en el Registro.
+VIII. El día y la hora de la presentación del título en el Registro;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 1991)</small>
+
+IX. En el sistema de folio real las inscripciones se harán en los términos establecidos por el reglamento del Registro Público de la Propiedad.
 
 ###### Art. 2514.
 
@@ -12969,9 +12987,11 @@ El registrador que haga una inscripción sin cumplir con lo dispuesto en el art�
 
 El registro producirá sus efectos desde el día y la hora en que el documento se hubiere presentado en la Oficina Registradora, siempre que el interesado haga entrega a la propia Oficina dentro de los 15 días siguientes a aquella presentación del recibo oficial de pago de los derechos correspondientes al registro del documento de referencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JULIO DE 1991)</small>
+
 ###### Art. 2516.
 
-Una vez que se firme una escritura en que se adquiera, trasmita, modifique, o extinga la propiedad o posesión de bienes raíces o en la que se haga constar un crédito que tenga preferencia desde que sea registrado, el notario que la autorice dará al Registro un aviso en el que conste la finca de que se trate, la indicación de que se ha transmitido o modificado su dominio o se ha constituido, transmitido o modificado o extinguido el derecho real sobre ella, los nombres de los interesados en la operación, la fecha de la escritura y la de su firma e indicación del número, tomo y sección en que se estuviere inscrita la propiedad en el Registro. El registrador, con el aviso del notario y sin cobro de derecho alguno, hará inmediatamente una anotación preventiva al margen de la inscripción de propiedad. Si dentro del mes siguiente a la fecha en que se hubiere firmado la escritura se presentare el testimonio respectivo, su inscripción surtirá efecto contra tercero desde la fecha de la anotación preventiva, la cual se citará en el registro definitivo. Si el testimonio se presenta después, su registro sólo surtirá efectos desde la fecha de la presentación.
+Una vez que se firme una escritura en que se adquiera, trasmita, modifique, o extinga la propiedad o posesión de bienes raíces o en la que se haga constar un crédito que tenga preferencia desde que sea registrado, el notario que la autorice dará al Registro un aviso en el que conste la finca de que se trate, la indicación de que se ha transmitido o modificado su dominio o se ha constituido, transmitido, modificado o extinguido el derecho real sobre ella, los nombres de los interesados en la operación, la fecha de la escritura y la de su firma e indicación del número, tomo y sección en que se estuviere inscrita la propiedad en el Registro, o indicación del número del folio real. El registrador, con el aviso del notario y sin cobro de derecho alguno, hará inmediatamente una anotación preventiva al margen de la inscripción de propiedad, o en el folio real que corresponda. Si dentro del mes siguiente a la fecha en que se hubiere firmado la escritura se presentare el testimonio respectivo, su inscripción surtirá efecto contra tercero desde la fecha de la anotación preventiva, la cual se citará en el registro definitivo. Si el testimonio se presenta después, su registro sólo surtirá efectos desde la fecha de la presentación.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 1985)</small>
 
@@ -12995,9 +13015,11 @@ En los casos de las fracciones I y II del artículo que precede, los interesados
 
 Hecho el registro, serán devueltos los documentos al que los presentó, con nota de quedar registrados en tal fecha y bajo tal número.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 1991)</small>
+
 ###### Art. 2520.
 
-El reglamento especial establecerá los derechos y obligaciones de los Registradores, así como los datos que deben tener y los requisitos que deben llenar las inscripciones.
+El Reglamento especial establecerá los derechos y obligaciones de los Registradores, así como los datos que deben tener y los requisitos que deben llenar las inscripciones o el folio real.
 
 ### Capítulo VI. De la institución de heredero
 
@@ -15648,6 +15670,12 @@ DECRETO NUMERO 39, QUE REFORMA EL ARTICULO 160 DEL CODIGO.
 El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 6 DE OCTUBRE DE 1989.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE JULIO DE 1991.
 
 ###### ARTICULO UNICO.
 
