@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-judicial-del-estado-4118"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1980-12-04"
-last_updated: "1980-12-23"
+last_updated: "1985-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 1985.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el día jueves 4 de diciembre de 1980.
 
@@ -161,9 +161,11 @@ Los juzgados de paz ejercerán jurisdicción en las poblaciones en que tengan su
 
 ### CAPITULO PRIMERO. Del Tribunal Superior
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MAYO DE 1985)</small>
+
 ###### Artículo 13.
 
-El Tribunal Superior de Justicia estará integrado por cinco magistrados numerarios y uno supernumerario, quienes serán designados en la forma y términos que previene el artículo 78 de la Constitución Política del Estado y funcionará en pleno o en salas, según lo determine esta ley.
+El Tribunal Superior de Justicia estará integrado por siete Magistrados numerarios y un supernumerario, quienes serán designados en la forma y términos que previene el Artículo 78 de la Constitución Política del Estado y funcionará en Pleno o en Salas, según lo determine esta ley.
 
 Uno de los magistrados numerarios será presidente del Tribunal.
 
@@ -345,7 +347,7 @@ XVIII.- Someter a la consideración del Tribunal Pleno el informe anual que debe
 
 XIX.- Dar cuenta al Pleno con las denuncias o quejas presentadas en contra de los magistrados, jueces y demás funcionarios del Poder Judicial;
 
-XX.- Visitar los juzgados periódicamente para cerciorarse de la asistencia del personal, de si el despacho de los procesos y juicios es equitativo y oportuno, y dictar todas las providencias económicas que le parezcan convenientes para la buena administración de justicia;
+XX.- Visitar los juzgados periódicamente para cerciorarse de la asistencia del personal, de sí el despacho de los procesos y juicios es equitativo y oportuno, y dictar todas las providencias económicas que le parezcan convenientes para la buena administración de justicia;
 
 XXI.- Desempeñar las demás atribuciones que le confieren las leyes y el reglamento interior del Tribunal Superior de Justicia.
 
@@ -361,9 +363,13 @@ El presidente del Tribunal Superior será suplido en sus faltas accidentales o e
 
 ### CAPITULO CUARTO. De las Salas del Tribunal
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 1985)</small>
+
 ###### Artículo 29.
 
-El Tribunal Superior de Justicia funcionará en dos salas, designadas por número ordinal. Cada sala estará integrada por dos magistrados numerarios y el presidente del Tribunal, quien fungirá como presidente de cada una de ellas.
+El Tribunal Superior de Justicia funcionará en tres Salas, designadas por número ordinal.
+
+Cada Sala estará integrada por dos Magistrados numerarios y el Presidente del Tribunal, quien fungirá como Presidente de cada una de ellas.
 
 ###### Artículo 30.
 
@@ -438,6 +444,32 @@ III.- Calificar las contiendas de acumulación que se susciten en materia penal;
 IV.- Intervenir en los asuntos de amparo que se promuevan en contra de las resoluciones dictadas por la sala; y,
 
 V.- Conocer de los demás asuntos que determinen las leyes.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 1985)</small>
+
+Artículo. 40.- Corresponde a la Segunda Sala:
+
+I.- Conocer de los recursos de apelación y denegada apelación que se interpongan contra las resoluciones dictadas por los Jueces Civiles, Mixtos de Primera Instancia y Menores, en asuntos de orden civil o mercantil;
+
+II.- Calificar las excusas y recusaciones del Secretario de Acuerdos de la Sala;
+
+III.- Intervenir en los asuntos de Amparo que se promuevan en contra de las resoluciones dictadas por la Sala; y
+
+IV.- Conocer de los demás asuntos que determinen las Leyes.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 1985)</small>
+
+###### Artículo 40 Bis-I.
+
+Conocer de los recursos de apelación y denegada apelación que se interpongan contra las resoluciones dictadas por los Jueces Familiares y Mixtos de Primera Instancia, en asuntos del orden familiar; quedando facultada para suplir la deficiencia de los agravios siempre y cuando ello beneficie los intereses de quienes se encuentren afectados de incapacidad natural o legal;
+
+II.- Conocer en segunda instancia de los asuntos en que proceda la revisión de oficio o forzosa;
+
+III.- Calificar las excusas y recusaciones del Secretario de Acuerdos de la Sala;
+
+IV.- Intervenir en los asuntos de Amparo que se promuevan en contra de las resoluciones dictadas por la Sala; y
+
+V.- Conocer de los demás asuntos que determinen las Leyes.
 
 ###### Artículo 40.
 
@@ -1402,3 +1434,13 @@ Dado en el Edificio de los Poderes del Estado, en Campeche, a los veintiocho dí
 P.O. 23 DE DICIEMBRE DE 1980.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.
+
+P.O. 22 DE MAYO DE 1985.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor a los sesenta días después de su publicación, en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los tocas del orden familiar, serán enviados a la Presidencia de la nueva Sala, para la continuación del trámite correspondiente.
