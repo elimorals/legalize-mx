@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-5864"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-02-28"
-last_updated: "2000-09-23"
+last_updated: "2000-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de febrero de 1989.
 
@@ -1343,7 +1343,7 @@ C) Consejo Estatal de Población;
 
 D) Industria Jalisciense de Rehabilitación Social; y
 
-E) Patronato del Tratamiento Post-institucional del Estado de Jalisco.
+E) (DEROGADO, P.O. 17 DE OCTUBRE DE 2000)
 
 > <small>(REFORMADA PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 1992)</small>
 
@@ -1620,3 +1620,11 @@ SÉPTIMO. Todos los recursos materiales, financieros y humanos de la Comisión E
 OCTAVO. La Secretaría de Medio Ambiente para el Desarrollo Sustentable se subroga en todos los derechos y obligaciones que hasta la fecha haya contraído la Comisión Estatal de Ecología.
 
 NOVENO. Todas las funciones que legalmente le han sido atribuidas a la Comisión Estatal de Ecología serán ejercidas, a partir de la entrada en vigor del presente Decreto, por la Secretaría de Medio Ambiente para el Desarrollo Sustentable.
+
+P.O. 17 DE OCTUBRE DE 2000.
+
+PRIMERO. Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente decreto.
+
+SEGUNDO. Comuníquese el presente decreto para su debido cumplimiento a las Entidades Gubernamentales y en su caso, privadas así como a la Contaduría Mayor de Hacienda del Congreso del Estado, para los efectos a que haya lugar.
+
+TERCERO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
