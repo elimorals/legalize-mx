@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-transito-en-carreteras-federales-429"
 country: "mx"
 rank: "reglamento"
 publication_date: "1975-06-10"
-last_updated: "1975-06-10"
+last_updated: "1988-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=429&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1973-10-08"
 
 REGLAMENTO DE TRANSITO EN CARRETERAS FEDERALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE NOVIEMBRE DE 1988.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 10 de junio de 1975.
 
@@ -815,7 +815,13 @@ Procede la revocación de la licencia al conductor de vehículos de servicio pú
 
 8.- Por ser responsable de cualquiera alteración de los datos contenidos en la licencia federal de conductor.
 
-9.- Por incurrir en actos u omisiones graves, contrarias a lo que se dispone en el presente Reglamento, a juicio de la Secretaría de Comunicaciones y Transportes.
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 1988)</small>
+
+9.- Por incurrir en tercera ocasión en la operación o conducción de vehículos sin utilizar el cinturón de seguridad, sin perjuicio de lo dispuesto por el Artículo 200 fracción 7 de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 1988)</small>
+
+10.- Por incurrir en actos u omisiones graves, contrarios a lo que se dispone en el presente Reglamento, a juicio de la Secretaría de Comunicaciones y Transportes.
 
 ###### ARTICULO 54.
 
@@ -831,7 +837,11 @@ Procede la suspensión de la licencia al conductor de vehículos de servicio pú
 
 5.- Cuando se compruebe que ha adquirido un hábito o una enfermedad que le inhabilite temporalmente para conducir vehículos de servicio público federal, hasta que el interesado compruebe su rehabilitación.
 
-6.- Por cualesquiera otra causa justificada, a juicio de la Secretaría de Comunicaciones y Transportes, por el término que la misma determine.
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2003)</small>
+
+6.- Por un período de doce meses, cuando por segunda ocasión se opere o conduzca un vehículo sin utilizar el cinturón de seguridad, sin perjuicio de lo dispuesto en el Artículo 200 fracción 7 de este Reglamento.
+
+7.- Por cualesquiera otra causa justificada, a juicio de la Secretaría de Comunicaciones y Transportes, por el término que la misma determine.
 
 ###### ARTICULO 55.
 
@@ -981,9 +991,13 @@ Queda prohibido a los conductores de vehículos particulares prestar el servicio
 
 ### CAPITULO II. Conducción de vehículos de motor
 
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 1988)</small>
+
 ###### ARTICULO 79.
 
-Para conducir un vehículo de motor es necesario estar en pleno uso de sus facultades físicas y mentales, portar la licencia correspondiente o documento que la supla y que ampare precisamente la operación del vehículo y servicio de que se trate.
+Para conducir un vehículo de motor es necesario estar en pleno uso de sus facultades físicas y mentales, portar la licencia vigente correspondiente o documento que la supla y ampare precisamente la operación del vehículo y servicio de que se trate.
+
+Asimismo, para operar o conducir un vehículo de motor el conductor deberá utilizar el cinturón de seguridad.
 
 ###### ARTICULO 80.
 
@@ -2109,9 +2123,25 @@ Las infracciones a las disposiciones del presente Reglamento se harán constar p
 
 El original y una copia de dichas boletas serán entregados al infractor; el primero suplirá la falta del documento que hubiere sido recogido en garantía, por un término de 50 días, y la copia, como citatorio para que se presente el infractor a la oficina que deba hacer la calificación o para el pago de la multa correspondiente. Otra copia de la boleta deberá ser remitida a la oficina que deba calificarla.
 
-El infractor tendrá derecho a señalar la oficina en cuya jurisdicción deba radicarse la boleta de infracción y dispondrá de 15 días, a partir del momento en que le fue entregada para inconformarse.
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 1988)</small>
 
-Si transcurridos 30 días a partir de la fecha de la infracción, no se hubiere pagado la multa, se consignará a la Oficina Federal de Hacienda correspondiente, para su cobro.
+El infractor tendrá derecho a señalar la Oficina en cuya jurisdicción deba radicarse la boleta de infracción. Si transcurridos 30 días hábiles a partir de la fecha de la infracción no se hubiere cubierto el monto de la multa, se consignará para su cobro a la Tesorería Estatal o del Departamento del Distrito Federal, según corresponda.
+
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 1988)</small>
+
+Las multas podrán ser recurridas por el infractor o por su representante legal debidamente acreditado dentro del término de 15 días hábiles contados a partir del siguiente en que le fue entregada la boleta correspondiente. El escrito de inconformidad deberá dirigirse al Director General de Asuntos Jurídicos o al Director General del Centro S. C. T., en cuya jurisdicción se hubiere radicado la boleta de infracción. El infractor deberá remitir copia de su inconformidad a la Oficina que hubiere elegido para radicar la boleta de infracción.
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 1988)</small>
+
+Con el escrito de inconformidad deberán ofrecerse las pruebas y esgrimirse las defensas que el infractor considere necesarias para basar su dicho, siempre que tengan relación con los hechos en los que el recurrente funde su reclamación. En vista a tales pruebas y defensas o a su falta de presentación, el Director General de Asuntos Jurídicos o el Director General del Centro S. C. T. que corresponda, dentro de los 30 días siguientes a la presentación del recurso dictarán la resolución respectiva.
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 1988)</small>
+
+Las resoluciones dictadas al resolver el recurso se notificarán a los interesados o en su caso, a sus representantes legales en su domicilio o por correo certificado con acuse de recibo.
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 1988)</small>
+
+La interposición del recurso suspenderá la ejecución de la resolución impugnada, por cuanto al pago de multas, siempre que se garantice su importe en los términos del Código Fiscal de la Federación.
 
 ###### ARTICULO 198.
 
@@ -2123,31 +2153,35 @@ La Secretaría de Comunicaciones y Transportes está facultada para celebrar con
 
 ## TITULO VI (SIC). Sanciones
 
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 1988)</small>
+
 ###### ARTICULO 200.
 
-Las infracciones a las disposiciones contenidas en el presente Reglamento, serán sancionadas en la siguiente forma:
+Para la aplicación de las sanciones pecuniarias que resulten aplicables según determina este Artículo, se tomarán como base el salario mínimo general vigente en el Distrito Federal, Area Metropolitana en la fecha en que se cometió la infracción, la gravedad de la misma y la capacidad económica del infractor
 
-1.- Causarán multa por la cantidad de $50.00, las infracciones a los artículos 9, 10, 11, 12, 13, 14, 15; artículo 18 párrafo 3; artículo 21 párrafo 2; artículo 23 fracción 2 incisos b) y c); artículos 28, 38, 51; artículo 66 párrafo 1; artículos 67, 75, 78, 86, 87, 89, 100; artículo 116 fracción 1 inciso a) y fracciones 4, 6 y 7, artículo 117; artículo 129 fracción 1 inciso a) y fracción 3; artículo 134 fracciones 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 16 y 17; artículos 148, 149, 150, 151, 152, 153, 154, 155, 157, 158; artículo 171 fracción 3 inciso a); artículo 174 fracción 1 inciso f) y fracción 2, artículo 175 y 176.
+1.- Causarán multa hasta por 5 días, las infracciones a los artículos 9, 10, 11, 12, 13, 14, 15; artículo 18 párrafo 3; artículo 21 párrafo 2; artículo 23 fracción 2 incisos b) y c); artículos 28, 38, 51, 67, 75, 78, 86, 87, 89, 100; artículo 116 fracción 1 inciso a) y fracciones 4, 6 y 7; artículo 117; artículo 129 fracción 1, inciso a) y fracción 3; artículo 134 fracciones 1, 2, 3, 4, 5, 6, 7, 8, 9, 1O, 11, 12, 13, 16 y 17; artículos 148, 149, 150, 151, 152, 153, 154, 155, 157, 158; artículo 171 fracción 3 inciso a); artículo 174 fracción 1 inciso f) y fracción 2; artículos 175 y 176.
 
-2.- Causarán multa por la cantidad de $100.00, las infracciones a los artículos 7 fracciones 1 y 2; artículos 16 párrafo 1; artículo 17, 24, 26, 27, 29, 30, 31, 33, 34, artículo 41 párrafos 1, 2 y 3; artículos 42, 43, 69, 70, 74, 81, 82, 85, 90, 92, 93, 94, 95, 96, 97, 98, 104, 106, 108, 109, 110, 112, 113, 114; artículos 116 fracción 3 párrafo final y fracción 8; artículo 122; artículo 124 fracciones, 1 y 2; artículo 129, fracción 1 inciso c); artículos 133, 135, 144, 156, 170; artículo 171 fracción 2 inciso a) y fracción 4; artículo 174 fracción 1 inciso e) y fracción 3 inciso b); artículo 178 fracción 2; artículos 179 fracción 2 inciso a), fracción 3 inciso a) y fracción 6.
+2.- Causarán multa hasta por 10 días, las infracciones a los artículos 7, fracciones 1 y 2; artículo 16 párrafo 1; artículos 17, 24, 26, 27, 29, 30, 31, 33, 34; artículo 41 párrafos 1, 2 y 3; artículos 42, 43, 69, 70, 74, 81, 82, 85, 90, 92, 93, 94, 95, 96, 97, 98, 104, 106, 109, 110, 112, 113, 114; artículo 116 fracción 3 párrafo final y fracción 8; artículo 122; artículo 124 fracciones 1 y 2; artículo 129 fracción 1 inciso c); artículos 133, 135, 144, 156, 170; artículo 171 fracción 2 inciso a) y fracción 4; artículo 174 fracción 1 inciso e) y fracción 3 inciso b); artículo 178 fracción 2; artículo 179 fracción 2 inciso a), fracción 3 inciso a) y fracción 6.
 
-3.- Causarán multa por la cantidad de $200.00, las infracciones a los artículos 23 fracción 1 y fracción 2 inciso a); artículos 32, 35, 40, 44, 49, 63; artículo 66 párrafo 2; artículo 71; artículo 72 fracción 1; artículo 73, 91, 99, 101, 102, 107, 111, 115; artículo 116 fracción 5; artículo 119 párrafo 2; artículos 120, 121; artículo 124 fracción 3 párrafo 2 y fracción 4; artículo 127; artículo 129 fracción 1 párrafo 1, inciso b) y fracción 2; artículos 136, 137, 138; artículo 171 fracción 1 inciso a) y fracción 5; artículo 173 fracción 2 incisos a) y b); artículo 174 fracción 1 incisos b) y d); artículo 178 fracción 1; artículo 179 fracción 1 inciso a) y fracción 5; artículo 181 fracción 1; artículo 183 párrafo 2.
+3.- Causarán multa hasta por 20 días, las infracciones a los artículos 23 fracción 1 y fracción 2 inciso a); artículos 32, 35, 40, 44, 49, 63; artículo 66 párrafo 2; artículo 71; artículo 72 fracción 1; artículos 73, 91, 99, 101, 102, 107, 111, 115; artículo 116 fracción 5; artículo 119 párrafo 2; artículos 120, 121; artículo 124 fracción 3 párrafo 2 y fracción 4; artículo 127; artículo 129 fracción 1 párrafo 1, inciso b) y fracción 2; artículos 136, 137, 138; artículo 171 fracción 1 inciso a) y fracción 5; artículo 173 fracción 2 incisos a y b); artículo 174 fracción 1 inciso b) y d); artículo 178 fracción 1; artículo 179 fracción 1 inciso a) y fracción 5; artículo 181 fracción 1; artículo 183 párrafo 2.
 
-4.- Causarán multa por la cantidad de $300.00, las infracciones a los artículos 7 párrafo 2; artículo 8; artículo 16 párrafo 2; artículo 20 párrafo 3; artículo 21 párrafo 1; artículos 25, 45, 76, 79, 80, 103; artículo 116 fracción 1 párrafo 1, incisos c) y d) y fracción 2; artículos 125; 131, 132; artículo 139 fracciones 1, 2, 3, 4 y 5.
+4.- Causarán multa hasta por 30 días, las infracciones a los artículos 7 párrafo 2; artículo 8o; artículo 16 párrafo 2; artículo 20 párrafo 3; artículo 21 párrafo 1; Artículos 25, 45 y 66 párrafo 1; artículo 76; artículo 79 párrafo 1; artículos 80 y 103; artículo 116 fracción 1 párrafo 1 incisos c) y d) y fracción 2; artículos 125, 131, 132; artículo 139 fracciones 1, 2, 3, 4 y 5.
 
-5.- Causarán multa por la cantidad de $500.00, las infracciones a los artículos 47, 58, 61, 62, 83, 105; artículo 119 párrafo 3; artículo 123; artículo 124 fracción 3; artículo 130; artículo 134 fracciones 14, 15 y 18; artículo 139 fracción 6; artículos 140, 141; artículo 183 párrafo 1; artículo 184 párrafos 1 y 2.
+5.- Causarán multa hasta por 50 días, las infracciones a los artículos 47, 58, 61, 62, 83, 105; artículo 119 párrafo 3; artículo 123; artículo 124 fracción 3; artículo 130; artículo 134 fracciones 14, 15 y 18; artículo 139 fracción 6; artículos 140, 141; artículo 183 párrafo 1; artículo 184 párrafos 1 y 2.
 
-6.- Causarán multa por la cantidad de $1.000.00 las infracciones a los artículos 57, 68; artículo 72 fracción 2; artículo 84; artículo 178 párrafos 1 y 2.
+6.- Causarán multa hasta por 100 días, las infracciones a los artículos 68 y 72 fracción 2. Las infracciones a los artículos 54 y 84 serán sancionados por la primera infracción con multa de 20 días y por las siguientes infracciones, la multa será de 40 días de salario mínimo.
 
-7.- Las infracciones a los límites de velocidad a que se refieren los artículos 118 y 119 causarán multa por la cantidad de $10.00 por km/hora de exceso.
+7.- Al que infrinja el artículo 79 párrafo 2, se hará acreedor por la primera, segunda y tercera infracciones a multa de 2, 4 y 6 días respectivamente.
 
-8.- Si como resultado de infracciones a las disposiciones del presente Reglamento, se produjere un accidente de tránsito, dichas infracciones causarán multa por el doble de la cantidad señalada para las violaciones de que se trate.
+8.- Las infracciones a los límites de velocidad a que se refieren los artículos 118 y 119 causarán multa hasta por 10 días.
 
-9.- El infractor a los artículos 79 u 80 que posteriormente acredite contar con los documentos exigidos en los mismos, será sancionado con multa por la cantidad de $150.00 en substitución de la sanción que corresponda a la carencia de los citados documentos. La misma sanción se aplicará al infractor que no acredite estar al corriente en el refrendo de su licencia para conducir.
+9.- Si como resultado de infracciones a las disposiciones del presente Reglamento, se produjere un accidente de tránsito, dichas infracciones causarán multa por el doble de la cantidad señalada para las violaciones de que se trate.
 
-10.- Las infracciones al presente Reglamento cometidas por peatones o pasajeros, serán sancionadas por parte de las autoridades de tránsito con la amonestación correspondiente.
+10.- El infractor a los artículos 79 párrafo 1 u 80 que posteriormente acredite contar con los documentos exigidos en los mismos, será sancionado con multa hasta por 15 días en substitución de la sanción que corresponda a la carencia de los citados documentos. La misma sanción se aplicará al infractor que no acredite estar al corriente en el refrendo de su licencia para conducir.
 
-11.- Cualquiera otra infracción a las disposiciones del presente Reglamento que no esté expresamente prevista en este Título, será sancionada con multa hasta por la cantidad de $500.00, a juicio de la Secretaría de Comunicaciones y Transportes.
+11.- Las infracciones al presente Reglamento cometidas por peatones o pasajeros, serán sancionadas por parte de las autoridades de tránsito con la amonestación correspondiente.
+
+12.- Cualquiera otra infracción a las disposiciones del presente Reglamento que no esté expresamente prevista en este Título, será sancionada con multa hasta por 50 días a juicio de la Secretaría de Comunicaciones y Transportes.
 
 ###### ARTICULO 201.
 
@@ -2188,3 +2222,11 @@ Los conductores de vehículos de servicio público federal de autotransporte, de
 El presente Reglamento entrará en vigor 30 días después de su publicación en el "Diario Oficial" de la Federación.
 
 Dado en la residencia del Poder Ejecutivo Federal a los ocho días del mes de octubre de mil novecientos setenta y tres.- El Presidente de la República, Luis Echeverría Alvarez.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Eugenio Méndez.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José López Portillo.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LAS REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 7 DE NOVIEMBRE DE 1988.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
