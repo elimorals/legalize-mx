@@ -4,7 +4,7 @@ identifier: "OAX-ley-contra-los-vicios-del-alcoholismo-y-de-las-drogas-18504"
 country: "mx"
 rank: "ley"
 publication_date: "1922-07-06"
-last_updated: "1941-08-23"
+last_updated: "1945-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY CONTRA LOS VICIOS DEL ALCOHOLISMO Y DE LAS DROGAS HEROICAS
 
 > <small>[N. DE E. EL TEXTO DE LA PRESENTE LEY ES LA MODIFICACIÓN DE LA SEGUNDA PARTE, CORRESPONDIENTE DEL ARTÍCULO 43 AL 58, PUBLICADA EN EL P.O. DE 23 DE AGOSTO DE 1941.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 1941.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 1945.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el jueves 6 de julio de 1922.
 
@@ -75,11 +75,11 @@ Los expendios de bebidas alcohólicas se clasifican, por razón de la forma en q
 
 Se designan con el carácter de expendios al menudeo aquellos en los que se hace la venta en copas, vasos, vasijas o en cualquier otro recipiente abierto, si la libación se hace allí mismo. Y por expendios al mayoreo aquellos en que la venta se hace en recipientes cerrados o abiertos sin que la libación se haga en el lugar de la venta a menos de que se trate de cerveza.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 1941)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1945)</small>
 
 ###### Artículo 6o.
 
-En los expendios al menudeo de bebidas alcohólicas, sean naturales o producidas por procedimientos físico-químicos, la venta de ellas se hará solamente de las 11 a las 15 y de las 18 a las 23 todos los días. En los expendios al mayoreo de bebidas alcohólicas, la venta se hará a las horas acostumbradas por el comercio en general.
+En los expendios al menudeo de bebidas alcohólicas, sean naturales o producidas por procedimientos físico-químicos, la venta de ellas se podrá hacer solamente de las 11 a las 15 horas y de las 18 a las 23 diariamente, con excepción de los domingos. En los expendios al mayoreo de bebidas alcohólicas, la venta se hará a las horas acostumbradas por el comercio en general.
 
 > <small>(REFORMADO, P.O. 16 DE AGOSTO DE 1941)</small>
 
@@ -87,23 +87,13 @@ En los expendios al menudeo de bebidas alcohólicas, sean naturales o producidas
 
 La autoridad municipal, previo acuerdo del Ejecutivo, podrá conceder licencias para vender a horas distintas de las indicadas, en casos extraordinarios; pero nunca se concederán a horas de trabajo. En este caso, el concesionario pagará por cada hora extraordinaria el duplo de lo que a igual tiempo corresponda del impuesto mensual.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 1941)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1945)</small>
 
 ###### Artículo 8o.
 
-La venta de bebidas alcohólicas se efectuará durante los días del lunes a sábado de cada semana.
+Queda absolutamente prohibida la venta de bebidas embriagantes, en el territorio del Estado, durante los días domingos.
 
-Los expendedores que deseen vender los domingos bebidas embriagantes al menudeo en sus establecimientos, solicitarán para ello permiso del Ejecutivo, quien podrá otorgarlo en los casos que lo estime conveniente; pero los interesados pagarán al Fisco del Estado una cuota especial, con sujeción a la siguiente
-
-T A R I F A :
-
-Establecimientos de 1a. clase, por cada domingo, de $ 50.00 a $ 100.00;
-
-Establecimientos de segunda clase, por cada domingo, de $ 25.00 a $ 50.00; y
-
-Establecimientos de tercera clase, por cada domingo, de $ 5.00 a $ 20.00.
-
-Queda absolutamente prohibida la venta al menudeo de bebidas alcohólicas en los días en que hayan de efectuarse elecciones o plebiscitos.
+Igual prohibición se establece respecto de los días en que hayan de efectuarse elecciones o plebiscitos.
 
 > <small>(REFORMADO, P.O. 16 DE AGOSTO DE 1941)</small>
 
@@ -558,3 +548,9 @@ Los Presidentes Municipales en cuya jurisdicción se cultive Marihuana, proceder
 ###### Artículo 4o.
 
 Los propietarios de tabernas ya establecidas conforme a las disposiciones anteriores a ésta ley, presentarán la manifestación de que trata el artículo 25 dentro de los diez días siguientes a la promulgación de la propia ley y sin necesidad de nueva licencia municipal; pero cumplirán con lo dispuesto en el artículo 27, poniendo en lugar visible la licencia que obre en su poder.
+
+P.O. 20 DE OCTUBRE DE 1945.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NO. 76.- SE DEROGAN (SIC) LOS ARTÍCULOS 6O. Y 8O. DE LA LEY CONTRA LOS VICIOS DEL ALCOHOLISMO”.]
+
+UNICO.- La presente reforma entrará en vigor desde la fecha de su publicación en el Periódico Oficial del Estado.
