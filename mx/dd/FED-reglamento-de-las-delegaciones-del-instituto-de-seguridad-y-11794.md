@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-las-delegaciones-del-instituto-de-seguridad-y-117
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-10-01"
-last_updated: "1999-09-27"
+last_updated: "2001-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11794&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1997-09-18"
 
 REGLAMENTO DE LAS DELEGACIONES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE SEPTIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE MAYO DE 2001.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 1 de octubre de 1997.
 
@@ -663,47 +663,59 @@ La Comisión de Administración y Programación se integrará por el Delegado, q
 
 #### SECCION TERCERA. COMITE DESCONCENTRADO DE ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS Y OBRA PUBLICA
 
+> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 37.
 
-En cada Delegación, funcionará un Comité Desconcentrado de Adquisiciones, Arrendamientos, Servicios y Obra Pública, que tendrá las atribuciones siguientes:
+En cada delegación funcionará un Comité Desconcentrado de Adquisiciones, Arrendamientos, Servicios y Obra Pública, que tendrá las funciones siguientes:
 
-I.- Dictaminar, antes del inicio del procedimiento respectivo, sobre la procedencia de celebrar licitaciones públicas, así como los casos en que no se celebren, por encontrarse en alguno de los supuestos de excepción previstos en la Ley de Adquisiciones;
+I.- Revisar los proyectos de los programas y presupuestos desconcentrados de las adquisiciones, arrendamientos, servicios y de la obra pública, así como formular las observaciones y recomendaciones convenientes.
 
-II.- Autorizar, en los procedimientos de licitación pública, la reducción de plazos para la presentación y apertura de proposiciones, cuando medien razones de urgencia justificada y siempre que ello no tenga por objeto limitar el número de participantes;
+II.- Dictaminar, antes del inicio del procedimiento respectivo, sobre la procedencia de no celebrar licitaciones públicas, por encontrarse en alguno de los supuestos de excepción previstos en el artículo 42 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas; así como en el artículo 41 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, salvo en los casos de las fracciones II, V y XII del propio precepto legal, en cuyo caso se deberá informar al Comité una vez concluida la contratación respectiva.
 
-III.- Nombrar al servidor o servidores públicos de la Delegación, encargados de recibir las ofertas, muestras, garantías y poderes, registrar a los asistentes en los actos de apertura de ofertas, así como a los que presidirán estos actos y el correspondiente al fallo;
+III.- Autorizar, en casos de excepción, en los procedimientos de licitación pública, la reducción de plazos a no menos de diez días naturales, que deben transcurrir entre la fecha de publicación de la convocatoria y el acto de presentación y apertura de proposiciones, cuando medien razones justificadas del área solicitante de los bienes, servicios u obras públicas, y siempre que ello no tenga por objeto limitar el número de participantes.
 
-IV.- Revisar los proyectos de los programas y presupuestos desconcentrados de adquisiciones, arrendamientos, servicios y obra pública, así como formular las observaciones y recomendaciones convenientes, para su integración a los programas institucionales;
+IV.- Evaluar trimestralmente el avance del ejercicio del Programa Anual de Obras y del Programa Anual de Operación y Conservación de la Delegación, así como emitir las recomendaciones procedentes.
 
-V.- Difundir los programas autorizados en materia de adquisiciones, arrendamientos, servicios y obra pública entre las cámaras de proveedores de la Delegación;
+V.- Analizar y emitir opinión, cuando lo soliciten el Delegado, las unidades administrativas centrales o alguna otra instancia competente, sobre los dictámenes y fallos relacionados con la materia, expedidos por el servidor público responsable de ello.
 
-VI.- Evaluar el avance del ejercicio del programa anual de obras de la Delegación y emitir las recomendaciones procedentes;
+VI.- Proponer modificaciones a las políticas, bases y lineamientos en materia de adquisiciones, arrendamientos de bienes muebles y prestación de servicios de cualquier naturaleza, excepto los relacionados con obra pública, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, así como a las políticas, bases y lineamientos institucionales en materia de obra pública, sometiéndolas a la consideración del Comité de Adquisiciones, Arrendamientos y Servicios del Instituto o del Comité Interno de Obra Pública, según corresponda.
 
-VII.- Dictaminar los convenios adicionales y modificatorios de contratos de obras y de servicios relacionados con las mismas, conforme a lo dispuesto por el artículo 70 de la Ley de Adquisiciones;
+VII.- Analizar trimestralmente los informes que presente el Subdelegado de Administración, sobre el avance y/o conclusión de las adquisiciones, arrendamientos, servicios y obra pública dictaminados conforme a la fracción II anterior, así como de las licitaciones públicas que se realicen y, en su caso, recomendar las medidas necesarias para evitar el probable incumplimiento de alguna disposición jurídica o administrativa, y verificar que el Subdelegado de Administración reporte por escrito y sistemáticamente al área central de su competencia, cualquier variación de los servicios autorizados por excepción de licitación pública.
 
-VIII.- Analizar y emitir opinión, cuando lo soliciten el Delegado, las Unidades Administrativas Centrales o alguna otra instancia competente, sobre los dictámenes y fallos relacionados con la materia, expedidos por el servidor público responsable de ello;
+VIII.- Constituir el Subcomité encargado de la revisión de bases de licitación.
 
-IX.- Proponer a las Unidades Administrativas Centrales, modificaciones a las políticas, bases y lineamientos en materia de adquisiciones, arrendamientos, servicios y de obra pública;
+IX.- Rendir el informe trimestral del seguimiento de los acuerdos del Comité Desconcentrado de Adquisiciones, Arrendamientos, Servicios y Obra Pública al Comité de Adquisiciones, Arrendamientos y Servicios del Instituto o al Comité Interno de Obra Pública, en sus respectivas materias, remitiendo copias de las actas de las sesiones celebradas en ese periodo, dentro de la primera quincena de los meses de enero, abril, julio y octubre de cada año.
 
-X.- Analizar mensualmente los informes que presente el Subdelegado de Administración, sobre el avance de las adquisiciones, arrendamientos, servicios y obra pública delegacionales, autorizados a celebrarse por excepción a la licitación pública;
+X.- Aprobar el programa de arrendamiento y aseguramiento de bienes muebles patrimoniales de la Delegación y verificar que las pólizas de seguros se contraten de acuerdo a la disponibilidad de recursos.
 
-XI.- Solicitar a la Junta Directiva el establecimiento de subcomités delegacionales, como Organos de apoyo de este Organo Colegiado, cuando así se justifique por el número de licitaciones a realizar por la Delegación, y
+XI.- Proponer al Comité de Adquisiciones, Arrendamientos y Servicios del Instituto o al Comité Interno de Obra Pública, el establecimiento de Subcomités, cuando se justifique, determinando su integración y funciones específicas, así como la forma y términos en que deberán informar al Comité Desconcentrado de cada caso que dictaminen.
 
-XII.- Rendir un informe mensual de sus actividades a los Comités Institucionales de Adquisiciones, Arrendamientos y Servicios, e Interno de Obra Pública, en sus respectivas materias.
+XII.- Someter a la consideración de la Junta Directiva del Instituto, una vez aceptada la propuesta del establecimiento de Subcomités por parte del Comité de Adquisiciones, Arrendamientos y Servicios del Instituto o el Comité Interno de Obra Pública, a efecto de recabar la autorización correspondiente.
+
+XIII.- Coadyuvar al cumplimiento de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, y demás disposiciones aplicables.
 
 ###### ARTICULO 38.
 
 El Comité Desconcentrado de Adquisiciones, Arrendamientos, Servicios y Obra Pública estará integrado de acuerdo a los lineamientos siguientes:
 
-I.- Será presidido por el Delegado y, en su ausencia, por el Subdelegado de Administración;
+> <small>(REFORMADA, D.O.F. 29 DE MAYO DE 2001)</small>
 
-II.- Fungirá como Secretario Ejecutivo el servidor público de la Subdelegación de Administración que designe el Delegado;
+I.- Será presidido por el Delegado;
 
-III.- Los Subdelegados y un representante de la Coordinación General participarán en calidad de vocales;
+> <small>(REFORMADA, D.O.F. 29 DE MAYO DE 2001)</small>
+
+II.- Fungirá como Secretario Ejecutivo el Subdelegado de Administración;
+
+> <small>(REFORMADA, D.O.F. 29 DE MAYO DE 2001)</small>
+
+III.- Los Subdelegados Médico y de Prestaciones, el representante de la Coordinación General de Delegaciones, el Jefe del Departamento de Adquisiciones, el Jefe del Departamento de Obras y Mantenimiento, el Jefe del Departamento de Servicios Generales, el Jefe del Departamento de Finanzas, el Jefe del Departamento de Recursos Humanos y el Jefe de la Unidad de Atención al Derechohabiente; participarán en calidad de vocales;
 
 IV.- Los Jefes de la Unidad Jurídica y de la Unidad de Auditoría Interna participarán en calidad de asesores, con derecho a voz pero no a voto, y
 
-V.- Se invitará a servidores públicos de las Unidades Administrativas y Centros de Trabajo Delegacionales que soliciten las adquisiciones, arrendamientos, servicios u obras públicas materia de la sesión correspondiente de este Organo Colegiado.
+> <small>(REFORMADA, D.O.F. 29 DE MAYO DE 2001)</small>
+
+V.- Se invitará al representante del área que se encuentre involucrada en procesos de adquisición que se vayan a tratar por el Comité Desconcentrado de Adquisiciones, Arrendamientos, Servicios y Obra Pública de las Delegaciones Estatales y Regionales y/o del representante del área que se estime necesaria su asistencia.
 
 #### SECCION CUARTA. COMISION DICTAMINADORA DELEGACIONAL DE SOLICITUDES DE REEMBOLSO
 
@@ -868,3 +880,7 @@ Primero.- Publíquese en el Diario Oficial de la Federación el presente Acuerdo
 Segundo.- Estas Reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y, en su oportunidad, inscríbanse en el Registro Público de Organismos Descentralizados.
 
 Tercero.- Ajústese el Manual de Organización y Procedimientos de las Delegaciones de conformidad con las presentes Reformas.
+
+D.O.F. 29 DE MAYO DE 2001.
+
+UNICO.- Las reformas, adiciones y derogaciones a que se contrae el presente Acuerdo entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
