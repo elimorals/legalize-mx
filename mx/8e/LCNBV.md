@@ -4,7 +4,7 @@ identifier: "LCNBV"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-28"
-last_updated: "1995-04-28"
+last_updated: "1998-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2560&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCNBV"
 
 LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación el viernes 28 de abril de 1995.
 
@@ -254,7 +254,9 @@ El Presidente es la máxima autoridad administrativa de la Comisión y será des
 
 El nombramiento del Presidente de la Comisión deberá recaer en persona que reúna los siguientes requisitos:
 
-I.- Ser ciudadano mexicano;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
+
+I.- Ser ciudadano mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce de sus derechos civiles y políticos;
 
 II.- Haber ocupado, por lo menos durante cinco años, cargos de alto nivel en el sistema financiero mexicano o en las dependencias, organismos o instituciones que ejerzan funciones de autoridad en materia financiera;
 
@@ -266,7 +268,9 @@ IV.- No tener litigio pendiente con la Comisión, y
 
 V.- No haber sido condenado por sentencia irrevocable por delito intencional que le imponga más de un año de prisión, y si se tratare de delito patrimonial, cometido intencionalmente, cualquiera que haya sido la pena, ni inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público o en el sistema financiero mexicano.
 
-A los Vicepresidentes, Contralor Interno y Directores Generales les será aplicable lo establecido en las fracciones I y III a V de este artículo.
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1998)</small>
+
+A los miembros de la Junta de Gobierno, Vicepresidentes, Contralor Interno y Directores Generales les será aplicable lo establecido en las fracciones I, y III a V de este artículo.
 
 ###### Artículo 16.
 
@@ -371,3 +375,11 @@ DECIMOPRIMERO.- Cualquier procedimiento en trámite ante la Comisión Nacional B
 México, D.F., 24 de abril de 1995.- Dip. Sofía Valencia Abundis, Presidenta.- Sen. Martha Lara Alatorre, Presidenta.- Dip. José Antonio Hernández Fraguas, Secretario.- Sen. Antonio Manríquez Guluarti, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de abril de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Esteban Moctezuma Barragán.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 23 DE ENERO DE 1998.
+
+## TRANSITORIO
+
+UNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
