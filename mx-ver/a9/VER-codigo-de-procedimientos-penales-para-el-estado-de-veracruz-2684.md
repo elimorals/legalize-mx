@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-de-veracruz-268
 country: "mx"
 rank: "codigo"
 publication_date: "1948-02-12"
-last_updated: "1948-02-12"
+last_updated: "1966-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE JULIO DE 1966.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave el jueves 12, sábado 14, martes 17, jueves 19, sábado 21, martes 24, jueves 26 y sábado 28 de febrero; martes 2, jueves 4, sábado 6, martes 9, jueves 11, sábado 13 y martes 16 de marzo de 1948.
 
@@ -1843,9 +1843,11 @@ V.- La naturaleza de la garantía que se ofrezca.
 
 La naturaleza de la caución quedará a elección del inculpado, quien al solicitar la libertad, manifestará la forma que elige para los efectos de la fracción V del artículo anterior. En caso de que el inculpado, su representante o su defensor, no hagan la manifestación mencionada, el tribunal de acuerdo con el artículo que antecede, fijará las cantidades que correspondan a cada una de las formas de la caución.
 
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 1966)</small>
+
 ###### ARTICULO 329.
 
-La caución consistente en depósito en efectivo, se hará por el inculpado o por terceras personas en la oficina o sucursal del Banco de México, que hubiere en el lugar, o en la Institución de Crédito autorizada para ello, o a falta de una u otra en alguna casa de comercio de reconocida solvencia. El certificado correspondiente se depositará en la caja de valores del tribunal, asentándose constancia de ello en autos. Cuando por razón de la hora o por ser día feriado no pueda constituirse el depósito directamente en las instituciones mencionadas, el tribunal recibirá la cantidad exhibida y la mandará depositar en aquéllas el primer día hábil.
+La caución consistente en depósito en efectivo, se hará por el inculpado o por terceras personas en una Institución Bancaria a través de la Tesorería General del Estado. El certificado de deposito correspondiente, se guardará en la caja de valores del Tribunal, asentándose constancia de ello en autos. Cuando por razón de la hora o por ser día feriado, no pueda constituirse el depósito directamente en las Oficinas Hacendarias, el Tribunal recibirá la cantidad en efectivo, y la mandará depositar en aquéllas el primer día hábil.
 
 ###### ARTICULO 330.
 
@@ -2532,3 +2534,9 @@ Dado en el Salón de Sesiones de la H. Legislatura, en la ciudad de Jalapa-Enrí
 De conformidad con lo dispuesto por la fracción I del artículo 87 de la Constitución Política del Estado, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Jalapa-Enríquez, a 22 de diciembre de 1947.- El Gobernador Constitucional del Estado, ADOLFO RUIZ CORTINES.- El Secretario de Gobierno, Lic. ANGEL CARVAJAL.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+G.O. 19 DE JULIO DE 1966.
+
+La presente Ley surtirá sus efectos legales, tres días después de su publicación en la "Gaceta Oficial" del Estado.
