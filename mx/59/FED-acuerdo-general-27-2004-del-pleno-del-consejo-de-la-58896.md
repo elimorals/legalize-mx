@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-27-2004-del-pleno-del-consejo-de-la-58896"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2004-05-17"
-last_updated: "2004-05-17"
+last_updated: "2004-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58896&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-04-21"
 
 ACUERDO GENERAL 27/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REGULA LA PARTICIPACION DE LOS JUECES DE DISTRITO Y MAGISTRADOS DE CIRCUITO EN LAS ACTIVIDADES DOCENTES DEL INSTITUTO DE LA JUDICATURA FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACION Y SU GACETA: TOMO XIX, MAYO DE 2004, PAGINA 1885.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 17 de mayo de 2004.
 
@@ -77,6 +77,8 @@ VI. Preparar el material didáctico que se indique en el programa de la asignatu
 
 El director general del instituto y en su caso, los coordinadores de las extensiones, no incluirán en la lista a que se refiere el artículo 1o. a los docentes que durante el año lectivo de que se trate, hayan incumplido cualquiera de las obligaciones establecidas en el artículo 2o.
 
+> <small>(REFORMADO PRIMER PARRAFO POR MODIFICACION DEL ACUERDO GENERAL 27/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, S.J.F.G., TOMO XIX, MAYO DE 2004, PAGINA 1885)</small>
+
 ###### Artículo 4o.
 
 Los Jueces de Distrito y los presidentes de los Tribunales Colegiados de Circuito, deberán remitir mensualmente en copia fotostática legible, el expediente relativo a un juicio totalmente concluido que obre en sus archivos. Dicho expediente se deberá ajustar a las características que previamente fije el director general del instituto en coordinación con el comité académico, a efecto de que se prepare el material didáctico necesario para los cursos y exámenes que deben llevarse a cabo en el propio instituto.
@@ -104,3 +106,9 @@ TERCERO.-Se deroga cualquier disposición emitida por este Consejo de la Judicat
 CUARTO.-Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 27/2004, del Pleno del Consejo de la Judicatura Federal, por el que se regula la participación de los Jueces de Distrito y Magistrados de Circuito en las actividades docentes del Instituto de la Judicatura Federal, fue aprobado por el Pleno del propio consejo, en sesión de veintiuno de abril de dos mil cuatro, por unanimidad de votos de los señores consejeros: presidente Ministro Mariano Azuela Güitrón, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Díaz de León D'Hers, Jaime Manuel Marroquín Zaleta, Miguel A. Quirós Pérez y Sergio A. Valls Hernández.-México, Distrito Federal, a veintiuno de abril de dos mil cuatro.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+S.J.F.G., TOMO XIX, MAYO DE 2004, PAGINA 1885.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL VIGENTE.
