@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ganaderia-en-el-estado-de-michoacan-6419"
 country: "mx"
 rank: "ley"
 publication_date: "1954-12-30"
-last_updated: "1957-01-21"
+last_updated: "1973-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6419&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE GANADERIA EN (SIC) ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 1957.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 1973.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Michoacán, el 30 de diciembre de 1954.
 
@@ -85,7 +85,7 @@ II.- Dictar las disposiciones que estime prudentes, a fin de evitar la salida de
 
 III.- Servir de intermediaria entre los propietarios de ganados que lo soliciten y las Instituciones de Crédito Ganadero o las Autoridades correspondientes, para obtener refacciones; ayudar en las gestiones relacionadas con ganadería que promovieren en otras oficinas gubernamentales.
 
-IV.- Llevar los libros de estadística que sean necesarios para conocer el progreso o decadencia de la industria ganadera y por consiguiente basar en éstos las medidas que al efecto se dicten.
+IV.- Llevar los libros de estadística que sean necesarios para conocer el progreso o decadencia de la industria ganadera y por consiguiente basar en estos las medidas que al efecto se dicten.
 
 V.- Estar en comunicación con la Sub Secretaría de Ganadería de la Secretaría de Agricultura y Ganadería a fin de aprovechar las enseñanzas que dicha dependencia imparta y difundirlas en todo el Estado en forma que estime más eficaz.
 
@@ -321,7 +321,7 @@ La propiedad de los ganados se transferirá por los medios que establece el dere
 
 La propiedad de las pieles se justificará:
 
-a).- Tratándose de animales pertenecientes a criaderos ubicados en la municipalidad, con documentos en que figuren los fierros, señales y marcas;
+a).- Tratándose de animales pertenecientes a criaderos ubicados en la Municipalidad, con documentos en que figuren los fierros, señales y marcas;
 
 b).- Las introducidas de otros Municipios del Estado, con la documentación legal visada por el Inspector de Ganadería de la municipalidad de su origen;
 
@@ -415,7 +415,7 @@ Las Presidencias Municipales no registrarán ninguna marca de herrar, diseño o 
 
 Los animales que se encuentran trasherrados y el fierro modificado o encimado, serán recogidos por las Presidencias Municipales, los Jefes de Tenencia, Encargados del Orden o Asociación Ganadera Local, y consignados a la autoridad competente para que se averigue el móvil de ese hecho, y en su caso, se castiguen las personas responsables.
 
-Los gastos que origine el cuidado y manutención de estos animales, serán cobrados a los ayuntamientos, Jefes de Tenencia a Encargados del Orden a reserva de que sean reintegrados por él o los que resulten responsables, o deducidos del dinero producto del remate, según la resolución que se dicte.
+Los gastos que origine el cuidado y manutención de estos animales, serán cobrados a los Ayuntamientos, Jefes de Tenencia a Encargados del Orden a reserva de que sean reintegrados por el o los que resulten responsables, o deducidos del dinero producto del remate, según la resolución que se dicte.
 
 ###### ARTICULO 53.
 
@@ -481,7 +481,7 @@ En los poblados donde no sea necesario un rastro, debido al poco consumo de carn
 
 ###### ARTICULO 66.
 
-Para ser Administrador o Encargado de un rastro, es necesario que se reúnan los mismos requisitos que para ser inspector de Ganadería.
+Para ser Administrador o Encargado de un rastro, es necesario que se reúnan los mismos requisitos que para ser Inspector de Ganadería.
 
 ###### ARTICULO 67.
 
@@ -523,25 +523,35 @@ Todo el que sacrifique ganado sin justificar su legal adquisición, será consid
 
 ### CAPITULO XI.. DE LA MOVILIZACION DE GANADO
 
+> <small>(REFORMADO, P.O. 01 DE NOVIEMBRE DE 1973)</small>
+
 ###### ARTICULO 75.
 
-Toda conducción de ganado deberá ampararse con un documento que se denominará "GUIA DE TRANSITO". La expedirá el Inspector de Ganadería de la zona de procedencia, previo reconocimiento del ganado y contendrá los datos siguientes: nombre del propietario remitente, rancho o lugar de procedencia, nombre del conductor, nombre del destinatario y lugar de destino, número de cabezas, especie, clase, sexo, marcas, número de los títulos de éstas; y la conformidad expresa del propietario, para su traslado. La guía será dirigida al Inspector de Ganadera de destino, ya sea que el ganado se remita para ser sacrificado o para cualquier otro fin. La "GUIA DE TRANSITO" llevará siempre el "visto bueno" de la Asociación Ganadera Local del lugar de origen.
+Toda conducción de ganado deberá ampararse con un documento que se denominará "GUIA DE TRANSITO". La expedirá la asociación ganadera local, previo reconocimiento del ganado y contendrá los dato siguientes: nombre del propietario remitente, rancho o lugar de procedencia, nombre del conductor, nombre del destinatario y lugar de destino, número de cabezas, especie, clase, sexo, marcas, número de los títulos de éstas; y la conformidad expresa del propietario para su traslado. La guía será dirigida al presidente de la asociación ganadera del lugar de destino, ya sea que el ganado se remita para ser sacrificado o para cualquier otro fin. La "GUIA DE TRANSITO" llevará siempre el "visto bueno" del inspector de ganadería de la zona de procedencia.
+
+> <small>(REFORMADO, P.O. 01 DE NOVIEMBRE DE 1973)</small>
 
 ###### ARTICULO 76.
 
-Las guías estarán numeradas progresivamente y las proporcionará la Dirección de Agricultura y Ganadería a las Inspectores del ramo, anotando en su registro especial la cantidad y números de las formas que se entreguen a cada uno.
+Las guías estarán numeradas progresivamente y las proporcionará la Dirección de Agricultura y Ganadería a las asociaciones ganaderas locales, anotando en su registro especial la cantidad y números de las formas que se entreguen a cada uno.
+
+> <small>(REFORMADO, P.O. 01 DE NOVIEMBRE DE 1973)</small>
 
 ###### ARTICULO 77.
 
-En los casos en que por circunstancias de fuerza mayor las guías de tránsito no puedan ser extendidas por el Inspector de Ganadera del Municipio correspondiente, lo podrá hacer el Presidente Municipal, conteniendo los mismos requisitos de la forma autorizada. La Autoridad expedidora reservará un tanto para el Inspector que debiera extenderla.
+En los casos en que por circunstancias de fuerza mayor las guías de tránsito no puedan ser extendidas por la asociación ganadera correspondiente, lo podrá hacer el presidente municipal, conteniendo los mismos requisitos de la forma autorizada. La autoridad expedidora reservará un tanto para la asociación que debiera extenderla.
+
+> <small>(REFORMADO, P.O. 01 DE NOVIEMBRE DE 1973)</small>
 
 ###### ARTICULO 78.
 
-Las guías de tránsito se expedirán por cuadruplicado cuando se hagan por los inspectores de ganadería o por quintuplicado cuando las extiendan las autoridades políticas en defecto de aquellas, reservándose en este caso el quintuplicado para los efectos de lo prevenido en el artículo anterior. El original y el duplicado los llevará consigo el conductor de la partida al Inspector de Ganadería de la zona de destino; el triplicado se enviará a la Dirección de Agricultura y Ganadería, y el cuadruplicado quedará para el archivo del Inspector o autoridad que las haya expedido.
+Las guías de tránsito se expedirán por cuadruplicado cuando se hagan por las asociaciones ganaderas o por quintuplicado cuando las extiendan las autoridades políticas en defecto de aquellas reservándose en este caso el quintuplicado para los efectos de lo prevenido en el artículo anterior. El original y el duplicado los llevará consigo el conductor de la partida al presidente de la asociación ganadera del lugar de destino; el triplicado se enviará a la Dirección de Agricultura y Ganadería, y el cuadruplicado quedará para el archivo de la asociación ganadera local o autoridad que las haya expedido.
+
+> <small>(REFORMADO, P.O. 01 DE NOVIEMBRE DE 1973)</small>
 
 ###### ARTICULO 79.
 
-Llegada una partida al lugar de su destino y practicado que sea el reconocimiento de la misma, el Inspector de Ganadera cancelará el original y el duplicado de la guía de tránsito y remitirá el primero a la Dirección de Agricultura y Ganadería, devolviendo el segundo al interesado. En caso de que hubiere irregularidades, hará el reporte consiguiente a la Dirección de Agricultura y Ganadería, para que ésta ordene las investigaciones conducentes.
+Llegada una partida al lugar de su destino y practicado que sea el reconocimiento de la misma, el presidente de la asociación ganadera local cancelrá (sic) el original y el duplicado de la guía de tránsito y remitirá el primero a la Dirección de Agricultura y Ganadería, devolviendo el segundo al interesado. En caso de que hubiere irregularidades hará el reporte consiguiente a la Dirección de Agricultura y Ganadería, par (sic) que ésta ordene las investigaciones conducentes.
 
 ###### ARTICULO 80.
 
@@ -763,7 +773,7 @@ Se declara de interés público y por lo tanto obligatorio, la prevención y com
 
 ###### ARTICULO 119.
 
-Se declara obligatorio para todos los habitantes del Estado, la denuncia de la aparición o existencia de cualquier enfermedad que ataque a las especies animales. La denuncia se hará al Inspector de Ganadería más próximo, a la Autoridad Municipal y a la Asociación Ganadera Respectiva.
+Se declara obligatorio para todos los habitantes del Estado, la denuncia de la aparición o existencia de cualquier enfermedad que ataque a las especies animales. La denuncia se hará al inspector de Ganadería más próximo, a la Autoridad Municipal y a la Asociación Ganadera Respectiva.
 
 ###### ARTICULO 120.
 
@@ -865,7 +875,7 @@ El ganado que pase de la zona libre a la zona infestada, no podrá regresar sin 
 
 ###### ARTICULO 139.
 
-Los Presidentes Municipales, los Inspectores de Ganadería y las uniones y Asociaciones Ganaderas están obligados a exigir la constancia de baño en todo el trayecto de tránsito del ganado y en caso de no ser presentada, se dará parte inmediatamente al Gobierno del Estado.
+Los Presidentes Municipales, los Inspectores de Ganadería y las Uniones y Asociaciones Ganaderas están obligados a exigir la constancia de baño en todo el trayecto de tránsito del ganado y en caso de no ser presentada, se dará parte inmediatamente al Gobierno del Estado.
 
 ###### ARTICULO 140.
 
@@ -958,3 +968,7 @@ P.O. 21 DE ENERO DE 1957.
 ###### ARTICULO UNICO.
 
 Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial.
+
+P.O. 01 DE NOVIEMBRE DE 1973
+
+UNICO.- Las presentes reformas entrarán en vigor tres días después de su publicación en el Periódico Oficial del Estado.
