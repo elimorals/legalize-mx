@@ -4,7 +4,7 @@ identifier: "RGIC"
 country: "mx"
 rank: "reglamento"
 publication_date: "1934-03-20"
-last_updated: "1975-12-11"
+last_updated: "1981-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=586&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "RGIC"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE DICIEMBRE DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE NOVIEMBRE DE 1981.
 
 Reglamento publicado en el Diario Oficial de la Federación el martes 20 de marzo de 1934.
 
@@ -435,6 +435,10 @@ En los casos de urgencia u obvia resolución, calificados por el voto de las dos
 ###### ARTICULO 60.
 
 Ninguna proposición o proyecto podrá discutirse sin que primero pase a la Comisión o Comisiones correspondientes y éstas hayan dictaminado. Sólo podrá dispensarse este requisito en los asuntos que por acuerdo expreso de la Cámara se calificaren de urgente o de obvia resolución.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1981)</small>
+
+Cuando la Cámara conozca de los permisos a que se refieren las fracciones II, III y IV del Inciso B) del Artículo 37 de la Constitución General, la Comisión Legislativa correspondiente podrá formular dictamen resolviendo varias solicitudes a la vez, integrando en el proyecto de Decreto, tantos artículos como permisos se concedan, sin perjuicio de que, puestos a discusión, si un legislador así lo solicita, cualquier artículo será reservado.
 
 > <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1940)</small>
 
@@ -1247,3 +1251,7 @@ UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en e
 D.O.F. 11 DE DICIEMBRE DE 1975.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 27 DE NOVIEMBRE DE 1981.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente (sic) su publicación en el "Diario Oficial" de la Federación.
