@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-sociedades-mutualistas-del-estado-de-nuevo-leon-7916"
 country: "mx"
 rank: "ley"
 publication_date: "1949-06-08"
-last_updated: "1949-06-08"
+last_updated: "1984-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7916&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # LEY DE SOCIEDADES MUTUALISTAS DEL ESTADO DE NUEVO LEON
 
-LEY DE SOCIEDADES MUTUALISTAS DEL ESTADO DE NUEVO LEÓN
+LEY DE SOCIEDADES MUTUALISTAS DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 1984.
 
-Ley publicada en el Periódico Oficial del estado de Nuevo León, el miércoles 8 de junio de 1949.
+Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 8 de junio de 1949.
 
 EL CIUDADANO LICENCIADO ARTURO B. DE LA GARZA Y GARZA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON, A LOS HABITANTES DEL MISMO, HACE SABER:
 
@@ -145,7 +145,9 @@ IV.- En préstamos hipotecarios sobre inmuebles urbanos a plazos no mayores de d
 
 V.- Adquisición en la República de bienes inmuebles urbanos de productos regulares.
 
-VI.- Depósitos a la vista o a plazos en bancos concesión federal.
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 1984)</small>
+
+VI.- Depósitos a la vista o a plazos en cualesquiera de las sociedades nacionales de crédito.
 
 DIRECCION, ADMINISTRACION Y VIGILANCIA
 
@@ -274,3 +276,9 @@ LIC. ARTURO B. DE LA GARZA Y GARZA.
 El Secretario General de Gobierno,
 
 LIC. JESUS C. TREVIÑO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS RELACIONADOS CON LA PRESENTE LEY.</small>
+
+P.O. 2 DE NOVIEMBRE DE 1984.
+
+UNICO: Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
