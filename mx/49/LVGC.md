@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1948-12-31"
+last_updated: "1950-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1948.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1950.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -2500,417 +2500,919 @@ Todos los marinos que frecuenten los puertos y aguas jurisdiccionales de la Rep�
 
 Los concesionarios a que se refiere el artículo 303, serán responsables de los accidentes que sufran las embarcaciones, originados por el mal funcionamiento de las señales marítimas a su cargo.
 
-# LIBRO CUARTO. Comunicaciones aeronáuticas
+> <small>(REFORMADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE ENERO DE 1950)</small>
 
-### CAPITULO I. Del espacio aéreo nacional y de las aeronaves mexicanas
+# LIBRO CUARTO. Comunicaciones Aeronáuticas
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 23 DE ENERO DE 1950)</small>
+
+### CAPITULO I. Disposiciones generales
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 306.
 
-Los Estados Unidos Mexicanos ejercen soberanía sobre el espacio aéreo situado sobre su territorio y mares territoriales.
+El espacio situado sobre el territorio mexicano está sujeto a la soberanía nacional.
+
+Para los efectos de esta Ley, el término territorio mexicano comprende la extensión terrestre de los Estados Unidos Mexicanos, las aguas territoriales e islas adyacentes en ambos mares, y la Isla de Guadalupe y las de Revillagigedo, situadas en el Océano Pacífico.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 307.
 
-Se consideran como aeronaves los aparatos capaces de volar mediante la sustentación estática o dinámica del aire y que se destinen al transporte de personas o cosas.
+La navegación aérea civil sobre el territorio mexicano se rige por los tratados y convenciones internacionales que el Gobierno de México haya suscrito y ratificado constitucionalmente, por la presente Ley y sus reglamentos y por la demás leyes y reglamentos aplicables.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 308.
 
-Son aeronaves mexicanas:
+Para los efectos de inspección, vigilancia y control de la navegación aérea civil, toda aeronave civil que se encuentre en territorio mexicano o vuele sobre el mismo así como su tripulación, pasajeros y efectos transportados, quedan sujetos exclusivamente a la jurisdicción y competencia del Ejecutivo Federal.
 
-I.- Las matriculadas en el registro de la Secretaría de Comunicaciones, y
-
-II.- Las pertenecientes a la Federación y a los Estados.
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 309.
 
-Las aeronaves mexicanas perderán este carácter por registrarse o matricularse en otros países.
+Se someterán a las leyes mexicanas:
+
+> <small>(F. DE E., D.O.F. 11 DE MAYO DE 1950)</small>
+
+I.- Los hechos y actos jurídicos que ocurran a bordo de las aeronaves mexicanas durante el vuelo, ya sea sobre territorio nacional o sobre mares no territoriales y aquellos que ocurran a bordo de aeronaves mexicanas durante el vuelo sobre territorio extranjero, a menos de que sean de tal naturaleza que atenten contra la seguridad o el orden público del Estado extranjero subyacente.
+
+II.- Los actos delictuosos ocurridos a bordo de cualquier aeronave sobre territorio extranjero, cuando produzcan o se pretenda que tengan efectos en territorio mexicano.
+
+Son aplicables a la navegación aérea civil las disposiciones que sobre nacimientos y defunciones a bordo de un buque mexicano, establece el Código Civil para el Distrito y Territorios Federales.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 310.
 
-Las aeronaves nacionales militares se sujetarán, para sus vuelos dentro o fuera del espacio aéreo nacional, a las disposiciones de la Secretaría de la Defensa Nacional.
+Serán solidariamente responsables el propietario, poseedor u operador de la aeronave con el comandante o piloto de la misma, por cualquiera violación a esta Ley y sus reglamentos, resultante de órdenes dictadas por algunos de aquellos.
 
-Las aeronaves militares extranjeras que transiten en el espacio aéreo nacional, igualmente quedan sujetas a las disposiciones de la misma Secretaría.
+(REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 23 DE ENERO DE 1950)
 
-### CAPITULO II. Tránsito aéreo
+### CAPITULO II. Del régimen de las aeronaves
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 311.
 
-Las aeronaves mexicanas, para poder volar en el espacio aéreo nacional, deberán:
+Para los efectos de esta Ley, se considera aeronave cualquier vehículo que pueda sostenerse en el aire.
 
-I.- Gozar de las condiciones de navegabilidad que determine la Secretaría de Comunicaciones;
+Las aeronaves mexicanas se clasifican en aeronaves de Estado y aeronaves civiles. Son aeronaves de Estado las de propiedad de la Federación, de los Estados, de los Municipios o de los organismos públicos descentralizados. Todas las demás se considerarán aeronaves civiles, ya sean de servicio público o de servicio privado.
 
-II.- Estar registradas en la Secretaría de Comunicaciones de acuerdo con las disposiciones del reglamento;
+Las aeronaves civiles destinadas permanentemente a un servicio de Estado, se consideran aeronaves de Estado.
 
-III.- Estar provistas de los documentos de registro y circulación y cumplir los demás requisitos del reglamento, y
-
-IV.- Llevar las marcas de nacionalidad y matrícula.
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 312.
 
-Las aeronaves sólo utilizarán al partir, aterrizar o acuatizar en territorio o aguas nacionales, los aeropuertos o aeródromos que previamente haya autorizado la Secretaría de Comunicaciones y Obras Públicas. En caso de aterrizaje forzoso, deberá el comandante o piloto dar aviso a la autoridad del aeropuerto inmediato.
+La nacionalidad y matrícula de las aeronaves civiles se rigen por las disposiciones siguientes:
+
+I.- Las aeronaves tienen la nacionalidad del Estado en que estén matriculadas.
+
+II.- Ninguna aeronave podrá tener más de una matrícula.
+
+III.- Para adquirir, modificar o cancelar la marca de de (sic) nacionalidad o la matrícula de una aeronave mexicana, se requiere cumplir con las formalidades establecidas por esta Ley.
+
+IV.- Las aeronaves matriculadas en otro Estado podrán adquirir matrícula mexicana previa cancelación de la extranjera.
+
+V.- La inscripción de una aeronave en el Registro Aeronáutico Mexicano y el otorgamiento de su matrícula le confieren la nacionalidad mexicana.
+
+VI.- La inscripción de una aeronave en el Registro Aeronáutico Mexicano podrá ser solicitada por el propietario de la aeronave o por quien tenga título para ello.
+
+Inscrita la aeronave, se otorgará la matrícula correspondiente y se expedirá el certificado de nacionalidad y matrícula que la identificará y probará su inscripción.
+
+(REFORMADO, D.O.F. 23 DE ENERO DE 1950) (F. DE E., D.O.F. 11 DE MAYO DE 1950)
 
 ###### ARTICULO 313.
 
-La tripulación de las aeronaves observará las disposiciones relativas a seguridad, luces, señales y tránsito, etc., que dicte la Secretaría de Comunicaciones y Obras Públicas.
+Sólo los ciudadanos mexicanos o las personas jurídicas mexicanas podrán inscribirse en el Registro Aeronáutico Mexicano y matricular aeronaves destinadas a servicio público de transporte aéreo, o a servicio privado de trabajo aéreos de aerofotografía, aerotopografía y otros análogos.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 314.
 
-Sólo se permitirá volar a las aeronaves cuya seguridad haya sido certificada previamente por la Secretaría de Comunicaciones y Obras Públicas.
+La cancelación de una matrícula de una aeronave en el Registro Aeronáutico Mexicano, implica la pérdida de su nacionalidad mexicana.
 
-### CAPITULO III. Registro y matrícula de aeronaves
+(REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 23 DE ENERO DE 1950)
+
+### CAPITULO III. De las marcas de nacionalidad y matrícula
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 315.
 
-En los casos de salvamento y auxilio, se permitirá el vuelo de toda clase de aeronaves sin las restricciones que imponen esta ley y sus reglamentos, con excepción de las referentes a seguridad.
+Toda aeronave civil deberá llevar la marcas distintivas de su nacionalidad y matrícula.
 
-### CAPITULO IV. Inspección de aeronaves
+Las marcas de nacionalidad para las aeronaves mexicanas serán las siglas XA para las de servicio público; XB para las de servicio privado; XC para las de Estado.
+
+La Secretaría de Comunicaciones asignará a cada aeronave su marca de matrícula, la cual, junto con la de nacionalidad, se fijará en la aeronave en la forma y con las características que determine el reglamento respectivo.
+
+Las aeronaves mexicanas que se utilicen en un servicio público de transporte internacional, deberán ostentar, en la forma reglamentaria, la insignia nacional.
+
+(REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 23 DE ENERO DE 1950)
+
+### CAPITULO IV. De la aeronavegabilidad
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 316.
 
-Las aeronaves comerciales nacionales deberán:
+La Secretaría de Comunicaciones expedirá el certificado de navegabilidad como constancia de que la aeronave ha pasado las pruebas y el control técnico prescritos, para permitirle volar en condiciones de seguridad técnicamente satisfactorias.
 
-I.- Ser tripuladas por personal mexicano. Los pilotos serán, de preferencia, mexicanos por nacimiento;
+La obtención, suspensión y cancelación del certificado de navegabilidad, estarán sujetos a los requisitos reglamentarios.
 
-II.- Estar dotadas con aparatos de radiocomunicación para recibir y transmitir mensajes;
-
-III.- Seguir los itinerarios y usar los aeropuertos que previamente hayan sido aprobados por la Secretaría de Comunicaciones, y
-
-IV.- Estar dotados de los implementos técnicos y de auxilio que determine la Secretaría de Comunicaciones.
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 317.
 
-Las aeronaves extranjeras, para poder volar, aterrizar o acuatizar dentro del territorio nacional o aguas territoriales, deberán obtener autorización previa de la Secretaría de Comunicaciones, y se sujetarán a las siguientes reglas:
+Se presume, salvo prueba en contrario, que una aeronave con certificado vigente de navegabilidad, ha partido en condiciones de vuelo técnicamente satisfactorias.
 
-I.- Acatarán las disposiciones de esta ley y sus reglamentos; en caso de que dichas aeronaves estén registradas en países con los que el Gobierno Federal tenga celebrados convenios o tratados especiales, el vuelo, aterrizaje o acuatizaje se regirá por la disposición de estos acuerdos internacionales;
-
-II.- Deberán tener la documentación que exijan las leyes de sus países en debida forma y llenar estrictamente los demás requisitos que señalen las mismas leyes, y
-
-III.- Sólo podrán volar, aterrizar o acuatizar, siguiendo el itinerario y usando de los aeropuertos que previamente hayan sido señalados por la Secretaría de Comunicaciones y Obras Públicas. No obstante, por razones de seguridad nacional, estarán obligadas a aterrizar en lugares distintos a los referidos anteriormente, si reciben orden para ello. En caso de que se internen al país o aterricen debido a alguna circunstancia fortuita, deberán dar aviso inmediatamente a la primera autoridad del lugar más cercano, la que, a su vez, lo hará del conocimiento de la Secretaría de Comunicaciones y Obras Públicas.
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 318.
 
-Queda estrictamente prohibido a toda aeronave:
+Las aeronaves, motores y accesorios que se construyan, reparen o modifiquen, no podrán ser puestos en servicio sin aprobación de la Secretaría de Comunicaciones, de conformidad con el reglamento respectivo.
 
-I.- Volar sobre lugares señalados como zonas prohibidas, en el reglamento respectivo;
+(REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 23 DE ENERO DE 1950)
 
-II.- Volar a menos de quinientos metros de altura sobre cualquier lugar habitado, zonas donde se fabriquen materias explosivas o inflamables, zonas fabriles o industriales, reuniones de personas al aire libre y otros lugares que señale el reglamento respectivo, excepto en las maniobras de despegue, aterrizaje o acuatizaje o cuando lo autorice la Secretaría de Comunicaciones y Obras Públicas;
+### CAPITULO V. Del personal técnico aeronáutico
 
-III.- Dejar caer durante el vuelo, cualquier objeto que pueda causar daño o molestia a personas o propiedades, en contravención de los dispuesto en el reglamento respectivo;
-
-IV.- Realizar vuelos de prueba o demostración técnica, sin la previa autorización de la Secretaría de Comunicaciones, y
-
-V.- Efectuar vuelos nocturnos sin dar cumplimiento a lo dispuesto en esta ley y sus reglamentos.
-
-Para los casos no previstos en las fracciones anteriores, la circulación aérea se regirá por el reglamento correspondiente.
-
-### CAPITULO V. Construcciones y escuelas aeronáuticas
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 319.
 
-La inscripción de una aeronave en el registro de la Secretaría de Comunicaciones y Obras Públicas, justifica la propiedad o posesión de ella.
+El personal técnico aeronáutico está constituído por los miembros de la tripulación de vuelo y el personal de tierra adscrito al servicio de la navegación aérea civil.
 
-Deberá consignarse en el mismo registro cualquier acto posterior a la inscripción que afecte o modifique la propiedad o posesión o imponga gravámenes a las aeronaves.
+> <small>(F. DE E., D.O.F. 11 DE MAYO DE 1950)</small>
 
-Las operaciones inscritas surten efectos contra tercero desde la fecha de la inscripción.
+Para actuar como miembro del personal técnico aeronáutico se requiere ser titular de una licencia válida para ejercer las funciones correspondientes, que le haya otorgado o reconocido la Secretaría de Comunicaciones. Esta dependencia podrá convalidar o reconocer las licencias expedidas en el extranjero por autoridad competente, siempre que los requisitos bajo los cuales se expidieron o se declaran válidas sean iguales, por lo menos, a las normas mínimas reglamentarias exigidas en México para el otorgamiento de tales licencias.
+
+> <small>(F. DE E., D.O.F. 11 DE MAYO DE 1950)</small>
+
+Los requisitos de edad, nacionalidad y conducta exigidos para obtener las licencias aeronáuticas; las condiciones de capacidad, aptitud física, exámenes, experiencia y pericia necesarios para obtenerlas, así como la aptitud que a sus titulares se reconozcan y las facultades que se les concedan por las mismas licencias, serán determinados en los reglamentos respectivos, que también prescribirán la vigencia, condiciones de renovación, suspensión y revocación de dichas licencias.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 320.
 
-No podrá modificarse la marca de nacionalidad o matrícula de una aeronave sin autorización expresa de la Secretaría de Comunicaciones.
+La Secretaría de Comunicaciones podrá autorizar el empleo temporal de técnicos extranjeros como asesores o instructores del personal aeronáutico mexicano, cuando a su juicio sea necesario para el desempeño o mejoramiento de un servicio aeronáutico.
 
-### CAPITULO VI. Del personal de aeronáutica
+(REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 23 DE ENERO DE 1950)
+
+### CAPITULO VI. Del comandante de la aeronave
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 321.
 
-Sólo las empresas o ciudadanos mexicanos, podrán inscribir o matricular aeronaves comerciales.
+Toda aeronave destinada a un servicio público de transporte estará bajo el mando de un comandante designado por la empresa operadora de entre los pilotos que integren la tripulación de vuelo.
+
+El comandante es responsable de la dirección, el cuidado, el orden y la seguridad de la aeronave, la tripulación, los pasajeros y sus equipajes, la carga, y el correo, tan pronto se haga cargo de la aeronave para comenzar el vuelo. Esta responsabilidad se extingue al final del vuelo, cuando el representante de la empresa o cualquiera autoridad competente tome a su cargo la aeronave, los pasajeros, la carga, los equipajes y el correo.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 322.
 
-Cuando una aeronave se retire del servicio por destrucción o para matricularse en otro país, deberá solicitarse su baja y devolverse el certificado de matrícula, dentro de los noventa días siguientes.
+El comandante de la aeronave registrará en el libro de bitácora los hechos que puedan tener consecuencias legales, ocurridos abordo durante el vuelo y los pondrá en conocimiento de las autoridades federales competentes del primer lugar de aterrizaje en territorio nacional, o las autoridades extranjeras competentes y del Cónsul mexicano, si el aterrizaje se realiza fuera del país.
 
-### CAPITULO VII. Concesiones y permisos
+(REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 23 DE ENERO DE 1950)
+
+### CAPITULO VII. De las operaciones
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 323.
 
-Los propietarios de aeronaves extranjeras que no pertenezcan al servicio internacional autorizado y que permanezcan dentro del país por un término mayor del fijado para su estancia temporal, deberán recabar de la Secretaría de Comunicaciones un registro especial para dichas aeronaves, no pudiendo dedicarlas a actividad alguna, mientras no sean inscritas en la misma Secretaría, de acuerdo con esta ley y sus reglamentos.
+Para operar en territorio mexicano, los propietarios, poseedores u operadores de aeronaves civiles y en su caso los comandantes y pilotos, deberán cumplir con los siguientes requisitos:
+
+I.- Utilizar los tipos de aeronaves que exijan la concesión o permiso respectivo, de acuerdo con el servicio a que se destinen.
+
+II.- Operar la aeronave dentro de las limitaciones de su certificado de aeronavegabilidad.
+
+III.- Estar provistos de los certificados de matrícula y aeronavegabilidad, licencias del personal aeronáutico y demás documentos requiridos.
+
+IV.- Antes de iniciar el vuelo, cerciorarse de la vigencia del certificado de aeronavegabilidad y licencias del personal y preparar y observar, salvo caso de emergencia, el plan de vuelo conforme al cual deban realizarse las operaciones.
+
+V.- Usar solamente los aeródromos autorizados que sean adecuados para el tipo de aeronaves operadas y para el servicio de que se trate, salvo caso de emergencia.
+
+VI.- Dotar a las aeronaves con los equipos de radiocomunicación y de auxilio que señalen los reglamentos respectivos para cada tipo de aeronave.
+
+VII.- Observar las disposiciones reglamentarias sobre luces y señales para la circulación aérea.
+
+VIII.- Realizar las maniobras de embarque y desembarque, carga y descarga de las aeronaves, en forma tal que no estorben las de otras aeronaves ni impidan el tránsito aéreo ni la circulación en los aeródromos.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 324.
 
-Las aeronaves matriculadas en el extranjero no podrán ser inscritas en el registro de la Secretaría de Comunicaciones si no se comprueba la cancelación de su matrícula. En caso de registro simultáneo de una aeronave, en la República y en el extranjero, sólo la inscripción en el registro de la Secretaría de Comunicaciones producirá efectos jurídicos dentro del territorio nacional.
+En las aeronaves civiles no se podrá:
+
+I.- Volar sobre zonas que hayan sido declaradas prohibidas a la navegación aérea por el Ejecutivo Federal.
+
+II.- Transportar armas, municiones, explosivos y artículos que por su naturaleza inherente sean peligrosos, a menos que cuenten con permiso de las autoridades competentes.
+
+III.- Transportar personas en estado de embriaguez o bajo los efectos de estupefacientes y, salvo con permiso de las autoridades competentes, cadáveres y enfermos contagiosos o mentales.
+
+IV.- Realizar vuelos acrobáticos y evoluciones de carácter peligroso sobre las ciudades y centros de población.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 325.
 
-El registro y matrícula se cancelarán:
+El examen y despacho de las aeronaves de servicio público, así como de sus tripulantes y de sus pasajeros y equipajes, carga y correo, deberá llevarse a cabo en la forma expedita que los reglamentos señalen.
 
-I.- A petición del propietario de la aeronave;
+(REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 23 DE ENERO DE 1950)
 
-II.- Por orden de autoridad competente;
+### CAPITULO VIII. Del tránsito aéreo
 
-III.- Por quedar la aeronave fuera de servicio más de seis meses, ya sea por no reunir las condiciones señaladas por esta ley y sus reglamentos o por destrucción de la misma;
-
-IV.- Por haber desaparecido la aeronave o por no tenerse noticia de ella en la Secretaría de Comunicaciones, por un período de tiempo mayor de seis meses;
-
-V.- Por abandono de la aeronave;
-
-VI.- Porque la aeronave permanezca fuera del país por más de tres meses sin autorización de la Secretaría de Comunicaciones, y
-
-VII.- Por otras disposiciones que se señalen en los reglamentos.
-
-### CAPITULO VIII. Aeródromos y aeropuertos
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 326.
 
-Toda solicitud de inspección y matrícula entraña la de inspección de la aeronave, a efecto de comprobar si sus condiciones de seguridad y navegabilidad permiten la explotación o servicio a que se va a destinar.
+El tránsito aéreo se ajustará a las siguientes reglas:
 
-A más de la inspección inicial a que se refiere el párrafo anterior toda aeronave deberá ser inspeccionada cada seis meses y cuando lo estime necesario la Secretaría de Comunicaciones.
+I.- Es atribución de la Secretaría de Comunicaciones el control de tránsito aéreo y de los servicios de meteorología, de telecomunicaciones aeronáuticas y de ayuda a la navegación aérea. En ejercicio de esta atribución dictará las medidas que sean necesarias para la mayor seguridad y eficiencia de la navegación aérea, con el fin de proteger la vida humana y la propiedad. Puede, en su caso, otorgar concesiones o permisos para la prestación de dichos servicios, a organismos técnicos que tendrán el carácter de auxiliares y conexos de las vías de comunicación y se considerarán de interés público.
 
-### CAPITULO IX. Accidentes y responsabilidades
+II.- El uso de los servicios de control del tránsito aéreo, de telecomunicaciones aeronáuticas, de información meteorológica y de ayudas a la navegación aérea, es requisito de seguridad de obligatorio cumplimiento para todas las aeronaves. Dichos servicios se pondrán a disposición de quienes operen las aeronaves sobre bases, condiciones y tarifas aprobadas por la Secretaría de Comunicaciones.
+
+III.- La Secretaría de Comunicaciones dictará las medidas que estime necesarias para ampliar y modernizar la red de instalaciones auxiliares de la navegación aérea y vigilará que las empresas de servicio público y los permisionarios de servicio privado, cumpla en todo tiempo con los requisitos de seguridad que establecen esta Ley y sus reglamentos.
+
+IV.- Las operaciones por parte de aeronaves militares en las aerovías, en las zonas de control de tránsito o en los aeródromos civiles, quedarán sujetas a las disposiciones sobre tránsito aéreo contenidas en esta Ley y sus reglamentos. Las infracciones que se cometan durante dichas operaciones serán comunicadas a la Secretaría de la Defensa Nacional.
+
+(REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 23 DE ENERO DE 1950)
+
+### CAPITULO IX. De los aeródromos civiles
+
+(REFORMADO, D.O.F. 23 DE ENERO DE 1950)(F. DE E., D.O.F. 11 DE MAYO DE 1950)
 
 ###### ARTICULO 327.
 
-Toda aeronave que sufra modificaciones esenciales en sus motores, elementos o grupos de elementos, cambien o no sus características, no podrá realizar vuelos en tanto no sea inspeccionada y autorizada nuevamente para ello por la Secretaría de Comunicaciones. Esta inspección, deberán efectuarse dentro de un plazo improrrogable de diez días, contados desde la fecha en que se solicite.
+Aeródromo civil es toda área definida de tierra o de agua, adecuada para el despegue, aterrizaje y movimiento de aeronaves civiles.
+
+Los aeródromos civiles se dividen en aeródromos de servicio público y aeródromo de servicio privado. La Secretaría de Comunicaciones declarará cuáles son aeródromos de servicio público y cuáles de servicio privado, de acuerdo con el reglamento respectivo.
+
+Los aeródromos civiles están sujetos al control, inspección y vigilancia de la Secretaría de Comunicaciones.
+
+Aeropuerto es cualquier aeródromo civil de servicio público que cuente con obras e instalaciones adecuadas para la operación de aeronaves de servicio público. Según la índole de las obras e instalaciones los aeropuertos se clasificarán en categorías.
+
+Los aeropuertos están abiertos al público para sus propios fines y los servicios que en ellos se proporcionen se cobrarán de conformidad con las tarifas previamente autorizadas por la Secretaría de Comunicaciones.
+
+Para que un aeropuerto tenga carácter de aeropuerto internacional, deberá ser declarado como tal por el Ejecutivo Federal, ser habilitado para los servicios internacionales correspondientes y satisfacer los requisitos reglamentarios.
+
+La Secretaría de Comunicaciones, por conducto del comandante que al efecto designe, ejercerá la autoridad en los aeropuertos. Todas las autoridades que ejerzan funciones en los aeropuertos internacionales, se sujetarán al Reglamento Interior de Aeropuertos Internacionales que dicte el Ejecutivo.
+
+(REFORMADO, D.O.F. 23 DE ENERO DE 1950)(F. DE E., D.O.F. 11 DE MAYO DE 1950)
 
 ###### ARTICULO 328.
 
-La reparación de aeronaves sólo podrá efectuarse por mecánicos especialistas con licencia expedida por la Secretaría de Comunicaciones o bajo la supervisión de un inspector de la propia Secretaría.
+Para construir, explotar, administrar y operar aeropuertos, se requiere concesión otorgada por la Secretaría de Comunicaciones por un plazo inicial máximo de treinta años, de conformidad con lo previsto en el capítulo III, del Libro Primero y en los artículos 331 y 334, fracción III, de esta Ley.
 
-### CAPITULO I. De las instalaciones en general
+Para construir y operar aeródromos de servicio privado, se requiere permiso de la Secretaría de Comunicaciones. Los propietarios de aeródromos de servicio privado están obligados a permitir su uso a toda aeronave que se encuentre en caso de emergencia.
+
+La construcción de toda clase de obras e instalaciones en los aródromos (sic) civiles, se someterá, en cada caso, a la aprobación y autorización de la Secretaría de Comunicaciones.
+
+> <small>(F. DE E., D.O.F. 11 DE MAYO DE 1950)</small>
+
+Las construcciones e instalaciones en los terrenos adyacentes e inmediatos a los aeródromos, dentro de las zonas de protección y seguridad de éstos, estarán sujetas a las restricciones que señalen los reglamentos respectivos.
+
+> <small>(F. DE E., D.O.F. 11 DE MAYO DE 1950)</small>
+
+Los propietarios u operadores de aeródromos civiles estarán obligados a permitir su uso gratuito a las aeronaves de Estado, con excepción de las que pertenezcan a organismos públicos descentralizados.
+
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 1950)</small>
+
+### CAPITULO X. Del transporte aéreo nacional
+
+(REFORMADO, D.O.F. 23 DE ENERO 1950) (F. DE E., D.O.F. 11 DE MAYO DE 1950)
 
 ###### ARTICULO 329.
 
-La Secretaría de Comunicaciones podrá en todo tiempo, inspeccionar aeronaves civiles extranjeras dentro del territorio nacional, para cerciorarse de sus condiciones de seguridad y aeronavegabilidad.
+El servicio público de transporte aéreo nacional regular está sujeto:
+
+a).- A la obtención de concesión en los términos de capítulo III, Libro I y del artículo 331 de esta Ley y demás disposiciones aplicables.
+
+b).- A itinerarios, frecuencias de vuelos y horarios previamente aprobados por la Secretaría de Comunicaciones.
+
+c).- A remuneración conforme a tarifas previamente aprobadas por la Secretaría de Comunicaciones y debidamente puestas en conocimiento del público.
+
+d).- A accesibilidad permanente al público, con sujeción a los incisos b) y c).
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 330.
 
-Son de utilidad pública el establecimiento y explotación de las fabricas de aeronaves, motores y accesorios o industrias creadas para su fomento.
+El servicio público de transporte aéreo no regular está sujeto:
 
-La Secretaría de Comunicaciones, de acuerdo con la de Economía Nacional, otorgará, en su caso, las concesiones respectivas. Los titulares de las concesiones gozarán de todas las franquicias que esta ley establece en favor de los concesionarios de vías generales de comunicación.
+a).- A la obtención de permiso en los términos de esta Ley y demás disposiciones aplicables.
+
+b).- A la realización de vuelos conforme a convenios con los usuarios del servicio, con arreglo a esta Ley y sus reglamentos.
+
+c).- A remuneración sujeta a lo previsto en el artículo 336, inciso a), segundo párrafo.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 331.
 
-Los fabricantes, para proceder a la construcción de aeronaves, motores o accesorios, deberán contar con los planos, cálculos, análisis de esfuerzos, etc., aprobados por la Secretaría de Comunicaciones, los cuales deben ser presentados a la propia Dependencia, de acuerdo con el reglamento respectivo.
+Para obtener concesión o permiso, en su caso, para el establecimiento y explotación de un servicio público de transporte aéreo regular o no regular, los interesados deberán comprobar, a satisfacción de la Secretaría de Comunicaciones, lo siguiente:
+
+a).- Que el servicio satisface una necesidad o conveniencia pública.
+
+b).- Que el solicitante tiene capacidad y elementos técnicos y financieros para operar el servicio propuesto.
+
+> <small>(F. DE E., D.O.F. 11 DE MAYO DE 1950)</small>
+
+c).- Que el solicitante se encuentre en el caso que prevee el artículo 12 de esta Ley.
+
+d).- Los demás requisitos que fije esta Ley, sus reglamentos y demás leyes aplicables.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 332.
 
-Los fabricantes que terminen aeronaves, motores o accesorios de nuevo diseño, están obligados a ponerlos a disposición de la Secretaría de Comunicaciones, para que se efectúen las pruebas que exigen los reglamentos respectivos, a fin de que se les expida, en su caso, el certificado de tipo aprobado.
+Para iniciar la operación de un servicio público de transporte aéreo, regular o no regular, la empresa debe acreditar ante la Secretaría de Comunicaciones, que cuenta o dispone, por cualquier título o contrato, con lo siguiente:
 
-Cuando se le expida el certificado de tipo aprobado, el fabricante de una aeronave, motor o accesorio, podrá construir nuevas unidades del mismo tipo, sin llenar los requisitos de prueba mencionados en el párrafo anterior, siempre y cuando no se introduzca modificación alguna en su diseño y construcción.
+a).- Aeródromos aptos para el servicio de acuerdo con los reglamentos respectivos.
+
+b).- Instalaciones y servicios auxiliares de la navegación aérea que exija esta Ley y sus reglamentos.
+
+c).- Equipo de vuelo aprobado para el servicio y personal técnico aeronáutico autorizado.
+
+d).- Itinerarios, tarifas y honorarios aprobados por la Secretaría de Comunicaciones.
+
+e).- Los seguros que exige esta Ley.
+
+f).- Los demás elementos requeridos por la concesión o permiso.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 333.
 
-Las fábricas y sus dependencias están sujetas a la inspección y vigilancia, tanto técnica como administrativa que ordenen las Secretarías de Comunicaciones y de la Defensa Nacional.
+La falta de cumplimiento, en cualquier tiempo, de alguno de los requisitos contenidos en el artículo anterior, así como de las obligaciones de la concesión o permiso respectivo, o de los reglamentos de esta Ley, será causa de suspensión de los servicios; o de caducidad o de revocación de la concesión o permiso, sin perjuicio de las demás sanciones que establece esta Ley.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 334.
 
-Las aeronaves, motores o accesorios que se construyan o reparen no podrán ser puestos al servicio sin la aprobación de la Secretaría de Comunicaciones, de acuerdo con los reglamentos respectivos.
+La Secretaría de Comunicaciones fijará la duración de las concesiones y de los permisos, conforme a las siguientes bases:
+
+I.- Las concesiones para servicio público de transporte aéreo regular se otorgarán por un período inicial máximo de treinta años, el cual se determinará de acuerdo con la importancia económica del servicio y de la empresa misma, la cuantía de la intervención inicial y de las ulteriores necesarias para el desarrollo y mejoramiento del servicio y los demás elementos de apreciación que se requieran.
+
+II.- En los permisos para servicio público de transporte aéreo no regular, el plazo se fijará de acuerdo con la importancia de la empresa y las inversiones iniciales hechas por la misma.
+
+III.- El concesionario de un servicio público de transporte aéreo regular tendrá derecho a que se le otorguen prórrogas del plazo inicial por períodos adicionales de 10 años cada uno, si al vencimiento de dicho plazo inicial o de cualquiera de las prórrogas, demuestra haber cumplido satisfactoriamente con todas sus obligaciones y haber hecho mejoras de importancia en el servicio.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 335.
 
-Las escuelas de aviación operarán con permiso de la Secretaría de Comunicaciones y Obras Públicas, estando sujetas a la inspección y vigilancia técnica de la misma y disfrutarán de las franquicias que esta ley establece en favor de las vías generales de comunicación, en cuanto fueren aplicables.
+El Gobierno Federal podrá adquirir, al término de la concesión o de la prórroga correspondiente, todos los bienes y derechos afectos al servicio de transporte aéreo de la empresa de que se trate y la empresa misma. El precio se fijará de común acuerdo, o en su defecto, en los términos de ley.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 336.
 
-El personal técnico de Aeronáutica para ejercer su profesión u oficio deberá estar provisto de la licencia correspondiente expedida por la Secretaría de Comunicaciones previos los exámenes médicos y de aptitud a que alude el artículo 124.
+La Secretaría de Comunicaciones podrá:
 
-### CAPITULO II. De la Red Nacional
+a).- Conceder permiso para la realización de vuelos especiales de transporte público, pero cuando pretendan afectuarse (sic) entre puntos comunicados por una empresa de transporte regular, los permisos sólo se otorgarán en caso de que la empresa concesionaria de este servicio, no esté en condiciones de realizar por sí misma el vuelo.
+
+> <small>(F. DE E., D.O.F. 11 DE MAYO DE 1950)</small>
+
+Las cuotas que se cobren por dichos vuelos no podrán ser en ningún caso inferiores a las autorizadas para el servicio regular correspondiente.
+
+b).- Autorizar la realización de vuelos puramente de reconocimiento y estudios técnicos sobre rutas no exploradas, con el fin de reunir datos y pruebas concernientes al establecimiento de servicios de transporte aéreo. Estas autorizaciones se concederán por el término máximo improrrogable de tres meses.
+
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 1950)</small>
+
+### CAPITULO XI. Del transporte aéreo internacional
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 337.
 
-Las licencias de los pilotos deberán revalidarse cada seis meses, previo examen médico que justifique que las condiciones físicas de los interesados los capaciten para seguir disfrutando de ellas.
+El servicio público de transporte aéreo internacional se clasifican en:
 
-No podrán revalidarse sin nuevo examen las licencias de los pilotos que hayan estado fuera del servicio de su profesión por más de seis meses consecutivos.
+a).- Servicio mexicano de transporte internacional regular.
+
+b).- Servicio mexicano de transporte internacional no regular.
+
+c).- Servicio extranjero de transporte internacional regular.
+
+d).- Servicio extranjero de transporte internacional no regular.
+
+La prestación de estos servicios, de o hacia el Territorio mexicano, se efectuará con apego a las siguientes condiciones:
+
+I.- El servicio mexicano de transporte internacional regular, al amparo de concesión solicitada y obtenida en los términos del capítulo III, Libro I, y de los artículos 331 y 332 de esta Ley y de los reglamentos aplicables.
+
+II.- El servicio mexicano de transporte internacional no regular, con base en permisos otorgados por la Secretaría de Comunicaciones, revocables en cualquier tiempo.
+
+III.- El servicio extranjero de transporte internacional regular, de acuerdo con permiso que, otorgado por la Secretaría de Comunicaciones, contenga obligaciones iguales a las impuestas a empresas mexicanas para prestar servicio público de transporte aéreo regular.
+
+IV.- El servicio extranjero de transporte internacional no regular, con autorización en cada caso de la Secretaría de Comunicaciones. Cuando estos vuelos pretendan efectuarse entre puntos o zonas comunicadas por una empresa mexicana de transporte internacional regular, tales autorizaciones sólo podrán otorgarse si esta empresa no está en condiciones de realizar el vuelo.
+
+> <small>(F. DE E., D.O.F. 11 DE MAYO DE 1950)</small>
+
+Tanto las concesiones como los permisos se ajustarán, en su caso, a los términos de los tratados o convenios internacionales aplicables. Los permisos o autorizaciones para servicios extranjeros de transporte internacional, se sujetarán al principio de equitativa reciprocidad y la Secretaría de Comunicaciones cuidará que su otorgamiento no entrañe peligro para la seguridad de la Nación ni lesione los servicios mexicanos de transporte aéreo.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 338.
 
-Los pilotos con licencia comercial que deseen dedicarse a impartir enseñanza práctica de vuelo, deberán contar con una autorización especial que les otorgará la Secretaría de Comunicaciones, conforme a las bases que establezca el reglamento.
+Para internarse en territorio mexicano y salir de él, las aeronaves extranjeras deberán cumplir con los siguientes requisitos:
 
-Los aspirantes a pilotos deberán contar con licencia especial que será válida por un año y podrá revalidarse por una sola vez.
+I.- Seguir las vías aéreas previamente señaladas y aterrizar en los aeropuertos internacionales que les fije la Secretaría de Comunicaciones.
+
+II.- Cumplir con los requisitos de seguridad establecidos por esta Ley y sus reglamentos, así como las disposiciones de su país respecto a marcas de nacionalidad y matrícula, peso, instrumentos y accesorios de seguridad y auxilio; y contar con certificado de aeronavegabilidad, licencias de personal y demás documentación pertinente.
+
+III.- Cuando se trate de aeronaves extranjeras de servicio público internacional, el vuelo de tránsito sobre territorio mexicano, o que aterricen en el mismo sin embarcar ni desembarcar pasajeros, carga o correo, deberá darse aviso previo y oportuno, en cada caso, a la Secretaría de Comunicaciones. El tránsito y aterrizaje de estas aeronaves quedan sujetos, además, a las disposiciones sobre aduanas, población y policía.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 339.
 
-A los tripulantes de aeronaves en servicio regular internacional, se les reconocerá la validez de los certificados de competencia expedidos por sus propios gobiernos, de acuerdo con los tratados o convenios en vigor.
+Los propietarios de aeronaves civiles mexicanas, que deseen llevarlas al extranjero deberán recabar permiso de la Secretaría de Comunicaciones, salvo las empresas debidamente autorizadas para operar un servicio mexicano de transporte internacional.
 
-### CAPITULO III. Instalaciones incorporadas a la Red Nacional
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 1950)</small>
+
+### CAPITULO XII. De los servicios aéreos privados
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 340.
 
-Los pilotos civiles extranjeros, en tránsito por territorio nacional, podrán efectuar vuelos hasta por un término de noventa días sin necesidad de licencia mexicana si tienen en vigor la de su país, pero deberán cumplir con los requisitos de admisión establecidos por esta ley y sus reglamentos.
+Son aeronaves de servicio privado:
+
+a).- Las destinadas a recreo y asuntos privados del propietario.
+
+b).- Las dedicadas a trabajos aéreos, tales como los de aerofotografía, aerotopografía, publicidad comercial y otros semejantes.
+
+c).- Las del servicio particular de una empresa.
+
+d).- Aquellas que se destinen a aplicaciones científicas de la aviación civil; tales como exterminación de plagas agrícolas, provocación artificial de lluvias, vuelos educacionales y otros semejantes.
+
+e).- Las pertenencias a escuelas aeronáuticas privadas.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 341.
 
-Todos lo tripulantes de una aeronave deberán portar sus licencias durante el vuelo.
+La operación de aeronaves de servicio privado, se sujetará a las siguientes reglas:
 
-Las aeronaves de más de ocho pasajeros y que hagan vuelos mayores de cuatro horas, deberán contar en su tripulación con un segundo piloto.
+I.- La obtención de los certificados de matrícula y de aeronavegabilidad correspondientes, bastará para la operación de aeronaves de servicio privado destinadas exclusivamente a asuntos privados o de recreo de sus propietarios.
 
-### CAPITULO IV. Instalaciones telefónicas
+II.- Las aeronaves de servicio privado deberán estar tripuladas por el personal técnico aeronáutico que les corresponda.
+
+III.- Los propietarios de aeronaves de servicio privado destinadas a trabajos aéreos, al servicio particular de una empresa, a aplicaciones científicas de la aviación civil o enseñanza. deberán obtener de la Secretaría de Comunicaciones un permiso que, en su caso, estará sujeto a las siguientes condiciones:
+
+a).- Los trabajos de aerofotografía, aerotopografía y otros semejantes, sólo podrán hacerse por empresas de nacionalidad mexicana y el personal técnico encargado de realizar tales trabajos y las tripulaciones de las aeronaves respectivas, deberán ser mexicanos.
+
+> <small>(F. DE E., D.O.F. 11 DE MAYO DE 1950)</small>
+
+b).- En el caso del inciso d) del artículo 340, las empresas, la tripulación de vuelo y el personal encargado de realizar tales trabajos, serán preferentemente mexicanos.
+
+IV.- Las aeronaves de servicio privado no podrán efectuar, en ningún caso, servicios de transporte público.
+
+V.- Los propietarios o poseedores de aeronaves extranjeras de servicio privado que las destinen exclusivamente a sus asuntos privados o de recreo, y que deseen volar sobre el territorio mexicano o aterrizar en él, deberán dar aviso previo y oportuno a la Secretaría de Comunicaciones.
+
+La Secretaría de Comunicaciones podrá exigir que los propietarios o tripulantes de aeronaves extranjeras de servicio privado, que deseen volar sobre territorio mexicano o aterrizar en él, comprueben en cada caso haber cumplido con los requisitos técnicos sobre aeronavegabilidad y licencias, exigidos en el país de su matrícula.
+
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 1950)</small>
+
+### CAPITULO XIII. De las responsabilidades por daños
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 1950)</small>
+
+#### SECCION PRIMERA. De los daños a pasajeros
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 342.
 
-Las licencias para mecánico de aeronáutica y personal de tierra preferentemente deberán concederse a ciudadanos mexicanos.
+Las empresas concesionarias y permisionarias de servicio público de transporte aéreo, regular y no regular, serán responsables por los daños causados con motivo del transporte:
 
-Las licencias de mecánicos de aeronáutica los faculta para hacer reparaciones y ajustes de aeronaves y motores, trabajos de taller y construcción, de acuerdo con las limitaciones que para cada categoría establezca el reglamento respectivo, debiendo ser revalidadas dichas licencias cada seis meses.
+a).- Por muerte, lesiones o cualquier otro daño causado al pasajero.
+
+> <small>(F. DE E., D.O.F. 11 DE MAYO DE 1950)</small>
+
+b).- Por destrucción o avería de su equipaje de mano.
+
+c).- Por retraso en el transporte.
+
+Para los efectos de esta Ley, se entenderá que los daños se causaron con motivo del transporte, si son el resultado de hechos ocurridos durante el período comprendido desde el momento en que el pasajero aborda la aeronave, hasta el momento en que ha desembarcado de ella, ya sea a la terminación del viaje previsto en el contrato de transporte, o en el caso de aterrizaje forzoso o accidental.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 343.
 
-Las licencias de los miembros del personal aeronáutico se revocarán:
+En los casos a que se refiere el inciso a) del artículo anterior, la empresa deberá cubrir a la víctima:
 
-I.- Por orden de autoridad competente;
+I.- Por muerte o invalidez total permanente la cantidad de $50,000.00.
 
-II.- Por descuido o negligencia del interesado, en el cumplimineto (sic) de sus obligaciones o por cualquiera demostración de incompetencia en la operación o reparación de una aeronave;
+II.- Por lesiones que ocasionen invalidez parcial permanente, hasta un máximo de $20,000.00.
 
-III.- Por pérdida de las facultades físicas o mentales;
+III.- Por lesiones que ocasionen invalidez parcial temporal, hasta un máximo de $10,000.00.
 
-IV.- Porque el titular use habitualmente bebidas embriagantes o drogas enervantes o porque esté bajo la influencia de cualquiera de ellas durante el desempeño de su cometido, y
+> <small>(F. DE E., D.O.F. 11 DE MAYO DE 1950)</small>
 
-V.- Por infracciones a esta Ley y sus Reglamentos o por disposición expresa de los mismos en los casos no previstos en lo incisos anteriores.
+El monto de las indemnizaciones a que se refiere las fracciones II y III de este artículo, se determinará de acuerdo con la tabla de indemnizaciones del reglamento respectivo.
+
+La empresa garantizará el pago de la indemnización que le impone este artículo, al obtener la concesión o permiso en alguna de las siguientes formas:
+
+a).- Mediante seguro contratado con institución debidamente autorizada, de manera tal que cubra dicha responsabilidad a satisfacción de la Secretaría de Comunicaciones.
+
+b).- Mediante depósito en efectivo en la Nacional Financiera, S. A., por una suma que garantice el riesgo, en los términos del reglamento respectivo.
+
+Sin perjuicio de la indemnización a que se refieren las fracciones anteriores de este artículo, la empresa será responsable, además hasta por un límite máximo de $75,000.00 para el caso de muerte o invalidez total permanente y hasta un límite de $25,000.00 para los demás daños a la persona.
+
+Sin embargo, la empresa no gozará del beneficio de limitación de responsabilidad a que este artículo se refiere, si se comprueba que los daños fueron debidos a dolo de la empresa o de sus dependientes o empleados.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 344.
 
-Serán objeto de concesión el establecimiento y explotación de vías de comunicación aérea de servicio público regular. Está concesión podrá otorgarse también para el transporte exclusivo de correspondencias.
+La indemnización por la destrucción o avería del equipaje de mano se limitará a la suma máxima de $100.00. No habrá lugar a la limitación aquí establecida si se comprueba la existencia del dolo o culpa grave de la empresa o de sus dependientes o empleados.
 
-La Secretaría de Comunicaciones podrá conceder permisos para la explotación de vuelos comerciales que no sean de transporte público regular, de acuerdo con las disposiciones del Reglamento.
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 345.
 
-Los Servicios comerciales de transporte aéreo entre dos o más puntos del territorio nacional, quedan reservados exclusivamente a las aeronaves mexicanas.
+La empresa deberá indemnizar al pasajero por los daños que sufra motivados por retraso en el transporte. La indemnización queda limitada a una suma máxima igual al precio convenido para el transporte.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 346.
 
-Sólo las aeronaves mexicanas podrán realizar planificaciones aerofotográficas y exploraciones, pero en todo caso deberán obtener la autorización previa de la Secretaría de Comunicaciones, con intervención de la de la (sic) Defensa Nacional, a no ser que se trate de servicios especiales.
+La empresa estará exenta de las responsabilidades que le atribuye esta sección, en los siguientes casos:
 
-Para realizar vuelos de propaganda comercial, de placer, de exhibición, de localización y combate de incendios, de exterminación de plagas y otros de carácter semejante, se requerirá permiso previo de la Secretaría de Comunicaciones.
+I.- En los del penúltimo párrafo del artículo 343 y en los del artículo 344, si comprueba haber tomado las precauciones razonables para evitar el daño y las medidas técnicas exigidas por esta Ley y sus reglamentos, o que le fué imposible tomarlas.
+
+II.- En el artículo 345, si comprueba que el retraso fué motivado por condiciones meteorológicas adversas, o por maniobras de salvamento, o por razones fundadas en la protección de la vida humana o de la propiedad.
+
+III.- En todos los casos, si comprueba que el daño se debió a hechos o circunstancias propios de la víctima o a hechos ilícitos de un tercero.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 347.
 
-La Secretaría de Comunicaciones podrá autorizar el establecimiento de servicios de transportes aéreos con carácter experimental, hasta por el término improrrogable de una año, que se contará a partir de la fecha en que principien a operar, sin más requisitos que la comprobación de la solvencia del solicitante y la obligación de cumplir con las disposiciones relativas a tránsito aéreo, seguro del viajero, personal de aeronáutica y demás preceptos de esta Ley y de sus Reglamentos.
+El derecho a percibir las indemnizaciones establecidas en esta sección y la fijación del monto de los casos del penúltimo páárrafo (sic) del artículo 343 y de los artículos 344 y 345, se sujetará a las disposiciones aplicables al Código Civil para el Distrito y Territorios Federales.
 
-Concedido el permiso, el interesado deberá principiar a operar la línea dentro de los noventa días siguientes a la fecha del otorgamiento de aquél, salvo caso fortuito o de fuerza mayor debidamente comprobados.
+Las acciones para exigir el pago de las indemnizaciones establecidas en esta sección, prescribirán en el plazo de un año, a partir de la fecha de los hechos que les dieron nacimiento o, en su defecto, de la fecha de iniciación del viaje prevista en el contrato de transporte.
 
-Si el permisionario decidiera establecer el servicio definitivo, solicitará la concesión respectiva dentro del plazo del permiso experimental, en cuyo caso se le autorizará provisionalmente para continuar la explotación hasta que se resuelva sobre su solicitud.
-
-Los permisos experimentales se revocarán cuando no se inicien las operaciones dentro del plazo establecido en este artículo, cuando no se realicen satisfactoriamente los servicios a juicio de la Secretaría de Comunicaciones o cuando, solicitada la concesión, se abandonaren los trámites de la misma.
+(REFORMADO, D.O.F. 23 DE ENERO DE 1950)(F. DE E., D.O.F. 11 DE MAYO DE 1950)
 
 ###### ARTICULO 348.
 
-No podrá ponerse en explotación un servicio de navegación aérea, sin que se hayan fijado y acondicionado previamente los campos de aterrizaje y de emergencia, y sin que se haya cumplido con los requisitos señalados por esta Ley y sus Reglamentos.
+Para los efectos de la responsabilidad, el transporte que se efectúe en cumplimiento de una obligación impuesta por la ley, se equipara al realizado conforme a contrato por remuneración.
+
+Los daños que sufran las personas o cosas transportadas en aeronaves de servicio privado, se regirán por las disposiciones del Código Civil para el Distrito y Territorios Federales.
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 1950)</small>
+
+#### SECCION SEGUNDA. De los daños a carga y equipaje facturado
+
+(REFORMADO, D.O.F. 23 DE ENERO DE 1950) (F. DE E., D.O.F. 11 DE MAYO DE 1950)
 
 ###### ARTICULO 349.
 
-Las concesiones para las vías de comunicación aérea, se otorgarán por el plazo que señale la Secretaría de Comunicaciones, el cual no podrá exceder de treinta años.
+Las empresas concesionarias y permisionarias del servicio público de transporte aéreo, regular o no regular, serán responsables de los daños causados a la carga o al equipaje facturado:
+
+I.- Por pérdida o avería sufrida desde el momento de su recibo por la empresa, hasta el momento de su entrega al destinatario.
+
+II.- Por el retraso en la entrega de la carga o el equipaje facturado, más allá del período previsto en el contrato de transporte y según lo prevenga el reglamento respectivo.
+
+En los casos a que se refiere la fracción I de este artículo, la empresa deberá cubrir al destinatario, o en su defecto al remitente, las siguientes indemnizaciones:
+
+a).- Por la pérdida o avería de la carga, un máximo de $20.00 por kilogramo de preso (sic) bruto.
+
+b).- Por retraso en la entrega de la carga, una suma máxima igual al precio del transporte.
+
+c).- Por la pérdida o avería del equipaje facturado, un máximo de $500.00 por pieza.
+
+Cuando se causen daños a las personas y a las cosas, el monto de la indemnización que se fije para reparar el causado a las personas no excederá de dos tercios de la indemnización fijada.
+
+La empresa estará exenta de las responsabilidades a que se refiere esta sección si comprueba:
+
+a).- Haber tomado las precauciones razonables para evitar el daño y las medidas técnicas exigidas por esta Ley y sus reglamentos o que le fué imposible tomarlas;
+
+b).- Que el retraso fue motivado por condiciones meteorológicas adversas, o por maniobras de salvamento, o por razones fundadas en la protección de la vida humana o de la propiedad;
+
+c).- Que el daño se debió a hechos ilícitos de un tercero.
+
+Los límites de la responsabilidad a que se refiere este artículo no se aplicarán si la carga o equipaje facturado se transportan, de acuerdo entre las partes conforme a valor declarado, en cuyo caso el límite de la responsabilidad corresponderá a dicho valor declarado.
+
+En los casos a que se refiere este artículo, la empresa garantizará el pago de la indemnización correspondiente, en los términos del reglamento respectivo.
+
+(REFORMADO, D.O.F. 23 DE ENERO DE 1950) (F. DE E., D.O.F. 11 DE MAYO DE 1950)
 
 ###### ARTICULO 350.
 
-Los permisos para efectuar vuelos de turismo de carácter internacional, serán otorgados directamente por la Secretaría de Comunicaciones o por conducto de los Consulados Mexicanos.
+El derecho a percibir las indemnizaciones correspondientes a los daños sufridos, establecido en esta sección, y a la fijación de su monto, se sujetará a las disposiciones aplicables del Código Civil para el Distrito y Territorios Federales.
 
-Tratándose de los vuelos a que se refiere el párrafo anterior, deberán ser los propios interesados los que soliciten el permiso respectivo, certificándose al efecto la autenticidad de su firma por el Cónsul del lugar e indicándose además en la solicitud que se eleve, el nombre del piloto que va a realizar el vuelo.
+> <small>(F. DE E., D.O.F. 11 DE MAYO DE 1950)</small>
+
+Las reclamaciones para los casos de pérdida, avería o retraso de la carga o equipaje facturado, deberán ser hechos valer ante la empresa dentro de los tres días siguientes a la fecha de entrega o a la fecha en que debió entregarse. La falta de reclamación oportuna impedirá el ejercicio de las acciones correspondientes.
+
+Las acciones para exigir el pago de las indemnizaciones establecidas en esta Sección, prescribirá en el plazo de noventa días a partir de la fecha en que debió entregarse la carga o el equipaje facturado.
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 1950)</small>
+
+#### SECCION TERCERA. De los daños a terceros
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 351.
 
-La Secretaría de Comunicaciones podrá conceder permiso para la realización de vuelos especiales de carácter comercial; pero cuando estos vuelos pretendan efectuarse entre puntos comunicados por una empresa de servicios regulares, los permisos sólo podrán otorgarse si la propia empresa no está en condiciones de realizar por sí misma el vuelo; y las cuotas que se cobren no podrán ser en ningún caso inferiores a las correspondientes al servicio regular.
+Cuando por la operación de una aeronave o por objetos desprendidos de la misma se causen daños a las personas o a las cosas que se encuentren en la superficie, nacerá la responsabilidad con sólo establecer la existencia del daño y su origen.
+
+Esta responsabilidad recaerá sobre quien tenga, ya sea la propiedad, ya la posesión de la aeronave.
+
+Para los efectos de este artículo se entiende por operación de una aeronave todo movimiento de la misma en tierra o durante el vuelo, realizado bajo sus propios medios motores.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 352.
 
-Será motivo de permiso especial expedido por la Secretaría de Comunicaciones, en cada caso, el transporte aéreo de explosivos, armas, municiones, material de guerra, gases asfixiantes, palomas mensajeras y aparatos aerofototopográficos (sic) desempacados.
+La indemnización por los daños a que se refiere el artículo anterior, no excederá del límite máximo correspondiente a cada tipo de aeronave, de acuerdo con la siguiente tabla:
+
+Aeronaves hasta de 5,000 kgs. de peso bruto la cantidad $ 60,000.00
+
+Aeronaves hasta de 20,000 kgs. de peso bruto la cantidad $ 150,000.00
+
+Aeronaves hasta de 40,000 kgs. de peso bruto la cantidad $ 300,000.00
+
+Aeronaves de más de 40,000 kgs. de peso bruto la cantidad $ 600,000.00
+
+Cuando sean varias las personas dañadas, la indemnización, sin exceder los máximos establecidos, se distribuirá proporcionalmente a los daños sufridos.
+
+Los propietarios o poseedores de aeronaves garantizarán el pago de la indemnización a su cargo, mediante contrato de seguro con institución debidamente autorizada o depósito en la Nacional Financiera S. A., por el importe de la responsabilidad máxima respectiva. En el caso de propietarios o poseedores de dos o más aeronaves, el seguro o depósito se constituirá por el doble de cualquiera que sea el número de aeronaves que operen.
+
+El seguro o el depósito se constituirán dentro de los quince días siguientes a la fecha de la obtención de la concesión, del permiso o de la matrícula correspondiente.
+
+La Secretaría de Comunicaciones determinará en qué casos deben cumplir esta obligación los propietarios extranjeros de aeronaves de servicio privado.
+
+Las garantías se mantendrán vivas por el plazo de vigencia de la concesión, permiso de matrícula.
+
+Las personas físicas y morales que no hubieren garantizado el pago de las indemnizaciones establecidas en este artículo, no gozarán del beneficio de limitación de responsabilidad.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 353.
 
-Los hechos y actos jurídicos ocurridos en cualquier aeronave, durante su vuelo, se someterán al conocimiento de las autoridades de la República, si el primer lugar en que aterricen o acuaticen está en territorio nacional.
+Tanto el propietario como el poseedor de la aeronave, estarán exentos de la responsabilidad establecida en esta Sección:
+
+I.- Cuando los daños provengan de falta propia de la víctima o cuando sean el resultado de actos cometidos por un tercero con la intención de causar daño a la aeronave, a la víctima o a las cosas.
+
+II.- Cuando la persona que opere la aeronave, lo haga sin su consentimiento. No obstante, deberá demostrar que, habiendo tomado las medidas preventivas necesarias, le fué imposible evitar el uso ilegítimo, sin cuyo requisito será solidariamente responsable con el autor del daño.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 354.
 
-Los hechos y actos jurídicos que ocurran a bordo de las aeronaves mexicanas durante el vuelo, se someterán a las leyes de la República si dichas aeronaves navegan sobre territorio o aguas nacionales o mares no territoriales.
+En los casos de colisión de dos o más aeronaves, los propietarios o poseedores serán solidariamente responsables por los daños causados a los terceros, a los bienes en la superficie, cada uno dentro de los límites establecidos.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 355.
 
-Los hechos y actos jurídicos que ocurran durante el vuelo de las aeronaves nacionales se registrarán en el Diario de Navegación y se pondrán en conocimiento de las autoridades locales del primer lugar de aterrizaje o acuatizaje en la República o del Cónsul Mexicano si estas maniobras se realizan en territorio extranjero, considerándose los hechos y actos en este caso como ocurridos en territorio de la República.
+El derecho a percibir la indemnización correspondiente a los daños sufridos a que se refiere esta Sección y la fijación de su monto, se sujetarán a las disposiciones aplicables del Código Civil para el Distrito y Territorios Federales.
+
+Las acciones para exigir esta indemnización, prescribirán en un año, a partir de la fecha en la cual ocurrieron los hechos.
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 1950)</small>
+
+#### SECCION CUARTA. Disposiciones varias
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 356.
 
-El transporte aéreo de cadáveres, enfermos contagiosos y alienados, se regirá por las disposiciones de las leyes respectivas y sus reglamentos.
+Ninguna de las disposiciones de este capítulo obstará para el ejercicio de las acciones penales que correspondan.
+
+Será nula de pleno derecho toda cláusula que se inserte en los contratos de transporte con objeto de establecer límites de responsabilidad inferiores a los previstos en el artículo 343 de esta ley, o que establezcan causas de exoneración de la responsabilidad distintas de las previstas en esta Sección. La nulidad de dicha cláusula no implicará la del contrato de transporte.
+
+Sin embargo, la empresa de transporte y los pasajeros podrán convenir en indemnizaciones o garantías superiores a las fijadas en este capítulo.
+
+El cumplimiento de los términos de esta ley de las obligaciones derivadas de la responsabilidad a que la misma se refiere, liberará a quienes la tuvieren a su cargo de toda responsabilidad civil, contractual o extracontractual.
+
+Las responsabilidades por daños sufridos por tripulaciones, empleados o trabajadores al servicio de las personas físicas o morales que tengan a su cargo la operación de las aeronaves civiles, se regirá por las disposiciones aplicables de la Ley Federal del Trabajo y demás leyes relativas.
+
+(REFORMADO, D.O.F. 23 DE ENERO DE 1950) (F. DE E., D.O.F. 11 DE MAYO DE 1950)
 
 ###### ARTICULO 357.
 
-Al término de la concesión, el Gobierno podrá comprar la línea con todos sus terrenos, estaciones, servicios auxiliares, almacenes, talleres y demás dependencias, así como su material de vuelo, útiles, muebles y enseres, al precio que a la línea fijaren peritos nombrados uno por el Gobierno, otro por el interesado y un tercero para el caso de discordia, nombrado por ambas partes o por el Juez de Distrito, en caso de que las mismas no se pusieren de acuerdo.
+Las controversias de orden civil que se susciten con motivo de cualquier accidente sufrido por una aeronave o causado por ésta, se tramitarán y decidirán de acuerdo con el artículo 4o. de esta Ley.
 
-### CAPITULO V. Instalaciones para servicios especiales
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 1950)</small>
+
+### CAPITULO XIV. De los accidentes y de la búsqueda y salvamento
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 358.
 
-Aeródromo es toda superficie de tierra o agua adaptada para el despegue, aterrizaje o acuatizaje de aeronaves.
+Corresponde a la Secretaría de Comunicaciones la investigación de los accidentes sufridos por aeronaves civiles. Concluída la investigación, que se llevará a cabo con audiencia de los interesados, dicha dependencia determinará la causa probable del accidente y, en su caso, impondrá las sanciones y deducirá las responsabilidades administrativas que procedan. Si hay lugar a ello, pondrá los hechos en conocimiento de la autoridad competente.
 
-Aeropuerto es un aeródromo que cuenta con las instalaciones de los servicios necesarios para la navegación y para la conservación de las aeronaves. Todos los aeródromos y aeropuertos, ya sean públicos o privados, deberán registrarse en la Secretaría de Comunicaciones de acuerdo con el Reglamento respectivo.
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 359.
 
-La Secretaría de Comunicaciones fijará los lugares que servirán como aeropuertos internacionales o de entrada; los que se considerarán oficiales y dependerán directamente de esta misma Secretaría.
+La búsqueda y salvamento en el caso de accidentes de aeronaves civiles son de interés público y por lo tanto las autoridades, las empresas de transporte aéreo y los particulares están obligados a participar en ellos en la esfera de sus respectivas atribuciones y posibilidades, conforme a las disposiciones del Reglamento sobre Búsqueda y Salvamento y a las siguientes bases:
+
+I.- Las operaciones de búsqueda y salvamento se realizarán siempre bajo la dirección y control de la Secretaría de Comunicaciones y los gastos que se originen en el rescate de las víctimas serán por cuenta de la empresa operadora de la aeronave.
+
+II.- Cualquier persona que tenga conocimiento de un accidente aéreo, deberá dar parte a la autoridad más próxima, la que estará obligada a comunicarlo por la vía más rápida a la Secretaría de Comunicaciones. A falta de comandante de la aeronave o de autoridad aeronáutica competente, la primera autoridad que acuda al lugar del accidente tomará bajo su responsabilidad la aeronave, los equipajes, la carga y el correo y proveerá lo necesario para la protección y auxilio de los pasajeros y tripulación.
+
+III.- Los inspectores de aeronáutica o en su defecto el comandante del aeródromo más cercano tienen la obligación de acudir personalmente al lugar donde haya ocurrido un accidente, de tomar las medidas pertinentes y de dar cuenta inmediata y pormenorizada a la Secretaría de Comunicaciones.
+
+IV.- La Secretaría de Comunicaciones creará en todo el país Centros Auxiliares de Búsqueda y Salvamento.
+
+V.- Los propietarios o poseedores de aeronaves o sus representantes legales o agentes y los pilotos al mando de las respectivas aeronaves, tienen la obligación de dar parte inmediata a la Secretaría de Comunicaciones de cualquier accidente que sufran sus aeronaves.
+
+VI.- Las empresas de transporte aéreo tendrá la obligación, una vez que tengan informes precisos de un accidente sufrido en sus naves o cuando consideren perdida alguna de las mismas, de proporcionar un boletín a las personas interesadas con los informes que tengan al respecto.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 360.
 
-Los aeródromos y aeropuertos, aun cuando sean de uso privado, tendrán la obligación de permitir el aterrizaje de aeronaves, las que para el caso se sujetarán a los requisitos señalados por esta Ley y sus Reglamentos. Las estaciones meteorológicas de los aeródromos o aeropuertos, aun cuando éstos sean de uso privado, tendrán la obligación de dar servicio a todos los pilotos que lo soliciten, mediante el pago de las cuotas que apruebe la Secretaría.
+Se considerará perdida una aeronave en los siguientes casos:
+
+I.- Por declaración del propietario o poseedor, bajo protesta de decir la verdad, sujeta a comprobación por parte de la Secretaría de Comunicaciones.
+
+II.- Cuando transcurridos tres meses desde la fecha en que se tuvieron las últimas noticias oficiales o particulares de la aeronave, se ignore su paradero.
+
+En ambos casos la Secretaría de Comunicaciones declarará la pérdida y cancelará las inscripciones correspondientes.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 361.
 
-Todos los aeródromos y aeropuertos estarán sujetos a la inspección de la Secretaría de Comunicaciones en los términos de esta Ley y sus Reglamentos.
+La Secretaría de Comunicaciones hará la declaración de abandono y con intervención de las demás autoridades competentes determinará la disposición de la aeronave y los efectos que en ella se encuentren.
 
-### CAPITULO VI. Instalaciones radiodifusoras comerciales, culturales, de experimentación científica y de aficionados
+Se considerará abandonada una aeronave:
+
+I.- Cuando así lo declare el propietario o poseedor ante la Secretaría de Comunicaciones.
+
+II.- Cuando por un término de noventa días, permanezca en un aeródromo sin efectuar operaciones y no se halle bajo el cuidado, directa o in directamente, de su propietarios o poseedor.
+
+III.- Cuando carezca de matrícula y se ignoren el nombre del propietario y el lugar de procedencia.
+
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 1950)</small>
+
+### CAPITULO XV. De los gravámenes
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 362.
 
-Para construir y explotar aeródromos o aeropuertos destinados al servicio público, se requerirá concesión otorgada por la Secretaría de Comunicaciones, la que no podrá exceder del término de veinte años. La Secretaría de Comunicaciones para el establecimiento de aeropuertos en el territorio nacional, tendrá presente lo prevenido en los artículos 3 y 8 de esta Ley e informará trimestralmente a la de la Defensa Nacional de los aeródromos que se construyan. La construcción y administración de aeropuertos para el acuatizaje, queda reservada a la misma Secretaría de Comunicaciones la que sólo en casos excepcionales autorizará a particulares para construirlos y explotarlos por un término que nunca excederá de cinco años.
+Son susceptibles de Hipoteca:
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1948)</small>
+I.- Las aeronaves.
+
+II.- La unidad completa de una empresa de transporte aéreo, en cuyo caso la hipoteca comprenderá las concesiones o permisos respectivos y, salvo estipulación expresa, el equipo de vuelo, las instalaciones de ayuda a la navegación, los motores, hélices, aparatos de radio, instrumentos, equipos, avíos, combustibles, lubricantes y demás bienes muebles o inmuebles destinados a la explotación y considerados en su unidad.
+
+> <small>(F. DE E., D.O.F. 11 DE MAYO DE 1950)</small>
+
+La hipoteca que se trata en esta fracción, sólo podrá constituirse previa autorización de la Secretaría de Comunicaciones.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 363.
 
-Los aeropuertos y aeródromos construídos por el Gobierno Federal para usos civiles y los que operan al amparo de concesión otorgada en los términos de esta Ley, deberán estar abiertos al servicio público, cobrando los aterrizajes y servicios de acuerdo con las cuotas que previamente se aprueben por la Secretaría de Comunicaciones.
+Podrá ser objeto de prenda los motores, hélices, piezas de repuesto, aparatos de radio, instrumentos y demás equipos.
+
+Para que se tenga por constituída la prenda, deberá entregarse al acreedor real o jurídicamente.
+
+> <small>(F. DE E., D.O.F. 11 DE MAYO DE 1950)</small>
+
+En uno y otro caso sufrirá efectos contra tercero a partir de la fecha de inscripción en el Registro Aeronáutico Mexicano. Del asiento respectivo se remitirá copia autorizada al Registro Público de la Propiedad de la ciudad de México para los fines que procedan.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 364.
 
-Los propietarios de aeropuertos o aeródromos públicos o privados, están obligados a permitir el uso gratuito de ellos a todas las aeronaves del Gobierno Federal o de los Estados en servicio oficial.
+Los contratos de hipoteca y prenda contendrán, además de los requisitos exigidos por las leyes aplicables, una descripción de la aeronave y de los equipos hipotecarios o pignorados, la mención de la marca de nacionalidad y matrícula, el nombre de fabricante y el número de serie o, en su defecto, los datos que de manera indubitable identifiquen la aeronave y, en su caso, los demás bienes comprendidos en la hipoteca o la prenda.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 365.
 
-En los linderos de cualquier aeródromo o aeropuerto no podrán construirse muros, edificios u otras obras, ni tenderse líneas de transmisión eléctrica o hacerse plantaciones de ningún género, cuyas alturas sean mayores de la vigésima parte de distancia al lindero, o que por su naturaleza constituyan un peligro para la seguridad de las aeronaves.
+Son preferentes a los créditos hipotecarios los fiscales, los derivados del salvamento de la aeronave y los que provengan de erogaciones extraordinarias indispensables para la conservación de la aeronave.
+
+Además de la preferencia que este artículo establece, los acreedores por los dos últimos conceptos indicados gozarán del derecho de retención.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 366.
 
-Las causas y responsabilidades de los accidentes sufridos por aeronaves, serán determinadas por la Secretaría de Comunicaciones, y toda reclamación que se haga con motivo de aquéllos deberá fundarse precisamente en el resultado de la investigación que practique la propia Dependencia Oficial.
+En los casos de embargo o cualquier otro aseguramiento judicial de aeronaves destinadas a un servicio público de transporte, la autoridad que hubiere decretado la medida proveerá lo necesario para que no se interrumpa el servicio y pondrá el hecho inmediatamente en conocimiento de la Secretaría de Comunicaciones.
 
-### CAPITULO VII. Instalaciones a bordo
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 1950)</small>
+
+### CAPITULO XVI. De las industrias y escuelas aeronáuticas y de los clubes aéreos
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 367.
 
-El auxilio y salvamento en caso de accidentes aéreos, son de interés público y todas las autoridades y particulares están obligados a facilitarlos por todos los medios que estén a su alcance. Las maniobras de salvamento deberán hacerse con todo cuidado, a efecto de no cambiar, hasta donde sea posible, la posición de los restos de la aeronave, con objeto de facilitar las investigaciones y estudios posteriores.
+Se consideran de utilidad pública:
+
+I.- El establecimiento de fábricas de aeronaves, motores y accesorios y de talleres aeronáuticos.
+
+> <small>(F. DE E., D.O.F. 11 DE MAYO DE 1950)</small>
+
+II.- Las escuelas y centros de investigaciones aeronáuticas.
+
+III.- Los clubes aéreos y de aeromodelismo.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 368.
 
-Si después del plazo de tres meses contados a partir de los últimos informes que se hubieren recibido del vuelo de una aeronave, no se tuvieren noticias de ella, la Secretaría de Comunicaciones la declarará perdida dentro de los quince días siguientes al plazo antes señalado.
+La Secretaría de Comunicaciones, de acuerdo con la de la Economía Nacional, otorgará las concesiones para el establecimiento de fábricas de aeronaves, motores y accesorios.
+
+Los concesionarios quedarán obligados a someter sus productos a las pruebas que exija la Secretaría de Comunicaciones para que, si procediere, se les expida el certificado de aprobación, que los autorizará para fabricar otras unidades del mismo tipo.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 369.
 
-Salvo casos de fuerza mayor o fortuitos, el comandante es directamente responsable, ante el dueño de la aeronave, por la destrucción parcial o total de ésta o su abandono.
+Las escuelas aeronáuticas cuando sean de carácter privado funcionarán con permiso revocable y temporal de la Secretaría de Comunicaciones y bajo la inspección y vigilancia técnica de la misma.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 370.
 
-El propietario de una aeronave será solidariamente responsable con el comandante o piloto, por los daños que se causen con la misma, salvo casos fortuitos o de fuerza mayor, siempre que comprueben haber tomado todas las medidas razonables y técnicas indicadas para evitar el daño, o si la operación de la aeronave ha sido ordenada por la autoridad competente.
+Los clubes aéreos y de aeromodelismo se organizarán como asociaciones civiles y sus actividades quedarán sujetas a la inspección y vigilancia de la Secretaría de Comunicaciones, la cual les proporcionará asesoría cuando la soliciten.
 
-### CAPITULO I. Del correo en general
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 1950)</small>
+
+### CAPITULO XVII. Del Registro Aeronáutico Mexicano
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 371.
 
-Serán también solidariamente responsables el propietario y el comandante o piloto de una aeronave, por cualquier violación de esta Ley o sus Reglamentos, resultante de órdenes dictadas por el primero.
+La Secretaría de Comunicaciones llevará un registro que se denominará Registro Aeronáutico Mexicano en el cual se inscribirán:
+
+I.- Los títulos por los cuales se adquiera, transmita, modifique, grave o extinga el dominio, los demás derechos reales o la posesión, así como los arrendamientos o alquileres sobre:
+
+a).- Las aeronaves mexicanas.
+
+b).- Los aeródromos civiles.
+
+c).- Las instalaciones aeronáuticas, aerofaros, radioguías, estaciones radiogoniométricas, radiolocalizadores y demás ayudas a la navegación aérea.
+
+d).- Los motores de las aeronaves.
+
+II.- Las concesiones y permisos que amparen el transporte aéreo y los actos y resoluciones que los modifiquen o extingan.
+
+> <small>(F. DE E., D.O.F. 11 DE MAYO DE 1950)</small>
+
+III.- Las licencias del personal aeronáutico mexicano, sus renovaciones, suspensiones y cancelaciones.
+
+Al margen de la inscripción que corresponda se anotarán:
+
+a).- Las marcas de nacionalidad y matrícula de las aeronaves, sus modificaciones y cancelaciones.
+
+b).- Los certificados de aeronavegabilidad, sus renovaciones y cancelaciones.
+
+c).- Las pólizas del seguro.
+
+El reglamento del Registro Aeronáutico Mexicano determinará: su composición; las formalidades de las inscripciones y sus anotaciones; las certificaciones que deban expedirse, así como los derechos que se causen.
+
+(REFORMADO, D.O.F. 23 DE ENERO DE 1950)(F. DE E., D.O.F. 11 DE MAYO DE 1950)
 
 ###### ARTICULO 372.
 
-En caso de accidente, el comandante, piloto o quien le suceda en su cargo, la persona bajo cuya custodia queden confiados los efectos salvados, serán responsables de los mismos, entre tanto no sean recogidos por la autoridad competente.
+Los documentos que conforme al artículo anterior deban inscribirse en el Registro Aeronáutico Mexicano y no se registren, sólo producirán efectos entre quienes los otorguen, pero no contra tercero, el cual sí podrá aprovecharlos en cuanto le fueron favorables.
 
-Los equipajes de los pasajeros y la tripulación, serán entregados desde luego a sus legítimos propietarios, o a sus representantes o herederos, previa identificación y recibo.
+Sin embargo, salvo lo dispuesto por el artículo 363, si la inscripción debiere efectuarse también en el Registro Público de la Propiedad, conforme al artículo 6º de esta ley y las disposiciones relativas del Código Civil para el Distrito y Territorios Federales, se estará a lo dispuesto en el propio Código.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 373.
 
-Las aeronaves abandonadas por más de dos meses en territorio o aguas nacionales, así como los objetos que se encuentren a bordo, pasarán a poder de la Nación y serán puestos a disposición de la Secretaría de Comunicaciones, la que de acuerdo con la de Hacienda, les dará el destino que corresponda.
+El registro de matrícula de una aeronave podrá cancelarse:
+
+a).- A solicitud escrita del propietario de la aeronave o del titular del certificado de matrícula.
+
+b).- Por orden de autoridad competente.
+
+c).- En caso de destrucción o pérdida de la aeronave.
+
+d).- Cuando la aeronave no llene las condiciones de navegabilidad reglamentarias.
+
+e).- Por vencimiento del plazo, cuando esté sujeta a término la vigencia de la matrícula respectiva.
+
+f).- Por abandono de la aeronave.
+
+g).- Por cualquiera otra causa que señalen los reglamentos.
+
+No podrá cancelarse en el registro de matrícula de una aeronave sujeta a gravamen sin el consentimiento del acreedor.
 
 # LIBRO QUINTO. Comunicaciones Eléctricas
 
-### CAPITULO II. Clasificación de las correspondencias
+### CAPITULO I. De las instalaciones en general
 
 ###### ARTICULO 374.
 
@@ -2970,7 +3472,7 @@ IV.- A las comunicaciones que señalen los reglamentos especiales.
 
 Toda instalación eléctrica, aun cuando no esté destinada a la Comunicación, se sujetará a las disposiciones que dicte la Secretaría de Comunicaciones para evitar perturbaciones a la comunicación por radio.
 
-### CAPITULO III. De los objetos prohibidos
+### CAPITULO II. De la Red Nacional
 
 ###### ARTICULO 386.
 
@@ -3028,7 +3530,7 @@ Por causa de utilidad pública, la Secretaría de Comunicaciones podrá conceder
 
 Las formas y sobres adoptados para la correspondencia que se curse por las comunicaciones eléctricas de la Red Nacional, sólo serán usados en dicho servicio. Quedan prohibidas, por tanto , la reproducción e imitación de dichas formas y sobres, o su uso para fines diferentes del expresado.
 
-### CAPITULO IV. Del franqueo y derechos postales
+### CAPITULO III. Instalaciones incorporadas a la Red Nacional
 
 ###### ARTICULO 392.
 
@@ -3050,7 +3552,7 @@ V.- En los casos de instalaciones telegrafónicas para servicios privados, los i
 
 VI.- Para garantizar el importe de los mensajes transmitidos y de los servicios conexos que no tengan como destino final el lugar de adscripción, tratándose de oficinas telegrafónicas, el interesado constituirá un deposito en efectivo, cuyo monto fijará la Secretaría de Comunicaciones.
 
-### CAPITULO V. Inviolabilidad de la correspondencia
+### CAPITULO IV. Instalaciones telefónicas
 
 ###### ARTICULO 394.
 
@@ -3076,7 +3578,7 @@ Los concesionarios y permisionarios de instalaciones telefónicas están obligad
 
 Se exceptúan de lo estipulado en el artículo 61 de esta Ley, las cuotas para servicios telefónicos en los casos de tarifas decrecientes en relación con la distancia, que previamente hayan sido aprobadas por la Secretaría de Comunicaciones.
 
-### CAPITULO VI. Del monopolio
+### CAPITULO V. Instalaciones para servicios especiales
 
 ###### ARTICULO 400.
 
@@ -3090,7 +3592,7 @@ Las instalaciones de comunicaciones eléctricas destinadas a servicios especiale
 
 Las instalaciones de comunicaciones eléctricas para servicios especiales, pagarán la cuota que determine la Secretaría de Comunicaciones, en cada caso.
 
-### CAPITULO VII. Franquicia postal
+### CAPITULO VI. Instalaciones radiodifusoras comerciales, culturales, de experimentación científica y de aficionados
 
 ###### ARTICULO 403.
 
@@ -3168,7 +3670,7 @@ VI.- La potencia de los equipos transmisores y exactitud de las ondas de cada es
 
 VII.- Las disposiciones reglamentarias que se requieran para mantener en todo tiempo el control y la vigilancia del Gobierno Federal sobre las estaciones inalámbricas.
 
-### CAPITULO VIII. De las tarifas postales
+### CAPITULO VII. Instalaciones a bordo
 
 ###### ARTICULO 416.
 
@@ -3198,7 +3700,7 @@ Las estaciones de barcos nacionales y extranjeros fondeados en puertos mexicanos
 
 # LIBRO SEXTO. Comunicaciones postales
 
-### CAPITULO IX. Del depósito, cambio de dirección, reexpedición, entrega y devolución de los envíos
+### CAPITULO I. Del correo en general
 
 ###### ARTICULO 421.
 
@@ -3258,7 +3760,7 @@ III.- Circulares impresas, grabadas, litografiadas o reproducidas por cualquier 
 
 IV.- Papeles de negocios en general, que no tengan carácter actual y personal, según se detallen en el reglamento respectivo.
 
-### CAPITULO X. Rezagos
+### CAPITULO II. Clasificación de las correspondencias
 
 ###### ARTICULO 427.
 
@@ -3334,7 +3836,7 @@ No se dará curso a las correspondencias no franqueadas, pero si por error fuere
 
 Tratándose de las correspondencias insuficientemente franqueadas, que carezcan del nombre y dirección del remitente, se les dará curso, cobrándose al destinatario el doble del porte faltante, al hacerse la entrega. Si son del servicio aéreo, deberán tener cubierto, cuando menos, el 75% del porte.
 
-### CAPITULO XI. De los envíos irregulares
+### CAPITULO III. De los objetos prohibidos
 
 ###### ARTICULO 440.
 
@@ -3384,7 +3886,7 @@ Las correspondencias que bajo cubierta cerrada circulen por el Correo, están li
 
 El Ejecutivo Federal ejerce el monopolio constitucional para conducir las correspondencias de primera clase a que se refieren las fracciones I y II del artículo 423; en consecuencia, ninguna empresa, corporación o individuo podrá desempeñar ese servicio.
 
-### CAPITULO XII. Servicio de correspondencias certificadas
+### CAPITULO IV. Del franqueo y derechos postales
 
 ###### ARTICULO 444.
 
@@ -3404,7 +3906,7 @@ VI.- En la correspondencia que las empresas de toda clase de medios de transport
 
 VII.- En la conducción de correspondencias entre dos puntos en que no haya servicio de Correos.
 
-### CAPITULO XIII. Del servicio de entrega inmediata
+### CAPITULO V. Inviolabilidad de la correspondencia
 
 ###### ARTICULO 445.
 
@@ -3466,7 +3968,7 @@ Los remitentes se considerarán propietarios de los envíos postales, mientras e
 
 Los destinatarios de los envíos postales tendrán los mismos derechos que establecen las fracciones II y IV del artículo anterior, para los remitentes, cuando éstos no hayan formulado alguna solicitud en contrario.
 
-### CAPITULO XIV. Del servicio postal aéreo
+### CAPITULO VI. Del monopolio
 
 ###### ARTICULO 452.
 
@@ -3538,7 +4040,7 @@ Las correspondencias ordinarias y registradas permanecerán a disposición de lo
 
 Las correspondencias que dentro de los plazos que determinen los reglamentos, no pudieren ser entregadas a los destinatarios o remitentes, se enviarán a la Dirección General de Correos y Telégrafos con el carácter de rezagos. Dichas correspondencias estarán sujetas a ser vendidas, rematadas, destruidas, o a ser objeto de cualquier acto de disposición por parte del correo, en los términos de las disposiciones reglamentarias.
 
-### CAPITULO XV. Del servicio de reembolsos
+### CAPITULO VII. Franquicia postal
 
 ###### ARTICULO 469.
 
@@ -3562,13 +4064,13 @@ VI.- Los que se despachan en sobres con ventanilla transparente cuando no se re�
 
 Las correspondencias a que se refiere este artículo, recibirán el tratamiento que determine el reglamento.
 
-### CAPITULO XVI. Servicio de seguros postales
+### CAPITULO VIII. De las tarifas postales
 
 ###### ARTICULO 471.
 
 El servicio de correspondencias registradas, consiste en la conducción de los envíos que circulen por Correo mediante registros especiales para cada pieza, estando obligadas las oficinas postales a otorgar al remitente una constancia del depósito y a recabar la firma del destinatario para comprobar su entrega.
 
-### CAPITULO XVII. Servicio postal de ahorros
+### CAPITULO IX. Del depósito, cambio de dirección, reexpedición, entrega y devolución de los envíos
 
 ###### ARTICULO 472.
 
@@ -3586,7 +4088,7 @@ III.- Por haber transcurrido seis meses, contados desde la fecha en que se hubie
 
 IV.- Por pérdidas de las correspondencias certificadas ocasionadas por caso fortuito o fuerza mayor, salvo o dispuesto especialmente para seguros postales.
 
-### CAPITULO XVIII. Servicio de giros postales
+### CAPITULO X. Rezagos
 
 ###### ARTICULO 474.
 
@@ -3612,7 +4114,7 @@ III.- Las demás que establezcan los reglamentos.
 
 El Correo no asume responsabilidad ninguna para con los remitentes de las correspondencias del servicio aéreo cuando por casos fortuitos o fuerza mayor se suspendan o retarden los vuelos.
 
-### CAPITULO XIX. Servicios de vales postales
+### CAPITULO XI. De los envíos irregulares
 
 ###### ARTICULO 478.
 
@@ -3644,19 +4146,19 @@ I.- A declarar con exactitud el contenido y valor real de sus envíos; sin embar
 
 II.- A presentar sus envíos abiertos cuando se trate de billetes de banco, moneda y toda clase de valores al portador.
 
-### CAPITULO XX. Tarjetas de identidad
+### CAPITULO XII. Servicio de correspondencias certificadas
 
 ###### ARTICULO 483.
 
 Las reclamaciones por deterioro o pérdida parcial o total de los seguros postales, deberán presentarse por los remitentes dentro del plazo de un año, contado desde la fecha del depósito del envío.
 
-### CAPITULO XXI. Cheques postales para viajeros
+### CAPITULO XIII. Del servicio de entrega inmediata
 
 ###### ARTICULO 484.
 
 En casos excepcionales y a juicio de la Dirección General de Correos y Telégrafos, se concederán a los destinatarios el pago del seguro en substitución del remitente.
 
-### CAPITULO XXII. Contestación por cobrar de propaganda comercial
+### CAPITULO XIV. Del servicio postal aéreo
 
 ###### ARTICULO 485.
 
@@ -3670,13 +4172,13 @@ III.- Si los interesados no se presentan a cobrar la indemnización una vez tran
 
 IV.- Por el pago de la indemnización correspondiente.
 
-### CAPITULO XXIII. Servicios de correogramas y entregas extrarrápidas a domicilio
+### CAPITULO XV. Del servicio de reembolsos
 
 ###### ARTICULO 486.
 
 Los fondos del servicio postal de ahorros sólo podrán ser destinados al pago de los depósitos que se hagan y prestaciones inherentes al mismo servicio.
 
-### CAPITULO XXIV. De la conducción de correspondencias
+### CAPITULO XVI. Servicio de seguros postales
 
 ###### ARTICULO 487.
 
@@ -3684,7 +4186,7 @@ Por todo depósito de dos pesos o mayor cantidad que se haga, se abonará, a con
 
 En ningún caso se abonarán intereses por cantidades mayores de dos mil pesos.
 
-### CAPITULO XXV. Disposiciones generales
+### CAPITULO XVII. Servicio postal de ahorros
 
 ###### ARTICULO 488.
 
@@ -3694,7 +4196,7 @@ Los ahorros menores de dos pesos se harán por medio de timbres especiales que s
 
 Los menores de edad podrán obtener certificados de ahorros, sin la intervención de sus padres o tutores, pero no los podrán hacer efectivos sin esa intervención, salvo cuando hayan cumplido dieciséis años de edad.
 
-### CAPITULO UNICO
+### CAPITULO XVIII. Servicio de giros postales
 
 ###### ARTICULO 490.
 
@@ -3720,9 +4222,13 @@ Las personas que otorguen conocimientos para el cobro de un giro postal en favor
 
 El derecho al cobro de los giros postales prescribe en un plazo de tres años contados desde la fecha de su expedición.
 
+### CAPITULO XIX. Servicios de vales postales
+
 ###### ARTICULO 496.
 
 Los giros postales circulares no se expedirán por cantidades menores de cien pesos, ni mayores de cinco mil, y serán pagaderos parcial o totalmente en cualquier Administración de Correos y Telégrafos autorizada para desempeñar el servicio de giros postales.
+
+### CAPITULO XX. Tarjetas de identidad
 
 ###### ARTICULO 497.
 
@@ -3748,6 +4254,8 @@ Los vales postales no serán endosables.
 
 En caso de extravío podrán expedirse duplicados por las oficinas de origen en la forma que prescriba el reglamento respectivo.
 
+### CAPITULO XXI. Cheques postales para viajeros
+
 ###### ARTICULO 502.
 
 El importe de los vales postales podrá reintegrarse al remitente previo recibo extendido al reverso del vale original o de su duplicado.
@@ -3770,6 +4278,8 @@ Los cheques postales para viajeros sin libramientos nominativos, endosables, con
 
 Estos cheques estarán autorizados con la firma autógrafa de los jefes de las Oficinas de Correos y Telégrafos que los expidan y serán pagados a la vista y sin previo aviso en cualquiera de las Oficinas que la Dirección de Correos y Telégrafos haya autorizado para el desempeño del servicio de giros postales.
 
+### CAPITULO XXII. Contestación por cobrar de propaganda comercial
+
 ###### ARTICULO 507.
 
 Los cheques postales para viajeros se expedirán en cantidades ilimitadas, dentro de los valores que fija el artículo anterior, y causarán el premio que señale el Ejecutivo de la Unión.
@@ -3778,9 +4288,13 @@ Los cheques postales para viajeros se expedirán en cantidades ilimitadas, dentr
 
 Prescribe el cobro de los cheques para viajeros, en un plazo de tres años contados desde la fecha de su expedición.
 
+### CAPITULO XXIII. Servicios de correogramas y entregas extrarrápidas a domicilio
+
 ###### ARTICULO 509.
 
 En los casos de robo o extravío de cheques postales para viajeros, no se expedirán duplicados, pero su importe será reintegrado a quien justifique tener derecho a ello, de acuerdo con las leyes respectivas.
+
+### CAPITULO XXIV. De la conducción de correspondencias
 
 ###### ARTICULO 510.
 
@@ -3796,9 +4310,13 @@ El servicio a que se refiere este capítulo consiste en entregar con extraordina
 
 Este servicio será desempeñado por personal contratado para el efecto en los términos que establezca el reglamento respectivo.
 
+### CAPITULO XXV. Disposiciones generales
+
 ###### ARTICULO 512.
 
 La conducción de correspondencias se hará de acuerdo con lo que establezcan las prescripciones reglamentarias respectivas, observándose respecto a la celebración de contratos, las normas que establece este capítulo.
+
+### CAPITULO UNICO
 
 ###### ARTICULO 513.
 
@@ -3986,87 +4504,207 @@ Los agentes auxiliares de la Policía Marítima y Territorial y los celadores de
 
 El capitán o armador de alguna embarcación que ostente en ella banderas o distintivos que no le correspondan o que no estén aprobados por la Secretaría de Comunicaciones, sufrirá una multa hasta por la cantidad de mil pesos.
 
+(REFORMADO, D.O.F. 23 DE ENERO DE 1950) (F. DE E., D.O.F. 11 DE MAYO DE 1950)
+
 ###### ARTICULO 555.
 
-La circulación de aeronaves no inscritas en el registro de la Secretaría de Comunicaciones, se castigará con una multa de doscientos a mil pesos. En la misma pena incurrirán los propietarios de aeronaves extranjeras que sin autorización previa del Gobierno Mexicano, vuelen, aterricen o acuaticen dentro de las fronteras del país, o en aguas territoriales mexicanas, salvo casos fortuitos o de fuerza mayor.
+Se impondrá multa de doscientos cincuenta a cincuenta mil pesos, al propietario, poseedor u operador de aeronave (sic) civiles, en los siguientes casos:
 
-> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1942)</small>
+I.- Por permitir que la aeronave transite:
+
+a).- Sin marcas de nacionalidad y matrícula.
+
+b).- Sin certificado de aeronavegabilidad, o certificado de matrícula, o cuando tales documentos estén vencidos o sean falsos.
+
+c).- Tripulada por personas que carezcan de la licencia correspondiente.
+
+d).- Sin los instrumentos de seguridad y equipo (sic) de auxilio que corresponda.
+
+e).- Sin hacer uso de las instalaciones y de los servicios auxiliares de la navegación aérea, salvo casos de fuerza mayor.
+
+II.- Por matricular la aeronave en el Registro de otro Estado sin haber obtenido la cancelación de la matrícula mexicana.
+
+III.- Por alterar o modificar las marcas de nacionalidad y matrícula de la aeronave sin autorización de la Secretaría de Comunicaciones.
+
+IV.- Por ordenar al comandante o piloto de la aeronave actos que impliquen violación de esta ley o de sus reglamentos.
+
+V.- Por internar al país una aeronave extranjera, o por llevar una aeronave mexicana al extranjero, sin cumplir con los requisitos exigidos por la ley.
+
+VI.- Por no hacer del conocimiento de la Secretaría de Comunicaciones, de manera inmediata, los accidentes ocurridos a sus aeronaves.
+
+VII.- Por negarse a participar en las operaciones de búsqueda y salvamento.
+
+VIII.- Por permitir que su aeronave estorbe o impida el tránsito aéreo o la circulación en los aeródromos.
+
+IX.- Por cualquier violación a los reglamentos de los aeródromos.
+
+Tratándose de empresas de servicio público, el mínimo de la sanción será de cinco mil pesos.
+
+(REFORMADO, D.O.F. 23 DE ENERO DE 1950)(F. DE E., D.O.F. 11 DE MAYO DE 1950)
 
 ###### ARTICULO 556.
 
-La infracción del artículo 320, se sancionará con multa de un mil a cinco mil pesos, la que será impuesta discrecionalmente por la autoridad.
+Se impondrá multa de cincuenta a cinco mil pesos al piloto o comandante de cualquier aeronave civil:
+
+I.- Por no utilizar, durante la operación de la aeronave, los servicios de instalaciones, ayudas a la navegación aérea y demás servicios auxiliares de seguridad.
+
+II.- Por desobedecer las órdenes o instrucciones que reciba con respecto a tránsito aéreo.
+
+III.- Por tripular la aeronave sin llevar consigo la licencia respectiva, o sin las facultades que deben aparecer de la misma, o con la licencia suspendida o vencida. Igual sanción se impondrá a los demás miembros de la tripulación de vuelo que se encuentren en el mismo caso.
+
+IV.- Por permitir a cualquier persona que no sea miembro de la tripulación de vuelo tomar parte en las operaciones de la aeronave, salvo fuerza mayor comprobada.
+
+V.- Por transportar armas, artículos peligrosos, inflamables, explosivos y otros semejantes, sin la debida autorización.
+
+VI.- Por transportar enfermos contagiosos o mentales, o a cadáveres sin la autorización correspondiente.
+
+VII.- Por abandonar a la aeronave, a la demás tripulación, a los pasajeros, a la carga y demás efectos, en lugar que no sea precisamente el terminal del vuelo y sin causa grave justificada.
+
+VIII.- Por tripular la aeronave en estado de intoxicación alcohólica. Igual sanción se impondrá a cualquier miembro de la tripulación de vuelo que se encuentre en el mismo caso.
+
+IX.- Por permitir que un miembro de la tripulación de vuelo participe en las operaciones de la aeronave en estado de intoxicación alcohólica.
+
+X.- Por actos u omisiones que, activa o pasivamente, tiendan a la comisión del delito de contrabando.
+
+XI.- Por volar sobre zonas prohibidas.
+
+XII.- Por iniciar el vuelo sin cerciorarse de la vigencia del certificado de navegabilidad, de las licencias de la tripulación de vuelo, y de que la aeronave ostente las marcas de nacionalidad y matrícula.
+
+XIII.- Por permitir el uso de aparatos aerofotográficos, y aerotopográficos a bordo de la aeronave en vuelo, sin la debida autorización.
+
+XIV.- Por realizar vuelos acrobáticos, rasantes o de exhibición en lugares habitados.
+
+XV.- Por arrojar o tolerar que innecesariamente se arrojen desde la aeronave en vuelo, objetos o lastre.
+
+XVI.- Por realizar vuelos de demostración, pruebas técnicas o de instrucción, sin la debida autorización.
+
+XVII.- Por negarse a participar en las operaciones de búsqueda y salvamento.
+
+XVIII.- Por no participar inmediatamente a la Secretaría de Comunicaciones los accidentes que le ocurran o aquellos otros de que tenga conocimiento, por razón de sus funciones.
+
+XIX.- En caso de tripular una aeronave civil extranjera en vuelo de internación al país, por no aterrizar en los aeródromos civiles que hayan sido fijados en el permiso o autorización correspondiente.
+
+XX.- En el caso de tripular una aeronave civil extranjera, realizar o permitir que se realicen a bordo de la aeronave en vuelo, planificaciones aerofotográficas o aerotopográficas.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 557.
 
-La inscripción simultánea de una aeronave en el registro de la Secretaría de Comunicaciones y en algún otro registro extranjero, se sancionará con multa de cincuenta a quinientos pesos.
+Se impondrá multa de un mil a cincuenta mil pesos.
+
+I.- A las empresas de servicio público de transporte aéreo regular, mexicanas o extranjeras:
+
+a).- Por llevar a cabo operaciones en violación a las tarifas, itinerarios, frecuencias de vuelo y horarios aprobados por la Secretaría de Comunicaciones.
+
+b).- Por negar sin fundamento legal el libre acceso del público a los servicios.
+
+c).- Por incumplimiento de obligaciones contenidas en las concesiones o permisos respectivos y que, a juicio de la Secretaría de Comunicaciones, no ameriten declaración de caducidad, rescisión o revocación.
+
+d).- Por no efectuar de manera reglamentaria la conservación y mantenimiento de sus equipos de vuelo, aeródromos, instalaciones auxiliares y demás bienes que se relacionen con la seguridad y eficiencia del servicio.
+
+e).- Por no seguir las aerovías o no utilizar los aeropuertos que les hayan sido señalados en las concesiones o permisos respectivos.
+
+II.- A las empresas extranjeras de servicio público de transporte internacional, regular o no regular.
+
+a).- Cuando con motivo de un vuelo de simple tránsito, embarquen o desembarquen pasajeros, carga o correo.
+
+b).- Por llevar a cabo servicio de cabotaje en territorio mexicano.
+
+III.- A las empresas de servicio público de transporte aéreo no regular y a aquellas que realicen vuelos especiales de servicio público, por cobrar cuotas inferiores a las contenidas en las tarifas aprobadas para el desempeño del servicio de transporte aéreo regular.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 558.
 
-La infracción del artículo 327 será castigada con un mes a dos años de prisión y multa de cincuenta a quinientos pesos.
+Se impondrá multa de quinientos a cincuenta mil pesos:
+
+I.- A los propietarios, poseedores u operadores de aeronaves de servicio privado, destinadas a trabajos de aerofotografía, aerotopografía y otros análogos, por realizar o permitir que se realicen tales trabajos mediante extranjeros.
+
+II.- A los propietarios, poseedores u operadores de aeronaves de servicio privado, destinadas a aplicaciones científicas de la aviación civil, por preferir a extranjeros respecto de mexicanos, para la realización de tales trabajos.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 559.
 
-Se impondrá multa de cien a mil pesos y suspensión de licencias de uno a seis meses:
+Se impondrá multa de doscientos cincuenta a veinticinco mil pesos o prisión de seis meses a cinco años, a todo aquel que obstruya u obstaculice en cualquier forma o lo permita, las pistas, andenes y demás lugares de tránsito de los aeródromos.
 
-I.- A las tripulaciones de toda clase de aeronaves que no cumplan con las disposiciones relativas a seguridad general, con las regals (sic) sobre luces y señales y con las relativas al tránsito; y
-
-II.- A los que vuelen sobre el territorio nacional o sus aguas territoriales, sin que la seguridad de sus aeronaves haya sido certificada en la forma establecida por esta ley, su reglamento o en disposiciones ulteriores.
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 560.
 
-Se aplicarán de cincuenta a cien pesos de multa:
+Se impondrá multa de doscientos cincuenta a veinticinco mil pesos y prisión de seis meses a cinco años, a todo aquel que inunde o por negligencia permita que se inunde un aeródromo en todo o en parte.
 
-I.- A los que conduzcan aeronaves que carezcan de distintivos o marcas de nacionalidad y de matrícula; y
-
-II.- A los que conduzcan aeronaves sin llevar a bordo los documentos requeridos por la Ley.
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 561.
 
-Se castigará con multa hasta de cinco mil pesos y suspensión de licencias hasta por seis meses:
+Se impondrá multa de doscientos cincuenta a veinticinco mil pesos y prisión de seis meses a cinco años, a todo aquel que por medio de transmisiones radio técnicas, obstruya, interfiera o impida la radiocomunicación aeronáutica.
 
-I.- A los que transporten en aeronaves para usarlos a bordo, aparatos fotográficos o de cualquiera otra clase, destinados al levantamiento de planos sin la debida autorización. En este caso, se decomisarán dichos aparatos;
-
-II.- A los que admitan, en cualquier medio de transporte, explosivos, armas o municiones de guerra, sin la autorización legal correspondiente;
-
-III.- A los que vuelen sobre cualquier lugar habitado a menos de quinientos metros de altura; y
-
-IV.- A los pilotos de aeronaves que sin tener licencia conduzcan pasajeros.
+(REFORMADO, D.O.F. 23 DE ENERO DE 1950)(F. DE E., D.O.F. 11 DE MAYO DE 1950)
 
 ###### ARTICULO 562.
 
-El que indebidamente vuele en zonas prohibidas incurrirá en multa de cincuenta a mil pesos.
+Se impondrá multa de cincuenta a cinco mil pesos, a los miembros del personal técnico aeronáutico de tierra, por los actos u omisiones en el desempeño de sus atribuciones, que pongan o puedan poner en peligro la seguridad de las aeronaves y de los aeródromos e instalaciones auxiliares.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 563.
 
-Se impondrá multa de cincuenta a mil pesos y suspensión de licencia de uno a seis meses, a los pilotos que realicen vuelos de acrobacia, rasantes o de exhibición, sobre cualquier lugar habitado o concurrido.
+Se suspenderán hasta por seis meses las licencias del personal técnico aeronáutico, en aquellos casos en que lo juzgue necesario la Secretaría de Comunicaciones, por violación a las disposiciones sobre seguridad y eficiencia.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 564.
 
-Se impondrá una multa de cincuenta a dos mil pesos, al que arroje injustificadamente, de una aeronave durante su vuelo, objetos o lastres; igual pena se aplicarán al comandante o jefe de la aeronave, sin perjuicio de las penas establecidas en el Código Penal si del hecho anterior resultare la comisión de algún otro delito.
+La Secretaría de Comunicaciones revocará las licencias del personal aeronáutico cuando a su juicio y por contumacia, así lo merezcan.
+
+(REFORMADO, D.O.F. 23 DE ENERO DE 1950)(F. DE E., D.O.F. 11 DE MAYO DE 1950)
 
 ###### ARTICULO 565.
 
-Se impondrá multa de veinte a doscientos pesos a los tripulantes de aeronaves que, sin la autorización requerida por la Ley, realicen vuelos de prueba o de demostración técnica.
+Sin perjuicio de las sanciones pecuniarias a que se refiere el artículo 556, se castigará:
+
+I.- Al piloto o comandante que se encuentren en los casos de las fracciones I, III, V y IX del mismo artículo, con prisión hasta por seis meses, sin perjuicio de la suspensión a que se refiere el artículo 563.
+
+II.- Al piloto, comandante o miembro de la tripulación en los casos de las fracciones II, IV, VII, VIII y XVIII del propio artículo, prisión de seis meses a cinco años y revocación de la licencia respectiva.
+
+III.- Al piloto o comandante, en los casos de las fracciones XI y XIV, con suspensión hasta por seis meses de la licencia respectiva.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 566.
 
-Al que sin causa justificada se negare a aterrizar requerido para ello por la autoridad y al que viole el artículo 317, fracción III, se le aplicará de un mes a un año de prisión y multa de cincuenta a cinco mil pesos.
+Se impondrá multa de cincuenta a cinco mil pesos y prisión hasta por seis meses, al comandante o piloto de una aeronave, cuando realice vuelos después de que la aeronave haya sufrido reparaciones o modificaciones en su planeador, motores o hélices, sin haber pasado la inspección y obtenido la aprobación de la Secretaría de Comunicaciones, en los términos que establezca el reglamento.
+
+(REFORMADO, D.O.F. 23 DE ENERO DE 1950) (F. DE E., D.O.F. 11 DE MAYO DE 1950)
 
 ###### ARTICULO 567.
 
-Al que infrinja las disposiciones contenidas en los artículos 345 y 346 se le aplicará de uno a cinco años de prisión y perderá, en beneficio de la Nación, la aeronave que destine a las actividades a que se refieren dichos artículos.
+Se impondrá multa de cincuenta a cinco mil pesos al propietario, poseedor u operador de cualquier aeródromo civil:
+
+I.- Por no prestar, en los que tengan el carácter de aeropuertos, los servicios en la forma prevista en las concesiones respectivas y en esta Ley.
+
+II.- Por no permitir el aterrizaje de aeronaves que se encuentren en condiciones de emergencia.
+
+III.- Por no permitir el uso gratuito a las aeronaves de Estado, conforme a lo que establece el artículo 328 reformado, último párrafo, de esta Ley.
+
+(REFORMADO, D.O.F. 23 DE ENERO DE 1950)(F. DE E., D.O.F. 11 DE MAYO DE 1950)
 
 ###### ARTICULO 568.
 
-La falta de cumplimiento de las disposiciones legales respectivas a faros y señales por parte del personal encargado de su cuidado, se castigará con dos meses a un año de prisión.
+La falta de cumplimiento de las disposiciones relativas a faros y señales de seguridad en tierra o en las aeronaves, por parte del personal encargado de su cuidado, se castigará con prisión hasta por seis meses.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 569.
 
-Serán aplicables a la navegación aérea, en su caso, las disposiciones del Código Penal relativas a piratería.
+Se impondrá multa de cincuenta a cinco mil pesos o prisión hasta por seis meses a cualquiera persona que se niegue a tomar parte en operaciones de búsqueda y salvamento de aeronaves, si para ello fuere requerida por la autoridad. Igual sanción se aplicará a todo aquel que teniendo conocimiento directo de un accidente aéreo, no lo haga saber inmediatamente a las autoridades dependientes de la Secretaría de Comunicaciones, más próximas al lugar del accidente.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 570.
 
-Se impondrán de quince días a cuatro años de prisión al que inundare en todo o en parte un aeródromo o arrojare sobre él aguas de modo que causen daño.
+Se aplicarán a la navegación aérea, en su caso, las disposiciones del Código Penal para el Distrito y Territorios Federales relativas a la piratería.
 
 ###### ARTICULO 571.
 
@@ -4160,9 +4798,11 @@ Los funcionarios o empleados de Correos y Telégrafos que utilicen en asuntos ex
 
 Las órdenes de prisión dictadas contra empleados del Correo y del Telégrafo que manejen fondos públicos, no podrán ser ejecutadas antes de que los empleados hagan entrega formal de los fondos y valores que estuvieren a su cuidado, así como de los comprobantes relativos a su cuenta, sin perjuicio de asegurar convenientemente al responsable.
 
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+
 ###### ARTICULO 590.
 
-Cualquiera otra infracción a esta Ley o a sus Reglamentos que no esté expresamente prevista en este capítulo, será castigada gubernamentalmente con multa hasta de cinco mil pesos que la Secretaría de Comunicaciones impondrá discrecionalmente con audiencia de los interesados.
+Cualquiera otra infracción a esta Ley o a sus reglamentos que no esté expresamente prevista en este capítulo, será sancionada por la Secretaría de Comunicaciones, con multa hasta de cincuenta mil pesos.
 
 ###### ARTICULO 591.
 
@@ -4306,6 +4946,20 @@ D.O.F. 31 DE DICIEMBRE DE 1948.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
+D.O.F. 23 DE ENERO DE 1950.
+
+###### ARTICULO 1.
+
+El presente Decreto entrará en vigor 30 días después de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO 2.
+
+Continuarán aplicándose a las comunicaciones aeronáuticas las demás disposiciones de la Ley de Vías Generales de Comunicación, en cuanto no se oponga a las contenidas en este Decreto.
+
+###### ARTICULO 3.
+
+Se concede un plazo de tres meses, a partir de la fecha en que entre en vigor este Decreto, para que las aeronaves de Estado que carezcan de marcas de nacionalidad o que ostenten como marca de nacionalidad la sigla XB, soliciten de la Secretaría de Comunicaciones el cambio de dicha marca a la que se previene este Decreto.
+
 ###### ARTICULO 3.
 
 Las Vías Generales de Comunicació (sic) y los medios de transporte que operen en ellas, quedan sujetos exclusivamente a los Poderes Federales. El Ejecutivo ejercitará sus facultades por conducto de la Secretaría de Comunicaciones y Obras Públicas, en los siguientes casos y sin perjuicio de lo que establece la Ley de Secretarías de Estado y Departamento Autónomos, o de las facultades expresas que otros ordenamientos legales, concedan a la de la Economía Nacional.
@@ -4337,3 +4991,27 @@ XII.- Infracciones a esta ley o a sus reglamentos;
 XIII.- Toda cuestión de carácter administrativo relacionada con las vías generales de comunicación y medios de transporte.
 
 En los casos de las fracciones IV y V será indispensable la aprobación previa de la Secretaría de Hacienda y Crédito Público, siempre que los actos ejecutados en uso de esas facultades impliquen el gasto de fondos públicos, comprometan el crédito público o afecten bienes federales o que estén al cuidado del Gobierno.
+
+###### ARTICULO 4.
+
+Se concede un plazo de seis meses a partir de la fecha en que entre en vigor este Decreto:
+
+I.- A los titulares de permisos experimentales, para solicitar la concesión respectiva. La Secretaría de Comunicaciones procederá a la inmediata cancelación del permiso respectivo, si no se presenta dicha solicitud dentro del plazo fijado en este artículo, salvo el caso en que no hubiesen transcurrido los términos que señala el artículo 347 actual de la Ley de Vías Generales de Comunicación. Presentada la solicitud, el titulares del permiso podrá continuar prestando el servicio hasta que se resuelva sobre su solicitud de concesión.
+
+II.- A los titulares de permisos especiales y a los que gocen de permisos expedidos con apoyo en la fracción II del artículo noveno de la Ley de Vías Generales de Comunicación, para solicitar el permiso que corresponda en los términos de este Decreto. La Secretaría de Comunicaciones procederá a la inmediata cancelación del permiso respectivo, si no se presenta dicha solicitud dentro del plazo fijado.
+
+III.- A las empresas o particulares que tengan a su cargo la operación y explotación de aeropuertos para solicitar la concesión respectiva, y para que regularicen esta operación y explotación, sin perjuicio de que desde la vigencia de este Decreto queden sujetos al régimen del mismo.
+
+###### ARTICULO 5.
+
+Se concede a los propietarios, poseedores u operadores de aeronaves civiles, un plazo de 15 días, a partir de la fecha de vigencia de este Decreto, para que garanticen el cumplimiento de las responsabilidades a que se contraen los artículos 342 al 357 de la Ley de Vías Generales de Comunicación reformada por el mismo.
+
+Al vencimiento de este plazo dejará de tener aplicación, en materia de comunicaciones aeronáuticas, el artículo 127 de la Ley citada.
+
+###### ARTICULO 6.
+
+El Ejecutivo de la Unión expedirá los reglamentos derivados de esta Ley, debiendo exigir para la obtención de licencias de piloto de transporte público un mínimo de un mil doscientos horas de vuelo.
+
+###### ARTICULO 7.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
