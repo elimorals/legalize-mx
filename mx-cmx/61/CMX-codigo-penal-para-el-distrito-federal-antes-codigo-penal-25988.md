@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1986-01-10"
+last_updated: "1986-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ENERO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE NOVIEMBRE DE 1986.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -1560,17 +1560,23 @@ En caso de que los responsables de dichos delitos fueren gobernantes, funcionari
 
 ### CAPITULO I. Evasión de presos
 
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1986)</small>
+
 ###### ARTICULO 150.
 
-Se aplicará de tres meses a siete años de prisión al que favoreciere la evasión de algún detenido, procesado o condenado. Si el delincuente fuere el encargado de conducir o custodiar al prófugo, será, además, destituído de su empleo.
+Se aplicarán de seis meses a nueve años de prisión al que favoreciere la evasión de algún detenido, procesado o condenado. Si el detenido o procesado estuviese inculpado por delito o delitos contra la salud, a la persona que favoreciere su evasión se le impondrán de siete a quince años de prisión, o bien, en tratándose de la evasión de un condenado, se aumentarán hasta veinte años de prisión.
+
+Si quien propicie la evasión fuese servidor público, se le incrementará la pena en una tercera parte de las penas señaladas en este artículo, según corresponda. Además será destituido de su empleo y se le inhabilitará para obtener otro durante un período de ocho a doce años.
 
 ###### ARTICULO 151.
 
 El artículo anterior no comprende a los ascendientes, descendientes, cónyuge o hermanos del prófugo, ni a sus parientes por afinidad hasta el segundo grado, pues están exentos de toda sanción, excepto el caso de que hayan proporcionado la fuga por medio de la violencia en las personas o fuerza en las cosas.
 
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1986)</small>
+
 ###### ARTICULO 152.
 
-Se aplicará prisión de cuatro a doce años al que proporcione al mismo tiempo o en un solo acto, la evasión a varias personas privadas de libertad por la autoridad competente. Si el responsable prestare sus servicios en el establecimiento, quedará, además, destituído de su empleo y se le inhabilitará para obtener otro durante un período de ocho a doce años.
+Al que favorezca al mismo tiempo, o en un solo acto, la evasión de varias personas privadas de libertad por la autoridad competente, se le impondrá hasta una mitad más de las sanciones privativas de libertad señaladas en el artículo 150, según corresponda.
 
 ###### ARTICULO 153.
 
@@ -2134,9 +2140,15 @@ III.- Teniendo conocimiento por razón de su empleo, cargo o comisión de que pu
 
 IV.- Por sí o por interpósita persona, sustraiga, destruya, oculte, utilice, o inutilice ilícitamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión.
 
+> <small>(ADICIONADA, D.O.F. 17 DE NOVIEMBRE DE 1986)</small>
+
+V.- Teniendo obligación por razones de empleo, cargo o comisión, de custodiar, vigilar, proteger o dar seguridad a personas, lugares, instalaciones u objetos, incumpliendo su deber, en cualquier forma propicie daño a las personas, o a los lugares, instalaciones u objetos, o pérdida o sustracción de objetos que se encuentren bajo su cuidado.
+
 Al que cometa alguno de los delitos a que se refieren las fracciones I y II de este Artículo, se le impondrán de tres días a un año de prisión, multa de treinta o trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de la comisión del delito y destitución en su caso, e inhabilitación de un mes a dos años para desempeñar otro empleo, cargo o comisión públicos.
 
-Al infractor de las fracciones III y IV, se le impondrán de dos años a siete años de prisión, multa de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito y destitución e inhabilitación de dos años a siete años para desempeñar otro empleo, cargo o comisión públicos.
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1986)</small>
+
+Al infractor de las fracciones III, IV, o V, se le impondrán de dos años a siete años de prisión, multa de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito y destitución e inhabilitación de dos años a siete años para desempeñar otro empleo, cargo o comisión públicos.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
 
@@ -2420,7 +2432,9 @@ XXIV.- Hacer conocer al demandado, indebidamente, la providencia de embargo decr
 
 XXV.- Nombrar síndico o interventor en un concurso o quiebra, a una persona que sea deudor, pariente o que haya sido abogado del fallido, o a persona que tenga con el funcionario relación de parentesco, estrecha amistad o esté ligada con él por negocios de interés común; y
 
-XXVI.- Permitir, fuera de los casos previstos por la ley, la salida temporal de las personas que están recluidas, ofavorecer (sic) la evasión de algún detenido, procesado o condenado. Cuando con la misma conducta se favorezca la evasión de varias personas privadas de libertad por la autoridad competente, se impondrá hasta una tercera parte más de la pena que correspondería conforme a lo dispuesto en el párrafo siguiente:
+> <small>(REFORMADA, D.O.F. 17 DE NOVIEMBRE DE 1986)</small>
+
+XXVI.- Permitir, fuera de los casos previstos por la ley, la salida temporal de las personas que están recluidas.
 
 A quien cometa los delitos previstos en las fracciones I, II, III, VII, VIII, IX, XX, XXIV, XXV, XXVI, se les impondrá pena de prisión de uno a seis años y de cien a trescientos días multa.
 
@@ -4505,3 +4519,9 @@ D.O.F. 10 DE ENERO DE 1986.
 ###### ARTICULO UNICO.
 
 Las presentes reformas y adiciones entrarán en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE NOVIEMBRE DE 1986.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
