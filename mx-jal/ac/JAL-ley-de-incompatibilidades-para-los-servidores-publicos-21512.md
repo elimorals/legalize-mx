@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-incompatibilidades-para-los-servidores-publicos-21512"
 country: "mx"
 rank: "ley"
 publication_date: "1980-01-03"
-last_updated: "1984-01-05"
+last_updated: "1990-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY REGLAMENTARIA DEL ARTICULO 62 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 1990.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 3 de enero de 1980.
 
@@ -183,7 +183,9 @@ Las Comisiones de que se habla en los dos artículos anteriores, propondrán el 
 
 En el Poder Ejecutivo, las incompatibilidades serán analizadas y resueltas por la Secretaría de Administración del Estado, a través de su Dirección de Personal. Los servidores públicos que se vean afectados con tal resolución podrán solicitar que ésta sea reconsiderada, por la misma Secretaría.
 
-Cuando de los informes obtenidos en el desarrollo del procedimiento se advierta que algún servidor público ha incumplido sus labores, se hará extensiva esta información al Jefe del Departamento respectivo y a la Contraloría General del Estado, para los efectos correspondientes.
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1990)</small>
+
+Cuando de los informes obtenidos en el Desarrollo del procedimiento se advierta que algún servidor público ha incumplido sus labores, se hará extensiva esta información al Jefe del Departamento respectivo y a la Contraloría del Estado, para los efectos correspondientes.
 
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
 
@@ -231,11 +233,13 @@ Las incompatibilidades que surjan por cargos y empleos municipales con alguno de
 
 Declarada legalmente una incompatibilidad, en los términos de los artículos anteriores de esta Ley, el Servidor Público de que se trate podrá elegir, en el término de 5 días hábiles, a partir del siguiente al que se le notifique personalmente la resolución respectiva, de entre los cargos incompatibles, el que más le convenga. De no hacerlo en el término señalado, será facultad de la autoridad que hubiese resuelto, determinar el cargo que deba desempeñar con exclusión del otro.
 
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 1990)</small>
 
 ###### Artículo 28.
 
-Con excepción de los Servidores Públicos del Congreso del Estado, cuyas resoluciones serán irrecurribles, los demás Servidores Públicos tendrán derecho de interponer el recurso de revisión ante el Tribunal de Arbitraje y Escalafón, dentro de los cinco días hábiles siguientes a la notificación de la declaración de incompatibilidad. Este recurso se substanciará en la forma que al efecto señale la Ley para los Servidores Públicos del Estado de Jalisco.
+Con excepción de los servidores públicos del Congreso del Estado, que se mencionan en el Artículo Constitucional que esta Ley Reglamentaria y cuyas resoluciones serán irrecurribles, los demás servidores públicos tendrán derecho de interponer el recurso de revisión ante el Tribunal de Arbitraje y Escalafón, dentro de los cinco días hábiles siguientes a la notificación de la declaración de incompatibilidad. Este recurso se substanciará en la forma que al efecto señale la Ley para los Servidores Públicos del estado de Jalisco y sus municipios.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
 
 Los servidores públicos de los municipios y de sus empresas descentralizadas podrán interponer el recurso de revisión, siempre que exista convenio celebrado entre el Estado y los Municipios.
 
@@ -296,3 +300,7 @@ P.O. 5 DE ENERO DE 1984.
 Primero. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Segundo. El presente Decreto entrará en vigor al tercer día de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 17 DE ABRIL DE 1990.
+
+Unico. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
