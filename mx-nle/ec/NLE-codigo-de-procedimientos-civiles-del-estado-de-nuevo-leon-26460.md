@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "1991-08-02"
+last_updated: "1992-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -3805,9 +3805,9 @@ Respecto al término extraordinario de prueba se observará lo dispuesto en los 
 
 Las partes alegarán, de buena prueba en los términos a que se refieren los artículos 398 y 399 y se dictará la sentencia que corresponda dentro del término legal.
 
-### CAPITULO VI
+### CAPITULO V I. DEL PROCEDIMIENTO ESPECIAL DE LAS CUESTIONES DE ARRENDAMIENTO
 
-DEL JUICIO SUMARIO DE DESAHUCIO.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1992)</small>
 
 #### SECCION PRIMERA. DE LOS TITULOS QUE MOTIVAN EJECUCION Y DE LOS
 
@@ -4275,6 +4275,8 @@ Las controversias que se promuevan sobre el importe de los alimentos se decidir�
 
 De este juicio solo conocerán los Jueces de lo Familiar. En donde no los haya, conocerán los Jueces de lo Civil o de jurisdicción mixta.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 1992)</small>
+
 ### CAPITULO IV
 
 REGLAS COMUNES DEL DEUDOR.
@@ -4287,57 +4289,77 @@ REGLAS GENERALES.
 
 ###### Artículo 733.
 
-La demanda sobre desocupación de inmueble debe fundarse en la falta de pago de una o mas mensualidades, excepto en los casos de los artículos 1o. y 9o. del Decreto número 36 de fecha 5 de junio de mil novecientos setenta y dos, donde se estará a sus términos. Se acompañará el contrato escrito de arrendamiento, cuando ello fuere necesario para la validez del acto conforme al Código Civil. En caso de no ser necesario el contrato escrito o de haberse cumplido voluntariamente por ambos contratantes, sin la formalización del documento, el contrato se justificará por medio de información testimonial, prueba documental o cualquier otra bastante, como medio preparatorio de juicio.
+Todas las controversias que se susciten con motivo de lo dispuesto en el Título Sexto, Parte Segunda, Libro Cuarto, del Código Civil del Estado, se sujetarán al procedimiento que se establece en el presente capítulo.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 734.
 
-Presentada la demanda con el documento o la justificación correspondiente, el juez dictará auto mandando requerir al arrendatario para que en el acto de la diligencia justifique, con el recibo correspondiente, estar al corriente en el pago de las rentas y, no haciéndolo, se le prevenga que dentro de treinta días si la finca sirve para habitación, o dentro de sesenta si sirve para giro mercantil o industrial, o dentro de noventa si fuere rústica, proceda a desocuparla, apercibido de lanzamiento a su costa si no lo efectúa. En el mismo acto se le emplazará para que dentro de cinco días ocurra a oponer las excepciones que tuviere.
+La demanda en que se ejercite cualquier acción de las previstas en el artículo que antecede, reunirá los requisitos señalados en el artículo 612 de este Código. Con la misma se exhibirá el contrato de arrendamiento respectivo en el caso de haberse celebrado por escrito, así como los demás documentos que se quiera se tengan como prueba.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 735.
 
-Si en el acto de la diligencia el arrendatario justificare estar al corriente en el pago de las pensiones reclamadas, se suspenderá la actuación, asentándose los justificantes que se presenten, para dar cuenta al juez. Si se exhibiere el importe de aquéllas, se mandará entregar al actor sin más trámites y se dará por terminado el procedimiento.
+Admitida que sea la demanda, se correrá traslado de ella y de las copias de los documentos exhibidos a la parte demandada, emplazándosele para que la conteste dentro de cinco días.
 
-Si se exhibieren copias de escritos de ofrecimiento de pago, se librará oficio al juez respectivo para que informe si obra la consignación y envíe, en su caso, los certificados correspondientes. Recibidos éstos, se entregarán al arrendador, a cambio de recibo que ampare la entrega y se dará por terminado el procedimiento.
-
-En caso de presentarse recibos de pago, se mandará dar vista al actor por el término de tres días. Si no los objetare, se dará por concluído el juicio; si los objeta se citará para la audiencia de pruebas y alegatos a que se refiere el artículo 738.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 736.
 
-Cuando durante el plazo fijado para el desahucio el inquilino exhiba el recibo de las pensiones reclamadas, se dará la vista a que alude el artículo anterior y si exhibe el importe de ellas, el juez dará por terminado el juicio, con condena de costas.
+El escrito de contestación se formulará ajustándose a los términos previstos para la demanda.
 
-Si el recibo presentado es de fecha posterior o la exhibición del importe de las pensiones se hace fuera del término señalado para el desahucio, también se dará por concluído el juicio, pero condenándose al arrendatario al pago de las costas causadas.
+Las excepciones que se tengan, cualquiera que sea su naturaleza, se harán valer simultáneamente en la contestación y nunca después, salvo las supervenientes. Si se oponen como excepciones las de incompetencia y falta de personalidad, se dará vista al actor para que en su oportunidad aporte las pruebas que considere conducentes.
+
+Todas las excepciones que se opongan se resolverán en la sentencia definitiva.
+
+El demandado, al tiempo de contestar la demanda, podrá proponer la reconvención. En este caso se correrá traslado de ella al actor, a fin de que la conteste dentro del plazo de cinco días.
+
+Si el demandado o el actor reconvenido no formula su contestación, se tendrá por contestada en sentido negativo, en su caso, la demanda y la reconvención.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 737.
 
-Los beneficios de los plazos que este capítulo concede a los arrendatarios, no son renunciables.
+Contestada que sea la demanda y, en su caso, la reconvención, a petición de parte o si el juez lo estima necesario, se abrirá el juicio a pruebas concediendo cinco días hábiles para su ofrecimiento, los que empezarán a contar desde el día siguiente de la notificación personal del auto respectivo.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 738.
 
-En el juicio de desahucio no procede la reconvención. En el caso de que se opngan (sic) otras excepciones, se mandará dar vista al actor citándose para audiencia de pruebas y alegatos dentro de los ocho días siguientes, teniendo en cuenta que esta audiencia debe efectuarse antes del vencimiento del término fijado para el desahucio, si fuere posible.
+El ofrecimiento, admisión y desahogo de las pruebas, se sujetará a las reglas establecidas para ello en este Código.
 
-Las pruebas deben ofrecerse y rendirse en la audiencia, excepto la documental, que podrá presentarse con anterioridad, sin perjuicio de que el juez haga relación de ella en la audiencia y la tenga por recibida en ese acto, aunque no exista gestión expresa del interesado.
-
-Cuando las partes tengan que rendir prueba testimonial o pericial deberán anunciarla cuando menos tres días antes del señalado para la audiencia, exhibiendo el interrogatorio al tenor del cual deberán ser examinados los testigos, o del cuestionario para los peritos. El juez ordenará que se entregue una copia del interrogatorio a la contraparte, para que pueda formular por escrito o hacer verbalmente las repreguntas, al celebrarse la audiencia. En la prueba pericial cada parte designará un perito y el tercero en discordia lo nombrará el juez al momento en qu (sic) ese le anuncie la prueba. Al promoverse la prueba pericial el oferente nombrará a su perito y se lel (sic) hará saber a la contraria, para la designación del que le corresponde.
-
-El juez fijará a los peritos un término prudente para que presenten su dictamen. Lo no previsto a este respecto se sujetará en lo conducente a las reglas generales de la prueba.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 739.
 
-Todos los incidentes que surjan y las excepciones que se opngan (sic), serán resueltos en la definitiva, substanciándose los primeros con un escrito de cada parte y las pruebas y alegatos se recibirán en la audiencia a que se refiere este artículo. La excepción de incompetencia se resolverá conforme al artículo 119 de este Código, siendo la única que pondrá obstáculo a la secuela del procedimiento.
+Concluído el período de ofrecimiento mencionado, el Juez citará a las partes a la audiencia de pruebas y alegatos, misma que se celebrará dentro de los ocho días siguientes a la notificación personal del auto respectivo.
 
-Celebrada la audiencia a que se refiere el artículo anterior, el juez dictará la sentencia correspondiente dentro del término de cinco días.
+En dicha audiencia sólo se admitirán las pruebas que se refieran a los hechos controvertidos, las que se desahogarán en el orden que el Juez determine. Si no se logran desahogar todas las pruebas, el Juez diferirá la audiencia al quinto día hábil siguiente.
+
+Inmediatamente de desahogadas las pruebas se oirán los alegatos de ambas partes, quienes también los podrán presentar por escrito en ese momento.
+
+El Juez pronunciará su sentencia en un plazo no mayor de ocho días, a contar del siguiente a la celebración de la audiencia.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 740.
 
-La sentencia que decrete el desahucio fijará el plazo para la desocupación, que será, en todo caso, el que falte para cumplirse el señalado por el artículo 734; pero si dicho término ya hubiere transcurrido, el juez señalará uno nuevo que no exceda de cinco días. La sentencia que ordene el desahucio será apelable en el efecto devolutivo, la que lo niegue, lo será en ambos efectos.
+Los incidentes no suspenderán el procedimiento. Se substanciarán por cuerda separada, cualquiera que sea su naturaleza, con un escrito de cada parte y tres días para resolver. Si se promueve prueba deberá ofrecerse en los escritos respectivos y se citará para audiencia indiferible al quinto día hábil, en la que se recibirán las pruebas y se oirán los alegatos.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 741.
 
-La diligencia de lanzamiento se entenderá con el ejecutado o, en su defecto, con cualquiera persona de la familia, doméstico, portero, agente de la policía o vecinos, pudiéndose romper las cerraduras de la puerta, si fuere necesario. Los muebles u objetos que en la casa se encuentren, si no hubiere persona de la familia del inquilino que los recoja otra u autorizada para ello, se remitirán por inventario a los lugares de depósito respectivos, dejándose constancia de esta diligencia en autos.
+Sólo las sentencias definitivas y las que decidan los incidentes que se promuevan, pronunciadas por los Jueces de Primera Instancia, serán apelables en el sólo efecto devolutivo.
+
+La impugnación contra las demás resoluciones que se dicten durante el procedimiento del Juicio o el trámite de los incidentes, se harán valer como agravio ante la segunda instancia, en el caso de que el agraviado por aquellas interponga el recurso de apelación contra la sentencia definitiva o interlocutoria, respectivamente.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 742.
 
-Al hacer el requerimiento que se dispone en el artículo 734 se embargarán y depositarán bienes del deudor bastantes para cubrir las pensiones reclamadas, si así se hubiere decretado. Lo mismo se observará al ejecutarse el acto.
+En todo lo aquí no previsto, se estará a las reglas de este Código, en cuanto no se opongan a lo dispuesto en el presente Capítulo.
 
 ### CAPITULO II
 
@@ -6139,7 +6161,7 @@ P.O. 24 DE AGOSTO DE 1977.
 
 PRIMERO.- Las presentes reformas entrarán en vigor el día primero de diciembre del presente año.
 
-SEGUNDO.- Para la distribución de los negocios de orden familiar, actualmente en trámite en los juzgados 1º. , 2º. , 3º. Y 5º. Del ramo civil de la primera fracción judicial en el Estado, se procederá del modo siguiente:
+SEGUNDO.-Para la distribución de los negocios de orden familiar, actualmente en trámite en los juzgados 1º. , 2º. , 3º. Y 5º. Del ramo civil de la primera fracción judicial en el Estado, se procederá del modo siguiente:
 
 a).- Cada juzgado formulará el inventario de los citados asuntos.
 
@@ -6260,3 +6282,13 @@ P.O. 2 DE AGOSTO DE 1991.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 SEGUNDO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE DICIEMBRE DE 1992.
+
+PRIMERO:- El presente Decreto entrará en vigor, quince días hábiles después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO:- Todas las demandas ordinarias que estén radicados pero no notificadas, seguirán el procedimiento de este Decreto si así lo pide el actor. En caso contrario se estará a los dispuesto en el transitorio siguiente.
+
+TERCERO:- Los Juicios Ordinarios en trámite, se ajustarán al procedimiento señalado para ellos hasta su total conclusión.
+
+CUARTO:- Los Juicios Sumarios de Desahucio ya radicados o en trámite, seguirán ajustándose hasta su total conclusión a los preceptos que por este Decreto se modifican.
