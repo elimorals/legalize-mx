@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-renta-478"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1992-02-24"
+last_updated: "1992-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=478&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISR"
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE FEBRERO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JULIO DE 1992.
 
 Ley publicada en el Diario Oficial de la Federación, el Martes 30 de Diciembre de 1980.
 
@@ -334,11 +334,11 @@ Lo dispuesto en este artículo será aplicable a los contribuyentes a que se ref
 
 Las cantidades en moneda nacional que se establezcan en esta Ley para señalar límites de ingresos y deducciones, así como las que contienen las tarifas, se actualizarán trimestralmente con el factor de actualización correspondiente al período comprendido desde el mes anterior a aquél en que se efectuó la última actualización hasta el mes inmediato anterior a aquél por el cual se calcula el ajuste. La Secretaría de Hacienda y Crédito Publico realizará las operaciones aritméticas previstas en este artículo y publicará el factor de actualización en el Diario Oficial de la Federación a mas tardar el día 10 de los meses de enero, abril, julio y octubre.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 8o.
 
-Cuando dos o más contribuyentes celebren un contrato de asociación en participación, el asociante será quien cumpla por sí y por cuenta de los asociados las obligaciones señaladas en esta Ley, incluso la de efectuar pagos provisionales El asociante y los asociados, acumularán cada uno a sus ingresos en el ejercicio, la parte de la utilidad fiscal, en la proporción que de las utilidades les corresponda en los términos del contrato, o en su caso, deducirán la pérdida fiscal, y pagarán individualmente el impuesto del ejercicio, acreditando proporcionalmente el monto de los pagos provisionales, incluyendo sus ajustes, efectuados por el asociante. Cuando el asociante o alguno de los asociados sea persona física, considerará estas utilidades como ingresos por actividades empresariales.
+Cuando dos o más contribuyentes celebren un contrato de asociación en participación, el asociante será quien cumpla por sí y por cuenta de los asociados las obligaciones señaladas en esta Ley, incluso la de efectuar pagos provisionales. El asociante y los asociados, acumularán cada uno a sus ingresos en el ejercicio, la parte de la utilidad fiscal, en la proporción que de las utilidades les corresponda en los términos del contrato, o en su caso, deducirán la pérdida fiscal, y pagarán individualmente el impuesto del ejercicio, acreditando proporcionalmente el monto de los pagos provisionales, incluyendo su ajuste, efectuados por el asociante. Cuando el asociante o alguno de los asociados sea persona física, considerará estas utilidades como ingresos por actividades empresariales.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -364,11 +364,11 @@ Cuando el asociante residente en el extranjero no tenga establecimiento permanen
 
 Los asociados responderán por el incumplimiento de las obligaciones que por su cuenta deba cumplir el asociante.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 9o.
 
-Cuando a través de un fideicomiso se realicen actividades empresariales, la fiduciaria determinará en los términos del Título II de esta Ley, la utilidad o pérdida fiscal de dichas actividades y cumplirá por cuenta del conjunto de los fideicomisarios las obligaciones señaladas en esta Ley, incluso la de efectuar pagos provisionales. Los fideicomisarios acumularán a sus ingresos en el ejercicio, la parte de la utilidad fiscal que les corresponda en la operación del fideicomiso, o en su caso, deducirán la pérdida fiscal y pagarán individualmente el impuesto del ejercicio y acreditarán proporcionalmente el monto de los pagos provisionales, incluyendo sus ajustes, efectuados por el fiduciario.
+Cuando a través de un fideicomiso se realicen actividades empresariales, la fiduciaria determinará en los términos del Título II de esta Ley, la utilidad o la pérdida fiscal de dichas actividades y cumplirá por cuenta del conjunto de los fideicomisarios las obligaciones señaladas en esta Ley, incluso la de efectuar pagos provisionales. Los fideicomisarios acumularán a sus ingresos en el ejercicio, la parte de la utilidad fiscal que les corresponda en la operación del fideicomiso, o en su caso, deducirán la pérdida fiscal y pagarán individualmente el impuesto del ejercicio y acreditarán proporcionalmente el monto de los pagos provisionales, incluyendo su ajuste, efectuados por el fiduciario.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -424,7 +424,9 @@ Tratándose de la distribución de dividendos o utilidades mediante aumento de p
 
 No se estará obligado al pago de este impuesto cuando los dividendos o utilidades distribuidos provengan de la cuenta de utilidad fiscal neta que establece esta Ley.
 
-Este impuesto se pagará además del impuesto del ejercicio a que se refiere el artículo 10, tendrá el carácter de pago definitivo y se enterará conjuntamente con el pago provisional del mes que corresponda una vez transcurridos 30 días de la fecha en que se hizo el pago de dividendos o utilidades, ante las oficinas autorizadas.
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
+
+Este impuesto se pagará además del impuesto del ejercicio a que se refiere el artículo 10, tendrá el carácter de pago definitivo y se enterará conjuntamente con el pago provisional del periodo que corresponda una vez transcurridos 30 días de la fecha en que se hizo el pago de dividendos o utilidades, ante las oficinas autorizadas.
 
 En los supuestos a que se refieren las fracciones IV, V y VI del artículo 120 de esta Ley, el impuesto que determine la persona moral conforme a este artículo, se enterará a más tardar en la fecha en que se presente o debió presentarse la declaración del ejercicio correspondiente.
 
@@ -504,6 +506,10 @@ A la utilidad fiscal determinada conforme a esta fracción se le restará, en su
 
 III.- Los pagos provisionales serán las cantidades que resulten de aplicar la tasa establecida en el artículo 10 de esta Ley sobre la utilidad fiscal que se determine en los términos de la fracción que antecede, pudiendo acreditarse contra el impuesto a pagar los pagos provisionales del mismo ejercicio efectuados con anterioridad. También podrá acreditarse contra dichos pagos provisionales la retención que le hubiera efectuado al contribuyente en el periodo, en términos del penúltimo párrafo del artículo 126.
 
+> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 1992)</small>
+
+Los contribuyentes cuyos ingresos en el ejercicio inmediato anterior no hayan excedido de dos mil millones de pesos, efectuarán pagos provisionales en forma trimestral, a más tardar el día 17 de los meses de abril, julio, octubre y enero del año siguiente, a excepción de aquéllos que puedan ser considerados como una sola persona moral para efectos del segundo párrafo de la fracción I del artículo 32-A del Código Fiscal de la Federación. Cuando los contribuyentes antes señalados hubieran efectuado pagos provisionales trimestrales en los términos de este párrafo y obtengan en el ejercicio ingresos acumulables que excedan del monto antes indicado, podrán estar a lo previsto en este párrafo en el ejercicio siguiente a aquél en el que excedan de dicha cantidad.
+
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
 Tratándose del ejercicio de liquidación, los pagos provisionales se harán conforme a lo dispuesto en el artículo 11 de esta Ley.
@@ -512,9 +518,9 @@ Tratándose del ejercicio de liquidación, los pagos provisionales se harán con
 
 Los ingresos nominales a que se refiere este artículo serán los ingresos acumulables, excepto la ganancia inflacionaria y considerando los ingresos por intereses y la ganancia cambiaria, sin restarles el componente inflacionario.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
 
-Los contribuyentes que inicien operaciones con motivo de la escisión de sociedades efectuaran pagos provisionales a partir del mes en que ocurra la escisión, considerando el coeficiente de utilidad de la sociedad escindente para el ejercicio de que se trate. Para tales efectos, la sociedad escindente y las escindidas, considerarán como pagos provisionales efectivamente enterados, el monto de dichos pagos en la proporción en que se dividió el capital de la primera. El coeficiente a que se refiere este párrafo también se utilizará para los efectos del último párrafo de la fracción I de este artículo.
+Los contribuyentes que inicien operaciones con motivo de la escisión de sociedades efectuarán pagos provisionales a partir del mes en que ocurra la escisión, considerando el coeficiente de utilidad de la sociedad escindente para el ejercicio de que se trate. Para tales efectos, la sociedad escindente y las escindidas, considerarán como pagos provisionales efectivamente enterados, el monto de dichos pagos en la proporción en que se dividió el capital de la primera. El coeficiente a que se refiere este párrafo también se utilizará para los efectos del último párrafo de la fracción I de este artículo. En el ejercicio en que se lleve a cabo la escisión, las sociedades escindidas realizarán pagos provisionales en forma trimestral, únicamente si la escindente los efectuaba de dicha manera con anterioridad a la escisión.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -530,23 +536,21 @@ I.- No considerarán los ingresos atribuibles a sus establecimientos ubicados en
 
 II.- (DEROGADA D.O.F. 31 DE DICIEMBRE DE 1988)
 
-III.- En el primero mes de la segunda mitad del ejercicio y en el último mes del mismo, se ajustará el impuesto correspondiente a los pagos provisionales, conforme a lo siguiente:
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 1992)</small>
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+III.- En el primer mes de la segunda mitad del ejercicio se ajustará el impuesto correspondiente a los pagos provisionales, conforme a lo siguiente:
 
-a).- De la totalidad de los ingresos obtenidos desde el inicio del ejercicio hasta el último día de la primera mitad del mismo y hasta el último día del penúltimo mes de dicho ejercicio, se restará el monto de las deducciones autorizadas en este Título, correspondiente a dichos periodos; así como, en su caso, la pérdida fiscal de ejercicios anteriores, pendiente de aplicar contra las utilidades fiscales. Tratándose de la deducción de inversiones, de las reservas deducibles en los términos de la fracción IX del artículo 25 de la Ley, y de las previstas en los artículos 27 y 28 de la misma, se restará la parte proporcional que representen los meses comprendidos en el período por el que se realice el ajuste, respecto del total de meses del ejercicio de que se trate.
+a).- De la totalidad de los ingresos obtenidos desde el inicio del ejercicio hasta el último día de la primera mitad del mismo, se restará el monto de las deducciones autorizadas en este Título, correspondiente a dicho periodo; así como, en su caso, la pérdida fiscal de ejercicios anteriores, pendiente de aplicar contra las utilidades fiscales. Tratándose de la deducción de inversiones, de las reservas deducibles en los términos de la fracción IX del artículo 25 de la Ley, y de las previstas en los artículos 27 y 28 de la misma, se restará la parte proporcional que representen los meses comprendidos en el periodo por el que se realice el ajuste, respecto del total de meses del ejercicio de que se trate.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+b).- El ajuste en el impuesto, se determinará aplicando la tasa establecida en el artículo 10 de esta Ley, sobre el resultado que se obtenga conforme al inciso anterior. Al monto del ajuste en el impuesto se le restarán los pagos provisionales efectivamente enterados en los términos del artículo 12 de esta Ley, correspondientes a los meses comprendidos en el periodo del ajuste.
 
-b).- Los ajustes en el impuesto, se determinarán aplicando la tasa establecida en el artículo 10 de esta Ley sobre el resultado que se obtenga conforme al inciso anterior. Al monto de cada ajuste en el impuesto se le restarán los pagos provisionales efectivamente enterados en los términos del artículo 12 de esta Ley, correspondientes a los meses comprendidos en el período del ajuste de que se trate. En el caso del segundo ajuste, se restará también la diferencia de impuesto efectivamente pagado conforme al primer ajuste.
+La diferencia que resulte a cargo por el ajuste se enterará con el pago provisional correspondiente al mes en que el mismo se efectúe. Los contribuyentes que efectúen sus pagos provisionales en forma trimestral enterarán dicha diferencia conjuntamente con el pago provisional que realicen con posterioridad a dicho ajuste. La diferencia señalada en este párrafo no será acreditable contra los pagos provisionales a que se refiere el artículo 12 citado.
 
-Las diferencias que resulten a cargo por los ajustes se enterarán con el pago provisional correspondiente a los meses en que se efectúen dichos ajustes. Estas diferencias no serán acreditables contra los pagos provisionales a que se refiere el artículo 12 citado.
+Cuando el monto del ajuste en el impuesto sea menor que el monto de los pagos provisionales efectivamente enterados que correspondan al periodo de dicho ajuste, la diferencia que resulte a favor del contribuyente se podrá acreditar contra el impuesto que resulte a su cargo en los pagos provisionales del mismo ejercicio que se efectúen posteriormente, siempre que se cumplan los requisitos que señale el Reglamento. Contra el impuesto determinado conforme al artículo 10 de esta Ley, sólo serán acreditables los pagos provisionales y la diferencia en el ajuste, efectivamente enterados.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 1992)</small>
 
-Cuando el monto del primer ajuste en el impuesto sea menor que el monto de los pagos provisionales efectivamente enterados que correspondan al mismo período de dicho ajuste, la diferencia que resulte a favor del contribuyente se podrá acreditar contra el impuesto que resulte a su cargo en los pagos provisionales del mismo ejercicio que se efectúen posteriormente, siempre que se cumplan los requisitos que señale el Reglamento. Contra el impuesto determinado conforme al artículo 10 de esta Ley, sólo serán acreditables los pagos provisionales y las diferencias en los ajustes, efectivamente enterados.
-
-IV.- Con el propósito de que los pagos provisionales mantengan relación con el impuesto definitivo a pagar, los contribuyentes podrán disminuir el monto de los pagos provisionales, cuando proceda, en los casos y cumpliendo los requisitos que señale el Reglamento de esta Ley.
+IV.- Con el propósito de que los pagos provisionales mantengan relación con el impuesto definitivo a pagar, los contribuyentes podrán disminuir el monto de los pagos provisionales, cuando proceda, en los casos y cumpliendo los requisitos que señale el Reglamento de esta Ley. En ningún caso se dejarán de causar recargos por las diferencias que en su caso resulten entre el monto que efectivamente se entere con el que se debió haber enterado de no tomar el beneficio que establece esta fracción.
 
 ###### ARTICULO 12.-B.
 
@@ -906,15 +910,15 @@ I. Que sean estrictamente indispensables para los fines de la actividad del cont
 
 a).- A la Federación, entidades federativas o municipios.
 
-b).- A instituciones asistenciales o de beneficencia autorizadas conforme a las leyes de la materia, así como a las sociedades o asociaciones civiles que lleven a cabo actividades similares.
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+b).- A las entidades a que se refiere el artículo 70-B de esta Ley.
 
-c).- Para instituciones privadas que promuevan las bellas artes.
+c).- (DEROGADO, D.O.F. 20 DE JULIO DE 1992)
 
-d).- Para sociedades o asociaciones que otorguen becas para estudios superiores.
+d).- (DEROGADO, D.O.F. 20 DE JULIO DE 1992)
 
-e).- A instituciones de investigación científica y tecnológica inscritas en el Registro Nacional de Instituciones Científicas y Tecnológicas.
+e).- (DEROGADO, D.O.F. 20 DE JULIO DE 1992)
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -923,6 +927,14 @@ f) A programas de escuela empresa.
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 Tratándose de donativos otorgados a instituciones de enseñanza, los mismos serán deducibles siempre que sean establecimientos públicos o de propiedad de particulares que tengan autorización o reconocimiento de validez oficial de estudios en los términos de la Ley Federal de Educación, se destinen a la adquisición de bienes de inversión, a la investigación científica o desarrollo de tecnología, así como a gastos de administración hasta por el monto, en este último caso, que señale el Reglamento de esta Ley; se trate de donaciones no onerosas ni remunerativas conforme a las reglas generales que al efecto determine la Secretaría de Educación Pública, y dichas instituciones no hayan distribuido remanentes a sus socios o integrantes en los últimos cinco años.
+
+> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 1992)</small>
+
+El monto de los donativos que podrá deducirse en el ejercicio no excederá del 20% de la utilidad fiscal que se determine de disminuir de la totalidad de los ingresos acumulables obtenidos en el ejercicio, las deducciones autorizadas por este Título, sin incluir las deducciones por donativos. En el caso de que se obtenga pérdida fiscal en el ejercicio en que se efectúen los donativos, los mismos únicamente podrán deducirse en el ejercicio siguiente, siempre que dichos donativos, adicionados a los que, en su caso, se otorguen en este último ejercicio no excedan del 20% de la utilidad fiscal obtenida en el mismo, sin considerar en dicha utilidad las deducciones por donativos de ambos ejercicios.
+
+> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 1992)</small>
+
+Lo dispuesto en el párrafo anterior no será aplicable a aquellas personas morales cuyo capital social sea detentado por lo menos en un 90% por una institución autorizada para recibir donativos en los términos de esta Ley.
 
 II.- Que cuando esta Ley permita la deducción de inversiones se proceda en los términos de la Sección III de este Capítulo.
 
@@ -1864,7 +1876,9 @@ Las instituciones de crédito deberán acumular a sus demás ingresos, los inter
 
 Cuando la persona que pague los intereses cubra por cuenta del establecimiento el impuesto que a este le corresponda, el importe de dicho impuesto se considerará interés.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 1992)</small>
+
+No se causará el impuesto a que se refiere este artículo por los intereses que perciban dichos establecimientos y que, de haber sido pagados directamente a un residente en el extranjero, quedarían exceptuados del pago del impuesto sobre la renta en los términos del artículo 154-A de esta Ley.
 
 > <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -2298,9 +2312,11 @@ II.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1989)
 
 III.- Llevar los registros que permitan determinar la cuenta de utilidad fiscal neta a que se refiere el artículo 124 de esta Ley, en forma consolidada y conforme a lo previsto por el artículo 57-H de la misma, así como de los dividendos o utilidades percibidos a que se refiere el artículo 57-O.
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 1992)</small>
 
-IV.- Presentar declaración de consolidación dentro de los cuatro meses siguientes al cierre de su ejercicio en la que determinará el resultado fiscal consolidado y el impuesto que a éste corresponda. En esta declaración acreditará el monto de los pagos provisionales y ajustes consolidados efectivamente enterados ante las oficinas autorizadas.
+IV.- Presentar declaración de consolidación dentro de los cuatro meses siguientes al cierre de su ejercicio en la que determinará el resultado fiscal consolidado y el impuesto que a éste corresponda. En esta declaración acreditará el monto de los pagos provisionales y del ajuste consolidados efectivamente enterados ante las oficinas autorizadas.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 En caso de que en la declaración a que se refiere esta fracción resulte diferencia a cargo, la sociedad controladora deberá enterarla con la propia declaración.
 
@@ -2378,11 +2394,9 @@ Las sociedades controladas a que se refiere el artículo 57-C de esta Ley, adem�
 
 I.- Presentarán su declaración del ejercicio y calcularán el impuesto como si no hubiera consolidación. Del impuesto que resulte entregarán a la sociedad controladora el que corresponda a la parte proporcional de la participación promedio por día, directa o indirecta de la controladora en el capital social de las controladas, en el ejercicio de que se trate. Las sociedades controladas enterarán ante las oficinas autorizadas el impuesto que se obtenga de disminuir al que calcularon, el que entregaron a la sociedad controladora.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 1992)</small>
 
-II.- Las sociedades controladas calcularán sus pagos provisionales y los ajustes a los mismos, como si no hubiera consolidación. Del impuesto que resulte en cada pago provisional o ajuste entregarán a la sociedad controladora el que corresponda a la parte proporcional de la participación promedio por día, directa o indirecta de la controladora en el capital social de las controladas, en el periodo de que se trate. Las sociedades controladas enterarán ante las oficinas autorizadas la cantidad que se obtenga de disminuir al impuesto que resultó en los términos de este párrafo el que entregaron a la sociedad controladora.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+II.- Las sociedades controladas calcularán sus pagos provisionales y el ajuste a los mismos, como si no hubiera consolidación. Del impuesto que resulte en cada uno de los pagos provisionales o en el ajuste entregarán a la sociedad controladora el que corresponda a la parte proporcional de la participación promedio por día, directa o indirecta de la controladora en el capital social de las controladas, en el periodo de que se trate. Las sociedades controladas enterarán ante las oficinas autorizadas la cantidad que se obtenga de disminuir al impuesto que resultó en los términos de este párrafo el que entregaron a la sociedad controladora.
 
 III.- La cuenta de utilidad fiscal neta de cada sociedad controlada se integrará con los conceptos a que se refiere el artículo 124 de esta ley, considerando como propia únicamente la proporción en que no consolida.
 
@@ -2398,11 +2412,11 @@ BIS.- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 Los dividendos o utilidades en efectivo o en bienes que las sociedades que consolidan se distribuyan entre sí, no estarán sujetos al pago del impuesto previsto en el artículo 10-A de esta Ley, en cuyo caso dichos dividendos no incrementarán el saldo de la cuenta de utilidad fiscal neta de la sociedad que los reciba.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 57-P.
 
-La sociedad controladora deberá realizar los ajustes consolidados del impuesto sobre la renta correspondientes a los pagos provisionales consolidados, aplicando en lo conducente lo previsto en la fracción III del artículo 12-A y en el 57-E de esta Ley, considerando los conceptos que intervienen en el cálculo con base en la participación accionaria promedio por día determinada en los términos de la fracción II del artículo 57-N de esta Ley.
+La sociedad controladora deberá realizar el ajuste consolidado del impuesto sobre la renta correspondiente a los pagos provisionales consolidados, aplicando en lo conducente lo previsto en la fracción III del artículo 12-A y en el 57-E de esta Ley, considerando los conceptos que intervienen en el cálculo con base en la participación accionaria promedio por día determinada en los términos de la fracción II del artículo 57-N de esta Ley.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -2776,7 +2790,9 @@ El saldo de la cuenta prevista en el párrafo anterior que se tenga al día del 
 
 Las personas morales a que se refiere este Título efectuarán pagos provisionales mensuales a cuenta del impuesto anual a más tardar el día 17 del mes inmediato posterior al que corresponda el pago, mediante declaración que presentarán ante las oficinas autorizadas. El pago provisional se determinará restando de la totalidad de las entradas correspondientes al periodo comprendido desde el inicio del ejercicio hasta el último día del mes al que se refiere el pago, las salidas a que se refiere el artículo 67-C de la Ley, correspondientes al mismo periodo y aplicándole a la diferencia la tasa a que se refiere el artículo 67 de esta Ley. Contra el impuesto a pagar, podrán acreditar los pagos provisionales del mismo ejercicio efectuados con anterioridad.
 
-Las personas morales a que se refiere este Título, que hayan obtenido en el ejercicio inmediato anterior ingresos que no excedieron de trescientos millones de pesos, efectuarán pagos provisionales trimestrales a cuenta del impuesto anual a más tardar el día 17 del mes inmediato posterior al trimestre al que corresponda el pago. Dicho pago provisional se determinará en los términos de este artículo.
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
+
+Las personas morales a que se refiere este Título, que hayan obtenido en el ejercicio inmediato anterior ingresos que no excedieron de dos mil millones de pesos, podrán efectuar pagos provisionales trimestrales a cuenta del impuesto anual a más tardar el día 17 de los meses de abril, julio, octubre y enero del año siguiente. Dicho pago provisional se determinará en los términos de este artículo. Cuando los contribuyentes antes señalados hubieran efectuado pagos provisionales trimestrales en los términos de este párrafo y obtengan en un ejercicio ingresos acumulables que excedan del monto antes indicado, podrán estar a lo previsto en este párrafo en el ejercicio siguiente a aquél en el que excedan de dicha cantidad.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -2848,7 +2864,9 @@ IX.- Sociedades mutualistas que no operen con terceros, siempre que no realicen 
 
 X.- Sociedades o asociaciones de carácter civil que se dediquen a la enseñanza, con autorización o con reconocimiento de validez oficial de estudios en los términos de la Ley Federal de Educación.
 
-XI.- Asociaciones o sociedades civiles organizadas con fines científicos, políticos, religiosos, culturales o deportivos.
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 1992)</small>
+
+XI.- Asociaciones o sociedades civiles organizadas con fines culturales, científicos o tecnológicos.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -2862,9 +2880,13 @@ XIII.- Asociaciones de padres de familia constituidas y registradas en los térm
 
 XIV.- Sociedades de autores de interés público constituidas de acuerdo con la Ley Federal de Derechos de Autor.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 1992)</small>
 
-Las personas morales a que se refieren las fracciones V, VI, VII, IX, X y XI de este artículo, así como las sociedades de inversión a que se refiere este Título, considerarán remanente distribuible, aun cuando no lo hayan entregado en efectivo o en bienes a sus integrantes o socios, el importe de las omisiones de ingresos o las compras no realizadas e indebidamente registradas; las erogaciones que efectúen y no sean deducibles en los términos del Título IV de esta Ley, salvo cuando dicha circunstancia se deba a que estas no reúnen los requisitos de la fracción IV del artículo 136 de la misma; los préstamos que hagan a sus socios integrantes o a los cónyuges, ascendientes o descendientes en línea recta de dichos socios o integrantes, con excepción de aquellos que reúnan los requisitos señalados en la fracción IV del artículo 120 de esta Ley. Tratándose de préstamos que en los términos de este párrafo se consideren remanente distribuible, su importe se disminuirá de los remanentes distribuibles que la persona moral distribuya a sus socios o integrantes.
+XV.- Asociaciones o sociedades civiles organizadas con fines políticos, deportivos o religiosos.
+
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
+
+Las personas morales a que se refieren las fracciones V, VI, VII, IX, X, XI y XV de este artículo, así como las sociedades de inversión a que se refiere éste Título, considerarán remanente distribuible, aun cuando no lo hayan entregado en efectivo o en bienes a sus integrantes o socios, el importe de las omisiones de ingresos o las compras no realizadas e indebidamente registradas; las erogaciones que efectúen y no sean deducibles en los términos del Título IV de esta Ley, salvo cuando dicha circunstancia se deba a que éstas no reúnen los requisitos de la fracción IV del artículo 136 de la misma; los préstamos que hagan a sus socios o integrantes o a los cónyuges, ascendientes o descendientes en línea recta de dichos socios o integrantes, con excepción de aquéllos que reúnan los requisitos señalados en la fracción IV del artículo 120 de esta Ley. Tratándose de préstamos que en los términos de este párrafo se consideren remanente distribuible, su importe se disminuirá de los remanentes distribuibles que la persona moral distribuya a sus socios o integrantes.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -2879,6 +2901,34 @@ Los programas de escuela empresa establecidos por instituciones que cuenten con 
 Los programas mencionados podrán obtener autorización para constituirse como empresas independientes, en cuyo caso considerarán ese momento como el de inicio de actividades.
 
 La Secretaría mediante reglas de carácter general establecerá las obligaciones formales y la forma en que se efectuarán los pagos provisionales, en tanto dichas empresas se consideren dentro de los programa de escuela empresa.
+
+> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 1992)</small>
+
+###### ARTICULO 70-B.
+
+Las personas morales no contribuyentes a que se refieren las fracciones VI, X y XI del artículo 70 de esta Ley, deberán cumplir con lo siguiente para ser consideradas como instituciones autorizadas para recibir donativos deducibles en los términos de esta Ley:
+
+I.- Que se constituyan exclusivamente y funcionen en forma preponderante como:
+
+a).- Escuelas, colegios o universidades.
+
+b).- Hospitales u organizaciones de investigación médica.
+
+c).- Entidades que se dediquen a cualquiera de los fines a que se refieren las fracciones VI, X y XI del artículo 70 de esta Ley y que una parte sustancial de sus ingresos la reciban de fondos proporcionados por la Federación, Estados o Municipios, de donativos o de aquellos ingresos derivados de la realización de su objeto social y no reciban ingresos en cantidades excesivas por concepto de arrendamiento, intereses, dividendos o regalías o por actividades no relacionadas con su objeto social.
+
+II.- Que las actividades que desarrollen tengan como finalidad primordial el cumplimiento de su objeto social, sin que puedan intervenir en campañas políticas o se involucren en actividades de propaganda o destinadas a influir en la legislación.
+
+No se considera que influye en la legislación la publicación de un análisis o investigación que no tenga carácter proselitista o la asistencia técnica a un órgano gubernamental que lo hubiere solicitado por escrito.
+
+III.- Que destinen sus activos exclusivamente a los fines propios de su objeto social, no pudiendo otorgar beneficios sobre el remanente distribuible a persona física alguna o a sus integrantes personas físicas o morales, salvo que se trate, en este último caso, de alguna de las personas morales a que se refiere este artículo, o se trate de la remuneración de servicios efectivamente recibidos.
+
+IV.- Que al momento de su liquidación y con motivo de la misma, destinen la totalidad de su patrimonio a entidades autorizadas para recibir donativos en los términos de los incisos a) y b) de la fracción I del artículo 24 de esta Ley.
+
+V.- Que tratándose de instituciones científicas o tecnológicas a que se refiere la fracción XI del artículo 70 de esta Ley, se encuentren inscritas en el Registro Nacional de Instituciones Científicas y Tecnológicas.
+
+VI.- Mantener a disposición del público en general la información relativa a la autorización para recibir donativos, así como al cumplimiento de sus obligaciones fiscales por el plazo y en los términos que mediante reglas de carácter general fije la Secretaría de Hacienda y Crédito Público.
+
+Los requisitos a que se refieren las fracciones III, IV y V de este artículo, deberán constar en la escritura constitutiva de la persona moral de que se trate.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -2952,9 +3002,9 @@ Las personas que efectúen la recaudación del impuesto en los términos de esta
 
 Quedan relevadas de cumplir con las obligaciones establecidas en las fracciones I y II de este artículo, los sindicatos obreros y los organismos que los agrupen; excepto por aquellas actividades que de realizarse por otra persona quedarían comprendidas en el artículo 16 del Código Fiscal de la Federación. Asimismo quedan relevadas de cumplir con las obligaciones a que se refieren las fracciones III y IV de este artículo las personas señaladas en el artículo 70 de esta Ley que no determinen remanente distribuible.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
 
-Tratándose de las personas a que se refieren las fracciones V a XIV del citado artículo, así como las, sociedades de inversión a que se refiere este Título, presentarán declaración anual en la que informarán a la Secretaría de Hacienda y Crédito Público de los ingresos obtenidos y de las erogaciones efectuadas. Dicha declaración deberá presentarse a más tardar en el mes de marzo de cada año.
+Tratándose de las personas a que se refieren las fracciones V a XV del citado artículo, así como las sociedades de inversión a que se refiere este Título, presentarán declaración anual en la que informarán a la Secretaría de Hacienda y Crédito Público de los ingresos obtenidos y de las erogaciones efectuadas. Dicha declaración deberá presentarse a más tardar en el mes de marzo de cada año.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -3046,9 +3096,9 @@ Por el excedente de las prestaciones exceptuadas del pago del impuesto a que se 
 
 II.- Las indemnizaciones por riesgos o enfermedades, que se concedan de acuerdo con las leyes o contratos de trabajo respectivos.
 
-> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 1992)</small>
 
-III. Las jubilaciones, pensiones, haberes de retiro, así como las pensiones vitalicias u otras formas de retiro, provenientes de la subcuentas del seguro de retiro abiertas en los términos de la Ley del Seguro Social, en los casos de invalidez, incapacidad, cesantía, vejez, retiro y muerte, cuyo monto diario no exceda de nueve veces el salario mínimo general del área geográfica del contribuyente. Por el excedente se pagará el impuesto en los términos de este Título.
+III.- Las jubilaciones, pensiones, haberes de retiro, así como las pensiones vitalicias u otras formas de retiro, provenientes de las subcuentas del seguro de retiro abiertas en los términos de la Ley del Seguro Social y las provenientes de las cuentas individuales de ahorro abiertas en los términos de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en los casos de invalidez, incapacidad, cesantía, vejez, retiro y muerte, cuyo monto diario no exceda de nueve veces el salario mínimo general del área geográfica del contribuyente. Por el excedente se pagará el impuesto en los términos de este Título.
 
 IV.- Los percibidos con motivo del reembolso de gastos médicos, dentales, hospitalarios y de funeral, que se concedan de manera general, de acuerdo con las leyes o contratos de trabajo.
 
@@ -3068,9 +3118,9 @@ b).- Que la totalidad del préstamo en el ejercicio de que se trate, no exceda d
 
 IX.- La cuota de seguridad social de los trabajadores pagada por los patrones.
 
-> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 1992)</small>
 
-X. Los que obtengan las personas que han estado sujetas a una relación laboral, en el momento de su separación, por concepto de primas de antigüedad, retiro e indemnizaciones u otros pagos, así como los obtenidos con cargo a las subcuentas del seguro de retiro abiertas en los términos de la Ley del Seguro Social, hasta por el equivalente a noventa veces el salario mínimo general del área geográfica del contribuyente por cada año de servicio o de contribución en el caso de las subcuentas del seguro de retiro. Los años de servicio serán los que se hubieran considerado para el cálculo de los conceptos mencionados. Toda fracción de más de seis meses se considerará un año completo. Por el excedente se pagará el impuesto en los términos de este Título.
+X.- Los que obtengan las personas que han estado sujetas a una relación laboral, en el momento de su separación, por concepto de primas de antigüedad, retiro e indemnizaciones u otros pagos, así como los obtenidos con cargo a las subcuentas del seguro de retiro abiertas en los términos de la Ley del Seguro Social y los que obtengan los trabajadores al servicio del Estado con cargo a las cuentas individuales de ahorro, en los términos de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, hasta por el equivalente a noventa veces el salario mínimo general del área geográfica del contribuyente por cada año de servicio o de contribución en el caso de las subcuentas del seguro de retiro o cuentas individuales de ahorro. Los años de servicio serán los que se hubieran considerado para el cálculo de los conceptos mencionados. Toda fracción de más de seis meses se considerará un año completo. Por el excedente se pagará el impuesto en los términos de este Título.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
@@ -3188,13 +3238,13 @@ No se podrán hacer deducciones que correspondan a aquellos ingresos por los que
 
 La exención contenida en la fracción VI de este artículo se limitará cuando la suma de los ingresos por la prestación de servicios personales subordinados y el monto de esta exención exceda de una cantidad equivalente a siete veces el salario mínimo general de el área geográfica del contribuyente, elevado al año; cuando dicha suma exceda de la cantidad citada, solamente se considerará como ingreso no sujeto al pago del impuesto por los conceptos mencionados en la fracción de referencia, un monto hasta de un salario mínimo general de el área geográfica del contribuyente, elevado al año. Esta limitación en ningún caso deberá dar como resultado que la suma de los ingresos por la prestación de servicios personales subordinados y el importe de la exención prevista en la fracción citada, sea inferior a siete veces el salario mínimo general de el área geográfica del contribuyente, elevado al año.
 
-> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 77-A.
 
-Las aportaciones que efectúen los patrones a las subcuentas del seguro de retiro que se constituyan en los términos de la Ley del Seguro Social, así como los intereses que generen las mismas no serán ingresos acumulables del trabajador en el ejercicio en que se aporten o generen, según corresponda.
+Las aportaciones que efectúen los patrones a las subcuentas del seguro de retiro que se constituyan en los términos de la Ley del Seguro Social, así como las aportaciones que se efectúen a las cuentas individuales de ahorro, en los términos de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, incluyendo los intereses que generen dichas subcuentas o cuentas, no serán ingresos acumulables del trabajador en el ejercicio en que se aporten o generen, según corresponda.
 
-Se pagará el impuesto en los términos del Capítulo I de este Título, en el ejercicio en que se efectúen retiros de las subcuentas a que se refiere el párrafo anterior, en los términos de la mencionada Ley.
+Se pagará el impuesto en los términos del Capítulo I de este Título, en el ejercicio en que se efectúen retiros de las subcuentas o cuentas a que se refiere el párrafo anterior, en los términos de las mencionadas leyes.
 
 ### CAPITULO I. DE LOS INGRESOS POR SALARIOS Y EN GENERAL POR LA PRESTACION DE UN SERVICIO PERSONAL SUBORDINADO
 
@@ -3268,11 +3318,11 @@ II.- Al total de percepciones por este concepto se restará una cantidad igual a
 
 La Tasa a que se refiere la fracción II se calculará dividiendo el impuesto señalado en la fracción I entre la cantidad a la cual se le aplicó la tarifa del artículo 141; el cociente se multiplica por cien y el producto se expresa en porciento.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 80.
 
-Quienes hagan pagos por los conceptos a que se refiere este Capítulo están obligados a efectuar retenciones y enteros mensuales que tendrán el carácter de pagos provisionales a cuenta del impuesto anual. No se efectuará retención a las personas que únicamente perciban salario mínimo general correspondiente al área geográfica del contribuyente.
+Quienes hagan pagos por los conceptos a que se refiere este Capítulo están obligados a efectuar retenciones y enteros mensuales que tendrán el carácter de pagos provisionales a cuenta del impuesto anual. Cuando quienes hagan los pagos correspondientes realicen pagos provisionales trimestrales en los términos de esta Ley, efectuarán las retenciones respectivas mensualmente, debiendo realizar los enteros correspondientes en forma trimestral conjuntamente con sus declaraciones de pagos provisionales. No se efectuará retención a las personas que únicamente perciban salario mínimo general correspondiente al área geográfica del contribuyente.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -3436,9 +3486,7 @@ I.- Cuando se trate de contribuyentes que hayan dejado de prestar servicios ante
 
 II.- A quienes únicamente hayan devengado un salario mínimo general de el área geográfica del contribuyente elevado al año.
 
-> <small>(REFORMADA POR LA FRACCION II DEL ARTICULO DECIMO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES FISCALES, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-III.- A quienes hayan obtenido ingresos anuales por los conceptos a que se refiere este Capítulo que excedan de una cantidad equivalente a cinco veces el salario mínimo general que corresponda a el área geográfica del Distrito Federal, elevado al año.
+III.- (DEROGADA, D.O.F. 20 DE JULIO DE 1992)
 
 IV.- A quienes comuniquen por escrito al retenedor que presentarán declaración anual.
 
@@ -3462,9 +3510,9 @@ III.- Presentar declaración anual en los siguientes casos:
 
 a).- Cuando obtengan ingresos acumulables distintos de los señalados en este Capítulo.
 
-> <small>(REFORMADO POR LA FRACCION II DEL ARTICULO DECIMO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES FISCALES, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
 
-b) Cuando obtengan ingresos anuales por los conceptos a que se refiere este Capítulo que excedan de una cantidad equivalente a cinco veces el salario mínimo general que corresponda al área geográfica del Distrito Federal, elevado al año.
+b).- Cuando se hubiera comunicado por escrito al retenedor que se presentará declaración anual.
 
 c).- Cuando dejen de prestar servicios a más tardar el 31 de diciembre del año de que se trate o cuando a dicha fecha se presten servicios a dos o más empleadores.
 
@@ -4098,25 +4146,25 @@ A la utilidad fiscal estimada determinada conforme a esta fracción se le testar
 
 III.- Los pagos provisionales serán las cantidades que resulten de aplicar la tasa del artículo 108-A a la utilidad fiscal que se obtenga conforme a la fracción que antecede, pudiendo acreditarse contra el impuesto a pagar los pagos provisionales del mismo ejercicio efectuados con anterioridad.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE JULIO DE 1992)</small>
 
-IV.- En el séptimo mes del ejercicio y en el último mes del mismo, los contribuyentes ajustarán sus pagos provisionales conforme a lo siguiente:
+IV.- En el séptimo mes del ejercicio, los contribuyentes ajustarán sus pagos provisionales conforme a lo siguiente:
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
 
-a).- De la totalidad de los ingresos obtenidos desde el inicio del ejercicio hasta el último día del mes de junio y hasta el último día del mes de noviembre de dicho ejercicio se restará el monto de las deducciones autorizadas en este Capítulo correspondientes a los mismos períodos; así como, en su caso, las pérdidas fiscales de ejercicios anteriores pendientes de aplicar contra las utilidades fiscales. Tratándose de la deducción de inversiones, de las reservas deducibles en los términos de la fracción IX del artículo 25 de la Ley y de las previstas en los artículos 27 y 28 de la misma, se restará la parte proporcional que representen los meses comprendidos en el período por el que se realice el ajuste, respecto del total de meses del ejercicio de que se trate.
+a).- De la totalidad de los ingresos obtenidos desde el inicio del ejercicio hasta el último día del mes de junio de dicho ejercicio, se restará el monto de las deducciones autorizadas en este Capítulo correspondientes a dicho periodo; así como, en su caso, las pérdidas fiscales de ejercicios anteriores pendientes de aplicar contra las utilidades fiscales. Tratándose de la deducción de inversiones, de las reservas deducibles en los términos de la fracción IX del artículo 25 de la Ley y de las previstas en los artículos 27 y 28 de la misma, se restará la parte proporcional que representen los meses comprendidos en el periodo por el que se realice el ajuste, respecto del total de meses del ejercicio de que se trate.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
 
-b).- Los ajustes en el impuesto, se determinarán aplicando al resultado obtenido conforme al inciso anterior la tasa a que se refiere el a título 108-A. Al monto de cada ajuste en el impuesto se le restará el monto de los pagos provisionales efectivamente enterados en los términos de este artículo, correspondientes a los meses comprendidos en el periodo del ajuste de que se trate. En el caso del segundo ajuste, se restará también la diferencia de impuesto efectivamente pagado conforme al primer ajuste. Las diferencias que resulten a cargo por los ajustes se enterarán con el pago provisional correspondiente a los meses en que se efectúen dichos ajustes. Estas diferencias no serán acreditables contra los pagos provisionales a que se refiere este artículo.
+b).- El ajuste en el impuesto, se determinará aplicando al resultado obtenido conforme al inciso anterior la tasa a que se refiere el artículo 108-A. Al monto del ajuste en el impuesto se le restará el monto de los pagos provisionales efectivamente enterados en los términos de este artículo, correspondientes a los meses comprendidos en el periodo del ajuste. La diferencia que resulte a cargo por el ajuste se enterará con el pago provisional correspondiente al mes en que se efectúe dicho ajuste; los contribuyentes que efectúen sus pagos provisionales en forma trimestral de conformidad con lo establecido en el último párrafo de este artículo, enterarán dicha diferencia conjuntamente con el pago provisional trimestral que realicen en octubre. La diferencia señalada en este párrafo no será acreditable contra los pagos provisionales a que se refiere este artículo.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
 
-Cuando el monto del primer ajuste en el impuesto sea menor que el monto de los pagos provisionales restados de dicho ajuste, la diferencia que resulte a favor del contribuyente se podrá acreditar contra el impuesto que resulte a su cargo en los pagos provisionales posteriores que deban efectuarse por el mismo ejercicio, siempre que se cumplan los requisitos que señala el Reglamento. Contra el impuesto determinado conforme al artículo 108-A, sólo serán acreditables los pagos provisionales y las diferencias en los ajustes, efectivamente enterados.
-
-(DEROGADO SEGUNDO PARRAFO POSTERIOR AL PRIMER PARRAFO DEL INCISO B), D.O.F. 20 DE DICIEMBRE DE 1991)
+Cuando el monto del ajuste en el impuesto sea menor que el monto de los pagos provisionales restados de dicho ajuste, la diferencia que resulte a favor del contribuyente se podrá acreditar contra el impuesto que resulte a su cargo en los pagos provisionales posteriores que deban efectuarse por el mismo ejercicio, siempre que se cumplan los requisitos que señala el Reglamento. Contra el impuesto determinado conforme al artículo 108-A, sólo serán acreditables los pagos provisionales y la diferencia en el ajuste, efectivamente enterados.
 
 (DEROGADO TERCER PARRAFO POSTERIOR AL PRIMER PARRAFO DEL INCISO B), D.O.F. 20 DE DICIEMBRE DE 1991)
+
+(DEROGADO CUARTO PARRAFO POSTERIOR AL PRIMER PARRAFO DEL INCISO B), D.O.F. 20 DE DICIEMBRE DE 1991)
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
@@ -4129,6 +4177,10 @@ Los ingresos nominales a que se refiere este artículo serán los ingresos acumu
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 Los contribuyentes deberán presentar las declaraciones de pagos provisionales siempre que haya impuesto a pagar, saldo a favor y cuando se trate de la primera declaración en la que no tengan impuesto a cargo. No deberán presentar declaraciones de pagos provisionales en el ejercicio de iniciación de operaciones, cuando hubieran presentado el aviso de suspensión de actividades que previene el Reglamento del Código Fiscal de la Federación, así como en los casos en que no haya impuesto a cargo, y no se trate de la primera declaración con esta característica, ni saldo a favor.
+
+> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 1992)</small>
+
+Los contribuyentes cuyos ingresos totales en el ejercicio inmediato anterior no hayan excedido de dos mil millones de pesos, efectuarán los pagos provisionales a que se refiere este artículo en forma trimestral, a más tardar el día 17 de los meses de abril, julio, octubre y enero del año siguiente. Cuando los contribuyentes antes señalados hubieran efectuado pagos provisionales trimestrales en los términos de este párrafo y obtengan en un ejercicio ingresos acumulables que excedan del monto antes indicado, podrán estar a lo previsto en este párrafo en el ejercicio siguiente a aquél en el que excedan de dicha cantidad.
 
 ###### ARTICULO 112.
 
@@ -5342,15 +5394,15 @@ IV. Los donativos no onerosos ni remunerativos que satisfagan los requisitos que
 
 a).- A la Federación, entidades federativas o municipios.
 
-b).- A instituciones asistenciales o de beneficencia autorizadas conforme a las leyes de la materia, así como a las sociedades o asociaciones civiles que lleven a cabo actividades similares.
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+b).- A las entidades a que se refiere el artículo 70-B de esta Ley.
 
-c).- Para instituciones privadas que promuevan las bellas artes.
+c).- (DEROGADO, D.O.F. 20 DE JULIO DE 1992)
 
-d).- Para sociedades o asociaciones que otorguen becas para estudios superiores.
+d).- (DEROGADO, D.O.F. 20 DE JULIO DE 1992)
 
-e).- A instituciones de investigación científica y tecnológica inscritas en el Registro Nacional de Instituciones Científicas y Tecnológicas.
+e).- (DEROGADO, D.O.F. 20 DE JULIO DE 1992)
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -5360,9 +5412,15 @@ f) A programas de escuela empresa.
 
 Tratándose de donativos otorgados a instituciones de enseñanza serán deducibles siempre que sean establecimientos públicos o de propiedad de particulares que tengan autorización o reconocimiento de validez oficial de estudios en los términos de la ley Federal de Educación, se destinen a la adquisición de bienes de inversión, a la investigación científica o desarrollo de tecnología, así como a gastos de administración hasta por el monto, en este último caso, que señaló el reglamento de esta se trate de donaciones no onerosas ni remunerativas, conforme a las reglas generales que al efecto determine la Secretaría de Educación Pública, y dichas instituciones no hayan distribuido remanentes a sus socios o integrantes en los últimos cinco años.
 
-> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 1992)</small>
 
-V. Las cantidades que voluntariamente los trabajadores aporten a la subcuenta del seguro de retiro en términos de lo señalado en la Ley del Seguro Social, hasta por un monto que no exceda del 2% de su salario base de cotización, sin que éste último pueda ser superior a diez veces el salario mínimo general que rija en el Distrito Federal.
+Las personas físicas que obtengan ingresos de los señalados en la Sección I del Capítulo VI de este Título, únicamente podrán deducir los donativos cuyo monto no exceda de una cantidad equivalente al 20% de la utilidad fiscal empresarial que hubiera determinado en el propio ejercicio, sin considerar en dicho cálculo la disminución de pérdidas fiscales pendientes de aplicar de ejercicios anteriores. En el caso de que se obtenga pérdida fiscal en el ejercicio en que se efectúen los donativos, los mismos únicamente podrán deducirse en el ejercicio siguiente, siempre que dichos donativos, adicionados de los que, en su caso, se otorguen en este último ejercicio no excedan de una cantidad equivalente al 20% de la utilidad fiscal empresarial que se hubiera determinado en el mismo, sin considerar en dicho cálculo la disminución de pérdidas fiscales pendientes de aplicar de ejercicios anteriores.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE JULIO DE 1992)</small>
+
+V.- Las cantidades que voluntariamente los trabajadores aporten a la subcuenta del seguro de retiro en términos de lo señalado en la Ley del Seguro Social o a las cuentas individuales de ahorro en términos de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, hasta por un monto que no exceda del 2% de su salario base de cotización, sin que este último pueda ser superior a diez veces el salario mínimo general que rija en el Distrito Federal.
+
+> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
 
 Tratándose de trabajadores cuyo patrón efectúe aportaciones a un fondo de ahorro, de los señalados en la fracción XII del artículo 24 de esta Ley, la deducción a que se refiere el párrafo anterior sólo podrá llevarse a cabo cuando la misma, sumada a la que realice el propio patrón a los citados fondos de ahorro, no exceda del límite establecido para la deducción de las aportaciones a dichos fondos.
 
@@ -5550,17 +5608,31 @@ Cuando en los términos de este Título esté previsto que el impuesto se pague 
 
 El impuesto que corresponda pagar en los términos de este Título, a excepción de lo señalado en el artículo 161 de esta Ley se considerará como definitivo y se pagará mediante declaración que se presentará ante las oficinas autorizadas.
 
+> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 1992)</small>
+
+No se estará obligado a efectuar el pago del impuesto en los términos de este Título cuando se trate de ingresos que deriven de las inversiones efectuadas por fondos de pensiones y jubilaciones constituidos en los términos de la legislación del país de que se trate, siempre que dichos fondos estén exentos del impuesto sobre la renta en dicho país y se registren para tal efecto ante la Secretaría de Hacienda y Crédito Público.
+
 ###### ARTICULO 145.
 
 Tratándose de los ingresos por salarios y en general por la prestación de un servicio personal subordinado, se considerará que la fuente de riqueza se encuentra en territorio nacional cuando el servicio se preste en el país, excepto cuando se trate de ingresos por honorarios a miembros de consejos directivos, de vigilancia o de cualquier otra índole así como los honorarios a administradores o comisarios, caso en el que se entenderá que la fuente de riqueza está ubicada en territorio nacional cuando los mismos sean pagados, en el país o en el extranjero, por empresas residentes en México.
 
 El impuesto será el 30% del ingreso obtenido, sin deducción alguna, debiendo efectuar la retención quien haga los pagos.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 146.
 
-Se exceptúan del pago del impuesto a que se refiere el artículo anterior, los ingresos por salarios y en general por la prestación de un servicio personal subordinado, pagados por residentes en el extranjero, personas físicas o morales, que no tengan establecimiento permanente en el país o que teniéndolo, el servicio no esté relacionado con dicho establecimiento, siempre que el servicio prestado tenga una duración menor a quince días en un período de doce meses. No será aplicable la exención a que se refiere este precepto, cuando quien paga el servicio tenga algún establecimiento en territorio nacional con el que se relacione dicho servicio, que no constituya establecimiento permanente en los términos de los artículos 3o., 157 y 159 de esta Ley, así como cuando el prestador del servicio al citado establecimiento reciba pagos complementarios de residentes en el extranjero en consideración a servicios prestados por los que haya obtenido ingresos sujetos a retención conforme al artículo anterior.
+Se exceptúan del pago del impuesto a que se refiere el artículo anterior, los ingresos por salarios y en general por la prestación de un servicio personal subordinado, pagados por residentes en el extranjero, personas físicas o morales, que no tengan establecimiento permanente en el país o fue teniéndolo, el servicio no esté relacionado con dicho establecimiento, siempre que el servicio prestado tenga una duración menor a 183 días, consecutivos o no, en un periodo de doce meses.
+
+Cuando el servicio prestado tenga una duración de 183 días o más, en un periodo de doce meses, se aplicará lo siguiente:
+
+I.- Se estará exento por los ingreses que no excedan de treinta y dos millones de pesos.
+
+II.- A los ingresos que excedan del monto señalado en la fracción que antecede y no sean superiores a doscientos cincuenta y seis millones de pesos, se les aplicará sobre el excedente el impuesto a que se refiere al artículo anterior a la tasa del 15%.
+
+III.- Sobre el excedente de la cantidad a que se refiere la fracción anterior se pagará el impuesto en los términos del artículo anterior.
+
+No será aplicable lo dispuesto en este precepto, cuando quien paga el servicio tenga algún establecimiento en territorio nacional con el que se relacione dicho servicio, aún cuando no constituya establecimiento permanente en los términos de los artículos 3o., 157 y 159 de esta Ley, así como cuando el prestador del servicio al citado establecimiento reciba pagos complementarios de residentes en el extranjero, en consideración a servicios prestados por los que haya obtenido ingresos sujetos a retención conforme al artículo anterior.
 
 ###### ARTICULO 147.
 
@@ -5570,9 +5642,23 @@ El impuesto será el 30% del ingreso obtenido, sin deducción alguna, debiendo e
 
 Los contribuyentes que perciban ingresos de los señalados en este precepto, tendrán la obligación de expedir recibos por los honorarios obtenidos, que deberán reunir los requisitos que fije el reglamento de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 20 DE JULIO DE 1992)</small>
 
-Se exceptúan del pago de dicho impuesto los ingresos por los conceptos a que se refiere este artículo, pagados por residentes en el extranjero, personas físicas o morales, que no tengan establecimiento permanente en el país o que teniéndolo, el servicio no esté relacionado con dicho establecimiento, siempre que el servicio prestado tenga una duración menor a quince días en un período de doce meses. No será aplicable la exención a que se refiere este párrafo, cuando quien paga el servicio tenga algún establecimiento en territorio nacional con el que se relacione dicho servicio, que no constituya establecimiento permanente en los términos de los artículos 3o., 157 y 159 de esta Ley, así como cuando el prestador del servicio al citado establecimiento reciba pagos complementarios de residentes en el extranjero en consideración a servicios prestados por los que haya obtenido ingresos sujetos a retención en los términos de este artículo.
+> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 1992)</small>
+
+###### ARTICULO 147-A.
+
+Se exceptúan del pago del impuesto los ingresos por los conceptos a que se refiere el artículo anterior, pagados por residentes en el extranjero, personas físicas o morales, que no tengan establecimiento permanente en el país o que teniéndolo, el servicio no esté relacionado con dicho establecimiento, siempre que el servicio prestado tenga una duración menor a 183 días, consecutivos o no, en un periodo de doce meses.
+
+Cuando el servicio prestado tenga una duración de 183 días o más, en un periodo de doce meses, se aplicará lo siguiente:
+
+I.- Se estará exento por los ingresos que no excedan de treinta y dos millones de pesos.
+
+II.- A los ingresos que excedan del monto señalado en la fracción que antecede y no sean superiores a doscientos cincuenta y seis millones de pesos, se les aplicará sobre el excedente el impuesto a que se refiere el artículo anterior a la tasa del 15%.
+
+III.- Sobre el excedente de la cantidad a que se refiere la fracción anterior se pagará el impuesto en los términos del artículo anterior.
+
+No será aplicable lo dispuesto en este precepto, cuando quien paga el servicio tenga algún establecimiento en territorio nacional con el que se relacione dicho servicio, aun cuando no constituya establecimiento permanente en los términos de los artículos 3o., 157 y 159 de esta Ley, así como cuando el prestador del servicio al citado establecimiento reciba pagos complementarios de residentes en el extranjero, en consideración a servicios prestados por los que haya obtenido ingresos sujetos a retención conforme al artículo anterior.
 
 ###### ARTICULO 148.
 
@@ -5818,9 +5904,9 @@ Tratándose de establecimientos permanentes o bases fijas en el país de residen
 
 Se exceptúa del pago del impuesto sobre la renta a que se refiere el artículo anterior, los intereses que se mencionan a continuación:
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 1992)</small>
 
-I.- Los que deriven de créditos concedidos al Gobierno Federal.
+I.- Los que deriven de créditos concedidos al Gobierno Federal, a las entidades no financieras del sector público que al efecto establezca la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general y a las entidades financieras del sector público, siempre que éstas los destinen a otorgar créditos a las entidades no financieras antes mencionadas.
 
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -10077,3 +10163,29 @@ Durante el período comprendido entre el 1o. de septiembre y el 31 de diciembre 
 ###### ARTICULO NOVENO.
 
 El entero de las aportaciones establecidas en el artículo segundo transitorio, así como de las cuotas correspondientes al seguro de retiro por los bimestres tercero a sexto de 1992, se acreditarán mediante la entrega que los patrones deberán efectuar a cada uno de sus trabajadores, de un comprobante elaborado por los propios patrones, mismos que deberán entregarles junto con el último pago de sueldo de los meses de mayo, julio, septiembre y noviembre de 1992 y enero de 1993, según corresponda conforme al artículo segundo transitorio.
+
+D.O.F. 20 DE JULIO DE 1992.
+
+DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO SOBRE LA RENTA
+
+###### ARTICULO NOVENO.
+
+Para efectos de lo dispuesto por el artículo anterior, se aplicarán las siguientes disposiciones transitorias:
+
+I.- Lo dispuesto en los artículos 12, primer párrafo posterior a la fracción III y penúltimo párrafo; 80, primer párrafo; y 111, último párrafo, de la Ley del Impuesto sobre la Renta se aplicará a partir del pago correspondiente a los meses de julio, agosto y septiembre de 1992.
+
+II.- Lo dispuesto en los artículos 24, fracción I, incisos b), c), d), e) y los dos últimos párrafos de dicha fracción, 70, fracciones XI y XV, 70-B, 77, fracciones III y X, 77-A y 140, fracciones IV, incisos b), c), d), e) y último párrafo a dicha fracción y V, primer párrafo, de la Ley del Impuesto sobre la Renta, entrarán en vigor a partir del 1o. de enero de 1993.
+
+III.- Para efectos de lo dispuesto en el penúltimo párrafo de la fracción I, del artículo 24 y tercer párrafo de la fracción IV del artículo 140, de la Ley del Impuesto sobre la Renta, los contribuyentes que efectúen donativos a instituciones autorizadas para recibirlos, para las cuales dichos donativos representen más del 80% de los recibidos en el ejercicio, podrán deducir, en lugar del 20% a que se refieren los citados preceptos, el 80% en el año de 1993, el 68% en el año de 1994, el 56% en el año de 1995, el 44% en el año de 1996 y el 32% en el año de 1997.
+
+DISPOSICIONES DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO SOBRE LA RENTA
+
+###### ARTICULO DECIMO.
+
+Durante el año de 1992, los trabajadores que presten sus servicios a la Federación, Estados, Municipios o a las entidades de la administración pública federal, estatal o municipal, podrán estar a lo dispuesto por los artículos 77, fracciones III y X, 77-A y 140 fracción V, de la Ley del Impuesto sobre la Renta vigentes hasta el 31 de diciembre de 1992, por las aportaciones que se hayan efectuado en los términos del Decreto por el que se establece en favor de los Trabajadores al Servicio de la Administración Pública Federal que estén Sujetos al Régimen Obligatorio de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, un Sistema de Ahorro para el Retiro, publicado en el Diario Oficial de la Federación el 27 de marzo de 1992.
+
+## TRANSITORIO
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
