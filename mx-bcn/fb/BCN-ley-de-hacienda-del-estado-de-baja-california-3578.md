@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "2001-11-09"
+last_updated: "2002-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2002.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -1367,6 +1367,16 @@ Aún cuando en ambos casos dichos pagos no excedan del salario mínimo o bien, e
 
 16.- Este Impuesto se liquidará y pagará de conformidad con la tasa que estipule la Ley de Ingresos del Estado, aplicada al total de los pagos efectuados por el empleador, según los períodos establecidos por el Artículo 151-14, o al total de las percepciones que en el mismo período obtengan de fuera del Estado, quienes presten servicios de carácter personal dentro del mismo.
 
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2002)</small>
+
+De los ingresos totales que se obtengan por concepto de recaudación de este Impuesto se destinará el 5% al fideicomiso empresarial del Estado, el cual tendrá como objetivos:
+
+a).- Apoyar la Seguridad Pública en el Estado;
+
+b).- Fomentar la Participación Social en la Educación; y
+
+c).- Fortalecer las Comisiones y Consejos de Desarrollo Económico.
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 151
@@ -2236,3 +2246,9 @@ P.O. 9 DE NOVIEMBRE DE 2001.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Hasta en tanto no se concrete la asunción de facultades y funciones por parte de los Ayuntamientos, se seguirán aplicando las disposiciones legales anteriores a la presente reforma.
+
+P.O. 22 DE FEBRERO DE 2002.
+
+###### ARTICULO UNICO.
+
+La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
