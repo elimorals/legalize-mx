@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-la-defensa-nacional-106
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-01"
-last_updated: "1995-04-11"
+last_updated: "2002-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-08-30"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE LA DEFENSA NACIONAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE ABRIL DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JULIO DE 2002.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 1 de septiembre de 1992.
 
@@ -71,7 +71,7 @@ Para su funcionamiento, la Secretaría de la Defensa Nacional se integra con:
 
 I. Secretario de la Defensa Nacional;
 
-II. Subsecretaría de la Defensa Nacional.
+II. Subsecretaría de la Defensa Nacional;
 
 III. Oficialía Mayor de la Secretaría de la Defensa Nacional;
 
@@ -141,13 +141,19 @@ XXVIII. Dirección General del Servicio Militar Nacional;
 
 XXIX. Dirección General del Registro Federal de Armas de Fuego y Control de Explosivos;
 
-XXX. Dirección General de Fábricas de la Defensa Nacional; y
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2002)</small>
 
-> <small>(ADICIONADA, D.O.F. 21 DE NOVIEMBRE DE 1994)</small>
+XXX. Dirección General de Industria Militar;
 
-XXXI. Dirección General de Comunicación Social; y
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2002)</small>
 
-XXXII.- Organos del Fuero de Guerra.
+XXXI. Dirección General de Fábricas de Vestuario y Equipo;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JULIO DE 2002)</small>
+
+XXXII. Dirección General de Comunicación Social, y
+
+XXXIII.- Organos del Fuero de Guerra.
 
 ## TITULO CUARTO. De las Atribuciones y Responsabilidades
 
@@ -1209,29 +1215,43 @@ VI. Proponer programas orientados a disminuir la posesión, portación y uso de 
 
 VII. Manejar la información estadística relativa a las actividades establecidas en la Ley Federal de Armas de Fuego y Explosivos y su reglamento.
 
-### CAPITULO XXIV. De la Dirección General de Fábrica de la Defensa Nacional
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 1 DE JULIO DE 2002)</small>
+
+### CAPITULO XXIV. De la Dirección General de Industria Militar
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 49.
 
-Corresponde a la Dirección General de Fábricas de la Defensa Nacional:
+Corresponde a la Dirección General de Industria Militar:
 
-I. Fabricar y reparar el armamento, maquinaria, municiones y demás equipo de guerra necesarios para el Ejército y Fuerza Aérea Mexicanos;
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2002)</small>
 
-II. Realizar investigación científico-industrial para mejorar el material requerido por el Ejército y Fuerza Aérea;
+l. Fabricar, ensamblar y reparar el armamento, maquinaria, municiones, vehículos militares y demás equipo industrial y militar necesario para el Ejército y Fuerza Aérea Mexicanos;
 
-III. Fabricar vestuario y equipo para el Ejército y Fuerza Aérea, así como elaborar artículos y derivados conexos a la producción militar;
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2002)</small>
 
-IV. Realizar la investigación y procesamiento de las materias primas utilizadas en la fabricación de los materiales de guerra, vestuario, equipo y demás implementos necesarios para la vida y combate de las tropas, así como de aquellas que contribuyan al desarrollo tecnológico e industrial del país;
+II. Realizar investigación científica y tecnológica en el ramo industrial para mejorar el material requerido por el Ejército y Fuerza Aérea Mexicanos;
 
-V. Proponer la adquisición de armamento, municiones, vestuario y toda clase de materiales y elementos destinados al Ejército y a la Fuerza Aérea;
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2002)</small>
 
-> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 1995)</small>
+III. Fabricar y reparar equipo industrial o militar para el Ejército y Fuerza Aérea, así como elaborar artículos y derivados conexos a la producción militar y, en su caso, implementar fabricaciones conjuntas con otras dependencias;
 
-VI. Proponer programas tendientes a evitar y combatir la contaminación ambiental;
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2002)</small>
 
-> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 1995)</small>
+IV. Realizar la investigación y procesamiento de las materias primas e insumos en general, utilizados en la fabricación de los materiales de guerra y demás implementos necesarios para las tropas;
 
-VII. Realizar visitas de supervisión a los organismos que la constituyen, de conformidad con las directivas del Secretario de la Defensa Nacional;
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2002)</small>
+
+V. Realizar la adquisición de maquinaria, vehículos militares, equipo industrial y militar, armamento, municiones y toda clase de materiales y elementos destinados al Ejército y a la Fuerza Aérea Mexicanos;
+
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2002)</small>
+
+VI. Establecer programas tendientes a evitar la contaminación ambiental en las actividades relacionadas con la industria militar;
+
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2002)</small>
+
+VII. Supervisar a las unidades administrativas que le estén adscritas de conformidad con las directivas establecidas por el Secretario;
 
 > <small>(ADICIONADA, D.O.F. 11 DE ABRIL DE 1995)</small>
 
@@ -1245,39 +1265,61 @@ IX. Importar y exportar armas, municiones y explosivos, así como materiales, ar
 
 X. Proporcionar servicios de asesoría técnica, ensamble, reparación y mantenimiento de armas, así como de materiales, artefactos, accesorios y equipos conexos.
 
-> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2002)</small>
 
-Los productos que se obtengan con motivo de la enajenación y actividades económicas que se precisan en las fracciones VIII, IX y X, se enterarán a la Tesorería de la Federación para su utilización por la Secretaría de la Defensa Nacional, previa autorización de la de Hacienda y Crédito Público, de conformidad con la normatividad aplicable.
+Los productos que se obtengan con motivo de la enajenación y ejecución de las actividades que se precisan en las fracciones VIII a X, se enterarán a la Tesorería de la Federación para su utilización por la Secretaría de la Defensa Nacional, previa autorización de la Secretaría de Hacienda y Crédito Público, de conformidad con las normas jurídicas aplicables.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 21 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 1 DE JULIO DE 2002)</small>
 
-### CAPITULO XXIV BIS. De la Dirección General de Comunicación Social
+### CAPITULO XXIV BIS. De la Dirección General de Fábricas de Vestuario y Equipo
 
-> <small>(ADICIONADO, D.O.F. 21 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2002)</small>
 
-ARTICULO 49 BIS.- Corresponde a la Dirección General de Comunicación Social;
+ARTICULO 49 BIS.- Corresponde a la Dirección General de Fábricas de Vestuario y Equipo:
 
-I. Planear, formular, dirigir y coordinar la política de comunicación social y de relaciones públicas de la Secretaría de la Defensa Nacional;
+l. Diseñar, innovar, fabricar y reparar calzado, mobiliario, vestuario y equipo conforme lo requieran las necesidades del Ejército y Fuerza Aérea Mexicanos, así como artículos conexos en coordinación con otras dependencias;
 
-II. Establecer, mantener e incrementar las relaciones públicas con instituciones y representantes de los sectores públicos, social y privado y medios de comunicación ;
+II. Desarrollar e investigar tecnología aplicable en los procesos productivos de su competencia, así como coordinarse para ello con otras dependencias y entidades;
 
-III. Canalizar las solicitudes de entrevistas, reportajes especiales e información solicitada por los medios de comunicación al Alto Mando;
+III. Realizar la adquisición de materias primas, materiales, maquinaria y equipo, necesarios para fabricar artículos y derivados conexos de la producción militar;
 
-IV. Coordinar las conferencias de prensa, visitas individuales o grupales de los medios de comunicación e instalaciones militares, reportajes especiales, entrevistas, transmisión de boletines de prensa y emisión de material informativo a los medios de comunicación;
+IV. Establecer programas tendientes a evitar la contaminación ambiental como parte de los procesos productivos a su cargo;
+
+V. Proporcionar mantenimiento a la maquinaria, equipo e instalaciones a su cargo para conservar su capacidad productiva;
+
+VI. Supervisar la optimización de los recursos materiales a su cargo, así como procurar el incremento de la capacidad productiva de las unidades administrativas que tenga adscritas, y
+
+VII. Enajenar artículos producidos en la esfera de su competencia, cuando los niveles de productividad lo permitan y sin perjuicio de las necesidades del Ejército y Fuerza Aérea Mexicanos.
+
+Los productos que se obtengan con motivo de lo dispuesto por la fracción VII se enterarán a la Tesorería de la Federación para su utilización por la Secretaría de la Defensa Nacional, previa autorización de la Secretaría de Hacienda y Crédito Público, de conformidad con las normas jurídicas aplicables.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 1 DE JULIO DE 2002)</small>
+
+### CAPITULO XXIV TER. De la Dirección General de Comunicación Social
+
+> <small>(ADICIONADO, D.O.F. 1 DE JULIO DE 2002)</small>
+
+ARTICULO 49 TER.- Corresponde a la Dirección General de Comunicación Social:
+
+l. Planear, formular, dirigir y coordinar la política de comunicación social y de relaciones públicas de la Secretaría de la Defensa Nacional;
+
+II. Establecer, mantener e incrementar las relaciones públicas con instituciones y representantes de los sectores público, social y privado, así como con los medios de comunicación;
+
+III. Canalizar las solicitudes de entrevistas, reportajes especiales e información solicitada por los medios de comunicación al Secretario de la Defensa Nacional;
+
+IV. Coordinar las conferencias de prensa, visitas individuales o grupales de los medios de comunicación a instalaciones militares, reportajes especiales, entrevistas, transmisión de boletines de prensa y emisión de material informativo a los medios de comunicación;
 
 V. Realizar el análisis de información difundida en los medios de comunicación social;
 
 VI. Gestionar la acreditación de los representantes de los medios de comunicación;
 
-VII. Realizar reportajes, entrevistas y otros géneros periodísticos que contribuyan con la publicación y otros materiales informativos para cubrir las necesidades de comunicación de la Secretaría de la Defensa Nacional;
+VII. Realizar reportajes, entrevistas y otros géneros periodísticos que contribuyan a la publicación y otros materiales informativos para cubrir las necesidades de comunicación de la Secretaría de la Defensa Nacional;
 
-VIII: Evaluar los efectos y resultados de los objetivos de los servicios de información, difusión y relaciones públicas proporcionadas, a fin de mejorar la organización, sistemas y procedimientos empleados, y
+VIII. Evaluar los efectos y resultados de los servicios de información, difusión y relaciones públicas proporcionadas, a fin de mejorar la organización, sistemas y procedimientos empleados, y
 
-IX. Constituirse en el vocero oficial de la Secretaría de la Defensa Nacional.
+IX. Constituirse en el vocero de la Secretaría de la Defensa Nacional.
 
 ### CAPITULO XXV. De los Organos del Fuero de Guerra
-
-### CAPITULO UNICO
 
 ###### ARTICULO 50.
 
@@ -1296,6 +1338,8 @@ La organización y funcionamiento de los Organos del Fuero de Guerra, se estable
 El Procurador General de Justicia Militar asesorará jurídicamente a la Secretaría de la Defensa Nacional, en asuntos de su competencia.
 
 ## TITULO SEPTIMO. De las Suplencias de los Funcionarios de la Secretaría de la Defensa Nacional
+
+### CAPITULO UNICO
 
 ###### ARTICULO 52.
 
@@ -1350,3 +1394,11 @@ D.O.F. 11 DE ABRIL DE 1995.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se deroga el artículo 5/o. (Sic) del Decreto que crea la Dirección General de Fábricas de la Defensa Nacional, publicado en el Diario Oficial de la Federación el 13 de septiembre de 1991.
+
+D.O.F. 1 DE JULIO DE 2002.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se deroga el Decreto publicado en el Diario Oficial de la Federación el 13 de septiembre de 1991, por el que se creó la Dirección General de Fábricas de la Defensa Nacional.
+
+TERCERO. Las menciones contenidas en otros ordenamientos respecto de la Dirección General de Fábricas se entenderán referidas a las unidades administrativas que se crean en este Decreto, conforme a la esfera de su respectiva competencia.
