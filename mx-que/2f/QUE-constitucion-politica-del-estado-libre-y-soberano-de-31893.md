@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1928-09-27"
+last_updated: "1928-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 1928.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 1928.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -48,6 +48,12 @@ Lo dispuesto en los artículos 31, 32 y 48 comenzará a regir al verificarse las
 ###### ARTICULO 2°.
 
 Esta Ley comenzará a surtir sus efectos desde la fecha de su publicación.
+
+P.O. 1 DE NOVIEMBRE DE 1928
+
+ART. 1°.- La reforma del artículo 48 de la Constitución Política del Estado, comenzará a regir al instalarse la XXIX Legislatura Constitucional del mismo.
+
+ART. 2°.- Esta Ley comenzará a surtir sus efectos, desde la fecha de su publicación.
 
 ## TITULO SEGUNDO
 
@@ -357,7 +363,7 @@ La Legislatura deberá residir en la capital del Estado.
 
 En caso de trastornos graves del orden público o de cualquiera otra calamidad, el Gobernador, con aprobación de la Legislatura, y en sus recesos, de la Diputación Permanente, podrá establecer la residencia provisional de los Poderes en otro lugar.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1928)</small>
 
 ###### Art. 48.
 
@@ -563,9 +569,9 @@ VI.- Otorgar dispensas de los estudios que determinen las leyes de Instrucción 
 
 VII.- Conceder, ni investirse en ningún caso, de facultades extraordinarias; fuera de las señaladas por esta Constitución.
 
-> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 1928)</small>
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 1928)</small>
 
-VIII.- Condonar contribuciones a los causantes que no las hayan cubierto oportunamente salvo en el caso de una calamidad pública.
+VIII.- Condonar contribuciones a los causantes que no las hayan cubierto oportunamente, salvo en el caso de calamidad pública.
 
 ###### Art. 65.
 
@@ -683,7 +689,7 @@ IV.- No pertenecer al estado eclesiástico, ni ser ministro de alguna religión 
 
 V.- Tener antecedentes intachables de moralidad.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1928)</small>
 
 ###### Art. 107.
 
@@ -787,7 +793,7 @@ Ejercen las funciones del Ministerio Público en el Estado, el Procurador Genera
 
 Para ser Procurador de Justicia se necesitan los mismos requisitos que para ser Magistrado del Tribunal Superior.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1928)</small>
 
 ###### Art. 120.
 
@@ -1271,9 +1277,9 @@ X.- Promulgar leyes, decretos y reglamentos, o expedir órdenes de pago, sin que
 
 XI.- Investirse de facultades que no le señale expresamente la ley;
 
-> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 1928)</small>
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 1928)</small>
 
-XII.- Condonar contribuciones a los causantes que no las hayan cubierto oportunamente, con excepción de los casos de insolvencia o cuando por fuerza mayor, la propiedad o propiedades de causantes hubieren estado substraídas a su dominio. También en casos excepcionales y a su juicio, podrá condonar las multas y recargos en que se haya incurrido por no haber cubierto oportunamente las contribuciones de que se trata.
+XII.- Condonar contribuciones a los causantes que no las hayan cubierto oportunamente, con excepción de los casos de insolvencia o cuando por fuerza mayor la propiedad o propiedades de causantes hubieren estado substraídas a su dominio. También en casos excepcionales y a su juicio, podrá condonar las multas y recargos en que se haya incurrido por no haber cubierto oportunamente las contribuciones.
 
 La infracción de las disposiciones de este artículo será causa de responsabilidad.
 
@@ -1323,17 +1329,17 @@ Esta Constitución se publicará con la mayor solemnidad, y comenzará a regir e
 
 El Estado de Querétaro Arteaga es parte integrante de la Federación Mexicana. Es Libre y Soberano en lo que se refiere a su régimen interior, y sólo delega sus facultades en los Supremos Poderes Federales, para el bien procomunal de la Nación, en todos aquellos puntos que ha fijado o fije expresamente la Constitución Política de los Estado Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1928)</small>
 
 ###### Art. 2º.
 
-El territorio del Estado se dividirá en seis municipalidades que son: Amealco, Cadereyta, Jalpan, Querétaro, San Juan del Río y Tolimán.
+El territorio del Estado se dividirá en seis Municipalidades que son: Amealco, Cadereyta, Jalpan, Querétaro, San Juan del Río y Tolimán.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1928)</small>
 
 ###### Art. 3°.
 
-Las municipalidades mencionadas en el artículo anterior conservarán la misma extensión y límites que para el efecto señala la Ley Orgánica del Municipio Libre, siendo las cabeceras de esas municipalidades las poblaciones de sus mismos nombres.
+Las Municipalidades mencionadas en el artículo anterior conservarán la misma extensión y límites que para el efecto señala la Ley Orgánica del Municipio Libre, siendo las cabeceras de esas Municipalidades las poblaciones de sus mismos nombres.
 
 ###### Art. 3º.
 
