@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1964-04-18"
+last_updated: "1964-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 18 DE ABRIL DE 1964.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 5 DE AGOSTO DE 1964.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -419,13 +419,15 @@ En sesiones extraordinarias el Congreso se ocupará exclusivamente del asunto o 
 
 Si al comenzar un período de sesiones ordinarias el Congreso estuviere celebrando extraordinarias, cesarán éstas y continuarán discutiéndose en aquellas los negocios para que fue convocado.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>N. DE E. LA PRESENTE REFORMA QUEDA ABROGADA A PARTIR DE LA ENTRADA EN VIGOR DE LA LEY No. 25, PUBLICADA EN EL B.O. DE FECHA 11 DE AGOSTO DE 1965.</small>
+
+> <small>(REFORMADO, B.O. 5 DE AGOSTO DE 1964)</small>
 
 ###### Artículo 46.
 
-El día dieciséis de septiembre de cada año, fecha de la apertura del primer período de sesiones ordinarias del Congreso, asistirá el Gobernador quien rendirá, en el acto, un informe sobre el estado que guarde la administración pública en sus diversos ramos.
+El día primero de Octubre de cada año asistirá el Gobernador a la sesión que en ese día deberá celebrar el Congreso, ante quien rendirá, en el acto, un informe sobre el estado que guarda la Administración Pública en sus diversos ramos.
 
-El último año de su ejercicio constitucional, el Gobernador rendirá el informe a que este precepto se refiere al día primero de septiembre, en el acto de la toma de posesión del Gobernador electo para el siguiente período.
+El último año de su ejercicio constitucional, el Gobernador rendirá el informe a que este precepto se refiere el día primero de septiembre, en el acto de la toma de posesión del Gobernador electo para el siguiente período.
 
 ###### Artículo 47.
 
@@ -839,7 +841,11 @@ Imponer asímismo, las sanciones que por infracciones a las Leyes y Reglamentos 
 
 VII. Presentar cada año ante el Congreso durante la primera quincena del mes de noviembre, los proyectos de presupuestos de ingresos y egresos del Estado, que deberán regir en el año fiscal inmediato siguiente, y en la primera quincena del segundo periodo de sesiones ordinarias, la cuenta de gastos del año anterior.
 
-VIII. Concurrir a la apertura del primer período de sesiones ordinarias del Congreso, para rendir el informe a que se refiere el artículo 46 de esta Constitución.
+> <small>N. DE E. LA PRESENTE REFORMA QUEDA ABROGADA A PARTIR DE LA ENTRADA EN VIGOR DE LA LEY No. 25, PUBLICADA EN EL B.O. DE FECHA 11 DE AGOSTO DE 1965.</small>
+
+> <small>(REFORMADA, B.O. 5 DE AGOSTO DE 1964)</small>
+
+VIII. Concurrir el día primero de Octubre a la sesión ordinaria del Congreso para rendir el informe a que se refiere el Artículo 46 de esta Constitución.
 
 IX. Concurrir a la apertura de las sesiones extraordinarias que hubiere solicitado del Congreso, con objeto de explicar los motivos en que haya fundado la convocatoria.
 
@@ -1623,9 +1629,7 @@ Los Funcionarios y Empleados del Estado y Municipales de las poblaciones fronter
 
 (DEROGADO, B.O. 5 DE MAYO DE 1954)
 
-> <small>(REFORMADO, B.O. 21 DE MAYO DE 1960)</small>
-
-Artículo 162 A. Todo funcionario o empleado público que por razón de sus funciones no esté impedido para ocupar puestos de elección popular, deberá sin embargo, separarse de su cargo noventa días antes de la fecha de la elección, para poder ser electo.
+Artículo 162 A. (DEROGADO, B.O. 5 DE AGOSTO DE 1964)
 
 Artículo 162 C. (DEROGADO, B.O. 5 DE MAYO DE 1954)
 
@@ -1838,6 +1842,20 @@ UNICO.- Las presentes reformas entrarán en vigor a partir de su publicación en
 B.O. 18 DE ABRIL DE 1964.
 
 UNICO.- La presente Ley entrará en vigor cinco días después de su publicación en el Boletín Oficial del Estado.
+
+B.O. 5 DE AGOSTO DE 1964.
+
+LEY No. 92, QUE DEROGA EL ARTICULO 162-A DE LA CONSTITUCION.
+
+UNICO.- La presente Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 5 DE AGOSTO DE 1964.
+
+> <small>N. DE E. LA PRESENTE LEY QUEDA ABROGADA A PARTIR DE LA ENTRADA EN VIGOR DE LA LEY No. 25, PUBLICADA EN EL B.O. DE FECHA 11 DE AGOSTO DE 1965.</small>
+
+LEY No. 93, QUE REFORMA DIVERSOS ARTICULOS DE LA CONSTITUCION.
+
+UNICO.- La presente Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
 
 ###### ARTÍCULO ÚNICO.
 
