@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-los-municipios-del-estado-de-baja-2949"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "1999-11-30"
+last_updated: "2000-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE NOVIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE ENERO DE 2000.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1985.
 
@@ -49,15 +49,21 @@ IMPUESTO PREDIAL.
 
 OBJETO DEL IMPUESTO.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE ENERO DE 2000)</small>
+
 ###### ARTICULO 1o.
 
-Es objeto del Impuesto Predial:
+Es objeto del Impuesto Predial, la propiedad, usufructo, disfrute, uso y posesión de cualquier naturaleza, de toda clase de bienes inmuebles, así como las construcciones y bienes adheridos a:
 
 I.- La propiedad de predios urbanos.
 
 II.- La propiedad de predios rústicos.
 
-III.- La propiedad ejidal.
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2000)</small>
+
+III.- La predios ejidales, salvo los casos establecidos en la ley agraria.
+
+Plantas de beneficio y establecimientos matalúrgicos.
 
 IV.- La propiedad de plantas de beneficio y establecimientos metalúrgicos.
 
@@ -69,45 +75,45 @@ b).- Cuando se derive de contratos preparatorios, de venta con reserva de domini
 
 c).- Cuando los titulares sean la Federación, Estado o Municipios y se encuentren en explotación por personas distintas de los titulares.
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
-
 ###### ARTICULO 2o.
 
-El impuesto predial comprende la propiedad o posesión de terrenos y construcciones.
+(DEROGADO, B.O. 31 DE ENERO DE 2000)
 
 SUJETOS DEL IMPUESTO.
+
+> <small>(REFORMADO. B.O. 31 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 3o.
 
 Son sujetos por deuda propia y con responsabilidad directa del Impuesto Predial:
 
-I.- Los propietarios de predios urbanos o rústicos.
+a).- Los propietarios de bienes inmuebles.
 
-II.- Los Comisariados Ejidales.
+b).- Usufructuarios de bienes inmuebles.
 
-III.- Los propietarios de plantas de beneficio y establecimientos metalúrgicos.
+c).- Las comunidades ejidales salvo los casos previstos en la ley agraria.
 
-IV.- Los poseedores de predios urbanos o rústicos, en el caso que se refiere la Fracción V del Artículo 1o.
+d).- Los posesionarios de bienes inmuebles.
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+e).- Los fiduciarios, fideicomitentes y beneficiarios de bienes inmuebles fideicomitidos.
 
-V.- Los fideicomitentes mientras sean poseedores del predio objeto del fideicomiso; o los fideicomisarios que estén en posesión del predio, aún cuando no se les haya trasmitido tadavía (sic) la propiedad, o los terceros adquirientes o posesionarios por cualquier acto derivado de un fideicomiso.
-
-VI.- Los propietarios de construcciones que hayan sido levantadas en terrenos que no sean de su propiedad, los cuales son además responsables solidarios por el pago del impuesto que corresponda al terreno.
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 4o.
 
-Son sujetos por deuda ajena y responsabilidad objetiva, los adquirentes por cualquier título de predios urbanos o rústicos.
+Es obligación de los sujetos pasivos del impuesto, en un plazo de quince días al de su acusación, el inscribirse como tales, por escrito, en el registro catastral del lugar donde se ubique el inmueble objeto del gravamen, catastral, manifestando las características y valores de los mismos, que ésta última requiera.
+
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 5o.
 
-Son sujetos por deuda ajena y responsabilidad solidaria, los propietarios de predios que prometidos los hubieran vendido con reserva de dominio, en los casos a los que se refiere el inciso b), de la Fracción V, del Artículo 1o.
+Son sujetos por deuda ajena y responsabilidad solidaria, los propietarios de predios que prometidos los hubieran vendido con reserva de dominio. Los sujetos del impuesto deberán exhibir constancia de no existencia de adeudos fiscales, como requisito previo a su solicitud de licencia de construcción, ampliación, demolición, reconstrucción de cualquier clase, lotificación, subdivisión o fusión de predios, deslindes, alineamientos, autorizaciones al uso de suelo, terminación de obra, cuando soliciten introducción del servicio de agua potable, utilización de drenaje, o al solicitar la licencia para iniciar o refrendar cualquier tipo de giro comercial, turístico o industrial, cual fuera su actividad, así como manifestaciones de contratos de arrendamiento.
 
-Los propietarios, o en su caso los poseedores de predios deberán presentar el último recibo o constancia de estar al corriente en el pago del Impuesto Predial y de que el predio se encuentra catastrado, como requisito previo a su solicitud de construcción, ampliación, demolición, reconstrucción de cualquier clase, división o fusión de predios, deslindes o cuando solicite la introducción del servicio de agua potable, utilización de drenaje o al solicitar licencia para iniciar o refrendar cualquier tipo de giro comercial cual fuese su actividad.
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 6o.
 
-Son sujetos por deuda ajena y con responsabilidad substituta, los Servidores Públicos y empleados Municipales que indebidamente alteren los datos que sirvan de base para el cobro del Impuesto Predial o que posibiliten la evasión fiscal deliberadamente.
+Son sujetos por deuda ajena y con responsabilidad solidaria los servidores públicos y empleados municipales, que indebidamente alteren los datos que sirvan de base para el cobro del impuesto Predial, o que posibiliten la evasión fiscal deliberadamente o bien, que expidan constancia de no existencia de adeudos fiscales, sin cerciorarse de la existencia de los mismos.
 
 BASE Y TASA DEL IMPUESTO.
 
@@ -127,11 +133,9 @@ En ningún caso el Impuesto Predial Anual será inferior a un días (sic) de sal
 
 El impuesto sobre la Propiedad Ejidal se ajustará a las disposiciones relativas de la Ley Federal de Reforma Agraria, sin que su monto pueda exceder el 5% de su producción anual.
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1990)</small>
-
 ###### ARTICULO 9o.
 
-El Impuesto sobre las plantas de beneficio y establecimientos metalúrgicos de cualquier clase, se causará sobre el valor de la finca e instalaciones a razón de 12 al millar.
+(DEROGADO, B.O. 31 DE ENERO DE 2000)
 
 > <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1990)</small>
 
@@ -153,37 +157,23 @@ Se considerará lote baldío, aquél que teniendo construcciones, éstas represe
 
 En ningún caso el Impuesto Predial Anual deberá ser inferior a un días (sic) de salario mínimo.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 11.
 
 El Impuesto Predial se cubrirá en las Oficinas Recaudadoras correspondientes:
 
-I.- Sobre la propiedad urbana, rústica y las plantas de beneficio, establecimientos metalúrgicos, por bimestres adelantados en los primeros diez días de los meses de Enero, Marzo, Mayo, Julio, Septiembre y Noviembre.
+I.- Sobre la Propiedad Urbana, Rústica y las plantas de beneficio, establecimientos metalúrgicos, por bimestres adelantados y en los primeros diez días de los meses de enero, marzo, mayo, julio, septiembre y noviembre.
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1990)</small>
+Si el impuesto anual equivale a un día salario mínimo, deberá cubrirse en una sola exhibición dentro del mes de enero del año que corresponda.
 
-Si el Impuesto Anual equivale a un día salario mínimo, deberá cubrirse en una sola exhibición dentro del mes de Enero del año correspondiente.
+II.- Sólo en el caso de que un predio arrendado, prestado, desocupado, destinado a comercio, industria y otro uso similar, pase a ser habitado en su totalidad por su propietario, podrá cambiarse a la tasa del impuesto a la que fija el Artículo 10, Fracción I, Inciso a). La nueva tasa surtirá efecto a partir del bimestre siguiente al de aquel en que el causante presente la solicitud por escrito.
 
-II.- Sobre la propiedad ejidal, al recibir el pago de sus productos.
+III.- Los contribuyentes que paguen el Impuesto Predial del ejercicio, en una sola exhibición, dentro de los meses de enero y febrero de cada ejercicio fiscal, tendrán un descuento del 10% y en ese caso no causarán recargos por el primer bimestre. El pago por anticipado del Impuesto Predial no impide el cobro de diferencia que deba hacer la Oficina Recaudadora correspondiente, por cambio de las bases gravables o alteraciones de las cuotas del impuesto.
 
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
+Cuando sean modificadas las delimitaciones de colonias catastrales y valores de calles o los calores catastrales fijados de acuerdo a la Ley, las mismas surtirán efectos y entrarán en vigor a partir del bimestre inmediato posterior a la publicación de los mismos en el boletín oficial del Estado.
 
-III.- Sólo en el caso de que un predio arrendado, prestado, desocupado, destinado a comercio, industria u otro uso similar, pase a ser habitado en su totalidad por su propietario, podrá cambiarse la tasa del Impuesto a la que fija el Artículo 10, Fracción I, Inciso a).
-
-La nueva tasa surtirá efecto a partir del bimestre siguiente al de aquél en que el causante presente la solicitud por escrito.
-
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
-
-IV.- Los contribuyentes que paguen el Impuesto Predial del ejercicio, en una sola exhibición, dentro de los meses de Enero y Febrero de cada Ejercicio Fiscal, tendrán un descuento del 10% y en este caso no causarán recargos por el primer bimestre.
-
-El pago por anticipado del Impuesto Predial del ejercicio no impide el cobro de diferencias que deba hacer la oficina Recaudadora correspondiente, por cambio de las bases gravables o alteraciones de las cuotas del Impuesto.
-
-V.- (DEROGADA, B.O. 30 DE NOVIEMBRE DE 1999)
-
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
-
-Cuando se trate de cambios de valores unitarios de terrenos y construcciones por revaluación que señalan los Artículos relativos de la Ley de Catastro, la cuota del impuesto sobre los valores detallados en el párrafo que antecede, entrará en vigor a partir del bimestre siguiente al de haber sido publicado (sic) los valores unitarios en el Boletín Oficial del Gobierno del Estado.
+La falta de pago oportuno generará los recargos a la tasa que determine la ley de la materia.
 
 EXENCIONES.
 
@@ -191,9 +181,9 @@ EXENCIONES.
 
 Están exentos del pago del Impuesto Predial:
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2000)</small>
 
-I.- Los bienes de dominio público de la Federación, Estados y Municipios.
+I.- Los bienes de dominio público de la Federación, de los Estados y Municipios, salvo que sean utilizados con propósitos distintos a su objetivo público.
 
 No quedan exentos de pago los bienes de dominio público que organismos públicos descentralizados utilicen para oficinas administrativas o en general para propósitos distintos a los de su objeto.
 
@@ -241,9 +231,11 @@ Se considera vivienda de interés social aquella que su costo de adquisición no
 
 No se causará este impuesto en las adquisiciones de inmuebles del dominio público de la Federación, Estados Extranjeros, Estados o los Municipios, en caso de reciprocidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE ENERO DE 2000)</small>
+
 ###### ARTICULO 16.
 
-Para los efectos de esta Ley, se entiende por adquisición la que se derive de:
+Para los efectos de esta Ley se entiende por adquisición la que se derive de:
 
 > <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
 
@@ -269,13 +261,9 @@ VIII.- La cesión de derechos de heredero, legatario o copropietario, en la part
 
 Se entenderá como cesión de derechos la renuncia de la herencia o legado efectuada después de la declaración de herederos o legatarios.
 
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2000)</small>
 
-IX.- La que se realice a través de fideicomiso, en los siguientes casos:
-
-a).- En el acto en el que el fideicomitente designa o se obligue a designar fideicomisario diverso a él y siempre que no tenga derecho a readquirir del fiduciario los bienes.
-
-b).- En el acto en que el fideicomitente pierda el derecho a readquirir los bienes del fiduciario, si se hubiere reservado tal derecho.
+IX.- Enajenación a través de fideicomiso o de cesión de derechos de fideicomisos, en los términos del Código Fiscal de la Federación.
 
 X.- La prescripción positiva.
 
@@ -297,33 +285,29 @@ b).- En el acto en el que el fideicomitente ceda sus derechos si entre éstos se
 
 En los casos de permuta, se considerará que se efectúa una adquisición, por cada uno de los inmuebles.
 
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2000)</small>
+
 ###### ARTICULO 17.
 
-El valor del inmueble que se considerará para los efectos del Artículo 14 de esta Ley, será el siguiente:
+El valor del inmueble que se considerará para los efectos del Artículo 14 de esta Ley será por regla general el valor catastral y los siguientes:
 
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
+I.- En los casos de remate, el que sirva de base para la celebración del mismo.
 
-I.- El valor más alto entre el estipulado en el contrato del valor catastral o fiscal o el avalúo comercial pericial, entendiéndose como avalúo comercial pericial, los dictámenes valuatorios practicados por peritos con autorización municipal. Los peritajes tendrán una vigencia no mayor de 120 días naturales, contados a partir de la fecha de su expedición.
+II.- El valor catastral cuando se trate de prescripción positiva, debiendo tomarse en cuenta el valor del bien en la fecha en que la sentencia cause ejecutoria.
 
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
+III.- El valor del avalúo catastral que se practique referido a la fecha de la cesión de los derechos hereditarios, y el valor catastral de los mismos
 
-II.- En los casos de remate, el valor más alto entre el fiscal y el avalúo pericial que sirva de base para la celebración del mismo.
+IV.- Si se trata de dación de pago, el valor catastral del inmueble.
 
-III.- El valor del avalúo pericial cuando se trate de prescripción adquisitiva, debiendo tomarse en cuenta el valor del bien en la fecha en que la sentencia cause ejecutoria.
+V.- El que las autoridades fiscales determinen en el ejercicio de sus facultades de comprobación; de acuerdo a las fracciones que anteceden.
 
-IV.- El que resulte del avalúo que se practique referido a la fecha de la cesión de los derechos hereditarios.
+VI.- El avalúo catastral tendrá una vigencia de 90 días naturales a partir de la fecha de expedición.
 
-V.- Si se trata de dación en pago, el valor del inmueble entregado de acuerdo con la Fracción I.
-
-> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
-
-VI.- El que las autoridades fiscales determinen en el ejercicio de sus facultades de comprobación.
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 18.
 
-El pago del Impuesto deberá hacerse dentro de los treinta días siguientes a aquél en que se realice la operación, cualquiera que fuere su denominación y que se comprenda dentro de lo previsto por el Artículo 16 de esta Ley y cuando se realice cualquiera de los supuestos que a continuación se señalan:
+El pago del impuesto deberá hacerse dentro de los treinta días siguientes a aquél en que se realice la operación, cualquiera que fuere su denominación y que se comprenda dentro de lo previsto por el Artículo 16o. de esta Ley, o cuando se realice cualquiera de los supuestos que a continuación se señalan, lo que ocurra primero:
 
 El contribuyente podrá pagar el impuesto por anticipado.
 
@@ -333,9 +317,9 @@ I.- Cuando se constituya o adquiera el usufructo o la nuda propiedad, en el caso
 
 II.- Tratándose de adquisiciones efectuadas a través de fideicomiso, cuando se realice la escritura pública en la que se transmita a la fiduciaria la propiedad del inmueble.
 
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2000)</small>
 
-III.- Al protocolizarse el reconocimiento de la prescripción positiva.
+III.- Al autorizarse por el Fedatario Público o registrarse la operación.
 
 > <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1989)</small>
 
@@ -357,21 +341,15 @@ VII.- Cuando las autoridades fiscales, en el ejercicio de sus facultades de comp
 
 El contribuyente podrá pagar el Impuesto por anticipado.
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 19.
 
-En las adquisiciones que se hagan constar en escrituras públicas, los notarios, jueces, corredores y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el Impuesto bajo su responsabilidad, lo harán constar en la escritura y lo enterarán mediante declaración en la oficina autorizada que corresponda a su domicilio, en los demás casos los contribuyentes pagarán el Impuesto mediante declaración ante la oficina autorizada que corresponda a su domicilio fiscal.
+En las adquisiciones que se hagan constar en Escrituras Públicas los Notarios, Jueces, Corredores y demás Fedatarios que por disposición legal tengan funciones notariales, bajo responsabilidad solidaria, calcularán el impuesto, lo harán constar en la Escritura y lo enterarán mediante declaración en la oficina autorizada que corresponda al domicilio del municipio del bien objeto de la operación. En los demás casos los contribuyentes pagarán el impuesto mediante declaración ante la oficina autorizada que corresponda a su domicilio del municipio del bien en cuestión.
 
-Se presentará declaración por todas las adquisiciones, siendo obligación del Notario anexar constancias de no adeudos fiscales, a la fecha de celebración del acto, avalúo pericial vigente y copia del instrumento notarial, señalar en forma precisa domicilio para oír y recibir notificaciones de él o de los adquirientes.
+Es obligación del notario anexar constancias de no adeudos fiscales a la fecha de celebración del acto así como del valor catastral vigente.
 
-Los fedatarios no estarán obligados a enterar el Impuesto cuando consignen en escrituras públicas operaciones por la que ya se hubiera pagado el Impuesto y acompañen a su declaración copia de aquélla con la que se efectuó dicho pago.
-
-El enajenante responde solidariamente del Impuesto que deba pagar el adquirente.
-
-Cuando por el avalúo practicado, ordenado o tomado en consideración por la autoridad municipal, resulte liquidación de diferencias de Impuesto, los fedatarios no serán responsables solidarios por los mismos.
-
-Las autoridades fiscales se reservan el derecho de ejercer sus facultades de comprobación sobre los avalúos periciales, aún cuando hayan sido considerados con anterioridad por la autoridad municipal.
+Las Autoridades Fiscales se reservan el derecho de ejercer sus facultades de comprobación sobre los avalúos comerciales, aún cuando hayan sido considerados con anterioridad por la Autoridad Municipal.
 
 ###### ARTICULO 20.
 
@@ -395,27 +373,17 @@ IV.- No se considerarán departamentos habitacionales los que por sus caracterí
 
 DIVERSIONES Y ESPECTACULOS PUBLICOS.
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 22.
 
-Por espectáculo público debe entenderse toda función o acto de esparcimiento, sea teatral, cinematográfico, deportivo o de cualquier otra índole que se verifiquen en salones, teatros, calles, plazas, locales abiertos o cerrados, en donde se reúna un grupo de personas pagando por ello cierta cantidad de dinero.
+Por espectáculo público debe entenderse toda función o acto de esparcimiento, sea teatral, cinematográfico, deportivo o de cualquier otra índole que se verifiquen en salones, teatros, calles, plazas, locales abiertos o cerrados, en donde se reúna un grupo de personas, pagando por ello cierta cantidad de dinero.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+Debe entenderse por diversiones los juegos mecánicos, juegos electrónicos, tragamonedas o cualquier otra actividad similar que se verifique en locales abiertos o cerrados o en la vía pública.
 
-Debe entenderse por diversiones los juegos mecánicos, juegos electrónicos tragamoneda o cualquier otra actividad similar que se verifique en locales abiertos o cerrados o en la vía pública.
+Son causantes de este impuesto las personas físicas, morales o unidades económicas sin personalidad jurídica, que ordinaria o accidentalmente organicen o exploten espectáculos públicos, o diversiones, con excepción de patronatos o sociedades de las Instituciones educativas que promuevan estas actividades avaladas por la Dirección de la Institución correspondiente.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
-
-Son causantes de este impuesto las personas físicas, morales o unidades económicas sin personalidad jurídica, que ordinaria o accidentalmente organicen o exploten espectáculos públicos o diversiones, con excepción de patronatos o sociedades de las instituciones educativas que promuevan estas actividades avaladas por la Dirección de la Institución correspondiente.
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 1995)</small>
-
-Los sujetos pagarán por concepto de este impuesto el 8% de la entrada bruta que genere el espectáculo correspondiente.
-
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
-
-Los sujetos por concepto de diversiones, cubrirán el impuesto de la siguiente manera: los eventuales pagarán una cuota por día equivalente al importe de 3 a 10 días de salario mínimo general, a juicio de la autoridad municipal.
+Los sujetos pagarán por concepto de este impuesto el 8% de la entrada bruta que genere el espectáculo o diversión que corresponda.
 
 > <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
@@ -459,11 +427,13 @@ Se faculta al Presidente Municipal para condonar estos impuestos cuando se trate
 
 JUEGOS PERMITIDOS, RIFAS Y LOTERIAS.
 
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2000)</small>
+
 ###### ARTICULO 26.
 
-Son sujetos de este impuesto las personas físicas o morales y las unidades económicas, aún cuando no tengan personalidad jurídica que exploten rifas, loterías y juegos permitidos para la Ley.
+Son sujetos de este impuesto, las personas físicas o morales y las unidades económicas aún cuando no tengan personalidad jurídica, que exploten rifas, loterías, juegos y apuestas permitidos por la Ley en eventos deportivos y otros, en vivo, vía satélite u otros medios de comunicación.
 
-Dicha explotación constituye el objeto del impuesto y requiere licencia previa.
+Dicha explotación constituye el objeto del impuesto y requiere licencia previa del H. Ayuntamiento.
 
 ###### ARTICULO 27.
 
@@ -473,9 +443,19 @@ I.- Rifas autorizadas por las autoridades competentes sobre el monto de las actu
 
 II.- Loterías de tablas de números, etc. mensual de 10% a 15%.
 
+> <small>(ADICIONADA, B.O. 31 DE ENERO DE 2000)</small>
+
+III.- Apuestas por eventos deportivos y otros, en vivo u otro medio de comunicación sobre el monto del 8% que genere la entrada bruta.
+
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2000)</small>
+
 ###### ARTICULO 28.
 
-En los casos de las Fracciones I y II del Artículo anterior, los causantes cubrirán el impuesto al otorgarse la licencia correspondiente.
+En los casos de las Fracciones I y II, del artículo anterior, los contribuyentes cubrirán el impuesto al término del evento; en el caso de la Fracción III, lo cubrirán mensualmente o cuando se realice el evento en vivo.
+
+Los sujetos de este impuesto, se sujetarán a lo establecido por el reglamento de espectáculos públicos y demás disposiciones vigentes.
+
+Será la Tesorería General Municipal del Ayuntamiento la responsable de formular la liquidación para el cobro de los impuestos correspondientes.
 
 ### CAPITULO QUINTO
 
@@ -853,35 +833,43 @@ La ejecución de las obras sin licencia respectiva se sancionará conforme al Ar
 
 Para obtener la licencia a que se refiere el Artículo anterior, se deberá presentar una solicitud firmada por un profesionista en la materia, debidamente acreditado, y de acuerdo con las formas oficiales que se expidan.
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 46.
 
-La expedición o refrendo de las licencias causarán derechos del 7 al millar sobre el valor de la construcción según el costo de las obras que se vayan a ejecutar. El pago se hará cuando hayan sido aprobados los planos a que debe ajustarse la obra y previamente a la expedición o refrendo de las licencias.
+La expedición o refrendo de las licencias causarán derechos 7 al millar sobre el valor de la construcción, según el costo de las obras que se vayan a ejecutar. El pago se hará cuando hayan sido aprobados los planos a los que debe ajustarse la obra previamente a la expedición o refrendo de las licencias.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+La expedición de licencia de autorización por uso del suelo, causará un derecho de uno a 20 días Salario Mínimo. Con base en la descripción del artículo 47 de esta misma Ley.
 
-La expedición de autorización por uso del suelo, causará un derecho de uno a 20 días salario mínimo.
+La expedición de licencia de urbanización para los desarrollos urbanos, tales como fraccionamientos, conjuntos habitacionales, desarrollos turísticos, condominiales, industriales o una combinación de los anteriores, causará un derecho del 7 al millar sobre el valor total de las obras de urbanización.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
-
-La expedición de licencia de urbanización para los desarrollos urbanos tales como fraccionamientos, conjuntos habitacionales, desarrollos turísticos, condominiales, industriales o una combinación de los anteriores, causará un derecho del 7 al millar sobre el valor total de las obras de urbanización.
-
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 47.
 
-La dependencia municipal correspondiente podrá autorizar el registro de los responsables de proyectos de obras, aprobación del mismo, autorizar la fusión, división o relotificación de predios, previo pago de acuerdo a la siguiente
+La Dependencia Municipal correspondiente podrá autorizar el registro de responsables de proyectos de obras, aprobación del mismo, autorizar la fusión, subdivisión, lotificación o relotificación de predios, autorizar el uso del suelo para desarrollos urbanos y uso del suelo comercial urbano para giros comerciales, dar visto bueno de seguridad y operación de obra previo pago de acuerdo a la siguiente
 
 T A R I F A :
 
-a).- Registro anual de responsables de proyectos y obras 10 días salario mínimo.
+CONCEPTO DÍAS DE SALARIO MÍNIMO
 
-b).- Autorización de fusión, división o relotificación de predios 1 día salario mínimo.
+Registro anual de responsables de proyectos y obras. 20
 
-c).- Inspección de terminación de obras 2 días salario mínimo en adelante.
+Autorización de fusión de predios por unidad. 1
 
-d).- Inspección de avance de obra 2 días salario mínimo en adelante.
+Autorización de subdivisión, lotificación y relotificación de predios por unidad. 2
+
+Inspección de terminación de obras. 2
+
+Inspección de avance de obra. 2
+
+Autorización del uso del suelo comercial en la zona centro. 10 a 15
+
+Autorización del uso del suelo comercial en las principales avenidas. 5 a 10
+
+Autorización del uso del suelo comercial en financiamiento y conjuntos habitacionales. 3 a 5
+
+Autorización del uso del suelo comercial en el resto de la mancha urbana. 1 a 3
 
 ###### ARTICULO 48.
 
@@ -899,9 +887,9 @@ La prestación del servicio de agua potable y alcantarillado a que se refiere es
 
 #### SECCION I. AGUA POTABLE
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2000)</small>
 
-A).- Tarifas para el cobro del sistema de agua potable en los Municipios de La Paz, Comondú, Mulegé y Los Cabos.
+I.- Tarifas para el cobro del sistema de agua potable en los Municipios de La Paz, Comondú, Loreto, Mulegé y Los Cabos.
 
 a).- Tarifas para aparatos medidores:
 
@@ -1385,13 +1373,15 @@ PARA OBRAS PUBLICAS QUE REALICE EL MUNICIPIO.
 
 SUJETOS, CUOTAS Y EXENCIONES.
 
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2000)</small>
+
 ###### ARTICULO 50.
 
-Los propietarios o en su caso los poseedores de predios, estarán obligados a pagar los derechos de cooperación que establece este capítulo, por la ejecución de las siguientes obras de urbanización:
+Los propietarios o en su caso los poseedores de los predios, estarán obligados a pagar los derechos de cooperación que establece este capítulo, por la ejecución de las siguientes obras de urbanización:
 
-I.- Tubería de distribución de agua potable.
+I.- Red de agua potable.
 
-II.- Atarjeas.
+II.- Red de atarjeas para drenaje sanitario.
 
 III.- Conexión de las redes de agua potable a fraccionamientos de terrenos.
 
@@ -1402,8 +1392,6 @@ V.- Banquetas.
 VI.- Pavimentos.
 
 VII.- Alumbrado público.
-
-VIII.- Drenaje y alcantarillado.
 
 ###### ARTICULO 51.
 
@@ -1447,29 +1435,25 @@ c).- Los gastos de administración del financiamiento respectivo.
 
 Los Notarios Públicos no autorizarán actos de traslación de dominio, ni el personal del Registro Público de la Propiedad hará las inscripciones respectivas, si no se comprueba que se han pagado los derechos de cooperación para obras públicas y serán solidariamente responsables con el causante del pago de los derechos que se hubieren omitido.
 
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2000)</small>
+
 ###### ARTICULO 54.
 
 Para la determinación de los derechos de cooperación para obras públicas, se observarán las reglas siguientes:
 
-I.- Si se trata de tubería de distribución de agua potable o de atarjeas, por cada metro lineal del frente del predio.
-
-a).- Si es una sola tubería y da servicio a ambas aceras, será cobrado un 50% de las cuotas unitarias que corresponda por cada metro lineal de los predios beneficiados.
-
-b).- Si la tubería instalada solo da servicio a los predios de una acera, a los propietarios de éstos se les cobrará la cuota unitaria correspondiente.
-
-c).- Si son dos o más tuberías, ya sea que se instalen a ambos lados del arroyo, o por el eje del mismo y beneficien a ambas aceras, a los propietarios de los predios con frente a uno y otro lado de la calle les serán cobradas íntegras las cuotas correspondientes.
+I.- Si se trata de red de agua potable o de atarjeas para drenaje sanitario, será pagado a prorrata por los propietarios de los predios beneficiados con el proyecto a desarrollar.
 
 II.- En los casos de la construcción de banquetas y guarniciones, los derechos serán cobrados a los propietarios y poseedores de los predios ubicados en la acera en la que se hubieran realizado las obras y se determinarán multiplicando la cuota unitaria que corresponda, atendiendo el costo de la obra, por el número de metros lineales del ancho de la banqueta.
 
 III.- Cuando se trate de pavimentos, los derechos serán causados en la siguiente forma:
 
-a).- Si la pavimentación cubre la totalidad del ancho del arroyo, causarán los derechos los propietarios o poseedores de los predios ubicados en ambas aceras de la vía pública que se pavimente.
+a).- Si la pavimentación cubre la totalidad del ancho del arroyo, causarán derechos los propietarios o poseedores de los predios ubicados en ambas aceras de la vía pública que se pavimente.
 
 El monto de los derechos se determinará multiplicando la cuota unitaria que corresponda, atendiendo el costo del pavimento construido, por el número de metros lineales comprendidos desde la guarnición de la banqueta hasta el eje del arroyo y el producto por el número de metros lineales del frente de cada predio.
 
 b).- Si la pavimentación cubre únicamente una faja cuyo ancho sea igual o menor a la mitad del ancho del arroyo, solo causarán estos derechos los propietarios o poseedores de los predios situados sobre la acera más cercana a la parte del arroyo que se haya pavimentado.
 
-c).- Si la obra de pavimentación cubre una faja que comprenda ambos lados del eje del arroyo, pero sin que abarque todo el ancho de éste, los propietarios o poseedores de los predios citados en ambas aceras, causarán los derechos proporcionalmente al ancho de la faja pavimentada, comprendida dentro de cada una de las mitades del arroyo, los derechos que correspondan por cada predio se determinarán de acuerdo con las reglas que establece el inciso anterior, aplicada separadamente a cada una de las fajas comprendidas a uno y otro lado del eje del arroyo.
+c).- Si la obra de pavimentación cubre una faja que comprenda ambos lados del eje del arroyo, pero sin que abarque todo el ancho de éste, los propietarios o poseedores de los predios citados en ambas aceras, causarán los derechos que correspondan, por cada predio se determinarán de acuerdo con las reglas que establece el inciso anterior, aplicada separadamente a cada una de las fajas comprendidas a uno y otro lado del eje del arroyo.
 
 IV.- Los derechos para obras de alumbrados públicos serán pagados por propietarios o poseedores de los predios ubicados en ambas aceras y se determinará multiplicando la cuota unitaria que corresponda, atendiendo el costo de la obra de iluminación, por el número de metros lineales del frente de cada predio.
 
@@ -1489,43 +1473,59 @@ DEL REGISTRO CIVIL.
 
 Las Actas del Registro Civil de nacimiento, matrimonio, adoptación (sic) y defunción que se levanten en sus oficinas y en horas hábiles, quedarán exentas del pago.
 
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2000)</small>
+
 ###### ARTICULO 58.
 
-Los actos del Registro Civil causarán derechos conforme a la siguiente
+La certificación del Registro Civil causarán derechos conforme a la siguiente
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+TARIFA:
 
-T A R I F A :
+I.- Registro de nacimientos o adopción:
 
-I.- Registro de nacimientos:
+a).- En horas inhábiles, en la oficina 2 días de salario mínimo.
 
-a).- En horas inhábiles, en la oficina 2 días salario mínimo.
-
-b).- Fuera de la oficina 10 días salario mínimo.
+b).- Fuera de las oficinas 15 días de salario mínimo.
 
 II.- Matrimonios:
 
-a).- En horas inhábiles en la oficina 3 días salario mínimo.
+a).- En horas inhábiles en la oficina 5 días de salario mínimo.
 
-b).- Fuera de las oficinas 10 días salario mínimo.
+b).- Fuera de las oficinas 15 días de salario mínimo.
 
-c).- Registro de matrimonios contraídos por mexicanos fuera de la República 3 días salario mínimo.
+c).- Registro de matrimonios contraídos por mexicanos fuera de la República 10 días de salario mínimo.
 
-d).- Registro de matrimonios contraídos por extranjeros fuera de la República 5 días salario mínimo.
+d).- Registro de matrimonios contraídos por extranjeros fuera de la República 20 días de salario mínimo.
 
 III.- Divorcios:
 
-a).- Por el divorcio administrativo contemplado en el Artículo 272 del Código Civil vigente 10 días salario mínimo.
+a).- Por el divorcio administrativo contemplado en el Artículo 272 del Código Civil vigente 10 días de salario mínimo.
 
-b).- Por el registro de divorcio dictado por la autoridad judicial 10 días salario mínimo.
+b).- Por el registro de divorcio dictado por la autoridad judicial 5 días de salario mínimo.
 
-IV.- Actas de supervivencia levantadas a domicilio 1 día salario mínimo.
+IV.- Actas de supervivencia levantadas a domicilio 1 día de salario mínimo.
 
-V.- Cualquier otro acto del Registro Civil 1 día salario mínimo.
+V.- Inscripciones a extranjeros ante el Registro Civil 20 día de salario mínimo.
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
+VI.- Cualquier otro acto no contemplado causará. 1 día de salario mínimo.
 
-VI.- Expedición de actas de nacimiento 50% día salario mínimo.
+VII.- Exhumación, reinhumación y traslado de cadáver:
+
+a).- Por cada exhumación 1 día de salario mínimo.
+
+b).- Reinhumación de cadáver. 2 días de salario mínimo.
+
+c).- Traslado de cadáver dentro del Municipio. 1 día de salario mínimo.
+
+d).- Traslado fuera del Municipio. 2 días de salario mínimo.
+
+e).- Traslado fuera del Estado. 3 días de salario mínimo.
+
+f).- Traslado fuera del País. 5 días de salario mínimo.
+
+IX (sic).- Inhumación c/incineración de cadáver o de miembro amputado: 3 días de salario mínimo.
+
+X.- Por asiento de sentencia de cambio de régimen Matrimonial dictada por la autoridad judicial. 5 días de salario mínimo.
 
 > <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
@@ -1573,27 +1573,17 @@ Los derechos a que se refieren los Artículos que anteceden serán pagados en la
 
 PANTEONES.
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 64.
 
-Por el otorgamiento de concesiones, incluyendo el terreno que se ocupe en los panteones o cementerios municipales de las cabeceras municipales o delegaciones, se causarán las cuotas siguientes:
+Por el otorgamiento de derechos a perpetuidad del terreno que se ocupe en los panteones o cementerios municipales de las cabeceras municipales o delegaciones, causarán las cuotas siguientes:
 
-I.- Fosa de dos metros a perpetuidad 3 días salario mínimo.
+I.- Fosa de 2 mts. A perpetuidad. 3 días de salario mínimo.
 
-II.- Fosa de 1.20 metros a perpetuidad 2 días salario mínimo.
+II.- Fosa de 1.20 mts. A perpetuidad. 2 días de salario mínimo.
 
-III.- Subterráneas, además de las cuotas anteriores:
-
-a).- De una gaveta 1 día salario mínimo.
-
-b).- De dos gavetas 2 días salario mínimo.
-
-c).- De tres gavetas 3 días salario mínimo.
-
-d).- Fosa de seis gavetas. 5 días salario mínimo.
-
-IV.- Fosa común exenta.
+III.- Fosa común. exento.
 
 ###### ARTICULO 65.
 
@@ -1601,29 +1591,7 @@ En los panteones civiles de las demás poblaciones las cuotas que señala el Art
 
 ###### ARTICULO 66.
 
-La exhumación, reinhumación o el traslado de cadáveres o restos, estarán sujetos a la siguiente
-
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
-
-T A R I F A :
-
-I.- Por exhumación 4 días salario mínimo.
-
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
-
-II.- Por traslado de cadáveres o restos:
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
-
-a).- Dentro del Municipio 50% día salario mínimo.
-
-b).- Fuera del Municipio 2 días salario mínimo.
-
-c).- Fuera del Estado 3 días salario mínimo.
-
-d).- Fuera de la República 5 días salario mínimo.
-
-III.- Por cada reinhumación dentro del mismo panteón 1 día salario mínimo.
+(DEROGADO, B.O. 31 DE ENERO DE 2000)
 
 ###### ARTICULO 67.
 
@@ -1691,11 +1659,11 @@ Traslado de animales sacrificados en los rastros.
 
 DEPOSITO DE ANIMALES EN LOS CORRALES MUNICIPALES.
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 75.
 
-Los propietarios de los animales depositados en los corrales pertenecientes al municipio, pagarán diariamente como derechos por servicios prestados, la cantidad de 2.5% del salario mínimo diario por cada animal, cualquiera que sea su clase y tamaño y no podrán retirarlos mientras no se haga la liquidación correspondiente.
+Los animales depositados en los corrales pertenecientes al municipio, serán exclusivamente para su sacrificio y los propietarios pagarán diariamente como derechos por servicios prestados la cantidad de medio salario mínimo diario por cada animal, cualquiera que sea su clase y tamaño y no podrán sacrificarlo mientras no se haga la liquidación correspondiente.
 
 ### CAPITULO DECIMO SEGUNDO
 
@@ -1759,29 +1727,35 @@ SERVICIO DE SEGURIDAD Y TRANSITO.
 
 DERECHOS POR SERVICIOS DE CONTROL VEHICULAR.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 81.
 
-El derecho por servicios de control vehicular se pagará anualmente, en los meses de Enero, Febrero, Marzo y Abril, de acuerdo con el calendario que establezca la Autoridad Municipal correspondiente, y conforme a la siguiente:
-
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+Los derechos por servicios de control vehicular se pagarán anualmente, en los meses de Enero, Febrero, Marzo y Abril, de acuerdo con el Calendario que establezca la Autoridad Municipal correspondiente, y conforme a la siguiente
 
 T A R I F A :
 
-I.- Camiones, camionetas y similares 3 días salario mínimo.
+I. Camiones y Camionetas 3 días de salario mínimo.
 
-II.- Automóviles 2 días salario mínimo.
+II. Automóviles 2 días de salario mínimo.
 
-III.- Motocicletas 1 día salario mínimo.
+III. Motocicletas 1 día de salario mínimo.
 
-IV.- Bicicletas 25% día salario mínimo.
+IV. Bicicletas 1 día de salario mínimo.
 
-V.- Vehículos de tracción manual 50% día salario mínimo.
+V. Vehículos de tracción manual 1/2 día de salario mínimo.
 
-VI.- Por la expedición de permisos provisionales, diariamente 10% día salario mínimo.
+VI. Por la Expedición de Permisos provisionales 10% de salario mínimo por día sin excederse de 30 días.
 
-VII.- Otro tipo no especificado 1 día salario mínimo.
+VII. Por revisión electromecánica 1 día de salario mínimo.
+
+VIII. Permiso para circular con una sola placa no Mayor de 30 días EXCENTO.
+
+IX. Permiso para circular con el parabrisas estrellado Sin excederse de 30 días y por única vez, 1 día de salario mínimo.
+
+X. Baja de placas 1 día de salario mínimo.
+
+XI. Reporte de extravío de placas no mayor de 30 días EXCENTO.
 
 > <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
@@ -1817,23 +1791,19 @@ II.- Motocicletas, bicicletas y vehículos de tracción manual 2 días salario m
 
 LICENCIA PARA CONDUCIR VEHICULOS DE MOTOR Y SUS RESELLOS.
 
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2000)</small>
+
 ###### ARTICULO 84.
 
-No se podrá conducir vehículos de motor sin obtener previamente la licencia de manejo respectiva, ésta se otorgará después de que la persona interesada haya sido aprobada en el examen médico que practique cualquier profesional legalmente autorizado para ejercer la medicina y en el de competencia que efectúen las autoridades de tránsito, que serán realizados previo pago de los derechos contenidos en la siguiente
+No se podrán conducir vehículos de motor sin obtener previamente su licencia para conducir cumpliendo los requisitos establecidos.
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+I.- Licencia de chofer (por 3 años) 7 días de salario mínimo.
 
-T A R I F A :
+II.- Licencia de automovilistas (por 3 años) 4 días de salario mínimo.
 
-I.- Chofer 3 años 6 días salario mínimo.
+III.- Licencia de motociclista (por 3 años) 2 días de salario mínimo.
 
-II.- Automovilistas 3 años 3 días salario mínimo.
-
-III.- Motociclista 3 años 1 día salario mínimo.
-
-IV.- Permiso provisional por mes 1 día salario mínimo.
-
-Por el resello anual se causará el 10% de la tarifa anterior.
+IV.- Permiso para conducir a menores: Jóvenes mayores de 16 y menores De 18 años (máximo 90 días), previo curso de manejo 2 días de salario mínimo.
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -1841,71 +1811,129 @@ Por el resello anual se causará el 10% de la tarifa anterior.
 
 RECOLECCION DE BASURA.
 
-> <small>(REFORMADO Y REUBICADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 87.
 
-Con los mismos requisitos señalados en el Artículo 86 se podrá dar en pago de crédito u obligaciones a cargo del Municipio, los bienes pertenecientes a la hacienda municipal.
+Para efectos de este derecho, se entiende por anuncio en la vía pública a todo medio de publicidad que proporcione información, orientación e identifique un servicio profesional, marca, producto, o establecimiento con fines de bienes o servicios y que estén diseñados primordialmente para este propósito.
 
-En todos los casos en que se autorice la enajenación de bienes del Municipio y se estipule, entre las condiciones, conforme a las cuales ha de llevarse a cabo, que el precio o parte de él se pague a plazos, es requisito indispensable, sin el cual será nula la operación, el otorgamiento de garantía real para asegurar el pago del crédito.
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(ADICIONADO, B.O. 31 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 88.
 
-Los bienes de uso común o destinados al servicio del Municipio, no podrán ser enajenados mientras tengan ese carácter, el que solo podrá cambiarse mediante autorización del Congreso del Estado.
+Son sujetos de este derecho las personas físicas o morales tenedoras o usuarias de anuncios, carteles o publicidad soportadas en estructura diseñada especialmente para este fin en la vía pública o visible desde la vía pública. Se requerirá licencia, permiso o autorización para su instalación y uso de inconformidad con la reglamentación Municipal correspondiente.
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(ADICIONADO, B.O. 31 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 89.
 
-Los propietarios de los vehículos que sean almacenados, en los terrenos de los corralones de depósito, pagarán la cantidad equivalente a la décima parte de un día de salario mínimo general, por cada día de almacenaje a partir del onceavo día.
+Serán responsables solidarios los propietarios de los inmuebles, predios o fincas en donde se instalen los anuncios o se lleve a cabo la publicidad.
+
+También serán responsables solidarios las personas físicas o morales que fijen anuncios o lleven a cabo la publicidad.
+
+> <small>(ADICIONADO, B.O. 31 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 90.
 
-Constituyen ingresos en este ramo el producto, liquidado de los bienes mostrencos que sean rematados y vendidos de acuerdo con las disposiciones relativas.
+La base del pago de estos derechos será 1.6% dentro del primer cuadro de la ciudad y en el resto 1.2% diario del salario mínimo general del Estado de Baja California Sur por metro cuadrado.
+
+> <small>(ADICIONADO, B.O. 31 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 91.
 
-Todas las personas con capacidad legal, tienen derecho a solicitar en compra, sin perjuicio de terceros, un terreno en propiedad municipal, susceptible de ser transmitidos (sic) si la enajenación es procedente, el valor unitario se aplicará conforme al Avalúo Pericial que en cada caso se practique.
+Los anuncios semifijos o eventuales pagarán este derecho al equivalente al 4% de un salario mínimo diario por metro cuadrado.
 
-Por la expedición de Títulos de Propiedad, se pagará una cuota equivalente a cinco días salario mínimo.
-
-El que done, ceda, traspase, enajene o adquiera predios, en tanto no se otorgue la escritura o título de propiedad que el Ayuntamiento tenga pleno dominio sobre los mismos, se le aplicará una sanción de 30 a 50 días salario mínimo por lote o fracción, sin perjuicio de que la operación será nula de pleno derecho y el inmueble se revertirá en favor del Ayuntamiento.
+> <small>(ADICIONADO, B.O. 31 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 92.
 
-Por la venta de papel para copias de Actas del Registro Civil, se cobrará una suota (sic) de $ 1,000.00.
+Este derecho deberá pagarse en las oficinas recaudadoras del Ayuntamiento que corresponda a más tardar en los primeros diez días del mes siguiente.
+
+> <small>(ADICIONADO, B.O. 31 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 93.
 
-El papel para copias de actas del Registro Civil, será impreso en los términos del Artículo 10 de la Ley del Registro Civil para el Estado de Baja California Sur.
+No se causarán estos derechos cuando se traten de las siguientes publicaciones:
+
+a).- La que se realice por medio de televisión, radio, periódicos o revistas.
+
+b).- Los que se deriven de las Entidades Gubernamentales en sus funciones de derecho público, los partidos políticos, las instituciones de asistencia o beneficencia pública, la iglesia y las de carácter cultural.
+
+c).- El anuncio principal del establecimiento destinado a anunciar su propio negocio, siempre que este se localice en los límites de construcción del mismo, sin hacer este la vía pública.
+
+### CAPITULO DECIMO SEXTO
+
+POR SERVICIOS DE INSPECCION MUNICIPAL.
+
+> <small>(ADICIONADO, B.O. 31 DE ENERO DE 2000)</small>
+
+###### ARTICULO 85.
+
+Es objeto de este derecho el servicio que por recolección de basura presta el Ayuntamiento a los establecimientos comerciales, industriales, hoteles, restaurantes, hospitales privados, oficinas administrativas o de prestación de servicios. Los sujetos de estos derechos pagarán con base en el volumen y basura que generen, teniendo la obligación de celebrar convenio con la Tesorería Municipal a través de la unidad administrativa que ésta designe y de acuerdo a la tabla tarifaria del reglamento de aseo y limpia municipal.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA [N. DE E. CONFORME AL DECRETO DE REFORMAS DE LA PRESENTE FECHA, AL CREARSE ESTE CAPITULO Y EL SIGUIENTE, SE RECORREN EN SU ORDEN LOS ARTICULOS A PARTIR DEL 86, QUEDANDO UBICADOS EN LOS ARTICULOS 94 AL 139], B.O. 31 DE ENERO DE 2000)</small>
+
+### CAPITULO DECIMO SEPTIMO
+
+DE LAS LICENCIAS, PERMISOS O AUTORIZACIONES POR ANUNCIOS, CARTELES O PUBLICIDAD.
+
+> <small>(ADICIONADO, B.O. 31 DE ENERO DE 2000)</small>
+
+###### ARTICULO 86.
+
+Los derechos por el servicio de inspección municipal serán causados por los trabajos que se deriven de cualquier acto de inspección que se realicen en los municipios a solicitud expresa hecha a cualquier dependencia municipal por cualquier persona física o moral que lo solicite y/o cuando la autoridad municipal lo dicte convenientemente. Los derechos se cobrarán de 1 a 3 salarios mínimos.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE ENERO DE 2000)</small>
+
+## TITULO TERCERO
+
+PRODUCTOS.
 
 ### CAPITULO PRIMERO
 
 VENTAS O EXPLOTACION DE BIENES INMUEBLES.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2000)</small>
 
-###### ARTICULO 85.
+###### ARTICULO 94.
 
-Los comercios, hoteles, restaurantes, hospitales privados oficinas administrativas e industrias, deberán contratar individualmente los servicios de recolección de basura o comprobar la eliminación de estos desperdicios o residuos en forma tal que no afecten la salud o contaminen el medio ambiente y pagarán una cuota mensual o anual que será convenida con la autoridad municipal correspondiente.
+La venta de bienes muebles pertenecientes al Municipio, sólo podrá llevarse a cabo en subasta pública al mejor postor la postura deberá ascender como mínimo las dos terceras partes del valor comercial del bien fijado por avalúo pericial ordenado por el Ayuntamiento.
+
+Solo se podrán explotar los bienes muebles e inmuebles del Municipio por concesión o contrato legalmente otorgado, y el producto se fijará y se cobrará de conformidad con el contrato o la concesión respectiva.
+
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2000)</small>
+
+###### ARTICULO 95.
+
+Con los mismos requisitos señalados en el Artículo 86, se podrán (sic) dar un pago de crédito u obligaciones a cargo del Municipio los bienes pertenecientes a la Hacienda Municipal.
+
+En todos los casos en que se autorice la enajenación de bienes del Municipio, y se estipule, entre las condiciones conforme a las cuales ha de llevarse a cabo, que el precio o parte de él se pague a plazos, es requisito indispensable, sin el cual será nula la operación, el otorgamiento de garantía real para asegurar el pago del crédito.
+
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2000)</small>
+
+###### ARTICULO 96.
+
+Los bienes de uso común o destinados al servicio del Municipio, no podrán ser enajenados mientras tengan ese carácter, el que sólo podrá cambiarse mediante autorización del Congreso del Estado.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
+#### SECCION SEGUNDA (SIC)
+
+ALMACENAJE DE VEHICULOS EN CORRALONES DE DEPOSITO.
+
+(REFORMADO, B.O. 31 DE ENERO DE 20000
+
+###### ARTICULO 97.
+
+Los propietarios de los vehículos tipo sedan y pick up que sean almacenados en los terrenos de los corralones de depósito, pagarán la cantidad equivalente a una décima parte de un día de salario mínimo general, por cada día de almacenaje, a partir del onceavo día de su ingreso, siempre y cuando el vehículo esté a disposición del propietario.
 
 ### CAPITULO SEGUNDO
 
 BIENES MOSTRENCOS.
 
-###### ARTICULO 86.
+###### ARTICULO 98.
 
-La venta de bienes muebles e inmuebles pertenecientes al Municipio, solo podrá llevarse a cabo en subasta pública al mejor postor, la postura deberá ascender como mínimo las dos terceras partes del valor comercial del bien fijado por avalúo pericial ordenado por el Ayuntamiento.
-
-Solo se podrán explotar los bienes muebles e inmuebles del Municipio por concesión o contrato legalmente otorgado y el producto se fijará y se cobrará de conformidad con el contrato o la concesión respectiva.
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
-
-## TITULO TERCERO
-
-PRODUCTOS.
+Constituyen ingresos en este ramo el producto, liquidado de los bienes mostrencos que sean rematados y vendidos de acuerdo con las disposiciones relativas.
 
 ### CAPITULO TERCERO
 
@@ -1913,75 +1941,13 @@ VENTA DE SOLARES DEL FUNDO LEGAL.
 
 > <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
-###### ARTICULO 94.
+###### ARTICULO 99.
 
-Los encargados de las oficinas del Registro Civil pondrán en las hojas de papel de que se trate que por cualquier circunstancia se inutilicen, una nota autorizada sobre el motivo de la inutilización y las cambiarán en la Tesorería Municipal por hojas utilizables.
+Todas las personas con capacidad legal, tienen derecho a solicitar en compra, sin perjuicio de terceros, un terreno en propiedad municipal, susceptible de ser transmitidos (sic) si la enajenación es procedente, el valor unitario se aplicará conforme al Avalúo Pericial que en cada caso se practique.
 
-###### ARTICULO 95.
+Por la expedición de Títulos de Propiedad, se pagará una cuota equivalente a cinco días salario mínimo.
 
-Al concluir cada año fiscal, serán devueltas a la Tesorería Municipal las hojas de papel en existencia, incluyendo las que hubieren inutilizado, para que con las que tengan en su poder, las remitan al Presidente Municipal para su destrucción.
-
-La Tesorería Municipal, al hacer la remisión dará cuenta del movimiento habido durante el año en este ramo.
-
-El Ayuntamiento señalará las formalidades que deban observar para la destrucción.
-
-###### ARTICULO 96.
-
-Los Oficiales del Registro Civil extenderán las certificaciones y copias certificadas exclusivamente en el papel autorizado, salvo en los casos expresamente exceptuados por la Ley. En caso de que les sean presentadas hojas sin los requisitos indicados en el Artículo 93, las recogerán y harán la consignación ante el Ministerio Público.
-
-#### SECCION SEGUNDA (SIC)
-
-ALMACENAJE DE VEHICULOS EN CORRALONES DE DEPOSITO.
-
-> <small>(REFORMADO Y REUBICADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
-
-###### ARTICULO 97.
-
-Por la ocupación de la Vía Pública o de otros bienes de uso común, será pagada una renta de acuerdo a la siguiente:
-
-T A R I F A :
-
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
-
-I.- Automóviles de sitios o taxis por metro lineal, anualmente 1 Día salario mínimo.
-
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
-
-II.- Estacionamiento para particulares que vivan frente al estacionamiento solicitado, por metro lineal, anualmente 50% salario mínimo diario.
-
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
-
-III.- Estacionamiento exclusivo para uso comercial anual, por metro lineal 3 Días salario mínimo general.
-
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
-
-IV.- Por estacionarse en las calles dotadas de estacionómetros de las 8:00 a las 20:00 horas diariamente, a excepción de los domingos y días feriados o festivos, por cada hora $ 300.00
-
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
-
-V.- Estacionamiento o uso de la Vía Pública para carga y descarga en establecimientos comerciales, diariamente 30% salario mínimo diario.
-
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
-
-VI.- Vehículos automotores con amplificador de sonido, diariamente 1 Día salario mínimo.
-
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
-
-VII.- Cualquier otro estacionamiento o uso de la vía pública de carácter comercial no especificado, diariamente 1 día salario mínimo.
-
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
-
-VIII.- Cuota anual por vehículo para estacionarse en lugares de estacionómetros, sin el pago estipulado $ 50,000.00.
-
-Estos ingresos se controlarán por medio de calcomanías adheridas al parabrisa del vehículo.
-
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
-
-IX.- Por cada carro-casa autopropulsado o de tracción de cualquier tipo, que ocupe o sea estacionado en los lugares no autorizados, deberá recabar la autorización del Ayuntamiento y cubrir una cuota diaria de 1 día salario mínimo.
-
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
-
-Los pagos anuales se harán por adelantado en el mes de Enero.
+El que done, ceda, traspase, enajene o adquiera predios, en tanto no se otorgue la escritura o título de propiedad que el Ayuntamiento tenga pleno dominio sobre los mismos, se le aplicará una sanción de 30 a 50 días salario mínimo por lote o fracción, sin perjuicio de que la operación será nula de pleno derecho y el inmueble se revertirá en favor del Ayuntamiento.
 
 ### CAPITULO CUARTO
 
@@ -1989,7 +1955,67 @@ PAPEL PARA COPIAS DE ACTAS DEL REGISTRO CIVIL.
 
 > <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1990)</small>
 
-###### ARTICULO 98.
+###### ARTICULO 100.
+
+Por la venta de papel para copias de Actas del Registro Civil, se cobrará una cuota de $ 2.00.
+
+###### ARTICULO 101.
+
+El papel para copias de actas del Registro Civil, será impreso en los términos del Artículo 10 de la Ley del Registro Civil para el Estado de Baja California Sur.
+
+###### ARTICULO 102.
+
+Los encargados de las oficinas del Registro Civil pondrán en las hojas de papel de que se trate que por cualquier circunstancia se inutilicen, una nota autorizada sobre el motivo de la inutilización y las cambiarán en la Tesorería Municipal por hojas utilizables.
+
+###### ARTICULO 103.
+
+Al concluir cada año fiscal, serán devueltas a la Tesorería Municipal las hojas de papel en existencia, incluyendo las que hubieren inutilizado, para que con las que tengan en su poder, las remitan al Presidente Municipal para su destrucción.
+
+La Tesorería Municipal, al hacer la remisión dará cuenta del movimiento habido durante el año en este ramo.
+
+El Ayuntamiento señalará las formalidades que deban observar para la destrucción.
+
+###### ARTICULO 104.
+
+Los Oficiales del Registro Civil extenderán las certificaciones y copias certificadas exclusivamente en el papel autorizado, salvo en los casos expresamente exceptuados por la Ley. En caso de que les sean presentadas hojas sin los requisitos indicados en el Artículo 93, las recogerán y harán la consignación ante el Ministerio Público.
+
+### CAPITULO QUINTO
+
+OCUPACION DE LA VIA PUBLICA.
+
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2000)</small>
+
+###### ARTICULO 105.
+
+Por la ocupación de la vía pública, el ayuntamiento se reservará la facultad de otorgar y/o refrendar estacionamientos exclusivos. En caso de la autorización previa se pagará una renta de acuerdo a la siguiente
+
+TARIFA:
+
+I.- Automóviles de sitios o taxis por metro lineal anualmente. 1 día de salario mínimo
+
+II.- Estacionamiento para particulares que vivan frente al estacionamiento solicitado, por metro lineal, anualmente. 1 día de salario mínimo
+
+III.- Estacionamientos exclusivos para uso comercial, por metro lineal anualmente. 4 días de salario mínimo en el primer cuadro de la población y 2 días de salario mínimo en otros lugares.
+
+IV.- (DEROGADA, B.O. 31 DE ENERO DE 2000)
+
+V.- Estacionamiento o uso de la vía pública para carga y descarga en establecimientos comerciales, diariamente. 1 día de salario mínimo
+
+VI.- Vehículos automotores con amplificador de sonido diariamente. 1 día de salario mínimo
+
+VII.- Cualquier otro estacionamiento, o uso de la vía pública otorgado por la Autoridad Municipal en la vía pública de carácter comercial en forma temporal, permanente o provisional
+
+a) En la zona centro, diariamente 1 día de salario mínimo
+
+b) En principales avenidas, diariamente 25% día de salario mínimo
+
+c) Resto de la ciudad o poblado, diariamente 15% día de salario mínimo
+
+VIII.- Por cada carro casa autopropulsado o de tracción de cualquier tipo que ocupe, y que sea estacionado en la vía pública deberá recabar autorización del ayuntamiento cubriendo una cuota diaria de. 6 día de salario mínimo
+
+Los pagos anuales se harán por adelantado en los meses de Enero y Febrero de acuerdo con el calendario que establezca la Autoridad Municipal correspondiente.
+
+###### ARTICULO 106.
 
 Por locales en los mercados será pagada una renta de acuerdo a la siguiente:
 
@@ -2005,51 +2031,69 @@ b).- Servicio de frigoríficos por metro cuadrado, diariamente 10% día salario 
 
 c).- Servicio de almacenamiento por metro cuadrado 10% día salario mínimo.
 
-### CAPITULO QUINTO
-
-OCUPACION DE LA VIA PUBLICA.
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1990)</small>
-
-###### ARTICULO 99.
-
-Productos diversos son todos aquellos productos no considerados en los términos de los Artículos anteriores.
-
 ### CAPITULO SEPTIMO (SIC)
 
 PRODUCTOS DIVERSOS.
 
-###### ARTICULO 100.
+###### ARTICULO 107.
 
-La falta de pago oportuno de un crédito fiscal dará lugar al cobro de recargos, en concepto de indemnización al fisco local y se cobrará a razón de un 50% más del porcentaje que establezca la Ley de Ingresos, para el caso de prórroga.
+Productos diversos son todos aquellos productos no considerados en los términos de los Artículos anteriores.
 
-###### ARTICULO 101.
+## TITULO CUARTO
 
-El plazo para su cómputo no comenzará a correr si el causante no conoce, por razones imputables a las autoridades fiscales el importe de los mismos, en los casos en que deba ser calificado o modificado previamente.
-
-###### ARTICULO 102.
-
-Las multas serán cobradas en los términos de las disposiciones legales que las establecen.
-
-###### ARTICULO 103.
-
-Los aprovechamientos no especificados en este título se recaudarán de conformidad con las Leyes o contratos que las establezcan.
-
-###### ARTICULO 104.
-
-Son rezagos los adeudos por concepto de impuestos, derechos y productos que pasen a ejercicios fiscales posteriores, a pesar de que debió hacerse su pago en aquel en que se causaron.
-
-Los rezagos serán cubiertos en las oficinas en que debieron pagarse los impuestos, derechos y productos de los cuales provengan.
+APROVECHAMIENTOS.
 
 ### CAPITULO PRIMERO
 
 RECARGOS.
 
-###### ARTICULO 105.
+###### ARTICULO 108.
+
+La falta de pago oportuno de un crédito fiscal dará lugar al cobro de recargos, en concepto de indemnización al fisco local y se cobrará a razón de un 50% más del porcentaje que establezca la Ley de Ingresos, para el caso de prórroga.
+
+###### ARTICULO 109.
+
+El plazo para su cómputo no comenzará a correr si el causante no conoce, por razones imputables a las autoridades fiscales el importe de los mismos, en los casos en que deba ser calificado o modificado previamente.
+
+### CAPITULO SEGUNDO
+
+MULTAS.
+
+###### ARTICULO 110.
+
+Las multas serán cobradas en los términos de las disposiciones legales que las establecen.
+
+### CAPITULO TERCERO
+
+APROVECHAMIENTOS DIVERSOS.
+
+###### ARTICULO 111.
+
+Los aprovechamientos no especificados en este título se recaudarán de conformidad con las Leyes o contratos que las establezcan.
+
+### CAPITULO CUARTO
+
+REZAGOS.
+
+###### ARTICULO 112.
+
+Son rezagos los adeudos por concepto de impuestos, derechos y productos que pasen a ejercicios fiscales posteriores, a pesar de que debió hacerse su pago en aquel en que se causaron.
+
+Los rezagos serán cubiertos en las oficinas en que debieron pagarse los impuestos, derechos y productos de los cuales provengan.
+
+### CAPITULO QUINTO
+
+PARTICIPACIONES.
+
+###### ARTICULO 113.
 
 Los Municipios percibirán las participaciones en impuestos federales y locales que les otorguen las Leyes respectivas.
 
-###### ARTICULO 106.
+## TITULO QUINTO
+
+INGRESOS EXTRAORDINARIOS.
+
+###### ARTICULO 114.
 
 El Municipio percibirá como ingresos extraordinarios los obtenidos por:
 
@@ -2071,103 +2115,43 @@ V.- De organismos descentralizados o de participación Municipal.
 
 VI.- Otros no especificados.
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, B.O. 31 DE MAYO DE 1998)</small>
+DISPOSICIONES GENERALES.
 
-### CAPITULO SEGUNDO
-
-MULTAS.
-
-###### ARTICULO 107.
+###### ARTICULO 115.
 
 El gasto de la energía eléctrica y fuerza motriz de los locales arrendados en los mercados, será calculado de acuerdo con el consumo visible de cada uno y se acumulará al importe del arrendamiento que no se considerará cubierto íntegramente si no ha sido solventado lo correspondiente a este consumo.
 
-## TITULO CUARTO
-
-APROVECHAMIENTOS.
-
-### CAPITULO TERCERO
-
-APROVECHAMIENTOS DIVERSOS.
-
-###### ARTICULO 108.
+###### ARTICULO 116.
 
 Los causantes sujetos a pagos periódicos presentarán al efectuar cualquier pago, el recibo anterior y en caso de ser requeridos para ello, hasta los tres últimos recibos.
 
 > <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
-###### ARTICULO 109.
+###### ARTICULO 117.
 
 La ocultación de fuentes gravadas por esta Ley, que motiven omisión del pago de impuestos o derechos, será sancionada hasta con tres tantos al importe de los mismos, sin perjuicio de hacer efectivo los créditos fiscales originales.
 
 Las personas que se dediquen a la venta de bienes raíces, Notarios Públicos, Jueces, Fraccionadores y en general, quienes directa o indirectamente intervengan en la celebración de contratos o convenios preparatorios o definitivos que implique la trasmisión de la propiedad de inmuebles, deberán manifestarlo a la autoridad municipal en un plazo de treinta días; de no hacerlo, sin perjuicio de ser solidario responsable de pago del impuesto y de sus recargos, se les impondrá una sanción hasta de 5 veces el importe de los mismos.
 
-### CAPITULO CUARTO
-
-REZAGOS.
-
-###### ARTICULO 110.
+###### ARTICULO 118.
 
 Todos los propietarios o explotadores de giros o actividades comerciales, industriales y de servicios, deberán inscribirse en el padrón Municipal, siempre que llenen los requisitos de registro que establecen las Leyes y Reglamentos respectivos y obtener antes de iniciar sus actividades, la licencia correspondiente, misma que deberá obtenerse dentro de los 30 días siguientes a la fecha de inicio y la revalidación anual deberá realizarse dentro del mes de enero de cada año.
 
 > <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
-### CAPITULO QUINTO
-
-PARTICIPACIONES.
-
-###### ARTICULO 111.
+###### ARTICULO 119.
 
 El incumplimiento del Artículo 110, será acrredor (sic) a una sanción de 3 a 50 días salario mínimo.
 
-### CAPITULO SEGUNDO
-
-###### ARTICULO 106-B.
-
-(DEROGADO, B.O. 31 DE MAYO DE 1998)
-
-###### ARTICULO 106-C.
-
-(DEROGADO, B.O. 31 DE MAYO DE 1998)
-
-###### ARTICULO 106-D.
-
-(DEROGADO, B.O. 31 DE MAYO DE 1998)
-
-###### ARTICULO 106-E.
-
-(DEROGADO, B.O. 31 DE MAYO DE 1998)
-
-###### ARTICULO 106-F.
-
-(DEROGADO, B.O. 31 DE MAYO DE 1998)
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE MAYO DE 1998)</small>
-
-###### ARTICULO 112.
+###### ARTICULO 120.
 
 Los giros que no estén inscritos en el padrón correspondiente o por los que no se hubiera obtenido licencia para su funcionamiento y operen infringiendo los términos de la licencia concedida, serán clausurados por las autoridades fiscales sin perjuicio de las sanciones correspondientes.
 
-### CAPITULO TERCERO
-
-###### ARTICULO 106-G.
-
-(DEROGADO, B.O. 31 DE MAYO DE 1998)
-
-###### ARTICULO 106-H.
-
-(DEROGADO, B.O. 31 DE MAYO DE 1998)
-
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, B.O. 31 DE MAYO DE 1998)</small>
-
-###### ARTICULO 113.
+###### ARTICULO 121.
 
 Las licencias no conceden al causante un derecho absoluto pues siempre se entenderá otorgada bajo el concepto de quedar sometido el establecimiento, persona y objeto de la licencia, a las Leyes o Reglamentos y las disposiciones que demanden el interés público.
 
-## TITULO QUINTO
-
-INGRESOS EXTRAORDINARIOS.
-
-###### ARTICULO 114.
+###### ARTICULO 122.
 
 Todo causante que marca el Artículo 113 queda obligado de dar aviso a la oficina correspondiente, en caso de cambio de nombre, denominzación (sic) o razón social, de domicilio, traspaso, contrato traslativo de dominio de uso de cualquier acto que modifique los padrones, dentro de los 30 días siguientes a la fecha en que se verifique el acto.
 
@@ -2177,35 +2161,35 @@ La falta de cumplimiento de estas disposiciones será sancionada con multa de 3 
 
 > <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
-###### ARTICULO 115.
+###### ARTICULO 123.
 
 Todo establecimiento comercial que funcione fuera del horario que fijen los reglamentos está obligado a solicitar autorización a la Tesorería Municipal y registrar su horario en la oficina respectiva; de lo contrario se harán acreedores a una multa hasta de 500 veces el salario mínimo del Estado de Baja California Sur.
 
-###### ARTICULO 116.
+###### ARTICULO 124.
 
 Las empresas de cualquier índole que por el desarrollo de sus actividades sea necesario nombrarles inspectores o interventores municipales, o ambos a la vez, bien sea para la vigilancia o aplicación del reglamento o disposiciones gubernativas o para vigilar la recaudación del impuesto, pagarán los sueldos de los mismos, los que serán fijados por el Presidente Municipal.
 
-###### ARTICULO 117.
+###### ARTICULO 125.
 
 Para la fijación de cuotas por impuesto, se tomará en cuenta la importancia comercial o industrial de los negocios, su ubicación, capital, ingresos y todos aquellos elementos que permitan estimarlos, de acuerdo con las tasas que fija la Ley.
 
-###### ARTICULO 118.
+###### ARTICULO 126.
 
 Los causantes están obligados a colocar en lugar visible del establecimiento la licencia municipal para funcionamiento del giro así como de la placa de inscripción relativa y a mostrar a los inspectores y demás autoridades debidamente acreditados, la documentación que le soliciten para el desempeño de sus funciones, así como ministrarles toda información que sea necesaria para la revisión o investigación correspondiente. La violación a estas disposiciones será sancionada de conformidad con lo previsto en el Artículo siguiente.
 
 > <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
-###### ARTICULO 119.
+###### ARTICULO 127.
 
 La falta oportuna de las declaraciones, así como la falsedad de datos contenidos en las mismas, la resistencia a las visitas de inspección conducentes a la correcta determinación de la base gravable y en general el incumplimiento de las obligaciones fiscales serán sancionadas, independientemente de la responsabilidad en que se incurre, con multa hasta de 300 días salario mínimo.
 
-###### ARTICULO 120.
+###### ARTICULO 128.
 
 Los propietarios de dos o más cabezas de ganado están obligados a presentar para su registro o refrendo, en el mes de Enero de cada año, ante la Tesorería Municipal respectiva, su fierro marcador y las señales que identifiquen a los animales de su propiedad, y exhibir los títulos que amparen dichos fierros y señales.
 
 Si en el plazo de 5 años consecutivos no se cumple con esta obligación, se cancelarán automáticamente los títulos de marcas y señales de herrar.
 
-###### ARTICULO 121.
+###### ARTICULO 129.
 
 Cuando los impuestos o derechos se acumulen por demora en la liquidación, que no sea atribuible al causante éste podrá pagar el adeudo en un plazo no mayor de 10 meses, a juicio de la autoridad fiscal competente, contado a partir de la fecha en que le sea notificada la liquidación respectiva. El monto del adeudo se dividirá, en su caso, en tantas partes como bimestres comprende el plazo concedido, debiendo hacerse el pago en los meses en que no tengan que cubrirse los impuestos o derechos que por el mismo concepto se causen dentro de dicho plazo.
 
@@ -2215,19 +2199,29 @@ En los casos a que se refieren los párrafos que anteceden no se causarán recar
 
 > <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
-###### ARTICULO 122.
+###### ARTICULO 130.
 
 Todas las liquidaciones de créditos fiscales se elevarán a múltiples de $ 1.00.
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
-###### ARTICULO 123.
+###### ARTICULO 131.
 
 El Tesorero Municipal tendrá todas las facultades para requerir a los contribuyentes el cumplimiento de los créditos y obligaciones fiscales, aplicar el procedimiento económico coactivo e imponer sanciones y todas las atribuciones que para el Secretario de Finanzas del Gobierno del Estado establece el Código Fiscal para el Estado y Municipios de Baja California Sur y demás Leyes tributarias.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, B.O. 10 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 20 DE DICIEMBRE DE 1995)</small>
 
-###### ARTICULO 124.
+## TITULO SEPTIMO
+
+DE LOS ESTIMULOS FISCALES DESTINADOS AL FOMENTO DE LA INVERSION PRODUCTIVA Y LA GENERACION DE EMPLEOS.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 1995)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, B.O. 10 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 132.
 
 Para los efectos de este capítulo se consideran pensionados o jubilados aquellas personas que acrediten dicha calidad con la documentación oficial correspondiente expedida por las instituciones de seguridad social que a continuación se señalan:
 
@@ -2241,7 +2235,7 @@ IV.- Otras instituciones de seguridad social que presten estos servicios en las 
 
 > <small>(ADICIONADO, B.O. 10 DE DICIEMBRE DE 1993)</small>
 
-###### ARTICULO 125.
+###### ARTICULO 133.
 
 Se establece en favor de los pensionados y jubilados una reducción que será del 20% hasta el 50% en el pago de las contribuciones que a continuación se indican:
 
@@ -2255,33 +2249,33 @@ IV.- Derechos por legalización de firmas, expedición de certificados y copias 
 
 V.- Derechos por servicio de control vehicular, únicamente en licencias de conducir para automovilista, placas o calcomanías de un solo vehículo propiedad del pensionado o jubilado.
 
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2000)</small>
+
+###### ARTICULO 134.
+
+Se establece, a favor de los Pensionados y Jubilados, una reducción del 50% en el pago de los derechos causados por la prestación del servicio de Agua Potable y Alcantarillado.
+
 > <small>(ADICIONADO, B.O. 10 DE DICIEMBRE DE 1993)</small>
 
-###### ARTICULO 126.
-
-Se establece en favor de los pensionados y jubilados una reducción que será del 10% hasta el 50% en el pago de los derechos causados por la prestación del servicio de agua potable y alcantarillado.
-
-> <small>(ADICIONADO, B.O. 10 DE DICIEMBRE DE 1993)</small>
-
-###### ARTICULO 127.
+###### ARTICULO 135.
 
 Para aplicar las reducciones a las contribuciones de referencia, dentro de los límites de porcentaje señalados en los artículos 125 y 126 de esta Ley, la autoridad apreciará discrecionalmente las circunstancias del pensionado o jubilado en lo particular, considerando el monto de la pensión que tenga asignada.
 
 > <small>(ADICIONADO, B.O. 10 DE DICIEMBRE DE 1993)</small>
 
-###### ARTICULO 128.
+###### ARTICULO 136.
 
 Los recargos y gastos de ejecución originados por la falta de pago de un crédito fiscal en la fecha o plazo establecido o las multas determinadas sobre el monto del crédito por infracciones a las disposiciones fiscales a cargo de pensionados o jubilados, se reducirán conforme a los porcentajes y respecto de las contribuciones que se indican en los artículos 125 y 126 de esta Ley, en la misma proporción con que se haya beneficiado al pensionado o jubilado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 20 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, B.O. 10 DE DICIEMBRE DE 1993)</small>
 
-## TITULO SEPTIMO
+## TITULO SEXTO
 
-DE LOS ESTIMULOS FISCALES DESTINADOS AL FOMENTO DE LA INVERSION PRODUCTIVA Y LA GENERACION DE EMPLEOS.
+DE LAS REDUCCIONES PARA PENSIONADOS Y JUBILADOS.
 
-> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 1995)</small>
+T R A N S I T O R I O S :
 
-###### ARTICULO 129.
+###### ARTICULO 137.
 
 Para el fomento de la inversión productiva y la generación de empleos en el Estado de Baja California Sur, los Ayuntamientos estarán facultados para otorgar en favor de los sujetos beneficiarios los siguientes estímulos fiscales:
 
@@ -2305,39 +2299,17 @@ VI.- El acreditamiento del monto total de la adquisición de predios donde el su
 
 > <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 1995)</small>
 
-###### ARTICULO 130.
+###### ARTICULO 138.
 
 Para efectos de lo dispuesto en este Capítulo, se considerarán sujetos beneficiarios para recibir estímulos fiscales, todas aquellas personas físicas o morales o unidades económicas que hayan obtenido resolución favorable a la solicitud de otorgamiento de éstos, conforme al procedimiento establecido en la Ley de Fomento Económico del Estado de Baja California Sur.
 
 > <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 1995)</small>
 
-###### ARTICULO 131.
+###### ARTICULO 139.
 
 Las Tesorerías Municipales expedirán los Certificados de Promoción Fiscal donde se especificarán los estímulos fiscales de que gozarán los sujetos beneficiarios, de conformidad a la resolución que emita la Comisión Dictaminadora a que refiere la Ley de Fomento Económico del Estado.
 
-T R A N S I T O R I O S :
-
-## TITULO QUINTO BIS.
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE MAYO DE 1998)</small>
-
-### CAPITULO PRIMERO
-
-###### ARTICULO 106-A.
-
-(DEROGADO, B.O. 31 DE MAYO DE 1998)
-
-DISPOSICIONES GENERALES.
-
-## TITULO SEXTO
-
-DE LAS REDUCCIONES PARA PENSIONADOS Y JUBILADOS.
-
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 10 DE DICIEMBRE DE 1993)</small>
-
-### CAPITULO UNICO
-
-> <small>(ADICIONADO, B.O. 10 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 1o.
 
@@ -2451,15 +2423,15 @@ DURANTE LOS AÑOS DE 1991, 1992 Y 1993 SE APLICARAN LAS TASAS DEL 8%, 6% Y 4% RE
 
 EL PRESENTE DECRETO, SURTIRA EFECTOS A PARTIR DEL DIA PRIMERO DE JULIO DE 1991, PREVIA PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO.
 
+B.O. 10 DE DICIEMBRE DE 1993.
+
+UNICO.- EL PRESENTE DECRETO ENTRARA EN VIGOR A PARTIR DEL DIA PRIMERO DE ENERO DE MIL NOVECIENTOS NOVENTA Y CUATRO.
+
 B.O. 31 DE DICIEMBRE DE 1991.
 
 ###### ARTICULO UNICO.
 
 EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO.
-
-B.O. 10 DE DICIEMBRE DE 1993.
-
-UNICO.- EL PRESENTE DECRETO ENTRARA EN VIGOR A PARTIR DEL DIA PRIMERO DE ENERO DE MIL NOVECIENTOS NOVENTA Y CUATRO.
 
 B.O. 10 DE OCTUBRE DE 1994.
 
@@ -2514,3 +2486,9 @@ B.O. 30 DE NOVIEMBRE DE 1999.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE ENERO DE 2000.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Baja California Sur.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
