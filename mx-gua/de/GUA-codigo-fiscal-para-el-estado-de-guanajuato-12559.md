@@ -4,7 +4,7 @@ identifier: "GUA-codigo-fiscal-para-el-estado-de-guanajuato-12559"
 country: "mx"
 rank: "codigo"
 publication_date: "1978-12-31"
-last_updated: "1978-12-31"
+last_updated: "1980-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO FISCAL PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 1980.
 
 Código publicado en la Segunda Parte Anexo del Periódico Oficial del Estado de Guanajuato, el domingo 31 de diciembre de 1978.
 
@@ -161,23 +161,45 @@ I.- El Gobernador del Estado;
 
 II.- El Tesorero General;
 
-III.- El Director de Ingresos;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1980)</small>
 
-IV.- El Director de Catastro e Impuestos a la Propiedad Raíz;
+III.- El Subtesorero;
 
-V.- El Director de Asuntos Jurídicos;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1980)</small>
 
-VI.- El Director de Egresos;
+IV.- El Director de Ingresos;
 
-VII.- El Director de Oficinas Recaudadoras;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1980)</small>
 
-VIII.- Los Sub-directores de las Direcciones antes mencionadas;
+V.- El Director de Catastro e Impuestos a la Propiedad Raíz;
 
-IX.- Los Jefes de Departamento de las Direcciones antes mencionadas;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1980)</small>
+
+VI.- El Director de Asuntos Jurídicos;
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 1980)</small>
+
+VII.- El Director de Operación de Oficinas Recaudadoras;
+
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1980)</small>
+
+VIII.- Los Subdirectores de las Direcciones antes mencionadas;
+
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1980)</small>
+
+IX.- Los Jefes de Departamento de las Direcciones citadas en las fracciones anteriores;
+
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1980)</small>
 
 X.- Los Jefes de las Oficinas Recaudadoras del Estado;
 
-XI.- Los Inspectores de la Tesorería General.
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 1980)</small>
+
+XI.- Los Auditores de la Tesorería General; y
+
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1980)</small>
+
+XII.- Los Inspectores de la Tesorería General.
 
 #### SECCION SEGUNDA. Facultades
 
@@ -317,9 +339,11 @@ II.- Que el dictamen se formule de acuerdo a las normas y procedimientos de audi
 
 #### SECCION TERCERA. Caducidad
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE ENERO DE 1980)</small>
+
 ###### ARTICULO 28.
 
-Las facultades de las autoridades de la Tesorería General para determinar la existencia de obligaciones fiscales, señalar las bases de su liquidación o fijarlas en cantidad líquida, para imponer sanciones por infracciones a las disposiciones fiscales, así como las facultades de verificar el cumplimiento de dichas disposiciones, se extinguen en el término de cinco años, no sujeto a interrupción ni suspensión. Dicho término empezará a correr a partir:
+Las facultades de las autoridades de la Tesorería General para determinar la existencia de obligaciones fiscales, señalar las bases de su liquidación o fijarlas en cantidad líquida, para imponer sanciones por infracciones a las disposiciones fiscales, así como las facultades de verificar el cumplimiento de dichas disposiciones, se extinguen en el término de cinco años, no sujeto a interrupción ni suspensión. La caducidad operará de oficio o a petición de parte. Dicho término empezará a correr a partir:
 
 I.- Del día siguiente al en que se hubiere vencido el plazo establecido por las disposiciones fiscales para presentar declaraciones, manifestaciones y avisos;
 
@@ -715,7 +739,9 @@ Las resoluciones que se dicten en materia de condonación parcial, no podrán se
 
 Las multas cuya imposición hubiere quedado firme, deberán ser condonadas totalmente si, por pruebas diversas de las presentadas ante las autoridades correspondientes, en su caso, se demuestra que no se cometió la infracción o que la persona a la que se atribuye no es la responsable.
 
-Las multas por infracciones a las disposiciones fiscales, podrán ser condonadas parcialmente por el Tesorero General, quien apreciará discrecionalmente los motivos que tuvo la autoridad que impuso la sanción y las demás circunstancias del caso.
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1980)</small>
+
+Las multas por infracciones a las disposiciones fiscales y los recargos, podrán ser condonadas parcialmente por el Tesorero General, quien apreciará discrecionalmente los motivos que tuvo la autoridad que impuso la sanción y las demás circunstancias del caso.
 
 De la Cancelación
 
@@ -919,33 +945,59 @@ En los casos de las fracciones anteriores se impondrá multa de $5,000.00 a $50,
 
 Son infracciones cuya responsabilidad corresponde a los jueces, encargados de los Registros Públicos, Notarios, Corredores y, en general, a los funcionarios que lleven la fe pública, las que a continuación se indican y a cada una corresponderá la sanción que en cada caso se señala; independientemente de la destitución de empleo o cancelación del Fiat según la gravedad de la infracción:
 
-I.- No hacer la manifestación de las escrituras, minutas o cualesquiera actos o contratos que se otorguen ante su fe, o efectuarla sin sujetarse a lo previsto por las disposiciones fiscales: Multa de $5,000.00 a $50,000.00;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1980)</small>
 
-II.- Expedir testimonio de escrituras, documentos o minutas cuando no estén pagados los impuestos correspondientes: Multa de $5,000.00 a $25,000.00;
+I.- No hacer la manifestación de las escrituras, minutas o cualesquiera actos o contratos que se otorguen ante su fe, o efectuarla sin sujetarse a lo previsto por las disposiciones fiscales: Multa de $1,000.00 a $25,000.00;
 
-III.- No consignar a las autoridades fiscales los documentos que les presenten cuando no estén pagados los impuestos correspondientes: Multa de $5,000.00 a $25,000.00;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1980)</small>
 
-IV.- No expedir las notas de liquidación de alguna prestación fiscal o expedirlas en forma que dé lugar a la evasión parcial o total del gravamen: Multa de $5,000.00 a $50,000.00;
+II.- Expedir testimonio de escrituras, documentos o minutas cuando no estén pagados los impuestos correspondientes: Multa de $1,000.00 a $10,000.00;
 
-V.- Autorizar actos o contratos por los que se cause algún crédito fiscal a favor del Estado o que estén relacionados con fuentes de ingresos gravados por la ley, sin cerciorarse previamente de que se está al corriente de las obligaciones fiscales: Multa de $5,000.00 a $25,000.00;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1980)</small>
 
-VI.- Inscribir o registrar documentos, instrumentos o libros que carezcan de la comprobación o constancia de haberse pagado los gravámenes correspondientes: Multa de $5,000.00 a $25,000.00;
+III.- No consignar a las autoridades fiscales los documentos que les presenten cuando no estén pagados los impuestos correspondientes: Multa de $1,000.00 a $10,000.00;
 
-VII.- No proporcionar informes o datos o no exhibir documentos cuando deban hacerlo en el plazo que fijen las disposiciones fiscales, o cuando lo exijan las autoridades competentes, o presentarlos incompletos: Multa de $1,000.00 a $10.000.00;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1980)</small>
 
-VIII.- Proporcionar los informes, datos o documentos a que se refiere la fracción anterior, alterados o falsificados: Multa de $5,000.00 a $50,000.00;
+IV.- No expedir las notas de liquidación de alguna prestación fiscal o expedirlas en forma que dé lugar a la evasión parcial o total del gravamen: Multa de $1,000.00 a $25,000.00;
 
-IX.- Extender constancia de haberse cumplido con las obligaciones fiscales en los actos en que intervengan, cuando no proceda su otorgamiento: Multa de $5,000.00 a $25,000.00;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1980)</small>
 
-X.- Cooperar con los infractores o facilitarles en cualquier forma la omisión total o parcial de gravámenes mediante alteraciones, ocultaciones, otros hechos u omisiones: Multa de $5,000.00 a $50,000.00;
+V.- Autorizar actos o contratos por los que se cause algún crédito fiscal a favor del Estado o que estén relacionados con fuentes de ingresos gravados por la ley, sin cerciorarse previamente de que se está al corriente de las obligaciones fiscales: Multa de $1,000.00 a $10,000.00;
+
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1980)</small>
+
+VI.- Inscribir o registrar documentos, instrumentos o libros que carezcan de la comprobación o constancia de haberse pagado los gravámenes correspondientes: Multa de $500.00 a $12,500.00;
+
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1980)</small>
+
+VII.- No proporcionar informes o datos o no exhibir documentos cuando deban hacerlo en el plazo que fijen las disposiciones fiscales, o cuando lo exijan las autoridades competentes, o presentarlos incompletos: Multa de $500.00 a $5,000.00;
+
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1980)</small>
+
+VIII.- Proporcionar los informes, datos o documentos a que se refiere la fracción anterior, alterados o falsificados: Multa de $1,000.00 a $25,000.00;
+
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1980)</small>
+
+IX.- Extender constancia de haberse cumplido con las obligaciones fiscales en los actos en que intervengan, cuando no proceda su otorgamiento: Multa de $1,000.00 a $10,000.00;
+
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1980)</small>
+
+X.- Cooperar con los infractores o facilitarles en cualquier forma la omisión total o parcial de gravámenes mediante alteraciones, ocultaciones, otros hechos u omisiones: Multa de $1,000.00 a $25,000.00;
 
 XI.- No enterar oportunamente las cantidades que para el pago de créditos fiscales le hayan ministrado los causantes: Multa hasta de un tanto de lo que importa el crédito fiscal y los accesorios legales correspondientes;
 
-XII.- Resistirse por cualquier medio a las visitas de inspección o auditorías, no mostrar los datos o informes que legalmente puedan exigir los inspectores o auditores. No mostrarles los libros, documentos, registros y, en general, los elementos necesarios para la práctica de la visita: Multa de $5,000.00 a $25,000.00;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1980)</small>
 
-XIII.- Traficar ilegalmente con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso ilegal de ellos: Multa de $5,000.00 a $25,000.00;
+XII.- Resistirse por cualquier medio a las visitas de inspección o auditorías, no mostrar los datos o informes que legalmente puedan exigir los inspectores o auditores. No mostrarles los libros, documentos, registros y, en general, los elementos necesarios para la práctica de la visita: Multa de $1,000.00 a $10,000.00;
 
-XIV.- Infringir otras disposiciones fiscales en forma no prevista en las fracciones precedentes: Multa de $5,000.00 a $50,000.00.
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1980)</small>
+
+XIII.- Traficar ilegalmente con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso ilegal de ellos: Multa de $1,000.00 a $10,000.00;
+
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1980)</small>
+
+XIV.- Infringir otras disposiciones fiscales en forma no prevista en las fracciones precedentes: Multa de $500.00 a $25,000.00.
 
 #### SECCION TERCERA. Clausura
 
@@ -1833,23 +1885,15 @@ VIII.- Vencido el plazo para la rendición de las pruebas, la autoridad dictará
 
 ###### ARTICULO 191.
 
-Contra las resoluciones que decidan el recurso de reconsideración, se establece el recurso de revisión ante el Gobernador del Estado, que tiene por objeto confirmar, anular o modificar la resolución impugnada.
+(DEROGADO, P.O. 3 DE ENERO DE 1980)
 
 ###### ARTICULO 192.
 
-El Gobernador del Estado dictará resolución dentro del término de veinte días contados a partir de la fecha de recepción del expediente, recabando, para ello, los informes de la autoridad que dictó la resolución recurrida y los demás que estime pertinentes.
+(DEROGADO, P.O. 3 DE ENERO DE 1980)
 
 ###### ARTICULO 193.
 
-El recurso se interpondrá por escrito, en el que se expresará:
-
-I.- Nombre del recurrente;
-
-II.- Domicilio para oír notificaciones;
-
-III.- Resolución impugnada y autoridad que la dictó; y
-
-IV.- Los fundamentos de la impugnación.
+(DEROGADO, P.O. 3 DE ENERO DE 1980)
 
 ###### ARTICULO 194.
 
@@ -2016,3 +2060,11 @@ De la Prescripción 30
 ### CAPITULO SEGUNDO. Del Recurso de Revisión 73
 
 TRANSITORIOS 74
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 3 DE ENERO DE 1980.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
