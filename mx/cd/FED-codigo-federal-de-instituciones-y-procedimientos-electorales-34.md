@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-instituciones-y-procedimientos-electorales-34
 country: "mx"
 rank: "codigo"
 publication_date: "1990-08-15"
-last_updated: "1993-09-24"
+last_updated: "1993-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1990-08-14"
 
 CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE SEPTIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1993.
 
 Código publicado en el Diario Oficial de la Federación, el miércoles 15 de agosto de 1990.
 
@@ -6133,6 +6133,14 @@ ARTICULO 344
 
 1. La elección de los miembros de la Asamblea de Representantes del Distrito Federal, se rige por las disposiciones de este Código, en lo que no se opongan a lo dispuesto en el presente Libro.
 
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+2. En la elección de los miembros de la Asamblea se aplicarán, en lo conducente, las normas que regulan la contratación comercial de tiempos en radio y televisión que establece el presente Código para las elecciones de diputados federales.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+3. Las Juntas Distritales Ejecutivas correspondientes determinarán los topes de gastos de campaña para cada uno de los distritos electorales uninominales en que haya de elegirse un representante de la Asamblea del Distrito Federal, aplicando en lo conducente las normas que sobre la materia establece el presente Código para las elecciones de diputados federales.
+
 ARTICULO 345
 
 1. La Asamblea se integrará por 66 representantes electos en votación directa y secreta de los ciudadanos que residan en el Distrito Federal.
@@ -6145,7 +6153,9 @@ ARTICULO 346
 
 1. La demarcación de los 40 distritos electorales uninominales para la elección de los miembros de la Asamblea, será la misma en que se divide el territorio del Distrito Federal para la elección de los diputados federales al Congreso de la Unión, electos por el principio de mayoría relativa.
 
-2. En caso de que el número de diputados federales a que se refiere el párrafo anterior no coincidiera con el número de representantes, el Consejo General de Instituto Federal Electoral, hará la revisión correspondiente.
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+2. En caso de que el número de diputados federales a que se refiere el párrafo anterior no coincidiera con el número de representantes, el Consejo General del Instituto Federal Electoral, hará la revisión correspondiente y tomará las medidas necesarias para establecer la organización electoral distrital que se requiera.
 
 3. Para la elección de los 26 representantes de la Asamblea por el principio de representación proporcional, se constituye una circunscripción plurinominal que será el territorio del Distrito Federal.
 
@@ -6177,9 +6187,11 @@ ARTICULO 351
 
 1. En la elección de los miembros de la Asamblea se observarán las normas contenidas en los Libros Tercero y Cuarto de este Código relativas al Registro Federal de Electores, y se utilizarán en esta elección la Credencial para Votar y las listas nominales de electores.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
 ARTICULO 352
 
-1. Los órganos del Instituto Federal Electoral que tienen a su cargo la organización del proceso de las elecciones federales en el Distrito Federal atenderán, simultáneamente, lo relativo al proceso para la elección de los miembros de la Asamblea.
+1. Los órganos del Instituto Federal Electoral que tienen a su cargo la organización del proceso de las elecciones federales en el Distrito Federal atenderán, en su caso, simultáneamente y en los términos de este Código, lo relativo al proceso para la elección de los miembros de la Asamblea.
 
 ARTICULO 353
 
@@ -6193,21 +6205,29 @@ ARTICULO 354
 
 1. El término para el registro de candidatos en el año de la elección será:
 
-a) Para los miembros de la Asamblea electos por el principio de mayoría relativa, del 15 al 31 de mayo inclusive; y
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
-b) Para los miembros de la Asamblea electos por el principio de representación proporcional del 1o. al 15 de junio, inclusive.
+a) Para los miembros de la Asamblea electos por el principio de mayoría relativa, del 1o. al 15 de abril inclusive; y
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+b) Para los miembros de la Asamblea electos por el principio de representación proporcional, del 15 al 30 de abril, inclusive.
 
 2. Las candidaturas a miembros de la Asamblea por mayoría y por representación proporcional, serán registradas por fórmulas de candidatos compuestas cada una por un candidato propietario y un candidato suplente.
 
 3. Para obtener el registro de su lista de candidatos a miembros de la Asamblea por el principio de representación proporcional, los partidos políticos deberán acreditar ante el Consejo Local en el Distrito Federal el registro de las 40 candidaturas a miembros de la Asamblea por el principio de mayoría relativa.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
 ARTICULO 355
 
-1. Los representantes de los partidos políticos y los generales acreditados y registrados para las elecciones federales, ejercerán la función de representantes en las elecciones de miembros de la Asamblea, con los mismos derechos, obligaciones y responsabilidades que les atribuye este Código.
+1. En su caso, los representantes de los partidos políticos ante las mesas directivas de casilla y generales en los distritos, acreditados y registrados para las elecciones federales, ejercerán la función de representantes en las elecciones de miembros de la Asamblea, con los mismos derechos, obligaciones y responsabilidades que les atribuye este Código.
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
 ARTICULO 356
 
-1. El Consejo General aprobará el modelo de las actas de instalación, cierre de votación, finales de escrutinio y cómputo, y el acta de integración de la documentación de la elección de los miembros de la Asamblea. Aprobará, asimismo, el modelo de boletas para esta elección.
+1. El Consejo General aprobará los modelos de acta de la jornada electoral y de acta de escrutinio y cómputo. Asimismo, aprobará el modelo de boleta para esta elección.
 
 ARTICULO 357
 
@@ -6251,9 +6271,11 @@ ARTICULO 360
 
 2. La recepción de la documentación Electoral por el Consejo Distrital, y la información de los resultados obtenidos en las casillas, se regirá por las reglas establecidas en los artículos 238 y 244 de este Código.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
 ARTICULO 361
 
-1. Concluidos los cómputos distritales de las elecciones de diputados federales al Congreso de la Unión, senadores y, en su caso, de Presidente de los Estados Unidos Mexicanos y conforme a las reglas establecidas para ellos en este Código, los Consejos Distritales Electorales practicarán el cómputo distrital de la elección de los miembros de la Asamblea, en los términos de los artículos 247 y 248 de este Código.
+1. Concluidos los cómputos distritales de las elecciones para presidente de los Estados Unidos Mexicanos, en su caso, para senadores y para diputados federales, y conforme a las reglas establecidas para ellos en este Código, los Consejos Distritales electorales practicarán el cómputo distrital de los miembros de la Asamblea, en los términos de los artículos 247 y 248 de este Código.
 
 ARTICULO 362
 
@@ -6261,7 +6283,9 @@ ARTICULO 362
 
 a) Enviar al Consejo Local copia de las actas de la elección y de las actas de cómputo distrital, y un informe relativo a esta elección;
 
-b) Enviar a la Oficialía Mayor de la Asamblea el expediente relativo junto con un informe sobre la elección o copia certificada si se hubiere interpuesto el recurso de inconformidad; y
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+b) Enviar a la Oficialía Mayor de la Asamblea de Representantes del Distrito Federal, copia certificada de la Constancia de Mayoría y Validez de la Fórmula de Candidatos que la hubieran obtenido, así como, en su caso, un informe de los recursos que se hubiesen interpuesto.
 
 c) Enviar a la Sala Central del Tribunal Federal Electoral, cuando se hubiere interpuesto el recurso de inconformidad, junto con éste, los escritos de protesta y el informe respectivo, así como copia certificada del expediente del cómputo distrital de la elección cuyos resultados hayan sido impugnados, en los términos previstos en el Título Segundo del Libro Séptimo de este Código.
 
@@ -6271,7 +6295,9 @@ ARTICULO 363
 
 2. Dicho cómputo lo hará una vez concluido el correspondiente a la elección de senador y, en el caso de ser cabecera de circunscripción para las elecciones federales, después de haber hecho el correspondiente a los diputados electos conforme al principio de representación proporcional;
 
-### CAPITULO QUINTO. De las Constancias de Mayoría y de las Asignaciones por Representación Proporcional
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+### CAPITULO QUINTO. De las Constancias de Mayoría y Validez y de las Asignaciones por Representación Proporcional
 
 ARTICULO 364
 
@@ -6283,7 +6309,9 @@ ARTICULO 365
 
 ARTICULO 366
 
-1. El otorgamiento de constancias de asignación conforme al principio de representación proporcional, en los casos comprendidos en el cuarto párrafo de la base 3a, de la fracción VI del artículo 73 constitucional, se realizará como sigue:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+1. La declaración de validez y el otorgamiento de constancias de asignación conforme al principio de representación proporcional, se realizará en los términos de la fracción III del artículo 122 constitucional, a más tardar el 6 de septiembre del año de la elección, y una vez resueltos los recursos que en su caso se hubieren interpuesto de acuerdo con las disposiciones del Libro Séptimo de este Código, para lo que se estará a lo siguiente:
 
 a) Si ningún partido político tiene por lo menos el 30% de la votación en el Distrito Federal y ninguno alcanza 34 o más constancias de mayoría, a cada partido político le serán atribuidos de su lista, el número de representantes que requiera para que el total de miembros con que cuente en la Asamblea corresponda al porcentaje de votos que obtuvo; y
 
@@ -6341,11 +6369,37 @@ ARTICULO 372
 
 1. En la elección de los miembros de la Asamblea serán aplicables las normas relativas contenidas en los Libros Sexto y Séptimo de este Código.
 
-2. El Presidente del Tribunal Federal Electoral remitirá la resolución emitida sobre el recurso de inconformidad en el caso de la elección de miembros de la Asamblea, con el expediente relativo, dentro de los (sic) 48 horas siguientes, a:
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
-I.- El Consejo Local en el Distrito Federal; y
+2. Las resoluciones de las Salas del Tribunal Federal Electoral serán notificadas de la siguiente manera:
 
-II.- Al Colegio Electoral de la Asamblea de Representantes del Distrito Federal por conducto de la autoridad competente.
+a) Las recaídas a los recursos de inconformidad:
+
+I. Al partido político que interpuso el recurso y a los terceros interesados en la forma y términos señalados en el inciso a) del párrafo 1 del artículo 310 de este Código;
+
+II. Al Consejo Local del Distrito Federal la notificación se hará por oficio, acompañado de copia certificada del expediente y de la resolución, a más tardar dentro de las cuarenta y ocho horas siguientes a la en que se dictó la resolución; y
+
+III. Cuando no se hubiere interpuesto el recurso de reconsideración, a la Oficialía Mayor de la Asamblea de Representantes, a más tardar dentro de las cuarenta y ocho horas siguientes a la en que venció el plazo para su interposición.
+
+b) Las recaídas a los recursos de reconsideración:
+
+I. A los partidos políticos y terceros interesados en la forma y términos señalados en el inciso a) del párrafo 2 del artículo 310 de este Código;
+
+II. Al Consejo Local del Distrito Federal, a más tardar el día siguiente al en que se dictó la resolución; y
+
+III. A la Oficialía Mayor de la Asamblea de Representantes, a más tardar al día siguiente al en que se dictó la resolución.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+3. Todos los recursos de inconformidad que se interpongan en contra de las elecciones de representantes a la Asamblea del Distrito Federal deberán ser resueltos a más tardar el 19 de agosto del año de la elección.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+4. Todos los recursos de reconsideración que se interpongan en contra de las resoluciones que recaigan a los recursos de inconformidad en la elección de representantes de la Asamblea del Distrito Federal deberán ser resueltos a más tardar el 3 de septiembre del año de la elección.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+5. Todos los recursos de reconsideración que se interpongan en contra de la asignación, que según el principio de representación proporcional, realice el Consejo Local del Distrito Federal deberán ser resueltos a más tardar el 13 de septiembre del año de la elección.
 
 ## TRANSITORIOS
 
@@ -6608,3 +6662,27 @@ Por lo que se refiere a los requisitos que establecen los artículos 88, párraf
 ###### ARTICULO DECIMO OCTAVO.
 
 En cada uno de los Consejos Locales y Distritales quedarán vacantes, durante el proceso electoral de 1994, los cargos de tres consejeros ciudadanos de los nueve a que se refieren los párrafos 1 de los artículos 102 y 113.
+
+D.O.F. 23 DE DICIEMBRE DE 1993.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Los representantes que se elijan para la III Asamblea del Distrito Federal durarán en funciones del 15 de noviembre de 1994 al 16 de septiembre de 1997.
+
+CUARTO.- Para el proceso electoral federal de 1994 regirán las siguientes fechas y plazos:
+
+I. El plazo señalado en el inciso d) del párrafo 1 del artículo 195 corresponderá a la última semana de junio;
+
+II. El plazo señalado en el inciso a) del artículo 354 corresponderá al del 15 al 31 de mayo inclusive;
+
+III. El plazo señalado en el inciso b) del artículo 354 corresponderá al del 1o. al 15 de junio inclusive;
+
+IV. La fecha señalada en el párrafo 1 del artículo 366 corresponderá al 4 de noviembre del año de la elección;
+
+V. La fecha señalada en el párrafo 3 del artículo 372 corresponderá al 14 de octubre del año de la elección;
+
+VI. La fecha señalada en el párrafo 4 del artículo 372 corresponderá al 31 de octubre del año de la elección; y
+
+VII. La fecha señalada en el párrafo 5 del artículo 372 corresponderá al 11 de noviembre del año de la elección.
