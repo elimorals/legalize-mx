@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-administrativa-y-acceso-a-la-29499"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-20"
-last_updated: "2003-10-18"
+last_updated: "2004-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA ADMINISTRATIVA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ABRIL DE 2004.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 20 de marzo de 2003.
 
@@ -483,7 +483,9 @@ III. Ser profesionista con título legalmente expedido por la autoridad competen
 
 IV. Gozar de reconocido prestigio personal y profesional;
 
-V. No haber desempeñado ni ser dirigente de ningún partido o asociación política, ni ministro de ningún culto religioso, cuando menos cinco años; ni haber sido servidor público por lo menos un año antes; en ambos casos al momento de su elección, y
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2004)</small>
+
+V. No haber sido Gobernador del Estado; Diputado Local; Magistrado; Juez de Primera Instancia; Secretario de Despacho; Procurador General de Justicia; Director General o su equivalente de alguna de las entidades de la administración pública paraestatal; Presidente o su equivalente de alguno de los organismos autónomos previstos en la Constitución Política del Estado; Presidente Municipal; dirigente estatal de algún partido político o asociación política; ni ministro de ningún culto religioso, durante el año previo al día de su elección, y
 
 VI. No haber sido condenado por delito doloso.
 
@@ -664,3 +666,9 @@ P.O. 18 DE OCTUBRE DE 2003.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 20 DE ABRIL DE 2004.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales que se opongan al presente Decreto.
