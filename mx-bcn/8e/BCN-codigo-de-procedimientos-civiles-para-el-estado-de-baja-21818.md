@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2004-03-05"
+last_updated: "2004-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2004.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -1301,6 +1301,10 @@ XIV.- Si él, su cónyuge o alguno de sus expresados parientes sigue algún proc
 
 XV.- Si es tutor o curador de alguno de los interesados, o no han pasado tres años de haberlo sido.
 
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2004)</small>
+
+XVI. Estar en una situación que pueda afectar su imparcialidad en forma análoga o más graves que las mencionadas.
+
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
 ART. 172.- Los Magistrados, Jueces, y Secretarios tienen el deber de excusarse del conocimiento de los negocios en que ocurra alguna de las causas expresadas en el artículo anterior o cualquiera otra análoga, aun cuando las partes no los recusen. La excusa debe expresar concretamente la causa en que se funde.
@@ -1313,9 +1317,9 @@ Cuando el Juez o magistrado se excuse sin causa legítima, cualquiera de las par
 
 ### CAPITULO II. De la recusación
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2004)</small>
 
-ART. 173.- Cuando los Magistrados, Jueces o Secretarios no se inhibieren a pesar de existir alguno de los impedimentos expresados, procede la recusación, que siempre se fundará en causa legal. Unicamente procederá la recusación sin causa contra los Jueces, cuando la interponga el demandado precisamente al contestar la demanda.
+ART. 173.- Cuando los Magistrados, Jueces o Secretarios no se inhibieren a pesar de existir alguno de los impedimentos expresados, procede la recusación que siempre se fundará en causa legal.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6660,3 +6664,7 @@ UNICO.- La presente reforma entrará en vigor al día siguiente de su publicaci�
 P.O. 5 DE MARZO DE 2004.
 
 UNICO.- La presente reforma y adición al Código de Procedimientos Civiles para el Estado de Baja California, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE JUNIO DE 2004.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
