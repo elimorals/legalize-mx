@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1970-01-08"
+last_updated: "1970-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 1970.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -41,9 +41,11 @@ CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
 ### CAPITULO I. DEL TERRITORIO DEL ESTADO Y DE SU DIVISION POLITICA
 
-###### Artículo 1o.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1970)</small>
 
-Las reformas a los artículos 58 y 59 empezarán a surtir sus efectos a partir del día primero de abril de mil novecientos cuarenta y cinco.
+###### Artículo 1º.
+
+El Estado de Hidalgo es parte integrante de los Estados Unidos Mexicanos, y es libre y soberano en todo lo que concierne a su régimen interior conforme a los preceptos de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 2º.
 
@@ -99,85 +101,11 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 
 P.O. 1 DE JUNIO DE 1937.
 
-###### Artículo 3o.
+###### Artículo 3º.
 
-Las anteriores reformas entrarán en vigor en todo el Estado, a los quince días de su publicación en el Periódico Oficial del Estado.
+El Territorio del Estado, es el expresado en el Supremo Decreto de Erección del 16 de enero de 1869, y se integra con los 84 municipios que a continuación se enumeran:
 
-P.O. 16 DE SEPTIEMBRE DE 1948.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
-
-P.O. 8 DE NOVIEMBRE DE 1948.
-
-DECRETO NUMERO 10, QUE REFORMA AL ARTICULO 16 DE LA CONSTITUCION.
-
-Este Decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 8 DE NOVIEMBRE DE 1948.
-
-DECRETO NUMERO 11, QUE REFORMA LOS ARTICULOS 48, 52, 78 Y 93 DE LA CONSTITUCION.
-
-Este Decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 24 DE FEBRERO DE 1952.
-
-DECRETO NUMERO 28, QUE REFORMA LA FRACCION XXVI DEL ARTICULO 53 DE LA CONSTITUCION.
-
-Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 24 DE FEBRERO DE 1952.
-
-DECRETO NUMERO 29, QUE REFORMA EL ARTICULO 67 DE LA CONSTITUCION.
-
-Este decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 1 DE ABRIL DE 1953.
-
-Este Decreto entrará en vigor a los diez días después de su publicación en el Periódico Oficial del Estado.
-
-P.O. 8 DE JULIO DE 1953.
-
-Las anteriores reformas y adiciones entrarán en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
-
-P.O. 8 DE OCTUBRE DE 1953.
-
-Único.- Este Decreto empezará a surtir sus efectos diez días después de su publicación en el Periódico Oficial del Estado.
-
-P.O. 24 DE NOVIEMBRE DE 1953.
-
-Este Decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 24 DE DICIEMBRE DE 1953.
-
-Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 24 DE MAYO DE 1954.
-
-Este decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 8 DE ENERO DE 1957.
-
-Único.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 1 DE NOVIEMBRE DE 1960.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
-
-P.O. 8 DE JUNIO DE 1961.
-
-Unico.- Esta Reforma entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 8 DE NOVIEMBRE DE 1969.
-
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA CONSTITUCION.
-
-4o.- Este Decreto entrará en vigor el 1o. de enero de 1970.
-
-P.O. 8 DE ENERO DE 1970.
-
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA CONSTITUCION.
-
-4o.- Este decreto entrará en vigor el 15 de enero de 1970.
+1. Acatlán, 2. Acaxochitlán, 3. Actopan, 4. Agua Blanca, 5. Ajacuba, 6.Alfajayucan, 7. Almoloya, 8. Apan, 9. Atitalaquia, 10. Atlapexco, 11. Atotonilco el Grande, 12. Atotonilco de Tula, 13. Calnali, 14. Cardonal, 15; Cuautepec, 16. Chapantongo, 17. Chapulhuacán, 18. Chilcuautla, 19. El Arenal, 20. Eloxochitlán, 21. Emiliano Zapata, 22. Epazoyucán, 23. Francisco I. Madero, 24. Huasca de Ocampo, 25. Huautla, 26. Huazalingo, 27. Huehuetla, 28. Huejutla, 29. Huichapan, 30. Ixmiquilpan, 31. Jacala, 32. Jaltocán, 33. Juárez Hidalgo, 34. La Misión, 35. Lolotla, 36. Metepec, 37. Metzquititlán, 38. Metztitlán, 39. Mineral del Chico, 40. Mineral del Monte, 41. Mineral de la Reforma, 42. Mixquiahuala, 43. Molango, 44. Nicolás Flores, 45. Nopala de Villagrán, 46. Omitlán de Juárez, 47. Orizatlán, 48. Pacula, 49. Pachuca, 50. Pisaflores, 51. Progreso, 52. San Agustín Tlaxiaca, 53. San Bartolo Tutotepec, 54. San Salvador, 55. Santiago de Anaya, 56. Santiago Tulantepec, 57. Singuilucan, 58. Tasquillo, 59. Tecozautla, 60. Tenango de Doria, 61. Tepeapulco, 62. Tepehuacán de Guerrero, 63. Tepeji del Río, 64. Tepetitlán, 65. Tetepango, 66. Tezontepec de Aldama, 67. Tianguistengo, 68. Tizayuca, 69. Tlahuelilpan, 70. Tlahuiltepa, 71. Tlanalapa, 72. Tlanchinol, 73. Tlaxcoapan, 74. Tolcayuca, 75. Tula de Allende, 76. Tulancingo, 77. Villa de Tezontepec, 78. Xochiatipan, 79. Xochicoatlán, 80. Yahualica, 81. Zacualtipán, 82. Zapotlán de Juárez, 83. Zempoala, 84. Zimapán.
 
 ## TITULO II. DEL PODER PUBLICO Y DE LA FORMA DE GOBIERNO
 
@@ -231,27 +159,35 @@ Son vecinos del Estado los que tuvieren un año de residencia en él.
 
 La vecindad no se pierde por ausencia del Estado en servicio suyo o de la República, ni por ausencia motivada por persecuciones exclusivamente políticas.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1970)</small>
+
 ###### Artículo 8º.
 
-Son derechos de los ciudadanos del Estado:
+Son prerrogativas del ciudadano del Estado:
 
-I. Elegir y poder ser electo para todos los cargos públicos y ser nombrados para cualquier empleo o comisión, en la forma y términos que prescriban las leyes.
+I. Votar en las elecciones populares;
 
-II. Reunirse para tratar de asuntos políticos.
+II. Poder ser votado para todos los cargos de elección popular y nombrado para cualquier otro, o comisión, teniendo las calidades que establezca la Ley, y
+
+III. Asociarse para tratar asuntos políticos conforme a la Ley.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1970)</small>
 
 ###### Artículo 9º.
 
-Son obligaciones de los ciudadanos del Estado:
+Son obligaciones del ciudadano del Estado:
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE NOVIEMBRE DE 1953)</small>
+I. Inscribirse en el catastro de la municipalidad, manifestando la propiedad que el mismo ciudadano tenga, la industria, profesión o trabajo de que subsista;
 
-I. Alistarse en la Guardia Nacional, con excepción de las mujeres.
+II. Inscribirse en los padrones electorales en los términos que determine la Ley;
 
-II. Votar en las elecciones populares en la forma que disponga la ley.
+III. Alistarse en la Guardia Nacional;
 
-III. Desempeñar los cargos de elección popular.
+IV. Votar en las elecciones populares en el Distrito Electoral que le corresponda, en la forma que disponga la Ley;
 
-IV. Inscribirse en el padrón municipal respectivo.
+V. Desempeñar los cargos de elección popular; y
+
+VI. Desempeñar los cargos consejiles del municipio donde resida, las funciones electorales y las de jurado.
 
 ###### Artículo 10.
 
@@ -267,7 +203,7 @@ III. Por sentencia ejecutoriada que imponga como pena esa pérdida.
 
 ### CAPITULO I. DE LA ORGANIZACION DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1953)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1970)</small>
 
 ###### Artículo 11.
 
@@ -323,7 +259,7 @@ Los Poderes Legislativo y Ejecutivo y el Tribunal Superior de Justicia, residir�
 
 ###### Artículo 18.
 
-El Poder Legislativo se deposita en una Asamblea que se denominará "Congreso del Estado de Hidalgo". Éste se compondrá de Diputados electos popularmente, uno por cada noventa y cinco mil habitantes o fracción que pase de cincuenta mil, en cada Distrito Electoral. Si con esta proporción no resultaren electos once Diputados por lo menos, la Ley Electoral dividirá al Estado en once circunscripciones de población, igual en lo posible, y cada una de ellas elegirá un Diputado.
+El Poder legislativo se deposita en una Asamblea que se denominará "Congreso del Estado de Hidalgo". Este se compondrá de Diputados electos popularmente, uno por cada noventa y cinco mil habitantes o fracción que pase de cincuenta mil, en cada Distrito Electoral. Si con esta proporción no resultaran electos quince diputados por lo menos, la Ley Electoral dividirá el Estado, en quince circunscripciones de población, iguales en lo posible y en cada una de ellas se elegirá un diputado.
 
 > <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1960)</small>
 
@@ -347,11 +283,11 @@ IV. Los Jueces de Primera Instancia y los Administradores de Rentas, en la circu
 
 V. Los militares que no se hayan separado del servicio cuando seis meses antes de la elección. Para los efectos de esta disposición no se tienen por militares a los ciudadanos alistados en la Guardia Nacional.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1948)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1970)</small>
 
 ###### Artículo 21.
 
-El cargo de Diputado Propietario y el de Suplente, cuando éste entre en ejercicio de sus funciones es incompatible con cualquier otro cargo de la Federación o del Estado, quedando exceptuado cuando desempeñe una función docente, de beneficencia pública o privada u obtenga autorización expresa de Legislatura para ello.
+El cargo de Diputado Propietario y el de Suplente, cuando éste entre en ejercicio de sus funciones, es incompatible con cualquier otro cargo de la Federación o del Estado, quedando exceptuado cuando desempeñe una función docente, de asistencia pública o privada y obtenga autorización expresa de la Legislatura para ello. La violación a esta disposición será sancionada con la pérdida del cargo de Diputado.
 
 ###### Artículo 22.
 
@@ -367,7 +303,11 @@ El Congreso se renovara en su totalidad, cada tres años.
 
 ## TITULO V. DEL PODER JUDICIAL
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1970)</small>
+
 ### CAPITULO V. DE LA DIPUTACION PERMANENTE
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1970)</small>
 
 ###### Artículo 24.
 
@@ -375,21 +315,23 @@ Después de verificadas las elecciones en cada periodo constitucional, los ciuda
 
 Las resoluciones así dictadas y todas las que prevengan del Congreso erigido en Colegio Electoral, serán definitivas e irrevocables; y ningún poder, autoridad o funcionario podrá revisar ni poner en duda los títulos de legitimidad de cualquier funcionario declarado electo por el Colegio Electoral.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1970)</small>
+
 ###### Artículo 25.
 
-El Congreso se reunirá en sesiones ordinarias y extraordinarias. Tendrá cada año dos periodos de sesiones ordinarias: el primero comenzara el 1º. de marzo y terminara 15 de mayo, y el segundo comenzara el 1º. de septiembre y terminara el 15 de noviembre. Se reunirá en sesiones extraordinarias, cuando fuere convocado por la Diputación Permanente.
+El Congreso se reunirá en sesiones ordinarias y extraordinarias. Tendrá cada año dos períodos de sesiones ordinarias, el primero se iniciará el 1o. de marzo y concluirá el 15 de mayo, y el segundo se iniciará el 15 de octubre y concluirá el 31 de diciembre. Se reunirá en sesiones extraordinarias cuando fuere convocado por la Diputación Permanente.
 
 ###### Artículo 26.
 
 La Legislatura no puede abrir sus sesiones ordinarias o extraordinarias, ni deliberar sin la concurrencia de mas de la mitad del número total de sus miembros; en todo tiempo, los Diputados presentes reunidos compelerán a los ausentes a concurrir usando de los medios coactivos que establezca el Reglamento del Congreso.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1970)</small>
+
 ###### Artículo 27.
 
-Los Diputados que falten a las sesiones sin causa justificada o sin licencia de la Legislatura, perderán la remuneración que les asigna la ley. Se entiende también, cuando esta falta se prolongue por diez días, que los Diputados renuncian a concurrir hasta el período inmediato y se llamará desde luego a los suplentes.
+Los diputados que falten a las sesiones sin causa justificada o sin licencia de la Legislatura por más de diez veces, serán sustituidos por los suplentes hasta el período inmediato.
 
-## TITULO VI. DEL MINISTERIO PUBLICO
-
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1952)</small>
+## TITULO VI. DE LOS MUNICIPIOS
 
 ### CAPITULO I. DEL GOBERNADOR
 
@@ -529,33 +471,37 @@ XXII. Las demás que le asignen esta Constitución y la General de la República
 
 ###### Artículo 42.
 
-Durante los recesos del Congreso, habrá una Diputación Permanente, compuesta de tres Diputados con el carácter de propietarios y otros dos como suplentes.
+Durante los recesos del Congreso, habrá una Diputación Permanente compuesta de cinco Diputados con el carácter de propietarios y otros dos como suplentes.
 
 ###### Artículo 43.
 
 La Diputación Permanente será nombrada por el Congreso tres días antes de la clausura de las sesiones ordinarias, y en el año de renovación del Congreso, funcionara hasta la instalación de la primera junta preparatoria.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1970)</small>
+
 ###### Artículo 44.
 
 Las atribuciones de la Diputación Permanente son las siguientes:
 
-I. Velar sobre la observancia de la Constitución y Leyes del Estado. Al efecto, podrá recabar de las autoridades, informes y copias autorizadas de los documentos necesarios y formara un expediente en que consten las faltas que notare, para dar cuenta de ello al Congreso en las próximas sesiones, o entregarlo, en su caso, al Presidente de la primera junta preparatoria.
+I. Velar por la observancia de la Constitución y Leyes del Estado. Al efecto, podrá recabar de las autoridades, informes y copias autorizadas de los documentos necesarios y formará un expediente en que consten las faltas que notare, para dar cuenta de ello al Congreso en las próximas sesiones o entregarlo en su caso al Presidente de la primera junta preparatoria;
 
-II. Convocar al Congreso a sesiones extraordinarias de acuerdo con el Gobernador. La convocatoria señalara con toda precisión el objeto de las sesiones y la fecha en que deban comenzar. El Congreso no podrá ocuparse, durante el período extraordinario, sino de las materias precisadas en la convocatoria, salvo el ejercicio de las atribuciones delegadas a él por la Constitución General, y de las que cumple mediante acuerdos económicos.
+II. Convocar al Congreso a sesiones extraordinarias de acuerdo con el Gobernador. La convocatoria señalará con toda precisión el objeto de las sesiones y la fecha en que deban de comenzar. El Congreso no podrá ocuparse durante el período extraordinario sino de las materias precisadas en la convocatoria, salvo el ejercicio de las atribuciones delegadas a él por la Constitución General;
 
-III. Convocar al Congreso a algún punto del Estado, si las circunstancias lo requieren, obrando de acuerdo con el Gobernador o sin el concurso de éste, cuando se declare en sedición abierta contra la Constitución.
+III. Convocar al Congreso a algún punto del Estado, si las circunstancias lo requieren, obrando de acuerdo con el Gobernador o sin el concurso de éste cuando se declare en sedición abierta contra la Constitución;
 
-IV. Conceder licencia hasta por seis meses al Gobernador, a los Magistrados, Diputados y empleados de su dependencia y nombrar con carácter provisional a los Magistrados y a los empleados de las dependencias del Congreso.
+IV. Conceder licencia hasta por seis meses al Gobernador, a los magistrados, diputados y empleados de su dependencia y nombrarlos con carácter provisional;
 
-V. Llamar a los Diputados suplentes para las próximas sesiones en caso de muerte, inhabilidad o licencia de los propietarios.
+V. Llamar a los diputados suplentes para las próximas sesiones en caso de muerte, inhabilidad o licencia de los propietarios;
 
-VI. Recibir la protesta del Gobernador y Magistrados.
+VI. Recibir la protesta del Gobernador y de los magistrados.
 
-VII. Convocar inmediatamente, por si sola, al Congreso a sesiones extraordinarias, siempre que el Gobernador, los Diputados, los Magistrados o el Procurador General de Justicia, hayan cometido algún delito grave del orden común y en los casos de falta absoluta del Gobernador.
+VII. Convocar inmediatamente por sí sola, al Congreso a sesiones extraordinarias siempre que el Gobernador, los Diputados, los magistrados o el Procurador General de Justicia, hayan cometido algún delito grave de orden común y en los casos de falta absoluta del Gobernador;
 
-VIII. Las demás que le otorga esta Constitución.
+VIII. Recibir dentro del receso del Congreso las iniciativas de Ley y proposiciones dirigidas a la Cámara y turnarlas para dictamen a las comisiones respectivas, a fin de que se despachen en el inmediato período de sesiones;
 
-Los decretos de la Diputación Permanente serán enviados al Gobernador para su publicación. Cuando se trate de la convocatoria al Congreso a sesiones extraordinarias, en caso de delitos graves del orden común cometidos por el Gobernador o en caso de que éste se haya declarado en sedición abierta contra la Constitución, la Diputación Permanente publicará por si misma los respectivos decretos de convocatoria.
+IX. Las demás que le otorgue esta Constitución;
+
+Los Decretos de la Diputación Permanente serán enviados al Gobernador para su publicación. Cuando se trate de la convocatoria al Congreso, a sesiones extraordinarias, en caso de delitos graves del orden común cometidos por el Gobernador o en caso de que éste se haya declarado en sedición abierta contra la Constitución, la Diputación Permanente publicará por si misma los respectivos decretos de convocatoria.
 
 ###### Artículo 45.
 
@@ -565,15 +511,15 @@ La Diputación Permanente dará cuenta en la segunda sesión del Congreso, del u
 
 Se deposita el ejercicio del Poder Ejecutivo del Estado, en un ciudadano que se denominara "Gobernador del Estado de Hidalgo."
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1960)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1970)</small>
 
 ###### Artículo 47.
 
 Para ser Gobernador se requiere:
 
-I. Ser ciudadano del Estado en ejercicio de sus derechos políticos, natural del mismo y con vecindad efectiva no menor de tres años inmediatamente anteriores al día de la elección, cuando sea nativo del Estado y siete años en las mismas circunstancias, cuando sean hijos de padres hidalguenses, o de padre o madre hidalguense.
+I. Ser ciudadano del Estado en ejercicio de sus derechos políticos, natural del mismo y con vecindad efectiva no menor de tres años, o con residencia efectiva no menor de cinco años, inmediatamente anteriores al día de la elección;
 
-II. Haber cumplido treinta años de edad al tiempo de la elección.
+II. Haber cumplido treinta años de edad al tiempo de la elección; (sic)
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE OCTUBRE DE 1932)</small>
 
@@ -599,109 +545,105 @@ IV.- Los militares que no se hayan separado del servicio, cuando menos noventa d
 
 El Gobernador será nombrado por elección popular directa y en los términos que disponga la Ley Electoral.
 
-> <small>(DEROGADO [N. DE E. REFORMADO], P.O. 8 DE MAYO DE 1944)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1970)</small>
 
 ###### Artículo 50.
 
-El Gobernador entrará en ejercicio de sus funciones el 1º de abril, durará en su encargo seis años y no podrá ser reelecto.
+El Gobernador entrará al ejercicio de sus funciones el 1o. de abril del año correspondiente, durará en su encargo seis años y nunca podrá ser reelecto. Los ciudadanos que hayan ocupado el cargo de Gobernador del Estado por elección popular directa ordinaria o extraordinaria, en ningún caso y por ningún motivo podrán volver a ocupar ese cargo ni aún con el carácter de interinos, provisionales, substitutos o encargados del despacho.
 
-> <small>(DEROGADO [N. DE E. REFORMADO], P.O. 8 DE MAYO DE 1944)</small>
+El Gobernador al tomar posesión de su cargo rendirá ante el Congreso del Estado o a la Comisión Permanente en los recesos de aquél, la siguiente protesta: Protesto solemnemente, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y las Leyes que de ellas emanen; desempeñar leal y patrióticamente, el cargo de Gobernador del Estado, mirando por la prosperidad y bienestar de esta propia Entidad, si así no lo hiciere, que el Estado me lo demande.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1970)</small>
 
 ###### Artículo 51.
 
-Para suplir las faltas temporales del Gobernador, el Congreso, o en su receso la Diputación Permanente, nombrará un Gobernador Interino.
+Para suplir las faltas temporales del Gobernador, el Congreso del Estado, o en su receso la Diputación Permanente, nombrará un Gobernador Interino.
 
-En caso de falta absoluta del Gobernador ocurrida durante los tres primeros años del período, el Congreso por el voto de dos tercios del número de Diputados presentes, nombrará un Gobernador Provisional y convocará inmediatamente a elecciones de Gobernador que deberán tener lugar a la mayor brevedad posible, el que deberá concluir el período respectivo.
+En caso de falta absoluta del Gobernador ocurrida en los tres primeros años del período respectivo, si el Congreso estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral, y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto y por mayoría absoluta de votos, un Gobernador Interino; el mismo Congreso expedirá dentro de los diez días siguientes al de la designación de Gobernador Interino, la convocatoria para la elección de Gobernador que deba de concluir el período respectivo, debiendo mediar entre la fecha de la convocatoria y la que señale para la verificación de las elecciones, un plazo no menor de un mes, ni mayor de tres meses.
 
-Si la falta absoluta ocurriere durante los tres últimos años del período, el Congreso, por el voto de dos tercios del número de Diputados presentes nombrará un Gobernador Substituto que desempeñará el cargo hasta la terminación del período.
+Si el Congreso no estuviere en sesiones, la Comisión Permanente nombrará desde luego un Gobernador Provisional y convocará a sesiones extraordinarias al Congreso, para que éste, a su vez, designe al Gobernador Interino y expida la convocatoria a elecciones de Gobernador en los términos del párrafo anterior.
 
-Si la falta absoluta ocurriere no encontrándose el Gobernador en el ejercicio de sus funciones, el Gobernador Interino continuará en el Gobierno hasta que tome posesión, en sus respectivos casos, el Gobernador Provisional, o el Substituto.
+Si la falta ocurriere durante los tres últimos años del período, si el Congreso se encontrare en sesiones designará al Gobernador Substituto que deberá concluir el período; si el Congreso no estuviere reunido, la Comisión Permanente nombrará un Gobernador Provisional y convocará al Congreso a sesiones extraordinarias para que se erija en Colegio Electoral y haga la elección de Gobernador Substituto.
 
-Si la falta absoluta ocurriere encontrándose el Gobernador en el ejercicio de sus funciones, el Presidente del Tribunal se encargará del Despacho del Gobierno, hasta la toma de posesión del Gobernador Provisional o del Substituto, en sus respectivos casos.
+Si la falta absoluta ocurriere no encontrándose el Gobernador en el ejercicio de sus funciones el 1o. de abril, cesara sin embargo, el Gobernador cuyo período haya terminado y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador Interino, el que designe el Congreso del Estado y procederá conforme al párrafo segundo del presente artículo.
 
-El Presidente del Tribunal se encargará, además, del Despacho del Gobierno, siempre que por cualquier motivo no precisado por esta Constitución, se encuentre acéfalo el Poder Ejecutivo.
+Si la falta ocurriere encontrándose el Gobernador en el ejercicio de sus funciones, el Presiente del Tribunal se encargará del Despacho del Gobierno, hasta la toma de posesión del Gobernador Provisional o del Substituto, en sus respectivos casos.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 1948)</small>
+El Presidente del Tribunal se encargará además, del Despacho del Gobierno, siempre que por cualquier motivo no precisados por esta Constitución, se encuentre acéfalo el Poder Ejecutivo.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1970)</small>
 
 ###### Artículo 52.
 
-El Gobernador del Estado puede salir del Territorio del mismo sin licencia de (sic) Congreso o de la Diputación Permanente, por un plazo máximo de quince días; pero siempre necesitará obtener licencia de los organismos citados, cuando salga del Territorio Nacional.
+El Gobernador del Estado puede salir del Territorio del mismo sin licencia del Congreso o de la Diputación Permanente, por un plazo máximo de quince días.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 1930)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1970)</small>
 
 ###### Artículo 53.
 
-Son atribuciones del Gobernador, las siguientes:
+Las atribuciones del Gobernador son las siguientes:
 
-I. Promulgar, ejecutar y hacer que se ejecuten las leyes y decretos y proveer en la esfera administrativa, cuanto fuere necesario para su exacta observancia.
+I. Promulgar y ejecutar las Leyes y Decretos, proveyendo en la esfera administrativa para su exacta observancia;
 
-II. Hacer los Reglamentos que fueren necesarios para la mejor ejecución de las leyes.
+II. Expedir los reglamentos que fueren necesarios para la mejor ejecución de las leyes;
 
-III. Cuidar de que se instruya la Guardia Nacional, de acuerdo con lo prevenido en el artículo 73 fracción XV de la Constitución General.
+III. Cuidar de que se instruya la Guardia Nacional, de acuerdo con lo previsto en el artículo 73 fracción XV de la Constitución General;
 
-IV. Pedir al Congreso de la Unión el consentimiento a que se refiere la fracción II del artículo 118 de la Constitución General.
+IV. Pedir al Congreso de la Unión el consentimiento a que se refiere la fracción II del Artículo 118 de la Constitución General;
 
-V. Informar al Congreso por escrito, o verbalmente por conducto del Secretario, sobre cualquier Ramo de la Administración, cuando el mismo Congreso lo solicite.
+V. Informar al Congreso por conducto del Secretario General sobre cualquier ramo de la administración, cuando el mismo Congreso lo solicite;
 
-VI. Hacer que se remita al Congreso, el 15 de marzo de cada año, la Cuenta General del Estado correspondiente al año anterior.
+VI. Hacer que se remita al Congreso el 15 de marzo de cada año, la Cuenta General del Estado correspondiente al año anterior;
 
-VII. Facilitar al Poder Judicial los auxilios necesarios para el ejercicio expedito de sus funciones.
+VII. Facilitar al Poder Judicial los elementos necesarios para el ejercicio expedito de sus funciones;
 
-VIII. Hacer que se ejecuten sin modificación alguna, las sentencias ejecutoriadas de los Tribunales.
+VIII. Hacer que se cumplan las sentencias ejecutoriadas de los Tribunales;
 
-IX. Cuidar del orden y la tranquilidad publica del Estado.
+IX. Cuidar del orden y la tranquilidad pública del Estado,
 
-X. Mandar las Fuerzas de Seguridad Publica del Estado y todas las que se encuentren el Municipio donde resida, de acuerdo con el artículo 115 de la Constitución General.
+X. Mandar las fuerzas de Seguridad Pública del Estado y todas las que se encuentren en el Municipio donde resida, de acuerdo con el artículo 115 fracción III párrafo segundo de la Constitución General;
 
-XI. Nombrar y remover libremente al personal de la Policía Municipal del lugar donde resida.
+XI. Nombrar y remover libremente al personal de la Policía Municipal del lugar donde resida habitual o transitoriamente;
 
-XII. Resolver las dudas que tuvieren los Agentes de la Administración Publica sobre aplicación de las leyes a casos particulares.
+XII. Resolver las dudas que tuvieren los Agentes de la Administración Pública sobre la aplicación de las Leyes a casos particulares;
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1948)</small>
+XIII. Nombrar y remover libremente al Secretario General del Gobierno, al Oficial Mayor del mismo, al Procurador General de Justicia del Estado, a los Agentes del Ministerio Público y a todos los empleados que conforme a la Constitución y a las Leyes, no deban ser nombrados por otra autoridad;
 
-XIII. Nombrar y remover libremente al Secretario General del Gobierno, al Oficial Mayor del mismo, al Procurador General de Justicia del Estado, a los Agentes del Ministerio Público y a todos los empleados que conforme a la Constitución y a las Leyes, no deban ser nombrados por otra autoridad.
+XIV. Nombrar a los Magistrados del Tribunal Superior de Justicia con la aprobación del Congreso o de la Diputación Permanente, en su caso y sin esa aprobación, a los magistrados provisionales del mismo Tribunal o magistrados supernumerarios, cuando a juicio de él y del Tribunal, así lo requiera la expedita administración de justicia, Los Magistrados supernumerarios, los podrá suprimir el Gobernador del Estado, cuando las circunstancias que los crearon hayan desaparecido, de acuerdo al propio Tribunal;
 
-Nombrar a los Magistrados del Tribunal Superior de Justicia, con aprobación del Congreso; y sin esa aprobación, a los Magistrados Provisionales del mismo Tribunal o Magistrados Supernumerarios, cuando a juicio de él y del Tribunal, así lo requiera la expedita administración de Justicia. Los Magistrados Supernumerarios los podrá suprimir el Gobernador del Estado, cuando las circunstancias que los crearon hayan desaparecido, de acuerdo con el propio Tribunal.
+XV. Nombrar a propuesta en terna del Tribunal Superior a los Jueces de Primera Instancia e iniciar ante el propio Tribunal, la separación de la autoridad judicial que observe conducta inconveniente;
 
-XIV. Nombrar a propuesta en terna del Tribunal Superior, a los Jueces de Primera Instancia, e iniciar ante el propio Tribunal, la separación de algún Juez cuando observe mala conducta.
+XVI. Conceder licencia en los términos que fijen las leyes, a los empleados y funcionarios que se expresan en la fracción XIII;
 
-XV. Conceder licencia en los términos que fijen las leyes, a los empleados y funcionarios que se expresan en la fracción XIII.
+XVII. Convocar a elecciones extraordinarias de Diputados llegado el caso, cuando por cualquier motivo haya desaparecido el Poder Legislativo;
 
-XVI. Convocar a elecciones extraordinarias de Diputados y de Gobernador, llegado el caso, cuando por cualquier motivo haya desaparecido el Poder Legislativo.
+XVIII. Nombrar una Junta de Administración compuesta de tres personas que se encargarán de convocar a la mayor brevedad posible a elecciones municipales, cuando por cualquier motivo desaparezca un Ayuntamiento;
 
-XVII. Nombrar una Junta de Administración compuesta de tres personas que se encargaran de convocar a la mayor brevedad posible a elecciones municipales, cuando por cualquier motivo desaparezca un Ayuntamiento.
+XIX. Organizar y fomentar la Instrucción Pública en el Estado;
 
-XVIII. Organizar y fomentar la Instrucción Publica en el Estado.
+XX. Expedir títulos para el ejercicio de una profesión a las personas que hayan obtenido el derecho a él conforme a las leyes de la materia;
 
-XIX. Expedir los títulos para el ejercicio de una profesión a las personas que hayan obtenido el derecho a él, dentro del Estado y conforme a la ley.
+XXI. Conceder indulto a los condenados por sentencia ejecutoriada de los tribunales del Estado;
 
-XX. Conceder indulto de la pena de muerte a los condenados por sentencia ejecutoriada de los Tribunales del Estado.
+XXII. Nombrar representantes del Estado para los negocios en éste tenga interés y que deban ventilarse fuera del mismo;
 
-XXI. Nombrar representantes del Estado para los negocios en que éste tenga interés y que deban ventilarse fuera del mismo.
+XXIII. Resolver los conflictos suscitados entre los municipios del Estado, y los que surjan entre los miembros de un ayuntamiento, conforme lo determinen las leyes;
 
-XXII. Resolver los conflictos suscitados entre los Municipios del Estado y los que surjan entre los miembros de un Ayuntamiento, conforme lo determinen las leyes.
+XXIV. Visitar los municipios del Estado, que estime conveniente y dictar las providencias del caso;
 
-XXIII. Visitar los Municipios del Estado que estime conveniente y dictar las providencias del caso.
+XXV. Nombrar Jueces del Registro Civil donde lo crea oportuno, de acuerdo con la Ley;
 
-XXIV. Nombrar Jueces del Registro Civil donde lo crea oportuno, de acuerdo con la Ley Federal respectiva.
+XXVI. Cuidar de los distintos ramos de la administración, procurando que los caudales públicos estén siempre asegurados y se recauden e inviertan con arreglo a las leyes;
 
-XXV. Cuidar de los distintos ramos de la Administración, procurando que los caudales públicos estén siempre asegurados y se recauden e inviertan con arreglo a las leyes.
+XXVII. Asistir al H. Congreso el día 1o. de marzo de cada año, para dar cuenta del estado que guardan los diversos ramos de la administración pública;
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 1961)</small>
+XVIII (sic). Solicitar del Congreso autorización para el arreglo de límites con los Estados limítrofes; y una vez aprobado el arreglo por el Congreso, dirigir al Congreso de la Unión para los efectos de los artículos 73 fracción IV y 116 de la Constitución General;
 
-XXVI. Asistir al H. Congreso el día 1o. de marzo de cada año, para dar cuenta del Estado que guardan los diversos ramos de la Administración Pública.
+XXIX. En caso de epidemias, epizootias de carácter grave, que se presenten dentro del territorio del Estado, inundaciones u otra calamidad pública que azote a cualquiera región del propio Estado, el Gobernador podrá tomar las medidas que crea convenientes de carácter urgente para impedir o remediar el desarrollo de dichas calamidades, en tanto intervienen las autoridades federales competentes conforme a la Constitución General de la República y colaborar con estas por todos los medios a su alcance para lograr los mismo fines;
 
-XXVII. Solicitar del Congreso autorización para el arreglo de límites con los estados limítrofes; y una vez aprobado el arreglo por el Congreso, dirigirse al Congreso de la Unión para los efectos de los artículos 73 fracción IV y 116 de la Constitución General.
+XXX. Tomar las medidas de carácter urgente que sean necesarias, cuando en el Estado, o en cualquier región de él, se presentes situaciones económicas difíciles para llenar las necesidades indispensables de población, tales como escasez de alimentos, ocultación de artículos de primera necesidad, encarecimiento indebido de éstos, o de cualesquiera otros productos indispensables para la subsistencia de la población o de la economía del Estado;
 
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 1948)</small>
-
-XXVIII. En el caso de epidemias, epizootias de carácter grave, que se presenten dentro del territorio del Estado, inundaciones, otra calamidad pública que azote a cualquiera región del propio Estado, el Gobernador podrá tomar las medidas que crea convenientes, de carácter urgente, para impedir o remediar el desarrollo de dichas calamidades, en tanto intervienen las autoridades Federales competentes conforme a la Constitución General de la República; y colaborar con éstas por todos los medios a su alcance, para lograr los mismos fines.
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 1948)</small>
-
-XXIX. Tomar todas las medidas de carácter urgente que sean necesarias, cuando en el Estado, o en cualquiera región de él, se presenten situaciones económicas defíciles (sic) para llenar las necesidades indispensables de la población, tales como escasez de alimentos, ocultación de artículos de primera necesidad, encarecimiento indebido de éstos, o de cualesquiera otros productos indispensables para la subsistencia de la población o de la economía del Estado.
-
-XXX. Los demás que le confiere esta Constitución y la General de la República.
+XXXI. Las demás que le confiera esta Constitución y la General de la República; (sic)
 
 ###### Artículo 54.
 
@@ -727,11 +669,11 @@ No podrán ser Secretario General del Gobierno, los Ministros de cualquier culto
 
 El Secretario General es el órgano de comunicación entre el Gobernador y las autoridades y empleados del Estado. Todas las leyes y decretos del Congreso, los reglamentos, acuerdos, órdenes y demás disposiciones del Gobernador del Estado, deberán ir firmados por el Secretario General. Sin este requisito no deberán ser obedecidos.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1945)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1970)</small>
 
 ###### Artículo 58.
 
-Además del Secretario General de Gobierno, habrá un Oficial Mayor para cuyo nombramiento son aplicables las disposiciones de los artículos 55 y 56 anteriores, excepto la consignada en la fracción IV del artículo 55. Las faltas temporales del Secretario General serán suplidas por el Oficial Mayor, quien ejercerá además, las funciones que determine la Ley.
+Además del Secretario General de Gobierno, habrá un Oficial Mayor para cuyo nombramiento son aplicables las disposiciones de los artículos 55 y 56 anteriores, excepto la consignada en la fracción IV del artículo 55. Para el despacho de los negocios del orden administrativo del Estado, habrá el número de dependencias que establezca el Congreso por una Ley, la que distribuirá los negocios que han de estar a cargo de cada Oficina. Las faltas temporales del Secretario General serán suplidas por el Oficial Mayor, que ejercerá además las funciones que determine al Ley.
 
 > <small>(REFORMADO, P.O. 1 DE ABRIL DE 1945)</small>
 
@@ -739,101 +681,91 @@ Además del Secretario General de Gobierno, habrá un Oficial Mayor para cuyo no
 
 El Secretario General así como el Oficial Mayor, no pueden desempeñar los oficios de abogado o apoderado en negocios ajenos ante las autoridades del Estado.
 
+> <small>(ADICIONADO [N. DE E. REUBICADO ANTES TITULO VI], P.O. 1 DE FEBRERO DE 1970)</small>
+
 ###### Artículo 60.
 
-Se deposita el ejercicio del Poder Judicial en un Tribunal Superior y en los Tribunales inferiores.
+El Ministerio Público, como representante del interés social, es la institución que tiene a su cargo velar por la legalidad como principio rector de la convivencia social; mantener el orden jurídico establecido, ejercitar la acción penal; exigir el cumplimiento de la pena; cuidar de la correcta aplicación de las medidas de política criminal, y proteger los intereses colectivos e individuales contra toda arbitrariedad.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1953)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE FEBRERO DE 1970)</small>
 
 ### CAPITULO II. DEL SECRETARIO GENERAL
 
 ###### Artículo 61.
 
-El Tribunal Superior de Justicia estará formado por cinco Magistrados, que durarán en sus cargos seis años, y tomarán posesión el día 1o. de abril.
+El Ministerio público estará integrado por un Procurador General, los Agentes del Ministerio Público, Policía Judicial y demás personas que señale la Ley Orgánica respectiva.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE FEBRERO DE 1970)</small>
 
 ###### Artículo 62.
 
-Para ser Magistrado, se requiere:
-
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos.
-
-II. Tener mas de treinta años.
-
-III. Haber ejercido la abogacía por ocho años cuando menos o desempeñado la Judicatura por cinco, cuando menos.
+La Ley Orgánica del Ministerio Público, determinará su organización, funcionamiento y atribuciones que le correspondan.
 
 ###### Artículo 63.
 
-No podrán ser Magistrados los que hayan sido condenados por algún delito del orden común u oficial, y los Ministros de cualquier culto.
+Se deposita el ejercicio del Poder Judicial en un Tribunal Superior y en los Tribunales Inferiores.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1970)</small>
 
 ###### Artículo 64.
+
+El Tribunal Superior de Justicia estará formado por siete magistrados, que regirán sus acciones conforme a la Ley Orgánica del Poder Judicial.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1970)</small>
+
+###### Artículo 65.
+
+Para ser Magistrado se requiere:
+
+I. Ser ciudadano mexicano por nacimiento, en ejercicio de sus derechos;
+
+II. Tener mas de treinta años; y
+
+III. Haber ejercido la abogacía por ocho años cuando menos o desempeñado la Judicatura por cinco, cuando menos.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1970)</small>
+
+###### Artículo 66.
+
+No podrán ser magistrados los que hayan sido condenados por algún delito del orden común oficial, y los ministros de cualquier culto.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE FEBRERO DE 1970)</small>
+
+###### Artículo 67.
 
 Son facultades del Tribunal Superior:
 
 I. Conocer de las causas de responsabilidad oficial de los Jueces de Primera Instancia y de los Agentes del Ministerio Publico.
 
-II. Hacer la declaración de haber lugar o no a proceder por delitos comunes cometidos por los funcionarios a que se refiere la fracción anterior.
+II. Hacer la declaración de haber lugar o no por delitos comunes cometidos por los funcionarios a que se refiere la fracción anterior;
 
-III. Conocer de las controversias en que el Estado fuere parte, salvo lo dispuesto por la Constitución General.
+III. Conocer de las controversias en que el Estado fuere parte, salvo lo dispuesto por la Constitución General;
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1948)</small>
+IV. Conocer de los recursos de apelación, queja y cualesquiera otros señalados en las Leyes comunes;
 
-IV. Conocer de los recursos de apelación, queja y cualesquiera otros señalados en las leyes comunes.
+V. Conocer de las competencias de jurisdicción que se susciten, entre los jueces del Estado;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1930)</small>
+VI Acordar por sí o a propuesta del Ejecutivo el cambio de los Jueces de Primera Instancia de un Distrito a otro; y nombrar y remover libremente, a todos los empleados del Poder Judicial;
 
-V.- Conocer de las competencias de jurisdicción que se susciten entre los Jueces del Estado.
+VII. Conceder licencias hasta por tres meses a los Jueces de Primera Instancia;
 
-(REFORMADA, P.O. 24 DE FEBRERO DE 1948))
+VIII. Formular las ternas que deben de enviarse al Gobernador del Estado para el nombramiento de Jueces de Primera Instancia, a que se refiere la fracción XIV del artículo 53 de la propia Constitución; y formar su Reglamento Interior; y
 
-VI. Acordar por sí o a propuesta del Ejecutivo el cambio de los Jueces de Primera Instancia de un Distrito a otro; y nombrar y remover libremente, a todos los empleados del Poder Judicial.
+IX. Las demás que determine esta Constitución y le confieran otras Leyes que con posterioridad a ella se dicten.
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1930)</small>
-
-VII.- Conceder licencias hasta por tres meses a los Jueces de Primera Instancia.
-
-> <small>(REFORMADA, P.O. EL 24 DE FEBRERO DE 1948)</small>
-
-VIII. Formular las ternas que deben de enviarse al Gobernador del Estado para el nombramiento de Jueces de Primera Instancia, y a que se refiere la fracción XIV del artículo 53 de la propia Constitución; y formar su Reglamento Interior.
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1930)</small>
-
-IX.- Las demás que determine esta Constitución y le confieran otras Leyes que con posterioridad a élla se dicten.
-
-X.- (DEROGADA, P.O. 16 DE MARZO DE 1930)
-
-XI.- (DEROGADA, P.O. 16 DE MARZO DE 1930)
-
-###### Artículo 65.
-
-La ley establecerá la organización y facultades de los Tribunales inferiores.
-
-###### Artículo 66.
-
-Ningún otro Poder del Estado podrá avocarse el conocimiento de los asuntos judiciales.
-
-###### Artículo 67.
-
-El Ministerio Público estará desempeñado en el Estado, por un Procurador General, por los Agentes del Ministerio Público y por la Policía Judicial.
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE FEBRERO DE 1970)</small>
 
 ###### Artículo 68.
 
-Para ser Procurador General se requieren las mismas condiciones que para ser Magistrado.
+La ley establecerá la organización y facultades de los Tribunales Inferiores.
 
-Para ser Agente, las que determine la ley.
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE FEBRERO DE 1970)</small>
 
 ###### Artículo 69.
 
-Son atribuciones del Ministerio Publico:
+Ningún otro Poder del Estado podrá avocarse el conocimiento de los asuntos judiciales.
 
-I. Ejercitar ante los Tribunales del Estado, las acciones que corresponden contra los violadores de las leyes de interés publico.
-
-II. Intervenir en la forma y términos que la ley disponga, en los juicios que afecten a personas a quienes la ley otorga especial protección.
-
-III. Defender los intereses del Estado ante los Tribunales.
-
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1948)</small>
-
-La Ley Orgánica del Ministerio Público, determinará las atribuciones que correspondan a cada una de las personas que ejerzan esta función.
+> <small>(REFORMADA SU NUMERACION [ N. DE E. ANTES TITULO VII], P.O. 1 DE FEBRERO DE 1970)</small>
 
 ###### Artículo 70.
 
@@ -977,6 +909,8 @@ XI. Ejercer las funciones de Juez del Registro Civil, donde no hubiere empleado 
 
 XII. Las demás que le confiere esta Constitución y la General de la República.
 
+> <small>(REFORMADA SU NUMERACION [ N. DE E. ANTES TITULO VIII], P.O. 1 DE FEBRERO DE 1970)</small>
+
 ###### Artículo 83.
 
 La Hacienda Publica del Estado se formará:
@@ -1009,9 +943,11 @@ Los pagos se harán previa orden escrita del Gobernador, y con absoluta igualdad
 
 Los empleados que manejen fondos públicos, darán fianza en la forma que la ley señale.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+> <small>(REFORMADA SU NUMERACION [ N. DE E. ANTES TITULO IX], P.O. 1 DE FEBRERO DE 1970)</small>
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1948)</small>
+### CAPITULO III. DEL MINISTERIO PUBLICO
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE FEBRERO DE 1970)</small>
 
 ###### Artículo 89.
 
@@ -1037,9 +973,9 @@ Cuando el mismo hecho tenga otra pena señalada en la ley, el propio Tribunal la
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 1948)</small>
 
-### CAPITULO II. DE LAS ASAMBLEAS MUNICIPALES
+### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1948)</small>
 
 ###### Artículo 93.
 
@@ -1049,6 +985,8 @@ De los delitos comunes y oficiales cometidos por el Juez de Primera Instancia, A
 
 La responsabilidad por delitos y faltas oficiales, sólo podrá exigirse durante el período en que el funcionario ejerce el encargo y dentro de un año después.
 
+> <small>(REFORMADA SU NUMERACION [ N. DE E. ANTES TITULO X], P.O. 1 DE FEBRERO DE 1970)</small>
+
 ###### Artículo 95.
 
 Esta Constitución puede ser adicionada o reformada. Las proposiciones que tengan este objeto, deberán ser suscritas por tres Diputados o iniciados por el Ejecutivo, por el Tribunal Superior de Justicia o por cinco Ayuntamientos. Estas iniciativas se sujetarán a los trámites establecidos para la expedición de las Leyes en los artículos 32 y 33; pero requiere la aprobación de más de los dos tercios del número total de Diputados.
@@ -1056,6 +994,8 @@ Esta Constitución puede ser adicionada o reformada. Las proposiciones que tenga
 ###### Artículo 96.
 
 Esta Constitución no perderá su fuerza y vigor aún cuando por alguna rebelión se interrumpa su observancia. En caso de que por algún trastorno público se establezca un Gobierno contrario a los principios que ella sanciona, tan luego como el pueblo recobre su libertad, se restablecerá su observancia, y con arreglo a ella y a las leyes que en su virtud se hubieren expedido, serán juzgados, así los que hubieren figurado en el Gobierno de la rebelión, como los que hubieren cooperado a esta.
+
+> <small>(REFORMADA SU NUMERACION [ N. DE E. ANTES TITULO XI], P.O. 1 DE FEBRERO DE 1970)</small>
 
 ###### Artículo 97.
 
@@ -1069,23 +1009,29 @@ Todos los funcionarios y empleados públicos sin excepción, antes de tomar pose
 
 Ninguna autoridad política o administrativa, dispondrá de manera alguna de las personas de los acusados o reos, mientras no le estén formalmente consignados, y entonces, sólo para el efecto de ejecutar la sentencia.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1970)</small>
+
 ###### Artículo 100.
 
-Todo funcionario y empleado publico, tendrá derecho a percibir el sueldo o emolumento que la ley señale, sin que pueda renunciarlo, y la ley que lo aumente o disminuya, no podrá tener lugar durante el período en que un funcionario ejerce el cargo.
+Todo funcionario y empleado publico, tendrá derecho a percibir el sueldo o emolumento que la Ley señale.
 
-## TITULO VII. DE LOS MUNICIPIOS
+## TITULO VII. DE LA HACIENDA PUBLICA DEL ESTADO
+
+### CAPITULO II. DE LAS ASAMBLEAS MUNICIPALES
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1954)</small>
 
 ### CAPITULO III. DEL PRESIDENTE MUNICIPAL
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1948)</small>
 
-## TITULO VIII. DE LA HACIENDA PUBLICA DEL ESTADO
+## TITULO VIII. DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS
 
-## TITULO IX. DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS
-
-## TITULO X. DE LA REFORMA E INVIOLABILIDAD DE ESTA CONSTITUCION
+## TITULO IX. DE LA REFORMA E INVIOLABILIDAD DE ESTA CONSTITUCION
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 1930)</small>
+
+## TITULO X. DISPOSICIONES GENERALES
 
 ## TITULO XI. DISPOSICIONES GENERALES
 
@@ -1097,7 +1043,7 @@ Esta Constitución se protestara con toda solemnidad en todo el Estado, quedando
 
 ###### Artículo 1°.
 
-El Estado de Hidalgo es parte integrante de los Estados Unidos Mexicanos, y es libre y soberano en todo lo que concierne a su régimen interior, conforme a los preceptos de la Constitución General de la República.
+Esta Constitución se protestara con toda solemnidad en todo el Estado, quedando derogada desde luego la anterior, así como sus adiciones y reformas.
 
 ###### Artículo 2°.
 
@@ -1111,63 +1057,11 @@ El período Constitucional de la actual Legislatura, terminara el último día d
 
 Las autoridades y funcionarios del Estado no tienen mas facultades que las que expresamente les concedan esta Constitución, la General de la República y las leyes que de ellas emanen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ENERO DE 1970)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1970)</small>
 
 ###### Artículo 3°.
 
-El Territorio del Estado de Hidalgo es el expresado en el Supremo Decreto de Erección de 16 de enero de 1869 y dividido en 15 Distritos a los que corresponden los 84 Municipios que a continuación se expresan:
-
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 1970)</small>
-
-Distrito de Actopan: Formado por los Municipios de Actopan, Mixquiahuala, El Arenal, San Salvador, Santiago, San Agustín Tlaxiaca, Francisco I. Madero y Progreso.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1943)</small>
-
-Distrito de Apam: Formado con los Municipios de Apam, Tepeapulco, Tlanalapan, Almoloya y Emiliano Zapata.
-
-Distrito de Atotonilco el Grande: Formado con los Municipios de Atotonilco el Grande, Huasca y Omitlan.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE JUNIO DE 1946)</small>
-
-Distrito de Huejutla de Reyes: Formado con los Municipios de Huejutla de Reyes, Orizatlan, Huazalingo, Huautla, Yahualica, Xochiatipan y Tlanchinol.
-
-Distrito de Huichapan: Formado con los Municipios de Huichapan, Tecozautla, Nopala y Chapantongo
-
-Distrito de Ixmiquilpan: Formado con los Municipios de Ixmiquilpan, Alfajayucan, Cardonal y Chilcuautla.
-
-Distrito de Jacala: Formado con los Municipios de Jacala, Chapulhuacán, la Misión, Pacula y Pisaflores.
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1937)</small>
-
-Distrito de Metztitlan: formado con los Municipios de Metztitlan, Metzquititlán, Juárez Hidalgo y Eloxochitlán.
-
-Distrito de Molango: Formado con los Municipios de Molango, Calnali, Xochicoatlán, Lolotla, Tlahuiltepa y Tepehuacán de Guerrero.
-
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 1935)</small>
-
-Distrito de Pachuca: Formado con los Municipios de Pachuca, Mineral del Monte, Mineral de Chico, Mineral de la Reforma, Epazoyucan, Tolcayuca, Tizayuca, Tezontepec, Zempoala y Zapotlán de Juárez.
-
-Distrito de Tenango de Doria: Formado con los Municipios de Tenango de Doria, San Bartolo Tutotepec, Agua Blanca, Iturbide y Huehuetla.
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 1969)</small>
-
-Distrito de Tula de Allende, formado por los Municipios de Tula de Allende, Tlaxcoapan, Tepeji del Río, Tetepango, Tezontepec de Aldama, Atitalaquia, Tepetitlán, Atotonilco de Tula, Ajacuba y Tlahuelilpan.
-
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1944)</small>
-
-Distrito de Tulancingo: Formado con los Municipios de Tulancingo, Acaxochitlán, Cuautepec, Acatlán, Metepec, Singuilucan y Santiago Tulantepec.
-
-Distrito de Zacualtipán: Formado con los Municipios de Zacualtipán y Tianguistengo.
-
-Distrito de Zimapán: Formado con los Municipios de Zimapán, Tasquillo y Santa María Tepeji;
-
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 1927)</small>
-
-Las Cabeceras de los Distritos y de los Municipios son los que corresponden a su denominación, con excepción del Municipio de Francisco I. Madero que tendrá por Cabecera el pueblo de Tepatepec.
-
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 1924)</small>
-
-Ésta división territorial podrá modificarse de acuerdo con el artículo 70 de la propia Constitución, las Cabeceras de Distrito o de Municipio de conformidad con leyes secundarias que se expidan al efecto.
+El período Constitucional de la actual Legislatura, terminara el último día de febrero de 1921; el del Gobernador, el 31 de marzo del mismo año y el de los Magistrados del Superior Tribunal de Justicia, el 4 de mayo de 1923.
 
 ###### Artículo 2o.
 
@@ -1219,8 +1113,104 @@ P.O. 1 DE ABRIL DE 1945.
 
 ###### Artículo 1o.
 
-Se derogan todas las Leyes y disposiciones que estén en contradicción con las anteriores reformas.
+Las reformas a los artículos 58 y 59 empezarán a surtir sus efectos a partir del día primero de abril de mil novecientos cuarenta y cinco.
 
 ###### Artículo 2o.
 
 El Congreso del Estado deberá de expedir las Leyes reglamentarias necesarias para cumplir con lo ordenado en las mismas reformas.
+
+###### Artículo 1o.
+
+Se derogan todas las Leyes y disposiciones que estén en contradicción con las anteriores reformas.
+
+###### Artículo 3o.
+
+Las anteriores reformas entrarán en vigor en todo el Estado, a los quince días de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE SEPTIEMBRE DE 1948.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+
+P.O. 8 DE NOVIEMBRE DE 1948.
+
+DECRETO NUMERO 10, QUE REFORMA AL ARTICULO 16 DE LA CONSTITUCION.
+
+Este Decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE NOVIEMBRE DE 1948.
+
+DECRETO NUMERO 11, QUE REFORMA LOS ARTICULOS 48, 52, 78 Y 93 DE LA CONSTITUCION.
+
+Este Decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE FEBRERO DE 1952.
+
+DECRETO NUMERO 28, QUE REFORMA LA FRACCION XXVI DEL ARTICULO 53 DE LA CONSTITUCION.
+
+Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE FEBRERO DE 1952.
+
+DECRETO NUMERO 29, QUE REFORMA EL ARTICULO 67 DE LA CONSTITUCION.
+
+Este decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE ABRIL DE 1953.
+
+Este Decreto entrará en vigor a los diez días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JULIO DE 1953.
+
+Las anteriores reformas y adiciones entrarán en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE OCTUBRE DE 1953.
+
+Único.- Este Decreto empezará a surtir sus efectos diez días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE NOVIEMBRE DE 1953.
+
+Este Decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 1953.
+
+Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE MAYO DE 1954.
+
+Este decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE ENERO DE 1957.
+
+Único.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE NOVIEMBRE DE 1960.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+
+P.O. 8 DE JUNIO DE 1961.
+
+Unico.- Esta Reforma entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE NOVIEMBRE DE 1969.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA CONSTITUCION.
+
+4o.- Este Decreto entrará en vigor el 1o. de enero de 1970.
+
+P.O. 8 DE ENERO DE 1970.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA CONSTITUCION.
+
+4o.- Este decreto entrará en vigor el 15 de enero de 1970.
+
+P.O. 1 DE FEBRERO DE 1970.
+
+1°. Esta Decreto entrará en vigor a partir de su publicación en el Periódico Oficial con las excepciones que se señalan en los artículos siguientes.
+
+2°. El artículo 18 que se reforma, surtirá efectos para las próximas elecciones de diputados, por lo que en su oportunidad la Comisión Estatal Electoral, con apoyo en el artículo 11 fracción X de la Ley para la Renovación de Poderes Locales y Ayuntamientos, hará la división de los Distritos Electorales Locales.
+
+3°. Asimismo el artículo 42 que se reforma, entrará en vigor una vez que el H. Congreso del Estado se encuentre formado por 15 diputados por lo menos.
+
+4°. La reforma al artículo 61 entrará en vigor, al día siguiente de la publicación en el Periódico Oficial de la Ley Orgánica del Poder Judicial.
+
+5º. El Título VI del Ministerio Público se integra al Título IV del Poder Ejecutivo, para formar el Capítulo III y consecuentemente el Título VII de los municipios, le corresponderá el Título VI; el Título VIII de la Hacienda Pública del Estado, será el Título VII; el Título IX que trata de la responsabilidad de los funcionarios pasará a ser el Título VIII; el Título X de la Reforma e Inviolabilidad de esta Constitución, le corresponde el Título IX; y el Título XI, que trata de las disposiciones Generales le corresponde el Título X.
