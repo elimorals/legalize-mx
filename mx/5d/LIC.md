@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "1995-11-17"
+last_updated: "1996-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE NOVIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 1996.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -56,7 +56,7 @@ Para efectos de lo dispuesto en la presente Ley, se considera servicio de banca 
 
 No se consideran operaciones de banca y crédito aquellas que, en el ejercicio de las actividades que les sean propias, celebren intermediarios financieros distintos a instituciones de crédito que se encuentren debidamente autorizados conforme a los ordenamientos legales aplicables. Dichos intermediarios en ningún caso podrán recibir depósitos irregulares de dinero en cuenta de cheques.
 
-La Secretaría de Hacienda y Crédito Público resolverá las consultas que al respecto se le formulen y podrá establecer criterios de aplicación general conforme a los cuales, para efectos de la presente Ley, se precise si hay o no intermediación bancaria.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 30 DE ABRIL DE 1996)</small>
 
 ###### ARTICULO 3o.
 
@@ -420,11 +420,15 @@ Las resoluciones a que se refiere el primer párrafo, podrán ser recurridas ant
 
 El órgano de vigilancia de las instituciones de banca múltiple, estará integrado por lo menos por un comisario designado por los accionistas de la serie "A" y, en su caso, un comisario nombrado por los de la serie "B" y uno por los de la "L", así como sus respectivos suplentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE ABRIL DE 1996)</small>
+
 ###### ARTICULO 27.
 
-Para la fusión de dos o más instituciones de banca múltiple, se requiera autorización previa de la Secretaría de Hacienda y Crédito Público, quien oirá la opinión del Banco de México y de la Comisión Nacional Bancaria y se efectuará de acuerdo con las bases siguientes:
+Para la fusión de dos o más instituciones de banca múltiple, o de cualquier sociedad con una institución de banca múltiple, se requerirá autorización previa de la Secretaría de Hacienda y Crédito Público, quien oirá la opinión del Banco de México y de la Comisión Nacional Bancaria y de Valores y se efectuará de acuerdo a las bases siguientes:
 
-I. Las instituciones presentarán a la propia Secretaría, los proyectos de los acuerdos de las asambleas de accionistas relativos a la fusión, plan de fusión de las instituciones respectivas con indicación de las etapas en que deberá llevarse a cabo, estados contables que presenten la situación de las instituciones y la información a que se refieren las fracciones I, II y IV del artículo 10 de esta Ley;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1996)</small>
+
+I. Las sociedades presentarán a la propia Secretaría los proyectos de los acuerdos de las asambleas de accionistas relativos a la fusión, plan de fusión de las sociedades respectivas con indicación de las etapas en que deberá llevarse a cabo, estados contables que presenten la situación de las sociedades y la información a que se refieren las fracciones I, II y IV del artículo 10 de esta Ley;
 
 II. La propia Secretaría al autorizar la fusión, cuidará en todo tiempo la adecuada protección de los intereses del público, así como de los trabajadores de las sociedades, en lo que corresponda a sus derechos;
 
@@ -727,8 +731,6 @@ Las acciones de la serie “B” de las instituciones de banca múltiple Filiale
 > <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
 Las acciones serán de igual valor, dentro de cada serie, conferirán a sus tenedores los mismos derechos, y deberán pagarse íntegramente en efectivo en el acto de ser suscritas. Las mencionadas acciones se mantendrán en depósito en alguna de las instituciones para el depósito de valores reguladas en la Ley del Mercado de Valores, quienes en ningún caso se encontrarán obligadas a entregarlas a los titulares.
-
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
@@ -1268,6 +1270,10 @@ En el acto constitutivo del fideicomiso o en sus reformas, se podrá prever la f
 
 Las operaciones con valores que realicen las instituciones de crédito en cumplimiento de fideicomisos, mandatos, comisiones y contratos de administración, se realizarán en términos de las disposiciones de esta Ley y de la Ley del Mercado de Valores, así como de conformidad con las reglas generales que, en su caso, emita el Banco de México oyendo la opinión de la Comisión Nacional de Valores, con vistas a procurar el desarrollo ordenado del mercado de valores.
 
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 1996)</small>
+
+Las instituciones de crédito, con sujeción a las disposiciones de carácter general que expida el Banco de México, podrán realizar operaciones de reporto y préstamo de valores por cuenta de terceros, sin la intermediación de casas de bolsa, cuando tales operaciones tengan por finalidad proveer al buen funcionamiento del sistema de pagos.
+
 ###### ARTICULO 82.
 
 El personal que las instituciones de crédito utilicen directa o exclusivamente para la realización de fideicomisos, no formará parte del personal de la institución, sino que, según los casos se considerará al servicio del patrimonio dado en fideicomiso. Sin embargo, cualesquier derechos que asistan a esas personas conforme a la ley, los ejercitarán contra la institución de crédito, la que, en su caso, para cumplir con las resoluciones que la autoridad competente dicte afectará, en la medida que sea necesaria, los bienes materia del fideicomiso.
@@ -1376,6 +1382,22 @@ Las operaciones invariablemente deberán quedar documentadas a nombre del client
 
 Las instituciones de crédito sólo podrán ceder o descontar su cartera con el Banco de México u otras instituciones de crédito o con los fideicomisos constituidos por el Gobierno Federal para el fomento económico. El Banco de México podrá autorizar excepciones a este artículo.
 
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 1996)</small>
+
+Las instituciones de crédito no estarán sujetas a lo establecido en el primer párrafo del artículo 117 de esta Ley por lo que hace a la información relacionada con los activos que se mencionan a continuación, cuando ésta sea proporcionada a personas con las que se negocien o celebren las siguientes operaciones:
+
+> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 1996)</small>
+
+I. Los créditos que vayan a ser objeto de cesión o descuento; o
+
+> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 1996)</small>
+
+II. Su cartera u otros activos, tratándose de la transmisión o suscripción de un porcentaje significativo de su capital social o de la sociedad controladora del grupo financiero al que pertenezca. Para dar a conocer la información respectiva deberá obtenerse la autorización previa de la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 1996)</small>
+
+La Secretaría de Hacienda y Crédito Público vigilará que durante los procesos de negociación a que se refiere este artículo, los participantes guarden la debida confidencialidad sobre la información a que tengan acceso con motivo de los mismos.
+
 ###### ARTICULO 94.
 
 La Comisión Nacional Bancaria podrá ordenar la suspensión de la publicidad que realicen las instituciones de crédito, cuando a su juicio ésta implique inexactitud, obscuridad, o competencia desleal entre las mismas, o que por cualquier otra circunstancia pueda inducir a error, respecto de sus operaciones y servicios.
@@ -1422,15 +1444,17 @@ Todo acto o contrato que signifique variación en el activo o en el pasivo de un
 
 ARTICULO 99 A.- Las instituciones de crédito constituirán el fondo de reserva de capital separando anualmente por lo menos un diez por ciento de sus utilidades netas, hasta que dicho fondo alcance una suma igual al importe del capital pagado.
 
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1996)</small>
+
 ###### ARTICULO 99-A.
 
 Las instituciones de crédito constituirán el fondo de reserva de capital separando anualmente por lo menos un diez por ciento de sus utilidades netas, hasta que dicho fondo alcance una suma igual al importe del capital pagado.
 
 ###### ARTICULO 100.
 
-Las instituciones de crédito podrán microfilmar todos aquellos libros, registros y documentos en general, que obren en su poder, relacionados con los actos de la propia institución, que mediante disposiciones de carácter general señale la Comisión Nacional Bancaria, de acuerdo a las bases técnicas que para la microfilmación, su manejo y conservación establezca la misma.
+Las instituciones de crédito podrán microfilmar o grabar en discos ópticos, o en cualquier otro medio que les autorice la Comisión Nacional Bancaria y de Valores, todos aquellos libros, registros y documentos en general, que obren en su poder, relacionados con los actos de la propia institución, que mediante disposiciones de carácter general señale la Comisión Nacional Bancaria y de Valores, de acuerdo a las bases técnicas que para la microfilmación o la grabación en discos ópticos, su manejo y conservación establezca la misma.
 
-Los negativos originales de cámara obtenidos de acuerdo a lo señalado por el párrafo anterior, así como sus impresiones debidamente certificadas por el funcionario autorizado de la institución de crédito, tendrán en juicio el mismo valor probatorio que los libros, registros y documentos microfilmados.
+Los negativos originales de cámara obtenidos por el sistema de microfilmación y las imágenes grabadas por el sistema de discos ópticos o cualquier otro medio autorizado por la Comisión Nacional Bancaria y de Valores, a que se refiere el párrafo anterior, así como las impresiones obtenidas de dichos sistemas o medios, debidamente certificadas por el funcionario autorizado de la institución de crédito, tendrán en juicio el mismo valor probatorio que los libros, registros y documentos microfilmados o grabados en discos ópticos, o conservados a través de cualquier otro medio autorizado.
 
 ###### ARTICULO 101.
 
@@ -1492,9 +1516,9 @@ IV. Las sociedades financieras de objeto limitado autorizadas por la Secretaría
 
 Las personas morales a que se refiere la fracción IV de este artículo, contarán en todo momento con participación mexicana mayoritaria en su capital social, debiendo sujetarse en cada caso a las reglas que al efecto expida la propia Secretaría y a las disposiciones que respecto de sus operaciones emita el Banco de México, así como a la inspección y vigilancia de la Comisión Nacional Bancaria.
 
-> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-La Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México, podrá establecer criterios de aplicación general conforme a los cuales se precise, para efectos de este artículo, si hay o no captación de recursos del público.
+La escritura constitutiva de las sociedades financieras de objeto limitado y cualquier modificación a la misma, deberá ser sometida a la aprobación previa de la Secretaría de Hacienda y Crédito Público. Una vez aprobada la escritura o sus reformas, deberán inscribirse en el Registro Público de Comercio.
 
 > <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1993)</small>
 
@@ -1520,7 +1544,9 @@ II. Dar en prenda los títulos o valores de su cartera, salvo que se trate de op
 
 III. Dar en garantía títulos de crédito que emitan, acepten o conserven en tesorería;
 
-IV. Operar sobre los títulos representativos de su capital, salvo lo dispuesto por el último párrafo de los artículos 19 y 38, así como el 122 de esta Ley;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1996)</small>
+
+IV. Operar sobre los títulos representativos de su capital, salvo lo dispuesto por el último párrafo de los artículos 19 y 38, y por el artículo 122 de esta Ley, así como otorgar créditos para la adquisición de tales títulos;
 
 V. Celebrar operaciones y otorgar servicios con su clientela en los que se pacten condiciones y términos que se aparten de manera significativa de las condiciones de mercado prevalecientes en el momento de su otorgamiento, de las políticas generales de la institución, y de las sanas prácticas y usos bancarios;
 
@@ -1557,6 +1583,10 @@ XVII. Otorgar créditos o préstamos con garantía de:
 a) Los pasivos a que se refieren las fracciones I, incisos b), c) y d) y II a IV del artículo 46 de esta Ley, a su cargo o de cualquier institución de crédito, y
 
 b) Derechos sobre fideicomisos, mandatos o comisiones que, a su vez, tengan por objeto los pasivos mencionados en el inciso anterior;
+
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 1996)</small>
+
+c) Acciones de entidades financieras o sociedades controladoras de grupos financieros, salvo que cuenten con la autorización previa de la Secretaría de Hacienda y Crédito Público, quien para resolver oirá la opinión del Banco de México y de la Comisión Nacional Bancaria y de Valores.
 
 XVIII. Celebrar operaciones bancarias activas o pasivas, por un plazo mayor de veinte años, sea cual fuere la forma de documentar las mismas, y
 
@@ -1864,11 +1894,11 @@ El fiduciario publicará anualmente en el mes de diciembre, en el Diario Oficial
 
 V. Las instituciones de banca múltiple estarán obligadas a proporcionar al Fondo la información que éste les solicite, para cumplir con sus fines, así como a poner en conocimiento del mismo, con toda oportunidad, cualquier problema que confronten y que, a su juicio, pueda dar lugar a apoyos del Fondo. Asimismo, las instituciones de banca múltiple estarán obligadas a recibir los apoyos que a propuesta del comité técnico la Secretaría de Hacienda y Crédito Público estime necesarios y a cumplir con los programas o medidas correctivos que el Fondo les apruebe;
 
-> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-VI. Las sociedades que, con posterioridad a la fecha de constitución del Fondo, obtengan autorización para constituirse y operar como instituciones de banca múltiple de conformidad con la presente Ley, estarán obligadas a aportar al Fondo la cantidad inicial que resulte de aplicar al importe del patrimonio neto del propio Fondo, el porcentaje que el capital neto promedio observado durante el tercer año de operación del banco de que se trate, represente del promedio del capital neto del conjunto de los bancos múltiples en el mismo año. Dicha cantidad inicial se empezará a cubrir desde que la sociedad inicie sus operaciones, en los términos que indique el comité técnico del Fondo.
+VI. Las sociedades que, con posterioridad a la fecha de constitución del Fondo, obtengan autorización para constituirse y operar como instituciones de banca múltiple de conformidad con la presente Ley, estarán obligadas a aportar al Fondo la cantidad inicial que determine la Secretaría de Hacienda y Crédito Público, a propuesta del Banco de México, mediante criterios de aplicación general que tomarán en cuenta, entre otros elementos, el monto de los pasivos y el nivel de capitalización de cada institución. Dicha cantidad inicial se empezará a cubrir desde que la sociedad inicie operaciones, en los términos que indique el comité técnico del Fondo.
 
-El importe del patrimonio neto al que se aplicará el porcentaje referido será el promedio que registre el Fondo durante los tres primeros años de operación del banco respectivo, y
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 30 DE ABRIL DE 1996)</small>
 
 VII. El Banco de México cargará, en las cuentas que lleva a las instituciones de banca múltiple, el importe de las cuotas ordinarias y extraordinarias que éstas deban cubrir conforme a lo dispuesto en el presente artículo, precisamente en las fechas en que tales pagos deban efectuarse. Las cantidades así cargadas serán abonadas simultáneamente al Fondo.
 
@@ -2192,7 +2222,7 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- Se deroga el artículo 108 segundo párrafo de la Ley de Instituciones de Crédito y las demás disposiciones que se opongan a lo dispuesto en este decreto.
 
-..
+...
 
 D.O.F. 15 DE FEBRERO DE 1995.
 
@@ -2241,5 +2271,13 @@ CUARTO.- Las reclamaciones presentadas por los usuarios del servicio de banca y 
 QUINTO.- Lo establecido en los artículos segundo y tercero transitorios del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley para Regular las Agrupaciones Financieras, Ley de Instituciones de Crédito, Ley General de Organizaciones y Actividades Auxiliares del Crédito, Ley del Mercado de Valores, Ley de Sociedades de Inversión, Ley General de Instituciones y Sociedades Mutualistas de Seguros y Ley Federal de Instituciones de Fianzas, publicado en el Diario Oficial de la Federación el 23 de diciembre de 1993, no es aplicable a las sociedades financieras de objeto limitado, arrendadoras financieras, empresas de factoraje financiero e instituciones de seguros, filiales, que resulten de las adquisiciones que sean autorizadas por la Secretaría de Hacienda y Crédito Público.
 
 SEXTO.- Las sociedades financieras de objeto limitado, organizaciones auxiliares del crédito, casas de cambio, instituciones de seguros e instituciones de fianzas, deberán efectuar, en su caso, los actos corporativos necesarios para ajustar sus estatutos a lo dispuesto por el presente Decreto, dentro de un plazo máximo de ciento veinte días contado a partir del inicio de la vigencia del mismo.
+
+...
+
+D.O.F. 30 DE ABRIL DE 1996.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ...
