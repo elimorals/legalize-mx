@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "1986-01-13"
+last_updated: "1987-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ENERO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1987.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación el miércoles 1 de abril de 1970.
 
@@ -630,6 +630,10 @@ VII. El 1°. de diciembre de cada seis años, cuando corresponda a la trasmisió
 
 VIII. El 25 de diciembre.
 
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 1987)</small>
+
+IX. El que determinen las Leyes Federales y Locales Electorales, en el caso de elecciones ordinarias, para efectuar la jornada electoral.
+
 ###### Artículo 75.
 
 En los casos del artículo anterior los trabajadores y los patrones determinarán el número de trabajadores que deban prestar sus servicios. Si no se llega a un convenio, resolverá la Junta de Conciliación Permanente o en su defecto la de Conciliación y Arbitraje.
@@ -956,7 +960,7 @@ I. Una comisión integrada por igual número de representantes de los trabajador
 
 II. Si los representantes de los trabajadores y del patrón no se ponen de acuerdo, decidirá el Inspector del Trabajo;
 
-III. Los trabajadores podrán hacer las observaciones que juzguen conveniente (sic), dentro de un término de quince días; y
+III. Los trabajadores podrán hacer las observaciones que juzguen conveniente, dentro de un término de quince días; y
 
 IV. Si se formulan objeciones, serán resueltas por la misma comisión a que se refiere la fracción I, dentro de un término de quince días.
 
@@ -1292,7 +1296,7 @@ El Ejecutivo Federal podrá establecer modalidades para facilitar la aportación
 
 El organismo que se cree para administrar los recursos del Fondo Nacional de la Vivienda, determinará las sumas que se asignarán al financiamiento de programas de casas habitación destinadas a ser adquiridas en propiedad por los trabajadores y los que se aplicarán para la adquisición, construcción, reparación o mejoras de dichas casas, así como para el pago de pasivos adquiridos por estos conceptos.
 
-Al efectuar la aplicación de recursos, se distribuirán equitativamente entre la distintas regiones y localidades del país, así como entre las diversas empresas o grupos de trabajadores.
+Al efectuar la aplicación de recursos, se distribuirán equitativamente entre las distintas regiones y localidades del país, así como entre las diversas empresas o grupos de trabajadores.
 
 Para el otorgamiento individual de los créditos se procederá en caso necesario conforme a un sistema de sorteos, en los términos que establezca la ley a que se refiere el artículo 139.
 
@@ -3026,7 +3030,7 @@ Dentro del tiempo que el Médico Residente debe permanecer en la Unidad Médica 
 
 ###### Artículo 353-F.
 
-La relación de trabajo será por tiempo determinado, no menor de un año ni mayor del período de duración de la residencia necesaria para obtener el Certificado de Especialización correspondiente, tomándose en cuenta a este último respecto las causas de rescisión señaladas en el artículo 353.-G.
+La relación de trabajo será por tiempo determinado, no menor de un año ni mayor del período de duración de la residencia necesaria para obtener el Certificado de Especialización correspondiente, tomándose en cuenta a este último respecto las causas de rescisión señaladas en el artículo 353-G.
 
 En relación con este Capítulo, no regirá lo dispuesto por el artículo 39 de esta ley.
 
@@ -3036,7 +3040,7 @@ En relación con este Capítulo, no regirá lo dispuesto por el artículo 39 de 
 
 Son causas especiales de rescisión de la relación de trabajo, sin responsabilidad para el patrón, además de la que establece el artículo 47, las siguientes:
 
-I.- El incumplimiento de las obligaciones a que aluden las fracciones I, II, III y VI del artículo 353.D;
+I.- El incumplimiento de las obligaciones a que aluden las fracciones I, II, III y VI del artículo 353-D;
 
 II.- La violación de las normas técnicas o administrativas necesarias para el funcionamiento de la Unidad Médica Receptora de Residentes en la que se efectúe la residencia;
 
@@ -3174,7 +3178,7 @@ Los trabajadores y los patrones tienen el derecho de constituir sindicatos, sin 
 
 ###### Artículo 358.
 
-A nadie se puede obligar a formar parte de un sindicato o a no formar parte de él.
+A nadie se puede obligar a formar parte de un sindicado o a no formar parte de él.
 
 Cualquier estipulación que establezca multa convencional en caso de separación del sindicato o que desvirtúe de algún modo la disposición contenida en el párrafo anterior, se tendrá por no puesta.
 
@@ -3436,7 +3440,7 @@ Si el patrón se niega a firmar el contrato, podrán los trabajadores ejercitar 
 
 Si dentro de la misma empresa existen varios sindicatos, se observarán las normas siguientes:
 
-l. Si concurren sindicatos de empresa o industriales o unos y otros, el contrato colectivo se celebrará con el que tenga mayor número de trabajadores dentro de la empresa;
+I. Si concurren sindicatos de empresa o industriales o unos y otros, el contrato colectivo se celebrará con el que tenga mayor número de trabajadores dentro de la empresa;
 
 II. Si concurren sindicatos gremiales, el contrato colectivo se celebrará con el conjunto de los sindicatos mayoritarios que representen a las profesiones, siempre que se pongan de acuerdo. En caso contrario, cada sindicato celebrará un contrato colectivo para su profesión; y
 
@@ -4312,7 +4316,7 @@ El trabajador que rehuse con justa causa recibir la atención médica y quirúrg
 
 La causa de la muerte por riesgo de trabajo podrá comprobarse con los datos que resulten de la autopsia, cuando se practique, o por cualquier otro medio que permita determinarla.
 
-Si se practica la autopsia, los presuntos beneficiarios podrán designar un médico que la presencie. Podrán igualmente designar un médico que la practique, dando aviso a la autoridad.
+Si se práctica la autopsia, los presuntos beneficiarios podrán designar un médico que la presencie. Podrán igualmente designar un médico que la practique, dando aviso a la autoridad.
 
 El patrón podrá designar un médico que presencie la autopsia.
 
@@ -4592,19 +4596,19 @@ En los casos no previstos por los artículos 527 y 528, la aplicación de las no
 
 De conformidad con lo dispuesto por el artículo 527-A, las autoridades de las Entidades Federativas deberán:
 
-I.- Poner a disposición de las Dependencias del Ejecutivo Federal competentes para aplicar esta Ley, la información que éstas les soliciten para estar en aptitud de cumplir sus funciones;
+I. Poner a disposición de las Dependencias del Ejecutivo Federal competentes para aplicar esta Ley, la información que éstas les soliciten para estar en aptitud de cumplir sus funciones;
 
-II.- Participar en la integración y funcionamiento del respectivo Consejo Consultivo Estatal de Capacitación y Adiestramiento;
+II. Participar en la integración y funcionamiento del respectivo Consejo Consultivo Estatal de Capacitación y Adiestramiento;
 
-III.- Participar en la integración y funcionamiento de la correspondiente Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo;
+III. Participar en la integración y funcionamiento de la correspondiente Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo;
 
-IV.- Reportar a la Secretaría del Trabajo y Previsión Social las violaciones que cometan los patrones en materia de seguridad e higiene y de capacitación y adiestramiento e intervenir en la ejecución de las medidas que se adopten para sancionar tales violaciones y para corregir las irregularidades en las empresas o establecimientos sujetos a jurisdicción local;
+IV. Reportar a la Secretaría del Trabajo y Previsión Social las violaciones que cometan los patrones en materia de seguridad e higiene y de capacitación y adiestramiento e intervenir en la ejecución de las medidas que se adopten para sancionar tales violaciones y para corregir las irregularidades en las empresas o establecimientos sujetos a jurisdicción local;
 
-V.- Coadyuvar con los correspondientes Comités Nacionales de Capacitación y Adiestramiento;
+V. Coadyuvar con los correspondientes Comités Nacionales de Capacitación y Adiestramiento;
 
-VI.- Auxiliar en la realización de los trámites relativos a constancias de habilidades laborales; y,
+VI. Auxiliar en la realización de los trámites relativos a constancias de habilidades laborales; y,
 
-VII.- Previa determinación general o solicitud específica de las autoridades federales, adoptar aquellas otras medidas que resulten necesarias para auxiliarlas en los aspectos concernientes a tal determinación o solicitud.
+VII. Previa determinación general o solicitud específica de las autoridades federales, adoptar aquellas otras medidas que resulten necesarias para auxiliarlas en los aspectos concernientes a tal determinación o solicitud.
 
 ### CAPITULO VI. Comisión Nacional de los Salarios Mínimos
 
@@ -4662,13 +4666,13 @@ Los reglamentos determinarán las atribuciones, la forma de su ejercicio y los d
 
 El Servicio Nacional del Empleo, Capacitación y Adiestramiento tendrá los siguientes objetivos:
 
-I.- Estudiar y promover la generación de empleos;
+I. Estudiar y promover la generación de empleos;
 
-II.- Promover y supervisar la colocación de los trabajadores;
+II. Promover y supervisar la colocación de los trabajadores;
 
-III.- Organizar, promover y supervisar la capacitación y el adiestramiento de los trabajadores; y,
+III. Organizar, promover y supervisar la capacitación y el adiestramiento de los trabajadores; y,
 
-IV.- Registrar las constancias de habilidades laborales.
+IV. Registrar las constancias de habilidades laborales.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -4684,7 +4688,7 @@ De conformidad con lo que dispone el artículo que antecede y para los efectos d
 
 > <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1978)</small>
 
-I.- En materia de promoción de empleos:
+I. En materia de promoción de empleos:
 
 a) Practicar estudios para determinar las causas del desempleo y del subempleo de la mano de obra rural y urbana;
 
@@ -4704,7 +4708,7 @@ h) En general, realizar todas aquéllas que las leyes y reglamentos encomienden 
 
 > <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1978)</small>
 
-II.- En materia de colocación de trabajadores:
+II. En materia de colocación de trabajadores:
 
 a) Encauzar a los demandantes de trabajo hacia aquellas personas que requieran sus servicios, dirigiendo a los solicitantes más adecuados, por su preparación y aptitudes, hacia los empleos que les resulten más idóneos;
 
@@ -4720,7 +4724,7 @@ f) En general, realizar todas aquéllas que las leyes y reglamentos encomienden 
 
 > <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1978)</small>
 
-III.- En materia de capacitación o adiestramiento de trabajadores:
+III. En materia de capacitación o adiestramiento de trabajadores:
 
 a) Cuidar de la oportuna constitución y el funcionamiento de las Comisiones Mixtas de Capacitación y Adiestramiento;
 
@@ -4742,7 +4746,7 @@ i) En general, realizar todas aquéllas que las leyes y reglamentos encomienden 
 
 > <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1978)</small>
 
-IV.- En materia de registro de constancias de habilidades laborales:
+IV. En materia de registro de constancias de habilidades laborales:
 
 a) Establecer registros de constancias relativas a trabajadores capacitados o adiestrados, dentro de cada una de las ramas industriales o actividades; y,
 
@@ -5484,7 +5488,7 @@ V. Cumplimentar los exhortos y practicar las diligencias que les encomienden otr
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 24 DE DICIEMBRE DE 1974)</small>
 
-VI.- Denunciar ante el Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que haya dejado de pagar el salario mínimo general a uno o varios de sus trabajadores; y (sic)
+VI. Denunciar ante el Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que haya dejado de pagar el salario mínimo general a uno o varios de sus trabajadores; y (sic)
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 2 DE JULIO DE 1976)</small>
 
@@ -5906,7 +5910,7 @@ III. No informar oportunamente al Presidente de la Junta de la conducta irregula
 
 > <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 1974)</small>
 
-IV.- No denunciar al Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que hubiera sido condenado por laudo definitivo al pago del salario mínimo general o las diferencias que aquél hubiera dejado de cubrir, a uno o varios de sus trabajadores.
+IV. No denunciar al Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que hubiera sido condenado por laudo definitivo al pago del salario mínimo general o las diferencias que aquél hubiera dejado de cubrir, a uno o varios de sus trabajadores.
 
 V. Las demás que establezcan las leyes.
 
@@ -7972,7 +7976,7 @@ II. Las autoridades citadas harán las designaciones de los representantes obrer
 
 Las disposiciones de este Capítulo rigen la tramitación y resolución de los conflictos individuales y colectivos de naturaleza jurídica que no tengan una tramitación especial en esta Ley.
 
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 871.
 
@@ -8664,7 +8668,7 @@ TITULO QUINCE
 
 Procedimientos de Ejecución
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
 #### Sección Segunda. De la preferencia de créditos
 
@@ -9088,7 +9092,7 @@ Cuando en los juicios seguidos ante la Junta se haya dictado laudo por cantidad 
 
 Si el patrón antes del remate hubiese hecho pago para librar sus bienes, deberá cubrirse con éste el importe de los créditos laborales en que se hubiese hecho la prevención.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADA Y REUBICADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 982.
 
@@ -9563,3 +9567,9 @@ D.O.F. 13 DE ENERO DE 1986.
 PRIMERO.- Las solicitudes de entrega de depósitos y de liberación de adeudos presentadas con anterioridad a estas reformas y las que se presenten posteriormente, pero cuyos hechos generadores del derecho hayan surgido antes de su vigencia, serán resueltas conforme a dichas reformas.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de la fecha de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE DICIEMBRE DE 1987.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
