@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1943-10-09"
+last_updated: "1943-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 1943.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -437,9 +437,7 @@ IX.- Inspeccionar la Contaduría Mayor de Hacienda.
 
 X.- Nombrar y remover libremente al Contador Mayor, a los empleados de la Secretaría del Congreso, y a los de la Contaduría Mayor.
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 1923)</small>
-
-XI.- Nombrar a propuesta en terna del Ejecutivo al Tesorero General del Estado.
+XI.- (DEROGADA, P.O. 20 DE NOVIEMBRE DE 1943)
 
 XII.- Decretar la manera de cubrir el contingente que para el Ejército de la Nación debe dar el Estado conforme a las leyes federales.
 
@@ -469,9 +467,9 @@ XXIII.- Convocar a elecciones de Gobernador cuando ocurra falta absoluta en los 
 
 XXIV.- Elegir Gobernador interino en los casos de falta absoluta, si ésta ocurriese dentro de los últimos años, y en el caso de la fracción anterior mientras se convoca a elecciones.
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1930)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1943)</small>
 
-XXV.- Elegir Gobernador Interino en los casos de falta temporal del Gobernador Constitucional si ésta es mayor de quince días, que en ningún caso excederá de seis meses, teniéndose por absoluta cuando pase de este tiempo. En caso de falta temporal del Gobernador Constitucional, que no exceda de quince días, se hará cargo del Despacho del Poder Ejecutivo el Secretario General de Gobierno.
+XXV.- Elegir Gobernador Interino en los casos de falta temporal del Gobernador Constitucional, si ésta es mayor de sesenta días, y no exceda de seis meses. La falta será absoluta cuando se pase de este tiempo. En caso de falta temporal del Gobernador Constitucional, que no exceda de sesenta días, se hará cargo del Despacho del Poder Ejecutivo el Secretario General de Gobierno.
 
 XXVI.- Conocer de las acusaciones que se hagan a los funcionarios públicos de que habla esta Constitución, por delitos oficiales, formulando, en su caso, acusación contra ellos ante el Supremo Tribunal de Justicia, y erigirse en Gran Jurado para declarar si hay o no lugar a proceder en contra de los que gozan de fuero Constitucional, cuando sean acusados por delitos del orden común.
 
@@ -565,7 +563,7 @@ Se deposita el Poder Ejecutivo del Estado, en un ciudadano que se que se denomin
 
 La elección de Gobernador será directa, en los términos que disponga la ley respectiva.
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 1938)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE NOVIEMBRE DE 1943)</small>
 
 ### CAPITULO V.
 
@@ -575,9 +573,13 @@ COMISION PERMANENTE Y SUS ATRIBUCIONES.
 
 ###### Art. 72.
 
-El Gobernador Constitucional entrará en funciones el día primero de enero; durará en su encargo cuatro años y en ningún caso y por ningún motivo volverá a ocupar ese cargo.
+El Gobernador Constitucional entrará en funciones el día primero de enero; durará en su encargo seis años y en ningún caso y por ningún motivo volverá a ocupar ese cargo.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1938)</small>
 
 Nunca podrán ser electos para el período inmediato:
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1938)</small>
 
 El Gobernador Substituto Constitucional, el Substituto o el designado para concluir le (sic) periodo en caso de falta absoluta del Constitucional, aún cuando tenga distinta denominación. El Gobernador Interino, el Provisional o el Ciudadano que bajo cualquier denominación supla las faltas temporales del Gobernador siempre que desempeñe el cargo los dos últimos años del periodo.
 
@@ -625,15 +627,15 @@ Tampoco podrá ser electo para el período inmediato el ciudadano que fue Gobern
 
 Si al comenzar un período constitucional no se presentare el Gobernador electo, o la elección no estuviere hecha, o en caso de haberse verificado no se hubiere declarado su legalidad, cesará sin embargo el Gobernador que haya terminado el período, procediéndose entonces por la Cámara en los términos de las fracciones XXIII, XXIV y XXV del artículo 64.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1930)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1943)</small>
 
 ###### Art. 79.
 
-El Gobernador no podrá ausentarse del territorio del Estado por más de quince días sin permiso de la Legislatura.
+El Gobernador no podrá ausentarse del territorio del Estado ni separarse del ejercicio de sus funciones, por más de sesenta días sin permiso de la Legislatura. Cuando saliere fuera (sic) de la Capital del Estado, deberá dar aviso al Congreso.
 
 ###### Art. 80.
 
-El Gobernador no podrá separarse de la Capital del Estado sin dar previo aviso a la Legislatura.
+(DEROGADO, P.O. 20 DE NOVIEMBRE DE 1943)
 
 ###### Art. 81.
 
@@ -655,9 +657,9 @@ II.- Sancionar, promulgar y ejecutar las leyes y decretos dados por el Poder Leg
 
 III.- Nombrar y remover libremente al Secretario General de Gobierno.
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 1923)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1943)</small>
 
-IV.- Proponer en terna al Congreso del Estado, el nombramiento de Tesorero General, pudiendo removerlo libremente y concederle licencia indifinida (sic) o por tiempo determinado.
+IV.- Nombrar y remover libremente al Tesorero General del Estado.
 
 V.- Nombrar y remover libremente al Procurador de Justicia, al Subsecretario de Gobierno y a todos los demás empleados y funcionarios del Estado, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las leyes.
 
@@ -713,9 +715,9 @@ El gobernador puede tener una guardia civil hasta de treinta y tres hombres, sie
 
 No puede el Gobernador:
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1930)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1943)</small>
 
-I.- Renunciar su cargo, ni ausentarse del territorio del Estado por más de quince días ni separarse del ejercicio de sus funciones, sin causa grave calificada por el Congreso.
+I.- Renunciar el cargo sin causa grave calificada por el Congreso.
 
 II.- Sancionar leyes, expedir decretos, dar órdenes generales o de pago sin que sean autorizados por el Secretario General de Gobierno.
 
@@ -1344,3 +1346,7 @@ UNICO.- Esta Ley comenzará a surtir sus efectos desde la fecha de su publicaci�
 P.O. 9 DE OCTUBRE DE 1943.
 
 UNICO.- Este Decreto surte sus efectos legales desde la fecha de su publicación.
+
+P.O. 20 DE NOVIEMBRE DE 1943.
+
+UNICO.- Este Decreto comienza a surtir sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
