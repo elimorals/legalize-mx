@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-15241
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-03-31"
-last_updated: "1997-03-31"
+last_updated: "2001-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15241&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 31 de marzo de 1997.
 
@@ -189,11 +189,15 @@ II. Aprobar las leyes que regulen su organización y funcionamiento internos;
 
 III. Dictar todas las leyes que sean necesarias para hacer efectivas las atribuciones que la Constitución otorga a los Poderes del Estado;
 
-IV. Fijar las contribuciones que deban recibir los municipios; establecer anualmente las bases, montos y plazos para la entrega de las participaciones federales que les correspondan y aprobar sus leyes de ingresos, cuotas y tarifas de los servicios públicos, conforme lo establezcan las leyes respectivas y revisar sus cuentas públicas;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+IV. Fijar las contribuciones que deban recibir los municipios; establecer anualmente las bases, montos y plazos para la entrega de las participaciones federales que les correspondan, aprobar sus leyes de ingresos, cuotas y tarifas de los servicios públicos, conforme lo establezcan las leyes respectivas;
 
 V. Iniciar, ante el Congreso de la Unión, las leyes y decretos que sean de la competencia de éste, así como la reforma, abrogación y derogación de una y de otros;
 
-VI. Revisar y examinar, por conducto de la Contaduría Mayor de Hacienda y, en su caso, aprobar las cuentas y actos relativos a la aplicación de fondos públicos del Estado, de los municipios y sus entidades;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+VI. Revisar, examinar y fiscalizar, por conducto de la Contaduría Mayor de Hacienda y, en su caso, aprobar las cuentas y actos relativos a la aplicación de fondos públicos del Estado, de los municipios y sus entidades;
 
 VII. Legislar, dentro del ámbito de su competencia, en materia de asentamientos humanos y desarrollo urbano, así como de uso y aprovechamiento de aguas de jurisdicción estatal;
 
@@ -313,9 +317,29 @@ III. Establecer los límites de los municipios del Estado y resolver las diferen
 
 IV. Designar Consejos Municipales en los casos y bajo las condiciones que las leyes respectivas establezcan;
 
-V. Autorizar la enajenación de los bienes municipales y también su gravamen, cuando éste exceda el término de la administración de un Ayuntamiento; y
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-VI. Autorizar las concesiones que otorguen los ayuntamientos, cuando su vigencia exceda el término de su administración.
+V. Autorizar, previa solicitud aprobada por cuando menos las dos terceras partes de los miembros del Cabildo que corresponda, el gravamen de los bienes municipales, cuando éste exceda el término de la administración de un ayuntamiento;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+VI. Autorizar las concesiones que otorguen los ayuntamientos cuando su vigencia exceda los términos de su administración, previa solicitud del Cabildo aprobada por el voto de cuando menos las dos terceras partes de los integrantes del mismo;
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
+
+VII. Autorizar, previa solicitud aprobada por el voto de cuando menos las dos terceras partes de los miembros del Ayuntamiento respectivo, las permutas y enajenaciones que los municipios pretendan efectuar, así como la incorporación o desafectación de bienes del dominio público municipal;
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
+
+VIII. Autorizar, previo el cumplimiento de los requisitos de ley, y a solicitud del Ayuntamiento respectivo aprobada por el voto de cuando menos las dos terceras partes de los miembros del mismo, los empréstitos y en general las deudas que contraigan los municipios cuando excedan el término de la administración de que se trate;
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
+
+IX. Resolver conforme al procedimiento que establece la Ley Orgánica del Municipio Libre, las controversias que se susciten entre uno o más municipios, entre éstos y el poder Ejecutivo o el Poder Judicial del Estado, excepto cuando las diferencias tengan un carácter contencioso; y
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
+
+X. Aprobar conforme lo establece la Constitución Política del Estado y en los términos que señala la Ley Orgánica del Municipio Libre, los contratos y convenios que celebren los ayuntamientos en relación con la prestación de servicios públicos, administración de la hacienda municipal, y los que se refieren en el segundo párrafo de la fracción VII del artículo 116 de la Constitución General de la República, así como la asociación que para tales efectos pretendan efectuar con municipios de otras Entidades Federativas. Asimismo, de conformidad con el ordenamiento citado, determinar los casos y los términos en que los servicios públicos deberán ser asumidos por el Ejecutivo del Estado.
 
 ### CAPITULO II. Del Funcionamiento Interno del Congreso del Estado
 
@@ -850,3 +874,11 @@ LIC. HORACIO SANCHEZ UNZUETA.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 DR. JESUS EDUARDO NOYOLA BERNAL.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE MARZO DE 2001.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
