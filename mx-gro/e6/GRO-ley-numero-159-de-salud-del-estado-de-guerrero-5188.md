@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-159-de-salud-del-estado-de-guerrero-5188"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-25"
-last_updated: "1997-01-21"
+last_updated: "1999-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUM. 159, DE SALUD DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 25 de abril de 1995.
 
@@ -121,227 +121,193 @@ Son autoridades sanitarias estatales:
 
 I.- El Gobernador del Estado;
 
-II.- Los Servicios Estatales de Salud, y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 1999)</small>
 
-III.- Los Ayuntamientos en el ámbito de su respectiva competencia, en los términos de los acuerdos que celebren con el Gobierno del Estado de conformidad con esta Ley y demás disposiciones generales aplicables.
+II.- El Secretario de Salud, quien podrá delegar facultades en servidores públicos subalternos mediante acuerdos que deberán ser publicados en el Periódico Oficial del Gobierno del Estado.
 
-## TITULO SEGUNDO. DEL ORGANISMO ENCARGADO DE ADMINISTRAR LOS SERVICIOS DE SALUD
+III.- (DEROGADA, P.O. 15 DE OCTUBRE DE 1999)
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE OCTUBRE DE 1999)</small>
+
+## TITULO SEGUNDO. DE LA ESTRUCTURA ADMINISTRATIVA DE LOS SERVICIOS DE SALUD
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 4°.
 
-La estructura administrativa a que se refieren los Artículos 19 y 20 de la Ley General de Salud, se denomina Servicios Estatales de Salud, que es un organismo público descentralizado con personalidad jurídica, patrimonio propio y con funciones de autoridad en los términos de la Ley, que tiene como objetivos la prestación de los servicios de salud en la Entidad, tanto en materia de salud pública como de atención médica; la promoción de la interrelación sistemática de acciones que en la materia lleven a cabo la Federación y el Estado, ejercer el control sanitario en su ámbito de competencia, así como la realización de las demás acciones que establezcan las disposiciones legales aplicables.
+La estructura administrativa a que se refiere el artículo 19 de la Ley General de Salud, será la Secretaría de Salud Estatal, que es una dependencia auxiliar del Titular del Poder Ejecutivo del Estado, y tiene como objetivos la prestación de los servicios de salud en la entidad, tanto en materia de salud pública como de atención médica; la promoción de la interrelación sistemática de acciones que en la materia lleven a cabo la Federación y el Estado, ejercer el control sanitario en su ámbito de competencia, así como la realización de las demás acciones que establezcan las disposiciones legales aplicables.
 
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 4° Bis.
 
-El Organismo para el logro de su objeto, tendrá las siguientes atribuciones:
+La Secretaría de Salud, para el logro de su objeto, tendrá las siguientes atribuciones:
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1997)</small>
 
 I.- Organizar y operar en el Estado de Guerrero, los servicios de salud a población abierta en materia de salubridad general y de regulación y control sanitario conforme a lo que establece el Acuerdo de Coordinación;
 
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1997)</small>
+
 II.- Organizar el Sistema Estatal de Salud, en términos de la Ley General de Salud y la Ley de Salud del Estado de Guerrero;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1997)</small>
 
 III.- Realizar todas aquellas acciones tendientes a garantizar el derecho a la protección de la salud de los habitantes del Estado;
 
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1997)</small>
+
 IV.- Ejercer las funciones de autoridad sanitaria en el Estado, en los términos de este ordenamiento y la Ley General de Salud;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1997)</small>
 
 V.- Llevar a cabo el control sanitario en los términos de la Ley General de Salud, en esta Ley y de los Acuerdos de Coordinación;
 
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1997)</small>
+
 VI.- Impulsar la permanente actualización de las disposiciones legales en materia de salud;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1997)</small>
 
 VII.- Conocer y aplicar la normatividad general en materia de salud, tanto nacional como internacional, a fin de proponer adecuaciones a las normas estatales y establecer esquemas que logren su correcto cumplimiento;
 
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1997)</small>
+
 VIII.- Coordinar los programas de servicios de Salud de las dependencias y entidades de la Administración Pública Estatal, realizando todas aquellas acciones necesarias para mejorar la calidad en su prestación;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1997)</small>
 
 IX.- Apoyar en la Entidad la coordinación de los programas y servicios de salud de toda dependencia o entidad pública en los términos de la legislación aplicable y de los acuerdos de coordinación que en su caso se celebre;
 
 En el caso de programas y servicios de las instituciones federales de seguridad social, el mencionado apoyo se realizará tomando en cuenta lo que previenen las leyes que rigen el funcionamiento de dichas instituciones;
 
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1997)</small>
+
 X.- Promover la ampliación de la cobertura de la prestación de los servicios, apoyando los programas que para tal efecto elabore la Secretaría de Salud del Gobierno Federal;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1997)</small>
 
 XI.- Impulsar, en los términos de los convenios que al efecto se suscriban, la desconcentración y descentralización a los municipios de los servicios de salud;
 
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1997)</small>
+
 XII.- Coordinar el proceso de programación de las actividades de salud en el Estado, con sujeción a las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1997)</small>
 
 XIII.- Promover, coordinar y realizar la evaluación de los programas y servicios de salud, que le sea solicitada por el Ejecutivo Estatal;
 
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1997)</small>
+
 XIV.- Administrar los recursos que le sean asignados, las cuotas de recuperación, así como las aportaciones que reciba de otras personas o instituciones;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1997)</small>
 
 XV.- Formular recomendaciones a las dependencias competentes sobre la asignación de los recursos que requieren los programas de salud del Estado;
 
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1997)</small>
+
 XVI.- Promover el establecimiento de un sistema estatal de información básica en materia de salud, que facilite a las autoridades e instituciones competentes la investigación, estudio y análisis de temas y aspectos específicos;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1997)</small>
 
 XVII.- Determinar la periodicidad y características de la información que deberán proporcionar las dependencias y entidades de salud del Estado, con sujeción a las disposiciones generales aplicables;
 
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1997)</small>
+
 XVIII.- Apoyar la coordinación entre las instituciones de salud y educativas del Estado, para formar y capacitar profesionistas, especialistas y técnicos en materia de salud;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1997)</small>
 
 XIX.- Coadyuvar a que la formación y distribución de los recursos humanos para la salud sea congruente con las prioridades del Sistema Estatal de Salud;
 
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1997)</small>
+
 XX.- Impulsar, en el ámbito estatal, las actividades científicas y tecnológicas en el campo de la salud;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1997)</small>
 
 XXI.- Coadyuvar con las dependencias federales competentes en la regulación y control de la transferencia de tecnología en el área de la salud;
 
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1997)</small>
+
 XXII.- Difundir a las autoridades correspondientes y a la población en general, a través de publicaciones y actos académicos, los resultados de los trabajos de investigación, estudio, análisis y de recopilación de información, documentación e intercambio que realice;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1997)</small>
 
 XXIII.- Promover e impulsar la participación de la comunidad del Estado en el cuidado de su salud; y
 
-XXIV.- Las demás atribuciones que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1997)</small>
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 1997)</small>
+XXIV.- Las demás atribuciones que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
 ###### ARTICULO 5°.
 
-El patrimonio del Organismo estará constituido por:
+(DEROGADO, P.O. 15 DE OCTUBRE DE 1999)
 
-I.- Los derechos que tenga sobre los bienes muebles e inmuebles y recursos que le transfieran los gobiernos Federal, Estatal y Municipales;
-
-II.- Las aportaciones que los gobiernos Federal, Estatal y Municipales le otorguen;
-
-III.- Las aportaciones, donaciones, legados y demás análogas que reciba de los sectores social y privado;
-
-IV.- Las cuotas de recuperación que reciba por los servicios que presten;
-
-V.- Los rendimientos, recuperaciones y demás ingresos que obtenga de la inversión de los recursos a que se refieren las fracciones anteriores;
-
-VI.- Las concesiones, permisos, licencias y autorizaciones que se le otorguen conforme a la ley, y
-
-VII.- En general, todos los bienes, derechos y obligaciones que entrañen utilidad económica o sean susceptibles de estimación pecuniaria y que se obtengan por cualquier título legal.
-
-El Organismo administrará su patrimonio con sujeción a las disposiciones legales aplicables y lo destinará al cumplimiento de su objeto, de conformidad con lo establecido en el Acuerdo de Coordinación.
-
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 6°.
 
-El Organismo aplicará y respetará las Condiciones Generales de Trabajo de la Secretaría de Salud y sus reformas futuras, así como los reglamentos de Escalafón y Capacitación, que permita la promoción del personal a cargos directivos en función de criterios de profesionalismo y capacidad demostrada; para controlar y estimular al personal de base de la Secretaría de Salud por su asistencia, puntualidad y permanencia en el trabajo; para evaluar y estimular al personal de la Secretaría de Salud por su productividad en el trabajo, y el de Becas, así como el Reglamento y Manual de Seguridad e Higiene, elaborados conforme a la normatividad Federal aplicable en sus relaciones laborales con los trabajadores provenientes de la Secretaría de Salud, para que procedan a su registro ante los organismos jurisdiccionales correspondientes. Lo anterior, con el propósito de que se apliquen en las controversias que se diriman por la autoridad jurisdiccional.
+La Secretaría de Salud, aplicará y respetará las condiciones generales de trabajo de la Secretaría de Salud del Gobierno Federal y sus reformas futuras, así como los Reglamentos de Escalafón y Capacitación, que permita la promoción del personal a cargos directivos en función de criterios de profesionalismo y capacidad demostrada; para controlar y estimular al personal de base de la Secretaría de Salud por su asistencia, puntualidad y permanencia en el trabajo; para evaluar y estimular al personal de la Secretaría de la Salud por su productividad en el trabajo, y el de becas, así como el Reglamento y Manual de Seguridad e Higiene, elaborados conforme a la normatividad Federal aplicable en sus relaciones laborales con los trabajadores provenientes de la Secretaría de Salud, para que procedan a su registro ante los organismos jurisdiccionales correspondientes. Lo anterior, con el propósito de que se apliquen en las controversias que se diriman por la autoridad jurisdiccional.
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 7°.
 
-El Organismo contará con los siguientes órganos de dirección y administración:
+La Secretaría de Salud, contará con la siguiente estructura para su Dirección y Administración:
 
-I.- Consejo de Administración.
+I.- Secretario de Salud;
 
-II.- Dirección General.
+II.- Subsecretario de Coordinación Sectorial;
 
-La vigilancia de la operación del Organismo quedará a cargo de un Comisario.
+III.- Subsecretario de Prevención y Control de Enfermedades;
+
+IV.- Subsecretario de Regulación, Control y Fomento Sanitario;
+
+V.- Subsecretario de Administración y Finanzas; y,
+
+VI.- Directores Generales.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 8°.
 
-El Director General y el Comisario serán nombrados y removidos por el Gobernador del Estado, los cuales deberán reunir los siguientes requisitos:
+El Secretario de Salud y los Subsecretarios serán nombrados y removidos por el Gobernador del Estado; en el caso del Secretario deberá reunir los siguientes requisitos:
 
-I.- El Director General será ciudadano mexicano por nacimiento, mayor de 30 años de edad, Médico Titulado y con experiencia en materia de salud pública, y
+I.- Ser ciudadano mexicano en pleno goce de sus derechos políticos y mayor de 21 años de edad;
 
-II.- El Comisario será ciudadano mexicano por nacimiento y profesionista en las áreas contables y administrativas.
+II.- Ser Médico Titulado y con experiencia en materia de salud pública; y,
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 1997)</small>
+III.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión o si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena forma en concepto público.
 
 ###### ARTICULO 9°.
 
-El Consejo de Administración será presidido por el C. Gobernador del Estado y se integrará por los titulares de las dependencias centralizadas competentes en materia de política interior, planeación, finanzas, administración, desarrollo social, desarrollo urbano, y de relaciones con los municipios; por un representante de la Secretaría de Salud del Gobierno Federal; un representante de los trabajadores, que será designado por el Comité Ejecutivo Nacional del Sindicato Nacional de Trabajadores de la Secretaría de Salud.
-
-El Gobernador podrá designar hasta a tres miembros adicionales que representen a los grupos sociales usuarios de los servicios que presta esta entidad.
-
-El Director General participará en la sesiones del Consejo de Administración con voz, pero sin voto.
-
-Los cargos en el Consejo de Administración serán honoríficos y por su desempeño no se percibirá retribución, emolumento o compensación alguna.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 1997)</small>
+(DEROGADO, P.O. 15 DE OCTUBRE DE 1999)
 
 ###### ARTICULO 9-A.
 
-El Consejo de Administración tendrá las siguientes facultades:
-
-I.- Definir, en congruencia con los planes y programas nacionales y estatales, las políticas en materia de salud a seguir por el organismo;
-
-II.- Aprobar los proyectos de programas del organismo y presentarlos a consideración del Ejecutivo Estatal, para su trámite ante los gobiernos Estatal y Federal;
-
-III.- Conocer de la debida aplicación de los recursos asignados al Organismo;
-
-IV.- Aprobar el Reglamento Interior, la organización general del Organismo y los manuales de procedimientos y de servicios al público;
-
-V.- Aprobar la creación de las nuevas unidades de investigación, capacitación y servicio;
-
-VI.- Autorizar al Director General del Organismo para efecto de que realice actos de dominio, suscripción de crédito, transacciones no judiciales y los demás que comprometan al patrimonio del Organismo;
-
-VII.- Aprobar los planes de labores, presupuestos, informes de actividades y estados financieros anuales;
-
-VIII.- Designar y remover, a propuesta del Director General del Organismo, a los funcionarios de mandos superiores;
-
-IX.- Conocer los informes, dictámenes y recomendaciones del Comisario y del Auditor Externo;
-
-X.- Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades;
-
-XI.- Estudiar y aprobar los proyectos de inversión;
-
-XII.- Conocer y aprobar los convenios de coordinación que hayan de celebrarse con dependencias y entidades públicas;
-
-XIII.- Determinar la integración de comités técnicos y grupos de trabajo temporales;
-
-XIV.- Integrar comités técnicos para el estudio y propuesta de mecanismos que aseguren la coordinación interinstitucional en la prestación de los servicios de salud;
-
-XV.- Aprobar los programas de mediano plazo a que quedarán sujetos los servicios de salud;
-
-XVI.- Aprobar de acuerdo con las leyes aplicables, las políticas, bases y programas generales que regulen los convenios, contratos y acuerdos que deba celebrar el organismo con terceros; y
-
-XVII.- Las demás que sean necesarias para el ejercicio de las facultades anteriores.
-
-El Consejo de Administración celebrará sesiones ordinarias mensuales y las extraordinarias que requieran, de conformidad con el Reglamento respectivo.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 1997)</small>
+(DEROGADO, P.O. 15 DE OCTUBRE DE 1999)
 
 ###### ARTICULO 9-B.
 
-El Director General, será designado y removido por el C. Gobernador del Estado y tendrá las siguientes facultades:
-
-I. Ejecutar los acuerdos y disposiciones del Consejo de Administración;
-
-II.- Validar con su firma los actos de autoridad que el Organismo ordene, pudiendo delegarse esta facultad, por acuerdo del Consejo de Administración;
-
-III.- Presentar al Consejo de Administración, informes y estados financieros bimestrales, acompañados de los comentarios que estime pertinente a los reportes, informes y recomendaciones que al efecto formule el Comisario y el Auditor Externo;
-
-IV.- Presentar al conocimiento y aprobación del Consejo de Administración, los planes de labores, presupuestos, informes de actividades y estados financieros anuales del Organismo;
-
-V.- Proponer al Consejo de Administración la designación y remoción de los funcionarios de mandos superiores, así como designar y remover libremente a los demás servidores públicos del Organismo;
-
-VI.- Expedir y autorizar los nombramientos del personal y llevar las relaciones laborales de acuerdo con las disposiciones legales;
-
-VII.- Dirigir el funcionamiento del Organismo con sujeción a las instrucciones del Consejo de Administración;
-
-VIII.- Celebrar los convenios, contratos y actos jurídicos que sean indispensables para el cumplimiento de los objetivos del Organismo;
-
-IX.- Actuar en representación legal del Organismo, con facultades de apoderado general para actos de administración, para pleitos y cobranzas, así como aquellos que requieran cláusula especial conforme a las leyes;
-
-X.- Ejercer los actos que se le ordene, pudiendo delegar esa facultad en otros servidores públicos, previo acuerdo del Consejo de Administración; y
-
-XI.- Las demás que sean necesarias para el ejercicio de las anteriores.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 1997)</small>
+(DEROGADO, P.O. 15 DE OCTUBRE DE 1999)
 
 ###### ARTICULO 9-C.
 
-El Comisario designado por la Contraloría del Estado, deberá ser ciudadano mexicano por nacimiento y con experiencia administrativa, y tendrá las facultades siguientes:
-
-I.- Vigilar que la administración de los recursos y el funcionamiento del Organismo, se hagan de acuerdo a lo que disponga esta Ley y los programas y presupuestos aprobados;
-
-II.- Practicar las auditorías de los estados financieros y las de carácter administrativo que se requieran;
-
-III.- Recomendar al Consejo de Administración y al Director General las medidas preventivas y correctivas que sean convenientes para el mejoramiento del Organismo;
-
-IV.- Asistir a las sesiones del Consejo de Administración, y
-
-V.- Las demás que otras leyes le atribuyan y las que sean necesarias para el ejercicio de las anteriores.
+(DEROGADO, P.O. 15 DE OCTUBRE DE 1999)
 
 ###### ARTICULO 10.
 
 Las multas a que se refiere esta Ley, así como su cobro, tienen carácter de fiscal.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 11.
 
-El organismo en su carácter fiscal autónomo, está facultado, en los términos de la legislación fiscal aplicable, para determinar el importe de las multas a que se refiere el artículo anterior, señalar las bases para su liquidación y fijarlas en cantidad líquida.
+La Secretaría de Salud en su carácter fiscal autónomo, está facultado, en los términos de la legislación fiscal aplicable, para determinar el importe de las multas a que se refiere el artículo anterior, señalar las bases para su liquidación y fijarlas en cantidad líquida.
 
 ###### ARTICULO 12.
 
@@ -351,13 +317,17 @@ Los pagos que deben efectuarse por los conceptos señalados en el artículo ante
 
 El cobro y ejecución de los créditos no cubiertos, estarán a cargo de la Secretaría de Finanzas del Estado, en los términos de la legislación fiscal aplicable.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 14.
 
-Para el debido cumplimiento de los actos de autoridad sanitaria que el Organismo realice, solicitará, en su caso, el apoyo de las autoridades competentes del Estado, quienes se lo brindarán en tanto aquellas estén debidamente motivadas y fundadas con base en la legislación aplicable.
+Para el debido cumplimiento de los actos de autoridad sanitaria que la Secretaría de Salud realice, solicitará, en su caso, el apoyo de las autoridades competentes del Estado quienes se lo brindará en tanto aquellas estén debidamente motivadas y fundadas con base en la legislación aplicable.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 15.
 
-Corresponde al Ejecutivo del Estado por conducto del Organismo:
+Corresponde al Ejecutivo del Estado por conducto de la Secretaría de Salud:
 
 A).- En materia de salubridad general:
 
@@ -395,9 +365,17 @@ XVI.- La asistencia social;
 
 XVII.- Participar con las autoridades federales en el desarrollo de los programas contra el alcoholismo, el tabaquismo y la farmacodependencia, de conformidad con el acuerdo de coordinación específico que al efecto se celebre;
 
-XVIII.- Ejercer la verificación y el control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas y alcohólicas en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento basándose en las normas que al efecto se emitan; y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 1999)</small>
 
-XIX.- Las demás que establezcan la Ley General de Salud y otras disposiciones jurídicas aplicables;
+XVIII.- Ejercer la verificación y el control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento basándose en las normas que al efecto se emitan; y,
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 1999)</small>
+
+XIX.- La atención especializada de los senescentes;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 1999)</small>
+
+XX.- Las demás que establezcan la Ley General de Salud y otras disposiciones jurídicas aplicables;
 
 B).- En materia de salubridad local; vigilar y procurar condiciones adecuadas de saneamiento en:
 
@@ -463,11 +441,15 @@ VI.- Impulsar, en el ámbito estatal un sistema racional de administración y de
 
 VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 18.
 
-La Coordinación del Sistema Estatal de Salud estará a cargo del organismo, correspondiéndole lo siguiente:
+La Coordinación del Sistema Estatal de Salud, estará a cargo de la Secretaría de Salud, correspondiéndole lo siguiente:
 
-I.- Ejecutar la política estatal en materia de salud, en los términos de esta Ley y demás disposiciones legales aplicables y de conformidad con las políticas del sistema nacional de salud y con lo dispuesto por el Ejecutivo Estatal;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 1999)</small>
+
+I.- Establecer, conducir y ejecutar la política estatal en materia de salud, en los términos de esta Ley y demás disposiciones legales aplicables y de conformidad con las políticas del Sistema Nacional de Salud y con lo dispuesto por el Ejecutivo Estatal;
 
 II.- Coordinar los programas de servicios de salud de las dependencias y entidades de la Administración Pública Estatal;
 
@@ -501,15 +483,19 @@ XV.- Impulsar la permanente actualización de las disposiciones legales en mater
 
 XVI.- Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del sistema estatal de salud, y las que determinen las disposiciones generales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 19.
 
-El Organismo, promoverá la participación en el sistema estatal de salud, de los prestadores de servicios de salud de los sectores público, social y privado, así como sus trabajadores y de los usuarios de los mismos, en términos de las disposiciones que al efecto se expidan.
+La Secretaría de Salud, promoverá la participación en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los Sectores Público, Social y Privado, así como sus trabajadores y de los usuarios de los mismos, en términos de las disposiciones que al efecto se expidan.
 
 Asimismo, fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de éstos últimos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 20.
 
-La concertación de acciones entre los servicios estatales de salud y los integrantes de los sectores social y privado, se realizará mediante convenios y contratos, los cuales se sujetarán a las siguientes bases:
+La concertación de acciones entre la Secretaría de Salud y los integrantes de los sectores social y privado, se realizará mediante convenios y contratos, los cuales se sujetarán a las siguientes bases:
 
 I.- Definición de las responsabilidades que asuman los integrantes de los sectores social y privado.
 
@@ -529,9 +515,11 @@ El Gobierno del Estado, con la participación que corresponda al Comité de Plan
 
 ### CAPITULO II. DISTRIBUCION DE COMPETENCIAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 23.
 
-Corresponde al Ejecutivo del Estado por conducto del Organismo:
+Corresponde al Ejecutivo del Estado por conducto de la Secretaría de Salud:
 
 A) En materia de salubridad general:
 
@@ -559,9 +547,11 @@ VI.- Vigilar, en la esfera de su competencia, el cumplimiento de esta ley y dem�
 
 VII.- Las demás que establezca esta ley y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 24.
 
-El Ejecutivo Estatal podrá convenir con los Ayuntamientos, con la asesoría de la Secretaría de Salud del Gobierno Federal, la desconcentración o descentralización, en su caso, por parte de éstos, de la prestación de los servicios de salubridad general concurrente y de salubridad local, cuando su desarrollo económico y social lo haga necesario.
+El Ejecutivo Estatal por conducto de la Secretaría de Salud, podrá convenir con los Ayuntamientos, con la asesoría de la Secretaría de Salud del Gobierno Federal, la desconcentración o descentralización, en su caso, por parte de éstos, de la prestación de los servicios de salubridad general concurrente y de salubridad local, cuando su desarrollo económico y social lo haga necesario.
 
 ###### ARTICULO 25.
 
@@ -669,13 +659,21 @@ VIII.- La disponibilidad de medicamentos y otros insumos esenciales para la salu
 
 IX.- La promoción del mejoramiento de la nutrición;
 
-X.- La asistencia social a los grupos más vulnerables, y
+X.- La asistencia social a los grupos más vulnerables, y (sic)
 
-XI.- Las demás que establezca esta ley y demás disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 1999)</small>
+
+XI.- La atención integral de los senescentes;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 1999)</small>
+
+XII.- Las demás que establezca esta Ley y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 39.
 
-El Gobierno del Estado, de conformidad con las disposiciones legales aplicables, vigilará que las Instituciones que presten servicios de salud en la Entidad, apliquen el cuadro básico de insumos del sector salud, asimismo, dicho Gobierno convendrá con el Gobierno Federal los términos en que las dependencias y entidades del Estado que presten servicios de salud, podrán participar en la elaboración del mencionado cuadro básico.
+El Gobierno del Estado, de conformidad con las disposiciones legales aplicables, vigilará que las Instituciones que presten servicios de salud en la Entidad, apliquen el cuadro básico de insumos para el primer nivel de atención médica y un catálogo de insumos para el segundo y tercer nivel, elaborados por el Consejo de Salubridad General. Asimismo, dicho Gobierno convendrá con el Gobierno Federal, los términos en que las Dependencias y Entidades del Estado, que presten servicios de salud, podrán participar en la elaboración del mencionado cuadro básico.
 
 ###### ARTICULO 40.
 
@@ -747,9 +745,23 @@ El Gobierno del Estado y los Municipios podrán convenir con las instituciones f
 
 El Gobierno del Estado, la Secretaría de Salud del Gobierno Federal, en el ámbito de sus respectivas competencias y en coordinación con las autoridades educativas, vigilarán el ejercicio de los profesionales, técnicos y auxiliares de la salud, en la prestación de los servicios respectivos.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 51.
 
-El organismo coadyuvará con las autoridades educativas competentes, para la promoción y fomento de la constitución de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud, asimismo estimularán su participación en el sistema estatal de salud, como instancias éticas del ejercicio de las profesiones, promotoras de la superación permanente de sus miembros, así como consultoras de las autoridades sanitarias, cuando éstas lo requieran.
+La Secretaría de Salud, coadyuvará con las autoridades educativas competentes, para la promoción y fomento de la constitución de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud, asimismo estimularán su participación en el sistema estatal de salud, como instancias éticas del ejercicio de las profesiones, promotoras de la superación permanente de sus miembros, así como consultoras de las autoridades sanitarias, cuando éstas lo requieran.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
+###### ARTICULO 51 Bis.
+
+Los establecimientos de servicios de salud deberán presentar aviso a la Secretaría de Salud, en el ámbito de su respectiva competencia, en el supuesto previsto por el primer párrafo del artículo 174 de esta Ley.
+
+En el aviso se expresarán las características y tipo de servicios a que están destinados y, en el caso de establecimientos particulares, se señalará también al responsable sanitario.
+
+El aviso a que se refiere el párrafo anterior deberá presentarse dentro de los diez días posteriores al inicio de operaciones y contener los requisitos establecidos en el artículo 174 de esta Ley.
+
+En la operación y funcionamiento de los establecimientos de servicios de salud se deberán satisfacer los requisitos que establezcan los reglamentos y normas oficiales mexicanas correspondientes.
 
 ### CAPITULO IV. USUARIOS DE LOS SERVICIOS DE SALUD Y PARTICIPACION DE LA COMUNIDAD
 
@@ -765,9 +777,11 @@ Los usuarios tendrán derecho a obtener prestaciones de salud oportunas y de cal
 
 Los usuarios deberán ajustarse a las reglamentaciones internas de las instituciones prestadoras de servicios de salud, y dispensar cuidado y diligencia en el uso y conservación de los materiales y equipos médicos que se pongan a su disposición.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 55.
 
-El organismo establecerá los procedimientos para regular las modalidades de acceso a los servicios públicos de la población en general y los servicios sociales y privados, en el Estado.
+La Secretaría de Salud, establecerá los procedimientos para regular las modalidades de acceso a los servicios públicos de la población en general y los servicios sociales y privados, en el Estado.
 
 ###### ARTICULO 56.
 
@@ -801,11 +815,19 @@ V.- Formulación de sugerencias para mejorar los servicios de salud;
 
 VI.- Información a las autoridades competentes de las irregularidades o deficiencias que se adviertan en la prestación de servicios de salud, y
 
-VII.- Otras actividades que coadyuven a la protección de la salud.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 1999)</small>
+
+VII.- Información a las autoridades sanitarias acerca de efectos secundarios y reacciones adversas por el uso de medicamentos y otros insumos para la salud o por el uso, desvío o disposición final de substancias tóxicas o peligrosas y sus derechos; y,
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 1999)</small>
+
+VIII.- Otras actividades que coadyuven a la protección de la salud.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 61.
 
-El organismo y demás instituciones de salud estatales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades y accidentes y de prevención de invalidez y rehabilitación de inválidos.
+La Secretaría de Salud, y demás instituciones de salud estatales, promoverá y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades y accidentes y de prevención de invalidez y rehabilitación de inválidos.
 
 ###### ARTICULO 62.
 
@@ -911,9 +933,11 @@ El Gobierno del Estado, coadyuvará con la Secretaría de Salud, en las acciones
 
 La prevención de las enfermedades mentales tiene carácter prioritario, se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros aspectos relacionados con la salud mental.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 76.
 
-Para la promoción de la salud mental, el organismo y las instituciones de salud en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán:
+Para la promoción de la salud mental, la Secretaría de Salud y las instituciones de salud en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán:
 
 I.- El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
 
@@ -937,9 +961,11 @@ Los padres, tutores o quienes ejerzan la patria potestad de menores, los respons
 
 A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 79.
 
-El Organismo conforme a las normas técnicas básicas que establezca la Secretaría de Salud, prestará atención a los enfermos mentales que se encuentren en reclusorios o centros de readaptación social del Estado así como en otras instituciones estatales no especializadas en salud mental.
+La Secretaría de Salud, conforme a las normas oficiales mexicanas que establezca La Secretaría de Salud del Gobierno Federal, prestará atención a los enfermos mentales que se encuentren en reclusorios o centros de readaptación social del Estado así como en otras instituciones estatales no especializadas en salud mental.
 
 A estos efectos, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
 
@@ -1021,17 +1047,21 @@ III.- Otorgar facilidades para la enseñanza y adiestramiento en servicio dentro
 
 IV.- Promover la participación voluntaria de profesionales, técnicos y auxiliares de la salud en actividades docentes o técnicas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 91.
 
-El organismo, sugerirá a las autoridades e instituciones educativas, cuando éstas lo soliciten, criterios sobre:
+La Secretaría de Salud, sugerirá a las autoridades e instituciones educativas, cuando éstas lo soliciten, criterios sobre:
 
 I.- Los requisitos para la apertura y funcionamiento de instituciones dedicadas a la formación de recursos humanos para la salud, en los diferentes niveles académicos y técnicos, y
 
 II.- El perfil de los profesionales para la salud y en sus etapas de formación.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 92.
 
-El organismo, en coordinación con las autoridades federales competentes, impulsarán y fomentarán la formación, capacitación y actualización de los recursos humanos para los servicios de salud, de conformidad con los objetivos y prioridades de los sistemas nacional y estatal de salud, de los programas educativos y de las necesidades de salud del Estado.
+La Secretaría de Salud en coordinación con las autoridades federales competentes, impulsarán y fomentarán la formación, capacitación y actualización de los recursos humanos para los servicios de salud, de conformidad con los objetivos y prioridades de los sistemas nacional y estatal de salud, de los programas educativos y de las necesidades de salud del Estado.
 
 ###### ARTICULO 93.
 
@@ -1081,13 +1111,17 @@ VI.- El profesional responsable suspenderá la investigación en cualquier momen
 
 VII.- Las demás que establezca esta ley y la correspondiente reglamentación.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 97.
 
-El organismo tendrá a su cargo la coordinación de la investigación para la salud y el control de ésta en seres humanos.
+La Secretaría de Salud, tendrá a cargo la coordinación de la investigación para la salud y el control de éstas en seres humanos.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 98.
 
-El organismo, vigilará que se establezcan en las Instituciones de Salud, comisiones de ética e investigación cuando ésta se realice en seres humanos, y la de bioseguridad, encargada de regular el uso de radiaciones ionizantes o de técnicas de ingeniería genética.
+La Secretaría de Salud, vigilará que se establezcan en las instituciones de salud, comisiones de ética e investigación cuando ésta se realice en seres humanos, y la de bioseguridad, encargada de regular el uso de radiaciones ionizantes o de técnicas de ingeniería genética.
 
 ###### ARTICULO 99.
 
@@ -1101,9 +1135,11 @@ En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuev
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 101.
 
-El organismo, de conformidad con la Ley de Información Estadística y Geografía, y con los criterios de carácter general que emita el Ejecutivo Federal, captará, producirá y procesará la información necesaria para el proceso de planeación, programación, presupuestación y control de los sistemas nacional y estatal de salud, así como sobre el estado y evolución de la salud pública de la Entidad.
+La Secretaría de Salud de conformidad con la Ley de Información Estadística y Geografía, y con los criterios de carácter general que emita el Ejecutivo Federal, captará, producirá y procesará la información necesaria para el proceso de planeación, programación, presupuestación y control de los sistemas nacional y estatal de salud, así como sobre el estado y evolución de la salud pública de la Entidad.
 
 La información se referirá fundamentalmente, a los siguientes aspectos:
 
@@ -1169,13 +1205,17 @@ En los programas a que se refiere el artículo anterior, se incorporarán accion
 
 ### CAPITULO V. SALUD OCUPACIONAL
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 109.
 
 Las autoridades sanitarias del Estado establecerán las normas, tomarán las medidas y realizarán las actividades a que se refiere esta Ley tendientes a la protección de la salud humana ante los riesgos y daños derivados de las condiciones del ambiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 110.
 
-Corresponde al Ejecutivo del Estado, por conducto del organismo:
+Corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Salud:
 
 I.- Desarrollar investigación permanente y sistemática de los riesgos y daños que para la salud de la población origine la contaminación del ambiente;
 
@@ -1189,25 +1229,37 @@ V.- Asesorar en criterios de ingeniería sanitaria de obras públicas y privadas
 
 VI.- Ejercer la verificación y control sanitario de las vías generales de comunicación, incluyendo los servicios auxiliares, obras, construcciones, demás dependencias y accesorios de las mismas, y de las embarcaciones, ferrocarriles, aeronaves y vehículos terrestres destinados al transporte de carga y pasajeros, y
 
-VII.- En general, ejercer actividades similares a las anteriores ante situaciones que causen riesgos o daños a la salud de las personas.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 1999)</small>
+
+VII.- Disponer y verificar que se cuente con información toxicológica actualizada, en las que se establezcan las medidas de respuesta al impacto en la salud originado por el uso de sustancias tóxicas o peligrosas;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 1999)</small>
+
+VIII.- En general, ejercer actividades similares a las anteriores ante situaciones que causen riesgos o daños a la salud de las personas.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 111.
 
-El organismo se coordinará con las dependencias federales, estatales y municipales para la prestación de los servicios a que se refiere este capítulo.
+La Secretaría de Salud, se coordinará con las dependencias federales, estatales y municipales para la prestación de los servicios a que se refiere este capítulo.
 
 ###### ARTICULO 112.
 
 Queda prohibida la descarga de aguas residuales sin el tratamiento para satisfacer los criterios sanitarios que, mediante las normas ecológicas emitan las autoridades federales competentes, con el propósito de fijar las condiciones particulares de descarga, el tratamiento y uso de aguas residuales; así como de residuos peligrosos que conlleven riesgos para la salud pública, a cuerpos de agua que se destinen para uso o consumo humano.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 113.
 
-El organismo en coordinación con las autoridades federales y municipales competentes y con la autoridad estatal encargada de la administración del distrito de riego, orientará a la población para evitar la contaminación de aguas de presas, pluviales, lagos y otras que se utilicen para riego o para uso doméstico, originada por plaguicidas, substancias tóxicas y desperdicios o basura.
+La Secretaría de Salud, en coordinación con las autoridades federales y municipales competentes y con la autoridad estatal encargada de la administración del distrito de riego, orientará a la población para evitar la contaminación de aguas de presas, pluviales, lagos y otras que se utilicen para riego o para uso doméstico, originada por plaguicidas, substancias tóxicas y desperdicios o basura.
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 114.
 
-El organismo tendrá a su cargo el control sanitario de los establecimientos en los que se desarrollen actividades ocupacionales, para el cumplimiento de los requisitos que en cada caso deberá reunir, de conformidad con lo que establezcan los reglamentos respectivos.
+La Secretaría de Salud, tendrá a su cargo el control sanitario de los establecimientos en los que se desarrollen actividades ocupacionales, para el cumplimiento de los requisitos que en cada caso deberá reunir, de conformidad con lo que establezcan los reglamentos respectivos.
 
 ###### ARTICULO 115.
 
@@ -1221,7 +1273,7 @@ El Gobierno del Estado, en coordinación con las dependencias y entidades federa
 
 ###### ARTICULO 116.
 
-Corresponde al organismo en coordinación con las autoridades federales, realizar actividades de vigilancia epidemiológica, de prevención y control de las enfermedades transmisibles, la prevención y control de las no transmisibles y la investigación, prevención y control de accidentes.
+Corresponde a la Secretaría de Salud en coordinación con las autoridades federales, realizar actividades de vigilancia epidemiológica, de prevención y control de las enfermedades transmisibles, la prevención y control de las no transmisibles y la investigación, prevención y control de accidentes.
 
 ### CAPITULO IV. ACCIDENTES
 
@@ -1451,9 +1503,11 @@ El Gobierno del Estado y los municipios promoverán la creación de establecimie
 
 El Gobierno del Estado y los municipios en coordinación con las dependencias y entidades públicas correspondientes, distribuirán raciones alimenticias en aquellas zonas de agudo retraso socioeconómico o en las que se padezcan desastres originados por sequía, inundaciones, terremotos y otros fenómenos naturales o contingencias con efectos similares.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 144.
 
-El organismo podrá autorizar la constitución de instituciones privadas cuyo objeto sea la prestación de servicios asistenciales.
+La Secretaría de Salud, podrá autorizar la constitución de instituciones privadas cuyo objeto sea la prestación de servicios asistenciales.
 
 ###### ARTICULO 145.
 
@@ -1487,9 +1541,11 @@ Los servicios y acciones que presten y realicen las instituciones de asistencia 
 
 Las autoridades sanitarias del Estado y las educativas, en el ámbito de sus respectivas competencias, colaborarán para proporcionar atención rehabilitatoria, cuando así se requiera.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 153.
 
-El organismo en coordinación con otras instituciones públicas, promoverá que en los lugares en que se presten servicios públicos, se dispongan facilidades para las personas inválidas.
+La Secretaría de Salud, en coordinación con otras instituciones públicas, promoverá que en los lugares en que se presten servicios públicos, se dispongan facilidades para las personas inválidas.
 
 ###### ARTICULO 154.
 
@@ -1559,6 +1615,8 @@ IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social,
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 162.
 
 El Gobierno del Estado se coordinará con las autoridades sanitarias federales para la ejecución en el Estado del programa contra el tabaquismo, que comprenderá entre otras, las siguientes acciones:
@@ -1601,7 +1659,7 @@ A los establecimientos que vendan o utilicen substancias e inhalantes con efecto
 
 ###### ARTICULO 166.
 
-El organismo ejercerá la verificación y control sanitaria de los establecimientos que expendan o suministren al público, alimentos y bebidas no alcohólicas y alcohólicas, en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento, de conformidad con las normas técnicas que al efecto emita la Secretaría de Salud del Gobierno Federal.
+La Secretaría de Salud, ejercerá la verificación y control sanitaria de los establecimientos que expendan o suministren al público, alimentos y bebidas no alcohólicas y alcohólicas, en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento, de conformidad con las normas técnicas que al efecto emita la Secretaría de Salud del Gobierno Federal.
 
 ###### ARTICULO 167.
 
@@ -1633,17 +1691,29 @@ I.- Los establecimientos y servicios, en su caso, a que se refieren las fraccion
 
 II.- Los establecimientos y servicios que en materia de salubridad general exclusiva se hayan descentralizado en los acuerdos de coordinación con el objeto de descentralizar las funciones de regulación, control y fomento sanitario y sus anexos técnicos correspondientes, en los términos de la Ley General de Salud y demás disposiciones reglamentarias que emanen de ellas y las normas correspondientes.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 172.
 
-El organismo emitirá las normas a que quedará sujeto el control sanitario de las materias de salubridad local.
+La Secretaría de Salud, emitirá las normas a que quedará sujeto al control sanitario de las materias de salubridad local.
 
 ###### ARTICULO 173.
 
 Los establecimientos que señala el artículo 15, apartado "B", de esta Ley, no requerirán de autorización sanitaria; debiéndose ajustar al control y verificación sanitarios, así como a los requisitos sanitarios establecidos en las disposiciones reglamentarias y normas que en materia de salubridad local se expidan.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 174.
 
-Los establecimientos a que se refiere el presente título, para su funcionamiento deberán dar aviso por escrito a la autoridad sanitaria competente, en caso de apertura el aviso deberá hacerse 30 días antes del inicio de operaciones; dicho aviso deberá contener los siguientes datos:
+Deberán dar aviso de funcionamiento los establecimientos que no requieran de autorización sanitaria y que, mediante acuerdo, determine la Secretaría de Salud del Gobierno Federal.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
+El acuerdo a que se refiere el párrafo anterior clasificará a los establecimientos en función de la actividad que realicen y se publicará en el Diario Oficial de la Federación.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
+El aviso a que se refiere este artículo deberá presentarse por escrito a la Secretaría de Salud o Autoridad Sanitaria competente, dentro de los diez días posteriores al inicio de operaciones y contendrá los siguientes datos:
 
 I.- Nombre y domicilio de la persona física o moral propietaria del establecimiento;
 
@@ -1651,11 +1721,31 @@ II.- Denominación o razón social;
 
 III.- Domicilio del establecimiento y fecha de inicio de operaciones, y
 
-IV.- Tipo y actividades del giro.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 1999)</small>
+
+IV.- Procesos utilizados y línea o líneas de productos;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 1999)</small>
+
+V.- Tipo y actividades del giro;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 1999)</small>
+
+VI.- Declaración, bajo protesta de decir verdad, de que se cumplen los requisitos y disposiciones aplicables al establecimiento;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 1999)</small>
+
+VII.- Clave de la actividad del establecimiento; y,
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 1999)</small>
+
+VIII.- Número de Cédula Profesional, en su caso, de responsable sanitario.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 175.
 
-Todo cambio de propietario o domicilio de un establecimiento, de razón social o denominación, cesión de derechos de productos, suspensión o ampliación de actividades, deberá ser comunicado a la autoridad sanitaria competente en un plazo no mayor de 30 días hábiles a partir de la fecha en que se hubiese realizado, sujetándose al cumplimiento de las normas que al efecto se expidan.
+Todo cambio de propietario o domicilio de establecimiento, de razón social o denominación, cesión de derechos de productos, suspensión o ampliación de actividades, deberá ser comunicado a la autoridad sanitaria competente en un plazo no mayor de 30 días hábiles a partir de la fecha en que se hubiese realizado, sujetándose al cumplimiento de las disposiciones que al efecto se expidan.
 
 ###### ARTICULO 176.
 
@@ -1680,6 +1770,12 @@ La autoridad sanitaria competente verificará que los mercados y centros de abas
 ###### ARTICULO 179.
 
 Los vendedores, locatarios y personas que su actividad esté vinculada con los mercados y centros de abasto estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales y el ejercicio de sus actividades se sujetarán a lo que disponga esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables, y las normas correspondientes.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
+###### ARTICULO 179 Bis.
+
+La Secretaría de Salud realizará periódicamente una supervisión en las centrales de abasto para determinar el contenido de agroquímicos en los alimentos perecederos o la presencia de coliformes, si se cultivan con aguas negras.
 
 ### CAPITULO V. LIMPIEZA PUBLICA
 
@@ -1707,9 +1803,11 @@ El encargado de la construcción, reconstrucción, modificación o acondicionami
 
 Los edificios y locales terminados no requieren verificación ni declaración de conformidad previas para dedicarse al uso que se destinen.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 186.
 
-Los edificios, locales, construcciones o terrenos urbanos, podrán ser verificados por la autoridad sanitaria competente, la que ordenará las obras necesarias para satisfacer las condiciones higiénicas y de seguridad en los términos de esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
+Los edificios, locales, construcciones o terrenos urbanos, podrán ser verificados por la autoridad sanitaria competente, la que ordenará las obras necesarias para satisfacer las condiciones higiénicas y de seguridad en los términos de esta Ley, otras disposiciones legales aplicables y las normas oficiales mexicanas correspondientes.
 
 ###### ARTICULO 187.
 
@@ -1867,9 +1965,11 @@ En las poblaciones donde no haya sistema de alcantarillado se estará a lo dispu
 
 Los proyectos para la implantación del sistema de alcantarillado deberán ser estudiados y aprobados por la autoridad sanitaria competente, con la intervención que corresponda al Gobierno del Estado y la obra se llevará a cabo bajo la inspección de la misma.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 217.
 
-Queda prohibido que los desechos o líquidos que conduzcan los caños sean vertidos en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al uso o consumo humano, en todo caso deberán ser tratados y cumplir con las disposiciones legales en materia de contaminación.
+Queda prohibido que los desechos o líquidos que conduzcan los caños sean vertidos en los ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al uso o consumo humano, en todo caso deberán ser tratados y cumplir con las normas oficiales mexicanas en materia de contaminación.
 
 ### CAPITULO X. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL
 
@@ -1921,9 +2021,11 @@ El ejercicio de esta actividad estará sujeto a lo que dispone esta Ley y otras 
 
 Queda prohibido el acceso de menores de edad al interior de los establecimientos o zonas en donde se autorice el ejercicio de la prostitución.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 227.
 
-La autoridad municipal, determinará los lugares en donde se permitirá el ejercicio de la prostitución, para lo cual solicitará la opinión del organismo, de conformidad con las disposiciones legales reglamentarias aplicables.
+La autoridad municipal, determinará los lugares en donde se permitirá el ejercicio de la prostitución, para lo cual solicitará la opinión de la Secretaría de Salud, de conformidad con las disposiciones legales reglamentarias aplicables.
 
 ### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS
 
@@ -1935,9 +2037,11 @@ Para los efectos de esta Ley, se entiende por reclusorio o centro de readaptaci�
 
 El Gobierno del Estado ejercerá el control sanitario a los reclusorios o centros de readaptación social, de conformidad con lo que se señala en esta Ley y demás disposiciones generales aplicables.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 230.
 
-Los reclusorios o centros de readaptación social deberán contar además de lo previsto por las disposiciones legales aplicables y las normas técnicas correspondientes con un departamento de baños de regadera, y con un consultorio médico que cuente con el equipo necesario para la atención de aquéllos casos de enfermedad de los internos en que no sea requerido el traslado de estos a un hospital.
+Los Reclusorios o Centros de Readaptación Social, deberán contar además de lo previsto por las disposiciones legales aplicables y las normas oficiales mexicanas correspondientes, con un departamento de baños de regadera y con un consultorio médico, que cuente con el equipo necesario para la atención de aquellos casos de enfermedad de los internos en que no sea requerido el traslado de éstos a un hospital.
 
 ###### ARTICULO 231.
 
@@ -1955,9 +2059,11 @@ Para los efectos de esta Ley, se entiende por baño público, el establecimiento
 
 Para abrir al servicio público estos establecimientos, deberá notificarse a la autoridad sanitaria competente de acuerdo a lo que establece el artículo 174 de esta Ley.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 234.
 
-La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas técnicas en materia de salubridad local correspondientes que dicte el organismo.
+La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y a las normas oficiales mexicanas en materia de salubridad local correspondientes que dicte la Secretaría de Salud.
 
 ### CAPITULO XIV. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
 
@@ -1969,9 +2075,11 @@ Para efectos de esta Ley, se entiende por centros de reunión y espectáculos, l
 
 La autoridad sanitaria competente, una vez terminada la edificación del centro de reunión y después de abrirse al público, hará la verificación y declaración correspondiente, asimismo, podrá en cualquier momento ordenar la clausura de los centros públicos de reunión que no cumplan con las condiciones de seguridad e higiene suficientes para garantizar la vida y la salud de las personas que a ellos concurran, dicha clausura prevalecerá entre tanto no sean corregidas las causas que la motivaron.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 237.
 
-El funcionamiento de los establecimientos a que se refiere el artículo 235 de esta Ley, deberá acatar lo dispuesto por las disposiciones legales aplicables y contará con los servicios de seguridad e higiene que se establezcan por los reglamentos de esta Ley, otras disposiciones legales aplicables y las normas correspondientes.
+El funcionamiento de los establecimientos a que se refiere el artículo 235 de esta Ley, deberá acatar lo expuesto por las disposiciones legales aplicables y contará con los servicios de seguridad e higiene que se establezcan en los reglamentos de esta Ley, otras disposiciones legales aplicables y las normas oficiales mexicanas correspondientes.
 
 ### CAPITULO XV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
@@ -2005,9 +2113,11 @@ Corresponde a la autoridad sanitaria competente ejercer la verificación sanitar
 
 Para los efectos de esta Ley, se entiende por establecimientos para el hospedaje, cualquier edificación que se destine a albergar a toda aquella persona que paga por ello.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 243.
 
-El organismo, realizará la verificación sanitaria a los establecimientos para el hospedaje, que conforme a esta Ley y otras disposiciones legales aplicables le corresponda.
+La Secretaría de Salud, realizará la verificación sanitaria a los establecimientos para el hospedaje que conforme a esta Ley y otras disposiciones aplicables le corresponda.
 
 ###### ARTICULO 244.
 
@@ -2019,9 +2129,11 @@ Para la construcción o acondicionamiento de un inmueble que se pretenda destina
 
 Para los efectos de esta Ley, se entiende por transporte, todo aquel vehículo destinado al traslado de carga o de pasajeros sea cual fuere su medio de propulsión.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 246.
 
-Los transportes que circulen por uno o más Municipios del Estado, no requerirán de autorización sanitaria, debiendo cumplir con los requisitos sanitarios establecidos en las disposiciones reglamentarias aplicables y las normas técnicas que para tal efecto se emitan.
+Los transportes que circulen por uno o más Municipios del Estado, no requerirán de autorización sanitaria, debiendo cumplir con los requisitos sanitarios establecidos en las disposiciones reglamentarias aplicables y las normas oficiales mexicanas que para tal efecto se emitan.
 
 ### CAPITULO I. AUTORIZACIONES
 
@@ -2029,9 +2141,11 @@ Los transportes que circulen por uno o más Municipios del Estado, no requerirá
 
 Para los efectos de esta Ley, se entiende por gasolinería el establecimiento destinado al expendio o suministro de gasolinas, aceites y demás productos derivados del petróleo que sean usados en vehículos automotores.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 248.
 
-Las gasolinerías deberán contar con las instalaciones de seguridad que establezcan las disposiciones legales y reglamentarias aplicables y las normas técnicas correspondientes.
+Las gasolinerías deberán contar con las instalaciones de seguridad que establezcan las disposiciones legales y reglamentarias aplicables y las normas oficiales mexicanas correspondientes.
 
 ### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
@@ -2267,21 +2381,31 @@ I.- Se observarán las formalidades y requisitos exigidos para las visitas de ve
 
 II.- La toma de muestras podrá realizarse en cualquiera de las etapas del proceso, pero deberán tomarse del mismo lote, producción o recipiente, procediéndose a identificar las muestras en envases que puedan ser cerrados y sellados;
 
-III.- Se obtendrán tres muestras del producto, una de ellas se dejará en poder de la persona con quien se entienda la diligencia para su análisis particular, otra muestra podrá quedar en poder de la misma persona a disposición de la autoridad sanitaria competente y tendrá el carácter de muestra testigo; la última será enviada por la autoridad sanitaria competente al laboratorio autorizado y habilitado por ésta, para su análisis oficial;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 1999)</small>
 
-IV.- El resultado del análisis oficial se notificará en forma personal o por correo certificado con acuse de recibo al interesado, dentro de los treinta días hábiles siguientes a la fecha de la toma de muestras;
+III.- Se obtendrán tres muestras del producto. Una de ellas se dejará en poder de la persona con quien se entienda la diligencia para su análisis particular; otra muestra quedará en poder de la misma persona a disposición de la autoridad sanitaria y tendrá el carácter de muestra testigo; la última será enviada por la autoridad sanitaria al laboratorio autorizado y habilitado por ésta, para su análisis oficial;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 1999)</small>
+
+IV.- El resultado del análisis oficial se notificará al interesado o titular de la autorización sanitaria de que se trate, en forma personal o por correo certificado con acuse de recibo, telefax o por cualquier otro medio por el que se pueda comprobar fehacientemente la recepción de los mismos, dentro de los treinta días hábiles siguientes a la fecha de la toma de muestras;
 
 V.- En caso de desacuerdo con el resultado que se haya notificado, el interesado lo podrá impugnar dentro de un plazo de quince días hábiles a partir de la notificación del análisis oficial, transcurrido este plazo sin que se haya impugnado el resultado del análisis oficial, éste quedará firme y la autoridad sanitaria competente procederá conforme a la fracción VII de este artículo, según corresponda;
 
 VI.- Con la impugnación a que se refiere la fracción anterior, el interesado deberá acompañar el original del análisis particular que se hubiere practicado a la muestra que haya sido dejada en poder de la persona con quien se entendió la diligencia de muestreo, así como, en su caso, la muestra testigo, sin el cumplimiento de este requisito no se dará trámite a la impugnación y el resultado del análisis oficial quedará firme;
 
-VII.- La impugnación presentada en términos de las fracciones anteriores dará lugar a que la autoridad sanitaria competente analice la muestra testigo en un laboratorio que la misma señale en presencia de las partes interesadas; en el caso de insumos médicos, el análisis se deberá realizar en un laboratorio autorizado como laboratorio de control analítico auxiliar de la regulación sanitaria, el resultado del análisis de la muestra testigo será el que en definitiva acredite si el producto en cuestión reúne o no los requisitos y especificaciones sanitarios exigidos, y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 1999)</small>
 
-VIII.- El resultado del análisis de la muestra testigo se notificará en forma personal o por correo certificado con acuse de recibo al interesado y en caso de que el producto reúna los requisitos y especificaciones requeridos, la autoridad sanitaria procederá a ordenar el levantamiento de la medida de seguridad que se hubiere ejecutado, según corresponda.
+VII.- La impugnación presentada en los términos de las fracciones anteriores dará lugar a que el interesado, a su cuenta y cargo, solicite a la autoridad sanitaria, el análisis de la muestra testigo en un laboratorio que la misma señale; en el caso de insumos médicos el análisis se deberá realizar en un laboratorio autorizado como laboratorio de control analítico auxiliar de la regulación sanitaria. El resultado del análisis de la muestra testigo será el que en definitiva acredite si el producto en cuestión reúne o no los requisitos y especificaciones sanitarios exigidos, y
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 1999)</small>
+
+VIII.- El resultado de los análisis de la muestra testigo, se notificará al interesado o titular de la autorización sanitaria de que se trate, en forma personal o por correo certificado con acuse de recibo, telefax o por cualquier otro medio por el que se pueda comprobar fehacientemente la recepción de los mismos y, en caso de que el producto reúna los requisitos y especificaciones requeridas, la autoridad sanitaria procederá a otorgar la autorización que se haya solicitado, o a ordenar el levantamiento de la medida de seguridad que se hubiera ejecutado, según corresponda.
 
 Si el resultado a que se refiere la fracción anterior comprueba que el producto no satisface los requisitos y especificaciones sanitarios, la autoridad sanitaria competente procederá a dictar y ejecutar las medidas de seguridad sanitarias que procedan o a confirmar las sanciones que correspondan y a negar o revocar, en su caso, la autorización de que se trate.
 
-Si la diligencia se practica en un establecimiento que no sea titular del registro del producto objeto de la muestra, cuando proceda, se correrá traslado al titular, mediante notificación personal o por correo certificado con acuse de recibo, de una copia del acta de verificación que consigne el muestreo realizado, así como del resultado del análisis oficial, a efecto de que éste tenga oportunidad de impugnar el resultado, dentro de los quince días hábiles siguientes.
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
+Si la diligencia se practica en un establecimiento que no sea donde se fabrica o produce el producto o no sea el establecimiento del titular del registro, el verificado está obligado a enviar, en condiciones adecuadas de conservación dentro del término de tres días hábiles siguientes a la toma de muestras, copia del acta de verificación que consigne el muestreo realizado, así como las muestras que quedaron en poder de la persona con quien se entendió la diligencia, a efecto de que tenga la oportunidad de realizar los análisis particulares y, en su caso, impugnar el resultado del análisis oficial, dentro de los quince días hábiles siguientes a la notificación de resultados.
 
 En este caso, el titular podrá inconformarse, solicitando sea realizado el análisis de la muestra testigo.
 
@@ -2371,9 +2495,11 @@ El organismo y los Ayuntamientos en el ámbito de su respectiva competencia, eje
 
 En todo caso, se dará a las dependencias encargadas de la sanidad animal la intervención que corresponda.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 295.
 
-El organismo y los Ayuntamientos en el ámbito de su respectiva competencia, podrán ordenar la inmediata suspensión de trabajos o de servicios o la prohibición de actos de uso, cuando, de continuar aquellos, se ponga en peligro la salud de las personas.
+Las autoridades sanitarias competentes podrán ordenar en el ámbito de su respectiva competencia, la inmediata suspensión de trabajos o de servicios o la prohibición de actos de uso, cuando, de continuar aquellos, se ponga en peligro la salud de las personas.
 
 ###### ARTICULO 296.
 
@@ -2427,25 +2553,29 @@ III.- Las condiciones socio-económicas del infractor, y
 
 IV.- La calidad de reincidente del infractor.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 302.
 
-Se sancionará con multa equivalente hasta de veinte veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 57, 58, 83, 119, 120, 121, 133, 174, 175, 179, 181, 182, 183, 184, 188, 191, 197, 203, 204, 205, 207, 219, 251, 272 y 273 de esta Ley.
+Se sancionará con multa de cien hasta quinientas veces el salario mínimo general diario vigente en la zona económica de que se trate; la violación de las disposiciones contenidas en los artículos 57; 58; 83; 100; 119; 120; 121; 133; 174; 175; 179; 181; 182; 183; 184; 188; 191; 197; 203; 204; 205; 207; 219; 251; 272; 273; y, demás disposiciones aplicables de esta Ley.
 
-La violación de la disposición contenida en el artículo 100 de esta Ley, se sancionará con multa equivalente hasta de cien veces el salario mínimo general diario vigente en la zona económica de que se trate.
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 303.
 
-Se sancionará con multa equivalente de diez hasta cien veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación a las disposiciones contenidas en los artículos 123, 129, 187, 190, 194, 213, 217, 233, 236 y 248 de esta Ley.
+Se sancionará con multa de quinientos hasta mil veces el salario mínimo general diario vigente en la zona económica de que se trate la violación de las disposiciones contenidas en los artículos: 123; 129; 187; 190; 194; 204; 213; 217; 233; 236; 248; y, demás relativos aplicables de esta Ley.
 
-La violación de las disposiciones contenidas en los artículos 280 y 295 de esta Ley se sancionará con multa equivalente de cincuenta hasta quinientas veces el salario mínimo general diario vigente en la zona económica de que se trate.
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 304.
 
-Se sancionará con multa equivalente de doscientas a dos mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación a las disposiciones contenidas en los artículos 71, 96, 99 y 112 de esta Ley.
+Se sancionará con multa equivalente de mil hasta cuatro mil veces el salario mínimo general diario vigente en la zona económica de que se trate la violación de las disposiciones contenidas en los artículos 71; 96; 99; 112; 193; 205; 244; y, demás disposiciones aplicables de esta Ley.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 305.
 
-Las infracciones no previstas en este capítulo serán sancionadas con multa hasta por quinientas veces el salario mínimo general diario vigente, en la zona económica de que se trate, atendiendo a las reglas de calificación que se establecen en el artículo 301 de esta Ley.
+Las infracciones no previstas en este capítulo serán sancionadas con multa equivalente hasta por cinco mil veces el salario mínimo general diario vigente en la zona económica de que se trate, atendiendo las reglas de calificación que se establecen en el artículo 301 de esta Ley.
 
 ###### ARTICULO 306.
 
@@ -2724,3 +2854,11 @@ CUARTO.- El Organismo descentralizado respetará los tabuladores salariales que 
 Los salarios y prestaciones vigentes en los tabuladores correspondientes a cada categoría han sido fijados para cubrir íntegramente todos los beneficios que se derivan de la relación laboral, mismos que se actualizarán siguiendo los mecanismos establecidos en el Acuerdo de Coordinación.
 
 QUINTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 15 DE OCTUBRE DE 1999.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se extingue el Organismo Público Descentralizado "Servicios Estatales de Salud" creado en el Título Segundo de la Ley de Salud del Estado de Guerrero núm. 159.
+
+TERCERO.- Se creará una Comisión Liquidadora del patrimonio del Organismo Público Descentralizado "Servicios Estatales de Salud", que se integrará por un representante de las Secretarías de Finanzas y Administración y de Salud y de la Contraloría General del Estado, misma que integrará el inventario con el que se constituye la Secretaría de Salud, la cual una vez cumpliendo su objetivo desaparecerá.
