@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1986-03-08"
+last_updated: "1986-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 1986.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -47,31 +47,19 @@ PRIMERA PARTE
 
 ###### ARTICULO 1o.
 
-Este Código regula la actividad que el Poder Ejecutivo del Estado de Chihuahua debe realizar, de modo permanente, según la competencia que le corresponde conforme a la Constitución Federal y la Local del Estado. En consecuencia, a él deberán incorporarse las disposiciones que el Congreso dicte otorgando al Ejecutivo nuevas facultades u obligaciones, creando nuevas ramas de la administración, ampliando las ya existentes o modificando las normas sustantivas, la organización interna o los procedimientos legales que encausan y orientan la acción del Poder Ejecutivo.
-
-Las actividades de carácter transitorio referidas a un tiempo o a una obra o empresa determinada que no sea de duración indefinida, podrán consignarse en leyes o decretos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 2o.
 
-La actividad del Poder Ejecutivo del Estado se regirá asimismo:
-
-I.- Por las disposiciones de carácter federal que confieran a los organismos o funcionarios locales una delegación de funciones o los consideren como ejecutores o auxiliares de la Federación en la ejecución y cumplimiento de dichas disposiciones;
-
-II.- Por los convenios que con apego a los preceptos constitucionales y legales, celebre el Poder Ejecutivo con los organismos de la Federación, de otros Estados o de los Municipios;
-
-III.- Por las disposiciones del Código Fiscal del Estado, sus reglamentos y por aquellas normas del derecho común no incluidas en este Código que le atribuyan alguna competencia a este Poder;
-
-IV.- Por las disposiciones legales o reglamentarias de carácter municipal que confieran intervención al Ejecutivo dentro de las normas constitucionales que salvaguarda la libertad municipal;
-
-V.- Por los reglamentos, acuerdos y circulares administrativos dictados con apoyo y dentro de las limitaciones de este Código.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 3o.
 
-El Gobernador del Estado queda facultado para resolver las dudas que surjan sobre la interpretación y aplicación de este Código, para dictar los reglamentos y acuerdos necesarios y, en general, proveer en la esfera administrativa al más exacto y eficaz cumplimiento del mismo Código.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 4o.
 
-El Gobernador del Estado reglamentará y vigilará la exacta observancia de las leyes de vigencia transitoria que no se incorporen a este Código.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ## TITULO SEGUNDO
 
@@ -79,75 +67,59 @@ El Gobernador del Estado reglamentará y vigilará la exacta observancia de las 
 
 ###### ARTICULO 5o.
 
-El Poder Ejecutivo se ejerce en nombre del pueblo en quien originariamente reside toda forma de soberanía.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 6o.
 
-Toda actividad del Poder Ejecutivo debe estar fundada en facultades que expresamente le confieran la Constitución Política del Estado, la Constitución Política de los Estados Unidos Mexicanos y las leyes y disposiciones reglamentarias que de ellas emanen.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 7o.
 
-Las facultades y poderes conferidos al Ejecutivo no son delegables sino en los casos expresamente determinados por la ley.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 8o.
 
-El Poder Ejecutivo, dentro de la organización republicana, representativa y popular de esta Entidad, se encuentra depositado en el Gobernador del Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 9o.
 
-El Poder Ejecutivo del Estado debe residir en la Capital del mismo y solamente podrá trasladarse a otro lugar de la Entidad por acuerdo de las dos terceras partes del número total de Diputados que integren la Legislatura. El Gobernador del Estado y las Dependencias que constituyen el Poder Ejecutivo podrán designar Delegados o Agentes que desempeñen sus funciones, de modo transitorio o permanente, en cualquier lugar del Estado fuera de la Capital. El Gobernador mediante un simple acuerdo, delimitará las funciones de dichos Agentes o Delegados, cuando sus atribuciones no estén determinadas previamente por la ley.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 10o.
 
-La renovación normal del Gobernador del Estado se efectuará cada seis años, el 4 de octubre, de acuerdo con las disposiciones de la Constitución Política del Estado y las correspondientes normas electorales contenidas en este Código.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 11.
 
-En caso de desaparición de Poderes, asumirán el Poder Ejecutivo restableciéndose el orden constitucional, los funcionarios señalados en los artículos 34 y 35 de la Constitución Política del Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 12.
 
-Las facultades del Poder Ejecutivo del Estado se ejercerán:
-
-I.- Por el Gobernador del Estado directamente o por conducto de sus Dependencias;
-
-II.- Por los Ayuntamientos, Juntas Municipales y Comisarios de Policía, cuando el Gobernador requiera su auxilio en los términos de los artículos 93, fracción XV y 140 de la Constitución Política del Estado;
-
-III.- Por los organismos descentralizados que existan o que en el futuro se establecieren, en la medida en que se les confiera una delegación de facultades propias del Ejecutivo;
-
-IV.- Por los Agentes, Inspectores o Delegados de cualquier naturaleza que designe el Ejecutivo para el desempeño de funciones permanentes o transitorias en cualquier parte del territorio del Estado y con relación a cualesquiera de las atribuciones del Poder Ejecutivo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 13.
 
-El Poder Ejecutivo del Estado respetará la esfera de acción de los Poderes Legislativo y Judicial, manteniendo con ellos, sobre bases de cordialidad, buen entendimiento y recíproco respeto, las relaciones fijadas constitucionalmente a fin de conservar la unidad de pensamiento y acción del Gobierno del Estado en bien del pueblo de Chihuahua. Deberá, además, entregar puntualmente el importe de las partidas que a los demás Poderes asigne el presupuesto.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 14.
 
-Las relaciones del Poder Ejecutivo con las autoridades municipales deberán mantenerse en un plano de recíproca cooperación, respetándose la autonomía municipal consagrada en las Constituciones Federal y del Estado.
-
-El Poder Ejecutivo cumplirá con su obligación de entregar puntualmente las participaciones fiscales y los subsidios que correspondan a los Municipios por ley o por acuerdo del propio Ejecutivo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 15.
 
-El Ejecutivo dictará órdenes a las autoridades municipales y éstas quedarán obligadas a cumplirlas, única y exclusivamente por lo que se refiere a aquellas materias de orden estatal en cuya ejecución o cumplimiento intervienen las autoridades municipales como auxiliares del Poder Ejecutivo del Estado.
-
-No existe relación jerárquica ni subordinación de ninguna especie entre las autoridades municipales y el Gobernador del Estado por lo que respecta al ejercicio de funciones de orden municipal.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 16.
 
-El titular del Poder Ejecutivo iniciará su gestión rindiendo la protesta de ley ante el Poder Legislativo y recibiendo de su antecesor el gobierno, haciéndose la entrega por dependencias y oficinas al hacerse el cambio de sus jefes o titulares.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 17.
 
-El Poder Ejecutivo se abstendrá de intervenir en las cuestiones de orden jurisdiccional respetando de modo absoluto la autonomía del Poder Judicial.
-
-El Gobernador del Estado se concretará a poner en conocimiento del Supremo Tribunal de Justicia las quejas que recibiere o las deficiencias que notare con relación a la administración de justicia, para que el propio Alto Tribunal dicte las medidas necesarias.
-
-El propio Ejecutivo, por conducto de sus Dependencias y especialmente de la fuerza pública, prestará la colaboración que el Poder Judicial le solicite para el mejor desempeño de sus funciones.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 18.
 
-Las solicitudes de licencia para abandonar el territorio del Estado o para dejar el ejercicio del Poder Ejecutivo así como las renuncias del Gobernador y las substituciones temporales o definitivas que del titular del Poder Ejecutivo deban hacerse, se tramitarán conforme a lo dispuesto por la Constitución Política del Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ## TITULO TERCERO. DE LOS ORGANOS Y FUNCIONES DEL PODER EJECUTIVO
 
@@ -155,679 +127,267 @@ Las solicitudes de licencia para abandonar el territorio del Estado o para dejar
 
 ###### ARTICULO 19.
 
-Para el despacho de los negocios del Poder Ejecutivo habrá un Secretario General de Gobierno que refrendará con su firma las leyes y decretos que promulgue el Gobernador, así como los reglamentos, acuerdos y disposiciones de carácter general que el propio Gobernador dicte.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 20.
 
-Intervendrán en el desarrollo de las funciones encomendadas al Poder Ejecutivo las siguientes Dependencias:
-
-I.- Secretaría General de Gobierno
-
-II.- Tesorería General
-
-III.- Oficialía Mayor
-
-IV.- Procuraduría General de Justicia
-
-V.- Dirección de Gobernación
-
-VI.- Dirección de Educación
-
-VII.- Departamento de Trabajo y Previsión Social
-
-VIII.- Departamento de Comunicaciones y Obras Públicas
-
-IX.- Departamento de Agricultura
-
-X.- Departamento de Ganadería
-
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1980)</small>
-
-XI.- Dirección de Desarrollo Económico
-
-XII.- Departamento Administrativo
-
-XIII.- Dirección General de Tránsito
-
-XIV.- Dirección General del Notariado
-
-XV.- Oficina Central del Registro Público de la Propiedad
-
-XVI.- Comisión Agraria Mixta
-
-XVII.- Oficina del Servicio Meteorológico y Geográfico del Estado
-
-> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 1979)</small>
-
-XVIII.- Impulsora Estatal de la Pequeña y Mediana Minería.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ### CAPITULO II. DEL PERSONAL
 
 ###### ARTICULO 21.
 
-Además del titular de cada Dependencia existirán Subjefes y Subdirectores cuando se estime necesario y los demás empleados que el presupuesto de egresos fije.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 22.
 
-Son atribuciones de los titulares de las Dependencias:
-
-I.- Atender, bajo su responsabilidad, el despacho de los asuntos de su competencia;
-
-II.- Proponer al Gobernador los nombramientos de sus empleados subalternos y de los titulares de las demás oficinas del ramo;
-
-III.- Asistir a los acuerdos con sus superiores jerárquicos;
-
-IV.- Impulsar todas las actividades que en su ramo tiendan al progreso y bienestar del Estado, así como a dar buen nombre y prestigio al Gobierno.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 23.
 
-Cada Dependencia formulará el reglamento interior de sus actividades particulares y lo pondrá en conocimiento del Gobernador para su aprobación y vigencia.
-
-Estos reglamentos interiores deberán coordinarse entre sí a fin de evitar duplicidad de funciones o incongruencia en las labores, mantener la unidad de criterio y de acción del Gobierno y lograr mejor rendimiento en el esfuerzo y mayor economía en la inversión de los fondos públicos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 24.
 
-Para ser Oficial Mayor de Gobierno se requiere reunir los mismos requisitos que para el Secretario General de Gobierno establece la Constitución Política del Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 25.
 
-Para ser titular de las demás Dependencias se requiere:
-
-I.- Ser mexicano por nacimiento;
-
-II.- Ser mayor de 21 años;
-
-III.- Poseer conocimientos especializados en el ramo de su competencia.
-
-El Procurador General de Justicia, el Director de Gobernación, el Jefe del Departamento de Trabajo y Previsión Social, el Director General del Notariado y el Encargado de la Oficina Central del Registro Público de la Propiedad deberán ser, además, abogados con título registrado en la Oficina Estatal de Profesiones.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 26.
 
-Los titulares de las diversas Dependencias serán nombrados y removidos libremente por el Gobernador, quien nombrará y removerá también a propuesta de los mismos, a los demás empleados inferiores acatando las disposiciones legales que garantizan los derechos de los trabajadores de base.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 27.
 
-Todos los funcionarios y empleados del Poder Ejecutivo del Estado, al entrar al desempeño de sus cargos o empleos, harán protesta formal de cumplir y, en su caso, hacer cumplir la Constitución Federal, la particular del Estado y todas las leyes y reglamentos que de ellas emanen.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 28.
 
-La protesta a que se refiere el anterior artículo deberán rendirla los titulares de Dependencias o de instituciones descentralizadas ante el Gobernador del Estado. Los empleados la rendirán ante los titulares antes indicados.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 29.
 
-La protesta deberá hacerse en los siguientes términos: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes y reglamentos que de ellas emanen, y desempeñar leal y patrióticamente el cargo que el Gobierno del Estado me ha conferido, mirando en todo por el bien y prosperidad de Chihuahua". El Gobernador o, en su caso, los jefes administrativos, amonestarán al que protesta en los siguientes términos: "Si así no lo hiciereis el Estado de Chihuahua os lo demande".
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ### CAPITULO III. ATRIBUCIONES DEL EJECUTIVO
 
 ###### ARTICULO 30.
 
-El Gobernador, en su carácter de depositario del Poder Ejecutivo, tendrá las facultades, prerrogativas, representación, obligaciones y responsabilidades que determinan la Constitución Federal, la particular del Estado y las leyes que de ellas emanen.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 31.
 
-Corresponde, además, al Ejecutivo del Estado:
-
-I.- La dirección de las relaciones con los Poderes de las demás Entidades y de la Federación, con las limitaciones establecidas en el artículo 64 de la Constitución Política del Estado;
-
-II.- Celebrar arreglos sobre límites del Estado, contratos o empréstitos sobre el crédito del Estado, armar y poner en servicio la guardia nacional y representar al Estado en casos especiales fuera de su competencia normal, con la aprobación y de acuerdo con las instrucciones que en todos esos casos fije el Congreso del Estado;
-
-III.- Rendir informes al Congreso emitiendo su opinión sobre la conveniencia o inconveniencia de erigir nuevos Municipios;
-
-IV.- Convocar a elecciones extraordinarias en los casos previstos por la Constitución y conforme a lo dispuesto por las normas legales electorales;
-
-V.- Dirigir la organización de las policías del Estado y mandarlas en jefe, así como a la policía municipal donde él resida permanentemente o transitoriamente;
-
-VI.- Nombrar persona que represente a la Hacienda Pública en toda clase de juicios, delegando las atribuciones generales o especiales que sean necesarias. Bastará que se le designe con las primeras para que queden comprendidas las especiales sin limitación alguna;
-
-VII.- La apertura, conservación y clausura de toda clase de vías de comunicación que no sean municipales o federales;
-
-VIII.- La adquisición, construcción, administración y conservación de los bienes pertenecientes al Estado;
-
-IX.- La creación y conservación de los archivos del Estado; la publicación y compilación de las leyes y disposiciones de carácter general;
-
-X.- El fomento de la producción y de todas las actividades que signifiquen el progreso del Estado, su planeación económica y la protección del trabajo;
-
-XI.- Fomentar y organizar toda clase de servicios sociales, creando las entidades oficiales o descentralizadas que sean necesarias;
-
-XII.- Hacer la revisión, por medio de inspectores que designe, de la contabilidad de las Tesorerías Municipales y de todos los organismos descentralizados que desempeñen funciones propias del Poder Ejecutivo, con el fin de verificar las entradas y salidas de los fondos y su correcta aplicación conforme a los presupuestos aprobados;
-
-XIII.- Designar a los funcionarios o empleados cuyo nombramiento corresponda al Ejecutivo del Estado para integrar el personal de las Oficinas de Teléfonos, Tránsito, Tribunal para Menores, Juntas de Conciliación y Arbitraje, Comisiones del Salario Mínimo, Asistencia Pública o Privada, Consejo Superior de Salubridad, Consejo de Planeación, Comisión Agraria Mixta, Junta Local de Caminos, Comités para Construcción de Escuelas, Juntas Estatal y Municipales de Aguas, Museos, Oficinas de Trabajo Social, Delegación Estatal del Registro Nacional de Electores y demás organismos descentralizados;
-
-XIV.- Dar órdenes e instrucciones a los Presidentes Municipales, Ayuntamientos, Presidentes de Sección, Juntas Municipales y Comisarios de Policía, en relación con la observancia y ejecución de las leyes, decretos y acuerdos que se relacionen con el orden general; y
-
-XV.- Las demás que le asignen las leyes federales o del Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ### CAPITULO IV. DE LAS DEPENDENCIAS DEL EJECUTIVO Y DE SUS FUNCIONES DE LA SECRETARIA GENERAL
 
 ###### ARTICULO 32.
 
-Corresponde a la Secretaría General de Gobierno:
-
-I.- Intervenir, previo acuerdo del Gobernador, en las actividades de la Tesorería y de la Oficialía Mayor;
-
-II.- Controlar las actividades legales y técnicas de las demás Dependencias del Ejecutivo;
-
-III.- Reunir todos los datos que sean necesarios para redactar los informes que el Gobernador deba rendir;
-
-IV.- Vigilar la marcha general de la administración pública para asegurar el cumplimiento de las instrucciones y criterios generales de gobierno dictados por el Gobernador;
-
-V.- Tratar directamente los asuntos que por su importancia le encomiende el Gobernador y aquéllos cuya competencia no esté atribuida a otras Dependencias en tanto que el Gobernador no decida que sean tratados por otros órganos del Ejecutivo; y
-
-VI.- Las demás funciones que le encomienden las leyes y el Gobernador.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 DE LA TESORERIA GENERAL
 
 ###### ARTICULO 33.
 
-La Tesorería General tendrá su asiento en la Capital del Estado. Bajo, la dependencia de la misma se establecerán Recaudaciones de Rentas en los lugares de mayor importancia preferentemente en las cabeceras de Municipios que por su situación especial puedan constituirse en cabeceras de Distrito rentístico, atendiendo a las necesidades de la administración pública y a las condiciones económicas del lugar y vías de comunicación. A cada Recaudación de Rentas estarán subalternadas las colecturías que el Ejecutivo autorice.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 34.
 
-El titular de la Tesorería General del Estado tendrá el cargo de Tesorero General. Las funciones que las leyes se encomienden serán ejercidas por dicho funcionario en representación del Gobernador. A satisfacción de éste, el Tesorero General caucionará el manejo de fondos públicos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 35.
 
-Compete al Tesorero General del Estado:
-
-I.- Atender todo lo concerniente a la organización fiscal estatal, y en general, ejercer las atribuciones y facultades comprendidas en el Código Fiscal del Estado u otras leyes y reglamentos relativos;
-
-II.- Elaborar, controlar y vigilar el presupuesto anual de egresos;
-
-III.- Elaborar, controlar y vigilar el ejercicio del presupuesto anual de egresos, estableciendo las tramitaciones y registros necesarios para tal efecto;
-
-IV.- Proyectar y calcular los ingresos y egresos anuales del erario público, así como formular y someter a la consideración del Gobernador los proyectos de Ley de Ingresos y Presupuesto de Egresos, en los términos de los artículos 1o., 2o. y 3o. del Código Fiscal del Estado y de las demás disposiciones fiscales a que se refiere el artículo 13 de dicho ordenamiento;
-
-V.- Promover, organizar y dirigir estudios sobre las diversas fuentes de riqueza del Estado, con el fin de incrementar los ingresos, mejorar los sistemas de control fiscal y revisar las bases, tasas, cuotas y tarifas correspondientes a los diversos tributos;
-
-VI.- Suscribir conjuntamente con el Gobernador, los títulos de crédito que constituyan obligaciones a cargo del Gobierno del Estado y en la misma forma participar en cualquier acto, contrato o convenio que obligue económicamente al Gobierno del Estado;
-
-VII.- Intervenir en representación del interés del Estado en las controversias fiscales que se susciten;
-
-VIII.- Ejercer las atribuciones que señala la Ley de Pensiones Civiles del Estado, y vigilar en forma especial que su presupuesto de egresos se ejerza adecuadamente;
-
-IX.- Recaudar los fondos provenientes de la ejecución de la Ley de Ingresos, así como los que por otros conceptos distintos tenga derecho a percibir el Estado por cuenta propia o ajena, estableciendo los procedimientos necesarios para tal efecto;
-
-X.- Custodiar y concentrar los fondos y valores propios del Gobierno del Estado y los ajenos que estén a su cuidado;
-
-XI.- Vigilar la correcta aplicación de los fondos del Estados a las obras públicas que éste realice;
-
-XII.- Controlar y vigilar las inversiones para la ejecución de obras y servicios públicos, realizados o prestados, sea por el Estado o por los Municipios cuando para su ejecución aquél haya otorgado garantía de cualquier especie. También dictar las medidas que sean necesarias para la recuperación de las inversiones y la correcta afectación de los ingresos que se capten;
-
-XIII.- Autorizar las erogaciones extraordinarias o imprevistas de recaudación, contra la partida presupuestal que se designe como gastos de recaudación, y el pago por la adquisición de bienes y servicios que con carácter urgente sean necesarias para el cumplimiento de sus atribuciones, con cargo a las partidas que correspondan;
-
-XIV.- Llevar la contabilidad de la Hacienda Pública Estatal, estableciendo los sistemas, procedimientos y medidas de control interno para lograr un registro que proporcione en forma oportuna, la información que se requiera;
-
-XV.- Formular mensualmente la cuenta general de ingresos y egresos del erario, darle la debida publicidad y recabar de la Contaduría General del Congreso del Estado el finiquito correspondiente;
-
-XVI.- Establecer medidas de control y vigilancia, respecto de los ingresos y egresos de los organismos descentralizados estatales; empresas de participación estatal y patronatos que manejen fondos oficiales;
-
-XVII.- Las demás que establezcan las leyes y, en general, el despacho de todos los asuntos del ramo fiscal y financiero que las leyes o el Gobernador le encomienden.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 36.
 
-Las funciones de la Tesorería General del Estado serán ejercidas:
-
-I.- Directamente por el Tesorero General del Estado, auxiliado por las diversas direcciones, departamentos, secciones o mesas que integren la Tesorería, de acuerdo con la distribución de funciones, manejo y custodia de fondos, valores o bienes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 37.
 
-En las faltas accidentales o temporales del Tesorero General lo substituirá el Director de Egresos o el funcionario a quien se comisionará para ese efecto.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 38.
 
-La recaudación y el cobro de los créditos que tenga derecho a percibir el Gobierno Estatal por cuenta propia o ajena, se realizarán conforme a las disposiciones legales aplicables y las resoluciones de las autoridades competentes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 39.
 
-Los fondos y valores que el Gobierno del Estado perciba por conducto de cualquier autoridad o de los organismos subalternos, deberán concentrarse en la Tesorería General, de conformidad con el procedimiento que para tal efecto establezca el Reglamento Interior de la Tesorería General.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 40.
 
-Las autoridades judiciales o administrativas que embarguen o decomisen bienes a favor del Gobierno Estatal, los pondrán al cuidado de la Tesorería General juntamente con los documentos que justifiquen dichos actos, a fin de que ésta los guarde, administre, aplique, destruya, remate o venda, según proceda conforme a las disposiciones legales aplicables.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 41.
 
-La Tesorería General y sus organismos subalternos, en vista de las reclusiones que reciban y de las que dicten respecto de los depósitos cuya constitución hubiere exigido por propia determinación, de conformidad con lo establecido por el Código Fiscal declararán de oficio la caducidad y dispondrán de los depósitos respectivos aplicando su importe a beneficio del erario estatal. Cuando no sea posible determinar la fecha en que legalmente pueda exigirse su devolución o aplicación se tomará como base la de la constitución del depósito para los mismos efectos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 DE LA OFICIALIA MAYOR
 
 ###### ARTICULO 42.
 
-Corresponde a la Oficialía Mayor:
-
-I.- La expedición y control de las órdenes de pago en relación con todas las Dependencias del Ejecutivo;
-
-II.- Tramitar todos los asuntos relativos al personal del Poder Ejecutivo del Estado, previo acuerdo del Gobernador;
-
-III.- Adquirir y distribuir, previo acuerdo del Gobernador, los materiales, muebles y útiles necesarios para la realización de los fines del Gobierno;
-
-IV.- Formular el inventario y llevar el control de los bienes del Estado;
-
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 1976)</small>
-
-V.- Dirigir el Archivo General del Poder Ejecutivo despachar la correspondencia y expedir las constancias y copias que legalmente procedan, especialmente las relativas a las actas de los libros duplicados del Registro Civil, realizando además en ellos, las anotaciones marginales previstas en el Código Civil y en este Ordenamiento Administrativo;
-
-VI.- Vigilar, a través de la Intendencia General, la administración y conservación de los bienes destinados al servicio público y administrar los demás bienes que no se entreguen o encomienden a alguna otra Dependencia;
-
-VII.- Controlar desde el punto de vista administrativo, las actividades de la Imprenta de Gobierno;
-
-VIII.- Auxiliar en sus funciones a la Secretaría General de Gobierno cuando ésta requiera su auxilio o lo determine la ley; y
-
-IX.- Las demás atribuciones que se señalen las leyes y el Gobernador.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 DE LA PROCURADURIA GENERAL DE JUSTICIA
 
 ###### ARTICULO 43.
 
-Corresponde a la Procuraduría General de Justicia el ejercicio de las atribuciones que el Ministerio Público confieren el artículo 119 de la Constitución Política del Estado y la Segunda Parte de este Código.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 DE LA DIRECCION DE GOBERNACION
 
 ###### ARTICULO 44.
 
-Corresponde a la Dirección de Gobernación:
-
-I.- Tramitar los asuntos referentes a las relaciones del Ejecutivo con los Estados, la Federación, los Municipios y los Agentes Consulares, en lo que a su ramo se refiere;
-
-II.- Atender todo lo relativo a la remisión de iniciativas de leyes y decretos enviadas por el Gobernador al Congreso del Estado en los términos de la Constitución Local;
-
-III.- Tomar las medidas de prevención social necesarias para la ejecución de sentencias dictadas por los Tribunales en contra de los reos que hayan sido puestos a disposición del Ejecutivo, y acordar todo lo relativo a la libertad absoluta de los reos, libertad preparatoria, condena condicional, indultos y otros beneficios, exhortos y las demás atribuciones que en este ramo especifican el Código de Defensa Social y el de Procedimientos en la misma materia;
-
-IV.- Atender todas la cuestiones relativas al Registro Civil y vigilar por el correcto funcionamiento de las oficinas encargadas de prestar este servicio público;
-
-V.- Llevar un registro general de firmas de funcionarios y empleados y atender todo lo relativo a la legalización de firmas y certificaciones expedidas por el Ejecutivo;
-
-VI.- Publicar, compilar y archivar todas las leyes, reglamentos, circulares y demás normas gubernativas del Estado o de la Federación y cuidar administrativamente la exacta observancia de esas disposiciones, siempre que no se refieran a negocios que correspondan a otras Dependencias del Ejecutivo;
-
-VII.- Tener al corriente la compilación del Periódico Oficial del Estado, del Diario Oficial de la Federación y del Semanario Judicial;
-
-VIII.- Coleccionar los Periódicos Oficiales de los Estados de la República, manteniendo con los gobiernos respectivos el canje de publicaciones oficiales;
-
-IX.- Coordinar las actividades de las autoridades municipales y comunicarles las órdenes del Ejecutivo, inspeccionando su funcionamiento, dictando las medidas preventivas del caso en los términos de los artículos 93, fracción XXIX y 140 de la Constitución Local;
-
-X.- Tramitar la documentación necesaria para la expedición de pasaportes en los términos de la ley federal relativa y colaborar con las autoridades federales en el control de residentes extranjeros en el Estado;
-
-XI.- Llevar la dirección técnica y vigilar el adecuado funcionamiento de las cárceles municipales y establecimientos penitenciarios, así como de los Tribunales para Menores, Escuelas de Rehabilitación o de Mejoramiento para menores y demás instituciones similares.
-
-XII.- Tramitar las expropiaciones por causa de utilidad pública;
-
-XIII.- Tomar la intervención y vigilancia que en materia electoral señalen las leyes al Ejecutivo;
-
-XIV.- Intervenir en la integración de las ternas que deban enviarse al Congreso para la designación de Magistrados del Supremo Tribunal de Justicia, autoridades municipales y demás funcionarios;
-
-XV.- Llevar registro de los ministros de cada culto que ejerzan en el Estado y tramitar la expedición de licencias para ese ejercicio y la cancelación de las mismas; le corresponde asimismo todo lo relacionado con la apertura y cierre de templos y auxiliar a las autoridades federales en todo lo concerniente a esta materia;
-
-XVI.- Atender las consultas sobre interpretación de leyes, reglamentos o circulares que deba aplicar el Ejecutivo del Estado y auxiliar a las demás Dependencias del Ejecutivo en la atención de los amparos que se promuevan;
-
-XVII.- Expedir las licencias definitivas a los negocios de cantina, expendios de cerveza y vinos y licores, cualesquiera que sea su naturaleza y vigilar por la correcta aplicación de las disposiciones que rigen esta materia;
-
-XVIII.- Atender y desempeñar las comisiones o trabajos que le confieran el Gobernador y el Secretario General de Gobierno; y
-
-XIX.- Las demás atribuciones que le encomienden las leyes y reglamentos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 45.
 
-La Dirección de Gobernación actuará como asesor jurídico de los Ayuntamientos y Presidentes Municipales única y exclusivamente cuando éstos le formulen alguna consulta. Dicha Dirección resolverá las consultas con estricto apego a la Constitución Federal y a la Local y demás leyes aplicables, concretándose a emitir su opinión jurídica sobre el problema que se le haya planteado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 46.
 
-Las licencias o permisos que los ministros deban obtener para oficiar del Ejecutivo por conducto de la Dirección de Gobernación, podrán ser revocados cuando a juicio del mismo así lo demande el bienestar social y sólo tendrán vigencia por un año.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 47.
 
-El Ejecutivo autorizará el ejercicio de los ministros de cada culto, siempre que su número no exceda de la proporción de un ministro por cada diez mil habitantes, tomando como base el último censo oficial practicado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 48.
 
-La licencia que se expida para apertura de negocios de cantina, cerveza y bebidas alcohólicas no constituye ningún derecho a favor de quien se concede, pudiendo ser aquélla revocada al juicio del Ejecutivo del Estado, ya sea porque se haya faltado al cumplimiento de algún requisito de ley, o porque se estime como un peligro para la tranquilidad, seguridad, moralidad o salubridad públicas. Contra el acuerdo de revocación de referencia no precederá recurso alguno.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 DE LA DIRECCION DE EDUCACION
 
 ###### ARTICULO 49.
 
-Corresponde a la Dirección de Educación del Estado:
-
-I.- La dirección y vigilancia de la educación preescolar, primaria, media, artística, especial, trabajo social y profesional, coordinando la prestación de los servicios con las agencias educativas federales cuando fuere necesario;
-
-II.- La cooperación en los servicios educativos que tengan por objeto incorporar la raza tarahumara a la cultura patria;
-
-III.- El fomento de la cultura física en su aspecto escolar y en los diferentes niveles, conforme a los programas en vigor; así como la actividad deportiva extraescolar como proyección de la obra de la escuela en las comunidades;
-
-IV.- La cooperación con las agencias educativas federales en la campaña alfabetizante y cultural aplicada a la elevación ética, cívica y económica de los habitantes del Estado;
-
-V.- Formular los planes y programas de estudio de las instituciones de enseñanza estatal como arreglo a las que, para los diferentes niveles, ponga en vigor el Consejo Nacional Técnico de la Educación de la Secretaría de Educación Pública;
-
-VI.- Cooperar al fomento, vigilancia y conservación de las bibliotecas y museos del Estado;
-
-VII.- Proponer el otorgamiento de becas o subsidios aplicados a instituciones con fines educativos;
-
-VIII.- Las demás atribuciones que le confieran las leyes, los reglamentos y el Gobernador.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 DEL DEPARTAMENTO DE TRABAJO Y PREVISION SOCIAL
 
 ###### ARTICULO 50.
 
-Corresponde al Departamento de Trabajo y Previsión Social:
-
-I.- Vigilar la observancia de la Ley Federal del Trabajo y sus Reglamentos en los asuntos de la competencia del Ejecutivo;
-
-II.- Vigilar igualmente el funcionamiento de las Juntas de Conciliación y Arbitraje, las cuales funcionarán con la autonomía que la citada Ley les concede. La designación de sus miembros y empleados se hará directamente por el Gobernador;
-
-III.- La Procuraduría de la Defensa del Trabajo;
-
-IV.- Reconocer y registrar, por conducto de los órganos competentes, las asociaciones obreras, patronales y profesionales;
-
-V.- Tomar las medidas necesarias para hacer efectivos el seguro social, la previsión social de los trabajadores y la seguridad e higiene industrial;
-
-VI.- Organizar bolsas de trabajo para los desocupados;
-
-VII.- Proponer las medidas necesarias para la resolución de los problemas que aquejan a la clase obrera;
-
-VIII.- Organizar conferencias, exposiciones y reuniones para los trabajadores; y
-
-IX.- Las demás facultades que le asignen las leyes, los reglamentos y el Gobernador.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 DEL DEPARTAMENTO DE COMUNICACIONES Y OBRAS PUBLICAS
 
 ###### ARTICULO 51.
 
-Corresponde al Departamento de Comunicaciones y Obras Públicas:
-
-I.- La planeación y ejecución de toda clase de obras materiales, edificios, caminos, carreteras, monumentos, obras de embellecimiento, obras de urbanización y encauzamiento de ríos y arroyos;
-
-II.- La vigilancia y conservación de caminos carreteros, aeródromos y vías férreas que no controlen la Federación o los Municipios; de los teléfonos del Estado y de los demás medios que no estén considerados como vías federales de comunicación;
-
-III.- El fomento de la radiotelegrafía, radioemisión y televisión, con fines culturales o comerciales;
-
-IV.- Aprobar las tarifas para pasajeros y carga, reglamentar el tránsito y la expedición de los permisos en las carreteras y medios de comunicación dependientes del Estado;
-
-V.- Tramitar los expedientes relativos al denuncio y enajenación de terrenos municipales, promover y reglamentar la dotación de fundos legales a las poblaciones que lo ameriten;
-
-VI.- Intervenir en la designación de representante del Ejecutivo en Junta Local de Caminos, Junta Estatal de Electrificación, Comité Administrativo del Programa Federal de Construcción de Escuelas y demás dependencias federales en las que tenga intervención el Gobierno del Estado, así como en los Consejos de Planeación municipales; y
-
-VII.- Las demás atribuciones que le fijen las leyes, los reglamentos y el Gobernador.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 DEL DEPARTAMENTO DE AGRICULTURA
 
 ###### ARTICULO 52.
 
-Corresponde al Departamento de Agricultura:
-
-I.- Todos los aspectos referentes a tierras, su conservación, mejoramiento y tenencia, con las restricciones que le imponen las leyes federales y estatales;
-
-II.- Todo lo correspondiente a aguas de jurisdicción estatal. Su aprovechamiento, distribución y reglamentación,
-
-III.- La planeación de obras de riego;
-
-IV.- El fomento en todos sus aspectos de los cultivos agrícolas, frutícolas y forestales, procurando la diversificación de éstos y el mejor uso de la tierra;
-
-V.- El fomento en todos sus aspectos agrofrutícolas y forestales, incluyendo la conservación de suelos, sanidad vegetal, etc.;
-
-VI.- Impulsar el crédito, el seguro agrícola y la diversificación e industrialización agrícola;
-
-VII.- Cooperar con la Federación, auxiliándola en su política forestal y campaña contra las plagas, etc.;
-
-VIII.- Fomentar las industrias agrícolas, forestales y frutícolas;
-
-IX.- Orientar y vigilar el funcionamiento de las asociaciones de productores agrícolas, forestales y frutícolas;
-
-X.- Proponer las medidas necesarias para la protección del comercio agrícola de primera mano;
-
-XI.- Fomentar la enseñanza agrícola en todas sus formas; escuelas, campos experimentales, divulgación técnica, exposiciones, etc.;
-
-XII.- Controlar y fomentar los servicios agrícolas que establezca el Estado, tales como distribución de semillas mejoradas y de árboles frutales, centrales de maquinaria, etc.;
-
-XIII.- Controlar y administrar las propiedades rústicas que pertenezcan al Estado;
-
-XIV.- Controlar y vigilar el funcionamiento de las colonias organizadas al amparo de la legislación local; asesorar y vigilar el funcionamiento administrativo de los mancomunes y heredades pro indiviso, etc.;
-
-XV.- Las demás que le confieran las leyes, los reglamentos y el Gobernador.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 DEL DEPARTAMENTO DE GANADERIA
 
 ###### ARTICULO 53.
 
-Corresponde al Departamento de Ganadería:
-
-I.- El fomento en todos sus aspectos de la ganadería, incluyendo la conservación de suelos, sanidad pecuaria, registro ganadero y demás actividades conexas;
-
-II.- Impulsar el crédito y el seguro ganadero;
-
-III.- Cooperar con la Federación auxiliándola en el desarrollo de las campañas contra epizootias;
-
-IV.- Vigilar por que se cumplan las disposiciones sanitarias federales cuando así le correspondan;
-
-V.- Fomentar las industrias ganaderas;
-
-VI.- Orientar y vigilar el funcionamiento de las asociaciones ganaderas;
-
-VII.- Prestar asesoramiento técnico para el desarrollo e incremento de la ganadería en todos sus aspectos;
-
-VIII.- Fomentar la enseñanza pecuaria en todas sus formas; escuelas, campos experimentales, divulgación técnica, exposiciones, inseminación artificial, etc;
-
-IX.- Controlar y vigilar el funcionamiento de las colonias ganaderas organizadas al amparo de la legislación local; y
-
-X.- Las demás que le confieran las leyes, los reglamentos y el Gobernador.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 DIRECCION DE DESARROLLO ECONOMICO DEL ESTADO
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
-
 ###### ARTICULO 54.
 
-Corresponde a la Dirección de Desarrollo Económico del Estado:
-
-I.- Actuar como entidad supraordenadora y coordinadora de las facultades que este Código otorga a los Departamentos de Agricultura y Ganadería tratándose de inversiones en materia agropecuaria.
-
-II.- Asesorar al Ejecutivo del Estado en materia de planeación y programación económica.
-
-III.- Elaborar y estudiar los proyectos de inversión a efecto de evaluar su impacto en la economía estatal.
-
-IV.- Promover, fomentar y realizar por sí misma o conjuntamente con otras entidades públicas, sociales o privadas, inversiones en las áreas industrial, minera, turística y agropecuaria.
-
-V.- Organizar y dirigir la propaganda relativa al Desarrollo Económico.
-
-VI.- Establecer un sistema integral de información y estadística.
-
-VII.- Establecer sistemas de control, evaluación de avances y resultados en las inversiones a que se refiere la fracción IV de este artículo, y
-
-VIII.- Las demás atribuciones que le otorgue el orden jurídico.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 DEL DEPARTAMENTO ADMINISTRATIVO
 
 ###### ARTICULO 55.
 
-Corresponde al Departamento Administrativo:
-
-I.- Previo acuerdo con el Oficial Mayor de Gobierno, despachar todos los asuntos que se relacionen con las funciones específicas de la Oficialía Mayor, y con las otras Dependencias del Ejecutivo en lo que le corresponda;
-
-II.- Supervisar los trabajos de las Secciones Contaduría, Personal, Inspección Administrativas, Inventarios, correspondencia y Archivo, Proveeduría General del Estado e Intendencia, procurando que las funciones encomendadas a las mismas se realicen oportuna y correctamente;
-
-III.- Las demás facultades que le asignen las leyes, los reglamentos y el Gobernador.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 DE LA DIRECCION GENERAL DE TRANSITO
 
 ###### ARTICULO 56.
 
-Corresponde a la Dirección General de Tránsito:
-
-I.- Cumplir y hacer cumplir las disposiciones de la Ley General de Tránsito, los reglamentos que se elaboren y los acuerdos del Ejecutivo del Estado, en lo conducente al servicio de tránsito;
-
-II.- Promover todas las medidas que se juzguen pertinentes para la mejor organización del servicio de tránsito;
-
-III.- Conocer de las solicitudes para el otorgamiento de concesiones del servicio público de transporte de pasajeros y carga en las carreteras y caminos dependientes del Estado, cuya resolución definitiva corresponde al Gobernador del Estado;
-
-IV.- Las demás atribuciones que le fijen las leyes, los reglamentos y el Gobernador.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 DE LA DIRECCION GENERAL DEL NOTARIADO
 
 ###### ARTICULO 57.
 
-Corresponde a la Dirección General del Notariado:
-
-I.- Atender todas las cuestiones de la fe pública del Estado, relativas al ejercicio del notariado;
-
-II.- Vigilar la función notarial a través de los funcionarios que prevea la ley;
-
-III.- Sancionar las faltas administrativas en que incurran los notarios y personas que desempeñen la función notarial por ministerio de ley;
-
-IV.- Las demás atribuciones que señalen las leyes, los reglamentos y el Gobernador.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 DE LA OFICINA CENTRAL DEL REGISTRO PUBLICO DE LA PROPIEDAD
 
 ###### ARTICULO 58.
 
-Corresponde a la Oficina Central del Registro Público de la Propiedad:
-
-I.- Atender todas las cuestiones de la fe pública registral del Estado;
-
-II.- Vigilar el funcionamiento de las oficinas registrales de la propiedad;
-
-III.- Sancionar las faltas administrativas en que incurran los registradores y personas que desempeñen la función registral por ministerio de ley;
-
-IV.- Las demás atribuciones que señalen las leyes, los reglamentos y el Gobernador.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 DE LA COMISION AGRARIA MIXTA
 
 ###### ARTICULO 59.
 
-Corresponde a la Comisión Agraria Mixta el desempeño de todas las funciones que le confieren el artículo 27 de la Constitución Federal, la Ley Federal de Reforma Agraria y las demás leyes sobre la materia.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 DEL SERVICIO METEOROLOGICO Y GEOGRAFICO
 
 ###### ARTICULO 60.
 
-Corresponde al Servicio Meteorológico y Geográfico del Estado de Chihuahua:
-
-I.- Proporcionar a las Dependencias del Gobierno del Estado toda la información necesaria técnica y científica sobre meteorología y geografía;
-
-II.- El establecimiento, operación y mantenimiento de estaciones meteorológicas en toda le Entidad;
-
-III.- Elaborar toda clase de estudios meteorológicos, climatológicos y geográficos de la Entidad;
-
-IV.- Elaborar boletines informativos diarios, semanales, mensuales y anuales;
-
-V.- Proporcionar información y asesoramiento técnico en meteorología y geografía a todas las instituciones de carácter oficial y particular que se dediquen a la agricultura, la ganadería, comunicaciones aéreas, construcción, etc.;
-
-VI.- Dar debido cumplimiento a las disposiciones internacionales de intercambio de datos meteorológicos;
-
-VII.- Cooperar con instituciones científicas nacionales e internacionales en la investigación y estudios sobre la meteorología y geografía en la Entidad;
-
-VIII.- Las demás atribuciones que le señalen las leyes, los reglamentos y el Gobernador.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 25 DE AGOSTO DE 1979)</small>
 
 DE LA IMPULSORA ESTATAL DE LA PEQUEÑA Y MEDIANA MINERIA
 
-> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 1979)</small>
-
-ARTICULO 60 BIS.- Corresponde a la Impulsora Estatal de la Pequeña y Mediana Minería:
-
-I.- Asesorar al Ejecutivo del Estado en materia minera.
-
-II.- Estudiar y elaborar los proyectos de inversión en materia minera en los que participe el Gobierno del Estado.
-
-III.- Promover y fomentar la exploración, explotación y beneficio de los minerales.
-
-IV.- Las demás que le confieran las leyes.
+ARTICULO 60 BIS.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ### CAPITULO V. DEL DESPACHO Y FIRMA DE LOS ASUNTOS
 
 ###### ARTICULO 61.
 
-Las cuestiones fundamentales de la administración o las que impliquen inversión de fondos públicos, sólo podrán ser resueltas por acuerdo expreso del Gobernador.
-
-Las de trámite indiscutible y las fundamentales o de inversión de fondos previstas expresamente por la ley u ordenadas por acuerdo general del Gobernador, serán resueltas y despachadas por los titulares de las diversas Dependencias, dentro de sus respectivas esferas de acción, observando en lo conducente lo puesto en los artículos siguientes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 62.
 
-El Gobernador firmará, en unión del Secretario General de Gobierno:
-
-I.- Las leyes y decretos que reciba del Congreso para su promulgación y publicación, así como los reglamentos, acuerdos y disposiciones de carácter general del propio Ejecutivo, que por ley no estén facultados para firmar otros funcionarios;
-
-II.- Los acuerdos y comunicaciones que se dirijan a los jefes de los poderes federales, a los secretarios de estado y a los titulares de los otros poderes del Estado y de otras entidades federativas; a los representantes de gobiernos extranjeros y las comunicaciones de cortesía con dichos gobiernos;
-
-III.- Los acuerdos marginales y memoranda que contengan órdenes expresas para sus subalternos, a fin de que éstos puedan darles plena efectividad o salvar su responsabilidad personal;
-
-IV.- Los demás expresamente previstos por las leyes y los reglamentos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 63.
 
-El titular de la Secretaría General de Gobierno en el despacho de los negocios tendrá las siguientes atribuciones:
-
-I.- Dar cuenta al Gobernador, para su resolución, de todos aquellos asuntos que por su importancia ameriten la intervención directa del Jefe del Poder Ejecutivo;
-
-II.- Acordar con los Jefes o Directores de las otras Dependencias todos aquellos asuntos que por su notoria importancia deban tratarse directamente o aquéllos en que los titulares de esas Dependencias hayan querido salvar su exclusiva responsabilidad.
-
-III.- Coordinar las actividades de las demás Dependencias del Ejecutivo y dirimir los conflictos de competencia que llegaren a presentarse.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 64.
 
-El Secretario General de Gobierno firmará:
-
-I.- Todos los acuerdos, iniciativas de ley y comunicaciones que sean suscritos por el Gobernador;
-
-II.- En unión del Jefe o Director de la respectiva Dependencia; todos los acuerdos o comunicaciones que por su importancia fundamental hayan sido sometidos a su conocimiento;
-
-III.- Los asuntos de su propia Dependencia; y
-
-IV.- Los demás acuerdos o comunicaciones que expresamente prevengan las leyes o los reglamentos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 65.
 
-El Tesorero General del Estado ajustará su actuación a las disposiciones de su ramo y acordará directamente con el Gobernador para la resolución de los negocios que así lo ameriten.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 66.
 
-La Oficialía Mayor tendrá superioridad jerárquica exclusivamente en los asuntos de su competencia sobre las otras Dependencias del Ejecutivo con excepción del Secretario General y el Tesorero. El despacho de los referidos negocios le impondrá las siguientes atribuciones:
-
-I.- Dar cuenta al Gobernador y, en su caso, al Secretario General para su acuerdo, de todos los asuntos cuya tramitación le corresponda, que por su importancia o por disposición de la ley, ameriten la intervención de dichos funcionarios;
-
-II.- Acordar con los jefes o Directores de las otras Dependencias del Ejecutivo, en los demás casos, los asuntos a que se contraen los artículos anteriores; y
-
-III.- Despachar los asuntos del Secretario General de Gobierno en ausencia de éste.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 67.
 
-El Oficial Mayor firmará:
-
-I.- Todos los acuerdos, nombramientos y órdenes correspondientes al Departamento Administrativo y a sus diversas Oficinas y Secciones;
-
-II.- En las faltas temporales del Secretario General de Gobierno lo que a éste corresponde firmar; y
-
-III.- En las faltas temporales del Oficial Mayor de Gobierno, el despacho y firma de los asuntos que a él competen corresponde al Jefe del Departamento Administrativo. También encontrándose en funciones el titular podrá delegar en aquél la firma de los asuntos que estime convenientes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 68.
 
-El Procurador General de Justicia despachará con base en las disposiciones que rigen su actuación y tendrá acuerdo directo con el Gobernador en los asuntos que así lo ameriten.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 69.
 
-Los Directores y Jefes de Dependencias acordarán los asuntos de su ramo con el Gobernador, el Secretario General y el Oficial Mayor, conforme a las disposiciones que anteceden.
-
-Los asuntos de mero trámite los acordarán con los encargados de las Oficinas o Secciones de sus respectivas Dependencias.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 70.
 
-Los Directores, Jefes y en su defecto los Subdirectores y Subjefes de las otras Dependencias firmarán:
-
-I.- Todos los acuerdos y comunicaciones de trámite indiscutible, o bien, que se refieran a cuestiones fundamentales previamente resueltas por acuerdo del Gobernador;
-
-En este último caso, las órdenes también deberán ir firmadas por el Secretario General, por el Tesorero o el Oficial Mayor, según proceda conforme a la ley.
-
-II.- Los demás acuerdos y comunicaciones que prevengan las leyes o que por su escasa significación no ameriten acuerdo expreso de los superiores jerárquicos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 71.
 
-En casos extraordinarios o cuando exista duda sobre la competencia de una Dependencia, la Secretaría General resolverá previo acuerdo del Gobernador, a cual de ellas corresponde el despacho del asunto de que se trate.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 72.
 
-Habrá un Periódico Oficial en el cual se publicarán los actos de los Poderes del Estado, de los Municipios y de los particulares que requieran tal requisito conforme a las leyes y los reglamentos.
-
-La periodicidad con que deba publicarse y todo lo relativo a su organización, funcionamiento y control serán materia del reglamento que dicte el Ejecutivo. La oficialía Mayor intervendrá por lo que se refiere a esta publicación, únicamente en el aspecto administrativo, para asegurar el eficaz desarrollo de sus labores, de acuerdo con las instrucciones técnicas y legales que dicte la Dirección de Gobernación.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ## TITULO CUARTO. DE LAS RELACIONES DEL ESTADO CON SUS TRABAJADORES
 
@@ -11031,8 +10591,6 @@ ASENTAMIENTOS HUMANOS
 
 ### CAPITULO II. PROGRAMA DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
-
 ###### ARTICULO 1460.
 
 El objeto de este Título es ordenar el desarrollo urbano del Estado, la conservación y mejoramiento de sus áreas urbanas y el establecimiento de las normas conforme a las que el Gobierno de la Entidad ejercerá sus atribuciones para determinar los usos, destinos y reservas de dichas áreas.
@@ -11115,117 +10673,41 @@ Los notarios públicos y los funcionarios que actúen por receptoría sólo podr
 
 ###### ARTICULO 1466.
 
-El Ejecutivo será la autoridad competente para planear y ordenar los destinos, usos y reservas de las áreas urbanas y el desarrollo de las mismas y ejercerá éstas y las demás facultades que le confiere este Título y disposiciones jurídicas aplicables por conducto del Organismo Público descentralizado denominado Programa de Desarrollo Urbano del Estado de Chihuahua.
-
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 1467.
 
-El Programa de Desarrollo Urbano del Estado de Chihuahua es un organismo público descentralizado con personalidad, competencia y patrimonio propios, con las siguientes atribuciones:
-
-I.- Adquirir y enajenar bienes para el cumplimiento de su objeto, particularmente reservas territoriales para ofrecer suelo urbano a la población de bajos ingresos;
-
-II.- Regularizar los asentamientos humanos y urbanizar los que sean susceptibles de ello;
-
-III.- Promover la vivienda progresiva, la participación de la comunidad en la autoconstrucción de viviendas y la integración de aquella para desarrollo urbano; y
-
-IV.- Las demás que le otorguen otras disposiciones jurídicas.
-
-En los casos de las fracciones I y II de este Artículo, el Programa de Desarrollo Urbano hará constar las operaciones comprendidas en las mismas, en documento privado ante dos testigos y ratificadas las firmas ante Notario Público o Registrador de la Propiedad.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 1468.
 
-El patrimonio del Organismo se integrará con:
-
-I.- Las aportaciones de los Gobiernos Estatal, Federal y Municipal, en bienes y servicios;
-
-II.- Los remanentes que resulten de la realización de sus actividades; y
-
-III.- Los demás bienes y servicios que de cualquier otra fuente provengan.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 1469.
 
-La administración del Organismo estará a cargo de un Consejo Directivo y de un Director.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 1470.
 
-El Consejo Directivo es la autoridad superior del Organismo y se integrará en la siguiente forma:
-
-I.- Por el Gobernador del Estado o por la persona en quien delegue su representación, quien fungirá como Presidente;
-
-II.- Por el Director de Gobernación;
-
-III.- Por el Director de Pensiones Civiles;
-
-IV.- Por el Jefe del Departamento de Comunicaciones y Obras Públicas;
-
-V.- Por el Presidente de la Junta Central de Aguas y Saneamiento;
-
-VI.- Por el Jefe de los Servicios Coordinados de Salubridad y Asistencia; y
-
-VII.- Por el Presidente Municipal cuya circunscripción territorial sea objeto del acuerdo correspondiente del Consejo Directivo.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 1471.
 
-Son atribuciones del Consejo Directivo:
-
-I.- Elaborar el Reglamento Interior del Organismo;
-
-II.- Aprobar los programas y proyectos de trabajo;
-
-III.- Dictar los acuerdos que regulen las actividades del Organismo;
-
-IV.- Aprobar los presupuestos, estados financieros y balances anuales;
-
-V.- Aprobar los informes del Director; y
-
-VI.- Las demás que se deriven de las anteriores y sean materia de Consejo.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 1472.
 
-El Director será designado y removido por el Gobernador del Estado y tendrá las siguientes facultades:
-
-I.- Ejecutar los acuerdos del Consejo;
-
-II.- Asistir a las sesiones del Consejo;
-
-III.- Tramitar y despachar los asuntos técnicos y administrativos;
-
-IV.- Rendir al Consejo, en el mes de agosto de cada año, informe de las actividades;
-
-V.- Presentar para su aprobación al Consejo el presupuesto, los estados financieros y los balances anuales;
-
-VI.- Proporcionar al Consejo los programas y proyectos de trabajo;
-
-VII.- Nombrar y remover al personal administrativo;
-
-VIII.- Representar al Organismo con facultades de mandatario general, para pleitos y cobranzas, actos de administración y de dominio, incluyendo las facultades que requieran cláusula especial. Para actos de dominio se requerirá acuerdo previo del Consejo;
-
-IX.- Otorgar y revocar mandatos generales y especiales con la limitación establecida en la fracción anterior; y
-
-X.- Las que deriven de las anteriores o señale el Reglamento Interior.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### ARTICULO 1473.
 
-La actividad del Organismo no causará contribuciones al fisco del Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
+### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 #### SECCION PRIMERA. PLAN ESTATAL
 
@@ -11445,7 +10927,7 @@ IX.- Las demás que les otorguen las disposiciones legales relativas.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
+### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11577,9 +11059,7 @@ Los predios de las zonas incluidas en los artículos 1495 y 1500 de este Título
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
-
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
+#### SECCION SEXTA. DEL MEJORAMIENTO
 
 ###### ARTICULO 1502.
 
@@ -11591,11 +11071,11 @@ Para los efectos de este Título se entiende por estructura vial y sistema de tr
 
 En todo lo relativo a la estructura vial y sistema de transporte en el Estado, se estará a lo dispuesto por este Código, la Ley de Tránsito y el Código Municipal.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE ENERO DE 1984)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
+#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 1504.
 
@@ -11693,7 +11173,7 @@ En los casos del artículo anterior, a solicitud del ayuntamiento el Programa de
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
+#### SECCION QUINTA. DE LA VIVIENDA
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11743,9 +11223,9 @@ II.- A la introducción de los servicios públicos.
 
 Una vez determinados los jefes de familia beneficiados y cubierto el precio, la Presidencia Municipal otorgará los títulos de propiedad o el Programa de Desarrollo Urbano del Estado los documentos a que se refiere el Artículo 1467 de este Título, los que deberán inscribirse en el Registro Público de la Propiedad respectivo sin causar derechos al fisco del Estado.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
+#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11791,7 +11271,7 @@ Para la construcción de viviendas deberá mediar solicitud del interesado ante 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION QUINTA. DE LA VIVIENDA
+#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11833,13 +11313,11 @@ Los propietarios y poseedores de los predios incluidos en los programas de mejor
 
 En el caso de que los propietarios o poseedores no cumplan con las obligaciones o convenios indicados por los dos artículos anteriores, el Ejecutivo del Estado podrá proceder a la expropiación por causa de utilidad pública.
 
-> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-DECIMA PRIMERA PARTE
+#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
 
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
-
-#### SECCION SEXTA. DEL MEJORAMIENTO
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1529.
 
@@ -11889,11 +11367,11 @@ V.- Medios para la satisfacción de la demanda; y
 
 VI.- Régimen financiero para la ejecución de la obra.
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+
+### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
+
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
-
-### CAPITULO VII. DE LAS CONURBACIONES
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1533.
 
@@ -11909,7 +11387,7 @@ Para la conservación del patrimonio a que se refiere el artículo anterior, el 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
+### CAPITULO VII. DE LAS CONURBACIONES
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11961,7 +11439,7 @@ Se atenderá el crecimiento de los centros de población mediante la determinaci
 
 A partir de la publicación de los planes de desarrollo urbano prevista en el artículo 1480, las áreas y predios en ellos comprendidos quedarán sujetos a las normas de la misma.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE ENERO DE 1984)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -12009,7 +11487,11 @@ Cuando el Gobernador del Estado haya hecho una declaratoria de conurbación, dis
 
 Las declaratorias de conurbación para que surtan sus efectos serán publicadas por una sola vez en el Periódico Oficial del Estado y en dos periódicos de mayor circulación en la localidad que corresponda, debiendo inscribirse en la Oficina del Registro Público de la Propiedad respectiva.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+
+DECIMA PRIMERA PARTE
+
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
 # LIBRO UNICO. SERVICIOS PUBLICOS DE AGUA POTABLE Y SANEAMIENTO
 
@@ -13756,3 +13238,15 @@ ARTICULO TRANSITORIO.- El presente decreto entrará en vigor a partir del día s
 P.O. 8 DE MARZO DE 1986.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
+
+P.O. 1 DE OCTUBRE DE 1986.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+###### ARTICULO 1o.
+
+ESTA LEY ENTRARÁ EN VIGOR EL DÍA CUATRO DE OCTUBRE DE MIL NOVECIENTOS OCHENTA Y SEIS.
+
+###### ARTICULO 2o.
+
+SE DEROGAN LOS ARTÍCULOS DEL 1o. AL 72 Y DEL 1466 AL 1473 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO.
