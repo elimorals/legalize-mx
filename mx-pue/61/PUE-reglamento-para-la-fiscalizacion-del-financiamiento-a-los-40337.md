@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-para-la-fiscalizacion-del-financiamiento-a-los-40337
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-21"
-last_updated: "2004-07-21"
+last_updated: "2005-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO PARA LA FISCALIZACION DEL FINANCIAMIENTO A LOS PARTIDOS POLITICOS ACREDITADOS O REGISTRADOS ANTE EL INSTITUTO ELECTORAL DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 2005.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el miércoles 21 de julio de 2004.
 
@@ -127,7 +127,7 @@ II. Vigilar que los recursos otorgados a los partidos políticos y/o coaliciones
 
 III. Ordenar visitas de verificación de acuerdo a su competencia, de manera fundada y motivada a los Órganos Internos responsables de la administración de los recursos de los partidos políticos y/o coaliciones, así como de los partidos políticos que la conformen, con el fin de corroborar el cumplimiento de sus obligaciones y la veracidad de sus informes, previa autorización del Consejo General;
 
-IV. Conocer los manuales de operaciones contables y organizacional administrativo de los partidos políticos y/o coaliciones;
+IV. Conocer los manuales de operaciones contables y organizacional administrativa de los partidos políticos y/o coaliciones;
 
 V. Aplicar en sus actos las normas y procedimientos de auditoría aceptados por el Instituto Mexicano de Contadores Públicos A.C;
 
@@ -330,6 +330,16 @@ Los informes anuales corresponderán al periodo del primer día del mes de enero
 ###### ARTÍCULO 19.
 
 Los informes de gastos de campaña, deberán ser presentados a más tardar dentro de los sesenta y cinco días siguientes, contados a partir del día siguiente en que concluyan las campañas electorales.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2005)</small>
+
+ARTÍCULO 19 BIS.- En el supuesto que los partidos presenten de forma extemporánea a la Dirección los informes anuales y de gastos de campaña, se tendrá por precluida la etapa de revisión que realiza la Dirección, procediendo esta última a remitir dichos informes a la Comisión, quien realizará la revisión correspondiente.
+
+Cabe resaltar que la adición a dicho documento permitirá una mejor comprensión de su contenido, observando en todo momento los principios de legalidad y certeza, actuando con estricto apego a las disposiciones del Código Comicial.
+
+Además, es importante resaltar que la disposición normativa propuesta permitirá que las etapas del proceso de fiscalización concluyan de manera adecuada, haciendo más ágil la actividad de revisión y otorgando mayor seguridad jurídica a los institutos políticos, pues la referida adición garantiza el respeto al derecho de audiencia de los mismos sin afectar el desarrollo del proceso de fiscalización, unificando además las posibles interpretaciones que sobre el particular se pudieran presentar.
+
+De manera que, este Órgano Central estima que lo conducente es adecuar el Reglamento de Fiscalización del Financiamiento a los Partidos Políticos acreditados o registrados ante el Instituto Electoral del Estado, a través de la adición del artículo 19 Bis, lo que permitirá contar con un Reglamento adecuado y coherente con las disposiciones que tanto la Constitución del Estado, como el Código de la materia prevén sobre la fiscalización de los recursos de los partidos políticos.
 
 ###### ARTÍCULO 20.
 
@@ -900,3 +910,27 @@ FORMATOS E INSTRUCTIVOS
 REGLAMENTO PARA LA FISCALIZACION DE FINANCIAMIENTO A LOS PARTIDOS POLITICOS ACREDITADOS O REGISTRADOS ANTE EL INSTITUTO ELECTORAL DEL ESTADO
 
 > <small>N. DE E. VEASE FORMATOS EN LA TERCERA SECCION DEL P.O. DE 21 DE JULIO DE 2004, DE LA PAGINA 24 A LA 84.</small>
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 3 DE ENERO DE 2005.
+
+SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL REGLAMENTO.
+
+CONSIDERANDO
+
+.
+
+4.-.
+
+La adición al mencionado Reglamento estará en vigor al día siguiente de su aprobación.
+
+.
+
+ACUERDO
+
+PRIMERO.- El Consejo General del Instituto Electoral del Estado, aprueba la adición al Reglamento para la Fiscalización del Financiamiento a los Partidos Políticos acreditados o registrado ante el Instituto Electoral del Estado, en términos de lo narrado en el considerando 4 del presente Acuerdo.
+
+SEGUNDO.- El Consejo General del Instituto Electoral del Estado faculta al Secretario General del Instituto Electoral del Estado a efecto de que realice las modificaciones al Reglamento de Fiscalización del Financiamiento a los Partidos Políticos acreditados o registrados ante el Instituto Electoral del Estado y se ejecute el presente Acuerdo, en términos del considerando 5 de este documento.
+
+TERCERO.- Publíquese el presente Acuerdo en el Periódico Oficial del Estado.
