@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-instituciones-de-fianzas-443"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1950-12-29"
-last_updated: "1990-01-03"
+last_updated: "1990-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=443&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "1950-12-26"
 
 LEY FEDERAL DE INSTITUCIONES DE FIANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ENERO DE 1990.
-
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO SEGUNDO DEL DECRETO DE REFORMAS DE LA PRESENTE LEY PUBLICADO EN EL D.O.F. 3 DE ENERO DE 1990, SE REFORMAN LOS ARTICULOS DE LA LEY FEDERAL DE INSTITUCIONES DE FIANZAS, NO INCLUIDOS EN EL ARTICULO PRIMERO DE ESTE DECRETO, EN LOS QUE SE HAGA MENCION A LA COMISION NACIONAL BANCARIA Y DE SEGUROS PARA EL SOLO EFECTO DE SUSTITUIR EL NOMBRE DEL CITADO ORGANISMO, POR EL DE "COMISION NACIONAL DE SEGUROS Y FIANZAS".</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JULIO DE 1990.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1950.
 
@@ -281,13 +279,19 @@ Las personas que en los términos de esta fracción, lleguen a ser propietarias 
 
 IV.- Para participar en asambleas de accionistas de instituciones de fianzas o de sociedades de las comprendidas en el inciso b) de la fracción anterior, deberán cumplirse los siguientes requisitos:
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+
 a).- Manifestar por escrito el carácter con el que se concurre, sea éste el de accionistas, mandatario, comisionista, fiduciario o cualquier otro. Los mandatarios, comisionistas o cualquier tipo de representantes no podrán en ningún caso participar en asambleas en nombre propio;
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 b).- Manifestar por escrito el nombre de la o las personas a quienes pertenezcan las acciones que representen y señalar invariablemente el número de acciones que a cada una corresponda, cuando se asista con el carácter de mandatario, comisionista o cualquier tipo de representante, así como en los demás casos que determine la Comisión Nacional de Seguros y Fianzas, y.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+
 c).- Exhibir, en su caso, el certificado a que se refiere el último párrafo de la fracción anterior.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 Los escrutadores estarán obligados a cerciorarse de la observancia de lo dispuesto en esta fracción e informar sobre ello a la asamblea, lo que se hará constar en el acta respectiva.
 
@@ -343,6 +347,8 @@ XII.- La disolución y liquidación se regirá por lo dispuesto en el Capítulo 
 
 3.- La Comisión Nacional de Seguros y Fianzas, podrá solicitar la suspensión de pagos en las condiciones de la Ley de Quiebras y de Suspensión de Pagos.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+
 En ningún momento podrán participar en forma alguna en el capital de estas sociedades, gobiernos o dependencias oficiales extranjeros, entidades financieras del exterior, o agrupaciones de personas extranjeras, físicas o morales, sea cual fuere la forma que revistan, directamente o a través de interpósita persona.
 
 > <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 1990)</small>
@@ -353,57 +359,9 @@ La Secretaría de Hacienda y Crédito Público podrá, discrecionalmente, autori
 
 Todo extranjero, que en el acto de la constitución o en cualquier tiempo ulterior, adquiera un interés o participación social en la institución se considerará, por ese simple hecho, como mexicano respecto de uno y otra, y se entenderá que conviene en no invocar la protección de su gobierno, bajo la pena, en caso de faltar a su convenio de perder dicho interés o participación en beneficio de la Nación.
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
-
 ###### ARTICULO 15 Bis.
 
-Las instituciones de fianzas no podrán utilizar denominaciones iguales o semejantes a las de otros intermediarios financieros, ni ostentarse de cualquier manera como integrantes de grupos financieros, salvo cuando éstos se encuentren constituidos y funcionen conforme a las bases siguientes:
-
-I.- Sólo podrán estar integrados con almacenes generales de depósito, arrendadoras financieras, casas de bolsa, casas de cambio, empresas de factoraje financiero, instituciones de fianzas, instituciones de seguros, sociedades operadoras de sociedades de inversión, así como con cualquier otra clase de sociedad que determine la Secretaría de Hacienda y Crédito Público.
-
-Cada grupo deberá contar por lo menos con tres de los intermediarios antes citados, que no sean sociedades operadoras de sociedades de inversión.
-
-No podrán participar en un mismo grupo dos o más intermediarios financieros de una misma clase, salvo sociedades operadoras de sociedades de inversión, también podrán participar dos o más instituciones de seguros, cuando se trate de instituciones autorizadas para operar en ramos distintos.
-
-Los intermediarios financieros en cuyo capital participen instituciones de crédito, sólo podrán participar en un grupo financiero con autorización de la Secretaría de Hacienda y Crédito Público;
-
-II.- Las acciones con derecho a voto, que representen por lo menos el 51% del capital pagado de cada uno de los integrantes del grupo, deberán ser propiedad de una misma sociedad anónima controladora que tenga por objeto adquirir tales acciones;
-
-III.- Ninguna persona física o moral podrá adquirir, directa o indirectamente, mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, el control de más del quince por ciento del capital pagado de una sociedad controladora.
-
-Este límite también se aplicará a las personas que, de acuerdo con las disposiciones de carácter general que expida la Secretaría de Hacienda y Crédito Público mencionadas en la fracción X siguiente, deban considerarse para estos efectos como una sola persona:
-
-IV.- En ningún momento podrán participar en forma alguna en el capital de las sociedades controladoras, directamente o a través de interpósita persona:
-
-a).- Gobiernos o dependencias oficiales extranjeros, ni en general, personas extranjeras, físicas o morales;
-
-b).- Instituciones de crédito ni cualquier otro intermediario financiero, incluso los que formen parte del respectivo grupo; ni
-
-c).- Personas morales mexicanas, salvo las que autorice la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, que se dictarán con vistas a favorecer la capitalización de las sociedades controladoras y siempre que dichas personas morales no participen simultáneamente en el capital de intermediarios financieros, ni éstos en el capital de las personas morales de referencia.
-
-V.- Salvo la excepción señalada en el párrafo siguiente, los intermediarios financieros que formen parte de uno de estos grupos, deberán abstenerse de participar en el capital de otros intermediarios financieros, incluso en el capital de los otros integrantes del grupo.
-
-Las instituciones de seguros y las instituciones de fianzas podrán participar, de conformidad con las disposiciones aplicables, en el capital de otras instituciones de este mismo tipo;
-
-VI.- Las personas que adquieran acciones en contravención de lo dispuesto en las fracciones III a V anteriores deberán venderlas, dentro de los diez días hábiles siguientes a la fecha en que así lo requiera la Secretaría de Hacienda y Crédito Público.
-
-Si transcurrido el plazo citado no se regulariza la inversión, la sociedad emisora procederá a reembolsar las acciones adquiridas en contravención, al cincuenta por ciento de su valor en libros según el último estado financiero aprobado. Las acciones así reembolsadas deberán recolocarse dentro del plazo que para tal efecto determine la propia Secretaría;
-
-VII.- La sociedad controladora y cada uno de los intermediarios financieros participantes deberán suscribir un convenio conforme al cual la primera responderá subsidiaria, solidaria e ilimitadamente por las pérdidas de todos y de cada uno de dichos intermediarios financieros. La referida responsabilidad deberá estar prevista expresamente en los estatutos de la sociedad controladora.
-
-En el convenio citado también deberá señalarse expresamente que cada uno de los intermediarios financieros del grupo no responderán por las pérdidas de la sociedad controladora, ni de las de los demás participantes del grupo;
-
-VIII.- la (sic) escritura constitutiva de la sociedad controladora, los convenios respectivos, así como las modificaciones a dichos documentos, deberán someterse a la previa aprobación de la Secretaría de Hacienda y Crédito Público, a efecto de revisar si los mismos se ajustan a lo señalado en el presente artículo y a las disposiciones generales mencionadas en la fracción X siguiente.
-
-Una vez otorgada dicha aprobación, la escritura constitutiva y, en su caso, sus reformas deberán ser inscritas en el Registro de Comercio, sin que sea preciso mandamiento judicial ni de alguna otra autoridad;
-
-IX.- Las sociedades controladoras previstas en la fracción II anterior, estarán sujetas a la inspección y vigilancia de la Comisión Nacional de Valores; y
-
-X.- La Secretaría de Hacienda y Crédito Público expedirá las reglas generales que regulen, de conformidad con las bases señaladas en el presente artículo, la constitución y operación de grupos financieros no bancarios.
-
-Al ejercer las facultades que le confiere este artículo, la propia Secretaría escuchará la previa opinión del Banco de México y de las Comisiones Nacionales Bancaria, de Seguros y Fianzas y de Valores.
-
-Las instituciones de fianzas también podrán ostentarse como integrantes de consorcios de los mencionados en el artículo 9o. de esta Ley.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS, D.O.F. 18 DE JULIO DE 1990)
 
 (REUBICADO, D.O.F. 29 DE DICIEMBRE DE 1981)
 
@@ -1817,6 +1775,8 @@ V.- Multa por la violación por parte de las instituciones de fianzas, de las no
 
 a) Cuando las infracciones consistan en realizar operaciones prohibidas o en exceder los porcentajes máximos determinados por esta Ley, así como en no mantener los porcentajes mínimos que se exigen, serán penados con multa que se determinará sobre el importe de la operación y sobre el exceso o el defecto de los porcentajes fijados, respectivamente, sin exceder del 4% de las reservas de fianzas en vigor y de contingencia o del capital pagado, cuando el porcentaje no se refiera a aquéllas o se trate de operaciones prohibidas;
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+
 b) Cuando las infracciones no puedan determinarse conforme al párrafo anterior, se castigarán con multa hasta del 1% del capital pagado de la institución de fianzas;
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
@@ -2496,3 +2456,17 @@ Las infracciones cometidas con anterioridad a la vigencia de este Decreto se san
 ###### ARTICULO DECIMO SEGUNDO.
 
 La Secretaría de Hacienda y Crédito Público dispondrá, del término de un año, a partir de la vigencia del presente Decreto, para que en el orden administrativo establezca los procedimientos conducentes a su ejecución.
+
+D.O.F. 18 DE JULIO DE 1990.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan los artículos 15 bis de la Ley Federal de Instituciones de Fianzas, 29 bis de la Ley General de Instituciones de Seguros y 49 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito; así como las demás disposiciones que se opongan a lo dispuesto por esta Ley.
+
+.
