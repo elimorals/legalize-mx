@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-municipal-del-estado-de-michoacan-6115"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1988-12-31"
+last_updated: "1989-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6115&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1989.
 
 Ley publicada en Sección Segunda del Periódico Oficial del Estado de Michoacán, el sábado 31 de diciembre de 1983.
 
@@ -87,7 +87,9 @@ c) (DEROGADA, P.O. 29 DE DICIEMBRE DE 1986)
 
 Son sujetos de este impuesto:
 
-I.- Los propietarios, copropietarios y condóminos de predios;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1989)</small>
+
+I. Los propietarios, copropietarios, condóminos y poseedores de predios;
 
 II.- Los fideicomitentes y los fideicomisarios, según el caso;
 
@@ -129,13 +131,13 @@ I.- Tratándose de predios urbanos o rústicos, el mayor de los siguientes:
 
 a) El valor catastral;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1989)</small>
 
-b) El valor de la operación de transmisión de dominio o posesión, si es posterior al señalamiento del valor catastral. Este valor tendrá carácter provisional.
+b) El valor de la operación de transmisión de dominio si es posterior al señalamiento del valor catastral. Este valor tendrá carácter de provisional.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1989)</small>
 
-c) En ausencia del valor catastral, el valor del avalúo que al efecto ordene la Tesorería General del Estado donde se encuentre ubicado el predio, con base en la Ley de Catastro del Estado o el que en su caso practique perito autorizado.
+c) El valor del avalúo que al efecto practique la Tesorería General del Estado, donde se encuentre ubicado el predio, con base en la Ley de Catastro del Estado.
 
 > <small>(REFORMADA PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -253,11 +255,11 @@ IV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1988)
 
 La Tesorería Municipal determinará el monto del impuesto, de conformidad con las respectivas tasas o cuotas que al efecto establezca la Ley de Ingresos para los Municipios del Estado de Michoacán.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 17.
 
-Este impuesto es anual y se dividirá en seis partes iguales que se pagarán bimestralmente en los meses de enero, marzo, mayo, julio, septiembre y noviembre.
+Este impuesto es anual y se dividirá en seis partes iguales que se pagarán bimestralmente, dentro del bimestre que corresponda.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
@@ -519,11 +521,11 @@ lV. Tratándose de condominios, la deducción se hará por cada uno de los apart
 
 V. No se considerarán departamentos habitacionales los que, por sus características originales, se destinen a servicios domésticos o de portería, aún cuando se utilicen para otros fines.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 44.
 
-Los avalúos a que se refiere el artículo 42 de esta Ley, serán practicados por peritos que designe la autoridad competente, y no podrán tener una antigüedad mayor de seis meses desde la fecha de su formulación.
+Los avalúos a que se refiere el artículo 42 de esta Ley, no podrán tener una antigüedad mayor de seis meses desde la fecha de su formulación.
 
 Dichos avalúos deberán comprender los valores tanto del terreno como de las construcciones y demás accesorios que tuviere en su caso, los que por ningún motivo serán inferiores a los que se refiere la Ley de Catastro del Estado.
 
@@ -555,9 +557,9 @@ VIII. Croquis de localización del predio, con sus respectivos nombres de calle.
 
 IX. Los demás datos que exija la forma oficial en que deberán hacerse las declaraciones.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1989)</small>
 
-Si el acto o contrato transmitivo de dominio se hace constar en escritura otorgada en el Estado, la declaración será firmada por los interesados o por el Notario y presentada por este último en los términos de esta Ley.
+Si el acto o contrato transmitivo de dominio se hace constar en la escritura otorgada en el Estado, la declaración será firmada por los interesados o por el Notario y Presentada por este último en los términos de esta Ley.
 
 Si se trata de actos o contratos que se hagan constar en escritura otorgada fuera del Estado, la declaración será firmada por cualquier interesado, y a ella se acompañará testimonio de la escritura.
 
@@ -573,9 +575,13 @@ En los casos en que la transmisión de la propiedad se opere como consecuencia d
 
 A la declaración deberá anexarse, además de los documentos señalados en los párrafos anteriores en sus respectivos casos, una constancia que expida la oficina recaudadora correspondiente de que el propietario del inmueble objeto de la transmisión de dominio no tiene ningún adeudo en relación con el propio inmueble.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1989)</small>
 
-Asimismo deberá anexarse a la declaración el avalúo practicado por la autoridad catastral o perito valuador autorizado.
+La manifestación de terminación de la obra a que se refiere el artículo 55 de la Ley de Catastro del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1989)</small>
+
+Asimismo deberá anexarse a la declaración el avalúo practicado por la Tesorería General del Estado.
 
 Cuando lo estime necesario, la Tesorería Municipal podrá solicitar de los notarios públicos o de los declarantes, que le proporcionen una copia autorizada de la escritura en que se hubiera hecho constar la transmisión de dominio de que se trate.
 
@@ -585,7 +591,9 @@ Cuando lo estime necesario, la Tesorería Municipal podrá solicitar de los nota
 
 Las declaraciones a que se refiere el artículo anterior, se presentarán en las formas oficiales que aprueba la Tesorería Municipal, dentro del plazo de quince días hábiles contados a partir de:
 
-I. La fecha de firma de la escritura pública por los otorgantes o representantes legales, los testigos e intérpretes si los hubiere;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1989)</small>
+
+I. La fecha de firma de la escritura pública o privada por los otorgantes o representantes legales, los testigos e intérpretes si los hubiere;
 
 II. La fecha en que hubiere causado ejecutoria o estado la resolución judicial o se hubiere notificado la resolución administrativa;
 
@@ -619,7 +627,7 @@ Están exentos del pago de este impuesto, las adquisiciones de bienes inmuebles 
 
 Las transmisiones de Dominio de bienes inmuebles que se hagan constar en escritura pública o privada, los Notarios, Jueces, Corredores y demás Fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto de que se trata bajo su estricta responsabilidad, conforme lo dispuesto en este Capítulo.
 
-Los Fedatarios no podrán autorizar definitivamente ninguna escritura en la que hagan constar actos o contratos transmitivos de dominio de bienes inmuebles, si no han obtenido la constancia de no adeudo a que se refiere el artículo 45 de esta Ley y el avalúo correspondiente. Tampoco podrán autorizar definitivamente ninguna escritura en la que se hagan constar esta clase de actos o contratos, mientras los interesados no les entreguen el comprobante de pago del impuesto que establece este Capítulo.
+Los Fedatarios no podrán autorizar definitivamente ninguna escritura en la que hagan constar actos o contratos transmitivos de dominio de bienes inmuebles, si no han obtenido la constancia de no adeudo a que se refiere el artículo 45 de esta Ley y el avalúo correspondiente. Tampoco podrán autorizar definitivamente ninguna escritura en la que se hagan constar esta clase de actos o contratos, mientras los interesados no les entreguen en (sic) comprobante de pago del impuesto que establece este Capítulo.
 
 En los testimonios que los Fedatarios expidan de escrituras públicas o privadas relativas a actos o contratos transmitivos de dominio, deberán hacer constar el número de recibo oficial del pago del impuesto sobre Transmisión de Dominio de bienes inmuebles, así como el importe del mismo y la fecha de expedición.
 
@@ -1515,9 +1523,11 @@ ARRENDAMIENTO DE BIENES MUEBLES E INMUEBLES PERTENECIENTES AL MUNICIPIO.
 
 Tendrán el carácter de productos, los ingresos que se obtengan por la enajenación de bienes muebles o inmuebles que pertenezcan a los Municipios del Estado de Michoacán.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 180.
 
-Los inmuebles pertenecientes a los Municipios podrán ser enajenados cuando resulten antieconómicos en su conservación y sostenimiento, o se presenten en el mercado condiciones ventajosas para su venta, previa autorización del H. Congreso del Estado.
+Los muebles e inmuebles pertenecientes a los Municipios podrán ser enajenados cuando resulten antieconómicos en su conservación y sostenimiento, previa autorización del H. Congreso del Estado.
 
 ###### ARTICULO 181.
 
@@ -1654,3 +1664,9 @@ P.O. 31 DE DICIEMBRE DE 1988.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor a partir del día 1o. de enero de 1989, previa publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 1989.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el día 1°. de enero de 1990, previa publicación en el Periódico Oficial del Estado.
