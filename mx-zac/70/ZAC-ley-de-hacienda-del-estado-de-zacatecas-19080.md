@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-del-estado-de-zacatecas-19080"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2003-01-01"
+last_updated: "2003-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre del 2000.
 
@@ -755,15 +755,15 @@ Por cada foja: 1 cuota;
 
 Los derechos a que se refiere este artículo, cuando sean tramitados por contribuyentes con establecimientos o locales en los que se expendan bebidas alcohólicas para su consumo dentro de los mismos, se incrementarán en un 10%.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 48.
 
-Los servicios que se presten por concepto de:
+Los servicios que presten por concepto de:
 
-> <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PÁRRAFO], P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-I. Registro y expedición de placas incluyendo calcomanías y tarjeta de circulación con vigencia al 31 de marzo del año siguiente, deberá efectuarse durante los primeros tres meses del mencionado año para:
+I. En los casos de registro y expedición de placas tratándose de vehículos nuevos o de aquellos que no requieran canje; o cuando se autorice por parte de la Legislatura del Estado el canje parcial de placas para el parque vehicular de esta Entidad, conforme a lo establecido por la Norma Oficial Mexicana que para tal efecto publica la Secretaría de Comunicaciones y Transportes y que obliga a cambiar placas en un periodo no mayor a tres años, el registro y expedición de las mismas, incluyendo calcomanías y tarjeta de circulación con vigencia al 31 de marzo del año siguiente, deberá efectuarse durante los primeros tres meses del año al que corresponda el pago, de la siguiente manera:
 
 a) Vehículo de servicio particular 13 cuotas;
 
@@ -785,69 +785,49 @@ IV. La verificación que se realice de documentación con otras entidades, respe
 
 V. Baja de Placas 1 cuota;
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-Los propietarios de unidades que se encuentran registradas en el padrón estatal vehicular del Gobierno del Estado de Zacatecas, podrán efectuar canje de placas, siempre y cuando cubran además los derechos de refrendo que refiere el artículo 49 de esta Ley.
+Los propietarios de unidades que se encuentren registradas en el padrón estatal vehicular del Gobierno del Estado de Zacatecas, podrán efectuar canje de placas, durante el año que no haya canje total, siempre y cuando cubran además los derechos de refrendo a que se refiere el artículo 49 de esta ley.
 
 Cuando no se cubra la contribución dentro del plazo señalado, deberán pagarse recargos y actualización por concepto de indemnización a la Hacienda Pública Estatal por falta de pago oportuno, de conformidad con la Ley de Ingresos del Estado.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PARRAFO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 49.
 
-El refrendo de la tarjeta de circulación y expedición de calcomanía con vigencia al 31 de marzo del año siguiente, deberá efectuarse durante los primeros tres meses del ejercicio por el cual se está cubriendo el derecho de refrendo, para:
+El refrendo de la tarjeta de circulación y expedición de calcomanía con vigencia al 31 de marzo del año siguiente, deberá efectuarse durante los primeros tres meses del mencionado año, para:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 I. Vehículos de servicio particular:
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+a) Modelos 2004 12.5 cuotas;
 
-a) Modelos 2003 12 cuotas;
+b) Modelos 2003 11.5 cuotas;
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+c) Modelos 2002 10.5 cuotas;
 
-b) Modelos 2002 11 cuotas;
+d) Modelos 2001 9.5 cuotas;
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+e) Modelos 2000 8.5 cuotas;
 
-c) Modelos 2001 10 cuotas;
+f) Modelos 1999 y anteriores 7.5 cuotas;
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
-
-d) Modelos 2000 9 cuotas;
-
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
-
-e) Modelos 1999 8 cuotas;
-
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
-
-f) Modelos 1998 y anteriores 7 cuotas;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 II. Vehículos de servicio público:
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+a) Modelos 2004 12.5 cuotas;
 
-a) Modelos 2003 12 cuotas;
+b) Modelos 2003 11.5 cuotas;
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+c) Modelos 2002 10.5 cuotas;
 
-b) Modelos 2002 11 cuotas;
+d) Modelos 2001 9.5 cuotas;
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+e) Modelos 2000 8.5 cuotas;
 
-c) Modelos 2001 10 cuotas;
-
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
-
-d) Modelos 2000 9 cuotas;
-
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
-
-e) Modelos 1999 8 cuotas;
-
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
-
-f) Modelos 1998 y anteriores 7 cuotas;
+f) Modelos 1999 y anteriores 7.5 cuotas;
 
 III. Remolques 5 cuotas;
 
@@ -1215,6 +1195,10 @@ e) Actuaciones judiciales;
 
 f) Depósito de testamento ológrafo;
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+g) Modificación al contrato inicial por error material.
+
 XIV. Inscripción de actos relativos a bienes muebles, .40% por los conceptos siguientes:
 
 a) Operaciones traslativas de dominio sujetas a condición resolutoria;
@@ -1243,7 +1227,9 @@ d) Modificaciones al pacto social constitutivo;
 
 e) Registro de emisiones de acciones, cédulas, obligaciones o certificados de participación, depósito o de copias autorizadas por balance, transformación de sociedades y en general otros actos inscribibles;
 
-XVII. Cancelación de inscripción o anotación: 3 cuotas; (sic)
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+XVII. Cancelación de inscripción o anotación: 4 cuotas.
 
 ###### ARTICULO 53.
 
@@ -1253,13 +1239,19 @@ Contrato innominado: 24 cuotas;
 
 Expedición de certificado de:
 
-I. No propiedad: 3 cuotas;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-II. Inscripción o no inscripción: 3 cuotas;
+I. No propiedad: 4 cuotas;
 
-III. Libertad de gravamen: 2 cuotas;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-IV. Existencia de gravamen, a la fracción anterior se adicionará por cada gravámen: 1 cuota.
+II. Inscripción o no inscripción: 4 cuotas;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+III. Libertad de gravamen: 3 cuotas;
+
+IV. Existencia de gravamen, a la fracción anterior se adicionará por cada gravamen: 1 cuota.
 
 ###### ARTICULO 55.
 
@@ -1437,11 +1429,11 @@ I. Expedición de título profesional o grado, de egresados de instituciones edu
 
 II. Expedición de diplomas a egresados de:
 
-a) Academias y centros de capacitación para el trabajo 1 cuota
+a) Academias y centros de capacitación para el trabajo 1 cuota;
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-b) Tipo medio básico $ 8.00
+b) Tipo medio básico $ 8.00;
 
 III. Expedición de duplicados de certificados de estudios de:
 
@@ -1459,7 +1451,7 @@ c) Nivel medio superior $ 27.50;
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-d) De tipo superior $ 38.50.
+d) De tipo superior $ 38.50;
 
 IV. Práctica de examen extraordinario por materia:
 
@@ -1473,7 +1465,7 @@ b) De nivel medio superior o academias $ 11.00;
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-c) De tipo superior $ 16.50.
+c) De tipo superior $ 16.50;
 
 V. Exámenes a título de suficiencia:
 
@@ -1487,7 +1479,7 @@ b) De educación secundaria, por materia $ 11.00;
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-c) De tipo superior, por materia $ 27.50.
+c) De tipo superior, por materia $ 27.50;
 
 VI. Exámenes profesionales que sustenten los egresados de escuelas del Estado:
 
@@ -1515,11 +1507,11 @@ b) Secundaria, por grado $ 27.50;
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-c) Tipo medio superior 6 cuotas
+c) Tipo medio superior 6 cuotas;
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-d) Tipo superior 16 cuotas
+d) Tipo superior 16 cuotas;
 
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
 
@@ -1527,7 +1519,9 @@ VIII. Forma de certificado o boleta de evaluación extra a la dotación ordinari
 
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
 
-IX. Expedición de copias certificadas de documentos, por cada foja tamaño carta u oficio $ 11.00.
+IX. Expedición de copias certificadas de documentos, por cada foja tamaño carta u oficio
+
+$ 11.00;
 
 X. Reposición de certificados:
 
@@ -1549,17 +1543,15 @@ XI. Compulsa de documentos, por foja: $ 7.70;
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
-XII. Por cualquier otra certificación o expedición de constancia distintas a
-
-las señaladas en las fracciones anteriores: $ 25.00;
+XII. Por cualquier otra certificación o expedición de constancia distintas a las señaladas en las fracciones anteriores: $ 25.00;
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
-XIII. Por solicitud, estudios y resolución del trámite de reconocimiento de validez de estudios de tipo superior 137 cuotas.
+XIII. Por solicitud, estudios y resolución del trámite de reconocimientos de validez de estudios de tipo superior 137 cuotas;
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
-XIV. Por solicitud, estudio y resolución del trámite de reconocimiento de validez oficial de estudios de los niveles preescolar y medio superior o equivalente y de formación para el trabajo sea cual fuere la modalidad 15 cuotas
+XIV. Por solicitud, estudio y resolución del trámite de reconocimiento de validez oficial de estudio de los niveles preescolar y medio superior o equivalente y deformación para el trabajo sea cual fuere la modalidad 15 cuotas;
 
 XV. Acreditación y certificación de conocimiento de tipo elemental:
 
@@ -1573,7 +1565,7 @@ b) Por área $ 11.00;
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-c) Por grado $ 5.50.
+c) Por grado $ 5.50;
 
 XVI. Acreditación y certificación de conocimiento, por materia de:
 
@@ -1587,7 +1579,7 @@ b) Preparatoria $ 16.50;
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-c) Tipo superior $ 27.50.
+c) Tipo superior $ 27.50;
 
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
 
@@ -1601,11 +1593,11 @@ a) Secundaria, por grado $ 27.50;
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-b) Tipo medio superior 6 cuotas
+b) Tipo medio superior 6 cuotas;
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-c) Tipo superior 16 cuotas
+c) Tipo superior 16 cuotas;
 
 XIX. Inspección y vigilancia de establecimientos educativos particulares, por alumno inscrito en cada ejercicio escolar:
 
@@ -1631,7 +1623,7 @@ XX. Registro de colegio de profesionistas 28 cuotas;
 
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
 
-XXI. Registro de títulos profesionales $ 16.50.
+XXI. Registro de títulos profesionales $ 16.50;
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
@@ -1649,11 +1641,11 @@ b) Medio superior $ 38.50;
 
 > <small>(ADICIONADA, P.O. 2 DE ENERO DE 2002)</small>
 
-XXIV. Por solicitud, estudio y resolución del trámite de autorización para impartir educación primaria, secundaria, normal y demás para la información de maestros, sea cual fuere la modalidad. 15 cuotas.
+XXIV. Por solicitud, estudio y resolución del trámite de autorización para impartir educación primaria, secundaria, normal y demás para la información de maestros, sea cual fuere la modalidad 15 cuotas;
 
 > <small>(ADICIONADA, P.O. 2 DE ENERO DE 2002)</small>
 
-XXV. Por solicitud, estudio y resolución del trámite de cambio a planes y programas de estudio de tipo superior con reconocimiento de validez oficial. 59 cuotas.
+XXV. Por solicitud, estudio y resolución del trámite de cambio a planes y programas de estudio de tipo superior con reconocimiento de validez oficial 59 cuotas.
 
 ### CAPITULO X. SERVICIOS DE LA DIRECCION DE TRANSPORTE PUBLICO Y VIALIDAD
 
@@ -1703,7 +1695,7 @@ d) Automovilista (plastificada) 8 cuotas;
 
 e) Motociclista 3 cuotas;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2003)</small>
 
 II. Examen médico a conductores de vehículo:
 
@@ -2112,3 +2104,7 @@ P.O. 1 DE ENERO DE 2003.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+P.O. 31 DE DICIEMBRE DE 2003.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
