@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-estimulos-fiscales-para-el-ejercicio-fiscal-2976
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-30"
-last_updated: "2003-12-31"
+last_updated: "2004-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ESTATAL DE ESTIMULOS FISCALES, PARA EL EJERCICIO FISCAL 2003
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de diciembre de 2002.
 
@@ -63,9 +63,11 @@ Se consideran Estímulos Fiscales, los beneficios que otorga Gobierno del Estado
 
 Los estímulos fiscales serán resueltos por la Secretaría de Finanzas y Administración por conducto de la Subsecretaría de Ingresos, previo el estudio de la documentación presentada por el solicitante, así como de su historia fiscal.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 5.
 
-La resolución referida en el Artículo anterior, deberá ser emitida dentro del término y con el condicionamiento establecido en el Artículo 64 del Código Fiscal del Estado, en la que se hará constar el ámbito temporal de validez, por el cual se otorga el Estímulo Fiscal que no excederá de un ejercicio fiscal.
+La resolución referida en el artículo anterior deberá ser emitida dentro del término y con el condicionamiento establecido en el artículo 64 del Código Fiscal del Estado, en la que se hará constar el ámbito temporal de validez, el cual será aplicable a partir de la fecha de su otorgamiento y con vigencia al ejercicio fiscal correspondiente.
 
 ###### ARTICULO 6.
 
@@ -156,3 +158,9 @@ PRIMERO.- El presente Decreto, entrará en vigor el día primero de enero del a�
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
 
 TERCERO.- Se abroga la Ley de Hacienda para el Estado de Hidalgo publicada en el Periódico Oficial del Estado de fecha 29 de diciembre de 1990, dentro del decreto número 20, expedido por la LIV Legislatura Local.
+
+P.O. 31 DE DICIEMBRE DE 2004.
+
+PRIMERO.- El presente Decreto, entrará en vigor el día 1º de Enero del año 2005, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
