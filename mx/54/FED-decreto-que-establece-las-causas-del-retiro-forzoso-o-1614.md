@@ -4,7 +4,7 @@ identifier: "FED-decreto-que-establece-las-causas-del-retiro-forzoso-o-1614"
 country: "mx"
 rank: "decreto"
 publication_date: "1951-02-19"
-last_updated: "1951-02-19"
+last_updated: "1951-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1614&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "1950-12-28"
 ---
 # DECRETO QUE ESTABLECE LAS CAUSAS DEL RETIRO FORZOSO O VOLUNTARIO DE LOS MINISTROS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 1951 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 DECRETO QUE ESTABLECE LAS CAUSAS DEL RETIRO FORZOSO O VOLUNTARIO DE LOS MINISTROS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 14 DE MARZO DE 1951.</small>
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 19 de febrero de 1951.
 
@@ -73,11 +73,11 @@ Si se tratare de retiro voluntario se seguirá la misma tramitación señalada e
 
 Aprobado el retiro forzoso o voluntario, el Presidente de la República cubrirá la vacante en la forma prescrita por el artículo 93 constitucional.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 1951 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
 
 ###### ARTICULO 7°
 
-El Ministro de la Suprema Corte de Justicia que obtuviere el retiro forzoso o voluntario, disfrutará de una pensión vitalicia igual al sueldo presupuestal que percibirá al ser decretado el retiro. En caso de fallecimiento del pensionista, la pensión se continuará cubriendo durante dos años a la viuda e hijos menores de 21 años.
+El Ministro de la Suprema Corte de Justicia que obtuviere el retiro forzoso o voluntario, disfrutará de una pensión vitalicia igual al sueldo presupuestal que perciba al ser decretado el retiro. En caso de fallecimiento del pensionista, la pensión se continuará cubriendo durante dos años a la viuda e hijos menores de 21 años.
 
 ###### ARTICULO 8°
 
