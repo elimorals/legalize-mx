@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "2004-10-06"
+last_updated: "2005-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MARZO DE 2005. REPUBLICADO 16 DE MARZO DE 2005.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -403,11 +403,11 @@ En cuanto a la extensión y límites de los Municipios y las Secciones Municipal
 
 ### CAPITULO I. DE LA ORGANIZACION Y FUNCIONAMIENTO
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1998)</small>
+(REFORMADO, P.O. 9 DE MARZO DE 2005) (REPUBLICADO, P.O. 16 DE MARZO DE 2005)
 
 ###### ARTICULO 38.
 
-El Supremo Tribunal de Justicia estará integrado cuando menos por nueve magistrados. Funcionará en pleno o mediante salas unitarias que podrán ser centrales o regionales. Su asiento estará en la ciudad de Chihuahua y ejercerá jurisdicción en todo el Estado. Las salas regionales residirán en la población que determine el Pleno y tendrá la competencia territorial que éste les asigne.
+El Supremo Tribunal de Justicia estará integrado, cuando menos, por nueve magistrados. Funcionará en pleno o mediante salas unitarias que podrán ser centrales o regionales. El asiento del primero estará en la ciudad de Chihuahua y ejercerá jurisdicción en todo el Estado. Las salas centrales residirán en la ciudad de Chihuahua; y las regionales en la población que determine el Pleno, tendiendo la competencia territorial y jurisdiccional que éste les asigne.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -517,11 +517,13 @@ Ningún Magistrado de los presentes en la sesión podrá abstenerse de votar ni 
 
 Son facultades del Pleno:
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1998)</small>
+(REFORMADA, P.O. 9 DE MARZO DE 2005) (REPUBLICADA, P.O. 16 DE MARZO DE 2005)
 
-I.- Elegir, entre los magistrados, al Presidente del Supremo Tribunal de Justicia y adscribir a los primeros a las Salas correspondientes;
+I.- Elegir, entre los magistrados inamovibles, al Presidente del Supremo Tribunal de Justicia y adscribir al resto a las Salas correspondientes;
 
-II.- Crear y suprimir las salas del Supremo Tribunal y establecer el ramo en que deban actuar. Si se trata de salas regionales señalará el territorio de su jurisdicción y el lugar de su residencia;
+(REFORMADA, P.O. 9 DE MARZO DE 2005) (REPUBLICADA, P.O. 16 DE MARZO DE 2005)
+
+II.- Crear y suprimir las salas del Supremo Tribunal y establecer el ramo en que deban actuar. Si se trata de salas regionales señalará su territorio, jurisdicción y residencia.
 
 > <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1998)</small>
 
@@ -629,21 +631,27 @@ Sin perjuicio de darles mayor difusión, se publicarán en el Periódico Oficial
 
 ### CAPITULO III. DEL PRESIDENTE
 
+(REFORMADO, P.O. 9 DE MARZO DE 2005) (REPUBLICADO, P.O. 16 DE MARZO DE 2005)
+
 ###### ARTICULO 51.
 
-El Presidente del Supremo Tribunal de Justicia lo será también del Tribunal Pleno y no integrará Sala. Durará en su encargo tres años, pudiendo ser reelecto. Su elección se hará de entre los Magistrados por mayoría de votos de los presentes, en sesión que para ese único objeto se celebre el día cinco de octubre del año en que corresponda la elección.
+El Presidente del Supremo Tribunal de Justicia lo será también del Tribunal Pleno y no integrará Sala. Durará en su encargo tres años, concluyendo su ejercicio el día cuatro de octubre del año que corresponda, con la posibilidad de ser reelecto. Su elección se hará de entre los Magistrados inamovibles por mayoría de votos de los integrantes presentes del Pleno, en sesión que para ese único objeto se celebre el día cinco de octubre del año en que corresponda la elección.
+
+El día de la elección y hasta antes de que se conozca el resultado de la misma, la Presidencia se ejercerá interinamente por el Magistrado que corresponda, en el orden señalado en el artículo 53.
+
+En la designación de Presidente, ningún magistrado tendrá voto de calidad y, en caso de empate, se realizará una segunda votación con los candidatos que obtuvieron igualdad de votos, y si ninguno obtiene mayoría, de entre éstos se elegirá Presidente al Magistrado de mayor antigüedad en el cargo y, en igualdad de condiciones, al de mayor edad.
 
 ###### ARTICULO 52.
 
 La renuncia al cargo de Presidente no implica al de Magistrado.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+(REFORMADO, P.O. 9 DE MARZO DE 2005) (REPUBLICADO, P.O. 16 DE MARZO DE 2005)
 
 ###### ARTICULO 53.
 
-Las ausencias del Presidente del Supremo Tribunal menores a veinte días se cubrirán, por su orden, por los magistrados penales y, a falta de éstos, por los civiles. Si exceden de ese lapso pero no de treinta días, el Presidente designará al magistrado que deba sustituirlo. En un caso y en otro el sustituto continuará en el despacho de la sala de que fuere titular. Si las ausencias fueran por más tiempo, el Pleno eligirá (sic) entre sus miembros a quien ejerza la Presidencia.
+Las ausencias del Presidente del Supremo Tribunal hasta por cinco días se cubrirán, por el magistrado inamovible de aquél designe; si exceden de ese lapso pero no de treinta días, las ausencias se cubrirán, alternadamente y por orden, por los magistrados inamovibles de las salas penales y las civiles, hasta concluir con los existentes, para dar inicio a una nueva ronda. Si las ausencias fueren por más tiempo, el Pleno elegirá de entre sus miembros a quien ejerza la Presidencia. El sustituto continuará en el despacho de la Sala de que fuere titular. Si se trata de faltas de asistencia al despacho hasta por cinco días, bastará que el Presidente dé aviso a quien deba sustituirlo; si excedieren de ese lapso, deberá comunicarlo a todos los magistrados que integran el Tribunal Pleno para los efectos conducentes.
 
-Si se trata de faltas de asistencia menores de cinco días, bastará que el Presidente dé aviso a quien deba sustituirlo, si excedieran ese lapso deberá mediar autorización del Pleno.
+En caso de ausencia absoluta del Presidente, se nombrará a quien deba sustituirlo para que concluya el periodo para el que aquél fue electo, conforme a los lineamientos señalados en el artículo 51.
 
 ###### ARTICULO 54.
 
@@ -771,7 +779,9 @@ Las resoluciones de las Salas deberán ser firmadas por Magistrados y autorizada
 
 Corresponde a los Magistrados de las Salas de Apelación:
 
-I.- Conocer cada uno en su ramo, de los recursos de apelación y denegada apelación interpuestos contra resoluciones dictadas por los Jueces y que les sean turnados por el Presidente del Supremo Tribunal, conociendo preferentemente del asunto la Sala que haya prevenido en él. Si por omisión se turnare el asunto a una Sala y se observara que otra previno, aquélla lo enviará a la que corresponda sin más trámite que notificar a las partes su remisión. Lo actuado por la Sala que no previno tendrá pleno valor. En caso de que ésta resuelva en definitiva, el conocimiento del asunto continuará correspondiendo a la Sala que conoció originalmente;
+(REFORMADA, P.O. 9 DE MARZO DE 2005) (REPUBLICADA, P.O. 16 DE MARZO DE 2005)
+
+I.- Conocer cada uno en su ramo, de los recursos de apelación y denegada apelación interpuestos contra resoluciones dictadas por los Jueces y que les sean turnados por el Presidente del Supremo Tribunal, conociendo preferentemente del asunto la Sala que haya prevenido en él. Si por omisión se turnare el asunto a una Sala observara que otra previno, aquélla lo enviará a la que corresponda sin más trámite que notificar a las partes su remisión. Lo actuado por la Sala que no previno tendrá pleno valor. En caso de que ésta resuelva en definitiva, el conocimiento del asunto continuará correspondiendo a la Sala que conoció originalmente. Tratándose de salas regionales, si son varias del mismo ramo, el Pleno señalará la forma del turno de los asuntos.
 
 II.- Conocer de los asuntos en los que la ley establezca la revisión de oficio;
 
@@ -827,19 +837,21 @@ Si los Magistrados, en los asuntos de su competencia, advirtieren la comisión p
 
 Los magistrados podrán ausentarse del despacho hasta por cinco días, con sólo dar aviso al Presidente. Si su ausencia excede de ese plazo, deberán obtener autorización del Pleno.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1998)</small>
+(REFORMADO, P.O. 9 DE MARZO DE 2005) (REPUBLICADO, P.O. 16 DE MARZO DE 2005)
 
 ###### ARTICULO 67.
 
-La ausencia accidental que no exceda de veinte días naturales, será cubierta por el Secretario de Acuerdos adscrito a la Sala respectiva, quien se encargará del despacho de los asuntos sin llegar a dictar sentencia definitiva, actuando con el que, a su vez, deba suplirlo en sus ausencias en los términos de esta ley.
+La ausencia accidental que no exceda de veinte días naturales, será cubierta por el secretario de acuerdos adscrito a la Sala respectiva, quien se encargará del despacho de los asuntos, actuando con el que a su vez deba suplirlo en sus ausencias en los términos de esta ley, pero sin llegar a dictar sentencia definitiva, a excepción de aquellos asuntos en que se tenga que dar cumplimiento a sentencias de amparo, estando facultado para pronunciarlas, al igual que en los casos en que el Pleno lo determine.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2004)</small>
+El secretario de acuerdos encargado de despachar los asuntos de una Sala, devengará el salario correspondiente a un magistrado, por el tiempo en que cubra la ausencia respectiva.
+
+(REFORMADO, P.O. 9 DE MARZO DE 2005) (REPUBLICADO, P.O. 16 DE MARZO DE 2005)
 
 ###### ARTICULO 68.
 
-La ausencia absoluta y la temporal que exceda de veinte días naturales, será cubierta por el Magistrado electo por el Congreso, de una terna designada por el Pleno, sin convocar a concurso de méritos, integrada por miembros del Poder Judicial de reconocido prestigio y antigüedad. El Pleno deberá definir la terna y comunicarla al Congreso del Estado, dentro de los quince días hábiles siguientes a que ocurra la falta absoluta o temporal.
+La ausencia absoluta y la temporal que exceda de veinte días naturales, será cubierta por el Magistrado electo por el Congreso, de una terna designada por el Pleno, sin convocar a concurso de méritos, integrada por miembros del Poder Judicial de reconocido prestigio y antigüedad. El Pleno deberá definir la terna y comunicarla al Congreso del Estado, dentro de los quince días hábiles siguientes a que ocurra la falta absoluta o temporal. Definida la terna la comunicará directamente al Congreso del Estado.
 
-Los efectos del nombramiento, en el caso de ausencia absoluta, durarán hasta que se corra el procedimiento establecido por la ley para la designación del nuevo titular y tome posesión del cargo. Tratándose de ausencia temporal, hasta que cese la causa que la motivó.
+Los efectos del nombramiento, en el caso de ausencia absoluta, durarán hasta que se corra el procedimiento establecido por la ley para la designación del nuevo titular y tome posesión del cargo. Tratándose de ausencia temporal, hasta que cese la causa que la motivó. En ambos casos, y hasta que se realice dicho nombramiento, el secretario de acuerdos adscrito a la Sala respectiva tendrá las facultades a que se refiere el artículo anterior.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 5 DE ENERO DE 2000)</small>
 
@@ -931,7 +943,7 @@ XXVIII.- Las demás que le confieran las leyes.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE ENERO DE 2000)</small>
 
-#### SECCION PRIMERA. De la Oficialia Mayor
+#### SECCION PRIMERA. De la Oficialía Mayor
 
 ###### ARTICULO 75.
 
@@ -1079,7 +1091,7 @@ IV.- No haber sido condenado por delito intencional que amerite pena privativa d
 
 > <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
 
-ARTICULO 78 n.- El departamento de Auditoria Financiera y Contable realizará las siguientes funciones:
+ARTICULO 78 n.- El departamento de Auditoría Financiera y Contable realizará las siguientes funciones:
 
 I.- Controlar, vigilar y evaluar conforme a la normatividad legal vigente, la aplicación del Presupuesto autorizado por el Congreso del Estado y del Fondo Auxiliar para la Administración de Justicia, realizando las revisiones y auditorias que la Contraloría General le encomiende; y
 
@@ -1221,9 +1233,11 @@ En los casos del Archivo General y del Archivo Histórico, el nombramiento podr�
 
 La Biblioteca Central del Supremo Tribunal de Justicia estará bajo la vigilancia del Presidente y del Secretario General y al cuidado de un encargado, con especialización en el área. Los emolumentos que éste perciba serán equivalentes a los de un secretario de juzgado de primera instancia de la Ciudad de Chihuahua.
 
+(REFORMADO, P.O. 9 DE MARZO DE 2005) (REPUBLICADO, P.O. 16 DE MARZO DE 2005)
+
 ###### ARTICULO 99.
 
-La Biblioteca estará destinada al servicio del Supremo Tribunal de Justicia y los Juzgados. El público en general podrá hacer uso de ella también en la forma y circunstancias que determine el Reglamento. Funcionará durante el horario que fije el Pleno y se ubicará en el local donde se encuentre instalado el Supremo Tribunal de Justicia.
+La Biblioteca estará destinada al servicio del Supremo Tribunal de Justicia y los Juzgados. El público en general podrá hacer uso de ella también en la forma y circunstancias que determine el Reglamento. Funcionará durante el horario y en el lugar que señale el Pleno.
 
 ###### ARTICULO 100.
 
@@ -1269,11 +1283,19 @@ El Supremo Tribunal de Justicia organizará y mantendrá capacitado, un cuerpo d
 
 El Supremo Tribunal de Justicia, cuando así lo solicite expresamente el Ministerio Público, ordenará que los citados defensores de oficio representen y asesoren a los indígenas desde el inicio de la etapa de la averiguación previa.
 
+(REFORMADO, P.O. 9 DE MARZO DE 2005) (REPUBLICADO, P.O. 16 DE MARZO DE 2005)
+
 ###### ARTICULO 102.
 
-Los Defensores de Oficio del Estado estarán impedidos para ejercer su profesión en los Tribunales que se encuentren en el Municipio de su adscripción y que pertenezcan a la materia en que desempeñen su función.
+Los defensores de oficio les está prohibido:
 
-Lo dispuesto en el párrafo anterior no será aplicable tratándose de asuntos propios del Defensor o de su cónyuge o cuando se trate de los ascendientes, descendientes o parientes colaterales hasta el segundo grado, de ambos.
+I.- Desempeñar otro empleo, cargo o comisión en cualesquiera de los órdenes de gobierno, salvo el desempeño de actividades docentes;
+
+II.- El ejercicio particular de la profesión de abogado, salvo que se trate de causa propia, la de su cónyuge o su concubina, concubinario, así como parientes consanguíneos en línea recta sin limitación de grado, y colaterales hasta el cuarto grado, por afinidad o civil.
+
+III.- Actuar como mandatarios judiciales, tutores, curadores, o albaceas, depositarios judiciales, síndicos, administradores, interventores en quiebra o concurso, corredores, notarios, comisionistas, árbitros, endosatarios en procuración, o ejercer cualquier otra actividad que sea incompatible con sus funciones.
+
+Mediante reglas de carácter general, fundadas y motivadas, el Pleno podrá establecer excepciones a las prohibiciones a que se refieren las fracciones anteriores, y establecer los horarios en que los defensores de oficio deban prestar sus servicios.
 
 ###### ARTICULO 103.
 
@@ -1428,6 +1450,10 @@ XII.- Alterar el orden, injuriar u ofender a las personas que intervengan o pres
 XIII.- Faltar o llegar tarde frecuentemente a las audiencias en las que deban de intervenir; y
 
 XIV.- Dejar de cumplir cualquiera de las demás obligaciones que les estén señaladas por las leyes, reglamentos o por sus superiores.
+
+(ADICIONADO, P.O. 9 DE MARZO DE 2005) (REPUBLICADO, P.O. 16 DE MARZO DE 2005)
+
+Por la violación al artículo 102 y a la fracción X anterior, serán sancionados necesariamente con el cese definitivo en el cargo.
 
 ### CAPITULO XII. DE LA OFICIALIA DE TURNOS
 
@@ -1611,7 +1637,7 @@ I.- Representar por sí o por persona que designe, al Fondo en todas las inversi
 
 II.- Elaborar el proyecto de Presupuesto Anual de Egresos del Fondo y someterlo al Pleno durante el mes de enero de cada año, para su discusión y aprobación en su caso;
 
-III.- Invertir los fondos ajenos a que alude la fracción II del artículo 135 en adquisición de títulos, bonos o valores de renta fija, a la vista o a plazo fijo, que deberán ser nominativos y a favor del Supremo Tribunal de Justicia, cuidando que las inversiones resulten las mas productivas del mercado y que se conserve la liquidez necesaria para hacer las devoluciones a que alude el artículo 144;
+III.- Invertir los fondos ajenos a que alude la fracción II del artículo 135 en adquisición de títulos, bonos o valores de renta fija, a la vista o a plazo fijo, que deberán ser nominativos y a favor del Supremo Tribunal de Justicia, cuidando que las inversiones resulten las más productivas del mercado y que se conserve la liquidez necesaria para hacer las devoluciones a que alude el artículo 144;
 
 IV.- Vigilar y supervisar que los diversos Tribunales de la Entidad cumplan con todas las obligaciones que en relación con el Fondo se les impongan por esta Ley o el Reglamento;
 
@@ -2335,7 +2361,7 @@ La misma regla que señala el párrafo anterior, se seguirá para el caso de las
 
 > <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
 
-### CAPITULO II. DEL PROCEDIMIENTO DE QUEJA PARA SANCIONAR LAS FALTAS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
@@ -2509,7 +2535,7 @@ El Pleno determinará si la comisión de delitos imprudenciales o la privación 
 
 > <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DEL PROCEDIMIENTO DE QUEJA PARA SANCIONAR LAS FALTAS
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
@@ -2621,7 +2647,7 @@ Cuando una queja se interponga sin fundamento y así se declare por la autoridad
 
 ## TITULO NOVENO. DE LAS ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIO Y OBRA PUBLICA DEL PODER JUDICIAL
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE ENERO DE 2000)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
 
 ### CAPITULO III. DE LAS INCONFORMIDADES
 
@@ -2665,7 +2691,7 @@ En todo caso, recabará por los medios que estime conducentes todos aquellos ele
 
 El Reglamento establecerá las bases para las adquisiciones, arrendamientos, contratación y prestación de servicios y obra pública, así como para la enajenación de todo tipo de bienes que se realice con recursos del Fondo Auxiliar para la Administración de Justicia.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 216.
 
@@ -2705,7 +2731,7 @@ V.- Con las personas a las que se declare en estado de quiebra o suspensión de 
 
 VI.- Las demás que por cualquier causa se encuentren impedidas para ello por disposición de la ley.
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 219.
 
@@ -2912,3 +2938,9 @@ P.O. 6 DE OCTUBRE DE 2004.
 DECRETO No. 1189/04 XVI P.E.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETCION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
+
+P.O. 9 DE MARZO DE 2005. REPUBLICADO P.O. 16 DE MARZO DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con excepción de la reforma al artículo 102 de la Ley Orgánica del Poder Judicial del Estado, el cual surtirá vigencia ciento veinte días después de su publicación.
