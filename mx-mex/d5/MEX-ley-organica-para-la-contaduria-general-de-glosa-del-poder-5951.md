@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-para-la-contaduria-general-de-glosa-del-poder-5951
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-10-15"
-last_updated: "1999-01-05"
+last_updated: "2004-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA PARA LA CONTADURIA GENERAL DE GLOSA DEL PODER LEGISLATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ABRIL DE 2004.
 
 Ley publicada en la Gaceta del Gobierno, el 15 de octubre de 1991.
 
@@ -133,9 +133,9 @@ XII. Establecer los criterios generales para determinar el monto y tiempo de las
 
 XIII. Recibir de la Contaduría General de Glosa los expedientes ejecutivos, dictamen e informes de cada una de las auditorías practicadas una vez concluidas, los cuales deberán referir, además del período auditado, los alcances de las mismas, el detalle de las irregularidades detectadas y las acciones tomadas para notificar los resultados a los auditados;
 
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADA, P.O. P.O. 6 DE ABRIL DE 2004)</small>
 
-XIV. Revisar y proponer modificaciones a los tabuladores de sueldos de los servidores públicos municipales; y
+XIV. Revisar y fiscalizar los tabuladores de sueldos o remuneraciones de todo tipo aprobadas por los ayuntamientos, para los servidores públicos municipales, tomando las medidas necesarias para su debida observancia, y
 
 XV. Las que le confiera la Ley Orgánica del Poder Legislativo, esta ley y demás disposiciones legales.
 
@@ -598,3 +598,13 @@ Publíquese en el periódico oficial Gaceta del Gobierno del Estado de México.
 ###### ARTICULO SEGUNDO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 6 DE ABRIL DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al quinto día de su publicación en la "Gaceta del Gobierno".
+
+TERCERO.- Para el caso del presupuesto de egresos correspondiente al ejercicio fiscal 2004, su publicación en la "Gaceta Municipal" se hará a más tardar el día treinta y uno de julio del presente año.
+
+CUARTO.- En lo subsecuente, las administraciones municipales deberán adecuar sus presupuestos para el ejercicio fiscal correspondiente, conforme a las disposiciones del presente decreto.
