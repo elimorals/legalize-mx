@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "1988-02-20"
+last_updated: "1988-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1988.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -63,447 +63,161 @@ En este último caso, la exigibilidad o cumplimiento de las obligaciones fiscale
 
 ## TITULO II. IMPUESTOS
 
-### CAPITULO I. Impuesto Predial
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1974)</small>
+### CAPITULO I. Impuesto Predial
 
 ###### ARTICULO 5.
 
-Es objeto del Impuesto Predial:
-
-I.- La propiedad de predios urbanos.
-
-II.- La propiedad de predios rústicos.
-
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DE LA SIGUIENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1980.</small>
-
-III.- La posesión ejidal.
-
-IV.- La posesión de predios urbanos y rústicos en los casos siguientes:
-
-a).- Cuando no exista propietario.
-
-b).- Cuando el propietario no esté definido.
-
-c).- Cuando el predio estuviera substraído a la posesión del propietario, por causa ajena a su voluntad.
-
-d).- Cuando se deriva de contratos de promesa de venta, con reserva de dominio y promesa de venta o venta de certificados de participación inmobiliaria, de vivienda de simple uso o de cualquier otro título similar que autorice la ocupación material del inmueble y que origine algún derecho posesorio, aún cuando los mencionados contratos, certificados o títulos, se hayan celebrado u obtenido con motivo de operaciones de fideicomiso.
-
-e).- Cuando exista desmembración de la propiedad de manera que una persona tenga la nuda propiedad y otra el usufructo.
-
-f).- Cuando la ejerzan los particulares sobre inmuebles propiedad de la Federación, Estado, Municipios u organismos descentralizados y sujetos a exención.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE FEBRERO DE 1974)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 6.
 
-Son sujetos de este impuesto:
-
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1974)</small>
-
-I.- Los propietarios de predios urbanos o rústicos.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1974)</small>
-
-II.- Los poseedores de predios urbanos o rústicos en el caso a que se refiere la fracción IV del artículo 5o. de esta ley.
-
-III.- Los fideicomitentes, mientras sean poseedores del predio objeto del fideicomiso o los fideicomisarios que estén en posesión del predio, aún cuando todavía no se les transmita la propiedad.
-
-IV.- Tratándose de predios ejidales, quien posea provisional o definitivamente el predio o en su caso, al núcleo de ejidatarios.
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1981)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 7.
 
-La base del impuesto predial se calcula sumando el valor fiscal de las construcciones y el valor fiscal del terreno, multiplicando éste por la tasa impositiva correspondiente de la Ley de Ingresos.
-
-El valor fiscal del terreno se determina mediante la deducción al valor catastral del mismo, el costo de urbanización correspondiente a éste, que se calcula a través del siguiente procedimiento aplicable exclusivamente a los predios sujetos a las tasas 8.5, 10.5 y 30 al millar que determina la Ley de Ingresos:
-
-I.- Mediante la multiplicación del factor 7 por el número de metros de frente y por los factores de urbanización que le correspondan al predio de conformidad con la tabla publicada en la Ley de Ingresos.
-
-II.- La deducción al valor catastral del terreno no deberá exceder del 30% del valor del mismo y en caso de ser así, se deducirá como máximo dicho porcentaje.
-
-III.- El valor fiscal del terreno en los casos de predios sin urbanización será igual al valor catastral del mismo.
-
-El valor fiscal de las construcciones será igual al valor catastral de las mismas.
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 8.
 
-La tasa inicial del impuesto que corresponde pagar a los propietarios o poseedores de predios urbanos que la Ley de Catastro Inmobiliario del Estado clasifica como no edificados o baldíos con servicio de agua, electricidad y drenaje, entre tanto conserven esa calidad, se enajenen o establezca en ellos alguna industria o comercio, será ascendente y aumentará automáticamente el 25% (veinticinco por ciento) cada año hasta completar diez años, al final de los cuales se interrumpe.
-
-Los efectos de este Artículo no serán aplicables:
-
-a).- A los predios destinados para su venta o que vendan los fraccionamientos debidamente autorizados en tanto no sean recibidos por el Gobierno del Estado.
-
-b).- Ni a los predios no edificados que formen parte de una unidad comercial o industrial.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 9.
 
-La cuota del Impuesto que resulte con base en los avalúos y modificaciones entrará en vigor a partir del bimestre a la fecha en que éstos se hayan notificado. En los casos mencionados en la Fracción I inciso b) del Artículo 7o., entrará en vigor a partir del bimestre siguiente a la fecha de celebración del contrato respectivo, aunque no se otorgue en escritura pública.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 10.
 
-El Impuesto Predial se causará y pagará conforme a los términos y las tasas que fije la Ley de Ingresos.
-
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
-
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1977)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 11.
 
-El Impuesto Predial Ejidal en ningún caso excederá del 5% del total de la producción anual de los ejidos y se causará según la tasa que determine la Ley de Ingresos de conformidad con la rentabilidad de las tierras o el valor por cabeza de ganado.
-
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 12.
 
-Tratándose de posesiones provisionales, los ejidatarios, pagarán, en el primer año, el 25% del Impuesto Predial que les corresponda, y en los años subsecuentes, el Impuesto aumentará en un 10% cada año hasta alcanzar la tasa total, o hasta que se ejecute la resolución presidencial.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 13.
 
-El pago del Impuesto se hará en la Recaudación de Rentas que corresponda, mediante declaración que deberá presentar el causante utilizando las formas que al efecto apruebe la Secretaría de Finanzas, en los plazos siguientes:
-
-I.- Por bimestres adelantados durante los primeros veinte días de cada bimestre
-
-II.- Por anualidades adelantadas dentro del primer bimestre de cada año.
-
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DE LA SIGUIENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1980.</small>
-
-III.- Tratándose de predios sujetos al régimen ejidal o comunal el pago deberá hacerse ajustándose a las normas generales que señalan las disposiciones que en materia de productos agropecuarios contiene esta Ley:
-
-1.- Durante las cosechas o la venta de los productos, antes de la salida del producto de su lugar de origen.
-
-2.- Tratándose de producción ganadera al momento de su sacrificio, del traslado de su dominio o de su transportación fuera del Estado.
-
-3.- Tratándose de producción avícola, efectuar el pago mensual dentro de los días comprendidos del 1o. al 20 de cada mes, presentando su declaración en las formas autorizadas por la Secretaría de Finanzas del Estado.
-
-IV.- La Ley de Ingresos fijará los casos en que el pago del Impuesto sea anual o bimestral.
-
-El pago anticipado del Impuesto, no impide el cobro de diferencias que resulten por cambios de las bases gravables o variación de las cuotas del Impuesto.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE FEBRERO DE 1974)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 14.
 
-Son solidariamente responsables del pago del impuesto predial:
-
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1974)</small>
-
-I.- Los adquirentes por cualquier título de predios urbanos o rústicos por los créditos originados con anterioridad a su adquisición.
-
-II.- Los propietarios de los predios mencionados en el inciso anterior, cuando hayan otorgado la posesión en virtud de un contrato de promesa de venta, de compra-venta con reserva de dominio o cualquier otro por el cual no se transmita el dominio.
-
-III.- Los ejidatarios y los integrantes de colonias agrícolas y sociedades de crédito agrícola, en lo que respecta a los terrenos que posean mancomunadamente.
-
-IV.- En todos los casos de operaciones en las que no se transmita el dominio, son responsables solidarios los fraccionadores.
-
-V.- Los funcionarios y empleados del Gobierno del Estado, que dolosamente expidan constancias de que los causantes se encuentran al corriente en los pagos del Impuesto Predial.
-
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
-
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1977)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 15.
 
-Las sociedades, agrupaciones, empresas agrícolas, avícolas o ganaderas, agentes aduanales o personas físicas que maquilen, refaccionen, compren de primera mano o reciban para su guarda productos naturales o de cultivo ejidales que conforme a esta Ley están afectos al pago de este Impuesto, exigirán al productor que compruebe, con anticipación a la operación que realicen, que ha sido cubierto este impuesto, y si no se acredita deberán retener y enterar su importe los días del primero al veinte del siguiente mes.
-
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 16.
 
-Las mismas personas a que se refiere al Artículo anterior, que por cualquier otro concepto reciban directamente de los ejidatarios productos agrícolas, avícolas o ganaderos, naturales o de cultivos ejidales, están obligados a la retención del Impuesto Predial Ejidal, en los términos establecidos en la presente Ley.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 17.
 
-Los inmuebles responden preferentemente del pago del Impuesto Predial, aún cuando pasen a propiedad o posesión de terceros.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 18.
 
-Están exentos del pago del Impuesto Predial:
-
-I.- Los predios pertenecientes a la Federación, al Estado y a los Municipios.
-
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1977)</small>
-
-II.- Los predios propiedad de las Instituciones de beneficencia pública y privada siempre y cuando no se hagan distinciones entre los beneficiarios, y la atención a éstos sea gratuita.
-
-III.- Los lotes que adquieran los particulares en los cementerios y que sean dedicados exclusivamente a inhumaciones.
-
-IV.- Los inmuebles donde se encuentren establecidos consulados, cuando sean propiedad de sus respectivos gobiernos y siempre que para efecto de reciprocidad, lo requiera el caso.
-
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1977)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 19.
 
-Por lo que respecta a la exención contenida en la Fracción II del Artículo anterior, las instituciones de beneficencia privada deberán solicitarla por escrito a la Secretaría de Finanzas, debiéndose acompañar todas las pruebas que demuestren la procedencia de la misma, o en su caso, ofrecer dichas pruebas, que serán calificadas por la propia Secretaría.
-
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1977)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 20.
 
-La vigencia de las exenciones en el pago del Impuesto Predial que corresponde pagar a las instituciones de beneficencia privada, se iniciará a partir del primer bimestre siguiente a la fecha en que se hubiere presentado la solicitud correspondiente, o a partir del último pago del Impuesto hecho con posterioridad a esa fecha si aquélla es aprobada. Los beneficiarios de las exenciones deberán manifestar a la Secretaría de Finanzas, cualquier modificación de las circunstancias que hubieran fundado dichas exenciones. En este caso, la misma Secretaría de Finanzas dictará resolución nulificando la exención a partir del momento en que hubiere desaparecido el fundamento de la misma y ordenará el recobro de los impuestos, cuyo pago se hubiese omitido, así como los recargos, multas y accesorios que proceda.
-
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1977)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 21.
 
-Cuando a virtud de una Ley especial el Ejecutivo del Estado declare exención total o parcial del Impuesto Predial por un plazo determinado, al vencimiento del plazo se procederá al cobro del Impuesto de acuerdo con el avalúo que a esa fecha practique la Dirección General de Catastro y en tanto no se hiciere, el impuesto se cobrará con base en el último avalúo practicado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 22.
 
-Los Notarios, jueces y demás funcionarios autorizados por la Ley para dar fé pública, no autorizarán ningún contrato o acto que tenga por objeto la enajenación o gravamen de un inmueble o derechos reales sobre el mismo, mientras no se les compruebe con el certificado respectivo que están al corriente en el pago del Impuesto Predial.
-
-Si por causas no imputables al enajenante, las autoridades fiscales del Estado no han empadronado o catastrado el predio, la Secretaría de Finanzas podrá permitir a los Notarios que otorguen la mencionada autorización definitiva, sin que le sea exhibido el certificado a que se refiere este Artículo.
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 23.
 
-Los Notarios o las autoridades ante quienes se celebren contratos o actos por virtud de los cuales se transmita la propiedad o la posesión de un predio, están obligados a dar aviso a la Oficina de Catastro y a la Recaudación de Rentas del lugar de su ubicación, dentro del término de treinta días siguientes a la fecha de la celebración del acto o contrato respectivo.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 24.
 
-En el plazo de 15 días, los causantes deberán manifestar a la Oficina de Catastro de la jurisdicción de los predios, la terminación de nuevas construcciones y de ampliaciones o de modificaciones a las construcciones que tenga cada predio, así como el valor de las mismas.
-
-Igualmente, en el mismo plazo, los contratantes deberán manifestar a la Oficina de Catastro de la ubicación de los predios, la celebración de cualquier contrato a cuya virtud se cambie el Poseedor o Propietario.
-
-Tratándose de construcciones o de contratos no manifestados, se hará el recobro del Impuesto por los cinco años anteriores a la fecha del descubrimiento de la ocultación, salvo que el interesado pruebe que la omisión data de fecha posterior.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 25.
 
-Para los efectos del Impuesto Predial, el causante está obligado a manifestar su domicilio ante la Oficina Recaudadora de Rentas de la ubicación del predio, dentro de los 15 días siguientes a la fecha en que adquiera el carácter de causante. En caso de no cumplir con esta obligación se tendrá como su domicilio, para todos los efectos legales el lugar donde se le localice y en defecto de éste, el de la ubicación del predio si no es baldío; de serlo, será notificado por edictos.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 26.
 
-Las sociedades, agrupaciones, empresas o personas físicas que exploten bosques de comunidades agrarias o de sociedades cooperativas agrícolas, están obligados a exhibir a las autoridades Fiscales del Estado, las guías, contratos o documentos que sean necesarios para definir o establecer el Impuesto Predial correspondiente y su monto.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 27.
 
-Para los efectos de este Impuesto se tomarán en cuenta las definiciones que sobre las distintas clases de predio y construcciones contiene la Ley de Catastro.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1983)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ### CAPITULO II. Impuesto Sobre Adquisición de Inmuebles y Transmisión de Dominio
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1983)</small>
-
 ###### ARTICULO 28.
 
-Están obligados al pago de este Impuesto las personas físicas o morales que adquieran o enajenen inmuebles que consistan en el suelo o en el suelo y las construcciones adheridas a él, ubicados en el Territorio del Estado, así como los derechos reales o posesorios sobre los mismos, independientemente del nombre que le asigne la Ley que regule el acto que les dé origen.
-
-El objeto de este Impuesto es la adquisición de inmuebles y los derechos sobre los mismos. Cuando por acuerdo expreso o tácito de las partes, por determinación de la Ley o por resolución de las Autoridades del Trabajo, Judiciales o Administrativas, el enajenante se vea obligado al pago, el objeto de este Impuesto será la transmisión de dominio.
-
-En ningún caso se gravará dos veces una misma operación con el Impuesto a que se refiere el presente Capítulo, por lo que si se paga por la adquisición no se gravará la transmisión o a la inversa, a excepción del contrato de permuta, en virtud de que mediante él se realizan dos adquisiciones.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JULIO DE 1983)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 29.
 
-No causan este Impuesto:
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 1983)</small>
-
-I.- Las adquisiciones que efectúen las Instituciones de Asistencia y Beneficencia Pública y Privadas, autorizadas por la Ley de la materia.
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 1983)</small>
-
-II.- Las adquisiciones que realicen las Instituciones Públicas de Enseñanza y de establecimientos propiedad de los particulares que cuenten con autorización o reconocimiento oficial de estudios en los términos de las Leyes Federal y Estatal de Educación, por los bienes destinados exclusivamente para fines educativos.
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 1983)</small>
-
-III.- Las adquisiciones que se realicen al constituir o al liquidar la sociedad conyugal, así como en el acto mediante el cual se cambien las capitulaciones matrimoniales. No queda incluida en esta Fracción, la transmisión hereditaria de la parte correspondiente a cada cónyuge en la sociedad conyugal.
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 1983)</small>
-
-IV.- Las adquisiciones efectuadas por la Federación, los Estados incluyendo el Distrito Federal y los Municipios, así como los Organismos Descentralizados de los mismos, éstos últimos únicamente estarán exentos sobre los inmuebles destinados a promover la vivienda de interés social.
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1983)</small>
-
-V.- Las adquisiciones realizadas por las asociaciones y partidos políticos, para el uso exclusivo de sus fines. No quedan incluidas en esta fracción las enajenaciones en caso de disolución definitiva de dichas sociedades, aún cuando los adquirentes sean miembros de las mismas, excepto cuando el que adquiera haya aportado el inmueble a la asociación en liquidación.
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1983)</small>
-
-VI.- Las Naciones Extranjeras en caso de reciprocidad.
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1983)</small>
-
-VII.- Las adquisiciones realizadas en los términos de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1983)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 30.
 
-La base para determinar el importe a pagar por concepto de este impuesto, será el valor que resulte mayor entre el del precio pactado, en valor fiscal y el del avalúo que al efecto practique la Secretaría de Finanzas, después de reducirlo en 5 veces al salario mínimo general, elevado al año que rija en el Estado en el momento en que se realice el acto generador.
-
-Para los fines de este Capítulo, se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% del valor de la propiedad.
-
-Cuando entre la fecha de adquisición y la fecha en que sea exigible el pago, haya habido diferimiento del mismo a la base determinada para el pago conforme al párrafo anterior, se aplicará el factor que anualmente establezca el Congreso de la Unión.
-
-La reducción a que se refiere el párrafo anterior, se realizará conforme a lo siguiente:
-
-I.- Se considerarán como un sólo inmueble, los bienes que sean o resulten colindantes, adquiridos por la misma persona en un período de 24 meses. De la suma de los precios o valores de los predios únicamente se tendrá derecho a hacer una sale vez la reducción, la que se calculará al momento en que se realice la primera adquisición. El Adquirente deberá manifestar, bajo protesta de decir verdad, al fedatario ante quien se formalice toda adquisición, si el predio objeto de la operación colinda con otro que hubiere adquirido con anterioridad, para que se ajuste el monto de la reducción, y pagará en su caso, la diferencia de impuesto que corresponda. Lo dispuesto en esta fracción no es aplicable a las adquisiciones por causa de muerte.
-
-II.- Cuando se adquiere parte de la propiedad o de los derechos de un inmueble, a que se refiere al artículo 34 de esta ley, la reducción se hará en la proporción que corresponda a dicha parte.
-
-III.- Tratándose del usufructo o de la nuda propiedad, únicamente se tendrá derecho al 50% de la reducción por cada uno de ellos.
-
-IV.- No se considerarán departamentos habitacionales los que, por sus características originales, se destinen a servicios domésticos, portería o guarda de vehículos aún cuando se utilicen para otros fines.
-
-Cuando del inmueble formen parte departamentos habitacionales, la reducción se hará sobre el valor de cada uno de ellos, con excepción de los hoteles.
-
-Cuando con motivo de la adquisición, el adquirente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
-
-Cuando no se pacte precio, el impuesto se calculará con base en el avalúo que practique persona autorizada por la Secretaría de Finanzas. En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino el del avalúo a que se refiere este párrafo.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1983)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 31.
 
-El impuesto sobre Adquisición de Inmuebles, o transmisión de dominio a pagar, será el que resulte de aplicar a la base gravable la tasa que al efecto apruebe anualmente el Congreso del Estado, la que en todo caso deberá ser la misma que se establece como requisito en la Legislación Federal que regula la materia del Impuesto de Adquisición de Inmuebles.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1983)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 32.
 
-Los sujetos obligados al pago de este impuesto, deberán enterarlo en la Recaudación de Rentas del Estado, en cuya jurisdicción se encuentre ubicado el inmueble, dentro de los 30 días siguientes de la fecha en que se realice el acto generador, mediante declaración utilizando las formas que al efecto apruebe la Secretaría de Finanzas.
-
-La falta de formas oficiales no exime al contribuyente de la obligación de enterar el pago en el plazo señalado en el párrafo que antecede.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1983)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 33.
 
-Los contribuyentes que estén obligados al pago de este impuesto no podrán ser sujetos de impuestos adicionales estatales, ni municipales, por lo que respecta al pago de dicho impuesto.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JULIO DE 1983)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 34.
 
-Esta Ley reconoce como fuentes que originan la adquisición de inmuebles o transmisión de dominio, así como derechos sobre los mismos los siguientes actos:
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 1983)</small>
-
-I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de sociedades y asociaciones.
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1983)</small>
-
-II.- La compraventa en la que el vendedor se reserve la propiedad aún cuando la transferencia de ésta opere con posterioridad.
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1983)</small>
-
-III.- La promesa de adquirir, cuando se pacte que el futuro comprador entrará en posesión de los bienes o que el futuro vendedor recibirá el precio de la venta o parte de él, antes de que se celebre el contrato prometido.
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1983)</small>
-
-IV.- La cesión de derechos del comprador o del futuro comprador en los casos de las fracciones II y III que anteceden, respectivamente.
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1983)</small>
-
-V.- Fusión de Sociedades.
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1983)</small>
-
-VI.- La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles.
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1983)</small>
-
-VII.- Constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la extinción del usufructo temporal.
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1983)</small>
-
-VIII.- Prescripción positiva.
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1983)</small>
-
-IX.- La cesión de derechos del heredero o legatario, cuando entre los bienes de la sucesión haya inmuebles, en la parte relativa y en proporción a éstos.
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1983)</small>
-
-X.- Enajenación a través de fideicomisos, en los términos del Código Fiscal de la Federación.
-
-XI.- (DEROGADA, P.O. 20 DE JULIO DE 1983)
-
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1983)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 35.
 
-Las partes que celebren alguno de los actos a que se refiere el Artículo anterior son responsables solidarios del pago de este Impuesto, según sea el caso en los términos del Artículo 28 de la presente Ley.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1983)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 36.
 
-Este Impuesto deberá pagarse dentro del plazo que establece el artículo 32 de esta ley, aún cuando el contrato se celebre con reserva de dominio o la venta sea a plazo.
-
-El pago del impuesto deberá hacerse dentro del mismo plazo cuando se realice cualquiera de los supuestos que a continuación se señalan:
-
-I.- Cuando se constituya o adquiera el usufructo o la nuda propiedad. En el caso de usufructo temporal, cuando se extinga.
-
-II.- A la adjudicación de los bienes de la sucesión o a los tres añps (sic) de la muerte del autor de la misma si transcurrido dicho plazo no se hubiera llevado e cabo la adjudicación, así como al cederse los derechos hereditarios o al enajenarse bienes por la sucesión. En estos dos últimos casos, el impuesto correspondiente a la adquisición por causa de muerte, se causará en el momento en que se realice la cesión o la enajenación, independientemente del que se cause por el cesionario o por el adquiriente.
-
-III.- Tratándose de adquisiciones efectuadas a través de fideicomiso, cuando se realicen los supuestos de enajenación en los términos del Código Fiscal de la Federación.
-
-IV.- Al protocolizarse o inscribirse el reconocimiento judicial de la prescripción positiva.
-
-V.- En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en registro público, para poder surtir efectos ante terceros en los términos del derecho común; y si no están sujetos a esta formalidad, adquirirse el dominio conforme a las leyes.
-
-El contribuyente podrá pagar el impuesto por anticipado.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1983)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 37.
 
-Las Autoridades Judiciales, del Trabajo o Administrativas, están obligadas a dar aviso anticipado a la Secretaría de Finanzas del Estado, que se verificará remate de inmuebles y practicado éste, deberán remitirle copia certificada de la Diligencia de Remate y Adjudicación.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JULIO DE 1983)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 38.
 
-Los Notarios, Jueces y toda persona que se encuentre investida de fé pública, así como los Funcionarios del Registro Público de la Propiedad y de Comercio, no autorizarán actos o contratos de transmisión de dominio o adquisición de la propiedad raíz o de derechos reales o posesorios sobre los mismos, ni harán inscripción o anotación alguna de escrituras, actos o contratos sin que el solicitante compruebe lo siguiente:
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1983)</small>
-
-I.- Que se ha pagado el Impuesto a que se refiere el Artículo 28 de esta Ley.
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1983)</small>
-
-II.- Que está al corriente en el pago de todas las obligaciones fiscales a que se encuentre sujeto el inmueble objeto de la operación, hasta el mes en que realice la autorización o registro.
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 1983)</small>
-
-III.- Que se ha efectuado el deslinde del predio.
-
-Las comprobaciones a que se refiere este Artículo se harán, respecto de la primera Fracción, mediante la presentación de las declaraciones o recibos oficiales que las substituyan, mismos que deberán contener la impresión de la máquina registradora; en cuanto a la segunda por medio de certificado de libertad de gravámenes fiscales debidamente firmado por el Titular y Sello de la Dependencia correspondiente; en lo que se refiere a la tercera con el acta o plano expedido por la Dirección de Catastro y Control Urbano o por la Dependencia u Organismo descentralizado que legalmente la substituya.
-
-IV.- (DEROGADA, P.O. 20 DE JULIO DE 1983)
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1983)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 39.
 
-Los sujetos que realicen o celebren alguno de los actos enumerados en el artículo 34 de la presente ley, están obligados a presentar su declaración aún cuando no existe impuesto a pagar, en el mismo plazo que los que tengan impuestos por enterar.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1983)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 40.
 
-Los Notarios, Jueces y demás funcionarios públicos que violen lo dispuesto en el Artículo 38, serán responsables solidarios del importe total de las prestaciones fiscales que dejaren de pagar los contribuyentes de este impuesto sin perjuicio de las sanciones administrativas y de la responsabilidad penal en que incurran, en los términos de los artículos 62, 63 y del 67 al 78 del Código Fiscal del Estado.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1983)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 41.
 
-Para los efectos del pago del impuesto, en caso de escrituras, adjudicaciones o contratos que se celebren fuera del Estado, de biene (sic) ubicados en éste, el adquirente dentro de los 60 días siguientes a la fecha de subscripción o protocolización de los mismos, deberá presentar su declaración ante la Secretaría de Finanzas o la dependencia de ésta en cuya jurisdicción se encuentre ubicado él o los inmuebles.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ### CAPITULO III. Impuestos Sobre Actividades Mercantiles e Industriales
 
@@ -545,9 +259,9 @@ a).- El sobreprecio, los intereses o cualquier otra prestación que aumente el i
 
 b).- El ingreso determinado por la autoridad fiscal, en uso de sus facultades.
 
-c).- La diferencia entre los precios declarados por el causante y los que fije la Secretaría de Finanzas a través de sus dependencias, cuando los primeros no correspondan a los reales del mercado. En tales casos, para los fines de este impuesto, dichos precios se fijarán tomando en cuenta los de factura, los oficiales o los corrientes en el mercado interior y exterior.
+c).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
-d).- La diferencia entre el precio estimado por la Secretaría de Finanzas y el obtenido por el causante por la venta de bienes o prestación de servicios al costo o a menos del costo. En estos casos el precio se estimará tomando en cuenta las operaciones normales del causante. No se hará la estimación a que este párrafo se refiere, cuando el causante demuestre que la venta o la prestación de servicios se hizo al precio del mercado, en la fecha de la operación, o cuando a juicio de la Secretaría de Finanzas esté comprobado satisfactoriamente que los bienes han sufrido demérito, o existen circunstancias que determinen la necesidad de la operación.
+d).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 e).- Los ingresos estimados provenientes de compras o adquisiciones no declaradas.
 
@@ -583,13 +297,11 @@ De no satisfacer los requisitos anteriores, se estimará que el comisionista ha 
 
 El ingreso gravable del propietario de las mercancías estará formado por el total de los ingresos obtenidos con motivo de las operaciones celebradas por el comisionista, agente, consignatario, representante, corredor o distribuidor, sin que sea deducible para este efecto la retribución estipulada a éstos últimos.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 50.
 
-Son causantes de este Impuesto, las personas físicas o morales y las unidades económicas que obtengan ingresos provenientes de cualquier operación mercantil que se realice o surta sus efectos en el Estado de Baja California.
-
-Los causantes de este Impuesto podrán trasladarlo expresamente al comprador o usuario del servicio. Cuando lo hagan consignarán por separado en las facturas, notas de venta o cintas de la máquina registradora que expidan, el importe de la operación y el moonto (sic) del Impuesto que se calculará exclusivamente sobre dicho importe.
-
-El Impuesto no será trasladable por quienes obtengan ingresos provenientes de la explotación de hoteles, casas o apartamentos amueblados, campos turísticos, restaurantes, bares, cantinas, estacionamientos de casas autotransportables.
+Son causantes de este Impuesto, las personas físicas o morales que obtengan ingresos provenientes de cualquier operación mercantil que se realice o surta sus efectos en el Estado de Baja California.
 
 ###### ARTICULO 51.
 
@@ -621,13 +333,13 @@ III.- Los almacenes o bodegas que no perciban ingresos, presentarán por una sol
 
 El impuesto se causará y pagará conforme a las tasas y cuotas que fije la Ley de Ingresos del Estado.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1973)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
 ###### ARTICULO 54.
 
 El impuesto se causará y pagará mensualmente en razón de los ingresos gravables que obtengan los causantes. Tratándose de ventas de primera mano de gasolina y otros productos derivados del petróleo distintos del gas doméstico, el impuesto se pagará en el momento en que el causante adquiera los productos siendo recaudado por Petróleos Mexicanos en los términos del Reglamento del Artículo 21 de la Ley del Impuesto Sobre Consumo de Gasolina.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1973)</small>
 
 ###### ARTICULO 55.
 
@@ -691,11 +403,11 @@ Los causantes que, como consecuencia de las operaciones que realicen, registren 
 
 También podrán hacer rectificaciones cuando descubran errores en las declaraciones presentadas que motiven una diferencia de menos en el Impuesto pagado.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 61.
 
-Cuando los contribuyentes no hayan hecho uso de las prerrogativas que les concede el Artículo anterior, si al finalizar su ejercicio fiscal determinan diferencias de Impuesto pagadas tanto de más como de menos, podrán hacer las compensaciones correspondientes y si de ellas resulta diferencia a su cargo, la cubrirán mediante declaración complementaria, con los recargos de Ley dentro de los tres meses siguientes al cierre del ejercicio; si por el contrario, la diferencia fuere a su favor, podrán solicitar su devolución.
-
-Fuera del plazo señalado en el párrafo anterior, no podrán hacerse las compensaciones de que se trata y en este caso los contribuyentes deberán pagar los créditos omitidos y recargos y pedir por separado la devolución del Impuesto cubierto en exceso.
+Cuando los contribuyentes no hayan hecho uso de las prerrogativas que les concede el Artículo anterior, si al finalizar su ejercicio fiscal determinan diferencias de impuestos pagados tanto de más como de menos, podrán hacer las compensaciones correspondientes y si de ellas resulta diferencia a su cargo, la cubrirán mediante declaración complementaria, con los recargos de Ley; si por el contrario, la diferencia fuere a su favor, podrán solicitar su devolución.
 
 ###### ARTICULO 62.
 
@@ -705,21 +417,15 @@ Los contribuyentes por iniciativa propia no podrán hacer las rectificaciones a 
 
 Los causantes de este Impuesto están obligados a registrarse en las Recaudaciones de Rentas de su jurisdicción. Cuando un mismo causante tenga diversos giros, sucursales, bodegas o dependencias deberá empadronarse cada uno de ellos por separado.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 64.
 
 Los causantes presentarán sus solicitudes de empadronamiento dentro de los diez días siguientes a la fecha de iniciación de sus operaciones, haciendo uso de las formas oficialmente aprobadas, con los datos que en ellas se exijan.
 
-Para los efectos de este Impuesto se entiende como fecha de iniciación de operaciones, aquella en que se efectúe la apertura o en la que el causante obtenga el primer ingreso. Tratándose de personas morales, la iniciación de operaciones será la fecha de su constitución.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1977)</small>
-
 ###### ARTICULO 65.
 
-Los sujetos de este impuestos (sic) que únicamente perciban ingresos exentos tienen obligación, excepción hecha de los comprendidos en las Fracciones II, III y V del Artículo 56 de esta Ley, de:
-
-I.- Registrarse dentro de los diez días siguientes a la fecha de iniciación de sus operaciones.
-
-II.- Los ya establecidos, registrarse dentro del término de dos meses contados a partir de la vigencia de esta Ley.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 66.
 
@@ -737,15 +443,11 @@ V.- Clausura.
 
 En caso de traspaso, la manifestación deberá hacerse con diez días de anticipación. No podrá efectuarse éste sin que previamente se compruebe que el establecimiento o negociación está al corriente en el pago de sus obligaciones fiscales.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 1974)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 67.
 
-Los causantes y retenedores de este Impuesto están obligados a presentar sus declaraciones y a efectuar su pago en las Oficinas Recaudadoras correspondientes dentro de los días comprendidos del primero al veinte de cada mes.
-
-Asimismo, presentarán sus declaraciones aún cuando no hubieran obtenido ingresos gravables, expresando la causa de ello.
-
-No se admitirán las declaraciones si en el mismo acto de su presentación no se pagan íntegramente el Impuesto y recargos correspondientes en su caso.
+Los causantes y retenedores de este impuesto están obligados a presentar sus declaraciones y a efectuar su pago en las Oficinas Recaudadoras correspondientes, dentro del período comprendido del día primero al quince de cada mes.
 
 ###### ARTICULO 68.
 
@@ -767,25 +469,7 @@ III.- Por el gerente o encargado de la sucursal y por el contador si lo hubiere,
 
 ###### ARTICULO 71.
 
-Son obligaciones de los causantes:
-
-I.- Llevar cuando menos los registros contables simplificados en la forma que para tal efecto disponen los preceptos fiscales federales respectivos.
-
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 1976)</small>
-
-II.- Los asientos correspondientes a las operaciones efectuadas, deberán registrarse en los libros legalmente autorizados, dentro de los sesenta días siguientes a la fecha en que hayan sido realizadas, designando las circunstancias y carácter de cada operación y el resultado que produzca a su cargo o descargo.
-
-Los ingresos obtenidos de las operaciones antes mencionadas, deberán ser registrados dentro de los días 1o. al 20 del mes siguiente al que se hayan percibido.
-
-III.- Conservar la documentación y demás elementos contables y comprobatorios en el domicilio señalado en la solicitud de empadronamiento;
-
-IV.- Proporcionar a las autoridades Fiscales los datos o informaciones que se les soliciten, dentro del plazo fijado para ello;
-
-V.- Aquellos causantes cuya actividad consista en la venta de automóviles y camiones usados deberán llevar un control de inventarios de los mismos mediante calcomanías oficiales que expida la Secretaría de Finanzas y que deberán adherirse a cada uno de aquellos dentro de las veinticuatro horas siguientes a su adquisición.
-
-VI.- Recibir las visitas de investigación y proporcionar a los auditores o a los investigadores los libros, datos, informes, documentos y demás registros que soliciten para el desempeño de sus funciones;
-
-VII.- Conservar cinco años la documentación y demás elementos contables y comprobatorios relativos a las operaciones efectuadas, para efectos de la prescripción que establece el Código Fiscal del Estado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1977)</small>
 
@@ -921,15 +605,15 @@ Los retenedores enterarán el Impuesto mediante una declaración adicional, en l
 
 ###### ARTICULO 78.
 
-Cuando el administrador único o los administradores de las sociedades autoricen al gerente, al director o apoderado de la empresa para que presenten las declaraciones mensuales sin previa aprobación expresa, asumirán, para todos los efectos legales, las responsabilidades que puedan derivarse de la falsedad o inexactitud de dichas declaraciones.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 79.
 
-Para los efectos del artículo anterior, el administrador o los administradores deberán aprobar expresamente, dentro de los tres primeros meses de cada año natural, todas las declaraciones presentadas durante el año anterior.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 80.
 
-Los terceros responsables de la contabilidad o del pago de los impuestos de los causantes son solidariamente responsables de las infracciones cometidas cuando no se hayan establecido los sistemas que para el control de los ingresos establece la presente Ley.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 81.
 
@@ -979,83 +663,43 @@ Los causantes eventuales que efectúen ventas de bebidas con graduación alcohó
 
 ###### ARTICULO 88.
 
-Para la vigilancia del Impuesto Sobre Actividades Mercantiles e Industriales, la Secretaría de Finanzas es la única autoridad fiscal facultada para exigir de los causantes la adopción y establecimiento de medios de control, ordenar la práctica de auditorías; efectuar las investigaciones que procedan; obtener los datos e informes que tengan relación con el objeto de auditoría, exigir en el domicilio de los contribuyentes, la exhibición de los libros de contabilidad debidamente autorizados y documentos comprobatorios de los asientos respectivos y, en general, solicitar los elementos necesarios para comprobar el cumplimiento de las disposiciones que rigen este Impuesto.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
-La Secretaría de Finanzas podrá delegar el ejercicio de esta facultad en la autoridad que estime conveniente.
+ARTICULO 88 BIS.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
-Cuando el causante carezca de contabilidad, no cuente con la documentación que demuestre el ingreso gravable, no presente la declaración mensual de ingresos o se compruebe la falsedad de los mismos, la autoridad fiscal podrá determinar estimativamente el ingreso gravable tomando en cuenta lo dispuesto en el artículo 90 ya sea por medios indirectos de investigación económica, o de cualquier otra clase.
-
-Los contribuyentes a quienes se les practique una auditoría deberán dar aviso por escrito a la Secretaría de Finanzas o a la autoridad fiscal correspondiente, de cualquier acto indebido que cometan o pretendan cometer los funcionarios designados para efectuarla.
-
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1976)</small>
-
-ARTICULO 88 BIS.- En el caso de que los contribuyentes se coloquen en alguna de las causales de estimativa a que se refieren las leyes fiscales y no puedan comprobar su ingreso por el período objeto de revisión, se presumirá que el ingreso es igual al resultado de alguna de las siguientes operaciones:
-
-A.- Si con base en la contabilidad y documentación del causante o información de terceros pudieran reconstruirse las operaciones normales correspondientes cuando menos a treinta días, el ingreso diario promedio que resulte se multiplicará por el número de días que corresponda al período objeto de revisión.
-
-> <small>(F. DE E., P.O. 20 DE MARZO DE 1976)</small>
-
-B.- Si la contabilidad y documentación del causante no permite reconstruir las operaciones de treinta días, la Secretaría de Finanzas a través de sus dependencias tomará como base los ingresos que observe durante tres días, cuando menos, de operaciones normales y el promedio diario resultante se multiplicará por el número de días que comprenda el período objeto de revisión.
-
-El ingreso estimado presuntivamente por alguno de los procedimientos anteriores, se le aplicará la tasa o tarifa impositiva que corresponda.
-
-Lo dispuesto en esta fracción no modifica los procedimientos para determinar o estimar los ingresos de los contribuyentes que contienen las diversas disposiciones fiscales.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 89.
 
-Cuando se solicite la suspensión provisional o definitiva de orden de clausura, además de garantizarse el interés fiscal, en algunas de las formas que establece el artículo 57 del Código Fiscal del Estado, la Secretaría de Finanzas podrá ordenar la inspección permanente del establecimiento, la que subsistirá hasta la terminación del juicio.
-
-Esta inspección estará a cargo de contadores designados y removidos libremente por la misma Secretaría; sus sueldos o remuneraciones serán pagados por el causante dentro de los diez días de cada mes y por conducto de la Recaudación de Rentas de la jurisdicción del contribuyente.
-
-Los contribuyentes tendrán derecho a la restitución de los sueldos o remuneraciones pagados en los casos en que se nulifique la resolución.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+Cuando se solicite la suspención (sic) provisional o definitiva de orden de clausura, deberá garantizarse el interés fiscal en algunas de las formas que establece el Artículo 78 del Código Fiscal del Estado.
 
 ###### ARTICULO 90.
 
-Para la mejor administración y control de este Impuesto la Secretaría de Finanzas podrá revisar las declaraciones de los causantes.
-
-Para tal revisión se tomarán en cuenta los siguientes elementos:
-
-Impuesto que hayan pagado a la Federación o a los Municipios, cantidades que cubran por concepto de renta del local que ocupen y energía eléctrica, número de los empleados que tengan a su servicio y sueldos que se les paguen; factor de utilidad bruta; activo total; ingreso resultante en intervenciones a la caja de los causantes y los demás datos que puedan utilizarse para la determinación de los ingresos realmente percibidos.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 91.
 
-Los causantes que no soliciten su registro dentro del término establecido, serán sancionados de conformidad con lo establecido en el Código Fiscal del Estado y podrá ordenarse la clausura de su negocio hasta que paguen total mente el Impuesto omitido, así como la multa impuesta, en su caso.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 92.
 
-En caso de falta de presentación de las declaraciones mensuales de ingresos, dentro del plazo establecido en el Artículo 67 se estará a lo siguiente:
-
-I.- Transcurridos tres días contados a partir del día siguiente al de vencimiento de dicho plazo, la Recaudación de Rentas, requerirá al causante moroso para que, de conformidad con lo dispuesto en los Artículos 91 y 94 del Código Fiscal del Estado, presente en un plazo de tres días la declaración o declaraciones omitidas;
-
-II.- Tratándose de declaración o declaraciones omitidas que acusen Impuesto, si el causante las presenta de manera espontánea, pagará recargos de conformidad con lo previsto en la Ley de Ingresos en vigor;
-
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1976)</small>
-
-III.- Cuando la declaración o declaraciones omitidas no causen impuesto, el causante será sancionado, en todos los casos, en los términos que establece el Código Fiscal del Estado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 93.
 
-Cuando el causante haya sido requerido para presentar la declaración o declaraciones omitidas, correspondiente a tres meses consecutivos y no cumpla con esta prevención en el término de tres días que señala el Artículo anterior, la Recaudación de Rentas respectiva podrá proceder de inmediato a la clausura del establecimiento, pero si la naturaleza del giro o por la situación del local, no es posible efectuar la clausura, se secuestrarán bienes suficientes que garanticen el interés fiscal en los términos del Código Fiscal del Estado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 94.
 
-El procedimiento señalado en el Artículo anterior se aplicará en caso de cualquier prestación fiscal que resulte a cargo del contribuyente en los términos de este Capítulo, pero el procedimiento deberá iniciarse a partir del día siguiente al que venza el plazo concedido para el pago.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 95.
 
-No se llevará a cabo la clausura a que se refiere el artículo 93 si el causante paga el importe del impuesto que adeude, más el monto de las sanciones y recargos a que se haya hecho acreedor.
-
-También serán a cargo del causante los gastos de ejecución ocasionados por estas diligencias.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 96.
 
-La diligencia de clausura a que se refiere el Artículo 93 se ejecutará inmediatamente después de la fecha que se expidan las órdenes.
-
-Dichas clausuras deberán ser levantadas inmediatamente que se pague o garantice el adeudo fiscal que resulte a a (sic) cargo del contribuyente y que incluirá los gastos de ejecución.
-
-El Secretario de Finanzas y los Recaudadores de Rentas, son las únicas autoridades que podrán suspender las clausuras ordenadas, salvo órdenes de autoridad judicial al respecto.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ### CAPITULO IV. Impuesto Sobre Producción Agropecuaria
 
@@ -1405,29 +1049,33 @@ Las personas que presten los servicios a que se refiere el Artículo 127 de esta
 
 ### CAPITULO X. Impuesto Sobre Diversiones y Espectáculos Públicos
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 137.
 
-Son objeto del Impuesto sobre Diversiones y Espectáculos Públicos los ingresos que se obtengan provenientes de actos o actividades que no paguen el Impuesto al Valor Agregado, por el boleto de entrada, derivado de la explotación de las siguientes actividades: Salas de Teatros o de Cinematógrafo, Circos, luchas, corridas de toros, espectáculos deportivos, apuestas permitidas de todos tipos, agencias de apuestas sobre carreras y frontones, audiencias musicales y exhibiciones de cualquier tipo con cuota de admisión.
+Son objeto del Impuesto sobre Diversiones y Espectáculos Públicos, los ingresos derivados de la explotación de las siguientes actividades, por la cuota de admisión, siempre que dichas actividades no estén gravadas por el Impuesto al Valor Agregado: Teatro, Cine, Circo y Espectáculos de Carpa, Corridas de Toros; Espectáculos de Box, Lucha y deportivos, Apuestas permitidas de todo tipo, apuestas sobre carreras y frontones, audiencias musicales y espectáculos de cualquier tipo, con cuota de admisión.
 
-No se consideran objeto del Impuesto los espectáculos públicos prestados en restaurantes, bares, cabarets, salones de fiesta o de baile y centros nocturnos.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 138.
 
-Son sujetos de este Impuesto las personas físicas, morales o unidades económicas, que obtengan ingresos por la explotación de las actividades señaladas en el Artículo anterior.
+Son sujetos de este impuesto las personas fisecias (sic) o morales que obtengan ingresos por la explotación de las actividades señaladas en el Artículo anterior.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 139.
 
-Este impuesto se causará con base en los ingresos que se obtengan por la explotación de las actividades que señala el Artículo 137 de este Capítulo, y se pagará conforme a las tarifas y cuotas que señala la Ley de Ingresos del Estado.
+Este impuesto se causará con base en los ingresos que se obtengan por la explotación de las actividades que señala el Artículo 137 de esta Ley, y se pagará conforme a las tarifas y cuotas que señala la Ley de Ingresos del Estado.
 
 ###### ARTICULO 140.
 
 El Impuesto deberá pagarse en la Recaudación de Rentas correspondiente al día hábil siguiente de aquél en que se generó el ingreso, mediante una manifestación en las formas aprobadas por la Secretaría de Finanzas.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 141.
 
-Los ingresos serán supervisados por un interventor que designará la autoridad Fiscal correspondiente, con las facultades que en el mismo nombramiento se le otorguen.
+Los ingresos serán supervisados por un interventor que designara la autoridad fiscal correspondiente, con las facultades que le otorga esta Ley.
 
 ###### ARTICULO 142.
 
@@ -1443,25 +1091,43 @@ II.- Formular liquidación que deberá ser firmada por un representante de la em
 
 ### CAPITULO XI. Impuesto Sobre Compraventa y Operaciones Similares
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 144.
 
-Son objeto del Impuesto sobre Compra-venta y operaciones similares, los actos civiles siguientes:
+Son objeto del Impuesto sobre Compraventa y Operaciones Similares, los actos civiles siguientes:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
 I.- Compra de vehículos automotores usados.
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
 II.- Venta de bienes muebles usados.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+III.- Operaciones Similares.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+Para efectos de este impuesto, se considera como Operaciones Similares, todas aquellas que impliquen el cambio de propietario de bienes muebles usados, con independencia del nombre que les asignen las leyes que rijan el acto que les de origen, incluyendo la dación en pago.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 145.
 
-Son sujetos de este Impuesto, las personas físicas, morales o unidades económicas que celebren las operaciones mencionadas en el Artículo anterior que no estén gravadas por el Impuesto Sobre Actividades Mercantiles e Industriales.
+Son sujetos de este impuesto, las personas físicas o morales que celebren las operaciones mencionadas en el Artículo anterior, que no estén gravadas por el Impuesto sobre Actividades Mercantiles e Industriales.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 146.
 
-Para los efectos de este Impuesto, la base gravable será:
+Para los efectos de este impuesto la base gravable será:
 
-I.- Tratándose de vehículos automotores, los valores que señale el Tabulador Oficial de valores mínimos del Registro Federal de Automóviles;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+I.- Tratándose de vehículos automotores, los valores que señale al Tabulador Oficial de Valores mínimos que expida la Secretaría de Finanzas del Estado.
 
 II.- En los demás casos, el valor de la operación.
 
@@ -1561,7 +1227,9 @@ DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTA
 
 13.- Es objeto del Impuesto, la realización de pagos por concepto de remuneraciones al trabajo personal, prestado bajo la dirección o dependencia de un tercero dentro del territorio del Estado, excepto cuando se identifiquen como necesarios para la realización de los siguientes actos o actividades:
 
-a).- Enajenación de bienes o prestación de servicios, cuando unos u otros se exporten, en los términos del Artículo 29 de la Ley del Impuesto al Valor Agregado;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+a).- Enajenación de bienes o prestación de servicios, cuando unos u otros se exporten, en los términos del Artículo 29 de la Ley del Impuesto al Valor Agregado, excepto los expresamente señalados en esta Ley.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1988)</small>
 
@@ -1767,23 +1435,27 @@ El período a que debe referirse el por ciento, será como mínimo de un bimestr
 
 ### CAPITULO XVII. Impuesto Adicional para la Educación Media y Superior
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 152.
 
-Son objeto del Impuesto Adicional para la Educación Media y Superior, los Impuestos, derechos y rezagos de los mismos, que se causen conforme a las Leyes Fiscales del Estado. No se pagará el Impuesto cuando se originen de aquellos que queden suspendidos en virtud de este Decreto.
+Son objeto del Impuesto Adicional para la Educación Media y Superior, los impuestos y derechos que se causen conforme a las leyes fiscales del Estado. No se pagará el Impuesto cuando se origine de aquellos que se encuentren suspendidos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 153.
 
-La base gravable de este Impuesto será el importe de los impuestos, derechos o rezagos que se causen.
+La base gravable de este impuesto será el importe de los impuestos y derechos que se causen.
 
 ###### ARTICULO 154.
 
 Este Impuesto se causará conforme la tasa que fije la Ley de Ingresos del Estado y se pagará en el momento en que se cubran las prestaciones fiscales, enterándolo en la Recaudación de Rentas correspondiente.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 155.
 
-Son sujetos de este Impuesto, quienes causen los impuestos, derechos y rezagos a que se refiere el Artículo 152.
+Son sujetos de este impuesto, quienes causen los impuestos y derechos a que se refiere el Artículo 152.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JUNIO DE 1975)</small>
 
@@ -1847,35 +1519,37 @@ VIII.- El Impuesto Sobre Profesiones y Ejercicios Lucrativos.
 
 ## TITULO III. DERECHOS
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE JULIO DE 1982)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 157.
 
-Los servicios que presta el Gobierno del Estado en forma directa o a través de sus organismos descentralizados o concesionarios obliga a quien los reciba, a excepción hecha de la Beneficiencia (sic) Pública, al pago total de su importe.
+Los servicios que el Gobierno del Estado proporcione en forma directa o a través de sus organismos descentralizados o concesionarios, al realizar una actividad de interés público, obligan a quien los reciba, al pago de los derechos correspondientes.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 158.
 
-Los derechos se causarán y pagarán de conformidad con las tasas y cuotas que establezca la Ley de Ingresos del Estado y a falta de disposición expresa, la autoridad fiscal determinará su monto, teniendo en cuenta el costo que para el Gobierno tenga la prestación del servicio.
+Los derechos se causarán y pagarán de conformidad con las tasas, cuotas y tarifas que establezca la Ley de Ingresos del Estado.
 
 ###### ARTICULO 159.
 
 Los derechos se causan en el momento en que se presten los servicios, o en la forma que determina la Ley de Ingresos del Estado.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE JULIO DE 1982)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 160.
 
-El Gobierno del Estado, sus organismos descentralizados y concesionarios sólo podrán cobrar los derechos que señala la Ley de Ingresos del Estado.
+Sólo podrán cobrarse los derechos que expresamente autorice la Ley de Ingresos del Estado.
 
 ## TITULO IV. PRODUCTOS
 
 ###### ARTICULO 161.
 
-Quedan comprendidos como productos, los ingresos que obtiene el Estado por actividades que no correspondan al desarrollo de sus funciones propias de Derecho Público, así como por la explotación o aprovechamiento de los bienes que constituyen su patrimonio.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 162.
 
-Los productos que perciba el Estado se regularán por los contratos o convenios que se celebren y su importe deberá enterarse en la Recaudación de Rentas correspondiente, en los plazos, términos y condiciones que en los mismos se establezcan o por las disposiciones que al respecto señale la Ley de Ingresos del Estado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 163.
 
@@ -1885,9 +1559,13 @@ Los productos provenientes de las ventas o arrendamientos de muebles e inmuebles
 
 Los productos de los establecimientos dependientes del Gobierno del Estado, en los que se ejerzan actividades económicas lucrativas, que no correspondan a las funciones de Derecho Público, se regirán por las bases generales que fije el Ejecutivo del Estado y su cobro se sujetará a lo que en las mismas bases se disponga.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 165.
 
-Los capitales impuestos a réditos, así como toda clase de acciones y valores que formen parte de la Hacienda Pública del Estado y los intereses o productos de los mismos, se regirán por los contratos o actos jurídicos de que se deriven. En caso de que se incurra en mora en el pago de los créditos, éstos se harán efectivos en la forma convenida en los propios actos o contratos, y a falta de éstos, en la vía judicial. En este caso, por acuerdo del Gobernador del Estado, podrá encomendarse el ejercicio de las acciones procedentes al Departamento Jurídico del Gobierno, cuyos honorarios se cubrirán con el importe de las costas que cubra el deudor, más el porcentaje que se estipule en el convenio respectivo.
+Los capitales impuestos a réditos, así como toda clase de acciones y valores que formen parte de la Hacienda Pública del Estado y los intereses o productos de los mismos, se regirán por los contratos o actos jurídicos de que se deriven.
+
+En caso de que se incurra en mora en el pago de los créditos, éstos se harán efectivos en la forma convenida en los propios actos o contratos, y a falta de estos, en la vía judicial.
 
 ###### ARTICULO 166.
 
@@ -1907,15 +1585,19 @@ Las participaciones se regirán por las disposiciones que al respecto establezca
 
 ## TITULO VII. CONTRIBUCIONES DE MEJORAS
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 169.
 
-Las contribuciones de mejoras son tributos que el Poder Público fija a quienes independientemente de la utilidad general colectiva, obtengan beneficios diferenciales particulares derivados de obras públicas en los términos de las leyes respectivas.
+Las contribuciones de mejoras que establezcan las leyes especiales, se causarán y pagarán en la forma y términos que las mismas leyes dispongan.
 
 ## TITULO VIII. INGRESOS EXTRAORDINARIOS
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 170.
 
-Son ingresos extraordinarios aquellos que la Hacienda Pública del Estado de Baja California perciba, cuando las circunstancias especiales coloquen al propio estado frente a necesidades imprevistas que lo obliguen a efectuar erogaciones extraordinarias.
+Los ingresos extraordinarios se regirán por las leyes que los establezcan o en su caso, por los decretos o contratos respectivos.
 
 ###### ARTICULO 171.
 
@@ -2174,3 +1856,9 @@ Se derogan todas las disposiciones Leyes o Acuerdos en lo que se contraponga con
 ###### ARTICULO TERCERO.
 
 Las personas físicas o morales, que se dediquen a las actividades señaladas en el inciso b), del Artículo 151-13 que hayan iniciado operaciones durante 1987, cumplirán con todas las obligaciones y quedarán sujetas a este Decreto a partir del 1o. de Enero de 1989.
+
+P.O. 31 DE DICIEMBRE DE 1988.
+
+###### ARTICULO UNICO.
+
+Las Reformas y Adiciones a que se refiere el presente Decreto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
