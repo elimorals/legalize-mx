@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-la-division-territorial-del-estado-de-morelos-7051"
 country: "mx"
 rank: "ley"
 publication_date: "1932-12-18"
-last_updated: "1932-12-18"
+last_updated: "1934-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LA DIVISIÓN TERRITORIAL DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 1934.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el domingo 18 de diciembre de 1932.
 
@@ -67,17 +67,21 @@ Corresponden a la jurisdicción del Municipio de Coatlán, los siguientes centro
 
 Corresponden a la jurisdicción del Municipio de Cuautla, los siguientes centros de población: Otilio Montaño, Calderón, Casasano, Cuautla, Cabecera del Municipio Cuautlixco, Hospital, Puxtla, Gabriel Tepepa, Eusebio Jáuregui y Tetelcingo.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1934)</small>
+
 ###### Art. 9.
 
-Corresponden a la jurisdicción del Municipio de Cuernavaca, los siguientes centros de población: Acapantzingo Alameda, Amatitlán, Francisco Leyva, Buenavista del Monte, Cantarranas, Chapultepec, Chipitlán, Cuernavaca Cabecera del Municipio, Felipe Neri (antes Gualupita), El Salto, Las Huertas, Tetela y Tlaltenango.
+Corresponden a la jurisdicción del Municipio de Cuernavaca, los siguientes centros de población: Acapantzingo, Ahuatepec, Ahuacatitlán, Alameda, Amatitlán, Buenavista del Monte, Cantarranas, Cuernavaca, Cabecera del Municipio, Chamilpa, Chapultepec, Chipitlán, El Salto, Felipe Neri, Francisco Leyva, Las Huertas, Ocotepec, Tetela del Monte y Tlaltenango
 
 ###### Art. 10.
 
 Corresponden a la jurisdicción del Municipio de Emiliano Zapata, los siguientes centros de población: Acatlipa, Emiliano Zapata Cabecera del Municipio, Tepetzingo, Tetecalita y Tezoyuca.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1934)</small>
+
 ###### Art. 11.
 
-Corresponden a la jurisdicción del Municipio de Huitzilac, los siguientes centros de población: Ahuacatitlán, Ahuatepec, Coajomulco, Chamilpa, Fierro del Toro, Huitzilac Cabecera del Municipio, Ocotepec y Tres Cumbres.
+Corresponden a la jurisdicción del Municipio de Huitzilac, los siguientes centros de población: Coajomulco, Fierro del Toro, Huitzilac Cabecera del Municipio y Tres Cumbres.
 
 ###### Art. 12.
 
@@ -178,3 +182,9 @@ En cumplimiento de lo dispuesto por la fracción I del artículo 71 de la Consti
 Sufragio Efectivo No Reelección.
 
 El Gobernador Const. del Estado, Vicente Estrada Cajigal.- El Secretario Gral. de Gobierno, Dip. Luis G. Campo.
+
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 26 DE AGOSTO DE 1934.
+
+UNICO.- Este Decreto comenzará a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
