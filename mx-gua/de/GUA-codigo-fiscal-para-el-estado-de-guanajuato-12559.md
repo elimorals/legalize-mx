@@ -4,7 +4,7 @@ identifier: "GUA-codigo-fiscal-para-el-estado-de-guanajuato-12559"
 country: "mx"
 rank: "codigo"
 publication_date: "1978-12-31"
-last_updated: "1983-12-30"
+last_updated: "1984-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO FISCAL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1984.
 
 Código publicado en la Segunda Parte Anexo del Periódico Oficial del Estado de Guanajuato, el domingo 31 de diciembre de 1978.
 
@@ -153,53 +153,31 @@ Son participaciones las cantidades que el Gobierno del Estado tiene derecho a pe
 
 #### SECCION PRIMERA. Autoridades Fiscales del Estado
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1984)</small>
+
 ###### ARTICULO 19.
 
-Son autoridades fiscales del Estado, para los efectos de este Código y demás disposiciones vigentes, las siguientes:
+Son Autoridades Fiscales del Estado, para los efectos de este Código y demás disposiciones vigentes, las siguientes:
 
 I.- El Gobernador del Estado;
 
-II.- El Tesorero General;
+II.- El Secretario de Finanzas;
 
-> <small>(REFORMADA, P.O. 3 DE ENERO DE 1980)</small>
+III.- El Sub-Secretario de Finanzas;
 
-III.- El Subtesorero;
+IV.- El Director General de Ingresos;
 
-> <small>(REFORMADA, P.O. 3 DE ENERO DE 1980)</small>
+V.- El Director General de Egresos;
 
-IV.- El Director de Ingresos;
+VI.- El Director de Servicios Jurídicos;
 
-> <small>(REFORMADA, P.O. 3 DE ENERO DE 1980)</small>
+VII.- El Director de Impuestos a la Propiedad Raíz;
 
-V.- El Director de Catastro e Impuestos a la Propiedad Raíz;
+VIII.- El Director de Impuestos Coordinados e Impuestos y Derechos Estatales;
 
-> <small>(REFORMADA, P.O. 3 DE ENERO DE 1980)</small>
+IX.- Los Jefes de las Oficinas Recaudadoras del Estado; y
 
-VI.- El Director de Asuntos Jurídicos;
-
-> <small>(ADICIONADA, P.O. 3 DE ENERO DE 1980)</small>
-
-VII.- El Director de Operación de Oficinas Recaudadoras;
-
-> <small>(REFORMADA, P.O. 3 DE ENERO DE 1980)</small>
-
-VIII.- Los Subdirectores de las Direcciones antes mencionadas;
-
-> <small>(REFORMADA, P.O. 3 DE ENERO DE 1980)</small>
-
-IX.- Los Jefes de Departamento de las Direcciones citadas en las fracciones anteriores;
-
-> <small>(REFORMADA, P.O. 3 DE ENERO DE 1980)</small>
-
-X.- Los Jefes de las Oficinas Recaudadoras del Estado;
-
-> <small>(ADICIONADA, P.O. 3 DE ENERO DE 1980)</small>
-
-XI.- Los Auditores de la Tesorería General; y
-
-> <small>(REFORMADA, P.O. 3 DE ENERO DE 1980)</small>
-
-XII.- Los Inspectores de la Tesorería General.
+X.- Los Auditores e Inspectores de la Secretaría de Finanzas.
 
 #### SECCION SEGUNDA. Facultades
 
@@ -745,19 +723,23 @@ Las multas por infracciones a las disposiciones fiscales y los recargos, podrán
 
 De la Cancelación
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1984)</small>
+
 ###### ARTICULO 67.
 
-El Tesorero General podrá cancelar los créditos fiscales cuyo monto no exceda a la cantidad de $100.00.
+El Secretario de Finanzas podrá cancelar los créditos fiscales cuyo monto no exceda a la cantidad de $1,000.00.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1984)</small>
 
 ###### ARTICULO 68.
 
-Procederá la cancelación de los créditos fiscales por incosteabilidad e insolvencia:
+Procederá la cancelación de los créditos fiscales por incosteabilidad e insolvencia.
 
-Cuando su importe sea menor de $100.00 y no se pague espontáneamente dentro de los noventa días siguientes a la fecha en que la Oficina Recaudadora haya exigido el pago.
+Cuando su importe sea menor de $1,000.00 y no se pague espontáneamente dentro de los noventa días siguientes a la fecha en que la Oficina Recaudadora haya exigido el pago.
 
-Sólo se aplicará esta regla cuando se trate de una sola prestación fiscal a cargo de un solo deudor. Si existieran varios créditos menores de $100.00 a cargo de un solo deudor, procederá la acumulación de los mismos para los efectos de cobro.
+Sólo se aplicará una regla cuando se trate de una sola prestación fiscal a cargo de un solo deudor. Si existieran varios créditos menores de $1,000.00, a cargo de un solo deudor, procederá la acumulación de los mismos para los efectos de cobro.
 
-La cancelación de créditos fiscales en las cuentas publicas, por incosteabilidad en el cobro por insolvencia del sujeto pasivo o de los responsables solidarios, no libera a uno y otros de su obligación.
+La cancelación de créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro por insolvencia del sujeto pasivo o de los responsables solidarios, no libera a uno y otros de su obligación.
 
 De la Prescripción
 
@@ -2080,3 +2062,13 @@ Esta Ley entrará en vigor a partir del 1o. de enero de 1984.
 ###### ARTICULO SEGUNDO.
 
 Se deroga el Artículo 62 del Código Fiscal del Estado y los Decretos, Circulares, Acuerdos, Convenios, Contratos y demás disposiciones que se opongan a la presente Ley.
+
+P.O. 28 DE DICIEMBRE DE 1984.
+
+###### ARTICULO PRIMERO.
+
+Este decreto entrará en vigor a partir del día primero de enero de mil novecientos ochenta y cinco.
+
+###### ARTICULO SEGUNDO.
+
+En todos los casos en los que este Código y demás Leyes Fiscales se refieran al Tesorero General, se entenderá que se refieren al Secretario de Finanzas; asimismo, cuando se refieran a la Tesorería General, se entenderá que se refieren a la Secretaría de Finanzas.
