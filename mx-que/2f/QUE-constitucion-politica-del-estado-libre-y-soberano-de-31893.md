@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1939-12-28"
+last_updated: "1941-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 1939.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 1941.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -1493,11 +1493,11 @@ Esta Constitución se publicará con la mayor solemnidad, y comenzará a regir e
 
 El Estado de Querétaro Arteaga es parte integrante de la Federación Mexicana. Es Libre y Soberano en lo que se refiere a su régimen interior, y sólo delega sus facultades en los Supremos Poderes Federales, para el bien procomunal de la Nación, en todos aquellos puntos que ha fijado o fije expresamente la Constitución Política de los Estado Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 1939)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 1941)</small>
 
 ###### Art. 2º.
 
-El territorio del Estado se divide en once Municipalidades que son: Amealco, Arrollo Seco, Cadereyta, Colón Corregidora, Jalpan, Pinal de Amoles, Querétaro, San Juan del Río, Tequisquiapan y Tolimán.
+El territorio del Estado, se divide en dieciocho Municipios que son: AMEALCO, ARROYO SECO, CADEREYTA, COLON, CORREGIDORA, JALPAN, PINAL DE AMOLES, QUERETARO, SAN JUAN DEL RIO, TEQUISQUIAPAN, TOLIMAN, LA CAÑADA, PEDRO ESCOBEDO, HUIMILPAN, SAN JOAQUIN, LANDA DE MATAMOROS, EZEQUIEL MONTES Y PEÑAMILLER.
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1929)</small>
 
@@ -1648,3 +1648,7 @@ P.O. 28 DE DICIEMBRE DE 1939
 I.- Quedan derogadas todas las disposiciones o reformas habidas antes de la presente Ley.
 
 II.- La presente Ley entrará en vigor el día primero de enero de 1940.
+
+P.O. 24 DE ABRIL DE 1941
+
+UNICO.- La presente Ley comenzará a surtir sus efectos a partir de la fecha de su publicación en el periódico Oficial del Estado.
