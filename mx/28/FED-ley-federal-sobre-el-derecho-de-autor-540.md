@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-sobre-el-derecho-de-autor-540"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1956-12-31"
-last_updated: "1964-02-03"
+last_updated: "1981-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=540&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,9 @@ issue_date: "1956-12-29"
 ---
 # LEY FEDERAL SOBRE EL DERECHO DE AUTOR
 
-> <small>[N. DE E. EL DECRETO EXPEDIDO POR LA XLV LEGISLATURA, PUBLICADO EN EL D.O.F. DE 21 DE DICIEMBRE DE 1963, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
-
 LEY FEDERAL SOBRE EL DERECHO DE AUTOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE DICIEMBRE DE 1963.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 3 DE FEBRERO DE 1964.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 1981.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 31 de diciembre de 1956.
 
@@ -369,7 +365,7 @@ IV.- En caso de que no hubiese obtenido la conformidad del titular del derecho d
 
 V.- Cumplir con las disposiciones de los artículos 55, 56 y 57 y
 
-VI.- Cubrir los derechos que legalmente causen la tramitación y concesión de la licencia.
+VI.- (DEROGADA POR EL ARTÍCULO TRIGÉSIMO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA FISCAL, D.O. 31 DE DICIEMBRE DE 1981)
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
@@ -1636,3 +1632,211 @@ En tanto se expida el Reglamento a que se refiere el párrafo segundo del artíc
 Se aplicara el artículo 159 conforme se expidan y publiquen las tarifas previstas el mismo.
 
 En un plazo de seis meses, a partir de la vigencia de esta Ley, se revisarán las tarifas actualmente en vigor, para ajustarse a las disposiciones de la presente Ley.
+
+D.O. 31 DE DICIEMBRE DE 1981.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA FISCAL.]
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1982.
+
+###### ARTICULO SEGUNDO.
+
+En los casos en que las leyes de los impuestos sobre automóviles nuevos y al valor agregado se diga Belice Centroamérica se entenderá que se refiere a la República de Belice.
+
+###### ARTICULO TERCERO.
+
+Se abroga el Decreto relativo al Registro de los Compromisos que Adquieran las Entidades Federativas con Garantía de sus Participaciones en Ingresos Federales de 20 de junio de 1935 con sus reformas y adiciones.
+
+Continuará vigente el registro de las obligaciones cuya inscripción se hubiera efectuado durante la vigencia del mencionado Decreto. En tanto se expide el Reglamento del Registro de Oblicaciones (sic) y Empréstitos de Entidades y Municipios, se seguirán aplicando las normas establecidas en el Decreto que se menciona.
+
+###### ARTICULO CUARTO.
+
+Se amplía al año de 1981, la vigencia del Artículo Quinto Transitorio de la Ley de Coordinación Fiscal y las participaciones por dicho año se liquidarán en la misma forma como se efectuó para el año de 1980.
+
+A partir del ejercicio de 1982, se aplicará en sus términos la fórmula del artículo 3o. de dicha Ley.
+
+###### ARTICULO QUINTO.
+
+Durante 1982, 1983 y 1984, la participación en el impuesto adicional del 3% sobre el impuesto general de exportación de petróleo crudo y gas natural y sus derivados, a que se refiere el artículo 2o. A de la Ley de Coordinación Fiscal, se dividirá en la forma siguiente:
+
+I.- Una tercera parte corresponderá al Fondo de Fomento Municipal y a los Municipios donde se encuentren ubicadas las aduanas fronterizas o marítimas por ias (sic) que se efectúe la exportación en los siguientes por cientos conforme a los años que señalan:
+
+a).- En 1982, en un 50% al Fondo de Fomento Municipal y en un 50% a los Municipios donde estén ubicadas las aduanas.
+
+b).- En 1983 y 1984, en un 70% al Fondo de Fomento Municipal y en un 30% a los Municipios donde estén ubicadas las aduanas.
+
+II.- Las otras dos terceras partes incrementarán el Fondo de Fomento Municipal y se distribuirán a las entidades federativas que se coordinen en materia de derechos, en las proporciones que les correspondan.
+
+###### ARTICULO SEXTO.
+
+Las reformas a los artículos 5o. párrafos primero y segundo, 7o., 19 fracción I y 22 de la Ley del Impuesto Especial sobre Producción y Servicios, surtirán efectos a partir del primero de octubre de 1982.
+
+###### ARTICULO SEPTIMO.
+
+El plazo para abrogar las leyes a que se refiere el Artículo Tercero Transitorio de la Ley del Impuesto Especial sobre Producción y Servicios, se prorroga hasta el 30 de junio de 1982, fecha hasta la que se continuarán aplicando los artículos de las leyes señaladas en ese precepto, así como los reglamentos de dichas leyes en lo relativo a los preceptos que quedan vigentes hasta la fecha de abrogación de las leyes mencionadas.
+
+###### ARTICULO OCTAVO.
+
+Las obligaciones derivadas de la Ley del Impuesto sobre Compraventa de Primera Mano de Aguas Envasadas y Refrescos abrogada que hubieran nacido por la realización, durante su vigencia, de las situaciones jurídica o de hecho previstas en la misma, deberán ser cumplidas en la forma y plazos establecidos en la citada Ley.
+
+No se pagará el impuesto establecido en la Ley del Impuesto Especial sobre Producción y Servicios, cuando por la compraventa de primera mano de aguas envasadas y refrescos, ya se haya causado el impuesto federal establecido en la Ley abrogada.
+
+En las importaciones de aguas envasadas y refrescos, no se pagará el impuesto especial sobre producción y servicios por los introducidos en el país con anterioridad al 1o. de enero de 1982, en los términos del Código Aduanero de los Estados Unidos Mexicanos. Se pagará el impuesto especial sobre producción y servicios en la importación temporal que se convierta en definitiva con posterioridad a dicha fecha.
+
+###### ARTICULO NOVENO.
+
+A partir del 1o. de enero de 1982, quedan sin efecto las disposiciones administrativas de carácter general y las resoluciones a consultas, interpretaciones, autorizaciones o permisos otorgados a título particular, en materia del impuesto sobre compraventa de primera mano de aguas envasadas y refrescos, salvo las autorizaciones a que se refiere el artículo Decimoprimero Transitorio de esta Ley.
+
+###### ARTICULO DECIMO.
+
+Los contribuyentes del impuesto especial sobre producción y servicios, que lo sean por la enajenación o importación de aguas envasadas y refrescos, que durante 1982 cierren su ejercicio para efectos del impuesto sobre la renta, antes del 31 de diciembre de dicho año, presentarán su declaración del ejercicio conjuntamente con la que corresponda por este último impuesto, considerando únicamente los actos o actividades realizados entre el 1o. de enero de este año y el cierre del ejercicio mencionado.
+
+ARTICULO DECIMOPRIMERO.- En tanto se expide el reglamento de la Ley del Impuesto Especial sobre Producción y Servicios, los contribuyentes que enajenen aguas envasadas y refrescos en envases cerrados, en los términos del artículo 5o. de la Ley Mencionada, deberán obtener autorización de la Secretaría de Hacienda y Crédito Público para poder efectuar el acreditamiento del 25% del impuesto mencionado, siempre que en los contratos respectivos conste la zona de distribución perfectamente delimitada, así como los demás elementos que permitan determinar con precisión la procedencia del acreditamiento.
+
+Las autorizaciones que los contribuyentes al 1o. de enero de 1982 hayan obtenido, continuarán aplicándose hasta en tanto se expida el mencionado reglamento.
+
+ARTICULO DECIMOSEGUNDO.- Los contribuyentes del impuesto especial sobre producción y servicios, que lo sean por la enajenación o importación de vinos de mesa y sidras, cuando a la temperatura de 15° centígrados tengan una graduación alcohólica hasta de 14° G. L., así como los rompopes cuando a la misma temperatura su graduación sea hasta de 15° G. L., aplicarán en vez de la tasa establecida en el artículo 2o. fracción I, inciso E de la Ley del Impuesto Especial sobre Producción y Servicios, durante el año de 1982, la tasa del 8% y durante el año de 1983, la tasa del 11%.
+
+ARTICULO DECIMOTERCERO.- Tratándose de la enajenación de aguas envasadas y refrescos, en envases cerrados, que realiza directamente el contribuyente, en la cual cargue y cobre además del precio oficial de venta las cantidades autorizadas por la autoridad competente por concepto de fletes, la tasa del impuesto especial sobre producción y servicios será del 12% sobre el valor determinado conforme al artículo 11 de la Ley de la materia y se mantendrá hasta que la autoridad competente autorice un aumento en los cargos adicionales por concepto de fletes.
+
+ARTICULO DECIMOCUARTO.- Por los vehículos de los años modelos que a continuación se indican destinados al transporte hasta de diez pasajeros, se causará el impuesto en 1982, sobre tenencia o uso de vehículos, conforme a la siguiente tarifa:
+
+A.- De fabricación nacional o importados iguales a los de fabricación nacional, aun cuando en el extranjero tengan una denominación comercial diferente.
+
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 31 DE DICIEMBRE DE 1981, PÁGINA 108.]</small>
+
+Para los efectos de la tarifa anterior se atenderá a las siguientes categorías:
+
+1.- Categoría "A".- Comprende automóviles cuyo precio oficial de venta al público al 1o. de enero de 1977 fue hasta de $83,000.00 por unidad.
+
+2.- Categoría "B".- Comprende automóviles cuyo precio oficial de venta al público al 1o. de enero de 1977 fue de $83,000.01 a $96,000.00 por unidad.
+
+3.- Categoría "C".- Comprende automóviles cuyo precio oficial de venta al público al 1o. de enero de 1977 fue de $96,000.01 a $116,000.00 por unidad.
+
+4.- Categoría "D".- Comprende automóviles cuyo precio oficial de venta al público al 1o. de enero de 1977 fue de $116,000.01 a $193,000.00 por unidad.
+
+5.- Categoría "E".- Comprende automóviles importados cuyo precio al 1o. de enero de 1977 determinó la Secretaría de Hacienda y Crédito Público de $193,000,01 a $230,000.00 por unidad.
+
+6.- Categoría "F".- Comprnede (sic) automóviles importados cuyo precio al 1o. de enero de 1977 determinó la Secretaría de Hacienda y Crédito Publico de $230,000.01 en adelante por unidad.
+
+Los automóviles de años modelos de 1973 a 1977 que causen un impuesto mayor que el año modelos (sic) 1978, de acuerdo con el Artículo 5o. de la Ley de Impuesto sobre Tenencia o Uso de Vehículos, pagarán el impuesto correspondiente al año Modelo 1978.
+
+Aquellos automóviles que al 1o. de enero de 1977 no tuvieron precio oficial de venta al público, pagarán de acuerdo a la categoría que les correspsondió (sic) en el ejercicio fiscal de 1978.
+
+B.- Automóviles importados diferentes a los de fabricación nacional:
+
+1.- Vehículos importados a las zonas libres y franja fronteriza del norte del país, de circulación restringida a esas regiones.
+
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 31 DE DICIEMBRE DE 1981, PÁGINA 109.]</small>
+
+ARTICULO DECIMOQUINTO.- Los contribuyentes del impuesto sobre tenencia o uso de vehículos a que se refiere el Capítulo III de la Ley de la materia, con excepción de los helicópteros, pagarán dicho impuesto correspondiente al año de 1981, dentro del plazo que inicia el 1o. de enero y vence el 31 de julio de 1982, sin recargos ni sanciones y podrán calcular el impuesto conforme a las cuotas que estuviron (sic) vigentes en el año de 1981 o de 1982. EI impuesto correspondiente al año de 1982 se pagará en el plazo comprendido entre el 1o. de julio y el 31 de diciembre de dicho año.
+
+ARTICULO DECIMOSEXTO.- Los contribuyentes que durante 1982 realicen actividades agropecuarias como ejidatarios, comuneros, colonos o pequeños propietarios en superficies equivalentes a 20 hectáreas de riego teórico en los términos de la Ley Federal de Reforma Agraria, podrán tener derecho a la devolución del impuesto al valor agregado aun cuando no lleven los libros de contabilidad que señale el reglamento de la Ley de la materia. El trámite de devolución deberá ajustarse a los requisitos que señale la Secretaría de Hacienda y Crédito Público en (sic) reglas de carácter general.
+
+ARTICULO DECIMOSEPTIMO.- Los contribuyentes que queden comprendidos en los artículos 115 de la Ley del Impuesto sobre la Renta 35 de la Ley del Impuesto al Valor Agregado continuarán pagando durante el año de 1982, el mismo monto de impuesto que les hayan estimado las autoridades fiscales con anterioridad a dicho año, en tanto que las mismas no lo modifiquen.
+
+ARTICULO DECIMOOCTAVO (SIC).- Las reformas a los artículos 5o., 8o., 32 y 39 y la derogación de los artículos 38 y 40 de la Ley del Impuesto al Valor Agregado, surtirán efectos a partir del 1o. de octubre de 1982.
+
+ARTICULO DECIMONOVENO.- Los recusos (sic) interpuestos en contra de procedimientos de ejecución que se encuentren en trámite en las Oficinas Federales de Hacienda para cobros del Seguro Social, al entrar en vigor esta Ley se seguirán tramitando y resolverán por dichas oficinas.
+
+Los trabajadores que se encuentren prestando sus servidos en las Oficinas Federales de Hacienda para cobros del Instituto Mexicano del Seguro Social, al iniciar la vigencia de esta Ley, dispondrán de un plazo de sesenta días para optar por su reubicación en alguna otra dependencia de la Secretaría de Hacienda y Crédito Público, o bien, por incorporarse como empleado del propio Instituto.
+
+En cualquier caso, no se afectarán sus percepciones económicas ni los derechos de antigüedad que hubieren adquirido.
+
+Las Oficinas Federales de Hacienda para Cobros del Seguro Social que se encuentren funcionando a la entrada en vigor de esta Ley, pasarán a depender del Instituto como Oficinas para Cobros del Seguro Social y continuarán ejecutando la cobranza que tienen encomendada. La Secretaría de Hacienda y Crédito Público y el Instituto tomarán las medidas necesarias para hacer dicha transferencia.
+
+###### ARTICULO VIGESIMO.
+
+Duarante (sic) el año de 1982 y para los efectos del impuesto sobre la renta, en el supuesto de acciones enajenadas en bolsa de valores que sean de las que la Secretaría de Hacienda y Crédito Público considera que se colocan entre el gran público inversionista, la utilidad o pérdida podrá ajustarse con la participación en los resultados de operación disminuidos, en su caso, con el impuesto sobre la renta correspondiente a dicha utilidad y la participación de los trabajadores en las utilidades, que corresponda a todas las acciones en que la sociedad tenga el 25% o más de capital de otra sociedad residente en el país, siempre que la participación se determine en lo aplicable, conforme a las reglas aprobadas por la Comisión Nacional de Valores. En todo caso, la participacion no comprenderá a las utilidades distribuidas.
+
+La participación en los resultados de operación, podrá ajustarse por períodos inferiores a un ejercicio, disminuyendo en su caso, el impuesto sobre la renta correspondiente a dicha utilidad y la participación de los trabajadores en las utilidades, en la parte proporcional que corresponda al período de que se trate, siempre que la opción se aplique para todas las operaciones que se efectúen durante el ejercicio.
+
+Las sociedades controladoras y controladas que estén en los suspuestos (sic) del Capítulo IV del Título II de la Ley del Impuesto sobre la Renta, estarán a lo dispuesto en dicho Capítulo.
+
+###### ARTICULO VIGESIMO PRIMERO.
+
+Para determinar el ajuste a que se refiere el artículo 19 de la Ley del Impuesto sobre la Renta, en el caso de ejercicios terminados con anterioridad al 1o. de enero de 1981, se considerará la cantidad que resulte de sumar al ingreso global gravable, los dividendos o utilidades pagados (sic) por toda clase de sociedades que hayan correspondido al contribuyente en su carácter de socio, el importe de los estímulos fiscales otorgados por el Ejecutivo Federal, la ganancia derivada de la enajenación de terrenos y construcciones que formaron parte del activo fijo del contribuyente por la que no pagó el impuesto sobre la renta relativos al mismo ejercicio, disminuyendo el resultado con el importe del impuesto al ingreso global de las empresas y la participación de los trabajadores en las utilidades de las empresas, correspondientes al ejercicio de que se trate. Por lo que se refiere a las pérdidas sufridas en ejercicios anteriores al 1o. de enero de 1981, se considerará el monto de la pérdida fiscal determinada en los términos de las disposiciones fiscales vigentes en el ejercicio de que se trate, disminuida por el importe de las ganancias derivadas de la enajenación de terrenos y construcciones que hubieran formado parte de su activo fijo por la que no se pagó el impuesto sobre la renta, los dividendos o utilidades pagados por toda clase de sociedades que hayan correspondido al contribuyente en su carácter de socio y el importe de, los estímulos fiscales otorgados por el Ejecutivo Federal relativos al ejercicio fiscal en el cual se produjo la pérdida.
+
+###### ARTICULO VIGESIMO SEGUNDO.
+
+Los contribuyentes cuyo ejercicio fiscal no coincida con el año de calendario, para los efectos de calcular por su ejercicio iniciado durante 1981 la deducción adicional a que se refiere el artículo 51 de la Ley, considerarán lo siguiente:
+
+I.- Calcularán dicha deducción por todo el ejercicio, de conformidad con el artículo 51 de la Ley vigente hasta el 31 de diciembre de 1981, dividiendo entre doce el monto obtenido por dicha deducción y multiplicando el resultado por el número de meses del ejercicio que queden comprendidos entre el inicio de dicho ejercicio y el 31 de diciembre de 1981. El producto así obtenido será la deducción adicional a que se tenga derecho por el período que corresponda a 1981.
+
+II.- Calcularán la deducción adicional por todo el ejercicio a que se refiere la fracción anterior, de conformidad con el artículo 51 de la Ley vigente a partir del 1o. de enero de 1982, dividiendo entre doce el monto obtenido por dicha deducción y multiplicando el resultado por el número de meses del ejercicio que queden comprendidos entre el 1o. de enero de 1982 y el cierre de dicho ejercicio. El producto así obtenido será la deducción adicional a que se tenga derecho por el período que corresponda a 1982.
+
+Tratándose de sociedades mercantiles controladoras y controladas en los términos del Capítulo IV del título II de la Ley del Impuesto sobre la Renta, sólo podrán efectuar la deducción adicional que corresponda al período de su ejercicio comprendido a partir del 1o. de enero de 1982, cuando la sociedad controladora obtenga la autorización a que se refiere el artículo 57-B fracción V de la mencionada Ley.
+
+###### ARTICULO VIGESIMO TERCERO.
+
+Las sociedades controladoras que sean de fomento en los términos del Decreto que concede estímulos a las sociedades y unidades económicas que fomentan el desarrollo industrial y turístico del país, publicado en el Diario Oficial de la Federación de 20 de junio de 1973, podrán optar por consolidar en los términos del Capítulo IV del Título II de la Ley del Impuesto sobre la Renta y para ello necesitan obtener autorización de las autoridades fiscales; cuando la obtengan dejarán de gozar los beneficios y estímulos que establece el Decreto a que se refiere este artículo. En ningún caso dichos beneficios y estímulos tendrán aplicación después del 31 de diciembre de 1983.
+
+Mediante disposiciones de carácter general la Secretaría de Hacienda y Crédito Público determinará la forma de aplicar los beneficios fiscales obtenidos durante la vigencia del Decreto citado.
+
+Las sociedades de fomento y las sociedades promovidas no podrán efectuar la deducción adicional a que se refiere el artículo 51 de la Ley del Impuesto sobre la Renta.
+
+###### ARTICULO VIGESIMO CUARTO.
+
+Las sociedades mercantiles controladoras en los términos del Capítulo IV del Título II de la Ley del Impuesto sobre la Renta, cuyo ejercicio fiscal no coincida con el año de calendario, podrán determinar el impuesto del ejercicio conforme a lo dispuesto por el Capítulo IV del Título II de la Ley mencionada por la parte de su ejercicio que sea posterior al 31 de diciembre de 1981 y siempre que cumplan con los requisitos establecidos en la Ley.
+
+###### ARTICULO VIGESIMO QUINTO.
+
+Las reformas a los artículos 58 fracciones I y II, 62 primer párrafo, 72 fracción I, 77 fracción XIII, 88 fracciones II y III, 94 fracciones II y III, 95, 112 fracciones II, III y VI, 114 primer párrafo, 136 fracción IV y 140 último párrafo de la Ley del Impuesto sobre la Renta, entrarán en vigor el 1o. de octubre de 1982.
+
+Los artículos 1o. último párrafo, 11 párrafos primero, segundo y tercero, 58 fracción IX, 61 y 63, de la Ley del Impuesto sobre la Renta, se derogan a partir de la misma fecha en que entre en vigor el citado Código.
+
+###### ARTICULO VIGESIMO SEXTO.
+
+Para los efectos del plazo a que se refieren los artículos 18 último párrafo y 99 penúltimo párrafo, de la Ley del Impuesto sobre de (sic) la Renta, en relación con el ajuste del costo en la enajenación de acciones nominativas, se estará a lo siguiente:
+
+I.- Por las acciones que se enajenen durante el período comprendido del 1o. de enero al 31 de marzo de 1982, bastara que a la fecha de la enajenación las acciones sean nominativas.
+
+II.- Respecto de las acciones que se enajenen a partir del 1o. de abril de 1982 solamente se requerirá que hayan sido nominativas a partir de dicha fecha, excepto cuando se hayan adquirido con posterioridad. A partir del 1o. de abril de 1983, se deberá cumplir con el plazo de referencia, en los términos de los artículos 18 y 99 citados.
+
+###### ARTICULO VIGESIMO SEPTIMO.
+
+Los contribuyentes que con motivo de las reformas hechas al artículo 115 de la Ley del Impuesto sobre la Renta, dejen de ser contribuyentes menores a partir del primero de enero de 1982, les será aplicable lo dispuesto en el artículo 115-A de la propia Ley y podrán acogerse a los beneficios señalados en su penúltimo párrafo, siempre que presenten el aviso a que se refiere dicho artículo dentro del primer semestre de 1982 y no hayan sido objeto del ejercicio de las facultades de comprobación durante el año de 1981.
+
+###### ARTICULO VIGESIMO OCTAVO.
+
+Para efectos de lo dispuesto por el último párrafo del artículo 126 de la Ley del Impuesto sobre la Renta, las cantidades que por concepto de impuesto recauden las casas de bolsa, por el año de 1982 las deberán enterar ante la Secretaría de Hacienda y Crédito Público o (sic) las oficinas que al efecto autorice dicha Secretaría, a más tardar el día 15 del mes de calendario inmediato posterior a aquél en que efectúen la recaudación.
+
+###### ARTICULO VIGESIMO NOVENO.
+
+Tratándose de automóviles modelos 1981 o anteriores, los contribuyentes para hacer la deducción por inversión de dichos automóviles para efectos del Impuesto sobre la Renta, considerarán como monto original de la inversión, las cantidades que se establecen en este artículo, cuando dicho monto hubiera sido mayor que el de las mismas:
+
+I.- Automóviles modelo 1979 y anteriores $215,000.00
+
+II.- Automóviles modelo 1980 220,000.00
+
+III.- Automóviles modelo 1981 300,000.00
+
+Para hacer la deducción por inversión de automóviles modelos 1982 adquiridos antes del 1o. de enero de 1982, cuyo monto original de la inversión haya sido mayor de $380, 000.00, los contribuyentes para efectuar la deducción por inversión de dichos automóviles, podrán considerar la cantidad de $380,000.00 como dicho monto o la que resulte de acuerdo con los artículos 46 fracción II y 137 fracción III de la Ley del Impuesto sobre la Renta, vigentes a partir del 1o. de enero de 1982.
+
+ARTICULO TRIGESIMO.- Se derogan los artículos 70 de la Ley General de Población; 28 de la Ley Federal de Armas de Fuego y Explosivos; 160 párrafos tercero y cuarto de la Ley General de Instituciones de Crédito y Organizaciones Auxiliares; 106 párrafos tercero a noveno de la Ley General de Instituciones de Seguros; 53 de la Ley del Mercado de Valores; 21 último párrafo y 49 de la Ley de Obras Públicas; 2o. de la Ley de Impuestos y Fomento a la Minería; 24 fracción VII de la Ley Reglamentaria del Artículo 27 Constitucional en Materia Minera; 78, 203, 204, 205, 206, 207, 208 y 209 de la Ley de Invenciones y Marcas; 27 fracción V de la Leye (sic) sobre Adquisiciones, Arrendamientos y almacenes de la Administración Pública Federal; 14 último párrafo y 38 de la Ley General de Normas y de Pesas y Medidas; 184, 513, 514, 515, 516, 517, 520 y 521 de la Ley de Vías Generales de Comunicación; 18 primer párrafo de la Ley Federal sobre Monumentos y Zonas Arqueológicas, Artísticos e Históricos; 34 fracción VI de la Ley Federal de Derechos de Autor; 17 y 344 del Código Sanitario de los Estados Unidos Mexicanos; 32 fracción VII y 37 penúltimo párrafo de la Ley Federal para el Fomento de la Pesca y 399, 498, 499, 501, 502, 503, 504, 505, 506, 542, 545 párrafos primero y segundo y 546 segundo párrafo del Código Aduanero de los Estados Unidos Mexicanos.
+
+ARTICULO TRIGESIMO PRIMERO.- Tratándose de adquisiciones realizadas, en los términos de la Ley del impuesto sobre Adquisición de Inmuebles con anterioridad al 1o. de enero de 1982, los contribuyentes podrán optar por aplicar lo dispuesto en los artículos 2o., fracción V y 4o. del propio ordenamiento, cuando los supuestos de pago conforme a lo dispuesto en el artículo 5o. de la Ley, se dén con posterioridad a la fecha en que entren en vigor estas reformas.
+
+ARTICULO TRIGESIMO SEGUNDO.- Las disposiciones contenidas en las leyes del Impuesto sobre la Renta y del Impuesto al Valor Agregado, relativas a enajenaciones a plazo con pago diferido o en parcialidades, se aplicarán considerando la disposición vigente en el momento en que se entregue materialmente al bien objeto de la enajenación, se obtenga parte del precio o se expida el documento que ampare la enajenación, el que primero se realice.
+
+ARTICULO TRIGESIMO TERCERO.- Durante el año de 1982, para la determinación de los pagos provisionales que establece el artículo 12 de la Ley del Impuesto sobre la Renta, la utilidad fiscal ajustada se calculará disminuyendo de la utilidad fiscal los conceptos que establecen los incisos a), b) y c), de la fracción I del Artículo 10 de dicha ley.
+
+ARTICULO TRIGESIMO CUARTO.- En los ejercicios irregulares iniciados en el año de 1981, sólo podrán hacerse las deducciones a que se refieren las disposiciones de la Ley del Impuesto sobre la Renta, vigentes al inicio de dicho ejercicio.
+
+ARTICULO TRIGESIMO QUINTO.- En los casos en que la Ley del Impuesto sobre la Renta señale que se deberá estar a lo dispuesto por las reglas generales que al efecto dicte la Secretaría de Hacienda y Crédito Público y éstas no hayan sido aun emitidas, se deberá solicitar autorización a la propia Secretaría.
+
+ARTICULO TRIGESIMO SEXTO.- Durante el año de 1982, para la determinación de los pagos provisionales que establece el artículo 12 de la Ley del Impuesto sobre la Renta, la utilidad fiscal ajustada se calculará disminuyendo de la utilidad fiscal únicamente los conceptos que establecen los incisos a), b) y c) de la fracción I del artículo 10 de dicha ley. Sólo se podrá disminuir de la utilidad fiscal, la deducción del artículo 51 de la mencionada ley, cuando aquella se calcule conforme a lo dispuesto por el artículo 51 en vigor a partir del primero de enero de 1982.
+
+ARTICULO TRIGESIMO SEPTIMO.- Se autoriza a la Secretaría de Hacienda y Crédito Público, a efecto de que en el ejercicio de 1982, mediante reglas generales, establezca bases en materia de impuesto sobre la renta para determinar la utilidad fiscal de los contribuyentes que se dediquen a la agricultura, ganadería y pesca, así como los permisionarios y concesionarios de autotransportes de carga y pasajeros y al servicio de transporte prestado por ejidos o ejidatarios.
+
+No podrán acogerse a las bases que dicte la Secretaría de Hacienda y Crédito Público en los términos de este artículo, los permisionarios y concesionarios de autotransporte de carga, en los siguientes casos:
+
+I.- Cuando realicen otras actividades empresariales y se presten a sí mismos el servicio de transporte de carga.
+
+II.- Las sociedades que presten servicios de transporte de carga a alguno de sus socios o a otra sociedad de la que sea accionista la sociedad prestadora del servicio o alguno de sus propios socios.
+
+Las empresas agrícolas, ganaderas y de pesca, estarán sujetas al régimen en general de la Ley a partir del 1o. de enero de 1983. La Secretaría de Hacienda y Crédito Público podrá durante ese ejercicio establecer bases en materia del impuesto sobre la renta para determinar la utilidad fiscal de las personas físicas o morales que sean pequeñas o medianas empresas dedicadas a la agricultura, ganadería y pesca.
+
+ARTICULO TRIGESIMO OCTAVO.- La adición al artículo 30 de la Ley Orgánica del Tribunal Fiscal de la Federación y sus consecuencias y la derogación de las fracciones IV y V del artículo 33 de la citada Ley, entrarán en vigor el primero de octubre de 1982.
