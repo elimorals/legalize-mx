@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-municipal-del-estado-de-morelos-6633"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "1986-08-27"
+last_updated: "1989-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS 1984
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 1989.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -471,7 +471,7 @@ b).- El nombre de la persona o personas que practicarán las diligencias, las cu
 
 c).- Las contribuciones de cuya verificación se trate y, en su caso los ejercicios, a los que deberá limitarse la visita. La visita podrá ser de carácter general para verificar el cumplimiento de las disposiciones tributarias durante cierto tiempo o bien, concretarse únicamente a determinados aspectos.
 
-II.- Al iniciarse la visita se entregará la orden al visitado o a su representante y si no estuvieren presentes, a quien se encuentre en el lugar en que debe practicarse la diligencia se le dejará citatorio para que el mencionado visitado o su representante legal los espere a la hora determinada del día siguiente para recibir la orden de visita; si no lo hicieren, la visita se iniciará con quien se encuentre en el lugar visitado, los visitadores acreditarán su personalidad.
+II.- Al iniciarse la visita se entregará la orden al visitado o a su representante y si no estuvieren presentes, a quien se encuentre en el lugar en que debe practicarse la diligencia se le dejará citatorio para que el mencionado visitado o su representante legal los espere a hora determinada del día siguiente para recibir la orden de visita; si no lo hicieren, la visita se iniciará con quien se encuentre en el lugar visitado, los visitadores acreditarán su personalidad.
 
 Cuando exista peligro de que el visitado o su representante legal se ausenten o puedan realizar maniobras para impedir el inicio o desarrollo de la diligencia, los visitadores podrán proceder al aseguramiento de la contabilidad.
 
@@ -857,119 +857,43 @@ Cuando en esta Ley se tomen como base para el pago de los créditos a cargo de l
 
 ## TITULO SEGUNDO. DE LOS IMPUESTOS
 
+> <small>N. DE E. ES DE OBSERVARSE QUE EN EL ARTICULO TERCERO DEL DECRETO No. 93, EL LEGISLADOR SEÑALA QUE SE DEROGA "EL LIBRO SEGUNDO, TITULO SEGUNDO DE LOS IMPUESTOS, CAPITULO PRIMERO DEL IMPUESTO SOBRE TRASLACION DE DOMINIO MUNICIPAL PARA APLICAR LA PARTE QUE LE CORRESPONDE DEL IMPUESTO SOBRE ADQUISICION DE INMUEBLES, DEL CAPITULO TERCERO DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, REFORMADA EN LA LEY DE INGRESOS PARA EL EJERCICIO FISCAL DE 1989" (VEASE P.O. 25 DE ENERO DE 1989)</small>
+
 ### CAPITULO PRIMERO. DEL IMPUESTO SOBRE TRASLACION DE DOMINIO
 
 ###### ARTICULO 93.
 
-Es objeto de este impuesto la traslación de dominio de bienes muebles e inmuebles que no contravengan las disposiciones de la Ley Federal de impuesto al valor agregado y que estén comprendidas en las siguientes fracciones:
-
-I.- La enajenación de bienes y la compraventa con reserva de dominio;
-
-II.- La promesa de enajenación de bienes;
-
-III.- La adjudicación de bienes en pago;
-
-IV.- La adquisición de bienes por prescripción;
-
-V.- La adjudicación de bienes por remate o postor o fuera de subasta;
-
-VI.- La aportación de bienes inmuebles que se haga a sociedad mercantil, asociación o sociedad civil; y a la fusión;
-
-VII.- La adjudicación o dación en pago de bienes inmuebles por liquidación de una sociedad mercantil, asociación o sociedad civil;
-
-VIII.- La donación de bienes;
-
-IX.- La cesión de derechos reales o personales;
-
-X.- EL acto constitutivo de fideicomiso cuando se afecte un bien inmueble o más de uno;
-
-XI.- La cesión, transmisión o aportación de derechos de fideicomitente o de fideicomisario, cuando en el fideicomiso el objeto del mismo sean bienes inmuebles o derechos reales;
-
-XII.- La adjudicación de bienes por sucesión testamentaria e intestamentaria;
-
-XIII.- Cualquier otro acto que conlleve la transmisión de los derechos o propiedad, cualquiera que sea la denominación con que se le designe.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ### CAPITULO SEGUNDO. DE LOS IMPUESTOS A LA EXPLOTACION DE JUEGOS, ESPECTACULOS, DIVERSIONES, LOTERIA Y LA OBTENCION DE PREMIOS EN APUESTAS PERMITIDAS
 
 ###### ARTICULO 94.
 
-En las fracciones I, II, III, IV, V, VIII, IX, XII y XIII del Artículo anterior queda comprendido todo lo concerniente a bienes muebles e inmuebles.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ###### ARTICULO 95.
 
-El impuesto se causa en el momento en que se realicen las operaciones gravadas, aún cuando sean a plazo o a crédito, sin incluir el sobreprecio, los intereses o cualquier otra prestación que lo aumente, lo cual queda gravado con otras disposiciones fiscales.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ###### ARTICULO 96.
 
-Son sujetos de impuesto:
-
-I.- Las partes en la enajenación, promesa de enajenación de bienes, compra-venta con reserva de dominio, cualquiera que sea la denominación con que se le designe;
-
-II.- El adjudicatario, en la adjudicación o dación en pago;
-
-III.- El adquirente, en la prescripción;
-
-IV.- El donatario, en la donación;
-
-V.- El cesionario, en la cesión;
-
-VI.- El fideicomitente y el fideicomisario, en la constitución del fideicomiso;
-
-VII.- El aportador, en la aportación; y
-
-VIII.- El heredero, en la sucesión testamentaria.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ###### ARTICULO 97.
 
-La base del impuesto será:
-
-I.- Para los bienes muebles: el valor más alto entre el que tengan en el mercado y el de la factura o del acto o contrato de que derive la traslación de dominio; y
-
-II.- Para los bienes inmuebles: el valor que resulte mayor entre el avalúo que con tal motivo formule la Tesorería Municipal o la Dirección General de Catastro, el valor de la operación y el avalúo practicado por una sociedad nacional de crédito.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ###### ARTICULO 98.
 
-El impuesto se causará conforme a la siguiente:
-
-TARIFA
-
-I.- De bienes inmuebles urbanos y muebles sobre el crédito comercial del establecimiento traspasado según lo estime la Tesorería Municipal Ad-valorem, de 1 a 4%.
-
-II.- Inmuebles rústicos 2.5%.
-
-III.- Cuando se trate de adquisiciones por prescripción:
-
-a).- Si se sigue el procedimiento judicial, 5%.
-
-b).- Si se sigue el procedimiento administrativo de acuerdo con la Ley de Regularización de la Pequeña Propiedad Rural (CORETT), 1.5%.
-
-IV.- En los casos a que se refiere (sic) las Fracciones X y XI del Artículo 93, se seguirán las reglas siguientes:
-
-a).- Cuando los bienes inmuebles deban enajenarse al fideicomisario sin transmitirse en propiedad al fiduciario, se depositará en la Tesorería Municipal el monto del impuesto que correspondería al valor de los inmuebles al constituirse el fideicomiso al ser transmitidos al fideicomisario se causará el impuesto sobre el valor que tengan en esa fecha procediéndose a pagar o devolver la diferencia que resulte.
-
-b).- Cuando los inmuebles sean transmitidos en propiedad al fiduciario, el impuesto se causará al constituirse el fideicomiso sobre el valor que tengan en esa fecha.
-
-c).- La transmisión de derechos que haga un fideicomitente a otro fideicomitente o un fideicomisario a otro fideicomisario causará el impuesto sobre la base del valor de los inmuebles al efectuarse cada transmisión, la cual se tendrá por realizada, sin que se admita prueba en contrario, en los casos de sustitución de los fideicomitentes o fideicomisarios.
-
-d).- Cuando se trate de sucesiones y el fideicomiso afecte derechos hereditarios sobre bienes inmuebles para su transmisión al fideicomisario que no sea heredero, se aplicará lo dispuesto en las fracciones I o II según el caso.
-
-El impuesto mínimo que se causará por la traslación de un predio urbano o sub-urbano será de $2,500.00 y por la traslación de un predio rústico, será de $1,250.00.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ###### ARTICULO 99.
 
-Son responsables solidarios en el pago del impuesto:
-
-I.- Los contratantes que este capítulo no señale como sujetos pasivos.
-
-II.- Los Notarios, Corredores Públicos, Jueces y demás Fedatarios que por disposición legal tengan funciones notariales, cuando autoricen los actos o contratos sin que se encuentre cubierta la prestación fiscal respectiva; y
-
-III.- Los funcionarios públicos de la Federación, del Estado o de sus Municipios, por los gravámenes omitidos en escritos presentados ante ellos, donde consten actos, contratos o documentos que aludan a operaciones gravadas por este impuesto si no los consignan a la Tesorería Municipal dentro de los treinta días siguientes a la presentación.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ###### ARTICULO 100.
 
-No causan este impuesto.
-
-I.- Los ingresos, operaciones o actividades gravadas con otro impuesto establecido en esta Ley.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ###### ARTICULO 101.
 
@@ -1257,67 +1181,41 @@ D.- En los casos de fraccionamientos, condominios, conjuntos habitacionales, div
 
 ###### ARTICULO 129.
 
-Causa este derecho el uso, con fines lucrativos, de aparatos mecánicos, electromecánicos y electrónicos. Se considera que tienen esos fines cuando los aparatos se tengan en establecimientos comerciales para dar un servicio adicional a la clientela, para ser mas atractiva la prestación de sus servicios o la venta de sus mercancías.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ###### ARTICULO 130.
 
-Los sujetos de este impuesto estarán obligados a empadronarse en la Tesorería Municipal del H. Ayuntamiento, utilizando las formas autorizadas por la misma, dentro de los diez días hábiles siguientes a aquel en que se inicie el uso de los aparatos contemplados en este capítulo. El empadronamiento deberá hacerse por cada uno de los aparatos que requieran del permiso establecido en este capítulo.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ###### ARTICULO 131.
 
-Los movimientos que se hagan en estos aparatos como bajas, altas o cambios de domicilio deberán ser declaradas ante la Tesorería Municipal, dentro de los diez días hábiles siguientes a aquel en que ocurra el hecho, en forma individual por cada aparato y en las formas autorizadas por la Tesorería Municipal.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ###### ARTICULO 132.
 
-Los permisos expedidos para el funcionamiento de cada aparato, causarán derechos de acuerdo con la siguiente tarifa mensual:
-
-Aparatos, como radios, tocadiscos, tocacintas, receptores o reproductores, televisores y similares, usados con fines de lucro o que se utilicen para propaganda o publicidad comercial: $500.00
-
-Sinfonolas: 1,500.00
-
-Aparatos para marcar el peso: 300.00
-
-Arrendamiento de:
-
-Aparatos receptores o reproductores tocadiscos, tocacintas, televisores y similares, por permiso mensual: 500.00
-
-Aparatos fonoelectromecánicos: 300.00
-
-Aparatos mecánicos: 200.00
-
-Aparatos para juegos electromecánicos: 300.00
-
-Aparatos para juegos electrónicos: 500.00
-
-Aparatos similares no especificados: 300.00.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ###### ARTICULO 133.
 
-La Tesorería Municipal, sólo otorgará el permiso correspondiente siempre que se garantice el crédito fiscal correspondiente a seis meses de funcionamiento, bien sea mediante depósito en efectivo, billete de depósito de Nacional Financiera o entrega de una fianza expedida por Compañía autorizada, con duración mínima de un año calendario. En este último caso la fianza sólo podrá ser cancelada previo aviso escrito de la Tesorería Municipal.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ### CAPITULO TERCERO. POR MANTENIMIENTO DE DRENAJE
 
 ###### ARTICULO 134.
 
-Son causantes de este derechos las personas físicas o morales, propietarios o poseedores de juegos permitidos.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ###### ARTICULO 135.
 
-Para obtener el permiso del funcionamiento de juegos permitidos, los propietarios de los mismos deberá (sic) liquidar lo siguiente:
-
-a).- Iniciación de operaciones de cada aparato de: $1,000.00 a $3,000.00
-
-b).- Por revalidación del permiso anual de cada aparato: 500.00 a $2,000.00
-
-c).- Por reposición del permiso en caso de extravío, por cada ocasión: 500.00.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ###### ARTICULO 136.
 
-Los causantes contemplados en el Artículo 197, deberán liquidar los derechos ahí establecidos dentro de los primeros 15 días calendario de cada año, en los casos comprendidos en el inciso "a", y en el caso del inciso "b", liquidarán los derechos al ser autorizado el funcionamiento de sus aparatos y en el caso del inciso "c", liquidarán sus derechos al solicitar la reposición respectiva.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ###### ARTICULO 137.
 
-Los causantes comprendidos en este capítulo, deberán registrarse en el padrón municipal dentro de los diez días hábiles siguientes al de iniciación de sus operaciones, utilizando para tal efecto las formas aprobadas por la Tesorería Municipal.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ### CAPITULO CUARTO. POR SERVICIO DE RECOLECCION DE BASURA
 
@@ -1439,11 +1337,11 @@ B.- EXHUMACIONES:
 
 a).- Traslado de cadáveres o restos:
 
-1.- Autorización del traslado de un cadáver fuera del Estado. $2,000.00 a $5,000.00.
+1.- (DEROGADO, P.O. 25 DE ENERO DE 1989)
 
-2.- Autorización del traslado de un cadáver o restos a cementerios del Municipio. $500.00 a $2,000.00.
+2.- (DEROGADO, P.O. 25 DE ENERO DE 1989)
 
-3.- Autorización del traslado de un cadáver o restos dentro del Estado. $2,000.00 a $4,000.00
+3.- (DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 4.- Derechos de internación de un cadáver al Municipio. $500.00 a $2,000.00.
 
@@ -1561,27 +1459,11 @@ I.- SACRIFICIO
 
 7.- Aves sacrificadas. 10.00
 
-II.- INSPECCION SANITARIA EN EL RASTRO
-
-1.- Bovino 100.00
-
-2.- Ternera 50.00
-
-3.- Porcino 100.00
-
-4.- Ovino, caprino 80.00
-
-5.- Equino, asnal, mular, etc. 100.00
-
-6.- Conejo y otros 40.00
-
-7.- Aves 4.00
-
-8.- Sellado de aves en los expendios por ave 5.00.
+II.- (DEROGADA, P.O. 25 DE ENERO DE 1989)
 
 ###### ARTICULO 150.
 
-Los mataderos particulares que funcionen con permiso del H. Ayuntamiento pagarán sobre las tarifas anteriores el 100%.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ### CAPITULO DECIMO. POR REGISTRO DE FIERROS
 
@@ -1625,47 +1507,13 @@ V.- VENTA DE SUB-PRODUCTOS:
 
 ###### ARTICULO 152.
 
-Los derechos por registro de fierros, marca de ganado, así como compra venta del mismo, se causarán como sigue:
-
-Por cada figura que se inscriba para errar ganado, se pagará la siguiente tarifa:
-
-1.- Por el registro inicial personal. $600.00.
-
-2.- Por la revalidación anual de registro. 500.00.
-
-3.- Por el registro de marca de sangre anualmente. 200.00.
-
-DERECHOS SOBRE COMPRA-VENTA DE GANADO
-
-1.- Legalización de compra-venta de ganado vacuno caballar o asnal por cabeza. $80.00
-
-2.- Otro tipo de ganado. 60.00
-
-3.- Sobre capitales de cría de ganado siempre que sea mayor de. 1,000.00
-
-se pagará anualmente el 12 al millar.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ### CAPITULO DECIMO SEGUNDO. POR DERECHOS PARA EL USO DE CORRAL MUNICIPAL
 
 ###### ARTICULO 153.
 
-Se causarán derechos por sellos de carnes excepto los productos naturales o industrializados que provengan de rastros (T.I.F.), tipo de inspección federal, siempre y cuando ésto sea demostrado con documentos de embarque.
-
-En todos los demás casos cuando se introduzcan al Municipio, carnes o pieles (acompañadas o no de carne), deberá acreditase que proceden de animales sacrificados fuera de la circunscripción territorial del Municipio y que, por tanto no se cause el impuesto de matanza de ganado y previo el pago de los derechos respectivos se presentará el servicio de sello de carnes, según lo dispuesto en la fracción siguiente:
-
-I.- Por servicio de resello e inscripción sanitaria para carnes provenientes de otros lugares, por kilogramo de peso o fracción:
-
-a).- Bovino, porcino y ovicaprino $4.00 a $10.00
-
-b).- Aves. 4.00 a 10.00
-
-c).- Carnes elaboradas e industrializadas que provengan de otros lugares. 6.00 a 10.00
-
-d).- Pieles que provengan de otros lugares por kilogramo de peso. 2.00 a 5.00
-
-II.- El pago de los derechos de sello de carne se acreditará con los recibos oficiales que expedirán los Recaudadores o Delegados de la Tesorería Municipal, que solo serán válidos en la fecha de su expedición.
-
-El servicio de sello se prestará en el Rastro Municipal o en lugares para ello autorizados. Si el interesado solicita que el servicio se preste en otra parte por causas justificadas, pagará el 25% adicional sobre la tarifa establecida.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ### CAPITULO DECIMO TERCERO
 
@@ -1693,1211 +1541,37 @@ Si los semovientes u otros bienes no son retirados del corral previo pago de los
 
 ###### ARTICULO 155.
 
-Con objeto de vigilar por el correcto funcionamiento de los establecimientos mercantiles, industriales o de prestación de servicios en general, sólo el H. Ayuntamiento podrá conceder autorización para el funcionamiento y registro de los mismos, a solicitud por escrito de la persona física o moral interesada, en la inteligencia de que dicha autorización podrá ser negada cuando la actividad sea ilícita o atente contra el bien de la comunidad.
-
-Dichas solicitudes deberán ser presentadas cuando menos con cinco días hábiles de anticipación al inicio de sus operaciones, y la resolución se emitirá dentro de los tres días hábiles siguientes a la presentación.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ###### ARTICULO 156.
 
-Las cuotas del registro y de revalidación anual, relativas a establecimientos comerciales, industriales y de prestación de servicios se causarán conforme a la siguiente:
-
-ABARROTES SIN VENTA DE VINOS Y LICORES, TIENDAS DE.
-
-Expedición incluyendo registro una sola vez $7,000.00 a $10,000.00
-
-Revalidación de registro anual 4,000.00 a 6,000.00
-
-Reposición cada vez 4,000.00 a 6,000.00
-
-AVES VIVAS COMPRA VENTA DE.
-
-Expedición incluyendo registro una sola vez 3,000.00 a 7,000.00
-
-Revalidación de registro anual 2,000.00 a 4,000.00
-
-Reposición cada vez 2,000.00 a 4,000.00
-
-AGENCIAS DISTRIBUIDORAS, DEPOSITOS Y COMISIONISTAS DE PRODUCTOS ALIMENTICIOS.
-
-Expedición incluyendo registro una sola vez $30,000.00 a $50,000.00
-
-Revalidación de registro anual 15,000.00 a 25,000.00
-
-Reposición cada vez 3,000.00
-
-ACADEMIAS DE BAILE.
-
-Expedición incluyendo registro una sola vez 6,000.00
-
-Revalidación de registro anual 3,000.00 a 4,500.00
-
-Reposición cada vez 2,000.00
-
-ARMERIAS.
-
-Expedición incluyendo registro una sola vez 7,500.00
-
-Revalidación de registro anual 3,000.00 a 6,000.00
-
-Reposición cada vez. 2,000.00
-
-ARTICULOS FOTOGRAFICOS Y DE INGENIERIA.
-
-Expedición incluyendo registro una sola vez. 7,000.00
-
-Revalidación de registro anual 4,000.00
-
-Reposición cada vez 4,000.00
-
-ABARROTES CON VENTA DE VINOS Y LICORES EN BOTELLA CERRADA TIENDA DE.
-
-Expedición incluyendo registro una sola vez $20,000.00 a $25,000.00
-
-Revalidación de registro anual 10,000.00 a 14,000.00
-
-Reposición cada vez 7,000.00
-
-APARATOS ELECTRICOS, TELEVISORES, RADIOS Y MAQUINAS DE COSER.
-
-Expedición incluyendo registro una sola vez $8,000.00 a 20,000.00
-
-Revalidación de registro anual 5,000.00 a 15,000.00
-
-Reposición cada vez 4,000.00
-
-AGENCIAS, DESPACHOS DE GESTION DE NEGOCIOS DE CONTADORES Y ABOGADOS.
-
-Expedición incluyendo registro una sola vez $6,000.00
-
-Revalidación de registro anual 3,000.00
-
-Reposición cada vez 3,000.00
-
-BODEGAS DIVERSAS.
-
-Expedición incluyendo registro una sola vez 6,000.00
-
-Revalidación de registro anual 3,000.00
-
-Reposición cada vez 3,000.00
-
-BOTICAS VETERINARIAS.
-
-Expedición incluyendo registro una sola vez 10,000.00
-
-Revalidación de registro anual 4,000.00 a $9,000.00
-
-Reposición cada vez 3,000.00
-
-BANCOS DE SANGRE.
-
-Expedición incluyendo registro una sola vez 6,000.00
-
-Revalidación de registro anual 3,000.00
-
-Reposición cada vez 3,000.00
-
-BAÑOS PUBLICOS.
-
-Expedición incluyendo registro una sola vez 7,000.00
-
-Revalidación de registro anual 5,000.00
-
-Reposición cada vez 5,000.00
-
-CAFETERIAS CON VENTA O SIN VENTA DE PAN PARA EL CONSUMO INTERIOR EN EL GIRO Y NEVERIAS CON SERVICIO DE MESA Y CON AUTOSERVICIO.
-
-Expedición incluyendo registro una sola vez $6,000.00
-
-Revalidación de registro anual 3,000.00
-
-Reposición cada vez 3,000.00
-
-CABARETS Y DISCOTEQUES.
-
-Expedición incluyendo registro una sola vez 60,000.00 a $100,000.00
-
-Revalidación de registro anual 20,000.00 a 40,000.00
-
-Reposición cada vez 20,000.00 a (sic)
-
-CANTINAS, SALONES DE BAILE Y ESTABLECIMIENTOS SIMILARES.
-
-Expedición incluyendo registro una sola vez $ 40,000.00 a 60,000.00
-
-Revalidación de registro anual 15,000.00 a 35,000.00
-
-Reposición cada vez 10,000.00
-
-CERVEZAS NACIONALES AGENCIAS DISTRIBUIDORAS.
-
-Expedición incluyendo registro una sola vez 30,000.00 a 50,000.00
-
-Revalidación de registro anual 20,000.00 a 30,000.00
-
-Reposición cada vez 12,000.00 a (sic)
-
-CARNICERIAS, VISCERAS, POLLO, CARNES FRIAS.
-
-Expedición incluyendo registro una sola vez 6,000.00 a 10,000.00
-
-Revalidación de registro anual 3,000.00 a 6,000.00
-
-Reposición cada vez 3,000.00
-
-CASAS DE ASISTENCIA, CASA DE HUESPEDES, BUNGALOWS, POSADAS Y ESTABLECIMIENTOS SIMILARES.
-
-Expedición incluyendo registro una sola vez $16,000.00 a $20,000.00
-
-Revalidación de registro anual 5,000.00 a 10,000.00
-
-Reposición cada vez 3,000.00 a 10,000.00
-
-CARBONERIAS Y EXPENDIOS DE PETROLEOS.
-
-Expedición incluyendo registro una sola vez 1,500.00
-
-Revalidación de registro anual 1,200.00
-
-Reposición cada vez 1,200.00
-
-CLUBES DEPORTIVOS CON CANCHA DE TENIS, FRONTENIS, SQUASH Y SIMILARES.
-
-Expedición incluyendo registro una sola vez $10,000.00 a $50,000.00
-
-Revalidación de registro anual 5,000.00 a 25,000.00
-
-Reposición cada vez 5,000.00
-
-CLINICAS, SANATORIOS Y HOSPITALES.
-
-Expedición incluyendo registro una sola vez 20,000.00 a 50,000.00
-
-Revalidación de registro anual $12,000.00 a $20,000.00
-
-Reposición cada vez 5,000.00
-
-CLINICAS VETERINARIAS.
-
-Expedición incluyendo registro una sola vez 6,000.00
-
-Revalidación de registro anual 3,500.00
-
-Reposición cada vez 3,500.00
-
-CERERIAS, VELAS DECORATIVAS Y ARTICULOS RELIGIOSOS.
-
-Expedición incluyendo registro una sola vez 3,000.00
-
-Revalidación de registro anual 2,000.00
-
-Reposición cada vez 2,000.00
-
-CERRAJERIAS.
-
-Expedición incluyendo registro una sola vez 4,000.00 a 8,000.00
-
-Revalidación de registro anual 3,000.00 a 6,000.00
-
-Reposición cada vez 3,000.00
-
-CRISTALERIAS, LOZA, PELTRE, PLASTICOS Y ALUMINIOS.
-
-Expedición incluyendo registro una sola vez 5,000.00 a 10,000.00
-
-Revalidación de registro anual 4,000.00 a 8,000.00
-
-Reposición cada vez 4,000.00 a (sic)
-
-CUADROS Y ARTICULOS DECORATIVOS.
-
-Expedición incluyendo registro una sola vez 6,000.00
-
-Revalidación de registro anual 3,000.00
-
-Reposición cada vez 3,000.00
-
-CAJONES DE ROPA HECHA, TELAS Y BLANCOS.
-
-Expedición incluyendo registro una sola vez 6,000.00 a 10,000.00
-
-Revalidación de registro anual 3,000.00 a 6,000.00
-
-Reposición cada vez 3,000.00 a (sic)
-
-CANTERAS, YESERIAS Y CALERAS.
-
-Expedición incluyendo registro una sola vez 10,000.00 a 20,000.00
-
-Revalidación de registro anual 5,000.00 a 15,000.00
-
-Reposición cada vez 4,000.00 a (sic)
-
-COMPAÑIAS CONSTRUCTORAS.
-
-Expedición incluyendo registro una sola vez 20,000.00 a 50,000.00
-
-Revalidación de registro anual 15,000.00 a 30,000.00
-
-Reposición cada vez 10,000.00
-
-COMPAÑIAS DE FRACCIONAMIENTOS DE TERRENOS.
-
-Expedición incluyendo registro una sola vez 25,000.00 a 50,000.00
-
-Revalidación de registro anual 20,000.00 a 30,000.00
-
-Reposición cada vez 10,000.00
-
-COMISIONISTAS Y ADMINISTRACION DE BIENES RAICES.
-
-Expedición incluyendo registro una sola vez 15,000.00
-
-Revalidación de registro anual 10,000.00 a 15,000.00
-
-Reposición cada vez 5,000.00
-
-CARROS DE SONIDO.
-
-Expedición incluyendo registro una sola vez 3,000.00
-
-Revalidación de registro anual 2,000.00
-
-Reposición cada vez 2,000.00
-
-DEPARTAMENTOS AMUEBLADOS.
-
-Expedición incluyendo registro una sola vez 6,000.00
-
-Revalidación de registro anual 3,000.00
-
-Reposición cada vez 3,000.00
-
-DISTRIBUCION DE MOTOCICLETAS, BICICLETAS Y SUS REFACCIONES.
-
-Expedición incluyendo registro una sola vez $10,000.00
-
-Revalidación de registro anual 4,000.00 a 8,000.00
-
-Reposición cada vez 4,000.00
-
-DISTRIBUIDORAS AUTORIZADAS DE LLANTAS, CAMARAS Y SIMILARES.
-
-Expedición incluyendo registro una sola vez $15,000.00 a 25,000.00
-
-Revalidación de registro anual $10,000.00 a $25,000.00
-
-Reposición cada vez 4,000.00
-
-DISCOTECAS Y ACCESORIOS MUSICALES.
-
-Expedición incluyendo registro una sola vez 6,000.00
-
-Revalidación de registro anual 3,000.00
-
-Reposición cada vez 3,000.00
-
-DISTRIBUIDORAS DE GASES, COMBUSTIBLES, INDUSTRIALES Y DOMESTICOS.
-
-Expedición incluyendo registro una sola vez $25,000.00
-
-Revalidación de registro anual 10,000.00 a 15,000.00
-
-Reposición cada vez 5,000.00
-
-EXPENDIOS DE CARNITAS, MANTECA, BARBACOA Y CHICHARRON.
-
-Expedición incluyendo registro una sola vez $6,000.00
-
-Revalidación de registro anual 3,000.00
-
-Reposición cada vez 3,000.00
-
-EXPENDIO DE HUEVO, LECHE Y SUS DERIVADOS.
-
-Expedición incluyendo registro una sola vez 4,000.00
-
-Revalidación de registro anual 2,000.00
-
-Reposición cada vez 2,000.00
-
-EXPEDICION DE MARISCOS Y PESCADOS.
-
-Expedición incluyendo registro una sola vez 6,000.00 a 20,000.00
-
-Revalidación de registro anual 5,000.00 a 15,000.00
-
-Reposición cada vez 5,000.00
-
-EXPENDIO DE GELATINAS.
-
-Expedición incluyendo registro una sola vez 1,500.00
-
-Revalidación de registro anual 500.00
-
-Reposición cada vez 500.00
-
-EMBOTELLADORAS, DISTRIBUIDORAS, DEPOSITOS Y COMISIONISTAS.
-
-Expedición incluyendo registro una sola vez $20,000.00 a 30,000.00
-
-Revalidación de registro anual 10,000.00 a 20,000.00
-
-Reposición cada vez 6,000.00
-
-EXPENDIOS DE LOTERIAS, PRONOSTICOS DEPORTIVOS Y BUFETES DE POLICIA PRIVADA.
-
-Expedición incluyendo registro $6,000.00
-
-Revalidación de registro anual 3,000.00
-
-Reposición cada vez 3,000.00
-
-ESTABLECIMIENTOS DE COMPRA VENTA DE ABONOS FERTILIZANTES, INSECTICIDAS E IMPLEMENTOS AGRICOLAS.
-
-Expedición incluyendo registro una sola vez $12,000.00
-
-Revalidación de registro anual 6,000.00 a $12,000.00
-
-Reposición cada vez 3,000.00
-
-ESTABLECIMIENTOS DE ORDEÑA.
-
-Expedición incluyendo registro una sola vez 3,000.00
-
-Revalidación de registro anual 1,500.00
-
-Reposición una sola vez 1,500.00
-
-ESTABLECIMIENTOS DE COMPRA-VENTA Y DISTRIBUCION DE AUTOS Y CAMIONES CON VENTA DE REFACCIONES Y SERVICIOS DE TALLER.
-
-Expedición incluyendo registro anual una sola vez $80,000.00 a 100,000.00
-
-Revalidación de registro anual 30,000.00 a 65,000.00
-
-Reposición una sola vez 10,000.00 a (sic)
-
-ESTABLECIMIENTOS DE COMPRA-VENTA Y DISTRIBUCION DE AUTOS Y CAMIONES SIN VENTA DE REFACCIONES Y SERVICIOS DE TALLER.
-
-Expedición incluyendo registro anual una sola vez $50,000.00 a (sic)
-
-Revalidación de registro anual 18,000.00 a $40,000.00
-
-Reposición una sola vez 6,000.00
-
-ESTABLECIMIENTO DE REFACCIONES, ACCESORIOS, LUBRICANTES Y GRASAS AUTOMOTRICES.
-
-Expedición incluyendo registro una sola vez $15,000.00 a $35,000.00
-
-Revalidación de registro anual 10,000.00 a 30,000.00
-
-Reposición una sola vez 4,000.00
-
-ESTABLECIMIENTOS DE COMPRA-VENTA DE PAPEL, VIDRIOS, MATERIALES DE DESECHOS INDUSTRIALES.
-
-Expedición incluyendo registro anual una sola vez $6,000.00
-
-Revalidación de registro anual 3,000.00
-
-Reposición una sola vez 1,500.00
-
-ESTUDIOS FOTOGRAFICOS, FOTOGRAFIAS, REVELADOS, HELIOGRAFICAS, FOTOSTATICAS Y SIMILARES.
-
-Expedición incluyendo registro una sola vez $6,000.00 a $10,000.00
-
-Revalidación de registro anual 3,000.00 a 8,000.00
-
-Reposición una sola vez 3,000.00
-
-EXPENDIOS DE PERIODICOS, REVISTAS, NOVELAS Y CUENTOS.
-
-Expedición incluyendo registro una sola vez $3,000.00
-
-Revalidación de registro anual 2,000.00
-
-Reposición una sola vez 2,000.00
-
-EXPENDIO DE MIEL DE COLMENA.
-
-Expedición incluyendo registro una sola vez 3,000.00
-
-Revalidación de registro anual 1,500.00
-
-Reposición una sola vez 1,500.00
-
-EQUIPOS Y MUEBLES PARA OFICINA.
-
-Expedición incluyendo registro una sola vez 8,000.00 a 50,000.00
-
-Revalidación de registro anual 4,000.00 a 20,000.00
-
-Reposición una sola vez 4,000.00
-
-ESCRITORIOS PUBLICOS.
-
-Expedición incluyendo registro una sola vez 3,000.00
-
-Revalidación de registro una sola vez 2,000.00
-
-Reposición una sola vez 1,500.00
-
-ESTABLECIMIENTOS PRIVADOS DE ENSEÑANZA NO INCORPORADOS A LA SECRETARIA DE EDUCACION PUBLICA.
-
-Expedición incluyendo registro una sola vez $25,000.00
-
-Revalidación de registro anual 12,000.00 a $18,000.00
-
-Reposición una sola vez 6,000.00
-
-ESTABLECIMIENTOS PRIVADOS DE ENSEÑANZA INCORPORADOS A LA SECRETARIA DE EDUCACION PUBLICA.
-
-Expedición incluyendo registro una sola vez $20,000.00
-
-Revalidación de registro anual 10,000.00 a $15,000.00
-
-Reposición una sola vez 5,000.00
-
-ESTACIONAMIENTO PARA AUTOMOVILES.
-
-Expedición incluyendo registro una sola vez 9,000.00 a 15,000.00
-
-Revalidación de registro anual 3,000.00 a 10,000.00
-
-Reposición una sola vez 3,000.00
-
-ESTABLECIMIENTO CON VENTA DE ARTICULOS DIVERSOS COMO ARTICULOS DE PIEL, PERFUMERIAS, ROPA, ETC.
-
-Expedición incluyendo registro una sola vez $10,000.00 a $25,000.00
-
-Revalidación de registro anual 10,000.00 a 20,000.00
-
-Reposición una sola vez 3,000.00 a 5,000.00
-
-EXPENDIOS DE HIELO Y AGUA PURIFICADA.
-
-Expedición incluyendo registro una sola vez 4,000.00
-
-Revalidación de registro anual 2,000.00
-
-Reposición una sola vez 2,000.00
-
-ESTABLECIMIENTOS COMERCIALES CON MATERIAL DE CONSTRUCCION MADERAS Y ARTICULOS DE FERRETERIA.
-
-Expedición incluyendo registro $30,000.00 a $50,000.00
-
-Revalidación de registro anual 15,000.00 a 30,000.00
-
-Reposición una sola vez 5,000.00
-
-EMPRESAS PARTICULARES QUE EXPLOTEN RECURSOS NATURALES DENTRO DEL MUNICIPIO, MEDIANTE CONCESION FEDERAL O ESTATAL, PAGARAN SUS DERECHOS CONFORME A LA SIGUIENTE TARIFA.
-
-Expedición $25,000.00 a $80,000.00
-
-Revalidación 15,000.00 a 25,000.00
-
-Reposición 10,000.00
-
-En situaciones especiales el pago será el que acuerde el H. Ayuntamiento en Cabildo.
-
-FONDAS Y LONCHERIAS CON VENTA DE CERVEZA EXCLUSIVAMENTE EN LOS ALIMENTOS.
-
-Expedición de registro anual $20,000.00 a $40,000.00
-
-Revalidación de registro anual 15,000.00 a 30,000.00
-
-Reposición una sola vez 5,000.00
-
-FONDAS Y LONCHERIAS SIN VENTA DE CERVEZA.
-
-Expedición de registro anual 6,000.00
-
-Revalidación de registro anual 3,000.00
-
-Reposición una sola vez 3,000.00
-
-FABRICAS Y EXPENDIO DE PAN Y PASTELERIAS.
-
-Expedición incluyendo registro una sola vez 6,000.00 a 15,000.00
-
-Revalidación de registro anual 3,000.00 a 12,000.00
-
-Reposición una sola vez 3,000.00
-
-FABRICAS DE LLANTAS PARA AUTOMOVILES, TRACTORES, MOTOCICLETAS, AERONAVES Y SIMILARES.
-
-Expedición incluyendo registro una sola vez $30,000.00 a $50,000.00
-
-Revalidación de registro anual 15,000.00 a 25,000.00
-
-Reposición una sola vez 10,000.00
-
-FABRICAS Y RECONSTRUCTORAS DE MAQUINARIA INDUSTRIAL Y AGRICOLA.
-
-Expedición incluyendo registro una sola vez $15,000.00
-
-Revalidación de registro anual 10,000.00
-
-Reposición una sola vez 4,000.00
-
-FLORERIAS Y VIVEROS.
-
-Expedición incluyendo registro anual una vez 10,000.00 a 15,000.00
-
-Revalidación de registro anual 3,000.00 a 8,000.00
-
-Reposición una sola vez 3,000.00
-
-FORRAJERIAS.
-
-Expedición incluyendo registro anual una vez 8,000.00 a 15,000.00
-
-Revalidación de registro anual 4,000.00 a 8,000.00
-
-Reposición una sola vez 4,000.00
-
-FABRICAS DE HIELO.
-
-Expedición incluyendo registro anual una vez 20,000.00 a 30,000.00
-
-Revalidación de registro anual 12,000.00 a 20,000.00
-
-Reposición una sola vez 6,000.00
-
-FABRICAS DE NIEVE, PALETAS Y HELADOS.
-
-Expedición incluyendo registro anual una vez 10,000.00 a 12,000.00
-
-Revalidación de registro anual 5,000.00 a 10,000.00
-
-Reposición una sola vez 3,000.00
-
-FARMACIAS, BOTICAS, ETC.
-
-Expedición incluyendo registro anual una vez 12,000.00 a 20,000.00
-
-Revalidación de registro anual 4,000.00 a 12,000.00
-
-Reposición una sola vez 4,000.00
-
-FABRICAS DE JABON, DETERGENTES Y VELADORAS.
-
-Expedición $15,000.00 a 30,000.00
-
-Revalidación 12,000.00 a 15,000.00
-
-Reposición 5,000.00
-
-FABRICAS DE CABLES QUE SEAN CONDUCTORES DE ELECTRICIDAD.
-
-Expedición $30,000.00 a 50,000.00
-
-Revalidación 20,000.00 a 30,000.00
-
-Reposición 6,000.00
-
-FERRETERIAS CON MATERIALES DE CONSTRUCCION.
-
-Expedición $20,000.00 a $50,000.00
-
-Revalidación 10,000.00 a 30,000.00
-
-Reposición 8,000.00
-
-FABRICAS DE MOSAICOS, LOSETAS.
-
-Expedición 15,000.00 a 30,000.00
-
-Revalidación 8,000.00 a 15,000.00
-
-Reposición 4,000.00
-
-FABRICAS Y TALLERES DE MUEBLES Y ARTESANIAS, ARTICULOS ARTISTICOS Y DECORATIVOS, ESCULTURALES Y MONUMENTOS.
-
-Expedición $10,000.00 a $20,000.00
-
-Revalidación 8,000.00 a 10,000.00
-
-Reposición 2,5000.00 (sic)
-
-FUNERARIAS Y FUNERALES.
-
-Expedición 20,000.00 a 50,000.00
-
-Revalidación 6,000.00 a 25,000.00
-
-Reposición 5,000.00
-
-GASOLINERIAS.
-
-Expedición 20,000.00 a 50,000.00
-
-Revalidación 15,000.00 a 45,000.00
-
-Reposición 10,000.00
-
-GRANJAS Y PLANTAS AVICOLAS, PORCINAS Y SIMILARES.
-
-Expedición 6,000.00 a 30,000.00
-
-Revalidación 10,000.00 a 25,000.00
-
-Reposición 3,000.00
-
-GIMNASIOS.
-
-Expedición 6,000.00
-
-Revalidación 3,000.00
-
-Reposición 3,000.00
-
-HOTELES, MOTELES Y ESTACIONAMIENTOS SIMILARES.
-
-Expedición 30,000.00 a 100,000.00
-
-Revalidación 12,000.00 a 30,000.00
-
-Reposición 10,000.00
-
-IMPRENTAS, EDITORES, LITOGRAFIAS, OFFSET, SELLOS DE GOMA.
-
-Expedición $6,000.00 a 15,000.00
-
-Revalidación 3,000.00 a 15,000.00
-
-Reposición 3,000.00
-
-INGENIOS AZUCAREROS.
-
-Expedición 200,000.00 a 500,000.00
-
-Revalidación 150,000.00 a 300,000.00
-
-Reposición 150,000.00
-
-JOYERIAS, PLATERIAS, RELOJERIAS Y TIENDAS DE ARTICULOS DE LUJO.
-
-Expedición $25,000.00 a 50,000.00
-
-Revalidación 10,000.00 a 20,000.00
-
-Reposición 4,000.00 a (sic)
-
-JARCERIAS Y SIMILARES.
-
-Expedición 3,000.00
-
-Revalidación 1,500.00
-
-Reposición 1,500.00
-
-LAVANDERIAS, TINTORERIAS, PLANCHADURIAS, AGENCIAS DE RECIBO Y ENTREGA DE ROPA.
-
-Expedición $6,000.00 a $12,000.00
-
-Revalidación 3,000.00 a 10,000.00
-
-Reposición 3,000.00
-
-LAVANDERIAS AUTOMATICAS.
-
-Expedición 8,000.00 a 20,000.00
-
-Revalidación $4,000.00 a $15,000.00
-
-Reposición 4,000.00
-
-LABORATORIOS DE DIAGNOSTICOS, CLINICAS Y RADIOGRAFIAS.
-
-Expedición $15,000.00 a 30,000.00
-
-Revalidación 10,000.00 a 15,000.00
-
-Reposición 4,000.00
-
-MOLINOS DE NIXTAMAL Y EXPENDIOS DE MASA.
-
-Expedición 3,000.00
-
-Revalidación 1,800.00
-
-Reposición 1,800.00
-
-MAQUINARIA Y EQUIPO INDUSTRIAL, AGRICOLA, HERRAMIENTAS Y ACCESORIOS.
-
-Expedición $10,000.00
-
-Revalidación 5,000.00
-
-Reposición 5,000.00
-
-MERCERIAS Y BONETERIAS.
-
-Expedición 4,000.00 a $10,000.00
-
-Revalidación 2,000.00 a 6,000.00
-
-Reposición 2,000.00 a 3,000.00
-
-MATERIAS PRIMAS PARA LA ELABORACION DE NIEVES, PALETAS Y GELATINAS.
-
-Expedición $10,000.00 a 20,000.00
-
-Revalidación 5,000.00 a 12,000.00
-
-Reposición 5,000.00 a (sic)
-
-MUEBLERIAS CON VENTA DE MUEBLES DE OFICINA, APARATOS ELECTRONICOS, MUEBLES PARA EL HOGAR Y COLCHONES.
-
-Expedición $25,000.00 a $50,000.00
-
-Revalidación 20,000.00 a 40,000.00
-
-Reposición 20,000.00 a (sic)
-
-MISCELANEAS Y DULCERIAS.
-
-Expedición 6,000.00
-
-Revalidación 3,000.00
-
-Reposición 3,000.00
-
-MADERERIAS Y SIMILARES.
-
-Expedición 20,000.00 a 50,000.00
-
-Revalidación 10,000.00 a 20,000.00
-
-Reposición 5,000.00
-
-MUEBLES Y ARTICULOS PARA EL HOGAR.
-
-Expedición 10,000.00 a 20,000.00
-
-Revalidación 5,000.00 a 10,000.00
-
-Reposición 3,500.00
-
-MOLINOS DE ARROZ, EMPACADORAS DE FRUTAS.
-
-Expedición 16,000.00 a 40,000.00
-
-Revalidación 10,000.00 a 20,000.00
-
-Reposición 8,000.00
-
-OBRADORES, TOSTADORES Y MOLINOS DE CAFE.
-
-Expedición 10,000.00 a 30,000.00
-
-Revalidación 5,000.00 a 10,000.00
-
-Reposición 3,000.00
-
-OPTICAS.
-
-Expedición 10,000.00 a 25,000.00
-
-Revalidación 10,000.00 a 15,000.00
-
-Reposición 4,000.00
-
-PINTURAS, BARNICES, ESMALTES E IMPERMEABILIZANTES.
-
-Expedición 15,000.00 a 30,000.00
-
-Revalidación 5,000.00 a 15,000.00
-
-Reposición 5,000.00
-
-PRODUCTOS PRENSADOS DE CONCRETO.
-
-Expedición $10,000.00 a $25,000.00
-
-Revalidación 4,000.00 a 10,000.00
-
-Reposición 4,000.00
-
-HORNOS DE TABIQUE, LADRILLO Y TEJA INDUSTRIALIZADO.
-
-Expedición 15,000.00 a 30,000.00
-
-Revalidación 5,000.00 a 15,000.00
-
-Reposición 4,000.00
-
-PAPELERIAS, LIBRERIAS, ARTICULOS ESCOLARES, DISTRIBUCION DE REVISTAS, PERIODICOS Y PUBLICACIONES.
-
-Expedición $12,000.00 a $25,000.00
-
-Revalidación 6,000.00 a 12,000.00
-
-Reposición 3,000.00
-
-PRESTACIONES DE SERVICIOS NO ESPECIFICADOS.
-
-Expedición 6,000.00
-
-Revalidación 3,000.00
-
-Reposición 3,000.00
-
-RESTAURANT CON VENTA DE VINOS DE MESA Y CERVEZAS, EXCLUSIVAMENTE CON ALIMENTOS.
-
-Expedición $12,000.00 a $50,000.00
-
-Revalidación 10,000.00 a 20,000.00
-
-Reposición 5,000.00
-
-RESTAURANT EN HOTELES CON SERVICIO DE CANTINA O BAR.
-
-Expedición $40,000.00 a 80,000.00
-
-Revalidación 30,000.00 a 50,000.00
-
-Reposición 5,000.00
-
-REFRESQUERIAS, NEVERIAS, JUGOS Y LICUADOS.
-
-Expedición 10,000.00 a 30,000.00
-
-Revalidación 3,000.00 a 10,000.00
-
-Reposición 2,000.00
-
-SALCHICHONERIAS, ULTRAMARINOS Y ROSTICERIAS SIN VENTA DE CERVEZA, VINOS Y LICORES.
-
-Expedición $6,000.00 a $12,000.00
-
-Revalidación 3,000.00 a 10,000.00
-
-Reposición 3,000.00
-
-SUPER PANADERIAS.
-
-Expedición 15,000.00 a 20,000.00
-
-Revalidación 5,000.00 a 15,000.00
-
-Reposición 5,000.00 a (sic)
-
-SUPERMERCADOS Y TIENDAS DE AUTOSERVICIO.
-
-Expedición 40,000.00 a 80,000.00
-
-Revalidación 30,000.00 a 50,000.00
-
-Reposición 5,000.00
-
-SALONES DE FIESTA.
-
-Expedición 10,000.00 a 30,000.00
-
-Revalidación 6,000.00 a 20,000.00
-
-Reposición 6,000.00
-
-SALONES DE BOLICHE.
-
-Expedición 10,000.00 a 25,000.00
-
-Revalidación 5,000.00 a 20,000.00
-
-Reposición 5,000.00
-
-SANITARIOS PUBLICOS.
-
-Expedición 3,000.00
-
-Revalidación 2,000.00
-
-Reposición 2,000.00
-
-SALONES DE BELLEZA Y PELUQUERIAS.
-
-Expedición $6,000.00 a $10,000.00
-
-Revalidación 3,000.00 a 9,000.00
-
-Reposición 3,000.00
-
-SARAPERIAS Y REBOCERIAS.
-
-Expedición 3,000.00
-
-Revalidación 2,000.00
-
-Reposición 2,000.00
-
-SALAS DE PROYECCIONES DE PELICULAS Y TEATROS.
-
-Expedición 30,000.00 a 80,000.00
-
-Revalidación 25,000.00 a 50,000.00
-
-Reposición 8,000.00
-
-SUPERFARMACIAS, PERFUMERIAS Y PRODUCTOS DE BELLEZA.
-
-Expedición $12,000.00 a 25,000.00
-
-Revalidación 10,000.00 a 20,000.00
-
-Reposición 8,000.00
-
-TORTILLERIAS AUTOMATICAS Y MANUALES.
-
-Expedición 6,000.00 a 10,000.00
-
-Revalidación 3,000.00 a 6,000.00
-
-Reposición 3,000.00
-
-TIENDAS DE FIERROS Y MUEBLES USADOS.
-
-Expedición 8,000.00 a 10,000.00
-
-Revalidación 4,000.00 a 8,000.00
-
-Reposición 4,000.00
-
-TIENDAS DE REGALOS Y ARTICULOS DE FANTASIA.
-
-Expedición 10,000.00 a 15,000.00
-
-Revalidación 3,000.00 a 10,000.00
-
-Reposición 3,000.00
-
-TIENDAS DE CURIOSIDADES, SOMBREROS DE PALMA, CANASTAS Y HUARACHES.
-
-Expedición $10,000.00 a 15,000.00
-
-Revalidación 3,000.00 a 10,000.00
-
-Reposición 2,000.00
-
-TIENDAS DE ROPA HECHA, TELAS, CALCETINES, BLANCOS Y SIMILARES.
-
-Expedición $10,000.00 a 20,000.00
-
-Revalidación 3,000.00 a 10,000.00
-
-Reposición 3,000.00
-
-TENDAJON CON VENTA DE CERVEZA EN BOTELLA CERRADA.
-
-Expedición 10,000.00 a 20,000.00
-
-Revalidación 8,000.00 a 15,000.00
-
-Reposición 5,000.00
-
-TENDAJON CON VENTA DE CERVEZA EN BOTELLA ABIERTA.
-
-Expedición 20,000.00 a 40,000.00
-
-Revalidación 10,000.00 a 20,000.00
-
-Reposición 5,000.00
-
-TRANSPORTES DE PASAJEROS EN GENERAL.
-
-Expedición 10,000.00 a 50,000.00
-
-Revalidación 5,000.00 a 40,000.00
-
-Reposición 5,000.00 a 15,000.00
-
-TLAPALERIAS, MATERIAL ELECTRICO, Y ARTICULOS DE PLOMERIA EN GENERAL.
-
-Expedición $10,000.00 a $25,000.00
-
-Revalidación 5,000.00 a 15,000.00
-
-Reposición 5,000.00
-
-TALLERES ELECTROMECANICOS, ELECTRONICOS DE:
-
-CARPINTERIA
-
-CROMADO
-
-CURTIDURIA
-
-CRISTALERIA
-
-CONFECCION DE BRASIERES, BORDADOS, CAMISAS, COSTURAS, ESTAMPADOS, PANTALONES, VESTIDOS
-
-HERRERIA, HUARACHES
-
-HOJALATERIA
-
-HILADOS
-
-EBANISTERIA
-
-PINTURA
-
-PLATERIA Y JOYERIA
-
-SOLDADURA
-
-TAPICERIA
-
-TALABARTERIA
-
-TELAS
-
-TEJIDOS
-
-REPARACION DE:
-
-AUTOMOVILES Y CAMIONES
-
-APARATOS ELECTRONICOS
-
-AIRE ACONDICIONADO
-
-CALZADO
-
-COLCHONES
-
-ESTUFAS
-
-LAVADORAS
-
-MAQUINAS DE COCER (SIC)
-
-MAQUINAS CALCULADORAS
-
-MAQUINAS DE ESCRIBIR
-
-MAQUINAS SUMADORAS
-
-MOFLES
-
-MOTOCICLETAS
-
-REFRIGERADORES
-
-Expedición $5,000.00 a $20,000.00
-
-Revalidación 3,000.00 a 15,000.00
-
-Reposición 3,000.00
-
-VINATERIAS Y LONJAS DE DISTRIBUCION CON VENTA DE VINOS Y LICORES.
-
-Expedición $10,000.00 a 25,000.00
-
-Revalidación 6,000.00 a 10,000.00
-
-Reposición 3,000.00
-
-VENTA DE ALMONEDA.
-
-Expedición 10,000.00
-
-Revalidación 4,000.00
-
-Reposición 4,000.00
-
-VULCANIZADORAS, RENOVADORAS, ALINEACION Y BALANCEO Y REPARACION.
-
-Expedición $15,000.00 a 20,000.00
-
-Revalidación 5,000.00 a 15,000.00
-
-Reposición 4,000.00
-
-VIDRIERIAS, LUNAS, CORTINAS Y PERSIANAS.
-
-Expedición 15,000.00 a 25,000.00
-
-Revalidación 10,000.00 a 15,000.00
-
-Reposición 5,000.00
-
-VEHICULOS DE TRANSPORTES, MUDANZAS Y FLETES.
-
-Expedición $10,000.00 a 15,000.00
-
-Revalidación 4,000.00 a 10,000.00
-
-Reposición 4,000.00
-
-ZAPATERIAS, SANDALIAS Y SIMILARES.
-
-Expedición 8,000.00 a 20,000.00
-
-Revalidación 5,000.00 a 15,000.00
-
-Reposición 5,000.00
-
-GIROS NO ESPECIFICADOS.
-
-Expedición $2,000.00 a $50,000.00
-
-Revalidación 1,000.00 a 25,000.00
-
-Reposición 1,000.00 a 10,000.00
-
-COMERCIANTES MAYORISTAS EN ROPA Y SIMILARES, ASI COMO OTROS GIROS COMERCIALES QUE SE ESTABLEZCAN EN TIANGUIS MUNICIPALES O EN VIAS PUBLICAS, SEÑALADOS ESPECIFICAMENTE POR EL H. AYUNTAMIENTO:
-
-Expedición $10,000.00 a $40,000.00
-
-Revalidación anual 8,000.00 a 15,000.00
-
-Reposición cada vez 3,000.00
-
-El Presidente Municipal realizará a través de la dependencia que le corresponda, el censo de contribuyentes a efecto de que éstos cumplan con sus deberes fiscales. El Ayuntamiento no reconocerá el traspaso efectuado entre personas físicas y morales de licencias autorizadas para el expendio y venta de bebidas alcohólicas.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ###### ARTICULO 157.
 
-El pago de los derechos establecidos en este capítulo deberá liquidarse de acuerdo con lo siguiente:
-
-a).- El importe del registro inicial de operaciones dentro de los diez días posteriores a la autorización.
-
-b).- La revalidación anual del registro, dentro del mes de enero de cada año.
-
-c).- La reposición del registro, al presentar su solicitud de reposición.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ###### ARTICULO 158.
 
-El Presidente municipal, para los efectos de equidad y de justicia contributiva a que se refiere la fracción IV del Artículo 31 de la Constitución Política de los Estados Unidos Mexicanos, concederá de acuerdo a sus facultades y previa inspección, los subsidios a la cuota que establece este capítulo, cuando la situación económica, ubicación, giro o circunstancias similares de los establecimientos así lo ameriten, y podrá conceder que el pago se haga en parcialidades.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ### CAPITULO DECIMO QUINTO. POR LEGALIZACION DE FIRMAS, CERTIFICADOS, CERTIFICACIONES Y COPIAS CERTIFICADAS SIMPLES
 
 ###### ARTICULO 159.
 
-Son causantes de este derecho los establecimientos comerciales, y los propietarios o poseedores de aparatos mecánicos, electromecánicos o electrónicos, sean de música o no, establecidos dentro del territorio del Municipio y que funcionen fuera del horario reglamentario (de 9.00 a 21.00 horas).
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ###### ARTICULO 160.
 
-El derecho contemplado en este capítulo será determinado de acuerdo con la siguiente tarifa:
-
-a).- Si se trata de establecimientos que no expendan bebidas alcohólicas, por cada o fracción de: $20.00 a $50.00
-
-b).- Para establecimientos con venta de cerveza y/o bebidas alcohólicas por cada hora o fracción de: 100.00 a 200.00
-
-c).- Para centros nocturnos con música viva de: 150.00 a 300.00
-
-d).- Para discoteques y otros centros nocturnos por cada hora o fracción de: 150.00 a 300.00
-
-e).- Otros no especificados, por hora diaria: 30.00.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ###### ARTICULO 161.
 
-El funcionamiento de establecimientos comerciales y aparatos mecánicos, electromecánicos o electrónicos en horas extras requerirá previa autorización expresa del C. Presidente Municipal.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ###### ARTICULO 162.
 
-Los causantes de este derecho, deberán cubrir su importe al H. Ayuntamiento dentro de los primeros cinco días de cada mes en forma anticipada, cubriendo su importe por meses completos.
-
-Aquellos causantes que por la naturaleza de su giro requieran de horario especial para su funcionamiento, harán el planteamiento por escrito ante la Autoridad Municipal, la cual, previa inspección determinará lo procedente.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ### CAPITULO DECIMO SEXTO. POR LICENCIAS DIVERSAS
 
@@ -2971,31 +1645,15 @@ Los certificados, certificaciones y copias certificadas que expidan las dependen
 
 ###### ARTICULO 166.
 
-La celebración de cualquier tipo de evento de acuerdo con la legislación fiscal vigente, requiere ser autorizado por la autoridad municipal, previo a su desarrollo.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ###### ARTICULO 167.
 
-Para otorgar la autorización a que se refiere el Artículo 166, la persona física o moral o unidad económica que pretenda desarrollarlos, estará obligada a cubrir los derechos correspondientes de acuerdo con la siguiente tarifa:
-
-I.- Serenatas o similares, por evento: $150.00
-
-II.- Para el ejercicio de oficios que requieran licencia o permiso de acuerdo con los reglamentos municipales, como aseadores de calzado, fotógrafos, estibadores, billeteros y similares, mensualmente de: $100.00 a 300.00
-
-III.- Grupos de mariachis o conjuntos musicales, mensual de: 1,500.00 a 3,000.00
-
-IV.- Por la celebración en el Municipio de loterías, rifas o sorteos de cualquier clase, ya sea de dinero o de otros bienes, por cada evento de: $200.00 a 8,000.00
-
-V.- Para el expendio de bebidas alcohólicas en bailes, espectáculos, ferias y otros eventos ocasionales, diariamente de: $2,000.00 a 10,000.00
-
-En aquellos casos en que el evento de que se trate propicie el establecimiento de comercios en los que sea natural una generación especial de basura, se cobrará una cuota del 25% sobre el valor de la licencia.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ###### ARTICULO 168.
 
-Los causantes de estos derechos deberán enterarlos en la Tesorería Municipal, de acuerdo con las siguientes disposiciones:
-
-a).- A los indicados en las fracciones I, IV y V del Artículo anterior al recibir la licencia o autorización para desarrollar el evento; y
-
-b).- Los indicados en las Fracciones II y III, dentro de los primeros diez días de cada mes, en forma anticipada.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ### CAPITULO DECIMO OCTAVO. POR PUBLICIDAD Y ANUNCIOS EN LA VIA PUBLICA
 
@@ -3035,9 +1693,7 @@ c).- Otro tipo de estructura: 19.00/M2
 
 d).- Reconstrucción: 15.00/M2
 
-IV.- Ocupación de la vía pública con escombros o materiales de construcción, por día: $15.00/M3.
-
-Quedan exentas las reparaciones exteriores tales como resanes y pintura, a menos que se utilice la vía pública con tapiales, escombros, etc., en cuyo caso pagarán derechos de acuerdo con lo establecido en este inciso.
+IV.- (DEROGADA, P.O. 25 DE ENERO DE 1989)
 
 V.- Demoliciones parciales por M2. de construcción $15.00 a $20.00/M2
 
@@ -3067,11 +1723,7 @@ Si al hacer la inspección final resultan especificaciones diversas a las propue
 
 X.- Uso de explosivos por M3. $300.00
 
-XI.- Por autorización y señalamiento de aforo máximo en edificios deportivos centros de reunión y salas de espectáculos:
-
-a) Expedición de placa: $2,500.00
-
-b) Revisión y supervisión anual: 1,700.00
+XI.- (DEROGADA, P.O. 25 DE ENERO DE 1989)
 
 XII.- Por aprobación de planos para construcción por M2. de superficie cubierta: 25.00
 
@@ -3135,7 +1787,7 @@ b).- Para uso particular: $30,000.00.
 
 c).- Por cada litro por segundo de aforo previa verificación de la presidencia Municipal, exclusivamente para fraccionamientos, por una sola vez: $30,000.00.
 
-XXIV.- Permiso para la explotación de arena, tierra y materiales similares por M3. extraído: $10.00.
+XXIV.- (DEROGADA, P.O. 25 DE ENERO DE 1989)
 
 XXV.- Instalación de calderas de vapor por una sola vez: $1,000.00.
 
@@ -3235,53 +1887,23 @@ La acción del H. Ayuntamiento para el cobro de los derechos de construcción de
 
 ###### ARTICULO 180.
 
-Son causantes de este derecho, las personas físicas, morales o unidades económicas que en inmueble de su propiedad o arrendado, establezcan anuncios comerciales o publicitarios. Serán responsables solidarios los propietarios de los inmuebles utilizados.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ###### ARTICULO 181.
 
-Quedan exentos del pago de estos derechos las denominaciones sociales pintadas en las fachadas o colocadas sobre muros, siempre que no sean luminosas y que sólo sirvan para identificar el establecimiento.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ###### ARTICULO 182.
 
-La expedición de la licencia para colocar o instalar anuncios en la vía pública tendrá las siguientes limitaciones:
-
-I.- No se podrá autorizar la instalación de ningún anuncio dentro de un radio de 150 metros en entronque de carreteras, monumentos, glorietas o vías de ferrocarril.
-
-II.- No se permitirán anuncios en forma de bandera.
-
-III.- No se permitirá la instalación de anuncios sobre azoteas cuando estos excedan de 2.00 metros de altura sobre las mismas.
-
-IV.- Queda prohibida la colocación de mantas, pasacalles y la distribución de volantes y folletines en el primer cuadro de la ciudad, salvo autorización expresa del Presidente Municipal.
-
-V.- Se prohibe la publicidad por medio de carteles, cartulinas, afiches, etc., pegados en las paredes, bardas, postes y lugares similares.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ###### ARTICULO 183.
 
-Los derechos que se causarán por la expedición de la licencia para la instalación de anuncios en la vía pública, se regirán por la siguiente tarifa:
-
-I.- Anuncios pintados sobre muros, fachadas, o vehículos bimestralmente, por metro cuadrado o fracción: de $10.00 a $20.00.
-
-II.- Propaganda mural sobre carteleras, bimestralmente por metro cuadrado o fracción: de $15.00 a $35.00.
-
-III.- Anuncios luminosos de cualquier material o instalación, colocados sobre muros, fachadas o azoteas, bimestralmente por metro cuadrado o fracción: $320.00.
-
-IV.- Anuncios no luminosos de cualquier material instalados sobre edificios, bimestralmente por metro cuadrado o fracción: $ 40.00.
-
-V.- Anuncios luminosos donde sólo se mencione la razón social o denominación, bimestralmente: $60.00.
-
-VI.- Anuncios no luminosos, empotrados a muros, fachadas, bardas, etc., de cualquier material bimestralmente: $60.00.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ###### ARTICULO 184.
 
-La aplicación de la tarifa establecida en el artículo 183 deberá contemplar la ubicación de acuerdo con la zona fiscal a que corresponda en el Municipio, para lo cual se atenderá a lo siguiente:
-
-ZONA 1 100%
-
-ZONA 2 75%
-
-ZONA 3 50%
-
-ZONA 4 25%.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ### CAPITULO VIGESIMO PRIMERO. POR COMERCIO AMBULANTE O SEMIFIJO
 
@@ -3307,107 +1929,49 @@ ZONA 4 20.00.
 
 ###### ARTICULO 187.
 
-Son sujetos de este derecho, las personas físicas, las morales o las unidades económicas que de acuerdo con el reglamento de construcciones instalen o manejen equipos de peligrosidad relativa, como calderas de vapor, sustancias explosivas o de fácil combustión, elevadores y similares.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ###### ARTICULO 188.
 
-Por la inspección de calderas de vapor que realice la Dirección de Obras Públicas Municipales, se causarán derechos bimestrales de acuerdo con la siguiente tarifa:
-
-a).- Calderas de vapor, hasta 50 H.P. $600.00.
-
-b).- Calderas de vapor de 50 H.P. hasta 100 H.P. $1,000.00.
-
-c).- Calderas de vapor, de mas de 100 H.P. $1,500.00.
-
-d).- Para determinar la peligrosidad de almacenamiento de sustancias explosivas o de fácil combustión, por visita $2,000.00.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ###### ARTICULO 189.
 
-Por la inspección de elevadores que realice el H. Ayuntamiento a través de su Dirección de Obras Públicas, causarán derechos bimestrales conforme a la siguiente tarifa:
-
-a).- De uno a tres pisos $600.00.
-
-b).- Por piso excedente $100.00.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ###### ARTICULO 190.
 
-Por la expedición y refrendo de la licencia de funcionamiento, se causará anualmente derechos como sigue:
-
-a).- Calderas de vapor $400.00.
-
-b).- Elevadores $600.00.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ###### ARTICULO 191.
 
-Por servicios especiales de vigilancia, a solicitud de la parte interesada, en diversiones y espectáculos, centros de reunión y establecimientos en general, se causarán derechos diariamente de acuerdo con las siguientes tarifas:
-
-a).- Por cada vigilante de $600.00 a $1,000.00.
-
-b).- Por cada interventor, levantador de sellos. Ejecutor de clausuras y similares de $700.00 a $1,200.00.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ### CAPITULO VIGESIMO TERCERO. POR SERVICIOS DE MERCADOS
 
 ###### ARTICULO 192.
 
-Son sujetos de este gravamen las personas que vendan mercancías en la vía pública, dentro de los límites perimetrales del Municipio y que no utilicen para el transporte de la misma vehículos de motor.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ###### ARTICULO 193.
 
-Para poder ejercer dicho comercio deberá contar con la licencia o registro expedida por la autoridad estatal y la que expida el propio Ayuntamiento, limitándose dicho comerciante exclusivamente al área que le sea señalada en su recibo.
-
-El H. Ayuntamiento, podrá modificar en cualquier momento a través de una disposición por escrito, la ubicación de estos comerciantes sin que pueda mediar ningún recurso de inconformidad por parte de ellos o de sus agrupaciones.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ###### ARTICULO 194.
 
-Los derechos sobre comercio ambulante, se causará conforme a la siguiente tarifa mensual:
-
-PARA AMBULANTES:
-
-ZONA 1 $780.00
-
-ZONA 2 620.00
-
-ZONA 3 520.00
-
-ZONA 4 390.00
-
-Otro tipo de comerciantes temporales o eventuales tales como tianguistas o los que realizan ventas en bazares o en cocheras de casas particulares y otros similares no especificados pagarán diariamente: de $100.00 a $800.00, y adicionalmente estos comerciantes se asimilan al comercio establecido y deberá ajustarse a las disposiciones relativas vigentes.
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ### CAPITULO VIGESIMO CUARTO. POR SERVICIO DE AGUA
 
 ###### ARTICULO 195.
 
-Para establecer las cuotas de admisión en los centros nocturnos, bares, discotecas y similares, se requiere la autorización expresa del H. Ayuntamiento que la otorgará en cada caso según la categoría, ubicación, servicio y demás condiciones del local. Los contribuyentes pagarán derechos de acuerdo a la siguiente tarifa:
-
-CUOTAS PAGO MENSUAL
-
-$100.00 $1,500.00
-
-150.00 2,000.00
-
-200.00 2,500.00
-
-300.00 3,500.00
-
-De 400.00 en adelante 5,000.00
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ### CAPITULO UNICO
 
 ###### ARTICULO 196.
 
-Los derechos de mercados se causarán por el uso de plazas, mercados, pisos en las calles, paseos y lugares públicos, de acuerdo con la siguiente tarifa:
-
-Alacenas en kioscos diariamente de $25.00 a $600.00.
-
-Locales en el interior de los mercados diariamente de $25.00 a $150.00.
-
-Locales en el exterior del mercado diariamente por cada local de $30.00 a $100.00.
-
-La ocupación de pisos en los mercados, con fin comercial diariamente por M2. de $10.00 a $100.00.
-
-La ocupación de banquetas en las zonas permitidas por M2. y por día de $10.00 a $150.00
-
-En la vía pública y otros poblados del Municipio y en lugares autorizados que no interrumpan el libre tránsito por M2. y por día de $10.00 a $100.00
+(DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ### CAPITULO PRIMERO. REZAGOS
 
@@ -3594,3 +2158,9 @@ Rúbrica
 P.O. 27 DE AGOSTO DE 1986.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE ENERO DE 1989.
+
+PRIMERO.- Este Decreto iniciará su vigencia a partir del 1o. de enero de 1989.
+
+SEGUNDO.- Remítase al Ejecutivo del Estado el presente Decreto, para su Publicación en Periódico Oficial "Tierra y Libertad", Organo del Gobierno del Estado, para los efectos a que hace referencia la Fracción XVII del Artículo 70 de la Constitución Política del Estado.
