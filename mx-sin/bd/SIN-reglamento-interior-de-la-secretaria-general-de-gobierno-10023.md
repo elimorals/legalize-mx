@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-secretaria-general-de-gobierno-10023"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-08-10"
-last_updated: "1995-03-24"
+last_updated: "2000-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 1995.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO, PUBLICADO EN EL P.O. DE 21 DE FEBRERO DE 2000, EL PRESENTE REGLAMENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 10 de agosto de 1994.
 
@@ -994,3 +996,13 @@ P.O. 24 DE MARZO DE 1995.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 21 DE FEBRERO DE 2000.
+
+Artículo Primero.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Secretaría General de Gobierno, de fecha 29 de julio de 1994, publicado en el Periódico Oficial "El Estado de Sinaloa", número 95 el día 10 de agosto del mismo año, así como sus reformas y adiciones publicadas en este mismo medio.
+
+Artículo Tercero.- Las referencias que se hacen en decretos, reglamentos, convenios, acuerdos y demás disposiciones jurídicas a la Subsecretaría General de Gobierno, se entenderá hechas a la Subsecretaría de Gobierno; a la Subsecretaría del Trabajo y Vinculación Social, se entenderán hechas a la Subsecretaría de Normatividad e Información Registral; a la Dirección de Inspección y Reglamento, se entenderán hechos a la Dirección de Inspección y Normatividad; a la Dirección General de Tránsito y Transportes, se entenderán hechos a la Dirección de Vialidad y Transportes.
+
+Artículo Cuarto.- Cada director formulará dentro de un plazo de noventa días contados a partir de la entrada en vigor de este reglamento, su manual de organización, de procedimientos y de servicios al público, mismos que deberán ser sometidos a la consideración del Secretario.
