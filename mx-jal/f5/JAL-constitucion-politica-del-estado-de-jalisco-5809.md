@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1931-06-27"
+last_updated: "1932-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 1931.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 1932.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -85,21 +85,23 @@ El Supremo Poder del Estado se divide, para su ejercicio, en Legislativo, Ejecut
 
 El Poder Legislativo se deposita en una asamblea que se denomina Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1927)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1932)</small>
 
 ###### Art. 8º.
 
-El Congreso del Estado se compondrá de Diputados electos popularmente cada cuatro años.
+El Congreso del Estado se compondrá de Diputados electos popularmente cada dos años.
 
-Los individuos a quienes las Juntas Computadoras de las Cabeceras de Distrito Electoral expidan credenciales, declarando que han obtenido mayoría de votos para Diputados, instalados en Colegio Electoral, calificarán la elección declarando quienes son Diputados conforme a la Ley.- Esta declaratoria y todos los demás actos del Congreso en funciones de Colegio Electoral, son irrevocables.
+Los individuos a quienes las Juntas Computadoras de las Cabeceras de Distrito Electoral expidan credenciales, declarando que han obtenido mayoría de votos para Diputados, instalados en Colegio Electoral, calificarán la elección, declarando quiénes son Diputados conforme a la Ley. Esta declaratoria y todos los demás actos del Congreso en funciones de Colegio Electoral son irrevocables.
 
 La Diputación Permanente es la facultada para instalar el Colegio Electoral.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1932)</small>
 
 ###### Art. 9º.
 
-La base de elección será el número de habitantes del Estado, eligiendo por cada Distrito Electoral de ochenta mil de ellos o fracción que exceda de sesenta mil, un Diputado Propietario y un Suplente.
+La base para la elección será el número actual de habitantes del Estado, eligiéndose por cada cien mil habitantes o fracción que exceda de cincuenta mil, un Diputado Propietario y un Suplente, teniendo en cuenta el último censo de la Nación.
+
+El Ejecutivo fijará la circunscripción de los Distritos Electorales y su Cabecera.
 
 ### CAPITULO UNICO. De la División del Poder Público
 
@@ -127,11 +129,13 @@ VI. No ser Juez, Secretario de Juzgado, Presidente Municipal, Secretario del Ayu
 
 Los Diputados son inviolables por la manifestación de sus ideas y del ejercicio de sus funciones.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1932)</small>
+
 ### CAPITULO SEGUNDO. De la iniciativa y formación de las Leyes
 
 ###### Art. 12.
 
-El Congreso se instalará en cada bienio el primer día de febrero posterior a la elección.
+El Congreso se instalará cada dos años el día primero de febrero posterior a la elección.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 1931)</small>
 
@@ -153,7 +157,7 @@ II. Del examen, discusión y aprobación de los presupuestos de Ingresos de los 
 
 En ambos periodos ordinarios el Congreso se ocupará además, de estudiar, discutir y votar las iniciativas de Ley que se presenten y de resolver los demás asuntos que le corresponden conforme a esta Constitución.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1922)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1932)</small>
 
 ## Título Tercero
 
@@ -161,7 +165,7 @@ En ambos periodos ordinarios el Congreso se ocupará además, de estudiar, discu
 
 ###### Art. 14.
 
-El Congreso, fuera de los períodos que señala el artículo anterior, celebrará sesiones extraordinarias cuando fuere convocado al efecto por la Comisión Permanente o por el Ejecutivo; debiendo ocuparse en ellas sólo de los asuntos para los cuales se haya hecho la convocación.
+El Congreso, fuera de los períodos que señala el artículo anterior, celebrará sesiones extraordinarias sólo cuando fuere convocado al efecto por el Ejecutivo, en los términos del artículo 35 fracción XVI, o por la Comisión Permanente, en los casos de la fracción IX del artículo 23; debiendo ocuparse en ellas sólo de los asuntos para los cuales se haya hecho la convocatoria.
 
 ###### Art. 15.
 
@@ -253,7 +257,9 @@ X. Convocar a elecciones cuando fuere necesario, y decidir sobre la legalidad de
 
 XI. Conocer de la renuncia de los Diputados, del Gobernador y de los Magistrados.
 
-XII. Otorgar licencias a los funcionarios de que habla la Fracción anterior para separarse de sus cargos, siendo las de los Magistrados por más de dos meses; y conceder permiso al Gobernador para salir del Territorio del Estado; si la ausencia excede de 48 horas, se nombrará en este caso otro substituto.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 1932)</small>
+
+XII. Otorgar licencias a los Funcionarios de que habla la fracción anterior para separarse de sus cargos, siendo la de los Magistrados por más de dos meses; y conceder permiso al Gobernador para permanecer fuera del Territorio del Estado; si la ausencia excede de noventa y seis (96) horas. En este caso se nombrará un Gobernador Substituto.
 
 XIII. Erigirse en Jurado de Acusación, o de acusación y de sentencia, en los casos que señalan los artículos 49, 50 y 51.
 
@@ -293,9 +299,9 @@ II. Dictaminar sobre las modificaciones a los Presupuestos Municipales que propo
 
 III. Abrir dictamen sobre los negocios que en las últimas sesiones ordinarias hayan quedado pendientes y sobre los que después se presenten para dar cuenta al Congreso.
 
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1922)</small>
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 1932)</small>
 
-IV. Convocar al Congreso a sesiones extraordinarias cuando lo juzgue conveniente.
+IV. Convocar al Congreso a Sesiones Extraordinarias en el caso de acusación por delitos oficiales o del orden común cometidos por Funcionarios que gocen de fuero; en el caso de tener que ejercer aquel cuerpo sus funciones de Colegio Electoral para la designación del Gobernador o Magistrados, en el de tener que convocar a elecciones extraordinarias, y en el caso a que se refiere la fracción II de este Artículo.
 
 V. Llamar a los suplentes de la misma Diputación para suplir las faltas absolutas o temporales de los propietarios.
 
@@ -345,9 +351,11 @@ En las faltas temporales, y en las absolutas, mientras que se verifica la elecci
 
 Si al comenzar un periodo constitucional, no se presentare el Gobernador o la elección no estuviere hecha y declarado el 1º de marzo, cesará sin embargo el Gobernador cuyo periodo hubiere concluido, y entonces, así como en las faltas repentinas, se encargará desde luego del Poder Ejecutivo en Calidad de Gobernador Interino, el Magistrado que estuviere desempeñando la Presidencia del Supremo Tribunal de Justicia, mientras se hace la designación de que se habla en el artículo anterior y se presenta el designado.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1932)</small>
+
 ###### Art. 31.
 
-El Gobernador no puede separarse del Territorio del Estado, ni del ejercicio de sus funciones, sino con permiso del Congreso o de la Diputación Permanente; pero cuando su ausencia del territorio haya de dudar (sic) menos de 48 horas, no necesitará el permiso ni se le considerará como separado de sus funciones.
+El Gobernador no puede separarse del Territorio del Estado, ni del ejercicio de sus funciones, sino con permiso del Congreso o de la Diputación Permanente; pero cuando su ausencia del Territorio haya de durar menos de noventa y seis (96) horas, no necesitará el permiso ni se le considerará separado de sus funciones.
 
 ###### Art. 32.
 
@@ -383,7 +391,9 @@ III. Asistir a la apertura del primer período de sesiones ordinarias del Congre
 
 IV. Pedir y dar informes al Congreso sobre cualquier ramo de la Administración, y al Tribunal sobre el de Justicia.
 
-V. (DEROGADA, P.O. 19 DE FEBRERO DE 1927)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 1932)</small>
+
+V. Reconocer cuando después de una elección se instale más de un cuerpo legislativo, cuál es el que representa la legalidad y cuando estuviere dividida la misma legislatura en varios grupos, a aquél que tenga quórum legal.
 
 > <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1927)</small>
 
@@ -397,9 +407,9 @@ VII. Celebrar convenio sobre límites con los Estados vecinos, con el requisito 
 
 VIII. Formar los reglamentos para el buen despacho de la Administración Pública.
 
-> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1927)</small>
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 1932)</small>
 
-IX. Nombrar y remover al Secretario de Gobierno y a los funcionarios y empleados cuyo nombramiento o remoción no corresponda conforme al a Ley, a otra autoridad.
+IX. Nombrar y remover al Secretario de Gobierno, al Procurador General de Justicia y a los funcionarios y empleados cuyo nombramiento o remoción no corresponda conforme a la Ley a otra Autoridad.
 
 X. (DEROGADA, P.O. 16 DE SEPTIEMBRE DE 1922)
 
@@ -660,5 +670,9 @@ P.O. 27 DE SEPTIEMBRE DE 1928.
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
 
 P.O. 27 DE JUNIO DE 1931.
+
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
+
+P.O. 27 DE OCTUBRE DE 1932.
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
