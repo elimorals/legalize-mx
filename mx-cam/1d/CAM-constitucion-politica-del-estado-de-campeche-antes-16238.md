@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1996-07-10"
+last_updated: "1996-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CAM"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE CAMPECHE -ANTES CONSTITUCION POLITICO-SOCIAL DEL ESTADO DE CAMPECHE-
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE SEPTIEMBRE DE 1996 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 1996.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 5 DE SEPTIEMBRE DE 1996.]</small>
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -1961,11 +1961,13 @@ Primero.- El presente Decreto iniciará su vigencia al día siguiente de su publ
 
 Segundo.- La disposición contenida en el artículo 41 de este Decreto de reformas entrará en vigor el día 1 de enero del año de 1993.
 
-> <small>(DEROGADO [N. DE E. REFORMADO], P.O. 10 DE JULIO DE 1996)</small>
+> <small>(F. DE E., P.O. 5 DE SEPTIEMBRE DE 1996)</small>
 
-Tercero.- La LIV Legislatura del Congreso del Estado ejercerá su encargo del día 7 de agosto de 1992 al 30 de septiembre de 1994.
+Tercero.- La LIV Legislatura del Congreso del Estado ejercerá su encargo del día 7 de agosto de 1992 al 30 de septiembre de 1994. La LV Legislatura ejercerá sus funciones del día 1 de octubre de 1994 al 30 de septiembre de 1997.
 
-Cuarto.- El Gobernador electo para fungir durante el sexenio 1991 - 1997, concluirá su encargo el día 15 de septiembre de 1997. Dentro de la primera semana de septiembre de 1997, el Congreso del Estado elegirá un Gobernador Interino que fungirá del 16 de septiembre al 15 de octubre de 1997.
+(DEROGADO [N. DE E. REFORMADO], P.O. 10 DE JULIO DE 1996) (F. DE E., P.O. 5 DE SEPTIEMBRE DE 1996)
+
+Cuarto.- El Gobernador electo para fungir durante el sexenio 1991 - 1997, concluirá su encargo el día 15 de septiembre de 1997.
 
 Quinto.- Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
 
@@ -1995,4 +1997,6 @@ P.O. 10 DE JULIO DE 1996.
 
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Segundo.- Se deroga la segunda parte del Artículo Tercero Transitorio del Decreto 264 expedido por la LIII Legislatura de este Congreso, que se publicó en el Periódico Oficial del Estado el día 1° de Abril de 1992, al desaparecer la necesidad de designación de un Gobernador interino para fungir del 16 de Septiembre al 15 de Octubre de 1997, por la reforma que al primer párrafo del artículo 63 se contiene en este decreto.
+> <small>(F. DE E., P.O. 5 DE SEPTIEMBRE DE 1996)</small>
+
+Segundo.- Se deroga la segunda parte del Artículo Cuarto Transitorio del Decreto 264 expedido por la LIII Legislatura de este Congreso, que se publicó en el Periódico Oficial del Estado el día 1° de Abril de 1992, al desaparecer la necesidad de designación de un Gobernador interino para fungir del 16 de Septiembre al 15 de Octubre de 1997, por la reforma que al primer párrafo del artículo 63 se contiene en este decreto.
