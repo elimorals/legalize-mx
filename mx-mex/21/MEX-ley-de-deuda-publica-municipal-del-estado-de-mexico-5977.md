@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-deuda-publica-municipal-del-estado-de-mexico-5977"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-31"
-last_updated: "1987-03-12"
+last_updated: "1999-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,53 +21,31 @@ state: "MEX"
 ---
 # LEY DE DEUDA PUBLICA MUNICIPAL DEL ESTADO DE MEXICO
 
-LEY DE INGRESOS DEL MUNICIPIO DE SAN JUAN QUIAHIJE, DISTRITO DE JUQUILA, OAXACA, PARA EL EJERCICIO FISCAL 2026
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO QUINTO DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, PUBLICADO EN LA G.G. DE 9 DE MARZO DE 1999, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+LEY DE DEUDA PUBLICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-Ley publicada en la Trigésima Sexta Sección del Número 4 del Periódico Oficial del Estado de Oaxaca, el sábado 24 de enero de 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE MARZO DE 1999 (ABROGADO).
 
-> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+Ley publicada en el Número 129 de la Gaceta del Gobierno del Estado de México, el miércoles 31 de diciembre de 1986.
 
-###### Artículo 37.
+El Ciudadano LICENCIADO ALFREDO BARANDA G., Gobernador del Estado Libre y Soberano de México, a sus habitantes sabed:
 
-El pago de los derechos a que se refiere esta sección, debe hacerse previo a la expedición de las certificaciones y constancias y se pagará conforme a las siguientes cuotas:
+Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
 
-CONCEPTO CUOTA EN PERIODICIDAD
+DECRETO NUMERO 161
 
-PESOS
+LA H. XLIX LEGISLATURA DEL ESTADO DE MEXICO, DECRETA:
 
-(NOTA: EL 6 DE JULIO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 35/2026, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE JULIO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-I. COPIAS CERTIFICADAS DE
-
-DOCUMENTOS EXISTENTES
-
-EN LOS ARCHIVOS DE LAS
-
-OFICINAS MUNICIPALES 40.00 POR EVENTO
-
-II. Expedición de certificados de 72.00 Por evento
-
-residencia, origen, dependencia
-
-económica, de situación fiscal, de
-
-contribuyentes inscritos en la
-
-Tesorería Municipal y de morada
-
-conyugal.
-
-III. Constancia de origen e identidad 207.00 Por evento
-
-uso extranjero.
+LEY DE DEUDA PUBLICA MUNICIPAL DEL ESTADO DE MEXICO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(F. DE E., G.G. 12 DE MARZO DE 1987)</small>
+
 ###### ARTICULO 1o.
 
-Es materia de esta Ley, el establecimiento de bases para la concentración y contratación de empréstitos y créditos; su registro y control; así como la regulación del manejo de las operaciones financieras que en su conjunto constituyen la Deuda Pública Municipal del Estado de México.
+Es materia de esta Ley, el establecimiento de bases para la concertación y contratación de empréstitos y créditos; su registro y control; así como la regulación del manejo de las operaciones financieras que en su conjunto constituyen la Deuda Pública Municipal del Estado de México.
 
 ###### ARTICULO 2o.
 
@@ -81,15 +59,19 @@ III.- Los Fideicomisos en que sea fideicomitente alguno de los Municipios del Es
 
 IV.- Las Empresas de participación Municipal Mayoritarias.
 
+> <small>(F. DE E., G.G. 12 DE MARZO DE 1987)</small>
+
 ###### ARTICULO 3o.
 
-Son operaciones de Deuda Pública Municipal las que contraigan las Entidades Públicas enumeradas en el artículo 2o.-Anterior, siempre que no estén dentro de las prohibiciones previstas por la fracción VIII del artículo 117 de la Constitución General de la República y revestirán las siguientes formas:
+Son operaciones de Deuda Pública Municipal las que contraigan las Entidades Públicas enumeradas en el artículo 2o. anterior, siempre que no estén dentro de las prohibiciones previstas por la fracción VIII del artículo 117 de la Constitución General de la República y revestirán las siguientes formas:
 
 I.- Los empréstitos o financiamientos directos que contraten los Ayuntamientos.
 
 II.- Las obligaciones indirectas por créditos que contraten los organismos descentralizados municipales, las empresas de participación municipal mayoritarias y los fideicomisos.
 
 III.- Las obligaciones contingentes contraídas por los Municipios con carácter de avalista ó deudor solidario en operaciones contratadas por sus organismos, fideicomisos y empresas municipales de participación municipal mayoritaria.
+
+> <small>(F. DE E., G.G. 12 DE MARZO DE 1987)</small>
 
 ###### ARTICULO 4o.
 
@@ -157,7 +139,9 @@ I.- Proporcionar los informes, datos y cooperación técnica que requieran los A
 
 II.- Asesorar técnicamente y apoyar a las Entidades Públicas Municipales en la gestión, concertación y contratación de sus operaciones de deuda pública.
 
-III.- Promover y apoyar la operación de instrumentos y modalidades de financiamiento municipal incluyendo adquisiciones consolidades (sic) de bienes, pagaderas a plazo, emisión y colocación de valores, constitución de fondos y otros que autoricen las Leyes respectivas.
+> <small>(F. DE E., G.G. 12 DE MARZO DE 1987)</small>
+
+III.- Promover y apoyar la operación de instrumentos y modalidades de financiamiento municipal incluyendo adquisiciones consolidadas de bienes, pagaderas a plazo, emisión y colocación de valores, constitución de fondos y otros que autoricen las Leyes respectivas.
 
 IV.- Vigilar el estricto cumplimiento del endeudamiento neto en los términos autorizados por la Legislatura en la Ley de Ingresos para cada Municipio.
 
@@ -181,7 +165,9 @@ IV.- Reestructurar créditos ya adquiridos modificando tasas de interés, plazos
 
 V.- Proporcionar información que la Legislatura, y el Ejecutivo del Estado le soliciten en relación a las operaciones de deuda pública.
 
-VI.- Sustituír su calidad de deudor directo al transferir total o parcialmente su obligación, cuando sus organismos descentralizados, empresas de participación municipal y fideicomisos se subroguen en los compromisos financieros contraídos originalmente por los Ayuntamientos; pudiendo también asumir la calidad de avalistas cuando así lo autorice el Cabildo.
+> <small>(F. DE E., G.G. 12 DE MARZO DE 1987)</small>
+
+VI.- Sustituír su calidad de deudor directo al transferir total o parcialmente su obligación, cuando sus organismos descentralizados, empresas de participación municipal y fideicomisos se subroguen en los compromisos financieros contraídos originalmente por los Ayuntamientos; pudiendo también asumir la calidad de avalista cuando así lo autorice el Cabildo.
 
 VII.- Autorizar la afectación de sus Ingresos Municipales en Gravámenes y Fondos Federales Repartibles, en garantía de obligaciones que contraiga.
 
@@ -203,9 +189,11 @@ Los Municipios podrán emitir certificados de participación inmobiliaria para f
 
 Los Municipios en cualquier momento y previa autorización del Cabildo podrán realizar operaciones en virtud de las cuales, los particulares, las Entidades Públicas, concesionarios ó usuarios del sector privado ó social se subroguen en los adeudos suscritos originalmente por los Ayuntamientos.
 
+> <small>(F. DE E., G.G. 12 DE MARZO DE 1987)</small>
+
 ###### ARTICULO 15.
 
-Los Ayuntamientos previa autorización en Cabildo podrán suscribir los contratos, pagarés, letras de cambio o cualquier otro título de crédito, que formalicen las operaciones a que se refiere la presente Ley, los contratos y convenios serán firmados por el Presidente Srio. y Tesorero Municipales. Los títulos de crédito que se emitan serán firmados por el Presidente y Tesorero Municipales.
+Los Ayuntamientos previa autorización en Cabildo podrán suscribir los contratos, pagarés, letras de cambio o cualquier otro título de crédito, que formalicen las operaciones a que se refiere la presente Ley, los contratos y convenios serán firmados por el Presidente, Secretario, y Tesorero Municipales. Los títulos de crédito que se emitan serán firmados por el Presidente y Tesorero Municipales.
 
 De la misma forma se documentarán las operaciones por las que se substituya como acreditado, cambie su calidad de deudor directo a avalista ó subroguen su deuda a terceros.
 
@@ -273,15 +261,19 @@ IV.- Información sobre el destino de la obligación.
 
 V.- Cualquier otro requisito que en forma general determine la Secretaría de Finanzas.
 
+> <small>(F. DE E., G.G. 12 DE MARZO DE 1987)</small>
+
 ###### ARTICULO 24.
 
 En los casos en que por circunstancias extraordinarias se requiera el aval del Gobierno del Estado respecto de obligaciones de los Ayuntamientos, organismos descentralizados, empresas de participación municipal mayoritarias o fideicomisos, la solicitud se formulará por conducto del Ayuntamiento respectivo y contendrá además la autorización del cabildo o del órgano de gobierno interno de las citadas entidades y la justificación del carácter extraordinario de su solicitud, el Ejecutivo del Estado por conducto de la Secretaría de Finanzas resolverá sobre la procedencia de la solicitud en razón de las circunstancias que la originan y a la capacidad que tenga para adquirir obligaciones contingentes. En caso de otorgarse el aval, este formará parte de la deuda pública Estatal en los términos de la Ley de la Materia.
 
 ### CAPITULO QUINTO. DEL REGISTRO DE DEUDA PUBLICA MUNICIPAL
 
+> <small>(F. DE E., G.G. 12 DE MARZO DE 1987)</small>
+
 ###### ARTICULO 25.
 
-Todas las obligaciones directas, indirectas y contingentes que contraigan las Entidades Públicas enumeradas en el artículo 2 de la presente Ley, invariablemente se inscribirán en el Registro de la Deuda Pública Municipal, presentando para tal efecto la documentación que solicite la Secretaría de Finanzas.
+Todas las obligaciones directas, indirectas y contingentes que contraigan las Entidades Públicas enumeradas en el artículo 2 de la presente Ley, invariablemente se inscribirán en el Registro de Deuda Pública Municipal, presentando para tal efecto la documentación que solicite la Secretaría de Finanzas.
 
 ###### ARTICULO 26.
 
@@ -382,3 +374,45 @@ EL SECRETARIO DE FINANZAS
 C.P. José Merino Mañón.
 
 (Rúbrica).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. DE 9 DE MARZO DE 1999.
+
+## [N. DE E. TRANSITORIOS DEL “CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS”.]
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+Este Código entrará en vigor a los 30 días naturales siguientes al de su publicación en la "Gaceta del Gobierno".
+
+###### ARTICULO TERCERO.
+
+La fracción IV del artículo 108 en lo que se refiere a los inmuebles ubicados dentro de las áreas de interés catastral en donde se realicen actividades agropecuarias y forestales, entrará en vigor el primero de enero del año 2000.
+
+###### ARTICULO CUARTO.
+
+La aplicación del factor de topografía referido en el artículo 199, se hará a partir del primero de enero del año 2000.
+
+###### ARTICULO QUINTO.
+
+Se abrogan el Código Fiscal del Estado de México, el Código Fiscal Municipal del Estado de México, la Ley de Hacienda del Estado de México, la Ley de Hacienda Municipal del Estado de México, la Ley de Deuda Pública del Estado de México, la Ley de Deuda Pública Municipal del Estado de México, la Ley de Coordinación Fiscal del Estado de México, la Ley de Aportaciones de Mejoras del Estado de México, la Ley de Planeación del Estado de México, la Ley Orgánica del Presupuesto de Egresos del Estado de México y la Ley de Catastro del Estado de México, publicadas en la "Gaceta del Gobierno" en fechas 29 de diciembre de 1979, 29 de diciembre de 1979, 30 de diciembre de 1983, 6 de abril de 1998, 12 de julio de 1980, 31 de diciembre de 1986, 31 de diciembre de 1986, 28 de diciembre de 1992, 17 de enero de 1984, 29 de diciembre de 1971 y 11 de diciembre de 1997 respectivamente, así como sus posteriores reformas y adiciones.
+
+###### ARTICULO SEXTO.
+
+En todas aquellas disposiciones jurídicas en las que se haga referencia a cualquiera de los ordenamientos abrogados por el artículo anterior, se entenderán referidos al Título correspondiente de este Código.
+
+###### ARTICULO SEPTIMO.
+
+Se derogan las normas legales y reglamentarias de igual o menor jerarquía que sean contrarias a las disposiciones de este Código.
+
+###### ARTICULO OCTAVO.
+
+Los actos y procedimientos que con base en los códigos y leyes que se abrogan o en las disposiciones que se derogan, que se encuentren en trámite al entrar en vigor este Código se resolverán conforme a las disposiciones legales anteriores al mismo.
+
+###### ARTICULO NOVENO.
+
+En tanto se expida el Reglamento del Catastro, seguirá en vigor el actual Reglamento de la Ley de Catastro del Estado de México
