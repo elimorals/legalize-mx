@@ -4,7 +4,7 @@ identifier: "FED-ley-del-mercado-de-valores-476"
 country: "mx"
 rank: "ley"
 publication_date: "1975-01-02"
-last_updated: "2002-12-24"
+last_updated: "2003-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=476&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMV"
 
 LEY DEL MERCADO DE VALORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2003.
 
 Ley publicada en el Diario Oficial de la Federación el jueves 2 de enero de 1975.
 
@@ -1080,11 +1080,11 @@ b) Conceder préstamos o créditos para la adquisición de valores con garantía
 
 c) Celebrar reportos y préstamos sobre valores.
 
-> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-d) Actuar como fiduciarias en negocios directamente vinculados con las actividades que les sean propias, sin que sea aplicable en este caso el primer párrafo del artículo 350 de la Ley General de Títulos y Operaciones de Crédito.
+d) Actuar como fiduciarias en negocios directamente vinculados con las actividades que les sean propias.
 
-> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Valores podrá, mediante reglas de carácter general, establecer otro tipo de fideicomisos en los que podrán actuar como fiduciarias.
 
 La Comisión Nacional Bancaria y de Valores, oyendo la opinión del Banco de México, podrá ordenar a las casas de bolsa la suspensión de las operaciones que infrinjan las disposiciones a que se refiere esta fracción.
 
@@ -2278,13 +2278,13 @@ Las mencionadas multas podrán ser impuestas tanto a las casas de bolsa y especi
 
 Las casas de bolsa, especialistas bursátiles, servidores públicos de la Secretaría de Hacienda y Crédito Público y de la Comisión Nacional Bancaria y de Valores, y los miembros de los consejos de administración, comisarios, auditores externos, directivos, apoderados para celebrar operaciones con el público y empleados de los intermediarios a que se refiere este artículo, deberán abstenerse de dar noticia o información de las operaciones previstas en el mismo a personas, dependencias o entidades, distintas de las autoridades competentes expresamente previstas. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
 
-> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 52 Bis 6.
 
 Los accionistas, consejeros y directivos que ordenen o insten a directivos o empleados de una casa de bolsa o especialista bursátil a la comisión de los delitos contenidos en los artículos 52 Bis, 52 Bis 1, 52 Bis 2 y 52 Bis 5 de esta Ley, serán sancionados hasta en una mitad más de las penas previstas en los artículos respectivos.
 
-> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 52 Bis 5.
 
@@ -3240,17 +3240,19 @@ En los préstamos de valores que se celebren con la intervención de casas de bo
 
 Estas operaciones podrán concertarse fuera de bolsa, en cuyo caso deberán registrarse en la misma para los efectos previstos en el artículo 31, fracción VIII, inciso f) de la presente Ley y sólo podrán realizarse respecto de los valores que autorice mediante disposiciones de carácter general la Comisión Nacional Bancaria y de Valores, las cuales deberán dictarse con miras a lograr la transparencia de este tipo de transacciones y el desarrollo ordenado del mercado de valores.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 99.
 
-La constitución de garantía sobre los valores a que se refiere el artículo 3 de esta Ley, podrá otorgarse mediante contrato de caución bursátil que debe constar por escrito.
+Para la constitución de la garantía sobre los valores a que se refiere el artículo 3 de esta Ley y que se encuentren depositados en una institución para el depósito de valores, podrá otorgarse mediante contrato de caución bursátil que debe constar por escrito.
 
 > <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
 Para la constitución de la caución bursátil como garantía real, bastará la celebración de un contrato de caución bursátil, así como solicitar a una institución para el depósito de los valores, la apertura o incremento de una o más cuentas en las que deberán depositarse en garantía, sin que sea necesario realizar el endoso y entrega material de los valores objeto de la caución, ni la anotación en los registros del emisor de dichos valores. Las partes podrán garantizar una o más operaciones al amparo de un mismo contrato, siempre que éstas sean del mismo tipo.
 
-> <small>(DEROGADO TERCER PARRAFO, D.O.F. 1 DE JUNIO DE 2001)</small>
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+Las partes podrán pactar que la propiedad de los valores otorgados en caución se transfiera al acreedor, el cual quedará obligado en su caso, a restituir al deudor otros tantos de la misma especie, siendo aplicables en este caso las prevenciones establecidas en relación con el reportador y el reportado, respectivamente, en los artículos 261 y 263, primera parte, de la Ley General de Títulos y Operaciones de Crédito. En este caso no serán aplicables las previsiones relativas a la apertura de cuentas establecidas en el párrafo anterior. En este supuesto la garantía se perfeccionará mediante la entrega jurídica de los títulos al acreedor, a través de los procedimientos que para la transferencia de valores le son aplicables a las instituciones para el depósito de valores.
 
 > <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1993)</small>
 
@@ -3262,17 +3264,17 @@ I.- Que las partes designen de común acuerdo al ejecutor de la caución bursát
 
 En el contrato deberá preverse el procedimiento para la sustitución del ejecutor, para los casos en que surgiere alguna imposibilidad en su actuación o si surgiere algún conflicto de intereses entre el ejecutor y el acreedor o el deudor de la obligación garantizada;
 
-> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-II.- Si al vencimiento de la obligación garantizada o cuando deba reconstituirse la caución bursátil, el acreedor no recibe el pago o se incrementa el importe de la caución, según sea el caso, éste, por sí o a través del administrador de la garantía solicitará al ejecutor que realice la venta extrajudicial de los valores afectos en garantía;
+II. Si al vencimiento de la obligación garantizada o cuando deba reconstituirse la caución bursátil, el acreedor no recibe el pago o se incrementa el importe de la caución, o no recibe el documento que compruebe la prórroga del plazo o la novación de la obligación, éste, por sí o a través del administrador de la garantía solicitará al ejecutor que realice la venta extrajudical (sic) de los valores afectos en garantía;
 
-> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-III.- De la petición señalada en la fracción anterior, el acreedor o, en su caso, el administrador de la garantía, dará vista al otorgante de la caución, el que podrá oponerse a la venta, únicamente exhibiendo el importe del adeudo o el comprobante de su entrega al acreedor, o aportando la garantía faltante, y
+III. De la petición señalada en la fracción anterior, el acreedor o, en su caso, el administrador de la garantía dará vista al otorgante de la caución, el que podrá oponerse a la venta únicamente exhibiendo el importe del adeudo o el documento que compruebe la prórroga del plazo o la novación de la obligación o el comprobante de su entrega al acreedor o acreditando la constitución de la garantía faltante, y
 
-> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-IV.- Si el otorgante de la garantía no exhibe o acredita el pago o incrementa la caución en cantidad suficiente, según sea el caso, el ejecutor ordenará la venta de los valores materia de la caución y a los precios del mercado, hasta el monto necesario para cubrir el principal y accesorios pactados, los que entregará al acreedor. La venta se realizará en la bolsa de valores si éstos se cotizan en ella, o en el mercado extrabursátil en el que participen los intermediarios del mercado de valores autorizados, dependiendo del lugar en el que se negocien.
+IV. Si el otorgante de la garantía no exhibe el importe del adeudo o el documento que compruebe la prórroga del plazo o la novación de la obligación o el comprobante de su entrega al acreedor o acredita la constitución de la garantía faltante, el ejecutor ordenará la venta de los valores materia de la caución y a los precios del mercado, hasta el monto necesario para cubrir el principal y accesorios pactados, los que entregará al acreedor. La venta se realizará en la bolsa de valores si éstos se cotizan en ella, o en el mercado extrabursátil en que participen los intermediarios del mercado de valores autorizados, dependiendo del lugar en el que se negocien.
 
 > <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1993)</small>
 
@@ -3320,15 +3322,19 @@ La Comisión Nacional Bancaria y de Valores, en cualquier tiempo podrá verifica
 
 Los fideicomisos en los que intervengan las casas de bolsa en los términos del artículo 22, fracción IV, inciso d) de esta Ley, se regirán en lo conducente por lo dispuesto en el Capítulo V del Título Segundo de la Ley General de Títulos y Operaciones de Crédito, debiéndose observar en todo caso lo siguiente:
 
-I.- Sólo podrán afectarse en estos fideicomisos, los valores sujetos al régimen de la presente Ley, o el efectivo destinado a la adquisición de tales valores.
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+I.- Podrán afectarse en estos fideicomisos, cualquier clase de bienes, derechos, efectivo o valores, referidos a operaciones que estén autorizadas a celebrar las casas de bolsa en términos de esta Ley y demás disposiciones aplicables; también podrán afectarse en estos fideicomisos efectivo, bienes, derechos o valores diferentes a los señalados en el párrafo anterior, exclusivamente en los casos en que la Secretaría de Hacienda y Crédito Público, escuchando la opinión de la Comisión Nacional Bancaria y de Valores lo determine mediante disposiciones generales.
 
 II.- Las casas de bolsa desempeñarán su cometido y ejercerán sus facultades por medio de delegados fiduciarios.
 
-Cuando estos delegados fiduciarios dejen de satisfacer los requisitos de solvencia moral y capacidad técnica o incurran de manera grave o reiterada en infracciones a la presente Ley y a las disposiciones de carácter general que de ella deriven, estarán sujetos a la aplicación de las medidas a que se refiere el último párrafo de la fracción III del artículo 17 de esta Ley, considerándose que carecen de solvencia moral si se ubican en alguno de los supuestos previstos en el segundo párrafo del inciso b) de la citada fracción.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 203)</small>
+
+Los citados delegados fiduciarios deberán satisfacer los requisitos de calidad técnica, honorabilidad e historial crediticio satisfactorio. Cuando dichos delegados fiduciarios dejen de cumplir con los mencionados requisitos o incurran de manera grave o reiterada en infracciones a la presente Ley y a las disposiciones de carácter general que de ella deriven, estarán sujetos a la aplicación de las medidas a que se refiere el artículo 42 de esta Ley, considerándose que carecen de honorabilidad si se ubican en alguno de los supuestos previstos en la fracción V del artículo 17 Bis 4 de esta Ley.
 
 III.- Las casas de bolsa responderán civilmente por los daños y perjuicios que se causen por la falta de cumplimiento de las condiciones y términos señalados en el fideicomiso o en la ley.
 
-IV.- En el acto constitutivo del fideicomiso o en sus reformas se podrá prever la formación de un Comité Técnico, establecer las reglas para su funcionamiento y fijar sus facultades. Cuando la fiduciaria, en los términos del fideicomiso, obre ajustándose a los dictámenes y acuerdos de este Comité, estará libre de toda responsabilidad.
+IV.- (DEROGADA, D.O.F. 13 DE JUNIO DE 2003)
 
 V.- El personal que las casas de bolsa utilicen directa o exclusivamente para la realización de fideicomisos, no formará parte del personal de las mismas, sino que, según los casos, se considerará al servicio del patrimonio dado en fideicomiso. Sin embargo, cualquier derecho que asista a dicho personal conforme a la ley, lo ejercitarán contra la casa de bolsa, la que, en su caso y para cumplir con las resoluciones que la autoridad competente dicte, afectará en la medida que sea necesario, el patrimonio fiduciario.
 
@@ -3340,29 +3346,57 @@ VII.- Cuando la casa de bolsa, al ser requerida, no rinda las cuentas de su gest
 
 Las acciones para pedir cuentas, para exigir la responsabilidad de las casas de bolsa y para pedir la remoción, corresponderán al fideicomisario o a sus representantes legales, y a falta de éstos al ministerio público, sin perjuicio de poder el fideicomitente reservarse en el acto constitutivo del fideicomiso o en las modificaciones del mismo, el derecho para ejercitar esta acción.
 
-En caso de renuncia o remoción se estará a lo dispuesto en el párrafo final del artículo 350 de la Ley General de Títulos y Operaciones de Crédito.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-VIII.- Cuando se trate de fideicomisos que constituya el Gobierno Federal o que el mismo, para los efectos de este artículo declare de interés público, no será aplicable el plazo que establece la fracción III del artículo 359 de la Ley General de Títulos y Operaciones de Crédito.
+En caso de renuncia o remoción se estará a lo dispuesto en el párrafo final del artículo 385 de la Ley General de Títulos y Operaciones de Crédito.
+
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+VIII.- Cuando se trate de fideicomisos que constituya el Gobierno Federal o que él mismo, para los efectos de este artículo, declare de interés público, no será aplicable el plazo que establece la fracción III del artículo 394 de la Ley General de Títulos y Operaciones de Crédito.
 
 IX.- En los contratos de fideicomiso y en la ejecución de los mismos, a los que se refiere el presente artículo, a las casas de bolsa les estará prohibido:
 
-a) Utilizar fondos o valores de los fideicomisos para la realización de operaciones en virtud de las cuales resulten o puedan resultar deudores o beneficiarios sus delegados fiduciarios; los miembros de su consejo de administración propietarios o suplentes, estén o no en funciones; sus directivos o empleados; sus comisarios propietarios o suplentes, estén o no en funciones; sus auditores externos; los miembros del Comité Técnico del fideicomiso respectivo, los ascendientes o descendientes en primer grado o cónyuges de las personas citadas; las sociedades en cuyas asambleas tengan mayoría dichas personas o las mismas casas de bolsa, así como aquellas personas que el Banco de México determine mediante disposiciones de carácter general.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+a) Utilizar el efectivo, bienes, derechos o valores de los fideicomisos en los que la fiduciaria tenga la facultad discrecional en el manejo de dichos activos, para la realización de operaciones en virtud de las cuales resulten o puedan resultar deudores o beneficiarios sus delegados fiduciarios; los miembros de su consejo de administración propietarios o suplentes, estén o no en funciones; sus directivos o empleados; sus comisarios propietarios o suplentes, estén o no en funciones; sus auditores externos; los miembros del comité técnico del fideicomiso respectivo; los ascendientes o descendientes en primer grado o cónyuges de las personas citadas; las sociedades en cuyas asambleas tengan mayoría dichas personas o las mismas casas de bolsa; así como aquellas personas que el Banco de México determine mediante disposiciones de carácter general.
 
 b) Celebrar operaciones por cuenta propia, salvo las autorizadas por el Banco de México mediante disposiciones de carácter general, cuando no impliquen conflicto de intereses.
 
-c) Responder a los fideicomitentes o fideicomisarios del incumplimiento de los emisores por los valores que se adquieran, salvo que sea por su culpa según lo dispuesto en la parte final del artículo 356 de la Ley General de Títulos y Operaciones de Crédito, o garantizar la percepción de rendimientos por los fondos cuya inversión se les encomiende.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-Si al término del fideicomiso, los valores no hubieren sido liquidados por los deudores, la fiduciaria deberá transferirlos, junto con el efectivo que constituyan el patrimonio fiduciario al fideicomitente o fideicomisario, según sea el caso, absteniéndose de cubrir su importe.
+c) Responder a los fideicomitentes o fideicomisarios del incumplimiento de los deudores por los bienes, derechos o valores que se adquieran, salvo que sea por su culpa según lo dispuesto en la parte final del artículo 391 de la Ley General de Títulos y Operaciones de Crédito, o garantizar la percepción de rendimientos por los fondos cuya inversión se les encomiende.
 
-En los contratos de fideicomiso se insertarán en forma notoria los párrafos anteriores de este inciso y una declaración de la fiduciaria en el sentido de que hizo saber inequívocamente su contenido a las personas de quienes haya recibido bienes para su inversión.
+Si al término del fideicomiso, los bienes, derechos o valores no hubieren sido pagados por los deudores, la fiduciaria deberá transferirlos, junto con el efectivo, bienes, y demás derechos o valores que constituyan el patrimonio fiduciario al fideicomitente o fideicomisario, según sea el caso, absteniéndose de cubrir su importe.
 
-Cualquier pacto en contrario a lo dispuesto en esta fracción, no producirá efecto legal alguno.
+En los contratos de fideicomiso se insertará en forma notoria lo previsto en este inciso y una declaración de la fiduciaria en el sentido de que hizo saber inequívocamente su contenido a las personas de quienes haya recibido el efectivo, bienes, derechos o valores para su afectación fiduciaria;
 
-d) Emitir cualquier clase de valores, títulos o documentos a los que es aplicable el régimen de la presente Ley, cuando no se realice oferta pública de los mismos.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-X.- En las operaciones de fideicomiso, las casas de bolsa abrirán contabilidades especiales por cada contrato, debiendo registrar en las mismas y en su propia contabilidad el efectivo y los valores que se les confíen, así como los incrementos o disminuciones, por los productos o gastos respectivos. Invariablemente deberán coincidir los saldos de las cuentas controladas de la contabilidad de las casas de bolsa, con los de las contabilidades especiales.
+d) Actuar como fiduciarias en fideicomisos a través de los cuales se capten, directa o indirectamente, recursos del público mediante cualquier acto causante de pasivo directo o contingente, excepto tratándose de fideicomisos constituidos por el Gobierno Federal a través de la Secretaría de Hacienda y Crédito Público y de aquéllos a través de los cuales se emitan valores que se inscriban en el Registro Nacional de Valores de conformidad con esta Ley, incluyendo la emisión de certificados de participación ordinaria, como excepción a lo dispuesto por el artículo 228-B de la Ley General de Títulos y Operaciones de Crédito, así como los certificados bursátiles;
 
-En ningún caso el efectivo y los valores estarán afectos a otras responsabilidades que las derivadas del fideicomiso mismo, o las que contra éste corresponda a terceros de acuerdo con la ley.
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+e) Actuar en fideicomisos a través de los cuales se evadan limitaciones o prohibiciones contenidas en las leyes financieras;
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+f) Actuar como fiduciarias en los fideicomisos a que se refiere el segundo párrafo del artículo 88 de la Ley de Sociedades de Inversión;
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+g) Celebrar fideicomisos en los que se administren sumas de dinero que aporten periódicamente grupos de consumidores integrados mediante sistemas de comercialización, destinados a la adquisición de determinados bienes o servicios, de los previstos en la Ley Federal de Protección al Consumidor, y
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+h) Administrar fincas rústicas, a menos que hayan recibido la administración para distribuir el patrimonio entre herederos, legatarios, asociados o acreedores, o para pagar una obligación o para garantizar su cumplimiento con el valor de la misma finca o de sus productos, y sin que en estos casos la administración exceda del plazo de dos años, salvo que se trate de fideicomisos de garantía.
+
+Cualquier pacto en contrario a lo dispuesto en los incisos anteriores será nulo, y
+
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+X.- En las operaciones de fideicomiso, las casas de bolsa abrirán contabilidades especiales por cada contrato, debiendo registrar en las mismas y en su propia contabilidad el efectivo, bienes, derechos o valores que se les confíen, así como los incrementos o disminuciones, por los productos o gastos respectivos. Invariablemente deberán coincidir los saldos de las cuentas controladas de la contabilidad de las casas de bolsa, con los de las contabilidades especiales.
+
+En ningún caso, el efectivo, bienes, derechos o valores estarán afectos a otras responsabilidades que las derivadas del fideicomiso mismo, o las que contra éste corresponda a terceros de acuerdo con la ley.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE JULIO DE 1993)</small>
 
@@ -4087,3 +4121,11 @@ D.O.F. 24 DE DICIEMBRE DE 2002.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE JUNIO DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Las disposiciones de este Decreto no serán aplicables a los créditos contratados con anterioridad a la fecha de entrada en vigor del mismo, ni aun tratándose de novación o reestructuración de créditos.
