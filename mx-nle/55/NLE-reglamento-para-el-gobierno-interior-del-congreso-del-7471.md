@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "1997-10-24"
+last_updated: "1997-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1997.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -114,6 +114,10 @@ Esta declaración será materia de un Decreto que sin más trámite se expedirá
 ###### Artículo 13.
 
 Los Diputados asistirán a las sesiones con puntualidad y permanecerán en ellas hasta que terminen, y guardarán el decoro propio de los representantes de un Estado Libre y Soberano.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1997)</small>
+
+Cuando un Diputado no asista a las sesiones del Pleno, le será descontada de su dieta el equivalente a su percepción diaria por cada sesión a la que deje de asistir, con excepción de los casos establecidos en el artículo 14 del presente Reglamento. El Presidente de la Directiva del Congreso proveerá lo necesario para el cumplimiento de esta disposición.
 
 ###### Artículo 14.
 
@@ -711,7 +715,7 @@ V.- Elaborar los criterios para otorgar el apoyo a los Grupos Legislativos, a la
 
 VI.- Rendir un informe anual al Pleno de las actividades desarrolladas;
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 VII.- Para la elaboración de los criterios relacionados con el apoyo a los Grupos Legislativos, el Comité recabará el punto de vista de la Gran Comisión; y
 
@@ -1518,3 +1522,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 24 DE OCTUBRE DE 1997.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE DICIEMBRE DE 1997.
+
+ÚNICO:- El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
