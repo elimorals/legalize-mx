@@ -1,0 +1,492 @@
+---
+title: "LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS"
+identifier: "TAM-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-22840"
+country: "mx"
+rank: "ley"
+publication_date: "2001-12-06"
+last_updated: "2001-12-06"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22840&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-tam"
+scjn_id: "22840"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "147"
+reform_count: "25"
+scjn_last_update: "2026-08-25"
+issue_date: "2001-12-06"
+state: "TAM"
+---
+# LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS
+
+LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre del 2001.
+
+TOMAS YARRINGTON RUVALCABA, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
+
+Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
+
+Al margen un sello que dice:- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
+
+LA QUINCUAGESIMA SEPTIMA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 58 FRACCION I DE LA CONSTITUCION POLITICA LOCAL, TIENE A BIEN EXPEDIR EL SIGUIENTE:
+
+D E C R E T O No. 535
+
+LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS
+
+## TITULO PRIMERO
+
+### CAPITULO UNICO. DISPOSICIONES GENERALES
+
+###### ARTICULO 1º.
+
+Esta ley es de orden público, de interés social y de observancia general en el Estado. Tiene por objeto proteger, garantizar y difundir los derechos de las personas adultas mayores, sin distinción alguna, para propiciarles una mejor calidad de vida y su plena integración al desarrollo social, económico, político y cultural.
+
+###### ARTICULO 2º.
+
+La vigilancia y aplicación de esta ley, estará a cargo de:
+
+I.- El Ejecutivo del Estado;
+
+II.- Las dependencias y entidades de la Administración Pública Estatal, en el ámbito de sus respectivas competencias y jurisdicción;
+
+III.- La familia de la persona adulta mayor; y
+
+IV.- Los ciudadanos y la sociedad civil organizada, cualquiera que sea su forma o denominación.
+
+Los sectores público, social y privado, en términos de lo dispuesto por este artículo, celebrarán los convenios o acuerdos de colaboración entre sí, y con las instancias federales correspondientes que realicen alguna o varias actividades que constituyen los objetivos de esta ley.
+
+###### ARTICULO 3º.
+
+Para los efectos de esta ley, se entenderá por:
+
+I.- Asistencia Social.- Al conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan a las personas adultas mayores su desarrollo integral, así como la protección física, mental y social de ellos cuando se encuentren en estado de necesidad, desprotección o desventaja física y mental;
+
+II.- Atención médica.- Al conjunto de servicios integrales para la prevención, tratamiento, curación y rehabilitación que se proporcionan a las personas adultas mayores en todos los niveles, con el fin de proteger, promover y restaurar su salud.
+
+III.- Consejo.- Al Consejo Asesor para la Integración, Asistencia, Promoción y Defensa de los Derechos de las Personas Adultas Mayores;
+
+IV.- Geriatría.- Al servicio brindado para la atención de la salud de las personas adultas mayores;
+
+V.- Gerontología.- Al Servicio otorgado por personas dedicadas al estudio del envejecimiento desde una perspectiva biopsicosocial;
+
+VI.- Integración social.- Al conjunto de acciones que realizan las dependencias y entidades de la Administración Pública del Estado y la sociedad organizada, encaminadas a modificar y superar las circunstancias que impidan a las personas adultas mayores su desarrollo integral;
+
+VII.- Ley.- La presente Ley de los Derechos de las Personas Adultas Mayores en el Estado de Tamaulipas; y
+
+VIII.- Personas Adultas Mayores.- A aquellas que cuentan con sesenta años o más de edad y que se encuentren domiciliadas o de paso en el Estado; contemplándose en diferentes condiciones:
+
+a).- Independiente: A aquella persona apta para desarrollar actividades físicas y mentales sin ayuda;
+
+b).- Semidependiente: A aquella a la que sus condiciones físicas y mentales aún le permiten valerse por sí misma, aunque con ayuda parcial;
+
+c).- Dependiente absoluto: A aquella con una enfermedad crónica o degenerativa por la que requiera ayuda permanente total o canalización a alguna institución de asistencia; y
+
+d).- En situación de riesgo o desamparo.- A aquellas que por problemas de salud, abandono, carencia de apoyos económicos y familiares, contingencias ambientales o desastres naturales, requieren de asistencia y protección del Estado y de la sociedad organizada.
+
+## TITULO SEGUNDO. PRINCIPIOS Y DERECHOS
+
+### CAPITULO I. DE LOS PRINCIPIOS
+
+###### ARTICULO 4º.
+
+Son principios rectores en la observación y aplicación de esta ley:
+
+I.- Autonomía y autorrealización: Todas las acciones que se realicen en beneficio de las personas adultas mayores tendientes a fortalecer su independencia personal, su capacidad de decisión y su desarrollo personal;
+
+II.- Participación: La intervención de las personas adultas mayores en la vida pública y, en especial, en lo relativo a los aspectos que les atañen directamente, en los que serán consultados y tomados en cuenta;
+
+III.- Equidad: El trato justo y proporcional en las condiciones de acceso y disfrute de los satisfactores necesarios para el bienestar de las personas adultas mayores, sin distinción por sexo, situación económica, raza, credo, religión o cualquier otra circunstancia;
+
+IV.- Corresponsabilidad: La concurrencia de los sectores público y social, y en especial, de las familias con una actitud de responsabilidad compartida, para la consecución del objeto de esta ley; y
+
+V.- Atención diferenciada: Aquella que obliga a las autoridades del Gobierno del Estado a implementar programas acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores.
+
+### CAPITULO II. DE LOS DERECHOS
+
+###### ARTICULO 5º.
+
+Las personas adultas mayores tienen, entre otros, los siguientes derechos:
+
+I.- A la dignidad:
+
+a).- Vivir con dignidad y seguridad;
+
+b).- No ser discriminados;
+
+c).- Ser respetados en su persona, en su integridad física, psicoemocional y sexual;
+
+d).- Ser protegidos contra toda forma de explotación y malos tratos físicos y mentales;
+
+e).- Recibir protección por parte de su familia, del Estado y sociedad;
+
+f).- Gozar de oportunidades, para mejorar las capacidades que les faciliten el ejercicio de sus derechos; y
+
+g).- Vivir en entornos seguros, dignos y decorosos, que cumplan con sus necesidades y requerimientos.
+
+II.- A la certeza jurídica:
+
+a).- Vivir en el seno de su familia, o a mantener relaciones personales y contacto directo con ella, aún en el caso de estar separados, salvo si ello es contrario a sus intereses;
+
+b).- Expresar su opinión libremente, conocer sus derechos y a participar en el ámbito familiar y comunitario;
+
+c).- Recibir un trato digno y apropiado cuando sean víctimas, o ellos mismos cometan cualquier tipo de ilícito o infracción;
+
+d).- Recibir el apoyo de las autoridades del Estado, en lo relativo al ejercicio y respeto de sus derechos; y
+
+e).- Contar con servicios de asistencia, asesoría jurídica y representación legal, cuando en circunstancias especiales lo requiera.
+
+III.- A la salud y alimentación:
+
+a).- Tener acceso a los satisfactores necesarios, para su atención integral;
+
+b).- Tener acceso a los servicios de salud, en los términos del párrafo cuarto del artículo 4° de la Constitución Política de los Estados Unidos Mexicanos; y
+
+c).- Recibir orientación y capacitación en materia de salud, nutrición e higiene.
+
+IV.- A la educación, recreación, información y participación:
+
+a).- Recibir información sobre las instituciones que prestan servicios para su atención integral;
+
+b).- Recibir educación conforme lo señala el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos; y
+
+c).- Participar en la vida cultural, deportiva y recreativa de su comunidad.
+
+V.- Al trabajo:
+
+a).- Gozar de oportunidades igualitarias de acceso al trabajo o de otras posibilidades de obtener un ingreso propio, así como a recibir una capacitación adecuada.
+
+VI.- A la Asistencia Social:
+
+a).- Ser sujetos de programas de asistencia social cuando se encuentren en situación de riesgo o desamparo, que garanticen su atención integral.
+
+## TITULO TERCERO
+
+### CAPITULO UNICO. DE LAS OBLIGACIONES DE LA FAMILIA
+
+###### ARTICULO 6º.
+
+La familia de la persona adulta mayor deberá cumplir su función social; por tanto, de manera constante y permanente, deberá hacerse cargo de cada una de las personas adultas mayores que formen parte de ella y proporcionándoles los elementos necesarios para su atención integral.
+
+###### ARTICULO 7º.
+
+La persona adulta mayor podrá solicitar, por decisión personal, su ingreso en alguna institución de asistencia social, dedicada al cuidado de personas adultas mayores; la familia sólo podrá hacerlo en caso de enfermedad o causa de fuerza mayor.
+
+###### ARTICULO 8º.
+
+La familia tendrá las siguientes obligaciones:
+
+I.- Otorgar alimentos de conformidad con lo establecido en el Código Civil vigente en la Entidad;
+
+II.- Fomentar la convivencia familiar cotidiana, donde la persona adulta mayor participe activamente, y promover al mismo tiempo los valores que incidan en sus necesidades afectivas, de protección y de apoyo;
+
+III.- Conocer los derechos de las personas adultas mayores, previstos en la presente ley, así como los que se encuentran contemplados en la Constitución Política del Estado y demás ordenamientos para su debida observancia; y
+
+IV.- Evitar que alguno de sus integrantes realice cualquier acto de discriminación, abuso, explotación, aislamiento, violencia o los que pongan en riesgo su persona, bienes y derechos.
+
+###### ARTICULO 9º.
+
+El Sistema para el Desarrollo Integral de la Familia de Tamaulipas, deberá tomar las medidas de prevención o provisión para que la familia participe en la atención de las personas adultas mayores en situación de riesgo o desamparo.
+
+## TITULO CUARTO. DE LAS FACULTADES Y OBLIGACIONES DE LAS AUTORIDADES
+
+### CAPITULO I. DEL EJECUTIVO DEL ESTADO
+
+###### ARTICULO 10.
+
+Corresponde al Ejecutivo del Estado, en materia de personas adultas mayores:
+
+I.- Realizar, promover y alentar los programas de asistencia, protección, provisión, prevención, participación y atención;
+
+II.- Concertar, con la Federación, Estados y Municipios, los convenios que se requieran, para la realización de programas de defensa y representación jurídica, protección, provisión, prevención, participación y atención;
+
+III.- Concertar la participación de los sectores social y privado en la planeación y ejecución de programas;
+
+IV.- Coordinar las acciones y promover medidas de financiamiento para la creación y funcionamiento de instituciones y servicios para garantizar sus derechos;
+
+V.- Fomentar e impulsar su desarrollo integral;
+
+VI.- Promover, fomentar, difundir y defender el ejercicio de sus derechos, así como las obligaciones de los responsables de estos;
+
+VII.- Fomentar y promocionar la estabilidad y el bienestar familiar;
+
+VIII.- Implementar, en coordinación con las instancias competentes, las medidas de seguridad pública y de protección civil en los centros educativos, culturales y recreativos, así como acciones preventivas con la participación de la comunidad;
+
+IX.- Presidir el Consejo Asesor para la Integración, Asistencia, Promoción y Defensa de los Derechos de las Personas Adultas Mayores;
+
+X.- Crear los mecanismos o instancias correspondientes para el cumplimiento de esta ley; y
+
+XI.- Las demás que le confieran otros ordenamientos jurídicos.
+
+### CAPITULO II. DE LA SECRETARIA DE DESARROLLO SOCIAL
+
+###### ARTICULO 11.
+
+La Secretaría de Desarrollo Social deberá coordinar e implementar las acciones que se requieran, para promover la integración social de las personas adultas mayores y para brindarles los servicios de asistencia social y atención integral a los que se refiere esta ley.
+
+Para lograr dichos objetivos deberá:
+
+I.- Promover el empleo para las personas adultas mayores, tanto en el sector público como privado, atendiendo a su profesión u oficio, y a su experiencia y conocimientos teóricos y prácticos, sin mas restricciones que su limitación física o mental;
+
+II.- Impulsar programas de autoempleo para las personas adultas mayores, de acuerdo a su profesión u oficio, a través de apoyos financieros, de capacitación y la creación de redes de producción, distribución y comercialización;
+
+III.- Implementar las acciones para garantizar la cobertura en materia alimentaria para las personas adultas mayores, impulsando la participación comunitaria para la dotación de alimentos nutricionalmente balanceados;
+
+IV.- Organizar campañas de orientación e información nutricional de acuerdo a las condiciones físicas de las personas adultas mayores;
+
+V.- Publicar materiales de orientación nutricional y campañas de difusión en medios masivos de comunicación;
+
+VI.- Establecer convenios específicos de colaboración con instituciones y organismos públicos, sociales y privados, que brinden orientación alimentaria a las personas adultas mayores;
+
+VII.- Promover la coordinación con las instituciones federales y locales de salud y educación, para implementar programas de sensibilización y capacitación con objeto de favorecer la convivencia familiar con las personas adultas mayores, para que esta sea armónica;
+
+VIII.- Promover la coordinación con la Federación y con las instituciones educativas, para la implementación de políticas y programas de educación y capacitación para las personas adultas mayores;
+
+IX.- Implementar programas de estímulos e incentivos a las personas adultas mayores que estudien;
+
+X.- Implementar programas, a efecto de crear y difundir, entre la población en general y en la familia, la cultura de dignificación, respeto e integración a la sociedad de las personas adultas mayores; y
+
+XI.- Promover, ante las instancias correspondientes, que en los eventos culturales organizados en el Estado, se propicie la accesibilidad y la gratuidad o descuentos especiales a las personas adultas mayores, previa acreditación de edad a través de una identificación personal.
+
+### CAPITULO III. DE LA SECRETARIA DE SALUD
+
+###### ARTICULO 12.
+
+Corresponde a la Secretaría de Salud, en materia de personas adultas mayores, de conformidad con las disposiciones jurídicas aplicables:
+
+I.- Garantizar el acceso a la atención médica en las clínicas y hospitales con una orientación especializada para las personas adultas mayores;
+
+II.- Implementar programas y concertar convenios con las instituciones de salud del Gobierno Federal y las de iniciativa privada, a fin de que las personas adultas mayores puedan tener acceso a los servicios de atención médica que proporcione el Sistema de Salud;
+
+III.- Proporcionar, a las personas adultas mayores, una cartilla médica de autocuidado, que será utilizada indistintamente en las instituciones públicas y privadas;
+
+IV.- Implementar programas, en coordinación con el Sistema para el Desarrollo Integral de la Familia de Tamaulipas, con el objeto de proporcionar los medicamentos que necesiten las personas adultas mayores para mantener un buen estado de salud;
+
+V.- Fomentar la creación de redes de atención en materia de asistencia médica, cuidados y rehabilitación, a través de la capacitación y sensibilización sobre la problemática específica de los adultos mayores; y
+
+VI.- Fomentar la formación y capacitación de auxiliares de personas adultas mayores.
+
+### CAPITULO IV. DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TAMAULIPAS
+
+###### ARTICULO 13.
+
+Corresponde al Sistema para el Desarrollo Integral de la Familia de Tamaulipas, en materia de personas adultas mayores:
+
+I.- Proporcionar los servicios gratuitos de asistencia, asesoría jurídica y representación legal, a las personas adultas mayores, a través de personal capacitado, a fin de garantizar su integridad y evitar cualquier acto que ponga en riesgo su persona, bienes y derechos, respetando en todo momento su heterogeneidad;
+
+II.- Realizar programas de prevención y protección para las personas adultas mayores en situación de riesgo o desamparo, para incorporarlos al núcleo familiar o albergarlos en instituciones adecuadas;
+
+III.- Coadyuvar con la Procuraduría General de Justicia del Estado, en la atención y tratamiento de las personas adultas mayores víctimas de cualquier delito;
+
+IV.- Impulsar y promover el reconocimiento y ejercicio de los derechos de las personas adultas mayores;
+
+V.- Promover, mediante la vía conciliatoria, la solución a la problemática familiar, cuando no se trate de delitos tipificados por el Código Penal o infracciones previstas en la Ley de Prevención, Atención y Asistencia de la Violencia Intrafamiliar;
+
+VI.- Recibir quejas, denuncias e informes, sobre la violación de los derechos de las personas adultas mayores, haciéndolo del conocimiento de las autoridades competentes y de ser procedente ejercitar las acciones legales correspondientes;
+
+VII.- Denunciar ante las autoridades competentes, cuando sea procedente, cualquier caso de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación y, en general, cualquier acto que perjudique a las personas adultas mayores;
+
+VIII.- Procurar que las personas adultas mayores en situación de riesgo o desamparo, cuente con un lugar donde vivir, que cubra sus necesidades básicas;
+
+IX.- Vigilar que las instituciones presten el cuidado y atención adecuada a las personas adultas mayores, respetando sus derechos, a través de mecanismos de seguimiento y supervisión, en coordinación con la Secretaría de Desarrollo Social; y
+
+X.- Las demás que le confieran otros ordenamientos jurídicos.
+
+## TITULO QUINTO
+
+### CAPITULO UNICO. DEL CONSEJO ASESOR PARA LA INTEGRACION, ASISTENCIA, PROMOCION Y DEFENSA DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES
+
+###### ARTICULO 14.
+
+Se crea el Consejo Asesor para la Integración, Asistencia, Promoción y Defensa de los Derechos de las Personas Adultas Mayores, como un órgano honorario de consulta, asesoría y evaluación de acciones de concertación, coordinación, planeación y promoción necesarias para favorecer la plena integración y desarrollo de las personas adultas mayores.
+
+###### ARTICULO 15.
+
+El Consejo estará integrado por el titular de:
+
+I.- El Ejecutivo del Estado, quien fungirá como Presidente del Consejo;
+
+II.- La Secretaría de Desarrollo Social, quien fungirá como Secretario;
+
+III.- La Secretaría de Salud;
+
+IV.- El Sistema para el Desarrollo Integral de la Familia de Tamaulipas;
+
+V.- La Comisión de Derechos Humanos del Estado de Tamaulipas;
+
+VI.- La Procuraduría General de Justicia; y por
+
+VII.- Dos Diputados del Congreso del Estado, de las Comisiones relacionadas con la materia.
+
+El Consejo invitará a formar parte del mismo a nueve representantes de organizaciones sociales y privadas o ciudadanos que se hayan destacado por su trabajo y estudio en la materia.
+
+El Consejo podrá invitar a sus sesiones a representantes de otras instancias locales, federales e internacionales, así como académicos, especialistas o empresarios encargados de desarrollar programas, actividades o investigaciones relacionadas con la población de personas adultas mayores.
+
+Los servidores públicos a que se refieren las fracciones III a VII de este artículo, así como los representantes de las organizaciones sociales y privadas o de los ciudadanos, tendrán el carácter de Vocales, y solo los referidos en las fracciones II a VI nombrarán un suplente.
+
+###### ARTICULO 16.
+
+El Consejo tendrá las siguientes funciones:
+
+I.- Propiciar la colaboración y participación de instituciones públicas y privadas en acciones que la Administración Pública emprenda para la atención integral de las personas adultas mayores;
+
+II.- Proponer la realización de estudios que contribuyan a mejorar la planeación y programación de las medidas y acciones para elevar la calidad de vida de las personas adultas mayores;
+
+III.- Participar en la evaluación de programas para la población de personas adultas mayores, así como proponer a las instituciones encargadas de dichos programas, los lineamientos y mecanismos para su ejecución;
+
+IV.- Fomentar la elaboración, publicación y distribución de material informativo para dar a conocer la situación de la población de personas adultas mayores en el Estado, alternativas de participación, solución de problemas y mejora de servicios y programas;
+
+V.- Proponer la participación ciudadana en actividades y proyectos dirigidos a la plena integración de las personas adultas mayores en la vida económica, política, social y cultural;
+
+VI.- Proponer mecanismos de concertación y de coordinación en materia de desarrollo social;
+
+VII.- Organizar grupos de trabajo; y
+
+VIII.- Las demás que le encomiende el Ejecutivo del Estado y, en su caso, la Secretaría de Desarrollo Social.
+
+###### ARTICULO 17.
+
+Al Presidente del Consejo le corresponde:
+
+I.- Representar al Consejo ante las distintas autoridades e instituciones públicas y privadas;
+
+II.- Presidir las reuniones del Consejo;
+
+III.- Dirigir y moderar los debates durante las sesiones;
+
+IV.- Dictar las políticas necesarias para mejorar la operación del Consejo; y
+
+V.- Someter a consideración del Consejo, los estudios, propuestas y opiniones que emitan los grupos de trabajo.
+
+###### ARTICULO 18.
+
+Al Secretario del Consejo le corresponde:
+
+I.- Coordinar las actividades del Consejo y de los grupos de trabajo;
+
+II.- Convocar a sesiones a sus integrantes;
+
+III.- Formular la orden del día para las sesiones;
+
+IV.- Someter a consideración del Consejo los programas de trabajo;
+
+V.- Difundir y dar seguimiento a las resoluciones y trabajo del Consejo;
+
+VI.- Suplir al Presidente del Consejo, en caso de ausencia;
+
+VII.- Proporcionar asesoría técnica al Consejo; y
+
+VIII.- Realizar los trabajos que le encomiende el Presidente del Consejo.
+
+###### ARTICULO 19.
+
+En los Municipios podrán formarse Consejos Asesores para la Integración, Asistencia, Promoción y Defensa de los Derechos de las Personas Adultas Mayores, para fomentar la participación de la población.
+
+## TITULO SEXTO. DE LAS ACCIONES DE GOBIERNO Y SERVICIOS
+
+### CAPITULO I. DEL TRANSPORTE
+
+###### ARTICULO 20.
+
+Las personas adultas mayores tendrán derecho a obtener tarifas preferenciales o exenciones de pago al hacer uso del servicio público de transporte, de conformidad con las disposiciones aplicables de la materia.
+
+###### ARTICULO 21.
+
+La Administración Pública del Estado, a través de la dependencia competente, promoverá la celebración de convenios de colaboración con los concesionarios o permisionarios para que las unidades del servicio público de transporte se ajusten a las necesidades de las personas adultas mayores.
+
+### CAPITULO II
+
+DE LA PROTECCION A LA ECONOMIA, DESCUENTOS, SUBSIDIOS Y PAGO DE SERVICIOS.
+
+###### ARTICULO 22.
+
+La Administración Pública del Estado, a través de la dependencia competente, implementará programas de protección a la economía para la población de personas adultas mayores, de tal manera que éstas se vean beneficiadas al adquirir algún bien o utilizar algún servicio y se encuentren debidamente informadas para hacer valer este derecho.
+
+###### ARTICULO 23.
+
+La Administración Pública del Estado, a través de la dependencia competente, promoverá la celebración de convenios con la iniciativa privada a fin de que se instrumenten campañas de promociones y descuentos en bienes y servicios que beneficien a las personas adultas mayores.
+
+###### ARTICULO 24.
+
+La Administración Pública del Estado, a través de la dependencia o entidad competente, de conformidad con las disposiciones jurídicas aplicables, deberá promover e instrumentar descuentos en el pago de derechos por los servicios que otorga, cuando el usuario de los mismos sea una persona adulta mayor. Corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Desarrollo Social, dar a conocer, dentro del primer mes de cada año, el monto de los descuentos y los requisitos a cubrir.
+
+### CAPITULO III. DE LA ATENCION PREFERENCIAL
+
+###### ARTICULO 25.
+
+Es obligación de las dependencias y entidades de la Administración Pública Estatal, en el ámbito de sus respectivas competencias y jurisdicción, vigilar y garantizar la defensa de los derechos de las personas adultas mayores, otorgándoles una atención preferencial que agilice los trámites y procedimientos administrativos a realizar.
+
+###### ARTICULO 26.
+
+La Secretaría de Desarrollo Económico y del Empleo promoverá la celebración de convenios con la iniciativa privada, a fin de que la atención preferencial para las personas adultas mayores, también sea proporcionado en instituciones bancarias, tiendas de autoservicio y otras empresas mercantiles.
+
+### CAPITULO UNICO. DE LA ASISTENCIA SOCIAL
+
+## TITULO SEPTIMO
+
+###### ARTICULO 27.
+
+Toda persona que tenga conocimiento de que una persona adulta mayor se encuentre en situación de riesgo o desamparo podrá pedir la intervención de las autoridades competentes para que se apliquen de inmediato las medidas necesarias para su protección y atención.
+
+###### ARTICULO 28.
+
+La Secretaría de Desarrollo Social, en coordinación con el Sistema para el Desarrollo Integral de la Familia en el Estado, promoverá e instrumentará políticas de asistencia social para las personas adultas mayores en situación de riesgo o desamparo.
+
+###### ARTICULO 29.
+
+Cuando una institución pública, privada o social, se haga cargo total de una persona adulta mayor, deberá:
+
+I.- Proporcionar atención integral;
+
+II.- Otorgar cuidado para su salud física y mental;
+
+III.- Fomentar actividades y diversiones que sean de su interés;
+
+IV.- Llevar un registro de ingresos y egresos;
+
+V.- Llevar el seguimiento, evolución y evaluación de los casos atendidos;
+
+VI.- Llevar un expediente personal minucioso;
+
+VII.- Expedir copia del expediente en caso de que sea solicitado por sus familiares o institución que por cualquier causa continúe su atención, con objeto de darle seguimiento a su cuidado; y
+
+VIII.- Registrar los nombres, domicilios, números telefónicos y lugares de trabajo de sus familiares.
+
+###### ARTICULO 30.
+
+En todo momento las Instituciones públicas, privadas y sociales deberán garantizar y observar el total e irrestricto respeto a los derechos de las personas adultas mayores que esta ley les consagra.
+
+###### ARTICULO 31.
+
+Todas las instituciones públicas, privadas y sociales que presten asistencia a las personas adultas mayores, deberán contar con personal que posea vocación, capacidad y conocimientos orientados a la atención de éstas.
+
+###### ARTICULO 32.
+
+Toda contravención a lo establecido en la presente ley, por las instituciones de asistencia social, será hecha del conocimiento del Sistema para el Desarrollo Integral de la Familia de Tamaulipas, a efecto de que actúe en consecuencia.
+
+T R A N S I T O R I O S
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Consejo Asesor para la Integración, Asistencia, Promoción y Defensa de los Derechos de las Personas Adultas Mayores deberá constituirse en un plazo no mayor de treinta días, a partir de la entrada en vigor de la presente Ley.
+
+###### ARTICULO TERCERO.
+
+El Reglamento de la presente ley deberá expedirse dentro de los noventa días siguientes a la integración del Consejo Asesor para la Integración, Asistencia, Promoción y Defensa de los Derechos de las Personas Adultas Mayores.
+
+SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 28 de Noviembre del Año 2001.- DIPUTADA PRESIDENTA.- LIC. BLANCA GUADALUPE VALLES RODRIGUEZ.- Rubrica.- DIPUTADO SECRETARIO.- C. MAURO PATRICIO LONGORIA MARTINEZ.- DIPUTADO SECRETARIO.- C. UBALDO GUZMÁN QUINTERO.- Rubrica."
+
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los seis días del mes de diciembre de año dos mil uno.-
+
+ATENTAMENTE.-"SUFRAGIO EFECTIVO. NO REELECCIÓN". EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- El SECRETARIO GENERAL DE GOBIERNO.- HOMERO DIAZ RODRIGUEZ.- Rúbrica.
