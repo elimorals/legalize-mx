@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-r-ayuntamiento-del-municipio-de-25457"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-19"
-last_updated: "2002-07-19"
+last_updated: "2004-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25457&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DEL MUNICIPIO DE LAMPAZOS DE NARANJO, NUEVO LEON
 
-REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO
+REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DE LAMPAZOS DE NARANJO, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2004.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 19 de julio de 2002.
 
@@ -329,9 +329,11 @@ III.- Solemnes.- Son aquellas que se revisten de un ceremonial especial.
 
 Las sesiones ordinarias y extraordinarias deben celebrarse en el recinto oficial del Ayuntamiento en Palacio Municipal, y las solemnes, en el recinto que para tal efecto acuerde el propio Ayuntamiento, mediante declaratoria oficial. En casos especiales y previo acuerdo podrán también celebrarse en otro lugar abierto o cerrado que previamente sea declarado por el propio Ayuntamiento, como lugar oficial para al (sic) celebración de la sesión.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2004)</small>
+
 ###### Artículo 23.
 
-Son ordinarias las Sesiones que los términos de la Ley Orgánica Municipal del Estado de Nuevo León, que se celebraran cuando menos dos veces al mes. Las Sesiones ordinarias podrán ser prorrogadas por el tiempo necesario para agotar los asuntos correspondientes.
+Son ordinarias las sesiones que los términos de la Ley Orgánica Municipal del Estado de Nuevo León, se celebren cuando menos 2 veces al mes. Las sesiones ordinarias podrán ser prorrogadas por el término necesario para agotar los asuntos correspondientes. Las sesiones ordinarias se celebrarán el segundo y último viernes de cada mes en el horario de las 15:00 horas.
 
 ###### Artículo 24.
 
@@ -726,3 +728,11 @@ PRESIDENTE MUNICIPAL
 C. ARQ. LEOPOLDO ALCORTA GARZA
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE MARZO DE 2004.
+
+## [N. DE E. TRANSITORIO DE LA “REFORMA AL REGLAMENTO INTERIOR DEL AYUNTAMIENTO”.]
+
+ÚNICO: EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE NUEVO LEÓN.
