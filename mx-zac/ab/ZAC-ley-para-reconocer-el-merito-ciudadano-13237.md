@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-reconocer-el-merito-ciudadano-13237"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-04"
-last_updated: "1991-12-04"
+last_updated: "1998-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13237&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA RECONOCER EL MERITO CIUDADANO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 1998.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 4 de diciembre de 1991
 
@@ -63,9 +63,11 @@ El reconocimiento público que haga al Estado para premiar la conducta, actos u 
 
 Los premios se otorgarán por el reconocimiento público de una conducta o de una trayectoria vital singularmente ejemplares, como también de actos u obras relevantes o valiosos efectuados en beneficio de la humanidad, del País, el Estado, de la Comunidad o de cualesquiera persona.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1998)</small>
+
 ###### ARTICULO 3.
 
-Los premios previstos en esta Ley solamente los podrán obtener los ciudadanos y habitantes del Estado o aquellas personas cuyos actos u obras sean de notorio beneficio para el Estado. Se exceptúa de esta disposición la condecoración "Zacatecas".
+Los premios previstos en esta Ley solamente los podrán obtener los ciudadanos zacatecanos o aquellas personas que hayan obtenido la ciudadanía zacatecana, por lo menos con cinco años de antelación a la fecha de otorgamiento del premio. Se exceptúa de esta disposición la condecoración "Zacatecas".
 
 ###### ARTICULO 4.
 
@@ -109,9 +111,11 @@ La Condecoración Zacatecas se otorgará para premiar relevantes servicios prest
 
 Este premio se tramitará en la Secretaría General de Gobierno, cuyo titular será el Presidente del Consejo de Premiación; estará integrado además, por el Secretario de Educación y por un representante de la H. Legislatura del Estado.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1998)</small>
+
 ###### ARTICULO 10.
 
-La Presea consistirá en una medalla de metal precioso en cuyo anverso ostentará un grabado con los rostros del General Jesús González Ortega, Francisco García Salinas y Ramón López Velarde, y la leyenda "Honor y Reconocimiento"; en el reverso el escudo del Estado y la leyenda "El trabajo todo lo vence"; pendiente de un collar de seda color tinto y beige.
+La Presea consistirá en una medalla de plata, en cuyo anverso ostentará un grabado con los rostros del General Jesús González Ortega, Francisco García Salinas y Francisco Goytia, con la leyenda "Honor y Reconocimiento"; en el reverso el Escudo de Armas de la Ciudad Capital del Estado y la Leyenda "El Trabajo Todo lo Vence"; pendiente de un collar de seda color tinto y beige.
 
 ### CAPITULO IV. PREMIO ESTATAL AL MERITO CIVICO
 
@@ -123,9 +127,11 @@ El premio Estatal al Mérito Cívico se concederá a quienes constituyan en su c
 
 Este premio se tramitará en la Secretaría General de Gobierno, cuyo titular será el Presidente del Consejo de Premiación; estará integrado además, por un representante del Tribunal Superior de Justicia, un representante de la H. Legislatura del Estado y por el Secretario de Educación.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1998)</small>
+
 ###### ARTICULO 13.
 
-La presea consistirá en una medalla de metal precioso en cuyo anverso llevará grabado el rostro del General Jesús González Ortega y la leyenda "Honor y Reconocimiento"; en el reverso el Escudo del Estado y la leyenda "El trabajo todo lo vence", pendiente de un collar color tinto.
+La presea consistirá en una medalla de plata, en cuyo anverso llevará grabado el rostro del General Jesús González Ortega y la leyenda "Honor y Reconocimiento"; en el reverso el Escudo de Armas de la Ciudad Capital del Estado y la leyenda "El Trabajo Todo lo Vence", pendiente de un collar color tinto.
 
 ###### ARTICULO 14.
 
@@ -141,9 +147,11 @@ El Premio Estatal de Ciencias se otorgará a quienes por sus acciones, por sus p
 
 Este premio se tramitará en la Secretaría General de Gobierno cuyo titular será el Presidente del Consejo de Premiación; estará integrado además, por un representante de la H. Legislatura del Estado, Secretario de Educación, Rectores y Directores de Instituciones de Educación Superior.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1998)</small>
+
 ###### ARTICULO 17.
 
-La presea consistirá en una medalla de metal precioso en cuyo anverso llevará grabado el rostro de Francisco García Salinas y la leyenda "Honor y Reconocimiento"; en el reverso el Escudo del Estado y la leyenda "El trabajo todo lo vence", pendiente de un collar de seda color tinto.
+La presea consistirá en una medalla de plata, en cuyo anverso llevará grabado el rostro de Francisco García Salinas y la leyenda "Honor y Reconocimiento"; en el reverso el Escudo de Armas de la Ciudad Capital del Estado y la leyenda "El Trabajo Todo lo Vence", pendiente de un collar de seda color azul.
 
 ###### ARTICULO 18.
 
@@ -151,17 +159,21 @@ El Consejo podrá proponer al Gobierno del Estado que las preseas se acompañen 
 
 ### CAPITULO VI. PREMIO ESTATAL DE ARTES
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1998)</small>
+
 ###### ARTICULO 19.
 
-El premio Estatal de Artes otorgará a quienes por sus acciones, por sus producciones o trabajos docentes, de investigación o de divulgación hayan contribuido a enriquecer el acervo cultural del País o del Estado, en el campo del arte, en cualesquiera de sus manifestaciones.
+El premio Estatal de Artes, denominado Francisco Goytia, se otorgará a quienes por sus acciones, por sus producciones o trabajos docentes, de investigación o de divulgación hayan contribuido a enriquecer el acervo cultural del País o del Estado, en el campo del arte, en cualesquiera de sus manifestaciones.
 
 ###### ARTICULO 20.
 
 Este premio se tramitará ante el Instituto Zacatecano de la Cultura, cuyo titular será el Presidente del Consejo de Premiación, estará integrado además, con un representante de la H. Legislatura del Estado, por el Director del Consejo Estatal de la Cultura y las Artes y por el Rector de la Universidad Autónoma de Zacatecas.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1998)</small>
+
 ###### ARTICULO 21.
 
-La presea consistirá en una medalla de metal precioso en cuyo anverso ostentará grabado el rostro de Ramón López Velarde y la leyenda "Honor y Reconocimiento"; en el reverso el Escudo del Estado y la leyenda "El trabajo todo lo vence", pendiente de un collar de seda color tinto.
+La presea consistirá en una medalla de plata, en cuyo anverso ostentará grabado el rostro de Francisco Goytia y la leyenda "Honor y Reconocimiento"; en el reverso el Escudo de Armas de la Ciudad Capital del Estado y la leyenda "El Trabajo Todo lo Vence", pendiente de un collar de seda color tinto.
 
 ###### ARTICULO 22.
 
@@ -227,7 +239,7 @@ La tramitación de este premio se hará ante la Secretaría de Educación, cuyo 
 
 ###### ARTICULO 35.
 
-El premio consistirá en una medalla de Plata cuyo anverso ostentará grabada una "Corona de Laurel", y la leyenda "Reconocimiento", y Al reverso la de "El trabajo todo lo vence".
+El premio consistirá en una medalla de Plata cuyo anverso ostentará grabada una "Corona de Laurel", y la leyenda "Reconocimiento", y al reverso la de "El trabajo todo lo vence".
 
 ###### ARTICULO 36.
 
@@ -378,3 +390,9 @@ LIC. GENARO BORREGO ESTRADA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ROGELIO HERNANDEZ QUINTERO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE ABRIL DE 1998
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
