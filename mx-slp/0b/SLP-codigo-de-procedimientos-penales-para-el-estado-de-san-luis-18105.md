@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-penales-para-el-estado-de-san-luis-181
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2002-06-01"
+last_updated: "2002-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2002.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -2569,9 +2569,19 @@ Si se declara fundada la solicitud de reconocimiento de la inocencia del sentenc
 
 ### CAPITULO I. LIBERTAD PROVISIONAL BAJO CAUCION
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 2002)</small>
+
 ###### ARTICULO 407.
 
-Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, siempre que no se trate de los siguientes delitos considerados como graves: homicidio simple intencional, homicidio calificado, parricidio, aborto, ataque peligroso, secuestro, robo de infante, tráfico de menores, asalto, violación, violación equiparada, corrupción de menores, robo calificado en todas sus modalidades, abigeato, rebelión, motín, terrorismo, asociación delictuosa, evasión, tortura, ataque a las vías de comunicación y medios de transporte y homicidio por culpa a que se refiere el artículo 64 del Código Penal del Estado.
+Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, siempre que no se trate de los siguientes delitos considerados como graves: homicidio simple intencional, homicidio calificado, parricidio, aborto, ataque peligroso, secuestro, robo de infante, tráfico de menores, asalto, violación, violación equiparada, corrupción de menores, robo calificado, abigeato, rebelión, motín, terrorismo, asociación delictuosa, evasión, tortura, ataque a las vías de comunicación y medios de transporte, y homicidio por culpa a que se refiere el artículo 64 del Código Penal del Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2002)</small>
+
+Tratándose de robo calificado, en las modalidades previstas en las fracciones I, III y V del artículo 200 del Código Penal del Estado, únicamente se considerará como grave cuando en razón del arma empleada o por encontrarse habitado el lugar donde se cometió el robo, se ponga en riesgo la integridad corporal de la víctima, su familia o demás habitantes, o cuando se infieran lesiones. En el caso de robo calificado en la modalidad prevista en la fracción II del artículo supracitado, sólo se considerará como grave cuando se cometa en casa-habitación y el valor de lo robado exceda de 200 veces el salario mínimo vigente.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2002)</small>
+
+No se considerará como grave el robo calificado a que se refiere la fracción VI del artículo 200 del Código Penal del Estado.
 
 Tratándose de delitos cometidos con motivo del tránsito de vehículos no se concederá este beneficio al inculpado que hubiese incurrido en delito de abandono de personas si se encuentra en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos o de cualquier otra sustancia que producta (sic) efectos similares. Cuando el delito merezca pena alternativa o no privativa de la libertad se dispondrá la libertad sin necesidad de caución y sin perjuicio de pedir el arraigo correspondiente.
 
@@ -3192,3 +3202,9 @@ P.O. 1 DE JUNIO DE 2002.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE OCTUBRE DE 2002.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
