@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bebidas-alcoholicas-del-estado-de-san-luis-potosi-10749"
 country: "mx"
 rank: "ley"
 publication_date: "1994-10-07"
-last_updated: "1994-10-07"
+last_updated: "1998-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE BEBIDAS ALCOHOLICAS DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 1998.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 7 de octubre de 1994.
 
@@ -45,9 +45,11 @@ PREVENCIONES GENERALES.
 
 La presente Ley regula la venta y consumo de bebidas alcohólicas en el Estado. Serán objeto de tal regulación las personas físicas y morales que tengan establecimientos o locales destinados a la venta y consumo de bebidas alcohólicas. Su aplicación es de observancia general y de interés público.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 2°.
 
-La aplicación de esta Ley corresponde al Ejecutivo del Estado a través de la Secretaría General de Gobierno, la que podrá auxiliarse de la Secretaría de Planeación y Finanzas, así como a las autoridades municipales por conducto de sus dependencias competentes, de acuerdo a las facultades que para cada una se señalen.
+La aplicación de esta ley corresponde al Ejecutivo del Estado a través de la Secretaría General de Gobierno, la que podrá auxiliarse de la Secretaría de Finanzas; así como a las autoridades municipales por conducto de sus dependencias competentes, de acuerdo a las facultades que para cada una se señalen.
 
 ###### ARTICULO 3°.
 
@@ -546,3 +548,11 @@ LIC. HORACIO SANCHEZ UNZUETA.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. JAIME SUAREZ ALTAMIRANO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE MAYO DE 1998.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
