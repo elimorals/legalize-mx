@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-de-administracion-municipal-8463"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1984-02-02"
-last_updated: "1993-11-25"
+last_updated: "1994-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DE ADMINISTRACION MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 25 DE NOVIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 1994.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Sonora, el jueves 2 de febrero de 1984.
 
@@ -559,7 +559,9 @@ XXX.- Formar y publicar cada dos años en sus respectivas jurisdicciones, una li
 
 XXXI.- Amonestar e impedir a los extranjeros que se inmiscuyan en asuntos políticos.
 
-XXXII.- Impartir a la autoridad judicial el auxilio que demande para hacer efectivas sus resoluciones; aprehender a los delincuentes en flagrante delito y decretar bajo su más estricta responsabilidad, en casos urgentes, cuando no exista en el lugar ninguna autoridad judicial y se trate de delitos que se persigan de oficio, la detención de un acusado, poniéndolos en ambos casos y sin demora, a disposición de la autoridad judicial inmediata.
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1994)</small>
+
+XXXII.- Impartir a la autoridad judicial el auxilio que demande para hacer efectivas sus resoluciones; aprehender a los delincuentes en flagrante delito y detener a algún indiciado en caso de urgencia, tratándose de delitos graves, previa petición por escrito por parte del Ministerio Público, cuando se hubiese actualizado los supuestos previstos en el artículo 16, párrafo quinto de la Constitución Política de los Estados Unidos Mexicanos;
 
 > <small>(REFORMADA, B.O. 26 DE ABRIL DE 1993)</small>
 
@@ -1590,3 +1592,9 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Bol
 ###### ARTICULO SEGUNDO.
 
 Las fechas señaladas en los artículos 22 y 27, entrarán en vigor en 1997.
+
+B.O. 30 DE DICIEMBRE DE 1994.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+SEGUNDO.- Las personas físicas o morales que con anterioridad a ala entrada en vigor a la presente Ley, estén prestando servicios privados de seguridad, o que actualmente realicen actividades conceptualizadas como tales en este ordenamiento, deberán dentro de un plazo de tres meses contados a partir de la vigencia de esta Ley, comparecer ante la Coordinación Estatal de Seguridad Pública y Transito a efecto de que se les otorgue la autorización y el registro correspondiente, previa comprobación del cumplimiento de los requisitos que se establecen, en el entendido de que de no comparecer dentro del plazo señalado, la Secretaría de Gobierno podrá imponer la sanción de multa, cuyo monto será de hasta cinco mil veces el salario mínimo general vigente en la cabecera del Municipio de que se trate.
