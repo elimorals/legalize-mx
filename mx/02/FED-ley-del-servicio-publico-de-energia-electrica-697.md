@@ -4,7 +4,7 @@ identifier: "FED-ley-del-servicio-publico-de-energia-electrica-697"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-22"
-last_updated: "1983-12-27"
+last_updated: "1986-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=697&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1975-12-10"
 
 LEY DEL SERVICIO PUBLICO DE ENERGIA ELECTRICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1986.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 22 de diciembre de 1975.
 
@@ -158,6 +158,10 @@ IX.- Conocer sobre las peticiones que formulen los trabajadores sindicalizados d
 X.- Resolver sobre los asuntos que someta a su conocimiento cualquiera de sus miembros o el Director General; y
 
 XI.- Velar por el cumplimiento de las disposiciones legales que rigen a la Comisión Federal de Electricidad.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+XII.- Vigilar, supervisar y controlar que las aportaciones hechas por el Gobierno Federal derivadas de sustituciones de adeudos del organismo, sean destinadas al fin que se entablece (sic) en esta Ley.
 
 ###### ARTICULO 13.
 
@@ -501,6 +505,20 @@ La aplicación de la presente Ley y de sus disposiciones reglamentarias es de la
 
 En todo los actos, convenios y contratos en que intervenga la Comisión Federal de Electricidad serán aplicables las leyes federales conducentes y las controversias en que sea parte serán de la competencia exclusiva de los Tribunales de la Federación, quedando exceptuada de otorgar las garantías que se exigen a los particulares de dichas controversias.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+### CAPITULO IX. Aprovechamiento Para Obras de Infraestructura Eléctrica
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 46.
+
+Tendrán el carácter de aprovechamiento, los pagos que debe efectuar la Comisión Federal de Electricidad al Gobierno Federal, de conformidad con el convenio de rehabilitación financiera, por el que éste asumió los derechos de los respectivos acreedores.
+
+Su monto se determinará anualmente por el equivalente al ahorro de intereses con cargo a resultados del organismo, como consecuencia de la mencionada asunción de adeudos, y deberá pagarse en los mismos plazos en que dicho organismo estaba obligado a cubrir el adeudo.
+
+Los ingresos que se obtengan por el aprovechamiento que se establece en este artículo, se destinarán para complementar las aportaciones patrimoniales al organismo para inversión en nuevas obras de infraestructura eléctrica, conforme al Presupuesto de Egresos autorizado por la Secretaría de Programación y Presupuesto, y se harán y aplicarán al fin indicado, de acuerdo con los presupuestos y calendarios autorizados.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -540,3 +558,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a este Ordenamiento.
+
+D.O.F. 31 DE DICIEMBRE DE 1986.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1987.
