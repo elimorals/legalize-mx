@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-y-defensa-de-los-derechos-de-las-personas-152
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-15"
-last_updated: "1999-10-15"
+last_updated: "2003-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCION Y DEFENSA DE LOS DERECHOS DEL MENOR Y LA FAMILIA EN EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 2003.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 15 de octubre de 1999.
 
@@ -69,7 +69,19 @@ VI.- PROCURADOR: El Procurador para la Defensa del Menor y la Familia en el Esta
 
 VII.- SUBPROCURADURIA: Subprocuraduría para la Defensa del Menor y la Familia;
 
-VIII.- LEY: Ley para la Protección y Defensa de los Derechos del Menor y la familia.
+VIII.- LEY: Ley para la Protección y Defensa de los Derechos del Menor y la familia;
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2003)</small>
+
+IX.- MALTRATO FISICO: Toda agresión intencional en la que se utilice alguna parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física del otro;
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2003)</small>
+
+X.- MALTRATO PSICO-EMOCIONAL: Patrón de conducta consistente en actos u omisiones, cuyas formas de expresión pueden ser prohibiciones, condicionamientos, coacciones, intimidaciones, amenazas, actitudes devaluatorias o de abandono, que provoquen en quien las recibe deterioro, disminución o afectación de su personalidad;
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2003)</small>
+
+XI.- MALTRATO SEXUAL: Los actos u omisiones para el control, manipulación o dominio de la pareja y que generen un daño, cuyas formas de expresión pueden ser entre otras: negar las necesidades afectivas, inducir a la realización de prácticas sexuales no deseadas o que generen dolor.
 
 ### CAPITULO II. DE LOS DERECHOS MINIMOS DEL MENOR
 
@@ -147,9 +159,11 @@ Cuando por cualquier motivo, la Procuraduría tenga conocimiento de cualquiera d
 
 La Procuraduría en apego a las disposiciones legales aplicables y cuando el interés superior del menor y la Familia así lo requiera, podrá ubicar a éstos en albergues dedicados a la atención de menores, y al día siguiente hábil deberá informar, al Ministerio Público, o al Juez competente o a la autoridad política del lugar que corresponda, para que califique la medida adoptada.
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2003)</small>
+
 ###### ARTICULO 20.
 
-Los menores que por cualquier situación de riesgo o peligro, sean separados de su ambiente familiar quedarán bajo custodia o guarda de la Procuraduría.
+Los menores que por cualquier situación de riesgo o peligro, sean separados de su ambiente familiar quedarán bajo la custodia o guarda de la Procuraduría. Para el caso de lo previsto por el Artículo 39 Bis de esta Ley serán los padres de los hogares sustitutos los que podrán tener la custodia temporal de los menores y bajo estricta vigilancia de la Procuraduría, mientras éstos se hospeden en dichos hogares mediante autorización judicial.
 
 #### SECCION SEGUNDA. DE LA PROCURADURIA PARA LA DEFENSA DEL MENOR Y LA FAMILIA EN EL ESTADO
 
@@ -465,6 +479,118 @@ III.- La fecha, hora y lugar en que se notifica; y,
 
 IV.- El nombre, apellidos y domicilio de la persona a quien se entrega la notificación.
 
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2003)</small>
+
+ARTICULO 39 BIS.- Para el cuidado temporal de los menores víctimas de violencia familiar, la Procuraduría podrá disponer el alojamiento de los mismos en hogares voluntarios en tanto sea necesario, y al día hábil siguiente deberá informar al Ministerio Público o al Juez competente o a la autoridad política del lugar que corresponda, para que califique la medida adoptada.
+
+La autoridad Judicial podrá autorizar la estancia de los menores en éstos hogares sustitutos hasta por un período de noventa días prorrogables mediante autorización judicial.
+
+Estos hogares estarán bajo una estricta vigilancia y supervisión de la Procuraduría para la Defensa del Menor y la Familia en el Estado, por lo que deberán cumplir con las normas y características que se establezcan en el Reglamento correspondiente.
+
+El Sistema Estatal para el Desarrollo Integral de la Familia remitirá anualmente al Titular del Ejecutivo una propuesta de apoyos fiscales y/o financieros para los hogares voluntarios, en el entendido de que los hogares sustitutos serán esencialmente voluntarios por lo que excepcionalmente se podrá dar un apoyo de este tipo para gastos muy particulares a juicio de la propia Procuraduría para la Defensa del Menor y la Familia.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ENERO DE 2003)</small>
+
+### CAPITULO VII. DEL PROCEDIMIENTO CONCILIATORIO
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2003)</small>
+
+###### ARTICULO 40.
+
+Las partes en conflicto de violencia familiar podrían resolver sus diferencias mediante el procedimiento de conciliación, mismo que podrá celebrarse ante el personal designado por el DIF, a través de la Procuraduría de la Defensa del Menor y la Familia.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2003)</small>
+
+###### ARTICULO 41.
+
+No podrán estar sujetas a este procedimiento las controversias sobre acciones o derechos de carácter civil irrenunciables o aquellos que se persigan de oficio.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2003)</small>
+
+###### ARTICULO 42.
+
+Antes de iniciar el procedimiento conciliatorio, se les informará a las partes del contenido y alcance de esta Ley, de los derechos que les asisten y de los procedimientos administrativos, civiles o penales que existan en la materia, así como de las sanciones a las que se harán acreedores en caso de incumplimiento o reincidencia.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2003)</small>
+
+###### ARTICULO 43.
+
+Si el conflicto se resolviera mediante la conciliación y existiera un litigio en relación con el mismo asunto, se le remitirá al Juez de la causa el convenio suspensivo correspondiente para los efectos legales a que haya lugar.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2003)</small>
+
+###### ARTICULO 44.
+
+Como parte del convenio correspondiente, según lo menciona el artículo anterior, se canalizará a ambas partes a terapia familiar.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2003)</small>
+
+###### ARTICULO 45.
+
+En todos los casos en que se trate o afecte a menores, antes de convenir las partes sobre su situación, se deberá hacer del conocimiento del Ministerio Público o del Juez de lo Familiar, a efecto de que intervengan en lo que corresponda.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2003)</small>
+
+###### ARTICULO 46.
+
+El procedimiento conciliatorio se iniciará a petición de una de las partes o ambas. Para acudir a él, se requerirá, notificación previa.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2003)</small>
+
+###### ARTICULO 47.
+
+La conciliación se realizará en una sola audiencia, una vez que por separado las partes hayan sido informadas de lo que se señala en el artículo 42.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2003)</small>
+
+###### ARTICULO 48.
+
+La audiencia podrá superarse hasta por una sola vez, a efecto de que las partes valoren y acepten las propuestas de conciliación
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2003)</small>
+
+###### ARTICULO 49.
+
+Una vez que las partes lleguen a una conciliación se celebrará el convenio correspondiente, el cuál será firmado por quienes hayan intervenido en éste.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2003)</small>
+
+###### ARTICULO 50.
+
+El DIF a través de la Procuraduría de la Defensa del Menor y la Familia, llevará a cabo los trámites procedentes para elevar el convenio a categoría de cosa juzgada ante la autoridad jurisdiccional.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ENERO DE 2003)</small>
+
+### CAPITULO VIII. DE LAS INFRACCIONES Y SANCIONES
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2003)</small>
+
+###### ARTICULO 51.
+
+Se consideran infracciones:
+
+I.- El no asistir, sin causa justificada a los citatorios emitidos por el DIF a través de la Procuraduría de la Defensa del Menor y la Familia; y,
+
+II.- El incumplimiento del convenio elaborado en el procedimiento de conciliación que haya sido elevado a cosa juzgada.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2003)</small>
+
+###### ARTICULO 52.
+
+Las sanciones aplicables para los casos de infracciones a la presente ley serán las siguientes:
+
+I.- Multa de diez a ochenta días de salario mínimo general vigente en la capital del Estado al momento de cometerse la infracción;
+
+Si el infractor fuese jornalero, obrero o trabajador no asalariado, la multa será equivalente a un día de su jornal o ingreso diario; y,
+
+II.- Arresto administrativo hasta por 36 horas.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2003)</small>
+
+###### ARTICULO 53.
+
+En todo lo no previsto en la presente ley se deberá aplicar supletoriamente el Código de Procedimientos Civiles para el Estado de Baja California.
+
 TRANSITORIOS:
 
 UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
@@ -490,3 +616,9 @@ LIC. ALEJANDRO GONZALEZ ALCOCER.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 C.P. JORGE RAMOS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE ENERO DE 2003.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
