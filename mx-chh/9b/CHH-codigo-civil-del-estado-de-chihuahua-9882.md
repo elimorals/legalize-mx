@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "1996-05-25"
+last_updated: "1998-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 1998.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -9181,7 +9181,11 @@ VI.- La naturaleza del acto o contrato;
 
 VII.- La fecha del título y el funcionario que lo haya autorizado;
 
-VIII.- El día y la hora de la presentación del título en el Registro.
+VIII.- El día y la hora de la presentación del título en el Registro;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 1998)</small>
+
+IX.- Tratándose de anotaciones marginales derivadas de la cancelación o nulidad de inscripción, el número de expediente, el juzgado que conoce del procedimiento en que se solicita la nulidad o cancelación de la inscripción, la cuantía de la garantía y la mención del tipo y número de documentos mediante el cual se cubrió.
 
 2907.- El registrador que haga una inscripción sin cumplir con lo dispuesto en el artículo anterior, será responsable de los daños y perjuicios que cause a los interesados y sufrirá una suspensión de empleo por tres meses.
 
@@ -9424,3 +9428,7 @@ Las reformas a los Códigos Civil y de Procedimientos Civiles, entrarán en vigo
 P.O. 25 DE MAYO DE 1996.
 
 UNICO.- El presente decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JULIO DE 1998.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
