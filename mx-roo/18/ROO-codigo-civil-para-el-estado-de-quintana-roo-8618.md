@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "1992-10-15"
+last_updated: "1995-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 1995.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -7159,7 +7159,7 @@ Si el bien legado estuviere sujeto a usufructo, uso habitación o servidumbre, e
 
 ###### Artículo 1405.
 
-Mediante la substitución vulgar puede el testador designar a una o más personas para subtituir al heredero o herederos instituidos, para el caso de que éstos mueran antes que él, o de que no puedan o no quieran aceptar la herencia.
+Mediante la substitución vulgar puede el testador designar a una o más personas para substituir al heredero o herederos instituidos, para el caso de que éstos mueran antes que él, o de que no puedan o no quieran aceptar la herencia.
 
 ###### Artículo 1406.
 
@@ -16017,6 +16017,10 @@ Todo hecho o convenio entre las partes, que pueda modificar o destruir la eficac
 
 El crédito puede cederse, en todo o en parte, siempre que la cesión se haga en la forma que para la constitución de la hipoteca previene el artículo 3096, se dé conocimiento al deudor y sea inscrita en el Registro.
 
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 1995)</small>
+
+Las entidades financieras podrán ceder créditos que tengan garantizados con hipoteca sin necesidad de notificación al deudor, ni de registro, cuando los mismos sean cedidos a una entidad financiera actuando a nombre propio o como fiduciaria y el propósito de la cesión sea la emisión y colocación de valores, y siempre que el cedente mantenga la administración de los créditos. En caso de que la entidad cedente deje de llevar la administración de los créditos, deberá únicamente notificarlo al deudor.
+
 ###### Artículo 3109.
 
 La hipoteca generalmente durará por todo el tiempo que subsista la obligación que garantice, y cuando ésta no tuviere término para su vencimiento, la hipoteca continuará vigente hasta en tanto no prescriba la obligación principal o se extinga por alguna otra causa.
@@ -16734,3 +16738,9 @@ TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 15 DE OCTUBRE DE 1992.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+P.O. 13 DE ENERO DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
