@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-municipal-del-estado-de-veracruz-llave-6579"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1989-04-01"
+last_updated: "1989-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE ABRIL DE 1989.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 1989.
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -66,6 +66,10 @@ IV.- Aprovechamientos: los recargos, las multas y los demás ingresos no clasifi
 V.- Contribuciones por mejoras: la mejora o beneficio particular que tengan los bienes inmuebles por la realización de obras públicas; y
 
 VI.- Participaciones: las cantidades que corresponden al municipio en el rendimiento de la recaudación de determinados ingresos federales o estatales, de conformidad con las leyes respectivas y los convenios que se celebren sobre el particular.
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
+VII.- Salario Mínimo: El salario mínimo general diario que este vigente en el municipio de que se trate.
 
 ###### ARTICULO 4o.
 
@@ -211,11 +215,13 @@ VIII.- El incumplimiento por parte de los Notarios, Corredores y Funcionarios o 
 
 IX.- No guardar los Empleados y Funcionarios Municipales, reservas sobre las declaraciones y datos suministrados por los causantes, o por los terceros con ellos relacionados.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 23.
 
-Las infracciones a que se refiere el artículo anterior, se sancionarán con multa hasta de $5,000.00.
+Las infracciones a que se refiere el artículo, se sancionará con multa de 5 a 25 salarios mínimos.
 
-Las resoluciones por las que se impongan las multas deberán ser legalmente fundadas y motivadas, tomando en cuenta la importancia de la infracción y las condiciones del infractor.
+Las resoluciones por las que se impongan las multas deberán ser legalmente fundadas y motivadas, tomando en cuenta la importancia de la fracción y las condiciones del infractor.
 
 ###### ARTICULO 24.
 
@@ -233,13 +239,15 @@ Para hacer efectivo el cobro de los ingresos municipales, los Tesoreros Municipa
 
 La facultad señalada en el artículo anterior, será ejercitada conforme a las disposiciones del procedimiento Administrativo de Ejecución a que se refiere el Código Fiscal del Estado y, en lo no previsto por éste, por las disposiciones del Código de Procedimientos Civiles para el Estado.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 28.
 
-Integrado el expediente de ejecución cuando se trate de bienes muebles o de negociaciones cuyo valor exceda de $10,000.00; o de bienes inmuebles, cualquiera que sea su valor, fincado el remate se enviará a la Comisión de Hacienda Municipal, para que previa revisión apruebe el remate, si el procedimiento se apegó a las normas que lo rigen.
+Integrado el expediente de ejecución, cuando se trate de bienes muebles o negociaciones cuyo valor exceda de 60 salarios mínimos; o e bienes inmuebles cualquiera que sea su valor, fincado el remate se enviará a la comisión de Hacienda Municipal, para que previa revisión, apruebe el remate, si el procedimiento se apegó a las normas que lo rigen.
 
-Si la resolución es negativa, por no haberse ajustado el procedimiento a las disposiciones del Código Fiscal del Estado, se mandará reponer y se ordenará que se devuelva al adjudicatario, el depósito que hubiere constituido.
+Si la resolución es negativa, por no haberse ajustado el procedimiento a las disposiciones del Código Fiscal del Estado, se mandará reponer y se ordenará que se devuelva al adjudicatario el depósito que hubiera constituido.
 
-Si se aprueba el remate, se continuará el procedimiento en los términos del propio Código Fiscal.
+Si aprueba el remate, se continuará el procedimiento en los términos del propio Código Fiscal.
 
 ## TITULO SEGUNDO. IMPUESTOS
 
@@ -337,39 +345,45 @@ Dicha nueva base estará vigente hasta el 31 de diciembre del año en que se det
 
 Las Tesorerías Municipales formularán liquidaciones por las diferencias del impuesto que resulten del cambio de base, proporcionalmente al lapso que falte por transcurrir hasta el 31 de diciembre.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 38.
 
-El Impuesto Predial se determinará, liquidará y pagará de acuerdo con la siguiente
+El impuesto predial se determinará, liquidará y pagará de acuerdo con la siguiente
 
-T A R I F A :
+T A R I F A
 
-Tasa al
+Tasa
 
-millar anual
+al Millar
 
-I.- Predios urbanos 8
+anual
 
-Si la cuota anual que resulte por la aplicación de la tasa anterior, es inferior a $680.00, esta cantidad será lo que se cobre por cada predio.
+I.-Predios Urbanos. 8
 
-II.- Predios rústicos 10
+Si la cuota anual que resulte por la aplicación de la tasa anterior es inferior al importe de un salario mínimo diario de la zona económica en que se encuentre ubicado el predio, esta cantidad será la que se recobre por cada predio.
 
-Si la cuota anual que resulte por la aplicación de la tasa anterior es inferior a $1,050.00, esta cantidad será la que se cobre por cada predio
+II.-Predios rústicos.. 10
+
+Si la cuota anual que resulte por la aplicación de la tasa anterior es inferior a un salario mínimo diario de la zona económica en que se encuentre ubicado el predio, esta cantidad será la que se cobre por cada predio.
 
 III.- 5
 
-Predios en que se ubiquen plantas de beneficio y establecimientos metalúrgicos de cualquier clase de acuerdo con la Ley Federal de Impuestos y Fomento a la Minería, sobre el valor de los bienes raíces, maquinaria y equipo, etc., destinados directamente a la explotación del negocio.
+Predios en que se ubiquen plantas de beneficio y establecimientos metalúrgicos de cualquier clase de acuerdo con la Ley Federal de Impuestos y Fomento a la Minería, sobre el valor de os bienes raíces, maquinaria equipo y otros destinados directamente a la explotación del negocio.
 
-IV.- 12
-
-Predios baldíos en las zonas urbanas del Estado. Si la cuota anual que resulte por la aplicación de la tasa anterior es inferior a $1,020.00, esta cantidad será la que se cobre por cada predio.
+IV.- Predios baldíos 12
 
 Por predio baldío se entiende el urbano sin edificaciones, en los términos de la Ley de Catastro del Estado.
 
+"Si la cuota anual que resulte por la aplicación de la tasa anterior es inferior al importe de un salario mínimo diario de la zona económica en que se encuentre ubicado el predio, esta cantidad será la que se cobre por cada predio."
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 39.
 
-El pago del impuesto será anual y deberá hacerse dentro de los meses de enero y febrero de cada año.
+El pago del impuesto será semestral y deberá hacerse dentro de los meses de enero y julio de cada año; si el contribuyente opta por el pago anual durante el mes de enero se le hará un descuento del 20%
 
-Cuando se hayan establecido bases provisionales para determinar el monto del impuesto, al aplicar la base definitiva, se cobrarán o reintegrarán las diferencias que resulten.
+Cuando se hayan establecido bases provisionales para determinar el monto del impuesto, al aplicar la base definitiva, se cobrará o reintegrarán las diferencias que resulten.
 
 ###### ARTICULO 40.
 
@@ -609,13 +623,17 @@ Este impuesto se causará por la percepción de ingresos que obtengan los fracci
 
 Son sujetos de este Impuesto las personas físicas o morales que obtengan ingresos de acuerdo a lo establecido en el artículo anterior, siempre que se realicen o surtan sus efectos dentro del territorio del Estado.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 67.
 
-Servirá de base el valor mayor que resulte de comparar el valor consignado en la escritura, el del avalúo que otorgue una Institución de Crédito autorizada para tal efecto y el del Certificado de Valor Actual Real.
+Servirá de base el valor mayor que resulte de comparar el valor consignado en la escritura, el del avalúo que otorgue una Institución de Crédito autorizada para tal efecto y el del Certificado de Valor Actual Real, que expida la autoridad catastral correspondiente.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 68.
 
-Este impuesto se causará, liquidará y pagará a razón de 1.0% sobre el monto de la base que se señala en el artículo anterior.
+Este impuesto causará, liquidará y pagará a razón de 1.5% sobre el monto de la base que se señala en el artículo anterior.
 
 ###### ARTICULO 69.
 
@@ -667,7 +685,9 @@ Este impuesto se causará, liquidará y pagará sobre la base que en cada caso s
 
 T A R I F A
 
-I.- Carpas de representaciones teatrales, de fantoches, títeres, óptica, fenómenos animales, enanos bufos, etc., por cada carpa diariamente, de $ 10.00 a $ 50.00;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
+I.- Carpas de representaciones teatrales, de fantoches, títeres, óptica, fenómenos animales, enanos bufos, etc., sobre la entrada bruta, el 10%
 
 II.- Cinematógrafos, sobre la entrada, bruta, hasta el 12%;
 
@@ -677,7 +697,9 @@ IV.- Espectáculos deportivos;
 
 a).- Box, lucha libre y otros similares, sobre la entrada bruta, el 12%;
 
-b).- Carreras de: automóviles, caballos, perros, bicicletas y motocicletas, por cada evento, de $ 300.00 a $ 1,000.00;
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
+b).- Carreras de automóviles, caballos, perros bicicletas y motocicletas, sobre la entrada bruta, el 12%.
 
 c).- Beisbol, futbol, basquetbol, tenis, pelota vasca y otros juegos de pelota, sobre la entrada bruta el 10%;
 
@@ -763,21 +785,23 @@ Es objeto de este impuesto, la práctica de los juegos siguientes: dominó, dado
 
 Son sujetos de este impuesto los propietarios de establecimientos donde tenga libre acceso el público en que se practiquen los juegos gravados por esta Ley.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 85.
 
-Este impuesto se causará, liquidará y pagará de conformidad con la siguiente:
+Este impuesto se causará liquidará y pagará de conformidad con la siguiente:
 
 T A R I F A
 
-I.- Dominó, por establecimiento mensualmente, de $ 20.00 a $ 500.00;
+I.-Dominó, por establecimiento, mensualmente de 0.25 a 2 salarios mínimos.
 
-II.- Dados, por establecimiento, mensualmente, de $ 100.00 a " 2,000.00;
+II.-Dados, por establecimiento, mensualmente de 0.25 a 2 salarios mínimos.
 
-III.- Ajedrez, por establecimiento, mensualmente, de $ 25.00 a " 250.00;
+III.-Ajedrez, por establecimiento, mensualmente, de 0.25 a 2 salarios mínimos.
 
-IV.- Damas, por establecimiento, mensualmente de $ 25.00 a " 250.00;
+IV.-Damas. por establecimiento, mensualmente de 0.25 a 2 salarios mínimos.
 
-V.- Otros juegos permitidos, mensualmente, de $ 100.00 a " 1,000.00
+V.- Otros juegos permitidos, por establecimiento, mensualmente de 0.25 a 2 salarios mínimos.
 
 ###### ARTICULO 86.
 
@@ -831,11 +855,13 @@ Este impuesto se causará, liquidará y pagará de conformidad con la siguiente:
 
 T A R I F A
 
-I.- Cuando se trate de loterías, rifas o sorteos para los que se emitan boletos o billetes, sobre el valor nominal total de los boletos o billetes vendidos, el 20%;
+I.-Cuando se trate de loterías, rifas o sorteos para los que se emitan boletos o billetes, sobre el valor nominal total de los boletos o billetes vendidos, el 20%;
 
 II.- En los casos de rifas o sorteos ocasionales, para los que no se emitan billetes o boletos o en caso de emitirse éstos, no tengan valor nominal, sobre el valor total de los premios ofrecidos, el 20%;
 
-III.- En los casos de loterías, rifas o sorteos, en los que no pueda determinarse previamente el importe del ingreso que se obtendrá, por el pago de cuotas que den derecho a participar en ellos, diariamente de $ 100.00 a $ 1,000.00.
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
+III.- En los casos de loterías rifas o sorteos, en los que o pueda determinarse previamente el importe del ingreso que se obtendrá, por el pago de cuotas que den derecho a participar en ellos, diariamente de 0.25 a 2 salarios mínimos.
 
 ###### ARTICULO 94.
 
@@ -895,17 +921,27 @@ Se causará este impuesto aun cuando la matanza se lleve a cabo en rastros parti
 
 El impuesto que establece este capítulo, se causará conforme a la siguiente:
 
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
 T A R I F A
 
-I.- Bovino, por cada animal, de $ 16.00 a $ 80.00;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
-II.- Porcino y equino, por cada animal de $ 8.00 a "30.00
+I.-Bovino, por cada animal 1 a 3 salarios mínimos
 
-III.- Ovicaprino, por cada animal, de $ 4.00 a "10.00;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
-IV.- Especies menores, por cada animal de $ 0.50 a "6.00;
+II.-Porcino y equino, por cada animal. 0.05 a 1.50 salario mínimo
 
-En aquellos municipios en que se encuentren establecidos rastros frigoríficos operados por las Uniones Ganaderas, este impuesto se distribuirá en la forma siguiente: 25% al Municipio donde estén instalados los frigoríficos y el 75% a los municipios de los que proceda el ganado que se sacrifique.
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
+III.-Ovicaprino, por cada animal 0.50 Salario mínimo
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
+IV.-Especies menores por cada animal 0.01 salario mínimo
+
+En aquellos municipios en que se encuentren establecidos rastros frigoríficos operados por las Uniones Ganaderas, este impuesto se distirbuirá en la forma siguiente: 25% al Municipio donde estén instalados los frigoríficos y el 75% a los municipios de los que preceda el ganado que se sacrifique.
 
 ###### ARTICULO 104.
 
@@ -971,13 +1007,25 @@ DERECHOS POR LA PRESTACION DE SERVICIOS EN LOS PANTEONES MUNICIPALES.
 
 Por la prestación de servicios en los panteones municipales, se causarán los siguientes derechos:
 
-I.- Por inhumación a perpetuidad, de $100.00 a $400.00
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
-II.- Por exhumación de " 100.00 a " 400.00
+I.- Por inhumación a perpetuidad. 1 salario mínimo.
 
-III.- Por reinhumación, de " 100.00 a " 200.00
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
-IV.- Por la construcción, reconstrucción o profundización de fosas así como la construcción o reparación de monumentos y otros similares, hasta 600.00
+II.-Por exhumación 1 salario mínimo
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
+III.-Por reinhumación. 1 salario mínimo.
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
+IV.-Por la construcción, reconstrucción o reprofundización de fosas así como la construcción de monumentos y otros similares. 1 salario mínimo
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
+V.-Por refrendo de fosa, al término de siete años, se exhumarán los restos quedando disponible la fosa. 1 salario mínimo
 
 ###### ARTICULO 113.
 
@@ -985,125 +1033,507 @@ No causarán los derechos establecidos en el artículo anterior, la inhumación 
 
 ### CAPITULO IV. DERECHOS POR LICENCIA DE USO DEL SUELO
 
-###### ARTICULO 114.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
-Por las licencias para la fusión, subdivisión o relotificación de terrenos que expidan los Ayuntamientos en los términos de la Ley de Asentamientos Humanos y sus Reglamentos, se causarán los derechos en atención al uso y categoría del predio, calculándolos sobre el total de la superficie que se fusiona, subdivide o relotifica conforme a la siguiente:
+ARITICULO 114.- Por las licencias para la funsión, subdivisión o renotificación de terrenos que expidan los Ayuntamiento en los términos que la Ley de Asentamientos Humanos y sus Reglamentos, se causarán los derechos en atención al uso y categoría del predio, calándolos sobre el total de la superficie que se fusiona, subdivide o renotifica conforme a la siguiente
 
 T A R I F A
 
-Si el terreno es de uso:
+Si el terreno es de uso: Habitacional de categoría De 1 a 500 M2 Salarios mínimos
 
-Habitacional de categoría:
+Residencial 4
 
-Residencial $ 10.00 por m2.
+Medio 2
 
-Medio " 7.00 por m2.
+Interés Social 1.5
 
-De Interés Social " 4.00 por m2.
+Popular 1
 
-Popular o campestre " 2.50 por m2.
+De 501 a 1,000m2
 
-Si el terreno es de uso:
+Salarios Mínimos.
 
-Comercial $ 7.00 por m2.
+Residencial 6
 
-Industrial " 4.00 por m2.
+Medio 4
 
-Agropecuario " 2.50 por m2.
+Interés Social 3
 
-De servicio " 7.00 por m2.
+Popular 2
+
+De 1,001 a 3,000 m2
+
+Salarios Mínimos
+
+Residencial 10
+
+Medio 8
+
+Interés social 6
+
+Popular 4
+
+De 3,001 a 5,000 m2
+
+Salarios Mínimos
+
+Residencial 20
+
+Medio 15
+
+Interés Social 10
+
+Popular 6
+
+De 5,001 a 10,000 m2
+
+Salarios Mínimos
+
+Residencial 25
+
+Medio 20
+
+Interés Social 15
+
+Popular 10
+
+Más de 10,001 m2
+
+Salarios Mínimos
+
+Residencial 30
+
+Medio 25
+
+Interés Social 20
+
+Popular 15
+
+De 1 a 500 m2
+
+Salarios Mínimos
+
+Comercial 5
+
+Industrial 5
+
+Agropecuario 1
+
+De servicio 2
+
+De 501 a 1,000 m2
+
+Salarios Mínimos
+
+Comercial 8
+
+Industrial 8
+
+Agropecuario 2
+
+De servicio 4
+
+De 1,001 a 3,000 m2
+
+Salarios Mínimos.
+
+Comercial 15
+
+Industrial 15
+
+Agropecuario 4
+
+De servicio 8
+
+De 3,001 a 5,000 m2
+
+Salarios Mínimos
+
+Comercial 20
+
+Industrial 20
+
+Agropecuario 6
+
+De servicio 15
+
+De 5,001 a 10,000 m2
+
+Salarios Mínimos
+
+Comercial 30
+
+Industrial 30
+
+Agropecuario 10
+
+De servicio 20
+
+Más de 10,001 m2
+
+Salarios Mínimos
+
+Comercial 40
+
+Industrial 40
+
+Agropecuario 15
+
+De servicio 25
+
+Popular 15
+
+De 1 a 500 m2
+
+Salarios Mínimos
+
+Comercial 5
+
+Industrial 5
+
+Agropecuario 1
+
+De servicio 2
+
+De 501 a 1,000 m2
+
+Salarios Mínimos
+
+Comercial 8
+
+Industrial 8
+
+Agropecuario 2
+
+De servicio 4
+
+De 1,001 a 3,000 m2
+
+Salarios Mínimos.
+
+Comercial 15
+
+Industrial 15
+
+Agropecuario 4
+
+De servicio 8
+
+De 3,001 a 5,000 m2
+
+Salarios Mínimos
+
+Comercial 20
+
+Industrial 20
+
+Agropecuario 6
+
+De servicio 15
+
+De 5,001 a 10,000 m2
+
+Salarios Mínimos
+
+Comercial 30
+
+Industrial 30
+
+Agropecuario 10
+
+De servicio 20
+
+Más de 10,001 m2
+
+Salarios Mínimos
+
+Comercial 40
+
+Industrial 40
+
+Agropecuario 15
+
+De servicio 25
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 115.
 
-Por las licencias para fraccionamiento de terrenos que expidan los Ayuntamientos en los términos de la Ley de Asentamientos Humanos y sus Reglamentos, se causarán los derechos en atención al uso y categoría del predio calculándolos sobre el total de la superficie vendible autorizada, conforme a la siguiente:
+Por las licencias para fraccionamientos de terrenos que expidan los Ayuntamientos en los términos de la Ley de Asentamientos Humanos y sus Reglamentos, se causarán los derechos en atención al uso y categoría del predio, calculándose sobre el total de la superficie vendible autorizada, conforme a la siguiente:
 
 T A R I F A
 
 Si el terreno es de uso:
 
-Habitacional de categoría:
+Habitacional de categoría
 
-Residencial $ 10.00 por m2.
+De 1 a 500 m2
 
-Medio " 7.00 por m2.
+Salarios Mínimos
 
-De Interés Social " 4.00 por m2.
+Residencial 4
 
-Popular o campestre " 2.50 por m2.
+Medio 2
+
+Interés Social 1.5
+
+Popular 1
+
+De 501 a 1,000 m2
+
+Salarios Mínimos
+
+Residencial 6
+
+Medio 4
+
+Interés Social 3
+
+Popular 2
+
+De 1,001 a 3,000 m2
+
+Salarios Mínimos
+
+Residencial 10
+
+Medio 8
+
+Interés Social 6
+
+Popular 4
+
+De 3,001 a 5,000 m2
+
+Salarios Mínimos
+
+Residencial 20
+
+Medio 15
+
+Interés Social 10
+
+Popular 6
+
+De 5,001 a 10,000 m2
+
+Salarios Mínimos.
+
+Residencial 25
+
+Medio 20
+
+Interés Social 15
+
+Popular 10
+
+Más de 10,001 m2
+
+Salarios Mínimos.
+
+Residencial 30
+
+Medio 25
+
+Interés Social 20
+
+Popular 15
 
 Si el terreno es de uso:
 
-Comercial $ 7.00 por m2.
+De 1 a 500 m2
 
-Industrial " 4.00 por m2.
+Salarios Mínimos
 
-(F. DE E., G.O. 28 DE ENERO DE 1984)(F. DE E., G.O. 7 DE FEBRERO DE 1984)
+Comercial 5
 
-agropecuario $ 2.50 por m2.
+Industrial 5
 
-De servicio " 7.00 por m2.
+Agropecuario 1
+
+De servicio 2
+
+De 500 a 1,000 m2
+
+Salarios Mínimos.
+
+Comercial 8
+
+Industrial 8
+
+Agropecuario 2
+
+De servicio 4
+
+De 1,001 a 3,000 m2
+
+Salarios Mínimos.
+
+Comercial 15
+
+Industrial 15
+
+Agropecuario 4
+
+De servicio 8
+
+De 3,001 a 5,000 m2
+
+Salarios Mínimos
+
+Comercial 20
+
+Industrial 20
+
+Agropecuario 6
+
+De servicio 15
+
+De 5,001 a 10,000 m2
+
+Salarios Mínimos
+
+Comercial 30
+
+Industrial 30
+
+Agropecuario 10
+
+De servicio 20
+
+Más de 10,001 m2
+
+Salarios Mínimos
+
+Comercial 40
+
+Industrial 40
+
+Agropecuario 15
+
+De servicio 25
 
 ### CAPITULO V. DERECHOS POR SERVICIOS DE ALINEAMIENTO
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 116.
 
 Los derechos a que se refiere este capítulo se causarán cuando las autoridades municipales fijen el alineamiento de un terreno sobre la vía pública, en los términos de la Ley de Asentamientos Humanos y sus Reglamentos.
 
-Los derechos a que se refiere el párrafo anterior se pagarán calculándolos sobre el total de los metros lineales que tenga el terreno frente a la vía pública, conforme a la siguiente:
+Los derechos a que se refiere el párrafo anterior se pagarán calculándolos sobre el total de los metros lineales que tenga el terreno frente a la vía pública, conforme a la siguiente
 
 T A R I F A
 
 Si el terreno es de uso:
 
-Habitacional de categoría:
+Habitacional de categoría
 
-Residencial $ 180.00 por ML.
+De 1 a 10 ML
 
-Medio " 126.00 por ML.
+Salarios Mínimos
 
-De interés social " 70.00 por ML.
+Residencial 3
 
-Popular o campestre " 45.00 por ML.
+Medio 2
 
-Si el terreno es de uso:
+Interés Social 1.5
 
-Comercial $ 120.00 por ML.
+Popular 1
 
-Industrial " 70.00 por ML.
+De 11 a 50 ML
 
-Agropecuario " 45.00 por ML.
+Salarios Mínimos
 
-De servicio " 120.00 por ML.
+Residencial 3.5
+
+Medio 3
+
+Interés Social 2.5
+
+Popular 2
+
+Mas de 51 ML
+
+Salarios Mínimos
+
+Residencial 4
+
+Medio 3.5
+
+Interés Social 2.5
+
+Popular 2
+
+De 1 a 10 ML
+
+Salarios Mínimos
+
+Comercial 4
+
+Industrial 4
+
+Agropecuario 3
+
+De servicio 2
+
+De 11 a 50 ML.
+
+Salarios Mínimos
+
+Comercial 5
+
+Industrial 5
+
+Agropecuario 4
+
+De servicio 2.5
+
+Más de 51 ML
+
+Salarios Mínimos
+
+Comercial 6
+
+Industrial 6
+
+Agropecuario 5
+
+De servicio 3
 
 ### CAPITULO VI. DERECHOS POR SERVICIOS DE OTORGAMIENTO DE NUMEROS OFICIALES
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 117.
 
-Los derechos a que se refiere este capítulo se causarán por el otorgamiento del número oficial, por cada lote, de conformidad con la siguiente:
+Los derechos a que se refiere este capítulo se causarán por el otorgamiento del número oficial, por cada lote, de conformidad con la siguiente
 
 T A R I F A
 
-Si el terreno es de uso:
-
-Habitacional de categoría:
-
-Residencial $ 500.00
-
-Medio " 350.00
-
-De interés social " 200.00
-
-Popular o campestre " 125.00
+Salarios Mínimos
 
 Si el terreno es de uso:
 
-Comercial $ 350.00
+Habitacional de Categoría:
 
-Industrial " 200.00
+Residencial 2
 
-Agropecuario " 125.00
+Medio 1.5
 
-De servicio " 350.00
+Interés Social 1
+
+Popular 0.50
+
+Si el terreno es de uso:
+
+Comercial 2
+
+Industrial 2
+
+Agropecuario 1
+
+De servicio 1
 
 ###### ARTICULO 118.
 
@@ -1115,33 +1545,37 @@ Fijada la nomenclatura oficial y pagados los derechos que establece el artículo
 
 Los derechos a que se refiere este capítulo, se causarán cuando se registren los planos que acrediten las construcciones o ampliaciones de cualesquiera edificación por las autoridades municipales de conformidad a lo señalado en la Ley de Asentamientos Humanos y sus Reglamentos.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 120.
 
-Los derechos se pagarán previo el registro de los planos y de conformidad a la siguiente:
+Los derechos se pagarán previo el registro de los Planos de conformidad a la siguiente
 
 T A R I F A
 
-Si el terreno es de uso.
+Si el terreno es de uso:
 
 Habitacional de categoría:
 
-Residencial $ 1000.00
+Salarios Mínimos.
 
-Medio " 700.00
+Residencial 2
 
-De interés social " 400.00
+Medio 1.5
 
-Popular o campestre " 250.00
+Interés Social 1
 
-S el terreno es de uso:
+Popular 0.50
 
-Comercial $ 700.00
+Si el terreno es de uso:
 
-Industrial " 400.00
+Comercial 2
 
-Agropecuario " 250.00
+Industrial 2
 
-De servicio " 700.00
+Agropecuario 1
+
+De servicio 1
 
 ### CAPITULO VIII. DERECHOS POR LA EXPEDICION DE LICENCIAS DE CONSTRUCCION O AMPLIACION DE EDIFICACIONES
 
@@ -1149,33 +1583,255 @@ De servicio " 700.00
 
 Los derechos a que se refiere este capítulo, se causarán cuando se expidan licencias por las autoridades municipales, para obras de construcción o ampliación de edificaciones.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 122.
 
-Los derechos a que se refiere el artículo anterior, se pagarán calculándolos sobre la superficie total de las sumas de las superficies parciales cubiertas por construcciones correspondientes a cada uno de los pisos de que consta el edificio de conformidad con la siguiente:
+Los derechos a que se refiere el artículo anterior se pagarán calculándolos sobre la superficie total de las sumas de las superficies parciales cubiertas por construcciones correspondientes a cada uno de los pisos de que consta el edificio de conformidad con la siguiente
 
 T A R I F A
 
-Si el terreno es de uso.
+De 1 a 40 m2
 
-Habitacional de categoría:
+Salarios Mínimos
 
-Residencial $ 250.00 por m2.
+Residencial 6
 
-Medio " 150.00 por m2.
+Medio 4
 
-De interés social " 90.00 por m2.
+Interés Social -
 
-Popular o campestre " 50.00 por m2.
+Popular -
+
+De 41 a 60 M2
+
+Salarios Mínimos
+
+Residencial 8
+
+Medio 6
+
+Interés Social -
+
+Popular -
+
+De 61 a 80 m2
+
+Salarios Mínimos
+
+Residencial 10
+
+Medio 8
+
+Interés Social 3
+
+Popular 2
+
+De 81 a 100 m2
+
+Salarios Mínimos
+
+Residencial 12
+
+Medio 10
+
+Interés Social 4
+
+Popular 3
+
+De 101 a 150 m2
+
+Salarios Mínimos.
+
+Residencial 14
+
+Medio 12
+
+Interés Social 5
+
+Popular 4
+
+De 151 a 200 m2
+
+Salarios Mínimos
+
+Residencial 16
+
+Medio 14
+
+Interés Social 6
+
+Popular 5
+
+De 2001 a 300 m2
+
+Salarios Mínimos
+
+Residencial 20
+
+Medio 18
+
+Interés Social -
+
+Popular -
+
+De 301 a 500 m2
+
+Salarios Mínimos
+
+Residencial 25
+
+Medio 20
+
+Interés Social -
+
+Popular -
+
+De 501 a 1,000 m2
+
+Salarios Mínimos
+
+Residencial 30
+
+Medio 22
+
+Interés Social -
+
+Popular -
+
+Más de 1,001 m2
+
+Salarios Mínimos
+
+Residencial 40
+
+Medio 24
+
+Interés Social -
+
+Popular -
 
 Si el terreno es de uso:
 
-Comercial $ 150.00 por m2.
+De 1 a 40 m2
 
-Industrial " 90.00 por m2.
+Salarios Mínimos
 
-Agropecuario " 50.00 por m2.
+Comercial 8
 
-De servicio " 150.00 por m2.
+Industrial 8
+
+Agropecuario 2
+
+De servicio 3
+
+De 41 a 60 m2
+
+Salarios Mínimos
+
+Comercial 10
+
+Industrial 10
+
+Agropecuario 3
+
+De servicio 4
+
+De 60 a 80 m2
+
+Salarios Mínimos
+
+Comercial 12
+
+Industrial 12
+
+Agropecuario 4
+
+De servicio 5
+
+De 81 a 100 m2
+
+Salarios Mínimos
+
+Comercial 14
+
+Industrial 14
+
+Agropecuario 5
+
+De servicio 6
+
+De 101 a 150 m2
+
+Salarios Mínimos
+
+Comercial 16
+
+Industrial 6
+
+Agropecuario 10
+
+De servicio 7
+
+De 151 a 200 m2
+
+Salarios Mínimos
+
+Comercial 18
+
+Industrial 18
+
+Agropecuario 15
+
+De servicio 8
+
+De 201 a 300 m2
+
+Salarios Mínimos
+
+Comercial 20
+
+Industrial 20
+
+Agropecuario 10
+
+De servicio 10
+
+De 301 a 500 m2
+
+Salarios Mínimos
+
+Comercial 25
+
+Industrial 25
+
+Agropecuario 20
+
+De servicio 15
+
+De 501 a 1,000 m2
+
+Salarios Mínimos
+
+Comercial 30
+
+Industrial 30
+
+Agropecuario 20
+
+De servicio 20
+
+Más de 1,001 m2
+
+Salarios Mínimos.
+
+Comercial 50
+
+Industrial 50
+
+Agropecuario 40
+
+De servicio 30
 
 ### CAPITULO IX. DERECHOS POR LA EXPEDICION DE LICENCIAS DE DEMOLICION DE EDIFICACIONES
 
@@ -1183,33 +1839,115 @@ De servicio " 150.00 por m2.
 
 Los derechos a que se refiere este capítulo, se causarán cuando se expidan licencias por las autoridades municipales para demolición de construcciones.
 
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 124.
 
-Los derechos a que se refiere el artículo anterior se calcularán sobre la superficie horizontal total que resulte de sumar las superficies horizontales parciales correspondientes a cada uno de los pisos que cubran las construcciones que han de demolerse de conformidad con la siguiente:
+Los derechos a que se refiere el artículo anterior se calcularán sobre la superficie horizontal total que resulte de sumar las superficies horizontales correspondientes a cada uno de los pisos que cubran las construcciones que han de demolerse, de conformidad con la siguiente:
 
 T A R I F A
 
-Si el terreno es de uso.
+Si el terreno es de uso:
 
 Habitacional de categoría:
 
-Residencial $ 75.00 por m2.
+De 1 a 50 m2
 
-Medio " 45.00 por m2.
+Salarios Mínimos
 
-De interés social " 27.00 por m2.
+Residencial 8
 
-Popular o campestre " 15.00 por m2.
+Medio 6
+
+Interés Social 5
+
+Popular 4
+
+De 51 a 100 m2
+
+Salarios Mínimos
+
+Comercial 10
+
+Industrial 8
+
+Agropecuario 6
+
+De servicio 5
+
+De 101 a 200 m2
+
+Salarios Mínimos
+
+Comercial 8
+
+Industrial 8
+
+Agropecuario 2
+
+De servicio 3
+
+Más de 201 m2
+
+Salarios Mínimos
+
+Comercial 15
+
+Industrial 12
+
+Agropecuario 8
+
+De servicio 6
 
 Si el terreno es de uso:
 
-Comercial $ 45.00 por m2.
+De 1 a 50 m2
 
-Industrial " 27.00 por m2.
+Salarios Mínimos
 
-Agropecuario " 15.00 por m2.
+Comercial 10
 
-De servicio " 45.00 por m2.
+Industrial 10
+
+Agropecuario 4
+
+De servicio 8
+
+De 51 a 100 m2
+
+Salarios Mínimos
+
+Comercial 15
+
+Industrial 15
+
+Agropecuario 5
+
+De servicio 10
+
+De 101 a 200 m2
+
+Salarios Mínimos
+
+Comercial 20
+
+Industrial 20
+
+Agropecuario 10
+
+De servicio 12
+
+Más de 200 m2
+
+Salarios Mínimos
+
+Comercial 25
+
+Industrial 25
+
+Agropecuario 20
+
+De servicio 10
 
 ### CAPITULO X. DERECHOS POR LA EXPEDICION DE LICENCIAS DE REPARACION O RECONSTRUCCION DE EDIFICACIONES
 
@@ -1217,9 +1955,11 @@ De servicio " 45.00 por m2.
 
 Los derechos a que se refiere este capítulo, se causarán cuando se expidan licencias por las Autoridades Municipales para obras de reparación o reconstrucción de edificaciones.
 
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 126.
 
-Los derechos a que se refiere el artículo anterior, se pagarán calculándolos sobre la superficie de las sumas de las superficies parciales cubiertas por construcciones correspondientes a cada uno de los pisos del edificio que se reparen o reconstruyan, de conformidad con la siguiente:
+Los derechos a que se refiere el artículo anterior, se pagarán calculándolos sobre la superficie de la suma de las superficies parciales cubiertas por construcciones correspondientes a cada uno de los pisos del edificio que se reparen o reconstruyan, de conformidad con la siguiente:
 
 T A R I F A
 
@@ -1227,23 +1967,57 @@ Si el terreno es de uso:
 
 Habitacional de categoría:
 
-Residencial $ 125.00 por m2.
+De 1 a 50 m2
 
-Medio " 75.00 por m2.
+Salarios Mínimos
 
-De interés social " 45.00 por m2.
+Residencial 3
 
-Popular o campestre " 25.00 por m2.
+Medio 2
+
+Interés Social 1
+
+Popular 0.50
+
+De 51 a 100 m2
+
+Salarios Mínimos
+
+Residencial 5
+
+Medio 3
+
+Interés Social 2
+
+Popular 1
 
 Si el terreno es de uso:
 
-Comercial $ 75.00 por m2.
+De 1 a 50 m2
 
-Industrial " 45.00 por m2.
+Salarios Mínimos
 
-Agropecuario " 25.00 por m2.
+Comercial 4
 
-De servicio " 75.00 por m2.
+Industrial 4
+
+Agropecuario 0.50
+
+De servicio 2
+
+De 51 a 100 m2
+
+Salarios Mínimos
+
+Comercial 7
+
+Industrial 7
+
+Agropecuario 1
+
+De servicio 3
+
+Más de 101 m2 será considerada como licencia de Construcción. (nueva obra)
 
 ### CAPITULO XI. DERECHOS POR LA EXPEDICION DE LICENCIAS PARA LA CONSTRUCCION DE BARDAS
 
@@ -1251,9 +2025,151 @@ De servicio " 75.00 por m2.
 
 Los derechos a que se refiere este capítulo se causarán cuando se expidan licencias por las autoridades municipales para la construcción de bardas.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 128.
 
-Los derechos a que se refiere el artículo anterior se pagarán calculándolos sobre el total de los metros lineales de la barda que se pretenda construir a razón de diez pesos por metro lineal.
+Los derechos a que se refiere el artículo anterior, se pagarán calculándose sobre el total de los metros lineales de la barda que se pretenda construir, de conformidad con la siguiente:
+
+T A R I F A
+
+Si el terreno es de uso:
+
+Habitacional de categoría:
+
+De 1 a 20 ML
+
+Salarios Mínimos
+
+Residencial 4
+
+Medio 3
+
+Interés Social 1
+
+Popular 1
+
+De 21 a 50 ML
+
+Salarios Mínimos
+
+Residencial 5
+
+Medio 4
+
+Interés social 3
+
+Popular 1.5
+
+De 51 a 100 ML
+
+Salarios Mínimos
+
+Residencial 6
+
+Medio 5
+
+Interés social 4
+
+Popular 2
+
+De 101 a 200 ML
+
+Salarios Mínimos
+
+Residencial 7
+
+Medio 6
+
+Interés social 5
+
+Popular 3
+
+De 2001 a 500 ML
+
+Salarios Mínimos
+
+Residencial 8
+
+Medio 7
+
+Interés social 6
+
+Popular 4
+
+Más de 500 ML
+
+Salarios Mínimos
+
+Residencial 9
+
+Medio 8
+
+Interés social 7
+
+Popular 5
+
+Si el terreno es de uso:
+
+De 1 a 20 ML
+
+Salarios Mínimos
+
+Comercial 5
+
+Industrial 5
+
+Agropecuario 1
+
+De servicio 3
+
+De 21 a 50 ML
+
+Salarios Mínimos
+
+Comercial 7
+
+Industrial 7
+
+Agropecuario 2
+
+De servicio 5
+
+De 101 a 200 ML
+
+Salario Mínimo
+
+Comercial 8
+
+Industrial 8
+
+Agropecuario 3
+
+De servicio 6
+
+De 201 a 500 ML
+
+Salario Mínimo
+
+Comercial 10
+
+Industrial 10
+
+Agropecuario 4
+
+De servicio 7
+
+De 500 ML
+
+Salario Mínimo
+
+Comercial 15
+
+Industrial 15
+
+Agropecuario 5
+
+De servicio 8
 
 ###### ARTICULO 129.
 
@@ -1265,9 +2181,11 @@ No se causará este derecho cuando la barda forme parte de la propia edificació
 
 Los derechos a que se refiere este capítulo se causarán cuando se expidan licencias por las autoridades municipales para construcciones no permanentes.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 131.
 
-Los derechos a que se refiere al artículo anterior, se pagarán calculándolos sobre el total de la superficie de terreno que ocupen las instalaciones propiamente dichas, más las áreas de circulación y seguridad que se refieran a razón de trescientos pesos por metro cuadrado.
+Los derechos a que se refiere el artículo anterior, se pagarán calculándolos sobre el total de la superficie de terreno que ocupen las instalaciones propiamente dichas, más las áreas de circulación y seguridad que se requieran a razón del importe de 0.25 salarios mínimos por metro cuadrado.
 
 ### CAPITULO XIII. DERECHOS POR LA EXPEDICION DE LICENCIAS PARA LA CONVERSION DEL REGIMEN DE PROPIEDAD A CONDOMINIO
 
@@ -1275,33 +2193,179 @@ Los derechos a que se refiere al artículo anterior, se pagarán calculándolos 
 
 Los derechos a que se refiere este capítulo se causarán cuando se expidan licencias para la conversión de cualquier régimen de la propiedad al régimen de propiedad en condominio.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 133.
 
-Los derechos a que se refiere el artículo anterior se pagarán calculándolos sobre la superficie total de las sumas de las superficies parciales cubiertas por construcciones correspondientes a cada uno de los pisos de que consta el edificio de conformidad con la siguiente:
+Los derechos a que se refiere el artículo anterior pagarán calculándolos sobre la superficie total de la suma de las superficies parciales cubiertas por construcciones correspondientes a cada uno de los pisos de que consta el edificio de conformidad con la siguiente:
 
-T A R I F A
+T A R I FA
 
-Si el terreno es de uso:
+Si el terreno es de uso;
 
 Habitacional de categoría:
 
-Residencial $ 250.00 por m2.
+De 1 a 100 m2
 
-Medio " 150.00 por m2.
+Salarios Mínimos
 
-De interés social " 90.00 por m2.
+Residencial 9
 
-Popular o campestre " 50.00 por m2.
+Medio 5
+
+Interés Social 3
+
+Popular 2
+
+De 101 a 200 m2
+
+Salarios Mínimos
+
+Residencial 12
+
+Medio 8
+
+Interés Social 5
+
+Popular 3
+
+De 201 a 300 m2
+
+Salarios Mínimos
+
+Residencial 15
+
+Medio 12
+
+Interés Social 8
+
+Popular 5
+
+De 301 a 400 m2
+
+Salarios Mínimos
+
+Residencial 20
+
+Medio 15
+
+Interés Social 12
+
+Popular 8
+
+De 401 a 500 m2
+
+Salarios Mínimos
+
+Residencial 25
+
+Medio 20
+
+Interés Social 5
+
+Popular 12
+
+De 501 a 1,000 m2
+
+Salarios Mínimos
+
+Residencial 30
+
+Medio 25
+
+Interés Social 20
+
+Popular 15
+
+Más de 1,000 m2
+
+Salarios Mínimos
 
 Si el terreno es de uso:
 
-Comercial $ 150.00 por m2.
+De 1 a 100 m2
 
-Industrial " 90.00 por m2.
+Salarios Mínimos
 
-Agropecuario " 50.00 por m2.
+Comercial 10
 
-De servicio " 150.00 por m2.
+Industrial 10
+
+Agropecuario 2
+
+De servicio 5
+
+De 101 a 200 m2
+
+Salarios Mínimos
+
+Comercial 15
+
+Industrial 15
+
+Agropecuario 3
+
+De servicio 8
+
+De 201 a 300 m2
+
+Salarios Mínimos
+
+Comercial 20
+
+Industrial 20
+
+Agropecuario 5
+
+De servicio 12
+
+De 301 a 400 m2
+
+Salarios Mínimos
+
+Comercial 25
+
+Industrial 25
+
+Agropecuario 8
+
+De servicio 15
+
+De 401 a 500 m2
+
+Salarios Mínimos
+
+Comercial 30
+
+Industrial 30
+
+Agropecuario 12
+
+De servicio 20
+
+De 501 a 1,000 m2
+
+Salarios Mínimos
+
+Comercial 35
+
+Industrial 35
+
+Agropecuario 15
+
+De servicio 25
+
+Más de 1,000 m2
+
+Salarios Mínimos
+
+Comercial 40
+
+Industrial 40
+
+Agropecuario 20
+
+De servicio 30
 
 ### CAPITULO XIV. DERECHOS POR SERVICIOS DEL REGISTRO CIVIL
 
@@ -1311,21 +2375,41 @@ Por los servicios prestados por el Registro Civil, se causarán derechos, confor
 
 T A R I F A
 
-I.- Por la expedición de copias de actas del Registro Civil, incluyendo el papel sellado, por cada hoja:
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
-a).- Ordinarias hasta $ 100.00
+I.-Por la expedición de copias de actas de Registro Civil, incluyendo el papel sellado, por cada hoja:
 
-b).- Urgentes hasta " 300.00
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
-II.- Por servicios extraordinarios que se efectúen fuera del Registro Civil:
+a).- Ordinarias hasta 0.50 salarios mínimos.
 
-a).- Registros de nacimientos, a domicilio de $ 100.00 a " 500.00
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
-b),- Celebración de matrimonios, a domicilio de $ 1,000.00 a " 5,000.00
+b).- Urgentes, hasta 1 salario mínimo.
 
-III.- Por expedición de certificados de vecindad, de $ 50.00 a " 150.00
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
-IV.- Por otros actos similares, hasta " 1,500.00
+II.-Por servicios extraordinarios que se efectúen fuera del Registro Civil.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
+a).- Registro de nacimiento, a domicilio de 1.5 a 15 salarios mínimos.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
+b).- Celebración de matrimonios a domicilio de 7 a 15 salarios mínimos.
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
+c).- Celebración de matrimonios en salones de fiestas 20 salarios mínimos.
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
+III.-Por expedición de certificados de vecindad, 0.50 salarios mínimos.
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
+IV.-Por otros actos similares, hasta 0.50 salarios mínimos.
 
 ### CAPITULO XV. DERECHOS POR EXPEDICION DE CERTIFICADOS, CERTIFICACIONES Y COPIAS DE DOCUMENTOS
 
@@ -1337,21 +2421,21 @@ Será objeto de los derechos a que se refiere este capítulo, la expedición de 
 
 Los derechos a que se refiere el artículo anterior, se causarán y pagarán en la Tesorería del Municipio que preste el servicio, conforme a la siguiente:
 
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
 T A R I F A
 
-I.- Certificados o certificaciones expedidos por funcionarios o empleados municipales, incluyendo la busca de datos para expedirlos, por cada certificación, de $ 20.00 a $ 100.00
+I.- Certificado o certificaciones expedidos por funcionarios o empleados municipales incluyendo la busca de datos para expedirlos, por cada certificado, de 0.50 a 1 salario mínimo.
 
-II.- Copias de documentos que obren en los archivos de las oficinas municipales:
+II.-Copias de documentos que obren en los archivos de oficinas municipales:
 
-a).- Por hoja escrita a doble espacio por ambas caras, de $ 20.00 a " 60.00
+a).- Por hoja escrita a doble espacio en ambas caras, 0.25 salarios mínimos.
 
-b).- Por hoja que indica el inciso anterior, escrita a un espacio por las dos caras, de $ 30.00 a "120.00
+b).- Por hoja que indica el inciso anterior, escrita a un espacio por ambas caras, 0.30 salarios mínimos.
 
-c).- En los casos a que se refieren las fracciones anteriores, cuando se escriba por una sola cara de la hoja, de $ 10.00 a $ 30.00
+c).- En los casos a que se refieren las fracciones anteriores, cuando se escriba por una sola cara de la hoja, 0.25 salarios mínimos.
 
-En el caso a que se refiere esta fracción, además de los derechos que establecen los incisos que anteceden, se cobrará por la busca de los documentos de los que deba sacarse copia cuando el interesado no proporcione los datos exactos para su localización, por cada año que comprenda la busca $ 50.00
-
-III.- En el caso de la fracción anterior si la copia es certificada, además de los derechos que dicha fracción señala, se causarán los que fija la fracción I.
+En el caso a que se refiere esta fracción, además de los derechos que establecen los incisos que anteceden, se cobrará por la busca de los documentos de los que deba sacarse copia cuando el interesado no proporcione los datos exactos para su localización, por cada año que comprenda la busca, 0.25 salarios mínimos.
 
 ###### ARTICULO 137.
 
@@ -1361,9 +2445,211 @@ Los certificados de insolvencia.
 
 ### CAPITULO XVI. DERECHOS POR DESLINDE DE PREDIOS URBANOS DE PARTICULARES HECHOS POR PERITOS DE LOS AYUNTAMIENTOS
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 138.
 
-Los derechos a que se refiere este capítulo por deslinde de predios urbanos, practicado por peritos designados por los Ayuntamientos, a solicitud de sus propietarios o poseedores se causarán por cada metro cuadrado o fracción de la superficie del terreno deslindado, de $ 10.00 a $ 50.00.
+Los derechos a que se refiere este Capítulo por deslinde de predios urbanos, practicado por peritos designados por los Ayuntamientos, a solicitud de sus propietarios o poseedores se causarán por cada metro cuadrado o fracción de la superficie del terreno deslindado, de conformidad con la siguiente:
+
+T A R I F A
+
+Si el terreno es de uso:
+
+Habitacional de categoría:
+
+De 1 a 200 m2
+
+Salarios Mínimos
+
+Residencial 3
+
+Medio 3
+
+Interés social 2
+
+Popular 1.5
+
+De 201 a 300 m2
+
+Salarios Mínimos
+
+Residencial 4
+
+Medio 4
+
+Interés social 3
+
+Popular 2
+
+De 301 a 500 m2
+
+Salarios Mínimos
+
+Residencial 8
+
+Medio 8
+
+Interés social 5
+
+Popular 3
+
+De 501 a 1,000 m2
+
+Salarios Mínimos
+
+Residencial 12
+
+Medio 10
+
+Interés social 8
+
+Popular 6
+
+De 1,000 a 3,000 m2
+
+Salarios Mínimos
+
+Residencial 50
+
+Medio 40
+
+Interés social 15
+
+Popular 12
+
+De 3001, a 5,000 m2
+
+Salarios Mínimos
+
+Residencial 50
+
+Medio 40
+
+Interés social 15
+
+Popular 12
+
+De 5,001 a 10,000 m2
+
+Salarios Mínimo
+
+Residencial 80
+
+Medio 70
+
+Interés social 20
+
+Popular 15
+
+De 10,001 m2
+
+Salarios Mínimos
+
+Residencial 100
+
+Medio 90
+
+Interés social 25
+
+Popular 20
+
+Si el terreno es de uso:
+
+De 1 a 200 m2
+
+Salarios Mínimos
+
+Comercial 4
+
+Industrial 4
+
+Agropecuario 1.5
+
+De servicio 3
+
+De 201 a 300 m2
+
+Salarios Mínimos
+
+Comercial 6
+
+Industrial 6
+
+Agropecuario 2
+
+De servicio 4
+
+De 301 a 500 m2
+
+Salarios Mínimo
+
+Comercial 8
+
+Industrial 8
+
+Agropecuario 3
+
+De servicio 8
+
+De 501 a 1,000 m2
+
+Salarios Mínimos
+
+Comercial 12
+
+Industrial 12
+
+Agropecuario 6
+
+De servicio 10
+
+De 1,001 a 3, 000 m2
+
+Salarios Mínimos
+
+Comercial 15
+
+Industrial 15
+
+Agropecuario 8
+
+De servicio 20
+
+De 3,001 a 5,000 m2
+
+Salarios mínimos
+
+Comercial 30
+
+Industrial 50
+
+Agropecuario 12
+
+De servicio 40
+
+De 5001, a 10,000 m2
+
+Salarios Mínimos
+
+Comercial 60
+
+Industrial 60
+
+Agropecuario 15
+
+De servicio 70
+
+Más de 10,001 m2
+
+Salarios Mínimos
+
+Comercial 120
+
+Industrial 120
+
+Agropecuario 20
+
+De servicio 90
 
 ###### ARTICULO 139.
 
@@ -1657,13 +2943,15 @@ La renta por la ocupación de casillas o sitios dentro de los mercados públicos
 
 En el caso a que se refiere el párrafo anterior, la renta deberá ser pagada como lo señala el artículo 18; y conforme a la siguiente
 
-T A R I F A :
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
-I.- Casillas o sitios en el interior de los mercados públicos municipales, por cada metro cuadrado o fracción ocupada, por día de $5.00 a $ 80.00
+T A R I F A
 
-II.- Puestos permanentes en la vía pública, por cada metro cuadrado de superficie ocupada, diariamente de $2.50 a 40.00
+I.- Casillas o sitios en el interior de los mercados públicos municipales, por cada metro cuadrado o fracción ocupada, por día, de 0.01 a 0.05 salarios mínimos.
 
-III.- Puestos instalados transitoriamente en la vía o en otros lugares públicos propiedad del municipio, en los días de plaza o durante la celebración de ferias, diariamente por cada metro cuadrado o fracción de superficie ocupada de $5.00 a 150.00
+II.- Puestos en la vía pública, por cada metro cuadrado de superficie ocupada diariamente, de 0.01 a 0.05 salarios mínimos.
+
+III.- Puestos instalados transitoriamente en la vía o en otros lugares públicos propiedad del municipio, en los días de plaza o durante celebraciones de ferias, diariamente por cada metro cuadrado o fracción de superficie ocupada, de 0.05 a 0.125 salarios mínimos.
 
 ### CAPITULO UNICO. PARTICIPACIONES
 
@@ -1703,17 +2991,35 @@ Cuando así se estipule en los contratos respectivos y en los casos en que los d
 
 Los bienes embargados por las autoridades municipales que se depositen en almacenes o locales pertenecientes al Municipio, cuando no se retiren después de cinco días siguientes a la fecha en que queden a disposición del adquirente o del deudor contra quien se hubiese seguido el procedimiento económico-coactivo, así como los bienes depositados por cualquier otra causa en los mismos locales, causarán por concepto de almacenaje la cuota que señala la siguiente
 
-T A R I F A:
+T A R I F A
 
-I.- Por una superficie de 5 metros cuadrados o fracción, que ocupen los bienes almacenados, hasta una altura de 2 metros, por día de $5.00 a $ 50.00
+> <small>(REFORMADA,G.O. 30 DE DICIEMBRE DE1998)</small>
 
-II.- La cuota a que se refiere la fracción anterior, se aumentará por cada metro cuadrado de superficie excedente o cuando la altura del espacio ocupado sea mayor de 3 metros en la cantidad de $2.50 a 25.00
+I.- Por una superficie de un metro cuadrado o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por un día de $15.00 a $100.00
 
-III.- Los semovientes depositados en predios propiedad de los Municipios, diariamente, por cabeza de $5.00 a 50.00
+> <small>(ADICIONADA,G.O. 30 DE DICIEMBREDE1998)</small>
 
-Además de las cuotas que señala esta fracción, se cobrará el importe de la manutención y el gasto del cuidado de los animales depositados.
+II.-Por una superficie de dos metros cuadrados o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por día de $30.00 a $200.00
 
-Si los bienes depositados son semovientes, el importe de las cuotas se fijará atendiendo a la superficie ocupada por cada animal y el importe del gasto por su cuidado.
+> <small>(ADICIONADA,G.O. 30 DE DICIEMBREDE1998)</small>
+
+III.-Por una superficie de tres metros cuadrados o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por día de $120.00 a $400.00
+
+> <small>(ADICIONADA,G.O. 30 DE DICIEMBREDE1998)</small>
+
+IV.-Por una superficie de cuadro metros cuadrados o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por día de $120.00 a $600.00
+
+> <small>(ADICIONADA,G.O. 30 DE DICIEMBREDE1998)</small>
+
+V.- Por una superficie de cinco metros cuadrados o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por día de $240.00 a $800.00
+
+> <small>(ADICIONADA,G.O. 30 DE DICIEMBREDE1998)</small>
+
+VI.- Las cuotas a que se refieren las fracciones anteriores, se aumentan por cada metro de superficie excedente o cuando la altura del espacio ocupado sea mayor de tres metros en la cantidad de $240.00 a $800.00
+
+> <small>(ADICIONADA,G.O. 30 DE DICIEMBREDE1998)</small>
+
+VII.- Los semovientes depositados en predios propiedad de los municipios, diariamente por cabeza de $500.00 a $2,000.00
 
 ###### ARTICULO 177.
 
@@ -1794,3 +3100,17 @@ La presente reforma entrará en vigor quince días después de su publicación e
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a la presente reforma.
+
+G.O. 30 DE DICIEMBRE DE 1989.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial" órgano del Gobierno del estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Publíquese en la "Gaceta Oficial" órgano del Gobierno del Estado.
