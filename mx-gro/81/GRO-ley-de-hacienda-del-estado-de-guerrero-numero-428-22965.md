@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-del-estado-de-guerrero-numero-428-22965"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-28"
-last_updated: "2002-12-24"
+last_updated: "2003-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE HACIENDA DEL ESTADO DE GUERRERO, NUMERO 428
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE 2003.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Guerrero, el viernes 28 de diciembre de 2001.
 
@@ -359,7 +359,9 @@ La oficina recaudadora podrá nombrar interventores para cada uno de los espect�
 
 Se exceptúan del pago de este impuesto las funciones de cine; así como, las representaciones teatrales, que se realicen con propósitos culturales, siempre que no persigan finalidades lucrativas.
 
-Las instituciones de asistencia y sin fines de lucro que organicen espectáculos públicos deberán solicitar por escrito a la Secretaría de Finanzas y Administración, la exención del pago del impuesto dentro de los 10 días anteriores a la fecha de la realización del mismo, anexando copia legible del o los contratos celebrados con los representantes de los participantes en el evento.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE 2003)</small>
+
+Las instituciones de asistencia social y beneficencia pública o privada, cuando sin fines de lucro organicen espectáculos públicos, deberán solicitar la exención del pago de este impuesto por escrito ante el Secretario de Fianzas y Administración, con 10 días de anticipación a la fecha de realización del mismo, anexando copia legible del o los contratos celebrados con los representantes de los participantes en el evento.
 
 ### CAPITULO IV
 
@@ -567,7 +569,9 @@ En el caso de personas morales para que los conceptos mencionados en este precep
 
 II.- Las erogaciones que efectúen:
 
-a) La Federación, Estado y Municipio. No quedan comprendidos en esta exención los cubiertos por los organismos públicos descentralizados, las empresas de participación estatal y las que se asemejan a éstas, así como los organismos públicos descentralizados del sector educación.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE 2003)</small>
+
+a).- El Estado y Municipio. No quedan comprendidos en esta exención los cubiertos por los organismos públicos descentralizados, las empresas de participación estatal y las que se asemejan a éstas, así como los organismos públicos descentralizados del sector educación.
 
 b) Instituciones de Beneficencia Pública o privada, siempre y cuando realicen actividades de fines asistencia social en cualquier tiempo o formas, así como actividades deportivas, culturales o sociales.
 
@@ -707,7 +711,9 @@ I.- Quienes por cualquier título, adquieran la propiedad, tenencia o uso del ve
 
 II.- Quienes reciban en consignación o comisión para su enajenación los vehículos objeto de este gravamen, hasta por el monto del crédito y sus accesorios que se hubieran dejado de pagar.
 
-III.- Las personas que en el ejercicio de sus funciones autoricen altas o cambio de placas, sin cerciorarse del pago del impuesto.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE 2003)</small>
+
+III.- Los servidores públicos que en el ejercicio de sus funciones expidan permisos o constancias para circular, autoricen altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado que no existan adeudos por este impuesto, correspondientes a los últimos cinco años.
 
 ###### ARTICULO 59.
 
@@ -777,9 +783,13 @@ Los derechos se causarán de conformidad con las tasas y tarifas que se establez
 
 Para la conversión de los factores a que se refiere esta Ley, cada uno de éstos deberá multiplicarse por el salario mínimo diario vigente determinado por la Comisión Nacional de Salarios Mínimos y publicados en el Diario Oficial de la Federación. El salario mínimo aplicable será el de la Zona A. El producto resultante será la cuota o tarifa a cobrar por cada uno de los conceptos referidos.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE 2003)</small>
+
 ###### ARTICULO 64.
 
-Tratándose de los derechos de control vehicular, los pagos deberán realizarse dentro de los tres primeros meses del ejercicio fiscal de que se trate.
+Tratándose de los derechos de control Vehicular, los pagos deberán realizarse dentro de los 3 primeros meses del ejercicio fiscal de que se trate, salvo en el caso de vehículos nuevos o importados, supuesto en que el derecho deberá pagarse a más tardar dentro de los 15 días siguientes a aquél en que se adquirió o importó el vehículo.
+
+Observando que para cualquier pago o trámites vehiculares, el contribuyente deberá tener su residencia dentro de la jurisdicción que se encuentra ubicada la agencia fiscal, demostrando esto a suficiencia documentalmente.
 
 ###### ARTICULO 65.
 
@@ -791,9 +801,11 @@ Ningún otro comprobante justificará el pago correspondiente.
 
 El funcionario o empleado público que preste algún servicio por el que se cause un derecho, en contravención a lo dispuesto en los artículos anteriores, será solidariamente responsable de su pago, sin perjuicio de las sanciones que procedan y destitución de su cargo sin responsabilidad para el Estado.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE 2003)</small>
+
 ###### ARTICULO 67.
 
-Están exentos del pago de Derechos, la Federación el Estado y los Municipios, salvo disposiciones expresas en contrario.
+Todas las personas físicas o morales, públicas o privadas, están obligadas al pago de derechos estatales. Unicamente estarán exentos el Gobierno del Estado y las personas que esta Ley exente de manera expresa.
 
 ###### ARTICULO 68.
 
@@ -825,9 +837,11 @@ Los Avalúos con Fines Fiscales formulados por los Peritos Valuadores inscritos 
 
 En los Avalúos para Fines Fiscales que se elaboren se utilizará el formato que determine la Secretaría de Finanzas y Administración del Gobierno del Estado, debiendo cumplir los requisitos establecidos en el Reglamento de Valuación Inmobiliaria con Fines Fiscales y del Registro de Peritos Valuadores del Estado de Guerrero.
 
-###### ARTÍCULO 73.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE 2003)</small>
 
-Los valores unitarios de suelo y de construcción que se utilicen en los avalúos con fines fiscales, serán autorizados por la Secretaría de Finanzas y Administración del Gobierno del Estado, mismos que serán elaborados con apoyo del Colegio de Valuadores Posgraduados de Guerrero, A. C. y serán objeto de actualización durante el primer mes de cada ejercicio fiscal.
+###### ARTICULO 73.
+
+Los valores unitarios de suelo y de construcción que se utilicen en los avalúos con fines fiscales, serán autorizados por la Secretaría de Finanzas y Administración del Gobierno del Estado, mismos que podrán ser elaborados con apoyo de las diferentes asociaciones legalmente constituidas que en materia de valuación inmobiliaria existen en la entidad, y serán objeto de actualización al inicio de cada ejercicio fiscal.
 
 ###### ARTÍCULO 74.
 
@@ -1265,6 +1279,36 @@ Por la autorización de los Servicios de Seguridad Privada:
 
 VEASE TABLA ANEXA
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE 2003)</small>
+
+###### ARTICULO 101
+
+BIS.- Por los servicios relacionados con el otorgamiento de permisos para la contratación de obras que afecten el derecho de vía de carreteras o caminos de jurisdicción estatal, se causarán derechos conforme a las siguientes tarifas.
+
+I.- Por el permiso para la construcción de accesos que afecten el derecho de carretera o camino local incluyendo la supervisión de la obra 14% sobre el costo de la obra.
+
+II.- Por el estudio técnico de planos, proyectos y memorias de obras y expedición de autorización para la construcción de obras e instalaciones marginales subterráneas o aéreas, para cables de redes de telecomunicación que se realicen dentro de los derechos de vía de carreteras o caminos o puentes locales, por cada Kilómetro 18.40
+
+III.- Por estudios técnicos de planos, proyectos y memorias de obra, para construcción de obras por cruzamientos superficiales, subterráneos o aéreos que atraviesen carreteras, caminos o puentes locales 30.78.
+
+IV.- Por el permiso para la instalación de anuncios publicitarios fuera del derecho de vía e instalación de señalamientos informativos dentro del derecho de vía de carreteras o caminos locales, se pagarán anualmente los derechos conforme a las cuotas que para cada caso a continuación se señalan:
+
+Anuncios publicitarios que tienen una superficie total hasta de 50 metros cuadrados 73.08.
+
+Anuncios publicitarios que tienen una superficie total de más de 50 metros cuadrados y de hasta 75 metros cuadrados 109.52.
+
+Señales informativas 109.61.
+
+V.- Por el permiso para llevar a cabo instalaciones marginales que afecten el derecho de vía de la carretera o camino local incluyendo la supervisión de obra, por cada cien metros 30.78.
+
+VI.- Por el permiso para llevar a cabo la realización de cruzamientos aéreos o subterráneos que afecten el derecho de vía de la carretera o camino local incluyendo la supervisión de obra, mismo que se pagará anualmente 30.78.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE 2003)</small>
+
+###### ARTICULO 101
+
+BIS-1.- Por el Registro y Acreditación como Director Responsable de Obra y/o Corresponsable de carácter estatal 41.3.
+
 ###### ARTICULO 102.
 
 Los diversos derechos no especificados en esta Ley se causarán aplicando los días de salario mínimo regional que determine la Secretaría de Finanzas y Administración, para el efecto, el pago resultante no excederá la tarifa aplicable a otro servicio con el cual tenga similitud, siempre y cuando no se oponga a lo dispuesto en el artículo 10-A de la Ley de Coordinación Fiscal.
@@ -1326,6 +1370,14 @@ b).- Impuesto sobre automóviles nuevos.
 c).- Por actos de fiscalización concurrente y verificación.
 
 d).- Por la regularización de automóviles extranjeros.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE 2003)</small>
+
+e).- Aplicación de los anexos 3 y 7 al Convenio de Colaboración Administrativa en Materia Fiscal Federal (Ley del I.S.R.: régimen de pequeños contribuyentes, régimen intermedio de las personas físicas con actividad empresarial, e ingresos por la enajenación de terrenos, construcciones o terrenos y construcciones).
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE 2003)</small>
+
+f).- Incentivos diversos.
 
 V.- Otros.
 
@@ -2252,3 +2304,9 @@ P.O. 24 DE DICIEMBRE DE 2002.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día primero de enero del año dos mil tres.
+
+P.O. 23 DE DICIEMBRE 2003.
+
+PRIMERO .- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día primero de enero del año dos mil cuatro.
