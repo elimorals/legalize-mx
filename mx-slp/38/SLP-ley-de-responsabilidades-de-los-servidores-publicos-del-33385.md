@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidades-de-los-servidores-publicos-del-33385"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-14"
-last_updated: "2003-08-14"
+last_updated: "2004-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2004.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de agosto de 2003.
 
@@ -759,33 +759,37 @@ La contravención a lo dispuesto por el párrafo anterior será causa de respons
 
 Los órganos de control de los poderes Legislativo, Ejecutivo y Judicial, así como de los ayuntamientos, en el ámbito de sus respectivas competencias y de acuerdo con sus registros, expedirán constancias que acrediten la inexistencia de inhabilitación, que serán exhibidas para los efectos pertinentes, por las personas que sean requeridas para desempeñar un empleo, cargo o comisión en el servicio público.
 
+> <small>(DEROGADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO CUARTO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
 ## TITULO CUARTO. DE LA REPARACION DE LOS DAÑOS Y PERJUICIOS
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO CUARTO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO UNICO
 
 ###### ARTICULO 95.
 
-Cuando en el procedimiento administrativo disciplinario se haya determinado la responsabilidad del servidor público, y que la falta administrativa haya causado daños y perjuicios a terceros, éstos podrán acudir a las dependencias o entidades respectivas, para que directamente reconozcan la responsabilidad de indemnizar la reparación del daño en cantidad líquida y, en consecuencia, ordenar el pago correspondiente, sin necesidad que aquéllos acudan a la instancia judicial o a cualquier otra.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 96.
 
-A fin de que el particular esté en condiciones de proceder en los términos del artículo que antecede, se le deberá notificar la resolución respectiva.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 97.
 
-Si el órgano del estado niega la indemnización, o si el monto no satisface al reclamante, éste podrá acudir en defensa de sus derechos al Tribunal Estatal de lo Contencioso Administrativo en los términos de la Ley de Justicia Administrativa, o presentar su reclamación en la vía judicial conforme a la legislación común.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 98.
 
-Cuando se haya aceptado una recomendación de la Comisión Nacional o Estatal de Derechos Humanos, en la que se proponga la reparación de daños y perjuicios, la autoridad competente se limitará a su determinación en cantidad líquida y ordenará el pago respectivo.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 99.
 
-El derecho de los particulares a solicitar la indemnización de daños y perjuicios, prescribirá en un año, a partir de la fecha en que se practique la notificación a que se refiere el artículo 96 de esta Ley.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 100.
 
-Las dependencias y entidades podrán repetir de los servidores públicos el pago de la indemnización hecha a los particulares.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 23 DE DICIEMBRE DE 2004)
 
 ## TITULO QUINTO. DEL REGISTRO Y EVALUACION PATRIMONIAL DE LOS SERVIDORES PUBLICOS
 
@@ -922,3 +926,17 @@ El Secretario General de Gobierno
 LIC. MARCO ANTONIO ARANDA MARTINEZ
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE DICIEMBRE DE 2004.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El gobierno del Estado, los ayuntamientos y demás entidades a que se refiere esta Ley, a partir del Ejercicio Fiscal 2005, incluirán en sus respectivos presupuestos, una partida para cubrir las indemnizaciones derivadas de su responsabilidad patrimonial.
+
+TERCERO. Considerando la importancia de la responsabilidad patrimonial del estado, los titulares de las entidades deberán contribuir a la adecuada difusión y debida comprensión de esta institución, así como los efectos presupuestales y el alcance de la repetición, con los perjuicios que ello significaría a los recursos públicos y al patrimonio privado de los servidores.
+
+CUARTO. Se deroga el Título Cuarto de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, publicada en el Periódico Oficial del Estado el 14 de agosto de 2003; así como todas las demás disposiciones legales y reglamentarias que se opongan a este Ordenamiento.
+
+QUINTO. Los asuntos que en materia de reparación de daños y perjuicios por responsabilidad administrativa de los servidores públicos, que se encuentren en trámite en las entidades, serán resueltos por las autoridades competentes, en los términos de las disposiciones vigentes en la fecha en que inició el procedimiento administrativo correspondiente.
