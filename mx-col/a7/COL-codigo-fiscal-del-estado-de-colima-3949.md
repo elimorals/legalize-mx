@@ -4,7 +4,7 @@ identifier: "COL-codigo-fiscal-del-estado-de-colima-3949"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-26"
-last_updated: "1984-06-02"
+last_updated: "1984-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO FISCAL DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JUNIO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1984.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1981.
 
@@ -61,13 +61,13 @@ Los ingresos se dividen en ordinarios y extraordinarios.
 
 Son ingresos ordinarios los impuestos, derechos, contribuciones especiales, productos, aprovechamientos y las participaciones.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1984)</small>
+
 ###### ARTICULO 4.
 
 Ningún tributo podrá recaudarse si no está previsto en la Ley de Ingresos o en una posterior a ella.
 
-Las obligaciones fiscales derivadas de la Ley de Ingresos o de otras Leyes, se originarán cuando se realicen las situaciones que coincidan con las que las Leyes señalen, aun cuando aquéllas constituyan infracciones a disposiciones legales.
-
-En este último caso, la exigibilidad o cumplimiento de las obligaciones fiscales, no legitimará esos hechos o circunstancias.
+Las obligaciones fiscales derivadas de la aplicación de la Ley de Ingresos o de otras Leyes, se originarán cuando se realicen las situaciones que coincidan con las que las Leyes señalen.
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 1984)</small>
 
@@ -129,9 +129,11 @@ IV.- La Ley de Catastro.
 
 La aplicación de los textos legales a que se refiere este Artículo le corresponderá al Ejecutivo del Estado por conducto de la Tesorería General y demás autoridades administrativas que prevengan las leyes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1984)</small>
+
 ###### ARTICULO 15.
 
-La facultad reglamentaria en materia fiscal corresponde al Gobernador del Estado. Toca al propio funcionario la interpretación fiscal administrativa de las leyes u Ordenamientos de la materia en los casos deudosos que se le sometan a su consideración.
+La facultad reglamentaria en materia fiscal corresponde al Gobernador del Estado. Toca al propio funcionario, por conducto de la Tesorería General, la interpretación administrativa de las disposiciones fiscales y el reconocimiento de las exenciones en la materia.
 
 El Ejecutivo del Estado por acuerdo del Congreso y por conducto de la Tesorería General del Estado, podrá suprimir, modificar o adicionar en las Leyes tributarías las disposiciones relativas a la administración, control, plazo, y forma de pago y procedimiento, sin variar las relativas al sujeto, objeto, base, cuota, tasa o tarifa del gravamen, infracciones o sanciones.
 
@@ -139,9 +141,9 @@ El Ejecutivo del Estado por acuerdo del Congreso y por conducto de la Tesorería
 
 Sólo mediante Ley podrá afectarse un ingreso estatal a un fin especial.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1984)</small>
 
-ARTICULO 16 BIS.- Son autoridades Fiscales del Estado, el Titular del Poder Ejecutivo; el Tesorero General del Estado, el Director de Ingresos; los Receptores de Rentas, así como el Director de Catastro dependientes de la propia Tesorería General del Estado.
+ARTICULO 16 BIS.- Son autoridades fiscales del Estado el Titular del Poder Ejecutivo, el Tesorero General del Estado, el Director de Ingresos, el Director de Auditoría Fiscal, el Director de Catastro y los Receptores de Rentas, dependientes de la propia Tesorería del Estado.
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 1984)</small>
 
@@ -169,7 +171,7 @@ I.- Los créditos del Gobierno Estatal provenientes de impuestos, derechos, prod
 
 Para que sea aplicable la excepción a que se refiere el párrafo anterior, será requisito indispensable que las garantías hipotecarias y, en su caso, las prendarias, se encuentren debidamente inscritas en el Registro Público que corresponda y, respecto de los créditos por alimentos, que se haya presentado la demanda ante las autoridades competentes, antes de que se hubiere notificado al deudor el crédito fiscal, y
 
-II.- La vigencia y la ezigibilidad (sic) por la cantidad líquida del derecho de crédito cuya preferencia se invoque, deberá comprobarse en forma fehaciente al hacerse valer la terciería (sic) correspondiente.
+II.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1984)
 
 ###### ARTICULO 20.
 
@@ -179,7 +181,9 @@ Las normas de Derecho Tributario que establezca cargas a los particulares y las 
 
 Las obligaciones y los créditos fiscales a que este Código se refiere podrán garantizarse en alguna de las formas siguientes:
 
-I.- Depósito de dinero en la Institución de crédito que legalmente corresponda:
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1984)</small>
+
+I.- Depósito en dinero ante la Tesorería General del Estado.
 
 II.- Prenda o hipoteca;
 
@@ -189,7 +193,9 @@ IV.- Secuestro en la vía administrativa, y
 
 V.- Obligación solidaria asumida por tercero que compruebe su idoneidad y solvencia.
 
-La garantía de un crédito fiscal deberá comprender la de los posibles recargos y gastos de ejecución.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1984)</small>
+
+La garantía de un crédito fiscal deberá comprender además del crédito fiscal insoluto, los posibles recargos y gastos de ejecución y otros accesorios legales.
 
 La Tesorería General del Estado dictará las reglas sobre los requisitos que deban reunir las garantías, vigilará que sean suficientes tanto en el momento de su aceptación como con posterioridad, y, si no lo fueren, exigirá su ampliación o procederá al secuestro de otros bienes.
 
@@ -393,6 +399,10 @@ El pago de los créditos fiscales deberá hacerse en efectivo, salvo que las dis
 
 Los giros postales, telegráficos o bancarios y los cheques certificados se admitirán como efectivos.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1984)</small>
+
+En el pago de créditos fiscales, podrán recibirse cheques personales solo del sujeto del crédito, a juicio de la autoridad fiscal. En caso de que el cheque sea devuelto por la institución bancaria, la Tesorería podrá exigir al contribuyente, a través del procedimiento administrativo de ejecución, el pago del importe del cheque, junto con la indemnización del 20% del importe del mismo a que se refiere la Ley de Títulos y Operaciones de Crédito, así como los accesorios legales respectivo (sic), sin perjuicio de la acción penal que pudiera intentarse en contra del contribuyente que giró el cheque.
+
 ###### ARTICULO 34.
 
 Cuando el crédito fiscal esté constituido por diversos conceptos, los pagos que haga el deudor se aplicarán a cubrirlos en el siguiente orden:
@@ -595,6 +605,14 @@ XIX.- No conservar los libros, documentos y correspondencia que le sean dejados 
 
 XX.- Violar otras disposiciones fiscales en forma no prevista en las fracciones precedentes, multa de $100.00 a $10,000.00
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1984)</small>
+
+XXI.- En el supuesto del Artículo 131 de la Ley de Hacienda del Estado, por cada cabeza de ganado, multa de:
+
+a).- $ 1,000.00, si es ganado mayor.
+
+b).- $ 800.00, si es ganado menor.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 50.
@@ -715,7 +733,9 @@ VIII.- No enterar total o parcialmente, dentro de los plazos que establezcan las
 
 IX.- Presentar los documentos relativos al pago de las prestaciones retenidas, alterados, falsificados, incompletos o con errores que traigan consigo la evasión parcial o total de las mismas prestaciones, multa de $100.00 a $10,000.00.
 
-X.- Adquirir, ocultar, retener o enajenar, productos, mercancías o artículos, a sabiendas de que no se cubrieron los impuestos que en relación con los mismos se hubiera debido pagar, multa de $1,000.00 a $100,000.00;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1984)</small>
+
+X.- Adquirir, ocultar, retener o enajenar productos, mercancías o artículos, a sabiendas de que no se cubrieron los impuestos que en relación con los mismos se generaron, multa de $1,000.00 a $100,000.00;
 
 XI.- Hacer pagos y aceptar documentos que los comprueben cuando derivándose de hechos que generen el gravamen no se haya cumplido con el pago de la prestación fiscal, o no se acredite su regular cumplimiento de acuerdo con las disposiciones fiscales, multa de $10.00 a $1,000.00;
 
@@ -743,15 +763,15 @@ En cuanto a los delitos tipificados en los Artículos 56, 62, 63 y 66 se requeri
 
 Dicha Tesorería sólo podrá pedir el sobreseimiento si el procesado paga las prestaciones fiscales originadas por el hecho imputado, o si a juicio de la propia Tesorería ha quedado garantizado el interés de la Hacienda Pública.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1984)</small>
+
 ###### ARTICULO 54.
 
-En los delitos fiscales la autoridad judicial no impondrá sanción pecuniaria; las autoridades administrativas, con arreglo a las leyes fiscales, harán efectivos los impuestos eludidos y las sanciones administrativas correspondientes.
-
-Para que proceda la condena condicional cuando se incurra en delitos fiscales además de los requisitos señalados en el Código Penal del Estado, será preciso acreditar que el interés fiscal esté satisfecho o garantizado.
+En los delitos fiscales la autoridad judicial no impondrá sanción pecuniaria; las autoridades administrativas, con arreglo a las Leyes Fiscales, harán efectivos los impuestos aludidos y las sanciones administrativas correspondientes.
 
 ###### ARTICULO 55.
 
-En todo lo no previsto en el presente título serán aplicables las reglas consignadas en el Código Penal.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1984)
 
 ###### ARTICULO 56.
 
@@ -915,9 +935,9 @@ c).- La clausura temporal del negocio.
 
 d).- La denuncia respectiva por desobediencia a un mandato legítimo de autoridad competente, y
 
-> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 1984)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1984)</small>
 
-e).- Embargar precautoriamente los bienes a la negociación cuando el contribuyente no atienda tres requerimientos de la autoridad por una misma omisión; el embargo quedará sin efecto cuando el contribuyente cumpla con la obligación de que se trata o dos meses después de practicado el embargo si la obligación no es cumplida y la autoridad fiscal no inicia el ejercicio de sus facultades de comprobación.
+e).- Embargar precautoriamente los bienes de la negociación cuando el contribuyente no atienda a tres requerimientos de la autoridad por una misma omisión; el embargo quedará sin efecto cuando el contribuyente cumpla con la obligación de que se trata o dos meses después de practicado el embargo, si la obligación no es cumplida y la autoridad fiscal no continuó el procedimiento administrativo de ejecución.
 
 VII.- Allegarse las pruebas necesarias para denunciar al Ministerio Público la posible comisión de delitos fiscales o, en su caso, para formular la querella respectiva. Las actuaciones que practique la Tesorería General del Estado tendrán el mismo valor probatorio que el que la Ley relativa concede a las actas de la Policía Judicial; y la propia Tesorería, a través de los agentes hacendarios que designe, será coadyuvante del Ministerio Público, en los términos de este Código y del de Procedimientos Penales del Estado.
 
@@ -961,7 +981,9 @@ e).- Cuando los documentos carezcan total o parcialmente de los requisitos que p
 
 V.- Los visitadores harán constar en el acta los hechos u omisiones observados. Las opiniones de los visitadores sobre el cumplimiento o incumplimiento de las disposiciones fiscales o sobre la situación financiera del visitado, no producirán efectos de resolución fiscal.
 
-VI.- Al concluirse la visita se levantará acta en la que se harán constar los resultados en forma circunstanciada. El visitado o cualquiera de sus empleados podrá expresar en el acta si está conforme con su contenido o los motivos de su inconformidad, expresados en forma también circunstanciada, a efecto de hacer valer el recurso de incoformidad;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1984)</small>
+
+VI.- Al concluirse la visita, se levantará acta en la que se harán constar los resultados en forma circunstanciada. El visitado o cualquiera de sus empleados podrá expresar en el acto si está conforme con su contenido o los motivos de su inconformidad, expresados en forma también circunstanciada;
 
 VII.- El visitado, los testigos y los visitadores firmarán el acta. Si el visitado o los testigos se niegan a firmar, así lo harán constar los visitadores sin que esta circunstancia afecte el valor probatorio del documento. Un ejemplar del acta se entregará en todo caso al visitado o a la persona con la que se entienda la diligencia, y
 
@@ -975,7 +997,9 @@ En caso de que no se formule inconformidad, no se ofrezcan pruebas o no se rinda
 
 Los hechos afirmados en los dictámenes que formulen contadores públicos sobre los estados financieros y su relación con las declaraciones fiscales, se presumirán ciertos, salvo prueba en contrario, si se reúnen los siguientes requisitos:
 
-I.- Que el contador público que dictamine esté registrado en la Tesorería General del Estado. Se inscribirá para estos efectos a las personas de nacionalidad mexicana que tengan título de contador público, legalmente expedido.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1984)</small>
+
+I.- Que el Contador Público que dictamine esté registrado en la Tesorería General del Estado. Se inscribirá para estos efectos a las personas de nacionalidad mexicana que tengan título de Contador Público, legalmente expedido y registrado en Colegio de Contadores, reconocido oficialmente.
 
 II.- Que el dictamen se formule conforme a las normas de auditoría generalmente aceptadas y que se incluyan las informaciones adicionales exigidas por las disposiciones fiscales. La Tesorería General del Estado podrá cerciorarse mediante revisión y pruebas selectivas, del cumplimiento de esta fracción.
 
@@ -1193,9 +1217,9 @@ III.- Los motivos y fundamentos por lo que se le considera responsable del créd
 
 IV.- El plazo para el pago que será de quince días, salvo que la Ley señale otro.
 
-#### SECCION II
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DICIEMBRE DE 1984)</small>
 
-SECUESTRO ADMINISTRATIVO.
+#### SECCION II. EMBARGO
 
 ###### ARTICULO 100.
 
@@ -1233,7 +1257,9 @@ En el caso de la fracción IV del Artículo que antecede, quien realice el acto 
 
 El deudor o, en su defecto, la persona con quien se entienda la diligencia, tendrá derecho a que en ésta intervengan dos testigos y a designar los bienes que deban embargarse siempre que se sujete al orden siguiente:
 
-I.- Los bienes inmuebles o la negociación en los casos a que se refiere el Artículo 21 fracción IV, y
+> <small>(REFORMADA [N. DE E. EN EL EXTRACTO DEL DECRETO DE REFORMAS NO APARECE SEÑALADA LA PRESENTE FRACCION, SIN EMBARGO, SE ENCUENTRA TRANSCRITA EN EL TEXTO DEL MISMO], P.O. 29 DE DICIEMBRE DE 1984)</small>
+
+I.- La negociación en los casos a que se refiere el Artículo 21 fracción IV, y
 
 II.- En los demás casos:
 
@@ -1249,7 +1275,7 @@ e).- Bienes muebles no comprendidos en los incisos anteriores.
 
 f).- Bienes raíces.
 
-g).- Negociaciones comerciales, industriales o agropecuarias, y de pesca.
+g).- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1984)
 
 ###### ARTICULO 103.
 
@@ -1263,11 +1289,11 @@ a).- Bienes ubicados fuera de la circunscripción de la Receptoría de Rentas ej
 
 b).- Bienes que ya reportaren cualquier gravamen real.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1984)</small>
+> <small>(REFORMADO [N. DE E. EN EL EXTRACTO DEL DECRETO DE REFORMAS NO APARECE SEÑALADO EL PRESENTE ARTICULO, SIN EMBARGO, SE ENCUENTRA TRANSCRITO EN EL TEXTO DEL MISMO], P.O. 29 DE DICIEMBRE DE 1984)</small>
 
 ###### ARTICULO 104.
 
-Si al estarse practicando la diligencia de embargo el deudor hiciere el pago del crédito y de los accesorios causados, el ejecutor suspenderá dicha diligencia y lo acompañará a la Oficina Recaudadora correspondiente, haciendo constar el pago en acta entregándole copia para constancia.
+Si al practicarse la diligencia de embargo, el deudor hiciere el pago del crédito y de los accesorios causados, el ejecutor suspenderá dicha diligencia y lo acompañará a la Oficina Receptora correspondiente, haciendo constar el pago en acta, entregándole copia para constancia.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JUNIO DE 1984)</small>
 
@@ -1327,9 +1353,11 @@ Tratándose del embargo de toda clase de negociaciones, podrá secuestrarse hast
 
 Cuando la Tesorería General del Estado estime que no se encuentra suficientemente garantizado el interés fiscal, podrá ordenar por conducto de la Dirección de Ingresos el embargo de un porcentaje mayor.
 
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. EN EL EXTRACTO DEL DECRETO DE REFORMAS NO APARECE SEÑALADO EL PRESENTE PARRAFO, SIN EMBARGO, SE ENCUENTRA TRANSCRITO EN EL TEXTO DEL MISMO], P.O. 29 DE DICIEMBRE DE 1984)</small>
+
 ###### ARTICULO 109.
 
-El secuestro de créditos, será notificado personalmente por el ejecutor a los deudores del embargo para que hagan el pago de las cantidades respectivas en la caja de la Receptoría de Rentas ejecutora, apercibidos de doble pago en caso de desobediencia.
+El embargo de créditos, será notificado por el ejecutor a los deudores del embargo, para que hagan el pago de las cantidades respectivas en la caja de la Receptoría de Rentas Ejecutora, apercibidos de doble pago en caso de desobediencia.
 
 Llegado el caso de que un deudor, en cumplimiento de lo dispuesto en el primer párrafo de este Artículo, hiciere pago de un crédito cuya cancelación debe anotarse en el Registro Público de la Propiedad el jefe de la Receptoría de Rentas requerirá al acreedor embargado para que dentro de los cinco días siguientes a la notificación, firme la escritura de pago y cancelación o el documento en que debe constar el finiquito.
 
@@ -1437,17 +1465,25 @@ Sin embargo, las autoridades municipales y las no fiscales del Estado, que tenga
 
 La base para el remate de los bienes secuestrados será la que resulte de la valuación por peritos, cuyas designaciones se harán conforme a las siguientes reglas:
 
-I.- La Receptoría de Rentas que deba proceder al remate nombrará un perito y lo hará saber al interesado para que, de no estar conforme con la designación, nombre el suyo dentro del término de tres días;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1984)</small>
 
-II.- El deudor deberá ponerse de acuerdo con la Receptoría de Rentas sobre el nombramiento de un tercer perito, que intervendrá si hubiere desacuerdo entre los dos antes mencionados, y
+I.- La receptoría de Rentas que deba proceder al remate nombrará un perito para valuar los bienes embargados y una vez hecho lo anterior se procederá a notificar al interesado el resultado del avalúo quien de no impugnar el mismo en el término de tres días se estimará conforme con tal avalúo, el cual servirá de base para el remate de los bienes.
 
-III.- Si el deudor no se pone de acuerdo para los efectos de la fracción que antecede, con la Receptoría de Rentas ejecutora, ésta nombrará perito tercero a alguna institución fiduciaria.
+> <small>(REFORMADA [N. DE E. EN EL EXTRACTO DEL DECRETO DE REFORMAS NO APARECE SEÑALADA LA PRESENTE FRACCION, SIN EMBARGO, SE ENCUENTRA TRANSCRITA EN EL TEXTO DEL MISMO], P.O. 29 DE DICIEMBRE DE 1984)</small>
+
+II.- Si el embargado o terceros -acreedores se inconforman con el avalúo dentro de los tres días siguientes a aquel en que surta efecto la notificación a que se refiere el párrafo anterior, en el mismo escrito de inconformidad señalarán su perito quien procederá a realizar avalúo de los bienes.
+
+> <small>(REFORMADA [N. DE E. EN EL EXTRACTO DEL DECRETO DE REFORMAS NO APARECE SEÑALADA LA PRESENTE FRACCION, SIN EMBARGO, SE ENCUENTRA TRANSCRITA EN EL TEXTO DEL MISMO], P.O. 29 DE DICIEMBRE DE 1984)</small>
+
+III.- Si el deudor o terceros acreedores no se ponen de acuerdo para los efectos de la fracción que antecede, con la Receptoría de Rentas ejecutora, ésta discrecionalmente nombrará perito tercero a alguna Institución Nacional de Crédito, la que emitirá avalúo final que servirá de base al remate.
 
 ###### ARTICULO 124.
 
 El remate deberá ser convocado para una fecha fijada dentro de los treinta días siguientes a la determinación del precio que deberá servir de base.
 
-La publicación de la convocatoria se hará cuando menos diez días antes de la fecha del remate. La convocatoria se fijará en el sitio visible y usual de la Receptoría de Rentas ejecutora y en los lugares públicos que se juzgue convenientes cuando el valor de los bienes muebles o inmuebles exceda de $ 3,000.00 la convocatoria se publicará en el Periódico Oficial del Estado y en el periódico de mayor circulación, dos veces con intermedio de siete días.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1984)</small>
+
+La publicación de la convocatoria se hará cuando menos diez días antes de la fecha del remate. La convocatoria se fijará en sitio visible y usual de la Receptoría de Rentas ejecutora y en los lugares públicos que se juzgue conveniente a juicio de la Receptoría. Cuando el valor de los bienes exceda de cinco veces el salario mínimo de la Zona económica elevado al año, además se publicará en el Periódico Oficial del Estado y en el Periódico de mayor circulación, dos veces con intervalo de siete días.
 
 En todo caso, a petición del deudor y previo pago del costo, la autoridad ejecutora puede ordenar una publicidad más amplia, dentro del plazo señalado en el primer párrafo de este Artículo.
 
@@ -1497,15 +1533,15 @@ Fincado el remate de bienes muebles, se aplicará el depósito constituido y el 
 
 Tan pronto como el postor hubiere cumplido con los requisitos a que se refiere el párrafo anterior y el remate sea aprobado por la Tesorería General del Estado, si este requisito fuese necesario conforme al Artículo siguiente la Receptoría de Rentas ejecutora procederá a entregarle los bienes que le hubiere adjudicado.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1984)</small>
+
 ###### ARTICULO 133.
 
-Si los bienes rematados fueren raíces o muebles cuyo valor exceda de $ 2,000.00, la Receptoría de Rentas ejecutora, dentro de un plazo de cinco días enviará el expediente a la Tesorería General del Estado para que previa revisión apruebe el remate si el procedimiento se apegó a las normas que lo rigen. Si la resolución es negativa, al fincamiento que haya hecho la Receptoría de Rentas ejecutora quedará sin efecto y el postor sólo tendrá derecho a que se le devuelva el depósito que hubiere constituido.
+Si los bienes rematados fueren raíces o muebles cuyo valor exceda de $ 50,000.00, la Receptoría de Rentas ejecutora dentro de un plazo de cinco días enviará el Expediente a la Tesorería General del Estado para que previa revisión apruebe el remate si el procedimiento se apegó a las normas que lo rigen. Si la resolución es negativa, el fincamiento que haya hecho la Receptoría de Rentas ejecutora quedará sin efecto y el postor sólo tendrá derecho a que se le devuelva el depósito que hubiere constituido.
 
-Aprobado el remate de bienes raíces, se le comunicará al postor para que, dentro del plazo de diez días, entere en la caja de la Receptoría de Rentas ejecutora la cantidad de contado ofrecida en su postura aceptada.
+Aprobado el remate de bienes raíces, se le comunicará al postor para que dentro del plazo de tres días, entere en la caja de la Receptoría de Rentas ejecutora la cantidad de contado ofrecida en su postura aceptada.
 
-Hecho el pago a que se refiere el párrafo anterior y cuando proceda, designado que sea el notario por el postor se citará al deudor para que dentro del plazo de diez días, otorgue y firme la escritura de venta correspondiente, apercibido de que si no lo hace, el Jefe de la Receptoría de Rentas ejecutora la otorgará y firmará en su rebeldía. En la misma escritura se otorgará por el adquiriente garantía hipotecaria o prendaria, según proceda, respecto a la parte del precio que quedare (sic) adeudado.
-
-El deudor, aun en el caso de rebeldía, responde por la evicción y saneamiento del bien inmueble rematado.
+Hecho el pago a que se refiere el párrafo anterior y cuando proceda, designado que sea el Notario por el postor se citará al deudor para que dentro del plazo de diez días, otorgue y firme la escritura de venta correspondiente, apercibido de que si no lo hace, el Jefe de la Receptoría de Rentas ejecutora la otorgará y firmará en su rebeldía.
 
 ###### ARTICULO 134.
 
@@ -1569,7 +1605,9 @@ Las Receptorías de Rentas ejecutoras podrán vender fuera de subasta cuando se 
 
 Cuando se trate de bienes raíces o bienes muebles que habiendo salido a subasta por lo menos en dos almonedas y no se hubieren presentado postores, las Receptorías de Rentas ejecutoras solicitarán de la Tesorería General del Estado autorización para su venta al mejor comprador.
 
-También procederá la venta fuera de subasta, cuando el embargado señale al presunto comprador y acepte y el precio que dicho comprador proponga, siempre que se pague de contado, cubra cuando menos la totalidad de los créditos fiscales.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1984)</small>
+
+También procederá la venta fuera de subasta cuando el emargado (sic) señale al presunto comprador y éste acepte cubrir la postura legal de contado.
 
 ###### ARTICULO 142.
 
@@ -1581,7 +1619,9 @@ En caso de conflicto el remanente se depositará en una institución financiera 
 
 Las garantías constituidas para asegurar el interés fiscal se harán efectivas a través del procedimiento de ejecución.
 
-Cuando la garantía fuere dinero en efectivo, depositado en la Institución de crédito que corresponda, declarada en definitiva la procedencia del cobro del crédito fiscal se ordenará la aplicación del depósito al pago de acuerdo con el Artículo 137.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1984)</small>
+
+Cuando la garantía fuere dinero en efectivo, depositado en la Tesorería General del Estado, declarada en definitiva la procedencia del cobro del crédito fiscal, se ordenará la aplicación del depósito al pago de acuerdo con el Artículo 137.
 
 #### SECCION IV
 
@@ -1593,7 +1633,9 @@ Las tercerías sólo podrán ser excluyentes de dominio o de preferencia en el p
 
 I.- No se haya aprobado el remate y dado oposición de los bienes al adjudicatario, si fueren excluyentes de dominio.
 
-II.- No se haya aplicado al pago de las prestaciones fiscales bienes secuestrados, si fueren de preferencia.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1984)</small>
+
+II.- No se haya aplicado el importe del remate de los bienes embargados, al pago de las prestaciones fiscales, si fueren de preferencia.
 
 ###### ARTICULO 145.
 
@@ -1645,11 +1687,13 @@ DE LA SUSPENSION DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION.
 
 Se suspenderá el procedimiento de ejecución durante la tramitación del recurso administrativo de reconsideración o de los medios de defensa establecidos en este Código, cuando lo solicite el interesado y garantice el crédito fiscal de que se trata y los posibles recargos en algunas de las formas señaladas por el artículo 21 de este Código.
 
-La suspensión podrá ser solicitada en cualquier tiempo ante la Receptoría de Rentas ejecutora, acompañando copia del escrito con el que se hubiere iniciado el recurso administrativo de reconsideración. La autoridad ejecutora suspenderá provisionalmente el procedimiento y concederá un plazo de quince días para el otorgamiento de la garantía.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1984)</small>
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1984)</small>
+La suspensión podrá ser solicitada en cualquier tiempo ante la Receptoría de Rentas ejecutora, acompañando copia del escrito con el que se hubiere iniciado el recurso administrativo de reconsideración o medio de defensa diverso. La Autoridad ejecutora suspenderá provisionalmente el procedimiento y concederá un plazo de quince días para el otorgamiento de la garantía.
 
-Constituida ésta, ejecutora suspenderá de plano el procedimiento hasta que se le comunique la resolución definitiva.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1984)</small>
+
+Constituida ésta, ejecutora suspenderá de plano el procedimiento, hasta que se le comunique la resolución definitiva.
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 1984)</small>
 
@@ -1689,7 +1733,9 @@ La tramitación del recurso administrativo establecido en este Código, se sujet
 
 I.- Se interpondrá por el recurrente mediante escrito que presentará ante la autoridad que dictó o realizó el acto impugnado, dentro de los quince días siguientes al en que surta efectos la notificación.
 
-II.- El escrito que al efecto se presente podrá ser directamente ante la Tesorería o ante la oficina recaudadora que dictó el acto impugnado y deberá contener:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1984)</small>
+
+II.- El escrito que al efecto se presente podrá dirigirse a la Tesorería o directamente a la Receptoría de Rentas que dictó el acto impugnado, debiendo contener:
 
 a).- El nombre del actor y el domicilio que señale para recibir notificaciones.
 
@@ -1697,7 +1743,13 @@ b).- Original o copia autorizada de la resolución o acto impugnado, nombre y do
 
 c).- Los hechos y fundamentos de derechos en que se apoya el recurso.
 
-d).- Se acompañarán copias del escrito para cada una de las partes y autoridades recurridas.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1984)</small>
+
+d).- Señalamiento de las pruebas que ofrezca las cuales deberán referirse a los hechos planteados en el escrito.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1984)</small>
+
+e).- Se acompañarán copias del escrito para cada una de las partes y autoridades recurridas.
 
 Si el recurrente tiene su domicilio en población distinta del lugar en que reside la autoridad citada, podrá enviar su escrito dentro del mismo término, por correo certificado con acuse de recibo, o bien presentarlo ante la autoridad que le haya notificado la resolución. En estos casos se tendrá como fecha de presentación del escrito respectivo, la del día en que se entregue en la oficina de correos o a la autoridad que efectuó la notificación.
 
@@ -1766,3 +1818,13 @@ UNICO.- El presente Decreto surtirá sus efectos a partir del día primero de En
 P.O. 2 DE JUNIO DE 1984.
 
 UNICO.- El presente Decreto comenzará a surtir sus efectos al día siguiente de su Publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 29 DE DICIEMBRE DE 1984.
+
+###### ARTICULO 1o.
+
+Este Decreto entrará en vigor tres días después de su Publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO 2o.
+
+Para efectos de uniformidad en cuanto a terminología con el Código fiscal de la Federación, deberá sustituirse en esta Ley el término Causantes por el de Contribuyentes y el de Secuestro Administrativo por Embargo.
