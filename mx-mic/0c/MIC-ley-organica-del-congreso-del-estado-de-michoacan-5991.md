@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-congreso-del-estado-de-michoacan-5991"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-03-03"
-last_updated: "1995-05-08"
+last_updated: "2002-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA DEL CONGRESO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2002.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el día 3 de marzo de 1983.
 
@@ -97,7 +97,9 @@ II. Mesa Directiva;
 
 III. Grupos Parlamentarios;
 
-IV. Gran Comisión;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2002)</small>
+
+IV. Junta de Coordinación Legislativa;
 
 V. Comisiones;
 
@@ -205,7 +207,9 @@ III. Dar curso reglamentario y determinar los trámites que deban recaer en los 
 
 IV. Conducir los debates y las deliberaciones de las sesiones;
 
-V. Cumplimentar los asuntos incluidos en el orden del Día para las sesiones, tomando en consideración las proposiciones de la Gran Comisión;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2002)</small>
+
+V. Cumplimentar los asuntos, incluidos en el Orden del Día para las sesiones, tomando en consideración las proposiciones de la Junta de Coordinación Legislativa;
 
 VI. Conceder permisos económicos a los diputados para faltar a sesión, sin que pueda dar más de dos para faltar en la misma sesión;
 
@@ -297,93 +301,115 @@ La designación de los coordinadores de los grupos parlamentarios, será regulad
 
 Los coordinadores de los grupos parlamentarios serán los conductos para realizar las tareas de coordinación con la Mesa Directiva, las Comisiones y Comités del Congreso.
 
-### CAPITULO V. GRAN COMISION
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE ENERO DE 2002)</small>
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1986)</small>
+### CAPITULO V. JUNTA DE COORDINACION LEGISLATIVA
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 29.
 
-Al inicio de una Legislatura, los diputados deberán nombrar un Cuerpo Colegiado que se denominará Gran Comisión, mismo que se integrará con cinco diputados electos. La elección se hará por mayoría de votos, en escrutinio y mediante cédula.
+Dentro de los primeros quince días siguientes a la instalación del Congreso, se integrará un Cuerpo Colegiado que se denominará Junta de Coordinación Legislativa, con los Coordinadores de los Grupos Parlamentarios y por el Diputado o Diputados Únicos de Partido, quienes ejercerán un voto ponderado.
 
-Constituida ésta, sus integrantes designarán una Mesa Directiva que estará compuesta por un Presidente, que será el Coordinador del grupo parlamentario mayoritario, un Secretario y un Vocal, que serán designados por mayoría de votos.
+El Presidente de la Mesa Directiva en turno, formará parte de la Junta de Coordinación Legislativa y sólo tendrá derecho a voz.
+
+El voto ponderado significa la cantidad de diputadas y diputados que representa cada uno de los integrantes de la Junta de Coordinación Legislativa. En caso de empate en la votación, tendrá voto de calidad el Coordinador del Grupo Parlamentario cuyo partido haya obtenido más votos en la última elección de diputados.
+
+La Junta de Coordinación Legislativa tomará sus decisiones por mayoría de votos de sus miembros.
+
+En La Junta de Coordinación Legislativa, habrá un Presidente, un Secretario y un Vocal y se reunirá cuando menos una vez al mes.
+
+La Presidencia de la Junta de Coordinación Legislativa, se turnará entre los Coordinadores de los Grupos Parlamentarios con una duración continua y Proporcional a las diputadas y a los diputados que representan.
+
+La Presidencia será ocupada en primer término por el Diputado Coordinador del Grupo Parlamentario que tenga mayor número de diputados; en caso de que exista empate en el número de diputados de los diversos partidos políticos, iniciará el Coordinador del Grupo Parlamentario cuyo partido haya obtenido más votos en la última elección de diputados.
+
+Cuando haya cambio de Presidente, la Junta de Coordinación Legislativa podrá ratificar o designar al Secretario y Vocal de la misma.
+
+En caso de ausencia temporal o definitiva del Coordinador o de alguno de los miembros de la Junta de Coordinación Legislativa, el Grupo Parlamentario al que pertenezca lo sustituirá de inmediato, informando al Presidente de la Mesa Directiva y a la Junta el nombre de quien asumirá la responsabilidad.
+
+La Junta de Coordinación Legislativa representa la pluralidad política del Congreso del Estado y por tanto, es el órgano que impulsa el entendimiento y la convergencia política entre todas las diputadas y los diputados, y con las instancias y órganos que resulten necesarios, a fin de alcanzar acuerdos para que el Pleno esté en condiciones de adoptar las decisiones que constitucional y legalmente le corresponden.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 30.
 
-La Gran Comisión tendrá a su cargo las funciones siguientes:
+La Junta de Coordinación Legislativa tendrá las atribuciones siguientes:
 
-> <small>(REFORMADA, P.O. 17 DE ABRIL DE 1986)</small>
-
-I. Formular opiniones sobre los asuntos presentados al Congreso, tomando en consideración las propuestas de los diputados, de acuerdo al Distrito que representan;
-
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 1995)</small>
+I. Formular opiniones sobre los asuntos presentados al Congreso, tomando en consideración las propuestas de todas las diputadas y los diputados;
 
 II. Proponer al Congreso la designación del Oficial Mayor, del Tesorero, del Contador de Glosa y Director Jurídico;
 
-III. Proponer a los integrantes de las Comisiones y Comités;
+III. Proponer al Pleno a los integrantes de las Comisiones y Comités;
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 1995)</small>
+IV Recibir de la Comisión de Administración y Control el dictamen del presupuesto anual del Congreso y presentarlo al Pleno en sesión privada;
 
-IV. Proponer el proyecto de presupuesto anual del Congreso;
+V. Coordinar el funcionamiento de las Comisiones, proporcionando a éstas los recursos necesarios para sus tareas legislativas, así como requerirlas para que informen con oportunidad sobre los asuntos de su competencia;
 
-V. Coordinar la realización de las funciones de las Comisiones, proporcionando a éstas el apoyo técnico y la asesoría necesaria para ello, así como requerirlas para que informen con oportunidad sobre los asuntos de su competencia;
+VI. Promover los nombramientos y las remociones de los empleados del Congreso;
 
-VI. Promover los nombramientos y las remociones de los empleados del Congreso, conforme a la legislación vigente;
+VII. Coordinarse con la Mesa Directiva en la conducción y desahogo de los asuntos;
 
-VII. Prestar cooperación a la Mesa Directiva y a su Presidente en la conducción y desahogo de los asuntos;
+VIII. Vigilar las funciones de las dependencias auxiliares del Congreso y proveer a través de ellas lo necesario para el trabajo de las Comisiones y Comités;
 
-VIII. Vigilar las funciones de las dependencias auxiliares del Congreso y proveer a través de ellas lo necesario para el trabajo de las Comisiones y Comités, y
+IX. Proponer al Congreso la designación dé los Magistrados que integrarán el Tribunal Electoral del Estado, en los términos establecidos por el Código Electoral del Estado;
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 1995)</small>
+X. Proponer al Congreso la designación del Presidente y los consejeros electorales que integrarán al Consejo General del Instituto Electoral de Michoacán, en los términos previstos por el Código Electoral del Estado; y,
 
-IX.- Proponer al Congreso la designación de los Magistrados que integrarán el Tribunal Electoral del Estado, en los términos establecidos por el Código Electoral del Estado,
+XI. Proponer al Congreso a las diputadas o diputados que en número de dos representarán al Poder Legislativo ante el Consejo General del Instituto Electoral de Michoacán.
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 1995)</small>
-
-X.- Proponer al Congreso la designación del Presidente y los consejeros ciudadanos que integrarán el Consejo General del Instituto Electoral de Michoacán, en los términos previstos por el Código Electoral del Estado;
-
-XI. Las demás que le confieran esta Ley y las disposiciones reglamentarias.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 31.
 
-Son facultades del Presidente de la Gran Comisión:
+Son facultades del Presidente de la Junta de Coordinación Legislativa:
 
-I. Coordinar las actividades de la Gran Comisión con las realizadas por el Congreso;
+I. Coordinar las actividades de la Junta de Coordinación Legislativa con las realizadas por el Congreso;
 
-II. Ejecutar los acuerdos que adopte la Gran Comisión;
+II. Ejecutar los acuerdos que adopte la Junta de Coordinación Legislativa;
 
-III. Reunirse con los otros grupos Parlamentarios para considerar conjuntamente acciones específicas que propicien el mejor desarrollo de las labores camerales;
+III. Reunirse con los otros-Grupos Parlamentarios para considerar conjuntamente acciones específicas que propicien el mejor desarrollo de las funciones legislativas;
 
-IV. Resolver sobre la necesidad de contar con la opinión de especialistas en la materia que sea objeto de dictamen u opinión, a solicitud de las Comisiones;
+IV. A solicitud de las comisiones resolver sobre la asesoría de especialistas en la materia que sea objeto de dictamen u opinión; y
 
-V. Proponer a la Legislatura la designación de los diputados que representarán al Congreso en la Comisión Estatal Electoral; y,
+V. Las demás que le confiera esta ley y su reglamento.
 
-VI. Las demás que determinen esta Ley y su reglamento.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 32.
 
-Son funciones del Secretario de la Gran Comisión:
+Son funciones del Secretario de la Junta de Coordinación Legislativa:
 
-I. Llevar un libro en el que se asienten las actas de los acuerdos tomados por la Gran Comisión;
+I. Llevar un libro en el que se asienten las actas de los acuerdos tomados por la Junta de Coordinación Legislativa;
 
-II. Recabar la firma de los integrantes de la Gran Comisión en cada acta levantada, y
+II. Recabar la firma de los integrantes de la Junta de Coordinación Legislativa en cada acta levantada; y
 
-III. Citar por disposición del Presidente, a reunión de los integrantes de la Gran Comisión.
+III. Citar por disposición del presidente, a reunión de los integrantes de la Junta de Coordinación Legislativa.
 
 ###### ARTICULO 33.
 
 Las funciones del Vocal consistirán en suplir las ausencias del Secretario.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 34.
 
-La Gran Comisión deberá quedar instalada dentro de los primeros quince días siguientes a la instalación del Congreso.
+El Presidente de la Mesa Directiva del Congreso dará cuenta al Pleno de la integración de la Junta de Coordinación Legislativa.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 35.
 
-La Gran Comisión dispondrá de un local adecuado en las instalaciones del Congreso y contará con el personal y los elementos necesarios para el desempeño de sus funciones, de acuerdo a lo que determine el presupuesto.
+La Junta de Coordinación Legislativa dispondrá de un local adecuado en las instalaciones del Congreso y contará con el personal y los elementos necesarios para el desempeño de sus funciones, de acuerdo a lo que determine el presupuesto.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 36.
 
-Los integrantes de la Gran Comisión durarán en funciones tres años contados a partir de la fecha de instalación del congreso.
+Los integrantes de La Junta de Coordinación Legislativa estarán en funciones a partir de la fecha de su integración, hasta el término del ejercicio de la Legislatura; salvo el Presidente de la Mesa Directiva, que se renovará cada mes.
+
+En caso que el Coordinador de un Grupo Parlamentario sea destituido, el designado ocupará su lugar en la Junta de Coordinación Legislativa.
+
+El Diputado Único de Partido dejará de ser integrante de la Junta de Coordinación Legislativa, en el momento en que deje de ser diputado único de partido.
 
 ### CAPITULO VI. COMISIONES
 
@@ -403,7 +429,9 @@ III. De Investigación.
 
 Las Comisiones de Dictamen Legislativo y las de Vigilancia se constituyen con carácter definitivo y durarán en su cargo tres años.
 
-Podrán ser reestructuradas total o parcialmente por razones que deberá calificar el Congreso y a propuesta de la Gran Comisión.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2002)</small>
+
+Podrán ser reestructuradas total o parcialmente por razones que deberá calificar el Congreso y a propuesta de la Junta de Coordinación Legislativa.
 
 ###### ARTICULO 39.
 
@@ -489,7 +517,9 @@ I. Velar por la organización de las labores del Congreso, a efecto de que los e
 
 II. Examinar los documentos sobre administración de fondos, así como supervisar el manejo de los mismos;
 
-III. Elaborar el proyecto de presupuesto anual del Poder Legislativo, con apoyo en programas y subprogramas que señalen objetivos y metas y turnarlo a la Gran Comisión; y,
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2002)</small>
+
+III. Elaborar el proyecto de presupuesto anual del Poder Legislativo, con apoyo en programas y subprogramas que señalen objetivos y metas y turnarlo a la Junta de Coordinación Legislativa; y,
 
 IV. Rendir el informe anual sobre el ejercicio del presupuesto del Poder Legislativo, proponiendo, en su caso, su aprobación.
 
@@ -517,9 +547,11 @@ Las Comisiones tomarán sus decisiones por mayoría de votos de sus miembros. Su
 
 Cuando alguno de los miembros de una comisión disienta de la resolución adoptada, podrá expresar su parecer por escrito, firmado como voto particular y dirigido al Presidente del Congreso, quien decidirá si se pone a consideración de la asamblea.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 52.
 
-Podrá el Congreso, a propuesta de la Gran Comisión, crear otras comisiones, además de las nombradas, cuando así lo juzgue conveniente para la buena marcha de los asuntos.
+Podrá el Congreso, a propuesta de la Junta de Coordinación Legislativa, crear otras comisiones, además de las nombradas, cuando así lo juzgue conveniente para la buena marcha de los asuntos.
 
 ###### ARTICULO 53.
 
@@ -551,11 +583,11 @@ El Gran Jurado se sujetará, en todo, a lo establecido en la Constitución Polí
 
 La Diputación Permanente es el órgano del Congreso que, durante los recesos de éste, desempeña las funciones que le señala la Constitución Política del Estado.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 58.
 
-La Diputación Permanente se compone de cinco diputados propietarios y tres suplentes y será presidida invariablemente por el Presidente de la Gran Comisión. Los demás integrantes serán nombrados por el Congreso en escrutinio secreto y por mayoría de votos.
-
-La designación se hará la víspera de la clausura de sesiones ordinarias y sus integrantes durarán todo el periodo de receso aún cuando haya sesiones extraordinarias.
+La Diputación Permanente se compone de cinco diputados propietarios y tres suplentes y será presidida invariablemente por el Presidente de la Junta de Coordinación Legislativa. Los demás integrantes serán nombrados por el Congreso en escrutinio secreto y por mayoría de votos.
 
 ###### ARTICULO 59.
 
@@ -639,7 +671,9 @@ III. De Gestoría; y,
 
 IV. De Relaciones Públicas.
 
-Estos Comités dispondrán de su propio reglamento y serán designados a propuesta de la Gran Comisión. Su integración, actividad y funcionamiento se sujetará a las disposiciones reglamentarias y dispondrán de un local adecuado con el personal necesario para el desempeño de sus funciones.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2002)</small>
+
+Estos Comités dispondrán de su propio reglamento y serán designados a propuesta de la Junta de Coordinación Legislativa. Su integración, actividad y funcionamiento se sujetará a las disposiciones reglamentarias y dispondrán de un local adecuado con el personal necesario para el desempeño de sus funciones.
 
 ### CAPITULO III. OFICIALIA MAYOR
 
@@ -731,9 +765,13 @@ La dirección Jurídica es la dependencia del Congreso del Estado que asesora a 
 
 I.- Dar seguimiento a los procesos Legislativos del Congreso del Estado;
 
-II. Auxiliar en coordinación con la Secretaría a la Mesa Directiva del Congreso, a la Gran Comisión y a la Diputación Permanente en la preparación y desarrollo de las Sesiones; y
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2002)</small>
 
-III. Las demás que le confiera la Gran Comisión del Congreso.
+II. Auxiliar en coordinación con la Secretaría a la Mesa Directiva del Congreso, a la Junta de Coordinación Legislativa y a la Diputación Permanente en la preparación y desarrollo de las sesiones; y
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2002)</small>
+
+III. Las demás que le confiera la Junta de Coordinación Legislativa del Congreso.
 
 ###### ARTICULO 86.
 
@@ -824,5 +862,9 @@ P.O. 26 DE MARZO DE 1992.
 UNICO. Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 8 DE MAYO DE 1995.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE ENERO DE 2002.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
