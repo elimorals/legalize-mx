@@ -4,7 +4,7 @@ identifier: "MOR-ley-que-crea-el-organismo-descentralizado-denominado-16857"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-21"
-last_updated: "1999-10-06"
+last_updated: "1999-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # LEY QUE CREA EL ORGANISMO DESCENTRALIZADO DENOMINADO HOSPITAL DEL NIÑO MORELENSE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL ACUERDO PUBLICADO EN EL P.O. DE 20 DE OCTUBRE DE 1999, SE DEJA SIN EFECTO LA PUBLICACIÓN DE LA FE DE ERRATAS DE FECHA 6 DE OCTUBRE DE 1999, A LA LEY QUE CREA EL ORGANISMO DESCENTRALIZADO DENOMINADO "HOSPITAL DEL NIÑO MORELENSE".]</small>
+
 LEY QUE CREA EL ORGANISMO DESCENTRALIZADO DENOMINADO "HOSPITAL DEL NIÑO MORELENSE"
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE MORELOS EL 6 DE OCTUBRE DE 1999.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 21 de julio de 1999.
 
@@ -167,9 +167,9 @@ Corresponde a la Junta Directiva:
 
 I. Revisar, modificar y autorizar el proyecto de presupuesto anual de ingresos y egresos del Hospital, a fin de que se sometan a la consideración de las autoridades respectivas y, una vez sancionado, vigilar su correcta aplicación;
 
-> <small>(F. DE E., P.O. 6 DE OCTUBRE DE 1999)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL ACUERDO PUBLICADO EN EL P.O. DE 20 DE OCTUBRE DE 1999, SE DEJA SIN EFECTO LA PUBLICACIÓN DE LA FE DE ERRATAS DE FECHA 6 DE OCTUBRE DE 1999, A LA LEY QUE CREA EL ORGANISMO DESCENTRALIZADO DENOMINADO "HOSPITAL DEL NIÑO MORELENSE".]</small>
 
-II. Aprobar el Estatuto Orgánico, el Reglamento Interior, los Manuales y demás documentos técnico-administrativos para el buen funcionamiento del Hospital;
+II. Elaborar el Estatuto Orgánico, el Reglamento Interior, los Manuales y demás documentos técnico-administrativos para el buen funcionamiento del Hospital;
 
 III. Aprobar los planes de labores, los programas e informes de actividades y estados financieros periódicos;
 
@@ -340,3 +340,11 @@ SECRETARIO GENERAL DE GOBIERNO
 JORGE ARTURO GARCÍA RUBÍ
 
 RÚBRICAS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE OCTUBRE DE 1999.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO QUE DEJA SIN EFECTO LA PUBLICACIÓN DE LA FE DE ERRATAS A LA LEY QUE CREA EL ORGANISMO DESCENTRALIZADO DENOMINADO "HOSPITAL DEL NIÑO MORELENSE", PUBLICADO EN EL P.O. NÚMERO 4006, DE FECHA 6 DE OCTUBRE DE 1999".]
+
+ÚNICO.- El presente Acuerdo administrativo iniciará su vigencia a partir de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado.
