@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-fomento-al-turismo-5140"
 country: "mx"
 rank: "ley"
 publication_date: "1987-08-17"
-last_updated: "1988-10-14"
+last_updated: "1989-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE FOMENTO AL TURISMO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 1989.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el lunes 17 de agosto de 1987.
 
@@ -425,6 +425,74 @@ El Gobierno del Estado invitará a los prestadores de servicios turísticos a fo
 
 El Gobierno del Estado podrá instituir premios y reconocimientos para honrar y estimular a personas físicas o morales que contribuyan o hayan contribuido de manera sobresaliente al desarrollo turístico.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P. O. 11 DE JULIO DE 1989)</small>
+
+### CAPITULO QUINTO. DEL FONDO DE CREDITO Y GARANTIA A MICRO-EMPRESAS Y PEQUEÑAS EMPRESAS TURISTICAS
+
+> <small>(ADICIONADO, P. O. 11 DE JULIO DE 1989)</small>
+
+###### ARTICULO 43.
+
+El Gobierno del Estado con sujeción al Programa de Fomento al Turismo y a los presupuestos de egresos así como a las leyes aplicables, promoverá la rehabilitación, renovación y ampliación de hoteles y restaurantes, y de establecimientos de servicios turísticos que tengan el carácter de micro-empresas y pequeñas empresas.
+
+Especialmente se otorgarán los anteriores beneficios a las Empresas del Sector Social, proporcionándoles créditos y asesoría para la creación y desarrollo de infraestructura turística en dicha área.
+
+> <small>(ADICIONADO, P. O. 11 DE JULIO DE 1989)</small>
+
+###### ARTICULO 44.
+
+Para los efectos del artículo anterior se crea el Fondo de Garantía y Crédito a Micro-Empresas y Pequeñas Empresas Turísticas, como fondo financiero.
+
+> <small>(ADICIONADO, P. O. 11 DE JULIO DE 1989)</small>
+
+###### ARTICULO 45.
+
+El Fondo de Garantía y Crédito a Micro-Empresas y Pequeñas Empresas Turísticas tendrá los siguientes fines:
+
+I.- Obtener financiamientos de instituciones públicas;
+
+II.- Otorgar créditos a micro-empresas y pequeñas empresas turísticas con sujeción a las reglas de operación de créditos y a las prioridades que la Secretaría de Fomento Turístico y el Comité Técnico establezcan;
+
+III.- Garantizar los créditos que obtengan de instituciones públicas las micro-empresas y pequeñas empresas públicas conforme a las reglas y prioridades que con tal propósito se establezcan;
+
+IV.- Proporcionar asistencia técnica y administrativa a las micro-empresas y pequeñas empresas turísticas para la obtención de financiamientos; y
+
+V.- Las demás que sean afines a las anteriores.
+
+> <small>(ADICIONADO, P. O. 11 DE JULIO DE 1989)</small>
+
+###### ARTICULO 46.
+
+El Fondo se manejará por un Comité Técnico que estará integrado por el Secretario de Fomento Turístico, quien lo presidirá; el Secretario de Finanzas; el Secretario de Planeación y Presupuesto; el Secretario de Desarrollo Económico y Trabajo; la Secretaría de la Mujer; el Vocal Ejecutivo de la Comisión Mixta para la Gestión de los Servicios Públicos del Acapulco Dorado; el Vocal Ejecutivo de la Comisión Mixta para la Gestión de los Servicios Públicos del Acapulco Tradicional; y el Director General del Instituto para el Desarrollo de las Empresas del Sector Social.
+
+> <small>(ADICIONADO, P. O. 11 DE JULIO DE 1989)</small>
+
+###### ARTICULO 47.
+
+El Comité Técnico del Fondo tendrá las siguientes facultades:
+
+I.- Aprobar el programa anual de financiamientos;
+
+II.- Aprobar el plan de labores y el presupuesto anuales;
+
+III.- Aprobar el informe de actividades y los estados financieros anuales;
+
+IV.- Aprobar la obtención de financiamientos;
+
+V.- Aprobar el otorgamiento de créditos;
+
+VI.- Autorizar las reglas de operación de créditos, y las reglas para el otorgamiento de garantías;
+
+VII.- Autorizar los apoyos que a cargo del Fondo podrán otorgarse a las empresas susceptibles de financiamiento; y
+
+VIII.- Las demás que sean necesarias para el ejercicio de las anteriores.
+
+> <small>(ADICIONADO, P. O. 11 DE JULIO DE 1989)</small>
+
+###### ARTICULO 48.
+
+El Poder Ejecutivo podrá invitar a representantes de instituciones públicas que otorguen financiamientos al Fondo, así como de representantes de las agrupaciones de micro-empresas y pequeñas empresas turísticas a que participen en el Comité Técnico del Fondo.
+
 TRANSITORIO:
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
@@ -463,6 +531,12 @@ Rúbrica.
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-P.O. 14 DE OCTUBRE DE 1988.
+P. O. 14 DE OCTUBRE DE 1988.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P. O. 11 DE JULIO DE 1989.
+
+###### ARTICULO UNICO.
+
+El presente Decreto de Reformas y Adiciones entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
