@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-8987"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-22"
-last_updated: "2000-12-29"
+last_updated: "2001-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 22 de diciembre de 1995.
 
@@ -747,7 +747,9 @@ Cuando una parte del valor sea determinada y la otra indeterminada se pagará po
 
 III.- La inscripción de la escritura constitutiva y de los aumentos del capital social de sociedades civiles, sobre el importe del capital social o de los aumentos del mismo, en los términos de la fracción II, de este artículo;
 
-IV.- La inscripción de las asociaciones de carácter civil y cualquier modificación a la escritura constitutiva de sociedades civiles, exceptuándose el aumento de capital social, en los términos de la fracción II, de este artículo;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+IV.- La inscripción de las asociaciones de carácter civil y cualquier modificación a la escritura constitutiva de sociedades civiles, exceptuándose el aumento de capital social, se pagarán $273.00 por hoja;
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -759,6 +761,10 @@ VI.- La inscripción de gravámenes sobre bienes inmuebles, sea por contrato, po
 
 Cuando se solicite la inscripción de embargo sobre bienes inmuebles derivada de juicios de alimentos o laborales, se pagarán $25.00 (VEINTICINCO PESOS 00/100 M.N.) por hoja; (8)
 
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+Cuando las inscripciones a que se refiere el primer párrafo de este artículo, se deriven de la inscripción de actos jurídicos por los que se deban pagar los derechos establecidos en el artículo 82 fracción IV de la Sección de Comercio, se pagarán $38.00 por hoja;
+
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
 
 VII.- La inscripción de títulos de propiedad, de bienes o derechos que modifiquen, aclaren o disminuyan el capital y sólo sean consecuencia legal de contratos que causaron derechos de registro y se otorguen por las mismas partes que figuran en la primera escritura, sin aumentar el capital ni transferir derechos, $25.00 (VEINTICINCO PESOS 00/100 M.N.) por hoja; (2)
@@ -769,15 +775,7 @@ VIII.- La inscripción del título o contrato a que se refiere la fracción ante
 
 IX.- La inscripción de las autorizaciones para fraccionamiento, $130.00 (CIENTO TREINTA PESOS 0/100 M.N.); (2)
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
-
-X.- El depósito de testamentos ológrafos:
-
-1.- Si se hace en las oficinas del Registro, $65.00 (SESENTA Y CINCO PESOS 00/100 M.N.); (3)
-
-2.- Si se hace fuera de las oficinas del Registro, en horas ordinarias, $110.00 (CIENTO DIEZ PESOS 00/100 M.N.); (3)
-
-3.- Si se hace fuera de las oficinas del Registro, en horas extraordinarias, $130.00 (CIENTO TREINTA PESOS 00/100 M.N.); (3)
+X.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2001)
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
 
@@ -803,9 +801,11 @@ XV.- La expedición de certificados o certificaciones relativos a las constancia
 
 3.- Otros certificados y certificaciones, $74.00 (SETENTA Y CUATRO PESOS 00/100 M.N.). (3)
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-XVI.- La cancelación de inscripciones en el Registro causará el 25% de las cuotas que establece la fracción II, de este artículo, sin que pueda ser inferior a $25.00 (VEINTICINCO PESOS 00/100 M.N.); (2)
+XVI.- La cancelación de inscripciones en el Registro causará el 25% de los derechos que se causaron por su inscripción, sin que pueda ser inferior a $38.00.
+
+En caso de que no se conozca el importe de los derechos pagados para su inscripción, se causará el 25% de los que corresponderían por su inscripción;
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
 
@@ -903,9 +903,11 @@ Si en una misma escritura se consignaren diversos contratos, se pagará por cada
 
 VIII.- Las inscripciones complementarias derivadas de contratos mercantiles en que medie condición suspensiva, resolutoria, reserva de dominio o cualquier otra modalidad, $25.00 (VEINTICINCO PESOS 00/100 M.N.) por hoja. (2)
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-IX.- La cancelación de inscripciones relativas al comercio causará el 25% de las cuotas que establece esta Sección, sin que pueda ser inferior a $36.00 (TREINTA Y SEIS PESOS 00/100 M.N.).
+IX.- La cancelación de inscripciones relativas al comercio causará el 25% de los derechos que se causaron por su inscripción, sin que pueda ser inferior a $38.00.
+
+En caso de que no se conozca el importe de los derechos pagados para su inscripción, se causará el 25% de los que corresponderían por su inscripción.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 46], P.O. 24 DE DICIEMBRE DE 1996)
 
@@ -1263,117 +1265,81 @@ DE LAS REVALIDACIONES DE LICENCIAS PARA ESTABLECIMIENTOS QUE EXPENDEN BEBIDAS AL
 
 #### SECCION SEGUNDA. OBJETO
 
-> <small>(REFORMADO Y REUBICADO, P.O. 29 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 105.
 
-La expedición de la revalidación anual para el funcionamiento de establecimientos que enajenen bebidas alcohólicas para el consumo dentro de los establecimientos que ofrezca algún espectáculo o diversión públicos, causarán derechos por revalidación en función de los servicios de inspección y vigilancia que requieren.
+La expedición de la revalidación anual para el funcionamiento de establecimientos que enajenen bebidas alcohólicas o que presten servicios en los que se expendan dichas bebidas, causarán derechos por la cantidad de $3,500.00 (TRES MIL QUINIENTOS PESOS 00/100 M.N.).
 
 SUJETO
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1998)</small>
-
 ###### ARTICULO 105-A.
 
-Son sujetos de este derecho las personas físicas y morales que se dediquen a enajenar bebidas alcohólicas o a la prestación de servicios que incluyan el expendio de dichas bebidas, total o parcialmente con el público en general para su consumo dentro de los establecimientos que ofrezca algún espectáculo o diversión públicos.
-
-Cuando la explotación de los derechos de las licencias de funcionamiento de establecimientos que expendan bebidas alcohólicas se realice por persona física o moral distinta de su titular, con el carácter de comodatario, éste será el sujeto directo de esta contribución.
-
-Para los efectos del párrafo anterior, cuando exista comodatario, el titular de la licencia de funcionamiento será responsable solidario del pago de los derechos a que se refiere esta sección.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
 
 TARIFA
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1998)</small>
-
 ###### ARTICULO 105-B.
 
-La expedición de la revalidación anual a que se refiere esta Sección, causarán derechos por la cantidad de $10,302.00 (DIEZ MIL TRESCIENTOS DOS PESOS 00/100 M.N.).
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
 
 PAGO
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1998)</small>
-
 ###### ARTICULO 105-C.
 
-El pago de este derecho deberá realizarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la expedición de la revalidación anual.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 29 DE DICIEMBRE DE 1998)</small>
 
 #### SECCION TERCERA. OBJETO
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1998)</small>
-
 ###### ARTICULO 105-D.
 
-La expedición de la revalidación anual para el funcionamiento de establecimientos que enajenen bebidas alcohólicas para su consumo dentro de los establecimientos, en los cuales no se ofrezca algún espectáculo o diversión públicos causarán derechos por revalidación en función de los servicios de inspección y vigilancia que requieren.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
 
 SUJETO
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1998)</small>
-
 ###### ARTICULO 105-E.
 
-Son sujetos de este derecho las personas físicas y morales que se dediquen a enajenar bebidas alcohólicas o a la prestación de servicios que incluyan el expendio de dichas bebidas, total o parcialmente con el público en general en los establecimientos en los cuales no se ofrezca algún espectáculo o diversión públicos.
-
-Cuando la explotación de los derechos de las licencias de funcionamiento de establecimientos que expendan bebidas alcohólicas se realice por persona física o moral distinta de su titular, con el carácter de comodatario, éste será el sujeto directo de esta contribución.
-
-Para los efectos del párrafo anterior, cuando exista comodatario, el titular de la licencia de funcionamiento será responsable solidario del pago de los derechos a que se refiere esta sección.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
 
 TARIFA
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1998)</small>
-
 ###### ARTICULO 105-F.
 
-La expedición de la revalidación anual a que se refiere esta Sección, causarán derechos por la cantidad de $3,602.00 (TRES MIL SEISCIENTOS DOS PESOS 00/100 M.N.).
-
-La revalidación anual de las licencias para enajenar únicamente cerveza, acompañadas de alimentos causará el 20% de los derechos a que se refiere este artículo.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
 
 PAGO
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1998)</small>
-
 ###### ARTICULO 105-G.
 
-El pago de este derecho deberá realizarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la expedición de la revalidación anual.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 29 DE DICIEMBRE DE 1998)</small>
 
 #### SECCION CUARTA
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1998)</small>
-
 ###### ARTICULO 105-H.
 
-La expedición de la revalidación anual para el funcionamiento de establecimientos que enajenen bebidas alcohólicas en envase cerrado o para llevar, causarán derechos por revalidación en función de los servicios de inspección y vigilancia que requieren.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
 
 SUJETO
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1998)</small>
-
 ###### ARTICULO 105-I.
 
-Son sujetos de este derecho las personas físicas y morales que se dediquen a enajenar bebidas alcohólicas o a la prestación de servicios que incluyan el expendio de dichas bebidas, en envase cerrado o para llevar.
-
-Cuando la explotación de los derechos de las licencias de funcionamiento de establecimientos que expendan bebidas alcohólicas se realice por persona física o moral distinta de su titular, con el carácter de comodatario, éste será el sujeto directo de esta contribución.
-
-Para los efectos del párrafo anterior, cuando exista comodatario, el titular de la licencia de funcionamiento será responsable solidario del pago de los derechos a que se refiere esta sección.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
 
 TARIFA
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1998)</small>
-
 ###### ARTICULO 105-J.
 
-La expedición de la revalidación anual a que se refiere esta Sección, causarán derechos por la cantidad de $2,576.00 (DOS MIL QUINIENTOS SETENTA Y SEIS PESOS 00/100 M.N.).
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
 
 PAGO
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1998)</small>
-
 ###### ARTICULO 105-K.
 
-El pago de este derecho deberá realizarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la expedición de la revalidación anual.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
 
 > <small>(REFORMADO Y REUBICADO, P.O. 29 DE DICIEMBRE DE 1998)</small>
 
@@ -1421,7 +1387,7 @@ El pago de este derecho deberá realizarse en las oficinas recaudadoras de la Se
 
 #### SECCION PRIMERA. POR SERVICIOS DE CONTROL VEHICULAR
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 112.
 
@@ -1447,7 +1413,7 @@ El pago de los derechos a que se refiere esta Sección deberá efectuarse en las
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
 
-### CAPITULO CUARTO. POR SERVICIOS DE LA SECRETARIA DE COMUNICACIONES Y OBRAS PUBLICAS
+### CAPITULO CUARTO. POR SERVICIOS DE LA SECRETARIA DE URBANISMO Y OBRAS PUBLICAS
 
 ###### ARTICULO 114.
 
@@ -1531,6 +1497,8 @@ EXENCIONES
 
 No se causará este derecho cuando los servicios que se presten tengan por objeto la regularización de la tenencia de la tierra urbana y sean solicitados por Dependencias o Entidades Públicas Estatales, Federales y Municipales, que tengan a su cargo la responsabilidad de este tipo de programas.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
 ### CAPITULO QUINTO. POR SERVICIOS DE LA SECRETARIA DE EDUCACION PUBLICA
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
@@ -1541,9 +1509,11 @@ No se causará este derecho cuando los servicios que se presten tengan por objet
 
 ###### ARTICULO 118.
 
-Los servicios que presta la Secretaría de Comunicaciones y Obras Públicas, relativos a control vehicular causarán derechos conforme a la siguiente:
+Los servicios que presta la Secretaría de Urbanismo y Obras Públicas, relativos a control vehicular causarán derechos conforme a la siguiente:
 
 TARIFA
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
 
 I.- Expedición de tarjetas de circulación y calcomanía con número identificatorio o refrendo anual: (2)
 
@@ -1561,13 +1531,23 @@ c).- De más de 20 años de fabricación anteriores al ejercicio fiscal en curso
 
 4.- Para demostración, $456.00 (CUATROCIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.). (11)
 
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
 II.- Expedición de juego de placas para demostración de vehículos $876.00 (OCHOCIENTOS SETENTA Y SEIS PESOS 00/100 M.N.); (2)
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
 
 III.- Expedición de tarjeta de circulación para remolques accionados por vehículos de tracción mecánica; $280.00 (DOSCIENTOS OCHENTA PESOS 00/100 M.N.); (2)
 
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
 IV.- Expedición de placa y tarjeta de circulación con vigencia anual para motocicleta, $88.00 (OCHENTA Y OCHO PESOS 00/100 M.N.); (2)
 
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
 V.- Expedición de placa para bicicleta, $27.00 (VEINTISIETE PESOS 00/100 M.N.); (2)
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
 
 VI.- Dotación de placas metálicas con número identificatorio para los vehículos siguientes:
 
@@ -1578,6 +1558,8 @@ VI.- Dotación de placas metálicas con número identificatorio para los vehícu
 3.- Remolques $140.00 (CIENTO CUARENTA PESOS 00/100 M.N.).
 
 En el caso de que el contribuyente adquiera placas metálicas con número identificatorio, además deberá pagar los derechos por la expedición de la tarjeta de circulación y la calcomanía con número identificatorio.
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
 
 VII.- Expedición de licencias para conducir vehículos:
 
@@ -1591,15 +1573,27 @@ VII.- Expedición de licencias para conducir vehículos:
 
 5.- Chofer para transporte de materiales peligrosos, $200.00 (DOSCIENTOS PESOS 00/100 M.N.); y (11)
 
-6.- Examen de conocimientos viales y fotografía digitalizada en licencia, $47.00 (CUARENTA Y SIETE PESOS 00/100 M.N.). (11)
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+6.- Costo de la fotografía digitalizada en la licencia, $40.00.
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
 
 VIII.- Expedición de permisos por quince días para circular sin placas por una sola vez $53.00 (CINCUENTA Y TRES PESOS 00/100 M.N.); (2)
 
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
 IX.- Reposición o cambio de tarjeta de circulación, $132.00 (CIENTO TREINTA Y DOS PESOS 00/100 M.N.); (2)
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
 
 X.- Tarjetón de identificación del servicio público de transporte, $118.00 (CIENTO DIECIOCHO PESOS 00/100 M.N.); (2)
 
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
 XI.- Expedición de constancia o certificación de documentos relativos a derechos de control vehicular, $65.00 (SESENTA Y CINCO PESOS 00/100 M.N.); y (2)
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
 
 XII.- La baja de placas del Estado y de otros Estados $0.00. (12)
 
@@ -1727,11 +1721,53 @@ XIII.- Otros servicios:
 
 5.- Retiro de anuncios u obras publicitarias, $184.00 (CIENTO OCHENTA Y CUATRO PESOS 00/100 M.N.); (3)
 
-6.- Permisos a vehículos de carga de empresas privadas, $154.00 (CIENTO CINCUENTA Y CUATRO PESOS 00/100 M.N.); (3)
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-7.- Permisos no incluidos en los anteriores, $442.00 (CUATROCIENTOS CUARENTA Y DOS PESOS 00/100 M.N.); y (3)
+6.- Por la autorización para operar y por prórroga para operar las Escuelas de Manejo, conforme al Reglamento de la Ley de Tránsito y Transporte $15,000.00.
 
-8.- Por otros servicios no especificados, $88.00 (OCHENTA Y OCHO PESOS 00/00 M.N.). (3)
+7.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
+
+8.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XIV.- Por los servicios relacionados con el otorgamiento de permisos para la construcción de obras dentro del derecho de vía de los caminos y puentes de jurisdicción estatal, se pagarán derechos conforme a las siguientes cuotas:
+
+1.- Estudios técnicos de planos, proyectos y memorias de obra, para obras de instalaciones marginales dentro del derecho de vía en carreteras y puentes de jurisdicción estatal por cada cien metros lineales o fracción que exceda de dicha longitud $1,332.00.
+
+2.- Estudios técnicos de planos, proyectos y memorias de obra, para construcción de obras por cruzamientos superficiales, subterráneos o aéreos que atraviesen carreteras o puentes de jurisdicción estatal $1,332.00.
+
+3.- Autorización para la construcción de accesos que afecten el derecho de vía de una carretera, incluyendo la supervisión de las obras 14% sobre el costo de la misma.
+
+4.- Por el estudio técnico del proyecto, supervisión y autorización de obra para paradores 1% sobre el costo total de la obra.
+
+5.- Por el estudio de planos, proyectos y memorias de obras y expedición de autorización para la construcción de obras e instalaciones marginales subterráneas para cables de redes de telecomunicación que se realicen dentro del derecho de vía de carreteras estatales, por kilómetro o fracción $795.60.
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XV.- Por el permiso para la construcción de accesos que afecten el derecho de vía de un camino o puente de cuota, incluyendo la supervisión de la obra se pagarán derechos conforme a las siguientes cuotas:
+
+1.- Proyecto a realizar en terreno plano $13,041.60.
+
+2.- Proyecto a realizar en terreno de lomerío con geometría en corte $14,365.20.
+
+3.- Proyecto a realizar en terreno de lomerío con geometría en terraplén $15,688.80.
+
+4.- Proyecto a realizar en terreno montañoso con geometría en corte $17,011.20
+
+5.- Proyecto a realizar en terreno montañoso con geometría en terraplén $18,334.80.
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XVI.- Por el estudio técnico del proyecto, supervisión y permiso de obras para paradores en camino y puentes se pagarán derechos conforme a lo siguiente:
+
+1.- Con superficie total de proyecto hasta 3,000 metros cuadrados $3,020.40.
+
+2.- Con superficie total de proyecto hasta 5,000 metros cuadrados $36,480.00.
+
+3.- Con superficie total de proyecto hasta 10,000 metros cuadrados $42,717.60.
+
+4.- Con superficie mayor a los 10,000 metros cuadrados, por cada 1,000 metros cuadrados adicionales $1,228.80.
 
 SUJETO
 
@@ -1773,19 +1809,81 @@ V.- Por autorización de incorporación de planteles escolares $8,759.00 (OCHO M
 
 VI.- Por trámite de autorización para la incorporación de planteles escolares $876.00 (OCHOCIENTOS SETENTA Y SEIS PESOS 00/100 M.N.); (2)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-VII.- Por la incorporación y el refrendo anual al sistema educativo estatal de las escuelas particulares de educación inicial, preescolar, primaria, secundaria y academias comerciales o de otro tipo, $20.00 (VEINTE PESOS 00/100 M.N.) por alumno.
+VII.- Por incorporación y el refrendo anual al sistema educativo estatal de las escuelas particulares de educación inicial, preescolar, primaria, secundaria y academias comerciales o carreras terminales sin bachillerato $30.00 por alumno.
 
 Los derechos que establece esta fracción, deberán pagarse dentro del mes de octubre de cada año.
 
-La omisión en el pago de este derecho dentro del plazo establecido en el párrafo que antecede, causará recargos conforme a la tasa que establezca la Ley de Ingresos para el Estado de Coahuila.
+La omisión en el pago de este derecho dentro del plazo establecido en el párrafo que antecede, causará recargos conforme a la tasa que establezca la Ley de Ingresos para el Estado de Coahuila;
 
 VIII.- Por autorización de examen a título de suficiencia en escuelas de nivel medio superior y superior $88.00 (OCHENTA Y OCHO PESOS 00/100 M.N.); (2)
 
 IX.- Por equivalencia de estudios de nivel medio y superior $175.00 (CIENTO SETENTA Y CINCO PESOS 00/100 M.N.); y (2)
 
 X.- Por revalidación de estudios de primaria, secundaria y bachillerato hechos en el extranjero $175.00 (CIENTO SETENTA Y CINCO PESOS 00/100 M.N.). (2)
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XI.- Por registro de Título y expedición de cédula profesional, $508.00;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XII.- Por registro Estatal de Profesionistas $120.00;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XIII.- Por registro de Colegios de Profesionistas $3,500.00;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XIV.- Por encomienda al Registro del Colegio de Profesionistas:
+
+1.- Por cambio de nomenclatura del Colegio $400.00.
+
+2.- Por cambios en nómina de socios $100.00.
+
+3.- Por cada miembro anexado $50.00.
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XV.- Por consultas de Archivo $40.00;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XVI.- Por constancia de antecedentes profesionales $90.00;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XVII.- Por constancia por cédula profesional en trámite $50.00;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XVIII.- Por expedición por cada documento en archivo $5.00;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XIX.- Por la elaboración de constancias de trámites, $100.00;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XX.- Por movimientos de escuelas incorporadas a las cuales se les otorga nuevo acuerdo de incorporación, $500.00;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XXI.- Por cotejo de documentos originales, $20.00;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XXII.- Por copias simples de oficios y documentos, $15.00 por hoja tamaño carta u oficio;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XXIII.- Por constancia de estudio $30.00;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XXIV.- Por certificación de documentos $20.00.
 
 SUJETO
 
@@ -2121,7 +2219,9 @@ El pago de esta contribución deberá efectuarse en las oficinas recaudadoras de
 
 Es objeto de la contribución por obra pública, la construcción, reconstrucción y ampliación de las siguientes obras:
 
-I.- Vías públicas, tales como calles, avenidas, calzadas, viaductos, pasos a desnivel, obras de seguridad relacionadas con el tránsito de vehículos y peatones, puentes y plazas;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+I.- Vías públicas, tales como calles, avenidas, calzadas, viaductos, pasos a desnivel, obras de seguridad relacionadas con el tránsito de vehículos y peatones, puentes y plazas, construcción de vialidades e infraestructura carretera;
 
 II.- Introducción de agua potable a los poblados y desagüe general de los mismos;
 
@@ -2211,7 +2311,9 @@ La cooperación voluntaria se convertirá en obligatoria una vez formalizado el 
 
 II.- Son cooperaciones obligatorias las siguientes:
 
-1.- La pavimentación o repavimentación de las vías públicas y el embanquetado y construcción de guarniciones de las mismas;
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+1.- La pavimentación o repavimentación de las vías públicas, el embanquetado y construcción de las mismas, tales como calles, avenidas, calzadas, viaductos, pasos a desnivel, obras de seguridad relacionadas con el tránsito de vehículos y peatones, puentes y plazas, construcción de vialidades e infraestructura carretera;
 
 2.- La electrificación de las zonas urbanas o rurales, tanto para usos domésticos como para usos industriales y agropecuarios;
 
@@ -2439,11 +2541,11 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Para los efectos del artículo 3 de esta ley, la actualización de las contribuciones se efectuará a partir del 1 de enero de 1997.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO QUINTO.
 
-Con el propósito de sufragar los gastos que origina al Estado la modernización del Registro Público durante los ejercicios fiscales de 2000 y 2001, se causará un impuesto adicional del 15% sobre los derechos que se causen por los servicios que presta el Registro Público establecidos en esta ley.
+Con el propósito de sufragar los gastos que origina al Estado el mejoramiento y modernización de las áreas que tengan a su cargo la prestación de los servicios relacionados con el Registro Público, se causará un impuesto adicional del 15% sobre los derechos que se causen por los servicios que presta el Registro Público de la Propiedad establecidos en esta ley.
 
 El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, instituciones de crédito o establecimientos autorizados, en el mismo recibo con que se realicen los pagos objeto de este impuesto.
 
@@ -2596,3 +2698,13 @@ El presente Decreto entrará en vigor el primero de enero del 2001.
 ###### ARTÍCULO SEGUNDO.
 
 SE derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE DICIEMBRE DE 2001.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero de 2002.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
