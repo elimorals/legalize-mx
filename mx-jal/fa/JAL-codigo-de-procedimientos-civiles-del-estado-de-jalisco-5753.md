@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "1975-07-31"
+last_updated: "1977-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1977.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -2908,9 +2908,11 @@ De la Responsabilidad Civil.
 
 (DEROGADO, P.O. 3 DE MARZO DE 1955)
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1977)</small>
+
 ###### ARTICULO 456.
 
-Las sentencias que se dicten sobre modificación de las actas del Estado Civil y sobre nulidad de matrimonios, por las causas expresadas en los artículos 297, 298, 303, 304, 305 y 306 del Código Civil, serán revisadas de oficio por la Sala que corresponda del Supremo Tribunal, con intervención del Ministerio Público, si las partes no promueven apelación; y mientras el Tribunal examina la legalidad del fallo, quedará en suspenso su ejecución.
+Las sentencias que se dicten sobre modificación de actas y sobre nulidad de matrimonios por las causas expresadas en los Artículos 297, 298, 303, 304, 305, y 306 del Código Civil así como las que se dicten en juicios de divorcio necesario, serán revisadas de oficio por la Sala que corresponda del Supremo Tribunal de Justicia con intervención del Ministerio Público, si las partes no promueven apelación; mientras el Tribunal examina la legalidad del fallo, quedará en suspenso su ejecución.
 
 ### CAPITULO I.
 
@@ -3552,9 +3554,11 @@ III.- Cuando el estado de los autos lo permita, para nombrar a su costa un perit
 
 El avalúo se practicará observando las reglas establecidas para la prueba pericial y si fueren más de dos los peritos valuadores no habrá necesidad de nombrar tercero en discordia.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1977)</small>
+
 ###### ARTICULO 556.
 
-Justipreciados los bienes, si fueren raíces se anunciará su venta, señalando para la almoneda, por medio de edictos que se publicarán por tres veces, de siete en siete días, en el periódico oficial y otro de mayor circulación a juicio del Juez. A petición de cualquiera de las partes, y a su costa, el Juez puede usar, además de los dichos, algún otro medio de publicidad para convocar postores.
+Justipreciados los bienes, si fueren raíces se anunciará su venta señalando día para la almoneda, por medio de edictos que se publicarán por tres veces de siete en siete días en el Boletín Judicial o en el Periódico Oficial, así como en otro de mayor circulación, a juicio del Juez. A petición de cualquiera de las partes, y a su costa, el Juez puede usar, además de los dichos, algún otro medio de publicidad para convocar postores.
 
 ###### ARTICULO 557.
 
@@ -4230,9 +4234,11 @@ Cuando se entable pleito entre los que contrataron la hipoteca, procederá el ju
 
 Presentada la demanda con el instrumento respectivo, si el Juez encuentra que se reúnen los requisitos señalados en los artículos anteriores, dispondrá la expendición (sic), fijación y registro de la cédula hipotecaria y el emplazamiento del deudor para que conteste la demanda dentro de cinco días, continuando el procedimiento con sujeción a las demás reglas generales del juicio sumario.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1977)</small>
+
 ###### ARTICULO 672.
 
-Si en el título con que se ejercita una acción hipotecaria se advierte que hay otros acreedores hipotecarios anteriores, el juez mandará notificarles personalmente la iniciación del juicio para que usen de sus derechos conforme a la ley. Si se ignora su domicilio, la notificación se les hará por medio de un edicto que se publicará por tres veces, de tres en tres días, en el periódico oficial y en otro periódico diario de mayor circulación, a juicio del Juez, que se publique en el Estado.
+Si en el título con que se ejercita una acción hipotecaria se advierte que hay otros acreedores hipotecarios anteriores, el Juez mandará notificarlos personalmente la iniciación del juicio para que usen de sus derechos conforme a la Ley. Si se ignora su domicilio la notificación se les hará por medio de un edicto que se publicará por tres veces de tres en tres días en el Boletín Judicial o en el Periódico Oficial, así como en otro diario de mayor circulación, a juicio del Juez.
 
 ###### ARTICULO 673.
 
@@ -4696,9 +4702,11 @@ Los juicios sobre nulificación, convalidación, reposición o rectificación de
 
 En estos juicios serán oídos el Oficial del Registro Civil donde pasó el acto cuya modificación se reclama y el Ministerio Público, así como los demás interesados que se presenten a oponerse.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1977)</small>
+
 ###### ARTICULO 760.
 
-El emplazamiento se hará a todos los interesados cuyo domicilio fuere conocido y se publicará además un extracto de la demanda por tres veces, de tres en tres días, en el Periódico Oficial del Estado y en el diario de mayor circulación, a juicio del Juez, llamando a los interesados a oponerse, quienes tendrán derecho de intervenir en el negocio, cualquiera que sea el estado del mismo, mientras no exista sentencia ejecutoria.
+El emplazamiento se hará a todos los interesados cuyo domicilio fuera conocido y se publicará además un extracto de la demanda por tres veces, de tres en tres días, en el Boletín Judicial o en el Periódico Oficial del Estado, así como en el diario de mayor circulación, a juicio del Juez, llamando a los interesados a oponerse, quienes tendrán derecho de intervenir en el negocio, cualquiera que sea el estado del mismo, mientras no exista sentencia ejecutoria.
 
 ###### ARTICULO 761.
 
@@ -4786,13 +4794,17 @@ Es voluntario, cuando el deudor se desprende de sus bienes para pagar a sus acre
 
 Es necesario, cuando dos o más acreedores de plazo cumplido han demandado y ejecutado ante un mismo o diversos jueces a su deudor común y no hay bienes bastantes para que cada uno secuestre lo suficiente para cubrir su crédito y costas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 1977)</small>
+
 ###### ARTICULO 777.
 
-Admitida la solicitud del deudor o tan pronto como los acreedores justifiquen que aquél está comprendido dentro de lo dispuesto en el párrafo último del artículo anterior, el Juez declarará el estado de concurso y resolverá:
+Admitida la solicitud del deudor o tan pronto como los acreedores justifiquen que aquél está comprendido dentro de lo dispuesto en el párrafo último del artículo anterior, el Juez declarará el concurso y resolverá:
 
 I.- Notificar personalmente al deudor y a sus acreedores que residan en el lugar del juicio, la formación del concurso;
 
-II.- Hacer saber a los acreedores que no residan en el lugar del juicio, la formación del concurso, por edictos que se publicarán por tres veces, de tres en tres días, en el Periódico Oficial del Estado y en otro de los de mayor circulación a juicio del Juez;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1977)</small>
+
+II.- Hacer saber a los acreedores que no residan en el lugar del juicio, la formación del concurso, por edictos que se publicarán por tres veces de tres en tres días en el Boletín Judicial o en el Periódico Oficial del Estado, así como en otro de los de mayor circulación, a juicio del Juez;
 
 III.- Nombrar Síndico provisional;
 
@@ -5176,9 +5188,11 @@ El que promueva el juicio de testamentaría, a más de acreditar el fallecimient
 
 La junta se verificará dentro de los ocho días siguientes a la citación, si la mayoría de los herederos reside en el lugar del juicio. Si la mayoría residiere fuera del lugar del juicio, el Juez señalará el plazo que crea prudente, atendidas las distancias. La citación se hará por cédula o por correo con acuse de recibo.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1977)</small>
+
 ###### ARTICULO 839.
 
-Si hubiere herederos cuyo domicilio se ignore, se les citará por medio de edictos que se mandarán fijar por diez días en el lugar del juicio, en los sitios de costumbre, en el último domicilio del finado y en el de su nacimiento. Además, se mandarán publicar por tres veces, de diez en diez días en el Periódico Oficial del Estado y en un diario de los de mayor circulación a juicio del Juez.
+Si hubiere herederos cuyo domicilio se ignora, se les citará por medio de edictos que se mandarán publicar por diez días en el lugar del juicio, en los sitios de costumbre, en el último domicilio del finado o en el de nacimiento. Además, se mandará publicar por tres veces, de diez en diez días, en el Boletín Judicial o en el Periódico Oficial del Estado, así como en un diario de los de mayor circulación, a juicio del Juez.
 
 ###### ARTICULO 840.
 
@@ -5994,9 +6008,11 @@ No habiendo relevación de garantía se exigirá ésta proporcionada al caudal q
 
 Si el que no está en ejercicio de la patria potestad nombra tutor con arreglo a lo dispuesto con arreglo al artículo 525 del Código Civil, se discernirá el cargo con relevo de garantía, si así lo hubiere dispuesto el testador en cuanto al caudal que deje. Lo dispuesto en este artículo se entenderá sin perjuicio de lo prescrito en el artículo 571 del Código Civil.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1977)</small>
+
 ###### ARTICULO 979.
 
-Siempre que corresponda al Juez el nombramiento de tutor conforme a lo prevenido en el Capítulo VI. Título Undécimo, Libro Primero del Código Civil, deberá recibir información sumaria de estar el menor en alguno de los casos del artículo 547 del mismo Código, y convocará por edictos publicados tres veces en el periódico oficial del Estado, y en un diario de los de mayor circulación, a juicio del Juez, a los parientes del incapacitado a quienes pueda corresponder la tutela legítima.
+Siempre que corresponda al Juez el nombramiento de tutor conforme a lo prevenido en el Capítulo VI, Título Undécimo, Libro primero del Código Civil deberá recibir información sumaria de estar el menor en alguno de los casos del artículo 547 del mismo Código, y convocará por edictos publicados tres veces en el Boletín Judicial o en el PERIODICO Oficial del Estado, así como en un diario de los de mayor circulación, a juicio del Juez, a los parientes del incapacitado a quienes pueda corresponder la tutela legítima.
 
 ###### ARTICULO 980.
 
@@ -6416,11 +6432,13 @@ III.- Cuando se trate de comprobar la posesión de un derecho real.
 
 La información se recibirá siempre con citación del Ministerio Público; notificando personalmente el auto inicial al Síndico del Ayuntamiento y al Delegado de Hacienda del Municipio en que queden ubicados los bienes o derechos sobre los que verse la información. En los casos de las fracciones I y II, con citación también de los colindantes y del Encargado del Registro de la Propiedad y de la comprensión donde estuviere ubicado el inmueble, y los comprendidos en la Fracción III, con audiencia del propietario y de los demás partícipes del derecho real cuando los haya.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1962)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 1977)</small>
 
 ###### ARTICULO 1052.
 
-Cuando se pretenda acreditar alguno de los hechos a que se refieren los Artículos 2958 y 2960 del Código Civil, presentada la solicitud, la cual deberá contener la descripción precisa del inmueble de que se trate, se mandará publicar un edicto que contenga el extracto de ella en el Periódico Oficial del Estado y en un Diario de los de mayor circulación, a juicio del Juez, notificando personalmente el auto inicial al Síndico o Representante Jurídico del Ayuntamiento y al Delegado de Hacienda del Municipio de la ubicación de los bienes; citando a los que se crean con derecho para que se presenten a oponerse. También se publicará el edicto fijándolo durante diez días en la puerta del Juzgado, en las casas Consistoriales y en los demás sitios públicos de costumbre.
+Cuando se pretenda acreditar alguno de los hechos a que se refieren los artículos 2958 y 2960 del Código Civil, presentada la solicitud, la cual deberá contener la descripción precisa del inmueble de que se trata se mandará publicar un edicto que contenga un extracto de ella en el Boletín Judicial o en el Periódico Oficial del Estado, así como en un diario de los de mayor circulación, a juicio del Juez, notificando personalmente el auto inicial al Síndico o Representante Jurídico del Ayuntamiento y al Delegado de Hacienda del Municipio de la ubicación en que se encuentran los bienes; citando a los que se crean con derecho para que se presenten a oponerse. También se publicará el edicto fijándolo durante diez días en la puerta del Juzgado, en las casas Consistoriales y en los demás sitios públicos de costumbre.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1962)</small>
 
 El certificado a que se refiere el Artículo 2958 del Código Civil, deberá comprender los últimos diez años.
 
@@ -6793,3 +6811,9 @@ UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en e
 P.O. 31 DE JULIO DE 1975.
 
 UNICO.- El presente Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 22 DE DICIEMBRE DE 1977.
+
+PRIMERO.- Este Decreto entrará en vigor el día primero de enero de 1978.
+
+SEGUNDO.- Quedan derogadas todas las disposiciones que se opongan a las comprendidas en el presente Decreto.
