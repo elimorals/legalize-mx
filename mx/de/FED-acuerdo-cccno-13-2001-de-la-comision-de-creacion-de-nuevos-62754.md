@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-cccno-13-2001-de-la-comision-de-creacion-de-nuevos-6275
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-10-26"
-last_updated: "2001-10-26"
+last_updated: "2002-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62754&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-10-17"
 
 ACUERDO CCNO/13/2001, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA PRORROGA DEL PLAZO DE EXCLUSION DEL TURNO DE NUEVOS ASUNTOS AL PRIMER TRIBUNAL COLEGIADO DEL VIGESIMO CUARTO CIRCUITO, CON RESIDENCIA EN TEPIC, NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE FEBRERO DE 2002.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 26 de octubre de 2001.
 
@@ -51,6 +51,8 @@ ACUERDO
 
 PRIMERO.- Se prorroga el plazo de exclusión de turno de nuevos asuntos al Primer Tribunal Colegiado del Vigésimo Cuarto Circuito, por tres meses quince días, establecido en el punto QUINTO del Acuerdo General 35/2001, relativo a la denominación, competencia, jurisdicción territorial y fecha de inicio de funcionamiento del Segundo Tribunal Colegiado del Vigésimo Cuarto Circuito, con residencia en Tepic, Nayarit, a la nueva denominación del actual Tribunal Colegiado del Vigésimo Cuarto Circuito, así como a las reglas de turno, sistema de recepción y distribución de asuntos entre los Tribunales Colegiados de Circuito con sede en la misma ciudad.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/2/2002, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 13 DE FEBRERO DE 2002, SE PRORROGA EL PLAZO DE EXCLUSION DE TURNO DE NUEVOS ASUNTOS AL PRIMER TRIBUNAL COLEGIADO DEL VIGESIMO CUARTO CIRCUITO, CON RESIDENCIA EN TEPIC, NAYARIT; POR TREINTA DIAS, DEL 16 DE FEBRERO AL 17 DE MARZO DE 2002.</small>
+
 El término de exclusión señalado comprenderá del uno de noviembre de dos mil uno al quince de febrero de dos mil dos; por ende, los nuevos asuntos que se reciban en la Oficina de Correspondencia Común de los Tribunales Colegiados del Vigésimo Cuarto Circuito, en el período indicado, serán del conocimiento del Segundo Tribunal Colegiado del propio Circuito, con excepción de aquellos que estén relacionados con los que se encuentren en trámite en el Primer Tribunal Colegiado del Circuito aludido; en cuyo caso se turnarán a este último, con el propósito de evitar el pronunciamiento de resoluciones contradictorias; y las demás excepciones que procedan conforme a lo dispuesto en el Acuerdo General 50/2001, del Pleno del Consejo de la Judicatura Federal.
 
 SEGUNDO.- Una vez transcurrido el plazo señalado en el punto anterior, los nuevos asuntos se distribuirán entre los dos Tribunales Colegiados del Vigésimo Cuarto Circuito, con las salvedades apuntadas, conforme al sistema computarizado que se utiliza para esos efectos.
@@ -64,3 +66,11 @@ PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO CESAR THOME GONZALEZ, SECRETARIO EJECUTIVO DE CARRERA JUDICIAL, ADSCRIPCIÓN Y CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo CCNO/13/2001, de la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, Relativo a la Prórroga del Plazo de Exclusión del Turno de Nuevos Asuntos al Primer Tribunal Colegido del Vigésimo Cuarto Circuito, con Residencia en Tepic, Nayarit, fue aprobado por la propia Comisión en sesión privada extraordinaria celebrada el diecisiete de octubre de dos mil uno, por los señores Consejeros: Presidente Interino José Guadalupe Torres Morales y Manuel Barquín Alvarez.- México, Distrito Federal, a diecisiete de octubre de dos mil uno.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 13 DE FEBRERO DE 2002.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
