@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2003-10-04"
+last_updated: "2003-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2003.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 4 DE OCTUBRE DE 2003.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2003.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -441,9 +439,11 @@ La seguridad pública es un servicio a cargo del Estado y los Municipios para sa
 
 La ley determinará la organización, atribuciones, funcionamiento y profesionalización de los cuerpos de seguridad pública, entre ellos, la policía estatal preventiva. En todos los casos, se establecerá el servicio civil de carrera.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2003)</small>
+
 ###### Artículo 27.
 
-Toda persona tiene derecho a la educación, que será obligatoria hasta el nivel de secundaria.
+Toda persona tiene derecho a la educación, que será obligatoria en los niveles preescolar, primaria y secundaria.
 
 La educación que se imparta en el Estado, en todos sus grados y niveles, tenderá a formar en el educando hábitos, costumbres, comportamientos, actitudes y valores que propicien la convivencia pacífica y exalten la libertad como herramienta de lucha contra los privilegios injustos, consoliden la democracia como sistema de vida y fuente legítima de la voluntad soberana del Pueblo, promuevan la justa distribución de los bienes y los servicios entre todos los habitantes, desarrollen los conocimientos y destrezas de la población y contribuyan al surgimiento de una sociedad mejor en todos los órdenes.
 
@@ -1581,7 +1581,9 @@ El Tribunal de Conciliación y Arbitraje se integra con tres Magistrados, por lo
 
 ## TÍTULO V. DEL MUNICIPIO LIBRE
 
-### CAPÍTULO TERCERO. DE LA CREACIÓN, FUSIÓN Y SUPRESIÓN DE MUNICIPIOS
+### CAPÍTULO TERCERO. DE LA CREACIÓN, FUSIÓN, RESTITUCIÓN Y SUPRESIÓN DE MUNICIPIOS
+
+> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2003)</small>
 
 ###### Artículo 116.
 
@@ -1975,27 +1977,39 @@ Los Ayuntamientos y la Legislatura, en el ámbito de sus competencias, conocerá
 
 Las actas, registros, constancias y demás documentos que expidan los Ayuntamientos son instrumentos públicos.
 
+> <small>(ADICIONADA [N. DE E. REFORMADA] SU DENOMINACIÓN, P.O. 22 DE OCTUBRE DE 2003)</small>
+
 ### CAPÍTULO QUINTO. DEL GOBIERNO MUNICIPAL
 
 ###### Artículo 124.
 
-La facultad de crear, suprimir y fusionar Municipios compete a la Legislatura del Estado, la cual se sujetará a las siguientes prescripciones:
+La facultad de crear, suprimir, restituir y fusionar Municipios compete a la Legislatura del Estado, la cual se sujetará a las siguientes prescripciones:
 
-I. Que la decisión de crear, suprimir o fusionar sea resultado de plebiscito en el que así lo decidan, por lo menos, el setenta por ciento de los ciudadanos que habiten la región;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE OCTUBRE DE 2003)</small>
+
+I. Que la decisión de crear, suprimir, restituir o fusionar sea resultado de plebiscito en el que así lo decidan, por lo menos, el setenta por ciento de los ciudadanos que habiten la región;
 
 II. Que la superficie territorial en que se pretenda constituir, no sea menor de ciento cincuenta kilómetros cuadrados;
 
 III. Que la población en esa demarcación sea mayor de quince mil habitantes;
 
-IV. Que el poblado que se elija como cabecera municipal tenga por lo menos diez mil habitantes y cuente con los servicios públicos indispensables; y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
+
+IV. Que el poblado que se elija como cabecera municipal tenga por lo menos diez mil habitantes y cuente con los servicios públicos indispensables;
 
 V. Que se demuestre la capacidad económica para atender y sufragar los gastos de la Administración Pública y los servicios municipales.
 
 En caso de que no sean satisfechos todos los requisitos anteriores, la Legislatura no podrá erigir nuevos Municipios.
 
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2003)</small>
+
+Exclusivamente en el caso del trámite para resolver solicitudes relativas a la restitución del rango de municipio que en forma indubitable alguna comunidad lo hubiere tenido en época anterior, la Legislatura del Estado recabará la opinión de los municipios que pudieren resultar afectados en su interés jurídico, a consecuencia de la acción restitutoria. A su prudente criterio, y una vez que se valoren las condiciones económicas, políticas y sociales que prevalezcan en la comunidad de que se trate, podrá dispensar alguno de los requisitos previstos en las fracciones I, II, III o IV, de este artículo.
+
 Cuando dos o más Municipios limítrofes no satisfagan dichas condiciones, la Legislatura podrá decretar su fusión, previo plebiscito, modificando para ello los límites de los Municipios existentes y concediendo derecho de audiencia a los Ayuntamientos de que se trate.
 
-Cuando exista duda respecto de la línea divisoria entre dos o más Municipios, los Ayuntamientos la fijarán de común acuerdo, el (sic) cual someterán a la aprobación de la Legislatura. En el caso de que no hubiere acuerdo, los Ayuntamientos podrán ocurrir ante el Tribunal Superior de Justicia del Estado a efecto de que, una vez que los haya oído y recibido las pruebas ofrecidas, resuelva en forma definitiva
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2003)</small>
+
+Cuando exista duda respecto de la línea divisoria entre dos o más Municipios, los Ayuntamientos la fijarán de común acuerdo, el cual someterán a la aprobación de la Legislatura. En el caso de que no hubiere acuerdo, los Ayuntamientos podrán ocurrir ante el Tribunal Superior de Justicia del Estado a efecto de que, una vez que los haya oido y recibido las pruebas ofrecidas, resuelva en forma definitiva.
 
 ### CAPÍTULO PRIMERO. DE LA ESTRUCTURA
 
@@ -2556,5 +2570,17 @@ DECRETO No. 157, POR EL QUE SE ADICIONA EL PRIMER PÁRRAFO DEL ARTÍCULO 90 Y SE
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 P.O. 1 DE OCTUBRE DE 2003.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 22 DE OCTUBRE DE 2003.
+
+DECRETO No. 313, POR EL QUE SE ADICIONA EL PRIMER PÁRRAFO DEL ARTÍCULO 27 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 22 DE OCTUBRE DE 2003.
+
+DECRETO No. 314, POR EL QUE SE ADICIONA LA DENOMINACIÓN DEL CAPÍTULO TERCERO, TÍTULO QUINTO; SE HACE UNA ADICIÓN AL PROEMIO; SE ADICIONA LA FRACCIÓN I; SE ADICIONA UN TERCER PÁRRAFO, RECORRIÉNDOSE LOS PÁRRAFOS SUBSIGUIENTES, QUE PASARÁN A SER CUARTO Y QUINTO. TALES ADICIONES Y REFORMAS, CORRESPONDEN AL TÍTULO QUINTO, CAPÍTULO TERCERO; ASÍ COMO AL ARTÍCULO 124 DE NUESTRA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
