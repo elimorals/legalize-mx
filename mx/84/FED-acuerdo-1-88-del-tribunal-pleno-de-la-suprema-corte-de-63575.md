@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-1-88-del-tribunal-pleno-de-la-suprema-corte-de-63575"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1988-01-15"
-last_updated: "1989-01-24"
+last_updated: "1989-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63575&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-01-15"
 
 ACUERDO No. 1/88, DEL TRIBUNAL EN PLENO DEL DIA QUINCE DE ENERO DE MIL NOVECIENTOS OCHENTA Y OCHO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ENERO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE FEBRERO DE 1989.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 15 de enero de 1988.
 
@@ -385,13 +385,13 @@ XXVI.- Los Juzgados Primero y Segundo de Distrito en el Estado de Guanajuato, co
 
 XXVII.- El Juzgado Tercero de Distrito en el Estado de Guanajuato, con residencia en la ciudad de León, ejercerá jurisdicción en los municipios mencionados en la fracción XXVI;
 
-> <small>(REFORMADA POR EL PUNTO SEXTO DEL ACUERDO NUMERO 9/88 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 15 DE JULIO DE 1988)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO NUMERO 2/89 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 15 DE FEBRERO DE 1989)</small>
 
-XXVIII.- Los Juzgados Primero y Segundo de Distrito en el Estado de Chihuahua, con residencia en la ciudad de Chihuahua, ejercerán jurisdicción en el territorio del Estado, excepto en los municipios mencionados en la fracción XXIX;
+XXVIII.- Los Juzgados Primero y Segundo de Distrito en el estado de Chihuahua, con residencia en la ciudad de Chihuahua, ejercerán jurisdicción en los municipios de Chihuahua, Aldama, Allende, Aquiles Serdán, Bachíniva, Balleza, Batopilas, Bocoyna, Camargo, Caprichi, Coronado Coyame, Cuauhtémoc, Cosihuiriachi, Chínipas, Delicias, Doctor Belisario Domínguez, El Tule, General Trías, Gómez Farías, Gran Morelos, Guadalupe y Calvo, Guachochi, Guazapares, Guerrero, Hidalgo del Parral, Huejotitán, Jiménez, Julimes, La Cruz, López, Madera, Maguarichi, Manuel Benavides, Matachi, Matamoros, Meoqui, Morelos, Moris, Namiquipa, Nonoava, Ocampo, Ojinaga, Riva Palacio, Rosales, Rosario, San Francisco de Borja, San Francisco de Conchos, San Francisco del Oro, Santa Bárbara, Satevó, Saucillo, Temósachi, Urique, Uruachi, Valle de Zaragoza;
 
-> <small>(REFORMADA POR EL PUNTO SEXTO DEL ACUERDO NUMERO 9/88 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 15 DE JULIO DE 1988)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO NUMERO 2/89 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 15 DE FEBRERO DE 1989)</small>
 
-XXIX.- Los Juzgados Tercero y Cuarto de Distrito en el Estado de Chihuahua, con residencia en Ciudad Juárez, ejercerán jurisdicción en los Municipios de Aquiles Serdán, Asunción, Juárez y Práxedes G. Guerrero, del mismo estado;
+XXIX.- Los Juzgados Tercero y Cuarto de Distrito en el estado de Chihuahua, con residencia en Ciudad Juárez, ejercerán jurisdicción en los municipios de Juárez, Ahumada, Ascensión, Buenaventura, Casas Grandes, Galeana, Guadalupe Distrito Bravos, Ignacio Zaragoza, Janos, Nuevo Casas Grandes, Práxedis G. Guerrero;
 
 XXX.- El Juzgado Primero de Distrito en el Estado de Tamaulipas, con residencia en Ciudad Victoria, ejercerá jurisdicción en los municipios de Victoria, Güemes, Padilla, Villagrán, Casas, Hidalgo, Llera, Jiménez, Mainero, El Mante, Antiguo Morelos, Nuevo Morelos, Xicoténcatl, Gómez Farías, Ocampo, Tula, Palmillas, Bustamante, Miquihuana, Jaumave, San Carlos, San Nicolás, Soto La Marina y Abasolo;
 
@@ -490,3 +490,9 @@ D.O.F. 24 DE ENERO DE 1989.
 ACUERDO No. 13/88, DEL TRIBUNAL EN PLENO DEL DIA TRECE DE DICIEMBRE DE MIL NOVECIENTOS OCHENTA Y OCHO
 
 UNICO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE FEBRERO DE 1989.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación y en los órganos del Semanario Judicial de la Federación.
+
+SEGUNDO.- Los asuntos que, hasta la entrada en vigor de este acuerdo, hayan sido recibidos en los juzgados de Distrito Primero, Segundo, Tercero y Cuarto, en el estado de Chihuahua, permanecerán en ellos hasta su resolución, aunque todavía no hayan sido radicados.
