@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-pensiones-para-los-trabajadores-al-servicio-del-6990"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-16"
-last_updated: "1987-07-25"
+last_updated: "1992-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6990&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PENSIONES PARA LOS TRABAJADORES AL SERVICIO DEL AYUNTAMIENTO DEL MUNICIPIO DE OAXACA DE JUAREZ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 16 de diciembre de 1978.
 
@@ -237,11 +237,13 @@ La edad y el parentesco de los trabajadores y sus beneficiarios se acreditará (
 
 Para que un trabajador pueda disfrutar la pensión, es necesario cubrir previamente a la Dirección los adeudos que tuviesen con la propia Dirección, respecto a las aportaciones establecidas en el artículo 1o. de esta Ley.
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 1987)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1992)</small>
 
 ###### ARTICULO 32.
 
-Tiene derecho a la jubilación el personal masculino con treinta o más años de servicio y el personal femenino con veinticinco o más años de servicio, en ambos casos con igual tiempo de contribución a la Dirección, cualquiera que sea su edad. El monto de la pensión jubilatoria será el salario que perciba el trabajador en el momento de la jubilación.
+Tienen derecho a la jubilación el personal masculino con veintinueve años y el personal femenino con veinticinco años de servicio, en ambos casos con igual tiempo de aportaciones a la Dirección de Pensiones cualquiera que sea su edad. El monto de la pensión jubilatoria será el salario tabulado que corresponda a la categoría siguiente en el escalafón de la que tuviera el trabajador, siempre y cuando exista esa categoría en el tabulador del contrato colectivo de trabajo que corresponda a la plaza que ocupe el trabajador que se jubile y para el caso de que no exista categoría superior, la pensión jubilatoria se fijará incrementando un diez por ciento al salario que en el momento de decretar su jubilación perciba el trabajador.
+
+La Dirección de Pensiones concederá la jubilación automática al personal femenino que cumpla veinticinco años de servicio.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE FEBRERO DE 1984)</small>
 
@@ -477,11 +479,11 @@ VI.- Revisar anualmente las pensiones para otorgar a los trabajadores los corres
 
 ###### ARTICULO 58.
 
-El Presidente de la Junta Directiva, será uno de los tres representantes del H Ayuntamiento.
+El Presidente de la Junta Directiva, será uno de los tres representantes del H. Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 25 DE FEBRERO DE 1984)</small>
 
-###### ARTICULO 59.
+###### Artículo 59.
 
 Los acuerdos de la Junta Directiva se tomarán por mayoría de votos, pero cuando uno de los representantes de cualquiera de los Sindicatos o del Ayuntamiento se inconforme, bastará su voto en contra para suspender la aprobación del asunto de que se trata, hasta la próxima sesión, en la inteligencia de que solo podrá suspenderse por una sola vez la aprobación del mismo asunto.
 
@@ -616,3 +618,7 @@ P.O. 25 DE FEBRERO DE 1984.
 P.O. 25 DE JULIO DE 1987.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE OCTUBRE DE 1992.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
