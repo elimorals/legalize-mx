@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1973-12-26"
+last_updated: "1974-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 1974.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -985,11 +985,19 @@ III.- Tratándose de plantas de beneficio y establecimientos metalúrgicos, la b
 
 ### CAPITULO III. IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
+
 149.- El objeto de este impuesto es la tenencia o uso de automóviles y camiones.
+
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
 
 150.- Son sujetos del impuesto las personas físicas o morales tenedoras o usuarios de los vehículos a que se refiere el artículo anterior.
 
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
+
 151.- Las plantas ensambladoras, sus distribuidores y los demás comerciantes en el ramo de automóviles, causarán el impuesto por los vehículos que estando registrados en las Oficinas de Tránsito a su nombre, estén al servicio de la negociación o de sus funcionarios y empleados.
+
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
 
 152.- Quedan exceptuados del impuestos (sic) los tenedores y los usuarios de los vehículos a que se refieren las siguientes fracciones:
 
@@ -1003,17 +1011,29 @@ IV.- Las ambulancias que estén al servicio de la Federación, Estados, Municipi
 
 V.- Los que tengan para su venta las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de automóviles, siempre que carezcan de placas de circulación.
 
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
+
 153.- A los vehículos comprendidos en la fracción III del artículo anterior, se les expedirá un oficio de exención del tributo y una calcomanía especial diferentes a la de los vehículos por los que se haya cubierto el gravamen, previa comprobación por parte de la Tesorería General del Estado de que los mismos quedan comprendidos dentro del supuesto de esa fracción.
+
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE CCOORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
 
 154.- Los tenedores o usuarios de vehículos que por cualquier motivo dejen de estar comprendidos en alguna de las fracciones del artículo 152, causarán el impuesto correspondiente, el cual se cubrirá dentro de los 15 días siguientes al cambio de situación.
 
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
+
 155.- Quienes por cualquier título adquieran la propiedad, la tenencia o uso de vehículos sujetos al impuesto, son solidariamente responsables del pago que por concepto de tal impuesto se adeudare respecto del vehículo o vehículos materia del traspaso de la propiedad, de la tenencia o del uso; aunque como consecuencia del traspaso y del servicio a que los vehículos se destinen, queden comprendidos en las fracciones I, II y V del artículo 152.
 
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
+
 156.- Las personas que reciban en consignación o comisión para su venta automóviles cuya tenencia o uso grava este capítulo, son solidariamente responsables por los impuestos que se adeuden.
+
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
 157.- El impuesto se causará anualmente y deberá quedar cubierto dentro de los dos primeros meses de cada año.
+
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
@@ -1059,6 +1079,8 @@ año anteriores al de la aplicación
 
 de la Ley "150.00 "150.00 "150.00
 
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
+
 159.- Para la aplicación de la tarifa se tomará en cuenta la siguiente clasificación:
 
 I.- Primera categoría: Comprende vehículos cuyo precio oficial de venta al público sea hasta de $35,000.00.
@@ -1067,7 +1089,11 @@ II.- Segunda categoría: Comprende vehículos cuyo precio oficial de venta al p�
 
 III.- Tercera categoría: Comprende vehículos cuyo precio oficial de venta al público exceda de $50,000.00.
 
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
+
 160.- Como modelo debe considerarse el año del modelo o el de fabricación; como marca el nombre comercial del vehículo; y como tipo, las características especiales del mismo.
+
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
@@ -1083,11 +1109,19 @@ III.- Cuota que corresponda cubrir conforme al artículo 158 de este Capítulo o
 
 La Tesorería General del Estado por conducto de sus oficinas recaudadoras entregará la calcomanía que compruebe el pago o la exención del impuesto, que sólo servirá para amparar el vehículo para la que fué entregada.
 
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
+
 162.- Las Oficinas de Tránsito del Estado no autorizarán altas ni cambios de placas si el vehículo no ostenta en el parabrisas la calcomanía que compruebe el pago del impuesto, o en su caso la exención del gravamen. Siempre que comprueben que no se ha cubierto el impuesto, lo harán del conocimiento de la Recaudación de Rentas respectiva para que proceda a su cobro. Las autoridades que infrinjan esta disposición serán responsables solidariamente del impuesto omitido.
+
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
 
 163.- Los tenedores o usuarios de los vehículos están obligados a fijar en el parabrisas la calcomanía que compruebe el pago del impuesto. En caso de que por falta de dicha calcomanía no puedan demostrar al ser requeridos para ello, que están al corriente en el pago del impuesto, se procederá en los términos del artículo 337.
 
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
+
 164.- El hecho de no fijarse en el vehículo la calcomanía que compruebe el pago del impuesto como se establece en el artículo anterior, se sancionará con una multa equivalente al 20% del impuesto que corresponda.
+
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
@@ -1720,6 +1754,8 @@ IX.- Las enajenaciones que a título gratuito hagan los particulares a los gobie
 X.- En los demás casos exceptuados por leyes especiales.
 
 148.- Tendrán responsabilidad objetiva en el pago del impuesto, los adquirentes de inmuebles cuando los sujetos con responsabilidad directa a que se refieren las fracciones I, III, IV y V del Artículo 133, no paguen el impuesto causado en relación con esos mismos inmuebles o lo cubran en cantidad menor de la que les corresponde, de acuerdo con las disposiciones de este Capítulo. En consecuencia, en cualquier tiempo la Tesorería podrá seguir el procedimiento económico coactivo, para hacer efectivo el adeudo, sobre el inmueble de que se trate.
+
+N. DE E., LOS ARTICULOS 149 A 165, QUE INTEGRAN EL CAPITULO III DEL TITULO TERCERO, DEL CODIGO FISCAL DEL ESTADO, FUERON SUSPENDIDOS CON MOTIVO DEL CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL CELEBRADO ENTRE EL ESTADO DE CHIHUAHUA Y LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO, P.O. 2 DE ENERO DE 1974.
 
 #### SECCION PRIMERA. OBJETO Y SUJETO
 
@@ -3201,9 +3237,151 @@ San Francisco de Conchos 0.7%
 
 Del importe de la participación a que se contrae esta fracción, se destinará por lo menos el 50% a obras públicas. El Municipio que no lo hiciere perderá la participación en beneficio de aquellos que cumplan este requisito. La Tesorería General del Estado vigilará el estricto cumplimiento de esta disposición.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 1974)</small>
 
-IX.- También participarán los municipios productores o consumidores en los ingresos que en calidad de participaciones señalen las leyes federales al Estado, sobre los impuestos que obtenga la Federación en esta Entidad Federativa, en materia de: consumo de cerveza, caza y similares pesca y buceo, producción de metales y minerales no metálicos, consumo y producción de cemento, explotación forestal, venta y arrendamiento de bosques y terrenos nacionales, energía eléctrica y otros tributos que correspondan a su esfera impositiva y en las que sean partícipes los Municipios. La Secretaría de Hacienda y Crédito Público cubrirá directamente a los Municipios las participaciones que les correspondan de conformidad con las leyes federales que normen estas percepciones.
+IX.- 40% sobre las participaciones que al Estado corresponden en los Impuestos Federales sobre Reventa de Aceites y Grasas Lubricantes y Automóviles y Camiones Ensamblados.
+
+La participación total a que se refieren las fracciones V, VI, VII, VIII, IX, se distribuirá entre los Municipios de conformidad con los estudios económicos elaborados atendiendo a los siguientes elementos: Número de habitantes, importe de su presupuesto de egresos, gasto público municipal por habitante y otras consideraciones. En consecuencia los porcentajes de participación del producto total serán los siguientes:
+
+Ahumada 0.7%
+
+Aldama 0.9%
+
+Allende Valle de 1.4%
+
+Aquiles Serdán 0.6%
+
+Ascensión 0.6%
+
+Bachíniva 1.0%
+
+Balleza 1.6%
+
+Batopilas 1.2%
+
+Belisario Domínguez 1.0%
+
+Bocoyna 2.0%
+
+Buenaventura 1.8%
+
+Camargo 2.3%
+
+Carichic 1.2%
+
+Casa Grandes 0.7%
+
+Coronado 0.7%
+
+Coyame 0.6%
+
+Cuauhtémoc 3.3%
+
+Cusihuiriáchic 1.2%
+
+Chihuahua 5.0%
+
+Chínipas 1.0%
+
+Delicias 3.3%
+
+Praxedis G. Guerrero 1.0%
+
+Galeana 0.6%
+
+General Trías 1.0%
+
+Gómez Farías 1.2%
+
+Gran Morelos 0.9%
+
+Guachochi 2.0%
+
+Guadalupe, D. B. 1.2%
+
+Guadalupe y Calvo 3.6%
+
+Guerrero 4.0%
+
+H. del Parral 3.3%
+
+Ignacio Zaragoza 1.4%
+
+Janos 0.6%
+
+Jiménez 1.8%
+
+Juárez 5.0%
+
+Julimes 0.9%
+
+La Cruz 0.7%
+
+López Villa 0.9%
+
+Madera 3.8%
+
+Maguarichic 0.7%
+
+Manuel Benavides 1.0%
+
+Matachic 0.9%
+
+Matamoros Villa 0.9%
+
+Meoqui 1.7%
+
+Morelos 1.0%
+
+Moris 0.6%
+
+Maniquipa 3.6%
+
+Nonoava 0.6%
+
+Nuevo Casas Grandes 1.9%
+
+Ocampo 0.9%
+
+Ojinaga 1.6%
+
+Riva Palacio 1.6%
+
+Rosales 1.4%
+
+Rosario Valle de 0.9%
+
+San Francisco de Borja 1.0%
+
+San Francisco del Oro 0.9%
+
+Santa Bárbara 1.3%
+
+Satevó 0.7%
+
+Saucillo 3.6%
+
+Temósachic 0.6%
+
+Urique 1.6%
+
+Uruachi 1.0%
+
+Zaragoza Valle de 0.9%
+
+Huejotitán 0.7%
+
+Guazapares 1.0%
+
+El Tule 0.7%
+
+San Francisco de Conchos 0.7%
+
+Del importe de la participación a que se contrae esta fracción, se destinará por lo menos el 50% a obras públicas. El Municipio que no lo hiciere perderá la participación en beneficio de aquellos que cumplan este requisito. La Tesorería General del Estado vigilará el estricto cumplimiento de esta disposición.
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 1974)</small>
+
+X.- También participarán los Municipios productores o consumidores en los ingresos que en calidad de participaciones señalen las leyes federales al Estado, sobre los impuestos que obtenga la Federación en esta Entidad Federativa, en materia de: consumo de cerveza, caza y similares, pesca y buceo, producción de metales y minerales no metálicos, consumo y producción de cemento, explotación forestal, venta y arrendamiento de bosques y terrenos nacionales, energía eléctrica y otros tributos que correspondan a su esfera impositiva y en las que sean partícipes los Municipios. La Secretaría de Hacienda y Crédito Público cubrirá directamente a los Municipios las participaciones que les correspondan de conformidad con las Leyes federales que normen estas percepciones.
 
 317.- Con el objeto de evitar la duplicidad de los impuestos, los municipios no podrán gravar ninguna fuente de riqueza ni actividad comercial o industrial de las contenidas en este Código con la única excepción del impuesto llamado de Licencia Anual al Comercio y la Industria.
 
@@ -4318,3 +4496,7 @@ ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor en todo el Estado d
 P.O. 26 DE DICIEMBRE DE 1973.
 
 ARTICULO TRANSITORIO.- El presente decreto entrará en vigor en todo el Estado de Chihuahua el día 1o. de enero de mil novecientos setenta y cuatro.
+
+P.O. 4 DE MAYO DE 1974.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
