@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2003-09-11"
+last_updated: "2003-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2003.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -995,9 +995,13 @@ Las personas jurídicas pueden pactar el establecimiento de domicilios convencio
 
 Cuando varias personas convienen en reunirse, de manera que no sea enteramente transitoria, para realizar un fin común que no esté prohibido por la ley y que no tenga carácter preponderantemente económico, constituyen una asociación.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ###### Art. 173.
 
-El acto jurídico por el que se constituya una asociación, debe constar en escritura pública otorgada ante notario que tenga su adscripción en el domicilio de la asociación.
+El acto jurídico por el que se constituya una asociación, debe constar en escritura pública otorgada ante notario, que tenga su adscripción en el domicilio de la asociación.
+
+Tratándose de asociaciones que tengan como objeto aspectos relacionado (sic) con la asistencia social, deberán contar con la anuencia por escrito del Instituto Jalisciense de Asistencia Social, misma que tendrá que presentarse ante el notario previo a su constitución.
 
 ###### Art. 174.
 
@@ -1097,9 +1101,11 @@ La fundación tiene por objeto afectar determinados bienes de propiedad particul
 
 Las fundaciones pueden constituirse por acto entre vivos, o por disposición testamentaria.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ###### Art. 192.
 
-Las fundaciones que se constituyan por acto entre vivos, pueden hacerse por voluntad de una o de varias personas, formalizándose la misma mediante escritura pública.
+Las fundaciones que se constituyan por acto entre vivos, pueden hacerse por voluntad de una o de varias personas, formalizándose la misma mediante escritura pública y cuando tengan como objeto aspectos relacionados con la asistencia social, deberán contar con la anuencia por escrito del Instituto Jalisciense de Asistencia Social, misma que tendrá que presentarse ante el notario público previo a su constitución.
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2001)</small>
 
@@ -6445,7 +6451,7 @@ El usufructo constituido a favor de personas jurídicas, que puedan adquirir y a
 
 ###### Art. 1100.
 
-El usufructo concedido por el tiempo que tarde un tercero en llegar a cierta edad, dura el numero de años prefijados aunque el tercero muera antes.
+El usufructo concedido por el tiempo que tarde un tercero en llegar a cierta edad, dura el número de años prefijados aunque el tercero muera antes.
 
 ###### Art. 1101.
 
@@ -9927,11 +9933,13 @@ Para que tengan aplicación los artículos que preceden, se supone que el cumpli
 
 Por virtud de la rescisión, la autoridad judicial ante el incumplimiento de una de las partes en una convención, la libera de su obligación y ordena la restitución recíproca en cuanto ello fuere posible de las prestaciones que entre sí se otorgaron las partes como si el acto jurídico no hubiere existido.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ###### Art. 1792.
 
-Tratándose de contratos de arrendamiento de inmuebles, en donde se invoque como única causal para pedir la rescisión la falta de pago de las rentas, si el demandado exhibe recibo o el importe de las pensiones de rentas reclamadas y en su caso, las costas y demás accesorios demandados, la autoridad judicial deberá sobreseer todo procedimiento, si es que aún no se dicta sentencia, y en caso que se hubiere dictado, quedará condicionada la ejecución de la misma. Este pago podrá hacerse hasta antes de poner en posesión del bien al arrendador.
+Tratándose de contratos de arrendamiento de inmuebles, en donde se invoque como única causal para pedir la rescisión la falta de pago de las rentas, si el demandado exhibe recibo o el importe de las pensiones de rentas reclamadas y en su caso, las costas y demás accesorios demandados, la autoridad judicial deberá sobreseer todo procedimiento, si es que aún no se dicta sentencia.
 
-Lo dispuesto en este artículo es de orden público y por ende irrenunciable, y aun cuando la sentencia fuera omisa en precisarlo, se tendrá por puesto para todos los efectos legales, constituyendo responsabilidad para los servidores públicos judiciales que lo incumplan.
+Lo dispuesto en este artículo es de orden público y por ende irrenunciable.
 
 ### CAPITULO II. De los créditos privilegiados, hipotecarios y pignoraticios
 
@@ -11055,9 +11063,21 @@ IV. Garantizar el uso o goce pacífico del bien, por todo el tiempo que dure el 
 
 V. Garantizar una posesión útil del bien arrendado, respondiendo de los daños y perjuicios que sufra el arrendatario por los defectos o vicios ocultos del bien, anteriores al arrendamiento;
 
-VI. Responder de los daños y perjuicios que se causen al arrendatario en el caso de que el arrendador sufra la evicción del bien arrendado. En caso de que ésta se dé habiendo mala fe del arrendador, la indemnización en ningún caso será inferior al importe de tres meses de rentas; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-VII. Devolver al arrendatario el saldo que hubiese a su favor al terminar el contrato de arrendamiento.
+VI. Responder de los daños y perjuicios que se causen al arrendatario en el caso de que el arrendador sufra la evicción del bien arrendado. En caso de que ésta se dé habiendo mala fe del arrendador, la indemnización en ningún caso será inferior al importe de tres meses de rentas;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+VII. Devolver al arrendatario el saldo que hubiese a su favor al terminar el contrato de arrendamiento; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+VIII. Entregar al arrendatario los documentos que acrediten el pago de la renta.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+La entrega de los documentos a que se refiere la fracción VIII, presumen la existencia del contrato de arrendamiento y el pago de la deuda constante en ellos.
 
 ###### Art. 1996.
 
@@ -11111,9 +11131,21 @@ I. Satisfacer la renta en la forma y tiempo convenidos;
 
 II. Responder de los daños que el bien arrendado sufra, por su culpa o negligencia, la de sus familiares, sirvientes o subarrendatarios;
 
-III. Servirse del bien solamente para el uso convenido o conforme a la naturaleza y destino de él; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-IV. Poner en conocimiento del arrendador, en el término más breve posible, toda usurpación o novedad dañosa que otro haya hecho o abiertamente prepare en el bien arrendado. En caso de no hacerlo, responderá de los daños y perjuicios que pueda ocasionar al arrendador con su omisión.
+III. Utilizar el bien solamente para el uso convenido o conforme a la naturaleza y destino de él;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+IV. Poner en conocimiento del arrendador, en el término más breve posible, toda usurpación o novedad dañosa que otro haya hecho o abiertamente prepare en el bien arrendado. En caso de no hacerlo, responderá de los daños y perjuicios que pueda ocasionar al arrendador con su omisión;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+V. Recibir del arrendador, los documentos que acrediten el pago de la renta, pudiendo consignarlo, cuando el arrendador se niegue a entregarlos; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+VI. Desocupar el bien, en caso de arrendamiento de inmuebles, y entregarlo al arrendador una vez cumplido el plazo fijado en el contrato o en la ley.
 
 ###### Art. 2006.
 
@@ -11205,23 +11237,45 @@ El arrendatario que hubiera perdido el uso o goce del bien arrendado por existir
 
 Los contratos de arrendamiento de inmuebles deben contener:
 
-I. Nombre del arrendador;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-II. Nombre del arrendatario;
+I. El nombre del arrendador;
 
-III. Descripción detallada del inmueble objeto del contrato;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+II. El nombre del arrendatario;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+III. La descripción detallada del inmueble objeto del contrato;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 IV. Las instalaciones y accesorios con que cuenta para su uso el bien arrendado;
 
-V. Estado que guarda el inmueble;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-VI. Garantía que deberá otorgar el arrendatario;
+V. El estado que guarda el inmueble;
 
-VII. Destino del inmueble;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-VIII. Término del contrato; y
+VI. La garantía que deberá otorgar el arrendatario;
 
-IX. Obligaciones que el arrendador y el arrendatario contraen adicionalmente a las establecidas en la ley.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+VII. El destino del inmueble;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+VIII. El término del contrato;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+IX. El señalamiento de a quien corresponde el pago del servicio de agua potable y alcantarillado y demás servicios públicos estatales o municipales que estén relacionados con el objeto del contrato de arrendamiento; y
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+X. Las obligaciones que el arrendador y el arrendatario contraen adicionalmente a las establecidas en la ley.
 
 La falta de alguno de estos requisitos no invalida el contrato.
 
@@ -11287,9 +11341,11 @@ II. El pago de los daños y perjuicios que se hayan causado a otras personas, si
 
 Todos los arrendamientos, sea de predios rústicos o urbanos que no se hayan celebrado por tiempo expresamente determinado, se entenderán por tiempo indefinido y las obligaciones de las partes continuarán hasta que no se dé por terminada la relación contractual.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ###### Art. 2035.
 
-En los casos del artículo anterior, el arrendamiento concluirá a voluntad de cualesquiera de los contratantes, previo aviso dado a la otra parte en forma indubitable. Tratándose de un predio urbano, el aviso deberá darse con seis meses si lo da el arrendador; quince días si lo da el arrendatario; y con nueve meses de anticipación para ambas partes, si el predio es rústico o destinado a fines agropecuarios.
+En los casos de contrato por tiempo indefinido, el arrendamiento concluirá a voluntad de cualesquiera de los contratantes, previo aviso dado a la otra parte en forma indubitable. Tratándose de un predio urbano, el aviso deberá darse con tres meses de antelación si lo da el arrendador y un mes si lo da el arrendatario; y con nueve meses de anticipación para ambas partes, si el predio es rústico o destinado a fines agropecuarios.
 
 Lo dispuesto en este artículo no será objeto de renuncia.
 
@@ -11337,7 +11393,9 @@ a) Su plazo mínimo de vigencia será de un año;
 
 b) El plazo será obligatorio solamente para el arrendador; y
 
-c) El arrendatario podrá dar por concluido el contrato en cualquier tiempo, con la obligación respecto del pago de las rentas de cubrirlas hasta la fecha en que desocupe el inmueble.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+c) El arrendatario podrá dar por concluido el contrato en cualquier tiempo, con la obligación respecto del pago de las rentas de cubrirlas hasta la fecha en que desocupe totalmente el inmueble y lo ponga a disposición del arrendador.
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2000)</small>
 
@@ -11395,9 +11453,13 @@ Al término del arrendamiento, el arrendatario que haya cumplido en tiempo con t
 
 Para computar el término de prórroga a que se refiere este artículo, se empezará a contar desde el día en que entró en posesión del inmueble como arrendatario, aunque la finca hubiese cambiado de propietario.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ###### Art. 2052.
 
-Es obligación del arrendador y del arrendatario sujetarse a las normas ecológicas y de desarrollo urbano que señalen las leyes.
+Es obligación del arrendador y del arrendatario sujetarse a las normas ecológicas, de desarrollo urbano, protección civil y demás obligaciones que señalen las leyes.
+
+> <small>(F. DE E., P.O. 26 DE AGOSTO DE 2004)</small>
 
 Cuando el acatamiento de dichas disposiciones vuelva su cumplimiento oneroso o imposible, las partes podrán optar por su rescisión o por un cambio en las condiciones del contrato.
 
@@ -11903,19 +11965,29 @@ Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día pref
 
 Cuando a la falta de pago del importe de la renta por dos o más meses consecutivos tratándose de inmuebles y de dos quincenas para los muebles, se aúne el abandono del bien, previa certificación de la autoridad judicial, se entregará el mismo al arrendador, cesando en ese momento la obligación de seguir pagando rentas, dándose por concluido el contrato.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ###### Art. 2143.
 
-Si después de terminado el plazo por el que se celebró el arrendamiento, el arrendatario continúa sin oposición en el uso y goce del bien arrendado, continuará el arrendamiento por tiempo indeterminado, estando obligado el arrendatario a pagar la renta que corresponda por el tiempo que exceda conforme a lo convenido en el contrato.
+Si después de terminado el plazo por el que se celebró el arrendamiento o su prórroga, el arrendatario continúa sin oposición en el uso y goce del bien arrendado, continuará el arrendamiento por tiempo indeterminado, estando obligado el arrendatario a pagar la renta que corresponda por el tiempo que exceda conforme a lo convenido en el contrato, actualizándose el pago de la renta conforme al interés legal establecido en el presente código.
 
 Cualesquiera de las partes podrá solicitar la terminación del contrato de arrendamiento en los términos del artículo 2035 de este código.
 
 Las obligaciones contraídas por un tercero con objeto de garantizar el cumplimiento del arrendamiento, cesan al término del plazo determinado, salvo convenio en contrario.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+Art. 2143 bis.- Si terminado el plazo establecido en el contrato o en la ley para el arrendamiento, y el arrendador solicita el bien, en los términos previstos por aquellos, el arrendatario deberá desocupar y entregar inmediatamente el inmueble.
+
+Si no lo hiciere y fuere demandado, por los días que permanezca en posesión del inmueble deberá pagar la renta que corresponda por el tiempo que exceda conforme a lo convenido en el contrato, actualizándose el pago de la renta conforme al interés legal establecido en el presente código.
+
 ###### Art. 2144.
 
 El arrendador puede exigir la rescisión del contrato de arrendamiento:
 
-I. Por la falta de pago de la renta en los términos contractuales o legales; al quedar cubiertas las rentas insolutas, hasta antes de practicarse el lanzamiento, se extinguirá la causal y subsistirá el arrendamiento;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+I. Por la falta de pago de la renta en los términos contractuales o legales;
 
 II. Por usarse el bien arrendado con un objeto distinto del convenido o de la naturaleza o destino de dicho bien;
 
@@ -14801,9 +14873,11 @@ VIII. La disposición hecha en términos vagos en favor de los parientes del tes
 
 Si un testamento se pierde por un evento ignorado por el testador, o por haber sido ocultado por otra persona, podrán los interesados exigir su cumplimiento si demuestran el hecho de la pérdida o de la ocultación, logran igualmente comprobar lo contenido en el mismo testamento y que en su otorgamiento se llenaron las formalidades legales.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ###### Art. 2675.
 
-En todo testamento, el testador deberá expresar cuando los hubiere, los siguientes datos: los nombres completos de sus progenitores, el de sus hijos y el o los matrimonios contraídos.
+En todo testamento, el testador deberá expresar cuando los hubiere, los siguientes datos: sus generales, documento con que se identifica, los nombres completos de sus progenitores, el de sus hijos, el o los matrimonios contraídos, bajo que régimen y en su caso, si vive en concubinato.
 
 ### CAPITULO VII. De las sustituciones
 
@@ -17228,3 +17302,23 @@ SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente 
 TERCERO.- Los asuntos que se encuentren en trámite en las dependencias o entidades relacionados con la indemnización a los particulares, derivados de las faltas administrativas en que hubieren incurrido los servidores públicos, se atenderán hasta su total terminación de acuerdo a las disposiciones aplicables a la fecha en que inició el procedimiento administrativo correspondiente.
 
 CUARTO.- El Gobierno del Estado y los ayuntamientos deberán incluir en sus respectivos presupuestos de egresos para el ejercicio fiscal del año 2004, una partida que haga frente a su responsabilidad patrimonial.
+
+P.O. 30 DE DICIEMBRE DE 2003.
+
+DECRETO 20395
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 30 DE DICIEMBRE DE 2003.
+
+DECRETO 20398
+
+Primero: Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo: Las revisiones de oficio que se encuentren en trámite al momento de la entrada en vigor de este decreto seguirán rigiéndose por las disposiciones vigentes al inicio de su substanciación.
+
+P.O. 30 DE DICIEMBRE DE 2003.
+
+DECRETO 20421
+
+ÚNICO. El presente decreto que contiene reformas al Código Civil del Estado de Jalisco y Código de Procedimientos Civiles del Estado de Jalisco entrará en vigor al día 14 de febrero de 2004, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
