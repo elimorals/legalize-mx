@@ -1,0 +1,1560 @@
+---
+title: "LEY DE HACIENDA DEL ESTADO DE ZACATECAS"
+identifier: "ZAC-ley-de-hacienda-del-estado-de-zacatecas-19080"
+country: "mx"
+rank: "ley"
+publication_date: "2000-12-30"
+last_updated: "2000-12-30"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19080&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-zac"
+scjn_id: "19080"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "105 SUPLEMENTO No. 3"
+reform_count: "28"
+scjn_last_update: "2016-12-31"
+issue_date: "2000-12-30"
+state: "ZAC"
+---
+# LEY DE HACIENDA DEL ESTADO DE ZACATECAS
+
+LEY DE HACIENDA DEL ESTADO DE ZACATECAS
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre del 2000.
+
+LICENCIADO RICARDO MONREAL AVILA, Gobernador del Estado de Zacatecas, a sus habitantes hago saber:
+
+Que los CC. DIPUTADOS SECRETARIOS de la H. Quincuagésima Sexta Legislatura del Estado, se han servido dirigirme el siguiente:
+
+DECRETO # 228
+
+LA HONORABLE QUINCUAGÉSIMA SEXTA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS, EN NOMBRE DEL PUEBLO, DECRETA:
+
+LEY DE HACIENDA DEL ESTADO DE ZACATECAS
+
+RESULTANDO UNICO.- En sesión ordinaria de esta Legislatura, celebrada el día 19 de los actuales mes y año, se dio cuenta al Pleno de la recepción de la Iniciativa de Ley de Hacienda del Estado de Zacatecas, que con fundamento en el artículo 60, fracción II de la Constitución Política del Estado, presenta el Ejecutivo de la Entidad, mediante oficio DS-181/00, fechado en día 15 del mismo mes y año, suscrito por el Lic. ARTURO NAHLE GARCÍA, Secretario General de Gobierno del Estado, documento que a través del Memorándum número 647, y con fundamento en lo dispuesto por los artículos 62 de la Ley Orgánica del Poder Legislativo, 63, 70 y 71 del Reglamento Interior, fue turnado a las suscritas Comisiones de Hacienda, para su análisis y dictamen, permitiéndonos someter a su consideración las siguiente:
+
+EXPOSICION DE MOTIVOS
+
+La Asamblea de Diputados coincide con el titular del Poder Ejecutivo, en el sentido de que es necesario adecuar el marco normativo a la realidad que vive la sociedad zacatecana, con el objeto de proporcionar leyes acordes al presente, y a las expectativas del futuro desarrollo integral de la Entidad, sobre la preeminencia del sometimiento de todos, gobernantes y gobernados, al imperio de la ley.
+
+La nueva Ley de Hacienda del Estado, contenida en el presente decreto, se sustenta en los principios constitucionales contemplados en la fracción IV del artículo 31 de la Constitución Política de los Estados Unidos Mexicanos, como lo son los de: legalidad, obligatoriedad, vinculación tributo-gasto público, proporcionalidad y equidad, residencia y anualidad.
+
+En términos generales, la nueva ley conserva la estructura de los componentes de la relación jurídico tributaria que preveía la ley que se abroga. Esto es, prevalecen los mismos criterios sobre sujeto, objeto, base y tarifas tributarias, así como el catálogo de fuentes específicas, como lo son: los impuestos, derechos, productos, aprovechamientos e ingresos coordinados.
+
+En su iniciativa, el Ejecutivo del Estado propuso la creación de dos nuevos impuestos estatales: el impuesto sobre nóminas, y el relativo a la tenencia o uso de vehículos, en los rangos no gravados por la ley federal de la materia.
+
+Como resultado del análisis realizado por esta Legislatura, se llegó a la conclusión, por mayoría, en el sentido de crear las dos nuevas figuras impositivas de referencia, con el propósito de fortalecer, dentro del escaso margen posible, las fuentes de ingreso, para atender las crecientes necesidades de gasto público que en obras y servicios demanda la ciudadanía.
+
+Sin embargo, como representantes populares, estamos obligados asimismo a encontrar los puntos de equilibrio para que en materia tributaria no se afecte injustamente a los contribuyentes de menores ingresos.
+
+Por ello, hubo necesidad de modificar, para efectos de dictamen, los planteamientos formulados por el Ejecutivo del Estado, en relación a los dos nuevos impuestos que se comentan.
+
+En el caso del impuesto sobre nóminas se mantiene el criterio de establecer una tarifa progresiva, en aras del principio de proporcionalidad y equidad. Sin embargo, con el propósito de proteger y estimular a la micro y mediana empresa, los contribuyentes, personas físicas y morales que tengan hasta cuatro trabajadores, quedan exentos del impuesto, al aplicárseles la tasa 0.%; tampoco quedarán obligados a presentar la declaración que previene la ley al respecto. Por otra parte, las tasas progresivas que van del 1.0% al 1.9%, sólo se aplicarán a contribuyentes que tengan a su servicio, de cinco trabajadores en adelante.
+
+Pero además, se previene una prolija diversidad de erogaciones patronales exentas o no integrables a la base de cálculo del impuesto.
+
+Por lo que respecta al Impuesto sobre Tenencia o Uso de Vehículos Estatal, también se modificó la iniciativa presentada por el Ejecutivo, en bien de los contribuyentes de más bajos ingresos, o con menor capacidad de respuesta tributaria.
+
+Así, la base del impuesto se circunscribe exclusivamente a la tenencia o uso de vehículos automotores, cuyos modelos de fabricación, correspondan a la década inmediata anterior a la de los modelos por los que se paga el impuesto federal, así como todo tipo de remolques, cualquiera que sea su modelo.
+
+Con esta fórmula normativa, los propietarios o poseedores de vehículos de motor cuyos modelos de fabricación tengan una antigüedad de veinte o más años, no pagarán tenencia alguna.
+
+Por otra parte, se establece una tasa única para vehículos de motor, cualquiera que sea su modelo, equivalente a cuatro cuotas de salario mínimo, y de dos cuotas para todo tipo de remolques, lo que implica una reducción respecto de las tasas que proponía el Ejecutivo en su iniciativa.
+
+Con las anteriores adecuaciones y ajustes, se ha procurado encontrar el punto de equilibrio entre la necesidad de fortalecer las finanzas públicas revertibles a obras y servicios comunitarios, y la no menos atendible necesidad de no lesionar la economía de los sectores más desprotegidos.
+
+Por lo antes expuesto y con fundamento en los artículos 14, fracción I, 132, 133 de la Ley Orgánica del Poder Legislativo, 28, fracción I, 29, fracción I, 31 y 98 del Reglamento Interior, en nombre del Pueblo es de decretarse y se
+
+DECRETA:
+
+LEY DE HACIENDA DEL ESTADO DE ZACATECAS
+
+## TITULO I. GENERALIDADES
+
+### CAPITULO UNICO
+
+###### ARTICULO 1.
+
+La presente Ley tiene por objeto regular la percepción de los ingresos que anualmente se establezcan en la Ley de Ingresos del Estado de Zacatecas.
+
+###### ARTICULO 2.
+
+Los ingresos que se establecen en esta ley, se regularán además en forma supletoria, por la legislación fiscal de la Entidad.
+
+###### ARTICULO 3.
+
+Cuando en esta Ley y en otras disposiciones de carácter fiscal se haga mención a cuotas, se entenderá que se refiere al importe del salario mínimo general vigente en el Estado de Zacatecas.
+
+## TITULO II. DE LOS IMPUESTOS
+
+### CAPITULO I
+
+DEL IMPUESTO SOBRE ADQUISICION DE BIENES MUEBLES.
+
+DEL OBJETO
+
+###### ARTICULO 4.
+
+Es objeto de este impuesto la transmisión de la propiedad por cualquier título, de bienes muebles usados que realicen las personas físicas y morales que no se encuentren gravados por el Impuesto al Valor Agregado.
+
+Cuando parte de la operación se encuentre gravada por el Impuesto al Valor Agregado, será objeto de este impuesto la parte no gravada por el impuesto señalado.
+
+DEL SUJETO
+
+###### ARTICULO 5.
+
+Son sujetos de este impuesto las personas físicas y morales que realicen las adquisiciones a que se refiere el artículo anterior dentro del territorio del Estado de Zacatecas.
+
+###### ARTICULO 6.
+
+Son solidariamente responsables del pago de este impuesto, los adquirentes de vehículos de motor y de bienes muebles por los endosos anteriores, si no comprueba el pago de este impuesto.
+
+DE LA BASE
+
+###### ARTICULO 7.
+
+La base de este impuesto será determinada conforme a las siguientes disposiciones:
+
+I. Tratándose de vehículos automotrices cuyos modelos sean del año en curso, el valor total consignado en la factura original expedida por el distribuidor deduciéndose el 10% por demérito.
+
+II. Tratándose de vehículos automotrices cuyo modelo sea anterior al año en curso, el valor que determine para unidades usadas, la Asociación Mexicana de Distribuidores de Automóviles, A. C., a la fecha de la operación.
+
+III. Tratándose de vehículos automotrices cuyos modelos y valores no estén especificados por la Asociación Mexicana de Distribuidores de Automóviles A.C., la Secretaría de Finanzas practicará un avalúo para determinar el valor que sirva de base para el pago del impuesto.
+
+IV. Tratándose de motocicletas, motonetas y similares, el valor de la factura o documento respectivo, deduciéndose un 10% por depreciación anual. En caso de no consignarse cantidad alguna, se practicará un avalúo por la Secretaría de Finanzas para determinar el valor que sirva de base al pago del impuesto.
+
+V. Tratándose de otros bienes muebles distintos a los señalados en las fracciones anteriores, el valor de la operación.
+
+DE LA TASA
+
+###### ARTICULO 8.
+
+Este impuesto se determinará aplicando a la base gravable, la tasa del 2%. En ningún caso el impuesto determinado será menor de 1 cuota.
+
+DEL PAGO
+
+###### ARTICULO 9.
+
+El pago de este impuesto deberá hacerse dentro de los treinta días siguientes a la fecha en que se celebre la adquisición.
+
+###### ARTICULO 10.
+
+El pago del impuesto se hará presentando los documentos que acrediten la propiedad del bien en la oficina recaudadora correspondiente.
+
+DE LAS EXENCIONES
+
+###### ARTICULO 11.
+
+Están exentas del pago de este impuesto:
+
+I. Las adquisiciones de los Gobiernos Estatal y Municipal;
+
+II. Las adquisiciones de tractores para usos agropecuarios, bicicletas y carros de tracción animal;
+
+III. Los partidos políticos en los términos de la legislación electoral, federal y local;
+
+IV. Los jubilados, pensionados y personas con discapacidad permanente que certifique la Comisión Estatal para la Integración Social de las Personas con Discapacidad, en un 50 %.
+
+### CAPITULO II. IMPUESTO SOBRE SERVICIOS DE HOSPEDAJE
+
+DEL OBJETO
+
+###### ARTICULO 12.
+
+Es objeto de este impuesto la prestación de servicios por concepto de hospedaje en hoteles, moteles, villas turísticas, casas de hospedaje y albergues con fines turísticos, campamentos, paraderos de casas rodantes y de tiempo compartido, que realicen las personas físicas o morales en el Estado.
+
+DEL SUJETO
+
+###### ARTICULO 13.
+
+Están obligados al pago de este impuesto quienes presten los servicios de hospedaje que esta ley señala.
+
+El contribuyente obligado trasladará este impuesto en forma expresa y por separado a los usuarios de este servicio. Se entenderá por traslado del impuesto, el cobro o cargo que el prestador del servicio debe de hacer al usuario en los términos del artículo 14 de esta ley.
+
+El traslado del impuesto a que se refiere este artículo, no se considerará violatorio de precios o tarifas, incluyendo los oficiales.
+
+DE LA BASE
+
+###### ARTICULO 14.
+
+La base gravable para el cálculo del impuesto se integra con el monto total del pago de la contraprestación pactada a favor de quien preste el servicio, considerando sólo la renta por hospedaje sin incluir los alimentos y otros servicios.
+
+Este impuesto no se causará por el servicio de hospedaje o alojamiento prestado por hospitales, clínicas o sanatorios, conventos, asilos, seminarios, internados, orfanatos, casas de beneficencia o de asistencia social y casas de huéspedes sin fines turísticos.
+
+DE LA TASA Y DEL PAGO
+
+###### ARTICULO 15.
+
+La tasa que se aplicará a la base del cálculo del impuesto es el 2%, y su resultado se pagará en las recaudaciones correspondientes al lugar donde se preste el servicio, o en las instituciones de crédito autorizadas, mediante la presentación de declaraciones trimestrales, dentro de los 17 días naturales siguientes a cada trimestre.
+
+DE LAS GENERALIDADES
+
+###### ARTICULO 16.
+
+Para efectos de este impuesto se entiende por servicios de hospedaje, los señalados en el artículo 12 de esta ley, que se otorguen a cambio de una contraprestación o pago, sin incluir alimentos, ni otros servicios.
+
+###### ARTICULO 17.
+
+Se entiende que los servicios de hospedaje se prestan en el Estado siempre que el bien objeto de los mismos se encuentre dentro de su territorio.
+
+###### ARTICULO 18.
+
+Se tendrá obligación de pagar este impuesto en el momento en que sean exigibles las contraprestaciones a favor de su prestador, incluyendo los anticipos que se reciban.
+
+###### ARTICULO 19.
+
+Las personas físicas y morales que presten los servicios de hospedaje objeto de este impuesto tienen, además de las obligaciones que le señalen esta y otras leyes, las siguientes:
+
+I. Solicitar su inscripción al padrón estatal de contribuyentes ante la autoridad fiscal del lugar donde se preste el servicio, dentro de los 15 días siguientes al inicio de sus operaciones, mediante la forma oficial autorizada para tal efecto, y proporcionar la información relacionada con su identidad, su domicilio y aquella que le sea solicitada;
+
+II. Llevar la contabilidad de sus operaciones en los mismos términos y características fijados por las disposiciones fiscales federales;
+
+III. Efectuar conforme a la fracción anterior la separación de los actos y actividades de las operaciones por las que deba pagarse el impuesto.
+
+###### ARTICULO 20.
+
+La autoridad fiscal podrá determinar en forma presuntiva la base de este impuesto para su cálculo y pago, cuando:
+
+I. El obligado no registre en la contabilidad cada uno de los servicios gravados por este impuesto;
+
+II. No proporcione su contabilidad, comprobantes, registros y demás documentos que la integran, o no proporcione la información que la autoridad fiscal le solicite;
+
+III. Se imposibilite, por cualquier medio de conocimiento de las operaciones de los servicios objeto de este impuesto.
+
+### CAPITULO III. DEL IMPUESTO PARA LA UNIVERSIDAD AUTONOMA DE ZACATECAS
+
+DEL OBJETO
+
+###### ARTICULO 21.
+
+Es objeto de este impuesto, el entero de los impuestos y derechos propios del Estado, así como el del Impuesto Sobre Tenencia o Uso de Vehículos federal.
+
+DEL SUJETO
+
+###### ARTICULO 22.
+
+Son sujetos del impuesto, los contribuyentes afectos al pago de impuestos o derechos del Estado.
+
+DE LA BASE
+
+###### ARTICULO 23.
+
+La base de este impuesto será el monto que se cubra por el concepto de impuestos y derechos estatales, y por el del Impuesto Sobre Tenencia o Uso de Vehículos federal.
+
+DE LA TASA
+
+###### ARTICULO 24.
+
+La tasa aplicable a la base de este impuesto será el 5%.
+
+DEL PAGO
+
+###### ARTICULO 25.
+
+El impuesto se calculará aplicando a la base determinada, la tasa establecida en el artículo anterior.
+
+###### ARTICULO 26.
+
+El pago deberá hacerse al momento de enterar los impuestos o derechos correspondientes.
+
+###### ARTICULO 27.
+
+Este impuesto será destinado a subsidiar a la Universidad Autónoma de Zacatecas.
+
+### CAPITULO IV. DEL IMPUESTO SOBRE NOMINAS
+
+DEL OBJETO
+
+###### ARTICULO 28.
+
+Es objeto de este impuesto la realización de erogaciones en efectivo o en especie por concepto de remuneraciones al trabajo personal subordinado, independientemente de la designación que se les otorgue, dentro del territorio del Estado.
+
+Para los efectos de este impuesto, se consideran erogaciones destinadas a remunerar el trabajo personal subordinado, los salarios y demás prestaciones que se deriven de una relación laboral.
+
+DEL SUJETO
+
+###### ARTICULO 29.
+
+Son sujetos de este impuesto las personas físicas y morales que realicen las erogaciones a que se refiere el artículo anterior.
+
+DE LA BASE
+
+###### ARTICULO 30.
+
+La base de este impuesto es el monto total de las erogaciones a que se refiere el artículo 28.
+
+DE LA TASA
+
+###### ARTICULO 31.
+
+Este impuesto se causará en el momento en que se realicen las erogaciones señaladas en el artículo 28, aplicando las siguientes tasas:
+
+I. Las personas físicas y morales que tengan hasta 4 trabajadores 0.0%
+
+II. Las personas físicas y morales que tengan de 5 a 10 trabajadores 1.0%
+
+III. Las personas físicas y morales que tengan de 11 a 25 trabajadores 1.3%
+
+IV. Las personas físicas y morales que tengan de 26 a 150 trabajadores 1.7%
+
+V. Las personas físicas y morales que tengan más de 150 trabajadores 1.9%
+
+Para los efectos de este artículo, se determinará un promedio mensual con la sumatoria del número de trabajadores empleados cada día, entre el número de días del mes al que corresponda el pago.
+
+DEL PAGO
+
+###### ARTICULO 32.
+
+El pago de este impuesto deberá efectuarse mediante declaración mensual, dentro de los primeros diecisiete días naturales del mes siguiente al que corresponda dicha declaración, en cualquier oficina recaudadora de rentas de la Secretaría de Finanzas o en las instituciones de crédito autorizadas para efectuar el cobro, utilizando las formas aprobadas para tal efecto.
+
+DE LAS EXENCIONES
+
+###### ARTICULO 33.
+
+Están exentas del pago de este impuesto:
+
+I. Las erogaciones que se cubran por concepto de:
+
+a) Participación de los trabajadores en las utilidades de las empresas.
+
+b) Indemnizaciones por riesgos o enfermedades profesionales, que se concedan de acuerdo con las leyes o contratos respectivos.
+
+c) Pensiones y jubilaciones en los casos de invalidez, vejez, cesantía y muerte.
+
+d) Indemnizaciones y primas por rescisión o terminación de la relación laboral que tenga su origen en la prestación de servicios personales subordinados.
+
+e) Pagos por gastos funerales.
+
+f) Gastos de representación y viáticos efectivamente erogados por cuenta del patrón y debidamente comprobados en los mismos términos que para su deducibilidad requiera la Ley del Impuesto Sobre la Renta.
+
+g) Aportaciones al SAR, al INFONAVIT y cuotas al IMSS a cargo del patrón.
+
+h) El ahorro, cuando se integre por un depósito de cantidad semanaria o mensual igual del trabajador y de la empresa; y las cantidades otorgadas por el patrón para fines sociales y sindicales.
+
+i) Los premios por asistencia y puntualidad, siempre que el importe de cada uno de los conceptos no rebase el 10% del salario base.
+
+j) Los pagos por tiempo extraordinario, cuando éste no rebase las tres horas diarias, ni tres veces por semana de trabajo, ni cuando este tipo de servicios esté pactado en forma de tiempo fijo.
+
+k) La alimentación y habitación, cuando se otorguen en forma onerosa a trabajadores.
+
+l) Prestaciones de servicio de comedor, bono de transporte, uniformes de trabajo y deportivos, festejos de convivios, becas para los trabajadores y sus familias, que se otorguen con carácter general y sean pagadas totalmente por el patrón.
+
+m) Pagos a personas discapacitadas.
+
+n) Primas de seguros por gastos médicos o de vida.
+
+ñ) El pago de aguinaldos o gratificaciones de fin de año:
+
+II. Las erogaciones que efectúen:
+
+a) El Estado y los municipios.
+
+b) Instituciones sin fines de lucro que realicen o promuevan asistencia social en cualquiera de sus formas, reconocidas como tales por el Ejecutivo del Estado.
+
+c) Asociaciones de trabajadores, organismos empresariales que no realicen actividades lucrativas y colegios de profesionistas.
+
+d) Partidos políticos.
+
+e) Instituciones educativas que cuenten con autorización o reconocimiento de validez oficial y con planes de estudio autorizados por las autoridades competentes.
+
+f) Quienes contraten servicio doméstico para casa-habitación.
+
+g) Uniones de Ejidos y comunidades.
+
+h) Las asociaciones rurales de interés colectivo.
+
+i) Las integradoras de comercialización de productos agrícolas zacatecanos que promueva el Estado.
+
+DE LAS OBLIGACIONES
+
+###### ARTICULO 34.
+
+Los contribuyentes de este impuesto, tendrán las siguientes obligaciones, además de las señaladas en este capítulo:
+
+1) Presentar aviso de inscripción en la oficina recaudadora de rentas del Estado más cercana a su domicilio, dentro de los veinte días naturales siguientes a la fecha en que inicie las actividades por las cuales deba efectuar el pago de este impuesto, en las formas autorizadas para tal efecto.
+
+2) Presentar ante las mismas autoridades y dentro del plazo señalado en la fracción anterior, los avisos de cambio de nombre o razón social, domicilio, actividad, suspensión de actividades o clausura.
+
+3) Presentar las declaraciones correspondientes aún cuando no exista cantidad a pagar, a excepción de los sujetos descritos en la fracción I del artículo 31 de esta ley.
+
+4) Proporcionar los documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al respecto.
+
+5) Las personas físicas o morales que para efectos de impuestos federales tengan su domicilio fiscal en otra entidad federativa, pero que efectúen pagos en el Estado por remuneraciones al trabajo personal subordinado, deberán registrar como domicilio fiscal estatal el lugar donde se origine dicha contraprestación, cumpliendo con las obligaciones señaladas en este capítulo.
+
+6) Conservar la documentación comprobatoria, nóminas, listas de raya o cualquier otro medio de captura de información relacionado con este impuesto por un período de cinco años, a partir de la fecha en que se presentaron o debieron haberse presentado las declaraciones con ellas relacionadas.
+
+7) Cuando los contribuyentes detecten diferencias en sus pagos, deberán presentar declaraciones complementarias para corregir las diferencias.
+
+8) Los sujetos de este impuesto que tengan una o más sucursales dentro del Estado, presentarán una sola declaración en la que concentrarán la totalidad de las erogaciones gravadas.
+
+### CAPITULO V. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
+
+DEL OBJETO Y DE LA BASE
+
+### CAPITULO I. GENERALIDADES
+
+###### ARTICULO 35.
+
+Es objeto de este impuesto, exclusivamente la tenencia o uso de vehículos automotores cuyos modelos de fabricación correspondan a la década inmediata anterior a la de los modelos por los que se paga el Impuesto Federal Sobre Uso y Tenencia de Vehículos, así como todo tipo de remolques, cualquiera que sea su modelo.
+
+DEL SUJETO
+
+###### ARTICULO 36.
+
+Están obligados al pago del impuesto establecido en este capítulo, las personas físicas y morales, tenedoras o usuarias de los vehículos a que se refiere el artículo anterior.
+
+###### ARTICULO 37.
+
+Son responsables solidarios del pago de este impuesto:
+
+1.- Quienes por cualquier título adquieran la propiedad, tenencia o uso del vehículo, por el adeudo del impuesto que en su caso existiera.
+
+2.- Quienes reciban en consignación o comisión para su enajenación vehículos, por el adeudo del impuesto que exista en su caso.
+
+3.- Las personas que en el ejercicio de sus funciones, autoricen altas o cambios de placas, sin cerciorarse del pago del impuesto.
+
+DEL PAGO
+
+###### ARTICULO 38.
+
+El Impuesto Sobre Tenencia o Uso de Vehículos Estatal, se pagará conforme a lo siguiente:
+
+I. Para los vehículos a que se refiere el artículo 35 de esta Ley: 4 cuotas
+
+II. Remolques 2 cuotas
+
+###### ARTICULO 39.
+
+El pago de este impuesto deberá efectuarse anualmente dentro de los tres primeros meses del ejercicio al que corresponda el pago o al momento de registrar la unidad en esta Entidad Federativa. El pago se recibirá en cualquier oficina recaudadora de rentas de la Secretaría de Finanzas o Instituciones de Crédito autorizadas.
+
+## TITULO III. DE LOS DERECHOS
+
+### CAPITULO II. SERVICIOS DE LA SECRETARÍA GENERAL DE GOBIERNO
+
+###### ARTICULO 40.
+
+Los derechos por la prestación de servicios públicos se causarán en el momento en que el particular solicite la prestación del servicio, o en el momento en que se provoque por parte del Estado, el gasto que deba ser remunerado por aquél, salvo que la ley disponga cosa distinta.
+
+###### ARTICULO 41.
+
+El importe de los derechos se determinará de acuerdo con las cuotas que señale esta misma Ley, y será cubierto en la oficina recaudadora de la jurisdicción donde se preste el servicio, o en las instituciones de crédito autorizadas.
+
+###### ARTICULO 42.
+
+La dependencia o servidor público que preste el servicio por el cual se paguen los derechos, procederá a la realización del mismo al presentarle el interesado el recibo oficial que acredite su pago.
+
+###### ARTICULO 43.
+
+El servidor público que preste algún servicio por el que se cause un derecho será solidariamente responsable de su pago, sin perjuicio de las sanciones que procedan.
+
+###### ARTICULO 44.
+
+La Federación, los municipios, los organismos públicos de seguridad social, de beneficencia pública y los partidos políticos en los términos de la legislación electoral federal y local, podrán estar exentos del pago de derechos mediante acuerdo en cada caso, del Ejecutivo del Estado.
+
+###### ARTICULO 45.
+
+Las certificaciones que soliciten las autoridades para surtir efectos probatorios en juicios penales o amparos, y las que expidan las autoridades judiciales con el mismo fin, están exentas del pago de derechos.
+
+### CAPITULO III. SERVICIOS DE LA SECRETARÍA DE FINANZAS
+
+###### ARTICULO 46.
+
+Los servicios que presten por concepto de:
+
+I. Expedición de certificados de:
+
+a) Remisión parcial de la pena 1 cuota;
+
+b) Libertad condicional 1 cuota;
+
+c) Indulto 5 cuotas;
+
+II. Expedición de títulos de fraccionamiento, de conformidad con la Ley Reglamentaria de la fracción XVII del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos 5 cuotas;
+
+III. Legalización de las firmas ológrafas de Servidores Públicos y de Notarios Públicos:
+
+a) Certificado de estudio 1 cuota;
+
+b) Título profesional 1 cuota;
+
+c) De cualquier materia 1 cuota;
+
+d) De notarios públicos 1 cuota;
+
+e) De exhortos 1 cuota;
+
+IV. Expedición de actas de Registro Civil y otra clase de documentos:
+
+a) Entregadas en la oficina 1 cuota;
+
+b) Remitidas por correo 1 cuota;
+
+c) En fotocopia, por cada una 1 cuota;
+
+V. Expedición de testimonio notarial, por hoja: 1 cuota;
+
+VI. Autorización de libro de protocolo:
+
+Estos derechos incluyen la forma 1 cuota;
+
+VII. Emisión de opinión relativa a juegos y sorteos: 37 cuotas;
+
+### CAPITULO IV. SERVICIOS DE CATASTRO
+
+###### ARTICULO 47.
+
+Tratándose de expedición de licencias, cambios de domicilio y cambios de giro a que se refiere la Ley sobre el Funcionamiento y Operación de Establecimientos Destinados al Almacenaje, Distribución, Venta y Consumo de Bebidas Alcohólicas, los rendimientos de este derecho los percibirá íntegramente, el Municipio en que se generen. Se tasarán de acuerdo con las siguientes cuotas y al grupo al que pertenezca el municipio de la ubicación del establecimiento:
+
+Grupo A: Calera, Río Grande, Jerez, Guadalupe, Fresnillo, Zacatecas, Juchipila, Tlaltenango de Sánchez Román, Jalpa, Ojocaliente, Nochistlán de Mejía, Loreto y Sombrerete.
+
+Grupo B: Villanueva, Valparaíso, Miguel Auza, Juan Aldama, Villa de Cos, Tabasco, Apozol, Tepechitlán, Tepetongo, Saín Alto, Luis Moya y Morelos.
+
+Grupo C: Pánuco, Mezquital del Oro, Vetagrande, Apulco, Jiménez del Téul, Momax, Atolinga, Huanusco, Benito Juárez, Moyahua de Estrada, General Enrique Estrada, Teúl de González Ortega, Monte Escobedo, Chalchihuites, General Francisco R. Murguía, Cuauhtémoc, Cañitas de Felipe Pescador, Concepción del Oro, Villa García, Villa González Ortega, General Pánfilo Natera, Pinos, Villa Hidalgo, Trinidad García de la Cadena, El Salvador, Noria de Angeles, Susticacán, Mazapil, General Joaquín Amaro, Melchor Ocampo, Genaro Codina y Trancoso.
+
+Tratándose de bebidas alcohólicas cuya graduación sea superior a 10º G.L:
+
+Grupo A B C
+
+Expedición de licencia 1512 cuotas 1131 cuotas 761 cuotas
+
+Renovación 85 cuotas 59 cuotas 39 cuotas
+
+Transferencia 208 cuotas 130 cuotas 52 cuotas
+
+Cambio de giro 208 cuotas 130 cuotas 52 cuotas
+
+Cambio de domicilio 208 cuotas 130 cuotas 52 cuotas
+
+Permiso eventual 20 cuotas más 7 cuotas por cada día.
+
+Tratándose de alcohol etílico:
+
+Grupo A B C
+
+Expedición de licencia 761 cuotas 566 cuotas 371 cuotas
+
+Renovación 85 cuotas 59 cuotas 39 cuotas
+
+Transferencia 117 cuotas 78 cuotas 39 cuotas
+
+Cambio de giro 117 cuotas 78 cuotas 39 cuotas
+
+Cambio de domicilio 117 cuotas 78 cuotas 39 cuotas
+
+Permiso eventual 20 cuotas más 1 cuota por cada día.
+
+Tratándose de venta única de cerveza y/o bebidas refrescantes, cuya graduación no exceda de 10º G.L.:
+
+Grupo A, B, C
+
+Expedición de licencia 39 cuotas
+
+Renovación 26 cuotas
+
+Transferencia 39 cuotas
+
+Cambio de giro 39 cuotas
+
+Cambio de domicilio 13 cuotas
+
+Permiso eventual 13 cuotas
+
+más 1 cuota por cada día.
+
+Por la expedición de copias de documentos que obren en los archivos:
+
+Por cada foja: 1 cuota;
+
+Los derechos a que se refiere este artículo, cuando sean tramitados por contribuyentes con establecimientos o locales en los que se expendan bebidas alcohólicas para su consumo dentro de los mismos, se incrementarán en un 10%.
+
+###### ARTICULO 48.
+
+Los servicios que presten por concepto de:
+
+I. Registro y expedición de placas incluyendo calcomanía y tarjeta de circulación con vigencia al 31 de marzo del año siguiente para:
+
+a) Vehículo de servicio particular 13 cuotas;
+
+b) Vehículo de servicio público 13 cuotas;
+
+c) Demostración de vehículo de agencia autorizada. 20 cuotas;
+
+d) Remolque 5 cuotas
+
+II. Registro y expedición de placas incluyendo tarjeta de circulación, para:
+
+a) Motocicleta y similares 3 cuotas;
+
+b) Bicicleta 1 cuota;
+
+III. Reposición de tarjeta de circulación: 1 cuota;
+
+IV. La verificación que se realice de documentación con otras entidades, respecto de vehículos que soliciten emplacamiento en el Estado; 4 cuotas;
+
+V. Baja de Placas 1 cuota;
+
+Cuando no se cubra la contribución dentro del plazo señalado, deberán pagarse recargos y actualización por concepto de indemnización a la Hacienda Pública Estatal por falta de pago oportuno, de conformidad con la Ley de Ingresos del Estado.
+
+###### ARTICULO 49.
+
+El refrendo de la tarjeta de circulación y expedición de calcomanía con vigencia al 30 de abril del año siguiente, deberá efectuarse durante los primeros cuatro meses del mencionado año, para:
+
+I. Vehículos de servicio particular:
+
+a) Modelos 2001 12 cuotas;
+
+b) Modelos 2000 11 cuotas;
+
+c) Modelos 1999 10 cuotas;
+
+d) Modelos 1998 9 cuotas;
+
+e) Modelos 1997 8 cuotas;
+
+f) Modelos 1996 y anteriores 7 cuotas;
+
+II. Vehículos de servicio público:
+
+a) Modelos 2001 12 cuotas;
+
+b) Modelos 2000 11 cuotas;
+
+c) Modelos 1999 10 cuotas;
+
+d) Modelos 1998 9 cuotas;
+
+e) Modelos 1997 8 cuotas;
+
+f) Modelos 1996 y anteriores 7 cuotas;
+
+III. Remolques 5 cuotas;
+
+IV. Motocicletas 2 cuotas;
+
+###### ARTICULO 50.
+
+El almacenamiento y guarda en recintos oficiales de bienes embargados conforme al procedimiento administrativo de ejecución:
+
+Por día: 1 cuota;
+
+### CAPITULO V. AUTORIDADES DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO
+
+###### ARTICULO 51.
+
+Los servicios que presten por concepto de:
+
+I. Avalúo:
+
+a) Tratándose de terrenos urbanos cuyo valor no exceda de 2.5 veces el salario mínimo general vigente elevado al año (valor catastral asignado al terreno de interés social). 4 cuotas;
+
+b) Tratándose de terrenos urbanos cuyo valor se encuentre entre los 2.5 y 7 veces el salario mínimo general vigente elevado al año. (Valor catastral asignado al terreno de interés medio) 8 cuotas;
+
+c) Tratándose de terrenos rústicos cuyo valor no exceda 4 veces el salario mínimo general vigente elevado al año. 4 cuotas;
+
+d) Tratándose de terrenos rústicos cuyo valor se encuentre entre 4 y 8 veces el salario mínimo general vigente elevado al año. 8 cuotas;
+
+e) Tratándose de predio con construcción, cuyo valor no exceda al equivalente a 7 veces el salario mínimo general vigente elevado al año. (valor catastral medio asignado a la vivienda popular) 6 cuotas;
+
+f) Tratándose de predio con construcción cuyo valor se encuentre entre los 7 y 14 veces el salario mínimo general vigente elevado al año. (Valor catastral medio asignado a la vivienda de interés medio) 12 cuotas
+
+g) Para avalúos cuyo monto rebase lo previsto en los incisos anteriores se aplicará la tarifa adicional de 5.0 al millar al monto excedente.
+
+En ningún caso, los derechos por concepto de avalúo, excederán al equivalente de 250 cuotas.
+
+h) Renovaciones:
+
+Para el caso de expedición de avalúos cuya vigencia haya caducado conforme a lo establecido en la Ley de Catastro del Estado, a las tarifas anteriores se aplicará proporcionalmente una cuota equivalente al 0.0083% por día, de la cuota respectiva, por los noventa días siguientes al vencimiento de la vigencia.
+
+A partir del inicio del cuarto mes posterior a la caducidad se considerará como emisión de nuevo avalúo.
+
+II. Deslinde o levantamiento topográfico de predios urbanos:
+
+Hasta de 200.00 m2 8 cuotas
+
+De 200.01 a 400.00 m2 12 cuotas
+
+De 400.01 a 600.00 m2 14 cuotas
+
+De 600.01 a 1000.00 m2 20 cuotas
+
+Para la superficie mayor de mil metros, por cada metro cuadrado excedente se aplicará una cuota de: $ 0.25
+
+III. Elaboración del plano que tenga por objeto el servicio a que se refiere la fracción anterior: 6 cuotas;
+
+IV. Deslinde o levantamiento topográfico de predios rústicos:
+
+TERRENO TERRENO TERRENO
+
+PLANO DE LOMERIO ACCIDENTADO
+
+a) Hasta 5-00-00 has. 15 cuotas 31 cuotas 54 cuotas
+
+b) De 5-00-01 has.
+
+a 10-00-00 has 23 cuotas 54 cuotas 62 cuotas
+
+c) De 10-00-01 has.
+
+a 15-00-00 has. 38 cuotas 70 cuotas 76 cuotas
+
+d) De 15-00-01 has.
+
+a 20-00-00 has. 46 cuotas 85 cuotas 108 cuotas
+
+e) De 20-00-01 has.
+
+a 40-00-00 has. 92 cuotas 131 cuotas 170 cuotas
+
+f) De 40-00-01 has.
+
+a 60-00-00 has. 139 cuotas 177 cuotas 216 cuotas
+
+g) De 60-00-01 has.
+
+a 80-00-00 has. 185 cuotas 224 cuotas 263 cuotas
+
+h) De 80-00-01 has.
+
+a 100-00-00 has. 232 cuotas 270 cuotas 309 cuotas
+
+i) De 100-00-01 has.
+
+A 200-00-00 has. 278 cuotas 324 cuotas 386 cuotas
+
+j) De 200-00-01 has.,
+
+en adelante, se
+
+aumentará por cada
+
+hectárea excedente. 1 cuota 1 cuota 1 cuota
+
+k) Si el levantamiento topográfico se solicita con curvas de nivel, se tasará el doble de lo que resulte la clasificación del terreno que le corresponda;
+
+l) Cuando el levantamiento topográfico que se solicite deba realizarse a una distancia mayor a un radio de 30 Kms. de la ciudad de Zacatecas, se cobrará por cada kilómetro adicional $ 3.50;
+
+V. Elaboración del plano que tenga por objeto el servicio a que se refiere la fracción anterior:
+
+a) 1: 100 a 1: 5,000 30 cuotas;
+
+b) 1: 5,000 a 1: 10,000 18 cuotas;
+
+c) 1: 10,000 en adelante 8 cuotas;
+
+VI. Certificación de acta de:
+
+a) Deslinde de predios 5 cuotas;
+
+b) Ficha catastral 5 cuotas;
+
+VII. Certificación de plano en:
+
+a) Urbano 5 cuotas
+
+b) Rústico 5 cuotas
+
+VIII. Copia de plano:
+
+a) Plano impreso de la zona conurbada Zacatecas-Guadalupe,edición 1995 6 cuotas
+
+b) Plano manzanero de zonas urbanas de las cabeceras municipales de: Zacatecas, Guadalupe, Fresnillo, Jerez, Río Grande, Sombrerete, Ojocaliente, Calera, Jalpa, Loreto, Tlaltenango, valparaíso y Villanueva. 30 cuotas
+
+c) Plano manzanero de zonas urbanas de las cabeceras municipales de: Morelos, Villa de Cos, Pinos, Juchipila, Juan Aldama, Luis Moya, Miguel Auza, Monte Escobedo, Nochistlán de Mejía, Saín Alto, Tabasco, Tepetongo, Villa García, Cañitas de Felipe Pescador, Téul de González
+
+Ortega, Chalchihuites, Fco. R. Murguía, Concepción del Oro, Cuauhtémoc, Tepechitlán y Trancoso. 24 cuotas
+
+d) Plano manzanero de zonas urbanas de las cabeceras municipales de: Apozol, Apulco, Atolinga, Benito Juárez, Jiménez del Téul, García de la Cadena, Genaro Codina, Gral.
+
+Enrique Estrada, Gral. Joaquín Amaro, Gral. Pánfilo Natera, Huanusco, Momax, Moyahua de Estrada, Mazapil, Melchor Ocampo, Mezquital del Oro, Noria de Angeles, Pánuco, El Salvador, Susticacán, Vetagrande, Villa Hidalgo y Villa González Ortega. 15 cuotas
+
+e) Plano del Estado de Zacatecas con la división política de los Municipios, vías de comunicación y localización de poblaciones. 32 cuotas
+
+IX. Expedición de planos manzaneros con impresión digital, con predios, manzanero, curvas a nivel, cuotas de crucero y nombres de calles con alcance de 1 km 2:
+
+a) Escala 1:1000 32 cuotas
+
+b) Escala 1:2000 17 cuotas
+
+c) Escala 1:5000 10 cuotas
+
+X. Expedición de planos manzaneros con impresión digital, con predios y nombres de calles de alcance de 1 km 2:
+
+a) Escala 1:1000 16 cuotas
+
+b) Escala 1:2000; 12 cuotas
+
+c) Escala 1:5000; 10 cuotas
+
+XI. Expedición de copia de título de propiedad o de otro existente en los archivos de catastro:
+
+a) Certificadas hasta cinco fojas: 5 cuotas
+
+Por cada foja excedente $ 5.00
+
+b) Simples, hasta 5 fojas: 2 cuotas
+
+Por cada foja excedente $ 10.00
+
+XII. Verificación física de inmueble 10 cuotas;
+
+XIII. Expedición de constancias de propiedad o no propiedad. 5 cuotas;
+
+XIV. Por los servicios que se soliciten cuando los antecedentes a que se refiera se encuentren fuera del distrito judicial al que se dirija la petición, se cobrará una tarifa adicional por documento equivalente a: 6 cuotas.
+
+XV. Los conceptos no considerados en el presente artículo se tasarán de acuerdo con su monto equiparable en cuotas de salario mínimo.
+
+Del ingreso percibido por concepto de servicios catastrales, un 5% será destinado a la modernización del equipo e instalaciones del Registro Público, así como la capacitación continua de su personal, conforme al contrato de fideicomiso que para tal efecto se suscriba.
+
+### CAPITULO VI. SERVICIOS DE OBRAS PÚBLICAS
+
+###### ARTICULO 52.
+
+Los servicios que presten por concepto de:
+
+I. Calificación Registral, por testimonio o documento ½ cuota
+
+II. Inscripción de documentos relativos a bienes inmuebles:
+
+a) Tratándose de inmuebles con valor de hasta siete veces el salario
+
+mínimo vigente elevado al año, se cubrirá la tarifa mínima general equivalente a: 12 cuotas
+
+b) Tratándose de inmuebles cuyo valor se sitúe entre las 7.0 y 14.0 veces el
+
+salario mínimo vigente elevado al año se cubrirá la tarifa base de: 30 cuotas
+
+Para inscripciones cuyo monto rebase el rango de valor establecido en el inciso anterior, se aplicará la tarifa adicional del 1.0% al monto excedente.
+
+En ningún caso, los derechos por inscripción de documentos relativos a bienes inmuebles, excederán el equivalente de 500 cuotas para cada predio en particular.
+
+La base gravable será el valor que resulte mayor entre el avalúo practicado por la Dirección de Catastro y Registro Público, el inserto en el documento o el avalúo bancario.
+
+En el supuesto de que la operación se realice sólo respecto al suelo y en el mismo existan edificaciones o plantaciones, se tasará sobre el valor total del bien en razón de la plusvalía que adquiere el predio por las edificaciones y plantaciones.
+
+Para los efectos de este capítulo se equiparan a la compraventa los siguientes actos o contratos:
+
+1.- Inscripción de diligencias para acreditar construcción, o manifestación de obra nueva;
+
+2.- Adjudicación de la propiedad por usucapión o información de dominio;
+
+3.- Aplicación de bienes de la sociedad conyugal a persona distinta de los cónyuges, o del titular registral;
+
+4.- Aportaciones de bienes inmuebles a asociaciones o sociedades mercantiles o civiles y la adjudicación o fusión de estas, sobre el capital adjudicado o fusionado;
+
+5.- Cesión de derechos hereditarios o legatarios, independientemente de que se adjudique a terceros;
+
+6.- Compra venta a plazos con reserva de dominio o cualquier otra condición resolutoria o suspensiva;
+
+7.- Dación en pago;
+
+8.- Donación;
+
+9.- Permuta, aplicándose la base gravable al valor que se determine para cada uno de los inmuebles;
+
+10.- Aplicación de bienes por la disolución de la sociedad conyugal respecto al cónyuge que no sea titular del derecho registral;
+
+11.- Información posesoria;
+
+12.- Adjudicación por herencia;
+
+13.- Inscripción de título de fraccionamiento expedido por el Ejecutivo del Estado;
+
+14.- Fideicomisos traslativos de dominio;
+
+15.- Inmatriculación judicial o administrativa;
+
+16.- Tratándose de títulos bajo el PROCEDE o el programa que se instituya en su lugar, estará exento de pago;
+
+17.- Tratándose de títulos otorgados por la CORETT e INFONAVIT y otras instituciones oficiales, o por los programas que se instituyan en su lugar, se estará sujeto a los acuerdos institucionales que se celebren para el caso.
+
+III. Diligencias de apeo y deslinde: 4 cuotas;
+
+IV. Capitulaciones matrimoniales: 4 cuotas;
+
+V. En la inscripción del régimen de propiedad en condominio, por cada
+
+departamento, despacho, vivienda, local, cajón de estacionamiento
+
+o cualquier otro tipo de unidades privativas: 4 cuotas;
+
+VI. Fusión de predios, por cada uno de los predios fusionados: 2 cuotas;
+
+VII. Actos, contratos, convenios o autorizaciones por los que se fraccione,
+
+lotifique o subdivida un predio, por cada lote o fracción: 2 cuotas;
+
+VIII. Por la inscripción o anotación relativa a la limitación o gravamen de la propiedad y posesión de inmuebles, se tasará al .40% sobre el valor de limitación o gravamen, cuando no se determine o no se inserte éste, se pagará la cantidad de:
+
+Se tasarán en igual forma los actos o contratos siguientes:
+
+a) Arrendamiento, subarrendamiento o cesión de arrendamiento;
+
+b) Constitución o sustitución de garantías reales.
+
+c) Sesión de garantías u obligaciones reales. 12 cuotas
+
+d) Comodato o convenios judiciales.
+
+e) Demandas o resoluciones que limiten el derecho de propiedad o posesión;
+
+f) Fideicomiso de afectación o administración en garantía y en el que el o los fideicomitentes, se reserven expresamente la propiedad;
+
+g) El cumplimiento de condiciones suspensivas a que se haya sujetado la transmisión de la propiedad;
+
+h) Fianzas;
+
+i) Prendas sobre crédito inscrito;
+
+j) Prenda de frutos pendientes;
+
+k) Uso, usufructo, servidumbre y contratos de crédito refaccionario, de habilitación y avío celebrado entre particulares;
+
+l) División de copropiedad, por cada uno de los predios resultantes.
+
+IX. Por el registro de cédula hipotecaria, embargo judicial o administrativo, se tasará en 10 cuotas, hasta un monto equivalente a siete veces el salario mínimo general elevado al año, por el valor superior a éste, al 1%;
+
+X. Contrato de promesa de venta, al .5% hasta un monto equivalente a 7.0 veces el salario mínimo general elevado al año y por la cantidad superior a esta, al .75%, hasta el monto límite establecido en la fracción II, inciso b, de éste artículo.
+
+XI. Contrato de apertura de crédito: 7 cuotas;
+
+XII. Créditos hipotecarios, refaccionarios, de habilitación y avío otorgados por las instituciones de crédito, .25% sobre el importe de la operación que se consigne en el documento. Los créditos otorgados en los que intervenga el fondo instituido en relación a la agricultura (FIRA), el .18% sobre el monto.
+
+Tratándose de reestructuración de crédito o de convenios de reconocimiento de adeudo, se tasará sobre el diferencial entre el registrado y el que contenga la reestructura o el convenio de reconocimiento del adeudo.
+
+Créditos hipotecarios, refaccionarios, de habilitación y avío, otorgados dentro del programa federal de PROCAMPO, o el que se instituya en su caso .09% sobre el importe de la operación que se consigne en el documento.
+
+En materia de vivienda o terreno a que se refieren los incisos a) y b) de la fracción II de este artículo, hasta 7 y 14 veces el salario mínimo general elevado al año respectivamente, por el registro del contrato de hipoteca y crédito simple, se tasará al .125% sobre el importe de la operación que se consigne, sin cargo por concepto de contrato de apertura de crédito.
+
+XIII. Inscripción de documentos que contengan los siguientes actos: 10 cuotas
+
+a) Testamento.
+
+b) Auto de designación, aceptación, discernimiento o sustitución del cargo de albacea; declaración y reconocimiento de herederos, si consta en el mismo documento; y repudio de la herencia;
+
+c) Autorización para vender o gravar bienes de menores;
+
+d) Poder, su modificación o revocación;
+
+e) Actuaciones judiciales;
+
+f) Depósito de testamento ológrafo;
+
+XIV. Inscripción de actos relativos a bienes muebles, .40% por los conceptos siguientes:
+
+a) Operaciones traslativas de dominio sujetas a condición resolutoria;
+
+b) Adjudicaciones de cualquier clase;
+
+c) Compraventa;
+
+d) Compraventa con reserva de dominio se tasará sobre el valor inserto en el documento; a falta de éste sobre el avalúo que practique la Secretaria de Finanzas.
+
+XV. Registro de personas morales o aumento de su capital social, .30% sobre
+
+el monto de capital social o sus aumentos, en los casos que dicho capital
+
+no exceda de $50,000.00 se pagará: 10 cuotas
+
+XVI. Registro de documentos que contengan los siguientes actos:
+
+a) Disolución de personas morales;
+
+b) Nombramiento de liquidadores o liquidación de personas morales;
+
+c) Acta de asamblea de socios o junta de administradores;
+
+d) Modificaciones al pacto social constitutivo;
+
+e) Registro de emisiones de acciones, cédulas, obligaciones o certificados de participación, depósito o de copias autorizadas por balance, transformación de sociedades y en general otros actos inscribibles;
+
+XVII. Cancelación de inscripción o anotación: 3 cuotas; (sic)
+
+###### ARTICULO 53.
+
+Contrato innominado: 24 cuotas;
+
+###### ARTICULO 54.
+
+Expedición de certificado de:
+
+I. No propiedad: 3 cuotas;
+
+II. Inscripción o no inscripción: 3 cuotas;
+
+III. Libertad de gravamen: 2 cuotas;
+
+IV. Existencia de gravamen, a la fracción anterior se adicionará por cada gravamen: 1 cuota.
+
+###### ARTICULO 55.
+
+Expedición de copia de título de propiedad o de cualquier otro documento existente en libros o archivo del registro:
+
+I. Certificadas hasta cinco fojas: 5 cuotas
+
+Por cada foja excedente $ 15.00
+
+II. Simples, hasta cinco fojas: 2 cuotas
+
+Por cada foja excedente $ 10.00
+
+###### ARTICULO 56.
+
+Ratificación o certificación de firmas: 4 cuotas;
+
+###### ARTICULO 57.
+
+Cuando en un mismo título se consignen dos o más actos jurídicos, por cada acto: 4 cuotas
+
+Si el mismo origina dos o más inscripciones, se tasarán por separado. 6 cuotas
+
+Por los servicios que se soliciten cuando los antecedentes a que se refiera se
+
+encuentren fuera del distrito judicial en el que se dirija la petición, se cobrará
+
+una tarifa adicional por documento equivalente a: 6 cuotas
+
+Por los servicios que se soliciten cuando los antecedentes a que se refiera se encuentren fuera del distrito judicial en el que se dirija la petición, se cobrará una tarifa adicional por documento, equivalente a: 6 cuotas (sic);
+
+Los conceptos no considerados en el presente capítulo, se tasarán de acuerdo con el concepto equiparable en cuotas de salario mínimo.
+
+Del ingreso percibido por concepto de registro público, un 5% será destinado a la modernización de su equipo e instalaciones, así como la capacitación continua de su personal, conforme al contrato de fideicomiso autorizado para tal efecto.
+
+### CAPITULO VII. AUTORIDADES DE CONTRALORIA INTERNA
+
+###### ARTICULO 58.
+
+Los servicios que presten por concepto de:
+
+I. Otorgamiento de licencia con vigencia de un año para fraccionar, lotificar o subdividir terrenos, tipo:
+
+a) De interés social:
+
+1.- Menor de 1-00-00 has, por m2 $ 0.16
+
+2.- De 1.00.01 a 5-00-00 has, por m2 $ 0.26
+
+3.- De 5-00-01 has, en adelante por m2 $ 0.39
+
+b) Habitaciones de tipo medio:
+
+1.- Menor de 1-00-00 has, por m2. $ 0.26
+
+2.- De 1.00.01 has, en adelante por m2 $ 0.39
+
+c) Habitacional residencial, por m2 $ 0.69;
+
+d) Habitacional campestre, por m2 $0.69;
+
+e) Comercial y zonas destinadas al comercio en los fraccionamientos
+
+habitacionales, por m2 $ 0.83;
+
+f) Granja de explotación agropecuaria, por m 2 $ 0.83;
+
+g) Funerario o cementerio, por m 3 del volumen de las fosas o gavetas.$ 2.78;
+
+Cuando las obras autorizadas no se ejecuten dentro de la vigencia de la autorización, se deberá solicitar el refrendo de la misma debiendo cubrirse los derechos en términos de este artículo como si se tratare de una inicial;
+
+II. Autorización de división, lotificación, hasta 10 predios o fusión de lotes urbanos, por m 2 :
+
+a) Menores de 200 m 2 $ 0.18
+
+b) De 201 a 400 m 2 $ 0.18
+
+c) De 401 a 800 m 2 $ 0.22
+
+d) De 801 a 1,000 m 2 $ 0.26
+
+La regularización de fraccionamientos, lotificaciones, relotificaciones, desmembraciones, subdivisiones o fusiones, se tasará tres veces la cuota establecida, según el tipo al que pertenezcan;
+
+III. Realización de peritaje: 130 cuotas;
+
+IV. Expedición de dictamen para diligencias de información Ad-Perpétuam:
+
+a) Rústicos:
+
+1.- Hasta 1-00-00 Has. 8 cuotas
+
+2.- De 1-00-01 Has; en adelante, se aumentará por hectárea o fracción 4 cuotas
+
+b) Urbano, por m2 $ 2.21
+
+V. Expedición de constancia de uso de suelo: 1.35 cuotas;
+
+VI. Expedición de declaratoria para establecer el régimen de propiedad
+
+en condominio, por m 2 de terreno y construcción $ 2.21;
+
+VII. Registro de director responsable de obra, con vigencia de un año: 16 cuotas.
+
+VIII. Revalidación anual de registro de director responsable de obra: 8 cuotas.
+
+IX. Emisión de opinión y dictámen para el establecimiento de
+
+fraccionamientos de todo tipo, lotificaciones, relotificaciones,
+
+subdivisiones, desmembraciones y fusiones de áreas y predios por metro
+
+cuadrado de área vendible de acuerdo a la clasificación correspondiente: $ 0.47
+
+X. Emisión de opinión y dictamen para el establecimiento y declaratoria del régimen de propiedad en condominio por metro cuadrado de terreno y construcción: $ 2.36
+
+Si a la autoridad municipal corresponde la prestación de este servicio, será ésta la que aplique y cobre su tarifa.
+
+###### ARTICULO 59.
+
+Los servicios prestados por concepto de inscripción a concurso: 34 cuotas;
+
+Por cada foja de la base y demás documentos que se proporcionen a los concursantes: $ 3.10;
+
+Por cada copia heliográfica de los planos que se proporcionen: 1.35 cuotas;
+
+###### ARTICULO 60.
+
+Las verificaciones posteriores a que se refiere el artículo anterior, deberán solicitarse anualmente, durante el mes de enero.
+
+### CAPITULO VIII. SERVICIOS DE EDUCACIÓN Y CULTURA
+
+###### ARTICULO 61.
+
+Los servicios que presten por concepto de:
+
+I. Inscripción con vigencia de un año en el padrón de proveedores y contratistas: 15 cuotas
+
+II. Revalidación de la inscripción: 7 cuotas
+
+### CAPITULO IX. SERVICIOS DE OFICIALIA MAYOR
+
+###### ARTICULO 62.
+
+Los servicios prestados por concepto de:
+
+I. Expedición de título profesional o grado, de egresados de instituciones educativas estatales o incorporadas: 1 cuota;
+
+II. Expedición de diplomas a egresados de:
+
+a) Academias y centros de capacitación para el trabajo 1 cuota
+
+b) Tipo medio básico $ 5.00
+
+III. Expedición de duplicados de certificados de estudios de:
+
+a) Primaria o secundaria $6.50
+
+b) Academias $ 8.50
+
+c) Nivel medio superior $ 15.00
+
+d) De tipo superior $ 25.00
+
+IV. Práctica de examen extraordinario por materia:
+
+a) De educación secundaria $ 6.50
+
+b) De nivel medio superior o academias $ 8.50
+
+c) De tipo superior $ 12.00
+
+V. Exámenes a título de suficiencia:
+
+a) De educación primaria $ 13.00
+
+b) De educación secundaria, por materia $ 6.50
+
+c) De tipo superior, por materia $ 12.00
+
+VI. Exámenes profesionales que sustenten los egresados de escuelas del Estado:
+
+a) De centros de capacitación para el trabajo o academias 1 cuota
+
+b) De idiomas 1 cuota
+
+c) De tipo superior 1 cuota
+
+VII. Revalidación de estudios de:
+
+a) Primaria $ 7.00
+
+b) Secundaria, por grado $ 20.00
+
+c) Tipo medio superior 5 cuotas
+
+d) Tipo superior 15 cuotas
+
+VIII. Forma de certificado o boleta de evaluación extra a la dotación ordinaria,
+
+por cada una: $2.50;
+
+IX. Expedición de copias certificadas de documentos, por cada foja tamaño
+
+carta u oficio $ 7.00;
+
+X. Reposición de certificados:
+
+a) De primaria o secundaria $ 22.00
+
+b) De tipo medio superior o academias 1 cuota
+
+c) De tipo superior 1 cuota
+
+XI. Compulsa de documentos, por foja: $ 5.00;
+
+XII. Por cualquier otra certificación o expedición de constancia distintas a
+
+las señaladas en las fracciones anteriores: $ 22.00;
+
+XIII. Reconocimientos de validez oficial de estudios a particulares por cada
+
+plan de estudios de tipo superior: 9 cuotas;
+
+XIV. Reconocimiento de validez oficial de estudios a particulares, por cada plan de estudios de:
+
+a) Educación básica 4 cuotas
+
+b) Academias, centros de capacitación para el trabajo y escuelas de idiomas 4 cuotas
+
+XV. Acreditación y certificación de conocimiento de tipo elemental:
+
+a) Completo $ 14.00
+
+b) Por área $ 6.00
+
+c) Por grado $ 2.50;
+
+XVI. Acreditación y certificación de conocimiento, por materia de:
+
+a) Secundaria $ 8.50
+
+b) Preparatoria $ 13.00
+
+c) Tipo superior $ 22.00
+
+XVII. Revisión de certificados de estudios, por grado escolar $ 3.00;
+
+XVIII. Equivalencia de estudios:
+
+a) Secundaria, por grado $ 15.00
+
+b) Tipo medio superior 5 cuotas
+
+c) Tipo superior 15 cuotas
+
+XIX. Inspección y vigilancia de establecimientos educativos particulares, por alumno inscrito en cada ejercicio escolar:
+
+a) De tipo inicial y preescolar $ 2.50
+
+b) De tipo elemental $ 5.00
+
+c) De tipo medio, academias comerciales o centros de capacitación
+
+para el trabajo 7.50
+
+d) De tipo superior 10.00
+
+XX. Registro de colegio de profesionistas 27 cuotas;
+
+XXI. Registro de títulos profesionales $ 10.00
+
+XXII. Autorización provisional para ejercer como pasante 2 cuotas;
+
+XXIII. Legalización de certificados:
+
+a) Secundaria $ 15.00
+
+b) Medio superior $ 27.00
+
+### CAPITULO X. SERVICIOS DE SEGURIDAD PUBLICA Y VIALIDAD
+
+###### ARTICULO 63.
+
+Los servicios prestados por concepto de:
+
+I. Autorización de traslado de cadáver: $ 20.00
+
+II. Otorgamiento a proveedores de las bases para concurso de
+
+a) Adquisiciones, hasta 10 fojas: 12 cuotas
+
+b) Por cada foja adicional $ 25.00.
+
+### CAPITULO XI. SERVICIOS DEL INSTITUTO DE ECOLOGIA Y MEDIO AMBIENTE
+
+###### ARTICULO 64.
+
+Los servicios prestados por concepto de:
+
+I. Por expedición de licencia de manejo, incluido el examen médico para tal efecto:
+
+a) Operador de servicio público 6 cuotas;
+
+b) Chofer 4 cuotas;
+
+c) Automovilista 3 cuotas;
+
+d) Motociclista 2 cuotas;
+
+II. Examen médico a conductores de vehículo que participen en un hecho de tránsito: 1 cuota;
+
+III. Expedición de permiso provisional de manejo incluido certificado médico, hasta
+
+por 90 días: 1 cuota;
+
+IV. Vehículo depositado en los recintos de tránsito, por día: $ 2.10;
+
+V. Gafetes para operadores del servicio público 5 cuotas;
+
+VI. Por servicio de grúa 3 cuotas;
+
+II (SIC). Expedición de permiso para circular sin placas:
+
+a) Por 5 días 2 cuotas;
+
+b) Por 10 días 4 cuotas;
+
+c) Por 15 días 6 cuotas;
+
+Los permisos expedidos no podrán otorgarse por más de 30 días naturales.
+
+###### ARTICULO 65.
+
+La revisión operativa de unidades de servicio público de pasajeros y carga:
+
+I. Servicio público de transporte colectivo urbano y suburbano, por unidad:
+
+a) Iniciación 201 cuotas
+
+b) Año posterior 6 cuotas
+
+II. Servicio público de transporte colectivo foráneo, por unidad:
+
+a) Iniciación 193 cuotas
+
+b) Año posterior 6 cuotas;
+
+III. Servicio público de taxi, por unidad
+
+a) Iniciación 153 cuotas
+
+b) Año posterior 6 cuotas;
+
+IV. Servicio público de transporte turístico, por unidad:
+
+a) Iniciación 102 cuotas
+
+b) Año posterior 6 cuotas;
+
+V. Servicio público de arrendamiento, hasta por 10 unidades:
+
+a) Iniciación 153 cuotas
+
+b) Por cada unidad excedente de las 10 primeras. 51 cuotas
+
+c) Año posterior 12 cuotas;
+
+VI. Servicio público de transporte proporcionado por agencia funeraria, de carga de materiales, de carga liviana y de grúa, por unidad:
+
+a) Iniciación 121 cuotas
+
+b) Año posterior 6 cuotas
+
+VII. Certificación de servicio público: 1 cuota;
+
+VIII. Revisión operativa de:
+
+a) Cambio de vehículo 1 cuota
+
+b) Cambio ruta 8 cuotas
+
+c) Ampliación de ruta 4 cuotas.
+
+### CAPITULO XII. OTROS DERECHOS
+
+###### ARTICULO 66.
+
+Por la evaluación y emisión de dictamen de impacto ambiental:
+
+I. Informe preventivo 24 cuotas
+
+II. Informe definitivo
+
+a) Tipo general 43 cuotas
+
+b) Tipo Intermedio 60 cuotas
+
+c) Tipo específico 123 cuotas
+
+###### ARTICULO 67.
+
+Por la prestación de los siguientes servicios:
+
+I. Reproducción de material didáctico, ecológico y ambiental $ 1.15 por foja
+
+II. Reproducción de material informático ecológico y ambiental en disco flexible $11.50 c/u;
+
+III. Reproducción de material informático ecológico y ambiental en disco compacto 2 cuotas c/u;
+
+IV. Información de planos con información ecológica y ambiental 5 cuotas c/u;
+
+V. Reproducción de planos con información ecológica y ambiental 2 cuotas c/u;
+
+VI. Asesoría y capacitación en materias de ecología y medio ambiente, por cada hora 7 cuotas;
+
+VII. Registro en el Padrón de Prestadores de Servicio Ecológico y ambiental 35 cuotas;
+
+VIII. Reproducción en plotter 3 cuotas
+
+### CAPÍTULO ÚNICO
+
+###### ARTICULO 68.
+
+Ratificación o certificación de firmas de contratos o actos jurídicos privados ante autoridades judiciales o administrativas distintas de las de Catastro y Registro Público de la Propiedad y del Comercio: 1 cuota;
+
+###### ARTICULO 69.
+
+Las copias certificadas, constancias y certificaciones de cualquier naturaleza que expidan las autoridades judiciales o administrativas, se tasarán conforme a la siguiente tarifa:
+
+I. La primera foja relativa a asuntos correspondientes:
+
+a) Al año en curso; $ 2.75
+
+b) Al año anterior; $ 4.18
+
+c) A más de dos años anteriores; $ 5.17
+
+d) Por cada foja excedente correspondiente a asuntos de cualquier año; $ 1.43;
+
+II. Certificado de no antecedentes penales $ 5.17.
+
+## TITULO IV. DE LOS PRODUCTOS
+
+###### ARTICULO 70.
+
+Son productos los ingresos que obtiene el Estado por las actividades que desarrolle en sus funciones de derecho privado, así como por el uso, explotación o aprovechamiento de los bienes que constituyen su patrimonio, tales como:
+
+I. Arrendamientos, adjudicaciones, enajenaciones, explotación, uso y aprovechamiento de bienes muebles e inmuebles propiedad del Estado, conforme a lo estipulado en las concesiones, contratos, convenios y disposiciones legales relativas;
+
+II. Venta de impresos oficiales y papel especial para:
+
+a) Certificación de actas de registro civil $ 2.40
+
+b) Asentamiento de actas de:
+
+1.- Nacimiento, matrimonio o defunción, cada juego. $ 10.60
+
+2.- Demás actas relativas al estado civil de las personas, cada juego $ 8.40
+
+c) Asentamiento de escritura pública $ 2.50
+
+d) Otras formas impresas, cada una $ 2.50;
+
+e) Leyes, reglamentos, folletos y demás publicaciones, su costo se determinará de conformidad con el tiraje de la edición, número de hojas y calidad de impresión y encuadernación;
+
+f) Juego de 150 fojas de protocolo notarial abierto 10 cuotas;
+
+g) Formas de solicitud para inicio, renovación, cambio de domicilio, cambio de giro
+
+o transferencia del derecho de licencia, de establecimientos con venta de bebidas
+
+alcohólicas $ 8.40
+
+h) Formas de permisos provisionales para circular sin placas. 1 cuota;
+
+III. De capitales y valores del Estado, sus rendimientos;
+
+IV. Los provenientes del Periódico Oficial. Estos se causarán conforme a la siguiente tarifa:
+
+a) Por suscripción;
+
+1.- Por semestre 6 cuotas
+
+2.- Por año 10 cuotas;
+
+b) Por enviar a otros lugares fuera de la ciudad de Zacatecas en el país;
+
+1.- Por semestre 11 cuotas
+
+2.- Por año 22 cuotas;
+
+c) Por enviar al extranjero;
+
+1.- Por semestre 16 cuotas
+
+2.- Por año 26 cuotas;
+
+V. Valor del ejemplar;
+
+a) Del día $ 3.60
+
+b) De fechas anteriores;
+
+1.- Hasta seis meses $ 4.50
+
+2.- Hasta de un año $ 5.20
+
+3.- De más de un año $ 5.20
+
+VI. Aviso judicial, administrativo, edicto, notificación y otros actos que se publiquen conforme a disposiciones legales, causarán las siguientes cuotas por inserción;
+
+Por publicación, por palabra $ 0.16;
+
+###### ARTICULO 71.
+
+En las adjudicaciones bajo el régimen de fraccionamientos rurales, será del 5% del avalúo que practique al predio la Secretaría de Finanzas, mismo que tendrá una vigencia de tres meses, a partir de la fecha de expedición.
+
+###### ARTICULO 72.
+
+Los ingresos por productos se determinarán en los actos, convenios, contratos o concesiones respectivos y en lo dispuesto por el artículo anterior, según sea el caso.
+
+## TITULO V. DE LOS APROVECHAMIENTOS
+
+###### ARTICULO 73.
+
+Quedan comprendidos dentro de este título los ingresos que el Estado perciba por concepto de multas, recargos, rezagos, gastos de ejecución, donativos, herencias, legados, bienes vacantes, tesoros ocultos, indemnizaciones, reintegros por responsabilidades administrativas, concesiones, fianzas, depósitos, subsidios federales, empréstitos y financiamientos, aportaciones para obras y servicios públicos, ingresos que cubran los municipios, por la administración de impuestos y servicios públicos municipales y aportaciones federales.
+
+###### ARTICULO 74.
+
+Los aprovechamientos se harán efectivos, según proceda en cada caso, de acuerdo a la naturaleza y origen del crédito.
+
+## TITULO VI. DE LOS INGRESOS COORDINADOS
+
+###### ARTICULO 75.
+
+Las participaciones, incentivos, subsidios y demás aportaciones que en virtud de la coordinación con la Federación, correspondan al Estado, se recaudarán de acuerdo a la Ley de Coordinación Fiscal y a los Convenios que tenga celebrados y que celebre el Estado con la Federación.
+
+## ARTICULOS TRANSITORIOS
+
+###### ARTICULO PRIMERO.
+
+La presente Ley, entrará en vigor el día primero de enero del 2001, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley de Hacienda del Estado de Zacatecas publicada en el Suplemento 1 al Número 1 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día primero de enero del año 2000, y se derogan las demás disposiciones fiscales que se opongan a la presente Ley.
+
+COMUNÍQUESE AL EJECUTIVO DEL ESTADO PARA SU PROMULGACIÓN Y PUBLICACIÓN.
+
+DADO en la Sala de Sesiones de la Honorable Quincuagésima Sexta Legislatura del Estado, a los veintinueve días del mes de diciembre del 2000.- Diputado Presidente.- LIC. LUIS GERARDO ROMO FONSECA.- Diputados Secretarios.- LIC. JOSÉ CRUZ TIJERÍN CHÁVEZ.- y LIC. AURORA CERVANTES RODRÍGUEZ.- Rúbricas.
+
+Y para que llegue a conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
+
+DADO en el Despacho del Poder Ejecutivo, a los treinta días del mes de Diciembre del año dos mil.
+
+"SUFRAGIO EFECTIVO. NO REELECCION"
+
+EL GOBERNADOR DEL ESTADO DE ZACATECAS
+
+LIC. RICARDO MONREAL AVILA.
+
+EL SECRETARIO GENERAL DE GOBIERNO
+
+LIC. ARTURO NAHLE GARCIA.
+
+EL SECRETARIO DE PLANEACION Y FINANZAS
+
+C.P. GUILLERMO HUIZAR CARRANZA.
