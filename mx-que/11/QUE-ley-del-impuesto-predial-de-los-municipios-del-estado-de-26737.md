@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-impuesto-predial-de-los-municipios-del-estado-de-26737"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2003-12-26"
+last_updated: "2004-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL IMPUESTO PREDIAL DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre de 2002.
 
@@ -91,7 +91,11 @@ Quienes acrediten que son pensionados o jubilados, pagarán lo establecido en el
 
 a. Manifestar por escrito y bajo protesta de decir verdad, que no reciben otro ingreso en dinero;
 
-b. Demostrar que el inmueble objeto del impuesto es su única propiedad en el Estado mediante la expedición de certificación del Registro Público de la Propiedad, y en el resto de la República bajo protesta de decir verdad.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2004)</small>
+
+b. Manifestar por escrito y bajo protesta de decir verdad que el inmueble objeto del impuesto es su única propiedad en el Estado y que no posee otras propiedades en el resto de la República.
+
+Quien pretenda obtener el beneficio de pagar un día de salario mínimo por concepto de predial, tratándose de la primera vez, exhibirá constancia que el Registro Público de la Propiedad y del Comercio, expida en forma gratuita.
 
 c. Habitar dicho inmueble y por lo tanto no destinarlo parcialmente a arrendamiento; y
 
@@ -497,11 +501,13 @@ Las autoridades fiscales municipales, determinarán las reducciones únicamente 
 
 Las dependencias encargadas de las finanzas públicas municipales darán a conocer mediante publicación en estrados el beneficio de esta disposición, previo análisis del censo de familias afectadas, aunado a los datos que por el mismo concepto tenga la Unidad de Protección Civil Municipal o Estatal en su caso.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, 29 DE OCTUBRE DE 2004)</small>
 
 ###### ARTÍCULO SEXTO.
 
-Tratándose de la primera enajenación, las personas físicas que tengan en propiedad inmuebles regularizados mediante los Programas de Certificación de Derechos Ejidales (PROCEDE) o los de la Comisión para la Regularización de la Tenencia de la Tierra (CORETT) y adeuden hasta cinco ejercicios fiscales, pagarán por cada uno de éstos la tarifa establecida en el artículo 7 de esta Ley, siempre y cuando realicen la totalidad del pago del ejercicio fiscal en curso dentro de los tres primeros meses del año, en los términos del artículo 22 y 23 de este ordenamiento.
+Tratándose de la primera enajenación, las personas físicas que tengan en propiedad inmuebles regularizados mediante los Programas de Certificación de Derechos Ejidales (PROCEDE) o los de la Comisión para la Regularización de la Tenencia de la Tierra (CORETT) y adeuden hasta cinco ejercicios fiscales, solo pagarán por cada uno de los ejercicios fiscales, la tarifa establecida en el artículo 7 de esta Ley, siempre y cuando realicen la totalidad del pago de los adeudos de los ejercicios fiscales, en una sola exhibición, dentro del periodo del ejercicio fiscal del año 2004.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 Las dependencias encargadas de las finanzas públicas municipales darán a conocer mediante publicación en estrados el beneficio de esta disposición.
 
@@ -547,13 +553,13 @@ Rúbrica
 
 LIC. BERNARDO GARCÍA CAMINO
 
-SECRETARÍO DE GOBIERNO
+SECRETARIO DE GOBIERNO
 
 Rúbrica.
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-P.O. 27 DE DICIEMBRE DE 2002
+P.O. 27 DE DICIEMBRE DE 2002.
 
 ###### ARTICULO ÚNICO.
 
@@ -574,3 +580,19 @@ LEY QUE REFORMA LOS ARTICULOS 8, 9 Y CUARTO TRANSITORIO Y SE ADICIONAN EL QUINTO
 Artículo Primero.- La presente Ley entrará en vigor el día 1 de enero de 2004.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+P.O. 29 DE OCTUBRE DE 2004.
+
+DECRETO QUE REFORMA EL ARTICULO 8 DE LA LEY.
+
+PRIMERO.- La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 29 DE OCTUBRE DE 2004.
+
+DECRETO QUE REFORMA EL ARTICULO SEXTO TRANSITORIO DE LA LEY.
+
+PRIMERO.- La presente Ley entrará en vigor al día de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a la presente Ley.
