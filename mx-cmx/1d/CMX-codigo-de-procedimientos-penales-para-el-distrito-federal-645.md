@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "1991-12-24"
+last_updated: "1991-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1991.
 
 Código publicado en el Diario Oficial de la Federación el sábado 29 de agosto de 1931.
 
@@ -2876,7 +2876,7 @@ III. Por no haberse permitido al acusado nombrar defensor, en los términos que 
 
 > <small>(ADICIONADA, D.O.F. 8 DE ENERO DE 1991)</small>
 
-III bis.- Por haber omitido la designación del traductor al inculpado que no hable o no entienda suficientemente el idioma castellano, en los términos que señala esta ley;
+III bis.- Por haber omitido la designación del traductor al inculpado que no hable o no entienda suficientemente el idioma castellano, en los términos que señala esta ley.
 
 IV. Por no haberse practicado las diligencias pedidas por alguna de las partes;
 
@@ -3644,9 +3644,13 @@ III. Que a juicio del Juez, no haya temor de que se fugue;
 
 IV. Que proteste presentarse ante el Tribunal o Juez que conozca de su causa, siempre que se le ordene;
 
-V. Que sea la primera vez que delinque el inculpado; y
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
-VI. Que se trate de delitos cuya pena máxima no exceda de dos años de prisión.
+V. Que el inculpado no haya sido condenado por delito intencional; y
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+
+VI. Que se trate de delitos cuya pena máxima no exceda de tres años de prisión. Tratándose de personas de escasos recursos, el juez podrá conceder este beneficio cuando la pena privativa de libertad no exceda de cuatro años.
 
 ###### ARTICULO 553.
 
@@ -3688,7 +3692,9 @@ III.- Que no exista riesgo fundado de que el inculpado pueda sustraerse a la acc
 
 IV.- Que no se trate de personas que por ser reincidentes o haber mostrado habitualidad, la concesión de la libertad haga presumir fundadamente que evadirían la acción de la justicia.
 
-Para los efectos del párrafo anterior, no procederá la libertad provisional cuando se trate de los delitos previstos en los siguientes artículos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal: 60, 139, 140, 168, 170, 265, 266, 266-bis, 287, 302, 307, 315-bis, 320, 323, 324, 325, 326, 366 y 370 segundo y tercer párrafos cuando se realice en cualesquiera de las circunstancias señaladas en los artículos 372, 381 fracciones VIII, IX y X y 381-bis.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+
+Para los efectos del párrafo anterior, no procederá la libertad provisional cuando se trate de los delitos previstos en los siguientes artículos del Código Penal para el Distrito Federal en Materia del Fuero Común y para toda la República en Materia del Fuero Federal: 60, 139, 140, 168, 170, 223, 265, 266, 266-Bis, 287, 302, 307, 315-Bis, 320, 323, 324, 325, 326, 366 y 370 segundo y tercer párrafos cuando se realicen en cualesquiera de las circunstancias señaladas en los artículos 372, 381 fracciones VIII, IX y X y 381-Bis.
 
 ###### ARTICULO 557.
 
@@ -3724,25 +3730,41 @@ Cuando el delito represente un beneficio económico para su autor, o cause a la 
 
 La naturaleza de la caución quedará a elección del acusado, quien al solicitar la libertad manifestará la forma que elige, para los efectos de la fracción V del artículo anterior. En caso de que el reo, su representante o su defensor no hagan la manifestación mencionada, el juez o tribunal, de acuerdo con el artículo que antecede, fijará las cantidades que correspondan a cada una de las formas de la caución.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 562.
 
 La caución podrá consistir:
 
-I. En depósito en efectivo, hecho por el reo o por terceras personas, en el Banco de México o en la institución de crédito autorizada para ello. El certificado que en estos casos se expida, se depositará en la caja de valores del tribunal o juzgado, tomándose razón de ello en autos. Cuando por razón de la hora o por ser día feriado, no pueda constituirse el depósito directamente en las instituciones mencionadas, el juez recibirá la cantidad exhibida y la mandará depositar en las mismas el primer día hábil.
+I. En depósito en efectivo, hecho por el reo o por terceras personas, en la institución de crédito autorizada para ello. El certificado que en estos casos se expida, se depositará en la caja de valores del tribunal o juzgado, tomándose razón de ello en autos. Cuando por razón de la hora o por ser día inhábil, no pueda constituirse el depósito directamente en la institución mencionada, el juez recibirá la cantidad exhibida y la mandará depositar en la misma el primer día hábil.
 
-II. En caución hipotecaria, otorgada por el reo o por terceras personas, sobre inmuebles que no tengan gravamen alguno y cuyo valor catastral sea, cuando menos de tres veces el monto de la suma fijada; y
+Cuando el inculpado no tenga recursos económicos suficientes para efectuar en una sola exhibición el depósito en efectivo, el juez podrá autorizarlo para que lo efectúe en parcialidades, de conformidad con las siguientes reglas:
 
-III. En fianza personal bastante, que podrá constituirse en el expediente.
+a) Que el inculpado tenga cuando menos un año de residir en forma efectiva en el Distrito Federal o en su zona conurbada, y demuestre estar desempeñando empleo, profesión u ocupación lícitos que le provean medios de subsistencia;
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+b) Que el inculpado tenga fiador personal que, a juicio del juez, sea solvente e idóneo y dicho fiador proteste hacerse cargo de las exhibiciones no efectuadas por el inculpado. El juez podrá eximir de esta obligación, para lo cual deberá motivar su resolución;
+
+c) El monto de la primera exhibición no podrá ser inferior al quince por ciento del monto total de la caución fijada, y deberá efectuarse antes de que se obtenga la libertad provisional;
+
+d) El inculpado deberá obligarse a efectuar las exhibiciones por los montos y en los plazos que le fije el juez;
+
+II. En hipoteca otorgada por el reo o terceras personas, sobre inmuebles cuyo valor fiscal no sea menor que el monto de la caución más la cantidad necesaria para cubrir los gastos destinados a hacer efectiva la garantía en los términos del artículo 570 del presente Código;
+
+III. En prenda, en cuyo caso el bien mueble deberá tener un valor de mercado de cuando menos dos veces el monto de la suma fijada como caución; y
+
+IV. En fianza personal bastante, que podrá constituirse en el expediente.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 563.
 
-Cuando la fianza personal exceda de trescientos pesos, el fiador deberá comprobar que tiene bienes raíces, inscritos en el Registro Público de la Propiedad, cuyo valor sea, cuando menos, cinco veces mayor que el monto de la cantidad señalada como garantía, salvo cuando se trate de empresas afianzadoras legalmente constituidas y autorizadas.
+Cuando la fianza personal exceda del equivalente a cien veces el salario mínimo general vigente para el Distrito Federal, el fiador deberá comprobar que tiene bienes raíces, inscritos en el Registro Público de la Propiedad, cuyo valor no sea menor que el monto de la caución, más la cantidad necesaria para cubrir los gastos destinados a hacer efectiva la garantía en los términos del artículo 570. Lo dispuesto en este artículo no será aplicable cuando se trate de afianzadoras legalmente constituidas y autorizadas.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 564.
 
-Cuando se ofrezcan como garantía, fianza personal por cantidad mayor de trescientos pesos o hipoteca, se deberán presentar certificado de libertad de gravámenes, expedido por el encargado del Registro Público de la Propiedad, que comprenda un término de veinte años, y constancia de estar al corriente en el pago de las contribuciones respectivas, para que el juez califique la solvencia.
+Cuando se ofrezcan como garantía, fianza personal que exceda del equivalente a cien veces el salario mínimo general vigente para el Distrito Federal o hipoteca, se deberá presentar certificado de libertad de gravámenes expedido por el encargado del Registro Público de la Propiedad, que comprenda un término de diez años, y constancia de estar al corriente en el pago de las contribuciones respectivas, para que el juez califique la solvencia.
 
 ###### ARTICULO 565.
 
@@ -3758,13 +3780,19 @@ En el Tribunal Superior respectivo se llevará un índice en que se anotarán la
 
 Al notificarse al reo el auto que le concede la libertad caucional se le hará saber que contrae las siguientes obligaciones: presentarse ante su juez cuantas veces sea citado o requerido para ello; comunicar al mismo los cambios de domicilio que tuviere, y presentarse ante el juzgado o tribunal que conozca de su causa el día que se le señale de cada semana. En la notificación se hará constar que se hicieron saber al acusado las anteriores obligaciones; pero la omisión de este requisito no libra de ellas ni de sus consecuencias al acusado.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 568.
 
-Cuando el reo por sí mismo haya garantizado su libertad por depósito o por hipoteca, aquélla se le revocará en los casos siguientes:
+Cuando el inculpado haya garantizado su libertad con depósito, hipoteca, o prenda, aquélla se le revocará en los casos siguientes:
 
-I. Cuando el acusado desobedeciere, sin causa justa y comprobada, las órdenes legítimas del juez o tribunal que conozca de su proceso;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
-II. Cuando cometiere, antes de que la causa en que se le concedió la libertad esté concluida por sentencia ejecutoria, un nuevo delito que merezca pena corporal;
+I. Cuando desobedeciere, sin causa justa y comprobada, las órdenes legítimas del tribunal que conozca de su asunto, o no efectúe las exhibiciones dentro de los plazos fijados por el tribunal, en caso de habérsele autorizado a efectuar el depósito en parcialidades;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+
+II. Cuando fuere sentenciado por un nuevo delito intencional que merezca pena privativa de libertad, antes de que la causa en que se le concedió la libertad esté concluida por sentencia ejecutoria;
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
@@ -3780,9 +3808,11 @@ VII. Cuando el acusado no cumpla con alguna de las obligaciones a que se refiere
 
 VIII. Cuando el juez o tribunal abriguen temor fundado de que se fugue u oculte el inculpado.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 569.
 
-Cuando un tercero haya garantizado la libertad del acusado por medio de depósito en efectivo, de fianza personal o de hipoteca, aquélla se revocará:
+Cuando un tercero haya garantizado la libertad del acusado por medio de depósito en efectivo, de fianza personal, de prenda o de hipoteca, aquélla se revocará:
 
 I.- En los casos que se mencionan en el artículo anterior;
 
@@ -4795,3 +4825,11 @@ TERCERO.- Se derogan los artículos 119 a 122, del Código Penal para el Distrit
 CUARTO.- Los asuntos que se encuentren en trámite en la fecha en que entre en vigor esta Ley, serán turnados a las áreas competentes que corresponda conocer de los mismos, conforme a la nueva determinación de competencia.
 
 ...
+
+D.O.F. 30 DE DICIEMBRE DE 1991.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- No será exigible el requisito de querella incorporada con motivo de las reformas a los artículos 173, 282, 341 y 399-Bis del Código Penal para el Distrito Federal en Materia del Fuero Común, y para toda la República en Materia de Fuero Federal, en los procedimientos ya instaurados o resueltos al día en que entre en vigor el presente Decreto.
+
+TERCERO.- Para los efectos de los artículos 405 del Código Federal de Procedimientos Penales y 562 fracción III del Código de Procedimientos Penales para el Distrito Federal, los jueces y tribunales deberán empezar a aceptar la caución consistente en garantía prendaria, una vez que se cuente con los mecanismos administrativos que se hicieron necesarios.
