@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-tribunal-fiscal-administrativo-del-estado-5515
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-12-31"
-last_updated: "1983-12-30"
+last_updated: "2001-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DEL TRIBUNAL FISCAL ADMINISTRATIVO PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1981.
 
@@ -39,333 +39,169 @@ DEL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, HA TENIDO
 
 LEY ORGANICA DEL TRIBUNAL FISCAL ADMINISTRATIVO DEL ESTADO DE HIDALGO
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)</small>
 
-###### ARTICULO 1°.
-
-El Tribunal Fiscal Administrativo del Estado, con residencia en la ciudad de Pachuca de Soto, está dotado de plena autonomía de acuerdo con la Constitución Política del Estado.
+### CAPITULO PRIMERO
 
 ###### ARTICULO 1º.
 
-La presente Ley entrará en vigor el día 1º de enero de 1982.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### ARTICULO 2º.
 
-Es competente para dirimir las controversias que se susciten en la esfera Fiscal y Administrativa entre la Administración Pública Estatal, Municipal y los particulares.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### ARTICULO 3º.
 
-El Tribunal conocerá de los juicios que se promuevan en contra de:
-
-I.- Los actos administrativos que las autoridades Estatales y Municipales dicten, ordenen, ejecuten o traten de ejecutar en agravio de los particulares.
-
-II.- La falta de contestación de las autoridades Estatales y Municipales, dentro de un término de 20 días, a las promociones presentadas ante ellas por los particulares, a menos que las Leyes o reglamentos fijen otros plazos.
-
-El silencio de las autoridades se considera como resolución negativa, cuando no den respuesta en el término que corresponda.
-
-III.- Las resoluciones definitivas dictadas por las autoridades Estatales y Municipales en las que determine la existencia de una obligación fiscal, se fije ésta en cantidad líquida o se den las bases para su liquidación; nieguen la resolución de un ingreso indebidamente percibido o en cualquiera otro que cause agravios en materia fiscal.
-
-IV.- De los juicios que promueven las autoridades para que sean nulificadas las resoluciones fiscales favorables a un particular y que causen una lesión a la Hacienda Estatal o Municipal y;
-
-V.- Las demás que señale el Código Fiscal del Estado y las demás Leyes.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### ARTICULO 4º.
 
-Las sesiones del Tribunal serán públicas, salvo en los casos en que la moral o el interés público exijan que sean secretas.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### ARTICULO 5º.
 
-El tribunal funcionará en pleno y en salas unitarias, una fiscal y otra administrativa. Se compondrá de tres magistrados numerarios y los supernumerarios que el servicio requiera, a juicio del pleno.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### ARTICULO 6º.
 
-El nombramiento de los Magistrados será directamente a cargo del C. Gobernador del Estado, con aprobación del Congreso del Estado o de la Diputación Permanente en su caso, en los términos que señala la Constitución Política de la Entidad.
-
-> <small>(REFORMADO, 30 DE DICIEMBRE DE 1983)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### ARTICULO 7º.
 
-Los Magistrados del Tribunal Fiscal Administrativo, serán inamovibles y sólo podrán ser separados del cargo en los casos y mediante el procedimiento señalado en el título décimo en la Constitución Política del Estado y en la correspondiente Ley de responsabilidades de los servidores públicos del Estado de Hidalgo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### ARTICULO 8º.
 
-Para ser Magistrado del Tribunal Fiscal Administrativo, se requiere:
-
-a) Ser Hidalguense por nacimiento, en ejercicio de sus derechos civiles y políticos.
-
-b) No tener menos de 30 años el día de su nombramiento, ni ser mayor de 65 años.
-
-c) Ser Licenciado en Derecho, con Título debidamente registrado.
-
-d) Contar cuando menos con un año de práctica profesional en materia administrativa o fiscal.
-
-e) Ser de notoria buena conducta y
-
-f) No haber sido condenado por sentencia irrevocable, por delito intencional que le imponga más de un año de prisión.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### ARTICULO 9º.
 
-El Tribunal tendrá un Presidente que durará en su cargo un año y podrá ser reelecto. La Presidencia recaerá siempre en un Magistrado Numerario.
-
-> <small>(REFORMADO, 30 DE DICIEMBRE DE 1983)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### ARTICULO 10.
 
-La designación del Presidente del Tribunal Fiscal Administrativo se hará por el pleno del Tribunal en la 2a. quincena del mes de abril de cada año.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### ARTICULO 11.
 
-El Presidente del Tribunal será suplido en sus faltas temporales que no excedan de un mes, por el Magistrado Unitario de mayor antigüedad en el trabajo. En las faltas que excedan de dicho término, o sea definitiva. El Tribunal en pleno que se compondrá por esta misma razón con el Magistrado Supernumerario, o con el Secretario si no existiera éste.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### ARTICULO 12.
 
-Las faltas temporales o definitivas de los Magistrados entre tanto se provee a la designación, las cubrirán los Magistrados Supernumerarios, o el Secretario del ausente, si no existieran éstos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### ARTICULO 13.
 
-Las licencias con goce de sueldos hasta por un mes o por enfermedad, serán concedidas por el Tribunal en Pleno, las que excedan de este tiempo solamente podrá concederlas el Gobierno del Estado.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### ARTICULO 14.
 
-No podrán reducirse los emolumentos de los Magistrados del Tribunal durante el término de su encargo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### ARTICULO 15.
 
-El Tribunal tendrá un Secretario General de acuerdos, un Secretario para cada Magistrado, un actuario y los empleados que determine el presupuesto.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### ARTICULO 16.
 
-No son recusables los Magistrados que integran el Tribunal, pero bajo su responsabilidad se excusarán de intervenir en los siguientes casos:
-
-I.- Si son parientes consanguíneos, afines o civiles de alguna de las partes en línea recta sin limitación de grado, dentro del cuarto grado en la colateral por consanguinidad, o dentro del segundo en la colateral por afinidad, o de sus patrones o representantes.
-
-II.- Si se tiene interés personal en el negocio motivo del juicio.
-
-III.- Si ha sido apoderado o patrono de alguna de las partes en el juicio.
-
-IV.- Si tuviere amistad estrecha o enemistad manifiesta con alguna de las partes o sus abogados o apoderados y
-
-V.- Si participaron directamente en la preparación o emitieron el acto impugnado o han intervenido en la ejecución del mismo, o si son partes en un juicio similar pendiente de resolución por el Tribunal.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### ARTICULO 17.
 
-Cuando un Magistrado se excuse de conocer de un asunto conforme a esta Ley, lo turnará al Secretario General para que dicte la resolución correspondiente junto con dos testigos de asistencia, asesorado del Presidente del Tribunal.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### ARTICULO 18.
 
-Las renuncias de los Magistrados serán turnadas al Titular del Ejecutivo, si éste acepta serán enviadas al Congreso del Estado para su aprobación. En su receso a la Comisión permanente procediendo solamente por causas graves.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
-### CAPITULO SEGUNDO. DEL PLENO DEL TRIBUNAL FISCAL ADMINISTRATIVO
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)</small>
+
+### CAPITULO SEGUNDO
 
 ###### ARTICULO 19.
 
-El Tribunal en pleno se integrará con todos los Magistrados para que puedan efectuar sesiones.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### ARTICULO 20.
 
-Las resoluciones del pleno se tomarán por mayoría de votos. Los Magistrados podrán abstenerse de votar sólo cuando tengan impedimento legal.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### ARTICULO 21.
 
-El tribunal en pleno efectuará sesiones una vez por semana, y además, cuando lo considere necesario el Presidente, o lo pida alguna de los Magistrados.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### ARTICULO 22.
 
-Serán atribuciones del Tribunal en Pleno:
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
-I.- Designar a su Presidente.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)</small>
 
-II.- Establecer las reglas para la distribución de los negocios entre los diversos Magistrados.
-
-III.- Conceder licencias a los Magistrados en los términos de esta ley.
-
-> <small>(REFORMADA, 30 DE DICIEMBRE DE 1983)</small>
-
-IV.- Nombrar, remover y conceder licencias a los Secretarios y Actuarios.
-
-V.- Formular anualmente el proyecto de Presupuesto del Tribunal para ser remitido al Ejecutivo del Estado.
-
-VI.- Dictar las normas necesarias para el despacho pronto y expedito de los asuntos de la competencia del Tribunal.
-
-VII.- Decidir las contradicciones que surjan entre las resoluciones de los Magistrados. Las decisiones que adopte en estos casos tendrán fuerza jurisprudencial.
-
-VIII.- Resolver los recursos que concedan las leyes en contra de las sentencias y fallos que dicten los magistrados.
-
-IX.- Calificar las recusaciones, excusas e impedimentos de los Magistrados y, en su caso, designar al Magistrado que deba substituirlos.
-
-X.- Conocer y resolver sobre excitativas que formulen las partes en el juicio.
-
-XI.- Las demás que determinen las Leyes.
-
-### CAPITULO TERCERO. DEL PRESIDENTE DEL TRIBUNAL
+### CAPITULO TERCERO
 
 ###### ARTICULO 23.
 
-Son atribuciones del Presidente del Tribunal:
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
-I.- Representar al Tribunal ante toda clase de autoridades.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)</small>
 
-II.- Conocer y despachar la correspondencia del Tribunal, salvo lo sesionado por los Magistrados de los ramos fiscal y administrativo.
-
-III.- Presidir las comisiones que designe el Tribunal en pleno.
-
-IV.- Designar el debate y conservar el orden de las sesiones del Tribunal.
-
-V.- Turnar las demandas.
-
-VI.- Tramitar los asuntos de la competencia del pleno del Tribunal y ser ponente de los mismos.
-
-VII.- Designar y remover al personal administrativo, de acuerdo con las disposiciones legales y vigentes y las normas de carácter general que dicte el pleno del Tribunal.
-
-VIII.- Conceder o negar licencias del personal administrativo, en los términos de las disposiciones aplicables, previa opinión del Magistrado de la rama que corresponda.
-
-IX.- Dictar las medidas que exijan el buen servicio y la disciplina del Tribunal e imponer las sanciones administrativas que procedan a los Secretarios, Actuarios y empleados administrativos.
-
-X.- Dictar las órdenes relacionadas con el ejercicio del Presupuesto del Tribunal.
-
-XI.- Autorizar en unión del Secretario General de acuerdos las correspondientes actas, en las que se harán constar las deliberaciones del Tribunal en pleno y los acuerdos que éste dicte.
-
-XII.- Firmar los engroses de las resoluciones del Tribunal en pleno.
-
-XIII.- Realizar los actos administrativos o jurídicos que no requieran la intervención del Tribunal en pleno, o conforme a esta Ley. En la última sesión de cada año del Tribunal en pleno el Presidente rendirá un informe dando cuenta de la marcha del Tribunal y de las principales tesis adoptadas por éste en sus decisiones.
-
-### CAPITULO CUARTO. DEL MAGISTRADO DE LA RAMA FISCAL
+### CAPITULO CUARTO
 
 ###### ARTICULO 24.
 
-El Magistrado de la Rama Fiscal conocerá de los juicios que se inicien en contra de las resoluciones definitivas que se indican a continuación:
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
-I.- Las dictadas por autoridades fiscales estatales, municipales, o de los órganos fiscales autónomos, en que se determine la existencia de una obligación fiscal, se fije en cantidad liquida, o se den las bases para su liquidación.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)</small>
 
-II.- Los que nieguen la devolución de un ingreso de los regulados por el Código Fiscal debidamente percibido por el Estado, Municipio u organismo autónomo.
-
-III.- Los que causen un agravio en materia fiscal distinto al enunciado en las fracciones anteriores.
-
-IV.- Los que nieguen o reduzcan las pensiones y demás prestaciones sociales que concedan las leyes en favor de los funcionarios y empleados o sus familiares que no estén contemplados en la Ley de los Trabajadores al Servicio del Estado y los afines.
-
-V.- Los que se dicten en materia de pensiones civiles son con cargo al erario estatal o municipal u otro similar, y
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
-
-VI.- Las que se dicten sobre interpretación y cumplimiento de contratos de obras públicas celebrados por dependencias del Ejecutivo del Estado, municipal u organismos autónomos.
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
-
-VII.- Las que señalan los códigos fiscales, estatales y municipales.
-
-En materia fiscal, las instancias o peticiones que se formulen deberán ser resueltas en el término que la Ley fije a falta de este, el de noventa días, el silencio de las Autoridades se considerará como resolución negativa, cuando no den respuesta en el término que corresponda.
-
-### CAPITULO QUINTO. DEL MAGISTRADO DE LA RAMA ADMINISTRATIVA
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+### CAPITULO QUINTO
 
 ###### ARTICULO 25.
 
-Son atribuciones del magistrado de la rama administrativa, conocer de los juicios que se promuevan contra:
-
-I.- Los actos que las autoridades del Gobierno Estatal, o Municipal, dicten, ordenen, ejecuten o traten de ejecutar en agravio de los particulares.
-
-II.- La falta de contestación de las mismas autoridades dentro de un término de veinte días, o promociones presentadas ante ellas por los particulares, a menos que las Leyes o reglamentos fijen otro plazo, o la naturaleza del asunto lo requiera.
-
-III.- De las quejas por el incumplimiento de las sentencias que dicten.
-
-IV.- Del recurso de reclamación conforme a lo dispuesto por esta Ley.
-
-V.- De las demás que señalen las Leyes.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### ARTICULO 26.
 
-Los Magistrados de las Ramas Fiscal y Administrativa conocerán de los juicios que promueven las autoridades para que sean nulificadas las resoluciones según la naturaleza del contenido de las resoluciones impugnadas.
-
-Para los efectos procedentes se considerarán resoluciones definitivas, cuando no admitan recurso administrativo o cuando la interposición de este sea optativo para el afectado.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### ARTICULO 27.
 
-Corresponde al Secretario General:
-
-I.- Acordar con el Presidente lo relativo a las sesiones del Tribunal en Pleno.
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
-
-II.- Dar cuenta en las sesiones plenarias y tomar la votación de los magistrados, asentando las decisiones que en las mismas se acuerden, en el acta relativa, autorizando con su firma las actuaciones del pleno.
-
-III.- Tramitar y firmar la correspondencia administrativa del Tribunal, que no corresponda al Presidente ni a los Magistrados del ramo respectivo.
-
-IV.- Llevar el registro de los peritos terceros o rebeldía de las partes.
-
-V.- Expedir los certificados de constancia que obren en los expedientes de la Secretaría General.
-
-VI.- Llevar el control de las ponencias que debe elaborar el Presidente para la solución del Tribunal en pleno y el día de la substitución del Magistrado.
-
-VII.- Las demás que le encomiende el Tribunal en pleno y el Presidente.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### ARTICULO 28.
 
-Las faltas temporales del Secretario General serán suplidas por los Secretarios de las ramas fiscal o administrativa, según el criterio del pleno del Tribunal.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### ARTICULO 29.
 
-Corresponde a los Secretarios de las distintas ramas:
-
-I.- Recibir las demandas que le turne el Magistrado.
-
-II.- Recibir las promociones que le presenten las partes y poner constancias de recibo en el escrito original y en la copia.
-
-III.- Dar cuenta de los negocios al Magistrado, recabando el acuerdo respectivo.
-
-IV.- Redactar los acuerdos y actas de los asuntos que se tramiten, recogiendo la firma del Magistrado.
-
-V.- Llevar todo el procedimiento de lo contencioso que establece la Ley hasta el auto que dicte sentencia.
-
-VI.- Vigilar que los empleados de oficina cumplan con sus deberes, dando cuenta al Magistrado de las faltas o deficiencias que se observen.
-
-VII.- Distribuir entre los empleados el trabajo, cuidando que el despacho de los asuntos sea expedido.
-
-VIII.- Autorizar previo acuerdo del Magistrado, las copias certificadas de constancias en autos, que soliciten las partes o sus representantes en su caso.
-
-IX.- Vigilar que los asuntos concluidos se envíen al archivo.
-
-X.- Efectuar las diligencias que le sean encomendadas cuando éstas deban practicarse fuera del local del Tribunal.
-
-XI.- Llevar el libro de registros de demanda y expedientes que les entregue el titular.
-
-XII.- Las demás que esta Ley señale.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### ARTICULO 30.
 
-En todas las actuaciones que se realicen en los expedientes, intervendrá un Secretario que los autorizará con su firma, excepción hecha de los encomendados a otro funcionario.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### ARTICULO 31.
 
-Corresponde al Actuario:
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
-I.- Notificar en forma y tiempo previstos por la ley, las resoluciones recaídas en los expedientes que para tal efecto les sean turnados.
-
-II.- Formar los oficios de notificación de los acuerdos que se dicten por el Magistrado, remitirlos, asentando en el expediente la razón de haber hecho la notificación de acuerdo a lo dispuesto por esta ley.
-
-En aquellos casos en que por alguna causa no haya actuario, el secretario con dos testigos de asistencia, desempeñará sus funciones sin perjuicio del actor.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)</small>
 
 VACACIONES Y GUARDIAS
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
-
 ###### ARTICULO 32.
 
-El Tribunal Fiscal Administrativo tendrá dos períodos de vacaciones de 10 días hábiles cada uno, que deberán coincidir con los períodos oficiales locales.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### ARTICULO 33.
 
-Las labores del Tribunal se suspenderán de acuerdo al Calendario Oficial.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### ARTICULO 34.
 
-Antes de iniciar un período de vacaciones, se designará el personal necesario para el despacho de los asuntos urgentes.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### ARTICULO 35.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ## TITULO SEGUNDO (SIC). DEL PROCEDIMIENTO
 
@@ -865,9 +701,9 @@ Las resoluciones dictadas por el Tribunal en Pleno causan estado por ministerio 
 
 T R A N S I T O R I O S
 
-###### Artículo 1º.
+###### ARTICULO 1º.
 
-La presente Ley entrará en vigor el día 1o. de enero de 1984.
+La presente Ley entrará en vigor el día 1º de enero de 1982.
 
 ###### ARTICULO 2º.
 
@@ -921,6 +757,10 @@ RUBRICA
 
 P.O. 30 DE DICIEMBRE DE 1983.
 
+###### Artículo 1º.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1984.
+
 ###### Artículo 2º.
 
 Deberá ordenarse la publicación de este Decreto en el Periódico Oficial del Gobierno del Estado de Hidalgo.
@@ -940,3 +780,13 @@ IV.- Impuesto sobre honorarios por actividades profesionales y ejercicios lucrat
 ###### Artículo 4º.
 
 Continúa suspendido el cobro de los derechos estatales que señala el Decreto No. 120, de fecha 29 de junio de 1983 publicado en el Periódico Oficial del Estado, de fecha 4 de julio de 1983, en virtud de estar en vigor la coordinación que en materia de derechos suscritos por el Estado de Hidalgo y la Secretaría de Hacienda y Crédito Público.
+
+P.O. 6 DE AGOSTO DE 2001.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Tercero.- El presente Decreto deroga la Ley Orgánica del Tribunal Fiscal Administrativo del 30 de diciembre de 1981, publicada en el Periódico Oficial del Estado el 30 del mismo mes y año, por lo que respecta a su organización y atribuciones, quedando vigente lo relativo al procedimiento fiscal-administrativo, hasta en tanto se emita la Ley correspondiente.
+
+Quinto.- Dentro de los treinta días siguientes en que entre en vigor la presente Ley, deberán ser aprobados por los plenos correspondientes, los Reglamentos Interiores de los Tribunales que integran el Poder Judicial; mientras tanto, serán aplicables los vigentes.
