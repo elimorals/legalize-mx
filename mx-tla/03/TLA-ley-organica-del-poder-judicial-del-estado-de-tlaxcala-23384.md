@@ -4,7 +4,7 @@ identifier: "TLA-ley-organica-del-poder-judicial-del-estado-de-tlaxcala-23384"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-01-10"
-last_updated: "2002-01-10"
+last_updated: "2002-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TLAXCALA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 2002.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el jueves 10 de enero de 2002.
 
@@ -274,6 +274,10 @@ IV. Presentar al Congreso del Estado las iniciativas de Ley que apruebe el Pleno
 V. Otorgar mandatos para pleitos y cobranzas, a fin de atender los asuntos que así lo ameriten, y
 
 VI. Elaborar los proyectos de Reglamentos que deba decretar el Pleno.
+
+> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2002)</small>
+
+VII. Emitir, en caso de empate, voto de calidad en los asuntos que deba de resolver el Pleno.
 
 B. Jurisdiccionales:
 
@@ -1334,3 +1338,15 @@ Rúbrica.
 EL SECRETARIO DE GOBIERNO GELACIO MONTIEL FUENTES
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE FEBRERO DE 2002.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+La Gran Comisión y la Comisión de Puntos Constitucionales, Gobernación y Justicia y Asuntos Políticos, programarán dentro de este periodo ordinario de sesiones, las actividades de tendientes a reformar y adicionar la Ley Orgánica del Poder Judicial necesarias.
