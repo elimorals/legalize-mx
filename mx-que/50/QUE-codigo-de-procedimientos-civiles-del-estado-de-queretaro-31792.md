@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-civiles-del-estado-de-queretaro-31792"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "1994-10-20"
+last_updated: "1995-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -2647,7 +2647,7 @@ XIII.- Las acciones relativas a servidumbres legales o que consten en títulos p
 
 XIV.- Las rectificaciones y modificaciones de actas del Registro Civil, a que se refiere el artículo 130 del Código Civil.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 20 DE OCTUBRE DE 1994)
+(EN SUSPENSO LA VIGENCIA, P.O. 23 DE NOVIEMBRE DE 1995)
 
 XV. Las solicitudes de inscripción en el Registro Civil, de los actos que no hubieran sido inscritos dentro de los plazos que el propio código señala para cada uno de ellos
 
@@ -2665,7 +2665,7 @@ En los casos de la Fracción XIV del artículo anterior se oirá al Ministerio P
 
 Si el Director del Registro Civil no contestase la demanda, se tendrá por presuntivamente confesados los hechos en que se funda el pedimento de rectificación o de modificación y luego de recibidas las pruebas y oídos los alegatos de los interesados si los formulasen por escrito dentro de tres días se dictará la resolución correspondiente.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 20 DE OCTUBRE DE 1994)
+(EN SUSPENSO LA VIGENCIA, P.O. 23 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 433.
 
@@ -6343,7 +6343,7 @@ TERCERO.- Hasta en tanto exista legislación que modifique el concepto, se entie
 
 CUARTO.- Hasta el día 31 de marzo de 1994, los propietarios, poseedores o titulares de derechos de viviendas conceptuadas como de interés social o popular, podrán otorgar por declaración unilateral de voluntad y en escritura pública, disposición para designar beneficiarios en los términos de lo establecido por los artículos 1158, 1378 y 1460 Bis del código Civil que se adicionan, esta estipulación surtirá los efectos y se ejecutará al tenor de los articulos 904 y 921 Bis que se adicionan al Código de Procedimientos Civiles vigente en el Estado.
 
-P.O. 9 DE JUNIO DE 1994.
+P.O. 9 DE JUNIO DE 1994
 
 LEY QUE DEJA EN SUSPENSO LA VIGENCIA DE LOS ARTICULOS 431, FRACCION XV Y 433 DEL CODIGO.
 
@@ -6384,3 +6384,17 @@ La presente Ley se publicará en el Periódico Oficial del Gobierno del Estado "
 ###### ARTICULO TERCERO.
 
 Las disposiciones jurídicas que se opongan a la presente, quedan derogadas mientras dura la vigencia de ésta, a cuyo término recobrarán aquellas su pleno vigor.
+
+P.O. 23 DE NOVIEMBRE DE 1995
+
+###### ARTICULO PRIMERO.
+
+Las personas que al entrar en vigor esta ley, estén tramitando juicio de registro extemporáneo podrán optar por concluir o por acudir ante el oficial del Registro Civil respectivo, en los términos de lo dispuesto en este ordenamiento para que se asiente su registro de nacimiento.
+
+###### ARTICULO SEGUNDO.
+
+La presente Ley se publicará en el Periódico Oficial "La Sombra de Arteaga", y su vigencia será del mes de diciembre del año de 1995 al mes de junio del año de 1996.
+
+###### ARTICULO TERCERO.
+
+Las disposiciones jurídicas que se opongan a la presente quedan derogadas mientras dura la vigencia de ésta, a cuyo término recobrarán aquellas su pleno vigor.
