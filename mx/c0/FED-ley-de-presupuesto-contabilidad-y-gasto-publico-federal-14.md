@@ -4,7 +4,7 @@ identifier: "FED-ley-de-presupuesto-contabilidad-y-gasto-publico-federal-14"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1995-12-21"
+last_updated: "2003-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1976-12-30"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ABRIL DE 2003.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 31 de diciembre de 1976
 
@@ -159,7 +159,11 @@ I. Descripción clara de los programas que sean la base del Proyecto, en los que
 
 II. Explicación y comentarios de los principales programas y en especial de aquellos que abarquen dos o más ejercicios fiscales.
 
-III. Estimación de ingresos y proposición de gastos del ejercicio fiscal para el que se propone, con la indicación de los empleos que incluye.
+> <small>(REFORMADA, D.O.F. 10 DE ABRIL DE 2003)</small>
+
+III. Estimación de ingresos y proposición de gastos del ejercicio fiscal para el que se propone, incluyendo el monto y clasificación correspondiente a las percepciones que se cubren en favor de los servidores públicos.
+
+Dichas percepciones incluyen lo relativo a sueldos, prestaciones y estímulos por cumplimiento de metas, recompensas, incentivos o conceptos equivalentes a éstos;
 
 IV. Ingresos y gastos reales del último ejercicio fiscal.
 
@@ -251,15 +255,19 @@ La Tesorería de la Federación será la beneficiaria de todas las garantías qu
 
 El Gobierno Federal y el Departamento del Distrito Federal no otorgarán garantías ni efectuarán depósitos para el cumplimiento de sus obligaciones de pago con cargo a sus presupuestos de egresos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ABRIL DE 2003)</small>
+
 ###### Artículo 33.
 
-La Secretaría de Programación y Presupuesto será responsable de que se lleve un registro del personal civil de las entidades que realicen gasto público federal y para tal efecto estará facultada para dictar las normas que considere procedentes.
+La Secretaría de la Función Pública será responsable de llevar un registro de personal civil de las entidades que realicen gasto público federal y para tal efecto estará facultada para dictar las normas que considere procedentes.
 
 El registro del personal militar lo llevarán las Secretarías de la Defensa Nacional y de Marina, según corresponda.
 
+> <small>(REFORMADO, D.O.F. 10 DE ABRIL DE 2003)</small>
+
 ###### Artículo 34.
 
-Salvo lo previsto en las leyes, el Ejecutivo Federal, por conducto de la Secretaría de Programación y Presupuesto, determinará en forma expresa y general cuándo procederá aceptar la compatibilidad para el desempeño de dos o más empleos o comisiones con cargo a los presupuestos de las entidades, sin perjuicio del estricto cumplimiento de las tareas, horarios y jornadas de trabajo que correspondan. En todo caso, los interesados podrán optar por el empleo o comisión que les convenga.
+Salvo lo previsto en las leyes, el Ejecutivo Federal, por conducto de la Secretaría de la Función Pública, determinará en forma expresa la procedencia general de la compatibilidad para el desempeño de dos o más cargos, empleos o comisiones, con cargo a los presupuestos de las entidades, sin perjuicio del estricto cumplimiento de las metas, tareas, proyectos, horarios y jornadas que en su caso correspondan. En todo caso, los interesados podrán optar por el cargo, empleo o comisión que les convenga.
 
 ###### Artículo 35.
 
@@ -371,11 +379,13 @@ Los responsables garantizarán a través de embargo precautorio y en forma indiv
 
 Las responsabilidades que se constituyan tendrán por objeto indemnizar por los daños y perjuicios que ocasionen a la Hacienda Pública Federal y a la del Departamento del Distrito Federal, o a las entidades de la administración pública paraestatal, las que tendrán el carácter de créditos fiscales y se fijarán por la Secretaría de Programación y Presupuesto en cantidad líquida, misma que se exigirá se cubra desde luego, sin perjuicio de que, en su caso, la Tesorería de la Federación o la Tesorería del Departamento del Distrito Federal, las hagan efectivas a través del procedimiento de ejecución respectivo.
 
-> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ABRIL DE 2003)</small>
 
 ###### Artículo 48.
 
-La Secretaría de la Contraloría General de la Federación podrá dispensar las responsabilidades en que se incurra, siempre que los hechos que las constituyan no revistan un carácter delictuoso, ni se deban a culpa grave o descuido notorio del responsable, y que los daños causados no excedan de cien veces el salario mínimo diario vigente en el Distrito Federal.
+La Secretaría de la Función Pública podrá dispensar las responsabilidades en que se incurra, siempre que los hechos que las constituyan no revistan un carácter delictuoso, ni se deban a culpa grave o descuido notorio del responsable, y que los daños causados no excedan cien veces el salario mínimo diario vigente en el Distrito Federal.
+
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 La propia Secretaría podrá cancelar los créditos derivados del fincamiento de responsabilidades que no excedan de cien veces el salario mínimo diario vigente en el Distrito Federal, por incosteabilidad práctica de cobro. En los demás casos se propondrá su cancelación a la Cámara de Diputados, al rendirse la Cuenta Anual correspondiente, previa fundamentación.
 
@@ -498,3 +508,7 @@ CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 D.O.F. 21 DE DICIEMBRE DE 1995.
 
 UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1996.
+
+D.O.F. 10 DE ABRIL DE 2003.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
