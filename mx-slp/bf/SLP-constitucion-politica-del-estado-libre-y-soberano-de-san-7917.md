@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "1993-04-20"
+last_updated: "1993-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ABRIL DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 1993.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -415,9 +415,15 @@ Si no hubiere quórum para la instalación de la Cámara o para que ésta ejerza
 
 ART. 29.- El Congreso tendrá anualmente dos períodos de sesiones; el primero comenzará el día 15 de septiembre y concluirá el 15 de diciembre, y el segundo, improrrogable, comenzará el 1° de abril y terminará el día último de mayo. El primer período se podrá ampliar por un mes más, a juicio de las dos terceras partes de los diputados presentes, o a petición del Ejecutivo. El Reglamento Interior señalará las formalidades con que deban celebrarse la apertura y clausura de las sesiones.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1993)</small>
 
-ART. 30.- En el primer período se ocupará de preferencia en examinar y aprobar el presupuesto de egresos que le presente el Ejecutivo, correspondiente al año entrante, así como en señalar los fondos con que deben cubrirse. En el segundo, se ocupará, con la misma preferencia, en examinar y calificar las cuentas de recaudación y distribución de caudales que el Contador de Glosa le presente glosadas, relativas al año próximo anterior. La revisión de estas cuentas no se limitará a investigar si las cantidades gastadas están o no de acuerdo con las partidas respectivas del presupuesto, gastos hechos y a la responsabilidad a que hubiere lugar.
+ART. 30.- en el primer período el Congreso del Estado se ocupará, de preferencia, en examinar y aprobar el presupuesto de egresos que le presente el Ejecutivo, correspondiente al año entrante, así como en señalar los fondos con que deba cubrirse.
+
+En el segundo, se ocupará con la misma preferencia, en revisar y aprobar las Cuentas Públicas del Estado, de los Municipios y Entidades, relativas al año próximo anterior.
+
+La revisión de las cuentas públicas tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados por el presupuesto y el cumplimiento de los objetivos contenidos en los programas respectivos.
+
+Si del examen que realice la Contaduría Mayor de Hacienda, aparecieran discrepancias entre las cantidades gastadas y las partidas respectivas del presupuesto o, no existiera exactitud o justificación en los gastos hechos, se determinarán las responsabilidades de acuerdo con la Ley.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
 
@@ -501,7 +507,9 @@ XX.- Intervenir en los juicios políticos y en acusaciones penales contra servid
 
 XXI.- Conceder Licencias temporales al Gobernador, para separarse de su encargo y salir del Estado;
 
-XXII.- Nombrar al Contador de Glosa, sujeto al Congreso;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1993)</small>
+
+XXII.- Nombrar al Contador Mayor de Hacienda dependiente del Congreso.
 
 XXIII.- (DEROGADA, P.O. 24 DE ENERO DE 1984)
 
@@ -531,9 +539,9 @@ XXXI.- Expedir todas las leyes que sean necesarias para el efecto de hacer efect
 
 XXXII.- Recibir en sesión el informe del C. Gobernador del Estado durante la segunda quincena del mes de septiembre de cada año en la forma que precise el H. Congreso;
 
-> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 1978)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1993)</small>
 
-XXXIII.- Nombrar y remover libremente a todos los empleado (sic) de su Secretaría y los de la Contaduría de Glosa del Estado.
+XXXIII.- Nombrar y remover libremente a todos los empleados de su Secretaría, de la Oficialía Mayor, de la Contaduría Mayor de Hacienda y en general de sus dependencias auxiliares.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
 
@@ -1191,9 +1199,9 @@ ART. 93.- La Ley determinará la forma en que deba hacerse la recaudación de lo
 
 ART. 94.- La Secretaría de Finanzas, efectuará los pagos que corresponda hacer el Estado, de conformidad con la Ley del Presupuesto de Egresos que la Legislatura Local decreta para cada Ejercicio Fiscal.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1993)</small>
 
-ART. 95.- La Secretaría de Finanzas, previo acuerdo del Titular del Poder Ejecutivo, remitirá a la Legislatura del Estado a más tardar el 30 de abril, la cuenta pública correspondiente al ejercicio fiscal anterior, para su glosa y aprobación, en su caso.
+ART. 95.- La Cuenta Pública del año anterior deberá ser presentada al H. Congreso del Estado a más tardar el 31 de marzo, por el Ejecutivo Local.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1992)</small>
 
@@ -1570,3 +1578,13 @@ TERCERO.- Se derogan todas las disposiciones legales y reglamentarias que se opo
 CUARTO.- El Tribunal de lo Contencioso Administrativo, deberá estar funcionando en un plano no mayor de treinta días contados a partir de la fecha de publicación de este Decreto.
 
 QUINTO.- Se faculta al Ejecutivo para que determine la partida presupuestal correspondiente para el buen funcionamiento del Tribunal que se crea mediante el presente Decreto.
+
+P.O. 17 DE NOVIEMBRE DE 1993.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Hasta en tanto se reformen los preceptos correspondientes de las leyes secundarias, cuando en éstas se haga referencia a la Contaduría de Glosa, se entenderá que se refiere a la Contaduría Mayor de Hacienda.
