@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "2001-09-12"
+last_updated: "2001-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2001.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -7809,7 +7809,13 @@ Testamento público abierto, es el que se otorga ante Notario y tres testigos id
 
 ###### Artículo 1410.
 
-El testador expresará de un modo claro y terminante su voluntad al Notario y a los testigos. El notario redactará por escrito las cláusulas del testamento sujetándose estrictamente a la voluntad del testador y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán todos el instrumento, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
+El testador expresará de un modo claro y terminante su voluntad al notario y a los testigos. El notario redactará por escrito las cláusulas del testamento sujetándose estrictamente a la voluntad del testador y las leerá en voz alta para que éste manifieste si está conforme.
+
+Si lo estuviere, firmarán todos el instrumento, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2001)</small>
+
+Todas estas formalidades serán indispensables para la validez del testamento, a excepción de la hora en que se elaboró el instrumento jurídico, salvo cuando exista otro testamento otorgado por la misma persona en el mismo día, mes y año.
 
 ###### Artículo 1411.
 
@@ -7843,9 +7849,13 @@ Si el testador no puede o no sabe leer, dictará en su idioma el testamento a un
 
 Las formalidades se practicarán acto continuo y el Notario dará fe de haberse llenado todas.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 1418.
 
-Faltando alguna de las referidas solemnidades, quedará el testamento sin efecto, y el Notario será responsable de los daños y perjuicios e incurrirá, además, en la pena de pérdida de oficio.
+Faltando alguna de las referidas solemnidades, quedará el testamento sin efecto, y el notario será responsable de los daños y perjuicios, y pérdida de oficio.
+
+Entratándose de la hora sólo será causa de la suspensión temporal de su ejercicio cuando exista otro testamento otorgado por la misma persona en el mismo día, mes y año.
 
 ### CAPITULO IV.
 
@@ -15946,3 +15956,9 @@ P.O. 12 DE SEPTIEMBRE DE 2001.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa."
+
+P.O. 5 DE DICIEMBRE DE 2001.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
