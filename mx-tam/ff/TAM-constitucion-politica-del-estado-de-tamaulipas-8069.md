@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1960-08-20"
+last_updated: "1961-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 1960.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 1961.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -531,7 +531,7 @@ XX. Conceder ammistía por delitos cuyo conocimiento corresponde exclusivamente 
 
 XXI. Nombrar y remover a los Magistrados del Supremo Tribunal de Justicia del Estado en los términos que establece la presente Constitución.
 
-XXII. Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General.
+XXII.- Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General.
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 1934)</small>
 
@@ -1065,11 +1065,11 @@ Las faltas temporales del Secretario General de Gobierno se suplirán por el Ofi
 
 ### CAPITULO I. De la Administración de Justicia
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1961)</small>
 
 ###### Art. 100.
 
-El Poder Judicial en el Estado se deposita para su ejercicio en el Supremo Tribunal de Justicia, en los Juzgados de Primera Instancia, en los de Paz y en los Tribunales y Jurados que en lo sucesivo establezca la Ley, salvo las excepciones determinadas por esta Constitución.
+El Poder Judicial en el Estado se deposita para su ejercicio en el Supremo Tribunal de Justicia, en los juzgados de primera instancia, en los juzgados menores y en los tribunales y jurados que en lo sucesivo establezca la Ley, salvo las excepciones determinadas por esta Constitución.
 
 ###### Art. 101.
 
@@ -1167,15 +1167,15 @@ VIII. Examinar, con el objeto prevenido por las leyes, los partes y listas de la
 
 IX. Sentenciar, sin recurso ulterior, erigido en Jurado de Sentencia, las causas que por delitos oficiales hayan de formarse contra los funcionarios de que habla el artículo 58, fracción XIX, con excepción de las que se instruyan contra todos los Magistrados del mismo Tribunal.
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1961)</small>
 
-X.- Conocer y fallar en única instancia las causas que se presenten contra algunos de sus miembros, contra los Jueces de Primera Instancia y de Paz por delitos oficiales y de las que deban formarse contra los Secretarios del mismo Tribunal, por faltas y abusos cometidos en el desempeño de sus empleos.
+X.- Conocer y fallar en única instancia las causas que se presenten contra alguno de sus miembros, contra los jueces de primera instancia y jueces menores por delitos oficiales, y de las que deban formarse contra los secretarios del mismo Tribunal, por faltas y abusos cometidos en el desempeño de sus empleos;
 
 XI. De los asuntos civiles y criminales que remitan en grado los Jueces de Primera Instancia.
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1961)</small>
 
-XII. Nombrar los Jueces de Paz, a propuesta en terna de los Ayuntamientos respectivos.
+XII.- Nombrar los jueces menores, a propuesta en terna de los Ayuntamientos respectivos;
 
 XIII. Formar su Reglamento interior.
 
@@ -1183,19 +1183,21 @@ XIV. Conceder licencias hasta por un mes a los Magistrados y Jueces.
 
 XV. Ordenar visitas de cárceles.
 
-XVI. Ordenar visitas a los Juzgados de Primera Instancia y de Paz.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1961)</small>
+
+XVI.- Ordenar visitas a los juzgados de primera instancia y menores;
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
 XVII.- Nombrar y remover a los empleados del propio Tribunal de acuerdo con la Ley Orgánica del mismo.
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1961)</small>
 
-XVIII.- Conocer de las quejas formuladas contra los Jueces de Primera Instancia y de Paz.
+XVIII.- Conocer de las quejas formuladas contra los Jueces de primera instancia y menores;
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1961)</small>
 
-XIX.- Remover a los Jueces de Primera Instancia y de Paz en los casos en que lo faculte la presente Constitución.
+XIX.- Remover a los jueces de primera instancia y menores en los casos en que lo faculte la presente Constitución.
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
@@ -1219,7 +1221,7 @@ Art.- 117.- En las causas que hubiere de formarse a todos los Magistrados en fun
 
 ###### Art. 117.
 
-Los Tribunales inferiores para la administración de Justicia, estarán a cargo de los Jueces de Primera Instancia y los de Paz.
+Los Tribunales Inferiores para la administración de justicia, estarán a cargo de los jueces de primera instancia y de los jueces menores.
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
@@ -1227,23 +1229,29 @@ Los Tribunales inferiores para la administración de Justicia, estarán a cargo 
 
 Los Jueces de Primera Instancia del Estado, serán nombrados por el Supremo Tribunal de Justicia a propuesta en terna del Ejecutivo, pudiéndose nombrar dos o más Jueces de Primera Instancia, con jurisdicción independiente en los Ramos Civil y Penal, para un mismo Distrito Judicial, cuando el número de negocios lo haga necesario, a iniciativa del propio Tribunal o del Ejecutivo.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1961)</small>
+
 ###### Art. 119.
 
-Los Jueces de Paz funcionarán cuando menos uno en cada Municipio.
+Los jueces menores funcionarán cuando menos uno en cada Municipio.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1961)</small>
 
 ###### Art. 120.
 
-Una ley determinará el número de Distritos Judicialas (sic) en que se divide el Estado; el número de Jueces de Primera Instancia y de Paz; sus requisitos, su competencia, jurisdicción, duración de sus funciones, dotación de empleados y todo lo relativo a su organización.
+Una Ley determinará el número de distritos judiciales en que se divide el Estado; el número de jueces de primera instancia y de jueces menores; sus requisitos, su competencia, jurisdicción, duración de sus funciones, dotación de empleados y todo lo relativo a su organización.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1961)</small>
 
 ###### Art. 121.
 
-Los Juzgados de Primera Instancia serán sostenidos por el Estado y los de Paz por sus respectivos Municipios.
+Los juzgados de primera instancia serán sostenidos por el Estado y los juzgados menores por sus respectivos Municipios.
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
 Art.- 122.- Los Jueces de Primera Instancia, antes de tomar posesión de su empleo, otorgarán la protesta de estilo ante el Supremo Tribunal de Justicia, o ante el Ayuntamiento del Municipio Cabecera del Distrito Judicial, si así lo dispusiere aquél.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1961)</small>
 
 ###### Art. 122.
 
@@ -1255,13 +1263,13 @@ Art.- 123.- Los Jueces de Primera Instancia, antes de tomar posesión de su empl
 
 ###### Art. 123.
 
-Los Jueces de Paz otorgarán la protesta de ley ante los respectivos Ayuntamientos.
+Los jueces menores otorgarán la protesta de Ley ante el Juez de Primera Instancia, del respectivo distrito judicial.
 
 ## TITULO VII. DEL MINISTERIO PUBLICO
 
 ### CAPITULO III. De los Tribunales Inferiores
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1961)</small>
 
 ###### Art. 124.
 
@@ -1798,3 +1806,7 @@ UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su 
 P.O. 20 DE AGOSTO DE 1960.
 
 UNICO:- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE OCTUBRE DE 1961.
+
+TRANSITORIO UNICO.- Este Decreto comenzará a surtir sus efectos el mismo día en que entre en vigor el nuevo Código de Procedimientos Civiles del Estado, aprobado por Decreto Número 381, de fecha 21 de noviembre de 1960 y publicado en el Periódico Oficial No. 79, de fecha 4 del presente mes.
