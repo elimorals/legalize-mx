@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1981-04-04"
+last_updated: "1981-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE ABRIL DE 1981.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE SEPTIEMBRE DE 1981.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -263,11 +263,11 @@ El Estado asume la representación jurídica del Municipio en todos los asuntos 
 
 ## TITULO TERCERO. DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS PUBLICOS DEL ESTADO
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
 
 ###### Art. 126.
 
-Los Diputados a la Legislatura del Estado, los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia, el Secretario General de Gobierno y el Oficial Mayor, son responsables de los delitos del orden común que cometan durante el tiempo de su encargo, y por los delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones. El Gobernador lo será igualmente, pero durante el período de su ejercicio, solo podrá ser acusado por delitos graves del orden común y por delitos graves contra la Soberanía del Estado.
+Los Diputados de la Legislatura del Estado, los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia y los Titulares de las Dependencias del Poder Ejecutivo, son responsables de los delitos del orden común que cometan durante el tiempo de su encargo y de los delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones. El Gobernador lo será igualmente pero durante el período de su ejercicio, sólo podrá ser acusado por delitos graves del orden común y por delitos graves contra la Soberanía del Estado.
 
 ###### Art. 127.
 
@@ -407,9 +407,9 @@ V. Los Jefes de la Guardia Nacional que estuvieren en servicio activo durante el
 
 Para los efectos de esta fracción y de la anterior, se entenderá por período electoral el transcurrido desde los trabajos preparatorios o promulgación de la convocatoria, en su caso, hasta el día de la elección;
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
 
-VI.- El Secretario General, Oficial Mayor, los Magistrados del Tribunal Superior de Justicia y todos los funcionarios y empleados del Gobierno del Estado y Municipios, a menos de separase de sus cargos respectivos, noventa días antes de la elección.
+VI.- Los Magistrados del Tribunal Superior de Justicia, y todos los funcionarios y Empleados del Gobierno del Estado y Municipios, así como los Titulares de las Empresas Descentralizadas, a menos que se separen de sus cargos respectivos 60 días antes de la elección.
 
 VII.- (DEROGADA, P.O. 1 DE ENERO DE 1955)
 
@@ -577,17 +577,17 @@ Cuando un proyecto de ley, fuere devuelto a la Legislatura con observaciones del
 
 En los casos de urgencia notoria, calificada por mayoría relativa de los diputados presentes, la Legislatura puede reducir o dispensar los trámites legislativos, establecidos por su Ley Orgánica, siempre que no se trate de Iniciativas de Ley o Decretos que afecten los intereses generales del Estado.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
+
 ###### Art. 65.
 
-El Secretario General del Gobierno o el Oficial Mayor en su caso, cuando se trate de iniciativas del Ejecutivo; y el Magistrado que designe el Tribunal Superior de Justicia, cuando se trate de iniciativas de ese alto Cuerpo, podrán concurrir a las discusiones de la Legislatura, teniendo voz en ellas, sin que puedan estar presentes en el acto de la votación.
+La Legislatura podrá solicitar del Gobernador del Estado o del Presidente del Tribunal Superior de Justicia, la presencia de los Titulares del Poder Ejecutivo y los Magistrados del Poder Judicial, así como la de los directores de los Organismos Descentralizados y Empresas de Participación Estatal, cuando sea necesaria para el estudio de Iniciativas de Ley o Decreto, de sus respectivas competencias.
 
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 1978)</small>
-
-La Legislatura podrá solicitar del Gobernador del Estado, la presencia de los Directores de las Dependencias del Poder Ejecutivo, así como de los Jefes de los Organismos Descentralizados cuando sea necesaria para el debido estudio de las iniciativas de Ley o Decreto, iguales facultades tendrá cuando se trate de funcionarios municipales, pudiéndose dirigir a los Ayuntamientos para autorizar la presencia de éstos.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
 
 ###### Art. 66.
 
-Cuando se trate de iniciativas de los Ayuntamientos, el Secretario General de Gobierno o el Oficial Mayor en su caso, de acuerdo con lo dispuesto en el artículo 12 de la presente Constitución, podrá concurrir en representación de ellos a las discusiones de la Legislatura en las condiciones que expresa el artículo anterior.
+Cuando se trate de iniciativas de los Ayuntamientos o se discutan asuntos de su competencia, podrá el Presidente Municipal o un integrante del Ayuntamiento correspondiente, concurrir a las discusiones de la Legislatura, para responder a los cuestionamientos que esta les plantee.
 
 ###### Art. 67.
 
@@ -597,29 +597,27 @@ La votación de las leyes y decretos será nominal.
 
 Para la aclaración, interpretación, reforma o derogación de las leyes, se observarán los mismos trámites que para su formación.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
+
 ###### Art. 69.
 
-Todo proyecto de ley o decreto que fuere aprobado en definitiva, será remitido inmediatamente al Ejecutivo para su publicación y ejecución.
+Todo proyecto de Ley o Decreto, que fuere aprobado en definitiva, será remitido inmediatamente al Ejecutivo para su publicación y ejecución.
 
-Las leyes y decretos se publicarán en la siguiente forma:
+Las Leyes y Decretos se publicarán en la siguiente forma:
 
-N. N. Gobernador [aquí el carácter que tenga si es Constitucional, Interino, etc.,] del Estado Libre y Soberano de México, a sus habitantes, sabed: Que la Legislatura del Estado ha tenido a bien aprobar lo siguiente:
+N.N. Gobernador (Aquí el carácter que tenga si es Constitucional, interino, etc.) del Estado Libre y Soberano de México, a sus habitantes sabed: Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
+La (número ordinal que corresponda) Legislatura del Estado de México, Decreta:
 
-La (número ordinal que corresponda) Legislatura del Estado de México decreta:
+(El texto de la Ley o Decreto).
 
-[El texto de la ley o decreto.]
+Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
 
-Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.- (Fecha y firmas del Presidente y Secretarios.)
-
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
+(fecha y firmas del Presidente y Secretarios).
 
 Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
-
-Fechas y firmas del Gobernador y Secretario General de Gobierno.
+(Fecha y firma del Gobernador, del Secretario de Gobierno y Secretario del Ramo.)
 
 ### CAPITULO TERCERO. DEL PODER EJECUTIVO
 
@@ -757,7 +755,9 @@ XXXVII. Cambiar la residencia de los Poderes del Estado;
 
 XXXVIII. Delegar sus facultades a favor del Ejecutivo por tiempo limitado y por el voto de las dos terceras partes del número total de sus miembros, en casos excepcionales y cuando así lo estime conveniente por las circunstancias especiales en que se encuentre el Estado. En tales casos se expresará con toda claridad la facultad o facultades que se deleguen y que en ningún caso, podrán ser las de organización Municipal, funciones electorales y de jurado;
 
-XXXIX.- (DEROGADA, P.O. 1 DE ENERO DE 1955)
+> <small>(REFORMADA [ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 1981)</small>
+
+XXXIX.- Aprobar la creación de Organismos Descentralizados.
 
 XL. Reglamentar la organización del servicio de seguridad pública del Estado;
 
@@ -817,7 +817,9 @@ III. Llamar a los suplentes respectivos en caso de inhabilidad o fallecimiento d
 
 IV. Recibir la protesta de todos los funcionarios que deban prestarla ante la Legislatura, cuando ésta estuviere en receso.
 
-V. Conceder o negar las licencias a que se refiere la fracción XV del artículo 70, en los casos de receso de la Legislatura;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
+
+V. Conceder o negar las licencias a que se refiere la fracción XV del artículo 70 y la fracción IV del Artículo 90.
 
 VI. Dictaminar sobre todos los asuntos que quedan pendientes de resolución a fin de que continúen sus trámites al abrirse los períodos de sesiones;
 
@@ -863,23 +865,21 @@ V. No ser funcionario civil en ejercicio de autoridad, ni militar en servicio ac
 
 El período constitucional del Gobernador del Estado comenzará el dieciséis de septiembre del año de su renovación.
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1935)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
 
 ###### Art. 79.
 
-Si por algún motivo no hubiere podido hacerse la elección de Gobernador o publicarse la declaratoria respectiva para el día en que deba tener lugar la renovación o el nuevo Gobernador electo no se presentare a desempeñar sus funciones, cesará no obstante el saliente, y la Legislatura nombrará Gobernador interino si se hallare en funciones, supliendo inmediatamente la falta, el Secretario General de Gobierno, o, en su caso, el Oficial Mayor. En caso de que la Legislatura esté en receso, la Diputación Permanente hará la convocatoria respectiva para la designación del Gobernador interino.
+Si por algún motivo no hubiere podido hacerse la elección de Gobernador o publicarse la Declaratoria respectiva, para el día en que deba tener lugar la renovación, o el nuevo Gobernador electo, no se presentare a desempeñar sus funciones, cesará no obstante el saliente, y la Legislatura nombrará Gobernador Interino, supliendo inmediatamente la falta el Secretario de Gobierno o el Presidente del Tribunal Superior de Justicia, la Legislatura enseguida, hará la convocatoria respectiva, para la designación del Gobernador interino.
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1935)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
 
-###### Art. 80°.
+###### Art. 80.
 
-Las faltas temporales del Gobernador que no excedan de treinta días, las cubrirá, por ministerio de Ley, el Secretario General de Gobierno, o, en su caso, el Oficial Mayor, quien nombrará un Secretario General interino encargado del Despacho.
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 1942)</small>
+Las faltas temporales del Gobernador que excedan de 15 días, las cubrirá por ministerio de la Ley el Secretario de Gobierno o, en su caso el Presidente del Tribunal Superior de Justicia.
 
 ###### Art. 81.
 
-En las faltas temporales del Gobernador que excedan de treinta días, la falta se cubrirá en los términos que establece el artículo 79.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 1981)
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 1942)</small>
 
@@ -887,11 +887,11 @@ En las faltas temporales del Gobernador que excedan de treinta días, la falta s
 
 Si la falta del Gobernador fuere absoluta, la Legislatura se constituirá en Colegio Electoral y hará la designación de Gobernador Substituto, quien ejercerá sus funciones hasta terminar el período constitucional de que se trate.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 1942)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
 
 ###### Art. 83.
 
-Si por cualquier motivo la Legislatura no pudiere hacer el nombramiento a que se refieren los artículos 79, 81 y 82, y hubiere por consiguiente acefalía de los Poderes Ejecutivo y Legislativo, el Secretario General de Gobierno o en su caso el Oficial Mayor, se hará cargo del Poder Ejecutivo.
+Si por cualquier motivo la Legislatura no pudiere hacer el nombramiento a que se refieren los artículos 79 y 82, y hubiere por consiguiente acefalía en el Poder Ejecutivo, el Secretario de Gobierno o, en su caso el Presidente del Tribunal Superior de Justicia se hará cargo del Poder Ejecutivo.
 
 ###### Art. 84.
 
@@ -923,13 +923,13 @@ II. Objetar por una sola vez en el improrrogable término de diez días útiles,
 
 III. Convocar a la Legislatura a sesiones extraordinarias por conducto de la Diputación permanente, expresando el objeto de ellas;
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
 
-IV.- Comisionar cada vez que lo crea conveniente al Secretario General de Gobierno para que concurra a las discusiones de la Legislatura, tomando parte en ellas con voz pero sin voto.
+IV.- Designar a los Titulares de las Dependencias del Ejecutivo, que deban concurrir a las discusiones de la Legislatura, a responder de los cuestionamientos que esta les plantee sobre asuntos de su competencia.
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
 
-V.- Nombrar o remover libremente al Secretario General de Gobierno, al Oficial Mayor, y a los demás funcionarios y empleados del Estado, cuyo nombramiento o remoción no estén determinados en otra forma por esta Constitución o por las leyes que de ellas se deriven.
+V.- Nombrar y remover libremente a los Funcionarios y Empleados del Estado, cuyo nombramiento o remoción no estén determinados en otra forma por esta Constitución o por las Leyes que de ella se deriven.
 
 VI. Ejercitar todos los derechos que asigna a la Nación el artículo 27 de la Constitución Federal, siempre que por el texto mismo de ese artículo o por las disposiciones federales que de él se deriven no deban considerarse como reservados al Gobierno Federal o concedidos a los Cuerpos municipales, de acuerdo con el artículo 11 transitorio de dicha Constitución y ajustando sus procedimientos a las leyes que al efecto se dicten, tan pronto como sean expedidas;
 
@@ -991,7 +991,9 @@ VI.- Presentar a la Legislatura también antes del día quince del mes de diciem
 
 VII. Presentar a la Legislatura, al terminar su período Constitucional, una memoria sobre el estado de los negocios públicos, expresando cuales sean las deficiencias que note en la administración y cuales las medidas que en su concepto deban aplicarse, para subsanarlas;
 
-VIII. Informar a la Legislatura por escrito, o verbalmente por conducto del Secretario de Gobierno o del Oficial Mayor en su caso, sobre cualquier ramo de la Administración, cuando la misma Legislatura lo solicite;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
+
+VIII.- Informar a la Legislatura por escrito, o verbalmente por conducto del Titular de la Dependencia a que corresponda el asunto, sobre cualquier ramo de la administración, cuando la misma Legislatura lo solicite.
 
 IX. Promulgar sin demora, ejecutar y hacer que se ejecuten las leyes y acuerdos de la Legislatura del Estado, proveyendo en la esfera administrativa a su exacta observancia;
 
@@ -1053,9 +1055,9 @@ XXVII.- Nombrar a los Magistrados del Tribunal Superior de Justicia, sometiendo 
 
 XXVIII. Aceptar la renuncia de los Magistrados del Tribunal Superior de Justicia, sometiéndola a la aprobación de la Legislatura o de la Diputación Permanente en su caso, así como acordar las licencias de esos funcionarios cuando éstas excedan de tres meses, sometiendo su aprobación al mismo Cuerpo Legislativo.
 
-> <small>(ADICIONADA, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
 
-XXIX.- Sujetar a la aprobación de la Legislatura la Ley Orgánica del Poder Ejecutivo.
+XXIX.- Someter a la aprobación de la Legislatura, la Ley Orgánica de la Administración Pública del Estado de México.
 
 > <small>(REFORMADA, P.O. 4 DE ABRIL DE 1981)</small>
 
@@ -1073,7 +1075,9 @@ II. Impedir por ningún motivo ni directa ni indirectamente, el libre ejercicio 
 
 III. Intervenir en las funciones del Poder Judicial, ni dictar providencia alguna que retarde o impida tales funciones. Tampoco podrá disponer de las personas de los reos, mientras estén a disposición de sus jueces respectivos;
 
-IV. Salir del territorio del Estado sin la previa licencia de la Legislatura, y en sus recesos de la Diputación Permanente;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
+
+IV. Ausentarse del Territorio del Estado, por más de 15 días, sin la previa licencia de la Legislatura, o en su caso, de la Diputación Permanente.
 
 V. Salir de la Capital sin permiso de la Legislatura, o en su receso, de la Diputación Permanente, por un período de tiempo que exceda de un mes;
 
@@ -1097,45 +1101,51 @@ XIII. Conceder licencias para juegos de azar.
 
 #### SECCION TERCERA. DEL DESPACHO DEL EJECUTIVO
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
 
-###### Art. 91.
+###### Art. 91
 
-Para el despacho de los negocios que la presente Constitución encomienda al Ejecutivo, habrá un Secretario General de Gobierno, un Oficial Mayor y los demás funcionarios que determine la Ley Orgánica respectiva.
+Para el Despacho de los asuntos que la presente Constitución encomienda al Ejecutivo, habrán las Dependencias y Organismos que señale la Ley Orgánica respectiva.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1950)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
 
 ###### Art. 92.
 
-Para ser Secretario General de Gobierno, se requiere:
+Para ser Secretario o Sub-Secretario de Gobierno, se requiere:
 
-I. Ser originario del Estado, o ciudadano del mismo en el pleno goce de sus derechos;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
+
+I.- Ser originario del Estado, o Ciudadano del mismo en pleno goce de sus derechos.
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 1950)</small>
 
 II. Ser mayor de treinta años.
 
 ###### Art. 93.
 
-El Secretario de Gobierno será el indispensable conducto de transmisión de las resoluciones que el Gobernador dicte y llevará en la Legislatura la voz del Ejecutivo, cuando éste o la misma Legislatura lo estimaren conveniente.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 1981)
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
 
 ###### Art. 94.
 
-Todas las leyes, decretos, reglamentos, circulares, acuerdos y órdenes que dicte el Gobernador, deberán en todo caso ser autorizados con la firma del Secretario de Gobierno y comunicadas por éste. Los documentos que el Gobernador suscriba en ejercicio de sus funciones constitucionales, así como los despachos que expida, deberán ir refrendados por el Secretario General, y sin este requisito no surtirán efectos legales.
+Todas las Leyes, Decretos, Reglamentos, Circulares, Acuerdos, Ordenes y en general los documentos que el Gobernador suscriba en ejercicio de sus funciones constitucionales, deberán ser refrendados por el Secretario de Gobierno y por el Titular del ramo a que el asunto corresponda. Sin este requisito, no surtirán efectos legales.
 
-El Secretario General de Gobierno, será responsable de todas las órdenes y providencias que autorice contra la Constitución y leyes del Estado.
+El Secretario de Gobierno y los demás Titulares de las Dependencias del Ejecutivo, serán responsables de todas las órdenes y providencias que autoricen con su firma, contra la Constitución y Leyes del Estado.
 
 ###### Art. 95.
 
-Para ayudar al Secretario de Gobierno en sus funciones y para sustituirlo en sus faltas temporales, habrá un Oficial Mayor de la Secretaría con las atribuciones que le asigne el Reglamento interior de la misma.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 1981)
 
 ###### Art. 96.
 
-El Oficial Mayor de la Secretaría, deberá llenar los mismos requisitos que el artículo 92 exige para el Secretario General de Gobierno.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 1981)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
 
 ###### Art. 97.
 
-El Secretario General de Gobierno o el Oficial Mayor en su caso, asistirán a las sesiones de la Legislatura.
+El Titular de la Dependencia que el Gobernador decida o , en su caso el del ramo al que corresponda el asunto, asistirá a las sesiones de la Legislatura.
 
 I. Cuando el Gobernador concurra a los actos oficiales que determine esta Constitución;
 
@@ -1147,9 +1157,11 @@ III. Cuando a solicitud de la Legislatura el Gobierno tenga que informar sobre a
 
 (DEROGADO, P.O. 1 DE ENERO DE 1955)
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
+
 ###### Art. 99.
 
-El Secretario General, mientras esté en ejercicio de sus funciones, no podrá desempeñar los oficios de apoderado o abogado en negocios ajenos, ante los Tribunales del Estado.
+Los Titulares de las Dependencias del Poder Ejecutivo y Empresas Descentralizadas, mientras estén en ejercicio de sus funciones, no podrán desempeñar los oficios de Apoderado o Abogado de negocios ajenos.
 
 ###### Artículo 101.
 
@@ -1225,7 +1237,9 @@ Corresponde al Tribunal Pleno:
 
 I.- Iniciar leyes en todo lo relativo a la Administración de Justicia.
 
-II. Declarar si ha o no lugar a formación de causa a los Secretarios del Tribunal y resolver, sin recursos ulterior, como Jurado de sentencia las causas de responsabilidad por delitos oficiales que hayan de formarse contra el Gobernador, Diputados, Magistrados, Jueces de primera Instancia, Procurador General de Justicia y Secretario General de Gobierno u Oficial Mayor en su caso, previa la correspondiente declaración de la Legislatura;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
+
+II. Declarar si ha o no lugar a formación de causa a los Secretarios del Tribunal y resolver, sin recurso ulterior, como jurado de sentencia las causas de responsabilidad por delitos oficiales que hayan de formarse contra el Gobernador, Diputados, Magistrados, Jueces de Primera Instancia, Procurador General de Justicia, y los Titulares de las Dependencias del Poder Ejecutivo, previa la correspondiente declaración de la Legislatura.
 
 > <small>(REFORMADA, P.O. 4 DE ABRIL DE 1981)</small>
 
@@ -1479,15 +1493,17 @@ Para ser miembro de un Ayuntamiento será indispensable ser ciudadano mexicano, 
 
 No podrán ser miembros de los ayuntamientos:
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
 
-I.- Los Militares en ejercicio, los empleados públicos del Estado, los individuos que formen parte de la Policía o de las Fuerzas de Seguridad Pública del Estado, los Tesoreros y Secretarios de las Corporaciones Municipales, que no se separen de sus cargos, noventa días antes de la elección.
+I. Los Militares en ejercicio, los Empleados Públicos del Estado, los Individuos que formen parte de la Policía o de las Fuerzas de Seguridad Pública del Estado, los Tesoreros y Secretarios de los Ayuntamientos, que no se separen de sus cargos, 60 días antes de la elección.
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
 
-II.- Los empleados públicos dependientes de la Federación.
+II. Los Funcionarios y Empleados Públicos dependientes de la Federación.
 
-III. Los ministros de cualquier culto.
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
+
+III. Los Ministros de cualquier culto.
 
 #### SECCION TERCERA. DE LOS PRESIDENTES MUNICIPALES
 
@@ -2478,3 +2494,9 @@ Los Jueces Menores Municipales en funciones, seguirán conociendo de los asuntos
 ###### ARTICULO TERCERO.
 
 Los asuntos en trámite ante los Jueces Populares serán del conocimiento del Juez Menor Municipal que corresponda, según su adscripción.
+
+G.G. 17 DE SEPTIEMBRE DE 1981.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
