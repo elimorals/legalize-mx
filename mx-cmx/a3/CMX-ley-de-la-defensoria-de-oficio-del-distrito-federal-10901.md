@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-defensoria-de-oficio-del-distrito-federal-10901"
 country: "mx"
 rank: "ley"
 publication_date: "1997-06-17"
-last_updated: "1998-11-16"
+last_updated: "2000-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10901&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1997-06-10"
 
 LEY DE LA DEFENSORIA DE OFICIO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE NOVIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE JUNIO DE 2000.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 17 de junio de 1997 y republicada en el Diario Oficial de la Federación, el jueves 18 de junio de 1997.
 
@@ -48,15 +48,21 @@ Las disposiciones del presente ordenamiento son de orden público e interés soc
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Defensoría, la Defensoría de Oficio del Distrito Federal;
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
 
-II. Dirección General, la Dirección General de Servicios Legales de la Subsecretaría de Asuntos Jurídicos del Distrito Federal;
+I. Defensoría, la Unidad Administrativa encargada de la Defensoría de Oficio del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
+
+II. Dirección General, la Dirección General de Servicios Legales que actúa por sí o a través de la Defensoría de Oficio y que se encuentra adscrita la Consejería Jurídica y de Servicios Legales;
 
 III. Consejo, el Consejo de Colaboración de la Defensoría de Oficio del Distrito Federal;
 
-IV. Secretaría, la Secretaría de Gobierno del Distrito Federal; y
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
 
-V. Subsecretaría, la Subsecretaría de Asuntos Jurídicos de la Secretaría.
+IV. Consejería, la Consejería Jurídica y de Servicios Legales;
+
+V. (DEROGADA, G.O. 8 DE JUNIO DE 2000)
 
 ###### Artículo 3o.
 
@@ -72,23 +78,35 @@ Para el ejercicio de las funciones que tiene legalmente encomendadas, la Defenso
 
 ### Capítulo II. De la Organización y Estructura
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE JUNIO DE 2000)</small>
+
 ###### Artículo 6o.
 
-Corresponde a la Secretaría:
+Corresponde a la Consejería:
 
-I. Coordinar la prestación de los servicios de defensa y asesoría jurídica, a que se refiere esta Ley;
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
+
+I. Dirigir organizar, supervisar, difundir y controlar la Defensoría de Oficio en el Distrito Federal, de conformidad con esta ley, así como prestar los servicios de defensoría de oficio, de orientación y asistencia jurídica;
 
 II. Aprobar el Programa Anual de Capacitación a que se refiere esta Ley;
 
 III. Proponer la celebración de acuerdos, convenios y acciones de concertación con los sectores público, social y privado, que contribuyan al mejoramiento de la Defensoría;
 
-IV. Coordinar, supervisar y evaluar el cumplimiento de las facultades y obligaciones conferidas por esta Ley a la Subsecretaría y a la Dirección General; y
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
 
-V. Las demás funciones que le señalen esta Ley, su Reglamento, y otros ordenamientos.
+IV. Coordinar, supervisar y evaluar el cumplimiento de las facultades y obligaciones conferidas por esta ley a la Dirección General;
+
+> <small>(ADICIONADA, G.O. 8 DE JUNIO DE 2000)</small>
+
+V. Promover campañas informativas para la población del Distrito Federal con el propósito de promover la cultura e instrucción cívica para conocer y ejercer mejor sus garantías y derechos a través de las instituciones encargadas de la administración e impartición de justicia, en los términos previstos por el artículo 31 fracción II de la Constitución Política de los Estados Unidos Mexicanos; y
+
+VI.- Las demás funciones que le señalan esta Ley, su Reglamento, y otros ordenamientos.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE JUNIO DE 2000)</small>
 
 ###### Artículo 7o.
 
-Son atribuciones de la Subsecretaría:
+Son atribuciones de la Dirección General:
 
 I. La organización y control de la Defensoría;
 
@@ -96,13 +114,17 @@ II. Vigilar y evaluar la prestación de los servicios de Defensoría y asesoría
 
 III. Ordenar la realización de visitas a las unidades administrativas encargadas de prestar los servicios a que se refiere esta Ley;
 
-IV. Someter a la aprobación de la Secretaría el Programa Anual de Capacitación;
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
+
+IV. Someter a la aprobación de la Consejería, el programa anual de capacitación; y
 
 V. Las demás que le señalen esta Ley, su Reglamento, y otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE JUNIO DE 2000)</small>
+
 ###### Artículo 8o.
 
-A la Dirección General le corresponden las siguientes funciones:
+A la Defensoría, le corresponden las siguientes funciones:
 
 I. Dirigir, controlar y prestar los servicios de asistencia jurídica que se establecen en el presente ordenamiento, y dictar las medidas que considere convenientes para el mejor desempeño de las funciones de la Defensoría;
 
@@ -184,9 +206,11 @@ Los defensores de oficio se auxiliarán en el desempeño de sus funciones con tr
 
 La remuneración de los Defensores de Oficio será equivalente, al menos de la categoría básica que corresponda a Agentes del Ministerio Público de la Procuraduría General de Justicia del Distrito Federal adscritos a Juzgados del Fuero Común, sin perjuicio de que la Defensoría de Oficio se estructure con los niveles necesarios que, atendiendo a las materias de la propia defensoría, responsabilidades asignadas y otros elementos, ubiquen las percepciones de los defensores acorde con ellos.
 
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2000)</small>
+
 ###### Artículo 16.
 
-Para ocupar el cargo de defensor de oficio se celebrará un concurso de oposición, mismo que se hará del conocimiento público mediante convocatoria que la Secretaría publique en la Gaceta Oficial del Distrito Federal y en dos de los periódicos de mayor circulación en el Distrito Federal.
+Para ocupar el cargo de defensor de oficio se celebrará un concurso de oposición, mismo que se hará del conocimiento público, mediante convocatoria que la Consejería publique en la Gaceta Oficial del Distrito Federal y en dos de los periódicos de mayor circulación en el Distrito Federal.
 
 ### Capítulo V. Requisitos de Ingreso
 
@@ -214,7 +238,9 @@ Para ser aceptados en el examen de oposición, los aspirantes deberán presentar
 
 El Jurado para el examen de oposición se compondrá de tres miembros propietarios o sus suplentes y estará integrado por:
 
-I. El Subsecretario de Asuntos Jurídicos, quien fungirá como presidente del jurado;
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
+
+I. El Consejero Jurídico, quien fungirá como Presidente del jurado;
 
 II. El Director General Jurídico y de Estudios Legislativos; y
 
@@ -242,7 +268,9 @@ Los aspirantes que hayan obtenido la mayor calificación, serán nombrados defen
 
 Los defensores de oficio de reciente ingreso, deberán cumplir un periodo de práctica. El Director General designará las adscripciones en que deban realizarlas.
 
-Los defensores de oficio de reciente ingreso, serán supervisados durante las prácticas por el defensor de oficio a quien le sea asignada dicha actividad.
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2000)</small>
+
+Los Defensores de Oficio de reciente ingreso deberán acreditar el curso propedeútico a que se refiere el Reglamento de esta Ley.
 
 ### Capítulo VI. Adscripción y Desempeño de los Defensores de Oficio
 
@@ -274,11 +302,31 @@ Los defensores de oficio en el área de Salas Penales del Tribunal Superior de J
 
 Los defensores de oficio adscritos a juzgados cívicos se ubicarán en los locales que para los mismos establezcan las autoridades competentes.
 
-Para efectos del presente Artículo, la Procuraduría General de Justicia del Distrito Federal, el Tribunal Superior de Justicia del Distrito Federal y la propia Subsecretaría, deberán proporcionar espacios físicos apropiados y suficientes para el funcionamiento de las oficinas de la Defensoría, en los sitios antes señalados.
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2000)</small>
+
+Para efectos del presente artículo, la Procuraduría General de Justicia del Distrito Federal, el Tribunal Superior de Justicia del Distrito Federal y la propia Consejería, deberán proporcionar espacios físicos apropiados y suficientes para el funcionamiento de las oficinas de la Defensoría, en los sitios antes señalados.
+
+> <small>(ADICIONADO, G.O. 8 DE JUNIO DE 2000)</small>
+
+La Defensoría contará con espacios e instalaciones adecuadas para que los defensores de oficio puedan recibir a los solicitantes y atender les en forma apropiada.
+
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2000)</small>
 
 ###### Artículo 26.
 
-La Defensoría contará, entre su personal, con funcionarios que tengan a su cargo la supervisión de su funcionamiento. El Director General podrá ordenar supervisiones en cualquier momento a efecto de controlar el desempeño del personal integrante de la Defensoría.
+La Defensoría, contará entre su personal, con:
+
+I.- El Director;
+
+II.- Subdirectores;
+
+III.- Jefe de Unidad Departamental;
+
+IV.- Jefe de Defensores de Oficio, con funcionarios que tengan a su cargo la supervisión de su funcionamiento; y
+
+V.- Defensores de Oficio.
+
+El Director General podrá ordenar supervisiones en cualquier momento a efecto de controlar el desempeño del personal integrante de la Defensoría.
 
 > <small>(ADICIONADO, G.O. 16 DE NOVIEMBRE DE 1998)</small>
 
@@ -314,9 +362,11 @@ En caso de existir alguna de las causas anteriores, el defensor de oficio expond
 
 Cuando surjan intereses opuestos entre dos o más de los representados de un mismo defensor de oficio, se procederá de acuerdo a lo previsto en el Artículo anterior.
 
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2000)</small>
+
 ###### Artículo 30.
 
-En cualquier caso la Defensoría se abstendrá de prestar sus servicios cuando el solicitante presente un abogado particular.
+En cualquier caso la Defensoría se abstendrá de prestar sus servicios cuando el solicitante presente un abogado particular, salvo los casos expresamente establecidos en las leyes procesales. En caso de que una de las partes cuente con un defensor particular que no comparezca a la audiencia de ley y, a fin de no dejarlo en estado de indefensión, el juez solicitará en ese momento la presencia del defensor de oficio, difiriendo la audiencia, para que éste se imponga de los autos.
 
 ###### Artículo 31.
 
@@ -598,19 +648,35 @@ Con la finalidad de promover el constante desarrollo y el aumento en la calidad 
 
 El Consejo estará integrado por:
 
-I. El Secretario, quien fungirá como su presidente;
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
 
-II. El Subsecretario;
+I. El Consejero Jurídico, quien fungirá como su presidente;
+
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
+
+II. El Director General de Servicios Legales;
 
 III. Un representante del Tribunal Superior de Justicia del Distrito Federal;
 
-IV. Un representante de la facultad, dirección o departamento de Derecho de una institución de educación superior de carácter público;
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
 
-V. Un representante de la facultad, dirección o departamento de Derecho de una institución de educación superior de carácter privado;
+IV. Un representante de la Procuraduría General de Justicia del Distrito Federal;
 
-VI. Un representante de un colegio de abogados; y
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
 
-VII. Aquellos ciudadanos distinguidos por sus trayectorias académicas, jurídicas o de asistencia social en el Distrito Federal, que el Consejo determine.
+V. Un representante de la facultad, dirección o departamento de derecho de una institución de educación superior de carácter público;
+
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
+
+VI. Un representante de la facultad, dirección o departamento de Derecho de una institución de educación superior de carácter privado;
+
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
+
+VII.- Un representante de una organización de abogado; y
+
+> <small>(ADICIONADA, G.O. 8 DE JUNIO DE 2000)</small>
+
+VIII. Aquellos ciudadanos distinguidos por su trayectoria académica jurídicas o de asistencia social en el Distrito Federal, que el consejo determine.
 
 El Director General fungirá como Secretario Ejecutivo del Consejo.
 
@@ -622,11 +688,15 @@ El cargo de miembro del Consejo tendrá carácter honorario.
 
 Corresponderán al Consejo de Colaboración, las facultades siguientes:
 
-I. Opinar sobre los asuntos relacionados con la Defensoría, así como emitir recomendaciones para mejorar los servicios de defensa y orientación jurídica;
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
+
+I. Opinar sobre los asuntos relacionados con la defensoría y proponer la forma de mejorar los servicios de defensa y orientación jurídica, considerando también las propuestas que puedan hacer los defensores de oficio;
 
 II. Participar en la elaboración del Programa Anual de Capacitación;
 
-III. Recibir el informe anual de actividades que le presente el Director General;
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
+
+III. Recibir el informe anual de actividades que presente el Director General;
 
 IV. Promover la realización de foros, talleres, cursos y seminarios relacionados con los servicios de defensa y orientación jurídica;
 
@@ -640,9 +710,11 @@ El funcionamiento del Consejo y su integración en el caso de las fracciones III
 
 ### Capítulo XIV. Formación, Capacitación y Actualización
 
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2000)</small>
+
 ###### Artículo 53.
 
-Cada año, la Dirección General presentará a la Secretaría un Plan Anual de Capacitación. La misma Dirección General estará a cargo de su aplicación y evaluación.
+Cada año la Dirección General presentará a la Consejería un plan anual de capacitación. La misma Dirección General estará a cargo de su aplicación y evaluación.
 
 ###### Artículo 54.
 
@@ -691,3 +763,11 @@ Segundo.- La autoridad competente deberá hacer las transferencias presupuestale
 Tercero.- En su caso, la convocatoria y el examen de oposición para la contratación de defensores de oficio, deberán publicarse y aplicarse dentro de los noventa días siguientes a la publicación de este Decreto.
 
 Cuarto.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la federación.
+
+G.O. 8 DE JUNIO DE 2000.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese el presente en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- El Reglamento de esta Ley deberá adecuarse a las disposiciones contenidas en el presente decreto, dentro del término de treinta días, a la entrada en vigor del mismo.
