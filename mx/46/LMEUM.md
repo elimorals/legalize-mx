@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "1947-09-19"
+last_updated: "1947-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMEUM"
 
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE SEPTIEMBRE DE 1947.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1947.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación el lunes 27 de julio de 1931.
 
@@ -62,9 +62,9 @@ b). Las monedas de plata de cinco pesos, de un peso y de cincuenta centavos con 
 
 c). La moneda fraccionaria de bronce con denominación de veinte centavos y el tamaño, peso, cuño, composición y demás características que se establecen en el decreto de 3 de agosto de 1943.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1942)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1947)</small>
 
-d). La moneda fraccionaria de cupro-níquel con denominación de diez centavos y el tamaño, peso, cuño, composición y demás características que se establecen en el artículo 1°. del Decreto de 26 de marzo de 1936.
+d). La moneda fraccionaria de cuproníquel con denominaciones de cinco y diez centavos, con el tamaño, peso, cuño, composición y demás características que se establecen en el artículo 10 (sic) del Decreto de 26 de marzo de 1936.
 
 > <small>(REFORMADO, D.O.F. 21 DE MARZO DE 1944)</small>
 
@@ -88,9 +88,9 @@ Las monedas de cinco pesos, de un peso y de cincuenta centavos a que se refiere 
 
 Las monedas de veinte centavos a que se refiere el inciso c) del mismo artículo, tendrán poder liberatorio limitado a cincuenta pesos en un mismo pago.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1942)</small>
+(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1947) (F. DE E., D.O.F. 7 DE ENERO DE 1948)
 
-Las monedas de cupro-níquel de diez centavos y las de bronce de cinco centavos a que se refieren los incisos d) y e) del artículo 2°. de esta Ley, tendrán poder liberatorio limitado a dos pesos en un mismo pago.
+Las monedas de cuproníquel de cinco y diez centavos y las de bronce de cinco centavos a que se refieren los incisos d) y e) del artículo 2°. de esta Ley, tendrán poder liberatorio ilimitado a dos pesos en un mismo pago.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1942)</small>
 
@@ -465,6 +465,12 @@ El presente Decreto entrará en vigor el día de su publicación en el "Diario O
 D.O.F. 19 DE SEPTIEMBRE DE 1947.
 
 ARTICULO TRANSITORIO.- La presente Ley entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 1947.
+
+PRIMERO.- Se deroga el Decreto de 29 de diciembre de 1942 en lo relativo a las reformas que introdujo en los artículos 2°., inciso d) y 5°. párrafo tercero de la Ley Monetaria de 25 de julio de 1931, y en cuanto ordenó suspender indefinidamente la acuñación de monedas de cuproníquel de cinco centavos.
+
+SEGUNDO.- Este Decreto entrará en vigor el día de su publicación en el "Diario Oficial".
 
 ###### ARTICULO 3°.
 
