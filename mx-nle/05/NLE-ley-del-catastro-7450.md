@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-catastro-7450"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-18"
-last_updated: "1992-12-30"
+last_updated: "1993-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL CATASTRO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 18 de enero de 1964.
 
@@ -87,11 +87,11 @@ e).- Las personas o instituciones privadas cuya colaboración se requiera.
 
 La Junta Central Catastral se integrará por dos Representantes Oficiales, que designará el Secretario de Finanzas y Tesorero General del Estado y que tendrán el carácter de Presidente y Secretario, un Representante de la Cámara de Propietarios de Bienes Raíces en el Estado y un Representante del Instituto Mexicano de Valuación de Nuevo León, A. C., con el carácter de Vocales. Se nombrarán suplentes tanto para los Representantes Oficiales como para los de la Cámara y del Instituto, quienes se encargarán de suplir las faltas temporales o definitivas de los propietarios. El presidente tendrá voto de calidad en caso de empate.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 5o.
 
-La Junta Central Catastral auxiliará a la Dirección de Catastro en la formulación de los Proyectos de Bases Generales de Valores por Unidades Tipo.
+La Junta Central Catastral, tendrá el carácter de permanente y auxiliará en la Dirección de Catastro en la formulación de los proyectos de bases generales de valores por unidades tipo.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
@@ -111,11 +111,11 @@ Las Juntas Municipales Catastrales tendrán función auxiliar a la Dirección de
 
 La Dirección de Catastro se compondrá de un Director y de los empleados técnicos y administrativos que designe el Ejecutivo del Estado.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 9o.
 
-La Dirección de Catastro tendrá a su cargo la formulación de proyectos de Bases Generales por Unidades Tipo y la realización de trabajos de limitación de regiones y planificación de cada Municipio del Estado, dividiéndolo en zonas urbanas, suburbanas y rústicas.
+La Dirección de Catastro tendrá a su cargo la formulación de las bases generales de valores por unidades tipo; la realización de los trabajos de limitación de regiones de cada Municipio del Estado, dividiéndolo en zonas urbanas, sub-urbanas y rústicas; el registro, control y actualización del padrón catastral, incluyendo la ubicación, medidas y colindancias del predio, así como los datos de identificación del propietario o poseedor y, establecer las normas técnicas para la formulación, mejoramiento y conservación de los registros catastrales para el control y valuación en materia inmobiliaria.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -181,11 +181,11 @@ En las zonas rústicas, la determinación de las Bases Generales de Valores Tipo
 
 El valor de la tierra y el de las mejoras que ésta contenga, será determinado con base en la estimación técnica de su valor real, y dicho valor será el "valor catastral".
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 18o.
 
-Las Bases Generales de Valores por Unidades Tipo deberán ser del dominio público mediante exhibición de las mismas en los estrados del Palacio de Gobierno y en las Delegaciones de Finanzas Estatales de los Municipios respectivos.
+Las bases generales de valores por unidades tipo, deberán ser del dominio público y estarán a disposición de los interesados en las oficinas de la Dirección de Catastro.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -193,15 +193,15 @@ Las Bases Generales de Valores por Unidades Tipo deberán ser del dominio públi
 
 Las Bases Generales de Valores por Unidades Tipo podrán ser objeto de revisión total o parcial, cuando las circunstancia económicas lo justifiquen; en la inteligencia de que si ésta no se practica, subsistirán las Bases Generales de Valores existentes.
 
-Una vez aprobadas las nuevas Bases Generales de Valores por Unidades Tipo, para que se consideren notificadas a los contribuyentes, bastará con que, previamente a su entrada en vigor, se publiquen por tres veces en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+Una vez aprobadas las nuevas bases generales de valores por unidades tipo, previamente a su entrada en vigor, se publiquen por tres veces en el Periódico Oficial del Estado.
 
-###### ARTICULO 20o
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-Las Bases Generales de Valores por Unidades Tipo y los Valores catastrales de los inmuebles, podrán ajustarse conforme al porcentaje que establezca el Congreso del Estado mediante disposición de vigencia anual, que entrará en vigor el 1º de Enero de cada año, sin necesidad de que los mismos sean notificados a los interesados para tener plena validez. Fuera de este supuesto, las Bases Generales de Valores por Unidades Tipo y los valores catastrales no podrán ser modificados mientras no sean objeto de revisión, a menos que deba introducirse nuevos valores unitarios o cuando sea indispensable crear una nueva categoría no prevista en la tabla original, ya sea por motivo de ampliación de zonas urbanas o sub-urbanas, o por cualquier otra causa.
+###### ARTICULO 20o.
 
-El ajuste anual no será aplicable a los Valores por Unidades Tipo que hayan sido objeto de revisión conforme al artículo anterior, en el año en que entre en vigor la modificación que se les efectúe con motivo de esa revisión.
+Las bases generales por valores de unidades tipo y los valores catastrales de los inmuebles, podrán ajustarse conforme a los porcentajes que establezca el Congreso del Estado mediante disposición de vigencia anual, que entrará en vigor el 1º de Enero de cada año, sin necesidad de que los mismos sean notificados a los interesados para tener plena validez. Fuera de este supuesto, las bases generales de valores por unidades tipo y los valores catastrales no podrán ser modificados, mientras no sean objeto de revisión, a menos que deban introducirse nuevos valores unitarios o cuando sea indispensable crear una nueva categoría no prevista en la tabla original, ya sea por motivo de ampliación de zonas urbanas o sub-urbanas por cualquier causa.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
@@ -243,11 +243,11 @@ Se faculta a la Dirección de Catastro para, con el auxilio de la Junta Central 
 
 Disposiciones Generales.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 26o.
 
-Los avalúos practicados con sujeción a la presente Ley y su Reglamento, servirán de base para todos los fines fiscales en relación con la propiedad raíz en el Estado y no podrán ser alterados para los mismos fines, a menos que se pruebe que su determinación se hizo con violación a la presente Ley y su Reglamento. A falta de manifestación oportuna, los avalúos se harán de oficio por la Dirección de Catastro, sin perjuicio de la sanción que procediere.
+Los avalúos practicados con sujeción a la presente Ley y su Reglamento, servirán de base para la determinación del impuesto predial en el Estado y no podrán ser modificados para los mismos fines, a menos que se pruebe que su determinación no se hizo conforme a la presente Ley y su Reglamento. A falta de manifestación oportuna de los contribuyentes, la Dirección de Catastro procederá a formular los avalúos, sin perjuicio de la sanción que procediere.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -255,9 +255,15 @@ Los avalúos practicados con sujeción a la presente Ley y su Reglamento, servir
 
 Los bienes del dominio público pertenecientes a la Federación, al Estado o a los Municipios, aun y cuando disfruten de exención total del Impuesto Predial, serán valorizados de acuerdo con la presente Ley y su Reglamento.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 28o.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 1974)
+Las autoridades, dependencias e instituciones que emitan resoluciones por las cuales otorguen autorizaciones relativas a la apertura de vías publicas, al cambio de la denominación de las vías publicas o de la asignación de número oficial de edificaciones, o la realización de cualquier obra pública o privada que implique la modificación de las características del inmueble, deberán informar de tales situaciones a la Dirección de Catastro.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+ARTICULO 28o BIS.- Los organismos y entidades públicos y privados, que realicen actividades relativas a la construcción de obras para el desarrollo urbano y de vivienda, así como los que tengan como finalidades la regularización de la tenencia legal de la tierra, deberán informar a la Dirección de Catastro respecto de las actividades realizadas que impliquen un cambio en las características físicas del inmueble, así como en los datos del propietario o poseedor, que obren en el padrón catastral.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -269,31 +275,35 @@ Las autoridades judiciales que, en el ejercicio de sus funciones, dicten resoluc
 
 Los avisos a que se refiere este artículo deberán presentarse utilizando las formas oficiales aprobadas por la Secretaría de Finanzas y Tesorería General del Estado.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 30o.
 
-Las notificaciones a que se refiere la presente Ley, se practicarán en la forma que determine el Reglamento.
+Las notificaciones a que se refiere la presente Ley, se practicarán en la forma que determine el Código Fiscal del Estado y el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+ARTICULO 30o BIS.- Los avalúos expedidos por la Dirección de Catastro no constituyen resolución administrativa. Para solicitar su modificación, los particulares interesados podrán solicitar la reconsideración de los avalúos, cuando consideren que el valor consignado en ellos no corresponda a la realidad. En el reglamento de esta Ley se establecerá el procedimiento a seguir para el trámite de la reconsideración.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+ARTICULO 30o BIS 1.- Los propietarios de predios tienen la obligación de presentar a la Dirección de Catastro, las declaraciones, avisos, solicitudes, planos, manifestaciones y datos conforme a lo dispuesto en el Reglamento de esta Ley.
 
 ### CAPITULO CUARTO
 
 De las Infracciones y de las Sanciones.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
-
-###### ARTICULO 31.
-
-Son infractores de la presente Ley: I.- Los propietarios o poseedores de predios que consignen datos falsos en sus declaraciones o manifestaciones, con excepción del relativo al valor del predio. II.- Los propietarios o poseedores de los predios que no presenten oportunamente los planos, datos, informes, declaraciones, manifestaciones y cualquier otro documento que señalen las leyes o las convocatorias respectivas, o no sean requeridos por las autoridades catastrales. III.- Los propietarios o poseedores de predios que se nieguen aclarar las dudas que surjan con motivo de sus declaraciones o manifestaciones. IV.- Los funcionarios y empleados públicos o privados a quienes esta Ley impone la obligación de auxiliar a los organismos catastrales para el mejor desempeño de sus funciones, y que no le presten oportuna y eficaz cooperación cuando les sea solicitada. V.- Los funcionarios y empleados de los organismos catastrales que por negligencia o dolo, posibiliten la infracción de esta Ley por los sujetos obligados a cumplirla.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 31o.
 
-Son infractores de la presente Ley: I.- Los propietarios o poseedores de predios que consignen datos falsos en sus declaraciones o manifestaciones, con excepción del relativo al valor del predio. II.- Los propietarios o poseedores de predios que no presenten las declaraciones o manifestaciones dentro de los plazos que fijen las convocatorias respectivas. III.- Los propietarios o poseedores de predios que se nieguen a aclarar las dudas que surjan con motivo de sus declaraciones o manifestaciones. IV.- Los funcionarios y empleados públicos o privados a quienes esta Ley impone la obligación de auxiliar a los organismos catastrales para el mejor desempeño de sus funciones, y que no le presten oportuna y eficaz cooperación cuando les sea solicitada. V.- Los funcionarios y empleados de los organismos catastrales que por negligencia o dolo, posibiliten la infracción de esta Ley por los sujetos obligados a cumplirla.
+Son infractores de la presente Ley: I.- Los propietarios o poseedores de predios que consignen datos falsos en sus declaraciones, avisos, solicitudes, planos, o manifestaciones, con excepción del relativo al valor del predio. II.- Los propietarios o poseedores de los predios que no presenten oportunamente los planos, datos, informes, declaraciones, solicitudes, manifestaciones y cualquier otro documento que señalen las leyes o las convocatorias respectivas, o sean requeridos por las autoridades catastrales. III.- Los propietarios o poseedores de predios que se nieguen a aclarar las dudas que surjan con motivo de sus declaraciones o manifestaciones. IV.- Los funcionarios y empleados públicos o privados a quienes esta Ley impone la obligación de auxiliar a los organismos catastrales para el mejor desempeño de sus funciones, y que no le presten oportuna y eficaz cooperación cuando le sea solicitada. V.- Los funcionarios y empleados de los organismos catastrales que por negligencia o dolo, posibiliten la infracción de esta Ley por los sujetos obligados a cumplirla.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 32o.
 
-Los infractores a que se refiere el artículo anterior serán sancionados como sigue: I.- Si están comprendidos en las fracciones I, III, IV y V se les aplicará una multa de $50,000.00 a $100,000.00 por cada infracción. II.- Si están comprendidos en los casos de la fracción II, la que resulte mayor entre $10,000.00 o hasta el 100% de las contribuciones omitidas. III.- En los casos de la fracción V, si a juicio del Secretario de Finanzas y Tesorero General del Estado la infracción es grave, además serán destituidos, sin perjuicio de la instancia de responsabilidad, si procediera.
+Los infractores a que se refiere el artículo anterior serán sancionados como sigue: I.- Si están comprendidos en las fracciones I, III, IV y V se les aplicará una multa de $50,000.00 a $100,000.00 por cada infracción. II.- Si están comprendidos en los casos de la fracción II, la que resulte mayor entre N$30.00 o hasta el 100% de las contribuciones omitidas. III.- En los casos de la fracción V, si a juicio del Secretario de Finanzas y Tesorero General del Estado la infracción es grave, además serán destituidos, sin perjuicio de la instancia de responsabilidad, si procediera.
 
 T R A N S I T O R I O S :
 
@@ -374,6 +384,12 @@ Conforme a lo dispuesto por el Artículo 20 de la Ley del Catastro, durante el a
 ###### ARTICULO 14o.
 
 En los términos previstos por los artículos 20 y 21 de la Ley de Catastro, durante el año de 1993 se aplicará un incremento del 100% en las Bases Generales de Valores por Unidad Tipo y en los valores catastrales.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 15o.
+
+En los Términos previstos por los Artículos 20 y 21 de la Ley del Catastro durante el año de 1994 se aplicará un incremento hasta del 20% en las bases generales de valores por unidades tipo y en los valores catastrales, sin que con ello se rebasen los valores actuales reales.
 
 Lo tendrá entendido el C. Gobernador Constitucional del Estado, mandándolo imprimir, publicar y circular a quienes corresponda.
 
@@ -522,3 +538,7 @@ UNICO:- EL presente Decreto entrará en vigor el día 1º. de Enero de 1992.
 P.O. 30 DE DICIEMBRE DE 1992.
 
 UNICO.- El presente Decreto entrará en vigor el día 1º de Enero de 1993.
+
+P.O. 31 DE DICIEMBRE DE 1993.
+
+UNICO.- El presente Decreto entrará en vigor el día 1º. de Enero de 1994.
