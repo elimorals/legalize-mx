@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-civiles-3371"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-12-24"
-last_updated: "1996-12-28"
+last_updated: "1998-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 1998.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 24 de diciembre de 1942.
 
@@ -291,6 +291,10 @@ En caso de impedimento legal o físico del procurador, o si éste abandona el ju
 
 La asistencia técnica a quienes comparezcan ante los tribunales del Estado sólo podrán prestarse por licenciados en derecho o abogados con título profesional registrado.
 
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 1998)</small>
+
+El asesor técnico se encuentra facultado para oír y recibir notificaciones en nombre de su asistido; formular peticiones de mero trámite; ofrecer pruebas e intervenir en el desahogo de ellas con las mismas facultades que la ley confiere a su asistido; formular alegatos; interponer recursos; y formular promociones para evitar la consumación de la caducidad de la instancia. El asesor técnico no podrá delegar en un tercero las anteriores facultades, ni podrá absolver posiciones en nombre de su asistido.
+
 > <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 49-B.
@@ -343,7 +347,9 @@ Las actuaciones judiciales y los ocursos deberán escribirse en castellano. Los 
 
 Ningún escrito se admitirá sin estar firmado por la parte que promueve. No sabiendo firmar, o estando impedido provisional o permanentemente para ello, el promovente deberá imprimir al calce del escrito las huellas digitales de sus pulgares, en su caso, y presentarlo personalmente. Si el promovente carece de ambas manos el escrito deberá suscribirlo a su ruego, persona de su confianza y presentarlo ambos personalmente. Lo mismo se observará en el caso de que el promovente no sepa ni leer ni escribir, con la obligación adicional de que quien firme a su ruego protestará haberle leído a aquél, en forma íntegra, el texto del escrito.
 
-Cuando el promovente se encuentre impedido para presentar personalmente el escrito, podrá presentarlo otra persona en su nombre. En todos estos casos, excepto, cuando el escrito lo haya presentado personalmente el promovente, tanto el contenido del ocurso como las huellas digitales y firmas que ostente se mandarán ratificar ante la Secretaría o la Actuaría, a criterio del Tribunal. El promovente y, en su caso, quien firme a su ruego, deberán identificarse a satisfacción de la autoridad judicial, en el momento de la presentación o de la ratificación del escrito.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 1998)</small>
+
+Cuando el promovente se encuentre impedido para presentar personalmente el escrito, otra persona podrá presentarlo en su nombre. En este caso, si el escrito se contrae a una demanda o promoción inicial, contestación de demanda o desistimiento de la misma o de la acción intentada, el promovente deberá ratificar el contenido del ocurso así como la firma o huellas que lo calcen ante la Secretaría o Actuaría, a criterio del tribunal. El promovente y, en su caso, quien firme a su ruego deberán identificarse, a satisfacción de la autoridad judicial, en el momento de la presentación o de la ratificación del escrito.
 
 ###### Art. 57.
 
@@ -787,9 +793,13 @@ Cuando un litigante proceda con temeridad o mala fe, será condenado al pago de 
 
 La calificación de la temeridad o mala fe queda al juicio del juez, quien siempre declarará temerario:
 
-I.- Al que presentare instrumentos falsos;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 1998)</small>
 
-II.- Al que presentare testigos falsos o sobornados; sin perjuicio de la responsabilidad criminal en este caso y en el anterior;
+I.- Al que intente acciones u oponga excepciones o defensas improcedentes, promueva incidentes o interponga recursos con notorio afán de demorar el trámite y resolución de un proceso.
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 1998)</small>
+
+II.- Al que presentare instrumentos o documentos falsos; o testigos falsos o sobornados; sin perjuicio de la responsabilidad penal en que por esos hechos incurra;
 
 III.- Al que fuere condenado, en primera y segunda instancias, por dos sentencias conformes de toda conformidad;
 
@@ -6995,7 +7005,7 @@ Los tribunales superiores se abstendrán de calificar si deben o no cumplimentar
 
 ###### Art. 1370.
 
-Cuando por medio de exhorto o a solicitud inmediata del interesado, se pida la inscripción en el Registro Público de una providencia o sentencia dictada en cualquier Estado de la República, la resolución del juez de primera instancia, haya o no apelación, será revisada por el tribunal superior.
+(DEROGADO, P.O. 24 DE JULIO DE 1998)
 
 ###### Art. 1371.
 
@@ -7124,3 +7134,9 @@ P.O. 28 DE DICIEMBRE DE 1996.
 Primero.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales en lo que se opongan al contenido del presente Decreto.
+
+P.O. 24 DE JULIO DE 1998.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se derogan todas aquellas disposiciones legales en lo que se opongan al contenido del presente decreto.
