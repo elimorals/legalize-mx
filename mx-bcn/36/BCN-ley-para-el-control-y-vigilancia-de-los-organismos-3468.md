@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-el-control-y-vigilancia-de-los-organismos-3468"
 country: "mx"
 rank: "ley"
 publication_date: "1978-07-31"
-last_updated: "1978-07-31"
+last_updated: "2003-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY PARA EL CONTROL Y VIGILANCIA DE LOS ORGANISMOS DESCENTRALIZADOS, EMPRESAS DE PARTICIPACION ESTATAL Y FIDEICOMISOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL PERIODICO OFICIAL EL 26 DE SEPTIEMBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 31 de julio de 1978.
 
@@ -158,3 +160,13 @@ EL OFICIAL MAYOR DE GOBIERNO ENCARGADO DE LA SECRETARIA GENERAL POR MINISTERIO D
 DR. MIGUEL ANGEL CARDENAS GONZALEZ.
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE SEPTIEMBRE DE 2003.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley para el Control y Vigilancia de los Organismos Descentralizados, Empresas de Participación Estatal y Fideicomisos, publicada en el Periódico Oficial del Estado, el 31 de julio de 1978.
+
+TERCERO.- El Ejecutivo del Estado, a partir de la entrada en vigor de esta Ley, promoverá por conducto de la Coordinadora de Sector que corresponda, la modificación o reforma a los instrumentos de creación de las entidades paraestatales para ajustarlos a los términos de esta Ley.
