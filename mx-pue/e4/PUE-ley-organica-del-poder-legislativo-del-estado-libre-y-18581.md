@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-18581"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-11-26"
-last_updated: "2002-02-08"
+last_updated: "2003-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18581&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2003.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Gobierno Constitucional del Estado de Puebla el viernes 26 de noviembre de 1999.
 
@@ -805,13 +805,17 @@ XIII.- Seguridad Pública y Protección Civil;
 
 XIV.- Desarrollo Económico y Turismo;
 
-> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2003)</small>
 
-XV.- Desarrollo Urbano y Medio Ambiente; y
+XV.- Desarrollo Urbano y Medio Ambiente;
 
-> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2003)</small>
 
-XVI.- Instructora.
+XVI.- Migración y Asuntos Internacionales; y
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2003)</small>
+
+XVII.- Instructora.
 
 ###### ARTÍCULO 44.
 
@@ -1214,3 +1218,17 @@ En todas las disposiciones legales o administrativas, resoluciones, contratos, c
 ###### ARTÍCULO SÉPTIMO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE JULIO DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La integración de la Comisión General de Migración y Asuntos Internacionales se hará en el Segundo Periodo Ordinario de Sesiones del segundo año de ejercicio legal de la Quincuagésima Quinta Legislatura.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
