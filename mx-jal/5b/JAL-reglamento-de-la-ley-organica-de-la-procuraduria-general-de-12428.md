@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-124
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-08-13"
-last_updated: "1998-08-13"
+last_updated: "2003-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2003.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 13 de agosto de 1998.
 
@@ -73,51 +73,101 @@ IX. Coordinación General de Atención a Víctimas del Delito y Servicios a la C
 
 X. Coordinación General Jurídica;
 
-XI. Visitaduría;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
 
-XII. División para la Atención de Delitos contra la Libertad y Seguridad de las Personas;
+XI. Coordinación General de la Policía Investigadora;
 
-XIII. División para la Atención a Delitos Organizados;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
 
-XIV. División para la Atención a Delitos Violentos;
+XII. Visitaduría;
 
-XV. División para Asuntos Especiales;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
 
-XVI. División de Averiguaciones Previas y Coordinación Metropolitana;
+XIII. División para la Atención de Delitos contra la Libertad y Seguridad de las Personas;
 
-XVII. División para Delitos Patrimoniales Contra Instituciones Financieras;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
 
-XVIII. División de Control de Procesos para Delitos Patrimoniales no Violentos;
+XIV. División para la Atención a Delitos Organizados;
 
-XIX. División para Delitos Patrimoniales Contra Personas;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
 
-XX. División de Control de Procesos Especializados;
+XV. División para la Atención a Delitos Violentos;
 
-XXI. División de Control de Procesos No Especializados y Justicia de Paz;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
 
-XXII. División de Cumplimiento de Mandamientos Judiciales;
+XVI. División para Asuntos Especiales;
 
-XXIII. Dirección Consultiva y Legislativa;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
 
-XXIV. Dirección de Estadística sobre Actuación del Ministerio Público y Procedimiento Penal;
+XVII. División de Averiguaciones Previas y Coordinación Metropolitana;
 
-XXV. Dirección de Supervisión de Derechos Humanos;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
 
-XXVI. Dirección de Recursos Financieros;
+XVIII. División para Delitos Patrimoniales Contra Instituciones Financieras;
 
-XVII (SIC). Dirección de Recursos Humanos;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
 
-XVIII. Dirección de Recursos Materiales y Servicios Generales;
+XIX. División de Control de Procesos para Delitos Patrimoniales no Violentos;
 
-XIX. Dirección de Informática;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
 
-XX. Dirección de Atención a Víctimas del Delito;
+XX. División para Delitos Patrimoniales Contra Personas;
 
-XXI. Dirección de Servicios a la Comunidad;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
 
-XXII. Dirección de Comunicación Social;
+XXI. División de Control de Procesos Especializados;
 
-XXIII. Organos Desconcentrados:
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+
+XXII. División de Control de Procesos no Especializados y Justicia de Paz;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+
+XXIII. División de Cumplimiento de Mandamientos Judiciales;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+
+XXIV. Dirección Consultiva y Legislativa;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+
+XXV. Dirección de Estadística sobre Actuación del Ministerio Público y Procedimiento Penal;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+
+XXVI. Dirección de Supervisión de Derechos Humanos;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+
+XXVII. Dirección de Recursos Financieros;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+
+XXVIII. Dirección de Recursos Humanos;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+
+XXIX. Dirección de Recursos Materiales y Servicios Generales;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+
+XXX. Dirección de Informática;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+
+XXXI. Dirección de Atención a Víctimas del Delito;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+
+XXXII. Dirección de Servicios a la Comunidad;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+
+XXXIII. Dirección de Comunicación Social;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2003)</small>
+
+XXIV. Organos Desconcentrados:
 
 a) Delegaciones Regionales;
 
@@ -127,9 +177,11 @@ b) Instituto de Formación Profesional.
 
 La Procuraduría de conformidad con el presupuesto que se le asigne contará asimismo con la Policía Investigadora y las unidades subalternas que se señalen en el Manual General de Organización de la dependencia.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2003)</small>
+
 ###### Artículo 4.
 
-Serán Agentes del Ministerio Público para todos los efectos legales, el Procurador, los Subprocuradores, el Contralor Interno, el Visitador, los Coordinadores Generales a excepción del administrativo, el Supervisor de Derechos Humanos, los Delegados Regionales, los Jefes de División y los Directores cuyas unidades a su cargo realicen funciones en materia de averiguaciones previas, consignaciones, control de procesos y mandamientos judiciales, así como los Directores Consultivo y Legislativo y de Atención a Víctimas de Delito; igualmente los Delegados y Subdelegados, Directores y Subdirectores de Área, jefes de Unidad Departamental y demás servidores públicos que estén adscritos a los señalados anteriormente y cuyas funciones así lo requieran.
+Serán Agentes del Ministerio Público para todos los efectos legales; el Procurador; los Subprocuradores, el Visitador; los Coordinadores Generales, a excepción del Administrativo, de Asesores del Procurador y de la Policía Investigadora; el Supervisor de Derechos Humanos, los Delegados Regionales, los Jefes de División y los Directores cuyas unidades a su cargo realicen funciones en materia de averiguaciones previas, consignaciones, Control de Procesos y Mandamientos Judiciales, así como los Directores Consultivo y Legislativo y de Atención a Víctimas de Delito; igualmente los Delegados y Subdelegados, Directores y Subdirectores de Área, Jefes de Unidad Departamental y demás servidores públicos que estén adscritos a los señalados anteriormente y cuyas funciones así lo requieran.
 
 ###### Artículo 5.
 
@@ -1105,9 +1157,15 @@ VI. Las demás que le confieran las disposiciones aplicables y el Procurador.. (
 
 ### CAPITULO XXIX. De la Policía Investigadora
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ABRIL DE 2003)</small>
+
 ###### Artículo 38.
 
-La Policía Investigadora, que se encuentra bajo el mando directo e inmediato del Ministerio Público se encontrará adscrita a las unidades administrativas que correspondan conforme a los acuerdos del Procurador y sus agentes tendrán las siguientes atribuciones:
+La Policía Investigadora, que se encuentra bajo el mando directo e inmediato del Ministerio Público se encontrará adscrita a las unidades administrativas que correspondan, conforme a los acuerdos del Procurador, y serán organizados por un Coordinador General.
+
+> <small>(ADICIONADO PRIMER PARRAFO, P.O. 5 DE ABRIL DE 2003)</small>
+
+Los agentes de la Policía Investigadora, tendrán las siguientes atribuciones:
 
 I. Realizar conforme a los lineamientos establecidos mediante la Ley Orgánica de la Procuraduría General de Justicia del Estado, el presente Reglamento, los acuerdos del Procurador y demás disposiciones aplicables, las investigaciones pertinentes bajo los principios de legalidad, eficiencia, profesionalismo y honradez, así como seguir los métodos científicos adecuados que garanticen el aprovechamiento óptimo de los recursos humanos, materiales y tecnológicos.
 
@@ -1126,6 +1184,24 @@ VII. Coordinar y desarrollar el servicio de seguridad a las personas en término
 VIII. Atender de inmediato las llamadas de auxilio de la comunidad; y
 
 IX. Las demás que le confieran las disposiciones aplicables y las que determine el Procurador o el Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2003)</small>
+
+###### Artículo 38 Bis.
+
+Frente de la Coordinación General de la Policía Investigadora habrá un Titular, quien será designado en los términos que las leyes establezcan y tendrá las siguientes atribuciones:
+
+I. Acordar con el Procurador el despacho de los asuntos de su competencia y de las unidades administrativas a su cargo.
+
+II. Proporcionar toda la información, los datos y la cooperación técnica que le sea requerida por otras dependencias o entidades, de acuerdo con las disposiciones legales y las políticas establecidas.
+
+III. Dirimir los conflictos de competencia que se presenten entre las unidades administrativas que les estén adscritas.
+
+IV. Suscribir los documentos relativos al ejercicio de sus atribuciones, así como aquellos que les sean señalados por delegación o les correspondan por suplencia.
+
+V. Ejecutar en la esfera de sus atribuciones, los convenios, bases y otros instrumentos de coordinación celebrados por la Institución, en las materias que en cada caso corresponden; y
+
+VI. Las demás que les señalen las disposiciones aplicables, las que les confiera el Procurador y las que correspondan a las unidades administrativas que se les adscriban.
 
 ### CAPITULO XXX. De la Unidad de Supervisión Interna de Seguridad Pública
 
@@ -1188,3 +1264,13 @@ LIC. FERNANDO A. GUZMÁN PÉREZ PELÁEZ.
 EL C. PROCURADOR GENERAL DE JUSTICIA
 
 LIC. FÉLIX JAVIER LEDESMA MARTÍNEZ NEGRETE
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 5 DE ABRIL DE 2003.
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo. Se faculta al Director General de la Policía Investigadora para que, durante el presente ejercicio fiscal, desempeñe el cargo de Coordinador General de la Policía Investigadora con el sueldo que actualmente le corresponde en el nivel 26, asignado en el Presupuesto de Egresos 2003, hasta en tanto se determine el que deba percibir durante el ejercicio fiscal 2004, conforme a lo que se apruebe por el Poder Legislativo en el Presupuesto de Egresos del Gobierno del Estado para dicho ejercicio.
+
+Tercero. Se derogan todas las disposiciones legales que se opongan o contravengan al presente Reglamento.
