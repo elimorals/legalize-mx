@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-ejecucion-de-penas-privativas-y-restrictivas-de-10373"
 country: "mx"
 rank: "ley"
 publication_date: "1971-06-10"
-last_updated: "1971-06-10"
+last_updated: "1980-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "DUR"
 
 LEY DE EJECUCION DE PENAS PRIVATIVAS Y RESTRICTIVAS DE LIBERTAD DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 01 DE JUNIO DE 1980.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 10 de junio de 1971.
 
 EL CIUDADANO INGENIERO ALEJANDRO PAEZ URQUIDI, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, a sus habitantes, sabed:
 
-Que la H. Legislatura del mismo se ha servido dirigirme para los efectos del Artículo 81 Fracciones I y II de la Constitución Política de la Entidad, el Decreto No. 465 que en sus partes considerativa y sustentativa es como sigue:
+Que la H. Legislatura del mismo se ha servido dirigirme para los efectos del Artículo 81 Fracción I y II de la Constitución Política de la Entidad, el Decreto No. 465 que en sus partes considerativa y sustentativa es como sigue:
 
 Con fecha 1o. de Junio del presente año, el Ejecutivo del Estado envió iniciativa de Decreto la cual fue turnada a la Comisión correspondiente emitiendo ésta su dictamen favorable con base en los considerandos en que se apoya y que son como sigue:
 
@@ -71,13 +71,13 @@ El sitio destinado a prisión preventiva deberá ser distinto del destinado para
 
 El Ejecutivo del Estado podrá celebrar con la Federación convenios de carácter general, a fin de que los reos sentenciados por delitos del orden común, extingan su condena en establecimientos dependientes del Ejecutivo Federal.
 
-## TITULO PRIMERO.
+## TITULO PRIMERO .
 
 DEL DEPARTAMENTO DE PREVENCION SOCIAL.
 
 ###### Artículo 6o.
 
-Se crea el Departamento de Prevención Social (sic) dependerá del Ejecutivo del Estado que tendrá a su cargo las siguientes funciones:
+Se crea el Departamento de Prevención Social dependerá del Ejecutivo del Estado que tendrá a su cargo las siguientes funciones:
 
 I.- Organizar, dirigir y administrar las prisiones y establecimientos de reclusión del Estado.
 
@@ -163,7 +163,7 @@ DEL INGRESO, CLASIFICACION Y TRATAMIENTO.
 
 ###### Artículo 17o.
 
-Toda persona que ingrese a un Centro Penitenciario será examinado inmediatamente por el médico, y por el psiquiatra, a fin de conocer su estado físico y mental; por el profesor de instrucción, con el objeto de calificar su nivel cultural y por el supervisor de trabajo para comprobar su habilidad y capacidad para el mismo.
+Toda persona que ingrese a un Centro Penitenciario, será examinado inmediatamente por el médico, y por el psiquiatra, a fin de conocer su estado físico y mental; por el profesor de instrucción, con el objeto de calificar su nivel cultural y por el supervisor de trabajo para comprobar su habilidad y capacidad para el mismo.
 
 ###### Artículo 18o.
 
@@ -183,7 +183,7 @@ d).- Sección Ocupacional, que comprenderá el grado inicial de aptitud para el 
 
 En todo Establecimiento Penitenciario se llevará al día un libro de registro que contenga, en relación con cada detenido:
 
-a).- Su identificación mediante la signación antropométrica y ficha dactiloscópica.
+a).- Su identificación mediante la asignación antropométrica y ficha dactiloscópica.
 
 b).- Los motivos de su detención y la autoridad competente que la dispuso.
 
@@ -205,7 +205,7 @@ Los menores de 21 años y mayores de 16, deberán estar separados, en lo posible
 
 ###### Artículo 23.
 
-Los enfermos mentales a que se refiere el Artículo 58 del Código Penal, serán enviados a manicomios penitenciarios y en tanto no existan éstos, se organizará dentro de los establecimientos, anexos psiquiátricos en los que se les aplicará el tratamiento adecuado y se recluirán en sección especial.
+Los enfermos mentales a que se refiere el artículo 58 del Código Penal, serán enviados a manicomios penitenciarios y en tanto no existan éstos, se organizará dentro de los establecimientos, anexos psiquiátricos en los que se les aplicará el tratamiento adecuado y se recluirán en sección especial.
 
 Los internos sordomudos serán recluídos en una escuela o establecimiento especial para su educación y mientras no existan éstos, estarán separados en una sección especial.
 
@@ -229,7 +229,7 @@ El dinero, los objetos de valor y demás bienes propios que el interno posea a s
 
 ###### Artículo 28.
 
-Todos los internos deberán ser provistos de ropa adecuada para su uso en el interior del establecimiento, la que de ninguna manera podrá ser denigrante, ni poseer características que señalen en forma humillante la condición del interno.
+Todos los internos deberán ser provistos de ropa adecuada para su uso en el interior del Establecimiento, la que de ninguna manera podrá ser denigrante, ni poseer características que señalen en forma humillante la condición del interno.
 
 ### CAPITULO TERCERO.
 
@@ -385,6 +385,10 @@ IV.- Que alguna persona solvente, honrada y de arraigo se obligue a presentarla 
 
 V.- Haber reparado el daño u otorgado garantía para cubrir su monto.
 
+> <small>(ADICIONADO, P.O. 01 DE JUNIO DE 1980)</small>
+
+Cuando a juicio del Ejecutivo se demuestre la insolvencia económica del solicitante, este requisito no será indispensable para conceder la Libertad Preparatoria.
+
 VI.- Que el agraciado con la libertad preparatoria resida en el lugar que se determine y del cual no podrá ausentarse sin el permiso del Departamento de Prevención Social. La designación se hará conciliando la circunstancia de que el reo pueda proporcionarse trabajo en el lugar que se le fije, como el hecho de que su permanencia en él no sea un obstáculo para su enmienda.
 
 ###### Artículo 55.
@@ -445,7 +449,7 @@ En concordancia con el Artículo 36 de esta Ley, por cada dos días de trabajo s
 
 La remisión de la pena, así como los días que se deban tomar en cuenta para este efecto, serán propuestos por el Consejo Técnico del Reclusorio al Departamento de Prevención Social. Los informes anuales de remisión de pena se harán durante el mes de enero de cada año, por lo que respecta al tiempo redimido durante el año anterior. La resolución del caso se dictará por el Departamento dentro de los 30 días siguientes a la fecha de la propuesta, y se hará del conocimiento del interesado.
 
-La remisión de penas a que se refiere este Artículo se entenderá sin perjuicio de la libertad preparatoria regulada por la presente Ley.
+La remisión de penas a que se refiere este artículo se entenderá sin perjuicio de la libertad preparatoria regulada por la presente Ley.
 
 Este beneficio se hará saber al recluso en el momento de su ingreso a la prisión.
 
@@ -501,7 +505,7 @@ c).- Las condiciones sanitarias, alumbrado y ventilación del establecimiento.
 
 ###### Artículo 76.
 
-El médico del establecimiento deberá poner en conocimiento del Director, los casos de enfermedades trasmisibles a que se refieren los Artículos relativos del Código Sanitario, a fin de que éste cumpla con su obligación de dar aviso a los órganos competentes.
+El médico del establecimiento deberá poner en conocimiento del Director, los casos de enfermedades trasmisibles a que se refieren los artículos relativos del Código Sanitario, a fin de que éste cumpla con su obligación de dar aviso a los órganos competentes.
 
 ### CAPITULO SEXTO.
 
@@ -543,7 +547,7 @@ VI.- En el caso del Artículo 69 del Código Penal.
 
 ###### Artículo 79.
 
-En los casos de las Fracciones I y II del Artículo anterior, la extinción de la pena será decretada de oficio por el Jefe de Prevención Social previo acuerdo con el Ejecutivo quien ordenará la libertad inmediata del condenado, incurrirá en responsabilidad oficial si no lo hiciere.
+En los casos de las Fracciones I y II del Artículo anterior, la extinción de la pena será decretada de oficio por el Jefe de Prevención Social previo acuerdo con el Ejecutivo, quien ordenará la libertad inmediata del condenado, incurrirá en responsabilidad oficial si no lo hiciere.
 
 ###### Artículo 80.
 
@@ -561,7 +565,7 @@ Esta ley entrará en vigor 3 días después de su publicación en el Periódico 
 
 ###### Artículo 2o.
 
-Se derogan la Ley de Estímulos, Recompensas y Sanciones contenida en Decreto No. 42 del 6 de Diciembre de 1945; la Ley de Compensaciones por Trabajos y Servicios prestados por los reos y procesados en beneficio del Estado o Municipio contenida en Decreto No. 199 del 13 de Noviembre de 1947; el Reglamento del Artículo 75 del Código Penal del Estado de fecha 31 de Mayo de 1942 y todas las disposiciones que se opongan a lo preceptuado en este ordenamiento.
+Se derogan la Ley de Estímulos, Recompensas y Sanciones contenidas en Decreto No. 42 del 6 de Diciembre de 1945; la Ley de Compensaciones por Trabajos y Servicios prestados por los reos y procesados en beneficio del Estado o Municipio contenida en Decreto No. 199 del 13 de Noviembre de 1947; el Reglamento del Artículo 75 del Código Penal del Estado de fecha 31 de Mayo de 1942 y todas las disposiciones que se opongan a lo preceptuado en este ordenamiento.
 
 ###### Artículo 3o.
 
@@ -593,4 +597,10 @@ Por tanto mando se imprima, publique, circule y comunique a quienes corresponda 
 
 DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo., a los nueve días del mes de junio del año de mil novecientos setenta y uno.
 
-El Gobernador Constitucional del Estado.- ING. ALEJANDRO PAEZ URQUIDI; El Secretario General de Gobierno.- LIC. A. SERGIO GUERRERO MIER. Rúbricas.
+El Gobernador Constitucional del Estado.- ING. ALEJANDRO PÁEZ URQUIDI; El Secretario General de Gobierno.- LIC. A. SERGIO GUERRERO MIER. Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 01 DE JUNIO DE 1980.
+
+UNICO.- El presente decreto surtirá sus efectos al día siguiente al de su publicación en el Periódico Oficial del Estado.
