@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-87-de-integracion-de-personas-con-discapacidad-12188
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-16"
-last_updated: "2003-03-18"
+last_updated: "2005-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY DE INTEGRACION DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR LA LEY DE INTEGRACION PARA PERSONAS CON CAPACIDADES DIFERENTES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA GACETA OFICIAL EL VIERNES 11 DE FEBRERO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADA.
 
 > <small>N. DE E. EN RELACION A LA DENOMINACION DEL PRESENTE ORDENAMIENTO VEANSE LOS ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO NUMERO 547 DE REFORMA CONSTITUCIONAL PUBLICADO EN LA G.O. DE 18 DE MARZO DE 2003.</small>
 
@@ -516,3 +518,17 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 11 DE FEBRERO DE 2005.
+
+Artículo Primero. La presente ley entrará en vigor, al día siguiente a su publicación, en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo. Se abroga la Ley de Integración de personas con Discapacidad para el Estado de Veracruz de Ignacio de la Llave publicada el 11 de diciembre de 1997.
+
+Artículo Tercero. Las obras que Gobierno del Estado y los Ayuntamientos de los municipios tienen que efectuar para eliminar los obstáculos y adaptar los edificios y vías públicas, se realizarán en un término no mayor a tres años.
+
+Artículo Cuarto. Los propietarios de inmuebles y prestadores de servicio público de transporte colectivo de pasajeros, deberán hacer las adecuaciones necesarias, sin prejuicio de sus intereses, en un plazo que no excederá de tres años. El Ejecutivo del Estado a través de las dependencias competentes evaluará anualmente los avances respectivos.
+
+Artículo Quinto. El Congreso del Estado tendrá un plazo que no excederá de noventa días, contados a partir de la publicación de esta Ley para adecuar las disposiciones del Código Financiero del Estado de conformidad a lo establecido en el Título Noveno, Capítulo Único, De los Estímulos, de la presente Ley.
+
+Artículo Sexto. Se emitirá el reglamento de operación al término de treinta días, a partir de la entrada en vigor de la presente Ley.
