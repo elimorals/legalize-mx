@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-presupuesto-contabilidad-y-gasto-publico-del-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2003-12-30"
+last_updated: "2004-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2004.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -201,9 +201,13 @@ Presupuestación, es la fase de costeo y distribución de los recursos financier
 
 ### Capítulo III. De la Preparación del Presupuesto
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 23.
 
 El gasto público del Estado se basará en el presupuesto que se elaborará para cada año calendario y su preparación comprenderá todas aquellas tareas que se señalan en el presente capítulo.
+
+El Plan Estatal de Desarrollo y los programas que de él se deriven serán base fundamental para la elaboración anual del proyecto de Presupuesto de Egresos del Estado.
 
 ###### Artículo 24.
 
@@ -285,41 +289,39 @@ El proyecto de presupuesto de Egresos, contendrá las previsiones de los egresos
 
 La estructura del proyecto de presupuesto de egresos, tendrá una base programática y se le dará una sustentación lo suficientemente amplia, que abarque todas las responsabilidades del Gobierno del Estado por conducto de todas sus Entidades y Dependencias, incluyendo a las que se refieren las fracciones I y II del artículo 5 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO, P.O.. 10 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 39.
 
-Los proyectos de Presupuesto de Egresos que elaboren los poderes del Estado, así como las diversas dependencias y entidades de la administración pública, deberán contener:
+El proyecto de Presupuesto de Egresos del Estado se integrará con los documentos que se refieren a:
 
 I. Exposición de motivos en la que se señalen los efectos políticos, económicos y sociales que se pretendan lograr;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2000)</small>
+II. Descripción de los programas que integran el proyecto de presupuesto de egresos, señalando objetivos y prioridades globales, así como las Unidades Presupuestales responsables de su ejecución;
 
-II. Descripción de los programas que integran el proyecto de presupuesto de egresos señalando objetivos y prioridades globales, así como las Unidades Presupuestales responsables de su ejecución;
+III. Programas Operativos Anuales de cada una de las Secretarías;
 
-III. Explicación y justificación de los principales programas, en especial de aquellos que abarquen dos o más ejercicios presupuestales;
+IV. Informe de los avances en el cumplimiento de los objetivos y metas de desarrollo establecidas en el Plan Estatal;
 
-IV. Estimación de ingresos y proposición de gastos del ejercicio presupuestal para el que se proponen;
+V. Informe de cada uno de los Programas Operativos Anuales aplicados durante el año en curso de manera parcial a la fecha de entrega de los mismos;
 
-V. Presentación según su clasificación: por unidad presupuestal, por objeto del gasto y programática;
+VI. Explicación y justificación de los principales programas, en especial de aquellos que abarquen dos o más ejercicios presupuestales;
 
-VI. Ingresos y gastos estimados del ejercicio presupuestal en curso;
+VII. Estimación de ingresos y proporción de gastos del ejercicio presupuestal para el que se proponen;
 
-VII. Situación de la Deuda Pública al fin del ejercicio presupuestal en curso y estimación de la que se tendrá al cierre del que se propone; y
+VIII. Presentación según su clasificación: por unidad presupuestal, por objeto del gasto y programática;
 
-> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2000)</small>
+IX. Ingresos y gastos estimados del ejercicio presupuestal en curso;
 
-VIII. El desglose y justificación de las diferentes partidas del presupuesto público;
+X. Situación de la Deuda Pública al fin del ejercicio presupuestal en curso y estimación de la que se tendrá al cierre del que se propone; y
 
-> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2000)</small>
+XI. Desglose y justificación de las diferentes partidas del presupuesto;
 
-IX. Las plantillas de personal por jornada y nivel;
+XII. Plantillas de personal por jornada y por nivel;
 
-> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2000)</small>
+XIII. Sueldo y demás prestaciones económicas asignadas a cada una de las plazas presupuestales, con inclusión de aquellas que ocupen los titulares de las dependencias u entidades de que se trate; y
 
-X. Sueldo y demás prestaciones económicas asignadas a cada una de las plazas presupuestadas, con inclusión de aquellas que ocupen los titulares de las dependencias y entidades de que se trate; y
-
-XI. En general, toda información que se considere útil para mostrar la propuesta en forma clara y completa.
+XIV. En general, toda información que se considere útil para mostrar la propuesta en forma clara y completa.
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
@@ -823,6 +825,12 @@ De igual forma, la Secretaría tendrá la obligación de informar periódicament
 
 Quienes realicen gastos públicos estarán obligados a proporcionar al Congreso del Estado, a la Secretaría y a la Contraloría del Estado, dentro de sus respectivos ámbitos de competencia, la información que se les solicite para los efectos que correspondan de acuerdo con esta Ley y de las demás disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2004)</small>
+
+###### Artículo 104 Bis.
+
+Los Poderes del Estado, Organismos Constitucionales, Autónomos y sus dependencias y entidades deben publicar a través de los medios oficiales de divulgación la información a que se refiere este título.
+
 ###### Artículo 105.
 
 El incumplimiento de las disposiciones de la presente Ley y de las que de ella se deriven, será sancionado en los términos de la Constitución Política y de la Ley de Responsabilidades para los Servidores Públicos del Estado y sus Municipios, ambos ordenamientos del Estado de Jalisco.
@@ -962,3 +970,7 @@ Los servidores públicos de la Contaduría Mayor de Hacienda pasarán a formar p
 SÉPTIMO. Los asuntos que se encuentren en trámite o en proceso en la Contaduría Mayor de Hacienda al entrar en vigor el presente decreto, continuarán tramitándose, por la Auditoría Superior del Estado en los términos de las disposiciones vigentes antes de la entrada en vigor del presente decreto.
 
 OCTAVO. Dentro del término de noventa días naturales, contados a partir de la entrada en vigor del presente decreto, deberá expedirse el Reglamento Interno de la Auditoría Superior del Estado de Jalisco.
+
+P.O. 10 DE FEBRERO DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco.
