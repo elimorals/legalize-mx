@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1994-03-26"
+last_updated: "1996-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1996.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -147,6 +147,10 @@ Por cada Diputado propietario se elegirá un suplente.
 
 Para la elección por representación proporcional y lista regional se deberá observar la ley respectiva. En todo caso el partido político que solicite el registro de su lista regional, deberá acreditar que tiene su registro y que participa con sus candidatos a Diputados por mayoría relativa en por lo menos la mitad de los distritos uninominales.
 
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+
+Todo partido político que alcance por lo menos el 1.5% del total de la votación emitida en la circunscripción electoral plurinominal, tendrá derecho a que le sean atribuidos diputados según el principio de representación proporcional, de conformidad con las reglas de asignación que determine la Ley Electoral.
+
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 1964)</small>
 
 ###### Artículo 23.
@@ -223,13 +227,11 @@ El primer período iniciará precisamente el primero de octubre y concluirá el 
 
 No podrá el Congreso abrir sus sesiones sin la concurrencia de la mayoría simple de sus miembros; sesiones que serán públicas a excepción de aquellas que, por la calidad de los asuntos que deban tratarse, su reglamentación prevenga que sean secretas.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
 
 ###### Artículo 30.
 
-El Congreso, fuera de los periodos que señala el artículo anterior, celebrará sesiones extraordinarias sólo cuando fuere convocado al efecto por la Diputación Permanente o el Ejecutivo del Estado, debiendo ocuparse en ellas sólo de los asuntos para los cuales se haya hecho la convocatoria.
-
-Habrá además, en el año en que se verifiquen las elecciones ordinarias en el Estado, un periodo extraordinario de sesiones, para el sólo efecto de erigirse en colegio electoral y hacer las calificaciones de las elecciones de Gobernador y Ayuntamientos.
+El Congreso, fuera de los períodos que señala el artículo anterior, celebrará sesiones extraordinarias sólo cuando fuere convocado al efecto por la Diputación Permanente o el Ejecutivo del Estado, debiendo ocuparse en ellas sólo de los asuntos para los cuales se haya hecho la convocatoria.
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -269,7 +271,9 @@ VII.- Legislar sobre expropiación por causa de utilidad pública;
 
 VIII.- Legislar en materia educativa en los términos del artículo 3o. de la Constitución Federal y conforme a lo dispuesto por la legislación correspondiente;
 
-IX.- Expedir leyes electorales conforme a la presente Constitución;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+
+IX.- Expedir leyes electorales conforme a la presente Constitución, así como los Estatutos laborales del Instituto y Tribunal Electorales;
 
 X.- Expedir leyes para preservar y restaurar el equilibrio ecológico y proteger el ambiente estableciendo la concurrencia entre el gobierno del estado y los municipios en materias no reservadas exclusivamente a la federación conforme a la Constitución General de la República;
 
@@ -293,13 +297,17 @@ XIX.- Crear y suprimir municipios de acuerdo con el Ejecutivo y conforme a las b
 
 XX.- Dirimir las cuestiones que sobre límites se susciten entre municipios;
 
-XXI.- Participar e intervenir en los términos de la ley de la materia, en los organismos y procesos electorales del Estado;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
 
-XXII.- Erigirse en Colegio Electoral para calificar la elección de Gobernador y declarar electo al ciudadano que hubiere obtenido mayoría de sufragios;
+XXI.- Elegir a los Magistrados del Tribunal Electoral, así como a los Consejeros Electorales del Instituto Electoral, en los términos que determine la ley de la materia;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+
+XXII.- Expedir el Bando Solemne para dar a conocer en todo el Estado la declaración de Gobernador Electo que hubiere hecho el Tribunal Electoral del Estado;
 
 XXIII.- Convocar a elecciones extraordinarias y fijar días extraordinarios para que se verifiquen las elecciones que por cualquier motivo no se hubieren celebrado en los que señala la ley de la materia;
 
-XXIV.- Calificar las elecciones de los Ayuntamientos del Estado y resolver las dudas y las cuestiones suscitadas con motivo de las mismas elecciones, irrevocablemente;
+XXIV.- (DEROGADA, P.O. 14 DE SEPTIEMBRE DE 1996)
 
 XXV.- Nombrar Gobernador interino cuando la falta del propietario sea temporal o designar sustituto si la falta del mismo propietario fuere absoluta, mediante los procedimientos establecidos en esta Constitución;
 
@@ -309,11 +317,15 @@ XXVII.- Conocer de las renuncias y licencias de los Diputados y del Gobernador; 
 
 XXVIII.- Aprobar en los términos de las leyes respectivas, el nombramiento del Magistrado Presidente del Tribunal de Arbitraje y Escalafón; al Presidente y Consejeros de la Comisión Estatal de Derechos Humanos;
 
-XXIX.- Aprobar los nombramientos de los Magistrados del Tribunal Contencioso Administrativo, expedidos por el Ejecutivo en los términos de esta Constitución; así como integrar el Tribunal Electoral, en los términos que determine la ley de la materia;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+
+XXIX.- Aprobar los nombramientos de los Magistrados del Tribunal de lo Contencioso Administrativo, expedidos por el Ejecutivo en los términos de esta Constitución;
 
 XXX.- Nombrar y remover libremente a los empleados de la Oficialía Mayor del Congreso y de la Contaduría Mayor de Hacienda;
 
-XXXI.- Recibir las protestas de los servidores públicos a que se contraen las fracciones XXV, XXVI, XXVIII, XXIX y XXX de este artículo;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+
+XXXI.- Recibir las protestas de los servidores públicos a que se contraen las fracciones XXI, XXV, XXVI, XXVIII, XXIX y XXX de este artículo;
 
 XXXII.- Fijar y notificar la división política, administrativa y judicial del Estado;
 
@@ -361,9 +373,9 @@ Son atribuciones de la Diputación Permanente:
 
 I.- Vigilar la observancia de la Constitución Federal, la particular del Estado y demás Leyes, dando cuenta al Congreso de las infracciones que notare.
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
 
-II.- Recibir los expedientes electorales de la elección para Gobernador, para el solo efecto de que se remitan al Congreso.
+II.- Recibir la documentación que le remita el Tribunal Electoral del Estado, y convocar al Congreso a sesión extraordinaria, para el efecto de expedir el Bando Solemne a que se refiere el artículo 33, fracción XXII, de esta Constitución.
 
 III.- Convocar al Congreso a período extraordinario de sesiones o a sesión extraordinaria cuando lo creyere necesario o lo pidiere el Ejecntivo (sic).
 
@@ -591,9 +603,9 @@ VIII.- Pedir a la Diputación Permanente, convoque al Congreso a sesión o perio
 
 IX.- Convocar al Congreso al desempeño de sus funciones cuando por algún motivo no hubiere Diputación Permanente.
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
 
-X.- Expedir los nombramientos de los Magistrados del Supremo Tribunal de Justicia y someterlos para su aprobación al Congreso del Estado; y proponer al propio Congreso en los términos de la ley de la materia, los nombramientos de Magistrados del Tribunal Electoral.
+X.- Expedir los nombramientos de los Magistrados del Supremo Tribunal de Justicia y someterlos para su aprobación al Congreso del Estado.
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -671,9 +683,9 @@ XXXI.- Proponer al Congreso del Estado, mediante los procedimientos que establec
 
 XXXII.- Presidir todas las reuniones oficiales a que concurra a excepción de las del Congreso y Tribunales.
 
-(REFORMADA, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
 
-XXXIII.- Vigilar que las elecciones se verifiquen en el tiempo y en la forma que prescriben las leyes.
+XXXIII.- Prestar, previa solicitud de las autoridades electorales, el auxilio de la fuerza pública, así como los apoyos que requieran para la preservación del orden público en los procesos electorales.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE MARZO DE 1994)</small>
 
@@ -891,9 +903,17 @@ VII.- Dirimir las competencias de jurisdicción que se susciten entre los Tribun
 
 VIII.- De los negocios civiles y penales del fuero común, como Tribunal de apelación o de última instancia;
 
-IX.- Ejercitar el derecho de iniciar leyes ante el Congreso Local y nombrar, en su caso, el representante a que se refiere el Artículo 45 de la Constitución;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
 
-X.- Nombrar y remover a los ampleados (sic) del Supremo Tribunal de Justicia, Juzgados de Primera Instancia y demás que designe la Ley Orgánica del Poder Judicial, tomarles la protesta respectiva en los términos de ley.
+IX.- Ejercitar el derecho de iniciar leyes ante el Congreso local y nombrar, en su caso, el representante a que se refiere el artículo 45 de esta Constitución;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+
+X.- Nombrar y remover a los empleados del Supremo Tribunal de Justicia, Juzgados de Primera Instancia y demás que designe la Ley Orgánica del Poder Judicial, así como tomarles la protesta respectiva en los términos de ley; y
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+
+XI.- Proponer al Congreso del Estado a los Magistrados del Tribunal Electoral, en los términos que establezca la ley de la materia.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 1988)</small>
 
@@ -1011,29 +1031,71 @@ La ley orgánica determinará la forma de integración, su estructura y funciona
 
 De los Partidos Políticos y Organismos Electorales.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
 
 ###### Artículo 86 Bis.
 
-Los partidos políticos son formas de organización política y constituyen entidades de interés público. Tiene como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación nacional, estatal y municipal, como organización de ciudadanos, hacer posible el acceso de éstos, al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulen mediante el sufragio universal, libre, secreto y directo.
+La renovación de los poderes Legislativo y Ejecutivo del Estado, así como los Ayuntamientos, se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
 
-En el Estado gozarán de las mismas prerrogativas que les confiere la Constitución General de la República. La ley establecerá las disposiciones a que se sujetarán el financiamiento de los partidos y sus campañas políticas.
+I.- Los partidos políticos son formas de organización política y constituyen entidades de interés público; la ley determinará los modos específicos de su intervención en el proceso electoral. Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatal, distritales y municipales, previa inscripción de la constancia de su registro ante el Instituto Electoral del Estado.
 
-La organización de las elecciones es una función estatal que se ejerce por los poderes Legislativo y Ejecutivo del Estado, con la participación de los Ayuntamientos, de los partidos políticos y de los ciudadanos, según lo disponga la ley, para lo cual se integrará el organismo electoral correspondiente, dotado de personalidad jurídica propia, autónomo y de carácter permanente. La certeza, legalidad, imparcialidad, objetividad y profesionalismo, serán principios rectores en el ejercicio de la función estatal.
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y municipal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo. En el Estado gozarán de las mismas prerrogativas que les confiere la Constitución General de la República. Los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos.
 
-El organismo público será autoridad en la materia, profesional en su desempeño y autónomo en sus decisiones; se integrará por comisionados designados por los poderes Legislativo y Ejecutivo, comisionados por los partidos políticos y de la ciudadanía; sus sesiones serán públicas en los términos que disponga la ley de la materia.
+II.- Los partidos políticos tendrán derecho al uso en forma permanente e igualitaria de los medios de comunicación social propiedad del Gobierno del Estado, de acuerdo con las formas y procedimientos que establezca la ley. En los procesos electorales estatal, distritales y municipales, los partidos políticos deberán contar, en forma equitativa, con un mínimo de elementos para sus actividades tendientes a la obtención del sufragio popular.
 
-Se establecerá un sistema de medios de impugnación de los que conocerán el organismo público previsto en el párrafo cuarto de este artículo y el Tribunal Electoral del Estado. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones se sujeten invariablemente al principio de legalidad.
+III.- La ley señalará las reglas a que se sujetarán el financiamiento ordinario de los partidos políticos y de sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado.
 
-El organismo público previsto en el párrafo cuarto, realizará el cómputo de cada elección y otorgará constancias de mayoría a los candidatos que hubieren obtenido el triunfo; declarará la validez de las elecciones de diputados de cada uno de los distritos uninominales de los municipios de la Entidad y hará la declaratoria de validez y la asignación de diputados y regidores según el principio de representación proporcional, de conformidad con lo previsto por esta Constitución y la ley de la materia.
+El financiamiento público para los partidos políticos que mantengan su registro después de cada elección, se otorgará conforme a las siguientes bases y a lo que disponga la ley:
 
-La declaración de validez, el otorgamiento de las constancias y la asignación de diputados o munícipes, podrán ser impugnadas ante el Tribunal Electoral del Estado, en los términos que señale la ley. En ella los fallos del Tribunal Electoral del Estado serán definitivos e inatacables.
+a).- El financiamiento público se fijará anualmente y será el resultado de multiplicar el número de ciudadanos que figuren en las listas nominales de electores al 30 de abril del año de la elección, por el 50% del salario mínimo diario vigente en esa fecha en la capital del Estado.
 
-El Tribunal Electoral del Estado será autónomo y máxima autoridad jurisdiccional electoral. Los poderes Legislativo y Ejecutivo garantizarán su debida integración. Tendrá competencia para resolver en los términos de esta Constitución y la ley, las impugnaciones que se presenten en materia electoral, así como las diferencias laborales que se presenten con las autoridades electorales establecidas en este artículo.
+b).- Asimismo, se reintegrará un porcentaje de los gastos anuales que eroguen los partidos políticos por concepto de las actividades relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales.
 
-El Tribunal expedirá su reglamento interior, funcionara en pleno y sus sesiones de resolución serán públicas. Se organizará en los términos que señalen los ordenamientos relativos y sus Magistrados serán independientes, respondiendo solo al mandato de la ley.
+c).- La ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales; establecerá los montos máximos que tendrán las aportaciones pecuniarias de sus simpatizantes, los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten; asimismo, señalará las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
 
-> <small>N. DE E. ES DE OBSERVARSE QUE EN EL DECRETO No. 252 DE FECHA P.O. 26 DE MARZO DE 1994, NO SE DEROGA EXPRESAMENTE POR EL LEGISLADOR EL PRESENTE TITULO; SIN EMBARGO, NO ESTA COMPRENDIDO EN EL APARTADO CORRESPONDIENTE DE LA REFORMA; MOTIVO POR EL CUAL SE DEROGA EL MISMO.</small>
+IV.- La organización de las elecciones locales es una función estatal que se realiza a través de un organismo público denominado Instituto Electoral del Estado, dotado de personalidad jurídica y patrimonio propios. La certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores en el ejercicio de dicha función.
+
+El Instituto Electoral del Estado será autoridad en la materia, profesional en su desempeño, autónomo e independiente en sus decisiones y funcionamiento. Contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia.
+
+a).- El Consejo General será su órgano superior de dirección y se integrará por siete consejeros electorales propietarios y tres suplentes, designados por el Congreso del Estado, por mayoría calificada de sus miembros presentes, a propuesta de los grupos parlamentarios; durarán en su cargo siete años, sus requisitos y mecanismo de elección serán determinados en la ley de la materia. Uno de los Consejeros será Presidente, electo por un mínimo de cuatro votos de los demás Consejeros. Tendrá un Secretario Ejecutivo, que deberá ser también Consejero y será electo por las dos terceras partes del mismo Consejo, a propuesta en terna de su presidente. Los Consejeros Electorales estarán sujetos al régimen de responsabilidades establecido en el Título XI de esta Constitución.
+
+En caso de que no se reúna en la segunda vuelta la mayoría calificada a que se refiere el párrafo anterior, los funcionarios electorales serán electos por el sistema de insaculación.
+
+Los Consejeros Electorales no podrán tener ningún otro empleo público durante el desempeño de su función, no podrán ser candidatos a cargos de elección popular ni ocupar cargo alguno en la administración estatal o en las municipales, durante el año posterior a la conclusión de su cargo.
+
+En el Consejo General y los Consejos Municipales participarán un representante acreditado por cada partido político, quienes sólo tendrán derecho a voz.
+
+b).- Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio profesional electoral. Los servidores del Instituto regirán sus relaciones de trabajo por las disposiciones de la Ley Electoral y por el Estatuto que apruebe el Congreso del Estado, cuyos derechos y obligaciones no podrán ser menores a los preceptuados por el artículo 123 Apartado B constitucional. Los órganos de vigilancia se integrarán mayoritariamente por representantes de los partidos políticos. Las mesas directivas de casillas estarán integradas por ciudadanos.
+
+El Instituto Electoral del Estado agrupará para su desempeño, en forma integral y directa, además de las que le determine la ley, las actividades relativas al padrón y lista de electores, geografía electoral, observación electoral, derechos y prerrogativas de las agrupaciones y partidos políticos, preparación de la jornada electoral, la regulación de encuestas o sondeos de opinión con fines electorales, cómputos, declaración de validez y otorgamiento de constancias, capacitación electoral, educación cívica e impresión de materiales electorales. Las sesiones de todos los órganos colegiados electorales serán públicas, en los términos que disponga la ley.
+
+El Instituto Electoral del Estado realizará el cómputo de cada elección; otorgará constancias de mayoría a los candidatos que hubieren obtenido el triunfo; declarará la validez de las elecciones de diputados de mayoría relativa y Ayuntamientos; y hará la declaratoria de validez y la asignación de diputados y regidores según el principio de representación proporcional.
+
+V.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación de los que conocerán, según la competencia, el Instituto Electoral del Estado y el Tribunal Electoral del Estado, en los términos que señale la Ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales.
+
+En materia electoral la interposición de los medios de impugnación no producirá, en ningún caso, efectos suspensivos sobre el acto o la resolución impugnados.
+
+Los cómputos efectuados por los órganos electorales, las determinaciones sobre la declaración de validez, el otorgamiento de las constancias y la asignación de diputados o regidores podrán ser impugnadas ante el Tribunal Electoral del Estado, en los términos que señale la ley.
+
+VI.- El Tribunal Electoral del Estado será órgano autónomo en su funcionamiento e independiente en sus decisiones, de pleno derecho y máxima autoridad jurisdiccional electoral. Funcionará en pleno y sus sesiones de resolución serán públicas. Se organizará en los términos que señale la ley; regirá sus relaciones de trabajo conforme al Estatuto que apruebe el Congreso del Estado, en el que se establecerá que los derechos y obligaciones de sus trabajadores no podrán ser menores a los preceptuados por el artículo 123 Apartado B constitucional, y los mecanismos de vigilancia y disciplina se establecerán en la ley electoral. Sus Magistrados responderán sólo al mandato de la ley; deberán satisfacer los requisitos establecidos en la legislación electoral, que no podrán ser menores de los que señala esta Constitución para ser Magistrado del Poder Judicial. Serán electos por el Congreso del Estado, por mayoría calificada de los Diputados presentes, a propuesta del Supremo Tribunal de Justicia de conformidad con la ley de la materia.
+
+El Tribunal Electoral del Estado tendrá competencia para:
+
+a).- Realizar el cómputo final de la elección de Gobernador del Estado, una vez resueltas, en su caso, las impugnaciones que se hubieren interpuesto sobre la misma, procediendo a formular la declaración de validez de la elección y la de Gobernador Electo respecto del candidato que hubiere obtenido el mayor número de votos;
+
+b).- Substanciar y resolver en forma firme y definitiva, en los términos de esta Constitución y la ley, las impugnaciones que se susciten en materia electoral;
+
+c).- Dirimir los conflictos o diferencias laborales entre el Tribunal, el Instituto Electoral del Estado y sus servidores;
+
+d).- Determinar e imponer sanciones en la materia;
+
+e).- Expedir su reglamento interior; y
+
+f).- Realizar las demás atribuciones que le confiera la ley.
+
+Las resoluciones del Tribunal Electoral serán definitivas y sólo podrán ser impugnadas ante el Tribunal Federal Electoral, en los términos establecidos por el artículo 99 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
 ## TITULO VI.
 
@@ -1117,7 +1179,9 @@ En los mismos términos la preservación y restauración del equilibrio ecológi
 
 VI.- Cuando dos o más centros urbanos situados en territorios de dos o más Municipios, tanto del Estado como de otra entidad Federativa, formen o tiendan a formar una continuidad demográfica, la Federación, las Entidades Federativas y los Municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros con apego a las leyes de la materia.
 
-VII.- El Ejecutivo Federal y el o la Titular del Poder Ejecutivo Estatal tendrán el mando de la fuerza pública en los Municipios donde residieren habitual o transitoriamente.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+
+VII.- Los Presidentes Municipales tendrán el mando de la fuerza pública en sus respectivos municipios, con excepción de aquellos en los que residan habitual o transitoriamente el Ejecutivo Federal o el Ejecutivo Estatal. Los Presidentes Municipales quedan obligados a prestar, previa solicitud de las autoridades electorales, el auxilio de la fuerza pública así como los apoyos que requieran para la preservación del orden público en los procesos electorales.
 
 VIII.- La Administración Municipal se ejerce:
 
@@ -1169,6 +1233,10 @@ II. Los Ayuntamientos de Colima, Tecomán y Manzanillo estarán integrados por u
 
 III.- El resto de los Ayuntamientos, por un Presidente Municipal, un Sindico y cinco Regidores, cada uno, electos según el principio de votación mayoritaria relativa, y por tres Regidores de representación proporcional.
 
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+
+Todo partido político que alcance por lo menos el 1.5% del total de la votación emitida en el municipio respectivo, tendrá derecho a que le sean atribuidos regidores según el principio de representación proporcional, de conformidad con las reglas de asignación que determine la Ley Electoral.
+
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MARZO DE 1994)</small>
 
 ###### Artículo 92.
@@ -1199,9 +1267,9 @@ Queda encomendado el ejercicio de la Autoridad Judicial, en las cabeceras de las
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
-## TITULO VI BIS
+## TITULO VII.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 1994)</small>
 
 ### CAPITULO UNICO.
 
@@ -1255,7 +1323,7 @@ Para la expedición de Fiats de Notarios, no se requiere examen especial, pero e
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
-## TITULO VII.
+## TITULO VIII.
 
 > <small>(ADICIONADO, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -1281,7 +1349,7 @@ Cada nueva municipalidad tendrá cuando menos diez mil habitantes. Las localidad
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
-## TITULO VIII.
+## TITULO IX.
 
 > <small>(ADICIONADO, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -1343,7 +1411,7 @@ Los encargados de las Oficinas de referencia, distribuirán los caudales públic
 
 El Secretario de Finanzas del Estado y los demás empleados que manejen fondos públicos, otorgarán fianza en la forma que la ley determine.
 
-## TITULO IX.
+## TITULO X.
 
 > <small>(ADICIONADO, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -1351,7 +1419,7 @@ El Secretario de Finanzas del Estado y los demás empleados que manejen fondos p
 
 De las Responsabilidades de los Servidores Públicos.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
 
 ###### Artículo 116.
 
@@ -1379,7 +1447,9 @@ De la Inviolabilidad de esta Constitución, su Observancia y modo de Reformarla.
 
 ###### Artículo 119.
 
-Para los efectos de las responsabilidades en que puedan incurrir los servidores públicos, se reputarán como tales a los representantes de Elección Popular, a los miembros de los Poderes Ejecutivo y Judicial del Estado, a los funcionarios y empleados y en general a toda persona que desempeñe un empleo o comisión de cualquier naturaleza en la administración pública Estatal o Municipal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos de las responsabilidades que puedan incurrir los Servidores Públicos, se reputarán como tales a los representantes de elección popular, a los miembros de los Poderes Ejecutivo y Judicial del Estado, a los integrantes del Instituto Electoral y del Tribunal Electoral, a los funcionarios y empleados y en general a toda persona que desempeñe un empleo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus funciones.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1983)</small>
 
 El Gobernador del Estado, los Diputados a la Legislatura Local y los Magistrados del Supremo Tribunal de Justicia del Estado serán responsables por las violaciones a esta Constitución o a las Leyes Federales, así como por el manejo indebido de fondos y recursos Federales.
 
@@ -1387,17 +1457,23 @@ El Gobernador del Estado, los Diputados a la Legislatura Local y los Magistrados
 
 Se concede acción popular para exigir la responsabilidad de los funcionarios y empleados públicos, a excepción de la que provenga de delitos en que se requiera la querella necesaria.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
 
 ###### Artículo 121.
 
-Siempre que se trate de un delito de orden común cometido por los Diputados, el Gobernador, los Magistrados, los Secretarios de la Administración Pública Estatal, el Procurador General de Justicia o los munícipes, el Congreso del Estado, erigido en Gran Jurado, declarará a mayoría absoluta de votos si ha o no lugar a proceder contra el inculpado.
+Siempre que se trate de un delito del orden común cometido por los Diputados, el Gobernador, los Magistrados del Poder Judicial, del Tribunal Electoral y el del Tribunal de lo Contencioso Administrativo, los Secretarios de la Administración Pública Estatal, el Procurador General de Justicia, los Munícipes, así como los Consejeros Electorales del Instituto Electoral, el Congreso del Estado, erigido en Gran Jurado, declarará a mayoría absoluta de votos si ha o no lugar a proceder contra el inculpado.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
 Si la resolución fuese negativa no habrá lugar a procedimiento ulterior; pero tal declaración no será obstáculo para que la acusación continúe su curso, cuando el acusado haya dejado de tener fuero, comenzando entonces la prescripción. En caso afirmativo, el acusado quedará por el mismo hecho separado de su cargo y sujeto a la acción de los tribunales comunes.
 
 ###### Artículo 122.
 
 De los delitos y faltas oficiales en que incurran los funcionarios a que se refiere el artículo anterior, conocerán el Congreso como Jurado de acusación y el Supremo Tribunal de Justicia, en acuerdo pleno, como Jurado de sentencia.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+
+A los funcionarios a que se refiere el artículo anterior se incluirá el Secretario Ejecutivo del Instituto Electoral del Estado.
 
 El Jurado de acusación declarará, a mayoría absoluta de votos que el acusado es o no culpable, oyéndolo previamente en defensa. Si la declaración fuere absolutoria, el funcionario continuará en el desempeño de su encargo. Si fuere condenatoria, quedará inmediatamente separado de dicho cargo o será consignado al Supremo Tribunal de Justicia. Este, erigido en Jurado de sentencia, oyendo al acusador, si lo hubiere, al Agente del Ministerio Público y al reo, por sí o por medio de su defensor, aplicará a mayoría absoluta de votos la pena que la ley designe.
 
@@ -1433,7 +1509,7 @@ Pronunciada una sentencia condenatoria de responsabilidad por delitos y faltas o
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
-## TITULO X.
+## TITULO XI.
 
 > <small>(ADICIONADO, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -1569,12 +1645,6 @@ El Congreso del Estado no podrá reconocer, bajo ningún concepto a los militare
 
 > <small>N. DE E. ES DE OBSERVARSE QUE EN EL DECRETO No. 252 DE FECHA P.O. 26 DE MARZO DE 1994, EL LEGISLADOR NO DEROGA EXPRESAMENTE EL PRESENTE TITULO; MOTIVO POR EL CUAL, SE SIGUE MANTENIENDO.</small>
 
-## TITULO XIV.
-
-## TITULO XI.
-
-> <small>(ADICIONADO, P.O. 26 DE MARZO DE 1994)</small>
-
 ## TITULO XII.
 
 > <small>(ADICIONADO, P.O. 26 DE MARZO DE 1994)</small>
@@ -1582,6 +1652,8 @@ El Congreso del Estado no podrá reconocer, bajo ningún concepto a los militare
 ## TITULO XIII.
 
 > <small>(ADICIONADO, P.O. 26 DE MARZO DE 1994)</small>
+
+## TITULO XIV.
 
 ## Artículos Transitorios.
 
@@ -2124,3 +2196,21 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 26 DE MARZO DE 1994.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 14 DE SEPTIEMBRE DE 1996.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los actuales Consejeros Electorales y los Magistrados del Tribunal Electoral no podrán ser reelectos.
+
+###### ARTICULO TERCERO.
+
+En tanto se hacen los nombramientos o se reforma la ley de la materia, el Consejo Estatal del Instituto Electoral del Estado seguirá ejerciendo las competencias y funciones que actualmente le señala la Ley Electoral del Estado.
+
+###### ARTICULO CUARTO.
+
+En tanto se expiden o reforman las leyes correspondientes, el Tribunal Electoral del Estado seguirá ejerciendo las competencias y funciones que actualmente le señala la Ley Electoral del Estado.
