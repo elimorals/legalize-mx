@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "1999-03-09"
+last_updated: "1999-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE MARZO DE 1999.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE OCTUBRE DE 1999.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -391,13 +391,25 @@ XV. Suspender la sesión pública y disponer su continuación con carácter de s
 
 XVI. Firmar con los secretarios, las resoluciones a que se refiere la Constitución;
 
-XVII. Representar a la Legislatura en los actos cívicos o de cualquier otra índole a que haya sido invitada;
+> <small>(ADICIONADA, G.G. 20 DE OCTUBRE DE 1999)</small>
 
-XVIII. Nombrar las comisiones especiales de protocolo;
+XVII. Representar jurídicamente al Poder Legislativo ante todo género de autoridades;
 
-XIX. Adoptar las decisiones y medidas que se requieran para la organización y buena marcha del trabajo legislativo;
+> <small>(REFORMADA, G.G. 20 DE OCTUBRE DE 1999)</small>
 
-XX. Las demás que se deriven de la Constitución, la ley, el reglamento o de las disposiciones o acuerdos que emita la Asamblea.
+XVIII. Representar a la Legislatura en los actos cívicos o de cualquier otra índole a que haya sido invitada;
+
+> <small>(REFORMADA, G.G. 20 DE OCTUBRE DE 1999)</small>
+
+XIX. Nombrar las comisiones especiales de protocolo;
+
+> <small>(REFORMADA, G.G. 20 DE OCTUBRE DE 1999)</small>
+
+XX. Adoptar las decisiones y medidas que se requieran para la organización y buena marcha del trabajo legislativo;
+
+> <small>(REFORMADA, G.G. 20 DE OCTUBRE DE 1999)</small>
+
+XXI. Las demás que se deriven de la Constitución, la ley, el reglamento o de las disposiciones o acuerdos que emita la Asamblea.
 
 ###### Artículo 48.
 
@@ -697,7 +709,7 @@ Las comisiones jurisdiccionales serán las siguientes:
 
 Su integración, atribuciones y funcionamiento se regirán por lo previsto en la ley y en las disposiciones legales relativas.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 9 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, G.G. 9 DE MARZO DE 1999)</small>
 
 ###### Artículo 76.
 
@@ -972,3 +984,13 @@ PRIMERO.- Procédase a la declaratoria de aprobación de las reformas.
 SEGUNDO.- Publíquese en la Gaceta del Gobierno.
 
 TERCERO.- Este decreto entrará en vigor al día siguiente de su publicación.
+
+G.G. 20 DE OCTUBRE DE 1999.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
