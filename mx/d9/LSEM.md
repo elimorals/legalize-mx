@@ -4,7 +4,7 @@ identifier: "LSEM"
 country: "mx"
 rank: "ley"
 publication_date: "1994-01-04"
-last_updated: "1998-01-23"
+last_updated: "2002-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSEM"
 
 LEY DEL SERVICIO EXTERIOR MEXICANO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE ENERO DE 2002.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 4 de enero de 1994.
 
@@ -46,9 +46,67 @@ El Servicio Exterior Mexicano es el cuerpo permanente de funcionarios del Estado
 
 El Servicio Exterior depende del Ejecutivo Federal. Su dirección y administración están a cargo de la Secretaría de Relaciones Exteriores, en lo sucesivo denominada la Secretaría, conforme a lo dispuesto por la Ley Orgánica de la Administración Pública Federal y a los lineamientos de política exterior que señale el Presidente de la República, de conformidad con las facultades que le confiere la propia Constitución.
 
+> <small>(ADICIONADO, D.O.F. 25 DE ENERO DE 2002)</small>
+
+Las dependencias y entidades de la Administración Pública Federal, conforme a lo dispuesto en la Ley Orgánica de la Administración Pública Federal mantendrán coordinación con la Secretaría para el ejercicio de acciones en el exterior.
+
+> <small>(ADICIONADO, D.O.F. 25 DE ENERO DE 2002)</small>
+
+###### Artículo 1o
+
+Bis.- Para los efectos de la presente Ley se entenderá por:
+
+I. Ley: La Ley del Servicio Exterior Mexicano;
+
+II. Reglamento: El Reglamento de la Ley del Servicio Exterior Mexicano;
+
+III. Secretaría: La Secretaría de Relaciones Exteriores;
+
+IV. Secretario: El Secretario de Relaciones Exteriores;
+
+V. Servicio Exterior: El Servicio Exterior Mexicano;
+
+VI. Dirección General: La unidad administrativa de la Secretaría que tenga a su cargo los asuntos concernientes al personal del Servicio Exterior;
+
+VII. Instituto Matías Romero: Es el órgano desconcentrado de la Secretaría, cuyo objetivo consiste en preparar recursos humanos de alto nivel analítico y técnico en los temas y materias de utilidad para la política exterior de México, cuyo titular será un embajador de carrera del Servicio Exterior;
+
+VIII. Representación: Las embajadas, misiones permanentes y oficinas consulares;
+
+IX. Representaciones Diplomáticas: Las embajadas y misiones permanentes;
+
+X. Embajada: La representación permanente del Estado Mexicano ante el gobierno de otro país. Sus principales funciones son de carácter político;
+
+XI. Misión Permanente: La representación del Estado Mexicano ante organismos internacionales;
+
+XII. Misión Diplomática: Las embajadas;
+
+XIII. Jefe de Misión: El Titular de la representación diplomática;
+
+XIV. Representación Consular: Las oficinas consulares;
+
+XV. Oficina Consular: La representación del Estado Mexicano ante el gobierno de otro país, en la que se realizan de carácter permanente las siguientes funciones: proteger a los mexicanos que se localicen en su circunscripción, fomentar las relaciones comerciales, económicas, culturales y científicas entre ambos países y expedir la documentación a mexicanos y extranjeros en términos de la presente Ley y su Reglamento. Según su importancia y ámbito de circunscripción se clasifican en: Sección Consular, Consulado General, Consulado, Agencia Consular y Consulado Honorario;
+
+XVI. Circunscripción Consular: El territorio atribuido a una oficina consular para el ejercicio de las funciones consulares;
+
+XVII. Sección Consular: La oficina de una embajada que realiza funciones consulares y su circunscripción es todo el país acreditante;
+
+XVIII. Consulado General: La oficina a cargo de un funcionario consular, generalmente con el rango de Cónsul General y dependen de él, los consulados y agencias consulares que se localicen en su circunscripción;
+
+XIX. Consulado: La oficina a cargo de un funcionario consular, del que pueden depender algunas agencias consulares;
+
+XX. Agencia Consular: La oficina a cargo de un funcionario consular, es de jerarquía menor a la de los consulados porque su circunscripción es muy limitada;
+
+XXI. Consulado Honorario: La oficina a cargo de un cónsul honorario, trátese de un nacional o de un extranjero, en la que éste realiza, sin remuneración alguna, funciones consulares limitadas;
+
+XXII. Jefe de Oficina Consular: La persona encargada de desempeñar tal función;
+
+XXIII. Funcionario Consular: Cualquier persona, incluido el jefe de oficina consular, encargada con ese carácter del ejercicio de funciones consulares, y
+
+XXIV. Comisión de Personal: La Comisión de Personal del Servicio Exterior Mexicano, órgano colegiado encargado de conocer cualquier asunto relativo al Servicio Exterior.
+
 ###### Artículo 2o.
 
-Corresponde al Servicio Exterior Mexicano:
+Corresponde al Servicio Exterior:
 
 I. Promover y salvaguardar los intereses nacionales ante los Estados extranjeros y en los organismos y reuniones internacionales en los que participe México;
 
@@ -68,101 +126,179 @@ VIII. Promover el conocimiento de la cultura nacional en el exterior y ampliar l
 
 IX. Recabar en el extranjero la información que pueda ser de interés para México, y difundir en el exterior información que contribuya a un mejor conocimiento de la realidad nacional; y
 
-X. Las demás funciones que señalen al Servicio Exterior ésta y otras leyes y reglamentos, así como los tratados de los que México sea parte.
+> <small>(ADICIONADA, D.O.F. 25 DE ENERO DE 2002)</small>
+
+X. Coadyuvar a la mejor inserción económica de México en el mundo;
+
+> <small>(ADICIONADA, D.O.F. 25 DE ENERO DE 2002)</small>
+
+XI. Destinar los ingresos recibidos por los servicios establecidos en los artículos 20, 22 y 23 de la Ley Federal de Derechos, prestados por cualquier representación consular en el extranjero para integrar un fondo cuyo objeto sea cubrir, previa autorización de la Secretaría de Relaciones Exteriores, los gastos relativos a las actividades y programas que a continuación se mencionan, en términos del Reglamento de la Ley del Servicio Exterior Mexicano: Programa de repatriación de personas vulnerables; atención y asesoría jurídica y de protección consulares; visitas a cárceles y centros de detención; atención telefónica; campaña de seguridad al migrante; servicios de consulados móviles; prestación de servicios consulares en general, y atención al público.
+
+Los gastos a sufragar de conformidad al párrafo anterior, se realizarán de acuerdo a las reglas generales de operación que al efecto establezca la Secretaría de Relaciones Exteriores, contando con la aprobación de la Secretaría de la Contraloría y Desarrollo Administrativo, y
+
+XII. Las demás funciones que señalen al Servicio Exterior ésta y otras leyes y reglamentos, así como los tratados de los que México sea parte.
 
 ### CAPITULO II. De la integración del Servicio Exterior Mexicano
 
+> <small>(REFORMADO, D.O.F. 25 DE ENERO DE 2002)</small>
+
 ###### Artículo 3o.
 
-El Servicio Exterior Mexicano se integra por personal de carrera, personal temporal y personal asimilado.
+El Servicio Exterior se integra por personal de carrera, personal temporal y personal asimilado y comprende las ramas diplomático-consular y técnico-administrativa.
+
+> <small>(REFORMADO, D.O.F. 25 DE ENERO DE 2002)</small>
 
 ###### Artículo 4o.
 
-El personal de carrera será permanente y comprende la rama diplomático-consular y la rama técnico-administrativa. Su desempeño se basa en los principios de preparación, competencia, capacidad y superación constante, a fin de establecer un servicio permanente para la ejecución de la política exterior de México.
+La rama diplomático-consular comprende los siguientes rangos:
+
+I. Embajador;
+
+II. Ministro;
+
+III. Consejero;
+
+IV. Primer Secretario;
+
+V. Segundo Secretario;
+
+VI. Tercer Secretario, y
+
+VII. Agregado Diplomático.
+
+> <small>(REFORMADO, D.O.F. 25 DE ENERO DE 2002)</small>
 
 ###### Artículo 5o.
 
-Los cuerpos diplomático y consular integran la rama diplomático-consular, que comprende las siguientes categorías:
+La rama técnico-administrativa comprende los siguientes rangos:
 
-Embajador
+I. Coordinador Administrativo;
 
-Ministro
+II. Agregado Administrativo A;
 
-Consejero
+III. Agregado Administrativo B;
 
-Primer Secretario
+IV. Agregado Administrativo C;
 
-Segundo Secretario
+V. Técnico-Administrativo A;
 
-Tercer Secretario
+VI. Técnico-Administrativo B, y
 
-Agregado Diplomático
+VII. Técnico-Administrativo C.
+
+> <small>(REFORMADO, D.O.F. 25 DE ENERO DE 2002)</small>
 
 ###### Artículo 6o.
 
-La rama técnico-administrativa comprenderá las siguientes categorías:
+El personal de carrera es permanente y su desempeño se basa en los principios de preparación, competencia, capacidad y superación constante, a fin de establecer un servicio permanente para la ejecución de la política exterior de México.
 
-Coordinador Administrativo
+Los miembros de carrera del Servicio Exterior podrán encontrarse, durante su pertenencia a éste, en alguno de los siguientes supuestos:
 
-Agregado Administrativo "A"
+I. en activo;
 
-Agregado Administrativo "B"
+II. homologados;
 
-Agregado Administrativo "C"
+III. comisionados conforme al artículo 18 de la Ley;
 
-Técnico-Administrativo "A"
+IV. en licencia, o
 
-Técnico-Administrativo "B"
+V. en disponibilidad.
 
-Técnico-Administrativo "C"
+La administración de rangos, plazas, puestos y estructura del Servicio Exterior se regirá por las disposiciones de la presente Ley y su Reglamento.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE ENERO DE 2002)</small>
 
 ###### Artículo 7o.
 
-El personal temporal será designado por acuerdo del Presidente de la República. Dicho personal desempeñará funciones específicas en una adscripción determinada y por un plazo definido, al término del cual sus funciones cesarán automáticamente. Los así nombrados no formarán parte del personal de carrera del Servicio Exterior ni figurarán en los escalafones respectivos.
+El personal temporal es designado por acuerdo del Secretario. Dicho personal desempeña funciones específicas en una adscripción determinada y por un plazo que no excederá de 6 años, al término del cual sus funciones cesarán automáticamente. Los así nombrados no forman parte del personal de carrera del Servicio Exterior ni figuran en los escalafones respectivos.
 
 El personal temporal deberá cumplir con los requisitos señalados en las fracciones I, III, IV y V del artículo 32 de la presente Ley y estará sujeto durante su comisión a las mismas obligaciones que el personal de carrera.
 
+> <small>(ADICIONADO, D.O.F. 25 DE ENERO DE 2002)</small>
+
+Los nombramientos de personal temporal se harán, cuando sea posible, en plazas que no pertenezcan al Servicio Exterior de carrera.
+
+> <small>(REFORMADO, D.O.F. 25 DE ENERO DE 2002)</small>
+
 ###### Artículo 8o.
 
-El personal asimilado se compone de funcionarios y agregados a misiones diplomáticas y representaciones consulares, cuyo nombramiento haya sido gestionado por otra dependencia o entidad de la Administración Pública Federal u otra autoridad competente, con cargo a su propio presupuesto. Dicho personal será acreditado por la Secretaría con el rango que ésta determine y su asimilación al Servicio Exterior tendrá efectos sólo durante el tiempo que dure la comisión que se le ha conferido.
+El personal asimilado se compone de funcionarios y agregados a misiones diplomáticas y representaciones consulares, cuyo nombramiento haya sido gestionado por otra dependencia o entidad de la Administración Pública Federal u otra autoridad competente, con cargo a su propio presupuesto. Cuando la Secretaría considere procedente la solicitud dicho personal será acreditado con el rango que ésta determine y su asimilación al Servicio Exterior tendrá efectos sólo durante el tiempo que dure la comisión que se le ha conferido.
 
-El personal asimilado estará sujeto a las mismas obligaciones que los miembros del personal de carrera del Servicio Exterior. Asimismo, estará comisionado en el extranjero bajo la autoridad del jefe de la misión diplomática o representación consular correspondiente, a quien deberá informar de sus actividades y atender las recomendaciones que formule sobre sus gestiones, especialmente por lo que se refiere a las cuestiones políticas y las prácticas diplomáticas o consulares.
+El personal asimilado estará sujeto a las mismas obligaciones que los miembros del personal de carrera del Servicio Exterior y las dependencias o entidades que hayan solicitado su asimilación serán las únicas responsables de los actos realizados por sus representantes. Asimismo, estará comisionado en el extranjero bajo la autoridad del jefe de la misión diplomática o representación consular correspondiente, a quien deberá informar de sus actividades y atender las recomendaciones que formule sobre sus gestiones, especialmente por lo que se refiere a las políticas generales y las prácticas diplomáticas o consulares.
 
-La Secretaría determinará los casos en que el personal temporal o asimilado deba acudir a cursos de capacitación en el Instituto Matías Romero de Estudios Diplomáticos, antes de asumir su cargo en el extranjero.
+La Secretaría determinará los casos en que el personal temporal o asimilado deba acudir a cursos de capacitación en el Instituto Matías Romero, antes de asumir su cargo en el extranjero.
+
+> <small>(REFORMADO, D.O.F. 25 DE ENERO DE 2002)</small>
 
 ###### Artículo 9o.
 
-La Secretaría procurará que la estructura de plazas en las diferentes categorías permita una adecuada movilidad escalafonaria, de tal modo que se mantenga una pirámide ascendente entre las categorías de agregado diplomático y ministro. Lo anterior, se hará de acuerdo con los lineamientos de racionalidad, austeridad y disciplina presupuestal.
+La Secretaría deberá mantener y gestionar ante las autoridades correspondientes, que la estructura de plazas en los diferentes rangos permita una adecuada movilidad escalafonaria, de tal modo que se mantenga una pirámide ascendente entre los rangos de agregado diplomático y Ministro. Lo anterior, se hará de acuerdo con los lineamientos de racionalidad, austeridad y disciplina presupuestaria.
 
 ### CAPITULO III. De la organización del Servicio Exterior Mexicano
 
+> <small>(REFORMADO, D.O.F. 25 DE ENERO DE 2002)</small>
+
 ###### Artículo 10.
 
-En el extranjero, los miembros del Servicio Exterior desempeñarán indistintamente sus funciones en una misión diplomática, representación consular, misiones especiales y delegaciones a conferencias o reuniones internacionales. La Secretaría fijará las modalidades de acreditación del personal comisionado en el exterior, de acuerdo con el derecho y las prácticas internacionales.
+En el extranjero, los miembros del Servicio Exterior desempeñarán indistintamente sus funciones en una misión diplomática, representación consular, misiones especiales y delegaciones a conferencias o reuniones internacionales. La Secretaría fijará las modalidades de acreditación del personal adscrito en el exterior, de acuerdo con el derecho y las prácticas internacionales.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE ENERO DE 2002)</small>
 
 ###### Artículo 11.
 
-La Secretaría vigilará que la adscripción en el extranjero y en México del personal de carrera de las ramas diplomático-consular y técnico-administrativa se ajuste a una rotación programada, procurando que ningún miembro de éstas permanezca fuera del país o en la Secretaría más de seis años continuos.
+La Secretaría vigilará que la adscripción en el extranjero y en México del personal de carrera se ajuste a una rotación programada, asegurándose que, sin excepción, ningún miembro de éstas permanezca fuera del país o en la Secretaría más de ocho años continuos.
 
-Anualmente, la Comisión de Personal recomendará al Secretario de Relaciones Exteriores los traslados necesarios para asegurar el programa de rotación. De igual forma, procurará que el personal de la rama diplomático-consular no permanezca menos de dos años o más de cuatro años continuos en una misma adscripción en el exterior.
+> <small>(REFORMADO, D.O.F. 25 DE ENERO DE 2002)</small>
+
+La Comisión de Personal a sugerencia de la Subcomisión de Rotación, recomendará al Secretario los traslados que por necesidades del servicio se deban llevar a cabo fuera del programa de rotación anual, procurando que el personal de la rama diplomático-consular no permanezca menos de dos años, ni más de seis en una misma adscripción en el exterior.
+
+> <small>(ADICIONADO, D.O.F. 25 DE ENERO DE 2002)</small>
+
+Los miembros de la rama técnico-administrativa podrán permanecer en una misma adscripción un máximo de ocho años.
 
 En el Reglamento de la presente Ley se establecerán las modalidades de rotación del personal de carrera, a fin de favorecer una equilibrada rotación del personal entre áreas geográficas diversas y evitar dos adscripciones continuas de vida difícil o de pronunciada carestía. Asimismo, para los programas de rotación, además de las necesidades del servicio, habrán de tomarse en cuenta las especialidades profesionales, los conocimientos de idiomas y la integración familiar del personal del Servicio Exterior.
 
+> <small>(ADICIONADO, D.O.F. 25 DE ENERO DE 2002)</small>
+
+###### Artículo 11
+
+BIS.- Las recomendaciones de traslado serán presentadas a la Comisión de Personal por la Subcomisión de Rotación. Esta Subcomisión se integrará por:
+
+I. El Presidente de la Comisión de Personal;
+
+II. El Director General que tenga bajo su cargo los asuntos concernientes al personal del Servicio Exterior;
+
+III. El Director General del Instituto Matías Romero, y
+
+IV. Dos funcionarios del Servicio Exterior con rango mínimo de consejero, propuestos por el Presidente de la Comisión de Personal y aprobados por el Secretario.
+
+La Secretaría dará a conocer anualmente, a través del Instituto Matías Romero, las oportunidades de capacitación y preparación académica disponibles para los miembros del Servicio Exterior en México y en el extranjero y sus requisitos.
+
+Los aspirantes que satisfagan los requisitos correspondientes a dichas oportunidades deberán presentar sus candidaturas a la Subcomisión de Rotación, misma que después del análisis del expediente y requisitos de los interesados resolverá lo conducente.
+
+> <small>(REFORMADO, D.O.F. 25 DE ENERO DE 2002)</small>
+
 ###### Artículo 12.
 
-Las misiones diplomáticas de México ante gobiernos extranjeros tendrán el rango de embajadas y ante organismos internacionales, el de misiones permanentes; las representaciones consulares tendrán el rango de consulados generales o consulados de carrera. La Secretaría determinará la ubicación y funciones específicas de cada una de ellas incluyendo, en su caso, las circunscripciones consulares.
+Las misiones diplomáticas de México ante gobiernos extranjeros tendrán el rango de embajadas y ante organismos internacionales, el de misiones permanentes; las representaciones consulares tendrán el rango de consulados generales, consulados, agencias consulares y consulados honorarios.
+
+La Secretaría determinará la ubicación y funciones específicas de cada una de ellas incluyendo, en su caso, las concurrencias y las circunscripciones consulares.
+
+> <small>(REFORMADO, D.O.F. 25 DE ENERO DE 2002)</small>
 
 ###### Artículo 13.
 
-El Secretario de Relaciones Exteriores podrá designar cónsules honorarios con atribuciones específicas, quienes no serán considerados personal del Servicio Exterior. Dichos cónsules podrán ser acreditados como cónsules generales, cónsules y vicecónsules honorarios.
+El Secretario podrá designar cónsules honorarios, quienes no serán considerados personal del Servicio Exterior.
 
 ###### Artículo 14.
 
 El Presidente de la República, por conducto de la Secretaría, podrá designar misiones especiales para ejercer ocasionalmente la representación de México en el extranjero, durante el tiempo y con las características de la función específica que en cada caso se indique.
 
+> <small>(REFORMADO, D.O.F. 25 DE ENERO DE 2002)</small>
+
 ###### Artículo 15.
 
-En todas las misiones diplomáticas y representaciones consulares, inmediatamente después del titular de las mismas habrá un jefe de cancillería o cónsul adscrito, según corresponda; estos puestos los desempeñará el miembro del Servicio Exterior de carrera de mayor jerarquía. Las ausencias temporales de los titulares de las misiones diplomáticas o representaciones consulares, según el caso, serán cubiertas por el jefe de cancillería o por el cónsul adscrito.
+En todas las misiones diplomáticas y representaciones consulares, inmediatamente después del titular de las mismas habrá un jefe de cancillería y un representante alterno o cónsul adscrito, según corresponda; estos puestos los desempeñará el miembro del Servicio Exterior de carrera de mayor jerarquía. Las ausencias temporales de los titulares de las misiones diplomáticas o representaciones consulares, según el caso, serán cubiertas por el jefe de cancillería, representante alterno o por el cónsul adscrito.
 
 ###### Artículo 16.
 
@@ -170,25 +306,43 @@ La Secretaría determinará la composición y funciones de las delegaciones que 
 
 Todos los servidores públicos que se encuentren en el extranjero con carácter, representación o comisión oficial, deberán coordinar sus actividades con los jefes de misión diplomática o de las representaciones consulares, según sea el caso.
 
+> <small>(REFORMADO, D.O.F. 25 DE ENERO DE 2002)</small>
+
 ###### Artículo 17.
 
-Cuando los miembros del personal de carrera sean designados para ocupar un puesto en la Secretaría, se les cubrirán las remuneraciones que correspondan a dicho cargo y tendrán los derechos y prestaciones que señala la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado. En este caso, la plaza del Servicio Exterior quedará reservada a nombre de su titular hasta que termine su comisión en la Secretaría. Durante el tiempo en que presten sus servicios en la Secretaría conservarán su lugar en el escalafón, acumularán la antigüedad que corresponda para los efectos de esta Ley y podrán ser ascendidos, en cuyo caso deberá reservarse la plaza correspondiente a su nueva categoría.
+El rango en el Servicio Exterior de carrera será independiente de la plaza o puesto que ocupen sus miembros en el exterior o en las unidades administrativas de la Secretaría en México.
+
+Cuando los miembros del personal de carrera sean designados para ocupar un puesto en la Secretaría o en el exterior, se les cubrirán las remuneraciones que correspondan a la plaza asignada y tendrán los derechos y prestaciones que señala la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, la presente Ley y su Reglamento.
+
+Los miembros del Servicio Exterior de carrera conservarán su lugar en el escalafón, acumularán la antigüedad que corresponda para los efectos de esta Ley y podrán ascender independientemente de la plaza o puesto que les asigne la Secretaría.
+
+> <small>(REFORMADO, D.O.F. 25 DE ENERO DE 2002)</small>
 
 ###### Artículo 18.
 
-A solicitud del interesado y previa recomendación de la Comisión de Personal, el Secretario de Relaciones Exteriores podrá autorizar qué funcionarios de la rama diplomático-consular puedan ser comisionados temporalmente en otras dependencias y entidades de la Administración Pública Federal, estatal o municipal, instituciones de educación superior o en organismos internacionales, siempre y cuando se desarrollen actividades de interés para las relaciones internacionales de México. Quienes desempeñan estas comisiones, conservarán sus derechos de antigüedad para efectos escalafonarios y podrán presentarse a los concursos de ascenso.
+El Secretario, previa recomendación de la Comisión de Personal, podrá autorizar, hasta en dos ocasiones, qué funcionarios de carrera de la rama diplomático-consular, con una antigüedad mínima de cinco años de servicio y rango de Primer Secretario o superior puedan ser comisionados temporalmente en otras dependencias y entidades de la Administración Pública Federal o Estatal u otras entidades públicas federales; en los Poderes Legislativo o Judicial y en instituciones de educación superior o en organismos internacionales.
+
+Las autorizaciones podrán ser concedidas siempre y cuando las actividades a realizar sean de interés y utilidad para la Secretaría. Quienes desempeñan estas comisiones, conservarán sus derechos de antigüedad para efectos escalafonarios y podrán presentarse a los concursos de ascenso.
+
+La duración y los términos de las comisiones concedidas con base en este artículo estarán regulados por el Reglamento de la Ley.
 
 ### CAPITULO IV. De los embajadores y cónsules generales
 
+> <small>(REFORMADO, D.O.F. 25 DE ENERO DE 2002)</small>
+
 ###### Artículo 19.
 
-Sin perjuicio de lo que disponen las fracciones II y III del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, la designación de embajadores y cónsules generales la hará el Presidente de la República, preferentemente entre los funcionarios de carrera de mayor competencia, categoría y antigüedad en la rama diplomático-consular.
+Sin perjuicio de lo que dispone la fracción III del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, la designación de Embajadores y Cónsules Generales la hará el Presidente de la República, preferentemente entre los funcionarios de carrera de mayor competencia, categoría y antigüedad en la rama diplomático-consular.
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1998)</small>
+Independientemente de que un funcionario de carrera sea designado Embajador o Cónsul General, el Presidente de la República podrá removerlo libremente en los términos de la fracción II del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, pero esa determinación no afectará su situación como personal de carrera, a menos que la separación ocurra en los términos de la fracción II del artículo 57 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 25 DE ENERO DE 2002)</small>
 
 ###### Artículo 20.
 
-Para ser designado embajador o cónsul general se requiere: ser mexicano por nacimiento que no se adquiera otra nacionalidad, estar en pleno goce de sus derechos civiles y políticos, ser mayor de 30 años de edad y reunir los méritos suficientes para el eficaz desempeño de su cargo.
+Para ser designado Embajador o Cónsul General se requiere: ser mexicano por nacimiento y no tener otra nacionalidad, estar en pleno goce de sus derechos civiles y políticos, ser mayor de 30 años de edad y reunir los méritos suficientes para el eficaz desempeño de su cargo.
+
+Los mexicanos por nacimiento a los que otro Estado considere como sus nacionales, deberán presentar el certificado de nacionalidad mexicana y el documento de renuncia de la otra nacionalidad.
 
 ###### Artículo 21.
 
@@ -198,13 +352,17 @@ En ocasión de una vacante de embajador o cónsul general y de conformidad con e
 
 En casos excepcionales podrán acreditarse como embajadores o cónsules generales, miembros del personal de carrera que tengan el rango de ministro. Esta acreditación no alterará la situación en el escalafón de los así designados, en la inteligencia de que tendrán derecho a los emolumentos y prestaciones que correspondan a dicha función.
 
+> <small>(REFORMADO, D.O.F. 25 DE ENERO DE 2002)</small>
+
 ###### Artículo 23.
 
-Las designaciones de jefes de misiones diplomáticas permanentes ante Estados y organismos internacionales y las de cónsules generales serán sometidas a la ratificación del Senado de la República o, en sus recesos, a la Comisión Permanente del H. Congreso de la Unión, según lo disponen las fracciones II y VII de los artículos 76 y 79 de la Constitución Política de los Estados Unidos Mexicanos, respectivamente. Sin este requisito, los designados no podrán tomar posesión de su cargo.
+Las designaciones de jefes de misiones diplomáticas permanentes ante Estados y organismos internacionales, de Embajadores Especiales y de Cónsules Generales serán sometidas a la ratificación del Senado de la República o, en sus recesos, de la Comisión Permanente, según lo disponen las fracciones II, VII y III de los artículos 76, 78 y 89, respectivamente, de la Constitución Política de los Estados Unidos Mexicanos. Sin este requisito la persona designada no podrá tomar posesión de su cargo.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE ENERO DE 2002)</small>
 
 ###### Artículo 24.
 
-Dentro de la categoría de embajador habrá un máximo de diez plazas de embajador eminente, como distinción a los miembros en activo de esa categoría por su actuación destacada de servicio a la República en el ámbito de la política exterior.
+Dentro del rango de Embajador habrá un máximo de diez plazas de Embajador Eminente, como distinción a los miembros de ese rango por su actuación destacada de servicio a la República en el ámbito de la política exterior.
 
 Para cubrir una vacante de embajador eminente, el Secretario de Relaciones Exteriores someterá a la consideración del Presidente de la República los nombres y antecedentes de aquellas personas que tengan una antigüedad mínima de diez años como embajador y que hayan ocupado cargos de Director General o superiores en la Secretaría o desempeñado importantes misiones en el exterior. El Ejecutivo Federal hará las designaciones correspondientes. La categoría de embajador eminente sólo podrá usarse en el ámbito interno y tendrá la compensación que fije el Presupuesto de Egresos de la Federación.
 
@@ -232,7 +390,11 @@ La Comisión de Personal, en los términos de esta Ley y su Reglamento, someter�
 
 La Comisión de Personal del Servicio Exterior, se integrará de la siguiente manera:
 
-I. Un Embajador de carrera del Servicio Exterior designado por el Secretario de Relaciones Exteriores, quien la presidirá;
+> <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2002)</small>
+
+I. Un Embajador de carrera del Servicio Exterior designado por el Secretario, quien la presidirá y deberá dedicarse de tiempo completo a las labores propias de su cargo. El presidente durará en su cargo un periodo no menor de un año, ni mayor de tres;
+
+El presidente de la Comisión de Personal tendrá la representación legal de dicho órgano colegiado para efectos de juicios de amparo, de nulidad y federales. En caso de ausencia temporal del presidente de la Comisión de Personal, será suplido para tales efectos por el Director General de Asuntos Jurídicos de la Secretaría;
 
 II. El Oficial Mayor de la Secretaría, quien suplirá al presidente en sus ausencias;
 
@@ -240,59 +402,121 @@ III. El Director General que tenga bajo su cargo los asuntos concernientes al pe
 
 IV. El Director General de Asuntos Jurídicos de la Secretaría; y
 
-V. Tres funcionarios designados por el Secretario de Relaciones Exteriores.
+> <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2002)</small>
 
-La Comisión podrá invitar a otros funcionarios de la Secretaría cuando se ventilen asuntos que sean de su competencia.
+V. El Titular del Instituto Matías Romero, y
 
-En todo caso, la mayoría de los integrantes de la Comisión deberá ser personal de carrera.
+> <small>(ADICIONADA, D.O.F. 25 DE ENERO DE 2002)</small>
 
-A propuesta de la Comisión de Personal, el Secretario de Relaciones Exteriores expedirá el Reglamento Interno de la misma.
+VI. Un representante de cada uno de los rangos desde Técnico-Administrativo C hasta Coordinador Administrativo y de Tercer Secretario hasta Ministro, adscritos a la Secretaría, que serán elegidos por sus pares para cubrir periodos de un año. Dichos representantes participarán exclusivamente cuando se trate de asuntos relacionados con el personal de la categoría que representan.
+
+> <small>(REFORMADO, D.O.F. 25 DE ENERO DE 2002)</small>
+
+Los miembros de la Comisión no podrán participar a través de representantes o suplentes, con excepción del presidente quien podrá ser suplido por el Oficial Mayor.
+
+> <small>(REFORMADO, D.O.F. 25 DE ENERO DE 2002)</small>
+
+En los casos en que la Comisión trate asuntos que incidan sobre el conjunto de los miembros del Servicio Exterior, ésta podrá, a través de invitaciones, asesorarse de personas ajenas a la Secretaría y al Servicio Exterior.
+
+> <small>(REFORMADO, D.O.F. 25 DE ENERO DE 2002)</small>
+
+A propuesta de la Comisión, el Secretario expedirá las Reglas del Procedimiento de la Comisión de Personal.
+
+> <small>(ADICIONADO, D.O.F. 25 DE ENERO DE 2002)</small>
+
+###### Artículo 27
+
+Bis.- La Comisión de Personal contará con cuatro subcomisiones:
+
+I. Subcomisión de Ingreso;
+
+II. Subcomisión de Rotación;
+
+III. Subcomisión de Evaluación, y
+
+IV. Subcomisión de Asuntos Disciplinarios.
+
+Las Subcomisiones funcionarán conforme a lo dispuesto por esta Ley, su Reglamento y las Reglas del Procedimiento de la Comisión de Personal.
 
 ### CAPITULO VI. Del Ingreso al Servicio Exterior Mexicano
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE ENERO DE 2002)</small>
 
 ### CAPITULO VII. De los ascensos del personal de carrera
 
 ###### Artículo 28.
 
-El ingreso como funcionario de carrera a la rama diplomático-consular se realizará por oposición, mediante concursos públicos que serán organizados en etapas eliminatorias y deberán contemplar los siguientes exámenes y cursos:
+El ingreso como funcionario de carrera a la rama diplomático-consular se realizará por oposición, mediante concursos públicos anuales que serán organizados en etapas eliminatorias y deberán contemplar los siguientes exámenes y cursos:
 
 I. Examen de cultura general orientado a las relaciones internacionales;
 
 II. Examen de español;
 
-III. Exámenes para comprobar el dominio de un idioma extranjero y la capacidad para traducir otro, ambos de utilidad para la diplomacia;
+> <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2002)</small>
+
+III. Exámenes para comprobar el dominio del idioma inglés y la capacidad para traducir alguno de los otros idiomas oficiales de la Organización de las Naciones Unidas;
 
 IV. Elaboración de un ensayo sobre un tema de actualidad en política exterior; y
 
-V. Entrevistas con funcionarios de la Secretaría y, en su caso, cursos especializados de un mínimo de seis meses en el Instituto Matías Romero de Estudios Diplomáticos y un año adicional de experiencia práctica en la Secretaría.
+> <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2002)</small>
+
+V. Entrevistas;
+
+> <small>(ADICIONADA, D.O.F. 25 DE ENERO DE 2002)</small>
+
+VI. Exámenes médicos y psicológicos;
+
+> <small>(ADICIONADA, D.O.F. 25 DE ENERO DE 2002)</small>
+
+VII. Cursos especializados en el Instituto Matías Romero, cuya duración no excederá de seis meses, y
+
+> <small>(ADICIONADA, D.O.F. 25 DE ENERO DE 2002)</small>
+
+VIII. Un periodo de experiencia práctica en la Secretaría cuya duración no excederá de seis meses.
+
+> <small>(REFORMADO, D.O.F. 25 DE ENERO DE 2002)</small>
 
 ###### Artículo 29.
 
-La Comisión de Personal dará aviso al Secretario de Relaciones Exteriores de las vacantes en la categoría de agregado diplomático, a fin de que convoque a un concurso de ingreso para cubrirlas y designe una Comisión de Ingreso que dependerá de la Comisión de Personal.
+La Comisión de Personal dará aviso oportuno al Secretario de las vacantes en el rango de agregado diplomático, a fin de que convoque a un concurso anual de ingreso para cubrirlas e instale la Subcomisión de Ingreso.
+
+> <small>(REFORMADO, D.O.F. 25 DE ENERO DE 2002)</small>
 
 ###### Artículo 30.
 
-La Comisión de Ingreso será presidida por el Director General del Instituto Matías Romero de Estudios Diplomáticos e integrada por representantes de instituciones de educación superior, legalmente reconocidas, que tengan establecida la carrera de relaciones internacionales y el Director General que tenga bajo su cargo los asuntos concernientes al personal del Servicio Exterior, quien actuará como secretario de la misma.
+La Subcomisión de Ingreso estará integrada por:
 
-La Comisión de Ingreso verificará el cumplimiento de los requisitos establecidos en el artículo 32 de la presente Ley y organizará y calificará los exámenes.
+I. El Titular del Instituto Matías Romero, quien la presidirá;
+
+II. Dos representantes de instituciones de educación superior, legalmente reconocidas, una de las cuales deberá tener establecida la carrera de relaciones internacionales, y la otra cuando menos carreras afines a esta última;
+
+III. El Director General que tenga bajo su cargo los asuntos concernientes al personal del Servicio Exterior, quien actuará como secretario de la misma, y
+
+IV. Otra persona ajena a la Secretaría que tenga experiencia en recursos humanos.
+
+La Subcomisión de Ingreso verificará el cumplimiento de los requisitos establecidos en los artículos 32 y 33 de la presente Ley y organizará y calificará los exámenes de ingreso de las ramas diplomático-consular y técnico-administrativa del Servicio Exterior.
+
+> <small>(REFORMADO, D.O.F. 25 DE ENERO DE 2002)</small>
 
 ###### Artículo 31.
 
-Quienes fuesen admitidos en el Instituto Matías Romero de Estudios Diplomáticos recibirán, durante el tiempo que estudien en el mismo, un nombramiento provisional de agregado diplomático y tendrán las percepciones correspondientes a dicha categoría.
+Quienes sean admitidos en el Instituto Matías Romero para ingresar a la rama diplomático-consular serán considerados, durante el tiempo que estudien en el mismo, como becarios y tendrán las percepciones que determine la Secretaría, así como durante su periodo de práctica en esta última.
 
-Al término de los cursos impartidos por el Instituto, el personal aprobado mantendrá su nombramiento provisional de agregado diplomático por un año más, sin ser considerado personal de carrera.
-
-Transcurrido dicho año, la Comisión de Personal evaluará su desempeño en la Secretaría para determinar si recomienda su nombramiento definitivo en el Servicio Exterior y, en su caso, el ascenso a tercer secretario y su adscripción en la Secretaría o en el exterior.
+Transcurrido el periodo al que se refieren las fracciones VII y VIII del artículo 28 de la presente Ley, la Comisión de Personal evaluará su desempeño en la Secretaría para determinar si recomienda su nombramiento como agregado diplomático. Después de seis meses podrán ser ascendidos a terceros secretarios como resultado de la evaluación de su desempeño.
 
 ###### Artículo 32.
 
 Los candidatos a ingresar a la rama diplomático-consular deberán cumplir con los siguientes requisitos:
 
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2002)</small>
 
-I. Ser mexicanos por nacimiento que no adquieran otra nacionalidad, además de estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+I. Ser mexicano por nacimiento y no tener otra nacionalidad, en pleno ejercicio de sus derechos civiles y políticos.
 
-II. Ser menores de 30 años de edad. En casos excepcionales, la Comisión de Ingreso podrá dispensar este requisito si a su juicio así lo ameritan el perfil académico y profesional del aspirante;
+Los mexicanos por nacimiento a los que otro Estado considere como sus nacionales, deberán presentar el certificado de nacionalidad mexicana y el documento de renuncia de la otra nacionalidad;
+
+> <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2002)</small>
+
+II. Ser menores de 30 años de edad. En casos excepcionales, la Comisión de Personal podrá dispensar este requisito si a su juicio así lo amerita el perfil académico y profesional del aspirante;
 
 III. Tener buenos antecedentes;
 
@@ -300,27 +524,49 @@ IV. Ser apto física y mentalmente para el desempeño de las funciones del Servi
 
 V. No pertenecer al estado eclesiástico ni ser ministro de algún culto; y
 
-VI. Tener por lo menos el grado académico de licenciatura por una universidad o institución de enseñanza superior mexicana o extranjera, cuyo nivel de estudios sea satisfactorio a juicio de la Comisión de Ingreso.
+> <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2002)</small>
+
+VI. Tener por lo menos el grado académico de licenciatura por una universidad o institución de enseñanza superior mexicana o extranjera, con reconocimiento de validez oficial.
+
+> <small>(REFORMADO, D.O.F. 25 DE ENERO DE 2002)</small>
 
 ###### Artículo 33.
 
-El ingreso como personal de carrera a la rama técnico-administrativa será mediante examen público cuyas modalidades fijará la Secretaría y será en el nivel de técnico-administrativo "C". Los requisitos para ingresar serán los mismos que se señalan para la rama diplomático-consular, con excepción del requerimiento del grado académico, para el que será suficiente haber completado la educación media superior y el dominio de un idioma extranjero de utilidad para la diplomacia.
+El ingreso como personal de carrera a la rama técnico-administrativa se realizará:
+
+I. Por oposición, mediante concursos públicos que se llevarán a cabo según las necesidades de la Secretaría, preferentemente cada dos años, bajo las modalidades que establecerá el Reglamento de la presente Ley;
+
+II. Los requisitos para ingresar serán los mismos que se señalan para la rama diplomático-consular, con excepción del requerimiento del grado académico, para el que será suficiente haber completado la educación media superior y el dominio de un idioma extranjero de utilidad para la diplomacia, preferentemente el inglés;
+
+III. Quienes obtengan las calificaciones más altas en el concurso de ingreso a la rama técnico-administrativa recibirán una beca con las percepciones que determine la Secretaría y deberán acreditar un curso de capacitación en el Instituto Matías Romero con duración máxima de tres meses;
+
+IV. Concluidos los cursos a que se refiere el párrafo anterior, deberá acreditarse una práctica de tres meses en la Secretaría, y
+
+V. Al término de dicha práctica, y previa recomendación de la Comisión de Personal, se otorgará un nombramiento de Técnico-Administrativo C.
+
+El ingreso a esta rama será en el nivel de Técnico-Administrativo C.
+
+> <small>(REFORMADO, D.O.F. 25 DE ENERO DE 2002)</small>
 
 ###### Artículo 34.
 
-Los miembros de la rama diplomático-consular con nombramiento temporal, así como los funcionarios de la Secretaría, podrán ingresar al Servicio Exterior como personal de carrera siempre que cumplan con los requisitos de ingreso previstos en la presente Ley y obtengan una evaluación favorable de su desempeño por parte de la Comisión de Personal.
+El personal temporal o asimilado de la rama diplomático-consular y técnico-administrativa, así como los funcionarios de la Secretaría, podrán ingresar al Servicio Exterior como personal de carrera de la rama diplomático-consular siempre que cumplan con los requisitos de ingreso previstos en las fracciones I, III, IV, V y VI del artículo 32 de la presente Ley y obtengan una evaluación favorable de su desempeño por parte de la Comisión de Personal.
 
-Los requisitos de antigüedad que deberán cumplir los funcionarios de la Secretaría o aquéllos que tengan un nombramiento temporal en el Servicio Exterior, y las categorías en las que podrán ingresar como personal de carrera, son las siguientes:
+Asimismo, deberán cumplir los siguientes requisitos para ingresar a los rangos que a continuación se indican:
 
-I. Ingreso como Tercer Secretario. Se requerirá una antigüedad mínima de dos años, participar en el concurso de ingreso al Servicio Exterior y aprobar todas sus etapas;
+I. Ingreso como Segundo Secretario: Se requerirá una antigüedad mínima de cuatro años, un máximo de edad de 37 años y satisfacer el contenido de las fracciones II, III, V y VI del artículo 28. Asimismo, deberá participar en el concurso de ascenso para optar por el rango de Segundo Secretario y obtener una de las plazas sujetas a concurso;
 
-II. Ingreso como Segundo Secretario. Se requerirá una antigüedad mínima de cuatro años, participar en el concurso de ingreso al Servicio Exterior y aprobar todas sus etapas. Asimismo, deberá participar en el concurso de ascenso para optar por la categoría de Segundo Secretario y obtener una de las plazas sujetas a concurso;
+II. Ingreso como Primer Secretario: Se requerirá una antigüedad mínima de seis años, un máximo de edad de 39 años y satisfacer el contenido de las fracciones II, III, V y VI del artículo 28. Asimismo, deberá participar en el concurso de ascenso para optar por el rango de Primer Secretario y obtener una de las plazas sujetas a concurso, y
 
-III. Ingreso como Primer Secretario. Se requerirá una antigüedad mínima de seis años, participar en el concurso de ingreso al Servicio Exterior y aprobar todas sus etapas. Asimismo, deberá participar en el concurso de ascenso para optar por la categoría de Primer Secretario y obtener una de las plazas sujetas a concurso;
+III. Ingreso como Consejero: Se requerirá una antigüedad mínima de ocho años, un máximo de edad de 41 años y satisfacer el contenido de las fracciones II, III, V y VI del artículo 28. Asimismo, deberá participar en el concurso de ascenso para optar por el rango de Consejero y obtener una de las plazas sujetas a concurso.
 
-IV. Ingreso como Consejero. Se requerirá una antigüedad mínima de ocho años, participar en el concurso de ingreso al Servicio Exterior y aprobar todas su etapas. Asimismo, deberá participar en el concurso de ascenso para optar por la categoría de Consejero y obtener una de las plazas sujetas a concurso.
+Para los efectos del presente artículo, a juicio de la Comisión de Personal, podrá ser dispensado el requisito de edad.
 
-En los casos de las fracciones II, III y IV de este artículo, si el interesado no logra obtener la plaza de la categoría por la que optó originalmente en el concurso de ascenso, podrá quedar con el rango de Tercer Secretario, si hubiere aprobado el concurso de ingreso en todas sus etapas.
+Los aspirantes al rango de Consejero deberán, además, aprobar el examen de media carrera a que se refiere el artículo 38.
+
+A más tardar seis meses después de satisfechos los requisitos de ingreso al rango de Consejero, quienes hayan obtenido dicho rango serán comisionados a una adscripción de tipo consular, de conformidad con la definición que de ésta establezca el Reglamento de la presente Ley.
+
+El ingreso al Servicio Exterior, conforme a este artículo, sólo podrá tener lugar cuando la Secretaría disponga de plazas nuevas en cada uno de los rangos de Segundo Secretario, Primer Secretario y Consejero. Independientemente del número de plazas de que se disponga, siempre se concursará el mismo número de ellas en cada uno de los rangos mencionados.
 
 ###### Artículo 35.
 
@@ -350,39 +596,119 @@ I. La evaluación del expediente de los aspirantes a ascenso en función de las 
 
 a) Méritos y eficiencia demostrados en el desempeño de sus cargos y comisiones; y
 
-b) Mayor antigüedad en la categoría y en el servicio
+> <small>(REFORMADO, D.O.F., 25 DE ENERO DE 2002)</small>
 
-II. Exámenes escritos y orales para determinar la preparación académica de los aspirantes a ascenso. Puntuación adicional podrá otorgarse por obras o trabajos publicados, estudios realizados y títulos académicos obtenidos con posterioridad al último ascenso, siempre que sean relevantes para las relaciones internacionales de México.
+b) Potencial de desarrollo y capacidad para asumir mayores responsabilidades;
 
-La evaluación de los expedientes personales será dada a conocer a los interesados con anticipación a la celebración de los exámenes, y el resultado final de los concursos será del dominio público.
+> <small>(ADICIONADO, D.O.F., 25 DE ENERO DE 2002)</small>
 
-El Secretario de Relaciones Exteriores acordará los ascensos del personal de carrera en las restantes categorías del Servicio Exterior, previa recomendación de la Comisión de Personal que, al efecto, evaluará los expedientes personales y formulará sus recomendaciones tomando en cuenta los méritos, la preparación académica y las antigüedades del personal, de conformidad con el Reglamento de esta Ley.
+c) La antigüedad en el rango y en el servicio, que será definitoria en igualdad de circunstancias, y
+
+> <small>(REFORMADA, D.O.F., 25 DE ENERO DE 2002)</small>
+
+II. Exámenes escritos y orales para determinar la capacidad de los aspirantes a ascenso.
+
+Conforme el Reglamento de esta Ley, podrá otorgarse puntuación adicional por obras o trabajos publicados, estudios realizados y títulos académicos obtenidos con posterioridad al último ascenso, siempre que sean relevantes para las relaciones internacionales de México.
+
+El resultado final de los concursos será del dominio público e inapelable.
+
+> <small>(ADICIONADO, D.O.F., 25 DE ENERO DE 2002)</small>
+
+No podrán presentarse a concurso de ascensos quienes se encuentren en disponibilidad conforme a la presente Ley.
+
+> <small>(ADICIONADO, D.O.F., 25 DE ENERO DE 2002)</small>
+
+El Secretario acordará los demás ascensos del personal de carrera previa recomendación de la Comisión de Personal una vez que reciba de la Subcomisión de Evaluación, las evaluaciones de los expedientes personales u hoja de servicios según el caso. En la evaluación se tomará en cuenta los méritos, la preparación académica y las antigüedades del personal, de conformidad con el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, D.O.F., 25 DE ENERO DE 2002)</small>
+
+###### Artículo 37
+
+BIS.- La evaluación de los expedientes personales será realizada por la Subcomisión de Evaluación y dada a conocer a los interesados con anticipación a la celebración de los exámenes.
+
+La Subcomisión de Evaluación se integrará por:
+
+I. El Presidente de la Comisión de Personal, quien la presidirá;
+
+II. El Titular del Instituto Matías Romero;
+
+III. El Director General que tenga bajo su cargo los asuntos concernientes al personal del Servicio Exterior, según lo disponga el Reglamento Interior de la Secretaría, y
+
+IV. Dos miembros del Servicio Exterior con rango mínimo de Consejero o de coordinador administrativo propuestos por el Presidente de la Comisión de Personal y aprobados por el Secretario.
+
+> <small>(REFORMADO, D.O.F., 25 DE ENERO DE 2002)</small>
 
 ###### Artículo 38.
 
-En ningún caso se podrá ascender o participar en concursos de ascenso sin antes haber cumplido un año de antigüedad como mínimo en la categoría en que se encuentre.
+En ningún caso se podrá ascender o participar en concursos de ascenso sin antes haber cumplido dos años de antigüedad como mínimo en el rango al que pertenezca.
 
-Para ascender a la categoría de Consejero se requiere una antigüedad mínima de ocho años como funcionario en el Servicio Exterior o en la Secretaría.
+Para ascender al rango de Consejero se requiere además, una antigüedad mínima de ocho años como funcionario en el Servicio Exterior o en la Secretaría, haber estado comisionado a una adscripción de tipo consular y aprobar un examen que se denominará -de media carrera- conforme a los términos de la presente Ley y su Reglamento.
 
-En el caso de ascenso a Ministro se requiere haber estado adscrito tanto en la Secretaría, como en alguna misión diplomática u oficina consular.
+> <small>(REFORMADO, D.O.F., 25 DE ENERO DE 2002)</small>
 
 ###### Artículo 39.
 
-En caso de que un Tercer Secretario, Segundo Secretario, Primer Secretario o Consejero del personal de carrera de la rama diplomático-consular no hubiere ascendido a la categoría inmediata superior en un plazo de siete años, la Comisión de Personal rendirá un informe al Secretario de Relaciones Exteriores, en el cual expresará si el funcionario ha aprobado los exámenes correspondientes, pero no ha habido plazas suficientes para su ascenso.
+El examen de media carrera a que se refiere el artículo anterior será presentado por los primeros secretarios. Es un requisito para permanecer en el Servicio Exterior y tiene como finalidad evaluar el desempeño laboral y profesional de los miembros del Servicio Exterior con vistas a determinar su capacidad para asumir mayores responsabilidades, especialmente la de titular de representaciones de México.
 
-De no ser esta la causa de la falta de movilidad escalafonaria, la Comisión determinará si se debe a falta de méritos suficientes para ascender, según la evaluación que se hubiere hecho del expediente del funcionario de que se trate, o a que no hubiere aprobado los exámenes de ascenso en tres ocasiones consecutivas
+El Instituto Matías Romero elaborará guías de estudio e impartirá cursos de capacitación para los participantes en el examen de media carrera.
+
+El examen será diseñado por profesionales bajo criterios que proporcionará el Instituto Matías Romero y podrán ser presentados en tres ocasiones como máximo dentro de los siguientes términos:
+
+I. Por primera vez durante los tres primeros años de haber ascendido al rango de primer secretario;
+
+II. Por segunda ocasión antes de cumplir cinco años en el rango, en caso de no haberlo aprobado en la primera, y
+
+III. Por tercera ocasión, antes de cumplir seis años en el rango.
+
+El resultado de los exámenes estará sujeto a revisión ante la Subcomisión de Evaluación dentro de los 3 días siguientes a la fecha en que se notifiquen al evaluado personalmente. La Subcomisión resolverá las solicitudes de revisión dentro de los quince días naturales siguientes a su recepción dando oportunidad al solicitante de expresar lo que a su derecho convenga en el proceso de revisión.
+
+Quien en la tercera ocasión no apruebe el examen causará baja inapelable del Servicio Exterior. En todo caso se le indemnizará en los términos que señalen esta Ley y su Reglamento.
+
+> <small>(REFORMADO, D.O.F., 25 DE ENERO DE 2002)</small>
 
 ###### Artículo 40.
 
-Si el informe preparado por la Comisión de Personal determina que la falta de ascenso se debe a alguna de las razones expresadas en el párrafo segundo del artículo anterior, el Secretario de Relaciones Exteriores podrá acordar una de las siguientes determinaciones:
+Como requisito de permanencia en el Servicio Exterior y a efecto de verificar que los miembros del Servicio Exterior hayan cumplido cabalmente con las obligaciones que les imponen los artículos 41 y 42 de la presente Ley y que continúen satisfaciendo los requisitos contenidos en las fracciones I, III, IV y V del artículo 32, la Secretaría, por medio de la Comisión de Personal, hará, cada cinco años, una evaluación a todos sus miembros.
 
-I. Convocar al funcionario de que se trate al siguiente concurso de ascenso. Esta medida sólo podrá autorizarse por una sola vez durante su carrera. Conforme al resultado que obtenga, la Comisión de Personal rendirá un nuevo informe al Secretario en los términos del artículo precedente;
+La evaluación a que se refiere el párrafo anterior podrá merecer la calificación de satisfactoria o insatisfactoria.
 
-II. Otorgar al funcionario una plaza en la rama técnico-administrativa, siempre y cuando tenga un buen expediente. Cuando proceda, se le indemnizará en los términos que señale el Reglamento; y
+> <small>(ADICIONADO, D.O.F., 25 DE ENERO DE 2002)</small>
 
-III. Separar al funcionario del Servicio Exterior. En todo caso, se le indemnizará en los términos que señale el Reglamento de esta Ley.
+###### Artículo 40
 
-Para los efectos del procedimiento establecido en el presente artículo, el funcionario será escuchado en los términos que establezca el Reglamento de esta Ley.
+BIS.- La evaluación a que se refiere el artículo 40 consiste de:
+
+I. Una revisión completa de la información que sobre el miembro del Servicio Exterior obre en la Secretaría, que incluirá particularmente, la consideración de los logros documentados que se hayan alcanzado, así como de las faltas cometidas o irregularidades detectadas durante los últimos cuatro años o durante el tiempo de pertenencia al Servicio Exterior si éste es menor a cuatro años, y
+
+II. En su caso, una investigación de las razones por las cuales el miembro del Servicio Exterior no ha ascendido desde su ingreso a la categoría inmediata superior dentro de los plazos máximos que se señalan a continuación:
+
+a) Ascenso a Segundo Secretario en un periodo de seis años,
+
+b) Ascenso a Primer Secretario en un periodo de nueve años,
+
+c) Ascenso a la categoría de Consejero en un periodo de doce años y
+
+d) Ascenso a la categoría de Ministro en un periodo de quince años.
+
+> <small>(ADICIONADO, D.O.F., 25 DE ENERO DE 2002)</small>
+
+###### Artículo 40
+
+TER.- La Comisión de Personal utilizará, primordialmente, los siguientes criterios para medir, en su evaluación, el grado de cumplimiento de las obligaciones establecidas en los artículos 41 y 42 de la presente Ley:
+
+I. Desarrollo alcanzado, méritos profesionales, méritos académicos, responsabilidades encomendadas, estímulos o reconocimientos y otros factores relevantes que sirvan como indicadores de un buen desempeño;
+
+II. Sanciones impuestas, procedimientos disciplinarios, faltas cometidas, quejas recibidas y otros factores relevantes que sirvan como indicadores de un deficiente desempeño;
+
+III. Si el evaluado ha realizado o se ha abstenido de llevar a cabo, actividades cuyas consecuencias hayan sido afectar negativamente la política exterior mexicana o el desarrollo de las funciones de la Secretaría o de sus representaciones en el exterior, y
+
+IV. Las evaluaciones para medir el grado del cumplimiento de las obligaciones del personal se señalarán en el Reglamento y cuidarán que se apliquen criterios de legalidad, objetividad y equidad.
+
+Si la conclusión de la Comisión de Personal respecto al miembro del Servicio Exterior evaluado es insatisfactoria, dicho resultado será notificado al interesado por la Comisión y éste podrá solicitar la revisión de la evaluación dentro del término de tres días hábiles posteriores a la recepción de la notificación.
+
+La Comisión deberá resolver las solicitudes de revisión dentro de los quince días naturales siguientes a su recepción dando oportunidad al solicitante de expresar lo que a su derecho convenga en el proceso de revisión.
+
+Si la conclusión de la revisión fuera nuevamente insatisfactoria, o si no se hubiere solicitado en tiempo la revisión correspondiente, el miembro del Servicio Exterior causará baja definitivamente del Servicio Exterior sin posibilidad de volver a incorporarse a él. En todo caso, se le indemnizará en los términos que señalen esta Ley y su Reglamento.
 
 ### CAPITULO IX. De los derechos y las prestaciones de los miembros del Servicio Exterior Mexicano
 
@@ -392,6 +718,10 @@ Es obligación de todo miembro del Servicio Exterior actuar con apego a la legal
 
 Sin perjuicio de las inmunidades y privilegios que les correspondan, deberán respetar las leyes y reglamentos del Estado ante cuyo gobierno estén acreditados y observar las costumbres sociales del país y la práctica diplomática internacional.
 
+> <small>(ADICIONADO, D.O.F., 25 DE ENERO DE 2002)</small>
+
+Asimismo, en términos de la legislación aplicable, los miembros del Servicio Exterior deberán abstenerse de incurrir en conductas de naturaleza partidista o electoral incompatibles con el desempeño de su función pública, y de realizar declaraciones que comprometan los intereses del país.
+
 ###### Artículo 42.
 
 Los miembros del Servicio Exterior deberán guardar discreción absoluta acerca de los asuntos que conozcan con motivo de su desempeño oficial. Esta obligación subsistirá aún después de abandonar el Servicio Exterior, cuando se trate de asuntos cuya divulgación pudiera causar perjuicio a los intereses nacionales.
@@ -400,7 +730,9 @@ Los miembros del Servicio Exterior deberán guardar discreción absoluta acerca 
 
 Corresponde a los jefes de misión:
 
-I. Mantener informada a la Secretaría sobre los principales aspectos de la vida política, económica, social y cultural del Estado ante cuyo Gobierno estén acreditados, así como de sus relaciones internacionales, en los términos de las instrucciones recibidas de la propia Secretaría;
+> <small>(REFORMADO, D.O.F., 25 DE ENERO DE 2002)</small>
+
+I. Mantener informada a la Secretaría sobre los principales aspectos de la vida política, económica, social y cultural del Estado ante cuyo Gobierno u organismo internacional estén acreditados, así como de sus relaciones internacionales, en los términos de las instrucciones recibidas de la propia Secretaría;
 
 II. Representar a México ante los organismos internacionales y en reuniones de carácter intergubernamental y mantener informada a la Secretaría de las principales actividades de dichos organismos o que se desarrollen en esas reuniones. En todo caso, normarán su conducta por las instrucciones que reciban de la propia Secretaría;
 
@@ -428,9 +760,17 @@ VII. Prestar el apoyo y la cooperación que demande la misión diplomática de l
 
 Los jefes de oficina consular podrán delegar en funcionarios subalternos el ejercicio de una o varias de las facultades señaladas en el presente artículo, sin perder por ello su ejercicio ni eximirse de la responsabilidad por su ejecución. La delegación se hará en los términos que establezca el Reglamento de la presente Ley.
 
+> <small>(REFORMADO, D.O.F., 25 DE ENERO DE 2002)</small>
+
 ###### Artículo 45.
 
-Es obligación de los jefes de misiones diplomáticas, de representaciones consulares y de unidades administrativas de la Secretaría, informar cada seis meses y con base en las actuaciones desarrolladas por los miembros del Servicio Exterior a sus órdenes sobre su aptitud, comportamiento y diligencia, sin perjuicio de hacerlo cada vez que lo estimen necesario. El personal evaluado tendrá derecho a conocer el contenido del informe sobre su desempeño y de expresar en el mismo la opinión que considere pertinente.
+Es obligación de los jefes de misiones diplomáticas, de representaciones consulares y de unidades administrativas de la Secretaría informar durante el mes de junio de cada año y con base en las actuaciones desarrolladas por los miembros del Servicio Exterior a sus órdenes, sobre su aptitud, comportamiento y diligencia, sin perjuicio de hacerlo cada vez que lo estimen necesario.
+
+Asimismo, dichos funcionarios deberán informar con diligencia a la Comisión de Personal sobre todas aquellas faltas o violaciones a las disposiciones de la presente Ley y su Reglamento que cometan sus subordinados, estando facultados para imponer en su caso, amonestaciones y apercibimientos.
+
+El personal del Servicio Exterior de carrera de los rangos de tercer secretario a consejero presentará a la Comisión de Personal, durante el mes de junio de cada año, una "auto-evaluación" en los términos que señale el Reglamento de esta Ley.
+
+Asimismo, el personal de carrera elaborará, durante el mes de junio de cada año, un informe sobre el desempeño del titular de la misión diplomática, representación consular o unidad administrativa de la Secretaría a que se encuentre adscrito. Este informe se elaborará conforme a los términos que señale el Reglamento de esta Ley, será confidencial y remitido a la Comisión de Personal.
 
 ###### Artículo 46.
 
@@ -444,6 +784,8 @@ III. Desempeñar cualquier gestión diplomática o consular de otro país, sin a
 
 ### CAPITULO X. De la separación del Servicio Exterior Mexicano
 
+> <small>(REFORMADO, D.O.F., 25 DE ENERO DE 2002)</small>
+
 ###### Artículo 47.
 
 Los miembros del Servicio Exterior gozarán, durante su permanencia en comisión oficial en el extranjero, de los siguientes derechos y prestaciones:
@@ -456,9 +798,13 @@ I BIS. Los hijos nacidos en el extranjero, de los miembros del Servicio Exterior
 
 II. Tendrán las percepciones que fije el Presupuesto de Egresos de la Federación y las prestaciones que establezca esta Ley, su Reglamento y, en su caso, la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-III. La Secretaría cubrirá a los miembros del Servicio Exterior que sean trasladados a una nueva adscripción sus gastos de transporte e instalación, incluyendo a su cónyuge y familiares dependientes económicos, hasta el segundo grado en línea recta, ascendiente o descendiente, que vivan con ellos en su lugar de adscripción, en los términos que fije el Reglamento. De igual manera se les cubrirán los gastos de empaque, transporte y seguro de menaje de casa familiar;
+> <small>(REFORMADA, D.O.F., 25 DE ENERO DE 2002)</small>
 
-IV. Podrán importar y exportar, libres de pago de impuestos aduanales, sus equipajes y objetos de menaje de casa cuando salgan comisionados al extranjero, regresen al país por término de su comisión o por estar en disponibilidad, ajustándose a lo previsto en las leyes de la materia;
+III. La Secretaría cubrirá a los miembros del Servicio Exterior que sean trasladados a cualquier adscripción en México o en el extranjero, los gastos de transporte e instalación, incluyendo a su cónyuge y familiares dependientes económicos en primer grado en línea recta, ascendiente o descendiente, que vivan con ellos en su lugar de adscripción, en los términos que fije el Reglamento. De igual manera se les cubrirán los gastos de empaque, transporte y seguro de menaje de casa familiar;
+
+> <small>(REFORMADA, D.O.F., 25 DE ENERO DE 2002)</small>
+
+IV. Podrán importar y exportar, libres de pago de impuestos aduanales, sus equipajes y objetos de menaje de casa cuando salgan comisionados al extranjero, regresen al país por término de su comisión o por estar en licencia o disponibilidad, ajustándose a lo previsto en las leyes de la materia;
 
 V. La exención a que alude la fracción anterior se extenderá a los automóviles pertenecientes a los miembros del Servicio Exterior de acuerdo a las normas aplicables;
 
@@ -470,15 +816,19 @@ VIII. Las autoridades educativas del país revalidarán los estudios que hayan r
 
 IX. Los demás que se desprendan de la presente Ley y su Reglamento.
 
+> <small>(REFORMADO, D.O.F., 25 DE ENERO DE 2002)</small>
+
 ###### Artículo 48.
 
-Los miembros del Servicio exterior comisionados en el extranjero gozarán de 30 días de vacaciones al año, pudiendo acumular hasta 60 días continuos. La Secretaría cubrirá a los miembros del Servicio Exterior, cada dos años, el importe de sus pasajes del lugar de su adscripción a México y regreso, siempre que tengan acumulados por lo menos 30 días de vacaciones. Esta prestación se extenderá al cónyuge y a sus familiares dependientes económicos hasta el segundo grado en línea recta, ascendiente o descendiente, que vivan con él o ella, según el caso.
+Los miembros del Servicio Exterior comisionados en el extranjero gozarán de 30 días de vacaciones al año, pudiendo acumular hasta 60 días continuos. La Secretaría cubrirá a los miembros del Servicio Exterior, cada dos años, el importe de sus pasajes del lugar de su adscripción a México y de regreso. Esta prestación incluye al cónyuge y a sus familiares dependientes económicos hasta el primer grado en línea recta, ascendiente o descendiente, que vivan con él o ella, según el caso. Tratándose de los hijos de los miembros del Servicio Exterior esta prestación será extensiva únicamente a los menores de 18 años siempre que vivan con él o ella, según el caso.
 
-La Comisión de Personal podrá recomendar al Secretario, en los casos de lugares muy alejados del territorio nacional o de condiciones de vida difícil, que esta prestación se otorgue cada 18 meses, siempre que tengan acumulados, por lo menos, 30 días de vacaciones.
+La Comisión de Personal podrá recomendar al Secretario, en los casos de adscripciones de condiciones de vida difícil, que esta prestación se otorgue cada doce meses.
+
+> <small>(REFORMADO, D.O.F., 25 DE ENERO DE 2002)</small>
 
 ###### Artículo 49.
 
-La Secretaría contratará, en los términos del Reglamento, un seguro de gastos médicos para los miembros del Servicio Exterior comisionados en el extranjero, que incluirá a su cónyuge y a sus dependientes económicos directos.
+La Secretaría contratará, en los términos del Reglamento, un seguro de gastos médicos para los miembros del Servicio Exterior comisionados en el extranjero, que incluirá a su cónyuge y a sus dependientes económicos hasta el primer grado en línea recta, ascendiente o descendiente, que vivan con él o ella, según el caso. Tratándose de los hijos de los miembros del Servicio Exterior esta prestación será extensiva únicamente a los menores de 18 años siempre que vivan con él o ella, según el caso.
 
 ###### Artículo 50.
 
@@ -492,73 +842,113 @@ Igualmente, la Secretaría podrá conceder licencia por cualquier otra causa jus
 
 Los miembros del Servicio Exterior disfrutarán de los gastos de representación, viáticos y demás remuneraciones y prestaciones que se les asignen de acuerdo con el Presupuesto de Egresos de la Federación.
 
-El miembro del Servicio Exterior que con motivo de la ausencia del jefe de misión diplomática o del titular de un consulado quede acreditado como encargado de negocios o como encargado de la representación consular, recibirá como sobresueldo una cantidad igual a la mitad de su sueldo y gastos de representación, a menos que otras disposiciones consignen condiciones más favorables, en cuyo caso se aplicarán dichas previsiones.
+> <small>(REFORMADO, D.O.F., 25 DE ENERO DE 2002)</small>
+
+El miembro del Servicio Exterior que con motivo de la ausencia del jefe de misión diplomática o del titular de un consulado quede acreditado como encargado de negocios o como encargado de la representación consular, recibirá, conforme a lo dispuesto por el Reglamento una compensación por encargaduría, a menos que otras disposiciones consignen condiciones más favorables, en cuyo caso se aplicarán dichas previsiones.
 
 A su vez y en tanto otros ordenamientos no consignen condiciones más favorables, los miembros del Servicio Exterior que sean nombrados para ocupar un puesto en el extranjero, trasladados a otro lugar o llamados del extranjero a prestar sus servicios en la Secretaría, tendrán derecho a gastos de instalación que se ministrarán en la siguiente proporción del total de sus percepciones mensuales en el extranjero:
 
 a) El equivalente a un mes y medio para el personal de la rama técnico-administrativa; y
 
-b) El equivalente a un mes para el personal de la rama diplomático-consular, con excepción de los embajadores, quienes recibirán el equivalente a medio mes.
+> <small>(REFORMADO, D.O.F., 25 DE ENERO DE 2002)</small>
+
+b) El equivalente a un mes para el personal de la rama diplomático-consular, con excepción de los jefes de misión diplomática o titulares de consulados generales a quienes la Secretaría proporcione residencia oficial, quienes recibirán el equivalente a medio mes.
 
 En los términos del Reglamento de la presente Ley, se asignarán gastos de orden social y de sostenimiento a las misiones diplomáticas y representaciones consulares.
 
+> <small>(REFORMADO, D.O.F., 25 DE ENERO DE 2002)</small>
+
 ###### Artículo 52.
 
-Los integrantes del personal de carrera del Servicio Exterior podrán quedar en disponibilidad sin goce de sueldo ni prestaciones cuando así lo soliciten, siempre que hayan prestado servicios por lo menos durante cinco años en el Servicio Exterior, y así lo acuerde el Secretario de Relaciones Exteriores, previo dictamen de la Comisión de Personal. Durante la disponibilidad, que podrá extenderse hasta tres años, los miembros del Servicio Exterior no podrán tener ascenso alguno ni se les computará ese tiempo para efectos legales.
+Los integrantes del personal de carrera del Servicio Exterior podrán quedar en disponibilidad hasta por tres años. Durante ese lapso, los miembros del Servicio Exterior no podrán tener ascenso alguno, no se les computará ese tiempo para efectos legales y no gozarán de sueldo ni prestaciones.
+
+> <small>(ADICIONADO, D.O.F., 25 DE ENERO DE 2002)</small>
+
+###### Artículo 52
+
+BIS.- La disponibilidad deberá solicitarse por escrito a la Dirección General del Servicio Exterior y de Personal de la Secretaría, la que a su vez la turnará a la Comisión de Personal, a efecto de que en un término máximo de 30 días dé respuesta al interesado, quien no podrá abandonar su lugar de adscripción en tanto no reciba la respuesta correspondiente.
+
+El escrito deberá expresar las causas o motivos de la solicitud y se regirá por los siguientes criterios:
+
+I. Podrá ser concedida una sola vez durante la carrera, por recomendación de la Comisión de Personal y aprobación del Secretario, siempre que se cuente con una antigüedad mínima de cinco años en el Servicio Exterior de carrera;
+
+II. No podrá unirse a licencias, comisiones u otras separaciones temporales debiendo mediar entre ellas un lapso mínimo de 6 meses, y
+
+III. Por necesidades del servicio, la disponibilidad podrá ser revocada, previa recomendación de la Comisión de Personal, y si así lo acuerda el Secretario, mediante notificación al interesado que realizará, con 3 meses de antelación, la Dirección General del Servicio Exterior y de Personal de la Secretaría. Quienes no se presenten a laborar en la fecha señalada causarán baja conforme a lo dispuesto en la fracción I del artículo 58 de esta Ley.
 
 ### CAPITULO XI. De las sanciones administrativas
 
+> <small>(REFORMADO, D.O.F., 25 DE ENERO DE 2002)</small>
+
 ###### Artículo 53.
 
-Se causará baja en el Servicio Exterior Mexicano:
+Los miembros del Servicio Exterior sólo podrán ser separados de sus cargos ya sea temporalmente por medio de suspensión como consecuencia de la aplicación de una sanción administrativa y, en forma definitiva, por baja y destitución como consecuencia de una sanción administrativa, en términos de la presente Ley y su Reglamento.
 
-I. Por Renuncia;
+> <small>(ADICIONADO, D.O.F., 25 DE ENERO DE 2002)</small>
+
+###### Artículo 53
+
+BIS.- Son causas de baja del Servicio Exterior las siguientes:
+
+I. Por renuncia;
 
 II. Por jubilación;
 
 III. Por declaración de estado de interdicción mediante sentencia que cause ejecutoria;
 
-IV. Por dejar de cumplir con alguno de los requisitos señalados en las fracciones I, IV y V del artículo 32 de la presente Ley; y
+IV. Por incumplir una orden de traslado;
 
-V. Por encontrarse en el supuesto de la fracción III del artículo 40 de la presente Ley.
+V. Por no presentarse al término de una comisión, disponibilidad o licencia a reanudar sus funciones. En los dos primeros casos ante la Dirección General y, en el tercero, en el lugar en el que se encontraba adscrito;
+
+VI. Por dejar de cumplir con los requisitos señalados en el artículo 32, fracciones I, III y IV de la Ley;
+
+VII. Por reprobar el examen de media carrera en términos de lo previsto en el artículo 39 de la presente Ley, y
+
+VIII. Por no obtener una evaluación satisfactoria en términos de lo dispuesto por los artículos 40, 40-BIS y 40-TER, de esta Ley.
+
+> <small>(REFORMADO, D.O.F., 25 DE ENERO DE 2002)</small>
 
 ###### Artículo 54.
 
-Los miembros del Servicio Exterior que se separen de éste por causas que no sean consecuencia de una sanción, recibirán, por una sola vez, como compensación por cada año de servicios, el importe correspondiente a un mes del último sueldo que hubieren disfrutado, con el límite máximo de doce meses. Se deducirán los períodos de suspensión temporal y de licencias, salvo las económicas que concedan a cuenta de vacaciones.
+Los miembros del Servicio Exterior de carrera que se separen definitivamente de éste, recibirán por una sola vez, como compensación por cada año de servicio, el importe correspondiente a un mes del último sueldo que hubieren disfrutado, con el límite máximo de veinticuatro meses, con excepción de aquellos que hubiesen sido destituidos del Servicio Exterior como consecuencia de una sanción y en los casos previstos en las fracciones IV y V del artículo anterior.
 
-En caso de fallecimiento, la compensación se entregará al beneficiario que hubiese designado, o en su defecto, a su legítimos herederos.
+Los periodos de suspensión temporal, disponibilidad y licencias sin goce de sueldo, no se contabilizarán como tiempo de servicio.
+
+En caso de fallecimiento, la compensación se entregará al beneficiario que el miembro del Servicio Exterior hubiese designado o, en su defecto, a sus legítimos herederos.
+
+> <small>(REFORMADO, D.O.F., 25 DE ENERO DE 2002)</small>
 
 ###### Artículo 55.
 
-Causarán baja por jubilación los miembros del personal de carrera del Servicio Exterior que cumplan 65 años de edad, con excepción de los embajadores y cónsules generales, cuyo retiro sólo puede ser acordado por el Presidente de la República.
+Causarán baja por jubilación los miembros de carrera del Servicio Exterior que cumplan 65 años de edad.
+
+Los miembros de carrera del Servicio Exterior que durante los 10 años anteriores a su jubilación no hayan sido objeto de sanciones, serán jubilados en el rango inmediato superior.
+
+> <small>(REFORMADO, D.O.F., 25 DE ENERO DE 2002)</small>
 
 ###### Artículo 56.
 
-Los gastos de funerales de los miembros del Servicio Exterior fallecidos en el extranjero, incluyendo el traslado de los restos a México serán por cuenta de la Secretaría.
+Los gastos de funerales de los miembros del Servicio Exterior, de su cónyuge, de sus dependientes económicos hasta el primer grado en línea recta, ascendiente o descendiente, que vivan con él o ella, según el caso, fallecidos en el extranjero o en delegaciones foráneas, incluyendo el traslado de sus restos a México, serán por cuenta de la Secretaría.
 
 ###### Artículo 57.
 
-Los miembros del Servicio Exterior que incurran en responsabilidad por incumplimiento de sus obligaciones serán sancionados de conformidad con lo establecido en la presente Ley y en la Ley Federal de Responsabilidades de los Servidores Públicos.
-
 Las sanciones por faltas administrativas consistirán en:
 
-I. Apercibimiento privado o público;
+I. Suspensión;
 
-II. Amonestación privada o pública;
+II. Destitución, y
 
-III. Suspensión;
+III. Sanción Económica.
 
-IV. Destitución;
-
-V. Sanción económica; y
-
-VI. Inhabilitación para poder reingresar al Servicio Exterior o desempeñar algún puesto, cargo o comisión temporales en el mismo.
+En todos los casos de destitución el sancionado quedará inhabilitado para reingresar al Servicio Exterior o desempeñar algún puesto, cargo o comisión temporal en el mismo.
 
 ###### Artículo 58.
 
 Darán motivo a la aplicación de sanciones administrativas las siguientes conductas de los miembros del Servicio Exterior:
 
-I. Abandonar el empleo;
+> <small>(REFORMADA, D.O.F., 25 DE ENERO DE 2002)</small>
+
+I. Abandonar el empleo, entendiendo por éste la falta a las labores por más de tres días consecutivos sin causa justificada;
 
 II. Violar las obligaciones de los miembros del Servicio Exterior establecidas en el Capítulo VIII de la presente Ley;
 
@@ -566,7 +956,7 @@ III. Incurrir en el incumplimiento de alguna de las obligaciones previstas en el
 
 IV. Actuar con deslealtad al país o a sus instituciones;
 
-V. Estar sujeto a proceso por delito intencional;
+V. (DEROGADA, D.O.F., 25 DE ENERO DE 2002)
 
 VI. Ser condenado por sentencia dictada por delito intencional;
 
@@ -576,47 +966,109 @@ VIII. Incurrir en morosidad, descuido manifiesto o ineptitud comprobada en el de
 
 IX. Hacer uso ilícito o con fines de provecho personal de las franquicias, valijas, correos diplomáticos, recursos financieros y materiales, así como las inmunidades y privilegios inherentes al cargo;
 
-X. Expedir documentación consular o migratoria contraviniendo deliberadamente las normas aplicables o con fines ilícitos;
+> <small>(REFORMADA, D.O.F., 25 DE ENERO DE 2002)</small>
 
-XI. Desobedecer deliberadamente las instrucciones de la Secretaría o del jefe superior, siempre y cuando éstas no supongan la comisión de un ilícito; y
+X. Expedir documentación consular o migratoria contraviniendo las normas aplicables con fines ilícitos;
+
+> <small>(REFORMADA, D.O.F., 25 DE ENERO DE 2002)</small>
+
+XI. Desobedecer las instrucciones de la Secretaría o del jefe superior;
 
 XII. Incurrir en incumplimiento habitual de los compromisos económicos en el extranjero.
 
+> <small>(ADICIONADA, D.O.F., 25 DE ENERO DE 2002)</small>
+
+XIII. Incumplir con la obligación a que se refiere el segundo párrafo del artículo 45 de esta Ley, así como incumplir o cumplir a destiempo con la presentación del informe a que se refiere dicha disposición, y
+
+> <small>(ADICIONADA, D.O.F., 25 DE ENERO DE 2002)</small>
+
+XIV. Por violar lo dispuesto en el párrafo tercero del artículo 41 del presente ordenamiento.
+
+> <small>(REFORMADO, D.O.F., 25 DE ENERO DE 2002)</small>
+
 ###### Artículo 59.
 
-En el caso de las faltas previstas en las fracciones I, IV, VI y VII del artículo anterior procederá la destitución del miembro del Servicio Exterior.
+La Subcomisión de Asuntos Disciplinarios conocerá de las faltas de los miembros del Servicio Exterior que ameriten la imposición de sanciones administrativas y estará compuesta por:
 
-En el caso de la fracción V procederá la suspensión, misma que podrá prolongarse hasta el término del proceso. En estos casos la Secretaría podrá autorizar, cuando la familia carezca de otros medios de subsistencia, que se le cubra el cincuenta por ciento de sus percepciones. Se le cubrirá el total de ellas si fuere absuelto.
+I. El Presidente de la Comisión de Personal, quien la presidirá;
 
-En los demás casos contemplados en el artículo anterior, las sanciones que se impondrán serán las señaladas en el artículo 57 de la presente Ley, tomando en cuenta lo dispuesto en los artículos 54 y 55 de la Ley Federal de Responsabilidades de los Servidores Públicos.
+II. El Director General que tenga bajo su cargo los asuntos concernientes al personal del Servicio Exterior, según lo disponga el Reglamento Interior de la Secretaría;
 
-En caso de destitución, el miembro del Servicio Exterior sancionado quedará inhabilitado de manera definitiva para reingresar a éste.
+III. El Director General de Asuntos Jurídicos de la Secretaría, y
+
+IV. Un representante de la Secretaría de la Contraloría y Desarrollo Administrativo con nivel de Director General, que podrá ser quien ejerza las funciones de Contralor Interno en la Secretaría.
+
+Será necesaria la presencia de todos los integrantes de la Subcomisión para que ésta pueda sesionar en forma válida y sus resoluciones se adoptarán por mayoría de votos.
+
+En las sesiones de la Comisión de Personal en las que se ventilen asuntos disciplinarios, participará el Contralor Interno o un representante que éste designe con nivel de Director de Área.
+
+> <small>(REFORMADO, D.O.F., 25 DE ENERO DE 2002)</small>
 
 ###### Artículo 60.
 
-Cuando se trate de faltas que ameriten la imposición de una sanción administrativa, se aplicará lo dispuesto en el Título Tercero, Capítulo II de la Ley Federal de Responsabilidades de los Servidores Públicos, con las modalidades que adelante se señalan:
+Para la substanciación de procedimientos disciplinarios, la Subcomisión de Asuntos Disciplinarios observará el siguiente procedimiento:
 
-I. La Comisión de Personal integrará una Subcomisión Disciplinaria con tres de sus miembros, uno de los cuales deberá ser Licenciado en Derecho. El Secretario de la Comisión de Personal fungirá como Secretario de la Subcomisión. Será necesaria la presencia de todos los integrantes de la Subcomisión para que ésta pueda sesionar en forma válida y sus resoluciones se adoptarán por mayoría de votos;
+I. Las faltas de los miembros del Servicio Exterior se harán del conocimiento de la Subcomisión de Asuntos Disciplinarios por escrito, acompañando las pruebas con las que se cuente y con el apoyo de la Contraloría Interna, se abocará a la investigación de los hechos;
 
-II. Los hechos se harán del conocimiento de la Subcomisión Disciplinaria de la Comisión de Personal, por escrito, a través del Secretario de ésta última, señalando copia al Contralor Interno de la Secretaría;
+II. Elaborará el acta administrativa de presunta responsabilidad, que será notificada personalmente al presunto responsable, en la que se hará constar la responsabilidad o responsabilidades que se le atribuyen, a fin de que manifieste lo que a su derecho convenga;
 
-III. La Subcomisión de Asuntos Disciplinarios, con el apoyo de la Contraloría Interna, se abocará a la investigación de los hechos;
+III. El afectado deberá presentar por escrito sus argumentos y pruebas dentro de los quince días hábiles siguientes contados a partir de la fecha en que se le hubiere notificado personalmente el acta señalada en la fracción que antecede, la cual, deberá estar firmada por quien presida la Subcomisión de Asuntos Disciplinarios;
 
-IV. El afectado deberá presentar por escrito sus argumentos y pruebas dentro de los quince días hábiles contados a partir de la fecha en que se le hubiere notificado la acusación por el Secretario de la Comisión de Personal;
+IV. Una vez acordada la admisión de pruebas, la Subcomisión de Asuntos Disciplinarios determinará si se señala día y hora para su desahogo o si éstas se desahogan por su propia y especial naturaleza, y
 
-V. Una vez desahogadas las pruebas, la Subcomisión de Asuntos Disciplinarios formulará a la Comisión de Personal la resolución que estime pertinente a fin de que ésta a su vez formule al Secretario de Relaciones Exteriores la recomendación que estime procedente; y
+V. Desahogadas las pruebas, si las hubiere, la Subcomisión de Asuntos Disciplinarios cerrará la instrucción y contará con un término de 30 días hábiles para formular a la Comisión de Personal, la resolución que estime pertinente, la cual a su vez, la someterá a consideración del Secretario.
 
-VI. En las sesiones de la Comisión de Personal en las que se ventilen asuntos disciplinarios, así como en las de la Subcomisión de Asuntos Disciplinarios participará el Contralor Interno.
+En lo no previsto por esta Ley y su Reglamento respecto a los procedimientos disciplinarios de los miembros del Servicio Exterior, será aplicable supletoriamente el Código Federal de Procedimientos Civiles.
+
+> <small>(REFORMADO, D.O.F., 25 DE ENERO DE 2002)</small>
 
 ###### Artículo 61.
 
-El Secretario de Relaciones Exteriores, considerando la opinión de la Comisión de Personal, determinará la sanción administrativa. Esta será aplicada por el Contralor Interno. En el caso de embajadores y cónsules generales, someterá la opinión de la Comisión de Personal al Presidente de la República.
+El Secretario tendrá un plazo de 30 días hábiles contados a partir de la fecha en que la Comisión de Personal someta a su consideración la resolución propuesta por la Subcomisión de Asuntos Disciplinarios para determinar la sanción administrativa a imponer. Dicha sanción será aplicada por el Director General que tenga bajo su cargo los asuntos correspondientes al personal del Servicio Exterior, según lo disponga el Reglamento Interior de la Secretaría de Relaciones Exteriores una vez que quede firme, dándose vista a la Contraloría Interna y en el caso de imposición de sanciones económicas, deberá notificar a la Tesorería de la Federación la resolución, a efecto de que proceda a efectuar el cobro correspondiente.
 
-El afectado podrá interponer el recurso de revocación en los términos de lo dispuesto por el artículo 71 de la Ley Federal de Responsabilidades de los Servidores Públicos y del Reglamento de la presente Ley.
+En el caso de embajadores y cónsules generales, someterá la opinión de la Comisión de Personal al Presidente de la República.
+
+Las resoluciones del Secretario podrán ser impugnadas ante los tribunales competentes.
+
+> <small>(REFORMADO, D.O.F., 25 DE ENERO DE 2002)</small>
 
 ###### Artículo 62.
 
-En caso de que los hechos pudieren configurar un delito y que la averiguación previa no se hubiere iniciado por otros medios, la Contraloría Interna dará vista de ellos tanto a la Secretaría de la Contraloría General de la Federación como a la autoridad competente para conocer del ilícito.
+Las sanciones administrativas se impondrán tomando en cuenta los siguientes elementos:
+
+I. La gravedad de la responsabilidad en la que se incurra y la conveniencia de suprimir prácticas que infrinjan, en cualquier forma, las disposiciones de esta Ley y su Reglamento;
+
+II. Las circunstancias socio-económicas del presunto responsable;
+
+III. El rango dentro del Servicio Exterior, así como los antecedentes del presunto infractor;
+
+IV. Las condiciones exteriores y los medios de ejecución;
+
+V. La antigüedad en el servicio exterior y, en su caso, en la administración pública;
+
+VI. La reincidencia en el cumplimiento de sus obligaciones, y
+
+VII. En su caso, el monto del beneficio, daño o perjuicio económicos causados como consecuencia del incumplimiento de sus funciones.
+
+> <small>(ADICIONADO, D.O.F., 25 DE ENERO DE 2002)</small>
+
+###### Artículo 63.
+
+Las sanciones económicas se determinarán tomando como base los beneficios obtenidos o daños y perjuicios causados por el incumplimiento de las obligaciones previstas en la presente Ley y su Reglamento, aplicando dos tantos de la cantidad que resulte por dichos conceptos.
+
+Las sanciones económicas se pagarán una vez determinadas en cantidad líquida.
+
+> <small>(ADICIONADO, D.O.F., 25 DE ENERO DE 2002)</small>
+
+###### Artículo 64.
+
+En el caso de las faltas previstas en las fracciones I, IV, VI, VII, IX, X y XIV del artículo 58 de la presente Ley, procederá la destitución del miembro del Servicio Exterior. También procederá la destitución en el caso de quienes sean sancionados en dos ocasiones por incurrir en las conductas establecidas en las fracciones III, VIII, XI y XIII o en tres ocasiones por las conductas contempladas en las fracciones II y XII de la misma disposición.
+
+> <small>(ADICIONADO, D.O.F., 25 DE ENERO DE 2002)</small>
+
+###### Artículo 65.
+
+En caso de que los hechos pudieran configurar algún delito y que la averiguación previa no se hubiese iniciado por otros medios, se turnará el expediente a la Dirección General de Asuntos Jurídicos a efecto de que se presente la denuncia correspondiente.
 
 ## TRANSITORIOS
 
@@ -681,3 +1133,21 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 23 DE ENERO DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
+
+D.O.F. 25 DE ENERO DE 2002.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- El primer examen al que se refiere el artículo 34, se aplicará durante el primer año de vigencia del presente Decreto.
+
+CUARTO.- El primer examen de media carrera a que se refieren los artículos 38 y 39, se aplicará durante el primer año de vigencia de este Decreto.
+
+QUINTO.- Quienes al entrar en vigor el presente Decreto tengan el rango de primeros secretarios no requerirán, para ascender al rango de consejero, haber tenido una adscripción de tipo consular como lo señala el artículo 38 de este Decreto. Sin embargo, para ascender al rango de ministro, deberán haber tenido, durante su carrera, una adscripción diplomática o consular conforme a lo dispuesto por las disposiciones vigentes con anterioridad a la entrada en vigor de este Decreto.
+
+SEXTO.- La evaluación a que se refiere el artículo 40, se aplicará por primera vez durante el primer año de vigencia del presente Decreto a quienes tengan una antigüedad mínima de 5 años dentro del Servicio Exterior.
+
+SÉPTIMO.- Las comisiones, disponibilidades o licencias otorgadas al momento de la entrada en vigor del presente Decreto continuarán en los términos autorizados hasta su conclusión.
+
+OCTAVO.- Los procedimientos administrativos disciplinarios en trámite a la fecha de entrada en vigor del presente Decreto, se substanciarán y resolverán conforme a las disposiciones vigentes en el momento en que se iniciaron.
