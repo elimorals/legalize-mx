@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1996-09-05"
+last_updated: "1996-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 1996.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 5 DE SEPTIEMBRE DE 1996.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 1996.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -251,9 +249,9 @@ I.- Votar en las elecciones populares;
 
 II.- Poder ser votado para todos los cargos de elección popular y nombrado para desempeñar cualquier empleo o comisión, si se tienen las cualidades que la ley establezca;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1996)</small>
 
-III.- Asociarse libre y pacíficamente para tomar parte en los asuntos políticos del Estado;
+III.- Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos del Estado;
 
 IV.- Ejercer en toda clase de negocios, el derecho de petición;
 
@@ -267,7 +265,9 @@ Son obligaciones del ciudadano campechano:
 
 I.- Alistarse en la Guardia Nacional;
 
-II.- Votar en las elecciones populares, en el Distrito y Sección Electoral que le corresponda;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1996)</small>
+
+II.- Votar en las elecciones populares en los términos que señale la ley;
 
 III.- Desempeñar los cargos de elección popular de la Federación, del Estado y del Municipio;
 
@@ -335,43 +335,27 @@ La Ley fijará los casos en que se pierden y los demás en que se suspenden los 
 
 El Estado de Campeche es libre y soberano en todo lo que concierne a su régimen interior, sin más restricciones que las que establece la Constitución General de la República.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 24.
 
-La soberanía del Estado reside esencial y originariamente en el pueblo campechano, que la ejerce por medio del poder público que dimana del mismo pueblo y se instituye para beneficio de éste, en los términos que establece esta Constitución.
+La soberanía del Estado reside esencial y originariamente en el pueblo campechano, que la ejerce por medio del poder público que dimana del mismo pueblo y se instituye para beneficio de éste en los términos que establece esta Constitución.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+La renovación de los Poderes Legislativo y Ejecutivo se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
 
-Para hacer posible el acceso de los ciudadanos al ejercicio del poder público, promover la participación del pueblo en la vida democrática y contribuir a la integración de la representación estatal, los ciudadanos campechanos podrán organizarse en los Partidos Políticos Registrados.
+I.- Los partidos políticos son entidades de interés público; la ley determinará las formas específicas de su intervención en el proceso electoral. Los partidos políticos con registro tendrán derecho a participar en las elecciones estatales y municipales. Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo. Sólo los ciudadanos en ejercicio de sus prerrogativas como tales podrán afiliarse libre e individualmente a los partidos políticos;
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+II.- La ley garantizará que los partidos políticos con registro cuenten de manera equitativa con elementos para llevar a cabo sus actividades. Por tanto, tendrán derecho al uso en forma permanente de los medios de comunicación social, de acuerdo con las formas y procedimientos que establezca la misma. Para lo anterior, el Consejo General del Instituto Electoral del Estado fijará y aplicará anualmente en forma directa el monto del financiamiento público a ejercerse en materia de comunicación social, destinando del total un treinta por ciento para distribuirse en partes iguales entre los partidos, en cuanto a tiempo, y el setenta por ciento restante de acuerdo con el porcentaje de votación obtenida en la elección de diputados inmediata anterior. Además la ley señalará las reglas a que se sujetará el financiamiento de dichos partidos políticos y sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado. El financiamiento público para los partidos políticos, que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales y se otorgará conforme a lo siguiente y a lo que disponga la ley:
 
-Los Partidos Políticos son entidades de interés público, la ley determinará las formas específicas de su intervención en los procesos electorales estatales y municipales.
+a). El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, aplicando los costos mínimos de campaña calculados por el Consejo General del Instituto Electoral del Estado, el número de diputados a elegir, el número de partidos políticos con representación en el Congreso del Estado y la duración de las campañas electorales. El treinta por ciento de la cantidad total que resulte de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el setenta por ciento restante se distribuirá entre los mismos de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior;
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
+b). El financiamiento público para las actividades tendientes a la obtención del voto durante los procesos electorales, equivaldrá a una cantidad igual al monto del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese año; y
 
-La organización de las elecciones estatales y municipales es una función que se ejerce por los Poderes Legislativo y Ejecutivo del Estado, con la participación de los partidos políticos y de los ciudadanos, según lo disponga la ley. Esta función se realizará a través de un organismo público dotado de personalidad jurídica y patrimonio propio, denominado Consejo Electoral del Estado. La certeza, legalidad, imparcialidad, objetividad y profesionalismo serán principios rectores en el ejercicio de esa función estatal.
+c). Se reintegrará un porcentaje de los gastos anuales que eroguen los partidos políticos por concepto de las actividades relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales. La ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales; establecerá los montos máximos que tendrán las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y asimismo, señalará las sanciones que deban imponerse por el incumplimiento de estas disposiciones;
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
+III.- La organización de las elecciones estatales y municipales es una función estatal que se realiza a través de un organismo público autónomo denominado Instituto Electoral del Estado, dotado de personalidad jurídica y patrimonio propios, en cuya integración participan el Poder Legislativo del Estado, los partidos políticos con registro y los ciudadanos, en los términos que ordene la ley. En el ejercicio de esa función estatal, la certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores. El Instituto Electoral del Estado será autoridad en la materia, independiente en sus decisiones y funcionamiento y profesional en su desempeño; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia. Su órgano superior de dirección será el Consejo General y se integrará por siete consejeros electorales, y concurrirán, con voz pero sin voto, los consejeros del Poder Legislativo, los representantes de los partidos políticos y un secretario. La ley determinará las reglas para la organización y funcionamiento de los órganos, así como las relaciones de mando entre éstos. Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio profesional electoral. Las disposiciones de la ley electoral y del Reglamento Interior que con base en ella apruebe el Consejo General, regirán las relaciones de trabajo de los servidores del organismo público. Los órganos de vigilancia se integrarán mayoritariamente por representantes de los partidos políticos. Las mesas directivas de casilla estarán integradas por ciudadanos, según lo establezca la ley electoral. Los consejeros electorales del Consejo General serán elegidos, sucesivamente, por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, a propuesta de los grupos parlamentarios de los partidos políticos con registro representados en dicho Congreso. Conforme al mismo procedimiento, se designarán seis consejeros electorales suplentes, en orden de prelación. La ley establecerá las reglas y el procedimiento correspondientes. Los consejeros electorales, en los términos que la propia ley señale, de entre ellos elegirán a quien funja como su consejero presidente; durarán en su cargo siete años y, durante el tiempo en que se encuentren en funciones, no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación del Consejo General y de los que desempeñen, con autorización del propio Consejo, en asociaciones docentes, científicas, culturales, de investigación o de beneficencia. El secretario del Consejo General será nombrado por las dos terceras partes de los integrantes del mismo, a propuesta de su presidente. La ley establecerá los requisitos que deberán reunir para su designación los consejeros electorales y el secretario, los que estarán sujetos al régimen de responsabilidades establecido en el Capítulo XVII de esta Constitución. Los consejeros electorales y el secretario, durante el tiempo en que se encuentren en funciones, percibirán una remuneración adecuada e irrenunciable por sus servicios. Los consejeros del Poder Legislativo serán propuestos por los diputados con afiliación de partido en el Congreso del Estado. Sólo habrá un consejero por cada partido político con registro representado en dicho Congreso. El Instituto Electoral del Estado tendrá a su cargo en forma integral y directa, además de las que le determine la ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, derechos y prerrogativas de las agrupaciones y de los partidos políticos, padrón y lista de electores, impresión de materiales electorales, preparación de la jornada electoral, cómputos en los términos que señale la ley, declaración de validez, otorgamiento de constancias en las elecciones de diputados locales y autoridades municipales; cómputo de la elección de gobernador del Estado, en cada uno de los distritos electorales uninominales y remisión del resultado de este cómputo a la Sala Administrativa del Tribunal Superior de Justicia del Estado, erigida en Sala Electoral, para los efectos a que se contrae la fracción II del artículo 82-1 de esta Constitución, así como la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales. Las sesiones de todos los órganos colegiados de dirección serán públicas en los términos que señale la ley; y
 
-El organismo público será autoridad en la materia, profesional en su desempeño y autónomo en sus decisiones; contará en su estructura con órganos de dirección, así como con órganos ejecutivos y técnicos. De igual manera, contará con órganos de vigilancia, que se integrarán mayoritariamente por representantes de los partidos políticos. El órgano superior de dirección se integrará por consejeros designados por los Poderes Legislativo y Ejecutivo y por representantes nombrados por los partidos políticos. Los órganos ejecutivo y técnico dispondrán del personal calificado necesario para prestar el servicio electoral profesional. Los ciudadanos formarán las mesas directivas de casilla.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
-
-El Consejo Electoral del Estado agrupará para su desempeño, en forma integral y directa, además de las que determine la ley, las actividades relativas al padrón electoral, preparación de la jornada electoral, cómputos y otorgamiento de constancias, capacitación electoral y educación cívica e impresión de materiales electorales, asimismo, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos. Las sesiones de todos los órganos colegiados electorales serán públicas, en los términos que disponga la ley.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
-
-La ley establecerá un sistema de medios de impugnación, de los que conocerán el Consejo y un Tribunal autónomo que será órgano jurisdiccional en materia electoral. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
-
-El Tribunal Electoral del Estado tendrá la competencia y organización que determine la ley; funcionará en pleno, resolverá en una sola instancia y sus sesiones serán públicas. Los Poderes Legislativo y Ejecutivo garantizarán su debida integración. Contra sus resoluciones no procederá juicio ni recurso alguno, pero aquéllas que se dicten con posterioridad a la jornada electoral podrán ser revisadas y en su caso modificadas por el Colegio Electoral, en los términos de los artículos 36 y 54, fracciones XVII y XVIII, de esta Constitución. Para el ejercicio de sus funciones, contará con un cuerpo de magistrados y jueces instructores, los cuales serán independientes y responderán sólo al mandato de la ley.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
-
-Los consejeros ciudadanos y los magistrados del Tribunal deberán satisfacer los requisitos que señale la ley. Serán electos por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de entre los propuestos por el Ejecutivo Estatal. Si dicha mayoría no se lograra en la primera votación, se procederá a insacular de los candidatos propuestos el número que corresponda de consejeros y magistrados del Tribunal Electoral. La ley señalará las reglas y el procedimiento correspondiente.
+IV.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votados y de asociación, en los términos de los artículos 82-1 y 82-2 de esta Constitución. En materia electoral la interposición de los medios de impugnación constitucionales o legales no producirá efectos suspensivos sobre la resolución o el acto impugnado.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -429,27 +413,27 @@ Se deposita el ejercicio del Poder Legislativo del Estado en una asamblea que se
 
 El Congreso del Estado se compondrá de representantes electos directamente en su totalidad cada tres años por ciudadanos campechanos y en los términos que disponga la Ley Electoral del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 31.
 
-El Congreso estará integrado por veintiún diputados electos según el principio de mayoría relativa mediante el sistema de distritos electorales uninominales y por hasta nueve diputados que serán asignados según el principio de representación proporcional, mediante el sistema de listas propuestas en una circunscripción plurinominal. Por cada diputado propietario de mayoría relativa se elegirá un suplente. Los diputados de representación proporcional no tendrán suplentes, sus vacantes serán cubiertas por aquellos candidatos del mismo partido que sigan en el orden de la lista respectiva.
+El Congreso estará integrado por veintiún diputados electos según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, y por catorce diputados que serán asignados según el principio de representación proporcional, mediante el sistema de listas propuestas en una circunscripción plurinominal. Por cada diputado propietario de mayoría relativa se elegirá un suplente. Los diputados de representación proporcional no tendrán suplentes; sus vacantes serán cubiertas por aquellos candidatos del mismo partido que sigan en el orden de la lista respectiva.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
+La demarcación territorial de los veintiún distritos electorales uninominales será la que resulte de dividir la población total del Estado entre los distritos señalados. Para el efecto de la asignación de diputados según el principio de representación proporcional, el territorio del Estado se constituirá en una sóla circunscripción electoral plurinominal.
 
-La demarcación territorial de los veintiún distritos electorales uninominales será la que resulte de dividir la población total del Estado entre los distritos señalados. Para el efecto de la asignación de diputados según el principio de representación proporcional, el territorio del Estado se constituirá en una sola circunscripción electoral plurinominal.
+La asignación de los diputados, según el principio de representación proporcional, se sujetará a las bases generales siguientes y a lo que sobre el particular disponga la ley:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
+a). Para obtener el registro de sus listas de candidatos a diputados de representación proporcional, los partidos políticos deberán acreditar que participan con candidatos a diputados por mayoría relativa en cuando menos catorce de los distritos electorales uninominales;
 
-La asignación de los diputados según el principio de representación proporcional se sujetará a las bases generales siguientes y a lo que sobre el particular disponga la ley:
+b). Todo partido político que alcance por lo menos el dos por ciento del total de la votación emitida en la circunscripción plurinominal tendrá derecho a que le sean atribuidos diputados según el principio de representación proporcional;
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
+c). Al partido político que cumpla con lo dispuesto por las dos bases anteriores, independiente y adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus candidatos, le serán asignados por el principio de representación proporcional, de acuerdo con su votación estatal emitida, el número de diputados de su lista que le corresponda en la circunscripción plurinominal. En la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes;
 
-a) Para obtener el registro de sus listas de candidatos a diputados de representación proporcional, los partidos políticos deberán acreditar que participan con candidatos a diputados por mayoría relativa en cuando menos 14 de los distritos uninominales del Estado.
+d). Ningún partido político podrá contar con más de 21 diputados por ambos principios;
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
+e). En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total del Congreso que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del Congreso, superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento; y
 
-b) Todo partido político que alcance el 1.5 por ciento del total de la votación emitida en la circunscripción plurinominal tendrá derecho a que le sea atribuido un diputado, según el principio de representación proporcional, hasta el límite que se fije en la ley electoral.
+f). En los términos de lo establecido en los incisos c), d) y e) anteriores, las diputaciones de representación proporcional que resten después de asignar las que correspondan al partido político que se halle en los supuestos de los incisos d) o e), se adjudicarán a los demás partidos políticos con derecho a ello, en proporción directa con las respectivas votaciones estatales efectivas de estos últimos. La ley desarrollará las reglas y fórmulas para estos efectos.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -511,33 +495,29 @@ III.- Los jefes militares del Ejército Nacional y los de la fuerza del Estado o
 
 IV.- Los jefes de la Guardia Nacional que estuvieren en servicio activo, por el distrito o distritos en donde ejerzan mando;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1996)</small>
 
-V.- El Gobernador del Estado, los Secretarios de los diversos Ramos de la Administración Pública Estatal, los Titulares de las Direcciones de la propia Administración, los Magistrados del Tribunal Superior de Justicia y el Procurador General de Justicia;
+V.- El Gobernador del Estado, los titulares de las dependencias y entidades de la Administración Pública Estatal, los titulares de las direcciones de la propia Administración, los Magistrados del Tribunal Superior de Justicia y el Procurador General de Justicia;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1996)</small>
 
-VI.- Los Jueces de Primera Instancia, los Recaudadores de Rentas y los Presidentes Municipales, en los distritos electorales en donde ejerzan sus funciones.
+VI.- Los jueces de primera instancia, electorales, menores y conciliadores, los Recaudadores de Rentas y los Presidentes Municipales, en los distritos electorales en donde ejerzan sus funciones; y
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 1996)</small>
+
+VII.- Los delegados, agentes, directores, gerentes, o cualesquiera que sea la denominación que reciban, de las dependencias y entidades de la Administración Pública Federal en el Estado.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 35.
 
-Los ciudadanos comprendidos en las fracciones de la III a la VI del artículo anterior podrán ser electos, siempre que se separen de sus cargos cuando menos 45 días antes de la elección.
+Los ciudadanos comprendidos en las fracciones de la III a la VII del artículo anterior podrán ser electos siempre que se separen de sus cargos cuando menos noventa días antes de la elección.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 36.
 
-El Congreso calificará, a través de un Colegio Electoral, la elegibilidad y la conformidad a la ley de las constancias de mayoría o de asignación proporcional, a fin de declarar, cuando proceda, la validez de la elección o asignación de sus miembros.
-
-El Colegio Electoral del Congreso se integrará con diez presuntos diputados propietarios, quienes serán nombrados por los partidos políticos en la proporción que les corresponda respecto del total de las constancias otorgadas en la elección de que se trate.
-
-Las constancias otorgadas a presuntos legisladores cuya elección no haya sido impugnada ante el Tribunal serán dictaminadas y sometidas desde luego al Colegio Electoral para que sean aprobadas en sus términos, salvo que existiesen hechos supervenientes que obliguen a su revisión por el Colegio.
-
-Las resoluciones del Tribunal Electoral del Estado serán obligatorias y sólo podrán ser modificadas o revocadas por el Colegio Electoral, mediante el voto de las dos terceras partes de sus miembros presentes, cuando de su revisión se deduzca que existen violaciones a las reglas en materia de admisión y valoración de pruebas y de motivación del fallo, o cuando éste sea contrario a derecho.
-
-Las resoluciones del Colegio Electoral serán definitivas e inatacables.
+Las determinaciones sobre la declaración de validez, el otorgamiento de las constancias y la asignación de diputados y autoridades municipales, podrán ser impugnadas ante los Juzgados Electorales, en los términos que señale la ley. A su vez las resoluciones de estos Juzgados podrán ser revisadas exclusivamente por la Sala Administrativa del Tribunal Superior de Justicia del Estado, erigida en Sala Electoral, a través del medio de impugnación que los partidos políticos podrán interponer únicamente cuando por los agravios esgrimidos se pueda modificar el resultado de la elección. Los fallos de la Sala Administrativa en materia electoral serán definitivos y firmes. La ley establecerá los presupuestos, requisitos de procedencia y el trámite para los medios de impugnación.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -739,13 +719,13 @@ XV.- Llamar a quienes deban sustituir a los diputados en ejercicio en los casos 
 
 XVI.- Conceder premios y recompensas a las personas que presten servicios eminentes a la República, al Estado o a la humanidad y otorgar pensiones a su fallecimiento, a las familias de las mismas que comprueben sus difíciles condiciones económicas;
 
-XVII.- Erigirse en Colegio Electoral para calificar la elección de Gobernador;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1996)</small>
+
+XVII.- Expedir el Bando Solemne para dar a conocer en toda la Entidad la declaración de Gobernador Electo que hubiere hecho la Sala Administrativa, erigida en Sala Electoral, del Tribunal Superior de Justicia del Estado;
 
 XVIII.- Constituírse en Colegio Electoral y elegir al ciudadano que deba sustituír al Gobernador del Estado con el carácter de substituto o de interino, de acuerdo con los Artículos 64, 65 y 67 de esta Constitución;
 
-> <small>(REFORMADA P.O. 1 DE ABRIL DE 1992)</small>
-
-XIX.- Constituirse en Colegio Electoral para calificar las elecciones de Presidente, Regidores y Síndicos de Ayuntamientos y Juntas Municipales.
+XIX.- (DEROGADA, P.O. 30 DE NOVIEMBRE DE 1996)
 
 XX.- Resolver los problemas políticos intermunicipales y los que se susciten entre el Poder Ejecutivo y los Ayuntamientos;
 
@@ -794,6 +774,8 @@ XXXIII.- Nombrar, a propuesta del Gobernador, una Junta Municipal compuesta de t
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 1983)</small>
 
 XXXIV.- Por acuerdo de las dos terceras partes, suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna causa grave prevista por la Ley, siempre y cuando sus miembros hayan tenido oportunidad para rendir las pruebas y hacer los alegatos que a su juicio convengan.
+
+> <small>(ADICIONADA, P.P. 25 DE SEPTIEMBRE DE 1979)</small>
 
 XXXV.- Las demás que le asignen esta Constitución y la General de la República.
 
@@ -963,7 +945,7 @@ El Gobernador al tomar posesión de su cargo, prestará ante el Congreso del Est
 
 El Gobernador del Estado no podrá ausentarse del territorio del mismo sin permiso del Congreso si estuviere reunido, o en su caso de la Diputación Permanente, a menos que la ausencia no exceda de sesenta días; en tal caso, se estará a lo dispuesto por el segundo párrafo del artículo 67.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
 ###### ARTICULO 71.
 
@@ -1101,7 +1083,7 @@ Las faltas de los Secretarios de las dependencias de la Administración Pública
 
 ###### ARTICULO 75.
 
-La ley organizará el Ministerio Público del Estado cuyos funcionarios serán nombrados y removidos por el Ejecutivo, de acuerdo con la ley respectiva, y estará presidido por un Procurador General de Justicia, el que deberá tener las mismas cualidades requeridas para ser Magistrado del Tribunal Superior de Justicia.
+La Ley organizará el Ministerio Público del Estado cuyos funcionarios serán nombrados y removidos por el Ejecutivo, de acuerdo con la ley respectiva, y estará presidido por un Procurador General de Justicia, el que deberá tener las mismas cualidades requeridas para ser Magistrado del Tribunal Superior de Justicia.
 
 Incumbe al Ministerio Público estatal la persecución, ante los tribunales locales, de todos los delitos del orden común; por lo mismo a él le corresponderá solicitar las órdenes de aprehensión contra los inculpados; buscar y presentar las pruebas que acrediten la responsabilidad de éstos; hacer que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita; pedir la aplicación de las penas e intervenir en todos los negocios que la ley determine.
 
@@ -1115,29 +1097,29 @@ El Procurador General de Justicia será el consejero jurídico del gobierno. Int
 
 ### CAPITULO XVI. Del Poder Judicial
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
 
 ### CAPITULO XVII. De las Responsabilidades de los Servidores Públicos
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
 
 ### CAPITULO XVIII. De los Municipios del Estado
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 77.
 
-Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y en juzgados de primera instancia y menores, que se establecerán y funcionarán en la forma que disponga la Ley Orgánica del Poder Judicial del Estado.
+Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y en Juzgados de Primera Instancia, Electorales, Menores y de Conciliación. El establecimiento, funcionamiento y competencia de los mencionados órganos del Poder Judicial se regirán por lo que dispongan la Ley Orgánica del Poder Judicial del Estado, el Código Electoral del Estado y demás leyes que sean aplicables, de conformidad con las bases que esta Constitución señala.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
 
-Los magistrados y los jueces percibirán una remuneración adecuada e irrenunciable por sus servicios, la cual no podrá ser disminuida durante el tiempo que dure su encargo.
+Los magistrados del Tribunal Superior, los jueces de primera instancia, electorales, menores y conciliadores, así como los secretarios de acuerdos percibirán una remuneración adecuada e irrenunciable por sus servicios, la cual no podrá ser disminuida durante el tiempo que dure su encargo.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
 
 Los nombramientos de los magistrados y jueces serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia; que los merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 78.
 
@@ -1181,7 +1163,9 @@ Magistrado: "Sí, protesto".
 
 Presidente: "Si no lo hiciéreis así, la Nación o el Estado os lo demande".
 
-Los jueces de primera instancia, menores y de paz protestarán ante el Tribunal Superior de Justicia o ante la autoridad que determine la Ley.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
+
+Los jueces rendirán la protesta de ley ante su superior jerárquico inmediato.
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1985)</small>
 
@@ -1195,13 +1179,67 @@ La confirmación de los nombramientos de los Magistrados del Tribunal Superior d
 
 Las licencias de los Magistrados, cuando no excedan de un mes, serán concedidas por el Tribunal Superior de Justicia; pero las que excedan de dicho tiempo las concederá el Congreso, o, en su defecto, la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
+
+###### ARTICULO 82
+
+1.- La Sala Administrativa del Tribunal Superior de Justicia del Estado, sin perjuicio de las atribuciones que le señale la Ley Orgánica del Poder Judicial del Estado y demás códigos y leyes aplicables, será la máxima autoridad jurisdiccional y órgano permanente especializado del Poder Judicial del Estado en materia electoral. En el ejercicio de sus atribuciones en esta materia actuará como órgano de única o de segunda instancia, según se determine en esta Constitución y en la ley electoral. Para la validez de su actuación en materia electoral, al avocarse al conocimiento de un asunto de esa naturaleza, deberá declarar que se erige en Sala Electoral. Para que su desempeño como Sala Electoral sea expedito, durante el tiempo que medie entre la fecha en que acontezca la jornada electoral y la de conclusión de la calificación de las elecciones, mediante la expedición del correspondiente acuerdo, podrá diferir el entrar o continuar conociendo de los demás asuntos de su competencia. Sus sesiones de resolución serán públicas o reservadas, en los términos que determinen los códigos o leyes aplicables, y contará con el personal jurídico y administrativo necesario para su adecuado funcionamiento.
+
+La Sala Administrativa del Tribunal Superior de Justicia del Estado, se integrará con tres magistrados numerarios, electos por las dos terceras partes de los miembros presentes del Congreso del Estado a propuesta del Pleno del Tribunal Superior de Justicia, y durarán en el cargo seis años, a cuyo término podrán ser confirmados en dicho cargo a propuesta que el Pleno haga al indicado Congreso, adquiriendo la calidad de inamovibles. La ley electoral señalará las reglas y el procedimiento respectivos. Fungirá como presidente de esta Sala el magistrado que de entre sus miembros éstos elijan y durará en el cargo tres años improrrogables. Los magistrados de la Sala Administrativa, independientemente de los que además les señalen la Ley Orgánica del Poder Judicial del Estado y la ley electoral, deberán también satisfacer los mismos requisitos que los que se exigen para los demás magistrados del Tribunal Superior de Justicia, en consecuencia también tendrán las mismas prerrogativas de éstos.
+
+A la Sala Administrativa del Tribunal Superior de Justicia del Estado, erigida en Sala Electoral, le corresponde resolver en forma exclusiva, definitiva y firme, en los términos de esta Constitución y según lo disponga la ley, sobre:
+
+I.- En única instancia, las impugnaciones que se presenten respecto de la elección de gobernador del Estado;
+
+II.- El cómputo final de la elección de gobernador, procediendo a formular la declaración de validez de la elección y la de gobernador electo respecto del candidato que hubiese obtenido el mayor número de votos, expidiendo la respectiva constancia. Si hubiere impugnaciones dicho cómputo tendrá lugar una vez que la propia Sala resuelva las mismas;
+
+III.- En segunda instancia, los recursos que se interpongan contra las resoluciones que en materia electoral se dicten en los Juzgados Electorales;
+
+IV.- En única instancia, los conflictos o diferencias laborales entre los Juzgados Electorales y sus servidores;
+
+V.- En única instancia, los conflictos o diferencias laborales entre el Instituto Electoral del Estado y sus servidores;
+
+VI.- En única instancia, las renuncias y licencias de los jueces electorales, dando cuenta de inmediato al Pleno del Tribunal Superior para que en su oportunidad proceda a la propuesta de quienes deban sustituirlos;
+
+VII.- En única instancia, los nombramientos, licencias, remociones y renuncias del demás personal adscrito a la propia Sala y a los Juzgados Electorales; y
+
+VIII.- Los demás asuntos que la ley le señale.
+
+Los magistrados y el secretario de acuerdos de la Sala Administrativa no podrán excusarse ni serán recusables cuando se trate del conocimiento de asuntos relativos a materia electoral.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
+
+###### ARTICULO 82
+
+2.- Los Juzgados Electorales serán órganos colegiados especializados de primera instancia en materia electoral y se integrarán con tres jueces electorales, un secretario de acuerdos y el demás personal jurídico y administrativo necesario para su adecuado funcionamiento. El número de Juzgados, su ubicación, así como los procedimientos a que se atendrán en su funcionamiento se determinarán en la ley.
+
+Salvo durante el período que medie entre la fecha en que acontezca la jornada electoral y la de conclusión de la calificación de las elecciones, en que se avocarán exclusivamente a los asuntos de naturaleza electoral, los jueces electorales, también fungirán unitariamente como jueces auxiliares de primera instancia en otras materias, función que desempeñarán con arreglo a lo que dispongan la Ley Orgánica del Poder Judicial del Estado y los acuerdos que sobre el particular emita el Tribunal Pleno, sin perjuicio de que sigan conociendo de manera colegiada de asuntos electorales no propios de los procesos electorales.
+
+La designación de los jueces electorales se hará en la misma forma que la de los magistrados de la Sala Administrativa del Tribunal Superior de Justicia del Estado, debiendo satisfacer los requisitos que señale la ley, que no podrán ser menores a los de un juez de primera instancia y durarán en el cargo seis años, a cuyo término podrán ser confirmados en dicho cargo a propuesta que el Pleno haga al Congreso del Estado, adquiriendo la calidad de inamovibles. La retribución que perciban los jueces electorales y sus secretarios de acuerdos no podrá ser menor a la prevista para sus homólogos de los juzgados de primera instancia.
+
+A los Juzgados Electorales corresponde resolver en primera instancia sobre:
+
+I.- Las impugnaciones que se presenten con motivo de las elecciones de diputados locales y autoridades integrantes de Ayuntamientos y Juntas Municipales;
+
+II.- Las impugnaciones de actos y resoluciones de las autoridades electorales estatales, distritales o municipales, que violen normas legales;
+
+III.- Las impugnaciones de actos o resoluciones definitivos y firmes de las autoridades electorales estatales, distritales o municipales, para organizar y calificar los comicios o resolver las controversias que surjan durante los mismos, que puedan resultar determinantes para el desarrollo del proceso respectivo o el resultado final de las elecciones. Esta vía procederá solamente cuando la reparación solicitada sea material y jurídicamente posible dentro de los plazos electorales y sea factible antes de la fecha constitucional o legalmente fijada para la instalación de los órganos o la toma de posesión de los funcionarios elegidos;
+
+IV.- Las impugnaciones de actos y resoluciones que violen los derechos políticos electorales de los ciudadanos de votar, ser votado y de afiliación libre y pacífica para tomar parte en los asuntos políticos del Estado, en los términos que señalen esta Constitución y las leyes emanadas de ella; y
+
+V.- Los demás asuntos que la ley les señale.
+
+Los jueces electorales y sus secretarios no podrán excusarse ni serán recusables cuando se trate del conocimiento de asuntos relativos a materia electoral.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 83.
 
-Los magistrados del Tribunal Superior de Justicia, los jueces de primera instancia y sus respectivos secretarios, no podrán desempeñar empleo o cargo de la Federación, de otro Poder del Estado, del Municipio ni de particulares, por el cual reciban remuneración, exceptuados los cargos en los ramos de instrucción y asistencia públicas. La infracción de esta disposición será castigada con la pérdida del cargo de magistrado, juez o secretario.
+Los magistrados del Tribunal Superior de Justicia, los jueces de primera instancia, electorales y menores y los respectivos secretarios, no podrán en ningún caso aceptar ni desempeñar otro empleo o encargo de la Federación, del Estado y de los Municipios, en sus sectores centralizado o descentralizado, o de particulares, por el cual reciban remuneración, exceptuados los cargos en los ramos de instrucción y asistencia públicas. La infracción de esta disposición será castigada con la pérdida del cargo de magistrado, juez o secretario.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+Las personas que hayan ocupado el cargo de magistrado del Tribunal Superior de Justicia, de jueces de primera instancia, electorales o menores, no podrán dentro de los dos años siguientes a la fecha de su retiro actuar como patronos, abogados o representantes en cualquier proceso, del que hubieren conocido previamente, ante los órganos del Poder Judicial del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
 ###### ARTICULO 84.
 
@@ -1295,7 +1333,7 @@ X.- Crear nuevas salas, y ampliar o suprimir las ya existentes, en términos de 
 
 ###### ARTICULO 89.
 
-Para los efectos de las responsabilidades a que alude este Capítulo, se reputarán como servidores públicos a los Diputados del Congreso del Estado; a los miembros del Poder Judicial; a los colaboradores del Ejecutivo, en los niveles centralizado, desconcentrado y descentralizado y a los integrantes de los Ayuntamientos, Juntas y Comisarías Municipales, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos de las responsabilidades a que alude este capítulo, se reputa como servidores públicos a los miembros de los Poderes Legislativo y Judicial del Estado, a los miembros de las dependencias y entidades de la Administración Pública del Estado, a los integrantes de los Ayuntamientos y Juntas Municipales, a los Comisarios Municipales, a los miembros del Instituto Electoral del Estado, y en general a toda persona que desempeñe un empleo, cargo o comisión de cualquiera naturaleza, bien sea de elección o de nombramiento, en los gobiernos estatal y municipales, o en entidades paraestatales o paramunicipales. Los servidores públicos serán responsables de los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
@@ -1303,17 +1341,19 @@ Para los efectos de las responsabilidades a que alude este Capítulo, se reputar
 
 El Gobernador del Estado durante el tiempo de su encargo, sólo podrá ser acusado por los delitos de traición a la patria, violaciones a la Constitución Federal y del Estado y a las leyes que de ambas emanen, ataque a la libertad electoral, delitos graves del orden común, y manejo indebido de fondos y recursos federales, o estatales.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 91.
 
-Si el delito fuere común, el Congreso erigido en Jurado de Procedencia declarará, por mayoría absoluta de votos y previa audiencia del acusado, si ha o no lugar a formación de causa. En caso negativo quedarán reservadas las acciones para cuando el servidor público cese en sus funciones, para lo cual quedará interrumpido el término prescriptorio; en caso afirmativo, quedará el acusado separado de su cargo y sujeto a la acción de los Tribunales comunes.
+Para proceder penalmente contra los Diputados, los Magistrados del Tribunal Superior, Jueces de Primera Instancia, Electorales y Menores, Secretarios de las Dependencias de la Administración Pública del Estado, Procurador General de Justicia, Consejero Presidente y Consejeros Electorales del Consejo General del Instituto Electoral del Estado, Presidentes, Regidores y Síndicos de Ayuntamientos y Juntas Municipales, y Comisarios Municipales, por la comisión de delitos durante el tiempo de su encargo, se requerirá que el Congreso del Estado, por mayoría absoluta de sus miembros presentes en sesión, declare si ha o no lugar a proceder contra el inculpado. En caso negativo quedarán reservadas las acciones para cuando el servidor público cese en sus funciones, para lo cual quedará interrumpido el término prescriptorio. En caso afirmativo quedará el inculpado separado de su cargo y sujeto a la acción de los tribunales comunes.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 92.
 
-Conocerá el Congreso como Jurado de procedencia de los delitos cometidos por los servidores públicos que transgredan esta Constitución y las leyes del Estado.
+Los trámites y formalidades requeridas para emitir la declaración de procedencia serán los que se prevengan en la ley de la materia.
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
 Si la falta contraviniere la Constitución o las leyes federales, o concurrieren uno o varios actos violatorios de ambos fueros, se aplicará en primer lugar lo previsto en las disposiciones federales y a continuación lo establecido por el fuero estatal.
 
@@ -1391,25 +1431,19 @@ Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la present
 
 ###### ARTICULO 102.
 
-Los Municipios que integran el Estado serán libres, se regirán por la Ley Orgánica relativa, la que tendrá como bases las siguientes:
+Los Municipios que integran el Estado serán Libres y se regirán por la Ley Orgánica de la materia, teniendo como bases las siguientes:
 
-I.- Cada Municipio será administrado por un Ayuntamiento de elección popular directa; se aplicará, además, el principio de representación proporcional;
+I.- Cada Municipio será administrado por un cuerpo colegiado denominado Ayuntamiento, de elección popular directa;
 
-II.- Los Ayuntamientos de los Municipios de la Entidad, tendrán tantos Regidores y Síndicos como determine la Ley Orgánica respectiva, electos por el principio de mayoría relativa y adicionalmente hasta dos Regidores y Síndicos electos por el sistema de representación proporcional.
+II.- Salvo el Ayuntamiento del Municipio de Campeche que se integrará con un Presidente, siete Regidores y dos Síndicos electos por el principio de mayoría relativa, y cuatro Regidores y un Síndico asignados por el sistema de representación proporcional, los demás Ayuntamientos se integrarán con un Presidente, cinco Regidores y un Síndico de mayoría relativa y tres Regidores y un Síndico de representación proporcional. Para la asignación de Regidores y Síndicos de representación proporcional se observarán las disposiciones de la ley electoral, siempre que el respectivo partido político haya obtenido por lo menos el cuatro por ciento del total de la votación emitida en el Municipio correspondiente;
 
-De acuerdo con el párrafo anterior, tendrá derecho a que le sea atribuído un Regidor, el partido político que alcance el mayor porcentaje de votación minoritaria, siempre y cuando satisfaga los requisitos siguientes:
+III.- Los Municipios podrán subdividirse territorialmente en Secciones y Comisarías Municipales. La facultad para crear Secciones y Comisarías corresponderá a la Legislatura del Estado y a los Ayuntamientos, respectivamente;
 
-a) Que hubiere registrado fórmula de candidatos en las elecciones municipales respectivas;
+IV.- Cada Sección Municipal será administrada por un cuerpo colegiado, auxiliar del Ayuntamiento, denominado Junta Municipal, de elección popular directa, integrado con un Presidente, tres Regidores y un Síndico electos por el principio de mayoría relativa y un Regidor asignado por el sistema de representación proporcional, conforme a las disposiciones de la ley electoral, siempre que el respectivo partido político haya obtenido por lo menos el cuatro por ciento del total de la votación emitida en la Sección Municipal correspondiente; y
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
+V.- Cada Comisaría Municipal será administrada por una sóla persona, auxiliar del Ayuntamiento, que recibirá el nombre de Comisario Municipal, cuya elección se hará conforme a los procedimientos de elección directa que prevenga la citada ley orgánica, procedimientos que los Ayuntamientos aplicarán dentro de los treinta días siguientes a su instalación y toma de posesión.
 
-b).- Que alcance por lo menos el 1.5 por ciento del total de la votación emitida en el municipio correspondiente.
-
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
-
-La ley electoral determinará los procedimientos que se observarán en dicha designación.
-
-Los Comisarios Municipales durarán en sus cargos tres años y serán electos a través de los procedimientos de elección directa que prevenga la Ley Orgánica de los Municipios del Estado. Dichos procedimientos se aplicarán por los Ayuntamientos respectivos de los municipios de la Entidad dentro de los 30 treinta días siguientes a su instalación y toma de posesión.
+Los presidentes, regidores, síndicos y comisarios durarán en sus cargos tres años.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 1992)</small>
 
@@ -2000,3 +2034,15 @@ Primero.- El presente decreto entrará en vigor al día siguiente de su publicac
 > <small>(F. DE E., P.O. 5 DE SEPTIEMBRE DE 1996)</small>
 
 Segundo.- Se deroga la segunda parte del Artículo Cuarto Transitorio del Decreto 264 expedido por la LIII Legislatura de este Congreso, que se publicó en el Periódico Oficial del Estado el día 1° de Abril de 1992, al desaparecer la necesidad de designación de un Gobernador interino para fungir del 16 de Septiembre al 15 de Octubre de 1997, por la reforma que al primer párrafo del artículo 63 se contiene en este decreto.
+
+P.O. 30 DE NOVIEMBRE DE 1996.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- La Sala Administrativa del Tribunal Superior de Justicia del Estado y los Juzgados Electorales se instalarán con la oportunidad debida tan luego entren en vigor las modificaciones que, en vía de consecuencia de este Decreto, se hagan a la Ley Orgánica del Poder Judicial del Estado y a la legislación electoral.
+
+Tercero.- Por esta única ocasión, mientras se legisla y reglamenta todo lo concerniente a la integración y funciones de los grupos parlamentarios, la atribución que se otorga a dichos grupos en la fracción III del artículo 24 la ejercerán las dirigencias estatales de los partidos políticos con registro y representación en el Congreso del Estado.
+
+Cuarto.- También por esta única ocasión, los Consejeros Electorales, los Magistrados de la Sala Administrativa del Tribunal Superior de Justicia y los Jueces Electorales serán electos por el voto de las tres cuartas partes de los diputados presentes en la correspondiente sesión del Congreso del Estado.
+
+Quinto.- Las facultades regulares que, en materia de geografía electoral en el aspecto de redistritación, al Instituto Electoral del Estado le confiere la fracción III del artículo 24 que se reforma, cobrarán vigencia a partir del 1º de enero de 1998.
