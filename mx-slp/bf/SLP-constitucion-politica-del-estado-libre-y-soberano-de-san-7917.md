@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "1973-01-21"
+last_updated: "1973-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 1973.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -723,9 +723,9 @@ El Gobernador Interino podrá ser electo por el Congreso como Substituto.
 
 ART. 62.- El Poder Judicial del Estado se depositará en el Supremo Tribunal de Justicia, Jueces de Primera Instancia, Jueces Menores, Alcaldes y Jueces Auxiliares conforme lo disponga esta Constitución y en los términos que establezca la ley orgánica respectiva.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 1973)</small>
 
-ART. 63.- El Tribunal Supremo de Justicia se compondrá de seis magistrados propietarios. Serán nombrados por el Gobernador del Estado y sometidos a la aprobación del Congreso, el que otorgará o negará esa aprobación dentro del improrrogable término de diez días. Si el Congreso no resolviere dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación del Congreso, no podrán tomar posesión los magistrados del Supremo Tribunal de Justicia nombrados por el Gobernador del Estado. En caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador del Estado hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación de dicho Congreso en el siguiente período ordinario de sesiones. En este período de sesiones, dentro, de los primeros diez días, el Congreso deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el magistrado nombado (sic) provisionalmente, continuará en sus funciones con carácter definitivo. Si el Congreso desecha el nombramiento, cesará desde luego en sus funciones el magistrado provisional y el Gobernador del Estado someterá nuevos nombramientos a la aprobación del Congreso, en los términos señalados anteriormente.
+ART. 63.- El Tribunal Supremo de Justicia se compondrá de siete Magistrados Propietarios. Serán nombrados por el Gobernador del Estado y sometidos a la aprobación del Congreso, el que otorgará o negará esa aprobación dentro del improrrogable término de diez días. Si el Congreso no resolviere dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación del Congreso, no podrán tomar posesión los Magistrados del Supremo Tribunal de Justicia nombrados por el Gobernador del Estado. En caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador del Estado hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional y que será sometido a la aprobación de dicho Congreso en el siguiente período ordinario de sesiones. En este período de sesiones, dentro de los primeros diez días, el Congreso deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con carácter definitivo. Si el Congreso desecha el nombramiento, cesará desde luego en sus funciones el Magistrado provisional y el Gobernador del Estado someterá nuevos nombramientos a la aprobación del Congreso, en los términos señalados anteriormente.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
 
@@ -1184,3 +1184,7 @@ UNICO.- El presente Decreto entrará en vigor a partir de la fecha de su publica
 P.O. 21 DE ENERO DE 1973.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE SAN LUIS POTOSI.
+
+P.O. 19 DE ABRIL DE 1973.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
