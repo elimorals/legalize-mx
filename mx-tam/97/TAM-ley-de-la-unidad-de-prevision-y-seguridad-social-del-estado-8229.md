@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-la-unidad-de-prevision-y-seguridad-social-del-estado-822
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-28"
-last_updated: "1987-01-28"
+last_updated: "1992-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LA UNIDAD DE PREVISION Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 28 de enero de 1987.
 
@@ -121,9 +121,11 @@ Tienen el carácter de obligatorias las aportaciones a cargo de los sujetos a qu
 
 Ninguna aportación al fondo de la UPYSSET establece derecho de propiedad sobre su patrimonio, sus reservas o sus bienes. Su pago sólo genera el derecho de exigir el cumplimiento de la obligación correlativa.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 8.
 
-Todo adeudo por aportaciones ordinarias o préstamos que no se cubran en un plazo mayor de un mes de su vencimiento, causará intereses moratorios a favor de la UPYSSET a razón del 25% del costo porcentual promedio de captación bancaria establecida por el Banco de México.
+Todo adeudo por aportaciones ordinarias o préstamos que no se cubra en un plazo mayor de un mes de su vencimiento, causarán intereses moratorios a favor de la UPYSSET, a razón de 1.3 veces la tasa líder del mercado.
 
 ###### ARTICULO 9.
 
@@ -167,7 +169,7 @@ La administración de los recursos, seguros, prestaciones y servicios a que se r
 
 La UPYSSET tendrá los siguientes objetivos:
 
-I.- Aplicar y hacer cumplir las disposiciones de esta Ley y sus reglamentos;
+I.- Aplicar y hacer cumplir las disposiciones de estaLey y sus reglamentos;
 
 II.- Administrar su patrimonio;
 
@@ -217,31 +219,39 @@ La entrega de la documentación de referencia se efectuará dentro de los 10 dí
 
 Igualmente estarán obligados a proporcionar todos los informes que la UPYSSET solicite por dichos conceptos.
 
-El incumplimiento de las obligaciones establecidas en este artículo, sujetará al funcionario o empleado remiso, a lo que para el caso, prevenga la Ley de Responsabilidades de los servidores públicos.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+El incumplimiento de las obligaciones establecidas en este Artículo, sujetará al funcionario o empleado remiso, a lo que para el caso prevenga la Ley de Responsabilidades de los Servidores Públicos. Asimismo, el incumplimiento de pago de aportaciones a la UPYSSET, causará un interés moratorio equivalente a 1.3 veces la tasa líder del mercado durante el tiempo que dure tal incumplimiento.
 
 ###### ARTICULO 15.
 
 A quienes desempeñen dos o más empleos, de los permitidos en el Artículo 160 de la Constitución Política del Estado, su aportación del 6% será sobre el total de los sueldos percibidos.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 16.
 
-El Gobierno del Estado de Tamaulipas cubrirá mensualmente a la UPYSSET, el 6% sobre los sueldos de sus servidores.
+El Gobierno del Estado de Tamaulipas cubrirá mensualmente a la UPYSSET, el 10% sobre los sueldos de sus servidores.
 
 ###### ARTICULO 17.
 
 Los descuentos omitidos por cualquier concepto, se efectuarán en los salarios y sueldos subsecuentes, pero dicho descuento no podrá exceder del 30% mensual que le corresponda.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 18.
 
-En caso de separación por licencia concedida sin goce de sueldo, misma que no excederá de dos años, los beneficiarios de esta Ley, sí desean que el lapso que dure dicha licencia se compute como de servicio, cubrirán mensualmente por adelantado la cuota de aportación al fondo, a razón del 10% sobre su sueldo a la UPYSSET, o el porcentaje que tenga vigencia en el momento que lo soliciten.
+En caso de separación por licencia concedida sin goce de sueldo, misma que no excederá de dos años, los beneficiarios de esta Ley, sí desean que el lapso que dure dicha licencia se compute como de servicio, cubrirán mensualmente o por adelantado la cuota de aportación al fondo a razón del 16% sobre su sueldo a la UPYSSET, o el porcentaje que tenga vigencia en el momento que lo soliciten; excepto en el caso de que se cubra la vacante temporal y el interino haga la aportación correspondiente.
 
 ###### ARTICULO 19.
 
 La UPYSSET gozará de todos los beneficios y exenciones, que otorgan las leyes para los bienes del Estado.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 20.
 
-Prescribirán a favor de la UPYSSET las aportaciones, las pensiones, los descuentos, los intereses y cualquier otra prestación que no se cobren, recuperen o soliciten su devolución por los interesados dentro de los dos años siguientes contados a partir del momento en que pudieron hacerlo.
+Prescribirán a favor de la UPYSSET las aportaciones, las pensiones, los descuentos, los intereses y cualquier otra prestación que no se cobren, recuperen o soliciten su devolución los interesados dentro de los dos años siguientes contados a partir del momento en que se generen, previa su notificación.
 
 #### SECCION III. ORGANOS DE GOBIERNO
 
@@ -285,9 +295,11 @@ Los representantes del Sindicato Unico de los Trabajadores al Servicio de los Po
 
 Los titulares de las dependencias del Gobierno del Estado que integran el Consejo, designarán y removerán libremente a sus respectivos suplentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 25.
 
-El Consejo sesionará ordinariamente dos veces por mes, que tendrán verificativo el primer lunes de cada quincena.
+El Consejo sesionará ordinariamente una vez por mes.
 
 Las sesiones extraordinarias se efectuarán mediante convocatoria que contenga la orden del día, notificada con tres días de anticipación. No se podrán tratar asuntos no indicados en la orden del día.
 
@@ -303,7 +315,9 @@ Son facultades y obligaciones del Consejo de Administración:
 
 I.- Cumplir y hacer cumplir todas las disposiciones de esta Ley;
 
-II.- Decidir y en su caso aprobar los planes y presupuestos anuales;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+II.- Decidir y, en su caso, aprobar los planes y presupuestos anuales con base en los resultados de los estudios actuariales que serán elaborados cuando menos una vez por año. Los planes y presupuestos anuales deberán garantizar el cumplimiento del objetivo principal de la UPYSSET, que es el pago de las actuales y futuras pensiones, por lo que el resto de las prestaciones solamente serán otorgadas si así lo permiten las reservas técnicas de pensiones;
 
 III.- Administrar el patrimonio y autorizar sus inversiones;
 
@@ -417,15 +431,19 @@ Cuando un trabajador a quien se haya otorgado una pensión siga en servicio, sin
 
 Cuando un pensionista reingrese al servicio, no podrá renunciar a la pensión que le hubiere sido concedida para solicitar y obtener otra nueva, salvo el caso de inhabilitados que quedaren aptos al servicio.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 37.
 
-La percepción de una pensión otorgada por la UPYSSET, es compatible con cualquier otra pensión concedida por la propia Unidad.
+La percepción de una pensión otorgada por la UPYSSET, es incompatible con cualquier otra pensión concedida por la propia Unidad por la misma causa.
 
 ###### ARTICULO 38.
 
 Es incompatible la percepción de una pensión, con el desempeño de cualquier cargo, empleo o comisión remunerada por el Gobierno del Estado, siempre que tales cargos y empleos impliquen la incorporación al régimen de esta Ley. Los interesados podrán gozar nuevamente de la pensión cuando desaparezca la incompatibilidad.
 
-El infractor a la disposición antes expresada, estará obligado a reintegrar las cantidades percibidas indebidamente en el plazo y con los intereses que fije la UPYSSET, que no serán mayores al 9% anual y un término que nunca será inferior al tiempo durante el cual las estuvo recibiendo. Desaparecida la incompatibilidad y reintegradas las cantidades indebidamente recibidas, el pensionista puede volver a disfrutar de la pensión otorgada. Si no hiciere el reintegro en los términos de este artículo, perderá todo derecho a la pensión.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+El infractor a la disposición antes expresada, estará obligado a reintegrar las cantidades percibidas indebidamente en el plazo y con los intereses que fije la UPYSSET, que serán del 75% de la tasa líder del mercado y un término que nunca será inferior al tiempo durante el cual las estuvo recibiendo. Desaparecida la incompatibilidad y reintegradas las cantidades indebidamente recibidas, el pensionista puede volver a disfrutar de la pensión otorgada. Si no hiciere el reintegro en los términos de este Artículo, perderá todo el derecho a la pensión.
 
 Los pensionistas están obligados a dar aviso inmediato a la UPYSSET, cuando acepten cualquiera de los empleos, cargos o comisiones a que se ha hecho referencia; igualmente, quedan obligados a dar aviso en caso de otorgamiento de alguna otra pensión. En todo caso la UPYSSET ordenará la suspensión de la pensión otorgada por la propia Unidad.
 
@@ -457,7 +475,9 @@ La jubilación dará derecho al pago de una cantidad equivalente al 100% del sue
 
 Se entiende por sueldo regulador el promedio de los sueldos disfrutados en el último año de prestación de servicios.
 
-La cuota diaria máxima de pensión jubilatoria, será fijada por el Consejo de Administración de la UPYSSET, pero aquella no podrá exceder del importe de 10 veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+La cuota diaria máxima de pensión jubilatoria, será fijada por el Consejo de Administración de la UPYSSET, pero aquella no podrá exceder del importe de 10 veces el salario mínimo vigente en la capital del Estado.
 
 Las cuantías de las pensiones jubilatorias aumentarán al mismo tiempo y en la misma proporción en que aumenten los sueldos básicos de los trabajadores en activo.
 
@@ -475,55 +495,31 @@ II.- El porcentaje antes citado se aplicará al aumento que reciban los trabajad
 
 Tratándose del personal femenino que haya prestado servicios por más de 25 años e igual tiempo de cotización a la UPYSSET, se le jubilará con el 100% del sueldo regulador.
 
-#### SECCION I. PENSION DE RETIRO POR LA EDAD AVANZADA
-
-Y TIEMPO DE SERVICIOS
+#### SECCION I. PENSION DE RETIRO POR LA EDAD AVANZADA Y TIEMPO DE SERVICIOS
 
 ###### ARTICULO 47.
 
 Tienen derecho a pensión de retiro y tiempo de servicios, los servidores públicos que habiendo cumplido 55 años de edad, tuviesen 15 años de servicios como mínimo e igual tiempo de contribuir a la UPYSSET.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 48.
 
-El cómputo de los años de servicio se hará considerando uno solo de los empleos, aun cuando el servidor público hubiese desempeñado simultáneamente varios, cualquiera que fuesen; en consecuencia, para dicho cómputo se considerará por una sola vez el tiempo durante el cual haya tenido o tenga el interesado el carácter de servidor público.
+El cómputo de los años de contribución a la UPYSSET, se hará considerando uno solo de los empleos, aun cuando el servidor público hubiese desempeñado simultáneamente varios, cualquiera que fuesen.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 49.
 
-Toda fracción de más de seis meses de servicios, se considerará como un año completo, para los efectos del otorgamiento de la pensión.
+Toda fracción de más de seis meses de contribuir a la UPYSSET, se considerará como un año completo, para los efectos del otorgamiento de la pensión o de indemnización global.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 50.
 
-Cuando el servidor público haya cumplido 55 años de edad y hubiese prestado servicios durante 15 años por lo menos, contribuido a la UPYSSET por el mismo período, la pensión se calculará aplicando la tabla siguiente:
+Cuando el servidor público haya cumplido 55 años de edad, habiendo prestado servicios durante 15 años por lo menos, y contribuído a la UPYSSET por el mismo período, la pensión se calculará aplicando la tabla siguiente al sueldo regulador:
 
-15 años de servicios 50 %
-
-16 años de servicios 52.5%
-
-17 años de servicios 55 %
-
-18 años de servicios 57.5%
-
-19 años de servicios 60 %
-
-20 años de servicios 62.5%
-
-21 años de servicios 65 %
-
-22 años da servicios 67.5%
-
-23 años de servicios 70 %
-
-24 años de servicios 72.5%
-
-25 años de servicios 75 %
-
-26 años de servicios 80 %
-
-27 años de servicios 85 %
-
-28 años de servicios 90 %
-
-29 años de servicios 95 %
+(VEASE ARCHIVO ANEXO)
 
 ###### ARTICULO 51.
 
@@ -535,9 +531,11 @@ Asimismo, para calcular las cantidades que corresponden por pensión se tomará 
 
 El derecho al pago de la pensión de retiro y tiempo de servicios comenzará a partir del día siguiente a aquel en que el servidor público hubiese percibido el último sueldo por haber causado baja.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 53.
 
-El servidor público que se separe del servicio después de haber contribuido cuando menos quince años al Fondo de Previsión Social y Pensiones, podrá dejar en éste la totalidad de las aportaciones, a efecto de que al cumplir la edad requerida para la pensión, se le otorgue la que corresponda conforme al Artículo 50 de este Ordenamiento.
+El servidor público que se separe del servicio después de haber contribuido cuando menos 15 años a la UPYSSET, podrá dejar en ésta la totalidad de las aportaciones, a efecto de que al cumplir la edad requerida para la pensión, se le otorgue la que corresponda conforme al Artículo 50 de este ordenamiento, considerando como sueldo regulador el promedio de sueldos disfrutados durante el año anterior a su separación.
 
 Si falleciera antes de cumplir los 55 años de edad, a sus familiares se les otorgará la pensión en los términos de esta Ley.
 
@@ -549,21 +547,13 @@ PENSION DE CESANTIA POR EDAD AVANZADA.
 
 La pensión de cesantía por edad avanzada se otorgará al servidor público que se separe voluntariamente del servicio o que quede privado de trabajo remunerado después de los 60 años de edad y haya cotizado por un mínimo de 10 años a la UPYSSET.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 55.
 
-La pensión mencionada en el artículo anterior se calculará aplicando el sueldo regulador a que se refiere el Artículo 44 de esta Ley a los porcentajes que se especifican en la siguiente tabla:
+La pensión mencionada en el Artículo anterior, se calculará aplicando al sueldo regulador, a que se refiere el Artículo 44 de esta Ley, los porcentajes que se especifican en la siguiente tabla:
 
-60 años de edad 10 años de servicio 40%
-
-61 años de edad 10 años de servicio 42%
-
-62 años de edad 10 años de servicio 44%
-
-63 años de edad 10 años de servicio 46%
-
-64 años de edad 10 años de servicio 48%
-
-65 o más de edad 10 años de servicio 50%
+(VEASE ARCHIVO ANEXO)
 
 El otorgamiento de la pensión de cesantía por edad avanzada se determinará de acuerdo a la tabla anterior, incrementándose anualmente, conforme a los porcentajes fijados hasta los 65 años, a partir de los cuales disfrutarán del 50% fijado.
 
@@ -771,17 +761,21 @@ I.- Si el servidor público tuviese algún adeudo con la UPYSSET, o responsabili
 
 II.- Cuando al servidor público se le impute la comisión de algún delito con motivo del desempeño de su cargo y que entrañe responsabilidad con la entidad pública correspondiente. En este caso se retendrá el total de la indemnización, hasta que los tribunales dicten fallo absolutorio; y en caso contrario, sólo se entregará el sobrante, si lo hubiere, después de cubrir dicha responsabilidad. Si el servidor estuviese respaldado por algún fondo de garantía, operará éste en primer término.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 83.
 
-Si el servidor público separado del servicio reingresare y quisiera que el tiempo durante el que trabajó con anterioridad se le compute para los efectos de esta Ley, deberá reintegrar en un plazo prudente que le conceda la UPYSSET, la indemnización global que hubiere recibido, más sus intereses simples a razón del 9% anual.
+Si el servidor público separado del servicio reingresare y quisiera que el tiempo durante el que trabajó con anterioridad se le compute para los efectos de esta Ley, deberá reintegrar a la UPYSSET en un plazo que no excederá de 2 años, la indemnización global que hubiere recibido, más sus intereses que serán del 75% de la tasa líder del mercado que hubiese estado vigente durante el período que se dejó de aportar.
 
-Si falleciera antes de ejercer derechos o de solventar el adeudo, sus beneficiarios podrán optar el pago de la indemnización que le hubiere correspondido al servidor público en los términos del Artículo 50, o bien por cubrir íntegramente el saldo adeudado para disfrutar de la pensión, en los casos que ésta proceda.
+Si falleciera antes de ejercer derechos o de solventar el adeudo, sus beneficiarios podrán optar el pago de la indemnización que le hubiere correspondido al servidor público en los términos del Artículo 50, o bien por cubrir íntegramente el saldo adeudado, más los intereses equivalentes al 75% de la tasa líder del mercado, para disfrutar de la pensión, en los casos que ésta proceda.
 
 ### CAPITULO V. DE LOS PRESTAMOS A CORTO PLAZO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 84.
 
-Los préstamos a corto plazo, se otorgarán a los servidores públicos conforme a las siguientes reglas:
+Los préstamos a corto plazo, se otorgarán a los servidores públicos de acuerdo con las posibilidades de las reservas técnicas de la UPYSSET, determinadas actuarialmente y conforme a las siguientes reglas:
 
 I.- A quienes tengan de nombrados cuando menos seis meses y hayan cubierto a la UPYSSET las aportaciones a que se refiere la fracción II del Artículo 15, por igual tiempo;
 
@@ -789,97 +783,145 @@ II.- Mediante garantías de dichas aportaciones;
 
 III.- El monto del préstamo se regirá por las siguientes bases:
 
-a).- Hasta el importe de 4 meses de sueldo básico, que disfrute el solicitarte, si sus aportaciones son iguales o mayores al monto del préstamo. En caso contrario se autorizará solamente el importe de 3 meses;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+a).- Se calculará considerando como préstamo máximo la cantidad en veces al salario mínimo base de los trabajadores del Gobierno del Estado, a que se refiere la siguiente tabla, cerrada a cientos de miles de pesos:
+
+(VEASE ARCHIVO ANEXO)
 
 b).- Cuando el préstamo sobrepase el monto de las aportaciones, el excedente se garantizará con un fondo especial que constituyan los interesados, mediante el pago de una prima en los términos que fije el Consejo de Administración de la UPYSSET;
 
-c).- El monto del préstamo lo constituirá el capital y los intereses calculados conforme al plazo de pago.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-Los pensionistas podrán obtener préstamos a corto plazo conforme a las reglas señaladas anteriormente.
+c).- El monto del préstamo lo constituirá exclusivamente el capital. Los pensionistas podrán obtener préstamos a corto plazo conforme las reglas señaladas anteriormente.
 
 ###### ARTICULO 85.
 
 Los préstamos se otorgarán de tal manera que los abonos para reintegrar la cantidad prestada y sus intereses sumados a los descuentos por otros conceptos, no excedan del 50% de los sueldos del interesado.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 86.
 
-El plazo para el pago del préstamo y sus accesorios no será mayor de 48 quincenas.
+El plazo para el pago del préstamo y sus accesorios no será mayor de 24 quincenas.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 87.
 
-El plazo para el pago del préstamo y el interés anual sobre saldos insolutos, que no será superior al 18% para los trabajadores de confianza y extraordinarios, y del 9% para los trabajadores de base, se fijará mediante acuerdos generales del Consejo de Administración en vista de los recursos disponibles y observando el grado de recuperación, la equidad, la importancia de la cobertura y la utilización racional da los recursos asignados a esta prestación.
+El plazo para el pago del préstamo y el interés sobre saldos insolutos, que será del 75% de la tasa líder del mercado, se fijarán mediante acuerdos generales del Consejo de Administración, en vista de los recursos disponibles, y observando el grado de recuperación, la equidad, la importancia de la cobertura y la utilización racional de los recursos asignados a esta prestación.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 88.
 
-El pago de capital o intereses se hará en abonos quincenales iguales.
+El pago de capital e interés se hará en abonos quincenales iguales.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 89.
 
-No se otorgará nuevo préstamo mientras permanezca insoluto el anterior. Solamente podrá renovarse cuando haya transcurrido la cuarta parte del plazo concedido y cubiertos los abonos por dicho período y que el deudor pague la prima de renovación fijada mediante acuerdo general por el Director.
+No se otorgará nuevo préstamo mientras permanezca insoluto el anterior.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 90.
 
-Los adeudos por concepto de préstamo a corto plazo, que no fuesen cubiertos por los servidores públicos y pensionistas después de un año de su vencimiento, se cargarán al fondo de garantía a que se refiere al Artículo 84, fracción III, inciso b). Sin embargo quedará a salvo el crédito contra el deudor, debiendo la UPYSSET, acudir a los medios legales de recobro y en su caso, abonar a dicho fondo las cantidades que se recuperen.
+Los adeudos por concepto de préstamo a corto plazo, que no fuesen cubiertos por los servidores públicos o pensionistas, después de 3 meses de su vencimiento, se cargarán al fondo de garantía a que se refiere al Artículo 84, fracción III, inciso b. Sin embargo, quedará a salvo el crédito contra el deudor, debiendo la UPYSSET acudir a los medios legales de recobro y en su caso, abonar a dicho fondo las cantidades que se recuperen.
+
+El interés moratorio comenzará a gravar el adeudo al mes siguiente al de su vencimiento y será equivalente a 1.3 veces de la tasa líder del mercado, o vigente a la fecha de dicho vencimiento.
 
 ### CAPITULO VI. PRESTAMOS ESPECIALES
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 91.
 
-El préstamo especial con aval o garantía colateral será aquel que llene tal requisito a satisfacción del Consejo de Administración. Está destinado a resolver un problema económico urgente o a cubrir una necesidad apremiante que en uno u otro caso ayude a mejorar la situación del servidor público y de su familia. El Consejo de Administración calificará su procedencia y señalará los términos del aval o garantía colateral. El avalista deberá ser empleado de base y cubrirá en forma directa, si así lo decide la UPYSSET, el pago omitido por el deudor principal.
+El préstamo especial con aval o garantía colateral será aquel que llene tal requisito y se otorgará de acuerdo con la capacidad económica de la UPYSSET determinada mediante estudios actuariales.
+
+El préstamo especial está destinado a resolver un problema económico urgente o a cubrir una necesidad apremiante que en uno u otro caso ayude a mejorar la situación el servidor público y de su familia. El Director General de la UPYSSET calificará su procedencia y en caso de duda podrá solicitar al Consejo de Administración su opinión.
+
+Asimismo, el Director General de la UPYSSET señalará los términos del aval o garantía colateral. El avalista deberá ser empleado de base y cubrir en forma directa el pago omitido por el deudor principal.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 92.
 
-El préstamo especial deberá cubrirse dentro de un plazo no mayor de 18 meses, mediante pagos periódicos iguales; se documentará con arreglo a los títulos de crédito mercantiles y los intereses se cubrirán sobre saldos insolutos en un proceso de amortización financiera que no excederán del 50% del costo porcentual promedio de captación bancaria establecido por el Banco de México. En ningún caso se hará renovación o ampliación de esta clase de préstamos hasta en tanto no se hubiese cubierto totalmente el anterior.
+El préstamo especial deberá cubrirse dentro de un plazo no mayor de 15 meses, mediante pagos periódicos iguales; se documentará con arreglo a los títulos de crédito mercantiles y los intereses se cubrirán sobre saldos insolutos en un proceso de amortización financiera que será del 75% de la tasa líder del mercado. En ningún caso se hará renovación o ampliación de esta clase de préstamos hasta en tanto no se hubiese cubierto totalmente el anterior.
 
 ### CAPITULO VII. PRESTAMOS A MEDIANO PLAZO
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 93.
 
-Los servidores públicos y pensionistas que lo soliciten podrán obtener créditos para adquirir bienes de uso duradero que tengan en venta los centros comerciales y las tiendas de la UPYSSET, si satisfacen, en lo conducente, las condiciones que esta Ley establece, en el caso de los préstamos a corto plazo y cumplan con los demás requisitos que prevenga el reglamento que al efecto expida el Consejo de Administración. Asimismo, podrán adquirir bienes muebles que garanticen plenamente su crédito, en los términos y con los requisitos que establezca la UPYSSET.
+Los servidores públicos que lo soliciten podrán, de acuerdo con las posibilidades de la UPYSSET, determinadas actuarialmente, obtener créditos para adquirir bienes de uso duradero que tengan en venta los centros comerciales, si satisfacen en lo conducente las condiciones que esta Ley establece en el caso de préstamos a corto plazo y cumplan con los demás requisitos que prevenga el Reglamento que al efecto expida el Consejo de Administración.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 94.
 
-En el otorgamiento de los préstamos a mediano plazo para adquisición de bienes de uso duradero, se considerará el monto del sueldo o pensión y la amortización creciente. No se concederá otro préstamo de este tipo mientras no quede totalmente liquidado el que se haya otorgado.
+En el otorgamiento de los préstamos a mediano plazo para adquisición de bienes de uso duradero, se considerará el monto del sueldo y la amortización creciente. No se concederá otro préstamo mientras no quede totalmente liquidado el que se haya otorgado.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 95.
 
-Los créditos para la adquisición de los bienes a que se refiere el artículo anterior se otorgarán mediante garantía prendaria, pagaderos en forma directa por el derecho-habiente a la UPYSSET o mediante los mecanismos que se precisen en el reglamento que emita el Consejo de Administración. No causarán intereses cuando se amorticen en un plazo de 90 días.
+Los créditos para la adquisición de los bienes a que se refiere el Artículo anterior se otorgarán mediante garantía prendaria, pagaderos en forma directa por el derecho-habiente a la UPYSSET, o mediante los mecanismos que se precisen en el Reglamento que emita el Consejo de Administración.
 
-El plazo máximo de amortización para estos préstamos será de 5 años; el interés nunca será superior al 9% anual, y la cantidad autorizada podrá ser hasta de 10 veces el sueldo básico mínimo o pensión mensual de los servidores públicos o pensionistas en las mismas condiciones señaladas en el Capítulo V de esta Ley.
+El plazo máximo de amortización para estos préstamos será de 3 años; el interés sobre saldos insolutos será al 75% de la tasa líder del mercado y la cantidad autorizada podrá ser hasta de 5 veces el sueldo básico mínimo mensual de los servidores públicos o pensionistas en las mismas condiciones señaladas en el Capítulo V de esta Ley y su operación será reglamentada por el Consejo de Administración
 
 ### CAPITULO VIII. PRESTAMOS HIPOTECARIOS
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 96.
 
-Los préstamos hipotecarios se destinarán a construir o adquirir casas para habitación de los servidores públicos, para hacerles mejoras o liberarlas de gravámenes.
+Los préstamos hipotecarios se destinarán a construír o adquirir casas para habitación de los servidores públicos, para hacerles mejoras o liberarlas de gravámenes. El monto global e individual de estos préstamos será determinado de acuerdo a la capacidad económica de la UPYSSET, en base a los resultados que arrojen los estudios actuariales correspondientes. Los servidores públicos tendrán derecho a solicitar este tipo de crédito por una sola vez.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 97.
 
-Los servidores públicos podrán solicitar créditos hipotecarios, otorgando garantía hipotecaria, en primer lugar sobre las fincas. Los trabajadores de confianza sólo gozarán de este derecho cuando tengan una antigüedad mínima de tres años en el empleo y mismo tiempo de aportación a la UPYSSET.
+Los servidores públicos podrán solicitar créditos hipotecarios, otorgando garantía hipotecaria, en primer lugar sobre las fincas.
 
 ###### ARTICULO 98.
 
 El monto máximo para préstamos hipotecarios será fijado por el Consejo de Administración de la UPYSSET.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+Las amortizaciones quincenales, incluyendo intereses sumados a los descuentos por otros conceptos, no deberán exceder del 50% del sueldo del trabajador.
+
 ###### ARTICULO 99.
 
 El plazo máximo que puede otorgar la UPYSSET, para el pago de estos créditos será de 10 años, debiendo ser quincenales las amortizaciones de capital e intereses.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 100.
 
-Los préstamos hipotecarios causarán un interés que será fijado por el Consejo de Administración, sobre saldos insolutos. La UPYSSET formulará tablas generales, señalando las cantidades máximas que puedan prestarse a los servidores públicos tomando en consideración los sueldos que perciben.
+Las amortizaciones quincenales de los créditos hipotecarios se calcularán como porcentaje del salario mínimo base de los trabajadores del Gobierno del Estado, dependiendo del monto y del plazo del crédito, de acuerdo con el siguiente procedimiento:
+
+El monto del crédito hipotecario, se dividirá entre el salario mínimo quincenal base de los trabajadores del Gobierno del Estado y el resultado se multiplicará por el factor de la tabla siguiente, dependiendo de plazo de amortización del crédito.
+
+(VEASE ARCHIVO ANEXO)
+
+El resultado de la anterior operación, representa el porcentaje que el trabajador deberá aportar quincenalmente como amortización al crédito hipotecario, en función del salario mínimo base quincenal de los trabajadores del Gobierno del Estado, vigente en las fechas de amortización.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 101.
 
-En caso de separación definitiva de un servidor público, deudor de un préstamo hipotecario, la UPYSSET podrá, si lo considera justificado, conceder una prórroga máxima de seis meses para que el deudor continúe el pago de sus obligaciones.
+En caso de separación definitiva de un servidor público, deudor de un crédito hipotecario, la UPYSSET incrementará en un 5% las amortizaciones calculadas de acuerdo con el Artículo 100, que al momento de la separación se encuentren pendientes de pago.
 
-### CAPITULO IX. VENTA DE HABITACIONES ECONOMICAS
+### CAPITULO IX. VENTA DE HABITACIONES ECONOMICAS PERTENECIENTES A LA UPYSSET
 
-PERTENECIENTES A LA UPYSSET
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 102.
 
-La UPYSSET podrá con sus propios recursos:
+Si La situación económica de la UPYSSET así lo permite, podrá con sus propios recursos:
 
 I.- Conceder financiamiento en los términos del Capítulo VIII de esta Ley a los servidores públicos, para que construyan o compren casas destinadas exclusivamente a la habitación de ellos y su familia; y
 
@@ -933,9 +975,11 @@ Los servicios médicos referentes a la pensión por riesgos profesionales para l
 
 ### CAPITULO XI. DE LAS PRESTACIONES ESPECIALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 112.
 
-Dentro del régimen de seguridad social que establece este Ordenamiento, la UPYSSET realizará promociones especiales y otorgará prestaciones que tiendan a mejorar las condiciones económicas, sociales y culturales de las personas físicas que son sujetas de esta Ley, mediante:
+Dentro del régimen de seguridad social que establece este Ordenamiento, la UPYSSET realizará promociones especiales y otorgará prestaciones que tiendan a mejorar las condiciones económicas, sociales y culturales de las personas físicas que son sujetas de esta Ley, siempre que su operación reditúe cuando menos una tasa de rendimiento anual igual o superior la tasa de incremento salarial anual, mediante:
 
 I.- El establecimiento de almacenes para la venta de artículos domésticos, de alimentación y de vestido;
 
@@ -970,6 +1014,80 @@ Si llegare a ocurrir en cualquier tiempo que los recursos de la UPYSSET no basta
 ###### ARTICULO 116.
 
 Corresponde al Tribunal de Arbitraje para los Trabajadores al Servicio del Estado el conocimiento y resolución de las controversias que se susciten con motivo de la aplicación de esta Ley.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+### CAPITULO XV. DE LAS RESERVAS TECNICAS
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 117.
+
+Las reservas técnicas de la UPYSSET se constituirán con las cantidades que resulten de las diferencias entre los ingresos por cuotas y aportaciones y los egresos por pago de pensiones, indemnizaciones globales, gastos de funeral, adquisición de bienes muebles e inmuebles y gastos administrativos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 118.
+
+La administración de las reservas técnicas constituídas en los términos del Artículo anterior se sujetarán a los siguientes principios:
+
+I.- La inversión de las reservas deberá hacerse en las mejores condiciones de seguridad y rendimiento. Su disponibilidad deberá estar acorde con liquidez requerida por la UPYSSET para hacer frente al pago de pensiones.
+
+II.- Al concurrir similitud de circunstancias sobre seguridad, rendimiento y liquidez en diferentes tipos de inversión, se preferirá la que garantice mayor utilidad social;
+
+III.- Los rendimientos generados por las reservas a que se refiere el Artículo anterior, serán reinvertidos para incrementarlas,
+
+IV.- En su caso, deberá estar plenamente justificado que la adquisición de bienes muebles e inmuebles es absolutamente indispensable para el buen funcionamiento administrativo de la UPYSSET y que tiene como fin el otorgar mejor servicio a los trabajadores y pensionados;
+
+V. Las reservas solamente podrán ser utilizadas cuando los ingresos de la UPYSSET sean inferiores a los egresos que se mencionan en el Artículo anterior, y solamente podrá utilizarse el monto de dicha diferencia; y,
+
+VI.- Las reservas creadas por la UPYSSET para hacer frente a sus obligaciones futuras, podrán destinarse al otrogamiento de créditos en los términos de esta Ley. El monto global que podrá destinarse a créditos deberá ser determinado actuarialmente de tal manera que no se ponga en riesgo el pago de futuras pensiones.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+### CAPITULO XVI. DE LAS SANCIONES
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 119.
+
+Los Servidores Públicos de la UPYSSET y los miembros del Consejo de Administración, que dejen de cumplir con alguna de las obligaciones que les impone esta Ley, serán sancionados con multas por el equivalente de uno a diez veces el salario mensual que perciben, según la gravedad del caso.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 120.
+
+Los pagadores y encargados de cubrir los sueldos que no efectúen los descuentos que procedan en los términos de esta Ley, serán sancionados con una multa equivalente al 5% de las cantidades no descontadas, independientemente de la responsabilidad civil o penal en que incurran.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 121.
+
+Las sanciones pecuniarias previstas en los Artículos anteriores, serán impuestas por el Director General de la UPYSSET, después de oir al interesado y serán revisables por el Consejo de Administración si se hace valer la inconformidad por escrito dentro del plazo de 15 días.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 122.
+
+Los servidores públicos de la UPYSSET y los miembros del Consejo de Administración estarán sujetos a las responsabilidades civiles, administrativas y penales en que pudieran incurrir, de acuerdo a las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 123.
+
+Se reputará como fraude y sancionará como tal, en los términos del Código Penal para el Estado de Tamaulipas, el obtener las prestaciones y servicios que esta Ley establece sin tener derecho a ellos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 124.
+
+Cuando se finque responsabilidad pecuniaria a un servidor público o diversa persona, y a favor de la UPYSSET con motivo de imposición de las sanciones establecidas en este Capítulo, o por haber recibido servicios o prestaciones indebidamente, las dependencias o entidades de la Administración Pública en donde preste sus servicios, le hará, a petición de la UPYSSET, los descuentos correspondientes hasta por el importe de su responsabilidad.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 125.
+
+La UPYSSET tomará las medidas pertinentes en contra de quienes indebidamente aprovechen o hagan uso de los derechos o beneficios establecidos por esta Ley, y ejercitará ante los Tribunales las acciones que correspondan, presentando las denuncias o querellas, y realizará todos los actos y gestiones que legalmente procedan, así como contra quien cause daños o perjuicios a su patrimonio o trate de realizar cualesquiera de los actos anteriormente enunciados.
 
 T R A N S I T O R I O S
 
@@ -1010,3 +1128,11 @@ SALON DE SESIONES DEL H. CONGRESO DEL ESTADO. Cd. Victoria, Tam., a 10 de diciem
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los diecisiete días del mes de diciembre de mil novecientos ochenta y seis.- El Gobernador Constitucional del Estado, DR. EMILIO MARTINEZ MANAUTOU.- El Secretario General de Gobierno, LIC. ROBERTO PERALES MELENDEZ.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE DICIEMBRE DE 1992
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
