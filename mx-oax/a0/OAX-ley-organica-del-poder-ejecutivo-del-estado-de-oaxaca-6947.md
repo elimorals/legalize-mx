@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-6947"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-12-01"
-last_updated: "2001-07-20"
+last_updated: "2003-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6947&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el 1° de diciembre de 1992.
 
@@ -101,9 +101,11 @@ Tratándose de los Decretos promulgatorios de las Leyes o Decretos expedidos por
 
 De acuerdo con las disposiciones relativas, al tomar posesión de un cargo, los Servidores Públicos registrarán su firma en la Secretaría General de Gobierno y otorgarán Fianza cuando las Leyes así lo establezcan.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 15.
 
-La estructura interna y funciones de las Secretarías estarán definidas por el Reglamento Orgánico de la Administración Pública que para tal efecto emita el Ejecutivo Estatal.
+La estructura interna y funciones de las dependencias de la Administración Pública Estatal, estarán definidas por los Reglamentos Internos que para cada una de ellas emita el Ejecutivo Estatal.
 
 ###### ARTICULO 16.
 
@@ -381,7 +383,9 @@ XIV.- Proporcionar Asesoría a Instituciones Públicas y a los Particulares en m
 
 XV.- Aclarar las observaciones que le finque el Congreso Local por conducto de la Contaduría Mayor de Hacienda.
 
-XVI.- Elaborar los Estados Financieros e Integrar la Cuenta Pública y someter esta a consideración del Gobernador del Estado, para la presentación correspondiente ante el Congreso Local en los primeros diez días del mes de Abril de cada año.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2003)</small>
+
+XVI.- Elaborar los estados financieros e integrar la Cuenta de Inversión de las Rentas Generales del Estado correspondiente al año inmediato anterior y someter esta a consideración del Gobernador del Estado, para la presentación correspondiente ante el Congreso del Estado en los primeros diez días del mes de marzo de cada año;
 
 > <small>(REFORMADA, P.O. 28 DE MAYO DE 1996)</small>
 
@@ -1072,3 +1076,7 @@ TERCERO.- El Gobernador del Estado dispondrá la dotación de recursos materiale
 P.O. 20 DE JULIO DE 2001.
 
 ÚNICO.- Este Decreto entrará en vigor el día 1º de enero del año 2002, publíquese en el Periódico Oficial del Estado
+
+P.O. 27 DE DICIEMBRE DE 2003.
+
+UNICO.- Este Decreto entrará en vigor en vigor a partir del día 1º de enero del año 2004, previa publicación en el Periódico Oficial del Gobierno del Estado.
