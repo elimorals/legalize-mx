@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-de-oaxaca-11818"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-04"
-last_updated: "1995-11-04"
+last_updated: "1998-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -71,9 +71,11 @@ Esta Ley, sus reformas y adiciones, y los Reglamentos que de ella se deriven, no
 
 El Congreso del Estado, tendrá su residencia oficial en la Ciudad de Oaxaca de Juárez, celebrará sus sesiones en el edificio sede del Poder Legislativo y no podrá trasladarse a otro lugar, sin que así lo acuerden las tres cuartas partes de los Diputados presentes.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 7º.
 
-El Congreso del Estado, tendrá cada año dos períodos ordinarios de sesiones; el primero comenzará el 16 de Septiembre y terminará el 15 de Diciembre, y el segundo dará principio el 1º de abril y concluirá el 30 de junio. El Congreso se reunirá, además, en períodos extraordinarios siempre que sea convocado por la Diputación Permanente o el Ejecutivo del Estado, en los términos que establece la Constitución Política del Estado.
+El Congreso del Estado, tendrá cada año dos períodos ordinarios de sesiones; el primero comenzará el 15 de noviembre y terminará el 30 de abril, y el segundo dará principio el primero de junio y concluirá el 30 de septiembre. El Congreso se reunirá además, en períodos extraordinarios siempre que sea convocado por la Diputación Permanente o por el Ejecutivo del Estado, en los términos que establece la Constitución Política del Estado.
 
 ###### ARTICULO 8º.
 
@@ -81,9 +83,11 @@ En los días indicados en el artículo anterior, la Legislatura se reunirá en s
 
 "La (aquí el número de la Legislatura) Legislatura del Estado de Oaxaca (abre-clausura) hoy (fecha) el (primero-segundo) período ordinario de sesiones, correspondiente al (año respectivo) de su ejercicio constitucional".
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 9º.
 
-En la apertura del primer período ordinario de sesiones correspondiente al primer año de su ejercicio legal, la legislatura efectuará el 16 de septiembre una sesión a la que asistirá el Ciudadano Gobernador Constitucional del Estado y el Ciudadano Presidente del Tribunal Superior de Justicia del Estado.
+En la apertura del primer periodo ordinario de sesiones correspondiente al primer año de su ejercicio legal, la legislatura efectuará el 16 de noviembre una sesión a la que asistirá el ciudadano Gobernador Constitucional del Estado y el ciudadano Presidente del Tribunal Superior de Justicia del Estado.
 
 ###### ARTICULO 10.
 
@@ -117,9 +121,11 @@ El Recinto del Congreso es inviolable, toda fuerza pública tiene impedido el ac
 
 DEL REGISTRO DE CONSTANCIAS DE MAYORIA Y DE LA COMISION INSTALADORA.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 16.
 
-El registro de las constancias de mayoría, validez y de asignación, emitidas por los Consejos Distritales y General del Instituto Estatal Electoral, de los Diputados electos, se hará ante la Oficialía Mayor de la Legislatura, del 10 al 12 de septiembre del año de la elección, mediante la exhibición de éstas o de la copia certificada de la resolución que le hubiere sido favorable, dictada por el Tribunal Estatal Electoral, y se hará en los términos que fije el Reglamento Interior.
+El registro de las constancias de mayoría, validez y de asignación, emitidas por los Consejos Distritales y General del Instituto Estatal Electoral, de los Diputados electos, se hará ante la Oficialía Mayor de la Legislatura, del 10 al 12 de noviembre del año de la elección, mediante la exhibición de éstas o de la copia certificada de la resolución que le hubiere sido favorable, dictada por el Tribunal Estatal Electoral, y se hará en los términos que fije el Reglamento Interior.
 
 ###### ARTICULO 17.
 
@@ -133,9 +139,11 @@ I.- Verificar el registro de las constancias que hayan sido expedidas y registra
 
 II.- Entregar por inventario a la Mesa Directiva de la Legislatura entrante, la totalidad de los documentos mencionados en la fracción I de este artículo.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 19.
 
-La Comisión Instaladora, al expedir las credenciales de acceso a los Diputados electos, los citará para que estén presentes el día 15 de septiembre a las 10:00 horas, cerciorándose de que firmen de enterados.
+La Comisión Instaladora, al expedir las credenciales de acceso a los Diputados electos, los citará para que estén presentes el día 15 de noviembre a las 10:00 horas, cerciorándose de que firmen de enterados.
 
 ###### ARTICULO 20.
 
@@ -151,9 +159,11 @@ IV.- El Presidente de la Mesa Directiva de la Legislatura entrante, protestará 
 
 ### CAPITULO II. DE LA INSTALACION DE LA LEGISLATURA
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 21.
 
-La Legislatura deberá quedar instalada a las 11:00 horas del 15 de septiembre del año en que se efectúe su renovación, y se procederá en los términos establecidos en el Reglamento Interior del Congreso.
+La Legislatura deberá quedar instalada a las 11:00 horas del 15 de noviembre del año en que efectúe su renovación, y se procederá en los términos establecidos en el Reglamento Interior del Congreso.
 
 ## TITULO TERCERO. DE LA MESA DIRECTIVA
 
@@ -700,3 +710,9 @@ SUFRAGIO EFECTIVO. NO REELECCION. EL RESPETO AL DERECHO AJENO ES LA PAZ. Oaxaca 
 EL SECRETARIO GENERAL DE GOBIERNO. LIC. JOSE ANTONIO ESTEFAN GARFIAS.
 
 AL C...
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE DICIEMBRE DE 1998.
+
+UNICO.- Las reformas de que se ocupa este Decreto, entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
