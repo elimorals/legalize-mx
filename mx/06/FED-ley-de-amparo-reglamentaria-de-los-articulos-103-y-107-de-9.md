@@ -4,7 +4,7 @@ identifier: "FED-ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-9"
 country: "mx"
 rank: "ley"
 publication_date: "1936-01-10"
-last_updated: "1968-04-30"
+last_updated: "1974-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-12-30"
 
 LEY DE AMPARO, REGLAMENTARIA DE LOS ARTICULOS 103 Y 107 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 1968.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE DICIEMBRE DE 1974.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 10 de enero de 1936.
 
@@ -767,6 +767,10 @@ Podrá suplirse la deficiencia de la queja cuando el acto reclamado se funde en 
 
 Podrá también suplirse la deficiencia de la queja en materia penal y la de la parte obrera en materia del trabajo, cuando se encuentre que ha habido en contra del agraviado una violación manifiesta de la ley que lo ha dejado sin defensa, y en materia penal, además, cuando se le haya juzgado por una ley que no es exactamente aplicable al caso.
 
+> <small>(ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 1974)</small>
+
+Podrá suplirse la deficiencia de la queja en los juicios de amparo en que los menores de edad o los incapaces figuren como quejosos.
+
 > <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 1963)</small>
 
 Deberá suplirse la deficiencia de la queja en materia agraria, cuando el quejoso alegue que ha habido, en contra del núcleo de población o del ejidatario o comunero, una violación manifiesta de sus derechos agrarios sobre tierras y aguas.
@@ -787,6 +791,10 @@ En las sentencias que se dicten en los juicios de amparo, el acto reclamado se a
 
 En las propias sentencias sólo se tomarán en consideración las pruebas que justifiquen la existencia del acto reclamado y su constitucionalidad o inconstitucionalidad.
 
+> <small>(ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 1974)</small>
+
+En los amparos en que se controviertan derechos de menores o incapaces, el tribunal que conozca del juicio tendrá como reclamados los actos que afecten sus derechos, aunque no se hayan señalado expresamente en la demanda de garantías.
+
 > <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 1963)</small>
 
 En los amparos en materia agraria, se tomarán en cuenta las pruebas que aporte el quejoso y las que de oficio recabe la autoridad judicial. La autoridad que conozca del amparo resolverá sobre la inconstitucionalidad de los actos reclamados tal y como se hayan probado, aun cuando sean distintos de los invocados en la demanda.
@@ -797,7 +805,9 @@ En los amparos en materia agraria, se tomarán en cuenta las pruebas que aporte 
 
 La Suprema Corte de Justicia, los Tribunales Colegiados de Circuito y los jueces de Distrito, en sus sentencias, podrán suplir el error en que haya incurrido la parte agraviada al citar la garantía cuya violación reclame, otorgando el amparo por la que realmente aparezca violada; pero sin cambiar los hechos o conceptos de violación expuestos en la demanda.
 
-El juicio de amparo por inexacta aplicación de la ley, contra actos de autoridades judiciales del orden civil, es de estricto derecho, y, por tanto, la sentencia que en él se dicte, a pesar de lo prevenido, en este artículo, se sujetara (sic) a los términos de la demanda, sin que sea permitido suplir ni ampliar nada en ella.
+> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 1974)</small>
+
+El Juicio de amparo por inexacta aplicación de la ley, contra actos de autoridades judiciales del orden civil, es de estricto derecho, salvo los casos de amparos que afecten derechos de menores o incapaces, y, por tanto, la sentencia que en el se dicte, a pesar de lo prevenido en este artículo, se sujetará a los términos de la demanda, sin que sea permitido suplir ni ampliar nada en ella.
 
 ###### ARTICULO 80.
 
@@ -973,7 +983,11 @@ IV.- Si en la revisión de una sentencia definitiva, en los casos de la fracció
 
 > <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 1963)</small>
 
-V.- Tratándose de amparos en materia agraria, examinarán los agravios del quejoso supliendo las deficiencias de la queja, y apreciarán los actos reclamados y su inconstitucionalidad conforme a lo dispuesto por el artículo 78.
+V.- Tratándose de amparos en materia agraria, examinarán los agravios del quejoso supliendo las deficiencias de la queja, y apreciarán los actos reclamados y su inconstitucionalidad conforme a lo dispuesto por el artículo 78;
+
+> <small>(ADICIONADA, D.O.F. 4 DE DICIEMBRE DE 1974)</small>
+
+VI.- Tratándose de amparos en que los recurrentes sean menores de edad o incapaces, examinarán sus agravios y podrán suplir sus deficiencias y apreciar los actos reclamados y su inconstitucionalidad conforme a lo dispuesto en el tercer párrafo del artículo 78.
 
 > <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1968)</small>
 
@@ -1643,7 +1657,9 @@ I.- Deberá impugnar la violación en el curso mismo del procedimiento mediante 
 
 II.- Si la ley no concede el recurso ordinario a que se refiere la fracción anterior o si, concediéndolo, el recurso fuere desechado o declarado improcedente, deberá invocar la violación como agravio en la segunda instancia, si se cometió en la primera.
 
-Estos requisitos no serán exigibles en el amparo contra sentencias dictadas en controversias sobre acciones del estado civil o que afecten al orden y a la estabilidad de la familia.
+> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 1974)</small>
+
+Estos requisitos no serán exigibles en amparos contra actos que afecten derechos de menores o incapaces, ni en los promovidos contra sentencias dictadas en controversias sobre acciones del estado civil o que afecten el orden y a la estabilidad de la familia.
 
 ###### ARTICULO 162.
 
@@ -2188,3 +2204,7 @@ En los amparos indirectos pendientes de sentencia en los Juzgados de Distrito, y
 ###### ARTICULO 11o.
 
 En los amparos en revisión pendientes de sentencia ante la Suprema Corte de Justicia o ante los Tribunales Colegiados de Circuito, cuando el acto reclamado proceda de autoridades civiles o administrativas, y siempre que no esté reclamada la inconstitucionalidad de una ley, se decretará la caducidad de la instancia y que ha quedado firme la sentencia del Juez de Distrito si no se efectúa ningún acto procesal dentro del término de trescientos días incluyendo los inhábiles, ni el recurrente hace promoción alguna dentro del mismo término, contado a partir de la fecha de vigencia de las presentes reformas y adiciones.
+
+D.O.F. 4 DE DICIEMBRE DE 1974.
+
+UNICO.- El presente Decreto entrará en vigor quince días después de su publicación en el "Diario Oficial" de la Federación.
