@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "1997-12-26"
+last_updated: "1998-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 1998.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -2991,9 +2991,15 @@ VII.- Las pólizas originales de contratos celebrados con intervención de corre
 
 VIII.- El juicio uniforme de contadores, si las partes ante el juez o por escritura pública, o por escrito privado reconocido judicialmente, se hubieren sujetado a él expresamente o lo hubieren aprobado.
 
-(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1988) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 1998)</small>
 
-ART. 437.- Las sentencias que causen ejecutoria y los convenios judiciales, los convenios celebrados ante la Procuraduría Federal del Consumidor, los laudos que emita la propia Procuraduría y los laudos o juicios de Contadores, motivarán ejecución, si el interesado no intentare la Vía de Apremio.
+IX.- Los convenios celebrados por las partes ante la Procuraduría General de Justicia del Estado, ante los Juzgados de primera instancia del ramo penal o ante los Juzgados Penales de Paz.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
+
+###### ARTICULO 437.
+
+Las sentencias que causen ejecutoria y los convenios judiciales, los convenios celebrados ante la Procuraduría Federal del Consumidor, los laudos que emita la propia Procuraduría, los laudos o juicios de Contadores; los convenios celebrados ante la Procuraduría General de Justicia del Estado; ante los Juzgados de primera instancia del ramo penal o ante los Juzgados Penales de Paz en el Estado, motivarán ejecución, si el interesado no intentare la Vía de Apremio.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4609,7 +4615,7 @@ ART. 714.- La responsabilidad civil en que puedan incurrir jueces y magistrados 
 
 ART. 715.- No podrá promoverse demanda de responsabilidad civil, sino hasta que queda determinado por sentencia o auto firme el pleito o causa en que se suponga causado el agravio.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
+(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 ART. 716.- Cuando la demanda se dirija contra un Juez de Paz, cualquiera que sea su cuantía, conocerá de ella el Juez de Primera Instancia a que aquél corresponda. Contra la sentencia que éste pronuncie, procederá la apelación en ambos efectos para ante el tribunal superior, si el juicio por su cuantía fuere apelable.
 
@@ -6510,3 +6516,9 @@ Los asuntos que se hayan iniciado que estén pendientes de resolución, así com
 P.O. 26 DE DICIEMBRE DE 1997.
 
 ÚNICO.- Las reformas y adiciones a que se refiere el presente decreto, entrarán en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano de difusión del Gobierno del Estado.
+
+P.O. 28 DE AGOSTO DE 1998.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, órgano de Gobierno del Estado.
