@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-31731"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "2000-07-21"
+last_updated: "2001-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO CIVIL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 2001.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -309,9 +309,11 @@ El hijo adoptivo, tomará los apellidos de los adoptantes con las mismas reglas 
 
 El matrimonio no modifica los apellidos de los contrayentes.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 39.
 
-El nombre de las personas físicas es inmutable, y sólo podrá ser modificado por resolución judicial. Igualmente es inalienable e imprescriptible.
+El nombre de las personas físicas es inmutable, inalienable e imprescriptible y sólo podrá ser modificado por resolución administrativa o judicial.
 
 ###### ARTÍCULO 40.
 
@@ -511,17 +513,15 @@ c) Si se trata de matrimonios entre extranjeros, los contrayentes deberán acred
 
 Las declaraciones del nacimiento, se harán presentando al infante ante el Oficial del Registro Civil en su oficina, y en los casos en que circunstancialmente sea necesario, el Oficial acudirá al lugar en que se encuentre.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 74.
 
-Tienen obligación de declarar el nacimiento, los padres del menor o cualquiera de ellos, dentro de los ciento ochenta días siguientes a la fecha en que hubiese ocurrido. A su vez, el Oficial del Registro Civil deberá hacer la inscripción correspondiente.
+Tienen obligación de declarar el nacimiento, los padres del menor o cualquiera de ellos, en su defecto, sus tutores o tutor o quienes tengan su custodia legal, dentro del año siguiente a la fecha en que hubiere ocurrido. El Oficial del Registro Civil deberá hacer la inscripción correspondiente.
 
-> <small>N. DE E. SE SUSPENDE LA VIGENCIA DEL PRESENTE PARRAFO POR LEY PUBLICADA EN EL P.O. 14 DE ABRIL DE 2000.</small>
+Transcurrido el lapso a que se refiere el párrafo anterior se procederá a la inscripción de quien no esté registrado y acredite mediante dos testigos, constancia expedida por la autoridad municipal y otros documentos fehacientes, ser vecino del Estado de Querétaro y haber nacido en territorio nacional, en los términos de lo previsto por el Artículo 132.
 
-Transcurrido el lapso a que se refiere el párrafo anterior y tratándose de menores hasta de siete años, que acrediten mediante constancia expedida por la autoridad municipal y otros documentos conducentes, ser vecinos del territorio de la jurisdicción Oficial, haber nacido en territorio nacional y no estar registrado, se procederá a su inscripción.
-
-> <small>N. DE E. SE SUSPENDE LA VIGENCIA DEL PRESENTE PARRAFO POR LEY PUBLICADA EN EL P.O. 14 DE ABRIL DE 2000.</small>
-
-Fuera de los supuestos consignados en el párrafo anterior, el registro de nacimiento, se tramitará y ordenará, en la forma en que disponga el Código de Procedimientos Civiles.
+En todos estos casos deberá presentarse la persona de cuyo nacimiento se trate, constancia del alumbramiento o prueba suficiente del mismo e identificación de quienes lo presentan, de los testigos y si fuera posible acta de nacimiento de los padres.
 
 ###### ARTÍCULO 75.
 
@@ -841,9 +841,11 @@ Cuando se recobre la capacidad legal para administrar bienes, se revoque la tute
 
 ### CAPITULO IX. DE LA NULIDAD, RECTIFICACIÓN, MODIFICACIÓN Y ACLARACIÓN DE LAS ACTAS DEL REGISTRO CIVIL Y DE LAS INSCRIPCIONES EXTEMPORÁNEAS
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 128.
 
-La nulidad de las actas del Registro Civil, sólo podrá ser decretada por la autoridad judicial, cuando se comprueba que el acto registrado no pasó, o se está en los casos que señala el capítulo IX del título sexto o en los que previenen los artículos 48 y 60 de este Código.
+La nulidad de las actas del Registro Civil, sólo podrá ser decretada por la autoridad judicial, cuando se compruebe que el acto registrado no pasó, o se está en los casos que señala el capítulo IX del título sexto o en los que previenen los artículos 48, 60 y 133 Bis de este Código.
 
 ARTÍCULO 129 Declarada la nulidad, el juez remitirá copia de la resolución al Director del Registro Civil a efecto de que proceda a ordenar la anotación en el acta correspondiente, cuidando que la misma anotación se haga en los tantos que obran en los archivos de las dependencias a quienes originalmente se les envió.
 
@@ -853,9 +855,21 @@ La rectificación de un acta del Registro Civil, procede cuando se solicite vari
 
 La modificación de las actas del Registro Civil, procede cuando se pretenda variar los nombres de quienes aparecen en ellas, sin que el acto haya afectado su estado civil, o sea necesario cambiar alguna característica no esencial.
 
-La rectificación y la modificación a que se refieren los párrafos que anteceden solamente podrán ser ordenadas por la autoridad judicial en los términos que prescribe el Código de Procedimientos Civiles.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2001)</small>
 
-Una vez ejecutoriada la sentencia que ordene la rectificación o modificación del acta, el juez de primera instancia remitirá copia certificada de la misma al Director del Registro Civil, quien ordenará se lleven a cabo las anotaciones correspondientes.
+La aclaración de las actas del estado civil de las personas procede cuando en ellas existan errores mecanográficos u ortográficos, o de ambas especies que no afecten los datos esenciales de las mismas.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2001)</small>
+
+La solicitud de aclaración se sustanciará ante el Oficial del Registro Civil del domicilio de que se trate, quién resolverá la petición e informará de su resolución a la Dirección del Registro Civil.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2001)</small>
+
+La rectificación y la modificación a que se refieren los párrafos que anteceden se tramitarán y resolverán por la Dirección del Registro Civil, conforme al Artículo 133 de este Código, excepto cuando dicha corrección implique cambio a derechos y obligaciones relacionados con la filiación y el parentesco en cuyo caso deberá solicitarse al juez competente.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2001)</small>
+
+Tampoco procederán la rectificación o modificación de actas cuando estas tengan su origen en sentencias judiciales pues en estos casos dichos cambios deberán solicitarse ante la autoridad judicial que corresponda.
 
 ###### ARTÍCULO 131.
 
@@ -873,17 +887,53 @@ V. Las personas a quienes faculte expresamente para ello la ley en cada uno de l
 
 VI. El Ministerio Público.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 132.
 
-La aclaración de las actas del estado civil de las personas, procede cuando en ellas existan errores macanográficos u ortográficos o de ambas especies que no afecten los datos esenciales de las mismas. Se tramitarán administrativamente ante la Dirección del Registro Civil, quien resolverá de plano, ordenando en su caso la aclaración respectiva que se comunicará lo mismo a la Oficialía correspondiente, como a la Dirección General del Registro Nacional de Población, para que se anoten en sus archivos.
+El trámite para la inscripción de personas mayores de un año a que se refiere el segundo párrafo del Artículo 74, se realizará ante la Dirección del Registro Civil en la forma siguiente:
 
-> <small>N. DE E. SE SUSPENDE LA VIGENCIA DEL PRESENTE ARTICULO POR LEY PUBLICADA EN EL P.O. 14 DE ABRIL DE 2000.</small>
+I. La solicitud será presentada por escrito y de manera personal por el interesado o sus representantes legales y acompañada por lo menos de:
+
+a) Constancia de nacimiento del interesado o prueba suficiente del mismo en su defecto.
+
+b) Constancia expedida por autoridad municipal que acredite la residencia del interesado.
+
+c) Dos testigos mayores de edad a quienes consten los hechos.
+
+d) Constancia expedida por la autoridad del Registro Civil del lugar del nacimiento, de no existir inscripción del interesado.
+
+Cuando se trate de una persona que radique en un municipio distinto de la sede de la Dirección del Registro Civil, la solicitud de inscripción podrá presentarse ante el Oficial del Registro Civil correspondiente a su domicilio, quien deberá remitirla en un plazo no mayor a tres días.
+
+II. La Dirección del Registro Civil, resolverá de plano, ordenando al Oficial del Registro Civil correspondiente realice la inscripción respectiva.
+
+En caso que la resolución sea negativa el interesado podrá plantear su pretensión ante el juez competente.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 133.
 
-La inscripción de actos del Registro Civil que no hubiesen sido registrados en tiempo, se tramitarán con las formalidades que prescribe el Código de Procedimientos Civiles, ante el Juez de primera instancia del domicilio de los interesados y tendrá los efectos a que se refieren los artículos 64 y 67.
+El trámite para la modificación y rectificación se verificará de la manera siguiente:
 
-Se exceptúa de lo anterior lo previsto en el articulo 74.
+I. La solicitud será presentada por escrito y de manera personal por el interesado o su representante legal cuando se trate de menores o incapacitados, ante la Dirección del Registro Civil, acompañada de lo siguiente:
+
+a. Cuando se trate de actas de nacimiento y la pretensión implique el cambio en el nombre del interesado, deberá acompañarse el acta que se pretende corregir; pruebas suficientes que acrediten que el interesado se conduce con el nombre que se pretende y que la comunidad lo reconoce con el trato y la fama derivados del mismo y no con el asentado en el acta de nacimiento; y dos testigos que lo identifiquen y acrediten que se conduce con el nombre que se pretende.
+
+b. Cuando se trate de cambios en actas diferentes a las que se refiere el inciso anterior, el solicitante deberá acompañar u ofrecer las pruebas idóneas para probar su pretensión, pero en todo caso deberá acreditarse en forma indubitable la identidad del solicitante.
+
+II. La Dirección del Registro Civil, resolverá de plano, ordenando en su caso la modificación o rectificación respectiva que se comunicará lo mismo a la Oficialia del Registro Civil correspondiente, como a la Dirección General del Registro Nacional de Población, para que se anote en sus archivos.
+
+En caso de negarse la solicitud, el solicitante podrá acudir ante el juez competente en los términos que prescribe este Código y el Código de Procedimientos Civiles.
+
+Cuando se trate de una persona que radique en un municipio distinto de la sede de la Dirección del Registro Civil, la solicitud de modificación o rectificación podrá presentarse ante el Oficial del Registro Civil correspondiente a su domicilio, quien deberá remitirla en un plazo no mayor a tres días.
+
+III. La Dirección del Registro Civil una vez que se encuentre debidamente integrado el expediente y desahogadas las probanzas, dictará resolución dentro del plazo de 15 días hábiles.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2001)</small>
+
+ARTÍCULO 133 BIS. La tramitación, modificación o rectificación fraudulenta de actas del Registro Civil provocará su nulidad absoluta, independientemente de la responsabilidad penal de quienes hayan intervenido dolosamente, también resultarán nulas las actas cuando se acredite que existe otra de fecha anterior.
+
+Cualquier persona que tenga interés legítimo o en su caso el Agente del Ministerio Público podrá interponer la acción de nulidad a que se refiere este artículo.
 
 ## TITULO SEXTO. DE LA FAMILIA
 
@@ -15442,3 +15492,11 @@ Las demás disposiciones que se opongan a la presente Ley y pudieran impedir su 
 P.O. 21 DE JULIO DE 2000
 
 ÚNICO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 21 DE SEPTIEMBRE DE 2001
+
+Primero.- La presente ley entrará en vigor sesenta días después de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Segundo.- Se derogan todas las disposiciones que se opongan a la presente ley.
+
+Tercero.- A partir de la vigencia de la presente ley, las personas que por sí, o a través de sus representantes legales, se encuentren tramitando juicio para obtener el registro de su nacimiento o realizar la rectificación o modificación de actas expedidas por el Registro Civil en los términos de esta ley, podrán optar por concluir ese procedimiento o acudir ante el Oficial del Registro Civil respectivo o ante la Dirección del Registro Civil, en los términos de lo dispuesto por este ordenamiento.
