@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-municipal-del-estado-de-tabasco-7808"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-30"
-last_updated: "1998-12-19"
+last_updated: "2000-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 1998.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2000.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de diciembre de 1992.
 
@@ -1039,11 +1039,11 @@ El enajenante responde solidariamente del impuesto que deba pagar el adquirente.
 
 #### SECCION PRIMERA. OBJETO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 115.
 
-Es objeto del impuesto sobre espectáculos públicos el ingreso que se origine con motivo de la celebración, representación, función, acto, evento o exhibición artística musical, deportiva, taurina, cinematográfica, teatral o cultural, organizada por una persona física o jurídica colectiva en cualquier tiempo y en las que se convoca al público con fines culturales, entretenimiento, diversión o recreación, mediante el pago de una contraprestación en dinero.
+Es objeto del impuesto sobre espectáculos públicos el ingreso que se origine con motivo de la celebración, representación, función, acto, evento, exhibición artística musical, deportiva, taurina, teatral o cultural, organizada por una persona física o jurídica colectiva en cualquier tiempo y en las que se convoca al público con fines culturales, entretenimiento, diversión o recreación, mediante el pago de una contraprestación en dinero.
 
 Ningún espectáculos (sic) público podrá verificarse dentro del territorio del Municipio, sin la autorización por escrito del Ayuntamiento o Concejo Municipal correspondiente, conforme a las Leyes o Reglamentos respectivos.
 
@@ -1676,3 +1676,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas las disposiciones legales que se opongan a este Decreto.
+
+P.O. 27 DE SEPTIEMBRE DE 2000.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 359 POR EL QUE “SE REFORMA EL ARTÍCULO 115 PRIMER PÁRRAFO, DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE TABASCO”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente del de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+Artículo Segundo.- Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
