@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2000-07-27"
+last_updated: "2001-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -47,13 +47,17 @@ LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
 La presente ley es obligatoria y de observancia general para los titulares y servidores públicos de los poderes Legislativo, Ejecutivo y Judicial y sus dependencias respectivas; de los Ayuntamientos; de los organismos descentralizados del Estado y sus Municipios, así como de aquellas empresas o asociaciones de participación Estatal o Municipal mayoritaria, en que por leyes, decretos, reglamentos o convenios, llegue a establecerse su aplicación.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+En el caso de organismos públicos descentralizados que tengan como antecedente acuerdos de coordinación para la descentralización celebrados con el Gobierno Federal, los trabajadores de estos organismos se regirán por lo dispuesto en los acuerdos respectivos, sujetándose, en lo conducente, a lo dispuesto por la Ley que corresponda.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
 
 ###### Art. 2°.
 
-Servidor público es toda persona que preste un trabajo subordinado físico o intelectual, a las Entidades Públicas a que se refiere el Artículo anterior, en virtud del nombramiento expedido que corresponda a alguna plaza legalmente autorizada en los respectivos presupuestos de egresos aplicables.
+Servidor público es toda persona que preste un trabajo subordinado físico o intelectual, con las condiciones establecidas como mínimas por esta Ley, a las Entidades Públicas a que se refiere el artículo anterior, en virtud del nombramiento que corresponda a alguna plaza legalmente autorizada.
 
-Cualquiera otra prestación de servicios a las Entidades Públicas aludidas en el párrafo que antecede, no se regirá por la presente Ley, ni se le considerará al prestador como servidor público.
+Se presume la existencia de la relación de servicio público entre el particular que presta un trabajo personal y la Entidad Pública que lo recibe, salvo los casos de asesoría, consultoría y aquellos que presten servicios al Gobierno, los cuales no se regirán por la presente Ley, ni se considerarán como servidores públicos.
 
 > <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
@@ -65,7 +69,13 @@ I. De base;
 
 II. De confianza; y
 
-III. Interinos, provisionales y transitorios, conforme a las fracciones III, IV y V del Artículo 16 de esta Ley.
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2001)</small>
+
+III. Supernumerario; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2001)</small>
+
+IV. Becario.
 
 ###### Art. 4°.
 
@@ -105,9 +115,9 @@ a) La Planta que cubre el personal de las oficinas particulares del Gobernador, 
 
 b) Secretarios de Gobierno, Subsecretarios, Contralor General, Procurador, Tesorero, Jefes de Departamento, Directores, Subdirectores, Jefes de Oficina, de Sección de Servicios, o de Zonas; Administradores o Gerentes; Encargados, Coordinadores, Auditores, Contadores, Valuadores, Peritos de toda clase, Proveedores, Almacenistas, Supervisores, Recaudadores, Pagadores, o cualquier otro cargo cuya función sea la de manejo de fondos o bienes públicos o su custodia; Tomadores o Controladores de tiempo, de obras y Servicios; Conserjes, veladores y porteros; Agentes del Ministerio Público, Presidente, Presidentes Especiales, y Presidentes Auxiliares en las Juntas de Conciliación y Arbitraje; Integrantes de Consejos Tutelares o Asistenciales; Integrantes de Consejos Consultivos, o Asesores de los Titulares; Vocales Representantes en dependencias Públicas y Organismos Descentralizados; Directores, Rectores, Alcaides, Celadores y personal de vigilancia en cárceles e instituciones de Asistencia Social; ayudantes, mensajeros, choferes, secretarias y taquígrafas al servicio directo de los titulares o de Servidores Públicos de superior jerarquía en las Dependencias; el Personal sujeto a honorarios; y
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
 
-c) Todos los miembros operativos de los servicios policiacos y de tránsito, así como a la Policía Judicial del Estado, exceptuando a los que desempeñen funciones administrativas que no considere la presente Ley con la clasificación de confianza.
+c) Todos los elementos operativos de los servicios policiacos y de vialidad y tránsito, así como los de la Policía Investigadora del Estado, exceptuando los que desempeñen funciones administrativas, que no considere la presente Ley con la clasificación de confianza; y
 
 III. En los Ayuntamientos de la Entidad y sus organismos descentralizados; el Secretario General del Ayuntamiento y/o Síndico, Oficiales Mayores, Tesorero, Subtesorero, Directores, Subdirectores, Contralores, Delegados, Jefes y Subjefes de Departamento, Jefes y Subjefes de Oficina, Jefes de Sección, Oficiales del Registro Civil, Auditores, Subauditores Generales, Contadores y Subcontadores en general, Cajeros Generales, Cajeros Pagadores e Inspectores.
 
@@ -119,25 +129,43 @@ a) En el Supremo Tribunal de Justicia:
 
 Jueces, Secretarios de Acuerdos del Tribunal Pleno, Secretario Taquígrafo de la Presidencia, los Secretarios de las Salas, los Secretarios de los Juzgados de Primera Instancia y Menores, Civiles y Penales, Urbanos y Foráneos, Oficial Mayor del Tribunal, el Visitador de los Juzgados, los Asesores Jurídicos de la Presidencia, los Choferes de la Presidencia, el Director de la Defensoría de Oficio, los jefes de las secciones Civil y Penal de la Defensoría de Oficio, los Coordinadores Regionales de la Defensoría de oficio, el Director de Estadística Judicial, el Abogado "D" de la Dirección de Estadística Judicial, el Director de la Academia de Capacitación Judicial, los Instructores de la Academia de Capacitación Judicial, el Coordinador de eventos de la Academia de Capacitación Judicial, el Jefe de Archivo y Biblioteca del Supremo Tribunal, la Supervisora de Trabajo Social, las trabajadoras Sociales del Departamento de Trabajo Social, el encargado del almacén de los juzgados de lo criminal, el Administrador de Personal, el Jefe de Información y Relaciones Públicas;
 
-b) En el Tribunal de Contencioso Administrativo:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2001)</small>
+
+b) En el Tribunal de lo Administrativo:
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
 Los Secretarios del Tribunal y las Salas, los Notificadores; y
 
-> <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
 
-c) En el Tribunal de Arbitraje y Escalafón; Los Secretarios del tribunal, Notificadores, excepto actuarios, secretarias e intendentes.
+c) En el Tribunal Electoral:
 
-De crearse categorías o cargos no comprendidos en este artículo, se hará constar en el nombramiento si es de base o de confianza.
+Magistrados, Secretario General de Acuerdos, Secretarios Relatores y los titulares de las Direcciones, Unidades Departamentales y órganos auxiliares creados para el cabal desempeño de sus funciones; y
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+d) En el Consejo General del Poder Judicial:
+
+Consejeros, Secretario General, y los titulares de las Comisiones y Direcciones; y
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+V. En el Tribunal de Arbitraje y Escalafón; todo el personal, excepto actuarios, secretarias e intendentes.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
+
+De crearse categorías o cargos no comprendidos en este artículo, se hará constar en el nombramiento si es de base, confianza, supernumerario o becario, debiéndose atender los criterios señalados con los incisos de la a) a la j) de la parte inicial de este precepto.
 
 ###### Art. 5°.
 
 Son servidores públicos de base los no comprendidos en el artículo anterior.
 
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
 ###### Art. 6°.
 
-(DEROGADO, P.O. 17 DE ENERO DE 1998)
+Son servidores públicos supernumerarios aquellos a quienes se les otorgue alguno de los nombramientos temporales señalados en las fracciones II, III, IV y V del artículo 16 de esta Ley.
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
@@ -145,11 +173,13 @@ Son servidores públicos de base los no comprendidos en el artículo anterior.
 
 Los servidores públicos de base serán inamovibles; los de nuevo ingreso, no lo serán sino después de transcurridos seis meses ininterrumpidos de servicios, sin nota desfavorable en su expediente.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
 
 ###### Art. 8°.
 
-Tratándose de servidores públicos de confianza, las entidades públicas de que se trate, sin responsabilidad para ellas, y sin necesidad de instaurar Procedimiento Administrativo, conforme al Artículo 123 apartado B fracción XIV de la Constitución Federal, podrán sin más trámite, dictar el cese que termine la relación laboral, si existiere un motivo razonable de pérdida de confianza a juicio del Titular de dicha entidad pública.
+Tratándose de servidores públicos de confianza, las entidades públicas de que se trate, sin responsabilidad para ellas, podrán dictar el cese que termine la relación laboral si existiere un motivo razonable de pérdida de confianza, sujetándose en lo conducente al procedimiento previsto en los artículos 23 y 26, salvo que se trate de los titulares de las entidades públicas a que se refiere el artículo 9º o de los servidores públicos designados por éstos y que dependan directamente de ellos, quienes en su caso podrán ser cesados en los términos de este artículo sin necesidad de instauración del procedimiento señalado.
+
+Los elementos de las instituciones policiales del Estado y municipios, podrán ser removidos de su cargo si no cumplen con los requisitos que las leyes vigentes en el momento de la remoción señalen para permanecer en dichas instituciones, sin que proceda su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa para combatir la remoción y, en su caso, solo procederá la indemnización.
 
 ###### Art. 9°.
 
@@ -211,21 +241,23 @@ Las actuaciones y certificaciones que hubieren de hacerse con motivo de la aplic
 
 ### CAPITULO II. De los nombramientos
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
 
 ###### Art. 16.
 
-Los nombramientos de los servidores públicos sólo podrán otorgarse si se encuentra creada alguna plaza específica en los presupuestos de egresos legalmente expedidos. Dichos nombramientos podrán ser :
+Los nombramientos de los Servidores Públicos podrán ser:
 
-I. De Base, cuando se otorguen para ocupar en forma permanente una plaza;
+I. Definitivo, cuando se otorgue para ocupar plaza permanente ya sean de base o de confianza;
 
-II. De Confianza, cuando se otorguen para cubrir una plaza cuyo titular tenga alguna de las características a que se refiere el Artículo 4° de esta Ley, y que por lo tanto, a quienes se les otorgue, no tienen estabilidad e inamovilidad en el empleo;
+II. Interino, cuando se otorgue para ocupar plaza vacante por licencia del servidor público titular que no exceda de seis meses;
 
-III. Interinos, los que se otorgan para ocupar plazas vacantes por licencias del servidor público titular de la plaza;
+III. Provisional, cuando se expida de acuerdo con el escalafón para ocupar plaza vacante por licencia del servidor público titular que exceda de seis meses;
 
-IV. Provisionales, aquellos que se otorgan para cubrir las ausencias de titulares de plazas, provocadas por incapacidad física o legal; permisos; o suspensiones temporales de la relación de trabajo, y
+IV. Por Tiempo Determinado, cuando se expida para trabajo eventual o de temporada, con fecha precisa de terminación;
 
-V. Transitorios, cuando se otorguen para cubrir temporalmente una plaza de confianza, en virtud de que quien la estuviese ocupando, haya renunciado o sea cesado, en tanto se nombra al titular definitivo.
+V. Por Obra Determinada, cuando se otorgue para realizar tareas temporales directamente ligadas a una obra o función pública; y
+
+VI. Beca, cuando se expida por tiempo determinado para la capacitación o adiestramiento del becario en alguna actividad propia de la administración pública estatal o municipal.
 
 ###### Art. 17.
 
@@ -253,6 +285,28 @@ IX. Fecha en que deba empezar a surtir efectos; y
 
 X. Nombre y firma de quien lo expide.
 
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+Art. 17 bis. La beca otorgada para la capacitación o adiestramiento en alguna actividad propia de la administración pública estatal o municipal, deberá contener los siguientes datos:
+
+I. Nombre, nacionalidad, edad, sexo, escolaridad, estado civil y domicilio del becario;
+
+II. Habilidad o actividad administrativa materia de la capacitación;
+
+III. Duración de la beca;
+
+IV. Importe de la beca en efectivo o especie;
+
+V. Lugar en que recibirá la capacitación o adiestramiento;
+
+VI. Compromiso de reciprocidad del becario;
+
+VII. Lugar en que se expide;
+
+VIII. Fecha en que deba empezar a surtir efectos; y
+
+IX. Nombre y firma de quien la expide.
+
 ###### Art. 18.
 
 El nombramiento aceptado obliga al Servidor Público a regir sus actos por el más alto concepto de profesionalismo, y a cumplir con todos los deberes inherentes al cargo o empleo correspondiente.
@@ -269,11 +323,11 @@ La protesta de los servidores públicos se rendirá en los términos siguientes:
 
 Cuando el Servidor Público sea cambiado, previa su anuencia, en forma eventual o definitiva de una entidad pública a otra, conservará los derechos adquiridos con motivo de la relación de trabajo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ENERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2001)</small>
 
 ###### Art. 20.
 
-Cuando un servidor público de base, previa su anuencia por escrito, sea trasladado de una población a otra, la Entidad Pública en la que Preste sus servicios le cubrirá el importe de los gastos inherentes al traslado de él, su familia y pertenencias al nuevo lugar de trabajo, salvo que el traslado se verifique a solicitud del interesado o por permuta.
+Cuando un servidor público, previa su anuencia por escrito, sea trasladado de una población a otra, la Entidad Pública en la que preste sus servicios le cubrirá el importe de los gastos inherentes al traslado de él, su familia y pertenencias al nuevo lugar de trabajo, salvo que el cambio se verifique a solicitud del interesado o por permuta. Con motivo del traslado no se afectarán los derechos laborales de los servidores públicos.
 
 Cuando las necesidades del Servicio lo requieran, los titulares de las Entidades Públicas podrán cambiar la adscripción del Servidor Público, conservando éstos sus derechos y cubriendo los requisitos a que se refiere este precepto.
 
@@ -603,7 +657,7 @@ XVI. Comunicar por escrito al titular de la Dependencia o Entidad de la que pres
 
 XVII. Abstenerse de ejercer las funciones de un empleo, cargo o comisión, después de concluido el período para el cual se le designó o de haber cesado, por cualquier otra causa, en el ejercicio de sus funciones;
 
-XVIII. Abstenerse el superior jerárquico de disponer o autorizar a un servidor público a no asistir, sin causa justificada, a sus labores por más de quince días contínuos o treinta discontinuos en un año, así como de otorgar indebidamente licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones, cuando las necesidades del servicio público no lo exijan;
+XVIII. Abstenerse el superior jerárquico de disponer o autorizar a un servidor público a no asistir, sin causa justificada, a sus labores por más de quince días continuos o treinta discontinuos en un año, así como de otorgar indebidamente licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones, cuando las necesidades del servicio público no lo exijan;
 
 XIX. Abstenerse de desempeñar algún otro empleo, cargo o comisión oficial o particular que la ley le prohíba;
 
@@ -671,6 +725,10 @@ III.- Provocar el despido o la renuncia de las mujeres trabajadoras por cualquie
 
 Para los efectos de este Ordenamiento, se entiende por escalafón el sistema organizado en cada Entidad Pública para efectuar las promociones de ascensos de los servidores, y todo aquello relacionado con los cambios y movimientos de los mismos, conforme a las bases establecidas en el Reglamento respectivo.
 
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+Los puestos vacantes o de nueva creación no podrán ser propuestos simultáneamente en el sistema escalafonario y en el Servicio Civil de Carrera.
+
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1987)</small>
 
 ###### Art. 58.
@@ -713,9 +771,13 @@ III. Hacer la proposición de nombramientos definitivos, en favor de la persona 
 
 La seguridad social tiene por finalidad garantizar el derecho humano a la salud; a la asistencia médica, a la protección de los medios de subsistencia y a los servicios sociales necesarios, para el bienestar individual y colectivo.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
+
 ###### Art. 64.
 
-La seguridad social será proporcionada por las Entidades Públicas, quienes emitirán las disposiciones correspondientes, a fin de organizar y reglamentar la forma en que deban éstas hacerla posible y prestarla a sus servidores públicos, dentro de las posibilidades económicas de la misma; pudiendo celebrar convenio, para estos fines, con las Instituciones a que se refiere la frac. XI del Art. 56, de esta ley.
+Es obligación de las entidades públicas otorgar la seguridad social a los servidores públicos y sus familiares, en los términos de la ley aplicable.
+
+Para este propósito los servidores públicos del Estado y los municipios serán afiliados al Instituto Mexicano del Seguro Social y a Pensiones del Estado.
 
 ###### Art. 65.
 
@@ -777,6 +839,14 @@ El Tribunal de Arbitraje y Escalafón, al recibir la solicitud de registro, comp
 
 El Tribunal certificará, en forma previa al registro, si el Sindicato solicitante cuenta con la mayoría de los servidores públicos.
 
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+A los sindicatos nacionales o federales reconocidos por el Gobierno del Estado, se les considerará como válidos los registros realizados ante el Tribunal Federal de Conciliación y Arbitraje, previa la presentación de la constancia oficial que así lo acredite.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+Los sindicatos nacionales o federales sólo podrán ser reconocidos por el Gobierno del Estado cuando por virtud de un proceso de descentralización, trabajadores federales pasen a formar parte de la administración pública estatal o municipal, sustituyéndose patronalmente el Estado o los Municipios a la Federación.
+
 ###### Art. 76.
 
 En cada Poder, Dependencia del Poder Ejecutivo, Municipal u organismo descentralizado, y empresas o asociaciones de participación mayoritaria, Estatal o Municipal, no podrá existir más de un sindicato.
@@ -786,6 +856,14 @@ En cada Poder, Dependencia del Poder Ejecutivo, Municipal u organismo descentral
 El registro de un sindicato se cancelará por disolución del mismo o por decisión del Tribunal de Arbitraje y Escalafón, cuando no llene los requisitos que esta ley establece.
 
 La solicitud de cancelación podrá hacerse por persona interesada, sujetándose a las disposiciones de procedimiento establecidos en esta ley.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+En el caso de sindicatos nacionales o federales reconocidos por el Gobierno del Estado, éstos perderán su reconocimiento por las siguientes causas:
+
+I. Por pérdida de su registro ante el Tribunal Federal de Conciliación y Arbitraje; y
+
+II. Por acuerdo o convenio bilateral en que así se establezca.
 
 ###### Art. 78.
 
@@ -839,6 +917,10 @@ I. Por el voto de una mayoría no menor del 90% de los miembros que los integren
 
 II. Porque dejen de reunir los requisitos señalados por el Art. 74, de esta ley.
 
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+Tratándose de sindicatos nacionales o federales reconocidos por el Gobierno del Estado, su disolución se regirá por lo dispuesto en las leyes federales aplicables.
+
 ###### Art. 85.
 
 En los casos de violación a lo dispuesto por el Art. 81, el Tribunal de Arbitraje y Escalafón determinará la cancelación del Registro del Comité Ejecutivo Sindical o la del propio Sindicato.
@@ -866,6 +948,10 @@ Los Sindicatos gozarán de la más amplia libertad para fijar el monto de las cu
 ###### Art. 89.
 
 Las condiciones generales de trabajo se fijarán por los Titulares de las Entidades Públicas respectivas, oyendo al Sindicato correspondiente, a través de su directiva.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+Tratándose de condiciones generales de trabajo pactadas por el Gobierno del Estado con sindicatos nacionales o federales reconocidos, éstas se aplicarán y modificarán conforme a los procedimientos establecidos por la ley o decreto correspondiente. Las condiciones laborales deberán ser depositadas en el Tribunal de Arbitraje y Escalafón para que sean revisadas y en su momento aprobadas y registradas, para que surtan sus efectos legales.
 
 ###### Art. 90.
 
@@ -937,6 +1023,10 @@ I. Que se ajuste a los términos del Art. 96 de esta ley;
 
 II. Que sea declarada por las dos terceras partes cuando menos, de los Servidores de la Dependencia afectada, lo que se comprobará con la copia del acta de la asamblea en la que se haya acordado declarar la huelga, misma que deberá adjuntarse al pliego de peticiones, para que el Tribunal de Arbitraje y Escalafón tenga la certeza de su veracidad.
 
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+Tratándose de sindicatos nacionales o federales reconocidos por el Gobierno del Estado, la huelga se regirá conforme a lo que disponga la ley federal aplicable.
+
 ###### Art. 100.
 
 Si la declaración de huelga se considera legal por el Tribunal de Arbitraje y Escalafón, y si ha transcurrido el plazo de diez días a que se refiere el Art. 101 y no se hubiere llegado a un entendimiento entre las partes, los Servidores podrán suspender las labores. El período de prehuelga podrá ampliarse discrecionalmente, a petición de las partes, si es que se están llevando a cabo pláticas de avenimiento, tendientes a solucionar el conflicto.
@@ -975,6 +1065,10 @@ V. Por desistimiento.
 
 Las acciones que nazcan de esa ley, o del nombramiento expedido en favor de los Servidores Públicos prescribirán en un año, con excepción de los casos señalados en el artículo siguiente.
 
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+Art. 105 bis. En el caso de los organismos públicos descentralizados a que se refiere el párrafo segundo del artículo primero de esta Ley, la prescripción de las acciones se regirá por lo dispuesto en la legislación aplicable.
+
 ###### Art. 106.
 
 Prescripción en 30 días:
@@ -995,11 +1089,15 @@ V. Las acciones para impugnar los dictámenes escalafonarios; y
 
 VI. Las acciones para impugnar las sanciones impuestas por los titulares de las Entidades Públicas que no ameriten cese, en los términos del Art. 25 de esta ley.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
 
 ###### Art. 107.
 
-Prescribirán en 60 días las acciones de los servidores públicos de base, para pedir la reinstalación en su trabajo, o la indemnización que la ley concede, contando el término a partir del día siguiente en que le sea notificado el cese.
+Prescribirán en 60 días las acciones para pedir la reinstalación en el trabajo o la indemnización que la ley concede, contados a partir del día siguiente en que le sea notificado el cese.
+
+Al momento de la notificación, la autoridad entregará al servidor público copia de la comunicación y de las actuaciones que se hubieren llevado a cabo en el proceso administrativo que se hubiere substanciado con motivo del cese.
+
+Será improcedente el cese que se efectúe contraviniendo las disposiciones previstas en este artículo, debiendo, en su caso reinstalarse al trabajador entre tanto no se le comunique su cese en la forma establecida en el párrafo anterior.
 
 ###### Art. 108.
 
@@ -1069,9 +1167,13 @@ V. Para tener el cargo de Magistrado representante de los Trabajadores al Servic
 
 El Tribunal de Arbitraje y Escalafón será competente para resolver las controversias que se susciten entre los Poderes del Estado, los Ayuntamientos los Organismos Descentralizados, empresas o asociaciones de participación mayoritaria estatal o municipal y sus servidores, así como de los conflictos que surjan entre la Federación de Sindicatos de Servidores Públicos y los Sindicatos que la integran, o sólo entre éstos. También será competente para invalidar las resoluciones de las Comisiones Mixtas de Escalafón, a instancia de uno o varios concursantes que consideren vulnerados sus derechos escalafonarios.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
 
-Dicho Tribunal queda exceptuado para conocer y resolver de las controversias o conflictos en materia de relaciones de trabajo que se susciten entre los servidores públicos que presten sus servicios en los tribunales a que se refiere el primer párrafo del Artículo 56 de la Constitución Política del Estado.
+Dicho Tribunal queda exceptuado para conocer y resolver las controversias o conflictos en materia de relaciones de trabajo que se susciten entre los servidores públicos que presten sus servicios en los tribunales y Consejo General del Poder Judicial a que se refiere el primer párrafo del artículo 56 de la Constitución Política del Estado. También queda exceptuado de conocer y resolver las controversias o conflictos de carácter colectivo que abarquen más de una entidad federativa y en que sean parte sindicatos nacionales o federales reconocidos por el Gobierno del Estado.
+
+### CAPITULO I. Disposiciones generales
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
 ###### Art. 115.
 
@@ -1183,23 +1285,33 @@ III. Si se estima por el Pleno que no es causa suficiente para que constituya im
 
 IV. En los casos de secretarios y auxiliares de instrucción, el Pleno designará a la persona que deberá de seguir conociendo del negocio.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
+
+### CAPITULO II. De la comisión de evaluación
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
 ###### Art. 128.
 
-El procedimiento ante el Tribunal de Arbitraje y Escalafón se iniciará con la presentación del escrito de demanda ante la Oficialía de Partes, quien la turnará al secretario o auxiliar de instrucción el mismo día, antes de que concluyan las labores. El auxiliar de instrucción o el secretario, dictará acuerdo admitiendo la demanda, si procediere conforme a Derecho, o la desechará de plano cuando sea notoriamente frívola e improcedente. En caso de admitirla, en el acuerdo respectivo señalará día y hora para que tenga verificativo la Audiencia de Conciliación, Demanda y Excepciones, Ofrecimiento y Admisión de Pruebas. En el mismo acuerdo se ordenará se notifique a las partes personalmente, entregando a la demandada copia certificada de la demanda para que en un término de diez días contados a partir del día siguiente de su notificación, produzca contestación, con el apercibimiento a la demanda que de no comparecer, se le tendrá por inconforme a todo arreglo, por contestada la demanda en sentido afirmativo, y por perdido el derecho de ofrecer pruebas; y al actor por ratificada su demanda, y por cerrado el periodo probatorio.
+El procedimiento ante el Tribunal de Arbitraje y Escalafón se iniciará con la presentación del escrito de demanda ante la Oficialía de Partes, quien la turnará al secretario auxiliar de instrucción a más tardar al siguiente día hábil.
 
-Cuando el actor sea el trabajador o sus beneficiarios, el Tribunal en caso de que notare alguna irregularidad en el escrito de demanda, o que estuviera ejercitando acciones contradictorias, al admitir la demanda le señalará los defectos u omisiones en que haya incurrido y lo prevendrá para que los subsane dentro de un término improrrogable de tres días.
+El Tribunal de Arbitraje y Escalafón dictará acuerdo admitiendo la demanda si procediere conforme a derecho, o la desechará de plano cuando sea notoriamente frívola o improcedente.
 
-La falta de notificación a algunas de las partes, obliga al Tribunal a señalar de oficio nuevo día y hora para la celebración de la Audiencia, salvo que las partes concurran a la misma, o que el actor se desista de las acciones intentadas en contra de alguna demandada que no haya sido notificada.
+En el acuerdo de admisión se señalara día y hora para que tenga verificativo la audiencia de conciliación, demanda y excepciones, ofrecimiento y admisión de pruebas; ordenándose se notifique el acuerdo personalmente a las partes y se entregue copia certificada de la demanda a la parte demandada para que produzca contestación en un término de diez días contados a partir del día siguiente de su notificación, con el apercibimiento que de no contestar, se le tendrá por contestada la demanda en sentido afirmativo.
 
-Cuando el domicilio del o los demandados se encuentre fuera del lugar en donde radica el Tribunal, se ampliará el término de un día por cada 40 kilómetros de distancia o fracción que exceda de la mitad. Además se le apercibirá al o a los demandados para que señalen domicilio para recibir notificaciones en la Zona Metropolitana de Guadalajara, con el apercibimiento que de no hacerlo, las posteriores notificaciones, aún las personales, se harán en los estrados del Tribunal.
+Cuando el domicilio del demandado se encuentre fuera del lugar en donde radica el Tribunal, el término para la contestación de la demanda se ampliará un día por cada 40 kilómetros de distancia o fracciones que excedan de la mitad. Además se apercibirá al demandado para que señale domicilio para recibir notificaciones en la zona metropolitana de Guadalajara, con el apercibimiento que de no hacerlo las posteriores notificaciones, aún las personales, se harán en los estrados del Tribunal.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+La falta de notificación a alguna de las partes, obliga al Tribunal a señalar de oficio nuevo día y hora para la celebración de la audiencia, salvo que las partes concurran a la misma, o que el actor se desista de las acciones intentadas en contra de quien no hubiere sido notificado.
+
+Cuando el actor sea el trabajador o sus beneficiarios, el Tribunal en caso de que notare alguna irregularidad en el escrito de demanda o estuviera ejercitando acciones contradictorias, al admitir la demanda le señalará los defectos u omisiones en que haya incurrido y lo prevendrá para que los subsane dentro de un término de tres días.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
 
 ###### Art. 129.
 
-Concluido el término determinado para la contestación de la demanda, mencionado en el Artículo anterior, y si en dicha contestación no se promovió incidente alguno respecto al auto de admisión, el Tribunal señalará fecha para que se tenga verificativo la audiencia de Conciliación, Demanda y Excepciones, Ofrecimiento y Admisión de Pruebas, mandando notificar el acuerdo, personalmente a las partes.
+Si las partes no comparecen a la celebración de la audiencia señalada, al actor se le tendrá por ratificada su demanda y al demandado por contestada la demanda en sentido afirmativo y a ambos, en caso de no asistir, se les tendrá por perdido el derecho a presentar pruebas e inconformes con todo arreglo, dándose por concluidas todas y cada una de las etapas procesales y se pronunciará laudo en un término que no exceda de quince días.
+
+Cuando alguna de las partes llegare con retardo a la celebración de la audiencia se podrá incorporar de inmediato la etapa procesal que se estuviere desahogando, pudiendo ejercer los derechos procesales que no hubieren precluído en razón de su demora.
 
 > <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
@@ -1257,6 +1369,10 @@ La caducidad en el proceso se producirá, cuando cualquiera que sea su estado, n
 
 Las resoluciones dictadas por el Tribunal de Arbitraje y Escalafón serán inapelables, excepto el auto de admisión de demanda respecto del cual se establece el incidente de inadmisibilidad por demanda frívola e improcedente, el cual debe de promoverse por la parte demandada, dentro del improrrogable término de los cinco días siguientes al emplazamiento, y resolverse como de previo y especial pronunciamiento por el Pleno del Tribunal dentro de los 10 días siguientes a su interposición; la promoción de este incidente suspende todo el procedimiento y el término para contestar la demanda en el caso de que sea desechado, correrá íntegro a favor de la demandada a partir de la notificación de la resolución que lo deseche. Todas las resoluciones del Tribunal deberán cumplirse, especialmente por parte de quien sea condenado en el Laudo. Pronunciado el Laudo, el Tribunal lo notificará personalmente a las partes.
 
+### CAPITULO III. Del sistema administrativo
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
 ###### Art. 140.
 
 Las autoridades están obligadas a prestar auxilio al Tribunal de Arbitraje y Escalafón, para hacer respetar sus resoluciones, cuando fueren requeridas para ello.
@@ -1269,11 +1385,21 @@ El Tribunal tiene la obligación de proveer a la eficaz e inmediata ejecución d
 
 Cuando se pida la ejecución de un laudo, el Tribunal despachará auto con efectos de mandamiento en forma y autorizará a un Secretario para que, asociado de la parte que obtuvo resolución favorable, se constituya en el domicilio de la parte contraria y la requiera para que cumpla la resolución, apercibiéndola de que, de no hacerlo, se procederá al uso de los medios de apremio.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
 
 ###### Art. 143.
 
-El Tribunal, para hacer cumplir sus determinaciones, podrá imponer sanciones que sean equivalentes de hasta cien veces el salario mínimo general de la zona económica en donde resida la autoridad rebelde. En el caso de que impuesta la sanción, la autoridad continúe en la negativa de cumplimiento, a petición de parte, se procederá en los términos de la Ley de Responsabilidades de los Servidores Públicos.
+Notificado el auto de ejecución, el condenado deberá darle cumplimiento al laudo dentro de los 30 días siguientes; si no lo hiciere el Tribunal le impondrá sanción por el pago de mil días de salario mínimo de la zona económica de Guadalajara.
+
+Cuando sea la autoridad quien deba cumplir los resolutivos del laudo, la multa será cubierta por la dependencia o entidad que haya sido condenada. Si no obstante lo anterior la autoridad reitera la negativa de cumplir, el Tribunal resolverá la suspensión en el cargo por un plazo de quince días sin goce de sueldo de los funcionarios que debieron darle cumplimiento.
+
+La suspensión de los titulares de la Dependencia o Entidad pública que se trate, o bien de los servidores públicos que tengan la responsabilidad directa de cumplir el laudo, será decretada de oficio o a petición de parte. Del auto que decrete la suspensión del servidor público se remitirá copia al Congreso del Estado cuando se trate de quienes ejerzan cargos de elección popular y a la contraloría que corresponda, en los demás casos.
+
+La suspensión empezará a partir del día siguiente de su notificación y los actos que se realicen en desacato al resolutivo respectivo serán nulos. El cumplimiento del laudo interrumpe la suspensión.
+
+Si no obstante la sanción prevista en el párrafo segundo y subsecuentes, se persiste en el incumplimiento, la suspensión se repetirá contra los responsables y podrá ampliarse en contra de quienes les sustituyan.
+
+Los magistrados del Tribunal de Arbitraje y Escalafón tendrán la responsabilidad de hacer cumplir los laudos. La negativa de decretar la suspensión temporal de algún servidor público que incurriere en alguna de las causas señaladas en el presente artículo, será motivo para que a dichos magistrados se les aplique la sanción que corresponda en acatamiento a la Ley de Responsabilidades de los Servidores Públicos.
 
 ###### Art. 144.
 
@@ -1306,6 +1432,372 @@ Al resolverse que una declaración de huelga es legal, el Tribunal de Arbitraje 
 ###### Art. 151.
 
 En tanto que no se declare ilegal, inexistente o terminado un conflicto de huelga, el Tribunal de Arbitraje y Escalafón y todas las Autoridades Estatales y Municipales deberán respetar el derecho que ejerciten los servidores, dándoles las garantías y presentándoles el auxilio que les soliciten.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2001)</small>
+
+## TITULO SEXTO. Del servicio civil de carrera
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2001)</small>
+
+### CAPITULO IV. Del desarrollo y profesionalización
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 152.
+
+El Servicio Civil de Carrera, es el proceso a través del cual se logra la eficiencia y eficacia de la administración pública a través de la selección, incorporación y desarrollo profesional de los servidores públicos.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 153.
+
+Para los efectos del presente Título, se entenderá por:
+
+I. Servicio: El Servicio Civil de Carrera definido en el artículo anterior;
+
+II. Comisión: La Comisión de Evaluación de las Entidades Públicas;
+
+III. Entidades públicas: Las que se refieren en el artículo primero de ésta Ley;
+
+IV. Órgano de Administración Interna: La dependencia designada o creada por la Entidad Pública, para que administre el Sistema;
+
+V. Reglamento Interno: El Reglamento Interno del Servicio Civil de Carrera de cada Entidad Pública;
+
+VI. Sistema: El Sistema Administrativo del Servicio Civil de Carrera;
+
+VII. Movilidad: Los cambios de adscripción, radicación y reubicación del servidor público; y
+
+VIII. Promoción: Los ascensos, mejorías laborales o cualesquier cambio de categoría que beneficie al servidor público o genere mayores oportunidades para su desarrollo laboral o profesional.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 154.
+
+El Servicio procurará el desarrollo profesional de los servidores públicos, su estabilidad laboral, la calificación de sus habilidades, capacidades y desempeño.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 155.
+
+Serán incorporados al servicio civil de carrera todos los trabajadores a partir de su ingreso al servicio público, siempre y cuando no se encuentren en alguno de los supuestos a que se refiere el artículo siguiente.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 156.
+
+Quedan excluidos del Servicio:
+
+I. Los servidores públicos de elección popular;
+
+II. El Titular de la Entidad Pública y los servidores públicos que hubiere designado y que dependan directamente de él;
+
+III. Los servidores públicos cuyo nombramiento tenga por disposición legal un procedimiento especial; y
+
+IV. Los demás que su Reglamento Interno señale.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 157.
+
+La Comisión de cada una de las entidades a que se refiere el artículo primero de esta Ley elaborará su propio Reglamento Interno, donde se establecerá, entre otros aspectos, la organización, funcionamiento y operación del Servicio. En el Poder Ejecutivo Estatal, existirá un solo Reglamento Interior aplicable para todas sus dependencias, con excepción de lo dispuesto en el artículo siguiente.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 158.
+
+Los servidores públicos de base se regirán por el Reglamento de Escalafón respectivo de cada una de las dependencias y Entidades Públicas, sin menoscabo de su capacitación y desarrollo profesional dentro del Servicio.
+
+Los servidores públicos incorporados a los Servicios de Salud Jalisco y a la Secretaría de Educación del Estado, que cuenten con un sistema propio de profesionalización y desarrollo, se regirán por sus reglamentos y normas de operación respectivos.
+
+Los servidores públicos de la Procuraduría General de Justicia del Estado y los elementos de la Policía Investigadora, en cuestión de promoción, ascenso y capacitación especializada, se regirán por lo establecido en la Ley Orgánica de la Procuraduría General de Justicia del Estado de Jalisco y su reglamento.
+
+Los elementos de los cuerpos de seguridad pública del Estado y municipios que cuenten con reglamentos y programas en materia de promoción, ascenso y capacitación especializada, se regirán, en su caso, por lo establecido en los mismos.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 159.
+
+Quienes desempeñen algún puesto del Servicio, tendrán los mismos derechos y obligaciones que cualquier otro servidor público y únicamente podrán ser cesados de su cargo cuando exista causa justificada, de conformidad con el artículo 22 y siguiendo los lineamientos establecidos por los artículos 23 y 26 de esta Ley.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2001)</small>
+
+### CAPITULO V. De la separación y reincorporación
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 160.
+
+Para el correcto funcionamiento del Servicio, en cada una de las Entidades Públicas se constituirá una Comisión de Evaluación, que será el órgano máximo de vigilancia.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 161.
+
+La Comisión estará integrada por:
+
+I. El Presidente, que tendrá voto de calidad para caso de empate;
+
+II. El Secretario Técnico de la Comisión, que será designado por el Presidente;
+
+III. Dos representantes de los servidores públicos de base, designados por el Sindicato, cuando lo hubiere; y
+
+IV. Un representante de los servidores públicos de confianza, designado por insaculación.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 162.
+
+Los miembros de la Comisión tendrán voz y voto; sus cargos serán honoríficos y durarán en su cargo hasta el término de la administración o hasta la fecha de su separación de la Entidad Pública o hasta en tanto mantengan su representación.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 163.
+
+El titular de cada una de las Entidades Públicas, o la persona que él designe de entre los servidores públicos de la misma Entidad, será el Presidente de la Comisión.
+
+En el caso del Poder Ejecutivo del Estado, existirá una sola Comisión, pero habrá subcomisiones en cada una de sus dependencias integrantes con las mismas facultades a que se refiere el artículo 166, salvo la atribución de dictar políticas administrativas, facultad que queda reservada exclusivamente a la Comisión.
+
+La Comisión del Poder Ejecutivo del Estado, será presidida por el Gobernador a través del Secretario de Administración, sin menoscabo de ejercer aquel esta facultad personalmente, cuando así lo considere pertinente.
+
+El titular de cada una de las Entidades Públicas deberá designar la dependencia que administre el sistema y se integre a la Comisión o subcomisión respectiva, como Órgano de Administración Interna, a través de su titular.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 164.
+
+La Comisión sesionará ordinariamente por lo menos cada dos meses y extraordinariamente cuantas veces sea necesario.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 165.
+
+Para que las sesiones de la Comisión tengan validez se requiere la asistencia de cuando menos tres comisionados. Cuando la Comisión se integre con tan solo tres de sus miembros, los acuerdos que se tomen deberán ser aprobados por unanimidad de los presentes.
+
+Las decisiones de la Comisión en materia de promoción de los servidores y las que tengan como objeto crear o modificar dispositivos del Reglamento Interno deberán ser votadas a favor por cuando menos cuatro de sus integrantes, si no hubiere mayoría calificada el asunto deberá presentarse nuevamente para su votación dentro de las 72 horas siguientes, si de nueva cuenta no se lograra la votación necesaria el asunto deberá remitirse al Tribunal de Arbitraje y Escalafón para su resolución.
+
+Con excepción de los casos que se señalan en los párrafos anteriores los acuerdos de la Comisión serán tomados por mayoría de votos.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 166.
+
+La Comisión tendrá las siguientes facultades:
+
+I. Vigilar el cumplimiento de las disposiciones señaladas en el presente título así como de las demás de carácter legal y administrativo que tengan relación con el buen funcionamiento del Sistema;
+
+II. Tomar los acuerdos que sean necesarios para la consecución de los fines del Sistema;
+
+III. Autorizar la creación de subcomisiones de apoyo;
+
+IV. Proponer al Titular de la Entidad Pública modificaciones al Reglamento Interno;
+
+V. Crear el Reglamento Interno; y
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
+
+VI. Las demás que establezca esta Ley, los Reglamentos Internos correspondientes y las políticas administrativas a que se refiere el Capítulo III del Presente Título.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 167.
+
+El Presidente de la Comisión presidirá las sesiones, y en su ausencia, lo hará el miembro de la Comisión que él previamente designe.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 168.
+
+El Secretario Técnico de la Comisión tendrá las siguientes funciones:
+
+I. Convocar a los miembros de la Comisión a sesión ordinaria, por lo menos con diez días hábiles anteriores a su celebración, salvo los casos de sesión extraordinaria las cuales serán convocadas con 24 horas de anticipación, cuando menos. En ambos casos se remitirá el respectivo orden del día;
+
+II. Llevar el libro de actas y firmarlo conjuntamente con el Presidente y los integrantes de la Comisión que hubieren asistido a la sesión;
+
+III. Certificar y dar fe de los actos emanados de la Comisión;
+
+IV. Integrar los expedientes de las evaluaciones y hoja de servicios de los candidatos que realicen exámenes de evaluación y presentarlos ante la Comisión para su revisión y, en su caso, autorización;
+
+V. Llevar libro de registro de movilidad y promoción del personal inscrito en el Servicio; y
+
+VI. Las demás que le otorgue la presente Ley, el Reglamento Interno y los acuerdos de la Comisión.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 169.
+
+El Sistema deberá contener como mínimo los siguientes procesos:
+
+I. De selección;
+
+II. Ingreso;
+
+III. Ascenso;
+
+IV. Desarrollo;
+
+V. Profesionalización; y
+
+VI. Cambio de nivel y categoría.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 170.
+
+Las Entidades Públicas deberán contar con un registro debidamente actualizado de los servidores públicos incorporados al Servicio, con la finalidad de crear una red estatal de reclutamiento y movilidad.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 171.
+
+El órgano de administración interna encargado de operar el Sistema, proporcionará los elementos técnicos y la asesoría necesaria dentro de cada una de las Entidades Públicas enunciadas en el artículo primero de la presente Ley, para el establecimiento de las normas y procedimientos relacionados con la instauración y funcionamiento de dicho Sistema.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 172.
+
+Para acceder a los beneficios del Servicio tales como promociones, becas y demás, el servidor público deberá acreditar los mínimos de capacidad y adiestramiento necesarios, debiéndose contemplar preferentemente en caso de igualdad entre diversos aspirantes, los siguientes criterios de selección:
+
+I. Antigüedad, que se tomará en cuenta la fecha de ingreso a la dependencia;
+
+II. Carta de servicios; y
+
+III. Escolaridad.
+
+La carta de servicios es el historial donde conste el grado de eficiencia del trabajador y las faltas administrativas en que hubiere incurrido durante el desempeño de su cargo.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 173.
+
+Los puestos considerados como propios del Servicio serán los que señale el Reglamento interno y nunca podrán ser los mismos que ofrezca el sistema escalafonario.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 174.
+
+El órgano de administración interna de cada Entidad Pública será el responsable de la elaboración de las descripciones y catálogos de puestos, los que se autorizarán anualmente con el propósito de hacer las modificaciones presupuestales correspondientes.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 175.
+
+Las descripciones del puesto, nombramientos, funciones y actividades de los servidores públicos deberán ser congruentes entre sí.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 176.
+
+La movilidad y promoción del personal inscrito al Servicio se establecerá a través de concurso cuyas bases deberán formularse de conformidad a lo establecido en el Reglamento Interno.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 177.
+
+El no ser beneficiado por el resultado de los concursos de movilidad y promoción no serán motivo para que el servidor público pierda su cargo, antigüedad o cualesquier otro derecho laboral adquirido.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 178.
+
+Cuando se someta a concurso una plaza vacante de las consideradas en el Servicio Civil o en el catálogo de éste, dicha plaza deberá ser cubierta en primera instancia por el personal inscrito al Servicio en la dependencia o entidad pública de que se trate. En condiciones de igualdad entre los aspirantes, se atenderá a los criterios de preferencia señalados en el artículo 172.
+
+Cuando no exista personal idóneo en la dependencia o entidad pública para cubrir la plaza concursada, se deberá capacitar a servidores públicos que pudieren ocupar el empleo, previa convocatoria abierta a los trabajadores inscritos en el Servicio dentro de la dependencia o entidad.
+
+Solo que no hubiere personal idóneo, ni susceptible de capacitación dentro de la dependencia o entidad de que se trate, el Órgano de Administración Interna boletinará dichas plazas a la red estatal de reclutamiento y movilidad.
+
+Si no obstante lo anterior no hubiere quien ocupe la plaza vacante se elegirán trabajadores de otras fuentes.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 179.
+
+Cuando en alguna oficina o unidad burocrática ya existente o de nueva creación, se aprueben plazas susceptibles de ser sometidas a concurso, se deberá capacitar oportunamente a los servidores públicos inscritos al Servicio que aspiren a ocuparlas, de la dependencia o entidad pública de que se trate.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 180.
+
+Los servidores públicos adscritos al Servicio y que laboren en cualquiera de las Entidades Públicas, en virtud a la red estatal de reclutamiento y movilidad, podrán concursar para ocupar una plaza vacante en cualquier área o dependencia, siempre que cumplan con los requisitos de la convocatoria.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 181.
+
+Cuando un servidor público de base sea promovido para ocupar otra plaza deberá renunciar a la que estuviere desempeñando siempre y cuando la nueva plaza sea de tiempo indefinido, de lo contrario podrá solicitar licencia para separarse de su cargo por el tiempo necesario.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 182.
+
+El Órgano de Administración Interna de cada entidad pública, elaborará, promoverá y llevará a cabo los programas de formación, desarrollo profesional y actualización para el personal adscrito al Servicio, considerando para ello la naturaleza de sus funciones conforme a las necesidades específicas de profesionalización.
+
+Es obligación del Órgano de Administración Interna programar cursos de capacitación para los servidores públicos inscritos en el Servicio, cuando se proyecte abrir plazas para las cuales no hubiere personal preparado.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 183.
+
+Para el cumplimiento de la formación y desarrollo profesional, las Entidades Públicas podrán celebrar convenios con instituciones de educación básica, media y superior que les auxilien en la formación de su personal, así como en la certificación de los estudios.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 184.
+
+Los servidores públicos adscritos al Servicio, al momento de su incorporación, se obligan a participar, cumplir y acreditar los cursos y programas que con el objeto de su formación y desarrollo profesional se establezcan, de conformidad con el reglamento interno.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 185.
+
+La formación y el desarrollo profesional cubrirán, por lo menos, los siguientes niveles:
+
+I. Programas de formación básica y capacitación para el trabajo;
+
+II. Programa de desarrollo profesional; y
+
+III. Programa de especialidades en materias aplicables a áreas específicas conforme a las necesidades de cada Entidad Pública.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 186.
+
+Para el cumplimiento de los programas mencionados en el artículo anterior, el órgano de administración interna otorgará los siguientes apoyos:
+
+I. Flexibilidad de horarios durante el tiempo que dure el programa;
+
+II. Ayuda de becas y medias becas, de acuerdo a las partidas presupuestales que en cada caso se disponga; y
+
+III. Pago de inscripciones.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 187.
+
+En el Reglamento Interno de las Entidades Públicas, se establecerán los requisitos que se deban cubrir para participar en los programas de formación y desarrollo.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 188.
+
+Se entiende por separación el acto voluntario u obligatorio por el que se deja de pertenecer al Servicio.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 189.
+
+Para los efectos del artículo anterior, se consideran causas de separación del Servicio, las siguientes:
+
+I. La solicitud expresa del servidor público; y
+
+II. El cese del servicio público por causa justificada o si fuere sancionado en los términos del artículo 64 Fracciones IV y V de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+
+Si al servidor público le fuera aplicada diversa sanción de las previstas en el artículo 64 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, su incorporación al Servicio quedará condicionado al dictamen de la Comisión, considerando la gravedad de la falta y la afectación a la administración pública.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Art. 190.
+
+Podrán reingresar los servidores públicos al Servicio cuando reúnan de nueva cuenta los requisitos previstos en el artículo 175. Su reingreso les faculta para concursar en igualdad de condiciones sin que su separación temporal al Servicio importe descalificación alguna, salvo aquellas que se desprendan de su carta de servicios.
 
 ## TRANSITORIOS
 
@@ -1390,3 +1882,15 @@ P.O. 20 DE NOVIEMBRE DE 1999.
 P.O. 27 DE JULIO DE 2000.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 20 DE ENERO DE 2001.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Jalisco.
+
+SEGUNDO. Las disposiciones contenidas en el Título Sexto que se adiciona a esta Ley, entrarán en vigor a los 30 días siguientes de su publicación en el Periódico Oficial del Estado de Jalisco.
+
+TERCERO. Los Poderes del Estado, Ayuntamientos, así como sus organismos descentralizados y desconcentrados, empresas paraestatales o asociaciones de participación estatal o municipal mayoritaria, deberán definir el área que se encargue de administrar el Sistema Administrativo del Servicio Civil de Carrera e integrar las respectivas Comisiones de Evaluación dentro del término de 120 días naturales contados a partir de que entre en vigor el Título Sexto de esta Ley.
+
+CUARTO. Las comisiones de evaluación formularán sus respectivos reglamentos internos dentro de los noventa días a partir de su integración.
+
+QUINTO. Los servidores públicos que reciban la seguridad social a través del Instituto de Seguridad Social al Servicio de los Trabajadores del Estado seguirán afiliados a dicha entidad.
