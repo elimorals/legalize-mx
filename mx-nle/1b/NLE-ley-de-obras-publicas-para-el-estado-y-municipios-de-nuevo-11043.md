@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-obras-publicas-para-el-estado-y-municipios-de-nuevo-1104
 country: "mx"
 rank: "ley"
 publication_date: "1997-10-22"
-last_updated: "1998-04-17"
+last_updated: "1999-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE OBRAS PUBLICAS PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 22 de octubre de 1997.
 
@@ -1035,7 +1035,13 @@ VI.- La metodología que se aplicará y las fuentes de información a que se rec
 
 Las dependencias y entidades que realicen obra pública por administración directa observarán, en su caso, las disposiciones que en materia de construcción rijan en el ámbito estatal o municipal.
 
-### Capítulo VI. De la Concesión de la Obra Pública
+### Capítulo VI. Actuaciones para las Obras con Aplicación del
+
+Impuesto sobre Aumento de Valor y Mejoría Específica
+
+de la Propiedad y Derechos por Cooperación
+
+> <small>(REFORMADO [ADICIONADO], P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 91.
 
@@ -1091,21 +1097,27 @@ IV.- Los interesados que acepten participar lo manifestarán por escrito y queda
 
 V.- Los plazos para la presentación de las proposiciones se fijarán para cada operación atendiendo al monto, características, especialidad, condiciones y complejidad de los trabajos.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
 ### Capítulo VII. Del Comité de Apoyo para la Adjudicación y Fallo
 
 de los Concursos de Obra Pública
 
 ###### Artículo 95.
 
-(DEROGADO, P.O. 17 DE ABRIL DE 1998)
+Para los efectos de la Aplicación del Impuesto sobre Aumento de Valor y Mejoría Específica de la Propiedad y Derechos por Cooperación previsto por la Ley de Hacienda para los Municipios del Estado, la autoridad municipal dispondrá que el proyecto, estudios y demás conceptos previstos en la Ley de Hacienda de los Municipios, se pongan a la vista de los sujetos de este impuesto o derecho, por el término de quince días hábiles, en las oficinas que al efecto se señalen. Dichas observaciones serán analizadas por la autoridad y en caso de considerarlas pertinentes, las mismas se incluirán en la Iniciativa del Decreto respectivo, que deberá presentarse al Congreso del Estado o se tomarán en cuenta para la determinación del derecho correspondiente.
+
+> <small>(REFORMADO [ADICIONADO], P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 96.
 
-(DEROGADO, P.O. 17 DE ABRIL DE 1998)
+Para efectos del artículo anterior, se publicará en el Periódico Oficial y al menos en dos de los diarios de los de mayor circulación, un aviso en el que se haga del conocimiento de los sujetos del impuesto o derecho, del plazo que se tiene para presentar las observaciones por escrito.
+
+> <small>(REFORMADO [ADICIONADO], P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 97.
 
-(DEROGADO, P.O. 17 DE ABRIL DE 1998)
+Las funciones que les correspondan a los municipios relacionadas con la Aplicación de los Derechos por Cooperación y el Impuesto sobre Aumento de Valor y Mejoría Específica de la Propiedad, podrán ser asumidas por el Estado, de acuerdo al convenio que al efecto se celebre con el municipio correspondiente.
 
 ### Capítulo Unico
 
@@ -1426,3 +1438,7 @@ P.O. 17 DE ABRIL DE 1998.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Las obras ya adjudicadas o en proceso, se regirán por las disposiciones vigentes hasta antes de esta reforma, salvo los casos de infracciones en los que se aplicarán las disposiciones vigentes al momento de su comisión.
+
+P.O. 31 DE DICIEMBRE DE 1999.
+
+Artículo Único.- El presente Decreto entrará en vigor el 1º. de enero del año 2000.
