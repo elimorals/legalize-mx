@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1998-12-30"
+last_updated: "1999-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 1999.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -1739,27 +1739,67 @@ DE LA BASE
 
 DE LA TASA
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1999)</small>
 
-169.- El impuesto se causará aplicando a la base que señala el artículo 168 la tasa que corresponda, de acuerdo al equivalente con las unidades de salario mínimo general elevado al mes del área geográfica en que se ubique el domicilio del contribuyente, conforme a la siguiente tarifa:
+169.- El monto mensual de las erogaciones a que se refiere el artículo 168, excepto las exentas que señala el artículo 171, se ubicará dentro de los límites establecidos en las columnas "A" y "B" de la tarifa contenida en el presente artículo. Al monto que se obtenga conforme a este procedimiento se le restará la cantidad prevista en el renglón correspondiente de la columna "A", y a la diferencia obtenida se le aplicará el porciento del renglón respectivo de la columna "D". Al resultado de esta última operación se le sumará la cuota mínima que para ese mismo renglón se establece en la columna "C" y el importe obtenido será el impuesto a pagar.
 
-Hasta 15 salarios mínimos 1.00%
+La tarifa aplicable es la siguiente:
 
-Más de 15 hasta 45 salarios mínimos 1.25%
+"A" "B" "C" "D"
 
-Más de 45 hasta 75 salarios mínimos 1.50%
+De Hasta Cuota Porciento para
 
-Más de 75 hasta 120 salarios mínimos 1.75%
+aplicarse al
 
-Más de 120 hasta 250 salarios mínimos 2.00%
+Mínima excedente de la
 
-Más de 250 hasta 350 salarios mínimos 2.50%
+cantidad
 
-Más de 350 hasta 450 salarios mínimos 3.00%
+(en pesos) (en pesos) (en pesos) consignada en la
 
-Más de 450 salarios mínimos 3.50%
+columna "A"
 
-Para efectos de la determinación del salario mínimo general elevado al mes, éste se considerará de 30.4 días.
+0.00 16,000.00 0.00 1.0%
+
+16,000.01 32,000.00 160.00 1.1%
+
+32,000.01 48,000.00 336.0 1.2%
+
+48,000.01 64,000.00 528.00 1.3%
+
+64,000.01 80,000.00 736.00 1.4%
+
+80,000.01 96,000.00 960.00 1.5%
+
+96,000.01 112,000.00 1,200.00 1.6%
+
+112,000.01 128,000.00 1,456.00 1.7%
+
+128,000.01 144,000.00 1,728.00 1.8%
+
+144,000.01 160,000.00 2,016.00 1.9%
+
+160,000.01 176,000.00 2,320.00 2.0%
+
+176,000.01 192,000.00 2,640.00 2.1%
+
+192,000.01 208,000.00 2,976.00 2.2%
+
+208,000.01 224,000.00 3,328.00 2.3%
+
+224,000.01 240,000.00 3,696.00 2.4%
+
+240,000.01 256,000.00 4,080.00 2.5%
+
+256,000.01 en adelante 4,480.00 2.6%
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 1999)</small>
+
+169 BIS.- Las cantidades establecidas en cada renglón de las columnas "A", "B" y "C" de la tarifa contenida en el artículo anterior, se actualizarán en la misma fecha y proporción en que se incremente el salario mínimo general que rija en la capital del Estado.
+
+Si en un mes rigen dos o más salarios mínimos generales en la capital del Estado, el cálculo del impuesto causado en dicho periodo se hará conforme a la tarifa obtenida de la última actualización efectuada durante ese mes en los términos del párrafo anterior.
+
+El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Administración, hará las operaciones aritméticas que se deriven del incremento al salario mínimo de referencia y publicará en el Periódico Oficial del Estado la tarifa actualizada, dentro de los diez días naturales siguientes al de la publicación del nuevo salario mínimo general en el Diario Oficial de la Federación.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
 
@@ -4594,3 +4634,9 @@ P.O. 30 DE DICIEMBRE DE 1998.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor el día primero de enero del año mil novecientos noventa y nueve.
+
+P.O. 27 DE NOVIEMBRE DE 1999.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día primero de diciembre de mil novecientos noventa y nueve.
