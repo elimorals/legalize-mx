@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1966-08-27"
+last_updated: "1967-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE AGOSTO DE 1966.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE JULIO DE 1967.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -317,13 +317,13 @@ Nunca podrán reunirse dos ni los tres Poderes del Estado en una persona o corpo
 
 El ejercicio del Poder Legislativo del Estado se deposita en una Asamblea que se denominará Legislatura del Estado, y que será integrada por Diputados electos directa y popularmente.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 1942)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1942)</small>
 
 ###### Art. 38.
 
 Por cada 100,000 habitantes o fracción mayor de 50,000 se elegirán un Diputado Propietario y un Suplente.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 1942)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1942)</small>
 
 ###### Art. 39.
 
@@ -335,11 +335,11 @@ No pueden ser Diputados a la Legislatura del Estado:
 
 I. Los ministros de cualquier culto;
 
-> <small>(REFORMADA, G.G. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
 
 II.- Los Diputados y Senadores al Congreso de la Unión que estén en ejercicio.
 
-III.- (DEROGADA, G.G. 1 DE ENERO DE 1955)
+III.- (DEROGADA, P.O. 1 DE ENERO DE 1955)
 
 IV. Los Jefes militares del Ejercito Nacional y los de las fuerzas del Estado o de policía, que ejerzan mando durante el período electoral, por el distrito electoral en donde estuvieren en servicio;
 
@@ -347,13 +347,13 @@ V. Los Jefes de la Guardia Nacional que estuvieren en servicio activo durante el
 
 Para los efectos de esta fracción y de la anterior, se entenderá por período electoral el transcurrido desde los trabajos preparatorios o promulgación de la convocatoria, en su caso, hasta el día de la elección;
 
-> <small>(REFORMADA, G.G. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
 
 VI.- El Secretario General, Oficial Mayor, los Magistrados del Tribunal Superior de Justicia y todos los funcionarios y empleados del Gobierno del Estado y Municipios, a menos de separase de sus cargos respectivos, noventa días antes de la elección.
 
-VII.- (DEROGADA, G.G. 1 DE ENERO DE 1955)
+VII.- (DEROGADA, P.O. 1 DE ENERO DE 1955)
 
-> <small>(ADICIONADA, G.G. 1 DE ENERO DE 1955)</small>
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 1955)</small>
 
 VIII.- El Gobernador del Estado sea Constitucional, Substituto, Provisional, Interino o encargado del despacho, durante todo el período de su ejercicio, aún cuando se separe de su cargo.
 
@@ -373,13 +373,13 @@ El ejercicio del cargo de Diputado es incompatible con cualquiera comisión o em
 
 Durante los ocho días a que se refiere el artículo anterior, se tendrán las juntas necesarias para la calificación de credenciales y su aprobación y se elegirán Presidente, Vicepresidente y Secretarios de la Legislatura en los términos que dispongan el mismo Reglamento interior.
 
-> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1935)</small>
 
 ###### Art. 47.
 
 La legislatura se reunirá en sesiones ordinarias una vez al año.
 
-> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 1944)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1944)</small>
 
 ###### Art. 48.
 
@@ -409,11 +409,11 @@ La Legislatura no podrá abrir sus sesiones ni ejercer su cometido, sin la concu
 
 ###### Art. 54.
 
-(DEROGADO, G.G. 9 DE NOVIEMBRE DE 1935)
+(DEROGADO, P.O. 9 DE NOVIEMBRE DE 1935)
 
 ###### Art. 55.
 
-(DEROGADO, G.G. 9 DE NOVIEMBRE DE 1935)
+(DEROGADO, P.O. 9 DE NOVIEMBRE DE 1935)
 
 ###### Art. 56.
 
@@ -529,7 +529,7 @@ Corresponde a la Legislatura:
 
 I. Dictar leyes para la Administración del Gobierno interior del Estado, en todos los ramos, interpretarlas, aclararlas, reformarlas o derogarlas;
 
-> <small>(REFORMADA, G.G. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
 
 II.- Aprobar los convenios que celebre, el Ejecutivo en relación con los límites del Estado en los términos que señale el Artículo 116 de la Constitución Federal.
 
@@ -537,15 +537,15 @@ III. Arreglar y fijar los límites de los Municipios de que deberá componerse e
 
 IV. Crear y suprimir Municipios según el censo y la recaudación de las rentas de que pueda disponer la localidad respectiva;
 
-> <small>(REFORMADA, G.G. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
 
 V. Dictar todas las leyes necesarias para el mejor funcionamiento de los Municipios con arreglo a las disposiciones relativas de la presente Constitución y designar a proposición del Ejecutivo, los Ayuntamientos substitutos y provisionales y los Miembros de los Cuerpos Edilicios en aquellos casos que determinen las Leyes Orgánicas respectivas.
 
 VI. Decretar los ingresos que deben constituir la Hacienda Municipal;
 
-VII.- (DEROGADA, G.G. 1 DE ENERO DE 1955)
+VII.- (DEROGADA, P.O. 1 DE ENERO DE 1955)
 
-VIII.- (DEROGADA, G.G. 1 DE ENERO DE 1955)
+VIII.- (DEROGADA, P.O. 1 DE ENERO DE 1955)
 
 > <small>(REFORMADA, P.O. 27 DE AGOSTO DE 1966)</small>
 
@@ -555,13 +555,13 @@ Para el caso de elecciones de Gobernador y Diputados la convocatoria deberá exp
 
 X. Hacer la computación de votos en la elección de Gobernador y declarar electo al ciudadano que hubiere obtenido la mayoría;
 
-> <small>(REFORMADA, G.G. 5 DE SEPTIEMBRE DE 1945)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 1945)</small>
 
 XI.- Erigirse en Colegio Electoral para nombrar Gobernador substituto en los casos que determina la presente Constitución.
 
 Los nombramientos de Magistrados del Tribunal Superior de Justicia del Estado, y los nombramientos y ceses de los Jueces de Primera Instancia, serán hechos por el Gobernador del Estado y sometidos a la aprobación de la Legislatura, la que la otorgará o negará dentro del término improrrogable de diez días para los primeros, y de dos días hábiles para los segundos. Si la Cámara no resolviere dentro de dicho término se tendrán por aprobados los nombramientos y ceses. Sin la aprobación de la Cámara no podrán tomar posesión los Magistrados designados por el Gobernador. En el caso de que la Legislatura no apruebe dos nombramientos sucesivos respecto de la misma vacante, el ciudadano Gobernador hará un tercer nombramiento, que surtirá sus efectos desde luego y que será sometido a la aprobación de la Cámara en el siguiente período de sesiones; en este período, dentro de los primeros diez días, la Cámara deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado o Juez nombrado continuará en sus funciones, con el carácter de definitivo. Si la Cámara desecha el nombramiento cesará desde luego en sus funciones el Magistrado o Juez provisional, y el ciudadano Gobernador someterá nuevo nombramiento a la aprobación de la Cámara en los términos señalados. En los casos de faltas temporales por más de tres meses, de los Magistrados o Jueces, o en las definitivas por defunción; renuncia o incapacidad, el Gobernador someterá un nuevo nombramiento a la aprobación de la Legislatura y si ésta no estuviese en sesiones, a la Comisión Permanente, quien dará su aprobación provisional mientras se reúne aquélla y da la aprobación definitiva.
 
-> <small>(ADICIONADA, G.G. 1 DE ENERO DE 1955)</small>
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 1955)</small>
 
 XI Bis- Los nombramientos de Magistrados del Tribunal Superior de Justicia del Estado, y los nombramientos y cese de los Jueces de Primera Instancia, serán hechos por el Gobernador del Estado y sometidos a la aprobación de la Legislatura la que la otorgará o negará dentro del término improrrogable de diez días hábiles para los primeros, y de dos para los segundos. Si la Cámara no resolviere dentro de dicho término se tendrán por aprobados tales nombramientos y ceses. Sin la aprobación de la Cámara no podrán tomar posesión los Magistrados designados por el Gobernador.
 
@@ -573,7 +573,7 @@ b).- En los casos de faltas temporales por más de tres meses de los Magistrados
 
 c).- En el período de recesos de la Legislatura, los nombramientos y ceses a que se refiere este precepto, serán aprobados provisionalmente por la Diputación Permanente, mientras no reanude aquella sus funciones y los apruebe en definitiva.
 
-> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1941)</small>
 
 XII.- Recibir la protesta del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia, de los Jueces de Primera Instancia y del Contador de Glosa, con arreglo a las siguientes fórmulas:
 
@@ -589,15 +589,15 @@ Uno de los Secretarios de la Legislatura interrogará:
 
 XIII. Nombrar y remover a los empleados de su Secretaría y a los de la Contaduría General de Glosa;
 
-> <small>(REFORMADA, G.G. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
 
 XIV.- Resolver sobre las renuncias de sus propios miembros del Gobernador, de los Magistrados del Tribunal Superior de Justicia y de los Jueces de Primera Instancia.
 
-(REFORMADA, G.G. 20 DE DICIEMBRE DE 1941)(F. DE E. 27 DE DICIEMBRE DE 1941)
+(REFORMADA, P.O. 20 DE DICIEMBRE DE 1941)(F. DE E. 27 DE DICIEMBRE DE 1941)
 
 XV.- Conceder, licencias a sus propios miembros, al Gobernador, a los Magistrados del Tribunal Superior de Justicia y a los Jueces de Primera Instancia, cuando la de los Funcionarios Judiciales, excedieren de tres meses y les sean sometidas por el Ejecutivo.
 
-XVI.- (DEROGADA, G.G. 17 DE OCTUBRE DE 1945)
+XVI.- (DEROGADA, P.O. 17 DE OCTUBRE DE 1945)
 
 XVII. Decretar anualmente, a iniciativa del Ejecutivo, los gastos del Estado e imponer para cubrirlos, las contribuciones indispensables, determinando su cuota, duración, y modo derecaudarlas (sic);
 
@@ -611,11 +611,11 @@ XXI. Examinar, revisar y calificar cada año, las cuentas de inversión de las r
 
 XXII. Revisar y calificar cada año, las cuentas de inversión de las rentas municipales del Estado, y exigir, en su caso, las responsabilidades consiguientes;
 
-XXIII.- (DEROGADA, G.G. 1 DE ENERO DE 1955)
+XXIII.- (DEROGADA, P.O. 1 DE ENERO DE 1955)
 
 XXIV. Dictar las disposiciones necesarias para liquidar y amortizar las deudas que tuviere el Estado;
 
-> <small>(REFORMADA, G.G. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
 
 XXV.- Dar bases generales conforme a las cuales el Ejecutivo pueda concertar empréstitos interiores, y aprobar esos empréstitos, dentro de las limitaciones previstas al efecto por el párrafo segundo de la fracción VII del Artículo 117 de la Constitución Federal.
 
@@ -623,7 +623,7 @@ XXVI. Llamar a los Diputados suplentes respectivos, en caso de muerte, exoneraci
 
 XXVII. Formar su Reglamento interior;
 
-> <small>(REFORMADA, G.G. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
 
 XXVIII.- Legislar acerca de la administración, conservación o inversión de los bienes y capitales del Estado y autorizar la enajenación de aquellos bienes, cuando no sean susceptibles de aplicarse a un servicio público.
 
@@ -633,7 +633,7 @@ XXX. Cumplir con las obligaciones de carácter legislativo que le fueren impuest
 
 XXXI. Informar al Congreso de la Unión, en los casos a que se refiere el inciso 3º de la fracción III del artículo 73 de la Constitución Federal y ratificar en su caso, la resolución que dicte el mismo Congreso, de acuerdo con los incisos 6º y 7º de la misma fracción;
 
-XXXII.- (DEROGADA, G.G. 1 DE ENERO DE 1955)
+XXXII.- (DEROGADA, P.O. 1 DE ENERO DE 1955)
 
 XXXIII. Excitar a los Poderes de la Unión a que presten su protección al Estado, en los casos a que se refiere el artículo 122 de la Constitución General;
 
@@ -647,7 +647,7 @@ XXXVII. Cambiar la residencia de los Poderes del Estado;
 
 XXXVIII. Delegar sus facultades a favor del Ejecutivo por tiempo limitado y por el voto de las dos terceras partes del número total de sus miembros, en casos excepcionales y cuando así lo estime conveniente por las circunstancias especiales en que se encuentre el Estado. En tales casos se expresará con toda claridad la facultad o facultades que se deleguen y que en ningún caso, podrán ser las de organización Municipal, funciones electorales y de jurado;
 
-XXXIX.- (DEROGADA, G.G. 1 DE ENERO DE 1955)
+XXXIX.- (DEROGADA, P.O. 1 DE ENERO DE 1955)
 
 XL. Reglamentar la organización del servicio de seguridad pública del Estado;
 
@@ -657,7 +657,7 @@ XLII. Dictar leyes sobre vías de comunicación y aprovechamiento de aguas y bos
 
 XLIII. Legislar sobre todo aquello que no se oponga a las prescripciones de la Constitución General.
 
-> <small>(ADICIONADA, G.G. 1 DE ENERO DE 1955)</small>
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 1955)</small>
 
 XLIV.- Reclamar ante la Suprema Corte de Justicia de la Nación cuando alguna Ley o acto del Gobierno Federal, constituya un ataque a la Soberanía o Independencia del Estado o de la Constitución Federal.
 
@@ -709,7 +709,7 @@ V. Conceder o negar las licencias a que se refiere la fracción XV del artículo
 
 VI. Dictaminar sobre todos los asuntos que quedan pendientes de resolución a fin de que continúen sus trámites al abrirse los períodos de sesiones;
 
-VII.- (DEROGADA, G.G. 17 DE OCTUBRE DE 1945)
+VII.- (DEROGADA, P.O. 17 DE OCTUBRE DE 1945)
 
 VIII. Cumplir con las obligaciones que le impongan la Legislatura siempre que no fueren contrarias a las leyes.
 
@@ -1195,9 +1195,11 @@ Los Jueces de Primera Instancia, para los efectos de su nombramiento, deberán r
 
 (DEROGADO, P.O. 1 DE ENERO DE 1955)
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1967)</small>
+
 ###### Art. 118.
 
-Habrá Jueces de primera Instancia en todas las Cabeceras de Distrito Judicial.
+En cada Distrito Judicial habrá un Juez, o los Jueces necesarios de Primera Instancia, que conocerán de los asuntos civiles y penales que correspondan a la jurisdicción de su Distrito.
 
 #### SECCION PRIMERA. DE LA CONSTITUCION DE LOS AYUNTAMIENTOS
 
@@ -2154,3 +2156,7 @@ G.G. 27 DE AGOSTO DE 1966.
 Artículo Primero.- La disposición del Artículo 160 en cuanto al requisito de que los Jueces Menores de las Cabeceras Distritales y de los Municipios de Naucalpan y Netzahualcóyotl, sean Abogados y Pasantes de Derecho, operará en la medida en que las circunstancias de cada lugar lo permitan.
 
 Artículo Segundo.- Este Decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
+
+G.G. 8 DE JULIO DE 1967.
+
+Artículo Transitorio.- Este Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno" del Estado.
