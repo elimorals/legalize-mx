@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-ejecucion-de-penas-privativas-y-restrictivas-de-la-5133"
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-29"
-last_updated: "1991-09-10"
+last_updated: "2004-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 LEY DE EJECUCION DE PENAS PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 1991.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO DEROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 12 DE NOVIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 29 de enero de 1988.
 
@@ -1160,3 +1162,11 @@ P.O. 10 DE SEPTIEMBRE DE 1991.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE NOVIEMBRE DE 2004.
+
+PRIMERO.- La presente Ley entrará en vigor, a los 30 días siguientes al de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+SEGUNDO.- Se deroga la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, aprobada el 19 de enero de 1988 y publicada en el Periódico Oficial del Gobierno del Estado núm. 9 de fecha 29 de enero del mismo año; y el Decreto de Reformas y Adiciones publicado en el Periódico Oficial del Gobierno del Estado, núm. 19 de fecha 5 de marzo de 1991.
+
+TERCERO.- El Reglamento Interior de este ordenamiento se aprobará por la Dirección General de Readaptación Social en un plazo máximo de noventa días contados a partir de que entre en vigor esta Ley.
