@@ -4,7 +4,7 @@ identifier: "LGSM"
 country: "mx"
 rank: "ley_general"
 publication_date: "1934-08-04"
-last_updated: "1934-08-04"
+last_updated: "1943-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=578&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGSM"
 
 LEY GENERAL DE SOCIEDADES MERCANTILES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE FEBRERO DE 1943.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación, el sábado 4 de agosto de 1934.
 
@@ -58,11 +58,21 @@ VI.- Sociedad cooperativa.
 
 Cualquiera de las sociedades a que se refieren las fracciones I a V de este artículo podrá constituirse como sociedad de capital variable, observándose entonces las disposiciones del Capítulo VIII de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 1943)</small>
+
 ###### ARTICULO 2°.
 
-Las sociedades mercantiles inscritas en el Registro Público de Comercio tienen personalidad jurídica distinta de la de los socios.
+Las sociedades mercantiles inscritas en el Registro Público de Comercio, tienen personalidad jurídica distinta de la de los socios.
 
 Salvo el caso previsto en el artículo siguiente, no podrán ser declaradas nulas las sociedades inscritas en el Registro Público de Comercio.
+
+Las sociedades no inscritas en el Registro Público de Comercio que se hayan exteriorizado como tales, frente a terceros consten o no en escritura pública, tendrán personalidad jurídica.
+
+Las relaciones internas de las sociedades irregulares se regirán por el contrato social respectivo, y, en su defecto, por las disposiciones generales y por las especiales de esta ley, según la clase de sociedad de que se trate.
+
+Los que realicen actos jurídicos como representantes o mandatarios de una sociedad irregular, responderán del cumplimiento de los mismos frente a terceros, subsidiaria, solitaria (sic) e ilimitadamente, sin perjuicio de la responsabilidad penal, en que hubiere incurrido, cuando los terceros resultaren perjudicados.
+
+Los socios no culpables de la irregularidad, podrán exigir daños y perjuicios a los culpables y a los que actuaren como representantes o mandatarios de la sociedad irregular.
 
 ###### ARTICULO 3°.
 
@@ -1653,3 +1663,11 @@ Sufragio Efectivo. No Reelección.
 México, D. F., a 1o. de agosto de 1934.- El Subsecretario de Gobernación, Encargado del Despacho, Juan G. Cabral.- Rúbrica.
 
 Al C.....
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 2 DE FEBRERO DE 1943.
+
+###### ARTICULO UNICO.
+
+La presente ley entrará en vigor a los noventa días de su publicación en el "Diario Oficial" de la Federación.
