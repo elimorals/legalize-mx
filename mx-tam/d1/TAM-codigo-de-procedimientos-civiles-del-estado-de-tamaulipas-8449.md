@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-civiles-del-estado-de-tamaulipas-8449"
 country: "mx"
 rank: "codigo"
 publication_date: "1961-10-04"
-last_updated: "1963-09-18"
+last_updated: "1973-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 1963
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 1973
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el 4 de octubre de 1961.
 
@@ -189,15 +189,13 @@ III.- La competencia de los tribunales del Estado se rige por las disposiciones 
 
 IV.- Toda persona física o moral puede demandar o ser demandada ante los tribunales del Estado, cuando así proceda conforme a las reglas de competencia.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1973)</small>
+
 ###### ARTICULO 21.
 
 Las actuaciones judiciales se practicarán en días y horas hábiles.
 
-Son inhábiles los domingos, el cinco de febrero, veintiuno de marzo, primero y cinco de mayo, primero, quince y dieciséis de septiembre, doce de octubre y veinte de noviembre. Además, los de vacaciones de los tribunales, los comprendidos del veintidós de diciembre al primero de enero, inclusive, y cuando de hecho se suspendan las labores por orden del Supremo Tribunal de Justicia.
-
-Se entiende por horas hábiles, las de oficina autorizadas por el Supremo Tribunal de Justicia. Para las actuaciones que se practiquen fuera del tribunal, serán las que medien entre las siete y las dieciocho horas. Principiada una diligencia en horas hábiles podrá válidamente concluirse, aunque se actúe en horas inhábiles, sin necesidad de determinación especial del juez.
-
-El titular del juzgado podrá habilitar los días y horas inhábiles, para actuar o para que se practiquen diligencias cuando hubiere causa urgente que lo exija.
+Son inhábiles los sábados, los domingos, el cinco de febrero, veintiuno de marzo, primero y cinco de mayo, primero, quince y dieciséis de septiembre, doce de octubre y veinte de noviembre. Además, los de vacaciones de los tribunales, los comprendidos del veintidós de diciembre al primero de enero, inclusive, y cuando de hecho se suspendan las labores por orden del Supremo Tribunal de Justicia.
 
 ###### ARTICULO 22.
 
@@ -1463,7 +1461,7 @@ III.- Si fuere pariente por consanguinidad o afinidad, del abogado de alguna de 
 
 > <small>(F. DE E., P.O. 4 DE OCTUBRE DE 1961)</small>
 
-IV.- Cuando él, su cónyuge o alguno de sus hijos, haya sido judicialmente declarado heredero o legatario, o sea donante, donatario, socio, acreedor, deudor, fiador, fiado, arrendador, arrendatario, principal, dependiente, comensal habitual de alguna de las partes, o administrador actual de sus bienes;
+IV.- Cuando él, su cónyuge o alguno de sus hijos, haya sido judicialmente declarado heredero o legatario, o sea donante, donatario, socio, acreedor, deudor, fiador, fiado, arrendador, arrendatario, principal, dependiente, comensal, habitual de alguna de las partes, o administrador actual de sus bienes;
 
 V.- Si ha hecho promesa o amenazas, o ha manifestado de otro modo su enemistad o enojo existentes al momento del litigio;
 
@@ -1525,7 +1523,7 @@ Cuando los magistrados, jueces o secretarios no se inhibieren a pesar de existir
 
 ###### ARTICULO 209.
 
-En los concursos sólo podrá hacer uso de la recusación el representante legítimo de los acreedores en los negocios que afecten al interés general; en los que afecten al interés particular de alguno de los acreedores, podrá el interesado hacer uso de la recusación, pero el juez no quedará inhibido más que en el punto de que se trate. Resuelta la cuestión particular, por el tribunal que corresponda, se reintegrará al principal.
+En los concursos sólo podrá hacer uso de la recusación el representante legítimo de los acreedores en los negocios que afecten al interés general; en los que afecten al interés particular de alguno de los acreedores, podrá el interesado hacer uso de la recusación; pero el juez no quedará inhibido más que en el punto de que se trate. Resuelta la cuestión particular, por el tribunal que corresponda, se reintegrará al principal.
 
 ###### ARTICULO 210.
 
@@ -1579,7 +1577,7 @@ Toda recusación se interpondrá ante el magistrado o juez que conozca del negoc
 
 Los magistrados y jueces que conozcan de una recusación, son irrecusables para ese solo efecto.
 
-El emplazamiento de que se habla en este artículo se considerará hecho directamente por el superior que deba sustanciar la recusación, por cuyo motivo cualquier notificación que deba hacerse al recusante, aun la radicación de los autos, surtirá efectos por medio de la lista de acuerdos, a menos que oportunamente ocurra personalmente, o designe abogado en el lugar donde radique el superior.
+El emplazamiento de que se habla en este artículo se considerará hecho directamente por el superior que deba sustanciar la recusación, por cuyo motivo cualquier notificación que deba hacerse al recusante, aun la radicación de los autos, surtirá efectos por medio de la listas de acuerdos, a menos que oportunamente ocurra personalmente, o designe abogado en el lugar donde radique el superior.
 
 ###### ARTICULO 220.
 
@@ -7066,3 +7064,7 @@ P.O. 18 DE SEPTIEMBRE DE 1963
 ###### ARTICULO UNICO.
 
 Este Decreto comenzará a surtir sus efectos a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE ABRIL DE 1973
+
+UNICO.- Este decreto surtirá efectos a partir de su publicación en el Periódico Oficial del Estado.
