@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-adquisiciones-arrendamientos-y-prestacion-de-7774"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-19"
-last_updated: "1987-12-19"
+last_updated: "1991-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1991.
 
 Ley publicada en la Sección "H" del Periódico Oficial del Estado de Tabasco, el 19 de diciembre de 1987.
 
@@ -183,71 +183,27 @@ La Oficialía, mediante disposiciones de carácter general podrá determinar los
 
 ###### ARTICULO 19.
 
-La Secretaría llevará el Padrón de Proveedores de la Administración Pública Estatal y clasificará las personas inscritas en él, de acuerdo con su actividad, capacidad técnica y su ubicación.
-
-El registro en el Padrón tendrá una vigencia indeterminada.
-
-Las personas inscritas en el Padrón podrán comunicar en cualquier tiempo a la Secretaría las modificaciones relativas a su capacidad técnica, económica o a su actividad, cuando tales circunstancias puedan implicar un cambio en su clasificación.
-
-La clasificación a que se refiere este Artículo deberá ser considerada por la Oficialía en la convocatoria y formalización de las operaciones que regula esta Ley.
-
-Para los efectos, de esta Ley, el carácter de Proveedor se adquiere con la inscripción a que se refiere este Artículo; en consecuencia, las dependencias y entidades se abstendrán de exigir a los proveedores, el que éstos se encuentren inscritos en cualquier otro registro que les otorgue el mismo carácter.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 20.
 
-Las personas interesadas en inscribirse en el Padrón de Proveedores deberán solicitarlo por escrito y satisfacer los requisitos que establezca el reglamento de esta Ley.
-
-La Secretaría, dentro de un término que no excederá en 15 días hábiles contados a partir de la fecha de recepción de la solicitud, resolverá sobre la inscripción en el Padrón o la modificación de la clasificación.
-
-Transcurrido este plazo sin que haya respuesta se tendrá por inscrito al solicitante o por modificada su clasificación.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 21.
 
-Quedan exceptuadas de la obligación de registro en el Padrón de Proveedores:
-
-I.- Las personas que provean a las dependencias y entidades de artículos perecederos, granos, productos alimenticios básicos o semiprocesados, o bienes usados;
-
-II.- Los campesinos, comuneros o grupos urbanos marginados que contraten con las dependencias y entidades, ya sea directamente o a través de las personas morales o agrupaciones legalmente constituidas por ellos;
-
-III.- Quienes provean bienes o presten servicios a las dependencias y entidades en las situaciones previstas en la Fracción III del Artículo 36;
-
-IV.- Aquéllos que, exclusivamente, lleven a cabo operaciones con las dependencias y entidades, cuyos montos sean inferiores a los que se refieren las Fracciones I y II del Artículo 38.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 22.
 
-La Secretaría está facultada para suspender el registro del proveedor cuando:
-
-I.- Se le declare en estado de quiebra o; en su caso, sujeto a concurso de acreedores;
-
-II.- No cumpla en sus términos, por causas imputables a él con algún pedido o contrato a que se hubiera comprometido y perjudique con ello los intereses del Gobierno;
-
-III.- Se negare a dar las facilidades necesarias para que la Oficialía y Contraloría, facultadas para ello conforme a esta Ley ejerza sus funciones de comprobación y verificación;
-
-IV.- Deje de reunir los requisitos necesarios para estar registrado en el Padrón de Proveedores.
-
-Cuando desaparezcan las causas que hubieren motivado la suspensión del registro, el proveedor lo acreditará ante la Secretaría, la que dispondrá lo conducente a fin de que el registro del interesado vuelva a surtir todos sus efectos legales.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 23.
 
-La Secretaría podrá cancelar el registro del Proveedor cuando:
-
-I.- La información que hubiere proporcionado para la inscripción resultare falsa o haya actuado con dolo o mala fe en alguna licitación para la adjudicación del pedido o contrato, en su celebración o en su cumplimiento;
-
-II.- No cumpla en sus términos con algún pedido o contrato por causas imputables a él y perjudique con ello gravemente los intereses del Gobierno;
-
-III.- Incurra en actos, prácticas u omisiones que lesionen el interés general o los de la economía estatal;
-
-IV.- Se declare su quiebra fraudulenta;
-
-V.- Haya aceptado pedidos o firmado contratos en contravención a lo establecido por esta Ley, por causas que le fuesen imputables; y
-
-VI.- Se le declare incapacitado legalmente para celebrar actos o contratos de los regulados por esta Ley.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 24.
 
-Para negar la inscripción o modificación de la especialidad, o determinar la suspensión o cancelación del registro en el Padrón de Proveedores, la Secretaría dará vista al Proveedor para que exponga lo que a su derecho convenga y aporte las pruebas que estime pertinentes.
-
-Contra las resoluciones de negativa, suspensión o cancelación, el interesado podrá interponer Recursos de Revocación, en los términos de esta Ley.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1991)
 
 ### CAPITULO II. DE LOS PEDIDOS Y CONTRATOS
 
@@ -279,9 +235,11 @@ Si a juicio de la Oficialía pudieran existir proveedores idóneos fuera del ter
 
 Las bases de cada licitación deberán contener la descripción completa de los bienes o servicios y sus especificaciones, indicando en su caso, de manera particular los requerimientos de carácter técnico y demás circunstancias pertinentes que habrá de considerar la Oficialía para la adjudicación del pedido o contrato correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 28.
 
-Todo interesado que satisfaga los requisitos de la convocatoria, las bases y las especificaciones de la licitación tendrá derecho a presentar proposiciones.
+Todo interesado que satisfaga los requisitos de la convocatoria, las bases y las especificaciones de la licitación, tendrá derecho a presentar proposiciones para tal efecto, las Dependencias y Entidades que podrán exigir requisitos adicionales a los previstos por esta Ley y su reglamento.
 
 En el acto de apertura de oferta se procederá a dar lectura en voz alta de las propuestas presentadas por cada uno de los interesados informándose a aquellas que, en su caso, se desechen o hubieren sido desechadas y las causas que motiven tal determinación.
 
@@ -311,7 +269,9 @@ Las garantías a que se refiere el Artículo anterior se constituirán por el pr
 
 La Oficialía con base en el análisis comparativo de las proposiciones admitidas y en el presupuesto, emitirá un dictamen que servirá como fundamento para el fallo, mediante el cual se adjudicará el pedido o contrato a la persona que de entre los proponentes reúna las condiciones legales, técnicas y económicas requeridas por la convocante y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas.
 
-Si resultare que dos o más proposiciones satisfacen los requerimientos de la convocante, el pedido o contrato se adjudicará a quien presente mejores condiciones de ventas.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1991)</small>
+
+Si resultare que dos o más proposiciones satisfacen los requerimientos de la convocante, el pedido o contrato se adjudicará a quien presente la proposición solvente más baja.
 
 El fallo de la licitación se hará saber a cada uno de los participantes en el acto de apertura de ofertas y, salvo que esto no fuera factible, dentro de un término que no podrá exceder de quince días hábiles contando a partir de la fecha de celebración del acto de apertura de oferta.
 
@@ -357,7 +317,7 @@ II.- La adquisición de los bienes o líneas de bienes que, en los términos de 
 
 III.- Si los bienes o líneas de bienes fueran de aquéllos en cuya adquisición no se aplique el procedimiento de licitación previsto en el Artículo 25, la dependencia o entidad, con excepción de las adquisiciones de bienes a que se refiere la fracción I del artículo 36, deberá obtener previamente a la adjudicación del pedido o contrato, las cotizaciones que le permitan elegir aquellas que ofrezcan mejores condiciones.
 
-Salvo lo dispuesto por las fracciones I, II, III, y VI del artículo 36 y I del artículo 38, las dependencias y entidades exigirán de los proveedores que éstos se encuentren inscritos en el Padrón de Proveedores de la Administración Pública Estatal.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 28 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 38.
 
@@ -369,7 +329,7 @@ I.- Los montos máximos de las operaciones que la Oficialía podrá adjudicar en
 
 II.- Los montos de las operaciones que siendo superiores a los que se refiere la fracción anterior, la Oficialía podrá adjudicar al proveedor que cuente con la capacidad de respuesta inmediata habiendo considerado previamente por lo menos tres propuestas;
 
-III.- Los montos de las operaciones, superiores a las señaladas en las fracciones anteriores, que la Oficialía podrá adjudicar al Proveedor que ofrezca las mejores condiciones, precio, calidad y oportunidad en el cumplimiento, habiendo considerado previamente por lo menos cinco propuestas.
+III.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 1991)
 
 En la aplicación de este precepto, cada operación deberá considerarse individualmente, a fin de determinar si queda comprendida dentro de los montos máximos y límites que establezca el reglamento, en la inteligencia de que, en ningún caso el importe total de la misma podrá ser fraccionado para que quede comprendido, en los supuestos a que se refiere este artículo. Tratándose de arrendamiento o prestación de servicio, se podrán llevar a cabo los mismos procedimientos, cuando el monto de las mensualidades corresponda a un doceavo de los límites señalados; en caso de no existir mensualidades, se tomarán como base los límites indicados para cada operación.
 
@@ -411,9 +371,11 @@ La Secretaría de Finanzas deberá pagar el anticipo, o precio total estipulado 
 
 Los proveedores quedarán obligados ante la Oficialía a responder de los defectos y vicios ocultos de los bienes y de la calidad de los servicios y de cualquier otra responsabilidad en que hubieren incurrido en los términos señalados en el pedido o contrato respectivo sin perjuicio de lo establecido por las leyes civiles y penales al respecto.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 45.
 
-Los proveedores que participen en las licitaciones, podrán inconformarse por escrito, indistintamente, ante la Oficialía o ante la Contraloría, en relación a cualquier etapa o fase de proceso en cualquier momento antes del fallo de la adjudicación.
+Los proveedores que participen en las licitaciones podrán inconformarse por escrito indistintamente, ante la Oficialía o ante la Contraloría, en relación a cualquier etapa o fase de proceso en cualquier momento antes del fallo de la adjudicación incluyendo actos posteriores al fallo que impliquen la imposición de condiciones diferentes a las de la convocatoria.
 
 ###### ARTICULO 46.
 
@@ -582,3 +544,9 @@ LIC. JOSE MARIA PERALTA LOPEZ
 Lic. Pedro Gil Cáceres
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+P.O. 28 DE DICIEMBRE DE 1991.
+
+Unico: Este Decreto surte sus efectos legales a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
