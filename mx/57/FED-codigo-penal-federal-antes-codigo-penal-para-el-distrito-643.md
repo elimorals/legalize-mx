@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1991-01-21"
+last_updated: "1991-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ENERO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1991.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -1231,21 +1231,23 @@ Nadie puede ser juzgado dos veces por el mismo delito, ya sea que en el juicio s
 
 ## TITULO SEXTO. De los menores
 
+> <small>N. DE E. CON FECHA 24 DE DICIEMBRE DE 1991 FUE REPUBLICADA LA DEROGACION DEL ARTICULO 119 AL 122 POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.</small>
+
 ###### ARTICULO 119.
 
-(DEROGADO POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY QUE CREA LOS CONSEJOS TUTELARES PARA MENORES INFRACTORES DEL DISTRITO Y TERRITORIOS FEDERALES, D.O.F. 2 DE AGOSTO DE 1974)
+(DEROGADO POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY QUE CREA LOS CONSEJOS TUTELARES PARA MENORES INFRACTORES DEL DISTRITO Y TERRITORIOS FEDERALES, D.O.F. 2 DE AGOSTO DE 1974) (REPUBLICADO, D.O.F. 24 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 120.
 
-(DEROGADO POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY QUE CREA LOS CONSEJOS TUTELARES PARA MENORES INFRACTORES DEL DISTRITO Y TERRITORIOS FEDERALES, D.O.F. 2 DE AGOSTO DE 1974)
+(DEROGADO POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY QUE CREA LOS CONSEJOS TUTELARES PARA MENORES INFRACTORES DEL DISTRITO Y TERRITORIOS FEDERALES, D.O.F. 2 DE AGOSTO DE 1974) (REPUBLICADO, D.O.F. 24 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 121.
 
-(DEROGADO POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY QUE CREA LOS CONSEJOS TUTELARES PARA MENORES INFRACTORES DEL DISTRITO Y TERRITORIOS FEDERALES, D.O.F. 2 DE AGOSTO DE 1974)
+(DEROGADO POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY QUE CREA LOS CONSEJOS TUTELARES PARA MENORES INFRACTORES DEL DISTRITO Y TERRITORIOS FEDERALES, D.O.F. 2 DE AGOSTO DE 1974) (REPUBLICADO, D.O.F. 24 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 122.
 
-(DEROGADO POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY QUE CREA LOS CONSEJOS TUTELARES PARA MENORES INFRACTORES DEL DISTRITO Y TERRITORIOS FEDERALES, D.O.F. 2 DE AGOSTO DE 1974)
+(DEROGADO POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY QUE CREA LOS CONSEJOS TUTELARES PARA MENORES INFRACTORES DEL DISTRITO Y TERRITORIOS FEDERALES, D.O.F. 2 DE AGOSTO DE 1974) (REPUBLICADO, D.O.F. 24 DE DICIEMBRE DE 1991)
 
 # LIBRO SEGUNDO
 
@@ -3483,7 +3485,7 @@ Hay premeditación: siempre que el reo cause intencionalmente una lesión, despu
 
 Se presumirá que existe premeditación cuando las lesiones o el homicidio se cometan por inundación, incendio, minas, bombas o explosivos; por medio de venenos o cualquiera otra sustancia nociva a la salud, contagio venéreo, asfixia o enervantes o por retribución dada o prometida; por tormento, motivos depravados o brutal ferocidad.
 
-(ADICIONADO, D.O.F. 3 DE ENERO DE 1989)(REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1989)</small>
 
 ARTICULO 315 bis.- Se impondrá la pena del artículo 320 de este Código, cuando el homicidio sea cometido intencionalmente, a propósito de una violación o un robo por el sujeto activo de éstos, contra su víctima o víctimas.
 
@@ -4848,3 +4850,13 @@ SEGUNDO.- Los artículos 409 y 410 que se adicionan entrarán en vigor al día s
 D.O.F. 21 DE ENERO DE 1991.
 
 UNICO.- El presente decreto entra en vigor al día siguiente de la fecha de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE DICIEMBRE DE 1991.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO, QUE SE RELACIONAN CON EL CODIGO.
+
+PRIMERO.- La presente Ley entrará en vigor a los sesenta días siguientes a su publicación en el Diario Oficial de la Federación.
+
+...
+
+TERCERO.- Se derogan los artículos 119 a 122, del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal; 73 a 78 de la Ley Orgánica del Poder Judicial de la Federación, y 503 del Código Federal de Procedimientos Penales; así como los artículos 673 y 674, fracciones II y X, del Código de Procedimientos Penales para el Distrito Federal, únicamente por lo que hace a menores infractores.
