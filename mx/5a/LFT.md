@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "1976-07-02"
+last_updated: "1977-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JULIO DE 1976.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1977.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación el miércoles 1 de abril de 1970.
 
@@ -588,7 +588,7 @@ Los trabajadores que presten servicio en día domingo tendrán derecho a una pri
 
 ###### Artículo 72.
 
-Cuando el trabajador no preste sus servicios durante todos los días de trabajo de la semana, o cuando en el mismo día o en la misma semana preste sus servicios a varios patrones, tendrá derecho a que se le pague la parte proporcional del salario de los días de descanso, calculada sobre el salario de los días en que hubiese trabajado o sobre el que hubiese percibido de cada patrón.
+Cuando el trabajador no preste sus servicios durante todos los días de trabajo de la semana, o cuando en el mismo día o en la misma semana preste servicios a varios patrones, tendrá derecho a que se le pague la parte proporcional del salario de los días de descanso, calculada sobre el salario de los días en que hubiese trabajado o sobre el que hubiese percibido de cada patrón.
 
 ###### Artículo 73.
 
@@ -916,7 +916,7 @@ IV. Dentro de los treinta días siguientes a la resolución dictada por la Secre
 
 ###### Artículo 122.
 
-El reparto de utilidades entre los trabajadores deberá efectuarse dentro de los sesenta días siguientes a la fecha en que deba pagarse el impuesto anual, aun cuando esté en trámite (sic) objeción de los trabajadores.
+El reparto de utilidades entre los trabajadores deberá efectuarse dentro de los sesenta días siguientes a la fecha en que deba pagarse el impuesto anual, aun cuando esté en trámite objeción de los trabajadores.
 
 Cuando la Secretaría de Hacienda y Crédito Público aumente el monto de la utilidad gravable, sin haber mediado objeción de los trabajadores o haber sido ésta resuelta, el reparto adicional se hará dentro de los sesenta días siguientes a la fecha en que se notifique la resolución. Sólo en el caso de que ésta fuera impugnada por el patrón, se suspenderá el pago del reparto adicional hasta que la resolución quede firme, garantizándose el interés de los trabajadores.
 
@@ -924,7 +924,7 @@ El importe de las utilidades no reclamadas en el año en que sean exigibles, se 
 
 ###### Artículo 123.
 
-La utilidad repartible se dividirá en dos partes iguales: la primera se repartirá por igual entre todos los trabajadores, tomando en consideración el número de días trabajado (sic) por cada uno en el año, independientemente del monto de los salarios. La segunda se repartirá en proporción al monto de los salarios devengados por el trabajo prestado durante el año.
+La utilidad repartible se dividirá en dos partes iguales: la primera se repartirá por igual entre todos los trabajadores, tomando en consideración el número de días trabajado por cada uno en el año, independientemente del monto de los salarios. La segunda se repartirá en proporción al monto de los salarios devengados por el trabajo prestado durante el año.
 
 ###### Artículo 124.
 
@@ -940,7 +940,7 @@ I. Una comisión integrada por igual número de representantes de los trabajador
 
 II. Si los representantes de los trabajadores y del patrón no se ponen de acuerdo, decidirá el Inspector del Trabajo;
 
-III. Los trabajadores podrán hacer las observaciones que juzguen conveniente (sic), dentro de un término de quince días; y
+III. Los trabajadores podrán hacer las observaciones que juzguen conveniente, dentro de un término de quince días; y
 
 IV. Si se formulan objeciones, serán resueltas por la misma comisión a que se refiere la fracción I, dentro de un término de quince días.
 
@@ -1004,63 +1004,63 @@ El derecho de los trabajadores a participar en las utilidades no implica la facu
 
 Son obligaciones de los patrones:
 
-I. Cumplir las disposiciones de las normas de trabajo aplicables a sus empresas o establecimientos;
+I.- Cumplir las disposiciones de las normas de trabajo aplicables a sus empresas o establecimientos;
 
-II. Pagar a los trabajadores los salarios e indemnizaciones, de conformidad con las normas vigentes en la empresa o establecimiento;
+II.- Pagar a los trabajadores los salarios e indemnizaciones, de conformidad con las normas vigentes en la empresa o establecimiento;
 
-III. Proporcionar oportunamente a los trabajadores los útiles, instrumentos y materiales necesarios para la ejecución del trabajo, debiendo darlos de buena calidad, en buen estado y reponerlos tan luego como dejen de ser eficientes, siempre que aquéllos no se hayan comprometido a usar herramienta propia. El patrón no podrá exigir indemnización alguna por el desgaste natural que sufran los útiles, instrumentos y materiales de trabajo;
+III.- Proporcionar oportunamente a los trabajadores los útiles, instrumentos y materiales necesarios para la ejecución del trabajo, debiendo darlos de buena calidad, en buen estado y reponerlos tan luego como dejen de ser eficientes, siempre que aquéllos no se hayan comprometido a usar herramienta propia. El patrón no podrá exigir indemnización alguna por el desgaste natural que sufran los útiles, instrumentos y materiales de trabajo;
 
-IV. Proporcionar local seguro para la guarda de los instrumentos y útiles de trabajo pertenecientes al trabajador, siempre que deban permanecer en el lugar en que prestan los servicios, sin que sea lícito al patrón retenerlos a título de indemnización, garantía o cualquier otro. El registro de instrumentos o útiles de trabajo deberá hacerse siempre que el trabajador lo solicite;
+IV.- Proporcionar local seguro para la guarda de los instrumentos y útiles de trabajo pertenecientes al trabajador, siempre que deban permanecer en el lugar en que prestan los servicios, sin que sea lícito al patrón retenerlos a título de indemnización, garantía o cualquier otro. El registro de instrumentos o útiles de trabajo deberá hacerse siempre que el trabajador lo solicite;
 
-V. Mantener el número suficiente de asientos o sillas a disposición de los trabajadores en las casas comerciales, oficinas, hoteles, restaurantes y otros centros de trabajo análogos. La misma disposición se observará en los establecimientos industriales cuando lo permita la naturaleza del trabajo;
+V.- Mantener el número suficiente de asientos o sillas a disposición de los trabajadores en las casas comerciales, oficinas, hoteles, restaurantes y otros centros de trabajo análogos. La misma disposición se observará en los establecimientos industriales cuando lo permita la naturaleza del trabajo;
 
-VI. Guardar a los trabajadores la debida consideración, absteniéndose de mal trato de palabra o de obra;
+VI.- Guardar a los trabajadores la debida consideración, absteniéndose de mal trato de palabra o de obra;
 
-VII. Expedir cada quince días, a solicitud de los trabajadores, una constancia escrita del número de días trabajados y del salario percibido;
+VII.- Expedir cada quince días, a solicitud de los trabajadores, una constancia escrita del número de días trabajados y del salario percibido;
 
-VIII. Expedir al trabajador que lo solicite o se separe de la empresa, dentro del término de tres días, una constancia escrita relativa a sus servicios;
+VIII.- Expedir al trabajador que lo solicite o se separe de la empresa, dentro del término de tres días, una constancia escrita relativa a sus servicios;
 
-IX. Conceder a los trabajadores el tiempo necesario para el ejercicio del voto en las elecciones populares y para el cumplimiento de los servicios de jurados, electorales y censales, a que se refiere el artículo 5°., de la Constitución, cuando esas actividades deban cumplirse dentro de sus horas de trabajo;
+IX.- Conceder a los trabajadores el tiempo necesario para el ejercicio del voto en las elecciones populares y para el cumplimiento de los servicios de jurados, electorales y censales, a que se refiere el artículo 5°., de la Constitución, cuando esas actividades deban cumplirse dentro de sus horas de trabajo;
 
-X. Permitir a los trabajadores faltar a su trabajo para desempeñar una comisión accidental o permanente de su sindicato o del Estado, siempre que avisen con la oportunidad debida y que el número de trabajadores comisionados no sea tal que perjudique la buena marcha del establecimiento. El tiempo perdido podrá descontarse al trabajador a no ser que lo compense con un tiempo igual de trabajo efectivo. Cuando la comisión sea de carácter permanente, el trabajador o trabajadores podrán volver al puesto que ocupaban, conservando todos sus derechos, siempre y cuando regresen a su trabajo dentro del término de seis años. Los substitutos tendrán el carácter de interinos, considerándolos como de planta después de seis años;
+X.- Permitir a los trabajadores faltar a su trabajo para desempeñar una comisión accidental o permanente de su sindicato o del Estado, siempre que avisen con la oportunidad debida y que el número de trabajadores comisionados no sea tal que perjudique la buena marcha del establecimiento. El tiempo perdido podrá descontarse al trabajador a no ser que lo compense con un tiempo igual de trabajo efectivo. Cuando la comisión sea de carácter permanente, el trabajador o trabajadores podrán volver al puesto que ocupaban, conservando todos sus derechos, siempre y cuando regresen a su trabajo dentro del término de seis años. Los substitutos tendrán el carácter de interinos, considerándolos como de planta después de seis años;
 
-XI. Poner en conocimiento del sindicato titular del contrato colectivo y de los trabajadores de la categoría inmediata inferior, los puestos de nueva creación, las vacantes definitivas y las temporales que deban cubrirse;
+XI.- Poner en conocimiento del sindicato titular del contrato colectivo y de los trabajadores de la categoría inmediata inferior, los puestos de nueva creación, las vacantes definitivas y las temporales que deban cubrirse;
 
-XII. Establecer y sostener las escuelas "Artículo 123 Constitucional", de conformidad con lo que dispongan las leyes y la Secretaría de Educación Pública;
+XII.- Establecer y sostener las escuelas "Artículo 123 Constitucional", de conformidad con lo que dispongan las leyes y la Secretaría de Educación Pública;
 
-XIII. Colaborar con las Autoridades del Trabajo y de Educación, de conformidad con las leyes y reglamentos, a fin de lograr la alfabetización de los trabajadores;
+XIII.- Colaborar con las Autoridades del Trabajo y de Educación, de conformidad con las leyes y reglamentos, a fin de lograr la alfabetización de los trabajadores;
 
-XIV. Hacer por su cuenta, cuando empleen más de cien y menos de mil trabajadores, los gastos indispensables para sostener en forma decorosa los estudios técnicos, industriales o prácticos, en centros especiales, nacionales o extranjeros, de uno de sus trabajadores o de uno de los hijos de éstos, designado en atención a sus aptitudes, cualidades y dedicación, por los mismos trabajadores y el patrón. Cuando tengan a su servicio más de mil trabajadores deberán sostener tres becarios en las condiciones señaladas. El patrón sólo podrá cancelar la beca cuando sea reprobado el becario en el curso de un año o cuando observe mala conducta; pero en esos casos será substituido por otro. Los becarios que hayan terminado sus estudios deberán prestar sus servicios al patrón que los hubiese becado, durante un año, por lo menos;
+XIV.- Hacer por su cuenta, cuando empleen más de cien y menos de mil trabajadores, los gastos indispensables para sostener en forma decorosa los estudios técnicos, industriales o prácticos, en centros especiales, nacionales o extranjeros, de uno de sus trabajadores o de uno de los hijos de éstos, designado en atención a sus aptitudes, cualidades y dedicación, por los mismos trabajadores y el patrón. Cuando tengan a su servicio más de mil trabajadores deberán sostener tres becarios en las condiciones señaladas. El patrón sólo podrá cancelar la beca cuando sea reprobado el becario en el curso de un año o cuando observe mala conducta; pero en esos casos será substituido por otro. Los becarios que hayan terminado sus estudios deberán prestar sus servicios al patrón que los hubiese becado, durante un año, por lo menos;
 
-XV. Organizar permanente o periódicamente cursos o enseñanzas de capacitación profesional o de adiestramiento para sus trabajadores, de conformidad con los planes y programas que, de común acuerdo, elaboren con los sindicatos o trabajadores, informando de ellos a la Secretaría del Trabajo y Previsión Social, o a las autoridades de trabajo de los Estados, Territorios y Distrito Federal. Estos podrán implantarse en cada empresa o para varias, en uno o varios establecimientos o departamentos o secciones de los mismos, por personal propio o por profesores técnicos especialmente contratados, o por conducto de escuelas o institutos especializados o por alguna otra modalidad. Las autoridades del trabajo vigilarán la ejecución de los cursos o enseñanzas;
+XV.- Organizar permanente o periódicamente cursos o enseñanzas de capacitación profesional o de adiestramiento para sus trabajadores, de conformidad con los planes y programas que, de común acuerdo, elaboren con los sindicatos o trabajadores, informando de ellos a la Secretaría del Trabajo y Previsión Social, o a las autoridades de trabajo de los Estados, Territorios y Distrito Federal. Estos podrán implantarse en cada empresa o para varias, en uno o varios establecimientos o departamentos o secciones de los mismos, por personal propio o por profesores técnicos especialmente contratados, o por conducto de escuelas o institutos especializados o por alguna otra modalidad. Las autoridades del trabajo vigilarán la ejecución de los cursos o enseñanzas;
 
-XVI. Instalar, de acuerdo con los principios de seguridad e higiene, las fábricas, talleres, oficinas y demás lugares en que deban ejecutarse los trabajos. En instalación y manejo de las maquinarias de las mismas, drenajes, plantaciones en regiones insalubres y otros centros de trabajo, adoptarán los procedimientos adecuados para evitar perjuicios al trabajador, procurando que no se desarrollen enfermedades epidémicas o infecciosas, y organizando el trabajo de modo que resulte para la salud y la vida del trabajador la mayor garantía compatible con la naturaleza de la empresa o establecimiento;
+XVI.- Instalar, de acuerdo con los principios de seguridad e higiene, las fábricas, talleres, oficinas y demás lugares en que deban ejecutarse los trabajos. En instalación y manejo de las maquinarias de las mismas, drenajes, plantaciones en regiones insalubres y otros centros de trabajo, adoptarán los procedimientos adecuados para evitar perjuicios al trabajador, procurando que no se desarrollen enfermedades epidémicas o infecciosas, y organizando el trabajo de modo que resulte para la salud y la vida del trabajador la mayor garantía compatible con la naturaleza de la empresa o establecimiento;
 
-XVII. Observar las medidas adecuadas y las que fijen las leyes, para prevenir accidentes en el uso de maquinaria, instrumentos o material de trabajo, y disponer en todo tiempo de los medicamentos y material de curación indispensables, a juicio de las autoridades que corresponda, para que oportunamente y de una manera eficaz, se presten los primeros auxilios; debiendo dar, desde luego, aviso a la autoridad competente de cada accidente que ocurra;
+XVII.- Observar las medidas adecuadas y las que fijen las leyes, para prevenir accidentes en el uso de maquinaria, instrumentos o material de trabajo, y disponer en todo tiempo de los medicamentos y material de curación indispensables, a juicio de las autoridades que corresponda, para que oportunamente y de una manera eficaz, se presten los primeros auxilios; debiendo dar, desde luego, aviso a la autoridad competente de cada accidente que ocurra;
 
-XVIII. Fijar y difundir las disposiciones conducentes de los reglamentos de higiene y seguridad en lugar visible de los establecimientos y lugares en donde se preste el trabajo;
+XVIII.- Fijar y difundir las disposiciones conducentes de los reglamentos de higiene y seguridad en lugar visible de los establecimientos y lugares en donde se preste el trabajo;
 
-XIX. Proporcionar a sus trabajadores los medicamentos profilácticos que determine la autoridad sanitaria en los lugares donde existan enfermedades tropicales o endémicas, o cuando exista peligro de epidemia;
+XIX.- Proporcionar a sus trabajadores los medicamentos profilácticos que determine la autoridad sanitaria en los lugares donde existan enfermedades tropicales o endémicas, o cuando exista peligro de epidemia;
 
-XX. Reservar, cuando la población fija de un centro rural de trabajo exceda de doscientos habitantes, un espacio de terreno no menor de cinco mil metros cuadrados para el establecimiento de mercados públicos, edificios para los servicios municipales y centros recreativos, siempre que dicho centro de trabajo esté a una distancia no menor de cinco kilómetros de la población más próxima;
+XX.- Reservar, cuando la población fija de un centro rural de trabajo exceda de doscientos habitantes, un espacio de terreno no menor de cinco mil metros cuadrados para el establecimiento de mercados públicos, edificios para los servicios municipales y centros recreativos, siempre que dicho centro de trabajo esté a una distancia no menor de cinco kilómetros de la población más próxima;
 
-XXI. Proporcionar a los sindicatos, si lo solicitan, en los centros rurales de trabajo, un local que se encuentre desocupado para que instalen sus oficinas, cobrando la renta correspondiente. Si no existe local en las condiciones indicadas, se podrá emplear para ese fin cualquiera de los asignados para alojamiento de los trabajadores;
+XXI.- Proporcionar a los sindicatos, si lo solicitan, en los centros rurales de trabajo, un local que se encuentre desocupado para que instalen sus oficinas, cobrando la renta correspondiente. Si no existe local en las condiciones indicadas, se podrá emplear para ese fin cualquiera de los asignados para alojamiento de los trabajadores;
 
-XXII. Hacer las deducciones que soliciten los sindicatos de las cuotas sindicales ordinarias, siempre que se compruebe que son las previstas en el artículo 110, fracción VI;
+XXII.- Hacer las deducciones que soliciten los sindicatos de las cuotas sindicales ordinarias, siempre que se compruebe que son las previstas en el artículo 110, fracción VI;
 
-XXIII. Hacer las deducciones de las cuotas para la constitución y fomento de sociedades cooperativas y de cajas de ahorro, de conformidad con lo dispuesto en el artículo 110, fracción IV;
+XXIII.- Hacer las deducciones de las cuotas para la constitución y fomento de sociedades cooperativas y de cajas de ahorro, de conformidad con lo dispuesto en el artículo 110, fracción IV;
 
-XXIV. Permitir la inspección y vigilancia que las autoridades del trabajo practiquen en su establecimiento para cerciorarse del cumplimiento de las normas de trabajo y darles los informes que a ese efecto sean indispensables, cuando lo soliciten. Los patrones podrán exigir a los inspectores o comisionados que les muestren sus credenciales y les den a conocer las instrucciones que tengan; y
+XXIV.- Permitir la inspección y vigilancia que las autoridades del trabajo practiquen en su establecimiento para cerciorarse del cumplimiento de las normas de trabajo y darles los informes que a ese efecto sean indispensables, cuando lo soliciten. Los patrones podrán exigir a los inspectores o comisionados que les muestren sus credenciales y les den a conocer las instrucciones que tengan; y
 
-XXV. Contribuir al fomento de las actividades culturales y del deporte entre sus trabajadores y proporcionarles los equipos y útiles indispensables.
+XXV.- Contribuir al fomento de las actividades culturales y del deporte entre sus trabajadores y proporcionarles los equipos y útiles indispensables.
 
 (REFORMADA [N. DE E. ADICIONADA], D.O.F. 9 DE ENERO DE 1974)(F. DE E., D.O.F. 10 DE ENERO DE 1974)
 
-XXVI. Hacer las deducciones previstas en las fracciones IV del artículo 97 y VII del artículo 110, y enterar los descuentos a la institución bancaria acreedora, o en su caso al Fondo de Fomento y Garantía para el Consumo de los Trabajadores. Esta obligación no convierte al patrón en deudor solidario del crédito que se haya concedido al trabajador.
+XXVI.- Hacer las deducciones previstas en las fracciones IV del artículo 97 y VII del artículo 110, y enterar los descuentos a la institución bancaria acreedora, o en su caso al Fondo de Fomento y Garantía para el Consumo de los Trabajadores. Esta obligación no convierte al patrón en deudor solidario del crédito que se haya concedido al trabajador.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-XXVII. Proporcionar a las mujeres embarazadas la protección que establezcan los reglamentos.
+XXVII.- Proporcionar a las mujeres embarazadas la protección que establezcan los reglamentos.
 
 ###### Artículo 133.
 
@@ -1068,27 +1068,27 @@ Queda prohibido a los patrones:
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-I. Negarse a aceptar trabajadores por razón de edad o de su sexo;
+I.- Negarse a aceptar trabajadores por razón de edad o de su sexo;
 
-II. Exigir que los trabajadores compren sus artículos de consumo en tienda o lugar determinado;
+II.- Exigir que los trabajadores compren sus artículos de consumo en tienda o lugar determinado;
 
-III. Exigir o aceptar dinero de los trabajadores como gratificación porque se les admita en el trabajo o por cualquier otro motivo que se refiera a las condiciones de éste;
+III.- Exigir o aceptar dinero de los trabajadores como gratificación porque se les admita en el trabajo o por cualquier otro motivo que se refiera a las condiciones de éste;
 
-IV. Obligar a los trabajadores por coacción o por cualquier otro medio, a afiliarse o retirarse del sindicato o agrupación a que pertenezcan, o a que voten por determinada candidatura;
+IV.- Obligar a los trabajadores por coacción o por cualquier otro medio, a afiliarse o retirarse del sindicato o agrupación a que pertenezcan, o a que voten por determinada candidatura;
 
-V. Intervenir en cualquier forma en el régimen interno del sindicato;
+V.- Intervenir en cualquier forma en el régimen interno del sindicato;
 
-VI. Hacer o autorizar colectas o suscripciones en los establecimientos y lugares de trabajo;
+VI.- Hacer o autorizar colectas o suscripciones en los establecimientos y lugares de trabajo;
 
-VII. Ejecutar cualquier acto que restrinja a los trabajadores los derechos que les otorgan las leyes;
+VII.- Ejecutar cualquier acto que restrinja a los trabajadores los derechos que les otorgan las leyes;
 
-VIII. Hacer propaganda política o religiosa dentro del establecimiento;
+VIII.- Hacer propaganda política o religiosa dentro del establecimiento;
 
-IX. Emplear el sistema de "poner en el índice" a los trabajadores que se separen o sean separados del trabajo para que no se les vuelva a dar ocupación;
+IX- Emplear el sistema de "poner en el índice" a los trabajadores que se separen o sean separados del trabajo para que no se les vuelva a dar ocupación;
 
-X. Portar armas en el interior de los establecimientos ubicados dentro de las poblaciones; y
+X.- Portar armas en el interior de los establecimientos ubicados dentro de las poblaciones; y
 
-XI. Presentarse en los establecimientos en estado de embriaguez o bajo la influencia de un narcótico o droga enervante.
+XI.- Presentarse en los establecimientos en estado de embriaguez o bajo la influencia de un narcótico o droga enervante.
 
 ### CAPITULO II. Obligaciones de los Trabajadores
 
@@ -1096,25 +1096,25 @@ XI. Presentarse en los establecimientos en estado de embriaguez o bajo la influe
 
 Son obligaciones de los trabajadores:
 
-I. Cumplir las disposiciones de las normas de trabajo que les sean aplicables;
+I.- Cumplir las disposiciones de las normas de trabajo que les sean aplicables;
 
-II. Observar las medidas preventivas e higiénicas que acuerden las autoridades competentes y las que indiquen los patrones para la seguridad y protección personal de los trabajadores;
+II.- Observar las medidas preventivas e higiénicas que acuerden las autoridades competentes y las que indiquen los patrones para la seguridad y protección personal de los trabajadores;
 
-III. Desempeñar el servicio bajo la dirección del patrón o de su representante, a cuya autoridad estarán subordinados en todo lo concerniente al trabajo;
+III.- Desempeñar el servicio bajo la dirección del patrón o de su representante, a cuya autoridad estarán subordinados en todo lo concerniente al trabajo;
 
-IV. Ejecutar el trabajo con la intensidad, cuidado y esmero apropiados y en la forma, tiempo y lugar convenidos;
+IV.- Ejecutar el trabajo con la intensidad, cuidado y esmero apropiados y en la forma, tiempo y lugar convenidos;
 
-V. Dar aviso inmediato al patrón, salvo caso fortuito o fuerza mayor, de las causas justificadas que le impidan concurrir a su trabajo;
+V.- Dar aviso inmediato al patrón, salvo caso fortuito o de fuerza mayor, de las causas justificadas que le impidan concurrir a su trabajo;
 
-VI. Restituir al patrón los materiales no usados y conservar en buen estado los instrumentos y útiles que les haya dado para el trabajo, no siendo responsables por el deterioro que origine el uso de estos objetos, ni del ocasionado por caso fortuito, fuerza mayor, o por mala calidad o defectuosa construcción;
+VI.- Restituir al patrón los materiales no usados y conservar en buen estado los instrumentos y útiles que les haya dado para el trabajo, no siendo responsables por el deterioro que origine el uso de estos objetos, ni del ocasionado por caso fortuito, fuerza mayor, o por mala calidad o defectuosa construcción;
 
-VII. Observar buenas costumbres durante el servicio;
+VII.- Observar buenas costumbres durante el servicio;
 
-VIII. Prestar auxilios en cualquier tiempo que se necesiten, cuando por siniestro o riesgo inminente peligren las personas o los intereses del patrón o de sus compañeros de trabajo;
+VIII.- Prestar auxilios en cualquier tiempo que se necesiten, cuando por siniestro o riesgo inminente peligren las personas o los intereses del patrón o de sus compañeros de trabajo;
 
-IX. Integrar los organismos que establece esta Ley;
+IX.- Integrar los organismos que establece esta Ley;
 
-X. Someterse a los reconocimientos médicos previstos en el reglamento interior y demás normas vigentes en la empresa o establecimiento, para comprobar que no padecen alguna incapacidad o enfermedad de trabajo, contagiosa o incurable;
+X.- Someterse a los reconocimientos médicos previstos en el reglamento interior y demás normas vigentes en la empresa o establecimiento, para comprobar que no padecen alguna incapacidad o enfermedad de trabajo, contagiosa o incurable;
 
 XI. Poner en conocimiento del patrón las enfermedades contagiosas que padezcan, tan pronto como tengan conocimiento de las mismas;
 
@@ -1270,7 +1270,7 @@ II.- Los trabajadores tienen las obligaciones siguientes:
 
 a). Pagar las rentas.
 
-b). Cuidar de la habitación como si fuera propia.
+b). Cuidar de la habitación como si fuera propio.
 
 c). Poner en conocimiento de la empresa los defectos o deterioros que observen.
 
@@ -2544,7 +2544,9 @@ VII. Informar a las Comisiones del Salario Mínimo las diferencias de salarios q
 
 ### CAPITULO XV. Industria Familiar
 
-### CAPITULO I. Coaliciones
+### CAPITULO XVI. Trabajos de Médicos Residentes en Período de Adiestramiento en una Especialidad
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
 
 ###### Artículo 331.
 
@@ -2590,7 +2592,7 @@ III. El patrón deberá cooperar para la instrucción general del trabajador dom
 
 Además de las obligaciones a que se refiere el artículo anterior, en los casos de enfermedad que no sea de trabajo, el patrón deberá:
 
-I. Pagar al trabajador doméstico el salario que le corresponda hasta por un mes;
+l. Pagar al trabajador doméstico el salario que le corresponda hasta por un mes;
 
 II. Si la enfermedad no es crónica, proporcionarle asistencia médica entre tanto se logra su curación o se hace cargo del trabajador algún servicio asistencial; y
 
@@ -2620,9 +2622,9 @@ El trabajador doméstico podrá dar por terminada en cualquier tiempo la relaci�
 
 El patrón podrá dar por terminada la relación de trabajo sin responsabilidad, dentro de los treinta días siguientes a la iniciación del servicio; y en cualquier tiempo, sin necesidad de comprobar la causa que tenga para ello, pagando la indemnización que corresponda de conformidad con lo dispuesto en los artículos 49, fracción IV, y 50.
 
-### CAPITULO II. Sindicatos, Federaciones y Confederaciones
+### CAPITULO I. Coaliciones
 
-### CAPITULO III. Contrato Colectivo de Trabajo
+### CAPITULO II. Sindicatos, Federaciones y Confederaciones
 
 ###### Artículo 344.
 
@@ -2660,7 +2662,7 @@ II. Verificar que las propinas correspondan en su totalidad a los trabajadores; 
 
 III. Vigilar que se respeten las normas sobre jornada de trabajo.
 
-### CAPITULO IV. Contrato-Ley
+### CAPITULO III. Contrato Colectivo de Trabajo
 
 ###### Artículo 351.
 
@@ -2674,13 +2676,101 @@ No se aplican a los talleres familiares las disposiciones de esta Ley, con excep
 
 La Inspección del Trabajo vigilará el cumplimiento de las normas a que se refiere el artículo anterior.
 
-### CAPITULO V. Reglamento Interior de Trabajo
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
 
-### CAPITULO VI. Modificación Colectiva de las Condiciones de Trabajo
+### CAPITULO IV. Contrato-Ley
+
+###### Artículo 353-A.
+
+Para los efectos de este Capítulo, se entiende por:
+
+I.- Médico Residente: El profesional de la medicina con Título legalmente expedido y registrado ante las autoridades competentes, que ingrese a una Unidad Médica Receptora de Residentes, para cumplir con una residencia.
+
+II.- Unidad Médica Receptora de Residentes, el establecimiento hospitalario en el cual se pueden cumplir las Residencias, que para los efectos de los artículos 161 y 164 del Código Sanitario de los Estados Unidos Mexicanos, exige la especialización de los profesionales de la Medicina;
+
+III.- Residencia: El conjunto de actividades que deba cumplir un Médico Residente en período de adiestramiento; para realizar estudios y prácticas de postgrado, respecto de la disciplina de la salud a que pretenda dedicarse, dentro de una Unidad Médica Receptora de Residentes, durante el tiempo y conforme a los requisitos que señalen las disposiciones académicas respectivas.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+
+###### Artículo 353-B.
+
+Las relaciones laborales entre los Médicos Residentes y la persona moral o física de quien dependa la Unidad Médica Receptora de Residentes, se regirán por las disposiciones de este Capítulo y por las estipulaciones contenidas en el contrato respectivo, en cuanto no las contradigan.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+
+###### Artículo 353-C.
+
+Son derechos especiales de los Médicos Residentes, que deberán consignarse en los contratos que se otorguen, a más de los previstos en esta Ley, los siguientes:
+
+I.- Disfrutar de las prestaciones que sean necesarias para el cumplimiento de la Residencia.
+
+II.- Ejercer su Residencia hasta concluir su especialidad, siempre y cuando cumplan con los requisitos que establece este Capítulo.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+
+###### Artículo 353-D.
+
+Son obligaciones especiales del Médico Residente, las siguientes:
+
+I.- Cumplir la etapa de instrucción académica y el adiestramiento, de acuerdo con el programa docente académico que esté vigente en la Unidad Médica Receptora de Residentes;
+
+II.- Acatar las órdenes de las personas designadas para impartir el adiestramiento o para dirigir el desarrollo del trabajo, en lo concerniente a aquél y a éste.
+
+III.- Cumplir las disposiciones internas de la Unidad Médica Receptora de Residentes de que se trate, en cuanto no contraríen las contenidas en esta Ley;
+
+IV.- Asistir a las conferencias de teoría sesiones clínicas, anatomoclínicas, clinicorradiológicas, bibliográficas y demás actividades académicas que se señalen como parte de los estudios de especialización;
+
+V.- Permanecer en la Unidad Médica Receptora de Residentes, en los términos del artículo siguiente; y
+
+VI.- Someterse y aprobar los exámenes periódicos de evaluación de conocimientos y destreza adquiridos, de acuerdo a las disposiciones académicas y normas administrativas de la Unidad correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+
+###### Artículo 353-E.
+
+Dentro del tiempo que el Médico Residente debe permanecer en la Unidad Médica Receptora de Residentes, conforme a las disposiciones docentes respectivas, quedan incluidos, la jornada laboral junto al adiestramiento en la especialidad, tanto en relación con pacientes como en las demás formas de estudio o práctica, y los períodos para disfrutar de reposo e ingerir alimentos.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+
+###### Artículo 353-F.
+
+La relación de trabajo será por tiempo determinado, no menor de un año ni mayor del período de duración de la residencia necesaria para obtener el Certificado de Especialización correspondiente, tomándose en cuenta a este último respecto las causas de rescisión señaladas en el artículo 353-G.
+
+En relación con este Capítulo, no regirá lo dispuesto por el artículo 39 de esta ley.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+
+###### Artículo 353-G.
+
+Son causas especiales de rescisión de la relación de trabajo, sin responsabilidad para el patrón, además de la que establece el artículo 47, las siguientes:
+
+I.- El incumplimiento de las obligaciones a que aluden las fracciones I, II, III y VI del artículo 353-D;
+
+II.- La violación de las normas técnicas o administrativas necesarias para el funcionamiento de la Unidad Médica Receptora de Residentes en la que se efectúe la residencia;
+
+III.- La comisión de faltas a las normas de conducta propias de la profesión médica, consignados en el Reglamento Interior de Trabajo de la Unidad Médica Receptora de Residentes.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+
+###### Artículo 353-H.
+
+Son causas de terminación de la relación de trabajo, además de las que establece el artículo 53 de esta Ley:
+
+I.- La conclusión del Programa de Especialización;
+
+II.- La supresión académica de estudios en la Especialidad en la rama de la Medicina que interesa al Médico Residente.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+
+###### Artículo 353-I.
+
+Las disposiciones de este Capítulo no serán aplicables a aquellas personas que exclusivamente reciben cursos de capacitación o adiestramiento, como parte de su formación profesional, en las instituciones de salud.
+
+### CAPITULO V. Reglamento Interior de Trabajo
 
 ## TITULO SEPTIMO. Relaciones Colectivas de Trabajo
 
-### CAPITULO VII. Suspensión Colectiva de las Relaciones de Trabajo
+### CAPITULO VI. Modificación Colectiva de las Condiciones de Trabajo
 
 ###### Artículo 354.
 
@@ -2690,7 +2780,7 @@ La Ley reconoce la libertad de coalición de trabajadores y patrones.
 
 Coalición es el acuerdo temporal de un grupo de trabajadores o de patrones para la defensa de sus intereses comunes.
 
-### CAPITULO VIII. Terminación Colectiva de las Relaciones de Trabajo
+### CAPITULO VII. Suspensión Colectiva de las Relaciones de Trabajo
 
 ###### Artículo 356.
 
@@ -2728,7 +2818,7 @@ V. De oficios varios, los formados por trabajadores de diversas profesiones. Est
 
 Los sindicatos de patrones pueden ser:
 
-l. Los formados por patrones de una o varias ramas de actividades; y
+I. Los formados por patrones de una o varias ramas de actividades; y
 
 II. Nacionales, los formados por patrones de una o varias ramas de actividades de distintas Entidades Federativas.
 
@@ -2948,9 +3038,7 @@ IV. Copia autorizada del acta de la asamblea en que se haya elegido la directiva
 
 La documentación se autorizará de conformidad con lo dispuesto en el párrafo final del artículo 365.
 
-### CAPITULO I
-
-Disposiciones Generales.
+### CAPITULO VIII. Terminación Colectiva de las Relaciones de Trabajo
 
 ###### Artículo 386.
 
@@ -3076,7 +3164,9 @@ Si firmado un contrato colectivo, un patrón se separa del sindicato que lo cele
 
 En los casos de disolución del sindicato de trabajadores titular del contrato colectivo o de terminación de éste, las condiciones de trabajo continuarán vigentes en la empresa o establecimiento.
 
-### CAPITULO II. Objetivos y Procedimientos de Huelga
+### CAPITULO I
+
+Disposiciones Generales.
 
 ###### Artículo 404.
 
@@ -3198,7 +3288,7 @@ I. Por mutuo consentimiento de las partes que representen la mayoría a que se r
 
 II. Si al concluir el procedimiento de revisión, los sindicatos de trabajadores y los patrones no llegan a un convenio, salvo que aquéllos ejerciten el derecho de huelga.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO II. Objetivos y Procedimientos de Huelga
 
 ###### Artículo 422.
 
@@ -3250,7 +3340,7 @@ IV. Los trabajadores o el patrón, en cualquier tiempo, podrán solicitar de la 
 
 El reglamento surtirá efectos a partir de la fecha de su depósito. Deberá imprimirse y repartirse entre los trabajadores y se fijará en los lugares más visibles del establecimiento.
 
-### CAPITULO II. Competencia Constitucional de las Autoridades del Trabajo
+### CAPITULO I. Disposiciones Generales
 
 ###### Artículo 426.
 
@@ -3262,7 +3352,7 @@ II. Cuando el aumento del costo de la vida origine un desequilibrio entre el cap
 
 La solicitud se ajustará a lo dispuesto en los artículos 398 y 419, fracción I, y se tramitará de conformidad con las disposiciones para conflictos colectivos de naturaleza económica.
 
-### CAPITULO III. Procuraduría de la Defensa del Trabajo
+### CAPITULO II. Competencia Constitucional de las Autoridades del Trabajo
 
 ###### Artículo 427.
 
@@ -3308,7 +3398,7 @@ El patrón deberá anunciar con toda oportunidad la fecha de reanudación de los
 
 Si el patrón no cumple las obligaciones consignadas en el párrafo anterior, los trabajadores podrán ejercitar las acciones a que se refiere el artículo 48.
 
-### CAPITULO IV. Servicio Público del Empleo
+### CAPITULO III. Procuraduría de la Defensa del Trabajo
 
 ###### Artículo 433.
 
@@ -3358,7 +3448,7 @@ Cuando se trate de la implantación de maquinaria o de procedimientos de trabajo
 
 ## TITULO OCTAVO. Huelgas
 
-### CAPITULO V. Inspección del Trabajo
+### CAPITULO IV. Servicio Público del Empleo
 
 ###### Artículo 440.
 
@@ -3406,7 +3496,7 @@ No es aplicable lo dispuesto en el párrafo anterior cuando la huelga tenga por 
 
 La Junta de Conciliación y Arbitraje y las autoridades civiles correspondientes deberán hacer respetar el derecho de huelga, dando a los trabajadores las garantías necesarias y prestándoles el auxilio que soliciten para suspender el trabajo.
 
-### CAPITULO VI. Comisión Nacional de los Salarios Mínimos
+### CAPITULO V. Inspección del Trabajo
 
 ###### Artículo 450.
 
@@ -4000,7 +4090,7 @@ TITULO ONCE
 
 Autoridades del Trabajo y Servicios Sociales
 
-### CAPITULO VII. Comisiones Regionales de los Salarios Mínimos
+### CAPITULO VI. Comisión Nacional de los Salarios Mínimos
 
 ###### Artículo 523.
 
@@ -4042,9 +4132,7 @@ La Secretaría del Trabajo y Previsión Social organizará un Instituto del Trab
 
 Compete a la Secretaría de Hacienda y Crédito Público la intervención que le señala el Título Tercero, capítulo VIII, y a la Secretaría de Educación Pública vigilar el cumplimiento de las obligaciones que impone a los patrones esta Ley en materia educativa.
 
-### CAPITULO VIII. Procedimiento ante las Comisiones Nacional y Regionales de los Salarios Mínimos
-
-> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 1974)</small>
+### CAPITULO VII. Comisiones Regionales de los Salarios Mínimos
 
 ###### Artículo 527.
 
@@ -4124,7 +4212,9 @@ Son empresas conexas las relacionadas permanente y directamente para la elaborac
 
 La aplicación de las normas de trabajo corresponde a las Autoridades de las Entidades Federativas en los casos no previstos en los dos artículos anteriores.
 
-### CAPITULO IX. Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas
+### CAPITULO VIII. Procedimiento ante las Comisiones Nacional y Regionales de los Salarios Mínimos
+
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 1974)</small>
 
 ###### Artículo 530.
 
@@ -4172,7 +4262,7 @@ Las Autoridades están obligadas a proporcionar a la Procuraduría de la Defensa
 
 Los reglamentos determinarán las atribuciones, la forma de su ejercicio y los deberes de la Procuraduría de la Defensa del Trabajo.
 
-### CAPITULO X. Juntas Federales de Conciliación
+### CAPITULO IX. Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas
 
 ###### Artículo 537.
 
@@ -4200,9 +4290,7 @@ Para el cumplimiento de sus funciones, el Servicio Público del Empleo se establ
 
 El Servicio Público del Empleo y los sistemas privados se regirán por los reglamentos que se expidan. En los mismos reglamentos se determinarán las excepciones a que se refiere el párrafo segundo del artículo 537.
 
-### CAPITULO XI. Juntas Locales de Conciliación
-
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+### CAPITULO X. Juntas Federales de Conciliación
 
 ###### Artículo 540.
 
@@ -4330,7 +4418,9 @@ III. Cuando a juicio del Director General la sanción aplicable sea la destituci
 
 Los reglamentos determinarán las atribuciones, la forma de su ejercicio y los deberes de la Inspección del Trabajo.
 
-### CAPITULO XII. Junta Federal de Conciliación y Arbitraje
+### CAPITULO XI. Juntas Locales de Conciliación
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### Artículo 551.
 
@@ -4504,7 +4594,7 @@ III. Actuar como Secretario del Consejo de Representantes; y
 
 IV. Los demás que le confieran las leyes.
 
-### CAPITULO XIII. Juntas Locales de Conciliación y Arbitraje
+### CAPITULO XII. Junta Federal de Conciliación y Arbitraje
 
 ###### Artículo 564.
 
@@ -4548,7 +4638,7 @@ V. Informar a la Comisión Nacional, cada quince días, del desarrollo de sus tr
 
 VI. Los demás que les confieran las leyes.
 
-### CAPITULO I. Representantes de los Trabajadores y de los Patrones en las Juntas Federal y Locales de Conciliación y Arbitraje y en las Juntas de Conciliación Permanentes
+### CAPITULO XIII. Juntas Locales de Conciliación y Arbitraje
 
 ###### Artículo 570.
 
@@ -4612,7 +4702,7 @@ III. Las decisiones se tomarán por mayoría de votos de los miembros presentes.
 
 IV. De cada sesión se levantará un acta, que suscribirán el Presidente y el Secretario.
 
-### CAPITULO II. Representantes de los Trabajadores y de los Patrones en las Comisiones Nacional y Regionales de los Salarios Mínimos
+### CAPITULO I. Representantes de los Trabajadores y de los Patrones en las Juntas Federal y Locales de Conciliación y Arbitraje y en las Juntas de Conciliación Permanentes
 
 ###### Artículo 575.
 
@@ -4768,11 +4858,11 @@ Los sindicatos, federaciones y confederaciones de trabajadores o los patrones, n
 
 En los procedimientos a que se refiere este capítulo se observarán las normas contenidas en el artículo 574.
 
+### CAPITULO II. Representantes de los Trabajadores y de los Patrones en las Comisiones Nacional y Regionales de los Salarios Mínimos
+
 ### CAPITULO III. Representantes de los Trabajadores y de los Patrones en la Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas
 
 ### CAPITULO I. Disposiciones Generales
-
-### CAPITULO II. Normas de Competencia
 
 ###### Artículo 591.
 
@@ -4862,11 +4952,11 @@ IV. Actuar como Juntas de Conciliación y Arbitraje para conocer y resolver los 
 
 V. Cumplimentar los exhortos y practicar las diligencias que les encomienden otras Juntas Federales o Locales de Conciliación y las Juntas Federales y Locales de Conciliación y Arbitraje; y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 24 DE DICIEMBRE DE 1974)</small>
+> <small>(ADICIONADA [N. DE E.REFORMADA], D.O.F. 24 DE DICIEMBRE DE 1974)</small>
 
 VI.- Denunciar ante el Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que haya dejado de pagar el salario mínimo general a uno o varios de sus trabajadores; y (sic)
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 2 DE JULIO DE 1976)</small>
+> <small>(ADICIONADA [N. DE E.REFORMADA], D.O.F. 2 DE JULIO DE 1976)</small>
 
 VII.- De ser procedente, aprobar los convenios que les sean sometidos por las partes.
 
@@ -4874,7 +4964,7 @@ VII.- De ser procedente, aprobar los convenios que les sean sometidos por las pa
 
 VIII. Las demás que les confieran las leyes.
 
-### CAPITULO III. Recusaciones y Excusas
+### CAPITULO II. Normas de Competencia
 
 ###### Artículo 601.
 
@@ -4888,7 +4978,7 @@ No funcionarán las Juntas de Conciliación en los Municipios o zonas económica
 
 Son aplicables a las Juntas Locales de Conciliación las disposiciones contenidas en el capítulo anterior. Las atribuciones asignadas a la Secretaría del Trabajo y Previsión Social se ejercerán por los Gobiernos de los Estados y Territorios.
 
-### CAPITULO IV. Procedimiento ante las Juntas de Conciliación
+### CAPITULO III. Recusaciones y Excusas
 
 ###### Artículo 604.
 
@@ -5090,7 +5180,7 @@ d) En los casos de empate, el voto del o de los representantes ausentes se sumar
 
 III. Para la audiencia de discusión y votación del laudo, será necesaria la presencia del Presidente o Presidente Especial y del cincuenta por ciento de los representantes de los trabajadores y de los patrones, por lo menos. Si concurre menos del cincuenta por ciento, el Presidente señalará nuevo día y hora para que se celebre la audiencia; si tampoco se reúne la mayoría, se citará a los suplentes, quedando excluidos los faltistas del conocimiento del negocio. Si tampoco concurren los suplentes, el Presidente de la Junta o el de la Junta Especial, dará cuenta al Secretario del Trabajo y Previsión Social, para que designe las personas que los substituyan. En caso de empate, los votos de los ausentes se sumarán al del Presidente.
 
-### CAPITULO V. Procedimiento para la Tramitación y Resolución de los Conflictos Individuales y de los Colectivos de Naturaleza Jurídica
+### CAPITULO IV. Procedimiento ante las Juntas de Conciliación
 
 ###### Artículo 621.
 
@@ -5334,9 +5424,7 @@ TITULO TRECE
 
 Representantes de los Trabajadores y de los Patrones
 
-### CAPITULO VI. Procedimientos Especiales
-
-> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
+### CAPITULO V. Procedimiento para la Tramitación y Resolución de los Conflictos Individuales y de los Colectivos de Naturaleza Jurídica
 
 ###### Artículo 648.
 
@@ -5616,7 +5704,9 @@ V. El acusado podrá ofrecer las pruebas que juzgue conveniente; y
 
 VI. Terminada la recepción de las pruebas, el Jurado escuchará los alegatos y dictará resolución, comunicándola, si fuese condenatoria, a la Autoridad a la que corresponda decretar la destitución.
 
-### CAPITULO VII. Procedimiento para la Tramitación y Resolución de los Conflictos Colectivos de Naturaleza Económica
+### CAPITULO VI. Procedimientos Especiales
+
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
 
 ###### Artículo 676.
 
@@ -5656,7 +5746,7 @@ Tienen derecho a participar en la elección los sindicatos de trabajadores y de 
 
 El Secretario del Trabajo y Previsión Social podrá delegar en las autoridades de las Entidades Federativas, total o parcialmente, las atribuciones que le corresponden en la certificación de padrones y credenciales y en el funcionamiento de las convenciones.
 
-### CAPITULO VIII. Recursos
+### CAPITULO VII. Procedimiento para la Tramitación y Resolución de los Conflictos Colectivos de Naturaleza Económica
 
 ###### Artículo 683.
 
@@ -5676,13 +5766,13 @@ TITULO CATORCE
 
 Derecho Procesal del Trabajo
 
+### CAPITULO VIII. Recursos
+
 ### CAPITULO IX. Providencias Cautelares
 
 ### CAPITULO X. Tercerías
 
 ### CAPITULO I. Disposiciones Generales
-
-### CAPITULO II. Procedimiento de Embargo
 
 ###### Artículo 685.
 
@@ -5718,7 +5808,7 @@ VII. El laudo; y
 
 VIII. En casos urgentes o cuando concurran circunstancias especiales a juicio de la Junta.
 
-### CAPITULO III. Remates
+### CAPITULO II. Procedimiento de Embargo
 
 ###### Artículo 689.
 
@@ -5772,7 +5862,7 @@ No obstante lo dispuesto en el artículo anterior, si la persona se manifiesta s
 
 Los escritos que se presenten ante la Junta se turnarán diariamente al Pleno o a la Junta Especial que corresponda.
 
-### CAPITULO II. Procedimiento de Embargo
+### CAPITULO III. Remates
 
 ###### Artículo 698.
 
@@ -7261,3 +7351,9 @@ UNICO.- Estas reformas entrarán en vigor al día siguiente de su publicación e
 D.O.F. 2 DE JULIO DE 1976.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 1977.
+
+PRIMERO.- De conformidad con lo establecido por el artículo 11 de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado "B" del Artículo 123 Constitucional, las relaciones laborales entre los Médicos Residentes y los titulares de las dependencias a las que se encuentren adscritas las Unidades Médicas Receptoras de Residentes, sujetas al régimen de la citada ley, se regirán en tanto así proceda por lo dispuesto en el Capítulo que se adiciona a la Ley Federal del Trabajo, en los términos de este Decreto.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente del de su publicación en el "Diario Oficial" de la Federación.
