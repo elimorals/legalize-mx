@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1959-11-18"
+last_updated: "1960-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 1959.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 1960.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -1075,11 +1075,53 @@ Ningún Ciudadano podrá desempeñar a la vez dos o más cargos de elección pop
 
 Ningún empleado público podrá ser destituido sino por causa justificada. Los funcionarios y empleados que no tengan señalado el tiempo de su duración, permanecerán en sus puestos por todo aquel a que se hagan acreedores por sus servicios y buena conducta.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 8 DE JUNIO DE 1960)</small>
 
 ###### Artículo 107.
 
-Los cargos y empleos del Estado, no son propiedad ni forman el patrimonio de ninguna persona.
+Los cargos y empleos del Estado no son propiedad ni forman el patrimonio de ninguna persona.
+
+La jornada diaria máxima diurna y nocturna será de ocho y siete horas respectivamente. Las que excedan serán extraordinarias y se pagarán con un ciento por ciento más de la remuneración fijada para el servicio ordinario. En ningún caso el trabajo extraordinario podrá exceder de tres horas diarias ni de tres veces consecutivas.
+
+Por cada seis días de trabajo disfrutará el trabajador de un día de descanso, cuando menos, con goce de salario íntegro.
+
+Los trabajadores gozarán de vacaciones que nunca serán menores de veinte días al año.
+
+Los salarios serán fijados en los presupuestos respectivos, sin que su cuantía pueda ser disminuida durante la vigencia de éstos.
+
+En ningún caso los salarios podrán ser inferiores al mínimo fijado para los trabajadores en general en el lugar en que resida el empleado.
+
+A trabajo igual corresponderá salario igual, sin tener en cuenta el sexo.
+
+Solo podrán hacerse retenciones, descuentos, deducciones o embargos al salario en los casos previstos en las leyes.
+
+La designación del personal se hará mediante sistemas que permitan apreciar los conocimientos y aptitudes de los aspirantes. El Estado organizará escuelas de Administración Pública.
+
+Los trabajadores gozarán de derechos de escalafón a fin de que los ascensos se otorguen en función de los conocimientos, aptitudes y antigüedad.
+
+Los trabajadores sólo podrán ser suspendidos o cesados por causa justificada en los términos que fije la Ley. En caso de separación injustificada tendrán derecho a reinstalación de su empleo o a la indemnización correspondiente previo el procedimiento legal. En los casos de supresión de plazas los trabajadores afectados tendrán derecho a que se les otorgue otra equivalente a la suprimida o a la indemnización de Ley.
+
+Los trabajadores tendrán el derecho de asociarse para la defensa de sus intereses comunes. Podrán asimismo hacer uso del derecho de huelga previo el cumplimiento de los requisitos que determine la Ley, respecto de una o varias dependencias del Estado, cuando se violen de manera general y sistemática los derechos que este artículo les consagra.
+
+La seguridad social se organizará conforme a las siguientes bases mínimas:
+
+a).- Cubrirá los accidentes y enfermedades no profesionales y maternidad; y la jubilación, la invalidez, vejez y muerte.
+
+b).- En caso de accidente o enfermedad, se conservará el derecho al empleo por el tiempo que determine la Ley.
+
+c).- Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto y de otros dos después del mismo. Durante el período de lactancia, tendrán dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos. Además disfrutarán de asistencia médica y obstétrica, de medicinas, de ayudas para la lactancia y del servicio de guarderías infantiles.
+
+d).- Los familiares de los empleados públicos tendrán derecho de asistencia médica y medicinas, en los casos y en la proporción que determine la ley.
+
+e).- Se establecerán centros para vacaciones y para recuperación así como tiendas económicas para beneficio de los empleados y sus familiares.
+
+f).- Se proporcionará a los empleados públicos habitaciones baratas en arrendamiento o venta; conforme a los programas previamente aprobados.
+
+Los conflictos individuales, colectivos o intersindicales serán sometidos a la Junta Central de Conciliación y Arbitraje de Chilpancingo, según lo prevenido en la Ley reglamentaria.
+
+Los conflictos entre el Poder Judicial del Estado y sus servidores, serán resueltos por el Pleno del propio Tribunal.
+
+En los cargos que son considerados de confianza en las leyes de la materia las personas que lo desempeñen disfrutarán de las medidas de protección al salario y gozarán de los beneficios de la seguridad social.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
 
@@ -1566,3 +1608,13 @@ UNICO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publ
 P.O. 18 DE NOVIEMBRE DE 1959.
 
 PRIMERO.- Este Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JUNIO DE 1960.
+
+###### Art. 1o.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### Art. 2o.
+
+Entretanto se expide la respectiva ley reglamentaria, continuará en vigor el Estatuto de los Trabajadores al Servicio de los Poderes del Estado, en cuanto no se oponga a la presente.
