@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-3379"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-08"
-last_updated: "1987-04-28"
+last_updated: "1988-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO PENAL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 1988.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el martes 8 de enero de 1974.
 
@@ -529,17 +529,19 @@ En los casos a que se refiere la primera parte del primer párrafo del artículo
 
 Siempre que al delito intencional corresponda sanción alternativa que incluya una pena no corporal, aprovechará esa situación al delincuente por imprudencia.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 1988)</small>
 
 ###### Art. 59.
 
-Cuando por delito de imprudencia se ocasione daño únicamente en propiedad ajena que no sea mayor de cincuenta mil pesos, sólo se perseguirá a petición de parte y se sancionará con prisión de un mes a un año, multa por el valor del daño causado, más la reparación de éste. Cuando se repare el daño la pena se reducirá a la mitad.
+Cuando por imprudencia se ocasione únicamente daño en propiedad ajena que no sea mayor del equivalente a doscientas veces el salario mínimo diario vigente en el Estado, en el momento de la comisión del delito, se sancionará con multa hasta por el valor del daño causado, más la reparación de éste, y sólo se perseguirá a petición de parte.
 
-Cuando por motivo del tránsito de vehículos se produjeran lesiones de las indicadas en el artículo 254 de este Código, también se necesitará la querella como requisito de procedibilidad.
+Cuando por imprudencia y con motivo del tránsito de vehículos se causen lesiones de las comprendidas en los artículos 254 y 255 de este Código, o daño en propiedad ajena cualquiera que sea su valor, o ambos, sólo se procederá a petición de parte, siempre que el presunto responsable no se hubiese encontrado en estado de ebriedad o bajo el influjo de estupefacientes y otras substancias que produzcan efectos similares.
 
-Si por el mismo motivo se ocasione cualquiera de las lesiones comprendidas en los artículos 255, 256 y 257 del propio Código o pongan en peligro la vida o causen homicidio, siempre que el presunto responsable se encontrase en estado de ebriedad o bajo el influjo de estupefacientes u otras substancias que produzcan efectos similares, la pena será de dos a nueve años de prisión e inhabilitación para el manejo de aquellos vehículos, de dos a cinco años. En caso de reincidencia la inhabilitación será definitiva. En estos casos, cuando la parte ofendida se diere por pagada debidamente de la reparación del daño, la pena corporal se reducirá a la de uno a cinco años de prisión.
+Lo dispuesto en el párrafo anterior no se aplicará cuando el delito se cometa con cualquier transporte de servicio público o transporte de servicio escolar.
 
-No se aplicará pena alguna a quien por culpa en el manejo de vehículos, ocasione lesiones u homicidio, a su cónyuge, concubino, hijos, padres o hermanos. Si hubiere únicamente daño en bienes de cualquiera de éstos, también será indispensable la querella.
+Cuando por imprudencia y con motivo del tránsito de vehículos se ocasionen cualesquiera de las lesiones tipificadas en los artículos 255, 256 y 257 de este Código, o pongan en peligro la vida, o se produzca homicidio y siempre que el presunto responsable se encontrase en el momento de la comisión de los hechos en estado de ebriedad o bajo el influjo de estupefacientes u otras substancias que produzcan efectos similares, se le aplicará la pena de dos a nueve años de prisión e inhabilitación para el manejo de vehículos, de dos a cinco años. En caso de reincidencia la inhabilitación será definitiva. En estos casos, cuando la parte ofendida se diere por pagada debidamente de la reparación del daño, la pena privativa de libertad se reducirá a la de uno a cinco años de prisión.
+
+No se aplicará pena alguna a quien por imprudencia en el manejo de vehículos ocasione lesiones u homicidio, a su cónyuge, concubino, hijos, padres o hermanos. Si hubiere únicamente daño en bienes de cualquiera de éstos, el delito sólo será perseguible a petición de parte.
 
 ### CAPITULO V. RECLUSION PARA ENFERMOS MENTALES Y SORDOMUDOS
 
@@ -3122,3 +3124,7 @@ Artículo Segundo.- Se derogan todas las disposiciones legales y reglamentarias 
 P.O. 28 DE ABRIL DE 1987.
 
 UNICO.- El presente decreto entrará en vigor a los tres días de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE MAYO DE 1988.
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
