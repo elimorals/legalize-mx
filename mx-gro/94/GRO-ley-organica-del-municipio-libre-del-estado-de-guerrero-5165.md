@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "1991-09-13"
+last_updated: "1991-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -1521,7 +1521,7 @@ Los Ayuntamientos celebrarán convenios de coordinación con el Gobierno del Est
 
 ###### ARTICULO 134.
 
-Para la enajenación, permuta o donación de un bien inmueble, propiedad del Ayuntamiento, deberá formularse solicitud de autorización al Congreso del Estado por conducto del Gobernador, la cual deberá contener los siguientes datos:
+Para la enajenación, permuta o donación de un bien inmueble, propiedad del Ayuntamiento, deberá formularse solicitud de autorización al Congreso del Estado por conducto del Gobernador, la cual deberá contener los datos siguientes:
 
 I. Título con el que se acredite la propiedad del inmueble;
 
@@ -1744,6 +1744,34 @@ El Gobierno del Estado dentro del Sistema Estatal de Planeación y del Sistema E
 ###### ARTICULO 175.
 
 Los planes de desarrollo urbano municipal deberán contener los programas de desarrollo urbano municipal; las disposiciones sobre creación y administración de reservas territoriales, control y vigilancia de la utilización del suelo en sus jurisdicciones territoriales, la regularización de la tenencia de la tierra urbana y la creación y administración de zonas de reservas ecológicas, para lo cual los Ayuntamientos expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 1991)</small>
+
+ARTICULO 175 A.- La autoridad municipal podrá requerir a los propietarios, arrendatarios y poseedores de inmuebles o de muebles afectos o adheridos a éstos, que lleven a cabo lo que este artículo establece fundando y motivando sus requerimientos, y cuando sean desestimados éstos podrá (sic) hacer las obras la propia autoridad municipal, procediendo a cobrar su costo por la vía económica-coactiva.
+
+I. Terminación o demolición de obras inconclusas;
+
+II. Demolición de obras abandonadas o que se hayan ejecutado transgrediendo las disposiciones aplicables;
+
+III. Bardear, o pintar y mejorar en general fachadas o bardas;
+
+IV. Reparar conexiones de agua o drenaje, ductos y salidas contaminantes y todo tipo de instalaciones;
+
+V. Evitar o corregir deterioros que afecten el interés general o de terceros; y
+
+VI. Realizar, en general, toda obra que deba ejecutarse para cumplir con lo dispuesto por las leyes federales o estatales o sus reglamentos, así como por reglamentos, ordenanzas, bandos y declaratorias municipales que prescriban la conservación o mejora de la calidad y rostro urbano.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 1991)</small>
+
+ARTICULO 175 B.- La autoridad podrá hacer efectivos los cobros a los que se refiere el primer párrafo del artículo anterior a través del cobro de cualquier tributo o carga parafiscal estatal o municipal.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 1991)</small>
+
+ARTICULO 175 C.- Cuando el estado físico de un inmueble provoque o pueda provocar daños a la salud o a la vida del hombre o riesgos a las mismas, la autoridad sanitaria del Estado o las de carácter municipal estarán facultadas para ordenar a los propietarios, poseedores o arrendatarios que ejecuten las obras o acciones en general de saneamiento indispensables, procediendo a hacerlas dichas autoridades si no se observarán sus mandamientos. Esas autoridades llevarán a cabo los cobros a los remisos por la vía económica-coactiva.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 1991)</small>
+
+ARTICULO 175 D.- Cuando el estado físico de los inmuebles pueda provocar un daño o signifique un riesgo para la salud vegetal o animal se observará también lo prevenido en el artículo anterior.
 
 ###### ARTICULO 176.
 
@@ -2656,3 +2684,7 @@ Se deroga la fracción XXV del artículo 73 de la Ley Orgánica del Municipio Li
 ###### ARTICULO TERCERO.
 
 En un plazo no mayor de diez días, a partir de que entre en vigor el presente Decreto, habrá de quedar satisfecha la obligación prevista en la nueva fracción XXV del artículo 73 de la Ley Orgánica del Municipio Libre del Estado de Guerrero.
+
+P.O. 11 DE OCTUBRE DE 1991.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
