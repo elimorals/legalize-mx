@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1982-12-08"
+last_updated: "1983-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 1983.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -236,6 +236,8 @@ Los Diputados al Congreso del Estado no podrán ser reelectos para el período i
 Los Diputados, durante el período de su cargo, no podrán desempeñar, con excepción de los docentes, ninguna comisión ni empleo de la Federación, del Estado o del Municipio, por los cuales se disfrute sueldo, sin previa licencia de la Cámara, en cuyo caso cesarán en sus funciones mientras dure la nueva ocupación.
 
 La infracción de este precepto se castigará con la pérdida del cargo de Diputado.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ###### ARTICULO 18.
 
@@ -787,8 +789,6 @@ Las faltas temporales del Presidente serán suplidas por otro Magistrado Numerar
 
 Las ausencias temporales de los Magistrados Numerarios serán cubiertas por el Supernumerario que designe el Pleno del Tribunal, el que podrá ser un Juez o el Secretario General de Acuerdos.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
 ###### ARTICULO 60.
 
 El Tribunal Superior de Justicia residirá en la Capital del Estado y en ningún caso ejercerá sus funciones fuera de ella, a no ser que lo autorice la Legislatura.
@@ -990,8 +990,6 @@ Los Diputados, el Gobernador del Estado, los Magistrados del Tribunal Superior d
 ###### ARTICULO 76.
 
 El Estado, representado por el Ejecutivo, puede participar en empresas industriales, agrícolas y mercantiles, con el fin de impulsar la productividad y el desarrollo estatal.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ###### ARTICULO 77.
 
@@ -1321,7 +1319,9 @@ TERCERO.- Este Decreto entrará en vigor al día siguiente de su publicación en
 
 P.O. 27 DE FEBRERO DE 1982.
 
-PRIMERO.- La inamovilidad judicial que establece el artículo 63 de la Constitución Política del Estado, surtirá sus efectos a partir del primer día hábil del mes de febrero de 1983. Pero los Magistrados y Jueces que sean nombrados en ese año durarán en su cargo tres años, al término de los cuáles, si fueren ratificados solo podrán ser separados en las circunstancias previstas por la Ley.
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1983)</small>
+
+PRIMERO.- La inamobilidad (sic) judicial que previene el artículo 63, tercer párrafo, de la Constitución Política del Estado, surtirá sus efectos a partir del primer día habil del mes de febrero de 1984. Pero los Magistrados y Jueces que sean nombrados en ese año durarán en su cargo tres años, al cabo de los cuales si fueren ratificados, solo podrán ser separados en las circunstancias del tercer párrafo del artículo 63.
 
 SEGUNDO.- Toda norma que se oponga a esta reforma y adiciones constitucionales quedará derogada a partir de la vigencia de este decreto.
 
@@ -1338,3 +1338,7 @@ SEGUNDO.- Con la asistencia de los representantes de los Tres Poderes del Estado
 TERCERO.- Para mayor publicidad, promúlguese el presente Decreto por Bando Solemne en la ciudad de JALPA DE MENDEZ, TABASCO, a partir de las nueve horas del día veinte de noviembre del presente año.
 
 CUARTO.- Este Decreto surte sus efectos legales a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE ENERO DE 1983.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
