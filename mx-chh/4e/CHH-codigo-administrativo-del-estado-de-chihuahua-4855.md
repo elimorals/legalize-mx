@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2003-03-29"
+last_updated: "2003-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2003.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -1563,25 +1563,39 @@ TERCERA PARTE
 
 ### CAPITULO I. DE LAS OFICINAS DEL REGISTRO PUBLICO Y DE SUS ENCARGADOS
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 271.
 
-El Departamento del Registro Público de la Propiedad y del Notariado, depende de la Secretaría de Gobierno y tiene las siguientes atribuciones, en materia registral de la propiedad:
+La Dirección del Registro Público de la Propiedad y del Notariado, depende de la Secretaría General de Gobierno y tiene las siguientes atribuciones, en materia registral de la Propiedad:
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1988)</small>
 
 I.- Por su conducto la Secretaría de Gobierno ejercerá la dirección de la función registral de la propiedad;
 
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1988)</small>
+
 II.- Atenderá todas las cuestiones de la fe pública del Estado, relativas a Registros Públicos de la Propiedad;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1988)</small>
 
 III.- Comunicará a la Secretaría de Gobierno cualquier irregularidad que advierta en la organización y funcionamiento de las oficinas de los Registros Públicos de la Propiedad y todo aquello que tenga relación con el buen servicio y exacto cumplimiento de la Ley;
 
+(REFORMADA, P.O. 25 DE JUNIO DE 1988)V
+
 IV.- Mandará que se practiquen cuando menos anualmente, visitas a las oficinas de los Registros Públicos de la Propiedad, con el objeto de saber si en los actos de dichas Oficinas se han llenado los requisitos legales de forma y contenido y se cumplen las disposiciones jurídicas respectivas;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1988)</small>
 
 V.- Vigilará el funcionamiento de las Oficinas de los Registros Públicos de la Propiedad; y
 
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1988)</small>
+
 VI.- Las demás que sean propias y naturales del órgano o que las leyes le otorguen.
 
-En cada cabecera de los Distritos judiciales existirá una Oficina del Registro Público de la Propiedad.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2003)</small>
+
+En cada cabecera de los Distritos Judiciales existirá una oficina del Registro Público de la Propiedad. El Ejecutivo del Estado podrá establecer dicha oficina en otra población del mismo Distrito, previo acuerdo debidamente fundado y motivado, que señale las causas de excepción que justifiquen tal medida.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 1988)</small>
 
@@ -8255,9 +8269,9 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO VII. DE LAS CONURBACIONES
+### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
 
-#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
+#### SECCION SEXTA. DEL MEJORAMIENTO
 
 ###### ARTICULO 1489.
 
@@ -8313,7 +8327,7 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION QUINTA. DE LA VIVIENDA
+#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
 
 ###### ARTICULO 1502.
 
@@ -8323,7 +8337,11 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+
+DECIMA PRIMERA PARTE
+
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
 #### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
 
@@ -8371,9 +8389,9 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION SEXTA. DEL MEJORAMIENTO
+#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
 
 ###### ARTICULO 1515.
 
@@ -8399,13 +8417,9 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-DECIMA PRIMERA PARTE
-
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
-
-#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
+#### SECCION QUINTA. DE LA VIVIENDA
 
 ###### ARTICULO 1521.
 
@@ -8443,9 +8457,9 @@ DECIMA PRIMERA PARTE
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
+#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
 
 ###### ARTICULO 1529.
 
@@ -8477,7 +8491,7 @@ DECIMA PRIMERA PARTE
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
+### CAPITULO VII. DE LAS CONURBACIONES
 
 ###### ARTICULO 1535.
 
@@ -8537,7 +8551,7 @@ DECIMA PRIMERA PARTE
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 # LIBRO UNICO. SERVICIOS PUBLICOS DE AGUA POTABLE Y SANEAMIENTO
 
@@ -10756,3 +10770,9 @@ P.O. 29 DE MARZO DE 2003.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor sesenta días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JUNIO DE 2003.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
