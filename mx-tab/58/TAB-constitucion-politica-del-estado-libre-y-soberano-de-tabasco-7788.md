@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1938-03-28"
+last_updated: "1938-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 1938.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 1938.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -449,7 +449,7 @@ XV.- Rehabilitar en los derechos de ciudadano del Estado.
 
 XVI.- Conceder amnistía por delitos políticos de la competencia del Estado.
 
-XVII.- Conceder facultades extraordinarias al Ejecutivo en los Ramos de Hacienda y de Guerra cuando las circunstancias lo exijan y así lo acuerden los dos tercios de los Diputados presentes, por tiempo limitado y con obligación de dar cuenta del uso que hubiere hecho de ellas.
+XVII.- (DEROGADA, P.O. 24 DE SEPTIEMBRE DE 1938)
 
 XVIII.- Elegir a los Magistrados del Supremo Tribunal de Justicia.
 
@@ -1326,3 +1326,7 @@ UNICO.- Este decreto surte sus efectos legales desde la fecha de su promulgació
 P.O. 28 DE MARZO DE 1938.
 
 UNICO.- Este Decreto surte sus efectos legales, desde la fecha de su promulgación, que se hará por bando solemne en todo el Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 1938.
+
+UNICO.- Este Decreto surte sus efectos legales desde la fecha de su promulgación, que se hará por Bando Solemne en todo el Estado.
