@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-reglamenta-el-servicio-de-agua-potable-en-el-estado-337
 country: "mx"
 rank: "ley"
 publication_date: "1969-04-30"
-last_updated: "1999-11-12"
+last_updated: "2003-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 30 de abril de 1969.
 
@@ -151,9 +151,11 @@ III.- En forma solidaria, los arrendadores y arrendatarios de predios locales qu
 
 Las personas obligadas a pagar las cuotas, deberán cubrirlas en la Oficina Recaudadora correspondiente dentro de los primeros 20 días de cada mes.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 17.
 
-Cuando no se paguen las cuotas a que se refiere el Artículo 15, en el plazo que señala el Artículo anterior, su pago y el de los recargos respectivos, se hará efectivo en las condiciones y términos que establezca la Ley de Hacienda del Estado.
+Cuando no se paguen las cuotas a que se refiere el artículo 15, en el plazo que señala el artículo anterior, su pago y el de los recargos respectivos, se hará efectivo en las condiciones y términos que establezca la Ley de Hacienda del Estado. Sin embargo, el suministro de agua potable para uso doméstico, así como el que se preste en los inmuebles en los que el Gobierno del Estado brinde Educación Básica y Servicios de Salud Pública, no podrá suspenderse.
 
 ###### ARTICULO 18.
 
@@ -796,3 +798,7 @@ DR. FEDERICO MARTINEZ MANAUTOU.
 P.O. 12 DE NOVIEMBRE DE 1999.
 
 UNICO.- La presente reforma entrará en vigor al tercer día de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 2 DE MAYO DE 2003.
+
+UNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial de Baja California.
