@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "1970-04-25"
+last_updated: "1975-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ABRIL DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 1975.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -401,21 +401,25 @@ Si éste se presenta como hijo de padres desconocidos, el Oficial del Registro l
 
 Cuando el nacido fuere presentado como hijo de matrimonio se asentarán los nombres, domicilio y nacionalidad de los padres; los nombres y domicilio de los abuelos y los de las personas que hubieren hecho la presentación. Los testigos de que habla el artículo 71 declararán también acerca de la nacionalidad de los padres del presentado al Registro.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
+
 ###### Art. 73.
 
-Para que se haga constar en el acta de nacimiento de un hijo nacido fuera de matrimonio, el nombre del padre o de la madre, es necesario que éstos lo pidan por sí o por apoderado especial, constituidos en la forma que determina el artículo 48 de este Código; haciéndose constar, en todo caso, la petición.
+Para que se haga constar en el acta de nacimiento el nombre del padre de un hijo nacido fuera de matrimonio, es necesario que aquél lo pida por sí o por apoderado especial constituido en la forma establecida en el artículo 48, haciéndose constar en todo caso la petición.
 
-Si al hacerse la presentación no se expresare el nombre de los padres, se asentará en el acta que el niño presentado es hijo de padres desconocidos; pero la investigación de la maternidad o de la paternidad podrá hacerse ante los tribunales, de acuerdo con las disposiciones relativas de este Código.
+La madre no tiene derecho de dejar de reconocer a su hijo. Tiene obligación de que su nombre figure en el acta de nacimiento de su hijo. Si al hacerse la presentación no se da el nombre de la madre, se pondrá en el acta que el presentado es hijo de madre desconocida, pero la investigación de la maternidad podrá hacerse ante los tribunales de acuerdo con las disposiciones relativas de este Código.
 
-Además de los nombres de los padres, que figuren en el acta, se hará constar su nacionalidad y domicilio, declarando sobre la primera circunstancia los testigos del acto.
+Además de los nombres de los padres se hará constar en el acta de nacimiento su nacionalidad y domicilio, declarando acerca de la primera circunstancia los testigos que deben intervenir en el acto.
 
 ###### Art. 74.
 
 Si el padre o la madre no pudieren concurrir, ni tuvieren apoderado, pero solicitaren ambos o alguno de ellos la presencia del Oficial del Registro, éste pasará al lugar en que se halle el interesado, y allí recibirá de él la petición de que se mencione su nombre; todo lo cual se asentará en el acta.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
+
 ###### Art. 75.
 
-Podrá asentarse el nombre del progenitor, casado o soltero, del hijo habido fuera de matrimonio; pero no podrá asentarse el nombre de la madre, cuando sea casada, a no ser que el marido haya desconocido al hijo y exista sentencia ejecutoria que declare que no es el padre.
+Si el hijo fuere adulterino, podrá asentarse el nombre del padre, casado o soltero, si lo pidiere; pero no podrá asentarse el nombre de la madre cuando sea casada y viva con su marido, a no ser que éste haya desconocido al hijo y exista sentencia ejecutoria que declare que no es hijo suyo.
 
 ###### Art. 76.
 
@@ -901,6 +905,8 @@ Si el matrimonio no se celebra, tienen derecho los prometidos a exigir la devolu
 
 De los derechos y obligaciones que nacen del matrimonio.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
+
 ###### Art. 157.
 
 El matrimonio debe celebrarse ante los funcionarios que establezca la ley y con las formalidades que ella exige.
@@ -1001,45 +1007,57 @@ Disposiciones generales.
 
 ###### Art. 173.
 
-Los cónyuges están obligados a guardarse fidelidad, a contribuir cada uno por su parte a los fines del matrimonio y a socorrerse mutuamente.
+Los cónyuges están obligados a contribuir cada uno por su parte a los fines del matrimonio y a socorrerse mutuamente.
+
+Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos. Por lo que toca al matrimonio, este derecho será ejercido de común acuerdo por los cónyuges.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
 
 ###### Art. 174.
 
-La mujer debe vivir al lado de su marido. Los tribunales, con conocimiento de causa, eximirán a la mujer de esta obligación cuando el marido traslade su domicilio a país extranjero, a no ser que lo haga en servicio de la patria, o cuando se establezca en un lugar insalubre o indecoroso.
+Los cónyuges vivirán juntos en el domicilio conyugal. Los tribunales con conocimiento de causa, podrán eximir de esta obligación a alguno de ellos, cuando el otro traslade su domicilio a país extranjero, a no ser que lo haga en servicio público o social, o se establezcan en país insalubre o indecoroso.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
 
 ###### Art. 175.
 
-El marido debe dar alimentos a la mujer y hacer todos los gastos necesarios para el sostenimiento del hogar; pero si la mujer tuviere bienes propios o desempeñare algún trabajo, o ejerciere alguna profesión, oficio o comercio, deberá también contribuir para los gastos de la familia, siempre que la parte que le corresponda no exceda de la mitad de dichos gastos, a no ser que el marido estuviere imposibilitado para trabajar y careciere de bienes propios, pues entonces todos los gastos serán de cuenta de la mujer y se cubrirán con bienes de ella.
+Los cónyuges contribuirán económicamente al sostenimiento del hogar, a su alimentación y a la de sus hijos, así como a la educación de éstos en los términos que la ley establece, sin perjuicio de distribuirse la carga en la forma y proporción que acuerden para este efecto, según sus posibilidades. A lo anterior no está obligado el que se encuentre imposibilitado para trabajar y careciere de bienes propios, en cuyo caso el otro atenderá íntegramente a esos gastos.
+
+Los derechos y obligaciones que nacen del matrimonio serán siempre iguales para los cónyuges e independientes de su aportación económica al sostenimiento del hogar.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
 
 ###### Art. 176.
 
-La mujer tendrá siempre derecho preferente sobre los productos de los bienes del marido y sobre sus sueldos, salarios o emolumentos, por las cantidades que correspondan para la alimentación de ella y de sus hijos menores. También tendrá derecho preferente sobre los bienes propios del marido para la satisfacción del mismo objeto. La mujer puede pedir el aseguramiento de bienes para hacer efectivos estos derechos.
+Los cónyuges y los hijos, en materia de alimentos, tendrán derecho preferente sobre los ingresos y bienes de quien tenga a su cargo el sostenimiento económico de la familia y podrán demandar el aseguramiento de los bienes para hacer efectivos estos derechos.
 
 ###### Art. 177.
 
-El marido tendrá el derecho que a la mujer concede el artículo anterior, en los casos en que ésta tenga obligación de contribuir en todo o en parte para los gastos de la familia y del hogar.
+(DEROGADO, P.O. 21 DE JUNIO DE 1975)
 
 ###### Art. 178.
 
-El marido y la mujer tendrán en el hogar autoridad y consideraciones iguales; por lo tanto, de común acuerdo arreglarán todo lo relativo a la educación y establecimiento de los hijos y a la administración de los bienes que a éstos pertenezcan.
+(DEROGADO, P.O. 21 DE JUNIO DE 1975)
 
-En el caso de que el marido y la mujer no estuvieren conformes sobre alguno de los puntos indicados, el Juez de lo Civil correspondiente procurará avenirlos, y si no lo lograre resolverá, sin forma de juicio, lo que fuere más conveniente a los intereses de los hijos.
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
 
 ###### Art. 179.
 
-Estará a cargo de la mujer la dirección y cuidado de los trabajos del hogar.
+El marido y la mujer tendrán en el hogar autoridad y consideraciones iguales; por lo tanto, resolverán de común acuerdo todo lo conducente al manejo del hogar, a la formación y educación de los hijos y a la administración de los bienes que a éstos pertenezcan. En caso de desacuerdo el juez resolverá lo conducente.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
 
 ###### Art. 180.
 
-La mujer podrá desempeñar un empleo, ejercer una profesión, industria, oficio o comercio, cuando ello no perjudique a la misión que le impone el artículo anterior.
+Los cónyuges podrán desempeñar cualquier actividad, excepto las que dañen la moral de la familia o la estructura de ésta. Cualquiera de ellos podrá oponerse a que el otro desempeñe la actividad de que se trate y el juez resolverá sobre la oposición.
 
 ###### Art. 181.
 
-El marido podrá oponerse a que la mujer se dedique a las actividades a que se refiere el artículo anterior, siempre que subvenga a todas las necesidades del hogar y funde la oposición en causas graves y justificadas.
+(DEROGADO, P.O. 21 DE JUNIO DE 1975)
 
 ###### Art. 182.
 
-En caso de que la mujer insista en usar de los derechos que le concede el artículo 180, no obstante de que el marido se los rehuse apoyado en lo dispuesto en el artículo anterior, el juez respectivo resolverá lo que sea procedente.
+(DEROGADO, P.O. 21 DE JUNIO DE 1975)
 
 ###### Art. 183.
 
@@ -1049,17 +1067,19 @@ El marido y la mujer, mayores de edad, tienen capacidad para administrar, contra
 
 El marido y la mujer, menores de edad, tendrán la administración de sus bienes, en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
+
 ###### Art. 185.
 
-La mujer necesita autorización judicial para contratar con su marido, excepto cuando el contrato que celebre sea el de mandato.
+Los cónyuges requieren autorización judicial para contratar entre ellos, excepto cuando el contrato sea el de mandato para pleitos y cobranzas o para actos de administración.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
 
 ###### Art. 186.
 
-También se requiere autorización judicial para que la mujer sea fiadora de su marido, garantice obligaciones de éste en cualquier otra forma o se obligue solidariamente con el mismo, en asuntos que sólo a él interesen.
+También se requiere autorización judicial para que el cónyuge sea fiador de su consorte o se obligue solidariamente con él, en asuntos que sean de interés exclusivo de éste, salvo cuando se trate de otorgar caución para que el otro obtenga su libertad.
 
-La autorización, en los casos a que se refieren los dos artículos anteriores, no se concederá cuando notoriamente resulten perjudicados los intereses de la mujer.
-
-Esta no necesita autorización judicial para otorgar fianza a fin de que su esposo obtenga la libertad.
+La autorización, en los casos a que se refieren este y los dos artículos anteriores, no se concederá cuando resulten perjudicados los intereses de la familia o de uno de los cónyuges.
 
 ###### Art. 187.
 
@@ -1275,7 +1295,7 @@ Serán también propios de cada uno de los consortes, los bienes que adquiera po
 
 ###### Art. 228.
 
-Cada uno de los cónyuges debe contribuir a la educación y alimentación de los hijos y a las demás cargas del matrimonio, de acuerdo con lo dispuesto en el artículo 175.
+(DEROGADO, P.O. 21 DE JUNIO DE 1975)
 
 ###### Art. 229.
 
@@ -1483,13 +1503,17 @@ La buena fe se presume; para destruir esta presunción se requiere prueba plena.
 
 Si la demanda de nulidad fuere entablada por uno sólo de los cónyuges, desde luego se dictarán las medidas provisionales que establece el artículo 298.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
+
 ###### Art. 271.
 
-Luego que la sentencia sobre nulidad cause ejecutoria, los hijos varones mayores de cinco años quedarán al cuidado del padre, y las hijas, así como también los hijos varones menores de la edad expresada, al cuidado de la madre, si de parte de ambos cónyuges hubiere habido buena fe.
+Luego que la sentencia sobre nulidad cause ejecutoria, el padre y la madre propondrán la forma y términos del cuidado y la custodia de los hijos y el juez resolverá a su criterio de acuerdo con las circunstancias del caso.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
 
 ###### Art. 272.
 
-Si uno solo de los cónyuges ha procedido de buena fe, quedarán todos los hijos bajo su cuidado; pero siempre, las hijas e hijos menores de cinco años se mantendrán al cuidado de la madre hasta que cumplan esta edad, a menos que la madre se dedicare a la prostitución, al lenocinio, hubiera contraído hábito de embriagarse, tuviere alguna enfermedad contagiosa o por su conducta ofreciera peligro grave para la salud o moralidad de sus hijos.
+El juez en todo tiempo, podrá modificar la determinación a que se refiere el artículo anterior, atento a las nuevas circunstancias y a lo dispuesto en los artículos 436, 437 y 458 fracción III.
 
 ###### Art. 273.
 
@@ -1611,7 +1635,9 @@ IX.- El completo abandono de uno de los cónyuges por el otro, cualquiera que se
 
 X.- La sevicia, las amenazas o las injurias graves de un cónyuge para el otro;
 
-XI.- La negativa de los cónyuges de darse alimentos, de acuerdo a lo dispuesto en el artículo 175, siempre que no puedan hacer efectivos los derechos que les conceden los Arts. 176 y 177;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1975)</small>
+
+XI.- La negativa injustificada de los cónyuges a cumplir las obligaciones señaladas en el artículo 175 y el incumplimiento, sin justa causa, de la sentencia ejecutoriada, por alguno de los cónyuges, en el caso del artículo 179;
 
 XII.- La acusación calumniosa hecha por un cónyuge contra el otro, por delito que merzeca (sic) pena mayor de dos años de prisión;
 
@@ -1675,21 +1701,21 @@ La reconciliación de los cónyuges pone término al juicio de divorcio en cualq
 
 El cónyuge que no haya dado causa al divorcio, puede antes de que se pronuncie la sentencia que ponga fin al litigio, prescindir de sus derechos; más, en este caso, no puede pedir de nuevo el divorcio por los mismos hechos que motivaron el juicio anterior, pero sí por otros nuevos aunque sean de la misma especie.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
+
 ###### Art. 298.
 
 Al admitirse la demanda de divorcio, o antes, si hubiere urgencia, se dictarán provisionalmente y sólo mientras dure el juicio, las disposiciones siguientes:
 
-I.- Autorizar, cuando lo juzgue conveniente, la separación de los cónyuges;
+I.- Proceder a la separación de los cónyuges, de conformidad con el Código de Procedimientos Civiles;
 
 II.- Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos;
 
-III.- Dictar las medidas convenientes para que el marido no cause perjuicio en sus bienes a la mujer;
+III.- Las que se estimen convenientes para que los cónyuges no se puedan causar perjuicios en sus respectivos bienes, ni en los de la sociedad conyugal, en su caso;
 
 IV.- Dictar, en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede encinta;
 
 V.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio, propondrá la persona en cuyo poder deben quedar provisionalmente los hijos. El juez, previo el procedimiento que fije el Código respectivo, resolverá lo conveniente.
-
-Si después de pedir el divorcio uno de los cónyuges, lo solicitara el otro, subsistirán las medidas adoptadas conforme a este artículo.
 
 ###### Art. 299.
 
@@ -1707,9 +1733,13 @@ Quinta.- En el caso de las fracciones VI y VII del artículo 287, los hijos qued
 
 Sexta.- En el caso de la fracción XVI del Art. 287, los hijos varones mayores de cinco años quedarán al cuidado del padre, y las hijas así como también los hijos varones menores de la edad expresada, al cuidado de la madre, estándose en su caso, a lo que dispone la Regla Cuarta de este artículo.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
+
 ###### Art. 300.
 
-Antes de que se provea definitivamente sobre la patria potestad o tutela de los hijos, podrán acordar los tribunales, a petición de los abuelos, tíos o hermanos mayores, cualquiera providencia que se considere benéfica a los menores.
+Antes de que se provea definitivamente sobre la patria potestad o tutela de los hijos, el juez podrá acordar, a petición de los abuelos, tíos o hermanos mayores, cualquier medida que considere benéfica para los menores.
+
+El juez podrá modificar esta decisión atento a lo dispuesto en los artículos 436, 437 y 458 fracción III.
 
 ###### Art. 301.
 
@@ -1719,13 +1749,17 @@ El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas l
 
 El cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
+
 ###### Art. 303.
 
-Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes, se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges, o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes, a la subsistencia y educación de los hijos varones hasta que lleguen a la mayor edad, y de las hijas aunque sean mayores de edad, hasta que contraigan matrimonio, siempre que vivan honestamente.
+Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a las necesidades de los hijos, a la subsistencia y a la educación de éstos hasta que lleguen a la mayor edad.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
 
 ###### Art. 304.
 
-En los casos de divorcio, la mujer inocente tendrá derecho a alimentos mientras no contraiga nuevas nupcias y viva honestamente. El marido inocente sólo tendrá derecho a alimentos cuando esté imposibilitado para trabajar y no tenga bienes propios para subsistir. Además, cuando por el divorcio se originen daños o perjuicios a los intereses del cónyuge inocente, el culpable responedrá (sic) de ellos, como autor de un hecho ilícito.
+En los casos de divorcio, el juez, tomando en cuenta las circunstancias del caso, y entre ellas la capacidad para trabajar de los cónyuges y su situación económica, sentenciará al culpable al pago de alimentos en favor del inocente. Este derecho lo disfrutará en tanto viva honestamente y no contraiga nupcias. Además, cuando por el divorcio se originen daños o perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito.
 
 ###### Art. 305.
 
@@ -1907,13 +1941,17 @@ V.- Si el alimentista, sin consentimiento del que debe dar los alimentos, abando
 
 El derecho de recibir alimentos no es renunciable, ni puede ser objeto de transacción.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
+
 ###### Art. 338.
 
-Cuando el marido no estuviere presente, o estándolo rehusare entregar a la mujer lo necesario para los alimentos de ella y de los hijos, se hará responsable de las deudas que la esposa contraiga para cubrir esa exigencia; pero sólo en la cuantía estrictamente necesaria para ese objeto, y siempre que no se trate de gastos de lujo.
+Cuando el deudor alimentario no estuviere presente o estándolo rehusare entregar lo necesario para los alimentos de los miembros de su familia con derecho a recibirlos, se hará responsable de las deudas que éstos contraigan para cubrir esa exigencia, pero sólo en la cuantía estrictamente necesaria para ese objeto y siempre que no se trate de gastos de lujo.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
 
 ###### Art. 339.
 
-La esposa que, sin culpa suya se vea obligada a vivir separadamente de su marido, podrá pedir al juez de Primera Instancia del lugar de su residencia, que obligue a su esposo a darle alimentos durante la separación, y a que le ministre todos los que haya dejado de darle desde que la abandonó. El juez, según las circunstancias del caso, fijará la suma que el marido deber ministrar mensualmente, dictando las medidas necesarias para que dicha cantidad sea debidamente asegurada y para que el esposo pague los gastos que la mujer haya tenido que erogar con tal motivo.
+El cónyuge que se haya separado del otro, sigue obligado a cumplir con los gastos a que se refiere el artículo 175. En tal virtud, el que no haya dado lugar a ese hecho, podrá pedir al juez de su residencia, que obligue al otro a que le ministre los gastos por el tiempo que dure la separación en la misma proporción en que lo venía haciendo hasta antes de aquella, así como también satisfaga los adeudos contraídos en los términos del artículo anterior. Si dicha proporción no se pudiera determinar, el juez, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y de lo que ha dejado de cubrir desde que se separó.
 
 ### CAPITULO III.
 
@@ -2016,6 +2054,8 @@ Puede haber transación (sic) o arbitramento sobre los derechos pecuniarios que 
 ### CAPITULO V.
 
 De la adopción.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
 
 ###### Art. 355.
 
@@ -2201,9 +2241,11 @@ Cuando el padre o la madre reconozcan separadamente a un hijo, no podrán revela
 
 El Oficial del Registro Civil, el Juez de Primera Instancia, en su caso, y el Notario que consientan a la violación del artículo que precede, serán castigados con la pena de destitución de empleo e inhabilitación para desempeñar otro, por un término que no baje de dos ni exceda de cinco años.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
+
 ###### Art. 390.
 
-El marido podrá reconocer a un hijo habido antes de su matrimonio o durante éste; pero no tendrá derecho de llevarlo a vivir a la habitación conyugal, si no es con el consentimiento expreso de la esposa.
+El cónyuge podrá reconocer al hijo habido antes de su matrimonio sin el consentimiento del otro cónyuge; pero no tendrá derecho a llevarlo a vivir a la habitación conyugal, si no es con la anuencia expresa de éste.
 
 ###### Art. 391.
 
@@ -2229,13 +2271,17 @@ La mujer que cuida o ha cuidado de la lactancia de un niño, a quien le ha dado 
 
 Cuando la madre contradiga el reconocimiento hecho sin su consentimiento, quedará aquel sin efecto, y la cuestión relativa a la paternidad se resolverá en el juicio contradictorio correspondiente.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
+
 ###### Art. 397.
 
-Cuando el padre y la madre reconozcan al hijo en el mismo acto, convendrán cuál de los dos ejercerá sobre él la patria potestad, y en caso de que no lo hicieren, el Juez de Primera Instancia del lugar, oyendo a los padres y al Ministerio Público, resolverá lo que creyere más conveniente a los intereses del menor.
+Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo acto, convendrán cuál de los dos ejercerá su custodia; y en caso de que no lo hicieren, el juez del lugar, oyendo a los padres y al Ministerio Público, resolverá lo que creyere más conveniente a los intereses del menor.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
 
 ###### Art. 398.
 
-En caso de que el reconocimiento se efectúe sucesivamente por los padres, ejercerá la patria potestad el que primero hubiere reconocido, salvo que se conviniere otra cosa entre los padres, y siempre que el Juez de Primera Instancia del lugar no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Ministerio Público.
+En caso de que el reconocimiento se efectúe sucesivamente por los padres que no viven juntos, ejercerá la custodia el que primero hubiere reconocido, salvo que se conviniere otra cosa entre los padres, y siempre que el juez del lugar no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Ministerio Público.
 
 ###### Art. 399.
 
@@ -2249,9 +2295,19 @@ III.- Cuando el hijo haya sido concebido durante el tiempo en que la madre habit
 
 IV.- Cuando el hijo tenga a su favor un principio de prueba contra el pretendido padre.
 
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 1975)</small>
+
+Art. 399 bis.- Se presumen hijos del concubinario y de la concubina:
+
+I.- Los nacidos después de ciento ochenta días contados desde que comenzó el concubinato;
+
+II.- Los nacidos dentro de los trescientos días siguientes al en que cesó la vida común entre el concubinario y la concubina.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
+
 ###### Art. 400.
 
-La posesión de estado, para los efectos de la fracción II del artículo anterior, se justificará demostrando por los medios ordinarios de prueba, que el hijo ha sido tratado por el presunto padre o por su familia como hijo del primero, y que éste ha proveído a su subsistencia, educación y establecimiento.
+La posesión de estado, para los efectos de la fracción II del artículo 399, se justificará demostrando por los medios ordinarios de prueba, que el hijo ha sido tratado por el presunto padre o por su familia como hijo del primero, y que éste ha proveído a su subsistencia, educación y establecimiento.
 
 ###### Art. 401.
 
@@ -2287,7 +2343,13 @@ De los modos de acabarse y suspenderse la patria potestad.
 
 ###### Art. 406.
 
-Los mayores de edad en pleno ejercicio de sus derechos pueden adoptar a un menor, siempre que la adopción sea benéfica a éste y el adoptante tenga, cuando menos, diez y siete años más que el adoptado.
+El mayor de veinticinco años, libre de matrimonio, en pleno ejercicio de sus derechos, puede adoptar uno o más menores o a un incapacitado, aún cuando éste sea mayor de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y que acredite además:
+
+I.- Que tiene medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como de hijo propio, según las circunstancias de la persona que trata de adoptar;
+
+II.- Que la adopción es benéfica para la persona que trata de adoptarse;
+
+III.- Que el adoptante es persona de buenas costumbres. Cuando circunstancias especiales lo aconsejen, el juez puede autorizar la adopción de dos o más incapacitados o de menores e incapacitados simultáneamente.
 
 ###### Art. 407.
 
@@ -2425,9 +2487,11 @@ III.- Por el abuelo y la abuela maternos.
 
 En los casos previstos en los artículos 397 y 398, cuando por cualquier circunstancia deja de ejercer la patria potestad alguno de los padres, entrará a ejercerla el otro.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
+
 ###### Art. 432.
 
-A falta de padres, ejercerán la patria potestad sobre el hijo reconocido, los demás ascendientes a que se refieren las fracciones II y III del artículo 430.
+A falta de padres, ejercerán la patria potestad sobre el hijo los demás ascendientes a que se refieren las fracciones II y III del Artículo 430, en el orden que determine el juez, tomando en cuenta las circunstancias del caso.
 
 ###### Art. 433.
 
@@ -2447,11 +2511,11 @@ A las personas que tienen al hijo bajo su patria potestad, incumbe la obligació
 
 Cuando llegue a conocimiento del Ministerio Público que las personas de que se trata no cumplan dicha obligación, promoverá lo que corresponda en beneficio del menor.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
+
 ###### Art. 437.
 
-Los que ejercen la patria potestad, tienen la facultad de vigilar la conducta del hijo y, caso dado, corregirla empleando medidas de persuasión o represión mesuradas, que no caigan bajo la sanción de la Ley.
-
-Las autoridades, en caso necesario, auxiliarán a esas personas, haciendo uso de amonestaciones y correctivos que presten el apoyo suficiente a la autoridad paterna.
+Para los efectos del artículo anterior, los que ejerzan la patria potestad o tengan hijos bajo su custodia, tienen la facultad de corregirlos y la obligación de observar una conducta que sirva a éstos de buen ejemplo. Las autoridades, en caso necesario, auxiliarán a esas personas haciendo uso de amonestaciones y correctivos que les presten el apoyo suficiente.
 
 ###### Art. 438.
 
@@ -2465,9 +2529,11 @@ De la tutela legítima de los menores.
 
 Los que ejerzan la patria potestad son legítimos representantes de los que están bajo de ella, y tienen la administración legal de los bienes que les pertenecen, conforme a las prescripciones de este Código.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
+
 ###### Art. 440.
 
-Cuando la patria potestad se ejerza a la vez por el padre y por la madre, o por el abuelo y la abuela o, por los adoptantes, el administrador de los bienes será el varón; pero consultará en todos los negocios a su consorte, observándose lo dispuesto por el artículo 178.
+Cuando la patria potestad se ejerza a la vez por el padre y por la madre, o por el abuelo y la abuela, o por los adoptantes, el administrador de los bienes será nombrado por mutuo acuerdo; pero el designado consultará en todos los negocios a su consorte y requerirá su consentimiento expreso para los actos más importantes de la administración.
 
 ###### Art. 441.
 
@@ -2811,13 +2877,17 @@ Los hijos mayores de edad son tutores de su padre o madre viudos.
 
 Cuando haya dos o más hijos, será preferido el que viva en compañía del padre o de la madre; y siendo varios los que estén en el mismo caso, el juez elegirá al que le parezca más apto.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
+
 ###### Art. 502.
 
-El padre, y por muerte o incapacidad de éste, la madre, son de derecho tutores de sus hijos, solteros o viudos, cuando ellos no tengan hijos que puedan desempeñar la tutela.
+Los padres son de derecho tutores de sus hijos, solteros o viudos, cuando éstos no tengan hijos que puedan desempeñar la tutela, debiéndose poner de acuerdo respecto a quién de los dos ejercerá el cargo.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
 
 ###### Art. 503.
 
-A falta de tutor testamentario y de persona que con arreglo a los artículos anteriores deba desempeñar la tutela, serán llamados a ella exclusivamente: el abuelo paterno, el materno, los hermanos del incapacitado y los demás colaterales a que se refiere la fracción II del artículo 496.
+A falta de tutor testamentario y de persona que con arreglo a los artículos anteriores deba desempeñar la tutela, serán llamados a ella sucesivamente los abuelos, los hermanos del incapacitado y los demás colaterales a que se refiere la fracción II del artículo 496, observándose en su caso lo que dispone el artículo 497.
 
 ###### Art. 504.
 
@@ -3275,9 +3345,11 @@ El nombramiento de árbitros hecho por el tutor deberá sujetarse a la aprobaci�
 
 Para que el tutor transija, cuando el objeto de la reclamación consista en bienes inmuebles o bienes muebles o valores mercantiles o industriales, necesita del consentimiento del curador y de la aprobación judicial otorgada con audiencia de éste.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
+
 ###### Art. 582.
 
-Ni con licencia judicial, ni en almoneda o fuera de ella, puede el tutor comprar o arrendar los bienes del incapacitado, ni hacer contrato alguno respecto de ellos, para sí, sus ascendientes, su mujer, hijos o hermanos por consanguinidad o afinidad. Si lo hiciere, además de la nulidad del contrato, el acto será suficiente para que se le remueva.
+Ni con licencia judicial, ni en almoneda o fuera de ella puede el tutor comprar o arrendar los bienes del incapacitado, ni hacer contrato alguno respecto de ellos, para sí, sus ascendientes, su mujer o marido en su caso, hijos o hermanos por consanguinidad o afinidad. Si lo hiciere, además de la nulidad del contrato, el acto será suficiente para que se le remueva.
 
 ###### Art. 583.
 
@@ -3323,23 +3395,25 @@ El tutor tiene obligación de admitir las donaciones simples, legales y herencia
 
 La expropiación por causa de utilidad pública de bienes de incapacitados, no se sujetará a las reglas antes establecidas, sino a lo que dispongan las leyes de la materia.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
+
 ###### Art. 594.
 
-Cuando el tutor sea el marido, continuará ejerciendo respecto de su mujer incapacitada los derechos conyugales, con las siguientes modificaciones:
+Cuando el tutor de un incapaz sea el cónyuge, continuará ejerciendo los derechos conyugales con las siguientes modificaciones:
 
-I.- En los casos en que conforme a derecho fuera necesario el consentimiento de la mujer, se suplirá éste por el juez, con audiencia del curador;
+I.- En los casos en (sic) conforme a derecho se requiere el consentimiento del cónyuge, se suplirá éste por el juez con audiencia del curador;
 
-II.- La mujer, en los casos en que pueda querellarse de su marido, o demandarlo para asegurar sus derechos violados o amenazados, será representada por un tutor interino que el juez le nombrará. Es obligación del curador promover este nombramiento, y si no la cumple será responsable de los perjuicios que se sigan al incapacitado.
+II.- En los casos en que el cónyuge incapaz pueda querellarse del otro, denunciarlo o demandarlo para asegurar sus derechos violados o amenazados, será representado por un tutor interino que el juez le nombrará. Es obligación del curador promover este nombramiento y si no lo cumple, será responsable de los perjuicios que se causen al incapacitado. También podrá promover este nombramiento el Ministerio Público.
 
-También podrá promover ese nombramiento el Ministerio Público.
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
 
 ###### Art. 595.
 
-Cuando la tutela de la mujer incapacitada recayere en el marido, éste no podrá gravar ni enajenar los bienes de la mujer que sean de la clase a que se refiere el Art. 581 sin previa audiencia del curador y autorización judicial, que se concederá de acuerdo con lo dispuesto en el artículo 574.
+Cuando la tutela del incapaz recaiga en el cónyuge, sólo podrá gravar o enajenar los bienes mencionados en el artículo 581, previa audiencia del curador y autorización judicial, que se concederá de acuerdo con lo dispuesto en el artículo 574.
 
 ###### Art. 596.
 
-La mujer que desempeñe la tutela del marido, tendrá las mismas facultades y obligaciones que a éste corresponden conforme los preceptos anteriores.
+(DEROGADO, P.O. 21 DE JUNIO DE 1975)
 
 ###### Art. 597.
 
@@ -6421,6 +6495,8 @@ De la forma de los testamentos.
 
 De los bienes de que se puede disponer por testamento y de los testamentos inoficiosos.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
+
 ###### Art. 1205.
 
 Testamento es un acto personalísimo, revocable y libre, por el cual una persona capaz dispone de sus bienes y derechos, y declara o cumple deberes para después de su muerte.
@@ -6761,15 +6837,17 @@ De la nulidad, revocación y caducidad de los testamentos.
 
 El testador debe dejar alimentos a las personas que se mencionan en las fracciones siguientes:
 
-I.- A los descendientes varones menores de veintiún años;
+I.- A los descendientes menores de dieciocho años respecto de los cuales tenga obligación legal de proporcionar alimentos al momento de la muerte;
 
-II.- A los descendientes varones que estén imposibilitados de trabajar, y a las hijas que no hayan contraído matrimonio y vivan honestamente, unos y otras aun cuando fueren mayores de veintiún años;
+II.- A los descendientes que estén imposibilitados de trabajar, cualquiera que sea su edad, cuando exista la obligación a que se refiere la fracción anterior;
 
-III.- Al cónyuge supérstite, siempre que siendo varón esté impedido de trabajar, o que siendo mujer, permanezca viuda y viva honestamente;
+III.- Al cónyuge supérstite cuando esté impedido de trabajar y no tenga bienes suficientes. Salvo otra disposición expresa del testador, este derecho subsistirá en tanto no contraiga matrimonio y viva honestamente;
 
 IV.- A los ascendientes;
 
-V.- A los hermanos y demás parientes colaterales dentro del tercer grado, si están incapacitados o mientras que no cumplan dieciocho años, si no tienen bienes para subvenir a sus necesidades.
+V.- A la mujer con quien el testador vivió como si fuera su marido, durante los cinco años que precedieron inmediatamente a su muerte o con la que tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato. La concubina sólo tendrá derecho a alimentos mientras que observe buena conducta y no se case. Si fueren varias las concubinas, ninguna de ellas tendrá derecho a alimentos;
+
+VI.- A los hermanos y demás parientes colaterales dentro del tercer grado, si están incapacitados o mientras que no cumplan dieciocho años, si no tienen bienes para subvenir a sus necesidades.
 
 ###### Art. 1277.
 
@@ -7321,7 +7399,7 @@ El testamento anterior queda revocado de pleno derecho por el posterior perfecto
 
 ###### Art. 1403.
 
-La revocación producirá su efecto aunque el segundo testamento caduque por incapacidad o renuncia del here-testamento caduque por la incapacidad o renuncia del (sic) heredero o de los legatarios nuevamente nombrados.
+La revocación producirá su efecto aunque el segundo testamento caduque por incapacidad o renuncia del here- testamento caduque por la incapacidad o renuncia del (sic) heredero o de los legatarios nuevamente nombrados.
 
 ###### Art. 1404.
 
@@ -11103,7 +11181,7 @@ Los extranjeros y las personas morales no pueden comprar bienes raíces, sino su
 
 ###### Art. 2174.
 
-Los consortes no pueden celebrar entre sí el contrato de compra-venta, sino de acuerdo con lo dispuesto en los artículos 185 y 186.
+(DEROGADO, P.O. 21 DE JUNIO DE 1975)
 
 ###### Art. 2175.
 
@@ -15142,6 +15220,12 @@ El presente decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a las presentes reformas.
+
+P.O. 21 DE JUNIO DE 1975.
+
+PRIMERO.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales que se opongan a las presentes reformas.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 207 POR EL QUE "ARTICULO UNICO.- ART. 2902".]
 
