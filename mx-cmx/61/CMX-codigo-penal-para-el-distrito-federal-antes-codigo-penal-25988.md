@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1986-11-17"
+last_updated: "1986-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE NOVIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE NOVIEMBRE DE 1986.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -708,7 +708,9 @@ Siempre que al delito intencional corresponda sanción alternativa que incluya u
 
 Cuando por imprudencia se ocasione únicamente daño en propiedad ajena que no sea mayor del equivalente a cien veces el salario mínimo, se sancionará con multa hasta por el valor del daño causado, más la reparación de ésta. La misma sanción se aplicará cuando el delito de imprudencia se ocasione con motivo del tránsito de vehículos cualquiera que sea el valor del daño.
 
-Cuando por imprudencia y con motivo de tránsito de vehículos se causen lesiones de las comprendidas en los artículos 289 y 290 de este Código, sólo se procederá a petición de parte, siempre que el presunto responsable no se hubiese encontrado en estado de ebriedad o bajo el influjo de estupefacientes u otras substancias que produzcan efectos similares.
+> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
+
+Cuando por imprudencia y con motivo del tránsito de vehículos se causen lesiones, cualquiera que sea su naturaleza, sólo se procederá a petición del ofendido o de su legítimo representante, siempre que el conductor no se hubiese encontrado en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos o de cualquier otra sustancia que produzca efectos similares, y no se haya dejado abandonada a la víctima.
 
 Lo dispuesto en los párrafos anteriores, no se aplicará cuando el delito se cometa en el sistema ferroviario, de transportes eléctricos, navíos, aeronaves o en cualquier transporte de servicio publico federal o local, o transporte de servicio escolar.
 
@@ -3884,9 +3886,11 @@ III.- El hecho de que una persona haga aparecer como suyo un depósito que garan
 
 Se reputa como abuso de confianza la ilegítima posesión de la cosa retenida si el tenedor o poseedor de ella no la devuelve a pesar de ser requerido formalmente por quien tenga derecho, o no la entrega a la autoridad, para que ésta disponga de la misma conforme a la ley.
 
+> <small>(ADICIONADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
+
 ###### ARTICULO 385.
 
-(DEROGADO, D.O.F. 13 DE ENERO DE 1984)
+Se considera como abuso de confianza y se sancionará con seis meses a seis años de prisión y multa hasta de cien veces el salario a quien disponga indebidamente o se niegue sin justificación a entregar un vehículo recibido en depósito de autoridad competente, relacionado con delitos por tránsito de vehículos, habiendo sido requerido por la autoridad que conozca o siga conociendo del caso.
 
 ### CAPITULO IV. De los delitos cometidos por los comerciantes sujetos a concurso
 
@@ -4525,3 +4529,9 @@ D.O.F. 17 DE NOVIEMBRE DE 1986.
 ###### ARTICULO UNICO.
 
 Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE NOVIEMBRE DE 1986.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas entrarán en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
