@@ -4,7 +4,7 @@ identifier: "JAL-ley-electoral-del-estado-de-jalisco-15428"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-29"
-last_updated: "2000-04-18"
+last_updated: "2000-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ELECTORAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2000.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 29 de abril de 1997.
 
@@ -273,7 +273,9 @@ VI. No estar en servicio activo en el Ejército Nacional, ni tener mando en la p
 
 VII. No ser Secretario General de Gobierno o quien haga sus veces, Secretario del despacho del Poder Ejecutivo, Magistrado del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo, integrante del Consejo General del Poder Judicial o Magistrado del Tribunal de Arbitraje y Escalafón. Los servidores públicos comprendidos en esta fracción podrán ser electos siempre que, al efectuarse la elección, tengan cuando menos noventa días de estar separados de sus cargos;
 
-VIII. No ser Juez, Secretario de Juzgado, Secretario del Consejo General del Poder Judicial, Presidente Municipal, Secretario o Síndico de Ayuntamiento, titular de alguna dependencia de recaudación fiscal de la Federación, del Estado o municipal en el distrito en que pretenda su elección, a menos que se separe de su cargo en los términos que previene la fracción anterior;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+VIII. No ser Juez, Secretario de Juzgado, Secretario del Consejo General del Poder Judicial, Presidente Municipal, Síndico, funcionario encargado de la Secretaría del Ayuntamiento, titular de alguna dependencia de recaudación fiscal de la Federación, del Estado o municipal en el distrito en que pretenda su elección, a menos que se separe de su cargo en los términos que previene la fracción anterior;
 
 IX. No ser Director o Secretario del Registro Estatal de electores, presidente, secretario o comisionado electoral de las comisiones distritales o municipales electorales a menos que se separe de sus funciones noventa días antes del día de la elección; y
 
@@ -317,11 +319,15 @@ El Gobernador, cuyo origen sea la elección popular extraordinaria, estará suje
 
 El ciudadano que haya desempeñado el Poder Ejecutivo como Gobernador substituto o el designado para concluir el período, en caso de falta absoluta, aun cuando tenga distinta denominación; el interino, el provisional o el que bajo cualquiera denominación supla las faltas temporales del Gobernador, no podrá ser electo para el período inmediato, si desempeñó el cargo en los dos últimos años del período.
 
-#### Sección Tercera. Para Presidente Municipal, Vicepresidente y Regidor
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+#### Sección Tercera. Para Presidente Municipal, Síndico y Regidor
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 2000)</small>
 
 ###### Artículo 23.
 
-Son requisitos para ser Presidente, Vicepresidente o Regidor de los ayuntamientos de la entidad:
+Son requisitos para ser Presidente, Síndico o Regidor de los ayuntamientos de la entidad:
 
 I. Ser ciudadano mexicano, estar en pleno ejercicio de sus derechos, estar inscrito en el Registro Estatal de Electores y contar con credencial para votar con fotografía;
 
@@ -341,11 +347,15 @@ VII. No ser Secretario General de Gobierno o quien haga sus veces, Secretario de
 
 VIII. No ser Juez, Secretario de Juzgado o titular de alguna dependencia de recaudación fiscal de la Federación o del Estado en el municipio en que pretenda su elección, a menos que se separe de su cargo en los términos que previene la fracción anterior;
 
-IX. No ser servidor público del municipio de que se trate, a no ser que se separe del cargo noventa días antes de la elección. Si se trata del Tesorero Municipal, es preciso que haya rendido sus cuentas al Congreso del Estado por conducto de la Contaduría Mayor de Hacienda; y
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+IX. No ser servidor público del municipio de que se trate, a no ser que se separe del cargo noventa días antes de la elección. Si se trata del funcionario encargado de la Hacienda Municipal, es preciso que haya rendido sus cuentas al Congreso del Estado por conducto de la Contaduría Mayor de Hacienda; y
 
 X. En caso de haberse desempeñado como servidor público, acreditar que cumplió con su obligación de presentar su declaración patrimonial en los términos de ley.
 
-Los presidentes, vicepresidentes y regidores de los ayuntamientos, electos popularmente por elección directa, en los términos de las leyes respectivas, no podrán ser postulados como candidatos a munícipes para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas en el período inmediato.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+Los presidentes, síndicos y regidores de los ayuntamientos, electos popularmente por elección directa, en los términos de las leyes respectivas, no podrán ser postulados como candidatos a munícipes para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas en el período inmediato.
 
 Todos los servidores públicos mencionados en el párrafo anterior, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con cualquier carácter; pero los que tengan el carácter de suplentes podrán ser electos para el período inmediato como propietarios o suplentes, a menos que hayan estado en ejercicio.
 
@@ -469,9 +479,11 @@ La elección del Gobernador será directa, en la forma que dispone esta ley, su 
 
 ### Capítulo V. De la Elección e Integración de los Ayuntamientos del Estado
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE OCTUBRE DE 2000)</small>
+
 ###### Artículo 37.
 
-Los ayuntamientos de cada municipio del Estado se integrarán por un Presidente Municipal, un Vicepresidente y el número de regidores de mayoría relativa y de representación proporcional que se señalan en el presente capítulo. Para los efectos de esta ley, se entenderá que todos los integrantes del cabildo tienen el carácter de regidores, munícipes o ediles.
+Los ayuntamientos de cada municipio del Estado se integrarán por un Presidente Municipal, un Síndico y el número de regidores de mayoría relativa y de representación proporcional que se señalan en el presente capítulo. Para los efectos de esta ley, se entenderá que todos los integrantes del ayuntamiento tienen el carácter de regidores, munícipes o ediles.
 
 Los partidos políticos deberán registrar una planilla de candidatos ordenada en forma progresiva, que contenga el número de regidores propietarios a elegir por el principio de mayoría relativa, con sus respectivos suplentes.
 
@@ -481,7 +493,9 @@ Las comisiones municipales electorales, al aplicar la fórmula electoral que se 
 
 Para suplir a los regidores de mayoría relativa se mandará llamar a su respectivo suplente. En el supuesto de que el suplente que sea llamado no comparezca, se llamará al siguiente suplente de la planilla registrada, de conformidad al orden de prelación establecido.
 
-En caso de ausencia definitiva del Presidente Municipal, se estará a lo que disponga la Ley Orgánica Municipal.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+En caso de ausencia definitiva del Presidente Municipal, se estará a lo que disponga la ley que establezca las bases generales de la administración pública municipal.
 
 Para suplir a los regidores de representación proporcional, será llamado el ciudadano que, de acuerdo a la planilla registrada por el partido, fuera el siguiente en el orden de prelación establecido, considerándose para tal orden, en primer lugar, a la lista de regidores propietarios y en segundo, a la lista de regidores suplentes, siempre que reúnan los requisitos de elegibilidad que contemplen la Constitución Política del Estado de Jalisco y esta ley.
 
@@ -1421,7 +1435,9 @@ Cuando el Titular del Poder Ejecutivo hubiese celebrado convenio con el Director
 
 El Consejo Electoral del Estado tendrá las siguientes atribuciones:
 
-I. Confirmar la vigencia del registro ante el Instituto Federal Electoral de los partidos políticos y agrupaciones políticas nacionales, que tengan derecho a participar en las elecciones de diputados por los principios de mayoría relativa y representación proporcional, de Gobernador del Estado y de Presidente, Vicepresidente y regidores municipales, en los términos que establece la Ley Electoral del Estado;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+I. Confirmar la vigencia del registro ante el Instituto Federal Electoral de los partidos políticos y agrupaciones políticas nacionales, que tengan derecho a participar en las elecciones de diputados por los principios de mayoría relativa y representación proporcional, de Gobernador del Estado y de Presidente, Síndico y regidores municipales, en los términos que establece la Ley Electoral del Estado;
 
 II. Expedir las constancias de registro de los partidos y agrupaciones políticas estatales que hubieren satisfecho los requisitos exigidos en la ley de la materia y, en su caso, cancelarlas en los términos de la misma;
 
@@ -3725,6 +3741,8 @@ Las sesiones a que se refieren los dos artículos anteriores, no podrán interru
 
 ### Capítulo IV. De la Expedición de Constancias de Mayoría de Votos y Asignación de Regidores de Representación Proporcional
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2000)</small>
+
 ###### Artículo 335.
 
 El Consejo Electoral del Estado celebrará sesión el domingo siguiente al día de la elección, para realizar los cómputos de la circunscripción plurinominal respecto de los candidatos a diputados de representación proporcional, de acuerdo al siguiente orden:
@@ -3755,7 +3773,7 @@ V. Hecho lo anterior, de presentarse un juicio de inconformidad, se remitirá el
 
 ###### Artículo 337.
 
-El Consejo Electoral del Estado, a partir del domingo siguiente al día de la elección, celebrará sesiones para expedir las constancias a las planillas de candidatos a Presidente, Vicepresidente y regidores, que hayan obtenido mayoría de votos en los cómputos realizados por las comisiones municipales electorales, de igual forma expedirá las constancias de asignación de regidores por el principio de representación proporcional.
+El Consejo Electoral del Estado, a partir del domingo siguiente al día de la elección, celebrará sesiones para expedir las constancias a las planillas de candidatos a Presidente, Síndico y regidores, que hayan obtenido mayoría de votos en los cómputos realizados por las comisiones municipales electorales, de igual forma expedirá las constancias de asignación de regidores por el principio de representación proporcional.
 
 ## Título Décimo. De la Calificación de las Elecciones de Diputados, de Gobernador y de Munícipes
 
@@ -3777,6 +3795,8 @@ El Consejo Electoral del Estado, en la sesión verificada para el cómputo de la
 
 ### Capítulo III. De la Calificación de la Elección de Munícipes
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE OCTUBRE DE 2000)</small>
+
 ###### Artículo 340.
 
 El Consejo Electoral del Estado calificará la elección para Gobernador y declarará electo al candidato que obtuvo mayoría de sufragios, en los términos previstos por la Constitución Política Local y el presente ordenamiento legal, sujetándose a lo siguiente:
@@ -3789,7 +3809,7 @@ II. En caso de que no se hubieren interpuesto juicios o recursos ante el Tribuna
 
 ###### Artículo 341.
 
-En las sesiones verificadas para expedir las constancias de las planillas municipales, el Consejo Electoral del Estado calificará las elecciones de los ayuntamientos de la entidad y declarará electas a las planillas de Presidente, Vicepresidente y regidores que hubiesen obtenido mayoría de votos, conforme a las siguientes bases:
+En las sesiones verificadas para expedir las constancias de las planillas municipales, el Consejo Electoral del Estado calificará las elecciones de los ayuntamientos de la entidad y declarará electas a las planillas de Presidente, Síndico y regidores que hubiesen obtenido mayoría de votos, conforme a las siguientes bases::
 
 I. El Consejo Electoral del Estado verificará el cumplimiento de los requisitos formales de la elección y asimismo, que los candidatos de la planilla que haya obtenido la mayoría de votos cumplan con los requisitos de elegibilidad previstos por esta ley;
 
@@ -4001,7 +4021,9 @@ b) No se hubiesen instalado éstas y, consecuentemente, la votación no se haya 
 
 V. En el caso de la elección de diputados, cuando los dos integrantes de la fórmula electa sean inelegibles.
 
-En el caso de elecciones de planillas de Presidente, Vicepresidente y regidores, se requerirá que la inelegibilidad afecte, cuando menos a la mitad más uno de los candidatos propietarios.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+En el caso de elecciones de planillas de Presidente, Síndico y regidores, se requerirá que la inelegibilidad afecte, cuando menos a la mitad más uno de los candidatos propietarios.
 
 ###### Artículo 357.
 
@@ -4463,7 +4485,9 @@ III. Confirmar, modificar o revocar los resultados consignados en las actas de c
 
 IV. Confirmar los resultados o en su caso hacer la corrección del cómputo de la circunscripción plurinominal de la elección de diputados por el principio de representación proporcional y de Gobernador del Estado, sólo en el caso de que, en los resultados consignados en el acta respectiva, cuando sean impugnados por error aritmético y éstos fueren determinantes para el resultado de tal elección;
 
-V. Declarar la nulidad de la votación emitida en una o varias casillas, cuando se den las causas previstas en esta ley y modificar en consecuencia, el acta de cómputo municipal para la elección de Presidente, Vicepresidente y regidores;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+V. Declarar la nulidad de la votación emitida en una o varias casillas, cuando se den las causas previstas en esta ley y modificar en consecuencia, el acta de cómputo municipal para la elección de Presidente, Síndico y regidores;
 
 VI. Declarar la nulidad de la votación emitida en una o varias casillas, cuando se den las causas previstas en la presente ley y modificar en consecuencia, el acta de cómputo distrital para la elección de diputados por el principio de mayoría relativa así como el acta de cómputo del Consejo respecto de la elección de Gobernador del Estado;
 
@@ -4748,3 +4772,7 @@ Primero.- El presente decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Se deroga cualquier disposición que se oponga al presente decreto.
 
 Tercero.- Lo dispuesto en el artículo 60 segundo párrafo de esta Ley, no será aplicable a las elecciones que se llevarán a cabo en el año 2000; en este caso, el plazo para que los partidos políticos estatales obtengan su registro vencerá el día último de junio del presente año.
+
+P.O. 5 DE OCTUBRE DE 2000.
+
+ÚNICO.- Las presentes reformas a la Ley Electoral del Estado de Jalisco entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco", pero no se aplicarán al proceso electoral estatal de noviembre de 2000.
