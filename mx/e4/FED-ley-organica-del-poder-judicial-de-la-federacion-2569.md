@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-2569"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-05-26"
-last_updated: "1999-05-18"
+last_updated: "2000-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOPJF"
 
 LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE MAYO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MAYO DE 2000.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de mayo de 1995.
 
@@ -578,7 +578,7 @@ SECCION 1a.
 
 DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 48.
 
@@ -1056,13 +1056,11 @@ Los secretarios técnicos deberán tener título profesional expedido en alguna 
 
 ### CAPITULO UNICO
 
-###### ARTICULO 88.
+###### Artículo 88.
 
-Para su adecuado funcionamiento, el Consejo de la Judicatura Federal contará con los siguientes órganos: el Instituto de la Judicatura, la Visitaduría Judicial, la Contraloría del Poder Judicial de la Federación y el Instituto Federal de Defensoría Pública.
+Para su adecuado funcionamiento, el Consejo de la Judicatura Federal contará con los siguientes órganos: el Instituto de la Judicatura, la Visitaduría Judicial, la Contraloría del Poder Judicial de la Federación, el Instituto Federal de Defensoría Pública y el Instituto Federal de Especialistas de Concursos Mercantiles en los términos que establece la Ley de Concursos Mercantiles.
 
-Con excepción del Director General del Instituto Federal de Defensoría Pública, cuyos requisitos para ser designado se mencionan en la ley de la materia, los demás titulares de los órganos del Consejo de la Judicatura Federal deberán tener título profesional legalmente expedido, afín a las funciones que deban desempeñar, experiencia mínima de cinco años, gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año. Los órganos contarán con el personal que fije el presupuesto.
-
-El Instituto Federal de Defensoría Pública estará vinculado al Consejo de la Judicatura Federal, exclusivamente, administrativa y presupuestalmente.
+Con excepción del Director General del Instituto Federal de Defensoría Pública y de los miembros de la Junta Directiva del Instituto Federal de Especialistas de Concursos Mercantiles, cuyos requisitos para ser designados se mencionan en las leyes de la materia correspondientes, los demás titulares de los órganos del Consejo de la Judicatura Federal deberán tener título profesional legalmente expedido, afín a las funciones que deban desempeñar, experiencia mínima de cinco años, gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año. Los órganos contarán con el personal que fije el presupuesto.
 
 SECCION 2a.
 
@@ -2937,3 +2935,9 @@ D.O.F. 18 DE MAYO DE 1999.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE MAYO DE 2000.
+
+###### ARTÍCULO ÚNICO.
+
+La reforma al artículo 88 de la Ley Orgánica del Poder Judicial de la Federación entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
