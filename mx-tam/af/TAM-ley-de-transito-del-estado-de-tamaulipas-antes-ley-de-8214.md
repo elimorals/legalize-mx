@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transito-del-estado-de-tamaulipas-antes-ley-de-8214"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-30"
-last_updated: "1987-11-30"
+last_updated: "1993-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el lunes 30 de noviembre de 1987.
 
@@ -91,7 +91,9 @@ II.- Organizar la vialidad en el Estado;
 
 III.- Proponer al Titular del Poder Ejecutivo para que éste en cada caso, otorgue y/o cancele permisos y concesiones para la prestación de servicio de transporte en las carreteras estatales, caminos vecinales y demás vías de jurisdicción estatal, incluyendo en este contexto el servicio público para transportación de pasaje en los distintos municipios de la Entidad, recabando cuando lo estime conveniente, opinión de los Ayuntamientos y publicar en el Periódico Oficial del Estado los acuerdos que al respecto así correspondan;
 
-IV.- Aprobar las tarifas del servicio público de transporte;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1993)</small>
+
+IV.- Aprobar las tarifas del servicio público de transporte de pasajeros;
 
 V.- Elaborar y expedir láminas de identificación y los documentos relacionados con la circulación de los vehículos;
 
@@ -229,6 +231,8 @@ III.- Mixto.
 
 Servicio Público de Transporte de Pasajeros y de Carga, es aquel que se presta regular y uniformemente en las vías públicas de jurisdicción Estatal mediante una retribución de los usuarios.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 31.
 
 La concesión o permiso del servicio público de transporte de pasajeros, estará sujeta a la ruta, itinerarios, horarios, tarifas, modalidades y restricciones que determine el Reglamento.
@@ -243,9 +247,13 @@ a).- Arrendamiento de vehículos sin chofer;
 
 b).- Vehículos de sitio;
 
-c).- Vehículos de ruta; y
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
-d).- Servicio exclusivo de turismo.
+c).- Vehículos de alquiler libres;
+
+d).- Vehículos de ruta; y
+
+e).- Servicio exclusivo de turismo.
 
 II.- De carga:
 
@@ -253,17 +261,17 @@ a).- Servicio de carga en general;
 
 b).- Servicio express; y
 
-c).- Servicio especial.
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
+
+c).- Vehículos en arrendamiento.
+
+d).- Servicio especial.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 33.
 
-Las concesiones y/o permisos para el servicio público de transporte se otorgarán conforme a las disposiciones siguientes:
-
-I.- Su expedición se hará a favor de personas físicas o morales, mexicanas por nacimiento las primeras y compuestas por éstas las segundas.
-
-II.- Se preferirá a los Sindicatos, Sociedades, Cooperativas del transporte y a los ciudadanos residentes en el Estado.
-
-En el otorgamiento de concesiones y/o permisos, se preferirá a quienes garanticen una mejor prestación del servicio.
+Las concesiones o permisos para el Servicio Público de Transporte se otorgarán en favor de aquellas personas físicas o morales mexicanas que garanticen una mejor prestación del servicio y se obliguen a respetar la autonomía del usuario para que realice la contratación correspondiente.
 
 ###### ARTICULO 34.
 
@@ -287,19 +295,25 @@ III.- Que la Secretaría declare justificada la aptitud legal y material del sol
 
 El acuerdo por el cual se otorga una concesión o un permiso de Servicio Público de Transporte, deberá publicarse en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 38.
 
-Los servicios de Transporte Escolar, de Funerarias, y de personal de empresas, sólo requerirán para su funcionamiento del permiso que expedida el Titular del Poder Ejecutivo debiendo de reunir los requisitos de seguridad e higiene que se señalen en esta Ley y su Reglamento.
+Las personas físicas o morales que realicen el servicio de transporte en las modalidades de escolar, de funeraria, de carga o de personal, con vehículos de su propiedad, para la satisfacción de sus necesidades, sólo requerirán de autorización expedida por el Titular de la Secretaría, debiendo acreditar para tal caso, que sus vehículos se encuentran provistos de los equipos y dispositivos para garantizar una eficiente prestación del servicio y que además, reúnen los requisitos de seguridad e higiene previstos en esta Ley y su Reglamento.
 
 ### CAPITULO VII. DE LOS DERECHOS Y OBLIGACIONES DE LOS CONCESIONARIOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 39.
 
-La concesión del servicio público de transporte otorga a su titular los derechos siguientes:
+La concesión o permiso del servicio público de transporte otorga a su titular los derechos siguientes:
 
 I.- Operar el servicio público en las condiciones y modalidades autorizadas;
 
-II.- Cobrar a los usuarios las tarifas aprobadas previamente por la Secretaria; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1993)</small>
+
+II.- Cobrar a los usuarios la retribución correspondiente por la prestación del servicio, en los términos señalados por la Ley;
 
 III.- Participar en la Comisión Consultiva de Tránsito y Transporte, cuando para ello sea convocado por el Coordinador General.
 
@@ -309,21 +323,27 @@ Son obligaciones de los Concesionarios del Servicio Público de Transporte, las 
 
 I.- Prestar el servicio en las condiciones y modalidades de la concesión;
 
-II.- Respetar las tarifas, horarios, rutas e itinerarios aprobados por la Secretaría;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1993)</small>
+
+II.- Respetar las tarifas, horarios, rutas e itinerarios aprobados por la Secretaría, para el servicio público de transporte de pasajeros;
 
 III.- Conservar los vehículos, terminales e instalaciones accesorias en condiciones que garanticen la seguridad, funcionalidad e higiene;
 
 IV.- Cubrir a los usuarios y a los terceros, los daños que se les pudiera causar con la prestación del servicio;
 
-V.- Abastecerse de efectuar actos que constituyan competencia desleal a otros concesionarios; y
+V.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1993)
 
 VI.- Otorgar las facilidades necesarias a las autoridades de la Secretaría, en la inspección de vehículos, instalaciones y documentos relacionados con la concesión.
 
-### CAPITULO VIII. DE LA CANCELACION DE CONCESIONES Y PERMISOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 1993)</small>
+
+### CAPITULO VIII. DE LA SUSPENSION Y CANCELACION DE LICENCIAS, CONCESIONES Y PERMISOS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 41.
 
-Las concesiones de Servicio Público de Transporte se cancelarán por el Titular del Poder Ejecutivo:
+Las concesiones o permisos de servicio público de transporte se cancelarán por el Titular del Poder Ejecutivo por las siguientes causas:
 
 I.- Por transferir la concesión sin autorización de la Secretaría;
 
@@ -333,13 +353,31 @@ III.- Por no iniciar la prestación del servicio dentro del plazo que fije la au
 
 IV.- Por no cumplir con las condiciones y modalidades en la prestación del servicio, establecidas en la concesión;
 
-V.- Por no acondicionar el equipo e instalaciones en el plazo fijado por el Reglamento, cuando dejen de ser adecuados para la prestación del servicio;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
-VI.- Por no sujetarse a las tarifas e itinerarios autorizados;
+V.- Por no reunir los vehículos los requisitos exigidos por esta Ley y su Reglamento, para garantizar una eficiente prestación del servicio;
 
-VII.- Por abandonar el servicio concesionado más de treinta días sin causa justificada.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
-VIII.- Por modificar sin autorización las características señaladas en la concesión o permiso.
+VI.- Por no sujetarse a las tarifas e itinerarios autorizados para el servicio público de transporte de pasajeros;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1993)</small>
+
+VII.- Por interrumpir la prestación del servicio concesionado durante treinta días, sin causa justificada, acumulados dentro de un período de ciento ochenta días;
+
+VIII.- Por modificar sin autorización las características señaladas en la concesión o permiso;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1993)</small>
+
+IX.- Por conducir el concesionario el vehículo utilizado para la prestación del servicio en estado de ebriedad o bajo la influencia de estupefacientes, drogas o sustancias similares; o permitir que se conduzca de manera reiterada en las mismas condiciones;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1993)</small>
+
+X.- Por conducir o permitir que se conduzca el vehículo utilizado en la prestación del servicio con exceso de velocidad en forma reiterada, según criterio de la Secretaría. Para este efecto, la Secretaría recabará las boletas de infracción correspondientes para integrar los expedientes respectivos; o,
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1993)</small>
+
+XI.- Impedir, por vías de hecho, la autonomía de los usuarios en la contratación de los servicios que requieran o, interrumpir el libre tránsito de vehículos o personas;
 
 ###### ARTICULO 42.
 
@@ -349,13 +387,33 @@ I.- Por el incumplimiento de las condiciones y modalidades exigidas para su otor
 
 II.- Por las causas previstas en el Artículo 41, que sean aplicables.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 43.
 
-La determinación que cancele una concesión o permiso, se decretará sin perjuicio de que se sancionen otras infracciones en que hayan incurrido los prestadores del servicio.
+Procede la suspensión de licencia, concesión o permiso hasta por un término de 1 a 6 meses a juicio de la Secretaria:
+
+I.- Por conducir o permitir que se conduzca el vehículo utilizado en la prestación del servicio con exceso de velocidad;
+
+II.- Por permitir que se conduzca el vehículo utilizado para la prestación del servicio de Transporte, en estado de ebriedad o bajo la influencia de estupefacientes, drogas o sustancias similares;
+
+III.- Al que habiendo cometido una infracción se dé a la fuga.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 44.
 
-Para decretar la cancelación de una concesión o permiso, se oirá al interesado en la forma prevista por el Reglamento.
+Para la cancelación de una concesión o permiso, se observará el procedimiento siguiente:
+
+I.- La Secretaría deberá notificar al concesionario o permisionario las causas que motivan la iniciación del procedimiento, citándolo a una audiencia de pruebas y alegatos, con el apercibimiento de que en caso de que no comparezca sin motivo justificado, se le tendrán por ciertas las causas de cancelación materia del procedimiento.
+
+II.- La Secretaría valorará las pruebas aportadas y en un término de 10 días hábiles emitirá el Proyecto de resolución, turnándolo de inmediato al Ejecutivo para su sanción correspondiente.
+
+III.- El Ejecutivo, en caso de encontrar procedente la cancelación, emitirá el Acuerdo respectivo, ordenando la notificación al interesado y su publicación en el Periódico Oficial del Estado.
+
+Contra el Acuerdo que decrete la cancelación de la concesión o permiso no procede recurso alguno.
+
+La determinación que cancele una concesión o permiso, se decretará sin perjuicio de que se sancionen otras infracciones en que hayan incurrido los prestadores del servicio.
 
 ###### ARTICULO 45.
 
@@ -367,9 +425,11 @@ El Estado tendrá en todo tiempo la facultad de prestar el servicio público de 
 
 En aquellos Municipios en los que lo requiera el interés público, se creará una Comisión Consultiva de Tránsito y Transporte, como un organismo técnico y de consulta que promueva la participación social en la consecución de los fines que esta Ley establece.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 47.
 
-Cada Comisión se integrará por un Coordinador General, que será el Presidente Municipal; un Representante del Gobierno del Estado, designado por el Ejecutivo; un representante de la Secretaría; y el número de representantes de los usuarios y de los concesionarios del Servicio Público de Transporte, que determine conveniente el Coordinar General.
+Cada comisión se integrará por un Coordinador General, que será el Presidente Municipal; un representante del Gobierno del Estado, designado por el Ejecutivo; un representante de la Secretaría; un representante de la Secretaría de Desarrollo Industrial, Comercial y Turístico; un representante de la Secretaría de Hacienda, y el número de representantes de los usuarios y de los concesionarios o permisionarios del servicio público de transporte, que determine la Secretaría.
 
 ###### ARTICULO 48.
 
@@ -393,15 +453,25 @@ I.- Amonestación;
 
 II.- Multa;
 
-III.- Suspensión de licencia por tiempo determinado o indefinido.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1993)</small>
+
+III.- Suspensión de licencia, concesión o permiso;
 
 IV.- Cancelación de permiso, concesión o de licencia; o
 
 V.- Arresto hasta por 36 horas.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
+
+Con excepción de lo señalado en la fracción IV, las sanciones serán determinadas y aplicadas por la Secretaría.
+
 ###### ARTICULO 50.
 
 Queda prohibido a las autoridades de Tránsito, con motivo de las infracciones a esta Ley o a su Reglamento, retener las placas de circulación, la licencia de conducir o el vehículo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
+
+La Secretaría podrá retener la licencia, las placas o el vehículo, a los concesionarios o permisionarios que cometan infracciones señaladas en esta Ley o su Reglamento.
 
 ###### ARTICULO 51.
 
@@ -428,3 +498,11 @@ SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 3 de noviem
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los doce días del mes de noviembre de mil novecientos ochenta y siete.- El Gobernador Constitucional del Estado, ING. AMERICO VILLARREAL GUERRA.- El Secretario General de Gobierno, LIC. HERIBERTO BATRES GARCIA.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE DICIEMBRE DE 1993.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
