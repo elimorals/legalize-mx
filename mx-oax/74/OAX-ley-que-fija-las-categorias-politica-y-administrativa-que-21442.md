@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-fija-las-categorias-politica-y-administrativa-que-21442
 country: "mx"
 rank: "ley"
 publication_date: "1942-06-13"
-last_updated: "1942-06-13"
+last_updated: "1974-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY QUE FIJA LAS CATEGORIAS POLITICA Y ADMINISTRATIVA QUE EN LO SUCESIVO OSTENTARAN LOS DIFERENTES POBLADOS DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 1974.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el 13 de Junio de 1942.
 
@@ -45,11 +45,13 @@ pueblos,
 
 rancherías,
 
-ranchos; y
+> <small>(DEROGADA, P.O. 23 DE FEBRERO DE 1974)</small>
 
 Congregaciones.
 
-I.- Dentro de la categoría de CIUDADES, se considerarán las poblaciones con una densidad no menor de cinco mil habitantes y que reúnan además los requisitos siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE FEBRERO DE 1974)</small>
+
+I.- Dentro de la categoría de Ciudades se considerarán las poblaciones con una densidad no menor de VEINTE MIL HABITANTES y que reúnan, además, los siguientes requisitos:
 
 a).- Que tengan establecidos sus servicios públicos, provisión de agua, saneamiento, luz, pavimentos, policía, salubridad, etc.
 
@@ -59,7 +61,9 @@ c).- Que el 70% de los habitantes como mínimo se dediquen a actividades propias
 
 ch).- Que sea centro distribuidor de productos naturales e industriales de una región.
 
-II.- Tendrán la categoría política de Villas, los pueblos que por su importancia demográfica merezcan tal denominación, acreditando una población no menor de cuatro mil habitantes y que cuenten con los siguientes requisitos:
+> <small>(REFORMADO PRIMER PARRAO, P.O. 23 DE FEBRERO DE 1974)</small>
+
+II.- Tendrán la categoría política de Villas los pueblos que por su importancia demográfica merezcan tal denominacón (sic) acreditando una población no menor de QUINCE MIL HABITANTES y que cuenten con los siguientes requisitos:
 
 a).- Que la localidad haya sido antes pueblo.
 
@@ -75,9 +79,11 @@ III.- Dentro de la denominación de PUEBLOS, se considerarán los núcleos de po
 
 IV.- El núcleo de población formado por 500 o más habitantes, será reconocido con el nombre de ranchería.
 
-V.- Con la designación de ranchos, serán reconocidas las poblaciones campesinas ejidales que vivan del cultivo de la tierra, asentados de un modo permanente, e integradas cuando menos de 200 habitantes.
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 1974)</small>
 
-VI.- Por último se reconocerá con la denominación de Congregaciones los núcleos de población que se constituyan en un lugar determinado con elementos provenientes de otra u otras poblaciones, con menos de doscientos habitantes.
+V.- Con la designación de Congregaciones, serán reconocidos los núcleos de poblaciones campesinas o ejidales que vivan del cultivo de la tierra, asentados de un modo permanente o núcleos de población que se constituyan en un lugar determinado con elementos provenientes de otra u otras poblaciones y en ambos casos estén integrados en un número inferior a CINCO MIL HABITANTES.
+
+VI.- (N. DE E. EL CONTENIDO DE LA PRESENTE FRACCION SE FUSIONA CON EL DE LA FRACCION V, SEÑALANDOLO ASI EL LEGISLADOR, P.O. 23 DE FEBRERO DE 1974)
 
 ###### Articulo 2o.
 
@@ -136,3 +142,9 @@ Y lo comunico a usted para su conocimiento y fines consiguientes.
 Sufragio Efectivo. No Reelección. Oaxaca de Juárez, a veintinueve de mayo de mil novecientos cuarenta y dos.- El Subsecretario Enc. del Despacho, Jorge Fernando Iturribarría.- Rúbricas.
 
 Al C.............
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE FEBRERO DE 1974.
+
+UNICO.- El presente decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado y no tendrá efecto retroactivo.
