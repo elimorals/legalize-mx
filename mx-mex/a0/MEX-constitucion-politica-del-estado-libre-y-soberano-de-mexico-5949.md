@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1941-10-22"
+last_updated: "1941-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE OCTUBRE DE 1941.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 1941.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -74,6 +74,18 @@ Artículo Unico.- Este Decreto surtirá efectos Constitucionales a partir de la 
 G.G. 22 DE OCTUBRE DE 1941.
 
 Artículo Tercero.- Estas reformas entrarán en vigor el día de su publicación en la Gaceta del Gobierno.
+
+G.G. 20 DE DICIEMBRE DE 1941.
+
+DECRETO NUMERO 70, POR EL QUE SE REFORMA EL ARTICULO 209 Y SE DEROGAN LOS ARTICULOS 210, 211, 212, 213, 214 Y 215 DE LA CONSTITUCION PARTICULAR DEL ESTADO.
+
+UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
+
+G.G. 20 DE DICIEMBRE DE 1941.
+
+DECRETO NUMERO 73, POR EL QUE SE REFORMAN LOS ARTICULOS 70 FRACCIONES XI, XII, XIV Y XV, 104, 107, 109 FRACCION VIII, 115 Y 117, SE ADICIONAN LOS ARTICULOS 73 Y 89 DE LA CONSTITUCION PARTICULAR DEL ESTADO CON UNA FRACCION EL PRIMERO Y CON DOS EL SEGUNDO.
+
+UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
 
 ## TITULO PRIMERO. DE LA CONDICION POLITICA DE LAS PERSONAS
 
@@ -489,11 +501,13 @@ IX. Convocar a elecciones de Gobernador y Diputados en los períodos constitucio
 
 X. Hacer la computación de votos en la elección de Gobernador y declarar electo al ciudadano que hubiere obtenido la mayoría;
 
-XI. Erigirse en Colegio Electoral para nombrar Gobernador substituto en los casos que determina la presente Constitución y para hacer la elección de Magistrados del Tribunal Superior de Justicia y de Jueces de primera Instancia, con arreglo a la misma Constitución;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 1941)</small>
 
-> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+XI. Erigirse en Colegio Electoral para nombrar Gobernador substituto en los casos que determina la presente Constitución. Los nombramientos de Magistrados del Tribunal Superior de Justicia del Estado y de los Jueces de Primera Instancia serán hechos por el Gobernador del Estado y sometidos a la aprobación de la Legislatura, la que la otorgará o negará, dentro del término improrrogable de diez días. Si la Cámara no resolviere dentro de dicho término, se tendrá por aprobados los nombramientos. Sin la aprobación de la Cámara no podrán tomar posesión los Magistrados designados por el Gobernador. En el caso de que la Legislatura no apruebe dos nombramientos sucesivos respecto de la misma vacante, el ciudadano Gobernador hará un tercer nombramiento, que surtirá sus efectos desde luego y que será sometido a la aprobación de la Cámara en el siguiente período de sesiones; en este período, dentro de los primeros diez días, la Cámara deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado o Juez nombrado continuará en sus funciones, con el carácter de definitivo. Si la Cámara desecha el nombramiento, cesará desde luego en sus funciones el Magistrado o Juez Provisional, y el ciudadano Gobernador someterá nuevo nombramiento a la aprobación de la Cámara, en los términos señalados. En los casos de faltas temporales por más de tres de meses, de los Magistrados o Jueces, o en las definitivas por defunción, renuncia o incapacidad, el Gobernador someterá un nuevo nombramiento a la aprobación de la Legislatura y si ésta no estuviese en sesiones a la Comisión Permanente, quien dará su aprobación provisional mientras se reúne aquélla y da la aprobación definitiva.
 
-XII. Recibir la protesta del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia y del Contador de Glosa, con arreglo a las siguientes fórmulas:
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 1941)</small>
+
+XII. Recibir la protesta del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia, de los Jueces de Primera Instancia y del Contador de Glosa, con arreglo a las siguientes fórmulas:
 
 El Gobernador del Estado protestará en los siguientes términos:
 
@@ -507,11 +521,13 @@ Uno de los Secretarios de la Legislatura interrogará:
 
 XIII. Nombrar y remover a los empleados de su Secretaría y a los de la Contaduría General de Glosa;
 
-XIV. Resolver sobre las renuncias de sus propios miembros, del Gobernador, de los Magistrados del Tribunal Superior de Justicia, y de los funcionarios y empleados que fueren de su nombramiento;
+(REFORMADA, G.G. 20 DE DICIEMBRE DE 1941)(F. DE E., G.G. 27 DE DICIEMBRE DE 1941)
 
-> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+XIV. Resolver sobre las renuncias de sus propios miembros, del Gobernador, de los Magistrados del Tribunal Superior de Justicia y Jueces de Primera Instancia, cuando habiendo sido aprobadas previamente por el Ejecutivo, las de los Funcionarios Judiciales, les sean sometidas a su aprobación, y de los funcionarios y empleados que fueren, de su nombramiento.
 
-XV. Conceder licencias a sus propios miembros, al Gobernador, a los Magistrados del Tribunal Superior de Justicia y a los Jueces de Primera Instancia, conforme a la presente Constitución y Leyes respectivas.
+(REFORMADA, G.G. 20 DE DICIEMBRE DE 1941)(F. DE E., G.G. 27 DE DICIEMBRE DE 1941)
+
+XV. Conceder, licencias a sus propios miembros, al Gobernador, a los Magistrados del Tribunal Superior de Justicia y a los Jueces de Primera Instancia, cuando la de los Funcionarios Judiciales, excedieren de tres meses y les sean sometidas por el Ejecutivo.
 
 XVI. (DEROGADA, G.G. 22 DE OCTUBRE DE 1941)
 
@@ -595,7 +611,9 @@ V. Conceder o negar las licencias a que se refiere la fracción XV del artículo
 
 VI. Dictaminar sobre todos los asuntos que quedan pendientes de resolución a fin de que continúen sus trámites al abrirse los períodos de sesiones;
 
-VII. (DEROGADA, G.G. 22 DE OCTUBRE DE 1941)
+> <small>(ADICIONADA, G.G. 20 DE DICIEMBRE DE 1941)</small>
+
+VII. Otorgar o negar su aprobación a los nombramientos de Magistrados y Jueces de Primera Instancia, así como a las solicitudes de licencia de los mismos funcionarios que les someta el Gobernador del Estado.
 
 VIII. Cumplir con las obligaciones que le impongan la Legislatura siempre que no fueren contrarias a las leyes.
 
@@ -779,6 +797,14 @@ XXV. Prestar al Poder Judicial los auxilios que necesite para el ejercicio exped
 
 XXVI. Hacer que las sentencias ejecutoriadas dictadas por los Tribunales en materia penal, sean debidamente ejecutadas, sin perjuicio de la facultad a que se refiere la fracción IX del artículo anterior.
 
+> <small>(ADICIONADA, G.G. 20 DE DICIEMBRE DE 1941)</small>
+
+XXVII. Nombrar a los Magistrados del Tribunal Superior de Justicia y a los Jueces de Primera Instancia, sometiendo los nombramientos a la aprobación de la Legislatura o de la Comisión Permanente, en su caso.
+
+> <small>(ADICIONADA, G.G. 20 DE DICIEMBRE DE 1941)</small>
+
+XXVIII. Aceptar las renuncias de los Magistrados del Tribunal Superior de Justicia y de los Jueces de Primera Instancia, sometiéndolas a la aprobación de la Legislatura o de la Comisión Permanente, en su caso, así como acordar las licencias de esos funcionarios cuando éstas excedan de tres meses, sometiendo su aprobación al mismo Cuerpo Legislativo.
+
 ###### Art. 90.
 
 El Gobernador no puede:
@@ -883,11 +909,11 @@ V. Ser de una honradez y probidad notorias.
 
 No podrán reunirse en el Tribunal Superior de Justicia, dos o más Magistrados que sean parientes entre sí, en línea recta, o por consanguinidad dentro del cuarto grado o por afinidad dentro del segundo.
 
-> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 1941)</small>
 
 ###### Art. 104.
 
-Las faltas temporales por licencia, enfermedad, ausencia o impedimento de los Magistrados, se suplirán por los Jueces de Primera Instancia, en los términos que establezca la Ley Orgánica respectiva. Las faltas absolutas por fallecimiento o renuncia, serán cubiertas por elección de la Legislatura.
+Las faltas temporales por licencia, enfermedad, ausencia o impedimento de los Magistrados, se suplirán por los Jueces de Primera Instancia, en los términos que establece la Ley Orgánica respectiva; las faltas absolutas por fallecimiento o renuncia, serán cubiertas en la forma prevista por esta Constitución.
 
 ###### Art. 105.
 
@@ -897,11 +923,13 @@ Los Magistrados electos para cubrir las faltas absolutas a que se refiere el art
 
 Aunque los Magistrados nuevamente electos no se presenten a tomar posesión de sus cargos en el tiempo en que deban hacerlo, cesarán sin embargo, los anteriores, entrando desde luego en funciones los que se presenten, y en lugar de los otros, los suplentes respectivos con arreglo a las leyes relativas.
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 1941)</small>
+
 #### SECCION PRIMERA. DEL EJERCICIO DEL PODER JUDICIAL
 
 ###### Art. 107.
 
-El cargo de Magistrado del Tribunal Superior de Justicia no es renunciable sino por causa grave que calificará la Legislatura, ante la que deberá presentarse la renuncia.
+El cargo de Magistrado del Tribunal Superior de Justicia no es renunciable, sino por causa grave que calificará el Gobernador del Estado, quien la someterá a la aprobación de la Legislatura.
 
 ###### Art. 108.
 
@@ -926,6 +954,18 @@ VI. Dirimir las competencias de jurisdicción que se susciten entre los Jueces i
 VII. Formar el reglamento interior del Tribunal Superior, pasándolo a la Legislatura para su aprobación;
 
 VIII. Conceder licencia a los Jueces de primera Instancia, hasta por tres meses, nombrando, en su caso, los sustitutos respectivos;
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 1941)</small>
+
+a).- Remover a los Jueces, acordando su traslado a otro Distrito Judicial, cuando así lo exija el servicio público, a juicio del Tribunal o lo solicite el Gobernador del Estado.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 1941)</small>
+
+b).- Concederles licencias, en los términos de la Ley Orgánica respectiva.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 1941)</small>
+
+c).- Nombrar a todos los funcionarios y empleados del Ramo Judicial, a propuesta de los titulares de las oficinas correspondientes y removerlos cuando, a juicio del Tribunal, hubiere causa motivada.
 
 IX. Ejercer las demás atribuciones que le señale la ley orgánica respectiva.
 
@@ -971,23 +1011,27 @@ Los cargos de Magistrados y Jueces de primera Instancia, son incompatibles con e
 
 ###### Art. 115.
 
-Los Jueces de primera Instancia, serán nombrados libremente por la Legislatura, durarán en su encargo cuatro años y no podrán ser depuestos sino por sentencia del Tribunal competente, ni suspensos sino por acusación legal y previa la declaración respectiva de haber lugar a formación de causa.
+Los Jueces de Primera Instancia serán nombrados en la forma prevista por esta Constitución, durarán en su encargo cuatro años y no podrán ser depuestos sino por sentencia del Tribunal competente, ni suspensos sino por acusación legal y previa la declaración respectiva de haber lugar a formación de causa en su contra.
 
 ###### Art. 116.
 
 Los Jueces de primera Instancia deberán tener los mismos requisitos que los Magistrados, menos el relativo a la edad y tiempo de ejercicio de la profesión, bastándoles ser de veinticinco años cumplidos y tener dos años de práctica forense.
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 1941)</small>
+
 ###### Art. 117.
 
-El cargo de Juez de primera Instancia no es renunciable sino por causa grave que calificará la Legislatura ante quien se presentará la renuncia.
+El cargo de Juez de Primera Instancia no es renunciable sino por causa grave que calificará el Gobernador del Estado y si éste acepta la renuncia, la enviará a la Legislatura para su aprobación, y en sus recesos a la Comisión Permanente.
 
 ###### Art. 118.
 
 Habrá Jueces de primera Instancia en todas las Cabeceras de Distrito Judicial.
 
-#### SECCION SEGUNDA. DE LAS ATRIBUCIONES DEL AYUNTAMIENTO
+#### SECCION PRIMERA. DE LA CONSTITUCION DE LOS AYUNTAMIENTOS
 
-#### SECCION TERCERA. DE LOS PRESIDENTES MUNICIPALES
+> <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1927)</small>
+
+#### SECCION SEGUNDA. DE LAS ATRIBUCIONES DEL AYUNTAMIENTO
 
 ###### Art. 119.
 
@@ -1023,6 +1067,8 @@ Se deposita el ejercicio del Poder Judicial del Estado, en un Cuerpo Colegiado q
 
 #### SECCION TERCERA. DE LOS JUECES DE PRIMERA INSTANCIA
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 1941)</small>
+
 ## TITULO UNICO. DE LA ADMINISTRACION INTERIOR DE LOS MUNICIPIOS
 
 ### CAPITULO PRIMERO. DE LAS AUTORIDADES ENCARGADAS DE LA ADMINISTRACION PUBLICA DE LOS MUNICIPIOS
@@ -1037,11 +1083,7 @@ En ningún caso podrán desempeñar los Ayuntamientos como cuerpos colectivos, l
 
 ### CAPITULO SEGUNDO. DE LOS AYUNTAMIENTOS
 
-DE LA CONSTITUCION DE LOS AYUNTAMIENTOS
-
-> <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1927)</small>
-
-#### SECCION CUARTA. DEL DESPACHO DE LOS ASUNTOS MUNICIPALES
+#### SECCION TERCERA. DE LOS PRESIDENTES MUNICIPALES
 
 ###### Art. 135.
 
@@ -1087,7 +1129,7 @@ II. Los empleados públicos dependientes de la Federación o del Estado.
 
 III. Los ministros de cualquier culto.
 
-#### SECCION QUINTA. DE LOS JUECES CONCILIADORES
+#### SECCION CUARTA. DEL DESPACHO DE LOS ASUNTOS MUNICIPALES
 
 ###### Art. 142.
 
@@ -1157,9 +1199,7 @@ III. Imponer contribuciones que no estén especificadas en su respectiva ley de 
 
 IV. Conceder licencias para juegos de azar.
 
-#### SECCION SEXTA. DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS MUNICIPALES
-
-> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+#### SECCION QUINTA. DE LOS JUECES CONCILIADORES
 
 ###### Art. 155.
 
@@ -1173,7 +1213,9 @@ III. Ser el órgano de comunicación de los Ayuntamientos que presiden con los d
 
 IV. Ejecutar con arreglo a las leyes las resoluciones dictadas por los Jueces Conciliadores.
 
-#### SECCION PRIMERA. DE LA HACIENDA PUBLICA DEL ESTADO
+#### SECCION SEXTA. DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS MUNICIPALES
+
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 1935)</small>
 
 ###### Art. 156.
 
@@ -1185,7 +1227,7 @@ II. Autorizar con su firma las disposiciones de observancia general que el presi
 
 III. Todas las demás que determinen las respectivas leyes reglamentarias.
 
-#### SECCION SEGUNDA. DE LA TESORERIA GENERAL
+#### SECCION PRIMERA. DE LA HACIENDA PUBLICA DEL ESTADO
 
 ###### Art. 157.
 
@@ -1213,7 +1255,7 @@ Los Jueces Conciliadores se considerarán como auxiliares de los Jueces y Tribun
 
 Los Jueces Conciliadores aplicarán dentro de los Municipios a que pertenezcan y con la competencia que les señalen las leyes de organización de Tribunales, las leyes civiles y penales que para todo el territorio del Estado expida la Legislatura del mismo, ajustando todos sus actos a las leyes de procedimientos que expida también la expresada Legislatura.
 
-#### SECCION PRIMERA. DE LA HACIENDA PUBLICA DE LOS MUNICIPIOS
+#### SECCION SEGUNDA. DE LA TESORERIA GENERAL
 
 ###### Art. 163.
 
@@ -1289,7 +1331,7 @@ El desempeño de las funciones del Procurador General y de las de Agente del Min
 
 ### CAPITULO SEGUNDO. BASES DE LA ORGANIZACION DE LA HACIENDA PUBLICA DEL ESTADO
 
-#### SECCION SEGUNDA. DE LAS TESORERIAS MUNICIPALES
+#### SECCION PRIMERA. DE LA HACIENDA PUBLICA DE LOS MUNICIPIOS
 
 ###### Art. 177.
 
@@ -1445,37 +1487,35 @@ Los plazos de pago y los réditos de los precios, podrán ser los que determina 
 
 El Estado tendrá en todo tiempo derecho de rectificar los valores con que aparezcan inscriptas las propiedades raíces rústicas y urbanas, en los registros que se lleven para el pago de las contribuciones territoriales. Se concede acción popular para denunciar los fraudes que se cometan contra la Hacienda pública, por la ocultación del verdadero valor de las fincas rústicas y urbanas en los expresados registros; y en caso de que la diferencia entre el valor de la inscripción y el valor real de dichas fincas exceda de un treinta por ciento, se abonará al denunciante el cincuenta por ciento de los impuestos causados por esa diferencia, durante un año.
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 1941)</small>
+
 ###### Art. 209.
 
-De acuerdo con lo dispuesto en el párrafo séptimo del artículo 27 de la Constitución Federal, el Estado tendrá, en todo tiempo, el derecho de expropiar a los particulares de sus fincas rústicas y urbanas, por el valor con que dichas fincas aparezcan inscriptas en los registros llevados para el pago de las contribuciones territoriales directas, pagando ese valor con el aumento de un diez por ciento. El Estado podrá transferir ese derecho a los particulares cuando éstos paguen a los dueños de las propiedades el valor de la inscripción aumentado con el veinte por ciento.
+De acuerdo con lo dispuesto en el párrafo segundo y en la parte segunda de la fracción VI del párrafo séptimo del artículo 27 de la Constitución Federal, el Gobierno del Estado sólo podrá expropiar por causa de utilidad pública y mediante indemnización; con ese objeto la Ley Reglamentaria respectiva determinará los casos en que sea de utilidad pública la ocupación de la propiedad privada y de acuerdo con esa Ley la autoridad administrativa hará la declaración correspondiente. El precio que se fijará como indemnización a la cosa expropiada, se basará en la cantidad que como valor fiscal de ella figure en las oficinas recaudadoras, ya sea que este valor haya sido manifestado por el propietario, o simplemente aceptado por él de un modo tácito por haber pagado sus contribuciones con esta base. El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de la asignación del valor fiscal, será lo único que deberá quedar sujeto a juicio pericial y a resolución judicial. Esto mismo se observará cuando se trate de objetos cuyo valor no esté fijado en las oficinas rentísticas.
 
 ###### Art. 210.
 
-En los casos del párrafo tercero del artículo 27 de la Constitución Federal, o del primer inciso del párrafo octavo del mismo artículo 27 y de acuerdo con lo dispuesto en el párrafo décimo del propio artículo, el Ejecutivo del Estado, hará la declaración motivada respectiva y la remitirá al Procurador General de Hacienda del Estado, para que proceda a promover el respectivo juicio de expropiación, por medio del Agente que corresponda.
+(DEROGADO, G.G. 20 DE DICIEMBRE DE 1941)
 
 ###### Art. 211.
 
-El juicio a que se refiere el artículo anterior, se seguirá ante el Juez de primera Instancia del Distrito judicial en que se encuentre la propiedad, materia de la expropiación, siendo parte en él, el Procurador General de Hacienda, por sí o por medio de sus Agentes, y el dueño de dicha propiedad.
+(DEROGADO, G.G. 20 DE DICIEMBRE DE 1941)
 
 ###### Art. 212.
 
-El juicio de expropiación será sumario, y una vez que en él hayan sido presentadas la demanda y su contestación, el Juez dictará resolución interlocutoria, mandando desde luego que la expropiación se ejecute, con la reserva de lo que determine a su tiempo la sentencia definitiva, cuando cause ejecutoria.
+(DEROGADO, G.G. 20 DE DICIEMBRE DE 1941)
 
 ###### Art. 213.
 
-Dictada la resolución interlocutoria a que se refiere el artículo anterior, se abrirá por cuerda separada el incidente de ejecución, en el que se dará comisión a las autoridades administrativas para la ocupación, administración, remate, venta y demás aplicaciones que deban darse a la propiedad materia de la expropiación de que se trata.
+(DEROGADO, G.G. 20 DE DICIEMBRE DE 1941)
 
 ###### Art. 214.
 
-La sentencia definitiva del juicio sumario sobre expropiación resolverá si ésta ha sido o no procedente con arreglo a derecho; en caso de ser procedente, la misma sentencia mandará que todo lo hecho por las autoridades administrativas, quede firme e irrevocable, y que se haga el pago de la indemnización; en caso de no ser procedente, la propia sentencia mandará que lo que conserve su anterior estado sea inmediatamente devuelto y que lo que haya sido consumado conforme a derecho, quede firme e irrevocable, pagando por ello la indemnización que corresponda a la expropiación, con la correspondiente a los daños y perjuicios.
-
-> <small>(REFORMADO, G.G. EL 27 DE DICIEMBRE DE 1939)</small>
+(DEROGADO, G.G. 20 DE DICIEMBRE DE 1941)
 
 ###### Art. 215.
 
-Se exceptúa de lo dispuesto en los artículos 210, 211, 212, 213 y 214, el procedimiento de expropiación que tenga por causa de utilidad pública la planificación de los centros urbanos, comprendiendo la apertura de nuevas vías públicas, la rectificación, prolongación ampliación y mejoramiento de las vías existentes, la ampliación de centros de población, la creación de plazas, jardines y parques, la localización, construcción y acondicionamiento de edificios públicos como escuelas, mercados y rastros; el estudio y ejecución de obras relativas a servicios municipales y a mejoramiento de los servicios existentes, como saneamiento, abastecimiento de aguas, desagüe y limpia.
-
-Para la expropiación por las causas de utilidad pública a que se refiere este artículo, se seguirá el procedimiento que determine el Reglamento que se expida oportunamente y que comprenderá la cooperación de los particulares, tomando en cuenta la plusvalía de los inmuebles ubicados en la zona mejorada.
+(DEROGADO, G.G. 20 DE DICIEMBRE DE 1941)
 
 ###### Art. 216.
 
