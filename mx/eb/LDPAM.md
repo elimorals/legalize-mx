@@ -4,7 +4,7 @@ identifier: "LDPAM"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-25"
-last_updated: "2002-06-25"
+last_updated: "2005-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25062&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,9 @@ abbreviation: "LDPAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ENERO DE 2005.
 
-Ley Publicada en la Primera Sección del Diario Oficial de la Federación, el martes 25 de junio de 2002.
+Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 25 de junio de 2002.
 
 LEY de los Derechos de las Personas Adultas Mayores.
 
@@ -84,9 +84,7 @@ V. Género. Conjunto de papeles, atribuciones y representaciones de hombres y mu
 
 VI. Geriatría. Es la especialidad médica dedicada al estudio de las enfermedades propias de las personas adultas mayores;
 
-VII. Gerontología. Estudio científico sobre la vejez y de las cualidades y fenómenos propios de
-
-la misma;
+VII. Gerontología. Estudio científico sobre la vejez y de las cualidades y fenómenos propios de la misma;
 
 VIII. Integración social. Es el resultado de las acciones que realizan las dependencias y entidades de la administración pública federal, estatal y municipal, las familias y la sociedad organizada, orientadas a modificar y superar las condiciones que impidan a las personas adultas mayores su desarrollo integral;
 
@@ -106,7 +104,9 @@ Son principios rectores en la observación y aplicación de esta Ley:
 
 I. Autonomía y autorrealización. Todas las acciones que se realicen en beneficio de las personas adultas mayores orientadas a fortalecer su independencia, su capacidad de decisión y su desarrollo personal y comunitario;
 
-II. Participación. La inserción de los adultos mayores en todos los órdenes de la vida pública. En los ámbitos de su interés serán consultados y tomados en cuenta; asimismo se promoverá su presencia e intervención;
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2005)</small>
+
+II. Participación. La inserción de las personas adultas mayores en todos los órdenes de la vida pública. En los ámbitos de su interés serán consultados y tomados en cuenta; asimismo se promoverá su presencia e intervención;
 
 III. Equidad. Es el trato justo y proporcional en las condiciones de acceso y disfrute de los satisfactores necesarios para el bienestar de las personas adultas mayores, sin distinción por sexo, situación económica, identidad étnica, fenotipo, credo, religión o cualquier otra circunstancia;
 
@@ -148,9 +148,7 @@ d. En los procedimientos que señala el párrafo anterior, se deberá tener aten
 
 III. De la salud, la alimentación y la familia:
 
-a. A tener acceso a los satisfactores necesarios, considerando alimentos, bienes, servicios
-
-y condiciones humanas o materiales para su atención integral.
+a. A tener acceso a los satisfactores necesarios, considerando alimentos, bienes, servicios y condiciones humanas o materiales para su atención integral.
 
 b. A tener acceso preferente a los servicios de salud, de conformidad con el párrafo tercero del artículo 4o. Constitucional y en los términos que señala el artículo 18 de esta Ley, con el objeto de que gocen cabalmente del derecho a su sexualidad, bienestar físico, mental y psicoemocional.
 
@@ -162,9 +160,9 @@ IV. De la educación:
 
 a. A recibir de manera preferente el derecho a la educación que señala el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, de conformidad con el artículo 17 de esta Ley.
 
-b. Las instituciones educativas, públicas y privadas, deberán incluir en sus planes y programas los conocimientos relacionados con las personas adultas mayores; asimismo los libros de texto gratuitos y todo material educativo autorizado y supervisado por la Secretaría de Educación Pública, incorporarán información actualizada sobre el tema del envejecimiento y los
+> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2005)</small>
 
-adultos mayores.
+b. Las instituciones educativas, públicas y privadas, deberán incluir en sus planes y programas los conocimientos relacionados con las personas adultas mayores; asimismo los libros de texto gratuitos y todo material educativo autorizado y supervisado por la Secretaría de Educación Pública, incorporarán información actualizada sobre el tema del envejecimiento y las personas adultas mayores.
 
 V. Del trabajo:
 
@@ -180,9 +178,7 @@ c. A ser sujetos de programas para tener acceso a una casa hogar o albergue, u o
 
 VII. De la participación:
 
-a. A participar en la planeación integral del desarrollo social, a través de la formulación
-
-y aplicación de las decisiones que afecten directamente a su bienestar, barrio, calle, colonia, delegación o municipio.
+a. A participar en la planeación integral del desarrollo social, a través de la formulación y aplicación de las decisiones que afecten directamente a su bienestar, barrio, calle, colonia, delegación o municipio.
 
 b. De asociarse y conformar organizaciones de personas adultas mayores para promover su desarrollo e incidir en las acciones dirigidas a este sector.
 
@@ -204,13 +200,15 @@ Toda persona, grupo social, organizaciones no gubernamentales, asociaciones o so
 
 El Estado garantizará las condiciones óptimas de salud, educación, nutrición, vivienda, desarrollo integral y seguridad social a las personas adultas mayores. Asimismo, deberá establecer programas para asegurar a todos los trabajadores una preparación adecuada para su retiro. Igualmente proporcionará:
 
-I. Atención preferencial: Toda institución pública o privada que brinde servicios a las personas adultas mayores deberá contar con la infraestructura, mobiliario y equipo adecuado, así como con los recursos humanos necesarios para que se realicen procedimientos alternativos en los trámites administrativos, cuando tengan alguna discapacidad.
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2005)</small>
 
-El Estado promoverá la existencia de condiciones adecuadas para los adultos mayores, tanto en el transporte público como en los espacios arquitectónicos;
+I. Atención preferencial: Toda institución pública o privada que brinde servicios a las personas adultas mayores deberá contar con la infraestructura, mobiliario y equipo adecuado, así como con los recursos humanos necesarios para que se realicen procedimientos alternativos en los trámites administrativos, cuando tengan alguna discapacidad. El Estado promoverá la existencia de condiciones adecuadas para las personas adultas mayores tanto en el transporte público como en los espacios arquitectónicos;
 
 II. Información: Las instituciones públicas y privadas, a cargo de programas sociales deberán proporcionarles información y asesoría tanto sobre las garantías consagradas en esta Ley como sobre los derechos establecidos en otras disposiciones a favor de las personas adultas mayores, y
 
-III. Registro: El Estado, a través del Instituto Nacional de las Personas Adultas Mayores, recabará la información necesaria del Instituto Nacional de Estadística, Geografía e Informática, para determinar la cobertura y características de los programas y beneficios dirigidos a los adultos mayores.
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2005)</small>
+
+III. Registro: El Estado a través del Instituto Nacional de las Personas Adultas Mayores, recabará la información necesaria del Instituto Nacional de Estadística, Geografía e Informática, para determinar la cobertura y características de los programas y beneficios dirigidos a las personas adultas mayores.
 
 ###### Artículo 7o.
 
@@ -234,9 +232,11 @@ III. Evitar que alguno de sus integrantes cometa cualquier acto de discriminaci�
 
 ### CAPÍTULO I. DE LOS OBJETIVOS
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE ENERO DE 2005)</small>
+
 ###### Artículo 10.
 
-Son objetivos de la Política Pública Nacional sobre adultos mayores los siguientes:
+Son objetivos de la Política Nacional sobre personas adultas mayores los siguientes:
 
 I. Propiciar las condiciones para un mayor bienestar físico y mental a fin de que puedan ejercer plenamente sus capacidades en el seno de la familia y de la sociedad, incrementando su autoestima y preservando su dignidad como ser humano;
 
@@ -276,7 +276,9 @@ XVIII. Promover la difusión de los derechos y valores en beneficio de las perso
 
 XIX. Llevar a cabo programas compensatorios orientados a beneficiar a las personas adultas mayores en situación de rezago y poner a su alcance los servicios sociales y asistenciales así como la información sobre los mismos, y
 
-XX. Fomentar la creación de espacios de expresión para el adulto mayor.
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2005)</small>
+
+XX. Fomentar la creación de espacios de expresión para las personas adultas mayores.
 
 ### CAPÍTULO II. DE LA CONCURRENCIA ENTRE LA FEDERACIÓN, LAS ENTIDADES FEDERATIVAS Y LOS MUNICIPIOS
 
@@ -302,23 +304,31 @@ II. Desarrollar los lineamientos, mecanismos e instrumentos para la organizació
 
 ### CAPÍTULO III. DE LOS PROGRAMAS Y LAS OBLIGACIONES DE LAS INSTITUCIONES PÚBLICAS
 
+> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2005)</small>
+
 ###### Artículo 15.
 
-En su formulación y ejecución, el Plan Nacional de Desarrollo, particularmente de su Capítulo de Desarrollo Social, deberá ser congruente con los principios, objetivos e instrumentos de los programas de atención a los adultos mayores, integrados en la política nacional respectiva.
+En su formulación y ejecución, el Plan Nacional de Desarrollo, particularmente de su Capítulo de Desarrollo Social, deberá ser congruente con los principios, objetivos e instrumentos de los programas de atención a las personas adultas mayores, integrados en la política nacional respectiva.
 
 ###### Artículo 16.
 
 Corresponde a la Secretaría de Desarrollo Social:
 
-I. Fomentar la participación de los sectores social y privado en la promoción, seguimiento y financiamiento de los programas de atención a los adultos mayores;
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2005)</small>
 
-II. Promover, en coadyuvancia con la Secretaría de Relaciones Exteriores, la suscripción de convenios internacionales en materia de atención a los adultos mayores, y
+I. Fomentar la participación de los sectores social y privado en la promoción, seguimiento y financiamiento de los programas de atención a las personas adultas mayores;
+
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2005)</small>
+
+II. Promover en coadyuvancia con la Secretaría de Relaciones Exteriores, la suscripción de Convenios Internacionales en materia de atención a las personas adultas mayores, y
 
 III. Establecer convenios de colaboración con instituciones y organismos públicos, sociales y privados para acciones de atención dirigidas a las personas adultas mayores.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE ENERO DE 2005)</small>
+
 ###### Artículo 17.
 
-Corresponde a la Secretaría de Educación Pública, garantizar a los adultos mayores:
+Corresponde a la Secretaría de Educación Pública, garantizar a las personas adultas mayores:
 
 I. El acceso a la educación pública en todos sus niveles y modalidades y a cualquier otra actividad que contribuya a su desarrollo intelectual y que le permita conservar una actitud de aprendizaje constante y aprovechar toda oportunidad de educación y capacitación que tienda a su realización personal, facilitando los trámites administrativos y difundiendo la oferta general educativa;
 
@@ -332,13 +342,17 @@ V. El acceso gratuito o con descuentos especiales a eventos culturales que promu
 
 VI. Programas culturales y concursos en los que participen exclusivamente personas adultas mayores, otorgando a los ganadores los reconocimientos y premios correspondientes;
 
-VII. El derecho de hacer uso de las bibliotecas públicas que facilitarán el préstamo a domicilio del material de las mismas, con la presentación de su identificación personal, credencial de jubilado o pensionado y/o credencial de adulto mayor, y
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2005)</small>
+
+VII. El derecho de hacer uso de las bibliotecas públicas que facilitarán el préstamo a domicilio del material de las mismas, con la presentación de su identificación personal, credencial de jubilado o pensionado y/o credencial de persona adulta mayor, y
 
 VIII. Fomentar entre toda la población una cultura de la vejez, de respeto, aprecio y reconocimiento a la capacidad de aportación de las personas adultas mayores.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE ENERO DE 2005)</small>
+
 ###### Artículo 18.
 
-Corresponde a las Instituciones Públicas del Sector Salud, garantizar a los adultos mayores:
+Corresponde a las Instituciones Públicas del Sector Salud, garantizar a las personas adultas mayores:
 
 I. El derecho a la prestación de servicios públicos de salud integrales y de calidad, en todas las actividades de atención médica, de conformidad con lo establecido en el artículo 33 de la Ley General de Salud;
 
@@ -356,7 +370,9 @@ VII. El apoyo a las unidades médicas y organizaciones civiles dedicadas a la at
 
 VIII. Convenios con universidades públicas y privadas para recibir prestadores de servicio social en las áreas de trabajo social, psicología, medicina, odontología y enfermería para que apoyen las acciones institucionales en la atención de las personas adultas mayores en las unidades geriátricas y/o domicilio;
 
-IX. Gestiones para apoyar y proteger a los grupos de adultos mayores en situación de vulnerabilidad social o familiar, y
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2005)</small>
+
+IX. Gestiones para apoyar y proteger a los grupos de personas adultas mayores en situación de vulnerabilidad social o familiar, y
 
 X. Los cuidados proporcionados a las personas adultas mayores por la familia, por los responsables de su atención y cuidado, o en su caso por las instituciones públicas o privadas que tengan a su cargo a estas personas, comprenderán los siguientes aspectos:
 
@@ -366,9 +382,11 @@ b. Serán sujetos de la confidencialidad y participarán en las decisiones que s
 
 c. Tendrán derecho a una nutrición adecuada y apropiada.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE ENERO DE 2005)</small>
+
 ###### Artículo 19.
 
-Corresponde a la Secretaría del Trabajo y Previsión Social, garantizar en beneficio de los adultos mayores:
+Corresponde a la Secretaría del Trabajo y Previsión Social, garantizar en beneficio de las personas adultas mayores:
 
 I. La implementación de los programas necesarios a efecto de promover empleos y trabajos remuneradores así como actividades lucrativas o voluntarias, conforme a su oficio, habilidad o profesión, sin más restricción que su limitación física o mental declarada por la autoridad médica o legal competente;
 
@@ -390,7 +408,9 @@ Corresponde a la Secretaría de Comunicaciones y Transportes, garantizar:
 
 I. El derecho de las personas adultas mayores para acceder con facilidad y seguridad a los servicios y programas que en esta materia ejecuten los gobiernos federal, estatal y municipal;
 
-II. Los convenios que se establezcan con aerolíneas y empresas de transporte terrestre y marítimo, nacional e internacional, para que otorguen tarifas preferenciales a las personas de la tercera edad;
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2005)</small>
+
+II. Los convenios que se establezcan con aerolíneas y empresas de transporte terrestre y marítimo, nacional e internacional, para que otorguen tarifas preferenciales a las personas adultas mayores;
 
 III. Que los concesionarios y permisionarios de servicios públicos de transporte, cuenten en sus unidades con el equipamiento adecuado para que las personas adultas mayores hagan uso del servicio con seguridad y comodidad;
 
@@ -468,61 +488,93 @@ III. Coadyuvar en el fortalecimiento de vínculos con los poderes Legislativo y 
 
 Para el cumplimiento de su objeto, el Instituto Nacional de las Personas Adultas Mayores tendrá las siguientes atribuciones:
 
-I. Impulsar las acciones de Estado y la sociedad, para promover el desarrollo humano integral de los adultos mayores, coadyuvando para que sus distintas capacidades sean valoradas y aprovechadas en el desarrollo comunitario, económico, social y nacional;
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2005)</small>
+
+I. Impulsar las acciones de Estado y la sociedad, para promover el desarrollo humano integral de las personas adultas mayores, coadyuvando para que sus distintas capacidades sean valoradas y aprovechadas en el desarrollo comunitario, económico, social y nacional;
 
 II. Proteger, asesorar, atender y orientar a las personas adultas mayores y presentar denuncias ante la autoridad competente;
 
-III. Ser el organismo de consulta y asesoría obligatoria para las dependencias y entidades de la Administración Pública Federal y, en su caso, voluntaria para las instituciones de los sectores social y privado, que realicen acciones o programas relacionados con los adultos mayores;
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2005)</small>
+
+III. Ser el organismo de consulta y asesoría obligatoria para las dependencias y entidades de la Administración Pública Federal y, en su caso, voluntaria para las instituciones de los sectores social y privado, que realicen acciones o programas relacionados con las personas adultas mayores;
 
 IV. Coadyuvar en la prestación de servicios de asesoría y orientación jurídica con las instituciones correspondientes;
 
 V. Establecer principios, criterios, indicadores y normas para el análisis y evaluación de las políticas dirigidas a las personas adultas mayores, así como para jerarquizar y orientar sobre las prioridades, objetivos y metas en la materia, a efecto de atenderlas mediante los programas impulsados por las dependencias y entidades de la Administración Pública Federal, por los estados y municipios y por los sectores privado y social, de conformidad con sus respectivas atribuciones y ámbitos de competencia;
 
-VI. Convocar a las dependencias y entidades de la Administración Pública Federal, estatales y municipales, a las organizaciones civiles dedicadas a la atención de los adultos mayores, así como a las instituciones de educación, investigación superior, académicos, especialistas y cualquier persona interesada en la vejez, a efecto de que formulen propuestas y opiniones respecto de las políticas, programas y acciones de atención para ser consideradas en la formulación de la política social del país en la materia y en el programa de trabajo del Instituto;
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2005)</small>
+
+VI. Convocar a las dependencias y entidades de la Administración Pública Federal, estatales y municipales dedicadas a la atención de las personas adultas mayores, así como a las instituciones de educación, investigación superior, académicos, especialistas y cualquier persona interesada en la vejez, a efecto de que formulen propuestas y opiniones respecto de las políticas, programas y acciones de atención para ser consideradas en la formulación de la política social del país en la materia y en el programa de trabajo del Instituto;
 
 VII. Diseñar, establecer, verificar y evaluar directrices, estrategias, programas, proyectos y acciones en beneficio de las personas adultas mayores;
 
 VIII. Proponer criterios y formulaciones para la asignación de fondos de aportaciones federales para el cumplimiento de la política sobre las personas adultas mayores;
 
-IX. Elaborar y difundir campañas de comunicación para contribuir al fortalecimiento de los valores referidos a la solidaridad intergeneracional y el apoyo familiar en la vejez; revalorizar los aportes de los adultos mayores en los ámbitos social, económico, laboral y familiar; así como promover la protección de los derechos de los adultos mayores y el reconocimiento a su experiencia y capacidades;
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2005)</small>
+
+IX. Elaborar y difundir campañas de comunicación para contribuir al fortalecimiento de los valores referidos a la solidaridad intergeneracional y el apoyo familiar en la vejez, revalorizar los aportes de las personas adultas mayores en los ámbitos social, económico, laboral y familiar, así como promover la protección de los derechos de las personas adultas mayores y el reconocimiento a su experiencia y capacidades;
 
 X. Fomentar las investigaciones y publicaciones gerontológicas;
 
-XI. Promover en coordinación con las autoridades competentes y en los términos de la legislación aplicable, que la prestación de los servicios y atención que se brinde a los adultos mayores, en las instituciones, casas hogar, albergues, residencias de día o cualquier otro centro de atención, se realice con calidad y cumplan con sus programas, objetivos y metas para su desarrollo humano integral;
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2005)</small>
 
-XII. Brindar asesoría y orientación en la realización de sus programas y la capacitación que requiere el personal de las instituciones, casas hogar, albergues, residencias de día o cualquier otro centro que brinden servicios y atención a los adultos mayores;
+XI. Promover en coordinación con las autoridades competentes y en los términos de la legislación aplicable, que la prestación de los servicios y atención que se brinde a las personas adultas mayores en las instituciones, casas hogar, albergues, residencias de día o cualquier otro centro de atención, se realice con calidad y cumplan con sus programas, objetivos y metas para su desarrollo humano integral;
 
-XIII. Realizar visitas de inspección y vigilancia a instituciones públicas y privadas, casas hogar, albergues, residencias de día o cualquier otro centro de atención a los adultos mayores, para verificar las condiciones de funcionamiento, capacitación de su personal, modelo de atención y condiciones de la calidad de vida;
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2005)</small>
+
+XII. Brindar asesoría y orientación en la realización de sus programas y la capacitación que requiere el personal de las instituciones, casas hogar, albergues, residencias de día o cualquier otro centro que brinden servicios y atención a las personas adultas mayores;
+
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2005)</small>
+
+XIII. Realizar visitas de inspección y vigilancia a instituciones públicas y privadas, casas hogar, albergues, residencias de día o cualquier centro de atención a las personas adultas mayores para verificar las condiciones de funcionamiento, capacitación de su personal, modelo de atención y condiciones de la calidad de vida;
 
 XIV. Hacer del conocimiento de las autoridades competentes, de las anomalías que se detecten durante las visitas realizadas a los lugares que se mencionan en la fracción anterior; podrá también hacer del conocimiento público dichas anomalías;
 
-XV. Establecer principios, criterios y normas para la elaboración de la información y la estadística, así como metodologías y formulaciones relativas a la investigación y el estudio de la problemática de los adultos mayores;
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2005)</small>
 
-XVI. Analizar, organizar, actualizar, evaluar y difundir la información sobre los adultos mayores, relativa a los diagnósticos, programas, instrumentos, mecanismos y presupuestos, que estarán para su consulta y que se coordinarán con el INEGI y CONAPO;
+XV. Establecer principios, criterios y normas para la elaboración de la información y la estadística, así como metodologías y formulaciones relativas a la investigación y el estudio de la problemática de las personas adultas mayores;
 
-XVII. Elaborar y mantener actualizado el diagnóstico, así como promover estudios e investigaciones especializadas sobre la problemática de los adultos mayores, para su publicación y difusión;
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2005)</small>
+
+XVI. Analizar, organizar, actualizar, evaluar y difundir la información sobre las personas adultas mayores, relativa a los diagnósticos, programas, instrumentos, mecanismos y presupuestos, que estarán para su consulta y que se coordinarán con el INEGI y CONAPO;
+
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2005)</small>
+
+XVII. Elaborar y mantener actualizado el diagnóstico, así como promover estudios e investigaciones especializadas sobre la problemática de las personas adultas mayores, para su publicación y difusión;
 
 XVIII. Celebrar convenios con los gremios de comerciantes, industriales o prestadores de servicios profesionales independientes, para obtener descuentos en los precios de los bienes y servicios que presten a la comunidad a favor de las personas adultas mayores;
 
 XIX. Expedir credenciales de afiliación a las personas adultas mayores con el fin de que gocen de beneficios que resulten de las disposiciones de la presente Ley y de otros ordenamientos jurídicos aplicables;
 
-XX. Promover la inclusión de consideraciones, criterios y previsiones sobre las demandas y necesidades de la población de adultos mayores en los planes y programas de desarrollo económico y social de los tres órdenes de gobierno;
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2005)</small>
+
+XX. Promover la inclusión de consideraciones, criterios y previsiones sobre las demandas y necesidades de la población de las personas adultas mayores en los planes y programas de desarrollo económico y social de los tres órdenes de gobierno;
 
 XXI. Establecer convenios de coordinación con los gobiernos estatales, con la participación de sus municipios, para proporcionar asesoría y orientación para el diseño, establecimiento y evaluación de modelos de atención, así como de las políticas públicas a implementar;
 
 XXII. Celebrar convenios, acuerdos y todo tipo de actos jurídicos que sean necesarios para el cumplimiento de su objeto;
 
-XXIII. Promover la coordinación de acciones y programas que realicen otras dependencias y entidades de la Administración Pública Federal, de los gobiernos estatales y municipales y del Distrito Federal, que tengan como destinatarios a los adultos mayores, buscando con ello optimizar la utilización de los recursos materiales y humanos y evitar la duplicidad de acciones;
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2005)</small>
+
+XXIII. Promover la coordinación de acciones y programas que realicen otras dependencias y entidades de la Administración Pública Federal, de los gobiernos estatales y municipales y del Distrito Federal, que tengan como destinatarios a las personas adultas mayores, buscando con ello optimizar la utilización de los recursos materiales y humanos y evitar la duplicidad de acciones;
 
 XXIV. Establecer reuniones con instituciones afines, nacionales e internacionales, para intercambiar experiencias que permitan orientar las acciones y programas en busca de nuevas alternativas de atención;
 
-XXV. Promover y difundir las acciones y programas de atención integral a favor de los adultos mayores, así como los resultados de las investigaciones sobre la vejez y su participación social, política y económica;
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2005)</small>
 
-XXVI. Promover la participación de los adultos mayores en todas las áreas de la vida pública, a fin de que sean copartícipes y protagonistas de su propio cambio;
+XXV. Promover y difundir las acciones y programas de atención integral a favor de las personas adultas mayores, así como los resultados de las investigaciones sobre la vejez y su participación social, política y económica;
 
-XXVII. Promover, fomentar y difundir en las actuales y nuevas generaciones, una cultura de protección, comprensión, cariño y respeto a los adultos mayores en un clima de interrelación generacional, a través de los medios masivos de comunicación;
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2005)</small>
 
-XXVIII. Elaborar y proponer al titular del Poder Ejecutivo Federal los proyectos legislativos en materia de adultos mayores, que contribuyan a su desarrollo humano integral, y
+XXVI. Promover la participación de las personas adultas mayores en todas las áreas de la vida pública, a fin de que sean copartícipes y protagonistas de su propio cambio;
+
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2005)</small>
+
+XXVII. Promover, fomentar y difundir en las actuales y nuevas generaciones, una cultura de protección, comprensión, cariño y respeto a las personas adultas mayores en un clima de interrelación generacional, a través de los medios masivos de comunicación;
+
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2005)</small>
+
+XXVIII. Elaborar y proponer al titular del Poder Ejecutivo Federal, los proyectos legislativos en materia de personas adultas mayores, que contribuyan a su desarrollo humano integral, y
 
 XXIX. Expedir su Estatuto Orgánico.
 
@@ -556,9 +608,11 @@ i. Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
 Los representantes propietarios designarán a sus suplentes, quienes deberán tener un nivel mínimo de Director General.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE ENERO DE 2005)</small>
+
 ###### Artículo 31.
 
-Se invitará como miembros del órgano de gobierno hasta cinco representantes de los sectores social o privado que sean adultos mayores, y que por su experiencia en la materia, puedan contribuir con el objeto del Instituto. Dichos representantes tendrán derecho a voz y voto. La convocatoria será formulada por el Director General del Instituto.
+Se invitará como miembros del órgano de gobierno hasta cinco representantes de los sectores social y privado que sean personas adultas mayores, y que por su experiencia en la materia, puedan contribuir con el objeto del Instituto. Dichos representantes tendrán derecho a voz y voto. La convocatoria será formulada por el Director General del Instituto.
 
 Se podrá invitar también, con la aprobación de la mayoría de sus asistentes, a los representantes de otras dependencias e instituciones públicas federales, estatales o municipales, los que tendrán derecho a voz y no a voto en la sesión o sesiones correspondientes.
 
@@ -602,13 +656,19 @@ El Director General tendrá la representación legal del organismo, con todas la
 
 El Director General tendrá las atribuciones a que se refieren los artículos 22 y 59 de la Ley Federal de las Entidades Paraestatales.
 
-### CAPÍTULO III. DEL CONSEJO CIUDADANO DE ADULTOS MAYORES
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 26 DE ENERO DE 2005)</small>
+
+### CAPÍTULO III. DEL CONSEJO CIUDADANO DE PERSONAS ADULTAS MAYORES
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE ENERO DE 2005)</small>
 
 ###### Artículo 38.
 
-El Instituto contará con un Consejo Ciudadano de Adultos Mayores, que tendrá por objeto conocer el seguimiento dado a los programas, opinar sobre los mismos, recabar las propuestas de la ciudadanía con relación a las personas adultas mayores y presentarlas al Consejo Directivo.
+El Instituto contará con un Consejo Ciudadano de personas adultas mayores, que tendrá por objeto conocer el seguimiento dado a los programas, opinar sobre los mismos, recabar las propuestas de la ciudadanía con relación a las personas adultas mayores y presentarlas al Consejo Directivo.
 
-Este Consejo se integrará con diez adultos mayores de sobresaliente trayectoria en el área en que se desempeñen, de manera equitativa en cuanto a género, los cuales serán seleccionados por el Consejo Directivo a convocatoria formulada a las instituciones públicas o privadas.
+> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2005)</small>
+
+Este Consejo se integrará con diez personas adultas mayores de sobresaliente trayectoria en el área en que se desempeñen, de manera equitativa en cuanto a género, los cuales serán seleccionados por el Consejo Directivo a convocatoria formulada a las instituciones públicas o privadas.
 
 El cargo de Consejero será de carácter honorario. Los requisitos, atribuciones y funcionamiento del Consejo se establecerán en las disposiciones orgánicas del Instituto.
 
@@ -686,9 +746,11 @@ Si la queja o denuncia presentada fuera competencia de otra autoridad, la autori
 
 ### CAPÍTULO II. DE LAS RESPONSABILIDADES Y SANCIONES
 
+> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2005)</small>
+
 ###### Artículo 48.
 
-Las instituciones públicas y privadas, casas hogar, albergues, residencias de día o cualquier otro centro de atención a los adultos mayores, deberán ajustar su funcionamiento a lo dispuesto por las Normas Oficiales Mexicanas, Normas Mexicanas, Normas Técnicas y los reglamentos que se expidan para este efecto.
+Las instituciones públicas y privadas, casas hogar, albergues, residencias de día o cualquier otro centro de atención a las personas adultas mayores, deberán ajustar su funcionamiento a lo dispuesto por las Normas Oficiales Mexicanas, Normas Mexicanas, Normas Técnicas y los reglamentos que se expidan para este efecto.
 
 ###### Artículo 49.
 
@@ -715,3 +777,9 @@ SEXTO. Cualquier referencia al Instituto Nacional de Adultos en Plenitud o al In
 México, D.F., a 30 de abril de 2002.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. María Lucero Saldaña Pérez, Secretario.- Dip. Martha Silvia Sánchez González, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiún días del mes de junio de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 26 DE ENERO DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
