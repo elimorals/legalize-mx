@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-procedimientos-civiles-para-el-estado-de-zacatecas-82
 country: "mx"
 rank: "codigo"
 publication_date: "1966-03-02"
-last_updated: "1966-03-02"
+last_updated: "1975-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "ZAC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE ZACATECAS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO 1° TRANSITORIO, PUBLICADO EN EL P.O. DE 2 DE MARZO DE 1966, EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR A LOS 60 DIAS DESPUES DE SU PUBLICACION.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 1975.
 
-TEXTO ORIGINAL.
-
-Código Publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 2 de marzo de 1966.
+Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 2 de marzo de 1966.
 
 JOSE RODRIGUEZ ELIAS, Gobernador Constitucional del Estado libre y Soberano de Zacatecas, a sus habitantes hago saber:
 
@@ -1431,11 +1429,19 @@ El Notario se limitará a hacer el ofrecimiento y depósito y expedir al deudor 
 
 ### CAPITULO IV. DEL DOMICILIO PROVISIONAL PARA LAS PERSONAS COMO ACTOS PREJUDICIALES
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 1975)</small>
+
 219.- El que intente demandar o denunciar o querellarse contra su cónyuge, puede solicitar su separación del domicilio conyugal al Juez de Primera Instancia del lugar.
 
-220.- La solicitud puede ser escrita o verbal, y en ella se señalarán las causas en que se funde, el domicilio para su habitación, si existen o no hijos menores y las demás circunstancias del caso; pudiendo el Juez, si lo estima conveniente, practicar las Diligencias que a su juicio sean necesarias antes de dictar resolución.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 1975)</small>
 
-221.- Presentada la solicitud, el Juez sin más trámite, salvo lo dispuesto en el Artículo anterior, resolverá sobre su procedencia, y si la concediere, dictará las disposiciones pertinentes para que se efectúe materialmente la separación, atendiendo a las circunstancias de cada caso en particular, pudiendo el Juez variar las disposiciones decretadas cuando exista causa justa que lo amerite, o en vista de lo que los cónyuges, de común acuerdo o individualmente le soliciten, si así lo estima procedente.
+220.- La solicitud puede ser escrita o verbal, y en ella se señalarán las causas en que se funda, el domicilio para su habitación, si existen o no hijos menores y las demás circunstancias del caso; pudiendo el Juez, si lo estima conveniente, practicar las Diligencias que a su juicio sean necesarias antes de dictar resolución.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 1975)</small>
+
+221.- Presentada la solicitud, el Juez sin más trámite, salvo lo dispuesto en el Artículo anterior, resolverá sobre su procedencia, y si la concediere, dictará las disposiciones pertinentes para que se efectúe materialmente la separación, atendiendo a las circunstancias de cada caso en particular, pudiendo el Juez variar las disposiciones decretadas cuando exista causa justa que lo amerite, o en vista de lo que los cónyuges, de común acuerdo o individualmente lo soliciten, si así lo estima procedente.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 1975)</small>
 
 222.- En la resolución que se dicte, se señalará el término de que dispondrá el solicitante para presentar su demanda, que podrá ser hasta de quince días hábiles, contados a partir del día siguiente de efectuada la separación. A juicio del Juez, podrá concederse, por una sola vez, una prórroga por igual término.
 
@@ -1444,6 +1450,8 @@ En la misma ordenará, se notifique al otro cónyuge, previniéndole que se abst
 La inconformidad de alguno de los cónyuges, sobre la resolución o disposiciones decretadas, se tramitará en la vía incidental, sin ulterior recurso.
 
 Si al vencimiento del plazo concedido, no se presenta la demanda, cesarán los efectos de la separación, quedando obligado el cónyuge a regresar al domicilio conyugal dentro de las veinticuatro horas siguientes.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 1975)</small>
 
 223.- El cónyuge que se separó, tendrá en todo tiempo el derecho de volver al domicilio conyugal.
 
@@ -1961,7 +1969,7 @@ Los documentos públicos procedentes del extranjero deberán presentarse legaliz
 
 I.- Siempre que uno de los litigantes pidiere copia o testimonio de parte de un documento o pieza que obre en los archivos judiciales, el contrario tendrá derecho a que, a su costa, se adicione con lo que crea conducente del mismo. Los documentos existentes en partido distinto del en que se siga el juicio, se compulsarán a virtud de exhorto que dirija el juez de los autos al del lugar en que aquellos se encuentren;
 
-II.- Los documentos privados se presentarán originales y cuando formen parte de un libro, expediente o legajo, se exhibirán para que se compulse la parte que señalen los interesados. Si se encontraren en libros o papeles de casa de comercio o de algún otro establecimiento industrial, el que pide el documento o la constancia deberá fijar con precisión cuál sea. La copia se compulsará en el establecimiento, sin que los directores de él estén obligados a llevar al tribunal los libros de cuentas, ni a más que a presentar las partidas o documentos designados;
+II.- Los documentos privados se presentarán originales y cuando formen parte de un libro, expediente o legajo, se exhibirán para que se compulse la parte que señalen los interesados. Si se encontraren en libros o papeles de casa de comercio o de algún otro establecimiento industrial, el que pide el documento o la constancia deberá fijar con precisión cuál sea. La copia se compulsará en el establecimiento sin que los directores de él estén obligados a llevar al tribunal los libros de cuentas, ni a más que a presentar las partidas o documentos designados;
 
 III.- Cuando las partes deban servirse de documentos en poder de terceros, solicitarán del juzgado se intime a los mismos la exhibición o entrega de copia fotográfica, fotostática o testimonio certificado de ellos, siendo los gastos que se originen a cargo del que pide la prueba. Los terceros pueden rehusarse a la entrega si tienen derechos exclusivos sobre los documentos u otra causa justificada, y en este caso se les oirá en la vía incidental, y
 
@@ -2905,9 +2913,13 @@ c) Si los señalados estuvieren en lugar diverso del en que se sigue el juicio, 
 
 El ejecutor, sin que para ello se necesite ulterior determinación del juez, deberá realizar con la mayor diligencia los actos complementarios del embargo, como dar posesión al depositario de bienes, aunque no estén en el lugar donde se practica la diligencia, si se encuentran dentro de la jurisdicción; notificación a deudores o a bancos, si se han embargado créditos; dar aviso preventivo al Registro Público, si se trata de bienes registrados; expedir copias certificadas de la diligencia y en general, para tomar todas las medidas y realizar los actos que tiendan a hacer más efectivo el aseguramiento.
 
-432.- Quedan exceptuados del embargo:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 1975)</small>
+
+432.- Quedan exceptuados de embargo:
 
 I.- Los bienes que constituyen el patrimonio de familia, desde su inscripción en el Registro Público de la Propiedad, en los términos establecidos por el Código Civil;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 1975)</small>
 
 II.- El lecho cotidiano, los vestidos y los muebles del uso ordinario del deudor, de su cónyuge o de sus hijos, no siendo de lujo, a juicio del Juez.
 
@@ -3094,52 +3106,6 @@ III.- Si la ejecución se hubiere despachado a instancia de un segundo acreedor 
 IV.- En los casos de reembargo, el depositario del primer secuestro lo será respecto del posterior con las obligaciones inherentes al depósito del segundo embargo, debiendo notificársele el secuestro ulterior para la protección de los derechos del segundo embargante.
 
 446.- En caso de que los ejecutores practiquen simultáneamente embargos ordenados en juicios distintos, los realizarán asociados y tendrán igual preferencia, levantándose un acta para cada expediente y correspondiendo el nombramiento del depositario al ejecutante en el embargo ordenado por el juzgado de primera instancia del ramo civil.
-
-### CAPITULO IV. Periodo final de la ejecución forzosa
-
-468.- El periodo final de la ejecución forzosa, tratándose de sentencias, consistirá en el pago y aplicación de la suma obtenida y en la adjudicación de los bienes embargados que no hayan sido objeto de venta judicial.
-
-469.- La suma o bienes obtenidos en la ejecución, se integrará:
-
-I.- Con el efectivo y valores embargados;
-
-II.- Con lo obtenido como precio en la venta judicial;
-
-III.- Con el precio de las cosas adjudicadas, y
-
-IV.- Con las demás cantidades o cosas que estén sujetas a la ejecución forzosa.
-
-470.- El pago y distribución del caudal obtenido mediante la ejecución se hará de acuerdo con las reglas siguientes:
-
-I.- Si es uno solo el acreedor embargante y no intervienen otros acreedores, el juez, una vez convertida la sentencia a cantidad líquida, dispondrá el pago a su favor de lo que le corresponda por capital, intereses y costas. Para la integración de lo que corresponde al acreedor, se tomará en cuenta el precio de los bienes del deudor que le hayan sido adjudicados;
-
-II.- Si fuere uno solo el ejecutante y procediere la adjudicación de la finca hipotecada u otros bienes embargados por haberse renunciado legalmente a la subasta, o por otras causas, para el pago se tomará en cuenta el precio en que se hubiere hecho la adjudicación, descontándose los gastos de ejecución y gravámenes o créditos que hayan quedado reconocidos;
-
-III.- Si hubiere varios embargantes, o intervinieren otros acreedores, el juez distribuirá la suma obtenida ajustándose a las reglas de prelación, y
-
-IV.- El sobrante de la suma obtenida se entregará al deudor o al que demuestre tener derecho para ello.
-
-471.- Si al practicarse la distribución surge alguna controversia entre los acreedores que concurren o entre un acreedor y el deudor, acerca de la existencia y monto de uno o varios créditos o la existencia de derechos de prelación, el juez decidirá en una audiencia a la que serán citados todos los interesados para que se les oiga y presenten pruebas.
-
-Si la cuestión sólo afecta parte de la suma a distribuir, se proveerá desde luego a la de la parte no controvertida.
-
-472.- Además de los acreedores que tengan sobre los bienes embargados un derecho de prelación que resulte de los registros públicos o un derecho legal de prenda, y de los demás embargantes o reembargantes, quienes deberán ser citados, podrán intervenir en la distribución cualesquiera otros, aun los no privilegiados. A este efecto, formularán mediante escrito, que indicará el monto y título del crédito, la pretensión de participar en la suma obtenida con la ejecución.
-
-473.- Para determinar la prelación en la distribución de la suma obtenida se seguirán las siguientes reglas:
-
-I.- Si todos los acreedores intervinientes que justifiquen tener derecho sobre la suma obtenida, someten al juez, de común acuerdo, un plan para la distribución, se proveerá de conformidad, después de oído el deudor, y
-
-II.- Si no hubiere acuerdo, salvo lo que dispongan en contrario otras leyes, la distribución se hará conforme al siguiente orden de prelación:
-
-a) Acreedores alimentistas;
-
-b) Acreedores privilegiados con derechos reales de prenda o hipoteca en el orden de inscripción en los registros públicos o de fechas, si la inscripción no fuere necesaria;
-
-c) Embargantes en el orden que corresponda por concepto de prioridad en tiempo en la fecha de los embargos; excepto cuando el embargo se deba inscribir en el Registro Público, pues entonces regirá el orden de fechas de la inscripción, y
-
-d) Los demás acreedores no privilegiados intervinientes se sujetarán a concurso.
-
-474.- Si la distribución de la suma obtenida no alcanzare para cubrir el crédito del ejecutante, quedarán sus derechos expeditos para pedir nueva ejecución forzosa por el saldo insoluto.
 
 ### CAPITULO III. De las ventas y remates judiciales
 
@@ -3330,6 +3296,52 @@ VII.- El acreedor podrá cesar en la administración de la finca, cuando lo crea
 466.- El juez tendrá durante la tramitación de los remates el poder de resolver y allanar cualquier dificultad que se presente.
 
 467.- Cualquier liquidación que tenga que hacerse respecto al pago de los gravámenes que afecten a los bienes vendidos, gastos de ejecución y demás, se regularán por el juez con un escrito de cada parte, y resolución dentro del tercero día.
+
+### CAPITULO IV. Periodo final de la ejecución forzosa
+
+468.- El periodo final de la ejecución forzosa, tratándose de sentencias, consistirá en el pago y aplicación de la suma obtenida y en la adjudicación de los bienes embargados que no hayan sido objeto de venta judicial.
+
+469.- La suma o bienes obtenidos en la ejecución, se integrará:
+
+I.- Con el efectivo y valores embargados;
+
+II.- Con lo obtenido como precio en la venta judicial;
+
+III.- Con el precio de las cosas adjudicadas, y
+
+IV.- Con las demás cantidades o cosas que estén sujetas a la ejecución forzosa.
+
+470.- El pago y distribución del caudal obtenido mediante la ejecución se hará de acuerdo con las reglas siguientes:
+
+I.- Si es uno solo el acreedor embargante y no intervienen otros acreedores, el juez, una vez convertida la sentencia a cantidad líquida, dispondrá el pago a su favor de lo que le corresponda por capital, intereses y costas. Para la integración de lo que corresponde al acreedor, se tomará en cuenta el precio de los bienes del deudor que le hayan sido adjudicados;
+
+II.- Si fuere uno solo el ejecutante y procediere la adjudicación de la finca hipotecada u otros bienes embargados por haberse renunciado legalmente a la subasta, o por otras causas, para el pago se tomará en cuenta el precio en que se hubiere hecho la adjudicación, descontándose los gastos de ejecución y gravámenes o créditos que hayan quedado reconocidos;
+
+III.- Si hubiere varios embargantes, o intervinieren otros acreedores, el juez distribuirá la suma obtenida ajustándose a las reglas de prelación, y
+
+IV.- El sobrante de la suma obtenida se entregará al deudor o al que demuestre tener derecho para ello.
+
+471.- Si al practicarse la distribución surge alguna controversia entre los acreedores que concurren o entre un acreedor y el deudor, acerca de la existencia y monto de uno o varios créditos o la existencia de derechos de prelación, el juez decidirá en una audiencia a la que serán citados todos los interesados para que se les oiga y presenten pruebas.
+
+Si la cuestión sólo afecta parte de la suma a distribuir, se proveerá desde luego a la de la parte no controvertida.
+
+472.- Además de los acreedores que tengan sobre los bienes embargados un derecho de prelación que resulte de los registros públicos o un derecho legal de prenda, y de los demás embargantes o reembargantes, quienes deberán ser citados, podrán intervenir en la distribución cualesquiera otros, aun los no privilegiados. A este efecto, formularán mediante escrito, que indicará el monto y título del crédito, la pretensión de participar en la suma obtenida con la ejecución.
+
+473.- Para determinar la prelación en la distribución de la suma obtenida se seguirán las siguientes reglas:
+
+I.- Si todos los acreedores intervinientes que justifiquen tener derecho sobre la suma obtenida, someten al juez, de común acuerdo, un plan para la distribución, se proveerá de conformidad, después de oído el deudor, y
+
+II.- Si no hubiere acuerdo, salvo lo que dispongan en contrario otras leyes, la distribución se hará conforme al siguiente orden de prelación:
+
+a) Acreedores alimentistas;
+
+b) Acreedores privilegiados con derechos reales de prenda o hipoteca en el orden de inscripción en los registros públicos o de fechas, si la inscripción no fuere necesaria;
+
+c) Embargantes en el orden que corresponda por concepto de prioridad en tiempo en la fecha de los embargos; excepto cuando el embargo se deba inscribir en el Registro Público, pues entonces regirá el orden de fechas de la inscripción, y
+
+d) Los demás acreedores no privilegiados intervinientes se sujetarán a concurso.
+
+474.- Si la distribución de la suma obtenida no alcanzare para cubrir el crédito del ejecutante, quedarán sus derechos expeditos para pedir nueva ejecución forzosa por el saldo insoluto.
 
 ### CAPITULO V. Declaración de validez y ejecución de sentencias extranjeras
 
@@ -3795,7 +3807,7 @@ I.- Pago;
 
 II.- Impedimento total o parcial del uso de la cosa arrendada por caso fortuito o fuerza mayor, en los términos de los artículos 2384, 2385 y 2386 del Código Civil;
 
-III.- Privación de uso proveniente de la evicción, en los términos del artículo 238 del Código Civil, y
+III.- Privación de uso proveniente de la evicción, en los términos del artículo 238 del Código Civil, y;
 
 IV.- Privación de uso total o parcial por causa de reparaciones, en los términos del artículo 2398 del Código Civil.
 
@@ -3865,11 +3877,15 @@ En los casos en que el actor solicite dispensa para contraer matrimonio con la p
 
 558.- Se tramitarán conforme a las reglas de este artículo las diferencias que surjan entre marido y mujer:
 
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 1975)</small>
+
 I.- Sobre la obligación de los cónyuges, de vivir en el domicilio conyugal;
 
 II.- Sobre la obligación, monto y aseguramiento de los alimentos;
 
 III.- Sobre educación y establecimiento de los hijos y administración de los bienes que a éstos pertenezcan;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 1975)</small>
 
 IV.- Oposición de los cónyuges para que alguno de ellos realice alguna actividad económica.
 
@@ -3937,7 +3953,9 @@ II.- Actas de nacimiento de los hijos menores, y
 
 III.- El convenio que exige el artículo 362 del Código Civil.
 
-569.- Presentada la demanda, citará el Tribunal a los cónyuges y al Representante del Ministerio Público a una junta en la que se identificarán plenamente, la que se efectuará después de los ocho y antes de los quince días siguientes, y si asistieren los interesados, los exhortará para procurar su reconciliación, si no logra avenirlos aprobará provisionalmente, oyendo al Representante del Ministerio Público, los puntos del convenio relativo a la situación de los hijos menores o incapacitados, a la separación de los cónyuges y a los alimentos de aquéllos y de los que un cónyuge deba dar a otros mientras dure el procedimiento, dictando las medidas necesarias de aseguramiento. Si no asistieren los cónyuges, se dará por terminada la instancia.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 1975)</small>
+
+569.- Presentada la demanda, citará el Tribunal a los cónyuges y al Representante del Ministerio Público a una junta en la que se identificarán plenamente, la que se efectuará después de los ocho y antes de los quince días siguientes, y si asistieren los interesados, los exhortará para procurar su reconciliación, si no logra avenirlos aprobará provisionalmente, oyendo al Representante del Ministerio Público, los puntos de convenio relativo a la situación de los hijos menores o incapacitados, a la separación de los cónyuges y a los alimentos de aquéllos y de los que un cónyuge deba dar a otros mientras dure el procedimiento, dictando las medidas necesarias de aseguramiento. Si no asistieren los cónyuges, se dará por terminada la instancia.
 
 570.- Si insistieren los cónyuges en su propósito de divorciarse, citará el juez a las partes para oír sentencia, la cual se dictará dentro del término de tres días, y en ella, volverá a estudiar la situación de los hijos. Si en el convenio quedaren bien garantizados los derechos de los hijos menores o incapacitados, el tribunal, oyendo el parecer del representante del Ministerio Público sobre este punto, dictará sentencia en que quedará disuelto el vínculo matrimonial y decidirá sobre el convenio presentado.
 
@@ -4767,7 +4785,11 @@ La resolución que niegue los alimentos es recurrible en queja ante el superior.
 
 #### SECCION SEGUNDA. Separación
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 1975)</small>
+
 714.- En los casos de divorcio y nulidad del matrimonio, el Juez separará a los cónyuges, dictando las medidas conducentes para que no se causen perjuicios en sus bienes y las precauciones que la Ley establece respecto a la mujer que quede encinta; aplicándose en lo que procediere las reglas del domicilio provisional como acto prejudicial.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 1975)</small>
 
 715.- El cambio de domicilio a uno provisional de menores e incapacitados, se decretará como providencia cautelar:
 
@@ -6038,3 +6060,9 @@ José Rodríguez Elías.
 El Secretario General de Gobierno.
 
 Lic. Alejandro Borrego Acuña.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P. O. 16 DE AGOSTO DE 1975.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
