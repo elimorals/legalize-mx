@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-administracion-publica-del-estado-de-19087"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-30"
-last_updated: "2000-12-30"
+last_updated: "2003-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "ZAC"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre de 2000.
 
 LICENCIADO RICARDO MONREAL AVILA, Gobernador del Estado de Zacatecas, a sus habitantes hago saber:
 
-Que los CC. DIPUTADOS SECRETARIOS de la H. Quincuagésima Sexta Legislatura del Estado, se han servido dirigirme el siguiente:
+Que los CC. DIPUTADOS SECRETARIOS de la H, Quincuagésima Sexta legislatura del Estado, se han servido dirigirme el siguiente:
 
 DECRETO # 205
 
@@ -97,7 +97,7 @@ Por todo lo anteriormente expuesto y fundado, y con apoyo además en lo dispuest
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS
 
-## TITULO PRIMERO. Disposiciones Generales
+## TÍTULO PRIMERO. Disposiciones Generales
 
 ### CAPÍTULO ÚNICO
 
@@ -931,21 +931,25 @@ III. Que corresponda al Gobierno del Estado la facultad de nombrar a la mayoría
 
 Son fideicomisos públicos del Estado, aquellos que constituya el Gobierno de la Entidad, con el propósito de auxiliar al Poder Ejecutivo en la realización de acciones prioritarias, con la estructura orgánica que determine la ley de la materia.
 
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 11 DE ENERO DE 2003)</small>
+
 ## TÍTULO CUARTO. De los Tribunales Administrativos del Estado
+
+(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE ENERO DE 2003
 
 ### CAPÍTULO ÚNICO
 
 ###### Artículo 40.
 
-Los tribunales administrativos forman parte de la administración pública, y su relación con el Ejecutivo será exclusivamente administrativa. La Secretaría General de Gobierno tendrá la responsabilidad de coordinar esta relación.
+(DEROGADO, P.O. 11 DE ENERO DE 2003)
 
 ###### Artículo 41.
 
-Los tribunales administrativos gozarán de plena jurisdicción y autonomía en la emisión de sus resoluciones. Su integración, organización y atribuciones se regirán por la legislación correspondiente a sus respectivas materias.
+(DEROGADO, P.O. 11 DE ENERO DE 2003)
 
 ###### Artículo 42.
 
-Para su operación, funcionamiento y ejercicio de atribuciones, los tribunales administrativos contarán con el apoyo financiero necesario del Poder Ejecutivo del Estado, y administrarán su propio presupuesto.
+(DEROGADO, P.O. 11 DE ENERO DE 2003)
 
 ## TRANSITORIOS
 
@@ -984,3 +988,11 @@ LIC. RICARDO MONREAL AVILA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ARTURO NAHLE GARCIA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE ENERO DE 2003.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+SEGUNDO.- Al inicio de vigencia del presente decreto, quedarán derogadas las disposiciones de ley o de reglamento, que se opongan a aquél.
