@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-administracion-publica-del-estado-de-5397"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-06-13"
-last_updated: "2001-08-06"
+last_updated: "2002-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 13 de junio de 1994.
 
@@ -392,6 +392,10 @@ III.- Establecer la coordinación entre el plan estatal y los programas de desar
 IV.- Coordinar las actividades del Comité de Planeación para el Desarrollo del Estado de Hidalgo, representando en el ámbito de sus atribuciones al Gobernador del Estado ante la Federación en el ejercicio de los programas insertos en el Convenio de Desarrollo Social, así como coordinar las actividades del mencionado comité con los correspondientes regionales y municipales;
 
 V.- Promover estrategias de desconcentración y descentralización hacia las regiones, municipios y comunidades, de los programas y acciones que impacten en el desarrollo regional;
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+Para el cumplimiento de estos propósitos, se coordinarán, concertarán y ejecutarán las obras públicas que les sean encomendadas y aquéllas que obedezcan al cumplimiento de los propósitos del Desarrollo Social de los habitantes de la Entidad, señalados en los Programas Sectorial y Especiales correspondientes a través de las Áreas Administrativas de la Secretaría ubicadas en las Regiones y Subregiones establecidas en el Plan Estatal de Desarrollo.
 
 > <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
 
@@ -928,3 +932,9 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 TERCERO.- Se derogan la fracción VI del Artículo 24 de la Ley Orgánica de la Administración Pública del Estado y el Artículo 17 del Reglamento Interior de la Secretaría de Gobierno.
+
+P.O. 30 DE DICIEMBRE DE 2002.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
