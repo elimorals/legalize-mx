@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2004-01-09"
+last_updated: "2004-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 2004.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -231,7 +231,9 @@ Reunidos los Diputados el día antes indicado y en caso de no haber quórum, los
 
 El Congreso se reunirá en dos períodos ordinarios de sesiones, en los que se ocupará de estudiar, discutir y votar las Iniciativas de leyes que se presenten, así como de resolver toda clase de asuntos de su competencia.
 
-El primer período iniciará precisamente el primero de octubre y concluirá el quince de enero del año siguiente; y el segundo dará inicio el día quince de marzo y concluirá el quince de junio del mismo año. Al abrir y cerrar sus períodos de sesiones lo hará por Decreto.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2004)</small>
+
+El primer período iniciará precisamente el primero de octubre y concluirá el treinta de enero del año siguiente; y el segundo dará inicio el primero de abril y concluirá el quince de julio del mismo año. Al abrir y cerrar sus períodos de sesiones lo hará por Decreto.
 
 No podrá el Congreso abrir sus sesiones sin la concurrencia de la mayoría simple de sus miembros; sesiones que serán públicas a excepción de aquellas que, por la calidad de los asuntos que deban tratarse, su reglamentación prevenga que sean secretas.
 
@@ -875,13 +877,19 @@ Para ser magistrado del Supremo Tribunal de Justicia se requiere:
 
 I.- Ser mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
 
-II.- No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de elección;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2004)</small>
 
-III.- Poseer con antigüedad mínima de cinco años, título profesional de abogado, expedido por la autoridad o corporación legalmente facultada para ello;
+II.- Tener por lo menos 35 años de edad el día de su designación;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2004)</small>
+
+III.- Poseer al día de la designación, con antigüedad mínima de diez años, título profesional de licenciado en derecho, expedido por autoridad o institución legalmente facultada para ello;
 
 IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y
 
-V.- Haber residido en el país durante los últimos cinco años, salvo el caso de ausencia al servicio de la República, o por motivo de estudio.
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2004)</small>
+
+V.- Haber residido en el país durante los dos años anteriores al día de la designación.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE FEBRERO DE 1997)</small>
 
@@ -2562,3 +2570,15 @@ P.O. 9 DE ENERO DE 2004.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
 
 SEGUNDO.- Por esta única vez, las autoridades auxiliares municipales de los H. Ayuntamientos del período 2003-2006 durarán en su encargo hasta el 15 de diciembre del 2006.
+
+P.O. 10 DE ABRIL DE 2004.
+
+DECRETO No. 70, QUE REFORMA EL ARTICULO 29 DE LA CONSTITUCION DEL ESTADO.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ABRIL DE 2004.
+
+DECRETO No. 71, QUE REFORMA EL ARTICULO 69 EN SUS FRACCIONES II, III Y V DE LA CONSTITUCION DEL ESTADO.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima."
