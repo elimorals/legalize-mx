@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1941-12-04"
+last_updated: "1943-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE, QUE REFORMA LA DE 30 DE JUNIO DE 1,861
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 1941.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 1943.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -103,7 +103,7 @@ El Poder Público del Estado se divide, para su ejercicio, en Legislativo, Ejecu
 
 Se deposita el ejercicio del Poder Legislativo del Estado en una asamblea que se denominará Congreso del Estado de Campeche.
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 1940)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 1943)</small>
 
 ### CAPITULO III.
 
@@ -113,13 +113,13 @@ De su elección e instalación.
 
 ###### Art. 18.
 
-El Congreso del Estado, se compondrá de representantes electos directamente en su totalidad cada dos años por ciudadanos campechanos y en los términos que disponga la Ley Electoral del Estado.
+El Congreso del Estado se compondrá de representantes electos directamente en su totalidad cada tres años por ciudadanos campechanos y en los términos que disponga la Ley Electoral del Estado.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1940)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 1943)</small>
 
 ###### Art. 19.
 
-Se eligirá (sic) un Diputado Propietario y un Suplente por cada 17,000 habitantes o por cada fracción que pase de ocho mil. Los Municipios Libres que en toda su circunscripción no alcancen esta última cifra, elegirán sin embargo un Diputado Propietario y un Suplente, pero siempre que cuenten cuando menos con cuatro mil habitantes, pues, en caso contrario, quedarán unidos para los efectos de la elección, al Municipio inmediatamente colindante que tenga menos número de habitantes.
+Se elegirá un Diputado Propietario y un Suplente por cada 20,000 habitantes o por cada fracción que pase de 10,000. Los Municipios Libres que en toda su circunscripción no alcancen esta última cifra, elegirán sin embargo un Diputado Propietario y un Suplente, pero siempre que cuenten cuando menos con 4,500 habitantes, pues, en caso contrario, quedarán unidos para los efectos de la elección, al Municipio inmediatamente colindante que tenga menos número de habitantes.
 
 > <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1933)</small>
 
@@ -375,11 +375,13 @@ III. Los que tenga (sic) algún cargo o comisión del Gobierno Federal dentro de
 
 IV. El Secretario General, el Procurador General de Justicia, el Tesorero General y los Magistrados del Tribunal Superior de Justicia, si no se separan de sus cargos dentro de los cuarenta y cinco días antes de la elección.
 
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1933)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 1943)</small>
 
 ###### Art. 50.
 
-El Gobernador entrará a ejercer su encargo el 16 de septiembre y durará en él cuatro años. El ciudadano que haya desempeñado el cargo de Gobernador del Estado y cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese puesto ni aun con el carácter de interino, provisional, substituto o encargado del despacho.
+El Gobernador entrará a ejercer su encargo el 16 de septiembre y no podrá durar en él mas de seis años.
+
+El ciudadano que haya desempeñado el cargo de Gobernador del Estado y cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese puesto, ni aún con el carácter de interino, provisional, substituto o encargado del Despacho.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1928)</small>
 
@@ -657,11 +659,11 @@ III. Los Municipios administrarán libremente su hacienda, la cual se formará d
 
 IV. Los Municipios serán investidos de personalidad jurídica, para todos los efectos legales;
 
-> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 1933)</small>
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 1943)</small>
 
-V. La primera autoridad administrativa del Municipio será el Presidente Municipal, quien tomará posesión el 1º. de enero y durará dos años en su encargo.
+V. La primera autoridad administrativa del Municipio será el Presidente Municipal, quien tomará posesión el 1o de enero y durará tres años en su encargo.
 
-Los componentes de los Ayuntamientos, Juntas y Comisarías Municipales tomarán posesión igualmente el 1º. de enero y durarán asimismo dos años en sus respectivos encargos;
+Los componentes de los Ayuntamientos, Juntas y Comisarías Municipales tomarán posesión igualmente el 1o de enero y durarán asimismo tres años en sus respectivos encargos.
 
 > <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 1933)</small>
 
@@ -1036,3 +1038,7 @@ UNICO. La presente reforma entrará en vigor el mismo día de su publicación en
 P.O. 4 DE DICIEMBRE DE 1941.
 
 UNICO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE ABRIL DE 1943.
+
+UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Gobierno del Estado.
