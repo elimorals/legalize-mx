@@ -4,7 +4,7 @@ identifier: "SIN-ley-reglamentaria-del-articulo-154-reformado-de-la-18132"
 country: "mx"
 rank: "ley"
 publication_date: "1937-02-13"
-last_updated: "1937-02-13"
+last_updated: "1938-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18132&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY REGLAMENTARIA DEL ARTICULO 154, REFORMADO, DE LA CONSTITUCION POLITICA DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 1938.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el sábado 13 de febrero de 1937.
 
@@ -89,9 +89,11 @@ El Juez de Primera Instancia, teniendo en cuenta las opiniones de los peritos y 
 
 Los honorarios de los peritos serán cubiertos por la parte que los hubiere nombrado y los del tercero por ambas a prorrata.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 1938)</small>
+
 ###### Artículo 14.
 
-La autoridad expropiante fijará la forma y los plazos en que la indemnización deberá pagarse, los que no abarcarán un período mayor de cinco años.
+La autoridad expropiante fijará la forma y plazos en que la indemnización deberá pagarse, los que no abarcarán nunca un período mayor de diez años.
 
 T R A N S I T O R I O S.
 
@@ -114,3 +116,9 @@ ALFREDO DELGADO.
 El Secretario General de Gobierno,
 
 Lic. ALFREDO CRISTERNA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE JUNIO DE 1938.
+
+Artículo Unico.- Este Decreto surte sus efectos desde el día de su publicación en el Periódico Oficial del Estado.
