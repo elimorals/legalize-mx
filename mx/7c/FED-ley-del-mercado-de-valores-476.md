@@ -4,7 +4,7 @@ identifier: "FED-ley-del-mercado-de-valores-476"
 country: "mx"
 rank: "ley"
 publication_date: "1975-01-02"
-last_updated: "1993-07-23"
+last_updated: "1993-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=476&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMV"
 
 LEY DEL MERCADO DE VALORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JULIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1993.
 
 Ley publicada en el Diario Oficial de la Federación el jueves 2 de enero de 1975.
 
@@ -136,7 +136,9 @@ El manejo de carteras de valores, que comprende el ofrecimiento o prestación ha
 
 I.- Que cuando se trate de sociedades civiles o sociedades anónimas, tengan nacionalidad mexicana y que la participación extranjera en el capital y en los órganos de administración sea minoritaria y no pueda corresponderle, por ningún título, la facultad de determinar el manejo de la sociedad.
 
-Asimismo, los socios administradores o miembros del consejo de administración, así como directivos, apoderados y empleados no deberán participar en el capital o en los órganos de administración, ni tener relación de dependencia con casas de bolsa, especialistas bursátiles, sociedades operadoras de sociedades de inversión, instituciones de crédito, instituciones calificadoras de valores y sociedades emisoras de valores que sean materia de intermediación en el mercado de valores.
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+Asimismo, los socios administradores o miembros del Consejo de Administración, así como directivos, apoderados y empleados no deberán participar en el capital o en los órganos de administración, ni tener relación de dependencia con casas de bolsa, especialistas bursátiles, sociedades operadoras de sociedades de inversión, instituciones de crédito, instituciones calificadoras de valores y sociedades emisoras de valores que sean materia de intermediación en el mercado de valores. Estas restricciones también serán aplicables a las personas físicas que realicen el manejo de carteras de valores previsto en este artículo.
 
 II.- Las operaciones que se realicen con motivo de los servicios que presten invariablemente deberán quedar documentadas a nombre del cliente respectivo y se llevarán a cabo a través de casas de bolsa, especialistas bursátiles, sociedades operadoras de sociedades de inversión, o bien de instituciones de crédito, estando prohibido que perciban remuneraciones de cualquiera de las entidades financieras señaladas.
 
@@ -246,7 +248,9 @@ Las acciones de tesorería podrán ser colocadas entre el público inversionista
 
 Las disminuciones y aumentos al capital social derivados de la compra y colocación de acciones a que se refiere esta fracción, no requerirán resolución de asamblea de accionistas de ninguna clase, ni acuerdo del consejo de administración.
 
-La posibilidad de adquirir acciones propias deberá estar consignada en los estatutos sociales al igual que, en el caso de sociedades anónimas de capital fijo, la emisión de acciones de tesorería y su posterior colocación entre el público inversionista. En las sociedades anónimas de capital variable, las acciones que representen la porción fija no serán susceptibles de compra por la misma sociedad.
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+La posibilidad de adquirir acciones propias deberá estar consignada en los estatutos sociales al igual que, en el caso de sociedades anónimas de capital fijo, la emisión de acciones de tesorería y su posterior colocación entre el público inversionista. En ningún caso tales operaciones podrán dar lugar a que se excedan los porcentajes autorizados conforme a la fracción III de este artículo, tratándose de acciones sin derecho a voto, al igual que con la limitante de otros derechos corporativos, o bien de acciones de voto restringido distintas a las que prevé el artículo 113 de la Ley General de Sociedades Mercantiles.
 
 La compra y colocación de acciones previstas en esta fracción, los informes que sobre las mismas deban presentarse a la asamblea general ordinaria de accionistas, las normas de revelación en la información financiera, así como la forma y términos en que estas operaciones sean dadas a conocer a la Comisión Nacional de Valores, a la bolsa de valores correspondiente y al público inversionista, estarán sujetos a las disposiciones de carácter general que expida la propia Comisión.
 
@@ -458,9 +462,11 @@ a) Casas de bolsa o especialistas bursátiles;
 
 b) Personas morales extranjeras que ejerzan funciones de autoridad.
 
-La Secretaría de Hacienda y Crédito Público podrá discrecionalmente autorizar la inversión extranjera en el capital social de las casas de bolsa y de los especialistas bursátiles siempre que no exceda en su conjunto del 30% de dicho capital. La participación individual extranjera, en ningún caso podrá exceder del 10% de las acciones representativas del capital social de una casa de bolsa o de un especialista bursátil, sin que en estos supuestos sea aplicable lo previsto en el segundo párrafo del artículo 19 de esta Ley.
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
-Todo extranjero que en el acto de la constitución o cualquier tiempo ulterior adquiera un interés o participación social en una casa de bolsa o en un especialista bursátil, se considerará, por ese solo hecho, como mexicano respecto de uno y otra y se entenderá que conviene en no invocar la protección de su gobierno bajo la pena, en caso de faltar a su convenio, de perder dicho interés o participación en favor de la Nación.
+La Secretaría de Hacienda y Crédito Público podrá discrecionalmente autorizar la inversión extranjera, incluyendo la de entidades financieras del exterior, en el capital social de las casas de bolsa y los especialistas bursátiles, siempre que no exceda en su conjunto del 30% de dicho capital. La participación individual extranjera no podrá exceder del 10% de las acciones representativas del capital social de una casa de bolsa o de un especialista bursátil, a menos que se obtenga autorización de la citada Secretaría para adquirir, directa o indirectamente, hasta el 15% del referido capital.
+
+> <small>(DEROGADO TERCER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1993)</small>
 
@@ -478,9 +484,7 @@ e) Otras personas morales, con excepción de las sociedades controladoras a que 
 
 f) Accionistas que sean propietarios del 10% o más del capital de los emisores cuyos valores operen con carácter de especialistas, así como los miembros del consejo de administración y directivos de los propios emisores.
 
-> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1993)</small>
-
-La inversión de personas morales prevista en el inciso e) de esta fracción y en el artículo 17 Bis, no será aplicable a los especialistas bursátiles.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE JULIO DE 1993)</small>
 
@@ -588,9 +592,9 @@ La adquisición del control del 10% o más de acciones representativas del capit
 
 Ninguna persona física o moral podrá ser propietaria, directa o indirectamente, del 15% o más del capital social de una casa de bolsa, excepto:
 
-> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
-I.- La adquisición de acciones que realicen las sociedades controladoras de grupos financieros;
+I.- La adquisición de acciones que realicen las sociedades controladoras de grupos financieros, así como Instituciones Financieras del Exterior y Sociedades Controladoras Filiales, conforme al Capítulo Tercero Bis de esta Ley;
 
 > <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
@@ -884,17 +888,21 @@ En dichas disposiciones se determinará también cuáles son los libros, registr
 
 Los libros de contabilidad y los registros a que se refiere el artículo 26 Bis 2, deberán conservarse disponibles en las oficinas de la casa de bolsa. Los asientos en los libros deberán efectuarse dentro de los quince días naturales siguientes a la fecha en que se realicen los actos, contratos u operaciones respectivas; los asientos en los auxiliares deberán llevarse al día.
 
-> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 26 Bis 4.
 
-Las casas de bolsa deberán formular sus estados financieros al día último de cada mes. La Comisión Nacional de Valores queda facultada para establecer las reglas de agrupación de cuentas conforme a las cuales las casas de bolsa deberán formular y publicar, cuando menos en un periódico de circulación nacional, sus estados financieros mensuales y anuales, que habrán de serle proporcionados junto con la demás información que determine la propia Comisión. Tales publicaciones se harán dentro del mes siguiente que corresponda al de su fecha y quince días después de que hayan sido aprobados por la asamblea general de accionistas, respectivamente.
+Las casas de bolsa deberán formular sus estados financieros al día último de cada mes. La Comisión Nacional de Valores queda facultada para establecer las reglas de agrupación de cuentas conforme a las cuales las casas de bolsa deberán formular y publicar, cuando menos en un periódico de circulación nacional, sus estados financieros, los cuales habrán de serle proporcionados junto con la demás información que determine la propia Comisión, a la que también corresponderá establecer la periodicidad con que habrán de realizarse tales publicaciones.
 
 > <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1993)</small>
 
 La publicación de los estados financieros será bajo la estricta responsabilidad de los miembros del consejo de administración y comisarios de la casa de bolsa que hayan aprobado y dictaminado la autenticidad de los datos contenidos en dichos estados contables, debiendo cuidar que éstos y su publicación revelen la verdadera situación financiera de la sociedad. En el caso de que las publicaciones no se ajusten a esta disposición, los citados consejeros y comisarios quedarán sujetos a la aplicación de las sanciones correspondientes.
 
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1985)</small>
+
 Sin perjuicio de lo anterior, la Comisión Nacional de Valores, al revisar los estados financieros ordenará modificaciones y correcciones que, a su juicio, fueren fundamentales para ameritar su publicación y podrá ordenar que se publiquen con las modificaciones pertinentes, en la inteligencia de que esta publicación deberá hacerse dentro de los quince días siguientes a la notificación del acuerdo respectivo. En ningún otro caso podrán efectuarse segundas publicaciones.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1985)</small>
 
 La revisión que la Comisión Nacional de Valores realice no tendrá efectos de carácter fiscal.
 
@@ -934,7 +942,9 @@ Lo dispuesto en esta fracción no será aplicable a la inversión en acciones re
 
 IV.- Las acciones de las bolsas de valores y de las instituciones para el depósito de valores, se valuarán de acuerdo a su valor contable, determinado en los últimos estados financieros dictaminados de la bolsa de valores o de la institución para el depósito de valores correspondiente.
 
-V.- Los demás activos fijos se estimarán a su precio de adquisición y, en su caso, a su valor actualizado conforme a avalúo realizado por valuador independiente autorizado por la citada Comisión.
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+V.- Los demás activos fijos se estimarán a su precio de adquisición y, en su caso, a su valor actualizado de acuerdo al método de valuación que determine la propia Comisión.
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
@@ -966,6 +976,18 @@ Para el cierre de oficinas, junto con el aviso a que se refiere el primer párra
 
 IV.- Llevar a cabo programas de auditoría legal, debiendo proporcionar a la citada Comisión el dictamen de su auditor legal externo.
 
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 27 Bis.
+
+La Secretaría de Hacienda y Crédito Público podrá autorizar el establecimiento en el territorio nacional de oficinas de representación de casas de bolsa del exterior. Estas oficinas no podrán realizar en el mercado nacional ninguna actividad de intermediación financiera que requiera autorización por parte del Gobierno Federal, ni proporcionar información o hacer gestión o trámite alguno para este tipo de operaciones.
+
+Las actividades que realicen las oficinas de representación se sujetarán a las disposiciones que expida la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Valores.
+
+La Secretaría de Hacienda y Crédito Público podrá declarar la revocación de las autorizaciones correspondientes cuando las referidas oficinas no se sujeten a lo previsto en este artículo, sin perjuicio de la aplicación de las sanciones establecidas en la presente Ley y en los demás ordenamientos legales, ni de las responsabilidades civiles y penales que sean exigibles a los directivos, empleados o a las instituciones, en su caso.
+
+Al ejercer las atribuciones que le confiere este artículo, la Secretaría de Hacienda y Crédito Público escuchará la opinión del Banco de México y de la Comisión Nacional de Valores a la cual le corresponderá inspeccionar y vigilar el funcionamiento de las oficinas citadas.
+
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 28.
@@ -978,9 +1000,131 @@ Las remuneraciones por los servicios de las casas de bolsa se ajustarán a los a
 
 Los especialistas bursátiles estarán sujetos a las previsiones establecidas en los artículos 24, 25, 26, 26 Bis a 26 Bis 8, 27 y 28 de esta Ley; asimismo, al celebrar operaciones por cuenta ajena y con el público inversionista, les serán aplicables los preceptos contenidos en el Capítulo Octavo del mismo ordenamiento.
 
-### CAPITULO CUARTO. De las Bolsas de Valores
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO QUINTO. De la Comisión Nacional de Valores
+### CAPITULO TERCERO BIS. De las Filiales de Instituciones Financieras del Exterior
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 28 Bis 1.
+
+Para efectos de esta Ley se entenderá por:
+
+I.- Filial: La sociedad mexicana inscrita en la Sección de Intermediarios del Registro Nacional de Valores e Intermediarios, conforme a esta Ley, y en cuyo capital participe una Institución Financiera del Exterior o una Sociedad Controladora Filial en los términos del presente capítulo;
+
+II.- Institución Financiera del Exterior: La entidad financiera constituida en un país con el que México haya celebrado un tratado o acuerdo internacional en virtud del cual se permita el establecimiento en territorio nacional de Filiales; y
+
+III.- Sociedad Controladora Filial: La sociedad mexicana autorizada para constituirse y operar como sociedad controladora en los términos de la Ley para Regular las Agrupaciones Financieras, y en cuyo capital participe una Institución Financiera del Exterior.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 28 Bis 2.
+
+Las Filiales se regirán por lo previsto en los tratados o acuerdos internacionales correspondientes, el presente capítulo, las disposiciones contenidas en esta Ley aplicables a las sociedades inscritas en la Sección de Intermediarios del Registro Nacional de Valores e Intermediarios, y las reglas para el establecimiento de Filiales que al efecto expida la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Valores.
+
+La Secretaría de Hacienda y Crédito Público estará facultada para interpretar para efectos administrativos las disposiciones sobre servicios financieros que se incluyan en los tratados o acuerdos internacionales a que hace mención el párrafo anterior, así como para proveer a su observancia.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 28 Bis 3.
+
+Para ser inscrita en la Sección de Intermediarios del Registro Nacional de Valores e Intermediarios y operar como Filial se requiere autorización del Gobierno Federal, que compete otorgar discrecionalmente a la Secretaría de Hacienda y Crédito Público, a propuesta de la Comisión Nacional de Valores tratándose de casas de bolsa, y a la Comisión Nacional de Valores tratándose de especialistas bursátiles. Por su naturaleza estas autorizaciones serán intransmisibles.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 28 Bis 4.
+
+Las autoridades financieras, en el ámbito de sus respectivas competencias, garantizarán el cumplimiento de los compromisos de trato nacional que en su caso sean asumidos por México, en los términos establecidos en el tratado o acuerdo internacional aplicable.
+
+Las Filiales podrán realizar las mismas operaciones que las sociedades inscritas en la Sección de Intermediarios del Registro Nacional de Valores e Intermediarios, según corresponda, a menos que el tratado o acuerdo internacional aplicable establezca alguna restricción.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 28 Bis 5.
+
+Para invertir en el capital social de una Filial, la Institución Financiera del Exterior deberá realizar, en el país en el que esté constituida, directa o indirectamente, de acuerdo con la legislación aplicable, el mismo tipo de operaciones que la Filial de que se trate esté facultada para realizar en México, de conformidad con lo que señalen la presente Ley y las reglas a las que se refiere el primer párrafo del artículo 28 BIS 2.
+
+Se exceptúa de lo dispuesto en el párrafo anterior a las Filiales en cuyo capital participe una Sociedad Controladora Filial de conformidad con la Ley para Regular las Agrupaciones Financieras y las reglas mencionadas en el párrafo anterior.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 28 Bis 6.
+
+La solicitud de autorización para inscribirse en la Sección de Intermediarios del Registro Nacional de Valores e Intermediarios y operar como Filial, deberá cumplir con los requisitos establecidos en la presente Ley y en las reglas a las que se refiere el primer párrafo del artículo 28 BIS 2.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 28 Bis 7.
+
+El capital social de las Filiales deberá estar integrado por una sola serie de acciones. Una Institución Financiera del Exterior, directa o indirectamente, o una Sociedad Controladora Filial deberá ser en todo momento propietaria de acciones que representen cuando menos el noventa y nueve por ciento del capital social de la Filial, salvo en el caso previsto por el último párrafo del artículo 28 Bis 8.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 28 Bis 8.
+
+Las acciones representativas del capital social de una Filial únicamente podrán ser enajenadas previa autorización de la Secretaría de Hacienda y Crédito Público.
+
+Salvo en el caso de que el adquirente sea una Institución Financiera del Exterior o una Sociedad Controladora Filial, para llevar a cabo la enajenación deberán modificarse los estatutos sociales de la Filial cuyas acciones sean objeto de la operación, a efecto de cumplir con lo dispuesto en los artículos 17 fracción II, 17 Bis y 19 de la presente Ley.
+
+Cuando el adquirente sea una Institución Financiera del Exterior o una Sociedad Controladora Filial, deberá observarse lo dispuesto en las fracciones I y III del artículo 28 BIS 9.
+
+No se requerirá autorización de la Secretaría de Hacienda y Crédito Público ni modificación de estatutos cuando la transmisión de acciones sea, en garantía o propiedad, al Fondo de Apoyo al Mercado de Valores en los términos de las fracciones II y VII del artículo 89 de la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 28 Bis 9.
+
+La Secretaría de Hacienda y Crédito Público podrá autorizar a las Instituciones Financieras del Exterior o a las Sociedades Controladoras Filiales la adquisición de acciones representativas del capital social de una sociedad inscrita en la Sección de Intermediarios del Registro Nacional de Valores e Intermediarios, siempre y cuando se cumplan los siguientes requisitos:
+
+I.- La Institución Financiera del Exterior o la Sociedad Controladora Filial, según sea el caso, deberá adquirir acciones que representen cuando menos el noventa y nueve por ciento del capital social;
+
+II.- Deberán modificarse los estatutos sociales de la sociedad inscrita en la Sección de Intermediarios del Registro Nacional de Valores e Intermediarios, cuyas acciones sean objeto de enajenación, a efecto de cumplir con lo dispuesto en el presente capítulo; y
+
+III.- Cuando el adquirente sea una Institución Financiera del Exterior o una Sociedad Controladora Filial, que ya sea propietaria de acciones representativas del capital social de una Filial, deberá fusionar ambas sociedades inscritas en la Sección de Intermediarios del Registro Nacional de Valores e Intermediarios, a efecto de controlar solamente una Filial del mismo tipo.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 28 Bis 10.
+
+Las Filiales no podrán establecer sucursales o subsidiarias fuera del territorio nacional.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 28 Bis 11.
+
+El consejo de administración de las Filiales estará integrado por lo menos por cinco consejeros, de entre los cuales la mayoría deberá residir en territorio nacional.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 28 Bis 12.
+
+Se exceptúa a los directivos, apoderados para celebrar operaciones con el público y apoderados operadores de las Filiales, del requisito previsto en el inciso a) de la fracción III del artículo 17 de la presente Ley. Tales directivos y apoderados de las Filiales deberán residir en territorio nacional.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 28 Bis 13.
+
+El órgano de vigilancia de las Filiales estará integrado por lo menos por un comisario nombrado por la Institución Financiera del Exterior o por la Sociedad Controladora Filial propietaria de las acciones representativas del capital social de la Filial.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 28 Bis 14.
+
+Respecto de las Filiales, la Comisión Nacional de Valores tendrá todas las facultades que le atribuye la presente Ley en relación con las sociedades inscritas en la Sección de Intermediarios del Registro Nacional de Valores e Intermediarios. Cuando autoridades supervisoras del país de origen de la Institución Financiera del Exterior propietaria de acciones representativas del capital social de una Filial o de una Sociedad Controladora Filial, según sea el caso, deseen realizar visitas de inspección, deberán solicitarlo a la Comisión Nacional de Valores. En todo caso las visitas deberán hacerse por conducto de dicha Comisión la que establecerá los términos en que las visitas deban realizarse.
+
+La solicitud a que hace mención el párrafo anterior deberá hacerse por escrito, cuando menos con treinta días naturales de anticipación y deberá acompañarse de lo siguiente:
+
+I.- Descripción del acto de inspección a ser realizado; y
+
+II.- Las disposiciones legales pertinentes al acto de inspección objeto de la solicitud.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 28 Bis 15.
+
+Las Instituciones Financieras del Exterior podrán establecer las sociedades a que se refiere el artículo 12 Bis de la presente Ley con participación mayoritaria o total en el capital social, pudiendo asimismo determinar el manejo de la sociedad. Estas sociedades se sujetarán a las reglas que expida la Secretaría de Hacienda y Crédito Público.
+
+### CAPITULO CUARTO. De las Bolsas de Valores
 
 ###### ARTICULO 29.
 
@@ -1172,9 +1316,7 @@ La cancelación de la concesión, será causa de disolución de la sociedad. La 
 
 Cada bolsa formulará el arancel al que deberán ajustarse las remuneraciones que perciba por sus servicios, sometiéndolo a la Comisión Nacional de Valores para su aprobación.
 
-### CAPITULO SEXTO. De las Instituciones para el Depósito de Valores
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+### CAPITULO QUINTO. De la Comisión Nacional de Valores
 
 ###### ARTICULO 40.
 
@@ -1486,21 +1628,25 @@ Sin perjuicio de la sanción prevista en esta fracción y en la anterior, las ac
 
 VIII.- Pérdida de las acciones adquiridas por extranjeros, en beneficio de la Nación, cuando se infrinja lo dispuesto por el artículo 17, fracción II, inciso b) de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
-IX.- Las infracciones que consistan en realizar operaciones prohibidas o no autorizadas o en exceder los porcentajes máximos o no mantener los mínimos previstos por esta Ley y que se exijan respecto a determinados elementos del activo, pasivo o capital contable, serán sancionadas con multa hasta por el importe de la operación prohibida o no autorizada y sobre el exceso o defecto de los porcentajes fijados, respectivamente, con arreglo a la siguiente escala:
+IX.- Las infracciones que consistan en realizar operaciones prohibidas o no autorizadas o en exceder los porcentajes máximos o no mantener los mínimos previstos por esta Ley y que se exijan respecto a determinados elementos del activo, pasivo, capital contable o capital global, serán sancionadas con multa hasta por el importe de la operación prohibida o no autorizada y sobre el exceso o defecto de los porcentajes fijados, respectivamente, con arreglo a la siguiente escala:
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
 a) Hasta un 1% cuando la transgresión sea del 1% al 10% del importe del elemento del estado de posición financiera de la casa de bolsa, especialista bursátil o bolsa de valores, cuando el porcentaje esté fijado en relación a dicho elemento;
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
 b) Hasta el 2% cuando la transgresión exceda del 10% y no llegue al 20%, y
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
 c) Hasta un 3% cuando la transgresión sea del 20% o exceda este último porcentaje.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 4 DE ENERO DE 1990)</small>
-
 > <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
-El importe de estas multas se determinará con base en las cifras que arroje el estado mensual de contabilidad correspondiente al periodo en que la infracción sea cometida.
+El importe de estas multas se determinará con base en las cifras que arroje el estado mensual de contabilidad correspondiente al período en que la infracción sea cometida.
 
 > <small>(REFORMADA, D.O.F. 23 DE JULIO DE 1993)</small>
 
@@ -1620,9 +1766,9 @@ En caso de que las operaciones a que se refiere el párrafo anterior se lleven a
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-### CAPITULO SEPTIMO. De los Procedimientos Para Proteger los Intereses del Público Inversionista
+### CAPITULO SEXTO. De las Instituciones para el Depósito de Valores
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 54.
 
@@ -2054,9 +2200,9 @@ Las instituciones para el depósito de valores no podrán suspender sus labores 
 
 Los cargos por los servicios que las instituciones para el depósito de valores presten se cubrirán de acuerdo con la tarifa que autorice la Comisión Nacional de Valores.
 
-### CAPITULO OCTAVO. De la Contratación Bursátil
+### CAPITULO SEPTIMO. De los Procedimientos Para Proteger los Intereses del Público Inversionista
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 86.
 
@@ -2256,9 +2402,9 @@ XI.- El Fondo deberá proporcionar, respecto de las operaciones que celebre, tod
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE ENERO DE 1990)</small>
 
-### CAPITULO NOVENO. De las Operaciones Internacionales
+### CAPITULO OCTAVO. De la Contratación Bursátil
 
-> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 1993)</small>
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 90.
 
@@ -2484,7 +2630,7 @@ En ningún caso el efectivo y los valores estarán afectos a otras responsabilid
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE JULIO DE 1993)</small>
 
-### CAPITULO DECIMO. De la Automatización
+### CAPITULO NOVENO. De las Operaciones Internacionales
 
 > <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 1993)</small>
 
@@ -2545,6 +2691,10 @@ Las disposiciones que expida la Comisión Nacional de Valores conforme a la frac
 Las bolsas de valores y los socios de las bolsas que participen en el sistema internacional de cotizaciones, deberán adoptar las providencias necesarias para advertir al público inversionista respecto a que los valores que se operen a través de dicho sistema no se recomiendan para ser adquiridos por inversionistas cuyas características sean distintas a los perfiles que se establezcan en el reglamento interior de la bolsa respectiva, informando asimismo del tipo de inversionista para realizar operaciones con los valores listados en este sistema.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE JULIO DE 1993)</small>
+
+### CAPITULO DECIMO. De la Automatización
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 112.
 
@@ -2877,3 +3027,41 @@ Los contratos de prenda celebrados conforme al texto anterior de los artículos 
 ###### ARTICULO DECIMO TERCERO.
 
 A las personas que hayan cometido infracciones o delitos, incluidas las procesadas o sentenciadas, con anterioridad a la entrada en vigor del presente Decreto, les serán aplicables las sanciones vigentes al momento que se hayan realizado dichas conductas, sin perjuicio de aplicar, cuando proceda, lo dispuesto en el artículo 56 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
+
+D.O.F. 23 DE DICIEMBRE DE 1993.
+
+PRIMERO.- El presente Decreto entrará en vigor el primero de enero de 1994.
+
+SEGUNDO.- La Secretaria de Hacienda y Crédito Público autorizará el límite de capital individual que podrá alcanzar cada Filial, así como el límite agregado que en su conjunto podrán alcanzar las Filiales del mismo tipo, de conformidad con los tratados o acuerdos internacionales aplicables.
+
+TERCERO.- Las adquisiciones por parte de Filiales, Instituciones Financieras del Exterior o Sociedades Controladoras Filiales de acciones de intermediarios financieros, en cuyo capital participen mayoritariamente inversionistas mexicanos, o de acciones de Filiales o Sociedades Controladoras Filiales, estarán sujetas a los límites de capital individuales y agregados que en su caso establezcan los tratados o acuerdos internacionales aplicables.
+
+CUARTO.- Cuando una Filial alcance el noventa por ciento del límite de capital individual autorizado, deberá notificar este hecho a la Secretaría de Hacienda y Crédito Público dentro de los cinco días hábiles siguientes.
+
+El incumplimiento de la obligación a que se refiere el párrafo anterior será sancionado por la Comisión Nacional competente, previa audiencia, con multa de hasta 2,500 días de salario mínimo por cada día de retraso en la notificación correspondiente.
+
+QUINTO.- Cuando una Filial exceda el límite de capital individual autorizado, la Secretaría de Hacienda y Crédito Público estará facultada para establecer un programa de reducción de capital a fin de que en un período determinado se ajuste a dicho límite. En todo caso, para cumplir con los requerimientos de capitalización aplicables se tomará en cuenta el menor entre el límite de capital individual autorizado y el capital real con que cuente la Filial de que se trate.
+
+Cuando se exceda el límite de capital individual autorizado, la Comisión Nacional competente estará facultada para remover, suspender o imponer veto a los miembros del consejo de administración, directores generales, comisarios, directores, gerentes y funcionarios que puedan obligar con su firma a la sociedad, previa audiencia, de conformidad con el procedimiento establecido en la ley aplicable.
+
+Si la infracción a lo dispuesto en el párrafo anterior es reiterada, o si la Filial no cumple con el programa de reducción de capital a que se refiere el primer párrafo del presente artículo, se podrá declarar la revocación de la autorización para constituir y operar una Filial o una Sociedad Controladora Filial, previa audiencia, en los términos establecidos en la ley aplicable.
+
+SEXTO.- El otorgamiento de autorizaciones para organizarse y operar como Filiales, así como para inscribirse en la Sección de Intermediarios del Registro Nacional de Valores e Intermediarios, se podrá suspender cuando se hayan alcanzado los límites agregados a la participación de Instituciones Financieras del Exterior, o procedan las cláusulas de salvaguarda que en su caso establezca el tratado o acuerdo internacional aplicable.
+
+SEPTIMO.- Los límites individuales y agregados aplicables a las Filiales que en su caso establezcan los tratados o acuerdos internacionales correspondientes, serán calculados con base en la información proporcionada por la Comisión Nacional competente y por el Banco de México, en los términos de las reglas para el establecimiento de Filiales.
+
+OCTAVO.- Tratándose de instituciones de banca múltiple Filiales, los límites de capital individual y agregados se fijarán con base en el capital neto de la totalidad de las instituciones de banca múltiple establecidas en México en la fecha de cálculo.
+
+NOVENO.- Tratándose de sociedades financieras de objeto limitado Filiales, los límites individuales y agregados se fijarán con base en la suma de los activos de la totalidad de las instituciones de banca múltiple y las sociedades financieras de objeto limitado establecidas en México en la fecha de cálculo.
+
+DECIMO.- Tratándose de las sociedades Filiales inscritas en la Sección de Intermediarios del Registro Nacional de Valores e Intermediarios, los límites de capital individuales y agregados se fijarán con base en el capital global de la totalidad de las instituciones del mismo tipo establecidas en México en la fecha de cálculo.
+
+DECIMO PRIMERO.- Tratándose de organizaciones auxiliares de crédito Filiales, casas de cambio Filiales e instituciones de fianzas Filiales, los límites de capital individuales y agregados se fijarán con base en la suma del capital contable de la totalidad de las instituciones del mismo tipo establecidas en México en la fecha de cálculo.
+
+DECIMO SEGUNDO.- Los límites de capital individuales y agregados aplicables a las instituciones de seguros se fijarán con base en la cantidad que como requerimiento bruto de solvencia, necesiten las instituciones de seguros. Dicho requerimiento bruto de solvencia corresponderá al capital mínimo de garantía que se establezca, de acuerdo a las reglas que conforme al artículo 60 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros compete emitir a la Secretaría de Hacienda y Crédito Público, y se considerará por separado para la realización de las operaciones de vida, accidentes y enfermedades por una parte y de daños, considerando cada uno de sus ramos, por la otra.
+
+DECIMO TERCERO.- No obstante lo dispuesto en el artículo 29 fracción II de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, las Instituciones Financieras del Exterior podrán adquirir, previa autorización de un programa de inversiones por la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Seguros y Fianzas, una participación accionaria en una institución de seguros de las previstas en el inciso a) de la fracción I Bis, del artículo 29 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, por constituirse o ya establecidas, de conformidad con lo dispuesto en los tratados o acuerdos internacionales aplicables.
+
+Las Instituciones Financieras del Exterior que antes de la entrada en vigor del tratado o acuerdo aplicable tengan inversiones en instituciones de seguros, podrán incrementar éstas de conformidad con dicho tratado.
+
+A las inversiones señaladas en los dos párrafos anteriores no les serán aplicables los límites de capital individuales y agregados de conformidad con el tratado o acuerdo internacional aplicable.
