@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-becas-de-la-universidad-tecnologica-de-nayarit-23
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-16"
-last_updated: "2002-02-16"
+last_updated: "2003-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO DE BECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2003.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el sábado 16 de febrero de 2002.
 
@@ -85,19 +85,29 @@ II.- Observar excelente conducta;
 
 III.- Estar al corriente en sus pagos.
 
+> <small>N. DE E. DE CONFORMIDAD CON LA REFORMA AL PRESENTE PARRAFO, SE MODIFICA LA ESTRUCTURA DEL MISMO.</small>
+
 El promedio de calificación cuatrimestral que se tomará en cuenta para la exención parcial o total de pago será:
 
-- De 8.5 a 8.9 se bonificará el 25% de la colegiatura
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2003)</small>
 
-- De 9.00 a 9.4 se bonificará el 50% de la colegiatura
+- De 8.5 a 8.9 bonificación del 50% de la colegiatura
 
-- De 9.5 a 9.9 se bonificará el 75% de la colegiatura
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2003)</small>
 
-- De 10 se bonificará el 100% de la colegiatura.
+- De 9 a 9.5 bonificación del 75% de la colegiatura
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2003)</small>
+
+- De 9.6 a 10 bonificación del 100%
 
 Las becas se otorgarán a los alumnos que hayan cursado cuando menos un cuatrimestre en la Universidad.
 
 La universidad, al principio del segundo cuatrimestre, podrá determinar otros incentivos adicionales para los alumnos becados.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2003)</small>
+
+Las becas académicas y en especie que proporciona la Universidad, podrán otorgarse aún cuando el alumno cuente con una beca de apoyo económico de otros programas.
 
 ###### ARTÍCULO 6o.
 
@@ -145,9 +155,13 @@ IV.- Realizar un estudio socioeconómico de los aspirantes a becarios;
 
 V.- Aprobar o rechazar las solicitudes sometidas a su consideración;
 
-VI.- Solicitar a los Directores de Carrera y a la Jefatura del Departamento de Servicios Escolares, cuando se considere necesario, la información que se requiera para comprobar el desempeño del alumno; y
+VI.- Solicitar a los Directores de Carrera y a la Jefatura del Departamento de Servicios Escolares, cuando se considere necesario, la información que se requiera para comprobar el desempeño del alumno; y (sic)
 
-VII.- Las demás que establezca el presente Reglamento.
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2003)</small>
+
+VII.- Evaluar las propuestas que hagan los Directores de Carrera, emitidas sobre la información proporcionada por el Departamento de Servicios Escolares para la adjudicación de las becas, cuando el alumno no cubra alguno de los requisitos establecidos en el presente Reglamento, así como proceder a su cancelación de forma inmediata, cuando el alumno incurra en una falta que amerite esa sanción;
+
+VIII.- Las demás que establezca el presente Reglamento.
 
 ###### ARTÍCULO 12.
 
@@ -183,7 +197,9 @@ III.- Que deje de ser alumno de la Universidad;
 
 IV.- Incurrir en las responsabilidades que establece el artículo 53 del Reglamento Interior de la Universidad;
 
-V.- Cuando el alumno reciba apoyos de otros programas de becas.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2003)</small>
+
+V.- Cuando el alumno reciba apoyos económicos de otros programas de becas, siempre y cuando existan solicitudes pendientes de atender de alumnos que no tengan ninguna beca.
 
 ###### ARTÍCULO 18.
 
@@ -234,6 +250,12 @@ c).- El número de becas por carrera;
 d).- Período que cubren las becas;
 
 e).- Fecha, hora y lugar para la presentación de la documentación; (sic)
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2003)</small>
+
+###### ARTÍCULO 24 Bis.
+
+Previa a las reuniones del Comité de Becas, la Dirección de Vinculación y el Departamento de Servicios Escolares, deberán analizar y revisar las solicitudes de becas.
 
 ###### ARTÍCULO 25.
 
@@ -326,3 +348,9 @@ Lic. David Guerrero Castellón
 SECRETARIO
 
 Lic. Laura O. Bañuelos Q.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE JULIO DE 2003.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NAYARIT.
