@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1929-09-06"
+last_updated: "1931-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE SEPTIEMBRE DE 1929.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE FEBRERO DE 1931.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -428,17 +428,21 @@ DE LAS PARTES INTEGRANTES DE LA FEDERACION Y DEL TERRITORIO NACIONAL.
 
 El territorio nacional comprende el de las partes integrantes de la federación, y además el de las islas adyacentes en ambos mares. Comprende asimismo, la isla de Guadalupe, las de Revillagigedo y la de la Pasión, situadas en el Océano Pacífico.
 
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1931)</small>
+
 ###### Art. 43.
 
-Las partes integrantes de la Federación, son los Estados de Aguascalientes, Campeche, Coahuila, Colima, Chiapas, Chihuahua, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, México, Michoacán, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatán, Zacatecas, Distrito Federal, Territorio de la Baja California y Territorio de Quintana Roo.
+Las partes integrantes de la Federación son los Estados de Aguascalientes, Campeche, Coahuila, Colima, Chiapas, Chihuahua, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, México, Michoacán, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatán, Zacatecas, Distrito Federal, Territorio Norte de Baja California, Territorio Sur de Baja California y Territorio de Quintana Roo.
 
 ###### Art. 44.
 
 El Distrito Federal se compondrá del territorio que actualmente tiene, y en el caso de que los Poderes Federales se trasladen a otro lugar, se erigirá en Estado del Valle de México, con los límites y extensión que le asigne el Congreso General.
 
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1931)</small>
+
 ###### Art. 45.
 
-Los Estados y Territorios de la Federación conservan la extensión y límites que hasta hoy han tenido, siempre que no haya dificultad en cuanto a éstos.
+Los Estados y Territorios de la Federación conservan la extensión y límites que hasta hoy han tenido, siempre que no haya dificultad en cuanto a éstos; sirviendo de línea divisoria entre los Territorios Norte y Sur de la Baja California, el paralelo 28º, de latitud Norte.
 
 ###### Art. 46.
 
@@ -1657,3 +1661,7 @@ Unico.- Esta ley entrará en vigor el día primero de enero de mil novecientos v
 D.O.F. 6 DE SEPTIEMBRE DE 1929.
 
 LA LEY DE REFORMAS CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
+
+D.O.F. 7 DE FEBRERO DE 1931.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
