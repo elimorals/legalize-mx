@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1992-01-17"
+last_updated: "1992-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 1992.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -657,7 +657,7 @@ La Ley Orgánica del Poder Legislativo señalará las formalidades con que deber
 
 El Congreso podrá reunirse para realizar sesiones extraordinarias, cuando sea convocado para ese objeto por la Comisión Permanente, por sí o a solicitud del Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 1992)</small>
 
 ## TITULO QUINTO. DE LA ESTRUCTURA POLITICA DEL ESTADO DE GUERRERO
 
@@ -669,7 +669,15 @@ El Congreso podrá reunirse para realizar sesiones extraordinarias, cuando sea c
 
 ###### ARTICULO 43.
 
-Dentro de la segunda semana del mes de febrero de cada año, se reunirá el Congreso en Sesión de Período Extraordinario ante la cual el Gobernador del Estado rendirá un informe escrito pormenorizado del estado que guarda la Administración Pública de la Entidad, con excepción del último año del período constitucional, que se rendirá en sesión ordinaria, pública y solemne, en la tercera semana del mes de marzo del año respectivo.
+El Gobernador del Estado deberá enviar al Congreso en los primeros quince días del mes de febrero, salvo en el último año del mandato que se hará en la primera quincena de enero, el Informe escrito pormenorizado del estado que guarda la administración pública de la Entidad correspondiente al año natural inmediato anterior, para su trámite constitucional, conforme a lo siguiente:
+
+I.- Si el Gobernador del Estado asiste a sesión del Congreso para leer un mensaje sobre dicho Informe, esa sesión será solemne y se llevará a cabo dentro de la segunda quincena del mes de febrero. El Presidente del Congreso contestará el Informe en términos generales y al efecto se invitará a un representante del Jefe del Estado Mexicano a la referida ceremonia para pronunciar un mensaje alusivo, y en los términos del artículo 74 Fracción VIII.
+
+El discurso de contestación del Presidente se fundará en el Informe enviado con antelación y será acordado por el Congreso.
+
+II. Si el Gobernador del Estado no acude a la sesión señalada en la fracción anterior, en la segunda quincena del mes de febrero se presentarán a sesión el Secretario General de Gobierno y los Secretarios de Despacho para responder a los planteamientos que sobre el Informe de Gobierno formulen los Diputados, y sin perjuicio de la presentación de sus respectivas memorias del ramo y de que comparezcan con sujeción al artículo 45.
+
+Lo anterior sin menoscabo del análisis y discusión que sobre el Informe realicen los Diputados.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1099,9 +1107,9 @@ VI.- Vetar por una sola vez en el término improrrogable de diez días hábiles,
 
 VII.- Presentar al Congreso a más tardar el día quince de diciembre de cada año para su discusión y aprobación en su caso, los proyectos de Ley de Ingresos y del Presupuesto de egresos para el ejercicio fiscal siguiente.
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 1992)</small>
 
-VIII.- Rendir dentro de la segunda semana del mes de febrero de cada año ante el Congreso, en sesión de período extraordinario, el informe de su Gobierno, con excepción del último año del período constitucional que lo rendirá en la tercera semana del mes de marzo del año respectivo.
+VIII.- Rendir ante el Congreso del Estado, el informe anual de su Gobierno en las fechas y términos del artículo 43 de esta Constitución.
 
 IX.- Nombrar y remover libremente a los funcionarios y a los empleados del Poder Ejecutivo, cuyo nombramiento o causa de remoción no estén determinados en otra forma por esta Constitución o por las Leyes correspondientes.
 
@@ -2594,3 +2602,13 @@ DECRETO NUMERO 228.
 ###### ARTICULO UNICO.
 
 El presente Decreto de Reformas y Adiciones al Artículo 76 Bis de la Constitución Política del Estado Libre y Soberano de Guerrero entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+P.O. 22 DE MAYO DE 1992.
+
+###### ARTICULO PRIMERO.
+
+Las presentes Reformas y Adiciones, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se deroga toda disposición legal que se oponga a lo prevenido en este Decreto de Reformas y Adiciones.
