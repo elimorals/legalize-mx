@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-civiles-del-estado-de-michoacan-5934"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1991-12-30"
+last_updated: "1997-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DE 1997.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el 30 de julio de 1936.
 
@@ -5203,19 +5203,21 @@ La apelación puede admitirse en el efecto devolutivo y en el suspensivo, o sola
 
 La apelación admitida en ambos efectos, suspende desde luego los efectos o la ejecución de la resolución recurrida, hasta que ésta cause ejecutoria; y, entre tanto, sólo podrán dictarse las resoluciones que se refieran a la administración, custodia o conservación de los bienes embargados o intervenidos judicialmente, siempre que la apelación no verse sobre alguno de estos puntos.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1981)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1997)</small>
 
 ###### Artículo 698.
 
-La apelación admitida sólo en el efecto devolutivo, no suspende la ejecución ni efectos de la resolución recurrida; y si ésta es sentencia definitiva, se dejará en el juzgado para ejecutarla, copia certificada de ella y de las demás constancias que el juez estime necesarias, remitiéndose los autos originales al Supremo Tribunal de Justicia, a fin de ser turnados a la sala que corresponda. Si es auto o interlocutoria, se remitirá para ese efecto, testimonio de las constancias que el apelante señale como conducentes y a él se agregarán, a costa del colitigante, las que éste designe dentro de las cuarenta y ocho horas siguientes a la notificación del auto que ordena la remisión del testimonio.
+La apelación admitida sólo en el efecto devolutivo no suspende la ejecución ni los efectos de la resolución recurrida; y si ésta es sentencia definitiva se dejará, en el juzgado para ejecutarla, copia certificada de ella y de las demás constancias que el juez estime necesarias, remitiéndose los autos originales al Supremo Tribunal de Justicia, a fin de ser turnados a la sala que corresponda. Si es auto o interlocutorias se remitirá, para ese efecto, testimonio de las constancias que el apelante señale y aporte a su costa dentro del término de los tres días siguientes a la interposición del recurso, y a él se agregarán, a costa del colitigante, las que éste designe dentro de las cuarenta y ocho horas siguientes a la notificación del auto que lo admita.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1997)</small>
 
 ###### Artículo 699.
 
-Si el apelante no señalare constancias al interponer el recurso, éste no será admitido. Si las demás partes no hacen el señalamiento que les corresponde, se enviará el testimonio con las constancias señaladas por el apelante.
+Si el apelante no señala y aporta las constancias en los términos legales, el recurso no será admitido; y en este caso contra la admisión, o la no admisión, no procederá recurso alguno.
 
-En todo caso, el testimonio contendrá, además las constancias que el juez estime conducentes.
+Si la parte apelada no señala ni aporta las constancias que le corresponden, se enviará el testimonio con las señaladas y aportadas por el apelante.
+
+En todo caso, el testimonio contendrá, además, las constancias que el juez estime conducentes.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -5259,11 +5261,11 @@ La apelación debe interponerse ante el juez que pronunció la sentencia, ya ver
 
 La parte que obtuvo puede adherirse a la apelación interpuesta al notificársele su admisión, o dentro de las veinticuatro horas siguientes, a la notificación; en este caso, la adhesión al recurso sigue la suerte de éste. La parte que se adhiere, señalará domicilio en la capital del Estado, al hacer valer este derecho, para los efectos indicados en el artículo 704, aplicándose las mismas reglas si omite este requisito.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1981)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1997)</small>
 
 ###### Artículo 706.
 
-Interpuesta la apelación en tiempo hábil, el juez la admitirá a sin substanciación alguna, si procede legalmente. Si así conviniere a sus intereses, la apelada señalará ante el juez, domicilio para oír notificaciones en la capital del Estado, dentro de las cuarenta y ocho horas siguientes a su admisión, apercibida que de no hacerlo, todas las notificaciones quedarán hechas por medio de lista, conforme a lo previsto en los artículos 78 y 87; pero si está en el caso del artículo 86, se observarán las reglas de este precepto.
+Interpuesta la apelación en tiempo hábil, y una vez aportadas por el apelante las constancias que deben integrar el testimonio, el juez la admitirá sin substanciación alguna, si procede legalmente. Si así conviniere a sus intereses, la apelada señalará ante el juez, domicilio para oír notificaciones en la capital del Estado, dentro de las cuarenta y ocho horas siguientes a su admisión, apercibida de que, de no hacerlo, todas las notificaciones quedarán hechas por medio de lista, conforme a lo previsto por los artículos 78 y 87; pero si se está en el caso del artículo 86, se observarán las reglas de este precepto.
 
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 1981)</small>
 
@@ -10582,3 +10584,7 @@ P.O. 30 DE DICIEMBRE DE 1991.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE OCTUBRE DE 1997.
+
+UNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
