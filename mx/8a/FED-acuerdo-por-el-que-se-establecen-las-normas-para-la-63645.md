@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-por-el-que-se-establecen-las-normas-para-la-63645"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1994-08-30"
-last_updated: "2001-03-01"
+last_updated: "2001-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63645&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,19 +21,19 @@ issue_date: "1994-08-28"
 
 ACUERDO QUE REFORMA EL ANEXO V DEL DIVERSO POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, EN MATERIA DE CUOTAS COMPENSATORIAS
 
-Acuerdo publicado en la Cuarta Sección del Diario Oficial de la Federación, el jueves 1 de marzo de 2001.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 23 de marzo de 2001.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-LUIS ERNESTO DERBEZ BAUTISTA, Secretario de Economía, con fundamento en los artículos 34 fracciones I y XXX de la Ley Orgánica de la Administración Pública Federal; 2o., 5o. fracción IV, 9o., 10 y 66 de la Ley de Comercio Exterior, y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y quinto transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, de la Ley Federal de Radio y Televisión, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, de la Ley de la Policía Federal Preventiva y de la Ley de Pesca, y
+LUIS ERNESTO DERBEZ BAUTISTA, Secretario de Economía, con fundamento en los artículos 34 fracciones I y XXX de la Ley Orgánica de la Administración Pública Federal; 2o., 5o. fracción IV, 9o. y 10 de la Ley de Comercio Exterior, y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que con fecha 30 de agosto de 1994 fue publicado en el Diario Oficial de la Federación el Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias, el cual fue reformado y adicionado mediante diversos dados a conocer en el mismo órgano informativo el 11 de noviembre de 1996, 12 de octubre de 1998, 30 de junio de 1999 y 30 de junio de 2000, respectivamente, el cual tiene por objeto establecer las normas para la determinación y certificación del país de origen de las mercancías que se importen al territorio de los Estados Unidos Mexicanos para efectos de la aplicación del artículo 66 de la Ley de Comercio Exterior;
+Que con fecha 30 de agosto de 1994 fue publicado en el Diario Oficial de la Federación el Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias, el cual fue reformado y adicionado mediante diversos dados a conocer en el mismo órgano informativo el 11 de noviembre de 1996, 12 de octubre de 1998, 30 de julio de 1999, 30 de junio de 2000 y 1 de marzo de 2001, respectivamente, el cual tiene por objeto establecer las normas para la determinación y certificación del país de origen de las mercancías que se importen al territorio de los Estados Unidos Mexicanos, para efectos de la aplicación del artículo 66 de la Ley de Comercio Exterior;
 
 Que el artículo cuarto fracción I inciso c) del citado Acuerdo, establece que para efectos de lo dispuesto en el artículo 66 de la Ley de Comercio Exterior, el importador de mercancías idénticas o similares a aquéllas por las que, de conformidad con la resolución respectiva, deba pagarse una cuota compensatoria, provisional o definitiva, no estará obligado a pagarla si comprueba que el país de origen de las mercancías es distinto del país que exporta mercancías en las condiciones de prácticas desleales al comercio internacional, para lo cual, en el caso de mercancías por las que se solicite trato arancelario preferencial al amparo de algún tratado internacional listado en el anexo V, deberá contar con el Certificado de Origen emitido de conformidad con dicho tratado;
 
-Que para fortalecer y ampliar las relaciones comerciales con la República Oriental del Uruguay se adoptó el Decimoquinto Protocolo Adicional del Acuerdo de Complementación Económica No. 5 entre los Estados Unidos Mexicanos y la República Oriental del Uruguay que aprobó el Senado de la República el 21 de diciembre de 2000, el decreto de aprobación fue publicado en el Diario Oficial de la Federación el 26 de enero de 2001, y
+Que para fortalecer y ampliar las relaciones comerciales con las repúblicas de El Salvador, Guatemala y Honduras, se suscribió el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las repúblicas de El Salvador, Guatemala y Honduras que aprobó el Senado de la República el 14 de diciembre de 2000, cuyo Decreto de aprobación se publicó en el Diario Oficial de la Federación el 19 de enero de 2001 y en el mismo órgano informativo se publicó el 14 de marzo de 2001 el Decreto Promulgatorio del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las repúblicas de El Salvador, Guatemala y Honduras y el 15 de marzo el Acuerdo por el que se da a conocer la entrada en vigor del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las repúblicas de El Salvador y Guatemala, y
 
 Que es necesario actualizar y dar a conocer las disposiciones referentes a la determinación y certificación del país de origen de mercancías importadas en materia de cuotas compensatorias, he tenido a bien expedir el siguiente:
 
@@ -625,21 +625,13 @@ p) Del Capítulo 96 la siguiente:
 
 ###### ARTICULO UNICO.
 
-Se reforma el primer párrafo del Anexo V del Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias publicado el 30 de agosto de 1994 en el Diario Oficial de la Federación y reformado y adicionado mediante diversos dados a conocer en el mismo órgano informativo el 11 de noviembre de 1996, 12 de octubre de 1998, el 30 de junio de 1999 y 30 de junio de 2000, respectivamente, y se adiciona la lista contenida en el mismo, para quedar como sigue:
+Se adiciona a la lista contenida en el Anexo V del Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias, publicado en el Diario Oficial de la Federación el 30 de agosto de 1994 y reformado y adicionado mediante diversos dados a conocer en el mismo órgano informativo el 11 de noviembre de 1996, 12 de octubre de 1998, el 30 de julio de 1999, 30 de junio de 2000 y 1 de marzo de 2001, respectivamente, el Tratado de Libre Comercio que se indica, para quedar como sigue:
 
 “ANEXO V
 
-Los siguientes tratados de libre comercio y los Acuerdos Comerciales que otorgan a la autoridad mexicana facultades de comprobación en el extranjero respecto del Certificado de Origen:
-
 . . .
 
-. . .
-
-. . .
-
-. . .
-
-Decimoquinto Protocolo Adicional del Acuerdo de Complementación Económica No. 5 entre los Estados Unidos Mexicanos y la República Oriental del Uruguay.”
+Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras.”
 
 ###### ARTICULO CUARTO.
 
@@ -731,6 +723,6 @@ VII.- Tratándose del retorno de mercancías exportadas temporalmente conforme a
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor el día de su publicación.
+UNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
-México, D.F., a 28 de febrero de 2001.- Con fundamento en el artículo 40 del Reglamento Interior de la Secretaría de Comercio y Fomento Industrial y quinto transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, de la Ley Federal de Radio y Televisión, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, de la Ley de la Policía Federal Preventiva y de la Ley de Pesca, y por ausencia del Secretario de Economía, del Subsecretario de Negociaciones Comerciales Internacionales y del Subsecretario de Promoción de la Industria y el Comercio Exterior, firma el Subsecretario de Normatividad y Servicios a la Industria y al Comercio Exterior, Juan Antonio García Villa.- Rúbrica.
+México, D.F., a 19 de marzo de 2001.- El Secretario de Economía, Luis Ernesto Derbez Bautista.- Rúbrica.
