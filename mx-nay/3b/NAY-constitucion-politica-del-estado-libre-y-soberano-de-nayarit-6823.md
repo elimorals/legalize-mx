@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1940-11-27"
+last_updated: "1941-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 1940.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 1941.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -47,15 +47,17 @@ El Gobierno del Estado es republicano, popular y representativo, teniendo como b
 
 ### CAPITULO II. Del Territorio del Estado
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+
 ###### Art. 3.
 
-El Territorio del Estado es el que le corresponde conforme a la Constitución Federal, y se divide en los siguientes Municipios: Acaponeta, Ahuacatlán, Amatlán de Cañas, Compostela, Huajicori, Ixtlán, Jala, Jalisco, La Yesca, Rosamorada, San Blas, San Pedro Lagunillas, Santa María del Oro, Santiago Ixcuintla, Tecuala, Tepic y Tuxpan.
+El territorio del Estado es el que le corresponde conforme a la Constitución Federal, y se divide en los siguientes Municipios: Acaponeta, Ahuacatlán, Amatlán de Cañas, Compostela, Del Nayar, Huajicori, Ixtlán del Río Jala, Jalisco, La Yesca, Rosamorada, Ruiz, San Blas San Pedro Lagunillas, Santiago Ixc., Santa María del Oro Tecuala Tepic y Tuxpan. Igualmente forman parte del Territorio del Estado las Islas que le corresponden conforme al Artículo 48º de la Constitución General de la República.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
 ###### Art. 4.
 
-Las Municipalidades de Ahuacatlán, Amatlán de Cañas, Compostela, Huajicori, Ixtlán, Jala, Jalisco, La Yesca, Rosamorada, San Blas, San Pedro Lagunillas, Santa María del Oro, Santiago Ixcuintla, Tepic y Tuxpan, seguirán con la misma extensión y limitación que hasta ahora han tenido.
-
-Lo que fue Sub-Prefectura de la Sierra de Nayarit, dependencia directa de la extinta Jefatura Política del Territorio, continuará perteneciendo en lo político y administrativo, al Gobierno del Estado, mientras la Legislatura provea lo conveniente.
+Las Municipalidades enunciadas en el Artículo anterior conservarán la extensión y límites que actualmente tienen, salvo en los casos previstos por las fracciones III y IV del Artículo 47o de esta Constitución.
 
 ###### Art. 5.
 
@@ -107,17 +109,17 @@ III. A recibir la educación primaria elemental en la forma prevenida por las le
 
 ### CAPITULO IV. De los vecinos
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+
 ###### Art. 10.
 
-Son vecinos del Estado: los habitantes que tengan un año de residencia habitual en cualquier parte de su Territorio.
+Son vecinos del Estado: los habitantes que tengan seis meses de residencia habitual en cualquier parte de su Territorio.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
 ###### Art. 11.
 
-La vecindad se pierde:
-
-I.- Por dejar de residir habitualmente, durante un año, en el Territorio del Estado.
-
-II.- Por separación del Territorio del Estado, siempre que se manifieste ante la autoridad correspondiente, el cambio de residencia.
+La vecindad se pierde: por dejar de residir habitualmente durante seis meses en el Territorio del Estado.
 
 ###### Art. 12.
 
@@ -125,7 +127,7 @@ La vecindad no se pierde:
 
 I. Por ausencia en virtud de comisión del servicio público del Estado o de la Federación, que no constituya empleo o funciones permanentes.
 
-II. Por ausencia con motivo de persecusiones políticas, si el hecho que las origina no implica la comisión de un delito.
+II. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 1941)
 
 III. Por ausencia con ocasión de estudios, comisiones científicas o artísticas.
 
@@ -139,25 +141,29 @@ Son obligaciones de los vecinos: inscribirse en los padrones de los lugares resp
 
 ### CAPITULO V. De los Nayaritas y ciudadanos Nayaritas
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+
 ###### Art. 15.
 
-Son nayaristas los hijos de mexicanos nacidos dentro del territorio del Estado.
+Son nayaritas los que nazcan en Territorio del Estado, sea cual fuere la nacionalidad de sus padres.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
 ###### Art. 16.
 
-Son ciudadanos nayaritas, los que además de tener una residencia habitual de dos años en el territorio del Estado, reúnan los requisitos a que se refiere el artículo 34 de la Constitución Federal.
+Son ciudadanos nayaritas, los vecinos del Estado que reúnan los requisitos que señala el Artículo 34º de la Constitución Política del País.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
 ###### Art. 17.
 
-Son derechos del ciudadano Nayarita:
+Son derechos del ciudadano nayarita:
 
-I. Votar y poder ser votado en las elecciones populares del Estado y en las de los poderes generales de la Federación, siempre que esté en el ejercicio de sus derechos cívicos y no sea ministro de algún culto religioso.
+I. Votar y poder ser votado en las elecciones populares del Estado siempre que esté en el ejercicio de sus derechos cívicos y no sea ministro de algún culto religioso.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 30 DE MARZO DE 1919)</small>
+II. Asociarse para tratar los asuntos políticos del Estado y las demás prerrogativas consignadas en el Artículo 35o de la Constitución Federal.
 
-II. Asociarse para tratar los asuntos políticos del Estado; y las demás prerrogativas consignadas en el artículo 35 de la Constitución Federal.
-
-III. Los nayaritas serán preferidos a los que no lo sean, en igualdad de circunstancias, para toda clase de concesiones, empleos, cargos o comisiones del Gobierno.
+III. Los nayaritas serán preferidos a los que no lo sean, en igualdad de circunstancias.
 
 ###### Art. 18.
 
@@ -189,9 +195,13 @@ Los derechos del ciudadano se suspenden:
 
 I. Por incapacidad declarada conforme a las leyes.
 
-II. Por estar procesado; esta suspensión produce efecto desde el momento en que causa ejecutoria el auto de formal prisión.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
-III. Por falta de cumplimiento sin causa justificada a las obligaciones impuestas en el artículo anterior. Esta suspensión durará un año, y se impondrá sin perjuicio de las otras penas, que por la misma falta señala la ley.
+II. Por estar sujeto a proceso criminal por delito que merezca pena corporal, a contar desde la fecha del auto de formar(sic) prisión, así como durante la extinción de una pena corporal.
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+
+III. Por falta de cumplimiento sin causa justificada, de cualquiera de las obligaciones que impone el artículo 18o. Esta suspensión durará un año, y se impondrá además de las otras penas que por el mismo hecho señalare la Ley.
 
 IV. Por sentencia judicial ejecutoriada que así lo determine expresamente.
 
@@ -259,23 +269,25 @@ Por cada Diputado propietario se elegirá un suplente.
 
 Para ser Diputado se requiere:
 
-I. Ser mexicano por nacimiento.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+
+I. Ser mexicano por nacimiento e hijo de padres mexicanos por nacimiento.
 
 II. Tener veinticinco años de edad cumplidos el día de la elección.
 
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
+> <small>(REFORMADA P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
-III. Ser originario del Distrito que deba representar, o nacido en el Estado y tener dos años de residencia en aquel, anteriores al día de la elección.
+III. a) Ser originario del Distrito que deba representar; o
+
+b) Ser originario del Estado con vecindad efectiva no menor de dos años en el Distrito; o
+
+c) Ser vecino del Distrito, con residencia efectiva en él, no menor de diez años inmediatamente anteriores al día de la elección.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
 ###### Art. 29.
 
-No pueden ser Diputados:
-
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
-
-I.- El Gobernador del Estado; el Secretario General de Gobierno, el Oficial Mayor del mismo, los Magistrados del Supremo Tribunal de Justicia en funciones, el Procurador General de Justicia; los militares del Ejército Nacional o de las fuerzas del Estado en servicio activo; los Jueces de Primera Instancia y Menores y los Presidentes Municipales en sus respectivas jurisdicciones.
-
-II.- Los ministros de cualquier culto religioso o secta.
+No pueden ser Diputados: el Gobernador del Estado, el Secretario General de Gobierno, el Oficial Mayor del mismo, los Magistrados del Supremo Tribunal de Justicia en funciones, el Procurador General de Justicia; los miembros del Ejército Nacional o de las fuerzas del Estado en servicio activo, los Jueces de Primera Instancia y Menores, los Presidentes Municipales en sus respectivas Jurisdicciones, a menos que se separen de su cargo o servicio noventa días ante de la elección.
 
 ###### Art. 30.
 
@@ -287,9 +299,11 @@ Los Diputados no podrán, durante el período de sus funciones, desempeñar otra
 
 ### CAPITULO II. De la instalación, duración y labores del Congreso
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+
 ###### Art. 32.
 
-Sin la asistencia de más de la mitad del número total de Diputados, no podrá el Congreso ejercer sus funciones, instalarse o abrirse en su caso; pero los que asistan cualquiera de que sea su número, deberán reunirse en los días señalados por la ley y compeler a los ausentes a fin de que concurran dentro de los diez días siguientes, con la advertencia de que, si no lo hacen, se entenderá que renuncian su cargo y se llamará desde luego a los suplentes, los que deberán presentarse en un plazo de veinte días, y si tampoco lo verificaren, se declarará vacante el cargo y se convocará a nueva elección.
+Sin la asistencia de cuatro Diputados cuando menos, no podrá ejercer el Congreso sus funciones, instalarse o abrirse en su caso pero los que asistan, cualquiera que sea su número, deberán reunirse en los días señalados por la Ley y compeler a los ausentes a fin de que concurran dentro de los diez días siguientes con la advertencia, de que si no lo hacen, se entenderá que renuncian su cargo, y se llamará desde luego a los Suplentes, los que deberán presentarse en un plazo de veinte días, y si tampoco lo verificaren, se declarará vacante el cargo y se convocará a nueva elección.
 
 Se entiende la aplicación de estas penas, en los casos en que no medie causa justificada.
 
@@ -297,9 +311,11 @@ Se entiende la aplicación de estas penas, en los casos en que no medie causa ju
 
 Si una vez instalado el Congreso o abierto su período de sesiones, no pudiere ejercer su cargo por falta de la mayoría requerida, se llamará inmediatamente a los suplentes los que permanecerán en funciones hasta la inmediata apertura de sesiones ordinarias.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+
 ###### Art. 34.
 
-El diputado que sin causa justificada faltare diez días consecutivos, perderá el derecho de concurrir a sesiones hasta el nuevo periodo, y se llamará al suplente.
+El Diputado que sin causa justificada faltare diez días consecutivos, perderá el derecho de concurrir a sesiones hasta el nuevo período ordinario, y se llamará al Suplente.
 
 > <small>(REFORMADO, P.O. 3 DE MAYO DE 1925)</small>
 
@@ -331,6 +347,8 @@ En el segundo período de sesiones ordinarias de cada año, se hará la revisió
 
 Ocho días antes de cerrarse el periodo de sesiones ordinarias se nombrará por el Honorable Congreso una Diputación Permanente compuesta de tres Ciudadanos Diputados, siendo el primero de los designados Presidente, el segundo Primer Secretario y el tercero Segundo Secretario, pudiendo el Primer Secretario substituir las faltas del Ciudadano Presidente.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+
 ###### Art. 40.
 
 Durante el receso, el Congreso solo podrá ser convocado a sesiones extraordinarias:
@@ -339,15 +357,11 @@ l. Por la Diputación Permanente.
 
 II. Por el Ejecutivo.
 
-III. Por acuerdo de las dos terceras partes del número total de los Diputados.
+III. Por acuerdo de las dos terceras partes del número total de los Diputados, pero por conducto de la Permanente.
 
-> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1930)</small>
+En todo caso, las convocatorias expresarán el asunto o asuntos que deban tratarse, no pudiéndose estudiar ni resolver ningunos otros.
 
-En este último caso la convocatoria se hará por conducto de la misma diputación, quien a la vez informará la causa que la motive y determinará el asunto o asuntos que deban tratarse.
-
-> <small>N. DE E. ESTE PARRAFO NO FUE ABROGADO EXPRESAMENTE EN EL DECRETO DE REFORMAS</small>
-
-A estas sesiones extraordinarias, precederá una junta preparatoria.
+A estas sesiones extraordinarias, precederá una Junta Preparatoria.
 
 ###### Art. 41.
 
@@ -417,35 +431,39 @@ VII. Dar la resolución correspondiente, aprobando, reformando, o reprobando las
 
 VIII. Convocar a elecciones, hacer el escrutinio de los votos emitidos para Gobernador; calificar dicha elección y declarar electo al que haya tenido mayoría de sufragios válidos.
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 1926)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
-IX. Constituirse en Colegio Electoral para elegir a los Magistrados del Supremo Tribunal de Justicia en el Estado
+IX. Constituirse en Colegio Electoral para elegir Magistrados Propietario y Suplentes del Supremo Tribunal de Justicia en el Estado, de las ternas respectivas que deberá enviarle el Ejecutivo del Estado. Si dentro del término de cinco días el Congreso no hiciere la designación, entrará en funciones de Magistrado la persona que figure en primer término en la terna correspondiente, entre tanto el Congreso hiciere la designación en la forma señalada.
 
 X. Recibir a los mismos funcionarios, la protesta de guardar y hacer guardar la Constitución General, la Particular del Estado y las leyes que de ambas emanen.
 
 XI. Aprobar o reprobar los convenios que el Gobernador celebre con los Estados vecinos respecto a las cuestiones de límites, y someter tales convenios a la resolución del Congreso de la Unión.
 
-XII. Resolver las competencias y dirimir las controversias que se susciten entre el Ejecutivo y el Supremo Tribunal, salvo lo prevenido en los artículos 76 fracción VIII y 105 de la Constitución General.
+XII. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 1941)
 
 XIII. Elegir quien deba sustituir al Gobernador en sus faltas.
 
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
-XIV. Autorizar al Ejecutivo para que a nombre del Estado acepte y reciba donaciones, contraiga deudas designando los recursos con que deban cubrirse; siempre que para ello se cuente con la aprobación por lo menos de las dos terceras partes del número total de diputados.
+XIV. Autorizar al Ejecutivo para gravar, enajenar y ceder los bienes del Estado, así como contraer obligaciones a nombre del mismo.
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 1940)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
-XV. Declarar cuando ha lugar a formación de causa contra el Gobernador, los Magistrados del Supremo Tribunal de Justicia, el Procurador General de Justicia, el Secretario General de Gobierno, el Tesorero General del Estado y Regidores de Ayuntamiento, tanto por delitos comunes, como por los delitos y faltas oficiales; erigiéndose para el caso en Gran Jurado.
+XV. Declarar, a pedimento del Procurador General de Justicia cuando ha lugar a formación de causa contra el Gobernador, los Magistrados del Supremo Tribunal de Justicia, el Secretario General de Gobierno y el Tesorero General del Estado, tanto por delitos de orden común, como por delitos y faltas oficiales, erigiéndose para el caso en Gran Jurado. Tratándose del Procurador General de Justicia, la petición deberá hacerla el Agente del Ministerio Público adscrito a la Procuraduría.
 
-XVI. Organizar el sistema penal sobre la base del trabajo como medio de regeneración,
+XVI. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 1941)
 
-XVII. Expedir las leyes sobre el trabajo, fundadas en las necesidades del Estado, sin contravenir las bases establecidas por el artículo 123 de la Constitución General de la República, las cuales leyes reglamentarán los derechos y obligaciones de los obreros, jornaleros, empleados, domésticos y artesanos y de una manera general toda clase de contrato de trabajo.
+XVII. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 1941)
 
 XVIII. Formar su reglamento interior y dictar las disposiciones necesarias para el servicio de sus Oficinas.
 
-XIX. Decidir acerca de las elecciones de Ayuntamientos, cuando se reclame la nulidad total o parcial de aquellas, y consignar a la Autoridad Judicial para su enjuiciamiento y castigo a los que resulten responsables de algún fraude.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
-XX. Conceder amnistía en circunstancias extraordinarias y siempre que se trate de delitos de la competencia de los tribunales del Estado.
+XIX. Decidir acerca de las elecciones de Ayuntamientos cuando se reclame la nulidad total de aquellas, y consignar al Ministerio Público para los fines de su representación, a los que resulten responsables de algún fraude y otros delitos.
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+
+XX. Conceder amnistía y expedir las Leyes de indulto, cuando lo estime de equidad.
 
 XXI. Dictar leyes sobre vías de comunicación local del Estado, sobre empresas de utilidad pública y aprovechamientos de las aguas de su jurisdicción, siempre que no tengan carácter de prepiedad (sic) federal.
 
@@ -453,11 +471,11 @@ XXII. Facultar al Ejecutivo con las limitaciones que sean necesarias, para que p
 
 XXIII. Investir al Gobernador, de facultades extraordinarias, cuando por las circunstancias lo juzgue necesario, aprobando o reprobando los actos que hayan emanado de ellas.
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 1937)</small>
+XXIV. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 1941)
 
-XXIV. Autorizar al Ejecutivo para que contraiga deudas a nombre del Estado, quien designará los recursos con que deban cubrirse, sujetándose a las restricciones establecidas por la Fracción VIII, del Artículo 117 de la Constitución General; siempre que para ello se cuente con la aprobación por lo menos, de las dos terceras partes del número total de Diputados.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
-XXV. Decretar la expropiación por causa de utilidad pública en la forma que determinen las leyes.
+XXV. Expedir Leyes de expropiación por causa de utilidad pública.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE MARZO DE 1919)</small>
 
@@ -473,9 +491,9 @@ XXIX. Formar los Códigos y demás leyes de su régimen interior.
 
 XXX. Dar reglas sobre colonización y enajenación de terrenos baldíos en el Estado.
 
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
-XXXI. Condonar contribuciones cuando lo considere equitativo y en caso de notoria insolvencia del deudor, pero siempre de acuerdo en el Ejecutivo; y absolver de responsabilidades a los empleados en Rentas cuando así procediere.
+XXXI. Condonar contribuciones en caso de notoria insolvencia del causante, pero siempre de acuerdo con el Ejecutivo.
 
 XXXII. Expedir todas las leyes que sean necesarias o propias para hacer efectivas las facultades que anteceden.
 
@@ -485,9 +503,7 @@ XXXIII. Ejercer las facultades que le correspondan conforme a la Constitución G
 
 XXXIV.- Conceder el revalúo de cualquiera finca urbana o rústica con sujeción a las leyes de la materia.
 
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 1919)</small>
-
-XXXV.- Designar, en funciones de Colegio Electoral, el candidato que para integrar la Suprema Corte de Justicia de la Nación, debe proponer la Legislatura de cada Estado de la Federación según el artículo 96 de la Constitución General. En la elección de este Candidato, el Congreso se sujetará a lo ordenado para la elección de los Magistrados del Supremo Tribunal de Justicia en el Estado.
+XXXV.- (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 1941)
 
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1930)</small>
 
@@ -537,13 +553,17 @@ Son materia de Acuerdo, todas las demás resoluciones de la Cámara que no tenga
 
 Las Leyes y Decretos se comunicarán al Ejecutivo para su promulgación y observancia, firmados por el Presidente y Secretarios, y los acuerdos sólo por los Secretarios. Aprobado por la Cámara un Proyecto de Ley o Decreto, lo enviará desde luego al Ejecutivo para que dentro del plazo de diez días haga las observaciones que juzgue pertinentes.
 
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+
 ###### Art. 54.
 
-Todo proyecto de ley o decreto, se reputará aprobado por el Ejecutivo, si no fuere devuelto en el plazo señalado por el artículo anterior, a no ser que durante el transcurso del término señalado, la Legislatura hubiere clausurado o suspendido sus sesiones, pues en tal caso, la devolución deberá hacerse el primer día hábil en que el Congreso se reúna nuevamente.
+Todo Proyecto de Ley o de Decreto, se reputará aprobado por el Ejecutivo, si no fuere devuelto en el plazo señalado por el Artículo anterior, a no ser que durante el transcurso del término señalado, la Legislatura hubiere clausurado o suspendido sus sesiones, pues en tal caso la devolución deberá hacerse dentro de los cinco primeros días hábiles del período ordinario siguiente.
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
 ###### Art. 55.
 
-Todo proyecto de ley o decreto devuelto por el Ejecutivo con observaciones, necesita para su aprobación, el voto de las dos terceras partes de los Diputados presentes y en este caso, será remitido nuevamente al Ejecutivo, para que sin más trámite lo promulgue.
+Todo Proyecto de Ley o Decreto devuelto por el Ejecutivo, con observaciones, necesita para su aprobación el voto de cinco Diputados cuando menos, que en este caso, será remitido nuevamente al Ejecutivo, para que sin más trámite lo promulgue.
 
 ###### Art. 56.
 
@@ -551,13 +571,15 @@ Todo proyecto de ley o decreto que fuere desechado por el Congreso, no podrá vo
 
 ###### Art. 57.
 
-Al promulgarse una disposición Legislativa que adopte, modifique o derogue uno o varios artículos de otra ley, serán reproducidos textualmente al pie de la nueva, los artículos que a ella se refieren.
+(DEROGADO, P.O. 3 DE SEPTIEMBRE DE 1941)
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
 ###### Art. 58.
 
-El Ejecutivo no podrá hacer observaciones a los acuerdos económicos; a las resoluciones que dicte la Legislatura erigida en Gran Jurado o en Colegio Electoral, y las que se refieran a la responsabilidad de los funcionarios por delitos oficiales.
+El Ejecutivo no podrá hacer observaciones a las resoluciones que dicte la Legislatura erigida en Gran Jurado o en Colegio Electoral, y a las que se refieren a la responsabilidad de los funcionarios por delitos oficiales.
 
-Tampoco podrá hacerlas al decreto o convocatoria que expida la Diputación Permanente en el caso del artículo 40 fracción III de la presente Constitución.
+Tampoco podrá hacerlas a las Convocatorias para sesiones extraordinarias que expida la Diputación Permanente.
 
 ###### Art. 59.
 
@@ -589,7 +611,7 @@ VII. Recibir los expedientes relativos a las elecciones de Diputados y Gobernado
 
 VIII. Conceder amnistía, de acuerdo con la fracción XX del artículo 47 de esta misma Constitución.
 
-IX.- Verificar, de acuerdo con el Ejecutivo, el cambio de residencia temporal de los Poderes del Estado, en los casos de suma urgencia.
+IX. Verificar, de acuerdo con el Ejecutivo, el cambio de residencia temporal de los Poderes del Estado, en los casos de suma urgencia.
 
 ## TITULO CUARTO
 
@@ -603,9 +625,9 @@ Se confiere el Poder Ejecutivo a un ciudadano que se denominará Gobernador Cons
 
 Para ser Gobernador se requiere:
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 1919)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
-I. Ser ciudadano mexicano por nacimiento, hijo de padres mexicanos, nativo del Estado, o con vecindad legal en él no menor de cinco años inmediatamente anteriores al día de la elección.
+I. Ser ciudadano mexicano por nacimiento, hijo de padres mexicanos, nativo del Estado o con vecindad efectiva en él, no menor de cinco años inmediatamente anteriores al día de la elección.
 
 II. Tener treinta y cinco años de edad cumplidos el día de la elección y no más de sesenta y cinco.
 
@@ -621,17 +643,27 @@ VI. No haber figurado directa ni indirectamente en alguna sedición, cuartelazo,
 
 El Gobernador será electo popular y directamente cada cuatro años. Empezará a ejercer sus funciones el primero de enero posterior a la elección, protestando aquél ante el Congreso del Estado, y no podrá ser reelecto.
 
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+
 ###### Art. 64.
 
-En las faltas absolutas de Gobernador, se procederá a nueva elección y, el que resultare electo, tomará posesión de su cargo luego que se haga la declaratoria correspondiente.
+En las faltas absolutas del Gobernador, se procederá a nueva elección y el que resulte electo, tomará posesión de su cargo luego que se haga la declaratoria correspondiente.
 
-En las faltas temporales y en las absolutas, mientras se verifica la elección y se presenta el nuevo electo, entrará en el ejercicio del Poder Ejecutivo, interinamente, el ciudadano a quien designe el Congreso en escrutinio secreto y por mayoría absoluta.
+En las faltas temporales y en las absolutas, mientras se verifica la elección y se presente el nuevo electo, entrará en el ejercicio del Poder Ejecutivo interinamente, el ciudadano a quien designe el Congreso en escrutinio secreto y por mayoría absoluta.
 
-Si la falta absoluta del Gobernador ocurriere en el último año del período constitucional, no se convocará a elecciones extraordinarias, sino que la persona que desempeñare el Poder Ejecutivo, por designación de la Legislatura, seguirá en cargo de él hasta que concluya dicho periodo.
+Si la falta absoluta del Gobernador ocurriere en los dos últimos años del período Constitucional, no se convocará a elecciones extraordinarias, si no que asumirá el Poder Ejecutivo la persona que designe la Legislatura.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
 ###### Art. 65.
 
-No puede ser electo Gobernador, el que con cualquier carácter hubiere ejercido el Poder Ejecutivo, al tiempo de la elección o noventa días anteriores a ella.
+No puede ser Gobernador el que con anterioridad hubiere ejercido el Poder Ejecutivo mediante elección popular.
+
+Nunca podrán ser electos para el período inmediato:
+
+a). El Gobernador substituto Constitucional o el designado para concluir el período en caso de falta absoluta del Constitucional, aún cuando tenga distinta denominación.
+
+b). El Gobernador Interino, el Provisional o el Ciudadano que bajo cualquier denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
 
 ###### Art. 66.
 
@@ -655,21 +687,25 @@ Son facultades y obligaciones del Gobernador:
 
 I.- Cuidar de la seguridad del Estado y de la de sus habitantes, protegiéndolos en el ejercicio de sus derechos.
 
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
-II.- Sancionar, promulgar y ejecutar las leyes y decretos dados por el Poder Legislativo Federal y local, y formar en la parte administrativa los reglamentos necesarios para la exacta observancia de las resoluciones del segundo.
+II.- Sancionar, promulgar y ejecutar las Leyes y Decretos dados por el Poder Legislativo y formar en la parte administrativa los Reglamentos necesarios para su más exacta observancia.
 
-III.- Iniciar ante la Legislatura las leyes y decretos que juzgue convenientes para el mejoramiento de la administración pública y pedirle que inicie ante el Congreso de la Unión, lo que sea de la competencia Federal.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1938)</small>
+III.- Iniciar ante la Legislatura, las Leyes y Decretos que juzgue convenientes para el mejoramiento de la administración pública y pedirle que inicie ante el Congreso de la Unión, lo que sea de la competencia Federal.
 
-IV.- Presentar a la Legislatura dentro de los primeros diez días del primer periodo ordinario de sesiones de cada año o sea del primero al diez de diciembre, el Presupuesto de Gastos del año siguiente, proponiendo arbitrios para cubrirlo.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
-V.- (A). Cuidar de la legal recaudación e inversión de todos los caudales públicos.
+IV.- Presentar a la Legislatura dentro de los primeros diez días del primer período ordinario de sesiones de cada año, o sea del primero al diez de diciembre, el Presupuesto de gastos del año siguiente, proponiendo arbitrios para cubrirlo.
 
-(B). Visitar o hacer visitar, cuando lo juzgue conveniente las Oficinas Municipales, para estudiar sus necesidades y dar cuenta al Congreso con el resultado.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
-(C) Visitar o hacer visitar las Oficinas de su dependencia y multar, suspender o destituir inmediatamente a los empleados responsables, debiendo consignarlos dentro del tercero día al Juez que corresponda en caso de delito o falta grave.
+V.- (A). Cuidar de la legal recaudación e inversión de todos los caudales públicos, haciendo las consignaciones que procedan al Ministerio Público.
+
+(B). Visitar o hacer visitar, cuando lo juzgue conveniente las Oficinas Municipales para los efectos del párrafo anterior, y para estudiar sus necesidades fin de dar cuenta de su resultado al Congreso.
+
+(C). Visitar o hacer visitar las Oficinas de su dependencia y dictar los acuerdos que procedan, haciendo las consignaciones pertinentes al Ministerio Público;
 
 VI.- Fomentar por todos los medios posibles, la educación popular y procurar el adelanto y mejoramiento social, favoreciendo toda clase de mejoras morales y materiales que interesen a la colectividad.
 
@@ -693,7 +729,9 @@ XII.- Nombrar y remover libremente al Secretario General de Gobierno, al Procura
 
 XIII.- Llevar las comunicaciones y relaciones del Estado con el Gobierno General y con los de los otros Estados.
 
-XIV.- Otorgar las habilitaciones y dispensas matrimoniales para cuya concesión lo faculte la ley, pudiendo delegar esta facultad a los Presidentes Municipales.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+
+XIV.- Dispensar el pago de las fianzas carcelarias, cuando lo estime de justicia.
 
 > <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
 
@@ -749,7 +787,9 @@ II. Distraer los caudales públicos del objeto a que estén destinados por la le
 
 III. Imponer contribución alguna que no sea de las comprendidas en la ley.
 
-VI (sic). Pertenecer o ayudar a partidos políticos de propaganda electoral en el Estado.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+
+IV. Contrariar la obligación que le impone la fracción XVI del artículo anterior.
 
 V. Impedir o retardar las elecciones populares, o la instalación de la Legislatura.
 
@@ -773,9 +813,13 @@ El Gobernador del Estado durante el tiempo de sus funciones, será responsable p
 
 Para el despacho de los negocios oficiales del Poder Ejecutivo, habrá un funcionario responsable que se denominará "SECRETARIO GENERAL DE GOBIERNO".
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+
 ###### Art. 73.
 
-Para ser Secretario General de Gobierno se requiere: ser mexicano por nacimiento, en el ejercicio pleno de sus derechos; ser mayor de treinta años, no ser militar, ni ministro de algún culto religioso.
+Para ser Secretario General de Gobierno se requiere:
+
+Ser mexicano por nacimiento, en el ejercicio pleno de sus derechos; ser mayor de treinta años, no ser militar en servicio activo, ni ministro de algún culto religioso.
 
 ###### Art. 74.
 
@@ -829,11 +873,11 @@ El ejercicio del Poder Judicial se deposita en un cuerpo que se denominará Supr
 
 El Supremo Tribunal de Justicia del Estado, se compondrá de un Magistrado Propietario y dos Suplentes o Supernumerarios.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1930)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
 ###### Art. 83.
 
-Los Magistrados del Supremo Tribunal de Justicia en el Estado, serán electos por el Congreso del mismo, constituido en Colegio Electoral, debiendo concurrir por lo menos a la sesión en que deba hacerse la elección, las dos terceras partes del número total de sus miembros y siendo indispensable que el electo obtenga mayoría absoluta de votos. La elección se hará en escrutinio secreto
+Los Magistrados del Supremo Tribunal de Justicia en el Estado, serán electos por el Congreso del mismo, en los términos de la fracción IX del artículo 47º de esta Constitución, con asistencia cuando menos de cinco Diputados a la sesión en que se haga la elección.
 
 > <small>(REFORMADO, P.O. 6 DE FEBRERO DE 1930)</small>
 
@@ -841,17 +885,19 @@ Los Magistrados del Supremo Tribunal de Justicia en el Estado, serán electos po
 
 Los Magistrados del Supremo Tribunal de Justicia, serán electos dentro de los noventa días siguientes al de la instalación del Congreso Constitucional, y durarán en sus funciones cuatro años, pudiendo ser reelectos durante el periodo de su encargo no podrán ser removidos sin previo juicio de responsabilidad, en el que se pronuncie sentencia condenatoria ejecutoriada.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+
 ###### Art. 85.
 
-Para ser Magistrado Propietario o Suplente del Supremo Tribunal de Justicia del Estado, se requiere:
+Para ser Magistrado del Supremo Tribunal de Justicia del Estado, se requiere:
 
-I.- Ser mexicano por nacimiento en el uso perfecto de sus derechos.
+I.- Ser mexicano por nacimiento e hijo de padres mexicanos por nacimiento, en pleno ejercicio de sus derechos políticos y civiles.
 
-II.- Ser abogado con título oficial, no obtenido por decreto especial ni a título de suficiencia y tener por lo menos cinco años de recibido.
+II.- Poseer título profesional de abogado expedido por Autoridad o corporación Oficial legalmente autorizada para ello.
 
-III.- Ser de buena conducta y haberla observado intachable pública y notoriamente.
+III.- Ser de buena conducta y haberla observado intachable, pública y notoriamente.
 
-IV.- Tener por lo menos treinta años cumplidos el día de la elección.
+IV.- Tener no menos de treinta ni más de sesenta años cumplidos, el día de la elección.
 
 ###### Art. 86.
 
@@ -881,9 +927,11 @@ Los Magistrados, el Procurador de Justicia, Agentes del Ministerio Público, Jue
 
 Se exceptúa de esta prohibición a los Magistrados Suplentes o Supernumerarios cuando no estén ejerciendo sus funciones.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+
 ###### Art. 91.
 
-Las competencias, modo de suplir faltas y las facultades y obligaciones de los Magistrados, Jueces, funcionarios del Ministerio Público y demás empleados de la Administración de Justicia, serán determinadas por la ley orgánica del Poder Judicial.
+Las competencias, modos de suplir faltas y obligaciones de los Magistrados, Jueces y demás empleados de la administración de Justicia, serán determinados por la Ley Orgánica del Poder Judicial.
 
 ### CAPITULO II. Del Ministerio Público
 
@@ -925,6 +973,8 @@ Todas las Autoridades del Estado, tienen el deber para facilitar las labores del
 
 ### CAPITULO III. De la Defensoría de Oficio
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+
 ###### Art. 101.
 
 Las facultades y obligaciones del Procurador General de Justicia y Agentes del Ministerio Público, serán las que determine la ley orgánica del ramo.
@@ -933,7 +983,7 @@ Las facultades y obligaciones del Procurador General de Justicia y Agentes del M
 
 ###### Art. 102.
 
-Habrá en el Estado, un Cuerpo de Defensores de Oficio cuya misión será procurar por los reos en los asuntos penales que les fueren encomendados.
+Habrá en el Estado un Cuerpo de Defensores de Oficio, cuya misión será atender procesados y litigantes pobres.
 
 ### CAPITULO UNICO
 
@@ -943,9 +993,11 @@ De la hacienda Pública del Estado.
 
 La ley respectiva organizará esta institución.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+
 ###### Art. 104.
 
-Los Defensores de Oficio serán nombrados y removidos por el Supremo Tribunal de Justicia y podrán patrocinar asuntos Judiciales solamente en el ramo civil.
+Los Defensores de Oficio serán nombrados y removidos por el Ejecutivo del Estado.
 
 ###### Art. 105.
 
@@ -965,9 +1017,11 @@ El régimen interior de las Municipalidades, estará a cargo de corporaciones qu
 
 Los miembros de las Corporaciones Municipales serán electos popularmente, y su elección será directa en los términos que prescriba la ley respectiva.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+
 ###### Art. 108.
 
-De los miembros del Ayuntamientos habrá uno que se denominará Presidente Municipal, otro Síndico y los demás Regidores. El primero será política y administrativamente el representante de la Corporación, y no podrá ser reelecto.
+De los miembros de los Ayuntamientos habrá uno que se denominará Presidente Municipal, y representará al Ayuntamiento en el orden político y Administrativo; otro, Síndico con la representación Jurídica, y los demás, regidores. El Presidente Municipal, el Síndico y los Regidores serán electos directamente por el pueblo.
 
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 1930)</small>
 
@@ -1015,25 +1069,11 @@ Los Ayuntamientos se renovarán cada dos años en su totalidad y la Ley Orgánic
 
 El Congreso del Estado determinará por Ley especial que llevará el nombre de "LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE NAYARIT", los estatutos económicos y administrativos a que deben sujetarse los Municipios en su régimen interior, y los cuales podrá la Legislatura alterar o modificar cuando el bien de la Administración Pública general o de los mismos Municipios lo hiciere necesario. Tanto en la Ley Orgánica Municipal, como en sus alteraciones o modificaciones en su caso, se atenderá siempre a mantener la unidad del Gobierno que necesariamente exige la Administración Pública General del Estado, en relación con el grado de libertad interior administrativa que les señala la Constitución General de la República. En consecuencia, los Municipios, sin infringir las Leyes Federales o del Estado y sin excederse de sus Presupuestos respectivos, tienen derecho a atender libremente, de la manera que juzguen más eficaz, todos los Ramos de la Administración Pública interior de los mismos Municipios.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1930)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
 ###### Art. 115 Bis.
 
-La Hacienda Pública del Estado y de los Municipios se formará de impuestos, contribuciones, derechos y productos que fije la Legislatura del Estado. Corresponden exclusivamente al Erario del Estado, los que graven las siguientes fuentes de riqueza:
-
-I.- Propiedad raíz rústica y urbana.
-
-II.- El Comercio, la Industria y la Agricultura.
-
-III.- Ejercicio de Profesiones y Oficios.
-
-IV. Herencias, Legados y Donaciones.
-
-V.- Cualesquiera otras fuentes, siempre que el impuesto no se oponga a la Constitución General de la República o a las Leyes Federales.
-
-Los Ayuntamientos percibirán a título de compensación por la prohibición anterior, tantos por cientos adicionales sobre los impuestos que cobre el Estado a las fuentes tributarias de que se trata.
-
-Si los gravámenes aprobados para los Ayuntamientos son insuficientes, porque sus ingresos no cubren los gastos de sus servicios Municipales, el Congreso del Estado autorizará a los Municipios por medio de una Ley Gral. para cobrar los impuestos sobre Ramos que no graven el Gobierno del Estado. Cuando el monto de los recursos Municipales, excedan de sus gastos, se reducirán de preferencia los tipos adicionales que este artículo menciona hasta lograr su total derogación.
+La Hacienda Pública del Estado y de los Municipios, se formará de los impuestos, contribuciones, derechos, productos y aprovechamientos diversos que fije la Legislatura del Estado en los respectivos Presupuestos de Ingresos y planes de Arbitrios. En todo caso, las contribuciones que se asignen a los Ayuntamientos, deberán ser suficientes para las necesidades de sus respectivos Municipios; pero no podrán ser materia de impuestos Municipales la propiedad raíz, rústica o urbana, la agricultura, el ejercicio de profesiones y oficios, ni las herencias, legados o donaciones. La Legislatura, de acuerdo con el Ejecutivo, podrá conceder al os Ayuntamientos, participaciones en estos impuestos, según se estime conveniente.
 
 ## TITULO SEPTIMO
 
@@ -1055,6 +1095,10 @@ V. Las multas que conforme a las leyes deban ingresar al Erario.
 
 VI. Las donaciones, legados, herencias y reintegros que se hagan o dejen al Tesoro Público.
 
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+
+VII. El importe de fianzas o depósitos carcelarios, y demás cantidades que por disposición de la Autoridad Judicial deban ingresar al Erario.
+
 > <small>(REFORMADO, P.O. 7 DE ENERO DE 1939)</small>
 
 ###### Art. 117.
@@ -1067,9 +1111,11 @@ Para la guarda distribución de los caudales públicos, habrá una Oficina Princ
 
 El Tesorero General del Estado y Recaudadores Foráneos, distribuirán los Fondos Públicos conforme al Presupuesto de Egresos, y serán responsables de aquellos que distribuyan y no estuvieren comprendidos en dicho Presupuesto o autorizados por una Ley posterior.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+
 ###### Art. 119.
 
-Para la glosa de las cuentas que deben llevarse en todas las Oficinas en que se manejen fondos públicos, habrá una Contaduría Mayor dependiente del Congreso y a cargo de un empleado que él mismo nombrará.
+Para la glosa de las cuentas que deban llevarse en todas las Oficinas en que se manejan fondos públicos, habrá una Contaduría Mayor, dependiente del Congreso, a cargo del personal que el Presupuesto señale.
 
 ###### Art. 120.
 
@@ -1093,13 +1139,11 @@ Para el arreglo y administración de los caudales del Estado, el Ejecutivo nombr
 
 Todo funcionario público, cualquiera que sea su categoría, es responsable de los delitos del orden común que cometa durante su encargo y de los delitos oficiales, faltas u omisiones en que incurriere en sus funciones; pero el Gobernador del Estado, durante el periodo de su duración sólo podrá ser acusado por los delitos de traición a la Patria, violación expresa de la Constitución Federal o de la Particular del Estado, ataques a la libertad electoral y delitos graves del orden común.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1940)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
 ###### Art. 123.
 
-En los delitos del orden común, Oficiales y faltas Oficiales que cometieren los Diputados, los Magistrados del Supremo Tribunal, el Procurador General de Justicia, el Secretario General de Gobierno, el Tesorero General del Estado y los Regidores del Ayuntamiento, el Congreso, erigido en Gran Jurado, declarará mayoría absoluta de votos si ha o no lugar a proceder contra el acusado. En caso negativo, no habrá lugar a ningún procedimiento ulterior; pero tal declaración no será obstáculo para que la acusación continúe en su curso, cuando el acusado haya dejado de tener fuero o cesado en sus funciones, comenzando entonces la prescripción. En el caso afirmativo, el acusado queda por el mismo hecho, separado de su cargo y sujeto a la acción de los Tribunales Comunes.
-
-Cuando se trate del Gobernador se requiere la aprobación de las dos terceras partes del número total de Diputados, para declarar si ha o no lugar a formación de causa, y sólo podrá ser acusado por delitos graves del orden común y en los demás casos como si se tratara de un delito oficial.
+En los delitos del orden común que cometieran el Gobernador, los Diputados, los Magistrados del Supremo Tribunal, el Secretario General de Gobierno y el Tesorero General del Estado, le Legislatura, erigida en Gran Jurado, y previa petición del Procurador General de Justicia o del Agente del Ministerio Público adscripto, tratándose del Procurador, declarará, con aprobación de las dos terceras partes de sus miembros presentes, si ha o no lugar a formación de causa. En caso negativo, no habrá lugar a ningún procedimiento durante el periodo de sus funciones, pero tal declaración no será obstáculo para que la acusación continúe su curso, cuando el acusado deje de tener fuero. En caso afirmativo, el acusado queda, por el mismo hecho, separado de su cargo y sujeto desde luego a la acción de los Tribunales Comunes, a menos que se trate del Gobernador del Estado, pues en tal caso sólo habrá lugar a acusarlo como si se tratara de un delito oficial.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 1935)</small>
 
@@ -1107,11 +1151,11 @@ Cuando se trate del Gobernador se requiere la aprobación de las dos terceras pa
 
 Una vez hecha la declaración de haber lugar a formación de causa en contra de los altos Funcionarios a que se refiere el artículo anterior, por los delitos, faltas u omisiones oficiales en que incurran, conocerá del proceso el Supremo Tribunal de Justicia en única Instancia, en la forma que determine la Ley de Responsabilidades de Funcionarios del Estado. Si se tratare de la responsabilidad oficial del Magistrado en funciones, será substituido en los términos de Ley.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1940)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
 ###### Art. 125.
 
-De las faltas, delitos oficiales y comunes cometidos por los Jueces de Primera Instancia, Menores y de Paz, el Tribunal Superior de Justicia declarará, en la forma que determine la Ley, si ha lugar o no a proceder. En caso afirmativo quedará suspenso el acusado y sujeto a los Tribunales del Orden Común.
+De los delitos comunes cometidos por los Jueces de Primera Instancia, Menores, de Paz, Presidentes Municipales, Síndicos y Regidores, el Supremo Tribunal declarará en la forma que determine la Ley, si ha lugar o no a proceder. En caso afirmativo, quedará suspenso el acusado y sujeto a los Tribunales del orden común. De los delitos, faltas y omisiones oficiales en que incurran dichos Funcionarios, el Supremo Tribunal resolverá sobre la culpabilidad del acusado en la forma que determine la Ley, imponiendo en su caso la pena que es de aplicarse por el delito, falta u omisión oficial.
 
 ###### Art. 126.
 
@@ -1135,11 +1179,11 @@ En demanda del orden civil no habrá fuero, ni inmunidad para ningún funcionari
 
 Esta Constitución no perderá su fuerza y vigor aún cuando por trastornos se hubiere interrumpido su observancia. Si por cualquier caso se estableciere un Gobierno contrario a los principios que ella sanciona, una vez restablecido el orden constitucional volverá a ser acatada, exigiéndose la responsabilidad a todos los que la hubieren infringido.
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 1919)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
 ###### Art. 131.
 
-Esta Constitución puede ser adicionada o reformada. Las proposiciones que tengan este objeto deberán estar suscritas por cinco Diputados o ser iniciadas por el Ejecutivo del Estado; necesitando para la aprobación de las proposiciones de adiciones o reformas, la aprobación de las dos terceras partes del número total de Diputados.
+Esta Constitución puede ser adicionada y reformada. Las proposiciones que tengan este objeto, deberán estar suscritas por cinco Diputados o ser iniciadas por el Ejecutivo del Estado, necesitándose para su aprobación, el voto afirmativo de cinco Diputados, así como también de las dos terceras partes de los Ayuntamientos.
 
 ###### Art. 132.
 
@@ -1147,7 +1191,7 @@ Las proposiciones de reforma o adición, que no fueren admitidas por la Legislat
 
 ###### Art. 133.
 
-Las leyes fundamentales no necesitan la sanción del Poder Ejecutivo
+(DEROGADO, P.O. 3 DE SEPTIEMBRE DE 1941)
 
 ###### Art. 134.
 
@@ -1157,9 +1201,11 @@ Nadie en el Estado podrá desempeñar dos o más cargos de elección popular; pe
 
 A toda petición debe recaer un acuerdo escrito de la autoridad a quien se dirija, y ésta, tiene la obligación de dar a conocer al peticionario el resultado, en breve plazo.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+
 ###### Art. 136.
 
-La Instrucción Pública Primaria en el Estado, deberá ser laica, obligatoria para todos los niños de ambos sexos, siendo gratuita en los planteles oficiales.
+La educación que imparta el Estado, se ajustará a las prevenciones del artículo 3o. de la Constitución Federal.
 
 ###### Art. 137.
 
@@ -1197,7 +1243,7 @@ DIPUTADO POR EL 14º DISTRITO ELECTORAL.
 
 Pablo Retes, Z., Vice-Presidente, Diputado por el Primer Distrito Electoral.- Marcos Esmerio, Diputado por el Segundo Distrito Electoral.- M.L. Urbina, Diputado por el Tercer Distrito Electoral.- Francisco Amézquita, Diputado por el Cuarto Distrito Electoral.- F. R. Pérez, Diputado por el Quinto Distrito Electoral.- Manuel Guzmán, Diputado Suplente por el Sexto Distrito Electoral.- Fidencio Estrada, Diputado por el Séptimo Distrito Electoral.- José María Ledón, Diputado por el Octavo Distrito Electoral.- J. Aguiar Béjar, Diputado Suplente por el Décimo Distrito Electoral.- Francisco N. Arroyo, Diputado por el Décimosegundo Distrito Electoral.- Antonio de P. Monroy, Diputado por el Décimotercero Distrito Electoral.- Mig. C. Madrigal, Diputado por el Décimoquinto Distrito Electoral.- F. R. Corona, Primer Secretario, Diputado por el Noveno Distrito Electoral.- Alfredo Robles, Segundo Secretario, Diputado por el Décimo Primero Distrito Electoral.
 
-Por lo tanto mando se imprima, publique por Bando Solemne, circule y sé le dé el más exacto cumplimiento.
+Por lo tanto mando se imprima, publique por Bando Solemne, circule y se le dé el más exacto cumplimiento.
 
 Dado en el Palacio del Poder Ejecutivo en Tepic, Nay., a los cinco días del mes de febrero de mil novecientos diez y ocho.
 
@@ -1342,3 +1388,7 @@ P.O. 27 DE NOVIEMBRE DE 1940
 ART. PRIMERO.- Los juicios de responsabilidad oficial que se encuentren instaurados en contra de Ayuntamientos en general o de CC. Regidores en particular, se declaran sujetos a la revisión del H. Congreso, para lo cual el Magistrado del Supremo Tribunal o el Procurador General de Justicia del Estado, en su caso, remitirán al propio Congreso los expedientes respectivos dentro del término de diez días contados desde la fecha en que entre en vigor esta disposición.
 
 ART. SEGUNDO.- El presente Decreto comienza a surtir sus efectos desde la fecha de su promulgación y deroga todas las demás Leyes y disposiciones que se opongan a su cumplimiento.
+
+P.O. 3 DE SEPTIEMBRE DE 1941
+
+UNICO.- El presente Decreto entra en vigor desde la fecha en que se publique en el Periódico Oficial del Estado.
