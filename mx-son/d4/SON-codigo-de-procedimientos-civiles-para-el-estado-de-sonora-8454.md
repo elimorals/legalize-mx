@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-civiles-para-el-estado-de-sonora-8454"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "1988-01-21"
+last_updated: "1990-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 21 DE ENERO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 9 DE AGOSTO DE 1990.
 
 Código publicado en la Sección Tercera del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -888,6 +888,10 @@ IV.- De la declaración de validez y ejecución de sentencias extranjeras;
 V.- De los asuntos sobre cuestiones no patrimoniales, y
 
 VI.- De los demás para los que la ley les asigne competencia exclusiva.
+
+> <small>(ADICIONADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
+Se exceptúan de lo establecido en este precepto, los supuestos señalados en los artículos 241, 242 y 243 del Código Civil para el Estado de Sonora, en los cuales, a falta de Jueces de Primera Instancia, los Jueces Locales, o a falta de éstos, los Jueces Menores resolverán lo que resulte conducente.
 
 ### CAPITULO CUARTO.
 
@@ -1955,49 +1959,47 @@ La consignación y el depósito de que tratan los artículos anteriores, pueden 
 
 El Notario se limitará a hacer el ofrecimiento y depósito y expedir al deudor la certificación respectiva. La substanciación de oposiciones del acreedor y declaración de liberación deberá hacerse por el juez competente.
 
-### CAPITULO IV.
+> <small>(REFORMADA SU DENOMINACION, B.O. 9 DE AGOSTO DE 1990)</small>
 
-Del depósito de personas como acto prejudicial.
+### CAPITULO CUARTO.
+
+Separación de personas como acto prejudicial.
+
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
 
 ###### Art. 219.
 
-Procede el depósito de la mujer casada, como acto prejudicial, en los siguientes casos:
+El que intente demandar, denunciar o querellarse contra su cónyuge, puede solicitar su separación.
 
-I.- A petición de ésta, cuando viviendo al lado del marido intente demandarlo o acusarlo, y
-
-II.- A petición del marido, cuando, viviendo con su mujer, intente demandarla o acusarla.
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
 
 ###### Art. 220.
 
-En los casos de que trata el artículo anterior, tendrán aplicación las siguientes reglas:
+Para decretarse la separación de los cónyuges, se aplicarán las siguientes reglas:
 
-I.- Sólo los jueces de primera instancia del lugar del domicilio conyugal pueden decretar el depósito. En caso de notoria urgencia, puede hacerlo el del lugar donde la cónyuge se encuentre, remitiendo las diligencias, una vez hecho el depósito, al competente, quien confirmará o revocará el nombramiento de depositario, siguiendo el juicio su curso legal;
+I.- Sólo los Jueces de Primera Instancia del lugar del domicilio conyugal pueden decretar la separación de que habla el Artículo anterior. En caso de notoria urgencia, el Juez del lugar donde el cónyuge se encuentre podrá decretar la separación provisionalmente, remitiendo las diligencias al Juez competente, quien confirmará o revocará la separación, siguiendo el juicio su curso legal;
 
-II.- La solicitud de la mujer puede ser escrita o verbal y en los casos en que la urgencia del caso lo amerite, el juez debe con toda premura despachar y hacer ejecutar la medida de depósito;
+II.- La solicitud puede ser escrita o verbal, en la que se señalarán las causas en que se funda, el domicilio para la habitación del solicitante, la existencia de hijos menores y las demás circunstancias del caso;
 
-III.- La casa donde se deposite a la mujer casada será siempre designada por el juez y debe ser el depositario persona de notoria honorabilidad y buenas costumbres;
+III.- Cuando la mujer sea la que solicite la separación y permanezca en el domicilio conyugal, se conminará al marido para que se abstenga de concurrir al mismo mientras la medida subsista, sin perjuicio de que se le permita retirar su ropa, objetos personales y los bienes que sean necesarios para el ejercicio de su profesión, arte u oficio a que está dedicado; y
 
-IV.- Si la casa que se destine para el depósito es la misma en que esté establecido el domicilio conyugal, no se nombrará depositario, sino que bastará que se conmine al marido para que se abstenga de concurrir a ella mientras la medida subsista, sin perjuicio de que se le permita retirar su ropa y objetos personales;
+IV.- El Juez podrá decretar las medidas que juzgue adecuadas para la realización de la separación y aplicará en lo conducente las reglas del artículo 447 del Código Civil y de la ejecución forzosa.
 
-V.- El juez podrá dictar las medidas que juzgue adecuadas para la realización del depósito y aplicará en lo conducente las reglas del artículo 447 del Código Civil y de la ejecución forzosa, y
-
-VI.- Al depositario se dará copia autorizada de la constitución del depósito para su resguardo.
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
 
 ###### Art. 221.
 
-Una vez constituído el depósito, mandará el juez intimar al marido o a la mujer, según el caso, apercibiéndoles de que si dentro de cinco días no acreditan haber intentado la demanda o la acusación, se levantará el depósito y será restituida la esposa a la casa conyugal.
-
-Cuando la mujer sea quien haya pedido el depósito, podrá prorrogarse el término, si se acreditare que por causa que no le es imputable, no le ha sido posible intentar la demanda contra el marido.
-
-Intentada la demanda dentro del término mencionado o su prórroga, el depósito subsistirá mientras tanto dure el juicio. En caso contrario, se levantará y se restituirá la mujer a la casa del marido.
+En la resolución se apercibirá al cónyuge solicitante que si dentro del término de cinco días contados a partir de la separación, no acredita haber intentado la demanda o la acusación, se levantará de oficio la separación, quedando éste obligado a regresar al domicilio conyugal. A juicio del Juez, podrá concederse por una sola vez una prórroga por igual término. Intentada la demanda dentro del término mencionado, la separación subsistirá mientras dure el juicio.
 
 ###### Art. 222.
 
 En los casos de los artículos anteriores, si los consortes tuvieren hijos menores, se pondrán éstos bajo el cuidado de la persona que de común acuerdo hubieren designado. En defecto de ese acuerdo, el juez resolverá provisionalmente, debiendo, salvo casos excepcionales, quedar al cuidado de la madre los hijos que no hayan cumplido siete años.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 223.
 
-El juez podrá citar a las partes en cualquier tiempo, ya sea conjunta o separadamente; variar sus determinaciones, de oficio o a petición de parte, si las circunstancias lo ameritan, bajo su responsabilidad y sin substanciación especial; y resolverá con carácter provisional lo que proceda, respecto a la entrega de ropa u otros objetos, subsistencia de la mujer y de los hijos y lo demás que juzgue oportuno. Podrá también dictar las medidas de apremio o correcciones disciplinarias que se requieran para que no se causen molestias a la mujer, y el depositario pueda cumplir su cometido.
+El Juez podrá citar a las partes en cualquier tiempo, ya sea conjunta o separadamente; variar sus determinaciones, de oficio o a petición de parte, si las circunstancias lo ameritan, bajo su responsabilidad y sin substanciación especial; y resolverá con carácter provisional lo que proceda, respecto a la entrega de ropa u otros objetos, subsistencia de cualquiera de los cónyuges y de los hijos y lo demás que juzgue procedente. Podrá también dictar las medidas de apremio o correcciones disciplinarias que se requieran para que los cónyuges no se causen molestias entre sí.
 
 ### CAPITULO QUINTO.
 
@@ -3849,15 +3851,19 @@ VIII.- El tribunal podrá permitir que el acreedor, bajo protesta de decir verda
 
 IX.- Puede pedirse la revisión de una cuenta ya aprobada; pero sólo en los casos de error material, omisiones de ingresos o falsedad o duplicidad de cargos que se hayan descubierto posteriormente. La revisión, en estos supuestos, se substanciará en incidente por separado, en el que se cite al que rindió la cuenta y demás interesados; y se les recibirán las pruebas que ofrezcan. La resolución que se dicte será apelable, si procediere el recurso según la cuantía.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 416.
 
-Cuando la resolución ordene la entrega de personas, su depósito, o su internación, se observará lo siguiente:
+Cuando la resolución ordene la entrega de personas, su separación, su depósito o su internación, se observará lo siguiente:
 
 I.- El juez dictará las disposiciones conducentes, para que no quede frustrado el fallo;
 
-II.- En los casos de depósito, el juez dispondrá que se entregue a la persona depositada su ropa, muebles y objetos de su uso personal y si fuere necesario, personalmente o por conducto del funcionario que designe, extraerá a la persona depositada, para llevarla a la casa del depositario. En el mismo acto de la diligencia, el juez intimará a quien corresponda, que no moleste a la persona depositada, bajo el apercibimiento de procederse en su contra penalmente.
+> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
 
-Independientemente de lo anterior, el juez puede dictar las medidas que estime oportunas, a efecto de evitar las molestias contra la persona depositada y el depositrio (sic);
+II.- En los casos de separación, el Juez dispondrá que se entregue a la persona contra la cual se haya decretado la separación, su ropa, muebles y objetos de uso personal y si fuere necesario, personalmente o por conducto del funcionario que designe, extraerá a la persona separada. En el mismo acto de la diligencia, el Juez intimará a quien corresponda, que no moleste a la persona a favor de la cual se hubiere decretado la separación, bajo el apercibimiento de procederse en su contra penalmente.
+
+Independientemente de lo anterior, el Juez puede dictar las medidas que estime oportunas, a fin de evitar las molestias contra la persona de la que haya decretado su separación;
 
 III.- En los casos en que la resolución ponga a menores o incapacitados al cuidado de alguna persona, el juez dictará las medidas más adecuadas para que se cumplan sus determinaciones y colocar al encargado o tutor en situación de cumplir con su encargo;
 
@@ -4731,7 +4737,9 @@ II.- Las relativas a servidumbres legales o que consten en instrumento público;
 
 III.- Las que surjan con motivo de diferencias entre marido y mujer;
 
-IV.- Las que se produzcan con motivo de la educación de hijos, oposiciones de maridos, padres y tutores, y, en general, todas las cuestiones familiares que reclamen la intervención judicial;
+> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
+
+IV.- Las que se produzcan con motivo de la educación de los hijos y, en general, todas las cuestiones familiares que reclamen la intervención judicial;
 
 V.- La calificación de impedimento de matrimonio;
 
@@ -5203,11 +5211,13 @@ V.- Presentada la demanda el juez citará a las partes a una audiencia en la que
 
 VI.- Si no se lograre, el juicio se tramitará conforme a las normas del juicio oral.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 556.
 
-Cuando se solicite que el juez supla el consentimiento para que un menor pueda contraer matrimonio, oirá a los interesados en una junta en la que recibirá las pruebas y dictará resolución, levantándose una sola acta con las diligencias. Si la resolución fuere favorable, se expedirá desde luego copia certificada para su presentación al Oficial del Registro Civil. Si fuere adversa, sin necesidad de apelación se remitirá el expediente al Supremo Tribunal, para que, oyendo a los interesados, confirme o revoque la determinación.
+Cuando se solicite que el Juez supla el consentimiento o dispense la edad para que un menor pueda contraer matrimonio, oirá a los interesados en una junta en la que recibirá las pruebas y dictará resolución, levantándose una sola acta con las diligencias. Si la resolución fuere favorable, se expedirá desde luego copia certificada para su presentación al Oficial del Registro Civil, si fuere adversa, sin necesidad de apelación se remitirá el expediente al Supremo Tribunal, para que, oyendo a los interesados confirme o revoque la determinación.
 
-La mujer menor de edad que, deseando contraer matrimonio, necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar su depósito. El juez, después de levantar una información sobre el particular, oyendo a los padres y sin formalidades especiales, decidirá si decreta o no el depósito.
+Los menores de edad que, deseando contraer matrimonio, necesiten acudir a la autoridad competente para suplir el consentimiento de los que ejerzan la patria potestad o la tutela sobre ellos, pueden solicitar su depósito. El Juez, después de levantar una información sobre el particular, oyendo a los menores y a los padres o tutores, en su caso, y sin formalidades especiales, decidirá si decreta o no el depósito.
 
 ###### Art. 557.
 
@@ -5219,13 +5229,17 @@ En los casos en que el actor solicite dispensa para contraer matrimonio con la p
 
 Se tramitarán conforme a las reglas de este artículo las diferencias que surjan entre marido y mujer:
 
-I.- Sobre la obligación de la mujer de vivir al lado del marido;
+> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
+
+I.- Sobre el establecimiento y modificación del domicilio conyugal;
 
 II.- Sobre la obligación, monto y aseguramiento de los alimentos;
 
 III.- Sobre educación y establecimiento de los hijos y administración de los bienes que a éstos pertenezcan;
 
-IV.- Oposición del marido para que la mujer trabaje o se dedique al comercio;
+> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
+
+IV.- Sobre la oposición de cónyuge para que el otro desempeñe una actividad que pueda dañar la moral o la estructura de la familia;
 
 V.- Administración de los bienes comunes, y
 
@@ -5235,17 +5249,19 @@ VI.- Los demás asuntos relativos a cuestiones patrimoniales entre los consortes
 
 Recibida la demanda, el juez citará a los cónyuges a una audiencia en la que los oirá. En ella recibirá el juez las pruebas que se ofrezcan, pudiendo, además, decretar los medios de investigación que estime oportunos. El fallo que se dicte será apelable en el efecto devolutivo y se ejecutará sin necesidad de fianza.
 
-Si se pide la terminación de la sociedad conyugal en los casos previstos por el artículo 279 del Código Civil, el juez decretará las medidas provisionales que estime oportunas para la conservación de los bienes de la sociedad legal a petición del actor, inclusive las de limitar las facultades del cónyuge administrador, tramitándose el litigio, en todo lo demás, conforme a las reglas del juicio oral.
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
+Si se pide la terminación de la sociedad conyugal, en los casos previstos por el artículo 279 del Código Civil, el Juez decretará las medidas provisionales que estime oportunas para la conservación de los bienes comunes a petición del actor, inclusive las de limitar las facultades del socio administrador, tramitándose el litigio, en todo lo demás, conforme a las reglas del juicio oral.
 
 ###### Art. 560.
 
-Cuando se pida autorización judicial para que la mujer contrate con su marido, se obligue solidariamente con él en asuntos que sean de interés exclusivo de éste, o sea su fiadora, el juez recibirá en una audiencia las pruebas que ofrezcan las partes para justificar que no resultan perjudicados los intereses de la mujer, y oyendo al Ministerio Público, resolverá lo que proceda.
+(DEROGADO, B.O. 9 DE AGOSTO DE 1990)
+
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
 
 ###### Art. 561.
 
-El cónyuge que no queriendo pedir el divorcio, solicite que se suspenda la obligación de cohabitar con el otro cónyuge, en los casos previstos por el artículo 442 del Código Civil, exhibirá con su demanda la justificación de que se está en algunos de los casos previstos en las fracciones VI y VII del artículo 425 del mismo Código o solicitará que se reciban las pruebas conducentes sobre estos hechos. El juez recibirá las pruebas, oyendo en audiencia verbal al cónyuge enfermo o a su tutor o representante legítimo y decidirá sin más trámite lo que proceda.
-
-Puede decretar como medida provisional, y mientras se dicte sentencia, la separación de los cónyuges.
+El cónyuge que no queriendo pedir el divorcio, solicite que se suspenda la obligación de cohabitar con el otro cónyuge, en los casos previstos por el artículo 442 del Código Civil, exhibirá con su demanda la justificación de que se está en alguno de los casos previstos en las fracciones VI, VII y XIX del artículo 425 del mismo Código o solicitará que se reciban las pruebas conducentes sobre estos hechos. El Juez recibirá la prueba oyendo en audiencia verbal al cónyuge enfermo o a su tutor o representante legítimo y decidirá sin más trámite lo que proceda. Puede decretar como medida provisional y mientras se dicte la sentencia la separación de los cónyuges.
 
 ### CAPITULO TERCERO.
 
@@ -5497,6 +5513,8 @@ Las sentencias recaídas en el juicio sobre paternidad y filiación, serán revi
 
 De la adopción.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 594.
 
 Cuando la pérdida de la patria potestad no se derive de sentencia dictada en juicio penal o civil que condene expresamente a la perdida de ese derecho, sólo podrá decretarse mediante sentencia declarativa que se dicte en juicio contradictorio.
@@ -5519,19 +5537,19 @@ Rectificación de actas del estado civil.
 
 ###### Art. 596.
 
-Para que se autorice la adopción, el que pretenda adoptar a alguna persona, deberá acreditar:
+Para que se autorice la adopción, el que pretenda adoptar a uno o más menores o a uno o más incapacitados, deberá acreditar:
 
-I.- Que es mayor de treinta años y que tiene por lo menos, diecisiete años más de edad que la persona que trate de adoptar;
+I.- Que es mayor de veinticinco años y que tiene, por lo menos, diecisiete años más de edad que la persona que trate de adoptar;
 
-II.- Que no tiene descendientes, si el adoptante, sea hombre o mujer, no está unido a otra persona en matrimonio;
+II.- Que existe común acuerdo entre el marido y mujer para considerar al adoptado como hijo, en el caso de que la adopción se pida por personas que estén unidas en matrimonio, pudiendo hacerse aunque tengan descendientes;
 
-III.- Que existe común acuerdo entre marido y mujer para considerar al adoptado como hijo, en el caso en que la adopción se pida por personas que estén unidas en matrimonio, pudiendo hacerse aunque tengan descendientes;
+III.- Que el adoptante o adoptantes tienen medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como de hijo propio, según las circunstancias de la persona que trate de adoptarse;
 
-IV.- Que el adoptante o adoptantes tienen medios bastantes para proveer a la subsistencia y educación del adoptado como de hijo propio, según las circunstancias de la persona que trate de adoptarse; y
+IV.- Que la adopción es benéfica para la persona que trata de adoptarse; y
 
-V.- Que el adoptante o adoptantes sean de buenas costumbres.
+V.- Que el adoptante o adoptantes son personas de buenas costumbres.
 
-En la petición inicial deberá manifestarse el nombre y edad de la persona a quien se va a adoptar, y si es menor o incapacitado, el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela, o de las personas o instituciones de beneficencia que lo hayan acogido. Si el adoptado es menor o incapacitado y no está sujeto a patria potestad o tutela, se le proveerá de tutor especial para que lo represente.
+En la petición inicial deberá manifestarse el nombre y edad de la persona a quien se va adoptar, y si es menor o incapacitado, el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela, o de las personas o instituciones de beneficencia que lo hayan acogido. Si el adoptado es menor o incapacitado y no está sujeto a patria potestad o tutela, se le proveerá de tutor especial para que lo representen. Cuando circunstancias especiales lo aconsejen, el Juez puede autorizar la adopción de dos o más menores o incapacitados, o de menores o incapaces simultáneamente.
 
 ###### Art. 597.
 
@@ -6503,9 +6521,11 @@ En la providencia no se permitirá ninguna discusión sobre el derecho de percib
 
 Separación.
 
+> <small>(REFORMADO, B.O. 19 DE AGOSTO DE 1990)</small>
+
 ###### Art. 714.
 
-En los casos de divorcio y de nulidad de matrimonio, el juez separará a los cónyuges depositando a la mujer en casa de persona de buenas costumbres. El depósito se hará a petición del marido, si se dice que la mujer ha dado causa para la demanda. Si la demanda no supone culpa en la mujer, ésta no se depositará sino a solicitud suya. El juez dictará las medidas para que el marido no cause perjuicios en sus bienes a la mujer y dictará también las precauciones que la ley establece respecto a la mujer que queda encinta; aplicándose en lo conducente las reglas del depósito como acto prejudicial.
+En los casos de divorcio y de nulidad de matrimonio el Juez separará a los cónyuges, en los términos del artículo 447 del Código Civil y dictará las medidas para que los cónyuges no se molesten ni se causen perjuicios, en sus respectivos bienes o en los de la sociedad legal o conyugal, en su caso. El Juez dictará también las precauciones que la Ley establece respecto de la mujer que quede encinta, aplicándose en lo conducente las reglas de la separación de las personas como acto prejudicial.
 
 ###### Art. 715.
 
@@ -8312,3 +8332,17 @@ B.O. 21 DE ENERO DE 1988.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor sesenta días después de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 9 DE AGOSTO DE 1990.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor quince días después de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los asuntos que se encuentren en trámite al entrar en vigor la presente Ley, se sujetarán para su resolución, a las disposiciones que se encontraban en vigor antes de la vigencia de este ordenamiento.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a lo establecido en la presente Ley.
