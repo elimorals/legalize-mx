@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-6631"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "1986-02-28"
+last_updated: "1988-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1988.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -4107,9 +4107,7 @@ XIII.- Por la cancelación de los actos comprendidos en la fracción anterior, e
 
 XIV.- Por la matricula de comerciante, persona física, el importe de cuatro días de salario mínimo general en el Estado de Morelos;
 
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-XV.- Por la inscripción de documentos en los que se consigne la constitución o aumento de capital de sociedades mercantiles, sobre el importe del capital o del aumento en su caso 3.5 al millar;
+XV.- XV.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 1988)
 
 XVI.- Por la inscripción del documento por los que se constituyen asociaciones o sociedades civiles sobre el monto de capita (sic) o de sus aumentos: 5 al millar;
 
@@ -4297,9 +4295,9 @@ A.- Por cada comerciante individual: $500.00
 
 B.- Por cada sociedad mercantil: $1,000.00
 
-III.- Inscripción de la Escritura constitutiva de sociedades mercantiles o de las relativas a aumento de su capital social o de los aumentos del mismo: 3.5 al millar.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1988)</small>
 
-Cuando las sociedades tengan sucursales, para éstas servirá de base el capital afectado a ellas;
+III.- Con la Inscripción del testimonio de la Escritura relativa a la Constitución de una Sociedad Mercantil o por el Registro de testimonios que consignen aumento de su Capital Social, se cobrará el equivalente a quince días de Salario Mínimo vigente en esta Entidad;
 
 IV.- Inscripción de las modificaciones a la Escritura constitutiva de las sociedades mercantiles, siempre que no se refieran a aumento del capital social: $1,000.00;
 
@@ -5510,3 +5508,13 @@ Primero.- Se derogan todas las disposiciones que contravengan a las presentes re
 Segundo.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Tercero.- Remítase el presente Decreto al Ejecutivo del Estado, para los efectos de su promulgación y publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 1988.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia el día primero de enero de mil novecientos ochenta y nueve.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase al Ejecutivo del Estado el presente Decreto, para su publicación en el Periódico Oficial, "Tierra y Libertad", órgano del Gobierno del Estado, y para los efectos a que hace referencia la Fracción XVII del Artículo 70 de la Constitución Política del Estado.
