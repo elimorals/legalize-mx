@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "1999-11-06"
+last_updated: "2000-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 2000.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -444,6 +444,14 @@ VII. Las demás que les sean señaladas por esta Ley y sus reglamentos.
 ###### Artículo 26.
 
 Los oficiales y agentes de vialidad y tránsito deberán, siempre, conducirse con el público en forma comedida y respetuosa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE MARZO DE 2000)</small>
+
+Los oficiales o agentes de tránsito en funciones deberán ubicarse en lugar visible para los conductores, salvo el tiempo estrictamente necesario que en cumplimiento de sus funciones implique separarse de aquel.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE MARZO DE 2000)</small>
+
+Los oficiales y agentes de tránsito encargados de la vialidad en horario nocturno deberán de conducir las unidades para este servicio con las farolas encendidas.
 
 ### CAPITULO VI. De la concurrencia y coordinación de las autoridades estatales y municipales en las zonas conurbadas y las zonas metropolitanas
 
@@ -2638,3 +2646,7 @@ P.O. 8 DE JULIO DE 1999.
 P.O. 6 DE NOVIEMBRE DE 1999.
 
 PRIMERO. Para la celebración de nuevos contratos de subrogación, con motivo de la presente reforma, el organismo público descentralizado deberá pedir opinión al representante de los subrogatarios.
+
+P.O. 7 DE MARZO DE 2000.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
