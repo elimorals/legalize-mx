@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-secretaria-de-trabajo-prevision-32939
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-07-10"
-last_updated: "2004-12-30"
+last_updated: "2004-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE TRABAJO Y PREVISION SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 2004.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el jueves 10 de julio de 2003.
 
@@ -139,9 +139,9 @@ XVI. Autorizar el proyecto de presupuesto anual de la Secretaría y supervisar l
 
 XVII. Elaborar el compendio de datos para el Informe Anual del Gobernador del Estado;
 
-XVIII. Presidir la Junta Local de Conciliación y Arbitraje y las Juntas Especiales de la misma, cuando se trate de conflictos colectivos, previo nombramiento expedido por el C. Gobernador del Estado, en los términos que establezca la legislación de la materia;
+XVIII. (DEROGADA, G.O. 31 DE DICIEMBRE DE 2004)
 
-XIX. Presidir el Pleno de la Junta Local de Conciliación y Arbitraje;
+XIX. (DEROGADA, G.O. 31 DE DICIEMBRE DE 2004)
 
 XX. Promover e implementar acciones de previsión social;
 
@@ -372,6 +372,12 @@ GOBERNADOR DEL ESTADO
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.O. 30 DE DICIEMBRE DE 2004.
+
+Primero. El presente decreto entrará en vigor el día de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 31 DE DICIEMBRE DE 2004.
 
 Primero. El presente decreto entrará en vigor el día de su publicación en la Gaceta Oficial del estado.
 
