@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-ingresos-propios-de-la-universidad-36813"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-21"
-last_updated: "2004-01-21"
+last_updated: "2005-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO DE INGRESOS PROPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE FEBRERO DE 2005.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el miércoles 21 de enero de 2004.
 
@@ -69,11 +69,17 @@ III. Mantenimiento, modificación o adecuación de instalaciones físicas;
 
 IV. Apoyo para la consolidación y desarrollo de acciones académicas, administrativas, de vinculación y servicios tecnológicos;
 
-V. Aquellos que sean necesarios para la mejor operación de la Universidad y que a propuesta del Rector, sean aprobados por el Consejo Directivo.
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2005)</small>
+
+V. Pago por servicios personales, materiales y suministros y servicios generales necesarios para desarrollar acciones que generen ingresos propios;
+
+VI. Aquellos que sean necesarios para la mejor operación de la Universidad y que a propuesta del Rector, sean aprobados por el Consejo Directivo.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2005)</small>
 
 ###### Artículo 7º.
 
-El Consejo Directivo vigilará a través de los estados financieros que se le presenten, que los ingresos propios no se utilicen, para el pago de las partidas correspondientes a servicios personales, materiales, suministros y servicios generales, considerados en el presupuesto operativo de la Universidad Tecnológica.
+El Consejo Directivo vigilará a través de los estados financieros que se le presenten, que los ingresos propios no se utilicen, para el pago de las partidas correspondientes a servicios personales, materiales, suministros y servicios generales, considerados en el presupuesto operativo de la Universidad Tecnológica, a excepción de los que se necesiten para desarrollar acciones que generen ingresos propios.
 
 ###### Artículo 8º.
 
@@ -162,3 +168,9 @@ Lic. David Guerrero Castellón
 EL SECRETARIO
 
 Lic. Laura O. Bañuelos Quintero
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE FEBRERO DE 2005.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.
