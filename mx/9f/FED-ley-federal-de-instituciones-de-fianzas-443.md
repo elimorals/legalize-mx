@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-instituciones-de-fianzas-443"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1950-12-29"
-last_updated: "1956-12-31"
+last_updated: "1963-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=443&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1950-12-26"
 
 LEY FEDERAL DE INSTITUCIONES DE FIANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1956.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1963.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1950.
 
@@ -44,6 +44,16 @@ LEY FEDERAL DE INSTITUCIONES DE FIANZAS
 ###### ARTICULO 1º.
 
 Institución de fianzas es una sociedad anónima, autorizada previamente por el Gobierno Federal para otorgar fianzas a título oneroso.
+
+###### ARTICULO 4º. Bis.
+
+Son organizaciones auxiliares de fianzas los consorcios formados por instituciones de fianzas autorizadas con objeto de prestar a cierto sector de actividad económica un servicio de fianzas de manera sistemática a nombre y por cuenta de dichas instituciones, o celebrar en representación de las mismas los contratos de reafianzamiento o coafianzamiento necesarios para la mejor distribución de responsabilidades.
+
+Para la constitución de los consorcios y el ejercicio de sus operaciones se requiere autorización previa que se otorgará a juicio del Ejecutivo Federal por conducto de la Secretaría de Hacienda y Crédito Público.
+
+Los consorcios tendrán por único objeto actuar como instituciones auxiliares de fianzas en los términos del primer párrafo de este artículo y quedarán sometidos a la inspección y vigilancia de la Secretaría de Hacienda y Crédito Público, rigiéndose los mismos, así como sus operaciones, por sus estatutos y por esta Ley en lo que les sea aplicable, o en su caso, por las disposiciones reglamentarias que expida el Ejecutivo Federal. Los estatutos y sus modificaciones deberán ser aprobados por la Secretaría de Hacienda y Crédito Público, y en ellos se consignará que su propósito es exclusivamente de servicio y nunca de lucro.
+
+En los consorcios las instituciones de fianzas que los constituyan se obligarán en los términos y proporciones que pacten.
 
 ###### ARTICULO 5°.
 
@@ -185,9 +195,13 @@ III.- Valores señalados en las fracciones IV y VI del artículo 40. En el caso 
 
 IV.- Otros bienes valuados por institución nacional de crédito o corredor. En este caso, la responsabilidad de la fiadora no excederá del cincuenta por ciento del valor de los bienes.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
+
 ###### ARTICULO 24.
 
-El dinero en efectivo y los valores que reciba en prenda una institución de fianzas, cualquiera que sea el monto de la fianza, deberán depositarse en un plazo de tres días en la institución nacional de crédito que señale la Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general; y de ellos sólo podrá disponerse con autorización de dicha Secretaría.
+La prenda consistente en dinero en efectivo o en valores, cualquiera sea el valor de la fianza, deberá depositarse en un plazo de tres días en la institución de crédito que señale la Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general; y de ellos sólo podrá disponerse con autorización de dicha Secretaría. La institución de fianzas no aceptará en otras condiciones la constitución de esta garantía.
+
+Si la prenda consiste en bienes distintos del dinero en efectivo o de valores, independientemente del monto de la fianza, la prenda podrá quedar en poder del otorgante de la misma, en cuyo caso éste se considerará para los fines de la responsabilidad civil o penal correspondiente, como depositario judicial.
 
 ###### ARTICULO 25.
 
@@ -593,9 +607,11 @@ Tratándose de primas, por concepto de reafianzamiento recibido de empresas extr
 
 Las instituciones de fianzas, dentro de los primeros quince días de cada bimestre, presentarán manifestaciones a la Secretaría de Hacienda y Crédito Público, determinando el monto del derecho a que se refiere el artículo anterior. Al presentar dichas manifestaciones exhibirán el comprobante de haber pagado el importe de los derechos causados, a reserva de que se hagan los ajustes que procedan al verificarse las mencionadas manifestaciones mediante las inspecciones respectivas.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
+
 ###### ARTICULO 74.
 
-Las operaciones de fianzas y las que con ellas se relacionen, que realicen las instituciones de fianzas, así como los ingresos o utilidades que por los mismos conceptos obtengan, no podrán ser gravados en forma alguna por los Estados, Municipios, Distrito y Territorios Federales.
+Las operaciones de fianzas y las que con ellas se relacionen, que realicen las instituciones de fianzas, así como los ingresos o utilidades que por los mismos conceptos obtengan, no podrán ser gravados en forma alguna por los Estados, Municipios, Distrito y Territorios Federales. Los contratos de arrendamiento, subarrendamiento y compra-venta que celebren las instituciones de fianzas, causarán el impuesto establecido por las fracciones II y VII, inciso C, de la Tarifa contenida en el artículo 4o. de la Ley General del Timbre.
 
 ###### ARTICULO 75.
 
@@ -1201,6 +1217,8 @@ Las instituciones de fianzas podrán emitir acciones no suscritas que se conserv
 
 La escritura social y sus modificaciones deberán ser aprobadas por la Secretaría de Hacienda y Crédito Público, cuando se ajusten a la Ley. La misma ordenará al Registro Público de la Propiedad y de Comercio de la ciudad de México y al del domicilio social, que haga la inscripción correspondiente sin necesidad de mandamiento judicial. La inscripción que se haga en contravención a lo dispuesto por este artículo, no surtirá efecto legal.
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
+
 ###### ARTICULO PRIMERO.
 
 Este Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
@@ -1214,3 +1232,7 @@ El mismo régimen de ajuste se aplicará respecto de la inversión obligatoria e
 ###### ARTICULO TERCERO.
 
 Entretanto no se expida el Reglamento respectivo, el límite de responsabilidades seguirá determinándose de acuerdo con lo dispuesto en el artículo 14 que se reforma.
+
+D.O.F. 30 DE DICIEMBRE DE 1963.
+
+Unico.- Las presentes reformas entrarán en vigor el día 1o. de enero de 1964.
