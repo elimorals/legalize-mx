@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2001-02-02"
+last_updated: "2001-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2001.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -209,9 +209,13 @@ X.- Secretaría de Salud;
 
 XI.- Secretaría Jurídica y Prevención Social;
 
-XII.- Dirección de Tránsito y Transportes;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
 
-XIII.- Dirección del Trabajo y Previsión Social;
+XII.- Secretaría del Trabajo y Previsión Social;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
+
+XIII.- Dirección de Tránsito y Transportes;
 
 XIV.- Dirección del Registro Público de la Propiedad y del Comercio;
 
@@ -221,9 +225,13 @@ XVI.- Dirección de Comunicación Social;
 
 XVII.- Dirección General de Ecología;
 
-XVIII.- Comisión Agraria Mixta, y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
 
-XIX.- Dirección General de Control y Evaluación Gubernamental.
+XVIII.- Dirección de Control y Evaluación Gubernamental, y
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
+
+XIX.- Comisión Agraria Mixta.
 
 ### CAPITULO I
 
@@ -899,37 +907,47 @@ VI.- Estudiar y proponer, en el seno del Comité de Planeación para el Desarrol
 
 VII.- Los demás que determinen expresamente las Leyes y Reglamentos.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE JUNIO DE 2001)</small>
+
 ## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
 ### CAPITULO XV
 
-DE LA COMPETENCIA DE LA DIRECCION DE TRABAJO Y PREVISION SOCIAL.
+DE LA COMPETENCIA DE LA SECRETARIA DEL TRABAJO Y PREVISION SOCIAL.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 34.
 
-A la Dirección del Trabajo y Previsión Social le corresponde la atención y trámite de los siguientes asuntos:
+La Secretaría del Trabajo y Previsión Social, es el órgano encargado de ejercer las atribuciones que en materia de Trabajo corresponden al Ejecutivo del Estado, teniendo como facultades para la atención y trámite de los asuntos laborales de índole local, las siguientes:
 
-I.- Vigilar la observancia y aplicación en el Estado, de las disposiciones relativas al trabajo contenidas en el Artículo 123 y demás de la Constitución Política de los Estados Unidos Mexicanos, en la Ley Federal del Trabajo y en sus Reglamentos;
+I.- Conducir la política laboral del Estado, vigilando la observancia y aplicación de las disposiciones contenidas en el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, así como las aplicables en el ámbito local de la Ley Federal del Trabajo y sus reglamentos;
 
-II.- Coadyuvar con la Dependencia Federal correspondiente en la formulación y promulgación de los Contratos Ley de Trabajo, tratándose de Empresas de jurisdicción local;
+II.- Promover y procurar el equilibrio de los factores de la producción, teniendo como eje rector el impulso de una cultura laboral basada en el diálogo y la concertación;
 
-III.- Organizar y controlar el Servicio Estatal del Empleo;
+III.- Organizar y operar el Servicio Estatal de Empleo, previo diagnóstico de la oferta y demanda de trabajo de la entidad;
 
-IV.- Llevar el registro de las Asociaciones Obreras y Patronales de jurisdicción local;
+IV.- Aplicar los programas y normas que determinen la estrategia para la capacitación y adiestramiento y la seguridad e higiene en el trabajo, en coordinación con la autoridad federal del trabajo y con la participación de los sectores empresarial, de los trabajadores, académicos y profesionales de la sociedad que inciden en este ámbito;
 
-V.- Dirigir y coordinar la Procuraduría General de la Defensa del Trabajo;
+V.- Vigilar, mediante visitas e inspecciones, que los centros de trabajo cumplan con las disposiciones legales en materia laboral; realizar las recomendaciones necesarias cuando así lo ameriten e imponer las sanciones administrativas procedentes;
 
-VI.- Organizar y patrocinar conferencias, exposiciones y reuniones para los trabajadores, en materia de trabajo y previsión social;
+VI.- Ejecutar los convenios y acuerdos que en materia de Trabajo firme el Ejecutivo Estatal con la Federación, coadyuvando con la Dependencia Federal correspondiente en la formulación y promulgación de Contratos-Ley, tratándose de empresas de jurisdicción local;
 
-VII.- Estudiar y proponer, en el seno del Comité de Planeación para el Desarrollo del Estado, programas tendientes a impulsar la ocupación en el Estado;
+VII.- Integrar el Registro Público de Contratos Colectivos, Asociaciones Obreras, Gremiales y Patronales;
 
-VIII.- Intervenir en la conciliación de los intereses de las partes en conflicto, cuando éstas lo soliciten o cuando lo amerite, a juicio del Titular del Ejecutivo;
+VIII.- Dirigir y coordinar la Procuraduría para la Defensa del Trabajo;
 
-IX.- Auxiliar en sus funciones a la Comisión Regional de los Salarios Mínimos;
+IX.- Promover programas en materia de Previsión Social, así como organizar y patrocinar conferencias, exposiciones, reuniones, cursos y demás actividades tendientes a elevar el nivel de vida de los trabajadores y sus familias;
 
-X.- Coordinar la integración y establecimiento de las Juntas Locales de Conciliación y/o de Arbitraje y el Tribunal de Arbitraje, así como vigilar su funcionamiento, y
+X.- Estudiar y proponer al seno del Comité de Planeación para el Desarrollo del Estado, una política laboral con visión regional y local, impulsando líneas estratégicas y de acción tendientes a la mejoría de la productividad, la ocupación y el empleo, la capacitación y adiestramiento, la salud e higiene, y todas aquellas medidas institucionales que tengan como objetivo el fortalecimiento de la planta productiva del estado y la mejoría de quienes laboran en ella;
 
-XI.- Los demás que determinen expresamente las Leyes y Reglamentos.
+XI.- Intervenir en la conciliación de los intereses de las partes en conflicto, cuando estas los soliciten o cuando la situación lo amerite, a juicio del titular del Ejecutivo;
+
+XII.- Auxiliar en sus funciones a la Comisión Regional de los Salarios Mínimos;
+
+XIII.- Coordinar la integración y establecimiento de las Juntas de Conciliación y/o Arbitraje y el Tribunal de Arbitraje, así como vigilar su funcionamiento;
+
+XIV.- Las demás que determinen expresamente las Leyes y Reglamentos.
 
 ### CAPITULO XVI
 
@@ -1442,6 +1460,20 @@ CUARTO.- El personal, los bienes, recursos presupuestales e información que la 
 QUINTO.- Las referencias que se hacen o se hagan y las atribuciones que se otorguen en otras leyes, reglamentos, decretos y demás disposiciones legales a la Coordinación General de la Política de Desarrollo Social del Ejecutivo, se entenderán hechas a la Secretaría de Desarrollo Social, a partir de la entrada en vigor del presente Decreto;
 
 SEXTO.- El titular del Poder Ejecutivo, dentro de los noventa días siguientes a partir de la vigencia de este Decreto, expedirá el reglamento Interior de la Secretaría de Desarrollo Social.
+
+P.O. 29 DE JUNIO DE 2001.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los derechos laborales de los servidores públicos y empleados de la actual Dirección del Trabajo y Previsión Social serán plenamente respetados, adecuando los puestos y nombramientos a las necesidades de la nueva Secretaría del Trabajo y Previsión Social, de conformidad con los reglamentos internos, manuales operativos y convenios laborales celebrados con la organización sindical que, para los objetivos de la nueva estructura administrativa se requieran de acuerdo a esta reforma.
+
+TERCERO.- Los recursos financieros, materiales y humanos, así como los archivos y asuntos en trámite de la Dirección del Trabajo y Previsión Social serán transferidos a la Secretaría del Trabajo y Previsión Social, observando los trámites administrativos y jurídicos que para el efecto disponga la Dirección de Control y Evaluación Gubernamental del Estado.
+
+CUARTO.- Hasta en tanto son reformados para actualizar el nivel de la dependencia, cuando las leyes y reglamentos se refieran a la Dirección del Trabajo y Previsión Social, se entenderá que se alude a la Secretaría del Trabajo y Previsión Social.
+
+QUINTO.- En un lapso de sesenta días naturales a partir de la vigencia de este Decreto, deberán modificarse o expedirse los reglamentos correspondientes para dar operatividad a los órganos de la Secretaría del Trabajo.
+
+SEXTO. Durante el ejercicio fiscal del año 2001, la Secretaría del Trabajo y Previsión Social funcionará con la misma estructura con la que ha venido funcionando la Dirección del Trabajo y Previsión Social, hasta en tanto no se hagan las adecuaciones presupuestales correspondientes.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 279.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE TLAXCALA”.]
 
