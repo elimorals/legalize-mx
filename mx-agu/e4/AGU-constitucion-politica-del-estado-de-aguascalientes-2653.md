@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1930-06-29"
+last_updated: "1935-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 1930.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 1935.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -133,7 +133,7 @@ El Supremo Poder del Estado, se divide para su ejercicio en Legislativo, Ejecuti
 
 El Poder Legislativo residirá en una Asamblea que se denominará: Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1929)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1935)</small>
 
 ### CAPITULO PRIMERO.
 
@@ -141,7 +141,7 @@ DEL PODER LEGISLATIVO.
 
 ###### Artículo 15°
 
-El Congreso del Estado a partir de la XXXIII Legislatura del mismo, se compondrá por lo menos de siete Diputados electos popularmente cada cuatro años. Los individuos respecto de quienes la Diputación Permanente declare que han obtenido mayoría de votos, conforme a la fracción III del artículo 31, instalados en junta preparatoria del Congreso, harán la calificación de la elección, declarando quiénes son Diputados conforme a la Ley.
+El Congreso del Estado se compondrá por lo menos de 7 diputados electos popularmente cada cuatro años. Los individuos respecto de quienes la Diputación Permanente declare que han obtenido mayoría de votos conforme a la fracción III del artículo 31, instalados en Junta Preparatoria del Congreso, harán la calificación de la elección, declarando quienes son Diputados conforme a la Ley. Los Diputados a la Legislatura del Estado no podrán ser reelectos para el período inmediato. Los Diputados suplentes podrán ser reelectos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio, pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1929)</small>
 
@@ -189,7 +189,7 @@ El Congreso, fuera de los períodos que señala el artículo anterior, celebrar�
 
 El Congreso no podrá ejercer sus funciones sin la concurrencia de más de la mitad del número total de sus miembros. Para obtener tal concurrencia, los Diputados presentes se reunirán el día designado por la ley y conminarán a los ausentes con las penas que señale el Reglamento respectivo.
 
-###### Artículo 23°
+###### Artículo 23.
 
 La iniciativa de las leyes corresponde:
 
@@ -335,11 +335,17 @@ V.- No ser Secretario de Gobierno, salvo que se separe del cargo, noventa días 
 
 VI.- No haber sufrido condena alguna impuesta por los Tribunales, que hubiere excedido de un mes de arresto.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1935)</small>
+
 ###### Artículo 34°
 
-El Gobernador será electo popularmente cada cuatro años y empezará a ejercer sus funciones el primero de diciembre posterior a la elección, protestando éste ante el Congreso del Estado. Nunca podrá ser reelecto.
+El Gobernador será electo popularmente cada cuatro años y empezará a ejercer sus funciones el primero de diciembre posterior a la elección, protestando éste ante el Congreso del Estado. Los Gobernadores del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso ni por ningún motivo, podrán volver a ocupar ese cargo ni aún con el carácter de interinos, provisionales, substitutos o encargados del despacho.
 
-No podrán ser electos para el período inmediato los Ciudadanos que hayan desempeñado el Poder Ejecutivo como Gobernadores sustitutos; pero en caso de licencia del Gobernador, el Interino podrá ser electo en el período inmediato, siempre que hubiere cesado en sus funciones cuatro meses antes de celebrarse la elección.
+Nunca podrá ser electo para el período inmediato:
+
+a).- El Gobernador substituto constitucional o el designado para concluir el período en caso de falta absoluta del constitucional aun cuando tenga distinta denominación.
+
+b).- El Gobernador interino, el provisional o el ciudadano que, bajo cualquiera denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
 
 ###### Artículo 35°
 
@@ -423,11 +429,13 @@ XV.- Conceder indultos y reducción de penas en los términos que lo prescriban 
 
 La Administración Municipal se ejerce por los Ayuntamientos que residirán en las Cabeceras de los Municipios.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1930)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1935)</small>
 
 ###### Artículo 43°
 
-Los miembros de los Ayuntamientos serán vecinos del Estado y electos popularmente, debiendo tener domicilio legal en el Municipio en que hubieren de funcionar, por lo menos seis meses antes de la elección. Los Ayuntamientos se renovaran por midad (sic) cada año.
+Los miembros de los Ayuntamientos serán vecinos del Estado y electos popularmente, debiendo tener domicilio legal en el Municipio en que hubieren de funcionar, por lo menos seis meses antes de la elección. Los Ayuntamientos se renovarán totalmente cada dos años.
+
+Los presidentes municipales, regidores y síndicos de los Ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos para el período inmediato. Todos los funcionarios antes mencionados cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes, sí podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
 
 ###### Artículo 44°
 
@@ -511,9 +519,9 @@ VI.- Nombrar y remover, en la forma que determinen las leyes, a los demás emple
 
 ## TITULO OCTAVO.
 
-###### Artículo 53.
+###### Artículo 53°
 
-°- Todo Funcionario y empleado público es responsable por los delitos del orden común que cometa durante el tiempo de su encargo y por los delitos y faltas oficiales en que incurra en el ejercicio del mismo; pero el Gobernador sólo podrá ser acusado por violación expresa de esta Constitución, ataque a la libertad electoral y delitos graves del orden común.
+Todo Funcionario y empleado público es responsable por los delitos del orden común que cometa durante el tiempo de su encargo y por los delitos y faltas oficiales en que incurra en el ejercicio del mismo; pero el Gobernador sólo podrá ser acusado por violación expresa de esta Constitución, ataque a la libertad electoral y delitos graves del orden común.
 
 ###### Artículo 54°
 
@@ -728,3 +736,7 @@ P.O. 29 DE JUNIO DE 1930.
 ###### Art. 3o.
 
 El presente decreto surtirá sus efectos desde el 16 de septiembre del año actual.
+
+P.O. 1 DE SEPTIEMBRE DE 1935.
+
+La reforma del artículo 43, que se refiere a la renovación total de los Ayuntamientos, cada dos años, en lugar de hacerse por mitad como venía observándose con anterioridad, comenzará a tener efecto en las elecciones que se verifiquen el segundo domingo de noviembre de 1936 y respecto a las Corporaciones que se elijan para el período 1937-1938. Los Munícipes de número par electos en noviembre del año en curso, durarán en su encargo hasta el 31 de diciembre de 1936.
