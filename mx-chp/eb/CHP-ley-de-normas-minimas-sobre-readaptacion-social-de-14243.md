@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-normas-minimas-sobre-readaptacion-social-de-14243"
 country: "mx"
 rank: "ley"
 publication_date: "1978-07-12"
-last_updated: "1978-07-12"
+last_updated: "2001-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14243&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE NORMAS MINIMAS SOBRE READAPTACION SOCIAL DE SENTENCIADOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 12 de julio de 1978.
 
@@ -55,9 +55,11 @@ La presente Ley tiene como finalidad organizar el Sistema Penitenciario en el Es
 
 El sistema penal se organizará sobre la base del trabajo, la capacitación para el mismo y la educación como medios para la readaptación social del delincuente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 3o.
 
-La Dirección General de Prevención y Readaptación Social, dependerá de la Secretaría General de Gobierno, y tendrá a su cargo la aplicación de estas normas en los reclusorios del Estado.
+La Coordinación General de Prevención y Readaptación Social, dependerá de la Secretaría de Seguridad Pública, quien tendrá a su cargo la aplicación de estas normas en los Reclusorios del Estado, en término de sus respectivas competencias, de acuerdo con lo previsto en las leyes correspondientes.
 
 El Ejecutivo del Estado, podrá celebrar convenios de coordinación con el Ejecutivo Federal, con el objeto de tener orientación respecto a las tareas de prevención social de la delincuencia y de aquellas relativas a la creación y manejo de instituciones penales, incluyendo las destinadas al tratamiento de adultos delincuentes, alienados que hayan incurrido en conductas antisociales y menores infractores.
 
@@ -167,6 +169,10 @@ Por cada dos días de trabajo se hará remisión de uno de prisión, siempre que
 
 La remisión funcionará independientemente de la libertad preparatoria, cuyo plazo se regirá exclusivamente, por las normas específicas pertinentes.
 
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2001)</small>
+
+ARTICULO 17 BIS.- Los mecanismos o métodos que se establecen en los artículos 9º, y 17º, de la presente Ley, para otorgar los tratamientos y beneficios que en ellos se contemplan, se ejercerán en términos de las facultades instructoras, concedidas en la Ley Orgánica de la Administración Pública del Estado y en el Reglamento respectivo, por el Secretario de Seguridad Pública.
+
 ### CAPITULO VI. NORMAS INSTRUMENTALES
 
 ###### ARTICULO 18.
@@ -201,4 +207,16 @@ Dado en el Salón de Sesiones del Palacio del H. Poder Legislativo del Estado, e
 
 De conformidad con la Fracción I del artículo 47 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los treinta días del mes de Junio de mil novecientos setenta y ocho.
 
-El Gobernador del Estado.- Lic. Salomón González Blanco.- El Secretario General de Gobierno.- Dr. Jesús Cancino Casahonda.- Rúbricas.
+El Gobernador del Estado.- Lic. Salomón González Blanco.- El Secretario General de Gobierno.- Dr. Jesús Cancino Casahondas.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE NOVIEMBRE DE 2001.
+
+###### ARTICULO PRIMERO.
+
+Presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. (sic)
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
