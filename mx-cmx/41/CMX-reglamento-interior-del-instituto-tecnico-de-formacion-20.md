@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-tecnico-de-formacion-20"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-02-28"
-last_updated: "1994-02-28"
+last_updated: "2001-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "1994-02-07"
 
 REGLAMENTO INTERIOR DEL INSTITUTO TECNICO DE FORMACION POLICIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE JULIO DE 2001.
 
-Reglamento Interior publicado en la Gaceta Oficial del Distrito Federal el lunes 28 de febrero de 1994.
+Reglamento Interior publicado en la Gaceta Oficial del Distrito Federal, el lunes 28 de febrero de 1994.
 
 Reglamento Interior del Instituto Técnico de Formación Policial.
 
@@ -44,7 +44,9 @@ El Instituto Técnico de Formación Policial tiene las siguientes atribuciones:
 
 I.- Seleccionar de entre los aspirantes a formar parte de la Policía del Distrito Federal a quienes acrediten los conocimientos y aptitudes requeridos para la realización de la función policial;
 
-II.- Formar y preparar a los elementos que aspiren a ingresar a la Policía del Departamento del Distrito Federal y a sus elementos en activo, con la finalidad de alcanzar su desarrollo profesional, técnico, científico, físico y cultural;
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2001)</small>
+
+II.- Formar y preparar a los elementos que aspiren a ingresar a la Policía del Distrito Federal y a sus elementos en activo, con la finalidad de alcanzar su desarrollo profesional, técnico, científico, físico y cultural;
 
 III.- Actualizar y perfeccionar los conocimientos, destrezas y habilidades de los elementos en activo, conforme a las especialidades y capacidades requeridas en la Policía del Distrito Federal;
 
@@ -58,9 +60,11 @@ VII.- Coordinar y evaluar los programas de investigación que realice en materia
 
 VIII.- Coordinar sus acciones con la Comisión Técnica de Profesionalización y con la Comisión Técnica de Selección y Promoción, de acuerdo con sus respectivos ámbitos de competencia.
 
+> <small>(REFORMADO, G.O. 17 DE JULIO DE 2001)</small>
+
 ###### ARTICULO 3.
 
-El Instituto Técnico de Formación Policial, es un órgano desconcentrado del Departamento del Distrito Federal, adscrito al Subsector Protección y Vialidad.
+El Instituto Técnico de Formación Policial, es un órgano desconcentrado de la Administración Pública del Distrito Federal, adscrito a la Secretaría de Seguridad Pública.
 
 ### CAPITULO SEGUNDO. Organos de Dirección
 
@@ -78,11 +82,21 @@ II.- Una Dirección General integrada por:
 
 - Dirección de Instrucción Policial.
 
+> <small>(ADICIONADO, G.O. 17 DE JULIO DE 2001)</small>
+
+- Dirección de Investigación Científica sobre la Seguridad Ciudadana.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE JULIO DE 2001)</small>
+
 ###### ARTICULO 5.
 
-El Consejo Directivo es un órgano colegiado de decisión que orientará sus acciones de conformidad con las necesidades de la población del Distrito Federal y de la Secretaría General de Protección y Vialidad, y se integrará por el Jefe del Departamento del Distrito Federal, quien lo presidirá; por los siguientes Vocales: el Secretario General de Gobierno, el Secretario General de Protección y Vialidad, el Oficial Mayor, el Contralor General, el Coordinador General Jurídico, el Director General de Operaciones, el Director General de Servicios de Apoyo, el Director General de la Policía Bancaria e Industrial, y el Director General de la Policía Auxiliar; así como por el Director General del Instituto Técnico de Formación Policial, quien fungirá como Secretario Técnico.
+El Consejo Directivo es un órgano colegiado de decisión que orientará sus acciones de conformidad con las necesidades de la población del Distrito Federal y de la Secretaría de Seguridad Pública, y se integrará por el Jefe de Gobierno del Distrito Federal, quien lo presidirá; por los siguientes Vocales: el Secretario de Gobierno, el Secretario de Seguridad Pública, el Oficial Mayor, el Contralor General, el Consejero Jurídico y de Servicios Legales, el Subsecretario de Seguridad Pública, el Subsecretario de Atención y Apoyo, el Director General de la Policía Bancaria e Industrial y el Director General de la Policía Auxiliar.
 
 Cada miembro propietario designará a su suplente.
+
+> <small>(ADICIONADO, G.O. 17 DE JULIO DE 2001)</small>
+
+El Consejo Directivo contará con un Secretario Técnico que será el Director General del Instituto Técnico de Formación Policial, quien tendrá sólo derecho a voz.
 
 ###### ARTICULO 6.
 
@@ -104,11 +118,15 @@ VII.- Establecer las reglas a que se sujetarán las relaciones académicas con e
 
 VIII.- Aprobar el anteproyecto del presupuesto anual que presente el Instituto, y
 
-IX.- Las demás que le confieren otras disposiciones o el Jefe del Departamento del Distrito Federal.
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 17 DE JULIO DE 2001)</small>
+
+IX.- Las demás que le confieren otras disposiciones o el Jefe de Gobierno del Distrito Federal.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE JULIO DE 2001)</small>
 
 ###### ARTICULO 7.
 
-La Dirección General es el órgano rector del Instituto y estará a cargo de quien designe el Jefe del Departamento del Distrito Federal y deberá reunir los siguientes requisitos:
+La Dirección General es el órgano rector del Instituto y estará a cargo de la persona que designe el Jefe de Gobierno del Distrito Federal, quien deberá reunir los siguientes requisitos:
 
 I.- Ser ciudadano mexicano por nacimiento;
 
@@ -206,6 +224,18 @@ VII.- Participar cuando se le requiera en los programas de protección civil y c
 
 VIII.- Las demás que le sean asignadas por el Director General.
 
+> <small>(ADICIONADO, G.O. 17 DE JULIO DE 2001)</small>
+
+###### ARTICULO 11
+
+BIS.- La Dirección de Investigación Científica, tendrá las siguientes funciones:
+
+I.- Realizar proyectos de investigación científica sobre la seguridad pública en el Distrito Federal.
+
+II.- Difundir entre los elementos de la policía del Distrito Federal y la sociedad los resultados de las investigaciones.
+
+III.- Realizar intercambios académicos con instituciones de enseñanza superior y otras instituciones o academias de policía a nivel nacional e internacional.
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Departamento del Distrito Federal.
@@ -231,3 +261,11 @@ JEFE DEL DEPARTAMENTO DEL DISTRITO FEDERAL
 MANUEL AGUILERA GOMEZ
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 17 DE JULIO DE 2001.
+
+PRIMERO.- El presente decreto entra en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se derogan aquellas disposiciones que se opongan al presente.
