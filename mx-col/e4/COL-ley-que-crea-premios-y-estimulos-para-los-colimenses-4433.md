@@ -4,7 +4,7 @@ identifier: "COL-ley-que-crea-premios-y-estimulos-para-los-colimenses-4433"
 country: "mx"
 rank: "ley"
 publication_date: "1967-10-14"
-last_updated: "1967-10-14"
+last_updated: "1968-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY QUE CREA PREMIOS Y ESTIMULOS PARA LOS COLIMENSES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 1968.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de octubre de 1967.
 
@@ -43,7 +43,19 @@ LEY QUE CREA PREMIOS Y ESTIMULOS PARA LOS COLIMENSES
 
 Se crean en el Estado de Colima, de manera permanente, las siguientes Insignias:
 
-I.- Condecoración "Profr. GREGORIO TORRES QUINTERO'', que se otorgará a miembros distinguidos del magisterio y a benefactores de la educación pública del Estado;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 1968)</small>
+
+I.- a).- Condecoración "PROFESOR GREGORIO TORRES QUINTERO'', que se otorgará a miembros distinguidos del magisterio y a benefactores de la educación pública del Estado.
+
+b).- Orden "Profr. Gregorio Torres Quintero'' y diploma de Honor, para los maestros en servicio que cumplan cincuenta años de labor profesional.
+
+La presea llevará grabados el Escudo de Colima, el nombre del maestro que la recibe, los años de servicios prestados, la autoridad que la concede y la fecha.
+
+El cómputo de los servicios se hará tomando en cuenta los prestados en establecimientos oficiales del Estado, la Federación y Particulares Incorporados, en cualquier Entidad de la República, en forma ininterrumpida o no; pero en este último caso, se observará que la interrupción o interrupciones sumadas, no pasen, en total de cinco años.
+
+La Orden y el Diploma citados pueden ser concedidos por el Ejecutivo del Estado o por la H. Legislatura Local, a los maestros que llenen los requisitos señalados debiendo dejarse constancia en las Dependencias correspondientes.
+
+La entrega de estos estímulos se hará en la ceremonia conmemorativa del "Día del Maestro''.
 
 II.- Condecoración "LIC. MANUEL RIVERA'', para distinguidos jurisconsultos y trabajadores en las ramas de ciencias sociales (abogados, penalistas, magistrados, economistas, especialistas en Derecho, tratadistas, diplomáticos, etc.);
 
@@ -86,3 +98,9 @@ El Gobernador Constitucional del Estado, dispondrá se publique, circule y obser
 Salón de Sesiones del H. Congreso del Estado.- Colima, Col., a 29 de Sept. de 1967.- Diputado Presidente, ING. OTHON BUSTOS SOLORZANO.- Diputado Secretario, JORGE VELASCO MARQUEZ.- Diputado Secretario, RAMON SERRANO GARCIA.- Rúbricas. Por tanto mando se imprima, publique, circule y observe.
 
 Palacio de Gobierno, Colima, Col., Octubre 10 de 1967.- El Secretario General de Gobierno, Encargado del Despacho del Poder Ejecutivo, Lic. Enrique Meillón de la Madrid.- Rúbrica.- El Oficial Mayor de Gobierno, Crescencio Flores Díaz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE MAYO DE 1968.
+
+Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
