@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1998-12-31"
+last_updated: "1999-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE FEBRERO DE 1999.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -561,7 +561,9 @@ La autoridad a quien corresponda el cobro de la multa podrá fijar plazos para e
 
 Los instrumentos del delito, así como las cosas que sean objeto o producto de él, se decomisarán si son de uso prohibido. Si son de uso lícito, se decomisarán cuando el delito sea intencional. Si pertenecen a un tercero, sólo se decomisarán cuando el tercero que los tenga en su poder o los haya adquirido bajo cualquier título, esté en alguno de los supuestos a los que se refiere el Artículo 400 de este Código, independientemente de la naturaleza jurídica de dicho tercero propietario o poseedor y de la relación que aquel tenga con el delincuente, en su caso. Las autoridades competentes procederán al inmediato aseguramiento de los bienes que podrían ser materia del decomiso, durante la averiguación o en el proceso. Se actuará en los términos previstos por este párrafo cualquiera que sea la naturaleza de los instrumentos, objetos o productos del delito.
 
-Si los instrumentos o cosas decomisados son sustancias nocivas o peligrosas, se destruirán a juicio de la autoridad que esté conociendo, en los términos previstos por el Código de Procedimientos Penales, pero aquélla, cuando lo estime conveniente, podrá determinar su conservación para fines de docencia o investigación. Respecto de los instrumentos del delito, o cosas que sean objeto o producto de él, la autoridad competente determinará su destino, según su utilidad, para beneficio de la administración de justicia.
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1999)</small>
+
+Si los instrumentos o cosas decomisados son sustancias nocivas o peligrosas, se destruirán a juicio de la autoridad que esté conociendo, en los términos previstos por el Código de Procedimientos Penales, pero aquélla, cuando lo estime conveniente, podrá determinar su conservación para fines de docencia o investigación. Respecto de los instrumentos del delito, o cosas que sean objeto o producto de él, la autoridad competente determinará su destino, según su utilidad, para beneficio de la procuración e impartición de justicia, de conformidad con las disposiciones aplicables.
 
 > <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
 
@@ -1707,7 +1709,7 @@ Al que violare los deberes de humanidad en los prisioneros y rehenes de guerra, 
 
 ### CAPITULO IV. Asociaciones delictuosas
 
-(REFORMADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1999)</small>
 
 ## TITULO QUINTO. Delitos en materia de vías de comunicación y de correspondencia
 
@@ -1849,7 +1851,7 @@ b). Comprobar la necesidad que tiene para la portación de armas y sus anteceden
 
 ###### ARTICULO 164.
 
-Al que forme parte de una asociación o banda de tres o más personas con propósito de delinquir, se le impondrá prisión de uno a ocho años, y de treinta a cien días multa.
+Al que forme parte de una asociación o banda de tres o más personas con propósito de delinquir, se le impondrá prisión de cinco a diez años y de cien a trescientos días multa.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -1994,6 +1996,10 @@ A quien intervenga comunicaciones privadas sin mandato de autoridad judicial com
 ###### ARTICULO 178.
 
 Al que, sin causa legítima, rehusare a prestar un servicio de interés público a que la Ley le obligue, o desobedeciere un mandato legítimo de la autoridad, se le aplicarán de quince a doscientas jornadas de trabajo en favor de la comunidad.
+
+> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1999)</small>
+
+Al que desobedeciere el mandato de arraigo domiciliario o la prohibición de abandonar una demarcación geográfica, dictados por autoridad judicial competente, se le impondrán de seis meses a dos años de prisión y de diez a doscientos días multa.
 
 ###### ARTICULO 179.
 
@@ -2159,17 +2165,17 @@ VII.- Se trate del propietario, poseedor, arrendatario o usufructuario de un est
 
 ARTICULO 196 bis.- (DEROGADO, D.O.F. 7 DE NOVIEMBRE DE 1996)
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1999)</small>
+
+ARTICULO 196 ter.- Se impondrán de cinco a quince años de prisión y de cien a trescientos días multa, así como decomiso de los instrumentos, objetos y productos del delito, al que desvíe o por cualquier medio contribuya a desviar precursores químicos, productos químicos esenciales o máquinas, al cultivo, extracción, producción, preparación o acondicionamiento de narcóticos en cualquier forma prohibida por la ley.
+
 > <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 1996)</small>
-
-ARTICULO 196 ter.- Se impondrá de cinco a quince años de prisión y de cien a trescientos días multa, así como decomiso de los instrumentos, objetos y productos del delito, al que:
-
-I. Produzca, posea o realice cualquier acto u operación con precursores químicos, máquinas o elementos, con el propósito de cultivar, producir o preparar narcóticos a los que se refiere el artículo 193, en cualquier forma prohibida por la ley, o
-
-II. Financie cualquiera de las conductas señaladas en la fracción anterior.
 
 La misma pena de prisión y multa, así como la inhabilitación para ocupar cualquier empleo, cargo o comisión públicos hasta por cinco años, se impondrá al servidor público que, en ejercicio de sus funciones, permita o autorice cualquiera de las conductas comprendidas en este artículo.
 
-Se consideran precursores químicos las sustancias líquidas, sólidas y gaseosas que sirven para la preparación de narcóticos, como el ácido lisérgico, efedrina, ergometrina, ergotamina, 1-fenil-2-propanona, seudoefedrina, acetona, ácido antranílico, ácido fenilacético, anhídrido acético, éter etílico, piperidina y, en su caso, sus sales, o cualquier otra sustancia con efectos semejantes.
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1999)</small>
+
+Son precursores químicos, productos químicos esenciales y máquinas los definidos en la ley de la materia.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -2417,7 +2423,9 @@ ARTICULO 213 bis.- Cuando los delitos a que se refieren los artículos 215, 219 
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
 
-### CAPITULO II. Falsificación de títulos al portador y documentos de crédito público
+### CAPITULO II. Falsificación y utilización indebida de títulos al portador, documentos de crédito público
+
+y documentos relativos al crédito
 
 > <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
@@ -2933,7 +2941,7 @@ Se castigará con prisión de cinco a doce años y hasta quinientos días multa,
 
 Se le impondrá de tres a siete años de prisión y hasta quinientos días multa, al que aproveche ilícitamente el contenido metálico destruyendo las monedas en circulación mediante su fundición o cualquier otro procedimiento.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 11 DE JUNIO DE 1992)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 8 DE FEBRERO DE 1999)</small>
 
 ### CAPITULO II. Homicidio
 
@@ -2954,6 +2962,24 @@ III.- Las obligaciones y otros títulos legalmente emitidos por sociedades o emp
 ###### ARTICULO 240.
 
 Al que introduzca en la República o pusiere en circulación en ella los documentos falsificados de que habla el artículo anterior, se le aplicará la sanción ahí señalada.
+
+> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1999)</small>
+
+###### ARTICULO 240 Bis.
+
+Se impondrán de tres a nueve años de prisión y de ciento cincuenta a cuatrocientos cincuenta días multa al que, sin consentimiento de quien esté facultado para ello:
+
+I. Produzca, introduzca al país, enajene, aun gratuitamente, o altere, tarjetas o documentos utilizados para el pago de bienes y servicios, para disposición de efectivo, o esqueletos de cheque;
+
+II. Adquiera, con propósito de lucro indebido, cualquiera de los objetos a que se refiere la fracción anterior, o
+
+III. Posea o detente, sin causa legítima, cualquiera de los objetos a que se refiere la fracción I.
+
+Las mismas penas se impondrán a quien utilice indebidamente información confidencial o reservada de la institución o persona que legalmente esté facultada para emitir los objetos a que se refiere la fracción I de este artículo.
+
+Las sanciones previstas se aplicarán con independencia de las que correspondan por cualquier otro delito cometido utilizando los objetos a que se refiere la fracción I de este artículo.
+
+Si el sujeto activo es empleado del ofendido, las penas se aumentarán en una mitad.
 
 ### CAPITULO III. Reglas comunes para lesiones y homicidio
 
@@ -3437,7 +3463,7 @@ IV.- El delito fuere cometido por la persona que tiene al ofendido bajo su custo
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO D.O.F. 13 DE MAYO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 267.
 
@@ -4409,7 +4435,7 @@ VI.- Cuando se cometa por los obreros, artesanos, aprendices o discípulos, en l
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 13 DE ENERO DE 1984)</small>
 
-VII. Cuando se cometa estando la víctima en un vehículo particular o de transporte público;
+VII.- Cuando se cometa estando la víctima en un vehículo particular o de transporte público;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 13 DE ENERO DE 1984)</small>
 
@@ -4435,13 +4461,17 @@ XII.- Cuando se realicen sobre embarcaciones o cosas que se encuentren en ellas;
 
 XIII.- Cuandos (sic) se comete sobre equipaje o valores de viajeros en cualquier lugar durante el transcurso del viaje;
 
-(ADICIONADA, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADA, D.O.F. 4 DE ENERO DE 1989)
+> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 1999)</small>
 
-XIV.- Cuando se trate de expedientes o documentos de protocolo, oficina o archivos públicos, de documentos que contengan obligación, liberación o transmisión de deberes que obren en expediente judicial, con afectación de alguna función pública. Si el delito lo comete el servidor público de la oficina en que se encuentre el expediente o documento, se le impondrá además, destitución e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, de seis meses a tres años, y
+XIV.- Cuando se trate de expedientes o documentos de protocolo, oficina o archivos públicos, de documentos que contengan obligación, liberación o transmisión de deberes que obren en expediente judicial, con afectación de alguna función pública. Si el delito lo comete el servidor público de la oficina en que se encuentre el expediente o documento, se le impondrá además, destitución e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, de seis meses a tres años;
 
-(ADICIONADA, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADA, D.O.F. 4 DE ENERO DE 1989)
+> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 1999)</small>
 
-XV.- Cuando el agente se valga de identificaciones falsas o supuestas órdenes de alguna autoridad.
+XV.- Cuando el agente se valga de identificaciones falsas o supuestas órdenes de alguna autoridad, y
+
+> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 1999)</small>
+
+XVI.- Cuando se cometa en caminos o carreteras.
 
 > <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
 
@@ -4519,7 +4549,7 @@ VI.- Al que hubiere vendido una cosa mueble y recibido su precio, si no la entre
 
 VII.- Al que vende a dos personas una misma cosa sea mueble o raíz y recibe el precio de la primera o de la segunda enajenación, de ambas o parte de él, o cualquier otro lucro con perjuicio del primero o del segundo comprador;
 
-VIII.- Al que valiéndose de la ignorancia o de las malas condiciones económicas de una persona, obtenga de ésta ventajas usuarias (sic) por medio de contratos o convenios en los cuales se estipulen réditos o lucros superiores a los usuales en el mercado.
+VIII.- Al que valiéndose de la ignorancia o de las malas condiciones económicas de una persona, obtenga de ésta ventajas usuarias (sic) por medio de contratos o convenios en los cuales se estipulen réditos o lucros superiores a los usuales en el mercado;
 
 IX.- Al que para obtener un lucro indebido, ponga en circulación fichas, tarjetas, planchuelas u otros objetos de cualquier materia como signos convencionales en substitución de la moneda legal;
 
@@ -5515,6 +5545,8 @@ D.O.F. 21 DE ENERO DE 1991.
 
 UNICO.- El presente decreto entra en vigor al día siguiente de la fecha de su publicación en el Diario Oficial de la Federación.
 
+D.O.F. 2
+
 D.O.F. 24 DE DICIEMBRE DE 1991.
 
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO, QUE SE RELACIONAN CON EL CODIGO.
@@ -5630,3 +5662,13 @@ D.O.F. 31 DE DICIEMBRE DE 1998.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
 
 PRIMERO. El presente Decreto entrará en vigor el 1o. de enero de 1999.
+
+D.O.F. 8 DE FEBRERO DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- A las personas que a la fecha de entrada en vigor del presente Decreto se encuentren sujetas a proceso penal por alguno de los delitos contenidos en las disposiciones del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, mencionadas en el Artículo Primero de este Decreto, le serán aplicables las disposiciones de dichos artículos vigentes al momento de la comisión del delito.
+
+Los procedimientos penales y de amparo no concluidos en la fecha señalada en el transitorio anterior, seguirán tramitándose conforme a las disposiciones del Código Federal de Procedimientos Penales y de la Ley de Amparo vigentes con anterioridad a la fecha de entrada en vigor del presente Decreto.
+
+TERCERO.- La (sic) resoluciones de la autoridad judicial en las que se hubiere prorrogado el arraigo domiciliario decretado originalmente seguirán subsistiendo por todo el término que se hubiere señalado en la prórroga.
