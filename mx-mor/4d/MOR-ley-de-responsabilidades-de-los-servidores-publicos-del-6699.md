@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-responsabilidades-de-los-servidores-publicos-del-6699"
 country: "mx"
 rank: "ley"
 publication_date: "1983-09-07"
-last_updated: "2000-09-13"
+last_updated: "2002-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 2002.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el miércoles 7 de septiembre de 1983.
 
@@ -133,19 +133,13 @@ II.- La inhabilitación para obtener toda clase de empleos, cargos u honores pú
 
 En el Juicio Político el H. Congreso del Estado conocerá como Jurado de Declaración y el H. Tribunal Superior de Justicia del Estado integrado por la totalidad de sus miembros, como Jurado de Sentencia.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 11.
 
-Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular por escrito denuncia ante el Congreso Local por las conductas a que se refiere el Artículo 8o. de esta Ley. Presentada la denuncia y ratificada que sea dentro de tres días naturales, se turnará de inmediato con la documentación que le acompaña a la Comisión Política del Congreso para que dictamine si la conducta atribuida corresponde a las enumeradas por aquel precepto y si el denunciado está comprendido entre los Servidores Públicos a que se refiere el Artículo 6o. de la presente, así como si la denuncia es procedente y por lo tanto amerita la incoación del procedimiento.
-
-Una vez acreditados los elementos descritos, a juicio de la Comisión Política del Congreso se turnará a la Comisión Instructora del procedimiento que será la Comisión de Gobernación y Gran Jurado.
-
-No se dará trámite a denuncias anónimas.
-
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular por escrito denuncia ante el Congreso Local, en contra de los Servidores Públicos señalados en el artículo 137 de la Constitución Política del Estado, por las conductas a que se refiere el Artículo 8o. de esta Ley. Presentada la denuncia y ratificada que sea dentro de tres días naturales, se turnará de inmediato con la documentación que le acompaña a la Comisión de Régimen Interno y Concertación Política del Congreso para que dictamine si la conducta atribuida corresponde a las enumeradas por aquel precepto y si el denunciado está comprendido entre los Servidores Públicos a que se refiere el Artículo 6o. de la presente, así como si la denuncia es procedente y por lo tanto amerita la incoación del procedimiento. Una vez acreditados los elementos descritos, a juicio de la Comisión de Régimen Interno y Concertación Política del Congreso se turnará a la Comisión Instructora del Procedimiento que será la Comisión de Gobernación y Gran Jurado. No se dará trámite a denuncias anónimas.
 
 El procedimiento será de estricto derecho, manteniendo el principio de igualdad de las partes.
-
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
 
 El escrito de denuncia deberá contener el nombre del promovente y su domicilio para oír y recibir notificaciones y documentos en el lugar de residencia del H. Congreso del Estado; nombre y domicilio del denunciado, para el efecto de que pueda ser notificado y emplazado a juicio; los hechos que den motivo a la denuncia y las pruebas que ofrezca.
 
@@ -560,3 +554,9 @@ Túrnese al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispu
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto tendrá vigencia a partir del día siguiente a su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 10 DE JULIO DE 2002.
+
+PRIMERO.- Aprobado que sea el presente Decreto, remítase al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
