@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2004-02-10"
+last_updated: "2004-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE JUNIO DE 2004.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -492,9 +492,25 @@ XLVI. Verificar el cumplimiento de las Normas Oficiales Mexicanas y de las norma
 
 XLVII. Crear y regular el Sistema de Certificación y Acreditación Ambiental, que tendrá por objeto determinar la conformidad sobre el cumplimiento de la normatividad ambiental, así como los esfuerzos adicionales de las personas a favor del medio ambiente;
 
-> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2004)</small>
 
-XLVIII. Las demás que le confieren esta y otras leyes, así como las que se deriven de los instrumentos de coordinación celebrados y que se celebren.
+XLVIII. Administrar, coordinar y supervisar la operación y funcionamiento de los zoológicos y unidades de manejo de vida silvestre a cargo de la Secretaría, en términos de la legislación aplicable, como centros de recreación y esparcimiento para la población y la exhibición de flora y fauna silvestres con fines de educación y conservación;
+
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
+
+XLIX. Celebrar actos administrativos con terceros sobre los espacios e infraestructura que confieran su uso, aprovechamiento y administración de las áreas naturales protegidas, áreas de valor ambiental, zoológicos y unidades de manejo de vida silvestre a cargo de la Secretaría, en los términos de lo que establecen: el Programa General de Ordenamiento Ecológico Territorial del Distrito Federal, General de Desarrollo Urbano y Programa de Áreas Naturales Protegidas, así como demás normatividad aplicable, vigilando el cumplimiento de las obligaciones de los usuarios;
+
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
+
+L. Recibir y administrar los ingresos que se perciban por el uso y aprovechamiento de las áreas naturales protegidas, áreas de valor ambiental, zoológicos y unidades de manejo de vida silvestre a cargo de la Secretaría y, de conformidad con los ordenamiento jurídicos correspondientes, recaudarlos, recibirlos, administrarlos y comprobarlos con el carácter de ingresos de aplicación automática de recursos, aplicándolos para proyectos y programas de educación, conservación y mantenimiento;
+
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
+
+LI. Formular y conducir la política del Distrito Federal en materia de uso y aprovechamiento sustentable del agua; y
+
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
+
+LII. Las demás que le confieren esta y otras Leyes, así como las que se deriven de los instrumentos de coordinación celebrados y que se celebren.
 
 ###### ARTÍCULO 10.
 
@@ -840,9 +856,25 @@ En la formulación de las normas ambientales para el Distrito Federal deberá co
 
 La sociedad, las instituciones de investigación y educación superior, las organizaciones empresariales, así como las entidades y dependencias de la Administración Pública, podrán proponer la creación de las normas ambientales para el Distrito Federal, en los términos señalados en el reglamento que al efecto se expida.
 
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+
 ###### ARTÍCULO 40.
 
-Una vez publicada una norma ambiental para el Distrito Federal en la Gaceta Oficial, será obligatoria. Las normas ambientales para el Distrito Federal señalarán su ámbito de validez, vigencia y gradualidad en su aplicación.
+La elaboración, aprobación y expedición de las normas ambientales para el Distrito Federal, así como sus modificaciones, se sujetarán al siguiente procedimiento:
+
+I. La Secretaría creará un Comité de Normalización Ambiental para coordinar el proceso de emisión de normas ambientales;
+
+II. El Comité antes mencionado convocará a la conformación de grupos de trabajo que elaboren y opinen sobre los proyectos, a través de medios masivos de difusión por lo menos con quince días naturales de antelación;
+
+III. La Secretaría publicará el proyecto de norma o de su modificación en la Gaceta Oficial, a efecto de que los interesados presenten sus comentarios dentro de los treinta días naturales siguientes;
+
+IV. Al término del plazo a que se refiere la fracción anterior, la Secretaría estudiará los comentarios recibidos y, en su caso, procederá a modificar el proyecto de norma ambiental y emitir la norma definitiva;
+
+V. Se ordenará la publicación en la Gaceta Oficial de las respuestas a los comentarios recibidos así como de las modificaciones al proyecto, cuando menos 15 días naturales antes de la publicación de la norma ambiental para el Distrito Federal.
+
+La Secretaría deberá responder por escrito a los interesados las razones fundadas por las cuales los comentarios a que se refiere la fracción III de este artículo no fueron tomados en consideración dentro del proyecto de norma ambiental, pudiendo los afectados interponer el recurso de inconformidad a que se refiere esta Ley en contra de la respuesta que emita la Secretaria a los comentarios recibidos; y
+
+VI. Transcurridos los plazos anteriores, la Secretaría publicará las normas ambientales para el Distrito Federal o sus modificaciones en la Gaceta Oficial.
 
 > <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -1108,9 +1140,97 @@ La persona que construya una obra nueva, amplíe una existente, o explote recurs
 
 Las autorizaciones que se otorguen en materia de impacto ambiental estarán referidas a la obra o actividad de que se trate.
 
-### CAPÍTULO VII. AUTORREGULACIÓN Y AUDITORÍAS AMBIENTALES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 4 DE JUNIO DE 2004)</small>
 
-### CAPÍTULO VIII. DEL FONDO AMBIENTAL PÚBLICO
+### CAPÍTULO VI BIS. LICENCIA AMBIENTAL ÚNICA PARA EL DISTRITO FEDERAL
+
+ARTÍCULO 61 bis. La Licencia Ambiental Única para el Distrito Federal es el instrumento de política ambiental por el que se concentran diversas obligaciones ambientales de los responsables de fuentes fijas que están sujetos a las disposiciones de esta Ley, mediante la tramitación de un solo procedimiento que ampare los permisos y autorizaciones referidos en la normatividad ambiental.
+
+> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
+
+ARTÍCULO 61 bis 1. Para obtener la Licencia Ambiental Única para el Distrito Federal a que se refiere el artículo anterior, los responsables de las fuentes fijas deberán presentar a la Secretaría la solicitud correspondiente acompañada de la siguiente información:
+
+I. Datos generales del solicitante;
+
+II. Ubicación de la fuente fija;
+
+III. Descripción del proceso;
+
+IV. Distribución de maquinaria y equipo;
+
+V. Cantidad y tipo de materias primas o combustibles que se utilicen en su proceso y forma de almacenamiento;
+
+VI. Transporte de materias primas o combustibles al área de proceso;
+
+VII. Transformación de materias primas o combustibles;
+
+VIII. Productos, subproductos y residuos que se generen;
+
+IX. Los anexos, estudios, análisis y planes de manejo que de acuerdo con la actividad del establecimiento se deban presentar:
+
+a) Emisiones a la atmósfera;
+
+b) Descarga de aguas residuales;
+
+c) Generación y disposición de residuos no peligrosos;
+
+d) Generación de ruido y vibraciones; y
+
+e) Registro de emisiones y transferencia de contaminantes.
+
+X. Almacenamiento, transporte y distribución de productos y subproductos;
+
+XI. Cantidad y naturaleza de los contaminantes a la atmósfera esperados;
+
+XII. Equipos para el control de la contaminación a la atmósfera que vayan a utilizarse; y
+
+XIII. Programas de acciones para el caso de contingencias atmosféricas, que contenga las medidas y acciones que se llevarán a cabo cuando las condiciones meteorológicas de la región sean desfavorables, o cuando se presenten emisiones de contaminantes extraordinarias no controladas.
+
+> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
+
+###### ARTÍCULO 61 Bis 2.
+
+La información a que se refiere el artículo anterior deberá presentarse en el formato que determine la Secretaría, quien podrá requerir la información adicional que considere necesaria y verificar en cualquier momento la veracidad de la misma.
+
+Una vez presentada la solicitud e integrado el expediente, la Secretaría deberá emitir en un plazo de treinta días hábiles, debidamente fundada y motivada, la Licencia Ambiental Única para el Distrito Federal, en la cual se señalará al establecimiento las obligaciones ambientales a que queda sujeto de acuerdo a su actividad y capacidad, y si procede realizar la actualización de la información del desempeño ambiental de la fuente fija. Transcurrido dicho plazo sin que la autoridad resuelva, se entenderá que la resolución se ha emitido en sentido negativo.
+
+> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
+
+###### ARTÍCULO 61 Bis 3.
+
+La Licencia Ambiental Única para el Distrito Federal deberá señalar:
+
+I. El número de registro ambiental;
+
+II. Las condiciones de operación;
+
+III. Los límites máximos permisibles de emisión por tipo de contaminante a que deberá sujetarse la fuente emisora;
+
+IV. Las obligaciones ambientales a las que queda sujeto el establecimiento, de acuerdo con sus características y actividad;
+
+V. La periodicidad con la que deberá llevarse a cabo la medición, monitoreo y reporte de emisiones; y
+
+VI. Las medidas y acciones que deberán llevarse a cabo en caso de una contingencia.
+
+Acompañando a dicha licencia, la Secretaría emitirá una resolución fundada y motivada donde señale si el establecimiento ha actualizado sus obligaciones ambientales, dando cumplimiento o no, a la normatividad aplicable en materia ambiental.
+
+Transcurrido dicho plazo sin que la autoridad resuelva, se entenderá que la resolución se ha emitido en sentido negativo.
+
+> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
+
+###### ARTÍCULO 61 Bis 4.
+
+Una vez obtenida la Licencia Ambiental Única para el Distrito Federal y de acuerdo a lo que se señale en la misma, los responsables de los establecimiento que deban llevar a cabo la actualización de la información del desempeño ambiental de su establecimiento, a través de la presentación de alguno de los anexos que se señalan en la fracción IX del artículo 61bis1, deberán presentar en el primer cuatrimestre de cada año calendario, el Anexo correspondiente acompañado de los estudios, análisis o planes de manejo que se señalen en el mismo.
+
+> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
+
+###### ARTÍCULO 61 Bis 5.
+
+El listado que agrupa a los establecimientos que por su capacidad y actividad no se encuentran sujetos a tramitar la Licencia Ambiental Única para el Distrito Federal, será publicado y actualizado anualmente en la Gaceta Oficial del Distrito Federal.
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 4 DE JUNIO DE 2004)</small>
+
+### CAPÍTULO VII. AUTORREGULACIÓN Y AUDITORÍAS
 
 ###### ARTÍCULO 62.
 
@@ -1122,9 +1242,21 @@ El desarrollo de la auditoría ambiental es de carácter voluntario y no limita 
 
 Los responsables de los establecimientos industriales, mercantiles, de servicios y de espectáculos, que pretendan una auditoría ambiental deberán solicitar por escrito su incorporación al programa de auditorías ambientales y establecer su compromiso de cumplir con la normatividad correspondiente y con las recomendaciones derivadas de la propia auditoría.
 
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+
 ###### ARTÍCULO 64.
 
-Los productores, empresas u organizaciones empresariales podrán convenir con la Secretaría el establecimiento de procesos voluntarios de autorregulación mediante los cuales se comprometan a reducir sus emisiones por debajo de los límites establecidos por las normas oficiales mexicanas y las normas ambientales para el Distrito Federal.
+Los productores, empresas u organizaciones empresariales que cumplan con la normatividad vigente en materia ambiental, podrán convenir con la Secretaría el establecimiento de procesos voluntarios de autorregulación a través de los cuales mejoren su desempeño ambiental, y se comprometan a superar o cumplir mayores niveles, metas o beneficios en materia de protección ambiental.
+
+La Secretaría inducirá o concertará:
+
+I. El desarrollo de procesos productivos adecuados y compatibles con el ambiente, así como sistemas de protección y restauración en la materia, convenidos con cámaras de industria, comercio y otras actividades productivas, organizaciones de productores, organizaciones representativas de una zona o región, instituciones de investigación científica y tecnológica y otras organizaciones interesadas;
+
+II. El cumplimiento de normas voluntarias o especificaciones técnicas en materia ambiental que sean más estrictas que las normas oficiales mexicanas o que se refieran a aspectos no previstos por éstas. Para tal efecto, la Secretaría podrá promover el establecimiento de normas ambientales de Distrito Federal o normas mexicanas;
+
+III. El establecimiento de sistemas de certificación de procesos o productos para inducir patrones de consumo que sean compatibles o que preserven, mejoren o restauren el medio ambiente; y
+
+IV. Las demás acciones que induzcan a las personas físicas o morales a alcanzar los objetivos de la política ambiental superiores a las previstas en la normatividad ambiental establecida.
 
 > <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -1168,9 +1300,7 @@ La Secretaría podrá eximir de la obligación de realizar verificaciones en det
 
 Sin perjuicio de lo dispuesto en los artículos precedentes, la Secretaría podrá en todo momento, de oficio o a petición fundada y motivada de cualquier interesado, ordenar la realización de auditorías ambientales en forma obligatoria para cerciorarse del cumplimiento de las disposiciones de la presente Ley.
 
-### CAPÍTULO IX. INSTRUMENTOS ECONÓMICOS
-
-> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
+### CAPÍTULO VIII. DEL FONDO AMBIENTAL PÚBLICO
 
 ###### ARTÍCULO 69.
 
@@ -1196,7 +1326,7 @@ VII. (SIC) La supervisión del cumplimiento de los convenios con los sectores pr
 
 > <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-VII. (SIC) La reparación de daños ambientales.
+VII. La reparación de daños ambientales.
 
 ###### ARTÍCULO 70.
 
@@ -1232,7 +1362,9 @@ El Jefe de Gobierno emitirá un acuerdo que establezca la integración del conse
 
 (REUBICADO, REFORMADA SU DENOMINACION, G.O. 10 DE FEBRERO DE 2004)
 
-### CAPÍTULO X. INVESTIGACIÓN Y EDUCACIÓN AMBIENTALES
+### CAPÍTULO IX. INSTRUMENTOS ECONÓMICOS
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 71 Bis.
 
@@ -1294,7 +1426,7 @@ V. El establecimiento, manejo y vigilancia de áreas naturales protegidas; y
 
 VI. En general, aquellas actividades relacionadas con la preservación y restauración del equilibrio ecológico y la protección al ambiente.
 
-### CAPÍTULO XI. INFORMACIÓN AMBIENTAL
+### CAPÍTULO X. INVESTIGACIÓN Y EDUCACIÓN AMBIENTALES
 
 ###### ARTÍCULO 73.
 
@@ -1314,7 +1446,7 @@ V. La formación de especialistas así como la coordinación para la investigaci
 
 Para efectos de lo dispuesto por el artículo anterior, dentro del año de la promulgación de la presente Ley, la Secretaría establecerá un conjunto de recomendaciones y directrices tendientes a que las autoridades e instituciones educativas y culturales, públicas y privadas, introduzcan en los procesos educativos formales y no formales, así como en los sistemas de capacitación de la administración pública y empresariales y en los medios de comunicación, contenidos y metodologías para el desarrollo en la población de conocimientos, hábitos de conducta y actitudes orientadas a favorecer las transformaciones necesarias para alcanzar el desarrollo sustentable, así como la conservación y restauración de los recursos naturales.
 
-### CAPÍTULO XII. DENUNCIA CIUDADANA
+### CAPÍTULO XI. INFORMACIÓN AMBIENTAL
 
 ###### ARTÍCULO 75.
 
@@ -1358,13 +1490,13 @@ III. Se trate de información aportada por terceros cuando los mismos no estén 
 
 IV. Se trate de información sobre inventarios e insumos y tecnología de proceso, incluyendo la descripción del mismo.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO XII. DENUNCIA CIUDADANA
 
-> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 80.
 
-Toda persona, física o moral, podrá denunciar ante la autoridad ambiental, todo hecho, acto u omisión que produzca o pueda producir desequilibrios ecológicos o daños al ambiente o a los recursos naturales, o contravenga las disposiciones de la presente Ley y demás ordenamientos que regulen materias relacionadas con la conservación del ambiente, protección ecológica y restauración del equilibrio ecológico.
+Toda persona física o moral, podrá denunciar ante la Procuraduría, todo hecho, acto u omisión que produzca o pueda producir desequilibrios ecológicos o daños al ambiente o a los recursos naturales, o contravenga las disposiciones de la presente Ley y demás ordenamientos que regulen materias relacionadas con la conservación del ambiente, protección ecológica y restauración del equilibrio ecológico.
 
 Si por la naturaleza de los hechos denunciados se tratare de asuntos de competencia del orden federal o sujetos a la jurisdicción de otra autoridad federativa, la misma autoridad que la recibió deberá turnarla a la autoridad competente.
 
@@ -1408,9 +1540,9 @@ La autoridad estará obligada a informar al denunciante sobre el trámite que re
 
 ## TÍTULO CUARTO. DE LA PROTECCIÓN, RESTAURACIÓN Y APROVECHAMIENTO SUSTENTABLE DE LOS RECURSOS NATURALES
 
-### CAPÍTULO II BIS. ÁREAS DE VALOR AMBIENTAL
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
 
 ###### ARTÍCULO 85.
 
@@ -1452,15 +1584,13 @@ V. Elaborar los programas de reforestación y restauración con especies nativas
 
 Compete a las delegaciones conforme a lo previsto en esta Ley y demás disposiciones legales aplicables, el ejercicio de las acciones administrativas que procedan en los casos de invasión de áreas verdes de su competencia, así como de las que corresponden a la Secretaría previa la celebración del convenio respectivo. El reglamento determinará los lineamientos para la ejecución de las acciones administrativas derivadas de la invasión de áreas verdes, áreas de valor ambiental y áreas naturales protegidas, así como en predios del dominio público y de particulares en suelo de conservación.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 31 DE ENERO DE 2002)</small>
-
 ### CAPÍTULO II. ÁREAS VERDES
 
 > <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
 
-### CAPÍTULO III. ÁREAS NATURALES PROTEGIDAS
+### CAPÍTULO II BIS. ÁREAS DE VALOR AMBIENTAL
 
-> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
 
 ###### ARTÍCULO 87.
 
@@ -1502,7 +1632,41 @@ El mantenimiento, mejoramiento, restauración, rehabilitación, fomento y conser
 
 La Secretaría y las Delegaciones podrán celebrar convenios con los vecinos de las áreas verdes de su competencia, para que participen en su mantenimiento, mejoramiento, restauración, fomento y conservación; así como en la ejecución de acciones de forestación, reforestación, recreativas y culturales, proporcionando mecanismos de apoyo en especie, cuando sea necesario y promoverán su intervención en la vigilancia de tales áreas.
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+
+Artículo 88 bis 1. En los parques y jardines, plazas jardinadas o arboladas, zonas con cualquier cubierta vegetal en la vía pública, alamedas y arboledas, jardineras y barrancas, queda prohibido:
+
+I. La construcción de edificaciones, y de cualesquier obra o actividad que tengan ese fin;
+
+II. El cambio de uso de suelo;
+
+III. La extracción de tierra y cubierta vegetal, así como el alambrado o cercado, siempre que ello no sea realizado por las autoridades competentes o por persona autorizada por las mismas, para el mantenimiento o mejoramiento del área respectiva; y
+
+IV. El depósito de cascajo y de cualquier otro material proveniente de edificaciones que afecte o pueda producir afectaciones a los recursos naturales de la zona.
+
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+
+ARTÍCULO 88 bis 2. Las áreas verdes bajo las categorías de parques, jardines, alamedas y arboledas o áreas análogas, establecidas en los programas de desarrollo urbano, deberán conservar su extensión y en caso de modificarse para la realización de alguna obra pública deberán ser compensadas con superficies iguales o mayores a la extensión modificada, en el lugar más cercano.
+
+> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
+
+ARTÍCULO 88 bis 3. La construcción de edificaciones en las áreas verdes previstas en las fracciones VI a la IX del artículo 87 de la presente Ley, podrá ser autorizada o realizada por la autoridad competente, para su protección, fomento y educación ambiental, para lo cual, se requerirá de la emisión de un dictamen técnico preliminar en el que se determinen las acciones y medidas que habrán de considerarse y en su caso ordenarse en la autorización correspondiente, a efecto de evitar que se generen afectaciones a los recursos naturales de la zona durante el desarrollo de la construcción.
+
+> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
+
+ARTÍCULO 88 bis 4. La Secretaría establecerá el Inventario General de las Áreas Verdes del Distrito Federal, con la finalidad de conocer, proteger y preservar dichas áreas, así como para proponer a la Secretaría de Desarrollo Urbano y Vivienda y a las delegaciones, según su competencia, el incremento de dichas áreas en zonas donde se requiera, el cual deberá contener, por lo menos:
+
+I. La ubicación y superficie;
+
+II. Los tipos de área verde;
+
+III. Las especies de flora y fauna que la conforman;
+
+IV. Las zonas en las cuales se considera establecer nuevas áreas verdes;
+
+V. Las demás que establezca el Reglamento.
+
+Las delegaciones llevarán el inventario de áreas verdes de su competencia en su demarcación territorial, en los términos establecidos en el párrafo anterior y lo harán del conocimiento de la Secretaría para su integración en el inventario general al que se refiere el presente artículo, proporcionando anualmente las actualizaciones correspondientes, en los términos del Reglamento. Dicho inventario formará parte del Sistema de Información Ambiental del Distrito Federal.
 
 ###### ARTÍCULO 88 Bis 1.
 
@@ -1530,15 +1694,37 @@ Las delegaciones llevarán el inventario de áreas verdes de su competencia en s
 
 Todos los trabajos de mantenimiento, mejoramiento, fomento y conservación a desarrollarse en las áreas verdes, deberán sujetarse a la normatividad que establezca la Secretaría.
 
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+
+La remoción o retiro de árboles dentro de las áreas verdes, requerirá autorización de la delegación correspondiente, bajo la normatividad que emita la Secretaría.
+
+> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
+
+ARTÍCULO 89 bis. En todo caso, la autorización para el derribo, poda o trasplante del arbolado en suelo de conservación, áreas de valor ambiental y áreas naturales protegidas, se limitará a medidas fitosanitarias o de prevención de incendios.
+
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+
+###### Artículo 90.
+
+En caso de dañar un área verde, el responsable deberá reparar los daños causados, en los siguientes términos:
+
+I. Restaurando el área afectada; o
+
+II. Llevando a cabo las acciones de compensación que se requieran a efecto de que se restituya un área equivalente a la afectada, en el sitio más próximo posible a ésta.
+
+Las alternativas referidas deberán ser consideradas por las autoridades competentes en el orden en que se enuncian.
+
+La reparación de los daños causados a las áreas verdes podrá ordenarse por las autoridades competentes, como medida correctiva o sanción.
+
+Excepcionalmente, en caso de que el daño realizado sea irreparable en términos de las fracciones I y II del presente artículo, el responsable deberá pagar una compensación económica que deberá destinarse al fondo ambiental público, a efecto de aplicarse a restauración o compensación de áreas afectadas.
+
+Lo anterior, sin perjuicio de la aplicación de las medidas correctivas o sanciones adicionales que sean procedentes por infracciones a lo dispuesto en la presente ley.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 31 DE ENERO DE 2002)</small>
+
+### CAPÍTULO III. ÁREAS NATURALES PROTEGIDAS
+
 > <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
-
-La remoción o retiro de árboles dentro de las áreas verdes requerirá autorización de la delegación correspondiente cuando se trate de aquellas establecidas en las fracciones I a V del artículo 87 de la presente Ley y a la Secretaría, cuando se trate de las comprendidas en las fracciones VI a IX del mismo artículo, y a ambas autoridades, en el marco de sus respectivas competencias, cuando se trate de bienes del dominio de particulares, observando lo previsto en el Programa General de Ordenamiento Ecológico del Distrito Federal, los programas de des arrollo urbano y demás disposiciones jurídicas aplicables.
-
-###### ARTÍCULO 90.
-
-En caso de dañar negativamente un área verde o jardinera pública, el responsable deberá reparar los daños causados, sin perjuicio de la aplicación de las sanciones procedentes si no cuenta con la autorización respectiva, salvo tratándose de afectación accidental o necesaria para salvaguardar la integridad de las personas y sus bienes o para el acceso o uso de inmuebles, en cuyos casos no se aplicará sanción alguna, pero sí se solicitará que en un lugar lo más cercano posible se restituya un área similar a la afectada, con las especies adecuadas.
-
-### CAPÍTULO IV. CONSERVACIÓN Y APROVECHAMIENTO SUSTENTABLE DEL AGUA
 
 ###### ARTÍCULO 90 Bis.
 
@@ -1602,7 +1788,7 @@ III.- Las acciones a realizar en el corto, mediano y largo plazos para la restau
 
 Las prohibiciones que establece la presente Ley en relación con las áreas naturales protegidas, deberán observarse para las áreas de valor ambiental, además de la prohibición para el aprovechamiento o extracción de recursos naturales, salvo en aquellos casos que se determinen en el reglamento respectivo, observando las disposiciones de la presente Ley.
 
-### CAPÍTULO V. CONSERVACIÓN Y APROVECHAMIENTO SUSTENTABLE DEL SUELO
+### CAPÍTULO IV. CONSERVACIÓN Y APROVECHAMIENTO SUSTENTABLE DEL AGUA
 
 ###### ARTÍCULO 91.
 
@@ -1660,7 +1846,13 @@ Las zonas ecológicas y culturales son aquellas con importantes valores ambienta
 
 Los refugios de vida silvestre son aquellos que constituyen el hábitat natural de especies de fauna y flora que se encuentran en alguna categoría de protección especial o presentan una distribución restringida.
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+
+Artículo 92 bis 4. Las Reservas Ecológicas Comunitarias son aquellas establecidas por pueblos, comunidades y ejidos en terrenos de su propiedad destinadas a la preservación, protección y restauración de la biodiversidad y del equilibrio ecológico, sin que se modifique el régimen de propiedad.
+
+La Secretaría promoverá la expedición de la declaratoria correspondiente, mediante la cual se establecerá el programa de manejo del área por parte del promovente, con la participación de la Secretaría conforme a las atribuciones que al respecto se le otorgan en la presente Ley.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 92 Bis 4.
 
@@ -1673,6 +1865,10 @@ La Secretaría promoverá la expedición de la declaratoria correspondiente, med
 ###### ARTÍCULO 92 Bis 5.
 
 La administración y manejo de las áreas naturales protegidas propiedad del Gobierno del Distrito Federal corresponderá a la Secretaría. La Secretaría podrá suscribir convenios administrativos con las delegaciones a fin de que éstas se hagan cargo de la administración y manejo de las áreas naturales protegidas en su demarcación territorial. En el caso de las áreas naturales protegidas de propiedad social, su administración corresponderá a sus propietarios o poseedores o a la Secretaría, en el caso de suscribir convenios administrativos para tal fin con los pueblos, comunidades y ejidos.
+
+> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
+
+ARTÍCULO 92 bis 6. Las Zonas de Protección Especial son aquellas que se localizan en suelo de conservación y que tienen la característica de presentar escasa vegetación natural, vegetación inducida o vegetación fuertemente modificada y que por su extensión o características no pueden estar dentro de las otras categorías de áreas naturales protegidas, aun cuando mantienen importantes valores ambientales.
 
 ###### ARTÍCULO 93.
 
@@ -1792,9 +1988,9 @@ Cualquier persona podrá solicitar por escrito a la Secretaría, el establecimie
 
 La Secretaría integrará el Registro de Áreas Naturales Protegidas del Distrito Federal, en el que se inscribirán los decretos mediante los cuales se declaren las áreas naturales protegidas y los instrumentos que los modifiquen, el cual podrá ser consultado por cualquier persona que así lo solicite y deberá ser integrado al sistema de información ambiental del Distrito Federal.
 
-### CAPÍTULO VI. RESTAURACIÓN DE ZONAS AFECTADAS
+### CAPÍTULO V. CONSERVACIÓN Y APROVECHAMIENTO SUSTENTABLE DEL SUELO
 
-### CAPÍTULO VII. PROTECCIÓN Y APROVECHAMIENTO DE LA FLORA Y FAUNA
+### CAPÍTULO VI. RESTAURACIÓN DE ZONAS AFECTADAS
 
 ###### ARTÍCULO 104.
 
@@ -1872,9 +2068,7 @@ La Secretaría realizará las acciones necesarias para evitar o, en su caso, con
 
 Queda estrictamente prohibido el relleno, secado o uso diferente al que tienen, los cuerpos de agua superficiales del Distrito Federal.
 
-### CAPÍTULO VIII. APROVECHAMIENTO DE LOS RECURSOS ENERGÉTICOS
-
-> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+### CAPÍTULO VII. PROTECCIÓN Y APROVECHAMIENTO DE LA FLORA Y FAUNA
 
 ###### ARTÍCULO 111.
 
@@ -1912,7 +2106,7 @@ VII. La formulación del programa de ordenamiento ecológico; y
 
 VIII. La evaluación del impacto ambiental de las obras o proyectos que en su caso se sometan a consideración de la Secretaría.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO VIII. APROVECHAMIENTO DE LOS RECURSOS ENERGÉTICOS
 
 > <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -1932,7 +2126,9 @@ En los suelos de conservación que presenten deterioros ecológicos, la Secretar
 
 En la formulación, ejecución y seguimiento de dichos programas, la Secretaría deberá de promover la participación de las delegaciones, propietarios, poseedores, organizaciones sociales, instituciones públicas o privadas y demás personas interesadas.
 
-### CAPÍTULO II. DE LAS ACCIONES CORRECTIVAS DE LA CONTAMINACIÓN AMBIENTAL
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 116.
 
@@ -1950,17 +2146,41 @@ IV. La modificación o revocación de concesiones, permisos y, en general, de to
 
 Dentro del territorio del Distrito Federal, la Secretaría coadyuvará con las autoridades federales para la prevención y erradicación del tráfico de especies de flora y fauna silvestre, de conformidad con la legislación aplicable.
 
-> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 118.
 
-La delegación o la Secretaría, de acuerdo a su competencia, podrán autorizar el derribo, poda o trasplante de árboles, ubicados en bienes de dominio público o en propiedades de particulares, cuando se requiera para la salvaguarda de la integridad de las personas o sus bienes.
+Para realizar la poda, derribo o trasplante de árboles se requiere de autorización previa de la Delegación respectiva.
 
-> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
+La delegación podrá autorizar el derribo, poda o trasplante de árboles, ubicados en bienes de dominio público o en propiedades de particulares, cuando se requiera para la salvaguarda de la integridad de las personas o sus bienes, solamente en los siguientes casos:
+
+I. Cuando exista riesgo real y presente para las personas o para sus bienes inmuebles;
+
+II. Cuando exista riesgo real y presente para el patrimonio urbanístico o arquitectónico del Distrito Federal;
+
+III. Cuando sean necesarias para el saneamiento del árbol; y
+
+IV. Cuando deban ejecutarse para evitar afectaciones significativas en la infraestructura del lugar donde se encuentren.
+
+La autorización a que se refiere el presente artículo deberá estar sustentada mediante un dictamen técnico emitido por la delegación correspondiente que avale la factibilidad del derribo, poda o trasplante de árboles.
+
+Asimismo, la poda será procedente cuando se requiera para mejorar o restaurar la estructura de los árboles.
+
+En todo caso, el derribo de árboles sólo será procedente cuando no exista otra alternativa viable.
+
+La Secretaría expedirá conforme a las disposiciones previstas en esta Ley, las normas ambientales en las que se establezcan los requisitos y especificaciones técnicas que deberán cumplir las personas físicas o morales, tanto públicas como privadas, que realicen la poda, derribo y trasplante de árboles en el Distrito Federal.
+
+Lo dispuesto en este capítulo, así como en el Reglamento de la presente Ley y en las normas ambientales conducentes, serán (sic) aplicable a las actividades relacionadas con la poda, derribo o trasplante de árboles, siempre que dichas actividades no se realicen en terrenos forestales o de aptitud preferentemente forestal.
+
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 119.
 
-Toda persona que derribe un árbol en la vía pública o en bienes de dominio público o en propiedades de particulares, deberá de restituirlo entregando a la autoridad correspondiente, los ejemplares que determine la norma ambiental que al efecto se expida, sin perjuicio de la aplicación de la sanción a que se refiere la presente Ley en caso de derribo sin autorización previa de la autoridad competente. Se equipara al derribo de árboles, cualquier acto que provoque su muerte, sin detrimento de otros ordenamientos aplicables.
+Las personas que realicen el derribo de árboles deberán llevar a cabo la restitución correspondiente mediante la compensación física o económica. En todo caso se deberá tener como primera alternativa la restitución física a efecto de conservar la cubierta vegetal necesaria para un equilibrio ecológico en el Distrito Federal, y sólo en los supuestos que ello no sea posible se considerará la compensación económica.
+
+Para efectos de que se cumpla lo anterior, en la autorización respectiva se citarán las medidas compensatorias procedentes. Así mismo, la Secretaría expedirá las normas ambientales en las que se establezcan los requisitos y especificaciones técnicas que deberán cumplir las personas para la compensación física correspondiente.
+
+Para los efectos de la presente Ley, se equipara al derribo de árboles cualquier acto que provoque su muerte.
 
 ###### ARTÍCULO 120.
 
@@ -1976,7 +2196,7 @@ Las acciones de inspección e imposición de medidas de seguridad, correctivas o
 
 La Secretaría establecerá en los programas respectivos las medidas necesarias para evitar los incendios forestales.
 
-### CAPÍTULO III. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA
+### CAPÍTULO II. DE LAS ACCIONES CORRECTIVAS DE LA CONTAMINACIÓN AMBIENTAL
 
 ###### ARTÍCULO 122.
 
@@ -1984,13 +2204,13 @@ La Secretaría celebrará acuerdos y convenios para el establecimiento de progra
 
 ## TÍTULO QUINTO. DE LA PREVENCIÓN, CONTROL Y ACCIONES CONTRA LA CONTAMINACIÓN AMBIENTAL
 
-### CAPÍTULO IV. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL AGUA
+### CAPÍTULO III. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA
 
 ###### ARTÍCULO 123.
 
 Todas las personas están obligadas a cumplir con los requisitos y límites de emisiones contaminantes a la atmósfera, agua, suelo, subsuelo, redes de drenaje y alcantarillado y cuerpos receptores del Distrito Federal establecidos por las normas aplicables o las condiciones particulares de descarga que emita la Secretaría, así como a utilizar los equipos, dispositivos y sistemas de reducción de emisiones que determine dicha dependencia. Quedan comprendidos la generación de residuos sólidos, de contaminantes visuales y de la emisión de contaminantes de ruido, vibraciones, energía térmica, lumínica y olores, de acuerdo con las disposiciones jurídicas aplicables.
 
-### CAPÍTULO V. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL SUELO
+### CAPÍTULO IV. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL AGUA
 
 ###### ARTÍCULO 124.
 
@@ -2026,7 +2246,7 @@ La Secretaría en coordinación con las autoridades federales y locales, estable
 
 La Secretaría podrá emitir lineamientos y criterios obligatorios para que la actividad de la administración pública del Distrito Federal en materia de obra pública y de adquisiciones de bienes muebles tome en consideración los aspectos de conservación ambiental, así como de ahorro de energía eléctrica y agua y de mínima generación de todo tipo de residuos sólidos y de aguas residuales.
 
-### CAPÍTULO VI. DE LAS CONTINGENCIAS AMBIENTALES
+### CAPÍTULO V. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL SUELO
 
 #### SECCIÓN I. DISPOSICIONES GENERALES
 
@@ -2254,7 +2474,7 @@ Quedan prohibidas las emisiones de ruido, vibraciones, energía térmica, lumín
 
 Los propietarios de fuentes que generen cualquiera de estos contaminantes, están obligados a instalar mecanismos para recuperación y disminución de vapores, olores, ruido, energía y gases o a retirar los elementos que generan contaminación visual.
 
-### CAPÍTULO I. DE LOS PRESTADORES DE SERVICIOS DE IMPACTO AMBIENTAL
+### CAPÍTULO VI. DE LAS CONTINGENCIAS AMBIENTALES
 
 ###### ARTÍCULO 152.
 
@@ -2344,7 +2564,7 @@ Cuando alguna descarga al sistema de drenaje, a pesar del cumplimiento de los l�
 
 La Secretaría establecerá y operará un sistema de monitoreo de las aguas residuales en el Distrito Federal.
 
-### CAPÍTULO II. DE LOS CENTROS DE VERIFICACIÓN
+### CAPÍTULO I. DE LOS PRESTADORES DE SERVICIOS DE IMPACTO AMBIENTAL
 
 ###### ARTÍCULO 163.
 
@@ -2568,9 +2788,7 @@ VI. La infraestructura para la dotación de servicios básicos.
 
 La Secretaría o las Delegaciones propondrán al Jefe de Gobierno el establecimiento de zonas intermedias de salvaguarda, con el objeto de prevenir y controlar el riesgo ambiental que puedan ocasionar las industrias, comercios y servicios que realicen actividades riesgosas en el territorio del Distrito Federal.
 
-### CAPÍTULO III. DE LOS LABORATORIOS AMBIENTALES
-
-> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+### CAPÍTULO II. DE LOS CENTROS DE VERIFICACIÓN
 
 ###### ARTÍCULO 182.
 
@@ -2592,13 +2810,13 @@ Los Programas de Contingencia Ambiental establecerán las condiciones bajo las c
 
 En situación de contingencia ambiental, los responsables de fuentes de contaminación estarán obligados a cumplir con las medidas de prevención y control establecidas en los programas de contingencia correspondientes.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO III. DE LOS LABORATORIOS AMBIENTALES
 
 > <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ## TÍTULO SEXTO. DE LOS PRESTADORES DE SERVICIOS AMBIENTALES
 
-### CAPÍTULO II. DE LA INSPECCIÓN Y VIGILANCIA
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 > <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -2620,7 +2838,7 @@ La Secretaría instrumentará programas de acreditación de prestadores de servi
 
 En ningún caso podrá prestar servicios ambientales directamente o a través de terceros, el servidor público que intervenga en cualquier forma en la aplicación de la presente Ley ni las personas con las que tenga interés personal, familiar o de negocios, incluyendo aquéllas de las que pueda resultar un beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, terceros con los que tenga relaciones profesionales, laborales o de negocios, socios o personas morales de las que el servidor público o las personas antes referidas formen o hayan formado parte. La infracción a esta disposición será sancionada en los términos de la Ley de Responsabilidades de los Servidores Públicos.
 
-### CAPÍTULO III. MEDIDAS DE SEGURIDAD
+### CAPÍTULO II. DE LA INSPECCIÓN Y VIGILANCIA
 
 > <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -2756,7 +2974,7 @@ VII. Prestar sus servicios de conformidad con los contratos autorizados por la S
 
 VIII. Dar una póliza de fianza a los centros de verificación, para garantizar el cumplimiento por sus servicios que incluya mano de obra y refacciones.
 
-### CAPÍTULO IV. SANCIONES ADMINISTRATIVAS
+### CAPÍTULO III. MEDIDAS DE SEGURIDAD
 
 > <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -2766,7 +2984,9 @@ La Secretaría establecerá los lineamientos y procedimientos para autorizar lab
 
 ## TÍTULO SÉPTIMO. MEDIDAS DE CONTROL, DE SEGURIDAD Y SANCIONES
 
-### CAPÍTULO V. RECURSO DE INCONFORMIDAD
+### CAPÍTULO IV. SANCIONES ADMINISTRATIVAS
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 201.
 
@@ -2782,7 +3002,7 @@ Serán de aplicación supletoria al presente Título, en el orden que se indica,
 
 La Secretaría organizará y coordinará el servicio de inspección y vigilancia ambiental del Distrito Federal, con el propósito de establecer los criterios y lineamientos que se habrán (sic) observarse por las distintas unidades administrativas del gobierno del Distrito Federal que realicen acciones para verificar el cumplimiento de las disposiciones jurídicas señaladas en el artículo 201 de esta Ley, así como para fortalecer la capacitación y profesionalización de los servidores públicos que participen en dichas tareas.
 
-### CAPÍTULO VI. DE LA RESPONSABILIDAD POR EL DAÑO AMBIENTAL
+### CAPÍTULO V. RECURSO DE INCONFORMIDAD
 
 ###### ARTÍCULO 202.
 
@@ -2912,7 +3132,7 @@ Si durante la tramitación de un procedimiento de inspección se allegaran al ex
 
 > <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
-ARTÍCULO 208 Bis (sic).- Durante el procedimiento y antes de que se dicte resolución, las autoridades administrativas y los presuntos infractores podrán convenir la realización de las acciones de restauración o compensación de daños necesarias para la corrección de las irregularidades detectadas por las propias autoridades ambientales , siempre que ello no afecte el cumplimiento de disposiciones jurídicas.
+ARTÍCULO 208 Bis (sic).- Durante el procedimiento y antes de que se dicte resolución, las autoridades administrativas y los presuntos infractores podrán convenir la realización de las acciones de restauración o compensación de daños necesarias para la corrección de las irregularidades detectadas por las propias autoridades ambientales, siempre que ello no afecte el cumplimiento de disposiciones jurídicas.
 
 En todo caso las autoridades ambientales competentes deberán cuidar que se garantice debidamente la ejecución de los convenios por parte de quienes asuman obligaciones de restauración o compensación.
 
@@ -2938,7 +3158,7 @@ El reglamento conciliará la aplicación de los mecanismos anotados y los proced
 
 Corresponde a la Secretaría y a las delegaciones realizar la vigilancia de las actividades en vía pública, áreas naturales protegidas y suelo de conservación para prevenir y sancionar la comisión de infracciones a la presente Ley. Los vigilantes ecoguardas asignados a esta función deberán estar debidamente acreditados por la Secretaría en los términos del reglamento de esta Ley y en sus actuaciones observarán, en lo aplicable, las disposiciones relativas a las visitas domiciliarias y actos de inspección señaladas en este Título.
 
-### CAPÍTULO VII. DE LOS DELITOS AMBIENTALES
+### CAPÍTULO VI. DE LA RESPONSABILIDAD POR EL DAÑO AMBIENTAL
 
 ###### ARTÍCULO 211.
 
@@ -2975,6 +3195,8 @@ Las personas responsables de los hechos que dan lugar a la imposición de las me
 ###### ARTÍCULO 212.
 
 Cuando la autoridad ordene alguna de las medidas de seguridad previstas en el artículo 211 de esta Ley, indicará al interesado, cuando procedan, las acciones que debe llevar a cabo para subsanar o corregir los hechos que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se dejen sin efectos o se ordene el retiro de las medidas de seguridad impuestas.
+
+### CAPÍTULO VII. DE LOS DELITOS AMBIENTALES
 
 ###### ARTÍCULO 213.
 
@@ -3025,6 +3247,14 @@ Se considere reincidente al infractor que incurra más de una vez en conductas q
 ###### ARTÍCULO 216.
 
 En el caso en que el infractor realice las medidas correctivas o de urgente aplicación, o subsane las irregularidades en que hubiere incurrido, previamente a la imposición de una sanción y siempre que lo haga del conocimiento de la autoridad competente, ésta considerará tal situación como atenuante al momento de dictar la resolución respectiva.
+
+> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
+
+Artículo 216 bis. La autoridad ambiental competente, a solicitud del infractor, podrá otorgar a éste la opción de conmutar hasta la mitad del monto de la multa por la realización de inversiones equivalentes a dicha reducción, en adquisición o instalación de equipos para evitar la contaminación ambiental o en la protección, preservación o restauración del ambiente y los recursos naturales, siempre y cuando se garanticen las obligaciones del infractor y la autoridad justifique plenamente su decisión.
+
+El plazo para la interposición de la solicitud de conmutación será de quince días, contados a partir de la notificación de la resolución administrativa correspondiente. La solicitud deberá indicar las acciones propuestas y el plazo para ejecutarlas.
+
+La autoridad podrá negar la conmutación cuando ésta no represente un beneficio para el ambiente, proporcional al de la multa conmutada.
 
 > <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -3139,5 +3369,9 @@ G.O. 29 DE ENERO DE 2004.
 PRIMERO.- En tanto se expidan las disposiciones administrativas que deriven de las presentes adiciones y modificaciones seguirán en vigor aquellas que no las contravengan.
 
 G.O. 10 DE FEBRERO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 4 DE JUNIO DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
