@@ -4,7 +4,7 @@ identifier: "COA-codigo-de-procedimientos-penales-de-coahuila-15147"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-25"
-last_updated: "2002-06-14"
+last_updated: "2004-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO DE PROCEDIMIENTOS PENALES DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el martes 25 de mayo de 1999.
 
@@ -284,6 +284,10 @@ DELITOS QUE SE EXCLUYEN DEL BENEFICIO PROCESAL DE PENALIDAD ALTERNATIVA. Se excl
 > <small>(REFORMADA, P.O. 14 DE JUNIO DE 2002)</small>
 
 I. CIERTOS DELITOS DOLOSOS CON PENA DE PRISIÓN INFERIOR A SEIS AÑOS. Los delitos tipificados en los artículos 187; 190; 197; 208 fracción I; 215; 216; 217; 224; 233 fracción VI; 235; 244 si es doloso; 273; 295; 297; 304; 306 fracción IV; 310; 311; 339; 345 salvo que las lesiones dolosas sean leves o levísimas; 348 salvo que las lesiones dolosas sean leves o levísimas; 385; 412; 416; 417; 419; 421; 422; 424 fracción I; 428; 430; 431; 438 y 442, todos del Código Penal.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2004)</small>
+
+También se excluirá del beneficio procesal de penalidad alternativa el delito que prevé el artículo 438 bis del Código Penal.
 
 II. DELITOS CULPOSOS DE HOMICIDIO E INCENDIO. Los delitos culposos de homicidio y el de incendio del artículo 292 del código penal.
 
@@ -1597,7 +1601,15 @@ CASOS EN LOS QUE NO PROCEDE LA RETENCIÓN. No se retendrá al indiciado por deli
 
 LIBERTAD CAUCIONAL DEL RETENIDO. El indiciado que se encuentre retenido por el Ministerio Público podrá obtener su libertad caucional, en los casos que ella proceda ante el juez. Para fijar la caución y su monto, el Ministerio Público atenderá a las mismas condiciones que este código fija para la caución judicial. Tratándose de cauciones en efectivo, éstas se depositarán en cuenta bancaria del fondo para mejorar la procuración de justicia.
 
-Será improcedente tal beneficio ante el Ministerio Público cuando se trate de delito culposo que se cometa con motivo del tránsito de vehículos que el indiciado cometa por ebriedad; o por el influjo de estupefaciente, psicotrópico u otra sustancia que produzca efectos similares.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2004)</small>
+
+Será improcedente tal beneficio ante el Ministerio Público en los supuestos siguientes:
+
+a) Cuando se trate de delito culposo que se cometa con motivo del tránsito de vehículos que el indiciado cometa por ebriedad; o por el influjo de estupefacientes, psicotrópico u otra substancia que produzca efectos similares.
+
+b) Cuando se trate de delito Robo agravado o especialmente agravado por las modalidades previstas por la fracción VIII del Artículo 414 y la fracción X del Artículo 415 Código Penal.
+
+c) Cuando se trate de delito de Grafito previsto por el Artículo 438 Bis del Código Penal siempre y cuando se trate de reincidencia.
 
 ###### ARTÍCULO 217.
 
@@ -5578,3 +5590,9 @@ VI. La Procuraduría General de Justicia evaluará la funcionalidad del Fondo, a
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE JUNIO DE 2004.
+
+PRIMERO. Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este decreto.
