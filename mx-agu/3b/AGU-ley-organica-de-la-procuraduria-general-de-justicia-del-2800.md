@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-procuraduria-general-de-justicia-del-2800"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-12-29"
-last_updated: "1993-11-07"
+last_updated: "1995-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2800&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 1995.
 
 Ley publicada en el Suplemento al No. 52 del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de diciembre de 1991.
 
@@ -201,11 +201,11 @@ II.- Los Servicios Periciales de la Procuraduría General de Justicia.
 
 Asimismo, son auxiliares del Ministerio Público las policías preventivas de los Municipios del Estado, debiendo obedecer y ejecutar las órdenes que reciban del Ministerio Público en ejercicio de sus funciones.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 13.
 
-El Procurador General de Justicia, los Subprocuradores, los Directores a que se refiere el Artículo 9o. de la presente Ley y los Agentes de la Policía Judicial, serán nombrados y removidos libremente por el Gobernador Constitucional del Estado.
+El Procurador General de Justicia del Estado, los Subprocuradores, los Directores Generales a que se refiere el Artículo 9o. de la presente Ley y los agentes de la Policía Judicial, serán nombrados y removidos libremente por el Gobernador Constitucional del Estado; el nombramiento de Procurador deberá ser ratificado por el Congreso, previa comparecencia del nominado, ante el propio Congreso en la forma que éste determine.
 
 > <small>(F. DE E., P.O. 16 DE FEBRERO DE 1992)</small>
 
@@ -232,6 +232,10 @@ IV.- Tener cuando menos dos años de ejercicio profesional;
 V.- Tener una residencia efectiva en el Estado de dos años cuando menos; y
 
 VI.- Aprobar el examen de oposición que al efecto se practique.
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 1995)</small>
+
+VII.- Anualmente los Agentes del Ministerio Público serán sometidos a un examen de capacidad; en caso de no aprobarlo serán removidos del cargo.
 
 El Gobernador podrá designar Agentes del Ministerio Público especiales para que intervengan con la misma representación social en asuntos en los que a juicio de aquél sea útil esta intervención. La designación recaerá en juristas que cuenten con el mayor prestigio moral y profesional.
 
@@ -376,3 +380,49 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 7 DE NOVIEMBRE DE 1993.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE ABRIL DE 1995.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, misma que deberá ser posterior a la publicación del Decreto de reformas a la Constitución Política Local, en Materia Judicial, expedido el 8 de marzo de 1995, por el H. Congreso del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Todos los Agentes del Ministerio Público del Estado, a excepción del Procurador General de Justicia, serán sometidos a un examen de conocimientos generales en el ramo, mismo que será aplicado por éste, quien podrá auxiliarse de la Comisión para la Reforma del Poder Judicial del Estado en caso de así requerirlo. Quienes no se presenten al examen aquí referido, o en su caso quienes no lo aprueben, serán tratados de conformidad con la ley respectiva.
+
+###### ARTICULO TERCERO.
+
+Los Defensores de Oficio dependientes del (sic) Procuraduría de Protección Ciudadana del Estado, que se encuentren laborando como tales, en la actualidad, serán sometidos a un examen de conocimientos generales en el ramo, mismo que será aplicado por el Procurador de Protección Ciudadana, quien podrá auxiliarse de la Comisión para la Reforma del Poder Judicial del Estado en caso de así requerirlo. Quienes no se presenten a dicho examen o en su caso no lo aprueben, serán tratados de conformidad con la ley respectiva.
+
+###### ARTICULO CUARTO.
+
+La Contraloría General del Estado conocerá del recurso de revisión consignado en el Artículo 42 de la Ley Orgánica del Poder Ejecutivo del Estado, de manera temporal, hasta en tanto se constituya el Tribunal de lo Contencioso Administrativo del Estado, que asumirá esta responsabilidad.
+
+###### ARTICULO QUINTO.
+
+Los asuntos que actualmente se están ventilando ante los Tribunales del Estado conforme al Código de Procedimientos Civiles vigente antes de esta reforma aunque sea aplicado de manera supletoria, se seguirán ventilando conforme al mismo, pero si las partes de común acuerdo así lo manifiestan a la autoridad competente, podrán acogerse a las reformas del presente Decreto.
+
+###### ARTICULO SEXTO.
+
+Los asuntos que actualmente se estén ventilando ante los Tribunales del Estado conforme al Código de Procedimientos Penales vigente antes de esta reforma aunque sea aplicado de manera supletoria, se seguirán ventilando conforme al mismo, pero si las partes de común acuerdo así lo manifiestan a la autoridad competente, podrán acogerse a las reformas del presente Decreto.
+
+###### ARTICULO SEPTIMO.
+
+Los Partidos Judiciales del Estado previstos en el Artículo 35 de la Ley Orgánica del Poder Judicial del Estado, entrarán en funciones cuando el presupuesto del propio Poder lo permita y las necesidades lo requieran.
+
+###### ARTICULO OCTAVO.
+
+Para los efectos del Artículo 94 de la Ley Orgánica del Poder Judicial del Estado, por única vez todos los jueces nombrados de acuerdo al procedimiento que establece la Constitución, podrán ser designados como miembros del Consejo de la Judicatura, sin necesidad de contar con tres años en el ejercicio de su encargo.
+
+###### ARTICULO NOVENO.
+
+Una vez instalada la Contraloría Interna, contará con un término de 30 días para elaborar su Reglamento.
+
+###### ARTICULO DECIMO.
+
+Los trabajadores al servicio de los Gobiernos del Estado, los Municipios, y Organismos Descentralizados, que actualmente laboran la jornada establecida en el Estatuto Jurídico anterior a la presente reforma, podrán optar entre seguir laborando en dicha jornada que tienen, o bien, adherirse a la jornada que se establece en el Artículo 36 de este Ordenamiento.
+
+###### ARTICULO DECIMO PRIMERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
