@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1961-07-09"
+last_updated: "1970-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1961.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 1970.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -102,6 +102,10 @@ Artículo Unico.- La presente reforma surte sus efectos a partir de la fecha de 
 P.O. 9 DE JULIO DE 1961.
 
 UNICO.- El presente decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE OCTUBRE DE 1970.
+
+UNICO.- El presente Decreto surtirá sus efectos tres días después de su publicación en el Periódico Oficial del Estado.
 
 ###### Artículo 4°.
 
@@ -277,11 +281,15 @@ III. Los mismos, por el sólo hecho de adquirir bienes raíces en el Estado y ma
 
 IV. Los extranjeros naturalizados según las leyes generales, que se hallaren en uno de los dos casos que preceden.
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 1939)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1970)</small>
 
 ###### Artículo 28.
 
-Son ciudadanos durangueños, los hombres y las mujeres mencionados en el artículo anterior, siempre que tengan 18 años cumplidos siendo casados y 21 si no lo son y, además, que tengan modo honesto de vivir.
+Son Ciudadanos Durangueños, los hombres y mujeres mencionados en el Artículo anterior, que reunan además, los siguientes requisitos:
+
+I.- Haber cumplido 18 años, y
+
+II.- Tener un modo honesto de vivir.
 
 ###### Artículo 29.
 
