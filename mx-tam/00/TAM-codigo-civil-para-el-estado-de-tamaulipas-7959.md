@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "1997-05-31"
+last_updated: "1998-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 1998.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -583,9 +583,9 @@ ART. 150.- El marido y la mujer, mayores de edad, tienen capacidad para administ
 
 ART. 151.- El marido y la mujer, menores de edad, tendrán la administración de sus bienes, en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos o gravarlos y un tutor para sus negocios judiciales.
 
-ART. 152.- Los cónyuges requieren autorización judicial para contratar entre ellos excepto cuando el contrato sea el de mandato para pleitos y cobranzas o para actos de administración.
+ART. 152.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 1998)
 
-ART. 153.- Se requiere autorización judicial para que el cónyuge sea fiador de su consorte o se obligue solidariamente con éste en asuntos que sean de interés exclusivo del mismo, salvo cuando se trate de otorgar caución para que obtenga su libertad. La autorización en los casos a que se refieren éste y los dos artículos anteriores, no se concederá cuando resulten perjudicados los intereses de la familia o de uno de los cónyuges.
+ART. 153.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 1998)
 
 ART. 154.- Los contratos traslativos de dominio sólo pueden celebrarse entre los cónyuges cuando recaigan sobre bienes propios.
 
@@ -5585,7 +5585,9 @@ ART. 1581.- Si el promitente rehúsa firmar los documentos necesarios para dar f
 
 ART. 1653.- El contrato de compraventa no requiere para su validez formalidad alguna especial.
 
-Deben constar en escritura pública los contratos por los cuales se transfiera o modifique el dominio de bienes inmuebles o se constituya un derecho real sobre ellos, excepto cuando el valor del bien no rebase el importe de cien días del salario mínimo general vigente que rija en la Capital del Estado.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+Deben constar en escritura pública los contratos por los cuales se transfiera o modifique el dominio de bienes inmuebles o se constituya un derecho real sobre ellos.
 
 Las enajenaciones de vivienda o lotes de interés social que realicen el Estado o Municipios no requerirán de escritura pública, sino únicamente de certificación notarial de las firmas que en ella se contengan. Los contratos que al efecto se otorguen, serán los instrumentos que acrediten la titularidad de derechos de compraventa y sus formas serán las que autorice cada una de las respectivas autoridades.
 
@@ -8667,9 +8669,15 @@ ART. 2587.- El ordinario puede ser:
 
 I.- Público abierto;
 
-II.- Público cerrado; y
+II.- Público cerrado;
 
-III.- Ológrafo.
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+III.- Público Simplificado; y
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1988)</small>
+
+IV.- Ológrafo.
 
 ART. 2588.- El especial puede ser:
 
@@ -8695,7 +8703,9 @@ V.- Los herederos o legatarios, sus descendientes, ascendientes, cónyuge, o per
 
 VI.- Los que hayan sido condenados por el delito de falsedad.
 
-ART. 2590.- Cuando el testador ignore el idioma del país, concurrirán al acto y firmarán el testamento, además de los testigos y el notario, dos traductores nombrados por el mismo testador.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+ART. 2590.- Cuando el Testador ignore el idioma del país, un intérprete nombrado por el mismo testador concurrirá al acto y firmará el testamento.
 
 ART. 2591.- Tanto el notario como los testigos que intervengan en cualquier testamento deberán conocer al testador o cerciorarse de algún modo de su identidad, de que se halle en su cabal juicio y libre de cualquier coacción.
 
@@ -8715,15 +8725,25 @@ ART. 2597.- Si los interesados están ausentes o son desconocidos, la noticia se
 
 ### CAPITULO II. DEL TESTAMENTO PUBLICO ABIERTO
 
-ART. 2598.- Testamento público abierto, es el que se otorga ante notario y tres testigos idóneos.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-ART. 2599.- El testador expresará de un modo claro y terminante su voluntad al notario y a los testigos. El notario redactará por escrito las cláusulas del testamento, sujetándose estrictamente a la voluntad del testador, y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán todos el instrumento, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
+ART. 2598.- Testamento público abierto, es el que se otorga ante notario, de conformidad con las disposiciones de éste capítulo.
 
-ART. 2600.- Si alguno de los testigos no supiere escribir firmará otro de ellos por él; pero aquél estampará su huella digital y cuando menos, deberá constar la firma entera de dos testigos.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-ART. 2601.- Si el testador no pudiere o no supiere escribir intervendrá otro testigo más, que firme a su ruego, pero el testador deberá estampar su huella digital.
+ART. 2599.- El testador expresará de modo claro y terminante su voluntad al notario. El notario redactará por escrito las cláusulas del testamento, sujetándose estrictamente a la voluntad del testador y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán las escrituras el testador, el notario y, en su caso, los testigos y el intérprete, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
 
-ART. 2602.- En el caso de extrema urgencia y no pudiendo ser llamado otro testigo, firmará por el testador uno de los instrumentales, haciéndose constar esta circunstancia.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+ART. 2600.- En los casos previstos en los artículos 2601, 2603 y 2604 de éste Código, así como cuando el testador o el notario lo soliciten, dos testigos deberán concurrir al acto de otorgamiento y firmar el testamento.
+
+Los testigos instrumentales a que se refiere este artículo podrán intervenir, además, como testigos de conocimiento.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+ART. 2601.- Cuando el testador declare que no sabe o no puede firmar el testamento, uno de los testigos firmará a ruego del testador y éste imprimirá su huella digital, haciendo el notario constar el hecho en el instrumento.
+
+ART. 2602.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 1998)
 
 ART. 2603.- El que fuere enteramente sordo, pero que sepa leer, deberá dar lectura a su testamento; si no supiere o no pudiere hacerlo, designará una persona que lo lea a su nombre, lo cual se hará constar.
 
@@ -8737,9 +8757,33 @@ Si el testador no puede o no sabe escribir, uno de los intérpretes escribirá e
 
 Si el testador no puede o no sabe leer, dictará en su idioma el testamento a uno de los intérpretes. Traducido por los dos intérpretes, se procederá como dispone el párrafo primero de este artículo.
 
-ART. 2606.- Las formalidades se practicarán acto continuo y el notario dará fe de haberse llenado todas.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+ART. 2606.- Las formalidades expresadas en este capítulo se perfeccionarán con la lectura del testamento y su firma en un solo acto, dando fe el notario de haberse cumplido con todas.
 
 ART. 2607.- Faltando alguna de las referidas solemnidades, quedará el testamento sin efecto, y el notario será responsable de los daños y perjuicios e incurrirá, además, en la pena de pérdida de oficio.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+### CAPITULO II BIS. TESTAMENTO PUBLICO SIMPLIFICADO
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+ART. 2607 BIS.- Testamento Público Simplificado, es aquél que se otorga ante notario respecto de un inmueble destinado o que vaya a destinarse a vivienda familiar por el adquirente, en la misma escritura que consigne su adquisición o en la que se consigne la regularización de un inmueble que lleven a cabo las autoridades del Estado, de los Ayuntamientos, o cualquier Dependencia o Entidad de la Administración Pública Federal, o Estatal o Municipal, o en acto posterior, de conformidad con lo siguiente:
+
+I.- Que el precio del inmueble o su valor de avalúo pericial catastral no exceda del equivalente a 15 veces el salario mínimo general elevado al año, vigente en la capital del Estado, al momento de la adquisición. En los casos de regularización de inmuebles que lleva a cabo las Dependencias y Entidades a que se refiere el párrafo anterior, no importará su monto;
+
+II.- Los notarios, redactarán en la Escritura las cláusulas necesarias para el otorgamiento del Testamento, las que se incluirán en un capítulo que se denominará "Cláusulas Testamentarias";
+
+III.- El testador instituirá uno o más legatarios con derecho de acrecer, salvo designación de substitutos. Para el caso de que cuando se llevare a cabo la protocolización notarial de la adquisición a favor de los legatarios, éstos fueren incapaces y no estuvieren sujetos a patria potestad o tutela, el testador también podrá designarles un representante especial que firme el instrumento notarial correspondiente por cuenta de la (sic) incapaces;
+
+IV.- Si hubiere pluralidad de adquirentes del inmueble, cada copropietario podrá instituir uno o más legatarios respecto de su porción. Cuando el testador estuviere bajo el régimen de sociedad conyugal, su cónyuge podrá instituir uno más legatarios en el mismo instrumento, por la porción que le corresponda. En los supuestos a que se refiere éste artículo no se aplicará lo dispuesto por el artículo 2411 de éste Código;
+
+V.- Los legatarios recibirán el legado con la obligación de dar alimentos a los acreedores alimentarios, si los hubiere, en la proporción que el valor del legado represente en la totalidad del acervo hereditario de los bienes del autor de la sucesión;
+
+VI.- Los legatarios podrán solicitar directamente la entrega del inmueble y no les serán aplicables las disposiciones de los artículos 2767 y 2812 de éste Código; y,
+
+VII.- Fallecido el autor de la sucesión, la titulación notarial de la adquisición por los legatarios se hará en los términos del artículo 769 Bis del Código de Procedimientos Civiles para el Estado de Tamaulipas.
 
 ### CAPITULO III. DEL TESTAMENTO PUBLICO CERRADO
 
@@ -8895,13 +8939,13 @@ ART. 2660.- Lo dispuesto en el artículo anterior, se observará también en el 
 
 ART. 2661.- Los tamaulipecos, que se encuentren en los supuestos previstos por el Código Civil para el Distrito Federal, para otorgar el testamento militar y para el marítimo, pueden testar en esa forma y su testamento producirá efectos en el Estado de Tamaulipas, si se otorgó en sujeción a las normas establecidas por aquel Ordenamiento para esas clases de testamentos.
 
+## TITULO TERCERO. DE LA FORMA DE LOS TESTAMENTOS
+
 ### CAPITULO VII. DEL TESTAMENTO HECHO FUERA DEL ESTADO
 
 > <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
 
 ART. 2662.- Los testamentos hechos fuera del territorio del Estado de Tamaulipas, pero dentro de la República y los hechos en el extranjero se regirán en cuanto a su forma y efectos por lo dispuesto respectivamente, en los artículos 12 y 13 de este Código.
-
-## TITULO TERCERO. DE LA FORMA DE LOS TESTAMENTOS
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -9005,6 +9049,8 @@ ART. 2696.- A falta de todos los herederos mencionados en los capítulos anterio
 
 ART. 2697.- Cuando sea heredera la Beneficencia Pública y entre lo que le corresponda existan bienes raíces que no pueda adquirir conforme al artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, se venderán los bienes en pública subasta antes de hacerse la adjudicación, aplicándose a la Beneficencia Pública el precio que se obtuviere.
 
+## TITULO CUARTO. DE LA SUCESION LEGITIMA
+
 ### CAPITULO I. DE LAS PRECAUCIONES QUE DEBEN ADOPTARSE CUANDO LA SUPERSTITE QUEDE ENCINTA
 
 ART. 2698.- Cuando a la muerte del autor de la herencia la viuda de éste quede o cree quedar encinta, debe ponerlo dentro de cuarenta días en conocimiento del juez, para que lo notifique a los herederos cuyo derecho deba desaparecer o disminuir por el nacimiento del póstumo.
@@ -9034,8 +9080,6 @@ IV.- Si la supérstite no cumple con lo dispuesto por los artículos 2698 y 2700
 ART. 2704.- Para cualquiera de las diligencias que se practiquen conforme a lo dispuesto en este capítulo, deberá ser oída la supérstite.
 
 ART. 2705.- La división de la herencia se suspenderá hasta que se verifique el parto o hasta que transcurra el término máximo de la preñez, mas los acreedores podrán ser pagados por mandato judicial.
-
-## TITULO CUARTO. DE LA SUCESION LEGITIMA
 
 ### CAPITULO II. DE LA APERTURA DE LA SUCESION
 
@@ -9397,6 +9441,8 @@ ART. 2827.- Por los créditos incobrables no hay responsabilidad.
 
 ART. 2828.- El heredero cuyos bienes hereditarios fueren embargados, o contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho de pedir que sus coherederos garanticen la responsabilidad que pueda resultarles y, en caso contrario, que se les prohiba enajenar los bienes que recibieron.
 
+## TITULO QUINTO. DISPOSICIONES COMUNES A LAS SUCESIONES TESTAMENTARIA Y LEGITIMA
+
 ### CAPITULO VIII. DE LA RESCISION Y NULIDAD DE LAS PARTICIONES
 
 ART. 2829.- Las particiones pueden rescindirse o anularse por las mismas causas que los contratos.
@@ -9406,8 +9452,6 @@ ART. 2830.- El heredero preterido tiene derecho de pedir la nulidad de la partic
 ART. 2831.- La partición hecha con un heredero falso es nula en cuanto tenga relación con él, y la parte que se le aplicó se distribuirá entre los herederos.
 
 ART. 2832.- Si hecha la partición aparecieren algunos bienes omitidos en ella, se hará una división suplementaria, en la cual se observarán las disposiciones contenidas en este Título.
-
-## TITULO QUINTO. DISPOSICIONES COMUNES A LAS SUCESIONES TESTAMENTARIA Y LEGITIMA
 
 ## TRANSITORIOS
 
@@ -9566,6 +9610,12 @@ P.O. 23 DE DICIEMBRE DE 1987.
 El presente Decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
 
 P.O. 31 DE MAYO DE 1997.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE SEPTIEMBRE DE 1998.
 
 ###### ARTICULO UNICO.
 
