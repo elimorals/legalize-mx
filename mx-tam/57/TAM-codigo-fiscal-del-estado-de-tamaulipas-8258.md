@@ -4,7 +4,7 @@ identifier: "TAM-codigo-fiscal-del-estado-de-tamaulipas-8258"
 country: "mx"
 rank: "codigo"
 publication_date: "1976-12-29"
-last_updated: "1976-12-29"
+last_updated: "1978-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # CODIGO FISCAL DEL ESTADO DE TAMAULIPAS
 
-CODIGO FISCAL DEL ESTADO
+CÓDIGO FISCAL DEL ESTADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 1978.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de Diciembre de 1976.
 
@@ -99,9 +99,11 @@ El cumplimiento de las Leyes Fiscales, no podrá eludirse por la simulación de 
 
 Las Leyes y demás disposiciones fiscales de carácter general, entrarán en vigor en todo el Estado al día siguiente al de su publicación en el "Periódico Oficial" del Estado, salvo que en ellas se establezca una vigencia distinta. En los plazos sobre vigencia de Leyes y demás disposiciones a que éste artículo refiere, se computarán los días inhábiles.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1978)</small>
+
 ###### ARTICULO 10o.
 
-Las Leyes y demás disposiciones generales que contengan disposiciones de orden hacendario, previamente a su publicación, deberán someterse a la consideración del Tesorero General. Asimismo deberá someterse a su consideración los contratos, concesiones, acuerdos y cualesquiera otros actos en los que se afecte un ingreso del Estado.
+Los acuerdos y decisiones administrativas de orden general que contengan disposiciones generales que contengan disposiciones de carácter hacendario, al igual que los contratos, concesiones, acuerdos y cualesquiera otros actos en los que se afecte un ingreso del Estado, deberán ser suscritos por el Tesorero General, sin perjuicio de las demás Autoridades que deban también hacerlo en razón a su competencia.
 
 ### CAPITULO II. DE LAS FUENTES DE LOS INGRESOS
 
@@ -2284,3 +2286,11 @@ Cd. Victoria, Tamp., a 23 de Diciembre de 1976.- Diputado Presidente, JORGE BLAD
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, a los veinticuatro días del mes de diciembre de mil novecientos setenta y seis.- ENRIQUE CARDENAS GONZALEZ.- Secretario General de Gobierno, Lic. Homero Pérez Alvarez.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE DICIEMBRE DE 1978.
+
+###### ARTICULO UNICO
+
+- El Presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
