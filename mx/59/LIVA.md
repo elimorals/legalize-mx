@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "1982-09-30"
+last_updated: "1982-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE SEPTIEMBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1982.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1978.
 
@@ -54,7 +54,9 @@ III.- Otorguen el uso o goce temporal de bienes.
 
 IV.- Importen bienes o servicios.
 
-El impuesto se calculará aplicando a los valores que señala esta Ley, la tasa del 10%. El impuesto al valor agregado en ningún caso se considerará que forma parte de dichos valores.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+El impuesto se calculará aplicando a los valores que señala esta Ley, la tasa del 15%. El impuesto al valor agregado en ningún caso se considerará que forma parte de dichos valores.
 
 El contribuyente trasladará dicho impuesto, en forma expresa y por separado, a las personas que adquieran los bienes, los usen o gocen temporalmente, o reciban los servicios. Se entenderá por traslado del impuesto el cobro o cargo que el contribuyente debe hacer a dichas personas de un monto equivalente al impuesto establecido en esta Ley.
 
@@ -70,9 +72,35 @@ El impuesto se calculará aplicando la tasa del 6% a los valores que señala est
 
 Tratándose de importación, se aplicará la tasa del 6% siempre que los bienes o servicios sean enajenados o utilizados en las mencionadas franjas o zonas.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-En el caso de enajenación o de uso o goce temporal de inmuebles o cuando la prestación de servicios se realice parcialmente en dichas franjas o zonas, o se trate de servicios de transporte aéreo, telefónicos o de energías eléctrica, independientemente de que se realicen parcial o totalmente en las mismas, el impuesto se calculará, en su caso, aplicando al valor que señala esta Ley la tasa del 10%.
+Tratándose de la realización de los actos o actividades que a continuación se señalan, en dichas franjas fronterizas o zonas libres, el impuesto al valor agregado se calculará aplicando al valor que señala esta Ley las tasas del 15% o del 20%, según sea el caso.
+
+I.- La enajenación e importación de los siguientes bienes:
+
+a).- Aquéllos cuya enajenación se grave con el impuesto especial sobre producción y servicios.
+
+b).- Combustibles líquidos o gaseosos, aceites, grasas y lubricantes, derivados del petróleo, así como los productos de la petroquímica básica.
+
+c).- Vehículos sujetos a matrícula o registro mexicanos.
+
+d).- Inmuebles.
+
+II.- La prestación parcial en las franjas o zonas de los servicios independientes, así como de los siguientes:
+
+a).- El transporte aéreo.
+
+b).- Servicios telefónicos, de energía eléctrica y los de señal de televisión por cable o por cualquier otro medio distinto al de radiodifusión general.
+
+c).- Los prestados por instituciones de crédito, y de seguros, así como a los usuarios de tarjetas de crédito por la cantidad que ellos paguen por la apertura de crédito y por la prórroga para su ejercicio.
+
+d).- Los de panteones.
+
+e).- Los de estacionamientos de vehículos.
+
+f).- Los personales independientes y los prestados por los agentes aduanales y de bienes inmuebles.
+
+III.- El uso o goce temporal de inmuebles.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -84,11 +112,23 @@ I.- La enajenación de:
 
 a).- Animales y vegetales que no estén industrializados.
 
-b).- Los productos destinados a la alimentación, a excepción de los siguientes:
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-1.- Bebidas distintas de la leche.
+b).- Los siguientes bienes:
 
-2.- Concentrados, polvos, jarabes, esencias o extractos de sabores, a que se refieren los incisos B y C de la fracción I del artículo 2o. de la Ley del Impuesto Especial sobre Producción y Servicios.
+1.- Carne en estado natural;
+
+2.- Leche y sus derivados y huevo, cualquiera que sea su presentación;
+
+3.- Harina de maíz y de trigo y nixtamal;
+
+4.- Pan y tortillas de maíz y de trigo;
+
+5.- Aceite vegetal comestible, manteca vegetal y animal;
+
+6.- Pastas alimenticias para sopa, excluyendo las enlatadas;
+
+7.- Café, sal común, azúcar, mascabado y piloncillo.
 
 c).- Agua no gaseosa ni compuesta y hielo.
 
@@ -100,7 +140,9 @@ A la enajenación de la maquinaria y del equipo a que se refiere este inciso, se
 
 f).- Fertilizantes, plaguicidas, herbicidas y fungicidas, siempre que estén destinados para ser utilizados en la agricultura o ganadería.
 
-La enajenación de los alimentos a que se refiere esta fracción, para su consumo en el mismo lugar o establecimiento en que se enajenen, se considerará prestación de servicios sujeta al pago del impuesto establecido en esta Ley.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+El consumo de los alimentos a que se refiere este artículo en el mismo lugar o establecimiento en que se enajenen, se considerará prestación de servicios sujeta al pago del impuesto establecido en esta Ley.
 
 II.- La prestación de los siguientes servicios independientes:
 
@@ -116,21 +158,81 @@ IV.- La exportación de bienes o servicios, en los términos del artículo 29 de
 
 Los actos o actividades a los que se les aplica la tasa del 0%, producirán los mismos efectos legales que aquellos por los que se deba pagar el impuesto conforme a esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+###### ARTICULO 2o.-B.
+
+El Impuesto se calculará aplicando a los valores que señala esta Ley, la tasa del 6%, cuando se realice la enajenación e importación de:
+
+I.- Los productos destinados a la alimentación a excepción de:
+
+a).- Bebidas distintas de la leche.
+
+b).- Concentrados, polvos, jarabes, esencias o extractos de sabores a que se refieren los incisos B y C de la fracción I del artículo 2o. de la Ley del Impuesto Especial sobre Producción y Servicios.
+
+c).- Los que le sea aplicable las tasas del 0% y del 20%
+
+II.- Medicinas de patente.
+
+El consumo de los alimentos a que se refiere este artículo en el mismo lugar o establecimiento en que se enajenen, se considerará prestación de servicios sujeto al pago del impuesto establecido en esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+###### ARTICULO 2o.-C.
+
+El impuesto se calculará aplicando a los valores que señala esta Ley, la tasa del 20% cuando se realicen los actos o actividades siguientes:
+
+I.- La enajenación e importación de los siguientes bienes:
+
+a).- Caviar, salmón ahumado, angulas y champaña.
+
+b).- Televisores para imagen a color con pantalla de más de 75 centímetros.
+
+c).- Motocicletas de más de 350 centímetros cúbicos de cilindrada, esquí acuático motorizado, motocicletas acuáticas y tablas de oleaje con motor.
+
+d).- Armas de fuego y sus accesorios.
+
+e).- Rines de magnesio y techos movibles; para vehículos.
+
+f).- Aeronaves, excepto aviones fumigadores.
+
+II.- La prestación de los siguientes servicios independientes:
+
+a).- Los prestados a usuarios de tarjetas de crédito sobre la cantidad que ellos paguen por la apertura del crédito y por la prórroga para su ejercicio.
+
+b).- Los de señal de televisión por cable o por cualquier otro medio distinto al de radio difusión general.
+
+c).- Los de instalación de techos movibles para vehículos.
+
+d).- Los que permiten la práctica del golf, la equitación, el polo, el automovilismo deportivo o las actividades deportivas náuticas, incluyendo las cuotas de membresía y las demás contraprestaciones que se tengan que erogar para la práctica de esas actividades y el mantenimiento de los animales y equipo necesarios.
+
+e).- La cuota de membresía para restaurantes, centros nocturnos o bares, de acceso restringido.
+
+III.- El uso o goce temporal de los siguientes bienes:
+
+a).- Aeronaves, excepto aviones fumigadores.
+
+b).- Motocicletas de más de 350 centímetros cúbicos de cilindrada, esquí acuático motorizado, motocicletas acuáticas y tablas de oleaje con motor.
+
+c).- Equipos cinematográficos o de videograbación, así como las cintas, películas o discos para dichos equipos.
+
 ###### ARTICULO 3o.
 
 La Federación, el Distrito Federal, los Estados, los Municipios, los organismos descentralizados, las instituciones y asociaciones de beneficencia privada, las sociedades cooperativas o cualquiera otra persona, aunque conforme a otras leyes o decretos no causen impuestos federales o estén exentos de ellos, deberán aceptar la traslación a que se refiere el artículo primero y, en su caso, pagar el impuesto al valor agregado y trasladarlo, de acuerdo con los preceptos de esta Ley.
 
-La Federación, el Distrito Federal, los Estados y los Municipios tendrán la obligación de pagar el impuesto únicamente por los actos que realicen que no correspondan a sus funciones de derecho público.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+La Federación, el Distrito Federal, los Estados, los Municipios, así como sus organismos descentralizados y las instituciones públicas de seguridad social, tendrán la obligación de pagar el impuesto únicamente por los actos que realicen que no correspondan a sus funciones de derecho público.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
 Para los efectos de este impuesto, se consideran residentes en territorio nacional, además de los señalados en el Código Fiscal de la Federación, las personas físicas o las morales residentes en el extranjero que tengan uno o varios establecimientos en el país, por todos los actos o actividades que en los mismos realicen.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 4o.
 
-El acreditamiento consiste en restar el impuesto acreditable, de la cantidad que resulte de aplicar a los valores señalados en esta Ley las tasas a que se refieren los artículos 1o., 2o. o 2o. A, según sea el caso. Se entiende por impuesto acreditable un monto equivalente al del impuesto al valor agregado que hubiera sido trasladado al contribuyente y el propio impuesto que él hubiese pagado con motivo de la importación de bienes o servicios, en el mes o en el ejercicio al que corresponda.
+El acreditamiento consiste en restar el impuesto acreditable, de la cantidad que resulte de aplicar a los valores señalados en esta Ley, la tasa que corresponda según sea el caso. Se entiende por impuesto acreditable un monto equivalente al del impuesto al valor agregado que hubiera sido trasladado al contribuyente y el propio impuesto que él hubiese pagado con motivo de la importación de bienes o servicios, en el mes o en el ejercicio al que corresponda.
 
 Para que sea acreditable el impuesto al valor agregado deberán reunirse los siguientes requisitos:
 
@@ -230,7 +332,9 @@ VI.- Moneda nacional y moneda extranjera, así como las piezas de oro o de plata
 
 VII.- Partes sociales, documentos pendientes de cobro y títulos de crédito, con excepción de certificados de depósito de bienes cuando por la enajenación de dichos bienes se esté obligado a pagar este impuesto. En la enajenación de documentos pendientes de cobro, no queda comprendida la enajenación del bien que ampare el documento.
 
-VIII.- Los que sin propósito de lucro enajenen en beneficio exclusivo de sus agremiados, miembros o trabajadores, según sea el caso, las tiendas que establezcan los sindicatos obreros, las organizaciones ejidales y comunales que operen en los términos de la Ley de Reforma Agraria, así como las dependencias y organismos públicos que señale la Secretaría de Hacienda y Crédito Público en disposiciones de carácter general.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+VIII.- Los que sin propósito de lucro enajenen en beneficio exclusivo de sus agremiados, miembros o trabajadores, según sea el caso, las tiendas que establezcan los sindicatos obreros, las organizaciones ejidales y comunales que operen en los términos de la Ley de la Reforma Agraria, así como las dependencias y organismos públicos que señale la Secretaría de Hacienda y Crédito Público en disposiciones de carácter general. El beneficio previsto en la presente fracción no se aplicará en tratándose de enajenación de bienes afectos a la tasa del 20% a que se refiere el Artículo 2o. C fracción I, de esta Ley.
 
 ###### ARTICULO 10.
 
@@ -256,13 +360,13 @@ III.- Se expida el documento que ampare la enajenación.
 
 Para calcular el impuesto tratándose de enajenaciones se considerará como valor el precio pactado, así como las cantidades que además se carguen o cobren al adquirente por otros impuestos, derechos, intereses normales o moratorios, penas convencionales o cualquier otro concepto. A falta de precio pactado se estará al valor que los bienes tengan en el mercado, o en su defecto al de avalúo.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-Los intereses moratorios y penas convencionales, darán lugar al pago del impuesto al valor agregado en el mes en que se paguen.
+Cuando el precio pactado sea cierto y determinable con posterioridad, el impuesto se pagará hasta que pueda ser determinado; si únicamente parte del precio es determinable con posterioridad, sólo el impuesto correspondiente a dicha parte se diferirá. Los intereses moratorios y penas convencionales, darán lugar al pago del impuesto en el mes en que se paguen.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-En las enajenaciones a plazo con pago diferido o en parcialidades, cuando el plazo exceda de doce meses y se cubra más de la mitad del precio hasta después del sexto mes, se podrá diferir el impuesto, en los términos y en la forma que señale el Reglamento de esta Ley; en todo caso la traslación se hará en la medida en que se difiere el impuesto. Tratándose de arrendamiento financiero, al impuesto que corresponda a la operación, se le aplicará el por ciento que señala la Ley del Impuesto sobre la Renta para determinar el monto original de la inversión y la diferencia será el impuesto que podrá diferirse, en los términos que señale el Reglamento de esta Ley.
+En las enajenaciones a plazo en los términos del Código Fiscal de la Federación, se podrá diferir el impuesto de conformidad con el reglamento de esta Ley. Tratándose de arrendamiento financiero, al impuesto que corresponda a la operación, se le aplicará el porciento que señala la Ley del Impuesto sobre la Renta para determinar el monto original de la inversión y la diferencia será el impuesto que podrá diferirse, en los términos que señale el reglamento de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -296,9 +400,9 @@ No se considera prestación de servicios independientes la que se realiza de man
 
 No se pagará el impuesto por la prestación de los siguientes servicios:
 
-I.- Los prestados directamente por la Federación, Distrito Federal, Estados y Municipios que no correspondan a sus funciones de derecho público.
+I.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1982)
 
-II.- Los prestados por instituciones públicas de seguridad social.
+II.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1982)
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -350,15 +454,17 @@ c).- Cámaras de comercio, industria, agricultura, ganadería o pesca, así como
 
 d).- Asociaciones patronales y colegios de profesionales.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-e).- Asociaciones o sociedades civiles organizadas con fines científicos, políticos, religiosos y culturales, a excepción de aquellas que proporcionen servicios con instalaciones deportivas cuando el valor de éstas representen más del 50% del total de las instalaciones.
+e).- Asociaciones o sociedades civiles organizadas con fines científicos, políticos, religiosos y culturales, a excepción de aquéllas que proporcionen servicios con instalaciones deportivas cuando el valor de éstas representen más del 25% del total de las instalaciones.
 
 XIII.- Los de espectáculos públicos por el boleto de entrada. No se consideran espectáculos públicos los prestados en restaurantes, bares, cabarets, salones de fiesta o de baile y centros nocturnos.
 
-XIV.- Los de carácter profesional, cuando su prestación requiera título conforme a las leyes, siempre que sean prestados por personas físicas, organizaciones profesionales, asociaciones o sociedades civiles.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-XV.- Los prestados por artistas, locutores, toreros o deportistas, cuando realicen actividades cinematográficas, teatrales, de radiodifusión, de variedades, taurinas o deportivas.
+XIV.- Los servicios profesionales de medicina, cuando su prestación requiera título de médico conforme a las leyes, siempre que sean prestados por personas físicas, ya sea individualmente o por conducto de sociedades civiles.
+
+XV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1982)
 
 XVI.- Los prestados por autores, a que se refiere la Ley Federal de Derechos de Autor.
 
@@ -584,7 +690,7 @@ La devolución en el caso de exportación de bienes tangibles procederá hasta q
 
 Los obligados al pago de este impuesto y las personas que realicen los actos y actividades a que se refiere el artículo 2o.-A tienen, además de las obligaciones señaladas en otros artículos de esta Ley, las siguientes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO DECIMOOCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 30 DE SEPTIEMBRE DE 1982.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO DECIMOOCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981, MODIFICADO POR EL ARTICULO SEGUNDO DEL DECRETO PUBLICADO EN EL D.O.F. 30 DE SEPTIEMBRE DE 1982.</small>
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -616,6 +722,10 @@ Los contribuyentes que tengan en copropiedad una negociación, designarán repre
 
 En el caso de que los ingresos deriven de actos o actividades que realice una sucesión, el representante legal de la misma pagará el impuesto presentando declaraciones mensuales y del ejercicio, por cuenta de los herederos o legatarios.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+Tratándose de servicios profesionales independientes, los contribuyentes estarán obligados a presentar declaraciones provisionales en los mismos plazos en que se hagan para efectos del Impuesto Sobre la Renta.
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
 ###### ARTICULO 33.
@@ -640,7 +750,9 @@ Las personas físicas que enajenen bienes o presten servicios, cuando sean contr
 
 I.- Llevar los registros simplificados de sus operaciones cuando lo determine la Secretaría de Hacienda y Crédito Público conforme a disposiciones de carácter general.
 
-II.- Dichas personas no tendrán obligación de calcular ni declarar mensualmente el monto de las contraprestaciones que correspondan a sus actividades por las que deban pagar el impuesto. Las autoridades fiscales les estimarán el valor de los actos o actividades por los que están obligados a pagar el impuesto, excluyendo las actividades sujetas a la tasa de 0%; a esta estimación las autoridades aplicarán las tasas del 10% o del 6%, según corresponda, obteniéndose así el impuesto a cargo estimado.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+II.- Dichas personas no tendrán obligación de calcular ni declarar mensualmente el monto de las contraprestaciones que correspondan a sus actividades por las que deban pagar el impuesto. Las autoridades fiscales les estimarán el valor de los actos o actividades por los que están sujetos a pagar el impuesto, excluyendo las actividades sujetas a la tasa del 0%; a esta estimación las autoridades aplicarán la tasa del impuesto que corresponda, según sea el caso, obteniéndose así el impuesto a cargo estimado.
 
 Del impuesto a cargo estimado se restará el impuesto acreditable, conforme a lo siguiente:
 
@@ -657,6 +769,18 @@ III.- Pagar bimestralmente el impuesto a que se refiere la fracción anterior. E
 IV.- Cuando de las comprobaciones que lleven a cabo las autoridades fiscales aparezca que el valor de los actos o actividades por las que el contribuyente deba pagar el impuesto al valor agregado, es superior en más de un 20% a la última estimación practicada, se rectificará ésta y se cobrarán las diferencias de impuesto que procedan más lo (sic) recargos de ley y sanciones respectivas, salvo que el contribuyente solicite espontáneamente a las autoridades fiscales la rectificación de la estimación, en cuyo caso, pagará el impuesto que corresponda a partir del bimestre en que haya solicitado la rectificación, quedando liberado de pagar las diferencias correspondientes a bimestres anteriores.
 
 V.- Conservar los registros simplificados a que se refiere la fracción I de este artículo y los documentos que señale la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+###### ARTICULO 35-A.
+
+Las personas físicas que siendo contribuyentes menores en los términos del artículo 35 de esta Ley cuando dejen de estar en los supuestos para ser considerados como tales, para los efectos del ejercicio de las facultades de comprobación y determinación y cobro de contribuciones omitidas, se seguirán considerando como contribuyentes menores durante el año en que dejen de estar en los supuestos señalados y el siguiente. Por el año en que dejaron de ser contribuyentes menores cumplirán con sus obligaciones fiscales conforme el (sic) artículo 35 citado y ante las mismas autoridades fiscales; a partir del siguiente año cumplirán con todas las obligaciones señaladas en el artículo 32 de la Ley, con las siguientes modalidades:
+
+I.- Continuarán pagando el impuesto mediante estimación actualizada conforme al valor real de los actos o actividades del contribuyente, ante las mismas autoridades fiscales, durante el año inmediato posterior a aquél en que dejaron de ser contribuyentes menores, teniendo estos pagos el carácter de definitivos.
+
+II.- Llevarán los registros simplificados que para tal efecto determine la Secretaría de Hacienda y Crédito Público, durante los dos años siguientes a aquél en que dejaron de ser contribuyentes menores.
+
+III.- No estarán obligados a cumplir con lo dispuesto en las fracciones I y IV del referido artículo 35, durante el período señalado en la fracción anterior.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -912,9 +1036,9 @@ ARTICULO DECIMOSEXTO.- Los contribuyentes que durante 1982 realicen actividades 
 
 ARTICULO DECIMOSEPTIMO.- Los contribuyentes que queden comprendidos en los artículos 115 de la Ley del Impuesto sobre la Renta 35 de la Ley del Impuesto al Valor Agregado continuarán pagando durante el año de 1982, el mismo monto de impuesto que les hayan estimado las autoridades fiscales con anterioridad a dicho año, en tanto que las mismas no lo modifiquen.
 
-> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-ARTICULO DECIMOOCTAVO (SIC).- Las reformas a los artículos 5o., 8o., 32 y 39 y la derogación de los artículos 38 y 40 de la Ley del Impuesto al Valor Agregado, surtirán efectos a partir del 1o. de abril de 1983.
+ARTICULO DECIMOOCTAVO (SIC).- Las reformas a los artículos 5o., 8o., 32 y 39 y la derogación de los artículos 38 y 40 de la Ley del Impuesto al Valor Agregado, surtirán efectos a partir del 1o. de enero de 1983.
 
 ARTICULO TRIGESIMO SEGUNDO.- Las disposiciones contenidas en las leyes del Impuesto sobre la Renta y del Impuesto al Valor Agregado, relativas a enajenaciones a plazo con pago diferido o en parcialidades, se aplicarán considerando la disposición vigente en el momento en que se entregue materialmente al bien objeto de la enajenación, se obtenga parte del precio o se expida el documento que ampare la enajenación, el que primero se realice.
 
@@ -923,3 +1047,17 @@ D.O.F. 30 DE SEPTIEMBRE DE 1982.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el 1o. de octubre de 1982.
+
+D.O.F. 31 DE DICIEMBRE DE 1982.
+
+> <small>N. DE E. DEBIDO A LA TRASCENDENCIA DEL DECRETO DE LA LEY QUE ESTABLECE, REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES FISCALES, SE TRANSCRIBE EL ARTICULO DECIMONOVENO.</small>
+
+ARTICULO DECIMONOVENO.- Los artículos Transitorios SEXTO relativo a la Ley del Impuesto Especial sobre Producción y Servicios, DECIMOCTAVO referente a la Ley del Impuesto al Valor Agregado, VIGESIMO QUINTO concerniente a la Ley del Impuesto sobre la Renta y TRIGESIMO OCTAVO respecto de la Ley Orgánica del Tribunal Fiscal de la Federación, de la ley que reforma, adiciona y deroga diversas disposiciones en materia fiscal, de 30 de diciembre de 1981, se reforman para surtir sus efectos en toda la República a partir del 1o. de enero de 1983.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor en toda la República el día 1o. de enero de 1983.
+
+ARTICULO DECIMOSEXTO.- Los precios pactados antes del 1o. de enero de 1983, podrán ser aumentados en la cantidad necesaria para trasladar el incremento en el impuesto al valor agregado que resulten de la aplicación de las nuevas tasas.
