@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-14307"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-12-07"
-last_updated: "2002-11-15"
+last_updated: "2003-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 2003.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 7 de diciembre de 1981.
 
@@ -303,9 +303,13 @@ I.- La Ciudad del Carmen, Cabecera del Municipio;
 
 II.- La Sección Municipal de Atasta;
 
-III.- (DEROGADA, P.O. 24 DE JUNIO DE 1998)
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2003)</small>
+
+III.- La Sección Municipal de Mamantel;
 
 IV.- La Sección Municipal de Sabancuy;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2003)</small>
 
 V.- Las poblaciones, ejidos, rancherías y heredades que constituyen la circunscripción jurisdiccional de la Cabecera y Secciones Municipales en la forma siguiente:
 
@@ -317,27 +321,19 @@ V.- Las poblaciones, ejidos, rancherías y heredades que constituyen la circunsc
 
 a) La Villa de Isla Aguada.
 
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
+a) BIS (DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2003)
 
-a Bis) El pueblo de Mamantel.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2003)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 1994)</small>
+b) Los ejidos de El Carmen, Isla Aguada, El Aguacatal, Allende Pejelagarto, Belisario Domínguez, Centauro del Norte, Conquista Campesina, El Chinal, La Florida, Fernando Foglio Miramontes, Generalísimo Morelos, Los Manantiales, Murallas de Campeche, El Sacrificio, Santa Rita, Tres Valles, Valle de Solidaridad, Venustiano Carranza, Vista Alegre y El Zapote.
 
-b) Los ejidos de El Carmen e Isla Aguada.
+Zona del Río Las Piñas: Arriba y Adelante;
 
-Zona del Río Las Piñas:
+c) Las haciendas de Arcila, Desengaño y Anexas;
 
-El Zapote, Arriba y Adelante, La Esperanza.
+c) Bis Las congregaciones de El Francés, El Jardín y el Plan del Toro, Invierno, Nueva Esperanza II, Pucteal, Santa Bárbara y Los Tres Campos;
 
-c) Las haciendas de Arcila, Buenavista, Desengaño y Polvoxal y Anexas.
-
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 1998)</small>
-
-c) Bis.- Las congregaciones de El Aguacatal, Alazán, Belisario Domínguez, Brasil, Buenos Aires, El Caribe, La Concepción, Conquista Campesina, El Chinal, El Destino, El Diamante, El Encanto, El Encanto (sic), Felipe Angeles, El Francés, Francisco Villa (Mamantel), Ignacio Zaragoza, Invierno, El Jardín y el Plan del Toro, El Jazmín, El Jurel, Lic. Gustavo Díaz Ordaz (18 de marzo), La Malinche, Mamantel Pueblo (Mamantel Viejo), Mil Flores, Monterrey, Las Nubes, Nueva Aventura (El Aventurero), Nueva Chontalpa, Nueva Esperanza II, La Nueva Esperanza, Ojo de Agua, La Pasión, Pital Nuevo, Pital Viejo, La Presumida y Anexas, La Providencia, Pucteal, Quebrache, El Sacrificio, San Antonio, San Carlos, San Fernando, San Isidro, San Manuel, San Pablito (Km 59), Santa Bárbara, Santa Lucía, El Teniente, Los Tres Campos, El Triunfo, Venustiano Carranza, y El Vergel;
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1998)</small>
-
-d) Los ranchos de Xicalango, Rancho Nuevo, San Antonio Xicalango, Santa Elena, El Pon, San José del Carmen, Ñaco, Julián Alvarez, Alvaro Peralta, La Estrella, El Arroyo, San Bonifacio, El Porvenir, La Montaña, Santa Anita, Santa Elena, Gustavo Fernández, Santa Serafina, Santa María, La Veleta, San Fernando, Loma de Román, El Recuerdo, Lote número 3, Zona del río San Pedro: La Cruz, El Tábano, Las Porfías, San Miguelito, Buenos Aires, El Porvenir, Vista del Carmen, Buena Vista II, Pastal, Baraja, Juncal, Quemado, Aguacatal, El Limonal, Zona de la Laguna de Términos: San Luis, San Luto, Chacajito, Ese Mayo, Palchacá, Zona del Río Chepe o del Este: Laguna San Francisco Laguna de los Vientos y Laguna de las Cruces, Esperanza, Rinconcito, Punta de la Cochina, Tío Blanco, La Veleta, Santa Gertrudis, Lerma, M. Ayala, El Jaral, Los Leones, Los Gómez, Mameyal, Achotal, San Miguel, Tumbo de Montero, Juncal, La Jagua. Zona del Río Vapor para tomar Río Marentes: Canales, El Vapor, Botijuela, Isaac Sosa, Santa Dolores, Por Poquito, El Ensueño, Guanacastre, El Conuco, Gustavo Aguilar, San José Marentes, Gustavo Ferrer. Zona del Río de las Piñas: Naranjal, Cibalitos, Santa Valentina, El Eslabón, La Lucha, El Tintal II, Popistal, La Paila, San José Victoria, Zapote Mamey, El Salvaje, El Gerente, La Naranja, El Retiro, Rancho Caribe, San Angel, Villa Rosa, Vista Alegre, Campamento Villa Rosa Primera Sección, La Mica, Axnexo (sic) Ramonal, El Cubano, San Leonardo, Villa Rosa, Las Mariposas, Juncal, Brasilia, Pajaral, Soledad, Los Angeles, Anexo Junes, La Copa, Anexo Soledad, San Hipólito, El Líbano, Jicotea, 2 de Marzo, 3 Hermanos, Abel, El Aguacero, El Aguilar, La Alegría, Anexo del Milagro, Anexo José Antonio, Anexo Los Laureles, Anexo Monterrey, Los Angeles, La Angostura, Las Arboleras, La Asunción, La Barca de Oro, Belén, El Bonastre, Boquerón, Buenavista, El Cachito, Canutillo, El Capricho, Los Capulines, Carlos V, El Carmen, El Carmen (sic), Las Carolinas, El Castaño, El Cedral, Las Ceibas, Centro de Acopio Lechero, El Cepillo, Cinco de Mayo, Cinco de Mayo (sic), Los Cocos, La Concepción, Los Coquitos, Corozal, El Crucero, El Crucero (sic), Cuatro Copas, El Cubillete, El Cuyo Guadalupana, El Chamizal, El Chapulín, La Chiquis, El Chorrito, Las Delicias, Las Delicias (sic), El Desprecio, El Diamante, Diana Minerva, El Dólar, Don Felix, El Dorado, Las Doritas, Dos Hermanos, Dos Hermanos, Dos Hermanos (sic), El Edén, La Elvira II, Encarnación, Entre Hermanos, Entre Ratas, La Esmeralda, La Esperanza de Dios I, La Esperanza de Dios III, La Esperanza de Dios IV, La Esperanza, La Esperanza, La Esperanza, La Esperanza (sic), La Espuela de Oro, La Estrella, El Faisán, El Farolito, Floralma, La Floreña, La Floreña (sic), Las Flores, La Florida, La Fortuna, La Fortuna, La Fortuna (sic), Framboyán, El Gallo Giro, Gerardo I, Las Golondrinas, La Granada, Guadalupe, La Guadalupe, La Guadalupe, La Guadalupe (sic), Heras, La Hermelinda, La Herradura, La Herradura, La Herradura (sic), La Ilusión, La Ilusión (sic), Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado (sic), Jardín de Flores, El Jarocho, El Jimbal, El Jimbal (sic), José Antonio, Karina, Los Laureles, Los Laureles (sic), El Líbano, La Libertad, La Libertad (sic), La Lolis, Lomalida, Lomas de los Angeles, La Lupita, El Marfil, María Isabel y San Francisco, Mayalan, Mesopotamia, Miguel Guzmán Guzmán, Milcar, La mireya, Los Mosqueteros, El Nanzal, Las Nubes, La Nueva Ilusión, Nuevo Mundo, Nuevo Valle, El Oasis, Ojo de Agua de Coyoc, Olguita y la Ambición, Las Pailas, Palma Sola (Santa Rosalía), Las Palmiras, La Palmita, Las Palmitas, Paraíso, El Paraíso, El Paraíso, El Paraíso (sic), Los Pavos, El Pedregal, El Pensador Tabasqueño, La Pequeña, Los Pinos, El Pital, El Pokar, El Polvorón, La Ponderosa, El Porvenir, La Primavera, La Primavera (sic), La Princesa, El principio, El Progreso, Puerta Blanca, La Puntilla, Quebrache, El Ramonal, El Ranchito, Rancho Nuevo, El Recuerdo, El Refugio, El Retorno, La Revancha, Rey Tercero, El Rey, La Reyna, El Rosario, El Rosario (sic), Las Ruedas, El Sabino, El Sacrificio, El Sacrificio, El Sacrificio, El Sacrificio (sic), Samaría, San Alfredo, San Andrés, San Angel, San Antonio, San Antonio, San Antonio (sic), San Carlos H (Hermanos García), San Carlos II, San Elías, San Fernando, San Fernando (sic), San Francisco, San Francisco, San Francisco (sic), San Francisco del Ferrol, San Jerónimo, San Inocente, San Jorge de Coyoc, San José, San José, San José, San José (sic), San José I, San José II, San Juan, San Juan, San Juan, San Juan (sic), San Juanito, San Juanito (sic), San Lázaro, San Luis, San Luis, San Luis (sic), San Manuel, San Manuel, San Manuel, San Manuel, San Manuel (sic), San Marcos, San Marcos (sic), San Martín, San Martín de Porres, San Marín de Porres (sic), San Miguel, San Miguel, San Miguel, San Miguel, San Miguel (sic), San Norberto, San Pedro, San Rafael, San Ramón, San Salvador, San Sergio, Santa Bárbara, Santa Beatriz, Santa Catalina, Santa Cecilia, Santa Cruz, Santa Cruz (sic), Santa Elena, Santa Elena (sic), Santa Fé, Santa Fé (sic), Santa Isabel, Santa Isabel (sic), Santa Julia, Santa María, Santa María (sic), Santa Mónica, Santa Patricia, Santa Rosa, Santa Rosa (sic), Santa Rosalía, Santo Tomás, La Soledad, La Soledad (sic), El Soltero, El Suspiro, El Suspiro (sic), Los Tigres, Las Tranquitas, Tres Brazos, Tres Brazos (sic), Tres de Mayo, Tres Hermanos, Tres Patines (San José), El Triángulo, La Trinidad, La Trinidad (sic), La Unión, El Uveral, Valle de Campeche, El venado, La Victoria, La Victoria (sic), El Xabin, El Yurid, El Yurid II.
+d) Los ranchos de Xicalango, Rancho Nuevo, San Antonio Xicalango, Santa Elena, El Pon, Ñaco, Julián Alvarez, Alvaro Peralta, La Estrella, El Arroyo, San Bonifacio, La Montaña, Santa Anita, Santa Elena, Gustavo Fernández, Santa Serafina, Santa María, La Veleta, San Fernando, Loma de Román; la Zona del río San Pedro, que comprende las localidades de: La Cruz, El Tábano, Las Porfías, Buenos Aires, Vista del Carmen, Buena Vista II, Pastal, Baraja, Juncal, Quemado, Aguacatal, El Limonal; la Zona de la Laguna de Términos que comprende las localidades de: San Luto, Chacajito, Ese Mayo, Palchacá; la Zona del Río Chepe o del Este que comprende las localidades de: Laguna San Francisco, Laguna de los Vientos y Laguna de las Cruces, Esperanza, Rinconcito, Punta de la Cochina, Tío Blanco, La Veleta, Santa Gertrudis, Lerma, M. Ayala, El Jara, Los Leones, Los Gómez, Mameyal, Achotal, San Miguel, Tumbo de Montero, Juncal, La Jagua; la Zona del Río Vapor para tomar Río Marentes que comprende las localidades de: Canales, El Vapor, Botijuela, Isaac Sosa, Santa Dolores, Por Poquito, El Ensueño, Guanacastre, El Conuco, Gustavo Aguilar, San José Marentes, Gustavo Ferrer; la Zona del Río de las Piñas que comprende las localidades de: Naranjal, Cibalitos, Santa Valentina, El Eslabón, La Lucha, El Tintal II, Popistal, La Paila, San José Victoria, Zapote Mamey, El Salvaje, El Gerente, La Naranja, El Retiro, Rancho Caribe, San Ángel, Villa Rosa, Vista Alegre, Campamento Villa Rosa Primera Sección, La Mica, Anexo Ramonal, El Cubano, San Leonardo, Villa Rosa, Las Mariposas, Juncal, Brasilia, Pajaral, Soledad, Anexo Junes, La Copa, Anexo Soledad, San Hipólito, El Líbano y Jicotea, Tres Hermanos, Abel, La Alegría, Anexo José Antonio, Anexo Los Laureles, Anexo Monterrey, Las Arboledas, La Asunción, Canutillo, El Capricho, Las Carolinas, El Cedral, Cinco de Mayo, La Concepción, Los Coquitos, Corozal, El Crucero, el Crucero (sic), El Cubilete, El Chamizal, El Chapulín, El Chorrito, Las Delicias, El Desprecio, El Dólar, Don Félix, Las Doritas, Dos Hermanos, Dos Hermanos (sic), El Edén, La Elvira II, Entre Hermanos, La Esperanza de Dios I, La Espuela de Oro, Floralma, La Floreña, La Floreña (sic), La Fortuna, La Fortuna (sic), Framboyán, El Gallo Giro, Las Golondrinas, La Granada, La Herradura, La Herradura (sic), Innominado, Innominado, Innominado, Innominado, Innominado (sic), Jardín de Flores, La Libertad, La Libertad (sic), La Lolis, Lomalinda, Lomas de los Angeles, El Marfil, María Isabel y San Francisco, Mayalan, Mesopotamia, Miguel Guzmán Guzmán, Milcar, Nuevo Mundo, El Oasis, Las Pailas, Las Palmiras, La Palmita; Las Palmitas, El Paraíso, El Paraíso (sic), Los Pavos, El Pedregal, El Pokar, El Polvorón, La Primavera, El Principio, El Progreso, Quebrache, El Ramonal, El Refugio, La Revancha, La Reina, Las Ruedas, San Angel, San Carlos H. (Hermanos García), San Carlos II, San Francisco del Ferrol, San Inocente, San Luis, San Manuel, San Manuel (sic), San Martín, San Martín de Porres, San Miguel, San Miguel (sic), San Norberto, San Ramón, San Salvador, San Sergio, Santa Bárbara, Santa Isabel, Santa Julia, Santa María, Santa María (sic), Santa Rosa, Santa Rosa (sic), Santa Rosalía, La Soledad, La Soledad (sic), El Soltero, Los Tigres, Las Tranquitas, Tres Brazos, Tres Brazos (sic), Tres Hermanos, El Uveral, Valle de Campeche, El Yurid y El Yurid II y todas las demás que no se encuentren comprendidas en esta relación y que estén dentro de la circunscripción del Municipio.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JUNIO DE 1998)</small>
 
@@ -349,11 +345,21 @@ b) Los ejidos de Puerto Rico, Atasta, San Antonio Cárdenas, Nuevo Progreso, Col
 
 c) Los ranchos de Nuevo Campechito, La Envidia, Rivera de San Francisco, Paraíso, San Fernando, La Veleta I, La Veleta II, El Carmen I, El Carmen II, San Antonio Pom, San Antonio Punta de Piedra, El Porvenir I, El Porvenir II, El Porvenir III, El Porvenir IV, La Herradura, Las Carmelitas, San Miguel I, San Miguel II, Rancho Alegre, Santa Elena, El Pom, Abelardo Carrillo Zavala, Santa Rita, Las Piedras, Nuevo Xicalango, Las Palomas I, Las Palomas II, Santa Isabel, Pinzón, Zacatal I, Zacatal II, Playaso, Santa Serafina.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 24 DE JUNIO DE 1998)</small>
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2003)</small>
+
+3.- A la Sección Municipal de Mamantel corresponden:
+
+a) El pueblo de Mamantel, cabecera de la Sección;
+
+b) Los ejidos de: Bella Palizada, Lic. Gustavo Díaz Ordaz (18 de Marzo), Pital Nuevo Ignacio Zaragoza, Ojo de Agua, Felipe Angeles, Nueva Chontalpa, San Isidro, Francisco Villa y Quebrache.
+
+c) Las congregaciones de Alazán, Brasil, El Caribe, La Concepción, El Encanto, Mamantel Pueblo (Mamantel Viejo), Mil Flores, Monterrey, Las Nubes, La Nueva Esperanza, Pital Viejo, La Presumida y Anexas, La Providencia, San Manuel, San Pablito (Km 59), Santa Lucía, El Teniente y El Triunfo.
+
+d) Los ranchos de Agua Fría, El Aguacatal, El Aguacero, El Aguilar, Alazán, Anexa Jimbal, Anexo del Milagro, El Ángel (La Culebra), Los Ángeles, Los Ángeles, Los Ángeles (sic), Los Ángeles Dos, La Angostura, Así es la Vida, Barca de Oro, Belén, Blanca Citlally, El Bonastre, Boquerón, Borinque, Brasil, La Bretaña, Buenavista, Buenavista (sic), Buenos Aires, El Cachito, Capricornio, Los Capulines, Carlos Quinto, La Carmelita, La Carmelita (sic), El Carmen, El Carmen (sic), El Castaño, Las Ceibas, El Ceibo, Centro De Acopio Lechero Lácteos del Sur, El Cepillo, Cinco de Mayo, Cinco Hermanos (Abel), Los Cocos, Cristo Rey, Cuatro Copas, Cuatro Hermanos, Cuyo Guadalupana, La Chiquis, Chombo, Los Delfines, Las Delicias, El Destino, El Diamante, Diana Minerva, Doble H, El Dorado, Dos De Marzo, El Encanto, El Encanto (sic), Encarnación, Entre Ratas, La Esmeralda, La Esperanza, La Esperanza, La Esperanza, La Esperanza (sic), La Esperanza de Dios Tres, La Esperanza De Dios Cuatro, La Estrella, El Faisán, El Faisán Dos, El Farolito, Fina Estampa, Las Flores, La Florida, La Fortuna, Franco, Los Gansos, El Gavilán, Gerardo Primero, La Guadalupana, La Guadalupe, La Guadalupe, La Guadalupe (sic), Guadalupe, El Guayacán, El H. del Edén, Heras, Hermanos García, La Hermelinda, La Herradura, La Higuera, La Ilusión, La Ilusión (sic), El Imposible, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado (sic), Isla las Damas, El Jarocho, El Jazmín, Jimbal, El Jobo, José Antonio, Karina, Kristel, Los Laureles, Los Laureles, Los Laureles (sic), La Lupita, La Lupita (sic), La Malinche, El Mango, Los Mangos, Las Margaritas, María de La Luz, El Mercurio, El Milagro, Mireya, Monterrey, Los Mosqueteros, El Nance, El Nanzal, Nayeli, Las Nubes, Las Nubes (sic), Nueva Aventura (El Aventurero), Nueva Esperanza, La Nueva Ilusión, Nuevo Valle, Ojo De Agua De Cuyóc, Olguita y La Ambición, Oro Verde, Palma Sola, El Paraíso, La Pasión, Paso Nuevo, El Pedacito, El Pensador Tabasqueño, La Pequeña, Los Pinos, El Pital (El Rayo), Polboxal, La Ponderosa, Por Poquito (San Manuel), El Porvenir, La Potranca, La Presumida y Anexas, El Prieto, La Primavera, La Princesa, La Providencia, Puerta Blanca, La Puntilla, El Ramón, El Ranchito, Rancho Concepción, Rancho Nuevo, El Recuerdo, El Recuerdo (sic), El Retorno, El Rey, Rey Tercero, El Rocío, El Rosario, El Rosario (sic), El Sabino, El Sacrificio, El Sacrificio, El Sacrificio, El Sacrificio (sic), Sagrado Corazón, Samaria, San Agustín, San Alfredo, San Andrés, San Antonio, San Antonio, San Antonio, San Antonio (sic), San Carlos, San Cristóbal, San Daniel, San Elías, San Felipe, San Felipe del Coyoc, San Fernando, San Fernando (sic), San Fernando (Quebrache), San Francisco, San Francisco (sic), San Gerónimo, San Jorge de Coyoc, San José, San José, San José, San José, San José (sic), San José Uno, San José Dos, San Juan, San Juan, San Juan (sic), San Juan (El Cuadro Limón), San Juanito, San Juanito (sic), San Lázaro, San Lázaro (sic), San Luis, San Luis (sic), San Manuel, San Manuel (sic), San Manuel Uno, San Marcos, San Marcos (sic), San Martín de Porres, San Miguel, San Miguel (sic), San Miguel (San Luis), San Miguelito, San Pedro, San Rafael, San Rafael (sic), San Roberto, Santa Beatriz, Santa Catalina, Santa Cecilia, Santa Cecilia, Santa Cecilia (sic), Santa Cruz, Santa Cruz, (sic) Santa Fe, Santa Fe (sic), Santa Isabel, Santa Lucia, Santa Martha, Santa Mónica, Santa Mónica (sic), Santa Patricia, Santa Teresa, Santo Tomás, El Santuario, Los Siete Hermanos, El Suspiro, El Suspiro (sic), El Tamarindo, El Tamarindo (sic), Tebanco, El Teniente, El Tres de Mayo, Tres Patines (San José), El Triángulo, La Trinidad, La Trinidad (sic), El Triunfo, El Tule, La Unión, El Venado, El Vergel, La Victoria, La Victoria, La Victoria (sic), El Xabín, El Zapote, El Zapote (sic), y los demás que se encuentren dentro de los lindes de este Municipio aunque no estén mencionados en esta relación.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JUNIO DE 1998)</small>
 
-3.-A la Sección Municipal de Sabancuy, corresponden:
+4.-A la Sección Municipal de Sabancuy, corresponden:
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
 
@@ -2920,5 +2926,25 @@ Octavo.- El Congreso, el Gobernador, el Tribunal Superior de Justicia, los Ayunt
 P.O. 15 DE NOVIEMBRE DE 2002.
 
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2003.
+
+POR SU IMPORTANCIA SE TRANSCRIBEN LOS ARTICULOS SEGUNDO, TERCERO Y CUARTO DEL DECRETO.
+
+###### ARTÍCULO SEGUNDO.
+
+El H. Ayuntamiento del Municipio de Carmen deberá proceder a emitir las disposiciones administrativas atinentes a las previsiones que consecuentemente correspondan en su Presupuesto de Egresos para el Ejercicio Fiscal 2004.
+
+###### ARTÍCULO TERCERO.
+
+La administración de la nueva Sección Municipal, durante el lapso comprendido del 1 de enero de 2004 al 30 de Septiembre de 2006, estará a cargo de un Concejo Municipal integrado por un presidente, un regidor y un síndico, propietarios y suplentes, que este Congreso designará, en el mes de diciembre del año 2003, de entre los vecinos del territorio que comprenderá la Sección Municipal de Mamantel que satisfagan los requisitos previstos en el artículo 103 y no se encuentren en alguna de las hipótesis previstas por el artículo 104, ambos numerales de la Constitución Política del Estado.
+
+###### ARTÍCULO CUARTO.
+
+El H. Ayuntamiento del Municipio de Carmen procederá a suprimir la Comisaría Municipal de Mamantel, con efectos a partir del 1 de noviembre de 2003, asumiendo en forma directa la administración de las poblaciones que dicha Comisaría actualmente comprende durante el lapso que medie entre el 1 de noviembre y el 31 de diciembre de 2003.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, salvo su Artículo Primero el que entrará en vigor el día 1 de enero de 2004.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
