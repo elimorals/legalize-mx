@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-de-los-municipios-del-estado-de-queretaro-26735
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2004-10-29"
+last_updated: "2004-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO ARTEAGA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre de 2002.
 
@@ -563,11 +563,9 @@ d) Número de mesas de juegos mecánicos, electromecánicos o de aparatos fonoel
 
 La autoridad municipal en todos los casos relacionados con loterías, rifas y juegos permitidos por la Ley, como requisito indispensable para el otorgamiento de la licencia municipal, exigirá la presentación de la autorización o permiso otorgado por la Secretaría de Gobernación.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
-
 ###### Artículo 64.
 
-Para el otorgamiento de licencia municipal de funcionamiento de establecimientos donde se expendan bebidas alcohólicas o para la revalidación de sus licencias, la autoridad municipal requerirá al interesado, la licencia de funcionamiento expedida por la Secretaría de Gobierno, la licencia sanitaria, cuando ésta no se encuentre prohibida por disposición de orden federal y demás requisitos establecidos en las Leyes estatales.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 65.
 
@@ -937,7 +935,7 @@ IV.- La introducción de ganado al rastro, en horas extraordinarias por cabeza: 
 
 V.- Por el uso de: agua para lavado de vísceras y cabeza, por pieza, y cazo.
 
-VI.- Por el sacrificio de ganado vacuno, porcino, lanar, cabrio, fuera del rastro municipal, exclusivamente para consumo familiar, por cabeza.
+VI.- Por el sacrificio de ganado vacuno, porcino, lanar, cabrío, fuera del rastro municipal, exclusivamente para consumo familiar, por cabeza.
 
 ### CAPÍTULO DÉCIMO. POR LOS SERVICIOS PRESTADOS EN MERCADOS MUNICIPALES
 
@@ -1235,15 +1233,15 @@ Por utilizar los cementerios municipales se causará y pagará lo establecido en
 
 Por el cobro de las concesiones a particulares se causará y pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
-
-Artículo 137 bis. Por el cobro de la venta de bases de licitación por cada uno de los concursos para obra pública y adquisiciones municipales, se causará y pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio.
-
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 137.
 
 Por el cobro de la venta de hologramas de verificación vehicular se causará y pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+Artículo 137 bis. Por el cobro de la venta de bases de licitación por cada uno de los concursos para obra pública y adquisiciones municipales, se causará y pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
@@ -1502,3 +1500,17 @@ P.O. 29 DE OCTUBRE DE 2004.
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga"
 
 Artículo Segundo. Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+P.O. 12 DE NOVIEMBRE DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+Las licencias o refrendos que se hayan expedido con anterioridad a la entrada en vigor de la presente Ley terminarán su vigencia en el mes de julio del año 2005, siempre que haya transcurrido un año desde (sic) expedición de la misma. Fuera de estos casos, el interesado podrá convenir con la autoridad estatal y municipal, que los meses no cubiertos por la anualidad de la licencia o refrendo, se tome en cuenta para el pago del refrendo correspondiente.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+###### ARTICULO TERCERO.
+
+La presente Ley, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
