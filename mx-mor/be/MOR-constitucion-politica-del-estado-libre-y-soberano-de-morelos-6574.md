@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1983-12-29"
+last_updated: "1984-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 1984.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -384,7 +384,7 @@ El Congreso del Estado podrá citar a los Secretarios de despacho que correspond
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-Los plazos de presentación de las Leyes de Ingresos y cuentas públicas a que se refiere este Artículo, sólo podrán ampliarse a solicitud del Ejecutivo o de los Presidentes Municipales, por causas plenamente justificadas a juicio del Congreso o de la Comisión Permanente, pero será obligación de los Secretarios de Finanzas y de Programación y Presupuesto o de los Regidores de Hacienda de los Municipios, respectivamente, comparecer ante el Congreso para informar las razones que los motiven.
+Los plazos de presentación de las Leyes de Ingresos y cuentas públicas a que se refiere este Artículo, sólo podrán ampliarse a solicitud del Ejecutivo o de los Presidentes Municipales, por causas plenamente justificadas a juicio del Congreso o de la Comisión Permanente, pero será obligación de los Secretarios de Finanzas y Programación y de Presupuesto o de los Regidores de Hacienda de los Municipios, respectivamente, comparecer ante el Congreso para informar las razones que los motiven.
 
 > <small>(REFORMADO, P.O. 4 DE MAYO DE 1983)</small>
 
@@ -522,7 +522,7 @@ e).- A trabajo igual corresponderá salario igual sin tener en cuenta el sexo.
 
 f).- Sólo podrán hacerse retenciones, descuentos o embargos al salario, en los casos previstos en las Leyes.
 
-g).- La designación del personal se hará mediante sistemas que permitan apreciar los conocimientos, y aptitudes de los aspirantes. El Estado establecerá academias en las que se impartan los cursos necesarios para que los trabajadores que lo deseén puedan adquirir los conocimientos necesarios para obtener ascensos conforme al Escalafón.
+g).- La designación del personal se hará mediante sistemas que permitan apreciar los conocimientos y aptitudes de los aspirantes. El Estado establecerá academias en las que se impartan los cursos necesarios para que los trabajadores que lo deseén puedan adquirir los conocimientos necesarios para obtener ascensos conforme al Escalafón.
 
 h).- Los trabajadores gozarán de derechos de escalafón a fin de que los derechos se otorguen en función de los conocimientos, aptitudes y antigüedad.
 
@@ -778,7 +778,7 @@ Tampoco podrá hacerlas al Decreto de Convocatoria que expida la Diputación Per
 
 DE LOS SECRETARIOS.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
 
 ###### Artículo 53.
 
@@ -1116,7 +1116,7 @@ DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
 ###### Artículo 74.
 
-Para el despacho de los negocios encomendados al Ejecutivo habrá tantos servidores públicos como la administración del Estado lo requiera, en los términos de la Ley Orgánica de la Administración Pública del Estado.
+El ejercicio de las funciones correspondientes al Gobernador del Estado, se desarrollarán con la participación de los secretarios, que a continuación se mencionan y cuyas atribuciones estarán señaladas en la Ley Orgánica de la Administración Pública: Un Secretario General de Gobierno, un Oficial Mayor, un Secretario de Programación y Presupuesto, Un Secretario de Finanzas, Un Secretario de Contraloría General, un Secretario Coordinador de la Seguridad Jurídica y de la Tranquilidad Social, Un Secretario de Obras Públicas, Un Secretario de Desarrollo Agropecuario y Forestal, Un Secretario de Fomento del Empleo, Un Secretario de Fomento y Desarrollo Industrial; Un Secretario de Turismo, Un Secretario de Educación, Cultura y Bienestar Social.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
@@ -2076,7 +2076,7 @@ SEGUNDO.- Remítase al Ejecutivo del Estado, para los efectos de su promulgació
 
 P.O. 29 DE DICIEMBRE DE 1983.
 
-DECRETO NUMERO 76
+DECRETO NO. 76
 
 UNICO.- El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
 
@@ -2089,3 +2089,9 @@ PRIMERO.- El presente Decreto de reformas y adiciones a la Constitución Políti
 SEGUNDO.- Se derogan todas las disposiciones legales o reglamentarias que se opongan a este Decreto.
 
 TERCERO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Morelos.
+
+P.O. 5 DE ENERO DE 1984.
+
+Primero.- El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Para los efectos a que se refiere la Fracción XVII del Artículo 70 de la Constitución Política del Estado de Morelos, remítase el presente Decreto al Ejecutivo del Estado.
