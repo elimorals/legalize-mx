@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-contaduria-general-del-congreso-del-4564"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "1995-07-08"
+last_updated: "1999-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4564&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DE LA CONTADURIA GENERAL DEL CONGRESO DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 1999.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -233,11 +233,15 @@ A fin de estar en posibilidad de realizar la glosa, la revisión que realice la 
 
 La revisión no solo comprenderá las partidas de ingresos y egresos, sino que se extenderá a una verificación legal, numérica, económica, financiera, física y contable del ingreso, del gasto público y de la situación patrimonial, así como de la exactitud y justificación de las cantidades erogadas, determinando si los cobros y pagos hechos se efectuaron de acuerdo con los precios y tarifas autorizados o de mercado, pudiendo la Contaduría General para ejercer las atribuciones a que se refiere este párrafo, fiscalizar a las entidades en cualquier momento.
 
-> <small>(F. DE E., P.O. 9 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1999)</small>
 
 ###### ARTICULO 14.
 
-Si durante el desarrollo de una visita, inspección o auditoría, alguna de las entidades se negare a proporcionar la información solicitada, el personal comisionado levantará acta circunstanciada donde consten los hechos y la turnará a través del Contador General a la Comisión de Vigilancia para los efectos de ley.
+El personal comisionado para revisar los ingresos, egresos y situación patrimonial, solicitará por escrito al Titular o Jefe del Area del ente revisado, la información o documentación necesaria para la práctica de la auditoría, misma que deberá ser proporcionada dentro de las 72 horas siguientes a dicha solicitud.
+
+En caso de no obtener respuesta satisfactoria, los contadores adscritos a la Contaduría General, levantarán un acta circunstanciada de dicha omisión y solicitarán por escrito al Superior Jerárquico del omiso la información o documentación requerida, otorgándole un plazo no mayor de 72 horas para satisfacer dicha petición.
+
+De persistir la omisión, el personal comisionado levantará nuevamente una acta circunstanciada, adjuntándole la copia de los oficios mediante los cuales solicitó la información, remitiéndola por conducto del Contador General del Congreso a la Presidencia del mismo o de la Diputación Permanente, a efecto de que se inicien los procedimientos administrativos a que haya lugar y se determinen las responsabilidades que corresponda.
 
 ###### ARTICULO 15.
 
@@ -314,3 +318,9 @@ C.P. FRANCISCO JAVIER BARRIO TERRAZAS
 EL SECRETARIO DE GOBIERNO
 
 LIC. EDUARDO ROMERO RAMOS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE FEBRERO DE 1999.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
