@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-4711"
 country: "mx"
 rank: "codigo"
 publication_date: "1991-08-22"
-last_updated: "1991-08-22"
+last_updated: "1992-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 1992.
 
 Código publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 22 de agosto de 1991.
 
@@ -627,19 +627,25 @@ Si el inculpado no puede otorgar la garantía, ésta será substituída por vigi
 
 ### CAPITULO I. REGLAS GENERALES
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1992)</small>
+
 ###### ARTICULO 66.
 
-El juez, al dictar sentencia, fijará la sanción que estime justa, dentro de los límites establecidos en el Código para cada delito, apreciando la personalidad del inculpado, su peligrosidad, los móviles del delito, los daños morales y materiales causados por el mismo, el peligro corrido por el ofendido o el propio inculpado, la calidad del primero y sus relaciones con el segundo, y las circunstancias de ejecución de hecho.
+El Juez, al dictar sentencia, fijará la sanción que estime justa, dentro de los límites establecidos en el Código para cada delito, apreciando la personalidad del inculpado, su peligrosidad, los móviles del delito, los daños morales y materiales causados por el mismo, el peligro corrido por el ofendido o el propio inculpado, la calidad del primero y sus relaciones con el segundo, y las circunstancias de ejecución de hecho.
+
+Asimismo, tomará en cuenta la edad, la educación, la ilustración, las costumbres y la conducta habitual del sujeto activo y su situación socio-económica. Si el inculpado es indígena, se apreciará también su idiosincrasia grupal étnica.
 
 El juez ordenará de oficio la realización de los estudios indispensables tendientes a una correcta individualización de la pena.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1992)</small>
+
 ###### ARTICULO 67.
 
-Si se trata de un delincuente primario, de escaso desarrollo intelectual, de indigente situación económica y de mínima peligrosidad, podrá el juez, en el momento de dictar sentencia, reducir hasta la mitad de la pena que le correspondiere conforme a este Código.
+Si se trata de un delincuente primario, de escaso desarrollo intelectual, de indigente situación económica y de mínima peligrosidad, especialmente en el caso de que el inculpado pertenezca a un grupo étnico indígena, podrá el Juez, según la naturaleza del delito, en el momento de dictar sentencia, reducir hasta la mitad de la pena que le correspondiera conforme a este Código.
 
-Si el inculpado al rendir su declaración preparatoria confiesa espontáneamente los hechos que se le imputan, o en ese mismo acto ratifica la rendida en indagatoria, o la fórmula con posterioridad hasta antes de la celebración de la audiencia final del juicio, el juez podrá reducir hasta un tercio la pena que le correspondería conforme a este Código.
+Si el inculpado al rendir su declaración preparatoria confiesa espontáneamente los hechos que se le imputan, o en ese mismo acto ratifica la rendida en indagatoria, o la formula con posterioridad hasta antes de la celebración de la audiencia final del juicio, el Juez podrá reducir hasta un tercio la pena que le correspondería conforme a este Código.
 
-La sentencia que reduzca la pena deberá ser confirmada por el Tribunal de Alzada correspondiente, para que surta efectos. Entretanto, la pena se entenderá impuesta sin la reducción autorizada por este artículo.
+La sentencia que reduzca la pena deberá ser confirmada por el Tribunal de Alzada correspondiente, para que surta efectos. Entre tanto, la pena se entenderá impuesta sin la reducción autorizada por este artículo.
 
 ### CAPITULO II. CASOS DE TENTATIVA
 
@@ -2960,3 +2966,15 @@ LIC. JOSE RAMIREZ GAMERO. Rúbrica.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. SALVADOR MENDIVIL HERNANDEZ. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 11 DE JUNIO DE 1992.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor al tercer día siguiente al de su Publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente.
