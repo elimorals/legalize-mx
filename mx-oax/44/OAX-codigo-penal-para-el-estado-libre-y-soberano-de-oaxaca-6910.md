@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "1987-12-22"
+last_updated: "1988-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,325 +21,103 @@ state: "OAX"
 ---
 # CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 1988.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE FEBRERO DE 2022.
+Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
-Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de marzo de 2006.
+ELISEO JIMENEZ RUIZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, A SUS HABITANTES HACE SABER:
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+QUE LA HONORABLE LEGISLATURA DEL ESTADO HA TENIDO A BIEN APROBAR LO SIGUIENTE:
 
-VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
+LA QUINCUAGESIMA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA,
 
-Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente
+DECRETA:
 
-DECRETO
-
-EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
-
-SE EXPIDE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
-
-###### ARTÍCULO ÚNICO.
-
-Se expide la Ley Federal de Presupuesto y Responsabilidad Hacendaria:
-
-LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
+CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
 # LIBRO PRIMERO.
 
-## TÍTULO PRIMERO. Disposiciones Generales
+## TITULO PRELIMINAR.
 
-## TÍTULO SEGUNDO. De la Programación, Presupuestación y Aprobación
+De la aplicación de este Código.
 
-### CAPÍTULO I. Objeto y Definiciones de la Ley, Reglas Generales y Ejecutores del Gasto
+1o.- Este Código se aplicará en todo el Estado, por los delitos de la competencia de los Tribunales Comunes, cometidos en su territorio, cualesquiera que sean la residencia o nacionalidad de los responsables.
 
-###### Artículo 1.
+2o.- Se aplicará asimismo, por los delitos que se inicien, preparen o cometan fuera del Estado, cuando produzcan o se pretenda que tengan efectos en su territorio, siempre que no se haya sentenciado ya debidamente por ellos al presunto responsable por los Tribunales competentes de otro lugar.
 
-La presente Ley es de orden público, y tiene por objeto reglamentar los artículos 74 fracción IV, 75, 126, 127 y 134 de la Constitución Política de los Estados Unidos Mexicanos, en materia de programación, presupuestación, aprobación, ejercicio, control y evaluación de los ingresos y egresos públicos federales.
+3o.- Los delitos contínuos cuya ejecución se inicie fuera del Estado y que se sigan cometiendo en éste, se perseguirán con arreglo a las leyes del mismo, sean mexicanos o extranjeros los responsables.
 
-Los sujetos obligados a cumplir las disposiciones de esta Ley deberán observar que la administración de los recursos públicos federales se realice con base en criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas y equidad de género.
+4o.- Cuando se cometa algún delito no previsto en este Código, pero sí en una ley especial del Estado, se aplicará ésta, observando supletoriamente las disposiciones de este Código en lo no previsto por aquélla.
 
-La Auditoría fiscalizará el estricto cumplimiento de las disposiciones de esta Ley por parte de los sujetos obligados, conforme a las atribuciones que le confieren la Constitución Política de los Estados Unidos Mexicanos y la Ley de Fiscalización Superior de la Federación.
+## TITULO PRIMERO.
 
-###### Artículo 2.
+Responsabilidad Penal.
 
-Para efectos de esta Ley, se entenderá por:
+### CAPITULO I.
 
-I. Actividad institucional: las acciones sustantivas o de apoyo que realizan los ejecutores de gasto con el fin de dar cumplimiento a los objetivos y metas contenidos en los programas, de conformidad con las atribuciones que les señala su respectiva ley orgánica o el ordenamiento jurídico que les es aplicable;
+Reglas generales sobre delitos y responsabilidad.
 
-II. Adecuaciones presupuestarias: las modificaciones a las estructuras funcional programática, administrativa, y económica, a los calendarios de presupuesto y las ampliaciones y reducciones al Presupuesto de Egresos o a los flujos de efectivo correspondientes, siempre que permitan un mejor cumplimiento de los objetivos de los programas a cargo de los ejecutores de gasto;
+5o.- Delito es el acto u omisión que sancionan las leyes penales.
 
-III. Ahorro presupuestario: los remanentes de recursos del presupuesto modificado una vez que se hayan cumplido las metas establecidas;
+6o.- Los delitos pueden ser:
 
-> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2014)</small>
+I.- Intencionales;
 
-III Bis. Anexos Transversales: anexos del Presupuesto donde concurren Programas Presupuestarios, componentes de éstos y/o Unidades Responsables, cuyos recursos son destinados a obras, acciones y servicios vinculados con el desarrollo de los siguientes sectores: Igualdad entre Mujeres y Hombres; Atención de Niños, Niñas y Adolescentes; Desarrollo Integral de los Pueblos y Comunidades Indígenas; Desarrollo de los Jóvenes; Programa Especial Concurrente para el Desarrollo Rural Sustentable; Programa de Ciencia, Tecnología e Innovación; Estrategia Nacional para la Transición Energética y el Aprovechamiento Sustentable de la Energía; Atención a Grupos Vulnerables; y los Recursos para la Mitigación de los efectos del Cambio Climático;
+II.- Culposos y,
 
-IV. Auditoría: la Auditoría Superior de la Federación;
+III.- Preterintencionales.
 
-V. Clasificador por objeto del gasto: el instrumento que permite registrar de manera ordenada, sistemática y homogénea las compras, los pagos y las erogaciones autorizados en capítulos, conceptos y partidas con base en la clasificación económica del gasto. Este clasificador permite formular y aprobar el proyecto de Presupuesto de Egresos desde la perspectiva económica y dar seguimiento a su ejercicio;
+El delito es intencional cuando se causa un resultado querido o aceptado, o cuando el resultado es consecuencia necesaria de la acción realizada u omisión cometida.
 
-VI. Cuenta Pública: la Cuenta de la Hacienda Pública Federal;
+El delito es culposo cuando se causa el resultado por negligencia, imprevisión, imprudencia, impericia, falta de reflexión o de cuidado, y en general, todo acto u omisión en que el infractor no haya buscado con ello la producción del resultado dañoso sobrevenido.
 
-VII. Déficit presupuestario: el financiamiento que cubre la diferencia entre los montos previstos en la Ley de Ingresos y el Presupuesto de Egresos y aquélla entre los ingresos y los gastos en los presupuestos de las entidades;
+Existe preterintencionalidad, cuando se causa daño mayor que el que se quiso causar, habiendo dolo directo respecto del daño querido, con relación al daño causado.
 
-> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+7o.- La intención de violar la ley se presume, por el solo hecho de cometer un delito o participar en cualquier forma en su ejecución, salvo prueba en contrario.
 
-VIII. Dependencias: las Secretarías de Estado, incluyendo a sus respectivos órganos administrativos desconcentrados; órganos reguladores coordinados en materia energética y la Consejería Jurídica del Ejecutivo Federal conforme a lo dispuesto en la Ley Orgánica de la Administración Pública Federal. Asimismo, aquellos ejecutores de gasto a quienes se les otorga un tratamiento equivalente en los términos del artículo 4 de esta Ley;
+La presunción establecida en el párrafo anterior no se destruye, aunque el infractor pruebe alguna de las siguientes circunstancias:
 
-IX. Dependencias coordinadoras de sector: las dependencias que designe el Ejecutivo Federal en los términos de la Ley Orgánica de la Administración Pública Federal, para orientar y coordinar la planeación, programación, presupuestación, ejercicio y evaluación del gasto de las entidades que queden ubicadas en el sector bajo su coordinación;
+I.- Que no se propuso ofender a determinada persona, si tuvo en general intención de causar daño;
 
-X. Economías: los remanentes de recursos no devengados del presupuesto modificado;
+II.- Que no se propuso causar el daño que resultó, si éste fue consecuencia necesaria y notoria del hecho u omisión en que consistió el delito; o si el inculpado previó o pudo preveer (sic) esa consecuencia, por ser efecto ordinario del hecho u omisión y estar al alcance del común de las gentes; o si se resolvió a violar la ley, fuera cual fuese el resultado;
 
-XI. Eficacia en la aplicación del gasto público: lograr en el ejercicio fiscal los objetivos y las metas programadas en los términos de esta Ley y demás disposiciones aplicables;
+III.- Que creía que la ley era injusta o moralmente lícito violarla;
 
-XII. Eficiencia en el ejercicio del gasto público: el ejercicio del Presupuesto de Egresos en tiempo y forma, en los términos de esta Ley y demás disposiciones aplicables;
+IV.- Que creía que era legítimo el fin que se propuso. Los Jueces, para aplicar la presente fracción, tomarán en cuenta si el hecho en que descansa la creencia del agente, se determina por la ley, como generador de un delito de culpa o si tal creencia está fundada en motivos racionales, en cuyo caso, se destruirá la presunción de existencia de dolo;
 
-XIII. Ejecutores de gasto: los Poderes Legislativo y Judicial, los entes autónomos a los que se asignen recursos del Presupuesto de Egresos a través de los ramos autónomos, así como las dependencias y entidades, que realizan las erogaciones a que se refiere el artículo 4 de esta Ley con cargo al Presupuesto de Egresos;
+V.- Que erró sobre la persona o cosa en que se propuso cometer el delito;
 
-XIV. Endeudamiento neto: la diferencia entre las disposiciones y amortizaciones efectuadas de las obligaciones constitutivas de deuda pública, al cierre del ejercicio fiscal;
+VI.- Que obró con el consentimiento del ofendido exceptuando los casos de que habla el artículo 110 de este Código. Cuando alguien por error, comete un delito en perjuicio de persona distinta de aquella contra la que iba dirigida su acción, no se le imputarán las circunstancias que deriven de la cualidad del ofendido, tomándose en consideración para los efectos de la sanción, las circunstancias subjetivas en las que deliberó y ejecutó el delito, así como las cualidades inherentes a la persona contra la que dirigía su acción.
 
-XV. Entes autónomos: las personas de derecho público de carácter federal con autonomía en el ejercicio de sus funciones y en su administración, creadas por disposición expresa de la Constitución Política de los Estados Unidos Mexicanos a las que se asignen recursos del Presupuesto de Egresos a través de los ramos autónomos;
+8o.- La responsabilidad penal no pasa de la persona y bienes de los delincuentes, excepto en los casos especificados en la ley.
 
-XVI. Entidades: los organismos descentralizados, empresas de participación estatal y fideicomisos públicos, que de conformidad con la Ley Orgánica de la Administración Pública Federal sean considerados entidades paraestatales;
+9o.- Cuando algún miembro o representante de una persona moral, de una sociedad, corporación o empresa de cualquier clase, con excepción de las Instituciones del Estado, comete un delito con los medios que para tal objeto las mismas entidades le proporcionan, de modo que resulta cometido a nombre o bajo el amparo de la representación social o a beneficio de ella, los tribunales podrán sujetarla a proceso, para el efecto de decretar en la sentencia, las sanciones correspondientes, que pueden traducirse en la suspensión o disolución de la agrupación, cuando lo estimen necesario para la seguridad pública, sin perjuicio de la responsabilidad individual en que hubieren incurrido los autores de los delitos cometidos.
 
-XVII. Entidades coordinadas: las entidades que el Ejecutivo Federal agrupe en los sectores coordinados por las dependencias, en los términos de la Ley Orgánica de la Administración Pública Federal;
+10.- El perdón o el consentimiento del ofendido no impiden la aplicación de las sanciones que correspondan salvo que se trate de infracciones que solo pueden perseguirse previa querella en relación con el artículo 110 de éste Código.
 
-XVIII. Entidades no coordinadas: las entidades que no se encuentren agrupadas en los sectores coordinados por las dependencias;
+### CAPITULO II.
 
-XIX. Entidades de control directo: las entidades cuyos ingresos están comprendidos en su totalidad en la Ley de Ingresos y sus egresos forman parte del gasto neto total;
+Personas responsables de los delitos.
 
-XX. Entidades de control indirecto: las entidades cuyos ingresos propios no están comprendidos en la Ley de Ingresos, y sus egresos no forman parte del gasto neto total, salvo aquellos subsidios y transferencias que en su caso reciban;
+11.- Los delitos son imputables a todos los que hayan cumplido dieciséis años de edad.
 
-XXI. Entidades federativas: los estados de la Federación y el Distrito Federal;
+12.- Son responsables de los delitos:
 
-XXII. Estructura Programática: el conjunto de categorías y elementos programáticos ordenados en forma coherente, el cual define las acciones que efectúan los ejecutores de gasto para alcanzar sus objetivos y metas de acuerdo con las políticas definidas en el Plan Nacional de Desarrollo y en los programas y presupuestos, así como ordena y clasifica las acciones de los ejecutores de gasto para delimitar la aplicación del gasto y permite conocer el rendimiento esperado de la utilización de los recursos públicos;
+Todos los que tomen parte en la concepción, preparación o ejecución de los mismos, o presten auxilio o cooperación de cualquier especie, por concierto previo o posterior, o sin él, o induzcan directamente a alguno a cometerlo.
 
-XXIII. Flujo de efectivo: el registro de las entradas y salidas de recursos efectivos en un ejercicio fiscal;
+Los Jueces podrán aumentar o disminuir la sanción respectiva, dentro de los límites fijados por la ley, según la participación de cada responsable.
 
-> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+13.- Si varios responsables toman parte en la ejecución de un delito determinado, y alguno de ellos comete un delito diverso, sin previo acuerdo con los otros, todos serán responsables de la comisión del nuevo delito, salvo que concurran los requisitos siguientes:
 
-XXIII BIS. Fondo Mexicano del Petróleo: el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, a que se refieren el artículo 28, párrafo sexto de la Constitución y los transitorios Décimo Cuarto y Décimo Quinto del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en Materia de Energía, publicado en el Diario Oficial de la Federación el 20 de diciembre de 2013;
+I.- Que el nuevo delito no sirva de medio adecuado para cometer el principal;
 
-XXIV. Función Pública: la Secretaría de la Función Pública;
+II.- Que aquél no sea consecuencia necesaria o natural de éste o de los medios concertados;
 
-> <small>(ADICIONADA, D.O.F. 24 DE ENERO DE 2014)</small>
+III.- Que no hayan sabido antes que se iba a cometer el nuevo delito; y
 
-XXIV Bis. Gasto corriente estructural: el monto correspondiente al gasto neto total, excluyendo los gastos por concepto de costo financiero, participaciones a las entidades federativas, a los municipios y demarcaciones territoriales del Distrito Federal, adeudos de ejercicios fiscales anteriores, combustibles utilizados para la generación de electricidad, pago de pensiones y jubilaciones del sector público, y la inversión física y financiera directa de la Administración Pública Federal;
-
-XXV. Gasto neto total: la totalidad de las erogaciones aprobadas en el Presupuesto de Egresos con cargo a los ingresos previstos en la Ley de Ingresos, las cuales no incluyen las amortizaciones de la deuda pública y las operaciones que darían lugar a la duplicidad en el registro del gasto;
-
-XXVI. Gasto total: la totalidad de las erogaciones aprobadas en el Presupuesto de Egresos con cargo a los ingresos previstos en la Ley de Ingresos y, adicionalmente, las amortizaciones de la deuda pública y las operaciones que darían lugar a la duplicidad en el registro del gasto;
-
-XXVII. Gasto programable: las erogaciones que la Federación realiza en cumplimiento de sus atribuciones conforme a los programas para proveer bienes y servicios públicos a la población;
-
-XXVIII. Gasto no programable: las erogaciones a cargo de la Federación que derivan del cumplimiento de obligaciones legales o del Decreto de Presupuesto de Egresos, que no corresponden directamente a los programas para proveer bienes y servicios públicos a la población;
-
-XXIX. Informes trimestrales: los Informes sobre la Situación Económica, las Finanzas Públicas y la Deuda Pública que el Ejecutivo Federal presenta trimestralmente al Congreso de la Unión;
-
-XXX. Ingresos excedentes: los recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos o en su caso respecto de los ingresos propios de las entidades de control indirecto;
-
-> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
-
-XXX BIS. Ingresos Petroleros: los recursos que reciba el Gobierno Federal por la suma de las transferencias desde el Fondo Mexicano del Petróleo que se incluyan en la Ley de Ingresos y el Presupuesto de Egresos para cubrir los conceptos señalados en el artículo 16, fracción II, incisos a) a g) de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y la recaudación por el impuesto sobre la renta que se genere por los contratos y asignaciones a que se refiere el párrafo séptimo del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;
-
-XXXI. Ingresos propios: los recursos que por cualquier concepto obtengan las entidades, distintos a los recursos por concepto de subsidios y transferencias, conforme a lo dispuesto en el artículo 52 de la Ley Federal de las Entidades Paraestatales;
-
-> <small>(ADICIONADA, D.O.F. 24 DE ENERO DE 2014)</small>
-
-XXXI Bis. Inversión física y financiera directa: las erogaciones que tienen como contraprestación la constitución de un activo;
-
-XXXII. Ley de Ingresos: la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente;
-
-> <small>(ADICIONADA, D.O.F. 24 DE ENERO DE 2014)</small>
-
-XXXII Bis. Límite máximo del gasto corriente estructural: es el gasto corriente estructural de la última Cuenta Pública disponible al momento de presentar a la Cámara de Diputados la iniciativa de Ley de Ingresos y el proyecto de Presupuesto de Egresos, más un incremento real por cada año, que deberá ser menor a la tasa anual de crecimiento potencial del Producto Interno Bruto y que será determinado en términos del Reglamento;
-
-XXXIII. Percepciones extraordinarias: los estímulos, reconocimientos, recompensas, incentivos, y pagos equivalentes a los mismos, que se otorgan de manera excepcional a los servidores públicos, condicionados al cumplimiento de compromisos de resultados sujetos a evaluación; así como el pago de horas de trabajo extraordinarias y demás asignaciones de carácter excepcional autorizadas en los términos de la legislación laboral y de esta Ley;
-
-XXXIV. Percepciones ordinarias: los pagos por sueldos y salarios, conforme a los tabuladores autorizados y las respectivas prestaciones, que se cubren a los servidores públicos de manera regular como contraprestación por el desempeño de sus labores cotidianas en los Poderes Legislativo y Judicial, los entes autónomos, y las dependencias y entidades donde prestan sus servicios, así como los montos correspondientes a los incrementos a las remuneraciones que, en su caso, se hayan aprobado para el ejercicio fiscal;
-
-XXXV. Presupuesto de Egresos: el Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente, incluyendo el decreto, los anexos y tomos;
-
-XXXVI. Presupuesto devengado: el reconocimiento de las obligaciones de pago por parte de los ejecutores de gasto a favor de terceros, por los compromisos o requisitos cumplidos por éstos conforme a las disposiciones aplicables, así como de las obligaciones de pago que se derivan por mandato de tratados, leyes o decretos, así como resoluciones y sentencias definitivas, y las erogaciones a que se refiere el artículo 49 de esta Ley;
-
-XXXVII. Presupuesto regularizable de servicios personales: las erogaciones que con cargo al Presupuesto de Egresos implican un gasto permanente en subsecuentes ejercicios fiscales en materia de servicios personales, por concepto de percepciones ordinarias, y que se debe informar en un apartado específico en el proyecto de Presupuesto de Egresos;
-
-XXXVIII. Programas de inversión: las acciones que implican erogaciones de gasto de capital destinadas tanto a obra pública en infraestructura como a la adquisición y modificación de inmuebles, adquisiciones de bienes muebles asociadas a estos programas, y rehabilitaciones que impliquen un aumento en la capacidad o vida útil de los activos de infraestructura e inmuebles, y mantenimiento;
-
-XXXIX. Proyectos de inversión: las acciones que implican erogaciones de gasto de capital destinadas a obra pública en infraestructura;
-
-XL. Ramo: la previsión de gasto con el mayor nivel de agregación en el Presupuesto de Egresos;
-
-> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
-
-XLI. Ramos administrativos: los ramos por medio de los cuales se asignan recursos en el Presupuesto de Egresos a las dependencias y en su caso entidades, a la Presidencia de la República y a los tribunales administrativos;
-
-XLII. Ramos autónomos: los ramos por medio de los cuales se asignan recursos en el Presupuesto de Egresos a los Poderes Legislativo y Judicial, y a los entes autónomos;
-
-XLIII. Ramos generales: los ramos cuya asignación de recursos se prevé en el Presupuesto de Egresos derivada de disposiciones legales o por disposición expresa de la Cámara de Diputados en el Presupuesto de Egresos, que no corresponden al gasto directo de las dependencias, aunque su ejercicio esté a cargo de éstas;
-
-XLIV. Reglamento: el Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
-
-XLV. Reglas de operación: las disposiciones a las cuales se sujetan determinados programas y fondos federales con el objeto de otorgar transparencia y asegurar la aplicación eficiente, eficaz, oportuna y equitativa de los recursos públicos asignados a los mismos;
-
-XLVI. Remuneraciones: la retribución económica que constitucionalmente corresponda a los servidores públicos por concepto de percepciones ordinarias y, en su caso, percepciones extraordinarias;
-
-> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2014)</small>
-
-XLVII. Requerimientos financieros del sector público: las necesidades de financiamiento del Gobierno Federal y las entidades del sector público federal, que cubre la diferencia entre los ingresos y los gastos distintos de la adquisición neta de pasivos y activos financieros, incluyendo las actividades del sector privado y social cuando actúan por cuenta del Gobierno Federal o las entidades;
-
-> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
-
-XLVII BIS. Reserva del Fondo: los activos del Fondo Mexicano del Petróleo destinados al ahorro de largo plazo en términos del Título Quinto de esta Ley;
-
-XLVIII. Responsabilidad Hacendaria: la observancia de los principios y las disposiciones de esta Ley, la Ley de Ingresos, el Presupuesto de Egresos y los ordenamientos jurídicos aplicables que procuren el equilibrio presupuestario, la disciplina fiscal y el cumplimiento de las metas aprobadas por el Congreso de la Unión;
-
-XLIX. Saldo histórico de los requerimientos financieros del sector público: los pasivos que integran los requerimientos financieros del sector público menos los activos financieros disponibles, en virtud de la trayectoria anual observada a lo largo del tiempo de los citados requerimientos;
-
-L. Secretaría: la Secretaría de Hacienda y Crédito Público;
-
-LI. Sistema de Evaluación del Desempeño: el conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión que permitan conocer el impacto social de los programas y de los proyectos;
-
-LII. Subejercicio de gasto: las disponibilidades presupuestarias que resultan, con base en el calendario de presupuesto, sin cumplir las metas contenidas en los programas o sin contar con el compromiso formal de su ejecución;
-
-LIII. Subsidios: las asignaciones de recursos federales previstas en el Presupuesto de Egresos que, a través de las dependencias y entidades, se otorgan a los diferentes sectores de la sociedad, a las entidades federativas o municipios para fomentar el desarrollo de actividades sociales o económicas prioritarias de interés general;
-
-LIV. Transferencias: las asignaciones de recursos federales previstas en los presupuestos de las dependencias, destinadas a las entidades bajo su coordinación sectorial o en su caso, a los órganos administrativos desconcentrados, para sufragar los gastos de operación y de capital, incluyendo el déficit de operación y los gastos de administración asociados al otorgamiento de subsidios, así como las asignaciones para el apoyo de programas de las entidades vinculados con operaciones de inversión financiera o para el pago de intereses, comisiones y gastos, derivados de créditos contratados en moneda nacional o extranjera;
-
-> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
-
-LIV BIS. Transferencias del Fondo Mexicano del Petróleo: aquéllas a que se refiere el artículo 16 de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, que el Fondo Mexicano del Petróleo debe realizar en los términos del Título Quinto de la presente Ley;
-
-LV. Tribunales administrativos: Los órganos conformados con tal carácter en las leyes federales, tales como el Tribunal Federal de Justicia Fiscal y Administrativa, y los Tribunales Agrarios;
-
-LVI. Unidades de administración: los órganos o unidades administrativas de los ejecutores de gasto, establecidos en los términos de sus respectivas leyes orgánicas, encargados de desempeñar las funciones a que se refiere el último párrafo del artículo 4 de esta Ley, y
-
-LVII. Unidad responsable: al área administrativa de los Poderes Legislativo y Judicial, los entes autónomos, las dependencias y, en su caso, las entidades que está (sic) obligada a la rendición de cuentas sobre los recursos humanos, materiales y financieros que administra para contribuir al cumplimiento de los programas comprendidos en la estructura programática autorizada al ramo o entidad.
-
-Los conceptos utilizados en la presente Ley que requieran ser precisados y que no se encuentren incluidos en este apartado, deberán incluirse en el Reglamento.
-
-###### Artículo 3.
-
-La interpretación de esta Ley, para efectos administrativos y exclusivamente en el ámbito de competencia del Ejecutivo Federal, corresponde a la Secretaría y a la Función Pública en el ámbito de sus respectivas atribuciones. La Ley Federal de Procedimiento Administrativo y el Código Fiscal de la Federación serán supletorios de esta Ley en lo conducente.
-
-Las dependencias y entidades deberán observar las disposiciones generales que emitan la Secretaría y la Función Pública, en el ámbito de sus respectivas atribuciones, para dar correcta aplicación a lo dispuesto en esta Ley y el Reglamento. En el caso de los Poderes Legislativo y Judicial y de los entes autónomos, sus respectivas unidades de administración podrán establecer las disposiciones generales correspondientes.
-
-Las disposiciones generales a que se refiere el párrafo anterior deberán publicarse en el Diario Oficial de la Federación.
-
-###### Artículo 4.
-
-El gasto público federal comprende las erogaciones por concepto de gasto corriente, incluyendo los pagos de pasivo de la deuda pública; inversión física; inversión financiera; así como responsabilidad patrimonial; que realizan los siguientes ejecutores de gasto:
-
-I. El Poder Legislativo;
-
-II. El Poder Judicial;
-
-III. Los entes autónomos;
-
-IV. Los tribunales administrativos;
-
-V. (DEROGADA, D.O.F. 20 DE MAYO DE 2021)
-
-VI. La Presidencia de la República;
-
-VII. Las dependencias, y
-
-VIII. Las entidades.
-
-Los ejecutores de gasto antes mencionados están obligados a rendir cuentas por la administración de los recursos públicos en los términos de la presente Ley y demás disposiciones aplicables.
-
-Las disposiciones presupuestarias y administrativas fortalecerán la operación y la toma de decisiones de los ejecutores, procurando que exista un adecuado equilibrio entre el control, el costo de la fiscalización, el costo de la implantación y la obtención de resultados en los programas y proyectos.
-
-> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
-
-La Presidencia de la República se sujetará a las mismas disposiciones que rigen a las dependencias. Asimismo, los tribunales administrativos se sujetarán a las disposiciones aplicables a las dependencias, así como a lo dispuesto en sus leyes específicas dentro del margen de autonomía previsto en el artículo 5 de esta Ley.
-
-Los ejecutores de gasto contarán con una unidad de administración, encargada de planear, programar, presupuestar, en su caso establecer medidas para la administración interna, controlar y evaluar sus actividades respecto al gasto público.
-
-###### Artículo 5.
-
-La autonomía presupuestaria otorgada a los ejecutores de gasto a través de la Constitución Política de los Estados Unidos Mexicanos o, en su caso, de disposición expresa en las leyes de su creación, comprende:
-
-I. En el caso de los Poderes Legislativo y Judicial y los entes autónomos, conforme a las respectivas disposiciones constitucionales, las siguientes atribuciones:
-
-a) Aprobar sus proyectos de presupuesto y enviarlos a la Secretaría para su integración al proyecto de Presupuesto de Egresos, observando los criterios generales de política económica;
-
-b) Ejercer sus presupuestos observando lo dispuesto en esta Ley, sin sujetarse a las disposiciones generales emitidas por la Secretaría y la Función Pública. Dicho ejercicio deberá realizarse con base en los principios de eficiencia, eficacia y transparencia y estarán sujetos a la normatividad, la evaluación y el control de los órganos correspondientes;
-
-c) Autorizar las adecuaciones a sus presupuestos sin requerir la autorización de la Secretaría, observando las disposiciones de esta Ley;
-
-d) Realizar sus pagos a través de sus respectivas tesorerías o sus equivalentes;
-
-e) Determinar los ajustes que correspondan en sus presupuestos en caso de disminución de ingresos, observando en lo conducente lo dispuesto en el artículo 21 de esta Ley;
-
-f) Llevar la contabilidad y elaborar sus informes conforme a lo previsto en esta Ley, así como enviarlos a la Secretaría para su integración a los informes trimestrales y a la Cuenta Pública;
-
-II. En el caso de las entidades, conforme a las respectivas disposiciones contenidas en las leyes o decretos de su creación:
-
-a) Aprobar sus proyectos de presupuesto y enviarlos a la Secretaría para su integración al proyecto de Presupuesto de Egresos, observando los criterios generales de política económica y los techos globales de gasto establecidos por el Ejecutivo Federal;
-
-b) Ejercer sus presupuestos observando lo dispuesto en esta Ley, sujetándose a las disposiciones generales que correspondan emitidas por la Secretaría y la Función Pública. Dicho ejercicio deberá realizarse con base en los principios de eficiencia, eficacia y transparencia y estará sujeto a la evaluación y el control de los órganos correspondientes;
-
-c) Autorizar las adecuaciones a sus presupuestos sin requerir la autorización de la Secretaría, siempre y cuando no rebasen el techo global de su flujo de efectivo aprobado en el Presupuesto de Egresos;
-
-d) Ejercer las atribuciones a que se refieren los incisos d), e) y f) de la fracción anterior, y
-
-III. En el caso de los órganos administrativos desconcentrados con autonomía presupuestaria por disposición de ley, las siguientes atribuciones:
-
-a) Aprobar sus anteproyectos de presupuesto y enviarlos a la Secretaría, por conducto de la dependencia a la que se encuentren adscritos, para su integración al proyecto de Presupuesto de Egresos, observando los criterios generales de política económica y los techos globales de gasto establecidos por el Ejecutivo Federal;
-
-b) Ejercer las erogaciones que les correspondan conforme a lo aprobado en el Presupuesto de Egresos y a lo dispuesto en esta Ley;
-
-c) Ejercer las atribuciones a que se refieren los incisos d) y f) de la fracción I del presente artículo.
-
-> <small>(REFORMADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
-
-Los ejecutores de gasto público que cuenten con autonomía presupuestaria deberán sujetarse a lo previsto en esta Ley y a las disposiciones específicas contenidas en las leyes de su creación, sujetándose al margen de autonomía establecido en el presente artículo. Las empresas productivas del Estado y sus empresas productivas subsidiarias se sujetarán exclusivamente a lo dispuesto en sus respectivas leyes.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
-
-###### Artículo 6.
-
-El Ejecutivo Federal, por conducto de la Secretaría, estará a cargo de la programación, presupuestación, evaluación y control presupuestario del gasto público federal correspondiente a las dependencias y entidades. Asimismo, la Función Pública, en términos de las disposiciones jurídicas que rigen sus funciones de control y auditoría, inspeccionará y vigilará el cumplimiento de las disposiciones de esta Ley y de las que de ella emanen, respecto de dicho gasto por parte de las dependencias y entidades.
-
-Los Poderes Legislativo y Judicial y los entes autónomos, por conducto de sus respectivas unidades de administración, deberán coordinarse con la Secretaría para efectos de la programación y presupuestación en los términos previstos en esta Ley. El control y la evaluación de dicho gasto corresponderán a los órganos competentes, en los términos previstos en sus respectivas leyes orgánicas.
-
-###### Artículo 7.
-
-Las dependencias coordinadoras de sector orientarán y coordinarán la planeación, programación, presupuestación, control y evaluación del gasto público de las entidades ubicadas bajo su coordinación.
-
-En el caso de las entidades no coordinadas, corresponderá a la Secretaría orientar y coordinar las actividades a que se refiere este artículo.
-
-###### Artículo 8.
-
-El Ejecutivo Federal autorizará, por conducto de la Secretaría, la participación estatal en las empresas, sociedades y asociaciones, civiles o mercantiles, ya sea en su creación, para aumentar su capital o patrimonio o adquiriendo todo o parte de éstos en los términos de la Ley Federal de las Entidades Paraestatales.
-
-###### Artículo 9.
-
-Son fideicomisos públicos los que constituye el Gobierno Federal, por conducto de la Secretaría en su carácter de fideicomitente única de la administración pública centralizada, o las entidades, con el propósito de auxiliar al Ejecutivo Federal en las atribuciones del Estado para impulsar las áreas prioritarias y estratégicas del desarrollo. Asimismo, son fideicomisos públicos aquéllos que constituyan los Poderes Legislativo y Judicial y los entes autónomos a los que se asignen recursos del Presupuesto de Egresos a través de los ramos autónomos.
-
-Los fideicomisos públicos considerados entidades en términos de lo dispuesto por la Ley Orgánica de la Administración Pública Federal y la Ley Federal de las Entidades Paraestatales podrán constituirse o incrementar su patrimonio con autorización del Ejecutivo Federal, emitida por conducto de la Secretaría, la que en su caso, propondrá al titular del Ejecutivo Federal la modificación o extinción de los mismos cuando así convenga al interés público.
-
-Los fideicomisos públicos no considerados entidades sólo podrán constituirse con la autorización de la Secretaría en los términos del Reglamento. Quedan exceptuados de esta autorización aquellos fideicomisos que constituyan las entidades no apoyadas presupuestariamente.
-
-Las dependencias y entidades sólo podrán otorgar recursos públicos a fideicomisos observando lo siguiente:
-
-I. Con autorización indelegable de su titular;
-
-II. Previo informe y autorización de la Secretaría, en los términos del Reglamento, y
-
-III. A través de las partidas específicas que para tales fines prevea el Clasificador por objeto del gasto.
-
-La unidad responsable de la dependencia o entidad con cargo a cuyo presupuesto se hayan otorgado los recursos o que coordine su operación será responsable de reportar en los informes trimestrales, conforme lo establezca el Reglamento, los ingresos, incluyendo rendimientos financieros del periodo, egresos, así como su destino y el saldo.
-
-Los fideicomisos públicos que tengan como objeto principal financiar programas y proyectos de inversión deberán sujetarse a las disposiciones generales en la materia.
-
-> <small>(DEROGADO SÉPTIMO PÁRRAFO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
-
-### CAPÍTULO II. Del Equilibrio Presupuestario y de los Principios de Responsabilidad Hacendaria
+IV.- Que no hayan estado presentes en la ejecución del nuevo delito, o que, habiendo estado, hayan hecho cuanto estaba de su parte para impedirlo.
 
 ###### Artículo 19.
 
@@ -413,24 +191,6 @@ El Ejecutivo Federal reportará en los informes trimestrales y la Cuenta Públic
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
-###### Artículo 19 Bis.
-
-El Ejecutivo Federal, por conducto de la Secretaría, deberá destinar los ingresos que correspondan al importe del remanente de operación que el Banco de México entere al Gobierno Federal en términos de la Ley del Banco de México, a lo siguiente:
-
-I. Cuando menos el setenta por ciento a la amortización de la deuda pública del Gobierno Federal contratada en ejercicios fiscales anteriores o a la reducción del monto de financiamiento necesario para cubrir el Déficit Presupuestario que, en su caso, haya sido aprobado para el ejercicio fiscal en que se entere el remanente, o bien, una combinación de ambos conceptos, y
-
-II. El monto restante, a fortalecer el Fondo de Estabilización de los Ingresos Presupuestarios o al incremento de activos que fortalezcan la posición financiera del Gobierno Federal.
-
-La Secretaría deberá dar a conocer la aplicación específica de los recursos del remanente de operación que, en su caso, hubiese recibido del Banco de México, así como la reducción que ésta hubiere generado en el Saldo Histórico de los Requerimientos Financieros del Sector Público, en el último informe trimestral del ejercicio fiscal de que se trate.
-
-(NOTA: EL 10 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 52/2022, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE OCTUBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO, D.O.F. 27 DE FEBRERO DE 2022)</small>
-
-###### Artículo 19 Ter.
-
-Los ingresos, por concepto de aprovechamientos, que correspondan a las disponibilidades O REMANENTES DE RECURSOS que los partidos políticos enteren a la Tesorería de la Federación en términos del artículo 23, numeral 1, inciso d), cuarto párrafo, de la Ley General de Partidos Políticos, podrán ser destinados por la Secretaría PREFERENTEMENTE para atender los efectos de cualquier desastre o fenómeno contemplado en la Ley General de Protección Civil o cualquier otro que ponga a la sociedad en grave peligro.
-
 ###### Artículo 20.
 
 Los Poderes Legislativo y Judicial y los entes autónomos podrán autorizar erogaciones adicionales a las aprobadas en sus respectivos presupuestos, con cargo a los ingresos excedentes que en su caso generen, siempre y cuando:
@@ -480,30 +240,6 @@ La Cámara de Diputados, por conducto de la Comisión de Presupuesto y Cuenta P�
 Los Poderes Legislativo y Judicial y los entes autónomos deberán coadyuvar al cumplimiento de las normas de disciplina presupuestaria a que se refiere el presente artículo, a través de ajustes a sus respectivos presupuestos, observando en lo conducente lo dispuesto en la fracción III. Asimismo, deberán reportar los ajustes realizados en los informes trimestrales y la Cuenta Pública.
 
 > <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
-
-###### Artículo 21 Bis.
-
-En la operación de los fondos de Estabilización de los Ingresos de las Entidades Federativas y de Estabilización de los Ingresos Presupuestarios a que se refieren los incisos a) y c) de la fracción IV del artículo 19 de esta Ley, se deberán observar, al menos, las siguientes directrices:
-
-I. El Fondo de Estabilización de los Ingresos de las Entidades Federativas tiene por finalidad lo establecido en el artículo 21, fracción II, párrafo segundo, de esta Ley;
-
-II. La finalidad del Fondo de Estabilización de los Ingresos Presupuestarios es aminorar el efecto sobre las finanzas públicas y la economía nacional cuando ocurran disminuciones de los ingresos del Gobierno Federal, con respecto a los estimados en la Ley de Ingresos, para propiciar condiciones que permitan cubrir el gasto previsto en el Presupuesto de Egresos;
-
-III. Los Fondos se constituirán como fideicomisos públicos sin estructura orgánica, en términos de la presente Ley y demás disposiciones aplicables;
-
-IV. El monto de recursos que, conforme a esta Ley, su Reglamento, las respectivas reglas de operación de los Fondos y otras disposiciones aplicables, se destinen a los fondos de estabilización referidos, se deberá calcular y depositar, conforme a los plazos determinados en dichos ordenamientos;
-
-V. Los recursos de los Fondos, en tanto no sean utilizados, deberán permanecer depositados en cuentas y, en su caso, subcuentas establecidas por la institución fiduciaria, de acuerdo con las instrucciones que para tal efecto realice la Secretaría y lo estipulado en el fideicomiso, según corresponda;
-
-VI. La política de inversión de los recursos que integran los fondos y, en su caso, los medios para la protección de los mismos, incluyendo la adquisición de coberturas, deberán determinarse por la Secretaría, de acuerdo con las reglas de operación correspondientes;
-
-VII. La Secretaría, conforme a las disposiciones aplicables, reportará al Congreso de la Unión acerca de los ingresos, egresos y reservas de los fondos, en los Informes Trimestrales, y
-
-VIII. Las reglas de operación del Fondo de Estabilización de los Ingresos de las Entidades Federativas deberán prever, al menos, lo siguiente:
-
-a) Se podrán realizar compensaciones provisionales durante el ejercicio fiscal correspondiente, con base en una proyección de las finanzas públicas que elabore la Secretaría, en la que se determine la disminución de las participaciones a las entidades federativas, y
-
-b) En el supuesto de que las cantidades entregadas mediante dichas compensaciones sean superiores a la disminución de las participaciones a las entidades federativas observada al cierre del ejercicio fiscal, las Entidades Federativas deberán realizar el reintegro de recursos que corresponda al Fondo dentro de los 10 días siguientes a que se les comunique el monto respectivo de dicho reintegro.
 
 ###### Artículo 22.
 
@@ -667,7 +403,57 @@ El Reglamento establecerá los casos y procedimientos en los que podrán utiliza
 
 El Ejecutivo Federal, por conducto de la Secretaría, elaborará la iniciativa de Ley de Ingresos para el ejercicio fiscal correspondiente, con un precio que no exceda el precio de referencia que se prevé en este artículo.
 
-### CAPÍTULO I. De la Programación y Presupuestación
+### CAPITULO III.
+
+Circunstancias excluyentes de responsabilidad.
+
+14.- Excluyen la responsabilidad penal del agente en la comisión de un delito y por lo mismo lo exoneran de toda pena, las siguientes circunstancias:
+
+I.- Obrar el acusado impulsado por una fuerza física exterior irresistible;
+
+II.- Hallarse el acusado, al cometer el delito, en un estado de inconsciencia de sus actos, determinado por el empleo accidental e involuntario de substancias tóxicas, embriagantes o estupefacientes, o por un estado tóxico-infeccioso agudo, o por un trastorno mental involuntario de carácter patológico y transitorio;
+
+III.- El miedo grave o el temor fundado e irresistible de un mal inminente y grave en la persona del contraventor, o la necesidad de salvar su propia persona o sus bienes, o persona o bienes de otro, de un peligro real, grave e inminente, siempre que no exista otro medio practicable y menos perjudicial.
+
+No se considerará que obra en estado de necesidad aquél, que, por su empleo o cargo, tenga el deber legal de sufrir el peligro.
+
+IV.- Ejecutar un delito que sólo lo es por circunstancias del ofendido, si el acusado las ignoraba inculpablemente al tiempo de obrar;
+
+V.- Causar un daño por mero accidente, sin intención ni culpa alguna, ejecutando un hecho lícito con todas las precauciones debidas;
+
+VI.- Obrar el acusado en defensa de su persona, de su honor o de sus bienes, o de la persona, honor o bienes de otro, repeliendo una agresión actual, violenta, sin derecho, y de la cual resulte un peligro inminente; a no ser que se pruebe que intervino alguna de las circunstancias siguientes:
+
+Primera.- Que el agredido provocó la agresión, dando causa inmediata y suficiente para ella;
+
+Segunda.- Que previó la agresión y pudo fácilmente evitarla por otros medios legales;
+
+Tercera.- Que no hubo necesidad racional del medio empleado en la defensa;
+
+Cuarta.- Que el daño que iba a causar el agresor, era fácilmente reparable después por medios legales, o era notoriamente de poca importancia comparada con el que causó la defensa.
+
+Se presumirá que concurren los requisitos de la legítima defensa, respecto de aquél que durante la noche, rechazare, en el momento mismo de estarse realizando, el escalamiento o rompimiento de las cercas, paredes o entradas de su casa o departamento habitado o de sus dependencias, cualquiera que sea el daño causado al agresor.
+
+Igual presunción favorecerá al que causare cualquier daño a un extraño a quien sorprendiere: en la habitación u hogar propios, de su familia o de cualquiera otra persona que tenga la misma obligación legal de defender, o en el local donde se encuentren bienes propios o respecto de los que tenga la misma obligación, siempre que la presencia del extraño ocurra de noche o en circunstancias tales que revelen la posibilidad de una agresión.
+
+La presunción de obrar en legítima defensa que establecen los párrafos próximos anteriores, tendrá también aplicación y surtirá los efectos indicados en este artículo, cuando los hechos que ella prevee (sic) se ejecuten de día en paraje solitario, para todos los efectos legales se considera como paraje solitario, no sólo el que está despoblado, sino también el que se halle dentro de una población, si por cualquier circunstancia no encuentra el agredido a quien pedir socorro;
+
+VII.- Obrar en cumplimiento de un deber, o en el ejercicio de un derecho consignado en la Ley;
+
+VIII.- Obedecer a un superior legítimo, en el orden jerárquico, aún cuando su mandato constituya un delito si esta circunstancia no es notoria ni se prueba que el acusado la conocía;
+
+IX.- Contravenir las disposiciones de la Ley dejando de hacer lo que manda, por impedimento legítimo;
+
+X.- Ocultar al autor de un delito o los efectos, objetos o instrumentos del mismo, o impedir que se averigüe, cuando no se hiciere por un interés bastardo y no se empleare algún medio reprobado por la Ley, siempre que se trate de:
+
+a).- Los ascendientes y descendientes consanguíneos o afines;
+
+b).- El cónyuge y parientes colaterales por consanguinidad hasta el cuarto grado y por afinidad hasta el segundo;
+
+c).- Los que están ligados con el responsable por amor, respeto, gratitud o estrecha amistad.
+
+15.- El exceso en la legítima defensa constituído por el hecho de intervenir la tercera o cuarta circunstancia de las enumeradas en la segunda parte de la fracción VI del artículo que antecede, será considerado como delincuente por imprudencia.
+
+16.- Las circunstancias excluyentes de responsabilidad penal se harán valer de oficio.
 
 ###### Artículo 32.
 
@@ -1039,9 +825,45 @@ III. Los servidores públicos responsables del sistema que controle las operacio
 
 Los Poderes Legislativo y Judicial y los entes autónomos establecerán sistemas de control presupuestario, observando en lo conducente lo dispuesto en las fracciones anteriores.
 
-## TÍTULO TERCERO. Del Ejercicio del Gasto Público Federal
+## TITULO SEGUNDO.
 
-### CAPÍTULO II. De la Ley de Ingresos y el Presupuesto de Egresos
+Penas y Medidas de Seguridad.
+
+### CAPITULO I.
+
+Reglas Generales.
+
+17.- Los Tribunales podrán aplicar como penas y medidas de seguridad, las siguientes:
+
+I.- Prisión;
+
+II.- Relegación;
+
+III.- Confinamiento;
+
+IV.- Prohibición de ir a determinado lugar; o de residir en él;
+
+V.- Sanción pecuniaria;
+
+VI.- Pérdida de los instrumentos del delito, decomiso o destrucción de cosas peligrosas o nocivas;
+
+VII.- Suspensión de derechos;
+
+VIII.- Inhabilitación, destitución o suspensión de cargos, empleos públicos o ejercicio de profesiones y actividades técnicas;
+
+IX.- Suspensión o disolución de sociedades;
+
+X.- Amonestación;
+
+XI.- Apercibimiento;
+
+XII.- Caución de no ofender;
+
+XIII.- Publicación especial de sentencia;
+
+XIV.- Sujeción a la vigilancia de la Policía;
+
+XV.- Las demás que fijen las leyes.
 
 ###### Artículo 46.
 
@@ -1137,7 +959,13 @@ Los Poderes Legislativo y Judicial y los entes autónomos, a través de sus resp
 
 Los ejecutores de gasto deberán incluir en los informes trimestrales un reporte sobre el monto total erogado durante el periodo, correspondiente a los contratos a que se refiere este artículo, así como incluir las previsiones correspondientes en sus anteproyectos de presupuesto para el siguiente ejercicio fiscal, en los términos de los artículos 32 y 41, fracción II, inciso g), de esta Ley.
 
-### CAPÍTULO III. De la Aprobación y los mecanismos de comunicación y coordinación entre Poderes
+### CAPITULO II.
+
+Prisión.
+
+18.- La prisión podrá ser de tres días a cuarenta años y consiste en la privación de la libertad en los reclusorios o centros de readaptación social, en los términos y con las modalidades previstas en la Ley de Ejecución de Sanciones Privativas y Medidas Restrictivas de Libertad para el Estado de Oaxaca.
+
+19.- Los procesados sujetos a prisión preventiva y los infractores políticos, serán recluidos en establecimientos o departamentos especiales.
 
 ###### Artículo 51.
 
@@ -1197,7 +1025,11 @@ Los Poderes Legislativo y Judicial y los entes autónomos, por conducto de sus r
 
 Los ejecutores de gasto no otorgarán garantías ni efectuarán depósitos para el cumplimiento de sus obligaciones de pago con cargo al Presupuesto de Egresos.
 
-### CAPÍTULO I. Del Ejercicio
+### CAPITULO III.
+
+Relegación.
+
+20.- La relegación en los lugares señalados exprofeso para la Readaptación Social, se aplicará a los infractores declarados judicialmente habituales o de alta peligrosidad y cuando expresamente lo determine la Ley.
 
 ###### Artículo 57.
 
@@ -1385,7 +1217,11 @@ XII. Las condiciones de trabajo, los beneficios económicos y las demás prestac
 
 Los titulares de las entidades, independientemente del régimen laboral que las regule, serán responsables de realizar los actos necesarios y la negociación que sea procedente, durante los procesos de revisión de las condiciones generales de trabajo o de los contratos colectivos de trabajo, así como durante las revisiones de salario anuales, para que los servidores públicos de mando y personal de enlace al servicio de las entidades queden expresamente excluidos del beneficio de las prestaciones aplicables al personal de base, en los términos del artículo 184 de la Ley Federal del Trabajo, en aplicación directa o supletoria según se trate, con excepción de las de seguridad social y protección al salario.
 
-### CAPÍTULO II. De la Ministración, el Pago y la Concentración de Recursos
+### CAPITULO IV.
+
+Confinamiento.
+
+21.- El confinamiento consiste en la obligación de residir en determinado lugar y no salir de él. El Juez hará la designación del lugar y fijará el tiempo que durará la pena, conciliando la exigencia de la tranquilidad pública con la salud y las necesidades del condenado.
 
 ###### Artículo 66.
 
@@ -1447,7 +1283,11 @@ La acción para exigir el pago de las remuneraciones prescribirá en un año con
 
 La prescripción sólo se interrumpe por gestión de cobro hecha por escrito.
 
-### CAPÍTULO III. De las Adecuaciones Presupuestarias
+### CAPITULO V.
+
+Prohibición de ir a determinado lugar o de residir en él.
+
+22.- La prohibición de ir a determinado lugar o de residir en él se extenderá únicamente a aquellos lugares en los que el infractor haya cometido el delito o en donde residieren el ofendido o sus familiares. El Juez fijará el tiempo que debe durar la medida, teniendo en cuenta las prevenciones del artículo anterior en cuanto sean aplicables.
 
 ###### Artículo 73.
 
@@ -1493,9 +1333,83 @@ Las transferencias destinadas a cubrir el déficit de operación y los gastos de
 
 Las dependencias y entidades deberán informar a la Secretaría previamente a la realización de cualquier modificación en el alcance o modalidades de sus programas, políticas de precios, adquisiciones, arrendamientos, garantías de compra o de venta, cambios en la población objetivo, o cualquier otra acción que implique variaciones en los subsidios y las transferencias. Cuando dichas modificaciones impliquen una adecuación presupuestaria o una modificación en los alcances de los programas, se requerirá autorización de la Secretaría conforme a lo establecido en los artículos 58 y 59 de esta Ley.
 
-### CAPÍTULO IV. De la Austeridad y Disciplina Presupuestaria
+### CAPITULO VI.
 
-### CAPÍTULO V. De los Servicios Personales
+Sanción pecuniaria.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
+
+23.- La sanción pecuniaria comprende la multa y la reparación del daño.
+
+La obligación de pagar el importe de la sanción pecuniaria es preferente y se cubrirá primero que cualquiera de las obligaciones que se hubieren contraído con posterioridad al delito.
+
+La multa es el pago al Estado de una suma de dinero que se fijará por días multa, los cuales no podrán exceder de quinientos. El día multa equivale al salario mínimo general vigente en el lugar y en el momento de consumarse el delito, si fuere consumado, en el día que cesó, si fuere continuo o permanente, o en el que se realice el último acto tendiente a su ejecución, en el caso de tentativa. La ley podrá también señalar multas que no hagan relación al salario mínimo general.
+
+24.- El importe de la sanción pecuniaria se distribuirá entre el Fondo para la Administración de Justicia y la parte ofendida; al primero se aplicará el importe de la multa y a la segunda el de la reparación.
+
+25.- Si no se logra hacer efectivo el importe de la sanción pecuniaria, se cubrirá preferentemente la reparación del daño y en su caso, a prorrata entre los ofendidos.
+
+26.- Si la parte ofendida renunciase a la reparación el importe se aplicará al Fondo para la Administración de Justicia.
+
+27.- Los depósitos y fianza que garanticen la libertad caucional, pasarán al Fondo para la Administración de Justicia, cuando el inculpado se sustraiga a la acción de los Tribunales.
+
+28.- Cuando en la ejecución de un delito intervienen varias personas, los tribunales fijarán multa para cada uno de los infractores, según su participación y sus condiciones económicas, y por lo que respecta a la reparación del daño, la deuda se considerará como mancomunada y solidaria.
+
+29.- El cobro de la reparación del daño se hará efectivo en la misma forma que la multa.
+
+30.- Si no alcanza a cubrirse la sanción pecuniaria con los bienes del infractor o con el producto de su trabajo creado durante y con motivo del cumplimiento de la medida privativa de libertad que se le hubiere impuesto, al recobrar su libertad seguirá sujeto a la obligación de pagar la parte que falta.
+
+31.- La autoridad a quien corresponda el cobro de la sanción pecuniaria, podrá fijar plazos para el pago, en los términos siguientes:
+
+I.- Si no excediere de mil pesos, se podrá conceder un plazo hasta de ciento veinte días, para pagarla por terceras partes, siempre que el deudor compruebe estar imposibilitado de hacerlo en menor tiempo;
+
+II.- Para el pago que exceda de mil pesos, se podrá conceder un plazo hasta de seis meses; el pago se hará por terceras partes, en las condiciones expresadas en la fracción anterior.
+
+El beneficio anterior sólo se concederá cuando sea solicitada dentro del plazo señalado para el cumplimiento voluntario.
+
+32.- Cuando el sentenciado no pudiera pagar la multa que como sanción única se le aplicó, o solamente pudiera pagar parte de ella, los Tribunales podrán decretar en su sentencia la substitución de aquella sanción por la de prisión, sin que ésta pueda exceder de tres meses.
+
+Lo dispuesto en el párrafo que antecede no exime a la autoridad ejecutora de la sentencia, de la obligación de emplear todos los medios legales conducentes a hacer efectiva, la multa; pues sólo en el caso de que el cobro haya resultado infructuoso, se hará uso de la prisión.
+
+33.- El autor de un delito está obligado a reparar el daño que con su comisión haya causado, salvo los casos sancionados por el artículo siguiente en los cuales lo estarán las personas que en el mismo se expresen.
+
+34.- Están obligados a reparar el daño en los términos que fija este Código y el de Procedimientos relativos.
+
+I.- Las personas físicas o morales por los delitos que cometan con motivo y en el desempeño de su servicio los que estén bajo su dirección y dependencia económica.
+
+II.- Las sociedades o agrupaciones por los delitos de sus socios o gerentes directores, en los términos en que, conforme a las leyes, sean responsables por las demás obligaciones que los segundos contraigan. Se exceptúa de esta regla a la sociedad conyugal, en la que, en todo caso, cada cónyuge responderá con sus bienes propios por la reparación del daño que causa; y
+
+III.- El Estado, subsidiariamente, por sus funcionarios y empleados.
+
+35.- La reparación del daño comprenderá:
+
+I.- La restitución de la cosa obtenida por la comisión del delito y si esto no fuera posible, el pago del precio de la misma;
+
+II.- La indemnización del daño material y moral causado a la víctima o a su familia.
+
+La reparación del daño que deba ser hecha por el infractor tiene el carácter de pena, y se seguirá de oficio por el Ministerio Público. Cuando dicha reparación deba exigirse a terceros, tendrá el carácter de responsabilidad civil y se tramitará en los términos que fije el Código Procesal de la materia. En ambos casos, el monto de la reparación será fijado por el Tribunal que conozca del asunto de acuerdo con el daño que deba repararse y la capacidad económica del obligado a pagarla. Se tendrá en cuenta, en su caso, lo dispuesto por los artículos del citado Código Procesal.
+
+En casos de lesiones y homicidios y a falta de pruebas específicas respecto al daño causado, los jueces tomarán como base la tabulación de indemnizaciones que fija la Ley Federal del Trabajo y el salario mínimo existente en la región. Esta disposición se aplicará aún cuando el ofendido fuera menor de edad o incapacitado.
+
+36.- En los delitos culposos los automóviles, camiones o cualquier otro vehículo u objeto de uso lícito con que se cometa el delito, ya sean de propiedad del infractor o de un tercero obligado a la reparación, se asegurarán de oficio por la autoridad judicial para garantizar el pago de la reparación del daño, y solamente se levantará el aseguramiento si los propietarios otorgan fianza suficiente para garantizar dicho pago.
+
+Para los efectos de este artículo los propietarios de vehículos y otros objetos de uso lícito, serán solidariamente responsables con el agente activo del delito por los daños que se causen.
+
+### CAPITULO VII.
+
+Pérdida de los instrumentos del delito, decomiso o destrucción de cosas peligrosas o nocivas.
+
+37.- Los instrumentos del delito y cualquiera otra cosa con que se cometa o intente cometer, así como los que sean objeto de él, cuando son de uso prohibido, serán decomisados por el Estado.
+
+Si pertenecen a terceras personas, sólo se decomisarán cuando hayan sido empleados con conocimiento de su dueño, para fines delictuosos.
+
+Los objetos de uso lícito a que se refiere este artículo se decomisarán al acusado solamente cuando éste fuera condenado.
+
+En los delitos culposos solamente se decomisarán los objetos que sean de uso prohibido.
+
+38.- Si los instrumentos o cosas de que habla la primera parte del artículo anterior, sólo sirven para delinquir, se destruirán al ejecutar la sentencia irrevocable.
+
+Fuera de este caso, se aplicarán al Ejecutivo, si le fueren útiles, en caso contrario, se venderán a personas que no tengan prohibición de usarlas y su precio se aplicará a la mejora material de los establecimientos de reclusión.
 
 ###### Artículo 77.
 
@@ -1631,7 +1545,19 @@ El Ejecutivo Federal deberá señalar en el proyecto de Presupuesto de Egresos l
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
-### CAPÍTULO VI. De los Subsidios, Transferencias y Donativos
+### CAPITULO VIII.
+
+Suspensión de Derechos.
+
+39.- La suspensión de derechos es de dos clases:
+
+I.- La que por ministerio de ley resulte de una sanción como consecuencia necesaria de ésta; y
+
+II.- La que por sentencia formal se impone como sanción.
+
+En el primer caso, la suspensión comienza y concluye con la sanción de que es consecuencia. En el segundo, si la suspensión se impone con otra sanción privativa de libertad, comenzará al terminar ésta y su duración será la señalada en la sentencia.
+
+40.- La pena de prisión produce la suspensión de los derechos políticos y los de tutela, curatela, ser apoderado, defensor, albacea, perito, depositario o interventor judicial síndico o interventor en concursos, árbitro, arbitrador o representante de ausente. La suspensión comenzará desde que cause ejecutoria la sentencia respectiva y durará todo el tiempo de la condena.
 
 ###### Artículo 85.
 
@@ -1755,7 +1681,15 @@ La transferencia del Fondo Mexicano del Petróleo que se realice a la Tesorería
 
 > <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-### CAPÍTULO I. De los recursos transferidos a las entidades federativas
+### CAPITULO IX.
+
+Inhabilitación, destitución o suspensión de cargos, empleos públicos o ejercicio de profesiones o actividades técnicas.
+
+41.- La suspensión de empleo o cargo se entiende siempre con privación de sueldo; y, si aquélla pasara de seis meses, perderá además el condenado su derecho a los ascensos que le correspondan durante su condena.
+
+42.- La destitución de un empleo o cargo priva al reo de lo que por desempeño del mismo debiera obtener, en cualquier sentido que fuere; y de alcanzar otro en el mismo ramo, durante un término que se fijará en la condena y que no pasará de diez años.
+
+43.- La suspensión en el ejercicio de profesiones o actividades técnicas se regirá, en cuanto sea aplicable, por las disposiciones del artículo que precede.
 
 ###### Artículo 91.
 
@@ -1825,7 +1759,11 @@ El Comité Técnico instruirá la transferencia del Fondo Mexicano del Petróleo
 
 > <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-### CAPÍTULO II. De la regionalización del gasto
+### CAPITULO X
+
+Suspensión o disolución de Sociedades.
+
+44.- La suspensión o disolución de sociedades procederá cuando algún miembro o representante de una persona jurídica, sociedad, corporación o empresa de cualquier clase, cometa un delito, en los términos del artículo 9 de este Código.
 
 ###### Artículo 96.
 
@@ -1857,19 +1795,33 @@ Con base en la aprobación de la Cámara de Diputados, el fideicomitente del Fon
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
 
-### CAPÍTULO III. De la Transparencia e Información sobre el ejercicio del gasto federalizado
+### CAPITULO XI.
 
-> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+Amonestación.
 
-### CAPÍTULO I. De las Transferencias Ordinarias del Fondo Mexicano del Petróleo
+45.- La amonestación consiste: en la advertencia que el Juez sentenciador dirige al infractor, haciéndole ver las consecuencias del delito que cometió, excitándolo a la enmienda y conminándolo con que se le impondrá una sanción mayor si reincidiere. Esta amonestación se hará en público o en privado, a juicio del Juez que deba hacerla.
 
-> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2014)</small>
+### CAPITULO XII.
 
-### CAPÍTULO II. De las Transferencias Extraordinarias del Fondo Mexicano del Petróleo
+Apercibimiento y caución de no ofender.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+46.- El apercibimiento consiste en la conminación que el Juez hace a una persona, cuando se teme con fundamento que está en disposición de cometer un delito, ya sea por actitud o por amenazas, de que en caso de cometer lo que se propone u otro semejante, será considerada como reincidente.
 
-> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+47.- Cuando el Juez estime que no es suficiente el apercibimiento, exigirá además, al infractor caución de no ofender. La caución podrá consistir en fianza que otorgue el propio infractor o en la que otorgue un tercero; el monto o duración de la garantía serán fijados por el Juez, teniendo en cuenta la importancia del bien jurídico amenazado y la probable duración del peligro. Si el infractor no otorgare la caución dentro de un mes contado desde que cause ejecutoria la sentencia, se aplicará en vez de esta medida, prisión de tres días a tres años, lo que se deberá especificar en la propia sentencia, precisando el tiempo que debe durar dicha prisión.
+
+### CAPITULO XIII.
+
+Publicación especial de sentencia.
+
+48.- La publicación especial de sentencia consiste en la inserción total o parcial de ella, en uno o dos periódicos que circulen en la localidad. El Juez sentenciador escogerá los periódicos y resolverá la forma en que debe hacerse la publicación.
+
+La publicación de la sentencia se hará a costa del delincuente, del ofendido si éste lo solicitare o del Estado si el Tribunal lo estima necesario.
+
+49.- El Juez podrá, a petición y a costa del ofendido, ordenar la publicación de la sentencia en Entidad diferente.
+
+50.- La publicación de sentencia se ordenará igualmente a título de reparación y a petición del interesado, cuando éste fuere absuelto, el hecho imputado no constituyere delito, o él no lo hubiere cometido.
+
+51.- Si el delito por el que se impuso la publicación de sentencia, fue cometido por medio de la prensa, además de la publicación a que se refieren los artículos anteriores, se hará también en el periódico empleado para cometer el delito, con el mismo tipo de letra, igual color de tinta y en el mismo lugar.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -2059,32 +2011,6 @@ OCTAVO. El Ejecutivo Federal, para dar cumplimiento a lo establecido en el artí
 
 D.O.F. 11 DE AGOSTO DE 2014.
 
-###### ARTÍCULO SEGUNDO.
-
-Se establecen las siguientes disposiciones transitorias de la Ley Federal de Presupuesto y Responsabilidad Hacendaria:
-
-I. Las modificaciones a los artículos 2, fracciones XXIII-Bis, XXX-Bis, XLVII-Bis y LIV-Bis, 17, octavo y décimo párrafos, 19, con excepción de lo señalado en la fracción IV siguiente, 21, 40, fracción II, inciso f) y 41, fracción II, inciso n), así como la adición del nuevo Título Quinto denominado “De las Transferencias del Fondo Mexicano del Petróleo”, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria entrarán en vigor el 1 de enero de 2015.
-
-II. La derogación del párrafo noveno del artículo 17 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria entrará en vigor en la fecha en que entre en vigor el régimen especial en materia presupuestaria para Petróleos Mexicanos, conforme a su ley.
-
-III. El Ejecutivo Federal, por conducto de las dependencias y entidades competentes, realizará las modificaciones que sean necesarias a los contratos y reglas de operación de los fondos a que se refiere el artículo 88 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, para adecuarlos a lo previsto en dicho artículo y en el 89 de la misma Ley, a fin de que operen en términos de lo previsto en el presente Decreto a partir del 1 de enero de 2015.
-
-IV. La reforma al párrafo segundo de la fracción I del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria entrará en vigor en la fecha en que entre en operación el mercado eléctrico mayorista, conforme a las disposiciones aplicables.
-
-V. Los recursos remanentes en el Fondo de Apoyo para la Reestructura de Pensiones y el Fondo de Estabilización para la Inversión en Infraestructura de Petróleos Mexicanos, al 31 de diciembre de 2014, se destinarán a los objetivos para los cuales se crearon dichos Fondos, conforme a las disposiciones aplicables.
-
-VI. Para efectos de determinar el monto de la transferencia del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo que se realice al Fondo de Extracción de Hidrocarburos conforme a lo dispuesto en el artículo 91 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, en lugar de aplicar el factor previsto en dicho precepto, durante los ejercicios fiscales 2015 al 2018 se aplicarán lo siguientes factores:
-
-EJERCICIO FISCAL FACTOR
-
-2015 0.0080
-
-2016 0.0082
-
-2017 0.0084
-
-2018 0.0085
-
 ## TRANSITORIOS
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2137,59 +2063,67 @@ DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA
 
 DISPOSICIONES TRANSITORIAS DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
 
-###### ARTÍCULO NOVENO.
+### CAPITULO XIV.
 
-De conformidad con el artículo 79 constitucional, la Auditoría Superior de la Federación, revisará de manera directa y suficiente los proyectos de infraestructura de las entidades federativas y los municipios, no incluidos en el proyecto de Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2016 enviado por el poder Ejecutivo Federal que, en su caso, apruebe la Cámara de Diputados en dicho Presupuesto. Esta revisión deberá realizarse de manera simultánea a la ejecución de los recursos, durante el ejercicio presupuestal correspondiente.
+Sujeción a la vigilancia de la Policía.
 
-Lo anterior, con objeto de verificar el cumplimiento de las disposiciones aplicables respecto de los recursos federales que reciban las entidades federativas y municipios que correspondan.
+52.- La sujeción a la vigilancia de la Policía consiste en que los agentes de ella estén a la mira de la conducta de la persona sujeta a esa medida, informándose de si los medios de que vive son lícitos y honestos, previniéndole en su caso la obligación de sujetar sus actos a la Ley; y en el deber que tiene el propio sancionado de no mudar su residencia sin dar tres días antes aviso a la autoridad política de su domicilio y de presentarse a la del lugar donde radique, mostrándole la constancia que, de haber llenado este requisito, le expedirá aquélla.
 
-Para efecto de lo anterior, se destinarán recursos a la Auditoría Superior de la Federación, a través del mecanismo que para tal efecto se establezca en el Presupuesto de Egresos de la Federación para el ejercicio fiscal 2016.
+53.- Los Jefes de policía y sus agentes, desempeñarán con la mayor reserva las obligaciones de que habla el artículo anterior, cuidando siempre de que el público no se entere que se vigila a los sentenciados, para evitar a éstos los perjuicios que de otro modo se les seguirían.
 
-La Auditoría Superior de la Federación emitirá informes específicos a la Cámara de Diputados y al Senado de la República de la revisión y evaluación correspondiente.
+54.- La sujeción a la vigilancia de la policía, comenzará y durará de acuerdo con las resoluciones judiciales que la establezcan.
 
-Para efectos de lo previsto en el presente transitorio, y con fundamento en el artículo 107, fracción I y el artículo 19, fracción II de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Secretaría de Hacienda y Crédito Público deberá incluir en los informes trimestrales, sobre la situación económica, las finanzas públicas y la deuda pública, la información sobre el ejercicio del gasto en los proyectos de infraestructura a los que se refiere el presente artículo; indicando el uso y destino de los recursos asignados.
+55.- Esta medida puede modificarse en su duración y podrá también revocarse cuando el sentenciado lo pide y acredite su buena conducta, o que han cesado los motivos que hicieron dictar la providencia.
 
-Transitorio Único. El presente Decreto entrará en vigor el 1 de enero de 2016.
+### CAPITULO XV.
 
-D.O.F. 18 DE NOVIEMBRE DE 2015.
+De las otras medidas de seguridad.
 
-DECRETO POR EL QUE SE ADICIONA EL ARTICULO 19 BIS A LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA.
+56.- Respecto de las demás medidas de seguridad, para su aplicación, circunstancias en que se hagan efectivas y duración, regirán las disposiciones comprendidas en capítulos especiales de éste Código, teniendo en cuenta las circunstancias exteriores de ejecución y las peculiares del delincuente.
 
-Único. El presente Decreto entrará en vigor el 1 de enero de 2016.
+## TITULO TERCERO.
 
-D.O.F. 30 DE DICIEMBRE DE 2015.
+Aplicación de Sanciones.
 
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+### CAPITULO I.
 
-Segundo. El Consejo Nacional de Armonización Contable, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, emitirá las reglas de operación que deberán cumplir las entidades federativas para la integración y funcionamiento de sus consejos de armonización contable.
+Reglas Generales.
 
-Tercero. Las entidades federativas deberán instalar sus consejos de armonización contable a más tardar a los treinta días naturales siguientes a la emisión de las reglas a que se refiere el artículo transitorio anterior.
+57.- Dentro de los límites fijados por la Ley, los Jueces y Tribunales aplicarán las sanciones penales establecidas por cada delito, teniendo en cuenta las circunstancias exteriores de ejecución y las peculiares del infractor. Para este efecto, los Tribunales deberán tener conocimiento directo del infractor, de la víctima y de las circunstancias del hecho en la medida requerida para cada caso.
 
-Cuarto. En la fecha a que se refiere el transitorio Primero del presente Decreto, entrará en vigor la modificación prevista a la fracción XIX del artículo 31 de la Ley Orgánica de la Administración Pública Federal, establecida en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013.
+58.- En concordancia con lo dispuesto en el artículo anterior, los Tribunales deberán tomar en consideración al determinar en cada caso las sanciones impuestas, las siguientes circunstancias:
 
-Quinto. El Ejecutivo Federal deberá realizar las reformas necesarias al Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones aplicables, de conformidad con lo previsto en este Decreto, dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto.
+a).- La naturaleza de la acción u omisión y de los medios empleados para ejecutarla, y la extensión del daño causado y del peligro corrido;
 
-Sexto. Derivado de lo previsto en el presente Decreto, los trámites que se hayan iniciado ante la Secretaría de la Función Pública serán concluidos por la Secretaría de Hacienda y Crédito Público.
+b).- La edad, educación, ilustración, costumbre y la conducta procedente del agente, los motivos que lo impulsaron o determinaron a delinquir y sus condiciones económicas;
 
-Las secretarías de Hacienda y Crédito Público y de la Función Pública realizarán las acciones que correspondan en el ámbito administrativo para que, dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto, la Secretaría de Hacienda y Crédito Público reciba los asuntos en trámite, a fin de dar cumplimiento a lo previsto en el párrafo anterior.
+c).- Las condiciones especiales en que se encontraba en el momento de la comisión del delito y los demás antecedentes y condiciones personales que puedan comprobarse, así como sus vínculos de parentesco, de amistad o nacidos de otras relaciones sociales; la calidad de las personas ofendidas y las circunstancias de tiempo, lugar, modo y ocasión, que demuestren la mayor o menor temibilidad del agente.
 
-Las erogaciones que, en su caso, realicen las dependencias a que se refiere el párrafo anterior en cumplimiento a este Decreto, se cubrirán con cargo a sus respectivos presupuestos aprobados para el ejercicio fiscal correspondiente.
+59.- El Juez deberá tener conocimiento directo del sujeto, de la víctima y de las circunstancias del hecho en la medida requerida para cada caso.
 
-Séptimo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+60.- No es imputable al acusado el aumento de gravedad proveniente de circunstancias particulares del ofendido, si las ignoraba inculpablemente al cometer el delito.
 
-D.O.F. 19 DE NOVIEMBRE DE 2019.
+61.- Las circunstancias calificativas o modificativas de la sanción penal que tienen relación con el hecho u omisión sancionados, aprovechan o perjudican a todos los que intervengan en cualquier grado en la comisión del delito.
 
-### CAPÍTULO III. De la Formulación de Estados Financieros
+62.- Las circunstancias personales de alguno o algunos de los delincuentes cuando sean modificativas o calificativas del delito, perjudican a todos los que lo cometen con conocimiento de ellas.
 
-### CAPÍTULO I. De la Información y Transparencia
+63.- Cuando en la perpetración del delito y la sentencia irrevocable que sobre él se pronuncie, se promulgare una o más leyes que disminuyan la sanción establecida en otra ley vigente al cometerse el delito, o la substituyan con otra menor, se aplicará la nueva ley.
 
-## TÍTULO CUARTO. Del Gasto Federal en las Entidades Federativas
+64.- Cuando pronunciada una sentencia irrevocable en que hubiere impuesto una sanción privativa de libertad, se dictare una ley que dejando subsistente la sanción señalada al delito sólo disminuya su duración, si el acusado lo pidiere y se hallare en el caso de la nueva ley, se reducirá la sanción impuesta, en la misma proporción en que estén el máximo de la señalada en la ley anterior y el de la señalada en la posterior.
 
-### CAPÍTULO II. De la Evaluación
+65.- Cuando una ley quita a un hecho u omisión el carácter de delito que otra ley anterior le daba, se pondrá en absoluta libertad a los infractores a quienes se está juzgando y a los condenados que se hallen cumpliendo o vayan a cumplir sus condenas, y cesarán de derecho todos los efectos que éstas y los procesos debieran producir en lo futuro.
 
-> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+66.- Siempre que con un solo hecho ejecutado en un solo acto, o con una omisión, se violen varias disposiciones penales que señalan sanciones diversas, se aplicará la del delito que merezca pena mayor, la cual podrá aumentarse hasta una mitad más del máximo de su duración.
 
-### CAPÍTULO ÚNICO
+67.- Cuando un delito pueda ser considerado bajo dos o más aspectos, y bajo cada uno de ellos merezca una sanción diversa, se impondrá la mayor.
+
+### CAPITULO II.
+
+Aplicación de sanciones en casos de tentativa.
+
+68.- La tentativa es punible cuando se ejecutan hechos encaminados directa o inmediatamente a la realización de un delito, si éste no se consume (sic) por causas ajenas a la voluntad del agente.
+
+En casos de tentativa, los jueces aplicarán, tomando en consideración las disposiciones de los artículos 58 y 66, entre las dos terceras partes del mínimo a las dos terceras partes del máximo de las sanciones que deberían imponerse si el delito se hubiere consumado y además existirá caución de no ofender.
 
 ### CAPITULO III.
 
@@ -2269,7 +2203,9 @@ Reclusión para los enfermos mentales y sordomudos.
 
 En igual forma procederán los tribunales con los procesados o condenados que se encuentren en alguno de los estados a que se refiere el párrafo que antecede, haciéndolo de acuerdo con lo que disponga el Código Procesal de la materia. Igualmente procederán también las autoridades encargadas de la ejecución de sentencias, en los casos en que los sentenciados enloquezcan durante el tiempo en que estén sujetos a una sanción privativa de libertad.
 
-86.- En los casos previstos en este capítulo, las personas o enfermos a quienes se aplique reclusión, podrán ser entregados a quienes corresponda hacerse cargo de ellos, siempre que se otorgue fianza, depósito o hipoteca hasta por la cantidad de quince mil pesos, a juicio del Juez, para garantizar el daño que pudieran causar, por no haberse tomado las precauciones necesarias para su vigilancia. Cuando el Juez, de acuerdo con los resultados de los dictámenes periciales emitidos al respecto, estime que ni aún con la garantía queda asegurado el interés de la sociedad, seguirán en el establecimiento especial en que estuvieren recluidos.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
+
+86.- En los casos previstos en este Capítulo, las personas o enfermos a quienes se aplique reclusión podrán ser entregados a quienes corresponda hacerse cargo de ellos, siempre que se otorgue fianza, depósito o hipoteca hasta por cantidad que no exceda de cien veces el salario mínimo general vigente en el momento y en el lugar en que se dicte el acuerdo respectivo, para garantizar el daño que aquellos pudieran causar por no haberse tomado las precauciones necesarias para su vigilancia. Cuando el Juez estime que ni aún con la garantía queda asegurado el interés de la sociedad, dichas personas seguirán en el establecimiento en que estuvieren recluidos.
 
 ### CAPITULO VIII.
 
@@ -2307,11 +2243,9 @@ De la libertad preparatoria y retención.
 
 96.- La libertad preparatoria no se concederá a los reincidentes ni a los habituales.
 
-## TÍTULO QUINTO. De las Transferencias del Fondo Mexicano del Petróleo
+## TITULO CUARTO.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 11 DE AGOSTO DE 2014)</small>
+Ejecución de las sentencias.
 
 ### CAPITULO III.
 
@@ -2365,7 +2299,9 @@ Amnistía.
 
 109.- La amnistía extingue la acción penal y las sanciones impuestas, excepto la reparación del daño, en los términos de la Ley que se dictare concediéndola, y si no se expresaren, se entenderá que la acción penal y las sanciones impuestas se extinguen con todos sus efectos, con relación a todos los responsables del delito.
 
-## TÍTULO SEXTO. De la Información, Transparencia y Evaluación
+## TITULO QUINTO.
+
+Extinción de la responsabilidad penal.
 
 ### CAPITULO III.
 
@@ -2399,7 +2335,7 @@ Rehabilitación.
 
 116.- La rehabilitación tiene por objeto reintegrar al sentenciado en los derechos civiles, políticos o de familia que había perdido en virtud de sentencia dictada en un proceso o en cuyo ejercicio estuviere suspenso; o reintegrarlo en el desempeño de una profesión, cargo o empleo de que también hubiere sido privado o en cuyo ejercicio esté suspenso.
 
-## TÍTULO SÉPTIMO. De las Sanciones e Indemnizaciones
+## TITULO SEXTO.
 
 ### CAPITULO VI.
 
@@ -3419,7 +3355,9 @@ IV.- Al que, con arreglo a derecho, con cualquier carácter excepto el de testig
 
 Lo prevenido en esta fracción no comprende los casos en que la parte sea examinada sobre la cantidad en que estime una cosa, o cuando tenga el carácter de acusado.
 
-231.- La parte, testigo, perito o intérprete que retracte expontáneamente (sic) sus falsas declaraciones reunidas en un juicio, antes de que se pronuncie la sentencia en la instancia en que las diere, sólo pagarán una multa de diez a doscientos pesos. Pero si faltare a la verdad al retractar su declaración, se le aplicará la pena que corresponda con arreglo a lo prevenido en este capítulo, considerándolo como reincidente.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
+
+231.- La parte, testigo, perito o intérprete que se retracte espontáneamente de sus falsas declaraciones rendidas en un juicio, antes de que se pronuncie la sentencia en la instancia en que las hubiere rendido, sólo pagará una multa de cinco a cincuenta veces el salario mínimo general; pero si al retractarse de su declaración faltare a la verdad, se le aplicará la pena que corresponda con arreglo a lo prevenido en este Capítulo, considerándolo como reincidente.
 
 ### CAPITULO IV.
 
@@ -4037,23 +3975,33 @@ III.- La sustracción, destrucción, mutilación o apoderamiento de unos autos c
 
 351.- Para la aplicación de la sanción se tendrá por consumado el robo, desde el momento en que el ladrón se apodera de la cosa robada, aún cuando la abandone o lo desapoderen de ella.
 
-352.- Cuando el valor de lo robado no exceda de cien pesos, la pena aplicable será de tres días a seis meses de prisión y multa de diez a cincuenta pesos.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
-353.- Cuando el valor de lo robado exceda de cien, pero no de quinientos pesos, la pena aplicable será de seis meses a un año de prisión y multa de cincuenta a doscientos pesos.
+352.- Para establecer la cuantía que corresponda a los delitos previstos en este título, se tomará en consideración el salario mínimo general vigente en el momento y en el lugar que se cometió el delito.
 
-354.- Cuando el valor de lo robado exceda de quinientos pesos, pero no de cinco mil, se impondrán de uno a dos años de prisión y multa de doscientos a quinientos pesos.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
-355.- Cuando el valor de lo robado exceda de cinco mil pesos, pero no de diez mil, la pena será de dos a cuatro años de prisión y la multa de quinientos a mil pesos.
+353.- Cuando el valor de lo robado no exceda de cien veces el salario, se aplicará prisión de un mes a dos años y multa de cinco a cien veces el salario.
 
-356.- Cuando el valor de lo robado exceda de diez mil pesos, pero no de cincuenta mil, se aplicará una sanción de cuatro a seis años de prisión y multa de mil a dos mil pesos.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
-357.- Cuando el valor de lo robado exceda de cincuenta mil pesos, se impondrán de seis a quince años de prisión y multa de dos mil a diez mil pesos.
+354.- Cuando el valor de lo robado exceda de cien veces el salario, pero no de quinientas, la prisión será de dos a cuatro años y la multa será de cien a ciento cincuenta veces el salario.
 
-358.- Para estimar la cuantía del robo, se atenderá únicamente al valor intrínseco de la cosa robada. Si ésta no fuera estimable en dinero, o por su naturaleza no fuere posible fijar su valor o cantidad, se aplicará prisión de tres días hasta cinco años.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
-Se aplicarán seis meses a nueve años de prisión y multa de cien a dos mil pesos al que sustraiga o inutilice parcial o totalmente, un expediente perteneciente a una oficina pública o notaría; al que extraiga o destruya alguna de sus hojas, o parte de ellas, o las inutilice de cualquier manera; y también al que ejecute cualquiera de los actos enumerados con cualquier documento que se halle bajo la responsabilidad y dominio de alguna oficina pública o notaría. Si el delincuente fuere el propio notario quedará inhabilitado además de dos a diez años; y si fuere abogado o litigante, también se le inhabilitará por el mismo término.
+355.- Cuando el valor de lo robado exceda de quinientas veces el salario, la prisión será de cuatro a diez años y la multa de ciento cincuenta a quinientas veces el salario.
 
-En los casos de tentativa de robo, cuando no fuere posible determinar el monto, se aplicarán de tres a cinco años de prisión.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
+
+356.- Para estimar la cuantía del robo, se atenderá únicamente el valor intrínseco de la cosa robada. Si ésta no fuera estimable en dinero, o por su naturaleza no fuere posible fijar su valor o cantidad, se aplicará prisión de tres días hasta cinco años.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
+
+357.- Se aplicará prisión de seis meses a nueve años, al que sustraiga o inutilice, parcial o totalmente, un expediente perteneciente a una oficina pública o notaría; al que extraiga o destruya alguna de sus hojas, o parte de ellas, o las inutilice de cualquier manera; y también al que ejecute cualquiera de los actos enumerados en cualquier documento que se halle bajo la responsabilidad y dominio de alguna oficina pública o notaría. Si el delincuente fuere el propio notario quedará inhabilitado además de dos a diez años; y si fuere abogado o litigante, también se le inhabilitará por el mismo término.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
+
+358.- En los casos de tentativa de robo, cuando no fuere posible determinar el monto, se aplicarán de tres a cinco años de prisión.
 
 359.- Si el robo se ejecutare con violencia a las personas o las cosas, a la pena que corresponda por el robo simple, se agregarán de seis meses a cinco años de prisión. Si la violencia constituyere otro delito, se aplicarán las reglas de acumulación.
 
@@ -4077,7 +4025,9 @@ V.- Si los ladrones llevan armas;
 
 VI.- Cuando el ladrón se finja funcionario público o suponga una orden de la autoridad.
 
-363.- Cuando el valor de lo robado no pase de cien pesos, sea restituido por el ladrón espontáneamente y pague éste todos los daños y perjuicios, antes de que la autoridad tome conocimiento del delito, no se impondrá sanción alguna, si no se ha ejecutado el robo por medio de la violencia.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
+
+363.- Cuando el valor de lo robado no exceda de diez veces el salario, sea restituido por el ladrón espontáneamente y pague éste todos los daños y perjuicios antes de que la autoridad tome conocimiento del delito, no se impondrá sanción alguna si no se ha ejecutado el robo por medio de la violencia.
 
 364.- En todo caso de robo si el Juez, lo creyera justo, podrá suspender al infractor de un mes a seis años en los derechos de tutela curatela, perito, depositario o interventor judicial, síndico o interventor en concursos o quiebras albacea, asesor y representante de ausentes; o en el ejercicio de cualquiera profesión de las que exijan título.
 
@@ -4115,39 +4065,41 @@ VIII.- Cuando se cometa durante un incendio, terremoto u otra calamidad pública
 
 Abigeato.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1985)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
-370.- Comete el delito de abigeato el que sin consentimiento del que legalmente deba de darlo, se apodere de ganado mayor o menor con el objeto de aprovecharse de él.
+370.- Comete el delito de abigeato el que, en campo abierto, se apodere de una o más cabezas de ganado, sin derecho y sin consentimiento de la persona que pueda disponer de ellas, de acuerdo con la ley.
 
-371.- Para los efectos del artículo anterior, se considerará ganado mayor: al bovino, caballar, mular y asnal; y como ganado menor: al cabrío, lanar y porcino.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1985)</small>
+371.- Para los efectos de este Capítulo, se considerará como ganado mayor: el bovino, el caballar, el mular y el asnar; y, como ganado menor: al cabrío, el lanar y el porcino.
 
-372.- Tratándose de ganado mayor, el delito de abigeato se sancionará de acuerdo con las siguientes reglas:
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
-I.- Si el robo fuere de una a diez cabezas, con la pena de cinco a ocho años de prisión y multa de cincuenta a cien mil pesos;
+372.- El abigeato de ganado mayor se sancionará:
 
-II.- Si excediere de diez y no de quince cabezas, con la pena de ocho a diez años de prisión y multa de setenta a ciento cincuenta mil pesos;
+I.- Con prisión de dos a cuatro años y multa de treinta a cien veces el salario, cuando el apoderamiento no exceda de cinco cabezas;
 
-III.- Cuando el número de cabezas fuere mayor de quince, pero no de veinte, con la de diez a quince años de prisión y multa de cien a doscientos mil pesos;
+II.- Con prisión de cuatro a seis años y multa de cien a doscientas veces el salario, cuando el apoderamiento exceda de cinco cabezas pero no de diez;
 
-IV.- Cuando el número de cabezas fuere mayor de veinte, se aplicarán de quince a dieciocho años de prisión y multa de doscientos y trescientos mil pesos.
+III.- Con prisión de seis a doce años y multa de doscientas a quinientas veces el salario, cuando el apoderamiento exceda de diez cabezas.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1985)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
-373.- Tratándose de ganado menor, el abigeato se sancionará de la manera siguiente:
+373.- El abigeato de ganado menor se sancionará:
 
-I.- Si el robo fuere de una a cinco cabezas, será sancionado de cuatro a seis años de prisión y multa de veinte a cincuenta mil pesos;
+I.- Con prisión de uno a tres años y multa de diez a cien veces el salario, cuando el apoderamiento no exceda de cinco cabezas;
 
-II.- Si el robo fuere de seis cabezas y no pasare de diez, será sancionado con la pena de seis a nueve años de prisión y multa de cuarenta a ochenta mil pesos;
+II.- Con prisión de tres a cinco años y multa de cien a ciento ochenta veces el salario, cuando el apoderamiento exceda de cinco cabezas pero no de quince; o
 
-III.- Si excediere de diez y no de quince cabezas, se aplicará la pena de nueve a doce años de prisión y multa de cincuenta a cien mil pesos;
+III.- Con prisión de cinco a diez años y multa de ciento ochenta a quinientas veces el salario, cuando el apoderamiento exceda de quince cabezas.
 
-IV.- Cuando el número de cabezas fuere mayor de quince se aplicará la pena de doce a quince años de prisión y multa de cien a doscientos mil pesos.
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 1985)</small>
+373 Bis.- Cuando el apoderamiento del ganado no fuese en campo abierto, al infractor se le sancionará con las penas del robo.
 
-374.- Se equipará el abigeato y se sancionará con prisión de tres a diez años y multa de cincuenta a cien mil pesos, a quienes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 1988)</small>
+
+374.- Se equipara el Abigeato y se sancionará con prisión de dos a cuatro años y multa de diez a cincuenta salarios mínimos vigente en el momento de cometerse el delito, a quienes:
 
 I.- Desfiguren o borren las marcas de animales vivos o pieles;
 
@@ -4177,19 +4129,15 @@ IX.- Sin verificar su procedencia legítima, comercien, de primera mano, con pie
 
 Abuso de Confianza.
 
-376.- Comete el delito de abuso de confianza al que con perjuicio de alguien disponga para si, para otro de una cantidad de dinero en numerario, en billetes de banco o en papel moneda, de un documento que importe ibligación(sic), liberación o transmisión en derechos, o de cualquier otra cosa ajena mueble de la cual se le haya transferido la tenencia y no el dominio.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
-Si el monto del abuso de confianza, no excede de quinientos pesos, se le sancionará con un mes a un año de prisión y multa hasta de quinientos pesos.
+376.- Comete el delito de abuso de confianza el que, con perjuicio de alguien, disponga para sí o para otro, de cualquier cosa ajena mueble de la que se le haya trasmitido la tenencia y no el dominio.
 
-Si excede de esa cantidad, pero no de cinco mil pesos, la prisión será de tres meses a dos años y la multa de quinientos a mil pesos.
+Cuando el monto del abuso no exceda de cien veces el salario, se sancionará con prisión de un mes a dos años y multa de cinco a cien veces el salario.
 
-Si el monto es mayor de cinco mil pesos, pero menor de diez mil, la prisión será de uno a cuatro años y la multa de mil a dos mil pesos.
+Si excede de cien pero no de quinientas veces el salario, la prisión será de dos a cuatro años y la multa de cien a ciento cincuenta veces el salario.
 
-Si el monto fuere de diez mil hasta cincuenta mil, la prisión será de dos a siete años y la multa de dos mil a cinco mil pesos.
-
-Si el monto excediere de cincuenta mil pesos, la prisión será de tres a diez años y multa de cinco a diez mil pesos.
-
-Las multas anteriores se entienden sin perjuicio del pago de la reparación del daño en todo caso.
+Si el monto del abuso excede de quinientas veces el salario, la prisión será de cuatro a diez años y la multa de ciento cincuenta a quinientas veces el salario.
 
 377.- Se considera como abuso de confianza, para los efectos de la pena:
 
@@ -4207,21 +4155,15 @@ III.- El hecho de que una persona haga aparecer como suyo un depósito que garan
 
 Fraude.
 
-380.- Comete el delito de fraude el que engañando a otro o aprovechándose del error en que éste se halle, se haga ilícitamente de alguna cosa o alcance un lucro indebido.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
-Al fraude son aplicables las siguientes penas:
+380.- Comete el delito de fraude el que engañando a otro o aprovechándose del error en que éste se halle, se haga ilícitamente de alguna cosa o alcance un lucro indebido. El delito de fraude se castigará con las penas siguientes:
 
-I.- Prisión de tres días a seis meses y multa de cincuenta a doscientos pesos, cuando el valor de lo defraudado no exceda de quinientos pesos;
+I.- Con prisión de tres meses a tres años y multa de cinco a cien veces el salario, cuando el valor de lo defraudado no exceda de esta última cantidad;
 
-II.- Prisión de seis meses a tres años y multa de doscientos a mil pesos cuando el valor de lo defraudado excediere de quinientos pesos pero no de cinco mil;
+II.- Con prisión de tres a seis años y multa de cien a ciento cincuenta veces el salario, cuando el valor de lo defraudado exceda de cien veces el salario; pero no de quinientas veces;
 
-III.- Prisión de dos a cinco años y multa de mil a dos mil pesos, si el valor de lo defraudado fuere mayor de cinco mil pero no de diez mil pesos;
-
-IV.- Prisión de tres a siete años y multa de dos mil a cinco mil pesos, si el valor de lo defraudado fuere de diez mil hasta cincuenta mil pesos;
-
-V.- Prisión de cinco a diez años y multa de cinco mil a diez mil pesos, si el valor de lo defraudado excediere de cincuenta mil pesos.
-
-Las multas anteriores se entenderán impuestas sin perjuicio del pago de la reparación del daño.
+III.- Con prisión de seis a doce años y multa de ciento cincuenta a quinientas veces el salario cuando el valor de lo defraudado exceda de ésta última cantidad.
 
 381.- Las mismas penas señaladas en el Artículo anterior se impondrán:
 
@@ -4261,7 +4203,9 @@ XIV.- Al fiador que enajene o grave los bienes raíces cuyas inscripciones de pr
 
 Despojo de cosas inmuebles o de aguas.
 
-384.- Se aplicará la pena de dos a ocho años de prisión y multa de quinientos a tres mil pesos:
+(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 1987) (F. DE E., P.O. 18 DE MAYO DE 1988)
+
+384.- Se aplicará la pena de dos a ocho años de prisión y multa de cien a ciento cincuenta veces el salario:
 
 I.- Al que de propia autoridad y haciendo violencia física o moral a las personas o furtivamente, o empleando amenazas o engaño, ocupe un inmueble ajeno o haga uso de él o de un derecho legal que no le pertenezca;
 
@@ -4279,21 +4223,21 @@ La pena será aplicable aún cuando la posesión de la cosa usurpada sea dudosa 
 
 Daño en propiedad ajena.
 
-387.- Se impondrán de cinco a diez años de prisión y multa de quinientos a cinco mil pesos a los que causen incendio, inundación o explosión con daño o peligro de:
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
-I.- Un edificio, vivienda o local donde se encuentre alguna persona;
+387.- Se aplicarán las penas de robo simple al que por cualquier medio destruya o deteriore alguna cosa ajena o propia, en perjuicio de otro.
 
-II.- Ropas, muebles u objetos en tal forma, que pueda causar graves daños personales;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
-III.- Archivos públicos o notariales;
+388.- La pena se agravará con prisión de uno a tres años cuando el daño:
 
-IV.- Bibliotecas, museos, templos, escuelas, edificios o monumentos públicos;
+I.- Recaiga en bienes de valor científico, artístico, cultural o de utilidad pública, o
 
-V.- Montes, bosques, selvas, pastos, mieses o cultivos de cualquier género.
+II.- Se cometa por medio de inundación, incendio, minas, bombas o explosivos.
 
-388.- Si además de los daños directos resulta consumado algún otro delito, se aplicarán las reglas de acumulación.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
-389.- Cuando por cualquier medio diverso de los mencionados en el Artículo 387 se cause daño, destrucción o deterioro de cosa ajena o de cosa propia, en perjuicio de otro, se aplicarán las sanciones del robo simple.
+389.- Se aplicará prisión de uno a tres años al que mediante incendio, explosión o por cualquier otro medio creare un peligro común para las personas o para los bienes.
 
 ## TITULO DECIMO OCTAVO (SIC).
 
@@ -4404,6 +4348,18 @@ SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicac
 P.O. 5 DE ENERO DE 1985.
 
 UNICO.- El presente decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE DICIEMBRE DE 1987.
+
+PRIMERO: Este decreto deroga todas las disposiciones que se le opongan.
+
+SEGUNDO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE JULIO DE 1988.
+
+PRIMERO.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### Artículo 10.
 
