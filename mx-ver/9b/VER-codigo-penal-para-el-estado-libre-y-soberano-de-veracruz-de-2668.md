@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-266
 country: "mx"
 rank: "codigo"
 publication_date: "1980-09-13"
-last_updated: "1990-05-26"
+last_updated: "1991-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE MAYO DE 1990.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE FEBRERO DE 1991.
 
 Código publicado en la Gaceta Oficial de Veracruz-Llave, el sábado 13 de septiembre de 1980.
 
@@ -349,6 +349,10 @@ Si no se logra hacer efectivo todo el importe de la sanción pecuniaria, se cubr
 
 Si la parte ofendida renunciare a la reparación el importe de ésta se aplicará al Estado.
 
+> <small>(ADICIONADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
+Para los efectos de este Código, se entiende por salario o salario mínimo, el salario mínimo general diario, que esté vigente en la zona y en el tiempo en se cometió el delito.
+
 ###### ARTICULO 41.
 
 La reparación del daño que deba ser hecha por el delincuente, tiene el carácter de sanción pública, pero cuando sea exigible a terceros tendrá el carácter de responsabilidad civil y se tramitará en forma de incidente en los términos que fije el Código de Procedimientos Penales.
@@ -513,21 +517,27 @@ Los jueces al pronunciar la sentencia que corresponda, fijarán las sanciones qu
 
 ### CAPITULO II. DELITOS CULPOSOS Y PRETERINTENCIONALES
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 66.
 
-Los delitos culposos serán sancionados con prisión de un mes a siete años, multa hasta de veinte mil pesos y suspensión hasta de cinco años o privación del derecho para ejercer la profesión, oficio o actividad que dio origen a la conducta culposa.
+Los delitos culposos serán sancionados con prisión de un mes a siete años, multa hasta de ciento cincuenta veces el salario mínimo y suspensión hasta de cinco años o privación del derecho para ejercer la profesión, oficio o actividad que dio origen a la conducta culposa.
 
-Cuando a consecuencia de la conducta culposa del personal de transporte de servicio público estatal, se cause más de un homicidio, la sanción será de dos a ocho años de prisión y multa hasta de cuarenta mil pesos.
+Cuando a consecuencia de la conducta culposa del personal de transporte de servicio público estatal, se cause más de un homicidio, la sanción será de dos a ocho años de prisión y multa hasta de trescientas veces el salario mínimo.
+
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 67.
 
-Al responsable de un delito preterintencional se le aplicarán prisión de un mes a nueve años y multa hasta de quince mil pesos, atendiéndose a lo que dispone el artículo 65 y a la sanción que le correspondería al delito si fuere doloso.
+Al responsable de un delito preterintencional se le aplicarán prisión de un mes a nueve años y multa hasta de ciento veinte veces el salario mínimo, atendiéndose a lo que dispone el artículo 65 y a la sanción que le correspondería al delito si fuere doloso.
 
 ### CAPITULO III. TENTATIVA
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 68.
 
-El responsable de tentativa será sancionado con prisión de un mes a nueve años y multa hasta de veinte mil pesos, atendiendo a lo dispuesto en el artículo 65 y tomándose como base la sanción que correspondería al delito si se hubiese consumado.
+El responsable de tentativa será sancionado con prisión de un mes a nueve años y multa hasta de ciento cincuenta veces el salario mínimo, atendiendo a lo dispuesto en el artículo 65 y tomándose como base la sanción que correspondería al delito si se hubiese consumado.
 
 ### CAPITULO IV. REINCIDENCIA
 
@@ -573,15 +583,21 @@ El Ejecutivo del Estado, tratándose de delitos de carácter político, podrá h
 
 I.- Cuando la sanción impuesta sea la de prisión, se conmutará por confinamiento en un término igual al que debía durar la prisión; y
 
-II.-Si fuese la de confinamiento, se conmutará por multa que se fijará discrecionalmente, pero no podrá exceder de cincuenta mil pesos.
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 1991)</small>
+
+II.-Si fuese la de confinamiento, se conmutará por multa que se fijará discrecionalmente pero no podrá exceder de cuatrocientas veces el salario mínimo.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 75.
 
-Los jueces, apreciando las circunstancias del artículo 65, podrán conmutar la sanción de prisión cuando ésta no exceda de tres años, por la de multa hasta de cien pesos por día de prisión.
+Los jueces, apreciando las circunstancias del artículo 65, podrán conmutar la sanción de prisión cuando ésta no exceda de tres años, por la de multa hasta de un cincuenta por ciento del salario mínimo, por día de prisión.
 
 Para que opere la conmutación deberá cubrirse o garantizarse el pago de la reparación del daño, observándose en su caso lo dispuesto en el artículo 51.
 
-Son inconmutables las sanciones privativas de libertad por los delitos de evasión de presos, cohecho, peculado, violación, bigamia, incesto, ultrajes a la moral pública, corrupción de menores, lenocinio, abigeato y secuestro.
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
+Son inconmutables las sanciones privativas de libertad por los delitos de evasión de presos, cohecho, peculado, bigamia, incesto, ultrajes a la moral pública, corrupción de menores, lenocinio, abigeato y secuestro.
 
 ### CAPITULO VIII. LIBERTAD CONDICIONAL
 
@@ -617,9 +633,11 @@ El juez podrá fijar medidas de vigilancia para asegurar el cumplimiento de las 
 
 La sanción se considerará extinguida si durante el plazo de tres años a partir de la sentencia definitiva, el reo no da lugar a nuevo proceso que concluya con sentencia de condena y subsisten las circunstancias que determinaron el otorgamiento de la suspensión. En caso de que cometa nuevo delito doloso, se harán efectivas ambas sentencias. Tratándose de delito culposo, la autoridad judicial resolverá si debe aplicarse o no la sanción suspendida. Si el reo no cumple las obligaciones que apareja la suspensión, el juez podrá hacer efectiva la sanción o amonestarlo, con el apercibimiento de que, si incurre en nueva falta, se hará efectiva la sanción.
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 81.
 
-El beneficio de la suspensión condicional no se concederá a los responsables de los delitos de evasión de presos, cohecho, peculado, violación, bigamia, incesto, ultrajes a la moral pública, corrupción de menores, lenocinio, abigeato y secuestro.
+El beneficio de la suspensión condicional no se concederá a los responsables de los delitos de evasión de presos, cohecho, peculado, bigamia, incesto, ultrajes a la moral pública, corrupción de menores, lenocinio, abigeato y secuestro.
 
 ## TITULO V. EXTINCION PENAL
 
@@ -767,25 +785,29 @@ Las demás sanciones prescribirán en un término igual al de su duración y las
 
 Comete el delito de homicidio el que priva de la vida a otro.
 
-> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 109.
 
-Al responsable de homicidio doloso que no tenga señalada una sanción especial en este Código se le impondrán de ocho a quince años de prisión y multa hasta de cien mil pesos.
+Al responsable de homicidio doloso que no tenga señalada una sanción especial en este Código se le impondrá de ocho a quince años de prisión y multa hasta de ciento cincuenta veces el salario mínimo.
+
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 110.
 
-Al responsable de homicidio calificado, se le impondrán de quince a treinta años de prisión y multa hasta de cuarenta mil pesos.
+Al responsable de homicidio calificado, se le impondrán de quince a treinta años de prisión y multa hasta de trescientas veces el salario mínimo.
 
-> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 111.
 
-Cuando en la comisión de un homicidio intervengan dos o más sujetos y no constare quien o quienes son los homicidas, a todos se les impondrán de siete a doce años de prisión si el delito fuere simple, pero si se tratara de un homicidio calificado, la sanción será de diez a veinticinco años de prisión y multa en ambos casos hasta de cien mil pesos.
+Cuando en la comisión de un homicidio intervengan dos o más sujetos y no constare quién o quiénes son los homicidas, a todos se les impondrán de siete a doce años de prisión si el delito fuere simple, pero si se tratara de un homicidio calificado, la sanción será de diez a veinticinco años de prisión y multa en ambos casos hasta de doscientas veces el salario mínimo.
+
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 112.
 
-Al que prive de la vida dolosamente a su ascendiente o descendiente consanguíneo en línea recta, cónyuge, concubina o concubinario, adoptante o adoptado, sabiendo el delincuente esa relación, se le impondrán de quince a treinta años de prisión y multa hasta de cuarenta mil pesos.
+Al que prive de la vida dolosamente a su ascendiente o descendiente consanguíneo en línea recta, cónyuge, concubina o concubinario, adoptante o adoptado, sabiendo el delincuente esa relación, se le impondrán de quince a treinta años de prisión y multa hasta de trescientas veces el salario mínimo.
 
 ### CAPITULO II. LESIONES
 
@@ -797,33 +819,51 @@ Comete el delito de lesiones, el que causa a otro una alteración en la salud pe
 
 Las lesiones que no pongan en peligro la vida del ofendido, se sancionarán de la manera siguiente:
 
-I.- Con prisión de quince días a seis meses o multa hasta de cinco mil pesos, cuando tarden en sanar hasta quince días;
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 1991)</small>
 
-II.-De dos meses a dos años de prisión y multa hasta de seis mil pesos, si tardan en sanar más de quince días;
+I.-Con prisión de quince días a seis meses o multa hasta de cincuenta veces el salario mínimo cuando tarden en sanar hasta quince días;
 
-III.-De dos a cinco años de prisión y multa hasta de diez mil pesos, cuando dejen al ofendido cicatriz perpetua y notable en la cara;
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 1991)</small>
 
-IV.-De tres meses a cinco años de prisión y multa hasta de diez mil pesos, cuando resulte una perturbación de las funciones u órgano;
+II.-De dos meses a dos años de prisión y multa hasta de sesenta veces el salario mínimo, si tardan en sanar más de quince días;
 
-V.-De cinco a ocho años de prisión y multa hasta de quince mil pesos, cuando produzcan al ofendido, la pérdida definitiva de cualquier función orgánica o de un miembro o de un ojo, o causen una enfermedad segura o probablemente incurable o deformidad incorregible; y
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 1991)</small>
 
-VI.-De cuatro a nueve años de prisión y multa hasta de quince mil pesos, cuando ocasionen incapacidad permanente para trabajar.
+III.-De dos a cinco años de prisión y multa hasta de sesenta veces el salario mínimo, cuando dejen al ofendido cicatriz perpetua y notable en la cara;
+
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 1991)</small>
+
+IV.-De tres meses a cinco años de prisión y multa hasta de ochenta veces el salario mínimo, cuando resulte una perturbación de las funciones u órgano;
+
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 1991)</small>
+
+V.-De cinco a ocho años de prisión y multa hasta de cien veces el salario mínimo, cuando produzcan al ofendido, la pérdida definitiva de cualquier función orgánica o de un miembro o de un ojo, o causen una enfermedad segura o probablemente incurable o deformidad incorregible; y
+
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 1991)</small>
+
+VI.-De cuatro a nueve años de prisión y multa hasta de ciento veinte veces el salario mínimo, cuando ocasionen incapacidad permanente para trabajar.
+
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 115.
 
-Al que infiera lesiones que pongan en peligro la vida, se le impondrán de uno a seis años de prisión, sin perjuicio de las sanciones que le correspondan conforme al artículo anterior, con excepción de sus fracciones I y II.
+Al que infiera lesiones que pongan en peligro la vida, se le impondrán de uno a seis años de prisión y multa hasta cien veces el salario mínimo, sin perjuicio de las sanciones que le correspondan conforme al artículo anterior, con excepción de sus fracciones I y II.
 
 ###### ARTICULO 116.
 
 Cuando las lesiones sean calificadas, se aumentarán las sanciones hasta las dos terceras partes del máximo de las que corresponderían, de acuerdo con los artículos relativos a las lesiones simples.
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 117.
 
-Si el ofendido fuere ascendiente, descendiente, cónyuge, concubina o concubinario, adoptante o adoptado del responsable de las lesiones y éstas fueren causadas dolosamente, con conocimiento de esa relación, se aumentarán hasta dos años de prisión y multa hasta de diez mil pesos a las sanciones que corresponderían con arreglo a los artículos precedentes.
+Si el ofendido fuere ascendiente, descendiente, cónyuge, concubina o concubinario, adoptante o adoptado del responsable de las lesiones y éstas fueren causados dolosamente, con conocimiento de esa relación, se aumentarán hasta dos años de prisión y multa hasta setenta y cinco veces el salario mínimo a las sanciones que corresponderían con arreglo a los artículos precedentes.
+
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 118.
 
-Cuando en la comisión de las lesiones intervengan dos o más individuos y no constare quién o quiénes fueron los autores de aquéllas, se les impondrán de un mes hasta las tres cuartas partes del máximo de la sanción que correspondería al delito de lesiones cometidas según su modalidad y multa hasta de ocho mil pesos.
+Cuando en la comisión de las lesiones intervengan dos o más individuos y no constare quién o quiénes fueron los autores de aquéllas, se les impondrán de un mes hasta las tres cuartas partes del máximo de la sanción que correspondería al delito de lesiones cometidas según su modalidad y multa hasta de sesenta veces el salario mínimo.
 
 > <small>(REFORMADO, G.O. 9 DE ABRIL DE 1988)</small>
 
@@ -857,9 +897,11 @@ Hay traición cuando se viola la seguridad que expresamente se había prometido 
 
 Se impondrán las sanciones del homicidio o lesiones calificadas, cuando el delincuente revele máxima peligrosidad, en virtud de los móviles, medios o circunstancias en la realización del delito.
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 126.
 
-Cuando los delitos de homicidio o lesiones se cometan en lugar concurrido por personas ajenas a los hechos y que pudieren resultar muertas o heridas, se aumentarán las sanciones correspondientes hasta en cinco años de prisión y hasta en diez mil pesos la multa.
+Cuando los delitos de homicidio o lesiones se cometan en lugar concurrido por personas ajenas a los hechos y que pudieren resultar muertas o heridas, se aumentarán las sanciones correspondientes hasta en cinco años de prisión y la multa hasta en cien veces el salario mínimo.
 
 ###### ARTICULO 127.
 
@@ -871,13 +913,15 @@ II.-Prohibirles ir a una circunscripción territorial determinada o de residir e
 
 ### CAPITULO IV. INDUCCION O AYUDA AL SUICIDIO
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 128.
 
-Al que induzca o ayude a otro al suicidio se le impondrán de dos a nueve años de prisión y multa hasta de diez mil pesos si éste se consumare.
+Al que induzca o ayude a otro al suicidio se le impondrán de dos a nueve años de prisión y multa hasta de sesenta y cinco veces el salario mínimo si éste se consumare.
 
-Si el suicidio no se llevare a efecto, se le impondrán al que induzca o al que ayude, de seis meses a tres años de prisión y multa hasta de cinco mil pesos.
+Si el suicidio no se llevare a efecto, se le impondrán al que induzca o al que ayude, de seis meses a tres años de prisión y multa hasta de cuarenta veces el salario mínimo.
 
-Si la persona a quien se induzca o ayude al suicidio fuere menor de edad o no tuviere capacidad de comprender, se sancionará al que induzca o al que ayude con prisión de tres a quince años y multa hasta de quince mil pesos, si el suicidio se consumare; y si no se llevare a efecto, con prisión de uno a cinco años y multa hasta de ocho mil pesos.
+Si la persona a quien se induzca o ayude al suicidio fuere menor de edad o no tuviere capacidad de comprender, se sancionará al que induzca o al que ayude con prisión de tres a quince años y multa hasta de cien veces el salario mínimo, si el suicidio se consumare; y si no se llevare a efecto, con prisión de uno a cinco años y multa hasta de sesenta veces el salario mínimo.
 
 ### CAPITULO V. ABORTO
 
@@ -885,13 +929,17 @@ Si la persona a quien se induzca o ayude al suicidio fuere menor de edad o no tu
 
 Comete el delito de aborto quien causa la muerte del producto de la concepción, en cualquier momento de la preñez.
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 130.
 
-A la mujer que se procure el aborto o a la persona que la hiciere abortar con el consentimiento de aquélla, se le aplicarán de uno a seis años de prisión y multa hasta de diez mil pesos.
+A la mujer que se procure el aborto o a la persona que la hiciere abortar con el consentimiento de aquélla, se le aplicarán de uno a seis años de prisión y multa hasta de setenta y cinco veces el salario mínimo.
+
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 131.
 
-Al que en cualquier momento del embarazo hiciere abortar a una mujer sin su consentimiento, se le aplicarán prisión de dos a siete años y multa hasta de quince mil pesos. Si se empleare la violencia física o moral las sanciones serán de tres a nueve años de prisión y multa hasta de veinte mil pesos.
+Al que en cualquier momento del embarazo hiciere abortar a una mujer sin su consentimiento, se le aplicarán prisión de dos a siete años y multa hasta de cien veces el salario mínimo. Si se empleare la violencia física o moral las sanciones serán de tres a nueve años de prisión y multa hasta de ciento cincuenta veces el salario mínimo.
 
 ARTICULO132.-Si el aborto lo causare un médico, partero o enfermero, además de las sanciones que les correspondan conforme a los artículos anteriores, será suspendido de dos a cinco años en el ejercicio de su profesión.
 
@@ -911,55 +959,73 @@ IV.-Cuando se practique con el consentimiento de la madre y del padre en su caso
 
 ### CAPITULO I. OMISION DE AUXILIO
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 134.
 
-Al que omita prestar el auxilio necesario a una persona que esté en su presencia y que estuviere amenazada de un peligro personal, siendo aquél capaz de otorgarlo, sin riesgo de su parte, o al que no estando en condiciones de llevarlo a cabo no diere aviso inmediato a la autoridad, se le impondrán de quince días a dos años de prisión y multa hasta de tres mil pesos.
+Al que omita prestar el auxilio necesario a una persona que esté en su presencia y que estuviere amenazada de un peligro personal, siendo aquél capaz de otorgarlo, sin riesgo de su parte, o al que no estando en condiciones de llevarlo a cabo no diere aviso inmediato a la autoridad, se le impondrán de quince días a dos años de prisión y multa hasta de veinte veces el salario mínimo.
 
 ### CAPITULO II. OMISION DE CUIDADO
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 135.
 
-Al que abandone a una persona incapaz de valerse por sí misma, teniendo la obligación de cuidarla, se le impondrán de un mes a cinco años de prisión y multa hasta de cinco mil pesos.
+Al que abandone a una persona incapaz de valerse por sí misma, teniendo la obligación de cuidarla, se le impondrán de un mes a cinco años de prisión y multa hasta de cuarenta veces el salario mínimo.
 
 ### CAPITULO III. OMISION DE AUXILIO A ATROPELLADOS
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 136.
 
-Al que culposa o fortuitamente atropelle a una persona y no le prestare o facilitare asistencia de manera inmediata, será sancionado de quince días a dos años de prisión y multa hasta de tres mil pesos.
+Al que culposa o fortuitamente atropelle a una persona y no le prestare o facilitare asistencia de manera inmediata, será sencionado (sic) de quince días a dos años de prisión y multa hasta de veinte veces el salario mínimo.
 
 ### CAPITULO IV. EXPOSITOS
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 137.
 
-Al que entregue un niño menor de siete años de edad que se le hubiere confiado con obligación de cuidarlo, a un establecimiento de beneficencia o a cualquier otra persona sin anuencia de la que se lo confió o de la autoridad, se le aplicarán prisión de seis meses a un año y multa hasta de tres mil pesos.
+Al que entregue un niño menor de siete años de edad que se le hubiere confiado con obligación de cuidarlo, a un establecimiento de beneficencia o a cualquier otra persona sin anuencia de la que se le confió o de la autoridad, se le aplicarán prisión de seis meses a un año y multa hasta de veinte veces el salario mínimo.
 
 ### CAPITULO V. PELIGRO DE CONTAGIO
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 138.
 
-Al que padeciendo alguna enfermedad grave y transmisible, ponga en peligro de contagio a otro, violando un deber de cuidado, será sancionado con multa hasta de tres mil pesos y recluido en el establecimiento adecuado hasta obtener su curación.
+Al que padeciendo alguna enfermedad grave y transmisible, ponga en peligro de contagio a otro, violando un deber de cuidado, será sancionado con multa hasta de cincuenta veces el salario mínimo y recluido en el establecimiento adecuado hasta obtener su curación.
 
 ### CAPITULO I. PRIVACION DE LA LIBERTAD FISICA
+
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ## TITULO III. DELITOS CONTRA LA LIBERTAD
 
 ### CAPITULO II. PRIVACION DE LA LIBERTAD LABORAL
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 139.
 
-Al particular que ilegítimamente prive a otro de su libertad física, se le impondrán de uno a cuatro años de prisión y multa hasta de cinco mil pesos.
+Al particular que ilegítimamente prive a otro de su libertad física, se le impondrán de uno a cuatro años de prisión y multa hasta de cuarenta veces el salario mínimo.
 
 ### CAPITULO III. SECUESTRO
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 140.
 
-Al que obligue a otro a prestar servicios laborales, se le impondrán de uno a cuatro años de prisión y multa hasta de cinco mil pesos.
+Al que obligue a otro a prestar servicios laborales, se le impondrán de uno a cuatro años de prisión y multa hasta de cuarenta veces el salario mínimo.
 
 ### CAPITULO IV. RAPTO
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 141.
 
-Se impondrán de dos a veinte años de prisión y multa de cinco mil a cincuenta mil pesos, al que prive de su libertad a otro si se realiza dentro de las siguientes hipótesis:
+Se impondrán de dos a veinte años de prisión y multa hasta de trescientas cincuenta veces el salario mínimo, al que prive de su libertad a otro si se realiza dentro de las siguientes hipótesis:
 
 I.- Cuando se trate de obtener rescate;
 
@@ -971,11 +1037,15 @@ IV.-Cuando se pretenda que la autoridad realice o deje de hacer un acto de cualq
 
 V.-Cuando siendo extraño a su familia, sustraiga, retenga o por medio de engaño o aprovechamiento de error, obtenga a un menor de doce años de edad.
 
-Si el secuestrador pone espontáneamente en libertad a la víctima dentro de los tres días siguientes a la consumación del delito, sin causarle daño, se le impondrán de seis meses a dos años de prisión y multa hasta de cinco mil pesos.
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
+Si el secuestrador pone espontáneamente en libertad a la víctima dentro de los tres días siguientes a la consumación del delito, sin causarle daño, se le impondrán de seis meses a dos años de prisión y multa hasta de cuarenta veces el salario mínimo.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 142.
 
-El secuestro será sancionado de cinco a treinta años de prisión y multa de diez mil a sesenta mil pesos, en los siguientes casos:
+El secuestro será sancionado de cinco a treinta años de prisión y multa hasta de cuatrocientas cincuenta veces el salario mínimo, en los siguientes casos:
 
 I.- Cuando se haga uso de amenazas graves, malos tratos o tormento en la víctima;
 
@@ -993,13 +1063,15 @@ V.-Cuando se produzca por tres o más agentes.
 
 ###### ARTICULO 143.
 
-Al que sustraiga o retenga a una mujer por medio de la violencia física o moral, de la seducción o del engaño, para satisfacer algún deseo sexual o para casarse, se le impondrán de seis meses a cinco años de prisión y multa hasta de cinco mil pesos.
+Al que sustraiga o retenga a una mujer por medio de la violencia física o moral, de la seducción o del engaño, para satisfacer algún deseo sexual o para casarse, se le impondrán de seis meses a cinco años de prisión y multa hasta de cuarenta veces el salario mínimo.
 
 Si la ofendida fuere mayor de dieciséis años, el rapto sólo se sancionará cuando se cometa por medio de la violencia física o moral.
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 144.
 
-Al que con idénticos fines a que se refiere el artículo anterior, sustraiga o retenga a una mujer menor de catorce años de edad o que no tenga capacidad de comprender o que por cualquier causa no pudiere resistir, se le impondrán de uno a seis años de prisión y multa hasta de diez mil pesos.
+Al que con idénticos fines a que se refiere el artículo anterior, sustraiga o retenga a una mujer menor de catorce años de edad o que no tenga capacidad de comprender o que por cualquier causa no pudiere resistir, se le impondrán de uno a seis años de prisión y multa hasta de ochenta veces el salario mínimo.
 
 ###### ARTICULO 145.
 
@@ -1010,6 +1082,8 @@ Cuando el raptor contraiga matrimonio con la mujer ofendida, si ésta prestó su
 No se procederá contra el raptor, si no por queja de la persona ofendida o de su cónyuge o combinario (sic), pero si la raptada fuere menor de edad o se estuviere en el caso del artículo 144, se procederá por querella de quien ejerza la patria potestad, la tutela, la custodia, o en su defecto de la misma menor.
 
 ### CAPITULO VI. COACCION Y AMENAZAS
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 147.
 
@@ -1023,23 +1097,29 @@ Si de la violencia resultare la comisión de otro delito, se aplicarán las regl
 
 EXPRESION
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 148.
 
-Al que mediante violencia física o moral obligue a otro a hacer, omitir, o tolerar algo, se le impondrán prisión de seis meses a dos años y multa hasta de cinco mil pesos.
+Al que mediante violencia física o moral obligue a otro a hacer, omitir, o tolerar algo, se le impondrán prisión de seis meses a dos años y multa hasta de cuarenta veces el salario mínimo.
 
 Las mismas sanciones se aplicarán al que amenace a otro con causarle un daño en su persona, o derechos, o en la de otra con la que esté ligado con algún vínculo.
 
 ### CAPITULO VIII. ALLANAMIENTO DE MORADA
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 149.
 
-Al que ilegítimamente turbe o disuelva una reunión o impida a otro la expresión de sus ideas o creencias, se le impondrán de seis meses a tres años de prisión y multa hasta de cinco mil pesos.
+Al que ilegítimamente turbe o disuelva una reunión o impida a otro la expresión de sus ideas o creencias, se le impondrán de seis meses a tres años de prisión y multa hasta de cuarenta veces el salario mínimo.
 
 ### CAPITULO IX. REVELACION DE SECRETOS
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 150.
 
-Al que sin motivo justificado o empleando engaño se introduzca a una morada o a sus dependencias, sin el consentimiento de la persona autorizada para darlo, se le impondrán de un mes a tres años de prisión y multa hasta de tres mil pesos.
+Al que sin motivo justificado o empleando engaño se introduzca a una morada o a sus dependencias, sin el consentimiento de la persona autorizada para darlo, se le impondrán de un mes a tres años de prisión y multa hasta de veinte veces el salario mínimo.
 
 Las mismas sanciones se aplicarán al que permanezca en una morada o sus dependencias, sin el consentimiento de la persona autorizada para darlo.
 
@@ -1049,15 +1129,17 @@ Las mismas sanciones se aplicarán al que permanezca en una morada o sus depende
 
 ###### ARTICULO 151.
 
-El que teniendo conocimiento de un secreto, lo revelare, si de ello pudiere resultar daño para alguien, se le impondrán prisión de un mes a un año y multa hasta de dos mil pesos.
+El que teniendo conocimiento de un secreto, lo revelare, si de ello pudiere resultar daño para alguien, se le impondrán prisión de un mes a un año y multa hasta de veinte veces el salario mínimo.
 
-Las sanciones serán de seis meses a tres años de prisión y multa hasta de cuatro mil pesos, si el que divulgare el secreto lo hubiere conocido por razón de su actividad, empleo, cargo, puesto, profesión, arte u oficio.
+Las sanciones serán de seis meses a tres años de prisión y multa hasta de cuarenta veces el salario mínimo, si el que divulgare el secreto lo hubiere conocido por razón de su actividad, empleo, cargo, puesto, profesión, arte u oficio.
 
 ## TITULO IV. DELITOS CONTRA LA LIBERTAD
 
 Y LA SEGURIDAD SEXUAL
 
 ### CAPITULO II. ESTUPRO
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 152.
 
@@ -1085,9 +1167,11 @@ Cuando el violador hubiere cometido el delito utilizando los medios o circunstan
 
 ### CAPITULO III. ABUSOS DESHONESTOS
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 156.
 
-Al que realice cópula con una mujer menor de dieciséis años y mayor de catorce que viva honestamente, obteniendo su consentimiento por medio de seducción o engaño, se le impondrán de seis meses a tres años de prisión y multa hasta de cinco mil pesos.
+Al que realice cópula con una mujer menor de dieciséis años y mayor de catorce que viva honestamente, obteniendo su consentimiento por medio de seducción o engaño, se le impondrán de seis meses a tres años de prisión y multa hasta de cuarenta veces el salario mínimo.
 
 La reparación del daño comprenderá el pago de alimentos a la mujer y al hijo, si lo hubiere, observándose las reglas que sobre la forma y términos de pago fija el Código Civil para los casos de divorcio.
 
@@ -1101,9 +1185,9 @@ Si el delincuente contrae matrimonio con la mujer ofendida, se extinguirá la ac
 
 ###### ARTICULO 158.
 
-Al que sin el consentimiento de una persona púber o impúber, o con el consentimiento de esta última, ejecute en ella o la haga ejecutar un acto erótico sin el propósito de llegar a la cópula, se le aplicarán de un mes a un año de prisión y multa hasta de cuatro mil pesos.
+Al que sin el consentimiento de una persona púber o impúber, o con el consentimiento de esta última, ejecute en ella o la haga ejecutar un acto erótico sin el propósito de llegar a la cópula, se le aplicarán de un mes a un año de prisión y multa hasta de treinta veces el salario.
 
-Si se hiciere uso de la violencia física o moral, la sanción será de tres meses a cuatro años de prisión y multa hasta de seis mil pesos.
+Si se hiciere uso de la violencia física o moral, la sanción será de tres meses a cuatro años de prisión y multa hasta de cincuenta veces el salario mínimo.
 
 ###### ARTICULO 159.
 
@@ -1111,9 +1195,13 @@ El delito de abusos deshonestos será perseguido por querella de parte ofendida 
 
 ### CAPITULO II. DIFAMACIÓN
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ## TITULO V. DELITOS CONTRA EL HONOR
 
 ### CAPITULO III. CALUMNIA
+
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 160.
 
@@ -1131,7 +1219,7 @@ DELITOS CONTRA EL HONOR
 
 ###### ARTICULO 162.
 
-Al que comunique dolosamente a una o más personas, la imputación que se hace a otra persona, física o moral, de un hecho cierto o falso, determinado o indeterminado que cause o pueda causarle deshonra, descrédito, perjuicio o exponerlo al desprecio de alguien, se le impondrá de seis meses a cuatro años de prisión y multa hasta de cinco mil pesos.
+Al que comunique dolosamente a una o más personas, la imputación que se haga otra persona, física o moral, de un hecho cierto o falso, determinado o indeterminado que cause o pueda causarle deshonra, descrédito, perjuicio o exponerlo al desprecio de alguien, se le impondrá de seis meses a cuatro años de prisión y multa hasta de cuarenta veces el salario mínimo.
 
 ###### ARTICULO 163.
 
@@ -1147,7 +1235,7 @@ II.-Si el hecho imputado está declarado cierto por sentencia firme y al acusado
 
 ###### ARTICULO 164.
 
-Al que impute a otro un hecho determinado, que la ley califique como delito, si este hecho es falso, se le impondrán de seis meses a cinco años de prisión y multa hasta de seis mil pesos.
+Al que impute a otro un hecho determinado, que la ley califique como delito, si este hecho es falso, se le impondrán de seis meses a cinco años de prisión y multa hasta de cincuenta veces el salario mínimo.
 
 ###### ARTICULO 165.
 
@@ -1179,9 +1267,11 @@ Los impresos, litografías, gravados, pinturas, discos o cualquier otra cosa que
 
 En tal caso, se hará en el documento una anotación sumaria de la sentencia pronunciada contra el acusado.
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 171.
 
-Siempre que sea condenado el responsable de un delito de difamación o calumnia, si lo solicita la parte ofendida, se hará publicación de sentencia. Cuando el delito se haya cometido por medio de un órgano de comunicación social, los dueños, directores o gerentes de éste, estarán obligados a dar a conocer el fallo, imponiéndoseles también multa de doscientos pesos por cada día que pase sin hacerlo, después de aquél en que se les notifique la sentencia. El importe de la multa no podrá exceder de veinte mil pesos.
+Siempre que sea condenado el responsable de un delito de difamación o calumnia, si lo solicita la parte ofendida, se hará publicación de sentencia. Cuando el delito se haya cometido por medio de un órgano de comunicación social, los dueños, directores o gerentes de éste, estarán obligados a dar a conocer el fallo, imponiéndoseles también multa de dos veces el salario mínimo por cada día que pase sin hacerlo, después de aquél en que se les notifique la sentencia. El importe de la multa no podrá exceder de doscientas veces el salario mínimo.
 
 ###### ARTICULO 172.
 
@@ -1465,8 +1555,6 @@ Cuando el delito de despojo se cometa en el área rural, sin violencia, se trate
 
 ### CAPITULO XI. DISPOSICIONES COMUNES A LOS DELITOS CONTRA EL PATRIMONIO
 
-> <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
-
 ###### ARTICULO 194.
 
 Al que por cualquier medio destruya o deteriore una cosa total o parcialmente ajena o propia, en perjuicio de tercero, se le impondrán prisión de tres meses a siete años y multa hasta de cien veces el salario.
@@ -1489,11 +1577,11 @@ El delito de daños sólo se perseguirá a petición del legitimado para hacerlo
 
 ABANDONO DE FAMILIARES
 
-> <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 197.
 
-Al que después de la ejecución del delito y sin haber participado en él, con ánimo dominio, de lucro o uso, adquiera, reciba u oculte el producto del delito a sabiendas que provenía de éste, o no tomó las medidas indispensables para cerciorarse de la legítima procedencia, o si de acuerdo con las circunstancias debía presumir su ilegítima procedencia, o al que ayude a otro para los mismos fines, se le aplicarán:
+Al que después de la ejecución del delito y sin haber participado en él, con ánimo de dominio, lucro o uso, adquiera, reciba u oculte el producto del delito a sabiendas que provenía de éste, o no tomó las medidas indispensables para cerciorarse de la legítima procedencia, o si de acuerdo con las circunstancias debía presumir su ilegítima procedencia, o al que ayude a otro para los mismos fines, se le aplicarán:
 
 I.-Si es con ánimo de dominio o uso de seis meses a cuatro años de prisión y multa hasta de cincuenta veces el salario;
 
@@ -1507,9 +1595,11 @@ Se equipara al encubrimiento por receptación, el borrar, modificar o de cualqui
 
 ### CAPITULO II. SUSTRACCION DE MENORES O INCAPACES
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 198.
 
-Para los efectos de este Título, se entiende por salario, el salario mínimo general que esté vigente en la zona y en el tiempo en que se cometió el delito.
+(DEROGADO, G.O. 19 DE FEBRERO DE 1991)
 
 > <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
@@ -1533,15 +1623,17 @@ Las sanciones previstas para los delitos de robo, abigeato, fraude, administraci
 
 ### CAPITULO III. DELITOS CONTRA LA FILIACION Y EL ESTADO CIVIL
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 201.
 
-Al que sin motivo justificado deje de cumplir con la obligación de dar alimentos a sus hijos, se le impondrán de uno a seis años de prisión, multa hasta de treinta mil pesos y si el Juez lo estima conveniente, suspensión o privación de derechos de familia.
+Al que sin motivo justificado deje de cumplir con la obligación de dar alimentos a sus hijos, se le impondrán de uno a seis años de prisión, multa hasta de doscientas veces el salario mínimo y si el Juez lo estima conveniente, suspensión o privación de derechos de familia.
 
-> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 202.
 
-Al que sin motivo justificado abandone, a persona distinta a sus hijos, a quien legalmente tenga el deber de dar alimentos, sin recursos para atender a sus necesidades de subsistencia, se le impondrán de tres meses a cuatro años de prisión, multa hasta de veinte mil pesos y si el Juez lo estima conveniente, suspensión o privación de derechos de familia.
+Al que sin motivo justificado abandone, a persona distinta a sus hijos, a quien legalmente tenga el deber de dar alimentos, sin recursos para atender a sus necesidades de subsistencia, se le impondrán de tres meses a cuatro años de prisión, multa hasta de ciento cincuenta veces el salario mínimo y si el Juez lo estima conveniente, suspensión o privación de derechos de familia.
 
 > <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
@@ -1563,15 +1655,19 @@ No procederá el perdón, para quien habiendo sido perdonado anteriormente por l
 
 ### CAPITULO IV. BIGAMIA
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 206.
 
-Al familiar de un menor de doce años de edad o de un incapacitado de comprender, o al que por instrucciones de aquél, lo sustraiga de la custodia o guarda de quien legítimamente la tenga, o bien lo retenga sin la voluntad de éste, se le impondrán de uno a seis años de prisión y multa hasta de cinco mil pesos.
+Al familiar de un menor de doce años de edad o de un incapacitado de comprender, o al que por instrucciones de aquél, lo sustraiga de la custodia o guarda de quien legítimamente la tenga, o bien lo retenga sin la voluntad de éste, se le impondrán de uno a seis años de prisión y multa hasta de cuarenta veces el salario mínimo.
 
 ### CAPITULO V. MATRIMONIOS ILEGALES
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 207.
 
-Se impondrá prisión de seis meses a cuatro años y multa hasta de cinco mil pesos al que, con el fin de alterar la filiación o el estado civil.
+Se impondrá prisión de seis meses a cuatro años y multa hasta de cuarenta veces el salario mínimo al que, con el fin de alterar la filiación o el estado civil.
 
 I.- Inscriba o haga inscribir en el registro civil a una persona con una filiación que no le corresponde;
 
@@ -1583,9 +1679,11 @@ IV.-Usurpe el estado civil o la filiación de otro con el fin de adquirir derech
 
 ### CAPITULO VI. INCESTO
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 208.
 
-Al que contrajere nuevo matrimonio, sin hallarse legítimamente disuelto el anterior, se le impondrán de seis meses a cinco años de prisión y multa hasta de diez mil pesos. Las mismas sanciones se aplicarán al otro contrayente, si conocía el impedimento al tiempo de celebrarse el matrimonio.
+Al que contrajere nuevo matrimonio, sin hallarse legítimamente disuelto el anterior, se le impondrán de seis meses a cinco años de prisión y multa hasta de ochenta veces el salario mínimo. Las mismas sanciones se aplicarán al otro contrayente, si conocía el impedimento al tiempo de celebrarse el matrimonio.
 
 ### CAPITULO I. CONTRA EL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
@@ -1593,17 +1691,21 @@ Al que contrajere nuevo matrimonio, sin hallarse legítimamente disuelto el ante
 
 ###### ARTICULO 209.
 
-Al que fuera del caso de bigamia contraiga matrimonio con conocimiento de la existencia de un impedimento no dispensable, se le impondrán sanción de seis meses a cuatro años de prisión y multa hasta de cinco mil pesos.
+Al que fuera del caso de bigamia contraiga matrimonio con conocimiento de la existencia de un impedimento no dispensable, se le impondrán sanción de seis meses a cuatro años de prisión y multa hasta de cuarenta veces el salario mínimo.
 
 Las mismas sanciones se impondrán al encargado del Registro Civil que teniendo conocimiento del impedimento, autorice la celebración del matrimonio.
 
 ### CAPITULO II. ESTRAGOS
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 210.
 
-A los ascendientes consanguíneos, afines en primer grado o civiles que tengan cópula con sus descendientes, se les impondrá sanción de uno a seis años de prisión y multa hasta de diez mil pesos.
+A los ascendientes consanguíneos, afines en primer grado o civiles que tengan cópula con sus descendientes, se les impondrá sanción de uno a seis años de prisión y multa hasta de ochenta veces el salario mínimo.
 
-La pena aplicable a los descendientes será de seis meses a cuatro años de prisión y multa hasta de cuatro mil pesos.
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
+La pena aplicable a los descendientes será de seis meses a cuatro años de prisión y multa hasta de treinta veces el salario mínimo.
 
 Se aplicarán las últimas sanciones en caso de que la cópula sea entre hermanos.
 
@@ -1614,6 +1716,8 @@ SEGURIDAD COLECTIVA
 > <small>(REFORMADA SU DENOMINACION, G.O. 26 DE MAYO DE 1990)</small>
 
 ### CAPITULO III. ASOCIACION DELICTUOSA
+
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 211.
 
@@ -1629,21 +1733,27 @@ PROVOCACION A COMETER UN DELITO,
 
 APOLOGIA DE ESTE O DE ALGUN VICIO
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 212.
 
-Al que mediante incendio, explosión, inundación o por cualquiera otra causa, creare un peligro común para los bienes o para las personas, se le impondrán prisión de uno a siete años y multa hasta de veinte mil pesos.
+Al que mediante incendio, explosión, inundación o por cualquiera otra causa, creare un peligro común para los bienes o para las personas, se le impondrán prisión de uno a siete años y multa hasta de ciento cincuenta veces el salario mínimo.
 
 ### CAPITULO I. DELITOS CONTRA LA SEGURIDAD VIAL Y LOS MEDIOS DE TRANSPORTE
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 213.
 
-Al que de manera permanente formare parte de una asociación o banda de tres o más personas, destinada a delinquir, se le impondrán de uno a siete años de prisión y multa hasta de cinco mil pesos.
+Al que de manera permanente formare parte de una asociación o banda de tres o más personas, destinada a delinquir, se le impondrán de uno a siete años de prisión y multa hasta de cuarenta veces el salario mínimo.
 
 ### CAPITULO II. VIOLACION DE CORRESPONDENCIA
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 214.
 
-Al que provoque públicamente a cometer un delito o haga la apología de éste o de un vicio, se le aplicarán de uno a tres años de prisión y multa hasta de cinco mil pesos.
+Al que provoque públicamente a cometer un delito o haga la apología de éste o de un vicio, se le aplicarán de uno a tres años de prisión y multa hasta de cuarenta veces el salario mínimo.
 
 ## TITULO IX. DELITOS CONTRA LA SEGURIDAD DE LOS MEDIOS
 
@@ -1651,19 +1761,25 @@ DE TRANSPORTE Y DE LAS VIAS DE COMUNICACION
 
 ### CAPITULO III. DELITOS CONTRA LA SEGURIDAD DEL TRANSITO DE VEHICULOS
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 215.
 
-Al que obstaculice una vía de comunicación estatal, se le sancionará con prisión de seis meses a dos años y multa hasta de diez mil pesos.
+Al que obstaculice una vía de comunicación estatal, se le sancionará con prisión de seis meses a dos años y multa hasta de ochenta veces el salario mínimo.
+
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 216.
 
-Al que dañe o destruya alguna vía de comunicación estatal o cualquier medio de transporte público local, sea de pasajeros o de carga, interrumpiendo o dificultando los servicios de una u otro, se le sancionará con prisión de uno a cinco años y multa hasta de cuarenta mil pesos.
+Al que dañe o destruya alguna vía de comunicación estatal o cualquier medio de transporte público local, sea de pasajeros o de carga, interrumpiendo o dificultando los servicios de una u otro, se le sancionará con prisión de uno a cinco años y multa hasta de trescientas veces el salario mínimo.
 
-Al que en la ejecución de estos hechos se valga de explosivos, se le impondrán de cuatro a doce años de prisión y hasta cincuenta mil pesos de multa.
+Al que en ejecución estos hechos se valga de explosivos, se le impondrán de cuatro a doce años de prisión y multa hasta de cuatrocientas veces el salario mínimo.
+
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 217.
 
-Al que ponga en movimiento un vehículo de motor o maquinaria similar y su desplazamiento sin control pueda causar daño, se le impondrán de uno a cinco años de prisión y multa hasta de quince mil pesos.
+Al que ponga en movimiento un vehículo de motor o maquinaria similar y su desplazamiento sin control pueda causar daño, se le impondrán de uno a cinco años de prisión y multa hasta de cien veces el salario mínimo.
 
 ###### ARTICULO 218.
 
@@ -1671,9 +1787,11 @@ Al que destruya, inutilice, quite o cambie un dispositivo o señal de seguridad 
 
 ### CAPITULO I. FALSIFICACION DE SELLOS, LLAVES, MARCAS Y CONTRASEÑAS
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 219.
 
-Se aplicarán de seis meses a un año de prisión y multa hasta de cinco mil pesos:
+Se aplicarán de seis meses a un año de prisión y multa hasta de cuarenta veces el salario mínimo:
 
 I.- Al que abra indebidamente una comunicación escrita que no esté dirigida a él; y
 
@@ -1685,23 +1803,29 @@ No se impondrá sanción a los que ejerciendo la patria potestad o la tutela, ab
 
 ### CAPITULO II. FALSIFICACION DE DOCUMENTOS
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 221.
 
-Se impondrán de seis meses a dos años de prisión o multa hasta de quince mil pesos y suspensión de derechos para conducir vehículos hasta por dos años:
+Se impondrán de seis meses a dos años de prisión o multa hasta de cien veces el salario mínimo y suspensión de derechos para conducir vehículos hasta por dos años:
 
 I.- Al que conduzca un vehículo con temeridad y ponga en peligro la vida o la salud persona o los bienes de alguien; y
 
 II.-Al que en estado de ebriedad o bajo el influjo de medicamentos, estupefacientes, psicotrópicos u otras substancias que produzcan efectos similares, maneje vehículos de motor.
 
-Si este delito se comete por conductores de vehículos de transporte público de pasajeros o de carga, las sanciones serán de uno a cuatro años de prisión y multa hasta de veinte mil pesos.
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
+Si este delito se comete por conductores de vehículos de transporte público de pasajeros o de carga, las sanciones serán de uno a cuatro años de prisión y multa hasta de ciento cincuenta veces el salario mínimo.
 
 ## TITULO X. DELITOS DE FALSEDAD Y CONTRA LA FE PUBLICA
 
 ### CAPITULO III. USO DE DOCUMENTO FALSO
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 222.
 
-Se impondrán de seis meses a tres años de prisión y multa hasta de cinco mil pesos, al que con el fin de obtener algún provecho o para causar daño:
+Se impondrán de seis meses a tres años de prisión y multa hasta de cuarenta veces el salario mínimo, al que con el fin de obtener algún provecho o para causar daño:
 
 I.- Falsifique los sellos, contraseñas o marcas oficiales;
 
@@ -1713,9 +1837,11 @@ IV.-Al que procurándose los verdaderos sellos, contraseñas, marcas o estampill
 
 ### CAPITULO IV. USURPACION DE PROFESION
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 223.
 
-Se impondrán de uno a cinco años de prisión y multa hasta de veinte mil pesos, al que para obtener un beneficio propio o ajeno o para causar un perjuicio:
+Se impondrán de uno a cinco años de prisión y multa hasta de ciento cincuenta veces el salario mínimo, al que para obtener un beneficio propio o ajeno o para causar un perjuicio:
 
 I.- En todo o en parte falsifique o altere un documento público o privado;
 
@@ -1743,63 +1869,81 @@ Cuando alguno de los delitos previstos en este Capítulo, sea ejecutado por un f
 
 ### CAPITULO I. ULTRAJES A LA MORAL PUBLICA
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 226.
 
-Al que a sabiendas hiciere uso de un documento falso o alterado, se le impondrán prisión de seis meses a cuatro años y multa hasta de cinco mil pesos.
+Al que a sabiendas hiciere uso de un documento falso o alterado, se le impondrán prisión de seis meses a cuatro años y multa hasta de cuarenta veces el salario mínimo.
 
 ### CAPITULO II. CORRUPCION DE MENORES
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 227.
 
-Al que ejerza actos propios de una profesión sin tener el título correspondiente o la debida autorización, se le impondrán de seis meses a tres años de prisión y multa hasta de diez mil pesos.
+Al que ejerza actos propios de una profesión sin tener el título correspondiente o la debida autorización, se le impondrán de seis meses a tres años de prisión y multa hasta de ochenta veces el salario mínimo.
 
 ## TITULO XI. DELITOS CONTRA LA MORAL PUBLICA
 
 ### CAPITULO III. LENOCINIO
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 228.
 
-Al que fabrique, publique, reproduzca, transporte o posea escritos, dibujos, grabados, pinturas, impresos, imágenes, anuncios, emblemas, fotografías, películas cinematográficas u otros objetos obscenos, con el fin de distribuirlos o exponerlos públicamente y, al que ejecute o haga ejecutar en público exhibiciones obscenas, se le aplicarán de seis meses a un año de prisión y multa hasta de cinco mil pesos.
+Al que fabrique, publique, reproduzca, transporte o posea escritos, dibujos, grabados, pinturas, impresos, imágenes, anuncios, emblemas, fotografías, películas cinematográficas u otros objetos obscenos, con el fin de distribuirlos o exponerlos públicamente y, al que ejecute o haga ejecutar en público exhibiciones obscenas, se le aplicarán de seis meses a un año de prisión y multa hasta de cuarenta veces el salario mínimo.
 
 ### CAPITULO I. VIOLACION DE LAS LEYES SOBRE INHUMACIONES Y EXHUMACIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 229.
 
-Al que procure o facilite la corrupción de cualquier naturaleza, de un menor de dieciséis años de edad, se le impondrán de seis meses a cinco años de prisión y multa hasta de veinte mil pesos y se le inhabilitará para ser tutor o curador.
+Al que procure o facilite la corrupción de cualquier naturaleza, de un menor de dieciséis años de edad, se le impondrán de seis meses a cinco años de prisión y multa hasta de ciento cincuenta veces el salario mínimo y se le inhabilitará para ser tutor o curador.
 
 ###### ARTICULO 230.
 
 Si el corruptor es ascendiente o ejerce autoridad sobre el menor, además de las sanciones señaladas en el artículo anterior, se le privará de todo derecho a los bienes del ofendido y de la patria potestad sobre todos sus descendientes.
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 231.
 
-Al que emplee menores de dieciséis años en cantinas o algún centro de vicio, se le sancionará con prisión de tres meses a tres años y multa hasta de diez mil pesos. Las mismas sanciones se aplicarán a las personas que empleen en esos establecimientos a los menores que están bajo su guarda.
+Al que emplee menores de dieciséis años en cantinas o algún centro de vicio, se le sancionará con prisión de tres meses a tres años y multa hasta de ochenta veces el salario mínimo. Las mismas sanciones se aplicarán a las personas que empleen en esos establecimientos a los menores que están bajo su guarda.
+
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 232.
 
-Al empleado que permita el acceso de menores de edad a salas en que se exhiban películas o se monten espectáculos clasificados de no aptos para aquéllos, se le sancionará con prisión de uno a seis meses y multa hasta de mil pesos.
+Al empleado que permita el acceso de menores de edad a salas en que se exhiban películas o se monten espectáculos clasificados de no aptos para aquéllos, se le sancionará con prisión de uno a seis meses y multa hasta de diez veces el salario mínimo.
 
 ### CAPITULO II. DELITOS CONTRA EL RESPETO A LOS MUERTOS
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 233.
 
-Al que explote el cuerpo de otro por medio del comercio carnal o se mantenga de este comercio, u obtenga de él un lucro cualquiera, se le impondrán de seis meses a ocho años de prisión y multa hasta de treinta mil pesos.
+Al que explote el cuerpo de otro por medio del comercio carnal o se mantenga de este comercio, u obtenga de él un lucro cualquiera, se le impondrán de seis meses a ocho años de prisión y multa hasta de doscientas veces el salario mínimo.
 
 ###### ARTICULO 234.
 
 Al propietario o administrador de cualquier lugar en que se explote la prostitución u obtenga cualquier beneficio con sus productos, se le impondrán las mismas sanciones previstas en el artículo anterior.
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 235.
 
-En caso de que el explotado sea menor de edad, se aumentarán las sanciones previstas en los artículos anteriores de seis meses a tres años la de prisión y la multa hasta diez mil pesos.
+En caso de que el explotado sea menor de edad, se aumentarán las sanciones previstas en los artículos anteriores de seis meses a tres años la de prisión y la multa hasta ochenta veces el salario mínimo.
 
 ## TITULO XII. DELITOS EN MATERIA DE INHUMACIONES Y EXHUMACIONES
 
 ### CAPITULO I. CONSPIRACION
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 236.
 
-Se impondrán de quince días a seis meses de prisión y multa hasta de mil pesos:
+Se impondrán de quince días a seis meses de prisión y multa hasta de diez veces el salario mínimo:
 
 I.- Al que sepulte o mande sepultar un cadáver o parte de él, o feto humano, sin orden de la autoridad que deba darla;
 
@@ -1813,9 +1957,11 @@ IV.-Al que sustraiga o esparza las cenizas de un cadáver o restos humanos ilega
 
 ### CAPITULO II. REBELION
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 237.
 
-Se impondrán prisión de uno a cinco años y multa hasta de cinco mil pesos:
+Se impondrán prisión de uno a cinco años y multa hasta de cuarenta veces el salario mínimo:
 
 I.- Al que viole un túmulo, un sepulcro, una sepultura o un féretro;
 
@@ -1827,15 +1973,19 @@ III.-Al que viole o vilipendie el lugar donde repose un cadáver, restos humanos
 
 ### CAPITULO III. SEDICION
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 238.
 
-Siempre que dos o más personas resuelvan de concierto, cometer alguno de los delitos de que tratan los capítulos II, III y IV de este Título, y acuerden los medios para producirlos, se les impondrán de uno a siete años de prisión, multa hasta de diez mil pesos y suspensión de sus derechos políticos hasta por tres años.
+Siempre que dos o más personas resuelvan de concierto, cometer alguno de los delitos de que tratan los capítulos II, III y IV de este Título, y acuerden los medios para producirlos, se les impondrán de uno a siete años de prisión, multa hasta de ochenta veces el salario mínimo y suspensión de sus derechos políticos hasta por tres años.
 
 ### CAPITULO IV. MOTIN
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 239.
 
-A los que se alcen en armas contra el Gobierno del Estado, no siendo militares en ejercicio, se les impondrán de uno a quince años de prisión, multa hasta de diez mil pesos y se les privará de sus derechos políticos hasta por cinco años, siempre que se propongan algunos de los siguientes fines:
+A los que se alcen en armas contra el Gobierno del Estado, no siendo militares en ejercicio, se les impondrán de uno a quince años de prisión, multa hasta de ochenta veces el salario mínimo y se les privará de sus derechos políticos hasta por cinco años, siempre que se propongan algunos de los siguientes fines:
 
 I.- Abolir o reformar la Constitución Política del Estado o sus instituciones;
 
@@ -1845,17 +1995,21 @@ III.-Separar o impedir el desempeño de su cargo a algún funcionario estatal o 
 
 A los extranjeros que cometan este delito, se les aplicará de uno a veinte años de prisión.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 240.
 
-Se aplicarán de uno a ocho años de prisión, multa hasta de diez mil pesos y privación de sus derechos políticos hasta por cinco años a los que:
+Se aplicarán de uno a ocho años de prisión, multa hasta de ochenta veces el salario mínimo y privación de sus derechos políticos hasta por cinco años a los que:
 
 I.- Proporcionen voluntariamente a los rebeldes recursos de cualquier naturaleza para los fines que persiguen o impidan que las fuerzas del Gobierno los reciban; y
 
 II.-A los funcionarios o empleados públicos estatales o municipales, que teniendo por razón de su cargo, documentos o informes de carácter estratégico, los proporcionen a los rebeldes o por cualquier medio les hagan conocer algún secreto militar.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 241.
 
-Se aplicarán de seis meses a dos años de prisión y multa hasta de tres mil pesos al que:
+Se aplicarán de seis meses a dos años de prisión y multa hasta de veinte veces el salario mínimo, al que:
 
 I.- En cualquier forma o por cualquier medio invite a una rebelión;
 
@@ -1865,17 +2019,23 @@ III.-Al que estando bajo protección y garantía del Gobierno, oculte o auxilie 
 
 IV.-Al que voluntariamente sirva un empleo, cargo subalterno o comisión en lugar ocupado por los rebeldes.
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 242.
 
-A los que violen la inmunidad de un parlamentario o la que da un salvoconducto, se les aplicarán de seis meses a tres años de prisión, multa hasta de tres mil pesos y privación de sus derechos políticos hasta por dos años.
+A los que violen la inmunidad de un parlamentario o la que da un salvoconducto, se les aplicarán de seis meses a tres años de prisión, multa hasta de veinte veces el salario mínimo y privación de sus derechos políticos hasta por dos años.
+
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 243.
 
-A los que violen los deberes de humanidad en los prisioneros y rehenes de guerra o en los lesionados, se les aplicarán de seis meses a cinco años de prisión y multa hasta de diez mil pesos.
+A los que violen los deberes de humanidad en los prisioneros y rehenes de guerra o en los lesionados, se les aplicarán de seis meses a cinco años de prisión y multa hasta de ochenta veces el salario mínimo.
+
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 244.
 
-A los funcionarios o empleados del Gobierno o a los rebeldes que, después de un combate, dieren muerte a los prisioneros, se les aplicarán de diez a treinta años de prisión y multa hasta de veinte mil pesos.
+A los funcionarios o empleados del Gobierno o a los rebeldes que, después de un combate, dieren muerte a los prisioneros, se les aplicarán de diez a treinta años de prisión y multa hasta de ciento cincuenta veces el salario mínimo.
 
 ###### ARTICULO 245.
 
@@ -1887,9 +2047,11 @@ No se aplicará sanción a los rebeldes que depongan las armas antes de ser toma
 
 ### CAPITULO V. TERRORISMO
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 247.
 
-Se impondrán de seis meses a seis años de prisión, multa hasta de diez mil pesos y suspensión hasta por dos años en sus derechos políticos, a los que en forma tumultuaria, sin uso de armas, resistan o ataquen a la autoridad siempre que se propongan alguno de los siguientes fines:
+Se impondrán de seis meses a seis años de prisión, multa hasta de ochenta veces el salario mínimo y suspensión hasta por dos años en sus derechos políticos, a los que en forma tumultuaria, sin uso de armas, resistan o ataquen a la autoridad siempre que se propongan alguno de los siguientes fines:
 
 I.- Impedir el libre ejercicio de sus funciones;
 
@@ -1901,25 +2063,27 @@ IV.-Separar o impedir el desempeño de su cargo a algún funcionario público, e
 
 ### CAPITULO VI. SABOTAJE
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 248.
 
-A quienes para hacer uso de un derecho o pretextando su ejercicio o para evitar el cumplimento de una ley, se reúnan tumultuariamente y perturben el orden público, con empleo de violencia en las personas o sobre las cosas o amenacen a la autoridad para obligarla a tomar alguna determinación, se les impondrán de seis meses a tres años de prisión, multa hasta de cinco mil pesos y suspensión de derechos políticos hasta por dos años.
+A quienes para hacer uso de un derecho o pretextando su ejercicio o para evitar el cumplimento de una Ley, se reúnan tumultuariamente y perturben el orden público, con empleo de violencia en las personas o sobre las cosas o amenacen a la autoridad para obligarla a tomar alguna determinación, se les impondrán de seis meses a tres años de prisión, multa hasta de cuarenta veces el salario mínimo y suspensión de derechos políticos hasta por dos años.
 
 ### CAPITULO VII. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TITULO
 
 ###### ARTICULO 249.
 
-Al que utilizando explosivos, substancias tóxicas, armas de fuego o por incendio, inundación, o por cualquier otro medio realice actos en contra de las personas, las cosas o servicios al público, que produzcan alarma, temor, terror en la población o en un grupo o sector de ella, para perturbar la paz pública o tratar de menoscabar la autoridad del Estado o presionar a ésta para que tome una determinación, se le impondrán de tres a treinta años de prisión, multa hasta de cien mil pesos y suspensión de derechos políticos hasta por cinco años.
+Al que utilizando explosivos, substancias tóxicas, armas de fuego o por incendio, inundación, o por cualquier otro medio realice actos en contra de las personas, las cosas o servicios al público, que produzcan alarma, temor, terror en la población o en un grupo o sector de ella, para perturbar la paz pública o tratar de menoscabar la autoridad del Estado o presionar a ésta para que tome una determinación, se le impondrán de tres a treinta años de prisión, multa hasta de setecientos cincuenta veces el salario mínimo y suspensión de derechos políticos hasta por cinco años.
 
-Al que teniendo conocimiento de las actividades de un terrorista y de su identidad, no lo haga saber a las autoridades, se le impondrán de uno a nueve años de prisión y multa hasta de veinte mil pesos.
+Al que teniendo conocimiento de las actividades de un terrorista y de su identidad, no lo haga saber a las autoridades, se le impondrán de uno a nueve años de prisión y multa hasta de ciento cincuenta veces el salario mínimo.
 
 ### CAPITULO I. EJERCICIO INDEBIDO O ABANDONO DE FUNCIONES PUBLICAS
 
-> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 250.
 
-Se impondrán de dos a veinte años de prisión, multa hasta de veinte mil pesos y suspensión de derechos políticos hasta por tres años, al que con el fin de trastornar gravemente la vida económica o cultural del Estado o para alterar la capacidad de éste para asegurar el orden público, dañe, destruya o entorpezca:
+Se impondrán de dos a veinte años de prisión, multa hasta de ciento cincuenta veces el salario mínimo y suspensión de derechos políticos hasta por tres años, al que con el fin de trastornar gravemente la vida económica o cultural del Estado o para alterar la capacidad de éste para asegurar el orden público, dañe, destruya o entorpezca:
 
 I.- Servicios públicos o centros de producción o distribución de bienes y servicios básicos;
 
@@ -1929,7 +2093,7 @@ III.-Recursos esenciales que el Estado destine para el mantenimiento del orden p
 
 ### CAPITULO II. ABUSO DE AUTORIDAD O INCUMPLIMIENTO DEL DEBER LEGAL
 
-> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 251.
 
@@ -1945,51 +2109,75 @@ La suspensión de derechos políticos, para efectos de los delitos de este Títu
 
 ### CAPITULO III. COALICION
 
-> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 253.
 
-Se impondrán prisión de seis meses a cuatro años y multa hasta de treinta mil pesos, al servidor público que incurra en alguna de las hipótesis siguientes:
+Se impondrán prisión de seis meses a cuatro años y multa hasta de ciento cincuenta veces el salario mínimo, al servidor público que incurra en alguna de las hipótesis siguientes.
+
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
 
 I.-Que ejerza funciones públicas sin llenar los requisitos legales que correspondientes;
 
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
 II.-Que continúe ejerciendo funciones públicas, después de que han cesado los efectos del acto jurídico del que deriva su función;
 
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
 III.-Que ejerza funciones públicas distintas de aquellas para las que fue designado; y
+
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
 
 IV.-Que sin habérsele admitido la renuncia de una comisión, empleo o cargo, o antes de que se presente la persona que haya de reemplazarlo, lo abandone sin causa justificada y con perjuicio del servicio, si el abandono ocurre dentro de los treinta días posteriores a la presentación de la renuncia.
 
 ### CAPITULO IV. COHECHO
 
-> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 254.
 
-Se impondrán de seis meses a seis años de prisión y multa hasta de cincuenta mil pesos, a los servidores públicos que ordenaren o cometieren cualquier acto ilegal o dejaren de cumplir los deberes de su función o en perjuicio de los derechos de alguien o en beneficio propio o ajeno.
+Se impondrán de seis meses a seis años de prisión y multa hasta de doscientas veces el salario mínimo, a los servidores públicos que ordenaren o cometieren cualquier acto ilegal o dejaren de cumplir los deberes de su función o en perjuicio de los derechos de alguien o en beneficio propio o ajeno.
 
-Se impondrán prisión de uno a ocho años y multa hasta de cien mil pesos, al servidor público que:
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
+Se impondrán prisión de uno a ocho años y multa hasta de cuatrocientas veces el salario mínimo, al servidor público que:
+
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
 
 I.-Teniendo conocimiento por razón de su empleo, cargo o comisión de que existe interés en lesionar el patrimonio de los poderes Legislativo, Ejecutivo o Judicial, de alguna Dependencia o Entidad de la Administración Pública, Estatal o Municipal, organismos descentralizados o desconcentrados, empresas de participación estatal o municipal mayoritaria, organizaciones y sociedades asimiladas a éstas o fideicomisos públicos, por cualquier acto u omisión, no informe por escrito a su superior jerárquico o lo evite si está dentro de sus atribuciones, facultades o funciones;
 
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
 II.-Por sí o por interpósita persona, sustraiga, destruya, oculte, utilice o inutilice ilícitamente información o documentación que se halle bajo su custodia a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión;
+
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
 
 III.-Indebidamente otorgue concesiones de prestación del servicio público o de explotación, aprovechamiento y uso de bienes del dominio del Estado o de los municipios;
 
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
 IV.-Indebidamente otorgue permisos, licencias o autorizaciones de contenido económico, franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social; en general sobre ingresos fiscales, y sobre precios y tarifas de los bienes y servicios producidos o prestados en la administración pública estatal o municipal;
+
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
 
 V.-Indebidamente otorgue, realice o contrate obras públicas, deudas, adquisiciones, arrendamientos, enajenaciones de bienes o servicios o efectúe en su provecho, inversiones de fondos y valores con recursos económicos públicos;
 
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
 VI.-Teniendo a su cargo fondos públicos les dé, a sabiendas, una aplicación pública distinta de aquella a que estuvieren destinados o hiciere una erogación ilegal; y
+
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
 
 VII.-Valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones y que no sea del conocimiento público; haga por sí o por interpósita persona, inversiones, enajenaciones o adquisiciones o cualquier otro acto que le produzca algún beneficio económico indebido al servidor público o algún tercero.
 
 ### CAPITULO V. PECULADO
 
-> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 255.
 
-Se impondrán prisión de seis meses a seis años y multa hasta de cincuenta mil pesos, a los servidores públicos que se coaliguen para tomar medidas contrarias a una Ley, Reglamento o disposición de carácter general para impedir su ejecución, o para hacer dimisión de sus puestos con el fin de impedir o suspender la función pública, en cualquiera de sus niveles de gobierno.
+Se impondrán prisión de seis meses a 6 años y multa hasta de doscientas veces el salario mínimo, a los servidores públicos que se coaliguen para tomar medidas contrarias a una Ley, Reglamento o disposición de carácter general para impedir su ejecución, o para hacer dimisión de sus puestos con el fin de impedir o suspender la función pública, en cualquiera de sus niveles de gobierno.
 
 ### CAPITULO VI. EXACCION ILEGAL
 
@@ -1997,9 +2185,13 @@ Se impondrán prisión de seis meses a seis años y multa hasta de cincuenta mil
 
 ###### ARTICULO 256.
 
-Se impondrán prisión de seis meses a diez años y multa hasta de cien mil pesos.
+Se impondrán prisión de seis meses a diez años y multa hasta de seiscientas veces el salario mínimo:
+
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
 
 I.-A los servidores públicos que soliciten o reciban indebidamente dinero o dádivas para sí o para otro, o acepten una promesa para realizar una conducta lícita o ilícita relacionada con sus funciones; y
+
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
 
 II.-Al que dé u ofrezca dinero o dádivas a las personas a que se refiere la fracción anterior, para lograr los mismos fines.
 
@@ -2007,21 +2199,27 @@ El dinero o dádivas entregadas, en su caso, se aplicarán en beneficio de la As
 
 ### CAPITULO VII. INTIMIDACION
 
-> <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 257.
 
-Se impondrán prisión de seis meses a diez años y multa de cien mil pesos, a los servidores públicos que en provecho propio o ajeno, dispongan de dinero, valores o cualquier otro bien que hubiesen recibido en razón de su cargo.
+Se impondrán prisión de seis meses a diez años y multa de seiscientas veces el salario mínimo, a los servidores públicos que en provecho propio o ajeno dispongan de dinero, valores o cualquier otro bien que hubiesen recibido en razón de su cargo.
 
-Se impondrán prisión de seis meses a ocho años y multa hasta de cincuenta mil pesos, a :
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
+Se impondrán prisión de seis meses a ocho años y multa hasta de trescientas veces el salario mínimo, a:
+
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
 
 I.-El servidor público que a título personal e indebidamente utilice fondos públicos, con el objeto de promover la imagen política o social de su persona, la de su superior jerárquico o la de un tercero o a fin de denigrar a cualquier persona; y
+
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
 
 II.-Cualquier persona que sin tener el carácter del servidor público y estando obligado legalmente a la custodia, administración o aplicación de recursos públicos estatales o municipales, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó.
 
 ### CAPITULO VIII. TRAFICO DE INFLUENCIA
 
-> <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 258.
 
@@ -2033,13 +2231,17 @@ No se sancionarán a los servidores públicos municipales que, otorgando el comp
 
 ### CAPITULO IX. ENRIQUECIMIENTO ILICITO
 
-> <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 259.
 
-Se impondrán de seis meses a ocho años de prisión y multa hasta de cincuenta mil pesos, al servidor público:
+Se impondrán de seis meses a 8 años de prisión y multa hasta de trescientas veces el salario mínimo, al servidor público:
+
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
 
 I.-Que por sí o por interpósita persona, utilizando la violencia física o moral, inhiba o intimide a cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la presunta comisión de un delito; y
+
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
 
 II.-Que con motivo de la querella, denuncia o información a que hace referencia la fracción anterior realice una conducta ilícita u omita una lícita que lesione los intereses de las personas que las presenten o aporten, o de algún tercero con quien dichas personas guarden algún vínculo familiar, afectivo o de negocio.
 
@@ -2047,13 +2249,17 @@ II.-Que con motivo de la querella, denuncia o información a que hace referencia
 
 ### CAPITULO X. USURPACION DE FUNCIONES
 
-> <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 260.
 
-Se impondrán de seis meses a cuatro años de prisión y multa hasta de treinta mil pesos, al servidor publico que por sí o por interpósita persona:
+Se impondrán de seis meses a cuatro años de prisión y multa hasta de ciento cincuenta veces el salario mínimo, al servidor publico que por sí o por interpósita persona:
+
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
 
 I.-Aprovechando de su empleo, cargo o comisión promueva o gestione la tramitación o resolución ilícita de negocios públicos;
+
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
 
 II.-Sin estar autorizado para ello y aprovechando el empleo, cargo o comisión que desempeñe, promueva ante la dependencia donde presta sus servicios o ante cualquier otra autoridad, para obtener una resolución favorable a sus intereses o a los de un tercero.
 
@@ -2061,11 +2267,13 @@ II.-Sin estar autorizado para ello y aprovechando el empleo, cargo o comisión q
 
 ### CAPITULO XI. VARIACION DE NOMBRE O DOMICILIO
 
-> <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 261.
 
-Se sancionarán con prisión de seis meses a diez años y multa hasta de cien mil pesos, a quien con motivo de su empleo, cargo o comisión, en el servicio público, haya incurrido en enriquecimiento ilícito. Existe enriquecimiento ilícito cuando el servidor público no pudiere acreditar que es legítimo el desproporcionado aumento de su patrimonio o de aquellos bienes de los cuales se conduzca como dueño, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+Se sancionará con prisión de seis meses a diez años y multa hasta de seiscientas veces el salario mínimo, a quien con motivo de su empleo, cargo o comisión, en el servicio público, haya incurrido en enriquecimiento ilícito. Existe enriquecimiento ilícito cuando el servidor público no pudiere acreditar que es legítimo el desproporcionado aumento de su patrimonio o de aquellos bienes de los cuales se conduzca como dueño, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
 Se aplicará la misma sanción a quien haga figurar como suyos bienes que el servidor público adquiera o haya adquirido en contravención de lo dispuesto en la misma Ley.
 
@@ -2075,31 +2283,31 @@ Además de las sanciones establecidas en este artículo, se decomisarán en bene
 
 ### CAPITULO XII. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
 
-> <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 262.
 
-Se impondrán de seis meses a seis años y multa hasta de cincuenta mil pesos, a quien indebidamente se atribuyere y ejerciere funciones públicas.
+Se impondrán de seis meses a seis años y multa hasta de doscientas veces el salario mínimo, a quien indebidamente se atribuyere y ejerciere funciones públicas.
 
 ### CAPITULO XIII. QUEBRANTAMIENTO DE SELLOS
 
-> <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 263.
 
-Se impondrán de seis meses a un año de prisión y multa hasta de cinco mil pesos, a quien oculte su nombre o apellidos, o señale domicilio falso o inexistente, con la finalidad de incumplir obligaciones.
+Se impondrán de seis meses a un año de prisión y multa hasta de veinte veces el salario mínimo, a quien oculte su nombre o apellidos, o señale domicilio falso o inexistente, con la finalidad de incumplir obligaciones.
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 9 DE FEBRERO DE 1984)</small>
 
 ### CAPITULO XIV. ULTRAJES A LA AUTORIDAD
 
-> <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 264.
 
-Se impondrán de seis meses a un año de prisión y multa hasta de cinco mil pesos, al que rehusare prestar un servicio de interés público a que la Ley lo obligue o desobedeciere un mandato legítimo de autoridad. Cuando la Ley autorice el empleo de los medios de apremio para hacer efectivas las determinaciones de autoridad, sólo se consumará el delito, después de haberse agotado aquéllos.
+Se impondrán de seis meses a un año de prisión y multa hasta de veinte veces el salario mínimo, al que rehusare prestar un servicio de interés público a que la Ley lo obligue o desobedeciere un mandato legítimo de autoridad. Cuando la Ley autorice el empleo de los medios de apremio para hacer efectivas las determinaciones de autoridad, sólo se consumará el delito, después de haberse agotado aquéllos.
 
-Se aplicarán de seis meses a dos años de prisión y multa hasta de diez mil pesos, al que impida que la autoridad ejerza sus funciones o resista el cumplimiento de una orden legítima, cuya ejecución se lleve a cabo en forma legal. De emplearse violencia física o moral, la sanción se agravará hasta de un año.
+Se aplicarán de seis meses a dos años de prisión y multa hasta de cuarenta veces el salario mínimo, al que impida que la autoridad ejerza sus funciones o resista el cumplimiento de una orden legítima, cuya ejecución se lleve a cabo en forma legal. De emplearse violencia física o moral, la sanción se agravará hasta de un año.
 
 ### CAPITULO XV. DISPOSICIONES COMUNES PARA LOS DELITOS
 
@@ -2109,17 +2317,21 @@ DE ESTE TITULO
 
 ###### ARTICULO 265.
 
-Se aplicarán de seis meses a dos años de prisión y multa hasta de dos mil pesos, al que quebrante los sellos puestos por orden de la autoridad competente.
+Se aplicarán de seis meses a dos años de prisión y multa hasta de cuarenta veces el salario mínimo, al que quebrante los sellos puestos por orden de la autoridad competente.
 
 ### CAPITULO I. FALSEDAD ANTE LA AUTORIDAD
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 266.
 
-Se impondrán de seis meses a dos años de prisión y multa hasta de cinco mil pesos, al que agreda, injurie o amenace, a un servidor público en el acto de ejercer sus funciones o con motivo de ellas.
+Se impondrán de seis meses a dos años de prisión y multa hasta de cuarenta veces el salario mínimo, al que agreda, injurie o amenace, a un servidor público en el acto de ejercer sus funciones o con motivo de ellas.
 
 > <small>(ADICIONADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
 ### CAPITULO II. FRAUDE PROCESAL
+
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 267.
 
@@ -2133,33 +2345,45 @@ Se impondrán las mismas sanciones previstas para el delito de que se trate o cu
 
 ### CAPITULO III. FALSAS DENUNCIAS Y SIMULACION DE PRUEBAS
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 268.
 
-Al que en una promoción, declaración, informe, traducción o interpretación que haga ante la autoridad se conduzca con falsedad u oculte la verdad, se le impondrán de seis meses a tres años de prisión y multa hasta de tres mil pesos. Lo previsto en este artículo no es aplicable al que tenga el carácter de inculpado.
+Al que en una promoción, declaración, informe, traducción o interpretación que haga ante la autoridad se conduzca con falsedad u oculte la verdad, se le impondrán de seis meses a tres años de prisión y multa hasta de treinta veces el salario mínimo. Lo previsto en este artículo no es aplicable al que tenga el carácter de inculpado.
+
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 269.
 
-Al que presente testigos falsos o logre que un testigo, perito o intérprete, falte a la verdad al ser examinado por la autoridad, se le impondrán de seis meses a cinco años de prisión y multa hasta de diez mil pesos.
+Al que presente testigos falsos o logre que un testigo, perito o intérprete, falte a la verdad al ser examinado por la autoridad, se le impondrán de seis meses a cinco años de prisión y multa hasta de ochenta veces el salario mínimo.
+
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 270.
 
-Al que se retracte espontáneamente de sus falsas declaraciones rendidas ante la autoridad, antes de que se pronuncie resolución, sólo se le impondrá multa hasta de seis mil pesos.
+Al que se retracte espontáneamente de sus falsas declaraciones rendidas ante la autoridad, antes de que se pronuncie resolución, sólo se le impondrá multa hasta de sesenta veces el salario mínimo.
+
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 271.
 
-Las sanciones serán de dos a diez años de prisión y multa hasta de quince mil pesos para el testigo falso, cuando al imputado se le imponga sanción privativa de libertad no siendo responsable del delito por el que se le juzgó y, en el testimonio falso, se hubiese fundado principalmente la sentencia.
+Las sanciones serán de dos a diez años de prisión y multa hasta de cien veces el salario mínimo para el testigo falso, cuando al imputado se le imponga sanción privativa de libertad no siendo responsable del delito por el que se le juzgó y, en el testimonio falso, se hubiese fundado principalmente la sentencia.
 
 ### CAPITULO IV. EVASION DE PRESOS
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 272.
 
-Al que simule actos jurídicos o altere elementos de prueba para obtener una resolución judicial de la que derive el perjuicio de alguien o un beneficio indebido, se le impondrán de seis meses a cinco años de prisión y multa hasta de cinco mil pesos.
+Al que simule actos jurídicos o altere elementos de prueba para obtener una resolución judicial de la que derive el perjuicio de alguien o un beneficio indebido, se le impondrá de seis meses a cinco años de prisión y multa hasta de cuarenta veces el salario mínimo.
 
 ### CAPITULO V. ENCUBRIMIENTO POR FAVORECIMIENTO
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 273.
 
-Al que con el propósito de inculpar a alguien como responsable de un delito, ante la autoridad, le impute falsamente un hecho calificado como tal o simule en su contra la existencia de pruebas materiales, se le aplicarán de seis meses a cinco años de prisión y multa hasta de cinco mil pesos.
+Al que con el propósito de inculpar a alguien como responsable de un delito, ante la autoridad, le impute falsamente un hecho calificado como tal o simule en su contra la existencia de pruebas materiales, se le aplicarán de seis meses a cinco años de prisión y multa hasta de cuarenta veces el salario mínimo.
 
 ###### ARTICULO 274.
 
@@ -2173,13 +2397,21 @@ Las disposiciones relativas al delito de calumnia son aplicables, en lo conducen
 
 QUEBRANTO DE LA SANCION DE PRIVACION, SUSPENSION O INHABILITACION DE DERECHOS.
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 276.
 
-Al que ponga en libertad o favorezca la evasión de una persona que se encuentre legítimamente privada de aquélla, se le impondrán de seis meses a cinco años de prisión y multa hasta de cinco mil pesos.
+Al que ponga en libertad o favorezca la evasión de una persona que se encuentre legítimamente privada de aquélla, se le impondrán de seis meses a cinco años de prisión y multa hasta de cuarenta veces el salario mínimo.
+
+Cuando la persona evadida, se encuentre procesada o esté sentenciada por delito que por su naturaleza no alcance la libertad provisional bajo fianza o caución, se impondrá de dos a diez años de prisión y multa hasta de ciento cincuenta veces el salario mínimo.
+
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 277.
 
-A los funcionarios o empleados públicos que fuera de los casos previstos en la ley, permitan la salida temporal de las personas que estén recluidas, se les impondrán de seis meses a cuatro años de prisión y multa hasta de cuatro mil pesos.
+A los funcionarios o empleados públicos que fuera de los casos previstos en la Ley, permitan la salida temporal de las personas que estén recluidas, se les impondrán de seis meses a cuatro años de prisión y multa hasta de cuarenta veces el salario mínimo.
+
+Cuando la persona a quien se permita la salida temporal de un reclusorio, se encuentre procesada o esté sentenciada por delito que por su naturaleza no alcance la libertad provisional bajo fianza o caución, se impondrá de dos a diez años de prisión y multa hasta de ciento cincuenta veces el salario mínimo.
 
 ###### ARTICULO 278.
 
@@ -2189,15 +2421,19 @@ No se les impondrá sanción a los ascendientes, descendientes, adoptante, adopt
 
 Si la reaprehensión del evadido se lograre por gestiones del responsable de la evasión, se reducirán las sanciones hasta en dos terceras partes de las previstas.
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 280.
 
-Al evadido no se le aplicará sanción alguna, sino cuando obre de concierto con otro u otros presos y se fugue alguno de ellos o ejerciere violencia en las personas o en las cosas, en cuyo caso la sanción será de seis meses a tres años de prisión y multa hasta de tres mil pesos.
+Al evadido no se le aplicará sanción alguna, sino cuando obre de concierto con otro u otros presos y se fugue alguno de ellos o ejerciere violencia en las personas o en las cosas, en cuyo caso la sanción será de seis meses a tres años de prisión y multa hasta de veinte veces el salario mínimo.
 
 ### CAPITULO VII. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 281.
 
-Al que después de la ejecución del delito y sin haber participado en éste, ayude en cualquier forma al inculpado a eludir las investigaciones de la autoridad o a sustraerse a la acción de ésta, u ocultare, alterare, destruyere o hiciere desaparecer los rastros, pruebas o instrumentos del delito o asegure para el inculpado el producto o provecho del mismo, se le impondrán de seis meses a tres años de prisión y multa hasta de cinco mil pesos.
+Al que después de la ejecución del delito y sin haber participado en éste, ayude en cualquier forma al inculpado a eludir las investigaciones de la autoridad o a sustraerse a la acción de ésta, u ocultare, alterare, destruyere o hiciere desaparecer los rastros, pruebas o instrumentos del delito o asegure para el inculpado el producto o provecho del mismo, se le impondrán de seis meses a tres años de prisión y multa hasta de cuarenta veces el salario mínimo.
 
 ###### ARTICULO 282.
 
@@ -2215,7 +2451,7 @@ c).-Los que estén ligados con el delincuente por amor, respeto, gratitud o estr
 
 ###### ARTICULO 283.
 
-Al que quebrante una sanción de privación, supensión (sic) o inhabilitación de derechos, se le impondrá hasta veinte mil pesos de multa. En caso de reincidencia se duplicará la multa y se impondrá prisión de seis meses a dos años.
+Al que quebrante una sanción de privación, suspensión o inhabilitación de derechos, se le impondrá hasta de ciento cincuenta veces el salario mínimo. En caso de reincidencia se duplicará la multa y se impondrá prisión de seis meses a dos años.
 
 ### CAPITULO II. VENTA O PROMESA DE VENTA INDEBIDA
 
@@ -2223,7 +2459,7 @@ Al que quebrante una sanción de privación, supensión (sic) o inhabilitación 
 
 ###### ARTICULO 284.
 
-Se impondrán prisión de seis meses a cinco años, multa hasta de cinco mil pesos y suspensión de dos meses a dos años del derecho de ejercer la abogacía, en su caso, y privación definitiva si reincidiere al abogado, defensor o litigante que:
+Se impondrán prisión de seis meses a cinco años, multa hasta de ochenta veces el salario mínimo y suspensión de dos meses a dos años del derecho de ejercer la abogacía, en su caso, y privación definitiva si reincidiere al abogado, defensor o litigante que:
 
 I.- Abandone una defensa o negocio sin motivo justificado;
 
@@ -2328,3 +2564,13 @@ La presente Ley entrará en vigor al día siguiente de su publicación en la 'Ga
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a este ordenamiento.
+
+G.O. 19 DE FEBRERO DE 1991.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor a los quince días siguientes a su publicación en la 'Gaceta Oficial' del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
