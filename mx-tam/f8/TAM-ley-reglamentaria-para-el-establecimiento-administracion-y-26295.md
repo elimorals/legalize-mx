@@ -4,7 +4,7 @@ identifier: "TAM-ley-reglamentaria-para-el-establecimiento-administracion-y-2629
 country: "mx"
 rank: "ley"
 publication_date: "1959-05-30"
-last_updated: "1959-05-30"
+last_updated: "2003-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PRESTACION DEL SERVICIO PUBLICO DE PANTEONES EN EL ESTADO DE TAMAULIPAS, PUBLICADA EN EL PERIODICO OFICIAL EL 20 20 DE MAYO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial, el 30 de mayo de 1959.
 
@@ -272,3 +274,21 @@ SALA DE SESIONES DEL H. CONGRESO DEL ESTADO. Cd. Victoria, Tamps., 30 de Abril 1
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, a los seis días del mes de mayo de mil novecientos cincuenta y nueve.- DR. NORBERTO TREVIÑO ZAPATA.- El Secretario General de Gobierno, LIC. RUBEN GONZALEZ GARZA.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 20 DE MAYO DE 2003.
+
+###### ARTÍCULO PRIMERO
+
+El presente ordenamiento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO
+
+Se abroga la Ley Reglamentaria para el Establecimiento, Administración y Funcionamiento de los Panteones en el Estado de Tamaulipas, emitida mediante Decreto número 167, del 30 de abril de 1959, publicado en el Periódico Oficial del Estado número 43 de fecha 30 de mayo de 1959; y, se derogan todas aquellas disposiciones que se opongan a lo dispuesto en la
+
+presente Ley.
+
+###### ARTÍCULO TERCERO
+
+Los procedimientos, asuntos, trámites y actos administrativos que se encuentren en proceso al entrar en vigor la presente ley, continuarán gestionándose hasta su conclusión en los términos y disposiciones establecidos en la Ley Reglamentaria para el Establecimiento, Administración y Funcionamiento de los Panteones que se abroga.
