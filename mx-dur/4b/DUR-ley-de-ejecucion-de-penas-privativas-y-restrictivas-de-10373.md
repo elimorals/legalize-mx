@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-ejecucion-de-penas-privativas-y-restrictivas-de-10373"
 country: "mx"
 rank: "ley"
 publication_date: "1971-06-10"
-last_updated: "2004-06-17"
+last_updated: "2004-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EJECUCION DE PENAS PRIVATIVAS Y RESTRICTIVAS DE LIBERTAD DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2004.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 10 de junio de 1971.
 
@@ -411,6 +411,8 @@ Cuando a juicio del Ejecutivo se demuestre la insolvencia económica del solicit
 
 VI.- Que el agraciado con la Libertad Preparatoria resida en el lugar que se determine y del cual no podrá ausentarse sin el permiso de la Dirección General de Prevención y Readaptación Social. La designación se hará conciliando la circunstancia de que el reo pueda proporcionarse trabajo en el lugar que se le fije, con el hecho de que su permanencia en él no sea un obstáculo para su enmienda.
 
+> <small>[N. DE E. CON RELACION A LA VIGENCIA DEL PRESENTE ARTICULO, CONSULTAR EL ARTICULO SEGUNDO DEL DECRETO No. 48 P.O. 23 DE DICIEMBRE DE 2004.]</small>
+
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2004)</small>
 
 ###### Artículo 55.
@@ -698,3 +700,13 @@ P.O. 17 DE JUNIO DE 2004.
 PRIMERO.- El presente decreto entrará en vigor, a partir del día 28 de junio del año 2004 previa su publicación en el Periódico Oficial del Estado de Durango.
 
 SEGUNDO.- Los sentenciados a disposición del Ejecutivo Estatal, o quienes se encuentren bajo procedimiento de conformidad con el Código Penal para el Estado de Durango, aprobado bajo Decreto No. 263 de fecha 3 de julio de 1991 y publicado en el Periódico Oficial del Gobierno del Estado No. 15 de fecha 22 de agosto de 1991, se sujetaran para los efectos de las sanciones privativas y restrictivas de libertad y pecuniarias que se apliquen, a lo que establecían las disposiciones correspondientes antes de la presente reforma.
+
+P.O. 23 DE DICIEMBRE DE 2004.
+
+> <small>N. DE E. DADA LA IMPORTANCIA DEL ARTICULO SEGUNDO DEL DECRETO NO. 48, SE TRANSCRIBE A CONTINUACION:</small>
+
+###### ARTÍCULO SEGUNDO.
+
+Se deja en suspenso la vigencia del artículo 55 de la Ley de Ejecución de Penas Privativas y Restrictivas de Libertad del Estado de Durango, única y exclusivamente en lo que se refiere al Delito de Robo Calificado por el que se deberá entender el delito de robo previsto en los artículos 409, 411 fracciones IV y V, 414, 415 y 412, con las excepciones contempladas en el artículo 413 del Código Penal para el Estado de Durango vigente, a favor de los internos que hayan sido condenados por sentencia irrevocable a sufrir pena de prisión, por la comisión de ese ilícito dictada en fecha anterior al día 14 de Septiembre de 2010 y que en el momento de solicitar algún beneficio de los señalados en la Ley mencionada, se encuentran compurgando su sanción privativa de la Libertad en los Centro (sic) de Readaptación Social del Estado.
+
+UNICO.- El presente decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
