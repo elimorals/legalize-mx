@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "2000-12-31"
+last_updated: "2001-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,6 +23,8 @@ abbreviation: "LIVA"
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
 ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2000.
+
+ULTIMA MODIFICACION MISCELANEA FISCAL PUBLICADA EN DIARIO OFICIAL DE LA FEDERACION: 2 DE MARZO DE 2001.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1978.
 
@@ -202,11 +204,11 @@ Los actos o actividades a los que se les aplica la tasa del 0%, producirán los 
 
 (DEROGADO, D.O.F. 15 DE DICIEMBRE DE 1995)
 
-(ACTUALIZADA EN SU MONTO POR EL ANEXO 5 DE LA RESOLUCION MISCELANEA FISCAL PARA 1998, D.O.F. 15 DE FEBRERO DE 1999) (REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO POR EL ANEXO 5 DE LA RESOLUCION MISCELANEA FISCAL PARA 2000, D.O.F. 2 DE MARZO DE 2001) (REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 2o-C.
 
-Las personas físicas con actividades empresariales que únicamente enajenen bienes o presten servicios al público en general, no estarán obligadas al pago del impuesto por dichas actividades, siempre que en el año de calendario anterior hayan obtenido ingresos que no excedan de $1,174,000.00 por dichas actividades. La cantidad a que se refiere este párrafo se actualizará en el mes de enero, en los términos del artículo 17-a del Código Fiscal de la Federación.
+Las personas físicas con actividades empresariales que únicamente enajenen bienes o presten servicios al público en general, no estarán obligadas al pago del impuesto por dichas actividades, siempre que en el año de calendario anterior hayan obtenido ingresos que no excedan de $1,456,992.00 por dichas actividades. La cantidad a que se refiere este párrafo se actualizará en el mes de enero, en los términos del artículo 17-A del Código Fiscal de la Federación.
 
 Asimismo, estarán sujetas a lo previsto en este artículo las personas físicas que se dediquen a actividades agrícolas, silvícolas o pesqueras, no obstante que la totalidad o parte de sus actos o actividades no las realicen con el público en general, debiendo reunir, en todo caso, el requisito de límite de ingresos a que se refiere el párrafo anterior.
 
@@ -1809,6 +1811,10 @@ II. Durante el ejercicio fiscal de 2001 el Impuesto al Valor Agregado sobre el s
 Primero. El presente Decreto entrará en vigor el 1o. de enero de 2001.
 
 Segundo. Las menciones hechas en el presente Decreto a las Secretarías cuyas denominaciones se modificaron por efectos del Decreto publicado en el Diario Oficial de la Federación el jueves 30 de noviembre de 2000, mediante el cual se reformó la Ley Orgánica de la Administración Pública Federal, se entenderán conforme a la denominación que para cada una se estableció en este último.
+
+D.O.F. 2 DE MARZO DE 2001.
+
+Unico. La presente Resolución entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 415.- SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 150 Y LA FRACCIÓN D) Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 156 DE LA LEY ESTATAL DE SALUD; ASÍ MISMO, SE MODIFICA LA FRACCIÓN XXIII DEL ARTÍCULO 64 DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
