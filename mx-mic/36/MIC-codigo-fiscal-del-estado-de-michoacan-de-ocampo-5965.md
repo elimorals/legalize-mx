@@ -4,7 +4,7 @@ identifier: "MIC-codigo-fiscal-del-estado-de-michoacan-de-ocampo-5965"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-02-27"
-last_updated: "2003-12-31"
+last_updated: "2004-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO FISCAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2004.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 27 de febrero de 1992.
 
@@ -391,7 +391,7 @@ XVII. Las demás que le correspondan conforme a las leyes, reglamentos y acuerdo
 
 ###### ARTICULO 29.
 
-La Tesorería, a solicitud de los contribuyentes, podrá autorizar el pago a plazos, ya sea diferido o en parcialidades, de la contribuciones omitidas y sus accesorios, sin que dicho plazo exceda de un año, de conformidad con lo siguiente:
+La Tesorería, a solicitud de los contribuyentes, podrá autorizar el pago a plazos, ya sea diferido o en parcialidades, de las contribuciones omitidas y sus accesorios, sin que dicho plazo exceda de un año, de conformidad con lo siguiente:
 
 Se procederá a actualizar las contribuciones omitidas y las multas que correspondan, conforme a lo dispuesto por el artículo 19-A de este Código. Así mismo se calcularán los recargos, desde el mes en que debieron pagarse las contribuciones omitidas, hasta aquel en que se conceda la autorización, integrándose el crédito fiscal, de la siguiente forma:
 
@@ -729,31 +729,43 @@ II. Ser cómplice en cualquier forma no prevista, en la comisión de infraccione
 
 A quien cometa cualquiera de las infracciones señaladas en el artículo anterior, se le impondrá multa del equivalente a 150 días de salario mínimo diario vigente en la región.
 
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 67.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1993)
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
-
-###### ARTICULO 68.
-
-Las infracciones a las disposiciones fiscales relacionadas con el Impuesto sobre Erogaciones por remuneración al trabajo personal, prestado bajo la Dirección y Dependencia de un Patrón, son las siguientes:
+Las infracciones a las disposiciones fiscales relacionadas con el Impuesto sobre Erogaciones por Remuneración al Trabajo Personal, prestado bajo la Dirección y Dependencia de un Patrón, son las siguientes:
 
 I. Omitir presentar oportunamente las declaraciones mensuales de pago provisional o presentarlas extemporáneamente a requerimiento de la autoridad; y
 
-II. Abstenerse de exhibir oportunamente las declaraciones del ejercicio o presentarlas extemporáneamente a requerimiento de la autoridad.
+II. No exhibir oportunamente las declaraciones del ejercicio o presentarlas extemporáneamente a requerimiento de la autoridad.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2004)</small>
 
-###### ARTICULO 69.
+###### ARTICULO 68.
 
-A quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo anterior, se le impondrán las multa siguientes:
+A quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo anterior, se le impondrán las multas siguientes:
 
 I. Con el equivalente a 2 días de salario mínimo vigente en el Estado, a las personas físicas que se coloquen en el supuesto de la comprendida en la fracción I;
 
-II. Con el equivalente a 5 días de salario mínimo vigente en el Estado, a las personas morales que se coloquen en el supuesto de la comprendida en la fracción I; y
+II. Con el equivalente a 5 días de salario mínimo vigente en el Estado, a las personas morales que se coloquen en el supuesto de la comprendida en la fracción I; y,
 
-III. Con el equivalente a 50% de las sanciones a que se refieren las sanciones (sic) I y II de este artículo, a las personas físicas y morales y demás obligados, cuando se coloquen en el supuesto de la comprendida en la fracción II.
+III. Con el equivalente al 50% de las sanciones a que se refieren las sanciones I y II de este artículo, a las personas físicas y morales y demás obligados, cuando se coloquen ene l supuesto de la comprendida en la fracción II.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2004)</small>
+
+###### ARTICULO 69.
+
+Son infracciones a las disposiciones fiscales relacionadas con los servicios de control vehicular de servicio público, las siguientes:
+
+I. No tramitar el cambio de placas de vehículos de motor de autotransporte de servicio público, en el plazo que establezca la autoridad competente o hacerlo a requerimiento de autoridad fiscal;
+
+II. No renovar la tarjeta de circulación y calcomanía anualmente;
+
+III. No registrar la sustitución de un vehículo por otro similar, para la prestación del servicio de que se trate, en el plazo que establecen las disposiciones fiscales;
+
+IV. No exhibir el documento que acredite la baja de las placas particulares al sustituir o incorporar al servicio público un vehículo; y,
+
+V. No revalidar las concesiones de servicio público.
 
 ###### ARTICULO 70.
 
@@ -1751,10 +1763,16 @@ Para los efectos de lo dispuesto por la fracción V del artículo 74 de la Ley d
 
 ###### ARTICULO TERCERO.
 
-Se derogan todas lasdisposiciones que se opongan al presente Decreto.
+Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 31 DE DICIEMBRE DE 2003.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará entrará en vigor el día 1º de enero de 2004, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 29 DE MARZO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
