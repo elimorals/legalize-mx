@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-de-apoyo-al-desarrollo-tecnologico-antes-1476
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-30"
-last_updated: "1999-06-30"
+last_updated: "2002-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL INSTITUTO DE ENTRENAMIENTO EN ALTA TECNOLOGIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 30 de junio de 1999.
 
@@ -75,9 +75,13 @@ La administración del INALTEC estará a cargo de un Consejo Directivo que será
 
 El Consejo Directivo se integrará de la manera siguiente:
 
-I. Por el C. Secretario de Educación y Cultura del Gobierno del Estado de Chihuahua, quien fungirá como Presidente del Consejo;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2002)</small>
 
-II. Por el C. Secretario de Desarrollo Industrial del Gobierno del Estado de Chihuahua, quien fungirá como Secretario del Consejo;
+I. Por los CC. Secretarios de Desarrollo Industrial y de Educación y Cultura del Estado de Chihuahua, quienes fungirán como Presidente y Secretario, respectivamente;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2002)</small>
+
+II. Por el C. Secretario de Finanzas y Administración del Estado;
 
 III. Por el C. Subsecretario de Educación e Investigación Tecnológicas de la Secretaría de Educación Pública;
 
@@ -87,9 +91,11 @@ V. Un representante del sector social que será nombrado por el Consejo Directiv
 
 VI. Tres representantes del sector productivo que participen en el financiamiento de EL INALTEC", mediante un patronato constituido para apoyar la dirección del mismo. Estos representantes serán designados por el propio Patronato de conformidad con sus estatutos, asistiendo con voz y voto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE ABRIL DE 2002)</small>
+
 ###### Artículo 5°.
 
-El Consejo Directivo será presidido por el Secretario de Educación y Cultura o por la persona que éste designe y deberá sesionar en forma ordinaria cuando menos seis veces por año.
+El Consejo Directivo será presidido por el Secretario de Desarrollo Industrial o por la persona que éste designe y deberá sesionar en forma ordinaria cuando menos seis veces por año.
 
 Para sesionar válidamente deberá estar presente la mitad más uno de sus miembros y la mayoría deberá ser del sector público estatal.
 
@@ -121,7 +127,9 @@ IX. Autorizar el apoyo, fomento y promoción de los planes y programas que sean 
 
 X. Nombrar a propuesta del Coordinador General, y remover a los funcionarios del INALTEC que ocupen cargos en las dos jerarquías administrativas inferiores a la de aquél; aprobar la fijación de sus sueldos y prestaciones de conformidad con los Presupuestos de el INALTEC y a los lineamientos y políticas en la materia establecidos por la Secretaría de Finanzas y Administración, así como a lo establecido en esta Ley y en el estatuto del INALTEC;
 
-XI. Nombrar y remover, a propuesta del Presidente del Consejo, al Secretario;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2002)</small>
+
+XI. Aprobar las estrategias y políticas generales tendientes a la vinculación del INALTEC con el sector industrial, para el cumplimiento de su objeto;
 
 XII. Nombrar, a propuesta del Ejecutivo del Estado, al representante del sector social a que se refiere la fracción V del artículo 4 de esta Ley;
 
@@ -337,7 +345,9 @@ I. Cuando deje de cumplir sus fines u objeto; o
 
 II. Cuando su funcionamiento no resulte ya conveniente desde el punto de las finanzas públicas del Estado o del interés público.
 
-En todo caso, la Secretaría de Finanzas y Administración, atendiendo a la opinión de la Secretaría de Educación y Cultura y de la Contraloría del Estado, propondrá al Ejecutivo la disolución o extinción del INALTEC.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2002)</small>
+
+En todo caso, la Secretaría de Finanzas y Administración, atendiendo a la opinión de la Secretaría de Desarrollo Industrial del Estado, propondrá al Ejecutivo la disolución o extinción del INALTEC.
 
 Si la actividad combinada o separada redunda en un incremento de eficiencia y productividad, podrá proponer su fusión o escisión, la cual deberá ser aprobada por el Congreso del Estado.
 
@@ -392,3 +402,9 @@ C.P. PATRICIO MARTINEZ GARCIA.
 EL SECRETARIO DE GOBIERNO
 
 LIC. VICTOR E. ANCHONDO PAREDES.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE ABRIL DE 2002.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
