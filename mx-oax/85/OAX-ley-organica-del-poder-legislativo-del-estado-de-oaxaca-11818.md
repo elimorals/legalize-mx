@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-de-oaxaca-11818"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-04"
-last_updated: "1998-12-19"
+last_updated: "1999-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -71,7 +71,11 @@ Esta Ley, sus reformas y adiciones, y los Reglamentos que de ella se deriven, no
 
 El Congreso del Estado, tendrá su residencia oficial en la Ciudad de Oaxaca de Juárez, celebrará sus sesiones en el edificio sede del Poder Legislativo y no podrá trasladarse a otro lugar, sin que así lo acuerden las tres cuartas partes de los Diputados presentes.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1999)</small>
+
+###### ARTICULO 7°.
+
+El Congreso del Estado, tendrá cada año dos períodos ordinarios de sesiones; el primero comenzará el quince de noviembre y terminará el treinta y uno de marzo; y el segundo dará principio el primero de junio y concluirá el treinta de septiembre.
 
 ###### ARTICULO 7º.
 
@@ -83,15 +87,17 @@ En los días indicados en el artículo anterior, la Legislatura se reunirá en s
 
 "La (aquí el número de la Legislatura) Legislatura del Estado de Oaxaca (abre-clausura) hoy (fecha) el (primero-segundo) período ordinario de sesiones, correspondiente al (año respectivo) de su ejercicio constitucional".
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1999)</small>
 
-###### ARTICULO 9º.
+###### ARTICULO 9°.
 
-En la apertura del primer periodo ordinario de sesiones correspondiente al primer año de su ejercicio legal, la legislatura efectuará el 16 de noviembre una sesión a la que asistirá el ciudadano Gobernador Constitucional del Estado y el ciudadano Presidente del Tribunal Superior de Justicia del Estado.
+La Legislatura se reunirá en períodos extraordinarios, siempre que sea convocada por la Diputación Permanente o por el Ejecutivo del Estado, en los términos que establece la Constitución Política Local.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 10.
 
-El día 3 de octubre de cada año el Congreso del Estado, celebrará una sesión solemne, en la cual el Ciudadano Gobernador Constitucional del Estado, presentará un informe sobre el estado que guarda la Administración Pública, pudiendo presentarse a dar lectura del mismo; en este caso, el Presidente de la Legislatura, contestará dicho informe en términos concisos y generales y con las formalidades que correspondan al acto.
+El día quince de noviembre de cada año, en la sesión solemne a la que se refiere el artículo 43 de la Constitución Política del Estado, el Gobernador del Estado presentará un informe por escrito, sobre el estado que guarda la Administración Pública Local, pudiendo presentarse a dar lectura del mismo, en este caso, el Presidente de la Legislatura contestará dicho informe en términos concisos y generales y con las formalidades que corresponden al acto, en función de lo anterior, los Diputados no deberán realizar mociones, interrupciones ni interpelaciones en la sesión.
 
 ###### ARTICULO 11.
 
@@ -121,11 +127,11 @@ El Recinto del Congreso es inviolable, toda fuerza pública tiene impedido el ac
 
 DEL REGISTRO DE CONSTANCIAS DE MAYORIA Y DE LA COMISION INSTALADORA.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 16.
 
-El registro de las constancias de mayoría, validez y de asignación, emitidas por los Consejos Distritales y General del Instituto Estatal Electoral, de los Diputados electos, se hará ante la Oficialía Mayor de la Legislatura, del 10 al 12 de noviembre del año de la elección, mediante la exhibición de éstas o de la copia certificada de la resolución que le hubiere sido favorable, dictada por el Tribunal Estatal Electoral, y se hará en los términos que fije el Reglamento Interior.
+El registro de las constancias de mayoría, validez y de asignación, emitidas por los Consejos Distritales y General del Instituto Estatal Electoral, de los Diputados electos, se hará ante la Oficialía Mayor de la Legislatura, del 7 al 9 de noviembre del año de la elección, mediante la exhibición de éstas o de la copia certificada de la resolución que le hubiere sido favorable, dictada por el Tribunal Estatal Electoral, y se hará en los términos que fije el Reglamento Interior.
 
 ###### ARTICULO 17.
 
@@ -139,11 +145,11 @@ I.- Verificar el registro de las constancias que hayan sido expedidas y registra
 
 II.- Entregar por inventario a la Mesa Directiva de la Legislatura entrante, la totalidad de los documentos mencionados en la fracción I de este artículo.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 19.
 
-La Comisión Instaladora, al expedir las credenciales de acceso a los Diputados electos, los citará para que estén presentes el día 15 de noviembre a las 10:00 horas, cerciorándose de que firmen de enterados.
+La Comisión Instaladora, al expedir las credenciales de acceso a los Diputados electos, los citará para que estén presentes el día 13 de noviembre a las 10:00 horas en el Salón de Sesiones del Congreso del Estado, cerciorándose de que firmen de enterados.
 
 ###### ARTICULO 20.
 
@@ -159,11 +165,11 @@ IV.- El Presidente de la Mesa Directiva de la Legislatura entrante, protestará 
 
 ### CAPITULO II. DE LA INSTALACION DE LA LEGISLATURA
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 21.
 
-La Legislatura deberá quedar instalada a las 11:00 horas del 15 de noviembre del año en que efectúe su renovación, y se procederá en los términos establecidos en el Reglamento Interior del Congreso.
+La Legislatura deberá quedar instalada el 13 de noviembre del año en que se efectúe su renovación, y empezará a fungir a partir del primer minuto del día 15 de noviembre de ese mismo año.
 
 ## TITULO TERCERO. DE LA MESA DIRECTIVA
 
@@ -716,3 +722,9 @@ AL C...
 P.O. 19 DE DICIEMBRE DE 1998.
 
 UNICO.- Las reformas de que se ocupa este Decreto, entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE OCTUBRE DE 1999.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
