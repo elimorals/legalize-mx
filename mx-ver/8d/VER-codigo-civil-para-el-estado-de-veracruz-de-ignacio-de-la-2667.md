@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "1979-12-29"
+last_updated: "1980-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO CIVIL PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE DICIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE SEPTIEMBRE DE 1980.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -1747,9 +1747,11 @@ III.- A percibir la porción hereditaria y los alimentos que fije la ley.
 
 ### CAPITULO V. De la adopción
 
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1980)</small>
+
 ARTICULO 320
 
-Los mayores de edad, en pleno ejercicio de sus derechos y que no tengan descendientes, pueden adoptar a un menor o a un incapacitado, aun cuando sea mayor de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y que la adopción sea benéfica a éste.
+Los mayores de edad, en pleno ejercicio de sus derechos, pueden adoptar a uno o más menores o incapacitados, aun cuando éstos sean mayores de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y que la adopción sea benéfica a éste.
 
 ARTICULO 321
 
@@ -1829,7 +1831,9 @@ ARTICULO 336
 
 Para los efectos de la fracción II del artículo anterior, se considera ingrato al adoptado:
 
-I.- Si comete algún delito que merezca una pena mayor de un año de prisión contra la persona, la honra o los bienes del adoptante, de su cónyuge, de sus ascendientes o descendientes;
+> <small>(REFORMADA, G.O. 23 DE SEPTIEMBRE DE 1980)</small>
+
+I.- Si comete algún delito doloso contra la persona, la honra o los bienes del adoptante, de su cónyuge, de sus ascendientes o descendientes;
 
 II.- Si el adoptado acusa judicialmente al adoptante de algún delito grave que pudiera ser perseguido de oficio, aunque lo pruebe, a no ser que hubiera sido cometido contra el mismo adoptado, su cónyuge, sus ascendientes o descendientes;
 
@@ -15208,3 +15212,9 @@ LEY 619
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor a partir del día siguiente de su publicación en la "Gaceta Oficial", órgano del Gobierno del Estado.
+
+G.O. 23 DE SEPTIEMBRE DE 1980.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor, al día siguiente de su publicación en la "Gaceta Oficial", órgano del Gobierno del Estado.
