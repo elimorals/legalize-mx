@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-16-1998-del-pleno-del-consejo-de-la-6282
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-06-25"
-last_updated: "1999-09-09"
+last_updated: "1999-11-05"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62820&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "1998-06-17"
 
 ACUERDO GENERAL NUMERO 16/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE SEPTIEMBRE DE 1999.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL ACUERDO QUE MODIFICA AL PRESENTE ORDENAMIENTO, VER ARTICULO PRIMERO TRANSITORIO DEL MISMO.</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE NOVIEMBRE DE 1999.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de junio de 1998.
 
@@ -205,7 +203,9 @@ XI.- DECIMO PRIMER CIRCUITO:
 
 XII.- DECIMO SEGUNDO CIRCUITO:
 
-1.- Tres tribunales colegiados y tres tribunales unitarios, con sede en la ciudad de Mazatlán.
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 41/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 1999)</small>
+
+1.- Cinco tribunales colegiados y tres tribunales unitarios, con sede en la ciudad de Mazatlán.
 
 2.- Nueve juzgados de distrito: tres con residencia en la ciudad de Culiacán, tres con sede en la ciudad de Los Mochis y tres con residencia en la ciudad de Mazatlán.
 
@@ -231,11 +231,17 @@ XIV.- DECIMO CUARTO CIRCUITO:
 
 4.- Dos juzgados de distrito en el Estado de Quintana Roo: uno con sede en Ciudad Chetumal y uno con residencia en la ciudad de Cancún.
 
+> <small>(REFORMADA POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 39/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 1999)</small>
+
 XV.- DECIMO QUINTO CIRCUITO:
 
-1.- Dos tribunales colegiados y tres tribunales unitarios, con sede en la ciudad de Mexicali.
+1.- Dos tribunales colegiados con sede en la ciudad de Mexicali.
 
-2.- Ocho juzgados de distrito: tres con residencia en la ciudad de Mexicali, cuatro con sede en la ciudad de Tijuana y uno con residencia en la ciudad de Ensenada.
+2.- Cinco tribunales unitarios: tres con residencia en la ciudad de Mexicali y dos con sede en la ciudad de Tijuana.
+
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 40/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 1999)</small>
+
+3.- Diez juzgados de distrito: tres con residencia en la ciudad de Mexicali, seis con sede en la ciudad de Tijuana y uno con residencia en la ciudad de Ensenada.
 
 XVI.- DECIMO SEXTO CIRCUITO:
 
@@ -261,9 +267,13 @@ XVIII.- DECIMO OCTAVO CIRCUITO:
 
 XIX.- DECIMO NOVENO CIRCUITO:
 
-1.- Dos tribunales colegiados con residencia en Ciudad Victoria.
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 38/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 1999)</small>
 
-2.- Cinco tribunales unitarios: dos con sede en Ciudad Victoria, uno con residencia en la ciudad de Matamoros, uno con sede en Ciudad Reynosa y uno con residencia en la ciudad de Nuevo Laredo.
+1.- Tres tribunales colegiados con residencia en Ciudad Victoria.
+
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL NUMERO 37/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 1999)</small>
+
+2.- Cuatro tribunales unitarios: uno con sede en Ciudad Victoria, uno con residencia en la ciudad de Matamoros, uno con sede en Ciudad Reynosa y uno con residencia en la ciudad de Nuevo Laredo.
 
 3.- Diez juzgados de distrito: dos con sede en Ciudad Victoria, dos con residencia en la ciudad de Nuevo Laredo, dos con sede en la ciudad de Matamoros, dos con residencia en Ciudad Reynosa y dos con sede en la ciudad de Tampico.
 
@@ -275,7 +285,9 @@ XX.- VIGESIMO CIRCUITO:
 
 XXI.- VIGESIMO PRIMER CIRCUITO:
 
-1.- Dos tribunales colegiados y un tribunal unitario, con sede en la ciudad de Chilpancingo.
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 42/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, GUERRERO, D.O.F. 5 DE NOVIEMBRE DE 1999)</small>
+
+1.- Tres tribunales colegiados y un tribunal unitario, con sede en la ciudad de Chilpancingo.
 
 2.- Cinco juzgados de distrito: uno con residencia en la ciudad de Chilpancingo, tres con sede en la ciudad de Acapulco y uno con residencia en la ciudad de Iguala.
 
@@ -339,7 +351,15 @@ XIII.- DECIMO TERCER CIRCUITO: Estado de Oaxaca.
 
 XIV.- DECIMO CUARTO CIRCUITO: Estados de Campeche, Quintana Roo y Yucatán.
 
-XV.- DECIMO QUINTO CIRCUITO: Estado de Baja California y Municipio de San Luis Río Colorado del Estado de Sonora.
+> <small>(REFORMADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 39/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 1999)</small>
+
+XV.- DECIMO QUINTO CIRCUITO:
+
+Respecto de los tribunales colegiados es el Estado de Baja California y el Municipio de San Luis Río Colorado del Estado de Sonora.
+
+En relación con los tribunales unitarios con residencia en la ciudad de Mexicali será igual a la establecida para los juzgados de distrito en el Estado de Baja California, con sede en dicha ciudad.
+
+En cuanto a los tribunales unitarios con residencia en la ciudad de Tijuana será la misma que la establecida para los juzgados de distrito en el Estado de Baja California, con sede en la citada ciudad y en la ciudad de Ensenada.
 
 XVI.- DECIMO SEXTO CIRCUITO: Estado de Guanajuato.
 
@@ -349,7 +369,9 @@ XVIII.- DECIMO OCTAVO CIRCUITO: Estado de Morelos.
 
 XIX.- DECIMO NOVENO CIRCUITO: Respecto de los tribunales colegiados es el Estado de Tamaulipas.
 
-La jurisdicción territorial de los tribunales unitarios con sede en Ciudad Victoria será igual a la establecida para los juzgados de distrito en el Estado de Tamaulipas, con residencia en la ciudad indicada y en la ciudad de Tampico.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL NUMERO 37/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 1999)</small>
+
+La jurisdicción territorial del tribunal unitario con sede en Ciudad Victoria será igual a la establecida para los juzgados de distrito en el Estado de Tamaulipas, con residencia en la ciudad indicada y en la ciudad de Tampico.
 
 En lo referente al tribunal unitario con sede en la ciudad de Nuevo Laredo, su jurisdicción territorial será la misma que la establecida para los juzgados de distrito en el Estado de Tamaulipas, con residencia en dicha ciudad.
 
@@ -393,7 +415,7 @@ III.- TERCER CIRCUITO:
 
 > <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 13/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE ABRIL DE 1999)</small>
 
-Los dieciséis juzgados de distrito en el Estado de Jalisco, con residencia en la ciudad de Guadalajara, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa
+Los dieciséis juzgados de distrito en el Estado de Jalisco, con residencia en la ciudad de Guadalajara, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
 Los Juzgados Primero y Segundo de Distrito en el Estado de Colima, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
@@ -465,8 +487,6 @@ Los Juzgados Cuarto, Quinto y Sexto de Distrito en el Estado de Sinaloa, con res
 
 Los Juzgados Séptimo, Octavo y Noveno de Distrito en el Estado de Sinaloa, con residencia en la ciudad de Mazatlán, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Concordia, Cosalá, Elota, Rosario, Escuinapa, Mazatlán y San Ignacio.
 
-> <small>(DEROGADO CUARTO PARRAFO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 22/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 1999)</small>
-
 El Juzgado de Distrito en el Estado de Baja California Sur, con residencia en la ciudad de La Paz, ejercerá jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
 XIII.- DECIMO TERCER CIRCUITO:
@@ -491,9 +511,13 @@ XV.- DECIMO QUINTO CIRCUITO:
 
 Los Juzgados Primero, Segundo y Tercero de Distrito en el Estado de Baja California, con residencia en la ciudad de Mexicali, ejercerán jurisdicción territorial en el distrito judicial conformado por el Municipio de Mexicali del Estado de Baja California y por el Municipio de San Luis Río Colorado del Estado de Sonora.
 
-Los Juzgados Cuarto, Quinto, Sexto y Séptimo de Distrito en el Estado de Baja California, con residencia en la ciudad de Tijuana, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Tijuana, Tecate y Playas de Rosarito.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 40/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 1999)</small>
 
-El Juzgado Octavo de Distrito en el Estado de Baja California, con residencia en la ciudad de Ensenada, ejercerá jurisdicción territorial en el distrito judicial conformado por el Municipio del mismo nombre.
+Los Juzgados Cuarto, Quinto, Sexto, Séptimo, Octavo y Noveno de Distrito en el Estado de Baja California, con residencia en la ciudad de Tijuana, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Playas de Rosarito, Tecate y Tijuana.
+
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 40/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 1999)</small>
+
+El Juzgado Décimo de Distrito en el Estado de Baja California, con residencia en la ciudad de Ensenada, ejercerá jurisdicción territorial en el distrito judicial conformado por el Municipio del mismo nombre.
 
 XVI.- DECIMO SEXTO CIRCUITO:
 
@@ -695,7 +719,7 @@ TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en e
 
 D.O.F. 9 DE SEPTIEMBRE DE 1999.
 
-ACUERDO GENERAL NUMERO 24/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+ACUERDO GENERAL NUMERO 25/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
 
 PRIMERO.- Este Acuerdo entrará en vigor el día treinta de septiembre de mil novecientos noventa y nueve.
 
@@ -712,3 +736,53 @@ PRIMERO.- Este Acuerdo entrará en vigor el día treinta de septiembre de mil no
 SEGUNDO.- Se modifica el Acuerdo General número 16/1998, del Pleno del Consejo de la Judicatura Federal, de fecha veinte de mayo de mil novecientos noventa y ocho, en los términos señalados en el presente Acuerdo.
 
 TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 5 DE NOVIEMBRE DE 1999.
+
+ACUERDO GENERAL NUMERO 37/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día ocho de noviembre de mil novecientos noventa y nueve.
+
+SEGUNDO.- La Dirección General de Recursos Humanos del Consejo de la Judicatura Federal atenderá en términos de ley, la situación laboral del personal adscrito al Tribunal Unitario que concluye funciones y que no fuera reubicado.
+
+TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 5 DE NOVIEMBRE DE 1999.
+
+ACUERDO GENERAL NUMERO 38/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día quince de noviembre de mil novecientos noventa y nueve.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 5 DE NOVIEMBRE DE 1999.
+
+ACUERDO GENERAL NUMERO 39/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día quince de noviembre de mil novecientos noventa y nueve.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 5 DE NOVIEMBRE DE 1999.
+
+ACUERDO GENERAL NUMERO 40/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día quince de noviembre de mil novecientos noventa y nueve.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 5 DE NOVIEMBRE DE 1999.
+
+ACUERDO GENERAL NUMERO 41/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día quince de noviembre de mil novecientos noventa y nueve.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 5 DE NOVIEMBRE DE 1999.
+
+ACUERDO GENERAL NUMERO 42/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día quince de noviembre de mil novecientos noventa y nueve.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
