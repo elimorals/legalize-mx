@@ -4,7 +4,7 @@ identifier: "COL-codigo-electoral-del-estado-de-colima-11634"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-11-09"
-last_updated: "1999-07-31"
+last_updated: "2001-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO ELECTORAL DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODIDO OFICIAL: 31 DE JULIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODIDO OFICIAL: 16 DE JUNIO DE 2001.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 9 de noviembre de 1996.
 
@@ -1782,6 +1782,10 @@ Los Consejeros Electorales serán electos por el CONGRESO en el mes de octubre d
 Los Consejeros Electorales durarán en su cargo siete años, estarán sujetos al régimen de responsabilidades establecido en el Título XI de la CONSTITUCIÓN y rendirán la protesta de ley ante el CONGRESO.
 
 Los Consejeros tendrán derecho a voz y voto.
+
+> <small>(ADICIONADO, P.O. 16 JUNIO DE 2001)</small>
+
+Si a la conclusión del período legal del cargo de Consejero a que se refiere este artículo, el CONGRESO no ha elegido al sustituto, la persona que lo viene desempeñando continuará en el mismo hasta que tome posesión el que lo sustituya.
 
 ###### ARTICULO 153.
 
@@ -3635,6 +3639,10 @@ El TRIBUNAL, al resolver los asuntos de su competencia, garantizará que los act
 
 El TRIBUNAL residirá en la capital del Estado, se integrará con 3 Magistrados numerarios y 2 supernumerarios, electos sucesivamente, en el mes de noviembre del año anterior a la elección por el CONGRESO, por mayoría calificada de sus miembros presentes, de una lista de 10 candidatos propuesta por el Supremo Tribunal de Justicia.
 
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2001)</small>
+
+Para cubrir la vacante de un Magistrado, el Supremo Tribunal de Justicia someterá una terna por cada nombramiento a la consideración del CONGRESO, el cual, por mayoría calificada de los Diputados presentes designará a la persona que deba cubrir la vacante, en el improrrogable plazo de 30 días naturales. Si el CONGRESO no resolviere dentro de dicho plazo, ocupará el cargo de Magistrado la persona que de cada una de las ternas, designe el Supremo Tribunal. En caso de que el CONGRESO rechace la totalidad de la terna propuesta, el Supremo Tribunal someterá una nueva, con respecto a la cual el Congreso resolverá dentro del improrrogable plazo de 15 días naturales. Si el Congreso no resuelve en ese plazo o si esta segunda terna fuera rechazada, ocupará el cargo la persona que de esta terna, designe el Supremo Tribunal.
+
 ###### ARTICULO 313.
 
 El TRIBUNAL se instalará e iniciará sus funciones en la primera quincena del mes de diciembre del año anterior al de la elección; y concluirá sus actividades al término del proceso electoral de que se trate o cuando los recursos interpuestos hayan causado ejecutoria.
@@ -3646,6 +3654,10 @@ En períodos no electorales se reunirá sólo a convocatoria de su Presidente, q
 ###### ARTICULO 314.
 
 Los Magistrados ejercerán sus funciones por un período de 8 años y no podrán ser reelectos. Estarán sujetos al régimen de responsabilidades establecido en el Título XI de la CONSTITUCION y rendirán la protesta de ley ante el CONGRESO o la Diputación Permanente, en su caso. La retribución que reciban será similar a la que perciban los Magistrados del Supremo Tribunal de Justicia y estará señalada en el Presupuesto de Egresos del propio TRIBUNAL.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2001)</small>
+
+Si a la conclusión del período legal del cargo de Magistrado a que se refiere este artículo, el CONGRESO no ha elegido al sustituto, la persona que lo viene desempeñando continuará en el mismo hasta que tome posesión el que lo sustituya.
 
 ###### ARTICULO 315.
 
@@ -4494,3 +4506,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Para los efectos del artículo 36 de este CODIGO, por esta única ocasión la inscripción del registro de los Partidos Políticos Nacionales podrá hacerse hasta el 31 de octubre de 1999.
 
 TERCERO.- Para que los partidos políticos normalicen y tengan la disponibilidad de financiar las actividades relativas a la educación, capacitación, investigación socioeconómica y política, así como las tareas editoriales, el Consejo General entregará por única vez, en la primera quincena del mes de Septiembre de 1999, dos ministraciones mensuales en una sola emisión, equivalente cada una, al 15% del financiamiento correspondiente, conforme a lo señalado en la fracción VIII del artículo 55 de este Código.
+
+P.O. 16 DE JUNIO DE 2001.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
