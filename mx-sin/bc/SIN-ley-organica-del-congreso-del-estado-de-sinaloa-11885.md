@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "1999-04-12"
+last_updated: "2000-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2000.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -1611,6 +1611,8 @@ PERSONAS SUJETAS A SU JURISDICCION
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 226.
 
 El Congreso por acuerdo de la mayoría de sus integrantes o de las Comisiones previo acuerdo, en este último caso, de la Gran Comisión podrán convocar a reuniones de audiencia para someter a consulta pública asuntos de su competencia.
@@ -1717,19 +1719,13 @@ Los servidores públicos mencionados en el presente Capítulo, en su caso, será
 
 Los procedimientos de Juicio Político, declaratoria de procedencia por la comisión de delitos, y de responsabilidad y sanciones a iniciativas que realice la Comisión Instructora del Congreso del Estado, se efectuarán conforme a las disposiciones que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa.
 
-## TITULO SEPTIMO. DE LAS FUNCIONES ELECTORALES Y DE NOMBRAMIENTO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE SEPTIEMBRE DE 2000)</small>
+
+## TITULO SEPTIMO. DEL BANDO SOLEMNE Y FACULTADES DE NOMBRAMIENTO
 
 ###### ARTICULO 241.
 
-En la calificación de las elecciones para Gobernador del Estado se procederá en la forma siguiente:
-
-I.- Recibido el expediente electoral correspondiente, se turnará a una Comisión Especial compuesta con cinco Diputados, para que rindan dictamen sobre la misma.
-
-II.- Presentado el dictamen, el Presidente del Congreso declarará a éste erigido en Colegio Electoral, para la discusión y aprobación en su caso, del dictamen presentado.
-
-III.- Aprobado el dictamen el Presidente del Congreso hará la declaratoria mencionando el nombre del ciudadano que haya resultado electo Gobernador, mandando publicarlo en bando solemne.
-
-El anterior procedimiento podrá substanciarse en una sola sesión si así lo acuerda la Cámara.
+El Congreso del Estado expedirá el Bando Solemne entre los días 15 al 20 de diciembre del año de la elección, para dar a conocer en todo el Estado la declaración de Gobernador electo que hubiera hecho el Tribunal Estatal Electoral; una vez recibida por el mismo, la declaratoria de validez de la elección y la del Gobernador electo, respecto del candidato que hubiera obtenido el mayor número de votos.
 
 ###### ARTICULO 242.
 
@@ -1804,5 +1800,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 12 DE ABRIL DE 1999.
 
 ###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 15 DE SEPTIEMBRE DE 2000.
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
