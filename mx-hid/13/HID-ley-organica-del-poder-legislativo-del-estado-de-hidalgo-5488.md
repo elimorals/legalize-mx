@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-de-hidalgo-5488"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1982-01-08"
-last_updated: "1982-01-08"
+last_updated: "1982-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DEL PODER LEGISLATIVO PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1982.
 
 Ley publicada en el Alcance No. 2 del Periódico Oficial del Estado de Hidalgo, el 8 de enero de 1982
 
@@ -65,13 +65,15 @@ Para ser diputado se necesita llenar los requisitos que para el caso se señala 
 
 De conformidad con lo dispuesto por el Artículo 36 de la Constitución política del Estado, el Congreso se renovará en su totalidad cada tres años e iniciará sus funciones el día 1o. de Abril posterior a las elecciones.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1982)</small>
+
 ###### ARTICULO 8o.
 
-La H. Legislatura, de acuerdo con lo dispuesto en los Artículos 38 y 39 de la Constitución Política del Estado, se reunirá en períodos ordinarios de sesiones y podrá celebrar sesiones extraordinarias.
+La Legislatura de acuerdo con los Artículos 38 y 39 de la Constitución Política del Estado, se reunirá en Períodos Ordinarios de Sesiones y podrá celebrar Sesiones Extraordinarias.
 
-Habrá dos Períodos Ordinarios de Sesiones al año; el primero se iniciará el 15 de febrero y terminará el 15 de mayo, excepto en el año en que concluya el ultimo período para el que fue electa la Legislatura correspondiente, la que terminará sus funciones el día ultimo del mes de marzo, iniciándose el día 1º. de Abril inmediato, el primer periodo de sesiones de nueva Legislatura.
+Habrá dos Períodos Ordinarios de Sesiones al año: el primero se iniciará el primero de abril y terminará el ultimo de Junio, el segundo comenzara el primero de Octubre y terminara el treinta y uno de Diciembre.
 
-El segundo comenzara el 1º. de octubre y terminara el 31 de Diciembre. Los períodos de sesiones extraordinarias se efectuarán cuando sea necesario, mediante convocatoria de la comisión permanente o del Gobernador del Estado.
+Los Períodos de Sesiones Extraordinarias se efectuarán cuando sea necesario, mediante convocatoria de la Comisión Permanente o del Gobernador del Estado.
 
 ###### ARTICULO 9o.
 
@@ -894,3 +896,9 @@ Dado en el Palacio del Poder Ejecutivo, en la Ciudad de Pachuca de Soto, Estado 
 El Gobernador Constitucional del Estado.- ARQ. GUILLERMO ROSSELL DE LA LAMA.- Rúbrica.
 
 El Secretario General de Gobierno.- LIC. JOSE ANTONIO ZORRILLA PEREZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE MAYO DE 1982.
+
+UNICO.- Estas reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
