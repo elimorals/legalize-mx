@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-la-ley-de-transito-y-transporte-para-del-6722"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-11-24"
-last_updated: "1988-11-24"
+last_updated: "1991-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6722&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "VER"
 
 REGLAMENTO DE LA LEY DE TRANSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE MARZO DE 1991.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el jueves 24 de noviembre de 1988.
 
@@ -298,7 +298,7 @@ I.- Ser de nacionalidad mexicana o acreditar la legal estancia en el país, en s
 
 II.- Saber leer y escribir;
 
-III.- Estar cumpliendo o haber cumplido el Servicio Militar Nacional, cuando se esté obligado a presentarlo;
+III.- (DEROGADA, G.O. 23 DE MARZO DE 1991)
 
 IV.- Acreditar pericia en el manejo, del vehículo de motor de que se trate;
 
@@ -318,11 +318,15 @@ b).- Acta de Nacimiento o documento fehaciente a juicio de la autoridad de Trán
 
 c).- El documento que acredite la legal estancia en el País, cuando se trate de extranjeros.
 
-d).- Cartilla del Servicio Militar Nacional liberada o constancia para acreditar que se está cumpliendo con el mismo;
+> <small>(REFORMADO, G.O. 23 DE MARZO DE 1991)</small>
 
-e) Constancia de no ser reincidente en los términos del Código Penal del Estado, cuando se trate de obtener licencia de chofer; y
+d).- Comprobante de pago de los derechos correspondientes; y
 
-f).- Comprobante de pago de los derechos correspondientes.
+> <small>(REFORMADO, G.O. 23 DE MARZO DE 1991)</small>
+
+e) Constancia del domicilio actual expedida por la Autoridad Municipal.
+
+f).- (DEROGADO, G.O. 23 DE MARZO DE 1991)
 
 II.- Aprobar los exámenes siguientes:
 
@@ -990,11 +994,19 @@ cumplirán con los siguientes requisitos:
 
 I.- Formular la solicitud de alta, proporcionando los datos que sean señalados por la Dirección, debiendo acompañar:
 
-a) Los documentos que acrediten en forma fehaciente la posesión del vehículo y
+> <small>(REFORMADO, G.O. 23 DE MARZO DE 1991)</small>
 
-b) Los documentos que exige el Registro Federal de Vehículos, incluyendo el pago del impuesto sobre la tenencia, en su caso.
+a) Los documentos que acrediten en forma fehaciente la posesión del vehículo;
 
-II.- Aprobar la revisión del sistema electromecánico de la unidad, para certificar que se encuentren satisfechos los requisitos de circulación;
+> <small>(REFORMADO, G.O. 23 DE MARZO DE 1991)</small>
+
+b) El pago del impuesto sobre la tenencia del vehículo; y
+
+> <small>(ADICIONADO, G.O. 23 DE MARZO DE 1991)</small>
+
+c) En su caso, el pago del impuesto sobre la adquisición de vehículos de motor usados.
+
+II.- (DEROGADA, G.O. 23 DE MARZO DE 1991)
 
 III.- Cubrir los derechos correspondientes a las placas, tarjeta de circulación y engomado, que se establecen en la Ley de Hacienda del Estado; y
 
@@ -1002,9 +1014,29 @@ IV.- Obtener el juego de placas, tarjeta de circulación y engomado para la iden
 
 ART. 59. Los concesionarios o permisionarios de vehículos destinados al servicio público de transporte deberán satisfacer, además de los requisitos anteriores, los siguientes:
 
-I.- El pago de las contribuciones previstas por la Ley en la materia; y
+> <small>(REFORMADA, G.O. 23 DE MARZO DE 1991)</small>
 
-II.- Presentar la concesión o el permiso, otorgados por las autoridades competentes.
+I.- El pago de las contribuciones previstas por la Ley de la materia;
+
+> <small>(REFORMADA, G.O. 23 DE MARZO DE 1991)</small>
+
+II.- Presentar la concesión o el permiso, otorgados por las autoridades competentes; y
+
+> <small>(ADICIONADA, G.O. 23 DE MARZO DE 1991)</small>
+
+III.- Aprobar la revisión del sistema No pasar revista vehicular.
+
+electromecánico y del estado general
+
+de la unidad en las fechas que
+
+determine la Dirección General de
+
+Tránsito y Transporte, para asegurar
+
+que se encuentren satisfechos los
+
+requisitos de prestación del servicio.
 
 ART. 60. Cualquier modificación No manifestar cambio de las
 
@@ -1226,6 +1258,8 @@ pertenezcan o el nombre
 
 del propietario; S.- Falta de llanta de refacción.
 
+> <small>(REFORMADA, G.O. 23 DE MARZO DE 1991)</small>
+
 V.- Los vehículos autorizados T.- Falta de herramienta complementaria.
 
 como de maquinaria agrícola e
@@ -1234,17 +1268,33 @@ industrial, deberán contar con U.- Falta de botiquín de primeros auxilios.
 
 los dispositivos que señalan las
 
-Fracciones anteriores, adaptados V.- Falta de extinguidor.
+fracciones anteriores, adaptados V.- Falta de extinguidor.
 
-en el caso para cada una de ellas; y
+en el caso para cada una de ellas;
 
-W.- No ostentar el vehículo clara
+> <small>(REFORMADA, G.O. 23 DE MARZO DE 1991)</small>
 
-y legible su razón social.
+VI.- Llevar casco W.- No ostentar el vehículo clara y legible
 
-VI.- Llevar casco protector el X.- Falta de casco protector al conducir
+protector el conductor su razón social
 
-conductor de motocicleta. motocicleta.
+de motocicleta;
+
+X.- Falta de casco protector al conducir motocicleta.
+
+> <small>(ADICIONADA, G.O. 23 DE MARZO DE 1991)</small>
+
+VII.- Haber aprobado el examen Y.- No portar calcomanía de verificación vehicular.
+
+de verificación de emisiones
+
+contaminantes en términos de
+
+la Ley de la materia, debiendo
+
+portar en un lugar visible la calcomanía
+
+que por este efecto se expida.
 
 ART. 68. Queda prohibido utilizar
 
@@ -2060,21 +2110,13 @@ productos o artículos con
 
 vehículos de su propiedad.
 
-ART. 104. Para la realización Falta de resello bianual en autorización
+> <small>(ADICIONADO, G.O. 23 DE MARZO DE 1991)</small>
 
-del servicio particular de transporte particular.
+Se exceptúan de esta autorización, los vehículos particulares con capacidad hasta de 3,500 kilogramos.
 
-de carga o personas, se requiere
+> <small>(REFORMADO, G.O. 23 DE MARZO DE 1991)</small>
 
-autorización de la Dirección General
-
-de Tránsito y Transporte, que tendrá
-
-una vigencia indefinida, pero que
-
-deberá ser resellado cada dos años
-
-previa revisión que se haga del vehículo.
+ART. 104. Las autorizaciones para la realización del servicio particular de transporte de carga o personas, serán otorgadas por la Dirección General de Tránsito y Transporte y tendrán una vigencia de un año.
 
 ART. 105. Para la obtención de la autorización a que se refieren los artículos anteriores, los interesados deberán presentar una solicitud en la que manifiesten los datos y declaraciones que les requiera la autoridad de Tránsito y Transporte, debiendo acompañar los documentos y constancias que acrediten la procedencia del permiso.
 
@@ -2568,6 +2610,10 @@ ART. 125. Corresponde a la Dirección General de Tránsito y Transporte, aplicar
 
 ART. 126. Cuando se cometa una infracción, con un vehículo registrado en el Estado, las autoridades de Tránsito se abstendrán de recoger las placas.
 
+> <small>(ADICIONADO, G.O. 23 DE MARZO DE 1991)</small>
+
+Cuando un vehículo se encuentre mal estacionado, las autoridades de tránsito podrán usar grúa para trasladarlo al corralón correspondiente.
+
 ART. 127. Cuando con una misma conducta se infrinjan dos de las disposiciones de este Reglamento, se asentarán en la boleta de infracción pero al infractor se le aplicará únicamente la de mayor cuantía.
 
 ART. 128. Quien reincida en una falta en el término de seis meses, será sancionado con una doble multa y la autoridad de Tránsito podrá recoger y suspender los efectos de la licencia del infractor hasta por tres meses, cuando la infracción se ubique en las categorías "C" o "D".
@@ -2594,11 +2640,17 @@ V.- Prohibición para circular.
 
 ART. 133. Es multa la sanción pecuniaria que se impone por la violación de este Reglamento, y se clasifica en las siguientes categorías:
 
-I.- Categoría "A". Por la cantidad equivalente a un día del salario mínimo, aplicable a las faltas contenidas en los Artículos: 9º; 10; 12; 13; 14; 15; 16 notas A y B; 20; 21; 22; 23 notas A, B y C; 24; 33; 34; 36 notas A, B y C; 37 notas A, B y C; 38; 39; 40; 41; 42; 43; 45; 49; 51; 52; 53; 55 notas A y B; 56 notas A y B; 61 notas A, B, C, D, E, F, G y H; 62 notas A, B y C; 66; 67 notas A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X; 72 notas A y B; 73 notas A y B; 74 notas A y B; 81; 87 notas A, B, C, D, E, F, G, H, I, J, K, L, M, N; 89; 93 notas A y B; 95; 96; 97 notas A, B y C; 98 notas A, B, C, D, E, F, G, H, I, J, K; 99; 100; 110 notas A, C, D y F; 116 notas A y B; 123 notas A, B, C y D;
+> <small>(REFORMADA, G.O. 23 DE MARZO DE 1991)</small>
 
-II.- Categoría "B". Por la cantidad equivalente a dos días del salario mínimo, aplicable a las faltas contenidas en los Artículos: 44; 46; 50; 54 notas A y B; 68; 70 notas A, B y C; 75; 79 notas A, B, C, D, y E; 80; 83 notas A y B; 84; 85; 86; 104; 107; 114 notas A, B y C;
+I.- Categoría "A". Por la cantidad equivalente a un día del salario mínimo, aplicable a las faltas contenidas en los artículos: 9º; 10; 12; 13; 14; 15; 16 notas A y B; 20; 21; 22; 23 notas A, B y C; 24; 33; 34; 36 notas A, B y C; 37 notas A, B y C; 38; 39; 40; 41; 42; 43; 45; 49; 51; 52; 53; 55 notas A y B; 56 notas A y B; 61 notas A, B, C, D, E, F, G y H; 62 notas A, B y C; 66; 67 notas A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, y X; 72 notas A y B; 73 notas A y B; 74 notas A y B; 81; 87 notas A, B, C, D, E, F, G, H, I, J, K, L, M y N; 89; 93 notas A y B; 95; 96; 97 notas A, B y C; 98 notas A, B, C, D, E, F, G, H, I, J, y K; 99; 100; 110 notas A, C, D y F; 116 notas A y B; 123 notas A, B, C y D;
 
-III.- Categoría "C". Por la cantidad equivalente a cuatro días del salario mínimo, aplicable a las faltas contenidas en los Artículos: 27 notas A y C; 47; 48; 59; 60; 69; 72 nota C; 76; 78; 88; 106; 111; 114 nota D; 117 notas B y C; 121 notas A, B, C, D y E y 139;
+> <small>(REFORMADA, G.O. 23 DE MARZO DE 1991)</small>
+
+II.- Categoría "B". Por la cantidad equivalente a 2 días del salario mínimo, aplicable a las faltas contenidas en los artículos: 44; 46; 50; 54 notas A y B; 68; 70 notas A, B y C; 75; 79 notas A, B, C, D, y E; 80; 83 notas A y B; 84; 85; 86; 107; 114 notas A, B y C;
+
+> <small>(REFORMADA, G.O. 23 DE MARZO DE 1991)</small>
+
+III.- Categoría "C". Por la cantidad equivalente a cuatro días del salario mínimo, aplicable a las faltas contenidas en los artículos: 27 notas A y C; 47; 48; 59; 60; 67 nota Y; 69; 72 nota C; 76; 78; 88; 106; 111; 114 nota D; 117 notas B y C; 121 notas A, B, C, D y E y 139; y
 
 IV.- Categoría "D". Por la cantidad equivalente a veinte días del salario mínimo aplicable a las faltas contenidas en los Artículos: 27 nota B; 29; 30; 35 notas A y B; 61 notas I y J; 64; 82; 103 notas A, B, C y D; 109; 110 notas B, E y G; 112; 113; 115; 117 nota A; 118; 119 notas A y B.
 
@@ -2834,7 +2886,7 @@ ART. 165. Las concesiones Transmitir concesión sin autorización.
 
 para prestar el servicio público
 
-de transporte, en las
+de transporte, en sus
 
 modalidades de taxi y colectivo
 
@@ -3044,6 +3096,8 @@ Se prohibe prestar el servicio público de transporte colectivo, en vehículos q
 
 ART. 178. En cada concesión que se otorgue para la prestación del servicio público de transporte se deberá especificar la modalidad a que éste queda sujeta, así como la o las jurisdicciones donde se dará el servicio.
 
+> <small>(REFORMADO, G.O. 23 DE MARZO DE 1991)</small>
+
 ART. 179. De acuerdo A.- No ostentar o portar los colores, lemas,
 
 con la modalidad, los números o accesorios indicados por la Dirección
@@ -3054,23 +3108,21 @@ la prestación del servicio
 
 público de transporte,
 
-deberán ser pintados con
+deberán ser identificados con
 
-los colores, lemas, números B.- Ostentar colores, lemas, números o
+los colores, emblemas, número B.- Ostentar colores, lemas, números o
 
-y llevar los accesorios que accesorios reglamentarios del servicio público
+y con los accesorios y distintivos accesorios reglamentarios del servicio público
 
-determine la Dirección en vehículo particular.
+que determine la Dirección en vehículo particular.
 
-General de Tránsito y Transporte.
+General de Tránsito y Transporte
 
-Se prohibe que los vehículos
+Se prohíbe que los vehículos
 
-particulares, sean pintados
+particulares, se identifiquen de la
 
-con estos colores, lemas
-
-números o lleven los accesorios.
+misma manera.
 
 ART. 180. Los vehículos destinados al servicio público de transporte, deberán contar con:
 
@@ -3604,23 +3656,41 @@ durante el viaje, con excepción
 
 de los servicios de segunda clase.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE MARZO DE 1991)</small>
+
 ART. 193. Los choferes A.- Falta de aseo y pulcritud en conductores de
 
 de los vehículos destinados servicio de pasajeros.
 
 al servicio público de transporte
 
-de pasajeros, deberán desarrollar B.- Maltrato al público usuario.
+de pasajeros, deberán B.- Maltrato al público usuario.
 
-su actividad aseados y vestidos
+desarrollar su actividad, aseados
 
-con pulcritud; así mismo C.- No atender indicaciones de los usuarios.
+y vestidos con pulcritud,
 
-a respetar y atender las
+respetando y atendiendo la
 
-indicaciones que le hagan
+indicaciones que hagan los
 
-los usuarios.
+usuarios, exhibiendo en lugar
+
+visible dentro del vehículo
+
+la tarjeta anual de identificación
+
+del conductor que expida la
+
+Dirección General de Tránsito
+
+y Transporte del Estado. C.- No atender indicaciones de los usuarios.
+
+> <small>(ADICIONADO, G.O. 23 DE MARZO DE 1991)</small>
+
+D.- No exhibir en lugar visible dentro del vehículo
+
+la tarjeta anual de identificación del conductor.
 
 ART. 194. Se podrá negar A.- Transportar personas en estado de ebriedad
 
@@ -4104,11 +4174,17 @@ IV.- Prohibición para circular.
 
 ART. 225. Es multa la sanción pecuniaria que se impone por la violación de este Reglamento, y se clasifica en las siguientes categorías:
 
-I.- Categoría "A". Por la cantidad equivalente a un día del salario mínimo, aplicable a las faltas contenidas en los Artículos 179 nota B; 180 notas A y C; 186; 189 notas A, B, G, H, I, J, K, L, M, O y Q; 191 nota F; 192 nota C; 193 notas A y C; 194 notas A y B; 195 nota B; 197 notas A y E; 198 notas A y B;
+> <small>(REFORMADA, G.O. 23 DE MARZO DE 1991)</small>
 
-II.- Categoría "B". Por la cantidad equivalente a dos días del salario mínimo, aplicable a las faltas contenidas en los Artículos: 179 nota A; 180 notas B y D; 182; 183; 184; 189 nota C; 195 nota A; 199 notas A y B; 200; 213;
+I.- Categoría "A". Por la cantidad equivalente a un día del salario mínimo, aplicable a las faltas contenidas en los artículos: 180 notas A y C; 186; 189 notas A, B, G, H, I, J, K, L, M, O y Q; 191 nota F; 192 nota C; 193 notas A y C; 194 notas A y B; 195 nota B; 197 notas A y E; 198 notas A y B;
 
-III.- Categoría "C". Por la cantidad equivalente a cuatro días del salario mínimo, aplicable a las faltas contenidas en los Artículos: 155; 156; 157; 174; 188; 189 notas D, E, F, N y P; 190; 191 notas A, B, D, E, H, I y J; 192 notas A y B; 193 nota B; 197 notas B, C y D; 201 notas A, B, C y D; 205; 206 notas A, B, C y D; 207; 214; 216 notas A y B; y
+> <small>(REFORMADA, G.O. 23 DE MARZO DE 1991)</small>
+
+II.- Categoría "B". Por la cantidad equivalente a dos días del salario mínimo, aplicable a las faltas contenidas en los artículos: 179 notas A y B; 180 notas B y D; 182; 183; 184; 189 nota C; 195 nota A; 199 notas A y B; 200; 213;
+
+> <small>(REFORMADA, G.O. 23 DE MARZO DE 1991)</small>
+
+III.- Categoría "C". Por la cantidad equivalente a cuatro días del salario mínimo, aplicable a las faltas contenidas en los artículos: 155; 156; 157; 174; 188; 189 notas D, E, F, N y P; 190; 191 notas A, B, D, E, H, I y J; 192 notas A y B; 193 notas B y D; 197 notas B, C y D; 201 notas A, B, C y D; 205; 206 notas A, B, C y D; 207; 214; 216 notas A y B; y
 
 IV.- Categoría "D". Por la cantidad equivalente a 20 días de salario mínimo, aplicable a las faltas contenidas en los Artículos: 165, 166, 167, 172 notas A y B, 177; 181 notas A y B, 185, 191 notas C y G, 202, 203, 209, 211, 215, 216 nota C, 220, 230.
 
@@ -4244,10 +4320,22 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. DANTE DELGADO RANNAURO
 
-EL SECRETARIO DE FINANZAS Y PLANEACION
+EL SECRETARIO DE FINANZAS Y PLANEACION.
 
 LIC. RAUL OJEDA MESTRE
 
-EL SECRETARIO DE COMUNICACIONES Y OBRAS PUBLICAS
+EL SECRETARIO DE COMUNICACIONES Y OBRAS PUBLICAS.
 
-ING. GUSTAVO NACHON AGUIRRE
+ING. GUSTAVO NACHON AGUIRRE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 23 DE MARZO DE 1991.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor, al día siguiente a su publicación en la "Gaceta Oficial" del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Ordenamiento.
