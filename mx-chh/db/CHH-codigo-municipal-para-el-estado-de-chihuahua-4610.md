@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "1997-07-19"
+last_updated: "1997-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 1997.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -83,7 +83,9 @@ En el Estado de Chihuahua, no habrá autoridad intermedia entre los Ayuntamiento
 
 Con el fin de permitir la participación de los ciudadanos, en el quehacer municipal, se establecen las figuras de: Iniciativa Popular, Plebiscito y Referéndum.
 
-Se entiende por Iniciativa Popular, la facultad que tienen los ciudadanos de un Municipio, para proponer normas reglamentarias ante el Ayuntamiento.
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1997)</small>
+
+Se entiende por Iniciativa popular, la facultad que tienen los ciudadanos de un municipio, para proponer normas reglamentarias ante un Ayuntamiento. La iniciativa popular deberá señalar los artículos que se pretenden reformar, adicionar o derogar, la redacción que se propone y la exposición de motivos. Los promoventes de la iniciativa popular tendrán el derecho de nombrar a un representante para que participe con voz en las sesiones del Ayuntamiento que tengan por objeto analizar a la misma. Dichas sesiones deberán realizarse a más tardar dentro de los tres meses siguientes a la presentación de la iniciativa.
 
 Plebiscito, es la consulta a los electores para que expresen su previa aprobación o rechazo, a un acto de los Ayuntamientos que sean considerados como trascendentes para la vida pública de los Municipios, o para la erección o supresión de los mismos.
 
@@ -265,9 +267,11 @@ LXVII.- VALLE DE ZARAGOZA; con cabecera en el pueblo del mismo nombre y las secc
 
 Las municipalidades, secciones municipales y comisarías de policía, comprenderán las haciendas, rancherías, ejidos, congregaciones y demás centros de población, que se encuentren enclavados dentro de sus respectivos límites, sancionados por la tradición y la costumbre. Las controversias por límites entre los Municipios serán resueltos por el Congreso del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 13.
 
-El Congreso del Estado podrá, por el voto de los dos tercios de los diputados presentes, previa consulta mediante plebiscito a los electores residentes en los municipios de que se trate, erigir nuevos Municipios dentro de los límites de los ya existentes y suprimir aquellos que no reúnan las condiciones legales, siendo necesario para lo primero:
+El Congreso del Estado podrá, por el voto de los dos tercios de los diputados presentes, previa consulta mediante plebiscito a los electores residentes en los municipios de que se trate, erigir nuevos Municipios dentro de los límites de los ya existentes y suprimir aquellos que no reúnan las condiciones legales, siendo necesario para ambos casos:
 
 I.- Que lo soliciten, cuando menos, uno de los Ayuntamientos de los Municipios involucrados; el diez por ciento de los electores residentes en éstos, debidamente identificados, o la tercera parte de los miembros del Congreso;
 
@@ -280,6 +284,10 @@ IV.- Que los Ayuntamientos de cuyo territorio se trate, expresen al Congreso del
 V.- Que el Ejecutivo del Estado, rinda asimismo, un informe al Congreso sobre dicho asunto, dentro de los sesenta días siguientes a la fecha en que le sea solicitado; y
 
 VI.- Que a criterio del Congreso del Estado, no afecte la subsistencia del, o los Municipios de cuyo territorio se trate.
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 1997)</small>
+
+VII.- Cuando la solicitud sea presentada por el diez por ciento de los electores residentes en los municipios involucrados, los promoventes podrán nombrar a un representante quien tendrá el derecho de expresar por escrito al Congreso del Estado la opinión de los solicitantes, dentro de los sesenta días siguientes a la fecha en que se le comunique la solicitud; asimismo, el representante tendrá los mismos derechos a que se refiere el artículo 53 constitucional respecto a la iniciativa popular.
 
 Los centros de población de los Municipios, podrán tener las categorías de ciudad, poblado, comunidad y ranchería, según el grado de concentración demográfica y los servicios públicos de los mismos. La reglamentación respectiva determinará las características, condiciones y requisitos que deberán reunir los centros de población para que el Ayuntamiento del que se trate, acuerde la denominación que le corresponda.
 
@@ -313,25 +321,27 @@ La vecindad no se perderá por ausencia en el desempeño de un cargo público o 
 
 ### CAPITULO I. DE LA INTEGRACION E INSTALACION DE LOS AYUNTAMIENTOS
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 17.
 
-Cada Municipio será administrado por un Ayuntamiento de elección popular directa, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, la Ley Electoral y el presente Código. En su integración se introducirá el principio de representación proporcional en los términos de las disposiciones citadas.
+Cada Municipio será administrado por un Ayuntamiento de elección popular directa, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la particular del estado, la Ley Electoral y el presente Código. En su integración se introducirá el principio de representación proporcional en los términos de las disposiciones citadas.
 
-Los Ayuntamientos residirán en las cabeceras municipales y se integrarán:
+Los ayuntamientos residirán en las cabeceras municipales y se integrarán:
 
-I.- Los Municipios de Chihuahua y Juárez con un Presidente y diez Regidores electos por el principio de mayoría relativa;
+I.- Los Municipios de Chihuahua y Juárez con un Presidente, un Síndico y diez Regidores electos por el principio de mayoría relativa;
 
-II.- Los Municipios de Camargo, Cuauhtémoc, Delicias, Guerrero, Hidalgo del Parral, Jimenez, Madera, Meoqui, Namiquipa, Nuevo Casas Grandes, Ojinaga y Saucillo, por un Presidente y ocho Regidores electos por el principio de mayoría relativa;
+II.- Los Municipios de Camargo, Cuauhtémoc, Delicias, Guerrero, Hidalgo del Parral, Jiménez, Madera, Meoqui, Namiquipa, Nuevo Casas Grandes, Ojinaga y Saucillo, por un Presidente, un Síndico y ocho Regidores electos por el principio de mayoría relativa;
 
-III.- Los de Ahumada, Aldama, Ascensión, Balleza, Bocoyna, Buenaventura, Guachochi, Guadalupe y Calvo, Riva Palacio, Rosales, San Francisco del Oro, Santa Bárbara, Urique e Ignacio Zaragoza, por un Presidente y seis Regidores electos por el principio de mayoría relativa; y
+III.- Los de Ahumada, Aldama, Ascensión, Balleza, Bocoyna, Buenaventura, Guachochi, Guadalupe y Calvo, Riva Palacio, Rosales, San Francisco del Oro, Santa bárbara, Urique e Ignacio Zaragoza, por un Presidente, un Síndico y seis Regidores electos por el principio de mayoría relativa; y
 
-IV.- Los restantes por un Presidente y cuatro Regidores electos por el principio de mayoría relativa.
+IV.- Los restantes por un Presidente, un Síndico y cuatro Regidores electos por el principio de mayoría relativa.
 
 En relación a los Regidores electos según el principio de representación proporcional, se estará a lo establecido en la Constitución Política del Estado y en la Ley Electoral.
 
 Respecto al gobierno de las secciones y demás poblaciones de un municipio, se estará a lo dispuesto en el ordenamiento Constitucional citado.
 
-Por cada Presidente, Regidor o Comisario, habrá un suplente para sustituirlo en sus impedimentos o faltas.
+Por cada Presidente, Síndico, Regidor o Comisario, habrá un suplente para sustituirlo en sus impedimentos o faltas.
 
 ###### ARTICULO 18.
 
@@ -339,9 +349,13 @@ Cada Ayuntamiento, se instalará el día 10 de octubre de los años correspondie
 
 "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular de nuestra Entidad, el Código Municipal del Estado y demás disposiciones que de ellos emanen y desempeñar con lealtad, eficiencia y patriotismo, el cargo de Presidente Municipal, que el pueblo de este Municipio, me ha conferido".
 
-El Presidente Municipal tomará la protesta a los Regidores, de la manera siguiente:
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1997)</small>
 
-"¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular de nuestra Entidad, el Código Municipal del Estado y demás disposiciones que de ellos emanen y desempeñar con lealtad, eficiencia y patriotismo, el cargo de Regidores que el pueblo de este municipio os ha conferido?".
+El Presidente Municipal tomará la protesta al Síndico, a los Regidores, a los integrantes de las Juntas Seccionales y a los Comisarios de Policía, de la manera siguiente:
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1997)</small>
+
+"¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular de nuestra Entidad, el Código Municipal del Estado y demás disposiciones que de ellos emanen y desempeñar con lealtad, eficiencia y patriotismo, el cargo que el pueblo de este municipio os ha conferido?".
 
 El Presidente Municipal los amonestará en los siguientes términos:
 
@@ -583,11 +597,15 @@ XXXVI.- Establecer las bases conforme a las cuales deban llevarse a cabo los reg
 
 XXXVII.- Las demás que le confieren las leyes y reglamentos.
 
-### CAPITULO V. DE LAS PRERROGATIVAS DE LOS REGIDORES
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE OCTUBRE DE 1987)</small>
+
+### CAPITULO V. DE LAS PRERROGATIVAS DE LOS REGIDORES Y DEL SINDICO
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 30.
 
-Los Regidores tienen facultades de inspección y vigilancia, en los ramos a su cargo, por lo que no podrán dar órdenes a los funcionarios, empleados municipales y público en general. Sólo podrán ejercitar funciones ejecutivas cuando actúen como cuerpo colegiado en las sesiones del Ayuntamiento.
+Los regidores y el síndico tienen facultades de inspección y vigilancia, en los ramos a su cargo, por lo que no podrán dar órdenes a los funcionarios, empleados municipales y público en general. Los Regidores sólo podrán ejercitar funciones ejecutivas cuando actúen como cuerpo colegiado en las sesiones del Ayuntamiento.
 
 ###### ARTICULO 31.
 
@@ -643,13 +661,53 @@ La Comisión de Gobernación tendrá intervención en todas aquellas cuestiones 
 
 La Comisión de Hacienda tendrá intervención, en todas las cuestiones relativas a la materia patrimonial y financiera municipal y de manera especial, a través de su Presidente:
 
-I.- Autorizar en unión del Presidente Municipal y Tesorero, el movimiento mensual de ingresos y egresos, y el balance anual que debe practicar la Tesorería Municipal; y
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 1997)</small>
+
+I.- Autorizar en unión del Presidente Municipal, el Síndico y Tesorero, el movimiento mensual de ingresos y egresos, y el balance anual que debe practicar la Tesorería Municipal; y
 
 II.- Intervendrá en todos los actos, contratos, remates y enajenaciones que se refieran al patrimonio municipal.
 
 ###### ARTICULO 36.
 
 La Comisión de Obras Públicas y Servicios Públicos intervendrá en las cuestiones relativas a la construcción y mantenimiento de obras públicas, aseo, alineamiento de calles y predios, alumbrado público, nomenclatura de calles, pavimentación, mejoramiento ambiental, ornato de calles, plazas, caminos, edificios, monumentos y demás lugares públicos municipales; asimismo, vigilará que la prestación de los servicios públicos municipales se realice eficazmente y que los concesionarios cumplan con las obligaciones pactadas en los contratos de concesión.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 1997)</small>
+
+ARTICULO 36 A.- Los síndicos municipales tendrán a su cargo la vigilancia del patrimonio municipal.
+
+En el Presupuesto de Egresos de cada municipio deberán preverse recursos suficientes para que el Síndico pueda cumplir con eficacia las funciones que le corresponden.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 1997)</small>
+
+ARTICULO 36 B.- El Síndico tendrá las siguientes facultades y obligaciones:
+
+I.- Asistir a las sesiones del Ayuntamiento y participar en las discusiones con voz, pero sin voto;
+
+II.- Revisar y firmar los cortes de caja de la tesorería municipal;
+
+III.- Revisar que el ejercicio del gasto se realice llenando todos los requisitos legales y conforme al presupuesto respectivo;
+
+IV.- Vigilar que las multas que impongan las autoridades municipales o cualquier otro ingreso sea enterado a la tesorería, previo certificado de ingresos;
+
+V.- Asistir a las visitas de inspección que realice la Contaduría General del Congreso o la Contraloría del Estado o de la Federación a la tesorería municipal, e informar de los resultados a los ayuntamientos;
+
+VI.- Vigilar que oportunamente se remita al Congreso la cuenta pública municipal;
+
+VII.- Vigilar la formulación del inventario general de los bienes muebles e inmuebles propiedad del municipio;
+
+VIII.- Vigilar el régimen de propiedad de los bienes inmuebles municipales;
+
+IX.- Participar en los remates públicos en los que tenga interés el municipio, para que se finquen al mejor postor y se guarden los términos y disposiciones previstos en las leyes respectivas, como observador;
+
+X.- Verificar que los funcionarios públicos y empleados del municipio cumplan con la formulación de su declaración patrimonial;
+
+XI.- Revisar la situación de los rezagos fiscales para que éstos sean liquidados y cobrados;
+
+XII.- Asociarse a cualquier comisión encomendada a los Regidores cuando la importancia de la misma y los intereses del Municipio, así lo ameriten;
+
+XIII.- Conocer de las condonaciones o reducciones de créditos fiscales que realicen el tesorero o el presidente municipal; y
+
+XIV.- Las demás que establezcan las leyes y reglamentos.
 
 ### CAPITULO VI. DE LAS JUNTAS MUNICIPALES Y LAS COMISARIAS DE POLICIA
 
@@ -2555,7 +2613,7 @@ La suspensión, podrá ser solicitada en cualquier tiempo ante la autoridad ejec
 
 La tramitación de los recursos administrativos, en contra de actos de las autoridades municipales, se sujeta al procedimiento siguiente:
 
-I.- Se interpondrá por sí o por representante legalmente investido ante el Secretario Municipal, por escrito expresando: El nombre del recurrente; domicilio para ser notificado en la cabecera del Municipio; señalamiento del acto impugnado; los agravios que el mismo le causa y el ofrecimiento de las pruebas que pretenda rendir. Si dentro del trámite que haya dado origen a la resolución o acto recurrido el interesado tuvo oportunidad razonable de rendir pruebas, sólo serán admisibles las que hubiere ofrecido y no se hubieran desahogado por causas no imputables a él y las supervenientes;
+I.- Se interpondrá por sí o por representante legalmente investido ante el Secretario Municipal, por escrito expresando: El nombre del recurrente; domicilio para ser notificado en la cabecera del Municipio; señalamiento del acto impugnado; los agravios que el mismo le causa y el ofrecimiento de las pruebas que pretenda rendir. Si dentro del trámite que haya dado origen a la resolución o acto recurrido el interesado tuvo oportunidad razonable de rendir pruebas, sólo serán admisibles las que hubiere ofrecido y no se hubieren desahogado por causas no imputables a él y las supervenientes;
 
 II.- El escrito deberá presentarse dentro de los quince días siguientes, al en que surta efectos la notificación del acto que se impugna. No será admisible la interposición de recursos por medio del correo;
 
@@ -2662,3 +2720,11 @@ P.O. 19 DE JULIO DE 1997.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE OCTUBRE DE 1997.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+DECIMO TERCERO.- Se derogan todas las disposiciones legales que se opongan a la presente Ley.
