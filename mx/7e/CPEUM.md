@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2000-04-07"
+last_updated: "2000-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,11 @@ abbreviation: "CPEUM"
 ---
 # CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE ABRIL DE 2000 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
 ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ABRIL DE 2000.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 12 DE ABRIL DE 2000.</small>
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -86,8 +86,6 @@ VII. Las universidades y las demás instituciones de educación superior a las q
 
 VIII. El Congreso de la Unión, con el fin de unificar y coordinar la educación en toda la República, expedirá las leyes necesarias, destinadas a distribuir la función social educativa entre la Federación, los Estados y los Municipios, a fijar las aportaciones económicas correspondientes a ese servicio público y a señalar las sanciones aplicables a los funcionarios que no cumplan o no hagan cumplir las disposiciones relativas, lo mismo que a todos aquellos que las infrinjan.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE ABRIL DE 2000 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 1992)</small>
 
 ###### Art. 4o.
@@ -122,9 +120,9 @@ Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de 
 
 Los ascendientes, tutores y custodios tienen el deber de preservar estos derechos. El Estado proveerá lo necesario para propiciar el respeto a la dignidad de la niñez y el ejercicio pleno de sus derechos.
 
-> <small>(ADICIONADO, D.O.F. 7 DE ABRIL DE 2000)</small>
+(ADICIONADO, D.O.F. 7 DE ABRIL DE 2000) (F. DE E., D.O.F. 12 DE ABRIL DE 2000)
 
-El Estado otorgará facilidades a los particulares para que se coadyuven al cumplimiento de los derechos de la niñez.
+El Estado otorgará facilidades a los particulares para que coadyuven al cumplimiento de los derechos de la niñez.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -1426,7 +1424,7 @@ XXIX-H.- Para expedir leyes que instituyan tribunales de lo contencioso-administ
 
 > <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 1999)</small>
 
-XXIX-I.- Para expedir leyes que establezcan las bases sobre las cuales la Federación, los estados, el Distrito Federal y los municipios, coordinarán sus acciones en materia de protección civil, y (sic)
+XXIX-I.- Para expedir leyes que establezcan las bases sobre las cuales la Federación, los estados, el Distrito Federal y los municipios, coordinarán sus acciones en materia de protección civil, y
 
 > <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 1999)</small>
 
