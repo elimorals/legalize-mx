@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-civiles-del-estado-de-tamaulipas-8449"
 country: "mx"
 rank: "codigo"
 publication_date: "1961-10-04"
-last_updated: "1976-08-11"
+last_updated: "1980-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 1976.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 1980.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el 4 de octubre de 1961.
 
@@ -189,13 +189,15 @@ III.- La competencia de los tribunales del Estado se rige por las disposiciones 
 
 IV.- Toda persona física o moral puede demandar o ser demandada ante los tribunales del Estado, cuando así proceda conforme a las reglas de competencia.
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1973)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1980)</small>
 
 ###### ARTICULO 21.
 
-Las actuaciones judiciales se practicarán en días y horas hábiles.
+Las actuaciones judiciales se practicarán en día y horas hábiles. Son inhábiles los sábados, los domingos, primero de enero, el cinco de febrero, veintiuno de marzo, primero y cinco de mayo, primero, quince y dieciséis de septiembre, doce de octubre, veinte de noviembre, veinticinco de diciembre y los días en que se suspendan las labores por orden del Pleno del Supremo Tribunal de Justicia.
 
-Son inhábiles los sábados, los domingos, el cinco de febrero, veintiuno de marzo, primero y cinco de mayo, primero, quince y dieciséis de septiembre, doce de octubre y veinte de noviembre. Además, los de vacaciones de los tribunales, los comprendidos del veintidós de diciembre al primero de enero, inclusive, y cuando de hecho se suspendan las labores por orden del Supremo Tribunal de Justicia.
+Se entiende por horas hábiles, las de oficina autorizadas por el Supremo Tribunal de Justicia. Para las actuaciones que se practiquen fuera del Tribunal, serán las que medien entre las siete y las dieciocho horas. Principiada una diligencia en horas hábiles podrá válidamente concluirse, aunque se actúe en horas inhábiles, sin necesidad de determinación especial del Juez.
+
+El titular del Juzgado podrá habilitar los días y horas inhábiles, para actuar o para que se practiquen diligencias cuando hubiere causa urgente que lo exija.
 
 ###### ARTICULO 22.
 
@@ -1329,9 +1331,9 @@ En los negocios relativos a bienes inmuebles, se considerará como valor, para l
 
 Los Jueces de Primera Instancia, con exclusión de los Jueces Menores, conocerán de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 1974)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 1980)</small>
 
-I.- De aquéllos negocios en que la cuantía exceda de Cinco Mil Pesos.
+I.- De aquéllos en que la cuantía exceda de $ 10,000.00.
 
 II.- De las cuestiones sobre estado civil o capacidad de las personas;
 
@@ -6205,7 +6207,7 @@ VIII.- La transmisión de los bienes del patrimonio familiar estará exenta de i
 
 ### CAPITULO II. COMPETENCIA Y PRELIMINARES DEL JUICIO
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 1974)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1980)</small>
 
 ###### ARTICULO 830.
 
@@ -6289,7 +6291,7 @@ Las recusaciones de los secretarios de los juzgados se substanciarán en la form
 
 ###### ARTICULO 844.
 
-Los negocios cuyo interés no exceda de Cinco Mil Pesos, se tramitarán ante los Jueces Menores. Para establecer la cuantía se estará únicamente a la suerte principal, sin tomar en cuenta los intereses y demás prestaciones accesorias. Para los asuntos mayores de trescientos pesos se seguirá el procedimiento fijado para el juicio sumario; los que no excedan se resolverán conforme a los artículos siguientes.
+Los negocios cuyo interés no exceda de diez mil pesos se tramitarán ante los Jueces Menores. Para establecer la cuantía se estará únicamente a la suerte principal, sin tomar en cuenta los intereses y demás prestaciones accesorias. Para los asuntos mayores de mil pesos se seguirá el procedimiento para el juicio sumario; los que no excedan se resolverán conforme a los artículos siguientes.
 
 ###### ARTICULO 845.
 
@@ -7118,3 +7120,9 @@ El presente Decreto entrará en vigor treinta días después de su publicación 
 P.O. 11 DE AGOSTO DE 1976
 
 UNICO:- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE JUNIO DE 1980
+
+PRIMERO.- Los negocios judiciales cuya cuantía exceda de cinco mil pesos y que actualmente se encuentran radicados en los Juzgados de Primera Instancia continuarán en dicha forma hasta su debida conclusión.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
