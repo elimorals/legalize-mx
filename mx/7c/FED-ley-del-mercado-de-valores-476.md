@@ -4,7 +4,7 @@ identifier: "FED-ley-del-mercado-de-valores-476"
 country: "mx"
 rank: "ley"
 publication_date: "1975-01-02"
-last_updated: "2001-06-01"
+last_updated: "2002-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=476&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMV"
 
 LEY DEL MERCADO DE VALORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Diario Oficial de la Federación el jueves 2 de enero de 1975.
 
@@ -204,7 +204,7 @@ III.- En ningún caso podrán recibir fondos o valores para su custodia o para l
 
 IV.- La propaganda o publicidad dirigida al público estará sujeta a las previsiones contenidas en el artículo 5o. de la presente Ley;
 
-> <small>(ADICIONADA D.O.F. 1 DE JUNIO DE 2001)</small>
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
 V.- Dar aviso a la Comisión Nacional Bancaria y de Valores del inicio y terminación de sus actividades a más tardar dentro de los treinta días siguientes a cualquiera de estos eventos;
 
@@ -2388,11 +2388,11 @@ a) Las acciones deberán mantenerse depositadas en la propia institución;
 
 > <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-b) El consejo de administración deberá reunirse por lo menos una vez cada tres meses y de manera adicional, cuando sea convocado por el presidente del consejo, por al menos el veinticinco por ciento de los consejeros o por cualquiera de los comisarios de la sociedad. Para la celebración de las sesiones del consejo de administración, se deberá contar con la asistencia de cuando menos el cincuenta y uno por ciento de los consejeros, de los cuales por lo menos el veinticinco por ciento deberán ser consejeros independientes;
+b) El consejo de administración deberá reunirse por lo menos una vez cada tres meses y de manera adicional, cuando sea convocado por el presidente del consejo, por al menos el veinticinco por ciento de los consejeros o por cualquiera de los comisarios de la sociedad. Para la celebración de las sesiones del consejo de administración, se deberá contar con la asistencia de cuando menos el cincuenta y uno por ciento de los consejeros, de los cuales por lo menos el veinticinco por ciento deberán ser consejeros independientes.
 
 c) La transmisión de sus acciones sólo podrá efectuarse a persona que reúna los requisitos señalados en esta ley para ser accionista. Cuando por cualquier circunstancia un accionista deje de satisfacer los requisitos que para ello establece esta ley, la acción correspondiente deberá ser reembolsada por la sociedad; si este reembolso reduce el capital sin derecho a retiro, el resto de los accionistas deberán aportar proporcionalmente la cantidad necesaria para que el capital no sea inferior al establecido en la concesión correspondiente;
 
-d) Los tenedores de las acciones que sean reembolsadas tendrán derecho a recibir el valor contable de la acción, el que se determinará con el balance anual del último ejercicio, aprobado en la asamblea general ordinaria de accionistas. Las acciones reembolsadas se considerarán en tesorería;
+d) Los tenedores de las acciones que sean reembolsadas tendrán derecho a recibir el valor contable de la acción, el que se determinará con el balance anual del último ejercicio, aprobado en la asamblea general ordinaria de accionistas. Las acciones reembolsadas se considerarán en tesorería.
 
 > <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
@@ -2818,7 +2818,7 @@ III.- Si reiteradamente, a pesar de las observaciones de la Comisión Nacional B
 
 IV.- Si por causas que le sean imputables, falta al cumplimiento de las obligaciones derivadas de los contratos celebrados con los usuarios de sus servicios; y
 
-> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
 V.- Si se disuelve, quiebra o entra en estado de liquidación o suspensión de pagos, salvo que el procedimiento respectivo termine por rehabilitación y la Comisión Nacional Bancaria y de Valores opinare que se mantenga la concesión.
 
@@ -3510,7 +3510,7 @@ Las disposiciones de este Capítulo serán aplicables a las sociedades de invers
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-### CAPITULO DECIMO TERCERO. De los organismos autorregulatorios
+### CAPITULO DECIMO PRIMERO. Oferta y operaciones sobre acciones no inscritas en el Registro Nacional de Valores
 
 > <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
@@ -3550,7 +3550,7 @@ Asimismo, se entenderá por inversionista institucional a las instituciones de s
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-### CAPITULO DECIMO CUARTO. Disposiciones finales
+### CAPITULO DECIMO SEGUNDO. De las prohibiciones
 
 > <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
@@ -3576,9 +3576,9 @@ V.- Intervenir en operaciones con conflicto de intereses, y
 
 VI.- Todo acto que contravenga los usos y sanas prácticas del mercado.
 
-TRANSITORIOS:
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-### CAPITULO DECIMO PRIMERO. Oferta y operaciones sobre acciones no inscritas en el Registro Nacional de Valores
+### CAPITULO DECIMO TERCERO. De los organismos autorregulatorios
 
 > <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
@@ -3594,7 +3594,7 @@ Los organismos autorregulatorios estarán sujetos, por lo que se refiere al cump
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-### CAPITULO DECIMO SEGUNDO. De las prohibiciones
+### CAPITULO DECIMO CUARTO. Disposiciones finales
 
 > <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
@@ -3630,7 +3630,7 @@ Las autoridades administrativas competentes, a solicitud de parte interesada, po
 
 No se les aplicará lo establecido en los artículos 127 a 129 a las autoridades administrativas en el ejercicio de sus atribuciones de supervisión, inspección y vigilancia.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 1 DE JUNIO DE 2001)</small>
+TRANSITORIOS:
 
 ###### ARTICULO PRIMERO.
 
@@ -3978,9 +3978,15 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, . . .
 
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO NOVENO.
 
-Los trabajadores que optaren por pensionarse conforme al régimen establecido en la Ley del Seguro Social vigente hasta el 31 de diciembre de 1996, tendrán el derecho a retirar en una sola exhibición los recursos que se hayan acumulado hasta esa fecha en las subcuentas del seguro de retiro y del Fondo Nacional de la Vivienda, incluyendo los rendimientos que se hayan generado.
+Los trabajadores que opten por pensionarse conforme al régimen establecido en la Ley del Seguro Social vigente hasta el 30 de junio de 1997, tendrán el derecho a retirar en una sola exhibición los recursos que se hayan acumulado hasta esa fecha en las subcuentas del seguro de retiro y del Fondo Nacional de la Vivienda, así como los recursos correspondientes al ramo de retiro que se hayan acumulado en la subcuenta del seguro de retiro, cesantía en edad avanzada y vejez, vigente a partir del 1o. de julio de 1997, incluyendo los rendimientos que se hayan generado por dichos conceptos.
+
+Igual derecho tendrán los beneficiarios que elijan acogerse a los beneficios de pensiones establecidos en la Ley del Seguro Social que estuvo vigente hasta el 30 de junio de 1997.
+
+Los restantes recursos acumulados en la subcuenta del seguro de retiro, cesantía en edad avanzada y vejez, previsto en la Ley del Seguro Social vigente a partir del 1o. de julio de 1997, deberán ser entregados por las administradoras de fondos para el retiro al Gobierno Federal.
 
 D.O.F. 7 DE MAYO DE 1997.
 
@@ -4075,3 +4081,9 @@ DECIMO SEGUNDO.- Las sociedades emisoras que a la fecha de entrada en vigor del 
 DECIMO TERCERO.- El artículo 43 reformado entrará en vigor seis meses después de que entre en vigor el resto del presente Decreto.
 
 DECIMO CUARTO.- No será exigible el requisito de la autorización a que se refiere el artículo 116, segundo párrafo, de la Ley General de Sociedades Mercantiles, por parte de la Comisión Nacional de Bancaria y de Valores.
+
+D.O.F. 24 DE DICIEMBRE DE 2002.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
