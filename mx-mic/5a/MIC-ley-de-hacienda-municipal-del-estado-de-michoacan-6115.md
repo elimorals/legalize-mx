@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-municipal-del-estado-de-michoacan-6115"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1986-12-29"
+last_updated: "1987-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6115&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1987.
 
 Ley publicada en Sección Segunda del Periódico Oficial del Estado de Michoacán, el sábado 31 de diciembre de 1983.
 
@@ -225,59 +225,21 @@ III.- La base con que esté tributando el propietario o poseedor de un predio se
 
 IV.- Con motivo de la aplicación de los valores unitarios vigentes, se practique un avalúo y el valor que resulte sea inferior; la Tesorería Municipal tiene la facultad para realizar un nuevo avalúo que se acerque más al valor real.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
 ###### ARTICULO 12.
 
-En los casos de predios urbanos que la Ley de Catastro del Estado clasifica como no edificados con servicio de agua, electricidad y drenaje por alguna de sus colindancias, que se ubiquen en zonas residenciales, industriales o comerciales, entre tanto conserven esa calidad, no se enajenen o establezcan en ellos alguna industria o comercio que necesite área total para su desarrollo, la tasa que le corresponda se incrementará en un 20% por cada año natural, hasta en tanto subsistan las condiciones que lo originaron sin que exceda del 100% de incremento.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-Igual incremento se aplicará a los predios rústicos laborables que sin causa justificada y según dictamen de la Secretaría de Fomento Rural o de autoridad competente permanezcan sin laborarse.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-Cuando se edifique en los predios a que se refiere el primer párrafo, se deberá comunicar este hecho a la Tesorería Municipal que corresponda a efecto de que se practique el avalúo respectivo. En estos casos se cubrirá únicamente la cuota mínima que señale la Ley de Ingresos para los Municipios del Estado de Michoacán, durante los tres años siguientes contados a partir de la fecha de notificación del avalúo, para las casas habitación tipo interés social y de un año para las construcciones que no tengan ese carácter.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-Los efectos del primer párrafo de este artículo no serán aplicables a:
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-I. Los predios que permanezcan en poder del fraccionador en tanto el fraccionamiento de que se trate no sea recibido por el Municipio.
-
-II.- Los predios no edificados que formen parte de una unidad comercial o industrial;
-
-III.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1986)
-
-IV.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1986)
-
-V.- Los predios que formen parte de escuelas o clubes deportivos.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1987)
 
 ###### ARTICULO 13.
 
-Transcurrido un año a partir de la fecha de la operación, se aplicará la progresividad de la tasa a que se refiere el artículo anterior.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1987)
 
 ###### ARTICULO 14.
 
-La progresividad de la tasa en los casos de terrenos baldíos integrantes de fraccionamientos, se aplicará a partir del siguiente año de la fecha en que se entregue al Municipio, por lotes que aún pertenezcan al fraccionador.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1987)
 
 ###### ARTICULO 15.
 
-La progresividad de la tasa, a que se refiere el artículo 9o. de esta Ley, se interrumpirá:
-
-I.- Cuando el predio haya sido edificado;
-
-II.- Cuando se enajene el predio, y
-
-III.- Cuando en el predio se establezca una industria o comercio que requiera el área total para su actividad.
-
-En este caso se aplicará únicamente la tasa que señale la Ley de Ingresos.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1987)
 
 #### Sección Quinta. Del Pago
 
@@ -491,9 +453,11 @@ XIV. Adjudicación de la propiedad de inmuebles en virtud de remate judicial o a
 
 Están obligadas al pago de este impuesto, las personas físicas o morales que adquieran inmuebles que consistan en el suelo o en el suelo y las construcciones adheridas a él, ubicadas en el territorio del Estado, así como los derechos relacionados con los mismos inmuebles a que se refiere este impuesto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 41.
 
-Son solidariamente responsables del pago de este impuesto, los siguientes:
+Son solidariamente responsables del pago de este impuesto y sus accesorios los siguientes:
 
 I.- Los transmitentes, cuando el adquirente lo haya eludido;
 
@@ -505,21 +469,21 @@ II. Los notarios públicos, corredores y demás funcionarios encargados de lleva
 
 III. Los demás funcionarios y empleados que inscriban o registren esta clase de documentos sin comprobar que se hayan cumplida las obligaciones inherentes a este gravamen.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
+IV. Los peritos valuadores autorizados que no apliquen correctamente en la valuación de predios los valores unitarios aprobados, atendiendo a la clasificación del terreno y construcción de que se trate, por las cantidades dejadas de recaudar.
+
 > <small>(REFORMADO SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
 #### Sección Tercera. De la Base
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 42.
 
-La base gravable de este impuesto será el valor que resulte mayor entre el de avalúo practicado por perito autorizado, el consignado en el acto transmitivo de dominio, o el catastral registrado deduciendo de éste cinco veces el salario mínimo general de la zona económica donde se ubique el inmueble, elevado al año. Al valor que resulte se aplicará la tasa que fije la Ley de Ingresos para los Municipios del Estado de Michoacán.
+La base gravable de este impuesto será el valor que resulte mayor entre el de avalúo practicado por perito autorizado, el consignado en el acto transmitivo de dominio, o el catastral, deducido, de dicho valor mayor, cinco veces el salario mínimo general de la zona económica donde se ubique el inmueble elevado al año; si se trata de adquisiciones de vivienda con crédito de interés social, la deducción será de seis veces.
 
-Para los fines de este capítulo se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% del valor de la propiedad.
-
-Cuando con motivo de la adquisición, el adquirente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
-
-En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino el del avalúo practicado por perito autorizado.
+AI valor que resulte se aplicará la tasa que fije la Ley de Ingresos para los Municipios del Estado de Michoacán.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
@@ -571,11 +535,17 @@ VI.- Antecedentes de propiedad del inmueble en el Registro Público de la Propie
 
 VII.- Número de la cuenta del impuesto predial del inmueble, y
 
-VIII.- Los demás datos que exija la forma oficial en que deberán hacerse las declaraciones.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1987)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+VIII. Croquis de localización del predio, con sus respectivos nombres de calle.
 
-Si el Acto o contrato transmitivo de dominio se hace constar en escritura otorgada en el Estado, la declaración será firmada por el Notario o cualquier interesado. En este último caso el Notario certificará en la declaración la veracidad de los datos que contenga.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
+IX. Los demás datos que exija la forma oficial en que deberán hacerse las declaraciones.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
+Si el acto o contrato transmitivo de dominio se hace constar en escritura otorgada en el Estado, la declaración será firmada por los interesados o por el Notario y presentada por este último en los términos de esta Ley.
 
 Si se trata de actos o contratos que se hagan constar en escritura otorgada fuera del Estado, la declaración será firmada por cualquier interesado, y a ella se acompañará testimonio de la escritura.
 
@@ -641,11 +611,11 @@ Los Fedatarios no podrán autorizar definitivamente ninguna escritura en la que 
 
 En los testimonios que los Fedatarios expidan de escrituras públicas o privadas relativas a actos o contratos transmitivos de dominio, deberán hacer constar el número de recibo oficial del pago del impuesto sobre Transmisión de Dominio de bienes inmuebles, así como el importe del mismo y la fecha de expedición.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 51.
 
-En el Registro Público de la Propiedad Raíz, no se inscribirá ningún acto, contrato o documento transmitivo de dominio de bienes inmuebles, mientras no le sea exhibido el comprobante de pago del impuesto que establece este capítulo.
+En el Registro Público de la Propiedad Raíz, no se inscribirá ningún acto, contrato o documento transmitivo de dominio de bienes inmuebles, mientras no le sea acreditado el registro de catastro correspondiente y le sea exhibido el comprobante de pago del impuesto que establece este capítulo, si se hubiere causado.
 
 ###### ARTICULO 52.
 
@@ -1101,9 +1071,11 @@ V.- En caso de que se cambie el giro o actividad de la negociación o establecim
 
 VI.- En caso de clausura, dentro de los siguientes veinte días.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 122.
 
-Todas las licencias y permisos estarán sujetos a revalidación anual mediante el pago de los derechos correspondientes, previa solicitud del interesado.
+Todas las licencias y permisos estarán sujetos a revalidación anual mediante el pago de los derechos correspondientes, previa solicitud del interesado, la cual deberá hacerse dentro de los tres primeros meses del año al que corresponda.
 
 #### Sección Quinta. De las Infracciones y Sanciones
 
@@ -1632,3 +1604,9 @@ P.O. 29 DE DICIEMBRE DE 1986.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1987.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el 1o. de enero de 1988, previa publicación en el Periódico Oficial del Estado.
