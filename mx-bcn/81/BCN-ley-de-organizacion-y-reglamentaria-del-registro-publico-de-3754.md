@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-organizacion-y-reglamentaria-del-registro-publico-de-375
 country: "mx"
 rank: "ley"
 publication_date: "1978-07-20"
-last_updated: "1978-07-20"
+last_updated: "1979-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ORGANIZACION Y REGLAMENTARIA DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DE COMERCIO DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1979.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 20 de julio de 1978.
 
@@ -41,9 +41,11 @@ LEY DE ORGANIZACION Y REGLAMENTARIA DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DE CO
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
+
 ###### ARTICULO 1o.
 
-El Registro de la Propiedad y de Comercio en el Estado, es de orden público.
+El Registro Público de la Propiedad y de Comercio en el Estado, como Institución establecida en el Código Civil y en el Código de Comercio, es de orden público.
 
 ###### ARTICULO 2o.
 
@@ -55,9 +57,13 @@ El Registro Público de la Propiedad y de Comercio es una institución que tiene
 
 ### CAPITULO II. De la Organización del Registro Público de la Propiedad y de Comercio
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
+
 ###### ARTICULO 4o.
 
-El Registro Público de la Propiedad y de Comercio estará dirigido por la dependencia del Poder Ejecutivo denominada Dirección del Registro Público de la Propiedad y de Comercio, con sede en la capital del Estado, y se desempeñará por los Registradores que funcionarán en las ciudades de Mexicali, Tijuana y Ensenada.
+El Registro Público de la Propiedad y de Comercio estará a cargo de la dependencia del Poder Ejecutivo denominada Dirección del Registro Público de la Propiedad y de Comercio, con sede en la Capital del Estado y se desempeñará, por lo que se refiere a las inscripciones de los documentos objeto de él, por los Registradores que funcionarán en la ciudad de Mexicali, Tijuana y Ensenada.
+
+El titular del Registro Público de la Propiedad y de Comercio, será el Director de la Dependencia del Ejecutivo a que se refiere este Artículo, quien con el Subdirector, Registradores y demás personal administrativo, integrarán dicha Dependencia.
 
 ###### ARTICULO 5o.
 
@@ -65,13 +71,17 @@ La circunscripción en que actúen los Registradores Públicos de la Propiedad y
 
 El Ejecutivo del Estado queda facultado, conforme las condiciones demográficas y económicas que se presenten, para crear otras circunscripciones que queden a cargo de los registradores respectivos.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
+
 ###### ARTICULO 6o.
 
-El Director del Registro Público de la Propiedad y de Comercio y Registradores serán nombrados por el Gobernador del Estado. El personal administrativo también será designado por el Ejecutivo del Estado a través de la Oficialía Mayor de Gobierno, ya sea directamente o a propuesta del Director.
+El Director del Registro Público de la Propiedad y de Comercio, el Subdirector y Registradores serán nombrados por el Gobernador del Estado. El personal administrativo también será designado por el Ejecutivo del Estado a través de la Oficialía Mayor de Gobierno, ya sea directamente o a propuesta del Director.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
 
 ###### ARTICULO 7o.
 
-El Director y Registradores así como los demás elementos de las plantas de servicio percibirán el sueldo fijado por la Ley de Egresos.
+El Director, el Subdirector y Registradores, así como los demás elementos de la planta de servicio percibirán el sueldo fijado por la Ley de Egresos.
 
 ###### ARTICULO 8o.
 
@@ -97,11 +107,31 @@ IV.- Despachar y firmar la correspondencia que se relacione con el movimiento de
 
 V.- Formular los instructivos de labores de las Oficinas del Registro.
 
-VI.- Hacer la distribución de las funciones que deba desempeñar el personal.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1979)</small>
+
+VI.- Hacer la distribución de las funciones que deba desempeñar el personal de la Dirección y de las Oficinas Registradoras.
 
 VII.- Revisar los títulos presentados y las inscripciones asentadas siempre que lo estime conveniente.
 
-VIII.- Las demás que le confieran el Código Civil, esta Ley y demás disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1979)</small>
+
+VIII.- Formular el proyecto del Presupuesto anual de la Dirección.
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 1979)</small>
+
+IX.- Las demás que le confieran el Código Civil, esta Ley y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 1979)</small>
+
+###### ARTICULO 10
+
+Bis.- Son atribuciones del Subdirector, las siguientes:
+
+I.- Auxiliar al Director en las labores propias de su cargo y las demás que le encomiende relacionadas con la función registral.
+
+II.- Trasmitir a los funcionarios y empleados de la Dirección, los acuerdos y determinaciones del Director.
+
+III.- Colaborar con el Director en la formulación de planes, proyectos y redacción de circulares, así como en las labores de orientación y capacitación del personal.
 
 ###### ARTICULO 11.
 
@@ -119,13 +149,17 @@ V.- Firmar todas las inscripciones y anotaciones de los Libros de Registro, y la
 
 VI.- Vigilar la conducta de los empleados y la eficiencia de las labores que desempeñen.
 
-VII.- Suministrar al Director todos los datos que solicitare para el ejercicio de su función.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1979)</small>
+
+VII.- Suministrar a la Dirección todos los datos que solicitare para el ejercicio de su función.
 
 VIII.- Revisar las inscripciones que se asisten en los Libros a efecto de que se sujeten a los preceptos del Código Civil y de esta Ley y de que los datos se asisten correctamente. Asimismo, cuidar de la exactitud y concordancia de los antecedentes de propiedad que se citen en los títulos y los que obren en los Libros de Registro.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
+
 ###### ARTICULO 12.
 
-El Registrador con residencia en Mexicali auxiliará en la labor del Director y en los casos de ausencia accidental de este funcionario se encargará del despacho de la Dirección.
+El Subdirector suplirá al Director en sus ausencias temporales.
 
 ###### ARTICULO 13.
 
@@ -151,37 +185,47 @@ Por lo que se refiere a los contratos privados para cuyo registro debe presentar
 
 La copia de los documentos de que se trata comprenderá la constancia de registro a que se refiere el Artículo 19.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
+
 ###### ARTICULO 17.
 
-Obtenidas las copias de los documentos a que se refiere el Artículo anterior, deberán ser foliadas siguiéndose la numeración progresiva que corresponda como continuación de la copia relativa al folio anterior el que, si no termina al final del reverso, incluyéndose la constancia a que se contrae el último párrafo de dicho Artículo, será marcado con una línea diagonal. Al margen izquierdo de cada página deberán firmar el Jefe del Departamento Técnico y el encargado de la Sección respectiva.
+Obtenidas las copias de los documentos a que se refiere el Artículo anterior, deberán ser foliadas siguiéndose la numeración progresiva que corresponda como continuación de la copia relativa al folio anterior el que, si no termina al final del reverso, incluyéndose la constancia a que se contrae el último Párrafo de dicho Artículo, será marcado con una línea diagonal.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
 
 ###### ARTICULO 18.
 
-Las copias de los diversos documentos que deban registrarse deberán encuadernarse conservándose el orden de numeración hasta formar un Tomo de la Sección a que pertenezca, el cual constará de trescientas páginas como mínimo teniendo en consideración que la última copia del documento termine antes de ese número. Dicho Tomo comenzará con una hoja en blanco en la que se harán constar la iniciación del Tomo y autorización del Secretario de Gobierno, y una última hoja en blanco en que se haga constar que se ha completado, también por constancia de dicho Funcionario. Además de la última hoja en blanco de que se trata se dejarán las que sean necesarias para formar el índice correspondiente al Tomo, por nombres en orden alfabético y número de partida, que se pondrá en cada una de las copias de los documentos de que se hace referencia.
+Las copias de los diversos documentos que deban registrarse deberán encuadernarse conservándose el orden de numeración hasta formar un Tomo de la Sección a que pertenezca, el cual constará de trescientas páginas como mínimo teniendo en consideración que la última copia del documento termine antes de ese número. Dicho Tomo comenzará con una hoja en blanco en la que se harán constar la iniciación del Tomo y autorización del Director del Registro Público de la Propiedad y de Comercio, y una última hoja en blanco en que se haga constar que se ha completado, también por constancia de dicho funcionario. Además de la última hoja en blanco de que se trata se dejarán las que sean necesarias para formar el índice correspondiente al Tomo, por nombres en orden alfabético y número de partida, que se pondrá en cada una de las copias de los documentos de que se hace referencia.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
 
 ###### ARTICULO 19.
 
-La encuadernación del Tomo de que se trata estará a cargo del Jefe del Departamento Técnico y se hará con pastas de cartón forrado con tela o material plástico y en el dorso se pondrá la leyenda de la Sección y número del Tomo. Para la encuadernación se utilizará el sistema de tornillos y opresores metálicos y, además, se emplastarán las hojas con pegamento plástico y se pondrá un sello de la Oficina, en la parte del Libro, que abarque el reverso de la hoja anterior y el anverso de la segunda. Asimismo se estampará en esta página un sello con el número de la partida que corresponda y la fecha de registro.
+La encuadernación del Tomo de que se trata estará a cargo del Jefe del Departamento Técnico y se hará con pastas de cartón forrado con tela o material plástico y en el dorso se pondrá la leyenda de la Sección y número del Tomo. Se pondrá un sello de la Oficina, en la parte del Libro, que abarque el reverso de la hoja anterior y el anverso de la segunda. Asimismo se estampará en esta página un sello con el número de la partida que corresponda y la fecha de registro.
 
 En el original del documento presentado para su registro, una vez verificados los requisitos de procedencia para su inscripción y comprobantes de pago de los derechos que se causen, se pondrá constancia del registro que ya se haya asentado en el Libro de Registro, por medio de un sello que servirá de guía, que dirá:
 
-Este documento queda inscrito en el Libro de Registro de esta Oficina, bajo la Partida Número....... a fojas........ Tomo......... Sección..........., del Registro Público de la Propiedad y de Comercio del Estado, habiéndose pagado los derechos correspondientes según recibo número.........de fecha..................... Baja Cfa. a ..............de............. de…..
+Este documento queda inscrito en el Libro de Registro de esta Oficina, bajo la Partida número....... a fojas........ Tomo......... Sección ........... del Registro Público de la Propiedad y de Comercio del Estado, habiéndose pagado los derechos correspondientes según recibo número......... de fecha....................., Baja California, a de .............. de.............
 
 EL REGISTRADOR PUBLICO DE LA PROPIEDAD Y DE COMERCIO DEL ESTADO
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
+
 ###### ARTICULO 20.
 
-El Registro Público de la Propiedad y de Comercio se constituirá por tres Libros llamados, respectivamente, de Registro, de Anotaciones y de Copias de Documentos objeto de Inscripción.
+El Registro Público de la Propiedad y de Comercio se constituirá por tres libros llamados, respectivamente, de Registro, de Anotaciones y de Copias de Documentos objeto de Inscripción. Cada uno de esos libros, se llevarán en el número que fuere necesario. Esta forma de registro mediante la existencia de los tres libros antes mencionados regirá tanto para las inscripciones de la materia civil como de la materia de comercio, pero en ésta última en lo que no se oponga al Reglamento del Registro de Comercio estableciéndose, en consecuencia, dos Secciones relativas a cada una de esas materias.
 
-Esta forma de registro mediante la existencia de los tres Libros a que se refiere el párrafo anterior, regirá tanto para las inscripciones de la materia civil como de la materia de comercio, estableciéndose, en consecuencia, dos Secciones relativas a cada una de esas materias.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
 
 ###### ARTICULO 21.
 
-El Libro de Registro y el de Anotaciones serán autorizados por el Secretario General de Gobierno, en su primera foja, haciéndose la mención de la fecha de esa autorización. Al terminarse los asientos de los mencionados Libros, el mismo Secretario General de Gobierno pondrá constancia de ese hecho, con la indicación de las fojas utilizadas y el número de inscripciones asentadas, cuyo número de fojas no será mayor de ciento cincuenta. En caso de que un asiento pudiera quedar sin terminar, se dejará el espacio libre que quede, en el que se marcará una raya diagonal que inutilice dicho espacio.
+El Libro de Registro y el de Anotaciones serán autorizados por el Director del Registro Público de la Propiedad y de Comercio, en su primera foja, haciéndose la mención de la fecha de esa autorización. Al terminarse los asientos de los mencionados Libros, el mismo Director pondrá constancia de ese hecho, con la indicación de la fojas utilizadas y el número de inscripciones asentadas, cuyo número de fojas no será mayor de ciento cincuenta. En caso de que un asiento pudiera quedar sin terminar, se dejará el espacio libre que quede, en el que se marcará una raya diagonal que inutilice dicho espacio.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
 
 ###### ARTICULO 22.
 
-Al formarse el Libro de Copias de Documentos objeto de Inscripción, también se iniciará con una foja al principio y al final, en la primera con la constancia del Registrador sobre que las copias se colocaron en su orden numérico, y la segunda en la que el Secretario General de Gobierno asiente constancia del número de fojas a que se refiere el Artículo 18 o el que exceda para completar el total copiado del último documento.
+Al formarse el Libro de Copias de Documentos objeto de Inscripción, también se iniciará con una foja al principio y al final, en la primera con la constancia del Registrador sobre que las copias se colocaron en su orden numérico, y la segunda en la que el Director del Registro Público de la Propiedad y de Comercio asiente constancia del número de fojas a que se refiere el Artículo 18 o el que exceda para completar el total copiado del último documento.
 
 ###### ARTICULO 23.
 
@@ -393,7 +437,13 @@ XLVI.- La prenda de títulos de créditos derivados de una hipoteca, anotándose
 
 XLVII.- Los títulos con garantía prendaria que por establecerlo la Ley General de Títulos y Operaciones de Crédito, la ley de Instituciones de Crédito y Organizaciones Auxiliares y demás Leyes deban registrarse.
 
-XLVIII.- Todos los demás contratos o actos jurídicos de carácter civil o mercantil que conforme a las leyes deban registrarse.
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 1979)</small>
+
+XLVIII.- Los planes de desarrollo urbano y las declaratorias de provisiones, reservas, usos y destinos d (sic) áreas y predios.
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1979)</small>
+
+XLIX.- Todos los demás contratos y actos jurídicos de carácter civil o mercantil que conforme a las Leyes deban registrarse.
 
 ###### ARTICULO 46.
 
@@ -606,3 +656,9 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 C. ARMANDO GALLEGO MORENO.
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+P.O. 20 DE JULIO DE 1979.
+
+UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
