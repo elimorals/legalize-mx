@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "1974-12-31"
+last_updated: "1975-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1975.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -394,11 +394,11 @@ ARTICULO 60
 
 Los jueces y magistrados a quienes corresponda, recibirán por sí mismos las declaraciones; y presidirán todos los actos de prueba, bajo su responsabilidad.
 
-> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
 
 ARTICULO 61
 
-Los Jueces y Magistrados tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y la consideración debidos, corrigiendo en el acto las faltas que se cometieren con multas que no podrán pasar, en los Juzgados de Paz, de cien pesos; en los Menores, de mil pesos; en los de lo Civil y de lo Familiar, de dos mil pesos; y de cuatro mil pesos en el Tribunal Superior. Pueden también emplear el auxilio de la fuerza pública. Si las faltas llegaren a constituir delitos, se procederá contra los que las cometieren, con arreglo a lo dispuesto en el Código Penal, consignando al culpable a la autoridad competente, con testimonio de lo conducente.
+Los Jueces y Magistrados tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y la consideración debidos, corrigiendo en el acto las faltas que se cometieren con multas que no podrán pasar en los Juzgados de Paz, de mil pesos; en los de lo Civil y de lo Familiar, de dos mil pesos; y de cuatro mil pesos en el Tribunal Superior. Pueden también emplear el auxilio de la fuerza pública. Si las faltas llegaren a constituir delitos, se procederá contra quienes las cometieren, con arreglo a lo dispuesto en el Código Penal, consignando al culpable a la autoridad competente, con testimonio de lo conducente
 
 ARTICULO 62
 
@@ -1070,13 +1070,17 @@ I.- El del lugar que el deudor haya designado para ser requerido judicialmente d
 
 II.- El del lugar señalado en el contrato para el cumplimiento de la obligación. Tanto en este caso como en el anterior, surte el fuero no sólo para la ejecución o cumplimiento del contrato, sino para la rescisión o nulidad;
 
-III.- El de la ubicación de la cosa, si se ejercita una acción real sobre bienes inmuebles. Lo mismo se observará respecto a las cuestiones derivadas del contrato de arrendamiento de inmuebles. Cuando estuvieren comprendidos en dos o más partidos, será a prevención;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+
+III.- El de la ubicación de la cosa, si se ejercita una acción real sobre bienes inmuebles. Lo mismo se observará respecto a las cuestiones derivadas del contrato de arrendamiento de inmuebles.
 
 IV.- El del domicilio del demandado, si se trata del ejercicio de una acción sobre bienes muebles, o de acciones personales o del estado civil.
 
-Cuando sean varios los demandados y tuvieren diversos domicilios será competente el juez del domicilio que escoja el actor;
+Cuando sean varios los demandados y tuvieren diversos domicilios será competente el juez del domicilio que escoja el actor.
 
-V.- En los juicios hereditarios, el juez en cuya comprensión haya tenido su último domicilio el autor de la herencia; a falta de ese domicilio, lo será el de la ubicación de los bienes raíces que forman la herencia, y si estuvieren en varios distritos, el juez de cualquiera de ellos a prevención; y a falta de domicilio y bienes raíces el del lugar del fallecimiento del autor de la herencia. Lo mismo se observará en casos de ausencia;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+
+V.- En los juicios hereditarios, el juez en cuya jurisdicción haya tenido su último domicilio el autor de la herencia; a falta de este domicilio, lo será el de la ubicación de los bienes raíces que forman la herencia; y a falta de domicilio y bienes raíces, el del lugar del fallecimiento del autor de la herencia. Los mismo se observará en casos de ausencia;
 
 VI.- Aquel en cuyo territorio radica un juicio sucesorio para conocer:
 
@@ -1336,11 +1340,11 @@ ARTICULO 188
 
 Los magistrados y jueces que conozcan de una recusación son irrecusables para sólo este efecto.
 
-> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
 
 ARTICULO 189
 
-Cuando se declare improcedente o no probada la causa de recusación, se impondrá al recusante una multa hasta de cien pesos, si se tratare de un Juez de Paz; hasta de mil pesos, si el recusado fuere un Juez Menor; hasta de dos mil pesos, si fueren un Juez de lo Civil o un Juez de lo Familiar; y hasta de tres mil si fuere un Magistrado. No se dará curso a ninguna recusación si al interponerla, el recusante no exhibe billete de depósito por el máximo de la multa, la que, en su caso, se aplicará al colitigante si lo hubiere, por vía de indemnización, y en caso contrario, al fisco.
+Cuando se declare improcedente o no probada la causa de recusación, se impondrá al recusante una multa hasta de dos mil pesos si fuere un Juez de lo Civil o de lo Familiar; y hasta de tres mil si fuere un Magistrado. No se dará curso a ninguna recusación si al interponerla, el recusante no exhibe billete de depósito o en efectivo por el máximo de la multa, la que en su caso se aplicará al colitigante si lo hubiere, por vía de indemnización, y en caso contrario, al fisco.
 
 ARTICULO 190
 
@@ -1354,11 +1358,11 @@ Si en la sentencia se declara que procede la recusación volverán los autos al 
 
 Si se declara no ser bastante la causa, se devolverán los autos con testimonio de la resolución al juzgado de su origen para que continúe el procedimiento. Si el funcionario recusado fuese un magistrado continuará conociendo del negocio la misma sala como antes de la recusación.
 
-> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
 
 ARTICULO 192
 
-Las recusaciones de los Secretarios del Tribunal Superior, de los Juzgados de lo Civil y de lo Familiar y de los Jueces Menores o de Paz, se substanciarán ante los Jueces o Salas con quienes actúen.
+Las recusaciones de los Secretarios del Tribunal Superior, de los Juzgados de lo Civil, de lo Familiar y de Paz, se sustanciarán ante las Salas o Jueces con quienes actúen.
 
 ## TITULO QUINTO. Actos prejudiciales
 
@@ -2030,11 +2034,11 @@ Cuando las pruebas hubieren de practicarse fuera del Distrito Federal o del paí
 
 El juez al calificar la admisibilidad de las pruebas, determinará el monto de la cantidad que el promovente deposite como multa, en caso de no rendirse la prueba. Sin este depósito no se hará el señalamiento para la recepción de la prueba.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
 
 ARTICULO 301
 
-El litigante al que se hubiere concedido la ampliación a que se refiere el artículo anterior y no rindiere las pruebas que hubiere propuesto, sin justificar que para ello tuvo impedimento bastante, será condenado a pagar en beneficio de su contraparte, una sanción pecuniaria hasta de dos mil pesos, si el juicio se tramita ante juez menor; y hasta de tres mil pesos si se tramita ante juez civil o de lo familiar; así como la indemnización de daños y perjuicios, dejándose además de recibir la prueba.
+El litigante al que se hubiere concedido la ampliación a que se refiere el artículo anterior y no rindiere las pruebas que hubiere propuesto, sin justificar que para ello tuvo impedimento bastante, será condenado a pagar en beneficio de su contraparte una sanción pecuniaria, hasta de tres mil pesos, si se tramita ante Juez Civil o de lo Familiar; así como la indemnización de daños y perjuicios, dejándose además de recibir la prueba.
 
 ARTICULO 302 (DEROGADO Y REUBICADO, D.O.F. 14 DE MARZO DE 1973)
 
@@ -2206,9 +2210,11 @@ ARTICULO 331
 
 Siempre que uno de los litigantes pidiere copia o testimonio de parte de un documento, o pieza que obre en los archivos públicos, el contrario tendrá derecho de que a su costa se adicione con lo que crea conducente del mismo documento.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+
 ARTICULO 332
 
-Los documentos existentes en partido distinto del en que se siga el juicio, se compulsarán a virtud de exhorto que dirija el juez de los autos, al del lugar en que aquéllos se encuentren.
+Los documentos existentes en la Entidad Federativa distinta del (sic) en que se siga el juicio, se compulsarán a virtud de exhorto que dirija el juez de los autos al del lugar en que aquéllos se encuentren.
 
 ARTICULO 333
 
@@ -2398,11 +2404,11 @@ ARTICULO 361
 
 La protesta y examen de los testigos se hará en presencia de las partes que concurrieren. Interrogará el promovente de la prueba y a continuación los demás litigantes.
 
-(REFORMADO, D.O.F. 21 DE ENERO DE 1967) (F. DE E., D.O.F. 23 DE ENERO DE 1967)
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
 
 ARTICULO 362
 
-No obstante lo dispuesto en los artículos anteriores, cuando el testigo resida fuera del lugar del juicio, deberá el promovente, al ofrecer la prueba, presentar sus interrogatorios con las copias respectivas para las otras partes, que dentro de tres días podrán presentar sus interrogatorios de repreguntas. Para el examen de los testigos que no residan en el lugar del juicio, se librará exhorto en que se incluirán, en pliego cerrado, las preguntas y repreguntas; pero no habrá necesidad de girar exhorto cuando el testigo resida en otro partido judicial del Distrito Federal, en cuyo caso bastará despachar oficio al juez de igual categoría de dicho partido judicial para que se cite o se mande presentar al testigo.
+No obstante lo dispuesto en los artículos anteriores, cuando el testigo resida fuera del Distrito Federal, deberá el promovente, al ofrecer la prueba, presentar sus interrogatorios con las copias respectivas para las otras partes, que dentro de tres días podrán presentar sus interrogatorios de repreguntas. Para el examen de estos testigos, se librará exhorto en que se incluirán, en pliego cerrado, las preguntas y repreguntas.
 
 ARTICULO 363
 
@@ -3010,13 +3016,9 @@ Terminada la sección de ejecución se agregará al cuaderno principal del juici
 
 ARTICULO 458 (DEROGADO, D.O.F. 21 DE ENERO DE 1967)
 
-ARTICULO 459
+ARTICULO 459 (DEROGADO, D.O.F. 21 DE ENERO DE 1967)
 
-> <small>(DEROGADO, D.O.F. 21 DE ENERO DE 1967)</small>
-
-ARTICULO 460
-
-> <small>(DEROGADO, D.O.F. 21 DE ENERO DE 1967)</small>
+ARTICULO 460 (DEROGADO, D.O.F. 21 DE ENERO DE 1967)
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -3452,9 +3454,7 @@ ARTICULO 529
 
 La acción para pedir la ejecución de una sentencia, transacción o convenio judiciales, durará diez años contados desde el día en que se venció el término judicial para el cumplimiento voluntario de lo juzgado y sentenciado.
 
-ARTICULO 530
-
-Cuando la sentencia pronunciada por un juez deba ser ejecutada por otro de diverso partido judicial, pero sujeto al mismo tribunal superior, bastará simple oficio.
+ARTICULO 530 (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1975)
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -4276,9 +4276,11 @@ ARTICULO 672
 
 Si sólo alguno de los bienes ejecutados fuere objeto de la tercería, los procedimientos del juicio principal continuarán hasta vender y hacer pago al acreedor con los bienes no comprendidos en la misma tercería.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+
 ARTICULO 673
 
-Si la tercería, cualquiera que sea, se interpone ante un juez de paz o menor y el interés de ella excede del que la ley respectivamente somete a la jurisdicción de estos jueces, aquel ante quien se interponga remitirá lo actuado en el negocio principal y tercería, al juez que designe el tercer opositor y sea competente para conocer del negocio que representa mayor interés. El juez designado correrá traslado de la demanda entablada y decidirá la tercería, sujetándose en la substanciación a lo prevenido en los artículos anteriores.
+Si la tercería, cualquiera que sea, se interpone ante un Juez de Paz y el interés de ella excede del que la Ley somete a su jurisdicción, aquel ante quien se interponga, remitirá lo actuado en el negocio principal y tercería, al juez que designe el tercer opositor y sea competente para conocer del negocio que representa mayor interés. El juez designado correrá traslado de la demanda y decidirá la tercería, sujetándose en la sustanciación a lo prevenido en los artículos anteriores.
 
 TITULO DECIMOPRIMERO
 
@@ -4626,11 +4628,11 @@ ARTICULO 730
 
 Cuando la demanda se dirija contra un juez de paz, cualquiera que sea su cuantía, conocerá de ella el juez de primera instancia a que aquél corresponda. Contra la sentencia que éste pronuncie procederá la apelación en ambos efectos para (sic) ante el tribunal superior si el juicio por su cuantía fuere apelable.
 
-> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
 
 ARTICULO 731
 
-Las Salas del Tribunal Superior conocerán, en única instancia, de las demandas de responsabilidad civil presentadas contra los Jueces de lo Civil, de lo Familiar y Menores. Contra las sentencias que aquéllas dicten no se dará recurso alguno.
+Las Salas del Tribunal Superior conocerán en única instancia, de las demandas de responsabilidad civil presentadas contra los Jueces de lo Civil y de lo Familiar. Contra las sentencias que aquéllas dicten no se dará recurso alguno.
 
 ARTICULO 732
 
@@ -6116,7 +6118,7 @@ ARTICULO 956
 
 En todo lo no previsto, regirán las reglas generales de este Código de Procedimientos Civiles, en cuanto no se opongan a las disposiciones del presente título.
 
-> <small>N. DE E. POR SER UN TITULO ESPECIAL, EL LEGISLADOR CONSIDERO REINICIAR LA NUMERACION EN EL ARTICULO 1, NO AFECTANDO LA ESTRUCTURA DE LA LEY.</small>
+> <small>N. DE E. POR SER UN TITULO ESPECIAL, EL LEGISLADOR CONSIDERO REINICIAR LA NUMERACION EN EL ARTICULO 1, NO AFECTANDO LA ESTRUCTURA DEL CODIGO.</small>
 
 TITULO ESPECIAL
 
@@ -6128,13 +6130,17 @@ ARTICULO 1
 
 En el Distrito Federal habrá los juzgados de paz que determine la Ley Orgánica de los Tribunales de Justicia del Fuero Común.
 
-> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
-
 ARTICULO 2
 
-Del Título Especial "De la Justicia de Paz".- (sic) Conocerán los Jueces de Paz de los juicios cuya cuantía no exceda de un mil pesos, salvo en lo que sea de la competencia del Juez de lo Familiar.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+
+Conocerán los Jueces de Paz, en materia civil o mercantil de los juicios cuya cuantía no exceda de cinco mil pesos.
+
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
 
 Para estimar el interés del negocio se atenderá a lo que el actor demande. Los réditos, daños y perjuicios no serán tenidos en consideración si son posteriores a la presentación de la demanda, aun cuando se reclamen en ella.
+
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
 
 Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las prestaciones en un año, a no ser que se tratare de prestaciones vencidas, en cuyo caso se estará a lo dispuesto en la primera parte de este artículo.
 
@@ -6142,21 +6148,23 @@ ARTICULO 3
 
 Si se dudare del valor de la cosa demandada o del interés del pleito antes de expedirse la cita para el demandado, el juez oirá el dictamen de un perito que él mismo nombra a costa del actor.
 
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1966)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
 
-Aún cuando ésto se hubiere hecho, el demandado, en el acto del juicio, podrá pedir que se declare que el negocio no es de la jurisdicción de paz por exceder de un mil pesos su cuantía y, en tal caso, el juez oirá lo que ambas partes expongan y la opinión de los peritos que presente resolviendo en seguida. Si declarare ser competente, se continuará la audiencia como lo establecen los artículos 20 al 23.
+Aún cuando esto se hubiere hecho, el demandado, en el acto del juicio, podrá pedir que se declare que el negocio no es de la jurisdicción de paz, por exceder de cinco mil pesos su cuantía y, en tal caso, el juez oirá lo que ambas partes expongan y la opinión de los peritos que presenten, resolviendo en seguida. Si declarare ser competente, se continuará la audiencia como lo establecen los artículos 20 al 23.
 
 ARTICULO 4
 
 Cuando el juez, en cualquier estado del negocio, encuentre que éste no es de su competencia por exceder de los límites que se fija en el artículo primero o en razón de corresponder a juez de diversa jurisdicción o de otro fuero, suspenderá de plano el procedimiento y remitirá lo actuado al juez correspondiente.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+
 ARTICULO 5
 
-Cada juzgado conocerá de los negocios relativos a predios ubicados dentro de ella cuando se trate de arrendamiento o de acciones reales sobre bienes inmuebles. Conocerá también de aquellos en que el demandado sea citado en lugar que se encuentre comprendido también en la demarcación.
+Cada juzgado conocerá de los negocios relativos a predios ubicados dentro de su jurisdicción, cuando se trate de arrendamiento o de acciones reales sobre bienes inmuebles. Conocerán también de aquéllos en que el demandado pueda ser citado en algún lugar que se encuentre comprendido dentro del perímetro de la Delegación.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+En caso de duda será competente, por razón del territorio, el Juez de Paz que ha prevenido, y en ningún caso se dará entrada a cuestión relativa a competencia de jurisdicción por aquel concepto; por el hecho de haber conocido indebidamente de casos correspondiente (sic) a otras Delegaciones, será motivo de corrección disciplinaria que impondrá el Presidente del Tribunal Superior de Justicia, mediante queja del agraviado.
 
-En caso de duda será competente, por razón del territorio, el juez de paz que haya prevenido, y en ningún caso se dará entrada a cuestión relativa a competencia de jurisdicción por aquel concepto; por el hecho de haber conocido indebidamente de casos correspondientes a otras demarcaciones, será motivo de corrección disciplinaria que impondrá el Presidente del Tribunal Superior de Justicia, mediante queja del agraviado.
+Cuando en una Delegación Política existan dos o más juzgados, éstos tendrán jurisdicción territorial en toda la delegación.
 
 > <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
@@ -6164,11 +6172,15 @@ ARTICULO 6
 
 Cuando el juez de paz recibiere inhibitoria de otro juzgado en que se promueva competencia por razón de la cuantía y creyere debido sostener la suya, el mismo día lo comunicará así al competidor y remitirá su expediente con el oficio inhibitorio sin necesidad de informe especial al Tribunal Superior.
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+
+El Superior a que se refiere el artículo 166, sin otro trámite, decidirá la competencia en una audiencia que se celebrará dentro de las cuarenta y ocho horas siguientes al recibo de los documentos, y a la cual será citado el Ministerio Público, sin que sea necesaria su asistencia para que se verifique la vista.
+
 Emplazamiento y citaciones
 
 ARTICULO 7
 
-A petición del actor se citará al demandado para que comparezca dentro del tercero día. En la cita que en presencia del actor será expedida y entregada a la persona que deba de llevarla se expresará por lo menos el nombre del actor, lo que demande, la causa de la demanda, la hora que se señale para el juicio y la advertencia de que las pruebas se presentarán en la misma audiencia.
+A petición del actor se citará al demandado para que comparezca dentro del tercero día. En la cita que en presencia del actor será expedida y entregada a la persona que deba llevarla se expresará por lo menos el nombre del actor, lo que demande, la causa de la demanda, la hora que se señale para el juicio y la advertencia de que las pruebas se presentarán en la misma audiencia.
 
 Debe llevarse en los juzgados de paz un libro de registro en que se asentarán por días y meses los nombres de actores y demandados y el objeto de las demandas.
 
@@ -6176,7 +6188,9 @@ Puede el actor presentar su demanda por escrito.
 
 ARTICULO 8
 
-La cita del emplazamiento se enviará al demandado por medio del comisario del juzgado o de algún gendarme al lugar que el actor designe para ese fin y que podrá ser:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+
+La cita del emplazamiento se enviará al demandado por medio del secretario actuario del juzgado al lugar que el actor designe para ese fin y que podrá ser:
 
 I.- La habitación del demandado, su despacho, su establecimiento mercantil o su taller;
 
@@ -6186,19 +6200,21 @@ II.- El lugar en que trabaje u otro que frecuente y en que se ha de creerse que 
 
 III.- La finca o departamento arrendado cuando se trate de desocupación.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+
 ARTICULO 9
 
-> <small>(F. DE E., D.O.F. 1o. DE OCTUBRE DE 1932)</small>
-
-El comisario o gendarme que lleven la cita se cerciorarán de que el demandado se encuentra en el lugar designado y le entregarán la cita personalmente. Si no lo encontrare y el lugar fuere alguno de los enumerados en las fracciones I o III del artículo anterior, cerciorándose de este hecho, dejarán la cita con la persona de mayor confianza que encuentre. Si no se encontrare al demandado y el lugar no fuere de los enumerados en la fracción I no se le dejará cita, debiéndose expedir de nuevo cuando lo promueva el actor.
+El secretario actuario que lleve la cita se cerciorará de que el demandado se encuentra en el lugar designado y le entregará la cita personalmente. Si no lo encontrare y el lugar fuere alguno de los enumerados en las fracciones I o III del artículo anterior, cerciorándose de este hecho, dejará la cita con la persona de mayor confianza que encuentre. Si no se encontrare al demandado, y el lugar no fuere de los enumerados en las fracciones I o III no se le dejará la cita, debiéndose expedir de nuevo cuando lo promueva el actor.
 
 ARTICULO 10
 
 Cuando no se conociere el lugar en que el demandado viva o tenga el principal asiento de sus negocios o cuando viviendo o trabajando en un lugar se negaren él o las personas requeridas a recibir el emplazamiento, se podrá hacer la notificación en el lugar donde se encuentre.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+
 ARTICULO 11
 
-El actor tiene el derecho de acompañar al comisario o al gendarme que lleve la cita para hacerle las indicaciones que faciliten la entrega.
+El actor tiene derecho de acompañar al secretario actuario que lleve la cita para hacer las indicaciones que faciliten la entrega.
 
 ARTICULO 12
 
@@ -6206,7 +6222,9 @@ Las citas se extenderán en esqueletos impresos tomados de libros talonarios. Un
 
 ARTICULO 13
 
-El comisario o gendarme que entregue la cita recogerá en una libreta especial, recibo de ella, el cual si no supiere o no pudiere firmar la persona que debiere hacerlo, será firmado por alguna otra presente en su nombre, asentándose en la libreta a quien se haya hecho la entrega y el motivo.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+
+El secretario actuario que entregue la cita recogerá, en una libreta especial, recibo de ella el cual, si no supiere o no pudiere firmar la persona que debiere hacerlo, será firmado por alguna otra presente, en su nombre, asentándose en la libreta a quien se haya hecho la entrega y el motivo.
 
 En el juzgado habrá el número necesario de libretas para que pueda llevar una cada encargado de entregar citas.
 
@@ -6232,9 +6250,11 @@ El que se presente como actor o como reo usando el nombre de otro para hacerse p
 
 Del juicio
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+
 ARTICULO 17
 
-Si al anunciarse el despacho del negocio no estuviere presente el actor y sí el demandado, se impondrá a aquél una multa de uno a diez pesos, que se aplicará al reo por vía de indemnización y sin que se justifique haberse hecho el pago, no se citará de nuevo para el juicio.
+Si al anunciarse el despacho del negocio no estuviere presente el actor y sí el demandado se impondrá a aquél una multa de cincuenta a quinientos pesos, que se aplicará al reo por vía de indemnización, y, sin que se justifique haberse hecho el pago, no se citará de nuevo para el juicio.
 
 ARTICULO 18
 
@@ -6252,9 +6272,9 @@ I.- Expondrán oralmente sus pretensiones por su orden, el actor su demanda y el
 
 II.- Las partes pueden hacerse mutuamente las preguntas que quieran, interrogar a los testigos y peritos y en general, presentar todas las pruebas que se puedan rendir desde luego;
 
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1966)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
 
-III.- Todas las acciones y excepciones o defensas se harán valer en el acto mismo de la audiencia, sin sustanciar artículos o incidentes de previo pronunciamiento. Si de lo que expongan o aprueben las partes resultara demostrada la procedencia de una excepción dilatoria, el juez lo declarará así, desde luego, y dará por terminada la audiencia. Ante los Jueces de Paz, sólo se admitirá reconvención hasta por mil pesos.
+III.- Todas las acciones y excepciones o defensas se harán valer en el acto mismo de la audiencia, sin sustanciar artículos o incidentes de previo pronunciamiento. Si de lo que expongan o aprueben las partes resultara demostrada la procedencia de una excepción dilatoria, el juez lo declarará así, desde luego, y dará por terminada la audiencia. Ante los Jueces de Paz, sólo se admitirá reconvención hasta por cinco mil pesos;
 
 IV.- El juez podrá hacer libremente las preguntas que juzgue oportunas a cuantas personas estuvieren presentes en la audiencia, carear a las partes entre sí o con los testigos y a éstos, los unos con los otros, examinar documentos, objetos o lugares y hacerlos reconocer por peritos;
 
@@ -6290,9 +6310,11 @@ II.- El condenado podrá proponer fianza de persona abonada para garantizar el p
 
 III.- Llegado el caso, el ejecutor asociado de la parte que obtuvo y sirviendo de mandamiento en forma la sentencia condenatoria procederá al secuestro de bienes conforme a los artículos que siguen.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+
 ARTICULO 25
 
-El secuestro podrá recaer en toda clase de muebles con excepción de los vestidos, muebles de uso común e instrumentos y útiles de trabajo; en cuanto sean enteramente indispensables a juicio del ejecutor, y de los sueldos y pensiones del Erario. El embargo de sueldos o salarios sólo se hará cuando la deuda reclamada fuere por alimentos o por responsabilidad proveniente de delitos, graduándola el ejecutor, equitativamente en atención al importe de los sueldos y a las necesidades del ejecutado y su familia.
+El secuestro podrá recaer en toda clase de muebles, con excepción de los vestidos, muebles de uso común e instrumentos y útiles de trabajo, en cuanto sean enteramente indispensables, a juicio del ejecutor, y de los sueldos y pensiones del Erario. El embargo de sueldos o salarios sólo se hará cuando la deuda reclamada fuere por responsabilidad proveniente de delitos, graduándola el ejecutor, equitativamente, en atención al importe de los sueldos y a las necesidades del ejecutado y su familia.
 
 ARTICULO 26
 
@@ -6376,11 +6398,7 @@ ARTICULO 41
 
 Ante los jueces de paz no será necesario la intervención de abogados ni se exigirá ritualidad alguna ni forma determinada en las promociones o alegaciones que se hagan.
 
-ARTICULO 42
-
-El despacho de los juzgados de paz comenzará diariamente a las nueve de la mañana y se podrá interrumpir de las trece o a las dieciséis horas y continuará hasta la hora necesaria para cumplir todos los negocios citados y que se hayan presentado durante el curso del día, pudiendo retirarse el personal después, cuando ya no tengan asunto pendiente y fueren cuando menos los (sic) diecinueve horas.
-
-Respecto de las actuaciones ante jueces de paz, no hay día ni horas inhábiles.
+ARTICULO 42 (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1975)
 
 ARTICULO 43
 
@@ -6406,9 +6424,11 @@ ARTICULO 46
 
 Para la facilidad y rapidez en el despacho, las citas, órdenes, actas y demás documentos necesarios se extenderán en esqueletos impresos que tendrán los huecos que su objeto requiera y los cuales se llenarán haciendo constar en breve extracto lo indispensable para la exactitud y precisión del documento. Cuando por motivos especiales fuere necesario hacer constar más de lo que cupiere en el hueco correspondiente, se escribirá al reverso del documento o en hojas que se agregarán a él. El Presidente del Tribunal Superior y el Jefe del Departamento Central fijarán cada año, en el mes de diciembre, los modelos de los esqueletos que se hayan de emplear en el año siguiente, oyendo en efecto a los jueces de paz, a los que convocarán a las juntas que estime necesarias y cuidará de la impresión y distribución de los esqueletos en cantidad necesaria.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+
 ARTICULO 47
 
-Los jueces de paz no son recusables; pero deben excusarse cuando estén impedidos y en tal caso, el negocio pasará al otro juzgado de la misma demarcación si lo hubiere, y si no, al que corresponda en el número de demarcación. Si los jueces impedidos no se excusaran, a queja de parte el superior impondrá corrección disciplinaria y hará la anotación en el expediente del funcionario.
+Los Jueces de Paz no son recusables; pero deben excusarse cuando estén impedidos, y, en tal caso, el negocio pasará al siguiente juzgado en número. Si los jueces impedidos no se excusaren, a queja de parte el superior impondrá corrección disciplinaria, y hará la anotación en el expediente del funcionario.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -6597,3 +6617,33 @@ El presente Decreto entrará en vigor noventa días después de su publicación 
 D.O.F. 31 DE DICIEMBRE DE 1974.
 
 UNICO.- El presente Decreto entrará en vigor sesenta días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 1975.
+
+###### ARTICULO PRIMERO.
+
+Los Juzgados Mixtos Menores de los Partidos Judiciales Segundo, Tercero y Cuarto, pasarán a ser Juzgados de lo Civil o de lo Familiar, según lo determine el Pleno del Tribunal Superior de Justicia del Distrito Federal de acuerdo con las necesidades, asignándoles el número respectivo.
+
+###### ARTICULO SEGUNDO.
+
+Los asuntos que se encuentren en trámite en los Juzgados Mixtos Menores que de acuerdo con la Ley pasen a ser de lo Civil o de lo Familiar, continuarán tramitándose ante el Juzgado donde están radicados hasta su conclusión.
+
+###### ARTICULO TERCERO.
+
+Los Juzgados de Paz Civiles pasan a ser Mixtos de Paz, en materia Penal y Civil, y el Pleno del Tribunal Superior de Justicia del Distrito Federal determinará su residencia y distribución entre las Delegaciones Políticas en el número que la densidad de población o la distancia lo requiera.
+
+###### ARTICULO CUARTO.
+
+Los asuntos que estén en trámite ante los Juzgados Mixtos de lo Civil y Familiar de los Partidos Judiciales Segundo y Cuarto, se tramitarán en el Juzgado que al efecto se forme para atender la materia que correspondan y el Pleno del Tribunal asignará a estos Juzgados y al de lo Civil y de lo Familiar del Tercer Partido Judicial, el número respectivo.
+
+###### ARTICULO QUINTO.
+
+Los Juzgados Penales de los Partidos Judiciales Segundo, Tercero y Cuarto, serán numerados progresivamente por el Pleno del Tribunal Superior, y continuarán tramitando los asuntos que tienen radicados hasta su conclusión, y los individuos que sean detenidos por delitos cometidos dentro del perímetro de las Delegaciones que comprendían cada uno de estos Partidos Judiciales, en su caso quedarán privados de la libertad en los respectivos reclusorios existentes, hasta que la autoridad administrativa provea a la sustitución de éstos.
+
+###### ARTICULO SEXTO.
+
+Los asuntos de cuantía inferior a cinco mil pesos, que se presenten en los juzgados de lo Civil antes del día en que entre en vigor este decreto, continuarán su trámite ante dichos Juzgados hasta su conclusión.
+
+###### ARTICULO SEPTIMO.
+
+El presente Decreto entrará en vigor a los treinta días de su publicación en el "Diario Oficial" de la Federación.
