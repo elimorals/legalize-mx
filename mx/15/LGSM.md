@@ -4,7 +4,7 @@ identifier: "LGSM"
 country: "mx"
 rank: "ley_general"
 publication_date: "1934-08-04"
-last_updated: "1982-12-30"
+last_updated: "1985-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=578&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGSM"
 
 LEY GENERAL DE SOCIEDADES MERCANTILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE FEBRERO DE 1985.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación, el sábado 4 de agosto de 1934.
 
@@ -774,7 +774,9 @@ Se prohibe a las sociedades anónimas emitir acciones por una suma menor de su v
 
 Solamente serán liberadas las acciones cuyo valor esté totalmente cubierto y aquellas que se entreguen a los accionistas según acuerdo de la asamblea general extraordinaria, como resultado de la capitalización de primas sobre acciones o de otras aportaciones previas de los accionistas, así como de capitalización de utilidades retenidas o de reservas de valuación o revaluación. Cuando se trate de capitalización de utilidades retenidas o de reservas de valuación o de revaluación, éstas deberán haber sido previamente reconocidas en estados financieros debidamente aprobados por la asamblea de accionistas.
 
-Tratándose de reservas de valuación o de revaluación, éstas deberán estar apoyadas en avalúos efectuados por valuadores profesionales independientes debidamente reconocidos por la Comisión Nacional de Valores, o en cotizaciones certificadas de bolsas de Valores o mercancías, cuando se trate de valores o mercancías cotizados en estas instituciones.
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+
+Tratándose de reservas de valuación o de revaluación, éstas deberán estar apoyadas en avalúos efectuados por valuadores independientes autorizados por la Comisión Nacional de Valores, instituciones de crédito o corredores públicos titulados.
 
 ###### ARTICULO 117.
 
@@ -856,11 +858,11 @@ VIII.- La firma autógrafa de los administradores que conforme al contrato socia
 
 Los títulos de las acciones y los certificados provisionales podrán amparar una o varias acciones.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
 ###### ARTICULO 127.
 
-Los títulos de las acciones llevarán adheridos cupones, que se desprenderán del título y que se entregarán a la sociedad contra el pago de dividendos o intereses. Los cupones serán siempre nominativos. Los certificados provisionales podrán tener también cupones.
+Los títulos de las acciones llevarán adheridos cupones, que se desprenderán del título y que se entregarán a la sociedad contra el pago de dividendos o intereses. Los certificados provisionales podrán tener también cupones.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
 
@@ -1817,3 +1819,11 @@ Las acciones, los bonos de fundador, las obligaciones, los certificados de depó
 A partir del 1o. de enero de 1984 los títulos de crédito al portador a que se refiere este artículo, no podrán seguir circulando o ejercerse los derechos que los mismos lleven incorporados sino se convierten en nominativos. Cuando las emisoras de dichos títulos se nieguen a convertirlos en nominativos, para ejercer los derechos que llevan incorporados deberán depositarse en el Instituto Nacional para el Depósito de Valores, quedando autorizado dicho instituto para expedir certificados de depósito nominativos que amparen los títulos de crédito al portador depositados, dichos certificados tendrán el carácter de títulos de crédito no negociable y se regirán por las disposiciones del Capítulo VI del Título I de la Ley General de Títulos y Operaciones de Crédito. Los títulos de crédito al portador depositados en los términos de este párrafo se canjearán por títulos nominativos emitidos por la sociedad emisora. Asimismo los titulares de los títulos que se depositen en los términos de este párrafo, deberán presentar aviso ante la Dirección General de Fiscalización de la Secretaría de Hacienda y Crédito Público, manifestando la negativa de la emisora de convertir a nominativos los títulos expedidos al portador.
 
 A partir del 1o. de enero de 1984 las emisoras de títulos de crédito al portador a que se refiere este artículo, no podrán pagar los intereses o dividendos o permitir el ejercicio de los demás derechos derivados de dichos títulos, mientras no se cumpla respecto de los mismos con lo dispuesto en el párrafo anterior.
+
+D.O.F. 8 DE FEBRERO DE 1985.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor 90 días naturales después de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las disposiciones de carácter general vigentes, dictadas con anterioridad a la fecha en que entre en vigor este Decreto, seguirán observándose en lo que no se opongan al mismo.
