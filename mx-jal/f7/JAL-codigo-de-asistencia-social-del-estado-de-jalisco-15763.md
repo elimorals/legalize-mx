@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "2001-01-20"
+last_updated: "2001-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2001.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
 
@@ -599,9 +599,11 @@ XIII. Las demás que sean conferidas por el reglamento interior y otras disposic
 
 Los Organismos municipales crearán y operarán los Consejos Municipales, y en su caso los intermunicipales de Familia, de acuerdo a la necesidad de la población y las posibilidades de los propios municipios; los cuales tendrán las facultades que les otorgue el presente Código.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2001)</small>
+
 ###### Artículo 40.
 
-El Consejo de Familia de los Organismos Municipales se formará, al menos, con seis consejeros:
+El Consejo de Familia de los Organismos Municipales se podrá formar, de la siguiente manera:
 
 I. El Presidente Municipal respectivo, o su representante;
 
@@ -621,27 +623,37 @@ VI. Un representante de los padres de familia; y
 
 VII. Hasta cinco consejeros ciudadanos designados por el presidente del organismo municipal, previa convocatoria a los habitantes del municipio.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2001)</small>
 
 ###### Artículo 41.
 
-El Consejo Intermunicipal de Familia deberá conformarse con la participación de dos o más municipios colindantes y pertenecientes al mismo partido judicial, y se integrará por:
+El Consejo Intermunicipal de Familia podrá conformarse con la participación de dos o más municipios colindantes y pertenecientes al mismo partido judicial, y se podrá integrar por:
+
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
 
 I. El Presidente de cada uno de los organismos municipales integrantes;
 
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+
 II. El Delegado de la Procuraduría de la Defensa del Menor y la Familia de cada municipio integrante;
+
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
 
 III. El Regidor presidente de la Comisión de Asistencia Social o su similar, de cada uno de los municipios integrantes;
 
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+
 IV. Un Consejero ciudadano por cada uno de los municipios quienes serán designados por el Presidente Municipal, previa convocatoria pública, y los cuales deberán de cubrir los requisitos del artículo 35 del presente ordenamiento.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
 
 El Consejo Intermunicipal estará presidido por la persona que sea electa por votación del mismo consejo, de entre los Presidentes de los organismos municipales integrantes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2001)(F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002
 
 ###### Artículo 42.
 
-Los consejeros municipales e intermunicipales de familia tendrán las siguientes obligaciones y atribuciones:
+Los consejeros municipales e intermunicipales de familia tendrán, además de las que señalen los respectivos ordenamientos municipales, las siguientes obligaciones y atribuciones:
 
 I. Designar y remover libremente a sus empleados y delegados en los términos de ley;
 
@@ -681,11 +693,11 @@ En las faltas temporales del Secretario Ejecutivo, de los Consejos de Familia Es
 
 Los Organismos Municipales que por su capacidad económica y administrativa lo requieran, podrán celebrar convenios con el Consejo Estatal de Familia para que éste se haga cargo de las funciones relacionadas con el Consejo Municipal de Familia.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+(REFORMADO, P.O. 21 DE JULIO DE 2001)(F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)
 
 ###### Artículo 46.
 
-Los Consejos de Familia Estatal, Municipal o Intermunicipal, realizarán las funciones a través de delegados personales e institucionales, estos últimos pueden ser públicos o privados.
+Los consejos de familia estatal y municipales podrán realizar sus funciones a través de delegados personales e institucionales, estos últimos pueden ser públicos o privados.
 
 ###### Artículo 47.
 
@@ -2203,9 +2215,9 @@ VIII. La realización de campañas publicitarias para la concientización de la 
 
 IX. Las demás que le asignen otras leyes o sean necesarias para el cumplimiento de las anteriores.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
-### CAPITULO IV. De la Secretaría Técnica
+### CAPITULO III. Del Presidente
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
@@ -2231,9 +2243,9 @@ VIII. Designar a los profesionistas y técnicos que integren las unidades de ate
 
 IX. Las demás que le encomiende el Consejo.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
-### CAPITULO III. Del Presidente
+### CAPITULO IV. De la Secretaría Técnica
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
@@ -2267,7 +2279,7 @@ Esta Secretaría dispondrá de la infraestructura necesaria para el desarrollo d
 
 El Secretario Técnico deberá ser Trabajador Social, Sociólogo o Psicólogo, titulado, con amplios conocimientos y experiencia en materia familiar y asistencia social.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
 ## TITULO SEPTIMO. DE LA RECREACION, DEPORTE Y CULTURA
 
@@ -2503,7 +2515,7 @@ VI. Integrar los expedientes relativos a los casos puestos a su consideración, 
 
 VII. Enviar copias de los convenios al Consejo, en los términos del presente Libro.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
 ## TITULO DECIMO PRIMERO. DE LAS INFRACCIONES, SANCIONES Y DEL RECURSO DE REVOCACION
 
@@ -2561,9 +2573,9 @@ Para los efectos de la presente ley, se consideran adultos mayores a las persona
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO SEGUNDO. DE LOS DERECHOS Y DEBERES DE LOS ADULTOS MAYORES
+## TITULO SEXTO. DE LAS AUTORIDADES COMPETENTES
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2000)</small>
 
 ## TITULO SEGUNDO. DEL CONSEJO PARA LA PREVENCION Y ATENCION DE LA VIOLENCIA INTRAFAMILIAR
 
@@ -2641,9 +2653,9 @@ V. Los demás que establezcan los ordenamientos jurídicos aplicables.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO TERCERO. DE LA PARTICIPACION DE LA FAMILIA
+## TITULO V (SIC). DE LA ESTADISTICA Y EVALUACION
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 ## TITULO TERCERO. DE LA PARTICIPACION DE LOS MUNICIPIOS
 
@@ -2683,7 +2695,7 @@ Corresponde a la familia procurar que sus miembros adopten pautas de conducta y 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO CUARTO. DE LA PARTICIPACION DE LA SOCIEDAD
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -2727,7 +2739,7 @@ Los establecimientos que presten servicio a los adultos mayores deberán habilit
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO QUINTO. DE LA ASISTENCIA SOCIAL
+## TITULO TERCERO. DE LA PARTICIPACION DE LA FAMILIA
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -2793,9 +2805,9 @@ Las asociaciones civiles, fundaciones o patronatos de asistencia privada podrán
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO SEXTO. DE LAS AUTORIDADES COMPETENTES
+## TITULO QUINTO. DE LA ASISTENCIA SOCIAL
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 ## TITULO SEXTO. DE LOS PROCEDIMIENTOS
 
@@ -2891,15 +2903,15 @@ Corresponde a la Secretaría de Salud expedir la cartilla de salud para los adul
 
 Es responsabilidad de la Dirección del Trabajo y Previsión Social ofrecer capacitación para el trabajo y adiestramiento adecuado a los adultos mayores que así lo soliciten y no cuenten con recursos económicos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
 ## TITULO SEPTIMO. RESPONSABILIDADES Y SANCIONES
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO V (SIC). DE LA ESTADISTICA Y EVALUACION
+## TITULO SEGUNDO. DE LOS DERECHOS Y DEBERES DE LOS ADULTOS MAYORES
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 250.
 
@@ -2935,7 +2947,7 @@ La falta de decoro o respeto en el trato con los adultos mayores, por parte de i
 
 El cuidado inadecuado, abuso o negligencia que afecte a los Adultos Mayores y la violación a sus derechos por parte de sus familiares, ciudadanos en general o instituciones lucrativas o no, públicas o privadas, se sancionará conforme a la ley respectiva.
 
-## TITULO PRIMERO. DISPOSICIONES GENERALES
+## TITULO CUARTO. DE LA PARTICIPACION DE LA SOCIEDAD
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -3038,3 +3050,7 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 20 DE ENERO DE 2001.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 21 DE JULIO DE 2001.
+
+ÚNICO. El presente decreto entrará en vigor el mismo día que la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
