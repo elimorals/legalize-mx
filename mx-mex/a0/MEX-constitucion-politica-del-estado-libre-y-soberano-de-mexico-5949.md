@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1984-02-28"
+last_updated: "1984-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE FEBRERO DE 1984.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE MARZO DE 1984.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -329,15 +329,21 @@ El ejercicio del Poder Legislativo del Estado se deposita en una Asamblea que se
 
 El ejercicio del Poder Legislativo, se deposita en una Asamblea que se denominará Legislatura del Estado, integrada por Diputados electos en su totalidad por Sufragio Popular directo. Por cada Diputado Propietario se eligirá un Suplente.
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 1978)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 1984)</small>
 
 ###### Art. 38.
 
-La Legislatura del Estado se compondrá con 28 Diputados electos en Distritos Electorales, según el principio de votación mayoritaria relativa y hasta con 9 Diputados de Representación Proporcional.
+La Legislatura del Estado se compondrá con 34 Diputados electos en Distritos Electorales, según el principio de votación mayoritaria relativa y hasta con 11 Diputados de Representación Proporcional.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1978)</small>
 
 La elección se efectuará conforme a lo que disponga la Ley Reglamentaria y además a las siguientes reglas:
 
-I. La base para realizar la demarcación territorial de los 28 Distritos Electorales, será la resultante de dividir la población total del Estado, conforme al último censo general de población, entre el número de los Distritos señalados, teniendo también en cuenta para su distribución el factor geográfico y socio-económico.
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 1984)</small>
+
+I.- La base para realizar la demarcación territorial, de los 34 Distritos Electorales, será la resultante de dividir la población total del Estado, conforme al última (sic) censo general de población, entre el número de los Distritos señalados, teniendo también en cuenta para su distribución el factor geográfico y el socioeconómico;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1978)</small>
 
 II. La asignación de Diputaciones de Representación Proporcional, se sujetará a las Bases siguientes:
 
@@ -347,11 +353,19 @@ Para tener derecho a Diputaciones de Representación Proporcional, el Partido Po
 
 b).- El partido que no haya obtenido 3 o más constancias de mayoría, tendrá derecho a que le sean acreditados de entre sus candidatos registrados, Diputados de Representación Proporcional, siempre que alcance por lo menos el 1.5% del total de la votación emitida en el Estado, una vez deducida la que haya obtenido en favor de sus candidatos en los Distritos en que haya alcanzado mayoría.
 
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1978)</small>
+
 III. Al Partido que satisfaga los requisitos anteriores, se le asignará un Diputado de Representación Proporcional, que será el que haya alcanzado el mayor porcentaje de votación minoritaria.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1978)</small>
 
 Las siguientes asignaciones se harán a los candidatos de los Partidos que hayan alcanzado, en los Distritos respectivos, los porcentajes más elevados de votación minoritaria en cada una de las circunscripciones mencionadas en el inciso a) de la fracción anterior, siempre que sigan manteniendo el porcentaje mínimo estatal requerido, una vez deducidas las votaciones, de las Diputaciones de Representación Proporcional, ya asignadas.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1978)</small>
+
 En ningún caso, podrán asignarse a un mismo Partido más de 3 Diputaciones de Representación Proporcional.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1978)</small>
 
 Dos Diputados de mayoría y los de minoría tendrán la misma categoría e iguales derechos y obligaciones.
 
@@ -449,11 +463,11 @@ Durante los quince días a que se refiere el Artículo anterior, se tendrán las
 
 La Legislatura se reunirá en sesiones ordinarias dos veces al año.
 
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 1977)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1984)</small>
 
 ###### Art. 48.
 
-El Período anual de sesiones ordinarias dará principio el 5 de septiembre y concluirá el 31 de enero siguiente.
+El primer período de ejercicio anual de sesiones ordinarias, dará principio el 5 de diciembre y concluirá el 3 de marzo siguiente y el segundo período ordinario de sesiones, dará principio el 15 de julio y concluirá el 15 de octubre.
 
 ###### Art. 49.
 
@@ -523,11 +537,13 @@ El primer Período anual de sesiones ordinarias, dará principio el día 5 de se
 
 La Legislatura se renovará en su totalidad cada tres años, sin que por ningún motivo el mandato por virtud del cual funcionen sus miembros pueda prorrogarse más allá de este período de tiempo.
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 1978)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 1984)</small>
 
 ###### Art. 45.
 
-La Legislatura calificará la elección de sus miembros a través de un Colegio Electoral que se integrará por ocho presuntos Diputados, que de acuerdo con las constancias de mayoría que registre la Comisión Estatal Electoral, hayan obtenido mayor número de votos y por tres presuntos Diputados de Representación Proporcional, uno de cada Partido, con el porcentaje más alto de votación.
+La Legislatura calificará la elección de sus miembros a través de un Colegio Electoral que se integrará por once Presuntos Diputados con constancia de mayoría y de cuatro Presuntos Diputados de Representación Proporcional, cuyos Partidos hubieren obtenido el porcentaje más alto de votación. En ambos casos los integrantes del Colegio Electoral, serán designados por sus respectivos Partidos.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1978)</small>
 
 Los Diputados electos, presentarán sus constancias registradas a la Secretaría de la Legislatura, a fin de que se dé cuenta con ellas en la primera junta preparatoria, que deberá tener verificativo quince días antes de la apertura de las Sesiones, eligiéndose en la propia junta, la Mesa Directiva conforme a la Ley Orgánica.
 
@@ -663,7 +679,9 @@ VIII. Decretar el establecimiento y fundación de Nuevos Centros de Población e
 
 IX.- Convocar a elección de Gobernador, Diputados y Miembros de los Ayuntamientos, en los períodos constitucionales o cuando por cualquiera causa hubiere falta absoluta de estos funcionarios.
 
-Para el caso de elecciones de Gobernador y Diputados la convocatoria deberá expedirse por lo menos cien días antes de la fecha de la elección y para la de los Miembros de los Ayuntamientos sesenta días antes.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1984)</small>
+
+Para el caso de elecciones de Gobernador, la convocatoria deberá expedirse por lo menos cien días antes de la fecha de la elección y para la de Diputados y Miembros de los Ayuntamientos ochenta días antes.
 
 X. Hacer la computación de votos en la elección de Gobernador y declarar electo al ciudadano que hubiere obtenido la mayoría;
 
@@ -2345,7 +2363,7 @@ G.G. 4 DE ENERO DE 1950.
 
 ###### ARTICULO UNICO.
 
-Este Decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno", y el período de cuatro años a que se refiere el artículo 44 surtirá efectos a partir de la renovación de la actual H. XXXVII Legislatura Local.
+Este Decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno", y el período de cuatro años a que se refiere el artículo 44 surtirá efectos a partir de la renovación de la actual H. XXXVII Legislatura Local.X
 
 G.G. 17 DE FEBRERO DE 1951.
 
@@ -2560,3 +2578,23 @@ G.G. 28 DE FEBRERO DE 1984.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaseta (sic) del Gobierno" del Estado.
+
+G.G. 8 DE MARZO DE 1984.
+
+DECRETO NUMERO 233, POR EL QUE SE REFORMAN LOS ARTICULOS 38 EN SU PRIMER PARRAFO Y SU FRACCION I; Y EL 45 EN SU PRIMER PARRAFO DE LA CONSTITUCION POLITICA LOCAL.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
+
+G.G. 8 DE MARZO DE 1984.
+
+DECRETO NUMERO 234, POR EL QUE SE REFORMAN LOS ARTICULOS 48 Y 70 FRACCION IX EN SU SEGUNDO PARRAFO DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El período de la actual Legislatura concluirá el día cuatro de diciembre de mil novecientos ochenta y cuatro.
