@@ -4,7 +4,7 @@ identifier: "COL-ley-que-crea-el-organismo-publico-descentralizado-10326"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-20"
-last_updated: "1998-05-23"
+last_updated: "2001-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10326&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "COORDINACION DE LOS SERVICIOS EDUCATIVOS DEL ESTADO DE COLIMA"
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 1998.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2001.
 
 Ley publicada en el Número 25 del Periódico Oficial del Estado de Colima, el sábado 20 de junio de 1992.
 
@@ -113,13 +113,13 @@ El Consejo Directivo celebrará sesiones ordinarias cuando menos una vez por mes
 
 El Consejo ejercerá las atribuciones a cargo de LA COORDINACION, señaladas en el artículo 2o., fracciones I, V, VI y IX, de esta Ley.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 7o.
 
-La Dirección General estará a cargo de un Director General, que será el Secretario de Educación del Gobierno del Estado.
+La Dirección General estará a cargo de un Director General, quien deberá ser docente, de carrera magisterial, de reconocido prestigio y experiencia en el ramo educativo, quien será designado y removido por el Gobernador Constitucional del Estado.
 
-Tendrá el carácter de Secretario Técnico del Consejo Directivo y ejercerá la representación jurídica de LA COORDINACION.
+Tendrá el carácter de Secretario Técnico del Consejo Consultivo y ejercerá la representación jurídica de LA COORDINACIÓN.
 
 ###### ARTICULO 8o.
 
@@ -228,3 +228,9 @@ P.O. 23 DE MAYO DE 1998.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 50 SE MODIFICAN LOS ARTICULOS 4, 7 Y 10 DE LA LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "COORDINACION DE LOS SERVICIOS EDUCATIVOS DEL ESTADO DE COLIMA".]
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 20 DE OCTUBRE DE 2001.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 150 SE MODIFICA EL ARTÍCULO 7 DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO “COORDINACIÓN DE LOS SERVICIOS EDUCATIVOS DEL ESTADO DE COLIMA”.]
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
