@@ -4,7 +4,7 @@ identifier: "MOR-ley-que-reglamenta-el-seguro-de-vida-para-los-trabajadores-7166
 country: "mx"
 rank: "ley"
 publication_date: "1960-01-06"
-last_updated: "1960-01-06"
+last_updated: "2005-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY QUE REGLAMENTA EL SEGURO DE VIDA PARA LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR LA FRACCION IX DEL ARTICULO PRIMERO DEL DECRETO NUMERO QUINIENTOS VEINTIUNO, PUBLICADO EN EL PERIODICO OFICIAL EL 16 DE MARZO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el 6 de enero de 1960.
 
@@ -71,7 +73,7 @@ Los servidores públicos que dejen de prestar sus servicios, podrán continuar a
 
 Los funcionarios electos podrán conservar sus derechos al seguro, si así lo manifiestan al concluir su período, siempre y cuando cumplan lo establecido en el párrafo que antecede.
 
-C A P I T U L O I I
+C A P I T U L O II
 
 De las aportaciones para cubrir el Seguro
 
@@ -87,7 +89,7 @@ Se faculta a la Tesorería General del Estado, a descontar de los sueldos de los
 
 El Gobierno del Estado aportará al ocurrir alguno de los riesgos cubiertos por el seguro que se establece, la diferencia entre las cuotas de los trabajadores y el importe total del seguro.
 
-C A P I T U L O I I I
+C A P I T U L O III
 
 Del procedimiento para hacer efectivo el seguro
 
@@ -137,7 +139,7 @@ TERCERO.- Remítase al Ejecutivo del Estado, para los efectos de la Fracción I 
 
 Salón de Sesiones del H. Congreso Local, a los treinta y un día (sic) del mes de diciembre de mil novecientos cincuenta y nueve.- DIPUTADO PRESIDENTE, Francisco Solar Cañas.- DIPUTADO SECRETARIO, Profr. Sergio Jiménez Benítez.- DIPUTADO SECRETARIO, Arturo Espín Velasco.- Rúbricas".
 
-Por tanto mando se imprima, publique, circule y se le de el debido cumplimiento.
+Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Cuernavaca, Morelos, a los treinta y un días de mes de diciembre de mil novecientos cincuenta y nueve.
 
@@ -154,3 +156,11 @@ El SECRETARIO GENERAL DE GOBIERNO.
 Rosendo Rojas Coria.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 16 DE MARZO DE 2005.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
