@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2000-05-06"
+last_updated: "2000-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2000.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -235,11 +235,11 @@ El primer período iniciará precisamente el primero de octubre y concluirá el 
 
 No podrá el Congreso abrir sus sesiones sin la concurrencia de la mayoría simple de sus miembros; sesiones que serán públicas a excepción de aquellas que, por la calidad de los asuntos que deban tratarse, su reglamentación prevenga que sean secretas.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2000)</small>
 
 ###### Artículo 30.
 
-El Congreso, fuera de los períodos que señala el artículo anterior, celebrará sesiones extraordinarias sólo cuando fuere convocado al efecto por la Diputación Permanente o el Ejecutivo del Estado, debiendo ocuparse en ellas sólo de los asuntos para los cuales se haya hecho la convocatoria.
+El Congreso, fuera de los períodos que señala el artículo anterior, celebrará sesiones o períodos extraordinarios sólo cuando fuere convocado al efecto por la Comisión Permanente, debiendo ocuparse en ellos solo de los asuntos para los cuales se haya hecho la convocatoria.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1999)</small>
 
@@ -359,25 +359,29 @@ XLI.- Condonar contribuciones de acuerdo con el Ejecutivo, cuando se considere n
 
 XLII.- Para expedir todas las leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores y todas las otras concedidas por las Constituciones Federal y Estatal.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JULIO DE 2000)</small>
+
 ### CAPITULO IV.
 
-De la Diputación permanente.
+De la Comisión Permanente.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2000)</small>
 
 ###### Artículo 34.
 
-En los recesos del Congreso, funcionará una Diputación Permanente formada de cinco Diputados, que serán electos en la forma y términos que señala la Ley Orgánica del Poder Legislativo y su Reglamento, tres días antes de la clausura del período ordinario de sesiones. Las faltas de los miembros de la Diputación Permanente, serán cubiertas por el suplente de cada uno de ellos, y en caso de que falte el suplente respectivo será llamado cualquiera de los vocales representantes que integran dicha Diputación.
+En los recesos del Congreso, funcionará una Comisión Permanente integrada por siete Diputados que serán electos en la forma y términos que señale la Ley Orgánica del Poder Legislativo y su Reglamento, dentro de los tres días anteriores a la clausura de un período ordinario de sesiones. Si el día en que deba clausurarse el período ordinario no ha sido electa la Comisión Permanente, ocuparán los cargos por insaculación, los Diputados que resulten, en el orden correspondiente.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2000)</small>
 
 ###### Artículo 35.
 
-La Diputación Permanente no podrá tener acuerdos sin la concurrencia de tres del total de sus miembros.
+La Comisión Permanente no podrá tener acuerdos sin la concurrencia de cinco del total de sus miembros.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JULIO DE 2000)</small>
 
 ###### Artículo 36.
 
-Son atribuciones de la Diputación Permanente:
+Son atribuciones de la Comisión Permanente:
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -389,23 +393,21 @@ II.- Recibir la documentación que le remita el Tribunal Electoral del Estado, y
 
 III.- Convocar al Congreso a período extraordinario de sesiones o a sesión extraordinaria cuando lo creyere necesario o lo pidiere el Ejecntivo (sic).
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2000)</small>
 
-IV.- Instalar las juntas previas de la nueva Legislatura.
+IV.- Instalar la junta previa de la nueva Legislatura.
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2000)</small>
 
-V.- Dictaminar acerca de todos los asuntos que en las últimas sesiones ordinarias hayan quedado pendientes para dar cuenta al Congreso.
+V.- Recibir las iniciativas de ley y proposiciones dirigidas al Congreso y turnarlas a las Comisiones correspondientes a fin de que éstas las dictaminen.
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
+VI.- (DEROGADA, P.O. 22 DE JULIO DE 2000)
 
-VI.- Fijar días extraordinarios para que se verifiquen las elecciones de los Ayuntamientos, cuando por cualquier motivo no se hubieren celebrado en los que señala la ley electoral respectiva; y (sic)
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2000)</small>
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
+VII.- Ejercer en su caso y en forma provisional las facultades a que se refieren las fracciones XXX y XXXV del artículo 33 de esta Constitución.
 
-VII.- Ejercer en su caso y en forma provisional las facultades a que se refieren las fracciones XII, XV, XXV, XXVII, XXX, XXXI, XXXV del artículo 33 de esta Constitución.
-
-> <small>N. DE E. ES DE OBSERVARSE QUE EN EL DECRETO No. 252 DE FECHA P.O. 26 DE MARZO DE 1994, NO SE DEROGA EXPRESAMENTE LA PRESENTE FRACCION; SIN EMBARGO, EL CONTENIDO DE LA MISMA SE ENCUENTRA COMPRENDIDO EN LA ACTUAL FRACCION VI.</small>
+> <small>N. DE E. ES DE OBSERVARSE QUE EN EL DECRETO No. 252 DE FECHA P.O. 26 DE MARZO DE 1994, EL CONTENIDO DE LA PRESENTE FRACCION QUEDO COMPRENDIDO EN LA ACTUAL FRACCION VI, SIN EMBARGO, EN P.O. 22 DE JULIO DE 2000 FUE DEROGADA LA FRACCION VI, SIN HACER SEÑALAMIENTO ALGUNO RESPECTO A LA FRACCION VIII.</small>
 
 VIII.- Fijar dias extraordinarios para que se verifiquen las elecciones de Ayuntamientos foráneos, cuando por cualquier motivo no se hubieren celebrado en los que señala la ley electoral respectiva.
 
@@ -553,13 +555,17 @@ VIII.- Los Secretarios de la Administración Pública Estatal, el Oficial Mayor,
 
 El Gobernador será electo popular y directamente, entrará en ejercicio de sus funciones el día primero de noviembre del año de su elección; durará en su encargo seis años y no podrá volver a ser electo.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JULIO DE 2000)</small>
 
 ###### Artículo 53.
 
-El Gobernador, antes de tomar posesión de su cargo, rendirá la protesta de ley ante el Congreso del Estado y, en sus recesos, ante la Diputación Permanente, en los siguientes términos:
+El Gobernador, antes de tomar posesión de su cargo, rendirá la protesta de ley ante el Congreso del Estado, en los siguientes términos.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
 "Protesto guardar y hacer guardar la Constitución General de la República y las leyes que de ella emanen, la particular del Estado y demás legislación estatal, así como desempeñar leal y patrióticamente el cargo de Gobernador del Estado que el pueblo me ha conferido, mirando en todo por el bien y prosperidad del Estado".
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
 "Si no lo hiciere así, que el pueblo me lo demande".
 
@@ -575,17 +581,17 @@ a) El Gobernador sustituto constitucional o el designado para concluir el perío
 
 b) El Gobernador interino, el provisional o el ciudadano que, bajo cualquier denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO 1986)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2000)</small>
 
 ###### Artículo 55.
 
-Las faltas temporales del Gobernador del Estado, hasta por 30 días, serán suplidas por el Secretario General de Gobierno con el carácter de Encargado del Despacho y las que excedan de tal periodo serán cubiertas por un Gobernador interino que a mayoría de votos de los Diputados presentes nombrará el Congreso o en sus recesos la Diputación Permanente, debiendo tener el nombrado los requisitos que señala el Artículo 51 de esta Constitución. Cuando la falta fuere absoluta y ocurriera en los cuatro últimos años del período constitucional, se nombrará un substituto que desempeñe el cargo hasta que termine el período; pero si la falta tuviera lugar dentro de los dos primeros años se nombrará un Gobernador Interino quien hará entrega del Poder al ciudadano que hubiere resultado electo en las elecciones extraordinarias a que haya convocado el Congreso conforme a sus facultades. Llegando el caso previsto en la fracción V del Artículo 76 de la Constitución General de la República, el Gobernador provisional convocará a elecciones extraordinarias dentro de un término que no excederá de quince días, y el electo tomará posesión de su cargo inmediatamente que se haga la declaratoria respectiva.
+Las faltas temporales del Gobernador del Estado, hasta por 30 días, serán suplidas por el Secretario General de Gobierno con el carácter de Encargado del Despacho y las que excedan de tal período serán cubiertas por un Gobernador Interino que a mayoría de votos de los Diputados presentes nombrará el Congreso, debiendo tener el nombrado los requisitos que señala el artículo 51 de esta Constitución. Cuando la falta fuere absoluta y ocurriera en los cuatro últimos años del período constitucional, se nombrará un substituto que desempeñe el cargo hasta que termine el período; pero si la falta tuviera lugar dentro de los dos primeros años se nombrará un Gobernador Interino quien hará entrega del Poder Ejecutivo al ciudadano que hubiere resultado electo en las elecciones extraordinarias a que haya convocado el Congreso conforme a sus facultades. Llegado el caso previsto en la Fracción V del artículo 76 de la Constitución General de la República, el Gobernador Provisional convocará a elecciones extraordinarias dentro de un término que no excederá de quince días, y el electo tomará posesión de su cargo inmediatamente que se haga la declaratoria respectiva.
 
-(REFORMADO, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2000)</small>
 
 ###### Artículo 56.
 
-Cuando se haya nombrado Gobernador Interino, creyéndose que la falta del electo es temporal, y se venga después en conocimiento de que aquella es absoluta, el Congreso o en sus recesos la Diputación Permanente, nombrará un Gobernador Substituto, o bien confirmará el nombramiento de aquél, con el carácter de Substituto. Respecto del Gobernador así nombrado, se observará lo dispuesto en el artículo anterior.
+Cuando se haya nombrado Gobernador Interino, creyéndose que la falta del electo es temporal, y se tenga después conocimiento de que aquella es absoluta, el Congreso nombrará un Gobernador Sustituto, o bien confirmará el nombramiento de aquél, con el carácter de Substituto. Respecto del Gobernador así nombrado, se observará lo dispuesto en el artículo anterior.
 
 > <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
 
@@ -621,19 +627,21 @@ VI.- Suspender, cuando falten a sus deberes, a los empleados nombrados por él y
 
 VII.- Conceder licencias con goce de sueldo o sin él, y aceptar las renuncias de los funcionarios y empleados a que se refieren las fracciones IV y V de este artículo.
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2000)</small>
 
-VIII.- Pedir a la Diputación Permanente, convoque al Congreso a sesión o periodo extraordinario.
+VIII.- Pedir a la Comisión Permanente, convoque al Congreso a sesión o período extraordinario.
 
-IX.- Convocar al Congreso al desempeño de sus funciones cuando por algún motivo no hubiere Diputación Permanente.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2000)</small>
+
+IX.- Convocar al Congreso al desempeño de sus funciones cuando por algún motivo no hubiere Comisión Permanente.
 
 > <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
 
 X.- Expedir los nombramientos de los Magistrados del Supremo Tribunal de Justicia y someterlos para su aprobación al Congreso del Estado.
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2000)</small>
 
-XI.- Aceptar las renuncias y licencias de los funcionarios a que se refiere la fracción anterior, dando cuenta con ellas al Congreso o a la Diputación Permanente.
+XI.- Aceptar las renuncias y licencias de los funcionarios a que se refiere la fracción anterior dando cuenta con ellas al Congreso o a la Comisión Permanente en su caso.
 
 > <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
 
@@ -763,9 +771,9 @@ V.- Intervenir en las elecciones para que recaigan en determinada persona, ya se
 
 VI.- Mezclarse en los asuntos judiciales ni disponer, durante el juicio, de las cosas que en él se versen o de las personas que estén bajo la acción de la justicia.
 
-> <small>(REFORMADA, P. O. 7 DE ENERO DE 1950)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2000)</small>
 
-VII.- Ausentarse del Territorio del Estado por más de treinta días sin licencia del Congreso o de la Diputación Permanente en su caso.
+VII.- Ausentarse del Territorio del Estado por más de treinta días sin licencia del Congreso.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MARZO DE 1994)</small>
 
@@ -881,9 +889,9 @@ En dicho período, dentro de los primeros ocho días, el Congreso deberá aproba
 
 Las faltas temporales de un magistrado, que no excedan de tres meses, se suplirán en la forma que determine la Ley Orgánica del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2000)</small>
 
-Si faltare un Magistrado por defunción o por cualquier causa de separación definitiva, el Gobernador del Estado someterá un nuevo nombramiento a la aprobación del Congreso, quedando este nombramiento limitado al resto del correspondiente período a que se refiere el artículo 73 de esta Constitución. Si el Congreso no estuviere en sesiones, la Diputación Permanente dará su aprobación provisional mientras se reúne aquél y dé la aprobación definitiva.
+Si faltare un Magistrado por defunción o por cualquier causa de separación definitiva, el Gobernador del Estado someterá un nuevo nombramiento a la aprobación del Congreso, quedando este nombramiento limitado al resto del correspondiente período a que se refiere el artículo 73 de esta Constitución. Si el Congreso no estuviere en sesiones, la Comisión Permanente dará su aprobación provisional mientras se reúne aquél y da la aprobación definitiva.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 1988)</small>
 
@@ -2358,3 +2366,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Gobierno del Estado y los Ayuntamientos incluirán en sus respectivos presupuestos, una partida para hacer frente a su responsabilidad patrimonial, a partir del ejercicio fiscal 2001.
+
+P.O. 22 DE JULIO DE 2000.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
