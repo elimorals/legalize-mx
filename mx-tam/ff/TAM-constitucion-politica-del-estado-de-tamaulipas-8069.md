@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1970-01-24"
+last_updated: "1970-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 1970.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -73,13 +73,13 @@ III. Los hijos de padres tamaulipecos nacidos fuera del territorio del Estado y 
 
 ### CAPITULO III. De los Ciudadanos
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 1954)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 1970)</small>
 
 ###### Art. 6o.
 
 Son Ciudadanos del Estado, los varones y mujeres que, teniendo la calidad de Tamaulipecos, reúnan además, los siguientes requisitos:
 
-I.- Haber cumplido 18 años, siendo casados, o 21 si no lo son.
+I.- Haber cumplido 18 años, y
 
 II.- Tener un modo honesto de vivir.
 
@@ -1914,3 +1914,7 @@ El presente Decreto empezará a surtir sus efectos a partir del día siguiente d
 P.O. 24 DE ENERO DE 1970.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE FEBRERO 1970.
+
+UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
