@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-instituto-campechano-3928"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1965-08-31"
-last_updated: "1986-09-13"
+last_updated: "1996-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DEL INSTITUTO CAMPECHANO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 1986.
-
-REPUBLICADO, P.O. 15 DE SEPTIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 31 de agosto de 1965
 
@@ -45,41 +43,55 @@ LEY ORGANICA DEL INSTITUTO CAMPECHANO
 
 Se restablece el Instituto Campechano, que desapareció al crearse la Universidad de Campeche.
 
-> <small>(REFORMADO, P.O. 24 DE MARZO DE 1981)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 2o.
 
-El Instituto Campechano es una institución pública, dotada de plena capacidad jurídica y organizada para impartir educación secundaria, formar maestros para las escuelas de instrucción preescolar, primaria, media y superior; capacitar para el ejercicio de alguna actividad técnica o artística, y poner la cultura, con la mayor amplitud posible, al servicio de la colectividad.
+El Instituto Campechano es una institución pública, dotada de plena capacidad jurídica y organizada para impartir educación media, media-superior, superior y cursos de posgrado; así como capacitar para el ejercicio de alguna actividad técnica o artística, y poner la cultura, con la mayor amplitud posible, al servicio de la colectividad.
 
 ###### Artículo 3o.
 
 El Instituto Campechano tiene facultad:
 
-(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADA, P.O. 15 DE SEPTIEMBRE DE 1986)
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-I.- Para expedir certificados de estudios, diplomas, títulos, según su caso a las personas que hayan concluido sus estudios de Secundaria, Preparatoria, Normal, Educación Preescolar, Licenciatura o adquirido los conocimientos necesarios para el ejercido de un arte u oficio, y diplomas honoríficos;
+I.- Para expedir certificados de estudios, diplomas, títulos y grados académicos, según su caso, a las personas que hayan concluido sus estudios de Educación Secundaria y Preparatoria, Diplomados, Licenciaturas, Posgrado o adquirido los conocimientos necesarios para el ejercicio de un arte u oficio, y Diplomas Honoríficos;
 
 II.- Para revalidar estudios correspondientes a los grados que imparte, y
 
-III.- Para organizarse y estructurar sus escuelas de acuerdo con las disposiciones de esta Ley y reglamentos respectivos.
+III.- Para organizarse y estructurar sus escuelas de acuerdo con las disposiciones de esta Ley y reglamentos respectivos;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+IV.- Para incorporar estudios en los niveles que imparta, siempre que los planes, programas y métodos para estimar el aprovechamiento de dichos estudios, sean equivalentes con los vigentes en el Instituto Campechano.
 
 ###### Artículo 4o.
 
 Se concede plena validez, en lo que corresponda, a los estudios hechos en las escuelas que dependieron de la Universidad de Campeche.
 
-> <small>(REFORMADO, P.O. 24 DE MARZO DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 5o.
 
-EI Instituto Campechano realizará la función docente por los siguientes organismos:
+EI Instituto Campechano realizará la función docente y de investigación a través de los siguientes organismos:
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 1981)</small>
 
 I.- Escuela Secundaria (Diurna y Nocturna);
 
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 1981)</small>
+
 II.- Escuela Normal de Profesores y Escuela Primaria anexa;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 1981)</small>
 
 III.- Escuela de Profesores de Enseñanza Preescolar y Jardín de Niños anexo;
 
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 1981)</small>
+
 IV.- Escuela de Artes y Oficios;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 1981)</small>
 
 V.- Escuela Normal Superior.
 
@@ -95,9 +107,11 @@ VII.- Escuela de Turismo;
 
 VIII.- Escuela de Periodismo y Ciencias de la Comunicación;
 
-(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 1986) (REPUBLICADA, P.O. 15 DE SEPTIEMBRE DE 1986)
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-IX.- Escuela de Trabajo Social.
+X.- Coordinación de Investigación y Posgrado.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1981)</small>
 
 Independientemente de los planteles mencionados, el Instituto Campechano, por acuerdo de su Consejo General, podrá crear otras o liquidar cualquiera de ellas, en función de las necesidades vinculadas a los servicios educativos que presta a la comunidad.
 
@@ -171,9 +185,9 @@ VII.- Proponer al Consejo General, por medio de ternas, las personas que deben s
 
 VIII.- Nombrar a los secretarios de las escuelas y demás empleados del Instituto, removerlos de sus puestos, concederles licencias y aceptarles sus renuncias;
 
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 1981)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-IX.- Firmar en unión del Gobernador del Estado los títulos profesionales que el propio funcionario otorgue a los egresados del Instituto Campechano;
+IX.- Firmar, en unión del Gobernador del Estado, los títulos profesionales y de posgrado que el propio funcionario otorgue a los egresados del Instituto Campechano;
 
 X.- Firmar, en unión del Secretario, los certificados de estudios y diplomas que otorgue el Instituto;
 
@@ -273,13 +287,17 @@ El Consejo General tiene las siguientes facultades:
 
 I.- Ejercer el supremo gobierno del Instituto Campechano, sujetándose a las prevenciones de la presente Ley Orgánica y de los reglamentos que de ella emanen;
 
-II.- Administrar los fondos que constituyen el patrimonio del Instituto y expedir el Reglamento para el pago de derechos por actos oficiales de la Institución, tales como inscripciones, exámenes profesionales, extraordinarios y a título de suficiencia, certificados, expedición y registro de títulos, etc.;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+II.- Administrar los fondos que constituyen el patrimonio del Instituto y expedir el Reglamento para el pago de derechos por actos oficiales de la Institución, tales como inscripciones, exámenes de posgrado, profesionales, extraordinarios y a título de suficiencia, certificados, expedición y registro de títulos y grados, y los demás a que se contrae esta ley;
 
 III.- Aprobar el presupuesto general anual de ingresos y egresos del Instituto, que abarcará el período comprendido entre el primero de septiembre y el treinta y uno de agosto del año siguiente, el cual será formulado por el Director del Instituto, oyendo para ello a la Comisión de Hacienda del Consejo General;
 
 IV.- Aprobar la cuenta anual del Instituto formulada por la Tesorería del mismo;
 
-V.- Aprobar los reglamentos y expedir el suyo y dictar todas las normas generales encaminadas a la mejor organización y funcionamiento docente y administrativo de la Institución;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+V.- Aprobar y expedir su propio reglamento interior, el reglamento de incorporación de estudios, y los demás reglamentos y normas generales encaminadas a la mejor organización y funcionamiento docente y administrativo de la Institución;
 
 VI.- Aprobar los planes de estudios, programas y métodos para estimar el aprovechamiento de los alumnos, que deban aplicarse en las escuelas del Instituto;
 
@@ -291,9 +309,9 @@ IX.- Conocer de todos los asuntos relacionados con los reglamentos y normas a qu
 
 X.- Nombrar, remover y conceder licencias de sus cargos, así como resolver acerca de sus renuncias, al personal docente de las escuelas del Instituto;
 
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 1981)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-XI.- Conceder examen profesional a los Pasantes de las escuelas de nivel medio superior y nivel superior integradas en la estructura académica del Instituto;
+XI.- Conceder exámenes de grado y profesionales;
 
 XII.- Conceder exámenes a título de suficiencia;
 
@@ -629,33 +647,35 @@ Se utilizará cualquiera de los sistemas establecidos para las escuelas anterior
 
 En el reglamento correspondiente se establecerán los sistemas para realizar dichos medios de pruebas y exámenes, las condiciones a llenar para tener derecho a presentarlos, la escala de calificaciones y la manera de obtener los promedios de éstas y el contenido de las actas respectivas que se levantarán y de las constancias que se les entregarán a los examinados.
 
-> <small>(REFORMADO, P.O. 24 DE MARZO DE 1981)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 55.
 
-Los títulos a que tengan derecho las personas que hayan aprobado el plan de estudios correspondiente, y que hayan cumplido con los demás requisitos que para obtenerlos exija el reglamento de sus respectivas escuelas, serán expedidos por el Ejecutivo del Estado.
+Los títulos y grados a que tengan derecho las personas que hayan aprobado el plan de estudios correspondiente y que hayan cumplido con los demás requisitos que para obtenerlos exija el reglamento de sus respectivas escuelas, serán expedidos por el Ejecutivo del Estado.
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1971)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 56.
 
-Para obtener dichos títulos, los interesados deberán solicitarlos por escrito al Gobernador del Estado, acompañando a su solicitud, copia certificada del acta de examen profesional, librada por la Secretaría de la escuela respectiva.
+Para obtener dicho títulos y grados, los interesados deberán solicitarlos por escrito al Gobernador del Estado, acompañando a su solicitud copia certificada del acta de examen profesional o de grado, librada por la Secretaría de la Escuela respectiva, o la Coordinación de Investigación y Posgrado, según corresponda.
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1971)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 57.
 
-Los mencionados títulos serán firmados por el Gobernador del Estado, el Secretario General de Gobierno y el Director del Instituto Campechano.
+Los mencionados títulos o grados serán firmados por el Gobernador del Estado, el Secretario de Gobierno y el Director del Instituto Campechano.
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1971)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 58.
 
-Los títulos de referencia serán registrados en la Secretaría General de Gobierno y en la Secretaría de la escuela correspondiente.
+Los títulos y grados de referencia serán registrados en la Secretaría de Gobierno y en la Secretaría de la Escuela correspondiente o en la Coordinación de Investigación y Posgrado.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 59.
 
-Nunca se expedirá duplicado del título. En caso de extravío o destrucción del mismo, solo podrá expedirse al interesado copia certificada del registro respectivo.
+Nunca se expedirá duplicado del título o grado. En caso de extravío o destrucción del mismo, solo podrá expedirse al interesado copia certificada del registro respectivo.
 
 ###### Artículo 60.
 
@@ -820,3 +840,9 @@ Cuando la Ley Orgánica del Instituto Campechano haga referencia a el Tesorero s
 ###### ARTICULO CUARTO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE DICIEMBRE DE 1996.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
