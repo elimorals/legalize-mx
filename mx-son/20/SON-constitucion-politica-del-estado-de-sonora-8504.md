@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1970-12-12"
+last_updated: "1971-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,289 +21,617 @@ state: "SON"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE SONORA
 
-CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
+LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 12 DE DICIEMBRE DE 1970.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2021.
 
-Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
+Ley publicada en el Periódico Oficial del Gobierno del Estado de Durango, el domingo 19 de mayo de 2013.
 
-CESAREO G. SORIANO, Gobernador Constitucional Interino del Estado Libre y Soberano de Sonora, a sus habitantes, sabed:
+Con fechas 21 de septiembre de 2011 y 12 de noviembre del 2012, se presentaron a esta H. LXV Legislatura del Estado dos Iniciativas la Primera por los CC. Diputados Karla Alejandra Zamora García, Representante del Partido Verde Ecologista, y la segunda presentada por los integrantes del Grupo parlamentario del Partido Acción Nacional que contiene REFORMAS Y ADICIONES A LA LEY PARA LA PROTECCIÓN DE LOS ANIMALES EN EL ESTADO DE DURANGO; misma que fue turnada a la Comisión de Ecología integrada por los CC. Diputados: Karla Alejandra Zamora García, Carmen Cardiel Gutiérrez, José Nieves García Caro, Felipe de Jesús Garza González y Verónica Castañeda Ibarra; Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
 
-Que el Congreso Constituyente del mismo, ha tenido a bien decretar lo siguiente:
+C O N S I D E R A N D O S...
 
-EL CONGRESO CONSTITUYENTE DE SONORA, reunido en esta Villa, en virtud de las facultades que le conceden los Decretos Números 90 y 91, de fecha 29 de Marzo de 1917, expedidos por el C. Gobernador Interino del Estado, de conformidad con el Artículo 1º. del Decreto de 22 de Marzo de 1917 del Ciudadano Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Unión, y con apoyo en el Artículo 5º. del expresado Decreto, en nombre del pueblo sonorense ha tenido a bien expedir la siguiente:
+Con base en los anteriores Considerandos, esta H. LXV Legislatura del Estado, expide el siguiente:
 
-Constitución Política del Estado de Sonora, que reforma la de 1º. de Noviembre de 1872.
+D E C R E T O No. 489
 
-## TITULO PRELIMINAR.
+LA SEXAGÉSIMA QUINTA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 55 DE LA CONSTITUCIÓN POLÍTICA LOCAL, A NOMBRE DEL PUEBLO, D E C R E T A:
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 1.
 
-Los derechos del hombre son la base y el objeto de las instituciones sociales. En el Estado de Sonora todo individuo gozará de las garantías que otorga la Constitución Política de los Estados Unidos Mexicanos. En consecuencia, las autoridades, los funcionarios y empleados del Estado y Municipios tienen la ineludible obligación de respetar y hacer respetar, en la órbita de sus facultades, dichas garantías y las prerrogativas que esta Constitución Local concede.
+La presente Ley es reglamentaria del artículo 26 de la Constitución Política del Estado Libre y Soberano de Durango, de orden público, interés social y de observancia general en el territorio del Estado de Durango; y tiene como finalidad fijar las bases y las condiciones de protección y bienestar de los animales que viven bajo la posesión de las Personas, en el territorio del Estado de Durango.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 2.
 
-En Sonora la investidura de los funcionarios públicos emana de la ley y está sujeta a ella. Las prescripciones legales constituyen el único límite a la libertad individual. En este concepto, las autoridades sólo pueden obrar ejercitando facultades expresas de la ley y los particulares pueden hacer todo lo que ésta no les prohíba.
+La presente Ley tiene por objeto:
 
-## TITULO PRIMERO.
+I. Regular la conducta de las Personas hacia las formas de vida y la integridad de los animales a fin de permitir su reproducción y desarrollo bajo condiciones de bienestar;
 
-Territorio y Partes Integrantes del Estado.
+II. Promover y regular el adecuado manejo, transporte, trato y sacrificio humanitario de los animales domésticos, silvestres, de exhibición, de abasto, de carga, de caza, de tiro, monta y labranza, de acuerdo a las Normas Oficiales Mexicanas y demás disposiciones legales que resulten aplicables;
 
-### CAPITULO I.
+III. Fomentar la protección, conservación y respeto a la biodiversidad de los animales, para que exista una convivencia armónica entre éstos y las Personas;
 
-Territorio.
+IV. Establecer la participación de las asociaciones, de las instancias gubernamentales competentes y demás organizaciones de la sociedad civil en las campañas de esterilización y sacrificio humanitario de los animales en los Centros de Asistencia Canina y Felina apegándose a la presente Ley, a los reglamentos municipales de la materia y a las Normas Oficiales Mexicanas aplicables;
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+V. Diseñar, implementar y evaluar las campañas de educación ambiental relacionadas a la protección y tenencia responsable de los animales, cuidados básicos y esterilización de los animales domésticos de compañía, en las escuelas del sistema educativo del Estado, así como fomentar la participación activa de las Asociaciones en dichas campañas en los términos de la presente Ley, de los reglamentos municipales de la materia y de las Normas Oficiales Mexicanas aplicables;
+
+VI. Establecer las obligaciones y responsabilidades de los propietarios, poseedores y encargados de los animales para garantizar su protección integral;
+
+VII. Regular la reproducción, cría, enajenación, albergue, hospedaje y adiestramiento de los animales domésticos de compañía y animales silvestres para que estas actividades se realicen en condiciones de bienestar.
+
+VIII. Proteger a los animales domésticos y silvestres, regulando la vida y el crecimiento natural de las especies de animales no nocivas;
+
+IX. Propiciar el aprovechamiento racional de las especies, con el fin de que se impida la crueldad hacia los animales;
+
+X. Impulsar las técnicas de desarrollo de especies animales y su racional explotación para fines alimenticios, de preservación ecológica y de aprovechamiento económico, utilizando las técnicas más modernas que impidan la crueldad en los procesos de su aplicación;
+
+XI. Proteger la fauna silvestre y sus refugios naturales de acciones destructoras para asegurar su conservación; y
+
+XII. Controlar la reproducción y el desarrollo de la fauna nociva mediante sistemas que eviten la crueldad hacia los animales y no pongan en peligro la salud humana o la existencia o supervivencia del resto de la fauna.
+
+## TITULO SEGUNDO. OBLIGACIONES
+
+### CAPÍTULO I. Objeto de la Ley
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2015)</small>
 
 ###### Artículo 3.
 
-El Territorio del Estado de Sonora se constituye por la extensión de tierra firme que posee actualmente y sobre el cual ha ejercido y ejerce soberanía y jurisdicción y que está limitado por el Norte, con el territorio de los Estados Unidos de América; por el Sur, con el Estado de Sinaloa; por el Oriente, con el Estado de Chihuahua, de por medio la Sierra Madre Occidental, y por el Poniente con el Golfo de California y Estado de Baja California, conforme a los convenios correspondientes en sus respectivos casos; así como por toda otra extensión de terreno que por derecho le pertenezca. Comprende igualmente las islas de El Tiburón, San Estéban, Lobos y demás islas e isletas que han estado sujetas a su dominio.
+Para los efectos de esta Ley se entiende por:
 
-### CAPITULO II.
+I. Adiestramiento: Proceso de enseñanza y aprendizaje, mediante el cual se entrena a un Animal, implementando técnicas específicas para que pueda obedecer instrucciones o estar condicionado para lograr fines específicos, desarrollar o practicar determinadas habilidades;
 
-Partes integrantes del Estado.
+II. Adopción: Acto celebrado entre un Adoptante y una Asociación, o una autoridad, mediante el cual el Adoptante adquiere la calidad de propietario de un Animal Doméstico de Compañía, y que establece los derechos y obligaciones de las partes que intervienen en este acto con el fin de asegurar y proteger las condiciones futuras del Animal y su destino;
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+III. Adoptante: Propietario de un Animal Doméstico de Compañía de origen no-comercial, que voluntariamente decide responsabilizarse de su custodia y atención al celebrar la Adopción con alguna Asociación o autoridad;
+
+IV. Albergue: Lugar en el cual un Animal es alojado por las Personas para su protección y cuidado;
+
+V. Animales: Seres vivos no humanos con sistemas orgánicos, que sienten y se desplazan voluntariamente o por instinto;
+
+VI. Animales Abandonados: Los animales que queden sin el cuidado y protección de sus propietarios o poseedores, así como los que libremente deambulan por la vía pública sin contar con placa de identidad u otra forma de identificación y los que se encuentran en los Albergues;
+
+VII. Animal de Abasto: Animales cuyo destino final es el sacrificio para el consumo humano de su carne y/o sus derivados;
+
+VIII. Animales de Asistencia: Son los Animales entrenados para desarrollar actividades de guía y apoyo a las personas con discapacidad;
+
+IX. Animal en Exhibición: Todos aquellos que se encuentran en cautiverio en zoológicos, circos y espacios similares de propiedad pública o privada;
+
+X. Animal de Monta, Carga y Tiro: Los caballos, yeguas, ponis, burros, mulas, asnos, reses, sus mezclas y demás análogos que son utilizados por el ser humano para transportar personas o productos o para realizar trabajos de tracción y/o que su uso reditúe beneficios económicos a su propietario, poseedor o encargado; incluyendo aquellos utilizados en charrería, rodeos y similares.
+
+XI. Animal Callejero: Todo animal doméstico de compañía que deambula en las calles, ya sea por condición de abandono o por descuido, o por costumbre del poseedor o encargado y puede o no contar con placa o collar de identificación;
+
+XII. Animal Doméstico: Todo Animal que pueda convivir con las Personas en un ambiente doméstico y que vive bajo sus cuidados;
+
+XIII. Animal Feral: Todos aquellos animales domésticos que han sido abandonados por las Personas y se vuelven silvestres; así como sus crías nacidas en ese hábitat;
+
+XIV. Animal Potencialmente Peligroso: Todo aquel Animal que por sus características físicas, especie e instinto represente un elemento peligroso o muestre una carga agresiva que pueda atentar contra la integridad física de una persona, de sus bienes, o de otros Animales;
+
+XV. Animal Silvestre: Las especies animales no domésticas que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente en su hábitat, o poblaciones e individuos de éstas que no se encuentran bajo control de las Personas;
+
+XVI. Animal Silvestre en Cautiverio: Animal Silvestre que se encuentra bajo control de las Personas;
+
+XVII. Animales para Zooterapia: Animales que conviven con las Personas con fines terapéuticos;
+
+XVIII. Asociaciones: Asociaciones y otras organizaciones no-gubernamentales de carácter civil protectoras de animales debidamente constituidas;
+
+XIX. Autoridad Municipal: La dependencia de la Administración Pública Municipal encargada de la preservación del equilibrio ecológico y la protección del ambiente;
+
+XX. Bienestar Animal: Conjunto de condiciones ambientales que permiten a un Animal la adecuada satisfacción de las condiciones biológicas y ambientales que requiere para su desarrollo y comportamiento propio de su especie;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXI. Bioética: Estudio de los aspectos éticos de las ciencias de la vida, así como de las relaciones del hombre con los demás seres vivos.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXII. Bioparque: Área geográfica ubicada en un amplio espacio natural con límites físicos donde se albergan diferentes especies de Animales para su exhibición y en algunos casos para convivencia con las Personas, con el fin de ofrecer oportunidades de aprendizaje e investigación sobre la relación entre todos los diferentes componentes de los ecosistemas;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXIII. Cautiverio: Falta de libertad o aprisionamiento al que es sometido un Animal de manera deliberada por parte de las Personas;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+XXIV. Centro de Asistencia Animal: La Institución en la cual un animal es alojado para su protección, atención médica y cuidado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXV. Certificado de Garantía: Documento que establece la responsabilidad que asume el criador y/o proveedor frente al consumidor, en los términos y condiciones establecidos en el contrato por la comercialización de Animales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXVI. Certificado de Salud: Documento mediante el cual se describe el estado normal de las funciones orgánicas de un Animal y en el que se asienta que el mismo se encuentra clínicamente sano, siendo emitido y avalado por un médico veterinario;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXVII. Cuidados Apropiados: Trato respetuoso hacia los Animales que comprende sus necesidades físicas, de espacio, alimentación, resguardo y de acuerdo a las necesidades específicas de su especie, en los términos de las Normas Oficiales Mexicanas y otros ordenamientos legales aplicables;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXVIII. Encargado: Persona física o moral que sin ser Poseedor o Propietario de un Animal se encuentra a cargo del mismo temporalmente y es responsable del cumplimiento de esta Ley y de los daños y perjuicios que el Animal ocasione a terceros;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXIX. Enfermedad: Ruptura del equilibrio en la interacción entre un Animal, un agente biológico y el medio ambiente, que provoca alteraciones en las manifestaciones vitales del primero;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXX. Espacio Vital: Espacio mínimo que necesita un Animal para poder realizar sus actividades y desplegar comportamientos propios de su especie;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXXI. Establecimiento: Local comercial, destinado a la exposición y venta de Animales o de servicio, y/o en el que se presten servicios para su cuidado, custodia temporal y/o adiestramiento;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXXII. Esterilización de Animales: Cirugía o método realizado por un médico veterinario para evitar su reproducción, que son la castración para los machos y la ovariohisterectomía para las hembras;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXXIII. Fenotipo: Cualquier característica o rasgo observable de un Animal tales como su morfología, desarrollo, fisiología y comportamiento;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXXIV. Función Zootécnica: Las diversas funciones o trabajos que puede desarrollar un Animal de acuerdo a su especie o raza, en función de los intereses humanos;
+
+> <small>(REFORMADA Y REUBICADA P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXXV. Guía Informativa: Documento elaborado por el proveedor de animales en donde se incluye la garantía; se informe y describa al comprador las características del animal, cuidados apropiados y espacio vital, para el bienestar del animal y las demás obligaciones de esta Ley;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXXVI. Humanitario: Característica del trato o acción que implica ser benigno o aliviar de una forma indolora las enfermedades que padece un Animal;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXXVII. Identificación: Collar, placa, tatuaje o chip que contenga los datos que permitan identificar al propietario o tenedor responsable del animal;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXXVIII. Insensibilización: Acto por el cual se le somete a un Animal inhibiendo toda respuesta a cualquier estímulo que provoque dolor o malestar;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXXIX. Ley: Ley de Protección y Bienestar Animal para la Sustentabilidad en el Estado de Durango;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XL. Ley de Gestión Ambiental: Ley de Gestión Ambiental Sustentable para el Estado de Durango;
+
+XLI. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2021)
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XLII. Maltrato: Todo hecho, acto u omisión consciente o inconsciente que pueda ocasionar dolor, sufrimiento, poner en peligro la vida del animal o afecten su salud y bienestar, así como la sobreexplotación de su trabajo.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XLIII. Médico Veterinario.- Profesional al servicio de la salud de los animales que cuenta con los conocimientos científico-técnicos y ético-humanísticos dirigidos al mejoramiento de la calidad de vida de los animales y el desarrollo sustentable. Promueve y ejecuta acciones tendientes a la prevención, diagnóstico clínico terapéutica médica y quirúrgica y que cuenta con cédula profesional de médico veterinario zootecnista.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XLIV. Personal capacitado: Son los médicos veterinarios y otros técnicos en materia de cuidado, atención, manejo y aprovechamiento animal, que presten sus servicios y que cuenten con constancia oficial de estudios avalada por las autoridades competentes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XLV. Plan de contingencia: Instrumento que se deriva de un análisis de riesgo de un establecimiento, en donde se identifican aquellas amenazas naturales e inducidas que pueden afectar a la salud de los seres vivos estableciendo las contramedidas más adecuadas y las diferentes alternativas para su estancia;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XLVI. Poseedor: Persona física o moral que, sin tener el título de propietario o sin ser Encargado, posee un Animal y es responsable del cumplimiento de esta Ley y de los daños y perjuicios que el Animal ocasione a terceros;
+
+XLVII. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2021)
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XLVIII. Propietario: Persona física o moral que posee un Animal a título de dueño y es responsable del cumplimiento de esta Ley y de los daños y perjuicios que el Animal ocasione a terceros;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XLIX. Protocolo de Adopción: Lineamientos establecidos en conjunto por las asociaciones protectoras y los Ayuntamientos para entregar animales en adopción a personas que llenen los requisitos para tal fin;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+L. Refugio: Lugar que asemeja las condiciones naturales donde un Animal puede albergarse, morar y resguardarse de las inclemencias del clima;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+LI. Riesgo Zoosanitario: Probabilidad de transmisión de enfermedades de los Animales a otros animales o al ser humano;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+LII. Sacrificio Humanitario: Procedimiento realizado por un médico veterinario por el cual se provoca la muerte al Animal sin sufrimiento, ya sea por métodos físicos o químicos, sin que el Animal muestre signos de angustia, verificando que haya ocurrido la muerte del Animal en cuestión al constatar la ausencia de signos vitales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+LIII. Sacrificio Humanitario de emergencia: Sacrificio necesario con métodos humanitarios que se practica en cualquier Animal que haya sufrido lesiones traumáticas o afecciones que le causen dolor y sufrimiento; o para aquellos Animales que al estar fuera de control puedan causar algún daño o lesión a las Personas u otros Animales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+LIV. Secretaría: La Secretaría de Recursos Naturales y Medio Ambiente del Estado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+LV. SAGDR: La Secretaría de Agricultura, Ganadería y Desarrollo Rural del Estado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+LVI. Tatuaje: Identificador numérico único y permanente tatuado sobre la piel de los animales y que tiene un registro en la SAGDR o en cualquier otra dependencia de la administración pública;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+LVII. Tenencia Responsable: Conjunto de derechos y responsabilidades de Personas físicas o morales que conlleva la propiedad, posesión o custodia de un animal, y el proporcionarle los cuidados apropiados y el espacio vital, para el bienestar animal;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+LVIII. Uncimiento: Acción de colocar los arreos, riendas y sillas a los Animales de carga, tiro o monta; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+LIX. Vehículos de Tracción Animal: Carros, carretas, instrumentos de labranza o carretones que para su movilización requieren ser tirados o jalados por un Animal.
+
+Los términos definidos en este artículo podrán ser utilizados indistintamente en singular o plural, conforme a la presente Ley a fin de adecuarlos al sentido gramatical correspondiente, sin que por ello se pierda el significado otorgado en el presente artículo.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO II. Disposiciones preliminares
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 4.
 
-Las partes integrantes del Estado son los municipios hasta hoy existentes y los que se erijan conforme a lo dispuesto por esta Constitución, sin perjuicio de las divisiones distritales que, por razón de orden, establezcan las leyes orgánicas y reglamentarias de las distintas ramas de la Administración.
-
-La Ley Orgánica respectiva contendrá la designación de cada uno de los municipios del Estado, así como la de las comisarías que dependan de aquéllos.
-
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+En todo lo no previsto en la presente Ley, se aplicarán de manera supletoria las disposiciones contenidas en la Ley de Gestión Ambiental, la Ley de Salud del Estado de Durango, la Ley Ganadera para el Estado de Durango y demás leyes, reglamentos, normas y ordenamientos aplicables que no se opongan a la presente.
 
 ###### Artículo 5.
 
-Los municipíos continuarán con la extensión y límites que hasta hoy han tenido, salvo los casos a que se contraen las fracciones XII y XIII del Artículo 64 de esta Constitución.
+La aplicación de esta Ley corresponde:
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+I. Al Poder Ejecutivo del Estado, a través de la Secretaría, a la SAGDR, a la Secretaría de Salud, a la Secretaría de Educación y demás dependencias sanitarias del Estado, en el ámbito de sus respectivas competencias; y
+
+II. A los Municipios del Estado, por conducto de las dependencias que se determine en sus Reglamentos.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 6.
 
-La creación de nuevos Municipios, así como las cuestiones de límites entre los existentes, se sujetarán a las prescripciones relativas de esta Constitución.
+La Secretaría, en coordinación con la Secretaría de Salud, la Secretaría de Educación y SAGDR, en el ámbito de sus respectivas competencias y con la participación de Asociaciones, difundirán por los medios apropiados el objeto, contenido, alcance, derechos y obligaciones de esta Ley, buscando implementar programas educativos en materia de bioconservación y tenencia responsable de Animales destinados a fomentar el respeto, el cuidado, la protección y el trato digno y humanitario hacia los Animales.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 7.
 
-Las Islas pertenecientes al Estado dependerán directamente del Ejecutivo mientras no haya en ellas poblaciones debidamente organizadas. Cuando haya en ellas poblaciones organizadas, el Congreso proveerá lo que corresponda a la condición de dichas poblaciones.
+La Secretaría de Educación promoverá en el ámbito de su competencia, una cultura de respeto a los animales.
 
-## TITULO SEGUNDO.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-Habitantes del Estado.
-
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+## TITULO TERCERO. CUIDADO ANIMAL
 
 ###### Artículo 8.
 
-Los habitantes del Estado, por su condición política, se consideran como sonorenses, ciudadanos y extranjeros.
+Corresponde al Ejecutivo del Estado, a través de la Secretaría, en coordinación con SAGDR, la Secretaría de Salud, la Secretaría de Educación:
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+I. Conformar y actualizar, conforme a la información que le proporcionen los Municipios, el registro estatal de Personas físicas o morales dedicadas a la protección, crianza, reproducción, comercialización, vigilancia, entrenamiento, exhibición o cualquier otra actividad análoga relacionada con animales que no sean destinados al consumo humano y, en general, de toda organización relacionada con la conservación y aprovechamiento sustentable de los Animales;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+II. Promover la creación de Centros de Control Animal ante los Ayuntamientos del Estado;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+III. Coadyuvar, con la autoridad competente, en la ejecución de las medidas zoosanitarias, de higiene y de buen funcionamiento para los establecimientos con animales;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+IV. Asesorar a las autoridades municipales que lo soliciten, sobre la adopción de políticas y acciones para el bienestar de los animales y la creación de centros de esterilización que dependan del mismo, con servicio gratuito o a bajo costo, y
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+V. Ejercer las demás atribuciones que determine la presente Ley y otros ordenamientos aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 8 Bis.
+
+Corresponde al Ejecutivo del Estado, a través de la Secretaría:
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+I. Crear Normas Técnicas Ambientales en la materia;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+II. Coadyuvar con el Ayuntamiento para la creación de la reglamentación aplicable;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+III. Vigilar el cumplimiento de las disposiciones legales aplicables para la protección y trato digno y respetuoso a los animales;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+IV. Vigilar los centros de asistencia canina y felina municipales que cuenten con lo establecido en las Normas;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+V. Denunciar ante la autoridad competente las faltas, omisiones o delitos cometidos en contra de los animales; y
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+VI. Las demás establecidas en la legislación aplicable en la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 8 Ter.
+
+Corresponde al Ejecutivo del Estado, a través de la Secretaría, en coordinación con SAGDR, la Secretaría de Salud, la Secretaría de Educación:
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+I. Fomentar y apoyar la creación de Sociedades, Asociaciones o Grupos de Protección de Animales;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+II. Promover campañas de difusión en materia de protección y respeto a los Animales;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+III. Celebrar convenios con la Federación, los municipios, otras Entidades Federativas, así como con organismos e instituciones de los sectores social, académico y privado, relacionados con la materia de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+IV. Vigilar el cumplimiento de las normas oficiales mexicanas expedidas por la Federación, en las materias de su competencia; y
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+V. Las demás establecidas en la legislación aplicable en la materia.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 9.
 
-Son sonorenses:
+Las Autoridades Municipales tendrán las siguientes facultades:
 
-I. Los nacidos en el territorio del Estado.
+I. Vigilar, en coordinación con las autoridades competentes, la instalación de sitios adecuados para la comercialización legal de Animales Domésticos y otorgar la autorización correspondiente;
 
-II. Los mexicanos que tengan una residencia efectiva de dos años en el Estado.
+II. Ordenar la práctica de visitas de inspección y vigilancia, con el objeto de verificar que las condiciones en que se encuentran los Animales sean las establecidas por la Ley y sus disposiciones reglamentarias;
 
-III. Los hijos de padres sonorenses nacidos fuera del Estado, pero dentro del territorio de la República.
+III. Expedir y, en su caso, revocar las autorizaciones, licencias y/o permisos que sean necesarios para realizar las actividades dedicadas a la protección, crianza, reproducción, comercialización, vigilancia, entrenamiento, exhibición o cualquier otra actividad análoga relacionada con animales que no sean destinados al consumo humano y, en general, de toda organización relacionada con la conservación y aprovechamiento sustentable de los Animales;
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+IV. Promover campañas de difusión en materia de reproducción responsable y esterilización de animales de compañía;
+
+V. Conformar y actualizar el registro municipal de Personas físicas o morales dedicadas a la protección, crianza, reproducción, comercialización, vigilancia, entrenamiento, exhibición o cualquier otra actividad análoga relacionada con Animales que no sean destinados al consumo humano y, en general, de toda organización relacionada con la conservación y aprovechamiento sustentable de la fauna, y proporcionar la información que se contenga en los mismos a la Secretaría para la integración del Registro Estatal; y
+
+VI. Las demás que establezca la presente Ley y los Reglamentos Municipales que se relacionen con ésta.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 10.
 
-Son ciudadanos del Estado los varones y las mujeres que teniendo la calidad de ciudadanos de la República, reúnan, además, la de Sonorenses.
+Los Ayuntamientos, establecerán un registro de personas físicas o morales que sean:
+
+I. Propietarios, Poseedores o Encargados de los Animales Potencialmente Peligrosos y Animales Domésticos de Compañía;
+
+II. Quienes realicen actividades de reproducción, cría o enajenación de Animales Domésticos de Compañía; y,
+
+III. Quienes realicen actividades de exhibición, pensión, Adiestramiento, o Albergue de Animales Domésticos de Compañía.
+
+Las autorizaciones y el procedimiento de registro serán expedidos por la Autoridad Municipal, en los términos que se determinen en la presente Ley, los Reglamentos Municipales y demás disposiciones aplicables. Dichas autorizaciones serán independientes de las que se expidan por alguna otra autoridad competente, conforme a otros ordenamientos aplicables.
+
+La inscripción a dicho registro es de carácter obligatorio y para mantenerlo vigente, el interesado deberá renovarla cada dos años, en el caso de cambio de propietario, poseedor o encargado deberá informarlo a la Autoridad Municipal para los efectos a que haya a lugar, conforme a los lineamientos que ésta expida.
+
+REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)
 
 ###### Artículo 11.
 
-Son Extranjeros los considerados así por la Constitución General de la República.
+La SAGDR en el ámbito de su competencia, establecerá un registro de personas físicas o morales que sean:
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+I. Propietarios, poseedores o encargados de Animales Silvestres, de Carga y Tiro, y de Abasto;
+
+II. Quienes realicen actividades de reproducción, cría o enajenación de animales silvestres, de carga y Tiro, y de Abasto;
+
+III. Propietarios, Poseedores o Encargados de los Animales Potencialmente Peligrosos, cuando sean Animales Silvestres, de Carga y Tiro, y de Abasto; y
+
+IV Quiénes realicen actividades de exhibición, pensión, Adiestramiento, o Albergue de Animales Silvestres, de Carga y Tiro, y de Abasto.
+
+Las autorizaciones y el procedimiento de registro serán expedidos y definidos por la SAGDR. Dichas autorizaciones serán independientes de las autorizaciones que expidan las demás autoridades competentes.
+
+La inscripción a dicho registro es de carácter obligatorio y para mantenerlo vigente, el interesado deberá renovarla cada año. En el caso de cambio de propietario, poseedor o encargado deberá comunicarse a la SAGDR para los efectos a que haya a lugar, conforme a los lineamientos que ésta expida.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 12.
 
-Son obligaciones de los sonorenses:
-
-I. Enviar a sus hijos o pupilos menores de quince años a las escuelas públicas o privadas para obtener la instrucción primaria elemental y militar durante el tiempo que marque la Ley de Educación Pública.
-
-II. Acudir en los días y horas designados al llamado de la autoridad para obtener la instrucción cívica y militar correspondiente.
-
-III. Alistarse y servir en la Guardia Nacional que en el Estado se organice conforme a las leyes relativas.
-
-IV. Contribuir para los gastos públicos del Estado y municipios en que residan, de la manera proporcional y equitativa que dispongan las leyes.
-
-V. Respetar y obedecer las leyes, instituciones y autoridades de la Federación, del Estado y del municipio.
-
-VI. Ayudar, en el lugar en donde se encuentren, a las autoridades del Estado a la conservación del orden.
-
-VII. Tomar las armas en defensa de la soberanía, leyes, instituciones y autoridades legítimas del Estado, cuando éstas lo requieran en los términos de la Ley.
-
-VIII. Inscribirse de acuerdo con las leyes relativas en el padrón y catastro del municipio donde residan.
-
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+Los Municipios deberán contar con al menos un Centro de Asistencia Animal, apegándose a la presente Ley, a los reglamentos municipales de la materia y a las Normas Oficiales Mexicanas aplicables.
 
 ###### Artículo 13.
 
-Son obligaciones de los ciudadanos sonorenses:
+Todo Propietario, Poseedor o Encargado de un Animal queda sujeto a las disposiciones de la presente Ley y a los Reglamentos Municipales que se expidan con arreglo a la misma.
 
-I. Las mismas enumeradas para los sonorenses.
+Cuando un Animal cause un daño a terceros, en su persona o en sus bienes, su Propietario, Poseedor o Encargado, según sea el caso, será responsable del resarcimiento del mismo en los términos que disponga (sic) las Leyes aplicables.
 
-II. Votar en las elecciones populares del Estado en el distrito electoral o municipio que les corresponda.
-
-III. Desempeñar, cuando tengan los requisitos de Ley, los cargos de elección popular del Estado.
-
-IV. Desempeñar los cargos concejiles en el municipio donde residan, así como las funciones electorales y las de jurado, conforme lo ordenan las leyes respectivas.
-
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 14.
 
-Son obligaciones de los extranjeros:
+Quien sea Propietario, Poseedor o Encargado de un Animal Potencialmente Peligroso deberá:
 
-I. Respetar y obedecer las leyes, instituciones y autoridades de la Federación, del Estado y del Municipio.
+I. Estar debidamente inscritos (sic) en el registro que establecen los artículos 10 y 11, según corresponda, de esta Ley;
 
-II. Contribuir para los gastos públicos del Estado y Municipios en que residan, de la manera proporcional y equitativa que dispongan las leyes.
+II. Colocar avisos que alerten del riesgo en el lugar donde se encuentre el Animal;
 
-III. No inmiscuirse en asuntos políticos.
+III. Contar con las medidas necesarias de seguridad al salir a la vía pública, tales como el uso del collar, la correa y la placa de identificación de manera obligatoria, así como el uso del bozal, entre otras;
 
-IV. Inscribirse de acuerdo con las leyes relativas en el catastro del municipio donde residan.
+IV. Comprobar que se cuenta con la infraestructura material, técnica y humana para atender al Animal y prestarle las atenciones necesarias para su bienestar y seguridad, en términos de esta Ley; y
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+V. Contar con la cartilla de vacunación del animal actualizada, según corresponda conforme a su especie y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 15.
 
-Los mexicanos no sonorenses tienen las mismas obligaciones que los sonorenses. No podrán inmiscuirse en los asuntos políticos que se refieran al Estado o a los Municipios, mientras no adquieran la calidad de sonorenses.
+No se permitirá el uso de Animales para efectuar prácticas de entrenamiento de animales de guardia, protección o ataque, o para verificar su agresividad.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 16.
 
-Son derechos o prerrogativas del ciudadano sonorense:
+Quedan prohibidas las peleas de perros, así como azuzarlos para que se acometan entre ellos y hacer de las peleas así provocadas un espectáculo público o privado, así como facilitar inmuebles a título oneroso o gratuito, para que tengan lugar dichas peleas.
 
-I. Votar en las elecciones populares del Estado.
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-II. Poder ser votado para los cargos de elección popular en el Estado y nombrado para cualquier otro empleo o comisión.
+Artículo 16 bis.- Se prohíbe tatuar u ordenar la realización de tatuajes en animales que no sean los estrictamente permitidos por esta ley, así como colocar u ordenar la colocación de piercing o perforaciones con fines meramente estéticos en los mismos.
 
-III. Asociarse para tratar los asuntos políticos del Estado.
+Además de lo anterior, queda prohibido realizar mutilaciones o modificaciones innecesarias o que sean de índole meramente estética en los animales.
 
-IV. Tomar las armas en el Ejército o Guardia Nacional para la defensa de la República, del Estado y de sus instituciones.
-
-V. Ejercer en toda clase de asuntos políticos el derecho de petición.
-
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 17.
 
-Los sonorenses, en igualdad de circunstancias, serán preferidos a los demás mexicanos para el desempeño de los cargos públicos o empleos del Estado, siempre que llenen los requisitos que las leyes exijan.
+Se prohíbe utilizar Animales para prácticas y competencias de tiro al blanco. Los Municipios en el ámbito de sus respectivas competencias, vigilarán el estricto apego a esta disposición.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 18.
 
-La calidad de ciudadano sonorense se pierde:
+En los lugares en los que se lleve a cabo actividades de recreación, exhibición y cautiverio de Animales, tales como criaderos, tiendas de Animales, circos, ferias, zoológicos, parques de diversiones, Bioparques, acuarios y colecciones privadas de Animales, se deberá proporcionar a los Animales áreas adecuadas y en la medida de lo posible, condiciones de hábitat que emulen a las naturales según la especie, así como su desarrollo armónico a través de la implementación de programas de Bienestar Animal, garantizando la seguridad de éstos y de las personas, debiendo contar con las autorizaciones, permisos y licencias que resulten aplicables.
 
-I. Por dejar de ser ciudadano mexicano.
-
-II. Por adquirir la condición de ciudadano de otro Estado de la República.
-
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 19.
 
-Tienen suspensos los derechos o prerrogativas de ciudadanos del Estado:
+Queda prohibido ofrecer y proporcionar alimentos u objetos, de parte del público visitante, a los Animales que permanezcan en cautiverio en acuarios, Bioparques, criaderos, circos, ferias, tiendas de Animales, parques de diversiones y zoológicos, exceptuando los casos en los cuales en dichos lugares se proporcione el alimento para la convivencia con el Animal.
 
-I. Los que hayan sido suspendidos en sus prerrogativas o derechos como ciudadanos mexicanos por las causas enumeradas en la Constitución General de la República.
+Será solidaria la responsabilidad de la persona visitante, y en su caso con el Propietario, Poseedor o Encargado del Animal, que negligente o dolosamente permita o proporcione, según sea el caso, alimentos u objetos cuya ingestión o presencia cause daño al. Animal, de las sanciones administrativas y gastos veterinarios para restablecer la salud del Animal.
 
-II. Los que faltaron sin causa justificada a las obligaciones de ciudadano que les imponen las fracciones II, III y IV del Artículo 13 de esta Constitución.
-
-III. Los procesados desde que se dicte el auto de formal prisión hasta que cause ejecutoria la sentencia que los absuelva.
-
-IV. Los funcionarios y empleados públicos procesados por delitos comunes u oficiales, desde que se resuelva haber lugar a formación de causa hasta que se declare ejecutoriada la sentencia que los absuelva o extingan la pena que les fuere impuesta.
-
-V. Los que por sentencia ejecutoriada sean condenados a pena corporal o a suspensión de derechos hasta que la extingan.
-
-VI. Los que por causa de enfermedad mental tuvieren en suspenso el ejercicio de sus derechos civiles.
-
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 20.
 
-Fuera de los casos ya especificados en el artículo anterior, la ley determinará la duración de la suspensión así como también cuando se pierden tales derechos y los requisitos necesarios para que el ciudadano sonorense quede rehabilitado en sus prerrogativas o derechos suspendidos.
+El Propietario, Poseedor o Encargado de un Animal tendrá las siguientes obligaciones:
 
-## TITULO TERCERO.
+I. Esterilizar a los Animales Domésticos de Compañía, a partir de los dos meses de vida, quedando prohibida la reproducción de éstos, salvo que el criador se encuentre registrado como tal ante la Autoridad competente y cumpla con los requisitos y obligaciones para la cría, enajenación y exhibición de Animales, en términos de esta Ley, justificando además el propósito de la crianza para efecto de evitar el detrimento de la raza; como consecuencia de taras genéticas.
 
-Soberanía del Estado y Forma de Gobierno.
+II. Asegurar, para el caso de los Animales Domésticos de Compañía, que porten en su cuerpo de forma permanente la placa de identificación, chip y/o tatuaje, y al salir a la vía pública contar con las medidas necesarias de seguridad tales como el collar y la correa de manera obligatoria, así como el uso del bozal, en caso de ser necesario;
 
-### CAPÍTULO XVI. DEL FONDO DE PROTECCIÓN CIVIL
+III. Suministrarle al Animal los Cuidados Apropiados atendiendo a la especie, hábitos naturales, raza y edad, que permita la ingestión, y satisfaga las necesidades instintivas, metabólicas y fisiológicas de su cuerpo, así como las atenciones afectivas para su desarrollo;
 
-### CAPITULO I.
+IV. Proporcionar al Animal los tratamientos veterinarios preventivos y curativos para atender sus enfermedades;
 
-Soberanía.
+V. Brindarle al Animal un Refugio, que sea adecuado en dimensiones atendiendo a su especie, raza y tamaño, que le permita protegerse de las condiciones climatológicas y de cualquier otro factor externo que le ocasione o pudiere ocasionarle daño, sufrimiento o tensión;
+
+VI. Proveer al Animal Silvestre en Cautiverio, de un espacio vital que cumpla con las medidas de seguridad para su adecuada estancia e impida su escape al exterior, así como que le permita el libre movimiento, y que en la medida de lo posible emule su hábitat natural;
+
+VII. Proporcionar al Animal la higiene necesaria tanto en su cuerpo como en su área de estancia;
+
+VIII. En caso de que impere la necesidad de llevar a cabo el sacrificio del Animal deberá verificar que se practique por personal calificado y que el establecimiento en el cual se vaya a realizar cumpla con las disposiciones aplicables, así como que se empleen las técnicas necesarias para la Insensibilización del animal antes del acto;
+
+IX. No abandonar a los Animales que tenga bajo su custodia o bajo cualquier titulo legal o encargo, así como no permitir que éstos salgan de su área de resguardo sin supervisión o control;
+
+X. Proporcionar preferentemente a los Animales de Carga, Tiro y Monta el tipo de herraduras y accesorios adecuados que se utilicen en zonas urbanizadas o asfaltadas. Es obligatorio el mantenimiento del herraje con la frecuencia que en cada caso sea requerida para garantizar el Bienestar Animal;
+
+XI. Evitar maltratar con brutalidad al Animal destinado a la carga, labranza, tiro o monta, para el adecuado desempeño de su trabajo, y
+
+XII. Las demás previstas en la presente Ley y en los reglamentos municipales de la materia.
+
+## TITULO CUARTO. INTERVENCIONES QUIRÚRGICAS Y SACRIFICIO DE LOS ANIMALES
+
+### CAPÍTULO I. De las Intervenciones Quirúrgicas y Experimentación con Animales
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+### CAPÍTULO III. De las autoridades
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 21.
 
-El Estado de Sonora forma parte de la Federación de los Estados Unidos Mexicanos. Es libre e independiente de los demás Estados de la Federación y soberano en todo lo que se refiere a su administración y régimen interiores. Conserva con los demás Estados de la Unión las relaciones que le impone la Constitución General de la República.
+Los animales domésticos abandonados o callejeros cuyo dueño se ignore se reputarán como mostrencos para todos los efectos legales y deberán ser retenidos y custodiados por las autoridades en lugares adecuados o apropiados o bien confinados a las asociaciones protectoras de animales.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 22.
 
-La soberanía reside esencial y originariamente en el pueblo sonorense y se ejerce por medio de los Poderes Públicos del Estado. El Gobierno es, pues, emanación genuina del pueblo y se instituye para beneficio del mismo.
+Todo propietario, poseedor o encargado de un animal que voluntariamente lo abandone y cauce por tal motivo un daño a terceros, será responsable del animal y de los perjuicios que ocasione.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 23.
 
-El Estado de Sonora no reconoce en los Poderes Supremos de la Unión ni en otro alguno, derecho para pactar o convenir entre ellos o con nación extraña, aquello que lesione la integridad de su territorio, su nacionalidad, soberanía, libertad e independencia.
+Cualquier acto de crueldad hacia un animal doméstico, ya sea intencional o imprudencial, será sancionado en los términos de la presente Ley y demás disposiciones legales aplicables.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 24.
 
-Los Supremos Poderes del Estado ejercerán todas aquellas facultades que se les confieren por la Constitución General de la República, esta Constitución Local y las leyes que de ellas emanen.
+Son actos de crueldad a los animales domésticos:
 
-### CAPITULO II.
+I. Los actos u omisiones que sean susceptibles de causar a un animal dolores o sufrimientos considerables o que afecten gravemente su salud e integridad física;
 
-Forma de Gobierno.
+II. El torturar o maltratar a un animal por maldad, brutalidad, egoísmo o grave negligencia;
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+III. El descuidar la morada y las condiciones de ventilación, movilidad, higiene y albergue de un animal, a punto tal que esto pueda causarles sed, insolación, dolores considerables o atente gravemente contra su salud; y
+
+IV. El no proporcionarles una alimentación suficiente para poder cubrir sus necesidades vitales.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+### CAPÍTULO I. De los Propietarios, Poseedores y Encargados de los Animales
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 25.
 
-De acuerdo con la Constitución General de de (sic) los Estados Unidos Mexicanos, el Estado de Sonora adopta para su régimen interior la forma de gobierno republicano, representativo y popular, teniendo como base de su división territorial y organización política y administrativa el Municipio Libre, según la presente Constitución y las leyes que de ella emanen.
+Toda Persona física o moral que se dedique a la cría de animales domésticos está obligada a brindarles en su desarrollo un trato humanitario, de acuerdo a los adelantos científicos y técnicos que puedan satisfacer el comportamiento natural de su especie y utilizando para ello las condiciones de espacio e higiene que permitan tal desarrollo.
 
-### CAPITULO I.
+### CAPÍTULO II. De los Animales Domésticos
 
-Disposiciones Generales.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+## TITULO QUINTO. OBSERVANCIA DE LA LEY
 
-## TITULO CUARTO.
+### CAPÍTULO I. De la Participación Ciudadana en materia de protección Animal
 
-División de Poderes.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO XX. DE LOS PARTICULARES
+### CAPÍTULO III. De los Animales Silvestres en Cautiverio
 
-### CAPITULO II.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Poder Legislativo.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2015)</small>
 
 ###### Artículo 26.
 
-El Supremo Poder del Estado se divide para su ejercicio en LEGISLATIVO, EJECUTIVO Y JUDICIAL.
+Los zoológicos que operen en el Estado estarán a cargo de las autoridades estatales o municipales y se ajustarán a las Normas Oficiales Mexicanas que determinen los principios básicos de trato digno y respetuoso de los animales, así como a los reglamentos de funcionamiento que al efecto expidan las autoridades competentes y solo podrán operar si cuentan con planes de manejo autorizados por la Secretaría de Medio Ambiente y Recursos Naturales; quiénes tendrán como objetivo central la educación ecológica, el respeto al medio ambiente y la protección para su reproducción y desarrollo de las especies.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2015)</small>
 
 ###### Artículo 27.
 
-No podrán reunirse dos o más Poderes en una sola persona o corporación, ni depositarse el Legislativo en un solo individuo, excepto en el caso previsto por la fracción XXXIII del Artículo 64 de esta Constitución.
+Los zoológicos deberán mantener a los animales en instalaciones amplias, de manera que se les permita la libertad de movimiento y la satisfacción de sus necesidades vitales, así como asegurar las condiciones de seguridad pública e higiene. Iguales medidas deberán adoptar las ferias que exhiban o utilicen animales.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 28.
 
-Los Poderes del Estado residirán en la capital del mismo. Esta será la ciudad de Hermosillo, sin perjuicio de la facultad concedida al Congreso en el Artículo 64 fracción XIV de la presente Constitución.
+Las autoridades podrán autorizar la operación de zoológicos a cargo de particulares cuando éstos cubran los requisitos sanitarios y los reglamentos de funcionamiento y seguridad pública que emitan las autoridades competentes.
 
-### CAPITULO III.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-Poder Ejecutivo.
+### CAPÍTULO IV. De los Animales Silvestres
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 #### SECCION I.
 
@@ -311,7 +639,9 @@ Congreso del Estado.
 
 ###### Artículo 29.
 
-El ejercicio del Poder Legislativo del Estado se depositará en una Asamblea de Representantes del pueblo, denominada "CONGRESO DEL ESTADO DE SONORA".
+Los particulares que obtengan las autorizaciones de funcionamiento a que se refiere el artículo anterior deberán cumplir estrictamente con las disposiciones de esta Ley y demás disposiciones aplicables a fin de mantener su autorización de funcionamiento, la cual deberá ser refrendada anualmente y expresamente por la autoridad competente.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 #### SECCION II.
 
@@ -321,45 +651,35 @@ Elección de Diputados.
 
 ###### Artículo 30.
 
-Los Diputados al Congreso del Estado serán electos en su totalidad cada tres años.
-
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+En todo caso la dirección de los zoológicos estará a cargo de un médico veterinario o especialista equivalente, quien otorgará una responsiva sobre la seguridad de los visitantes, de los trabajadores del zoológico y sobre el cuidado de los animales en cautiverio.
 
 ###### Artículo 31.
 
-La división del Estado en distritos electorales se hará proporcionalmente al número de habitantes. Los distritos electorales no podrán tener menos de veinticinco mil ni más de cien mil habitantes; y por cada uno de aquéllos se elegirá un diputado propietario y un suplente, en el concepto de que los distritos no podrán ser menos de nueve.
+Ninguna persona tiene derecho a apropiarse de animales silvestres o a mantenerlos en cautiverio, salvo que disponga de la autorización de las autoridades correspondientes.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 32.
 
-La elección de Diputados será directa, en los términos que disponga la Ley Electoral.
-
-> <small>(REFORMADO, B.O. 21 DE MAYO DE 1960)</small>
+Las autoridades estatales y municipales, los clubes de caza, las Asociaciones Civiles y los habitantes en general del Estado, coadyuvarán con las autoridades federales competentes para garantizar la conservación, restauración y fomento de la fauna silvestre que existe en la entidad y en el cumplimiento de las disposiciones en materia de comercio exterior.
 
 ###### Artículo 33.
 
-Para ser diputado propietario o suplente al Congreso del Estado se requiere:
+Queda expresamente prohibida la caza de cualquier especie animal silvestre en el Estado de Durango a excepción de la que se efectúe en aquellos cotos de caza que las autoridades fijen para fines deportivos, conforme a las Leyes y reglamentos aplicables. Se entiende por coto de caza una superficie delimitada y destinada por la autoridad competente a la caza deportiva, en los términos de las disposiciones federales aplicables.
 
-I. Ser ciudadano sonorense en ejercicio de sus derechos políticos.
-
-II. Tener veinticinco años cumplidos el día de la elección.
-
-III. Haber residido en el Estado, cuando menos un año inmediatamente anterior al día en que se haga la elección, tratándose de los nativos del mismo; y cinco años inmediatamente anteriores al día de la elección, en el caso contrario.
-
-IV. No haber sido Gobernador del Estado dentro del período en que se efectúe la elección, aún cuando se hubiese separado definitivamente de su puesto.
-
-V. No habr (sic) sido Magistrado del Supremo Tribunal, Procurador General de Justicia, Secretario de Gobierno, Tesorero General del Estado, Presidente Municipal, ni ejercido mando militar alguno en el Distrito Electoral de la elección, dentro de los noventa días inmediatamente anteriores al día de la elección.
-
-VI. No pertenecer al estado eclesiástico, ni ser ministro de ningún culto religioso.
-
-VII. Ser nativo del distrito electoral respectivo, o no siéndolo tener cuando menos un año de residencia en él.
-
-VIII. No haber sido diputado propietario en el período en que se efectúe la elección. Los suplentes podrán ser electos siempre que no hubiesen estado en ejercicio dentro de dicho período; pero los diputados propietarios no podrán ser electos con el carácter de suplentes.
-
-IX. No haber sido diputado o senador propietario al Congreso de la Unión, dentro del período en que se celebre la elección. Los diputados y senadores suplentes podrán ser electos con el carácter de propietarios siempre que no hubieren estado en ejercicio dentro del período en que se celebre la elección; pero los diputados y senadores propietarios no podrán ser electos con el carácter de suplentes.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 34.
 
-Los Diputados rendirán la protesta de Ley ante el Congreso o ante la Diputación Permanente.
+El ejercicio del derecho de caza se regirá por los reglamentos administrativos y en todo caso se observarán las siguientes reglas:
+
+a) Se considera capturado el animal que ha sido muerto por el cazador durante el acto venatorio y también el que está preso en redes;
+
+b) Si la presa herida muere en terrenos ajenos, el propietario de éstos o quien lo presente, deberá entregarla al cazador o permitir que entre a buscarla y en todo caso deberá mostrar la autorización administrativa para la caza, y en caso de no disponer de la misma el propietario deberá dar aviso inmediato a la autoridad administrativa correspondiente; y
+
+c) El propietario que infrinja el inciso anterior pagará el valor de la pieza y el cazador perderá ésta si entra a buscarla sin permiso de aquel o sin disponer de la autorización administrativa correspondiente.
+
+> <small>(REFORMADO, P.O. 12 DICIEMBRE DE 2013)</small>
 
 #### SECCION III.
 
@@ -369,99 +689,163 @@ Instalación y funcionamiento del Congreso.
 
 ###### Artículo 35.
 
-El Congreso del Estado se instalará el día dieciséis de septiembre del año de su elección.
+Las curtidurías, tenerías y establecimientos de taxidermia que se dediquen a la preparación de pieles de animales silvestres, están obligadas a requerir del interesado el permiso correspondiente y a llevar un libro de control de las piezas preparadas.
 
-> <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 36.
 
-El Congreso no podrá abrir sus sesiones ni ejercer su encargo sin la concurrencia de las dos terceras partes del número total de sus miembros.
+Los establecimientos a que se refiere el artículo anterior deberán disponer de una autorización expresa de la autoridad sanitaria competente para su funcionamiento.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 37.
 
-Si el día señalado por la Ley para la instalación del Congreso no se presentaren todos los diputados propietarios electos, o si una vez instalado no hubiere quórum para que ejerza sus funciones, los que asistieren compelerán a los ausentes a que concurran dentro de los primeros quince días, con la advertencia de que si no lo hacen perderán su carácter. En este caso se llamará a los suplentes con un plazo igual, y si tampoco se presentaren se declarará vacante el puesto y suspensos unos y otros en el uso de sus derechos de ciudadanos, por todo el tiempo que deberían durar en su encargo.
-
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+Las autoridades estatales y municipales coadyuvarán con las autoridades federales en la prevención y persecución de los delitos y faltas de caza que se señalan en la Ley Federal de la materia y en el título quinto de esta Ley.
 
 ###### Artículo 38.
 
-Una vez declarado vacante el puesto en los términos del Artículo anterior, el Ejecutivo del Estado convocará a elecciones extraordinarias en los Distritos cuyos Representantes no se hubieren presentado a ocupar su asiento en el Congreso, siempre que hayan de transcurrir más de seis meses para que se efectúen las elecciones ordinarias.
+Para la enajenación de Animales en el Estado de Durango que deban registrarse ante la Autoridad Municipal o ante la SAGDR, de conformidad con las disposiciones de esta Ley, el propietario deberá dar aviso de la enajenación del Animal a la Autoridad que corresponda, según sea el caso, dentro de los siguientes sesenta días naturales contados a partir de la fecha de su enajenación, proporcionando para tal efecto los datos del nuevo propietario.
+
+El propietario que enajene un Animal sin dar aviso a la Autoridad competente, además de las sanciones administrativas correspondientes, será responsable de los daños y perjuicios que ocasione el Animal que se encuentre registrado a su nombre. De la misma manera, las Asociaciones realizarán el aviso a que se refiere el presente artículo.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 39.
 
-En todos los casos en que por cualquiera causa desaparezca el Congreso, el Ejecutivo convocará a elecciones extraordinarias de Diputados transcurrido un mes después de la fecha de la desaparición. La elección e instalación del Congreso se verificará como lo determine la Convocatoria respectiva.
+Queda prohibida la Enajenación de Animales en los siguientes casos:
+
+I. A menores de edad e incapaces;
+
+II. En la vía pública y en general en todos aquellos lugares que no cuenten con los permisos de las autoridades correspondientes;
+
+III. En el caso de los Animales Domésticos de Compañía, se prohíbe su uso como artículos promocionales, premios en sorteos, rifas, loterías o promociones comerciales;
+
+IV. Cuando se trate de Animales Domésticos de Compañía que no estén previamente esterilizados, salvo aquellos que sean enajenados a Personas físicas o morales que estén debidamente inscritos en el registro para la reproducción de Animales Domésticos de compañía para ser utilizados en la reproducción como pie de cría y cuyo propósito de crianza esté debidamente justificado a efecto de evitar el detrimento de la raza como consecuencia de taras genéticas.
+
+V. Cuando se trate de Animales Domésticos de Compañía con edad menor a dos meses; ó,
+
+VI. La que se realice por Personas físicas o morales que no estén debidamente inscritas en el registro a que se refieren los artículos 10 y 11 de esta Ley.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 40.
 
-Para designar el Congreso electo en la forma establecida en el Artículo anterior, se añadirá al número que le corresponda la palabra "BIS", si dentro del período constitucional del Congreso desaparecido se instalare el nuevo.
+La utilización de Animales en exhibiciones o eventos de los permitidos por esta Ley requiere la autorización previa y por escrito de la Autoridad competente, según corresponda, conforme al procedimiento que al efecto se establezca.
+
+En todos los casos la SAGDR y los Municipios, según corresponda, vigilarán que la actividad se realice bajo condiciones de Bienestar Animal, sin incidir en actos de maltrato o crueldad.
+
+Los organizadores de dichas exhibiciones y eventos, así como los expositores, serán responsables del maltrato animal y de las violaciones a esta Ley y ambos podrán ser objeto de las sanciones a que se refiere la presente Ley y demás ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 41.
 
-El Congreso tendrá en el año dos períodos de sesiones ordinarias; el primero comenzará el diez y seis de Septiembre y terminará el quince de Diciembre y el segundo comprenderá desde el primero de Abril hasta el último de Junio. Ambos períodos pueden ser prorrogables.
+Las personas físicas o morales que realicen actividades de enajenación y exhibición de Animales que arriben al territorio del Estado con Animales de otras entidades federativas con el objetivo de trasladar su dominio, deberán cumplir y quedarán sujetas a todas y cada una de las disposiciones y limitaciones establecidas en la presente Ley, incluyendo la desparasitación, vacunación, venta en lugares autorizados y prohibiciones de enajenación y para el caso de Animales Domésticos de Compañía adicional la esterilización.
+
+De igual forma deberán poner en observación a los Animales por un período mínimo de tres días y posterior a este tiempo deberán realizarse los análisis médicos veterinarios correspondientes y emitirse el certificado de salud correspondiente.
+
+Los Animales Domésticos de Compañía en exhibición y/o para su enajenación deberán proporcionárseles los paseos necesarios para que se ejerciten y no deberán permanecer de manera continua por períodos de más de cuarenta y ocho horas en jaulas, corrales, vitrinas o similares.
 
 ###### Artículo 42.
 
-En el primer período el Congreso se ocupará preferentemente de discutir y aprobar los Presupuestos de Egresos e Ingresos para el año siguiente. El segundo período se destinará, de preferencia, a examinar y calificar la Cuenta de Gastos hechos en el año anterior.
+Las personas físicas o morales que realicen actividades de reproducción, cría o enajenación de Animales Silvestres, que estén permitidos por la legislación federal, la Ley Ganadera para el Estado de Durango y demás disposiciones aplicables, deberán:
+
+I. Destinar un área que reúna las condiciones de seguridad y protección necesarias para que los Animales Silvestres no queden expuestos a las inclemencias del clima, y otros factores que les ocasionen alteración en de (sic) estado de salud, así como que cuenten con el acondicionamiento adecuado para el proceso de reproducción;
+
+II. Contar con los permisos necesarios;
+
+III. Obtener el permiso de la Secretaría de Salud del Estado, y estar debidamente inscritos en el registro, al que refieren los artículos 10 y 11 de esta Ley sin perjuicio de lo que establezcan los reglamentos municipales de la materia y demás disposiciones legales aplicables;
+
+IV. Llevar y mantener actualizado un registro de la procedencia y destino de cada uno de los Animales Silvestres, el cual deberá contener como mínimo el nombre del propietario, domicilio, características del Animal y nombre, marcaje o identificación;
+
+V. Proporcionar al comprador la guía informativa del Animal Silvestre del cual transmiten el dominio, la cual deberá firmar el comprador y en donde se establecerá de forma clara, que en caso de transferir la responsabilidad adquirida, a las autoridades, les será aplicable una sanción resarcitoria;
+
+VI. Contar con certificado de salud de cada uno de los Animales Silvestres, expedido por el médico veterinario o responsable técnico; y,
+
+VII. Diseñar e implementar para los establecimientos, centros de exhibición o lugares donde se conserven Animales Silvestres, un plan de contingencia adecuado para:
+
+a) Garantizar el Bienestar Animal de los ejemplares bajo su custodia,
+
+b) Garantizar el bienestar de las personas, debidamente avalado por la autoridad competente en materia de protección civil en término (sic) de la legislación o reglamento aplicable; y
+
+c) Garantizar las condiciones de seguridad y protección en los recintos, que prevenga cualquier fuga, en especial tratándose de animales exóticos.
 
 ###### Artículo 43.
 
-El Congreso tendrá sesiones extraordinarias siempre que la Diputación Permanente lo convoque para ello.
+Los lugares en donde se establezcan criaderos para la reproducción o locales para el Albergue o enajenación de Animales Domésticos de Compañía deberán contar con las instalaciones adecuadas especificas para cada una de las actividades, y con la asesoría de un médico veterinario o técnico responsable, para que las actividades mencionadas se realicen bajo condiciones de Bienestar Animal y demás condiciones establecidas en esta Ley.
 
-> <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 44.
 
-En sesiones extraordinarias el Congreso se ocupará exclusivamente del asunto o asuntos que exprese la Convocatoria respectiva y de los que se califiquen de urgentes, por el voto de las dos terceras partes de los Diputados que concurran.
+Las Personas físicas o morales que realicen actividades de reproducción, cría o enajenación de Animales Domésticos de Compañía deberán:
+
+I. Destinar un área que reúna las condiciones de seguridad y protección necesarias para que los Animales no queden expuestos a las inclemencias del clima, y otros factores que afecte su Bienestar Animal, asimismo que cuenten con el acondicionamiento adecuado para el proceso de reproducción;
+
+II. Contar con los permisos necesarios;
+
+III. Obtener el permiso de la Secretaría de Salud del Estado, y estar debidamente inscritos en el registro, al que refieren los artículos 10 y 11 de esta Ley sin perjuicio de lo que establezcan los reglamentos municipales de la materia y demás disposiciones legales aplicables;
+
+IV. Llevar y mantener actualizado un registro de la procedencia y destino de cada uno de los Animales, el cual deberá contener como mínimo el nombre del propietario, domicilio, características del Animal y nombre, marcaje o identificación;
+
+V. Proporcionar al comprador la guía informativa del Animal del cual transmiten el dominio;
+
+VI. Contar con certificado de salud de cada uno de los Animales, expedido por el médico veterinario o responsable técnico;
+
+VII. Por cuestiones de madurez reproductiva y eficiencia biológica, sólo se podrán aparear una vez al año y hasta la edad de 4 años a las hembras que son pies de cría y será obligatorio que todos los Animales que enajenen o transfieran mediante cualquier título legal a terceros se encuentren debidamente esterilizados, desparasitados y vacunados de acuerdo a su edad biológica, por un médico veterinario. El costo de la esterilización, desparasitación y vacunación, correrá a cargo de quien lleve a cabo la reproducción, cría o enajenación del Animal; y,
+
+VIII. Diseñar e implementar para los establecimientos, centros de exhibición u otros lugares donde se conserven Animales Domésticos de Compañía un plan de contingencia adecuado para garantizar el Bienestar Animal de los ejemplares bajo su custodia, debidamente avalado por la autoridad competente en materia de protección civil en términos de la legislación o reglamento aplicable.
 
 ###### Artículo 45.
 
-Si al comenzar un período de sesiones ordinarias el Congreso estuviere celebrando extraordinarias, cesarán éstas y continuarán discutiéndose en aquellas los negocios para que fue convocado.
+Toda persona que sea Propietario, Poseedor o Encargado de un Animal de Carga y Tiro debe procurarle alimentación, hidratación y cuidados apropiados, así como los tratamientos veterinarios preventivos y curativos, y demás obligaciones que establece esta Ley.
 
-> <small>(REFORMADO, B.O. 24 DE SEPTIEMBRE DE 1969)</small>
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 46.
 
-El último viernes del mes de enero de cada año, con la exclusión del inmediato siguiente a la fecha del inicio de su ejercicio constitucional, asistirá el Gobernador a la sesión especial que en ese día deberá celebrar el Congreso ante quien rendirá, en el acto, un informe sobre el estado que guarde la Administración Pública en sus diversos ramos.
+La vida laboral de los Animales de Carga y Tiro será considerando su edad y condiciones fisiológicas, siempre y cuando gocen de salud para el desempeño de dichas actividades.
 
-El último año de su ejercicio constitucional, el Gobernador rendirá el informe a que este precepto se refiere el día trece de septiembre en el acto de la toma de posesión del Gobernador electo para el siguiente período.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 47.
 
-Los Diputados que no concurran a una sesión sin causa justificada, o sin permiso del Congreso, no tendrán derecho a la dieta correspondiente.
+Los equinos y bovinos que se utilicen para la carga y tiro deberán contar con el marcaje requerido en la Ley Ganadera para el Estado de Durango, debiendo cumplir con todos los ordenamientos aplicables, procurando el menor dolor o sufrimiento para el Animal.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 48.
 
-El diputado que falte a cinco sesiones consecutivas dentro del período, sin causa justificada o sin previa licencia del Congreso, no podrá concurrir sino hasta el período inmediato y se llamará desde luego a su suplente.
+Los Animales de Carga y Tiro serán cargados teniendo en cuenta sus condiciones físicas y fisiológicas y no podrán utilizarse por periodos que rebasen su resistencia, debiendo proporcionar al Animal los periodos de descanso necesarios para no causarle agotamiento, sufrimiento, heridas, laceraciones, enfermedad o muerte.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 49.
 
-Los diputados suplentes substituirán a los propietarios en todas sus faltas temporales y absolutas.
+Los Animales de Carga y Tiro en condiciones fisiológicas no aptas, como los desnutridos, enfermos, con lesiones en la columna vertebral o extremidades, contusiones, heridas o laceraciones o hembras próximas al parto, entendiéndose por éste, el último tercio de la gestación, no podrán ser utilizados para carga y tiro.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 50.
 
-Los diputados en funciones, durante el período de su encargo, no podrán desempeñar comisión o empleo alguno de la Federación, de los otros Poderes del Estado o del Municipio, disfrutando sueldo o remuneración, a no ser que tengan licencia del Congreso; pero concedida que fuere esta licencia, cesarán en sus funciones legislativas mientras desempeñan el empleo o comisión. La infracción de esta disposición será castigada con la pérdida del carácter de diputado.
+Los vehículos de tracción animal no podrán ser cargados con un peso mayor al doble del peso del Animal que se utilice para tirar, y se tendrá en cuenta las condiciones físicas y fisiológicas de los Animales que se empleen.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 51.
 
-Los Diputados son inviolables por las opiniones que emitan en el desempeño de su encargo, y jamás podrán ser reconvenidos por ellas.
-
-> <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
+El Estado a través de la Secretaría, los municipios y las Asociaciones, diseñarán e implementarán un programa de substitución progresiva de los Animales de Carga y Tiro, utilizados para actividades de trabajo.
 
 ###### Artículo 52.
 
-Toda resolución del Congreso tendrá el carácter de Ley, decreto o acuerdo.
+Los establecimientos e instalaciones en donde se realice la exhibición, hospedaje, albergue o Adiestramiento de Animales deberán de cumplir con lo que establezcan las Normas Oficiales Mexicanas en la materia que determinen los principios básicos de trato digno y respetuoso de los animales, deben ser adecuados y específicos para cada una de esas actividades, ser salubres y contar con el mantenimiento apropiado bajo la asesoría de un responsable médico veterinario que supervise que las actividades se realicen bajo condiciones de Bienestar Animal y se proporcionen a los Animales los cuidados apropiados.
 
-Será materia de ley toda resolución que afecte a las personas en general; de decreto, la que otorgue derechos o imponga obligaciones a personas determinadas, y de acuerdo, en los demás casos.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-Las leyes y decretos se comunicarán al Ejecutivo firmados por el Presidente y Secretarios de la Legislatura. Los acuerdos se comunicarán por los Secretarios del Congreso.
+Las actividades habituales de exhibición, de Adiestramiento o de hospedaje o albergue temporal de Animales Domésticos de Compañía deberán desarrollarse en establecimientos o instalaciones que cuenten con las autorizaciones de las autoridades correspondientes.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 #### SECCION IV.
 
@@ -469,67 +853,141 @@ Iniciativa y formación de las leyes.
 
 ###### Artículo 53.
 
-El derecho de iniciar leyes compete:
+Las personas físicas o morales que realicen actividades de exhibición, pensión, albergue temporal o Adiestramiento de Animales, estarán obligados, según corresponda, a:
 
-I. Al Ejecutivo del Estado.
+I. Valerse de los medios y procedimientos más adecuados para el Adiestramiento, atendiendo al Bienestar Animal y evitando el maltrato de los mismos;
 
-II. Al Supremo Tribunal de Justicia.
+II. Contar con el certificado de salud de cada uno de los Animales, expedido por el médico veterinario del establecimiento o del lugar de donde provienen;
 
-III. A los Diputados al Congreso de Sonora.
+III. Destinar un área que reúna las condiciones de seguridad y protección necesarias para que los Animales no queden expuestos a las inclemencias del clima;
 
-IV. A los Ayuntamientos del Estado.
+IV. Estar inscrito, si así corresponde, en el registro a que se refieren los artículos 10 y 11 de la presente Ley;
+
+V. Contar con un plan de contingencia para garantizar la seguridad de las personas y el Bienestar Animal de los ejemplares bajo su custodia;
+
+VI. Contar con los permisos y demás autorizaciones que resultan aplicables; y,
+
+VII. Las demás previstos (sic) en la presente Ley y demás ordenamientos legales aplicables.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 54.
 
-El Supremo Tribunal sólo podrá iniciar leyes en el Ramo de Justicia.
+En las actividades de exhibición de Animales queda prohibido incidir o alterar su fenotipo con sustancias, pinturas, accesorios e implementos no ortopédicos ni médicos que pongan en riesgo su vida y afecten su naturaleza o Bienestar Animal, a excepción de las derivadas de procedimientos de esterilización.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 55.
 
-Las iniciativas presentadas por el Ejecutivo o por el Supremo Tribunal pasarán desde luego a Comisión. Todas las demás deberán sujetarse a los trámites que establezca el Reglamento de Debates, trámites que sólo podran ser dispensados por el voto de las dos terceras partes de los Diputados presentes.
+El Adiestramiento para la realización de rutinas, con fines de exhibición y espectáculo deberá realizarse sin causar maltrato a los Animales. Las mismas limitaciones aplicarán al momento en que se lleve a cabo la rutina del (sic) los Animales al público en general.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2015)</small>
 
 ###### Artículo 56.
 
-Aprobado por el Congreso un proyecto de Ley o de decreto pasará al Ejecutivo para su sanción y publicación inmediata, si éste no tuviere observaciones que hacerle.
+Queda prohibido el realizar la exhibición de Animales para promocionar espectáculos, sin autorización de la autoridad municipal. En todo caso los remolques o vehículos automotores, deberán estar adaptados para su traslado, conforme a su especie y tamaño y deberán contar con las medidas de seguridad.
 
-Los acuerdos de la Cámara se comunicarán al propio Ejecutivo para los efectos correspondientes.
+Queda prohibido el uso de ejemplares de vida silvestre en Circos, así como la utilización de ejemplares de mamíferos marinos en espectáculos itinerantes, en los términos de la Ley General de Vida Silvestre.
 
-> <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 57.
 
-Se reputará aprobado por el Ejecutivo todo proyecto de ley o de decreto no devuelto con observaciones al Congreso, o en su receso a la Diputación Permanente, en el término de diez días útiles.
+Queda prohibido el Adiestramiento en los siguientes casos:
 
-El Congreso o la Diputación Permanente podrán ordenar la publicación de las leyes o decretos si el Ejecutivo no lo hace dentro de los ocho días siguientes al vencimiento del término fijado para hacer observaciones, o el día en que reciba la ley o decreto confirmados por aquella Asamblea. En este caso se harán constar las circunstancias que lo motiven.
+I. Cuando su finalidad sea el acometimiento para hacerlo pelear con otros Animales en espectáculos públicos o privados; y,
+
+II. Cuando se dirija a acrecentar y reforzar la agresividad de un Animal, con excepción de los que se entrenen policiacamente con fines de seguridad y de combate.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2015)</small>
+
+III. Cuando no se cumpla con la Normas Oficiales Mexicanas que determinen los principios básicos de trato digno y respetuoso de los animales.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 58.
 
-Si corriendo el término que para hacer observaciones fija el Artículo anterior, el Congreso cierra o suspende sus sesiones, la devolución del Proyecto deberá hacerse a la Diputación Permanente.
+Los adiestradores de Animales Potencialmente Peligrosos estarán obligados a contar con instalaciones debidamente protegidas que proporcionen seguridad, a las personas y al animal. Asimismo deberán contar con un plan de contingencia avalado por la autoridad competente en materia de protección civil que garantice el Bienestar Animal bajo su custodia y de las personas.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 59.
 
-En caso de urgencia notoria, calificada así por las dos terceras partes, cuando menos, de los Diputados presentes, el Congreso podrá reducir los términos concedidos al Ejecutivo para hacer observaciones, sin que en caso alguno puedan ser menores de cuarenta y ocho horas corridas.
-
-> <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
+Las Autoridades Municipales competentes deberán implementar acciones tendientes a la regulación del crecimiento de poblaciones de aves urbanas empleando sistemas adecuados y en su caso, lograr la reubicación de las parvadas, cuando sea posible; lo anterior acompañado de campañas informativas tendientes a desalentar la alimentación de parvadas.
 
 ###### Artículo 60.
 
-Devuelto oportunamente un proyecto con observaciones, deberá ser discutido de nuevo por el Congreso; y si fuere confirmado por las dos terceras partes de los Diputados presentes, el proyecto tendrá carácter de ley o de decreto y volverá al Ejecutivo para su publicación, observándose en cuanto a esta lo dispuesto en los artículos que anteceden.
+El traslado de los Animales en cualquier tipo de vehículo o implementos como cajas, remolques y jaulas, sin perjuicio de lo que dispongan la legislación federal y la Ley Ganadera para el Estado de Durango, deberá realizarse conforme a lo siguiente:
+
+I. Emplear en todo el trayecto los procedimientos que impliquen proveer de alimento y agua antes de su movilización y en sus descansos; y,
+
+II. Procurar la comodidad, descansos y seguridad del Animal durante el traslado y evitar durante todo el procedimiento la crueldad, maltrato, fatiga extrema, exposición a la intemperie, condiciones no higiénicas y carencia de espacio suficiente.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 61.
 
-El Ejecutivo no podrá hacer observaciones a las resoluciones del Congreso cuando éste funja como Colegio Electoral o como Jurado. Tampoco podrá hacer observaciones a los Decretos que convoquen a elecciones.
+En el caso de Animales transportados que fueren detenidos en su camino o arribo al lugar destinado por complicaciones derivadas de accidentes, caso fortuito o de fuerza mayor, procedimientos o diligencias judiciales o administrativas, deberá mantenérseles, en la medida que las circunstancias lo permitan, bajo condiciones optimas.
 
-> <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 62.
 
-Todo proyecto de ley o de decreto que fuere desechado por el Congreso, no podrá ser presentado de nuevo en el mismo período de sesiones.
+En caso de accidente durante el traslado y cuando los Animales queden heridos desahuciados o en agonía se debe utilizar el Sacrificio Humanitario de Emergencia de acuerdo a las normas vigentes.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 63.
 
-En la interpretación, reforma o abrogación de leyes se observarán los mismos trámites establecidos para su formación.
+El traslado de Animales, sin perjuicio de lo que dispongan la legislación federal y la Ley Ganadera para el Estado de Durango, se realizará conforme a las siguientes disposiciones, según corresponda:
+
+I. Animales Domésticos de Compañía:
+
+a) Se deberán utilizar jaulas de viaje cerradas con ventilación u otros mecanismos para la adecuada transportación de los Animales Domésticos de Compañía;
+
+b) Los vehículos que transporten Animales deberán estar debidamente ventilados durante todo el tiempo en que permanezcan en el vehículo;
+
+c) Cuando el traslado se haga en camionetas con caja al descubierto, deben utilizarse jaulas de viaje cerradas con ventilación adecuada y sujetadas correctamente, las que no deberá estibarse más de dos niveles;
+
+d) Queda prohibido trasladarlos en cajuelas de automóviles, así como amarrados o con movimiento libre en cajas de camionetas sin la debida protección;
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+e) Los vehículos de los Centros de Asistencia Animal, deben tener compartimientos separados para el traslado simultáneo de animales domésticos de compañía, en donde no exista contacto físico ni visual entre ellos cuando se trate de distintas especies. Además de contar con ventilación suficiente y adecuada para tal propósito. La captura y traslado de Animales debe realizarse por personal debidamente identificado y capacitado en el Bienestar Animal.
+
+f) Queda prohibido que los establecimientos que enajenen aves domésticas les corten o mutilen sus extremidades, que utilicen bolsas para la entrega y traslado de estas especies a los compradores, o que les amarren las alas cruzadas; y,
+
+g) Las demás que establezcan otras disposiciones legales aplicables.
+
+II. Animales de Abasto:
+
+a) El traslado de los Animales de Abasto comprende desde el acopio, arreo, enjaulado, embarco, traslado y desembarco. Durante estas actividades se debe tener el cuidado debido para evitar lesiones, accidentes, así como el maltrato al Animal, golpear o utilizar ganchos, artículos o herramientas punzo cortantes o instrumentos y accesorios que les cause o pueda causarles heridas, traumatismos o lesiones;
+
+b) Para trasladar animales se deberá cumplir con las regulaciones zoosanitarias que establecen las autoridades sanitarias competentes;
+
+c) Procurar, cuando los Animales se movilicen en grupos heterogéneos, clasificarlos de la forma más pertinente;
+
+d) No debe ser movilizado ningún Animal que no pueda sostenerse en pie por sí mismo, que se encuentre enfermo, herido o fatigado, a menos que la movilización sea por una emergencia;
+
+e) El transporte de aves pequeñas se realizará en cajas o huacales lo suficientemente sólidas para resistir la estiba;
+
+f) Los vagones o remolques de transporte de Animales deben ser limpiados y desinfectados después de cada movimiento de traslado; y,
+
+g) No se movilizarán Animales en horarios en los que, dada la región y la época del año, la temperatura sea excesivamente alta o baja, a tal grado que como efecto de ello los Animales puedan sufrir o morir en el trayecto.
+
+III. Animales Silvestres:
+
+a) Para el transporte de Animales Silvestres se debe cumplir con lo establecido en las Normas Oficiales Mexicanas; y,
+
+b) En el caso de peces, anfibios y reptiles, se tomarán las precauciones necesarias que garanticen en todo momento su seguridad, adecuada oxigenación y para facilitar la ventilación y el mantenimiento durante el trayecto de las temperaturas y humedad cercanas al rango óptimo para cada especie en particular.
+
+Queda prohibida la transportación de cualquier Animal arrastrándolo o suspendido de los miembros inferiores o superiores o ambos.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 #### SECCION V.
 
@@ -539,107 +997,37 @@ Facultades del Congreso.
 
 ###### Artículo 64.
 
-El Congreso tendrá facultades:
+Los Centros de Asistencia Animal, estarán a cargo de las autoridades Municipales y tienen como funciones:
 
-I. Para iniciar leyes y decretos ante el Congreso de la Unión.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-II. Para determinar las profesiones que necesiten título para su ejercicio en el Estado, las condiciones que deban llenarse para obtenerlo y las autoridades que deban expedirlo.
+I. Llevar a cabo como actividad primordial campañas de vacunación y esterilización para Animales Domésticos de Compañía, mismas que deberán ser masivas, gratuitas, sistemáticas y extensivas; de tal manera que el sacrificio de animales no sea el método por elección para el control de poblaciones, para así hacer una transición a métodos éticos de control de la fauna urbana, cuidando en todo momento que los materiales quirúrgicos utilizados sean de calidad y no caducos.
 
-III. Para expedir leyes sobre el fraccionamiento de las grandes propiedades rústicas y sobre el patrimonio de familia, en los términos del artículo 27 de la Constitución General de la República.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-IV. Para ratificar o no la creación de nuevos Estados dentro de los límites de los existentes, de conformidad con el artículo 73 de la propia Constitución General.
+II. Realizar campañas de educación sobre la tenencia responsable de Animales;
 
-V. Para establecer las bases de todo arreglo amistoso sobre límites del territorio de Sonora.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-VI. Para reclamar ante quien corresponda las leyes que se expidan o los actos que se ejecuten por cualquiera autoridad federal o estatal, cuando ataquen la soberanía o independencia del Estado, o cuando por cualquiera causa aquéllos se consideren lesivos al mismo.
+III. Desarrollar programas de difusión tendientes a concientizar a la población en general de la importancia del control de natalidad animal, como medio efectivo de lograr un equilibrio poblacional y para favorecer la adopción de Animales Abandonados;
 
-VII. Para dictar leyes relativas a la salubridad pública del Estado.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-VIII. Para dictar leyes encaminadas a combatir el alcoholismo en el Estado.
+IV. Efectuar el Sacrificio Humanitario de Animales en los términos de la presente Ley;
 
-IX. Para determinar el número máximo de ministros de cultos religiosos que puedan ejercer su ministerio en el Estado, en las condiciones del artículo 130 de la Constitución General de la República.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-X. Para reglamentar el funcionamiento del Municipio Libre como base de la división territorial y de la organización política y administrativa del Estado.
+V. Certificar y capacitar al personal que trabaje en estos centros con especial atención a quienes estén encargados del sacrificio de animales, entendiéndose por esto principalmente una revisión de salud mental; y,
 
-XI. Para arreglar definitivamente los límites de los municipios, salvo el caso de que las cuestiones pendientes tengan un carácter contencioso.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-XII. Para erigir nuevos municipios dentro de los límites de los existentes, siendo necesario, al efecto:
+VI. Las demás previstas en esta Ley y otros ordenamientos jurídicos aplicables.
 
-a). Que la porción territorial de que se trate cuente con una población de diez mil habitantes cuando menos.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-b). Que se compruebe debidamente ante el Congreso que tiene elementos bastantes para proveer a su existencia política.
+Para cumplir con los objetivos de las campañas y programas señalados en este artículo los Municipios del Estado podrán celebrar convenios de colaboración con las autoridades estatales correspondientes, instituciones educativas, centros de investigación y Asociaciones y Personas Interesadas en el tema.
 
-c). Que se conceda al ayuntamiento o ayuntamientos afectados el derecho de ser oído dentro del término de dos meses, contados desde el día en que reciban la comunicación respectiva, sobre la conveniencia o inconveniencia de la nueva creación municipal.
-
-d). Que igualmente se oiga sobre el particular al Ejecutivo del Estado. El informe de éste deberá rendirse dentro de los sesenta días de la fecha en que se hubiese solicitado.
-
-e). Que la creación del nuevo municipio sea aprobada por las dos terceras partes de los miembros del Congreso.
-
-XIII. Para suprimir aquéllos municipios que carezcan de elementos bastantes para proveer a su existencia política, siempre que la supresión sea aprobada por las dos terceras partes de los miembros del Congreso. Decretada la extinción se designará la jurisdicción dentro de la cual quedarán comprendidos los municipios desaparecidos.
-
-Para que la supresión tenga efecto se oirá al ayuntamiento o ayuntamientos interesados y al Ejecutivo del Estado, en los términos establecidos en los incisos c) y d) de la fracción anterior.
-
-XIV. Para trasladar, provisionalmente, fuera de la ciudad de Hermosillo, la residencia de los Poderes del Estado.
-
-XV. Para computar y calificar los votos emitidos en las elecciones de Gobernador y de Diputados y declarar quiénes han sido electos para los cargos respectivos.
-
-XVI. Para resolver sobre la renuncia de sus propios miembros y la del Gobernador, y para conceder licencias a unos y otro.
-
-XVII. Para constituirse en Colegio Electoral y elegir al ciudadano que deba substituir al Gobernador en sus faltas absolutas y en sus faltas temporales cuando éstas excedan de un mes.
-
-XVIII. Para aprobar o rechazar los nombramientos de los Magistrados al Supremo Tribunal de Justicia, que sean hechos por el Ejecutivo.
-
-XIX. Para aceptar a dichos funcionarios la renuncia de sus respectivos cargos y concederles licencia hasta por dos meses con goce de sueldo y por más de ese tiempo sin goce de él.
-
-XX. Para erigirse en Colegio Electoral y calificar, previo el examen de las protestas formuladas, los votos emitidos en las elecciones, a que se refiere la fracción XV; computar dichos votos y hacer la declaratoria correspondiente.
-
-XXI. Para erigirse en Gran Jurado en los casos establecidos por esta Constitución.
-
-XXII. Para discutir, modificar, aprobar o reprobar el Presupuesto de Egresos del Estado, en vista de los datos que le presente el Ejecutivo.
-
-XXIII. Para discutir, modificar, aprobar o reprobar el Presupuesto de Ingresos que le presente el Ejecutivo.
-
-XXIV. Para discutir, modificar, aprobar o reprobar anualmente, los presupuestos de ingresos y egresos de los ayuntamientos.
-
-XXV. Para examinar la cuenta de cada año, y cuando el Congreso lo pida, le presentará el Ejecutivo, debiendo comprender dicho exámen, no sólo la conformidad de las erogaciones con las partidas del Presupuesto de Egresos, sino también la exactitud y justificación de tales erogaciones.
-
-XXVI. Para crear y suprimir empleos públicos del Estado y señalar, aumentar o disminuir sus dotaciones.
-
-XXVII. Para autorizar al Ejecutivo a fin de que contraiga deudas a nombre del Estado, fijándole expresamente las bases a que deba sujetarse, sin contravenir al artículo 117 de la Constitución General de la República.
-
-XXVIII. Para conceder amnistías por delitos cuyo conocimiento corresponda privativamente a los Tribunales del Estado.
-
-XXIX. Para otorgar premios o recompensas a las personas que hayan prestado servicios de importancia a la Nación o al Estado, y declarar beneméritos a los que se hayan distinguido por servicios eminentes prestados al mismo Estado.
-
-XXX. Para aprobar o reprobar la creación de nuevas Comisarías o suprimir las existentes, a iniciativa de los ayuntamientos correspondientes.
-
-XXXI. Para formar su Reglamento Interior y el de Debates, y tomar las providencias necesarias para hacer concurrir a los diputados ausentes y corregir las faltas u omisiones de los presentes.
-
-XXXII. Para nombrar y remover conforme a las leyes a los empleados de su Secretaría y de su oficina de Glosa.
-
-XXXIII. Para investir al Ejecutivo de facultades extraordinarias, por tiempo limitado y por el voto de las dos terceras partes del número total de sus miembros, en casos excepcionales y cuando así lo estime conveniente por las circunstancias especiales en que se encuentre el Estado. En tales casos se expresará con toda claridad la facultad o facultades con que se le invista y que nunca podrá ser las de organización municipal, funciones electorales y de jurado.
-
-XXXIV. Para expedir reglamentos sobre la instrucción de la Guardia Nacional, con sujeción a la fracción XV del artículo 73 de la Constitución General de la República.
-
-XXXV. Para velar por la conservación de los derechos de los ciudadanos y habitantes del Estado y proveer, por cuantos medios estén a su alcance, a su prosperidad general.
-
-XXXVI. Para establecer la nomenclatura política de los poblados del Estado y legislar en todo lo concerniente a su fundo legal, planificación y urbanización, observándose, en su caso, lo que en la misma materia prescriban las leyes federales.
-
-XXXVII. Para calificar definitivamente las elecciones de los ayuntamientos, cuando se pida la nulidad de tales elecciones.
-
-XXXVIII. Para resolver, con estricta sujeción a las leyes, en caso de petición de nulidad, sobre la validez de las elecciones de Gobernador y de diputados.
-
-XXXIX. Para dictar leyes sobre vías de comunicación y aprovechamiento de aguas y bosques que no sean de jurisdicción federal; y sobre el ejercicio, explotación y aprovechamiento de la caza.
-
-XL. Para autorizar al Ejecutivo del Estado a fin de crear fuerzas de servicio temporal en los casos a que se refiere la fracción XIII del Artículo 79 de esta Constitución.
-
-XLI. Para conceder permiso al Gobernador del Estado a fin de que pueda asumir el mando, inmediata y personalmente, en campaña, de la Guardia Nacional y demás fuerzas del Estado.
-
-XLII. Para extender credenciales de senadores al Congreso de la Unión, por el Estado, a los ciudadanos que obtuvieren la mayoría de votos.
-
-XLIII. Para expedir leyes o reglamentos concernientes a la recta aplicación de la Ley Federal del Trabajo, en las materias que ésta encomienda a las autoridades estatales.
-
-XLIV. Para expedir las leyes concernientes a la administración y gobierno interior del Estado en todos sus ramos, interpretarlas, aclararlas o derogarlas y hacer efectivas las facultades expuestas y todas las demás que le confieran la Constitución General de la República, esta Local y las leyes que de ellas emanen.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 #### SECCION VI.
 
@@ -649,9 +1037,9 @@ Diputación Permanente.
 
 ###### Artículo 65.
 
-El mismo día en que el Congreso deba cerrar sus sesiones, antes de entrar en receso nombrará por mayoría de votos y en escrutinio secreto, una Diputación Permanente compuesta de tres miembros propietarios y dos suplentes, que durará hasta el nuevo período ordinario de sesiones. El primero y segundo de los miembros propietarios nombrados serán Presidente y Vice-Presidente, respectivamente, de la Diputación y el otro Secretario. Los suplentes serán llamados a substituir indistintamente al propietario que falte.
+Los Centros de Asistencia Animal, podrán coordinarse con las Asociaciones para que los animales que se encuentren en el supuesto de las fracciones I, II y III del artículo 78 puedan ser entregados para Adopción.
 
-La Diputación Permanente no podrá ejercer sus funciones sin la concurrencia de tres de sus miembros.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 65 Bis.
 
@@ -661,35 +1049,17 @@ La Diputación Permanente no podrá ejercer sus funciones sin la concurrencia de
 
 ###### Artículo 66.
 
-Son facultades de la Diputación Permanente:
+El personal de los Centros de Asistencia Animal, deberán regresar los Animales a sus Propietarios Poseedores o Encargados al término del plazo mencionado en el artículo 78 fracción VI de esta Ley, cuándo así lo soliciten, previa firma de responsiva.
 
-I. Conceder o negar las licencias a que se refiere la fracción XVI del artículo 64 de esta Constitución.
-
-II. Conceder licencia hasta por dos meses con goce de sueldo y por más de ese tiempo sin goce de él, a los Magistrados del Supremo Tribunal de Justicia.
-
-III. Vigilar la exacta observancia de la Constitución General, la Particular del Estado y las leyes que de éstas emanen, dando cuenta al Congreso de las infracciones que advierta.
-
-IV. Circular la convocatoria a sesiones extraordinarias por medio del Presidente, si después del tercer día de comunicada al Ejecutivo éste no lo hubiese hecho.
-
-V. Constituirse en Colegio Electoral y nombrar en los términos de Ley al Ciudadano que deba substituir al Gobernador en sus faltas temporales o absolutas, mientras se reúne el Congreso para que ratifique dicho nombramiento o haga nueva designación.
-
-VI. Recibir durante sus funciones las protestas que deban otorgarse ante el Congreso.
-
-VII. Convocar al Congreso a sesiones extraordinarias para que provea al nombramiento respectivo cuando se trate de cubrir las faltas del Gobernador, igualmente lo hará para que se avoque al conocimiento de los hechos correspondientes, cuando se trate de delitos cometidos por altos Funcionarios del Estado, y en todos aquellos casos que a juicio de la misma Diputación Permanente, sean de gravedad y urgencia.
-
-VIII. Dictaminar únicamente los asuntos cuya resolución definitiva sea de su exclusiva competencia.
-
-IX. Conceder permiso provisional al Gobernador del Estado a fin de que pueda asumir el mando inmediato y personalmente, en campaña, de la Guardia Nacional y demás fuerzas del Estado. Este permiso quedará sujeto a la aprobación del Congreso.
-
-X. Las demás que expresamente le confiere esta Constitución.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 #### SECCION I.
 
 Elección y Funcionamiento.
 
-### CAPITULO IV.
+### CAPÍTULO V. De la Caza
 
-Poder Judicial.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 #### SECCION II.
 
@@ -699,7 +1069,7 @@ Hacienda del Estado.
 
 ###### Artículo 67.
 
-La Diputación Permanente convocará al Congreso a sesiones extraordinarias siempre que el Ejecutivo lo solicite.
+Los Animales Abandonados, cuyo dueño se ignore deberán ser retenidos y custodiados por las autoridades competentes en lugares adecuados, o bien, podrán ser entregados a las Asociaciones, siempre y cuando éstas cumplan con las condiciones y formalidades exigidas por dichas autoridades y haya transcurrido el plazo establecido en la fracción II del artículo 78.
 
 #### SECCION III.
 
@@ -711,11 +1081,9 @@ Instrucción Pública.
 
 Ministerio Público.
 
-### CAPITULO UNICO.
+### CAPÍTULO I. Disposiciones Generales de la Enajenación de Animales
 
-Municipios y Comisarías.
-
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 #### SECCION V.
 
@@ -725,239 +1093,153 @@ Defensoría de Oficio.
 
 ###### Artículo 68.
 
-El ejercicio del Poder Ejecutivo se deposita en un sólo individuo que se denominará "Gobernador del Estado de Sonora".
+Las intervenciones quirúrgicas con Animales o cualquier tipo de intervención médica o cirugías que implique el uso de instrumentación, la exploración interior o exterior en el cuerpo del Animal, la prescripción de medicamentos, traslado e implantes de algunas de sus partes, órganos, o embriones deberá ser realizado por personal profesional con título de Médico Veterinario y su correspondiente acreditación mediante cédula profesional.
+
+Dichas intervenciones y demás prácticas veterinarias antes mencionadas deberán realizarse exclusivamente con motivos curativos o de sanación de enfermedades, heridas, lesiones, contusiones o fracturas, o con el objetivo del control natal de los de su especie o su reproducción.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 69.
 
-La elección de Gobernador será popular directa, en los términos que disponga la Ley Electoral.
+La práctica de técnicas reproductivas como la extracción de semen, traslado de óvulos, inseminación artificial, o cualquier otra, deberá ser realizada por Médico Veterinario o Personal Calificado con los conocimientos técnicos requeridos y con la debida acreditación a través de cédula profesional.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+Quien no cumpla con esta disposición será sancionado en términos de la presente Ley, sin perjuicio de las responsabilidades establecidas por los demás ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 70.
 
-Para ser Gobernador del Estado se requiere:
+Las escuelas de educación superior, institutos e instituciones científicas y de investigación, públicas y privadas, podrán utilizar Animales Domésticos de Compañía y realizar el Sacrificio Humanitario de Animales de experimentación, únicamente con fines legítimos de investigación, siempre y cuando justifiquen con protocolo de práctica y bibliografía, carecer de alternativa, sólo bajo lo cual accederán a la autorización correspondiente.
 
-I. Ser mexicano por nacimiento e hijo de padres mexicanos, nativo del Estado y con residencia efectiva en él no menor de seis meses inmediatamente anteriores al día de la elección; y no siendo originario de Sonora tener cuando menos diez años de residencia efectiva inmediatamente anteriores al día de la elección.
-
-II. Ser ciudadano del Estado en pleno ejercicio de sus derechos políticos.
-
-III. Tener treinta y cinco años cumplidos el día de la elección.
-
-IV. No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
-
-V. No haber sido Magistrado del Supremo Tribunal, Procurador General de Justicia, Secretario de Gobierno, Tesorero General del Estado, ni militar en servicio activo ni haber tenido mando de fuerzas dentro del Estado, en el año inmediatamente anterior al día de la elección.
-
-VI. No haber figurado, directa o indirectamente, en alguna asonada, motín o cuartelazo.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 71.
 
-Las funciones de Gobernador son incompatibles con cualquier cargo o empleo de la Federación o del Estado.
+En materia de investigación y docencia siempre y cuando existan alternativas disponibles, queda prohibido provocar o inducir a causar lesiones, heridas o fracturas en Animales, así como implementar otras prácticas similares que causen daño físico o que afecten el bienestar de los Animales.
 
-> <small>(REFORMADO, B.O. 8 DE FEBRERO DE 1967)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 72.
 
-El Gobernador durará en su encargo seis años. Tomará posesión el día 13 de septiembre posterior a la elección, previa formal protesta ante el Congreso de guardar y hacer guardar la Constitución General de la República y la presente Constitución, así como las leyes que de ella emanen y cumplir leal y patrióticamente las obligaciones de su encargo.
+Queda prohibido en materia docente el realizar prácticas de laboratorio de biología o materias similares de vivisección en escuelas de educación primaria, secundaria o media superior, las cuales en su caso, deberán utilizar métodos análogos sustitutos.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+Para el caso que no existan métodos alternos, los animales sujetos a experimentos de vivisección deberán ser previamente insensibilizados, y en caso de habérseles causado daños que impidan el desarrollo normal de su vida, sacrificarlos humanitariamente al término del procedimiento, de conformidad con la presente ley y deberá ser incinerado de preferencia o hacer una disposición adecuada del cadáver que no sea el abandono.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 73.
 
-El Gobernador cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo ni aún con carácter de interino, provisional, substituto o encargado del despacho.
+Para la realización de cualquier investigación científica con Animales, se requiere la autorización expedida por la Secretaría de Salud del Estado.
 
-Nunca podrá ser electo en el período inmediato:
+Para obtener tales autorizaciones se deberá demostrar:
 
-a). El Gobernador substituto Constitucional, o el designado para concluir el período en caso de falta absoluta del Constitucional, aún cuando tenga distinta denominación.
+I. Que los experimentos tengan verdadera justificación científica, contribuyan de una manera importante e indispensable al conocimiento científico y no sean repeticiones de estudios ya publicados y no se puedan anticipar los resultados de la investigación;
 
-b). El Gobernador Interino, el Provisional o el ciudadano que, bajo cualquier denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
+II. Que los experimentos sean necesarios para el control, prevención, diagnóstico o el tratamiento de enfermedades que afecten al ser humano o al Animal;
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+III. Que los experimentos con los Animales no puedan ser sustituidos por otras alternativas disponibles;
+
+IV. Que la persona que realice o supervise del experimento cuente con la acreditación académica y competencia necesaria para ello; y,
+
+V. Que las operaciones quirúrgicas experimentales de Animales sean supervisadas por un médico veterinario con cédula profesional o por personal calificado.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 74.
 
-En caso de falta absoluta del Gobernador, ocurrida en los dos primeros años del período respectivo, si el Congreso estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral, y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará, en escrutinio secreto y por mayoría absoluta de votos, un Gobernador Interino, que tomará posesión de su cargo dentro del término de diez días posteriores a la fecha en que se haga la declaratoria correspondiente; el mismo Congreso expedirá dentro de los diez días siguientes al de la designación de Gobernador interino, la convocatoria para la elección del Gobernador que deba concluir el período respectivo; debiendo mediar entre la fecha de la convocatoria y la que señale para la verificación de las elecciones, un plazo no menor de seis meses ni mayor de ocho.
+El Médico Veterinario involucrado en la investigación científica con Animales, ya sea que participe como investigador, tutor o miembro de algún Comité de Bioética, o de uso y cuidado de Animales de experimentación, deberá procurar:
 
-Si el Congreso no estuviere en sesiones, la Diputación Permanente nombrará desde luego un Gobernador provisional y convocará a sesiones extraordinarias al Congreso para que éste, a su vez, designe al Gobernador interino y expida la convocatoria a elecciones en los términos del párrafo anterior.
+Reducir el número de Animales utilizados al mínimo necesario para tener resultados estadísticamente significativos;
 
-Cuando la falta de Gobernador ocurriere en los cuatro últimos años del período respectivo, si el Congreso se encontrare en sesiones, designará al Gobernador substituto que deberá concluir el período; si el Congreso no estuviere reunido, la Diputación Permanente nombrará un Gobernador provisional y convocará inmediatamente al Congreso a sesiones extraordinarias para que se erija en Colegio Electoral y haga la designación del Gobernador substituto.
+I. Refinar los métodos y técnicas del experimento procurando en todo momento el bienestar de los Animales;
 
-El Gobernador provisional podrá ser electo por el Congreso como Gobernador substituto.
+II. Cuidará que los estudios que requieran la muerte del animal, se lleven a cabo por Sacrificio Humanitario;
 
-El ciudadano que hubiere sido nombrado Gobernador interino, en caso de falta absoluta del titular, ocurrida en los dos primeros años del período respectivo, no podrá ser designado en las elecciones que se celebren con ese motivo.
+III. Reemplazar a los Animales sujetos a experimentación por modelos alternativos siempre que sea posible; y,
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+IV. Apegarse a las normas y disposiciones aplicables vigentes en materia de uso, cuidado y muerte humanitaria de los Animales de laboratorio o para investigación.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 75.
 
-Si por algún motivo no hubiere podido hacerse la elección de Gobernador o publicarse la declaratoria respectiva para el día en que deba tener lugar la renovación, o el Gobernador electo no se presentare a desempeñar el cargo, cesará no obstante el saliente, supliendo inmediatamente la falta el Presidente del Supremo Tribunal de Justicia, y el Congreso si se hallare en funciones, nombrará Gobernador interino. En caso de que el Congreso esté en receso, la Diputación Permanente lo convocará inmediatamente para que haga la designación de Gobernador interino, procediéndose conforme a lo dispuesto en el artículo anterior.
+Ninguna persona, podrá ser obligada o coaccionada a provocar daño, lesión, mutilación o provocar daño físico, emocional o la muerte de algún Animal y podrá referirse a esta Ley en su defensa.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+### CAPÍTULO II. Del Sacrificio Humanitario de los Animales
 
-### CAPITULO XVII. DE LA DECLARATORIA DE EMERGENCIA
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 76.
 
-Si por cualquier motivo el Congreso no pudiere hacer el nombramiento a que se refieren los artículos 74 y 75, ni expedir la convocatoria a que se contrae el mismo artículo 74, o hubiere por alguna circunstancia acefalía de los Poderes Legislativo y Ejecutivo del Estado, el Presidente del Supremo Tribunal de Justicia se hará cargo del Poder Ejecutivo.
+Queda prohibido sacrificar Animales con o sin dueño por procedimientos que causen sufrimiento o prolongue su agonía, así como el sacrificio de Animales para llevar a cabo rituales, actos de magia, remedios, medicina alterna o mera crueldad.
 
-En el caso previsto en el párrafo anterior, el encargado del Poder Ejecutivo convocará inmediatamente a elecciones tanto de Gobernador como de diputados, las que se verificarán en un período de tiempo que en ningún caso excederá de tres meses y sólo dejará de hacerlo en lo que respecta a la de Gobernador cuando falten seis meses o menos para que se verifique la renovación de Poderes, conforme a las disposiciones relativas de esta Constitución.
-
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 77.
 
-El Gobernador podrá ausentarse del territorio del Estado o separarse de su cargo hasta por quince días, dando aviso al Congreso o a la Diputación Permanente. Por un término mayor que no exceda de treinta días, necesitará permiso del Congreso o de la Diputación Permanente. En uno y otro caso asumirá las funciones de Gobernador interino el Secretario de Gobierno o quien haga sus veces. Cuando la ausencia o la separación del cargo exceda de treinta días, se procederá en los términos de las fracciones XVII del artículo 64 y V del 66 de esta Constitución.
+Quedan exceptuados los Animales que constituyan plagas que pongan en peligro el patrimonio o salud de las personas, procurando en todo momento prevenir que se llegue a supuestos por parte de la autoridad.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+### CAPÍTULO III. Del Sacrificio Humanitario de los Animal Domésticos de Compañía
 
-### CAPÍTULO XVIII. DE LAS DONACIONES PARA AUXILIAR A LA POBLACIÓN
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 78.
 
-El cargo de Gobernador del Estado sólo es renunciable por causa grave calificada por el Congreso, ante el que se presentará la renuncia.
+El Sacrificio Humanitario de los Animales Domésticos de Compañía se deberá realizar primordialmente en los Centros de Asistencia Animal, y de manera auxiliar en las clínicas veterinarias de las Asociaciones y en clínicas veterinarias particulares, de conformidad con sus posibilidades y recursos disponibles, y únicamente en los siguientes supuestos:
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+I. Entrega voluntaria de los Propietarios o Poseedores por imposibilidad para su manutención, enfermedad grave o zoonótica, incapacidad física o vejez extrema;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+II. Cuando sean asegurados y no reclamados en un plazo de 20 días naturales contados a partir de su fecha de captura por deambular en la vía pública;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+III. Por el sufrimiento que le cause una enfermedad o accidente y sean desahuciados clínicamente para su recuperación;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+IV. A juicio de la Autoridad competente por el exceso en el número de ejemplares de su especie y constituyan un riesgo zoosanitario o peligro para la comunidad y no se encuentre una alternativa a corto plazo para resolver el riesgo inminente; siempre y cuando se haya conminado previamente a la comunidad a mantener a sus perros en sus hogares, para entonces tomar la decisión sobre aquellos ejemplares que carecen de hogar.
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+V. Cuando a criterio de la Autoridad competente, conforme a las circunstancias e investigaciones realizadas, lo estime pertinente para los Animales Potencialmente Peligrosos que incurran en reincidencia de ataque; y,
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+VI. Cuando los Animales que agredan a personas o a Animales no sean reclamados por su Propietario, Poseedor o Encargado dentro de los 10 días naturales.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 79.
 
-Son facultades y obligaciones del Gobernador:
+El Sacrificio Humanitario de los Animales Domésticos de Compañía deberá realizarse de acuerdo a lo previsto en las Normas Oficiales Mexicanas que resulten aplicables.
 
-I. Promulgar sin demora las leyes y decretos, y los acuerdos en su caso; ejecutarlos y hacer que se ejecuten; y formar en la parte administrativa y de conformidad con las disposiciones de la ley, los reglamentos necesarios para la exacta observancia de los mismos.
-
-II. Velar por la conservación del orden, tranquilidad y seguridad del Estado.
-
-III. Iniciar ante el Congreso las leyes y decretos que juzgue convenientes para el mejoramiento de la administración pública y progreso del Estado.
-
-IV. Hacer cumplir las resoluciones de los tribunales y prestar a éstos los medios que necesiten para el ejercicio expedito de sus funciones.
-
-V. Cuidar de que las Autoridades que dependan del Ejecutivo cumplan estrictamente con las obligaciones que les imponen la Constitución Federal, esta Local y las leyes que de ellas emanen, corrigiendo las faltas que notare con multa hasta de trescientos pesos o con arresto que no exceda de treinta y seis horas. Si el infractor no pagare la multa que se le hubiere impuesto, se le aplicará en su lugar el arresto correspondiente que en ningún caso excederá de quince días. El Ejecutivo impondrá asimismo las correcciones disciplinarias que procedan por las faltas en que incurrieren el Secretario de Gobierno, el Procurador General de Justicia y el Tesorero General del Estado.
-
-> <small>(REFORMADA, B.O. 20 DE JUNIO DE 1956)</small>
-
-VI. Imponer correccionalmente a los particulares que desobedecieren sus órdenes o le faltaren al respeto en su carácter oficial, multa que no excederá de quinientos pesos o arresto por treinta y seis horas; pero si el infractor no pagare la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de quince días. Si el infractor fuese jornalero u obrero, no podrá ser sancionado con multa mayor del importe de su jornal o sueldo en una semana.
-
-Imponer asímismo, las sanciones que por infracciones a las Leyes y Reglamentos Gubernativos se señalen en los mismos, cuando en tales Ordenamientos no se especifique qué Autoridad debe imponerlas.
-
-VII. Presentar cada año ante el Congreso durante la primera quincena del mes de noviembre, los proyectos de presupuestos de ingresos y egresos del Estado, que deberán regir en el año fiscal inmediato siguiente, y en la primera quincena del segundo periodo de sesiones ordinarias, la cuenta de gastos del año anterior.
-
-> <small>(REFORMADA, B.O. 24 DE SEPTIEMBRE DE 1969)</small>
-
-VIII. Asistir a rendir ante el Congreso, el informe a que se refiere el artículo 46 de esta Constitución.
-
-IX. Concurrir a la apertura de las sesiones extraordinarias que hubiere solicitado del Congreso, con objeto de explicar los motivos en que haya fundado la convocatoria.
-
-X. Informar al Congreso por sí, por conducto del Secretario de Gobierno o de la persona que al efecto designe, sobre cualquier ramo de la administración, cuando el mismo Congreso lo solicite.
-
-XI. Nombrar y remover a todos los Funcionarios y empleados dependientes del Ejecutivo, cuyo nombramiento o remoción no corresponda a otra Autoridad.
-
-XII. Ejercitar todas las facultades que consigna el artículo 27 de la Constitución General, siempre que no estén reservadas al Gobierno Federal o concedidas a la autoridad municipal.
-
-XIII. En caso de invasión o de conmoción interior, tomar, de acuerdo con el Congreso o la Diputación Permanente, las medidas extraordinarias que sean indispensables para mantener el orden. En el segundo caso pedirá que se convoque inmediatamente al Congreso a sesiones extraordinarias y desde luego dará cuenta a dicha Asamblea del empleo que haya hecho de tales facultades.
-
-XIV. En caso de sublevación o de trastorno interior en el Estado, excitar, de acuerdo con el Congreso o de la Diputación Permanente, a los Poderes Federales a que ministren la protección debida, si los elementos de que dispone el Estado no fueren bastantes para restablecer el orden.
-
-XV. Excitar a los ayuntamientos y presidentes municipales en los casos en que a su juicio fuere necesario para el mejoramiento de los distintos ramos de la administración de los municipios.
-
-XVI. Dar órdenes a los presidentes municipales y comisarios sobre los asuntos relativos a los ramos cuya administración general en el Estado corresponda al Ejecutivo, conforme a las leyes reglamentarias respectivas.
-
-XVII. Declarar la utilidad pública y decretar la expropiación, de acuerdo con lo prevenido en el artículo 27 de la Constitución General, ajustando sus procedimientos a las leyes correspondientes.
-
-XVIII. Formar y aprobar, en su caso, el Reglamento interior de cada una de sus dependencias.
-
-XIX. Representar a la Hacienda Pública, pudiendo, en los casos que lo estime conveniente, delegar esa representación.
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 12 DE DICIEMBRE DE 1970)</small>
-
-XX. Ejercer el mando supremo de las fuerzas del Estado, y movilizarlas según las necesidades públicas; así como disponer de la policía del municipio donde resida habitual o transitoriamente, y nombrar y remover, en los términos que establezca la ley reglamentaria, a los jefes y oficiales superiores de la policía urbana de los Municipios del Estado.
-
-XXI. Convocar al Congreso a sesiones extraordinarias por conducto de la Diputación Permanente, expresando el objeto de ellas.
-
-XXII. Hacer observaciones por una sola vez en el improrrogable término de diez días útiles, salvo el caso a que se refiere el artículo 59, a las leyes y decretos aprobados por el Congreso, y promulgarlos y hacerlos ejecutar desde luego, si el propio Congreso, después de haberlos reconsiderado, los ratifica.
-
-XXIII. Cuidar de que los fondos públicos, en todo caso, estén bien asegurados y de que su recaudación y distribución se hagan con arreglo a la Ley.
-
-XXIV. Nombrar y remover libremente al Secretario de Gobierno, Procurador General de Justicia y Tesorero General del Estado, y hacer la designación de los Magistrados del Supremo Tribunal de Justicia, sometiéndola a la aprobación del Congreso.
-
-XXV. Nombrar a los oficiales del Registro Civil y fijar la demarcación en que deban ejercer sus funciones.
-
-XXVI. Presentar ante el Congreso, al terminar su período constitucional, una memoria sobre el estado de los negocios públicos, expresando cuáles sean las deficiencias que hubiere observado en la Administración y qué medidas en su concepto deben aplicarse para subsanarlas.
-
-XXVII. Fomentar, por todos los medios posibles, la educación popular y procurar el adelanto social, favoreciendo el mejoramiento moral, cívico y material de la colectividad.
-
-XXVIII. Organizar y disciplinar la Guardia Nacional y las demás fuerzas del Estado y ejercer, respecto de una y otras, el mando conforme a las atribuciones que le conceden las Constituciones General y Local.
-
-XXIX. Visitar a los municipios del Estado, cuando lo estime conveniente, proveyendo lo necesario en el orden administrativo y dando cuenta al Congreso o al Supremo Tribunal de Justicia de las faltas que observare y cuyo remedio corresponda a los Poderes Legislativo y Judicial.
-
-XXX. Dictar las medidas urgentes encaminadas a la conservación y mejoramiento de la salubridad pública general del Estado.
-
-XXXI. Formar la estadística del Estado.
-
-XXXII. Dictar las disposiciones necesarias para la instalación o funcionamiento de la Junta Central de Conciliación y Arbitraje, a que se refiere la fracción XX del artículo 123 de la Constitución General de la República.
-
-XXXIII. Nombrar al representante que le corresponde en la Junta de Conciliación y Arbitraje, a que se refiere la fracción XX del artículo 123 de la Constitución General.
-
-XXXIV. Fomentar la organización de instituciones de utilidad social para infundir o inculcar la previsión popular.
-
-XXXV. Cuidar, de acuerdo con el artículo 130 de la Constitución General, que los ministros de los cultos sean mexicanos por nacimiento.
-
-XXXVI. Turnar al Procurador General de Justicia los asuntos que deban ventilarse ante los tribunales, para que ejercite las atribuciones de su ministerio. Sin embargo, el Ejecutivo podrá nombrar a algún abogado que lo represente en determinado asunto cuando así lo crea conveniente.
-
-XXXVII. Cuidar de que las elecciones se efectúen en el tiempo señalado por las leyes relativas.
-
-XXXVIII. Organizar el sistema penal sobre la base de trabajo como medio de regeneración.
-
-XXXIX. Conceder, conforme a las Leyes, indulto necesario a los reos sentenciados por delitos de la competencia de los Tribunales del Estado.
-
-XL. Las demás que le asignen las leyes, ya sean federales o del Estado.
-
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 80.
 
-Le está prohibido al Gobernador:
+El Sacrificio Humanitario podrá realizarse por las autoridades competentes o médicos veterinarios de las Asociaciones, por personal calificado o por cualquier otra persona siempre y cuando se sujete a los métodos establecidos en las Normas Oficiales Mexicanas aplicables. Esto incluye animales callejeros, sin dueño y otros no previstos.
 
-I. Mandar inmediata y personalmente en campaña la Guardia Nacional y demás fuerzas del Estado, sin haber obtenido para ello permiso del Congreso, o en su receso, de la Diputación Permanente.
+La disposición final del cadáver de todo Animal sacrificado debe efectuarse en los lugares establecidos para dicho efecto y que cumplan con las disposiciones legales aplicables.
 
-II. Recomendar asuntos a las autoridades judiciales; contrariar en cualquier forma las resoluciones dictadas por éstas, y disponer de los reos durante los procesos.
+### CAPÍTULO IV. De los Rastros y del sacrificio de Animales de Abasto
 
-III. Oponerse y hacer observaciones a los acuerdos del Congreso en que se le pidan informes sobre asuntos públicos.
-
-IV. Impedir que las elecciones se verifiquen en los días señalados por la ley.
-
-V. Impedir, por ningún motivo, ni directa ni indirectamente, el libre ejercicio de las funciones del Congreso.
-
-VI. Distraer los caudales públicos del Estado de los objetos a que están destinados por las leyes.
-
-VII. Ordenar la aprehensión o la detención de persona alguna, o privarla de su libertad, excepto en los casos en que la ley lo autorice para hacerlo. En tales casos, deberá ponerla inmediatamente a disposición de la autoridad competente.
-
-VIII. Ocupar la propiedad particular fuera de los casos prescritos por las leyes.
-
-IX. Imponer contribución alguna, salvo el caso de que esté legalmente facultado para ello.
-
-X. Disponer en ningún caso, bajo pretexto alguno, de las rentas municipales.
-
-XI. Disponer sin facultades legales y fuera de los casos que la ley lo permita, de los bienes pertenecientes al Estado.
-
-XII. Disponer en ningún caso, bajo ningún pretexto, de los bienes considerados como propios del municipio.
-
-XIII. Conceder licencias para juegos de azar.
-
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
-
-### CAPÍTULO XIX. DE LAS MEDIDAS DE SEGURIDAD
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 81.
 
-Para el despacho de los negocios que esta Constitución encomienda al Ejecutivo habrá un Secretario de Gobierno. Para ocupar este puesto son necesarios los mismos requisitos que para ser Gobernador.
+El sacrificio de Animales de Abasto se realizará de acuerdo con las normas vigentes y demás disposiciones que expidan las autoridades competentes, debiendo contar con las autorizaciones correspondientes de las autoridades sanitarias, la SAGDR y la Autoridad Municipal, según corresponda.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 82.
 
-Todas las leyes, decretos, reglamentos, circulares, acuerdos y órdenes que suscriba el Gobernador deberán en todo caso ser autorizados con la firma del Secretario de Gobierno y comunicados por éste. Los documentos que el Gobernador suscriba en ejercicio de sus funciones constitucionales, así como los despachos que expida, deberán ir refrendados por el Secretario de Gobierno y sin este requisito no surtirán efectos legales.
+Los propietarios, encargados o administradores de expendios de Animales o rastros, deberán sacrificar inmediatamente a los Animales que por cualquier causa se hubiesen lesionado gravemente, asimismo cuando hayan enfermado y que esto represente un peligro para la salud o seguridad de las personas, en cuyo caso además del sacrificio deberá disponerse del cadáver del animal conforme las disposiciones y normas aplicables.
 
-> <small>(ADICIONADO, B.O. 5 DE MAYO DE 1954)</small>
-
-Artículo 82 A. Para auxiliar al Secretario de Gobierno en sus funciones y para sustituirlo en sus faltas temporales, habrá un Oficial Mayor de la Secretaría con las atribuciones que le asigne el Reglamento Interior de la misma. El Oficial Mayor de la Secretaría deberá llenar los mismos requisitos que se exigen para el Secretario de Gobierno.
+Se prohíbe la presencia de menores de edad en el sacrificio de animales o en las salas de matanza del rastro. Lo anterior, se deberá de hacer del conocimiento público mediante avisos o anuncios colocados en lugares visibles del rastro.
 
 #### SECCION I.
 
@@ -967,39 +1249,69 @@ Disposiciones Generales.
 
 ###### Artículo 83.
 
-La Hacienda del Estado se constituirá por las contribuciones que decrete el Congreso y los demás ingresos que determinen las leyes fiscales; los bienes que correspondan al Estado como persona civil; los edificios públicos del mismo; los créditos que tenga a su favor; sus propias rentas, y las herencias vacantes.
+Con el objeto de cumplir y alcanzar los objetivos que la Ley establece, las autoridades encargadas de su aplicación podrán suscribir convenios de colaboración con Asociaciones e instituciones educativas, en los cuales se establecerán las responsabilidades, compromisos y demás apoyos que éstas podrán realizar.
+
+El Estado y los Municipios promoverán y facilitarán la participación efectiva de todas las personas y sectores sociales interesados en colaborar en los procesos de educación ambiental, la conservación y protección del medio ambiente, la búsqueda del bienestar colectivo, la tenencia responsable de Animales y el desarrollo y aprovechamiento sustentable de éstos.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 84.
 
-Los ingresos no tendrán otro objeto que cubrir los gastos decretados por el Congreso, y las contribuciones se establecerán sólo en los casos estrictamente necesarios para que, unidas a las demás fuentes de ingresos, cubran dichos gastos.
+El Consejo Consultivo Ciudadano para la atención y bienestar de los Animales del Estado de Durango y los Consejos Ciudadanos Municipales, serán órganos de consulta y participación ciudadana con la finalidad de realizar acciones de promoción cultural, proponer líneas concretas de acción para la formulación de políticas públicas que sobre todo involucren medidas preventivas y de control ético de la fauna urbana.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+El Consejo Consultivo Ciudadano para la atención y bienestar de los Animales del Estado de Durango y los Consejos Ciudadanos Municipales, funcionarán y se integrarán conforme a lo dispuesto por los propios Reglamentos que emitan la Secretaría y los Municipios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 85.
 
-La recaudación de las contribuciones se encomienda a una oficina que se llamará Tesorería General del Estado.
+En el ámbito de sus respectivas competencias, la Secretaría y las Autoridades Municipales, llevarán un registro de las Asociaciones y personas interesadas, con quienes celebren convenios de colaboración, para el cumplimiento de esta Ley.
 
-La Tesorería General estará a cargo de un Tesorero, dependiente del Poder Ejecutivo.
+En el marco de cooperación con las autoridades responsables de la ejecución y cumplimiento de la Ley, las Asociaciones y personas interesadas que suscriban convenios de colaboración, podrán:
 
-Para la recaudación de las contribuciones y para el pago de los gastos, el Tesorero General deberá sujetarse estrictamente a las leyes de presupuestos y demás relativas.
+I. Participar en campañas de vacunación, desparasitación, Esterilización de Animales, Sacrificio Humanitario, programas de concientización sobre la importancia de la protección del medio ambiente, el bienestar y la protección de Animales, la tenencia responsable y el respeto a éstos, y demás acciones que se implementen para la observancia y cumplimiento de esta Ley;
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+II. Proporcionar Albergue y custodia a los Animales asegurados o decomisados con motivo de la aplicación de esta Ley, así como poner en Adopción Animales que no sean reclamados en el plazo que establece la presente Ley; y
 
-### CAPÍTULO XXI. DE LA INSPECCIÓN, CONTROL Y VIGILANCIA
+III. Las demás que al efecto se acuerden entre ambas partes, siempre y cuando no se contravengan las disposiciones de la presente Ley.
+
+Los servicios proporcionados a la población en general por las Asociaciones serán sin fines de lucro.
+
+### CAPÍTULO II. De la Denuncia Ciudadana
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 86.
 
-Todos los pagos que efectúe el Tesorero General se harán mediante orden escrita y firmada por el Gobernador y por el Secretario de Gobierno, en la que deberá expresarse la partida del presupuesto a cargo de la cual se hace el pago, pues las asignaciones respectivas se aplicarán únicamente al objeto a que están destinadas.
+Cualquier Persona física o moral tiene el deber de denunciar, ante las Autoridades competentes, todo hecho, acto u omisión que contravenga las disposiciones de esta Ley y demás ordenamientos que regulen las materias relacionadas con la protección y Bienestar Animal.
+
+La autoridad que tenga conocimiento de los hechos u omisiones señalados en el párrafo anterior, deberá denunciarlos ante la autoridad competente en la materia a fin de que se siga el procedimiento correspondiente.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 87.
 
-Sólo los empleados de Hacienda manejarán caudales del Estado.
+La denuncia ciudadana podrá realizarse tanto en forma verbal, por escrito, o por medios electrónicos proporcionando como mínimo el denunciante:
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+I. Los hechos u omisiones denunciados; y
+
+II. En su caso los datos que permitan identificar al presunto infractor.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+La autoridad estará obligada a mantener en reserva el nombre del denunciante, cuando éste así lo solicite. Así como dar respuesta por escrito al denunciante del resultado de las investigaciones de conformidad a la Ley de Justicia Administrativa del Estado de Durango, a partir de la fecha de denuncia.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 88.
 
-El Tesorero General del Estado y todos los empleados de Hacienda que tengan manejo de caudales públicos, otorgarán, previamente, ante el Ejecutivo, fianza suficiente para garantizarlo de acuerdo con la ley respectiva.
+La autoridad deberá llevar un registro de las denuncias recibidas y procederá a su verificación siempre que éstas reporten la información suficiente que lo permita. En caso de denuncias falsas, la autoridad podrá fincar las responsabilidades pertinentes que considere necesarias por los medios legales aplicables ante las autoridades competentes.
+
+Una vez presentada la denuncia, la autoridad iniciará el procedimiento administrativo de inspección y vigilancia, y efectuará las diligencias necesarias con el propósito de determinar la existencia de los hechos, actos u omisiones constitutivos de la denuncia.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 #### SECCION II.
 
@@ -1009,293 +1321,521 @@ Jueces de Primera Instancia, Locales y Menores.
 
 ###### Artículo 89.
 
-La Educación Pública, quedará bajo la dirección del Ejecutivo del Estado y sujeta a las leyes reglamentarias respectivas.
+Si de la diligencia se desprende que no es asunto de la competencia de la autoridad que haya recibido la denuncia, dentro de un plazo no mayor a cinco días hábiles, turnará el asunto a la autoridad competente.
 
-> <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 90.
 
-La Educación en Sonora, se ajustará a los principios y términos que se consignan en la Constitución General de la República.
+En todo caso, los denunciantes podrán coadyuvar con la autoridad para la comprobación de los hechos, actos u omisiones denunciados, aportándole las pruebas, documentación e información que estime pertinentes.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 91.
 
-Toda la educación que imparta el Estado será gratuita.
+La autoridad exhortará de manera permanente a la sociedad en general a denunciar hechos u omisiones que produzcan o puedan producir maltrato a los Animales o alterar el Bienestar Animal, además, informará puntualmente, por escrito y en detalle al denunciante el resultado de su gestión y de las investigaciones y demás diligencias realizadas con motivo de la denuncia realizada, cuando el interesado lo solicite.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 92.
 
-Ninguna corporación religiosa, ni ministro de algún culto religioso, por sí o por interpósita persona, podrán establecer o dirigir escuelas de instrucción primaria, ni servir empleos en las escuelas oficiales.
+Si del resultado de las investigaciones realizadas por la Autoridad, se desprende que se trata de actos, hechos u omisiones en que hubieren incurrido autoridades federales, estatales o municipales, emitirá las recomendaciones necesarias para promover ante estas u otras, la ejecución de las acciones procedentes.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+### CAPÍTULO III. Del Procedimiento de Inspección y Vigilancia
 
-### CAPITULO XXII. DE LA DETECCIÓN DE ZONAS DE RIESGO
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 93.
 
-La educación primaria será obligatoria para todos los niños comprendidos en edad escolar y para todos los adultos analfabetos menores de cuarenta años. Para aquéllos que por el lugar de su residencia no puedan concurrir a las escuelas elementales, el Estado y los municipios crearán los establecimientos de educación rudimentaria, la que también será obligatoria.
+Las Autoridades Municipales, en el ámbito de sus respectivas competencias, conforme a las disposiciones de esta Ley, podrán realizar visitas de inspección para comprobar el cumplimiento de la misma, su Reglamento, Normas Oficiales Mexicanas y demás ordenamientos aplicables en la materia.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 94.
 
-El Estado tendrá la obligación de establecer o hacer que se establezcan, de acuerdo con la parte relativa, fracción XII del Artículo 123 de la Constitución General, escuelas permanentes en todos los lugares cuya población escolar llegue a veinte niños.
+Las visitas de inspección podrán ser ordinarias y extraordinarias.
 
-> <small>(ADICIONADO, B.O. 5 DE MAYO DE 1954)</small>
+Las ordinarias se efectuarán en días y horas hábiles y las segundas en cualquier tiempo, según lo dispongan los ordenamientos legales aplicables.
 
-Artículo 94 A. La enseñanza normal será protegida preferentemente por el Gobierno del Estado, como un medio de cumplir con la obligación ineludible que tienen tanto él como el municipio, de impartir la enseñanza primaria obligatoria.
+El procedimiento se sujetará a lo que disponga la presente Ley y de manera supletoria se aplicaran las disposiciones contenidas en la Ley de Justicia Fiscal y Administrativa del Estado de Durango.
 
-Es obligación del Gobierno del Estado fomentar y difundir la Enseñanza Universitaria.
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 95.
 
-La institución del Ministerio Público representa los intereses de la Sociedad conforme a las atribuciones que le confiere esta Constitución y demás leyes.
+El personal autorizado como inspector para realizar las visitas de inspección, deberá contar con el documento oficial que lo acredite como tal, así como estar provisto de orden escrita debidamente fundada y motivada, con firma autógrafa expedida por la autoridad competente, en la que se precisará el lugar o las zonas que habrán de inspeccionarse, el objeto de la visita, el alcance que deba tener y el personal técnico o de apoyo en su caso que estará involucrado.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+Al iniciar la visita de inspección, el inspector se identificará debidamente con la persona con quien se entienda la diligencia, exhibiéndole para tal efecto identificación vigente con fotografía, expedida por la autoridad competente, y le mostrará la orden respectiva, entregándole copia de la misma con firma autógrafa, requiriéndole para que en el acto designe dos testigos, los cuales deberán estar presentes durante todo el desarrollo de la visita de inspección.
+
+Si la persona con la que se entiende la diligencia no designa testigos, o bien éstos no aceptan su nombramiento, el personal acreditado como inspector podrá nombrarlos. En el caso de que no fuera posible encontrar en el lugar de la visita persona alguna que pudiera ser designada como testigo, el personal actuante deberá asentar estas circunstancias en el acta correspondiente, sin que por esto se afecte su validez.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 96.
 
-Son atribuciones del Ministerio Público:
+Los propietarios, responsables, o encargados del establecimiento, lugar o área, objeto de verificación o la persona con quien se atienda la diligencia están obligados a permitir el acceso y dar facilidades a los inspectores acreditados, así como proporcionarles toda clase de información para el desarrollo de la diligencia, con excepción de lo relativo a derechos de propiedad industrial o de patentes que sean confidenciales conforme a la Ley.
 
-I. Ejercitar la acción penal.
-
-II. Cuidar de que se ejecuten las penas impuestas por los tribunales, exigiendo de quien corresponda y bajo su más estricta responsabilidad el cumplimiento de las sentencias recaídas.
-
-III. Intervenir en los juicios hereditarios y en todos aquellos que afecten a las personas a quienes las leyes otorgan especial protección, y en los que se interese establecimiento de beneficencia pública, a los cuales representará velando por sus intereses.
-
-IV. Hacer efectiva la responsabilidad criminal de los funcionarios y empleados públicos.
-
-V. Defender a la Hacienda Pública del Estado en juicio, siempre que el Ejecutivo no provea a la procuración conforme a la Ley.
-
-VI. Cuidar de que se lleven conforme a las leyes los protocolos y libros de los notarios, los libros del Registro Público de la Propiedad y los del Registro Civil.
-
-VII. Intervenir en las juntas de vigilancia de cárceles para exigir que se cumpla con los reglamentos respectivos.
-
-VIII. Informar al Supremo Tribunal sobre los defectos que encontrare en las leyes, así como de las irregularidades o deficiencias que observare en las autoridades encargadas de aplicarlas.
-
-IX. Rendir a los Poderes del Estado los informes que le pidan sobre asuntos relativos a la institución.
-
-X. Las demás que le señalan las leyes, tanto federales como del Estado.
-
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 97.
 
-El Ministerio Público será desempeñado por un funcionario que se denominará Procurador General de Justicia y por los agentes que determine la Ley.
+La autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, cuando alguien obstaculice o se oponga a la práctica de la diligencia o cuando hubiera causa urgente que así lo amerite, independientemente de las acciones legales a que haya lugar.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 98.
 
-El Procurador General de Justicia será nombrado por el Ejecutivo en los términos de la fracción XXIV del Artículo 79 de esta Constitución.
+En toda visita de inspección se levantará acta circunstanciada en la que se hará constar de forma detallada los hechos u omisiones que se hayan detectado durante la diligencia, así como las medidas de seguridad que en su caso se hubiesen adoptado.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+Concluida la inspección, se dará oportunidad a la persona con la que se entendió la diligencia para que en el mismo acto formule observaciones en relación con los hechos u omisiones asentadas en el acta respectiva.
+
+La persona con quien se entendió la diligencia, los testigos si los hubiera y el personal responsable de la inspección firmarán el acta correspondiente. Si la persona con quien se entendió la diligencia o los testigos se negaren a firmar el acta, o el interesado se negara a aceptar copia de la misma, dichas circunstancias se asentarán en ella, sin que esto afecte la validez de la diligencia. De toda acta se dejará copia a la persona con quien se entendió la diligencia.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 99.
 
-Para ser Procurador General de Justicia se necesitan los mismos requisitos que para ser Magistrado del Supremo Tribunal.
+En las actas de inspección se hará constar lo siguiente:
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+I. Nombre, denominación o razón social del visitado;
+
+II. Hora, día, mes y año en que inicie y concluya la diligencia;
+
+III. Calle, número, población o colonia, teléfono u otra forma de comunicación disponible, municipio y código postal del lugar en que se practique la visita;
+
+IV. Número y fecha de la orden que motivó la visita;
+
+V. Nombre e identificación del personal acreditado como inspector que realizó la diligencia;
+
+VI. Nombre y cargo de la persona con quien se entendió la diligencia;
+
+VII. Nombre y domicilio de las personas que fungieron como testigos;
+
+VIII. Datos relativos a los hechos u omisiones observados durante la actuación;
+
+IX. Referencia a si se aplicaron medidas de seguridad para salvaguardar la vida del Animal en cuestión;
+
+X. Declaración del visitado, si quisiera hacerla; y,
+
+XI. Nombre, huella o firma y datos de la identificación de quienes intervinieron en la diligencia y así quisieran hacerlo.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 100.
 
-El Procurador General rendirá la protesta de la Ley ante el Gobernador del Estado.
+Con base en los resultados que arroje la visita de inspección, la autoridad competente emplazará mediante notificación personal al presunto infractor o a su representante legal debidamente acreditado, o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas correctivas o de urgente aplicación, necesarias para cumplir con las disposiciones jurídicas aplicables, para que en el término de diez días hábiles, contados a partir de la fecha de la notificación, exprese lo que a sus intereses convenga y, en su caso, ofrezca las pruebas con relación a los hechos contenidos en el acta de inspección.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 101.
 
-Para la investigación de los delitos existirá un cuerpo auxiliar denominado Policía Judicial, la cual estará bajo la autoridad y mando directo del Procurador.
+Admitidas y desahogadas las pruebas ofrecidas por el interesado, o habiendo transcurrido el plazo a que se refiere el artículo anterior, sin que haya hecho uso de ese derecho, se pondrán a su disposición las actuaciones para que, en un plazo de tres días hábiles, presente por escrito sus alegatos.
 
-> <small>(REFORMADO, B.O. 25 DE ABRIL DE 1928)</small>
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 102.
 
-Las faltas accidentales y temporales del Procurador General de Justicia, se suplirán en la forma que determine la Ley Orgánica del Ministerio Público.
+Recibidos los alegatos o transcurrido el término para presentarlos, la autoridad correspondiente procederá a dictar, fundada y motivadamente, la resolución administrativa que corresponda, dentro de los quince días hábiles siguientes, misma que se notificará al interesado personalmente o por correo certificado con acuse de recibo.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+En la resolución administrativa correspondiente se señalarán las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas, el plazo otorgado al infractor para satisfacerlas y las sanciones a que se hubiere hecho acreedor conforme a esta Ley y su reglamento.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 103.
 
-Todas las autoridades del Estado tienen el deber, para facilitar las labores del Ministerio Público, de prestarle auxilio cuando lo necesite, y el de proporcionarle todos los datos y elementos que pidiere en el desempeño de su encargo.
+Durante el procedimiento y antes de que se dicte resolución, el interesado y la autoridad, a petición del primero, podrán convenir la realización de acciones de rehabilitación de los Animales y/o de su medio ambiente a los cuales se les ocasionó daños, para la corrección de las irregularidades observadas.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 104.
 
-Los Agentes del Ministerio Público serán nombrados por el Ejecutivo, a propuesta en terna del Procurador de Justicia.
+Dentro de los cinco días hábiles que sigan al vencimiento del plazo otorgado al infractor para subsanar las deficiencias o irregularidades observadas, éste deberá comunicar por escrito y en forma detallada acompañando las pruebas respectivas a la autoridad ordenadora, haber dado cumplimiento a las medidas impuestas en la resolución administrativa respectiva.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 105.
 
-Para ser agente del Ministerio Público precisan los mismos requisitos que para ser Juez de Primera Instancia, los cuales serán calificados por el Procurador, con la misma salvedad de la fracción I del artículo 124, en su parte final.
+La autoridad competente podrá llevar a cabo posteriores visitas de verificación para observar el cumplimiento de los requerimientos señalados. Si del acta correspondiente se desprende que no se ha dado cumplimiento a los mismos, la autoridad considerará dicha conducta como un agravante y estará facultada a imponer la sanción o sanciones que procedan conforme a esta Ley.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 106.
 
-Habrá en el Estado una institución que se denominará Defensoría de Oficio. Su misión será defender a los reos en asuntos penales y patrocinar a quienes lo soliciten, en materia civil y administrativa, en los casos establecidos por la ley orgánica correspondiente.
+Cuando se detecte alguna presunta irregularidad de competencia federal o de otra dependencia de la administración pública estatal, la Autoridad competente podrá aplicar por sí las medidas de seguridad que resulten necesarias para proteger a los Animales y evitar daños al Bienestar Animal, sin perjuicio de las facultades que a la Federación competen en la materia, y en un término no mayor a dos días hábiles, pondrán los hechos en conocimiento de la autoridad que corresponda y le remitirán copia de todo lo actuado.
 
-### CAPÍTULO XXIII. DE LA ATENCIÓN A LA POBLACIÓN RURAL AFECTADA POR CONTINGENCIAS CLIMATOLÓGICAS
+En caso de ser un asunto de competencia Municipal que atienda el Estado o viceversa, se actuará conforme al mismo procedimiento. La autoridad responsable deberá de hacer del conocimiento de la autoridad que haya detectado la irregularidad en primera instancia las actuaciones subsecuentes, hasta su conclusión.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+### CAPÍTULO IV. Medidas de Seguridad
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 107.
 
-Será desempeñada por un Jefe de Defensores y los Defensores que instituya la Ley.
+De existir riesgo inminente para las personas o para los Animales, que pueda poner en peligro su vida, debido al incumplimiento a las disposiciones de esta Ley, la Autoridad competente, en forma fundada y motivada, podrá ordenar la aplicación de alguna o algunas de las siguientes medidas de seguridad
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+I. Aseguramiento precautorio de los Animales, además de los bienes, vehículos, utensilios e instrumentos directamente relacionados con la conducta que da lugar a la imposición de la medida de seguridad;
 
-### CAPITULO XXIV. DE LA ATENCION A LAS EMERGENCIAS
+II. Clausura temporal, parcial o total de los establecimientos, instalaciones, servicios, eventos o lugares donde se celebren actividades reguladas por esta Ley, en donde se incumpla o contravenga alguna de las disposiciones de la misma, los reglamentos municipales de la materia, las demás leyes aplicables, Normas Oficiales Mexicanas, así como con cualquier otro precepto legal aplicable; y,
+
+III. La suspensión temporal, parcial o total de obras, eventos o actividades donde se celebren espectáculos públicos con animales que no cumplan con esta Ley, su reglamento, las Normas Oficiales Mexicanas, así como con cualquier otro precepto legal aplicable.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+IV. En caso de decomiso de animales doméstico y/o de compañía, estos quedarán a resguardo del Centro de Asistencia Animal o en alguna entidad protectora acreditada para tal fin, sin que esto implique el sacrificio del Animal en cuestión y en todo lo posible se pondrá en adopción, brindándole atención médica requerida.
+
+Las medidas de seguridad ordenadas por las autoridades competentes en caso de riesgo, son de inmediata ejecución, tienen carácter preventivo y en su caso correctivo, se aplicarán sin perjuicio de las sanciones que en su caso correspondan por las infracciones cometidas. Dichas medidas tendrán la duración estrictamente necesaria para la protección efectiva de los Animales y la corrección de las irregularidades respectivas y deberán ser notificadas al infractor para su inmediata ejecución.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+### CAPÍTULO V. Sanciones en Contra el Maltrato a los Animales
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 108.
 
-El Jefe de Defensores y los defensores de oficio serán nombrados y removidos por el Ejecutivo.
+Es responsable de las faltas previstas en esta Ley cualquier Persona física o moral que participe en la ejecución de las mismas o induzca directa o indirectamente a cometerlas.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 109.
 
-Para ser Jefe de Defensores se necesitan los mismos requisitos que para ser Procurador General de Justicia.
+Para efectos de esta Ley se consideran infracciones, competencia de aplicación de los Municipios, las siguientes:
+
+I. El realizar actividades de Adiestramiento utilizando métodos antinaturales o técnicas crueles;
+
+II. Los daños que provoque a terceros el Animal;
+
+III. En el caso de Adiestramiento, el acometimiento para hacer pelear o reforzar la agresividad de un Animal;
+
+IV. Vender animales sin tener autorización o estar inscrito en los registros ante la Autoridad competente; no cumplir con la entrega de garantías, certificados de salud o manuales para el adecuado cuidado del animal enajenado, así como llevar a cabo la venta de animales a menores de edad e incapaces;
+
+V. Enajenar los Animales Domésticos de Compañía, mayores a dos meses sin esterilizarlos o esterilizarlos antes de dicho período;
+
+VI. Los actos u omisiones que sean susceptibles de causar a un Animal la muerte, heridas y laceraciones, dolores o sufrimientos que afecten su salud o alteren su comportamiento natural;
+
+VII. El no proporcionar el Espacio Vital a los Animales, descuidar su Refugio y el tenerlo sujeto, inmovilizado o amarrado de forma temporal o permanente y que quede expuesto a las condiciones o inclemencias del clima;
+
+VIII. Los actos de perversión sexual efectuados por Personas a un Animal o valiéndose del mismo;
+
+IX. Cualquier mutilación, física u orgánica a los Animales, que no se efectúe por motivos fundados de salud y seguridad y que ponga en peligro su vida; esto incluye también la mutilación o amputación innecesaria de apéndices tales como orejas y cola por motivos "estéticos";
+
+X. El no proporcionar los tratamientos veterinarios, higiene necesaria del cuerpo y del área de estancia de los animales;
+
+XI. No estar inscrito o no mantener vigente su inscripción en el registro a que se refieren los artículos 10 y 11 de esta Ley;
+
+XII. Utilizar Animales para prácticas o competencias de tiro al blanco;
+
+XIII. El omitir obtener autorización para poseer un Animal Potencialmente Peligroso o no colocar protecciones adecuadas y los avisos que alerten del riesgo sobre los mismos una vez obtenida la autorización;
+
+XIV. Cargar vehículos de tracción con un peso superior al que puede soportar el Animal;
+
+XV. Utilizar para el transporte de carga, y tiro a Animales heridos, enfermos, o en condiciones fisiológicas no aptas, o a hembras en periodo próximo al parto o a animales que por su edad fisiológica no deban ser cargados;
+
+XVI. Realizar práctica veterinaria por persona que no cuente con título de médico veterinario y que carezcan de cédula profesional o que no posea los conocimientos técnicos requeridos para ser considerado personal calificado, en intervenciones quirúrgicas y práctica de técnicas reproductivas como la extracción de semen, traslado de óvulos, inseminación artificial, entre otras;
+
+XVII. No contar con la Cartilla de vacunación animal, expedida por la autoridad correspondiente en términos de esta Ley;
+
+XVIII. No contar con instalaciones debidamente protegidas en los términos de la presente Ley, en el caso de Adiestramiento de Animales Potencialmente Peligrosos;
+
+XIX. El suministrar a los Animales de forma intencional o negligente, sustancias u objetos que les causen o puedan causarles daños o la muerte;
+
+XX. Realizar algún experimento con uno o varios animales sin obtener la autorización a que se refiere esta Ley;
+
+XXI. No insensibilizar previamente a los animales domésticos de compañía previo a su sacrificio humanitario, infringirles dolor o sufrimiento innecesarios en el proceso;
+
+XXII. No insensibilizar previamente al Animal que sea usado para experimentación de vivisección, no curarlo y alimentarlo en forma debida antes y después de la intervención o no sacrificar de manera humanitaria al animal al término de la operación si las heridas son de consideración o implican mutilación grave;
+
+XXIII. Permitir a los propietarios, administradores o encargados de rastros o salas de sacrificio, la presencia de menores de edad;
+
+XXIV. Sacrificar a un Animal en la vía pública sin que medie motivo de caso fortuito, de fuerza mayor o peligro inminente;
+
+XXV. No sacrificar inmediatamente, los propietarios, encargados o administradores de expendios de Animales o rastros, al Animal que por cualquier causa se hubiese lesionado gravemente;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2015)</small>
+
+XXVI. Realizar la exhibición de Animales para promocionar espectáculos en remolques o vehículos automotores que circulen por las vías públicas, sin la autorización previa correspondiente; y,
+
+XXVII. Las demás previstas en las disposiciones de la presente Ley y Reglamentos aplicables.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 110.
 
-El Jefe de Defensores rendirá la protesta de Ley ante el Ejecutivo y será substituído en sus faltas temporales por el Defensor del lugar de su residencia.
+Para efectos de esta Ley se consideran infracciones y serán previstas como tales, en la Reglamentación municipal, las siguientes:
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+I. Cuando fuese abandonado el Animal de forma voluntaria o involuntaria ya sea en la vía pública;
+
+II. No contar con el permiso correspondiente para la cría, reproducción y enajenación de animales domésticos y de compañía;
+
+III. Vender animales en la vía pública, parques, plazas y jardines así como dentro de estacionamientos comerciales;
+
+IV. Que el animal doméstico que este en la vía pública, en compañía de su propietario, poseedor o encargado, no cuente con collar, correa, identificación permanente en el cuerpo como placa de identificación, tatuaje o chip, según sea el caso, así como bozal para el caso de Animales Potencialmente Peligrosos.
+
+V. Tener en exhibiciones públicas o privadas animales en malas condiciones, que presenten estereotipias o enfermedades, dentro de recintos insalubres o demasiado pequeños para su especie y bienestar.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 111.
 
-Para ser Defensor de Oficio se necesitan los mismos requisitos que para ser Agente del Ministerio Público.
+Se aplicarán las siguientes sanciones a quienes infrinjan la presente Ley:
 
-### CAPÍTULO X. DE LA CULTURA DE PROTECCIÓN CIVIL
+I. Apercibimiento o amonestación pública o privada;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
+
+II. Multa de 50 a 10,000 veces la Unidad de Mediada (sic) y Actualización;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
+
+III. En el caso de conductas dolosas que se consideren como lesiones, tortura, vejación, mutilación que causen o puedan causar la muerte del Animal, la multa será de 100 a 10,000 veces la Unidad de Medida y Actualización;
+
+IV. Arresto administrativo hasta por 36 horas, en los casos de reincidencia y hasta por 72 horas en los casos en que se ocasionen lesiones o muerte a un Animal en forma intencional. En ambos casos el arresto administrativo no eximirá al infractor del pago de la sanción económica respectiva;
+
+V. El aseguramiento precautorio de los Animales;
+
+VI. Decomiso de los Animales, así como de los bienes e instrumentos directamente relacionados con las infracciones a la presente Ley;
+
+VII. Suspensión temporal, parcial o total, de permisos, autorizaciones y licencias, según corresponda;
+
+VIII. Revocación de permisos, autorizaciones y licencias, según corresponda;
+
+IX. Clausura temporal o definitiva, parcial o total, de las instalaciones y sitios donde se desarrollen las actividades violatorias a esta Ley;
+
+X. Pago de todos los gastos erogados por el depositario de los Animales decomisados durante el procedimiento administrativo, tales como hospedaje, alimentación y atención veterinaria, entre otros;
+
+XI. Realización de trabajo comunitario; o
+
+XII. En caso de que el dictamen lo considere necesario, asistir a terapia psicológica, lo cual será supervisado por la autoridad competente y/o la procuraduría del menor.
+
+Para imponer las sanciones señaladas la autoridad competente considerará la gravedad de la conducta, si existe reincidencia, los daños y perjuicios causados a terceros en sus bienes o sus personas; la intención con la cual fue cometida y los antecedentes, circunstancias y situación socioeconómica del infractor y de los afectados.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
+### CAPÍTULO II. De la Reproducción, Cría y Enajenación de Animales Silvestres
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 112.
 
-El Poder Judicial se depositará para su ejercicio en un Supremo Tribunal de Justicia, en los juzgados de Primera Instancia, locales y menores, y en los demás organismos que la ley establezca.
+Para el caso de la sanción resarcitoria, la Autoridad competente podrá aplicar una cuota de recuperación de 50 a 10,000 veces la Unidad de Medida y Actualización, según se determine en Resolución fundada y motivada, con independencia de la imposición de otras sanciones.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 113.
 
-El Supremo Tribunal de Justicia se compondrá de cinco Magistrados propietarios y ocho suplentes, nombrados cada seis años, pudiendo los designados ser reelectos, y tomarán posesión de su encargo el día 16 de Septiembre del año en que se inicie el período Constitucional del Ejecutivo. Si por cualquier motivo no se hace nombramiento o los designados no se presentan al desempeño de su cargo, continuarán en funciones los individuos que lo formen hasta que tomen posesión los nuevamente nombrados. Los que fueren nombrados en el curso del período desempeñarán sus funciones hasta la conclusión del mismo. Habrá también Magistrados insaculados, cuya designación se hará en la forma que establezca la Ley Orgánica respectiva.
+Las multas previstas en esta Ley se aumentarán hasta en un cincuenta por ciento, cuando las infracciones a la presente Ley se cometan o se realicen con la participación de un Médico Veterinario, independientemente de la responsabilidad civil, penal o administrativa en la que incurra.
 
-Los nombramientos de los Magistrados del Supremo Tribunal de Justicia serán hechos por el Gobernador del Estado y sometidos a la aprobación del Congreso, el que otorgará o negará esa aprobación dentro del término de cinco días. Si el Congreso no resolviere dentro de dicho término, se tendrán por aprobado los nombramientos. Sin aprobación expresa o tácita no podrán tomar posesión del cargo.
+La reincidencia en cualquiera de las infracciones a esta Ley ameritará aumento de la multa hasta por el doble de la sanción pecuniaria correspondiente, sin menoscabo de la aplicación de un arresto administrativo hasta por 72 horas.
 
-En el caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación de la Cámara en el siguiente período ordinario de sesiones. En este período ordinario de sesiones, dentro de los primeros cinco días el Congreso deberá aprobar o reprobar el nombramiento y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si el Congreso rechaza el nombramiento cesará desde luego en sus funciones de Magistrado provisional y el Gobernador del Estado someterá nuevo nombramiento para su aprobación en los términos señalados.
-
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 114.
 
-Para ser magistrado se requiere:
+Para la imposición de las sanciones por infracciones a esta Ley, se tomará en cuenta:
 
-I. Ser mexicano por nacimiento; nativo del Estado, o no siéndolo tener residencia efectiva en él no menor de cinco años inmediatamente anteriores al día de la elección, y estar en pleno ejercicio de sus derechos políticos.
+I. La gravedad de la infracción;
 
-II. Tener treinta años cumplidos el día de la elección.
+II. Las condiciones económicas del infractor;
 
-III. No haber sido condenado en proceso por ningún delito.
+III. La reincidencia, si la hubiere;
 
-IV. Ser de reconocida moralidad.
+IV. El carácter intencional o negligente de la acción u omisión constitutiva de la infracción;
 
-V. Poseer el día de la elección, con antigüedad mínima de cinco años, título de licenciado en derecho, expedido por autoridad o corporación legalmente facultada para ello, y tener tres años cuando menos, de práctica profesional reconocida.
+V. El beneficio directamente obtenido por el infractor por los actos que motiven la sanción; y
+
+VI. El daño ocasionado en la integridad física del animal.
+
+En el caso en que el infractor realice las medidas correctivas o subsane las irregularidades en que hubiere incurrido, previamente a que la autoridad imponga una sanción, dicha situación deberá considerarse como atenuante de la infracción cometida.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 115.
 
-El cargo de Magistrado solamente es renunciable por causa grave calificada por el Congreso.
+Para los efectos del artículo anterior las infracciones se clasifican de gravedad alta, media y baja.
 
-> <small>(REFORMADO, B.O. 25 DE ABRIL DE 1928)</small>
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 116.
 
-Los Magistrados Propietarios y Suplentes, rendirán la protesta de Ley ante el Congreso del Estado o ante la Diputación Permanente, y los insaculados ante el Presidente del Supremo Tribunal.
+Son infracciones de gravedad alta:
 
-> <small>(REFORMADO, B.O. 14 DE AGOSTO DE 1957)</small>
+I. El maltrato de animales que les cause invalidez o muerte;
+
+II. El abandono de animales;
+
+III. Practicar una mutilación con fines exclusivamente estéticos o sin utilidad alguna salvo las practicadas por veterinarios en caso de necesidad;
+
+IV. Depositar alimentos envenenados en espacios y lugares públicos, salvo los empleados por empresas autorizadas para el control de plagas;
+
+V. El uso de animales en fiestas o espectáculos en los que éstos puedan ser objeto de daños, sufrimientos, tratamientos antinaturales, malos tratos o en los que se pueda herir la sensibilidad del espectador;
+
+VI. El suministro a los animales de alimentos y medicamentos que contengan sustancias que puedan provocarles sufrimientos o daños innecesarios;
+
+VII. La organización de peleas con y entre animales;
+
+VIII. La cesión por cualquier título de locales, terrenos o instalaciones para la celebración de peleas con y entre animales;
+
+IX. La utilización de animales por parte de sus propietarios o poseedores para su participación en peleas;
+
+X. La filmación con animales de escenas que conlleven crueldad, maltrato o sufrimiento, cuando los daños no sean simulados;
+
+XI. La utilización en los procedimientos de experimentación de animales de especies no recogidas en la normativa aplicable;
+
+XII. La realización de procedimientos de experimentación no autorizados.
+
+XIII. La utilización de animales para procedimientos de experimentación en centros no reconocidos oficialmente;
+
+XIV. Utilizarlos en procedimientos de experimentación o destinarles a los mismos sin el cumplimiento de las garantías establecidas en la normativa aplicable;
+
+XV. Realizar el sacrificio de un animal sin seguir las especificaciones de esta Ley y de la normativa aplicable;
+
+XVI. El empleo de animales vivos para el entrenamiento de otros;
+
+XVII. La comisión de más de una infracción de naturaleza grave, cuando así haya sido declarado por resolución firme; y
+
+XVIII. Las demás que establezcan los Ayuntamientos en sus reglamentos.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 117.
 
-El Supremo Tribunal de Justicia funcionará conforme a las prescripciones de la Ley Orgánica respectiva, la cual se ajustará a las bases establecidas en esta Constitución. Los Magistrados se distinguirán entre sí por el calificativo numérico que corresponda al orden en que hayan sido designados.
+Son infracciones de gravedad media:
 
-> <small>(REFORMADO, B.O. 5 DE ABRIL DE 1952)</small>
+I. El maltrato a animales que causen dolor o sufrimiento o lesiones no invalidantes;
+
+II. No realizar las vacunaciones y tratamientos obligatorios previstos en la normativa aplicable;
+
+III. No mantener a los animales en buenas condiciones higiénico-sanitarias o en las condiciones fijadas por la normativa aplicable;
+
+IV. No suministrar a los animales la asistencia veterinaria necesaria;
+
+V. Imponer un trabajo que supere la capacidad de un animal u obligar a trabajar a animales enfermos, fatigados;
+
+VI. La venta o donación de animales para la experimentación sin la autorización correspondiente;
+
+VII. La filmación de escenas con animales que simulen crueldad, maltrato o sufrimiento sin la correspondiente autorización administrativa;
+
+VIII. El empleo de animales en exhibiciones que les cause sufrimiento o dolor;
+
+IX. La cría o comercialización de animales sin cumplir los requisitos correspondientes;
+
+X. La venta o donación de animales a menores de edad o incapacitados sin la autorización de quien tenga su patria potestad, tutela o custodia;
+
+XI. No facilitar a los animales la alimentación adecuada a sus necesidades;
+
+XII. Ofrecer animales como premio o recompensa en concursos, o con fines publicitarios;
+
+XIII. La venta ambulante de animales, sin contar con el permiso de la autoridad correspondiente;
+
+XIV Impedir al personal habilitado por los órganos competentes el acceso a las instalaciones de los establecimientos previstos en la presente Ley, así como no facilitar la información y documentación que se les requiera en el ejercicio de las funciones de control;
+
+XV. El incumplimiento, por parte de los centros veterinarios y centros para la venta, adiestramiento y cuidado temporal de los animales de compañía, de los requisitos y condiciones establecidas en la presente Ley;
+
+XVI. La venta de animales enfermos cuando se tenga constancia de ello;
+
+XVII. El transporte de animales sin reunir los requisitos legales;
+
+XVIII. La negativa u obstaculización a suministrar datos o facilitar la información requerida por las autoridades competentes o sus agentes, en orden al cumplimiento de funciones establecidas en esta Ley, así como el suministro de información inexacta o de documentación falsa;
+
+XIX. La posesión de animales no registrados ni identificados conforme a lo previsto en esta Ley; y
+
+XX. Las demás que establezcan los Ayuntamientos en sus reglamentos.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 118.
 
-El Supremo Tribunal de Justicia tendrá un Presidente, y lo será el Magistrado electo cada año por mayoría de votos de sus miembros.
+Son infracciones de gravedad baja:
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+I. La carencia o tenencia incompleta del archivo de fichas clínicas de los animales objeto de tratamiento obligatorio;
+
+II. La no obtención de las autorizaciones, permisos o licencias necesarias, en cada caso, para estar en posesión del animal de que se trate, cuando así lo exijan las disposiciones legales aplicables;
+
+III. La manipulación artificial de los animales con objeto de hacerlos atractivos como diversión o juguete para su venta;
+
+IV. La falta de notificación a la autoridad de la utilización de animales de experimentación;
+
+V. La perturbación por parte de los animales de la tranquilidad y el descanso de los vecinos;
+
+VI. El no recoger de forma inmediata u omitir la recolección de los excrementos evacuados por el animal de compañía en las vías públicas;
+
+VII. Cualquier otra conducta cometida por acción u omisión que contravenga las disposiciones contenidas en la presente ley y que no sea considerada como infracción grave o muy grave;
+
+VIII. Las demás que establezcan los Ayuntamientos en sus reglamentos.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 119.
 
-Tendrá también un Secretario General y los demás que fueren necesarios para el despacho de los asuntos de su competencia.
-
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+Quedan exceptuadas de las disposiciones establecidas en los artículos 57, 109, 110, 111, 116 fracciones I, VII, IX y XV; 117 fracciones I y VII, de la presente Ley, las corridas de toros, novillos, becerros, jaripeos, rodeo, charreadas, carreras de caballos, peleas de gallos así como los espectáculos de adiestramiento y entretenimiento familiar, mismos que habrán de sujetarse a lo dispuesto en las leyes, reglamentos y demás ordenamientos jurídicos aplicables.
 
 ###### Artículo 120.
 
-Son facultades y obligaciones del Supremo Tribunal:
+Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, sus reglamentos y demás disposiciones jurídicas aplicables, podrán ser impugnadas conforme a lo previsto en la Ley de Justicia Fiscal y Administrativa del Estado de Durango.
 
-I. Conocer en segunda instancia de los juicios civiles.
-
-II. Conocer en segunda instancia de los juicios penales.
-
-III. Dirimir las competencias de jurisdicción que se susciten entre los jueces del Estado; así como las que surjan entre cualquiera autoridad judicial del Estado y la Junta Central de Conciliación y Arbitraje, y entre aquéllas y las juntas municipales de conciliación.
-
-IV. Nombrar y remover a los jueces de primera instancia y aceptarles su renuncia en la forma y términos señalados por la Ley.
-
-V. Nombrar y remover a sus Secretarios y a sus demás empleados subalternos, así como aceptarles su renuncia.
-
-VI. Aprobar los nombramientos de los jueces locales y menores que hagan los de primera instancia.
-
-VII. Conceder licencia a los funcionarios y empleados cuyo nombramiento le compete, de acuerdo con lo que determinen las leyes relativas.
-
-VIII. Formar su Reglamento Interior.
-
-IX. Iniciar leyes y decretos ante el Congreso, en lo concerniente al ramo de justicia.
-
-X. Dictaminar sobre las peticiones de indulto necesario.
-
-XI. Ejercer debida vigilancia sobre los jueces y empleados judiciales, para la expedita y adecuada administración de justicia, dictando las medidas necesarias a fin de corregir las anomalías que notare; pero sin entorpecer las funciones de los jueces.
-
-XII. Ordenar visitas a los establecimientos de reclusión penal y adoptar y proponer las medidas correspondientes, según el resultado de aquéllos.
-
-XIII. Autorizar el pago de los honorarios de los magistrados suplentes y de los insaculados, cuando ejercieren funciones.
-
-XIV. Proponer al Congreso se tomen las medidas encaminadas a remediar las omisiones y contradicciones que observare en las leyes.
-
-XV. Rendir al Congreso y al Ejecutivo los informes que le pidan sobre el ramo judicial.
-
-XVI. Conocer de las controversias que se susciten entre el Ejecutivo del Estado y los Ayuntamientos.
-
-XVII. Conocer de conformidad con las leyes relativas de los juicios de responsabilidad en delitos oficiales.
-
-XVIII. Las demás que le confieran o impongan las leyes.
-
-> <small>(REFORMADO, B.O. 14 DE AGOSTO DE 1957)</small>
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 121.
 
-Cuando algún Magistrado tuviere que eximirse de conocer de un asunto determinado, por recusación o excusa, se llamará para que lo substituya al Suplente que corresponda. Si el Magistrado impedido fuere el ponente en dicho asunto, el Suplente que lo substituya no asumirá la ponencia, quedando la elaboración del proyecto de resolución respectivo a cargo del Magistrado Propietario siguiente en número a quien no afecte impedimento.
+El recurso de inconformidad se interpondrá por escrito ante el titular de la unidad administrativa que hubiere dictado la resolución recurrida.
 
-Cuando todos los Magistrados en ejercicio estuvieren impedidos para conocer de determinado negocio, el Supremo Tribunal se integrará por Magistrados Suplentes o Insaculados, en su caso, correspondiendo presidir los debates y ser ponente al primero que conforme a la Ley hubiere sido llamado.
-
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 122.
 
-Los magistrados que estén en funciones, exceptuándose los casos que específicamente determine la ley respecto de los suplentes, no pueden ser abogados en negocios ajenos, apoderados, asesores o árbitros de derecho, ni desempeñar ningún empleo, cargo o comisión de la Federación, del Gobierno del Estado, de otras Entidades, de los municipios, o de particulares, salvo los cargos docentes y los honoríficos en asociaciones científicas o artísticas.
+En el escrito en el que se interponga el recurso se señalará:
+
+I. El nombre y domicilio del recurrente y, en su caso, el de la persona que promueva en su nombre y representación, acreditando debidamente la personalidad con que comparece si ésta no se tenía justificada ante la autoridad que conozca del asunto;
+
+II. Bajo protesta de decir verdad, la fecha en que el recurrente tuvo conocimiento de la resolución recurrida;
+
+III. El acto o la resolución que se impugna;
+
+IV. Los agravios que, a juicio del recurrente, le cause la resolución o el acto impugnado;
+
+V. La mención de la autoridad que haya dictado la resolución u ordenado o ejecutado el acto;
+
+VI. Los documentos que el recurrente ofrezca como prueba, que tengan relación inmediata o directa con la resolución o acto impugnado. Dichos documentos deberán acompañarse al escrito a que se refiere el presente artículo;
+
+VII. Las pruebas que el recurrente ofrezca en relación con el acto o la resolución impugnada, acompañando los documentos que se relacionen con éste. No podrá ofrecerse como prueba la confesión de la autoridad, y
+
+VIII. La solicitud de suspensión del acto o resolución impugnado, previa la comprobación de haber garantizado, en su caso, debidamente el Importe de la multa o multas impuestas.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 123.
 
-Los Jueces de Primera Instancia serán nombrados por el Supremo Tribunal de Justicia del Estado, durando en su ejercicio dos años y podrán desempeñar el cargo en períodos sucesivos.
+Al recibir el recurso, la autoridad verificará si éste fue interpuesto en tiempo, admitiéndolo o rechazándolo.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+Para el caso de que lo admita, decretará la suspensión si fuese procedente, y desahogará las pruebas que procedan en un plazo que no exceda de quince días hábiles contados a partir del día hábil siguiente al de la notificación del proveído de admisión.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 124.
 
-Para ser juez de primera instancia se requiere:
+La ejecución de la resolución impugnada, se podrá suspender cuando se cumplan los siguientes requisitos:
 
-I. Ser mexicano en pleno ejercicio de sus derechos políticos, tener veinticinco años cumplidos el día del nombramiento y título de Licenciado en Derecho. Este último requisito podrá dispensarse por el Supremo Tribunal de Justicia sólo por imposibilidad y entre tanto haya persona titulada dispuesta a desempeñar el cargo.
+I. Lo solicite el interesado;
 
-II. No haber sido condenado en proceso en ningún delito y ser de reconocida moralidad.
+II. No se pueda seguir perjuicio al interés general;
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+III. No se trate de infracciones reincidentes;
+
+IV. Que de ejecutarse la resolución, pueda causar daños de difícil reparación para el recurrente, y
+
+V. Se garantice el importe de las multas impuestas.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 125.
 
-Los jueces locales y menores serán nombrados cada dos años por los jueces de primera instancia del ramo civil. El nombramiento será sometido a la aprobación del Supremo Tribunal.
+Transcurrido el término para el desahogo de las pruebas, si las hubiere. dispondrá el recurrente de tres días para alegar de su derecho, y agotados éstos se dictará resolución en la que se confirme, modifique o revoque la resolución recurrida o el acto combatido.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+Dicha resolución se notificará al interesado, personalmente o por correo certificado con acuse de recibo.
 
 ###### Artículo 126.
 
@@ -1311,11 +1851,13 @@ III. Tener la competencia necesaria para el desempeño del cargo, a juicio del j
 
 Los Jueces de Primera Instancia, Locales y Menores, conocerán de los asuntos que les encomienden las leyes, en la forma y términos que las mismas establezcan.
 
-## TITULO QUINTO.
+## TITULO SEXTO. DEL RECURSO DE INCONFORMIDAD
 
-MUNICIPIO LIBRE.
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO XI. DE LA PROFESIONALIZACIÓN DE LA PROTECCIÓN CIVIL
+### CAPÍTULO III. De la Reproducción, Cría y Enajenación de Animales Domésticos de Compañía
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 128.
 
@@ -1389,7 +1931,9 @@ Los presidentes municipales y concejales de los ayuntamientos, electos popularme
 
 > <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 1970)</small>
 
-### CAPÍTULO XII. DE LOS GRUPOS VOLUNTARIOS
+### CAPÍTULO IV. De los Animales de Carga y Tiro
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 136.
 
@@ -1409,7 +1953,11 @@ Habrá en cada cabecera de municipalidad una institución denominada Oficina del
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-### CAPÍTULO XIII. DE LOS INSTRUMENTOS FINANCIEROS DE GESTIÓN DE RIESGOS
+### CAPÍTULO V. De la exhibición, de la pensión, Adiestramiento y del Albergue de Animales
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2015)</small>
 
 ###### Artículo 139.
 
@@ -1463,7 +2011,9 @@ XXII. Las demás que las leyes federales o del Estado les otorguen o impongan.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-### CAPITULO XIV. DE LA TRANSFERENCIA Y REDUCCIÓN DE RIESGOS
+### CAPÍTULO VI. Del Traslado de Animales
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 140.
 
@@ -1649,13 +2199,73 @@ Esta Constitución no perderá su fuerza y vigor aún cuando por alguna rebelió
 
 Las Leyes Fundamentales no necesitan la sanción del Poder Ejecutivo.
 
-### CAPITULO XV. DE LA REDUCCIÓN DE RIESGOS
+### CAPÍTULO VII. De los Centros de Asistencia Animal
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 166.
 
 Para hacer efectivo el cumplimiento de medidas de inspección, seguridad y sanción impuestas por las autoridades de Protección Civil del Gobierno del Estado y sus Municipios, conforme a lo previsto en esta Ley, su Reglamento y demás normatividad aplicable, se podrá recurrir al auxilio de la fuerza pública, el cual se solicitará a las instancias de seguridad pública competentes.
 
 ## TRANSITORIOS
+
+PRIMERO.- La presente Ley entrara en vigor a los 30 días siguientes al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se abroga la Ley para la Protección de los Animales en el Estado de Durango, aprobada mediante el Decreto No. 438 de la LXIV Legislatura, publicado en el Periódico Oficial del Gobierno Constitucional del Estado No. 50 en fecha 20 de diciembre del año 2009.
+
+TERCERO.- Los procedimientos instaurados en materia de protección Animal previos a la entrada en vigor de la presente Ley, serán resueltos conforme a la Legislación anterior.
+
+CUARTO.- Las Autoridades Municipales promoverán, en un plazo no mayor a 45 días a partir de la entrada en vigor del presente Decreto, las reformas necesarias para ajustar los reglamentos municipales a las disposiciones de esta Ley, o bien, para emitir el reglamento municipal respectivo en caso de no contar con el mismo.
+
+QUINTO.- La Secretaría promoverá, en un plazo no mayor a 45 días contados a partir de la entrada en vigor del presente Decreto, la emisión del Reglamento que permita la exacta observancia de la Ley, en las materias de su competencia.
+
+SEXTO.- Los Consejos Consultivos a que se refiere esta Ley deberán instalarse dentro de los 30 días después de la expedición de los reglamentos emitidos para tal efecto.
+
+El Ciudadano Gobernador Constitucional del Estado, sancionará, promulgará y dispondrá se publique, circule y observe.
+
+Dado en el Salón de Sesiones del Honorable Congreso del Estado, en Victoria de Durango, Dgo., a los (23) veintitres días del mes de abril del año (2013) dos mil trece.
+
+DIP. FELIPE DE JESÚS GARZA GONZÁLEZ
+
+PRESIDENTE
+
+DIP. JUDITH IRENE MURGUÍA CORRAL
+
+SECRETARIA
+
+DIP. MANUELA GUILLERMINA RUIZ EZQUEDA
+
+SECRETARIA.
+
+POR TANTO MANDO, SE IMPRIMA, PUBLIQUE, CIRCULE Y COMUNIQUESE A QUIENES CORRESPONDA PARA SU EXACTA OBSERVANCIA
+
+DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO. A LOS 08 OCHO DÍAS DEL MES DE MAYO DE 2013 DOS MIL TRECE
+
+EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO
+
+C.P. JORGE HERRERA CALDERA
+
+EL SECRETARIO GENERAL DE GOBIERNO
+
+PROFR. JAIME FERNANDEZ SARACHO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE DICIEMBRE DE 2013.
+
+PRIMERO.- La presente Ley entrara en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO.- Los procedimientos instaurados en materia de protección Animal previos a la entrada en vigor del presente Decreto, serán resueltos en términos de lo previsto por la entonces vigente Ley de Protección y Bienestar Animal para la sustentabilidad del Estado de Durango.
+
+CUARTO.- Las Autoridades Municipales promoverán, en un plazo no mayor a 180 días a partir de la entrada en vigor del presente Decreto, las reformas necesarias para ajustar los reglamentos municipales a las disposiciones de esta Ley, o bien, para emitir el reglamento municipal respectivo en caso de no contar con el mismo.
+
+QUINTO.- La Secretaría promoverá, en un plazo no mayor a 180 días contados a partir de la entrada en vigor del presente Decreto, la emisión del Reglamento que permita la exacta observancia de la Ley, en las materias de su competencia.
+
+SEXTO.- Los Consejos Consultivos a que se refiere esta Ley deberán instalarse dentro de los 30 días después de la expedición de los reglamentos emitidos para tal efecto.
+
+P.O. 11 DE JUNIO DE 2015.
 
 ###### Artículo 1.
 
@@ -1859,24 +2469,66 @@ UNICO.- La presente Ley entrará en vigor a partir de la fecha de su publicació
 
 B.O. 8 DE FEBRERO DE 1967.
 
-###### ARTICULO PRIMERO.
+###### ARTÍCULO PRIMERO.
 
-Para el presente período gubernamental, que terminará el día 31 de agosto de 1967, el actual Gobernador deberá rendir su último Informe de Gobierno, ante el Congreso del Estado, el día 25 de agosto del mismo año, en sesión especial que para ese efecto se celebre.
+El presente Decreto entrará en vigor el día 08 (ocho) de Julio de 2015.
 
-###### ARTICULO SEGUNDO.
+###### ARTÍCULO SEGUNDO.
 
-Por esta sola ocasión, el Congreso del Estado, designará a un Gobernador Provisional para que con tal carácter se haga cargo del Poder Ejecutivo a partir del día 1o. de septiembre de 1967 y cubra el período comprendido entre esta fecha y el día 13 de del mismo mes y año, hasta el acto de la toma de posesión y protesta del ciudadano que resulte electo como Gobernador Constitucional en los comicios que habrán de celebrarse en julio del presente año.
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Durango.
 
-###### ARTICULO TERCERO.
+###### ARTÍCULO TERCERO.
 
-La presente Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+Se derogan todas las disposiciones legales que se opongan al contenido del presente.
 
-B.O. 24 DE SEPTIEMBRE DE 1969.
+P.O. 5 DE MARZO DE 2017.
 
-###### ARTICULO UNICO.
+###### ARTÍCULO ÚNICO.
 
-La presente ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
+Se crea la Ley de Protección y Bienestar Animal para la Sustentabilidad del Estado de Durango, para quedar como sigue:
 
-B.O. 12 DE DICIEMBRE DE 1970.
+LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO
 
-UNICO.- Esta ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- El valor de la Unidad de Medida y Actualización, será el publicado por el INEGI en el Diario Oficial de la Federación en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 15 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 144.- QUE CONTIENE REFORMAS Y ADICIONES A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+TERCERO. Las Autoridades Municipales promoverán, en un plazo no mayor a 120 días a partir de la entrada en vigor del presente Decreto, las reformas necesarias para ajustar los reglamentos municipales a las disposiciones de esta Ley, o bien, para emitir el reglamento municipal respectivo en caso de no contar con el mismo.
+
+CUARTO. En un plazo no mayor a 120 días contados a partir de la entrada en vigor del presente Decreto, se realizarán las adecuaciones pertinentes al Reglamento que permitan la exacta observancia de la Ley, en las materias de su competencia.
+
+P.O. 26 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 062.- POR EL QUE SE ADICIONA UN ARTÍCULO 16 BIS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO”.]
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 066.- QUE CONTIENE REFORMAS Y DEROGACIONES A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL, PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. A partir de la entrada en vigor del presente decreto, toda mención o alusión a la Procuraduría de Protección al Ambiente del Estado de Durango, en cualquier ordenamiento legal, se entenderá referido a la Secretaría de Recursos Naturales y Medio Ambiente.
+
+TERCERO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente decreto.
