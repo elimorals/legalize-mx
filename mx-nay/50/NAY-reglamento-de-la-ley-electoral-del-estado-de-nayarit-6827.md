@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-la-ley-electoral-del-estado-de-nayarit-6827"
 country: "mx"
 rank: "reglamento"
 publication_date: "1981-03-14"
-last_updated: "1981-03-14"
+last_updated: "1984-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO DE LA LEY ELECTORAL DEL ESTADO DE NAYARIT.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 1984.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nayarit, el sábado 14 de marzo de 1981.
 
@@ -75,7 +75,9 @@ ART. 13.- La Comisión Electoral del Estado, podrá determinar que las listas de
 
 ART. 14.- El Presidente de la Comisión Electoral del Estado, a fin de mantener la integración de éste organismo, se dirigirá con toda oportunidad al Congreso del Estado, para el efecto de que cubran las vacantes de sus comisionados. Los Partidos Políticos nombrarán oportunamente a sus comisionados y podrán sustituirlos libremente en todo tiempo.
 
-ART. 15.- El Presidente de la Comisión Electoral del Estado, tendrá a su cargo convocar a la sesión de instalación del organismo que preside. Dicha sesión se celebrará dentro de los primeros quince días del mes de enero del año correspondiente a la elección; se instalará válidamente con los funcionarios que la integran y los que hubieren acreditado los Partidos Políticos.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
+
+ART. 15.- El Presidente de la Comisión Electoral del Estado, tendrá a su cargo convocar a la sesión de instalación del organismo que preside. Dicha sesión se celebrará dentro los primeros 15 días del mes de diciembre del año anterior correspondiente a la elección; se instalará válidamente con los funcionarios que la integran y los que hubieren acreditado los Partidos Políticos.
 
 ART. 16.- El Presidente de la Comisión Electoral del Estado, autorizará con su firma y la de su Secretario, la credencial o los documentos de identidad de sus auxiliares. Estos documentos tendrán validez en el Estado y fenecerán el 2 de septiembre del año de la elección.
 
@@ -135,7 +137,9 @@ ART. 19.- Los Comités Distritales Electorales, como organismos permanentes para
 
 ART. 20.- Las vacantes que de los comisionados ocurran en los Comités Distritales y Municipales Electorales, serán cubiertas por la Comisión Electoral del Estado, de la misma relación que le haya sido enviada por la Delegación Estatal del Registro Nacional de Electores.
 
-ART. 21.- Los Presidentes de los Comités Distritales y Municipales Electorales, tendrán a su cargo convocar a la sesión de instalación del organismo que presidan. Dicha sesión se celebrará por los Comités Distritales Electorales, dentro de la tercera semana de Marzo; y por los Comités Municipales Electorales, dentro de la cuarta semana de Marzo del año de la elección, se instalarán válidamente con los funcionarios que los integren y los que hubieren acreditado los Partidos Políticos.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
+
+ART. 21.- Los Presidentes de los Comités Distritales y Municipales Electorales, tendrán a su cargo convocar a la sesión de instalación del organismo que presidan. Dicha sesión se celebrará por los Comités Distritales Electorales dentro de la cuarta semana de Febrero y por los Comités Municipales Electorales dentro de la primera semana de Marzo del año de la elección, se instalarán válidamente con los funcionarios que los integren y los que hubieren acreditado los Partidos Políticos.
 
 ART. 22.- Los Comités Distritales y Municipales Electorales, dentro de las veinticuatro horas siguientes a su instalación remitirán copia del acta respectiva a la Comisión Electoral del Estado; los Comités Municipales Electorales, remitirán además una copia de la misma, a su respectivo Comité Distrital Electoral. En la misma forma procederán respecto de las subsecuentes sesiones.
 
@@ -143,7 +147,9 @@ ART. 23.- Los Presidentes de los Comités Distritales y Municipales Electorales,
 
 ART. 24.- Los Comités Distritales y Municipales Electorales, determinarán sus horarios de labores, teniendo en cuenta que todos los días y horas, en materia electoral, son hábiles. De estos acuerdos, los Comités Distritales y Municipales Electorales, informarán a la Comisión Electoral del Estado.
 
-ART. 25.- Los Comités Distritales Electorales, integrarán las Mesas Directivas de las Casillas de sus respectivas demarcaciones, en los términos señalados en el artículo 64 de la Ley; para éste efecto, el Presidente, auxiliado por el Secretario y el Vocal, formarán el proyecto de listas de funcionarios de casillas, con la información que les proporcione la Delegación Distrital del Registro de Electores. Una vez analizado y aprobado dicho proyecto por el Comité Distrital correspondiente, el Secretario procederá a su publicación en los términos de la Ley.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
+
+ART. 25.- Los Comités Distritales Electorales, integrarán las Mesas Directivas de las Casillas de sus respectivas demarcaciones, en los téminos (sic) señalados en el Articulo 64 de la Ley; para este efecto. El Presidente, auxiliado por el Secretario y el Vocal, formarán el proyecto de listas de funcionarios de casillas, con la información que les proporcione la Delegación Distrital del Registro Nacional de Electores. Una vez analizado y aprobado dicho proyecto por el Comité Distrital correspondiente, el Secretario procederá a su publicación en los términos de la Ley.
 
 ART. 26.- Los Comités Distritales Electorales, a propuesta de su Presidente, cubrirán las vacantes de los funcionarios de casilla, que por causa justificada no puedan desempeñar el cargo, sujetándose a las normas siguientes:
 
@@ -157,13 +163,9 @@ d).- En este último caso, el Presidente del Comité Distrital hará las proposi
 
 e).- El día de la elección se estará a lo ordenado por los artículos 128 y 129 de la Ley.
 
-ART. 27.- El Comité Distrital Electoral mandará publicar el segundo domingo de mayo y el tercer domingo de junio del año de la elección ordinaria, la lista de las casillas, su ubicación y los nombres de los integrantes de sus mesas directivas, fijándolas en los edificios y lugares públicos más concurridos de su circunscripción Distrital, levantando acta circunstanciada de la publicación y entregando copia de la lista a cada uno de los Partidos Políticos acreditados.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
 
-Cuando dentro de los cinco días siguientes a la primera publicación de la lista de casillas, los Partidos Políticos, los candidatos o sus representantes, hagan valer por escrito su inconformidad ante el Comité Distrital Electoral, en contra de la ubicación o integración de las Mesas Directivas de las Casillas, deberán acompañar los elementos probatorios que apoyen la objeción; sin el cumplimiento de este requisito, no se dará trámite a la inconformidad. El Comité Distrital Electoral, resolverá en cinco días y comunicará su resolución al promovente, enviando copia a la Comisión Electoral del Estado.
-
-En caso de declararse procedente la inconformidad, el Comité Distrital Electoral, hará la modificación correspondiente, en la lista de casillas que publicará como lista definitiva, el tercer domingo de junio del año de la elección.
-
-Cuando el Comité Distrital Electoral no resuelva la inconformidad dentro del plazo señalado, se podrá ocurrir por escrito ante la Comisión Electoral del Estado, dentro de las veinticuatro horas siguientes de haber fenecido el plazo; aportando las pruebas correspondientes a la objeción formulada en la inconformidad. Sin éste requisito no se dará trámite al recurso.
+ART. 27.- El Comité Distrital Electoral mandará publicar el tercer domingo de Abril la lista de las casillas, su ubicación y los nombres de los integrantes de sus Mesas Directivas fijándolas en los edificios y lugares públicos más concurridos de sus (sic) circunscripción Distrital, levantando acta circunstanciada de la publicación y entregando copia de la lista a cada uno de los Partidos Políticos acreditados. Cuando dentro de los cinco días siguientes a la primera publicación de la lista de casillas, los Partidos Políticos, los candidatos o sus representantes, hagan valer por escrito su inconformidad ante el Comité Distrital Electoral, en contra de la ubicación o integración de las Mesas Directivas de las casillas, deberán acompañar los elementos probatorios que apoyan la objeción; sin el cumplimiento de este requisito, no se dará trámite a la inconformidad, el Comité Distrital Electoral, resolverá en 5 días y comunicará su resolución al promovente, enviando copia a la Comisión Electoral del Estado. En caso de declararse procedente la inconformidad, el Comité Distrital Electoral hará la modificación correspondiente en la lista de casillas que publicará como lista definitiva el último domingo de Mayo del año de la elección. Cuando el Comité Distrital Electoral no resuelva la inconformidad dentro del plazo señalado, se podrá ocurrir por escrito ante la Comisión Electoral del Estado, dentró (sic) de las 24 horas siguientes de haber fenecido el plazo; aportando las pruebas correspondientes a la objeción formulada en la inconformidad. Sin este requisito no se dará trámite al recurso.
 
 ART. 28.- Los Comités Distritales Electorales, una vez que tengan conocimiento del seccionamiento de sus respectivos distritos, podrán determinar la ubicación de dos o más casillas en una sección electoral, cuando sea necesario por razones de distancia o por el número de electores. Estas casillas deberán incluirse necesariamente, en las listas que se publiquen en los términos de los artículos 117 y 121 de la Ley.
 
@@ -195,9 +197,9 @@ ART. 34.- Los paquetes correspondientes a la elección de Diputados y de Goberna
 
 ART. 35.- Al entregar los paquetes a los Comités Municipales y Distritales, correspondientes a la elección de Regidores y Síndico, Diputados y Gobernador, respectivamente, el Presidente de la Casilla entregará además por separado, una copia de cada una de las actas levantadas el día de la elección.
 
-ART. 36.- Los Presidentes de Casilla permitirán emitir su voto a aquellos ciudadanos, que estando en la lista nominal de electores correspondiente a su domicilio, su credencial permanente de elector contenga errores de seccionamiento.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
 
-En este caso, los Presidentes de casilla, además de identificar a los electores en los términos de la Ley, se cerciorarán de su residencia en la sección correspondiente, por el medio que estimen más efectivo. El Presidente de la casilla permitirá además, emitir su voto al ciudadano que teniendo su credencial de elector sin error de seccionamiento no aparezca anotado en la lista nominal correspondiente a la sección, siempre que se identifique a satisfacción de la Directiva de la casilla.
+ART. 36.- Los Presidentes de Casilla permitirán e m i t i r (sic) su voto a aquéllos ciudadanos, que estando en la lista nominal de electores correspondientes a su domicilio, su credencial permanente de elector contenga errores de seccionamiento. En este caso, los Presidentes de Casillas, además de identificar a los electores en los términos de la Ley, ss (sic) cerciorarán de su residencia en la sección correspondiente, por el medio que estimen más efectivo. El Presidente de la casilla permitirá además, emitir su voto al ciudadano que no teniendo su credencial de elector aparezca anotado en la lista nominal correspondiente a la sección, siempre que se identifique a satisfacción de la Directiva de la Casilla; o presentando su credencial permanente de elector, sin errores de seccionamiento, no aparezca anotado en la lista nominal de electores.
 
 ART. 37.- Los ciudadanos designados para desempeñar funciones electorales, recibirán nombramiento expedido por el organismo electoral que haga la designación, que expresará:
 
@@ -247,7 +249,9 @@ DEL REGISTRO DE REPRESENTANTES.
 
 ART. 48.- Los Partidos Políticos y sus candidatos ejercen los derechos que les concede la Ley y cumplen las obligaciones que les corresponden en los Organismos Electorales para la preparación, vigilancia y desarrollo de las elecciones, a través de sus representantes que acrediten ante ellos.
 
-ART. 49.- Los Partidos Políticos acreditarán a sus representantes ante la Comisión Electoral del Estado, a más tardar el día dos de diciembre del año anterior al de la elección; y ante los Comités Distritales y Municipales Electorales, a más tardar el 10 de marzo del año de la elección.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
+
+ART. 49.- Los Partidos Políticos acreditarán a sus representantes ante la Comisión Electoral del Estado a más tardar el día 21 de Noviembre del año anterior al de la elección; y ante los Comités Distritales y Municipales Electorales a más tardar el 20 de Febrero del año de la elección.
 
 ### CAPITULO VI
 
@@ -307,13 +311,15 @@ II.- Sobre las interpuestas contra resoluciones de un Comité Distrital, deberá
 
 III.- Las que se dirijan contra resoluciones de la Comisión Electoral del Estado, mediante nueva resolución que se dictará con citación de un representante del Partido afectado.
 
-ART. 58.- El recurso de inconformidad procede finalmente, contra la ubicación o integración de las Mesas Directivas de las Casillas que aparezcan en la primera publicación. Se interpondrá ante el Comité Distrital por los Partidos Políticos, los candidatos o sus representantes, dentro de los 5 días siguientes a la publicación.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
 
-El recurrente deberá acompañar los elementos probatorios que apoyen la objeción, sin el cumplimiento de éste requisito no se dará trámite a la inconformidad. El Comité Distrital resolverá en cinco días y comunicará su resolución al promovente, enviando copia a la Comisión Electoral del Estado.
+ART. 58.- EI recurso de inconformidad procede finalmente, contra la ubicación o integración de las Mesas Directivas de Casillas que aparezcan en la primera publicación. Se interpondrá ante el Comité Distrital por los Partidos Políticos, los candidatos o sus representantes, dentro de los cinco días siguientes a la publicación.
 
-En caso de declararse procedente la inconformidad, el Comité Distrital Electoral, hará la modificación correspondiente en la lista de casillas, que publicará como lista definitiva, el tercer domingo de junio del año de la elección.
+El recurrente deberá acompañar los elementos probatorios que apoyen la objeción, sin el cumplimiento de este requisito no se dará trámite a la inconformidad. El Comité Distrital resolverá en cinco días y comunicará su resolución al promovente, enviando, copia a la Comisión Electoral del Estado.
 
-Cuando el Comité Distrital Electoral no resuelva la inconformidad dentro del plazo señalado, se podrá ocurrir por escrito ante la Comisión Electoral del Estado, aportando las pruebas correspondientes a la objeción formulada en la inconformidad.
+En caso de declararse procedente la inconformidad, el Comité Distrital Electoral, hará la modificación correspondiente en la lista de casillas, que publicará como lista definitiva, el último domingo de Mayo del año de la elección.
+
+Cuando el Comité Distrital Electoral no resuelva la inconformidad dentro del plazo señalado, se podrá ocurrir por escrito ante la Comisión Electoral de (sic) Estado, aportando las pruebas correspondientes a la objeción formulada en la inconformidad.
 
 II PROTESTA
 
@@ -408,3 +414,11 @@ El Secretario Notario Público
 Lic. José Luis Béjar Fonseca.
 
 Siguen firmas ilegibles de los Representantes del H. Congreso del Estado y de los Representantes de los Partidos Políticos ante la Comisión Electoral del Estado.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE ENERO DE 1984.
+
+###### ARTICULO UNICO.
+
+El presente reglamento iniciará su vigencia el día siguiente de su publicación en el periódico Oficial, organo del Gobierno del Estado.
