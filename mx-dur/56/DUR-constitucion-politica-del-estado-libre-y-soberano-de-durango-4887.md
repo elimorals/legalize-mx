@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1995-04-02"
+last_updated: "1996-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 1996.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -895,9 +895,9 @@ c).- El Gobernador interino cuando haya desempeñado el cargo en los dos último
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-SECCION B.- DEL SUPREMO TRIBUNAL DE JUSTICIA
+SECCON A.- DE SU ORGANIZACION
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 60.
 
@@ -993,7 +993,7 @@ Si fuere necesario convocar a elecciones y éstas no se pudieren verificar por t
 
 #### SECCION C.- DE LOS JUECES
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1993)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE JUNIO DE 1996)</small>
 
 ###### ARTICULO 66.
 
@@ -1117,13 +1117,13 @@ XXXI.- Las demás que expresamente le confiere esta Constitución y las Leyes re
 
 SECCION D.- DE LAS SECRETARIAS DEL DESPACHO DEL EJECUTIVO
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE JUNIO DE 1996)</small>
 
 ###### ARTICULO 71.
 
-Para el auxilio en el despacho de asuntos, competencia del Poder Ejecutivo, sin que sea limitativo, habrá las siguientes Secretarías: General de Gobierno; Finanzas y de Administración; Comunicaciones y Obras Públicas; Desarrollo Industrial y Comercial; Desarrollo Rural; Salud; Educación, Cultura y Deporte; Contraloría; Así como una Procuraduría General de Justicia; además de las Secretarías que determine la Ley Orgánica de la Administración Pública del Estado.
+Para el auxilio en el despacho de asuntos, competencia del Poder Ejecutivo, sin que sea limitativo, habrá las siguientes Secretarías: General de Gobierno; Finanzas y de Administración; Comunicaciones y Obras Públicas; Desarrollo Industrial, Comercial y Minero; Agricultura, ganadería y Desarrollo Rural; Salud; Educación, Cultura y Deporte; Contraloría; así como una Procuraduría General de Justicia; además de las Secretarías que determine la Ley Orgánica de la Administración Pública del Estado.
 
-Las facultades de los Funcionarios a que se refiere este artículo, excepto las del Secretario General de Gobierno, que se determinan en el Artículo 73 de esta Constitución; se fijarán en la Ley Orgánica de la Administración Pública del Estado.
+Las facultades de los funcionarios a que se refiere este artículo, excepto las del Secretario General de Gobierno, que se determinan en el Artículo 73 de esta Constitución; se fijarán en la Ley Orgánica de la Administración Pública del Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 1987)</small>
 
@@ -1209,17 +1209,17 @@ Las contribuciones serán decretadas por el Congreso en cantidad suficiente para
 
 Los habitantes del Estado y quienes residiendo en él tuvieren bienes en su territorio o ejecuten actos que deben surtir efectos en él mismo, estan obligados a contribuir para los gastos públicos de la Entidad de la manera que señalen las leyes relativas.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1993)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE JUNIO DE 1996)</small>
 
 ###### ARTICULO 78.
 
-La coordinación, planeación y control de la Hacienda Pública, estará a cargo del Secretario de Finanzas, dependiente del Ejecutivo, cuyas atribuciones determinará la Ley Orgánica de la Administración Pública del Estado.
+La coordinación, planeación y control de la Hacienda Pública, estará a cargo del Secretario de Finanzas y de Administración, dependiente del Ejecutivo, cuyas atribuciones determinará la Ley Orgánica de la Administración Pública del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE JUNIO DE 1996)</small>
 
 ###### ARTICULO 79.
 
-El Secretario de Finanzas así como los funcionarios y empleados de la Dependencia a su cargo, que manejen fondos públicos, otorgarán ante el Ejecutivo fianza suficiente para garantizar su manejo.
+El Secretario de Finanzas y de Administración, así como los funcionarios y empleados de la dependencia a su cargo, que manejen fondos públicos, otorgarán ante el Ejecutivo fianza suficiente para garantizar su manejo.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1249,9 +1249,9 @@ II.- Promover lo necesario en la esfera de su competencia, para que la administr
 
 III. Intervenir en todos los juicios en que se ventilen intereses de los ausentes, ignorados, menores o incapacitados y en los que se interesen establecimientos de beneficencia pública y de bienestar social a los cuales representará.
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1980)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE JUNIO DE 1996)</small>
 
-IV.- Intervenir por conducto del Secretario de Justicia, en todos los asuntos en que el Estado sea parte, salvo lo referente al interés fiscal en que se atenderá a las disposiciones del Gobernador del Estado para la Representación de la Secretaría de Finanzas.
+IV.- Intervenir por conducto del Procurador de Justicia, en todos los asuntos en que el Estado sea parte, salvo lo referente al interés fiscal, en que se atenderá a las disposiciones del Gobernador del Estado para la representación de la Secretaría de Finanzas y de Administración; y
 
 V.- Las demás que ésta Constitución y leyes respectivas le señalen.
 
@@ -1383,6 +1383,10 @@ La competencia del Supremo Tribunal de Justicia, el funcionamiento del Pleno, de
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
+SECCION B.- DEL SUPREMO TRIBUNAL DE JUSTICIA
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1994)</small>
+
 ###### ARTICULO 92.
 
 El Supremo Tribunal de Justicia del Estado se integra por ocho Magistrados Numerarios y ocho Magistrados Súper Numerarios (sic); éstos últimos suplirán a aquellos en sus faltas temporales y también temporalmente en sus faltas definitivas, a cuyo efecto, serán llamados en el orden numérico en que hubieren sido electos.
@@ -1465,13 +1469,9 @@ XII.- (DEROGADA, P.O. 24 DE ABRIL DE 1988)
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-SECCON A.- DE SU ORGANIZACION
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 1993)</small>
-
 ###### ARTICULO 98.
 
-Los Jueces Civiles, Mercantiles, Familiares, Penales, de Primera Instancia con Jurisdicción Mixta y Auxiliares, serán nombrados por el Supremo Tribunal de Justicia; dichos nombramientos se harán preferentemente a favor de aquellas personas que hayan prestado sus servicios con eficiencia y probidad, en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica. En los casos que el Pleno del Supremo Tribunal lo estime pertinente podrá hacer la designación por examen de oposición, siendo el Pleno quien deberá calificar esos exámenes.
+Los Jueces Civiles, Mercantiles, Familiares, Penales, de Primera Instancia con Jurisdicción Mixta, Auxiliares y Municipales, serán nombrados por el Supremo Tribunal de Justicia; dichos nombramientos se harán preferentemente en favor de aquellas personas que hayan prestado sus servicios con eficiencia y probidad, en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica. En los casos que el Pleno del Supremo Tribunal lo estime pertinente podrá hacer la designación por examen de oposición, siendo el Pleno quien deberá calificar esos exámenes.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 1993)</small>
 
@@ -1557,9 +1557,9 @@ Los Ayuntamientos se integrarán con munícipes electos popular y directamente, 
 
 Para ser electos Presidentes, Síndicos o Regidores de un Ayuntamiento, se requiere:
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 1989)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1996)</small>
 
-I.- Ser ciudadano duranguense, en pleno ejercicio de sus derechos y nativo del municipio, o ciudadano duranguense con residencia efectiva dentro del territorio del municipio que no sea menor de seis años inmediatamente anteriores al día de la elección. Si es nativo del municipio, tener cuando menos dos años de residencia efectiva dentro del territorio del municipio inmediatamente anterior al día de la elección.
+I.- Ser ciudadano duranguense, en pleno ejercicio de sus derechos y nativo del municipio, o ciudadano duranguense con residencia efectiva dentro del territorio del municipio que no sea menor de seis años inmediatamente anteriores al día de la elección;
 
 > <small>(REFORMADA, P.O. 19 DE MARZO DE 1989)</small>
 
@@ -1625,9 +1625,11 @@ a).- Percibirá las contribuciones, incluyendo tasas adicionadas que determine e
 
 Los Ayuntamientos podrán celebrar convenios con el Estado, para que éste se haga cargo de alguna de las funciones relacionadas con la administración de esas contribuciones.
 
-b).- Las participaciones federales, que serán cubiertas por la federación a los Municipios, por conducto del Gobierno del Estado, con arreglo a las bases, montos y plazos que anualmente se determinen por la Legislatura.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE JUNIO DE 1996)</small>
 
-La Secretaría de Finanzas está obligada a publicar en los periódicos de mayor circulación en la localidad, los informes mensuales detallados de las participaciones que en ese lapso corresponda a cada Municipio de la Entidad.
+b).- Las participaciones federales, que serán cubiertas por la Federación a los municipios, por conducto del Gobierno del Estado, con apego a las bases, montos y plazos que anualmente se determinen por la Legislatura.
+
+La Secretaría de Finanzas y de Administración está obligada a publicar en los periódicos de mayor circulación en la localidad, los informes mensuales detallados de las participaciones que en ese lapso corresponda a cada municipio de la entidad;
 
 c).- Los ingresos derivados de la prestación de servicios públicos a cargo del Ayuntamiento, así como los productos y aprovechamientos que le correspondan.
 
@@ -2292,3 +2294,9 @@ El presente Decreto entrará en vigor a los tres días siguientes al de su publi
 ###### ARTICULO SEGUNDO.
 
 Las Secretarías que se fusionarán en los términos del presente Decreto, seguirán funcionando separadamente hasta en tanto se lleven a efecto las correspondientes reformas a la Ley Orgánica de la Administración Pública del Estado.
+
+P.O. 27 DE JUNIO DE 1996.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
