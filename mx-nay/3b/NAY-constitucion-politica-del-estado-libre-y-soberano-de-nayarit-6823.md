@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1929-12-12"
+last_updated: "1930-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 1929.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 1930.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -783,17 +783,17 @@ El Secretario General de Gobierno, en unión del Procurador General de Justicia,
 
 El ejercicio del Poder Judicial se deposita en un Cuerpo que se denominará "SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO", en Jueces de Primera Instancia, Menores y de Paz.
 
-(EN VIGOR TEXTO ORIGINAL, POR DEROGACION DE DECRETO No. 125, P.O. 14 DE AGOSTO DE 1924)
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1930)</small>
 
 ###### Art. 82.
 
-El Supremo Tribunal de Justicia del Estado, constará de tres Magistrados Propietarios y tres Suplentes, siendo uno de ellos el Presidente del Tribunal Pleno.
+El Supremo Tribunal de Justicia del Estado, se compondrá de un Magistrado Propietario y dos Suplentes o Supernumerarios.
 
-(EN VIGOR TEXTO ORIGINAL, POR DEROGACION DE DECRETO No. 125, P.O. 14 DE AGOSTO DE 1924)
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1930)</small>
 
 ###### Art. 83.
 
-Los Magistrados del Supremo Tribunal de Justicia en el Estado, serán electos por el Congreso del mismo, constituido en Colegio Electoral, debiendo concurrir por lo menos a la sesión en que deba hacerse la elección, las dos terceras partes del número total de sus miembros y siendo indispensable que el electo obtenga mayoría absoluta de votos. La elección se hará en escrutinio secreto y la misma Legislatura designará al Presidente del Tribunal.
+Los Magistrados del Supremo Tribunal de Justicia en el Estado, serán electos por el Congreso del mismo, constituido en Colegio Electoral, debiendo concurrir por lo menos a la sesión en que deba hacerse la elección, las dos terceras partes del número total de sus miembros y siendo indispensable que el electo obtenga mayoría absoluta de votos. La elección se hará en escrutinio secreto
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1929)</small>
 
@@ -836,6 +836,10 @@ Mientras se expidan las leyes y disposiciones judiciales propias del Estado, que
 ###### Art. 90.
 
 Los Magistrados, el Procurador de Justicia, Agentes del Ministerio Público, Jueces de Primera Instancia, Menores, de Paz y sus respectivos Secretarios, no podrán ejercer la profesión de abogados, sino en sus negocios propios, en los de sus esposas y en los de sus hijos.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1930)</small>
+
+Se exceptúa de esta prohibición a los Magistrados Suplentes o Supernumerarios cuando no estén ejerciendo sus funciones.
 
 ###### Art. 91.
 
@@ -1035,11 +1039,11 @@ En los delitos del orden común que cometieren los Diputados, el Gobernador, los
 
 En caso afirmativo, el acusado, queda por el mismo hecho separado de su encargo y sujeto desde luego a la acción de los Tribunales comunes, a menos que se trate del Gobernador del Estado, pues, en tal caso, sólo habrá lugar a acusarlo como si se tratara de un delito oficial.
 
-(EN VIGOR TEXTO ORIGINAL, POR DEROGACION DE DECRETO No. 125, P.O. 14 DE AGOSTO DE 1924)
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1930)</small>
 
 ###### Art. 124.
 
-De los delitos y faltas oficiales en que incurran los altos funcionarios a que se refiere el artículo anterior, conocerán: el Congreso como Jurado de acusación y el Supremo Tribunal de Justicia en acuerdo pleno como Jurado de Sentencia; y tratándose de responsabilidad oficial de los Magistrados del Supremo Tribunal de Justicia, será Jurado de Sentencia, el mismo Tribunal Superior integrado en los términos de la ley.
+De los delitos y faltas oficiales en que incurran los altos funcionarios a que se refiere el artículo anterior, conocerán: el Congreso como Jurado de acusación y el Supremo Tribunal de Justicia integrado por el Magistrado Propietario y los dos Suplentes como Jurado de Sentencia; y tratándose de responsabilidad oficial de los Magistrados del Supremo Tribunal de Justicia, será Jurado de Sentencia, el mismo Tribunal Superior integrado en los términos de la ley.
 
 ###### Art. 125.
 
@@ -1172,5 +1176,9 @@ P.O. 11 DE ABRIL DE 1926
 El presente Decreto empezará a surtir sus efectos legales a partir de la fecha de su promulgación.
 
 P.O. 12 DE DICIEMBRE DE 1929
+
+El presente decreto comenzará a surtir sus efectos legales a partir del día de su promulgación.
+
+P.O. 5 DE ENERO DE 1930
 
 El presente decreto comenzará a surtir sus efectos legales a partir del día de su promulgación.
