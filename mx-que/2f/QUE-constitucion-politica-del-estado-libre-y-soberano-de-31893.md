@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1993-12-28"
+last_updated: "1994-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 1993.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 1994.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -255,7 +255,7 @@ II.- Aprobar, reformar, abrogar o derogar leyes y decretos en todos los ramos de
 
 III.- Ejercer el derecho de iniciativa ante el Congreso de la Unión;
 
-IV.- Aprobar leyes en materia de educación, de conformidad con los principios establecidos en el artículo 3º., de la Constitución Política de los Estados Unidos Mexicanos;
+IV.- Aprobar leyes en materia de educación, de conformidad con los principios establecidos en el artículo 3º, de la Constitución Política de los Estados Unidos Mexicanos;
 
 V.- Legislar en materia de preservación y restauración del equilibrio ecológico y protección al ambiente en la esfera de la competencia estatal, estableciendo las bases normativas de concurrencia entre Estado y municipios y los criterios conforme a los cuales se hará efectiva la participación social;
 
@@ -710,6 +710,12 @@ La Ley Orgánica de la Procuraduría General de Justicia establecerá las atribu
 ###### ARTICULO 31°.
 
 La Legislatura no podrá instalarse sin la concurrencia de las dos terceras partes del número total de sus miembros. Al abrir, cerrar o prorrogar sus periodos de sesiones lo hará por decreto.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 1994)</small>
+
+###### ARTICULO 32o.
+
+La Legislatura celebrará una sesión pública y solemne el cuarto domingo de julio de cada año a la que acudirá el Titular del Poder Ejecutivo para rendir un informe del estado general que guarde la administración pública. El Presidente de la Legislatura dará contestación al informe, refiriéndose al mismo en términos generales.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -1547,7 +1553,7 @@ Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La
 
 ###### ARTICULO SEGUNDO.
 
-Aprobadas, en su caso, las reformas y adiciones propuestas al texto Constitucional, la presente Ley entrará en vigor al día siguiente de la publicación de la declaratoria que al respecto emita el Congreso.
+Aprobadas, en su caso, las reformas y adiciones propuestas al texto Constitucional, la presente Ley entrará en vigor al día siguiente de la Publicación de la declaratoria que al respecto emita el Congreso.
 
 P.O. 31 DE OCTUBRE DE 1985
 
@@ -1557,7 +1563,7 @@ Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La
 
 ###### ARTICULO SEGUNDO.
 
-Aprobadas, en su caso, las reformas y adiciones propuestas al texto de la Constitución Política Local, la presente Ley entrará en vigor al día siguiente de la Publicación de la declaratoria que al respecto emita el Congreso.
+Aprobadas, en su caso, las reformas y adiciones propuestas al texto de la Constitución Política Local, la presente Ley entrará en vigor al día siguiente de la publicación de la declaratoria que al respecto emita el Congreso.
 
 P.O. 19 DE DICIEMBRE DE 1985
 
@@ -1644,3 +1650,7 @@ P.O. 28 DE DICIEMBRE DE 1993
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 7 DE JULIO DE 1994
+
+UNICO.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
