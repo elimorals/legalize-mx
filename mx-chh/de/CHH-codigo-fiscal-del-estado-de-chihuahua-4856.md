@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1989-12-30"
+last_updated: "1990-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1990.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -645,7 +645,7 @@ II.- Que el dictamen que emita el Contador Público se formule conforme a las no
 
 III.- Que los contribuyentes comuniquen por escrito a la Tesoería (sic) General del Estado que sus estados financieros serán dictaminados por Contador Público para los fines de este artículo, proporcionando los datos de identificación del profesionista, así como constancia expresa de la aceptación del mismo, y entreguen a la Tesorería General del Estado una copia del dictamen, dentro de los 180 días siguientes a la fecha de la comunicación aludida.
 
-IV.- Que el dictamen presentado a la Tesorería General del Estado se acompañe de una declaración del contador público, referida al propio dictamen, en la que establezca si el contribuyente de que se trate ha cumplido con las obligaciones tributarias que le impone este Código, o en su defecto deberá establecer las salvedades correspondientes precisando las omisiones en que haya incurrido cuantificando en cada caso su monto.
+IV.- Que el dictamen presentado a la Tesorería General del Estado se acompañe de una declaración del contador público, referida al propio dictamen, en la que establezca si el contribuyente de que se trate ha cumplido con los obligaciones tributarias que le impone este Código, o en su defecto deberá establecer las salvedades correspondientes precisando las omisiones en que haya incurrido cuantificando en cada caso su monto.
 
 Los contribuyentes que utilicen los servicios de Contador Público para dictaminar sus estados financieros con fines fiscales federales, están obligados a entregar invariablemente, a la Tesorería General, una copia del dictamen correspondiente. No están sujetos a esta obligación, las sucursales, agencias o cualquiera otra dependencia de negociaciones radicadas fuera del Territorio del Estado.
 
@@ -1611,7 +1611,7 @@ VIII.- Naturaleza y valor de la operación;
 
 IX.- Fecha del otorgamiento y autorización de la escritura;
 
-X.- Nombre y número del Notario o autoridad ante quien se celebre el contrato u operación.
+X.- Nombre y numero del Notario o autoridad ante quien se celebre el contrato u operación.
 
 131.- Toda construcción, ampliación o modificación de la construcción ya existente, deberá ser manifestada por el sujeto del impuesto a la Tesorería General del Estado, en las formas que para el caso autorice la misma, dentro de los 15 días siguientes al de la terminación de la obra realizada.
 
@@ -3081,179 +3081,33 @@ Los ingresos que el Estado obtenga por contribuciones especiales, se fijarán y 
 
 ### CAPITULO XVII. PARTICIPACIONES
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1990)</small>
 
-314.- Quedan comprendidos en este capítulo las participaciones a Municipios derivadas de los ingresos provenientes de la participación federal al Estado, correspondiente a los Fondos General y Financiero completario de participaciones, así como las derivadas de los impuestos estatales.
+314.- Quedan comprendidas en este Capítulo, las participaciones a Municipios derivadas de los ingresos provenientes de la Participación Federal al Estado, correspondientes al Fondo General de Participaciones y al Impuesto sobre Tenencia o Uso de Vehículos, así como las derivadas de los Impuestos Estatales.
 
-315.- (DEROGADO, P.O. 29 DE DICIEMBRE DE 1979)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 1990)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1979)</small>
+315.- Las participaciones a los Municipios del Estado se integrarán de la siguiente forma:
 
-316.- Se concede a los Municipios del Estado las siguientes participaciones:
+I.- 20% (veinte por ciento) sobre la participación Federal al Estado, por concepto de Fondo General de Participaciones, así como las que se deriven del Impuesto sobre Tenencia o Uso de Vehículos.
 
-I.- 20% sobre la participación federal al Estado por concepto del fondo general y financiero complementario de participaciones.
+La participación total a que se refiere esta fracción, así como la referente al fondo de Fomento Municipal se distribuirá entre los Municipios, de conformidad con los estudios económicos que al efecto se elaboren, pudiendo atenderse, entre otros, a los siguientes elementos; número de habitantes, importe de su Presupuestos de Egresos, gasto público Municipal por habitante y número de localidades en su jurisdicción.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1980)</small>
+II.- 20% (veinte por ciento) sobre el ingreso del Estado, por concepto de Impuestos Estatales no destinados a un fin específico.
 
-II.- 20% sobre el ingreso del Estado, por concepto de Impuestos Estatales.
+La participación total a que se refiere esta fracción, se distribuirá entre los Municipios de la siguiente manera:
 
-III.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1980)
+A).- El 50% (cincuenta por ciento) de dicho fondo, en proporción directa a la población de cada Municipio.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1980)</small>
+B).- El 50% (cincuenta por ciento) restante, de acuerdo a los factores de incremento en la Recaudación del Impuesto Predial, que se determine anualmente.
 
-La participación total a que se refieren las fracciones anteriores, se distribuirá entre los Municipios de conformidad con los estudios económicos elaborados, atendiendo a los siguientes elementos:
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1990)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1980)</small>
+316.- Como resultado de los procedimientos de distribución de participaciones, a que se refiere el Artículo anterior, anualmente fijará el Congreso del Estado, en la Ley de Ingresos para los Municipios, los porcentajes de participación sobre el producto total que les corresponda.
 
-Número de habitantes, importe de su presupuesto de egresos, gasto público municipal por habitante y otras consideraciones. En consecuencia, los porcentajes de participación del producto total serán:
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 1990)</small>
 
-(REFORMADA, P.O. 28 DE ENERO DE 1984)(F. DE E., P.O. 11 DE FEBRERO DE 1984)
-
-Municipio Porcentaje de Porcentaje de
-
-Participación Participación
-
-según fracción I según fracción II
-
-Ahumada 0.50 0.8
-
-Aldama 0.41 1.0
-
-Allende Valle de 0.33 1.4
-
-Aquiles Serdán 0.39 0.9
-
-Ascensión 0.30 1.0
-
-Bachíniva 0.31 1.2
-
-Balleza 0.46 1.4
-
-Batopilas 0.30 1.4
-
-Dr. Belizario (sic) Domínguez 0.23 1.4
-
-Bocoyna 0.57 1.5
-
-Buenaventura 0.60 1.4
-
-Camargo 2.08 1.5
-
-Carichí (sic) 0.29 1.4
-
-Casas Grandes 0.33 1.0
-
-Coronado 0.17 1.5
-
-Coyame 0.18 1.4
-
-Cuauhtémoc 5.25 2.0
-
-Cusihuiriachic 0.29 1.4
-
-Chihuahua 25.70 3.0
-
-Chínipas 0.24 1.4
-
-Delicias 4.84 2.0
-
-El Tule 0.15 1.7
-
-Praxedis G. Guerrero 0.23 1.4
-
-Galeana 0.13 1.8
-
-General Trías 0.23 1.4
-
-Gómez Farías 0.34 1.3
-
-Gran Morelos 0.22 1.4
-
-Guachochi 0.58 1.5
-
-Guadalupe D. B. 0.38 1.2
-
-Guadalupe y Calvo 1.01 2.4
-
-Guazapares 0.25 1.4
-
-Guerrero 1.24 2.5
-
-H. del Parral 4.89 2.0
-
-Huejotitán 0.15 1.7
-
-Ignacio Zaragoza 0.33 1.4
-
-Janos 0.26 1.0
-
-Jiménez 1.11 1.3
-
-Juárez 30.72 3.0
-
-Julimes 0.23 1.2
-
-La Cruz 0.16 1.6
-
-López 0.27 1.2
-
-Madera 1.45 2.4
-
-Maguarichi 0.16 1.6
-
-Manuel Benavides 0.22 1.4
-
-Matachic 0.23 1.3
-
-Matamoros 0.24 1.3
-
-Meoqui 0.85 1.3
-
-Morelos 0.22 1.5
-
-Moris 0.17 1.5
-
-Maniquipa 0.94 2.4
-
-Nonoava 0.16 1.5
-
-Nuevo Casas Grandes 2.00 1.2
-
-Ocampo 0.36 1.1
-
-Ojinaga 0.85 1.2
-
-Riva Palacio 0.44 1.4
-
-Rosales 0.33 1.4
-
-Rosario Valle de 0.20 1.5
-
-San Francisco de Borja 0.23 1.4
-
-San Francisco del Oro 0.69 0.9
-
-San Francisco de Conchos 0.16 1.6
-
-Santa Bárbara 0.87 1.0
-
-Satevó 0.23 1.2
-
-Saucillo 1.09 2.3
-
-Temósachi (sic) 0.33 1.0
-
-Urique 0.45 1.4
-
-Uruachi 0.25 1.4
-
-Zaragoza Valle de 0.23 1.4
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1980)</small>
-
-El importe de la participación a que se contrae la fracción II, se destinará en un 100% a obras públicas. El Municipio que no lo hiciere, perderá la participación en beneficio de aquellos que cumplan este requisito. La Tesorería General del Estado vigilará el cumplimiento de esta disposición.
-
-317.- (DEROGADO, P.O. 29 DE DICIEMBRE DE 1979)
+317.- El importe de las participaciones a que se contrae la fracción II del artículo 315, se destinará en un ciento por ciento a programas de obra pública. En condiciones excepcionales plenamente justificadas ante la Comisión de Gasto y Financiamiento, podrán destinarse a otros fines.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -4480,3 +4334,7 @@ P.O. 30 DE DICIEMBRE DE 1989.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+P.O. 22 DE DICIEMBRE DE 1990.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor el día primero de enero de mil novecientos noventa y uno.
