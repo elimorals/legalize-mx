@@ -4,7 +4,7 @@ identifier: "COL-ley-general-de-hacienda-municipal-3994"
 country: "mx"
 rank: "ley_general"
 publication_date: "1994-04-16"
-last_updated: "2001-12-29"
+last_updated: "2002-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY GENERAL DE HACIENDA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2001.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO PUBLICADA EN EL PERIODICO OFICIAL EL 11 DE NOVIEMBRE DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL:ABROGADA
 
 Ley publicada en el Periódico Oficial "El Estado de Colima", sábado 16 de abril de 1994.
 
@@ -37,21 +39,7 @@ DECRETO
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 32, DE LA CONSTITUCION POLITICA LOCAL, EN NOMBRE DEL PUEBLO; Y
 
-C O N S I D E R A N D O :
-
-PRIMERO.- Que mediante oficio número DGG-044/94 de fecha dieciocho de enero del presente año de 1994, suscrito por los CC. Lic. Carlos de la Madrid Virgen, Lic. Ramón Pérez Díaz y Contador Ernesto Terríquez Sámano, Gobernador Constitucional del Estado, Secretario General de Gobierno y Secretario de Finanzas, respectivamente, fue turnado a este H. Congreso del Estado la iniciativa de nueva Ley General de Hacienda Municipal.
-
-SEGUNDO.- Que el Ejecutivo del Estado, se propone actualizar el marco jurídico que rige a la comunidad colimense, adecuándolo a los tiempos que vive la sociedad.
-
-TERCERO.- Que las Entidades municipales en su permanente crecimiento demográfico conforman una sociedad cada día más demandante pero también propositiva; por lo que se hace necesario ajustar la norma a esta nueva relación, en donde la participación social por la vía de la tributación, contribuya, a fortalecer la Hacienda Municipal, traduciéndose ello en una mejor calidad de los servicios.
-
-CUARTO.- Que la Ley General de Hacienda Municipal vigente desde 1984, ha sido rebasada ampliamente por las transformaciones políticas, económicas y sociales que se han dado en los últimos años y de las que se ha derivado el otorgamiento de mayores atribuciones a los municipios, para la administración de sus haciendas.
-
-QUINTO.- Que es necesario fortalecer la autonomía municipal, procurando garantizar a los ayuntamientos el legítimo derecho a recaudar los ingresos provenientes de las contribuciones inmobiliarias y demás que se señalan en la propia Constitución Federal, en las Leyes Fiscales y en los Convenios de Coordinación respectivos.
-
-SEXTO.- Que es necesario reglamentar debidamente las obligaciones fiscales emanadas de los ordenamientos municipales, simplificando su estructura administrativa para su mejor cumplimiento y mayor recaudación.
-
-SEPTIMO.- Que con la modernización administrativa que han logrado los Ayuntamientos se requiere de un mejor instrumento jurídico, que defina claramente sus facultades y obligaciones en materia fiscal y establezca con claridad los rubros y tarifas que el ciudadano está obligado a pagar por los servicios o prestaciones recibidas.
+.
 
 Por lo anteriormente expuesto y fundado ha tenido a bien expedir el siguiente
 
@@ -635,9 +623,7 @@ No quedan comprendidas en esta disposición las multas que se impongan cuando se
 
 ###### ARTICULO 72.
 
-Los Notarios Públicos, para autorizar en forma definitiva escrituras en que se hagan constar contratos, convenios y resoluciones judiciales o administrativas, cuyo objeto sean predios ubicados en el municipio, deberán exigir el pago de este impuesto, para cuyo efecto se deberá
-
-presentar el último recibo de pago.
+Los Notarios Públicos, para autorizar en forma definitiva escrituras en que se hagan constar contratos, convenios y resoluciones judiciales o administrativas, cuyo objeto sean predios ubicados en el municipio, deberán exigir el pago de este impuesto, para cuyo efecto se deberá presentar el último recibo de pago.
 
 ###### ARTICULO 73.
 
@@ -1025,9 +1011,7 @@ El servidor público que preste algún servicio por el que se cause un derecho, 
 
 En caso de discrepancia acerca de la procedencia o cuantificación del derecho, cuando de su pago dependa la prestación del servicio, el depósito en la Tesorería Municipal del importe fijado por el Tesorero Municipal en los términos establecidos por las leyes fiscales, dará lugar a la prestación de dicho servicio.
 
-### CAPITULO II. DE LOS SERVICIOS PRESTADOS POR LA DIRECCION
-
-DE OBRAS PUBLICAS MUNICIPALES
+### CAPITULO II. DE LOS SERVICIOS PRESTADOS POR LA DIRECCION DE OBRAS PUBLICAS MUNICIPALES
 
 ###### ARTICULO 113.
 
@@ -1067,9 +1051,7 @@ Se causará el derecho por el registro de directores responsables de obra y corr
 
 Los ejecutores de obras que por contrato otorguen los ayuntamientos, quedan obligados a aportar por concepto de derecho de inspección y vigilancia, el 5 al millar del monto de cada una de las estimaciones, cuyos importes serán retenidos por la Tesorería Municipal y destinados a la construcción y mantenimiento de áreas recreativas.
 
-### CAPITULO III. DE LOS SERVICIOS PRESTADOS POR LA DIRECCION
-
-DE SERVICIOS PUBLICOS MUNICIPALES
+### CAPITULO III. DE LOS SERVICIOS PRESTADOS POR LA DIRECCION DE SERVICIOS PUBLICOS MUNICIPALES
 
 ###### ARTICULO 122.
 
@@ -1117,17 +1099,17 @@ El derecho de alumbrado público se pagará de conformidad con las tasas y cuota
 
 I.- Para los contribuyentes cuya obligación encuadra en lo dispuesto por la fracción I del artículo 128 de esta Ley:
 
-a).- Por los servicios domésticos y servicios generales en baja tensión, así como otros servicios en alta tensión para más de 20 Kw de demanda ..................................................................................................... 10%
+a).- Por los servicios domésticos y servicios generales en baja tensión, así como otros servicios en alta tensión para más de 20 Kw de demanda ... 10%
 
 b).- Por los servicios generales en alta tensión de 66 o más Kv de demanda, conforme a los siguientes rangos de consumo en Kwh:
 
-Hasta15,000,000 ......................................................................................................................................... 1.5%
+Hasta 15,000,000 1.5%
 
-de 15,000,001 a 30,000,000 ......................................................................................................................1.0%
+de 15,000,001 a 30,000,000 1.0%
 
-de 30,000,001 a 45,000,000. .....................................................................................................................0.5%
+de 30,000,001 a 45,000,000 0.5%
 
-de 45,000,001 en adelante ......................................................................................................................0.4%
+de 45,000,001 en adelante 0.4%
 
 II.- Para los contribuyentes cuya obligación encuadra en lo dispuesto por la fracción II del artículo 128 de esta Ley, se pagará anualmente por cada siete metros lineales de frente o fracción, colindantes con vías públicas que cuenten con servicio de alumbrado público en uso, el importe equivalente a un salario mínimo general diario de la zona económica del Estado de Colima.
 
@@ -1205,9 +1187,7 @@ El Presidente Municipal podrá autorizar los servicios médicos municipales en f
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 1996)</small>
 
-### CAPITULO VIII BIS. DE LOS DERECHOS POR EL USO O TENENCIA DE LOS ANUNCIOS
-
-Y LA REALIZACION DE PUBLICIDAD
+### CAPITULO VIII BIS. DE LOS DERECHOS POR EL USO O TENENCIA DE LOS ANUNCIOS Y LA REALIZACION DE PUBLICIDAD
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
 
@@ -1253,7 +1233,7 @@ ARTICULO 143 I.- Es base para el pago de estos derechos, el tipo de autorizació
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
 
-ARTICULO 143 J.- Los derechos consignados en el presente capítulo se pagarán en la Tesorería Municipal, previo a la expedición de la licencia, autorización o permiso correspondiente, de conformidad con las tarifas que al efecto se señalen en las Leyes de Ingresos de los Municipios
+ARTICULO 143 J.- Los derechos consignados en el presente capítulo se pagarán en la Tesorería Municipal, previo a la expedición de la licencia, autorización o permiso correspondiente, de conformidad con las tarifas que al efecto se señalen en las Leyes de Ingresos de los Municipios.
 
 ### CAPITULO IX. DE LOS SERVICIOS DE TRANSITO
 
@@ -1735,9 +1715,9 @@ II.- Las cantidades que se ofrezcan.
 
 ###### ARTICULO 203.
 
-El día y hora señalados en la convocatoria, el Tesorero Municipal, después de pasar lista de las personas que hubiéren presentado postura, hará saber a las que estén presentes, cuáles fueron calificadas como legales y les dará a conocer cuál es la mejor, concediendo plazos sucesivos de cinco minutos, hasta que la última postura no sea mejorada.
+El día y hora señalados en la convocatoria, el Tesorero Municipal, después de pasar lista de las personas que hubieren presentado postura, hará saber a las que estén presentes, cuáles fueron calificadas como legales y les dará a conocer cuál es la mejor, concediendo plazos sucesivos de cinco minutos, hasta que la última postura no sea mejorada.
 
-El Tesorero Municipal fincará el remate en favor de quien hubiére hecho la mejor postura.
+El Tesorero Municipal fincará el remate en favor de quien hubiere hecho la mejor postura.
 
 Si en la última postura se ofrece igual suma por dos o más solicitantes, se designará por suerte la que deberá aceptarse, salvo que se opte por adjudicar los bienes en favor del fisco municipal.
 
@@ -1987,13 +1967,13 @@ Dado en Palacio de Gobierno, a los 8 días del mes de abril 1994.- EL GOBERNADOR
 
 P.O. 21 DE ENERO DE 1995.
 
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA"
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
 
 P.O. 30 DE NOVIEMBRE DE 1996.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 30 DE DICIEMBRE DE 2000
+P.O. 30 DE DICIEMBRE DE 2000.
 
 ###### ARTICULO PRIMERO
 
@@ -2031,10 +2011,390 @@ VILLA DE ALVAREZ40.00% 50.00% 60.00% 70.00% 80.00% 90.00% 100.00%
 
 Durante el ejercicio fiscal 2002, la Base del impuesto sobre transmisiones patrimoniales será el 50% del valor que resulte conforme al artículo 81 de la presente Ley.
 
-P.O. 17 DE FEBRERO DE 2001
+P.O. 17 DE FEBRERO DE 2001.
 
 UNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 29 DE DICIEMBRE DE 2001
 
 UNICO.- El presente Decreto entrará en vigor el día primero de enero del año dos mil dos, previa su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE NOVIEMBRE DE 2002.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día 1º de enero del año 2003, y deberá publicarse en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley General de Hacienda Municipal expedida mediante Decreto número 258, de fecha 7 de abril de 1994 y publicada en el Periódico Oficial del Estado, el 16 del mismo mes y año, sus posteriores reformas y adiciones y todas las disposiciones y demás ordenamientos que se opongan a la presente Ley.
+
+###### ARTICULO TERCERO.
+
+Los créditos fiscales no cubiertos en el año en que se causaron, se liquidarán de conformidad con las tasas o cuotas establecidas en la ley de ingresos vigente en la fecha en que nació la obligación fiscal.
+
+###### ARTICULO CUARTO.
+
+Con motivo de la actualización de los valores catastrales para adecuarlas a las reformas del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y a fin de evitar impactos desproporcionados en el pago del impuesto predial, la base para la determinación de dicho impuesto se continuará ajustando hasta alcanzar el 100 por ciento del valor catastral en los términos del artículo 7º de esta Ley, como a continuación se señala:
+
+AÑO 2003 2004 2005 2006 2007
+
+BASE 60% 70% 80% 90% 100%
+
+###### ARTICULO QUINTO.
+
+En los predios con valor catastral de $0.00 a $264,000.00 el impuesto predial que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de este ordenamiento, en ningún caso podrá ser mayor del que resulte de multiplicar el factor de 1.06 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+
+En los predios con valor catastral de $264,000.01 en adelante, el impuesto que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de esta Ley, en ningún caso podrá ser menor o mayor del que resulte de multiplicar el factor de 1.12 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+
+Lo previsto en este artículo, no será aplicable respecto de los predios cuyo valor se hubiera modificado en el último bimestre del año que se trate, por motivos distintos a la publicación de las tablas de valores unitarios de terreno y de construcción.
+
+###### ARTICULO SEXTO.
+
+Se tomará como base para el cálculo del impuesto sobre transmisiones patrimoniales los porcentajes que a continuación se señalan respecto del valor que resulte conforme al artículo 25 del presente ordenamiento.
+
+AÑO 2003 2004 2005 2006 2007
+
+BASE 60% 70% 80% 90% 100%
+
+P.O. 11 DE NOVIEMBRE DE 2002.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día 1º de enero del año 2003, y deberá publicarse en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley General de Hacienda Municipal expedida mediante Decreto número 258, de fecha 7 de abril de 1994 y publicada en el Periódico Oficial del Estado, el 16 del mismo mes y año, sus posteriores reformas y adiciones y todas las disposiciones y demás ordenamientos que se opongan a la presente Ley.
+
+###### ARTICULO TERCERO.
+
+Los créditos fiscales no cubiertos en el año en que se causaron, se liquidarán de conformidad con las tasas o cuotas establecidas en la ley de ingresos vigente en la fecha en que nació la obligación fiscal.
+
+###### ARTICULO CUARTO.
+
+Con motivo de la actualización de los valores catastrales para adecuarlas a las reformas del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y a fin de evitar impactos desproporcionados en el pago del impuesto predial, la base para la determinación de dicho impuesto se continuará ajustando hasta alcanzar el 100 por ciento del valor catastral en los términos del artículo 7º de esta Ley, como a continuación se señala:
+
+AÑO 2003 2004 2005 2006 2007
+
+BASE 60% 70% 80% 90% 100%
+
+###### ARTICULO QUINTO.
+
+En los predios con valor catastral de $0.00 a $264,000.00 el impuesto predial que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de este ordenamiento, en ningún caso podrá ser mayor del que resulte de multiplicar el factor de 1.06 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+
+En los predios con valor catastral de $264,000.01 en adelante, el impuesto que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de esta Ley, en ningún caso podrá ser menor o mayor del que resulte de multiplicar el factor de 1.12 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+
+Lo previsto en este artículo, no será aplicable respecto de los predios cuyo valor se hubiera modificado en el último bimestre del año que se trate, por motivos distintos a la publicación de las tablas de valores unitarios de terreno y de construcción.
+
+###### ARTICULO SEXTO.
+
+Se tomará como base para el cálculo del impuesto sobre transmisiones patrimoniales los porcentajes que a continuación se señalan respecto del valor que resulte conforme al artículo 25 del presente ordenamiento.
+
+AÑO 2003 2004 2005 2006 2007
+
+BASE 60% 70% 80% 90% 100%
+
+P.O. 11 DE NOVIEMBRE DE 2002.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día 1º de enero del año 2003, y deberá publicarse en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley General de Hacienda Municipal expedida mediante Decreto número 258, de fecha 7 de abril de 1994 y publicada en el Periódico Oficial del Estado, el 16 del mismo mes y año, sus posteriores reformas y adiciones y todas las disposiciones y demás ordenamientos que se opongan a la presente Ley.
+
+###### ARTICULO TERCERO.
+
+Los créditos fiscales no cubiertos en el año en que se causaron, se liquidarán de conformidad con las tasas o cuotas establecidas en la ley de ingresos vigente en la fecha en que nació la obligación fiscal.
+
+###### ARTICULO CUARTO.
+
+Con motivo de la actualización de los valores catastrales para adecuarlas a las reformas del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y a fin de evitar impactos desproporcionados en el pago del impuesto predial, la base para la determinación de dicho impuesto se continuará ajustando hasta alcanzar el 100 por ciento del valor catastral en los términos del artículo 7º de esta Ley, como a continuación se señala:
+
+AÑO 2003 2004 2005 2006 2007
+
+BASE 60% 70% 80% 90% 100%
+
+###### ARTICULO QUINTO.
+
+En los predios con valor catastral de $0.00 a $264,000.00 el impuesto predial que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de este ordenamiento, en ningún caso podrá ser mayor del que resulte de multiplicar el factor de 1.06 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+
+En los predios con valor catastral de $264,000.01 en adelante, el impuesto que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de esta Ley, en ningún caso podrá ser menor o mayor del que resulte de multiplicar el factor de 1.12 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+
+Lo previsto en este artículo, no será aplicable respecto de los predios cuyo valor se hubiera modificado en el último bimestre del año que se trate, por motivos distintos a la publicación de las tablas de valores unitarios de terreno y de construcción.
+
+###### ARTICULO SEXTO.
+
+Se tomará como base para el cálculo del impuesto sobre transmisiones patrimoniales los porcentajes que a continuación se señalan respecto del valor que resulte conforme al artículo 25 del presente ordenamiento.
+
+AÑO 2003 2004 2005 2006 2007
+
+BASE 60% 70% 80% 90% 100%
+
+P.O. 11 DE NOVIEMBRE DE 2002.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día 1º de enero del año 2003, y deberá publicarse en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley General de Hacienda Municipal expedida mediante Decreto número 258, de fecha 7 de abril de 1994 y publicada en el Periódico Oficial del Estado, el 16 del mismo mes y año, sus posteriores reformas y adiciones y todas las disposiciones y demás ordenamientos que se opongan a la presente Ley.
+
+###### ARTICULO TERCERO.
+
+Los créditos fiscales no cubiertos en el año en que se causaron, se liquidarán de conformidad con las tasas o cuotas establecidas en la ley de ingresos vigente en la fecha en que nació la obligación fiscal.
+
+###### ARTICULO CUARTO.
+
+Con motivo de la actualización de los valores catastrales para adecuarlas a las reformas del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y a fin de evitar impactos desproporcionados en el pago del impuesto predial, la base para la determinación de dicho impuesto se continuará ajustando hasta alcanzar el 100 por ciento del valor catastral en los términos del artículo 7º de esta Ley, como a continuación se señala:
+
+AÑO 2003 2004 2005 2006 2007
+
+BASE 60% 70% 80% 90% 100%
+
+###### ARTICULO QUINTO.
+
+En los predios con valor catastral de $0.00 a $264,000.00 el impuesto predial que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de este ordenamiento, en ningún caso podrá ser mayor del que resulte de multiplicar el factor de 1.06 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+
+En los predios con valor catastral de $264,000.01 en adelante, el impuesto que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de esta Ley, en ningún caso podrá ser menor o mayor del que resulte de multiplicar el factor de 1.12 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+
+Lo previsto en este artículo, no será aplicable respecto de los predios cuyo valor se hubiera modificado en el último bimestre del año que se trate, por motivos distintos a la publicación de las tablas de valores unitarios de terreno y de construcción.
+
+###### ARTICULO SEXTO.
+
+Se tomará como base para el cálculo del impuesto sobre transmisiones patrimoniales los porcentajes que a continuación se señalan respecto del valor que resulte conforme al artículo 25 del presente ordenamiento.
+
+AÑO 2003 2004 2005 2006 2007
+
+BASE 60% 70% 80% 90% 100%
+
+P.O. 11 DE NOVIEMBRE DE 2002.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día 1º de enero del año 2003, y deberá publicarse en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley General de Hacienda Municipal expedida mediante Decreto número 258, de fecha 7 de abril de 1994 y publicada en el Periódico Oficial del Estado, el 16 del mismo mes y año, sus posteriores reformas y adiciones y todas las disposiciones y demás ordenamientos que se opongan a la presente Ley.
+
+###### ARTICULO TERCERO.
+
+Los créditos fiscales no cubiertos en el año en que se causaron, se liquidarán de conformidad con las tasas o cuotas establecidas en la ley de ingresos vigente en la fecha en que nació la obligación fiscal.
+
+###### ARTICULO CUARTO.
+
+Con motivo de la actualización de los valores catastrales para adecuarlas a las reformas del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y a fin de evitar impactos desproporcionados en el pago del impuesto predial, la base para la determinación de dicho impuesto se continuará ajustando hasta alcanzar el 100 por ciento del valor catastral en los términos del artículo 7º de esta Ley, como a continuación se señala:
+
+AÑO 2003 2004 2005 2006 2007
+
+BASE 60% 70% 80% 90% 100%
+
+###### ARTICULO QUINTO.
+
+En los predios con valor catastral de $0.00 a $264,000.00 el impuesto predial que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de este ordenamiento, en ningún caso podrá ser mayor del que resulte de multiplicar el factor de 1.06 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+
+En los predios con valor catastral de $264,000.01 en adelante, el impuesto que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de esta Ley, en ningún caso podrá ser menor o mayor del que resulte de multiplicar el factor de 1.12 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+
+Lo previsto en este artículo, no será aplicable respecto de los predios cuyo valor se hubiera modificado en el último bimestre del año que se trate, por motivos distintos a la publicación de las tablas de valores unitarios de terreno y de construcción.
+
+###### ARTICULO SEXTO.
+
+Se tomará como base para el cálculo del impuesto sobre transmisiones patrimoniales los porcentajes que a continuación se señalan respecto del valor que resulte conforme al artículo 25 del presente ordenamiento.
+
+AÑO 2003 2004 2005 2006 2007
+
+BASE 60% 70% 80% 90% 100%
+
+P.O. 11 DE NOVIEMBRE DE 2002.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día 1º de enero del año 2003, y deberá publicarse en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley General de Hacienda Municipal expedida mediante Decreto número 258, de fecha 7 de abril de 1994 y publicada en el Periódico Oficial del Estado, el 16 del mismo mes y año, sus posteriores reformas y adiciones y todas las disposiciones y demás ordenamientos que se opongan a la presente Ley.
+
+###### ARTICULO TERCERO.
+
+Los créditos fiscales no cubiertos en el año en que se causaron, se liquidarán de conformidad con las tasas o cuotas establecidas en la ley de ingresos vigente en la fecha en que nació la obligación fiscal.
+
+###### ARTICULO CUARTO.
+
+Con motivo de la actualización de los valores catastrales para adecuarlas a las reformas del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y a fin de evitar impactos desproporcionados en el pago del impuesto predial, la base para la determinación de dicho impuesto se continuará ajustando hasta alcanzar el 100 por ciento del valor catastral en los términos del artículo 7º de esta Ley, como a continuación se señala:
+
+AÑO 2003 2004 2005 2006 2007
+
+BASE 60% 70% 80% 90% 100%
+
+###### ARTICULO QUINTO.
+
+En los predios con valor catastral de $0.00 a $264,000.00 el impuesto predial que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de este ordenamiento, en ningún caso podrá ser mayor del que resulte de multiplicar el factor de 1.06 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+
+En los predios con valor catastral de $264,000.01 en adelante, el impuesto que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de esta Ley, en ningún caso podrá ser menor o mayor del que resulte de multiplicar el factor de 1.12 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+
+Lo previsto en este artículo, no será aplicable respecto de los predios cuyo valor se hubiera modificado en el último bimestre del año que se trate, por motivos distintos a la publicación de las tablas de valores unitarios de terreno y de construcción.
+
+###### ARTICULO SEXTO.
+
+Se tomará como base para el cálculo del impuesto sobre transmisiones patrimoniales los porcentajes que a continuación se señalan respecto del valor que resulte conforme al artículo 25 del presente ordenamiento.
+
+AÑO 2003 2004 2005 2006 2007
+
+BASE 60% 70% 80% 90% 100%
+
+P.O. 11 DE NOVIEMBRE DE 2002.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día 1º de enero del año 2003, y deberá publicarse en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley General de Hacienda Municipal expedida mediante Decreto número 258, de fecha 7 de abril de 1994 y publicada en el Periódico Oficial del Estado, el 16 del mismo mes y año, sus posteriores reformas y adiciones y todas las disposiciones y demás ordenamientos que se opongan a la presente Ley.
+
+###### ARTICULO TERCERO.
+
+Los créditos fiscales no cubiertos en el año en que se causaron, se liquidarán de conformidad con las tasas o cuotas establecidas en la ley de ingresos vigente en la fecha en que nació la obligación fiscal.
+
+###### ARTICULO CUARTO.
+
+Con motivo de la actualización de los valores catastrales para adecuarlas a las reformas del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y a fin de evitar impactos desproporcionados en el pago del impuesto predial, la base para la determinación de dicho impuesto se continuará ajustando hasta alcanzar el 100 por ciento del valor catastral en los términos del artículo 7º de esta Ley, como a continuación se señala:
+
+AÑO 2003 2004 2005 2006 2007
+
+BASE 60% 70% 80% 90% 100%
+
+###### ARTICULO QUINTO.
+
+En los predios con valor catastral de $0.00 a $264,000.00 el impuesto predial que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de este ordenamiento, en ningún caso podrá ser mayor del que resulte de multiplicar el factor de 1.06 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+
+En los predios con valor catastral de $264,000.01 en adelante, el impuesto que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de esta Ley, en ningún caso podrá ser menor o mayor del que resulte de multiplicar el factor de 1.12 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+
+Lo previsto en este artículo, no será aplicable respecto de los predios cuyo valor se hubiera modificado en el último bimestre del año que se trate, por motivos distintos a la publicación de las tablas de valores unitarios de terreno y de construcción.
+
+###### ARTICULO SEXTO.
+
+Se tomará como base para el cálculo del impuesto sobre transmisiones patrimoniales los porcentajes que a continuación se señalan respecto del valor que resulte conforme al artículo 25 del presente ordenamiento.
+
+AÑO 2003 2004 2005 2006 2007
+
+BASE 60% 70% 80% 90% 100%
+
+P.O. 11 DE NOVIEMBRE DE 2002.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día 1º de enero del año 2003, y deberá publicarse en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley General de Hacienda Municipal expedida mediante Decreto número 258, de fecha 7 de abril de 1994 y publicada en el Periódico Oficial del Estado, el 16 del mismo mes y año, sus posteriores reformas y adiciones y todas las disposiciones y demás ordenamientos que se opongan a la presente Ley.
+
+###### ARTICULO TERCERO.
+
+Los créditos fiscales no cubiertos en el año en que se causaron, se liquidarán de conformidad con las tasas o cuotas establecidas en la ley de ingresos vigente en la fecha en que nació la obligación fiscal.
+
+###### ARTICULO CUARTO.
+
+Con motivo de la actualización de los valores catastrales para adecuarlas a las reformas del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y a fin de evitar impactos desproporcionados en el pago del impuesto predial, la base para la determinación de dicho impuesto se continuará ajustando hasta alcanzar el 100 por ciento del valor catastral en los términos del artículo 7º de esta Ley, como a continuación se señala:
+
+AÑO 2003 2004 2005 2006 2007
+
+BASE 60% 70% 80% 90% 100%
+
+###### ARTICULO QUINTO.
+
+En los predios con valor catastral de $0.00 a $264,000.00 el impuesto predial que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de este ordenamiento, en ningún caso podrá ser mayor del que resulte de multiplicar el factor de 1.06 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+
+En los predios con valor catastral de $264,000.01 en adelante, el impuesto que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de esta Ley, en ningún caso podrá ser menor o mayor del que resulte de multiplicar el factor de 1.12 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+
+Lo previsto en este artículo, no será aplicable respecto de los predios cuyo valor se hubiera modificado en el último bimestre del año que se trate, por motivos distintos a la publicación de las tablas de valores unitarios de terreno y de construcción.
+
+###### ARTICULO SEXTO.
+
+Se tomará como base para el cálculo del impuesto sobre transmisiones patrimoniales los porcentajes que a continuación se señalan respecto del valor que resulte conforme al artículo 25 del presente ordenamiento.
+
+AÑO 2003 2004 2005 2006 2007
+
+BASE 60% 70% 80% 90% 100%
+
+P.O. 11 DE NOVIEMBRE DE 2002.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día 1º de enero del año 2003, y deberá publicarse en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley General de Hacienda Municipal expedida mediante Decreto número 258, de fecha 7 de abril de 1994 y publicada en el Periódico Oficial del Estado, el 16 del mismo mes y año, sus posteriores reformas y adiciones y todas las disposiciones y demás ordenamientos que se opongan a la presente Ley.
+
+###### ARTICULO TERCERO.
+
+Los créditos fiscales no cubiertos en el año en que se causaron, se liquidarán de conformidad con las tasas o cuotas establecidas en la ley de ingresos vigente en la fecha en que nació la obligación fiscal.
+
+###### ARTICULO CUARTO.
+
+Con motivo de la actualización de los valores catastrales para adecuarlas a las reformas del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y a fin de evitar impactos desproporcionados en el pago del impuesto predial, la base para la determinación de dicho impuesto se continuará ajustando hasta alcanzar el 100 por ciento del valor catastral en los términos del artículo 7º de esta Ley, como a continuación se señala:
+
+AÑO 2003 2004 2005 2006 2007
+
+BASE 60% 70% 80% 90% 100%
+
+###### ARTICULO QUINTO.
+
+En los predios con valor catastral de $0.00 a $264,000.00 el impuesto predial que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de este ordenamiento, en ningún caso podrá ser mayor del que resulte de multiplicar el factor de 1.06 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+
+En los predios con valor catastral de $264,000.01 en adelante, el impuesto que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de esta Ley, en ningún caso podrá ser menor o mayor del que resulte de multiplicar el factor de 1.12 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+
+Lo previsto en este artículo, no será aplicable respecto de los predios cuyo valor se hubiera modificado en el último bimestre del año que se trate, por motivos distintos a la publicación de las tablas de valores unitarios de terreno y de construcción.
+
+###### ARTICULO SEXTO.
+
+Se tomará como base para el cálculo del impuesto sobre transmisiones patrimoniales los porcentajes que a continuación se señalan respecto del valor que resulte conforme al artículo 25 del presente ordenamiento.
+
+AÑO 2003 2004 2005 2006 2007
+
+BASE 60% 70% 80% 90% 100%
+
+P.O. 11 DE NOVIEMBRE DE 2002.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día 1º de enero del año 2003, y deberá publicarse en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley General de Hacienda Municipal expedida mediante Decreto número 258, de fecha 7 de abril de 1994 y publicada en el Periódico Oficial del Estado, el 16 del mismo mes y año, sus posteriores reformas y adiciones y todas las disposiciones y demás ordenamientos que se opongan a la presente Ley.
+
+###### ARTICULO TERCERO.
+
+Los créditos fiscales no cubiertos en el año en que se causaron, se liquidarán de conformidad con las tasas o cuotas establecidas en la ley de ingresos vigente en la fecha en que nació la obligación fiscal.
+
+###### ARTICULO CUARTO.
+
+Con motivo de la actualización de los valores catastrales para adecuarlas a las reformas del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y a fin de evitar impactos desproporcionados en el pago del impuesto predial, la base para la determinación de dicho impuesto se continuará ajustando hasta alcanzar el 100 por ciento del valor catastral en los términos del artículo 7º de esta Ley, como a continuación se señala:
+
+AÑO 2003 2004 2005 2006 2007
+
+BASE 60% 70% 80% 90% 100%
+
+###### ARTICULO QUINTO.
+
+En los predios con valor catastral de $0.00 a $264,000.00 el impuesto predial que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de este ordenamiento, en ningún caso podrá ser mayor del que resulte de multiplicar el factor de 1.06 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+
+En los predios con valor catastral de $264,000.01 en adelante, el impuesto que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de esta Ley, en ningún caso podrá ser menor o mayor del que resulte de multiplicar el factor de 1.12 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+
+Lo previsto en este artículo, no será aplicable respecto de los predios cuyo valor se hubiera modificado en el último bimestre del año que se trate, por motivos distintos a la publicación de las tablas de valores unitarios de terreno y de construcción.
+
+###### ARTICULO SEXTO.
+
+Se tomará como base para el cálculo del impuesto sobre transmisiones patrimoniales los porcentajes que a continuación se señalan respecto del valor que resulte conforme al artículo 25 del presente ordenamiento.
+
+AÑO 2003 2004 2005 2006 2007
+
+BASE 60% 70% 80% 90% 100%
