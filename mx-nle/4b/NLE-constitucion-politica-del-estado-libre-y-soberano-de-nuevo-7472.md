@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1947-04-30"
+last_updated: "1948-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 1947.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 1948.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -789,9 +789,13 @@ Se concede acción popula (sic) para denunciar ante el Congreso los delitos comu
 
 ## TITULO VIII.. De los Municipios
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1948)</small>
+
 ###### Art. 118.
 
 Los Municipios que integran el Estado son independientes entre sí. Cada uno de ellos será administrado por un Ayuntamiento de elección popular directa. Entre los Ayuntamientos y los Poderes del Estado no habrá ninguna Autoridad intermedia.
+
+En las elecciones Municipales participarán las mujeres, en igualdad de condición que los varones, con el derecho de votar y ser votadas.
 
 ###### Art. 119.
 
@@ -1286,5 +1290,9 @@ SEGUNDO: — En consecuencia: A contar del 4 de Octubre de 1946, nadie que haya 
 TERCERO :— En la forma que antecede queda interpretada Jurídicamente la disposición contenida en el Inciso b) del Artículo 84 de la Constitución Política del Estado y fijado su alcance por el H. Congreso Local.
 
 P.O. 30 DE ABRIL DE 1947.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+
+P.O. 29 DE SEPTIEMBRE DE 1948.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
