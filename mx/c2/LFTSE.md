@@ -4,7 +4,7 @@ identifier: "LFTSE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1963-12-28"
-last_updated: "1978-12-29"
+last_updated: "1979-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFTSE"
 
 LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTICULO 123 CONSTITUCIONAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1979.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 28 de diciembre de 1963.
 
@@ -282,7 +282,9 @@ El salario será uniforme para cada una de las categorías de trabajadores y ser
 
 La cuantía del salario uniforme fijado en los términos del artículo anterior no podrá ser disminuida durante la vigencia del Presupuesto de Egresos a que corresponda.
 
-De ser posible se establecerán aumentos periódicos de salario por años de servicio, de conformidad con la capacidad económica del Estado.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+
+Por cada cinco años de servicios efectivos prestados hasta llegar a veinticinco, los trabajadores tendrán derecho al pago de una prima como complemento del salario. En los Presupuestos de Egresos correspondientes, se fijará oportunamente el monto o proporción de dicha prima.
 
 ###### ARTICULO 35.
 
@@ -1333,3 +1335,9 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 D.O.F. 29 DE DICIEMBRE DE 1978.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 1979.
+
+PRIMERO.- Este Decreto entrará en vigor el 1o. de enero de 1980.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
