@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1966-05-26"
+last_updated: "1967-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 1966.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 1967.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -867,7 +867,7 @@ El Gobernador del Estado no podrá negarse a autorizar el pago de las órdenes l
 
 #### SECCION I. DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1955)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1967)</small>
 
 #### SECCION II. DE LOS JUECES DE 1ª INSTANCIA Y MENORES
 
@@ -903,7 +903,7 @@ Se deposita el ejercicio del Poder Judicial del Estado, en un Cuerpo denominado 
 
 ###### Art. 94.
 
-El Supremo Tribunal de Justicia se compondrá de cinco Magistrados Propietarios y funcionará en Pleno o dividido en dos Salas, integradas cada una de éstas por el Presidente del Tribunal y dos Magistrados. Habrá, además, tres Magistrados Suplentes, quienes solo integrarán el pleno o las Salas cuando substituyan a un Magistrado Propietario, en los casos previstos por la Ley.
+El Supremo Tribunal de Justicia se compondrá de 6 seis Magistrados Propietarios y funcionará en Pleno y dividido en dos Salas, integrada cada una de éstas por 3 tres Magistrados. Uno de los Magistrados será el Presidente del Supremo Tribunal. Habrá además 3 tres Magistrados Suplentes, quienes solo integrarán el Pleno o las Salas cuando substituyan a un Magistrado Propietario, en los casos previstos por la Ley.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1953)</small>
 
@@ -1832,3 +1832,7 @@ Tercero.- Formúlense en su oportunidad las reformas correspondientes a la Ley E
 P.O. 26 DE MAYO DE 1966.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 3 DE AGOSTO DE 1967.
+
+UNICO.- El Presente Decreto comenzará a surtir sus efectos legales; a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
