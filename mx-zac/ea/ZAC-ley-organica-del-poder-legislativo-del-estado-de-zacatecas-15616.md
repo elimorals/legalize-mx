@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-1561
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-02"
-last_updated: "2000-08-12"
+last_updated: "2001-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 2 de diciembre de 1998.
 
@@ -89,7 +89,9 @@ La Legislatura se renovará íntegramente cada tres años conforme lo dispone la
 
 La Legislatura tendrá la organización, funcionamiento y gobierno interior que establecen la Constitución Política del Estado, esta Ley y su Reglamento.
 
-Esta ley, sus reformas y adiciones no necesitarán de promulgación del Gobernador del Estado, ni podrán ser objeto de veto.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2001)</small>
+
+Esta ley, su reglamentación, sus reformas y adiciones no necesitarán de promulgación del Gobernador del Estado, ni podrán ser objeto de veto.
 
 ###### ARTICULO 5.
 
@@ -110,6 +112,10 @@ Ninguna autoridad podrá ejecutar mandamientos judiciales o administrativos sobr
 ###### ARTICULO 8.
 
 La Legislatura instrumentará un registro de todas las sesiones, que se denominará Diario de los Debates, el cual será público con excepción de las discusiones y documentos relacionados con las sesiones privadas.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2001)</small>
+
+Tampoco estarán al acceso del público, los documentos que formen parte de los expedientes relacionados con el fincamiento de responsabilidades por vía de juicio político, declaración de procedencia o responsabilidad administrativa. Tales documentos sólo podrán proporcionarse por orden escrita de autoridad competente.
 
 ## TITULO SEGUNDO. DE LA INSTALACION DE LA LEGISLATURA
 
@@ -339,6 +345,10 @@ I. Erigirse en jurado de instrucción en los casos de juicio político; y
 
 II. Resolver acerca de declaraciones de procedencia.
 
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2001)</small>
+
+III. Fincar responsabilidades a los servidores públicos del Poder Legislativo, presidentes, síndicos y regidores municipales.
+
 ###### ARTICULO 21.
 
 La Legislatura del Estado tiene la facultad de:
@@ -361,7 +371,9 @@ La Legislatura a efecto de iniciar su actividad legislativa en los periodos ordi
 
 La Mesa Directiva de la Legislatura se integrará por un Presidente, un Vicepresidente y dos Secretarios.
 
-La elección se realizará conforme al procedimiento señalado por el Reglamento Interior.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2001)</small>
+
+La elección se realizará conforme al procedimiento señalado por el Reglamento General.
 
 ###### ARTICULO 24.
 
@@ -395,7 +407,9 @@ Son atribuciones del Presidente:
 
 I. La representación política de la Legislatura con los Poderes Ejecutivo y Judicial del Estado, así como con los ayuntamientos;
 
-II. Abrir, prorrogar, suspender y clausurar las sesiones del Pleno, de conformidad con esta ley y el reglamento interior;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2001)</small>
+
+II. Abrir, prorrogar, suspender y clausurar las sesiones del Pleno, de conformidad con esta ley y el reglamento general;
 
 III. Dar curso reglamentario a los negocios y determinar los trámites que deban recaer en los asuntos con que se dé cuenta a la Legislatura;
 
@@ -515,7 +529,9 @@ Las sesiones ordinarias como las extraordinarias serán públicas, y en determin
 
 I. PUBLICAS.- Las sesiones públicas serán aquellas que al celebrarse permitan el acceso al público en el recinto oficial; y
 
-II. PRIVADAS.- Serán sesiones privadas aquellas que atendiendo la naturaleza del caso de que se trate, el Pleno así lo acuerde quedando prohibido el acceso al público y a los empleados de la Legislatura. Son materia de sesión privada las señaladas en el Reglamento Interior.
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2001)</small>
+
+II. PRIVADAS.- Serán sesiones privadas aquellas que atendiendo la naturaleza del caso de que se trate, el Pleno así lo acuerde quedando prohibido el acceso al público y a los empleados de la Legislatura. Son materia de sesión privada las señaladas en el Reglamento General.
 
 ###### ARTICULO 39.
 
@@ -635,8 +651,6 @@ II. Coordinar y apoyar las actividades entre las fracciones legislativas;
 
 III. Coadyuvar en el desarrollo de los trabajos de las Comisiones;
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2000)</small>
-
 IV. Proponer al Pleno, la designación, y remoción del Auditor Superior del Estado;
 
 V. Expedir los nombramientos de los titulares de los órganos administrativos, técnicos y personal de apoyo de la Legislatura, previas propuestas de las Comisiones de Vigilancia o la de Planeación Patrimonio y Finanzas, en sus respectivos ámbitos, una vez que el Pleno los autorice;
@@ -665,7 +679,9 @@ XVI. Coordinar la planeación y desarrollo de la agenda legislativa;
 
 XVII. Revisar el proyecto de Presupuesto de Egresos de la Legislatura que formule la Comisión de Planeación, Patrimonio y Finanzas. Dicho proyecto deberá ser aprobado por el Pleno y enviarse al Ejecutivo del Estado, a más tardar el cinco de diciembre de cada año, para que se inserte al Presupuesto de Egresos del Estado; y
 
-XVIII. Las demás que le confiera esta ley, el reglamento interno y los acuerdos del Pleno de la Legislatura.
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2001)</small>
+
+XVIII. Las demás que le confiera esta ley, el reglamento general y los acuerdos del Pleno de la Legislatura.
 
 ### CAPITULO SEGUNDO. DE LA COMISION DE PLANEACION, PATRIMONIO Y FINANZAS
 
@@ -693,7 +709,9 @@ VII. Vigilar que se integre y mantenga actualizado el inventario de bienes que c
 
 VIII. Participar en la entrega-recepción del patrimonio del Poder Legislativo; y
 
-IX. Las demás que le asigne esta ley, su reglamento interior, así como los acuerdos del Pleno, Mesa Directiva o Comisión de Régimen Interno y Concertación Política.
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2001)</small>
+
+IX. Las demás que le asigne esta ley, su reglamento general, así como los acuerdos del Pleno, Mesa Directiva o Comisión de Régimen Interno y Concertación Política.
 
 ### CAPITULO TERCERO. DE LAS COMISIONES
 
@@ -701,9 +719,17 @@ IX. Las demás que le asigne esta ley, su reglamento interior, así como los acu
 
 La Legislatura del Estado integrará tantas Comisiones como requiera el cumplimiento de sus funciones legislativas y éstas podrán ser:
 
-I. Legislativas; y
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2001)</small>
 
-II. Especiales.
+I.- De Gobierno
+
+II. Legislativas; y
+
+III. Especiales.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2001)</small>
+
+Las comisiones de gobierno son la Comisión de Régimen Interno y Concertación Política y la de Planeación, Patrimonio y Finanzas.
 
 #### SECCION PRIMERA. DE LAS COMISIONES LEGISLATIVAS
 
@@ -781,7 +807,9 @@ I. Los que se refieran a leyes, decretos y acuerdos, en todas aquellas materias 
 
 II. Los que se refieran a las reformas a la Constitución Política de los Estados Unidos Mexicanos, a esta Constitución y a las leyes que de ellas emanen;
 
-III. La expedición, reformas o adiciones a la Ley Orgánica, Reglamento Interior y demás ordenamientos de la Legislatura;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2001)</small>
+
+III. La expedición, reformas o adiciones a la Ley Orgánica, Reglamento General y demás ordenamientos de la Legislatura;
 
 IV. Los que se refieran a legislar en materia de expropiación y ocupación de la propiedad privada;
 
@@ -795,9 +823,9 @@ VIII. El otorgamiento de la ciudadanía zacatecana; y
 
 IX. Resolver las consultas respecto de la aplicación e interpretación de esta ley, reglamentos, práctica y usos parlamentarios.
 
-> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2001)</small>
 
-X.- En examen previo, en forma conjunta con la Comisión de justicia, los casos de solicitud de juicio político.
+X.- En examen previo, en forma conjunta con la Comisión de Justicia, los casos de solicitud de juicio político. Por esta vía se ventilarán también las suspensiones o desapariciones de ayuntamientos.
 
 GOBERNACION
 
@@ -807,7 +835,9 @@ Corresponde a la Comisión de Gobernación el conocimiento y dictamen de los sig
 
 I. Los que se refieran a la creación, supresión o fusión de Municipios y Congregaciones;
 
-II. Lo relativo a declarar la suspensión o desaparición de ayuntamientos; suspender o revocar el mandato de alguno o algunos de sus miembros; designar un Consejo Municipal para que concluya el periodo respectivo;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2001)</small>
+
+II. Para fincar responsabilidades administrativas, siempre y cuando el asunto no corresponda dictaminarlo a otra comisión;
 
 III. Lo relativo a faltas o licencias del Presidente Municipal u otro integrante del ayuntamiento, si exceden de quince días; así como las renuncias de los mismos;
 
@@ -867,9 +897,9 @@ JUSTICIA
 
 Corresponde a la Comisión de Justicia el conocimiento y dictamen de los asuntos siguientes:
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2001)</small>
 
-I. En examen previo, en forma conjunta con la Comisión de Puntos Constitucionales, si procede o no instaurar juicio político. En caso afirmativo desempeñarse como Comisión Instructora cuando la Legislatura se erija en Jurado de Instrucción, para el trámite del juicio político. Asimismo tratándose de solicitudes de declaración de procedencia;
+I. En examen previo, en forma conjunta con la Comisión de Puntos Constitucionales, si procede o no instaurar juicio político. Por esta vía se ventilarán también las suspensiones o desapariciones de ayuntamientos.
 
 II. Para que se concedan amnistías en circunstancias extraordinarias, por el voto de dos terceras partes de sus miembros y siempre que se trate de delitos de la competencia de los tribunales del Estado;
 
@@ -1179,9 +1209,11 @@ II. Jurisdiccionales las que se integren en los términos de la ley para los efe
 
 #### SECCION TERCERA. REGLAS COMUNES
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 89.
 
-Las Comisiones Legislativas podrán además intervenir, en el ámbito de competencia del Poder Legislativo en todos aquellos asuntos relacionados con el respectivo nombre de cada Comisión. Ejercerán en el área de su competencia, las funciones de estudiar, analizar y dictaminar las iniciativas de ley, decreto y acuerdos; participar en las deliberaciones y discusiones de la Asamblea de acuerdo con las disposiciones del Reglamento Interior.
+Las Comisiones Legislativas podrán además intervenir, en el ámbito de competencia del Poder Legislativo en todos aquellos asuntos relacionados con el respectivo nombre de cada Comisión. Ejercerán en el área de su competencia, las funciones de estudiar, analizar y dictaminar las iniciativas de ley, decreto y acuerdos; participar en las deliberaciones y discusiones de la Asamblea de acuerdo con las disposiciones del Reglamento General.
 
 ###### ARTICULO 90.
 
@@ -1209,9 +1241,15 @@ Para el mejor desempeño de sus funciones las Comisiones tienen la facultad de s
 
 Las autoridades y funcionarios municipales, estatales y de sus organismos descentralizados están obligados a proporcionar la información solicitada por la Legislatura. La demora o negativa para entregarla en los términos de ley autoriza al Legislativo a dirigirse oficialmente en queja al Gobernador del Estado o al superior jerárquico que corresponda.
 
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2001)</small>
+
+El Pleno y las comisiones están facultadas para imponer multas de cinco a quinientas cuotas de salario mínimo general, vigente en el Estado, a servidores públicos, incluyendo a los miembros de los ayuntamientos, por desacato a sus resoluciones y acuerdos, sin perjuicio de lo que prevea la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 96.
 
-El Reglamento Interior de la Legislatura, regulará todo lo relativo a sesiones, debates y votaciones.
+El Reglamento General de la Legislatura, regulará todo lo relativo a sesiones, debates y votaciones.
 
 ### CAPITULO CUARTO. DE LAS FRACCIONES LEGISLATIVAS
 
@@ -1245,13 +1283,17 @@ Las fracciones legislativas dispondrán de locales adecuados en las instalacione
 
 ### CAPITULO QUINTO. DE LA COMISION PERMANENTE
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 102.
 
-La Comisión Permanente es el órgano de la Legislatura que durante los recesos de ésta, desempeña las funciones que le señala el artículo 68 de la Constitución Política del Estado, esta ley y su reglamento interior.
+La Comisión Permanente es el órgano de la Legislatura que durante los recesos de ésta, desempeña las funciones que le señala el artículo 68 de la Constitución Política del Estado, esta ley y su reglamento general.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2001)</small>
 
 ###### ARTICULO 103.
 
-La Comisión Permanente se integra con once diputados propietarios y otros tantos suplentes, quienes serán designados conforme al procedimiento señalado en el Reglamento Interior, durante la última sesión de cada periodo ordinario entre los que se elegirá un Presidente y dos Secretarios; los restantes fungirán como vocales.
+La Comisión Permanente se integra con once diputados propietarios y otros tantos suplentes, quienes serán designados conforme al procedimiento señalado en el Reglamento General, durante la última sesión de cada periodo ordinario entre los que se elegirá un Presidente y dos Secretarios; los restantes fungirán como vocales.
 
 ###### ARTICULO 104.
 
@@ -1265,9 +1307,11 @@ Las sesiones de la Comisión Permanente tendrán lugar una vez por semana en los
 
 La Comisión Permanente conocerá, aún cuando la Legislatura estuviese en sesiones extraordinarias, de todos aquellos asuntos que no hubieren sido incluidos en la convocatoria respectiva.
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 107.
 
-La Comisión Permanente deberá observar las mismas formalidades que para la Legislatura señale el Reglamento Interior de ésta, en lo referente a sesiones, discusiones, votaciones y trámites.
+La Comisión Permanente deberá observar las mismas formalidades que para la Legislatura señale el Reglamento General de ésta, en lo referente a sesiones, discusiones, votaciones y trámites.
 
 ###### ARTICULO 108.
 
@@ -1385,9 +1429,11 @@ III. A la Dirección de Recursos Financieros le corresponde coadyuvar con las Co
 
 La reglamentación interna y los manuales especificarán las funciones que corresponde ejercer a cada una de las áreas del Servicio Profesional Legislativo, mismo que contará con el número de servidores públicos que anualmente autorice el presupuesto de egresos del Poder Legislativo y que resulte necesario para el buen desempeño de sus funciones.
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 127.
 
-La integración, actividad y funcionamiento de las dependencias administrativas y de apoyo, estarán sujetas a lo dispuesto por el Reglamento Interior y demás disposiciones normativas que acuerde el Pleno.
+La integración, actividad y funcionamiento de las dependencias administrativas y de apoyo, estarán sujetas a lo dispuesto por el Reglamento General y demás disposiciones normativas que acuerde el Pleno.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 12 DE AGOSTO DE 2000)</small>
 
@@ -1455,27 +1501,35 @@ V. A los Representantes del Estado ante el Congreso de la Unión; y
 
 VI. A los ciudadanos zacatecanos radicados en el Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 133.
 
-Las iniciativas deberán presentarse por escrito a la Legislatura y podrán ser:
+Las iniciativas deberán dirigirse a la Legislatura; presentarse por escrito, anexando versión en disco óptico, y podrán ser:
 
 I. De Ley, cuando contienen un proyecto de resolución por el que se otorguen derechos o impongan obligaciones a todas las personas en general;
 
 II. De Decreto, cuando se trata de un proyecto de resolución por el que se otorguen derechos o impongan obligaciones a determinadas personas físicas o morales; y
 
-III. De Acuerdo, si se refiere a cualquier otra resolución que no sea ley o decreto.
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2001)</small>
+
+III. De Acuerdo, si se refiere a cualquier otra resolución que no sea ley o decreto. Las iniciativas mencionadas en esta fracción, sólo las pueden presentar los Diputados.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2001)</small>
 
 ###### ARTICULO 134.
 
-El Reglamento Interior de la Legislatura prescribirá la forma en que deban presentarse las iniciativas de ley, decreto o acuerdo, y el modo de proceder a su admisión y votación.
+El Reglamento General de la Legislatura prescribirá la forma en que deban presentarse las iniciativas de ley, decreto o acuerdo, y el modo de proceder a su admisión y votación.
 
 ###### ARTICULO 135.
 
 En casos de urgencia calificada por las dos terceras partes de los diputados presentes, la Legislatura puede dispensar o abreviar los trámites establecidos.
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 136.
 
-El Reglamento Interior de la Legislatura determinará el procedimiento para que los ordenamientos aprobados por la Legislatura entren en vigor.
+El Reglamento General de la Legislatura determinará el procedimiento para que los ordenamientos aprobados por la Legislatura entren en vigor.
 
 ## TRANSITORIOS
 
@@ -1512,3 +1566,9 @@ UNICO.- El presente decreto entrará en vigor el día de su publicación en el P
 P.O. 12 DE AGOSTO DE 2000
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 11 DE AGOSTO DE 2001
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+SEGUNDO.- En un término que no excederá de quince días contados a partir de la vigencia de este Decreto, deberá expedirse el Reglamento General del Poder Legislativo.
