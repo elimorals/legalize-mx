@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "2001-07-21"
+last_updated: "2001-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2001.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
 
@@ -73,7 +73,9 @@ IV. Sistema Estatal.- Es el Sistema Estatal de Asistencia Social del Estado de J
 
 El Gobierno del Estado y los ayuntamientos dentro del ámbito de sus jurisdicciones, reglamentarán, promoverán y prestarán servicios de asistencia social a través de las siguientes instituciones:
 
-I. La Secretaría.- Es la Secretaría de Salud del Estado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+I. La Secretaría.- Es la Secretaría de Desarrollo Humano del Estado;
 
 II. Organismo Estatal.- Es el organismo público descentralizado denominado Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Jalisco;
 
@@ -163,9 +165,11 @@ El Sistema Estatal tiene por objeto llevar a cabo coordinadamente, los servicios
 
 El Sistema Estatal se integra por las dependencias, organismos públicos descentralizados y entidades de la administración pública, tanto estatal como municipal y por las personas físicas y jurídicas privadas, que presten servicios de asistencia social.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 10.
 
-El titular del Poder Ejecutivo a través de la Secretaría de Salud tendrá respecto de la asistencia social las siguientes atribuciones:
+El titular del Poder Ejecutivo a través de la Secretaría de Desarrollo Humano tendrá respecto de la asistencia social las siguientes atribuciones:
 
 I. Supervisar la aplicación de las normas técnicas que rijan la prestación de los servicios de asistencia social, así como la difusión de las mismas;
 
@@ -187,17 +191,41 @@ IX. Las demás que le otorguen las leyes aplicables.
 
 ### CAPITULO III. De la Coordinación
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 11.
 
-El titular del Poder Ejecutivo a través de la Secretaría de Salud coordinará la prestación de servicios de asistencia social, respetando en todo momento el ámbito de competencia que este Código atribuye a los integrantes del Sistema Estatal. El Gobierno del Estado celebrará los convenios o acuerdos necesarios para la coordinación de acciones a nivel estatal o municipal, con la participación del Organismo Estatal y del Instituto, en el ámbito de sus respectivas competencias. Asimismo, celebrará convenios de participación con las entidades y dependencias de la administración pública federal.
+El Titular del Poder Ejecutivo a través de la Secretaría de Desarrollo Humano coordinará la prestación de servicios de asistencia social, respetando en todo momento el ámbito de competencia que este Código atribuye a los integrantes del Sistema Estatal. El Gobierno del Estado celebrará los convenios o acuerdos necesarios para la coordinación de acciones a nivel estatal o municipal, con la participación del Organismo Estatal y del Instituto, en el ámbito de sus respectivas competencias. Asimismo, celebrará convenios de participación con las entidades y dependencias de la administración pública federal.
 
 ###### Artículo 12.
 
 En la prestación de servicios asistenciales, el Organismo Estatal y el Instituto actuarán en coordinación con las dependencias y entidades del Gobierno del Estado y de los Municipios, según la competencia que les otorguen las leyes.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+###### Artículo 12 Bis.
+
+Para la debida coordinación del Sistema Estatal de Asistencia Social, los titulares de la Secretaría, el Instituto, el Organismo Estatal, y el Instituto Cabañas, se reunirán por lo menos cada tres meses a fin de:
+
+I. Determinar los criterios generales para la prestación de los servicios de los servicios (sic) de asistencia social pública;
+
+II. Evaluar el desempeño de las instituciones de asistencia social y beneficencia pública del Gobierno del Estado, así como de las instituciones de beneficencia privada, coordinadas por el Instituto Jalisciense de Asistencia Social, y el Sistema para el Desarrollo Integral de la Familia; así como proponer se tomen las medidas necesarias para el logro adecuado de sus objetivos;
+
+III. Elaborar y evaluar anualmente un Programa Estatal de Asistencia Social, siguiendo los lineamientos del Plan Estatal de Desarrollo, así como presentar su respectivo informe;
+
+IV. Revisar y evaluar la situación de los menores que se encuentren a cargo del Instituto Cabañas, u otros organismos de beneficencia pública o privada, así como los procedimientos de adopción;
+
+V. Revisar y evaluar las acciones aplicadas para el desarrollo integral de los sujetos de la asistencia social previstos en este Código;
+
+VI. Evaluar el Sistema de Información y el Registro Estatal de Asistencia Social; y
+
+VII. Promover los trabajos de investigación sobre Asistencia Social, a fin de mejorar la prestación de los servicios asistenciales.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 13.
 
-Con el objeto de ampliar la cobertura y la calidad de los servicios de asistencia social a nivel estatal y municipal, el Gobierno del Estado, a través del Organismo Estatal y el Instituto, en el ámbito de sus respectivas competencias, promoverá la celebración de convenios entre éstos y los Organismos Municipales de la Entidad, a fin de:
+Con el objeto de ampliar la cobertura y la calidad de los servicios de asistencia social a nivel estatal y municipal, el Ejecutivo del Estado, a través de la Secretaría, el Organismo Estatal y el Instituto, en el ámbito de sus respectivas competencias, promoverá la celebración de convenios entre éstos y los Organismos Municipales de la Entidad, a fin de:
 
 I. Establecer y operar programas conjuntos;
 
@@ -209,13 +237,17 @@ III. Proponer programas para el cumplimiento de los fines de la asistencia socia
 
 Las instituciones de asistencia social públicas y privadas están obligadas a solicitar y proporcionar información al Sistema Estatal de Información en Materia de Asistencia Social, respecto de la recepción de algún tipo de asistencia al peticionario, con el objeto de evitar duplicidad de prestaciones asistenciales de la misma naturaleza.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 15.
 
-El Gobierno del Estado, con la participación del Organismo Estatal y el Instituto, en el ámbito de sus respectivas competencias, promoverá ante los ayuntamientos de la entidad, el establecimiento de mecanismos que permitan un intercambio sistemático de información, a fin de conocer las demandas de servicios de asistencia social, para los grupos sociales más vulnerables y coordinar su oportuna atención.
+El Ejecutivo del Estado, a través de la Secretaría, con la participación del Organismo Estatal y el Instituto, en el ámbito de sus respectivas competencias, promoverá ante los ayuntamientos de la entidad, el establecimiento de mecanismos que permitan un intercambio sistemático de información, a fin de conocer las demandas de servicios de asistencia social, para los grupos sociales más vulnerables y coordinar su oportuna atención.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 16.
 
-El Gobierno del Estado, el Organismo Estatal y el Instituto, en el ámbito de sus respectivas competencias:
+El Ejecutivo del Estado, a través de la Secretaría y en su caso con la participación del Organismo Estatal y el Instituto, en el ámbito de sus respectivas competencias:
 
 I. Promoverán que las dependencias y entidades del Estado y de los municipios destinen los recursos necesarios a los programas de servicios de asistencia social;
 
@@ -273,19 +305,21 @@ X. Cooperar con el Sistema Estatal de Información en materia de Asistencia Soci
 
 XI. Promover y participar en programas de educación especial;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-XII. Crear y operar el Consejo Estatal de Familia;
+XII. Operar el Consejo Estatal de Familia;
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-XIII. Crear y operar el Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar; y
+XIII. Operar el Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar; y
 
 > <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2000)</small>
 
 XIV. Elaborar el programa e impartir los cursos a que hace referencia el artículo 267 bis del Código Civil del Estado de Jalisco.
 
-El Sistema Estatal deberá contar con el número de profesionistas suficientes para impartir los cursos prematrimoniales, en todos los municipios, de acuerdo a las necesidades.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+El Organismo Estatal deberá contar con el número de profesionistas suficientes para impartir los cursos prematrimoniales, en todos los municipios, de acuerdo a las necesidades; y
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
@@ -365,7 +399,9 @@ I. Un Presidente, que será designado por el Titular del Poder Ejecutivo del Est
 
 II. Hasta doce Consejeros, los cuales serán designados por el Gobernador del Estado, entre los cuales se encontrarán los siguientes:
 
-a) Los titulares de la Secretaría de Salud y de la Procuraduría Social, o sus respectivos representantes;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+a) Los titulares de la Secretaría de Desarrollo Humano y de la Procuraduría Social, o sus respectivos representantes;
 
 b) El Director General del Instituto;
 
@@ -487,9 +523,11 @@ VII. Las demás que sean necesarias para el ejercicio de sus funciones.
 
 #### Sección Cuarta. Del Consejo Estatal de Familia
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 33.
 
-El Consejo Estatal de Familia es una institución que se integra como órgano de participación ciudadana y del Organismo Estatal para dar atención y seguimiento a los asuntos que le devienen de las disposiciones contenidas en los Códigos Civil y de Procedimientos Civiles del Estado de Jalisco.
+El Consejo Estatal de Familia es un órgano de participación ciudadana y desconcentrado del Organismo Estatal, para dar atención y seguimiento a los asuntos que le devienen de las disposiciones contenidas en los Códigos Civil y de Procedimientos Civiles del Estado de Jalisco.
 
 Servirá como enlace permanente entre todas las instituciones públicas, descentralizadas y privadas que tengan como objetivo la atención, custodia y asistencia a la niñez, a los discapacitados, a las personas en edad senil, a las madres en situación crítica ya sea afectiva o económica y a la familia.
 
@@ -649,7 +687,7 @@ IV. Un Consejero ciudadano por cada uno de los municipios quienes serán designa
 
 El Consejo Intermunicipal estará presidido por la persona que sea electa por votación del mismo consejo, de entre los Presidentes de los organismos municipales integrantes.
 
-(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2001)(F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002
+(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2001)(F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)
 
 ###### Artículo 42.
 
@@ -697,7 +735,7 @@ Los Organismos Municipales que por su capacidad económica y administrativa lo r
 
 ###### Artículo 46.
 
-Los consejos de familia estatal y municipales podrán realizar sus funciones a través de delegados personales e institucionales, estos últimos pueden ser públicos o privados.
+Los consejos de familia estatal y municipales podrán realizar sus funciones a través de delegados personales e institucionales, éstos últimos pueden ser públicos o privados.
 
 ###### Artículo 47.
 
@@ -865,7 +903,9 @@ II. Un Secretario, que será la persona que ocupe el cargo de Secretario y Procu
 
 III. El Director General del Instituto;
 
-IV. El Presidente del Organismo Estatal o su representante;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+IV. El Titular de la Secretaría de Desarrollo Humano o su representante;
 
 V. Un representante del Colegio de Notarios de Jalisco;
 
@@ -1199,23 +1239,33 @@ La Junta de Gobierno es la máxima autoridad del Instituto Cabañas y se integra
 
 I. Un Presidente;
 
-II. Un Secretario Ejecutivo;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-III. Hasta quince Consejeros.
+II. Un Secretario Ejecutivo; y
 
-El Presidente será designado por el Titular del Poder Ejecutivo del Estado; así como hasta ocho consejeros, entre los cuales se deberán de encontrar los siguientes:
+III. Hasta 15 Consejeros.
 
-a) Los titulares de la Secretaría de Salud, de la Secretaría de Educación y de la Procuraduría Social, o sus respectivos representantes.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-b) El Director General del Instituto Cabañas.
+El Presidente será designado por el Titular del Poder Ejecutivo del Estado; así mismo, también podrá designar hasta ocho Consejeros, entre los cuales se deberán de encontrar los siguientes:
 
-c) Un representante de alguna institución de asistencia social privada dedicada a la atención y protección de menores, con mayor mérito, inscrita, reconocida y propuesta por el Instituto Jalisciense de Asistencia Social.
+a) Los titulares de la Secretaría de Desarrollo Humano, de la Secretaría de Educación y de la Procuraduría Social, o sus respectivos representantes;
 
-d) Hasta tres consejeros que al (sic) Titular del Poder Ejecutivo, considere necesarios para la integración de la junta de gobierno.
+b) El Director General del Instituto Cabañas;
 
-El Secretario Ejecutivo será designado por la propia junta de gobierno a propuesta de la Dirección General del Instituto Cabañas, así como hasta siete consejeros más que se nombren por necesidades del propio Instituto Cabañas.
+c) Un representante de alguna institución de asistencia social privada dedicada a la atención y protección de menores, con mayor mérito, inscrita, reconocida y propuesta por el Instituto Jalisciense de Asistencia Social;
 
-Los miembros nombrados deberán haberse significado por su inclinación y vocación al servicio de la comunidad, así como su probada y su reconocida honorabilidad.
+d) Hasta tres Consejeros que el Titular del Poder Ejecutivo considere necesarios para la integración de la Junta de Gobierno.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+Siete consejeros serán nombrados por el Instituto Cabañas a propuesta de su Dirección General.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+Los miembros nombrados deberán haberse significado por su inclinación y vocación al servicio de la comunidad, así como su probada y reconocida honorabilidad.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
 Los cargos de consejeros a que se refiere el presente artículo serán honoríficos; sus titulares no recibirán remuneración alguna, con excepción de los previstos en la fracción II, y el inciso b) del presente artículo, que percibirán los emolumentos señalados en el presupuesto de egresos del propio Instituto Cabañas.
 
@@ -1363,15 +1413,21 @@ XVIII. Aplicar los fondos que provengan de donativos a los servicios del Institu
 
 XIX. Las demás que señalen este código y los reglamentos aplicables.
 
-#### Sección Cuarta. Del Secretario
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+#### Sección Cuarta. Del Secretario Ejecutivo
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 86.
 
-El Secretario del Instituto, será designado por la Junta de Gobierno a propuesta de la Dirección General del Instituto Cabañas y fungirá también, como Secretario de éste.
+El Secretario Ejecutivo del Instituto, será designado por la Junta de Gobierno a propuesta de la Dirección General del Instituto Cabañas y fungirá también, como Secretario de éste.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 87.
 
-Son facultades y obligaciones del Secretario las siguientes:
+Son facultades y obligaciones del Secretario Ejecutivo las siguientes:
 
 I. Vigilar el cumplimiento estricto de este Código y sus reglamentos;
 
@@ -1749,9 +1805,11 @@ V. Promover la participación de la sociedad en la prevención y control de las 
 
 VI. Los demás que señalen este libro y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 146.
 
-El Organismo Estatal tendrá las siguientes atribuciones:
+El Organismo Estatal sin perjuicio de las facultades de la Secretaría, tendrá las siguientes atribuciones:
 
 I. Participar en la planeación y programación de las acciones para la investigación, control, prevención de las discapacidades, habilitación y rehabilitación de las personas con discapacidad;
 
@@ -1827,9 +1885,11 @@ Los establecimientos para la prestación de servicios deberán contar con infrae
 
 La Secretaría de Salud y el Organismo Estatal promoverán la formación y capacitación de personal adecuado que pueda responder a la atención de las personas con discapacidad en la entidad.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 153.
 
-Cuando el personal capacitado detecte o tenga conocimiento de alguna persona con discapacidad que requiera los beneficios de este Código, dará aviso de su caso al Organismo Estatal o a la Secretaría de Salud y proporcionará información de los mismos a la persona que lo requiere.
+Cuando el personal capacitado detecte o tenga conocimiento de alguna persona con discapacidad que requiera los beneficios de este Código, dará aviso de su caso al Organismo Estatal o a la Secretaría de Desarrollo Humano y proporcionará información de los mismos a la persona que lo requiere.
 
 ###### Artículo 154.
 
@@ -1939,11 +1999,15 @@ La finalidad primordial de la política de empleo de trabajadores con discapacid
 
 Se fomentará el empleo de los trabajadores con discapacidad mediante el establecimiento de sistemas que faciliten su integración laboral; éstos podrán consistir, entre otros, en subvenciones o préstamos para la adaptación de los centros de trabajo, la eliminación de barreras arquitectónicas que dificulten su movilidad en centros de producción, la promoción del auto-empleo a través de la micro-empresa y empresas familiares, la promoción de la comercialización de los productos elaborados por las personas con discapacidad y la promoción de programas de trabajo en el domicilio de la persona con discapacidad.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 173.
 
-El Organismo Estatal en coordinación con la Secretaría de Promoción Económica y los municipios, establecerá programas de promoción del empleo de las personas con discapacidad, creando al efecto una bolsa de trabajo, en la que se concentren listas de aspirantes con sus aptitudes y capacidad.
+La Secretaría, en coordinación con el Organismo Estatal, la Secretaría de Promoción Económica, y los municipios, establecerá programas de promoción del empleo de las personas con discapacidad, creando al efecto una bolsa de trabajo, en la que se concentren listas de aspirantes con sus aptitudes y capacidad.
 
 ### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 174.
 
@@ -1951,17 +2015,19 @@ La Comisión fomentará la creación de centros laborales cuya base laboral sea 
 
 ###### Artículo 175.
 
-El Organismo Estatal promoverá que las actividades recreativas, deportivas y culturales de las personas con discapacidad, se realicen en las instalaciones de acceso general, a fin de contribuir a fomentar la integración social y trato digno de las personas con discapacidad.
+El Organismo Estatal en coordinación con el Consejo Estatal para el Fomento Deportivo y Apoyo a la Juventud y la Secretaría de Cultura, promoverá que las actividades recreativas, deportivas y culturales de las personas con discapacidad, se realicen en las instalaciones de acceso general, a fin de contribuir a fomentar su integración social y trato digno.
 
 ###### Artículo 176.
 
 El Organismo Estatal canalizará a las personas con discapacidad hacia las instancias deportivas competentes, para que desarrollen sus aptitudes y habilidades deportivas, de conformidad con la ley de la materia.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
 ### CAPITULO UNICO
 
 ###### Artículo 177.
 
-El Organismo Estatal promoverá y propiciará la formación de grupos de expresión cultural y artística a fin de impulsar y desarrollar las habilidades en éstos rubros de las personas con discapacidad.
+El Organismo Estatal en coordinación con la Secretaría de Cultura, promoverá y propiciará la formación de grupos de expresión cultural y artística a fin de impulsar y desarrollar las habilidades en estos rubros de las personas con discapacidad.
 
 ###### Artículo 178.
 
@@ -2117,11 +2183,11 @@ La familia es la base de la sociedad por lo que es de interés público su estab
 
 En la familia debe buscarse el afecto y respeto, así como darse el apoyo recíproco, fomentando el desarrollo de las interrelaciones de responsabilidad y solidaridad humana que constituyan la armonía social.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 195.
 
-La aplicación del presente Libro corresponderá al Organismo Estatal y Organismos Municipales y demás dependencias del Sistema Estatal de Asistencia Social, conforme a las disposiciones legales contenidas en el presente Libro.
+La vigilancia del cumplimiento a las normas del presente libro corresponde a la Secretaría, a los organismos municipales y demás dependencias del Sistema Estatal de Asistencia Social.
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
@@ -2149,11 +2215,15 @@ III. Fomentar y apoyar los trabajos de investigación y análisis relacionados c
 
 El Consejo estará integrado por un Presidente designado por el Presidente de la Junta de Gobierno del Organismo Estatal y un representante de las siguientes entidades y dependencias:
 
-a) Secretaría General de Gobierno;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+a) Presidente del Organismo Estatal;
 
 b) Secretaría de Educación;
 
-c) Secretaría de Salud;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+c) Secretaría de Desarrollo Humano;
 
 d) Secretaría de Seguridad Pública, Prevención y Readaptación Social;
 
@@ -2167,7 +2237,9 @@ h) Comisión Estatal de Derechos Humanos;
 
 i) Instituto Jalisciense de Asistencia Social;
 
-j) Hospicio Cabañas;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+j) Instituto Cabañas;
 
 k)Cinco especialistas en la materia de las instituciones de educación superior más representativas en el Estado a propuesta del Presidente del Consejo;
 
@@ -2515,7 +2587,7 @@ VI. Integrar los expedientes relativos a los casos puestos a su consideración, 
 
 VII. Enviar copias de los convenios al Consejo, en los términos del presente Libro.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
 ## TITULO DECIMO PRIMERO. DE LAS INFRACCIONES, SANCIONES Y DEL RECURSO DE REVOCACION
 
@@ -2573,9 +2645,9 @@ Para los efectos de la presente ley, se consideran adultos mayores a las persona
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO SEXTO. DE LAS AUTORIDADES COMPETENTES
+## TITULO SEGUNDO. DE LOS DERECHOS Y DEBERES DE LOS ADULTOS MAYORES
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 ## TITULO SEGUNDO. DEL CONSEJO PARA LA PREVENCION Y ATENCION DE LA VIOLENCIA INTRAFAMILIAR
 
@@ -2653,9 +2725,9 @@ V. Los demás que establezcan los ordenamientos jurídicos aplicables.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO V (SIC). DE LA ESTADISTICA Y EVALUACION
+## TITULO TERCERO. DE LA PARTICIPACION DE LA FAMILIA
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 ## TITULO TERCERO. DE LA PARTICIPACION DE LOS MUNICIPIOS
 
@@ -2695,7 +2767,7 @@ Corresponde a la familia procurar que sus miembros adopten pautas de conducta y 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO PRIMERO. DISPOSICIONES GENERALES
+## TITULO CUARTO. DE LA PARTICIPACION DE LA SOCIEDAD
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -2739,7 +2811,7 @@ Los establecimientos que presten servicio a los adultos mayores deberán habilit
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO TERCERO. DE LA PARTICIPACION DE LA FAMILIA
+## TITULO QUINTO. DE LA ASISTENCIA SOCIAL
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -2805,9 +2877,9 @@ Las asociaciones civiles, fundaciones o patronatos de asistencia privada podrán
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO QUINTO. DE LA ASISTENCIA SOCIAL
+## TITULO SEXTO. DE LAS AUTORIDADES COMPETENTES
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2000)</small>
 
 ## TITULO SEXTO. DE LOS PROCEDIMIENTOS
 
@@ -2903,15 +2975,15 @@ Corresponde a la Secretaría de Salud expedir la cartilla de salud para los adul
 
 Es responsabilidad de la Dirección del Trabajo y Previsión Social ofrecer capacitación para el trabajo y adiestramiento adecuado a los adultos mayores que así lo soliciten y no cuenten con recursos económicos.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 ## TITULO SEPTIMO. RESPONSABILIDADES Y SANCIONES
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO SEGUNDO. DE LOS DERECHOS Y DEBERES DE LOS ADULTOS MAYORES
+## TITULO V (SIC). DE LA ESTADISTICA Y EVALUACION
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 250.
 
@@ -2947,7 +3019,7 @@ La falta de decoro o respeto en el trato con los adultos mayores, por parte de i
 
 El cuidado inadecuado, abuso o negligencia que afecte a los Adultos Mayores y la violación a sus derechos por parte de sus familiares, ciudadanos en general o instituciones lucrativas o no, públicas o privadas, se sancionará conforme a la ley respectiva.
 
-## TITULO CUARTO. DE LA PARTICIPACION DE LA SOCIEDAD
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -3054,3 +3126,23 @@ P.O. 20 DE ENERO DE 2001.
 P.O. 21 DE JULIO DE 2001.
 
 ÚNICO. El presente decreto entrará en vigor el mismo día que la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 29 DE DICIEMBRE DE 2001.
+
+Primero.- El presente Decreto entrará en vigor el día primero de enero del año 2002, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero.- Se autoriza al Titular del Poder Ejecutivo para que, por conducto de la Secretaría de Finanzas, incorpore una unidad presupuestal destinada a la Secretaría de Desarrollo Humano que se crea, dentro del Presupuesto de egresos para el ejercicio fiscal del año 2002.
+
+Cuarto.- Para la debida integración y estructura de la Secretaría de Desarrollo Humano, las Secretarías de Finanzas y Administración, así como las demás dependencias que resulten involucradas, deberán prestar el auxilio y apoyo técnico que se les requiera, conforme a las disposiciones legales aplicables y los programas y presupuestos vigentes.
+
+Quinto.- En el proceso de creación e instalación de la Secretaría de Desarrollo Humano, se preservarán íntegramente los derechos laborales de los servidores públicos que deban ser transferidos de una dependencia o entidad a otra, debiendo sujetarse a lo dispuesto por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
+
+Sexto.- Se autoriza a la Secretaría General de Gobierno, de Finanzas y de Administración para que determinen los recursos humanos, materiales y financieros que tengan (sic) asignados la subsecretaría de Participación Social, que deban pasar a formar parte de la Secretaría de Desarrollo Humano y a que realicen los trámites que correspondan para transferirlos.
+
+Séptimo.- Los asuntos que correspondan y que se estén tramitando en la Subsecretaría de Participación Social a la fecha de entrada en vigor del presente Decreto, y que se acuerde en los términos del artículo octavo transitorio, serán asumidos por la Secretaría de Desarrollo Humano, así mismo la Subsecretaría de Participación Social, se subroga respecto de dichos asuntos, todos los derechos y obligaciones que hasta la fecha haya contraído la Secretaría General de Gobierno por conducto de la referida Subsecretaría.
+
+Octavo.- Aquellas funciones que legalmente le han sido atribuidas a la Subsecretaría de Participación Social, a partir de la entrada en vigor del presente Decreto, serán competencia de la Secretaría de Desarrollo Humano, previo acuerdo con la Secretaría General de Gobierno.
+
+Noveno.- El Ejecutivo del Estado expedirá el Reglamento Interno de la Secretaría de Desarrollo Humano en un plazo no mayor de noventa días.
