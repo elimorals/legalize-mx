@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-instituciones-de-fianzas-443"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1950-12-29"
-last_updated: "1999-05-17"
+last_updated: "1999-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=443&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1950-12-26"
 
 LEY FEDERAL DE INSTITUCIONES DE FIANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MAYO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE NOVIEMBRE DE 1999.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1950.
 
@@ -45,11 +45,15 @@ LEY FEDERAL DE INSTITUCIONES DE FIANZAS
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 1º.
 
-La presente Ley se aplicará a las instituciones de fianzas, cuyo objeto será otorgar fianzas a título oneroso así como a las instituciones que sean autorizadas para practicar operaciones de reafianzamiento.
+La presente Ley es de interés público y tiene por objeto regular la organización y funcionamiento de las instituciones de fianzas; las actividades y operaciones que las mismas podrán realizar; así como las de los agentes de fianzas y demás personas relacionadas con la actividad afianzadora, en protección de los intereses del público usuario de los servicios correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
+
+Esta Ley se aplicará a las instituciones de fianzas, cuyo objeto será otorgar fianzas a título oneroso, así como a las instituciones que sean autorizadas para practicar operaciones de reafianzamiento.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -72,6 +76,62 @@ En la aplicación de esta Ley, la mencionada Secretaría con la intervención qu
 ###### ARTICULO 2º.
 
 Las fianzas y los contratos, que en relación con ellas otorguen o celebren las instituciones de fianzas, serán mercantiles para todas las partes que intervengan, ya sea como beneficiarias, solicitantes, fiadas, contrafiadoras u obligadas solidarias, excepción hecha de la garantía hipotecaria.
+
+> <small>(ADICIONADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 2º. Bis.
+
+Salvo que en las disposiciones específicas se establezca otro plazo, éste no podrá exceder de ocho meses para que las autoridades administrativas resuelvan lo que corresponda. Transcurrido el plazo aplicable, se entenderán las resoluciones en sentido negativo al promovente, a menos que en las disposiciones aplicables se prevea lo contrario. A petición del interesado, se deberá expedir constancia de tal circunstancia, dentro de los dos días hábiles siguientes a la presentación de la solicitud respectiva ante la autoridad competente que deba resolver, conforme al Reglamento Interior respectivo; igual constancia deberá expedirse cuando las disposiciones específicas prevean que transcurrido el plazo aplicable la resolución deba entenderse en sentido positivo. De no expedirse la constancia mencionada dentro del plazo citado, se fincará, en su caso, la responsabilidad que resulte aplicable.
+
+Cuando el escrito inicial no contenga los datos o no cumpla con los requisitos previstos en las disposiciones aplicables, la autoridad deberá prevenir al interesado, por escrito y por una sola vez, para que dentro de un término que no podrá ser menor de diez días hábiles subsane la omisión. Salvo que en las disposiciones específicas se establezca otro plazo, dicha prevención deberá hacerse a más tardar dentro de la mitad del plazo de respuesta de la autoridad y, cuando éste no sea expreso, dentro de los veinte días hábiles siguientes a la presentación del escrito inicial.
+
+Notificada la prevención, se suspenderá el plazo para que las autoridades administrativas resuelvan y se reanudará a partir del día hábil inmediato siguiente a aquel en que el interesado conteste. En el supuesto de que no se desahogue la prevención en el término señalado, las autoridades desecharán el escrito inicial.
+
+Si las autoridades no hacen el requerimiento de información dentro del plazo correspondiente, no podrán rechazar el escrito inicial por incompleto.
+
+Salvo disposición expresa en contrario, los plazos para que las autoridades contesten empezarán a correr el día hábil inmediato siguiente a la presentación del escrito correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 2º. Bis 1.
+
+Las notificaciones, citatorios, emplazamientos, requerimientos, solicitud de informes o documentos y las resoluciones administrativas definitivas podrán realizarse:
+
+I.- Personalmente con quien deba entenderse la diligencia, en el domicilio del interesado;
+
+II.- Mediante oficio entregado por mensajero o correo certificado, con acuse de recibo, telefax o cualquier otro medio por el que se pueda comprobar fehacientemente la recepción de los mismos;
+
+III.- Cuando el interesado o su representante legal acudan al domicilio de la autoridad y acusen recibo del oficio respectivo, y
+
+IV.- Por edicto, cuando se desconozca el domicilio del interesado o en caso de que la persona a quien deba notificarse haya desaparecido, se ignore su domicilio o se encuentre en el extranjero sin haber dejado representante legal.
+
+Tratándose de actos distintos a los señalados anteriormente, las notificaciones podrán realizarse por correo ordinario, mensajería, telegrama o, previa solicitud por escrito del interesado, a través del telefax.
+
+Salvo cuando exista impedimento jurídico para hacerlo, la resolución administrativa definitiva deberá notificarse al interesado por medio de correo certificado o mensajería, en ambos casos con acuse de recibo, siempre y cuando los solicitantes hayan adjuntado al promover el trámite, el comprobante de pago del servicio respectivo.
+
+> <small>(ADICIONADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
+
+###### Artículo 2º. Bis 2.
+
+En los trámites a que se refieren los artículos 4o., tercer párrafo, 9o., segundo párrafo, 10o., segundo párrafo, 15, con excepción de los trámites de constitución de instituciones de fianzas y ampliación de ramos y subramos, 34, 38, 43, 55, fracción II, 60, fracciones VIII, IX y XV, 78 y 84, no podrá exceder de cuatro meses el plazo para que las autoridades administrativas resuelvan lo que corresponda, siendo aplicables las demás reglas a que se refiere el artículo 2 Bis de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 2º. Bis 3.
+
+Las autoridades administrativas competentes para atender los trámites establecidos en esta Ley, o en las disposiciones que se deriven de la misma, podrán, mediante acuerdos de carácter general publicados en el Diario Oficial de la Federación, disminuir los plazos establecidos en las mismas.
+
+> <small>(ADICIONADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 2º. Bis 4.
+
+Las autoridades administrativas competentes, a solicitud de parte interesada, podrán ampliar los plazos establecidos en la presente Ley, sin que dicha ampliación exceda en ningún caso de la mitad del plazo previsto originalmente en las disposiciones aplicables, cuando así lo exija el asunto y no tengan conocimiento de que se perjudica a los interesados o terceros en sus derechos.
+
+> <small>(ADICIONADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 2º. Bis 5.
+
+Las disposiciones a que se refieren los Capítulos IV, V y VI del Título III de esta Ley, así como sus artículos 72, 73, 74, 75, 76 y 77, no se les aplicará lo establecido en los artículos 2o. Bis, 2o. Bis-3 y 2o. Bis-4.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -105,11 +165,57 @@ Se prohíbe a toda persona la intermediación en las operaciones a que se refier
 
 (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1981)
 
-> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 5º.
 
-Para organizarse y funcionar como institución de fianzas o para operar exclusivamente el reafianzamiento, se requiere autorización del Gobierno Federal, que compete otorgar discrecionalmente a la Secretaría de Hacienda y Crédito Público. Estas autorizaciones serán intransmisibles.
+Para organizarse y funcionar como institución de fianzas o para operar exclusivamente el reafianzamiento, se requiere autorización del Gobierno Federal, que compete otorgar discrecionalmente a la Secretaría de Hacienda y Crédito Público.
+
+Las autorizaciones previstas en el párrafo anterior son por su propia naturaleza intransmisibles y se referirán a uno o más de los siguientes ramos y subramos de fianzas:
+
+I.- Fianzas de fidelidad, en alguno o algunos de los subramos siguientes:
+
+a).- Individuales; y
+
+b).- Colectivas;
+
+II.- Fianzas judiciales, en alguno o algunos de los subramos siguientes:
+
+a).- Judiciales penales;
+
+b).- Judiciales no penales; y
+
+c).- Judiciales que amparen a los conductores de vehículos automotores;
+
+III.- Fianzas administrativas, en alguno o algunos de los subramos siguientes:
+
+a).- De obra;
+
+b).- De proveeduría;
+
+c).- Fiscales;
+
+d).- De arrendamiento; y
+
+e).- Otras fianzas administrativas;
+
+IV.- Fianzas de crédito, en alguno o algunos de los subramos siguientes:
+
+a).- De suministro;
+
+b).- De compraventa;
+
+c).- Financieras; y
+
+d).- Otras fianzas de crédito;
+
+V.- Fideicomisos de Garantía, en alguno o algunos de los subramos siguientes:
+
+a).- Relacionados con pólizas de fianza; y
+
+b).- Sin relación con pólizas de fianza.
+
+Cuando algún subramo de fianza a que se refiere este artículo adquiera una importancia tal que amerite considerarlo como ramo independiente, la Secretaría de Hacienda y Crédito Público, podrá declararlo como ramo especial.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -229,9 +335,9 @@ En ningún caso podrán participar en el capital de dichas instituciones, ya sea
 
 En todo lo relativo a su organización, las instituciones a que se refiere el inciso a) de esta fracción, se regirán por lo dispuesto en el presente capítulo, en tanto que a las instituciones a que se refiere el inciso b) de la misma, les será aplicable, además de lo dispuesto en este mismo capítulo, con excepción de la fracción III de este artículo, lo que se establece en el Capítulo I Bis del Título Primero de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
 
-II.- Deberán contar con un capital mínimo pagado, expresado en Unidades de Inversión, el cual se deberá cubrir en moneda nacional en el plazo previsto en esta fracción y que será determinado por la Secretaría de Hacienda y Crédito Público durante el primer trimestre de cada año, para lo cual deberán considerarse, entre otros aspectos, los recursos que sean indispensables para apoyar la adecuada prestación del servicio que representa la actividad afianzadora, la suma de los capitales pagados y reservas de capital con que opere el conjunto de instituciones que integren el sistema afianzador, la situación económica del país y el principio de procurar el sano y equilibrado desarrollo del sistema y una adecuada competencia.
+II.- Deberán contar con un capital mínimo pagado, por cada ramo que se les autorice, expresado en Unidades de Inversión, el cual se deberá cubrir en moneda nacional en el plazo previsto en esta fracción y que será determinado por la Secretaría de Hacienda y Crédito Público durante el primer trimestre de cada año, para lo cual deberá considerarse, entre otros aspectos, los recursos que sean indispensables para apoyar la adecuada prestación del servicio que representa la actividad afianzadora, la suma de los capitales pagados y reservas de capital con que opere el conjunto de instituciones que integren el sistema afianzador, la situación económica del país y el principio de procurar el sano y equilibrado desarrollo del sistema y una adecuada competencia.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1997)</small>
 
@@ -419,11 +525,17 @@ d).- Las personas sentenciadas por delitos patrimoniales intencionales; las inha
 
 e).- Los quebrados o concursados que no hayan sido rehabilitados;
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
 
-f).- Los servidores públicos de las autoridades encargadas de la inspección y vigilancia de las instituciones de fianzas; y
+f).- Los servidores públicos de las autoridades encargadas de la inspección y vigilancia de las instituciones de fianzas;
 
-g).- Quienes realicen funciones de regulación de las instituciones de fianzas, salvo que exista participación del Gobierno Federal en el capital de las mismas;
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
+
+g).- Quienes realicen funciones de regulación de las instituciones de fianzas, salvo que exista participación del Gobierno Federal en el capital de las mismas; y
+
+> <small>(ADICIONADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
+
+h).- Los servidores públicos del Banco de México, del Instituto para la Protección al Ahorro Bancario de la Comisión Nacional del Sistema de Ahorro para el Retiro, de la Comisión Nacional Bancaria y de Valores y de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros;
 
 > <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 1993)</small>
 
@@ -431,17 +543,45 @@ VIII bis-1.- El nombramiento de director general de la institución de fianzas o
 
 a).- Haber prestado por lo menos cinco años sus servicios en puestos de alto nivel decisorio, cuyo desempeño requiera conocimiento y experiencia en materia financiera y administrativa;
 
-b).- No tener alguno de los impedimentos que para ser consejero señalan los incisos c) a f) de la fracción anterior.
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
+
+b).- No tener alguno de los impedimentos que para ser consejero señalan los incisos c) a f) y h) de la fracción anterior; y
+
+> <small>(ADICIONADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
+
+c).- No estar realizando funciones de regulación de las instituciones de fianzas.
 
 Los funcionarios que ocupen cargos con las dos jerarquías inferiores a la del director general o su equivalente, deberán cumplir con los requisitos previstos en ésta y en la fracción anterior.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
 
-El nombramiento de los consejeros, comisarios, director general y de funcionarios que ocupen cargos con la jerarquía inmediata inferior a la de este último, requerirá aprobación de la Junta de Gobierno de la Comisión Nacional de Seguros y Fianzas.
+El nombramiento de los consejeros, comisarios, director general o equivalente y de funcionarios que ocupen cargos con la jerarquía inmediata inferior a la de estos últimos, será responsabilidad de las instituciones de fianzas y requerirá de la ratificación de la Junta de Gobierno de la Comisión Nacional de Seguros y Fianzas. La solicitud de ratificación deberá presentarse ante la Comisión, dentro de los cinco días hábiles siguientes al en que se haya realizado el nombramiento respectivo.
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
 
-Los actos del director general y de los funcionarios que ocupen cargos con la jerarquía inmediata inferior a la de éste, en el desempeño de sus funciones, obligarán invariablemente a la institución de fianzas de que se trate, sin perjuicio de las responsabilidades civiles o penales en que incurran personalmente;
+Los actos que celebren el director general, su equivalente o los funcionarios que ocupen cargos con la jerarquía inmediata inferior a la de éstos dejarán de surtir efectos jurídicos a partir del día siguiente al en que haya sido notificada a la institución la resolución de no ratificar el nombramiento respectivo, salvo en relación con las partes que ignoren la falta de ratificación del nombramiento de que se trate, que sean de buena fe y siempre que el acto jurídico no sea ineficaz por alguna otra causa.
+
+> <small>(ADICIONADO, D.O.F. 10 DENOVIEMBRE DE 1999)</small>
+
+Los actos del director general y de los funcionarios que ocupen cargos con la jerarquía inmediata inferior a la de éste, en el desempeño de sus funciones, obligarán invariablemente a la institución de fianzas de que se trate, sin perjuicio de las responsabilidades civiles o penales en que incurran personalmente.
+
+> <small>(ADICIONADO, D.O.F. 10 DENOVIEMBRE DE 1999)</small>
+
+Lo establecido en los tres párrafos anteriores deberá transcribirse en los estatutos sociales de las instituciones de fianzas;
+
+> <small>(ADICIONADO, D.O.F. 10 DENOVIEMBRE DE 1999)</small>
+
+VIII Bis-2.- Las designaciones de consejeros de las instituciones nacionales de fianzas se efectuarán por el Ejecutivo Federal a través de la Secretaría de Hacienda y Crédito Público, debiendo recaer dichas designaciones en servidores públicos de la administración pública federal o profesionales independientes de reconocida honorabilidad, experiencia y prestigio en materias económica y financiera. El cargo de consejero es personal y no podrá desempeñarse por medio de representantes. En ningún caso podrán ser consejeros el director general y los servidores públicos de la institución que ocupen cargos con las dos jerarquías inferiores a la de éste, así como las personas a que se refieren los incisos b) a f) y h) de la fracción VIII Bis del presente artículo.
+
+El director general de las instituciones nacionales de fianzas será designado por el Ejecutivo Federal, a través del Secretario de Hacienda y Crédito Público, debiendo recaer tal nombramiento en la persona que reúna los requisitos señalados en el primer párrafo y los incisos a), b) y c) de la fracción VIII Bis-1 del presente artículo.
+
+Los mismos requisitos deberán reunir los servidores públicos de la institución que ocupen cargos con las dos jerarquías inferiores a la del director general.
+
+Al nombramiento de los consejeros, comisarios, director general y servidores públicos que ocupen cargos con las dos jerarquías inferiores a la de éste de las instituciones nacionales de fianzas, no les será aplicable lo dispuesto en los párrafos tercero y cuarto de la fracción VIII Bis-1 de este artículo.
+
+La Comisión Nacional de Seguros y Fianzas, con acuerdo de su Junta de Gobierno podrá determinar que se proceda a la remoción o suspensión de los servidores públicos que puedan obligar con su firma a una institución nacional de fianzas, con excepción del director general o equivalente, cuando considere que tales personas no cuentan con la suficiente calidad técnica o moral para el desempeño de sus funciones o que en el desempeño de éstas no se hayan ajustado a las disposiciones legales y administrativas aplicables, procediendo, en su caso, en los términos del artículo 82 de la presente Ley. Asimismo, la propia Comisión podrá recomendar al Ejecutivo Federal, a través de la mencionada Secretaría, la remoción del director general de la institución, cuando considere que éste, en el desempeño de sus funciones, no se ha ajustado a las disposiciones legales y administrativas aplicables.
+
+Lo establecido por la presente fracción deberá transcribirse en los estatutos sociales de las instituciones nacionales de fianzas;
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -466,6 +606,10 @@ En la escisión de una institución de fianzas también se requerirá de la prev
 La institución cedente, fusionante o escindente, deberá publicar avisos en su oficina matriz, sucursales y oficinas de servicio, en el Diario Oficial de la Federación y en dos de los periódicos de mayor circulación, en la plaza donde se encuentre su domicilio social, informando de la cesión, traspaso, fusión o escisión a que se refiere el párrafo anterior. Dichos avisos surtirán efectos de notificación a los beneficiarios de las pólizas de fianza, cuyo domicilio sea distinto al último señalado para que dentro de un plazo de treinta días hábiles, contado a partir de la fecha de publicación de los citados avisos, manifiesten lo que a su derecho convenga.
 
 La Secretaría de Hacienda y Crédito Público, tomando en cuenta lo que en su caso hubieran manifestado los beneficiarios, una vez que se haya acreditado el cumplimiento del requisito anterior, resolverá sobre la procedencia de la cesión, traspaso, fusión o escisión correspondiente. El contrato de cesión o traspaso o el acuerdo tomado por la asamblea general extraordinaria de accionistas, en su caso, deberá publicarse en la forma señalada en el párrafo anterior e inscribirse en el Registro Público de Comercio correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
+
+Los procesos de cesión, traspaso, fusión o escisión a que se refiere esta fracción, de ninguna manera modificarán los términos y condiciones vigentes pactados en los contratos de fianza correspondientes. En todo caso, para su modificación será necesaria la manifestación de la voluntad de las partes interesadas en este sentido;
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -665,9 +809,9 @@ XIII.- Otorgar préstamos o créditos;
 
 XIV.- Recibir títulos en descuento y redescuento a instituciones de crédito, organizaciones auxiliares del crédito y a fondos permanentes de fomento económico destinados en fideicomiso por el Gobierno Federal en instituciones de crédito;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
 
-XV.- Actuar como institución fiduciaria sólo en el caso de fideicomisos de garantía, los cuales podrán o no estar relacionados con las pólizas de fianza que expidan, como excepción a lo dispuesto por el artículo 350 de la Ley General de Títulos y Operaciones de Crédito.
+XV.- Actuar como institución fiduciaria sólo en el caso de fideicomisos de garantía con la facultad de administrar los bienes fideicomitidos en los mismos, los cuales podrán o no estar relacionados con las pólizas de fianzas que expidan, como excepción a lo dispuesto por el artículo 350 de la Ley General de Títulos y Operaciones de Crédito.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 3 DE ENERO DE 1997)</small>
 
@@ -904,6 +1048,10 @@ Las firmas de los funcionarios de las instituciones de fianzas que suscriban las
 > <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 El Registro Público de la Propiedad y de Comercio sólo procederá a la tildación de las afectaciones marginales, cuando la solicitud se presente acompañada de la constancia expedida por la afianzadora para la tildación respectiva con la ratificación a que se refiere el párrafo anterior.
+
+> <small>(ADICIONADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
+
+Los trámites a cargo de la Comisión Nacional de Seguros y Fianzas a que se refiere el presente artículo, deberán atenderse a más tardar el día hábil siguiente al de presentación de la solicitud respectiva, siempre y cuando cumplan con todos los requisitos legales correspondientes.
 
 > <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
 
@@ -1327,9 +1475,9 @@ IV.- (DEROGADA, D.O.F. 3 DE ENERO DE 1997)
 
 V.- Los bienes o mercancías que tengan un mercado regular se estimarán por su cotización;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
 
-VI.- Los inmuebles urbanos se estimarán por el promedio de los avalúos que conforme a las siguientes bases, practiquen los peritos designados por las instituciones de fianzas y que apruebe la Comisión Nacional de Seguros y Fianzas:
+VI.- Los inmuebles urbanos se estimarán por el promedio de avalúos que conforme a las siguientes bases practiquen peritos de instituciones de crédito o corredores públicos designados por las instituciones de fianzas:
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -1339,13 +1487,13 @@ a).- Se calculará el valor físico del inmueble, estimando el valor comercial d
 
 b).- Igualmente se hará una estimación del valor por renta, capitalizando las rentas líquidas que el inmueble sea capaz de producir, usando los tipos de interés que fijará administrativamente la Comisión Nacional de Seguros y Fianzas, teniendo en cuenta la clase de construcción, el tipo de la misma y demás circunstancias. Para calcular la renta líquida se disminuirán del productobruto (sic) las contribuciones de toda índole, cuotas de agua, gastos de conservación, vacíos, depreciación, seguros y gastos generales de administración.
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
 
-La Comisión Nacional de Seguros y Fianzas, cuando a su juicio fuere conveniente, podrá en casos específicos, autorizar otros procedimientos de estimación de inmuebles, en sustitución de los mencionados en el presente artículo.
+La Comisión Nacional de Seguros y Fianzas, cuando a su juicio fuere conveniente, podrá en casos específicos, considerar otros procedimientos de estimación de inmuebles, en sustitución de los mencionados en el presente artículo.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
 
-Cuando una institución de fianzas no esté de acuerdo con algún avalúo practicado, someterá por escrito ante la Comisión Nacional de Seguros y Fianzas las razones de su inconformidad, y ésta resolverá, pudiendo oír en todo caso la opinión de otro perito nombrado por la misma Comisión Nacional de Seguros y Fianzas. Los honorarios de dicho perito serán también satisfechos por la institución de fianzas interesada.
+La propia Comisión, oyendo la opinión de otro perito que la misma nombre, podrá rechazar los avalúos que presenten las instituciones de fianzas en los términos de esta fracción, dentro de un plazo de treinta días hábiles; transcurrido este término sin que la Comisión haya emitido su opinión, se entenderá que los mismos han sido aprobados. Los honorarios de dicho perito serán también satisfechos por la institución de fianzas interesada.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -1487,7 +1635,9 @@ Cuando no se señale el acto impugnado o no se expresen agravios, la autoridad c
 
 La resolución del recurso de revocación podrá ser desechando, confirmando, mandando reponer por uno nuevo que lo sustituya o revocando el acto impugnado y deberá ser emitida en un plazo no superior a los cuarenta y cinco días hábiles posteriores a aquél en que se interpuso el recurso, cuando deba ser resuelto por el Presidente de la Comisión, ni de sesenta días hábiles cuando se trate de recursos competencia de la Junta de Gobierno.
 
-La interposición del recurso de revocación suspenderá la exigibilidad del pago de la multa, pero en caso de que la misma resulte total o parcialmente confirmada, se pagará conforme a lo dispuesto en el cuarto párrafo de esta fracción; y
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
+
+La interposición del recurso de revocación suspenderá la ejecución de la sanción impuesta. Si ésta se confirma total o parcialmente, la resolución del recurso respectivo dispondrá lo conducente para que la sanción sea ejecutada de inmediato, una vez que se notifique la misma; y
 
 > <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 1993)</small>
 
@@ -1543,9 +1693,9 @@ IX.- Desempeñar las funciones que le encomiende o le delegue la Junta de Gobier
 
 X.- Representar a la Comisión Nacional de Seguros y Fianzas en el compromiso arbitral que al efecto se celebre en los términos del artículo 93 de esta Ley y dictar las resoluciones y los laudos respectivos;
 
-> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
 
-XI.- Imponer, de acuerdo a las facultades que le delegue la Junta de Gobierno, las sanciones que correspondan en los términos de esta Ley y las demás leyes aplicables y disposiciones que de ellas emanen así como proponer a la Junta de Gobierno la condonación total o parcial de las multas, y
+XI.- Imponer, de acuerdo a las facultades que le delegue la Junta de Gobierno, las sanciones que correspondan en los términos de esta Ley y las demás leyes aplicables y disposiciones que de ellas emanen, así como proponer a la Junta de Gobierno la condonación total o parcial de las multas y aplicar las medidas de apremio a que se refiere esta Ley; y
 
 > <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -1647,9 +1797,17 @@ Las instituciones de fianzas requerirán autorización previa de la Secretaría 
 
 Estas sociedades deberán ajustarse, en cuanto a los servicios u operaciones que la Secretaría de Hacienda y Crédito Público repute complementarios o auxiliares de las operaciones que sean propias de la institución de fianzas de que se trate, a las reglas de carácter general que dicte la misma Secretaría, y a la inspección y vigilancia dela (sic) Comisión Nacional de Seguros y Fianzas.
 
+> <small>(ADICIONADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
+
 ###### ARTICULO 80.
 
-(DEROGADO, D.O.F. 14 DE JULIO DE 1993)
+Los servidores públicos de la Secretaría de Hacienda y Crédito Público y de la Comisión Nacional de Seguros de Fianzas, para el desempeño de las funciones que les atribuyen las disposiciones jurídicas en materia de fianzas, podrán emplear las siguientes medidas de apremio:
+
+I.- Multa por el equivalente de cien a dos mil quinientos días de salario mínimo vigente en el Distrito Federal en el momento en que se realizó la conducta que motivó la aplicación de la medida de apremio. En caso de que persista el desacato o resistencia podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo;
+
+II.- Fractura de cerraduras; y
+
+III.- Solicitar a las autoridades civiles su apoyo oportuno y eficaz para que dichos servidores públicos puedan efectuar los actos inherentes a sus funciones.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -1727,15 +1885,21 @@ El nombramiento de comisarios sólo podrá recaer en personas que reúnan los re
 
 Los documentos que acrediten la facultad de los representantes de las instituciones de fianzas para otorgar fianzas, así como los facsímiles de sus firmas, deberán registrarse en la Comisión Nacional de Seguros y Fianzas.
 
-> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 85.
 
-Las instituciones de fianzas deberán presentar ante la Comisión Nacional de Seguros y Fianzas, para efectos de registro y vigilancia, la documentación que utilicen relacionada con la oferta, solicitud y contratación de fianzas o la derivada de éstas, así como los modelos de contratos que se utilicen para ceder responsabilidades en reafianzamiento, cuando menos treinta días hábiles antes de su utilización o puesta en operación. La citada Comisión dentro de los treinta días hábiles siguientes a la fecha de recepción de dichos documentos y elementos, podrá ordenar las modificaciones o correcciones que estime pertinentes.
+Las instituciones de fianzas deberán presentar ante la Comisión Nacional de Seguros y Fianzas, para efectos de registro y vigilancia, la documentación que utilicen relacionada con la oferta, solicitud y contratación de fianzas o la derivada de éstas, cuando menos treinta días hábiles antes de su utilización o puesta en operación. La citada Comisión dentro de los treinta días hábiles siguientes a la fecha de recepción de dichos documentos y elementos, podrá ordenar las modificaciones o correcciones que estime pertinentes.
+
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 Las instituciones podrán justificar y comprobar la procedencia de su solicitud de registro así como formular argumentos sobre las observaciones que hubiere hecho la mencionada Comisión, la cual resolverá lo que proceda dentro de un plazo no mayor de cinco días hábiles adicionales a partir de la fecha en que reciba las solicitudes de las instituciones de fianzas.
 
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
+
 En caso de que la Comisión no comunique modificaciones o correcciones a los documentos y elementos presentados por las instituciones dentro del plazo establecido en el segundo párrafo de este artículo, o no dé respuesta a las solicitudes a que se refiere el párrafo anterior, dentro de los plazos fijados para cada caso, se entenderá que no tiene inconveniente para su utilización.
+
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 Asimismo, las instituciones estarán obligadas a incluir las cláusulas invariables que administrativamente fije la Secretaría de Hacienda y Crédito Público, por medio de disposiciones generales.
 
@@ -1869,109 +2033,67 @@ III.- Cuando el beneficiario no esté conforme con la resolución que le hubiere
 
 IV.- La sola presentación de la reclamación a la institución de fianzas en los términos de la fracción I de este artículo, interrumpirá la prescripción establecida en el artículo 120 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 93 Bis.
 
-En caso de que el beneficiario presente reclamación ante la Comisión Nacional de Seguros y Fianzas, en contra de una institución de fianzas, en los términos del artículo anterior, se deberá agotar el procedimiento conciliatorio conforme a las siguientes reglas:
+En caso de que el beneficiario presente reclamación ante la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, en contra de una institución de fianzas, en los términos del artículo anterior, se deberá agotar el procedimiento conciliatorio conforme a las siguientes reglas:
 
-> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 1993)</small>
-
-I.- El reclamante presentará un escrito ante la Comisión Nacional de Seguros y Fianzas, del que se correrá traslado a la institución de que se trate, dentro de un plazo de diez días naturales, contado a partir de la fecha en que fue presentada la reclamación;
-
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1997)</small>
+I.- El reclamante presentará un escrito ante la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, del que se correrá traslado a la institución de que se trate, dentro de un plazo de diez días naturales, contado a partir de la fecha en que fue presentada la reclamación.
 
 La presentación de la reclamación ante la Comisión interrumpirá el plazo legalmente establecido para la prescripción de la acción correspondiente;
 
-> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 1993)</small>
-
-II.- La institución dentro del término de diez días naturales, contado a partir de aquél en que reciba el traslado, rendirá un informe por escrito a la Comisión en el que responderá en forma detallada respecto a todos y cada uno de los hechos a que se refiere la reclamación, y podrá solicitar a la Comisión que cite al fiado a la junta de avenencia a que se refiere la fracción siguiente, para lo cual proporcionará el domicilio que tuviere del fiado, o el de su representante legal, en su caso;
-
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1997)</small>
+II.- La institución dentro del término de diez días naturales, contado a partir de aquel en que reciba el traslado, rendirá un informe por escrito a la Comisión en el que responderá en forma detallada respecto a todos y cada uno de los hechos a que se refiere la reclamación, y podrá solicitar a la Comisión que cite al fiado a la junta de avenencia a que se refiere la fracción siguiente, para lo cual proporcionará el domicilio que tuviere del fiado, o el de su representante legal, en su caso.
 
 En caso de no presentar el informe, la institución de fianzas se hará acreedora a una sanción de cien a doscientos días de salario mínimo general vigente en el Distrito Federal;
-
-> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 1993)</small>
 
 III.- La Comisión citará a las partes y en su caso al fiado, a una junta de avenencia, que se realizará dentro de los veinte días naturales contados a partir de la fecha de presentación de la reclamación; si por cualquier circunstancia la junta no puede celebrarse en la fecha indicada, se verificará dentro de los ocho días naturales.
 
 En la junta a que se refiere el párrafo anterior, la institución efectuará el pago de la reclamación, si es que procede, o en su defecto, presentará el informe a que se alude en la fracción II de este artículo, el cual hará por conducto de un representante legítimo.
 
-> <small>(DEROGADO TERCER PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1997)</small>
-
-Si no comparece el reclamante, se entenderá que no desea la conciliación. Si la que no comparece es la institución, se sancionará con multa administrativa que impondrá la Comisión Nacional de Seguros y Fianzas, por un monto de 200 a 300 veces el salario mínimo general diario vigente en el Distrito Federal y bajo este supuesto se volverá a citar a las partes hasta que acuda la institución. Si a partir de la segunda citación ésta no asiste, su reincidencia se podrá castigar con una multa hasta del doble de la ya impuesta. Sin embargo, en la audiencia relativa, la institución de fianzas podrá argumentar la imposibilidad de conciliar y expresar su voluntad de no someter sus diferencias al arbitraje.
+Si no comparece el reclamante, se entenderá que no desea la conciliación. Si la que no comparece es la institución, se sancionará con multa administrativa que impondrá la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, por un monto de 200 a 300 veces el salario mínimo general diario vigente en el Distrito Federal y bajo este supuesto se volverá a citar a las partes hasta que acuda la institución. Si a partir de la segunda citación ésta no asiste, su reincidencia se podrá castigar con una multa hasta del doble de la ya impuesta. Sin embargo, en la audiencia relativa, la institución de fianzas podrá argumentar la imposibilidad de conciliar y expresar su voluntad de no someter sus diferencias al arbitraje.
 
 En el supuesto de que sea el fiado el que no comparezca se desahogará la junta de avenencia.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1997)</small>
-
 En la junta de avenencia se invitará a las partes a conciliar sus intereses y si esto no fuera posible, la Comisión las invitará a que voluntariamente y de común acuerdo la designen árbitro. El convenio correspondiente se hará constar en acta que al efecto se levante ante la citada Comisión.
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1997)</small>
+En el convenio que fundamente el juicio arbitral, las partes facultarán a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros a resolver en conciencia, a verdad sabida y buena fe guardada, la controversia planteada y se fijarán de manera específica, de común acuerdo y previa opinión de la Comisión, las situaciones y puntos motivo de controversia, estableciéndose las etapas, formalidades o términos a que se sujetará el arbitraje.
 
-En el convenio que fundamente el juicio arbitral, las partes facultarán a la Comisión Nacional de Seguros y Fianzas a resolver en conciencia, a verdad sabida y buena fe guardada, la controversia planteada y se fijarán de manera específica, de común acuerdo y previa opinión de la Comisión, las situaciones y puntos motivo de controversia, estableciéndose las etapas, formalidades o términos a que se sujetará el arbitraje.
+Las Delegaciones Regionales o, en su caso, estatales o locales de la Comisión tramitarán el procedimiento conciliatorio y, en su caso, el procedimiento arbitral en amigable composición;
 
-Las Delegaciones Regionales de la Comisión tramitarán el procedimiento conciliatorio y, en su caso, el procedimiento arbitral en amigable composición.
+IV.- La Comisión tendrá la facultad de allegarse todos los elementos de juicio que estime necesarios para resolver las cuestiones que se le hayan sometido en arbitraje, y las autoridades administrativas, así como los tribunales deberán auxiliarle, en la esfera de su competencia. Para tales efectos, podrá valerse de cualquier persona, sea parte o tercero, y de cualquier cosa o documento, ya sea que pertenezca a las partes o a un tercero, sin más limitaciones que la de que las pruebas no estén prohibidas por la ley ni sean contrarias a la moral;
 
-> <small>(DEROGADO OCTAVO PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
-
-> <small>(DEROGADO NOVENO PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
-
-> <small>(DEROGADO DECIMO PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
-
-> <small>(DEROGADO DECIMO PRIMERO PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
-
-> <small>(DEROGADO DECIMO SEGUNDO PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
-
-> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 1990)</small>
-
-IV.- La Comisión tendrá la facultad de allegarse todos los elementos de juicio que estime necesarios para resolver las cuestiones que se le hayan sometido en arbitraje y las autoridades administrativas, así como los tribunales deberán auxiliarle, en la esfera de su competencia. Para tales efectos, podrá valerse de cualquier persona, sea parte o tercero, y de cualquier cosa o documento, ya sea que pertenezca a las partes o a un tercero, sin más limitaciones que la de que las pruebas no estén prohibidas por la ley ni sean contrarias a la moral;
-
-> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 1990)</small>
-
-V.- El laudo que se dicte sólo admitirá como medio de defensa, el juicio de amparo;
-
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1997)</small>
+V.- El laudo que se dicte sólo admitirá como medio de defensa, el juicio de amparo.
 
 Lo anterior sin perjuicio de que las partes soliciten aclaración del laudo, dentro de las setenta y dos horas siguientes a su notificación, cuando a su juicio exista error de cálculo, de copia, tipográfico o de naturaleza similar, sin que la misma sea considerada como un recurso de carácter procesal o administrativo.
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1997)</small>
-
 Todas las demás resoluciones que conforme al Código de Comercio admitan apelación o revocación, podrán impugnarse en el juicio arbitral mediante el recurso de revocación;
-
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1997)</small>
 
 VI.- En caso de que no exista promoción de parte por un lapso de más de 90 días, contado a partir de la notificación de la última actuación, operará la caducidad de la instancia;
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1997)</small>
-
 VII.- El laudo que condene a una institución de fianzas le otorgará un plazo de quince días hábiles a partir de la notificación para su cumplimiento;
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1997)</small>
+VIII.- Corresponde a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros la ejecución del laudo que se pronuncie, para lo cual mandará en su caso, que se pague a la persona en cuyo favor se hubiere dictado el laudo. En caso de negativa u omisión, la citada Comisión, en un plazo máximo de cinco días hábiles, contado a partir del vencimiento del plazo a que se refiere la fracción anterior, ordenará el remate de los valores invertidos conforme a esta Ley y si ellos estuvieren considerados en las reservas de la institución de fianzas, ésta deberá reponerlos de acuerdo a lo que legalmente se establece para la reconstitución de las reservas;
 
-VIII.- Corresponde a la Comisión la ejecución del laudo que se pronuncie, para lo cual mandará en su caso, que se pague a la persona en cuyo favor se hubiere dictado el laudo. En caso de negativa u omisión, la Comisión, en un plazo máximo de cinco días hábiles, contado a partir del vencimiento del plazo a que se refiere la fracción anterior, ordenará el remate de los valores invertidos conforme a esta Ley y si ellos estuvieren considerados en las reservas de la institución de fianzas, ésta deberá reponerlos de acuerdo a lo que legalmente se establece para la reconstitución de las reservas;
+IX.- Los convenios celebrados ante la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros tendrán el carácter de una sentencia ejecutoria y podrán ser ejecutados por la misma, en los términos de esta fracción; y
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1997)</small>
-
-IX.- Los convenios celebrados ante la propia Comisión tendrán el carácter de una sentencia ejecutoria y podrán ser ejecutados por la misma, en los términos de esta fracción; y
-
-> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 1997)</small>
-
-X.- Si alguna de las partes no estuviere de acuerdo en designar árbitro a la Comisión, el reclamante podrá ocurrir desde luego ante los tribunales competentes.
+X.- Si alguna de las partes no estuviere de acuerdo en designar árbitro a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, el reclamante podrá ocurrir desde luego ante los tribunales competentes.
 
 ###### ARTICULO 94.
 
 Los juicios contra las instituciones de fianzas se substanciarán conforme a las siguientes reglas:
 
-I.- Se emplazará a la institución y se le correrá traslado de la demanda para que la conteste en un plazo de cinco días, aumentados con los que correspondan por razón de la distancia;
+> <small>(REFORMADA, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
 
-> <small>(F. DE E., D.O.F. 18 DE ENERO DE 1951)</small>
+I.- Se emplazará a la institución y se le correrá traslado de la demanda para que la conteste en un plazo de cinco días hábiles, aumentados con los que correspondan por razón de la distancia;
 
-II.- Se concederá un término ordinario de prueba por diez días, transcurrido el cual actor y demandado, sucesivamente, gozarán de un plazo de tres días para alegar por escrito;
+> <small>(REFORMADA, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
 
-III.- El Tribunal o juez dictará sentencia en el plazo de cinco días;
+II.- Se concederá un término ordinario de prueba por diez días hábiles, transcurrido el cual actor y demandado, sucesivamente, gozarán de un plazo de tres días hábiles para alegar por escrito;
+
+> <small>(REFORMADA, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
+
+III.- El tribunal o juez dictará sentencia en el plazo de cinco días hábiles;
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1997)</small>
 
@@ -1981,7 +2103,9 @@ IV.- Contra las sentencias dictadas en los juicios a que se refiere este artícu
 
 V.- Las sentencias y mandamientos de embargo dictados en contra de las instituciones de fianzas, se ejecutarán exclusivamente por conducto de la Comisión Nacional para la Defensa de los Usuarios de Servicios Financieros, conforme a las siguientes reglas:
 
-a).- Tratándose de sentencia que condene a pagar a la institución, la Comisión Nacional de Seguros y Fianzas, dentro de los diez días siguientes al recibo de la ejecutoria, la requerirá para que cumpla. Si dentro de las setenta y dos horas siguientes la institución no comprueba haberlo hecho, la Comisión Nacional para la Defensa de los Usuarios de Servicios Financieros ordenará el remate en bolsa, de valores propiedad de la institución y pondrá la cantidad que corresponda a disposición de la autoridad que conozca el juicio.
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
+
+a).- Tratándose de sentencia que condene a pagar a la institución, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, dentro de los diez días hábiles siguientes al recibo de la ejecutoria, la requerirá para que cumpla. Si dentro de los tres días hábiles siguientes la institución no comprueba haberlo hecho, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros ordenará el remate en bolsa, de valores propiedad de la institución y pondrá la cantidad que corresponda a disposición de la autoridad que conozca el juicio; y
 
 b).- Tratándose de mandamientos de embargo dictados por la autoridad judicial o administrativa, la Comisión Nacional para la Defensa de los Usuarios de Servicios Financieros determinará los bienes de la institución que deban afectarse en garantía exclusiva del cumplimiento de las obligaciones por las que se ordenó el embargo. La misma Comisión dictará las reglas sobre el depósito de dichos bienes;
 
@@ -2053,33 +2177,43 @@ d).- Porque la autoridad que hubiere hecho el requerimiento se desistiere del co
 
 Los oficios de desistimiento de cobro, necesariamente deberán suscribirlos los funcionarios facultados o autorizados para ello.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 95 Bis.
 
-Si la institución de fianzas no cumple con las obligaciones asumidas en la póliza al hacerse exigibles, estará obligada, aun cuando la reclamación sea extrajudicial, a cubrir su obligación de acuerdo a lo siguiente:
+Si la institución de fianzas no cumple con las obligaciones asumidas en la póliza de fianza dentro de los plazos con que cuenta legalmente para su cumplimiento, deberá pagar al acreedor una indemnización por mora de acuerdo con lo siguiente:
 
-I.- Las obligaciones en moneda nacional se denominarán en Unidades de Inversión, a partir de la fecha de su exigibilidad, de acuerdo con las disposiciones aplicables y su pago se hará en moneda nacional al valor que dichas Unidades de Inversión tengan a la fecha en que se efectúe el mismo.
+I.- Las obligaciones en moneda nacional se denominarán en Unidades de Inversión, al valor de éstas en la fecha del vencimiento de los plazos referidos en la parte inicial de este artículo y su pago se hará en moneda nacional, al valor que las Unidades de Inversión tengan a la fecha en que se efectúe el mismo.
 
-Las instituciones de fianzas deberán pagar un interés sobre la obligación denominada en Unidades de Inversión, el cual se calculará aplicando al monto de la propia obligación, el porcentaje que resulte de multiplicar por 1.25 el costo anual de captación a plazo de los pasivos denominados en Unidades de Inversión, de las instituciones de banca múltiple del país, publicado en el Diario Oficial de la Federación, para el mes inmediato anterior a aquél en que se realice el cálculo, dividido entre doce. Los intereses se generarán mes a mes, desde aquél en que se incumpla la obligación y hasta el mes en que se realice el pago, aun cuando sólo haya transcurrido una fracción de los mismos; y
+Además, la institución de fianzas pagará un interés moratorio sobre la obligación denominada en Unidades de Inversión conforme a lo dispuesto en el párrafo anterior, cuya tasa será igual al resultado de multiplicar por 1.25 el costo de captación a plazo de pasivos denominados en Unidades de Inversión de las instituciones de banca múltiple del país, publicado por el Banco de México en el Diario Oficial de la Federación, correspondiente a cada uno de los meses en que exista mora;
 
-II.- Cuando la obligación principal se denomine en moneda extranjera, además del pago de esa obligación, las instituciones de fianzas estarán obligadas a pagar un interés que se calculará aplicando al monto de la propia obligación, el porcentaje que resulte de multiplicar por 1.25 la tasa más alta de rendimiento del instrumento que emita el Gobierno Federal denominado en dólares de los Estados Unidos de América, que se haya emitido en el mes de que se trate, a falta de éste, se utilizará la correspondiente al último mes que haya estado vigente. Los intereses se generarán mes a mes, desde aquél en que se incumpla la obligación y hasta el mes en que se realice el pago, aun cuando sólo haya transcurrido una fracción de los mismos.
+II.- Cuando la obligación asumida en la póliza de fianza se denomine en moneda extranjera, adicionalmente al pago de esa obligación, la afianzadora estará obligada a pagar un interés moratorio que se calculará aplicando al monto de la propia obligación, el porcentaje que resulte de multiplicar por 1.25 el costo de captación a plazo de pasivos denominados en dólares de los Estados Unidos de América, de las instituciones de banca múltiple del país, publicado por el Banco de México en el Diario Oficial de la Federación, correspondiente a cada uno de los meses en que exista mora;
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1997)</small>
+III.- En caso de que no se publiquen las tasas de referencia para el cálculo del interés moratorio a que aluden las fracciones I y II de este artículo, el mismo se computará multiplicando por 1.25 la tasa que las sustituya, conforme a las disposiciones aplicables;
 
-Son irrenunciables los derechos del acreedor establecidos en este artículo, que tienen el carácter de mínimos y el pacto que pretenda extinguirlos o reducirlos no producirá efecto alguno. Estos derechos surgirán por el solo transcurso del plazo establecido por la Ley para la exigibilidad de la obligación principal.
+IV.- Los intereses moratorios a que se refiere este artículo se generarán por día, a partir de la fecha del vencimiento de los plazos referidos en la parte inicial de este artículo y hasta el día inmediato anterior a aquel en que se efectúe el pago. Para su cálculo, las tasas de referencia deberán dividirse entre trescientos sesenta y cinco y multiplicar el resultado por el número de días correspondientes a los meses en los que persista el incumplimiento;
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1997)</small>
+V.- El derecho a las indemnizaciones a que se refiere este artículo surgirá por el solo incumplimiento de la obligación de la afianzadora dentro de los plazos referidos en la parte inicial de este artículo, aunque la obligación asumida en la póliza de fianza no sea líquida en ese momento;
 
-En caso de juicio en el que se condene al pago de la obligación principal, el juez o árbitro, de oficio, deberá formular en su sentencia o laudo, la condena accesoria al pago de las indemnizaciones mínimas a que se refiere este artículo.
+VI.- El acreedor, una vez que haya surgido a su favor el derecho a las indemnizaciones establecidas en este artículo, podrá convenir con su deudor la revisión total o parcial a dichas indemnizaciones, salvo que se trate de las siguientes obligaciones:
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+a).- Las derivadas del estado civil o alimentos;
 
-Si la institución de fianzas no efectúa dicho pago, dentro de los 15 días hábiles siguientes a que venza el plazo citado en el párrafo anterior, cubrirá, además, una multa equivalente a la suma que deba pagar al beneficiario. En caso contrario se estará a lo señalado en la fracción XI del artículo 105 de esta Ley.
+b).- Las derivadas de sucesiones en las que estén involucrados derechos a favor de menores;
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+c).- Las de carácter fiscal federal, local o municipal;
 
-Cuando sea procedente, las instituciones de fianzas promoverán ante los fiados y demás obligados, el reembolso de los intereses que hubiesen cubierto conforme al presente artículo.
+d).- Las que tengan como beneficiario a autoridades o entidades de las administraciones públicas, federal, locales o municipales; y
+
+e).- Las de carácter civil que tengan como beneficiario a personas físicas o morales que no se dediquen a actividades empresariales;
+
+VII.- Si en el juicio respectivo resulta procedente la reclamación, aun cuando no se hubiere demandado el pago de las indemnizaciones establecidas en este artículo, el juez o árbitro, además del importe que resulte de la obligación asumida en la póliza de fianza, deberá condenar al deudor a que también cubra esas prestaciones conforme a las fracciones precedentes;
+
+VIII.- El sistema de actualización e intereses a que se refieren las fracciones I, II y III del presente artículo será aplicable a todo tipo de fianzas, salvo tratándose de las fianzas que garanticen créditos fiscales, en cuyo caso se estará a lo dispuesto por el Código Fiscal de la Federación;
+
+IX.- Si la institución de fianzas, dentro de los plazos o términos legales, no efectúa el pago de las indemnizaciones a que estuviere obligada, la Comisión Nacional de Seguros y Fianzas le impondrá una multa de doscientos cincuenta a cinco mil días de salario; y
+
+X.- Cuando sea procedente, las instituciones de fianzas promoverán ante los fiados y demás obligados, el reembolso de las indemnizaciones que hubiesen cubierto conforme al presente artículo.
 
 > <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
 
@@ -2245,9 +2379,9 @@ IX.- Cuando por causas imputables a la institución no aparezca debida y oportun
 
 X.- Si la institución obra sin consentimiento de la Secretaría de Hacienda y Crédito Público o de la Comisión Nacional de Seguros y Fianzas, en los casos en que la ley exija ese consentimiento;
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADA, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
 
-XI.- Si no cubre dentro de los 60 días naturales siguientes a la resolución en su contra tanto la cantidad a favor del beneficiario, como los intereses y multas a que se refiere el artículo 95 bis de esta misma Ley, o bien si reiteradamente realiza actos que signifiquen una resistencia indebida para cumplir las obligaciones derivadas de sus fianzas;
+XI.- Si reiteradamente realiza actos que signifiquen una resistencia indebida para cumplir las obligaciones derivadas de sus fianzas;
 
 > <small>(REFORMADA, D.O.F. 14 DE JULIO DE 1993)</small>
 
@@ -2271,7 +2405,9 @@ La liquidación en la vía administrativa de las instituciones de fianzas, se re
 
 I.- La Secretaría de Hacienda y Crédito Público podrá designar uno o varios liquidadores. La misma Secretaría les fijará equitativamente sus honorarios que serán pagados por la sociedad en liquidación.
 
-II.- La Secretaría de Hacienda y Crédito Público señalará los plazos en los cuales los beneficiarios de fianzas deban procurar la substitución de sus garantías.
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
+
+II.- La Secretaría de Hacienda y Crédito Público señalará los plazos en los cuales los beneficiarios de fianzas deberán procurar la substitución de sus garantías o gestionar su traspaso a otra institución de fianzas.
 
 III.- Transcurridos dichos plazos todos los acreedores por cualquier concepto que sean, formularán, en un término de sesenta días, sus demandas de reconocimiento de créditos ante el liquidador, acompañando las pruebas conducentes. En el mismo término los beneficiarios de fianzas aún no exigibles, presentarán al liquidador sus pólizas de fianza para su registro.
 
@@ -2285,11 +2421,17 @@ VII.- El proyecto de graduación y la lista de acreedores se publicarán en el "
 
 VIII.- Dentro de los sesenta días siguientes a la última de las publicacione (sic) a que se refiere la fracción anterior, los interesados formularán ante la Secretaría de Hacienda y Crédito Público sus reclamaciones sobre alguno o algunos de los créditos incluídos, así como sobre la inclusión del crédito o créditos excluídos, acompañando u ofreciendo las pruebas correspondientes.
 
-La Secretaría de Hacienda y Crédito Público dará vista de las reclamaciones al liquidador quien ofrecerá y aportará pruebas y formulará los alegatos que procedan en un término no mayor de treinta días. La Secretaría de Hacienda y Crédito Público dictará sentencia de graduación dentro de un plazo no mayor de treinta días a contar de la fecha en que reciba las observaciones del liquidador.
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
 
-IX.- El liquidador, al tomar posesión de su cargo, formulará inventario y balance general. Al dictarse la sentencia de graduación, se formulará balance final de liquidación.
+La Secretaría de Hacienda y Crédito Público dará vista de las reclamaciones al liquidador quien ofrecerá y aportará pruebas y formulará los alegatos que procedan en un término no mayor de treinta días. La Secretaría de Hacienda y Crédito Público dictará resolución de graduación dentro de un plazo no mayor de treinta días a contar de la fecha en que reciba las observaciones del liquidador;
 
-X.- Antes de la sentencia de graduación, el liquidador sólo podrá realizar los pagos que sean necesarios para el sostenimiento de la sociedad en liquidación.
+> <small>(REFORMADA, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
+
+IX.- El liquidador, al tomar posesión de su cargo, formulará inventario y balance general. Al dictarse la resolución de graduación, se formulará el balance final de liquidación.
+
+> <small>(REFORMADA, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
+
+X.- Antes de la resolución de graduación, el liquidador sólo podrá realizar los pagos que sean necesarios para el sostenimiento de la sociedad en liquidación así como los que se requieran para la substitución o traspaso de garantías.
 
 XI.- Desde la fecha en que tome posesión de su cargo, procederá a la venta de cualquier clase de bienes de la sociedad, de acuerdo con las reglas y autorizaciones que en cada caso fije u otorgue la Secretaría de Hacienda y Crédito Público.
 
@@ -2333,13 +2475,17 @@ La Secretaría de Hacienda y Crédito Público podrá ejercer las atribuciones q
 
 ### CAPITULO VI. Infracciones y delitos
 
-> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 110.
 
-Las multas correspondientes a sanciones por las infracciones previstas en esta Ley y en las disposiciones que de ella emanen, serán impuestas administrativamente por la Comisión Nacional de Seguros y Fianzas tomando como base el salario mínimo general vigente en el Distrito Federal al momento de cometerse la infracción, a menos que en la propia Ley se disponga otra forma de sanción y se harán efectivas por la Secretaría de Hacienda y Crédito Público.
+Las multas correspondientes a sanciones por las infracciones previstas en esta Ley y en las disposiciones que de ella emanen, así como las medidas de apremio, serán impuestas administrativamente por la Comisión Nacional de Seguros y Fianzas, tomando como base el salario mínimo general vigente en el Distrito Federal al momento de cometerse la infracción o desacato, a menos que en la propia Ley se disponga otra forma de sanción o medida de apremio y se harán efectivas por las autoridades de la Secretaría de Hacienda y Crédito Público.
+
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 Al imponer la sanción que corresponda, la citada Comisión siempre deberá oír previamente al interesado y tomará en cuenta las condiciones e intención del infractor, la importancia de la infracción y la conveniencia de evitar prácticas tendientes a contravenir las disposiciones de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 La reincidencia se podrá castigar con multa hasta por el doble de la máxima prevista para la infracción de que se trate.
 
@@ -2433,13 +2579,17 @@ XVII.- Multa de 250 a 2,500 días de salario, a las instituciones de fianzas que
 
 XVIII.- Multa de 300 a 3,000 días de salario, a las instituciones de fianzas que realicen el registro de sus operaciones y resultados en cuentas que no correspondan conforme al catálogo de cuentas autorizado;
 
+> <small>(REFORMADA, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
+
+XIX.- Multa de doscientos a dos mil días de salario, a las instituciones de fianzas por la falta de presentación o presentación extemporánea de los informes y documentación a que se refiere el artículo 65 de esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
+
+XX.- Multa de mil a cinco mil días de salario, a las instituciones de fianzas por no solicitar, dentro del plazo establecido, la ratificación de los nombramientos a que se refiere el tercer párrafo de la fracción VIII Bis-1 del artículo 15 de esta Ley; y
+
 > <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 1993)</small>
 
-XIX.- Multa de 200 a 2,000 días de salario, a las instituciones de fianzas por la falta de presentación o presentación extemporánea de los informes y documentación a que se refiere el artículo 65 de esta Ley; y
-
-> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 1993)</small>
-
-XX.- Multa de 250 a 5,000 días de salario, si las disposiciones violadas de esta Ley, así como las que de ella emanen, no tienen sanción especialmente señalada en la misma. Si se tratare de una institución de fianzas o de un agente de fianzas persona moral, la multa se podrá imponer tanto a dicha institución o al agente persona moral, como a cada uno de los consejeros, comisarios, directores, administradores, funcionarios, apoderados, agentes o empleados que resulten autores o responsables de la infracción.
+XXI.- Multa de 250 a 5,000 días de salario, si las disposiciones violadas de esta Ley, así como las que de ella emanen, no tienen sanción especialmente señalada en la misma. Si se tratare de una institución de fianzas o de un agente de fianzas persona moral, la multa se podrá imponer tanto a dicha institución o al agente persona moral, como a cada uno de los consejeros, comisarios, directores, administradores, funcionarios, apoderados, agentes o empleados que resulten autores o responsables de la infracción.
 
 ###### ARTICULO 111 Bis.
 
@@ -3472,3 +3622,19 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO QUE SE RELACIONAN CON LA 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ...
+
+D.O.F. 10 DE NOVIEMBRE DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de las reformas a los artículos 15, fracción VIII Bis-1, tercer y cuarto párrafos y 111, fracción XX, que entrarán en vigor a los sesenta días naturales contados a partir de dicha publicación, y a los artículos 2o. Bis, 2o. Bis-1, 2o. Bis-2, 2o. Bis-3, 2o. Bis-4 y 2o. Bis-5, los cuales entrarán en vigor a partir del primero de enero del año 2000.
+
+SEGUNDO.- Dentro de los ciento ochenta días naturales siguientes a la fecha de la entrada en vigor de este Decreto, las instituciones de fianzas que cuenten con autorización para otorgar fianzas a título oneroso o para operar exclusivamente el reafianzamiento, deberán solicitar a la Secretaría de Hacienda y Crédito Público, la adecuación a su autorización para señalar el ramo o ramos y subramos que habrán de continuar operando, previa la modificación de su objeto social.
+
+TERCERO.- Dentro de los ciento ochenta días siguientes a la fecha de la entrada en vigor de este Decreto, las instituciones de fianzas deberán someter a la consideración de la Secretaría de Hacienda y Crédito Público, la adecuación de sus estatutos en los términos del artículo 15, fracción VIII Bis-1, que se modifica.
+
+CUARTO.- La primera determinación de los capitales mínimos pagados a que se refiere la fracción II del artículo 15 de la Ley que se reforma, se llevará a cabo por la Secretaría de Hacienda y Crédito Público, en los términos de la citada disposición, el primer trimestre del año 2000, a fin de que dichos capitales queden totalmente suscritos y pagados a más tardar el 30 de junio del referido año 2000. Las subsecuentes determinaciones las efectuará la Secretaría de Hacienda y Crédito Público conforme a lo previsto en la fracción II del artículo 15 citado.
+
+QUINTO.- Los procedimientos que la Comisión Nacional de Seguros y Fianzas lleve a cabo en los términos del artículo 93 Bis de la Ley Federal de Instituciones de Fianzas, y que hasta la fecha de entrada en vigor de la Ley de Protección y Defensa al Usuario de Servicios Financieros estén en curso, serán concluidos de manera definitiva por la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, de conformidad con las disposiciones que se encontraran vigentes al momento de iniciarse el procedimiento respectivo.
+
+SEXTO.- La reforma al artículo 95 Bis se aplicará a los casos de mora que inicie a partir de la entrada en vigor del presente Decreto.
+
+SÉPTIMO.- Las reglas, reglamentos y demás disposiciones administrativas emanadas de la Ley Federal de Instituciones de Fianzas y que se encuentren vigentes a la fecha en que entre en vigor este Decreto, seguirán siendo aplicables en tanto no se opongan al mismo.
