@@ -4,7 +4,7 @@ identifier: "LIFNVT"
 country: "mx"
 rank: "ley"
 publication_date: "1972-04-24"
-last_updated: "1974-12-23"
+last_updated: "1981-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIFNVT"
 
 LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE NOVIEMBRE DE 1981.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 24 de abril de 1972.
 
@@ -394,6 +394,18 @@ V.- A la inversión en inmuebles estrictamente necesarios para su (sic) fines, y
 
 VI.- A las demás erogaciones relacionadas con su objeto.
 
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 1981)</small>
+
+Los contratos y las operaciones relacionados con los inmuebles a que se refiere este Artículo, así como el desarrollo y ejecución de los conjuntos de habitaciones que se lleven a cabo con financiamiento del Instituto, estarán exentos del pago de toda clase de impuestos, derechos o contribuciones de la Federación, de los Estados o del Distrito Federal, y, en su caso, el precio de venta a que se refiere el artículo 48 se tendrá como valor de avalúo de las habitaciones, el impuesto predial y los derechos por consumo de agua, así como las donaciones y equipamiento urbano se causarán y cumplirán en los términos de las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 1981)</small>
+
+Los contratos y las operaciones a que se refiere el párrafo anterior, así como la constitución del régimen de propiedad en condominio de los conjuntos que financie el Instituto podrán hacerse constar en documentos privados, ante dos testigos, e inscribirse en el Registro Público de la Propiedad que corresponda, con la constancia del registrador sobre la autenticidad de las firmas y de la voluntad de las partes.
+
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 1981)</small>
+
+Los beneficios otorgados por el presente Artículo a los programas habitacionales que se realizan con fondos del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, se harán extensivos a los trabajadores derechohabientes de ese Instituto, que realicen operaciones de compra de casa habitación por medios distintos a los del Instituto, siempre y cuando sean para su uso y el monto de la operación así realizada no sea superior al valor de las casas habitación que el mismo proporciona a sus afiliados. Por el excedente se pagarán los impuestos en los términos previstos por las leyes respectivas.
+
 ###### ARTICULO 43.
 
 El Instituto deberá mantener en efectivo o en depósitos bancarios a la vista las cantidades estrictamente necesarias para la realización de sus operaciones diarias. Los recursos del Fondo Nacional, en tanto se aplican a los fines señalados en el artículo anterior, deberán mantenerse en el Banco de México, S.A., invertidos en valores gubernamentales de inmediata realización.
@@ -546,6 +558,12 @@ En virtud de lo anterior, no son aplicables al Instituto del Fondo Nacional para
 
 Los depósitos constituidos en favor de los trabajadores en los términos del Artículo 123 Apartado A Fracción XII de la Constitución Política de los Estados Unidos Mexicanos y del Título Cuarto, Capítulo III de la Ley Federal del Trabajo, no podrán ser objeto de cesión o embargo, excepto cuando se trate de los créditos otorgados por el Instituto a los trabajadores.
 
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 1981)</small>
+
+###### ARTICULO 68.
+
+El Instituto se considerará de acreditada solvencia y no estará obligado a constituir depósitos o fianzas legales.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -579,3 +597,7 @@ D.O.F. 23 DE DICIEMBRE DE 1974.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 13 DE NOVIEMBRE DE 1981.
+
+UNICO.- Este decreto entrará en vigor a partir del día siguiente al de su publicación en el "Diario Oficial" de la Federación.
