@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-90-2001-del-pleno-del-consejo-de-la-62767"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-12-13"
-last_updated: "2001-12-13"
+last_updated: "2002-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62767&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-12-07"
 
 ACUERDO GENERAL 90/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACION, RESIDENCIA, COMPETENCIA, FECHA DE INICIO DE FUNCIONAMIENTO Y JURISDICCION TERRITORIAL DEL QUINTO TRIBUNAL COLEGIADO DEL DECIMOSEPTIMO CIRCUITO, CON RESIDENCIA EN CHIHUAHUA, CHIHUAHUA; ASI COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DEL MENCIONADO CIRCUITO, CON SEDE EN LA INDICADA CIUDAD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE FEBRERO DE 2002.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 13 de diciembre de 2001.
 
@@ -55,6 +55,8 @@ TERCERO.- Los cuatro Tribunales Colegiados que están en funciones en el Decimos
 
 CUARTO.- Desde la fecha indicada en el punto segundo precedente, la Oficina de Correspondencia Común de los Tribunales Colegiados del Decimoséptimo Circuito, con residencia en Chihuahua, Chihuahua, lo será también del nuevo órgano jurisdiccional.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/9/2002, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 28 DE FEBRERO DE 2002, SE PRORROGA EL PLAZO DE EXCLUSION DEL TURNO DE NUEVOS ASUNTOS PARA EL SEGUNDO Y TERCER TRIBUNALES COLEGIADOS DEL DECIMOSEPTIMO CIRCUITO, POR UN LAPSO DE TREINTA DIAS, DEL 1 AL 30 DE MARZO DE 2002; ASIMISMO SE EXCLUYE TEMPORALMENTE DEL TURNO DE NUEVOS ASUNTOS AL PRIMER TRIBUNAL COLEGIADO DEL CIRCUITO Y SEDE SEÑALADOS, POR UN TERMINO DE QUINCE DIAS, DEL 1 AL 15 DE MARZO DE 2002.</small>
+
 QUINTO.- A partir del catorce de diciembre de dos mil uno, los nuevos asuntos que se presenten en la Oficina de Correspondencia Común de los Tribunales Colegiados del Decimoséptimo Circuito, con residencia en Chihuahua, Chihuahua, se distribuirán conforme al sistema computarizado que se utiliza para esos efectos, entre los Tribunales Colegiados Primero y Quinto del propio Circuito, con excepción de aquellos asuntos que tengan relación con los que se encuentran en trámite en los Tribunales Colegiados actualmente en funciones en el Circuito y residencia mencionados, en cuyo caso se turnarán a los respectivos órganos jurisdiccionales, con el propósito de evitar el pronunciamiento de resoluciones contradictorias; y las demás excepciones que procedan conforme a lo dispuesto en el Acuerdo General 50/2001 del Pleno del Consejo de la Judicatura Federal.
 
 Los Tribunales Colegiados Segundo y Tercero del Decimoséptimo Circuito, con residencia en Chihuahua, Chihuahua, quedarán excluidos del turno de nuevos asuntos durante el periodo que comprende del catorce de diciembre de dos mil uno al veintiocho de febrero del dos mil dos.
@@ -78,3 +80,11 @@ PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 90/2001, del Pleno del Consejo de la Judicatura Federal, Relativo a la Denominación, Residencia, Competencia, Fecha de Inicio de Funcionamiento y Jurisdicción Territorial del Quinto Tribunal Colegiado del Decimoséptimo Circuito, con Residencia en Chihuahua, Chihuahua; así como a las Reglas de Turno, Sistema de Recepción y Distribución de Asuntos entre los Tribunales Colegiados del Mencionado Circuito, con Sede en la Indicada Ciudad, fue aprobado en sesión extraordinaria de siete de diciembre de dos mil uno, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a siete de diciembre de dos mil uno.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 28 DE FEBRERO DE 2002.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
