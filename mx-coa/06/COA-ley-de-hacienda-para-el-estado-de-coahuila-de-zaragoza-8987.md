@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-8987"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-22"
-last_updated: "2001-12-28"
+last_updated: "2002-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COA"
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2001.
-
-> <small>N. DE E. LAS CUOTAS Y TARIFAS DE LA PRESENTE LEY, ACTUALIZADAS EN TERMINOS DE LO DISPUESTO POR EL ARTICULO 3 DE LA MISMA Y PUBLICADAS EN EL P.O. DEL 28 DE DICIEMBRE DE 2001, ESTARAN VIGENTES DEL 1o. DE ENERO HASTA EL 31 DE DICIEMBRE DE 2002.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 22 de diciembre de 1995.
 
@@ -755,11 +753,11 @@ II.- La inscripción o registro de documentos públicos o privados, de resolucio
 
 Cuando una parte del valor sea determinada y la otra indeterminada se pagará por cada parte lo que corresponde, con arreglo a lo dispuesto en esta fracción.
 
-III.- La inscripción de la escritura constitutiva y de los aumentos del capital social de sociedades civiles, sobre el importe del capital social o de los aumentos del mismo, en los términos de la fracción II, de este artículo;
+III.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2002)
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-IV.- La inscripción de las asociaciones de carácter civil y cualquier modificación a la escritura constitutiva de sociedades civiles, exceptuándose el aumento de capital social, se pagarán 273.00 por hoja;
+IV.- La inscripción de la escritura constitutiva de sociedades civiles y asociaciones de carácter civil, así como cualquier modificación a la escritura constitutiva, $39.00 (TREINTA NUEVE PESOS 00/100 M.N.) por hoja;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2001)</small>
 
@@ -795,7 +793,9 @@ XI.- El depósito de cualquier otro documento, $101.00 (CIENTO UN PESOS 00/100 M
 
 XII.- La expedición de certificados de no antecedentes registrales de inmuebles, independientemente de la búsqueda, $529.00 (QUINIENTOS VEINTINUEVE PESOS 00/100 M.N.);
 
-XIII.- La constancia que extienda el Registro al calce de los documentos privados que se le presenten, expresando que se ha cerciorado de la autenticidad de las firmas y de la voluntad de las partes, el 5% de la cuantía de la operación;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+XIII.- La constancia que extienda el Registro al calce de los documentos privados que se le presenten, expresando que se ha cerciorado de la autenticidad de las firmas y de la voluntad de las partes, $39.00 (TREINTA Y NUEVE PESOS 00/100 M.N.) por hoja;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2001)</small>
 
@@ -811,9 +811,9 @@ XV.- La expedición de certificados o certificaciones relativos a las constancia
 
 3.- Otros certificados y certificaciones, $114.00 (CIENTO CATORCE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-XVI.- La cancelación de inscripciones en el Registro causará el 25% de las cuotas que establece la fracción II, de este artículo, sin que pueda ser inferior a $38.00 (TREINTA Y OCHO PESOS 00/100 M.N.);
+XVI.- La cancelación de inscripciones en el registro causará el 10% de los derechos que se causaron por su inscripción, sin que pueda ser inferior a $39.00 (TREINTA Y NUEVE PESOS 00/100 M.N.);
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2001)</small>
 
@@ -829,7 +829,7 @@ XVIII.- Por otros no especificados, $157.00 (CIENTO CINCUENTA Y SIETE PESOS 00/1
 
 El pago de estos derechos deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, conforme a las tasas y tarifas que establece esta ley, previamente a la prestación del servicio.
 
-La Oficina del Registro Público de la Propiedad devolverá al depositante los documentos que trate de inscribir, si dentro de los diez días siguientes a su presentación no hubiere cubierto los derechos correspondientes.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 44], P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -851,7 +851,11 @@ VI.- En las operaciones de bienes inmuebles sujetas a condiciones suspensivas, r
 
 VII.- Para aplicación de las tarifas establecidas en la fracción II del artículo 79 la nuda propiedad se valuará, en su caso, con el 75% del valor del inmueble y el usufructo en el 25% del mismo; y
 
-VIII.- Cuando se trate de contratos, demandas o resoluciones que se refieren a prestaciones periódicas, se tendrá como valor la suma total de éstas si se puede determinar exactamente su cuantía, en caso contrario, se tomará como base la cantidad que resulte, haciendo el cómputo por un año.
+VIII.- Cuando se trate de contratos, demandas o resoluciones que se refieren a prestaciones periódicas, se tendrá como valor la suma total de éstas si se puede determinar exactamente su cuantía, en caso contrario, se tomará como base la cantidad que resulte, haciendo el cómputo por un año;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+IX.- En ningún caso los derechos por los servicios prestados por el Registro Público, relativos a la propiedad, podrán ser superiores a tres días de salario mínimo general vigente en el Estado, elevado al año.
 
 SEGUNDA PARTE
 
@@ -911,9 +915,9 @@ Si en una misma escritura se consignaren diversos contratos, se pagará por cada
 
 VIII.- Las inscripciones complementarias derivadas de contratos mercantiles en que medie condición suspensiva, resolutoria, reserva de dominio o cualquier otra modalidad, $38.00 (TREINTA Y OCHO PESOS 00/100 M.N.) por hoja;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-IX.- La cancelación de inscripciones relativas al comercio causará el 25% de los derechos que se causaron por su inscripción, sin que pueda ser inferior a $38.00 (TREINTA Y OCHO PESOS 00/100 M.N.).
+IX.- La cancelación de inscripciones relativas al comercio causará el 10% de los derechos que se causaron por su inscripción, sin que pueda ser inferior a $39.00 (TREINTA Y NUEVE PESOS 00/100 M.N.).
 
 En caso de que no se conozca el importe de los derechos pagados para su inscripción, se causará el 25% de los que corresponderían por su inscripción.
 
@@ -935,7 +939,11 @@ II.- Cuando un mismo título origine dos o más inscripciones, los derechos se c
 
 III.- En los casos en que un título tenga que inscribirse en varias secciones, la cotización se hará separadamente por cada una de ellas; y
 
-IV.- Cuando deban hacerse inscripciones de distintas operaciones que deriven de la constitución o disolución de alguna sociedad mercantil, se causarán los derechos por la inscripción en la Sección de Comercio, independientemente de los que causen las otras inscripciones.
+IV.- Cuando deban hacerse inscripciones de distintas operaciones que deriven de la constitución o disolución de alguna sociedad mercantil, se causarán los derechos por la inscripción en la Sección de Comercio, independientemente de los que causen las otras inscripciones;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+V.- En ningún caso los derechos por los servicios prestados por el Registro Público, relativos al comercio, podrán ser superiores a tres días de salario mínimo general vigente en el Estado, elevado al año.
 
 #### SECCION SEGUNDA. POR SERVICIOS DEL REGISTRO CIVIL
 
@@ -1219,7 +1227,9 @@ II.- Copia de la cédula del Registro Federal de Contribuyentes.
 
 III.- Copia certificada del testimonio de la escritura pública constitutiva si se trata de una sociedad mercantil o acta de nacimiento tratándose de personas físicas.
 
-IV.- Licencia municipal.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+IV.- Licencia municipal vigente, expedida a favor del solicitante.
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -1243,7 +1253,9 @@ I.- Que no se solicite su revalidación anual dentro del mes de enero de cada a�
 
 II.- Que el establecimiento funcione en lugar distinto al autorizado en la licencia;
 
-III.- Cuando el titular de la licencia omita registrar ante la Secretaría de Finanzas, el nombre de la persona que en su lugar explota los derechos que le otorga la licencia de funcionamiento; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+III.- Cuando habiendo presentado suspensión de actividades, esta dura más de tres años;
 
 IV.- Cuando se dé alguna de las otras causales de cancelación de la licencia establecidas en el artículo 102 de esta Ley.
 
@@ -1399,11 +1411,11 @@ PAGO
 
 (DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
 
-> <small>(REFORMADO Y REUBICADO, P.O. 29 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 106.
 
-Cuando el establecimiento cuente con licencia y habiendo presentado aviso de suspensión de actividades, las reinicie en el 1o., 2o., 3o. o 4o., trimestre, pagará por ese año el 100%, 75%, 50% o 25%, respectivamente de las tarifas establecidas en el artículo 105-B, 105-F y 105-J, sin perjuicio de las reducciones a que se tenga derecho conforme a los artículos 109 y 110 de esta Ley.
+Cuando el establecimiento cuente con licencia y habiendo presentado aviso de suspensión de actividades, las reinicie en el 1o., 2o., 3o. o 4o. trimestre pagará por ese año el 100%, 75%, 50% o 25%, respectivamente, de la tarifa establecida en el artículo 105, sin perjuicio de las reducciones a que se tenga derecho conforme a los artículos 109 y 110 de esta Ley.
 
 (REUBICADO, P.O. 29 DE DICIEMBRE DE 1998)
 
@@ -1417,11 +1429,11 @@ La autorización de cambio de titular de una licencia causará derechos a razón
 
 La autorización de cambio de domicilio de una licencia causará derechos a razón del 25% de la tarifa establecida en el artículo 104, según el establecimiento de que se trate.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 29 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 109.
 
-Las tarifas establecidas en los artículos 104, 105-B, 105-F y 105-J, 107 y 108, se reducirán en un 25%, cuando el establecimiento para el que se expida la autorización y licencia anual se encuentre en alguno de los siguientes municipios: Allende, Francisco I. Madero, Matamoros, Múzquiz, Nava, Parras, San Buenaventura, San Juan de Sabinas y San Pedro.
+Las tarifas establecidas en los artículos 104, 105, 107 y 108, se reducirán en un 25% cuando el establecimiento para el que se expida la autorización y licencia anual se encuentre en alguno de los siguientes municipios: Allende, Francisco I. Madero, Matamoros, Múzquiz, Nava, Parras, San Buenaventura, San Juan de Sabinas y San Pedro.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 29 DE DICIEMBRE DE 1998)</small>
 
@@ -1662,6 +1674,10 @@ VII.- Expedición de licencias para conducir vehículos:
 5.- Chofer para transporte de materiales peligrosos, $309.00 (TRESCIENTOS NUEVE PESOS 00/100 M.N.); y
 
 6.- Costo de la fotografía digitalizada en la licencia, $40.00.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+7.- Examen teórico y practico para quienes adquieren por primera vez licencia para conducir, $31.00 (TREINTA Y UN PESOS 00/100 M.N.).
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2001)</small>
 
@@ -2850,3 +2866,13 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 28 DE DICIEMBRE DE 2001.
 
 EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+P.O. 31 DE DICIEMBRE DE 2002.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero de 2003.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
