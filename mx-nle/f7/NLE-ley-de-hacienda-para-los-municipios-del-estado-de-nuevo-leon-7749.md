@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1993-12-31"
+last_updated: "1994-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -649,7 +649,7 @@ d) La adjudicación de bienes inmuebles en pago; la aportación de bienes inmueb
 
 e) El acto constitutivo del fideicomiso traslativo de dominio de bienes inmuebles. Se entenderá que existe enajenación de bienes inmuebles por fideicomiso, en los términos de la fracción IV del artículo 15 del Código Fiscal de la Federación.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
+((ADICIONADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 22 Bis.
 
@@ -1651,25 +1651,13 @@ Por regularización de predios de hasta 200 metros cuadrados se (sic) superficie
 
 II.- Por inicio de trámite de licencia de uso de suelo o de edificación N$500.00.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 1994)</small>
 
-III.- Por licencia de uso de suelo o de edificaciones, N$500.00, más una cuota por metro cuadrado de construcción, excluyendo los estacionamientos, conforme a la siguiente tarifa:
+III.- Por la licencia de uso de suelo o de edificaciones, N$500.00, más una cuota de N$9.50 por metro cuadrado de construcción, excluyendo los estacionamientos.
 
-a) Comercial N$19.50
+La cuota prevista en el párrafo anterior será de N$6.50 para las edificaciones habitacionales multifamiliares. Las casas-habitación estarán exentas del pago de este derecho.
 
-b) Oficinas y servicios N$19.50
-
-c) Bodegas N$9.50
-
-d) Industrial N$9.50
-
-e) Hospitales y escuelas privados N$6.50
-
-f) Edificaciones habitacionales multifamiliares N$6.50
-
-g) Otros, excepto casa-habitación N$6.50
-
-Tratándose de locales comerciales, que no excedan de 100 metros cuadrados de superficie de construcción, no se encuentren en centros comerciales y que el valor catastral del mismo sea hasta de N$120,000.00, siempre que el propietario sea persona física y no tenga otra propiedad raíz en el Estado o, teniendo una sola su valor catastral no exceda de N$150,000.00, se pagará el 50% de la tarifa por el inicio del trámite y de la cuota fija por la licencia de uso de suelo y edificación, más una cuota de N$6.50 por metro cuadrado de construcción, excluyendo estacionamientos. Si la superficie del local comercial no excede de 50 metros cuadrados, se cubrirá el 25% de los derechos establecidos en las fracciones II y III.
+Tratándose de construcciones que no excedan de 100 metros cuadrados de superficie de construcción, cuyo valor catastral sea hasta de N$120,000.00, siempre que el propietario sea persona física y no tenga otra propiedad raíz en el Estado o, teniendo una sola, su valor catastral no exceda de N$150,000.00, se pagará el 50% de la tarifa por el inicio del trámite y de la cuota fija por la licencia de uso de suelo y edificación, más una cuota de N$6.50 por metro cuadrado de construcción, excluyendo estacionamientos. Si la superficie de construcción no excede de 50 metros cuadrados, se cubrirá el 25% de los derechos establecidos en las fracciones II y III.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -1731,7 +1719,9 @@ VII.- Por expedición de copias certificadas de planos N$60.00
 
 VIII.- Por la expedición de diversas constancias y certificaciones N$40.00
 
-Tratándose del derecho a que se refiere la fracción II y el inciso a) de la fracción III, se cubrirá tan solo un 50%, cuando el contribuyente sea persona jubilada pensionada, discapacitada o viuda y que el destino sea comercial siempre y cuando comprueben ante la autoridad correspondiente su condición y que sus ingresos mensuales no excedan de importe equivalente a tres salarios mínimos diarios elevados al mes.
+(REFORMADO, P.O. 29 DE JULIO DE 1994
+
+Cuando el contribuyente sea persona jubilada, pensionada, discapacitada o viuda, con ingresos mensuales no superiores a tres veces el importe equivalente al salario mínimo general elevado al mes, los derechos previstos en las fracciones II y III, serán cubiertos al 50%.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
@@ -1827,9 +1817,13 @@ Por expedición de certificados, autorizaciones, constancias o registros:
 
 I.- Por expedición de certificados, autorizaciones y constancias, N$18.00 por cada uno.
 
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 29 DE JULIO DE 1994.</small>
+
 II.- Por registro de regularización que a juicio de los Municipios deban llevarse a cabo, de negocios señalados en los artículos 58 y 59 de esta Ley, se cobrará una cantidad cincuenta por ciento mayor que la máxima correspondiente señalada en dichos artículos.
 
 ### CAPITULO V. POR INSCRIPCIONES Y REFRENDO
+
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, P.O. 29 DE JULIO DE 1994.</small>
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -1946,6 +1940,8 @@ XVII.- Radiolas, sinfonolas, tocadiscos, juegos electrónicos y futbolitos, N$55
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XVIII.- Establecimientos en donde existan mesas de billar, N$75.00 por unidad.
+
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, P.O. 29 DE JULIO DE 1994.</small>
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -2111,9 +2107,13 @@ I.- Por servicios de examen médico, de pericia, de verificación de datos propo
 
 Esta autorización sólo se expedirá cuando se obtenga la licencia por primera vez y cuando el conductor sobrepase la edad prevista en el Reglamento de Tránsito.
 
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 29 DE JULIO DE 1994.</small>
+
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 II.- Por inspecciones que previenen los Reglamentos a nivel municipal, de N$20.00 a N$70.00, excepto por la inspección de polvorines, gasolineras, plantas y expendios de gas, en que la cuota será de N$330.00 a N$700.00.
+
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 29 DE JULIO DE 1994.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2141,9 +2141,13 @@ En los servicios que por razones de orden público se vea obligado a prestar el 
 
 Cualquier otro servicio no incluido en esta Ley, que se encuentre establecido en otro ordenamiento legal, generará una cuota de N$18.00.
 
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE PARRAFO, P.O. 29 DE JULIO DE 1994.</small>
+
 Cuando el particular solicite algún servicio que no esté contemplado en esta ley o en algún otro ordenamiento legal, las partes fijarán su monto de común acuerdo.
 
 ### CAPITULO VIII. POR EXPEDICION DE LICENCIAS
+
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, P.O. 29 DE JULIO DE 1994.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1975)</small>
 
@@ -2209,41 +2213,29 @@ Una vez transcurridos los meses a que se refiere el primer párrafo de este art�
 
 ### CAPITULO X. POR LIMPIA Y RECOLECCION DE DESECHOS INDUSTRIALES Y COMERCIALES
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 65 Bis.
 
-Por el servicio de limpia y recolección de desechos industriales y comerciales que preste el Municipio a las personas físicas y morales que realizan actividades comerciales, industriales o de servicios, en los términos previstos por el artículo 17 del Código Fiscal del Estado, se cobrará por cada establecimiento ubicado en el Municipio, por mes:
+Por el servicio de limpia y recolección de desechos industriales y comerciales que preste el Municipio, se cobrará por cada inmueble ubicado en el Municipio, por mes:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+a) Inmuebles que en promedio generen hasta 50 kilogramos diarios de basura. N$90.00.
 
-a) Establecimientos que en promedio generen hasta 50 kilogramos diarios de basura N$90.00
+b) Inmuebles que en promedio generen más de 50 kilogramos y hasta 100 kilogramos diarios de basura N$200.00.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+c) Inmuebles que en promedio generen más de 100 kilogramos y hasta 200 kilogramos diarios de basura N$400.00
 
-b) Establecimientos que en promedio generen más, de 50 kilogramos y hasta 100 kilogramos diarios de basura N$200.00
+d) Inmuebles que en promedio generen más de 200 kilogramos de basura o el equivalente a tres metros cúbicos diarios, el cobro será fijado de común acuerdo entre el Municipio y el particular, en función al costo que represente la prestación del servicio.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+Si el servicio se presta solamente hasta tres veces por semana, se pagará el 50% de la cuota.
 
-c) Establecimientos que en promedio generen más de 100 kilogramos y hasta 200 kilogramos diarios de basura N$400.00
-
-d) Establecimientos que en promedio generen más de 200 kilogramos de basura o el equivalente a tres metros cúbicos diarios, el cobro será fijado de común acuerdo entre el Municipio y el particular, en función al costo que represente la prestación del servicio.
-
-Si el servicio se presta solamente hasta tres veces por semana pagará el 50% de la cuota.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
-
-No se estará obligado al pago de esta contribución cuando el particular haya contratado este servicio con algún organismo público descentralizado o con un particular autorizado por el Municipio para la prestación de este servicio. Igualmente no se cobrará este derecho respecto de los contribuyentes personas físicas que lleven a cabo su actividad en el domicilio en donde se encuentre su casa-habitación, excepto cuando declaren, para efectos de cualquier contribución federal, estatal o municipal, ingresos superiores a N$5,000.00 mensuales.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
-
-Para este efecto se sumarán los ingresos declarados en los últimos doce meses, sin deducción alguna, y el resultado se dividirá entre doce.
+Estarán exentos del pago de esta contribución en los casos de casas-habitación, de inmuebles que no cuenten con edificaciones permanentes, así como cuando el particular haya contratado este servicio con algún organismo público descentralizado o con un particular autorizado por el Municipio para la prestación de este servicio.
 
 Las personas físicas o morales obligadas al pago de esta contribución, al inscribirse en la Tesorería Municipal, declararán el volumen promedio diario de basura que generen, pudiendo en su caso solicitar la modificación de la cuota que cubran, debido a un aumento o disminución en el promedio diario de basura que generen. En este caso, la Tesorería Municipal automáticamente modificará la cuota a cargo del particular, sin necesidad de verificar previamente la veracidad de las manifestaciones efectuadas por el contribuyente, con efectos a partir del mes siguiente a aquél en que esto ocurra.
 
-El Municipio en ejercicio de sus facultades de comprobación, podrá verificar lo declarado por el particular y, si procediera, rectificará la cantidad cubierta por el contribuyente, pudiendo determinar las diferencias no pagadas, incluyendo sus respectivos accesorios.
+El Municipio, en ejercicio de sus facultades de comprobación, podrá verificar lo declarado por el particular y, si procediera, rectificará la cantidad cubierta por el contribuyente, pudiendo determinar las diferencias no pagadas, incluyendo sus respectivos accesorios.
 
-Este derecho se pagará por mes dentro de los primeros 15 días naturales del mismo.
+Este derecho se pagará por mes, dentro de los primeros 15 días naturales del mismo.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -2343,6 +2335,8 @@ Las participaciones a los Municipios en los impuestos y en las participaciones d
 
 ### CAPITULO UNICO
 
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA APLICACION DEL PRESENTE ARTICULO, P.O. 29 DE JULIO DE 1994.</small>
+
 ###### ARTICULO 69.
 
 Es facultad de los Tesoreros Municipales, fijar las cuotas aplicables a impuestos y derechos, de acuerdo con los márgenes establecidos por la propia Ley, tomando en consideración el capital invertido en los negocios, el sector en que están ubicados, el volumen de las operaciones, el monto de los ingresos, los gastos propios del giro y otros elementos que permitan graduar la cuantía del impuesto o derecho correspondiente, de acuerdo con los datos que proporcionen los causantes, o los que en su caso se obtengan a través de las Inspecciones que mande practicar la misma Tesorería en los términos de esta Ley.
@@ -2403,7 +2397,7 @@ Las cédulas de empadronamiento no serán transferibles, ni aún en los casos de
 
 ###### ARTICULO 79.
 
-En los casos de cambio de objeto, nombre, razón social, denominación, aumento o disminución de capital, traspaso o cambio de domicilio, aumento o disminución de giro o ramo, la Tesorería Municipal expedirá nueva cédula de empadronamiento a costa del causante con las respectivas características del negocio, dentro del mes siguiente al de la presentación del aviso a que se refiere el Artículo 75 de esta Ley. Para tramitar cualquiera de estos cambios, el causante deberá encontrarse al corriente en sus pagos ante la Tesorería por impuestos, derechos y cualquiera otra obligación que la presente Ley señale.
+(DEROGADO, P.O. 29 DE JULIO DE 1994)
 
 ###### ARTICULO 80.
 
@@ -2472,6 +2466,8 @@ Una vez iniciado el Procedimiento Administrativo de Ejecución, se cobrarán al 
 No causan impuestos los bienes del dominio público de los Municipios, del Estado o de la Federación.
 
 El C. Presidente Municipal hará las declaraciones generales o especiales que correspondan y podrán asimismo eximir de impuestos en cualquier otro caso, en que el producto de una actividad se destine a fines de interés público debidamente comprobados.
+
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA APLICACION DEL PRESENTE ARTICULO, P.O. 29 DE JULIO DE 1994.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2758,3 +2754,17 @@ PRIMERO.- El presente Decreto entrará en vigor el día 1o. de Enero de 1994, co
 SEGUNDO.- Las asociaciones religiosas constituídas en los términos de la Ley de Asociaciones Religiosas y Culto Público, no pagarán el Impuesto sobre Adquisición de Inmuebles, por las adquisiciones que realicen hasta el 31 de diciembre de 1994.
 
 TERCERO.- Durante 1994 el Impuesto Sobre Adquisición de Inmuebles que resulte a cargo del contribuyente, en ningún caso será mayor a aquél que se hubiere determinado en los términos de la Ley vigente al 31 de diciembre de 1990.
+
+P.O. 29 DE JULIO DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto empezará a surtir sus efectos a partir del día 1º de Agosto del 1994.
+
+###### ARTICULO SEGUNDO.
+
+Si se da por terminada la Adhesión del Estado de Nuevo León, al Sistema Nacional de Coordinación Fiscal, entrarán en vigor nuevamente desde el día siguiente al que surta sus efectos la terminación del dicha Adhesión, los derechos y los artículos suspendidos conforme el presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Durante 1994 el Estado garantizará a los Municipios el pago de las diferencias que resulten entre el importe de la recaudación de los derechos suspendidos con motivo de este Decreto, ocurrida en 1993, respecto de la recaudación de los citados derechos, ocurrida en 1994, adicionada con el incremento en las participaciones en que 1994 obtenga cada uno de ellos, siempre que la suma de la recaudación de estos derechos ocurrida en 1994 y el incremento en las participaciones, sea menor al monto de la recaudación en 1993 de los derechos suspendidos. Para estos efectos, a la recaudación de 1993 se le aplicará el factor de 1.05.
