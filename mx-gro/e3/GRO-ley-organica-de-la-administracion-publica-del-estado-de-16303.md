@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-de-la-administracion-publica-del-estado-de-16303"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-10-12"
-last_updated: "2000-12-14"
+last_updated: "2002-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE GUERRERO NUMERO 433
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 12 de octubre de 1999.
 
@@ -273,7 +273,7 @@ VII.- Organizar, controlar y proporcionar el servicio de defensoría de oficio;
 
 VIII.- Tramitar los nombramientos que, para el ejercicio de las funciones notariales, expida el Ejecutivo Estatal y llevar el libro de registro respectivo; autorizar los libros del protocolo, controlar el archivo de notarías; y, en general, ordenar inspecciones periódicas para vigilar el puntual ejercicio de la función notarial;
 
-IX.- Coordinar las acciones del Consejo Estatal de Seguridad Pública, así como la elaboración de planes y programas en la materia;
+IX.- (DEROGADA, P.O. 11 DE JUNIO DE 2002)
 
 X.- Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Civil y del Registro Público de la Propiedad, del Comercio y Crédito Agrícola, incluyendo la implementación y operación de sistemas informáticos;
 
@@ -589,7 +589,13 @@ XXIII.- Llevar las estadísticas de seguridad pública, tránsito, readaptación
 
 XXIV.- Promover el establecimiento de mecanismos para que la sociedad participe en la planeación y supervisión de la seguridad pública;
 
-XXV.- Establecer y operar un sistema de seguimiento de los programas federales conforme a lo que las leyes y acuerdos de coordinación establezcan y en congruencia con el Comité de Planeación para el Desarrollo del Estado; y
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2002)</small>
+
+XXV.- Establecer y operar un sistema de seguimiento de los programas federales conforme a lo que las leyes y acuerdos de coordinación establezcan y en congruencia con el Comité de Planeación para el Desarrollo del Estado;
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2002)</small>
+
+XXV bis.- Coordinar las acciones del Consejo Estatal de Seguridad Pública, así como la elaboración de planes y programas en la materia; y
 
 XXVI.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
 
@@ -1322,3 +1328,7 @@ Los asuntos que con motivo de este decreto deban pasar de una dependencia a otra
 ###### ARTICULO CUARTO.
 
 Cuando en este Decreto se dé denominación nueva o distinta a alguna dependencia cuyas funciones estén establecidas por disposición legal anterior u otras leyes especiales, dichas atribuciones se entenderán concedidas a la dependencia que determine este Decreto.
+
+P.O. 11 DE JUNIO DE 2002.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
