@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-pensiones-para-los-trabajadores-al-servicio-del-6990"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-16"
-last_updated: "1978-12-16"
+last_updated: "1983-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6990&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PENSIONES PARA LOS TRABAJADORES AL SERVICIO DEL AYUNTAMIENTO DEL MUNICIPIO DE OAXACA DE JUAREZ
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1983.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 16 de diciembre de 1978.
 
@@ -229,59 +229,71 @@ La edad y el parentesco de los trabajadores y sus beneficiarios se acreditará (
 
 Para que un trabajador pueda disfrutar la pensión, es necesario cubrir previamente a la Dirección los adeudos que tuviesen con la propia Dirección, respecto a las aportaciones establecidas en el artículo 1o. de esta Ley.
 
-###### ARTICULO 32.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1983)</small>
 
-Tienen derecho a jubilación los trabajadores con 30 o más años de servicio e igual contribución a la Dirección, cualquiera que sea su edad, con el 100% de su sueldo regulador.
+###### Artículo 32.
 
-###### ARTICULO 33.
+Tienen derecho a jubilación los trabajadores con treinta o más años de servicio e igual tiempo de contribución a la Dirección, cualquiera que sea su edad. El monto de la pensión jubilatoria será el salario que perciba el trabajador en el momento de la jubilación.
 
-Tienen derecho a pensión por vejez los trabajadores que habiendo cumplido 55 años de edad, cuenten con una antigüedad no menor de 15 años al servicio del H. Ayuntamiento e igual tiempo de contribución con la Dirección.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1983)</small>
+
+###### Artículo 33.
+
+Tienen derecho a pensión por vejez los trabajadores que habiendo cumplido cincuenta y cinco años de edad, cuenten con una antigüedad no menor de quince años de trabajo en el Ayuntamiento e igual tiempo de contribución a la Dirección.
 
 ###### ARTICULO 34.
 
 Toda fracción de más de seis meses de servicio, se computará como año completo.
 
-###### ARTICULO 35.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1983)</small>
 
-El monto de la pensión por vejez se fijará en la forma siguiente:
+###### Artículo 35.
 
-15 años de servicio 40%
+El monto de la pensión por vejez se fijará en la froma (sic) siguiente:
 
-16 " " " 43%
+15 años de servicio 50%
 
-17 " " " 46%
+16 años de servicio 53%
 
-18 " " " 49%
+17 años de servicio 56%
 
-19 " " " 52%
+18 años de servicio 60%
 
-20 " " " 55%
+19 años de servicio 63%
 
-21 " " " 59%
+20 años de servicio 66%
 
-22 " " " 63%
+21 años de servicio 70%
 
-23 " " " 67%
+22 años de servicio 73%
 
-24 " " " 71%
+23 años de servicio 76%
 
-25 " " " 75%
+24 años de servicio 80%
 
-26 " " " 80%
+25 años de servicio 83%
 
-28 " " " 90%
+26 años de servicio 86%
 
-29 " " " 95%
+27 años de servicio 90%
 
-30 " " " 100%
+28 años de servicio 93%
+
+29 años de servicio 96%
+
+30 años de servicio 100%
 
 ###### ARTICULO 36.
 
 La pensión por vejez que la Dirección conceda, en ningún caso podrá ser inferior al 50% del salario mínimo vigente en el año en que se otorgue, ni excederá del 100% del salario presupuestal.
 
-###### ARTICULO 37.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1983)</small>
 
-Para calcular el monto de la pensión por vejez o jubilación, se tomará el promedio de los sueldos disfrutados en los últimos tres años.
+###### Artículo 37.
+
+Para calcular el monto de las pensiones por jubilación o vejez se tomará como base el salario que perciba el trabajador en el momento en el que se pensione.
+
+Los trabajadores a quienes se conceda jubilación o pensión por vejez, tendrán derecho además al pago de la prima de antigüedad en los términos del artículo 162 de la Ley Federal del Trabajo.
 
 ###### ARTICULO 38.
 
@@ -289,9 +301,11 @@ El trabajador que se separe del Ayuntamiento después de haber contribuido un m�
 
 DE LA PENSION POR INVALIDEZ Y MUERTE.
 
-###### ARTICULO 39.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1983)</small>
 
-La pensión por invalidez se otorgará al trabajador que se inhabilite física o mentalmente por causas ajenas a su trabajo, siempre que haya contribuido cuando menos durante quince años a la Dirección y en los términos del Artículo 35 de esta Ley.
+###### Artículo 39.
+
+La pensión de invalidez se otorgará al trabajador que se inhabilite física o mentalmente por causas ajenas a su trabajo, siempre que haya contribuido por lo menos durante quince años a la Dirección y en los términos de los Artículos 35 y 37 de esta Ley, incluida la prima de antigüedad.
 
 ###### ARTICULO 40.
 
@@ -333,13 +347,19 @@ La cantidad a que tengan derecho los deudos se dividirá por partes iguales entr
 
 Sólo se pagará la pensión a la viuda o la concubina mientras no contraiga nupcias o entren en concubinato. Al contraer matrimonio recibirán como única y última prestación el importe de 6 meses de la pensión que hubiere disfrutado alguna de ellas. La divorciada no tendrá derecho a la pensión de quien haya sido cónyuge, a menos que a la muerte del marido éste estuviera pagándole pensión alimenticia por condena judicial y siempre que no exista viuda, hijos, concubina y ascendientes con derecho a la misma. Cuando la divorciada disfrutase de la pensión en los términos de este artículo, perderá dicho derecho si contrae nuevas nupcias, si viviese en concubinato o si no viviese honestamente previa la declaración judicial correspondiente.
 
-###### ARTICULO 45.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1983)</small>
 
-La pensión a que se refiere el artículo 44, se otorgará en la forma siguiente:
+###### Artículo 45.
 
-I.- En los términos del artículo 35 durante el primer año;
+La pensión a que se refiere el Artículo 44 se otorgará en la forma siguiente:
 
-II.- En los cinco años siguientes se disminuirá en un 10% hasta reducirla al 50% de la cifra original.
+I.- Si el trabajador tenía quince o más años de servicio en los términos de los Artículos 35 y 37 de esta Ley, incluida la prima de antigüedad.
+
+II.- Si el trabajador tenía menos de quince años de servicio, el 25% de su salario;
+
+III.- A los deudos del pensionista por vejez, el setenta y cinco por ciento del monto de la pensión de la que gozaba el pensionado;
+
+IV.- A los deudos del pensionista por invalidez, seis meses de la pensión que se le tenía concedida;
 
 ###### ARTICULO 46.
 
@@ -347,17 +367,21 @@ Cuando fallezca un pensionista, la Dirección entregará a sus deudos, o a la pe
 
 DE LA INDEMNIZACION GLOBAL.
 
-###### ARTICULO 47.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1983)</small>
 
-El trabajador que sin tener derecho a pensión de vejez o invalidez, se separe definitivamente del H. Ayuntamiento se le otorgará una indemnización en la siguiente forma:
+###### Artículo 47.
 
-I.- Si prestó de uno a cuatro años de servicio, con el total de las cuotas que hubiere entregado a la Dirección.
+El trabajador que sin tener derecho a pensión por vejez o invalidez se separe definitivamente del Ayuntamiento, se le otorgará una indemnización en la siguiente forma:
 
-II.- De 5 a 9 años de servicio, con el monto de las cuotas entregadas a la Dirección, más un mes del último sueldo presupuestal recibido.
+I.- Si prestó hasta tres años de servicios se le devolverá su aportación al fondo de pensiones.
 
-IV(sic).- En caso de fallecimiento del trabajador que se encontrase en los términos de las fracciones anteriores, la Dirección entregará a sus beneficiarios el importe de la indemnización global correspondiente.
+II.- Si prestó trabajo después de tres y hasta seis años de servicio, el total de las cuotas entregadas a la Dirección más un mes de salario;
 
-Sólo podrá afectarse la indemnización a que se refiere este Artículo si el trabajador tuviese algún adeudo con la Dirección de Pensiones o con el Ayuntamiento, en cuyo caso se retendrá la cantidad necesaria para solventar su responsabilidad.
+III.- Si prestó trabajo después de seis y hasta nueve años de servicio, el total de las cuotas entregadas a la Dirección más dos meses de salario;
+
+IV.- Si prestó trabajo después de nueve años y hasta antes de quince años de servicio, el total de las cuotas entregadas a la Dirección más tres meses de salario;
+
+V.- De quince años de servicio en adelante, el total de las cuotas entregadas a la Dirección más la prima de antigüedad y tres meses de salario. El monto de estas prestaciones se calculará en el caso de los tres meses de salario tomando como base el último salario y en el caso de la prima de antigüedad de conformidad con lo dispuesto por el Artículo 162 de la Ley Federal del Trabajo.
 
 DE LA PRESCRIPCION.
 
@@ -429,7 +453,7 @@ I.- Dictar los acuerdos necesarios para el cumplimiento de esta Ley.
 
 II.- Conceder, negar, suspender, modificar y revocar las jubilaciones y pensiones, en los términos de esta Ley.
 
-III.- Aprobar o negar los préstamos solicitados por los trabajadores y empleados, en los términos de esta Ley y de acuerdo con los recursos de la Dirección.
+III.- Aprobar o negar los prestamos solicitados por los trabajadores y empleados, en los términos de esta Ley y de acuerdo con los recursos de la Dirección.
 
 IV.- Conferir poderes generales o especiales al Director.
 
@@ -439,9 +463,11 @@ V.- Examinar y aprobar o modificar los balances anuales, los presupuestos de ing
 
 El Presidente de la Junta Directiva, será uno de los tres representantes del H. Ayuntamiento.
 
-###### ARTICULO 59.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1983)</small>
 
-Los acuerdos de la Junta Directiva se tomarán por mayoría de votos, en caso de empate, el Presidente tendrá voto de calidad.
+###### Artículo 59.
+
+Los acuerdos de la Junta Directiva se tomarán por mayoría de votos, pero cuando uno de los representantes de cualquiera de los Sindicatos o del Ayuntamiento se inconforme, bastará su voto en contra para suspender la aprobación del asunto de que se trate, hasta la próxima sesión, en la inteligencia de que solo podrá suspenderse por una sola vez la aprobación del mismo asunto.
 
 ###### ARTICULO 60.
 
@@ -525,7 +551,9 @@ La Dirección tomará las medidas necesarias en contra de quienes indebidamente 
 
 TRANSITORIOS:
 
-PRIMERO.- Las pensiones concedidas con anterioridad por el H. Ayuntamiento, se cubrirán por la Dirección y a ellas se aplicarán las disposiciones de la presente ley.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1983)</small>
+
+PRIMERO.- Las pensiones concedidas con anterioridad por el Ayuntamiento, se cubrirán por la Dirección y a ellas se aplicarán las disposiciones de la presente Ley en todo lo que beneficie a los pensionados.
 
 SEGUNDO.- El H. Ayuntamiento y los Sindicatos del mismo, integrarán la Junta Directiva en los términos de la presente Ley y el Director será designado de conformidad con el artículo 54.
 
@@ -533,9 +561,17 @@ TERCERO.- Las pensiones en curso en la fecha de vigencia de esta Ley, quedarán 
 
 CUARTO.- Quedan derogadas todas las disposiciones de carácter general que se opongan a la presente Ley.
 
-QUINTO.- Para el efecto de las pensiones, el cómputo de la antigüedad de los trabajadores y pensionistas que se encuentren trabajando en el Ayuntamiento o pensionados en el momento en que entre en vigor esta Ley, se hará tomando en cuenta todos sus años de trabajo, aunque no hayan enterado cantidad alguna a la Dirección.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1983)</small>
 
-SEXTO.- Esta Ley entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+QUINTO.- Para los efectos de la jubilación y de las pensiones de vejez, invalidez o muerte de las personas que sean trabajadores o pensionados en el momento en que entre en vigor esta Ley, serán computados todos sus años de trabajo haciéndose de cuenta que durante todos ellos entregaron sus aportaciones a la Dirección.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1983)</small>
+
+SEXTO.- Para los efectos de la jubilación y de la pensión por vejez, el número de trabajadores que podrán gozar de este beneficio será: Para el primer año de vigencia de esta Ley, cuatro del Sindicato Independiente "3 de Marzo", de Trabajadores al Servicio del Ayuntamiento de Oaxaca de Juárez, cuatro del Sindicato Autónomo de Empleados y Trabajadores al Servicio del H. Ayuntamiento de la Ciudad de Oaxaca de Juárez y dos del Sindicato de Trabajadores y Empleados al Servicio del Municipio de Oaxaca de Juárez, y aumentándose para el año siguiente al doble el número de jubilados y pensionados por vejez por cada Sindicato, siguiéndose la misma regla para los años sucesivos.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1983)</small>
+
+SEPTIMO.- El presente decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpla.
 
@@ -550,3 +586,9 @@ Y lo comunico a usted para su conocimiento y fines consiguientes.
 SUFRAGIO EFECTIVO. NO REELECCION.- EL RESPETO AL DERECHO AJENO ES LA PAZ.- Oaxaca de Juárez, a 22 de noviembre de 1978.- EL SECRETARIO GENERAL DEL DESPACHO, LIC. CRISPIN CARRERA RAYON.- Rúbrica.
 
 Al C......
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE DICIEMBRE DE 1983.
+
+EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
