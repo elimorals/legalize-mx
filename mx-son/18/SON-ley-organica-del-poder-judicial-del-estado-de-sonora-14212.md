@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-judicial-del-estado-de-sonora-14212"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-12-12"
-last_updated: "1996-12-12"
+last_updated: "2004-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE MAYO DE 2004.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 12 de diciembre de 1996.
 
@@ -204,6 +204,12 @@ XXXVI.- Dictar las disposiciones generales necesarias para el ingreso, estímulo
 XXXVII.- Iniciar leyes y decretos ante el Congreso del Estado o proponer la reforma de los vigentes, en lo relativo al ramo de administración de justicia; y
 
 XXXVIII.- Las demás que determinen las leyes.
+
+> <small>(ADICIONADO, B.O. 20 DE MAYO DE 2004)</small>
+
+###### ARTICULO 11 Bis.
+
+Queda prohibido al Pleno del Supremo Tribunal de Justicia la entrega de numerario o bienes en especie a magistrados, jueces y a servidores públicos administrativos de primer nivel del Poder Judicial, a título de bono, indemnización, compensación o cualquier otro concepto semejante o análogo, por motivo de la conclusión anticipada u ordinaria de sus funciones.
 
 ### CAPITULO TERCERO. DEL PRESIDENTE DEL SUPREMO TRIBUNAL DE JUSTICIA
 
@@ -1734,3 +1740,9 @@ Comuníquese al Ejecutivo para su sanción y promulgación.
 SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Hermosillo, Sonora, a 19 de Noviembre de 1996.- DIPUTADO PRESIDENTE.- C. OSCAR HECTOR PACO BARRERA.- RUBRICA.- DIPUTADO SECRETARIO.- C MIGUEL ANGEL OCEJO MORALES.- RUBRICA.- DIPUTADO SECRETARIO.- C. JOSE RUBEN MORENO VALDEZ.- RUBRICA.-
 
 POR TANTO, mando se publique en el Boletín Oficial del Estado y se le dé el debido cumplimiento.- PALACIO DE GOBIERNO, Hermosillo, Sonora, veinticinco de noviembre de mil novecientos noventa y seis.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. MANLIO FABIO BELTRONES RIVERA.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- LIC. ROBERTO SANCHEZ CEREZO.- RUBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+B.O. 20 DE MAYO DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
