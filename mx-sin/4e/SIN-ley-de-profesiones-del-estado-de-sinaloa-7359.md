@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-profesiones-del-estado-de-sinaloa-7359"
 country: "mx"
 rank: "ley"
 publication_date: "1955-05-03"
-last_updated: "1967-08-08"
+last_updated: "1975-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7359&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE PROFESIONES DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1967.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 1975.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el 3 de mayo de 1955.
 
@@ -118,6 +118,22 @@ V.- La presentación de la Cédula del Registro Profesional expedido por la Dire
 Por ningún concepto se registrarán títulos ni se revalidarán estudios de aquellos Estados que no tengan los Planteles Profesionales correspondientes. El registro hecho en contraversión (sic) con este precepto será inexistente.
 
 ### CAPITULO III.. DEL REGISTRO DE TITULOS PROFESIONALES
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 1975)</small>
+
+###### ARTICULO 11 Bis.
+
+El Ejecutivo del Estado, podrá celebrar convenio de coordinación con el Ejecutivo Federal, por conducto de la Secretaría de Educación Pública, para unificar el registro profesional entre esta Entidad y el Distrito Federal, de acuerdo con las siguientes bases:
+
+I.- Instituir un solo servicio para el registro de títulos profesionales;
+
+II.- Reconocer para el ejercicio profesional en el Estado, la cédula expedida por la Secretaría de Educación Pública, y, consecuentemente, reconocer para el ejercicio profesional en el Distrito Federal, la cédula expedida por el Estado;
+
+III.- Establecer los requisitos necesarios para el reconocimiento de los títulos profesionales, así como los de forma y contenido que los mismos deberán satisfacer;
+
+IV.- Intercambiar la información que se requiera; y,
+
+V.- Las demás que tiendan al debido cumplimiento del objeto del convenio.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1967)</small>
 
@@ -648,3 +664,13 @@ UNICO.- El presente Decreto comenzará a surtir sus efectos legales correspondie
 P.O. 8 DE AGOSTO DE 1967.
 
 UNICO.- El presente Decreto surte sus efectos legales a partir de la fecha ds (sic) su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 30 DE ABRIL DE 1975.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+En tanto se mantenga en vigor el convenio que celebren el Ejecutivo del Estado y la Secretaría de Educación Pública, quedan derogadas todas las disposiciones de la Ley de Profesiones del Estado que se opongan al presente Decreto.
