@@ -4,7 +4,7 @@ identifier: "GRO-codigo-fiscal-municipal-numero-152-5119"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-30"
-last_updated: "1997-12-26"
+last_updated: "1999-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5119&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO FISCAL MUNICIPAL NUMERO 152
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1999.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el miércoles 30 de diciembre de 1987.
 
@@ -322,6 +322,12 @@ II. A los sujetos pasivos o responsables solidarios les corresponde determinar e
 ###### ARTICULO 31o.
 
 La determinación de los créditos fiscales y de las bases para su liquidación, su fijación en cantidad líquida, su percepción y su cobro corresponderá a la Tesorería Municipal, la que ejercitará dichas funciones por conducto de las dependencias y órganos que las leyes señalen.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 31 Bis.
+
+Para determinar las contribuciones se considerarán, inclusive las fracciones del peso. No obstante lo anterior; los contribuyentes al efectuar su pago, el monto se ajustará para que las contengan cantidad que incluya de 1 hasta 50 centavos se ajusten a la unidad inmediata anterior, y a las que contengan cantidades de 51 a 99 centavos, se ajusten a la unidad inmediata superior.
 
 ###### ARTICULO 32o.
 
@@ -1059,7 +1065,13 @@ a).- Cuando en la revisión de los avalúos se determine que los datos no corres
 
 b).- Por cambiar de domicilio fiscal sin dar el aviso correspondiente a las autoridades fiscales municipales y a la Secretaría de Finanzas y Administración;
 
-c).- Por cualquier otro incumplimiento a las disposiciones normativas que establecen las Leyes de Catastro, de Hacienda Municipal, respectivamente y el presente Código.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1999)</small>
+
+c).- Por cualquier otro incumplimiento a las disposiciones normativas que establecen las Leyes de Catastro Municipal, de Hacienda Municipal, Reglamento de Valuación Inmobiliaria con Fines Fiscales y del Registro de Peritos Valuadores del Estado de Guerrero y al presente Código.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1999)</small>
+
+d).- Por la incorrecta aplicación de los parámetros valuatorios y deficiente empleo de los factores de eficiencia por abajo de lo establecido en el Reglamento de Valuación Inmobiliaria con Fines Fiscales y del Registro de Peritos Valuadores del Estado de Guerrero.
 
 II.- Suspensión de seis a doce meses, en caso de reincidir en alguna de las situaciones señaladas en la fracción que antecede de este artículo.
 
@@ -1067,7 +1079,9 @@ III.- Cancelación por:
 
 a).- Haber obtenido, el registro con información y/o documentación falsa.
 
-b).- Por violaciones graves y reiteradas a las disposiciones del apartado de los avalúos, en la práctica y formulación de éstos.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1999)</small>
+
+b).- Por violaciones graves y reiteradas a las disposiciones del apartado de los Avalúos, en la práctica y formulación de éstos, contenidas en la Ley de Catastro Municipal, Reglamento de Valuación Inmobiliaria con Fines Fiscales y del Registro de Peritos Valuadores del Estado de Guerrero y al presente Código.
 
 c).- Cancelación definitiva del registro, o inhabilitación como perito valuador por la Comisión Nacional Bancaria y de Valores, conforme a ordenamientos legales y administrativos aplicables, en relación con la actividad valuatoria.
 
@@ -2136,3 +2150,13 @@ Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día primero de enero de mil novecientos noventa y ocho.
+
+P.O. 21 DE DICIEMBRE DE 1999.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día primero de enero del año 2000.
