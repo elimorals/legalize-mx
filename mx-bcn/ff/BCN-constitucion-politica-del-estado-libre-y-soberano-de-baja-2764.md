@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1966-06-10"
+last_updated: "1968-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 1966.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 1968.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -357,7 +357,7 @@ V.- Emitir dictamen sobre los asuntos que en las últimas sesiones ordinarias ha
 
 VI.- Recibir los expedientes electorales relativos a la elección de diputados y Gobernador, para el sólo efecto de entregarlos al Colegio Electoral;
 
-VII.- Instalar las juntas preparatorias del Colegio Electoral del Congreso;
+VII.- Instalar las juntas preparatorias del Colegio Electoral del Congreso.
 
 VIII.- Suspender, a petición del Ejecutivo, a los miembros de los Ayuntamientos, hasta por tres meses, cuando se juzgue indispensable para la práctica de una averiguación relacionada con sus funciones;
 
@@ -683,9 +683,23 @@ Los Municipios administrarán libremente su Hacienda, la cual se formará de las
 
 Cuando se cree un nuevo Municipio se cuidará de que en la extensión territorial que se le señale exista el número suficiente de habitantes que justifique la formación del Municipio, de acuerdo con la Ley respectiva.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1968)</small>
+
 ###### ARTICULO 84.
 
-Sólo por causas graves se puede renunciar al cargo de Munícipe; de las renuncias conocerá el Congreso o la Comisión Permanente, en su caso.
+Procederá la designación de Concejos Municipales por el Congreso, a propuesta del Gobernador del Estado, cuando fuere declarada la nulidad de las elecciones de los Ayuntamientos o las mismas no estuvieren hechas y declaradas; o sus integrantes, Propietarios y Suplentes, renunciaren colectivamente, faltaren en su totalidad o no se presentaren al iniciarse un período constitucional.
+
+Los Concejos Municipales podrán ser provisionales o substitutos, según lo disponga la Ley Orgánica Municipal, la que determinará su integración con el mismo número de miembros previsto para los Ayuntamientos y los casos en que proceda la elección de éstos.
+
+La designación de Munícipes procederá cuando renuncien o falten uno o varios de ellos, propietarios o suplentes, o no se presentaren en igual número al iniciarse el ejercicio de un período constitucional. Estos Munícipes serán nombrados en los mismos términos que dispone este artículo para los Concejos Municipales.
+
+La renuncia de los miembros de los Ayuntamientos de que trata este artículo, sólo será procedente si se funda en una causa grave.
+
+Los miembros integrantes de los Concejos Municipales y los Munícipes que se designen conforme a este artículo, deberán reunir los requisitos exigidos por esta Constitución, para la elección de los miembros de los Ayuntamientos y tendrán los (sic) facultades y obligaciones que aquéllas y las leyes otorgan a dichos Ayuntamientos.
+
+Las personas integrantes de los Concejos Municipales o los Munícipes designados de acuerdo con lo que expresa este artículo, no podrán ser miembros de los Ayuntamientos, para el período inmediato.
+
+Todo miembro de un Ayuntamiento, Concejo Municipal o Munícipe, electo o designado, conforme a lo que dispone el Capítulo Unico del Título Sexto de esta Constitución, cesará en su encargo, al concluir el período constitucional para el cual fué elegido o el término para el cual fué designado.
 
 ###### ARTICULO 85.
 
@@ -879,7 +893,7 @@ IV.- Funcionará, en la ciudad de Mexicali, con delegados en las poblaciones del
 
 V.- La Oficina del Registro de Electores, teniendo en cuenta los datos del Censo Nacional de Población en 1950, y las disposiciones de esta Constitución, formulará un proyecto de la división territorial del Estado en Distritos Electorales para la elección de Diputados a la Legislatura Local y la someterá a la Comisión Electoral del Estado para su revisión y aprobación.
 
-VI.- En cada una de las cabeceras de Distrito Electoral funcionará un Comité Distrital Electoral, con jurisdicción en todo el Distrito y con las facultades que a los Comités Distritales Electorales señala la Ley Electoral Federal, aplicadas sus disposiciones en lo conducente.
+VI.- En cada una de las cabeceras, de Distrito Electoral funcionará un Comité Distrital Electoral, con jurisdicción en todo el Distrito y con las facultades que a los Comités Distritales Electorales señala la Ley Electoral Federal, aplicadas sus disposiciones en lo conducente.
 
 VII.- Los Comités Distritales Electorales estarán integrados por un presidente, un secretario y un vocal, que serán designados por la Comisión Electoral del Estado, debiendo recaer los nombramientos en personas que reúnan los requisitos del artículo 20 de la Ley Electoral Federal.
 
@@ -1018,3 +1032,13 @@ SEGUNDO.- Por esta única vez los nombramientos de los Magistrados y Jueces actu
 P.O. 10 DE JUNIO DE 1966.
 
 UNICO.- La presente reforma comenzará a regir el día 1o. de Octubre de 1966.
+
+P.O. 30 DE JUNIO DE 1968.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor, el día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones que se opongan a este Decreto.
