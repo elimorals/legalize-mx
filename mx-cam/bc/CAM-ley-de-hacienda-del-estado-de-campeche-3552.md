@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-3552"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-11"
-last_updated: "1997-12-27"
+last_updated: "1998-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 11 de diciembre de 1992.
 
@@ -51,7 +51,9 @@ La Hacienda Pública del Estado de Campeche, para atender los gastos y cumplir l
 
 La Hacienda Pública del Estado de Campeche se compone:
 
-I.- De los ingresos provenientes de los impuestos sobre honorarios por servicios médicos profesionales, al comercio de libros, periódicos y revistas, sobre espectáculos públicos, sobre nóminas.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 1998)</small>
+
+I.- De los ingresos provenientes de los impuestos sobre comercio de libros, periódicos y revistas, sobre espectáculos públicos, sobre nóminas y sobre servicios de hospedaje.
 
 II.- De los ingresos provenientes de los derechos derivados de la prestación de servicios públicos.
 
@@ -75,11 +77,11 @@ X.- De los bienes muebles e inmuebles propiedad del Estado.
 
 Los ingresos fiscales, que se establecen en este ordenamiento, se regularán por lo establecido en la presente Ley y en el Código Fiscal del Estado de Campeche.
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1998)</small>
 
 ###### ARTICULO 3.
 
-El pago de los impuestos de la presente Ley deberá hacerse dentro de los primeros quince días del mes siguiente a que correspondan, en las oficinas recaudadoras de la Secretaría de Finanzas y Administración del Gobierno del Estado, a excepción del impuesto del capítulo IV del presente ordenamiento.
+El pago de los impuestos de la presente Ley deberá hacerse dentro de los primeros quince días del mes siguiente a que correspondan, en las oficinas recaudadoras de la Secretaría de Finanzas y Administración del Gobierno del Estado, a excepción de los impuestos previstos en los Capítulos IV y V del Título Segundo del presente ordenamiento.
 
 ###### ARTICULO 4.
 
@@ -113,45 +115,43 @@ TARIFA, es el agrupamiento ordenado de cuotas o tasas.
 
 ## TITULO SEGUNDO. DE LOS IMPUESTOS
 
-### CAPITULO I. DEL IMPUESTO SOBRE HONORARIOS POR SERVICIOS MEDICOS PROFESIONALES
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 1998)</small>
+
+### CAPITULO I
 
 #### SECCION PRIMERA. DEL OBJETO
 
 ###### ARTICULO 10.
 
-Es objeto de este impuesto la percepción de ingresos dentro del territorio del Estado, por servicios profesionales de medicina, cuando su prestación requiera título de médico conforme a las leyes respectivas, siempre que sean prestados por personas físicas, ya sea individualmente o por conducto de Sociedades Civiles.
+(DEROGADO, P.O. 18 DE JUNIO DE 1998)
 
-Para los efectos de este impuesto, se considerará percibido el ingreso dentro del territorio del Estado:
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE JUNIO DE 1998)</small>
 
-I.- Cuando en él se presten o surtan efectos de hecho o de derecho los servicios profesionales de medicina a que se refiere este artículo.
-
-II.- Cuando quien cubra los ingresos gravables resida en el Estado, o
-
-III.- Cuando el domicilio del contribuyente se encuentre en el Estado, siempre que no sea la casa en que habite, a menos que en la misma preste sus servicios de manera habitual.
-
-#### SECCION SEGUNDA. DE LOS SUJETOS
+#### SECCION SEGUNDA
 
 ###### ARTICULO 11.
 
-Son sujetos de este impuesto los profesionistas de la medicina con título debidamente registrado que perciban los ingresos a que se refiere el artículo anterior.
+(DEROGADO, P.O. 18 DE JUNIO DE 1998)
 
-#### SECCION TERCERA. DE LA BASE
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE JUNIO DE 1998)</small>
+
+#### SECCION TERCERA
 
 ###### ARTICULO 12.
 
-Es base de este impuesto el monto total de los ingresos a que se refiere el artículo 10.
+(DEROGADO, P.O. 18 DE JUNIO DE 1998)
 
-#### SECCION CUARTA. DEL PAGO
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE JUNIO DE 1998)</small>
+
+#### SECCION CUARTA
 
 ###### ARTICULO 13.
 
-Los profesionistas de la medicina, dentistas y médicos en todas sus especialidades deberán enterar el pago de este impuesto en los plazos establecidos en el artículo 3.
-
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1993)</small>
+(DEROGADO, P.O. 18 DE JUNIO DE 1998)
 
 ###### ARTICULO 14.
 
-El pago de este impuesto será del 2% sobre el monto total de los ingresos a que se refiere el artículo 10, mediante declaración de ingresos expresa, en los formatos que para el efecto expida la Secretaría de Finanzas.
+(DEROGADO, P.O. 18 DE JUNIO DE 1998)
 
 ### CAPITULO II. DEL IMPUESTO AL COMERCIO DE LIBROS, PERIODICOS Y REVISTAS
 
@@ -371,17 +371,125 @@ II.- Cuando, por los informes que se obtengan se ponga de manifiesto que entre l
 
 El procedimiento a seguir será el establecido en el Código Fiscal del Estado.
 
-### CAPITULO I. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DEL REGISTRO CIVIL
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 1998)</small>
+
+### CAPITULO V. DEL IMPUESTO SOBRE SERVICIOS DE HOSPEDAJE
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
 
 #### SECCION OCTAVA. DE LA ESTIMACION DE EROGACIONES
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 1995)</small>
 
-### CAPITULO II. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
+###### ARTICULO 35-A.
+
+Es objeto del impuesto sobre servicios de hospedaje la prestación de los servicios de hospedaje que realicen las personas físicas y morales, siempre que los bienes materia de los servicios se encuentren en el Estado de Campeche, independientemente del lugar en que se realice el pago.
+
+Para los efectos de este impuesto se consideran servicios de hospedaje, la prestación de alojamiento o albergue temporal de personas a cambio de un pago, servicio que comprende, entre otros, los servicios prestados por hoteles, moteles, campamentos, paraderos de casas rodantes, albergues, habitaciones con sistema de tiempo compartido o de operación hotelera, suites, villas o bungalows, complejos turísticos y demás establecimientos de naturaleza análoga.
+
+No se considerarán servicios gravados por este impuesto los de albergue o alojamiento prestados por hospitales, clínicas, así como los conventos, asilos, seminarios e internados y casas de beneficencia o asistencia social.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
+
+#### SECCION PRIMERA. DEL OBJETO
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 35-B.
+
+Están obligadas al pago de este impuesto, las personas físicas y morales que presten los servicios de hospedaje en el Estado de Campeche.
+
+Los contribuyentes trasladarán dicho impuesto en forma expresa y por separado a las personas que reciban los servicios de hospedaje.
+
+Se entenderá por traslado del impuesto, el cobro o cargo que el contribuyente deba hacer a dichas personas, por un monto equivalente al impuesto establecido en esta Ley.
+
+El traslado del impuesto a que se refiere este artículo no se considerará violatorio de precios o tarifas incluyendo los oficiales.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
+
+#### SECCION SEGUNDA. DE LOS SUJETOS
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 35-C.
+
+La base gravable de este impuesto será el monto total de la contraprestación obtenida por los servicios de hospedaje.
+
+Cuando los contribuyentes convengan la prestación de servicios de hospedaje e incluyan servicios accesorios tales como transportación, comida, uso de instalaciones u otros similares y no desglosen y comprueben con la documentación correspondiente la prestación de estos últimos, se entenderá que el importe de la contraprestación respectiva corresponde a servicios de hospedaje.
+
+En dicha contraprestación quedan incluidos los depósitos, anticipos, gastos de toda clase, bienes convencionales o cualquier otro concepto de la misma naturaleza que el contribuyente reciba por la prestación de los servicios de hospedaje.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
+
+#### SECCION CUARTA. DE LA TASA
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 35-D.
+
+El monto del impuesto se determinará aplicando a la base gravable a que alude el artículo anterior la tasa del 2%.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
+
+#### SECCION QUINTA. DEL PAGO
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 35-E.
+
+Se tendrá obligación de pagar el impuesto en el momento en que sean exigibles las contraprestaciones en favor de quien preste los servicios de hospedaje.
+
+El pago de este impuesto deberá efectuarse en las oficinas recaudadoras que correspondan al domicilio fiscal del contribuyente, mediante declaración mensual que deberá presentarse a más tardar el día veinte del mes siguiente a aquel en que se cause el impuesto, en las formas aprobadas por la Secretaría de Finanzas y Administración.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
+
+#### SECCION TERCERA. DE LA BASE
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 35-F.
+
+Los contribuyentes de este impuesto, estarán obligados a:
+
+I.- Solicitar su inscripción en el registro estatal de contribuyentes ante la oficina recaudadora correspondiente a su domicilio fiscal, dentro del mes siguiente al inicio de sus operaciones, o a la fecha en que se coloquen en las hipótesis de causación del impuesto, mediante la forma oficial autorizada para tal efecto y con los datos y documentos que en ella se exijan.
+
+II.- Presentar ante la oficina recaudadora que corresponda a su domicilio fiscal en los términos del Código Fiscal del Estado, los avisos respectivos de cambio de nombre, denominación o razón social, domicilio fiscal, traspaso, clausura, fusión, escisión, liquidación; así como suspensión o reanudación de actividades u obligaciones, o cualquiera otra circunstancia que modifique los datos aportados por el contribuyente, contenidos en el documento de inscripción, en los plazos señalados por el citado Código Fiscal del Estado.
+
+III.- Expedir comprobantes, señalando en los mismos además de los requisitos que establece el Código Fiscal del Estado, el impuesto sobre servicios de hospedaje que se traslada expresamente y por separado a quien reciba los servicios.
+
+IV.- Retener el impuesto correspondiente, y enterarlo a las oficinas autorizadas por los períodos y en las fechas a que se refiere el Artículo 35-E de esta Ley.
+
+V.- Llevar contabilidad, de conformidad con el Código Fiscal del Estado así como los controles necesarios que acrediten en forma fehaciente las operaciones por las que deba pagarse este impuesto, incluyendo, cuota diaria y total de días en que se prestó el servicio.
+
+VI.- Conservar la documentación comprobatoria de las operaciones gravadas por este impuesto durante el plazo al que se refiere el Código Fiscal del Estado; y
+
+VII.- Las demás que señale esta Ley y los ordenamientos fiscales aplicables.
+
+#### SECCION SEPTIMA. DE LAS ESTIMACIONES
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 35-G.
+
+Las autoridades fiscales estatales podrán estimar presuntivamente la base gravable de este impuesto además de los casos señalados en el Código Fiscal del Estado, cuando:
+
+I.- El sujeto de este impuesto no registre en la contabilidad que deba llevar para efecto de impuestos federales o estatales, cada uno de los servicios que preste gravados por esta Ley;
+
+II.- No proporcione la información que la autoridad fiscal le solicite, su contabilidad, comprobantes, registros y demás documentos que la integren; y
+
+III.- Se imposibilite, por cualquier medio, el conocimiento de las operaciones de los servicios objeto de este impuesto.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
+
+### CAPITULO I. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DEL REGISTRO CIVIL
+
+#### SECCION SEXTA. DE LAS OBLIGACIONES
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
 
 ## TITULO TERCERO. DE LOS DERECHOS
 
-### CAPITULO III. POR CERTIFICACIONES Y COPIAS CERTIFICADAS
+### CAPITULO II. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
 ###### ARTICULO 36.
 
@@ -445,7 +553,7 @@ b) Cambio del Régimen Patrimonial 25
 
 El pago de los derechos que establece el artículo anterior, deberá hacerse por el contribuyente, previamente a la prestación de los servicios.
 
-### CAPITULO IV. POR NOTARIADO Y ARCHIVOS DE INSTRUMENTOS PUBLICOS NOTARIALES
+### CAPITULO III. POR CERTIFICACIONES Y COPIAS CERTIFICADAS
 
 ###### ARTICULO 38.
 
@@ -551,7 +659,7 @@ XXII.- Por expedición de Certificados de inscripción de propiedad, positivos o
 
 XXIII.- Por inscripción de reestructuración, en cualquiera de sus modalidades 2
 
-### CAPITULO V. POR EXPEDICION DE TITULOS
+### CAPITULO IV. POR NOTARIADO Y ARCHIVOS DE INSTRUMENTOS PUBLICOS NOTARIALES
 
 ###### ARTICULO 39.
 
@@ -599,9 +707,7 @@ b) Por las hojas subsiguientes, cada una .1
 
 El pago de estos derechos deberá ser cubierto en las oficinas recaudadoras de la Secretaría de Finanzas, las que expedirán el comprobante correspondiente, mismo que deberá ser presentado ante la autoridad respectiva, previa a la obtención del servicio.
 
-### CAPITULO VI. POR EL USO O APROVECHAMIENTO DE BIENES DEL DOMINIO PUBLICO DEL ESTADO
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+### CAPITULO V. POR EXPEDICION DE TITULOS
 
 ###### ARTICULO 42.
 
@@ -649,9 +755,9 @@ Por escrituras no especificadas en las que no se determine interés pecuniario a
 
 El pago de estos derechos deberá ser cubierto en las oficinas recaudadoras de la Secretaría de Finanzas, las que expedirán el comprobante correspondiente, mismo que deberá ser presentado ante la autoridad respectiva, previo a la obtención del servicio.
 
-### CAPITULO VII. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DE LAS SECRETARIAS Y ORGANISMOS DESCONCENTRADOS DEL GOBIERNO DEL ESTADO
+### CAPITULO VI. POR EL USO O APROVECHAMIENTO DE BIENES DEL DOMINIO PUBLICO DEL ESTADO
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 49.
 
@@ -683,9 +789,9 @@ El pago de estos derechos deberá ser cubierto en las oficinas recaudadoras de l
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
-### CAPITULO VIII. POR AUTORIZACION PARA EL FUNCIONAMIENTO, EXPEDICION Y REVALIDACION DE LICENCIAS A DISTRIBUIDORES Y COMERCIALIZADORES DE BEBIDAS ALCOHOLICAS
+### CAPITULO VII. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DE LAS SECRETARIAS Y ORGANISMOS DESCONCENTRADOS DEL GOBIERNO DEL ESTADO
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 51.
 
@@ -725,7 +831,9 @@ Por el uso del camino de acceso a la Zona Arqueológica de Calakmul, se cobrará
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
-### CAPITULO I. POR ENAJENACION DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO
+### CAPITULO VIII. POR AUTORIZACION PARA EL FUNCIONAMIENTO, EXPEDICION Y REVALIDACION DE LICENCIAS A DISTRIBUIDORES Y COMERCIALIZADORES DE BEBIDAS ALCOHOLICAS
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 52.
 
@@ -1303,7 +1411,7 @@ El pago de los derechos antes mencionados, deberán ser cubiertos en las oficina
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
-### CAPITULO II. POR EL IMPORTE DE LOS ARRENDAMIENTOS DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO
+### CAPITULO I. POR ENAJENACION DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO
 
 ###### ARTICULO 52-A.
 
@@ -1425,7 +1533,7 @@ Las autoridades estatales regularán en sus reglamentos respectivos o mediante d
 
 ## TITULO CUARTO. DE LOS PRODUCTOS
 
-### CAPITULO III. POR TALLERES GRAFICOS DEL ESTADO Y PERIODICO OFICIAL
+### CAPITULO II. POR EL IMPORTE DE LOS ARRENDAMIENTOS DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO
 
 ###### ARTICULO 53.
 
@@ -1453,7 +1561,7 @@ Se autoriza al Ejecutivo del Estado para vender, en el precio y condiciones conv
 
 Asimismo, dichos bienes podrán ser donados a los ayuntamientos o instituciones de beneficencia pública para fines directos a la comunidad y con las salvedades o condiciones que el Ejecutivo determine.
 
-### CAPITULO IV. POR BIENES MOSTRENCOS Y VACANTES
+### CAPITULO III. POR TALLERES GRAFICOS DEL ESTADO Y PERIODICO OFICIAL
 
 ###### ARTICULO 57.
 
@@ -1467,9 +1575,7 @@ Los inmuebles se destinarán preferentemente a los usos de la Administración P�
 
 La Oficialía Mayor del Gobierno del Estado, formulará un minucioso inventario de todos los bienes muebles e inmuebles, patrimonio del Estado, y ninguno podrá ser dado de baja, ni retirado del servicio, sino por acuerdo expreso de la Oficialía Mayor y con la aprobación del Gobernador.
 
-### CAPITULO V. POR INSTITUCIONES DE ASISTENCIA SOCIAL
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+### CAPITULO IV. POR BIENES MOSTRENCOS Y VACANTES
 
 ###### ARTICULO 60.
 
@@ -1511,7 +1617,9 @@ a) Ejemplar 2.25
 
 b) Otras publicaciones editadas, se cobrará el costo de la impresión.
 
-### CAPITULO VI. POR LAS UTILIDADES DE LOS ORGANISMOS DESCENTRALIZADOS, EMPRESAS DE PARTICIPACION ESTATAL Y FIDEICOMISOS
+### CAPITULO V. POR INSTITUCIONES DE ASISTENCIA SOCIAL
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 63.
 
@@ -1523,7 +1631,7 @@ Ingresarán al patrimonio de la Hacienda Pública, previo al procedimiento corre
 
 Los bienes de las personas que mueran intestadas, sin dejar parientes de acuerdo con lo establecido en el Código Civil vigente en el Estado, serán adjudicadas (sic) al patrimonio de la Hacienda Pública. A las personas que denuncien ante las autoridades competentes el hecho, así como la situación a que alude el artículo anterior, se les otorgará una participación del 20% sobre el importe de los bienes denunciados, si no existe reclamación alguna.
 
-### CAPITULO VII. OTROS PRODUCTOS
+### CAPITULO VI. POR LAS UTILIDADES DE LOS ORGANISMOS DESCENTRALIZADOS, EMPRESAS DE PARTICIPACION ESTATAL Y FIDEICOMISOS
 
 ###### ARTICULO 65.
 
@@ -1535,13 +1643,13 @@ Los servicios que presten las instituciones de asistencia social en general incl
 
 La Secretaría de Finanzas y Administración del Estado, recaudará directamente las cuotas correspondientes.
 
-### CAPITULO I. REZAGOS
+### CAPITULO VII. OTROS PRODUCTOS
 
 ###### ARTICULO 67.
 
 Corresponden a la Hacienda Pública del Estado de Campeche, los ingresos por utilidades de los organismos descentralizados, empresas de participación estatal y fideicomisos. Dichas entidades se regirán conforme a las disposiciones contenidas al respecto en la Ley Orgánica de la Administración Pública del Estado de Campeche.
 
-### CAPITULO II. RECARGOS
+### CAPITULO I. REZAGOS
 
 ###### ARTICULO 68.
 
@@ -1549,7 +1657,7 @@ Se consideran como otros Productos aquéllos que no se encuentren, comprendidos 
 
 ## TITULO QUINTO. DE LOS APROVECHAMIENTO (SIC)
 
-### CAPITULO III. GARANTIAS Y MULTAS
+### CAPITULO II. RECARGOS
 
 ###### ARTICULO 69.
 
@@ -1563,13 +1671,13 @@ Se consideran rezagos, los adeudos de impuestos, derechos y productos que pasen 
 
 Los rezagos se cubrirán en las oficinas en las que debieron pagarse los impuestos, derechos y productos de los cuales provengan.
 
-### CAPITULO IV. REINTEGROS
+### CAPITULO III. GARANTIAS Y MULTAS
 
 ###### ARTICULO 72.
 
 El pago de los créditos fiscales realizado fuera de los plazos señalados por esta Ley dará lugar al cobro de recargos y el monto de los mismos se actualizará desde el mes en que debió de hacerse el pago, hasta que el mismo se efectúe; además se causarán recargos por concepto de indemnización de conformidad con lo que establezca el Código Fiscal Estatal.
 
-### CAPITULO V. DONACIONES
+### CAPITULO IV. REINTEGROS
 
 ###### ARTICULO 73.
 
@@ -1607,7 +1715,7 @@ Dichas garantías pasarán a favor del Estado al momento de ser negado el otorga
 
 Ingresarán a la Hacienda Pública las multas impuestas administrativamente por cualquier autoridad del Estado, las establecidas en calidad de penas en los procesos de orden judicial y las provenientes de la conmutación de sanciones que dispongan las Leyes respectivas. Las autoridades que las impongan, tienen obligación de comunicarlo a las autoridades hacendarías.
 
-### CAPITULO VI. PRESTAMOS
+### CAPITULO V. DONACIONES
 
 ###### ARTICULO 75.
 
@@ -1617,13 +1725,13 @@ Las cantidades pagadas de más o indebidamente con cargo al Presupuesto de Egres
 
 También ingresarán por este concepto las responsabilidades administrativas que se finquen por autoridad competente y que se hagan efectivas.
 
-### CAPITULO VII. APROVECHAMIENTOS DIVERSOS
+### CAPITULO VI. PRESTAMOS
 
 ###### ARTICULO 77.
 
 Ingresarán al Erario Estatal las donaciones que se hagan en favor del Estado. Cuando los bienes objeto de la donación no consistan en dinero, serán inventariados como bienes patrimoniales del Estado, para darles el uso o aprovechamiento que acuerde el Ejecutivo; en caso contrario en los términos fijados por el donante.
 
-### CAPITULO UNICO
+### CAPITULO VII. APROVECHAMIENTOS DIVERSOS
 
 ###### ARTICULO 78.
 
@@ -1652,6 +1760,8 @@ II.- Las indemnizaciones a favor del Estado.
 III.- La (sic) fianzas cuya pérdida se declare por resolución firme a favor del Estado.
 
 ## TITULO SEXTO. DE LOS INGRESOS EXTRAORDINARIOS
+
+### CAPITULO UNICO
 
 ###### ARTICULO 82.
 
@@ -1742,3 +1852,15 @@ P.O. 27 DE DICIEMBRE DE 1997.
 Primero.- El presente decreto entrará en vigor el día 1 de enero de 1998.
 
 Segundo.- Se derogan todas aquellas disposiciones legales o reglamentarias en lo que se opongan al contenido del presente Decreto.
+
+P.O. 18 DE JUNIO DE 1998.
+
+(F. DE. E., P.O. 22 DE JULIO DE 1998)
+
+PRIMERO.- El presente decreto entrará en vigor el día 1 de enero de 1999.
+
+SEGUNDO.- Se concede un plazo de un mes contado a partir de la fecha de inicio de vigencia del presente decreto, con la finalidad de que los contribuyentes de este impuesto que se establece, se inscriban en el Registro Estatal de Contribuyentes y puedan cumplir oportunamente con su pago.
+
+(F. DE. E., P.O. 22 DE JULIO DE 1998)
+
+TERCERO.- A partir del inicio de la vigencia de este decreto, la Secretaría de Finanzas y Administración tomará las providencias que sean necesarias para que los impuestos correspondientes por estos rubros se consideren parte integrante de la Ley de Ingresos del Estado para el ejercicio fiscal de 1999.
