@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "1997-04-01"
+last_updated: "1997-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 1997.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -5055,6 +5055,14 @@ P.O. 1 DE ABRIL DE 1997.
 
 El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1997)</small>
+
 ###### ARTICULO SEGUNDO.
 
-Para los efectos del artículo 23 del Código de Procedimientos Civiles que se reforma, los asuntos que se encuentren en trámite al momento de entrada en vigor del presente Decreto, continuarán substanciándose ante el Juzgado que este conociendo de los mismos.
+Para los efectos de los artículos 23 del Código de Procedimientos Civiles y 295 y 351 del Código de Procedimientos Penales reformados, los asuntos que se encuentren en trámite al momento de entrada en vigor del presente Decreto, continuarán substanciándose ante el Juzgado que esté conociendo de los mismos.
+
+P.O. 17 DE JUNIO DE 1997.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
