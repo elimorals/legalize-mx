@@ -4,7 +4,7 @@ identifier: "GRO-ley-ganadera-del-estado-de-guerrero-5556"
 country: "mx"
 rank: "ley"
 publication_date: "1988-06-24"
-last_updated: "1990-05-04"
+last_updated: "2002-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5556&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 LEY GANADERA DEL ESTADO DE GUERRERO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 1990.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 451 DE FOMENTO Y PROTECCION PECUARIA DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 12 DE ABRIL DE 2002, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 24 de junio de 1988.
 
@@ -1600,3 +1602,17 @@ La presente reforma una vez aprobada entrará en vigor, al día siguiente de su 
 ###### ARTICULO SEGUNDO.
 
 Conforme a la reforma del presente Decreto, cuando en el texto de los diversos artículos de la Ley Ganadera del Estado de Guerrero, se señalen a Uniones Ganaderas Regionales, deberá entenderse que se trata de la Unión Ganadera Regional del Estado.
+
+P.O. 12 DE ABRIL DE 2002.
+
+###### ARTICULO PRIMERO.
+
+Publíquese la presente Ley, en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+La presente Ley iniciará su vigencia a los treinta días siguientes al de su publicación en el Periódico Oficial del Estado de Guerrero.
+
+###### ARTICULO TERCERO.
+
+Se abroga la Ley Ganadera del Estado de Guerrero, aprobada el 21 de junio de 1988, publicada en el Periódico Oficial del Gobierno del Estado número 169 de fecha 24 de junio de 1988.
