@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-consejo-estatal-de-poblacion-75032"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-08-27"
-last_updated: "1993-08-27"
+last_updated: "2005-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE POBLACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 2005.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el viernes 27 de agosto de 1993.
 
@@ -48,25 +48,37 @@ El Consejo Estatal de Población es un organismo interinstitucional auxiliar del
 
 El Consejo tiene como objetivos: coordinar, formular y ejecutar el Programa Estatal de Población, así como conducir y aplicar la política de población en el Estado, contribuyendo y regulando el crecimiento y distribución de la población.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2005)</small>
+
 ###### ARTICULO 3o.
 
-Para el estudio, planeación y despacho de los asuntos de su competencia, el Consejo Estatal de Población, contará con los siguientes servidores públicos y unidades administrativas:
+Para el estudio, planeación despacho de los asuntos de su competencia, el Consejo Estatal de Población contará con:
 
-Presidente
+I.- Un Secretario Técnico; y
 
-Secretario Técnico
+II.- La siguiente estructura administrativa:
 
-Dirección de Programas
+a) Coordinación General Administrativa;
 
-Departamento de Investigación en Población y Desarrollo.
+b) Dirección de Programas;
 
-Departamento de Participación de la Mujer.
+c) Dirección de Consejos Municipales;
 
-Departamento de Comunicación y Educación en Población.
+d) Departamento de Investigación en Población y Desarrollo;
 
-Departamento de Informática.
+e) Departamento de Informática;
 
-Coordinación General Administrativa.
+f) Departamento de Coordinación y Enlace;
+
+g) Departamento de Contabilidad;
+
+h) Departamento de Educación en Población;
+
+i) Departamento de Participación de la Mujer; y
+
+j) Departamento de Comunicación en Población.
+
+Los demás servidores públicos que conforman la estructura administrativa del Consejo, cualquiera que sea el cargo que ostenten, realizarán las funciones que les correspondan en términos de los respectivos manuales de organización, de procedimientos y de servicios al público; así como las que les asigne o le encomiende el Secretario Técnico o el superior jerárquico del cual dependan, debiendo coordinar y supervisar directamente, en su caso, los trabajos del personal que les esté subordinado o forme parte del área de la cual sea responsable, de acuerdo con la normatividad aplicable y la disponibilidad presupuestal correspondiente.
 
 ###### ARTICULO 4o.
 
@@ -156,59 +168,37 @@ X.- Nombrar al personal que integra el Consejo, para cumplir con los Programas y
 
 El Consejo Estatal de Población funcionará en pleno o en comisiones y sesionará cuantas veces sea necesario, bajo la coordinación del Secretario Técnico.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2005)</small>
+
 ###### ARTICULO 9o.
 
 El pleno del Consejo se integra por:
 
-PRESIDENTE.
+I.- Presidente: Gobernador Constitucional del Estado;
 
-GOBERNADOR CONSTITUCIONAL DEL ESTADO.
+II.- Secretario Técnico;
 
-SECRETARIO TECNICO DEL CONSEJO.
+III.- Secretario de Gobernación;
 
-SECRETARIA DE GOBERNACION.
+IV.- Secretario de Comunicaciones y Transportes;
 
-SECRETARIA DE FINANZAS.
+V.-Secretario de Cultura;
 
-SECRETARIA DE EDUCACION PUBLICA.
+VI.- Secretario de Desarrollo Económico;
 
-SECRETARIA DE CULTURA.
+VII.- Secretario de Desarrollo, Evaluación y Control de la Administración Pública;
 
-SECRETARIA DE ECONOMIA.
+VIII.- Secretario de Desarrollo Rural;
 
-SECRETARIA DE DESARROLLO URBANO Y ECOLOGIA.
+IX.- Secretario de Desarrollo Social;
 
-PROCURADURIA GENERAL DE JUSTICIA.
+X.- Secretario de Desarrollo Urbano, Ecología y Obras Públicas;
 
-SECRETARIO DE SERVICIOS COORDINADOS DE SALUD PUBLICA.
+XI.- Secretario de Educación Pública;
 
-DELEGADO DE LA SECRETARIA DE DESARROLLO SOCIAL.
+XII.- Secretario de Finanzas y Administración; y
 
-SECRETARIO EJECUTIVO DEL CONSEJO DE DESARROLLO RURAL.
-
-DELEGADO DE LA SECRETARIA DE COMUNICACIONES Y TRANSPORTES.
-
-DELEGADO REGIONAL DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL.
-
-DELEGADO REGIONAL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS TRABAJADORES DEL ESTADO.
-
-DELEGADO COORDINADOR GENERAL DE LA SECRETARIA DE COMERCIO Y FOMENTO INDUSTRIAL.
-
-DELEGADO DE LA SECRETARIA DEL TRABAJO Y PREVISION SOCIAL.
-
-DELEGADO GENERAL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE PUEBLA.
-
-DIRECTOR GENERAL DE ASUNTOS JURIDICOS.
-
-DIRECTOR GENERAL DE GOBIERNO.
-
-DIRECTOR GENERAL DEL REGISTRO CIVIL.
-
-DELEGADO DEL INSTITUTO NACIONAL INDIGENISTA.
-
-LOS 217 PRESIDENTES MUNICIPALES DE LA ENTIDAD.
-
-Con respecto a los Presidentes Municipales, estos asistirán a las sesiones previa convocatoria, cuando se traten asuntos de su localidad.
+XIII.- Secretario de Salud.
 
 ###### ARTICULO 10.
 
@@ -254,6 +244,34 @@ V.- Elaborar el anteproyecto de presupuesto y someterlo a la aprobación del Sec
 
 VI.- Las demás que le confiera el Presidente y otros ordenamientos.
 
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2005)</small>
+
+ARTICULO 15 BIS.- La Dirección de Programas estará a cargo de un Titular, quien tendrá las siguientes atribuciones:
+
+I.- Coordinar las actividades y programas de población que realice el Consejo;
+
+II.- Promover la difusión de información sobre la política de Población en el Estado;
+
+III.- Vincular las acciones nacionales de población con las estatales;
+
+IV.- Acordar con el Secretario Técnico del Consejo, el despacho de los asuntos a su cargo y responsabilidad; y
+
+V.- Las demás que le confiera el Presidente, el Secretario Técnico y la demás normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2005)</small>
+
+ARTICULO 15 TER.- La Dirección de Consejos Municipales estará a cargo de un Titular, quien tendrá las siguientes atribuciones:
+
+I.- Promover y asesorar en los municipios la creación, fortalecimiento y operación de los Consejos Municipales de Población;
+
+II.- Coordinar la capacitación para los integrantes de los Consejos Municipales de Población;
+
+III.- Gestionar acuerdos de cooperación técnica en temas de población, entre los municipios que conforman el Estado y el Consejo Estatal de Población;
+
+IV.- Acordar con el Secretario Técnico del Consejo, el despacho de los asuntos a su cargo y responsabilidad; y
+
+V.- Las demás que le confiera el Presidente, el Secretario Técnico y la demás normatividad aplicable.
+
 ### CAPITULO IV. DE LAS SUPLENCIAS
 
 ###### ARTICULO 16.
@@ -277,3 +295,15 @@ LIC. MANUEL BARLETT DIAZ
 EL SECRETARIO DE GOBERNACION
 
 LIC. CARLOS PALAFOX VAZQUEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 31 DE ENERO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
