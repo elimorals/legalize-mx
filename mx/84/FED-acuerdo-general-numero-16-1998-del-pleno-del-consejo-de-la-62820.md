@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-16-1998-del-pleno-del-consejo-de-la-6282
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-06-25"
-last_updated: "1999-11-08"
+last_updated: "2000-03-13"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62820&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-06-17"
 
 ACUERDO GENERAL NUMERO 16/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE NOVIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE MARZO DE 2000.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de junio de 1998.
 
@@ -217,7 +217,9 @@ XII.- DECIMO SEGUNDO CIRCUITO:
 
 1.- Cinco tribunales colegiados y tres tribunales unitarios, con sede en la ciudad de Mazatlán.
 
-2.- Nueve juzgados de distrito: tres con residencia en la ciudad de Culiacán, tres con sede en la ciudad de Los Mochis y tres con residencia en la ciudad de Mazatlán.
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 9/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2000)</small>
+
+2.- Diez juzgados de distrito: cuatro con residencia en la ciudad de Culiacán, tres con sede en la ciudad de Los Mochis y tres con residencia en la ciudad de Mazatlán.
 
 3.- Un juzgado de distrito en el Estado de Baja California Sur, con sede en la ciudad de La Paz.
 
@@ -249,7 +251,9 @@ XIV.- DECIMO CUARTO CIRCUITO:
 
 XV.- DECIMO QUINTO CIRCUITO:
 
-1.- Dos tribunales colegiados con sede en la ciudad de Mexicali.
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 10/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2000)</small>
+
+1.- Tres tribunales colegiados con sede en la ciudad de Mexicali.
 
 2.- Cinco tribunales unitarios: tres con residencia en la ciudad de Mexicali y dos con sede en la ciudad de Tijuana.
 
@@ -309,7 +313,9 @@ XXI.- VIGESIMO PRIMER CIRCUITO:
 
 XXII.- VIGESIMO SEGUNDO CIRCUITO:
 
-1.- Dos tribunales colegiados y un tribunal unitario, con sede en la ciudad de Querétaro.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL NUMERO 11/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2000)</small>
+
+1.- Dos tribunales colegiados y un tribunal unitario, con sede en la ciudad de Querétaro, así como un tribunal colegiado, con residencia en la ciudad de Pachuca.
 
 2.- Dos juzgados de distrito con residencia en la ciudad de Querétaro.
 
@@ -413,7 +419,15 @@ XX.- VIGESIMO CIRCUITO: Estado de Chiapas.
 
 XXI.- VIGESIMO PRIMER CIRCUITO: Estado de Guerrero.
 
-XXII.- VIGESIMO SEGUNDO CIRCUITO: Estados de Hidalgo y Querétaro.
+> <small>(REFORMADA POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 11/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2000)</small>
+
+XXII.- VIGESIMO SEGUNDO CIRCUITO:
+
+Respecto de los tribunales colegiados con residencia en la ciudad de Querétaro, su jurisdicción territorial será la entidad del mismo nombre.
+
+Por cuanto hace al tribunal colegiado con sede en la ciudad de Pachuca, su jurisdicción territorial será el Estado de Hidalgo.
+
+La jurisdicción territorial del tribunal unitario comprenderá los Estados de Hidalgo y Querétaro.
 
 XXIII.- VIGESIMO TERCER CIRCUITO: Respecto del tribunal colegiado con residencia en la ciudad de Zacatecas, su jurisdicción territorial será la entidad del mismo nombre.
 
@@ -497,8 +511,6 @@ El Juzgado Cuarto de Distrito en el Estado de Coahuila, con residencia en la ciu
 
 Los Juzgados Primero y Segundo de Distrito en La Laguna, con residencia en la ciudad de Torreón, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del Estado de Coahuila; y, Gómez Palacio, General Simón Bolívar, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo del Estado de Durango.
 
-> <small>(DEROGADO QUINTO PARRAFO POR EL PUNTO DECIMO TERCERO DEL ACUERDO GENERAL NUMERO 49/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE NOVIEMBRE DE 1999)</small>
-
 IX.- NOVENO CIRCUITO:
 
 Los Juzgados Primero, Segundo, Tercero y Cuarto de Distrito en el Estado de San Luis Potosí, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
@@ -521,11 +533,17 @@ Los Juzgados Quinto y Sexto de Distrito en el Estado de Michoacán, con residenc
 
 XII.- DECIMO SEGUNDO CIRCUITO:
 
-Los Juzgados Primero, Segundo y Tercero de Distrito en el Estado de Sinaloa, con residencia en la ciudad de Culiacán, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Culiacán y Navolato.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 9/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2000)</small>
 
-Los Juzgados Cuarto, Quinto y Sexto de Distrito en el Estado de Sinaloa, con residencia en la ciudad de Los Mochis, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Ahome, Angostura, Badiraguato, Choix, El Fuerte, Guasave, Mocorito, Salvador Alvarado y Sinaloa.
+Los Juzgados Primero, Segundo, Tercero y Cuarto de Distrito en el Estado de Sinaloa, con residencia en la ciudad de Culiacán, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Culiacán y Navolato.
 
-Los Juzgados Séptimo, Octavo y Noveno de Distrito en el Estado de Sinaloa, con residencia en la ciudad de Mazatlán, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Concordia, Cosalá, Elota, Rosario, Escuinapa, Mazatlán y San Ignacio.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 9/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2000)</small>
+
+Los Juzgados Quinto, Sexto y Séptimo de Distrito en el Estado de Sinaloa, con residencia en la ciudad de Los Mochis, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Ahome, Angostura, Badiraguato, Choix, El Fuerte, Guasave, Mocorito, Salvador Alvarado y Sinaloa.
+
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 9/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2000)</small>
+
+Los Juzgados Octavo, Noveno y Décimo de Distrito en el Estado de Sinaloa, con residencia en la ciudad de Mazatlán, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Concordia, Cosalá, Elota, Rosario, Escuinapa, Mazatlán y San Ignacio.
 
 El Juzgado de Distrito en el Estado de Baja California Sur, con residencia en la ciudad de La Paz, ejercerá jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
@@ -892,3 +910,27 @@ ACUERDO GENERAL NUMERO 49/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
 PRIMERO.- Este Acuerdo entrará en vigor el día quince de noviembre de mil novecientos noventa y nueve.
 
 SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE MARZO DE 2000.
+
+ACUERDO GENERAL NUMERO 9/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día veintisiete de marzo del año dos mil.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE MARZO DE 2000.
+
+ACUERDO GENERAL NUMERO 10/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día tres de abril del año dos mil.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE MARZO DE 2000.
+
+ACUERDO GENERAL NUMERO 11/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día tres de abril del año dos mil.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
