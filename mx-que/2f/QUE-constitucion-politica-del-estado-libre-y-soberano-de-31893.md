@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1934-10-18"
+last_updated: "1935-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 1934.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 1935.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -1387,7 +1387,7 @@ XVII.- Nombrar y remover libremente al Secretario del Despacho, al Procurador de
 
 XVIII.- Conceder o denegar indulto, y reducción o conmutación de pena, por los delitos de la competencia de los Tribunales del Estado, con los requisitos establecidos per(sic) las leyes;
 
-XIX.- Expulsar a los extranjeros del territorio del Estado, cuando a su juicio sean perniciosos;
+XIX.- (DEROGADA, P.O. 11 DE JULIO DE 1935)
 
 XX.- Recibir la protesta de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo para el cual hubieren sido designados, mirando en todo por el bien y prosperidad de la Nación y del Estado, al Secretario de Gobierno y demás empleados y funcionarios que conforme a la Ley no deban prestar la protesta ante otras Autoridades;
 
@@ -1584,5 +1584,9 @@ P.O. 9 DE MARZO DE 1933
 N. DE. E. EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
 
 P.O. 18 DE OCTUBRE DE 1934
+
+N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
+
+P.O. 11 DE JULIO DE 1935
 
 N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
