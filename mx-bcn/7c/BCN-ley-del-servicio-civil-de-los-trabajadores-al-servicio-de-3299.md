@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-3299"
 country: "mx"
 rank: "ley"
 publication_date: "1989-10-20"
-last_updated: "1989-10-20"
+last_updated: "1992-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL SERVICIO CIVIL DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO, MUNICIPIOS E INSTITUCIONES DESCENTRALIZADAS DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 1992.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 20 de octubre de 1989.
 
@@ -1195,6 +1195,10 @@ DISCIPLINARIAS Y DE LAS
 
 SANCIONES
 
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 146.
 
 Las violaciones a las normas de trabajo cometidas por las autoridades públicas, o por los trabajadores se sancionaran de conformidad con las disposiciones de este título, independientemente de la responsabilidad que les corresponda por el incumplimiento de sus obligaciones.
@@ -1231,9 +1235,53 @@ Las infracciones a la presente Ley que no tengan establecida otra sanción, se c
 
 Los derechos de los trabajadores al servicio del Gobierno del Estado y Municipios e Instituciones Descentralizadas, en materia de jubilación, pensiones y de seguridad social en lo integral, quedarán sujetos a la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Gobierno y Municipios del Estado de Baja California (ISSSTECALI).
 
+(ADICIONADO, P.O. 11 DE DICIEMBRE DE 1992).
+
+En el caso de las Instituciones Descentralizadas la atención de Seguridad Social, será aquella que se consigne en sus ordenamientos de creación.
+
 ###### ARTICULO 152.
 
 Si llegase a ocurrir que los recursos de ISSSTECALI no bastaren para cumplir con las obligaciones a su cargo, se actuará de acuerdo con lo contemplado en las disposiciones legales vigentes.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 11 DE DICIEMBRE DE 1992)</small>
+
+## TITULO DECIMO PRIMERO. DE LOS TRABAJADORES DE LA EDUCACION
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 153.
+
+Los trabajadores al Servicio de la Educación, se agruparán en su propio Sindicato.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 154.
+
+Los trabajadores al Servicio de la Educación disfrutarán de dos períodos anuales de vacaciones de diez días hábiles a cada uno, conforme al calendario escolar; además de su salario ordinario gozarán de una prima vacacional no menor del 55% sobre los salarios que le correspondan durante dichos períodos.
+
+Asimismo, los trabajadores al Servicio de la Educación, que tengan una antigüedad de más de un año, tendrán derecho al pago de una prima vacacional de conformidad con la tabla siguiente:
+
+1 año, 55% sobre 20 días hábiles.
+
+2 años, 60.5% sobre 20 días hábiles.
+
+3 años, 66% sobre 20 días hábiles.
+
+4 años, 71.5% sobre 20 días hábiles.
+
+5 años, 77% sobre 20 días hábiles.
+
+6 a 10 años, 82.5% sobre 20 días hábiles.
+
+11 a 15 años, 93.5% sobre 20 días hábiles.
+
+16 a 20 años, 104.5% sobre 20 días hábiles.
+
+21 a 25 años, 115.5% sobre 20 días hábiles.
+
+26 a 30 años, 126.5% sobre 20 días hábiles.
+
+31 años en adelante, 137.5% sobre 20 días hábiles.
 
 ## TRANSITORIOS
 
@@ -1282,3 +1330,9 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 DR. ARTURO GUERRA FLORES.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE DICIEMBRE DE 1992.
+
+UNICO.- Las presentes adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
