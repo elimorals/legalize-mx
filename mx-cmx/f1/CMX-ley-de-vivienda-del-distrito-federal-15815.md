@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-vivienda-del-distrito-federal-15815"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-02"
-last_updated: "2000-09-05"
+last_updated: "2004-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15815&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-01-10"
 
 LEY DE VIVIENDA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE ENERO DE 2004.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 2 de marzo de 2000.
 
@@ -74,7 +74,7 @@ III. AYUDA DE BENEFICIO SOCIAL- Aquellos porcentajes o montos fijados por la adm
 
 IV. BENEFICIARIOS- Los sujetos favorecidos de una acción habitacional o de un crédito de vivienda de interés social o popular;
 
-V. CONSEJO- El Consejo Asesor de Vivienda del Distrito Federal;
+V. (DEROGADA, G.O. 29 DE ENERO DE 2004)
 
 VI. CRÉDITO DE VIVIENDA- Son los préstamos que se conceden con la finalidad de adquirir suelo, construir, rehabilitar, mejorar y ampliar, complementar o adquirir una vivienda;
 
@@ -276,13 +276,17 @@ V. Los procedimientos que permitan orientar e informar con oportunidad y clarida
 
 Artículo 20 El Programa de Vivienda comprende las siguientes previsiones sobre suelo urbano:
 
-I. La adquisición de suelo, se hará como lo establece el Programa General de Desarrollo Urbano del Distrito Federal en zonas con potencial de desarrollo, de mejoramiento y de reciclamiento, mismos que definen la densidad e intensidad de uso;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
+
+I. La adquisición de suelo, se hará como lo establecen los Programas de Desarrollo Urbano General, Delegacionales y Parciales en zonas con potencial de desarrollo, de mejoramiento y de reciclamiento, mismos que definen la delimitación, zonificación y normativa aplicable en dichas áreas;
 
 II. La conformación de un inventario de información pública que contendrá requerimientos, características, disponibilidades, datos económicos y catastrales del suelo de uso habitacional del Distrito Federal;
 
 III. Las medidas de simplificación del proceso de desincorporación y enajenación de las reservas territoriales del Gobierno del Distrito Federal;
 
-IV. Los criterios para la conformación y consolidación de una Bolsa de Suelo Urbano e Inmuebles Habitacionales con viabilidad técnica y jurídica para el desarrollo habitacional, que evite la especulación de suelo urbano y el crecimiento urbano en zona de reserva, en concordancia con los diferentes Programas de Desarrollo Urbano y Protección Ecológica del Distrito Federal;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
+
+IV. Los criterios para la conformación y consolidación de una Bolsa de Suelo Urbano e Inmuebles Habitacionales con viabilidad técnica y jurídica para el desarrollo habitacional, que evite la especulación de suelo urbano y el crecimiento urbano en zona de reserva, en concordancia con los diferentes Programas de Desarrollo Urbano y de Ordenamiento Ecológico del Distrito Federal;
 
 V. Las previsiones de suelo para la dotación de infraestructura, equipamiento, servicios y fomento del pequeño comercio necesario en los espacios habitacionales;
 
@@ -506,31 +510,19 @@ Artículo 59 Para la investigación y desarrollo de la innovación tecnológica 
 
 Artículo 60 Las autoridades y los organismos responsables de la vivienda promoverán la participación civil en los procesos de planeación, programación y evaluación habitacionales.
 
-Artículo 61 El Consejo Asesor de Vivienda es un órgano permanente de consulta y asesoramiento del Jefe de Gobierno del Distrito Federal, en asuntos relacionados con la definición de políticas, elaboración, ejecución y evaluación de programas, así como otros mecanismos e instrumentos concernientes al desarrollo de la vivienda.
+Artículo 61 (DEROGADO, G.O. 29 DE ENERO DE 2004)
 
-Artículo 62 El Consejo tendrá las siguientes atribuciones:
+Artículo 62 (DEROGADO, G.O. 29 DE ENERO DE 2004)
 
-I. Opinar y formular recomendaciones sobre políticas, programas y acciones relacionadas con el fomento y promoción de vivienda, en particular la destinada a los sectores sociales de atención prioritaria;
+Artículo 63 (DEROGADO, G.O. 29 DE ENERO DE 2004)
 
-II. Proponer otras instancias y mecanismos de participación ciudadana para la formulación y seguimiento de programas y acciones en materia de vivienda;
+Artículo 64 (DEROGADO, G.O. 29 DE ENERO DE 2004)
 
-III. Propiciar la colaboración de los sectores público, social y privado en el fomento y promoción de actividades y servicios para el desarrollo de la vivienda;
+Artículo 65 (DEROGADO, G.O. 29 DE ENERO DE 2004)
 
-IV. Proponer y, en su caso, realizar estudios que sirvan de base para la elaboración, seguimiento y evaluación de programas y acciones específicos de vivienda; y
+Artículo 66 (DEROGADO, G.O. 29 DE ENERO DE 2004)
 
-V. Las demás que le encomiende el Jefe de Gobierno del Distrito Federal.
-
-Artículo 63 El Consejo tendrá como Presidente al Jefe de Gobierno del Distrito Federal, quien a su vez designará a un suplente en la persona del Secretario de Desarrollo Urbano y Vivienda.
-
-Artículo 64 El Consejo estará integrado por miembros de organismos, instituciones y organizaciones de los sectores publico, social y privado, en representación de los agentes que intervienen en el proceso habitacional.
-
-Artículo 65 Los trabajos del Consejo serán apoyados por un secretariado técnico.
-
-Artículo 66 Para el eficaz cumplimiento de sus funciones y actividades, el Consejo podrá establecer las comisiones que considere pertinentes para el logro de sus objetivos, las cuales actuarán en los términos de las bases de organización y funcionamiento que establezca el propio Consejo.
-
-Artículo 67 Los titulares de las unidades administrativas, de los organismos, empresas o fideicomisos sectorizados en la Secretaría, al efecto, acudirán a sus sesiones cuando sean requeridos para ello por el Secretariado Técnico y apoyarán las tareas de conformidad a la normativa que rija al Consejo.
-
-También podrán asistir a las sesiones y colaborar en las tareas del Consejo, los titulares de otras unidades administrativas del Gobierno del Distrito Federal cuando, a juicio del Secretariado Técnico, la naturaleza de los asuntos a tratar lo haga necesario.
+Artículo 67 (DEROGADO, G.O. 29 DE ENERO DE 2004)
 
 ### CAPÍTULO IX. DE LA PARTICIPACIÓN Y LAS RESPONSABILIDADES
 
@@ -593,3 +585,9 @@ En cumplimiento de lo dispuesto por los artículos 122, apartado C. Base Segunda
 G.O. 5 DE SEPTIEMBRE DE 2000.
 
 UNICO.- El presente decreto entrará en vigor el mismo día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 29 DE ENERO DE 2004.
+
+PRIMERO.- En tanto se expiden las disposiciones administrativas que derivan de las presentes adiciones y modificaciones, seguirán en vigor aquellas que no las contravengan.
+
+SEGUNDO.- Las referencias hechas al Consejo Asesor de Vivienda del Distrito Federal, en esta Ley y en otros ordenamientos, se entenderán hechas al Consejo Asesor de Desarrollo Urbano y Vivienda, establecido en la Ley de Desarrollo Urbano del Distrito Federal.
