@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-los-derechos-3400
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-29"
-last_updated: "2003-09-29"
+last_updated: "2005-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34003&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2003-08-12"
 
 REGLAMENTO INTERNO DE LA COMISION NACIONAL DE LOS DERECHOS HUMANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ENERO DE 2005.
 
-Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 29 de septiembre de 2003.
+Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el lunes 29 de septiembre de 2003.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Comisión Nacional de los Derechos Humanos.
 
@@ -255,11 +255,13 @@ II. Coordinación General de Comunicación y Proyectos;
 
 III. Dirección General de Quejas y Orientación;
 
-IV. Dirección General de la Presidencia;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2005)</small>
+
+IV. Dirección General de Planeación y Análisis;
 
 V. Dirección General de Información Automatizada;
 
-VI. Dirección General de Vinculación Interinstitucional;
+VI. (DEROGADA, D.O.F. 3 DE ENERO DE 2005)
 
 VII. Dirección General de Asuntos Jurídicos;
 
@@ -272,6 +274,14 @@ X. Las demás que se establezcan en los correspondientes acuerdos administrativo
 La Comisión Nacional también contará con un órgano interno de control, el cual tendrá las atribuciones y estructura previstas en el presente Reglamento.
 
 Con las excepciones establecidas en la Ley y en este Reglamento, corresponde al presidente de la Comisión Nacional nombrar y remover libremente a todo el personal, con apego a lo dispuesto en las fracciones VII y IX del apartado B del artículo 123 constitucional, así como en el Estatuto del Servicio Civil de Carrera de la misma Comisión Nacional.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2005)</small>
+
+Se reserva en exclusiva al Presidente de la Comisión Nacional el nombramiento y remoción de los Visitadores Generales, del Secretario Ejecutivo, del Secretario de Administración, del Coordinador General de Comunicación y Proyectos y de los Directores Generales de sus respectivas áreas, así como la designación de los titulares de las Unidades Administrativas que apoyan el despacho de los asuntos que corresponden directamente a esta Presidencia.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2005)</small>
+
+Sin perjuicio de lo anterior, los titulares de las Visitadurías Generales, de las Secretarías Ejecutiva y Técnica del Consejo Consultivo y los titulares de las Unidades Administrativas a que hacen referencia los artículos 21 y 37 del Reglamento Interno, tendrán la facultad de nombrar y remover al personal de confianza de su adscripción, con apego a lo dispuesto en las fracciones VII y IX del apartado "B" del artículo 123 constitucional, dando el correspondiente aviso al Presidente de la Comisión.
 
 ###### Artículo 22.
 
@@ -413,35 +423,39 @@ II. Atención al Público.
 
 Además, contará con el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2005)</small>
+
 ###### Artículo 28.
 
-(De la Dirección General de la Presidencia)
+(De la Dirección General de Planeación y Análisis)
 
-La Dirección General de la Presidencia tendrá las siguientes atribuciones:
+La Dirección General de Planeación y Análisis tendrá las siguientes atribuciones:
 
-I. Fortalecer la cooperación y colaboración de la Comisión Nacional con los organismos locales, a fin de unificar criterios y realizar acciones conjuntas que intensifiquen la lucha por la protección, defensa, observancia, promoción, estudio y divulgación de los derechos humanos;
+I. Elaborar el proyecto de informe anual de actividades de la Comisión Nacional y el proyecto de programa anual de trabajo de la Comisión Nacional, con base en los programas, objetivos y acciones proyectadas por cada uno de los órganos y unidades administrativas;
 
-II. Elaborar el proyecto de informe anual de actividades de la Comisión Nacional y el proyecto de programa anual de trabajo de la Comisión Nacional, con base en los programas, objetivos y acciones proyectadas por cada uno de los órganos y unidades administrativas;
+II. Sistematizar la información que emiten los órganos y unidades administrativas de la Comisión Nacional, respecto al cumplimiento en las metas y avances programados;
 
-III. Planear y evaluar los programas, objetivos y acciones contenidos en el programa anual de trabajo de la Comisión Nacional, así como sistematizar la información sobre su cumplimiento por parte de los órganos y unidades administrativas de la Comisión Nacional, a efecto de formular, en coordinación con la Secretaría Técnica del Consejo Consultivo, el Informe Anual de Actividades;
+III. Evaluar la congruencia de los proyectos y programas propuestos por los diferentes órganos y unidades administrativas, con base a los resultados que se obtengan de la sistematización de la información y las políticas y lineamientos que establezca el Presidente de la Comisión Nacional;
 
-IV. Proporcionar asesoría y orientar a los órganos y unidades administrativas de la Comisión Nacional que requieran apoyo para la elaboración de los proyectos de convenios de colaboración, cooperación e intercambio que se pretenda celebrar;
+IV. Formular, en coordinación con el Centro Nacional de Derechos Humanos, el Informe Anual de Actividades;
 
-V. Proponer al presidente de la Comisión Nacional las iniciativas de reformas a documentos normativos o a practicas administrativas que redunden en una mejor protección de los derechos humanos.
+V. Proponer al presidente de la Comisión Nacional las iniciativas de reformas a documentos normativos o a prácticas administrativas que redunden en una mejor protección de los derechos humanos;
 
 VI. Realizar las investigaciones y estudios que le sean encomendados por el presidente de la Comisión Nacional, y
 
 VII. Las demás que le confieran las disposiciones legales, así como aquellas que le asigne el presidente de la Comisión Nacional.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2005)</small>
+
 ###### Artículo 29.
 
-(Estructura de la Dirección General de la Presidencia)
+(Estructura de la Dirección General de Planeación y Análisis)
 
-Para el ejercicio de sus atribuciones, la Dirección General de la Presidencia contará con las siguientes áreas:
+Para el ejercicio de sus atribuciones, la Dirección General de la Planeación y Análisis contará con las siguientes áreas:
 
-I. Enlace con Organismos Públicos de Derechos Humanos, y
+I. Planeación, y
 
-II. Estudios e Investigaciones.
+II. Análisis.
 
 Además, contará con el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
 
@@ -465,17 +479,7 @@ Para el ejercicio de sus atribuciones, la Dirección General de Información Aut
 
 ###### Artículo 32.
 
-(De la Dirección General de Vinculación Interinstitucional)
-
-La Dirección General de Vinculación Interinstitucional tendrá a su cargo las siguientes atribuciones:
-
-I. Coordinar las relaciones interinstitucionales de la Comisión Nacional con los Poderes de la Unión y los entes públicos federales y autónomos;
-
-II. Proponer al presidente de la Comisión Nacional proyectos que fortalezcan las actividades sustantivas en el marco de la vinculación interinstitucional, y
-
-III. Las demás atribuciones que las disposiciones legales le confieran.
-
-Para el cumplimiento de sus atribuciones la Dirección General de Vinculación Interinstitucional contará con un titular y el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
+(DEROGADO, D.O.F. 3 DE ENERO DE 2005)
 
 ###### Artículo 33.
 
@@ -511,7 +515,25 @@ III. Contribuir a la formación de investigadores en materia de derechos humanos
 
 IV. Dirigir, impulsar e incrementar el acervo de la Biblioteca de la Comisión Nacional, así como apoyar, a través de los servicios bibliotecarios con los que cuenta, a los órganos y unidades administrativas de la Comisión Nacional, investigadores, especialistas y público en general, y
 
-V. Las demás que le confieran las disposiciones legales, así como aquellas que le asigne el presidente de la Comisión Nacional.
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2005)</small>
+
+V. Organizar el material y supervisar la publicación de la Gaceta;
+
+> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 2005)</small>
+
+VI. Programar, previo dictamen y coordinar la edición de las publicaciones que realice la Comisión Nacional;
+
+> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 2005)</small>
+
+VII. Supervisar las actividades de distribución y comercialización de las publicaciones;
+
+> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 2005)</small>
+
+VIII. Colaborar con la Dirección General de la Planeación y Análisis en la elaboración del informe anual de actividades, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 2005)</small>
+
+IX. Las demás que le confieran las disposiciones legales, así como aquellas que le asigne el presidente de la Comisión Nacional.
 
 ###### Artículo 35.
 
@@ -527,9 +549,17 @@ III. Proyectos de Investigación;
 
 IV. Desarrollo y Metodología de la Investigación;
 
-V. Enlace con Instituciones Educativas y Culturales, y
+V. Enlace con Instituciones Educativas y Culturales, y (sic)
 
-VI. Biblioteca.
+VI. Biblioteca;
+
+> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 2005)</small>
+
+VII. Editorial, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 2005)</small>
+
+VIII. Publicaciones.
 
 Además, contará con el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
 
@@ -683,21 +713,21 @@ II. Brindar a los consejeros el apoyo necesario para el mejor cumplimiento de su
 
 III. Proponer el proyecto de acta de las sesiones ordinarias y extraordinarias que el Consejo Consultivo celebre.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2005)</small>
+
 B. En cuanto al área operativa de la Comisión:
 
-I. Organizar el material y supervisar la publicación de la Gaceta;
+I. Diseñar y ejecutar los programas de capacitación continua en materia de derechos humanos, para el público en general;
 
-II. Programar, previo dictamen, la edición de las publicaciones que realice la Comisión Nacional;
+II. Promover, fortalecer e impulsar la colaboración y las relaciones con las organizaciones no gubernamentales pro derechos humanos en el país y con los poderes de la Unión;
 
-III. Supervisar las actividades de distribución y comercialización de las publicaciones;
+III. Apoyar las relaciones interinstitucionales de la Comisión Nacional con los Poderes de la Unión y los entes públicos federales y autónomos;
 
-IV. Diseñar y ejecutar los programas de capacitación, difusión y educación continua en materia de derechos humanos;
+IV. Proponer al presidente de la Comisión Nacional proyectos que fortalezcan las actividades sustantivas en el marco de la vinculación interinstitucional;
 
-V. Promover, fortalecer e impulsar la colaboración y las relaciones con las organizaciones no gubernamentales pro derechos humanos en el país, en los temas del ámbito de sus atribuciones;
+V. Fortalecer la cooperación y colaboración de la Comisión Nacional con los organismos locales, a fin de unificar criterios y realizar acciones conjuntas que intensifiquen la lucha por la protección, defensa, observancia, promoción, estudio y divulgación de los derechos humanos, y
 
-VI. Colaborar con la Dirección General de la Presidencia en la elaboración del informe anual de actividades, y
-
-VII. Las demás que le confieran las disposiciones legales, así como aquellas que le asignen el presidente de la Comisión Nacional o el Consejo Consultivo.
+VI. Las demás que le confieran las disposiciones legales, así como aquellas que le asignen el presidente de la Comisión Nacional o el Consejo Consultivo.
 
 ###### Artículo 52.
 
@@ -705,15 +735,25 @@ VII. Las demás que le confieran las disposiciones legales, así como aquellas q
 
 Para el ejercicio de sus atribuciones, la Secretaría Técnica del Consejo Consultivo contará con un titular y las siguientes áreas:
 
-I. Enlace;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2005)</small>
 
-II. Capacitación y Educación Continua;
+I. Vinculación Interinstitucional;
 
-III. Editorial;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2005)</small>
 
-IV. Publicaciones, y
+II. Enlace y Desarrollo con Organismos No Gubernamentales;
 
-V. Control y Seguimiento.
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2005)</small>
+
+III. Capacitación y Educación Continua;
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2005)</small>
+
+IV. Enlace y Promoción con Comisiones Estatales, y
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2005)</small>
+
+V. Supervisión y Control Operativo.
 
 Además, contará con el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
 
@@ -954,6 +994,14 @@ En los casos que el quejoso o su representante soliciten la expedición de copia
 (Confidencialidad)
 
 Las investigaciones que realice el personal de la Comisión Nacional, los trámites de procedimiento que se lleven a cabo en cada expediente de queja, así como la documentación recibida por la autoridad y los quejosos, se manejará dentro de la más absoluta reserva, en los términos de lo dispuesto en el segundo párrafo del artículo 4o. de la Ley. En todo caso, las actuaciones se ajustarán a lo previsto en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y al Reglamento de Transparencia y Acceso a la Información de la Comisión Nacional. Lo anterior, sin perjuicio de las consideraciones que en casos concretos se puedan formular a través de las recomendaciones, las declaraciones y los informes anuales o especiales.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2005)</small>
+
+Cuando se solicite el acceso o copias de información que obre dentro de los expedientes tramitados ante la Comisión Nacional por una persona que hubiere tenido la calidad de quejoso o agraviado en dicho expediente, podrá otorgársele ésta previo acuerdo suscrito por el Visitador General, siempre y cuando se satisfagan los siguientes requisitos:
+
+I. El trámite del expediente se encuentre concluido, y
+
+II. El contenido del expediente, no sea susceptible de clasificarse como información reservada o confidencial, en términos de lo dispuesto por los artículos 13, 14 y 18 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
 
 ###### Artículo 79.
 
@@ -1807,6 +1855,42 @@ f) Conclusiones.
 
 En el caso de informes especiales dirigidos a alguna autoridad, la Comisión Nacional no estará obligada a dar seguimiento; sin embargo, se hará constar en el expediente respectivo toda aquella información que se reciba sobre las medidas que se hubieren tomado y la autoridad haga del conocimiento de la Comisión Nacional.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, D.O.F. 3 DE ENERO DE 2005)</small>
+
+## TITULO VII. DE LA EJECUCION DE SANCIONES ADMINISTRATIVAS
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 3 DE ENERO DE 2005)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2005)</small>
+
+###### Artículo 176.
+
+Para la imposición y ejecución de las sanciones administrativas a que hace referencia el artículo 13 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos se seguirán los siguientes criterios:
+
+I. La amonestación pública o la amonestación privada serán impuestas por el Titular del Organo Interno de Control y ejecutadas por el Jefe Inmediato del servidor público sancionado;
+
+II. La suspensión o la destitución del puesto, serán impuestas por el Titular del Organo Interno de Control y ejecutadas por el Titular del Organo o Unidad Administrativa de esta Comisión Nacional, a la que esté adscrito el servidor público sancionado;
+
+III. La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público, será impuesta por el Titular del Organo Interno de Control y ejecutada en los términos de la resolución dictada, y
+
+IV. Las sanciones económicas serán impuestas por el Titular del Organo Interno de Control y ejecutadas, en primera instancia por el Director General de Finanzas de la Secretaría de Administración y, en el caso de que sean agotadas las acciones de cobro sin la debida respuesta por el servidor público responsable, las sanciones serán ejecutadas por la Tesorería de la Federación.
+
+El incumplimiento a lo dispuesto en este artículo por parte del Titular del Organo Interno de Control, del Jefe Inmediato, del Secretario de Administración, será causa de responsabilidad administrativa en los términos de la Ley de la materia.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2005)</small>
+
+###### Artículo 177.
+
+En el acto de ejecución de las sanciones administrativas, deberá estar presente un representante de la Dirección General de Asuntos Jurídicos y uno del Area de Recursos Humanos, para los efectos de la misma en virtud de sus respectivas atribuciones.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2005)</small>
+
+###### Artículo 178.
+
+En la sustanciación de los procedimientos que se instruyan ante el Tribunal Federal de Justicia Fiscal y Administrativa y en el Poder Judicial de la Federación, en los que el Organo Interno de Control sea parte, como consecuencia de la aplicación de sus atribuciones, éste elaborará las promociones que sean necesarias bajo su más estricta responsabilidad, para que a través de la Dirección General de Asuntos Jurídicos, se hagan valer toda clase de derechos, defensas, excepciones y recursos.
+
 ## TRANSITORIOS
 
 Primero. (Entrada en vigor del Reglamento Interno).
@@ -1826,3 +1910,19 @@ Cuarto. (Plazo para la elaboración del Manual de Organización General de la Co
 El Manual de Organización General de la Comisión Nacional de los Derechos Humanos será expedido dentro de los seis meses siguientes a la entrada en vigor del presente Reglamento Interno, y deberá ser publicado en el Diario Oficial de la Federación.
 
 Ciudad de México, Distrito Federal, a doce de agosto de dos mil tres.- El Presidente de la Comisión Nacional de los Derechos Humanos y de su Consejo Consultivo, José Luis Soberanes Fernández.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 3 DE ENERO DE 2005.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los asuntos pendientes al entrar en vigor este decreto, que conforme al mismo deban pasar de una unidad administrativa u órgano sustantivo a otra, continuarán su trámite y serán resueltos por aquella a la que se le haya atribuido la competencia en el presente Reglamento.
+
+TERCERO. Los recursos humanos, materiales y financieros adscritos a la Dirección General de Vinculación Interinstitucional necesarios para que la Secretaría Técnica del Consejo Consultivo desarrolle adecuadamente sus funciones, pasarán a ésta.
+
+CUARTO. Los recursos humanos, materiales y financieros adscritos a la Secretaría Técnica del Consejo Consultivo, necesarios para que el Centro Nacional de Derechos Humanos desarrolle adecuadamente las funciones de publicación y edición, pasarán a éste.
+
+QUINTO. La parte conducente del Manual de Organización General de la Comisión Nacional de los Derechos Humanos que refleje las modificaciones realizadas al Reglamento Interno, será expedida dentro de los seis meses siguientes a la entrada en vigor del presente Acuerdo, y deberá ser publicada en el Diario Oficial de la Federación.
+
+SEXTO. Este Acuerdo deberá ser publicado en la Gaceta de la Comisión Nacional de los Derechos Humanos y en el Diario Oficial de la Federación.
