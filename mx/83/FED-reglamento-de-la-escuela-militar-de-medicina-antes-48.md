@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-escuela-militar-de-medicina-antes-48"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-04-13"
-last_updated: "2002-10-25"
+last_updated: "2004-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-04-12"
 
 REGLAMENTO DE LA ESCUELA MEDICO MILITAR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE OCTUBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE AGOSTO DE 2004.
 
 Reglamento Publicado en la Segunda Sección del Diario Oficial de la Federación el martes 13 de abril de 1993.
 
@@ -1143,9 +1143,9 @@ El personal en instrucción que cause baja por situarse en lo establecido en el 
 
 ### CAPITULO I. De los Títulos, Certificados y Patentes
 
-> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 16 DE AGOSTO DE 2004)</small>
 
-###### ARTICULO 78.
+###### ARTÍCULO 78.
 
 El personal en instrucción que termine satisfactoriamente sus estudios y apruebe el examen profesional obtendrá:
 
@@ -1155,17 +1155,19 @@ A. Certificado de Estudios;
 
 B. Título de Médico Cirujano Militar;
 
-C. Grado de Mayor Médico Cirujano, y
+C. Grado de Mayor Médico Cirujano;
 
-D. Patente correspondiente.
+D. Patente, y
+
+E. Placa distintiva de la escuela.
 
 II. Personal de Nacionalidad Extranjera:
 
-A. Título de Médico Cirujano, y
+A. Certificado de Estudios;
 
-B. Certificado de Estudios.
+B. Título de Médico Cirujano, y
 
-El grado de Mayor Médico Cirujano Militar, será otorgado mediante Acuerdo expedido por el Presidente de los Estados Unidos Mexicanos.
+C. Placa distintiva de la escuela.
 
 > <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
@@ -1205,7 +1207,7 @@ VII. Otros que determine la Secretaría de la Defensa Nacional.
 
 ###### ARTICULO 81.
 
-El personal en instrucción que termine satisfactoriamente sus estudios, además de lo establecido en este Reglamento recibirá Placa Distintiva de la Escuela Médico Militar.
+(DEROGADO, D.O.F. 16 DE AGOSTO DE 2004)
 
 ## TITULO NOVENO. Disposiciones Complementarias
 
@@ -1304,6 +1306,12 @@ PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 D.O.F. 25 DE OCTUBRE DE 2002.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE AGOSTO DE 2004.
 
 ###### ARTÍCULO ÚNICO.
 
