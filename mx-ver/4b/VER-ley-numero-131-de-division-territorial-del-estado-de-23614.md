@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-131-de-division-territorial-del-estado-de-23614"
 country: "mx"
 rank: "ley"
 publication_date: "1988-07-14"
-last_updated: "1988-07-14"
+last_updated: "1989-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,104 +21,622 @@ state: "VER"
 ---
 # LEY NUMERO 131 DE DIVISION TERRITORIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE PARA LA ELECCION DEL PODER LEGISLATIVO DEL MISMO
 
-ACUERDO GENERAL 2/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL JUZGADO SEGUNDO DE DISTRITO EN MATERIA MERCANTIL FEDERAL EN EL ESTADO DE PUEBLA, ESPECIALIZADO EN JUICIOS ORALES, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO DE LA MATERIA INDICADA; AL CAMBIO DE DENOMINACIÓN DEL JUZGADO DE DISTRITO EN MATERIA MERCANTIL FEDERAL EN EL ESTADO DE PUEBLA, ESPECIALIZADO EN JUICIOS ORALES; A LA CREACIÓN E INICIO DE FUNCIONES DE LA OFICINA DE CORRESPONDENCIA COMÚN QUE LES PRESTARÁ SERVICIO; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO
+LEY DE DIVISION TERRITORIAL DEL ESTADO DE VERACRUZ-LLAVE, PARA LA ELECCION DEL PODER LEGISLATIVO DEL MISMO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE ABRIL DE 1989.
 
-Acuerdo publicado en el Diario Oficial de la Federación, el viernes 28 de abril de 2023.
+Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 14 de julio de 1988.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
+FERNANDO GUTIERREZ BARRIOS, Gobernador Constitucional del Estado Libre y Soberano de Veracruz-Llave, a sus habitantes, sabed:
 
-ACUERDO GENERAL 2/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL JUZGADO SEGUNDO DE DISTRITO EN MATERIA MERCANTIL FEDERAL EN EL ESTADO DE PUEBLA, ESPECIALIZADO EN JUICIOS ORALES, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO DE LA MATERIA INDICADA; AL CAMBIO DE DENOMINACIÓN DEL JUZGADO DE DISTRITO EN MATERIA MERCANTIL FEDERAL EN EL ESTADO DE PUEBLA, ESPECIALIZADO EN JUICIOS ORALES; A LA CREACIÓN E INICIO DE FUNCIONES DE LA OFICINA DE CORRESPONDENCIA COMÚN QUE LES PRESTARÁ SERVICIO; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO.
+Que la H. Legislatura del mismo se ha servido expedir la siguiente
 
-CONSIDERANDO
+LEY
 
-PRIMERO. En términos de lo dispuesto por los artículos 94, párrafo segundo, 100, párrafos primero y noveno, de la Constitución Política de los Estados Unidos Mexicanos; 73 y 86, fracción II, de la Ley Orgánica del Poder Judicial de la Federación, el Consejo de la Judicatura Federal es el órgano encargado de la administración, vigilancia, disciplina y carrera judicial del Poder Judicial de la Federación, con independencia técnica, de gestión y para emitir sus resoluciones; además, está facultado para expedir acuerdos generales que permitan el adecuado ejercicio de sus funciones;
+Al margen un sello con el Escudo Nacional que dice: "Estados Unidos Mexicanos.- Poder Legislativo Estado Libre y Soberano de Veracruz-Llave.
 
-SEGUNDO. Los artículos 94, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos; 86, fracciones III, V y XXIV, así como 124 de la Ley Orgánica del Poder Judicial de la Federación establecen que son atribuciones del Consejo de la Judicatura Federal determinar el número, límites territoriales y, en su caso, especialización por materia de los Juzgados de Distrito en cada uno de los circuitos, así como dictar las disposiciones necesarias para regular el turno de los asuntos de su competencia, cuando en un mismo lugar haya varios de ellos. Estas atribuciones se ejercen a través de la Comisión de Creación de Nuevos Órganos, en términos del artículo 42, fracciones II y III, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo;
+LA HONORABLE QUINQUAGESIMA CUARTA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE, EN USO DE LA FACULTAD QUE LE CONCEDE LA FRACCION I, DEL ARTICULO 68 DE LA CONSTITUCION POLITICA LOCAL, Y EN NOMBRE DEL PUEBLO EXPIDE LA SIGUIENTE
 
-TERCERO. El artículo 17, párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos establece que los tribunales estarán expeditos para impartir justicia en los plazos y términos que fijen las leyes;
+LEY Número 131
 
-CUARTO. El Pleno del Consejo de la Judicatura Federal, en sesión celebrada el 10 de agosto de 2022, aprobó el dictamen relativo a la creación de un Juzgado de Distrito en Materia Mercantil Federal en el Estado de Puebla, Especializado en Juicios Orales, que modificó el Programa de Creación de Nuevos Órganos 2022;
+DE DIVISION TERRITORIAL DEL ESTADO DE VERACRUZ-LLAVE, PARA LA ELECCION DEL PODER LEGISLATIVO DEL MISMO
 
-QUINTO. El incremento en el número de ingresos y la complejidad en su trámite ha ocasionado el aumento en las cargas de trabajo que registra el Juzgado de Distrito en Materia Mercantil Federal en el Estado de Puebla, Especializado en Juicios Orales. En ese contexto, resulta oportuno el inicio de funciones del Juzgado Segundo de Distrito en Materia Mercantil Federal, Especializado en Juicios Orales en esa residencia; así como de la Oficina de Correspondencia Común que les prestará servicio; y
+###### ARTICULO 1°.
 
-SEXTO. En la actualidad se cuenta con la infraestructura física necesaria para la instalación e inicio de funciones del Juzgado Segundo de Distrito en Materia Mercantil Federal en el estado de Puebla, Especializado en Juicios Orales y de la Oficina de Correspondencia Común de los Juzgados de Distrito en Materia Mercantil Federal en el Estado de Puebla, Especializados en Juicios Orales.
+Esta Ley tiene por objeto, determinar el número y ámbito espacial de la demarcación territorial de los distritos electorales uninominales y de la circunscripción plurinominal en el Estado.
 
-Por lo anterior, se expide el siguiente
+###### ARTICULO 2°.
 
-ACUERDO
+Para los efectos de esta Ley, se entiende por Distrito Electoral Uninominal, la demarcación territorial en que se divide el Estado de Veracruz, para la recepción del sufragio, en las elecciones de diputados por el principio de mayoría relativa, con base en la cual se elaborarán las listas nominales de electores y por Circunscripción Plurinominal, se entiende el territorio de toda la Entidad, para la elección por el principio de representación proporcional.
 
-###### Artículo 1.
+###### ARTICULO 3°.
 
-El órgano jurisdiccional que se crea se denomina Juzgado Segundo de Distrito en Materia Mercantil Federal en el Estado de Puebla, Especializado en Juicios Orales, y tendrá igual competencia y jurisdicción territorial que el Juzgado de Distrito en la misma especialidad, entidad y residencia.
+El Estado de Veracruz se divide en veinticuatro distritos electorales uninominales. La Jurisdicción y Cabecera de cada uno de dichos Distritos, será la siguiente:
 
-###### Artículo 2.
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 1989)</small>
 
-El Juzgado Segundo de Distrito en Materia Mercantil Federal en el Estado de Puebla, Especializado en Juicios Orales, inicia funciones el 1 de mayo de 2023.
+PRIMER DISTRITO
 
-###### Artículo 3.
+CABECERA: PANUCO
 
-El Juzgado Segundo de Distrito en Materia Mercantil Federal en el Estado de Puebla, Especializado en Juicios Orales, tiene su domicilio en el Edificio Sede del Poder Judicial de la Federación ubicado en avenida Osa Menor número 82, Ciudad Judicial Siglo XXI, Reserva Territorial Atlixcáyotl, C.P. 72810, San Andrés Cholula, Puebla.
+Municipios:
 
-Todos los trámites relacionados con los asuntos de su competencia deberán dirigirse y realizarse en el domicilio indicado.
+El Higo
 
-###### Artículo 4.
+Ozuluama
 
-A partir de la fecha señalada en el artículo 2, el actual Juzgado de Distrito en Materia Mercantil Federal en el Estado de Puebla, Especializado en Juicios Orales, cambia su denominación a Juzgado Primero de Distrito en Materia Mercantil Federal en el Estado de Puebla, Especializado en Juicios Orales y conservará la competencia, jurisdicción territorial, domicilio y sede que tiene asignadas.
+Pánuco
 
-###### Artículo 5.
+Pueblo Viejo
 
-Se crea e inicia funciones el 1 de mayo de 2023, la Oficina de Correspondencia Común de los Juzgados de Distrito en Materia Mercantil Federal en el Estado de Puebla, Especializados en Juicios Orales, que prestará servicio a los juzgados de que se trata y tendrá su domicilio en avenida Osa Menor número 82, Ciudad Judicial Siglo XXI, Reserva Territorial Atlixcáyotl, C.P. 72810, San Andrés Cholula, Puebla.
+Tampico Alto
 
-Los nuevos asuntos que se presenten en la referida Oficina de Correspondencia Común, a partir de la fecha señalada en el párrafo anterior, se distribuirán a través del sistema computarizado de recepción y distribución que se utiliza para esos efectos.
+Tempoal
 
-###### Artículo 6.
+SEGUNDO DISTRITO
 
-A fin de equilibrar la distribución de las cargas de trabajo entre los Juzgados de Distrito en Materia Mercantil Federal en el Estado de Puebla, Especializados en Juicios Orales, la Secretaría Ejecutiva de Creación de Nuevos Órganos, con apoyo de la Dirección General de Gestión Judicial, podrá establecer el turno diferenciado de asuntos por parte de la Oficina de Correspondencia Común que presta servicio a dichos órganos jurisdiccionales. La Secretaría Ejecutiva informará a la Comisión de Creación de Nuevos Órganos sobre los resultados de las medidas implementadas en este sentido.
+CABECERA: TANTOYUCA
 
-###### Artículo 7.
+Municipios:
 
-Con la finalidad de que el órgano de nueva creación cuente con asuntos desde su inicio y que se distribuyan de mejor forma las cargas de trabajo, el ahora Juzgado Primero de Distrito en Materia Mercantil Federal en el Estado de Puebla, Especializado en Juicios Orales remitirá la cantidad de asuntos en trámite, pendientes de resolución o en fase de ejecución que determine la Comisión de Creación de Nuevos Órganos, a propuesta de la Secretaría Ejecutiva.
+Citlaltépetl
 
-###### Artículo 8.
+Chalma
 
-La persona titular del órgano jurisdiccional que inicia funciones, con asistencia de una secretaria o secretario, deberá autorizar el uso de libros de control, en los que se registrarán los asuntos que reciba con motivo de sus funciones, conforme a lo dispuesto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales.
+Chiconamel
 
-Asimismo, levantará por duplicado un acta administrativa del inicio de funciones, en el formato proporcionado por la Secretaría Ejecutiva de Creación de Nuevos Órganos, remitiendo un ejemplar a ésta para su archivo.
+Chinampa de Gorostiza
 
-###### Artículo 9.
+Chontla
 
-El Juzgado Segundo de Distrito en Materia Mercantil Federal en el Estado de Puebla, Especializado en Juicios Orales, remitirá dentro de los primeros cinco días naturales de cada mes su reporte estadístico a la Dirección General de Estadística Judicial.
+Ixcatepec
 
-###### Artículo 10.
+Platón Sánchez
 
-El Pleno y las Comisiones de Creación de Nuevos Órganos; de Carrera Judicial; de Adscripción; y de Administración del Consejo de la Judicatura Federal, estarán facultados para interpretar y resolver las cuestiones administrativas que se susciten con motivo de la aplicación del presente Acuerdo en el ámbito de sus respectivas competencias.
+Tamalín
 
-###### Artículo 11.
+Tantima
 
-Se reforma el numeral SEGUNDO, fracción VI, número 4 del Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, la jurisdicción territorial y especialización por Materia de los Tribunales Colegiados de Circuito, los Tribunales Colegiados de Apelación y los Juzgados de Distrito, para quedar como sigue:
+Tantoyuca
 
-“SEGUNDO. …
+TERCER DISTRITO
 
-I. a V. …
+CABECERA: CHICONTEPEC
 
-VI. …
+Municipios:
 
-1. a 3. …
+Benito Juárez
 
-4. Dos Juzgados de Distrito en Materia Mercantil, especializados en juicios orales, con residencia en San Andrés Cholula.
+Chicontepec
 
-VII. a XXXII. …”
+Huayacocotla
+
+Ilamatlán
+
+Ixhuatlán de Madero
+
+Texcatepec
+
+Tlachichilco
+
+Zacualpan
+
+Zontecomatlán
+
+CUARTO DISTRITO
+
+CABECERA: ALAMO TEMAPACHE
+
+Municipios:
+
+Castillo de Teayo
+
+Temapache
+
+Tihuatlán
+
+QUINTO DISTRITO
+
+CABECERA: TUXPAN
+
+Municipios:
+
+Amatlán Tuxpan
+
+Cerro Azul
+
+Tamiahua
+
+Tancoco
+
+Tuxpan
+
+SEXTO DISTRITO
+
+CABECERA: POZA RICA DE HlDALGO
+
+Municipios:
+
+Cazones de Herrera
+
+Coatzintla
+
+Poza Rica de Hidalgo
+
+SEPTIMO DISTRITO
+
+CABECERA: PAPANTLA
+
+Municipios:
+
+Coahuitlán
+
+Coxquihui
+
+Coyutla
+
+Chumatlán
+
+Espinal
+
+Filomeno Mata
+
+Gutiérrez Zamora
+
+Mecatlán
+
+Papantla
+
+Tecolutla
+
+Zozocolco de Hidalgo
+
+OCTAVO DISTRITO
+
+CABECERA: MARTINEZ DE LA TORRE
+
+Municipios:
+
+Jalacingo
+
+Martínez de la Torre
+
+Nautla
+
+Tlapacoyan
+
+Vega de Alatorre
+
+NOVENO DISTRITO
+
+CABECERA: MISANTLA
+
+Municipios:
+
+Acatlán
+
+Alto Lucero
+
+Coacoatzintla
+
+Colipa
+
+Chiconquiaco
+
+Juchique de Ferrer
+
+Landero y Coss
+
+Miahuatlán
+
+Misantla
+
+Naolinco
+
+Tenochtitlán
+
+Tepetlán
+
+Tonayán
+
+Yecuatla
+
+DECIMO DISTRITO
+
+CABECERA: PEROTE
+
+Municipios:
+
+Acajete
+
+Altotonga
+
+Atzalan
+
+Ayahualulco
+
+Ixhuacán de los Reyes
+
+Las Minas
+
+Perote
+
+Rafael Lucio
+
+Tatatila
+
+Tlacolulan
+
+Las Vigas de Ramírez
+
+Villa Aldama
+
+DECIMO PRIMER DISTRITO
+
+CABECERA: XALAPA
+
+Municipios:
+
+Banderilla
+
+Jilotepec
+
+Tlalnelhuayocan
+
+Xalapa
+
+DECIMO SEGUNDO DISTRITO
+
+CABECERA: COATEPEC
+
+Municipios:
+
+Actopan
+
+Apazapan
+
+Coatepec
+
+Cosautlán de Carvajal
+
+Emiliano Zapata
+
+Jalcomulco
+
+La Antigua
+
+Paso de Ovejas
+
+Puente Nacional
+
+Teocelo
+
+Ursulo Galván
+
+Xico
+
+DECIMO TERCER DISTRITO
+
+CABECERA: PASO DEL MACHO
+
+Municipios:
+
+Alpatláhuac
+
+Atoyac
+
+Calcahualco
+
+Camarón de Tejeda
+
+Carrillo Puerto
+
+Comapa
+
+Coscomatepec
+
+Cotaxtla
+
+Chocamán
+
+Huatusco
+
+Ixhuatlán del Café
+
+Sochiapa
+
+Soledad de Doblado
+
+Tenampa
+
+Tepatlaxco
+
+Tlacopetec de Mejía
+
+Tlaltetela
+
+Tomatlán
+
+Totutla
+
+Zentla
+
+DECIMO CUARTO DISTRITO
+
+CABECERA: ORIZABA
+
+Municipios:
+
+Acultzingo
+
+Aquila
+
+Atzacan
+
+Camerino Z. Mendoza
+
+Huiloapan de Cuauhtémoc
+
+Ixhuatlancillo
+
+Maltrata
+
+Mariano Escobedo
+
+Nogales
+
+Orizaba
+
+La Perla
+
+Rafael Delgado
+
+Río Blanco
+
+DECIMO QUINTO DISTRITO
+
+CABECERA: CORDOBA
+
+Municipios:
+
+Amatlán de los Reyes
+
+Coetzala
+
+Córdoba
+
+Cuichapa
+
+Cuitláhuac
+
+Fortín
+
+Ixtaczoquitlán
+
+Naranjal
+
+Omealca
+
+Tezonapa
+
+Yanga
+
+DECIMO SEXTO DISTRITO
+
+CABECERA: ZONGOLICA
+
+Municipios:
+
+Astacinga
+
+Atlahuilco
+
+Magdalena
+
+Mixtla de Altamirano
+
+Los Reyes
+
+San Andrés Tenejapa
+
+Soledad Atzompa
+
+Tehuipango
+
+Tequila
+
+Texhuacan
+
+Tlaquilpa
+
+Tlilapan
+
+Xoxocotla
+
+Zongolica
+
+DECIMO SEPTIMO DISTRITO
+
+CABECERA: VERACRUZ
+
+Municipios:
+
+Veracruz
+
+DECIMO OCTAVO DISTRITO
+
+CABECERA: BOCA DEL RIO
+
+Municipios:
+
+Boca del Río
+
+Ignacio de la Llave
+
+Jamapa
+
+Manlio Fabio Altamirano
+
+Medellín
+
+Tlalixcoyan
+
+Veracruz (área rural)
+
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 1989)</small>
+
+DECIMO NOVENO DISTRITO
+
+CABECERA: COSAMALOAPAN
+
+Municipios:
+
+Acula
+
+Alvarado
+
+Amatitlán
+
+Chacaltianguis
+
+Cosamaloapan
+
+Ixmatlahuacan
+
+Otatitlán
+
+Tierra Blanca
+
+Tlacojalpan
+
+Tlacotalpan
+
+Tres Valles
+
+Tuxtilla
+
+VIGESIMO DISTRITO
+
+CABECERA: SAN ANDRES TUXTLA
+
+Municipios:
+
+Angel R. Cabada
+
+Catemaco
+
+Isla
+
+José Azueta
+
+Lerdo de Tejada
+
+Playa Vicente
+
+Saltabarranca
+
+San Andrés Tuxtla
+
+Santiago Tuxtla
+
+VIGESIMO PRIMER DISTRITO
+
+CABECERA: ACAYUCAN
+
+Municipios:
+
+Acayucan
+
+Hueyapan de Ocampo
+
+Jesús Carranza
+
+Juan Rodríguez Clara
+
+Oluta
+
+San Juan Evangelista
+
+Sayula de Alemán
+
+Soconusco
+
+VIGESIMO SEGUNDO DISTRITO
+
+CABECERA: COSOLEACAQUE
+
+Municipios:
+
+Chinameca
+
+Cosoleacaque
+
+Hidalgotitlán
+
+Jáltipan
+
+Mecayapan
+
+Oteapan
+
+Pajapan
+
+Soteapan
+
+Texistepec
+
+Zaragoza
+
+VIGESIMO TERCER DISTRITO
+
+CABECERA: MINATITLAN
+
+Municipios:
+
+Las Choapas
+
+Minatitlán
+
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 1989)</small>
+
+VIGESIMO CUARTO DISTRITO
+
+CABECERA: COATZACOALCOS
+
+Municipios:
+
+Agua Dulce
+
+Coatzacoalcos
+
+Ixhuatlán del Sureste
+
+Moloacan
+
+Nanchital de Lázaro Cárdenas del Río.
 
 ## TRANSITORIOS
 
-PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+###### ARTICULO PRIMERO.
 
-SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+La presente Ley entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial" del Estado.
 
-TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotarán al Juzgado Segundo de Distrito en Materia Mercantil Federal en el Estado de Puebla, Especializado en Juicios Orales, de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+###### ARTICULO SEGUNDO.
 
-CUARTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio a los Juzgados de Distrito en Materia Mercantil Federal en el Estado de Puebla, Especializados en Juicios Orales.
+Queda abrogada desde esta fecha, la Ley de División Territorial del Estado de Veracruz-Llave, para la elección del Poder Legislativo del mismo, de fecha 24 de noviembre de 1964 y derogadas las demás disposiciones, que se opongan a la presente Ley.
 
-EL MAGISTRADO JOSÉ ALFONSO MONTALVO MARTÍNEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 2/2023 del Pleno del Consejo de la Judicatura Federal, relativo a la creación, denominación e inicio de funciones del Juzgado Segundo de Distrito en Materia Mercantil Federal en el estado de Puebla, especializado en juicios orales, así como su competencia, jurisdicción territorial, domicilio, reglas de turno, sistema de recepción y distribución de asuntos entre los juzgados de Distrito de la materia indicada; al cambio de denominación del juzgado de Distrito en materia mercantil federal en el estado de Puebla, especializado en juicios orales; a la creación e inicio de funciones de la oficina de correspondencia común que les prestará servicio; y que reforma el similar 3/2013, relativo a la determinación del número y límites territoriales de los circuitos judiciales en que se divide la república mexicana; y al número, la jurisdicción territorial y especialización por materia de los tribunales colegiados de Circuito, los tribunales colegiados de apelación y los juzgados de Distrito, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de 29 de marzo de 2023, por unanimidad de votos de los señores Consejeros: Presidenta Ministra Norma Lucía Piña Hernández, Bernardo Bátiz Vázquez, Eva Verónica de Gyvés Zárate, Alejandro Sergio González Bernabé y Sergio Javier Molina Martínez.- Ciudad de México, a 19 de abril de 2023.- Conste.- Rúbrica.
+DADA EN EL SALON DE SESIONES DE LA HONORABLE QUINCUAGESIMA CUARTA LEGISLATURA DEL ESTADO LIBRE Y ''SOBERANO DE VERACRUZ-LLAVE, EN LA CIUDAD DE XALAPA-ENRIQUEZ, SU CAPITAL A LOS VEINTE DIAS DEL MES DE ABRIL DE MIL NOVECIENTOS OCHENTA Y OCHO.- Diputado Presidente.- Lic. Gabriel Fuster Jiménez.- Rúbrica.- Diputado Secretario.- Prof. Arnulfo García Rangel.- Rúbrica".
+
+EN CUMPLIMIENTO DE LO DISPUESTO POR LA FRACCION I DEL ARTICULO 87 Y PRIMER PARRAFO DEL ARTICULO 93 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE, Y PARA SU DEBIDA PUBLICACION Y OBSERVANCIA, EXPIDO EL PRESENTE DECRETO EN LA RESIDENCIA DEL PODER EJECUTIVO ESTATAL, EN LA CIUDAD DE XALAPA-ENRIQUEZ, VERACRUZ A LOS VEINTINUEVE DIAS DEL MES DE ABRIL DE MIL NOVECIENTOS OCHENTA Y OCHO.
+
+FERNANDO GUTIERREZ BARRIOS
+
+EL SECRETARIO GENERAL DE GOBIERNO
+
+DANTE DELGADO RANNAURO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 1 DE ABRIL DE 1989.
+
+UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
