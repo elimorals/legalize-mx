@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1989-08-14"
+last_updated: "1990-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1990.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -797,7 +797,13 @@ XIV.- Disponer de las fuerzas de seguridad y de la Guardia Nacional, y ordenar q
 
 XV.- Nombrar y remover libremente a los funcionarios y empleados de la administración pública estatal, cuyo nombramiento y remoción no estén determinados de otro modo en esta Constitución o en las leyes;
 
-XVI.- Imponer multas hasta de quinientos pesos, o arresto hasta de quince días, por infracciones a los reglamentos gubernamentales o de policía. Sólo cuando el sancionado no pague la multa, se conmutará ésta por el arresto correspondiente;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1990)</small>
+
+XVI.- Aplicar sanciones por las infracciones de los reglamentos gubernativos y de policía, la que únicamente consistirán en multa o arresto hasta por treinta y seis horas. Pero si el infractor no pagare la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
+
+Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
+
+Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
 
 XVII.- Pedir al Congreso prórroga de sus sesiones ordinarias en el caso a que se refiere el artículo 31 de esta Constitución;
 
@@ -1397,7 +1403,7 @@ El Presidente, el Síndico y los Regidores de los Ayuntamientos, serán electos 
 
 ###### Artículo 116.
 
-Los Presidente Municipales, Síndicos y Regidores de los Ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta, o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes, sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
+Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta, o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes, sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 1987)</small>
 
@@ -2158,3 +2164,9 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Per
 P.O. 14 DE AGOSTO DE 1989.
 
 UNICO. Este decreto entrará en vigor el día siguiente al de su publicación, en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 1990.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el día 1º. de enero de 1991, previa publicación en el Periódico Oficial del Estado.
