@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-consejo-tutelar-para-menores-del-estado-de-714
 country: "mx"
 rank: "ley_organica"
 publication_date: "1980-09-17"
-last_updated: "1980-09-17"
+last_updated: "1981-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 1981.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 17 de septiembre de 1980.
 
@@ -228,6 +228,24 @@ El Consejo deberá acordar las medidas de profilaxis social que sean necesarias 
 ###### ARTICULO 26.
 
 El Consejo deberá acordar que se giren órdenes a las autoridades administrativas correspondientes, para que se impongan las sanciones económicas a que se refiere la presente Ley o, en su caso, para consignar los hechos al Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 1981)</small>
+
+###### ARTICULO 26-A.
+
+Se instituye un órgano consultivo que dependerá directamente del Ejecutivo del Estado, el cual se integrará con los miembros que éste determine y designe.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 1981)</small>
+
+###### ARTICULO 26-B.
+
+El órgano consultivo tendrá a su cargo sugerir al Ejecutivo las medidas y criterios que tiendan al mejoramiento de la función social que tiene encomendada y convenientes al buen desempeño de la Institución.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 1981)</small>
+
+###### ARTICULO 26-C.
+
+Los miembros del órgano consultivo deberán ser ciudadanos prestigiados y de reconocida calidad humana, interesados en los menores y en el tratamiento de su conducta antisocial.
 
 ### CAPITULO V (SIC). Del Procurador de Menores
 
@@ -686,3 +704,11 @@ ALFONSO G. CALDERON
 El Secretario General de Gobierno
 
 LIC. MARCO ANTONIO ARROYO CAMBERO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE ABRIL DE 1981.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
