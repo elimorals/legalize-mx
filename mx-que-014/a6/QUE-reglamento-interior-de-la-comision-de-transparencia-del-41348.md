@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-comision-de-transparencia-del-41348"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-30"
-last_updated: "2002-05-30"
+last_updated: "2004-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41348&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 REGLAMENTO INTERIOR DE LA COMISION DE TRANSPARENCIA DEL MUNICIPIO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 2004.
 
 Reglamento publicado en la Gaceta Municipal del Municipio de Querétaro, el jueves 30 de mayo de 2002.
 
@@ -71,21 +71,29 @@ El Capítulo Sexto, denominado "De las Subcomisiones", determina que para un mej
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2004)</small>
+
 ###### Artículo 1.
 
-El presente reglamento tiene por objeto regular la integración, atribuciones, facultades y funcionamiento de la Comisión de Transparencia del Municipio de Querétaro.
+El presente reglamento es de orden público e interés social y tiene por objeto regular la integración, atribuciones, facultades y funcionamiento de la Comisión de Transparencia del Municipio de Querétaro.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 2.
 
-La Comisión de Transparencia del Municipio de Querétaro, es el órgano de consulta y participación ciudadana, encargado de auxiliar a la Contraloría Interna Municipal, en la vigilancia de los recursos humanos y materiales, a fin de salvaguardar los principios de legalidad, imparcialidad, lealtad, eficiencia y honradez en la Administración Pública Municipal.
+La Comisión de Transparencia del Municipio de Querétaro, es el órgano de consulta y participación ciudadana, encargado de auxiliar a la Secretaría de la Contraloría Municipal, en la vigilancia de los recursos humanos y materiales, a fin de salvaguardar los principios de legalidad, imparcialidad, lealtad, eficiencia y honradez en la Administración Pública Municipal.
 
 ###### Artículo 3.
 
 Corresponde al H. Ayuntamiento:
 
-I. Aprobar y evaluar el cumplimiento del Plan Anual de Fortalecimiento de la Transparencia Municipal;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2004)</small>
 
-II. Designar de entre los regidores integrantes del H. Ayuntamiento, a quien deba integrar la Comisión de Transparencia del Municipio de Querétaro; y
+I. Aprobar y evaluar el cumplimiento del Plan de Fortalecimiento de la Transparencia Municipal el cual será vigente por el tiempo que dure el periodo Constitucional del Ayuntamiento que lo haya aprobado;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2004)</small>
+
+II. Designar de entre los regidores integrantes del H. Ayuntamiento, a quienes deban integrar la Comisión de Transparencia del Municipio de Querétaro; y
 
 III. Designar de entre los ciudadanos que reúnan los requisitos de la convocatoria, a los integrantes de la Comisión de Transparencia del Municipio de Querétaro, así como al Presidente de la misma.
 
@@ -93,13 +101,19 @@ III. Designar de entre los ciudadanos que reúnan los requisitos de la convocato
 
 Corresponde a la Comisión de Transparencia del Municipio de Querétaro:
 
-I. Elaborar y someter a consideración del H. Ayuntamiento el Plan Anual de Fortalecimiento de la Transparencia Municipal;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2004)</small>
 
-II. Coadyuvar con la Contraloría Interna Municipal, en el cumplimiento del Plan Anual de Fortalecimiento de la Transparencia Municipal;
+I. Elaborar y someter a consideración del H. Ayuntamiento el Plan de Fortalecimiento de la Transparencia Municipal;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2004)</small>
+
+II. Coadyuvar con la Secretaría de la Contraloría Municipal, en el cumplimiento del Plan de Fortalecimiento de la Transparencia Municipal;
 
 III. Celebrar las sesiones ordinarias, extraordinarias o solemnes que se requieran para el cumplimiento de sus funciones;
 
-IV. Promover la integración y participación de órganos de consulta, organismos ciudadanos públicos o privados, para el cumplimiento del Plan Anual de Fortalecimiento de la Transparencia Municipal;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2004)</small>
+
+IV. Promover la integración y participación de órganos de consulta, organismos ciudadanos públicos o privados, para el cumplimiento del Plan de Fortalecimiento de la Transparencia Municipal;
 
 V. Promover estudios e investigación que aporten medios, métodos de control e indicadores para el fortalecimiento de la transparencia en la Administración Pública Municipal;
 
@@ -117,9 +131,13 @@ X. Las demás que establezca expresamente el H. Ayuntamiento y el presente orden
 
 Corresponde al Presidente de la Comisión de Transparencia del Municipio de Querétaro:
 
-I. Informar al H. Ayuntamiento semestralmente sobre los resultados obtenidos en el Plan Anual de Fortalecimiento de la Transparencia Municipal;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2004)</small>
 
-II. Presidir las sesiones de la Comisión de Transparencia del Municipio de Querétaro y en su caso ejercer voto de calidad;
+I. Informar al H. Ayuntamiento anualmente sobre los resultados obtenidos en el Plan de Fortalecimiento de la Transparencia Municipal;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2004)</small>
+
+II. Presidir las sesiones de la Comisión de Transparencia del Municipio de Querétaro y en caso de empate en las votaciones, ejercer voto de calidad;
 
 III. Convocar a sesiones ordinarias, extraordinarias y solemnes, por conducto del Secretario Ejecutivo; debiendo indicar la fecha, hora, lugar y orden del día;
 
@@ -127,13 +145,17 @@ IV. Expedir los nombramientos a los integrantes de la Comisión de Transparencia
 
 V. Tomar protesta a los miembros de la Comisión de Transparencia del Municipio de Querétaro; y
 
-VI. Vigilar el cumplimiento de los acuerdos de la Comisión de Transparencia del Municipio de Querétaro, así como la ejecución del Plan Anual de Fortalecimiento de la Transparencia Municipal.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2004)</small>
+
+VI. Vigilar el cumplimiento de los acuerdos de la Comisión de Transparencia del Municipio de Querétaro, así como la ejecución del Plan de Fortalecimiento de la Transparencia Municipal.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 6.
 
-El Plan Anual de Fortalecimiento de la Transparencia Municipal, es el documento que integra los compromisos y propuestas de los miembros de la Comisión de Transparencia del Municipio de Querétaro a efecto de abatir la corrupción, transparentar el manejo de los recursos humanos y materiales, así como salvaguardar los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia que deben ser observadas en la Administración Pública Municipal.
+El Plan de Fortalecimiento de la Transparencia Municipal, es el documento que integra los compromisos y propuestas de los miembros de la Comisión de Transparencia del Municipio de Querétaro a efecto de abatir la corrupción, transparentar el manejo de los recursos humanos y materiales, así como salvaguardar los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia que deben ser observadas en la Administración Pública Municipal.
 
-El informe de los resultados obtenidos de la ejecución del Plan Anual de Fortalecimiento de la Transparencia Municipal, deberá presentarse en los meses de junio y diciembre de cada año.
+El informe de los resultados obtenidos de la ejecución del Plan de Fortalecimiento de la Transparencia Municipal, deberá presentarse en el mes de mayo de cada año.
 
 ###### Artículo 7.
 
@@ -159,9 +181,17 @@ IX. Llevar el libro de Actas de las sesiones de la Comisión de Transparencia de
 
 X. Llevar el archivo y registro de la documentación que (sic) genere por la Comisión de Transparencia del Municipio de Querétaro;
 
-XI. Publicar las acciones que realice la Comisión de Transparencia del Municipio de Querétaro; y
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2004)</small>
 
-XII. Las demás que le sean conferidas por el H. Ayuntamiento.
+XI. Publicar las acciones que realice la Comisión de Transparencia del Municipio de Querétaro;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2004)</small>
+
+XII. Remitir a la Secretaría del Ayuntamiento, los expedientes de los ciudadanos aspirantes a formar parte de la Comisión de Transparencia del Municipio de Querétaro, de conformidad con el presente ordenamiento; y
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2004)</small>
+
+XIII. Las demás que le sean conferidas por el H. Ayuntamiento, el presente ordenamiento y disposiciones legales aplicables.
 
 ### CAPÍTULO SEGUNDO. DE LA INTEGRACIÓN Y FUNCIONAMIENTO
 
@@ -171,9 +201,13 @@ La Comisión de Transparencia del Municipio de Querétaro estará integrada por:
 
 I. Un funcionario de la Administración Pública Municipal, designado por el Presidente Municipal de Querétaro, con derecho a voz y voto;
 
-II. Un regidor integrante del H. Ayuntamiento, con derecho a voz y voto;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2004)</small>
 
-III. Un Secretario Ejecutivo, que será el Contralor Interno Municipal, con derecho a voz y voto; y
+II. Dos regidores integrantes del H. Ayuntamiento, con derecho a voz y voto;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2004)</small>
+
+III. Un Secretario Ejecutivo, que será el Secretario de la Contraloría Municipal, con derecho a voz y voto; y
 
 IV. Cuatro ciudadanos pertenecientes a los sectores privado, social y académico, de entre los cuales el H. Ayuntamiento designará al Presidente de la Comisión de Transparencia del Municipio de Querétaro, todos con derecho a voz y voto.
 
@@ -313,13 +347,19 @@ I. Unanimidad, cuando el voto del total de los integrantes asistentes sea en un 
 
 II. Mayoría absoluta, aquélla que implique más de la mitad de los votos de los integrantes;
 
-IV (SIC). Mayoría calificada, requiere el voto de más de las dos terceras partes de los integrantes en un mismo sentido; y
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2004)</small>
 
-V. Mayoría simple, la que alcance el mayor número de votos, pero no los suficientes para llegar a la mayoría absoluta.
+III. Mayoría calificada, requiere el voto de más de las dos terceras partes de los integrantes en un mismo sentido; y
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2004)</small>
+
+IV. Mayoría simple, la que alcance el mayor número de votos, pero no los suficientes para llegar a la mayoría absoluta.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 28.
 
-Para la abrogación o derogación de cualquier proveído de la Comisión de Transparencia del Municipio de Querétaro, se requerirá del mismo tipo de votación que para su aprobación.
+Para la modificación o revocación de cualquier acuerdo o resolución de la Comisión de Transparencia del Municipio de Querétaro, se requerirá del mismo tipo de votación que para su aprobación.
 
 ###### Artículo 29.
 
@@ -375,9 +415,13 @@ Dentro de los siguientes 30 días a la instalación de la Comisión de Transpare
 
 Las subcomisiones transitorias se constituirán por acuerdo del Pleno de la Comisión de Transparencia del Municipio de Querétaro, por las dos terceras partes de sus integrantes.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2004)</small>
+
 ###### Artículo 38.
 
-Cada Subcomisión estará integrada por miembros de la Comisión de Transparencia del Municipio de Querétaro que sean designados por el Pleno de la misma, por funcionarios de la Administración Pública Municipal, atendiendo a la naturaleza de los asuntos a tratar, y debiendo nombrar un coordinador.
+Cada Subcomisión estará integrada por miembros de la Comisión de Transparencia del Municipio de Querétaro que sean designados por el Pleno de la misma, quienes deberán nombrar un coordinador.
+
+Atendiendo a la naturaleza de los asuntos a tratar, y previo acuerdo de la mayoría de los integrantes de cada subcomisión, se podrán integrar a los trabajos de la misma, funcionarios de la Administración Pública Municipal.
 
 ###### Artículo 39.
 
@@ -389,9 +433,13 @@ Las subcomisiones permanentes, serán las siguientes:
 
 I. De diagnóstico y planeación estratégica; cuya competencia será elaborar los mecanismos para la detección y corrección de deficiencias y problemas en las diferentes áreas de la Administración Pública Municipal;
 
-II. De difusión institucional; cuya competencia será buscar y proponer los mecanismos óptimos para dar a conocer a los habitantes del Municipio de Querétaro, los avances y resultados del Plan Anual de Fortalecimiento de la Transparencia Municipal; y
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2004)</small>
 
-III. De supervisión; cuya competencia será promover los métodos de control y evaluación para el cumplimiento del Plan Anual de Fortalecimiento de la Transparencia Municipal.
+II. De difusión institucional; cuya competencia será buscar y proponer los mecanismos óptimos para dar a conocer a los habitantes del Municipio de Querétaro, los avances y resultados del Plan de Fortalecimiento de la Transparencia Municipal; y
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2004)</small>
+
+III. De supervisión; cuya competencia será promover los métodos de control y evaluación para el cumplimiento del Plan de Fortalecimiento de la Transparencia Municipal.
 
 ###### Artículo 41.
 
@@ -442,3 +490,13 @@ PRESIDENTE MUNICIPAL DE QUERÉTARO.
 LIC. ARTURO MAXIMILIANO GARCÍA PÉREZ,
 
 SECRETARIO DEL AYUNTAMIENTO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE OCTUBRE DE 2004.
+
+PRIMERO: Publíquese por una sola ocasión en la Gaceta Municipal.
+
+SEGUNDO: Las presentes reformas y adiciones entrarán en vigor el día siguiente al de su publicación en la Gaceta Municipal.
+
+TERCERO: Comuníquese a la Secretaría de la Contraloría Municipal.
