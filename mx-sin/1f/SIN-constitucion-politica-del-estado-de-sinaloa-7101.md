@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1945-06-05"
+last_updated: "1946-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 1945.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 1946.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -673,7 +673,7 @@ XXI. (DEROGADA, P.O. 6 DE OCTUBRE DE 1928) (F. DE E., 13 DE NOVIEMBRE DE 1928)
 
 XXII. Nombrar y remover libremente al Procurador de Justicia y Agentes del Ministerio Público.
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1945)</small>
+> <small>N. DE E. POR DECRETO No. 143 PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO DE FECHA 29 DE ENERO DE 1946, SE PRORROGA EL TERMINO QUE ESTABLECE LA PRESENTE FRACCION HASTA EL 30 DE ABRIL DE 1946.</small>
 
 XXIII. Condonar adeudos fiscales a favor del Estado, únicamente por el resto del presente año de 1945, quedando a su arbitrio fijar el monto de la condonación según estudio que al respecto haga en cada caso; comunicando al H. Congreso del Estado las condonaciones que otorgue.
 
@@ -1473,10 +1473,6 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 
 P.O. 13 DE NOVIEMBRE DE 1928.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE SINALOA.
-
-P.O. 13 DE NOVIEMBRE DE 1928.
-
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN LOS ARTICULOS 3° Y 4° DEL CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 P.O. 31 DE MAYO DE 1930.
@@ -1628,3 +1624,7 @@ UNICO.- El presente Decreto comienza a surtir sus efectos legales desde esta mis
 P.O. 5 DE JUNIO DE 1945.
 
 UNICO.- El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE ENERO DE 1946.
+
+UNICO.- El presente decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
