@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-deporte-del-estado-de-michoacan-11497"
 country: "mx"
 rank: "ley"
 publication_date: "1997-08-18"
-last_updated: "1997-08-18"
+last_updated: "2002-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL DEPORTE DEL ESTADO DE MICHOACAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 2002.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado, el lunes 18 de agosto de 1997.
 
@@ -57,13 +57,17 @@ En el Estado de Michoacán es considerada de interés público la promoción per
 
 El Sistema Estatal del Deporte estará constituido por las acciones, recursos y procedimientos que se destinarán a impulsar, fomentar y desarrollar el deporte en el Estado.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 4o.
 
-El Sistema Estatal del Deporte, estará bajo el cargo del Ejecutivo del Estado, quien ejercerá sus funciones por conducto del Instituto Michoacano de la Juventud y el Deporte.
+El Sistema Estatal del Deporte, estará bajo el cargo del Ejecutivo del Estado, quien ejercerá sus funciones por conducto del Instituto Michoacano del Deporte.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 5o.
 
-En el Sistema Estatal del Deporte, participarán las dependencias y entidades de la Administración Pública Estatal y de los municipios que señala esta ley, mismas que podrán coordinarse en los términos de la misma.
+En el Sistema Estatal del Deporte, participarán las dependencias y entidades de la Administración Pública Estatal y de los municipios que señala esta Ley, las que podrán coordinarse en los términos de la misma.
 
 Los sectores social y privado, podrán participar en el Sistema conforme a las disposiciones que contiene este ordenamiento.
 
@@ -79,9 +83,11 @@ c) La organización que permite que un grupo de sus miembros, opere empresarialm
 
 d) La empresa que reúne a otras instituciones u organizaciones para regular competencias deportivas con ánimo de lucro.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 7o.
 
-En el marco del Sistema Estatal del Deporte, el Ejecutivo del Estado, a través del Instituto Michoacano de la Juventud y el Deporte, realizará las siguientes funciones:
+En el marco del Sistema Estatal del Deporte, el Ejecutivo del Estado, a través del Instituto Michoacano del Deporte, realizará las siguientes atribuciones:
 
 I.- Formular el Programa Estatal del Deporte y llevar a efecto las acciones que del mismo se deriven;
 
@@ -91,15 +97,21 @@ III.- Propiciar la participación de los organismos deportivos y deportistas de 
 
 IV.- Promover, propiciar y solicitar la participación activa en materia de deporte, mediante la conjunción de esfuerzos de los sectores social y privado;
 
-V.- Formular el Programa Estatal del Deporte y llevar a cabo las acciones que de él se deriven;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2002)</small>
 
-VI.- Llevar el Registro Estatal del Deporte; y
+V. Llevar el Registro Estatal del Deporte; y,
 
-VII.- Determinar los requerimientos del Deporte Estatal, así como planear y programar los medios para satisfacerlos, conforme a la exigencia de la dinámica social.
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2002)</small>
+
+VI. Determinar los requerimientos del Deporte Estatal, así como planear y programar los medios para satisfacerlos, conforme a la exigencia de la dinámica social.
+
+VII. (DEROGADA, P.O. 11 DE FEBRERO DE 2002)
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 8o.
 
-La dependencia por conducto de la cual el Ejecutivo Estatal ejercerá sus atribuciones, será el Instituto Michoacano de la Juventud y el Deporte, y tendrá para los efectos de esta Ley, además de las atribuciones contenidas en su Decreto de creación, las siguientes funciones:
+La dependencia por conducto de la cual el Ejecutivo Estatal ejercerá sus atribuciones, será el Instituto Michoacano del Deporte, y tendrá para los efectos de ésta Ley, además de las atribuciones contenidas en su decreto de creación, las siguientes funciones:
 
 I.- Coordinar el Sistema Estatal del Deporte;
 
@@ -115,39 +127,53 @@ VI.- Programar cursos de formación, capacitación y actualización para entrena
 
 VII.- Las demás que le otorguen otras disposiciones legales y las que se requieran para el mejor desarrollo del Deporte en el Estado.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 9o.
 
-El Instituto Michoacano de la Juventud y el Deporte, estará a cargo de un Director nombrado por el Gobernador del Estado.
+El Instituto Michoacano del Deporte, estará a cargo de un Director nombrado por el Gobernador del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 10.
 
-Para ser Director del Instituto Michoacano de la Juventud y el Deporte se requiere:
+Para ser Director del Instituto Michoacano del Deporte se requiere:
 
 I.- Ser ciudadano michoacano en ejercicio de sus derechos;
 
 II.- Tener, cuando menos, 25 años cumplidos al momento de la designación; y,
 
-III.- Preferentemente ser profesionista de la cultura física y/o con créditos que avalen su formación y experiencia en el área, así como en la administración de organismos deportivos.
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2002)</small>
+
+III.- Ser profesionista con Título de Licenciado en Educación Física y tener experiencia en la administración de organismos deportivos.
 
 ###### ARTICULO 11.
 
 La Secretaría de Educación del Estado, dispondrá las medidas necesarias para fomentar el deporte en los niveles de educación básica, media superior, superior, especial e indígena.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 12.
 
 El personal de instrucción de las asociaciones u organismos deportivos y de cualquier otro establecimiento de práctica o enseñanza deportiva, deberán contar con conocimientos profesionales reconocidos oficialmente.
 
+Los ayuntamientos y las autoridades del sector no otorgarán las licencias de funcionamiento de dichos establecimientos, si no se encuentran registrados en el Instituto Michoacano del Deporte.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 13.
 
-Para la creación y funcionamiento de nuevos centros de enseñanza y práctica deportiva, será necesario el reconocimiento del Instituto Michoacano de la Juventud y el Deporte.
+Para la creación y funcionamiento de nuevos centros de enseñanza y práctica deportiva, será necesario el reconocimiento del Instituto Michoacano del Deporte.
 
 ## TITULO SEGUNDO
 
 ### CAPITULO UNICO. DEL CONSEJO ESTATAL DEL DEPORTE
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 14.
 
-El Consejo Estatal del Deporte, es un órgano de consulta y asesoría en materia de deporte, y su función principal es apoyar al Instituto Michoacano de la Juventud y el Deporte y a las entidades de los sectores público, social y privado, en el fomento y organización de actividades deportivas de cualquier índole, así como de proporcionarles asesoría para el desarrollo de las mismas; lo anterior con el objeto de que un mayor número de michoacanos obtengan los beneficios de estas actividades.
+El Consejo Estatal del Deporte, es un órgano de consulta y asesoría en materia de deporte, y su función principal es apoyar al Instituto Michoacano del Deporte y a las entidades de los sectores público, social y privado, en el fomento y organización de actividades deportivas de cualquier índole, así como de proporcionarles asesoría para el desarrollo de las mismas; lo anterior con el objeto de que un mayor número de michoacanos obtengan los beneficios de estas actividades.
 
 ###### ARTICULO 15.
 
@@ -163,9 +189,11 @@ IV.- Un representante del Sector Social, que en forma particular promueva y fome
 
 V.- Un representante del Sector Privado, que en forma particular promueva y fomente el deporte.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 16.
 
-Los miembros del Consejo Estatal del Deporte, serán designados por los titulares de las dependencias correspondientes o, en su caso, por la asamblea de la agrupación de que se trate.
+Los miembros del Consejo Estatal del Deporte, serán designados por los titulares de las dependencias correspondientes o, en su caso, por la asamblea de la agrupación de que se trate, y durarán tres años en el ejercicio de su encargo a excepción del Gobernador del Estado.
 
 ###### ARTICULO 17.
 
@@ -187,9 +215,11 @@ VI.- Las demás que le encomiende el Ejecutivo y las que determinen las leyes y 
 
 ### CAPITULO PRIMERO. PROGRAMA ESTATAL DEL DEPORTE
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 18.
 
-El Programa Estatal del Deporte, será formulado por el Instituto Michoacano de la Juventud y el Deporte, y aprobado por la Junta de Gobierno. Dicho programa tendrá el carácter de instrumento rector de las actividades deportivas del Sistema Estatal del Deporte.
+El Programa Estatal del Deporte, será formulado por el Instituto Michoacano del Deporte, y aprobado por la Junta de Gobierno. Dicho programa tendrá el carácter de instrumento rector de las actividades deportivas del Sistema Estatal del Deporte.
 
 ###### ARTICULO 19.
 
@@ -225,23 +255,29 @@ El Programa Estatal del Deporte, establecerá los lineamientos y programará las
 
 El Programa Estatal del Deporte, deberá establecer los criterios que den uniformidad y congruencia a los programas deportivos del Estado con los del Gobierno Federal.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 22.
 
-Las organizaciones ó instituciones legalmente conformadas y reconocidas por esta ley, no obstante que actúen bajo su propio marco legal, deberán ser presentadas con antelación suficiente al Instituto Michoacano de la Juventud y el Deporte, con el propósito de que no se dupliquen acciones y actividades, y de que exista congruencia entre éstas y el Programa Estatal del Deporte.
+Las organizaciones ó instituciones legalmente conformadas y reconocidas por esta ley, no obstante que actúen bajo su propio marco legal, deberán ser presentadas con antelación suficiente al Instituto Michoacano del Deporte, con el propósito de que no se dupliquen acciones y actividades, y de que exista congruencia entre éstas y el Programa Estatal del Deporte.
 
 ###### ARTICULO 23.
 
 El Programa Estatal del Deporte, deberá establecer los mecanismos necesarios de coordinación con las asociaciones e instituciones que realicen actividades deportivas, para que los instructores, entrenadores y técnicos dedicados a la actividad deportiva, reciban los beneficios académicos y seminarios que se impartan, y cuenten con el reconocimiento oficial.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 24.
 
-Corresponde al Instituto Michoacano de la Juventud y el Deporte, realizar cursos formación, capacitación y actualización para entrenadores e instructores deportivos, para lo cual se coordinará con las Dependencias Estatales que correspondan y, en base al Programa Estatal del Deporte, atenderá estas actividades.
+Corresponde al Instituto Michoacano del Deporte, realizar cursos de formación, capacitación y actualización para entrenadores e instructores deportivos, para lo cual se coordinará con las Dependencias Estatales que correspondan y, en base al Programa Estatal del Deporte, atenderá estas actividades.
 
 ### CAPITULO SEGUNDO. DEL REGISTRO ESTATAL DEL DEPORTE
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 25.
 
-Se crea el Registro Estatal del Deporte a cargo del Instituto Michoacano de la Juventud y el Deporte, como instrumento del Sistema Estatal del Deporte y tendrá como objetivo llevar un registro actualizado de todos los deportistas, organizaciones e instituciones deportivas, jueces, árbitros, técnicos e instalaciones para la práctica del deporte.
+Se crea el Registro Estatal del Deporte a cargo del Instituto Michoacano del Deporte, como instrumento del Sistema Estatal del Deporte y tendrá como objetivo llevar un registro actualizado de todos los deportistas, organizaciones e instituciones deportivas, jueces, árbitros, técnicos e instalaciones para la práctica del deporte.
 
 ###### ARTICULO 26.
 
@@ -253,17 +289,21 @@ Los requisitos a que se sujetará la inscripción en el Registro Estatal del Dep
 
 ### CAPITULO TERCERO. DEL FONDO ESTATAL DEL DEPORTE
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 28.
 
-El Ejecutivo del Estado creará un Fideicomiso, que tendrá como objetivo operar el Fondo Estatal del Deporte, con recursos económicos que permitan al Instituto Michoacano de la Juventud y el Deporte, desarrollar programas específicos de deporte y financiar la participación individual o colectiva de deportistas michoacanos de alto rendimiento en eventos nacionales o internacionales.
+El Ejecutivo del Estado creará un Fideicomiso, que tendrá como objetivo operar el Fondo Estatal del Deporte, con recursos económicos que permitan al Instituto Michoacano del Deporte, desarrollar programas específicos de deporte y financiar la participación individual o colectiva de deportistas michoacanos de alto rendimiento en eventos nacionales o internacionales.
 
 ###### ARTICULO 29.
 
 El Fondo Estatal del Deporte operará de acuerdo a las especificaciones normativas para el funcionamiento de fideicomisos, según lo establezcan las leyes respectivas.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 30.
 
-El Fondo Estatal del Deporte tendrá como órgano operativo a un Comité Técnico, que estará integrado por el C. Gobernador del Estado, quien fungirá como Presidente; el Secretario de Educación de la Entidad, quien ocupará el cargo de Vicepresidente; el Director del Instituto Michoacano de la Juventud y el Deporte, quien se desempeñará como Secretario del Fondo; un representante de la Iniciativa Privada, que será el Director; un representante del Deporte Asociado del Estado y un representante del Sector Social, que tendrán el carácter de vocales.
+El Fondo Estatal del Deporte tendrá como órgano operativo a un Comité Técnico, que estará integrado por el Gobernador del Estado, quien fungirá como Presidente; el Secretario de Educación de la Entidad, quien ocupará el cargo de Vicepresidente; el Director del Instituto Michoacano del Deporte, quien se desempeñará como Secretario del Fondo; un representante de la Iniciativa Privada, que será el Director; un representante del Deporte Asociado del Estado y un representante del Sector Social, que tendrán el carácter de vocales.
 
 ## TITULO CUARTO
 
@@ -281,13 +321,23 @@ I.- Planear y determinar sus necesidades en materia deportiva y proponer los med
 
 II.- Fomentar el deporte, procurando su práctica desde la infancia;
 
-III.- Determinar y otorgar los estímulos y apoyos para la organización, el desarrollo y fomento de las actividades deportivas; y
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2002)</small>
 
-IV.- Promover y apoyar, en la medida de sus posibilidades, a los organismos locales que desarrollen actividades deportivas, e incorporarlos al Sistema Estatal del Deporte.
+III.- Determinar y otorgar los estímulos y apoyos para la organización, el desarrollo y fomento de las actividades deportivas;
+
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2002)</small>
+
+IV.- Promover y apoyar, en la medida de sus posibilidades, a los organismos locales que desarrollen actividades deportivas, e incorporarlos al Sistema Estatal del Deporte; y,
+
+> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2002)</small>
+
+V.- Informar al Consejo Municipal del Deporte sobre la aplicación de la partida presupuestal destinada al desarrollo del deporte.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 33.
 
-La incorporación de los municipios al Sistema Estatal del Deporte, se realizará por conducto de las instancias administrativas que determinen el Instituto Michoacano de la Juventud y el Deporte y las leyes, reglamentos, decretos y demás disposiciones que al respecto se expidan. Dicha incorporación se realizará mediante la celebración de los convenios de coordinación correspondientes.
+La incorporación de los municipios al Sistema Estatal del Deporte, se realizará por conducto de las instancias administrativas que determinen el Instituto Michoacano del Deporte y las leyes, reglamentos, decretos y demás disposiciones que al respecto se expidan. Dicha incorporación se realizará mediante la celebración de los convenios de coordinación correspondientes.
 
 ###### ARTICULO 34.
 
@@ -379,9 +429,11 @@ III.- Prever en sus estatutos y reglamentos, el arbitraje del órgano rector del
 
 Se consideran parte del Sistema Estatal del Deporte, las organizaciones deportivas que pertenezcan a asociaciones estatales que ya estén integradas al mismo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 48.
 
-El Instituto Michoacano de la Juventud y el Deporte, otorgará reconocimiento oficial a los organismos deportivos que cumplan con los siguientes requisitos:
+El Instituto Michoacano del Deporte, otorgará reconocimiento oficial a los organismos deportivos que cumplan con los siguientes requisitos:
 
 I.- Que estén legalmente constituidos en Asociaciones Civiles;
 
@@ -389,9 +441,11 @@ II.- Que presenten al mismo, sus programas operativos anuales; y
 
 III.- Que los planes y programas sujetos a aprobación sean congruentes con los lineamientos del Programa Estatal del Deporte y con los de sus respectivas Asociaciones, o en su caso, Federaciones.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 49.
 
-Para la asignación de apoyos económicos del Ejecutivo del Estado a través del Instituto Michoacano de la Juventud y el Deporte, tendrán prioridad las organizaciones deportivas que en mayor medida hayan desarrollado sus programas.
+Para la asignación de apoyos económicos del Ejecutivo del Estado a través del Instituto Michoacano del Deporte, tendrán prioridad las organizaciones deportivas que en mayor medida hayan desarrollado sus programas.
 
 ###### ARTICULO 50.
 
@@ -475,9 +529,11 @@ Las personas físicas o morales, así como las agrupaciones que hubieren contrib
 
 Los procedimientos para el otorgamiento de estímulos y apoyos, se establecerán en el reglamento de esta Ley.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 56.
 
-El Instituto Michoacano de la Juventud y el Deporte, promoverá las acciones necesarias para la formación, capacitación y actualización de los recursos humanos para la enseñanza y práctica del deporte.
+El Instituto Michoacano del Deporte, promoverá las acciones necesarias para la formación, capacitación y actualización de los recursos humanos para la enseñanza y prácticas del deporte.
 
 ### CAPITULO SEGUNDO. DE LA COMISION ESTATAL DE ESTIMULOS Y RECONOCIMIENTOS
 
@@ -485,9 +541,11 @@ El Instituto Michoacano de la Juventud y el Deporte, promoverá las acciones nec
 
 Se establece la Comisión de Estímulos y Reconocimientos del Deporte Estatal, como instrumento para que el gobierno y la sociedad otorguen estímulos y reconocimientos a las personas físicas y morales y a las organizaciones, que por su actividad contribuyan al desarrollo del deporte en el Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 58.
 
-La Comisión señalada en el artículo anterior, se integrará por un Presidente, que será el Gobernador del Estado, un Vicepresidente que será el Secretario de Educación del Estado, un Secretario que será el Director del Instituto Michoacano de la Juventud y el Deporte y cinco vocales que serán un deportista destacado, un representante de las universidades e instituciones de educación superior, un representante del deporte asociado, un representante del sector paraestatal y un periodista de la fuente deportiva.
+La Comisión señalada en el artículo anterior, se integrará por un Presidente, que será el Gobernador del Estado, un Vicepresidente que será el Secretario de Educación del Estado, un Secretario que será el Director del Instituto Michoacano del Deporte y cinco vocales que serán un deportista destacado, un representante de las universidades e instituciones de educación superior, un representante del deporte asociado, un representante del sector paraestatal y un periodista de la fuente deportiva, vocales que durarán tres años en el ejercicio de su encargo.
 
 El Reglamento de esta Ley determinará el funcionamiento de la Comisión.
 
@@ -495,19 +553,25 @@ El Reglamento de esta Ley determinará el funcionamiento de la Comisión.
 
 Se establecen como reconocimientos para el deporte estatal:
 
-a) El premio Estatal del Deporte;
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2002)</small>
+
+a) El Premio Estatal al Mérito Deportivo;
 
 b) El Salón de la Fama del Deporte del Estado; y
 
 c) Distinciones Especiales.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 60.
 
-El Premio Estatal del Deporte, será entregado por el C. Gobernador del Estado el día 20 de noviembre de cada año, al deportista o a los deportistas que por sus acciones deportivas y relevancia durante el año, se hagan acreedores a ello, según lo determine la Comisión Estatal de Estímulos y Reconocimientos. El Ejecutivo del Estado determinará el monto del premio, de acuerdo al Presupuesto de Egresos Respectivo.
+El Premio Estatal al Mérito Deportivo, será entregado por el Gobernador del Estado, el día 20 de noviembre de cada año, al deportista o a los deportistas que por sus acciones deportivas y relevancia durante el año, se hagan acreedores a ello, según lo determine la Comisión Estatal de Estímulos y Reconocimientos. El Ejecutivo del Estado determinará el monto del premio, de acuerdo al Presupuesto de Egresos respectivo.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 61.
 
-El Instituto Michoacano de la Juventud y el Deporte, creará el Salón Estatal de la Fama Deportiva, en el que tendrán cabida, a criterio de la Comisión de Estímulos y Reconocimientos del Deporte Estatal, los deportistas michoacanos que hayan tenido participación destacada representando al Estado en juegos de nivel nacional e internacional.
+El Instituto Michoacano del Deporte, creará el Salón Estatal de la Fama Deportiva, en el que tendrán cabida, a criterio de la Comisión de Estímulos y Reconocimientos del Deporte Estatal, los deportistas michoacanos que hayan tenido participación destacada representado al Estado en juegos de nivel nacional e internacional.
 
 ## TITULO NOVENO
 
@@ -517,9 +581,11 @@ El Instituto Michoacano de la Juventud y el Deporte, creará el Salón Estatal d
 
 Se declara de interés publico, la construcción, conservación y mantenimiento de las instalaciones deportivas, que permitan atender adecuadamente las demandas de los michoacanos para el desarrollo del deporte en la Entidad.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 63.
 
-El Instituto Michoacano de la juventud y el Deporte y los HH. Ayuntamientos, determinarán los espacios que serán destinados a la práctica deportiva, atendiendo a lo dispuesto por la Ley de Desarrollo Urbano y Aprovechamiento del Territorio del Estado y demás ordenamientos relativos.
+El Instituto Michoacano del Deporte y los Ayuntamientos, determinarán los espacios que serán destinados a la práctica deportiva, atendiendo a lo dispuesto por la Ley de Desarrollo Urbano y Aprovechamiento del Territorio del Estado y demás ordenamientos relativos.
 
 ###### ARTICULO 64.
 
@@ -611,9 +677,11 @@ La resolución dictada con motivo del recurso de reconsideración, podrá impugn
 
 ### CAPITULO UNICO. DE LA COMISION ESTATAL DE APELACION Y ARBITRAJE DEL DEPORTE
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 71.
 
-Se crea la Comisión Estatal de Apelación y Arbitraje del Deporte de Michoacán, que estará integrada por dos representantes del área operativa del deporte, dos miembros del Consejo Estatal del Deporte y el Director del Instituto Michoacano de la Juventud y el Deporte, quien la presidirá.
+Se crea la Comisión Estatal de Apelación y Arbitraje del Deporte de Michoacán, que estará integrada por dos representantes del área operativa del deporte, dos miembros del Consejo Estatal del Deporte y el Director del Instituto Michoacano del Deporte, quien la presidirá.
 
 Los acuerdos de esta Comisión, se tomarán por mayoría de votos y en caso de empate, el Presidente tendrá voto de calidad.
 
@@ -643,6 +711,14 @@ PALACIO DEL PODER LEGISLATIVO, Morelia Michoacán, a 10 de julio de 1997. "AÑO 
 
 DIPUTADO PRESIDENTE.- JAIME OSEGUERA HERRERA.- DIPUTADO SECRETARIO.- LEONEL VICTORIA BENITES.- DIPUTADO SECRETARIO.- AGUSTIN TRUJILLO IÑIGUEZ.-(Firmados).
 
-En conformidad con lo dispuesto en la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo, Ciudad de Morelia, Michoacán, a los 21 veintiún días del mes de julio de 1997, mil novecientos noventa y siete.
+En conformidad con lo dispuesto en la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo, Ciudad de Morelia, Michoacán, a los 21 veintiun días del mes de julio de 1997, mil novecientos noventa y siete.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- LIC. VICTOR MANUEL TINOCO RUBI.- EL SECRETARIO DE GOBIERNO.- LIC. ANTONIO GARCIA TORRES.- (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE FEBRERO DE 2002.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
