@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1974-05-02"
+last_updated: "1975-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 1974.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 1975.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -393,17 +393,17 @@ de sus sesiones.
 
 La Legislatura del Estado se instalará el día 14 de septiembre, y el 16 del mismo mes del año que corresponda, abrirá su período de sesiones. En los casos de sesiones extraordinarias, el día que se fije en la convocatoria respectiva.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1975)</small>
 
 ###### Art. 42.
 
-La Legislatura tendrá cada año dos períodos improrrogables de sesiones: el primero comenzará el día 16 de septiembre y terminará el 31 de diciembre; el segundo comenzará el día 1° de abril y terminará el 30 de junio.
+La Legislatura llevará a cabo, cada año, dos períodos de sesiones: el primero comenzará el día 16 de septiembre y concluirá el 30 de noviembre; el segundo se iniciará el día 1° de abril y terminará el 31 de julio.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1975)</small>
 
 ###### Art. 43.
 
-El primer período de sesiones se destinará de toda preferencia al examen y votación de los presupuestos y a decretar las contribuciones para cubrirlos, atendiendo a las iniciativas que oportunamente deberá presentar el Ejecutivo.
+Durante el primer período de sesiones se analizarán y votarán los presupuestos, y se decretarán las contribuciones para cubrirlos, atendiendo a las iniciativas que oportunamente deberán presentar el Titular del Poder Ejecutivo, en su caso y los Ayuntamientos.
 
 ###### Art. 44.
 
@@ -431,11 +431,11 @@ La Legislatura no podrá instalarse ni funcionar sin la concurrencia de las dos 
 
 Si al llegar el día en que deba de cerrarse alguno de los períodos de sesiones, la Legislatura estuviere funcionando como Gran Jurado, prorrogará aquellas hasta pronunciar su veredicto, pero sin ocuparse, entre tanto, de ningún otro asunto.
 
-(REFORMADO, P.O. 6 DE JULIO DE 1972) (F. DE E., P.O. 20 DE JULIO DE 1972)
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1975)</small>
 
 ###### Art. 50.
 
-La Legislatura celebrará una sesión el cuarto domingo del mes de septiembre de cada año, y en ella, con asistencia del Tribunal Superior de Justicia, el Gobernador del Estado rendirá un informe de su gestión, relativa al año próximo anterior y expondrá, sucintamente, el estado que guarden los ramos de la Administración Pública. El Presidente de la Legislatura contestará ese informe en términos generales.
+La Legislatura celebrará una sesión pública el día 25 de Julio de cada año, y en la misma con asistencia de los magistrados del Tribunal Superior de Justicia, el Titular del poder Ejecutivo del Estado, rendirá informe de la gestión administrativa realizada el año próximo pasado exponiendo sucintamente la marcha del Gobierno durante el año anterior. El Presidente de la Legislatura dará contestación al informe, refiriéndose al mismo en términos generales.
 
 ## TITULO CUARTO
 
@@ -1712,3 +1712,21 @@ UNICO.- Esta Ley entrará en vigor en la fecha de su publicación en el Periódi
 P.O. 2 DE MAYO DE 1974
 
 UNICO.- La presente Ley surtirá efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JULIO DE 1975
+
+###### Artículo 1o.
+
+El Segundo Período de Sesiones que contempla el Artículo 42 se prorrogará el presente año hasta el 31 de julio, en los términos de la reforma propuesta a dicho precepto.
+
+###### Artículo 2o.
+
+El informe a que se refiere el Artículo 50 se rendirá el 25 de julio del presente año y comprenderá del mes de septiembre del año anterior a la fecha indicada.
+
+###### Artículo 3o.
+
+Se derogan todas las disposiciones que se opongan al presente Ley.
+
+###### Artículo 4o.
+
+La presente Ley comenzará a surtir sus efectos dos días después de la fecha de su publicación en el Periódico Oficial del Estado.
