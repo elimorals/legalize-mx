@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1973-07-04"
+last_updated: "1974-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE JULIO DE 1973.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE FEBRERO DE 1974.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -311,9 +311,17 @@ Los Poderes Públicos del Estado constituyen el Gobierno del mismo y son: el Leg
 
 Nunca podrán reunirse dos ni los tres Poderes del Estado en una persona o corporación, ni depositarse el Legislativo en un solo individuo, salvo el caso previsto en la fracción XXXVIII del artículo 70 de esta Constitución.
 
+###### Artículo 37.
+
+El ejercicio del Poder Legislativo del Estado se deposita en una Asamblea que se denominará Legislatura del Estado y que será integrada por Diputados electos por sufragio directo, complementándose con Diputados de Partido.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1974)</small>
+
 ### CAPITULO SEGUNDO. DEL PODER LEGISLATIVO
 
 #### SECCIÓN PRIMERA. DE LA LEGISLATURA DEL ESTADO
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1974)</small>
 
 ###### Art. 37.
 
@@ -324,6 +332,26 @@ El ejercicio del Poder Legislativo del Estado se deposita en una Asamblea que se
 ###### Art. 38.
 
 Se elegirán un diputado propietario y un suplente para cada doscientos cincuenta mil habitantes o más, no pudiendo el Congreso del Estado, en ningún caso quedar integrado por menos de trece diputados.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1972)</small>
+
+###### Artículo 38.
+
+Se elegirán un Diputado Propietario y un Suplente para cada doscientos cincuenta mil habitantes o más, no pudiendo el Congreso del Estado, en ningún caso, quedar integrado por menos de trece Diputados.
+
+> <small>(F. DE E., P.O. 22 DE ENERO DE 1976)</small>
+
+La elección de Diputados será directa, con sujeción a lo dispuesto en el párrafo anterior y se complementará, además con Diputados de Partido, apegándose en ambos casos a lo que disponga la Ley Electoral del Estado, y , en el segundo, a las reglas siguientes:
+
+Todo Partido Político Nacional, legalmente registrado en el Estado, que obtenga cuando menos el uno y medio por ciento de la votación total en la Entidad en la elección respectiva, tendrá derecho a que se acrediten a un Diputado de sus candidatos y a uno más si ha obtenido el tres por ciento o más de la votación total.
+
+Si logra la mayoría en dos o más Distritos Electorales no tendrá derecho a que sean reconocidos Diputados de Partido, pero si triunfa en menor número, siempre que logre el uno y medio por ciento mencionado en el párrafo anterior, tendrá derecho a que sean acreditados hasta dos Diputados sumando el electo directamente y el que obtuvo el triunfo por razón de porcentaje.
+
+Estos serán acreditados de acuerdo con el porcentaje de sufragios que hayan obtenido en relación a los demás candidatos del mismo Partido, en sus respectivos distritos.
+
+Sólo podrán acreditar Diputados en los términos de este artículo, los Partidos Políticos legalmente registrados conforme a la Ley Electoral del Estado, por lo menos con un año de anterioridad al día de la elección.
+
+Los Diputados de mayoría y los de Partido tendrán la misma categoría e iguales derechos y obligaciones.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 1972)</small>
 
@@ -2228,6 +2256,12 @@ G.G. 4 DE JULIO DE 1973.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
+
+G.G. 2 DE FEBRERO DE 1974.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
 ###### ARTICULO SEGUNDO.
 
