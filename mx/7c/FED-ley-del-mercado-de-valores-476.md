@@ -4,7 +4,7 @@ identifier: "FED-ley-del-mercado-de-valores-476"
 country: "mx"
 rank: "ley"
 publication_date: "1975-01-02"
-last_updated: "1999-01-18"
+last_updated: "1999-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=476&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMV"
 
 LEY DEL MERCADO DE VALORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE ENERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE ENERO DE 1999.
 
 Ley publicada en el Diario Oficial de la Federación el jueves 2 de enero de 1975.
 
@@ -542,43 +542,51 @@ La escritura constitutiva y estatutos de las sociedades de que se trata, así co
 
 El capital social de las casas de bolsa y especialistas bursátiles estará formado por una parte ordinaria y podrá también estar integrado por una parte adicional.
 
-El capital social ordinario de las casas de bolsa y especialistas bursátiles se integrará por acciones de la serie "A", que representarán cuando menos el 51% de dicho capital. El 49% restante de la parte ordinaria del capital social podrá integrarse, indistinta o conjuntamente, por acciones series "A" y "B".
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 1999)</small>
+
+El capital social ordinario de las casas de bolsa y especialistas bursátiles se integrará por acciones de la serie "O".
 
 En su caso, el capital social adicional estará representado por acciones serie "L", que podrán emitirse hasta por un monto equivalente al 40% del capital social ordinario, previa autorización de la Comisión Nacional de Valores.
 
-Las acciones representativas de la serie "A" sólo podrán adquirirse por:
+> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 19 DE ENERO DE 1999)</small>
 
-a) Personas físicas y morales mexicanas, cuyo capital sea mayoritariamente propiedad de mexicanos, sean efectivamente controladas por los mismos y cumplan los demás requisitos que mediante disposiciones de carácter general establezca la Secretaría de Hacienda y Crédito Público, y
+a) (DEROGADO, D.O.F. 19 DE ENERO DE 1999)
 
-b) El Fondo de Apoyo al Mercado de Valores.
+b) (DEROGADO, D.O.F. 19 DE ENERO DE 1999)
 
-Las acciones representativas de las series "B" y "L" serán de libre suscripción, incluyendo entidades financieras del exterior.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 1999)</small>
+
+Las acciones representativas de las series "O" y "L" serán de libre suscripción.
 
 En todo caso, las personas que participen en el capital social de casas de bolsa o especialistas bursátiles no deberán ubicarse dentro de las restricciones que establece el artículo 17, fracción II, del presente ordenamiento.
 
 Las acciones serie "L" serán de voto limitado y otorgarán derecho de voto únicamente en los asuntos relativos a cambio de objeto, fusión, escisión, transformación, disolución y liquidación, así como cancelación de su inscripción en cualesquiera bolsas de valores.
 
-Además, las acciones serie "L" podrán conferir derecho a recibir un dividendo preferente y acumulativo, así como un dividendo superior al de las acciones representativas del capital ordinario, siempre y cuando así se establezca en los estatutos de la sociedad emisora. En ningún caso los dividendos de esta serie podrán ser inferiores a los de las otras series.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 1999)</small>
+
+Además, las acciones serie "L" podrán conferir derecho a recibir un dividendo preferente y acumulativo, así como un dividendo superior al de las acciones representativas del capital ordinario, siempre y cuando así se establezca en los estatutos de la sociedad emisora. En ningún caso los dividendos de esta serie podrán ser inferiores a los de la serie “O”.
 
 Las acciones serán de igual valor y dentro de cada serie conferirán a sus tenedores los mismos derechos. Asimismo, se mantendrán en depósito en alguna de las instituciones para el depósito de valores reguladas en el Capítulo Sexto de esta Ley, quienes en ningún caso se encontrarán obligadas a entregarlas a los titulares.
 
 Las casas de bolsa y especialistas bursátiles podrán emitir acciones no suscritas, que conservarán en tesorería, las cuales no computarán para determinar los límites de tenencia accionaria a que se refiere esta Ley. Los accionistas recibirán las constancias respectivas contra el pago total del valor de suscripción que haya fijado la sociedad.
 
-> <small>(ADICIONADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 1999)</small>
 
 ###### ARTICULO 17 Bis 1.
 
-El consejo de administración estará integrado, a elección de los accionistas de la sociedad, por once consejeros o sus múltiplos. Su nombramiento deberá hacerse en asamblea especial por cada serie de acciones. A las asambleas que se reúnan con este fin, así como aquéllas que tengan el propósito de designar comisarios por cada serie de acciones, les serán aplicables, en lo conducente, las disposiciones para las asambleas generales ordinarias previstas en la Ley General de Sociedades Mercantiles.
+El consejo de administración estará integrado hasta por quince consejeros.
 
-En el supuesto de que el consejo se integre con once miembros, los accionistas de la serie "A" designarán a seis consejeros y por cada diez por ciento de acciones de esta serie que exceda del 50% del capital pagado ordinario, tendrán derecho a designar un consejero más. Los accionistas de la serie "B", en su caso, designarán a los consejeros restantes.
+Los accionistas que representen cuando menos un diez por ciento del capital pagado ordinario de la sociedad, tendrán derecho a designar un consejero. Sólo podrá revocarse el nombramiento de los consejeros de minoría, cuando se revoque el de todos los demás de la misma serie.
 
-Los accionistas de cada una de las citadas series, que representen cuando menos un diez por ciento del capital pagado ordinario de la sociedad, tendrán derecho a designar un consejero de la serie que corresponda. Sólo podrá revocarse el nombramiento de los consejeros de minoría, cuando se revoque el de todos los demás de la misma serie.
+El Presidente del consejo deberá elegirse de entre los propietarios y tendrá voto de calidad en caso de empate. Por los propietarios se nombrarán suplentes, los cuales podrán suplir indistintamente a cualesquiera de los propietarios, en el entendido de que dentro de cada sesión, un suplente sólo podrá representar a un propietario.
 
-En caso de que el consejo se integre por múltiplos de once o cuente con más de seis consejeros de la serie "A", para efectos de lo previsto en el párrafo anterior, se deben guardar las proporciones correspondientes conforme a lo dispuesto en este artículo.
+La mayoría de los consejeros deberán ser mexicanos o extranjeros residentes en territorio nacional.
 
-El Presidente del consejo deberá elegirse de entre los propietarios de la serie "A" y tendrá voto de calidad en caso de empate. Por los propietarios se nombrarán suplentes, los cuales podrán suplir indistintamente a cualesquiera de los propietarios, en el entendido de que dentro de cada sesión, un suplente sólo podrá representar a un propietario.
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 1999)</small>
 
-Los consejeros que representen a la serie "A" deberán ser mexicanos o extranjeros residentes en territorio nacional.
+###### ARTICULO 17 Bis 2.
+
+Las personas que adquieran o trasmitan acciones de la serie “O” por más del dos por ciento del capital social de una casa de bolsa o especialista bursátil, deberán dar aviso a la Comisión Nacional Bancaria y de Valores dentro de los tres días hábiles siguientes a la adquisición o transmisión.
 
 > <small>(REFORMADO, D.O.F. 18 DE JULIO DE 1990)</small>
 
@@ -598,21 +606,39 @@ III.- Prestar servicios complementarios con instituciones de crédito del país.
 
 Las entidades a que se refiere este artículo, deberán acreditar a las autoridades encargadas de su inspección y vigilancia, la aplicación de medidas conducentes a prevenir conflictos de interés, así como a evitar prácticas que afecten una sana operación o vayan en detrimento del público usuario, siempre que se les requiera para ello.
 
-> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE ENERO DE 1999)</small>
 
 ###### ARTICULO 19.
 
-La adquisición del control del 10% o más de acciones de las series "A" y "B" representativas del capital social de una casa de bolsa o de un especialista bursátil, mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, deberá someterse a la previa autorización de la Comisión Nacional de Valores, la que la otorgará o negará discrecionalmente.
+Ninguna persona física o moral podrá adquirir, directa o indirectamente, mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, el control de acciones de la serie “O” por más del cinco por ciento del capital social de una casa de bolsa o de un especialista bursátil. La Comisión Nacional Bancaria y de Valores podrá autorizar, cuando a su juicio se justifique, un porcentaje mayor, sin exceder del veinte por ciento.
 
-Ninguna persona física o moral podrá ser propietaria, directa o indirectamente, del 20% o más del capital social de una casa de bolsa, excepto:
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 1999)</small>
+
+Se exceptúan de lo dispuesto en el párrafo anterior:
+
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
 I.- La adquisición de acciones que realicen las sociedades controladoras de grupos financieros, así como Instituciones Financieras del Exterior y Sociedades Controladoras Filiales, conforme al Capítulo III Bis de esta Ley;
 
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 1995)</small>
+
 II.- Los accionistas de casas de bolsa fusionantes o fusionadas siempre y cuando la participación de cada uno de ellos en el capital de la sociedad fusionante o que resulte de la fusión, no exceda de la participación porcentual que a esos mismos accionistas les corresponda en el capital consolidado de las casas de bolsa involucradas en la fusión respectiva, de conformidad con lo que para la valuación y el canje de acciones se pacte en el convenio de fusión;
 
-III.- Las personas que adquieran acciones conforme a lo previsto en programas aprobados por la Comisión Nacional de Valores, conducentes a la fusión de casas de bolsa, a quienes excepcionalmente la citada Comisión podrá otorgarles la autorización relativa, con carácter temporal, por un plazo no mayor de cinco años, sin que la participación total de cada uno de ellos exceda del 30% del capital social de la casa de bolsa de que se trate, y
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 1999)</small>
 
-IV.- Las Instituciones Financieras del Exterior que adquieran acciones de cualquier serie, conforme a programas aprobados por la Secretaría de Hacienda y Crédito Público, con la finalidad de convertir la respectiva casa de bolsa en una casa de bolsa Filial.
+III.- Las personas que adquieran acciones conforme a lo previsto en programas aprobados por la Comisión Nacional Bancaria y de Valores, conducentes a la fusión de casas de bolsa o especialistas bursátiles, a quienes excepcionalmente la citada Comisión podrá otorgarles la autorización relativa, con carácter temporal, por un plazo no mayor de cinco años, sin que la participación total de cada uno de ellos exceda del 30% del capital social de la casa de bolsa de que se trate;
+
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 1999)</small>
+
+IV.- Las Instituciones Financieras del Exterior que adquieran acciones de cualquier serie, conforme a programas aprobados por la Secretaría de Hacienda y Crédito Público, con la finalidad de convertir la respectiva casa de bolsa en una casa de bolsa Filial, y
+
+> <small>(ADICIONADA, D.O.F. 19 DE ENERO DE 1999)</small>
+
+V. Las Instituciones Financieras del Exterior, Sociedades Controladoras Filiales, sociedades controladoras de grupos financieros, casas de bolsa o especialistas bursátiles, cuando adquieran acciones conforme a programas aprobados por la Secretaría de Hacienda y Crédito Público, con el objeto de coadyuvar al buen funcionamiento de una casa de bolsa o especialista bursátil, previa autorización de la propia Secretaría, quien la otorgará discrecionalmente.
+
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 1999)</small>
+
+Los mencionados límites se aplicarán, asimismo, a la adquisición del control por parte de personas que la Comisión Nacional Bancaria y de Valores, considere para estos efectos como una sola persona.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1990)</small>
 
@@ -656,7 +682,7 @@ a) La Comisión Nacional de Valores tendrá las mismas atribuciones que tiene la
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1985)</small>
 
-b) El cargo de síndico y liquidador siempre corresponderá a una institución de crédito;
+b) El cargo de síndico y liquidador siempre corresponderá a una institución de crédito.
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
@@ -1078,7 +1104,9 @@ El capital social de las Filiales estará integrado por acciones de la serie "F"
 
 Las acciones de la serie "F" solamente podrán ser adquiridas por una Sociedad Controladora Filial o, directa o indirectamente, por una Institución Financiera del Exterior, salvo en el caso a que se refiere el último párrafo del artículo 28 BIS 8.
 
-Las acciones de la serie "B" se regirán por lo dispuesto para esta serie de acciones en los demás artículos de esta Ley. La Institución Financiera del Exterior o la Sociedad Controladora Filial propietaria de las acciones serie "F", no quedará sujeta a los límites establecidos en el artículo 19 de esta Ley, respecto de su tenencia de acciones serie "B".
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 1999)</small>
+
+Las acciones de la serie "B" de las Filiales se regirán por lo dispuesto en esta Ley para las acciones de la serie “O”. La Institución Financiera del Exterior o la Sociedad Controladora Filial propietaria de las acciones serie "F" de una casa de bolsa Filial, no quedará sujeta a los límites establecidos en el artículo 19 de esta Ley, respecto de su tenencia de acciones serie "B".
 
 Las acciones serán de igual valor y dentro de cada serie conferirán a sus tenedores los mismos derechos. Asimismo, se mantendrán en depósito en alguna de las instituciones para el depósito de valores reguladas, en el Capítulo Sexto de esta Ley, quienes en ningún caso se encontrarán obligadas a entregarlas a los titulares.
 
@@ -1114,27 +1142,41 @@ II.- Deberán modificarse los estatutos sociales de la sociedad inscrita en la S
 
 III.- Cuando el adquirente sea una Institución Financiera del Exterior o una Sociedad Controladora Filial, que ya sea propietaria de acciones representativas del capital social de una Filial, deberá fusionar ambas sociedades inscritas en la Sección de Intermediarios del Registro Nacional de Valores e Intermediarios, a efecto de controlar solamente una Filial del mismo tipo.
 
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 1999)</small>
+
+Lo establecido en este artículo no será aplicable en el caso a que se refiere la fracción V del artículo 19 de esta Ley.
+
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 28 Bis 10.
 
 Las Filiales no podrán establecer sucursales o subsidiarias fuera del territorio nacional.
 
-> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE ENERO DE 1999)</small>
 
 ###### ARTICULO 28 Bis 11.
 
-El consejo de administración de las Filiales estará integrado, a elección de los accionistas de la sociedad, por once consejeros o sus múltiplos. Su nombramiento deberá hacerse en asamblea especial por cada serie de acciones. A las asambleas que se reúnan con este fin, así como a aquéllas que tengan el propósito de designar comisarios por cada serie de acciones, les serán aplicables, en lo conducente, las disposiciones para las asambleas generales ordinarias previstas en la Ley General de Sociedades Mercantiles.
+El consejo de administración de las Filiales estará integrado hasta por quince consejeros. Su nombramiento deberá hacerse en asamblea especial por cada serie de acciones. A las asambleas que se reúnan con este fin, así como a aquéllas que tengan el propósito de designar comisarios por cada serie de acciones, les serán aplicables, en lo conducente, las disposiciones para las asambleas generales ordinarias previstas en la Ley General de Sociedades Mercantiles.
 
-En el supuesto de que el consejo se integre con once miembros, los accionistas de la serie "F" designarán a seis consejeros y por cada diez por ciento de acciones de esta serie que exceda del cincuenta por ciento del capital pagado, tendrán derecho a designar a un consejero más. Los accionistas de la serie "B", en su caso, designarán a los consejeros restantes.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 1999)</small>
+
+Los accionistas de la serie “F” designarán a seis consejeros y por cada diez por ciento de acciones de esta serie que excedan del cincuenta por ciento del capital pagado, tendrán derecho a designar a un consejero más. Los accionistas de la serie "B", en su caso, designarán a los consejeros restantes.
+
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
 Los accionistas de cada una de las citadas series, que representen cuando menos un diez por ciento del capital pagado de la Filial, tendrán derecho a designar a un consejero de la serie que corresponda. Sólo podrá revocarse el nombramiento de los consejeros de minoría, cuando se revoque el de todos los demás de la misma serie.
 
-En caso de que el consejo se integre por múltiplos de once o cuente con más de seis consejeros de la serie "F", para efectos de lo previsto en el párrafo anterior, se deben guardar las proporciones correspondientes conforme a lo dispuesto en este artículo.
+> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 19 DE ENERO DE 1999)</small>
+
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
 El Presidente del consejo deberá elegirse de entre los propietarios de la serie "F", y tendrá voto de calidad en caso de empate. Por los propietarios se nombrarán suplentes, los cuales podrán suplir indistintamente a cualesquiera de los propietarios, en el entendido de que dentro de cada sesión, un suplente sólo podrá representar a un propietario.
 
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+
 En caso de que una Institución Financiera del Exterior o una Sociedad Controladora Filial sea propietaria de acciones que representen por lo menos el noventa y nueve por ciento del capital social de la Filial, el consejo de administración de esta última estará integrado como mínimo por cinco consejeros.
+
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
 La mayoría de los consejeros de una Filial deberá residir en territorio nacional.
 
@@ -2158,59 +2200,9 @@ Los cargos por los servicios que las instituciones para el depósito de valores 
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS, D.O.F. 18 DE ENERO DE 1999)
 
-> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1993)</small>
-
 ###### ARTICULO 89.
 
-Las casas de bolsa y los especialistas bursátiles deberán participar en el mecanismo preventivo y de protección al mercado de valores, cuya organización y funcionamiento se sujetará a lo siguiente:
-
-I.- El Banco de México administrará un fideicomiso que se denominará Fondo de Apoyo al Mercado de Valores, que tendrá la finalidad de preservar la estabilidad financiera de los participantes, así como procurar el cumplimiento de las obligaciones contraídas por las casas de bolsa y especialistas bursátiles con su clientela, provenientes de operaciones y servicios propios de su actividad profesional, objeto de protección expresa del Fondo.
-
-La constitución del fideicomiso por el Gobierno Federal no le dará el carácter de entidad de la administración pública federal, y por lo tanto, no estará sujeto a las disposiciones aplicables a dichas entidades.
-
-II.- Para que las casas de bolsa y especialistas bursátiles puedan recibir apoyos preventivos, deberá garantizarse el pago puntual y oportuno del apoyo con acciones representativas de su capital social, con valores gubernamentales o cualquier otro bien, que a juicio del fiduciario satisfaga la garantía requerida.
-
-> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
-
-Cuando esta garantía recaiga en acciones representativas del capital social de la casa de bolsa o del especialista bursátil apoyado, los accionistas primeramente deberán de afectar títulos representativos de la serie "A" o "F", según corresponda, hasta por el importe de la garantía requerida y, en caso de que tales títulos no cubran el total de dicho importe, también deberán afectar los títulos correspondientes a las demás series. Dichas acciones garantizarán el pago del apoyo en la proporción a prorrata que corresponda conforme al valor de cada una de ellas. Para la constitución de esta garantía preferente de interés público, las acciones deberán traspasarse a una cuenta a favor del Fondo, en la institución para el depósito de valores en que se encuentren depositadas, correspondiendo a dicho Fondo el ejercicio de los derechos patrimoniales y corporativos inherentes a tales acciones, quedando el producto de los derechos patrimoniales afectos en garantía a favor del Fondo. El Fondo podrá optar porque la garantía se ejecute mediante la venta extrajudicial de las acciones de conformidad con el procedimiento previsto para la caución bursátil en esta Ley, o de acuerdo a lo establecido para la prenda en la Ley General de Títulos y Operaciones de Crédito.
-
-Para los efectos de la garantía citada, las acciones se considerarán por el equivalente al setenta y cinco por ciento de su valor en libros, según el último estado financiero aprobado por el consejo de administración del intermediario de que se trate y revisado por la Comisión Nacional de Valores.
-
-En caso de que no se otorgue garantía suficiente, el director general de la casa de bolsa o especialista bursátil, o quien ejerza sus funciones, deberá otorgar en garantía tales acciones, en términos de lo dispuesto en los párrafos anteriores. Al efecto, la institución para el depósito de valores en que se encuentren las referidas acciones, a petición por escrito del director general del intermediario respectivo, o bien de quien ejerza sus funciones, las traspasará y mantendrá en garantía en términos de lo antes señalado a favor del propio Fondo, comunicándolo así a los titulares de las mismas.
-
-En el evento de que el director general, o quien ejerza sus funciones, no otorgue la garantía antes señalada, la institución para el depósito de valores respectiva deberá afectar en garantía dichas acciones conforme a lo dispuesto en los párrafos anteriores, bastando al efecto solicitud por escrito por parte del Fondo.
-
-En los estatutos y en los títulos representativos del capital social de las casas de bolsa y de los especialistas bursátiles, deberá preverse el procedimiento contenido en los dos párrafos anteriores, lo que implica el consentimiento de todos y cada uno de los accionistas.
-
-III.- Las casas de bolsa y especialistas bursátiles, estarán obligados a cubrir al Fondo aportaciones ordinarias y extraordinarias para el cumplimiento de su objeto.
-
-Las aportaciones ordinarias y extraordinarias serán por los importes resultantes de aplicar al monto de las operaciones autorizadas por esta Ley, que se manejen con intervención de dichos intermediarios, la proporción correspondiente para cada tipo de aportaciones que fije la Secretaría de Hacienda y Crédito Público, a propuesta del Banco de México.
-
-Las aportaciones ordinarias y extraordinarias correspondientes a un semestre natural, no excederán de uno al millar para cada tipo de dichas aportaciones.
-
-IV.- En el caso de que el Fondo necesite recursos adicionales a los previstos en la fracción anterior, podrá obtenerlos de financiamientos.
-
-V.- El Fondo podrá recibir aportaciones de personas distintas a las casas de bolsa y especialistas bursátiles.
-
-VI.- En el contrato constitutivo del Fondo deberá preverse la existencia de un comité técnico que estará integrado por representantes de la Secretaría de Hacienda y Crédito Público, del Banco de México y de la Comisión Nacional de Valores.
-
-El comité técnico determinará los términos y condiciones de los apoyos que se otorguen con cargo al patrimonio del Fondo; las obligaciones de las casas de bolsa y especialistas bursátiles objeto de protección expresa del Fondo, así como los plazos que habrán de observarse para cubrir las aportaciones iniciales, ordinarias y extraordinarias. Asimismo, ejercerá las demás atribuciones que se le confieran en el contrato constitutivo del Fondo.
-
-El fiduciario publicará anualmente, durante el mes de diciembre, en el Diario Oficial de la Federación, el importe máximo de las obligaciones que será objeto de protección expresa del Fondo en el transcurso del año inmediato siguiente.
-
-VII.- El Fondo, en cumplimiento de su objeto, podrá adquirir acciones representativas del capital social de casas de bolsa o especialistas bursátiles, aun con exceso del límite establecido en el segundo párrafo del artículo 19 de esta Ley, pero deberá proceder a su venta tan pronto como las circunstancias sean propicias para ello.
-
-VIII.- Los participantes en el mecanismo de apoyo preventivo y de protección al mercado de valores, estarán obligados a proporcionar al Fondo la información que éste les solicite, para cumplir con sus fines, así como a poner en conocimiento del mismo, con toda oportunidad, cualquier problema que confronten y que, a su juicio, pueda dar lugar a apoyos del Fondo. Asimismo, tales participantes estarán obligados a recibir los apoyos que, a propuesta del comité técnico, la Secretaría de Hacienda y Crédito Público estime necesarios y a cumplir con los programas o medidas correctivas que el Fondo les apruebe.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE ABRIL DE 1996)</small>
-
-IX.- Las sociedades que, con posterioridad a la fecha de constitución del Fondo, obtengan autorización para ser inscritas en la Sección de Intermediarios del Registro Nacional de Valores e Intermediarios de conformidad con la presente Ley, estarán obligadas a participar en el Fondo y a cubrir a éste, en los términos que indique el comité técnico, la aportación inicial que determine la Secretaría de Hacienda y Crédito Público, a propuesta del Banco de México, mediante disposiciones de carácter general que tomarán en cuenta, entre otros elementos, la capacidad máxima de operación, así como el volumen y riesgo de las operaciones de cada sociedad. Dicha cantidad inicial se empezará a cubrir desde que la sociedad comience sus operaciones, en los términos que indique el comité técnico.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 30 DE ABRIL DE 1996)</small>
-
-X.- En el evento de que los participantes no cubran oportunamente al Fondo, las aportaciones a que se refieren las fracciones III y IX, deberán pagar al Fondo los intereses moratorios que para tal efecto determine la Secretaría de Hacienda y Crédito Público, sin perjuicio de las sanciones que corresponda aplicar de conformidad con este ordenamiento.
-
-XI.- El Fondo deberá proporcionar, respecto de las operaciones que celebre, toda la información y documentación que le sea solicitada por la Comisión Nacional de Valores, cuando ésta juzgue que sea necesaria para cumplir con las funciones de inspección y vigilancia que le atribuye la presente Ley.
+(DEROGADO POR EL ARTICULO DECIMO OCTAVO TRANSITORIO DE LA LEY DE PROTECCION AL AHORRO BANCARIO, D.O.F. 19 DE ENERO DE 1999)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE ENERO DE 1990)</small>
 
@@ -2961,3 +2953,43 @@ PRIMERO.- La presente Ley entrará en vigor noventa días después de su publica
 SEGUNDO.- Se derogan los artículos.87 y 88 de la Ley del Mercado de Valores., así como las demás disposiciones que se opongan a la presente Ley.
 
 DECIMO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+D.O.F. 19 DE ENERO DE 1999.
+
+SE TRANSACRIBEN LOS ARTICULOS TRANSITORIOS DE LA LEY DE PROTECCION AL AHORRO BANCARIO RELACIONADOS CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, con las excepciones que a continuación se establecen.
+
+.
+
+DÉCIMO OCTAVO.- Se derogan el artículo 122 de la Ley de Instituciones de Crédito y el artículo 89 de la Ley del Mercado de Valores, en los términos de los presentes artículos transitorios.
+
+.
+
+VIGÉSIMO PRIMERO.- Se derogan las demás disposiciones que se opongan a esta Ley.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El artículo segundo del presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- Las acciones de las series "A" y "B", representativas del capital social de las sociedades controladoras de grupos financieros, instituciones de banca múltiple, casas de bolsa y especialistas bursátiles, se convierten en acciones de la serie "O" con las características que se contienen en los artículos 18 de la Ley para Regular las Agrupaciones Financieras, 13 de la Ley de Instituciones de Crédito y 17-bis de la Ley del Mercado de Valores, sin necesidad de acuerdo de asamblea de accionistas y a partir de la vigencia del presente Decreto. Por lo anterior, las entidades financieras antes citadas, deberán realizar el canje respectivo conforme a lo establecido en el artículo siguiente.
+
+CUARTO.- El canje de acciones que deberán efectuar las sociedades controladoras de grupos financieros, instituciones de crédito, casas de bolsa y especialistas bursátiles, se ajustará a lo siguiente:
+
+I.- Se formalizará a petición que realicen las citadas entidades financieras, a la institución para el depósito de valores en que se mantengan depositadas las acciones objeto del canje.
+
+El presidente y secretario del consejo de administración de las entidades financieras mencionadas en el primer párrafo de este artículo, tendrá un plazo de cinco años, contado a partir de la entrada en vigor de este Decreto, para presentar la petición a que se refiere esta fracción, a fin de cancelar los títulos accionarios de las series "A" y "B", emitir las acciones de la nueva serie "O", y depositar estas últimas en alguna institución para el depósito de valores, conforme a lo dispuesto en los artículos 18-bis, primer párrafo de la Ley para Regular las Agrupaciones Financieras, 12, primer párrafo de la Ley de Instituciones de Crédito, 17-bis, penúltimo párrafo, 67 y 74 de la Ley del Mercado de Valores;
+
+II.- Las acciones que resulten del canje, deberán representar la misma participación del capital pagado que las acciones canjeadas;
+
+III.- No se considerará que existe enajenación de acciones, para efectos de la Ley de Impuesto sobre la Renta, siempre y cuando el canje a que se refiere este artículo no implique cambio del titular de las acciones, y
+
+IV.- Para efectos de la fracción anterior, el costo promedio de las acciones que resulten del canje, será el que corresponda a las acciones canjeadas.
+
+QUINTO.- Transcurrido el plazo a que se refiere la fracción I del artículo anterior, sin que se hubiere dado cumplimiento a lo establecido en dicha disposición, los titulares de las acciones no podrán ejercer los derechos corporativos y patrimoniales que correspondan, ni la sociedad controladora, institución de banca múltiple, casa de bolsa o especialista bursátil de que se trate, podrán inscribir las transmisiones que respecto de las acciones de la serie "O" se pretendan registrar en el libro de accionistas, sino hasta que se realice el canje y depósito señalados en la citada fracción I del artículo anterior.
+
+SEXTO.- Las sociedades financieras de grupos financieros, instituciones de crédito, casas de bolsa y especialistas bursátiles, así como Filiales del tipo de las citadas entidades financieras, cuyas acciones, en su caso, se mantuvieren inscritas en el Registro Nacional de Valores e Intermediarios, con anterioridad a la entrada en vigor del presente Decreto, deberán dar aviso al Registro Nacional de Valores del canje realizado en los términos y condiciones señalados en los artículos Tercero y Cuarto Transitorios anteriores, para efectos de mantenimiento y demás consecuencias legales que correspondan.
+
+SÉPTIMO.- Las sociedades controladoras de grupos financieros, instituciones de banca múltiple, casas de bolsa, especialistas bursátiles y Filiales del tipo de las entidades financieras anteriores, tendrán un plazo de tres años contado a partir de la entrada en vigor de este Decreto, para que su consejo de administración y órgano de vigilancia se ajusten a lo dispuesto en los artículos 24 y 27-L de la Ley para Regular las Agrupaciones Financieras, 22, 26 y 45-K de la Ley de Instituciones de Crédito, y 17 bis 1 y 28 bis 11 de la Ley del Mercado de Valores, según corresponda.
+
+Los consejeros y comisarios de las series "A", "B" y "F" de las entidades financieras mencionadas, continuarán en el desempeño de sus funciones mientras no se realicen las designaciones que correspondan en términos de lo establecido en las disposiciones referidas en el párrafo anterior, y los designados tomen posesión de sus cargos.
