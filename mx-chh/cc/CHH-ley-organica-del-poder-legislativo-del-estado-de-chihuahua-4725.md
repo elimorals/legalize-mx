@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2004-04-14"
+last_updated: "2004-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2004.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -179,11 +179,11 @@ A los diputados que contestaren negativamente la interpelación del presidente s
 
 Posteriormente, el presidente del Congreso lo declarará solemnemente instalado y abierto su Primer Período Ordinario de Sesiones.
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 2004)</small>
 
 ###### Art. 12.
 
-A la apertura del Primer Período Ordinario de Sesiones asistirá el Gobernador del Estado quien presentará un informe por escrito en el que manifieste el estado que guarda la Administración Pública; si el Gobernador le diere lectura, el Presidente del Congreso le contestará en términos generales y un representante de cada Grupo Parlamentario o partido político, cuando no se hubiesen integrado aquellos podrá hacer comentarios generales en torno al mismo, en los términos establecidos en la Constitución del Estado sujetándose la intervención de dichos representantes a las siguientes bases:
+A la apertura del primer periodo ordinario de sesiones asistirá el Gobernador del Estado quien presentará un informe por escrito en el que manifieste el estado que guarda la administración pública; si el Gobernador le diere lectura, el Presidente del Congreso le contestará en términos generales y un representante de cada grupo parlamentario o partido político, cuando no se hubiesen integrado aquéllos, podrá hacer comentarios generales en torno al mismo, en los términos establecidos en la Constitución del Estado sujetándose la intervención de dichos representantes a las siguientes bases:
 
 I.- La intervención de los representantes a que se refiere este artículo comenzará una vez que haya concluido el Presidente su intervención;
 
@@ -195,7 +195,13 @@ IV.- Las intervenciones consistirán en comentarios generales en torno al docume
 
 V.- Quedan prohibidas las imputaciones irrespetuosas y en forma de diálogo.
 
-Una vez recibido el informe el Presidente lo turnará a una comisión especial para su análisis a fin de que dentro del término de cuarenta y cinco días emita una opinión al Pleno. El mismo trámite se le dará a los informes que rindan los servidores públicos a que se refiere el párrafo segundo del artículo 96 de la Constitución Local. En ambos casos el Pleno podrá acordar a petición de la comisión que se remitan a los presentadores del informe las observaciones que estime pertinentes las que, en ningún caso, serán vinculantes.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2004)</small>
+
+Una vez recibido el informe, el Presidente lo turnará a una comisión especial para su análisis a fin de que dentro del término de cuarenta y cinco días emita una opinión al Pleno. El mismo trámite se le dará a los informes que rindan los servidores públicos a que se refiere el párrafo segundo del artículo 96 de la Constitución Local. En ambos casos el Pleno podrá acordar a petición de la Comisión que se remitan a los presentadores del informe las observaciones que se estime pertinentes las que, en ningún caso, serán vinculantes.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2004)</small>
+
+Tratándose del último año de su gestión, el Gobernador podrá rendir por escrito el informe señalado en el primer párrafo del presente artículo, el primer viernes del mes de septiembre, cumpliendo con las formalidades previstas para tal efecto en el artículo 51 de la Constitución Política del Estado, integrándose una comisión especial, en los términos del párrafo anterior, la cual deberá presentar su análisis al Presidente del Congreso dentro de los treinta días siguientes. El Pleno podrá acordar, a petición de la Comisión, el envío de dicho análisis al Gobernador en funciones, el cual en ningún caso será vinculante.
 
 ### CAPITULO II. DE LOS PERIODOS DE SESIONES
 
@@ -1125,9 +1131,11 @@ La sesión es la reunión general de diputados en el recinto oficial, para el ej
 
 Los días 1 de Octubre y 1 de Marzo de cada año el Congreso se reunirá a partir de las 11:00 horas en el salón de sesiones para inaugurar, respectivamente, el Primero y el Segundo Período de Sesiones ordinarias. En dichas sesiones el Presidente de la Mesa Directiva declarará en voz alta "El Congreso del Estado de Chihuahua abre hoy (fecha) el primer (o segundo) período de sesiones ordinarias (del primero, segundo o tercer año de ejercicio constitucional) de la (número) Legislatura".
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2004)</small>
+
 ###### Art. 84.
 
-La sesión del 1 de Octubre tendrá como objeto exclusivo el de recibir el informe del Ejecutivo en los términos previstos en la Constitución Política del Estado. Si el Ejecutivo le diere lectura, el presidente del Congreso contestará en términos generales y un representante de cada grupo parlamentario podrá hacer comentarios generales en torno al mismo. Lo anterior de conformidad con lo establecido por el artículo 12 de esta Ley.
+La sesión del primero de octubre tendrá como objeto exclusivo el de recibir el informe del Ejecutivo, a excepción del último año de gestión, en el cual el Gobernador podrá rendir por escrito el informe del estado que guarda la administración pública el primer viernes del mes de septiembre, cumpliendo con las formalidades previstas para tal efecto en el artículo 51 de la Constitución Política del Estado. Si el Ejecutivo le diere lectura, el Presidente del Congreso contestará en términos generales y un representante de cada grupo parlamentario podrá hacer comentarios generales en torno al mismo. Lo anterior de conformidad con lo establecido por el artículo 12 de esta ley.
 
 ###### Art. 85.
 
@@ -1351,7 +1359,7 @@ Si el orador no termina su exposición en el tiempo que le corresponde, el Presi
 
 ###### Art. 115.
 
-Quedan absolutamente prohibidas la alusiones irrespetuosas y las imputaciones de mala intención o de móviles ilegítimos tanto a la Legislatura como a su miembros, o a cualesquier persona que intervenga en el desarrollo de la sesión, ya sea por invitación o por comparecencia.
+Quedan absolutamente prohibidas las alusiones irrespetuosas y las imputaciones de mala intención o de móviles ilegítimos tanto a la Legislatura como a sus miembros, o a cualesquier persona que intervenga en el desarrollo de la sesión, ya sea por invitación o por comparecencia.
 
 El Presidente del Congreso hará cumplir lo dispuesto en el párrafo que antecede.
 
@@ -1946,3 +1954,13 @@ P.O. 14 DE ABRIL DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE AGOSTO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa y de los debates del Congreso a los ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente en su caso, el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
