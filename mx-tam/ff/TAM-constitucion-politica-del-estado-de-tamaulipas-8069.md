@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1978-09-09"
+last_updated: "1980-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 1980.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -911,7 +911,7 @@ XIV. Proponer terna al Congreso para Director General de Educación Pública.
 
 XV. Cuidar de que la justicia se administre pronta y cumplidamente por los Tribunales y Jueces del Estado y de que se ejecuten sus sentencias.
 
-XVI. Proponer terna al Supremo Tribunal de Justicia para el nombramiento de Jueces de Primera Instancia.
+XVI. (DEROGADA POR EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO No. 311, P.O. 4 DE JUNIO DE 1980)
 
 XVII. Celebrar convenios con los Gobernadores de los Estados limítrofes, para la entrada y paso de sus fuerzas de seguridad por el territorio del Estado y recíprocamente, dando cuenta al Congreso.
 
@@ -1125,19 +1125,19 @@ Los delitos de cohecho, peculado, concusión o prevaricación, producen acción 
 
 ###### Art. 107.
 
-El Supremo Tribunal de Justicia se integra con cinco Magistrados, y funcionará bajo la Presidencia anual de uno de ellos, en acuerdo pleno o por Salas, en la forma que determine la Ley.
+El Supremo Tribunal de Justicia se integra con seis magistrados, y funcionará bajo la presidencia anual de uno de ellos, en acuerdo pleno o por salas, en la forma que determine la ley.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 1966)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1980)</small>
 
 ###### Art. 108.
 
-Los Magistrados serán electos por el Congreso, erigido en Colegio Electoral, por el voto de las dos terceras partes, o más, de los Diputados que la integran; y, desempeñarán el cargo por tres años, pudiendo ser reelectos. En los recesos del Congreso, la Diputación Permanente nombrará Magistrados, con el carácter de provisionales, para suplir las faltas temporales de los propietarios.
+Los magistrados serán electos por el Congreso, erigido en Colegio Electoral, por el voto de las dos terceras partes o más de los diputados que lo integran. Durarán en el cargo seis años, y si son reelectos, pasarán a ser inamovibles, pudiendo ser solo separados en los términos del Artículo 110 de esta Constitución. En los recesos del Congreso, la Diputación Permanente nombrará magistrados con el carácter de provisionales para suplir las faltas temporales de los propietarios.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 1967)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1980)</small>
 
 ###### Art. 109.
 
-Los Magistrados iniciarán el ejercicio de su cargo el día 16 del mes de enero del año inmediato posterior a la elección de Diputados.
+El sexenio judicial se inicia el 16 de enero del año siguiente a la elección de Gobernador y Diputados.
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
@@ -1171,11 +1171,11 @@ No podrán formar parte del Tribunal tres o más Magistrados que sean parientes 
 
 Los Magistrados al entrar a desempeñar su cargo, rendirán ante el Congreso, o en sus recesos ante la Diputación Permanente, la siguiente protesta: Presidente.- "¿Protéstais guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado, así como también las leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Unión y del Estado?." – Magistrado. "Si protesto." – Presidente. "Si no lo hiciéreis así, la Nación y el Estado os lo demandarán".
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 1966)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JUNIO DE 1980)</small>
 
 ###### Art. 114.
 
-Son atribuciones del Supremo Tribunal de Justicia:
+Son atribuciones y obligaciones del Supremo Tribunal de Justicia:
 
 I.- Conocer en única Instancia, de las controversias de orden civil que se susciten entre los particulares y el Estado o los Ayuntamientos o entre éstos y aquéllos.
 
@@ -1191,11 +1191,17 @@ VI.- Iniciar ante el Congreso, Leyes tendientes a mejorar la Administración de 
 
 VII.- Elegir Presidente del Tribunal, por mayoría de votos de los Magistrados presentes en la Sesión Plenaria Ordinaria inmediata posterior al día 15 del mes de enero, de cada año; y podrá ser reelecto.
 
-VIII.- Nombrar a los Jueces de Primera Instancia, previa propuesta en terna del Ejecutivo.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1980)</small>
 
-IX.- Nombrar a los Jueces Menores, previa propuesta en terna de los Ayuntamientos respectivos.
+VIII.- Nombrar a los jueces de Primera Instancia, removerlos y cesarlos en los casos en que la ley lo establezca.
 
-X.- Nombrar, remover y cesar libremente al Secretario de Acuerdos, a los Secretarios de las Salas y de los Juzgados; y demás personal subalterno cuando así convenga a la mejor administración de la Justicia.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1980)</small>
+
+IX.- Nombrar a los jueces menores previa propuesta en terna de los ayuntamientos respectivos, removiéndolos y cesándolos en los casos que la ley lo establezca.
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1980)</small>
+
+X.- Nombrar, remover y cesar por causa justificada al Secretario de Acuerdos, a los secretarios de las salas y de los juzgados y demás personal subalterno, cuando así convenga a la mejor administración de la justicia.
 
 XI.- Conceder licencias hasta por un mes a los funcionarios y empleados del Poder Judicial.
 
@@ -1203,7 +1209,9 @@ XII.- Formular su Reglamento Interior.
 
 XIII.- Conocer de las quejas formuladas contra los funcionarios y empleados del Poder Judicial.
 
-XIV.- Remover y cesar a los Jueces de Primera Instancia y a los Menores, en los casos que la Ley establece; y
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1980)</small>
+
+XIV.- Rendir por conducto de su Presidente un informe anual del estado que guarda la administración de justicia, en sesión pública y solemne del Congreso que se celebrará durante la primera decena del mes de enero de cada año; y
 
 XV.- Las demás facultades y obligaciones que señalan las Leyes.
 
@@ -1221,17 +1229,17 @@ Art.- 117.- En las causas que hubiere de formarse a todos los Magistrados en fun
 
 ### CAPITULO II.. DEL SUPREMO TRIBUNAL DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 1966)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1980)</small>
 
 ###### Art. 117.
 
 Los Tribunales Inferiores para la administración de justicia, estarán a cargo de los jueces de primera instancia y de los jueces menores.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1980)</small>
 
 ###### Art. 118.
 
-Los Jueces de Primera Instancia del Estado, serán nombrados por el Supremo Tribunal de Justicia a propuesta en terna del Ejecutivo, pudiéndose nombrar dos o más Jueces de Primera Instancia, con jurisdicción independiente en los Ramos Civil y Penal, para un mismo Distrito Judicial, cuando el número de negocios lo haga necesario, a iniciativa del propio Tribunal o del Ejecutivo.
+Los Jueces de Primera Instancia del Estado serán nombrados por el Supremo Tribunal de Justicia en pleno. Se podrán designar dos o más Jueces de Primera Instancia con jurisdicción independiente en los ramos civil, familiar y penal, para un mismo Distrito Judicial, cuando el número de negocios lo haga necesario.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1961)</small>
 
@@ -1974,3 +1982,9 @@ P.O. 9 DE SEPTIEMBRE DE 1978.
 PRIMERO:- Se deroga el contenido del Artículo 33, para dar cabida al texto del inmediato anterior que se corre en el numeral.
 
 SEGUNDO:- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE JUNIO DE 1980.
+
+PRIMERO.- Se deroga la fracción XVI del Artículo 91 de esta Constitución.
+
+SEGUNDO.- Este decreto inicia su vigencia al siguiente día de su publicación en el Periódico Oficial del Estado.
