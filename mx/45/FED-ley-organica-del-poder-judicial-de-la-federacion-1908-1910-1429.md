@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-1908-1910-1429
 country: "mx"
 rank: "ley_organica"
 publication_date: "1908-12-23"
-last_updated: "1908-12-23"
+last_updated: "1910-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1429&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,11 +21,11 @@ issue_date: "1908-12-16"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA: 29 DE SEPTIEMBRE DE 1910.
 
 Ley publicada en el Diario Oficial, el miércoles 23 de diciembre de 1908.
 
-Texto obtenido en: DUBLAN, Manuel y LOZANO, José María, "COLECCIÓN LEGISLATIVA COMPLETA DE LA REPÚBLICA MEXICANA CON TODAS LAS DISPOSICIONES EXPEDIDAS PARA LA FEDERACIÓN, EL DISTRITO Y LOS TERRITORIOS FEDERALES, AÑO DE 1908", Edición Oficial de la Secretaría de Justicia, Tomo XL, Tipografía Viuda de Francisco Díaz de León y Sucrs, México, 1910, páginas 504-507.
+Texto de la reforma obtenida en: DUBLAN, Manuel y LOZANO, José María, "COLECCIÓN LEGISLATIVA COMPLETA DE LA REPÚBLICA MEXICANA CON TODAS LAS DISPOSICIONES EXPEDIDAS PARA LA FEDERACIÓN, EL DISTRITO Y LOS TERRITORIOS FEDERALES, AÑOS DE 1909 Y 1910", Edición Oficial de la Secretaría de Justicia, Tomo XLII, Talleres tipográficos de Arturo Garcia Cubas sucesores hermanos, México, 1911, página 205.
 
 El C. presidente de la república se ha servido dirigirme el decreto que sigue:
 
@@ -401,6 +401,10 @@ V. Conceder licencias hasta por quince días con arreglo á la ley, á los minis
 
 VI. Ejercer las atribuciones económicas que le asigne el reglamento interior de la Suprema Corte.
 
+> <small>(ADICIONADA, [N. DE E. DUBLÁN Y LOZANO], 29 DE SEPTIEMBRE DE 1910)</small>
+
+VII. Decidir, en caso de empate, las votaciones del Tribunal pleno.
+
 ### CAPÍTULO IX.
 
 De la competencia de las Salas de la Suprema Corte.
@@ -655,6 +659,12 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 
 Dado en el Palado Nacional de México, á 16 de diciembre de 1908.
 
-- Porfirio Díaz.- Al C. Lic. Justino Fernández, Secretario de Estado y del Despacho de Justicia. - Presente."
+- Porfirio Díaz.- Al C. Lic. Justino Fernández, Secretario de Estado y del Despacho de Justicia. - Presente.”
 
 Y lo comunico á Ud. para su inteligencia y fines consiguientes.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+29 DE SEPTIEMBRE DE 1910.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3°. DEL CÓDIGO CIVIL FEDERAL.]</small>
