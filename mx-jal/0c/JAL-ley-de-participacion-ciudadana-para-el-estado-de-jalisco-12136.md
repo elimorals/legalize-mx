@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-participacion-ciudadana-para-el-estado-de-jalisco-12136"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-07"
-last_updated: "2000-09-19"
+last_updated: "2001-07-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12136&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PARTICIPACION CIUDADANA PARA EL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 2001.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de marzo de 1998.
 
@@ -451,9 +451,11 @@ Para lo no establecido en el presente título se estará a lo dispuesto por la L
 
 ### CAPÍTULO II. DE LA MATERIA DE LA INICIATIVA POPULAR
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2001)</small>
+
 ###### Artículo 50.
 
-Es materia de Iniciativa Popular solamente la de Ley o Código que otorgue derechos o imponga obligaciones a la generalidad de las personas.
+Es materia de Iniciativa Popular la de Ley que otorgue derechos o imponga obligaciones a la generalidad de las personas, quedando excluidas las de carácter contributivo, las leyes orgánicas de los poderes del estado, de los organismos públicos autónomos, las de creación de los organismos públicos descentralizados y las de creación de fideicomisos públicos.
 
 ###### Artículo 51.
 
@@ -473,11 +475,11 @@ El Congreso del Estado podrá desechar de plano toda Iniciativa Popular que no s
 
 ### CAPÍTULO III. DE LOS REQUISITOS DE LA INICIATIVA POPULAR
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
+(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2001)(F. DE E., P.O. 23 DE FEBRERO DE 2002)
 
 ###### Artículo 55.
 
-El proyecto de iniciativa popular, deberá ser registrado ante el Consejo Electoral y se pondrá a disposición de cualquier ciudadano que lo solicite, se publicará en el Periódico Oficial "El Estado de Jalisco" dentro de los quince días siguientes a que el Consejo emita el acuerdo, de manera fundada y motivada, de la procedencia o improcedencia de la solicitud, y en por lo menos uno de los diarios de mayor circulación estatal para que los ciudadanos tengan conocimiento pleno de la misma y puedan decidir con certeza de convencimiento, si apoyan o no dicho proyecto.
+El proyecto de iniciativa popular, deberá ser registrado ante el Consejo Electoral y se pondrá a disposición de cualquier ciudadano que lo solicite, y dentro de los 15 días siguientes a que el Consejo emita el acuerdo fundado y motivado de la procedencia o improcedencia de la solicitud, ordenará se publique en el Periódico Oficial El Estado de Jalisco y en por lo menos uno de los diarios de mayor circulación estatal para que los ciudadanos conozcan el contenido de la iniciativa popular así como el nombre de su representante común y puedan decidir con certeza de convencimiento, si apoyan o no dicho proyecto.
 
 > <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
 
@@ -485,7 +487,13 @@ Dicha iniciativa deberá dirigirse al H. Congreso del Estado, en hojas foliadas 
 
 I. El nombre, firma, número de folio de la credencial de elector, clave de elector y sección de los electores solicitantes de quienes la suscriben, debiendo ser estos al menos el 0.5% del total de los ciudadanos inscritos en el Registro Nacional de Ciudadanos correspondiente al Estado de Jalisco;
 
-II. Domicilio en la capital del Estado y un representante común para recibir notificaciones;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
+
+II. Domicilio en la capital del Estado y un representante común para recibir notificaciones.
+
+Ningún funcionario público podrá fungir como representante común.
+
+El servidor público que distraiga recursos públicos para la presentación, promoción, desarrollo, seguimiento o cualquier trámite relacionado con la iniciativa popular, estará sujeto a las sanciones que establece la Ley de Responsabilidades para los Servidores Públicos del Estado de Jalisco.
 
 III. Exposición de motivos clara y detallada;
 
@@ -560,5 +568,9 @@ P.O. 28 DE SEPTIEMBRE DE 1999.
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 19 DE SEPTIEMBRE DE 2000.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 28 DE JULIO DE 2001.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
