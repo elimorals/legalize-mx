@@ -4,7 +4,7 @@ identifier: "CJM"
 country: "mx"
 rank: "codigo"
 publication_date: "1933-08-31"
-last_updated: "1933-08-31"
+last_updated: "1937-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2557&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CJM"
 
 CODIGO DE JUSTICIA MILITAR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE SEPTIEMBRE DE 1937.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación el jueves 31 de agosto de 1933.
 
@@ -340,17 +340,19 @@ III.- de los militares que en virtud de su cargo o comisión, desempeñen accide
 
 La policía judicial permanente, se compondrá del personal que designe la Secretaría de Guerra y Marina, y dependerá directa e inmediatamente del Porcurador (sic) General de Justicia Militar.
 
+> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 1937)</small>
+
 ###### ARTICULO 49.
 
-La policía judicial a que se refiere la fracción III del artículo 47, se ejerce:
+La Policía Judicial a que se refiere la fracción III del artículo 47, se ejerce:
 
-I.- Por los jefes y oficiales del servicio de vigilancia;
+I.- Por los Jefes y Oficiales del Servicio de Vigilancia;
 
-II.- por los capitanes y oficiales de cuartel;
+II.- Por los Capitanes de Cuartel y Oficiales de Día;
 
-III.- por los comandantes de guardia;
+III.- Por los Comandantes de Guardia;
 
-IV.- por lo (sic) comandantes de armas, partida o destacamento.
+IV.- Por los Comandantes de Armas, Partidas o Destacamento.
 
 ## TITULO CUARTO. De la organización del cuerpo de defensores de oficio
 
@@ -6141,3 +6143,9 @@ Sufragio Efectivo. No Reelección.
 México, D.F., a 29 de agosto de 1933.- El Secretario de Gobernación.- Eduardo Vasconcelos.- Rúbrica.
 
 Al C....
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+D.O.F. 29 DE SEPTIEMBRE DE 1937.
+
+TRANSITORIO.- Este Decreto entrará en vigor desde la fecha de su publicación en el "Diario Oficial".
