@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "1981-10-31"
+last_updated: "1982-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 1982.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de Septiembre de 1954.
 
@@ -3039,7 +3039,9 @@ ART. 728.- Sólo puede constituirse el patrimonio de la familia con bienes sitos
 
 ART. 729.- Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
-ART. 730.- El valor máximo de los bienes afectos al patrimonio de la familia será de diez mil pesos en el Estado de Colima.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 1982)</small>
+
+ART. 730.- El valor máximo de los bienes afectados al Patrimonio Familiar será de $120,000.00 (CIENTO VEINTE MIL PESOS 00/100 M.N.), en el Estado de Colima.
 
 ART. 731.- El miembro de la familia que quiera constituir el patrimonio, lo manifestará por escrito al juez de su domicilio designando con toda precisión y de manera que puedan ser inscritos en el Registro Público los bienes que van a quedar afectados.
 
@@ -7175,11 +7177,11 @@ ART. 2206.- En la venta de que habla el artículo 2,203, mientras que no pasa la
 
 ART. 2207.- El contrato de compra-venta no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1980)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 1982)</small>
 
-ART. 2208.- La venta de un inmueble que tenga un valor fiscal hasta de tres mil pesos, podrá hacerse en instrumento privado que firmará el comprador y el vendedor ante dos testigos. Las firmas de las personas mencionadas deberán ratificarse ante Notario Público o a falta de éste ante la Autoridad Judicial del lugar.
+ART. 2208.- La venta de un inmueble que tenga un valor fiscal hasta de $3,000.00, podrá hacerse en instrumento privado que firmarán el comprador y el vendedor ante dos testigos. Las firmas de las personas mencionadas deberán ratificarse ante Notario Público o a falta de éste ante la Autoridad Judicial del lugar.
 
-Los contratos por los que los Organismos Descentralizados Estatales o Federales y Empresas de Participación Oficial dependientes de dichos Organismos enajenen inmuebles para regularizar la tenencia de la tierra, podrán otorgarse en documento privado, sea cual fuere su cuantía, sin el requisito de ratificación de firmas.
+Los contratos por lo que los Organismos Descentralizados Estatales o Federales y Empresas de participación Oficial dependientes de dichos organismos enajenen inmuebles para regularizar la tenencia de la tierra y los de traslación de dominio que otorgue el Instituto del Fondo Nacional de la Vivienda para los Trabajadores (INFONAVIT) podrán otorgarse en documento privado, sea cual fuere su cuantía, ratificándose las firmas de los otorgantes ante el Registro Público de la Propiedad.
 
 ART. 2209.- Si alguno de los contratantes no supiere escribir, firmará su nombre y a su ruego otra persona con capacidad legal, no pudiendo firmar con ese carácter ninguno de los testigos, observándose lo dispuesto en el párrafo segundo del artículo 1,725.
 
@@ -8919,7 +8921,11 @@ ART. 2805.- El acreedor hipotecario puede adquirir la cosa hipotecada, en remate
 
 Puede también convenir con el deudor en que se le adjudique en el precio que se fije al exigirse la deuda, pero no al constituirse la hipoteca. Este convenio no puede perjudicar los derechos de tercero.
 
-ART. 2806.- Cuando el crédito hipotecario exceda de tres mil pesos, la hipoteca debe otorgarse en escritura pública. Cuando no exceda de esa cantidad, podrá otorgarse en escritura privada, ante dos testigos, de la cual se harán tantos ejemplares como sean las partes contratantes.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 1982)</small>
+
+ART. 2806.- Cuando el crédito Hipotecario exceda de $3,000.00, la hipoteca debe otorgarse en escritura pública. Cuando no exceda de esa cantidad, podrá otorgarse en escritura privada, ante dos testigos, de la cual se harán tantos ejemplares como sean las partes contratantes.
+
+Los créditos que conceda el Instituto del Fondo Nacional de la Vivienda para los Trabajadores (INFONAVIT) podrán ser otorgados en escritura privada, sea cual fuere su cuantía, debiendo ratificarse la firma de las partes ante el Registro Público de la Propiedad.
 
 ART. 2807.- La acción hipotecaria prescribirá a los diez años, contados desde que pueda ejercitarse con arreglo al título inscrito.
 
@@ -9784,3 +9790,15 @@ P.O. 31 DE OCTUBRE DE 1981.
 ###### ARTICULO TERCERO
 
 - Tanto la Reforma del Artículo 947 del Código Civil como la Ley de Condominios, Reglamentaria de este mismo precepto legal, a que se refiere este Decreto, entrarán en vigor al día siguiente de su Publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 3 DE JULIO DE 1982.
+
+DECRETO No. 243.
+
+UNICO.- El presente Decreto surtirá sus efectos a partir del día siguiente de su Publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 3 DE JULIO DE 1982.
+
+DECRETO No. 245.
+
+UNICO.- El presente Decreto surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
