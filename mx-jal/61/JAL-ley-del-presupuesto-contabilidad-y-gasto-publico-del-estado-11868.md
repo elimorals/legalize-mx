@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-presupuesto-contabilidad-y-gasto-publico-del-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "1999-12-28"
+last_updated: "2000-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ABRIL DE 2000.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -237,9 +237,11 @@ El proyecto de presupuesto de Egresos, contendrá las previsiones de los egresos
 
 La estructura del proyecto de presupuesto de egresos, tendrá una base programática y se le dará una sustentación lo suficientemente amplia, que abarque todas las responsabilidades del Gobierno del Estado por conducto de todas sus Entidades y Dependencias, incluyendo a las que se refieren las fracciones I y II del artículo 5 de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2000)</small>
+
 ###### Artículo 39.
 
-El proyecto de Presupuesto de Egresos del Estado, se integrará con los documentos que se refieren a:
+Los proyectos de Presupuesto de Egresos que elaboren los poderes del Estado, así como las diversas dependencias y entidades de la administración pública, deberán contener:
 
 I. Exposición de motivos en la que se señalen los efectos políticos, económicos y sociales que se pretendan lograr;
 
@@ -255,7 +257,19 @@ VI. Ingresos y gastos estimados del ejercicio presupuestal en curso;
 
 VII. Situación de la Deuda Pública al fin del ejercicio presupuestal en curso y estimación de la que se tendrá al cierre del que se propone; y
 
-VIII. En general, toda información que se considere útil para mostrar la propuesta en forma clara y completa.
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2000)</small>
+
+VIII. El desglose y justificación de las diferentes partidas del presupuesto público;
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2000)</small>
+
+IX. Las plantillas de personal por jornada y nivel;
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2000)</small>
+
+X. Sueldo y demás prestaciones económicas asignadas a cada una de las plazas presupuestadas, con inclusión de aquellas que ocupen los titulares de las dependencias y entidades de que se trate; y
+
+XI. En general, toda información que se considere útil para mostrar la propuesta en forma clara y completa.
 
 ###### Artículo 40.
 
@@ -694,3 +708,7 @@ P.O. 28 DE DICIEMBRE DE 1999.
 Primero. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 Segundo. El presente Decreto entrará en vigor el día primero de enero del año 2000, previa publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 20 DE ABRIL DE 2000.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
