@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-organismo-publico-descentralizado-operadora-135
 country: "mx"
 rank: "ley"
 publication_date: "1977-12-07"
-last_updated: "1977-12-07"
+last_updated: "1980-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13562&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO "OPERADORA DE SERVICIOS TURISTICOS DE NUEVO LEON"
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1980.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 7 de diciembre de 1977.
 
@@ -73,7 +73,9 @@ I.- Por un Presidente, que será el Gobernador del Estado o la persona que él d
 
 II.- Por un Secretario, que será el Director Estatal de Turismo.
 
-III.- Por tres consejeros, que serán respectivamente el Secretario de Finanzas y Tesorero General del Estado, el Secretario de Fomento Económico y Obras de Servicios Sociales y Culturales.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1980)</small>
+
+III.- Por tres consejeros, que serán respectivamente el Secretario de Finanzas y Tesorero General del Estado, el Secretario de Fomento Económico y el Secretario de Educación y Cultura.
 
 Los miembros del Consejo de Administración durarán en funciones el tiempo que subsista su designación.
 
@@ -121,9 +123,11 @@ II.- Formular, de acuerdo con el Presidente del Consejo, la orden del día de la
 
 III.- Controlar el archivo de actuaciones del Consejo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1980)</small>
+
 ###### ARTICULO DECIMO PRIMERO
 
-- Para el mejor funcionamiento de "Operadora de Servicios Turísticos de Nuevo León", el Ejecutivo del Estado designará al gerente de la Institución, quien será el encargado de ejecutar la resoluciones del Consejo, con las siguientes facultades:
+- Para el mejor funcionamiento de "Operadora de Servicios Turísticos de Nuevo León", el Ejecutivo del Estado designará al Director de la Institución, quien será el encargado de ejecutar las resoluciones del Consejo, con las siguientes facultades:
 
 I.- Representar legalmente al organismo, con todas las facultades de un mandatario general, para actos de administración, pleitos y cobranzas y demás, necesarias para el mejor desempeño de su encargo.
 
@@ -180,3 +184,9 @@ EDUARDO GARZA GONZALEZ
 EL SECRETARIO DE SERVICIOS SOCIALES Y CULTURALES
 
 ALEJANDRO BELDEN AZCARRAGA
+
+> <small>N. DE E. A CONTINUACION DE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE DICIEMBRE DE 1980.
+
+UNICO:- El presente Decreto entrara en vigor al siguiente día de su publicación en el Periódico Oficial de Gobierno del Estado.
