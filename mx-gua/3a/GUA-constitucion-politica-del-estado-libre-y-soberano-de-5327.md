@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1985-12-27"
+last_updated: "1987-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 1987.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -164,6 +164,10 @@ Los ciudadanos guanajuatenses tienen el derecho de afiliarse, individual y libre
 Los Partidos y las Asociaciones Políticas son entidades de interés público y tienen como fin primordial promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y municipal, y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del Poder Público, de acuerdo con los programas, principios e ideas que postulen mediante el sufragio universal, libre, secreto y directo.
 
 La Ley determinará las formas específicas de su intervención en los procesos electorales.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 1987)</small>
+
+En el Estado se podrá crear un Tribunal de lo Contencioso Electoral, con la competencia, jurisdicción, organización y número de Magistrados que la Ley de la materia establezca.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -425,11 +429,11 @@ Jamás podrán reunirse dos o más de estos Poderes en un solo individuo o corpo
 
 El Congreso del Estado de Guanajuato se compondrá de representantes populares electos en su totalidad cada tres años, mediante votación libre, directa y secreta. Por cada Diputado Propietario se elegirá un Suplente.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1987)</small>
 
 ###### ARTICULO 42.
 
-El Congreso del Estado estará integrado por dieciocho Diputados electos según el Principio de Votación Mayoritaria Relativa, mediante el Sistema de Distritos Electorales Uninominales, y hasta seis Diputados electos según el Principio de Representación Proporcional, mediante el Sistema de Listas.
+El Congreso del Estado estará integrado por dieciocho diputados electos según el Principio de Votación Mayoritaria relativa, mediante el sistema de Distritos Electorales Uninominales, hasta doce diputados electos según el Principio de Representación Proporcional, mediante el sistema de listas.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -437,23 +441,21 @@ El Congreso del Estado estará integrado por dieciocho Diputados electos según 
 
 Para la elección de Diputados según el Principio de Representación Proporcional, se constituye una sola circunscripción electoral plurinominal que abarca todo el territorio del Estado.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1987)</small>
 
 ###### ARTICULO 44.
 
-La elección de los Diputados, según el Principio de Representación Proporcional y el Sistema de Listas, se sujetará a las Bases Generales siguientes y a lo que en lo particular disponga la Ley:
+La elección de los diputados, según el Principio de Representación Proporcional y el sistema de listas, se sujetará a las bases generales siguientes y a lo que en particular disponga la Ley:
 
-I.- Para obtener el registro de sus listas de Candidatos el Partido Político que lo solicite, deberá acreditar que participa con Candidatos a Diputados por mayoría relativa en por lo menos la tercera parte de los dieciocho Distritos Uninominales y que tiene su registro definitivo como Partido Político Nacional o Estatal;
+I.- Para obtener el registro de sus listas de candidatos, el partido político que lo solicite, deberá acreditar que participa con candidatos a diputados por mayoría relativa, en por lo menos la tercera parte de los dieciocho Distritos Uninominales y que tiene su registro definitivo como partido político nacional o estatal;
 
-II.- Tendrá derecho a que le sean atribuídos diputados electos según el Principio de Representación Proporcional, todo aquel Partido que:
+II.- Tendrá derecho a que le sean asignados diputados electos según el Principio de Representación Proporcional, todo aquel partido político que alcance por lo menos el 1.5% del total de la votación emitida válidamente para las listas de candidatos de Representación Proporcional;
 
-a).- No haya obtenido tres o más constancias de mayoría;
+III.- Al partido que cumpla con lo dispuesto por las fracciones I y II de este artículo, le serán asignados por el Principio de Representación Proporcional, el número de diputados de su lista de acuerdo al porcentaje de votación obtenida.
 
-b).- Que alcance por lo menos el 1.5% del total de la votación emitida válidamente para las Listas de Candidatos de Representación Proporcional;
+El Código Electoral determinará las normas para la aplicación de la fórmula que se observará en la asignación; en todo caso, se seguirá el orden que tuviesen los candidatos en las listas correspondientes; y
 
-III.- Al Partido que cumpla con los supuestos anteriores, le serán asignados por el Principio de Representación Proporcional, hasta tres Diputados de su lista de acuerdo al porcentaje de votos obtenidos para su lista. La Ley determinará las Fórmulas Electorales y los procedimientos que se observarán en dicha asignación; en todo caso, en la asignación se seguirá el orden que tuviesen los Candidatos en las listas correspondientes; y,
-
-IV.- En el caso de que dos o más Partidos con derecho a participar en la distribución de las Diputaciones de Representación Proporcional obtengan en su conjunto seis o más Constancias de Mayoría Relativa, sólo serán objeto de reparto el cincuenta por ciento de las curules que deben asignarse por el Principio de Representación Proporcional.
+IV.- Ningún partido político tendrá derecho a que le sean reconocidos más de veintiún diputados, que representan el 70% de la integración total del Congreso del Estado, aún cuando hubiere obtenido un porcentaje de votos superior.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -537,11 +539,11 @@ Incurrirán en responsabilidades y se harán acreedores a las sanciones que la L
 
 Se entiende que los Diputados que dentro de un mismo período falten a tres sesiones sin causa justificada o sin previa licencia del Presidente del Congreso, renuncian a concurrir hasta el período siguiente. En estos casos se llamará desde luego a los Suplentes.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1987)</small>
 
 ###### ARTICULO 55.
 
-El Gobernador del Estado y el Presidente del Supremo Tribunal de Justicia, asistirán a la Sesión de Apertura del Período Ordinario de Sesiones que se inicia el día quince de septiembre de cada año.
+El Gobernador del Estado y el Presidente del Supremo Tribunal de Justicia, asistirán a la Sesión de Apertura del Período Ordinario de Sesiones que se inicia el 25 de septiembre de cada año.
 
 > <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -664,6 +666,10 @@ XIX.- Revisar las Cuentas Públicas Municipales y las de los Organismos Descentr
 XX.- Nombrar y remover a sus empleados. Estas facultades las tendrá la Diputación Permanente en las épocas en que el Congreso no esté en Período Ordinario de Sesiones;
 
 XXI.- Otorgar o negar su aprobación a los nombramientos de los Magistrados del Supremo Tribunal de Justicia hechos por el Gobernador del Estado, conforme a la fracción XII del Artículo 77 de esta Constitución. Esta facultad la tendrá la Diputación Permanente cuando el Congreso no esté en Período Ordinario de Sesiones;
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 1987)</small>
+
+Designar a los Magistrados del Tribunal de lo Contencioso Electoral, de acuerdo a las propuestas de los partidos políticos. Esta facultad la tendrá la Diputación Permanente cuando el Congreso no esté en período de sesiones.
 
 XXII.- Erigirse en Jurado de Responsabilidades, en los casos de Juicio Político;
 
@@ -1819,13 +1825,21 @@ P.O. 17 DE FEBRERO DE 1984.
 
 Las reformas y adiciones a la Constitución Política del Estado de Guanajuato, que se contienen en este Decreto, entrarán en vigor al tercer día de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1987)</small>
+
 ###### ARTICULO SEGUNDO.
 
-En tanto se reforma el Reglamento Interior del Congreso del Estado o se expide la Ley Orgánica del Congreso, éste tendrá dos Períodos Ordinarios de Sesiones, el primero que se inicia el día quince de septiembre y, el segundo, que se inicia el quince de junio, teniendo el primero una duración de tres meses, prorrogable por un mes más y, el segundo con duración de dos meses.
+En tanto se reforma el Reglamento Interior del Congreso del Estado o se expide la Ley Orgánica del Congreso, éste tendrá dos Períodos Ordinarios de Sesiones, el primero se inicia el día 25 de septiembre y, el segundo, que se inicia el 15 de junio, teniendo el primero una duración de tres meses, prorrogable por un mes más y, el segundo con una duración de dos meses.
 
 ###### ARTICULO TERCERO.
 
 En los casos en que la Ley Secundaria se refiera a los Jueces Municipales, se entenderá que alude a los Jueces Menores que menciona este Decreto.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 1987)</small>
+
+###### ARTICULO CUARTO.
+
+Los diputados que se elijan a la Quincuagésima Cuarta Legislatura del H. Congreso del Estado, durarán en funciones del 15 de septiembre de 1988 al 24 de septiembre de 1991.
 
 P.O. 27 DE DICIEMBRE DE 1985.
 
@@ -1846,3 +1860,27 @@ El presente Decreto entrará en vigor el cuarto día siguiente al de su publicac
 ###### ARTICULO SEGUNDO.
 
 En todos los casos en que las leyes secundarias reglamentarias o cualesquiera otras disposiciones de carácter general se refieran a la Secretaría General del Gobierno o a la Secretaría de Finanzas, se entenderá que aluden a la Secretaría de Gobierno y a la Secretaría de Administración Financiara que se mencionan en el presente Decreto.
+
+P.O. 23 DE OCTUBRE DE 1987.
+
+DECRETO No. 136.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las reformas a los artículos 55 de la Constitución y Segundo Transitorio de la misma, surtirán sus efectos a partir del 15 de septiembre de 1989.
+
+###### ARTICULO TERCERO.
+
+El Artículo Cuarto Transitorio, surtirá sus efectos a partir del 15 de septiembre de 1988.
+
+P.O. 23 DE OCTUBRE DE 1987.
+
+DECRETO No. 137.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
