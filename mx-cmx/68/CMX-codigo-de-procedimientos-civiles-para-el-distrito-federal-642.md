@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "1987-01-14"
+last_updated: "1988-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE ENERO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ENERO DE 1988.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -270,9 +270,13 @@ No procede la excepción de conexidad:
 
 I.- Cuando los pleitos están en diversas instancias;
 
-II.- (DEROGADA, D.O.F. 10 DE ENERO DE 1986)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 7 DE ENERO DE 1988)</small>
 
-III.- Cuando los juzgados que conozcan respectivamente de los juicios, pertenezcan a tribunales de alzada diferente.
+II.- Cuando los juzgados que conozcan respectivamente de los juicios pertenezcan a tribunales de alzada diferente; y
+
+> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 1988)</small>
+
+III.- Cuando se trate de un proceso que se ventile en el extranjero
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
 
@@ -712,9 +716,11 @@ En los despachos y exhortos no se requiere la legalización de las firmas del tr
 
 Para que los exhortos de los tribunales de los Estados de la Federación sean diligenciados por los del Distrito Federal, no será necesaria la legalización de las firmas de los funcionarios que los expidan.
 
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
+
 ARTICULO 108
 
-Los exhortos que se remitan al extranjero o se reciban de él, se sujetarán en cuanto a sus formalidades, a las disposiciones relativas del Código Federal de Procedimientos Civiles.
+Los exhortos que se remitan al extranjero o que se reciban de él, en cuanto a sus formalidades y en general a la cooperación procesal internacional, se sujetarán a lo dispuesto por el Código Federal de Procedimientos Civiles, salvo lo dispuesto por los tratados y convenciones internacionales de que México sea parte.
 
 ARTICULO 109
 
@@ -1158,7 +1164,7 @@ ARTICULO 157
 
 Para determinar la competencia por razón de la cuantía del negocio, se tendrá en cuenta lo que demande el actor. Los réditos, daños o perjuicios no serán tenidos en consideración si son posteriores a la presentación de la demanda, aun cuando se reclamen en ella.
 
-Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en un año, a no ser que se tratare de prestaciones vencidas, en cuyo caso se estará a lo dispuesto en la primera parte de este artículo.
+Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en uno (sic) año, a no ser que se tratare de prestaciones vencidas, en cuyo caso se estará a lo dispuesto en la primera parte de este artículo.
 
 ARTICULO 158
 
@@ -1454,6 +1460,10 @@ VII.- Pidiendo el examen de testigos, cuando éstos sean de edad avanzada o se h
 
 VIII.- Pidiendo el examen de testigos para probar alguna excepción, siempre que la prueba sea indispensable y los testigos se hallen en alguno de los casos señalados en la fracción anterior.
 
+> <small>(ADICIONADA, D.O.F. 7 DE ENERO DE 1988)</small>
+
+IX.- Pidiendo el examen de testigos u otras declaraciones que se requieran en un proceso extranjero.
+
 ARTICULO 194
 
 Al pedirse la diligencia preparatoria debe expresarse el motivo por que se solicita y el litigio que se trata de seguir o que se teme.
@@ -1472,9 +1482,11 @@ ARTICULO 197
 
 Cuando se pida la exhibición de un protocolo o de cualquier otro documento archivado, la diligencia se practicará en el oficio del notario o en la oficina respectiva, sin que en ningún caso salgan de ellos los documentos originales.
 
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
+
 ARTICULO 198
 
-Las diligencias preparatorias de que se trata en las fracciones II a IV y VII a VIII del artículo 193 se practicarán con citación de la parte contraria a quien se correrá traslado de la solicitud por el término de tres días y se aplicarán las reglas establecidas para la práctica de la prueba testimonial.
+Las diligencias preparatorias de que se trata en las fracciones II a IV y VII a IX del artículo 193 se practicarán con citación de la parte contraria, a quien se correrá traslado de la solicitud por el término de tres días, y se aplicarán las reglas establecidas para la práctica de la prueba testimonial.
 
 ARTICULO 199
 
@@ -2038,11 +2050,19 @@ ARTICULO 283
 
 Ni la prueba en general, ni los medios de prueba establecidos por la ley son renunciables.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
 
 ARTICULO 284
 
-Sólo los hechos están sujetos a prueba; el derecho lo estará únicamente cuando se funde en usos o costumbres o se apoye en leyes o jurisprudencia extranjeras.
+Sólo los hechos estarán sujetos a prueba, así como los usos y costumbres en que se funde el derecho.
+
+> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1988)</small>
+
+ARTICULO 284 BIS
+
+El Tribunal aplicará el derecho extranjero tal como lo harían los jueces del Estado cuyo derecho resultare aplicable, sin perjuicio de que las partes puedan alegar la existencia y contenido del derecho extranjero invocado.
+
+Para informarse del texto, vigencia, sentido y alcance legal del derecho extranjero, el tribunal podrá valerse de informes oficiales al respecto, pudiendo solicitarlos al Servicio Exterior mexicano, o bien ordenar o admitir las diligencias probatorias que considere necesarias o que ofrezcan las partes.
 
 ARTICULO 285
 
@@ -2354,6 +2374,14 @@ ARTICULO 337
 
 Si el documento se encuentra en libros o papeles de casa de comercio o de algún establecimiento industrial, el que pida el documento o la constancia, deberá fijar con precisión cuál sea, y la copia testimoniada se tomará en el escritorio del establecimiento sin que los directores de él estén obligados a llevar al tribunal los libros de cuentas, ni a más que a presentar las partidas o documentos designados.
 
+> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1988)</small>
+
+ARTICULO 337 BIS
+
+La obligación de exhibir documentos y cosas en procesos que se sigan en el extranjero, no comprenderá la de exhibir documentos o copias de documentos identificados por características genéricas.
+
+En ningún caso podrá un tribunal nacional ordenar ni llevar a cabo la inspección de archivos que no sean de acceso público, salvo en los casos permitidos por las leyes nacionales.
+
 ARTICULO 338
 
 En el reconocimiento de documentos se observará lo dispuesto en los artículos 310, 317 y 322.
@@ -2531,6 +2559,14 @@ La protesta y examen de los testigos se hará en presencia de las partes que con
 ARTICULO 362
 
 No obstante lo dispuesto en los artículos anteriores, cuando el testigo resida fuera del Distrito Federal, deberá el promovente, al ofrecer la prueba, presentar sus interrogatorios con las copias respectivas para las otras partes, que dentro de tres días podrán presentar sus interrogatorios de repreguntas. Para el examen de estos testigos, se librará exhorto en que se incluirán, en pliego cerrado, las preguntas y repreguntas.
+
+> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1988)</small>
+
+ARTICULO 362 BIS
+
+Cuando se solicitare el desahogo de prueba testimonial o de declaración de parte para surtir efectos en un proceso extranjero, los declarantes podrán ser interrogados verbal y directamente en los términos del artículo 360 de este Código.
+
+Para ello será necesario que se acredite ante el tribunal del desahogo, que los hechos materia del interrogatorio están relacionados con el proceso pendiente y que medie solicitud de parte o de la autoridad exhortante.
 
 ARTICULO 363
 
@@ -2798,7 +2834,9 @@ ARTICULO 405
 
 La reclamación de nulidad de la confesión por error o violencia, se tramitará incidentalmente y se decidirá en la definitiva.
 
-ARTICULO 406 (DEROGADO, D.O.F. 10 DE ENERO DE 1986)
+ARTICULO 406
+
+> <small>(DEROGADO, D.O.F. 10 DE ENERO DE 1986)</small>
 
 ARTICULO 407 (DEROGADO, D.O.F. 10 DE ENERO DE 1986)
 
@@ -3330,53 +3368,249 @@ Para la ejecución del desahucio se tiene como domicilio legal del ejecutado, la
 
 > <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1932)</small>
 
-### CAPITULO I. Procedimiento estando ausente el rebelde
+### CAPITULO VI. De la Cooperación Procesal Internacional
 
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1967)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 7 DE ENERO DE 1988)</small>
 
-ARTICULO 637
+ARTICULO 604
 
-En toda clase de juicios, cuando se constituya en rebeldía un litigante, no compareciendo en el juicio después de citado en forma, no se volverá a practicar diligencia alguna en su busca.
+Los exhortos internacionales que se reciban sólo requerirán de homologación cuando impliquen ejecución coactiva sobre personas, bienes o derechos. Los exhortos relativos a notificaciones, recepción de pruebas y a otros asuntos de mero trámite se diligenciarán cuando proceda, sin formar incidente y de acuerdo con las siguientes reglas:
 
-Todas las resoluciones que de allí en adelante recaigan en el pleito y cuantas citaciones deban hacérsele, se notificarán por el Boletín Judicial, salvo los casos en que otra cosa se prevenga.
+I.- La diligenciación de exhortos o el obsequio de otras solicitudes de mera cooperación procesal internacional se llevará a cabo por los tribunales del Distrito Federal, en los términos y dentro de los límites de este Código y demás leyes aplicables;
+
+II.- Sin perjuicio de lo anterior, el tribunal exhortado podrá conceder simplificación de formalidades o la observancia de formalidades distintas a las nacionales, si esto no resulta lesivo al orden público y especialmente a las garantías individuales;
+
+III.- A solicitud de parte legítima, podrán llevarse a cabo actos de notificación o de emplazamiento, o de recepción de pruebas, para ser utilizados en procesos en el extranjero, en la vía de jurisdicción voluntaria o de diligencias preparatorias previstas en este Código; y
+
+IV.- Los tribunales que remitan al extranjero exhortos internacionales, o que los reciban, los tramitarán por duplicado y conservarán éste para constancia de lo enviado, o de lo recibido y de lo actuado.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 7 DE ENERO DE 1988)</small>
+
+ARTICULO 605
+
+Las sentencias y demás resoluciones extranjeras tendrán eficacia y serán reconocidas en la República en todo lo que no sea contrario al orden público interno en los términos de este Código, del Código Federal de Procedimientos Civiles y demás leyes aplicables, salvo lo dispuesto por los tratados y convenciones de que México sea parte.
+
+Tratándose de sentencias o resoluciones jurisdiccionales que solamente vayan a utilizarse como prueba, será suficiente que las mismas llenen los requisitos necesarios para ser consideradas como documentos públicos auténticos.
+
+Los efectos que las sentencias o laudos arbitrales extranjeros produzcan en el Distrito Federal estarán regidos por el Código Civil, por este Código y el Código Federal de Procedimientos Civiles y demás leyes aplicables.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 7 DE ENERO DE 1988)</small>
+
+ARTICULO 606
+
+Las sentencias, laudos y resoluciones dictados en el extranjero podrán tener fuerza de ejecución si se cumplen las siguientes condiciones:
+
+I.- Que se hayan satisfecho las formalidades previstas en el Código Federal de Procedimientos Civiles en materia de exhortos provenientes del extranjero;
+
+II.- Que no hayan sido dictados como consecuencia del ejercicio de una acción real;
+
+III.- Que el juez o tribunal sentenciador haya tenido competencia para conocer y juzgar del asunto de acuerdo con las reglas reconocidas en la esfera internacional que sean compatibles con las adoptadas por este Código o en el Código Federal de Procedimientos Civiles;
+
+IV.- Que el demandado haya sido notificado o emplazado en forma personal a efecto de asegurarle la garantía de audiencia y el ejercicio de sus defensas;
+
+V.- Que tengan el carácter de cosa juzgada en el país en que fueron dictados, o que no exista recurso ordinario en su contra;
+
+VI.- Que la acción que les dio origen no sea materia de juicio que esté pendiente entre las mismas partes ante tribunales mexicanos y en el cual hubiere prevenido el tribunal mexicano o cuando menos que el exhorto o carta rogatoria para emplazar hubieren sido tramitados y entregados a la Secretaría de Relaciones Exteriores o a las autoridades del estado donde deba practicarse el emplazamiento. La misma regla se aplicará cuando se hubiera dictado sentencia definitiva;
+
+VII.- Que la obligación para cuyo cumplimiento se haya procedido no sea contraria al orden público en México; y
+
+VIII.- Que llenen los requisitos para ser considerados como auténticos.
+
+No obstante el cumplimiento de las anteriores condiciones el Juez podrá negar la ejecución si se probara que en el país de origen no se ejecutan sentencias, resoluciones jurisdiccionales o laudos extranjeros en casos análogos.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 7 DE ENERO DE 1988)</small>
+
+ARTICULO 607
+
+El exhorto del juez o tribunal requirente deberá acompañarse de la siguiente documentación:
+
+I.- Copia auténtica de la sentencia, laudo o resolución jurisdiccional;
+
+II.- Copia auténtica de las constancias que acrediten que se cumplió con las condiciones previstas en las fracciones IV y V del artículo anterior;
+
+III.- Las traducciones al español que sean necesarias al efecto; y
+
+IV.- Que el ejecutante haya señalado domicilio para oír notificaciones en el lugar de la homologación.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 7 DE ENERO DE 1988)</small>
+
+ARTICULO 608
+
+El reconocimiento y ejecución de sentencia extranjera se sujetará a las siguientes reglas:
+
+I.- El tribunal competente para ejecutar una sentencia, laudo o resolución jurisdiccional proveniente del extranjero, será el del domicilio del ejecutado;
+
+II.- El incidente de homologación de sentencia, laudo o resolución extranjera se abrirá con citación personal al ejecutante y al ejecutado, a quienes se concederá término individual de nueve días hábiles para exponer defensas y para ejercitar los derechos que les correspondieren; y en el caso de que ofrecieren pruebas que fueren pertinentes, se fijará fecha para recibir las que fueren admitidas, cuya preparación correrá exclusivamente a cargo del oferente salvo razón fundada. En todos los casos se dará intervención al Ministerio Público para que ejercite los derechos que le correspondiere.
+
+La resolución que se dicte será apelable en ambos efectos si se denegare la ejecución, y en el efecto devolutivo si se concediere;
+
+III.- Todas las cuestiones relativas a depositaría, avalúo, remate y demás relacionadas con la liquidación y ejecución coactiva de sentencia dictada por tribunal extranjero serán resueltas por el tribunal de la homologación.
+
+La distribución de los fondos resultantes del remate quedará a disposición del juez sentenciador extranjero;
+
+IV.- Ni el tribunal de primera instancia ni el de apelación podrán examinar ni decidir sobre la justicia o injusticia del fallo, ni sobre los fundamentos de hecho o de derecho en que se apoye, limitándose sólo a examinar su autenticidad y si deba o no ejecutarse conforme a lo previsto en los artículos anteriores; y
+
+V.- Si una sentencia, laudo o resolución jurisdiccional extranjera no pudiera tener eficacia en su totalidad, el tribunal podrá admitir su eficacia parcial a petición de parte interesada.
+
+Reglas generales
+
+ARTICULO 609
+
+Las partes tienen el derecho de sujetar sus diferencias al juicio arbitral.
+
+ARTICULO 610
+
+El compromiso puede celebrarse antes de que haya juicio, durante éste y después de sentenciado sea cual fuere el estado en que se encuentre.
+
+El compromiso posterior a la sentencia irrevocable sólo tendrá lugar si los interesados la conocieren.
+
+ARTICULO 611
+
+El compromiso puede celebrarse por escritura pública, por escritura privada o en acta ante el juez cualquiera que sea la cuantía.
+
+ARTICULO 612
+
+Todo el que esté en el pleno ejercicio de sus derechos civiles puede comprometer en árbitros sus negocios.
+
+Los tutores no pueden comprometer los negocios de los incapacitados ni nombrar árbitros sino con aprobación judicial, salvo el caso en que dichos incapacitados fueren herederos de quien celebró el compromiso o estableció cláusula compromisoria. Si no hubiere designación de árbitros se hará siempre con la intervención judicial como se previno en los medios preparatorios a juicio arbitral.
+
+ARTICULO 613
+
+Los albaceas necesitan del consentimiento unánime de los herederos para comprometer en árbitros los negocios de la herencia y para nombrar árbitros, salvo el caso en que se tratara de cumplimentar el compromiso o cláusula compromisoria pactados por el autor. En este caso, si no hubiere árbitro nombrado se hará necesariamente con intervención judicial.
+
+ARTICULO 614
+
+Los síndicos de los concursos sólo pueden comprometer en árbitros con unánime consentimiento de los acreedores.
+
+ARTICULO 615
+
+No se pueden comprometer en árbitros los siguientes negocios:
+
+I.- El derecho de recibir alimentos;
+
+II.- Los divorcios excepto en cuanto a la separación de bienes y a las demás diferencias puramente pecuniarias;
+
+III.- Las acciones de nulidad de matrimonio;
+
+IV.- Los concernientes al estado civil de las personas con la excepción contenida en el artículo 339 del Código Civil;
+
+V.- Los demás en que lo prohiba expresamente la Ley.
+
+ARTICULO 616
+
+El compromiso designará el negocio o negocios que se sujeten a juicio arbitral y el nombre de los árbitros. Si falta el primer elemento, el compromiso es nulo de pleno derecho sin necesidad de previa declaración judicial.
+
+Cuando no se hayan designado los árbitros se entiende que se reservan hacerlo con intervención judicial como se previene en los medios preparatorios.
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
-ARTICULO 638
+ARTICULO 617
 
-El litigante será declarado rebelde sin necesidad que medie petición de la parte contraria y cuando el que haya sido arraigado quebrante el arraigo sin dejar apoderado instruido.
+El compromiso será válido aunque no se fije término del juicio arbitral y, en este caso la misión de los árbitros durará 60 días. El plazo se cuenta desde que se acepte el nombramiento.
 
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1967)</small>
+ARTICULO 618
 
-ARTICULO 639
+Durante el plazo del arbitraje los árbitros no podrán ser revocados sino por el consentimiento unánime de las partes.
 
-Los autos que ordenen que un negocio se reciba a prueba o señalen día para la audiencia de pruebas y alegatos, así como los puntos resolutivos de la sentencia, además de notificarse por el Boletín Judicial, se publicarán dos veces, de tres en tres días, en el mismo Boletín o en el periódico local que indique el juez, si se tratare del caso previsto en la fracción II del artículo 122.
+ARTICULO 619
 
-ARTICULO 640
+Las partes y los árbitros seguirán en el procedimiento los plazos y las formas establecidos para los tribunales si las partes no hubieren convenido otra cosa. Cualquiera que fuere el pacto en contrario los árbitros siempre están obligados a recibir pruebas y oír alegatos si cualquiera de las partes lo pidiere.
 
-Desde el día en que fue declarado rebelde o quebrantó el arraigo el demandado, se decretará si la parte contraria lo pidiere, la retención de sus bienes muebles y el embargo de los inmuebles en cuanto se estime necesario para asegurar lo que sea objeto del juicio.
+Las partes podrán renunciar a la apelación.
 
-ARTICULO 641
+Cuando el compromiso en árbitros se celebre respecto de un negocio en grado de apelación, la sentencia arbitral será definitiva sin ulterior recurso.
 
-La retención se hará en poder de la persona que tenga a su disposición o bajo su custodia los bienes muebles en que haya de consistir, concediendo el juez un término prudente para que garantice su manejo como depositario.
+ARTICULO 620
 
-Si extinguido ese término no ofreciere garantías suficientes a juicio del juez, se constituirán los muebles en depósito de persona que tenga bienes raíces o afiance su manejo a satisfacción del juez.
+El compromiso produce las excepciones de incompetencia y litispendencia, si durante él se promueve el negocio en un tribunal ordinario.
 
-ARTICULO 642
+ARTICULO 621
 
-El embargo de los inmuebles se hará expidiendo mandamiento por duplicado al registrador de la propiedad que corresponda para que se inscriba el secuestro. Una de las copias después de cumplimentado el registro, se unirá a los autos.
+Cuando hay árbitro único, las partes son libres de nombrarle un secretario y si dentro del tercer día empezando desde aquél en que deba de actuar no se han puesto de acuerdo, el árbitro lo designará y a costa de los mismos interesados desempeñará sus funciones.
 
-Los inmuebles se pondrán también en depósito de la persona en cuyo poder se encuentren y el juez dará un término prudente para que garantice su manejo, si no fuere el demandado mismo.
+Cuando fueren varios los árbitros entre ellos mismos elegirán al que funja como secretario sin que por esto tenga derecho a mayores emolumentos.
 
-No haciéndolo, se colocarán bajo depósito según lo disponen los artículos 553 y siguientes, exigiéndose al depositario las mismas garantías que previene el artículo anterior.
+ARTICULO 622
 
-ARTICULO 643
+El compromiso termina:
 
-La retención o embargo practicados a consecuencia de declaración en rebeldía continuarán hasta la conclusión del juicio.
+I.- Por muerte del árbitro elegido en el compromiso o en cláusula compromisoria si no tuviere substituto. En caso de que no hubieren las partes designado el árbitro sino por intervención del tribunal, el compromiso no se extinguirá y se proveerá al nombramiento del substituto en la misma forma que para el primero;
 
-ARTICULO 644
+II.- Por excusa del árbitro o árbitros que sólo puede ser por enfermedad comprobada que les impida desempeñar su oficio;
 
-En el caso en que el emplazamiento se hubiera hecho por edictos, la sentencia no se ejecutará sino pasados tres meses a partir de la última publicación en el Boletín Judicial o en el periódico del lugar, o (sic) no ser que el actor dé la fianza prevenida para el juicio ejecutivo.
+III.- Por recusación con causa declarada procedente cuando el árbitro hubiere sido designado por el juez, pues al nombrado de común acuerdo no se le puede recusar;
+
+IV.- Por nombramiento recaído en el árbitro de magistrado, juez propietario o interino por más de tres meses; lo mismo se entenderá de cualquier otro empleo de la administración de justicia que impida de hecho o de derecho la función de arbitraje;
+
+V.- Por la expiración del plazo estipulado o del legal a que se refiere el artículo 617.
+
+ARTICULO 623
+
+Los árbitros sólo son recusables por las mismas causas que lo fueren los demás jueces.
+
+ARTICULO 624
+
+Siempre que haya de reemplazarse un árbitro se suspenderán los términos durante el tiempo que pase para hacer el nuevo nombramiento.
+
+ARTICULO 625
+
+El laudo será firmado por cada uno de los árbitros y en caso de haber más de dos, si la minoría rehusare hacerlo, los otros lo harán constar y la sentencia tendrá el mismo efecto que si hubiere sido firmada por todos. El voto particular no exime de la obligación a que este artículo se refiere.
+
+ARTICULO 626
+
+En caso de que los árbitros estuvieren autorizados a nombrar un tercero en discordia y no lograren ponerse de acuerdo acudirán al juez de primera instancia.
+
+ARTICULO 627
+
+Cuando el tercero en discordia fuere nombrado faltando menos de quince días para la extinción del término del arbitraje y las partes no lo prorrogaran, podrá disponer de diez días más que se sumarán a dicho término para que pueda pronunciar el laudo.
+
+ARTICULO 628
+
+> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1932)</small>
+
+Los árbitros decidirán según las reglas del derecho a menos que en el compromiso o en la cláusula se les encomendara la amigable composición o el fallo en conciencia.
+
+ARTICULO 629
+
+De las recusaciones y excusas de los árbitros conocerá el juez ordinario conforme a las leyes y sin ulterior recurso.
+
+ARTICULO 630
+
+Los árbitros pueden conocer de los incidentes sin cuya resolución no fuere posible decidir el negocio principal. Ttambién (sic) pueden conocer de las excepciones perentorias, pero no de la reconvención, sino en el caso en que se oponga como compensación hasta la cantidad que importe la demanda o cuando así se haya pactado expresamente.
+
+ARTICULO 631
+
+Los árbitros pueden condenar en costas, daños y perjuicios a las partes y aun imponer multas; pero para emplear los medios de apremio deben ocurrir al juez ordinario.
+
+ARTICULO 632
+
+Notificado el laudo, se pasarán los autos al juez ordinario para su ejecución, a no ser que las partes pidieren aclaración de sentencia.
+
+Para la ejecución de autos y decretos, se acudirá también al juez de primera instancia.
+
+Si hubiere lugar a algún recurso que fuere admisible, lo admitirá el juez que recibió los autos y remitirá éstos al Tribunal Superior, sujetándose en todos sus procedimientos a lo dispuesto para los juicios comunes.
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
+ARTICULO 633
+
+Es competente para todos los actos relativos al juicio arbitral en lo que se refiere a jurisdicción que no tenga el árbitro; y para la ejecución de la sentencia y admisión de recursos, el Juez designado en el compromiso, a falta de este el que esté en turno.
+
+ARTICULO 634
+
+Los jueces ordinarios están obligados a impartir el auxilio de su jurisdicción a los árbitros.
+
+ARTICULO 635
+
+La apelación sólo será admisible conforme a las reglas del derecho común.
+
+> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1932)</small>
+
+Contra las resoluciones del árbitro designado por el juez cabe el amparo de garantías conforme a las leyes respectivas.
+
+ARTICULO 636
+
+El juez debe compeler a los árbitros a cumplir con sus obligaciones.
 
 #### SECCION I. De la ejecución de sentencia
 
@@ -4000,7 +4234,9 @@ V.- Los gastos de corretaje o comisión serán de cuenta del deudor y se deducir
 
 VI.- En todo lo demás se estará a las disposiciones de este capítulo.
 
-#### SECCION IV. De la ejecución de las sentencias y demás resoluciones dictadas por los Tribunales y Jueces de los Estados y del extranjero
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 7 DE ENERO DE 1988)</small>
+
+#### SECCION IV. De la ejecución de las sentencias y demás resoluciones dictadas por los tribunales y jueces de los Estados
 
 ARTICULO 599
 
@@ -4036,39 +4272,59 @@ ARTICULO 603
 
 El juez que reciba despacho u orden de su superior para ejecutar cualquiera diligencia, es mero ejecutor y en consecuencia no dará curso a ninguna excepción que opongan los interesados, y se tomará simplemente razón de sus respuestas en el expediente, antes de devolverlo.
 
-ARTICULO 604
+> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1988)</small>
 
-Las sentencias y demás resoluciones judiciales dictadas en países extranjeros, tendrán en la República la fuerza que establezcan los tratados respectivos o en su defecto se estará a la reciprocidad internacional.
+### CAPITULO I. Procedimiento estando ausente el rebelde
 
-ARTICULO 605
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1967)</small>
 
-Sólo tendrán fuerza en la República Mexicana las ejecutorias extranjeras que reúnan las siguientes circunstancias:
+ARTICULO 637
 
-I.- Que se cumpla con las formalidades prescritas en el artículo 108;
+En toda clase de juicios, cuando se constituya en rebeldía un litigante, no compareciendo en el juicio después de citado en forma, no se volverá a practicar diligencia alguna en su busca.
 
-II.- Que hayan sido dictadas a consecuencia del ejercicio de una acción personal;
+Todas las resoluciones que de allí en adelante recaigan en el pleito y cuantas citaciones deban hacérsele, se notificarán por el Boletín Judicial, salvo los casos en que otra cosa se prevenga.
 
-III.- Que la obligación para cuyo cumplimiento se haya procedido sea lícita en la República;
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
-IV.- Que haya sido emplazado personalmente el demandado para ocurrir al juicio;
+ARTICULO 638
 
-V.- Que sean ejecutorias conforme a las leyes de la Nación en que se hayan dictado;
+El litigante será declarado rebelde sin necesidad que medie petición de la parte contraria y cuando el que haya sido arraigado quebrante el arraigo sin dejar apoderado instruido.
 
-VI.- Que llenen los requisitos necesarios para ser consideradas como auténticas.
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1967)</small>
 
-ARTICULO 606
+ARTICULO 639
 
-Es competente para ejecutar una sentencia dictada en el extranjero el juez que lo sería para seguir el juicio en que se dictó conforme al título tercero.
+Los autos que ordenen que un negocio se reciba a prueba o señalen día para la audiencia de pruebas y alegatos, así como los puntos resolutivos de la sentencia, además de notificarse por el Boletín Judicial, se publicarán dos veces, de tres en tres días, en el mismo Boletín o en el periódico local que indique el juez, si se tratare del caso previsto en la fracción II del artículo 122.
 
-ARTICULO 607
+ARTICULO 640
 
-Traducida la ejecutoria en la forma prevista en el artículo 330 se presentará al juzgado competente para su ejecución, pero previamente se formará artículo para examinar su autenticidad y si conforme a las leyes nacionales deba o no ser ejecutada. Se substancia con un escrito de cada parte y con audiencia del Ministerio Público. La resolución que se dictará dentro del tercero contesten o no las partes y el Ministerio Público será apelable en ambos efectos si se denegare la ejecución y en el efecto devolutivo si se concediere.
+Desde el día en que fue declarado rebelde o quebrantó el arraigo el demandado, se decretará si la parte contraria lo pidiere, la retención de sus bienes muebles y el embargo de los inmuebles en cuanto se estime necesario para asegurar lo que sea objeto del juicio.
 
-La apelación se substanciará sumariamente.
+ARTICULO 641
 
-ARTICULO 608
+La retención se hará en poder de la persona que tenga a su disposición o bajo su custodia los bienes muebles en que haya de consistir, concediendo el juez un término prudente para que garantice su manejo como depositario.
 
-Ni el juez inferior ni el tribunal superior podrán examinar ni decidir sobre la justicia o injusticia del fallo ni sobre los fundamentos de hecho o de derecho en que se apoye, limitándose tan sólo a examinar su autenticidad y si deba o no ejecutarse conforme a las leyes mexicanas.
+Si extinguido ese término no ofreciere garantías suficientes a juicio del juez, se constituirán los muebles en depósito de persona que tenga bienes raíces o afiance su manejo a satisfacción del juez.
+
+ARTICULO 642
+
+El embargo de los inmuebles se hará expidiendo mandamiento por duplicado al registrador de la propiedad que corresponda para que se inscriba el secuestro. Una de las copias después de cumplimentado el registro, se unirá a los autos.
+
+Los inmuebles se pondrán también en depósito de la persona en cuyo poder se encuentren y el juez dará un término prudente para que garantice su manejo, si no fuere el demandado mismo.
+
+No haciéndolo, se colocarán bajo depósito según lo disponen los artículos 553 y siguientes, exigiéndose al depositario las mismas garantías que previene el artículo anterior.
+
+ARTICULO 643
+
+La retención o embargo practicados a consecuencia de declaración en rebeldía continuarán hasta la conclusión del juicio.
+
+ARTICULO 644
+
+En el caso en que el emplazamiento se hubiera hecho por edictos, la sentencia no se ejecutará sino pasados tres meses a partir de la última publicación en el Boletín Judicial o en el periódico del lugar, o (sic) no ser que el actor dé la fianza prevenida para el juicio ejecutivo.
+
+## TITULO OCTAVO. Del juicio arbitral
+
+## TITULO NOVENO. De los juicios en rebeldía
 
 ### CAPITULO II. Procedimiento estando presente el rebelde
 
@@ -4105,170 +4361,6 @@ El litigante rebelde a quien haya sido notificado personalmente el emplazamiento
 ARTICULO 651
 
 Se admitirá la apelación extraordinaria que contra la sentencia interpusiere el litigante rebelde conforme al capítulo segundo título décimotercero.
-
-## TITULO OCTAVO. Del juicio arbitral
-
-Reglas generales
-
-ARTICULO 609
-
-Las partes tienen el derecho de sujetar sus diferencias al juicio arbitral.
-
-ARTICULO 610
-
-El compromiso puede celebrarse antes de que haya juicio, durante éste y después de sentenciado sea cual fuere el estado en que se encuentre.
-
-El compromiso posterior a la sentencia irrevocable sólo tendrá lugar si los interesados la conocieren.
-
-ARTICULO 611
-
-El compromiso puede celebrarse por escritura pública, por escritura privada o en acta ante el juez cualquiera que sea la cuantía.
-
-ARTICULO 612
-
-Todo el que esté en el pleno ejercicio de sus derechos civiles puede comprometer en árbitros sus negocios.
-
-Los tutores no pueden comprometer los negocios de los incapacitados ni nombrar árbitros sino con aprobación judicial, salvo el caso en que dichos incapacitados fueren herederos de quien celebró el compromiso o estableció cláusula compromisoria. Si no hubiere designación de árbitros se hará siempre con la intervención judicial como se previno en los medios preparatorios a juicio arbitral.
-
-ARTICULO 613
-
-Los albaceas necesitan del consentimiento unánime de los herederos para comprometer en árbitros los negocios de la herencia y para nombrar árbitros, salvo el caso en que se tratara de cumplimentar el compromiso o cláusula compromisoria pactados por el autor. En este caso, si no hubiere árbitro nombrado se hará necesariamente con intervención judicial.
-
-ARTICULO 614
-
-Los síndicos de los concursos sólo pueden comprometer en árbitros con unánime consentimiento de los acreedores.
-
-ARTICULO 615
-
-No se pueden comprometer en árbitros los siguientes negocios:
-
-I.- El derecho de recibir alimentos;
-
-II.- Los divorcios excepto en cuanto a la separación de bienes y a las demás diferencias puramente pecuniarias;
-
-III.- Las acciones de nulidad de matrimonio;
-
-IV.- Los concernientes al estado civil de las personas con la excepción contenida en el artículo 339 del Código Civil;
-
-V.- Los demás en que lo prohiba expresamente la Ley.
-
-ARTICULO 616
-
-El compromiso designará el negocio o negocios que se sujeten a juicio arbitral y el nombre de los árbitros. Si falta el primer elemento, el compromiso es nulo de pleno derecho sin necesidad de previa declaración judicial.
-
-Cuando no se hayan designado los árbitros se entiende que se reservan hacerlo con intervención judicial como se previene en los medios preparatorios.
-
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
-
-ARTICULO 617
-
-El compromiso será válido aunque no se fije término del juicio arbitral y, en este caso la misión de los árbitros durará 60 días. El plazo se cuenta desde que se acepte el nombramiento.
-
-ARTICULO 618
-
-Durante el plazo del arbitraje los árbitros no podrán ser revocados sino por el consentimiento unánime de las partes.
-
-ARTICULO 619
-
-Las partes y los árbitros seguirán en el procedimiento los plazos y las formas establecidos para los tribunales si las partes no hubieren convenido otra cosa. Cualquiera que fuere el pacto en contrario los árbitros siempre están obligados a recibir pruebas y oír alegatos si cualquiera de las partes lo pidiere.
-
-Las partes podrán renunciar a la apelación.
-
-Cuando el compromiso en árbitros se celebre respecto de un negocio en grado de apelación, la sentencia arbitral será definitiva sin ulterior recurso.
-
-ARTICULO 620
-
-El compromiso produce las excepciones de incompetencia y litispendencia, si durante él se promueve el negocio en un tribunal ordinario.
-
-ARTICULO 621
-
-Cuando hay árbitro único, las partes son libres de nombrarle un secretario y si dentro del tercer día empezando desde aquél en que deba de actuar no se han puesto de acuerdo, el árbitro lo designará y a costa de los mismos interesados desempeñará sus funciones.
-
-Cuando fueren varios los árbitros entre ellos mismos elegirán al que funja como secretario sin que por esto tenga derecho a mayores emolumentos.
-
-ARTICULO 622
-
-El compromiso termina:
-
-I.- Por muerte del árbitro elegido en el compromiso o en cláusula compromisoria si no tuviere substituto. En caso de que no hubieren las partes designado el árbitro sino por intervención del tribunal, el compromiso no se extinguirá y se proveerá al nombramiento del substituto en la misma forma que para el primero;
-
-II.- Por excusa del árbitro o árbitros que sólo puede ser por enfermedad comprobada que les impida desempeñar su oficio;
-
-III.- Por recusación con causa declarada procedente cuando el árbitro hubiere sido designado por el juez, pues al nombrado de común acuerdo no se le puede recusar;
-
-IV.- Por nombramiento recaído en el árbitro de magistrado, juez propietario o interino por más de tres meses; lo mismo se entenderá de cualquier otro empleo de la administración de justicia que impida de hecho o de derecho la función de arbitraje;
-
-V.- Por la expiración del plazo estipulado o del legal a que se refiere el artículo 617.
-
-ARTICULO 623
-
-Los árbitros sólo son recusables por las mismas causas que lo fueren los demás jueces.
-
-ARTICULO 624
-
-Siempre que haya de reemplazarse un árbitro se suspenderán los términos durante el tiempo que pase para hacer el nuevo nombramiento.
-
-ARTICULO 625
-
-El laudo será firmado por cada uno de los árbitros y en caso de haber más de dos, si la minoría rehusare hacerlo, los otros lo harán constar y la sentencia tendrá el mismo efecto que si hubiere sido firmada por todos. El voto particular no exime de la obligación a que este artículo se refiere.
-
-ARTICULO 626
-
-En caso de que los árbitros estuvieren autorizados a nombrar un tercero en discordia y no lograren ponerse de acuerdo acudirán al juez de primera instancia.
-
-ARTICULO 627
-
-Cuando el tercero en discordia fuere nombrado faltando menos de quince días para la extinción del término del arbitraje y las partes no lo prorrogaran, podrá disponer de diez días más que se sumarán a dicho término para que pueda pronunciar el laudo.
-
-ARTICULO 628
-
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1932)</small>
-
-Los árbitros decidirán según las reglas del derecho a menos que en el compromiso o en la cláusula se les encomendara la amigable composición o el fallo en conciencia.
-
-ARTICULO 629
-
-De las recusaciones y excusas de los árbitros conocerá el juez ordinario conforme a las leyes y sin ulterior recurso.
-
-ARTICULO 630
-
-Los árbitros pueden conocer de los incidentes sin cuya resolución no fuere posible decidir el negocio principal. Ttambién (sic) pueden conocer de las excepciones perentorias, pero no de la reconvención, sino en el caso en que se oponga como compensación hasta la cantidad que importe la demanda o cuando así se haya pactado expresamente.
-
-ARTICULO 631
-
-Los árbitros pueden condenar en costas, daños y perjuicios a las partes y aun imponer multas; pero para emplear los medios de apremio deben ocurrir al juez ordinario.
-
-ARTICULO 632
-
-Notificado el laudo, se pasarán los autos al juez ordinario para su ejecución, a no ser que las partes pidieren aclaración de sentencia.
-
-Para la ejecución de autos y decretos, se acudirá también al juez de primera instancia.
-
-Si hubiere lugar a algún recurso que fuere admisible, lo admitirá el juez que recibió los autos y remitirá éstos al Tribunal Superior, sujetándose en todos sus procedimientos a lo dispuesto para los juicios comunes.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-ARTICULO 633
-
-Es competente para todos los actos relativos al juicio arbitral en lo que se refiere a jurisdicción que no tenga el árbitro; y para la ejecución de la sentencia y admisión de recursos, el Juez designado en el compromiso, a falta de este el que esté en turno.
-
-ARTICULO 634
-
-Los jueces ordinarios están obligados a impartir el auxilio de su jurisdicción a los árbitros.
-
-ARTICULO 635
-
-La apelación sólo será admisible conforme a las reglas del derecho común.
-
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1932)</small>
-
-Contra las resoluciones del árbitro designado por el juez cabe el amparo de garantías conforme a las leyes respectivas.
-
-ARTICULO 636
-
-El juez debe compeler a los árbitros a cumplir con sus obligaciones.
-
-## TITULO NOVENO. De los juicios en rebeldía
 
 ### CAPITULO UNICO. ARTICULO 652
 
@@ -4390,6 +4482,8 @@ TITULO DECIMOPRIMERO
 
 Divorcio por mutuo consentimiento
 
+## TITULO DECIMO. De las tercerías
+
 ### CAPITULO UNICO. ARTICULO 674
 
 Cuando ambos consortes convengan en divorciarse, en los términos del último párrafo del artículo 272 del Código Civil, deberán ocurir (sic) al tribunal competente presentando el convenio que se exige en el artículo 273 del Código citado, así como una copia certificada del acta de matrimonio y de las de nacimiento de los hijos menores.
@@ -4441,8 +4535,6 @@ Ejecutoriada la sentencia de divorcio, el tribunal mandará remitir copia de ell
 TITULO DECIMOSEGUNDO
 
 De los recursos
-
-## TITULO DECIMO. De las tercerías
 
 ### CAPITULO I. De las revocaciones y apelaciones
 
@@ -4645,44 +4737,6 @@ Las apelaciones de interlocutorias o autos se substanciarán con sólo un escrit
 En estas apelaciones los términos a que se refiere el artículo 704 se reducirán a tres días.
 
 ARTICULO 716 (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
-
-### CAPITULO II. De la apelación extraordinaria
-
-ARTICULO 717
-
-Será admisible la apelación, dentro de los tres meses que sigan al día de la notificación de la sentencia:
-
-I.- Cuando se hubiere notificado el emplazamiento al reo, por edictos y el juicio se hubiere seguido en rebeldía;
-
-II.- Cuando no estuvieren representados legítimamente el actor o el demandado o siendo incapaces, las diligencias se hubieren entendido con ellos;
-
-III.- Cuando no hubiere sido emplazado el demandado conforme a la ley;
-
-IV.- Cuando el juicio se hubiere seguido ante un juez incompetente, no siendo prorrogable la jurisdicción.
-
-ARTICULO 718
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE MARZO DE 1973)</small>
-
-El Juez podrá desechar la apelación cuando resulte de autos que el recurso fue interpuesto fuera de tiempo y cuando el demandado haya contestado la demanda o se haya hecho expresamente sabedor del juicio. En todos los demás casos, el juez se abstendrá de calificar el grado y remitirá inmediatamente, emplazando a los interesados, el principal al superior, quien oirá a las partes con los mismos trámites del juicio ordinario, sirviendo de demanda la interposición del recurso, que debe llenar los requisitos del artículo 255.
-
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1967)</small>
-
-Declarada la nulidad, se volverán los autos al inferior para que reponga el procedimiento en su caso.
-
-ARTICULO 719 (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
-
-ARTICULO 720
-
-La sentencia que se pronuncia resolviendo la apelación extraordinaria, no admite más recurso que el de responsabilidad.
-
-ARTICULO 721
-
-Cuando el padre que ejerza la patria potestad, el tutor o el menor en su caso ratifiquen lo actuado, se sobreseerá el recurso sin que pueda oponerse la contraparte.
-
-ARTICULO 722
-
-El actor o el demandado capaces que estuvieron legítimamente representados en la demanda y contestación, y que dejaron de estarlo después, no podrán intentar esta apelación.
 
 ## TITULO DECIMO CUARTO-BIS. De las controversias en materia de arrendamiento de fincas urbanas destinadas a habitación
 
@@ -5093,6 +5147,44 @@ Para la facilidad y rapidez en el despacho, las citas, órdenes, actas y demás 
 ARTICULO 47
 
 Los Jueces de Paz no son recusables; pero deben excusarse cuando estén impedidos, y, en tal caso, el negocio pasará al siguiente juzgado en número. Si los jueces impedidos no se excusaren, a queja de parte el superior impondrá corrección disciplinaria, y hará la anotación en el expediente del funcionario.
+
+### CAPITULO II. De la apelación extraordinaria
+
+ARTICULO 717
+
+Será admisible la apelación, dentro de los tres meses que sigan al día de la notificación de la sentencia:
+
+I.- Cuando se hubiere notificado el emplazamiento al reo, por edictos y el juicio se hubiere seguido en rebeldía;
+
+II.- Cuando no estuvieren representados legítimamente el actor o el demandado o siendo incapaces, las diligencias se hubieren entendido con ellos;
+
+III.- Cuando no hubiere sido emplazado el demandado conforme a la ley;
+
+IV.- Cuando el juicio se hubiere seguido ante un juez incompetente, no siendo prorrogable la jurisdicción.
+
+ARTICULO 718
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE MARZO DE 1973)</small>
+
+El Juez podrá desechar la apelación cuando resulte de autos que el recurso fue interpuesto fuera de tiempo y cuando el demandado haya contestado la demanda o se haya hecho expresamente sabedor del juicio. En todos los demás casos, el juez se abstendrá de calificar el grado y remitirá inmediatamente, emplazando a los interesados, el principal al superior, quien oirá a las partes con los mismos trámites del juicio ordinario, sirviendo de demanda la interposición del recurso, que debe llenar los requisitos del artículo 255.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1967)</small>
+
+Declarada la nulidad, se volverán los autos al inferior para que reponga el procedimiento en su caso.
+
+ARTICULO 719 (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
+
+ARTICULO 720
+
+La sentencia que se pronuncia resolviendo la apelación extraordinaria, no admite más recurso que el de responsabilidad.
+
+ARTICULO 721
+
+Cuando el padre que ejerza la patria potestad, el tutor o el menor en su caso ratifiquen lo actuado, se sobreseerá el recurso sin que pueda oponerse la contraparte.
+
+ARTICULO 722
+
+El actor o el demandado capaces que estuvieron legítimamente representados en la demanda y contestación, y que dejaron de estarlo después, no podrán intentar esta apelación.
 
 ### CAPITULO III. Re (sic) la Queja
 
@@ -6136,6 +6228,10 @@ ARTICULO 893
 
 La jurisdicción voluntaria comprende todos los actos en que por disposición de la ley o por solicitud de los interesados se requiere la intervención del juez sin que esté promovida ni se promueva cuestión alguna entre partes determinadas.
 
+> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1988)</small>
+
+A solicitud de parte legítima podrán practicarse en esta vía las notificaciones o emplazamientos necesarios en procesos extranjeros.
+
 ARTICULO 894
 
 Cuando fuere necesaria la audiencia de alguna persona, se la citará conforme a derecho advirtiéndole en la citación que quedan por tres días las actuaciones en la secretaría del juzgado para que se imponga de ellas y señalándole día y hora para la audiencia a la que concurrirá el promovente, sin que sea obstáculo para la celebración de ella la falta de asistencia de éste.
@@ -6947,3 +7043,9 @@ Las cuestiones de competencia y recusación con causa que se encuentren en trám
 ###### ARTICULO CUARTO.
 
 Se derogan todas las disposiciones legales que se opongan a lo dispuesto por el presente Decreto.
+
+D.O.F. 7 DE ENERO DE 1988.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los procedimientos relativos a las materias a que se refiere el presente Decreto, que se encuentren en trámite al momento de su entrada en vigor, continuarán substanciándose conforme a las disposiciones vigentes al momento de su inicio.
