@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1978-09-04"
+last_updated: "1979-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE SEPTIEMBRE DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 1979.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -607,7 +607,7 @@ El Gobernador será electo cada seis años y tomará posesión de su cargo el d�
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 1942)</small>
 
-El Gobernador cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar el cargo ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
+El Gobernador cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar el cargo, ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 1942)</small>
 
@@ -681,9 +681,9 @@ XXIII.- Rendir los informes a que se refiere la fracción XIII del art. 63.
 
 XXIV.- Proponer terna al Congreso para Secretario de Finanzas y Tesorero General del Estado, y removerlo libremente enviando nueva terna al Congreso.
 
-> <small>(REFORMADA, P.O. 17 DE MAYO DE 1972)</small>
+> <small>(REFORMADA, P.O. 1o. DE ENERO DE 1979)</small>
 
-XXV.- Nombrar, remover y cesar directamente a los Oficiales del Registro Civil de los Municipios de Monterrey, Guadalupe, San Nicolás de los Garza y Garza García. En los demás Municipios será precisamente Oficial del Registro Civil el Presidente Municipal; pero donde por razón demográfica deba existir más de uno, el Gobernador del Estado designará los que fueren necesarios, mediante terna que al efecto presente el respectivo Ayuntamiento.
+XXV.- Nombrar, remover y cesar directamente a los Oficiales del Registro Civil de todos los Municipios del Estado; y establecer el número de ellos y su jurisdicción, atendiendo a las necesidades y crecimiento de la población.
 
 > <small>(ADICIONADA, P.O. 15 DE JUNIO DE 1968)</small>
 
@@ -757,15 +757,19 @@ El cargo de Gobernador sólo es renunciable por causa grave que calificará el C
 
 ## TITULO VI.. Del Poder Judicial
 
+> <small>(REFORMADO, P.O. 1o. DE ENERO DE 1979)</small>
+
 ###### Art. 94.
 
-Se deposita el ejercicio del Poder Judicial en un Tribunal Superior de Justicia, en los Jueces de Letras y en los Alcaldes Judiciales.
+Se deposita el ejercicio del Poder Judicial en un Tribunal Superior de Justicia, en Juzgados de lo Civil, Juzgados de lo Familiar, Juzgados de lo Penal, Juzgados de Jurisdicción Mixta, Alcaldes Judiciales y en los demás funcionarios y auxiliares de la Administración de Justicia, en los términos que establezca la Ley.
 
-El Tribunal se compondrá de cinco Magistrados Propietarios y siete Supernumerarios. Estos sustituirán a aquéllos en la forma y términos que disponga la ley.
+El Tribunal Superior de Justicia del Estado se compondrá de 6 Magistrados. Las faltas de ellos se suplirán como lo disponga la propia Constitución y la Ley Orgánica del Poder Judicial del Estado.
+
+> <small>(REFORMADO, P.O. 1o. DE ENERO DE 1979)</small>
 
 ###### Art. 95.
 
-La potestad de aplicar las leyes en lo civil y criminal pertenece al Poder Judicial.
+La potestad de aplicar las leyes en lo civil, familiar y criminal pertenece al Poder Judicial.
 
 ###### Art. 96.
 
@@ -793,15 +797,11 @@ Será Presidente del Tribunal el que por elección designen sus miembros, en la 
 
 El Ministerio Público, institución que tiene por objeto velar por la exacta observancia de las Leyes de interés general, será desempeñado por un Procurador General de Justicia, dos Sub-Procuradores y por los Agentes de dicho Ministerio y sus Suplentes, en su caso, nombrados todos por el Ejecutivo. Una Ley reglamentaria determinará la organización y funcionamiento del Ministerio Público en el Estado.
 
-(REFORMADO, P.O. 14 DE DICIEMBRE DE 1966)(REPUBLICADO, P.O. 18 DE ENERO DE 1967)
+> <small>(REFORMADO, P.O. 1o. DE ENERO DE 1979)</small>
 
 ###### Art. 98.
 
-Las faltas temporales de los Magistrados serán cubiertas por los Supernumerarios, en el orden de su designación y las perpetuas por nombramiento del Gobernador, que someterá a la aprobación del Congreso o a la Diputación Permanente, en su caso, en los términos previstos en el artículo anterior.
-
-Las renuncias de los Magistrados del Tribunal Superior de Justicia solamente proceden por causas graves; serán sometidas al Ejecutivo y si éste las acepta, serán enviadas para su aprobación al Congreso del Estado y en su receso a la Diputación Permanente.
-
-Las licencias de los Magistrados, cuando no excedan de tres meses, serán concedidas por el Tribunal Superior de Justicia, y las que excedan de ese tiempo las concederá el Gobernador del Estado, con la aprobación del Congreso, o, en su receso por la Diputación Permanente.
+Las faltas temporales de los Magistrados serán cubiertas en los términos que establezca la Ley Orgánica del Poder Judicial y las definitivas por nombramiento del Gobernador que someterá a la aprobación del Congreso en los términos previstos en el artículo anterior. Si el Congreso estuviere en receso, la Diputación Permanente dará su aprobación mientras se reúne aquel y la otorga en definitiva.
 
 ###### Art. 99.
 
@@ -823,11 +823,13 @@ IV.- No haber sido condenado en proceso legal por delitos contra la propiedad o 
 
 Pertenece al Tribunal Superior de Justicia:
 
-I.- Conocer en grado o revisión de los negocios civiles y criminales que les remitan los Jueces de Letras y Alcaldes Judiciales; y dirimir las competencias de jurisdicción entre las diversas autoridades judiciales, en los casos de la ley.
+> <small>(REFORMADA, P.O. 1o. DE ENERO DE 1979)</small>
 
-(REFORMADA, P.O. 14 DE DICIEMBRE DE 1966)(REPUBLICADO, P.O. 18 DE ENERO DE 1967)
+I.- Conocer en grado de revisión de los negocios civiles, familiares y criminales que le remitan los Jueces de Primera Instancia y Alcaldes Judiciales; y dirimir las competencias de jurisdicción entre las diversas autoridades judiciales, en los casos de la Ley.
 
-II.- Señalar a cada Juez la Fracción Judicial, número y ramo en que debe ejercer sus funciones, pudiendo cambiar de lugar al mismo Juez, pasándolo de una Fracción a otra, o fijando su residencia, en otra población, según lo estime conveniente para el mejor servicio público.
+> <small>(REFORMADA, P.O. 1o. DE ENERO DE 1979)</small>
+
+II.- Señalar a cada Juez el Distrito Judicial, su número y el ramo en que debe ejercer sus funciones, pudiendo cambiar de lugar al mismo Juez, pasándolo de un Distrito a otro, o fijando su residencia en otra población, según lo estime conveniente para el mejor servicio público.
 
 III.- Conocer en Tribunal Pleno, y erigido en Jurado de Sentencia, de los delitos oficiales de los altos funcionarios públicos a que se refiere el art. 108 de la Constitución.
 
@@ -845,13 +847,15 @@ VIII.- Nombrar y remover, en los términos que establezca la Ley del Servicio Ci
 
 IX.- Hacer el Reglamento para su gobierno interior.
 
-(REFORMADA, P.O. 14 DE DICIEMBRE DE 1966)(REPUBLICADO, P.O. 18 DE ENERO DE 1967)
+> <small>(REFORMADA, P.O. 1o. DE ENERO DE 1979)</small>
 
-X.- Nombrar y suspender a los Jueces de Letras en los términos del artículo 103.
+X.- Nombrar y suspender a los Jueces de Primera Instancia en los términos del Artículo 103.
 
 XI.- Iniciar ante la Legislatura las leyes, decretos o acuerdos que tengan por objeto mejorar la administración de justicia:
 
-XII.- Conceder licencias temporales a sus propios miembros, a los Jueces de Letras, Asesores, Alcaldes Judiciales y empleados del Tribunal.
+> <small>(REFORMADA, P.O. 1o. DE ENERO DE 1979)</small>
+
+XII.- Conceder licencias temporales a sus propios miembros, a los Jueces de Primera Instancia, Alcaldes Judiciales y empleados del Tribunal.
 
 XIII.- Nombrar Visitadores Judiciales conforme a la Ley Orgánica respectiva.
 
@@ -875,11 +879,11 @@ Transcurrido un año después del nombramiento, el Tribunal, a propuesta del Gob
 
 Al término del plazo de tres años, a propuesta del Ejecutivo, el Tribunal declarará la inamovilidad en el cargo, la cual se perderá solamente por mala conducta, cuando incurran en faltas de probidad u honradez, negligencia en el desempeño de sus labores, sean condenados por sentencia ejecutoria en juicio de responsabilidad, acepten desempeñar otro empleo o encargo de la Federación, Estados, Municipios o particulares, excepto los servicios de Educación, sean jubilados en los términos legales o renuncien a su puesto.
 
-(REFORMADO, P.O. 14 DE DICIEMBRE DE 1966)(REPUBLICADO, P.O. 18 DE ENERO DE 1967)
+> <small>(REFORMADO, P.O. 1o. DE ENERO DE 1979)</small>
 
 ###### Art. 104.
 
-Los Alcaldes Judiciales de la Ciudad de Monterrey, y de los Municipios a que se refiera la Ley Orgánica del Poder Judicial serán Letrados; éstos y los demás del Estado tendrán las facultades conciliatorias y judiciales que acuerde la Ley Orgánica respectiva. Los Alcaldes Judiciales serán electos popularmente cada tres años, en la forma que prevenga la Ley Electoral.
+Los Alcaldes Judiciales de la Ciudad de Monterrey, y de los Municipios a que se refiera la Ley Orgánica del Poder Judicial serán Licenciados en Derecho; éstos y los demás del Estado tendrán las facultades conciliatorias y judiciales que acuerde la Ley Orgánica respectiva. Los Alcaldes Judiciales serán nombrados popularmente cada tres años, en la forma que prevenga la Ley Electoral.
 
 ## TITULO VII.. De la Responsabilidad
 
@@ -1606,3 +1610,15 @@ P.O. 28 DE AGOSTO DE 1978.
 P.O. 4 DE SEPTIEMBRE DE 1978.
 
 UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE ENERO DE 1979.
+
+DECRETO NÚMERO 204
+
+UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE ENERO DE 1979.
+
+DECRETO NÚMERO 205.
+
+UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
