@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-29013"
 country: "mx"
 rank: "constitucion"
 publication_date: "1824-11-18"
-last_updated: "1832-10-06"
+last_updated: "1848-03-06"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO (1824)
 
-ULTIMA REFORMA PUBLICADA: 27 DE SEPTIEMBRE DE 1833
+ULTIMA REFORMA PUBLICADA: 6 DE MARZO DE 1848
 
 Constitución publicada el día 18 del mes de noviembre de 1824.
 
@@ -643,15 +643,15 @@ Sexta. Consultar al gefe de policía en los asuntos en que pida dictámen.
 
 ### CAPITULO III. De los tribunales
 
-219. Habrá tribunales de primera instancia en todos los lugares del Estado, en que haya ayuntamiento.
+219. (DEROGADO, 6 DE MARZO DE 1848)
 
-> <small>(REFORMADO, 30 DE SEPTIEMBRE DE 1830)</small>
+> <small>(DEROGADAS LAS REFORMAS, 6 DE MARZO DE 1848)</small>
 
-220. Los tribunales de primera instancia, se compondrán de un alcalde.
+220. Los tribunales de primera instancia se compondrán de un alcalde y de dos vecinos nombrados por el ayuntamiento, que se renovarán cada tres meses, pudiendo ser reelegidos los anteriores sin intérvalo alguno por una sola vez.
 
-221. En los lugares donde haya dos ó mas alcaldes, habrá otros tantos tribunales de primera instancia, formados de un mismo modo, y con iguales facultades en todo el distrito de su respectivo ayuntamiento.
+221. (DEROGADO, 6 DE MARZO DE 1848)
 
-222. En estos tribunales tomarán principio precisamente todos los negocios judiciales, á excepcion de los relativos á los funcionarios públicos, de que habla el art. 237.
+222. (DEROGADO, 6 DE MARZO DE 1848)
 
 223. Respecto de los militares y eclesiásticos, se observará lo dispuesto en el art. 154 de la Constitucion federal de los Estados - Unidos mejicanos.
 
@@ -669,9 +669,9 @@ Sexta. Consultar al gefe de policía en los asuntos en que pida dictámen.
 
 230. Cuando el Congreso lo estime conveniente, se establecerá en el Estado el juicio por jurados, con toda la extension que corresponde.
 
-231. Para determinar las expresadas causas criminales y las demas que ocurran en los tribunales de primera instancia consultarán los individuos que los componen con el asesor de su respectivo canton.
+231. (DEROGADO, 6 DE MARZO DE 1848)
 
-232. Los asesores deben ser ciudadanos en el ejercicio de sus derechos, y mayores de veinticinco años.
+232. (DEROGADO, 6 DE MARZO DE 1848)
 
 233. Habrá en la Capital del Estado un tribunal supremo de justicia dividido en tres salas, y compuesta cada una de ellas de tres magistrados.
 
@@ -703,7 +703,9 @@ Quinto. Oir las dudas de ley que se ofrezcan á cualquiera de las dos primeras s
 
 242. Los individuos del Supremo tribunal de Justicia deben ser ciudadanos en el ejercicio de sus derechos, mayores de treinta años, y vecinos del Estado, con residencia en él los cinco años anteriores al de su eleccion.
 
-243. Estos magistrados y los asesores de los cantones serán nombrados por el Gobernador del Estado, á propuesta en terna del senado, y disfrutarán un salario competente que designará la ley.
+> <small>(REFORMADO, 6 DE MARZO DE 1848)</small>
+
+243. Dichos magistrados serán nombrados por el Gobernador del Estado á propuesta en terna del consejo de Gobierno.
 
 244. Unos y otros durarán cuatro años en el ejercicio de sus empleos, pero podrán ser nombrados sin intérvalo alguno para volverlos á servir.
 
@@ -785,7 +787,7 @@ Tomado de: Colección de los Decretos, Circulares y Ordenes de los Poderes Legis
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
 
-PUBLICADO, 17 DE MAYO DE 1830
+PUBLICADO 17 DE MAYO DE 1830
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS JURIDICAS.
 
@@ -794,5 +796,9 @@ PUBLICADO 30 DE SEPTIEMBRE DE 1830
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS JURIDICAS.
 
 PUBLICADO, 27 DE SEPTIEMBRE DE 1833
+
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS JURIDICAS.
+
+PUBLICADO, 6 DE MARZO DE 1848
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS JURIDICAS.
