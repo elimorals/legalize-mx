@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-en-materia-de-defensa-social-para-7627
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2002-12-18"
+last_updated: "2004-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO L. Y S. DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2004.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -103,7 +103,7 @@ IV.- Para interponer los recursos que la ley señala y seguir los incidentes que
 
 > <small>(ADICIONADA, P.O. 1 DE JULIO DE 1994)</small>
 
-V.- Para procurar la conciliación de las partes, tratándose de delitos perseguibles por querella; y
+V. Para procurar la conciliación de las partes, tratándose de delitos perseguibles por querella; y
 
 > <small>(REFORMADA, P.O. 24 DE MARZO DE 2000)</small>
 
@@ -215,9 +215,9 @@ Cuando las partes en el juicio estimen que no es competente el Juez que conoce d
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2000)</small>
 
-I.- El auto en que se acepte o niegue la inhibición es recurrible en apelación, la cual no suspende el procedimiento;
+I.- El auto en que se acepte o niegue la inhibición es recurrible en apelación, la cual no suspende el procedimiento.
 
-II.- La resolución que acepte la inhibición no tendrá el efecto de nulificar lo actuado por el Juez declarado incompetente;
+II.- La resolución que acepte la inhibición no tendrá el efecto de nulificar lo actuado por el Juez declarado incompetente.
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2000)</small>
 
@@ -1907,7 +1907,7 @@ El Agente del Ministerio Público y la Defensa, tendrán derecho de interrogar a
 
 ###### Artículo 208.
 
-En los casos en que el delito, por no merecer sanción corporal y por merecer sanción alternativa que incluya una no corporal, no dé lugar a detención, a pedimento del Ministerio Público se librará orden de comparencia en contra del indiciado para que rinda su declaración preparatoria, siempre que esté comprobado el cuerpo del delito y la probable responsabilidad del mismo.
+En los casos en que el delito, por no merecer sanción corporal y por merecer sanción alternativa que incluya una no corporal, no dé lugar a detención, a pedimento del Ministerio Público se librará orden de comparencia (sic) en contra del indiciado para que rinda su declaración preparatoria, siempre que esté comprobado el cuerpo del delito y la probable responsabilidad del mismo.
 
 ###### Artículo 209.
 
@@ -2287,6 +2287,12 @@ Contra las resoluciones dictadas en el procedimiento sumario no procede recurso 
 
 Todas las actuaciones en el procedimiento sumario se practicarán a continuación unas de otras; se harán constar por escrito, asentándose únicamente lo sustancial de las mismas, para lo cual se hará un extracto de ellas y el procedimiento deberá terminarse en una sola audiencia, que únicamente podrá interrumpirse o diferirse por una vez, cuando sea absolutamente necesario, o cuando el procesado lo pida para preparar, ofrecer y desahogar las pruebas de él.
 
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2004)</small>
+
+###### Artículo 263
+
+Bis.- Al procedimiento sumario seguido ante los Juzgados Municipales, serán aplicables los artículos 250, 254, 255, 256, 257, 258, 259, 260, 261 y 263 del presente ordenamiento.
+
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
 
 ###### Artículo 264.
@@ -2316,6 +2322,8 @@ III.- La sentencia de segunda instancia;
 IV.- Las resoluciones contra las cuales no conceda la ley ningún recurso.
 
 #### SECCION CUARTA.- QUEJA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ENERO DE 2004)</small>
 
 ###### Artículo 267.
 
@@ -2549,7 +2557,7 @@ En los casos previstos en el artículo anterior, si el defensor fuere de oficio,
 
 ###### Artículo 305.
 
-Se ocurrirá en queja al inmediato Superior, para corregir las infracciones de ley que cometan los Jueces Menores de Defensa Social, en los casos siguientes:
+Se ocurrirá en queja al inmediato superior, para corregir las infracciones de ley que cometan los Jueces Menores de Defensa Social y Municipales de lo Penal, en los siguientes casos:
 
 I.- Detención del acusado sin auto de formal prisión, fuera del término constitucional;
 
@@ -2559,9 +2567,21 @@ III.- Negativa de abrir la causa o de ordenar la aprehensión del acusado, exclu
 
 IV.- Violación a los artículos 8, 17, 18 y 20 de la Constitución General de la República, cometida durante la secuela;
 
-V.- En contra de las sentencias interlocutorias o definitivas,
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2004)</small>
 
-VI.- En los demás casos en que la ley no conceda recurso especial.
+V.- En contra de las Sentencias Interlocutorias;
+
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2004)</small>
+
+VI.- Los autos que ratifiquen la constitucionalidad de una detención conforme al párrafo sexto del artículo 16 Constitucional;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2004)</small>
+
+VII.- Los autos en que se fije o modifique el monto de la caución para obtener la libertad provisional, teniendo la autoridad que conozca de la queja, en este caso, un término de cuarenta y ocho horas para resolver al respecto; y
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2004)</small>
+
+VIII.- En los demás casos en que la ley no conceda recurso especial.
 
 ###### Artículo 306.
 
@@ -3161,7 +3181,7 @@ La resolución que conceda o niegue la libertad a que se refiere este Capítulo,
 
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
-> <small>(ADICIONADO, P.O., 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
 
 ###### Artículo 384.
 
@@ -3207,7 +3227,7 @@ En la sanción de prisión que imponga una sentencia, se computará el tiempo de
 
 #### SECCION SEGUNDA. PROCEDIMIENTO
 
-> <small>(ADICIONADO, P.O., 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ENERO DE 2004)</small>
 
 ###### Artículo 390.
 
@@ -3267,65 +3287,79 @@ La apelación interpuesta por el ofendido o su representante en los casos establ
 
 ###### Artículo 395.
 
-La mediación tiene por objeto que el querellante y el inculpado, asistidos de una autoridad mediadora, encuentren formas alternativas de solución al conflicto de índole penal que diriman ante los órganos de procuración e impartición de justicia, con el fin de que logren un acuerdo que termine con la prosecución procesal.
+La mediación tiene por objeto que el querellante y el inculpado, asistidos de uno o varios mediadores, encuentren formas alternativas de solución al conflicto de índole penal, que se dirima ante los órganos de procuración e impartición de justicia, con el fin de que busquen de manera conjunta y pacífica un acuerdo satisfactorio que termine con la prosecución procesal.
 
-La mediación será procedente únicamente en delitos de querella necesaria.
+La mediación será procedente únicamente en delitos de querella.
 
-> <small>(ADICIONADO, P.O., 18 DE DICIEMBRE DE 2002)</small>
+En ningún caso se podrá iniciar proceso de mediación cuando se afecten la libertad sexual, los intereses, derechos, dignidad e integridad psíquica y corporal de incapaces que carezcan de representante legal. Tampoco habrá proceso de mediación cuando exista pluralidad de agraviados sea en una averiguación o en averiguaciones conexas y acumulables. No habrá mediación cuando se afecten los intereses y derechos de la colectividad.
+
+Se preferirá el procedimiento de mediación en la averiguación previa o en el proceso, respecto de aquellos delitos que busquen la reparación del daño patrimonial producida a la víctima.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
 
 ###### Artículo 396.
 
-Serán autoridades mediadoras:
+Se encuentran facultados para practicar mediación penal:
 
-I.- Los Agentes del Ministerio Público Mediadores nombrados por la Procuraduría General de Justicia;
+I.- Preferentemente los mediadores profesionales reconocidos por el Tribunal Superior de Justicia;
 
-II.- Los Agentes del Ministerio Público que integren Averiguaciones Previas, y
+II.- Los mediadores nombrados por la Procuraduría General de Justicia;
 
-III.- Los Jueces competentes en Materia de Defensa Social del Tribunal Superior de Justicia del Estado.
+III.- Los Agentes del Ministerio Público que integran la averiguación previa; y
 
-> <small>(ADICIONADO, P.O., 18 DE DICIEMBRE DE 2002)</small>
+IV. Los Jueces Penales que conocen del caso.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
 
 ###### Artículo 397.
 
-Son obligaciones de las autoridades mediadoras:
+El mediador debe regir el proceso bajo los siguientes principios:
 
-I.- Guardar la confidencialidad de los asuntos y comentarios vertidos en el procedimiento de mediación y con motivo de éste;
+I.- Voluntariedad.- La participación en el procedimiento de mediación, debe ser por su propia decisión y no por obligación;
 
-II.- Conservar una actitud neutral ante las partes, actuando con objetividad y sin favorecer especialmente a una de ellas;
+II.- Confidencialidad.- Lo tratado en mediación no podrá ser divulgado por el mediador, a excepción de los casos en los que la información se refiera a un delito grave;
 
-III.- Propiciar las condiciones idóneas para el diálogo directo entre las partes, tendientes a la solución del conflicto;
+III.- Flexibilidad.- El procedimiento de mediación debe de carecer de toda forma estricta, para poder responder a las necesidades particulares de los mediados;
 
-IV.- Evitar el exceso de formalismo y la dilación de los asuntos;
+IV.- Neutralidad.- El mediador mantiene una postura y mentalidad de no ceder a sus propias inclinaciones o preferencias personales durante todo el procedimiento de mediación;
 
-V.- Estar presentes en las audiencias del procedimiento en que intervenga;
+V.- Imparcialidad.- El mediador actuará libre de favoritismos, prejuicios o rituales, tratando a los mediados con absoluta objetividad, sin hacer entre ellos diferencia alguna;
 
-VI.- Vigilar que los términos y condiciones que pacten las partes sean claros, determinados y ciertos, dejando el menor espacio posible a la interpretacón;
+VI.- Equidad.- El mediador debe procurar que el acuerdo al que lleguen los mediados sea comprendido por éstos y que lo perciban justo y duradero;
 
-VII.- Procurar su capacitación y actualización constante en materia de mediación, y
+VII.- Legalidad.- Sólo pueden ser objeto de mediación, los conflictos derivados de los derechos que se encuentren dentro de la libre disposición de los mediados; y
 
-VIII.- Las demás que determinen las leyes.
+VIII.- Honestidad.- El mediador debe excusarse de participar en una mediación o dar por terminada la misma si, a su juicio, cree que tal acción será a favor de los intereses de los mediados.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 398.
 
-El Agente del Ministerio Público investigador recibirá la denuncia conforme los artículos 61, 62 y relativos de este Código, y si es que la conducta descrita pudiese encuadrar en la descripción de un delito perseguible únicamente a petición del ofendido, procederá como sigue;
+Los Ministerios Públicos y los Jueces una vez recibida la denuncia o consignación, y si la conducta descrita pudiese encuadrar en la descripción de un delito perseguible únicamente a petición del ofendido, procederá como sigue:
 
-I.- Hará del conocimiento del querellante y del inculpado si lo hubiere, de la mecánica del procedimiento de mediación y que el mismo deberá ser agotado en forma previa a la investigación del ilícito;
+> <small>(REFORMADA P.O. 21 DE ENERO DE 2004)</small>
 
-II.- Se remitirá una copia certificada de las actuaciones al Ministerio Público Mediador;
+I.- Se hará del conocimiento de los mediados, de la mecánica del procedimiento de mediación y que el mismo de forma voluntaria podrá ser agotado en cualquier etapa del procedimiento;
+
+> <small>(REFORMADA P.O. 21 DE ENERO DE 2004)</small>
+
+II.- Se remitirá una copia certificada de las constancias necesarias de actuaciones ministeriales o del proceso, para que el mediador pueda llevar a cabo el procedimiento, cuando éste no lo practique el Ministerio Público integrador de la averiguación previa o el Juez competente que conozca del proceso;
+
+> <small>(ADICIONADA, P.O., 18 DE DICIEMBRE DE 2002)</small>
 
 III.- Podrán participar en la mediación personas con capacidad de ejercicio. En caso de que el inculpado no tenga esta capacidad se mediará con quien resulte ser legalmente su representante, sin que otros casos (sic) se admita la intervención de mandatarios, a menos que se trate de personas jurídicas; y,
 
+> <small>(ADICIONADA, P.O., 18 DE DICIEMBRE DE 2002)</small>
+
 IV.- No se aplicará lo dispuesto por este artículo en los casos en que haya ocurrido detención en flagrancia del presunto responsable o cuando el agraviado esté inconsciente o no pueda declarar.
 
-> <small>(ADICIONADO, P.O., 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
 
 ###### Artículo 399.
 
-A la llegada de los autos, el Ministerio Público Mediador redicará el expediente y citará a una audiencia al querellante y al inculpado, haciéndoles saber claramente en el citatorio que se desahogará una diligencia de mediación, a la cual podrán asistir con o sin persona que los represente.
+La autoridad que conozca de la averiguación o del proceso, así como el mediador en su caso, analizará si el conflicto es o no susceptible al procedimiento de mediación y a voluntad expresa del solicitante se invitará a una audiencia a los mediados haciéndoles saber claramente que se desahogará una sesión de mediación, a la cual podrán asistir con o sin persona de su confianza, para que las partes decidan si participan o no dentro de la sesión de mediación.
 
-El citatorio deberá indicar el día, hora y lugar determinado para la audiencia, el nombre y cargo de la autoridad mediadora, debiéndose hacer la entrega de este citatorio conforme a lo dispuesto en este Código con al menos cinco días hábiles de anticipación a la audiencia.
+La invitación deberá indicar el día, hora y lugar determinado para la sesión, nombre y cargo de quien practique la mediación, con el deber de hacer entrega de la invitación, con por lo menos cinco días hábiles de anticipación a la fecha programada para la sesión.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -3333,7 +3367,9 @@ El citatorio deberá indicar el día, hora y lugar determinado para la audiencia
 
 El procedimiento que se seguirá en la primera audiencia de mediación será el siguiente:
 
-I.- Si sólo comparece el querellante o el inculpado, se suspenderá la audiencia, dejando razón de ello y se citará para una nueva fecha;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2004)</small>
+
+I.- Si sólo comparece uno de los mediados, se dejará razón de ello y a petición del compareciente se invitará para una nueva fecha;
 
 II.- Si comparecen ambas partes, previa identificación de las mismas, se les hará saber los objetivos, los beneficios y la mecánica del procedimiento de mediación;
 
@@ -3347,21 +3383,21 @@ VI.- De no existir acuerdo en la primera audiencia, se señalará día y hora pa
 
 VII.- Se realizarán tantas sesiones como las partes consideren necesarias para llegar a una conclusión sobre la posibilidad de solucionar el conflicto vía la mediación.
 
-> <small>(ADICIONADO, P.O., 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
 
 ###### Artículo 401.
 
-La inasistencia de alguna de las partes a cualquiera de las citaciones dará lugar a que el mediador cite de oficio por segunda ocasión. Si el faltista nuevamente no asiste a la audiencia sin justificación y hubiera sido citado legalmente, se declarará desierta la mediación, salvo que la parte que sí asista solicite que se fije un nuevo día y hora para la audiencia.
+Cuando la mediación se practique por Ministerio Público o por Juez, se podrá determinar no iniciarla, suspenderla o darla por terminada cuando a su juicio resulte inadecuada en la buena marcha para la procuración y administración de justicia o notoriamente perjudique los intereses o derechos de una de las partes de la averiguación o del proceso, para lo cual realizará la determinación debidamente fundada y motivada, resolución contra la cual no procede recurso alguno.
 
-En caso de que se declare desierta la mediación o no haya sido posible lograr un acuerdo que termine con la prosecución procesal, se remitirá la indagatoria a la Agencia de origen para que se continúe con la integración de la misma.
+Cuando la mediación se practique por mediador de la Procuraduría General de Justicia o profesional y no haya sido posible lograr un acuerdo que termine con la prosecución judicial, se comunicará esta situación a la autoridad competente para los efectos legales a que haya lugar.
 
-> <small>(ADICIONADO, P.O., 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
 
 ###### Artículo 402.
 
-Sobre las actuaciones que se realicen durante el procedimiento, recaerá un acta circunstanciada que levantará la autoridad mediadora, cumpliendo con los requisitos que señalan los artículos 20 y 21 de este Código.
+Se levantará acta circunstanciada cumpliendo con los requisitos que señalan los artículos 20 y 21 de este Código, cuando el proceso de mediación obtenga acuerdos suficientes para concluir el asunto, siempre que el proceso de mediación se verifique por el agente del Ministerio Público o por el Juez del conocimiento, quien deberá acordar lo que en derecho corresponda.
 
-Se harán constar en el acta los resultados de la diligencia, siendo éstos solamente los puntos acordados entre las partes, la cita para una nueva audiencia, la suspensión del procedimiento o la declaración de mediación desierta y en su caso, el convenio al que lleguen para concluir el asunto.
+Cuando el proceso de mediación se verifique ante mediador nombrado por la Procuraduría General de Justicia o profesional en mediación y se obtengan acuerdos que concluyan el asunto, se remitirá el convenio respectivo y una comunicación directa al Ministerio Público o Juez de la causa, para que proceda a la formación de un acta circunstanciada que cumpla los requisitos de los artículos 20 y 21 de este Código y resuelva lo que conforme a derecho proceda.
 
 > <small>(ADICIONADO, P.O., 18 DE DICIEMBRE DE 2002)</small>
 
@@ -3369,13 +3405,11 @@ Se harán constar en el acta los resultados de la diligencia, siendo éstos sola
 
 Quedará bajo la responsabilidad del mediador evitar que durante el procedimiento de mediación, en las actuaciones o el convenio, se asienten frases relativas al reconocimiento de responsabilidad, de la participación, retractaciones o equivalentes. En caso de no cumplir con esta disposición dichas frases se tendrán por no puestas.
 
-> <small>(ADICIONADO, P.O., 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
 
-###### Articulo 404.
+###### Artículo 404.
 
-El procedimiento de mediación no podrá exceder de tres meses, a menos que así lo acuerden expresamente las partes.
-
-La iniciación del procedimiento de mediación no interrumpe ni suspenden las prescripciones señaladas en este Código.
+La iniciación del procedimiento de mediación no interrumpe ni suspende las prescripciones señaladas en este Código.
 
 > <small>(ADICIONADO, P.O., 18 DE DICIEMBRE DE 2002)</small>
 
@@ -3383,7 +3417,9 @@ La iniciación del procedimiento de mediación no interrumpe ni suspenden las pr
 
 La autoridad encargada de la tramitación de la Averiguación Previa o el proceso, en la primera actuación con el querellante o el inculpado, hará de su conocimiento que está abierta la posibilidad de mediación durante todo el procedimiento.
 
-En el momento en que alguna de las partes manifestara su interés de mediar, la autoridad citará a una audiencia, actuando como ordenan los artículos 400, 401 primer párrafo, 402, 403 y 404 de este Código, pudiendo suspender la tramitación que se siguiere, si el querellante y el inculpado así lo acordaran.
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
+
+En el momento que alguna de las partes manifieste su interés de mediar, la autoridad citará a una audiencia en los términos de esta sección o podrá derivar el caso a mediadores nombrados por la Procuraduría General de Justicia o profesionales, quienes intervendrán en los términos que establece esta misma sección.
 
 (ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE DICIEMBRE DE 2002) (F. DE E., P.O. 24 DE MARZO DE 2003)
 
@@ -3409,11 +3445,11 @@ A efecto de verificar el cumplimiento de lo acordado, desde el convenio se citar
 
 En caso de que alguno de los contratantes alegue el incumplimiento de lo convenido, se citará a una nueva audiencia en la que se oirá a las partes, quienes podrán presentar las pruebas para acreditar su dicho, debiendo resolver la autoridad mediadora sobre el cumplimiento en esa misma sesión.
 
-> <small>(ADICIONADO, P.O., 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
 
 ###### Artículo 409.
 
-Cumplidos los acuerdos establecidos en el convenio, se dictará una resolución de archivo definitivo, y en el caso previsto en el artículo 398, se remitirán las actuaciones al Ministerio Público que recibió la querella, para este mismo efecto.
+Cumplidos los acuerdos establecidos en el convenio, se dictará por la autoridad mediadora, acuerdo de la extinción de la acción persecutoria y se ordenará el archivo definitivo.
 
 TRANSITORIOS:
 
@@ -3534,3 +3570,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
+
+P.O. 21 DE ENERO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
