@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-federal-de-9201"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-12-09"
-last_updated: "2002-05-14"
+last_updated: "2002-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9201&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-12-05"
 
 REGLAMENTO INTERNO DE LA COMISION FEDERAL DE TELECOMUNICACIONES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE MAYO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE OCTUBRE DE 2002.
 
 Reglamento publicado en el Diario Oficial de la Federación el lunes 9 de diciembre de 1996.
 
@@ -157,9 +157,9 @@ s) Servicio Local y Radiocomunicación, y
 
 t) Larga Distancia y Valor Agregado.
 
-> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1999)</small>
+> <small>(REFORMADA, D.O.F. 7 DE OCTUBRE DE 2002)</small>
 
-VII. La Contraloría Interna;
+VII. Titular del Organo Interno de Control y sus respectivas Areas de Responsabilidades, Auditoría Interna, Auditoría de Control y Evaluación y Quejas;
 
 > <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1999)</small>
 
@@ -1077,11 +1077,11 @@ VI. Las demás que le asigne el Presidente.
 
 #### Sección VI. De la Contraloría Interna
 
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 7 DE OCTUBRE DE 2002)</small>
 
 ###### Artículo 31.
 
-Corresponde a la Contraloría Interna actuar conforme a las atribuciones que le confiere el artículo 26 del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo, quedando facultada para requerir a la Comisión, a los servidores públicos adscritos a ésta y las unidades administrativas que la integran, la información y documentación necesaria para el cumplimiento de sus funciones.
+Corresponde al Titular del Organo Interno de Control y a sus respectivas Areas de Responsabilidades, Auditoría Interna, Auditoría de Control y Evaluación y Quejas, actuar conforme a las atribuciones que le confiere el artículo 47 fracciones III y IV del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo, quedando facultado para requerir a la Comisión, a los servidores públicos adscritos a ésta y las unidades administrativas que la integran, la información y documentación necesaria para el cumplimiento de sus funciones.
 
 #### Sección VII. Del Secretario Técnico del Pleno
 
@@ -1164,3 +1164,7 @@ D.O.F. 14 DE MAYO DE 2002.
 PRIMERO.- Para efectos de la publicidad del presente Acuerdo, se instruye a la Dirección General de Consulta Jurídica y Normatividad del Area General de Asuntos Jurídicos para que inicie el procedimiento necesario para su publicación en el Diario Oficial de la Federación, y una vez publicado, la Coordinación de Comunicación Social lo deberá hacer en la página de Internet de la Comisión Federal de Telecomunicaciones.
 
 SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE OCTUBRE DE 2002.
+
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
