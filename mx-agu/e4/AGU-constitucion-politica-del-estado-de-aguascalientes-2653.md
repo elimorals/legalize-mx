@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1953-02-01"
+last_updated: "1953-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 1953.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 1953.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -105,11 +105,11 @@ El Estado adopta para su régimen interior la forma de Gobierno Republicano, Rep
 
 Del Territorio del Estado.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1953)</small>
 
-###### Artículo 9o.
+###### Artículo 9º.
 
-El Territorio del Estado es el que de hecho y por derecho le pertenece, dentro de los límites establecidos por el Pacto Federal. Se divide en los Municipios de: Aguascalientes, Rincón de Romos, Calvillo, Jesús María, Asientos, Tepezalá y Cosío.
+El Territorio del Estado es el que de hecho y por derecho le pertenece, dentro de los límites establecidos por el Pacto Federal. Se divide en los Municipios de: Aguascalientes, Rincón de Romos, Calvillo, Jesús María, Asientos, Tepezalá, Cosío y San José de Gracia.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -261,19 +261,11 @@ La infracción de esta disposición será sancionada con la pérdida de la inves
 
 El Congreso se instalará cada tres años, el dieciséis de septiembre del año de la elección.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1953)</small>
 
 ###### Artículo 24.
 
-El Congreso tendrá cada año dos períodos ordinarios de sesiones; uno durará del dieciséis de septiembre al dieciséis de diciembre, y el otro comprenderá del dieciséis de marzo al dieciséis de junio.
-
-Durante el primer período se ocupará preferentemente:
-
-I.- Del examen, discusión y aprobación del Presupuesto de Egresos del Estado correspondiente al año fiscal siguiente; y
-
-II.- De votar los impuestos necesarios para cubrir el Presupuesto a que se refiere la fracción anterior, y las Leyes de Ingresos de los Municipios.
-
-Los años fiscales se contarán del primero de enero al treinta y uno de diciembre de cada año.
+El Congreso tendrá cada año un período ordinario de sesiones, que durará del dieciséis de septiembre al treinta y uno de diciembre.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -511,15 +503,15 @@ El Gobernador del Estado será electo directamente por el pueblo, en los términ
 
 "PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO Y LAS LEYES QUE DE AMBAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE GOBERNADOR QUE EL PUEBLO ME HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DEL ESTADO; Y SI ASI NO LO HICIERE, QUE EL PUEBLO ME LO DEMANDE".
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1953)</small>
 
 ###### Artículo 42.
 
-En caso de falta absoluta del Gobernador, ocurrida dentro de los tres primeros años del período respectivo, si el Congreso estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto y por mayoría absoluta de votos un Gobernador Interino; el propio Congreso expedirá, dentro de los diez días siguientes al de la designación de Gobernador Interino, la convocatoria para la elección del Gobernador que deba concluír el período respectivo, debiendo mediar entre la fecha de la convocatoria y la que se señale para la verificación de las elecciones, un plazo no menor de seis meses ni mayor de ocho.
+En caso de falta absoluta de Gobernador, ocurrida dentro de los dos primeros años del período respectivo, si el Congreso estuviere en sesiones se constituirá inmediatamente en Colegio Electoral y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto y por mayoría absoluta de votos un Gobernador Interino; el propio Congreso expedirá, dentro de los diez días siguientes al de la designación de Gobernador Interino, la convocatoria para la elección de Gobernador que deba concluír el período respectivo, debiendo mediar entre la fecha de la convocatoria y la que se señale para la verificación de las elecciones, un plazo no menor de seis meses ni mayor de ocho.
 
-Si el Congreso no estuviere en sesiones, la Diputación Permanente nombrará desde luego un Gobernador Provisional y convocará a sesiones al Congreso para que éste, a su vez, designe Gobernador Interino y expida la convocatoria a elecciones extraordinarias, en los términos del párrafo anterior.
+Si el Congreso no estuviere en sesiones, la Diputación Permanente nombrará desde luego un Gobernador Provisional y convocará a sesiones al Congreso para que éste, a su vez, designe Gobernador Interino y expida la convocatoria a elecciones extraordinarias en los términos del párrafo anterior.
 
-Cuando la falta de Gobernador ocurriese en los tres últimos años del período correspondiente, el Congreso, si se encontrare en sesiones, designará con las formalidades que establece este artículo, al Gobernador substituto que deberá concluir el período; si estuviere en receso, la Diputación Permanente nombrará un Gobernador Provisional y convocará al Congreso para que, erigido el Colegio Electoral, haga la elección de Gobernador Substituto.
+Cuando la falta de Gobernador ocurriese en los cuatro últimos años del período correspondiente, el Congreso, si se encontrare en sesiones, designará con las formalidades que establece este artículo, al Gobernador Substituto que deberá concluír el período; si estuviere en receso, la Diputación Permanente nombrará un Gobernador Provisional y convocará al Congreso para que, erigido en Colegio Electoral, haga la elección de Gobernador Substituto.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1142,5 +1134,9 @@ P.O. 13 DE AGOSTO DE 1950.
 4o.- Se derogan todas las disposiciones que se opongan a las reformas de esta Constitución.
 
 P.O. 1 DE FEBRERO DE 1953.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 6 DE SEPTIEMBRE DE 1953.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
