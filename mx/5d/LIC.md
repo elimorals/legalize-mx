@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "2004-06-16"
+last_updated: "2004-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE NOVIEMBRE DE 2004.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -1826,11 +1826,11 @@ La Comisión Nacional Bancaria y de Valores y la Comisión Nacional de Seguros y
 
 Mientras los integrantes del Sistema Bancario Mexicano, no se encuentren en liquidación o en procedimiento de quiebra, se considerarán de acreditada solvencia y no estarán obligados a constituir depósitos o fianzas legales, ni aún tratándose de obtener la suspensión de los actos reclamados en los juicios de amparo o de garantizar el interés fiscal en los procedimientos respectivos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 87.
 
-Las instituciones de banca múltiple deberán dar aviso a la Secretaría de Hacienda y Crédito Público e insertar en una publicación periódica de amplia circulación de la localidad de que se trate, un aviso dirigido al público que contenga la información relativa a la apertura, reubicación o clausura de las sucursales respectivas, con una anticipación de treinta días naturales a la fecha en que se tenga programada.
+Las instituciones de banca múltiple deberán dar aviso a la Secretaría de Hacienda y Crédito Público e insertar en una publicación periódica de amplia circulación regional de la localidad de que se trate, un aviso dirigido al público que contenga la información relativa a la apertura, reubicación o clausura de las sucursales respectivas, con una anticipación de treinta días naturales a la fecha en que se tenga programada.
 
 > <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
@@ -1841,8 +1841,6 @@ La Secretaría de Hacienda y Crédito Público podrá autorizar, que las sucursa
 > <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
 La Secretaría de Hacienda y Crédito Público, oirá la opinión del Banco de México y de la Comisión Nacional Bancaria y de Valores, para autorizar lo señalado en los dos párrafos precedentes.
-
-> <small>(DEROGADO QUINTO PARRAFO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 88.
 
@@ -3335,3 +3333,7 @@ Para efectos de lo previsto en el inciso e) de la fracción I del artículo 134 
 ###### ARTÍCULO QUINTO.
 
 La Comisión Nacional Bancaria y de Valores contará con un plazo de 180 días naturales, contados a partir de la publicación de este Decreto, para emitir las reglas de carácter general a que se refiere el artículo 134 Bis de esta Ley.
+
+D.O.F. 5 DE NOVIEMBRE DE 2004.
+
+Unico.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
