@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-publica-y-bases-de-coordinacion-para-el-12356"
 country: "mx"
 rank: "ley"
 publication_date: "1998-04-17"
-last_updated: "1998-04-17"
+last_updated: "1999-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SEGURIDAD PUBLICA Y BASES DE COORDINACION PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 1999.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 1998.
 
@@ -85,7 +85,9 @@ VI. Instituto: al Instituto Estatal de Seguridad Pública;
 
 VII. Elementos de seguridad pública: a los integrantes de los Cuerpos de Seguridad Pública, y
 
-VIII. Consejo: al Consejo Estatal de Seguridad Pública.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 1999)</small>
+
+VIII. Consejo: al Consejo Estatal de Seguridad Pública, creado mediante el Acuerdo del Titular del Ejecutivo Estatal de fecha 8 de mayo de 1996.
 
 ###### ARTÍCULO 5.
 
@@ -295,6 +297,8 @@ En el caso de que los elementos de seguridad pública aseguren armas o municione
 
 ### CAPÍTULO PRIMERO. DE LA PARTICIPACIÓN VECINAL Y CIUDADANA
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1999)</small>
+
 ###### ARTÍCULO 31.
 
 Las personas que presten servicios privados de seguridad y otros auxiliares, además de aportar la información relativa al Registro Estatal de Seguridad Pública; deberán presentar en forma mensual, un reporte detallado de sus actividades a la Secretaría.
@@ -457,37 +461,47 @@ La Secretaría podrá solicitar a la Procuraduría y al Ayuntamiento que corresp
 
 ###### ARTÍCULO 51.
 
-En el Estado de Baja California, se establecerá y organizará un Consejo Estatal de Seguridad Pública y en cada uno de los Municipios, un Comité de Seguridad Pública, como instancias colegiadas de consulta y participación ciudadana.
+En el Estado de Baja California, se establecerá y organizará un Consejo Ciudadano de Seguridad Pública como instancia colegiada de consulta y participación ciudadana. En cada uno de los municipios se deberá establecer un Comité Ciudadano de Seguridad Pública con la misma naturaleza.
 
-En dicho Consejo o Comités, además de la representación que se determine para el Estado y el Ayuntamiento respectivo, deberán participar representantes de organizaciones vecinales y ciudadanas.
+El Consejo y Comités se integrarán mayoritariamente por ciudadanos y con la representación del Estado y el Ayuntamiento respectivo, que determine el reglamento y el Ayuntamiento correspondiente.
 
-El Gobernador nombrará a la persona que presidirá y coordinará las actividades del Consejo Estatal.
+El Ejecutivo del Estado, elegirá por insaculación a tres consejeros ciudadanos que integrarán el Consejo, de entre las propuestas que presenten las asociaciones, agrupaciones profesionales y organismos no gubernamentales, empresariales, o instituciones de educación superior. Dicha insaculación se realizará ante la presencia de la Comisión de Seguridad Pública del Congreso del Estado. Sólo podrán ser insaculados aquellos ciudadanos que cumplan los requisitos que determine el reglamento.
 
-Los Ayuntamientos podrán establecer, la organización y coordinación de Comités Municipales de Seguridad Pública que consideren pertinentes.
+El Cabildo de cada uno de los municipios del Estado, elegirá por insaculación al Consejero Ciudadano que integrará el Consejo, de entre las propuestas que presenten las asociaciones, agrupaciones profesionales y organismos no gubernamentales, empresariales, o instituciones de educación superior.
+
+El presidente del Consejo será electo de entre los Consejeros Ciudadanos, con la aprobación de las dos terceras partes de éstos; en los mismos términos se elegirá al Presidente del Comité correspondiente.
+
+El Reglamento determinará la organización, coordinación y funcionamiento del Consejo Ciudadano de Seguridad Pública.
+
+Los Ayuntamientos podrán establecer, la organización y coordinación de los Comités Ciudadanos de Seguridad Pública Municipales, que consideren pertinentes.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1999)</small>
 
 ###### ARTÍCULO 52.
 
-Corresponde al Consejo y a los Comités Municipales de Seguridad Pública:
+Corresponde al Consejo Ciudadano de Seguridad Pública y a los Comités Ciudadanos Municipales de Seguridad Pública:
 
 I. Ser órganos de consulta, análisis y opinión en materia de seguridad pública;
 
 II. Emitir opiniones y sugerencias, para la actualización, elaboración y evaluación del programa y evaluar la ejecución del mismo;
 
-III. Informar sobre las zonas que en su concepto tengan mayor índice de delincuencia dentro de la circunscripción territorial de cada una de los Comités;
+III. Denunciar ante las autoridades competentes, sobre las zonas las zonas que en su concepto tengan mayor índice de delincuencia dentro de la circunscripción territorial de cada una de los Comités;
 
-IV. Estudiar y proponer a la Procuraduría y al Ayuntamiento, mecanismos de coordinación y desconcentración de funciones, para la mejor cobertura y calidad en los servicios encomendados;
+IV. Proponer a la Procuraduría y al Ayuntamiento, mecanismos de coordinación y desconcentración de funciones, para la mejor cobertura y calidad en los servicios encomendados;
 
-V. Verificar que el patrullaje se realice en términos del programa preventivo, mediante los mecanismos y códigos que al efecto acuerden con las autoridades a fin de arraigar y vincular al policía con la comunidad;
+V. Evaluar el cumplimiento del o los programas preventivos de patrullaje;
 
-VI. Proponer anualmente al Consejo de Honor y Justicia correspondiente, la entrega de la Condecoración al Mérito, al o a los elementos que mejores servicios haya prestado a la comunidad, sin perjuicio de la facultad de determinar otros estímulos;
+VI. Promover programas a fin de arraigar y vincular al policía con la comunidad, que conlleve un sentido de integración y participación social;
 
-VII. Turnar ante el Consejo de Honor y Justicia correspondiente, aquellos casos que a su juicio constituyan faltas graves a los principios de actuación previstos en esta Ley, por parte de los elementos de seguridad pública;
+VII. Proponer anualmente al Consejo de Honor y Justicia correspondiente, la entrega de la Condecoración al Mérito, al o a los elementos que a su juicio hayan prestado mejores servicios a la comunidad, sin perjuicio de la facultad de sugerir otros estímulos;
 
-VIII. Proponer y modificar normas y procedimientos que permitan mejorar la atención de las quejas, que formulen la ciudadanía contra abusos y actuaciones en que incurran los elementos de seguridad pública;
+VIII. Turnar ante el Consejo de Honor y Justicia correspondiente, aquellos casos en que a su juicio constituyan faltas graves a los principios de actuación previstos en esta Ley, por parte de los elementos de seguridad pública;
 
-IX. Proponer a la Procuraduría y al Ayuntamiento, las acciones a emprender para prevenir la comisión de delitos y su impunidad, y
+IX. Proponer modificaciones a normas y procedimientos, que permitan mejorar la atención a las quejas que formulen la ciudadanía contra abusos y actuaciones en que incurran los elementos de seguridad pública;
 
-X. Fomentar la cooperación y participación ciudadana en los siguientes aspectos:
+X. Proponer a la Procuraduría y al Ayuntamiento, las acciones a emprender para prevenir la comisión de delitos y su impunidad;
+
+XI. Fomentar la cooperación y participación ciudadana en los siguientes aspectos:
 
 a) La difusión amplia del programa preventivo de seguridad pública, con participación vecinal;
 
@@ -495,11 +509,19 @@ b) La aportación de equipo complementario, el cual será destinado al servicio 
 
 c) El establecimiento de mecanismo de autoseguridad o instalación de alarmas, y
 
-d) En la elaboración, como la difusión de programas de reclutamiento.
+d) La difusión de programas de reclutamiento.
+
+XII. Realizar labores de seguimiento en el ejercicio de sus atribuciones;
+
+XIII. Proponer a las autoridades competentes, de conformidad con las facultades que se le conceden en este artículo, programas de participación ciudadana en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño en la función de seguridad pública, y
+
+XIV. Asistir, previa invitación, a las sesiones de los Comités Técnicos u órganos de administración, respecto de los Fideicomisos que se constituyan para el manejo de los recursos económicos que hayan de ejercerse en el Estado para el rubro de seguridad pública.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1999)</small>
 
 ###### ARTÍCULO 53.
 
-Los Comités de Seguridad Pública, tendrán derecho a recibir la información que les permita participar adecuadamente, en el ámbito de sus atribuciones; en la seguridad pública de su respectiva demarcación. Igualmente, tendrán derecho a recibir respuestas por escrito a sus peticiones o comentarios, por parte de la autoridad correspondiente.
+Los Comités Ciudadanos Municipales de Seguridad Pública, tendrán derecho a recibir la información que les permita participar adecuadamente, en el ámbito de sus atribuciones, en la seguridad pública de su respectiva demarcación. Igualmente, tendrán derecho a recibir respuestas por escrito a sus peticiones o comentarios, por parte de la autoridad correspondiente.
 
 ###### ARTÍCULO 54.
 
@@ -1004,3 +1026,15 @@ HECTOR TERAN TERAN.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 RODOLFO VALDEZ GUTIERREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE JUNIO DE 1999.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Reglamento del Consejo Ciudadano de Seguridad Pública, deberá expedirse en un plazo no mayor de quince días posteriores a la entrada en vigor de este Decreto.
