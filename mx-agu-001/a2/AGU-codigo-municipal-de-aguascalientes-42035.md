@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-42035"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-13"
-last_updated: "2004-12-13"
+last_updated: "2005-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42035&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 2005.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de diciembre de 2004.
 
@@ -569,45 +569,47 @@ En todo lo no previsto en este Código, se recurrirá a las disposiciones de la 
 
 ### CAPITULO IX. De las Comisiones
 
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2005)</small>
+
 ###### ARTICULO 80.
 
 El H. Ayuntamiento nombrará las comisiones que tendrán la obligación de vigilar el ramo de la administración que se les encomiende, se les integran comisiones permanentes, y serán las siguientes:
 
-REGIDORES
+REGIDORES:
 
-I. Gobernación y Licencias;
+I. Gobernación;
 
 II. Hacienda;
 
-III. Seguridad Pública y Tránsito;
+III. Seguridad Pública y Vialidad;
 
-IV. Programación Urbana y Rural;
+IV. Desarrollo Humano;
 
-V. Agua Potable y Alcantarillado;
+V. Desarrollo Económico y Turismo;
 
-VI. Obra Pública y Alumbrado Público;
+VI. Planeación Urbana y Rural;
 
-VII. Desarrollo Social;
+VII. Agua Potable, Alcantarillado y Saneamiento;
 
-VIII. Mercados y Rastros;
+VIII. Obras Públicas;
 
-IX. Educación Pública y Acción Cívica;
+IX. Mercados, Rastros y Estacionamientos;
 
-X. Protección al Ambiente;
+X. Control Reglamentario y Espectáculos;
 
-XI. Limpia;
+XI. Alumbrado y Limpia;
 
-XII. Salubridad, Beneficencia Pública y Espectáculos;
+XII. Educación y Cultura;
 
-XIII. Parques y Jardines;
+XIII. Ecología;
 
-XIV. Acción Social, Cultura y Deporte;
+XIV. Parques, Jardines y Panteones;
 
-XV. Relojes y Panteones; y
+XV. Juventud y Deporte; y
 
-XVI. Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
+Todas que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
 
-SINDICOS
+SINDICOS:
 
 I. Procurador; y
 
@@ -20338,3 +20340,9 @@ Aguascalientes, Ags., 10 de Noviembre de 2004.
 LA SECRETARIA DEL H. AYUNTAMIENTO Y DIRECTORA GENERAL DE GOBIERNO
 
 Lic. Tania Lorena Valdez Parga.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 10 DE ENERO DE 2005.
+
+UNICO: Las (sic) presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
