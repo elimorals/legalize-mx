@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-catastro-municipal-del-estado-de-jalisco-12360"
 country: "mx"
 rank: "ley"
 publication_date: "1997-11-18"
-last_updated: "1998-08-18"
+last_updated: "2000-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2000.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 18 de noviembre de 1997.
 
@@ -61,19 +61,35 @@ II. Los notarios y quienes tengan fe pública, cuando intervengan en la autoriza
 
 III. Las autoridades fiscales que administren contribuciones que se determinen sobre la propiedad inmobiliaria, su división, consolidación, traslación, urbanización, edificación y mejora, así como las que tengan por base el cambio de valor de los inmuebles;
 
-IV. Las autoridades judiciales que autoricen actos traslativos de dominio de algún bien inmueble dentro del Estado;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
+
+IV. Las autoridades judiciales que autoricen actos traslativos de dominio de algún bien inmueble dentro del Estado o tengan conocimiento del inicio o terminación de cualquier litis, en la que existan terceros afectados o interesados respecto de algún bien inmueble que se encuentre dentro del Estado;
 
 V. Los urbanizadores;
 
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
+
 VI. Los peritos valuadores autorizados para practicar avalúos y los valuadores dependientes de la autoridad catastral;
 
-VII. Quienes adquieran algún bien inmueble por contrato privado.
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
+
+VII. Quienes adquieran algún bien inmueble por contrato privado;
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2000)</small>
+
+VIII. Los fideicomitentes, fideicomisarios o fiduciarios, cuando en el fideicomiso se limite o impongan condiciones de uso, administración o posesión de algún predio; y
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2000)</small>
+
+IX. Los corredores de bienes inmuebles, cuando intervengan en actos traslativos de dominio o de administración.
 
 ###### Artículo 4°.
 
 Para los efectos de esta Ley se entiende por:
 
-I. Predio: la porción de terreno comprendida dentro de un perímetro, con construcciones o sin ellas, que pertenezca en propiedad o posesión a una o varias personas. En el caso de condominios, se entenderá como predio a la unidad privativa;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
+
+I. Predio: la porción de terreno comprendida dentro de un perímetro, con construcciones o sin ellas, que pertenezca en propiedad o posesión a una o varias personas. En el caso de condominios, se entenderá como predio a la unidad condominal y como subpredio a la unidad privativa;
 
 II. Unidad Privativa: es el conjunto de bienes cuyo aprovechamiento y libre disposición corresponden a un condómino;
 
@@ -107,13 +123,23 @@ XVI. Zonas: las delimitaciones administrativas en que se divide el territorio de
 
 XVII. Vías públicas:
 
-a) Los predios destinados a los fines públicos del tránsito peatonal, vehicular y el transporte colectivo, y
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
 
-b) Los caminos públicos, destinados temporal o permanentemente al tránsito de personas, semovientes y vehículos, incluyendo el área del derecho de vía de los mismos.
+a) Los predios destinados a los fines públicos del tránsito peatonal, vehicular y el transporte colectivo;
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
+
+b) Los caminos públicos, destinados temporal o permanentemente al tránsito de personas, semovientes y vehículos, incluyendo el área del derecho de vía de los mismos; y
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2000)</small>
+
+c) Las servidumbres de paso por medio de las cuales, a solicitud de los usuarios, el municipio proporciona servicios de recolección de basura y alumbrado público.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
 
 No tienen el carácter de vías públicas los predios pertenecientes al dominio privado de la Federación, del Estado, del Municipio o de los particulares, para fines restringidos o aprovechamientos privados, así como los bienes de uso común de los condominios;
 
-XVIII. Manzana: la superficie de terreno debidamente delimitada constituida por uno o más predios, colindante con vías o áreas públicas;
+XVIII. Manzana: la superficie de terreno debidamente delimitada constituida por uno o más predios, colindante con vías o áreas públicas;;
 
 XIX. Fusión: la unión en un solo predio de dos o más predios colindantes;
 
@@ -123,9 +149,13 @@ XXI. Valor fiscal: el que se asigne o apruebe para cada predio, de conformidad c
 
 XXII. Valor catastral: será el valor que se determine mediante procedimientos técnicos, siendo en todo momento lo más apegado al valor real;
 
-XXIII. Tablas de Valores: es el conjunto de elementos y valores unitarios aprobados y contenidos en los planos de las zonas respecto al valor del terreno, así como la relación con las clasificaciones de construcción y demás elementos que deberán de tomarse en consideración para la valuación;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
 
-XXIV. Valor Unitario: el valor que por metro cuadrado o por hectárea apruebe el cabildo municipal en tablas de valores, para cuantificar el valor catastral de cada uno de los predios;
+XXIII. Tablas de Valores: es el conjunto de elementos y valores unitarios aprobados según el procedimiento de esta ley y contenidos en los planos de las zonas respecto al valor del terreno, así como la relación con las clasificaciones de construcción y demás elementos que deberán de tomarse en consideración para la valuación de los predios;
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
+
+XXIV. Valor Unitario: el valor que por metro cuadrado o por hectárea apruebe el Congreso del Estado en tablas de valores, para cuantificar el valor catastral de cada uno de los predios;
 
 XXV. Valor provisional: el valor que fije la autoridad catastral a los predios de los que no se hayan obtenido los elementos técnicos para determinarle valor catastral definitivo;
 
@@ -133,7 +163,9 @@ XXVI. Valuación catastral: la determinación del valor catastral de los predios
 
 XXVII. Revaluación catastral: la actualización de los valores catastrales que le correspondan a cada predio, por alguna de las causas que se establezcan en esta Ley y la de Hacienda Municipal;
 
-XXVIII. Perito valuador: es el profesionista que cuenta con los conocimientos técnicos, especializados en bienes inmuebles y valuación, necesarios para formular avalúos, registrado ante la Dirección de Catastro del Gobierno del Estado y acreditado ante la autoridad catastral municipal;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
+
+XXVIII. Perito valuador: es el profesionista que cuenta con los conocimientos técnicos, especializados en bienes inmuebles y valuación, necesarios para formular avalúos y documentos técnicos donde consten las condiciones específicas de los bienes inmuebles. Los peritos deberán registrarse ante la Dirección de Catastro del Gobierno del Estado y deberá acreditarse ante la autoridad catastral municipal cuando elabore avalúos;
 
 XXIX. Valuador: el servidor público dependiente de la autoridad catastral que elabora los dictámenes;
 
@@ -155,27 +187,37 @@ XXXVII. Formación del catastro: integración de la información de los registro
 
 XXXVIII. Conservación del catastro: la actualización de la información de los registros catastrales;
 
-XXXIX. Zona Conurbada: el área urbana que determine el Plan de Ordenamiento de la Zona Conurbada de que se trate;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
+
+XXXIX. Zona Conurbada: el área urbanizada que determine el Plan de Ordenamiento de la Zona Conurbada de que se trate;
 
 XL. Secretaría de Finanzas: la Dependencia del Poder Ejecutivo Estatal competente en materia fiscal y sus dependencias recaudadoras;
 
-XLI. Dirección de Catastro del Gobierno del Estado: La dependencia facultada para ejercer las atribuciones que le confiera esta Ley;
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2000)</small>
 
-XLII. Catastro Municipal: La dependencia que determine o establezca el ayuntamiento, a quien corresponderán las atribuciones de autoridad catastral y tendrá a su cargo las operaciones catastrales. Esta dependencia se integrará y operará con base en las disposiciones de este Ordenamiento y las que regulen la estructura orgánica del municipio;
+XLI. Tesorería Municipal: la persona o dependencia competente en materia fiscal municipal y sus oficinas y cajas recaudadoras;
 
-XLIII. Ley: la Ley de Catastro Municipal del Estado de Jalisco;
+XLII. Dirección de Catastro del Gobierno del Estado: La dependencia facultada para ejercer las atribuciones que le confiera esta Ley;
 
-XLIV. Reglamentos y normas técnicas: el conjunto de disposiciones administrativas y especificaciones técnicas necesarias para integrar la información y registros del catastro, y
+XLIII. Catastro Municipal: La dependencia que determine o establezca el ayuntamiento, a quien corresponderán las atribuciones de autoridad catastral y tendrá a su cargo las operaciones catastrales. Esta dependencia se integrará y operará con base en las disposiciones de este Ordenamiento y las que regulen la estructura orgánica del municipio;
 
-XLV. Registrar: es el empadronamiento que se realiza ante la autoridad catastral, respecto de los datos que se asienten de los bienes inmuebles.
+XLIV. Ley: la Ley de Catastro Municipal del Estado de Jalisco;
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
+
+XLV. Reglamentos y normas técnicas: el conjunto de disposiciones administrativas y especificaciones técnicas necesarias para integrar la información y registros del catastro; y
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
+
+XLVI. Registrar: es el empadronamiento que se realiza ante la autoridad catastral, respecto de los datos de referencia que se asienten de los bienes inmuebles.
 
 ###### Artículo 5°.
 
 Para los efectos de esta Ley, los predios se clasifican en:
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
 
-I. Predio Urbano. El que se encuentre dentro del área de influencia de un centro de población, cuando se localice sobre la vialidad trazada y cuente cuando menos con dos de los tres servicios públicos, que son: agua, drenaje y electricidad, ya sea directamente o en alguna de sus colindancias. En las localidades que carezcan de estos servicios, bastará con que se localicen sobre calles trazadas;
+I. Predio urbano: el que se encuentre dentro del área de influencia de un centro de población, cuando se localice sobre vialidad trazada y cuente cuando menos con dos de los tres servicios públicos, que son: agua, drenaje y electricidad, ya sea directamente o en alguna de sus colindancias. En las localidades que carezcan de estos servicios, bastará con que se localicen sobre calles trazadas. Aún cuando no se encuentren incorporados a la urbanización;
 
 II. Predio improductivo urbano: aquel que siendo urbano:
 
@@ -207,9 +249,9 @@ d) Siendo urbano y tenga construcciones permanentes en una área inferior al vei
 
 Se exceptuarán del tratamiento indicado en este inciso, cuando se acredite respecto del predio, mediante dictamen de la autoridad catastral, alguno de los siguientes supuestos:
 
-> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
 
-1. Se utilice la mayor parte del predio y la mayor parte del año con fines agrícolas, habitacionales, educativos, comerciales, industriales y de prestación de servicios;
+1. Se utilice más del 50% de la superficie la mayor parte del año, con fines agropecuarios, habitacionales, educativos, comerciales, industriales y de prestación de servicios;
 
 2. Las áreas no construidas sean utilizadas para actividades deportivas, siempre que cuenten con la infraestructura, equipamiento e instalaciones adecuadas;
 
@@ -221,7 +263,9 @@ Se exceptuarán del tratamiento indicado en este inciso, cuando se acredite resp
 
 Para los efectos de las disposiciones de este ordenamiento, las construcciones o edificaciones se clasifican en:
 
-I. Permanentes: son aquellas que tengan posibilidades de aprovechamiento definitivo por su tipo de materiales empleados, cimentación, estructura y demás características;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
+
+I. Permanentes: son aquellas que tengan aprovechamiento definitivo por su tipo de materiales empleados, cimentación, estructura y demás características;
 
 II. Provisionales: son aquellas que por su uso transitorio, sus materiales empleados y sus técnicas de edificación, puedan removerse fácilmente;
 
@@ -267,7 +311,9 @@ V. Solicitar al Ejecutivo del Estado el apoyo y asesoría que requiera para la i
 
 VI. Contratar con empresas especializadas en la materia, los trabajos que estime convenientes. Para tal efecto, buscará que dichos trabajos sean compatibles con los procedimientos que se establezcan en el Sistema de Información Territorial;
 
-VII. Ordenar la publicación de las tablas de valores, previa aprobación del cabildo;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
+
+VII. Ordenar la publicación de las tablas de valores, en el caso de que se cumplan con todos los requisitos previstos en la presente ley así como en la Ley de Hacienda Municipal, y se acredite el caso de la positiva ficta;
 
 VIII. Convenir, en su caso y previo acuerdo de su cabildo con el Ejecutivo Estatal, para que éste asuma las funciones catastrales, conforme a lo previsto en el artículo anterior; y
 
@@ -285,7 +331,9 @@ III. La asignación del valor catastral, provisional y fiscal de cada uno de los
 
 IV. Facilitar la integración de la información relativa a los usos, destinos y reservas del suelo, para que sea susceptible de ser utilizada por el Sistema de Información Territorial;
 
-V. Registrar, controlar y mantener actualizada la información catastral de la propiedad inmobiliaria comprendida en la jurisdicción territorial de los municipios del Estado, para fines fiscales, estadísticos, socioeconómicos, jurídicos e históricos, así como para apoyar la formulación y adecuación de planes o programas municipales de desarrollo urbano y planes de ordenamiento y regulación de zonas conurbadas;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
+
+V. Registrar, controlar y mantener actualizada la información catastral de la propiedad inmobiliaria comprendida en la jurisdicción territorial de los municipios del Estado, para fines fiscales, estadísticos, socioeconómicos e históricos, así como para apoyar la formulación y adecuación de planes o programas municipales de desarrollo urbano y planes de ordenamiento y regulación de zonas conurbadas;
 
 VI. Delimitar la zonificación catastral conforme a los planes de desarrollo urbano;
 
@@ -315,7 +363,9 @@ VII. Obtener de las autoridades, dependencias o instituciones de carácter feder
 
 VIII. Registrar los bienes inmuebles para efectos catastrales;
 
-IX. Elaborar las propuestas de valores unitarios de terrenos y construcciones, así como los coeficientes de demérito o incremento y remitirlos para su conocimiento información y análisis al Consejo Técnico de Catastro Municipal, quien a su vez los turnará para su homologación al Consejo Técnico Catastral del Estado, y éste con su opinión los remitirá al ayuntamiento, a efecto de que si lo considera pertinente proceda a su aprobación;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
+
+IX. Elaborar las propuestas de valores unitarios de terrenos y construcciones, así como los coeficientes de demérito o incremento y remitirlos para su conocimiento, información y análisis al Consejo Técnico de Catastro Municipal;
 
 X. Elaborar las propuestas de reglamentos e instructivos necesarios para realizar las actividades correspondientes a sus atribuciones y remitirlas para su conocimiento e información al Consejo Técnico de Catastro Municipal, buscando su homologación con las que para tal efecto emita el Consejo técnico Catastral del Estado y, finalmente, turnarlas al cabildo o al Gobernador del Estado según corresponda, para su aprobación;
 
@@ -347,13 +397,21 @@ XXIII. Informar al Tesorero Municipal cuando proceda efectuar el cobro de los de
 
 XXIV. Acreditar a los peritos valuadores conforme a las disposiciones de esta Ley y sus reglamentos;
 
-XXV. Notificar a la Dirección de Catastro del Estado de las infracciones en que incurran los peritos valuadores, para que aplique las sanciones correspondientes;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
+
+XXV. Notificar a la Dirección de Catastro del Estado de las posibles infracciones en que incurran los peritos valuadores, remitiendo las pruebas correspondientes a fin de que se inicie el procedimiento administrativo y se apliquen las sanciones correspondientes;
 
 XXVI. Emitir los criterios administrativos para la formación, mejoramiento y conservación de los registros catastrales;
 
-XXVII. Proponer ante el Consejo Técnico Catastral del Estado los sistemas de valuación masiva donde se integren: terminología, parámetros de valores unitarios de terreno y construcción; coeficientes de deméritos e incrementos; precisiones y rangos; así como la puesta en operación del mismo sistema y la reglamentación para su aplicación, los que servirán de base para valuar la propiedad inmobiliaria; y
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
 
-XXVIII. Las demás atribuciones que le otorguen la presente Ley y otras disposiciones legales aplicables.
+XXVII. Proponer ante el Consejo Técnico Catastral del Estado los sistemas de valuación masiva donde se integren: terminología, parámetros de valores unitarios de terreno y construcción; coeficientes de demérito e incremento; precisiones y rangos; así como la puesta en operación del mismo sistema y la reglamentación para su aplicación, los que servirán de base para valuar la propiedad inmobiliaria;
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2000)</small>
+
+XXVIII. Registrar los avalúos elaborados por los peritos valuadores, cuando contengan los datos correctos para su identificación y localización para su posterior revisión. En caso de que existan discrepancias con los valores o datos reales del bien inmueble y estos sean superiores al 15% en valores o superiores al 10% en sus medidas y áreas, notificar a la tesorería municipal y al Catastro del Estado para iniciar los procedimientos administrativos respectivos para fincar la responsabilidad fiscal solidaria y las sanciones administrativas que resulten; y
+
+XXIX. Las demás atribuciones que le otorguen la presente Ley y otras disposiciones legales aplicables.
 
 ###### Artículo 14.
 
@@ -415,7 +473,9 @@ c) Sistemas de informática, equipo y programas de cómputo;
 
 d) Comunicaciones, formato y transmisión de datos, y
 
-e) Normatividad técnica y administrativa.
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
+
+e) Normatividad técnica y administrativa, en cuestiones de información.
 
 ###### Artículo 19.
 
@@ -431,33 +491,51 @@ IV. El Secretario de Promoción Económica;
 
 V. El Director de Catastro del Estado, quien fungirá como Secretario de Actas y Acuerdos del Consejo;
 
-VI. Un representante del Consejo Intergrupal de Valuadores del Estado de Jalisco, A. C., y
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
 
-VII. Un representante común de los ayuntamientos de cada dos regiones del Estado, con excepción de aquéllas que expresamente se indican.
+VI. El Director del Instituto de Información Territorial, quien fungirá como presidente de la Comisión Técnica del Consejo;
 
-Con la salvedad a que se refiere el párrafo anterior, los municipios integrantes de cada dos regiones, a convocatoria del presidente del Consejo Técnico Catastral del Estado, elegirán de entre ellos a un representante común. Sólo en el caso de que en la fecha señalada para integrar el Consejo Directivo no hubieren elegido al representante común de las regiones de que se trate, lo será el del ayuntamiento que adelante se indica:
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
 
-A. Región Valles y Región Norte, el representante será, en su caso, el del Ayuntamiento de Ameca;
+VII. Un representante común de los ayuntamientos de cada región del Estado, con excepción de aquéllas que expresamente se indican.
 
-B. Región Sur y Región Sureste, el representante será, en su caso, el del Ayuntamiento de Ciudad Guzmán,
+Con la salvedad a que se refiere el párrafo anterior, los municipios integrantes de cada región, a convocatoria del presidente del Consejo Técnico Catastral del Estado, elegirán de entre ellos a un representante común. Sólo en el caso de que en la fecha señalada para integrar el Consejo Directivo no hubieren elegido al representante común de la región de que se trate, lo será el del ayuntamiento que adelante se indica:
 
-C. Región Altos Norte y Región Altos Sur, el representante será, en su caso, el del Ayuntamiento de Tepatitlán;
+A. Región Valles, el representante será, en su caso, el del Ayuntamiento de Ameca;
 
-D. Región Costa Sur y Región Sierra de Amula, el representante será, en su caso, el del Ayuntamiento de Autlán de Navarro;
+B. Región Norte, el representante será, en su caso, el del Ayuntamiento de Colotlán;
 
-E. Región Costa Norte y Región Sierra Occidental, el representante será, en su caso, el del Ayuntamiento de Puerto Vallarta;
+C. Región Sur, el representante será, en su caso, el del Ayuntamiento de Zapotlán el Grande;
 
-F. Región Ciénega y área Centro de Guadalajara, el representante será, en su caso, el del Ayuntamiento de Guadalajara;
+D. Región Sureste, el representante será, en su caso, el del Ayuntamiento de Tamazula;
 
-G. Un representante del Consejo Metropolitano, y
+E. Región Altos Norte, el representante será, en su caso, el del Ayuntamiento de Lagos de Moreno;
 
-H. Un representante común de los municipios de Guadalajara, Tlaquepaque, Tonalá y Zapopan.
+F. Región Altos Sur, el representante será, en su caso, el del Ayuntamiento de Tepatitlán;
 
-En ningún caso podrá recaer doble representación en los supuestos previstos en los incisos F y H que anteceden.
+G. Región Costa Sur, el representante será, en su caso, el del Ayuntamiento de Autlán de Navarro;
 
-El representante que haya sido nombrado en estas circunstancias continuará en su encargo hasta en tanto se nombra al representante común, elegido por el acuerdo de los municipios de las regiones correspondientes.
+H. Región Sierra de Amula, el representante será, en su caso, el del Ayuntamiento de El Grullo;
 
-Para el caso de que se modifique la división regional del estado, afectándose el número de las regiones a que se refiere el presente artículo, el Consejo Técnico Catastral del Estado realizará las modificaciones necesarias, a fin de que se mantenga de forma permanente la adecuada representación regional ante el mismo.
+I. Región Costa Norte, el representante será, en su caso, el del Ayuntamiento de Puerto Vallarta;
+
+J. Región Sierra Occidental, el representante será, en su caso, el del Ayuntamiento de Mascota;
+
+K. Región Ciénega, el representante será, en su caso, el del Ayuntamiento de Ocotlán;
+
+L. Región área Centro de Guadalajara, el representante será, en su caso, el del Ayuntamiento de Guadalajara;
+
+m) Un representante común de los municipios de Guadalajara, Tlaquepaque, Tonalá y Zapopan;
+
+El representante que haya sido nombrado en estas circunstancias, continuará en su encargo hasta en tanto se nombra al representante común, elegido por el acuerdo de los municipios de la región correspondiente o por los municipios mencionados en el inciso m).
+
+Para el caso de que se modifique la división regional del Estado, afectándose el número de las regiones a que se refiere el presente artículo, el Consejo Técnico Catastral del Estado realizará las modificaciones necesarias, a fin de que se mantenga de forma permanente la adecuada representación regional y proporcional ante el mismo.
+
+N. Un representante del Consejo Metropolitano;
+
+O. Un representante del Colegio de Notarios del Estado de Jalisco; y
+
+P. Un representante del Consejo Intergrupal de Valuadores del Estado de Jalisco.
 
 ###### Artículo 20.
 
@@ -491,13 +569,25 @@ C. El titular del catastro municipal o quien haga sus veces en caso de convenio;
 
 D. El Regidor que el cabildo determine;
 
-E. Un representante por parte de los sectores industrial, comercial y empresarial;
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2000)</small>
+
+E. Un representante por parte de los sectores industrial, comercial y empresarial, designados por el reglamento que para el efecto emita el Cabildo;
 
 F. Un representante del sector agropecuario;
 
-G. Un representante de los propietarios de fincas urbanas, y
+G. Un representante común de las asociaciones de vecinos o en su caso un representante común de los propietarios de fincas urbanas;
 
-H. Por las personas que el Consejo considere conveniente invitar a participar, por sus conocimientos y reconocida solvencia moral entre las que integrara a un representante del Consejo Intergrupal de Valuadores del Estado de Jalisco, A. C.
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2000)</small>
+
+H. Un representante común de las asociaciones de valuadores o del Consejo Intergrupal de Valuadores, dicho representante deberá acreditar que elabora avalúos en el municipio, y que está registrado en la Dirección de Catastro del Estado;
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2000)</small>
+
+I. Un representante del Colegio de Notarios de Jalisco, que esté adscrito a dicho municipio; y
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
+
+J. Por las personas que el Consejo considere conveniente invitar a participar, por sus conocimientos y reconocida solvencia moral.
 
 II. Los Consejos Técnicos de Catastro Municipal estarán facultados para estudiar, revisar y formular recomendaciones respecto de las propuestas de valores unitarios de terrenos y construcciones, y remitirlos con fines de homologación al Consejo Técnico Catastral del Estado;
 
@@ -677,65 +767,107 @@ II. La nomenclatura y numeración oficial.
 
 Los urbanizadores de predios tendrán la obligación de manifestar a la autoridad catastral la celebración de actos traslativos de dominio, dentro de los dos meses siguientes a la fecha de su otorgamiento.
 
-### CAPÍTULO VI. De la valuación catastral
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE JULIO DE 2000)</small>
+
+### CAPÍTULO VI. De las tablas de valores unitarios y de la valuación catastral
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
 
 ###### Artículo 54.
 
-La valuación tiene por objeto asignar a los predios un valor determinado, mediante los procedimientos establecidos en esta Ley.
+Los valores unitarios de los terrenos y de construcciones; los coeficientes de incremento y demérito de valores y demás elementos de valuación, se elaborarán y aplicarán mediante las tablas de valores unitarios conforme las siguientes disposiciones:
+
+I. Cada Catastro Municipal debe elaborar los estudios de valores correspondientes conforme a lo establecido por el artículo 13, fracción IX y los artículos 55, 56 y 57 de la presente ley. Una vez elaborado el proyecto de tablas de valores unitarios del municipio, debe remitirlo al Consejo Técnico Catastral Municipal respectivo para su revisión;
+
+II. El Consejo Técnico de Catastro Municipal deberá analizar y estudiar el proyecto de tabla de valores unitarios y, en su caso, hacer las modificaciones a los valores que estimen pertinentes, sustentando en todo momento los aspectos y opiniones de carácter técnico. Una vez analizado y en su caso modificado, deberán remitir el proyecto en original y dos tantos en copias al Consejo Técnico Catastral del Estado;
+
+III. El Consejo Técnico Catastral del Estado, con intervención de la Comisión de Hacienda y Presupuestos del Congreso del Estado y con el apoyo técnico de la Contaduría Mayor de Hacienda revisarán los proyectos enviados con la finalidad de que los valores estén homologados con los demás municipios, para lo cual estarán facultados para emitir opiniones y recomendaciones, así como para proponer modificaciones a los proyectos respectivos, tomando siempre en consideración los aspectos técnicos a fin de que los valores unitarios se equiparen a los valores reales;
+
+IV. En los casos en que el Consejo Técnico Catastral del Estado, con intervención de la Comisión de Hacienda y Presupuestos del Congreso del Estado y con el apoyo técnico de la Contaduría Mayor de Hacienda determinen que no son procedentes los proyectos de los Consejos Técnicos de Catastro Municipales por no apegarse los valores unitarios a los valores reales, deberán regresar al Consejo Técnico de Catastro Municipal respectivo, por una sola ocasión, el proyecto de tabla de valores unitarios para que el Catastro Municipal vuelva a proyectar una nueva tabla de valores unitarios que se equiparen a los valores reales a fin de apegarse a la legislación vigente;
+
+V. Si el Catastro Municipal respectivo reincide en proyectar una tabla de valores unitarios no apegada a los valores reales o de mercado o es omiso en emitir el proyecto respectivo, el Consejo Técnico Catastral del Estado solicitará a la Dirección de Catastro del Estado, que de manera subsidiaria elabore el proyecto de tablas de valores unitarios respectivo, siguiendo él mismo el procedimiento establecido en las fracciones II y III del presente artículo;
+
+VI. Una vez que los proyectos de tablas de valores unitarios sean respaldados por el Consejo Técnico Catastral del Estado en conjunción con la Comisión de Hacienda y Presupuestos del Congreso del Estado y con el apoyo técnico de la Contaduría Mayor de Hacienda, se remitirán a los Cabildos Municipales a fin de que presenten, en su caso, formal iniciativa ante el Congreso del Estado, a más tardar antes del 1º. de septiembre del año previo a su aplicación.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
 
 ###### Artículo 55.
 
-La valuación de los predios se fundara en los siguientes elementos:
+Dentro del proceso legislativo, en tratándose de aprobación de las tablas de valores unitarios, el Congreso del Estado sólo tendrá facultades de aprobar o rechazar los proyectos contenidos en la iniciativa respectiva, pero en ningún caso y bajo ninguna circunstancia tendrá facultades de realizar modificaciones a los valores contenidos en el proyecto presentado mediante la iniciativa respectiva.
 
-I. En el valor del terreno, y
+Si por cualquier circunstancia el Congreso del Estado no se pronuncia legalmente respecto de la aprobación o rechazo de la tabla de valores unitarios de algún municipio antes del día 16 de noviembre del año previo a su aplicación, procederá la positiva ficta, dándose por entendido que el proyecto remitido se aprueba, para lo cual se solicitará ante el Tribunal de lo Administrativo la declaratoria jurisdiccional correspondiente.
 
-II. En el valor de las construcciones.
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
 
 ###### Artículo 56.
 
-Para la valuación del terreno se tomará como base el valor unitario vigente multiplicado por la superficie del mismo. En su caso, estos valores se modificarán aplicando los coeficientes de incrementos y deméritos.
+Los valores unitarios urbanos de calle o de zona, se especificarán por metro cuadrado. Para su determinación se tomarán en cuenta la importancia e influencia de los siguientes elementos: servicios municipales existentes; vías de comunicación; vecindad con zonas comerciales o centros de abasto; el uso, destino y reserva determinados para el suelo conforme a su zonificación, y cualquier otra característica que pueda influir en los valores de mercado o reales de los mismos.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
+
+###### Artículo 57.
+
+Los valores unitarios para predios rústicos se especificarán por hectárea, conforme a las siguientes disposiciones:
+
+I. Para su determinación se considerarán los siguientes elementos: el tipo o clase de tierra, calidad, ubicación, cercanía a vías de comunicación y centros de población; así como las condiciones hidrológicas, humedad relativa y cualquier otra característica que pueda influir en los valores de mercado o reales de los mismos; y
+
+II. En el caso de zonas rústicas o ejidos donde se realicen actividades de aprovechamiento de recursos del suelo, se aplicarán las normas técnicas de catastración y valuación; y donde se realicen actividades de aprovechamiento de recursos del subsuelo, se tomarán en consideración las leyes correspondientes.
+
+En ninguno de los supuestos previstos en las dos fracciones anteriores se tomará en cuenta para efectos de la valuación, el valor de los recursos que sean objeto de aprovechamiento en los predios.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
+
+###### Artículo 58.
+
+Para la determinación de los valores unitarios de los diferentes tipos de construcción, se clasificarán los mismos tomando en cuenta su edad, vida útil, su estructura y estado de conservación; materiales empleados en la edificación, calidad en la mano de obra y acabados. Con base en lo anterior, se procederá a fijar un valor unitario para cada tipo de clasificación de construcción.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
+
+###### Artículo 59.
+
+Los coeficientes de incremento y demérito se aplicarán conforme a los criterios técnicos que determine el reglamento respectivo.
+
+En el caso de que se quiera modificar los coeficientes de incremento y demérito, se aplicará el procedimiento que se establece para las tablas de valores unitarios, observando las disposiciones que se señalan en el artículo 54 de la presente ley.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
+
+###### Artículo 60.
+
+Los valores unitarios de terrenos y de construcciones aprobados, tendrán vigencia a partir de su publicación en los términos que establezca el decreto correspondiente o, en su defecto, su vigencia será por el ejercicio fiscal respectivo.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
+
+###### Artículo 61.
+
+Concluido el término de vigencia de los valores unitarios a que se refiere el artículo anterior, se prorrogará la aplicación de los mismos hasta en tanto no se publiquen nuevos valores unitarios.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
+
+###### Artículo 62.
+
+La valuación tiene por objeto asignar a los predios un valor determinado, mediante los procedimientos establecidos en esta ley.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
+
+###### Artículo 63.
+
+La valuación de los predios se fundará en los siguientes elementos:
+
+I. En el valor del terreno; y
+
+II. En el valor de las construcciones.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
+
+###### Artículo 64.
+
+Para la valuación del terreno se tomará como base el valor unitario vigente multiplicado por la superficie del mismo. En su caso, estos valores se modificarán aplicando los coeficientes de incremento y demérito.
 
 Para la valuación de las construcciones se tomarán como base los valores unitarios vigentes, según la clasificación a que correspondan, multiplicados por su superficie.
 
 En los dos supuestos deberá observarse el procedimiento de valuación que se establezca en el reglamento de esta Ley.
 
-###### Artículo 57.
-
-Los valores unitarios de los terrenos y de construcciones; los coeficientes de incrementos y de deméritos de valores y demás elementos de valuación, se elaborarán y aplicarán conforme lo dispone el artículo 13 fracción IX de esta Ley y su reglamento.
-
-###### Artículo 58.
-
-Los valores unitarios urbanos de calle o de zona se especificarán por metro cuadrado. Para su determinación se tomarán en cuenta la importancia e influencia de los siguientes elementos: servicios municipales existentes; vías de comunicación; vecindad con zonas comerciales o centros de abasto; el uso, destino y reserva determinados para el suelo conforme a su zonificación, y cualquier otra característica que pueda influir en los mismos.
-
-###### Artículo 59.
-
-Los valores unitarios para predios rústicos se especificarán por hectárea, conforme a las siguientes disposiciones:
-
-Para su determinación se considerarán los siguientes elementos: el tipo o clase de tierra, calidad, ubicación, cercanía a vías de comunicación y centros de población; así como las condiciones hidrológicas, humedad relativa y cualquier otra característica que pueda influir en los mismos, y
-
-En el caso de zonas rústicas o ejidos donde se realicen actividades de aprovechamiento de recursos del suelo, se aplicarán las normas técnicas de catastración y valuación; y donde se realicen actividades de aprovechamiento de recursos del subsuelo, se tomarán en consideración las Leyes correspondientes.
-
-En ninguno de los supuestos previstos en las dos fracciones (sic) anteriores se tomará en cuenta para efectos de la valuación, el valor de los recursos que sean objeto de aprovechamiento en los predios.
-
-###### Artículo 60.
-
-Para la determinación de los valores unitarios de los diferentes tipos de construcción, se clasificarán los mismos tomando en cuenta su edad, vida útil, su estructura y estado de conservación; materiales empleados en la edificación, calidad en la mano de obra y acabados. Con base en lo anterior, se procederá a fijar un valor unitario para cada tipo de clasificación de construcción.
-
-###### Artículo 61.
-
-Los coeficientes de incrementos y deméritos se aplicarán conforme a los criterios técnicos que determine el reglamento respectivo.
-
-###### Artículo 62.
-
-Los valores unitarios de terrenos y de construcciones aprobados, tendrán vigencia a partir de su publicación en los términos que establezca la Ley Orgánica Municipal.
-
-###### Artículo 63.
-
-Los valores unitarios de terrenos y construcciones estarán vigentes por el término que se determine al autorizarlos.
-
-###### Artículo 64.
-
-Concluido el término de vigencia de los valores unitarios a que se refiere el artículo anterior, se prorrogará la aplicación de los mismos hasta en tanto no se publiquen nuevos valores unitarios.
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
 
 ###### Artículo 65.
 
@@ -803,13 +935,17 @@ En los casos de edificaciones construidas bajo el régimen de propiedad en condo
 
 En los casos de predios no registrados en el catastro municipal, por no haber sido manifestados oportunamente por su propietario o poseedor, deberán practicarse las operaciones catastrales correspondientes de acuerdo con el estado que guardan dichos predios en la fecha de su empadronamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JULIO DE 2000)</small>
+
 ###### Artículo 75.
 
-Para que los peritos valuadores puedan practicar avalúos a efecto de determinar la base de los impuestos predial y de transmisiones patrimoniales, deberán:
+Para que los peritos valuadores puedan practicar avalúos a efecto de determinar los impuestos predial y de transmisiones patrimoniales, deberán:
 
 I. Estar registrados y acreditados conforme a las disposiciones de esta Ley;
 
-II. Visitar el inmueble e identificarlo plenamente;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
+
+II. Visitar el inmueble, identificarlos plenamente, anexando fotografías del mismo;
 
 III. En los predios urbanos revisar la superficie y medidas de los linderos; y
 
@@ -853,9 +989,17 @@ Los notarios, para los efectos de esta Ley, deberán manifestar a la autoridad c
 
 Los obligados a presentar los avisos o manifestaciones a que se refieren los artículos 79, 80 y 81 de esta Ley deberán anexar a ellos los documentos siguientes, relativos a la identificación y condiciones administrativas de los predios:
 
-I. Avalúo con clave catastral, practicado por perito valuador o bien el dictamen de valor elaborado por la autoridad catastral. En ambos casos se observará lo dispuesto por el artículo siguiente, y
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
 
-II. Comprobante en donde se acredite que no existe adeudo por concepto de impuesto predial, en la fecha que se autoricen las escrituras, actos o contratos.
+I. Avalúo con clave catastral, practicado por perito valuador o bien el dictamen de valor elaborado por la autoridad catastral. El avalúo tendrá una vigencia de 6 meses, siempre y cuando no sea inferior al valor determinado por las tablas de valores vigentes al momento de causación, a partir de que sea aprobado por la autoridad catastral y en el caso de aprobación hereditaria, el avalúo de inventario presentado en el juzgado servirá de base, para el cobro del impuesto sobre transmisiones patrimoniales si éste fue previamente autorizado por la Dirección de Catastro Municipal. En ambos casos se observará lo dispuesto por el artículo siguiente;
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
+
+II. Comprobante en donde se acredite que no existe adeudo por concepto de impuestos, derechos, contribuciones especiales y aprovechamientos, los cuales estén plenamente identificando (sic) el predio en el que se originó, en la fecha en que se autoricen las escrituras, actos o contratos. Será obligación de la Tesorería Municipal la consolidación de la información de adeudos en un solo documento o un solo certificado; y
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2000)</small>
+
+III. Dictamen de opinión de uso del suelo expedido por la dependencia encargada de la planeación urbana de la municipalidad, donde existan planes parciales de desarrollo urbano.
 
 ###### Artículo 82.
 
@@ -866,6 +1010,10 @@ I. Para todos los predios un croquis descriptivo que señale el perímetro, la s
 II. En el caso de predios en los cuales existan construcciones, ya sean terminadas o inconclusas, deberán acompañar además un croquis descriptivo, especificando, en su caso, la superficie construida, tipos, grado de avance, número de niveles, calidad y estado de conservación de las mismas.
 
 En los dictámenes de valor elaborados por la autoridad catastral, ésta deberá acompañarlos de los croquis descriptivos a que se refieren las fracciones I y II que anteceden.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2000)</small>
+
+La autoridad catastral no recibirá avalúos, o dictámenes técnicos de peritos que tengan créditos fiscales pendientes como responsables solidarios.
 
 ###### Artículo 83.
 
@@ -889,9 +1037,11 @@ II. Presentar su registro otorgado por la Dirección de Catastro del Estado, y
 
 III. Señalar su domicilio legal.
 
-###### Artículo 85.
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
 
-Para presentar avisos de traslación de dominio de predios, las autoridades y los notarios deberán exigir que el avalúo respectivo se encuentre aprobado por la autoridad catastral.
+###### Artículo 85
+
+Para presentar avisos de traslación de dominio de predios, las autoridades y los notarios deberán exigir que el avalúo respectivo se encuentre aprobado por la autoridad catastral y que las fechas concuerden con las fechas de causación de los actos que se están manifestando.
 
 ###### Artículo 86.
 
@@ -949,9 +1099,15 @@ c) Por cambiar su domicilio legal sin dar el aviso correspondiente a la Direcci�
 
 d) Por cualquier otro incumplimiento que se señale en el reglamento respectivo;
 
-II. Procederá a sancionar a los peritos con suspensión del registro de seis a doce meses, por reincidir en alguna de las conductas señaladas en la fracción anterior, y
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
 
-III. Procederá sancionar al perito con la cancelación definitiva del registro por:
+II. Procederá a no aceptar los nuevos avalúos a registro o aprobación, cuando existan adeudos pendientes por responsabilidad fiscal solidaria;
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2000)</small>
+
+III. Procederá sancionar a los peritos con suspensión del registro de seis a doce meses, por reincidir en alguna de las conductas señaladas en la fracción anterior; y
+
+IV. Procederá sancionar al perito con la cancelación definitiva del registro por:
 
 a) Haber obtenido el registro mediante información o documentación falsa; y
 
@@ -1154,3 +1310,13 @@ P.O. 18 DE AGOSTO DE 1998.
 PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente ley.
+
+P.O. 25 DE JULIO DE 2000.
+
+Primero. El presente decreto entrará en vigor el 01 de febrero del año 2001, previa publicación en el Periódico Oficial "El Estado de Jalisco". No obstante la entrada en vigor de este decreto, para efectos fiscales, se aplicará a partir del 1º. de enero del año 2002.
+
+Segundo. En tanto se expidan los reglamentos de esta Ley, se continuarán aplicando las disposiciones vigentes, siempre y cuando no se opongan al presente Ordenamiento.
+
+Tercero. La modificación que se hace en este decreto al artículo 81 fracción II, tendrá vigencia a partir del 1º. de enero del año 2002.
+
+Cuarto. Se derogan todas las disposiciones que se opongan al presente decreto.
