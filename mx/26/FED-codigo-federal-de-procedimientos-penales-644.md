@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "1986-11-19"
+last_updated: "1988-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE NOVIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE ENERO DE 1988.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -167,9 +167,15 @@ Cuando los detenidos o los inculpados sean reclamados por dos o más tribunales 
 
 Las actuaciones podrán practicarse a toda hora y aun en los días inhábiles, sin necesidad de previa habilitación y en cada una de ellas se expresará el día, mes y año en que se practiquen.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE ENERO DE 1988)</small>
+
 ###### ARTICULO 16.
 
-El Juez y los miembros de la policía judicial, estarán acompañados en todas las diligencias que practiquen, de sus secretarios, si los tuvieren, o de dos testigos de asistencia, que darán fe de todo lo que en aquellas pase.
+El juez, el Ministerio Público y los funcionarios de la Policía Judicial estarán acompañados, en las diligencias que practiquen, de sus secretarios, si los tuvieren, o de dos testigos de asistencia, que darán fe de todo lo que en aquéllas pase.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+En el proceso, los tribunales presidirán los actos de prueba y recibirán, por sí mismos, las declaraciones.
 
 En las diligencias podrán emplearse, según el caso y a juicio del funcionario que las practique, la taquigrafía, el dictáfono y cualquier otro medio que tenga por objeto reproducir imágenes o sonidos y el medio empleado se hará constar en el acta respectiva.
 
@@ -231,17 +237,31 @@ Si antes de que se pongan las firmas o huellas los comparecientes hicieren algun
 
 Podrán entregarse al Ministerio Público los expedientes para que los estudie fuera del local del tribunal, pero no a las demás partes que intervengan en ellos. Estas y el ofendido podrán imponerse de los autos de la Secretaría del tribunal, debiéndose tomar las medidas necesarias para que no los destruyan, alteren o substraigan.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE ENERO DE 1988)</small>
+
 ###### ARTICULO 24.
 
-Si se perdiere algún expediente, se repondrá a costa del responsable, quien estará obligado a pagar los daños y perjuicios que se ocasionen por la pérdida y además, se hará la consignación correspondiente al Ministerio Público.
+Si se perdieren alguna constancia o el expediente, se repondrán a costa del responsable, quien estará obligado a pagar los daños que se ocasionen por la pérdida, y además se hará la consignación correspondiente al Ministerio Público.
 
 Cuando no sea posible reponer todas las actuaciones, se tendrá por probada plenamente la existencia de las que se inserten o mencionen en el auto de detención, en el de formal prisión o de sujeción a proceso, o en cualquiera otra resolución de que haya constancia, siempre que no se hubiese objetado oportunamente la exactitud de la inserción o cita que de ellas se haga.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+La reposición se sustanciará conforme al procedimiento previsto para los incidentes no especificados. Sin acuerdo previo, el secretario hará constar desde luego, bajo su responsabilidad y dentro de las veinticuatro horas siguientes al conocimiento de la pérdida, la existencia anterior y falta posterior de la constancia o el expediente.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+Los tribunales investigarán de oficio, para la debida marcha del proceso, la falta de las constancias o expedientes cuya desaparición adviertan o se les comunique, valiéndose para ello de todos los medios que no sean contrarios a derecho.
 
 > <small>(F. DE E., D.O.F. 1 DE NOVIEMBRE DE 1934)</small>
 
 ###### ARTICULO 25.
 
 Los secretarios de los tribunales cotejarán las copias o testimonios de constancias que se mandaren expedir, y las autorizarán con su firma y el sello correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+Sin perjuicio de lo dispuesto en el artículo 17, para sacar copia de algún auto o diligencia se requiere resolución del Ministerio Público o del tribunal, en su caso, que solo se dictará en favor de las personas legitimadas en el procedimiento para obtener dichos documentos.
 
 ###### ARTICULO 26.
 
@@ -329,9 +349,13 @@ Cuando durante el proceso se encontrare que el hecho que se averigua tiene ramif
 
 Toda incoacción del proceso será comunicada al tribunal de apelación respectivo.
 
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
 ###### ARTICULO 41.
 
-Los tribunales pueden dictar de oficio los trámites y providencias encaminados a que la justicia sea pronta y expedita.
+Los tribunales dictarán de oficio los trámites y providencias encaminados a que la justicia sea pronta y expedita. Para este fin, las partes podrán solicitar la orientación del tribunal sobre puntos del procedimiento que ante éste se desarrolla, como cómputos, plazos y circunstancias para la promoción y el desahogo de pruebas, y otras cuestiones que aseguren, con plena información para los participantes, la debida marcha del proceso, sin abordar cuestiones de fondo que la autoridad judicial deba resolver en los autos o en la sentencia. La información la dará el tribunal en audiencia pública con presencia de las partes.
+
+Los tribunales rechazarán de plano, sin necesidad de sustanciar artículo, pero notificando a las partes, incidentes, recursos o promociones notoriamente frívolos o improcedentes. Contra la resolución judicial caben los recursos que este Código establece, según el caso de que se trate.
 
 ### CAPITULO V. Correcciones disciplinarias y medios de apremio
 
@@ -410,6 +434,10 @@ El cumplimiento de los exhortos o requisitorias no implica prórroga ni renuncia
 ###### ARTICULO 49.
 
 Los exhortos y requisitorias contendrán las inserciones necesarias, según la naturaleza de las diligencias que hayan de practicarse; llevarán el sello del tribunal, e irán firmados por el funcionario correspondiente y por el secretario respectivo o por testigos de asistencia.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+Los tribunales requeridos tramitarán los exhortos y requisitorias aun cuando carezcan de alguna formalidad, si la ausencia de ésta no afecta su validez o impide el conocimiento de la naturaleza y características de la diligencia solicitada, excepto órdenes de aprehensión y de cateo, las que deben llenar todas las formalidades.
 
 > <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
 
@@ -743,9 +771,11 @@ VI.- La condenación o absolución que proceda, y los demás puntos resolutivos 
 
 Los autos contendrán una breve exposición del punto de que se trate y la resolución que corresponda, precedida de su motivación y fundamentos legales
 
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
 ###### ARTICULO 97.
 
-Los autos que contengan resoluciones de mero trámite deberán dictarse dentro de veinticuatro horas, contadas desde aquella en que se haga la promoción; los demás autos, salvo lo que la ley disponga para casos especiales, dentro de tres días, y las sentencias dentro de quince días, a partir del siguiente al de la terminación de la audiencia; pero si el expediente excediera de quinientas fojas, a este término se aumentará un día por cada cincuenta de exceso.
+Los autos que contengan resoluciones de mero trámite deberán dictarse dentro de cuarenta y ocho horas, contadas desde aquélla en que se haga la promoción; los demás autos, salvo lo que la ley disponga para casos especiales, dentro de tres días, y la sentencia, dentro de quince días a partir del siguiente a la terminación de la audiencia; pero si el expediente excediere de quinientas fojas, a este plazo se aumentará un día por cada cien de exceso.
 
 ###### ARTICULO 98.
 
@@ -1065,11 +1095,19 @@ Las resoluciones que se dicten en los casos a que se refieren los dos artículos
 
 Para que la promoción del Ministerio Público produzca el efecto señalado en el artículo anterior, deberá ser formulada expresamente. En este caso, se estará al procedimiento previsto en los artículos 294 y 295 del presente Código, y en la Ley Orgánica de la Procuraduría General de la República.
 
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+Ratificada la promoción del Ministerio Público, el juez, de plano, decretará inmediatamente el sobreseimiento del proceso y la libertad del inculpado.
+
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 141.
 
 La persona ofendida por el delito no es parte en el proceso penal, pero podrá coadyuvar con el Ministerio Público, proporcionando al juzgador por conducto de éste o directamente, todos los elementos que tenga y que conduzcan a comprobar la procedencia y monto de la reparación del daño y perjuicio.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+En todo caso, el juez, de oficio, mandará citar a la persona ofendida por el delito para que comparezca por sí o por su representante designado en el proceso, a manifestar en éste lo que a su derecho convenga respecto a lo previsto en este artículo.
 
 ## TITULO CUARTO. Instrucción
 
@@ -1084,6 +1122,10 @@ Si durante el plazo de 10 días, contados a partir del día en que se haya hecho
 > <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
 
 El juez ordenará o negará la aprehensión, reaprehensión o comparecencia solicitada por el Ministerio Público dentro de los 15 días contados a partir del día en que se haya acordado la radicación. Si no resuelve oportunamente sobre este punto, el Ministerio Público procederá en los términos previstos en la parte final del párrafo anterior.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+Si el juez niega la aprehensión, reaprehensión o comparecencia solicitada, por considerar que no están reunidos los requisitos del artículo 195, el Ministerio Publico podrá promover pruebas en el proceso hasta que se satisfagan dichos requisitos a criterio del juez.
 
 ###### ARTICULO 143.
 
@@ -1269,6 +1311,10 @@ III. Que en relación a la fracción anterior, esté demostrada la presunta resp
 
 IV.- Que no esté plenamente comprobada a favor del inculpado alguna circunstancia eximente de responsabilidad, o que extinga la acción penal.
 
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+El plazo al que se refiere el primer párrafo de este artículo se duplicará cuando lo solicite el inculpado por escrito, por sí o por conducto de su defensor, al rendir declaración preparatoria, por convenirle dicha ampliación del plazo con el objeto de recabar elementos que deba someter al conocimiento del juez para que éste resuelva sobre su situación jurídica. El Ministerio Público no puede solicitar dicha prórroga ni el juez resolverla de oficio, aun cuando, mientras corre el período de ampliación, aquél puede, sólo en relación con las pruebas o alegaciones que propusiera el inculpado o su defensor, hacer las promociones correspondientes al interés social que representa.
+
 ###### ARTICULO 162.
 
 Cuando el delito cuya existencia se haya comprobado no merezca pena corporal, o esté sancionado con pena alternativa, se dictará auto con todos los requisitos del de formal prisión, sujetando a proceso a la persona contra quien aparezcan datos suficientes para presumir su responsabilidad, para el solo efecto de señalar el delito por el cual se ha de seguir el proceso.
@@ -1279,11 +1325,11 @@ Cuando el delito cuya existencia se haya comprobado no merezca pena corporal, o 
 
 Los autos a que se refieren los dos artículos anteriores se dictarán por el delito que realmente aparezca comprobado, tomando en cuenta sólo los hechos materia de la consignación, y considerando la descripción típica legal y la presunta responsabilidad correspondientes, aun cuando con ello se modifique la clasificación hecha en promociones o resoluciones anteriores. Dichos autos serán inmediatamente notificados, en forma personal, a las partes.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1988)</small>
 
 ###### ARTICULO 164.
 
-El auto de formal prisión se notificará al jefe o responsable del establecimiento donde se encuentre detenido el inculpado. Si este funcionario no recibe copia autorizada de la mencionada resolución dentro de las setenta y dos horas siguientes al acto en que se puso al acusado a disposición de su juez, dará a conocer por escrito esta situación al citado juez y al Ministerio Público en el momento mismo de concluir el plazo, y si no obstante esto no recibe la copia autorizada del auto de formal prisión dentro de las tres horas siguientes, pondrá en libertad al inculpado. De todo ello se dejará constancia en el expediente del proceso.
+El auto de formal prisión se notificará a la autoridad responsable del establecimiento donde se encuentre detenido el inculpado. Si este funcionario no recibe copia autorizada de la mencionada resolución dentro de los plazos que señala el artículo 161, en su caso, a partir del acto en que se puso al inculpado a disposición de su juez, dará a conocer por escrito esta situación al citado juez y al Ministerio Público en el momento mismo de concluir el plazo, y si no obstante esto no recibe la copia autorizada del auto de formal prisión dentro de las tres horas siguientes, pondrá en libertad al inculpado. De todo ello se dejará constancia en el expediente del proceso.
 
 > <small>(F. DE E., D.O.F. 1 DE NOVIEMBRE DE 1934)</small>
 
@@ -1299,11 +1345,13 @@ Las constancias de antecedentes penales y los documentos o fichas en que conste 
 
 El auto de formal prisión no revoca la libertad provisional concedida, excepto cuando así se determine expresamente en el propio auto.
 
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1988)</small>
 
 ###### ARTICULO 167.
 
-Si dentro del término legal no se reúnen los requisitos necesarios para dictar el auto de formal prisión o el de sujeción a proceso, se dictará auto de libertad por falta de elementos para procesar, o de no sujeción a proceso, en su caso, sin perjuicio de que por medios de prueba posteriores se proceda nuevamente en contra del inculpado
+Si dentro del término legal no se reúnen los requisitos necesarios para dictar el auto de formal prisión o el de sujeción a proceso, se dictará auto de libertad por falta de elementos para procesar, o de no sujeción a proceso, según corresponda, sin perjuicio de que por medios posteriores de prueba se actúe nuevamente en contra del inculpado; en estos casos no procederá el sobreseimiento hasta en tanto prescriba la acción penal del delito o delitos de que se trate.
+
+También en estos casos, el Ministerio Público podrá promover prueba, en ejercicio de las atribuciones que le confiere el segundo párrafo del artículo 4o., hasta reunir los requisitos necesarios, con base en los cuales, en su caso, solicitará nuevamente al juez dicte orden de aprehensión, en los términos del artículo 195, o de comparecencia, según corresponda.
 
 ## TITULO QUINTO. Disposiciones comunes a la averiguación previa y a la Instrucción
 
@@ -1367,7 +1415,9 @@ II.- La preexistencia, propiedad y falta posterior de la cosa robada; y
 
 lll.- Si la persona ofendida se hallaba en situación de poseer la cosa materia del delito y si es digna de fe y crédito.
 
-Si de la comprobación de todas estas circunstancias así como de los antecedentes morales, sociales y pecuniarios, tanto de la víctima como del inculpado, resultan indicios suficientes, a juicio del tribunal, para tener por comprobada la existencia del robo, esto será bastante para considerar comprobado el cuerpo del delito.
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+Lo previsto en el párrafo anterior para los efectos del procedimiento judicial será aplicable, en su caso, a la averiguación previa.
 
 ###### ARTICULO 176.
 
@@ -1383,9 +1433,11 @@ El cuerpo de los delitos contra la salud, peculado, abuso de confianza y fraude,
 
 En el caso de posesión de una droga, substancia, semilla o planta enervantes, siempre que no haya sido posible comprobar el cuerpo del delito en los términos del articulo 168, se tendrá por comprobado con la simple demostración del hecho material de que el inculpado las tenga o haya tenido en su poder, sin llenar los requisitos que señalan las leyes y demás disposiciones sanitarias, ya sea guardadas en cualquier lugar o trayéndolas consigo, aun cuando las abandone o las oculte o guarde en otro sitio.
 
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
 ###### ARTICULO 179.
 
-Cuando, tratándose del delito de ataques a las vías de comunicación, no fuere posible practicar inspección ocular porque para evitar perjuicios al servicio público haya sido necesario hacer inmediatamente su reparación, bastará para la comprobación del cuerpo del delito cualquiera otra prueba plena.
+Cuando tratándose de delito de ataques a las vías de comunicación, no fuere posible practicar inspección, porque para evitar perjuicios al servicio público haya sido necesario repararlas inmediatamente, el cuerpo del delito se podrá comprobar con las demás pruebas practicables.
 
 > <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
 
@@ -1485,7 +1537,7 @@ Cuando un lesionado necesite pronta atención, cualquier médico que se halle pr
 
 ### CAPITULO I. Medios de prueba
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1988)</small>
 
 ###### ARTICULO 193.
 
@@ -1533,11 +1585,11 @@ No podrán considerarse prisiones especiales los cuarteles u oficinas.
 
 Para dictarse orden de aprehensión no será obstáculo la circunstancia de que esté pendiente un recurso de apelación interpuesto contra resolución anterior que la hubiere negado.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1988)</small>
 
 ###### ARTICULO 200.
 
-Si por datos posteriores el Ministerio Público estimare que ya no es procedente una orden de aprehensión, o que debe reclasificarse la conducta o hecho por los cuales se hubiese ejercitado la acción, y la orden no se hubiera ejecutado aún, pedirá su cancelación o hará la reclasificación, en su caso, con acuerdo del Procurador o del Subprocurador que corresponda. La cancelación no impide que continúe la averiguación y que posteriormente vuelva a solicitarse orden de aprehensión, si procede. En los casos a que se refiere este artículo el juez resolverá de plano.
+Si por datos posteriores el Ministerio Público estimare que ya no es procedente una orden de aprehensión, o que debe reclasificarse la conducta o hecho por los cuales se hubiese ejercitado la acción, y la orden no se hubiera ejecutado aún, pedirá su cancelación o hará la reclasificación, en su caso, con acuerdo del Procurador o del funcionario que corresponda, por delegación de aquél. Este acuerdo deberá constar en el expediente. La cancelación no impide que continúe la averiguación, y que posteriormente vuelva a solicitarse orden de aprehensión, si procede, salvo que por la naturaleza del hecho en el que la cancelación se funde, deba sobreseerse el proceso. En los casos a los que se refiere este artículo, el juez resolverá de plano.
 
 > <small>(F. DE E., D.O.F. 1 DE NOVIEMBRE DE 1934)</small>
 
@@ -1571,7 +1623,9 @@ Cuando por la naturaleza del delito o de la pena aplicable el imputado no deba s
 
 ###### ARTICULO 206.
 
-Son admisibles todos los medios de prueba que no sean contrarios a Derecho. No se admitirán probanzas que no tengan relación con la materia del proceso o no sean idóneas para esclarecer hechos controvertidos en éste. La admisión y la práctica de las pruebas se ajustarán a los requisitos o procedimientos legalmente establecidos. Quien ofrece la prueba debe proporcionar los elementos de que disponga para este efecto, precisar las circunstancias necesarias para el desahogo de aquélla e indicar la finalidad que con la misma se persigue, relacionando la prueba con los hechos que se pretende acreditar.
+Son admisibles todos los medios de prueba que no sean contrarios a Derecho. No se admitirán probanzas que no tengan relación con la materia del proceso, no sean idóneas para esclarecer hechos controvertidos en éste o se ofrezcan sin cumplir las formalidades establecidas en este artículo. La admisión y la práctica de las pruebas se ajustarán a los requisitos o procedimientos legalmente establecidos. Quien ofrece la prueba debe proporcionar los elementos de que disponga para este efecto, precisar las circunstancias necesarias para el desahogo de aquélla e indicar la finalidad que con la misma se persigue, relacionando la prueba con los hechos que se pretende acreditar.
+
+En caso de que el oferente esté imposibilitado para proporcionar los elementos de que deba disponer para el desahogo de las pruebas propuestas, lo manifestará así, bajo protesta de decir verdad, en el propio ofrecimiento de las mismas, para que el juez, después de haber dado vista a la otra parte por un plazo de tres días, resuelva sobre su admisión, perfeccionamiento o desechamiento según corresponda.
 
 ### CAPITULO III. Inspección
 
@@ -1829,6 +1883,10 @@ Si la declaración es relativa a un hecho que hubiere dejado vestigios en algún
 
 Siempre que se examine a una persona cuya declaración sea sospechosa de falta de veracidad, se hará constar esto en el acta.
 
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+En el momento de la diligencia, el Ministerio Público, el inculpado o su defensor podrán manifestar los motivos que tuvieren para suponer falta de veracidad en el declarante, e inclusive ofrecer pruebas al respecto, que se agregarán al expediente.
+
 ###### ARTICULO 254.
 
 Concluída la diligencia se leerá al testigo su declaración o la leerá él mismo, si quisiere, para que la ratifique o la enmiende, y después de esto será firmada por el testigo y su acompañante si lo hubiere.
@@ -1895,6 +1953,8 @@ Cuando la pluralidad de las personas amerite varias confrontaciones, éstas se v
 
 ### CAPITULO VIII. Documentos
 
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
 ###### ARTICULO 265.
 
 Con excepción de los mencionados en la fracción IV del artículo 20 de la Constitución, los careos se practicarán cuando exista contradicción en las declaraciones de dos personas, pudiendo repetirse cuando el tribunal lo estime oportuno o cuando surjan nuevos puntos de contradicción.
@@ -1919,11 +1979,13 @@ Si los que deban carearse estuvieren fuera de la jurisdicción del tribunal, se 
 
 ###### ARTICULO 269.
 
-El tribunal recibirá las pruebas documentales que le presenten las partes durante la instrucción y las agregará al expediente asentando razón en autos.
+El tribunal recibirá las pruebas documentales que le presenten las partes hasta un día antes de la citación de la audiencia de vista, y las agregará al expediente, asentando razón en autos.
+
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1988)</small>
 
 ###### ARTICULO 270.
 
-Siempre que alguna de las partes pidiere copia o testimonio de algún documento que obre en los archivos públicos, las otras tendrá derecho de pedir, dentro de tres días, que se adicione con lo que crean conveniente del mismo asunto. El tribunal resolverá de plano si es procedente la adición solicitada.
+Cuando alguna de las partes pidiere copia o testimonio de un documento que obre en archivos de dependencias u organismos públicos, el tribunal ordenará a la autoridad correspondiente que expida y le remita copia oficial de dicho documento. Con la solicitud presentada por una de las partes, se dará vista a la otra para que, dentro de tres días, pida a su vez se adicionen las constancias que crea convenientes acerca del mismo asunto. En todo caso, el tribunal resolverá de plano si son procedentes las peticiones que las partes formulen.
 
 ###### ARTICULO 271.
 
@@ -1966,6 +2028,8 @@ Los documentos redactados en idioma extranjero se presentarán originales, acomp
 Si ésta fuere objetada, se ordenará que sean traducidos por los peritos que designe el tribunal.
 
 ### CAPITULO UNICO
+
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1988)</small>
 
 ### CAPITULO UNICO
 
@@ -2055,13 +2119,11 @@ Los tribunales, en sus resoluciones, expondrán los razonamientos que hayan teni
 
 ### CAPITULO I. Procedimiento ante los Jueces de Distrito
 
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
 ###### ARTICULO 291.
 
-Cerrada la instrucción se mandará poner la causa a la vista del Ministerio Público por cinco días, para que formule conclusiones por escrito. Si el expediente excediere de doscientas fojas, por cada cincuenta de exceso o fracción, se aumentará un día al término señalado.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 24 DE DICIEMBRE DE 1984)</small>
-
-Transcurrido el plazo al que se refiere el párrafo anterior sin que el Ministerio Público haya presentado conclusiones, el juez deberá informar al Procurador acerca de esta omisión, para que dicha autoridad formule u ordene la formulación de las conclusiones pertinentes, sin perjuicio de disponer las medidas disciplinarias que correspondan.
+Cerrada la instrucción, se mandará poner la causa a la vista del Ministerio Público, por diez días, para que formule conclusiones por escrito. Si el expediente excediere de doscientas fojas, por cada cien de exceso, o fracción, se aumentará un día al plazo señalado.
 
 ###### ARTICULO 292.
 
@@ -2151,7 +2213,7 @@ El auto de sobreseimiento que haya causado estado, surtirá los efectos de una s
 
 ###### ARTICULO 305.
 
-El mismo día en que el inculpado o su defensor presenten sus conclusiones, o en el momento en que se haga la declaración a que se refiere el artículo 297, se citará a una audiencia que deberá efectuarse dentro de los cinco días siguientes. La citación para esa audiencia produce los efectos de citación para sentencia.
+El mismo día en que el inculpado o su defensor presenten sus conclusiones, o en el momento en que se haga la declaración a que se refiere el artículo 297, se citará a la audiencia de vista que deberá efectuarse dentro de los cinco días siguientes. La citación para esa audiencia produce los efectos de citación para sentencia.
 
 > <small>(F. DE E., D.O.F. 1 DE NOVIEMBRE DE 1934)</small>
 
@@ -2501,15 +2563,17 @@ El tribunal resolverá el recurso oyendo a las partes en una audiencia que se ef
 
 ### CAPITULO IV. Queja
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1988)</small>
 
 ###### ARTICULO 363.
 
 El recurso de apelación tiene por objeto examinar si en la resolución recurrida no se aplicó la ley correspondiente o se aplicó ésta inexactamente, si se violaron los principios reguladores de la valoración de la prueba, si se alteraron los hechos o no se fundó o motivó correctamente.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE ENERO DE 1988)</small>
+
 ###### ARTICULO 364.
 
-La segunda instancia solamente se abrirá a petición de parte legítima, para resolver sobre los agravios que estime el apelante le cause la resolución recurrida. Los agravios deberán expresarse al interponerse el recurso o en la vista del asunto. El tribunal de apelación podrá suplir la deficiencia de los agravios cuando el recurrente sea el procesado o, siéndolo el defensor, se advierta que por torpeza no los hizo valer debidamente.
+La segunda instancia solamente se abrirá a petición de parte legítima, para resolver sobre los agravios que estime el apelante le cause la resolución recurrida. Los agravios deberán expresarse al interponerse el recurso o en la vista del asunto. El tribunal de apelación suplirá la deficiencia de los agravios cuando el recurrente sea el procesado o, siéndolo el defensor, se advierta que por torpeza no los hizo valer debidamente.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ENERO DE 1986)</small>
 
@@ -2641,6 +2705,10 @@ Sólo se admitirá la prueba testimonial en segunda instancia, cuando los hechos
 
 Siempre que se haya interpuesto el recurso de apelación en contra de una sentencia definitiva, el tribunal tiene facultad para admitir las pruebas que no se hubieren promovido o practicado en primera instancia para justificar la procedencia de la condena condicional y para resolver sobre ella al fallarse el asunto, aun cuando no haya sido motivo de agravio el no haberse concedido ese beneficio en la primera instancia.
 
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+Tratándose de apelaciones respecto de los autos de formal prisión, sujeción a proceso o libertad por falta de elementos para procesar, el tribunal podrá ordenar el desahogo de las pruebas que no se hubiesen practicado, si las partes las promueven.
+
 ###### ARTICULO 380.
 
 Los instrumentos públicos son admisibles mientras no se declare vista la causa.
@@ -2711,13 +2779,17 @@ XI.- Por haberse sometido a la resolución del jurado cuestiones de distinta ín
 
 XII.- Por haber sido juzgado el acusado por un tribunal de derecho, debiendo haberlo sido por el Jurado, o viceversa.
 
-XIII.- Por habérsele condenado por delito distinto del señalado en las conclusiones del Ministerio Público.
+> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 1988)</small>
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1986)</small>
+XIII.- Por habérsele condenado por hechos distintos de los que fueron considerados en las conclusiones del Ministerio Público.
 
-XIV.- Por haberse negado a alguna de las partes los recursos procedentes; y
+> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 1988)</small>
 
-XV.- Por haberse tenido en cuenta en la sentencia una diligencia que la ley declare expresamente que es nula.
+XIV.- Por haberse negado a alguna de las partes los recursos procedentes, o por haberse resuelto la revocación en forma contraria a derecho; y
+
+> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 1988)</small>
+
+XV.- Por haberse tenido en cuenta una diligencia que, conforme a la ley, fuese nula.
 
 ###### ARTICULO 389.
 
@@ -2769,27 +2841,15 @@ Si la apelación se declara admisible, o se varía el grado, se pedirá el testi
 
 ###### ARTICULO 398 Bis.
 
-El recurso de queja procede contra las conductas omisas de los jueces de distrito que no radiquen una averiguación o no resuelvan respecto al libramiento o negativa de la orden de aprehensión o de comparecencia, en los términos a que alude el artículo 142.
+El recurso de queja procede contra las conductas omisivas de los Jueces de Distrito que no emitan las resoluciones o no señalen la práctica de diligencias dentro de los plazos y términos que señale la ley, o bien, que no cumplan las formalidades o no despachen los asuntos de acuerdo a lo establecido en este Código.
 
-(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986))
-
-También procede el recurso de queja contra las conductas omitidas de los jueces de Distrito que no cumplan dentro de los plazos otorgados en este Código, con las obligaciones establecidas en los artículos 53, 147, 150 y 433.
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+La queja podrá interponerse en cualquier momento a partir de que se produjo la situación que la motiva, y se interpondrá por escrito ante el Tribunal Unitario de Circuito que corresponda.
 
 En las hipótesis previstas en el artículo 142, el recurso lo interpondrá el Ministerio Público.
 
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
+El Tribunal Unitario de Circuito, en el plazo de cuarenta y ocho horas, le dará entrada al recurso y requerirá al Juez de Distrito, cuya conducta omisiva haya dado lugar al recurso, para que rinda informe dentro del plazo de tres días.
 
-La queja podrá interponerse en cualquier tiempo a partir de que hubieran transcurrido los plazos establecidos en los artículos 53,142,147, 150 y 433, y se interpondrá por escrito ante el Tribunal Unitario de Circuito que corresponda.
-
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
-
-El tribunal Unitario de Circuito, en el plazo de 48 horas, le dará entrada al recurso y requerirá al Juez de Distrito, cuya conducta omisa haya dado lugar al recurso, para que rinda informe dentro del plazo de tres días.
-
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
-
-Transcurrido este plazo, con informe o sin él, se dictará la resolución que proceda y si se estima fundado el recurso, el Tribunal Unitario requerirá al Juez de Distrito, para que cumpla con las obligaciones determinadas en los artículos 53, 142, 147, 150 y 433. La falta del informe a que se refiere el párrafo anterior, establece la presunción de ser cierta la omisión atribuida y hará incurrir al juez en multa de diez a cien veces el salario mínimo vigente en el monto y lugar en que hubiere ocurrido la omisión.
+Transcurrido este plazo, con informe o sin él, se dictará la resolución que proceda. Si se estima fundando el recurso, el Tribunal Unitario requerirá al Juez de Distrito para que cumpla las obligaciones determinadas en la ley. La falta del informe al que se refiere el párrafo anterior, establece la presunción de ser cierta la omisión atribuida y hará incurrir al juez en multa de diez a cien veces el salario mínimo vigente en el momento y lugar en que hubiese ocurrido la omisión.
 
 TITULO DECIMOPRIMERO
 
@@ -3956,3 +4016,9 @@ DECRETO QUE REFORMA AL CODIGO FEDERAL DE PROCEDIMIENTOS PENALES (ARTICULOS 1, 4,
 ###### ARTICULO UNICO.
 
 Las presentes reformas entrarán en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE ENERO DE 1988.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a los sesenta días de su publicación en el Diario Oficial de la Federación.
