@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1970-06-17"
+last_updated: "1975-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 1975.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -3829,7 +3829,11 @@ III.- El mobiliario de uso doméstico;
 
 IV.- Tratándose de familias campesinas, el equipo agrícola, considerándose como tal, los semovientes, las semillas, los útiles, implementos y aperos de labranza;
 
-V.- Tratándose de familias obreras, el equipo de trabajo, considerándose como tal, la maquinaria, los útiles, las herramientas y en general toda clase de utensilios propios para el ejercicio del arte u oficio a que la familia se dedique.
+V.- Tratándose de familias obreras, el equipo de trabajo, considerándose como tal, la maquinaria, los útiles, las herramientas y en general toda clase de utensilios propios para el ejercicio del arte u oficio a que la familia se dedique;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE 1975)</small>
+
+VI.- Tratándose de trabajadores del Volante, el vehículo en que se presta el servicio público de alquiler, y el derecho a la concesión de las placas, cuando constituya la única fuente de ingresos.
 
 ###### Art. 725.
 
@@ -3841,17 +3845,19 @@ Tienen derecho de habitar la casa y de aprovechar los frutos de la parcela afect
 
 Los beneficiarios de los bienes afectos al Patrimonio de la Familia serán representados en sus relaciones con tercero, en todo lo que al Patrimonio se refiere, por el que lo constituyó, y, en su defecto, por el que nombre la mayoría. El representante tendrá también la administración de dichos bienes.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 1963)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1975)</small>
 
 ###### Art. 727.
 
 El valor máximo de los bienes afectos al Patrimonio de Familia será de:
 
-I.- $60,000.00 (SESENTA MIL PESOS, 00/100, M.N.) para los Municipios de Monterrey, San Nicolás de los Garza, Villa de Guadalupe y Garza García, N.L.
+I.- $175,000.00 (Ciento setenta y cinco mil pesos 00/100 M.N.), para los Municipios de Monterrey, N.L.
 
-II.- $30,000.00 (TREINTA MIL PESOS, 00/100, M.N.) para los Municipios de Linares, Cadereyta Jiménez, Montemorelos, Cerralvo, Sabinas Hidalgo, Villaldama, Dr. Arroyo, General Terán, Villa de Santiago, Santa Catarina y Cd. Anahuác, N.L.
+II.- $140.000.00 (Ciento cuarenta mil pesos 00/100 M.N.), para los Municipios de San Nicolás de los Garza, Guadalupe y Garza García N.L.
 
-III- $15,000.00 (QUINCE MIL PESOS, 00/100, M.N.) para los demás Municipios del Estado.
+III- $ 80.000.00 (Ochenta mil pesos 00/100 M.N.), para los Municipios de Linares, Cadereyta Jiménez, Montemorelos, Sabinas Hidalgo, Villa de Santiago, Villa de Juárez, Santa Catarina, General Escobedo, Apodaca, Allende, General Terán y Ciudad Anáhuac, N.L.
+
+IV.- $60.000.00 (Sesenta mil pesos 00/100 M.N.), para los demás Municipios del Estado, incluyéndose la Congregación Colombia.
 
 ###### Art. 728.
 
@@ -7097,7 +7103,7 @@ Testamento público abierto, es el que se otorga ante notario y tres testigos id
 
 ###### Art. 1409.
 
-El testador expresara de un modo claro y terminante su voluntad al notario y a los testigos. El notario redactará por escrito las cláusulas del testamento sujetándose estrictamente a la voluntad del testador y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán todos el instrumento, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
+El testador expresará de un modo claro y terminante su voluntad al notario y a los testigos. El notario redactará por escrito las cláusulas del testamento sujetándose estrictamente a la voluntad del testador y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán todos el instrumento, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
 
 ###### Art. 1410.
 
@@ -10917,9 +10923,11 @@ En la venta de que habla el artículo 2206, mientras que no pasa la propiedad de
 
 El contrato de compra-venta no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1975)</small>
+
 ###### Art. 2211.
 
-La venta de un inmueble cuyo precio no exceda de cinco mil pesos, se hará en instrumento privado que firmarán el vendedor y el comprador ante dos testigos, debiendo ratificar los contratantes el contenido del contrato y reconocer sus firmas ante Notario. Las partes pueden convenir en que este contrato lleve la forma prescrita por el artículo 2214.
+La venta de un inmueble cuyo precio no exceda de $50.000.00 (CINCUENTA MIL PESOS 00/100 M.N.), se hará en instrumento privado que firmarán el vendedor y el comprador ante dos testigos, debiendo ratificar los contratantes el contenido del Contrato y reconocer sus firmas ante Notario. Las partes pueden convenir en que este Contrato lleve la forma prescrita por el artículo 2214.
 
 ###### Art. 2212.
 
@@ -10929,17 +10937,21 @@ Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su r
 
 De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1975)</small>
+
 ###### Art. 2214.
 
-Si el valor del inmueble excede de cinco mil pesos su venta se hará en escritura pública.
+Si el valor del inmueble excede de $50.00000 (CINCUENTA MIL PESOS 00/100 M.N.), se hará en escritura pública.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1975)</small>
 
 ###### Art. 2215.
 
-Tratándose de bienes ya inscritos en el Registro Público y cuyo valor no exceda de cinco mil pesos, cuando la venta sea al contado y sin condición o modalidad alguna, puede transmitirse el dominio por endoso puesto en el certificado de propiedad que el Registrador tiene obligación de expedir al vendedor a cuyo favor estén inscritos los bienes.
+Tratándose de bienes ya inscritos en el Registro Público y cuyo valor no exceda de $50,000.00 (CINCUENTA MIL PESOS 00/100 M.N.), cuando la venta sea al contado y sin condición o modalidad alguna, puede transmitirse el dominio por endoso puesto en el certificado de propiedad que el Registrador tiene obligación de expedir al vendedor a cuyo favor estén inscritos los bienes.
 
-El endoso debe contener la fecha, la voluntad de transmitir la propiedad del bien que se menciona en el certificado, su precio y que fué recibido al contado por el vendedor, así como la firma de éste y del comprador, debiendo ratificarse el endoso y reconocerse las firmas ante Notario Público.
+El endoso debe contener la fecha, la voluntad de transmitir la propiedad del bien que se menciona en el certificado, su precio y que fué recibido al contado por el vendedor, así como la firma de ésta y del comprador, debiendo ratificarse el endoso y reconocerse las firmas ante Notario Público.
 
-El Oficial del Registro Público hará la inscripción correspondiente en favor del comprador a quien se le devolverá el certificado, previa comprobación de que están cubiertos los impuestos correspondientes a la compra-venta realizada en esta forma.
+El Oficial del Registro Público hará la inscripción correspondiente en favor del comprador a quien se le devolverá el certificado, previa comprobación de que están cubiertos los impuestos correspondientes a la compraventa realizada en esta forma.
 
 ###### Art. 2216.
 
@@ -14742,3 +14754,7 @@ UNICO:- Las presentes reformas entrarán en vigor el día siguiente de su public
 P.O. 17 DE JUNIO DE 1970.
 
 UNICO:- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 1975.
+
+UNICO:- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
