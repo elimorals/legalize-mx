@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1995-11-14"
+last_updated: "1998-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 1998.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -305,7 +305,9 @@ I. Votar en las elecciones populares;
 
 II. Ser votado para todos los cargos de elección popular y nombrado para cualquier otro empleo o comisión, reuniendo las condiciones que establezca la ley;
 
-III. Asociarse para tratar asuntos políticos, conforme a la Ley; y
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 1998)</small>
+
+III. Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos del Estado;
 
 IV. Ejercer en toda clase de negocios el derecho de petición, conforme a la Ley.
 
@@ -323,15 +325,17 @@ II. Inscribirse en los Padrones Electorales, en los términos que determine la L
 
 III. Alistarse en la Guardia Nacional;
 
-IV. Votar en las elecciones, en el lugar que les corresponda, en la forma que disponga la Ley respectiva;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 1998)</small>
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+IV. Votar en las elecciones populares, en los términos que señale la Ley;
 
-V. Desempeñar los cargos de elección popular y los concejiles del Municipio donde residan, así como, gratuitamente, las funciones electorales y censales.
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 1998)</small>
 
-VI. (DEROGADA [N. DE E. SE FUSIONA CON LA FRACCION V], P.O. 16 DE ENERO DE 1987)
+V. Desempeñar los cargos de elección popular que en ningún caso serán gratuitos; y
 
-VII. (DEROGADA [N. DE E. SE FUSIONA CON LA FRACCION V], P.O. 16 DE ENERO DE 1987)
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 1998)</small>
+
+VI. Desempeñar gratuitamente los cargos consejiles (sic) del Municipio donde resida, así como las funciones electorales y censales.
 
 > <small>(REFORMADO [ N. DE E. ADICIONADO], P.O. 16 DE ENERO DE 1987)</small>
 
@@ -401,33 +405,35 @@ Las adiciones o supresiones a los nombres de los Municipios se podrán realizar 
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 1998)</small>
 
 ###### Artículo 24.
 
-La soberanía del Estado, reside esencial y orginariamente (sic) en el pueblo hidalguense, quien la ejerce por medio de los Poderes constituidos en los términos de esta Ley fundamental.
+La soberanía del Estado, reside esencial y originariamente en el pueblo hidalguense, quien la ejerce por medio de los poderes constituidos en los términos de esta ley fundamental.
 
-> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
+La renovación de los poderes legislativo y ejecutivo, así como de los Ayuntamientos se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
 
-Los partidos políticos son entidades de interés público que tienen como fin promover la participación ciudadana en la vida democrática, contribuir a la integración de la representación popular y como organizaciones de ciudadanos, hacer posible el acceso de estos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan; mediante el sufragio universal, libre, secreto y directo.
+I. Los partidos políticos son entidades de interés público; la ley determinará las formas específicas de su intervención en el proceso electoral y los que cuenten con registro nacional o estatal tendrán derecho a participar en las elecciones estatales y municipales.
 
-> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
+Los partidos políticos tienen como fin promover la participación ciudadana en la vida democrática, contribuir a la integración de la representación estatal y municipal y como organizaciones de ciudadanos hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan, mediante el sufragio universal, libre, secreto y directo. Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos.
 
-Para el cumplimiento de sus fines, los partidos políticos gozarán de las prerrogativas que se señalan en la Ley reglamentaria.
+II. La ley garantizará que los partidos políticos cuenten equitativamente con elementos para llevar a cabo sus actividades. Por tanto, tendrán derecho al uso en forma permanente de los medios de comunicación social, de acuerdo con las formas y procedimientos que establezca la misma. Además, la ley señalará las reglas a que se sujetará el financiamiento de los partidos políticos y sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado.
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 1995)</small>
+La ley electoral fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales; establecerá los montos máximos que tendrán las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con los que cuenten y asimismo, señalará las sanciones que deban imponerse por el incumplimiento de éstas disposiciones.
 
-La preparación, desarrollo, vigilancia, computo y calificación de los procesos electorales, ordinarios y extraordinarios, es una función de interés público que se ejerce a través de la acción ciudadana, con la corresponsabilidad de los partidos políticos.
+III. La organización de las elecciones estatales y municipales es una función del Estado, que se realiza a través de un organismo público, autónomo, de carácter permanente, denominado Instituto Estatal Electoral, dotado de personalidad jurídica y patrimonio propios, en cuya integración participan los partidos políticos y los ciudadanos, en los términos que ordene la ley. En el ejercicio de esta función estatal, la certeza, legalidad, independencia, imparcialidad, equidad y objetividad serán principios rectores.
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 1995)</small>
+El Instituto Estatal Electoral será autoridad en la materia, independiente en sus decisiones, funcionamiento y profesional en su desempeño; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia.
 
-Esta función se realiza a través de un organismo de interés público, pluralmente integrado, profesional en su desempeño, autónomo en sus decisiones, de carácter permanente, con personalidad jurídica y patrimonio propios, el cual será autoridad en la materia, debiendo velar porque los principios de legalidad, certeza, independencia, imparcialidad, objetividad y equidad, rijan todas las actividades de los procesos electorales; siendo además competente para declarar validas o nulas las elecciones ordinarias y extraordinarias de Diputados, Gobernador y Ayuntamientos, declarar electos a los ciudadanos que hayan obtenido la mayoría de votos, extendiéndoles las constancias respectivas y asignar las diputaciones y regidurías de representación proporcional correspondientes, así mismo, será facultad del Consejo General del Instituto Estatal Electoral convocar a elecciones extraordinarias, cuando procedan.
+Será facultad del Consejo General del Instituto Estatal Electoral convocar a elecciones extraordinarias, cuando procedan.
 
-> <small>(DEROGADO SEXTO PARRAFO, P.O. 14 DE NOVIEMBRE DE 1995)</small>
+El Instituto Estatal Electoral tendrá a su cargo en forma integral y directa, además de las que le determine la ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, los derechos y prerrogativas de los partidos políticos, al padrón y lista de electores, impresión de materiales electorales, preparación de la jornada electoral, los cómputos en los términos que señale la ley, declaración de validez y otorgamiento de constancias en las elecciones de Gobernador, Diputados y Ayuntamientos, así como la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales. Las sesiones de todos los órganos colegiados de dirección serán en los términos que señale la ley.
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 1995)</small>
+IV. Para garantizar la legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señale esta Constitución, y las leyes respectivas. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales, fijará los plazos convenientes para el desahogo de todas las instancias impugnativas y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación, en los términos de esta Constitución. Correspondiendo al Tribunal Electoral la aplicación del sistema mencionado.
 
-La legislación reglamentaria de la materia establecerá un sistema de medios de impugnación de los que conocerán los órganos electorales y un Tribunal Electoral. Este, se constituirá en órgano jurisdiccional de la materia, con la competencia y organización que dicho ordenamiento determine; funcionará en pleno y sus sesiones serán públicas; la interposición de los recursos, en ningún caso producirán efectos suspensivos del acto o resolución impugnada. Sus actos y resoluciones, invariablemente estarán sujetos al principio de legalidad, y darán definitividad a las distintas etapas de los procesos electorales; en tanto que las resoluciones que dicho tribunal pronuncie con posterioridad a la jornada electoral, se sujetarán a lo dispuesto en la Ley respectiva. Los Magistrados que lo integran deberán satisfacer cuando menos los requisitos que señale esta Constitución para los Magistrados del Tribunal Superior de Justicia, aunado a lo que señale en particular la Ley de la materia. El Poder Legislativo, garantizará la designación de sus integrantes, quienes serán independientes y sólo responderán al mandato de la Ley.
+En materia electoral la interposición de los medios de impugnación no producirán efectos suspensivos sobre la resolución o el acto impugnado.
+
+La Ley Electoral tipificará los delitos y determinará las faltas en esa materia, así como las sanciones que por ellos deban imponerse.
 
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
@@ -475,11 +481,11 @@ El ejercicio del Poder Legislativo se deposita en una Asamblea que se denominar�
 
 #### SECCION II. DE LA ELECCION DE DIPUTADOS E INSTALACION DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 1998)</small>
 
 ###### Artículo 29.
 
-El Congreso se integra con dieciocho diputados de mayoría relativa electos por votación directa, secreta y uninominal en dieciocho distritos electorales y nueve diputados de representación proporcional, quienes como resultado de la misma elección, se designaran mediante el procedimiento que la ley de la materia establezca.
+El Congreso se integra con dieciocho diputados de mayoría electos por votación directa, secreta y uninominal en dieciocho distritos electorales y once diputados de representación proporcional, quienes como resultado de la misma elección se designarán mediante el procedimiento que la Ley de la materia establezca.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -735,9 +741,7 @@ VIII. Aprobar en su caso, la propuesta del Ejecutivo para nombrar a los Magistra
 
 Nombrar de las listas propuestas por el titular del Ejecutivo, al Procurador General de Justicia del Estado y al Subprocurador de Asuntos Electorales, así como conocer de su renuncia o remoción;
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 1995)</small>
-
-IX. Requerir al Consejo General del Instituto Estatal Electoral convoque a elecciones extraordinarias de Diputados para cubrir las vacantes de sus miembros, cuando se surtan cualquiera de las causas especificadas en esta Constitución;
+IX. (DEROGADA, P.O. 9 DE MAYO DE 1998)
 
 X. Nombrar al ciudadano que debe suplir al Gobernador Constitucional, en caso de falta temporal o definitiva de éste;
 
@@ -769,9 +773,7 @@ XVIII. Por acuerdo de las dos terceras partes de sus integrantes, suspender Ayun
 
 XIX. Instalar y presidir la Junta Preparatoria del nuevo Congreso del Estado;
 
-> <small>(ADICIONADA, P.O. 16 DE MAYO DE 1982)</small>
-
-XX. Declarar Senadores electos a los ciudadanos que hayan obtenido la mayoría de votos emitidos en las Elecciones Constitucionales correspondientes;
+XX. (DEROGADA, P.O. 9 DE MAYO DE 1998)
 
 > <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1995)</small>
 
@@ -789,13 +791,25 @@ XXIII. Expedir leyes sobre planeación del desarrollo estatal, y (sic)
 
 XXIV. Legislar en materia de protección al ambiente y preservación y restauración del equilibrio ecológico, en el ámbito de competencia del Estado y de sus Municipios; y
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 1998)</small>
 
-XXV. Los Consejeros Ciudadanos del Consejo General del Instituto Estatal Electoral y los Magistrados del Tribunal Electoral del Estado, tendrán el carácter de servidores públicos y serán nombrados por el Congreso del Estado, de acuerdo con lo que establezca la Ley de la materia, así mismo, conocerá de su licencia o renuncia; y
+XXV. Nombrar a los Magistrados del Tribunal Electoral del Estado y a los Consejeros Electorales del Instituto Estatal Electoral, en los términos establecidos en la ley de la materia. Asimismo conocerá de su renuncia;
 
-(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1987) (F. DE. E., P.O. 30 DE DICIEMBRE DE 1987)
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE MAYO DE 1998)</small>
 
-XXVI. Las demás que le sean concedidas por esta Constitución.
+XXVI. Expedir el Decreto para dar a conocer en todo el Estado, la declaración de Gobernador Electo que hubiere hecho el Consejo General del Instituto Estatal Electoral;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 1998)</small>
+
+XXVII. Declarar si ha lugar o no a proceder penalmente contra los servidores públicos que hubieren incurrido en delito del orden común en los términos del artículo 153 de esta Constitución;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 1998)</small>
+
+XXVIII. Constituirse en órgano de acusación para conocer de las faltas graves administrativas cometidas por los servidores públicos y,
+
+> <small>(ADICIONADA ([N. DE E. REFORMADA], P.O. 9 DE MAYO DE 1998)</small>
+
+XXIX. Las demás facultades que le sean concedidas por esta Constitución.
 
 > <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -1253,7 +1267,7 @@ Artículo 88d. (DEROGADO, P.O. 1 DE OCTUBRE DE 1987)
 
 ### CAPITULO III. DEL PODER JUDICIAL
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 1998)</small>
 
 ###### Artículo 89.
 
@@ -1301,49 +1315,85 @@ Solo podrán ser removidos en los términos previstos por esta Constitución; po
 
 ###### Artículo 93.
 
-Se deposita el ejercicio del Poder Judicial del Estado, en un Tribunal Superior de Justicia y Jueces del Fuero Común, en los términos de esta Constitución y la Ley Orgánica correspondiente.
+Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y Jueces del Fuero Común, en un Tribunal Fiscal Administrativo y en un Tribunal Electoral, en los términos de ésta Constitución y su ley orgánica.
 
-Es atribución del Tribunal Superior de Justicia y Jueces del Estado, la función jurisdiccional en los asuntos del Fuero Común, lo mismo que en los de orden federal, en los casos que expresamente traten las Leyes.
+Será representante del Poder Judicial del Estado de Hidalgo, quien desempeñe el cargo de Presidente del Tribunal Superior de Justicia.
 
-El desempeño de la función jurisdiccional corresponde a:
+El desempeño de la función jurisdiccional, en los asuntos del fuero común, lo mismo que en los del orden federal, en los casos que expresamente traten las leyes, corresponde a:
 
-I. El Tribunal Superior de Justicia;
+I. El Tribunal Superior de Justicia y jueces del fuero común;
 
-II. Los Jueces del Fuero Común; y
+II. El Tribunal Fiscal Administrativo;
 
-III. Los demás funcionarios y auxiliares de la administración de justicia en los términos que establezcan las Leyes y Códigos relativos.
+III. El Tribunal Electoral y
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE SEPTIEMBRE DE 1987)</small>
+IV. Los demás funcionarios y auxiliares de la administración de justicia en los términos que establezcan las Leyes.
 
-Los Magistrados del Tribunal Superior de Justicia y los Jueces en el Estado tendrán independencia en el ejercicio de su función jurisdiccional. Las leyes garantizarán a dichos servidores públicos una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo, así como los reconocimientos al desempeño de su función, que les aseguren el digno ejercicio de la misma, y establecerán las condiciones para su ingreso, formación y permanencia.
+Los magistrados y los jueces en el Estado, tendrán independencia en el ejercicio de su función jurisdiccional.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1991)</small>
+Las leyes garantizarán a dichos servidores públicos una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo, así como los reconocimientos al desempeño de su función, que les aseguren el digno ejercicio de la misma y establecerán las condiciones para su ingreso, formación y permanencia.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 1998)</small>
 
 ###### Artículo 94.
 
-El Tribunal Superior de Justicia estará integrado por el número de Magistrados que fije la Ley Orgánica del Poder Judicial del Estado.
+El Tribunal Superior de Justicia, el Tribunal Fiscal Administrativo y el Tribunal Electoral estarán integrados por el número de magistrados que establezca la Ley Orgánica del Poder Judicial.
 
-Los nombramientos de los Magistrados del Tribunal Superior de Justicia, serán hechos por el Gobernador del Estado y sometidos a la aprobación del Congreso o de la Comisión Permanente, en su caso, en los términos de esta Constitución.
+Los magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal Administrativo, serán nombrados por el Gobernador del Estado con la aprobación del Congreso o de la Comisión Permanente, en su caso, en los términos de esta Constitución.
 
-Para el trámite de renuncias de los Magistrados del Tribunal, se seguirá el mismo procedimiento que para su nombramiento.
+Los magistrados del Tribunal Electoral serán nombrados por el Congreso del Estado o por la Comisión Permanente, en su caso, a propuesta de los Partidos Políticos.
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
+Para el trámite de renuncias de los magistrados del Poder Judicial, se seguirá el mismo procedimiento que para su nombramiento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MAYO DE 1998)</small>
 
 ###### Artículo 95.
 
-Para ser Magistrado del Tribunal Superior de Justicia se requiere:
+Para ser magistrado del Poder Judicial, se requiere:
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
 I. Ser ciudadano mexicano por nacimiento e hidalguense, en pleno ejercicio de sus derechos civiles y políticos;
 
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
+
 II. No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la elección;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
 III. Poseer el día de la elección, con antigüedad mínima de cinco años, título profesional de abogado expedido por la Autoridad o Corporación legalmente facultada para ello;
 
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
+
 IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se trate de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y
 
-V. Haber residido en el País durante los últimos cinco años, salvo el caso de ausencia en el servicio de la República por un tiempo menor de seis meses.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
-Los nombramientos de los Magistrados serán hechos preferentemente entre aquellas personas que haya prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+V. Haber residido en el País durante los últimos cinco años, salvo el caso de ausencia en el servicio de la República por un tiempo menor de seis meses;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MAYO DE 1998)</small>
+
+VI. No ser ministro de algún culto religioso;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MAYO DE 1998)</small>
+
+VII. No desempeñar ni haber desempeñado cargo de elección popular en los últimos seis años;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MAYO DE 1998)</small>
+
+VIII. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal de algún partido político en los últimos seis años y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MAYO DE 1998)</small>
+
+IX. Contar con credencial para votar con fotografía.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE MAYO DE 1998)</small>
+
+Lo previsto en las fracciones VII, VIII y IX, no será aplicable a los magistrados del Tribunal Superior de Justicia y Tribunal Fiscal Administrativo.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 1998)</small>
+
+Los nombramientos de los magistrados y jueces serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes, en otras ramas de la profesión jurídica.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 1995)</small>
 
@@ -1367,67 +1417,99 @@ Dentro de los primeros diez días de sesiones del Congreso del Estado se deberá
 
 Si el Congreso desecha el nombramiento, cesará desde luego en sus funciones el Magistrado provisional y el Gobernador someterá nuevo nombramiento en los términos que se indican en este precepto.
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1998)</small>
+
+Los magistrados que integren al Tribunal Electoral serán electos de acuerdo al siguiente procedimiento:
+
+I. Cada partido político con registro, tendrá derecho a presentar una lista de cuatro candidatos;
+
+II. Aquellos candidatos que obtengan el consenso de todos los partidos políticos serán nombrados magistrados;
+
+III. En caso de no existir consenso o éste sea parcial, el Congreso del Estado solicitará a las asociaciones de abogados reconocidas por la Dirección de Profesiones y al Colegio de Notarios de la entidad, propongan una lista de cuando menos el doble de candidatos al número de magistrados que se pretenda cubrir y
+
+IV. Las propuestas serán presentadas al Congreso del Estado, para elegir por votación de por lo menos las dos terceras partes de los diputados presentes, al número de magistrados que faltare por designar.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MAYO DE 1998)</small>
 
 ###### Artículo 97.
 
-Los Magistrados durarán en el ejercicio de su encargo seis años a partir de su nombramiento; podrán ser reelectos, y si lo fueren sólo podrán ser privados de sus puestos en los términos que determina esta Constitución y la Ley de Responsabilidades de los Servicios Públicos del Estado.
-
-Obtendrán su jubilación al totalizar 60 años, sumando su edad a la antigüedad en el servicio.
-
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
-
-###### Artículo 98.
-
-Los Magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal Administrativo, otorgarán la protesta de Ley ante el Congreso del Estado y en los recesos de éste, ante la Comisión Permanente.
-
-Los Jueces protestarán ante el Tribunal Superior de Justicia y los demás funcionarios y empleados de la administración de justicia, rendirán la protesta ante la autoridad de la cual dependan.
-
-En escrutinio secreto, los Magistrados nombrarán de entre ellos, al que será Presidente del Tribunal Superior de Justicia, quien durará en su encargo un año, pudiendo ser reelecto. Este funcionario deberá rendir anualmente durante el mes de Abril al Pleno del propio Tribunal, un informe sobre el estado que guarda la administración de justicia.
-
-El Tribunal Superior de Justicia, funcionará en los términos que determine la Ley Orgánica, la que también delimitará los Distritos Judiciales y sus cabeceras.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
-
-###### Artículo 99.
-
-Son facultades del Tribunal Superior de Justicia:
-
-I. Conocer de las controversias en que el Estado fuere parte, salvo lo dispuesto por la Constitución General de la República;
-
-II. Conocer de los recursos de apelación, queja y cualesquiera otros señalados en las Leyes comunes;
-
-III. Conocer de los conflictos de jurisdicción que se susciten entre los Jueces;
-
-> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 1991)</small>
-
-IV. Nombrar y remover a los servidores públicos del Poder Judicial, con excepción de los Magistrados;
-
-V. Discutir, aprobar o modificar, en su caso, el Presupuesto de Egresos que para el ejercicio anual proponga el Presidente del Tribunal, el que será sometido a la aprobación del Congreso;
-
-VI. Acordar el aumento de Juzgados y la planta de Secretarios y empleados de la administración de justicia cuando las necesidades del servicio lo requieran y lo permitan las condiciones del erario;
-
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
-
-VII. Erigirse en órgano de sentencia en los juicios políticos;
-
-VIII. (DEROGADA, P.O. 23 DE OCTUBRE DE 1991)
-
-IX. Informar al Gobernador o al Congreso, para determinar los casos de indulto, rehabilitación y demás que las Leyes determinen, previos los trámites y con los requisitos que ellas establezcan;
-
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
-
-X. Conocer de las acusaciones o quejas que se presenten en contra del Presidente del Tribunal Superior y de más Magistrados, así como de los funcionarios y empleados de la Presidencia y del propio Tribunal, haciendo la substanciación correspondiente, de acuerdo con el procedimiento que señale esta Constitución y las leyes respectivas;
-
-XI. Resolver los conflictos que surjan entre los Ayuntamientos y la Legislatura; y
-
-XII. Las demás que le confieran esta Constitución y las Leyes del fuero común.
+Los magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal Administrativo, durarán en el ejercicio de su cargo seis años a partir de su nombramiento; podrán ser reelectos y si lo fueren sólo podrán ser privados de sus puestos en los términos que determina esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado. La duración de los magistrados del Tribunal Electoral en el ejercicio de su cargo, se determinará por lo dispuesto en la ley orgánica.
 
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
+Obtendrán su jubilación al totalizar 60 años, sumando su edad a la antigüedad en el servicio.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 1998)</small>
+
+###### Artículo 98.
+
+Los magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral, otorgarán la protesta de ley ante el Congreso del Estado y en los recesos de éste, ante la Comisión Permanente.
+
+Los jueces protestarán ante el Tribunal Superior de Justicia y los demás funcionarios y empleados de la administración de justicia, rendirán protesta ante autoridad de la cual dependan.
+
+En escrutinio secreto, los magistrados de cada Tribunal, nombrarán de entre ellos al que será Presidente, quien durará en su cargo un año, pudiendo ser reelecto. Estos funcionarios deberán rendir un informe sobre el estado que guarda la administración de justicia, en los términos establecidos en la ley orgánica.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 1998)</small>
+
+###### Artículo 99.
+
+A. Son facultades del Tribunal Superior de Justicia:
+
+I. Conocer de las controversias en que el Estado fuere parte, salvo lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos;
+
+II. Resolver las controversias que se susciten en materia civil, familiar y penal;
+
+III. Conocer de las controversias que resulten por la aplicación de leyes federales, en los casos que establezca la Constitución Política de los Estados Unidos Mexicanos;
+
+IV. Conocer de los recursos de apelación, queja y cualesquiera otros señalados en las leyes locales;
+
+V. Conocer de los conflictos de competencia que se susciten entre los jueces;
+
+VI. Nombrar y remover a los jueces de primera instancia, a los que con cualquier otra denominación se creen en el Estado y a sus demás servidores públicos, con excepción de los magistrados;
+
+VII. Discutir, aprobar y modificar en su caso, el Presupuesto de Egresos que para el ejercicio anual proponga el Presidente del Tribunal, el que será sometido a la aprobación del Congreso;
+
+VIII. Acordar el aumento de juzgados y la plantilla de secretarios y empleados de la administración de justicia, cuando las necesidades del servicio lo requieran;
+
+IX. Erigirse en órgano de sentencia en los juicios políticos;
+
+X. Informar al Gobernador o al Congreso, para determinar los casos de indulto, rehabilitación y demás que las leyes determinen, previos los trámites y con los requisitos que ellas establezcan;
+
+XI. Conocer de las acusaciones o quejas que se presenten en contra del Presidente del Tribunal Superior de Justicia y demás magistrados, así como de los funcionarios y empleados del Tribunal, haciendo la substanciación correspondiente, de acuerdo con el procedimiento que señale esta Constitución y las leyes respectivas;
+
+XII. Resolver los conflictos que surjan entre los municipios y el Congreso y
+
+XIII. Las demás que le confieran esta Constitución y las leyes que de ella emanen.
+
+B. Son facultades del Tribunal Fiscal Administrativo:
+
+I. Dirimir las controversias que se susciten en materia fiscal y administrativa entre la Administración Pública Estatal o Municipal y los particulares. En ningún caso podrá sustituirse a la autoridad administrativa;
+
+II. Conocer de los recursos que establezca la ley de la materia y
+
+III. Las demás que le confieran esta Constitución y las leyes que de ella emanen.
+
+C. Son facultades del Tribunal Electoral resolver en forma definitiva en los términos de esta Constitución y según lo disponga la ley sobre:
+
+I. Las impugnaciones que se presenten en las elecciones de Gobernador, diputados y ayuntamientos del Estado;
+
+II. Las impugnaciones de actos y resoluciones de la autoridad electoral estatal, distintas a las señaladas en las fracciones anteriores, que violen normas que no se ajusten al principio de legalidad;
+
+III. Las impugnaciones de actos y resoluciones que violen los derechos político-electorales de los ciudadanos de votar, ser votado y de afiliación libre y pacífica para tomar parte en los asuntos políticos del Estado, en los términos que señalen las leyes aplicables y
+
+IV. Las demás que le confieran esta Constitución y las leyes que de ella emanen.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 1998)</small>
+
 ###### Artículo 100.
 
-La Ley Orgánica del Poder Judicial regulará la forma de organización y funcionamiento del Tribunal Superior de Justicia, de los juzgados y demás Dependencias de aquel y determinará los requisitos indispensables para ser Juez y para ser servidor público en la Administración de Justicia. Los nombramientos de los jueces serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la Administración de Justicia o que lo merezca por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica. Los Jueces de Primera Instancia y los demás que con cualquiera otra denominación se creen en el Estado, serán nombrados por el Tribunal Superior de Justicia.
+La Ley Orgánica del Poder Judicial regulará la forma de su organización, funcionamiento y determinará los requisitos indispensables para ser juez y para ser servidor público en la Administración de Justicia.
+
+Ningún funcionario judicial podrá tener ocupación o empleo diverso, con excepción de los docentes, cuyo desempeño no perjudique las funciones o labores propias de su cargo.
+
+El Gobernador solicitará ante el Congreso del Estado, la destitución de cualesquiera de los magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal Administrativo y ante el primero, la de los jueces del orden común, por delitos, faltas y omisiones en lo que incurran previstas en esta Constitución y las leyes de la materia.
+
+Si el Congreso del Estado o el Tribunal Superior de Justicia, respectivamente, declara justificada la petición, el funcionario acusado quedará privado, desde luego, de su puesto, independientemente de cualquier responsabilidad legal en la que hubiere incurrido, procediéndose a hacer nueva designación para cubrir la vacante.
 
 > <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -1547,21 +1629,13 @@ El Gobernador cuidará de que el Congreso del Estado conozca de la fianza con qu
 
 ## TITULO VIII. DE LA JUSTICIA DELEGADA DEL TRIBUNAL FISCAL ADMINISTRATIVO
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
-
 ###### Artículo 113.
 
-Se establece el Tribunal Fiscal Administrativo dotado de plena autonomía para dictar sus fallos.
-
-Este Tribunal será competente para dirimir las controversias que se susciten entre la administración pública estatal o municipal y los particulares.
-
-Los ordenamientos legales relativos establecerán las normas para su organización y funcionamiento, el procedimiento y los recursos contra sus resoluciones.
-
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+(DEROGADO, P.O. 9 DE MAYO DE 1998)
 
 ###### Artículo 114.
 
-Para ser Magistrado del Tribunal Fiscal Administrativo, se exigirán los mismos requisitos que para los Magistrados del Tribunal Superior de Justicia señala esta Constitución. Siéndoles aplicable lo dispuesto en los Artículos 96, 97 y 98 en lo relativo.
+(DEROGADO, P.O. 9 DE MAYO DE 1998)
 
 > <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -1811,11 +1885,11 @@ La elección de los miembros de los Ayuntamientos será declarada valida o nula 
 
 Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta, o por nombramientos o designación de alguna Autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de Suplentes, pero los que tengan el carácter de suplentes, si podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMERO PARRAFO, P.O. 9 DE MAYO DE 1998)</small>
 
 ###### Artículo 137.
 
-En caso de falta absoluta del Ayuntamiento en el primer año, si el Congreso del Estado estuviere en período ordinario de sesiones, designará un Consejo Municipal interino y notificará lo actuado, al Consejo General del Instituto Estatal Electoral, requiriéndole convoque a elecciones extraordinarias para elegir al Ayuntamiento que deba terminar el período. Si el Congreso no estuviere en período ordinario, la Comisión Permanente nombrará un Consejo Municipal provisional y convocará al Congreso a sesión extraordinaria para los efectos anteriores.
+En caso de falta absoluta del Ayuntamiento en el primer año, si el Congreso del Estado, estuviere en período ordinario de sesiones, designará un Concejo Municipal interino y notificará lo actuado, al Consejo General del Instituto Estatal Electoral, para que éste convoque a elecciones extraordinarias para elegir al Ayuntamiento que deba terminar el período. Si el Congreso no estuviere en período ordinario, la Comisión Permanente nombrará un Consejo Municipal provisional y convocará al Congreso a sesión extraordinaria para los efectos anteriores.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -2133,15 +2207,17 @@ La Ley Orgánica Municipal determinará la organización y funcionamiento de las
 
 ###### Artículo 149.
 
-Para los efectos de la responsabilidad se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, a los Presidentes Municipales, a los funcionarios y empleados y en general a toda persona que desempeñe un empleo, cargo, comisión o concesión de cualquier naturaleza en la administración pública del estatal y municipal y a todos aquellos que manejen o apliquen recursos económicos estatales o municipales, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos de la responsabilidad se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, a los presidentes municipales, a los funcionarios y empleados, así como a los servidores del Instituto Estatal Electoral y en general a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal y municipal y a todos aquellos que manejen o apliquen recursos económicos estatales o municipales, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
 El Gobernador del Estado, será responsable por violaciones a la Constitución Política de los Estados Unidos Mexicanos y a las leyes federales que de ésta emanen, por traición a los intereses del Estado, por delitos graves del orden común, así como por el manejo indebido de fondos y recursos de esta Entidad Federativa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MAYO DE 1998)</small>
 
 ###### Artículo 150.
 
-Serán sujetos de juicio político: los Diputados al Congreso Local, los Presidentes Municipales, los Síndicos Procuradores, los Regidores, los Magistrados del Tribunal Superior de Justicia del Estado, del Tribunal Fiscal Administrativo y del Tribunal Electoral, los Secretarios del Despacho del Poder Ejecutivo, el Procurador General de Justicia, el Subprocurador de Asuntos Electorales, el Oficial Mayor y los Coordinadores que nombre el Ejecutivo, los Directores Generales o sus equivalentes de los organismos públicos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a estas, fideicomisos públicos de esta Entidad Federativa y Jueces de Primera Instancia, por las acciones u omisiones indebidas en que incurran en el tiempo de su encargo y serán responsables por la comisión de los delitos del orden común que cometan durante su gestión.
+Serán sujetos de juicio político: los diputados al Congreso Local, los presidentes municipales, los síndicos procuradores, los regidores, los magistrados del Tribunal Superior de Justicia del Estado, del Tribunal Fiscal Administrativo y del Tribunal Electoral, los secretarios del Despacho del Poder Ejecutivo, el Procurador General de Justicia, el Subprocurador de Asuntos Electorales, el Oficial Mayor y los coordinadores que nombre el Ejecutivo, el Consejero Presidente, los consejeros electorales y el Secretario Ejecutivo del Instituto Estatal Electoral, los directores generales o sus equivalentes de los organismos públicos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a estas, fideicomisos públicos de esta entidad federativa y jueces de primera instancia por las acciones u omisiones indebidas en que incurran en el tiempo de su encargo y serán responsables por la comisión de los delitos del orden común que se cometan durante su gestión.
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1995)</small>
 
@@ -2199,7 +2275,7 @@ La Ley de Responsabilidades de los servidores públicos del Estado, señalará l
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MAYO DE 1998)</small>
 
 ## TITULO XI. PREVENCIONES GENERALES
 
@@ -2654,3 +2730,9 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 14 DE NOVIEMBRE DE 1995.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE MAYO DE 1998.
+
+PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Hidalgo.
+
+SEGUNDO.- Hasta en tanto sea expedida la nueva Ley Orgánica del Poder Judicial, serán aplicables las leyes orgánicas y demás ordenamientos aplicables a cada Tribunal.
