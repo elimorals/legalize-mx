@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "1944-11-30"
+last_updated: "1945-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO CIVIL PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 1945.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -345,19 +345,31 @@ Los interesados en los actos a que se refiere el artículo anterior, deberán di
 
 Para la validez de los actos a que se refieren los dos artículos anteriores, es requisito esencial, que en las actas respectivas se inserte al principio de éstas la autorización concedida para levantarlas.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1945)</small>
+
 ###### Artículo 58.
 
-De los matrimonios, reconocimientos y adopciones que se celebren ante los Presidentes Municipales autorizados en la forma señalada por las disposiciones legales anteriores, se levantarán tres expedientes originales con el acta respectiva y documentos relativos. De estos expedientes uno quedará en poder del archivo de la municipalidad y los otros dos originales se remitirán inmediatamente a los Oficiales del Registro Civil que hayan concedido la autorización para que se les dé el destino que este Código expresa.
+De los matrimonios, reconocimientos y adopciones que se celebren ante los Presidentes Municipales autorizados en la forma señalada por las disposiciones legales anteriores, se levantará simultáneamente en cada uno de los tres cuadernos semestrales, el acta respectiva de conformidad con el modelo proporcionado por el Gobierno del Estado. Estos cuadernos, de acuerdo con las instrucciones que oportunamente recibirán los Presidentes Municipales del Oficial del Registro Civil de la Cabecera y que deberán ponerse en servicio precisamente los días primero de enero y primero de julio de cada año, serán formulados, cosidos y foliados por dichos Presidentes Municipales para que en blanco el citado Oficial del Registro Civil les dé la autorización correspondiente, la cual deberá aparecer en la primera hoja, después de la carátula, rubricando las demás. Al terminar el semestre, uno de estos cuadernos quedará en poder del archivo de la municipalidad y los otros dos se remitirán al Oficial del Registro Civil, el que previa revisión, enviará inmediatamente uno de ellos al Gobierno del Estado, reservándose el otro.
+
+La falta de cumplimiento a lo dispuesto al presente artículo, por parte del Oficial del Registro Civil, lo hará acreedor a la aplicación de multas de $10.00 cs. a $50.00 cs.; y a los Presidentes Municipales, de $5.00 cs. a $20.00 cs.
+
+Estas multas serán impuestas por el Ejecutivo del Estado.
 
 ###### Artículo 59.
 
 Las declaraciones de nacimiento se harán presentando al niño ante el Oficial del Registro Civil, en su oficina o en la casa donde aquél hubiere nacido.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1945)</small>
+
 ###### Artículo 60.
 
-En las poblaciones donde no haya Oficial del Registro Civil, el niño será presentado a la primera autoridad municipal; ésta hará la inscripción por triplicado, en cuadernos de papel blanco, que foliados y autorizados le remitirá al Oficial del Registro Civil cada día primero de mes, para ese objeto. El propio Oficial enviará los modelos respectivos.
+En las poblaciones donde no haya Oficial del Registro Civil, el niño será presentado a la primera autoridad municipal; ésta hará la inscripción simultáneamente en los cuadernos semestrales destinados a este fin, de acuerdo con el modelo que suministrará el Gobierno del Estado, debiendo llevarse en las Presidencias Municipales tres cuadernos y en las Agencias Municipales cuatro.
 
-Aquella primera autoridad municipal devolverá dos de los cuadernos originales a fin de cada mes conservando el tercero en su poder. El Oficial del Registro Civil podrá hacer que se subsanen los defectos que note en las inscripciones o archivar esos cuadernos si estuvieren en orden, remitiendo en su oportunidad uno de estos originales a la Secretaría del Despacho
+Los citados cuadernos serán formulados, cosidos y foliados por los Presidentes y Agentes Municipales, quienes los llevarán oportunamente para su autorización al Oficial del Registro Civil en la Cabecera, la cual deberá aparecer en la primera hoja, después de la carátula, rubricando las demás, a fin de que puedan ponerse en servicio los días primero de enero y primero de julio de cada año.
+
+La falta de cumplimiento al presente artículo, por parte del Oficial del Registro Civil, lo hará acreedor a la aplicación de multas de $10.00 cs. a $50.00 cs.; y a los Presidentes y Agentes Municipales de $5.00 cs a $20.00.
+
+Estas multas serán impuestas por el Ejecutivo del Estado.
 
 ###### Artículo 61.
 
@@ -723,9 +735,13 @@ VI. La hora de la muerte si se supiere; y todos los informes que se tengan en ca
 
 Los dueños o habitantes de la casa en que ocurra el fallecimiento; los directores o administradores de las prisiones, hospitales, colegios u otra cualquier casa de comunidad; los huéspedes de los mesones u hoteles y los caseros de las casas de vecindad, tienen obligación de dar aviso del fallecimiento al Oficial del Registro Civil, dentro de las veinticuatro horas siguientes a la muerte.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1945)</small>
+
 ###### Artículo 124.
 
-Si el fallecimiento ocurriere en el lugar o población en donde no haya oficinas del Registro Civil, la autoridad municipal extenderá la constancia respectiva por triplicado, de la que remitirá al Oficial del Registro Civil que corresponda dos tantos, reservándose uno para el archivo de la municipalidad.
+Si el fallecimiento ocurriere en el lugar o población en donde no haya Oficina del Registro Civil, la autoridad municipal levantará en los cuadernos semestrales las actas respectivas, de acuerdo con el modelo correspondiente. Dichos cuadernos serán formulados y autorizados en igual forma que los de nacimientos, aplicándose a las autoridades que contravengan esta disposición, las mismas sanciones que señalan los artículos 58, y 60 de este propio Código.
+
+Estos cuadernos se llevarán por los Presidentes Municipales por triplicado y en las Agencias Municipales por cuadruplicado.
 
 ###### Artículo 125.
 
@@ -1489,7 +1505,7 @@ Declarada la nulidad del matrimonio se procederá a la división de los bienes c
 
 ###### Artículo 274.
 
-Declarada la nulidad del matrimonio, se observarán respecto de las dotaciones (sic) antenupciales las reglas siguientes:
+Declarada la nulidad del matrimonio, se observarán respecto de las dotaciones(sic) antenupciales las reglas siguientes:
 
 I. Las hechas por un tercero a los cónyuges, podrán ser revocadas;
 
@@ -3979,7 +3995,7 @@ La constitución del patrimonio de la familia no puede hacerse en fraude de los 
 
 ###### Artículo 750.
 
-Constituido el patrimonio de la familia, ésta tiene obligacón (sic) de habitar la casa y de cultiver (sic) la parcela; si no lo hiciere, el Ministerio Público puede ocurrir a la autoridad competente para que haga la declaración a que se refiere el artículo que sigue.
+Constituido el patrimonio de la familia, ésta tiene obligacón(sic) de habitar la casa y de cultiver(sic) la parcela; si no lo hiciere, el Ministerio Público puede ocurrir a la autoridad competente para que haga la declaración a que se refiere el artículo que sigue.
 
 ###### Artículo 751.
 
@@ -5153,7 +5169,7 @@ El usufructuario de un monte disfruta de todos los productos que provengan de é
 
 Si el monte fuere talar o de maderas de construcción, podrá el usufructuario hacer en él las talas o cortes ordinarios que haría el dueño; acomodándose en el modo, porción o épocas a las leyes especiales o a las costumbres del lugar.
 
-Artícul (sic) 1000.- En los demás casos, el usufructuario no podrá cortar árboles por el pie, como no sea para reponer o reparar alguna de las cosas usufructuadas; y en este caso acreditará previamente al propietario la necesidad de la obra.
+Artícul(sic) 1000.- En los demás casos, el usufructuario no podrá cortar árboles por el pie, como no sea para reponer o reparar alguna de las cosas usufructuadas; y en este caso acreditará previamente al propietario la necesidad de la obra.
 
 ###### Artículo 1001.
 
@@ -5569,7 +5585,7 @@ La cantidad de agua que pueda hacerse pasar por un acueducto establecido en pred
 
 ###### Artículo 1091.
 
-Si el que disfruta del acueducto necesitare ampliarlo, deberá costear las obras necesarias y pagar el terreno que nuevamente ocupe y los daños que cause, conforme a lo dispuesto en los incisos (sic) IV y V del artículo 1088.
+Si el que disfruta del acueducto necesitare ampliarlo, deberá costear las obras necesarias y pagar el terreno que nuevamente ocupe y los daños que cause, conforme a lo dispuesto en los incisos(sic) IV y V del artículo 1088.
 
 ###### Artículo 1092.
 
@@ -7845,7 +7861,7 @@ Cuando fueren varios los albaceas nombrados el albaceazgo será ejercitado por c
 
 ###### Artículo 1575.
 
-Cuando los albaceas fueren mancomunados sólo valdrá lo que todos hagan de consuno (sic); lo que haga uno de ellos, legalmente autorizado por los demás; y lo que, en caso de disidencia, acuerde el mayor número. Si no hubiere mayoría, decidirá el juez.
+Cuando los albaceas fueren mancomunados sólo valdrá lo que todos hagan de consuno; (sic) lo que haga uno de ellos, legalmente autorizado por los demás; y lo que, en caso de disidencia, acuerde el mayor número. Si no hubiere mayoría, decidirá el juez.
 
 ###### Artículo 1576.
 
@@ -14355,7 +14371,7 @@ III. El valor de los bienes o derechos a que se refieren las fracciones anterior
 
 IV. Tratándose de hipotecas, la época en que podrá exigirse el pago del capital garantido (sic) y si causare réditos, la tasa o el monto de éstos y la fecha desde que deban pagarse;
 
-V. Los nombres, edades, domicilios y profesiones de las personas que por sí mismos o por medio de representantes hubieren celebrado el contrato o ejecutado el acto sujeto inscripción (sic). Las personas morales se designarán con el nombre oficial que lleven, y las sociedades, por su razón o denominación;
+V. Los nombres, edades, domicilios y profesiones de las personas que por sí mismos o por medio de representantes hubieren celebrado el contrato o ejecutado el acto sujeto inscripción. (sic) Las personas morales se designarán con el nombre oficial que lleven, y las sociedades, por su razón o denominación;
 
 VI. La naturaleza del acto o contrato;
 
@@ -14594,3 +14610,9 @@ SUFRAGIO EFECTIVO. NO REELECCION.
 Oaxaca de Juárez, a once de diciembre de mil novecientos cuarenta y tres.
 
 El Secretario General del Despacho, Lic. RAYMUNDO MANZANO TROVAMALA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 17 DE DICIEMBRE DE 1945.
+
+Unico.- El presente decreto entrará en vigor 15 días después de su publicación en el Periódico Oficial.
