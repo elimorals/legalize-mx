@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2001-03-20"
+last_updated: "2001-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2001.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -293,6 +293,14 @@ Los regidores son los miembros del Ayuntamiento encargados de gobernar y adminis
 
 El síndico es el integrante del Ayuntamiento encargado de vigilar los aspectos financieros del mismo, de procurar y defender los intereses del municipio y representarlo jurídicamente.
 
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+
+En la integración de todo Ayuntamiento deberá existir por lo menos un síndico para la mayoría y, en su caso, la primera minoría contará con un síndico de vigilancia en los términos que establezca este Código y la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+
+En caso de que se elija al síndico de vigilancia de la primera minoría en los términos de la ley electoral, éste realizará sólo funciones de vigilancia de los aspectos financieros del Ayuntamiento en los términos que dispone el artículo 106-A de este Código.
+
 ###### ARTÍCULO 36.
 
 Las comisiones son órganos compuestos por miembros del Ayuntamiento y tienen por objeto el estudio, análisis y dictamen sobre asuntos que se les encomienden o sobre un ramo administrativo especializado.
@@ -319,9 +327,11 @@ El Ayuntamiento residirá en la cabecera del Municipio y sólo por resolución d
 
 ### CAPÍTULO II. DE LA INTEGRACIÓN DEL AYUNTAMIENTO
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 41.
 
-Los ayuntamientos serán renovados en su totalidad cada tres años mediante sufragio universal, libre, secreto y directo, y con aplicación de los principios de mayoría y de representación que se establezcan de conformidad con la Constitución Política del Estado de Coahuila, el Código Estatal Electoral, y otros ordenamientos legales. Las excepciones a esta disposición son las que se establecen en la Constitución Política del Estado de Coahuila.
+Los Ayuntamientos serán renovados en su totalidad cada cuatro años mediante sufragio universal, libre, secreto y directo, y con aplicación de los principios de mayoría relativa y de representación proporcional, en los términos que establezca la ley electoral aplicable y demás ordenamientos legales.
 
 ###### ARTÍCULO 42.
 
@@ -343,9 +353,11 @@ V. Tener modo honesto de vivir.
 
 VI. Satisfacer los demás requisitos que establezca el Código Estatal Electoral.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 44.
 
-Los ayuntamientos serán electos con el procedimiento y calendario previstos en el Código Estatal Electoral.
+Los Ayuntamientos serán electos conforme al proceso electoral que organice el Instituto Electoral y de Participación Ciudadana de Coahuila, en los términos de las disposiciones aplicables.
 
 ###### ARTÍCULO 45.
 
@@ -413,7 +425,9 @@ A continuación, el nuevo Presidente tomará la protesta a los demás miembros d
 
 Cuando el presidente municipal electo no se presente a tomar posesión del cargo o en caso de falta absoluta del presidente municipal, que ocurra durante los primeros seis meses del período correspondiente, el Congreso del Estado, con la concurrencia de cuando menos las dos terceras partes del total de sus miembros, nombrará, en escrutinio secreto y por mayoría absoluta de votos, un presidente municipal interino.
 
-El órgano electoral correspondiente, dentro de los 90 días siguientes al de la designación del presidente interino, expedirá la convocatoria para la elección del presidente municipal que deba concluir el período, debiendo precisar en la convocatoria, la fecha en que habrá de celebrarse dicha elección.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+
+El Instituto Electoral y de Participación Ciudadana de Coahuila, dentro de los 90 días siguientes al de la designación del presidente interino, expedirá la convocatoria para la elección del presidente municipal que deba concluir el período, debiendo precisar en la convocatoria, la fecha en que habrá de celebrarse dicha elección.
 
 Cuando la falta absoluta del presidente municipal ocurriere después de los seis meses del período correspondiente, el Congreso del Estado, con la concurrencia de cuando menos las dos terceras partes del total de sus miembros, nombrará, en escrutinio secreto y por mayoría absoluta de votos, a un presidente municipal sustituto, quien se encargará de concluir el período.
 
@@ -637,9 +651,11 @@ Los integrantes del Consejo Municipal designado, rendirán su protesta, en el lu
 
 ### CAPÍTULO V. DEL FUNCIONAMIENTO DEL AYUNTAMIENTO
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 84.
 
-El período que estará en funciones un ayuntamiento, será de hasta tres años.
+El período que estará en funciones un Ayuntamiento, será hasta de cuatro años.
 
 ###### ARTÍCULO 85.
 
@@ -1102,6 +1118,30 @@ XII. Desempeñar las comisiones que le encomiende el Ayuntamiento.
 XIII. Las demás que determinen las leyes y reglamentos aplicables.
 
 Cuando haya dos síndicos, el Ayuntamiento acordará la distribución equitativa de las funciones que ejercerán cada uno de ellos.
+
+(ADICIONADO, P.O.16 DE NOVIEMBRE DE 2001) (F. DE E., P.O. 8 DE NOVIEMBRE DE 2002)
+
+Cuando un Ayuntamiento tenga sólo el síndico de la mayoría, éste ejercerá plenamente las facultades, competencias y obligaciones previstas en este Código para los síndicos; pero cuando se elija al síndico de la minoría en los términos de la ley electoral, el síndico de la mayoría no podrá ejercer las funciones de vigilancia y, por ende, el síndico de la minoría ejercerá en forma autónoma las facultades, competencias y obligaciones conforme al artículo 106-A de este Código.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+
+###### ARTÍCULO 106-A.
+
+Son facultades, competencias y obligaciones de los síndicos de vigilancia de la primera minoría, sin detrimento de aquellas que correspondan al síndico de la mayoría:
+
+I. Coadyuvar en la vigilancia de la correcta aplicación del presupuesto de egresos y, en su caso, asistir a las visitas de inspección que se hagan a la Tesorería del Municipio.
+
+II. Vigilar que la cuenta pública municipal se integre en la forma y términos previstos en las disposiciones aplicables y se remita en tiempo al Congreso del Estado.
+
+III. Participar, en los términos que correspondan, en la formulación del inventario de bienes muebles e inmuebles del municipio, los que deberán inscribirse en un libro especial con expresión y destino de los mismos, vigilando que dicho inventario esté siempre actualizado.
+
+IV. Solicitar y obtener del tesorero municipal, la información relativa a la hacienda pública municipal, al ejercicio del presupuesto de egresos, al patrimonio municipal y demás documentación de la gestión financiera municipal, necesaria para el cumplimiento de sus funciones.
+
+V. Asistir puntualmente a las sesiones del Ayuntamiento con voz y voto.
+
+VI. Desempeñar las comisiones que le encomiende el Ayuntamiento.
+
+VII. Las demás que determinen las leyes y reglamentos aplicables en materia de vigilancia financiera municipal.
 
 ### CAPÍTULO IX. DE LAS COMISIONES
 
@@ -3862,3 +3902,17 @@ Dentro del plazo de un año contado a partir de la entrada en vigor de este decr
 ###### ARTÍCULO SEXTO.
 
 Se derogan todas las disposiciones en contrario.
+
+P.O. 16 DE NOVIEMBRE DE 2001.
+
+###### ARTÍCULO PRIMERO.
+
+Estas reformas y adiciones a diversas disposiciones del Código Municipal para el Estado de Coahuila de Zaragoza y a la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, entrarán en vigor el día de la publicación del presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El período constitucional de gobierno de los Ayuntamientos del estado de cuatro años, será aplicable sólo a partir de la renovación de los Ayuntamientos del año 2005 y, por tanto, los presidentes municipales, regidores y síndicos de los Ayuntamientos elegidos en el año 2005 durarán en su encargo cuatro años. Esta norma no podrá aplicarse en forma retroactiva.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales o reglamentarias que se opongan al presente Decreto.
