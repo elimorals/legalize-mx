@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-pensiones-seguros-de-vida-y-otros-beneficios-a-los-3720"
 country: "mx"
 rank: "ley"
 publication_date: "1960-05-20"
-last_updated: "1978-05-10"
+last_updated: "1983-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PENSIONES, SEGUROS DE VIDA Y OTROS BENEFICIOS A LOS VETERANOS DE LA REVOLUCION, DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 1983.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 20 de mayo de 1960.
 
@@ -73,31 +73,39 @@ Para que exista quórum en las sesiones de la Comisión, se requiere, por lo men
 
 La Comisión Consultiva del Estado, se encargará:
 
-a).- Del estudio de la documentación que para su reconocimiento presenten los interesados;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1983)</small>
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1975)</small>
+I.- Del estudio de la documentación que para su reconocimiento presenten los interesados;
 
-b).- De verificar por medio de trabajadoras sociales dependientes del Gobierno del Estado, a través de estudios socio económicos, las condiciones del interesado, con el propósito fundamental de obtener los datos idóneos para cuantificar las pensiones y demás prestaciones que esta Ley confiere;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1975)</small>
 
-c).- Gestionar la expedición de pólizas y pago de las mismas, en caso de defunción de los Veteranos, y
+II.- Del estudio de las pensiones y demás prestaciones que procedan;
 
-d).- De las otras funciones que a la Comisión le sean propias, de conformidad con esta Ley.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1975)</small>
+
+III.- De la gestión de pólizas de seguros y pago de las mismas, en caso de defunción de los Veteranos y sus cónyuges y;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1983)</small>
+
+IV.- De las otras funciones que a la Comisión le sean propias, de conformidad con esta Ley.
 
 ###### ARTICULO 7o.
 
 Los beneficios que el Gobierno del Estado otorga a los Veteranos en reconocimiento a los servicios prestados a la Revolución Mexicana, son los siguientes:
 
-I.- Pensión vitalicia de $300.00 mensuales como mínimo, para que puedan subvenir decorosamente a sus necesidades previo dictamen de la Comisión Consultiva.
+(REFORMADA, P.O. 10 DE JUNIO DE 1983).
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 1978)</small>
+I.- Pensión Vitalicia hasta de $15,000.00 mensuales para el Veterano, y en caso de su fallecimiento, para su cónyuge, previo dictamen de la Comisión Consultiva.
 
-II.- Seguro de Vida por la cantidad de $15,000.00
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1983)</small>
+
+II.- Seguro de vida para el Veterano y su cónyuge por la cantidad de $30,000.00 por cada uno.
 
 III.- Servicio médico-quirúrgico gratuito en las Instituciones oficiales, incluyendo hospitalización y medicamentos, para los Veteranos.
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 1978)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1983)</small>
 
-IV.- Además de la póliza de que habla el Artículo 6o. Inciso c), en relación con el Artículo 7o., Fracción II, el Estado proporcionará como paga de marcha al ocurrir la defunción, hasta la cantidad de $15,000.00 para gastos de funerales, como máximo.
+IV.- Además de la Póliza a que se refiere el Artículo 6o. Fracción III, en relación con el Artículo 7o. Fracción II, el Estado proporcionará como paga de marcha al ocurrir la defunción del Veterano o de su cónyuge, la cantidad de $30,000.00 por cada uno, para gastos de funerales.
 
 V.- El Estado honrará en vida a los Veteranos de la Revolución, concediéndoles Diplomas y Condecoraciones. En su sepelio se le harán a cada Veterano, los honores que acuerde la Comisión.
 
@@ -204,5 +212,9 @@ P.O. 10 DE NOVIEMBRE DE 1975.
 UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 P.O. 10 DE MAYO DE 1978.
+
+UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 10 DE JUNIO DE 1983.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
