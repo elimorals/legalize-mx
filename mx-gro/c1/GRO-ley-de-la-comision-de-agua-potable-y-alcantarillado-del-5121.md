@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-la-comision-de-agua-potable-y-alcantarillado-del-5121"
 country: "mx"
 rank: "ley"
 publication_date: "1994-04-29"
-last_updated: "1995-12-29"
+last_updated: "2003-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 LEY DE LA COMISION DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE ACAPULCO, NUMERO 51
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1995.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR LA FRACCION II DEL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AGUAS PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NUMERO 574, PUBLICADA EN EL PERIODICO OFICIAL EL 3 DE ENERO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 29 de abril de 1994.
 
@@ -1012,3 +1014,37 @@ P.O. 29 DE DICIEMBRE DE 1995.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE ENERO DE 2003.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Se abrogan los ordenamientos jurídicos siguientes:
+
+I.- La Ley del Sistema Estatal de Agua Potable, Alcantarillado y Saneamiento del Estado de Guerrero Número 53, publicada el 26 de abril de 1994 en el Periódico Oficial del Gobierno del Estado;
+
+II.- La Ley de la Comisión de Agua Potable y Alcantarillado del Municipio de Acapulco Número 51, publicada el 29 de abril de 1994 en el Periódico Oficial del Gobierno del Estado;
+
+III.- El Decreto que crea el Organismo Público Descentralizado del Ayuntamiento de Chilpancingo de los Bravo, "Comisión de Agua Potable y Alcantarillado de Chilpancingo", publicado el 28 de mayo de 1991 en el Periódico Oficial del Gobierno del Estado;
+
+IV.- El Decreto que crea el Organismo Público Descentralizado del Ayuntamiento de Iguala de la Independencia, "Comisión de Agua Potable y Alcantarillado del Municipio de Iguala de la Independencia", publicado el 28 de mayo de 1991 en el Periódico Oficial del Gobierno del Estado;
+
+V.- El Decreto que crea el Organismo Público Descentralizado del Ayuntamiento de José Azueta, "Comisión de Agua Potable y Alcantarillado de Zihuatanejo, Guerrero", publicado el 28 de mayo de 1991 en el Periódico Oficial del Gobierno del Estado;
+
+VI.- El Decreto que crea el Organismo Público Descentralizado del Ayuntamiento de Taxco de Alarcón, Guerrero, "Comisión de Agua Potable y Alcantarillado de Taxco", publicado el 28 de mayo de 1991 en el Periódico Oficial del Gobierno del Estado;
+
+VII.- El Decreto que crea el Organismo Público Descentralizado del Ayuntamiento de Buenavista de Cuéllar, "Comisión de Agua Potable y Alcantarillado del Municipio de Buenavista de Cuéllar", publicado el 9 de agosto de 1991 en el Periódico Oficial del Gobierno del Estado;
+
+VIII.- El Decreto que crea el Organismo Público Descentralizado del Ayuntamiento de Pungarabato, "Comisión de Agua Potable y Alcantarillado del Municipio de Pungarabato", publicado el 9 de agosto de 1991 en el Periódico Oficial del Gobierno del Estado;
+
+IX.- El Decreto que crea el Organismo Público Descentralizado del Ayuntamiento de Arcelia, "Comisión de Agua Potable y Alcantarillado del Municipio de Arcelia", publicado el 9 de agosto de 1991 en el Periódico Oficial del Gobierno del Estado; y
+
+X.- Las demás disposiciones que se opongan a esta Ley.
+
+TERCERO.- La Comisión de Agua Potable, Alcantarillado y Saneamiento del Estado de Guerrero, a partir de la entrada en vigor de la presente Ley, conservará su denominación y se sujetará a las disposiciones que se prevén en la misma.
+
+CUARTO.- A partir de la entrada en vigor de la presente Ley, las Comisiones creadas conforme a los Decretos mencionados en las fracciones II a IX del artículo Segundo Transitorio, se transformarán en Organismos Operadores y de considerarlo conveniente podrán conservar su actual denominación, sujetándose a las disposiciones, que para los mismos se prevén en esta Ley.
+
+QUINTO.- Las Juntas Locales de Agua Potable, Alcantarillado y Saneamiento que opera la Comisión de Agua Potable, Alcantarillado y Saneamiento del Estado de Guerrero, a partir de la entrada en vigor de la presente Ley, pasarán a formar parte de la Administración Pública Municipal incluyendo al personal a su servicio tutelado por la Ley Número 51 del Estatuto de los Trabajadores al Servicio del Estado, de los Municipios y de los Organismos Públicos Coordinados y Descentralizados del Estado de Guerrero de fecha 21 de abril de 1976, sin perjuicio de sus derechos adquiridos, los recursos financieros, el mobiliario, aparatos, archivos y, en general, el equipo utilizado para la atención de los asuntos que tuvieron encomendados, con la intervención que corresponda a la Contraloría General del Estado, sujetándose a las disposiciones previstas en esta Ley.
+
+SEXTO.- El Reglamento de la presente Ley, se expedirá en un plazo no mayor a seis meses, contados a partir de la publicación de esta Ley en el Periódico Oficial del Gobierno del Estado.
