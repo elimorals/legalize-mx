@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1991-12-30"
+last_updated: "1992-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE MAYO DE 1992.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976
 
@@ -4257,9 +4257,9 @@ por cada hoja 100,000.00
 
 a escala convencional 75,000.00
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE MAYO DE 1992)</small>
 
-II.- Servicios prestados por la secretaría de infraestructura urbana y ecología en relación a desarrollos industriales, turísticos y campestres.
+II.- Servicios prestados por la Secretaría de Infraestructura Urbana y Ecología.
 
 > <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
@@ -4366,6 +4366,30 @@ una cuota equivalente a $500,000.00 por los
 primeros 200 lotes y $20,000.00 por cada siete
 
 lotes adicionales.
+
+> <small>(ADICIONADO, B.O. 7 DE MAYO DE 1992)</small>
+
+8.- Por la expedición de autorización para el
+
+establecimiento y operación de centros de
+
+verificación vehicular obligatoria, respecto de
+
+vehículos destinados al servicio público de
+
+transporte concesionado por el Estado. $2´000,000.00
+
+> <small>(ADICIONADO, B.O. 7 DE MAYO DE 1992)</small>
+
+9.- Por la revalidación anual de la autorización
+
+para el establecimiento y operación de centros
+
+de verificación vehicular obligatoria, respecto
+
+de vehículos destinados al servicio público
+
+de transporte concesionado por el Estado. $2´000,000.00
 
 > <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -4656,3 +4680,9 @@ LEY No. 84, QUE ADICIONA UNA SECCION TERCERA CON LOS ARTICULOS 212 A, 212 B, 212
 ###### ARTICULO UNICO.
 
 La presente Ley entrara en vigor en todo el Estado el día 1° de enero de 1992, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 7 DE MAYO DE 1992.
+
+###### ARTICULO UNICO.
+
+Esta Ley entrará en vigor en todo el Estado a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
