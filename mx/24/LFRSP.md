@@ -4,7 +4,7 @@ identifier: "LFRSP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1982-12-31"
-last_updated: "1997-12-04"
+last_updated: "2000-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "LFRSP"
 
 LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE DICIEMBRE DE 1997.
-
-(REPUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE ENERO DE 1998).
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2000.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 31 de diciembre de 1982.
 
@@ -90,7 +88,9 @@ V.- (DEROGADA POR ARTICULO OCTAVO TRANSITORIO DEL DECRETO QUE CREA LA LEY ORGANI
 
 VI. El Consejo de la Judicatura del Distrito Federal;
 
-VII.- El Tribunal Fiscal de la Federación;
+> <small>(REFORMADA POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+VII.- El Tribunal Federal de Justicia Fiscal y Administrativa;
 
 VIII.- Los Tribunales de Trabajo, en los términos de la legislación respectiva;
 
@@ -682,11 +682,11 @@ Las resoluciones y acuerdos de la Secretaría y de las dependencias durante el p
 
 La Secretaría expedirá constancias que acrediten la no existencia de registro de inhabilitación, que serán exhibidas, para los efectos pertinentes, por las personas que sean requeridas para desempeñar un empleo, cargo o comisión en el servicio público.
 
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1992)</small>
+> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 70.
 
-Los servidores públicos sancionados podrán impugnar ante el Tribunal Fiscal de la Federación las resoluciones administrativas por las que se les impongan las sanciones a que se refiere este Capítulo. Las resoluciones anulatorias firmes dictadas por ese Tribunal, tendrán el efecto de que la dependencia o entidad en la que el servidor público preste o haya prestado sus servicios, lo restituya en el goce de los derechos de que hubiese sido privado por la ejecución de las sanciones anuladas, sin perjuicio de lo que establecen otras leyes.
+Los servidores públicos sancionados podrán impugnar ante el Tribunal Federal de Justicia Fiscal y Administrativa las resoluciones administrativas por las que se les impongan las sanciones a que se refiere este Capítulo. Las resoluciones anulatorias firmes dictadas por ese Tribunal, tendrán el efecto de que la dependencia o entidad en la que el servidor público preste o haya prestado sus servicios, lo restituya en el goce de los derechos de que hubiese sido privado por la ejecución de las sanciones anuladas, sin perjuicio de lo que establecen otras leyes.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE JULIO DE 1992)</small>
 
@@ -722,17 +722,19 @@ b) Que la ejecución de la resolución recurrida produzca daños o perjuicios de
 
 c) Que la suspensión no traiga como consecuencia la consumación o continuación de actos u omisiones que impliquen perjuicios al interés social o al servicio público.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE JULIO DE 1992)</small>
+> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 73.
 
-El servidor público afectado por las resoluciones administrativas que se dicten conforme a esta Ley, podrá optar entre interponer el recurso de revocación o impugnarlas directamente ante el Tribunal Fiscal de la Federación
+El servidor público afectado por las resoluciones administrativas que se dicten conforme a esta Ley, podrá optar entre interponer el recurso de revocación o impugnarlas directamente ante el Tribunal Federal de Justicia Fiscal y Administrativa.
 
-La resolución que se dicte en el recurso de revocación será también impugnable ante el Tribunal Fiscal de la Federación.
+La resolución que se dicte en el recurso de revocación será también impugnable ante el Tribunal Federal de Justicia Fiscal y Administrativa.
+
+> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 74.
 
-Las resoluciones absolutorias que dicte el Tribunal Fiscal de la Federación podrán ser impugnadas por la Secretaría o por el superior jerárquico.
+Las resoluciones absolutorias que dicte el Tribunal Federal de Justicia Fiscal y Administrativa podrán ser impugnadas por la Secretaría o por el superior jerárquico.
 
 ###### ARTICULO 75.
 
@@ -844,9 +846,9 @@ VI.- En el Poder Judicial Federal: Ministros de la Suprema Corte de Justicia de 
 
 VII.- En el Tribunal de lo Contencioso Administrativo del Distrito Federal, Magistrados y Secretarios o sus equivalentes;
 
-(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
+> <small>(REFORMADA POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-VIII.- En el Tribunal Fiscal de la Federación, en los tribunales de trabajo y en los demás órganos jurisdiccionales que determinen las leyes: Magistrados, miembros de junta y Secretarios o sus equivalentes; y
+VIII.- En el Tribunal Federal de Justicia Fiscal y Administrativa, en los tribunales de trabajo y en los demás órganos jurisdiccionales que determinen las leyes: Magistrados, miembros de junta y Secretarios o sus equivalentes; y
 
 IX.- En la Secretaría de la Contraloría General: Todos los servidores públicos de confianza.
 
@@ -932,7 +934,9 @@ La Secretaría de Contraloría y Desarrollo Administrativo hará al Ministerio P
 
 ## TITULO QUINTO. De las disposiciones aplicables a los servidores públicos del órgano ejecutivo del Distrito Federal
 
-(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE DICIEMBRE DE 1997)</small>
+
+(REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
 ### CAPITULO UNICO. (ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
@@ -1059,3 +1063,9 @@ PRIMERO.- La reforma a la fracción II del artículo 3o. y las que se refieren a
 SEGUNDO.- Las demás reformas entrarán en vigor el día 5 de diciembre de 1997.
 
 TERCERO.- En tanto la Asamblea Legislativa del Distrito Federal regula las responsabilidades de los servidores públicos de los órganos encargados de la función judicial del fuero común en el Distrito Federal, seguirán aplicándose las disposiciones de esta Ley vigentes a la fecha del presente Decreto.
+
+D.O.F. 31 DE DICIEMBRE DE 2000.
+
+SE TRANSCRIBEN UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+
+Primero. El presente Decreto entrará en vigor el 1o. de enero de 2001.
