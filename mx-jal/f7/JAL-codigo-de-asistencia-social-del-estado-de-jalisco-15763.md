@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "2004-02-10"
+last_updated: "2004-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2004.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
 
@@ -283,7 +283,7 @@ VI. Promoverán y gestionarán ante los municipios y demás entes públicos, de 
 
 ###### Artículo 17.
 
-El Sistema para el Desarrollo Integral de la Familia del Estado de Jalisco, es un organismo público descentralizado con personalidad jurídica y patrimonio propios, encargado de la asistencia social pública y demás funciones que le asigna este Código y las demás disposiciones legales aplicables.
+El Sistema para el Desarrollo Integral de la Familia del Estado de Jalisco, es un organismo público descentralizado con personalidad jurídica y patrimonio propios, encargado de la asistencia social pública y las demás funciones que le asigna este Código y las disposiciones legales aplicables.
 
 ###### Artículo 18.
 
@@ -2679,7 +2679,13 @@ IV. Propiciar en la sociedad en general, una cultura de conocimiento, reconocimi
 
 V. Impulsar las políticas de salud para los adultos mayores; y
 
-VI. Los demás que se establezcan en el presente Código.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+VI. Propiciar la igualdad de oportunidades frente al resto de la sociedad; y
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+VII. Los demás que se establezcan en el presente Código.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -2689,7 +2695,7 @@ Para los efectos de la presente ley, se consideran adultos mayores a las persona
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO TERCERO. DE LA PARTICIPACION DE LA FAMILIA
+## TITULO SEGUNDO. DE LOS DERECHOS Y DEBERES DE LOS ADULTOS MAYORES
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -2753,7 +2759,9 @@ XXII. Las demás que establezcan los diversos ordenamientos jurídicos aplicable
 
 En la medida en que su salud y circunstancias personales lo permitan, los adultos mayores procurarán:
 
-I. Permanecer activos y productivos;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+I. Permanecer libremente activos y productivos dentro de su ámbito personal y laboral;
 
 II. Aprender y aplicar principios de salud física y mental a su propia vida;
 
@@ -2765,7 +2773,7 @@ V. Los demás que establezcan los ordenamientos jurídicos aplicables.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO QUINTO. DE LA ASISTENCIA SOCIAL
+## TITULO TERCERO. DE LA PARTICIPACION DE LA FAMILIA
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -2803,7 +2811,7 @@ Corresponde a la familia procurar que sus miembros adopten pautas de conducta y 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO SEPTIMO. RESPONSABILIDADES Y SANCIONES
+## TITULO CUARTO. DE LA PARTICIPACION DE LA SOCIEDAD
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -2811,11 +2819,11 @@ Corresponde a la familia procurar que sus miembros adopten pautas de conducta y 
 
 Cualquier miembro de la sociedad tiene el deber de auxiliar y apoyar a los adultos mayores en casos de necesidad o emergencia, tenga o no parentesco con ellos.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 237.
 
-Corresponde a la sociedad formar grupos de apoyo y asistencia social que, en coordinación con las autoridades o de manera independiente, colaboren en el mejoramiento de las condiciones de vida de la población de adultos mayores.
+Corresponde a la sociedad formar grupos de apoyo y asistencia social que, en coordinación con las autoridades o de manera independiente, colaboren en el mejoramiento de las condiciones de vida de la población de adultos mayores y particularmente promuevan la igualdad en el acceso al empleo, eliminando la discriminación.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -2843,7 +2851,7 @@ Los establecimientos que presten servicio a los adultos mayores deberán habilit
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO SEGUNDO. DE LOS DERECHOS Y DEBERES DE LOS ADULTOS MAYORES
+## TITULO QUINTO. DE LA ASISTENCIA SOCIAL
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -2855,7 +2863,9 @@ I. Integración de clubes de la tercera edad;
 
 II. Bolsa de Trabajo;
 
-III. Asistencia legal;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+III. Asistencia y Representación legal;
 
 IV. Albergues permanentes y provisionales;
 
@@ -2905,13 +2915,13 @@ Las asociaciones civiles, fundaciones o patronatos de asistencia privada podrán
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO CUARTO. DE LA PARTICIPACION DE LA SOCIEDAD
+## TITULO SEXTO. DE LAS AUTORIDADES COMPETENTES
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 247.
 
-En materia de atención a los adultos mayores, el órgano rector del Estado será el Sistema para el Desarrollo Integral de la Familia del Estado de Jalisco, quien deberá coordinarse con las diversas instituciones de los niveles federal, estatal y municipal que operen programas cuya línea de acción sea la asistencia de los adultos mayores.
+En materia de atención a los adultos mayores, el órgano rector del Estado será el Organismo Estatal, quien deberá coordinarse con las diversas instituciones de los niveles federal, estatal y municipal que operen programas cuya línea de acción sea la asistencia y defensa de los derechos de los adultos mayores, conforme lo permita el presupuesto.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -2949,6 +2959,8 @@ X. Impulsar la creación de estancias diurnas, casas de retiro y demás establec
 
 XI. Fomentar y asesorar la construcción de espacios libres de barreras arquitectónicas y con facilidad de acceso para adultos mayores;
 
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
 XII. Fomentar la creación de oportunidades de empleo para adultos mayores, a través de bolsas de trabajo, impulso a proyectos productivos y convenios con el sector empresarial de la entidad;
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2000)</small>
@@ -2967,7 +2979,9 @@ XVII. Realizar acciones de prevención que induzcan a la sociedad a conocer y to
 
 XVIII. Promover, a través de convenios, el otorgamiento de beneficios, prestaciones, descuentos, condonaciones y exenciones en el pago de tarifas por bienes y servicios públicos y privados;
 
-XIX. Otorgar asesoría jurídica a los adultos mayores que lo soliciten, con el objeto de promover y defender sus derechos;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+XIX. Otorgar asesoría y representación jurídica a los adultos mayores que lo soliciten, con el objeto de promover y defender sus derechos;
 
 XX. Establecer una base de información sobre las condiciones socio-económicas y demográficas de la población en edad avanzada, que contribuya al mejor diseño y planeación de los programas de atención a los adultos mayores;
 
@@ -2999,11 +3013,11 @@ Corresponde a la Secretaría de Salud expedir la cartilla de salud para los adul
 
 Es responsabilidad de la Dirección del Trabajo y Previsión Social ofrecer capacitación para el trabajo y adiestramiento adecuado a los adultos mayores que así lo soliciten y no cuenten con recursos económicos.
 
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO SEXTO. DE LAS AUTORIDADES COMPETENTES
+## TITULO SEPTIMO. RESPONSABILIDADES Y SANCIONES
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 250.
 
@@ -3039,7 +3053,11 @@ La falta de decoro o respeto en el trato con los adultos mayores, por parte de i
 
 El cuidado inadecuado, abuso o negligencia que afecte a los Adultos Mayores y la violación a sus derechos por parte de sus familiares, ciudadanos en general o instituciones lucrativas o no, públicas o privadas, se sancionará conforme a la ley respectiva.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+Artículo 255 bis.- Queda prohibida toda discriminación que atente contra la dignidad y los derechos de los adultos mayores.
+
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 # LIBRO OCTAVO. DE LA DONACION DE ALIMENTOS
 
@@ -3366,3 +3384,7 @@ DECRETO NUMERO 20402.
 P.O. 10 DE FEBRERO DE 2004.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 2 DE OCTUBRE DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
