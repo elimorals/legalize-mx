@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "1971-05-29"
+last_updated: "1971-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO CIVIL PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE MAYO DE 1971.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE JULIO DE 1971.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -451,9 +451,11 @@ ARTICULO 86
 
 No pueden contraer matrimonio el hombre antes de cumplir dieciséis años y la mujer antes de cumplir catorce. El Gobierno del Estado puede conceder dispensa de edad en casos excepcionales y por causas graves y justificadas.
 
+> <small>(REFORMADO, G.O. 10 DE JULIO DE 1971)</small>
+
 ARTICULO 87
 
-El hijo o la hija que no hayan cumplido veintiún años, no pueden contraer matrimonio sin consentimiento de su padre o de su madre, si vivieren ambos, o del que sobreviva. Este derecho lo tiene la madre aunque haya contraído segundas nupcias, si el hijo vive con ella. A falta o por imposibilidad de los padres, se necesita el consentimiento cualquiera de los abuelos paternos, si vivieren ambos, o del que sobreviva. A falta o por imposibilidad de los abuelos paternos, se requiere el consentimiento de cualquiera de los abuelos maternos, o del que sobreviva.
+El hijo o la hija que no hayan cumplido 18 años, no pueden contraer matrimonio, sin consentimiento de su padre o de su madre, si vivieran ambos o del que sobreviva. Este derecho lo tiene la madre aunque haya contraído segundas nupcias, si el hijo vive con ella. A falta o por imposibilidad de los padres, se necesita el consentimiento de cualquiera de los abuelos paternos, si vivieran ambos o del que sobreviva. A falta o por imposibilidad de los abuelos paternos, se requiere el consentimiento de cualquiera de los abuelos maternos, o del que sobreviva.
 
 ARTICULO 88
 
@@ -593,13 +595,15 @@ ARTICULO 110
 
 La acción de nulidad que nace de error, sólo puede deducirse por el cónyuge engañado; pero si éste no denuncia el error inmediatamente que lo advierte, se tiene por ratificado el consentimiento y queda subsistente el matrimonio, a no ser que exista algún otro impedimento que lo anule.
 
+> <small>(REFORMADO, G.O. 10 DE JULIO DE 1971)</small>
+
 ARTICULO 111
 
-La menor edad de dieciséis años en el hombre y de catorce en la mujer dejará de ser causa de nulidad:
+La menor edad de dieciséis años en el hombre y de catorce en la mujer, dejará de ser causa de nulidad:
 
 I.- Cuando haya habido hijos;
 
-II.- Cuando, aunque no los haya habido, el menor hubiere llegado a los veintiún años, y ni él ni el otro cónyuge hubieren intentado la nulidad.
+II.- Cuando aunque no los haya habido, el menor hubiere llegado a los dieciocho años, y ni él ni el otro cónyuge hubieren intentado la nulidad.
 
 ARTICULO 112
 
@@ -1473,13 +1477,15 @@ ARTICULO 278
 
 La acción que compete al hijo para reclamar su estado, es imprescriptible para él y sus descendientes.
 
+> <small>(REFORMADO, G.O. 10 DE JULIO DE 1971)</small>
+
 ARTICULO 279
 
 Los demás herederos del hijo podrán intentar la acción de que trata el artículo anterior:
 
-I.- Si el hijo ha muerto antes de cumplir veinticinco años;
+I.- Si el hijo ha muerto antes de cumplir veintidós años;
 
-II.- Si el hijo cayó en demencia antes de cumplir los veinticinco años y murió después en el mismo estado.
+II.- Si el hijo cayó en demencia antes de cumplir los veintidós años, y murió después en el mismo estado.
 
 ARTICULO 280
 
@@ -2999,11 +3005,13 @@ ARTICULO 571
 
 El matrimonio del menor produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
 
+> <small>(REFORMADO, G.O. 10 DE JULIO DE 1971)</small>
+
 ARTICULO 572
 
-Los mayores de dieciocho años que estén sujetos a patria potestad o a tutela, tienen derecho a que se les emancipe, si demuestran su buena conducta y su aptitud para el manejo de sus intereses.
+Los mayores de dieciséis años que estén sujetos a la patria potestad o a la tutela, tienen derecho a que se les emancipe si demuestran su buena conducta y su aptitud para el manejo de sus intereses.
 
-Los padres o tutores pueden emancipar a sus hijos y pupilos que se encuentren en las condiciones mencionadas en el párrafo anterior, siempre que éstos consientan en su emancipación.
+Los padres o tutores pueden emancipar a sus hijos o pupilos que se encuentren en las condiciones mencionadas en el párrafo anterior, siempre que éstos consientan en su emancipación.
 
 ARTICULO 573
 
@@ -3023,15 +3031,19 @@ ARTICULO 575
 
 Fuera del caso a que se refiere el artículo 571, la emancipación siempre será aprobada por el juez y la resolución correspondiente se remitirá al Oficial o Encargado del Registro Civil para que levante el acta respectiva.
 
+> <small>(REFORMADO, G.O. 10 DE JULIO DE 1971)</small>
+
 ARTICULO 576
 
-Sólo la Legislatura puede conceder habilitación de edad a los mayores de dieciocho años que lo soliciten y que acrediten tener la idoneidad suficiente para administrar sus bienes. En el decreto de habilitación se expresará, con la debida claridad, si aquélla se limita a la simple administración de los bienes, a la aptitud para comparecer en juicio o a los actos de enajenación. El Código de Procedimientos determinará la forma en que deben hacerse constar la aptitud e idoneidad del solicitante, así como los términos en que deba otorgarse la aprobación judicial de la emancipación hecha por los padres o tutores, conforme al artículo anterior.
+Sólo la Legislatura puede conceder habilitación de edad a los mayores de dieciséis años que la soliciten y que acrediten tener la idoneidad suficiente para administrar sus bienes. En el decreto de habilitación se expresará, con la debida claridad, si aquélla se limita a la simple administración de los bienes, a la aptitud para comparecer en juicio o a los actos de enajenación. El Código de Procedimientos determinará la forma en que deben hacerse constar la aptitud o idoneidad del solicitante, así como los términos en que debe otorgarse la aprobación judicial de la emancipación hecha por los padres o tutores, conforme al artículo anterior.
 
 ### CAPITULO II. De la mayor edad
 
+> <small>(REFORMADO, G.O. 10 DE JULIO DE 1971)</small>
+
 ARTICULO 577
 
-La mayor edad comienza a los veintiún años cumplidos.
+La mayor edad comienza a los dieciocho años cumplidos.
 
 ARTICULO 578
 
@@ -4171,9 +4183,13 @@ ARTICULO 786
 
 En el caso del artículo anterior, la reducción será aprobada por el Gobernador del Estado, previa comprobación que ante él se haga, por cualquier interesado, de que se está en alguno de los casos que dicho artículo señala. La resolución respectiva se comunicará al Encargado del Registro Público para que haga las cancelaciones parciales o anotaciones que correspondan.
 
+(REFORMADO, G.O. 10 DE JULIO DE 1971) (F. DE E., G.O. 27 DE ENERO DE 1973) (F. DE E., G.O. 6 DE FEBRERO DE 1973)
+
 ARTICULO 787
 
-Extinguido o reducido el patrimonio familiar, los bienes volverán al pleno dominio del que los constituyó o de sus herederos; y, en los casos de la fracción II del artículo 773, se procederá con ellos como corresponda conforme a la ley.
+Se equipararán al patrimonio familiar, los solares y casas que sobre ellos se construyan, adquiridos en propiedad por los trabajadores en cumplimiento de las disposiciones contenidas en el Título Cuarto, Capítulo III, de la Ley Federal del Trabajo y por lo tanto, serán intransmisibles y no estarán sujetos a embargo ni gravamen alguno; salvo los gravámenes normales que ocasione el financiamiento respectivo; siempre y cuando los trabajadores voluntariamente y en forma individual soliciten al Ejecutivo del Estado, que su propiedad quede sujeta a este régimen y el gobernador lo autorice, debiendo comunicar oficiosamente su resolución al Registro Público de la Propiedad para su inscripción y anotación marginal de la inscripción del Título de Propiedad; la autorización surtirá efectos, aún cuando las casas se encuentren en proceso de construcción y dejará de surtirlos, si el contrato por el cual adquiere la propiedad el trabajador, es invalidado.
+
+A juicio del Ejecutivo y por causas de extrema necesidad plenamente justificadas, el Gobernador del Estado podrá autorizar la transmisión o gravamen de los inmuebles a que este precepto se refiere, teniendo preferencia para adquirirlos quien sea obrero sin casa-habitación, de la misma empresa en que preste o haya prestado servicios quien se sometió a este régimen y se obligue en los mismos términos.
 
 ### CAPITULO I. De los bienes inmuebles o raíces
 
@@ -14671,7 +14687,7 @@ I.- Los documentos públicos;
 
 II.- Los documentos privados, que con esta formalidad sean válidos con arreglo a la ley, que contengan certificación de reconocimiento en el texto y firmas, expedida por el Registrador, un Notario, o un Juez Municipal, la cual deberá estar firmada por los signantes del documento, la autoridad que intervenga y tener impreso el sello de autorizar respectivo.
 
-Los funcionarios a que se refiere el párrafo anterior, estarán provistos de un libro denominado "Registro de Certificaciones", autorizado por el Secretario de Gobierno, en el cual harán relación de cada certificación que expidan, asentando el número progresivo que le corresponda, la fecha de expedición, acto jurídico que se certifica, datos generales de los signantes del documento y certificación de que aquéllos son de su personal conocimiento, o de los medios de prueba que sobre su identificación hayan presentado. La constancia que con este motivo se levante, deberá estar firmada por los signantes del documento que se haya certificado, por el funcionario que interviene, y tendrá impresión de su sello de autorizar.
+Los funcionarios a que se refiere el párrafo anterior, estarán provistos de un libro denominado "Registro de Certificaciones", autorizado por el Secretario de Gobierno, en el cual harán relación de cada certificación que expidan, asentando el número progresivo que le corresponda, la fecha de expedición, acto jurídico que se certifica, datos generales de los signantes del documento y certificación de aquéllos son de su personal conocimiento, o de los medios de prueba que sobre su identificación hayan presentado. La constancia que con este motivo se levante, deberá estar firmada por los signantes del documento que se haya certificado, por el funcionario que interviene, y tendrá impresión de su sello de autorizar.
 
 ARTICULO 2945
 
@@ -15082,3 +15098,7 @@ UNICO.- La presente Ley entrará en vigor tres días después de su publicación
 G.O. 29 DE MAYO DE 1971.
 
 La presente Ley entrará en vigor tres días después de su publicación en la "Gaceta Oficial", órgano del Gobierno del Estado.
+
+G.O. 10 DE JULIO DE 1971.
+
+La presente Ley entrará en vigor tres días después de su publicación en la "Gaceta Oficial" del Estado.
