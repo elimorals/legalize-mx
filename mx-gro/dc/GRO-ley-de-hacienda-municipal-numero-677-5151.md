@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-municipal-numero-677-5151"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-03"
-last_updated: "1998-12-25"
+last_updated: "2000-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE HACIENDA MUNICIPAL NUMERO 677
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Alcance al Número 1 del Periódico Oficial del Estado de Guerrero, el martes 3 de enero de 1984.
 
@@ -67,9 +67,13 @@ IV.- Los derechos sobre la posesión de terrenos ejidales y comunales, así como
 
 V.- La propiedad de bienes raíces donde se ubiquen plantas de beneficio y establecimientos metalúrgicos, así como sus instalaciones en los términos del artículo 23 de la Ley de Impuestos y Fomento a la Minería.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-VI.- Los inmuebles que forman parte del patrimonio de los organismos públicos descentralizados federales o estatales que se utilicen para oficinas administrativas, o en general para propósitos distintos a los de su objeto.
+VI.- Los inmuebles del dominio privado que formen parte del patrimonio Federal, Estatal y Municipal.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+VII.- Los inmuebles del dominio público que formen parte del patrimonio federal, estatal y municipal que estén utilizados paraestatales o particulares bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto.
 
 ###### ARTICULO 2o.
 
@@ -103,9 +107,9 @@ VII.- Los concesionarios o quienes no siendo propietarios tengan la explotación
 
 VIII.- El fideicomitente o en su caso el fiduciario en tanto no trasmitan la propiedad del predio al fideicomisario o a otras personas en cumplimiento del contrato del fideicomiso.
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-IX.- Los organismos públicos descentralizados federales en términos de la Ley General de Bienes Nacionales, en los mismos términos los Estatales y Municipales.
+IX.- Los Gobiernos Federal, Estatal y Municipales.
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
@@ -141,15 +145,13 @@ Las personas que adquieran predios urbanos, suburbanos, rústicos o con el régi
 
 Se tendrá como base del impuesto:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-I.- El valor catastral del predio y de las construcciones, apartamento o local en condominio, los del régimen de tiempo compartido y multipropiedad, determinado de acuerdo con los lineamientos previstos por la Ley de Catastro Municipal.
+I.- El valor catastral del predio y de las construcciones, apartamento o local en condominio, los del régimen de tiempo compartido y multipropiedad, determinado por la autoridad catastral municipal de acuerdo con los lineamientos previstos por la Ley de Catastro Municipal, el Reglamento de Catastro Municipal y el Manual de Valuación Catastral de los Municipios.
 
-La Ley de Ingresos de los Municipios del Estado fijará anualmente el porcentaje del valor catastral que servirá de base para el pago del impuesto.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1997)</small>
-
-II.- El valor del avalúo declarado por el contribuyente, tratándose de personas morales, que consistirá en la presentación del avalúo elaborado por perito valuador inscrito en el Registro Estatal; actualizándose dicho valor cada año de acuerdo a la variación que presente el índice inflacionario.
+II.- El valor de operación, en caso de que el predio sea objeto de contrato, convenio o de algún acto jurídico y siempre que el valor resulte superior al valor registrado o determinado conforme a la fracción anterior.
 
 III.- El valor fiscal registrado en los padrones de contribuyentes.
 
@@ -165,13 +167,9 @@ a) Cuando se realicen algunas de las causas que previene la Ley de Catastro.
 
 b) Cuando, las autoridades Municipales, practiquen avalúo o reavalúo catastral.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+c) (DEROGADO, P.O. 29 DE DICIEMBRE DE 2000)
 
-c) Cuando las personas morales presenten el avalúo o reavalúo elaborado por perito valuador autorizado por la Secretaría de Finanzas y Administración.
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
-
-Si el contribuyente no efectúa la declaración del valor de su inmueble a través del avalúo, servirá de base para el pago del Impuesto Predial el valor determinado por la autoridad catastral, conforme a lo establecido por el artículo 37-BIS de la Ley de Catastro Municipal.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 9o.
 
@@ -179,9 +177,13 @@ La base modificada surtirá efectos:
 
 I.- A partir del bimestre siguiente a aquel en que se produzca el hecho, acto o contrato que le dé origen.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-II.- A partir del bimestre siguiente al en que se notifique nuevo avalúo cuando éste sea efectuado por haber transcurrido el plazo de un año en predios urbanos y de tres años en predios rústicos.
+II.- A partir del bimestre siguiente al en que se notifique nuevo avalúo cuando éste sea efectuado por haber transcurrido el plazo de un año en predios urbanos y rústicos.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+III.- A partir del bimestre siguiente al en que se modifique nuevo avalúo cuando éste sea efectuado por haber transcurrido el plazo de un año en predios urbanos y rústicos.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
@@ -189,11 +191,11 @@ II.- A partir del bimestre siguiente al en que se notifique nuevo avalúo cuando
 
 El impuesto se causará conforme a las bases y las tasas establecidas en la Ley de Ingresos de los Municipios vigente.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 11.
 
-Quedan exentos del pago de este impuesto únicamente los bienes de dominio público de la Federación, del Estado o de los Municipios. Entendiéndose por estos los bienes de uso común, bienes destinados a un servicio público y bienes propios.
+Quedan exentos del pago de este impuesto únicamente los bienes inmuebles de dominio público de la Federación, del Estado o de los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
 ###### ARTICULO 11
 
@@ -209,11 +211,11 @@ Los beneficiarios de las exenciones deberán manifestar a la misma autoridad cua
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 1988)
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 14.
 
-La Tesorería Municipal determinará el monto del impuesto a pagar, de conformidad con el avalúo asignado al inmueble y con aplicación de la base y de la tasa que establezca la Ley de Ingresos de los Municipios.
+La Tesorería Municipal determinará el monto del impuesto a pagar de conformidad con el avalúo catastral determinado del bien inmueble y con la aplicación a la tarifa que al efecto establezca la Ley de Ingresos de los Municipios.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -715,23 +717,351 @@ El pago de los derechos de cooperación se hará a través de las Tesorerías Mu
 
 Los adquirientes de predios afectos al pago de derechos de cooperación que se establece en este capítulo, son solidariamente responsables del pago de los mismos.
 
-#### SECCION UNICA
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+#### SECCION TERCERA. Por Servicio de Alumbrado Público
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 62-A.
+
+El Servicio de Alumbrado Público que presta el Municipio a la población en general, comprende el funcionamiento de líneas, redes y lámparas de iluminación en avenidas, calles, callejones, andadores, parques, plazas, jardines y otros lugares de uso común, que facilita durante el horario nocturno la continuidad de las actividades cotidianas que se realizan en la vía pública, y que además del aspecto ornamental y de embellecimiento que representa para la comunidad, constituye un elemento primordial para garantizar la seguridad pública en el Municipio, para proteger la integridad de las personas, las familias y su patrimonio, para el tránsito seguro de personas o vehículos que deban circular por las vías y lugares públicos por razones de trabajo o esparcimiento.
+
+Es sujeto Pasivo, toda persona física o moral que obtiene un beneficio directo o indirecto derivado de la prestación del servicio de alumbrado público, por razón de su domicilio, su predio y de las actividades económicas que realice, cuyo horario de funcionamiento se desarrolle total o parcialmente, dentro del horario de la prestación del servicio, que comprende 12 horas diarias.
+
+El monto de la contribución se obtendrá conforme a la formula siguiente:
+
+A
+
+[---] x C = D
+
+B
+
+Donde A se obtiene de la siguiente manera:
+
+F1 + F2 + F3 + Fn = A
+
+12
+
+F1, F2, Fn = Costo mensual que emitirá la Comisión Federal de Electricidad, por concepto del consumo de energía del servicio de Alumbrado Público durante el ejercicio fiscal.
+
+(Se tomará como base, la Carga de Consumo del último censo levantado entre la Comisión Federal de Electricidad y el Ayuntamiento respectivo).
+
+12 = Número de meses del Ejercicio Fiscal.
+
+A = Costo mensual promedio.
+
+B = Número total de Sujetos Pasivos, obligados a contribuir para el gasto que genera el servicio de alumbrado público.
+
+A = Constante Igualitaria
+
+B
+
+C = Factor de Proporcionalidad (según sea el caso).
+
+D = Monto de la Contribución.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 62-B.
+
+En la siguiente clasificación se establece el Factor de Proporcionalidad que deberá ser multiplicado por la Constante Igualitaria para obtener el Monto de la Contribución.
+
+I.- CASAS HABITACION
+
+A.- Precaria Hasta 0.5 %
+
+Se considerará como casa habitación precaria, aquella construida con el siguiente material predominante:
+
+1.- En Techos
+
+lámina de cartón, palma, tejamanil o madera.
+
+2.- En paredes
+
+palma, tejamanil, embarro, bajareque, madera, lámina de cartón, asbesto, metálica o adobe.
+
+B.- Económica Hasta 0.7 %
+
+Se considerará como casa habitación económica, aquella construida con el siguiente material predominante:
+
+1.- En Techos
+
+lámina de asbesto, metálica, adobe o teja
+
+2.- En paredes
+
+lámina de asbesto, metálica, adobe, tabique, ladrillo, block o piedra.
+
+C.- Media Hasta 0.9 %
+
+Se considerará como casa habitación media, aquella construida con el siguiente material predominante:
+
+1.- En Techos
+
+losa de concreto, tabique o ladrillo.
+
+2.- En paredes
+
+tabique, ladrillo, block o piedra.
+
+D.- Residencial Hasta 3 %
+
+E.- Residencial Hasta 5 %
+
+en zona
+
+preferencial
+
+Para efectos de este artículo, se considerarán zonas preferenciales las siguientes:
+
+1.- Zonas comerciales
+
+2.- Zonas residenciales y
+
+3.- Zonas turísticas.
+
+D.- Residencial Hasta 4 %
+
+II.- PREDIOS
+
+A.- Predios Hasta 0.5 %
+
+B.- En zonas preferenciales Hasta 2 %
+
+III.- ESTABLECIMIENTOS COMERCIALES
+
+A.- Distribuidoras o comercios al mayoreo
+
+1.- Refrescos y Aguas Purificadas Hasta 80 %
+
+2.- Cervezas, vinos y licores Hasta 150 %
+
+3.- Cigarros y Puros Hasta 100 %
+
+4.- Materiales metálicos y no metálicos Hasta 75 %
+
+para la construcción y la industria
+
+5.- Atención a clientes y ventas de Hasta 50 %
+
+computadoras, telefonía y accesorios
+
+6.- Otros Establecimientos Hasta 5 %
+
+B.- Comercios al menudeo
+
+1.- Vinaterías y cervecerías Hasta 5 %
+
+2.- Aparatos eléctricos y Hasta 20 %
+
+electrónicos para el hogar
+
+3.- Grasas y aceites lubricantes, Hasta 2.5 %
+
+aditivos y similares
+
+4.- Artículos de platería y joyería Hasta 5 %
+
+5.- Automóviles nuevos Hasta 150 %
+
+6.- Automóviles usados Hasta 50 %
+
+7.- Refacciones, partes y accesorios Hasta 3.5%
+
+nuevos para automóviles
+
+8.- Tiendas de abarrotes y, Hasta 1.5 %
+
+miscelaneas
+
+9.- Ventas de computadoras, Hasta 25 %
+
+telefonía y accesorios
+
+10.- Otros Establecimientos Hasta 1.5 %
+
+C.- Tiendas departamentales
+
+de autoservicio,
+
+almacenes y supermercados Hasta 500 %
+
+D.- Bodegas con actividad
+
+comercial y minisuper Hasta 25 %
+
+E.- Estaciones de Gasolinas Hasta 50 %
+
+F.- Condominios Hasta 400 %
+
+IV.- ESTABLECIMIENTOS DE SERVICIOS
+
+A.- Prestadores del servicio de hospedaje temporal
+
+1.- Categoría especial Hasta 600 %
+
+2.- Gran Turismo Hasta 500 %
+
+3.- 5 Estrellas Hasta 400 %
+
+4.- 4 Estrellas Hasta 300 %
+
+5.- 3 Estrellas Hasta 150 %
+
+6.- 2 Estrellas Hasta 75 %
+
+7.- 1 Estrellas Hasta 50 %
+
+8.- Clase económica Hasta 20 %
+
+B.- Terminales nacionales e internacionales de transporte de personas y/o productos
+
+1.- Terrestre Hasta 300 %
+
+2.- Marítimo Hasta 400 %
+
+3.- Aéreo Hasta 500 %
+
+C.- Colegios,
+
+universidades e
+
+instituciones
+
+educativas y
+
+de investigación
+
+del sector privado. Hasta 15 %
+
+D.- Hospitales privados Hasta 75 %
+
+E.- Consultorios,
+
+clínicas, veterinarias y
+
+laboratorios de
+
+análisis clínicos Hasta 2 %
+
+F.- Restaurantes
+
+1.- En zona preferencial Hasta 50 %
+
+2.- En el primer cuadro
+
+de la cabecera
+
+municipal Hasta 10 %
+
+3.- Otros Hasta 2.5 %
+
+G.- Cantinas, bares, restaurant-bar, salones de baile y renta para fiestas
+
+1.- En zona preferencial Hasta 75 %
+
+2.- En el primer cuadro Hasta 25 %
+
+3.- Otros Hasta 12.5 %
+
+H.- Discotecas y centros nocturnos
+
+1.- En zona preferencial Hasta 125 %
+
+2.- En el primer cuadro Hasta 65 %
+
+3.- Otros Hasta 25 %
+
+I.- Unidades de servicios
+
+de esparcimiento, culturales
+
+y deportivos Hasta 15 %
+
+J.- Agencia de viajes y
+
+renta de autos Hasta 15 %
+
+K.- Otros servicios
+
+no especificados Hasta 2 %
+
+V.- INDUSTRIA
+
+A.- Elaboración de
+
+productos alimenticios,
+
+bebidas y tabacos Hasta 500 %
+
+(No incluye panaderías, molinos de nixtamal, fabricación de tortillas y pequeños cafetaleros).
+
+B.- Textil Hasta 100 %
+
+C.- Química Hasta 150 %
+
+D.- Manufacturera Hasta 150 %
+
+E.- Extractora (s) y/o Hasta 500 %
+
+de transformación
+
+F.- Otras no
+
+Especificadas Hasta 50 %
+
+La ubicación, en la clasificación presentada, de los diferentes tipos de casas habitación o unidades que realicen alguna actividad económica, la realizara la Tesorería Municipal en coordinación con las dependencias municipales involucradas.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 62-C.
+
+Los ayuntamientos deberán publicar, durante el primer bimestre del ejercicio fiscal, la Constante Igualitaria que deberá ser multiplicada por el factor de proporcionalidad para la determinación del monto de la contribución por concepto del derecho "Por Servicio de Alumbrado Público". Los Ayuntamientos, durante el primer bimestre del ejercicio fiscal, en sesión de cabildo, deberán aprobar el factor de proporcionalidad, dentro de los rangos establecidos en el artículo 62-B de esta misma Ley, que será aplicable, durante el ejercicio fiscal vigente, a cada concepto. El factor
+
+de proporcionalidad que se determine, deberá ser publicado en todo el Municipio
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+#### SECCIÓN PRIMERA. De la Instalación, Mantenimiento y Conservación del Alumbrado Público
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 #### SECCION UNICA
 
+### CAPITULO II BIS. CONTRIBUCIONES ESPECIALES
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 63
+
+BIS.- Contribuciones Especiales son las prestaciones establecidas en la Ley a cargo de las personas que obtengan un beneficio directo o derivado de la ejecución de obras públicas o de otras actividades regulares, continuas y uniformes desarrolladas para su satisfacción de las necesidades públicas municipales.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
 #### SECCION UNICA
+
+###### ARTICULO 63
+
+BIS-A.- Es objeto de la presente contribución, la instalación, mantenimiento y conservación del alumbrado público, que comprende la ampliación, mejora, rehabilitación y reposición de líneas, luminarias, lámparas y accesorios.
+
+Es Sujeto Pasivo toda persona, física o moral, que obtenga un beneficio directo derivado de la ejecución de obras de instalación, mantenimiento y conservación del alumbrado público; los que sean contribuyentes del Derecho por Servicio de Alumbrado Público (DSAP), no estarán obligados a cubrir esta contribución.
+
+Para fijar el monto de la contribución se tomarán en cuenta los metros lineales que los predios tengan de frente a la vía pública, de acuerdo a la clasificación y tarifa que se establezca en la respectiva Ley de Ingresos.
+
+La contribución será semestral y deberá liquidarse en una sola exhibición durante los primeros dos meses de cada período.
 
 ### CAPITULO III. De los productos
+
+#### SECCION UNICA
 
 ###### ARTICULO 63.
 
 Son productos los ingresos que percibe el Municipio por actividades que no corresponden al desarrollo de sus funciones propias de Derecho Público o por la explotación de sus bienes patrimoniales.
-
-#### SECCION UNICA
-
-### CAPITULO IV. Aprovechamientos
-
-#### SECCION UNICA
 
 ###### ARTICULO 64.
 
@@ -749,7 +1079,7 @@ V.- Publicaciones y formas oficiales.
 
 VI.- Diversos productos.
 
-### CAPITULO V. De las participaciones
+### CAPITULO IV. Aprovechamientos
 
 #### SECCION UNICA
 
@@ -783,7 +1113,7 @@ VIII.- Los ingresos que tengan analogía con los mencionados.
 
 Para los efectos del pago de las multas de carácter administrativo que se impongan, los funcionarios o empleados facultados para ello, lo notificarán oficialmente a las Tesorerías Municipales para hacerlas efectivas, expresando el nombre del infractor, lugar de su residencia, y el concepto e importe de la misma.
 
-### CAPITULO VI. Ingresos extraordinarios
+### CAPITULO V. De las participaciones
 
 #### SECCION UNICA
 
@@ -791,7 +1121,7 @@ Para los efectos del pago de las multas de carácter administrativo que se impon
 
 Los municipios del Estado, tendrán derecho a participar del rendimiento de impuestos federales, en los términos y disposiciones que al efecto señalen las leyes federales que los conceden y en los convenios que en su caso se celebren.
 
-### CAPITULO I. Del comercio ambulante
+### CAPITULO VI. Ingresos extraordinarios
 
 #### SECCION UNICA
 
@@ -809,7 +1139,9 @@ IV.- Otros ingresos extraordinarios de carácter eventual, tales como bienes vac
 
 ## TITULO SEGUNDO. Disposiciones suspendidas en tanto el Estado de Guerrero permanezca coordinado con la Federación en materia del impuesto al valor agregado
 
-### CAPITULO II. Matanza de ganado
+### CAPITULO I. Del comercio ambulante
+
+#### SECCION UNICA
 
 ###### ARTICULO 70.
 
@@ -829,7 +1161,9 @@ Para el ejercicio del comercio a que se refiere el artículo anterior, se requeq
 
 Los comerciantes comprendidos en la fracción III del artículo 65, pagarán además las cuotas correspondientes al uso del piso en vías públicas, plazas y mercados.
 
-### CAPITULO III. Producción de mezcales, aguardientes y otras bebidas alcohólicas
+### CAPITULO II. Matanza de ganado
+
+#### SECCION UNICA
 
 ###### ARTICULO 73.
 
@@ -851,7 +1185,7 @@ Ningún establecimiento en el que se expenda carne o los demás rendimientos de 
 
 Los inspectores tendrán obligación de revisar que la carne puesta a la venta esté amparada por la constancia del pago del impuesto y que presente el sello respectivo.
 
-### CAPITULO IV. Ganado
+### CAPITULO III. Producción de mezcales, aguardientes y otras bebidas alcohólicas
 
 ###### ARTICULO 78.
 
@@ -864,6 +1198,8 @@ La persona que desee dedicarse accidentalmente a la producción de alguna bebida
 ###### ARTICULO 80.
 
 En el caso del artículo anterior, el impuesto se cubrirá sobre el número de litros que se elaboren.
+
+### CAPITULO IV. Ganado
 
 ###### ARTICULO 81.
 
@@ -974,3 +1310,13 @@ El presente Decreto entrará en vigor el día primero de enero de 1999.
 ###### ARTICULO SEGUNDO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2000.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día primero de enero de 2001.
