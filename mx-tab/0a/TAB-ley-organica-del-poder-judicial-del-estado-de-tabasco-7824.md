@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-judicial-del-estado-de-tabasco-7824"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-11-21"
-last_updated: "2000-11-29"
+last_updated: "2002-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 2002.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 21 de noviembre de 1990.
 
@@ -49,33 +49,47 @@ LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO
 
 ### CAPITULO UNICO. DE LA INTEGRACION DEL PODER JUDICIAL
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 1°.
 
-Compete al Poder Judicial del Estado Tabasco aplicar las Leyes Civiles y Penales en asuntos del fuero común; así como en los del Orden Federal y Castrense en los casos en que la Constitución General de la República o las Leyes Federales le confieran jurisdicción expresa.
+La presente ley tiene por objeto regular la organización y funcionamiento del Poder Judicial del Estado de Tabasco.
+
+Compete al Poder Judicial del Estado de Tabasco, aplicar las Leyes Civiles y Penales en asuntos del fuero común, de aquéllos del Orden Federal y Castrense sobre los que la Constitución General de la República o las Leyes Federales le confieran jurisdicción expresa y los que determinen otras disposiciones legales.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 2°.
 
-El Poder Judicial del Estado está integrado por:
+El Poder Judicial del Estado se integra y se ejerce, en sus respectivos ámbitos de competencia por:
 
 I.- El Tribunal Superior de Justicia;
 
-II.- Los Juzgados Civiles de Primera Instancia;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
 
-III.- Los Juzgados de lo Familiar de Primera Instancia;
+II.- El Consejo de la Judicatura;
 
-IV.- Los Juzgados Penales de Primera Instancia;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
 
-V.- Los Juzgados Mixtos de Primera Instancia;
+III.- Los Juzgados Civiles de Primera Instancia;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 1997)</small>
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
 
-VI.- Los Juzgados de Paz;
+IV.- Los Juzgados de lo Familiar de Primera Instancia;
 
-VII.- Los Arbitros; y
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
 
-VIII.- Las dependencias del Ejecutivo del Estado que prevengan las Leyes.
+V.- Los Juzgados Penales de Primera Instancia;
 
-Los Arbitros voluntarios no ejercerán autoridad pública, pero de acuerdo con las reglas y restricciones que fija el Código de Procedimientos Civiles, conocerán según los términos de los compromisos respectivos del negocio o negocios civiles que les encomienden los interesados.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
+
+VI.- Los Juzgados Mixtos de Primera Instancia;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
+
+VII.- Los Juzgados de Paz;
+
+VIII.- (DEROGADA, P.O. 29 DE ENERO DE 2002)
 
 ###### ARTICULO 3°.
 
@@ -83,13 +97,19 @@ La representación del Poder Judicial corresponde al Tribunal Superior de Justic
 
 Para su identificación contará con un logotipo aprobado por el Pleno, que tenga los símbolos esenciales de la Nación, del Estado y de la Justicia.
 
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
+
+El Poder Judicial del Estado, tiene plena autonomía para el ejercicio de sus funciones y atribuciones, así como para ejercer su presupuesto del cual destinará en renglones separados los recursos para sus dependencias y órganos que lo integran.
+
 ###### ARTICULO 4°.
 
 El Tribunal Superior de Justicia tendrá jurisdicción en todo el Estado de Tabasco y residirá en la Capital.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 5°.
 
-Para los efectos de la Administración de Justicia el Estado se dividirá en Distritos Judiciales, mismos que variarán como sean necesarios, cuya jurisdicción territorial comprenderá la que designe el Pleno, residiendo en ellos los Juzgados que el mismo Pleno autorice y el que fijará la sede de cada uno de ellos. Los actuales Distritos Judiciales se comprenden en el siguiente orden:
+Para los efectos de la Administración de Justicia, el Estado de Tabasco, se divide en Distritos Judiciales, mismos que en su conformación variarán como sean necesarios; su Jurisdicción territorial comprenderá la que le designe el Consejo de la Judicatura, residiendo en ellos los Juzgados que el mismo Consejo autorice, fijándoles la sede y competencia por materia de cada uno de ellos. Los actuales Distritos Judiciales son:
 
 PRIMER DISTRITO, Municipio del Centro con sede en la Ciudad de Villahermosa;
 
@@ -127,6 +147,10 @@ DECIMO SEPTIMO DISTRITO, Municipio de Tacotalpa, con sede en la Ciudad de Tacota
 
 DECIMO OCTAVO DISTRITO, Villa la Venta y los Ejidos el Chapo, Francisco Trujillo Gurría, Tres Bocas, Segunda Sección (El Zapotal); Luis Cabrera, La Ceiba Primera y Segunda Sección, Paraíso, Francisco I. Madero, La Cangrejera, Cuauhtémoc, Aquiles Serdán (La Florida), Primera y Tercera Sección (Ampliación), Cuauhtémoczin, El Bari Primera y Segunda Sección, 5 Presidentes, Blasillo PRIMERA Sección (Nicolás Bravo), Segunda y Cuarta Sección y José María Morelos, del Municipio de Huimanguillo, Tabasco; y la Villa y Puerto de Sánchez Magallanes, Villa Benito Juárez, Los Ejidos Sinaloa, San Rafael, Alacrán, Ley Federal de Reforma Agraria, Ejido Ojoxal, Chicozapote, Buena Vista Primera y Segunda Sección, Ranchería Manatinero, San Ramón, Colonias Pailebot, el Retiro y Congregación el Yucateco, de Cárdenas, Tabasco, con sede en Villa la Venta, Huimanguillo, Tabasco.
 
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
+
+DECIMO NOVENO DISTRITO, Las comunidades siguientes: Los Bitzales, Los Naranjos, La Pitahaya, José Galeana, Santos Degollado, Miguel Hidalgo, Cuarta Sección, Limón, Veinte de Noviembre, Galeana, Cacahuatillo, José López Portillo, Monte Largo, Villa Benito Juárez, Los Vernet, El Congo, Aquiles Serdán, Villa Tepetitán, El Triunfo, El Chiquihuite, El Maluco, Límbano Blandín, San Antonio y Ciudad Pemex; todos del Municipio de Macuspana, Tabasco.
+
 ###### ARTICULO 6°.
 
 (DEROGADO, P.O. 30 DE ABRIL DE 1997)
@@ -155,19 +179,23 @@ Los auxiliares de la Administración de Justicia, están obligados a cumplir con
 
 ### CAPITULO I. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 8°.
 
-El Tribunal Superior de Justicia funcionará en Pleno y en Salas y estará integrado por diecinueve Magistrados Numerarios y los Supernumerarios e interinos que se requieran, nombrados los primeros en los términos del artículo 56 de la Constitución Política del Estado y los siguientes por el Pleno del propio Tribunal.
+El Tribunal Superior de Justicia del Estado, se integrará, cuando menos, por diecinueve Magistrados numerarios y los supernumerarios e interinos que se requieran, y funcionará en Pleno y en Salas; nombrados los primeros en los términos del artículo 56 de la Constitución Política del Estado y los siguientes por el Pleno del propio Tribunal.
+
+Los Magistrados supernumerarios e interinos, que por necesidad de la administración de justicia sean designados por el Pleno, no podrán, en su conjunto, exceder de una cuarta parte del total de los Magistrados integrantes del Tribunal Superior de Justicia. En consecuencia, los Magistrados numerarios, conformaran en todo caso, cuando menos las tres cuartas partes del total del Pleno.
 
 ###### ARTICULO 9°.
 
 Para ser Magistrado se deben satisfacer los requisitos que señale el artículo 57 de la Constitución Política del Estado.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 10.
 
-Los Magistrado Numerarios serán inamovibles en sus cargos en el tiempo que desempeñen su función y solo podrán ser separados de ellos en los términos del título séptimo de la Constitución del Estado o por renunciar expresamente al cargo.
+Los Magistrados Numerarios durarán ocho años en el ejercicio de su encargo, al término de los cuales, si fueren ratificados por el Congreso del Estado, sólo podrán ser privados de sus puestos en los casos y conforme al procedimiento que establece la Constitución Política Local y esta ley; para los efectos de la ratificación, se estará a lo previsto en el artículo 47 Bis de esta Ley.
 
 ### CAPITULO II. DEL PLENO DEL TRIBUNAL
 
@@ -183,67 +211,121 @@ Las decisiones del Pleno serán tomadas por unanimidad o por mayoría de votos d
 
 El Pleno del Tribunal Superior de Justicia estará constituído por los Magistrados numerarios, los supernumerarios é interinos que cubran licencia, presidido por quien sus integrantes elijan.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 14.
 
-El Pleno del Tribunal tendrá las siguientes atribuciones:
+El Pleno del Tribunal tendrá las facultades siguientes:
 
-I.- Dirimir los conflictos de carácter jurídico que surjan entre los Municipios y cualesquiera de los otros dos Poderes del Estado y los demás que le confieren las Leyes;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
 
-II.- Conocer de los juicios de responsabilidad de los Servidores Públicos en los términos de los Artículos 67 a 69 de la Constitución Política, y la Legislación Penal del Estado y Leyes Especiales;
+I.- Dirimir los conflictos de carácter jurídico que surjan entre los Municipios y cualesquiera de los otros dos Poderes del Estado, y los demás que les confieran las Leyes;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
+
+II.- Conocer, en el ámbito de su competencia, de los juicios políticos en los términos de los artículos 61, 67, 68 y 69 de la Constitución Política Local, y los aplicables de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tabasco;
 
 III.- Elegir a su Presidente;
 
-IV.- Designar a los Magistrados que deban integrar cada una de las Salas, para la integración permanente de éstas, designar a Magistrados de otras Salas para que transitoriamente integren alguna de ellas, cuando sea necesario para su funcionamiento; y adscribir los Magistrados Supernumerarios o interinos a las Salas, para que suplan a los numerarios en sus faltas temporales;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
 
-V.- Nombrar los Magistrados Supernumerarios, interinos, servidores y demás personal conforme al presupuesto de Egresos, confiriéndole las comisiones jurisdiccionales o de representación que estime pertinente, en beneficio de la Administración de Justicia;
+IV.- Señalar la adscripción de los Magistrados de Número que deban integrar cada una de las Salas, ordinarias para la integración permanente de éstas; a los Magistrados de otras Salas para que transitoriamente formen parte de alguna de ellas; y adscribir a los Magistrados Supernumerarios o Interinos a las Salas, para que suplan a los Numerarios en sus faltas temporales;
 
-VI.- Variar la jurisdicción y competencia de los Juzgados, según las necesidades del servicio;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
 
-VII.- Crear o suprimir Juzgados, fijar y cambiar la residencia de éstos cuando las necesidades del servicio lo requieran;
+V.- Nombrar a los Magistrados Supernumerarios e interinos, conforme a las necesidades de la administración de justicia y al presupuesto de egresos, confiriéndoles las comisiones jurisdiccionales o de representación que estime pertinente, en beneficio de la administración de justicia; asimismo a propuesta del Magistrado Presidente designar al personal que se adscriba a las Dependencias del propio Tribunal y de las que se encuentren bajo la subordinación jerárquica del Magistrado Presidente;
 
-VIII.- Designar el personal que quedará adscrito a cada Juzgado, previa propuesta de los Jueces;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
 
-IX.- Cambiar la adscripción a los Jueces y demás personal, de acuerdo con lo dispuesto por esta Ley y en función de la buena marcha de la Administración de Justicia;
+VI.- Designar, por el voto secreto de la mayoría de sus integrantes, a los Magistrados Numerarios que deban integrar el Consejo de la Judicatura; asimismo, elegir en los términos del artículo 56, párrafo tercero de la Constitución Local, al Magistrado de Número, en el caso de que el Congreso del Estado no resuelva en el término fijado al respecto;
 
-X.- Conceder licencias hasta por dos meses con goce de sueldo y por mayor tiempo sin este beneficio;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
 
-XI.- Calificar excusas, recusaciones e impedimentos de los Magistrados;
+VII.- Calificar las excusas, recusaciones e impedimentos de los Magistrados;
 
-XII.- Dictar las medidas necesarias y expeditas para la Administración de Justicia;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
 
-XIII.- Vigilar que la administración del presupuesto del Poder Judicial sea eficaz y honesta;
+VIII.- Vigilar, con el auxilio de la Dirección de Contraloría del Poder Judicial, que la administración del presupuesto del Tribunal Superior de Justicia sea eficaz, honesta y ajustada a la normatividad aplicable;
 
-XIV.- Formular anualmente la lista de síndicos, interventores, consejeros, árbitros y peritos con los requisitos y para los efectos que señale la Ley;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
 
-XV.- Revisar y aprobar anualmente el proyecto del presupuesto de egresos del Poder Judicial;
+IX.- Revisar y aprobar con previo conocimiento del Consejo de la Judicatura, anualmente el proyecto del presupuesto de egresos del Poder Judicial para su remisión por el Magistrado Presidente al titular del Poder Ejecutivo;
 
-XVI.- Formular anualmente el Proyecto de Presupuesto de Egresos del Poder Judicial;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
 
-XVII.- Ordenar la denuncia o querellas ante el Ministerio Público cuando la conducta del Servidor Público constituya la posible comisión de un delito;
+X.- Recibir y acatar, conforme a lo dispuesto por el artículo 69 de la Constitución Política Local, la declaración de procedencia emitida por el Congreso del Estado respecto de los Magistrados del Tribunal Superior de Justicia;
 
-XVIII.- Suspender en sus cargos a los Servidores del Poder Judicial, a solicitud de la Autoridad Judicial que conozca de la Averiguación Previa que se siga en su contra, cuando se haya dictado auto de formal prisión o de sujeción a proceso, resolución que debe comunicarse a la Autoridad que hizo la solicitud.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
 
-La suspensión en sus cargos de los Magistrados por el Pleno del Tribunal constituye un requisito previo indispensable para la aprehensión o enjuiciamiento de aquellos; y si con desacato de este precepto llegare a ordenarse o a efectuarse alguna detención, se impondrá al responsable prisión de quince días a un año y destitución del cargo o empleo;
+XI.- Conocer y resolver sobre las quejas por faltas oficiales o administrativas, distintas a las hipótesis previstas para el juicio político en la Constitución Local, que se presenten en contra de los Magistrados del Tribunal Superior de Justicia, así como las que se formulen respecto del personal de apoyo adscritos al Pleno, a las Salas, y a la Presidencia del Tribunal; teniendo sus resoluciones el carácter de definitivas e inatacables;
 
-XIX.- Conocer de las denuncias o quejas que se presenten en contra de Servidores Públicos del Poder Judicial;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
 
-XX.- Sancionar conforme a esta Ley a los Servidores Públicos del Poder Judicial;
+XII.- Revisar y revocar, en los términos del artículo 47 de esta ley, por el voto de las dos terceras partes de sus integrantes de número, los acuerdos generales que expida el Consejo de la Judicatura para el ejercicio de sus funciones administrativas. Dicha resolución deberá emitirse dentro de los diez días hábiles siguientes a la notificación que el Consejo le haga al Pleno;
 
-XXI.- Reformar los Reglamentos del régimen anterior del Tribunal y de los Juzgados;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
 
-XXII.- Exigir al Presidente del Tribunal y a los de las Salas el cumplimiento de sus obligaciones de acuerdo con esta Ley;
+XIII.- Exigir al Presidente del Tribunal, a los de las Salas, y a los Magistrados el cumplimiento de sus obligaciones;
 
-XXIII.- Acordar visitas periódicas a los Juzgados y establecimientos carcelarios, distribuyéndolas entre los Magistrados para esos efectos y para que vigilen la conducta de los Servidores Judiciales, reciban las quejas que hubieren contra ellos y ejerzan las demás atribuciones que esta Ley y los reglamentos les señalen;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
 
-XXIV.- Decidir los conflictos de competencia que se suscitaren entre los Jueces del Estado y entre éstos y el Centro Educativo Tutelar para Menores Infractores del Estado;
+XIV.- Solicitar al Consejo de la Judicatura, sin perjuicio de las atribuciones administrativas del mismo, visitas especiales a los Juzgados y a los establecimientos carcelarios, cuando en el cumplimiento de sus atribuciones y las jurisdiccionales de las Salas, se detecte alguna irregularidad; dando seguimiento a las observaciones que se deriven de las mismas;
 
-XXV.- Establecer criterios de interpretación jurídica cuando no exista jurisprudencia al respecto y resolver, cuando los sustentados por las Salas sean contradictorios, vigilando su cumplimiento;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
 
-XXVI.- Celebrar sesiones mensuales de trabajo con servidores del Poder Judicial;
+XV.- Conocer y decidir respecto de los conflictos jurisdiccionales que se suscitaren entre los Jueces del Estado y entre éstos y el Centro Educativo Tutelar para Menores Infractores del Estado;
 
-XXVII.- Establecer el procedimiento del Examen de Suficiencia Notarial, a que se refiere la Ley del Notariado para el Estado de Tabasco;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
 
-XXVIII.- Las demás que le confieren las Leyes.
+XVI.- Establecer criterios de interpretación jurídica cuando no exista jurisprudencia al respecto y resolver cuando los sustentados por las Salas de la materia sean contradictorios, vigilando su cumplimiento;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
+
+XVII.- Señalar el procedimiento para el examen de suficiencia notarial a que se refiere la Ley del Notariado para el Estado de Tabasco;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
+
+XVIII.- Conocer del recurso de revisión administrativa que se interponga en contra de las decisiones del Consejo de la Judicatura en relación con la designación, adscripción, ratificación o remoción de los Jueces de Primera Instancia y de Paz, con la finalidad de verificar si fueron o no emitidas conforme a las reglas establecidas;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
+
+XIX.- Solicitar al Consejo de la Judicatura, se investigue la conducta de los Jueces cuando se tenga conocimiento de una posible irregularidad administrativa, prevista en la Ley de Responsabilidades de los Servidores Públicos;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
+
+XX.- Conceder, a cualesquiera de los Magistrados Supernumerarios e interinos del Tribunal Superior de Justicia, licencia hasta por dos meses, con o sin goce de sueldo; pudiendo prorrogarse, para los mismos por el término que el Pleno considere prudente, sin el citado beneficio. La solicitud de licencia de los Magistrados Numerarios, así como la renuncia de éstos, serán recibidas por el Pleno y dando conocimiento al titular del Poder Ejecutivo, serán inmediatamente remitidas para su trámite al Congreso del Estado, para que éste resuelva lo procedente, conforme a lo dispuesto por los artículos 36, fracción XXI y 39, fracción III, de la Constitución Política Local;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
+
+XXI.- Como representante del Poder Judicial del Estado, por conducto del Magistrado Presidente del Tribunal Superior de Justicia, otorgar, sustituir o revocar poderes y mandatos, incluso aquellos que requieran cláusula especial;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
+
+XXII.- Designar, adscribir, ratificar, remover, otorgar licencias, aceptar renuncias y sancionar, en su caso, al personal adscrito al Pleno, a las Salas y a la Presidencia del Tribunal. Para este efecto los Magistrados de Número podrán proponer al personal que reúna los requisitos para el cargo que corresponda;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
+
+XXIII.- Formular anualmente la lista de síndicos, interventores, consejeros y peritos con los requisitos y para los efectos que señale la ley;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
+
+XXIV.- Conocer y resolver en términos del artículo 65, fracción I, inciso g), de la Constitución Local, de la Acción de Revisión Municipal, mediante la que se le plantee la posible contradicción entre un acto o disposición de carácter general emitida por el cabildo con alguna disposición contemplada en la Constitución del Estado;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
+
+XXV.- Conocer de los asuntos cuya resolución no esté expresamente atribuido a otro órgano judicial;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
+
+XXVI.- Expedir el Reglamento del Tribunal Superior de Justicia, que regule las funciones, atribuciones y responsabilidades de los integrantes del Pleno, de sus Salas y de los adscritos a la Presidencia del Tribunal;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
+
+XXVII.- Ordenar, cuando así lo considere conveniente o tenga conocimiento de alguna posible irregularidad, visitas de supervisión a cualquiera de las Salas o de los Magistrados integrantes de las mismas, así como, a los servidores públicos adscritos a la Secretaría General de Acuerdos y a la de las Salas, con la finalidad de vigilar que se cumplan debida y oportunamente las tareas de su competencia, mismas que podrán ejecutarse por el Magistrado de Número que al efecto se designe, quien se auxiliará, de ser necesario, de la Visitaduría Judicial; y
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
+
+XXVIII.- Las demás que le confieran las leyes.
 
 ###### ARTICULO 15.
 
@@ -267,73 +349,51 @@ El Tribunal Superior de Justicia será presidido por el Magistrado que elija el 
 
 El Presidente no integrará Sala, salvo que sea llamado por el Pleno en caso de excusa, recusación o ausencia de alguno de los Magistrados.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 19.
 
-Corresponde al Presidente del Tribunal:
+El Presidente del Tribunal Superior de Justicia tendrá las facultades y obligaciones siguientes:
 
-I.- Presidir las sesiones del Tribunal Pleno;
+I.- Presidir las sesiones del Tribunal en Pleno;
 
-II.- Dirigir los debates y conservar el orden durante las sesiones del Pleno;
+II.- Convocar a sesiones ordinarias o extraordinarias;
 
-III.- Dar cuenta al Pleno de todos los actos que lleve a cabo en el ejercicio de sus funciones;
+III.- Dirigir los debates y conservar el orden durante las sesiones del Pleno;
 
-IV.- Proponer al Pleno los Acuerdos que juzgue conducente para la mejor administración de Justicia;
+IV.- Proponer al Pleno los acuerdos que juzgue convenientes para el mejor desempeño de la función Judicial;
 
-V.- Cuidar que los Servidores del Tribunal concurran puntualmente al Despacho;
+V.- Suscribir con el Secretario General de Acuerdos la correspondencia, circulares, acuerdos, actas, libros de Gobierno del Pleno del Tribunal, de las Salas y de los Juzgados, así como todo lo relativo al funcionamiento del Tribunal, que no sea competencia del Consejo de la Judicatura;
 
-VI.- Cerciorarse de la asistencia y comportamiento del personal y del despacho de los procesos y asuntos;
+VI.- Tramitar los asuntos competencia del Pleno, hasta dejarlos en estado de resolución;
 
-VII.- Suscribir con el Secretario General de Acuerdos la correspondencia, circulares, acuerdos, actas, libros de Gobierno del Pleno del Tribunal, de las Salas y de los Juzgados, así como todo lo relativo al funcionamiento del Tribunal;
+VII.- Rendir el informe a que se refieren los artículos 55 Bis, último párrafo y 59, párrafo segundo, de la Constitución Política del Estado;
 
-VIII.- Substanciar las quejas o denuncias por faltas cometidas en la Administración de Justicia, conforme lo establece esta Ley;
+VIII.- Elaborar anualmente, previo conocimiento de los integrantes del Consejo de la Judicatura, el proyecto del presupuesto de egresos del Poder Judicial del Estado, someterlo a la consideración del Pleno del Tribunal y, una vez autorizado, remitirlo al titular del Poder Ejecutivo local, para su inclusión en el proyecto de presupuesto general de egresos del Estado;
 
-IX.- Conceder licencias hasta por quince días por causas justificadas o tomarlas para sí, por una sola vez cada seis meses y someter al Pleno las solicitudes de licencias que excedan del término arriba señalado;
+IX.- Comunicar al Gobernador del Estado y a la Cámara de Diputados las ausencias absolutas de los Magistrados Numerarios, así como al pleno del Consejo de la Judicatura, para que se proceda en los términos del artículo 56 de la Constitución Local;
 
-X.- Rendir el informe a que se refiere el artículo 59 de la Constitución Política del Estado;
+X.- Autorizar en unión del Secretario General de acuerdos las actas de las sesiones del Pleno, haciendo constar en ellas las deliberaciones y los acuerdos que se dicten;
 
-XI.- Convocar a sesiones ordinarias y extraordinarias;
+XI.- Cumplimentar los Acuerdos del Pleno del Tribunal, para que en los términos de la fracción XIV del precepto 14 de esta Ley, se practiquen por el Consejo de la Judicatura, las visitas especiales a los Juzgados y en su caso, a las demás dependencias del Poder Judicial, cuando juzgue procedente;
 
-XII.- Remitir anualmente el Proyecto de presupuesto de Egresos del Poder Judicial al Ejecutivo del Estado;
+XII.- Rendir los informes previos y justificados en los amparos que se promuevan en contra de las resoluciones del Pleno del Tribunal;
 
-XIII.- Comunicar al Gobernador del Estado y a la H. Cámara de Diputados las ausencias absolutas de los Magistrados, para que se proceda en los términos del artículo 56 de la Constitución Local;
+XIII.- Representar al poder Judicial en los actos oficiales o designar comisión para tal efecto;
 
-XIV.- Autorizar en unión del Secretario, las actas de las sesiones del Pleno, haciendo constar en ellas las deliberaciones y los acuerdos que se dicten;
+XIV.- Ejercer, por conducto de la Tesorería, el presupuesto del Pleno, de las Salas del Tribunal y de la Presidencia;
 
-XV.- Organizar y coordinar la carrera Judicial y los concursos de méritos, procurando que para los ascensos del personal se respete el escalafón que la Ley aplicable establece;
+XV.- Dar cuenta al Pleno del estado que guardan las partidas del presupuesto del Tribunal Superior de Justicia y de los cortes de caja que rinda mensualmente la Tesorería;
 
-XVI.- Proponer anualmente al Pleno, en el mes de enero, una lista de las personas que puedan ejercer las funciones de árbitros, síndicos, albaceas, interventores, peritos, depositarios, tutores y demás auxiliares de la Administración de Justicia;
+XVI.- Vigilar el cumplimiento de las normas de control del presupuesto que dicte el Pleno del Tribunal y el Consejo de la Judicatura, en el ámbito de sus respectivas competencias, y enviar mensualmente, dentro de los treinta días siguientes del mes que corresponda, a la Contaduría Mayor de Hacienda del Congreso del Estado, el avance financiero y presupuestal. Asimismo, remitir anualmente a la mencionada Contaduría, a más tardar el treinta y uno de marzo del año siguiente, la cuenta pública del Poder Judicial, debidamente comprobada y con la información suficiente en los términos de la ley aplicable, para su examen y calificación anual;
 
-XVII.- Vigilar las actividades del Centro de Especialización Judicial así como la organización de cursos de capacitación;
+XVII.- Resolver sobre los asuntos urgentes de naturaleza administrativa que no admitan demora aún cuando sean de la competencia del Pleno, en los casos que éste no pudiera reunirse, dando cuenta de lo que hubiere hecho en la sesión inmediata, para tal efecto de que se ratifique o rectifique el acuerdo tomado;
 
-XVIII.- Formular los manuales de trámite y funcionamiento, indispensables para mejorar la Administración de Justicia;
+XVIII.- Dar cuenta al Pleno del Tribunal Superior de Justicia de todos los actos que como representante legal del mismo lleve a cabo en el ejercicio de sus funciones;
 
-XIX.- Vigilar el buen funcionamiento de la Biblioteca y del Archivo Judicial;
+XIX.- Autorizar el registro en la Secretaría General de Acuerdos del Tribunal, de los títulos de licenciados en derecho, cuando éstos ejerzan la profesión en el Estado, cerciorándose de la legalidad de esos títulos así como de la identidad de los solicitantes; y
 
-XX.- Autorizar el Registro en la Secretaría del Tribunal de los Títulos de Licenciados en Derecho, cuando ejerzan la profesión en el Estado, cerciorándose de la legalidad de esos Títulos así como de la identidad de los solicitantes;
-
-XXI.- Tener bajo su control el servicio de vigilancia de los edificios en que residan el Tribunal y los Juzgados, dictando las medidas adecuadas para su conservación e higiene, así como para la distribución de las oficinas judiciales, en sus diversos departamentos;
-
-XXII.- Practicar visitas a los Juzgados y demás dependencias del Poder Judicial, cuando lo juzgue conveniente;
-
-XXIII.- Rendir los informes previos y con justificación, en los amparos que se promueven en contra de las resoluciones del Pleno del Tribunal;
-
-XXIV.- Representar al Poder Judicial en los actos oficiales o designar comisión para tal efecto;
-
-XXV.- Afectar las partidas del presupuesto con autorización del Pleno;
-
-XXVI.- Tramitar los asuntos de competencia del Pleno, hasta dejarlos en estado de resolución;
-
-XXVII.- Dar cuenta al Pleno del Estado que guardan las partidas del presupuesto del Poder Judicial y de los cortes de caja que rinda la Tesorería;
-
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1998)</small>
-
-XXVIII.- Vigilar el cumplimiento de las normas de control del presupuesto que dicte el Pleno y enviar mensualmente, dentro de los treinta días siguientes del mes que corresponda, a la Contaduría Mayor de Hacienda, el avance financiero y presupuestal. Asimismo, remitir trimestralmente a la mencionada Contaduría, dentro de los treinta días siguientes al trimestre respectivo, la cuenta pública del Poder Judicial para su revisión y calificación trimestral;
-
-XXIX.- Presidir la Comisión Editorial, vigilando la publicación de la Revista Jurídica y del Boletín Judicial;
-
-XXX.- Dar cuenta al Pleno con las demandas de responsabilidad oficial presentadas en contra de los Magistrados y Jueces;
-
-XXXI.- Resolver sobre los asuntos que no admitan demora aún cuando sean de la competencia del Pleno, en los casos que éste no pudiera reunirse, dando cuenta de lo que hubiere hecho en la sesión inmediata para tal efecto de que se ratifique o rectifique el acuerdo tomado.
+XX.- Las demás que le confieran las leyes y el Reglamento del Tribunal.
 
 ###### ARTICULO 20.
 
@@ -429,7 +489,7 @@ Cuando sea necesaria la función de una Sala Auxiliar deberá integrarse con tre
 
 ###### ARTICULO 29 Bis.
 
-El Comité de Compilación, Sistematización y Publicación de Criterios Aislados y Criterios Jurisprudenciales Locales, cuidará que mediante la creación de criterios aislados y de jurisprudencias locales, se unifiquen criterios dispersos de las salas de apelación, para evitar se incurra en decisiones contradictorias que atenten contra el estado de derecho.
+El Comité de Compilación, Sistematización y Publicación de Criterios Aislados y Criterios Jurisprudenciales Locales, cuidará que mediante la creación de criterios aislados y de jurisprudencias locales, se unifiquen criterios dispersos en las Salas de apelación, para evitar se incurra en decisiones contradictorias que atenten contra el estado de derecho.
 
 El Comité estará integrado por tres Coordinadores y será presidido respectivamente por uno de ellos, elegido anualmente por el propio Comité, todo ello para los efectos legales que procedan y de acuerdo con las facultades de dicho Comité.
 
@@ -483,9 +543,11 @@ Dar cuenta al Magistrado que corresponda con el resultado del estudio de cada as
 
 ### CAPITULO UNICO. DE LOS JUECES DE PRIMERA INSTANCIA
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 37.
 
-Los Jueces de Primera Instancia serán inamovibles en su cargo, y sólo podrán ser suspendidos o destituidos por el Pleno del Tribunal Superior de Justicia del Estado, en los casos previstos por esta Ley; satisfechas que sean las formalidades establecidas por la misma.
+Los Jueces que integran el Poder Judicial del Estado, durarán cinco años en el ejercicio de su encargo, al término de los cuales si fueren ratificados o promovidos sólo podrán ser privados de sus puestos en los casos y de acuerdo al procedimiento que establece la Constitución Política Local, esta ley y demás disposiciones que resulten aplicables.
 
 ###### ARTICULO 38.
 
@@ -506,6 +568,10 @@ VI.- No haber sido condenado por delitos intencionales;
 VII.- No estar física ni mentalmente impedido para el ejercicio de su cargo; y
 
 VIII.- No ser Ministro de ningún culto religioso.
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2002)</small>
+
+IX.- Cumplir con los demás requisitos que para su designación señale el Consejo de la Judicatura.
 
 ###### ARTICULO 39.
 
@@ -577,7 +643,9 @@ V.- Vigilar la asistencia y comportamiento de Servidores Públicos del Juzgado;
 
 VI.- Practicar en su caso visitas mensuales a los establecimientos carcelarios de su distrito;
 
-VII.- Proponer al Tribunal Superior el personal del Juzgado;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
+
+VII.- Proponer al Consejo de la Judicatura, en los términos de las disposiciones administrativas, los nombramientos del personal del Juzgado;
 
 VIII.- Poner a los reos, en su oportunidad y conforme a la Ley, a disposición del Ejecutivo del Estado, cuando sea de su competencia;
 
@@ -593,11 +661,13 @@ XIII.- Cumplir y hacer cumplir los reglamentos;
 
 XIV.- Las demás que les impongan la Ley.
 
-> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 43 Bis.
 
-Los Juzgados de Paz residirán y funcionarán en los lugares y cabeceras de distrito que el Pleno del Tribunal Superior de Justicia determine, atendiendo las necesidades de trabajo y de acuerdo al presupuesto respectivo.
+Los Juzgados residirán y funcionarán en los lugares y cabeceras de distrito que el Consejo de la Judicatura determine.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 1997)</small>
 
 Los Juzgados de Paz en su organización y funcionamiento, se ajustarán a lo dispuesto por la presente Ley para los de Primera Instancia.
 
@@ -619,7 +689,11 @@ V.- Ser Licenciado en Derecho con título y cédula profesional;
 
 VI.- Tener 25 años de edad cumplidos; y
 
-VII.- No ser ministro de algún culto religioso.
+VII.- No ser ministro de algún culto religioso;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2002)</small>
+
+VIII.- Los demás que para su designación ordene el Consejo de la Judicatura.
 
 > <small>(ADICIONADO, P.O. 30 DE ABRIL DE 1997)</small>
 
@@ -643,7 +717,9 @@ III.- De los delitos cuya pena no exceda de dos años de prisión independientem
 
 IV.- Los demás asuntos que le correspondan de acuerdo a la Ley.
 
-### CAPITULO UNICO. DEL JURADO POPULAR
+### CAPITULO UNICO. DEL CONSEJO DE LA JUDICATURA
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
 
 ### CAPITULO I. DE LOS PERITOS
 
@@ -653,43 +729,197 @@ IV.- Los demás asuntos que le correspondan de acuerdo a la Ley.
 
 ## TITULO CUARTO
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE ENERO DE 2002)</small>
+
 ### CAPITULO I. DE LAS DEPENDENCIAS
 
 ###### ARTICULO 44.
 
-(DEROGADO, P.O. 30 DE ABRIL DE 1997)
+EL Consejo de la Judicatura es un órgano del Poder Judicial del Estado, con autonomía técnica y de gestión; así como para emitir sus acuerdos y resoluciones; tendrá a su cargo la administración, vigilancia y disciplina del Poder Judicial, con excepción del Pleno, las Salas y los Magistrados del Tribunal Superior de Justicia, así como del personal de apoyo de estas adscripciones; en los términos que señala la Constitución Política Local, la presente ley y demás disposiciones aplicables.
+
+El Consejo se integrará por siete miembros, de los cuales uno lo será el Presidente del Tribunal Superior de Justicia, quien también lo será del Consejo; dos Magistrados Numerarios nombrados por el Pleno del Tribunal mediante votación secreta; un Juez de Primera Instancia y un Juez de Paz, designados por elección directa y secreta entre ellos mismos, conforme el listado que formulará el Pleno del Tribunal de aquellos jueces que hubiesen sido ratificados en sus cargos; un consejero propuesto por el Gobernador del Estado y ratificado por el Congreso del Estado; y un consejero designado por éste, ambos por las dos terceras partes de los diputados presentes, quienes deberán satisfacer los mismos requisitos que se exigen para ser Magistrados. Salvo el Presidente del Consejo, los demás consejeros durarán en sus cargos cinco años, pudiendo ser éstos reelectos únicamente para un período más. Durante su encargo sólo podrán ser removidos en los términos del Título Séptimo de la Constitución Política del Estado y de esta ley.
+
+Los miembros del Consejo de la Judicatura no desempeñarán la función jurisdiccional, con excepción del presidente que integrará Pleno. Los Consejeros no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad.
+
+El Consejo de la Judicatura funcionará en Pleno o en comisiones. En el primer caso, resolverá sobre la designación, adscripción, ratificación, renuncias, licencias y remoción de Jueces de Primera Instancia y de Paz, así como de los servidores públicos auxiliares de la función jurisdiccional, excepto del personal adscrito al Pleno y a las Salas del Tribunal. En el segundo supuesto, sin perjuicio del número de sus integrantes y de las funciones que se determinen, decidirá lo relativo al personal que desempeñe tareas administrativas o de apoyo.
+
+Las decisiones del Consejo de la Judicatura, en la esfera exclusiva de su competencia, serán definitivas e inatacables y, por lo tanto, no procede juicio o recurso alguno en contra de las mismas, salvo las que se refieran a la designación, adscripción, ratificación y remoción de Jueces de Primera Instancia y de Paz, las cuales podrán ser revisadas por el Pleno del Tribunal, únicamente para verificar si fueron o no emitidas conforme a las normas que se establecen en esta ley.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 45.
 
-(DEROGADO, P.O. 30 DE ABRIL DE 1997)
+Para ser Consejero de la Judicatura, se requieren los mismos requisitos que se exigen para ser Magistrado del Tribunal Superior de Justicia, de acuerdo a lo dispuesto por el artículo 57 de la Constitución Política Local.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 46.
 
-(DEROGADO, P.O. 30 DE ABRIL DE 1997)
+El Consejo de la Judicatura, tendrá cada año dos períodos de sesiones. El primero comenzará el primer día hábil del mes de enero y terminará el último día hábil de la primera quincena del mes de julio, y el segundo comenzará el primer día hábil del mes de agosto y terminará el último día hábil de la primera quincena del mes de diciembre. Para sesionar se requiere, cuando menos, la presencia de cuatro de sus integrantes, entre los que deberá estar esencialmente el Presidente. Sus decisiones se tomarán por mayoría o por unanimidad; en caso de empate el Presidente tendrá voto de calidad.
+
+Para el debido cumplimiento de sus funciones, el Consejo de la Judicatura expedirá su reglamento interior, tomando en consideración lo dispuesto al respecto por la Constitución Política Local y esta ley; mismo (sic) que se publicará en el Periódico Oficial del Estado, para los fines de su divulgación y observancia legal.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 47.
 
-(DEROGADO, P.O. 30 DE ABRIL DE 1997)
+Son atribuciones del Pleno del Consejo de la Judicatura:
+
+I.- Nombrar, adscribir, ratificar, remover, otorgar licencia, aceptar renuncias y sancionar, en su caso, a los Jueces de Primera Instancia y de Paz, así como al personal auxiliar de la función jurisdiccional, administrativo o de apoyo, excepto las adscritos al Pleno, a las Salas y a la Presidencia del Tribunal;
+
+II.- Dividir al Estado en Distritos Judiciales, residiendo en ellos los Juzgados de Primera Instancia y de Paz que el mismo Consejo determine;
+
+III.- Expedir acuerdos generales para el ejercicio de sus funciones administrativas, incluyendo los relativos a la carrera judicial; mismos que podrán ser revisados y revocados por las dos terceras partes de los Magistrados Numerarios del Pleno del Tribunal, dentro de los diez días hábiles siguientes a la notificación que el Consejo le haga al Pleno del Tribunal;
+
+IV.- Informar al Pleno del Tribunal respecto de la designación, adscripción, ratificación y remoción de Jueces de Primera Instancia y de Paz;
+
+V.- Integrar comisiones de entre sus miembros para la distribución de las tareas específicas, tendientes a lograr su mejor funcionamiento;
+
+VI.- Administrar los bienes muebles e inmuebles del Poder Judicial, cuidando su mantenimiento, conservación y acondicionamiento, salvo los destinados al Pleno, a las Salas y a la Presidencia del Tribunal;
+
+VII.- A solicitud y aprobación del Pleno del Tribunal, emitir acuerdos generales para asegurar un adecuado ejercicio de la función jurisdiccional;
+
+VIII.- Determinar en el reglamento o disposición administrativa en la materia, los procedimientos, requisitos y criterios de selección, en los que se tomarán en cuenta la carrera judicial, el concurso de su oposición y demás exigencias de orden constitucional; que se aplicarán en la elección de los candidatos, a ocupar el cargo de Magistrado Numerario, para que sean propuestos en los términos que al efecto se establece en la Constitución Local, ante el titular del Poder Ejecutivo, para que éste, de entre ellos, formule la terna que se someterá a la consideración del Congreso del Estado; asimismo, expedir y mantener actualizados, los reglamentos interiores en materia administrativa, que rijan las funciones de los órganos de justicia y sus servidores públicos; los de examen de oposición para ocupar el cargo de Juez de Primera Instancia, de Paz y demás servidores públicos; de la carrera judicial; de escalafón y de regímenes disciplinarios que sean necesarios para el buen funcionamiento del Poder Judicial;
+
+IX.- Nombrar, a propuesta del Consejero Presidente, al Secretario General y al Secretario Auxiliar del Consejo; y a propuesta de los consejeros al personal restante del mismo que reúna los requisitos para el cargo de que se trate. Asimismo podrá remover libremente a los dos primeros y a los demás con causa en los términos de ley;
+
+X.- Recibir, tramitar y resolver las quejas o denuncias por faltas oficiales que se formulen en contra de los servidores públicos del Poder Judicial del Estado, excepto de los reservados para el Pleno del Tribunal. Sus resoluciones serán definitivas e inatacables;
+
+XI.- Otorgar estímulos y recompensas a los servidores públicos del Poder Judicial que se hayan destacado en el desempeño de su cargo;
+
+XII.- Vigilar el funcionamiento del órgano que realice labores de compilación y sistematización de leyes, tesis, ejecutorias y jurisprudencia, así como de la estadística e informática, de la biblioteca y del archivo general;
+
+XIII.- Solicitar al Pleno del Tribunal Superior de Justicia o a las Salas, así como de las unidades de apoyo del Tribunal y de su Magistrado Presidente, la información procedente y opiniones que requiera para el mejor desempeño de sus funciones;
+
+XIV.- Dictar la (sic) bases generales de organización y funcionamiento de sus órganos auxiliares;
+
+XV.- Ordenar, a la Visitaduría Judicial, las visitas periódicas a los Juzgados, para observar la conducta y desempeño del personal; recibiendo las quejas y denuncias que hubiese en contra de ellos. Ejercer las atribuciones que señala esta ley, asi como practicar las visitas especiales o extraordinarias que le solicite el Pleno del Tribunal, dándole cuenta oportuna, en ambos casos, de sus resultados;
+
+XVI.- Elaborar estudios de las leyes y disposiciones reglamentarias relacionadas con la organización y funcionamiento de la administración de justicia;
+
+XVII.- Establecer Oficialías de Partes Común, cuando así lo demanden las necesidades del servicio;
+
+XVIII.- Conocer y resolver respecto de las renuncias de los servidores públicos de confianza, de base y demás personal administrativo del Poder Judicial del Estado, con excepción de lo previsto en esta materia para el Pleno del Tribunal;
+
+XIX.- Conceder licencia, con goce de sueldo hasta por sesenta días, o sin él, por mayor tiempo, y hasta un año, cuando exista causa que lo justifique, al personal de confianza, de base y demás administrativos del Poder Judicial, con excepción de lo reservado al respecto para el Pleno del Tribunal;
+
+XX.- Nombrar y remover, previa consulta con el titular del área, al personal adscrito a la misma, excepto aquellos cuyo nombramiento corresponda al Pleno del Tribunal, de acuerdo a lo dispuesto por la Constitución Política Local, esta ley, su reglamento y demás leyes aplicables;
+
+XXI.- Establecer las bases para la formación y actualización profesional de los servidores públicos del Poder Judicial, auxiliándose para tal efecto del Centro de Especialización Judicial;
+
+XXII.- Supervisar que la aplicación y evaluación de los exámenes de oposición, que se practiquen a los aspirantes de nuevo ingreso o para promover al personal en funciones a cargo superior, se hagan con imparcialidad, objetividad y excelencia académica, en los términos del reglamento de examen de oposición;
+
+XXIII.- Establecer con aprobación del Pleno del Tribunal, los términos, cuantía y condiciones del haber por retiro de los Magistrados y Jueces, con sujeción a lo dispuesto en el reglamento respectivo;
+
+XXIV.- Llevar un control individual de las resoluciones emitidas por los jueces, cuando éstas sean confirmadas, modificadas o revocadas por sus superiores, con la finalidad de tomar medidas para lograr una mejor administración de justicia;
+
+XXV.- Designar a los Jueces de Primera Instancia de los Ramos Civil o Penal, que integrarán la Comisión Técnica de la Coordinación General de Peritos;
+
+XXVI.- Autorizar a los secretarios de los juzgados para desempeñar las funciones de los jueces, en las ausencias temporales de estos, facultándolos para designar secretarios interinos, conforme a los lineamientos que al respecto emita el Consejo;
+
+XXVII.- Crear para el debido cumplimiento de sus atribuciones y obligaciones, conforme las disposiciones presupuestales, las unidades administrativas o de apoyo que se requieran, estableciéndose en el reglamento interior y en los términos de ésta ley y demás ordenamientos aplicables sus funciones;
+
+XXVIII.- Coordinarse con el Pleno del Tribunal Superior de Justicia, para que con el auxilio de la Dirección de Contraloría del Poder Judicial, vigilar que la administración del presupuesto del Poder Judicial sea eficaz, honesta y ajustada a la normatividad aplicable; y
+
+XXIX.- Las demás que las Leyes o Reglamentos le otorguen.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
+
+###### ARTICULO 47 Bis.
+
+Para la ratificación de Magistrados de Número y Jueces, el Congreso del Estado y el Consejo de la Judicatura, en el ámbito de su competencia, tomarán en consideración los siguientes elementos:
+
+I.- El desempeño que se haya tenido en el ejercicio de su función, así como la antigüedad en el Poder Judicial del Estado;
+
+II.- Los resultados de las visitas de inspección para los Jueces; y para los Magistrados de Número, cuando las ordene el Pleno;
+
+III.- El grado académico que comprende el nivel de estudios con que cuente el servidor público, los diversos cursos de actualización y especialización judicial acreditados de manera fehaciente; y, en su caso, la calificación obtenida en el concurso de oposición, así como la experiencia profesional;
+
+IV.- No haber sido sancionado por falta grave, con motivo de una queja o denuncia presentada en su contra de carácter administrativa; y
+
+V.- Los demás que estimen pertinentes.
+
+En los casos de la ratificación del Magistrado de Número que corresponda, el Presidente del Tribunal dará aviso de la proximidad del vencimiento del período del nombramiento al Gobernador del Estado y lo comunicará al Congreso del Estado, con una anticipación de seis meses cuando menos, acompañándose a éste el expediente personal o administrativo que se llevare, el cual, además, habrá de contener un informe estadístico de las tareas jurisdiccionales en el desempeño del cargo en cuestión. La Cámara de Diputados, por conducto de la Comisión Legislativa que corresponda, examinará lo concerniente a la actuación del interesado, pudiendo recabar todas aquéllas constancias que estimare pertinentes, y someterá ante el Pleno en tiempo y forma el dictamen que legalmente procediere, antes del vencimiento del período del nombramiento del Magistrado de que se trate.
+
+Tratándose de similar circunstancia para la ratificación de los Jueces, el Consejo de la Judicatura, a través de la Comisión competente, seguirá en lo conducente el procedimiento antes señalado, con la salvedad de que se omitirán las notificaciones a los Poderes Ejecutivo y Legislativo del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 48.
 
-(DEROGADO, P.O. 30 DE ABRIL DE 1997)
+El Consejo de la Judicatura, para el cumplimiento de sus atribuciones será apoyado por las unidades administrativas que conforman orgánicamente al Tribunal Superior de Justicia.
+
+Las resoluciones del Pleno y de las comisiones del Consejo constarán en acta y deberán firmarse por los presidentes y secretarios respectivos, notificándose personalmente a la brevedad posible a las partes interesadas.
+
+Cuando el Pleno del Consejo estime que sus reglamentos, acuerdos o resoluciones o de las comisiones pudiere resultar de interés general, deberá ordenar su publicación en el Periódico Oficial del Estado.
+
+Al clausurar sus periodos ordinarios de sesiones, el Pleno designará a los Consejeros que deban proveer los trámites y resolver los asuntos urgentes que se presenten durante los recesos, así como al personal necesario para apoyar sus funciones. Al reanudarse el siguiente periodo ordinario de sesiones, dichos Consejeros darán cuenta al Pleno del Consejo de las medidas emergentes que hayan tomado, para que éste acuerde lo que proceda.
+
+Las renuncias, destituciones o ausencias absolutas de los Consejeros, serán cubiertas mediante el mismo procedimiento que para su designación señalan los artículos 55 Bis de la Constitución Política Local y 44 de esta ley.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 49.
 
-(DEROGADO, P.O. 30 DE ABRIL DE 1997)
+El Consejo de la Judicatura en consulta con el Pleno del Tribunal Superior de Justicia, constituirá el Consejo de Administración del Centro de Especialización Judicial y tendrá las facultades siguientes:
+
+I.- Aprobar los planes de trabajo, el Reglamento Interior y la estructura orgánica del Centro;
+
+II.- Conocer los informes de actividades que realice el Centro; y
+
+III.- Establecer las políticas para el otorgamiento de apoyo a los servidores públicos del Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 50.
 
-(DEROGADO, P.O. 30 DE ABRIL DE 1997)
+Son atribuciones del Presidente del Consejo de la Judicatura, las siguientes:
+
+I.- Presidir el Consejo, participar en comisiones, dirigir los debates, conservar el orden en las sesiones y llevar la correspondencia del Consejo;
+
+II.- Convocar a los integrantes del Consejo a sesiones ordinarias o extraordinarias cada vez que lo estime necesario, señalando si serán públicas o privadas;
+
+III.- Ejercer, a través de la Tesorería Judicial, el presupuesto de egresos del Poder Judicial, en lo que atañe al Consejo de la Judicatura, a sus órganos y unidades de apoyo, excepto, el correspondiente al Pleno y a las Salas del Tribunal;
+
+IV.- Resolver los asuntos cuya atención no admita demora, dada su importancia y trascendencia;
+
+V.- Vigilar el funcionamiento de los órganos auxiliares y de las unidades administrativas del Consejo de la Judicatura;
+
+VI.- Supervisar la publicación de la Revista del Poder Judicial;
+
+VII.- Hacer del conocimiento del Consejo en Pleno, las faltas absolutas de los Jueces y demás servidores públicos del Poder Judicial, con excepción de los del Tribunal Superior de Justicia;
+
+VIII.- Recibir quejas o denuncias por faltas cometidas por los servidores públicos del Poder Judicial, con excepción de los del Tribunal Superior de Justicia, en los casos previstos en esta ley o sobre incumplimiento de las obligaciones establecidas en el artículo 47 de la Ley de Responsabilidades de los Servidores Públicos, turnándolas, en su caso, a quien corresponda. Sobre cualquier otra queja, dictará las providencias necesarias para su inmediata corrección, si aquéllas fueren leves y si son graves, dará cuenta al pleno;
+
+IX.- Vigilar que los Jueces rindan oportunamente el informe de sus actividades;
+
+X.- Ejercer las atribuciones que esta ley le encomienda en lo relativo al archivo judicial, en materia editorial y la biblioteca;
+
+XI.- Ser considerado como titular, en los asuntos laborales relacionados con el personal comprendido dentro del ámbito de la competencia del Consejo de la Judicatura; y
+
+XII.- Las demás que determinen las leyes, el Pleno, los reglamentos y acuerdos generales.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 51.
 
-(DEROGADO, P.O. 30 DE ABRIL DE 1997)
+El Secretario General del Consejo tendrá las atribuciones siguientes:
+
+I.- Recibir y tramitar los asuntos de la competencia del Consejo de la Judicatura;
+
+II.- Desahogar la correspondencia oficial del Consejo, dando cuenta de ello al Presidente y al Pleno del Consejo;
+
+III.- Certificar, autorizar y dar fe de las actuaciones del Pleno del Consejo de la Judicatura y del Presidente;
+
+IV.- Coordinar y supervisar las funciones de las unidades administrativas y judiciales del Consejo de la Judicatura; y
+
+V.- Las demás que le asignen las leyes y reglamentos.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 52.
 
-(DEROGADO, P.O. 30 DE ABRIL DE 1997)
+Para ser Secretario General del Consejo de la Judicatura, se requieren los mismos requisitos que se exigen para ser Juez de Primera Instancia.
 
 ## TITULO QUINTO. DE LOS AUXILIARES DE LA ADMINISTRACION DE JUSTICIA
 
@@ -797,6 +1027,8 @@ Respecto a los demás interventores, se observarán en lo que fuera compatible, 
 
 ### CAPITULO IV. DEL ARCHIVO JUDICIAL
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 69.
 
 Los albaceas, interventores de sucesiones, tutores o curadores, provisionales o definitivos, deberán satisfacer los requisitos establecidos para ser síndicos o interventores de concurso. Sus funciones serán las que dispongan las Leyes, independientemente de que fueren designados por los Tribunales o los litigantes.
@@ -812,6 +1044,8 @@ Todos los auxiliares de la Administración de Justicia quedarán sujetos a las s
 ## TITULO SEXTO. OTRAS DEPENDENCIAS DEL PODER JUDICIAL
 
 ### CAPITULO V. DE LA BIBLIOTECA
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 72.
 
@@ -833,7 +1067,13 @@ VII.- Centro de Especialización Judicial;
 
 VIII.- Comisión Editorial;
 
-IX.- Las demás que el servicio requiere y autorice el Pleno, previa suficiencia presupuestal.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2002)</small>
+
+IX.- Dirección de Contraloría; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE ENERO DE 2002)</small>
+
+X.- Las demás que el servicio requiera y autoricen en sus respectivas competencias, el Pleno del Tribunal Superior de Justicia y del Consejo de la Judicatura.
 
 ### CAPITULO VI. DE LA COMISION EDITORIAL
 
@@ -845,7 +1085,9 @@ I.- Un Oficial Mayor;
 
 II.- Un Contador Cajero;
 
-III.- Las Oficialías de partes que el Pleno del Tribunal determine;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
+
+III.- Las Oficialías de partes que respectivamente los Plenos del Tribunal Superior de Justicia y del Consejo de la Judicatura determinen; y
 
 IV.- El personal necesario para su funcionamiento.
 
@@ -867,33 +1109,49 @@ Son obligaciones del Oficial Mayor:
 
 I.- Fungir como Jefe inmediato del personal;
 
-II.- Ejecutar las medidas administrativas que acuerde el Tribunal en el Pleno en relación con el personal y el presupuesto;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
+
+II.- Ejecutar las medidas administrativas que acuerden, en el ámbito de sus respectivas competencias, el Pleno del Tribunal o del Consejo de la Judicatura, en relación con el personal y el presupuesto del Poder Judicial;
 
 III.- Expedir constancias relacionadas con expedientes del personal;
 
-IV.- Llevar el control del presupuesto, mediante la información que le proporcione la Tesorería, informando mensualmente al Pleno, del Estado que guardan las partidas, turnándole relación de gastos;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
 
-V.- Asistir a las sesiones del Tribunal Pleno en asuntos administrativos;
+IV.- Llevar el control del presupuesto, mediante la información que le proporcione la Tesorería, informando mensualmente al Pleno del Tribunal y al Consejo de la Judicatura, del estado que guardan las partidas, turnándole relación de gastos;
 
-VI.- Dotar, previo acuerdo del Pleno, a las Dependencias del Poder Judicial de equipo y material de trabajo y demás enseres, vigilar y procurar la conservación y el buen estado de las oficinas y pertenencias del Poder Judicial;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
 
-VII.- Tramitar los nombramientos, licencias, permisos y bajas que acuerde el Pleno o el Presidente del Tribunal, según el caso;
+V.- Asistir a las sesiones del Pleno del Tribunal y del Consejo;
 
-VIII.- Las demás que el Tribunal Pleno o el Presidente le señale.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
+
+VI.- Dotar, previo acuerdo del Presidente del Tribunal o del Consejo, a las dependencias y órganos del Poder Judicial, de equipo, material de trabajo y demás enseres; vigilar y procurar la conservación y el buen estado de las oficinas y pertenencias del Poder Judicial;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
+
+VII.- Tramitar los nombramientos, licencias, permisos, renuncias y bajas que acuerden el Pleno del Tribunal o del Consejo, según el caso; y
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
+
+VIII.- Las demás que el Tribunal o el Consejo le señale.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 76.
 
-Son obligaciones de los Oficiales de Partes:
+Los Oficiales de Partes tendrán las obligaciones siguientes:
 
-I.- Recepcionar demandas, consignaciones, promociones, escritos y toda clase de correspondencia dirigida al Tribunal o Juzgados de su adscripción, turnándola a quien corresponda en la forma que establezca el reglamento;
+I.- Recepcionar demandas, consignaciones, promociones, escritos y toda clase de correspondencia dirigida al Tribunal, Consejo de la Judicatura o a los Juzgados, turnándolas a la brevedad posible a quien corresponda;
 
-II.- Remitir a su destino la correspondencia propia de la Dependencia Judicial de su adscripción;
+II.- Llevar una relación diaria de los asuntos que reciba y turne, asentando en los libros que el Oficial Mayor disponga para ese efecto; y
 
-III.- Llevar una relación diaria de los asuntos que reciba y turne, asentando en los Libros que el Oficial Mayor disponga para ese efecto.
+III.- Las demás que le ordenen las leyes, reglamentos, el Tribunal o el Consejo.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 77.
 
-El Pleno determinará el personal que se requiera para el ejercicio de las funciones encomendadas a las Oficialías de Partes.
+El Consejo de la Judicatura determinará el personal que se requiera para el desempeño de las funciones de las Oficialías de Partes que dependan funcionalmente de los órganos jurisdiccionales de su competencia administrativa.
 
 ### CAPITULO VII. DEL CENTRO DE ESTADISTICAS, INFORMATIVA Y COMPUTACION
 
@@ -907,23 +1165,33 @@ II.- Un Departamento de consignación y pagos;
 
 III.- Un Departamento de Contabilidad.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 79.
 
-Para ser Tesorero se requieren los mismos requisitos exigidos para el Oficial Mayor, salvo el de la profesión, que en este caso debe ser un Contador Público Titulado.
+Para ser Tesorero Judicial se requieren los mismos requisitos exigidos para el Oficial Mayor.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 80.
 
-Son obligaciones del Tesorero:
+El Tesorero tendrá las facultades y obligaciones siguientes:
 
-I.- Efectuar puntualmente los pagos de nóminas y demás erogaciones que acuerde el Tribunal;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1998)</small>
+I.- Efectuar puntualmente los pagos de nóminas y demás erogaciones autorizadas conforme al presupuesto;
 
-II.- Elaborar mensualmente el informe relativo al avance financiero y presupuestal y, en representación del Presidente del Tribunal, remitirlo dentro de los siguientes treinta días del mes correspondiente, a la Contaduría Mayor de Hacienda. Asimismo, enviar trimestralmente a la citada Contaduría dentro de los treinta días siguientes del trimestre respectivo, la cuenta pública del Poder Judicial, para su revisión y calificación trimestral;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
 
-III.- Practicar las retenciones, descuentos y multas que ordene el Tribunal;
+II.- Elaborar mensualmente el informe relativo al avance financiero y presupuestal y, en representación del Presidente del Tribunal, remitirlo dentro de los siguientes treinta días del mes correspondiente, a la Contaduría Mayor de Hacienda. Asimismo, enviar anualmente a la citada Contaduría, a más tardar el treinta y uno de marzo del año siguiente, la cuenta pública del Poder Judicial, debidamente comprobada y con la información suficiente en los términos de la ley aplicable, para su examen y calificación anual;
 
-IV.- Recibir depósitos por pagos y fianzas y efectuar las devoluciones correspondientes;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
+
+III.- Practicar las retenciones, descuentos y multas procedentes;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
+
+IV.- Recibir depósitos por pagos y fianzas y efectuar las devoluciones correspondientes; y
 
 V.- Las demás relacionadas con su encargo.
 
@@ -931,7 +1199,7 @@ V.- Las demás relacionadas con su encargo.
 
 ###### ARTICULO 81.
 
-El Pleno del Tribunal tomará las medidas que estime convenientes para el funcionamiento y buena conservación del Archivo Judicial.
+El Consejo de la Judicatura tomará las medidas que estime convenientes para el funcionamiento y buena conservación del Archivo Judicial.
 
 ###### ARTICULO 82.
 
@@ -943,9 +1211,13 @@ Sin ser parte de la Oficialía Mayor, estará bajo el cuidado y vigilancia de es
 
 Se depositarán en el Archivo Judicial:
 
-I.- Todos los expedientes del Orden Civil, familiar, Mercantil y Penal, concluidos por el Tribunal y los Juzgados, así como los expedientes administrativos que determine el Tribunal Superior de Justicia;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
 
-II.- Los expedientes que, aun cuando no estén concluídos, hayan dejado de tramitarse por cualquier motivo durante más de un año, en materia Civil y Mercantil;
+I.- Todos los expedientes del orden civil, familiar, mercantil y penal, concluidos por el Tribunal y los Juzgados, así como los expedientes administrativos que determine el Tribunal y el Consejo de la Judicatura;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
+
+II.- Los expedientes que, aun cuando no estén concluidos, hayan dejado de tramitarse por cualquier motivo durante más de un año, en materia Civil y Mercantil; y
 
 III.- Los demás documentos que las Leyes determinen.
 
@@ -953,13 +1225,17 @@ III.- Los demás documentos que las Leyes determinen.
 
 Para su mejor funcionamiento el Archivo deberá dividirse por departamento según sea la materia y conforme el artículo que antecede.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 85.
 
-Los Tribunales, al remitir los expedientes al archivo, para su resguardo, llevarán un Libro en el cual harán constar en forma de inventario, lo que contenga cada remisión, El Jefe del Archivo acusará recibo de cada remisión, dando cuenta al Oficial Mayor.
+Quienes remitan los expedientes al archivo para su resguardo llevarán un libro, en el cual harán constar en forma de inventario lo que contenga cada remisión; el Jefe del Archivo acusará recibo de cada remisión, dando cuenta de ello al Oficial Mayor.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 86.
 
-Los expedientes y documentos recibidos en el archivo, serán anotados en un Libro de entradas para cada Juzgado en el lugar que corresponda y del Tribunal procurando que no sufran deterioro. Debiendo, además, registrarse en las tarjetas de índices.
+Los expedientes y documentos recibidos en el archivo, serán anotados en un libro de entradas para cada órgano o dependencia remitente, procurando que no sufran deterioro. Debiendo, además, registrarse en las tarjetas de índices.
 
 ###### ARTICULO 87.
 
@@ -973,39 +1249,49 @@ La vista o examen de los libros, documentos o expedientes del archivo, podrá pe
 
 No se permitirá por ningún motivo a los empleados del archivo que extraigan del mismo, documento o expediente de ninguna clase.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 90.
 
-La falta de remisión al archivo de los expedientes que lo ameriten, por los Jueces, será sancionada disciplinariamente por el Presidente del Tribunal Superior de Justicia.
+La falta de remisión oportuna al archivo de los expedientes que lo ameriten, será sancionada disciplinariamente por el Consejo de la Judicatura.
 
 ###### ARTICULO 91.
 
 Cualquier defecto, irregularidad o infracción que advierta el Jefe del Archivo en los expedientes y documentos que se le remitan para su deposito, lo comunicará inmediatamente al Oficial Mayor.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 92.
 
-El reglamento respectivo fijará las atribuciones de los empleados del archivo judicial y determinará la forma de los asentamientos, índices y libros que en la misma oficina deben llevarse y el Presidente del Tribunal o el Oficial Mayor podrán acordar en todos los casos, las medidas que crean convenientes.
+El reglamento respectivo fijará las atribuciones de los empleados del Archivo Judicial y determinará la forma de los asentamientos, índices y libros que en la misma oficina deben llevarse. El Presidente del Consejo de la Judicatura o el Oficial Mayor podrán acordar en todos los casos las medidas que crean convenientes.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 93.
 
-El Archivo Judicial tendrá sus oficinas centrales en la Ciudad de Villahermosa; si las necesidades del servicio lo requieren podrá establecer, previo acuerdo del Pleno, oficinas en otros Distritos Judiciales del Estado.
+El Archivo Judicial tendrá sus oficinas centrales en la Ciudad de Villahermosa; si las necesidades del servicio lo requiere podrá establecer, previo acuerdo del Pleno del Consejo, oficinas en otros Distritos Judiciales del Estado.
 
 ###### ARTICULO 94.
 
 El Jefe del Archivo podrá expedir, previa autorización del Presidente del Tribunal, Presidentes de Salas, Secretario General de Acuerdos del Tribunal o de la Autoridad remisora, copia autorizada de los documentos o expedientes que estén depositados en el archivo.
 
-### CAPITULO I. DE LAS RESPONSABILIDADES
+### CAPITULO IX. DE LA DIRECCION DE CONTRALORIA JUDICIAL
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 95.
 
-La Biblioteca del Tribunal Superior de Justicia deberá ocupar un departamento especial del edificio en que reside el Tribunal y estará a cargo de un Jefe de Area o Bibliotecario, bajo el cuidado y vigilancia de la Oficialía Mayor.
+La Biblioteca del Poder Judicial estará a cargo de un Jefe de Area o Bibliotecario, bajo el cuidado y vigilancia del Consejo de la Judicatura y del Oficial Mayor.
 
 ###### ARTICULO 96.
 
 La Biblioteca estará de preferencia al servicio del Tribunal y de sus Salas; pero los demás servidores del ramo de justicia podrán consultar sus libros así como todas las personas que lo deseen.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 97.
 
-El horario de la Biblioteca será fijado por el Presidente del Tribunal, adecuándolo a las necesidades del servicio.
+El horario de la Biblioteca será fijado por el Presidente del Consejo, adecuándolo a las necesidades del servicio, procurando que esté en servicio en los períodos de receso o vacaciones.
 
 ###### ARTICULO 98.
 
@@ -1017,17 +1303,49 @@ Corresponde al Bibliotecario:
 
 I.- Formar un inventario alfabético, por nombres de autores de todos los libros y documentos de la Biblioteca y uno general de muebles y útiles del servicio de la misma, usando de preferencia el sistema de cómputo;
 
-II.- Ordenar las obras de la Biblioteca conforme al sistema de clasificación adoptado por el Tribunal y formar catálogo de ellas, entregando copia de él al Presidente del Tribunal pudiendo publicarse en algún medio informativo del Tribunal;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
+
+II.- Ordenar las obras que se encuentren en la biblioteca y formar un catálogo de ellas;
 
 III.- Formar cada semestre listas de obras nuevas para su compra y de otras para empastar y entregárselas al Oficial Mayor, presentando presupuesto de su costo y encuadernación;
 
 IV.- Conservar en buen estado los libros y documentos, así como los muebles y útiles, dando cuenta del deterioro que sufran;
 
-V.- Distribuir las labores entre él y sus ayudantes para el mejor funcionamiento;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
+
+V.- Distribuir las labores entre él y sus ayudantes para el mejor funcionamiento; y
 
 VI.- Llevar una estadística de asistencia de lectores a la Biblioteca.
 
-### CAPITULO II. DE LAS FALTAS OFICIALES
+### CAPITULO X. DE LA VISITADURIA JUDICIAL
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
+
+###### ARTICULO 106 Bis 5.
+
+La Visitaduría Judicial es el órgano auxiliar del Consejo de la Judicatura, competente para inspeccionar el funcionamiento de los Juzgados del Poder Judicial, y para supervisar las conductas de los integrantes de estos órganos.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
+
+###### ARTICULO 106 Bis 6.
+
+Las funciones que en esta ley se confieren a la Visitaduría Judicial serán ejercidas por los visitadores, quienes tendrán el carácter de representantes del Consejo de la Judicatura.
+
+Los visitadores deberán satisfacer los siguientes requisitos: ser mayor de treinta y cinco años, gozar de buena reputación, no tener condena por delito con pena privativa de libertad mayor de un año, título de licenciado en derecho legalmente expedido y práctica profesional de cuando menos diez años; su designación se hará por el propio Consejo mediante el concurso de oposición que se lleve a cabo en términos de lo previsto en esta ley para el nombramiento de magistrado o juez.
+
+El Consejo de la Judicatura establecerá, mediante acuerdos generales, los sistemas que permitan evaluar de manera periódica el desempeño y la honorabilidad de los visitadores para efectos de lo que se dispone en esta ley en materia de responsabilidad.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
+
+###### ARTICULO 106 Bis 7.
+
+Los visitadores, de acuerdo con los sorteos periódicos que realice el Consejo de la Judicatura, deberán inspeccionar de manera ordinaria los Juzgados y demás áreas de su competencia, cuando menos dos veces por año, de conformidad con las disposiciones generales que emita el Consejo de la Judicatura en esta materia.
+
+Ningún visitador podrá visitar los mismos órganos por más de dos años.
+
+Los visitadores deberán informar con la debida oportunidad al titular del órgano jurisdiccional o del área correspondiente, de la visita ordinaria de inspección que vayan a practicar a fin de que procedan a fijar el correspondiente aviso en los estrados del órgano con una anticipación mínima de quince días, para el efecto de que las personas interesadas puedan acudir a la visita y manifestar sus quejas o denuncias.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 100.
 
@@ -1037,7 +1355,9 @@ La Comisión Editorial estará integrada por los Magistrados, Jueces y demás Se
 
 La Comisión Editorial estará encargada de la edición, publicación y distribución del medio informativo del Tribunal Superior de Justicia y del Boletín Judicial.
 
-### CAPITULO III. DE LAS SANCIONES
+### CAPITULO I. DE LAS RESPONSABILIDADES
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 102.
 
@@ -1067,7 +1387,7 @@ IX.- Llevar un registro de consignación de pensión alimenticia y rentas, cauci
 
 X.- Elaborar anualmente la Estadística Judicial, comprendiendo todas las variables de interés judicial científico.
 
-### CAPITULO I. DEL PERSONAL
+### CAPITULO II. DE LAS FALTAS OFICIALES
 
 ###### ARTICULO 104.
 
@@ -1091,31 +1411,145 @@ IV.- Promover entre el personal del Poder Judicial cursos de capacitación y act
 
 V.- Realizar las demás funciones y asumir las responsabilidades que las disposiciones legales le asignen, así como las que le confiera la superioridad.
 
-### CAPITULO II. DE LA SUPLENCIA DE LOS SERVIDORES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2002)</small>
 
-### CAPITULO III. DE LOS IMPEDIMENTOS Y EXCUSAS
+### CAPITULO III. DE LAS SANCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 2002)</small>
+
+###### ARTICULO 106 Bis.
+
+La Dirección de Contraloría del Poder Judicial, tendrá en su encargo las facultades de control interno y coadyuvancia en la inspección del cumplimiento de las normas de funcionamiento administrativo que rijan a los órganos, servidores públicos y empleados del propio Poder Judicial, con excepción de aquellas que correspondan al Tribunal Superior de Justicia; y sin perjuicio de las atribuciones de la Visitaduría Judicial.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
+
+###### ARTICULO 106 Bis 1.
+
+La Dirección de Contraloría, estará integrada por un director y el personal de apoyo que asigne el presupuesto de egresos, los cuales serán nombrados por el Pleno del Consejo de la Judicatura, a propuesta de su Presidente. Tratándose del Director, habrá de presentarse una terna con los antecedentes profesionales de los interesados, de los que habrá de seleccionarse al titular.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
+
+###### ARTICULO 106 Bis 2.
+
+Para ser Director de Contraloría, se requiere:
+
+I.- Ser ciudadano mexicano por nacimiento;
+
+II.- Tener preferentemente, Título Profesional de Licenciado en Contaduría Pública, Licenciado en Administración u otro equivalente a juicio del Consejo de la Judicatura;
+
+III.- Tener práctica profesional en el ejercicio de las tareas propias o afines del control interno, no menor de tres años;
+
+IV.- Ser de reconocida solvencia moral; y
+
+V.- No haber sido sentenciado por delito doloso que amerite sanción privativa de libertad.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
+
+###### ARTICULO 106 Bis 3.
+
+La Dirección de Contraloría tendrá las facultades y obligaciones siguientes:
+
+I.- Vigilar el cumplimiento de las normas de control interno establecidas por el Consejo de la Judicatura;
+
+II.- Diseñar las políticas, planes de trabajo, sistemas y acciones, para el logro de su objetivo institucional de fiscalización y evaluación;
+
+III.- Acatar y verificar su cumplimiento de las normas que expida el Consejo de la Judicatura y regulen el funcionamiento de los instrumentos y procedimientos de control administrativo del Poder Judicial;
+
+IV.- Practicar auditorías financieras a juzgados y unidades administrativas, informando al Pleno del Consejo el resultado de las mismas;
+
+V.- Dar seguimiento a las observaciones y recomendaciones que deriven de las visitas practicadas;
+
+VI.- Emitir en los términos de las leyes y disposiciones administrativas aplicables, para su aprobación por el Consejo de la Judicatura, las normas, políticas y lineamientos que las dependencias correspondientes hayan de observar en las adquisiciones, enajenaciones y baja de bienes muebles; arrendamientos, contratación de servicios y, en su caso, obras públicas del Poder Judicial;
+
+VII.- Establecer con base en la ley de la materia, para su aprobación por el Consejo de la Judicatura, las normas en materia de registro contable, control presupuestal y supervisar su cumplimiento;
+
+VIII.- Evaluar las funciones de los juzgados y unidades administrativas, formulando las recomendaciones que estime conducentes al logro de las metas institucionales y de una mayor eficiencia administrativa;
+
+IX.- Recibir, registrar y requerir las declaraciones patrimoniales y sus modificaciones que presenten los servidores públicos del Poder Judicial; comprobando la exactitud y veracidad de ellas y comunicar al Presidente del Consejo las irregularidades que en su caso se detecten;
+
+X.- Proponer a la consideración del Consejo de la Judicatura las estructuras orgánicas y ocupacionales de las dependencias, así como registrar dichas estructuras a través de la expedición de manuales administrativos;
+
+XI.- Evaluar, proponer e instrumentar los mecanismos necesarios en la gestión pública para el desarrollo administrativo integral en las dependencias y unidades administrativas, a fin de que los recursos humanos y materiales y los procedimientos técnicos de las mismas sean aprovechados y aplicados con criterios de eficacia y simplificación administrativa;
+
+XII.- Organizar y realizar los actos de entrega-recepción que se lleven a efecto con motivo de la rotación de Jueces, Secretarios Judiciales y otros servidores públicos;
+
+XIII.- Proponer para su aprobación por el Consejo de la Judicatura las normas, procedimientos y medidas de control aplicables al manejo de efectivo en los juzgados y vigilar su estricto cumplimiento;
+
+XIV.- Analizar, diseñar y controlar las formas impresas de uso interno, procurando su adecuación a los sistemas y procedimientos establecidos;
+
+XV.- Homologar sus sistemas de verificación contable presupuestal con los existentes en la Contaduría Mayor de Hacienda del Congreso del Estado;
+
+XVI.- Formar un expediente de la diligencia o auditoría que se practique, el cual deberá incluir los papeles de trabajo y documentación correspondiente. Será motivo de responsabilidad del director y sus auxiliares el que no se forme el expediente o que se integre de manera incompleta;
+
+XVII.- Mantener en sus diligencias y procedimientos la más absoluta reserva y abstenerse de comunicar a los interesados o a terceros el resultado de sus indagaciones. La infracción de esta disposición será motivo de separación del cargo de los responsables, independientemente de otras responsabilidades que le correspondan conforme a la ley;
+
+XVIII.- Auxiliar al Pleno del Tribunal Superior de Justicia y al Consejo de la Judicatura, en la coordinación que éstos realicen, para vigilar que la administración del presupuesto del Poder Judicial sea eficaz, honesta y ajustada a la normatividad aplicable, ejecutando las acciones operativas que se instruyan y las procedentes para tal efecto, informando de su resultado a aquéllos para los efectos legales a que hubiere lugar; y
+
+XIX.- Las demás que determinen las Leyes, los Reglamentos y acuerdos generales correspondientes.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
+
+###### ARTICULO 106 Bis 4.
+
+La Dirección de Contraloría del Poder Judicial, dependerá directamente del Consejo de la Judicatura y operativamente de la Comisión que se designare al respecto.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2002)</small>
+
+### CAPITULO I. DEL PERSONAL
+
+###### ARTICULO 106 Bis 8.
+
+En las visitas ordinarias, los visitadores tomando en cuenta las particularidades de cada órgano realizarán, además de lo que específicamente determine el Consejo de la Judicatura, lo siguiente:
+
+I.- Pedirán la lista del personal para comprobar su asistencia;
+
+II.- Verificarán que los valores estén debidamente guardados, ya sea en la caja de seguridad del órgano visitado, o en alguna institución de crédito;
+
+III.- Comprobarán si se encuentran debidamente asegurados los instrumentos y objetos del delito y si los que son competencia de otra autoridad han sido canalizados a la misma;
+
+IV.- Revisarán los libros de gobierno a fin de determinar si se encuentran en orden y contienen los datos requeridos;
+
+V.- Harán constar, según la competencia del juzgado que revisen, el número de asuntos penales y civiles, que hayan ingresado al órgano visitado durante el tiempo que comprenda la visita, y determinarán si los procesados que disfrutan de libertad caucional han cumplido con la obligación de presentarse en los plazos fijados, y si en algún proceso en suspenso transcurrió el término de prescripción de la acción penal;
+
+VI.- Examinarán los expedientes formados con motivos de causas penales y civiles, según el caso, que se estime conveniente a fin de verificarse que se llevan con arreglo a la ley; si las resoluciones y acuerdos han sido dictados y cumplidos oportunamente; si las notificaciones y diligencias se efectuaron en los plazos legales; si los exhortos y despachos han sido diligenciados y si se han observado los términos constitucionales y demás garantías que la Constitución Política de los Estados Unidos Mexicanos otorga a los procesados.
+
+Cuando el visitador advierta que en un proceso se venció el término para dictar sentencia, recomendará que ésta se pronuncie a la brevedad posible. En cada uno de los expedientes revisados, se pondrá la constancia respectiva.
+
+De toda visita de inspección deberá levantarse acta circunstanciada, en la cual se hará constar el desarrollo de la misma, las quejas o denuncias presentadas en contra de los titulares y demás servidores del órgano de que se trate, las manifestaciones que respecto de la visita o del contenido del acta quisieran realizar los propios titulares o servidores del órgano, y la firma del juez que corresponda y la del visitador.
+
+El acta levantada por el visitador será entregada al titular del órgano visitado, a fin de que determine lo que corresponda y, en caso de responsabilidad, dé vista al Consejo de la Judicatura para que proceda en los términos previstos en esta ley.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
+
+###### ARTICULO 106 Bis 9.
+
+El Consejo de la Judicatura podrá ordenar al titular de la Visitaduría Judicial la celebración de visitas extraordinarias de inspección o la integración de comités de investigación, siempre que a su juicio, o a solicitud del Pleno o del Presidente del Tribunal Superior de Justicia, existan elementos que hagan presumir irregularidades cometidas por un juez o demás personal de un juzgado o de otro órgano que sea competencia del Consejo de la Judicatura.
+
+Asimismo, la Visitaduría Judicial podrá auxiliar al Magistrado de Número que el Pleno designe, para llevar a cabo las visitas a que se refiere el artículo 14, fracción XXVII de esta ley.
 
 ## TITULO SEPTIMO. DE LA RESPONSABILIDAD OFICIAL, FALTAS Y SANCIONES
 
-### CAPITULO IV. DE LAS VISITAS A LOS RECLUSORIOS
+### CAPITULO II. DE LA SUPLENCIA DE LOS SERVIDORES
 
 ###### ARTICULO 107.
 
-Los Magistrados, Jueces y demás Servidores del Poder Judicial, serán responsables de las faltas y delitos oficiales que cometan en el ejercicio de sus cargos, debiendo quedar sujetos al procedimiento que determine la Constitución Política del Estado, las Leyes Penales, este ordenamiento y las aplicables al caso.
+Los Magistrados, miembros del Consejo de la Judicatura, Jueces y demás servidores Públicos del Poder Judicial, serán responsables y sancionados por las faltas oficiales, actos u omisiones y delitos que cometan durante el ejercicio de su cargo, conforme a lo que disponen los artículos 108 a 111 de la Constitución General de la República, 62, 66 a 73 de la Constitución Política Local, las leyes penales, la Ley de Responsabilidades de los Servidores Públicos del Estado de Tabasco, esta ley y demás ordenamientos aplicables.
 
-A los servidores a quienes se refiere el párrafo anterior, cuando se les instruya procesos por delitos oficiales o comunes, quedarán suspendidos provisionalmente de sus cargos al decretárseles Auto de Formal Prisión o Sujeción a Proceso. Si la sentencia fuere condenatoria ameritará su separación definitiva, previo acuerdo del Pleno. Cuando los Servidores Públicos del Poder Judicial, cometan actos que pudieran constituir delito, independientemente de la falta que se sancionare y, sin perjuicio de la responsabilidad oficial, el Juez o el Presidente del Tribunal, deberán formular la denuncia correspondiente ante el Ministerio Público.
+Cuando a dichos servidores públicos se le (sic) instruya proceso penal por la posible comisión de algún delito, quedarán separados provisionalmente de sus cargos a partir de la declaración de procedencia si ésta se requiera y en los demás casos, a partir de que se decrete auto de formal prisión o de sujeción a proceso, previa declaración del Pleno del Tribunal o del Consejo de la Judicatura, según el caso. Si la sentencia es condenatoria ameritará la separación definitiva, pero si es absolutoria podrán reasumir su función.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 108.
 
-Toda queja o denuncia en contra de Servidores Públicos de la Administración de Justicia, deberá formularse por escrito, expresando el denunciante su nombre completo y domicilio.
+Toda queja o denuncia en contra de los servidores públicos del Poder Judicial, deberá formularse por escrito, expresando el denunciante su nombre completo y domicilio.
 
-Pero si se trata de persona de condición económica precaria, con nula o escasa instrucción o con domicilio fuera de la capital, podrá presentar verbalmente su queja o denuncia ante el Presidente del Tribunal, quien ordenará al Secretario General de Acuerdos que la reciba para iniciar la investigación correspondiente.
+La persona de condición económica precaria, con nula o escasa instrucción o con domicilio fuera de la capital, podrá presentar verbalmente su queja o denuncia ante el Presidente del Tribunal o del Consejo de la Judicatura, según el caso; quien ordenará al Secretario General de Acuerdos o al Secretario General, respectivamente, que la reciba para iniciar la investigación correspondiente; los visitadores también las podrán recibir y las turnarán a este último.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 109.
 
-Solo tendrán personalidad para interponer queja o denuncia por la comisión de faltas o delitos oficiales:
+Sólo tendrán personalidad para interponer queja o denuncia por la comisión de faltas oficiales:
 
 I.- Las partes en el juicio en que se cometieran, sean personas físicas o morales;
 
@@ -1123,11 +1557,17 @@ II.- Los abogados postulantes, si se cometieren en los juicios que patrocinen;
 
 III.- El Ministerio Público en los negocios en que tenga intervención legal;
 
-IV.- Las Asociaciones o Colegio de Abogados legalmente reconocidos;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
 
-V.- Cualquier persona que se ostente como agraviada por la falta o delito cometido, cuando se ejecute sin que exista juicio o negocio jurídico de por medio.
+IV.- Las Asociaciones o Colegio de Abogados legalmente reconocidos; y
 
-### CAPITULO V. DE LOS ESTIMULOS Y RECOMPENSAS
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
+
+V.- Cualquiera persona que se ostente como agraviada por la falta cometida, cuando se ejecute sin que exista juicio o negocio jurídico de por medio.
+
+### CAPITULO III. DE LOS IMPEDIMENTOS Y EXCUSAS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 110.
 
@@ -1139,7 +1579,9 @@ II.- No pronuncien las sentencias interlocutorias o definitivas en los asuntos d
 
 III.- Hagan uso de los medios de apremio con notorio perjuicio de las partes;
 
-IV.- No cumplan las comisiones que les sean conferidas por el Tribunal Superior;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
+
+IV.- No cumplan las comisiones que les sean conferidas por el Tribunal o por el Consejo de la Judicatura;
 
 V.- No concurran puntualmente al desempeño de sus labores;
 
@@ -1153,7 +1595,9 @@ IX.- Habilitar persona para llevar a efecto diligencias jurisdiccionales, salvo 
 
 X.- Retardar el procedimiento jurisdiccional señalando términos para las audiencias y vistas notoriamente prolongadas;
 
-XI.- Aplicar indebidamente los preceptos legales, en perjuicio de alguna de las partes;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
+
+XI.- Aplicar indebidamente los preceptos legales, en perjuicio de alguna de las partes, y
 
 XII.- Emplear a los servidores bajo sus órdenes para el desempeño de labores ajenas al Poder Judicial.
 
@@ -1169,6 +1613,26 @@ III.- No presentar a la sesión de Sala el proyecto de resolución en que sea po
 
 IV.- Abstenerse de votar la ponencia de otro Magistrado.
 
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
+
+###### ARTICULO 111 Bis.
+
+Son faltas oficiales de los miembros del Consejo de la Judicatura:
+
+I.- Faltar o abandonar, sin causa justificada, las sesiones del Consejo;
+
+II.- No cumplir con las comisiones encomendadas;
+
+III.- No informar al Consejo, con quince días de anticipación como mínimo, de la fecha en que vence el plazo para el cual fueron nombrados Consejeros;
+
+IV.- No acordar dentro del plazo legal las quejas, escritos o promociones de las partes;
+
+V.- Retrasar el procedimiento de investigación de quejas con resoluciones frívolas o innecesarias;
+
+VI.- Realizar nombramientos, ratificaciones o cambios de adscripción, infringiendo las disposiciones generales correspondientes; y
+
+VII.- Las señaladas en el artículo 114 de esta ley y las demás, que en su caso, se establezcan en su reglamento interior.
+
 ###### ARTICULO 112.
 
 Son faltas oficiales de los Secretarios:
@@ -1179,7 +1643,9 @@ II.- No asentar en autos las certificaciones que procedan de oficio o por mandat
 
 III.- No elaborar hasta poner en estado de notificación los proveídos dictados por el Juez, o retardarlos innecesariamente;
 
-IV.- No dar cuenta al Juez o al Presidente del Tribunal de las faltas u omisiones que personalmente hubiere notado en los empleados o que sean denunciadas por el público verbalmente o por escrito;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
+
+IV.- No dar cuenta, al Juez o al Presidente del Consejo de la Judicatura, de las faltas u omisiones que personalmente hubiere notado en los empleados o que sean denunciadas por el público verbalmente o por escrito;
 
 V.- No engrosar a sus autos las sentencias dentro del término legal;
 
@@ -1223,47 +1689,89 @@ IV.- La comisión de actos inmorales;
 
 V.- Demostrar parcialidad o interés manifiesto por alguna de las partes en litigio;
 
-VI.- Recibir dádivas o gratificaciones por actos relacionados con los negocios que se ventilen en los Tribunales;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
+
+VI.- Recibir dádivas o gratificaciones por actos u omisiones relacionados con los asuntos que se ventilen en el Tribunal, Juzgados o ante el Consejo de la Judicatura;
 
 VII.- Cometer indiscreciones que vayan en notorio perjuicio de las partes; y
 
-VIII.- Incurrir en delito penado por la Ley sin perjuicio de la responsabilidad penal en que incurra.
+VIII.- Incurrir en delito penado por la Ley sin perjuicio de la responsabilidad penal en que incurra;
 
-### CAPITULO VI. DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2002)</small>
+
+IX.- Tener notoria ineptitud o descuido en el desempeño de las funciones o labores que deben realizar;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2002)</small>
+
+X.- No poner en conocimiento del Tribunal o del Consejo cualquier acto tendente a vulnerar la independencia de la función judicial;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2002)</small>
+
+XI.- No preservar la dignidad, la imparcialidad y profesionalismo en la ejecución de sus labores;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2002)</small>
+
+XII.- Emitir opinión pública que implique prejuzgar sobre un asunto de su conocimiento;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2002)</small>
+
+XIII.- Abandonar o dejar de desempeñar, sin causa justificada, las funciones o labores que tenga a su cargo; y
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2002)</small>
+
+XIV.- Las previstas en el artículo 47 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tabasco, siempre que no fueren contrarias a la naturaleza de la función jurisdiccional o del Consejo.
+
+### CAPITULO IV. DE LAS VISITAS A LOS RECLUSORIOS
 
 ###### ARTICULO 115.
 
-Para que los Magistrados puedan ser privados de su libertad y procesados, deben ser separados del cargo por el Pleno del Tribunal, dentro de las 24 horas siguientes a la solicitud del Ministerio Público.
+Para que los Magistrados puedan ser privados de su libertad y procesados, deben ser separados del cargo por el Congreso del Estado, conforme a lo dispuesto por el artículo 69 de la Constitución Política Local.
 
 Esto no será obstáculo para que sujete al inculpado a la vigilancia de la Policía para evitar que se sustraiga a la acción de la justicia, cuando se trate de delito intencional.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 116.
 
-Se establecen como sanciones para los efectos de esta Ley, las siguientes:
+Las sanciones aplicables a las faltas oficiales contempladas en el presente Título y en el artículo 47 de la citada Ley de Responsabilidades, consistirán en:
 
-I.- Amonestación;
+I.- Apercibimiento privado o público;
 
-II.- Separación hasta por 8 días sin goce de sueldo;
+II.- Amonestación privada o pública;
 
-III.- Destitución o cese.
+III.- Suspensión o separación hasta por ocho días, sin goce de sueldo;
+
+IV.- Destitución o cese; y
+
+V.- Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
+
+Las sanciones anteriores serán aplicables, tratándose de los Magistrados de Número sólo las referidas en las fracciones de la I a la III; las restantes, además procederán si fueren sus nombramientos de carácter Supernumerarios o Interino.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 117.
 
-Las faltas previstas por el capítulo II de este título serán sancionadas por el Pleno del Tribunal Superior de Justicia.
+Las faltas previstas por el Capítulo II de este Título según la naturaleza del nombramiento, serán sancionadas por el Pleno del Tribunal o del Consejo de la Judicatura, de acuerdo a su competencia.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 118.
 
-Para los efectos de la imposición de las sanciones previstas por esta Ley, se estará al siguiente procedimiento:
+Para la determinación de las responsabilidades a que se refiere este Título deberá seguirse el procedimiento siguiente:
 
-a).- Recibida que sea la queja o denuncia, se turnará al Presidente del Tribunal, quien actuando con el Secretario General de Acuerdos ordenará se integre el expediente de investigación y se realice ésta, valiéndose de todos los medios que autorice la Ley, la que deberá agotar en el menor tiempo posible;
+I.- Dentro de los cinco días siguientes a su recepción, se proveerá su ratificación por la parte que formula la queja o denuncia; se enviará una copia del escrito y sus anexos al servidor público, para que éste en un término de cinco días hábiles formule un informe sobre los hechos comprendidos en el escrito de queja o denuncia, afirmándolos, negándolos, expresando que los ignora, por no ser propios, o refiriéndolos como crea que tuvieron lugar. Se presumirán confesados los hechos de la denuncia sobre los cuales el denunciado no suscitare explícitamente controversia, admitiendo prueba en contrario. La confesión de los hechos no entraña la aceptación del derecho del denunciante;
 
-b).- Enseguida dará cuenta al Pleno del Tribunal y si éste considera que no existe falta ordenará el archivo del expediente, en caso contrario dará vista a la parte investigada, fijándole audiencia dentro de los cinco días siguientes a la notificación, celebrada la cual se resolverá lo conducente;
+II.- Recibido el informe, ratificado el escrito y desahogadas las pruebas, si las hubiere, o fuera posible legalmente su perfeccionamiento se resolverá dentro (sic) los treinta días hábiles siguientes sobre la inexistencia de responsabilidad o imponiendo al servidor público infractor las sanciones administrativas correspondientes, y se notificará la resolución al interesado dentro de las setenta y dos horas;
 
-c).- Cuando la falta fuere imputable a un Magistrado la resolución se pronunciará mediante votación por mayoría, en la siguiente sesión del Pleno a la en que se hubiese dado cuenta de la investigación y oído al responsable;
+III.- En el desahogo de las pruebas, tanto el denunciante como el inculpado, podrán alegar lo que a su derecho convenga por sí o por medio de su Asesor Legal o Defensor respectivamente;
 
-d).- Si se tratare del Presidente, se excusará para ese sólo efecto, designando el Pleno a un Magistrado para que actuando con el Secretario del Tribunal lleve a efecto la investigación;
+IV.- Si la queja o denuncia se presentare en contra del Presidente del Tribunal o del Consejo, se excusarán para ese sólo efecto, designando el Pleno del Tribunal a un Magistrado de Número para que lleve a cabo la investigación; y
 
-e).- Siendo el procedimiento jurisdiccional de orden público, cuando el Tribunal advierta en los autos algunas de las faltas previstas en la Ley, procederá como si hubiere habido denuncia.
+V.- Durante el procedimiento, acorde a la competencia por razón del nombramiento del servidor público, el Tribunal o el Consejo podrán ordenar la suspensión temporal de los presuntos responsables de sus cargos, empleos o comisiones, si así conviniere para la continuación de la investigación. Dicha suspensión no prejuzga sobre la responsabilidad del inculpado.
+
+Si el servidor público suspendido temporalmente no resultare responsable de la falta que se le imputa, será restituido en el goce de sus derechos y se le cubrirán las percepciones que debió recibir durante el tiempo que se le suspendió.
+
+Las resoluciones dictadas por el Pleno del Consejo de la Judicatura, serán definitivas e inatacables, salvo las que se refieran al nombramiento, adscripción, cambio de adscripción, remoción o destitución de jueces y demás servidores públicos de su competencia, las cuales podrán impugnarse ante el Pleno del Tribunal Superior de Justicia, mediante el recurso de revisión administrativa, cuyo objeto será el determinar si el Consejo de la Judicatura, al llevar a cabo cualquiera de los actos mencionados, actuó con estricto apego a los requisitos formales previstos en esta ley o en el reglamento interior aplicable y acuerdos generales expedidos al respecto por el propio Consejo.
 
 ###### ARTICULO 119.
 
@@ -1277,7 +1785,55 @@ Dos o más faltas de las previstas en el Capítulo II de este Título ameritará
 
 Cinco faltas oficiales en el desempeño de sus funciones ameritan la destitución del cargo, sin perjuicio de la responsabilidad penal en que incurra el responsable. Si se tratare de un Magistrado, el Pleno dispondrá lo procedente.
 
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
+
+###### ARTICULO 121 Bis.
+
+El recurso de revisión administrativa podrá interponerse:
+
+I.- Tratándose de las resoluciones de nombramiento o adscripción con motivo de un examen de oposición, por cualquiera de las personas que hubiera participado en él;
+
+II.- Tratándose de las resoluciones de remoción o destitución, por el Juez o Servidor público afectado por la misma; y
+
+III.- Tratándose de las resoluciones de cambio de adscripción, por el funcionario judicial que hubiera solicitado el cambio de adscripción y se le hubiere negado.
+
+El recurso de revisión administrativa deberá presentarse por escrito ante el Presidente del Consejo de la Judicatura, dentro de los tres días hábiles siguientes a la fecha en que hubiere surtido sus efectos la notificación de la resolución que haya de combatirse. Recibido el recurso, el presidente del Consejo de la Judicatura lo remitirá al Pleno del Tribunal Superior de Justicia dentro de los tres días hábiles siguientes, acompañado de un informe al que deberán adjuntársele todos aquellos elementos probatorios que permitan la resolución del asunto y será rendido por uno de los Consejeros que hubiere votado a favor de la decisión, quien representará al Consejo de la Judicatura durante el procedimiento.
+
+Una vez recibido el recurso el presidente del Pleno, dentro del término de los siguientes tres días hábiles decidirá sobre su admisión o desechamiento, pudiendo desechar de plano el recurso, cuando las resoluciones impugnadas no sean de las mencionadas en el artículo 123, último párrafo, de esta ley o se interponga por quien no esté legitimado para ello. Admitido el recurso, el Presidente del Pleno, con el auxilio de la Secretaría General de Acuerdos lo tramitará hasta ponerlo en estado de resolución, y una vez efectuado lo anterior lo turnará a un magistrado de Número para que formule el proyecto de resolución que se someterá a la consideración del Pleno para la determinación correspondiente.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
+
+###### ARTICULO 121 Bis 1.
+
+En los casos en que el recurso de revisión administrativa se interponga contra las resoluciones de nombramiento o adscripción, deberá notificarse también al tercero interesado, teniendo ese carácter las personas que se hubieren visto favorecidas con las resoluciones, a fin de que en el término de tres días hábiles pueda alegar lo que a su derecho convenga.
+
+En este tipo de recursos no se admitirán mas pruebas que las documentales públicas, las cuales deberán ser ofrecidas por el promovente o el tercero perjudicado en el correspondiente escrito de recurso o contestación a este.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
+
+###### ARTICULO 121 Bis 2.
+
+En caso de que el recurso de revisión administrativa se presente en contra de resoluciones de remoción, el magistrado Presidente podrá ordenar la apertura de un término probatorio hasta por el término de diez días hábiles. En este caso, únicamente serán admisibles las pruebas documentales y testimonial.
+
+Cuando alguna de las partes ofrezcan una prueba documental que no obre en su poder, solicitará que se requiera a la autoridad que cuente con ella a fin de que la proporcione a la brevedad posible.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
+
+###### ARTICULO 121 Bis 3.
+
+Una vez que, en su caso, se haya dado cumplimiento a lo establecido en los numerales que anteceden, se concederá a las partes el término de tres días hábiles comunes para que formulen sus alegatos y vencido el término se citará a las partes para oír sentencia.
+
+Las resoluciones del Pleno del Tribunal Superior de Justicia del Estado que declare fundado el recurso de revisión administrativa planteado, se limitarán a declarar la nulidad del acto impugnado para el efecto de que el Consejo de la Judicatura dicte una nueva resolución en un plazo no mayor a treinta días naturales.
+
+La nulidad del acto que se reclame no producirá la invalidez de las actuaciones del servidor público nombrado o adscrito de que se trate.
+
+La interposición de la revisión administrativa no interrumpirá en ningún caso, los efectos de la resolución impugnada.
+
+En todo lo no previsto para la tramitación del recurso de revisión administrativa, se aplicará supletoriamente, lo establecido en el Código de Procedimientos Penales en vigor, respecto a las comunicaciones o notificaciones y al desahogo de pruebas.
+
 ## TITULO OCTAVO. DISPOSICIONES GENERALES
+
+### CAPITULO V. DE LOS ESTIMULOS Y RECOMPENSAS
 
 ###### ARTICULO 122.
 
@@ -1297,17 +1853,21 @@ IV.- Estar en pleno uso de sus facultades físicas y mentales y no padecer enfer
 
 V.- Contar con la capacidad técnica necesaria para el desempeño del empleo de que se trate.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 124.
 
-Los nombramientos que expida el Tribunal Superior de Justicia tendrán el carácter de definitivos, interinos o supernumerarios. Definitivos serán aquellos que se otorguen para cubrir una plaza vacante por ausencia absoluta del titular; interinos los que se otorguen para cubrir una plaza vacante por ausencias temporales o accidentales y supernumerarios los que se otorguen por causas extraordinarias para una obra y tiempo determinado, de acuerdo con el Presupuesto General de Egresos.
+Los nombramientos que expida el Tribunal o el Consejo de la Judicatura, tendrán según cada caso, sin perjuicio de las prevenciones legales, tratándose de aquellos servidores públicos que en su relación laboral se rigen por la Ley de los Trabajadores al Servicio del Estado, el carácter de definitivos, interinos o supernumerarios. Definitivos serán aquellos que se otorguen para cubrir una plaza vacante por ausencia absoluta del titular; interinos los que se otorguen para cubrir una plaza vacante por ausencias temporales o accidentales; y supernumerarios los que se otorguen por causas extraordinarias para una obra y tiempo determinado, de acuerdo con el Presupuesto General de Egresos.
 
 ###### ARTICULO 125.
 
 Si dentro de los tres días siguientes a su designación no se presenta el interesado a tomar posesión del cargo, se cancelará el nombramiento y se procederá en consecuencia.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 126.
 
-Los Secretarios y los Actuarios tendrán fe de actuación en todo lo relativo al ejercicio de su cargo. Igual fe tendrán los servidores que en cada caso autorice la Ley o el Tribunal Superior de Justicia, en el ejercicio de sus funciones.
+Los Secretarios, los Actuarios y demás servidores públicos del Poder Judicial que autorice la ley, el Tribunal o el Consejo, tendrán fe de actuación en todo lo relativo al ejercicio de su cargo.
 
 ###### ARTICULO 127.
 
@@ -1339,11 +1899,15 @@ El personal de Poder Judicial, deberá concurrir a sus labores, todos los días 
 
 Ningún Servidor de la Administración de Justicia podrá ejercer la abogacía, sino en causa propia, ni ser apoderado judicial, tutor, curador, albacea, depositario judicial, síndico, administrador o interventor, de concurso, testamentario o intestado, árbitro ni arbitrador. Tampoco podrá ser asesor, sino en los casos que la Ley lo disponga.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 134.
 
-Los Magistrados, Jueces, Secretarios y Actuarios, durante su ejercicio, no podrán desempeñar ocupación alguna que les constituya dependencia de particulares o de alguna Institución. También es incompatible el cargo de Servidor Judicial con cualquier situación religiosa. El incumplimiento de esta disposición es causa de responsabilidad que se exigirá en los términos que previene el capítulo de responsabilidad.
+Los Magistrados, los Consejeros de la Judicatura y demás funcionarios judiciales, no podrán, en ningún caso, aceptar y desempeñar empleo o encargo de la Federación, Estado, Municipio o de particulares, salvo los cargos docentes, literarios, de beneficencia y honoríficos en asociaciones científicas; así como las funciones electorales que le fueron encomendadas; la infracción de esta disposición será castigada con la pérdida del cargo.
 
-Quedan exceptuados de esta disposición los cargos honoríficos en asociaciones científicas, literarias o de beneficios y docentes cuyo desempeño no sea incompatible, a juicio del Pleno del Tribunal, con el horario establecido para el desempeño de las funciones o labores que les compete como miembros de la Administración de Justicia.
+Las personas que hayan ocupado el cargo de Magistrado Numerario o Consejero de la Judicatura, salvo los asuntos de índole personal o causa propia, no podrán, dentro del año siguiente a la fecha de su conclusión, actuar como patrones, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado.
+
+La remuneración que perciban los Magistrados, Consejeros y los Jueces, por los servicios que presten al Poder Judicial, no podrá ser disminuida durante su encargo.
 
 ###### ARTICULO 135.
 
@@ -1352,6 +1916,8 @@ Ningún nombramiento para auxiliar de la Administración de Justicia como síndi
 ###### ARTICULO 136.
 
 La inobservancia de esta disposición es motivo de responsabilidad del que haga el nombramiento, la que se exigirá de inmediato por el Tribunal Superior, imponiendo al infractor multa hasta de cincuenta veces el salario mínimo diario general o destitución del cargo.
+
+### CAPITULO VI. DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA
 
 ###### ARTICULO 137.
 
@@ -1375,23 +1941,37 @@ I.- Las del Presidente del Tribunal, por el Magistrado Numerario que elija el Pl
 
 Las faltas accidentales y temporales del Magistrado que ejerza la Presidencia de una Sala, se suplirán por el que designen los presentes. En caso de falta absoluta, se procederá a nueva elección, una vez hecho el nombramiento correspondiente;
 
-II.- Las temporales de los Magistrados Numerarios, por el Secretario General de Acuerdos o el Juez que designe el Pleno. En las absolutas se estará a las Prevenciones de la Constitución Política del Estado;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
 
-III.- Las del Secretario General de Acuerdos, por el Secretario Auxiliar de Acuerdos y en ausencia de éste por quien designe el Pleno del Tribunal;
+II.- Las temporales de los Magistrado Numerarios, por el Secretario General de Acuerdos o el Juez que designe el pleno del Tribunal, atento a la terna que al respecto y en los términos del reglamento aplicable le remita el Consejo de la Judicatura. En las absolutas se estará a lo dispuesto por la Constitución Política Local y esta ley; tratándose de las ausencias temporales de los Magistrados Supernumerarios, se estará a igual procedimiento;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
+
+III.- Las del Secretario General de Acuerdos, por el Secretario Auxiliar de Acuerdos y en ausencia de éste por quien designe el pleno del Consejo;
 
 IV.- Las de los Jueces que no excedan de un mes, automáticamente por el Secretario o el primero de ellos si hubiesen varios y en su defecto por el que sigue en su orden. Cuando excedan de ese término se expedirá nuevo nombramiento;
 
 V.- Las de los Secretarios de los Juzgados si no exceden de un mes, por quienes le sigan en su orden, o en su caso, por el servidor que le sigue en jerarquía. Si excediera de ese término se expedirá nuevo nombramiento;
 
-VI.- Las faltas temporales de los demás servidores serán en la forma que determine el Tribunal Superior, en sus respectivos casos, y dentro de las prescripciones de esta Ley, en lo referente a los requisitos que deben llenar los substituídos seguirán devengando el sueldo de su cargo base;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
 
-VII.- Todo lo no previsto en esta Ley respecto a las condiciones Generales de Trabajo, será resuelto por la Ley de los Trabajadores al Servicio del Estado y Leyes supletorias.
+VI.- Las ausencias de los demás servidores públicos del poder Judicial, incluyendo a los miembros del Consejo de la Judicatura, se suplirán en la forma que determine el Pleno del Tribunal o del Consejo, en sus respectivos casos; y
 
-Todo lo no previsto en esta Ley respecto a las condiciones generales de trabajo será resuelto por el Pleno del Tribunal, que podrá aplicar supletoriamente las Leyes vigentes en la materia.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2002)</small>
+
+VII.- En los casos que se tratare del personal adscrito al Pleno y a las Salas, y que no existiere en esta ley disposición aplicable, se estará a la determinación que dicte el Pleno del Tribunal, a propuesta del Magistrado Presidente, tomando en consideración la ley de la materia y en su caso, las condiciones generales de trabajo que rijan para los empleados del Poder Judicial.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2002)</small>
+
+Con la salvedad a que se contrae la fracción anterior, y respecto a los servidores públicos que funcionalmente estén adscritos a los órganos jurisdiccionales o unidades administrativas, que su control, administración y vigilancia sean de la competencia del Consejo de la Judicatura, se aplicará por éste, en iguales términos a lo dispuesto por la Ley de los Trabajadores al Servicio del Estado y demás leyes y ordenamientos aplicables.
+
+### CAPITULO VII. DECLARACION PATRIMONIAL
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 140.
 
-Los Magistrados, Jueces y Secretarios Judiciales están impedidos para conocer, en materia civil por las causas previstas en el artículo 42 del Código de Procedimientos Civiles del Estado debiendo excusarse del negocio, y en materia penal por las siguientes:
+Los Magistrados, Jueces y Secretarios Judiciales, están impedidos para conocer, en materia Civil, de los casos previstos en el artículo 42 del Código de Procedimientos Civiles del Estado, debiendo excusarse del negocio y, en materia penal, de los siguientes:
 
 I.- Tener parentesco en línea recta, sin limitación de grados; en la colateral por consanguinidad, hasta el cuarto grado; y en la colateral por afinidad, hasta el segundo, con alguno de los procesados, defensores o la parte agraviada;
 
@@ -1423,9 +2003,11 @@ XIII.- Haber sido Juez o Magistrado en el mismo proceso, o en otra Instancia; y
 
 XIV.- Haber sido agente del Ministerio Público, testigo, apoderado, patrono o defensor en la causa de que se trata, haber recomendado anteriormente el asunto, en favor o en contra de alguno de los procesados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 141.
 
-Los Magistrados, Jueces o Secretarios tienen la obligación de excusarse del conocimiento de los negocios en que ocurra cualquiera de las causas previstas en los artículos 169 del Código de Procedimientos Civiles o en el numeral que antecede, pues de lo contrario procederá la recusación en su contra.
+A los servidores públicos del Poder Judicial que teniendo la obligación de excusarse no lo hagan, procederá en su contra la recusación.
 
 Las excusas de los Magistrados serán calificados por el Pleno del Tribunal.
 
@@ -1441,9 +2023,11 @@ Si algún Magistrado de número dejase de conocer de algún asunto por impedimen
 
 En caso de calificarse de legal el impedimento, excusa o recusación de un Juez, el negocio será turnado al que le siga en número o el que proceda en su caso, en el mismo Distrito, si no lo hubiere se insaculará al Juez de igual categoría en el Distrito Judicial más próximo.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 144.
 
-Todo lo que en esta Ley no esté previsto para la Administración de Justicia, será resuelto para la Administración de Justicia, será resuelto por el Pleno del Tribunal y en caso necesario presentará las iniciativas de Ley que estime conveniente y formulará los reglamentos internos que sean necesarios.
+En todo lo que en esta ley no esté expresamente previsto para la administración de Justicia, será resuelto, en su orden, por razón de competencia, por el Pleno del Tribunal y del Consejo de la Judicatura; sujetándose en lo conducente, en los casos que legalmente procedan, a las reglas que resultaren aplicables. El Poder Judicial, a través de su representación legal, y con las formalidades del caso, presentará las iniciativas de ley que al efecto estime pertinente.
 
 ###### ARTICULO 145.
 
@@ -1489,13 +2073,17 @@ Los estímulos consistirán en medallas y diplomas y las recompensas, en máximo
 
 Las medallas por méritos en el servicio y por antigüedad llevan el nombre que el Pleno determine.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 154.
 
-El Pleno del Tribunal resolverá los expedientes que se integren para el otorgamiento de estímulos y recompensas.
+El Pleno del Consejo de la Judicatura resolverá tratándose de los servidores públicos del ámbito de su competencia, todo lo concerniente al otorgamiento de estímulos y recompensas; de igual forma procederá el Pleno del Tribunal.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 155.
 
-El número de asignaciones por año será determinado por el Pleno sin que sea obligatorio su otorgamiento cuando no haya lugar a conferirlos.
+El número de asignaciones por año será determinado respectivamente por el Pleno del Tribunal y del Consejo, sin que sea obligatorio su otorgamiento cuando no haya lugar a conferirlo.
 
 ###### ARTICULO 156.
 
@@ -1517,9 +2105,11 @@ Toda proposición deberá estar debidamente fundada y expresará los merecimient
 
 El Presidente del Tribunal llevará el registro de las candidaturas e integrará los expedientes respectivos, que deberán iniciarse con la hoja de servicio del candidato.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 159.
 
-En la primera Sesión del Pleno del mes de octubre de cada año, el Tribunal dictaminará sobre los expedientes sometidos a su consideración. Las decisiones serán por mayoría de votos y en caso de empate, el Presidente tendrá voto de calidad.
+En la primera sesión del mes de Octubre de cada año, el Tribunal y el Consejo dictaminarán sobre las propuestas sometidas a su consideración. Las decisiones serán por mayoría de votos y en caso de empate, el Presidente tendrá voto de calidad.
 
 El Secretario General de Acuerdos engrosará el dictamen y una vez formalizado se señalará el lugar y fecha en que se efectuará la ceremonia respectiva.
 
@@ -1562,6 +2152,56 @@ El Presidente del Tribunal auxiliado por la Tesorería tendrá a su cargo y bajo
 ###### ARTICULO 166.
 
 El Pleno o el Presidente ordenará la práctica de las auditorías que consideren necesarias, para verificar que el manejo del fondo se realice con probidad y conveniencia.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2002)</small>
+
+###### ARTICULO 167.
+
+Tienen la obligación de presentar la declaración patrimonial, ante la Dirección de Contraloría del Poder Judicial del Estado, bajo protesta de decir verdad: los Magistrados, Consejeros, Jueces, Oficial Mayor, Secretarios General de Acuerdos, Secretarios de Estudio y Cuenta, Tesorero Judicial, Contador Cajero, Directores, Secretarios y Actuarios Judiciales, así como demás personal que ordene, respectivamente el Pleno del Tribunal Superior de Justicia y del Consejo.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
+
+###### ARTICULO 168.
+
+La declaración patrimonial deberá presentarse en los plazos siguientes:
+
+I.- La inicial, dentro de los sesenta días naturales siguientes al inicio de sus funciones;
+
+II.- La anual, en el mes de mayo de cada año; y
+
+III.- La final, dentro de los treinta días naturales siguientes a la conclusión de sus funciones o separación del cargo.
+
+La Dirección de Contraloría del Poder Judicial del Estado, una vez recibidas las declaraciones correspondientes, y en acuerdo con la comisión, podrá llevar a cabo las investigaciones que considere pertinentes para comprobar la veracidad de los datos asentados en la misma, informando oportunamente al Pleno del Consejo de la Judicatura, para que, satisfaciéndose las formalidades legales se haga del conocimiento de las autoridades competentes las irregularidades que al respecto se encontrare.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
+
+###### ARTICULO 169.
+
+Si algún Magistrado del Tribunal o Consejero de la Judicatura, no presentare su declaración inicial o anual en los plazos fijados, el Director de la Contraloría lo comunicará al Pleno del Tribunal o del Consejo, quien, por conducto de su Presidente, amonestará por escrito y requerirá al omiso para que ineludiblemente la presente dentro de los ocho días naturales siguientes, apercibiéndolo que de no hacerlo se le descontará el cincuenta por ciento de sus percepciones mensuales y, además, se autorizará al Presidente del Tribunal para que formule investigación administrativa y se proceda conforme a derecho.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
+
+###### ARTICULO 170.
+
+Tratándose de los demás servidores públicos del Poder Judicial del Estado, si transcurridos los plazos que señala el artículo 168 de esta ley, no presentan sus declaraciones respectivas, automáticamente quedarán sin efecto sus nombramientos; lo anterior, sin perjuicio de que se practique (sic) las investigaciones administrativas que sean procedentes.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
+
+###### ARTICULO 171.
+
+En todo caso, si no se presenta la declaración final, se impondrá además al omiso una sanción pecuniaria hasta por cien veces el salario mínimo general diario vigente en el Estado, y se procederá de acuerdo a lo indicado en la parte final del artículo 169 de esta ley.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
+
+###### ARTICULO 172.
+
+La Dirección de Contraloría, atento a lo resuelto por el Consejo de la Judicatura emitirá las bases y normas; proporcionando gratuitamente los formatos, manuales e instructivos mediante los cuales el servidor público deberá presentar su declaración.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2002)</small>
+
+###### ARTICULO 173.
+
+En todo lo no previsto por esta ley y su reglamento, el Pleno del Tribunal Superior de Justicia, su Presidente o el Consejo de la Judicatura, en su caso, aplicarán supletoriamente la Ley de Responsabilidades de los Servidores Públicos del Estado de Tabasco.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -1620,3 +2260,45 @@ P.O. 29 DE NOVIEMBRE DE 2000.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente del de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
 
 Artículo Segundo.- El funcionamiento y facultades del Comité de Compilación, Sistematización y Publicación de Criterios Aislados y Criterios Jurisprudenciales Locales, se estableció por acuerdo del Pleno del Tribunal Superior de Justicia y sus reglas, serán publicadas en el Periódico Oficial del Estado y en el Boletín Judicial, para que surtan sus efectos legales.
+
+P.O. 29 DE ENERO DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado; mismo que atento a lo ordenado en el artículo transitorio quinto del decreto número 038, publicado en el suplemento 6176, de fecha 14 de noviembre del año 2001, deberá publicarse en forma extraordinaria.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las demás disposiciones legales de igual naturaleza y aquéllas reglamentarias que se opongan a la presente ley.
+
+###### ARTÍCULO TERCERO.
+
+Los Magistrados de Número que a la entrada en vigor del presente decreto se desempeñen como tales, en los términos de lo dispuesto por el Artículo Tercero Transitorio del Decreto No. 038, publicado en el suplemento 6176 del Periódico Oficial del Estado de fecha 14 de noviembre de 2001, continuarán en sus cargos y solo podrán ser removidos por las causas que establece esta Constitución y las leyes aplicables. En cuanto a los Magistrados Supernumerarios e Interinos, se deberán ajustar, a más tardar en el término de un año contado a partir de la entrada en vigor de este Decreto, a las disposiciones específicas de la conformación de los miembros del Pleno del Tribunal Superior de Justicia del Estado.
+
+###### ARTÍCULO CUARTO.
+
+En cumplimiento a lo ordenado en el artículo transitorio primero del decreto número 038, publicado en el suplemento 6176, del Periódico Oficial del Estado de fecha 14 de noviembre del año 2001, dentro del término de los tres días hábiles siguientes a partir de que entre en vigor el presente decreto, el Pleno del Tribunal Superior de Justicia deberá proceder al nombramiento de los dos Magistrados Numerarios que integrarán el Consejo, así como a elaborar el listado de jueces de primera instancia y de paz para que mediante elección directa y secreta por los jueces de ambas instancias elijan a un juez de primera instancia y a uno de paz que serán miembros del Consejo de la Judicatura. De igual manera tanto el Congreso como el gobernador del Estado oportunamente deberán proponer una lista de candidatos que satisfagan los mismos requisitos que se exigen para ser Magistrados, para que el Congreso del Estado mediante el voto de las dos terceras partes de los diputados presentes procedan a la designación correspondiente. De igual manera una vez que hayan sido designados por las instancias competentes los consejeros de la Judicatura, previo al inicio de sus funciones y dentro del período a que se contrae el artículo transitorio primero del decreto anteriormente citado, deberán acudir al Congreso del Estado a rendir su protesta de ley en forma conjunta.
+
+###### ARTÍCULO QUINTO.
+
+Atento a lo ordenado en la parte infine del artículo transitorio cuarto del decreto número 038, publicado en el suplemento 6176, del Periódico Oficial del Estado de fecha 14 de noviembre del año 2001, el magistrado Presidente del Tribunal Superior de Justicia, dispondrá las medidas de carácter interno para que los asuntos administrativos que se estén conociendo y fueren de la competencia del Consejo de la Judicatura les sean turnados a este en tiempo y forma. De igual manera se deberá establecer conforme al Presupuesto de Egresos autorizado para el ejercicio 2002 al Poder Judicial, todas las medidas económicas y materiales necesarias para la integración, inicio e instalación del Consejo de la Judicatura.
+
+###### ARTÍCULO SEXTO.
+
+Los recursos materiales, partidas presupuestales y personal, con excepción de los Magistrados visitadores, que a la fecha de entrada en vigor del presente Decreto, se encuentren materialmente asignados a la denominada coordinación de visitas a juzgados del Tribunal Superior de Justicia, que con motivo de este Decreto; sus principales funciones serán desempeñadas como tareas propias de la Visitaduría Judicial, pasarán en lo inmediato al Consejo de la Judicatura para que éste determine las medidas administrativas que correspondan. Los Magistrados visitadores serán adscriptos por el Pleno del Tribunal a las áreas y funciones jurisdiccionales que estime pertinente.
+
+###### ARTÍCULO SÉPTIMO.
+
+En un plazo no mayor de treinta días hábiles el Pleno del Tribunal Superior de Justicia deberá realizar las adecuaciones al Reglamento Interior del Poder Judicial del Estado para ajustarlo a las nuevas disposiciones contenidas en esta ley; el cual deberá ser publicado en el Periódico Oficial del Estado para su legal observancia.
+
+###### ARTÍCULO OCTAVO.
+
+El Pleno del Consejo de la Judicatura, en un plazo que no excederá de cuarenta y cinco días hábiles deberá expedir con igual procedimiento a que se contrae el artículo anterior, los diversos reglamentos a que se refieren en la presente ley.
+
+###### ARTÍCULO NOVENO.
+
+El Magistrado Presidente del Tribunal y del Consejo, acordará solicitar al Poder Ejecutivo Local, para que se giren órdenes al titular de la Secretaría de la Contraloría, a efectos de que se remita al Poder Judicial del Estado, con debida antelación al período de las modificaciones, debidamente relacionados los archivos en donde se encuentren las declaraciones patrimoniales rendidas por los servidores públicos de dicho Poder, para los efectos legales procedentes; lo anterior, para el resguardo, control y fines legales de la Dirección de Contraloría del Poder Judicial del Estado.
+
+###### ARTÍCULO DÉCIMO.
+
+Los procedimientos administrativos pendientes, para la aplicación de sanciones a los servidores públicos que conforme a las disposiciones de este decreto, pasen a ser competencia del Consejo de la Judicatura, deberán ser remitidas a éste por el Magistrado Presidente del Tribunal Superior de Justicia para que se continúen tramitando ante el mismo, con base a las disposiciones anteriores, salvo que las nuevas favorezcan a los servidores públicos involucrados o que estos de manera expresa decidan acogerse a las nuevas disposiciones. En lo que respecta a servidores públicos que de acuerdo a lo establecido en el presente decreto, sean competencia del Pleno del Tribunal Superior de Justicia, se continuarán tramitando por éste conforme a las disposiciones anteriores, salvo que los servidores públicos involucrados manifiesten acogerse a las nuevas disposiciones.
