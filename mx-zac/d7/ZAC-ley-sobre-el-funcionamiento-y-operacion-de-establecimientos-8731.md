@@ -4,7 +4,7 @@ identifier: "ZAC-ley-sobre-el-funcionamiento-y-operacion-de-establecimientos-873
 country: "mx"
 rank: "ley"
 publication_date: "1994-01-05"
-last_updated: "1994-01-05"
+last_updated: "1996-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY SOBRE EL FUNCIONAMIENTO Y OPERACION DE ESTABLECIMIENTOS DESTINADOS AL ALMACENAJE, DISTRIBUCION, VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 5 de enero de 1994.
 
@@ -45,7 +45,7 @@ Por lo anteriormente expuesto, en nombre del Pueblo es de Decretarse y se:
 
 D E C R E T A:
 
-LEY SOBRE EL FUNCIONAMIENTO Y OPERACION DE ESTABLECIMIENTOS DESTINADOS AL ALMACENAJE, DISTRIBUCION, VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS.
+LEY SOBRE EL FUNCIONAMIENTO Y OPERACION DE ESTABLECIMIENTOS DESTINADOS AL ALMACENAJE, DISTRIBUCION, VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS
 
 DISPOSICIONES GENERALES
 
@@ -59,13 +59,17 @@ El almacenaje, distribución, venta y consumo de bebidas alcohólicas, así como
 
 Para los efectos de esta ley son bebidas alcohólicas aquellas que contengan alcohol etílico en una proporción mayor del 2% en volumen. Asimismo, la cerveza y las bebidas alcohólicas refrescantes con graduación alcohólica no mayor de 10º G.L.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 3.
 
-La aplicación de esta ley incumbe al Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, debiendo observarse lo establecido en las leyes federales sobre la materia.
+La aplicación de esta ley corresponde, de manera concurrente por lo que se refiere a la expedición y cancelación de licencias o permisos, a los Ayuntamientos Municipales a través de quienes tengan facultades para la administración de contribuciones de acuerdo con lo que establece el Código Fiscal Municipal y la Ley Orgánica del Municipio Libre, así como el Ejecutivo del Estado por conducto de la Secretaría de Planeación y Finanzas, debiendo observar lo establecido en las leyes federales sobre la materia.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 4.
 
-El almacenaje, distribución, venta y consumo, materia de la presente ley, sólo se permitirá en las cabeceras municipales y en aquellos centros de población que por su importancia lo permitan, a juicio del Ejecutivo del Estado.
+Es facultad concurrente de los Ayuntamientos Municipales y del Ejecutivo del Estado, a través de la Secretaría de Planeación y Finanzas, autorizar los lugares en los que se podrá envasar, almacenar, distribuir, poner a la venta y consumir bebidas alcohólicas, tomando en cuenta el número de establecimientos ya existentes en su caso, del número de habitantes y de su condición económica y social, siempre y cuando no ponga en riesgo, a juicio de la autoridad municipal, el desarrollo y sana convivencia del lugar.
 
 ###### ARTICULO 5.
 
@@ -85,9 +89,11 @@ VI. Establecimientos con giro de billares.
 
 VII. En las estaciones de servicio de hidrocarburos.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 6.
 
-Los establecimientos destinados al almacenaje, distribución venta y consumo materia de la presente ley, estarán bajo la permanente vigilancia de las autoridades, las que podrán ordenar y practicar visitas de inspección, verificación y vigilancia, cualquiera que sea la hora y la oportunidad de las mismas. Están obligados los propietarios o encargados de los establecimientos a facilitar el acceso, así como mostrar los documentos que se les requiera mediante la orden correspondiente, a los inspectores y verificadores que así se acrediten legalmente ante ellos.
+Los establecimientos destinados al envasamiento, almacenaje, distribución venta y consumo materia de la presente ley, estarán bajo la permanente vigilancia de las autoridades municipales, las que podrán ordenar y practicar visitas de inspección y verificación, cualquiera que sea la hora y la oportunidad de las mismas. Están obligados los propietarios o encargados de los establecimientos a facilitar el acceso, así como mostrar los documentos que se les requiera mediante la orden por escrito correspondiente, a los inspectores y verificadores que así se acrediten legalmente ante ellos.
 
 ###### ARTICULO 7.
 
@@ -97,15 +103,19 @@ I. Servidores públicos, cualquiera que sea su categoría y nivel de gobierno.
 
 II. Menores e incapacitados.
 
-III. Quienes hayan sido condenados por delitos intencionales patrimoniales, así como contra la integridad y libertad sexual.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+III. Quienes hayan sido condenados por la comisión de delitos contra el patrimonio e integridad física de las personas.
 
 IV. Quienes hayan sido titulares de licencia y ésta se les hubiera cancelado.
 
 DE LAS LICENCIAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 8.
 
-Deberá contarse con licencia del Ejecutivo del Estado para instalar y operar establecimientos para el almacenaje, distribución, venta y consumo de las bebidas a que se refiere esta ley, o bien, para su venta y consumo en aquellos que estén operando con diverso giro de origen, en los términos y con los requisitos que la misma señala.
+Deberá contarse con licencia expedida por el Honorable Ayuntamiento Municipal, con la anuencia previa del Ejecutivo del Estado a través de la Secretaría de Planeación y Finanzas, para instalar y operar establecimientos para el envasamiento, almacenaje, distribución, venta y consumo de las bebidas a que se refiere esta ley, o bien, para su venta y consumo en aquellos que estén operando con diverso giro de origen.
 
 Asimismo, para el almacenaje, distribución y venta de alcohol etílico.
 
@@ -117,21 +127,31 @@ La solicitud de licencia deberá presentarse en el formato que para tal efecto s
 
 I. Constancia de nacionalidad mexicana; tratándose de persona moral, testimonio del acta constitutiva.
 
-II. En su caso, constancia expedida por las autoridades sanitarias de que el local reúne los requisitos exigidos por las leyes y disposiciones aplicables.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
-III. Constancia de no estar en el supuesto de la fracción I del artículo 7 de esta ley.
+II. Constancia expedida por las autoridades sanitarias municipales, de que el local reúne los requisitos exigidos por las leyes y disposiciones aplicables.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+III. Manifestación, bajo protesta de decir verdad, de que el solicitante no se encuentra en el supuesto de la Fracción I del artículo 7o de esta ley.
 
 IV. Constancia de no haber incurrido en los supuestos a que se refiere la fracción III del propio artículo 7 de esta ley, expedida por autoridad competente del Estado y además, en su caso, por la del lugar de donde se sea originario.
 
-En el caso de que no se cumplan los requisitos a los que se refiere este artículo, la autoridad municipal requerirá al promovente para que, en un plazo de cinco días hábiles cumpla con el o los requisitos omitidos. En caso de no hacerlo, la solicitud se tendrá por no presentada, tal requerimiento podrá hacerse en forma personal o por correo certificado.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+En el caso de que no se cumplan los requisitos a los que se refiere este artículo, la autoridad municipal requerirá al promovente para que, en un plazo de diez días hábiles, contados a partir del siguiente al en que se le requiera de acuerdo con el Código Fiscal Municipal, cumpla con el o los requisitos omitidos. En caso de no hacerlo, la solicitud se tendrá por no presentada.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 10.
 
-El Ejecutivo del Estado dentro de los cincos (sic) días a la fecha de presentación de la solicitud, y sus requisitos, solicitará la opinión del Ayuntamiento Municipal que corresponda, y ordenará visita de verificación al lugar y dentro del término de quince días resolverá sobre la misma, tomando en consideración su ubicación, las circunstancias socioeconómicas y turísticas imperantes, así como la opinión del Ayuntamiento Municipal. La verificación de la operatividad del establecimiento causará los derechos que establezca la Ley de Ingresos.
+La autoridad municipal, dentro de los cinco días siguientes a la fecha de presentación de la solicitud y del cumplimiento de los requisitos señalados, ordenará visita de verificación al lugar y, dentro del término de quince días hábiles resolverá sobre la misma, tomando en consideración su ubicación, las circunstancias socioeconómicas y turísticas imperantes. La verificación de la operatividad del establecimiento causará los derechos que al efecto establezca la Ley de Ingresos del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 11.
 
-La expedición de la licencia es un acto discrecional del Ejecutivo del Estado, por lo que puede negarse, no constituye privilegio alguno, pudiéndose cancelar en los términos establecidos por esta ley, así como negarse su revalidación.
+La expedición de la licencia es un acto discrecional del Ayuntamiento Municipal y, de manera concurrente, del Ejecutivo del Estado a través de la Secretaría de Planeación y Finanzas; no constituye privilegio alguno, por lo que puede negarse su expedición y/o revalidación, así como cancelarse por cuestiones de orden público o de interés general, en los términos establecidos por esta Ley.
 
 ###### ARTICULO 12.
 
@@ -141,49 +161,69 @@ Las licencias que en un término de tres meses, contado a partir del día siguie
 
 La autorización de licencia tendrá vigencia hasta el 31 de Diciembre del año de su expedición, y podrá ser revalidada, requiriéndose para ello:
 
-I. Presentar solicitud de revalidación en las oficinas que determina la Secretaría de Finanzas y en su formato autorizado, durante el mes de enero;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+I. Presentar solicitud de revalidación ante la Tesorería Municipal del lugar de ubicación del establecimiento y en el formato autorizado, durante el mes de enero;
 
 II. Acreditar que el local, en su caso, sigue reuniendo los requisitos sanitarios.
 
 III. Acreditar que se está al corriente en las obligaciones fiscales.
 
-Previamente a la resolución que se dicte, la Secretaría de Finanzas llevará a cabo la verificación del establecimiento, la que causará los derechos que establezca la Ley de Ingresos.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+Previamente a la resolución que se dicte, la Autoridad Municipal llevará a cabo la verificación del establecimiento, la que causará los derechos que establezca la Ley de Ingresos del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 14.
 
-En el término de 15 días hábiles siguientes a la fecha en que se haya recibido la solicitud de revalidación, se resolverá sobre la misma.
+En el término de 15 días hábiles siguientes a la fecha en que se haya recibido la solicitud de revalidación, se resolverá sobre la misma. Transcurrido dicho plazo, sin que la autoridad haya dictado y notificado resolución, se entenderá como autorizada.
 
 ###### ARTICULO 15.
 
 La licencia podrá transferirse de conformidad con las siguientes reglas:
 
-I. Presentar solicitud al Ejecutivo del estado, por conducto de la Secretaría de Finanzas, con los requisitos señalados en esta ley para todo solicitante de licencia, en cuanto a la persona a la que se le pretenda transferir, y en su caso, sobre un distinto local o giro.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
-II. En su caso, se ordenará visita de verificación al local o establecimiento, misma que causará el pago de derechos, de conformidad con las tasas que establezca la Ley de Ingresos.
+I. Presentar solicitud al Ayuntamiento, por conducto de la Tesorería Municipal, con los requisitos señalados en esta ley para todo solicitante de licencia, en cuanto a la persona a la que se le pretenda transferir.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+II. Se ordenará visita de verificación al local o establecimiento, misma que causará el pago de derechos, de conformidad con las cuotas que establezca la Ley de Ingresos del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 16.
 
-Los titulares de licencia para la operación de un establecimiento, podrán solicitar que el mismo funcione en lugar distinto al autorizado, pero dentro de la misma cabecera o del centro de población municipal, requiriéndose para tal efecto la opinión previa del Ayuntamiento Municipal correspondiente, y la aprobación del Ejecutivo del Estado, debiéndose cumplir con los requisitos necesarios para las transferencias, en lo conducente. Por la verificación se pagará la tasa que se establezca en la Ley de Ingresos.
+Los titulares de licencia para la operación de un establecimiento, podrán solicitar que el mismo funcione en lugar distinto al autorizado, pero dentro de la misma cabecera o del centro de población municipal, requiriéndose para tal efecto la aprobación del Ayuntamiento Municipal y del Ejecutivo del Estado a través de la Secretaría de Planeación y Finanzas, debiéndose cumplir con los requisitos necesarios para las transferencias. La verificación causará el pago de derechos, de conformidad con las cuotas que establezca la Ley de Ingresos del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 17.
 
-Dentro de los quince días hábiles siguientes a la fecha de verificación a que se refieren los artículos anteriores, el Ejecutivo del Estado resolverá discrecionalmente sobre la solicitud de transferencia o de cambio de domicilio.
+Dentro de los quince días hábiles siguientes a la fecha de verificación a que se refieren los artículos anteriores, el Ayuntamiento resolverá sobre la solicitud de transferencia o de cambio de domicilio. Si dentro del término señalado no se dicta resolución, operará la afirmativa ficta.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 18.
 
-En el caso de fallecimiento del titular de la licencia, el o los interesados ocurrirán por escrito ante la Secretaría de Finanzas, exhibiendo copia debidamente certificada de la primera sección del juicio sucesorio correspondiente, debiéndo comprometerse a comparecer a la junta de que habla el párrafo siguiente. La autoridad citará a los interesados a una junta para decidir sobre la transferencia de la titularidad de la licencia. Dicha junta se celebrará dentro de los treinta días siguientes a la fecha de recepción del escrito de presentación. En caso de controversia, la autoridad resolverá en un término de quince días, de conformidad con las reglas de la sucesión legítima, en lo aplicable y conducente.
+En el caso de fallecimiento del titular de la licencia, el o los interesados ocurrirán por escrito ante la autoridad municipal, exhibiendo copia debidamente certificada de la primera sección del juicio sucesorio correspondiente, obligándose a comparecer a la junta a que se refiere el párrafo siguiente.
 
-> <small>(F. DE E., P.O. 16 DE FEBRERO DE 1994)</small>
+La autoridad citará a los interesados a una junta para decidir sobre la transferencia de la titularidad de la licencia. Dicha junta se celebrará dentro de los treinta días siguientes a la fecha de recepción del escrito de presentación. En caso de controversia, la autoridad resolverá en un término de quince días, de conformidad con las reglas de la sucesión legítima, en lo aplicable y conducente.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 19.
 
-La Secretaría de Finanzas podrá conceder permisos eventuales para la venta y consumo de bebidas alcohólicas, en bailes, espectáculos musicales y ferias, fijando el horario en cada caso. Sólo se autorizará la venta y consumo de cerveza, así como de bebidas alcohólicas refrescantes con graduación de contenido alcohólico no mayor de 10º G.L., en envase desechable, en aquellos eventos que así lo ameriten, a juicio de la autoridad.
+La autoridad municipal podrá conceder permisos eventuales para la venta y consumo de bebidas alcohólicas en bailes, espectáculos musicales y ferias, fijando el horario en cada caso de conformidad con el Bando de Policía y Buen Gobierno. Sólo se autorizará la venta y consumo de cerveza, así como de bebidas alcohólicas refrescantes con graduación de contenido alcohólico no mayor de 10º G.L., en envase desechable, en aquellos eventos que así lo ameriten, a juicio de la Autoridad Municipal.
 
 ALMACENAJE Y DISTRIBUCION
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 20.
 
-Los establecimientos destinados a almacenar los productos alcohólicos que regula esta ley, para su distribución y venta al mayoreo, deberán estar separados de viviendas, departamentos habitacionales y oficinas.
+Los establecimientos destinados a envasar y almacenar los productos alcohólicos que regula esta ley, para su distribución y venta al mayoreo, deberán estar separados de viviendas, departamentos habitacionales y oficinas.
 
 ###### ARTICULO 21.
 
@@ -217,9 +257,15 @@ VIII. Tienda de auto servicio y supermercado con venta de bebidas alcohólicas e
 
 IX. Salón de baile o discoteque, centro nocturno y cabaret.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+Se entiende por restaurante, el establecimiento mercantil cuya actividad principal es la transformación y venta de alimentos para su consumo en el mismo o fuera de éste, y en forma accesoria, expender bebidas alcohólicas.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 24.
 
-El Ejecutivo del Estado podrá otorgar licencia para la venta y consumo de bebidas alcohólicas en establecimientos similares a los mencionados en el artículo anterior.
+La autoridad municipal, de manera concurrente con el Ejecutivo del Estado a través de la Secretaría de Planeación y Finanzas, podrá otorgar licencia para la venta y consumo de bebidas alcohólicas en establecimientos similares a los mencionados en el artículo anterior, observándose lo establecido en el artículo 30 en lo referente a la fijación de horarios.
 
 DE LAS OBLIGACIONES Y PROHIBICIONES DE LOS TITULARES DE LAS LICENCIAS
 
@@ -229,31 +275,43 @@ Son obligaciones de los titulares de las licencias, así como de los dueños, po
 
 I. Expender los productos en su estado puro.
 
-II. Mostrar la licencia respectiva a los agentes de seguridad pública estatales o municipales, y al personal autorizado de la Secretaría de Finanzas cuando sean requeridos para ello, así como facilitar el ejercicio de funciones de verificación.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
-III. Permitir al personal autorizado de la Secretaría de Finanzas el cumplimiento de las órdenes de visita que se les presente, así como el acceso a cualquier local que tenga comunicación con el establecimiento.
+II. Mostrar la licencia respectiva a los agentes de seguridad pública municipales y personal autorizado en ejercicio de sus facultades de verificación.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+III. Permitir al personal autorizado el cumplimiento de las órdenes de inspección o verificación que se les presente, así como el acceso a cualquier local que tenga comunicación con el establecimiento.
 
 ###### ARTICULO 26.
 
 Se les prohibe:
 
-I. La venta de los productos a menores de edad.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+I. Vender los productos a menores de edad y fuera del establecimiento.
 
 II. En cantinas, bares y cervecerías:
 
-a) La venta y consumo a militares y agentes de seguridad pública uniformados, así como permitir su entrada a los establecimientos;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
-> <small>(F. DE E., P.O. 16 DE FEBRERO DE 1994)</small>
+a) La venta y consumo a militares y agentes de seguridad pública uniformados y a personas armadas;
 
-b) Vender los productos al menudeo fuera del establecimiento.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
-c) Permitir juegos prohibidos o juegos de video en los establecimientos;
+b) La presencia de militares y agentes de seguridad pública uniformados en estos establecimientos, salvo en los casos de que se encuentren cumpliendo mandato o comisión de autoridad competente;
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+c) Permitir juegos prohibidos, de video o similares en los establecimientos;
 
 d) Recibir objetos o mercaderías en prenda o en pago de las bebidas que se consuman;
 
 e) Vender bebidas o permitir la permanencia de consumidores dentro del establecimiento, fuera del horario establecido; y
 
-f) Obsequiar los productos a los agentes de seguridad pública o a los inspectores de la Secretaría de Finanzas.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+f) Obsequiar los productos a los agentes de seguridad pública y a los representantes de la Autoridad Municipal.
 
 ###### ARTICULO 27.
 
@@ -265,13 +323,17 @@ En restaurantes, fondas, loncherías, y establecimientos similares, sólo se per
 
 DIAS Y HORARIOS DE FUNCIONAMIENTO
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 29.
 
-En los establecimientos que operen en base a lo estipulado por esta ley no podrá venderse ni consumirse bebidas alcohólicas con 24 horas de anticipación a los días señalados en las leyes respectivas para llevar a cabo elecciones federales, estatales o municipales, y los días en que por razones de interés público acuerde el Ejecutivo del Estado, en cuyo caso se hará saber tal medida de manera pertinente.
+En los establecimientos que operen en base a lo estipulado por esta ley, no podrán venderse ni consumirse bebidas alcohólicas con 24 horas de anticipación a los días señalados en las leyes respectivas para llevar a cabo elecciones federales, estatales o municipales, y los días en que por razones de interés público acuerde el Ayuntamiento Municipal o el Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 30.
 
-El Ejecutivo del Estado delega a la Secretaría de Finanzas la facultad de fijar los días y horario de venta y consumo de bebidas alcohólicas, lo cual será especificado en la licencia respectiva.
+Los horarios de venta y consumo de bebidas alcohólicas serán fijados en el Bando de Policía y Buen Gobierno, en el Reglamento que regule el Comercio o espectáculos públicos o, mediante acuerdo expreso del cabildo municipal.
 
 ###### ARTICULO 31.
 
@@ -305,17 +367,23 @@ En los establecimientos a que se refiere esta ley no podrá venderse ni consumir
 
 Asimismo, el día que el Presidente Municipal rinda el informe sobre el estado que guarda la administración, en el municipio respectivo.
 
-No obstante lo anterior, la Secretaría de Finanzas podrá otorgar autorización para la venta y consumo de bebidas alcohólicas en cada caso en particular.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+Asimismo, el día que el Presidente Municipal rinda el informe anual sobre el estado que guarda la administración en el municipio respectivo, (sic) quedando a juicio de la propia autoridad municipal, autorizar por escrito y en cada caso, la venta y consumo de bebidas alcohólicas concluidos los actos conmemorativos a que se refiere este artículo.
 
 ###### ARTICULO 32.
 
 Las visitas domiciliarias para comprobar que se han acatado las disposiciones de la presente ley, se sujetarán a lo siguiente:
 
-I. Se emitirá orden por escrito del Secretario de Finanzas o del Director de Ingresos de la propia Secretaría, que expresará:
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+I. Se emitirá orden por escrito del Presidente Municipal o de la autoridad facultada para administrar contribuciones de conformidad con lo dispuesto por el Código Fiscal Municipal o por la Ley Orgánica del Municipio Libre, que expresará:
 
 a) El nombre de la persona física o moral titular de la licencia del establecimiento.
 
-b) El nombre de los servidores públicos que deban desahogar la diligencia, los cuales podrán ser disminuidos, aumentados o sustituidos por la autoridad que expidió la orden, circunstancia que se comunicará por escrito al visitado, y
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+b) El nombre de los servidores públicos en función de visitadores o inspectores que deban desahogar la diligencia, los cuales podrán ser disminuidos, aumentados o sustituidos por la autoridad que expidió la orden, circunstancia que se comunicará por escrito al visitado, y
 
 c) El objeto de la visita.
 
@@ -327,13 +395,17 @@ IV. En el acta se hará constar la declaración de la persona con quien se entie
 
 V. El acta deberán firmarla quienes participen en la diligencia, haciéndose constar la circunstancia de negativa para hacerlo, en su caso, dejándose copia de la misma al visitado o a la persona con quien se hubiere entendido la diligencia.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 33.
 
-Transcurrido el término señalado, el Secretario de Finanzas o el Director de Ingresos dictará resolución tomando en cuenta los hechos y omisiones asentados en el acta, así como, en su caso, de las pruebas y alegatos que hubieren rendido o producido.
+Transcurrido el término señalado, la autoridad municipal competente, dictará resolución tomando en cuenta los hechos y omisiones asentados en el acta, así como de las pruebas y alegatos que hubieren ofrecido, rendido o producido.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 34.
 
-Los visitadores o inspectores que levanten las actas, utilizarán formas oficiales de la Secretaría de Finanzas, y se abstendrán de asentar opiniones, dictar proveídos, imponer sanciones o ejecutarlas, con excepción, en los casos en que así se haya ordenado, del decomiso de productos y la clausura de establecimientos.
+Los visitadores o inspectores que levanten las actas, utilizarán formas oficiales autorizadas por la autoridad municipal, y se abstendrán de asentar opiniones, dictar proveídos, imponer sanciones o ejecutarlas, con excepción, en los casos en que así se haya ordenado, del decomiso de productos y la clausura de establecimientos.
 
 SANCIONES
 
@@ -346,6 +418,10 @@ Las sanciones por violación de las disposiciones de esta ley consistirán en mu
 En materia de sanciones pecuniarias, se entiende por cuota el importe del salario mínimo general diario que rija en el Estado en el momento de la infracción.
 
 Se considera reincidencia la comisión de la misma infracción por dos o más veces en el transcurso de ciento ochenta días naturales.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+Las sanciones de carácter pecuniario se liquidarán en la Tesorería Municipal que corresponda dentro del término de quince días hábiles contados a partir de la fecha en que surta efectos la notificación respectiva. Su importe se considerará crédito fiscal en favor del municipio y su cobro, podrá realizarse a través del procedimiento administrativo de ejecución previsto en el Código Fiscal Municipal.
 
 ###### ARTICULO 37.
 
@@ -361,7 +437,9 @@ IV.- Artículo 21 10 a 20 cuotas
 
 V.- Artículo 25 5 a 15 cuotas
 
-VI.- Artículo 26 10 a 30 cuotas
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+VI.- Artículo 26 30 cuotas
 
 VII.- Artículo 27 5 a 15 cuotas
 
@@ -393,17 +471,25 @@ Marzo 16 a 25 cuotas
 
 Abril 26 a 37 cuotas
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 40.
 
-Si el Titular de la licencia no realiza la revalidación de la misma en el plazo de tres meses contados a partir de la fecha en que se tuvo la obligación de hacerlo, el Ejecutivo del Estado dispondrá su cancelación de pleno derecho, sin substanciación alguna.
+Si el Titular de la licencia no realiza la revalidación de la misma en el plazo de treinta días naturales, contados a partir de la fecha en que se tuvo la obligación de hacerlo, la autoridad municipal, de manera concurrente con el Ejecutivo del Estado a través de la Secretaría de Planeación y Finanzas, dispondrá su cancelación de pleno derecho.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 41.
 
-En los casos de reincidencia de infracciones a los artículos 5, 8, 25, 27, 29 y 31 de la presente ley, se aplicará una sanción pecuniaria equivalente al doble de la primera sanción impuesta por el mismo concepto.
+En los casos de reincidencia de infracciones a los artículos 5, 8o, 25, 26, 27, 29 y 31 de la presente ley, se aplicará una sanción pecuniaria equivalente al doble de la primera sanción impuesta por el mismo concepto.
+
+Con respecto al artículo 26 Fracción I, la segunda reincidencia será objeto de la misma sanción pecuniaria señalada en el párrafo anterior, sin perjuicio de la clausura temporal del establecimiento hasta por 90 días; la tercera reincidencia será objeto de clausura definitiva.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 42.
 
-El decomiso de bebidas reguladas por esta ley procederá de pleno derecho en todo caso de venta clandestina, y deberá ser objeto de riguroso inventario independientemente de la sanción pecuniaria que proceda. El producto de su venta posterior se destinará al sostenimiento del promotoriado voluntario de la Presidencia Municipal que corresponda, según sea el domicilio del infractor, y al de la Secretaría de Finanzas, o sus organizaciones similares.
+El decomiso de bebidas reguladas por esta ley procederá de pleno derecho en todos los casos de venta clandestina, deberá ser objeto de riguroso inventario independientemente de la sanción pecuniaria que proceda. El producto de su venta, así como de todos los conceptos de ingreso derivados de la aplicación de esta ley, se destinarán preferentemente a los programas de obra pública; infraestructura productiva y desarrollo social, así como de seguridad pública que el municipio convenga, en el marco del convenio de desarrollo social municipal, con el Ejecutivo del Estado.
 
 ###### ARTICULO 43.
 
@@ -417,9 +503,23 @@ La clausura de establecimiento, en cumplimiento de la determinación que así lo
 
 Contra la resolución que imponga las sanciones establecidas por esta ley, no procederá recurso administrativo alguno.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 46.
 
-Para la aplicación y cumplimiento de la presente ley, la policía preventiva municipal deberá coadyuvar y apoyar el personal de la Secretaría de Finanzas, a solicitud del mismo.
+Las autoridades estatales en el ámbito de su competencia, deberán coadyuvar, a solicitud de la autoridad municipal, para la aplicación y cumplimiento de la presente ley.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 47.
+
+El Ejecutivo del Estado, a través de la Secretaría de Planeación y Finanzas, se reserva las facultades para normar y reglamentar todo lo referente a la expedición, cancelación y control de las licencias, permisos, concesiones y en general autorizaciones en materia de bebidas con contenido alcohólico, pudiendo en cualquier momento verificar y fiscalizar que este tipo de establecimientos mercantiles cuenten con autorización y reúnan los requisitos exigidos por la presente ley.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 48.
+
+Si a juicio del Ejecutivo del Estado existiere un manejo inadecuado de la facultad administrativa para otorgar, cancelar o limitar las licencias, concesiones y en general autorizaciones en materia de bebidas alcohólicas, a consecuencia de lo cual se provocaren desequilibrios sociales o alteraciones al orden, la armonía o la paz social, el propio Ejecutivo del Estado asumirá directamente las facultades y funciones operativas para su control, hasta en tanto se corrijan las deficiencias señaladas.
 
 ## TRANSITORIOS
 
@@ -448,3 +548,19 @@ LIC. ARTURO ROMO GUTIERREZ.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. JOSE ZUÑIGA GONZALEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE DICIEMBRE DE 1996.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los asuntos pendientes de resolución, iniciados con anterioridad a la vigencia de las presentes adiciones y reformas, se tramitarán y resolverán de acuerdo con las disposiciones aplicables en la fecha de su tramitación.
+
+###### ARTICULO TERCERO.
+
+El reglamento de la presente Ley, deberá modificarse o ajustarse a las normas contenidas en el presente decreto, dentro de los siguientes 60 días al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
