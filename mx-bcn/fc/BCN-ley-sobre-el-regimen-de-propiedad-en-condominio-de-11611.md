@@ -4,7 +4,7 @@ identifier: "BCN-ley-sobre-el-regimen-de-propiedad-en-condominio-de-11611"
 country: "mx"
 rank: "ley"
 publication_date: "1973-06-10"
-last_updated: "1973-06-10"
+last_updated: "1997-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11611&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY SOBRE EL REGIMEN DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 10 de junio de 1973.
 
@@ -59,9 +59,11 @@ II.- Cuando los diferentes departamentos, viviendas, casas o locales que se cons
 
 III.- Cuando el propietario o propietarios de un inmueble lo dividan en diferentes departamentos, viviendas, casas o locales para enajenarlos a distintas personas, siempre que exista un elemento común, de propiedad privada, que sea indivisible.
 
+(REFORMADO, P.O. 4 DE JULIO DE 1997)(F. DE E., P.O. 1 DE AGOSTO DE 1997)
+
 ###### ARTICULO 3o.
 
-Antes de la constitución del régimen de propiedad en condominio, a que se refiere el Artículo siguiente, los propietarios interesados deberán obtener una declaración que en su caso expedirán las autoridades competentes del Gobierno del Estado, en el sentido de ser realizable el proyecto general, por hallarse dentro de las previsiones o sistemas establecidos, así como de las previsiones legales sobre desarrollo urbano, de planificación urbana y de prestación de los servicios públicos; entendiendo que dicha declaración no dá por cumplidas las obligaciones a que se contrae la Fracción II del Artículo siguiente, entre las cuales se preverá el otorgamiento de licencias de construcción hasta un máximo de 120 departamentos, viviendas, casas o locales por condominio, aún cuando éste y otros formen parte de un conjunto o unidad urbana habitacional, o de un complejo turístico.
+Antes de la Constitución del Régimen de Propiedad en Condominio, a que se refiere el artículo siguiente, los propietarios interesados deberán obtener una declaración que en su caso expedirá el Ayuntamiento de cada municipio, en el sentido de ser realizable el proyecto general por hallarse dentro de las previsiones o sistemas establecidos, así como de las previsiones legales de desarrollo urbano, de planeación urbana y de prestación de los servicios públicos; entendiendo que dicha declaración no da por cumplidas las obligaciones a que se contrae el numeral indicado, entre las cuales se preverá el otorgamiento de licencias de construcción hasta un máximo de 120 departamentos, viviendas, casas o locales por condominio, aún cuando éste y otros formen parte de un conjunto o unidad urbana habitacional, o de un complejo turístico.
 
 ###### ARTICULO 4o.
 
@@ -105,9 +107,11 @@ La extinción voluntaria del régimen de propiedad en condominio, requerirá el 
 
 El Reglamento del Condominio podrá prever los casos en que con base en la Ley en la correspondiente escritura constitutiva proceda la modificación de ésta.
 
+(REFORMADO, P.O. 4 DE JULIO DE 1997)(F. DE E., P.O. 1 DE AGOSTO DE 1997)
+
 ###### ARTICULO 9o.
 
-El Gobierno del Estado podrá adoptar las medidas administrativas que faciliten y estimulen la construcción de condominios.
+El Ayuntamiento de cada municipio podrá adoptar las medidas administrativas que faciliten y estimulen la construcción de condominios.
 
 ### CAPITULO II. DE LOS BIENES DE PROPIEDAD EXCLUSIVA Y DE LOS BIENES DE PROPIEDAD COMUN
 
@@ -474,3 +478,9 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 FRANCISCO SANTANA PERALTA
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE JULIO DE 1997.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
