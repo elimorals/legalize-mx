@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1995-06-10"
+last_updated: "1997-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 1995
-
-(DECRETO No. 333)
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 1997.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -241,17 +239,33 @@ Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado c
 
 La Soberanía del Estado reside en el pueblo y éste la ejerce a través del Poder Público del modo y en los términos que establecen la Constitución Política de los Estados Unidos Mexicanos y esta Constitución. El Estado no reconoce en los Poderes Supremos de la Unión, ni en otro alguno, derecho para pactar o convenir entre ellos o con Nación extraña, aquello que lesione la integridad de su territorio, su nacionalidad, soberanía, libertad e independencia, salvo los supuestos a que se refiere la Constitución Política de los Estados Unidos Mexicanos.
 
-Los partidos políticos son entidades de interés público y tienen como fin primordial promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación Estatal y Municipal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan, mediante el sufragio universal, libre, secreto y directo.
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 1997)</small>
 
-El Estado garantizará que los partidos políticos cuenten en forma equitativa, con un mínimo de elementos para el desarrollo de sus actividades. La Ley determinará las formas específicas de su participación en los procesos electorales, sus derechos, prerrogativas y reglas de financiamiento, así como los topes a sus gastos de campaña, los partidos políticos deberán rendir informes financieros, mismos que serán públicos.
+Las elecciones del Gobernador, de los Diputados y de los integrantes de los Ayuntamientos del Estado se realizarán mediante sufragio universal, libre, secreto y directo; éstas serán libres, auténticas y periódicas, y se desarrollarán conforme a las siguientes bases:
 
-La organización de las elecciones, es una función estatal que se realiza a través de un Organismo Público Autónomo, de los partidos políticos y de los ciudadanos según lo disponga la Ley. El Organismo Público Autónomo será funcionalmente independiente, dotado de personalidad jurídica, patrimonio propio y facultad reglamentaria.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE FEBRERO DE 1997)</small>
+
+I.- Los partidos políticos son entidades de interés público y tienen como fin primordial promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación Estatal y Municipal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan. Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos.
+
+La ley determinará las formas específicas de su participación en los procesos electorales, sus derechos, prerrogativas y reglas de financiamiento, los partidos políticos deberán rendir informes financieros, mismos que serán públicos.
+
+De acuerdo con las disponibilidades presupuestales, los partidos políticos recibirán, en forma equitativa, financiamiento público para su sostenimiento y para que durante los procesos electorales cuenten con apoyos para sus actividades tendientes a la obtención del sufragio universal. La Ley fijará los criterios para determinar los límites a las erogaciones de sus campañas electorales, así como los montos máximos que tengan las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten.
+
+La Ley propiciará condiciones de equidad para el acceso de los partidos políticos a los medios de comunicación social propiedad del Estado, y establecerá las sanciones por el incumplimiento a las disposiciones que se expidan en las materias señaladas en este párrafo y el anterior.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] PRIMER PARRAFO, P.O. 15 DE FEBRERO DE 1997)</small>
+
+II.- La organización de las elecciones, es una función estatal que se realiza a través de un Organismo Público Autónomo, de los partidos políticos y de los ciudadanos según lo disponga la Ley. El Organismo Público será autónomo en su funcionamiento e independiente en sus decisiones dotado de personalidad jurídica, patrimonio propio y facultad reglamentaria.
 
 La certeza, legalidad, independencia, imparcialidad, definitividad, equidad, objetividad y profesionalismo serán principios rectores en el ejercicio de esta función estatal.
 
-El Organismo Público Autónomo será autoridad en la materia; profesional en su desempeño; y autónomo en sus decisiones; se estructurará con órganos de dirección, ejecutivos, técnicos y de vigilancia.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1997)</small>
 
-La Ley establecerá los requisitos mínimos que deberán reunir los funcionarios de los órganos del Organismo Público Autónomo, para garantizar la eficacia del principio de imparcialidad, que conforme al quinto párrafo de este artículo es propio de la función electoral.
+El Organismo Público autónomo será autoridad en la materia y profesional en su desempeño; se estructurará con órganos de dirección, ejecutivos, técnicos y de vigilancia.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1997)</small>
+
+La Ley establecerá los requisitos mínimos que deberán reunir los funcionarios del Organismo Público Autónomo, para garantizar la eficacia del principio de imparcialidad, que conforme al segundo párrafo de esta fracción es propio de la función electoral.
 
 El órgano de dirección, jerárquicamente superior, se integrará por Consejeros Ciudadanos, representantes de los partidos políticos, un Secretario y un representante del Registro Federal de Electores. Todos tendrán derecho a voz, pero sólo los Consejeros Ciudadanos derecho a voto. Los órganos ejecutivos y técnicos dispondrán del personal calificado, estrictamente necesario para prestar el servicio profesional electoral. Las mesas directivas de casillas estarán integradas por ciudadanos que serán insaculados del padrón electoral.
 
@@ -261,11 +275,15 @@ El Organismo Público Autónomo encargado de la organización de los procesos el
 
 El Organismo Público Autónomo, en ejercicio de la función estatal electoral otorgará las constancias de mayoría y declarará la validez de las elecciones, de Ayuntamientos en cada uno de los Municipios de la Entidad, así como de Diputados al Congreso del Estado, ya sea de Mayoría Relativa o según el principio de Representación Proporcional y de los Regidores que no siendo de mayoría sean asignados según lo establece el artículo 131 de esta Constitución. El Congreso del Estado, erigido en Colegio Electoral, calificará la elección del Gobernador del Estado. Las sesiones de los Organos Electorales serán públicas, en los términos que disponga la Ley.
 
-Para dar definitividad y garantizar la legalidad de las distintas etapas de los procesos electorales, la Ley establecerá un sistema de medios de impugnación, de los que conocerán, según la competencia, el Organismo Público Autónomo a que se refiere este artículo y el Tribunal Electoral.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE FEBRERO DE 1997)</small>
 
-El Tribunal Estatal Electoral es el Organo Autónomo y máxima autoridad jurisdiccional electoral conformado por salas unitarias y una presidencia; se integrará con 4 Magistrados numerarios y uno supernumerario, mismos que serán designados por las dos terceras partes de los Diputados, a propuesta de los partidos políticos representados en el Congreso del Estado, y del Supremo Tribunal de Justicia del Estado; su funcionamiento y organización estarán previstos en la Ley.
+III.- La Ley establecerá un sistema de medios de impugnación para garantizar la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación, y que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad; y fijará los plazos convenientes para el desahogo de todas las instancias impugnativas, incluyendo la establecida en la fracción IV del Artículo 99 de la Constitución Política de los Estados Unidos Mexicanos, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales. Del sistema de medios de impugnación conocerán, según la competencia, el Organismo Público Autónomo a que se refiere este Artículo y el Tribunal Estatal Electoral.
 
-El Tribunal Estatal Electoral tendrá competencia para resolver en forma definitiva e inatacable, en los términos de esta Constitución y la Ley, las impugnaciones que se presenten en materia electoral y las diferencias laborales que se presenten entre las autoridades electorales y sus servidores públicos.
+> <small>(REFORMADA [N. DE E. ADICIONADA] PRIMER PARRAFO, P.O. 15 DE FEBRERO DE 1997)</small>
+
+IV.- El Tribunal Estatal Electoral es el Organo Autónomo en su funcionamiento, con independencia en sus decisiones, y máxima autoridad jurisdiccional electoral, conformado por salas unitarias y una presidencia; se integrará con 4 Magistrados numerarios y uno supernumerario, mismos que serán designados por los (sic) dos terceras partes de los Diputados, a propuesta de los partidos políticos representados en el Congreso del Estado, y del Supremo Tribunal de Justicia del Estado; su funcionamiento y organización estarán previstos en la Ley.
+
+El Tribunal Estatal Electoral tendrá competencia para resolver en forma definitiva e inatacable, en los términos de esta Constitución y la Ley, las impugnaciones que se presenten en materia electoral, las impugnaciones de actos y resoluciones que violen los derechos político electorales de los ciudadanos de votar, ser votado y de afiliación libre y pacífica para tomar parte en los asuntos políticos del Estado, y las diferencias laborales que se presenten entre las autoridades electorales y sus servidores públicos.
 
 Para el ejercicio de su competencia, el Tribunal Estatal Electoral contará con Magistrados, Jueces instructores y demás personal que requiera.
 
@@ -274,6 +292,10 @@ Los Magistrados del Tribunal Estatal Electoral, deberán satisfacer los mismos r
 El Pleno del Tribunal Estatal Electoral, será competente para resolver en segunda instancia los recursos que interpongan contra declaratoria de validez de las elecciones de Diputados y de Ayuntamientos y contra la expedición de la constancia de mayoría y de asignación que, en cada caso, emitan las autoridades electorales competentes en los términos de la Ley.
 
 La Ley garantizará que los Consejeros Ciudadanos que integrarán el Organismo Público Autónomo, a que se refiere este artículo, y los Magistrados del Tribunal Estatal Electoral, no tengan antecedentes de dirigencia partidaria.
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+V.- En el Código Penal se tipificarán los delitos, y en la Ley las faltas, en materia electoral; en ambos se establecerán las sanciones respectivas.
 
 ###### Art. 21.
 
@@ -306,6 +328,10 @@ La residencia de los Poderes únicamente podrá cambiarse por resolución del Co
 ###### Art. 25.
 
 El ejercicio de las funciones propias del Poder Legislativo se encomienda a una Asamblea que se denominará "Congreso del Estado Libre y Soberano de Tamaulipas". Los Diputados al Congreso serán electos en su totalidad cada tres años. Por cada Diputado Propietario se elegirá un Suplente.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 1997)</small>
+
+Las Legislaturas del Estado se integrarán con diputados elegidos según los principios de mayoría relativa y de representación proporcional, en los términos que señale la Ley.
 
 > <small>(REFORMADO, P.O. 10 DE JUNIO DE 1995)</small>
 
@@ -565,9 +591,9 @@ Son facultades del Congreso:
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
 
-I. Expedir, reformar y derogar las leyes y decretos en todos los ramos de la Administración Pública.
+I. Expedir, reformar y derogar las leyes y decretos en todos los ramos de la Administración Pública;
 
-II. Fijar a propuesta del Gobernador, los gastos de la Administración Pública del Estado, y decretar contribuciones e impuestos para cubrirlos, determinando la duración de estos y el modo de recaudarlos. Ningún pago será legal si no está incluido en el Presupuesto o determinado por ley posterior.
+II. Fijar a propuesta del Gobernador, los gastos de la Administración Pública del Estado, y decretar contribuciones e impuestos para cubrirlos, determinando la duración de estos y el modo de recaudarlos. Ningún pago será legal si no está incluido en el Presupuesto o determinado por ley posterior;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -579,43 +605,43 @@ IV. Fijar, a propuesta de los respectivos Ayuntamientos, por conducto del Ejecut
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
 
-V. Nombrar y remover al Oficial Mayor del Congreso, al Contador Mayor de Hacienda y a los demás Servidores Públicos en los términos de la Ley Orgánica y del Reglamento para el Gobierno Interior.
+V. Nombrar y remover al Oficial Mayor del Congreso, al Contador Mayor de Hacienda y a los demás Servidores Públicos en los términos de la Ley Orgánica y del Reglamento para el Gobierno Interior;
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
 
-VI. Revisar y calificar, por conducto de la Contaduría Mayor de Hacienda, las Cuentas Públicas del Estado, de los Municipios y demás organismos que administren o manejen fondos del Sector Público. Una ley determinará la organización y funcionamiento de dicha Contaduría que dependerá en absoluto del Congreso y estará bajo la vigilancia de la Comisión de Hacienda y Crédito Público.
+VI. Revisar y calificar, por conducto de la Contaduría Mayor de Hacienda, las Cuentas Públicas del Estado, de los Municipios y demás organismos que administren o manejen fondos del Sector Público. Una ley determinará la organización y funcionamiento de dicha Contaduría que dependerá en absoluto del Congreso y estará bajo la vigilancia de la Comisión de Hacienda y Crédito Público;
 
-VII. Fijar las bases para que el Ejecutivo pueda celebrar emprésitos sobre el crédito del Estado, con las limitaciones que marca la fracción VIII del artículo 117 de la Constitución General de la República; aprobar los contratos respectivos, y reconocer y mandar pagar las deudas que contraiga el Estado.
+VII. Fijar las bases para que el Ejecutivo pueda celebrar emprésitos sobre el crédito del Estado, con las limitaciones que marca la fracción VIII del artículo 117 de la Constitución General de la República; aprobar los contratos respectivos, y reconocer y mandar pagar las deudas que contraiga el Estado;
 
-VIII. Fijar las bases al Ejecutivo para renovar los contratos de donde se origine la deuda del Estado.
+VIII. Fijar las bases al Ejecutivo para renovar los contratos de donde se origine la deuda del Estado;
 
 > <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 1943)</small>
 
-IX. Autorizar la enajenación y gravamen de los bienes muebles e inmuebles del Estado y de los Municipios. La venta de bienes muebles se verificará en pública subasta, siempre que éstos hayan sido declarados inútiles a juicio del H. Congreso.
+IX. Autorizar la enajenación y gravamen de los bienes muebles e inmuebles del Estado y de los Municipios. La venta de bienes muebles se verificará en pública subasta, siempre que éstos hayan sido declarados inútiles a juicio del H. Congreso;
 
-X. Fijar las bases a los Ayuntamientos para la contratación de emprésitos.
-
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
-
-XI. Suprimir empleos públicos de acuerdo con las disposiciones de la Ley respectiva.
-
-XII. Conceder permisos y decretar honores por servicios eminentes prestados a la Humanidad, a la Patria o al Estado.
-
-XIII. Expedir leyes para la jubilación de los maestros de instrucción pública que lo merezcan en atención a la antigüedad y eficacia de sus servicios.
+X. Fijar las bases a los Ayuntamientos para la contratación de emprésitos;
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
-XIV. Decretar pensiones en favor de las familias de los que hayan prestado servicios eminentes al Estado y a los empleados del mismo por jubilación.
+XI. Suprimir empleos públicos de acuerdo con las disposiciones de la Ley respectiva;
 
-XV. Iniciar ante el Congreso General las leyes y decretos que sean de la competencia del Poder Legislativo de la Federación, así como la (sic) reformas o derogación de unas y otras, y secundar cuando lo estime conveniente, las iniciativas hechas por las Legislaturas de otros Estados.
+XII. Conceder permisos y decretar honores por servicios eminentes prestados a la Humanidad, a la Patria o al Estado;
 
-XVI. Reclamar ante el Congreso de la Unión cuando alguna ley general constituye un ataque a la soberanía o independencia del Estado o a la Constitución Federal.
+XIII. Expedir leyes para la jubilación de los maestros de instrucción pública que lo merezcan en atención a la antigüedad y eficacia de sus servicios;
 
-XVII. Llamar a los Diputados suplentes para que concurran al Congreso, previa calificación del impidimento (sic) de los propietarios.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
+
+XIV. Decretar pensiones en favor de las familias de los que hayan prestado servicios eminentes al Estado y a los empleados del mismo por jubilación;
+
+XV. Iniciar ante el Congreso General las leyes y decretos que sean de la competencia del Poder Legislativo de la Federación, así como la (sic) reformas o derogación de unas y otras, y secundar cuando lo estime conveniente, las iniciativas hechas por las Legislaturas de otros Estados;
+
+XVI. Reclamar ante el Congreso de la Unión cuando alguna ley general constituye un ataque a la soberanía o independencia del Estado o a la Constitución Federal;
+
+XVII. Llamar a los Diputados suplentes para que concurran al Congreso, previa calificación del impidimento (sic) de los propietarios;
 
 > <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1993)</small>
 
-XVIII. Establecer un Organismo de Protección de los Derechos Humanos que otorga el orden jurídico mexicano, en los términos del Artículo 102 Apartado B de la Constitución Política de los Estados Unidos Mexicanos.
+XVIII. Establecer un Organismo de Protección de los Derechos Humanos que otorga el orden jurídico mexicano, en los términos del Artículo 102 Apartado B de la Constitución Política de los Estados Unidos Mexicanos;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -623,19 +649,19 @@ XIX. Declarar si ha o no lugar a proceder penalmente contra los servidores públ
 
 Asimismo, conocer de las imputaciones que se hagan a los servidores públicos a que se refiere el Artículo 151 de esta Constitución y, en su caso, fungir como órgano de acusación en los juicios políticos que contra éstos se instauren;
 
-XX. Conceder ammistía por delitos cuyo conocimiento corresponde exclusivamente a los tribunales del Estado.
+XX. Conceder ammistía por delitos cuyo conocimiento corresponde exclusivamente a los tribunales del Estado;
 
 > <small>(REFORMADA, P.O. 2 DE MAYO DE 1936)</small>
 
-XXI. Nombrar y remover a los Magistrados del Supremo Tribunal de Justicia del Estado en los términos que establece la presente Constitución.
+XXI. Nombrar y remover a los Magistrados del Supremo Tribunal de Justicia del Estado en los términos que establece la presente Constitución;
 
-XXII.- Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General.
+XXII.- Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General;
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 1934)</small>
 
-XXIII. Nombrar el Gobernador Interino en los casos a que se refiere el artículo 85 de esta Constitución, para que promulgue el Decreto convocando a elecciones en los términos y forma que dicha disposición constitucional establece y para que desempeñe el Poder Ejecutivo mientras se hace cargo del mismo el Gobernador Constitucional Substituto que resulte electo.
+XXIII. Nombrar el Gobernador Interino en los casos a que se refiere el artículo 85 de esta Constitución, para que promulgue el Decreto convocando a elecciones en los términos y forma que dicha disposición constitucional establece y para que desempeñe el Poder Ejecutivo mientras se hace cargo del mismo el Gobernador Constitucional Substituto que resulte electo;
 
-XXIV. Comunicarse con el Ejecutivo por medio de Comisiones nombradas de su seno.
+XXIV. Comunicarse con el Ejecutivo por medio de Comisiones nombradas de su seno;
 
 > <small>(REFORMADA, P.O. 10 DE JUNIO DE 1995)</small>
 
@@ -643,83 +669,83 @@ XXV. Elegir a los Consejeros Ciudadanos del Consejo Estatal Electoral y al Presi
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
 
-XXVI. Expedir su Ley Orgánica y su Reglamento Interior.
+XXVI. Expedir su Ley Orgánica y su Reglamento Interior;
 
-XXVII. Facultar al Ejecutivo para que celebre arreglos amistosos relativos a límites del Estado; aprobar estos en su caso y pedir al Congreso de la Unión su aprobación.
+XXVII. Facultar al Ejecutivo para que celebre arreglos amistosos relativos a límites del Estado; aprobar estos en su caso y pedir al Congreso de la Unión su aprobación;
 
-XXVIII. Resolver las cuestiones de límites que se susciten entre Municipios del Estado, siempre que entre ellos no se hayan puesto de acuerdo.
+XXVIII. Resolver las cuestiones de límites que se susciten entre Municipios del Estado, siempre que entre ellos no se hayan puesto de acuerdo;
 
-XXIX. Dar la ley sobre el número máximo de Ministros de los Cultos a que le faculta el artículo 130 de la Constitución General de la República.
-
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1995)</small>
-
-XXX. Erigirse en Colegio Electoral para calificar la elección de Gobernador del Estado.
+XXIX. Dar la ley sobre el número máximo de Ministros de los Cultos a que le faculta el artículo 130 de la Constitución General de la República;
 
 > <small>(REFORMADA, P.O. 10 DE JUNIO DE 1995)</small>
 
-XXXI. Resolver cualquier duda que ocurra sobre la validez de la elección y calidad del candidato electo a Gobernador del Estado. La resolución del Congreso en funciones de Colegio Electoral es irrevocable.
+XXX. Erigirse en Colegio Electoral para calificar la elección de Gobernador del Estado;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1995)</small>
+
+XXXI.- Resolver cualquier duda que ocurra sobre la validez de la elección y calidad del candidato electo a Gobernador del Estado. La resolución del Congreso en funciones de Colegio Electoral es irrevocable;
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
-XXXII. Determinar lo que crea conveniente sobre la renuncia que sobre su cargo haga el Gobernador y calificar los impedimentos que no le permitan encargarse de su cometido, decretando nueva elección si la renuncia o impedimento ocurriere dentro de los tres primeros años del período.
+XXXII. Determinar lo que crea conveniente sobre la renuncia que sobre su cargo haga el Gobernador y calificar los impedimentos que no le permitan encargarse de su cometido, decretando nueva elección si la renuncia o impedimento ocurriere dentro de los tres primeros años del período;
 
-XXXIII. Computar los votos y declarar electos Senadores al Congreso de la Unión, conforme a lo dispuesto en el artículo 56 de la Constitución General, a los ciudadanos que hayan obtenido mayoría absoluta de votos, erigiéndose para el efecto en Colegio Electoral.
+XXXIII. Computar los votos y declarar electos Senadores al Congreso de la Unión, conforme a lo dispuesto en el artículo 56 de la Constitución General, a los ciudadanos que hayan obtenido mayoría absoluta de votos, erigiéndose para el efecto en Colegio Electoral;
 
-XXXIV. Solicitar del ciudadano Presidente de la República, conforme a lo dispuesto por el artículo 29 de la Constitución Federal, la suspención de las garantías que ella otorga a los habitantes del Estado, con excepción de las que aseguran la vida del hombre; pero deberá hacerlo a petición del Ejecutivo del Estado y solamente en los casos de invasión, pertubación grave de la paz pública y cualesquiera otro que pongan al Estado en grave peligro o conflicto. En los recesos del Congreso, si el caso fuere declarado urgentísimo por unanimidad de la Diputación Permanente, esta, llamando a los Diputados existentes en el lugar donde celebre sus sesiones, que tendrán voz y voto en las deliberaciones, podrá hacer la petición antes dicha, sin perjuicio de convocarlo inmediatamente para darle cuenta y para que resuelva lo conveniente.
+XXXIV. Solicitar del ciudadano Presidente de la República, conforme a lo dispuesto por el artículo 29 de la Constitución Federal, la suspención de las garantías que ella otorga a los habitantes del Estado, con excepción de las que aseguran la vida del hombre; pero deberá hacerlo a petición del Ejecutivo del Estado y solamente en los casos de invasión, pertubación grave de la paz pública y cualesquiera otro que pongan al Estado en grave peligro o conflicto. En los recesos del Congreso, si el caso fuere declarado urgentísimo por unanimidad de la Diputación Permanente, esta, llamando a los Diputados existentes en el lugar donde celebre sus sesiones, que tendrán voz y voto en las deliberaciones, podrá hacer la petición antes dicha, sin perjuicio de convocarlo inmediatamente para darle cuenta y para que resuelva lo conveniente;
 
-XXXV. Decretar, en su caso, el modo de cubrir el contingente de hombres que corresponda al Estado para el Ejército de la Nación.
+XXXV. Decretar, en su caso, el modo de cubrir el contingente de hombres que corresponda al Estado para el Ejército de la Nación;
 
 XXXVI. (DEROGADA, P.O. 10 DE JUNIO DE 1995)
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
-XXXVII. Recibir la protesta constitucional a los Diputados, al Gobernador, a sus substitutos, a los Magistrados de Supremo Tribunal de Justicia y a todos los empleados de su nombramiento que conforme las leyes no deban otorgar la protesta de otro modo.
+XXXVII. Recibir la protesta constitucional a los Diputados, al Gobernador, a sus substitutos, a los Magistrados de Supremo Tribunal de Justicia y a todos los empleados de su nombramiento que conforme las leyes no deban otorgar la protesta de otro modo;
 
-XXXVIII. Fomentar e impulsar la educación pública y todos los ramos de prosperidad en general.
+XXXVIII. Fomentar e impulsar la educación pública y todos los ramos de prosperidad en general;
 
-XXXIX. Estimular la beneficencia pública, reglamentarla para que llene sus fines y para que estén debidamente asegurados sus bienes.
+XXXIX. Estimular la beneficencia pública, reglamentarla para que llene sus fines y para que estén debidamente asegurados sus bienes;
 
 > <small>(REFORMADA, P.O. 30 DE ENERO DE 1993)</small>
 
 XL. Conceder o negar al Gobernador, licencia temporal para separarse de su cargo por más de 30 días y permiso para salir del territorio del Estado por más de 15 días, y designar a la persona que deba suplirlo interinamente en los casos que así se requiera;
 
-XLI. Autorizar al Ejecutivo para crear fuerzas de servicio temporal cuando lo demanden las necesidades del Estado.
+XLI. Autorizar al Ejecutivo para crear fuerzas de servicio temporal cuando lo demanden las necesidades del Estado;
 
 > <small>(REFORMADA, P.O. 23 DE JUNIO DE 1928)</small>
 
-XLII. Conceder facultades extraordinarias al Ejecutivo en alguno o en todos los ramos de la Administración Pública cuando circunstancias apremiantes así lo exijan siendo necesario para ello los votos de cuatro de los Diputados presentes.
+XLII. Conceder facultades extraordinarias al Ejecutivo en alguno o en todos los ramos de la Administración Pública cuando circunstancias apremiantes así lo exijan siendo necesario para ello los votos de cuatro de los Diputados presentes;
 
-XLIII. La facultad que le concede el artículo 24 de esta Constitución.
+XLIII. La facultad que le concede el artículo 24 de esta Constitución;
 
-XLIV. Concurrir a la reforma de la Constitución General de la República en los términos que establece el artículo 135 de la misma Constitución.
+XLIV. Concurrir a la reforma de la Constitución General de la República en los términos que establece el artículo 135 de la misma Constitución;
 
-XLV. Expedir las leyes necesarias para hacer efectivas todas las anteriores facultades y las concedidas a los otros Poderes por esta Constitución, así como las que no estén expresamente reservadas a los Poderes de la Unión y correspondan al régimen interior del Estado.
+XLV. Expedir las leyes necesarias para hacer efectivas todas las anteriores facultades y las concedidas a los otros Poderes por esta Constitución, así como las que no estén expresamente reservadas a los Poderes de la Unión y correspondan al régimen interior del Estado;
 
-XLVI. Dirimir los conflictos que se susciten entre el Ejecutivo del Estado y el Tribunal Superior de Justicia, sólo cuando tengan carácter puramente administrativo.
+XLVI. Dirimir los conflictos que se susciten entre el Ejecutivo del Estado y el Tribunal Superior de Justicia, sólo cuando tengan carácter puramente administrativo;
 
-XLVII. Dictar leyes tendentes a combatir con la mayor energía el alcoholismo.
+XLVII. Dictar leyes tendentes a combatir con la mayor energía el alcoholismo;
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1965)</small>
 
-XLVIII. Dictar leyes para organizar dentro o fuera del Estado pero dentro del territorio de la República, el sistema penal por colonias, penitenciarías sobre la base del trabajo, como medio de regeneración.
+XLVIII. Dictar leyes para organizar dentro o fuera del Estado pero dentro del territorio de la República, el sistema penal por colonias, penitenciarías sobre la base del trabajo, como medio de regeneración;
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 1934)</small>
 
-LIX. (sic) Convocar a elecciones en caso de muerte del Gobernador, o cuando por haber declarado que ha lugar a formación de causa en su contra, haya sido consignado y quede acéfalo el Poder Ejecutivo y siempre que la falta obsoluta (sic) ocurra durante los tres primeros años del período.
+LIX. (sic) Convocar a elecciones en caso de muerte del Gobernador, o cuando por haber declarado que ha lugar a formación de causa en su contra, haya sido consignado y quede acéfalo el Poder Ejecutivo y siempre que la falta obsoluta (sic) ocurra durante los tres primeros años del período;
 
-L. Conocer y resolver sobre la renuncia que presenten los Magistrados del Supremo Tribunal de Justicia y de los impedimentos que tengan para desempeñar sus cargos, nombrando en su caso quien deba substituirlos.
+L. Conocer y resolver sobre la renuncia que presenten los Magistrados del Supremo Tribunal de Justicia y de los impedimentos que tengan para desempeñar sus cargos, nombrando en su caso quien deba substituirlos;
 
 > <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-LI. Expedir Leyes que regulen las relaciones laborales del Estado y los Municipios con sus respectivos trabajadores, en base a lo dispuesto por el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias.
+LI. Expedir Leyes que regulen las relaciones laborales del Estado y los Municipios con sus respectivos trabajadores, en base a lo dispuesto por el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias;
 
 LII. (DEROGADA, P.O. 3 DE DICIEMBRE DE 1941)
 
-LIII. Crear nuevas Municipalidades dentro de las existentes, variar sus límites y suprimir alguna o algunas de ellas.
+LIII. Crear nuevas Municipalidades dentro de las existentes, variar sus límites y suprimir alguna o algunas de ellas;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1963)</small>
 
-LIV. Resolver, en definitiva, sobre las medidas adoptadas por el Gobernador, en los casos a que se refiere la fracción XLV del Artículo 91, dándole inmediata cuenta de la resolución, a fin de que proceda en consecuencia.
+LIV. Resolver, en definitiva, sobre las medidas adoptadas por el Gobernador, en los casos a que se refiere la fracción XLV del Artículo 91, dándole inmediata cuenta de la resolución, a fin de que proceda en consecuencia;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -731,11 +757,11 @@ LVI. Para expedir leyes que instituyan el Tribunal de lo Contencioso-Administrat
 
 > <small>(ADICIONADA, P.O. 22 DE ABRIL DE 1989)</small>
 
-LVII. Aprobar los nombramientos de los Magistrados del Tribunal de lo Contencioso-Administrativo y recibir la protesta de los mismos.
+LVII. Aprobar los nombramientos de los Magistrados del Tribunal de lo Contencioso-Administrativo y recibir la protesta de los mismos;
 
 > <small>(ADICIONADA, P.O. 22 DE ABRIL DE 1989)</small>
 
-LVIII. Ejercer las demás facultades que le señala esta Constitución, la General de la República u otras Leyes;
+LVIII. Ejercer las demás facultades que le señala esta Constitución, la General de la República u otras Leyes.
 
 ###### Art. 59.
 
@@ -2775,11 +2801,11 @@ DECRETO No. 333.
 
 El presente Decreto inicia su vigencia a partir de su expedición.
 
+P.O. 15 DE FEBRERO DE 1997.
+
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 28 DE DICIEMBRE DE 1982.
+El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO UNICO.
 
