@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-18473"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-07-14"
-last_updated: "2001-07-11"
+last_updated: "2002-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18473&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE MONTERREY, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2002.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 14 de julio de 2000.
 
@@ -69,7 +69,7 @@ I.- El C. Presidente Municipal
 
 II.- El C. Secretario del R. Ayuntamiento
 
-III.- El C. Secretario de Policía Preventiva de Municipal de Monterrey
+III.- El C. Secretario de Policía Preventiva Municipal de Monterrey
 
 IV.- El C. Secretario de Vialidad y Tránsito
 
@@ -93,73 +93,23 @@ Para efectos de este Reglamento se considera como lugar público todo espacio de
 
 La Presidencia Municipal, por conducto de la Secretaría de Policía Preventiva Municipal de Monterrey y de los Jueces Calificadores, aplicará el presente Reglamento y sancionará a los infractores del mismo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL REGLAMENTO INTERNO DE LA SECRETARIA DE POLICIA PREVENTIVA MUNICIPAL DE MONTERREY.</small>
+
 ###### Art. 11º.
 
-Al Secretario de Policía Preventiva de Monterrey corresponde el despacho de los siguientes asuntos:
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DE LA SECRETARIA DE POLICIA PREVENTIVA MUNICIPAL DE MONTERREY, P.O. 21 DE JUNIO DE 2002)
 
-I.- Diseñar y definir políticas, programas y acciones a efectuar, respecto a la prevención de las faltas administrativas y de los delitos en el Municipio.
-
-II.- Mantener el orden y la tranquilidad pública en el Municipio.
-
-III.- Prevenir y auxiliar a las personas en la protección de sus propiedades, posesiones y derechos.
-
-IV.- Auxiliar dentro del marco legal correspondiente al Ministerio Público, Policía Ministerial, autoridades administrativas y judiciales, en el ámbito de su competencia y en los asuntos oficiales que les soliciten.
-
-V.- Coordinarse con otras corporaciones policiales en el otorgamiento de protección a la ciudadanía y en los operativos que lleguen a realizarse.
-
-VI.- Respetar y hacer respetar las disposiciones legales aplicables en el Municipio en materia de Seguridad Pública Municipal.
-
-VII.- Aprehender a los delincuentes en los casos de flagrante delito y cuando exista temor fundado de que el presunto responsable se sustraerá de la acción de la justicia.
-
-VIII.- Contribuir a la seguridad pública de la sociedad, realizando tareas de prevención de faltas administrativas y delitos y auxiliar en las labores de protección civil o auxilio de la población cuando se requiere.
-
-IX.- Poner a disposición de las autoridades competentes a los menores infractores, cuando sus conductas puedan entrañar la comisión de un delito o de una falta administrativa.
-
-X.- Velar por el cumplimiento de las disposiciones establecidas en los reglamentos y ordenamientos municipales, así como en las disposiciones y acuerdos emanados del Ayuntamiento o del Presidente Municipal, en su caso.
-
-XI.- Coadyuvar con las instituciones federales, estatales y municipales, para combatir la delincuencia, aplicando las leyes, reglamentos, decretos y convenios, a fin de garantizar el orden público y promover la participación ciudadana en materia de Seguridad Pública.
-
-XII.- Planear, dirigir, organizar, controlar, supervisar y evaluar el funcionamiento de la Policía Preventiva Municipal de la Ciudad de Monterrey.
-
-XIII.- Integrar el Consejo de Honor y Justicia de la Policía Municipal, integrar el comité de asuntos internos.
-
-XIV.- Establecer las disposiciones, normas operativas, administrativas y disciplinarias, que determinen la actuación de los elementos de la Policía Preventiva Municipal.
-
-XV.- Coordinarse con la Dirección de Seguridad Pública del Estado, en todos los aspectos operativos que se requieran.
-
-XVI.- Rendir al Presidente Municipal un informe mensual de las actividades realizadas por la Secretaría de Policía Preventiva Municipal de Monterrey.
-
-XVII.- Informar, cuando sea requerido por el Gobernador del Estado, en su carácter de Mando Supremo de la fuerza pública en el Municipio, los asuntos relativos a la Corporación.
-
-XVIII.- Acordar con el Presidente Municipal todo lo relacionado en el desempeño de las comisiones y funciones que le confieran.
-
-XIX.- Formular anteproyectos de programas y presupuestos de los asuntos de su competencia, sometiéndolos a la consideración del Presidente Municipal para su incorporación a los proyectos que se sometan a la aprobación del Ayuntamiento.
-
-XX.- Elaborar y proponer al Presidente Municipal el Manual de Organización de la Policía Municipal de la Ciudad de Monterrey.
-
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2001)</small>
-
-XXI.- Brindar al Presidente Municipal y a su familia protección a su integridad física, durante el ejercicio de su encargo.
-
-XXII.- Las demás que le asignen Leyes y Reglamentos y el Presidente Municipal.
-
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL REGLAMENTO INTERNO DE LA SECRETARIA DE POLICIA PREVENTIVA MUNICIPAL DE MONTERREY.</small>
 
 ###### Art. 12º.
 
-Para el despacho de los asuntos de su competencia, el Secretario de Policía Preventiva Municipal de Monterrey, se auxiliará con las Direcciones: Operativa, Administrativa, Prevención y Reclusorios; Subdirecciones, Jefaturas y Coordinacionesde Departamento.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DE LA SECRETARIA DE POLICIA PREVENTIVA MUNICIPAL DE MONTERREY, P.O. 21 DE JUNIO DE 2002)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL REGLAMENTO INTERNO DE LA SECRETARIA DE POLICIA PREVENTIVA MUNICIPAL DE MONTERREY.</small>
 
 ###### Art. 13º.
 
-Se designará a un Comisario por turno, que además del despacho de todos los asuntos de carácter administrativo, tendrá a su cargo la alimentación y cuidado de los detenidos y la conservación de los edificios, instalaciones, muebles y equipos de oficina; además tendrá las siguientes responsabilidades adicionales:
-
-a).- Deberá llevar un libro con el registro de personas detenidas en el que por orden cronológico y en forma numerada, se asienten los datos relacionados con la identidad de la persona, así como el y los motivos de su detención.
-
-b).- En el caso de encontrarse detenidos provisionalmente menores de edad deberán de ser instalados en un área especial para ellos, separada de los mayores de edad.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JULIO DE 2001)</small>
-
-c).- Constituirse en depositario de los bienes y objetos que le sean recogidos a los detenidos, los cuales se les devolverán al momento en que sean puestos nuevamente en libertad o consignados a otra autoridad.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DE LA SECRETARIA DE POLICIA PREVENTIVA MUNICIPAL DE MONTERREY, P.O. 21 DE JUNIO DE 2002)
 
 ###### Art. 14º.
 
@@ -692,3 +642,11 @@ Segundo.- Los bienes que a la entrada en vigor de esta reforma se encuentren baj
 Tercero.- Instrúyase al Secretario de Policía Preventiva Municipal, a tomar prevenciones pertinentes, para la adquisición de sonómetros que se requieran en la medida que los recursos asignados a la Secretaría lo permitan.
 
 Cuarto.- Se derogan todas las disposiciones que contravengan el contenido de esta reforma.
+
+P.O. 21 DE JUNIO DE 2002.
+
+PRIMERO.- El presente Reglamento entrará en vigor 30 días posteriores a su publicación en el Periódico Oficial del Estado y deberá publicarse en la Gaceta Municipal.
+
+SEGUNDO.- Instrúyase al Secretario de la Policía Preventiva Municipal en tanto entre en vigor el presente Reglamento, para que se dé la debida difusión entre los elementos policiacos bajo su cargo para su posterior cumplimiento.
+
+TERCERO.- Se derogan los artículos 11, 12 y 13 del Reglamento de Policía y Buen Gobierno, artículo 22 bis, fracción XV, del Reglamento de la Administración Pública del Municipio de Monterrey y todas las normas y disposiciones generales que contravengan o se opongan a este reglamento.
