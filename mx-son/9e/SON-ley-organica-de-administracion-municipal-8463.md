@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-de-administracion-municipal-8463"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1984-02-02"
-last_updated: "1989-08-21"
+last_updated: "1991-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DE ADMINISTRACION MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 21 DE AGOSTO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 18 DE JULIO DE 1991.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Sonora, el jueves 2 de febrero de 1984.
 
@@ -195,9 +195,11 @@ Los cargos de Presidente Municipal, Síndico y Regidor de un Ayuntamiento, son o
 
 ### CAPITULO II. DE LA INSTALACION
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 18 DE JULIO DE 1991)</small>
+
 ###### ARTICULO 22.
 
-El día 16 de Septiembre del año en que se verifique la elección ordinaria correspondiente, en el lugar y hora señalados por los miembros salientes del Ayuntamiento de que se trate, deberán de comparecer en sesión solemne de Cabildo, las personas que, en los términos de la Ley, resultaron electas para ocupar los cargos de Presidente Municipal, Síndico y Regidores, con el fin de que previas las formalidades a que se refiere este Capítulo; asuman el ejercicio de las funciones inherentes a sus cargos.
+El día 13 de octubre del año en que se verifique la elección ordinaria correspondiente, en el lugar y hora señalados por los miembros salientes del Ayuntamiento de que se trate, deberán de comparecer en sesión solemne de Cabildo, las personas que, en los términos de ley, resultaron electas para ocupar los cargos de Presidente Municipal, Síndico y Regidores, con el fin de que previas las formalidades a que se refiere este Capítulo, asuman el ejercicio de las funciones inherentes a sus cargos.
 
 De no señalarse por los miembros salientes del Ayuntamiento, lugar y hora para la celebración de esta Sesión solemne, se entenderá que la misma debe efectuarse en el recinto oficial de sesiones del Ayuntamiento respectivo, a las 10:00 horas del día mencionado en el párrafo anterior.
 
@@ -225,9 +227,11 @@ Los Ayuntamientos no podrán considerarse legalmente instalados, cuando no concu
 
 ### CAPITULO III. DEL FUNCIONAMIENTO DE LOS AYUNTAMIENTOS
 
+> <small>(REFORMADO, B.O. 18 DE JULIO DE 1991)</small>
+
 ###### ARTICULO 27.
 
-Los miembros de los Ayuntamientos durarán en su cargo tres años e iniciarán sus funciones el día 16 de Septiembre del año que corresponda a su elección.
+Los miembros de los Ayuntamientos durarán en su cargo tres años e iniciarán sus funciones el día 13 de octubre del año que corresponda a su elección.
 
 ###### ARTICULO 28.
 
@@ -1504,3 +1508,7 @@ EL EJECUTIVO DEL ESTADO PROCEDERA EN LA FECHA EN QUE ENTRE EN VIGOR LA PRESENTE 
 ###### ARTICULO TERCERO.
 
 ESTA LEY ENTRARA EN VIGOR TREINTA DIAS DESPUES DE SU PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO.
+
+B.O. 18 DE JULIO DE 1991.
+
+UNICO.- La presente Ley entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
