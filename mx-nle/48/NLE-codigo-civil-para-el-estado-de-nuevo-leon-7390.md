@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2003-09-12"
+last_updated: "2004-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -2359,7 +2359,7 @@ En la línea transversal los grados se cuentan por el número de generaciones, s
 
 ### CAPITULO III. DE LA VIOLENCIA FAMILIAR
 
-> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
 
 ###### Art. 301.
 
@@ -2511,7 +2511,7 @@ El juez, según las circunstancias del caso, fijará la suma que el marido debe 
 
 ###### Art. 323 Bis.
 
-Por violencia familiar se considera la acción que se realiza en contra del cónyuge, concubina o concubinario, pariente consanguíneo en línea recta, ascendiente o descendiente sin limitación de grado; pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado que habitando o no en la misma casa, dañe la integridad física o psicológica de uno o varios miembros de su familia, independientemente de que se proceda penalmente contra el agresor.
+Por violencia familiar se considera la acción o la omisión grave y reiterada, contra el cónyuge; concubina o concubinario; pariente consanguíneo en línea recta, ascendiente o descendiente sin limitación de grado; pariente colateral consanguíneo o afín hasta el cuarto grado; adoptante o adoptado, con el fin de dominarlo, someterlo o agredirlo, dañando la integridad física o psicológica de uno o varios miembros de su familia, de la concubina o del concubinario, independientemente de que habiten o no en el mismo domicilio, se produzcan o no lesiones o cualquier otro delito, o se proceda penalmente contra el agresor.
 
 ### CAPITULO II. DE LAS PRUEBAS DE FILIACION DE LOS HIJOS NACIDOS DE MATRIMONIO
 
@@ -2777,11 +2777,13 @@ El Oficial del Registro Civil, el Juez de Primera Instancia en su caso, y el not
 
 ###### Art. 372.
 
-La mujer casada no podrá reconocer sin el consentimiento del marido a un hijo habido antes de su matrimonio.
+(DEROGADO, P.O. 28 DE ABRIL DE 2004)
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
 
 ###### Art. 373.
 
-El marido podrá reconocer a un hijo habido antes de su matrimonio o durante éste; pero no tendrá derecho de llevarlo a vivir a la habitación conyugal, si no es con el consentimiento expreso de la esposa.
+El hombre o la mujer podrán reconocer a un hijo habido antes de su matrimonio o durante éste; y tendrán derecho de llevarlo a vivir al domicilio conyugal, con el consentimiento expreso de su cónyuge.
 
 ###### Art. 374.
 
@@ -2859,11 +2861,11 @@ II.- Los nacidos dentro de los trescientos días siguientes al en que cesó la v
 
 La posesión de estado, para los efectos de la fracción II del artículo 382, se justificará demostrando por los medios ordinarios de prueba, que el hijo ha sido tratado por el presunto padre, o por su familia, como hijo del primero, y que éste ha proveído a su subsistencia, educación y establecimiento.
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
 
 ###### Art. 385.
 
-Está permitido al hijo nacido fuera de matrimonio y a sus descendientes, investigar la maternidad, la cual puede probarse por cualquiera de los medios ordinarios; pero la indagación no será permitida cuando tenga por objeto atribuir el hijo, a mujer casada si éste nació dentro de los períodos comprometidos en el artículo 324.
+Está permitido al hijo nacido fuera de matrimonio y a sus descendientes, investigar la maternidad o la paternidad, las cuales pueden acreditarse por cualquiera de los medios de prueba; pero la indagación no será permitida cuando tenga por objeto atribuir el hijo a mujer casada, si éste nació dentro de los períodos comprendidos en el artículo 324.
 
 ###### Art. 386.
 
@@ -2893,31 +2895,51 @@ III.- A percibir la porción hereditaria y los alimentos que fije la ley.
 
 #### SECCION PRIMERA. DE LA ADOPCION EN GENERAL
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2004)</small>
 
 ###### Art. 390.
 
-El mayor de veinticinco años, aún libre de matrimonio, en pleno ejercicio de sus derechos, puede adoptar uno o más menores, aún cuando se encuentren incapacitados, siempre que el adoptante tenga quince años o mas que el adoptado y que acredite además:
+El mayor de veinticinco años, aún libre de matrimonio, en pleno ejercicio de sus derechos, puede adoptar uno o más menores, aún cuando se encuentren incapacitados, siempre que el adoptante tenga 15 años o más que el adoptado salvo en el caso de adopción entre personas con lazos de parentesco, y que acredite además:
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1996)</small>
 
 I.- Que tiene medios bastantes para proveer a la subsistencia y educación del menor, como hijo propio, según las circunstancias de la persona que trata de adoptar;
 
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1996)</small>
+
 II.- Que la adopción es benéfica para la persona que trata de adoptarse;
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1996)</small>
 
 III.- Que el adoptante es persona de buenas costumbres;
 
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1996)</small>
+
 IV.- Que tiene un certificado de salud;
 
-V.- Evaluación psicológica y socioeconómica practicada por Institución Pública competente;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2004)</small>
 
-VI.- Su identidad, antecedentes, historia familiar, entorno social y razones para adoptar;
+V.- Evaluación psicológica y socioeconómica practicada por instituciones públicas o privadas competentes debidamente aprobadas y certificadas por el Consejo Estatal de Adopciones. El Juez cuidará que sean exhibidas y en su caso revisadas en el procedimiento de adopción;
 
-VII.- La identidad, el origen étnico, el entorno social, los antecedentes familiares, religiosos, culturales y la historia médica del menor que se pretende adoptar, siempre que no se trate de un menor expósito; y
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2004)</small>
 
-VIII.- Opinión del Consejo Estatal de Adopciones, cuando no exista parentesco entre adoptante y adoptado.
+VI.- Su identidad, historia familiar y razones para adoptar; y
 
-Cuando circunstancias especiales lo aconsejen, el Juez puede autorizar la adopción de dos más menores simultáneamente.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2004)</small>
+
+VII.- La identidad, las circunstancias familiares y sociales, así como la historia médica y los antecedentes en materia de tradiciones, creencias y entorno cultural, del menor que se pretende adoptar, siempre que no se trate de un menor expósito.
+
+VIII.- (DEROGADA, P.O. 28 DE ABRIL DE 2004)
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
+
+Cuando circunstancias especiales lo aconsejen, el Juez puede autorizar la adopción de dos o más menores simultáneamente, así como autorizar la adopción de un mayor de edad, siempre y cuando éste haya vivido como hijo de los futuros adoptantes y este hecho sea de conocimiento público.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 En la adopción siempre será prioritario el interés superior del menor y el respeto de sus derechos fundamentales.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 Los trámites y gestiones relativos a la adopción deberán realizarse en forma personal por el que pretende adoptar.
 
@@ -2951,13 +2973,19 @@ II.- El tutor del que se va a adoptar;
 
 III.- El Ministerio Público del lugar del domicilio del adoptado, cuando éste no tenga padres conocidos, o teniéndolos se desconozca su paradero;
 
-IV.- Si el menor que se va a adoptar ha cumplido doce años, también se requerirá su consentimiento. Si es menor de esa edad, deberán ser tomados en cuenta sus deseos y opiniones según su madurez.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2004)</small>
+
+IV.- Si el menor que se va a adoptar ha cumplido doce años, también se requerirá su consentimiento para la adopción. Si es menor de esa edad, deberán ser tomados en cuenta sus deseos y opiniones según su madurez.
 
 El consentimiento para la adopción puede ser expresado ante el Titular de la Procuraduría de la Defensa del Menor y la Familia del Estado, por las madres y padres biológicos, o quienes ejerzan la patria potestad sobre el presunto adoptado, debidamente identificados, quienes además presentarán el certificado de nacido vivo o certificación del acta de nacimiento del menor.
 
 El titular de la dependencia citada en el párrafo anterior, deberá instruir suficientemente a quienes otorguen el consentimiento ante él, así como informarle sobre los efectos de la adoción (sic) y constatar que el consentimiento es dado libremente, sin remuneración alguna y después del nacimiento del menor, y que éste no se ha revocado. Respecto del menor, éste será instruido e informado sobre los efectos de la adopción, y se tomarán en cuenta sus deseos y opiniones de acuerdo con la edad y el grado de madurez que tenga.
 
 Igual obligación tendrá el Juez que conozca de la adopción, respecto del consentimiento que sea manifestado ante él.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2004)</small>
+
+La retractación del consentimiento es posible antes de los 30 días contados a partir de que fue otorgado.
 
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -2977,11 +3005,13 @@ El procedimiento para hacer la adopción se regulará por lo establecido en el C
 
 Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando una adopción, ésta quedará consumada para todos los efectos legales.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2004)</small>
 
 ###### Art. 398.
 
-El juez que apruebe la adopción remitirá copias de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente. Asimismo, deberá turnar copia de la sentencia correspondiente, al Consejo Estatal de Adopciones para que realice el seguimiento de la adopción del menor hasta por dos años.
+El Juez que apruebe la adopción remitirá copia de la sentencia al Oficial del Registro Civil del lugar para que levante el acta correspondiente, y al Sistema para el Desarrollo Integral de la Familia, para que realice el seguimiento de la adopción del menor, realizando como mínimo dos visitas durante el año, en un período de hasta dos años, contados a partir de la fecha en que se otorgó la adopción. A excepción de las adopciones tramitadas por organismos privados aprobados y certificados por el Consejo Estatal de Adopciones, quienes darán el seguimiento correspondiente.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 Cuando el juez decrete que no procede autorizar la adopción y el menor se encuentre viviendo con quien pretende adoptarlo, el juez decretará la separación del menor de aquél y ordenará su depósito provisional en la Institución Pública que corresponda.
 
@@ -2999,13 +3029,13 @@ El o los adoptantes adquirirán la patria potestad sobre el menor. En caso de qu
 
 La adopción producirá sus efectos aunque sobrevengan hijos al adoptante.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
 
 ###### Art. 401.
 
-El que haya sido adoptado podrá impugnar la adopción dentro del año siguiente al que cumpla su mayoría de edad o, en su caso, siendo mayor de edad, dentro del año siguiente al en que tenga conocimiento del hecho, cuando haya violación a lo dispuesto por los artículos 390 al 394.
+El que haya sido adoptado podrá impugnar la adopción en cualquier tiempo.
 
-El Ministerio Público también podrá impugnar la adopción por las mismas causas, cuando se afecte al menor.
+El Ministerio Público también podrá impugnar la adopción cuando se afecte el interés del menor, y tanto en este caso como en el que la impugnación sea realizada por un adoptado menor de edad, promoverá la designación de un tutor especial que represente al menor ante el juez de la causa, quien tendrá facultades para designarlo.
 
 > <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -3027,11 +3057,11 @@ Los derechos y obligaciones que nacen de esta forma de adopción, así como el p
 
 El o los adoptados llevarán los apellidos del o los adoptantes, quienes tendrán derecho a cambiar el nombre del adoptado, haciéndose las anotaciones correspondientes en el acta de adopción.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
 
 ###### Art. 404.
 
-La adopción semiplena podrá convertirse en plena siempre que se cumplan los requisitos aplicables a ésta última, debiendo obtenerse el parecer del adoptado si éste ha cumplido doce años. Si fuere menor de esa edad y en todo caso, se recabará la opinión del Ministerio Público y del Consejo Estatal de Adopciones.
+La adopción semiplena podrá convertirse en plena siempre que se cumplan los requisitos aplicables a esta última. Si fuere respecto de menor de edad se recabará la opinión del Ministerio Público y de la Procuraduría de la Defensa del Menor y la Familia, dependiente del Sistema para el Desarrollo Integral de la Familia del Estado.
 
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -3043,7 +3073,9 @@ I.- Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor d
 
 II.- Por ingratitud del adoptado; y
 
-III.- Cuando el Consejo Estatal de Adopciones determine alguna causa grave y justificada que ponga en peligro los derechos fundamentales del adoptado, a juicio del juez.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2004)</small>
+
+III. Cuando el Sistema para el Desarrollo Integral de la Familia del Estado determine alguna causa grave y justificada que ponga en peligro los derechos fundamentales del adoptado, a juicio del Juez.
 
 ###### Art. 406.
 
@@ -3081,13 +3113,9 @@ Las resoluciones que dicten los jueces, aprobando la revocación, se comunicará
 
 Los menores podrán ser adoptados mediante el sistema de adopción plena, aplicándose al efecto las disposiciones de este capítulo.
 
-> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
 
-Art. 410 Bis I.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo, es decir, la filiación completa, respecto al adoptante o adoptantes y a la familia de éstos, substituyendo los vínculos que tuvo con su familia de origen, salvo para el efecto de contraer matrimonio. El adoptado adquiere en la familia del o los adoptantes, los mismos derechos y obligaciones del hijo consanguíneo y debe llevar los apellidos del adoptante o adoptantes.
-
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1999)</small>
-
-En la adopción plena se requerirá que los ascendientes de o los adoptantes otorguen ante el juez su consentimiento. Cuando éstos sean declarados ausentes o hubieren muerto, el juez mediante la comprobación fehaciente de estos hechos, eximirá del cumplimiento de este requisito.
+Art. 410 Bis I.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo, es decir, la filiación completa, respecto al adoptante o adoptantes y a la familia de éstos; dejando sin efectos los vínculos que tuvo con su familia de origen, excepto para contraer matrimonio. El adoptado adquiere en la familia del (sic) de los adoptantes, los mismos derechos y obligaciones del hijo consanguíneo y debe llevar los apellidos del adoptante o adoptantes.
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -3103,63 +3131,29 @@ III.- En los demás casos previstos por las leyes.
 
 Art. 410 Bis III.- La adopción plena es irrevocable y sólo es impugnable por el adoptado o por el Ministerio Público en el supuesto previsto en el artículo 401.
 
-#### Sección I. Consecuencias del incumplimiento de las obligaciones
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2004)</small>
 
-ART. 1158.- El que incumple una obligación de hacer, bien dejando de prestar el hecho a que se obligó, bien no prestándolo conforme a lo convenido, será responsable de los daños y perjuicios que cause, en los términos siguientes:
+Art. 410 Bis IV.- La adopción plena puede beneficiar a personas de cualquier edad, mientras que la adopción semiplena sólo podrá otorgarse sobre personas de quince años o mayores.
 
-I.- Si la obligación fuere a plazo, comenzará la responsabilidad al vencimiento de éste;
+(ADICIONADO, P.O. 28 DE ABRIL DE 2004
 
-II.- Si la obligación no dependiere de plazo cierto, se observará lo dispuesto en el artículo 1134.
+Art. 410 Bis V.- Si alguno de los adoptantes fallece después de haber iniciado el procedimiento judicial de la adopción, podrá continuar el trámite el cónyuge supérstite, surtiendo efectos para ambos cónyuges, siempre que la voluntad del fallecido hubiere sido expresada y ratificada ante juez competente. En caso contrario, sólo tendrá efectos para el supérstite.
 
-ART. 1159.- El que contraviene una obligación de no hacer pagará daños y perjuicios por el solo hecho de la contravención, sin perjuicio, en su caso, de lo dispuesto en la parte final del artículo 1046.
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 28 DE ABRIL DE 2004)</small>
 
-ART. 1160.- En las obligaciones de dar que tengan plazo fijo, se observará lo dispuesto en la fracción I del artículo 1158
+#### SECCION CUARTA. DE LA ADOPCION INTERNACIONAL Y POR EXTRANJEROS
 
-Si no tuviere plazo cierto, se aplicará lo prevenido en el artículo 1134, parte primera.
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2004)</small>
 
-ART. 1161.- La responsabilidad procedente de dolo es exigible en todas las obligaciones. La renuncia de hacerla efectiva es nula.
+Art. 410 Bis VI.- La adopción internacional es la promovida por ciudadanos de otro país, con residencia habitual fuera del territorio nacional y tiene como objeto incorporar en una familia, a un menor que no puede encontrar una familia en su propio país de origen. Esta adopción se regirá por los tratados internacionales suscritos y ratificados por el Estado mexicano y en lo conducente, por las disposiciones de este Código.
 
-ART. 1162.- La responsabilidad de que se trata en este título, además de importar la devolución del bien o su precio, importará la reparación de los daños y la indemnización de los perjuicios.
+Las adopciones internacionales siempre serán plenas.
 
-ART. 1163.- Se entiende por daño la pérdida o menoscabo sufrido en el patrimonio por la realización del hecho que la ley considera fuente de la responsabilidad.
+La adopción por extranjeros es la promovida por ciudadanos de otro país, con residencia permanente en el territorio nacional. Esta adopción se regirá por lo dispuesto en este Código.
 
-Se reputa perjuicio la privación de cualquiera ganancia lícita que se habría obtenido de no haberse realizado el hecho considerado por la ley como fuente de la responsabilidad.
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2004)</small>
 
-ART. 1164.- El daño puede ser también moral cuando el hecho ilícito perjudique a los componentes del patrimonio moral de la víctima.
-
-Enunciativamente se consideran componentes del patrimonio moral, el afecto del titular del patrimonio moral por otras personas, su estimación por determinados bienes, el derecho al secreto de su vida privada, así como el honor, el decoro, el prestigio, la buena reputación e integridad física de la persona misma.
-
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
-
-ART. 1165.- Los daños y perjuicios deben ser consecuencia directa a inmediata del hecho origen de la responsabilidad, ya sea que se hayan causado o que necesariamente deban causarse.
-
-ART. 1166.- La reparación del daño debe consistir en el restablecimiento de la situación anterior a él, y cuando ello sea imposible, en el pago de los daños y perjuicios de orden económico y moral.
-
-ART. 1167.- Nadie está obligado a cumplir una obligación si no es posible hacerlo con motivo de caso fortuito o fuerza mayor, a menos que haya contribuido a ellos, haya aceptado ese riesgo o la ley se lo imponga.
-
-> <small>(F. DE E., [N. DE E. DEROGADO] P.O. 18 DE MAYO DE 1988)</small>
-
-Se entiende por caso fortuito todo acontecimiento natural, previsible o imprevisible, pero inevitable, por virtud del cual se pierde el bien o se imposibilite el cumplimiento de la obligación.
-
-Se entiende por fuerza mayor todo hecho previsible o imprevisible, pero inevitable, proveniente de uno o más terceros determinados o indeterminados, por virtud del cual se pierda el bien o se imposibilite el cumplimiento de la obligación.
-
-Si los acontecimientos fortuitos o de fuerza mayor no imposibilitan totalmente el cumplimiento de la obligación contraída o no constituyen obstáculo insuperable para un deudor cuidadoso y de buena fe, al que no sea imputable culpa, dolo o negligencia, simplemente se retardará el cumplimiento de la obligación y ésta será disminuida hasta el límite en que surja el obstáculo insuperable, aun cuando el cumplimiento retardado o parcial de la obligación resulte más oneroso para el deudor.
-
-ART. 1168.- Si el bien se ha perdido o ha sufrido un detrimento tan grave que no pueda emplearse en el uso a que naturalmente está destinado, el dueño debe ser indemnizado de su valor.
-
-Si el deterioro es menos grave, sólo el importe de éste se abonará al dueño al restituirse el bien.
-
-ART. 1169.- El precio del bien será el que tendría al tiempo de ser devuelto al dueño, excepto en los casos en que la ley o el pacto señalen otra época.
-
-ART. 1170.- Al estimar el deterioro de un bien se atenderá no solamente a la disminución que dicho deterioro causó en el precio de él, sino a los gastos que necesariamente exija la reparación.
-
-ART. 1171.- Al fijar el valor y deterioro de un bien, no se atenderá al precio estimativo o de afecto, a no ser que se pruebe que el responsable destruyó o deterioró el bien con objeto de lastimar los sentimientos o afectos del dueño; el aumento que por estas causas se haga, se determinará conforme a lo dispuesto por el artículo 1393.
-
-ART. 1172.- La responsabilidad civil puede ser regulada por convenio, salvo aquellos casos en que la ley disponga algo distinto.
-
-ART. 1173.- Si la prestación consistiere en el pago de cierta cantidad de dinero, los daños y perjuicios que resulten de la falta de cumplimiento no podrán exceder del interés legal, salvo convenio en contrario.
-
-Se determinará como interés legal a cubrir para todo el lapso que dure el incumplimiento, el equivalente al interés más alto que el Banco de México hubiere fijado en depósitos a plazo fijo dentro del periodo del incumplimiento.
+Art. 410 Bis VII.- En igualdad de circunstancias se dará preferencia en la adopción a mexicanos sobre extranjeros.
 
 ## TITULO OCTAVO. DE LA PATRIA POTESTAD
 
@@ -3183,6 +3177,10 @@ La patria potestad se ejerce sobre la persona y los bienes de los hijos.
 
 La patria potestad se ejerce por el padre y la madre conjuntamente. Solamente por falta o impedimento de éstos, corresponderá a los abuelos. Si sólo faltare alguna de las dos personas a quienes corresponde ejercer la patria potestad, la que quede continuará en el ejercicio de ese derecho.
 
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2004)</small>
+
+Tratándose de menores acogidos, por maltrato o abandono, en institución pública de asistencia o beneficencia social, serán llamados los abuelos, por vía judicial, a ejercer la patria potestad; quienes en caso de incumplimiento, serán demandados juntamente con los padres.
+
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1997)</small>
 
 ###### Art. 414 Bis.
@@ -3197,11 +3195,13 @@ En el caso del artículo 414, los abuelos a quienes les corresponde la patria po
 
 Si no se pusieren de acuerdo decidirá el Juez oyendo a los ascendientes, conforme a lo establecido en el artículo 418.
 
-> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2004)</small>
 
 ###### Art. 415 Bis.
 
-Los que ejercen la patria potestad, aún cuando no tengan la custodia, tienen el derecho de convivencia con sus descendientes. El ejercicio de este derecho, queda supeditado a que no represente riesgo para el menor y al cumplimiento de la obligación alimenticia.
+Los que ejercen la patria potestad, aun cuando no tengan la custodia, tienen el derecho de convivencia con sus descendientes, a quienes se les solicitará su opinión si han cumplido doce años. El ejercicio de este derecho, queda supeditado a que no represente riesgo para el menor y a la acreditación del cumplimiento de la obligación alimenticia.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2000)</small>
 
 No podrán impedirse, sin justa causa, las relaciones personales entre el menor y sus ascendientes. En caso de oposición, a petición de cualquiera de ellos, el juez resolverá lo conducente en atención al interés superior del menor. Sólo por mandato judicial podrá limitarse, suspenderse o perderse el derecho de convivencia a que se refiere el párrafo anterior.
 
@@ -3571,6 +3571,8 @@ El Juez que no cumpla las prescripciones relativas a la tutela, además de las p
 
 ### CAPITULO V. DE LA TUTELA LEGITIMA DE LOS MENORES ABANDONADOS Y DE LOS ACOGIDOS POR ALGUNA PERSONA, O DEPOSITADOS EN ESTABLECIMIENTOS DE BENEFICENCIA
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
+
 ###### Art. 470.
 
 El ascendiente que sobreviva, de los dos que en cada grado deben ejercer la patria potestad conforme a lo dispuesto en el artículo 414, tiene derecho, aunque fuere menor, de nombrar tutor en su testamento a aquéllos sobre quienes la ejerza, con inclusión del hijo póstumo.
@@ -3691,11 +3693,15 @@ El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será
 
 ###### Art. 492.
 
-La ley coloca a los expósitos bajo la tutela de la persona que los haya acogido, quien tendrá las obligaciones, facultades y restricciones establecidas para los demás tutores.
+La Ley coloca a los expósitos y a los menores abandonados bajo la tutela de la persona que los haya acogido, quien tendrá las obligaciones, facultades y restricciones establecidas para los demás tutores.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
 
 ###### Art. 493.
 
-Los directores de las inclusas, hospicios y demás casas de beneficencia donde se reciban expósitos, desempeñarán la tutela de éstos, con arreglo a las leyes y a lo que prevengan los estatutos del establecimiento.
+Los directores de las instituciones de beneficencia o asistencia social donde se reciban expósitos, menores abandonados o que hayan acogido menores cuyos padres y abuelos hayan sido condenados a la pérdida de la patria potestad, desempeñarán la tutela de éstos, con arreglo a las leyes y a lo que prevengan los estatutos del establecimiento.
+
+En caso de que los directores no cumplan con lo anterior, el Juez competente podrá removerlos del cargo de tutor.
 
 ###### Art. 494.
 
@@ -4129,9 +4135,11 @@ Los bienes inmuebles, los derechos anexos a ellos, y los muebles preciosos, no p
 
 Cuando la anajenación (sic) se haya permitido para cubrir con su producto algún objeto determinado, el juez señalará al tutor un plazo dentro del cual deberá acreditar que el producto de la enajenación se ha invertido en su objeto. Mientras que no se haga la inversión se observará lo dispuesto en la parte final del artículo 437.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2004)</small>
+
 ###### Art. 563.
 
-La venta de bienes raíces del menor es nula si no se hace judicialmente en subasta pública. En la enajenación de alhajas y muebles preciosos, el juez decidirá si conviene o no la almoneda, pudiendo dispensarla, acreditada la utilidad que resulte al menor.
+En la enajenación de bienes raíces del menor o incapacitado, alhajas o bienes preciosos, el Juez decidirá si conviene o no la almoneda, pudiendo dispensarla, mediante un procedimiento distinto, acreditada la utilidad que resulte al menor.
 
 Los tutores no podrán vender valores comerciales, industriales, títulos de rentas, acciones, frutos y ganados pertenecientes al incapacitado, por menor valor del que se cotice en la plaza el día de la venta; ni dar fianza a nombre de su pupilo.
 
@@ -16382,6 +16390,14 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 12 DE SEPTIEMBRE DE 2003.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE ABRIL DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los procedimientos regulados por las disposiciones que son reformadas a través del presente Decreto y que se encuentren en trámite al entrar en vigor el mismo, se regirán por lo dispuesto por la legislación conforme a la cual se iniciaron.
+
+Las partes, en los procedimientos referidos en el párrafo anterior, podrán optar por los beneficios derivados de las mencionadas reformas.
 
 ###### ARTICULO TERCERO.
 
