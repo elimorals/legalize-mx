@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-8987"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-22"
-last_updated: "1997-12-26"
+last_updated: "1998-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 1998.
+
+> <small>N. DE E. LAS CUOTAS Y TARIFAS DE LA PRESENTE LEY, ACTUALIZADAS EN TERMINOS DE LO DISPUESTO POR EL ARTICULO 3 DE LA MISMA Y PUBLICADAS EN EL P.O. DEL 2 DE ENERO DE 1998, ESTARAN VIGENTES DEL 1o. DE ENERO HASTA EL 31 DE DICIEMBRE DE 1998.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 22 de diciembre de 1995.
 
@@ -565,17 +567,25 @@ Para los vehículos de más diez años de fabricación anteriores al ejercicio f
 
 TARIFA
 
-I.- Motocicletas $30.00
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
 
-II.- Automóviles y Camionetas $75.00
+I.- Motocicletas $35.00
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+II.- Automóviles y Camionetas $88.00
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
 
 III.- Minibuses, microbuses, camiones
 
 de carga, autobuses integrales y
 
-ómnibuses $90.00
+ómnibuses $106.00 y
 
-IV.- Remolques $60.00
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+IV.- Remolques $71.00
 
 Para el caso de vehículos modelo de más de 15 años de fabricación anteriores al ejercicio fiscal en curso, pagarán la tarifa que les corresponda conforme a este artículo reducida en un 50%.
 
@@ -1001,11 +1011,15 @@ Los servicios prestados por el Registro Público de la Propiedad y del Comercio,
 
 TARIFA
 
-I.- El examen de todo documento público o privado que se presente para su inscripción, cuando se rehuse ésta por no ser procedente o cuando se devuelva sin inscribir a petición del interesado o por resolución judicial, $21.00 (VEINTIUN PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+I.- El examen de todo documento público o privado que se presente para su inscripción, cuando se rehuse ésta por no ser procedente o cuando se devuelva sin inscribir a petición del interesado o por resolución judicial, $25.00 (VEINTICINCO PESOS 00/100 M.N.); (2)
 
 II.- La inscripción o registro de documentos públicos o privados, de resoluciones judiciales, administrativas o de cualquier clase de títulos, por virtud de los cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles:
 
-1.- Hasta con valor de $10,000.00 (DIEZ MIL PESOS 00/100 M.N.), se pagarán $150.00 (CIENTO CINCUENTA PESOS 00/100 M.N.).
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
+
+1.- Hasta con valor de $10,000.00 (DIEZ MIL PESOS 00/100 M.N.), se pagarán $177.00 (CIENTO SETENTA Y SIETE PESOS 00/100 M.N.).
 
 2.- Si el valor excede de $10,000.00 (DIEZ MIL PESOS 00/100 M.N.), se pagará por los primeros $10,000.00, conforme al inciso anterior y por lo que exceda de dicha cantidad hasta $50,000.00 (CINCUENTA MIL PESOS 00/100 M.N.), el 15 al millar.
 
@@ -1015,7 +1029,7 @@ II.- La inscripción o registro de documentos públicos o privados, de resolucio
 
 5.- Si el valor excede de $150,000.00 (CIENTO CINCUENTA MIL PESOS 00/100 M.N.), se pagará por los primeros $150,000.00, conforme a los incisos anteriores y por lo que exceda de dicha cantidad, el 6 al millar.
 
-6.- Si el valor es indeterminado, se pagarán $21.00 (VEINTIUN PESOS 00/100 M.N.), por hoja.
+6.- Si el valor es indeterminado, se pagarán $25.00 (VEINTICINCO PESOS 00/100 M.N.), por hoja. (3)
 
 Cuando una parte del valor sea determinada y la otra indeterminada se pagará por cada parte lo que corresponde, con arreglo a lo dispuesto en esta fracción.
 
@@ -1023,47 +1037,69 @@ III.- La inscripción de la escritura constitutiva y de los aumentos del capital
 
 IV.- La inscripción de las asociaciones de carácter civil y cualquier modificación a la escritura constitutiva de sociedades civiles, exceptuándose el aumento de capital social, en los términos de la fracción II, de este artículo;
 
-V.- Los contratos mercantiles en que medie condición suspensiva, resolutoria, reserva de dominio o cualquier otra modalidad que dé lugar a una inscripción complementaria para su perfeccionamiento, lo que resulte mayor entre el 25% de los derechos que se hayan causado por la primera inscripción o $21.00 (VEINTIUN PESOS 00/100 M.N.), por hoja;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+V.- Los contratos mercantiles en que medie condición suspensiva, resolutoria, reserva de dominio o cualquier otra modalidad que dé lugar a una inscripción complementaria para su perfeccionamiento, lo que resulte mayor entre el 25% de los derechos que se hayan causado por la primera inscripción o $25.00 (VEINTICINCO PESOS 00/100 M.N.), por hoja; (2)
 
 VI.- La inscripción de gravámenes sobre bienes inmuebles, sea por contrato, por resolución judicial o por disposición testamentaria; la de los títulos por virtud de los cuales se adquieran, transmitan, modifiquen o extingan derechos reales sobre inmuebles, distintos del dominio; los que limiten el dominio del vendedor, del embargo, así como de cédulas hipotecarias, de servidumbres y de fianzas, se pagarán conforme a la fracción II, de este artículo;
 
-Cuando se solicite la inscripción de embargo sobre bienes inmuebles derivada de juicios de alimentos o laborales, se pagarán $21.00 (VEINTIUN PESOS 00/100 M.N.) por hoja;
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
 
-VII.- La inscripción de títulos de propiedad, de bienes o derechos que modifiquen, aclaren o disminuyan el capital y sólo sean consecuencia legal de contratos que causaron derechos de registro y se otorguen por las mismas partes que figuran en la primera escritura, sin aumentar el capital ni transferir derechos, $21.00 (VEINTIUN PESOS 00/100 M.N.) por hoja;
+Cuando se solicite la inscripción de embargo sobre bienes inmuebles derivada de juicios de alimentos o laborales, se pagarán $25.00 (VEINTICINCO PESOS 00/100 M.N.) por hoja; (8)
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+VII.- La inscripción de títulos de propiedad, de bienes o derechos que modifiquen, aclaren o disminuyan el capital y sólo sean consecuencia legal de contratos que causaron derechos de registro y se otorguen por las mismas partes que figuran en la primera escritura, sin aumentar el capital ni transferir derechos, $25.00 (VEINTICINCO PESOS 00/100 M.N.) por hoja; (2)
 
 VIII.- La inscripción del título o contrato a que se refiere la fracción anterior, cuando se aumente el capital o se transfiera algún derecho, se pagará conforme a la fracción II de este artículo, sobre el importe del aumento del capital o del derecho que se transfiera;
 
-IX.- La inscripción de las autorizaciones para fraccionamiento, $110.00 (CIENTO DIEZ PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+IX.- La inscripción de las autorizaciones para fraccionamiento, $130.00 (CIENTO TREINTA PESOS 0/100 M.N.); (2)
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
 
 X.- El depósito de testamentos ológrafos:
 
-1.- Si se hace en las oficinas del Registro, $55.00 (CINCUENTA Y CINCO PESOS 00/100 M.N.);
+1.- Si se hace en las oficinas del Registro, $65.00 (SESENTA Y CINCO PESOS 00/100 M.N.); (3)
 
-2.- Si se hace fuera de las oficinas del Registro, en horas ordinarias, $93.00 (NOVENTA Y TRES PESOS 00/100 M.N.);
+2.- Si se hace fuera de las oficinas del Registro, en horas ordinarias, $110.00 (CIENTO DIEZ PESOS 00/100 M.N.); (3)
 
-3.- Si se hace fuera de las oficinas del Registro, en horas extraordinarias, $110.00 (CIENTO DIEZ PESOS 00/100 M.N.);
+3.- Si se hace fuera de las oficinas del Registro, en horas extraordinarias, $130.00 (CIENTO TREINTA PESOS 00/100 M.N.); (3)
 
-XI.- El depósito de cualquier otro documento, $292.00 (DOSCIENTOS NOVENTA Y DOS PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
 
-XII.- La expedición de certificados de no antecedentes registrales de inmuebles, independientemente de la búsqueda, $245.00 (DOSCIENTOS CUARENTA Y CINCO PESOS 00/100 M.N.);
+XI.- El depósito de cualquier otro documento, $65.00 (SESENTA Y CINCO PESOS 00/100 M.N.); (2)
+
+XII.- La expedición de certificados de no antecedentes registrales de inmuebles, independientemente de la búsqueda, $344.00 (TRESCIENTOS CUARENTA Y CUATRO PESOS 00/100 M.N.); (2)
 
 XIII.- La constancia que extienda el Registro al calce de los documentos privados que se le presenten, expresando que se ha cerciorado de la autenticidad de las firmas y de la voluntad de las partes, el 5% de la cuantía de la operación;
 
-XIV.- La búsqueda de constancias para la expedición de certificados o informes, por cada predio y por cada período de cinco años o fracción, $23.00 (VEINTITRES PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+XIV.- La búsqueda de constancias para la expedición de certificados o informes, por cada predio y por cada período de cinco años o fracción, $27.00 (VEINTISIETE PESOS 00/100 M.N.); (2)
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
 
 XV.- La expedición de certificados o certificaciones relativos a las constancias del Registro, independientemente de la búsqueda:
 
-1.- Certificados de existencia de gravámenes, $63.00 (SESENTA Y TRES PESOS 00/100 M.N.), por cada lote.
+1.- Certificados de existencia de gravámenes, $74.00 (SETENTA Y CUATRO PESOS 00/100 M.N.), por cada lote. (3)
 
-2.- Certificados de no existencia de gravámenes, $63.00 (SESENTA Y TRES PESOS 00/100 M.N.), por cada lote.
+2.- Certificados de no existencia de gravámenes, $74.00 (SETENTA Y CUATRO PESOS 00/100 M.N.), por cada lote. (3)
 
-3.- Otros certificados y certificaciones, $63.00 (SESENTA Y TRES PESOS 00/100 M.N.);
+3.- Otros certificados y certificaciones, $74.00 (SETENTA Y CUATRO PESOS 00/100 M.N.). (3)
 
-XVI.- La cancelación de inscripciones en el Registro causará el 25% de las cuotas que establece la fracción II, de este artículo, sin que pueda ser inferior a $21.00 (VEINTIUN PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
 
-XVII.- La inscripción de declaración unilateral de voluntad en que se contenga la lotificación de un fraccionamiento, por lote $15.00 (QUINCE PESOS 00/100 M.N.); y
+XVI.- La cancelación de inscripciones en el Registro causará el 25% de las cuotas que establece la fracción II, de este artículo, sin que pueda ser inferior a $25.00 (VEINTICINCO PESOS 00/100 M.N.); (2)
 
-XVIII.- Por otros no especificados, $86.00 (OCHENTA Y SEIS PESOS 00/100 M.N.).
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+XVII.- La inscripción de declaración unilateral de voluntad en que se contenga la lotificación de un fraccionamiento, por lote $18.00 (DIECIOCHO PESOS 00/100 M.N.); y (2)
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+XVIII.- Por otros no especificados, $101.00 (CIENTO UN PESOS 00/100 M.N.). (2)
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 43], P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -1107,35 +1143,47 @@ Los servicios prestados por el Registro Público de la Propiedad y del Comercio,
 
 TARIFA
 
-I.- El examen de todo documento público o privado que se presente para su inscripción, cuando se rehuse ésta por no ser procedente y cuando se devuelva sin inscribir a petición del interesado o por resolución judicial, $21.00 (VEINTIUN PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+I.- El examen de todo documento público o privado que se presente para su inscripción, cuando se rehuse ésta por no ser procedente y cuando se devuelva sin inscribir a petición del interesado o por resolución judicial, $25.00 (VEINTICINCO PESOS 00/100 M.N.); (2)
 
 II.- La inscripción de la escritura constitutiva de sociedades mercantiles o de las relativas a aumentos de su capital social, se pagará conforme a la fracción II del artículo 79 de esta ley, sobre el monto del capital social o de sus aumentos.
 
 Tratándose de sociedades mercantiles de capital variable, se pagará conforme a esta fracción, por los aumentos de capital en su parte variable, que se presente para su inscripción;
 
-III.- La inscripción de las modificaciones a la escritura constitutiva de sociedades mercantiles, que no se refieran a aumento de capital social, $21.00 (VEINTIUN PESOS 00/100 M.N.), por hoja;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+III.- La inscripción de las modificaciones a la escritura constitutiva de sociedades mercantiles, que no se refieran a aumento de capital social, $25.00 (VEINTICINCO PESOS 00/100 M.N.), por hoja; (2)
 
 IV.- La inscripción de créditos de cualquier clase, hipotecarios, prendarios, refaccionarios, de habilitación o avío y otros, otorgados por instituciones de crédito y agrupaciones financieras o particulares, sobre el importe de la operación, el 4 al millar.
 
 La misma tarifa se aplicará a los contratos celebrados por arrendadoras financieras, públicas o privadas que se refieran a financiamientos;
 
-V.- La búsqueda de datos para certificados e informes, por cada período de cinco años o fracción, $29.00 (VEINTINUEVE PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+V.- La búsqueda de datos para certificados e informes, por cada período de cinco años o fracción, $34.00 (TREINTA Y CUATRO PESOS 00/100 M.N.); (2)
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
 
 VI.- La expedición de certificados o certificaciones relativos a constancias del registro, independientemente de la búsqueda:
 
-1.- Por la primera hoja, $63.00 (SESENTA Y TRES PESOS 00/100).
+1.- Por la primera hoja, $74.00 (SETENTA Y CUATRO PESOS 00/100). (3)
 
-2.- Por cada hoja adicional, $5.00 (CINCO PESOS 00/100 M.N.).
+2.- Por cada hoja adicional, $6.00 (SEIS PESOS 00/100 M.N.). (3)
 
-3.- Por otros, $37.00 (TREINTA Y SIETE PESOS 00/100 M.N.).
+3.- Por otros, $44.00 (CUARENTA Y CUATRO PESOS 00/100 M.N.). (3)
 
-VII.- La inscripción de títulos o documentos relativos a sociedades mercantiles o civiles que no expresen valor y que de su texto no pueda deducirse, siendo condición indispensable, que la escritura constitutiva se encuentre inscrita previamente en el Registro, $21.00 (VEINTIUN PESOS 00/100 M.N.) por hoja.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+VII.- La inscripción de títulos o documentos relativos a sociedades mercantiles o civiles que no expresen valor y que de su texto no pueda deducirse, siendo condición indispensable, que la escritura constitutiva se encuentre inscrita previamente en el Registro, $25.00 (VEINTICINCO PESOS 00/100 M.N.) por hoja. (2)
 
 Cuando parte del valor sea indeterminado y parte determinado, se pagará por cada parte lo que corresponda, con arreglo a las fracciones anteriores.
 
 Si en una misma escritura se consignaren diversos contratos, se pagará por cada parte lo que corresponda, con arreglo a las fracciones anteriores;
 
-VIII.- Las inscripciones complementarias derivadas de contratos mercantiles en que medie condición suspensiva, resolutoria, reserva de dominio o cualquier otra modalidad, $21.00 (VEINTIUN PESOS 00/100 M.N.) por hoja.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+VIII.- Las inscripciones complementarias derivadas de contratos mercantiles en que medie condición suspensiva, resolutoria, reserva de dominio o cualquier otra modalidad, $25.00 (VEINTICINCO PESOS 00/100 M.N.) por hoja. (2)
 
 (REUBICADO [N. DE E. ANTES ARTICULO 46], P.O. 24 DE DICIEMBRE DE 1996)
 
@@ -1159,7 +1207,7 @@ IV.- Cuando deban hacerse inscripciones de distintas operaciones que deriven de 
 
 #### SECCION SEGUNDA. POR SERVICIOS DEL REGISTRO CIVIL
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 48], P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 85.
 
@@ -1167,31 +1215,31 @@ Los servicios que se presten en relación con el Registro Civil, causarán derec
 
 TARIFA
 
-I.- Registro de nacimientos, $19.00 (DIECINUEVE PESOS 00/100 M.N.);
+I.- Registro de nacimientos, $22.00 (VEINTIDOS PESOS 00/100 M.N.); (2)
 
-II.- Registro de reconocimientos, $48.00 (CUARENTA Y OCHO PESOS 00/100 M.N.);
+II.- Registro de reconocimientos, $57.00 (CINCUENTA Y SIETE PESOS 00/100 M.N.); (2)
 
-III.- Inscripción de actas de adopción, tutela, de ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes; o bien, de las resoluciones que rectifiquen o modifiquen una acta del Registro Civil, $48.00 (CUARENTA Y OCHO PESOS 00/100 M.N.);
+III.- Inscripción de actas de adopción, tutela, de ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes; o bien, de las resoluciones que rectifiquen o modifiquen una acta del Registro Civil, $57.00 (CINCUENTA Y SIETE PESOS 00/100 M.N.); (2)
 
-IV.- Registro de matrimonios, $194.00 (CIENTO NOVENTA Y CUATRO PESOS 00/100 M.N.);
+IV.- Registro de matrimonios, $228.00 (DOSCIENTOS VEINTIOCHO PESOS 00/100 M.N.); (2)
 
-V.- Registro de divorcios, $194.00 (CIENTO NOVENTA Y CUATRO PESOS 00/100 M.N.);
+V.- Registro de divorcios, $228.00 (DOSCIENTOS VEINTIOCHO PESOS 00/100 M.N.); (2)
 
-VI.- Registro de defunciones, $15.00 (QUINCE PESOS 00/100 M.N.);
+VI.- Registro de defunciones, $18.00 (DIECIOCHO PESOS 00/100 M.N.); (2)
 
-VII.- Inscripción de actos o hechos registrados en el extranjero, $149.00 (CIENTO CUARENTA Y NUEVE PESOS 00/100 M.N.);
+VII.- Inscripción de actos o hechos registrados en el extranjero, $175.00 (CIENTO SETENTA Y CINCO PESOS 00/100 M.N.); (2)
 
-VIII.- Anotaciones en los registros por mandato judicial o a petición de la parte interesada, $48.00 (CUARENTA Y OCHO PESOS 00/100 M.N.);
+VIII.- Anotaciones en los registros por mandato judicial o a petición de la parte interesada, $57.00 (CINCUENTA Y SIETE PESOS 00/100 M.N.); (2)
 
-IX.- Expedición de copias certificadas, $19.00 (DIECINUEVE PESOS 00/100 M.N.), por hoja;
+IX.- Expedición de copias certificadas, $22.00 (VEINTIDOS PESOS 00/100 M.N.), por hoja; (2)
 
-X.- Rectificaciones relativas a actas del Registro Civil, $114.00 (CIENTO CATORCE PESOS 00/100 M.N.);
+X.- Rectificaciones relativas a actas del Registro Civil, $134.00 (CIENTO TREINTA Y CUATRO PESOS 00/100 M.N.); (2)
 
-XI.- Expedición de certificados de inexistencia y cualquier otra clase de constancia relativa al Registro Civil, $48.00 (CUARENTA Y OCHO PESOS 00/100 M.N.);
+XI.- Expedición de certificados de inexistencia y cualquier otra clase de constancia relativa al Registro Civil, $57.00 (CINCUENTA Y SIETE PESOS 00/100 M.N.); (2)
 
-XII.- Búsqueda de actas en el Registro Civil, $24.00 (VEINTICUATRO PESOS 00/100 M.N.); y
+XII.- Búsqueda de actas en el Registro Civil, $28.00 (VEINTIOCHO PESOS 00/100 M.N.); y (2)
 
-XIII.- Por otros servicios no especificados, $48.00 (CUARENTA Y OCHO PESOS 00/100 M.N.).
+XIII.- Por otros servicios no especificados, $57.00 (CINCUENTA Y SIETE PESOS 00/100 M.N.). (2)
 
 (REUBICADO [N. DE E. ANTES ARTICULO 49], P.O. 24 DE DICIEMBRE DE 1996)
 
@@ -1201,7 +1249,7 @@ El pago de los derechos por los servicios prestados por la Dirección Estatal y 
 
 #### SECCION TERCERA. POR OTROS SERVICIOS
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 50], P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 87.
 
@@ -1209,57 +1257,57 @@ Los otros servicios que presta la Secretaría de Gobierno, causarán derechos co
 
 TARIFA
 
-I.- Certificaciones, $55.00 (CINCUENTA Y CINCO PESOS 00/100 M.N.), por hoja;
+I.- Certificaciones, $65.00 (SESENTA Y CINCO PESOS 00/100 M.N.), por hoja; (2)
 
-II.- Apostillar documentos, $69.00 (SESENTA Y NUEVE PESOS 00/100 M.N.);
+II.- Apostillar documentos, $81.00 (OCHENTA Y UN PESOS 00/100 M.N.); (2)
 
-III.- Presentación de examen para obtener patente de aspirante a notario, $1,785.00 (MIL SETECIENTOS OCHENTA Y CINCO PESOS 00/100 M.N.);
+III.- Presentación de examen para obtener patente de aspirante a notario, $2,102.00 (DOS MIL CIENTO DOS PESOS 00/100 M.N.); (2)
 
-IV.- Expedición de patente de aspirante a notario, $3,570.00 (TRES MIL QUINIENTOS SETENTA PESOS 00/100 M.N.);
+IV.- Expedición de patente de aspirante a notario, $4,204.00 (CUATRO MIL DOSCIENTOS CUATRO PESOS 00/100 M.N.); (2)
 
-V.- Presentación de examen de selección para obtener la expedición de Fiat Notarial, $2,975.00 (DOS MIL NOVECIENTOS SETENTA Y CINCO PESOS 00/100 M.N.);
+V.- Presentación de examen de selección para obtener la expedición de Fiat Notarial, $4,504.00 (TRES MIL QUINIENTOS CUATRO PESOS 00/100 M.N.); (2)
 
-VI.- Expedición del Fiat Notarial, $14,280.00 (CATORCE MIL DOSCIENTOS OCHENTA PESOS 00/100 M.N.);
+VI.- Expedición del Fiat Notarial, $16,818.00 (DIECISEIS MIL OCHOCIENTOS DIECIOCHO PESOS 00/100 M.N.); (2)
 
-VII.- Expedición de certificados de necesidad, para adquisición de terrenos que hagan las sociedades mercantiles, según lo establecido en el artículo 27, fracción IV de la Constitución Política de los Estados Unidos Mexicanos, $1,785.00 (MIL SETECIENTOS OCHENTA Y CINCO PESOS 00/100 M.N.);
+VII.- Expedición de certificados de necesidad, para adquisición de terrenos que hagan las sociedades mercantiles, según lo establecido en el artículo 27, fracción IV de la Constitución Política de los Estados Unidos Mexicanos, $2,102.00 (DOS MIL CIENTO DOS PESOS 00/100 M.N.); (2)
 
-VIII.- Por la revisión de documentos requeridos para la celebración de eventos tradicionales $446.00 (CUATROCIENTOS CUARENTA Y SEIS PESOS 00/100 M.N.);
+VIII.- Por la revisión de documentos requeridos para la celebración de eventos tradicionales $525.00 (QUINIENTOS VEINTICINCO PESOS 00/100 M.N.); (2)
 
-IX.- Autorizaciones en materia de explosivos, $521.00 (QUINIENTOS VEINTIUN PESOS 00/100 M.N.);
+IX.- Autorizaciones en materia de explosivos, $614.00 (SEISCIENTOS CATORCE PESOS 00/100 M.N.); (2)
 
-X.- Legalización de firmas en cualquier documento, $69.00 (SESENTA Y NUEVE PESOS 00/100 M.N.), por firma;
+X.- Legalización de firmas en cualquier documento, $81.00 (OCHENTA Y UN PESOS 00/100 M.N.), por firma; (2)
 
-XI.- Expedición de copias certificadas de constancias existentes en las Oficinas Públicas: primera hoja $23.00 (VEINTITRES PESOS 00/100 M.N.); cada hoja subsecuente $5.00 (CINCO PESOS 00/100 M.N.);
+XI.- Expedición de copias certificadas de constancias existentes en las Oficinas Públicas: primera hoja $27.00 (VEINTISIETE PESOS 00/100 M.N.); cada hoja subsecuente $6.00 (SEIS PESOS 00/100 M.N.); (2)
 
-XII.- Certificaciones de hechos ocurridos en presencia de la autoridad: primera hoja $23.00 (VEINTITRES PESOS 00/100 M.N.); cada hoja subsecuente $5.00 (CINCO PESOS 00/100 M.N.);
+XII.- Certificaciones de hechos ocurridos en presencia de la autoridad: primera hoja $27.00 (VEINTISIETE PESOS 00/100 M.N.); cada hoja subsecuente $6.00 (SEIS PESOS 00/100 M.N.); (2)
 
-XIII.- Legalización de firmas de notarios, de funcionarios estatales y municipales y de documentos del registro civil, $69.00 (SESENTA Y NUEVE PESOS 00/100 M.N.) por firma;
+XIII.- Legalización de firmas de notarios, de funcionarios estatales y municipales y de documentos del registro civil, $81.00 (OCHENTA Y UN PESOS 00/100 M.N.) por firma; (2)
 
-XIV.- Exhorto y legalización de firmas de éste a otro Estado, $171.00 (CIENTO SETENTA Y UN PESOS 00/100 M.N.);
+XIV.- Exhorto y legalización de firmas de éste a otro Estado, $201.00 (DOSCIENTOS UN PESOS 00/100 M.N.); (2)
 
-XV.- Exhorto de otro Estado a éste, $171.00 (CIENTO SETENTA Y UN PESOS 00/100 M.N.);
+XV.- Exhorto de otro Estado a éste, $201.00 (DOSCIENTOS UN PESOS 00/100 M.N.); (2)
 
-XVI.- Búsqueda de antecedentes notariales, $45.00 (CUARENTA Y CINCO PESOS 00/100 M.N.) por año;
+XVI.- Búsqueda de antecedentes notariales, $53.00 (CINCUENTA Y TRES PESOS 00/100 M.N.) por año; (2)
 
-XVII.- Expedición de segundos testimonios que obren en la Dirección de Notarías, $112.00 (CIENTO DOCE PESOS 00/100 M.N.);
+XVII.- Expedición de segundos testimonios que obren en la Dirección de Notarías, $132.00 (CIENTO TREINTA Y DOS PESOS 00/100 M.N.); (2)
 
-XVIII.- Expedición de copias certificadas que obren en la Dirección de Notarías, $45.00 (CUARENTA Y CINCO PESOS 00/100 M.N.) por hoja;
+XVIII.- Expedición de copias certificadas que obren en la Dirección de Notarías, $53.00 (CINCUENTA Y TRES PESOS 00/100 M.N.) por hoja; (2)
 
-XIX.- Expedición de copias simples de documentos que obren en la Dirección de Notarías, $23.00 (VEINTITRES PESOS 00/100 M.N.) por hoja;
+XIX.- Expedición de copias simples de documentos que obren en la Dirección de Notarías, $27.00 (VEINTISIETE PESOS 00/100 M.N.) por hoja; (2)
 
-XX.- Autorización para cambio de adscripción notarial, $4,760.00 (CUATRO MIL SETECIENTOS SESENTA PESOS 00/100 M.N.);
+XX.- Autorización para cambio de adscripción notarial, $5,606.00 (CINCO MIL SEISCIENTOS SEIS PESOS 00/100 M.N.); (2)
 
-XXI.- Autorización de exhumación de cadáveres para ser reinhumados en el mismo panteón $89.00 (OCHENTA Y NUEVE PESOS 00/100 M.N.);
+XXI.- Autorización de exhumación de cadáveres para ser reinhumados en el mismo panteón $105.00 (CIENTO CINCO PESOS 00/100 M.N.); (29
 
-XXII.- Autorización para la exhumación de cadáveres para ser reinhumados en otro panteón dentro del mismo municipio $119.00 (CIENTO DIECINUEVE PESOS 00/100 M.N.);
+XXII.- Autorización para la exhumación de cadáveres para ser reinhumados en otro panteón dentro del mismo municipio $140.00 (CIENTO CUARENTA PESOS 00/100 M.N.); (2)
 
-XXIII.- Autorización para la exhumación de cadáveres para ser reinhumados en otros municipios del Estado $149.00 (CIENTO CUARENTA Y NUEVE PESOS 00/100 M.N.);
+XXIII.- Autorización para la exhumación de cadáveres para ser reinhumados en otros municipios del Estado $175.00 (CIENTO SETENTA Y CINCO PESOS 00/100 M.N.); (2)
 
-XXIV.- Autorización para la exhumación de cadáveres para ser reinhumados fuera del Estado $224.00 (DOSCIENTOS VEINTICUATRO PESOS 00/100 M.N.);
+XXIV.- Autorización para la exhumación de cadáveres para ser reinhumados fuera del Estado $264.00 (DOSCIENTOS SESENTA Y CUATRO PESOS 00/100 M.N.); (2)
 
 Las autorizaciones a que se refieren las fracciones XXI, XXII, XXIII y XXIV se expedirán previo cumplimiento de los requisitos exigidos por la Ley Estatal de Salud; y
 
-XXV.- Por otros servicios no especificados, $86.00 (OCHENTA Y SEIS PESOS 00/100 M.N.).
+XXV.- Por otros servicios no especificados, $101.00 (CIENTO UN PESOS 00/100 M.N.). (2)
 
 SUJETO
 
@@ -1281,7 +1329,7 @@ El pago de los derechos a que se refiere esta Sección, deberá efectuarse en la
 
 OBJETO
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 53], P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 90.
 
@@ -1291,31 +1339,31 @@ TARIFA
 
 I.- Avisos judiciales y administrativos:
 
-a).- Por cada palabra en primera o única inserción, $0.48 (CUARENTA Y OCHO CENTAVOS M.N.);
+a).- Por cada palabra en primera o única inserción, $0.56 (CINCUENTA Y SEIS CENTAVOS M.N.);
 
-b).- Por cada palabra en inserciones subsecuentes, $0.24 (VEINTICUATRO CENTAVOS M.N.).
+b).- Por cada palabra en inserciones subsecuentes, $0.28 (VEINTIOCHO CENTAVOS M.N.).
 
-II.- Por publicación de aviso de registro de fierro de herrar, arete o collar o cancelación de los mismos, señal de sangre o venta, $178.00 (CIENTO SETENTA Y OCHO PESOS 00/100 M.N.);
+II.- Por publicación de aviso de registro de fierro de herrar, arete o collar o cancelación de los mismos, señal de sangre o venta, $210.00 (DOSCIENTOS DIEZ PESOS 00/100 M.N.);
 
-III.- Publicación de balances o estados financieros, $230.00 (DOSCIENTOS TREINTA PESOS 00/100 M.N.);
+III.- Publicación de balances o estados financieros, $271.00 (DOSCIENTOS SETENTA Y UN PESOS 00/100 M.N.);
 
-IV.- Por costo de tipografía relativa a los fierros de registro, arete o collar por cada figura, $178.00 (CIENTO SETENTA Y OCHO PESOS 00/100 M.N.);
+IV.- Por costo de tipografía relativa a los fierros de registro, arete o collar por cada figura, $210.00 (DOSCIENTOS DIEZ PESOS 00/100 M.N.);
 
 V.- Suscripciones:
 
-a).- Por un año, $595.00 (QUINIENTOS NOVENTA Y CINCO PESOS 00/100 M.N.);
+a).- Por un año, $701.00 (SETECIENTOS UN PESOS 00/100 M.N.);
 
-b).- Por seis meses, $297.00 (DOSCIENTOS NOVENTA Y SIETE PESOS 00/100 M.N.); y
+b).- Por seis meses, $350.00 (TRESCIENTOS CINCUENTA PESOS 00/100 M.N.); y
 
-c).- Por tres meses, $155.00 (CIENTO CINCUENTA Y CINCO PESOS 00/100 M.N.).
+c).- Por tres meses, $183.00 (CIENTO OCHENTA Y TRES PESOS 00/100 M.N.).
 
-VI.- Número del día, $6.00 (SEIS PESOS 00/100 M.N.);
+VI.- Número del día, $7.00 (SIETE PESOS 00/100 M.N.);
 
-VII.- Números atrasados hasta 6 años, $24.00 (VEINTICUATRO PESOS 00/100 M.N.);
+VII.- Números atrasados hasta 6 años, $28.00 (VEINTIOCHO PESOS 00/100 M.N.);
 
-VIII.- Números atrasados de más de 6 años, $45.00 (CUARENTA Y CINCO PESOS 00/100 M.N.); y
+VIII.- Números atrasados de más de 6 años, $53.00 (CINCUENTA Y TRES PESOS 00/100 M.N.); y
 
-IX.- Códigos, leyes, reglamentos, suplementos o ediciones de más de 24 páginas, $59.00 (CINCUENTA Y NUEVE PESOS 00/100 M.N.).
+IX.- Códigos, leyes, reglamentos, suplementos o ediciones de más de 24 páginas, $69.00 (SESENTA Y NUEVE PESOS 00/100 M.N.). (5)
 
 PAGO
 
@@ -1443,7 +1491,7 @@ La Secretaría de Finanzas, cuando lo considere conveniente, podrá autorizar la
 
 Las autoridades fiscales clausurarán los establecimientos que expendan bebidas alcohólicas cuando no estén amparados o no cuenten con licencia de funcionamiento y revalidación anual, así como aquéllos que no suspendan la enajenación o expendio de bebidas alcohólicas dentro del plazo establecido en el artículo 101 de esta Ley, cuando sea cancelada la licencia de funcionamiento con que operaba.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 64], P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 104.
 
@@ -1451,25 +1499,25 @@ La expedición de licencia para el funcionamiento de establecimientos que enajen
 
 TARIFA
 
-I.- Distribuidor de cerveza o vinos, ladies bar, cabaret, discotec bar, video bar, salón de baile, casa de huéspedes, hoteles de paso y moteles de paso $29,750.00 (VEINTINUEVE MIL SETECIENTOS CINCUENTA PESOS 00/100 M.N.);
+I.- Distribuidor de cerveza o vinos, ladies bar, cabaret, discotec bar, video bar, salón de baile, casa de huéspedes, hoteles de paso y moteles de paso $35,037.00 (TREINTA Y CINCO MIL TREINTA Y SIETE PESOS 00/100 M.N.); (2)
 
-II.- Tienda de autoservicio $22,312.00 (VEINTIDOS MIL TRESCIENTOS DOCE PESOS 00/100 M.N.);
+II.- Tienda de autoservicio $26,277.00 (VEINTISEIS MIL DOSCIENTOS SETENTA Y SIETE PESOS 00/100 M.N.); (2)
 
-III.- Restaurante bar, restaurantes y estadios $14,875.00 (CATORCE MIL OCHOCIENTOS SETENTA Y CINCO PESOS 00/100 M.N.);
+III.- Restaurante bar, restaurantes y estadios $17,518.00 (DIECISIETE MIL QUINIENTOS DIECIOCHO PESOS 00/100 M.N.); (2)
 
-IV.- Supermercados, agencias y cantina o bar $10,412.00 (DIEZ MIL CUATROCIENTOS DOCE PESOS 00/100 M.N.);
+IV.- Supermercados, agencias y cantina o bar $12,262.00 (DOCE MIL DOSCIENTOS SESENTA Y DOS PESOS 00/100 M.N.); (2)
 
-V.- Expendio de vinos y licores, tiendas de abarrotes, minisuper, casinos, clubes sociales y deportivos, círculos sociales y semejantes, billares y boliches, hoteles, salón de fiesta, y subagencia $7,437.00 (SIETE MIL CUATROCIENTOS TREINTA Y SIETE PESOS 00/100 M.N.);
+V.- Expendio de vinos y licores, tiendas de abarrotes, minisuper, casinos, clubes sociales y deportivos, círculos sociales y semejantes, billares y boliches, hoteles, salón de fiesta, y subagencia $8,759.00 (OCHO MIL SETECIENTOS CINCUENTA Y NUEVE PESOS 00/100 M.N.); (2)
 
-VI.- Cervecerías, depósitos de cerveza y otros establecimientos en los que únicamente se enajene cerveza, $4,760.00 (CUATRO MIL SETECIENTOS SESENTA PESOS 00/100 M.N.); y
+VI.- Cervecerías, depósitos de cerveza y otros establecimientos en los que únicamente se enajene cerveza, $5,606.00 (CINCO MIL SEISCIENTOS SEIS PESOS 00/100 M.N.); y (2)
 
-VII.- Fonda, taquerías y otros de naturaleza análoga $2,380.00 (DOS MIL TRESCIENTOS OCHENTA PESOS 00/100 M.N.).
+VII.- Fonda, taquerías y otros de naturaleza análoga $2,803.00 (DOS MIL OCHOCIENTOS TRES PESOS 00/100 M.N.). (2)
 
-REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
 #### SECCION SEGUNDA. LOS PRESTADOS POR SUS UNIDADES ADMINISTRATIVAS
 
-> <small>(REFORMADO Y REUBICADO [N. DE. ANTES ARTICULO 72], P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 105.
 
@@ -1477,9 +1525,15 @@ La expedición de la revalidación anual para el funcionamiento de establecimien
 
 TARIFA
 
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
 I.- Para la enajenación de bebidas alcohólicas para su consumo dentro de los establecimientos que ofrezcan algún espectáculo o diversión públicos $8,775.00 (OCHO MIL SETECIENTOS SETENTA Y CINCO PESOS 00/100 M.N.).
 
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
 II.- Para la enajenación de bebidas alcohólicas para su consumo dentro de los establecimientos distintos a los señalados en la fracción anterior $3,068.00 (TRES MIL SESENTA Y OCHO PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
 
 III.- Por la enajenación de bebidas alcohólicas en envase cerrado o para llevar $2,194.00 (DOS MIL CIENTO NOVENTA Y CUATRO PESOS 00/100 M.N.).
 
@@ -1489,11 +1543,11 @@ La revalidación anual de las licencias para enajenar únicamente cerveza, acomp
 
 #### SECCION PRIMERA. POR SERVICIOS DE CONTROL VEHICULAR
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 78], P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
 
 #### SECCION SEGUNDA. POR OTROS SERVICIOS
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 86], P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 106.
 
@@ -1537,13 +1591,13 @@ Los demás servicios que presta la Secretaría de Finanzas a través de sus Unid
 
 TARIFA
 
-I.- Certificaciones, $55.00 (CINCUENTA Y CINCO PESOS 00/100 M.N.), por la primera hoja; $17.00 (DIECISIETE PESOS 00/100 M.N.), por hoja adicional;
+I.- Certificaciones, $65.00 (SESENTA Y CINCO PESOS 00/100 M.N.), por la primera hoja; $20.00 (VEINTE PESOS 00/100 M.N.), por hoja adicional; (2)
 
-II.- Expedición de copia simple, $2.00 (DOS PESOS 00/100 M.N.), por hoja;
+II.- Expedición de copia simple, $2.35 (DOS PESOS 35/100 M.N.), por hoja; (2)
 
-III.- Servicios periciales contables, $36.00 (TREINTA Y SEIS PESOS 00/100 M.N.) por hora, por auditor; y
+III.- Servicios periciales contables, $42.00 (CUARENTA Y DOS PESOS 00/100 M.N.) por hora, por auditor; y (2)
 
-IV.- Por constancias del padrón vehicular, $55.00 (CINCUENTA Y CINCO PESOS 00/100 M.N.), por la primera hoja; $17.00 (DIECISIETE PESOS 00/100 M.N.) por hoja adicional.
+IV.- Por constancias del padrón vehicular, $65.00 (SESENTA Y CINCO PESOS 00/100 M.N.), por la primera hoja; $20.00 (VEINTE PESOS 00/100 M.N.) por hoja adicional. (2)
 
 (REUBICADO [N. DE E. ANTES ARTICULO 73], P.O. 24 DE DICIEMBRE DE 1996)
 
@@ -1553,7 +1607,7 @@ El pago de los derechos a que se refiere esta Sección deberá efectuarse en las
 
 ### CAPITULO TERCERO. POR SERVICIOS DE LA SECRETARIA DE DESARROLLO SOCIAL
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 74, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
 
 ### CAPITULO CUARTO. POR SERVICIOS DE LA SECRETARIA DE COMUNICACIONES Y OBRAS PUBLICAS
 
@@ -1565,53 +1619,53 @@ TARIFA
 
 I.- Aprobación de planos y expedición de licencias para fraccionamientos:
 
-1.- Residencial, $0.24 (VEINTICUATRO CENTAVOS M.N.), por metro cuadrado vendible;
+1.- Residencial, $0.28 (VEINTIOCHO CENTAVOS M.N.), por metro cuadrado vendible; (3)
 
-2.- Medio, $0.12 (DOCE CENTAVOS M.N.), por metro cuadrado vendible;
+2.- Medio, $0.14 (CATORCE CENTAVOS M.N.), por metro cuadrado vendible; (3)
 
-3.- Interés social, $0.04 (CUATRO CENTAVOS M.N.), por metro cuadrado vendible;
+3.- Interés social, $0.04 (CUATRO CENTAVOS M.N.), por metro cuadrado vendible; (3)
 
-4.- Popular, $0.06 (SEIS CENTAVOS M.N.), por metro cuadrado vendible;
+4.- Popular, $0.07 (SIETE CENTAVOS M.N.), por metro cuadrado vendible; (3)
 
-5.- Comerciales, $0.44 (CUARENTA Y CUATRO CENTAVOS M.N.), por metro cuadrado vendible;
+5.- Comerciales, $0.51 (CINCUENTA Y UN CENTAVOS M.N.), por metro cuadrado vendible; (3)
 
-6.- Industriales, $0.12 (DOCE CENTAVOS M.N.), por metro cuadrado vendible;
+6.- Industriales, $0.14 (CATORCE CENTAVOS M.N.), por metro cuadrado vendible; (3)
 
-7.- Cementerios, $0.06 (SEIS CENTAVOS M.N.), por metro cuadrado vendible; y
+7.- Cementerios, $0.07 (SIETE CENTAVOS M.N.), por metro cuadrado vendible; y (3)
 
-8.- Campestres, $0.07 (SIETE CENTAVOS M.N.), por metro cuadrado vendible;
+8.- Campestres, $0.08 (OCHO CENTAVOS M.N.), por metro cuadrado vendible; (3)
 
-II.- Adecuaciones de lotificaciones, $75.00 (SETENTA Y CINCO PESOS 00/100 M.N.) cada una;
+II.- Adecuaciones de lotificaciones, $88.00 (OCHENTA Y OCHO PESOS 00/100 M.N.) cada una;
 
 III.- Relotificaciones:
 
-1.- Habitacionales, $0.12 (DOCE CENTAVOS M.N.), por metro cuadrado vendible;
+1.- Habitacionales, $0.14 (CATORCE CENTAVOS M.N.), por metro cuadrado vendible; (3)
 
-2.- Campestres, $0.13 (TRECE CENTAVOS M.N.), por metro cuadrado vendible;
+2.- Campestres, $0.15 (QUINCE CENTAVOS M.N.), por metro cuadrado vendible; (3)
 
-3.- Industriales, $0.07 (SIETE CENTAVOS M.N.), metro cuadrado vendible; y
+3.- Industriales, $0.08 (OCHO CENTAVOS M.N.), metro cuadrado vendible; y (3)
 
-4.- Comerciales, $0.11 (ONCE CENTAVOS M.N.), por metro cuadrado vendible.
+4.- Comerciales, $0.12 (DOCE CENTAVOS M.N.), por metro cuadrado vendible. (3)
 
-IV.- Condominios, $0.11 (ONCE CENTAVOS M.N.), por metro cuadrado de construcción;
+IV.- Condominios, $0.12 (DOCE CENTAVOS M.N.), por metro cuadrado de construcción; (2)
 
-V.- Expedición de planos, pliegos de requisitos, especificaciones y documentación necesaria para la participación en los concursos, para la adjudicación de contratos de obra pública o de suministro de materiales, $540.00 (QUINIENTOS CUARENTA PESOS 00/100 M.N.);
+V.- Expedición de planos, pliegos de requisitos, especificaciones y documentación necesaria para la participación en los concursos, para la adjudicación de contratos de obra pública o de suministro de materiales, $636.00 (SEISCIENTOS TREINTA Y SEIS PESOS 00/100 M.N.); (2)
 
-VI.- Licencias para construcción de industrias de más de 5,000 metros cuadrados, $0.18 (DIECIOCHO CENTAVOS M.N.), por metro cuadrado;
+VI.- Licencias para construcción de industrias de más de 5,000 metros cuadrados, $0.21 (VEINTIUN CENTAVOS M.N.), por metro cuadrado; (2)
 
-VII.- Licencias para construcción de edificios de más de 1,000 metros cuadrados, $0.36 (TREINTA Y SEIS CENTAVOS M.N.) por metro cuadrado;
+VII.- Licencias para construcción de edificios de más de 1,000 metros cuadrados, $0.42 (CUARENTA Y DOS CENTAVOS M.N.) por metro cuadrado; (2)
 
-VIII.- Evaluación de la manifestación de impacto ambiental en su modalidad general, $1,190.00 (MIL CIENTO NOVENTA PESOS 00/100 M.N.);
+VIII.- Evaluación de la manifestación de impacto ambiental en su modalidad general, $1,401.00 (MIL CUATROCIENTOS UN PESOS 00/100 M.N.); (2)
 
-IX.- Expedición de certificados de aptitud para la prestación de servicios profesionales y emisión de estudios químico-analíticos, en materia ambiental, $1,095.00 (MIL NOVENTA Y CINCO PESOS 00/100 M.N.);
+IX.- Expedición de certificados de aptitud para la prestación de servicios profesionales y emisión de estudios químico-analíticos, en materia ambiental, $1,290.00 (MIL DOSCIENTOS NOVENTA PESOS 00/100 M.N.); (2)
 
-X.- Determinación del informe preventivo de impacto ambiental, $595.00 (QUINIENTOS NOVENTA Y CINCO PESOS 00/100 M.N.); y
+X.- Determinación del informe preventivo de impacto ambiental, $701.00 (SETECIENTOS UN PESOS 00/100 M.N.); y (2)
 
 XI.- Otros servicios:
 
-1.- Por uso del tren escénico de la Unidad Deportiva Francisco I. Madero, $2.00 (DOS PESOS 00/100 M.N.), por persona; y
+1.- Por uso del tren escénico de la Unidad Deportiva Francisco I. Madero, $2.35 (DOS PESOS 35/100 M.N.), por persona; y (3)
 
-2.- Por uso de las embarcaciones recreativas de la Unidad Deportiva Francisco I. Madero, $2.00 (DOS PESOS 00/100 M.N.), por persona.
+2.- Por uso de las embarcaciones recreativas de la Unidad Deportiva Francisco I. Madero, $2.35 (DOS PESOS 35/100 M.N.), por persona. (3)
 
 SUJETO
 
@@ -1641,7 +1695,7 @@ No se causará este derecho cuando los servicios que se presten tengan por objet
 
 ### CAPITULO QUINTO. POR SERVICIOS DE LA SECRETARIA DE EDUCACION PUBLICA
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 89], P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 118.
 
@@ -1649,63 +1703,63 @@ Los servicios que presta la Secretaría de Comunicaciones y Obras Públicas, rel
 
 TARIFA
 
-I.- Expedición de tarjetas de circulación y calcomanía con número identificatorio o refrendo anual:
+I.- Expedición de tarjetas de circulación y calcomanía con número identificatorio o refrendo anual: (2)
 
 1.- Automóviles, camiones y camionetas:
 
-a).- Hasta de 10 años de fabricación anteriores al ejercicio fiscal en curso, $312.00 (TRESCIENTOS DOCE PESOS 00/100 M.N.).
+a).- Hasta de 10 años de fabricación anteriores al ejercicio fiscal en curso, $367.00 (TRESCIENTOS SESENTA Y SIETE PESOS 00/100 M.N.). (3)
 
-b).- De más de 10 años y hasta 20 años de fabricación anteriores al ejercicio fiscal en curso, $238.00 (DOSCIENTOS TREINTA Y OCHO PESOS 00/100 M.N.).
+b).- De más de 10 años y hasta 20 años de fabricación anteriores al ejercicio fiscal en curso, $280.00 (DOSCIENTOS OCHENTA PESOS 00/100 M.N.). (3)
 
-c).- De más de 20 años de fabricación anteriores al ejercicio fiscal en curso, $164.00 (CIENTO SESENTA Y CUATRO PESOS 00/100 M.N.).
+c).- De más de 20 años de fabricación anteriores al ejercicio fiscal en curso, $193.00 (CIENTO NOVENTA Y TRES PESOS 00/100 M.N.). (3)
 
-2.- Vehículos de servicio público, $387.00 (TRESCIENTOS OCHENTA Y SIETE PESOS 00/100 M.N.).
+2.- Vehículos de servicio público, $456.00 (CUATROCIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.). (3)
 
-3.- Remolque de servicio público, $220.00 (DOSCIENTOS VEINTE PESOS 00/100 M.N.).
+3.- Remolque de servicio público, $259.00 (DOSCIENTOS CINCUENTA Y NUEVE PESOS 00/100 M.N.). (3)
 
-4.- Para demostración, $387.00 (TRESCIENTOS OCHENTA Y SIETE PESOS 00/100 M.N.).
+4.- Para demostración, $456.00 (CUATROCIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.). (11)
 
-II.- Expedición de juego de placas para demostración de vehículos $744.00 (SETECIENTOS CUARENTA Y CUATRO PESOS 00/100 M.N.);
+II.- Expedición de juego de placas para demostración de vehículos $876.00 (OCHOCIENTOS SETENTA Y SEIS PESOS 00/100 M.N.); (2)
 
-III.- Expedición de tarjeta de circulación para remolques accionados por vehículos de tracción mecánica; $238.00 (DOSCIENTOS TREINTA Y OCHO PESOS 00/100 M.N.);
+III.- Expedición de tarjeta de circulación para remolques accionados por vehículos de tracción mecánica; $280.00 (DOSCIENTOS OCHENTA PESOS 00/100 M.N.); (2)
 
-IV.- Expedición de placa y tarjeta de circulación con vigencia anual para motocicleta, $75.00 (SETENTA Y CINCO PESOS 00/100 M.N.);
+IV.- Expedición de placa y tarjeta de circulación con vigencia anual para motocicleta, $88.00 (OCHENTA Y OCHO PESOS 00/100 M.N.); (2)
 
-V.- Expedición de placa para bicicleta, $23.00 (VEINTITRES PESOS 00/100 M.N.);
+V.- Expedición de placa para bicicleta, $27.00 (VEINTISIETE PESOS 00/100 M.N.); (2)
 
 VI.- Dotación de placas metálicas con número identificatorio para los vehículos siguientes:
 
-1.- Automóviles, camiones y camionetas, $149.00 (CIENTO CUARENTA Y NUEVE PESOS 00/100 M.N.);
+1.- Automóviles, camiones y camionetas, $175.00 (CIENTO SETENTA Y CINCO PESOS 00/100 M.N.);
 
-2.- Vehículos de servicio público, $245.00 (DOSCIENTOS CUARENTA Y CINCO PESOS 00/100 M.N.); y
+2.- Vehículos de servicio público, $289.00 (DOSCIENTOS OCHENTA Y NUEVE PESOS 00/100 M.N.); y
 
-3.- Remolques $119.00 (CIENTO DIECINUEVE PESOS 00/100 M.N.).
+3.- Remolques $140.00 (CIENTO CUARENTA PESOS 00/100 M.N.).
 
 En el caso de que el contribuyente adquiera placas metálicas con número identificatorio, además deberá pagar los derechos por la expedición de la tarjeta de circulación y la calcomanía con número identificatorio.
 
 VII.- Expedición de licencias para conducir vehículos:
 
-1.- Motociclista $30.00 (TREINTA PESOS 00/100 M.N.);
+1.- Motociclista $35.00 (TREINTA Y CINCO PESOS 00/100 M.N.); (3)
 
-2.- Chofer servicio particular $95.00 (NOVENTA Y CINCO PESOS 00/100 M.N.);
+2.- Chofer servicio particular $112.00 (CIENTO DOCE PESOS 00/100 M.N.); (3)
 
-3.- Automovilista $95.00 (NOVENTA Y CINCO PESOS 00/100 M.N.);
+3.- Automovilista $112.00 (CIENTO DOCE PESOS 00/100 M.N.); (3)
 
-4.- Chofer de servicio público $133.00 (CIENTO TREINTA Y TRES PESOS 00/100 M.N.);
+4.- Chofer de servicio público $157.00 (CIENTO CINCUENTA Y SIETE PESOS 00/100 M.N.); (3)
 
-5.- Chofer para transporte de materiales peligrosos, $170.00 (CIENTO SETENTA PESOS 00/100 M.N.); y
+5.- Chofer para transporte de materiales peligrosos, $200.00 (DOSCIENTOS PESOS 00/100 M.N.); y (11)
 
-6.- Examen de conocimientos viales y fotografía digitalizada en licencia, $40.00 (CUARENTA PESOS 00/100 M.N.).
+6.- Examen de conocimientos viales y fotografía digitalizada en licencia, $47.00 (CUARENTA Y SIETE PESOS 00/100 M.N.). (11)
 
-VIII.- Expedición de permisos por quince días para circular sin placas por una sola vez $45.00 (CUARENTA Y CINCO PESOS 00/100 M.N.);
+VIII.- Expedición de permisos por quince días para circular sin placas por una sola vez $53.00 (CINCUENTA Y TRES PESOS 00/100 M.N.); (2)
 
-IX.- Reposición o cambio de tarjeta de circulación, $112.00 (CIENTO DOCE PESOS 00/100 M.N.);
+IX.- Reposición o cambio de tarjeta de circulación, $132.00 (CIENTO TREINTA Y DOS PESOS 00/100 M.N.); (2)
 
-X.- Tarjetón de identificación del servicio público de transporte, $100.00 (CIEN PESOS 00/100 M.N.);
+X.- Tarjetón de identificación del servicio público de transporte, $118.00 (CIENTO DIECIOCHO PESOS 00/100 M.N.); (2)
 
-XI.- Expedición de constancia o certificación de documentos relativos a derechos de control vehicular, $55.00 (CINCUENTA Y CINCO PESOS 00/100 M.N.); y
+XI.- Expedición de constancia o certificación de documentos relativos a derechos de control vehicular, $65.00 (SESENTA Y CINCO PESOS 00/100 M.N.); y (2)
 
-XII.- La baja de placas del Estado y de otros Estados $0.00.
+XII.- La baja de placas del Estado y de otros Estados $0.00. (12)
 
 OBLIGACIONES
 
@@ -1771,65 +1825,65 @@ TARIFA
 
 I.- Concesiones de ruta para explotar el servicio de autotransporte de pasajeros en carreteras locales:
 
-1.- Expedición, $3,178.00 (TRES MIL CIENTO SETENTA Y OCHO PESOS 00/100 M.N.); y
+1.- Expedición, $3,743.00 (TRES MIL SETECIENTOS CUARENTA Y TRES PESOS 00/100 M.N.); y (3)
 
-2.- Refrendo anual, $953.00 (NOVECIENTOS CINCUENTA Y TRES PESOS 00/100 M.N.).
+2.- Refrendo anual, $1,122.00 (MIL CIENTO VEINTIDOS PESOS 00/100 M.N.). (3)
 
 II.- Permiso con vigencia de cinco años para servicio de transporte especializado escolar o para trabajadores:
 
-1.- Expedición, $1,000.00 (MIL PESOS 00/100 M.N.);
+1.- Expedición, $1,178.00 (MIL CIENTO SETENTA Y OCHO PESOS 00/100 M.N.);
 
 2.- Refrendo:
 
-a).- En planteles educativos, $317.00 (TRESCIENTOS DIECISIETE PESOS 00/100 M.N.); y
+a).- En planteles educativos, $373.00 (TRESCIENTOS SETENTA Y TRES PESOS 00/100 M.N.); y
 
-b).- En empresas, $381.00 (TRESCIENTOS OCHENTA Y UN PESOS 00/100 M.N.).
+b).- En empresas, $449.00 (CUATROCIENTOS CUARENTA Y NUEVE PESOS 00/100 M.N.). (2)
 
-III.- Permiso anual para transporte de carga especializada de materiales o residuos peligrosos, $750.00 (SETECIENTOS CINCUENTA PESOS 00/100 M.N.);
+III.- Permiso anual para transporte de carga especializada de materiales o residuos peligrosos, $883.00 (OCHOCIENTOS OCHENTA Y TRES PESOS 00/100 M.N.); (2)
 
 IV.- Permiso anual para servicio de transporte especializado de carga:
 
-1.- De comestibles, $350.00 (TRESCIENTOS CINCUENTA PESOS 00/100 M.N.);
+1.- De comestibles, $412.00 (CUATROCIENTOS DOCE PESOS 00/100 M.N.); (3)
 
-2.- De minerales, $892.00 (OCHOCIENTOS NOVENTA Y DOS PESOS 00/100 M.N.);
+2.- De minerales, $1,050.00 (MIL CINCUENTA PESOS 00/100 M.N.); (3)
 
-3.- Material de construcción, $744.00 (SETECIENTOS CUARENTA Y CUATRO PESOS 00/100 M.N.); y
+3.- Material de construcción, $876.00 (OCHOCIENTOS SETENTA Y SEIS PESOS 00/100 M.N.); y (3)
 
-4.- Otros productos, $350.00 (TRESCIENTOS CINCUENTA PESOS 00/100 M.N.).
+4.- Otros productos, $412.00 (CUATROCIENTOS DOCE PESOS 00/100 M.N.). (3)
 
-V.- Permiso anual para grúas, $744.00 (SETECIENTOS CUARENTA Y CUATRO PESOS 00/100 M.N.);
+V.- Permiso anual para grúas, $876.00 (OCHOCIENTOS SETENTA Y SEIS PESOS 00/100 M.N.); (2)
 
-VI.- Transferencia de concesiones, $892.00 (OCHOCIENTOS NOVENTA Y DOS PESOS 00/100 M.N.);
+VI.- Transferencia de concesiones, $1,050.00 (MIL CINCUENTA PESOS 00/100 M.N.); (2)
 
-VII.- Autorización de nueva ruta $4,462.00 (CUATRO MIL CUATROCIENTOS SESENTA Y DOS PESOS 00/100 M.N.);
+VII.- Autorización de nueva ruta $5,255.00 (CINCO MIL DOSCIENTOS CINCUENTA Y CINCO PESOS 00/100 M.N.); (2)
 
-VIII.- Ampliación de ruta del servicio de transporte de pasajeros, $2,231.00 (DOS MIL DOSCIENTOS TREINTA Y UN PESOS 00/100 M.N.);
+VIII.- Ampliación de ruta del servicio de transporte de pasajeros, $2,627.00 (DOS MIL SEISCIENTOS VEINTISIETE PESOS 00/100 M.N.); (2)
 
-IX.- Permiso temporal hasta por treinta días naturales para circular fuera de ruta, $224.00 (DOSCIENTOS VEINTICUATRO PESOS 00/100 M.N.);
+IX.- Permiso temporal hasta por treinta días naturales para circular fuera de ruta, $264.00 (DOSCIENTOS SESENTA Y CUATRO PESOS 00/100 M.N.); (2)
 
-X.- Revisión mecánica a vehículos de servicio público, $45.00 (CUARENTA Y CINCO PESOS 00/100 M.N.);
+X.- Revisión mecánica a vehículos de servicio público, $43.00 (CINCUENTA Y TRES PESOS 00/100 M.N.); (2)
 
-XI.- Verificación de emisiones de contaminantes, $36.00 (TREINTA Y SEIS PESOS 00/100 M.N.);
+XI.- Verificación de emisiones de contaminantes, $42.00 (CUARENTA Y DOS PESOS 00/100 M.N.); (2)
 
-XII.- Constancia de extravío de documentos $45.00 (CUARENTA Y CINCO PESOS 00/100 M.N.); y
+XII.- Constancia de extravío de documentos $53.00 (CINCUENTA Y TRES PESOS 00/100 M.N.); y (2)
 
 XIII.- Otros servicios:
 
-1.- Construcción de obras para acceso, $311.00 (TRESCIENTOS ONCE PESOS 00/100 M.N.);
+1.- Construcción de obras para acceso, $366.00 (TRESCIENTOS SESENTA Y SEIS PESOS 00/100 M.N.); (3)
 
-2.- Cruzamientos, instalaciones marginales y áreas subterráneas, $311.00 (TRESCIENTOS ONCE PESOS 00/100 M.N.);
+2.- Cruzamientos, instalaciones marginales y áreas subterráneas, $366.00 (TRESCIENTOS SESENTA Y SEIS PESOS 00/100 M.N.); (3)
 
-3.- Construcción de obras para fines de publicidad, $415.00 (CUATROCIENTOS QUINCE PESOS 00/100 M.N.);
+3.- Construcción de obras para fines de publicidad, $489.00 (CUATROCIENTOS OCHENTA Y NUEVE PESOS 00/100 M.N.); (3)
 
-4.- Conservación, modificación, ampliación y reparación de obras en el derecho de vía, $156.00 (CIENTO CINCUENTA Y SEIS PESOS 00/100 M.N.);
+4.- Conservación, modificación, ampliación y reparación de obras en el derecho de vía, $184.00 (CIENTO OCHENTA Y CUATRO PESOS 00/100 M.N.); (3)
 
-5.- Retiro de anuncios u obras publicitarias, $156.00 (CIENTO CINCUENTA Y SEIS PESOS 00/100 M.N.);
+5.- Retiro de anuncios u obras publicitarias, $184.00 (CIENTO OCHENTA Y CUATRO PESOS 00/100 M.N.); (3)
 
-6.- Permisos a vehículos de carga de empresas privadas, $131.00 (CIENTO TREINTA Y UN PESOS 00/100 M.N.);
+6.- Permisos a vehículos de carga de empresas privadas, $154.00 (CIENTO CINCUENTA Y CUATRO PESOS 00/100 M.N.); (3)
 
-7.- Permisos no incluidos en los anteriores, $375.00 (TRESCIENTOS SETENTA Y CINCO PESOS 00/100 M.N.); y
+7.- Permisos no incluidos en los anteriores, $442.00 (CUATROCIENTOS CUARENTA Y DOS PESOS 00/100 M.N.); y (3)
 
-8.- Por otros servicios no especificados, $75.00 (SETENTA Y CINCO PESOS 00/00 M.N.).
+8.- Por otros servicios no especificados, $88.00 (OCHENTA Y OCHO PESOS 00/00 M.N.). (3)
 
 SUJETO
 
@@ -1857,29 +1911,29 @@ Los servicios que presta la Secretaría de Educación Pública causarán derecho
 
 TARIFA
 
-I.- Registros de títulos profesionales, excepto los que expidan las Escuelas Normales del Estado, $171.00 (CIENTO SETENTA Y UN PESOS 00/100 M.N.);
+I.- Registros de títulos profesionales, excepto los que expidan las Escuelas Normales del Estado, $201.00 (DOSCIENTOS UN PESOS 00/100 M.N.); (2)
 
-II.- Registro de títulos profesionales que procedan de otro Estado, $357.00 (TRESCIENTOS CINCUENTA Y SIETE PESOS 00/100 M.N.);
+II.- Registro de títulos profesionales que procedan de otro Estado, $420.00 (CUATROCIENTOS VEINTE PESOS 00/100 M.N.); (2)
 
-III.- Registro de diplomas comerciales, $155.00 (CIENTO CINCUENTA Y CINCO PESOS 00/100 M.N.);
+III.- Registro de diplomas comerciales, $183.00 (CIENTO OCHENTA Y TRES PESOS 00/100 M.N.); (2)
 
-IV.- Legalización de firmas de certificados universitarios y de la Secretaría de Educación Pública del Estado, $69.00 (SESENTA Y NUEVE PESOS 00/100 M.N.) por firma;
+IV.- Legalización de firmas de certificados universitarios y de la Secretaría de Educación Pública del Estado, $81.00 (OCHENTA Y UN PESOS 00/100 M.N.) por firma; (2)
 
-V.- Por autorización de incorporación de planteles escolares $7,437.00 (SIETE MIL CUATROCIENTOS TREINTA Y SIETE PESOS 00/100 M.N.);
+V.- Por autorización de incorporación de planteles escolares $8,759.00 (OCHO MIL SETECIENTOS CINCUENTA Y NUEVE PESOS 00/100 M.N.); (2)
 
-VI.- Por trámite de autorización para la incorporación de planteles escolares $744.00 (SETECIENTOS CUARENTA Y CUATRO PESOS 00/100 M.N.);
+VI.- Por trámite de autorización para la incorporación de planteles escolares $876.00 (OCHOCIENTOS SETENTA Y SEIS PESOS 00/100 M.N.); (2)
 
-VII.- Por la incorporación y el refrendo anual al sistema educativo estatal de las escuelas de educación inicial, preescolar, primaria, secundaria, particulares, las academias comerciales o de otro tipo, $37.00 (TREINTA Y SIETE PESOS 00/100 M.N.) por alumno.
+VII.- Por la incorporación y el refrendo anual al sistema educativo estatal de las escuelas de educación inicial, preescolar, primaria, secundaria, particulares, las academias comerciales o de otro tipo, $44.00 (CUARENTA Y CUATRO PESOS 00/100 M.N.) por alumno. (2)
 
 Los derechos que establece esta fracción, deberán pagarse dentro del mes de octubre de cada año.
 
 La omisión en el pago de este derecho dentro del plazo establecido en el párrafo que antecede, causará recargos conforme a la tasa que establezca la Ley de Ingresos para el Estado de Coahuila.
 
-VIII.- Por autorización de examen a título de suficiencia en escuelas de nivel medio superior y superior $75.00 (SETENTA Y CINCO PESOS 00/100 M.N.);
+VIII.- Por autorización de examen a título de suficiencia en escuelas de nivel medio superior y superior $88.00 (OCHENTA Y OCHO PESOS 00/100 M.N.); (2)
 
-IX.- Por equivalencia de estudios de nivel medio y superior $149.00 (CIENTO CUARENTA Y NUEVE PESOS 00/100 M.N.); y
+IX.- Por equivalencia de estudios de nivel medio y superior $175.00 (CIENTO SETENTA Y CINCO PESOS 00/100 M.N.); y (2)
 
-X.- Por revalidación de estudios de primaria, secundaria y bachillerato hechos en el extranjero $149.00 (CIENTO CUARENTA Y NUEVE PESOS 00/100 M.N.).
+X.- Por revalidación de estudios de primaria, secundaria y bachillerato hechos en el extranjero $175.00 (CIENTO SETENTA Y CINCO PESOS 00/100 M.N.). (2)
 
 SUJETO
 
@@ -1901,7 +1955,7 @@ El pago de los derechos a que se refiere este Capítulo, deberá efectuarse en l
 
 OBJETO
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 96], P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
 
 ### CAPITULO OCTAVO. POR SERVICIOS AEROPORTUARIOS
 
@@ -1913,19 +1967,19 @@ OBJETO
 
 Por el servicio de verificación, evaluación y supervisión que las leyes de la materia encomiendan a la Secretaría de la Contraloría y Modernización Administrativa en la ejecución de obra pública, los contratistas con quienes se celebren contratos de obra pública directa del Estado y de servicios relacionados con la misma, pagarán un derecho equivalente al 5 al millar sobre el importe de cada una de las estimaciones de obra que presenten o sobre el importe del contrato.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 93], P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 133.
 
 Por otros servicios:
 
-I.- Por la expedición de certificados de no existencia de registros de inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público $60.00 (SESENTA PESOS 00/100 M.N.);
+I.- Por la expedición de certificados de no existencia de registros de inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público $71.00 (SETENTA Y UN PESOS 00/100 M.N.); (2)
 
-II.- Por la expedición de certificado de aptitud para ser proveedor del Gobierno del Estado, $595.00 (QUINIENTOS NOVENTA Y CINCO PESOS 00/100 M.N.);
+II.- Por la expedición de certificado de aptitud para ser proveedor del Gobierno del Estado, $701.00 (SETECIENTOS UN PESOS 00/100 M.N.); (2)
 
 III.- Por inscripción en el padrón de proveedores, $0.00; y
 
-IV.- Por la expedición de copias certificadas $55.00 (CINCUENTA Y CINCO PESOS 00/100 M.N.), por la primera hoja; $17.00 (DIECISIETE PESOS 00/100 M.N.) por hoja adicional.
+IV.- Por la expedición de copias certificadas $65.00 (SESENTA Y CINCO PESOS 00/100 M.N.), por la primera hoja; $20.00 (VEINTE PESOS 00/100 M.N.) por hoja adicional. (2)
 
 SUJETO
 
@@ -1961,57 +2015,57 @@ I.- Los prestados por el Departamento de Servicios Periciales de:
 
 1.- Pruebas y Técnicas:
 
-a).- Prueba de espermatobioscopia, $107.00 (CIENTO SIETE PESOS 00/100 M.N.);
+a).- Prueba de espermatobioscopia, $126.00 (CIENTO VEINTISEIS PESOS 00/100 M.N.); (3)
 
-b).- Técnica de bencidina, $89.00 (OCHENTA Y NUEVE PESOS 00/100 M.N.);
+b).- Técnica de bencidina, $105.00 (CIENTO CINCO PESOS 00/100 M.N.); (3)
 
-c).- Técnica de fonolftaleina, $104.00 (CIENTO CUATRO PESOS 00/100 M.N.);
+c).- Técnica de fonolftaleina, $122.00 (CIENTO VEINTIDOS PESOS 00/100 M.N.); (3)
 
-d).- Prueba de leucomalaquita verde, $105.00 (CIENTO CINCO PESOS 00/100 M.N.);
+d).- Prueba de leucomalaquita verde, $124.00 (CIENTO VEINTICUATRO PESOS 00/100 M.N.); (3)
 
-e).- Prueba de determinación de grupo sanguíneo, $155.00 (CIENTO CINCUENTA Y CINCO PESOS 00/100 M.N.);
+e).- Prueba de determinación de grupo sanguíneo, $183.00 (CIENTO OCHENTA Y TRES PESOS 00/100 M.N.); (3)
 
-f).- Prueba de determinación de grupo sanguíneo/factor R.H., $202.00 (DOSCIENTOS DOS PESOS 00/100 M.N.);
+f).- Prueba de determinación de grupo sanguíneo/factor R.H., $238.00 (DOSCIENTOS TREINTA Y OCHO PESOS 00/100 M.N.); (3)
 
-g).- Prueba de dequenois, $107.00 (CIENTO SIETE PESOS 00/100 M.N.);
+g).- Prueba de dequenois, $126.00 (CIENTO VEINTISEIS PESOS 00/100 M.N.); (3)
 
-h).- Prueba de radiozonato de sodio, $119.00 (CIENTO DIECINUEVE PESOS 00/100 M.N.);
+h).- Prueba de radiozonato de sodio, $140.00 (CIENTO CUARENTA PESOS 00/100 M.N.); (3)
 
-i).- Prueba de walker, $263.00 (DOSCIENTOS SESENTA Y TRES PESOS 00/100 M.N.);
+i).- Prueba de walker, $310.00 (TRESCIENTOS DIEZ PESOS 00/100 M.N.); (3)
 
-j).- Técnica de adler, $104.00 (CIENTO CUATRO PESOS 00/100 M.N.);
+j).- Técnica de adler, $122.00 (CIENTO VEINTIDOS PESOS 00/100 M.N.); (3)
 
-k).- Técnica de takayama, $150.00 (CIENTO CINCUENTA PESOS 00/100 M.N.);
+k).- Técnica de takayama, $177.00 (CIENTO SETENTA Y SIETE PESOS 00/100 M.N.); (3)
 
-l).- Prueba de fosfatasa, $416.00 (CUATROCIENTOS DIECISEIS PESOS 00/100 M.N.);
+l).- Prueba de fosfatasa, $490.00 (CUATROCIENTOS NOVENTA PESOS 00/100 M.N.); (3)
 
-m).- Prueba de identificación de drogas diversas (anfetaminas, heroína, cocaína, etc.), $208.00 (DOSCIENTOS OCHO PESOS 00/100 M.N.); y
+m).- Prueba de identificación de drogas diversas (anfetaminas, heroína, cocaína, etc.), $245.00 (DOSCIENTOS CUARENTA Y CINCO PESOS 00/100 M.N.); y (3)
 
-n).- Prueba para detectar el consumo de substancias consideradas como narcóticos (antidoping), $221.00 (DOSCIENTOS VEINTIUN PESOS 00/100 M.N.).
+n).- Prueba para detectar el consumo de substancias consideradas como narcóticos (antidoping), $260.00 (DOSCIENTOS SESENTA PESOS 00/100 M.N.). (3)
 
 2.- Otros servicios periciales:
 
-a).- Cotejo de proyectiles, $409.00 (CUATROCIENTOS NUEVE PESOS 00/100 M.N.);
+a).- Cotejo de proyectiles, $482.00 (CUATROCIENTOS OCHENTA Y DOS PESOS 00/100 M.N.); (3)
 
-b).- Peritaje de tránsito terrestre, $973.00 (NOVECIENTOS SETENTA Y TRES PESOS 00/100 M.N.);
+b).- Peritaje de tránsito terrestre, $1,146.00 (MIL CIENTO CUARENTA Y SEIS PESOS 00/100 M.N.); (3)
 
-c).- Grafoscopía, $714.00 (SETECIENTOS CATORCE PESOS 00/100 M.N.);
+c).- Grafoscopía, $841.00 (OCHOCIENTOS CUARENTA Y UN PESOS 00/100 M.N.); (3)
 
-d).- Valoración de daños, $940.00 (NOVECIENTOS CUARENTA PESOS 00/100 M.N.);
+d).- Valoración de daños, $1,107.00 (MIL CIENTO SIETE PESOS 00/100 M.N.); (3)
 
-e).- Dactiloscopía, $568.00 (QUINIENTOS SESENTA Y OCHO PESOS 00/100 M.N.);
+e).- Dactiloscopía, $669.00 (SEISCIENTOS SESENTA Y NUEVE PESOS 00/100 M.N.); (3)
 
-f).- Certificado de no antecedentes policiacos, $44.00 (CUARENTA Y CUATRO PESOS 00/100 M.N.); y
+f).- Certificado de no antecedentes policiacos, $52.00 (CINCUENTA Y DOS PESOS 00/100 M.N.); y (3)
 
-g).- Certificaciones y constancias, $55.00 (CINCUENTA Y CINCO PESOS 00/100 M.N.).
+g).- Certificaciones y constancias, $65.00 (SESENTA Y CINCO PESOS 00/100 M.N.). (3)
 
-En todos los casos en que el personal del Departamento de Servicios Periciales, con o sin equipo, deba trasladarse fuera de los locales en que normalmente prestan sus servicios, $11.00 (ONCE PESOS 00/100 M.N.) por kilómetro.
+En todos los casos en que el personal del Departamento de Servicios Periciales, con o sin equipo, deba trasladarse fuera de los locales en que normalmente prestan sus servicios, $13.00 (TRECE PESOS 00/100 M.N.) por kilómetro. (7)
 
 II.- Los prestados por otras unidades administrativas de la Procuraduría General de Justicia:
 
-1.- Certificaciones y constancias, $55.00 (CINCUENTA Y CINCO PESOS 00/100 M.N.); y
+1.- Certificaciones y constancias, $65.00 (SESENTA Y CINCO PESOS 00/100 M.N.); y (3)
 
-2.- Por otros servicios no especificados, $74.00 (SETENTA Y CUATRO PESOS 00/100 M.N.).
+2.- Por otros servicios no especificados, $87.00 (OCHENTA Y SIETE PESOS 00/100 M.N.). (3)
 
 (REUBICADO [N. DE E. ANTES ARTICULO 97], P.O. 24 DE DICIEMBRE DE 1996)
 
@@ -2033,27 +2087,29 @@ TARIFA
 
 I.- Renta mensual de hangar, se cobrará de conformidad con los contratos que celebren con los usuarios;
 
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
 II.- Aterrizaje:
 
-1.- Considerando el peso de la aeronave monomotor, cualquier clase de un motor o pistón $71.00 (SETENTA Y UN PESOS 00/100 M.N.);
+1.- Considerando el peso de la aeronave monomotor, cualquier clase de un motor o pistón $84.00 (OCHENTA Y CUATRO PESOS 00/100 M.N.); (3)
 
-2.- King-Air, Cessna 340-341-441, $77.00 (SETENTA Y SIETE PESOS 00/100 M.N.);
+2.- King-Air, Cessna 340-341-441, $91.00 (NOVENTA Y UN PESOS 00/100 M.N.); (3)
 
-3.- Lear Jet Sabreliner, Turbo Comander, Citation Falcon-20, $107.00 (CIENTO SIETE PESOS 00/100 M.N.);
+3.- Lear Jet Sabreliner, Turbo Comander, Citation Falcon-20, $126.00 (CIENTO VEINTISEIS PESOS 00/100 M.N.); (3)
 
-4.- Challenger, $124.00 (CIENTO VEINTICUATRO PESOS 00/100 M.N.);
+4.- Challenger, $146.00 (CIENTO CUARENTA Y SEIS PESOS 00/100 M.N.); (3)
 
-5.- Grumman, $155.00 (CIENTO CINCUENTA Y CINCO PESOS 00/100 M.N.);
+5.- Grumman, $183.00 (CIENTO OCHENTA Y TRES PESOS 00/100 M.N.); (3)
 
-6.- Curtis, $227.00 (DOSCIENTOS VEINTISIETE PESOS 00/100 M.N.);
+6.- Curtis, $267.00 (DOSCIENTOS SESENTA Y SIETE PESOS 00/100 M.N.); (3)
 
-7.- DC-9, $383.00 (TRESCIENTOS OCHENTA Y TRES PESOS 00/100 M.N.); y
+7.- DC-9, $451.00 (CUATROCIENTOS CINCUENTA Y UN PESOS 00/100 M.N.); y (3)
 
-8.- Boeing Carguero, $518.00 (QUINIENTOS DIECIOCHO PESOS 00/100 M.N.).
+8.- Boeing Carguero, $610.00 (SEISCIENTOS DIEZ PESOS 00/100 M.N.). (3)
 
-III.- Pernoctas, aeronave de todo tipo, $77.00 (SETENTA Y SIETE PESOS 00/100 M.N.);
+III.- Pernoctas, aeronave de todo tipo, $91.00 (NOVENTA Y UN PESOS 00/100 M.N.); (2)
 
-IV.- Extensión de horario de servicios, para cualquier tipo de aeronave por cada media hora, $164.00 (CIENTO SESENTA Y CUATRO PESOS 00/100 M.N.);
+IV.- Extensión de horario de servicios, para cualquier tipo de aeronave por cada media hora, $193.00 (CIENTO NOVENTA Y TRES PESOS 00/100 M.N.); (2)
 
 V.- La asignación de locales comerciales y áreas para publicidad, se pagará de conformidad con los contratos que se celebren con los particulares;
 
@@ -2061,11 +2117,11 @@ VI.- Para la aviación comercial, se aplicarán las tarifas establecidas en los 
 
 VII.- Por otros servicios:
 
-1..- Entrada de vehículos a plataforma, $52.00 (CINCUENTA Y DOS PESOS 00/100 M.N.); y
+1..- Entrada de vehículos a plataforma, $61.00 (SESENTA Y UN PESOS 00/100 M.N.); y (3)
 
-2.- Entrada de trailers a plataforma, $119.00 (CIENTO DIECINUEVE PESOS 00/100 M.N.).
+2.- Entrada de trailers a plataforma, $140.00 (CIENTO CUARENTA PESOS 00/100 M.N.). (3)
 
-VIII.- Por otros servicios no especificados, $83.00 (OCHENTA Y TRES PESOS 00/100 M.N.).
+VIII.- Por otros servicios no especificados, $98.00 (NOVENTA Y OCHO PESOS 00/100 M.N.). (2)
 
 SUJETO
 
@@ -2231,13 +2287,13 @@ La base de esta contribución, es la realización de los pagos por concepto de l
 
 CUOTA
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 157.
 
-La cuota correspondiente a esta contribución será la cantidad de $24.00 por cada trámite de refrendo u obtención de placas que se realice.
+La cuota correspondiente a esta contribución será la cantidad de $28.00 por cada trámite de refrendo u obtención de placas que se realice. (9)
 
-Los contribuyentes que realicen dos o más trámites por los que se causen derechos de control vehicular en un mismo ejercicio fiscal, únicamente estarán obligados a realizar un solo pago durante el ejercicio.
+Los contribuyentes que realicen dos o más trámites por los que se causen derechos de control vehicular en un mismo ejercicio fiscal, únicamente estarán obligados a realizar un sólo pago durante el ejercicio.
 
 PAGO
 
@@ -2668,3 +2724,7 @@ PRIMERO.- El presente Decreto entrará en vigor el día 1 de enero de 1998.
 SEGUNDO.- Para el ejercicio fiscal de 1998, no será aplicable lo dispuesto por el artículo 3 de la Ley de Hacienda para el Estado de Coahuila en lo previsto por el artículo 105 que se reforma.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE ENERO DE 1998.
+
+EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS DISPOSICIONES PRELIMINARES DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
