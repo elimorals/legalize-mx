@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "1989-07-28"
+last_updated: "1990-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 1990.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
 
@@ -361,19 +361,27 @@ III.- El tratamiento médico, cuidado y vigilancia de los mayores que se hallen 
 
 IV.- La guarda de sus bienes.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1990)</small>
+
 ###### Artículo 45.
 
-La patria potestad, adopción, tutela y curaduría son instituciones que tienen por objeto la atención de los incapaces, por los ascendientes, adoptantes, tutores, curadores, funcionarios judiciales y administrativos.
+La patria potestad, tutela, curaduría y adopción son Instituciones a las que corresponden la atención de los incapaces, por los ascendientes, tutores, curadores, adoptantes, funcionarios judiciales, administrativos y demás servidores públicos.
+
+Cuando en este Código se usa la palabra D. I. F. se entenderá que se refiere al Sistema Estatal para el Desarrollo Integral de la Familia, y las facultades que el mismo Código le confiere serán ejercitadas por el Presidente del Patronato de esa Institución, quien podrá delegarlas.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1990)</small>
 
 ###### Artículo 46.
 
-Las medidas protectoras del incapaz, que este Código establece, y las que juzguen pertinentes los tribunales, se dictarán por ellos:
+Las medidas protectoras del incapaz que este Código establece, y las que juzguen pertinentes los tribunales, se dictarán por ellos:
 
 I.- De oficio;
 
-II.- A petición del Ministerio Público, de los parientes del incapaz, del tutor o curador del éste, o de cualquier persona, tenga o no interés en el establecimiento de esas medidas; o
+II.- A petición del D.I.F., del Ministerio Público, del tutor o curador del incapaz;
 
-III.- A petición del mismo incapaz, la cual no necesita ser escrita.
+III.- A petición del mismo incapaz, de los parientes de éste o de cualquier persona, tenga o no interés en el establecimiento de esas medidas.
+
+Las peticiones a que se refiere la fracción anterior no necesitan ser por escrito.
 
 ###### Artículo 47.
 
@@ -2541,21 +2549,17 @@ III.- Que la esposa se encontraba encinta al promoverlo.
 
 Los cónyuges que teniendo más de un año de casados no reúnan los requisitos establecidos en las fracciones I a V del artículo 436, pueden divorciarse por mutuo consentimiento, ocurriendo al Juez del domicilio familiar, de acuerdo con las disposiciones de esta sección y de las aplicables del Código de Procedimientos Civiles.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1990)</small>
+
 ###### Artículo 443.
 
-Los cónyuges que pidan de conformidad su divorcio deberán acompañar en todo caso a su demanda un convenio en el que se fijen los siguientes puntos:
+Los cónyuges que pidan de conformidad su divorcio, deberán acompañar en todo caso a su demanda, un convenio en el que se fijen los siguientes puntos:
 
-I.- A quién se confiarán los hijos de los consortes, durante el procedimiento y después de ejecutoriado el divorcio;
+I.- A quién se confiarán los hijos de los consortes durante el procedimiento y después de ejecutoriado el divorcio;
 
 II.- El modo de ejercitar, durante el procedimiento y después de ejecutoriado el divorcio, el derecho de visitar a sus hijos y de tener correspondencia con ellos, respecto al cónyuge a quien no se confíen aquéllos;
 
-III.- El modo de subvenir a las necesidades de los hijos, tanto durante el procedimiento, como después de ejecutoriado el divorcio así como la forma de hacer el pago y la garantía que debe darse para asegurarlo;
-
-IV.- La casa que servirá de habitación a cada uno de los esposos durante el procedimiento;
-
-V.- La cantidad que a título de alimentos debe pagar el cónyuge deudor al cónyuge acreedor de éstos, durante el procedimiento;
-
-VI.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y la de liquidar dicha sociedad después de ejecutoriado el divorcio. A este efecto se acompañará un inventario y avalúo de los bienes muebles o inmuebles de la sociedad, con indicación de las deudas a cargo de ésta.
+III.- El modo de subvenir a las necesidades de los hijos, tanto durante el procedimiento, como después de ejecutoriado el divorcio, así como la forma de hacer el pago y la garantía que debe darse para asegurarlo; pero si el cónyuge deudor de los alimentos no encuentra persona que sea su fiador, si carece de bienes raíces o muebles, para garantizar con ellos, en hipoteca o prenda respectivamente el pago de los alimentos, o en el caso de que el otro cónyuge esté de acuerdo en que no se otorgue la garantía, no se exigirá ésta, y al aprobar el convenio, el Juez hará saber al deudor alimentario, que la ley castiga con cárcel el incumplimiento del pago de los alimentos y el contenido de los artículos 347 a 349, del Código de Defensa Social.
 
 ###### Artículo 444.
 
@@ -2585,9 +2589,11 @@ Los cónyuges no pueden hacerse representar por procurador en las juntas a que s
 
 A las juntas a que se refieren los artículos 445 a 447 y 451 sólo asistirán los cónyuges y el Juez, quien debe presidirlas personalmente y dar vista al Ministerio Público con el acta que de ellas se levante, en la cual sólo se hará constar el resultado de las mismas.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1990)</small>
+
 ###### Artículo 451.
 
-El Juez y el Ministerio Público examinarán cuidadosamente el convenio, y si consideran que viola los derechos de los hijos, o que no quedan bien garantizados propondrán el Ministerio Público al Juez o éste a los cónyuges las modificaciones que estimen procedentes, para lo cual los citará el Juez a una junta, en la que procurará que los cónyuges lleguen a un arreglo sobre los puntos propuestos.
+El Juez y el Ministerio Público examinarán cuidadosamente el convenio, y si consideran que viola los derechos de los hijos, propondrán el Ministerio Público al Juez o éste a los cónyuges, las modificaciones que estimen procedentes, para lo cual los citará el Juez a una Junta, en la que procurará que los cónyuges lleguen a un arreglo sobre los puntos propuestos.
 
 ###### Artículo 452.
 
@@ -3303,17 +3309,19 @@ Nadie puede ser adoptado por más de una persona, salvo en el caso previsto en e
 
 El tutor no puede adoptar al pupilo o al mayor incapacitado que estuvo bajo su tutela, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de ésta.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1990)</small>
+
 ###### Artículo 583.
 
-Para que la adopción pueda efectuarse, deberán consentir en ella en sus respectivos casos:
+Para que la adopción pueda efectuarse, deberán consentir en ella, en sus respectivos casos:
 
 I.- El que ejerza o los que ejerzan la patria potestad sobre el menor que se trata de adoptar;
 
 II.- El tutor del que se va a adoptar;
 
-III.- Las personas a que se refieren las fracciones I y II del artículo 680;
+III.- Las personas a que se refiere el Artículo 679;
 
-IV.- El Ministerio Público en el caso del artículo 681;
+IV.- El Ministerio Público en el caso del Artículo 681;
 
 V.- El menor que se va a adoptar si tiene más de catorce años.
 
@@ -3321,9 +3329,11 @@ V.- El menor que se va a adoptar si tiene más de catorce años.
 
 Si el tutor, el Ministerio Público o las personas a que se refiere la fracción III del artículo anterior, sin causa justificada no consienten en la adopción, podrá suplir el consentimiento el Juez, cuando la adopción sea conveniente para los intereses morales y materiales del adoptado.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1990)</small>
+
 ###### Artículo 585.
 
-El procedimiento para hacer la adopción y para revocarla será fijado en el Código de Procedimientos Civiles y tan luego como cause ejecutoria la resolución judicial que se dicte autorizando una adopción, quedará ésta consumada.
+El procedimiento para hacer la adopción y para revocarla será fijado por el Código de Procedimientos Civiles. En estos procedimientos será parte el D.I.F. y se oirá al Ministerio Público.
 
 ###### Artículo 586.
 
@@ -3835,37 +3845,53 @@ II.- Cuando no hay tutor testamentario.
 
 III.- Cuando deba nombrarse tutor por causa de divorcio.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1990)</small>
+
 ###### Artículo 677.
 
 La tutela legítima corresponde:
 
 I.- A los hermanos o hermanas;
 
-II.- Por falta o incapacidad de las personas mencionadas en la fracción anterior, a los tíos o tías, hermanos o hermanas del padre o de la madre.
+II.- Por falta o incapacidad de las personas mencionadas en la fracción anterior, a los abuelos o abuelas, tíos o tías, hermanos o hermanas del padre o de la madre.
+
+En el supuesto previsto por cualquiera de las dos fracciones anteriores, si hubiera varios hermanos o hermanas, o varios tíos o tías, el Juez elegirá entre ellos al que le parezca más apto para el cargo; pero si el menor hubiera cumplido catorce años, él hará la elección.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1990)</small>
 
 ###### Artículo 678.
 
-Si hubiere varios hermanos o hermanas, o varios tíos o tías, el Juez elegirá entre ellos al que le parezca más apto para el cargo; pero si el menor hubiere cumplido catorce años, él hará la elección.
+La falta temporal del tutor legítimo se suplirá como lo dispone el Artículo anterior.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1990)</small>
 
 ###### Artículo 679.
 
-La falta temporal del tutor legítimo se suplirá como lo disponen los dos artículos anteriores.
-
-###### Artículo 680.
-
-A los menores de edad que no estén sujetos a patria potestad ni a tutela legítima, por no tener, respectivamente, padres, abuelos, ni parientes conocidos, se les aplicarán las siguientes disposiciones:
+A los menores de edad que no estén sujetos a patria potestad ni a tutela legítima, por no tener, respectivamente, padres, abuelos, ni parientes conocidos, o que teniendo éstos los hayan abandonado o no acepten la tutela, se les aplicarán las siguientes disposiciones:
 
 I.- Tendrán como tutor, por ministerio de la ley, a la persona que por su propia voluntad se haya hecho cargo de ellos;
 
-II.- Si los mencionados menores se encuentran en una institución de asistencia o internado, los directores de éstos desempeñaran la tutela de aquéllos, conforme a lo dispuesto por este Código y al estatuto del establecimiento;
+II.- No será necesario el discernimiento del cargo;
 
-III.- En los casos a que se refieren las dos fracciones anteriores, no es necesario el discernimiento del cargo;
+III.- Si el menor que se encuentre en el caso previsto por este Artículo, adquiere bienes, se le nombrará tutor dativo de acuerdo con lo dispuesto en el Artículo 689 y siguientes.
 
-IV.- Si el menor que se encuentre en los casos previstos en las fracciones I y II anteriores adquiere bienes, se le nombrará tutor dativo de acuerdo con lo dispuesto por los artículos 689 y siguientes.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1990)</small>
+
+###### Artículo 680.
+
+El Presidente del Patronato del D.I.F. será tutor por ministerio de la ley y sin necesidad del discernimiento del cargo:
+
+I.- De los menores huérfanos, abandonados por el titular de su patria potestad o tutela o maltratados reiteradamente por sus parientes.
+
+II.- De los menores no sujetos a patria potestad o a tutela que se encuentren internados en casas de asistencia, colegios públicos o privados, incluyendo las Dependencias del Gobierno, el Instituto de Asistencia Pública del Estado o cualquiera otra.
+
+En el supuesto previsto por la fracción II de este Artículo, los Directores de las Instituciones en que se hallen internados los menores, tendrán únicamente la custodia de éstos y de ella habrán de dar cuenta al tutor.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1990)</small>
 
 ###### Artículo 681.
 
-El Estado debe encargarse de los menores mencionados en el artículo 680, cuando éstos no tengan el tutor a que se refieren las fracciones I y II del mismo artículo.
+El Estado debe encargarse de los menores mencionados en el Artículo 679, cuando éstos no tengan el tutor a que se refiere el mismo Artículo.
 
 #### Sección Quinta.- Tutela dativa
 
@@ -4597,7 +4623,7 @@ El acreedor alimentario que no pueda ser incorporado a la familia de su deudor d
 
 ###### Artículo 791.
 
-El derecho establecido en el artículo 788 es instransmisible (sic), no estará sujeto a embargo ni a gravamen alguno y se extingue para el miembro de la familia del constituyente, que forme a su vez otra familia.
+El derecho establecido en el artículo 788 es instransmisible, no estará sujeto a embargo ni a gravamen alguno y se extingue para el miembro de la familia del constituyente, que forme a su vez otra familia.
 
 ###### Artículo 792.
 
@@ -5149,7 +5175,7 @@ Antes de remitir el acta al Juez, el del Registro del Estado Civil hará saber a
 
 ###### Artículo 900.
 
-Las denuncias anónimas y las hechas por cualquier otro medio, si no se presentare personalmente el denunciante, sólo serán admitidas cuando estén comprobadas y, en este caso, el Juez del Registro del Estado Civil turnará de inmediato la denuncia a la autoridad judicial que corresponda, suspendiendo todo procedimiento hasta que se resuelva ejecutoriamente el asunto.
+La denuncias anónimas y las hechas por cualquier otro medio, si no se presentare personalmente el denunciante, sólo serán admitidas cuando estén comprobadas y, en este caso, el Juez del Registro del Estado Civil turnará de inmediato la denuncia a la autoridad judicial que corresponda, suspendiendo todo procedimiento hasta que se resuelva ejecutoriamente el asunto.
 
 ###### Artículo 901.
 
@@ -5255,7 +5281,7 @@ Los dueños o habitantes de la casa en que se verificare un fallecimiento; los d
 
 ###### Artículo 917.
 
-Si el fallecimiento ocurriere en lugar o población en que no hubiere oficina del Registro, la autoridad municipal hará las veces de Juez del Registro del Estado Civil, y remitirá a éste copia del acta que haya formado, para que la asiente en las formas respectivas.
+Si el fallecimiento ocurriere en lugar o población en que no hubiere oficina del Registro, la autoridad municipal hará las veces de Juez del Registro del Estado Civil, y remitirá a éste copia del acta que haya formado, para que la asiente en la formas respectivas.
 
 ###### Artículo 918.
 
@@ -7253,7 +7279,7 @@ La cantidad de agua que puede hacerse pasar por un acueducto, a través de un pr
 
 ###### Artículo 1293.
 
-Si el que disfruta el acueducto necesitare ampliarlo, deberá costear las obras necesarias, y pagar, conforme a lo dispuesto en las fracciones III y IV del artículo 1291, el terreno que nuevamente se ocupe y los daños que cause.
+Si el que disfruta el acueducto necesitare ampliarlo, deberá costear las obras necesarias, y pagar, conforme a lo dispuesto en las fracción III y IV del artículo 1291, el terreno que nuevamente se ocupe y los daños que cause.
 
 ###### Artículo 1294.
 
@@ -7579,7 +7605,7 @@ En el caso del artículo anterior, el recuperante tiene derecho de repetir contr
 
 ###### Artículo 1360.
 
-Quien no haya promovido el interdicto de recuperar la posesión, o quien habiéndolo promovido no haya obtenido sentencia favorable, puede ejercitar la acción plenaria, contra aquél cuya posesión no sea mejor.
+Quien no haya promovido el interdicto de recuperar la posesión, o quien habiéndolo promovido no haya obtenido sentencia favorable, puede ejercitar la acción plenaria, contra aquél cuyo posesión no sea mejor.
 
 ###### Artículo 1361.
 
@@ -7817,7 +7843,7 @@ III.- La renuncia a la usucapión puede ser expresa o tácita, siendo ésta últ
 
 IV.- El que no puede enajenar no puede renunciar al plazo de la usucapión que ha comenzado ni a la usucapión consumada;
 
-V.- El acreedor del adquirente por usucapión y quien tuviere legítimo interés en que esta adquisición subsista, pueden hacer valer la usucapión que aquél haya renunciado.
+V.- El acreedor del adquirente por usucapión quien tuviere legítimo interés en que esta adquisición subsista, pueden hacer valer la usucapión que aquél haya renunciado.
 
 ###### Artículo 1399.
 
@@ -8375,7 +8401,7 @@ El uso o la costumbre se tendrán en cuenta para interpretar las ambigüedades d
 
 ###### Artículo 1502.
 
-Cuando fuere imposible resolver las dudas por las reglas establecidas en los artículos anteriores, y aquéllas recaen sobre circunstancias accidentales del contrato, se observarán las reglas siguientes:
+Cuando fuere imposible resolver la dudas por las reglas establecidas en los artículos anteriores, y aquéllas recaen sobre circunstancias accidentales del contrato, se observarán las reglas siguientes:
 
 I.- Si las circunstancias, aunque accidentales por la naturaleza del contrato, revelaren que sin ellas no se habría prestado el consentimiento de alguno de los contratantes, el contrato es inexistente;
 
@@ -10639,7 +10665,7 @@ I.- La restitución será absoluta, operando en forma retroactiva, integral, par
 
 II.- La restitución será parcial, respecto a los actos instantáneos o de tracto sucesivo, que no sean susceptibles de reponerse íntegramente;
 
-III.- La restitución es inoperante respecto a las partes en los actos que implican situaciones irreparablemente consumadas;
+III.- La restitución es inoperante respecto a la partes en los actos que implican situaciones irreparablemente consumadas;
 
 IV.- La restitución de las prestaciones no podrá hacerse en perjuicio de terceros de buena fe;
 
@@ -11091,7 +11117,7 @@ No podrá hacerse efectiva la pena cuando el obligado a ella no pudo cumplir el 
 
 ###### Artículo 2025.
 
-En las obligaciones solidarias con cláusula penal, se aplicarán las siguientes disposiciones:
+En las obligaciones solidaria con cláusula penal, se aplicarán las siguientes disposiciones:
 
 I.- Bastará la contravención de uno de los deudores para que se incurra en la pena;
 
@@ -12953,7 +12979,7 @@ Los administradores de bienes ajenos, no podrán dar en comodato, sin autorizaci
 
 ###### Artículo 2368.
 
-El comodatario adquiere el uso; pero no los frutos y accesiones del bien.
+El comodatorio adquiere el uso; pero no los frutos y accesiones del bien.
 
 ###### Artículo 2369.
 
@@ -13593,7 +13619,7 @@ IV.- Por incapacidad del mandante o del mandatario;
 
 V.- Por el vencimiento del plazo o conclusión del asunto para el que se concedió;
 
-VI.- En los casos de ausencia, conforme a las reglas de esta materia.
+VI.- En los casos de ausencia, conforme a la reglas de esta materia.
 
 ###### Artículo 2491.
 
@@ -19294,3 +19320,17 @@ TRANSITORIO UNICO.- El presente Decreto empezará a surtir sus efectos a partir 
 P.O. 28 DE JULIO DE 1989.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE ABRIL DE 1990.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Los procedimientos judiciales que se hayan iniciado antes de la vigencia del presente Decreto, continuarán hasta su conclusión, aplicándose la legislación que les dio inicio.
