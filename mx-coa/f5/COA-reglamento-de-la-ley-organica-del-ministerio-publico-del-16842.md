@@ -4,7 +4,7 @@ identifier: "COA-reglamento-de-la-ley-organica-del-ministerio-publico-del-16842"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-11-23"
-last_updated: "1999-11-23"
+last_updated: "2003-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16842&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COA"
 
 REGLAMENTO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2003.
 
-Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el martes 23 de noviembre de 1999.
+Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 23 de noviembre de 1999.
 
 ROGELIO MONTEMAYOR SEGUY, Gobernador del Estado de Coahuila de Zaragoza, en ejercicio de la facultad que me confiere el artículo 82, fracción XVIII, de la Constitución Política local; y
 
@@ -2083,9 +2083,15 @@ I.- A sufragar los gastos que origine su administración;
 
 II.- A la adquisición de los recursos materiales requeridos para la procuración de justicia;
 
-III.- A los cursos de actualización, capacitación, especialización y superación que organice el Instituto;
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2003)</small>
 
-IV.- A sufragar los gastos necesarios para la participación de los funcionarios y personal administrativo, que se estime conveniente en congresos, seminarios y demás eventos académicos que tengan los mismos fines que los cursos que imparta el Instituto.
+III.- A la construcción de edificios y su equipamiento, así como a la adquisición de equipo, recursos materiales y los gastos necesarios que se generen para la consecución de os objetivos de la procuración de justicia;
+
+IV.- A los cursos de actualización, capacitación, especialización y superación que organice el Instituto;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2003)</small>
+
+V.- A sufragar los gastos necesarios para la participación de los funcionarios y personal administrativo que se estime conveniente en congresos, seminarios y demás eventos académicos que tengan los mismos fines que los cursos que imparta el Instituto.
 
 ### CAPÍTULO V. SECRETARIOS DEL MINISTERIO PÚBLICO
 
@@ -2423,7 +2429,7 @@ c) Cambio de adscripción;
 
 d) Suspensión hasta por quince días.
 
-Los secretarios, agentes y coordinadores del Ministerio Público, así como los policías ministeriales y peritos, podrán ser sancionados. también con arresto hasta por treinta y seis horas.
+Los secretarios, agentes y coordinadores del Ministerio Público, así como los policías ministeriales y peritos, podrán ser sancionados, también con arresto hasta por treinta y seis horas.
 
 ###### ARTÍCULO 171.
 
@@ -2538,3 +2544,11 @@ ROGELIO MONTEMAYOR SEGUY
 EL SECRETARIO DE GOBIERNO
 
 LIC. CARLOS JUARISTI SEPTIEN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 27 DE JUNIO DE 2003.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno de Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este decreto.
