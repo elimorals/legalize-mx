@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-transito-del-estado-de-morelos-antes-transito-138
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-05-20"
-last_updated: "1999-11-17"
+last_updated: "2000-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE TRANSITO Y TRANSPORTE PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2000.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 20 de mayo de 1998.
 
@@ -449,7 +449,9 @@ V.- El Secretario de Desarrollo Agropecuario;
 
 VI.- El Procurador General de Justicia;
 
-VII.- El Subsecretario "C" de Coordinación y Apoyo a Municipios;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2000)</small>
+
+VII.- El Subsecretario de Gobierno;
 
 VIII.- El Director General de Tránsito y Transportes;
 
@@ -465,9 +467,13 @@ XIII.- El Director de Protección Civil;
 
 XIV.- El Coordinador General de Turismo;
 
-XV.- Cuatro representantes de los Concesionarios del Transporte de Pasajeros con Itinerario Fijo;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2000)</small>
 
-XVI.- Cuatro representantes de los Concesionarios del Transporte de Pasajeros sin Itinerario Fijo;
+XV.- Siete representantes de los concesionarios del transporte de pasajeros con itinerario fijo;
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2000)</small>
+
+XVI.- Seis representantes de los concesionarios del transporte de pasajeros sin itinerario fijo;
 
 XVII.- Un representante de los Concesionarios del Transporte de Materiales para Construcción;
 
@@ -3472,3 +3478,11 @@ Se derogan todas las disposiciones administrativas que se opongan a lo estableci
 ###### ARTÍCULO SEGUNDO.
 
 El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 2 DE AGOSTO DE 2000.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Se derogan todas las disposiciones administrativas que se opongan al presente.
