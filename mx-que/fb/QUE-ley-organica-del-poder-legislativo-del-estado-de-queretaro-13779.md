@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-1377
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-09-23"
-last_updated: "2002-01-18"
+last_updated: "2003-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ENERO DEL 2002.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERETARO, PUBLICADA EN EL PERIODICO OFICIAL EL 19 DE SEPTIEMBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial "La Sombra de Arteaga" el día 23 de septiembre de 1997.
 
@@ -427,7 +429,7 @@ IX.- Llevar un libro en el que se asienten por orden cronológico, por número d
 
 X.- Supervisar el trabajo que realiza la Comisión de Administración de la H. Legislatura en auxilio de la Mesa Directiva;
 
-XI.-Presentar al Pleno, el primer día de sesión de cada mes, una relación de asuntos turnados a las Comisiones Permanentes;
+XI.- Presentar al Pleno, el primer día de sesión de cada mes, una relación de asuntos turnados a las Comisiones Permanentes;
 
 XII.- Colaborar en la elaboración del Diario de Debates;
 
@@ -579,7 +581,7 @@ VII.- Recibir de la Tesorería copia de los informes mensuales que ésta genera 
 
 VIII.- Realizar todo tipo de actos jurídicos de contenido patrimonial a nombre de la H. Legislatura, siempre y cuando lo autorice el Pleno. Podrá delegar esta facultad en cualquier funcionario de la Legislatura, conforme a la naturaleza del acto.
 
-IX.-Representar legalmente a la Legislatura en todo tipo de controversias jurisdiccionales o laborales, pudiendo delegar esta facultad; y
+IX.- Representar legalmente a la Legislatura en todo tipo de controversias jurisdiccionales o laborales, pudiendo delegar esta facultad; y
 
 X.- Las demás que determine esta Ley sus disposiciones reglamentarias;
 
@@ -637,7 +639,7 @@ XII.- Desarrollo Urbano, Obras Públicas y Comunicaciones;
 
 XIII.- Trabajo y Previsión Social;
 
-XIV.-Planeación;
+XIV.- Planeación;
 
 XV.- Derechos Humanos;
 
@@ -1053,7 +1055,7 @@ Para ser Coordinador del Instituto de Estudios Legislativos se requiere:
 
 I.- Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
 
-II.-Ser de notoria honradez y no haber sido sentenciado ejecutoriamente por delito intencional que amerite pena privativa de libertad, ni en juicio de responsabilidad por delito de carácter oficial, y
+II.- Ser de notoria honradez y no haber sido sentenciado ejecutoriamente por delito intencional que amerite pena privativa de libertad, ni en juicio de responsabilidad por delito de carácter oficial, y
 
 III.- Poseer título universitario con posgrado en derecho;
 
@@ -1393,7 +1395,7 @@ UNICO .- La presente Ley entrará en vigencia a partir de su aprobación por el 
 
 P.O. 4 DE ENERO DEL 2002
 
-PRIMERO.-La presente Ley entrará en vigor el día de su aprobación por el Pleno de la LIII Legislatura del Estado, de conformidad con el segundo párrafo artículo 36 de la Constitución Política del Estado Libre y Soberano de Querétaro Arteaga.
+PRIMERO.- La presente Ley entrará en vigor el día de su aprobación por el Pleno de la LIII Legislatura del Estado, de conformidad con el segundo párrafo artículo 36 de la Constitución Política del Estado Libre y Soberano de Querétaro Arteaga.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente.
 
@@ -1406,3 +1408,41 @@ Esta Ley entrará en vigor el día de su aprobación por el Pleno de la Legislat
 ###### ARTICULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan a la presente Ley.
+
+P.O. 29 DE SEPTIEMBRE DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley iniciará su vigencia a partir del día 26 de septiembre del año 2003, y sólo podrá ser abrogada, derogada o reformada por el voto de la mayoría de los integrantes de la Legislatura.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de la Ley Orgánica de la Contaduría Mayor de Hacienda, que se opongan a la presente ley.
+
+###### ARTÍCULO TERCERO.
+
+Al inicio de la vigencia de la presente Ley, quedará abrogada la Ley Orgánica del Poder Legislativo del Estado, publicada en el periódico oficial del Gobierno del Estado "La Sombra de Arteaga" de fecha 23 de septiembre de 1997, y todas sus reformas posteriores.
+
+###### ARTÍCULO CUARTO.
+
+Al inicio de la vigencia de la presente Ley, quedará abrogado el Reglamento para el Gobierno Interior y de Debates del Poder Legislativo, publicado en el periódico oficial del Gobierno del Estado "La Sombra de Arteaga" de fecha 17 de septiembre de 1991, y todas sus reformas posteriores; así como el Decreto por el cual se ordena instalar dos banderas nacionales con su asta bandera, debiéndose entonar el himno nacional, para rendir honores a nuestro lábaro patrio en el inmueble que ocupa la sede del Poder Legislativo, publicado el día 14 de julio de 2000.
+
+###### ARTÍCULO QUINTO.
+
+Se abrogan todos los acuerdos y disposiciones relativas al procedimiento legislativo y los reglamentos interiores de Comisiones que hubieren sido expedidos con anterioridad a la vigencia de esta ley.
+
+###### ARTÍCULO SEXTO.
+
+Al inicio de vigencia de la presente Ley, los recursos humanos, materiales y financieros con que funcionaban la Dirección de Asuntos Legislativos, el Instituto de Estudios Legislativos y el área de Comunicación Social, se integrarán a la Dirección de Asuntos Legislativos y Jurídicos, al Instituto de Investigaciones y Estadística Parlamentaria y a la Coordinación de Comunicación Social, respectivamente.
+
+El Oficial Mayor, en ejercicio de las facultades que esta ley le confiere, realizará las transferencias, adscripciones y movimientos de personal que se requieran a efecto de garantizar la aplicación de este ordenamiento, observando las disposiciones que resulten aplicables.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los asuntos legislativos y administrativos que al inicio de vigencia de esta Ley se encuentren en trámite, se continuarán conforme a las disposiciones de esta Ley.
+
+Subsisten los efectos de los acuerdos administrativos que hasta la fecha de entrada en vigor de la presente Ley se hubieren expedido, en lo que no se opongan a sus disposiciones.
+
+###### ARTÍCULO OCTAVO.
+
+El ejercicio presupuestal para el período correspondiente al año 2003, se continuará efectuando conforme a lo autorizado para ese año.
