@@ -4,7 +4,7 @@ identifier: "FED-ley-del-instituto-de-seguridad-social-para-las-fuerzas-535"
 country: "mx"
 rank: "ley"
 publication_date: "1976-06-29"
-last_updated: "1978-05-12"
+last_updated: "1978-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=535&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISSFAM"
 
 LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MAYO DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1978.
 
 Ley publicada en el Diario Oficial de la Federación el martes 29 de junio de 1976.
 
@@ -746,115 +746,71 @@ Esta prestación será cubierta por la oficina pagadora dependiente de la Tesore
 
 ### CAPITULO TERCERO. Fondo de Trabajo, Fondo de Ahorro y Seguro de Vida Militar
 
-(REFORMADO, D.O.F. 12 DE MAYO DE 1978)(F. DE E., D.O.F. 22 DE SEPTIEMBRE DE 1978)
-
 ###### ARTICULO 57.
 
-El fondo de trabajo estará constituido con las aportaciones que el Gobierno Federal realice a favor de cada elemento de tropa a partir de la fecha en que cause alta o sea reenganchado hasta que obtenga licencia ilimitada, o bien quede separado del activo o ascienda a oficial, más un interés del 4.5 % anual a favor de sus titulares, acumulable anualmente, con cargo a los resultados de operación del propio fondo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S. A., D.O.F. 29 DE DICIEMBRE DE 1978)
 
 ###### ARTICULO 58.
 
-La aportación que el Gobierno realice en los términos del artículo anterior, será equivalente al 10% de los haberes anuales del personal de tropa.
-
-> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S. A., D.O.F. 29 DE DICIEMBRE DE 1978)
 
 ###### ARTICULO 59.
 
-Podrán disponer de su fondo de trabajo:
-
-I. Los elementos de tropa que queden separados del activo, obtengan jerarquía de oficiales, o que se les haya concedido licencia ilimitada;
-
-II. Las personas que los elementos de tropa hayan designado como beneficiarios a su fallecimiento y a falta de designación, sus familiares de acuerdo con la siguiente prelación:
-
-> <small>(F. DE E., D.O.F. 22 DE SEPTIEMBRE DE 1978)</small>
-
-1. El cónyuge o en su defecto, la persona con quien haya hecho vida marital los cinco años inmediatos anteriores a su muerte, en concurrencia con los hijos del militar, a partes iguales;
-
-2. La madre;
-
-3. El padre;
-
-4. Todos aquellos que mediante resolución judicial acrediten sus derechos.
-
-> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S. A., D.O.F. 29 DE DICIEMBRE DE 1978)
 
 ###### ARTICULO 60.
 
-Con cargo a las utilidades del fondo de trabajo, el Banco Nacional del Ejército y la Armada, S. A. de C. V., cubrirá mensualmente al Instituto el 25% de las cuotas del seguro de vida obligatorio correspondiente al personal de tropa.
-
-> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S. A., D.O.F. 29 DE DICIEMBRE DE 1978)
 
 ###### ARTICULO 61.
 
-Las aportaciones que realice el Gobierno Federal destinadas al fondo de trabajo, serán administradas por el Banco Nacional del Ejército y la Armada, S. A. de C. V., para cuyo efecto se le harán las ministraciones correspondientes con la intervención que corresponda a la Secretaría de Programación y Presupuesto.
-
-> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S. A., D.O.F. 29 DE DICIEMBRE DE 1978)
 
 ###### ARTICULO 62.
 
-Las Secretarías de la Defensa Nacional y de Marina, proporcionarán al Banco Nacional del Ejército y la Armada, S. A. de C. V., los datos para la formación del registro necesario para la administración del fondo y deberán comunicarle oportunamente las altas y bajas del personal de tropa.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S. A., D.O.F. 29 DE DICIEMBRE DE 1978)
 
 ###### ARTICULO 63.
 
-El Fondo de Trabajo es inembargable e intransferible y el derecho a reclamarlo no prescribirá.
-
-> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S. A., D.O.F. 29 DE DICIEMBRE DE 1978)
 
 ###### ARTICULO 64.
 
-El Banco Nacional del Ejército y la Armada, S. A. de C. V., podrá deducir del fondo de trabajo los adeudos exigibles a cargo del militar que sean consecuencia de las operaciones previstas en esta Ley, debiendo cumplir previamente con los requisitos que establezcan las disposiciones reglamentarias.
-
-> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S. A., D.O.F. 29 DE DICIEMBRE DE 1978)
 
 ###### ARTICULO 65.
 
-El Banco Nacional del Ejército y la Armada, S. A. de C. V., administrará los recursos afectos al fondo de trabajo, sujetándose a las reglas que fije la Secretaría de Hacienda y Crédito Público.
-
-(REFORMADO, D.O.F. 12 DE MAYO DE 1978) (F. DE E., D.O.F. 22 DE SEPTIEMBRE DE 1978)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S. A., D.O.F. 29 DE DICIEMBRE DE 1978)
 
 ###### ARTICULO 66.
 
-Los recursos del fondo de trabajo, serán utilizados por el Banco Nacional del Ejército y la Armada, S. A. de C. V., en otorgar préstamos hipotecarios y a corto plazo con los requisitos y características que se precisan en los artículos 127, 134 y demás relativos, de esta Ley.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S. A., D.O.F. 29 DE DICIEMBRE DE 1978)
 
 ###### ARTICULO 67.
 
-Cuando el individuo de tropa se encuentre substraído a la acción de la justicia, no podrá disponer del Fondo del Trabajo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S. A., D.O.F. 29 DE DICIEMBRE DE 1978)
 
 FONDO DE AHORRO
 
 ###### ARTICULO 68.
 
-Para constituir un Fondo de Ahorro, los generales, jefes y oficiales en servicio activo, deberán aportar una cuota quincenal equivalente al 5% de sus haberes. Para el mismo fin, el Gobierno Federal efectuará una aportación de igual monto.
-
-Los recursos afectos al Fondo de Ahorro devengarán intereses del 4.5% anual a favor de sus titulares, acumulables anualmente.
-
-> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S. A., D.O.F. 29 DE DICIEMBRE DE 1978)
 
 ###### ARTICULO 69.
 
-Los titulares tendrán derecho a disponer totalmente de su fondo de ahorro, en el momento en que obtengan licencia ilimitada o queden separados del activo.
-
-> <small>(F. DE E., D.O.F. 22 DE SEPTIEMBRE DE 1978)</small>
-
-Quienes continúen en el activo, tendrán derecho a disponer del importe de la suma de sus descuentos cada seis años, contados a partir de la fecha de su primera aportación a dicho fondo.
-
-Podrán disponer del fondo, las personas que los titulares hayan designado como beneficiarios cuando ocurra su fallecimiento, o en su defecto, sus familiares, de acuerdo con la prelación señalada en el artículo 59 de esta Ley.
-
-> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S. A., D.O.F. 29 DE DICIEMBRE DE 1978)
 
 ###### ARTICULO 70.
 
-Los recursos que constituyen el fondo de ahorro, serán administrados por el Banco Nacional del Ejército y la Armada, S. A. de C. V.
-
-> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S. A., D.O.F. 29 DE DICIEMBRE DE 1978)
 
 ###### ARTICULO 71.
 
-El fondo de ahorro será utilizado por el Banco Nacional del Ejército y la Armada, S. A. de C. V., para otorgar créditos hipotecarios y a corto plazo con los requisitos y características que se precisan en los artículos 127, 134 y demás relativos de esta Ley. Las cantidades no utilizadas serán invertidas en la forma que determine la Secretaría de Hacienda y Crédito Público.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S. A., D.O.F. 29 DE DICIEMBRE DE 1978)
 
 ###### ARTICULO 72.
 
-Las disposiciones sobre el Fondo de Trabajo mencionadas en los artículos 62, 63, 64, 65, 66 y 67 se aplicarán también al Fondo de Ahorro.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S. A., D.O.F. 29 DE DICIEMBRE DE 1978)
 
 SEGURO DE VIDA MILITAR
 
@@ -1254,31 +1210,19 @@ PRESTAMOS HIPOTECARIOS Y A CORTO PLAZO
 
 ###### ARTICULO 127.
 
-Los militares retirados podrán obtener del Banco Nacional del Ejército y la Armada, S. A. de C. V., préstamos con garantía hipotecaria, en primer lugar sobre inmuebles urbanos, en la medida de los recursos disponibles para este fin. Dichos créditos se destinarán a:
-
-I. Adquirir terrenos en los que deberá constituirse la casa para habitación familiar del militar;
-
-II. Adquirir y construir casas para habitación familiar del militar;
-
-III. Efectuar mejoras o reparaciones de las mismas; y
-
-IV. Redimir los gravámenes que soporten dichos inmuebles que provengan de las operaciones a que se refieren las fracciones anteriores.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S. A., D.O.F. 29 DE DICIEMBRE DE 1978)
 
 ###### ARTICULO 128.
 
-Los préstamos hipotecarios se sujetarán en lo conducente a las prescripciones que establece el artículo 122 y a las disposiciones reglamentarias, y se cubrirán mediante amortizaciones quincenales que incluyan capital e intereses.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S. A., D.O.F. 29 DE DICIEMBRE DE 1978)
 
 ###### ARTICULO 129.
 
-El Banco formulará tablas para determinar las cantidades máximas que pueden ser prestadas a cada militar, según el haber de retiro que perciba. En ningún caso las amortizaciones quincenales podrán sobrepasar del 50% de dicho haber.
-
-En los casos en que el militar justifique tener otros ingresos regulares que puedan computarse para la amortización del préstamo, éste podrá sobrepasar el máximo fijado para su haber o haber de retiro en forma proporcional. El límite máximo para los créditos hipotecarios, aun tratándose de préstamos mancomunados será de $200,000.00
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S. A., D.O.F. 29 DE DICIEMBRE DE 1978)
 
 ###### ARTICULO 130.
 
-El préstamo no excederá del ... 85% del valor fijado al inmueble por el Banco. Este valor será el que resulte de promediar los valores físico y de capitalización.
-
-Cuando el militar no estuviere de acuerdo con el avalúo practicado por el Banco, podrá designar un perito que practique uno nuevo y el Consejo de Administración resolverá en definitiva.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S. A., D.O.F. 29 DE DICIEMBRE DE 1978)
 
 ###### ARTICULO 131.
 
@@ -1296,45 +1240,27 @@ Las casas adquiridas o construidas por los militares para su habitación familia
 
 ###### ARTICULO 134.
 
-El Banco podrá otorgar préstamos a corto plazo de acuerdo con los recursos disponibles para este fin:
-
-I. A los militares con haber o haber de retiro; y
-
-II. A los pensionistas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S. A., D.O.F. 29 DE DICIEMBRE DE 1978)
 
 ###### ARTICULO 135.
 
-El importe de los préstamos a corto plazo que se otorgue a generales, jefes y oficiales no podrá exceder al equivalente de cuatro meses de su haber, o de haber de retiro y en caso de pensionistas, de su percepción.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S. A., D.O.F. 29 DE DICIEMBRE DE 1978)
 
 ###### ARTICULO 136.
 
-El personal de tropa podrá obtener préstamos a corto plazo, con importe de un mes de haber si tiene de seis meses a dos años de servicios; hasta de cuatro meses de haber si tiene de dos años de servicios en adelante, y tratándose de retirados o pensionistas, hasta cuatro meses de su percepción.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S. A., D.O.F. 29 DE DICIEMBRE DE 1978)
 
 ###### ARTICULO 137.
 
-Los préstamos a corto plazo se harán conforme a las siguientes bases:
-
-I. El monto del préstamo lo constituirá el capital y los intereses calculados durante el plazo del mismo;
-
-II. El préstamo quedará garantizado con el fondo de ahorro en el caso de generales, jefes y oficiales que disfruten de haber y con el fondo de trabajo tratándose del personal de tropa;
-
-III. Todo deudor de préstamo a corto plazo deberá aportar una cuota del 1.5% sobre el monto del préstamo, para constituir un fondo destinado a la amortización de los saldos insolutos en caso de fallecimiento, o pérdida de derechos.
-
-IV. El plazo para el pago de prestamos no será mayor de 18 meses;
-
-V. La tasa del interés será fijado mediante acuerdos generales por el Consejo de Administración del Banco; pero en ningún caso podrán ser mayor del 9% anual, sobre saldos insolutos;
-
-VI. El pago del capital e intereses se hará en abonos quincenales iguales; y
-
-VII. Los préstamos se harán de tal manera que los abonos quincenales, para reintegrar la cantidad prestada y sus intereses, sumados a los descuentos por préstamos hipotecarios y a los que deben hacerse sobre cualquier otro adeudo con el Banco, no excedan del 50% del haber del militar, o de la percepción.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S. A., D.O.F. 29 DE DICIEMBRE DE 1978)
 
 ###### ARTICULO 138.
 
-No se otorgará otro préstamo mientras el anterior permanezca insoluto. Solamente podrá renovarse un préstamo cuando haya transcurrido la cuarta parte del plazo por el que fue concedido y cubiertos los abonos por dicho período.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S. A., D.O.F. 29 DE DICIEMBRE DE 1978)
 
 ###### ARTICULO 139.
 
-Los adeudos por concepto de préstamos a corto plazo que no fueren cubiertos por los militares, después de un año de su vencimiento, se cargarán a sus fondos de ahorro o de trabajo, y en cuanto a los militares con haber de retiro y a los pensionistas, los mismos se cargarán a los haberes de retiro o percepciones que disfruten.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S. A., D.O.F. 29 DE DICIEMBRE DE 1978)
 
 VENTA DE ARTICULOS DE CONSUMO NECESARIO Y OPERACION DE GRANJAS
 
@@ -2028,7 +1954,7 @@ El Instituto empleará los servicios del Banco Nacional del Ejército y la Armad
 
 ###### ARTICULO 237.
 
-El Director General del Instituto fungirá como Presidente del Consejo de Administración del Banco Nacional del Ejército y la Armada, S. A. de C. V.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S. A., D.O.F. 29 DE DICIEMBRE DE 1978)
 
 ###### ARTICULO 238.
 
@@ -2987,3 +2913,15 @@ Se deroga el artículo 238 de la Ley del Instituto de Seguridad Social para las 
 ###### ARTICULO TERCERO.
 
 Las Secretarías de Programación y Presupuesto, de Hacienda y Crédito Público y el Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, proveerán lo conducente a realizar los traspasos de los fondos correspondientes de trabajo y ahorro, al Banco Nacional del Ejército y la Armada, S. A. de C. V.
+
+D.O.F. 29 DE DICIEMBRE DE 1978.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan los Artículos 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 127, 128, 129, 130, 134, 135, 136, 137, 138, 139 y 237 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
+
+###### ARTICULO CUARTO.
+
+La presente Ley entrará en vigor al día siguiente de la fecha de su publicación en el "Diario Oficial" de la Federación.
