@@ -1,0 +1,204 @@
+---
+title: "LEY DEL PERIODICO OFICIAL DEL ESTADO DE NUEVO LEON"
+identifier: "NLE-ley-del-periodico-oficial-del-estado-de-nuevo-leon-10641"
+country: "mx"
+rank: "ley"
+publication_date: "1996-07-10"
+last_updated: "1996-07-10"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10641&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-nle"
+scjn_id: "10641"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "83"
+reform_count: "4"
+scjn_last_update: "2021-03-10"
+issue_date: "1996-06-18"
+state: "NLE"
+---
+# LEY DEL PERIODICO OFICIAL DEL ESTADO DE NUEVO LEON
+
+LEY DEL PERIODICO OFICIAL DEL ESTADO DE NUEVO LEON
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 10 de julio de 1996.
+
+BENJAMIN CLARIOND REYES-RETANA, GOBERNADOR INTERINO DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON, A TODOS SUS HABITANTES HAGO SABER:
+
+Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
+
+DECRETO
+
+NUM. 244
+
+LEY DEL PERIODICO OFICIAL DEL ESTADO DE NUEVO LEON
+
+### CAPITULO I. DISPOSICIONES GENERALES
+
+###### Artículo 1.
+
+La presente Ley, tiene por objeto organizar y regular el funcionamiento y las publicaciones en el Periódico Oficial del Estado.
+
+###### Artículo 2.
+
+El Periódico Oficial, es el órgano informativo del Gobierno Constitucional del Estado Libre y Soberano de Nuevo León, de carácter permanente e interés público, cuya función consiste en publicar, las Leyes, Decretos, Reglamentos, Acuerdos, Circulares, Notificaciones, Avisos y demás actos expedidos por los Poderes del Estado en sus respectivos ámbitos de competencia.
+
+###### Artículo 3.
+
+El Periódico Oficial, se editará en la ciudad de Monterrey, Nuevo León, y podrá ser distribuido en los demás Municipios del Estado.
+
+###### Artículo 4.
+
+El Periódico Oficial deberá contener impresos por lo menos los siguientes datos:
+
+I.- La leyenda impresa de "GOBIERNO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON";
+
+II.- El nombre de Periódico Oficial;
+
+III.- Fecha y número de publicación; y
+
+IV.- Un sumario de su contenido.
+
+###### Artículo 5.
+
+Las Leyes, Decretos, Reglamentos, Acuerdos y demás disposiciones oficiales de carácter general, surtirán efectos jurídicos y obligan por el sólo hecho de aparecer publicados en el Periódico Oficial, a menos que en el documento publicado se indique la fecha a partir de la que debe entrar en vigor.
+
+###### Artículo 6.
+
+El Periódico Oficial será publicado los días Lunes, Miércoles y Viernes, sin perjuicio de que se ordene su publicación cualquier otro día.
+
+###### Artículo 7.
+
+El Periódico Oficial será editado con un tiraje suficiente de ejemplares para garantizar su distribución y destinarlo a la venta de particulares.
+
+### CAPITULO II. DE LA DIRECCION DEL PERIODICO OFICIAL
+
+###### Artículo 8.
+
+La Secretaría General de Gobierno, es la encargada del Periódico Oficial, que será editado, publicado y conducido por un Responsable, que será nombrado por el Secretario General de Gobierno.
+
+###### Artículo 9.
+
+El Responsable del Periódico Oficial, tendrá las siguientes atribuciones:
+
+I.- Editar, imprimir y Publicar el Periódico Oficial;
+
+II.- Recibir en custodia la documentación que habrá de publicarse;
+
+III.- Realizar observaciones a la documentación enviada, previas a su publicación;
+
+IV.- Elaborar la compilación de ejemplares del Periódico Oficial del Estado;
+
+V.- Elaborar los índices anuales de publicaciones en el Periódico Oficial;
+
+VI.- Distribuir en el Estado, el Periódico Oficial;
+
+VII.- Establecer sistemas de venta de ejemplares del Periódico Oficial, a los particulares;
+
+VIII.- Celebrar convenios con la Federación, Estados y Municipios;
+
+IX.- Expedir certificaciones de la documentación a su cargo; y
+
+X.- Las demás que establezcan otras disposiciones jurídicas aplicables.
+
+### CAPITULO III. DEL FUNCIONAMIENTO DEL PERIODICO OFICIAL
+
+###### Artículo 10.
+
+Serán materia de publicación en el Periódico Oficial:
+
+I.- Las Leyes y Decretos expedidos por el Congreso del Estado, sancionados y promulgados por el Titular del Poder Ejecutivo del Estado;
+
+II.- Los Acuerdos expedidos por el Congreso;
+
+III.- Los Decretos, Reglamentos, Acuerdos del Ejecutivo del Estado;
+
+IV.- Los Acuerdos y Circulares de las Dependencias de la Administración Pública del Estado;
+
+V.- Los Acuerdos de interés general emitidos por el Poder Judicial del Estado;
+
+VI.- Los Reglamentos y Acuerdos expedidos por los Republicanos Ayuntamientos, así como los demás documentos que conforme a la Ley deban ser publicados, o cuando se tenga interés en hacerlo;
+
+VII.- Los actos y resoluciones que la Constitución Política de los Estados Unidos Mexicanos, la propia del Estado de Nuevo León y las Leyes, ordenen que se publiquen;
+
+VIII.- Los actos o resoluciones que por su importancia así lo determine el Gobernador del Estado u otras autoridades;
+
+IX.- Las actas, documentos o avisos de las entidades paraestatales de la Administración Pública Estatal, que conforme a la Ley, deban ser publicados o se tenga interés en hacerlo; y
+
+X.- Las actas, documentos o avisos de particulares que conforme a la Ley, deban de ser publicados o tengan interés en hacerlo.
+
+###### Artículo 11.
+
+El Gobernador del Estado, ordenará al Responsable del Periódico Oficial, la publicación de los documentos a que se refieren las fracciones I y III del artículo anterior.
+
+###### Artículo 12.
+
+El Responsable del Periódico Oficial instruirá lo necesario a fin de que se publiquen los documentos a que se refiere el artículo 10 de esta Ley.
+
+###### Artículo 13.
+
+La publicación en el Periódico Oficial de los documentos a que se refiere el artículo 10 de esta Ley, bastará para acreditar la fidelidad de su contenido, con el del documento original que para tal efecto se remita al Responsable del Periódico Oficial.
+
+###### Artículo 14.
+
+En ningún caso se publicará documento alguno, cualquiera que sea su naturaleza jurídica, si no está debidamente firmado y plenamente comprobada su procedencia. Por motivos técnicos en la publicación del documento se podrá omitir la impresión de la firma, sin embargo, en su lugar deberá aparecer, bajo la mención del nombre del firmante, la palabra "rúbrica", teniendo plena validez jurídica el contenido de la publicación.
+
+###### Artículo 15.
+
+Para los efectos de la venta del Periódico Oficial, la autoridad competente fijará el precio por ejemplar para distribuidores y para el público en general. Asimismo, establecerá las modalidades para el suministro a los distribuidores.
+
+###### Artículo 16.
+
+Para proceder a la publicación de los documentos a que se refiere el artículo 10 de esta Ley, deberán pagarse los derechos que establezca la Ley de Hacienda del Estado.
+
+###### Artículo 17.
+
+Todos los documentos que deban ser publicados, deberán hacerse llegar a la Dirección del Periódico Oficial, a más tardar a las 12:00 horas, del día anterior al que se realizará la publicación.
+
+### CAPITULO IV. DE LAS FE DE ERRATAS
+
+###### Artículo 18.
+
+Fe de Erratas, es la corrección inserta en el Periódico Oficial, de las publicaciones que en el mismo se realicen.
+
+###### Artículo 19.
+
+Las Fe de Erratas serán procedentes:
+
+a).- Por errores de impresión durante la elaboración del Periódico Oficial: y
+
+b).- Por errores en el contenido de los documentos que contengan la materia de publicación.
+
+###### Artículo 20.
+
+Cuando durante la impresión, se cometan errores que afecten el contenido del material publicado, haciéndolo diferir con el del documento original, el Responsable, por sí o a petición de parte, deberá insertar en el Periódico Oficial, una Fe de Erratas, en la que conste de manera cierta el contenido del documento original.
+
+###### Artículo 21.
+
+Cuando el contenido del documento original publicado, contenga errores insertos en el mismo, el Responsable, previa solicitud de parte interesada, y en su caso el pago de derechos respectivos publicará una Fe de Erratas, en la que conste la subsanación del error.
+
+## TRANSITORIOS
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente ordenamiento.
+
+Por lo tanto envíese al Ejecutivo del Estado, para su promulgación y publicación en el Periódico Oficial del Estado.
+
+Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital, a los once días del mes de Junio de mil novecientos noventa y seis.-
+
+PRESIDENTE: DIP. AMILCAR AGUILAR MENDOZA.- DIP. SECRETARIO: JOSE LUIS MESTA COELLO.- DIP. SECRETARIO: MATILDE OLIVARES ROJAS.- Rúbricas.
+
+Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, a los dieciocho días del mes de junio de mil novecientos noventa y seis.
+
+EL C. GOBERNADOR INTERINO DEL ESTADO
+
+BENJAMIN CLARIOND REYES-RETANA
+
+EL C. SECRETARIO GENERAL DE GOBIERNO
+
+JUAN FRANCISCO RIVERA BEDOYA
