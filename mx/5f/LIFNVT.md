@@ -4,7 +4,7 @@ identifier: "LIFNVT"
 country: "mx"
 rank: "ley"
 publication_date: "1972-04-24"
-last_updated: "1997-01-06"
+last_updated: "2000-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIFNVT"
 
 LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE ENERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 24 de abril de 1972.
 
@@ -406,13 +406,13 @@ Las obligaciones de efectuar las aportaciones y enterar los descuentos a que se 
 
 El Instituto del Fondo Nacional de la Vivienda para los Trabajadores, en su carácter de organismo fiscal autónomo, está facultado, en los términos del Código Fiscal de la Federación, para:
 
-> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 1994)</small>
 
 I.- Determinar, en caso de incumplimiento, el importe de las aportaciones patronales y de los descuentos omitidos, así como calcular su actualización y recargos que se generen, señalar las bases para su liquidación, fijarlos en cantidad líquida y requerir su pago. Para este fin podrá ordenar y practicar, con el personal que al efecto designe, visitas domiciliarias, auditorías e inspecciones a los patrones, requiriéndoles la exhibición de libros y documentos que acrediten el cumplimiento de las obligaciones que en materia habitacional les impone esta Ley.
 
-> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-Las facultades del Instituto para comprobar el cumplimiento de las disposiciones de esta Ley, así como para determinar las aportaciones omitidas y sus accesorios, se extinguen en el término de cinco años no sujeto a interrupción contado a partir de la fecha en que el propio Instituto tenga conocimiento del hecho generador de la obligación. El plazo señalado en este párrafo sólo se suspenderá cuando se interponga el recurso de inconformidad previsto en esta Ley o se entable juicio ante el Tribunal Fiscal de la Federación.
+Las facultades del Instituto para comprobar el cumplimiento de las disposiciones de esta Ley, así como para determinar las aportaciones omitidas y sus accesorios, se extinguen en el término de cinco años no sujeto a interrupción contado a partir de la fecha en que el propio Instituto tenga conocimiento del hecho generador de la obligación. El plazo señalado en este párrafo sólo se suspenderá cuando se interponga el recurso de inconformidad previsto en esta Ley o se entable juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa.
 
 > <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
 
@@ -828,11 +828,13 @@ Las controversias derivadas de adeudos de los trabajadores al Instituto por cré
 
 Será optativo para los trabajadores, sus causahabientes o beneficiarios, agotar el recurso de inconformidad o acudir directamente a la Junta Federal de Conciliación y Arbitraje o a los tribunales competentes.
 
+> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 54.
 
-Las controversias entre los patrones y el Instituto, una vez agotado, en su caso, el recurso de inconformidad se resolverán por el Tribunal Fiscal de la Federación.
+Las controversias entre los patrones y el Instituto, una vez agotado, en su caso, el recurso de inconformidad se resolverán por el Tribunal Federal de Justicia Fiscal y Administrativa.
 
-Será optativo para los patrones agotar el recurso de inconformidad o acudir directamente ante el Tribunal Fiscal de la Federación.
+Será optativo para los patrones agotar el recurso de inconformidad o acudir directamente ante el Tribunal Federal de Justicia Fiscal.
 
 > <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
@@ -1159,3 +1161,9 @@ b) En el caso de trabajadores que han concluido los pagos para la amortización 
 III. En el caso de depósitos que no se han transferido a bancos, debido a que no se han constituido las representaciones vecinales, se aplicará lo previsto en los incisos a) y b) de la fracción II, a aquéllos acreditados que aún no han amortizado la totalidad de su crédito y para aquéllos que ya lo hicieron.
 
 DECIMO QUINTO.- Las prórrogas a que se refiere el Artículo 41 aplicables cuando el acreditado haya dejado de prestar sus servicios a un patrón, estarán exentas del pago de intereses ordinarios por tres meses en 1997, por dos meses en 1998 y por un mes en 1999.
+
+D.O.F. 31 DE DICIEMBRE DE 2000.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+Primero. El presente Decreto entrará en vigor el 1o. de enero de 2001.
