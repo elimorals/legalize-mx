@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-del-estado-de-veracruz-llave-6578"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1990-12-29"
+last_updated: "1991-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE HACIENDA DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 1991.
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -179,11 +179,17 @@ IV.-Llevar talonarios de recibos autorizados por las Oficinas de Hacienda del Es
 
 V.-Expedir recibos a sus clientes, conservando los talonarios correspondientes; y
 
-VI.-Presentar declaración mensual ante la Oficina de Hacienda del Estado de su domicilio.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
-> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1985)</small>
+VI.- Presentar declaración mensual ante la Oficina de Hacienda del Estado de su domicilio;
 
-VII.-Presentar los documentos, datos e información que les soliciten las autoridades fiscales en relación con este impuesto.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+
+VII.- Presentar durante el mes de abril, copia de la declaración anual (año de calendario) del Impuesto al Ingreso de las Personas Físicas de la Ley del Impuesto Sobre la Renta; y
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+
+VIII.- Presentar los documentos, datos e información que les soliciten las Autoridades Fiscales en relación con este Impuesto.
 
 ###### ARTICULO 15.
 
@@ -239,11 +245,11 @@ Son sujetos de este impuesto, quienes efectúen las erogaciones a que se refiere
 
 La base del impuesto, será el importe total del boletaje adquirido o de la cuota pagada o que deba pagarse.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO PRIMERO PARRAFO, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 21.
 
-Este impuesto se causará, liquidará y pagará a razón del 10% sobre el monto de la base señalada en el artículo anterior.
+Este Impuesto se causará, liquidará y pagará a razón del 3% sobre el monto de la base señalada en el artículo anterior.
 
 En tratándose de peleas de gallos el impuesto se causará, liquidará y pagará a razón del 20% sobre la base señalada en el artículo 20.
 
@@ -285,7 +291,7 @@ En dicha liquidación quedará consignado el impuesto total retenido durante un 
 
 En dicha liquidación quedará consignado el impuesto total retenido durante un mes de calendario y se deducirán los pagos hechos en otras recaudadoras de la Entidad, enterándose desde luego la diferencia que resultare. Esta obligación será cumplida dentro de los primeros 20 días del mes inmediato posterior y con utilización de las formas oficiales autorizadas por la Tesorería General del Estado;
 
-III.-En el caso de los retenedores accidentales, la obligación de liquidar el impuesto retenido se cumplirá enterando en la Oficina de Hacienda que corresponda el importe de la retención a más tardar al día siguiente en que tuvo verificativo el evento. El cobro se hará en base al boletaje exhibido o cuota cobrada y demás elementos de prueba de que disponga la Oficina recaudadora.
+III.- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 27.
 
@@ -293,13 +299,15 @@ Las personas que habitualmente organicen, exploten o patrocinen diversiones o es
 
 I.-A registrarse en la Oficina de Hacienda correspondiente, dentro de los diez días siguientes al de la iniciación de sus operaciones haciendo uso de las formas oficialmente autorizadas;
 
-II.-A manifestar a la Oficina de Hacienda de su domicilio cada vez que ocurra algún cambio de los datos proporcionados en la forma oficial autorizada, a más tardar un días antes al que deban empezar a surtir efectos;
+II.- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1991)
 
-III.-A manifestar por escrito a la Oficina de Hacienda respectiva, la baja del espectáculo o diversión, cuando menos con tres días de anticipación;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+III.-A manifestar por escrito a la Oficina de Hacienda respectiva, la baja del espectáculo o diversión, cuando menos con tres días de anticipación, o por menor tiempo, si se presentare causa de fuerza mayor espontánea, donde se compruebe la necesidad de llevar a cabo dicha suspensión.
 
-IV.-A permitir y facilitar el desempeño de las comisiones que se encomienden al personal que designe la Secretaría de Finanzas y Planeación o la Oficina de Hacienda de su domicilio;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+
+IV.- Retener y enterar en la Oficina de Hacienda correspondiente, el mismo día en que se realice la diversión o el espectáculo y al termino del evento, el importe de la retención conforme al boletaje exhibido o cuota cobrada y demás elementos de prueba de que disponga la Oficina Recaudadora.
 
 V.-A expedir boletos individuales de entrada y comprobante de pago de cuotas, foliados consecutivamente y autorizados o sellados por la Oficina de Hacienda del Estado en los que consten los siguientes datos:
 
@@ -317,9 +325,11 @@ VI.-Llevar libro de ingresos y egresos, donde se hagan constar sus actividades; 
 
 VII.-Retener y enterar el impuesto a la Secretaría de Finanzas y Planeación.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 28.
 
-Quienes organicen o exploten diversiones o espectáculos públicos de manera accidental, tendrán las mismas obligaciones que establece el artículo anterior excepto las comprendidas en las fracciones I, II y IV y además las siguientes:
+Quienes organicen o exploten diversiones o espectáculos públicos de manera accidental, tendrán las mismas obligaciones que establece el artículo anterior, excepto la comprendida en la fracción I.
 
 I.-Dar aviso a la Oficina de Hacienda o a su representante, cuando menos con tres días de anticipación, de la iniciación de la diversión o espectáculo público de que se trate;
 
@@ -727,11 +737,11 @@ I.- Las personas que lleven a cabo las adquisiciones objeto de este Impuesto, de
 
 II.-La Oficina Recaudadora al recibir el pago expedirá el comprobante respectivo para hacer constar que el Impuesto ha sido cubierto.
 
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 33-H.
 
-La Dirección General de Tránsito y Transporte y sus Delegaciones no tramitarán ninguna solicitud de alta o baja de vehículos por los cuales no se hubiese pagado el Impuesto en los términos establecidos en este Capítulo.
+La Dirección General de Tránsito y Transporte, sus Delegaciones y las Oficinas de Hacienda del Estado, no tramitarán ninguna solicitud de alta o baja de vehículos por los cuales no se hubiese pagado el impuesto en los términos establecidos en este capítulo.
 
 > <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
 
@@ -797,11 +807,9 @@ III.-Las contribuciones por mejoras.
 
 ## TITULO SEGUNDO
 
-### CAPITULO TERCERO. DE LOS DERECHOS PRESTADOS POR LA
+### CAPITULO TERCERO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION GENERAL DE GOBERNACION
 
-SECRETARÍA DE FINANZAS Y PLANEACIÓN
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 19899)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 40.
 
@@ -845,25 +853,65 @@ III.-Legalización de firmas de certificados y expedición de copias de actas de
 
 IV.-Por la expedición de testimonios de protocolos depositados en el Archivo General de Notarias. 5 salarios mínimos
 
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+
+V.- Por la autorización para la prestación de servicios de custodia y traslado de valores y de vigilancia de inmuebles pertenecientes a particulares realizada en el interior de los mismos.
+
+a) Por la autorización inicial
+
+500 salarios mínimos
+
+b) Por revalidación anual
+
+100 salarios mínimos
+
 No causarán los derechos a que se refiere este Artículo, la legalización de firmas en materia penal y en otros casos previstos por la Ley.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 46.
 
-Por los servicios prestados por el Departamento del Registro Público de la Propiedad, de la Secretaría General de Gobierno; se causarán y pagaran los derechos siguientes:
+Por los servicios prestados por la Secretaría General de Gobierno, a través del Registro Público de la Propiedad, se causarán y pagarán los derechos siguientes:
 
-I.-Por la inscripción de documentos que contengan actos jurídicos relativos, a la adquisición transmisión o modificación de la propiedad o posesión de bienes inmuebles o derechos reales sobre los mismos y que no estén comprendidos en las siguientes fracciones, por cada uno de ellos, sobre el mayor valor que resulte de comparar el valor catastral o provisional en su caso, con el consignado en la operación, por cada $100.00 o fracción. $ 0.70
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
-Cuando se trate del derecho real de usufructo a que se refiere el artículo 1013 del Código Civil del Estado, el cálculo de los derechos se hará sobre el 75% del valor que sirva de base conforme al párrafo anterior.
+I.- Por la inscripción de documentos que contengan actos jurídicos relativos, a la adquisición, transmisión o modificación de la propiedad o posesión de bienes inmuebles o derechos reales sobre los mismos y que no estén comprendidos en las siguientes fracciones, se pagará tomando como base el mayor valor que resulte de comparar el catastral asignado por la Oficina correspondiente, con el consignado en la operación, por cada $ 100.00 o fracción.
 
-a).-Por la inscripción de documentos donde consten lotificaciones, subdivisiones, fraccionamientos, servidumbres y protocolización de permisos expedidos por la Secretaría de Relaciones Exteriores. 4 salarios mínimos
+$ 0.40
 
-b).-Por la inscripción de la división de copropiedad, del apeo y deslinde, de rectificación de medidas y linderos, capitulaciones matrimoniales, fusión de predios, constitución de régimen de propiedad en condominio y disolución de sociedad conyugal. $ 3 salarios mínimos
+En ningún caso la cantidad a pagar podrá ser menor de 5 salarios mínimos, ni mayor de 250 salarios mínimos.
 
-II.-Por la inscripción de documentos relativos a fianzas, hipotecas, reconocimientos de adeudos, créditos refaccionarios de habilitación o avío mutuo con interés simple, garantizados con prenda o hipoteca, en el Registro Público de la Propiedad o en el de Comercio en su caso, por cada $ 100.00 o fracción. $ 0.20
+a) Por la inscripción de documentos donde de consten lotificaciones, subdivisiones, fraccionamientos y servidumbres.
 
-III.-Por el registro de actas y demás diligencias relativas a embargos o cedulas hipotecarias decretadas por la autoridad judicial o administrativa sobre el monto de las cantidades cuyo cobro se asegure por medio del procedimiento, por cada $100.00 o fracción. $ 1.00
+4 salarios mínimos
+
+b) Por la inscripción de la división de copropiedad, del apeo y deslinde, de rectificación de medidas y linderos.
+
+4 salarios mínimos
+
+c) Por inscripción de capitulaciones matrimoniales, fusión de predios y disolución de sociedad conyugal.
+
+10 salarios mínimos
+
+d) Por la inscripción de constitución de régimen de propiedad de condominio.
+
+Por cada vivienda o local: 2 salarios mínimos
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+
+II.- Por la inscripción de documentos relativos a fianzas, hipotecas, reconocimientos de adeudos, créditos refaccionarios, de habilitación o avío, mutuo con interés simple y arrendamiento financiero garantizados con prenda o hipoteca en el Registro Publico de la Propiedad y del Comercio, por cada $ 100.00 o fracción.
+
+$ 0.20
+
+En ningún caso la cantidad a pagar podrá ser menor de 10 salarios mínimos, ni mayor de 500 salarios mínimos.
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+
+III.- Por el registro de catas y demás diligencias relativas a embargos o cédulas hipotecarias decretadas por la unidad judicial o administrativa sobre el monto de las cantidades cuyo cobro se asegure por medio del procedimiento, por cada $ 100.00 o fracción.
+
+$ 0.50
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
 IV.-Por la inscripción de arrendamientos hasta por cinco años, sobre el importe total de la renta durante el tiempo estipulado en el contrato, por cada $ 100.00 o fracción. $ 1.00
 
@@ -871,31 +919,77 @@ a).-Si excede de cinco años, además de pagar la cuota señalada anteriormente 
 
 b).-Si el arrendamiento es por tiempo indefinido, sobre el importe total de la renta correspondiente a dos años, por cada $ 100.00 o fracción. $ 2.00
 
-V.-Por la inscripción del auto declaratorio de herederos y nombramiento de albacea, y cesión de derechos hereditarios si ésta no incluye bienes inmuebles. 2 salarios mínimos
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
-VI.-Por la inscripción de cualquier tipo de testamentos, contratos de deposito, comodato, prestación de servicios profesionales de obra a precio alzado, aparcería agrícola o ganadera y renta vitalicia. 2 salarios mínimos
+V.- Por la inscripción del auto declaratorio de herederos y nombramiento de albacea, y cesión de derechos hereditarios si ésta no incluye bienes inmuebles.
+
+6 salarios mínimos
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+
+VI.- Por la inscripción de cualquier tipo de testamentos, contratos de depósito, comodato, prestación de servicios profesionales de obra a precio alzado, aparcería agrícola o ganadera y renta vitalicia.
+
+4 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
 VII.-Por la inscripción de escritura constitutivas de sociedades civiles o mercantiles o de aumento de capital sobre el importe del capital o su aumento. 2 salarios mínimos
 
-a).-Hasta $ 100,000.00 2 salarios mínimos
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
-b).-Por lo que exceda de __________ $ 100.00 o fracción. $ 0.20
+a).- Hasta $ 1,000,000.00
+
+6 salarios mínimos
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
+
+b).-Por lo que exceda de $ 1,000,000.00 por cada $ 1000,00 o fracción.
+
+$ 0.20
 
 c).-Por la inscripción de actas y estatutos, de sociedades cooperativas, cualquiera que sea su objeto o denominación siempre que su funcionamiento se ajuste la Ley Federal relativa sobre el capital social, por cada __________ $ 100.00 o fracción. $ 0. 15
 
-d).-Por la inscripción de documentos cuando se modifique el capital de sociedades de capital variable que se deseen inscribir a petición del interesado. 2 salarios mínimos
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
+
+d).- Por la inscripción de documentos cuando se modifique el capital de sociedades de capital variable que se deseen inscribir a petición del interesado.
+
+6 salarios mínimos
 
 Además sobre el monto de capital variable, por cada $100.00 o fracción. $ 0.05
 
-e).-Por la inscripción de documentos que modifiquen el acta constitutiva de sociedad siempre y cuando no se aumente el capital. 2 salarios mínimos
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
-f).-Por la inscripción de actas constitutivas y modificación de asociaciones civiles, constituídas conforme a lo dispuesto en el artículo 2603 del Código Civil, siempre que no se aporten bienes inmuebles. 1 salario mínimo
+e).-Por la inscripción de documentos que modifiquen el acta constitutiva de sociedad siempre y cuando no se aumente el capital.
 
-g).-Por la disolución de cualquiera de las sociedades y asociaciones mencionadas anteriormente siempre y cuando no se adjudiquen bienes inmuebles. 2 salarios mínimos
+6 salarios mínimos
 
-h).-Por la inscripción de poderes y su cancelación. 1 salario mínimo
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
-i).-Por la inscripción de documentos relativos a la enajenación de bienes muebles por cada $ 100.00 o fracción. $ 0.45
+f).-Por la inscripción de actas constitutivas y modificación de asociaciones civiles, constituidas conforme a lo dispuesto en el artículo 2603 del Código Civil, siempre que no se aporten bienes inmuebles.
+
+4 salarios mínimos
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
+
+g).-Por la disolución de cualquiera de las sociedades y asociaciones mencionadas anteriormente siempre y cuando no se adjudiquen bienes inmuebles.
+
+6 salarios mínimos
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
+
+h).-Por la inscripción de poderes y su cancelación.
+
+4 salarios mínimos
+
+i).-Por la inscripción de documentos relativos a la enajenación de bienes muebles por cada $ 100.00 o fracción.
+
+$ 0.45
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
+
+Si no tienen valor señalado y éste no puede determinarse se causará. 4 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
 VIII.- Por la inscripción de la constitución del fideicomiso traslativo de dominio o transmisión de dominio en ejecución de fideicomiso sobre el mayor valor que resulte de comparar el valor catastral o provisional en su caso con el consignado en la operación por cada $ 100.00 o fracción. $ 0.75
 
@@ -909,31 +1003,53 @@ Por la inscripción de documentos donde se haga constar la sustitución fiduciar
 
 La cancelación de cualquiera de los actos anteriores causará el 25% de la cantidad pagada por su inscripción.
 
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
 IX.-Si cuando en una providencia judicial se comprenden bienes de cualquier clase correspondientes a dos o mas entidades federativas y no fuere posible por lo tanto, establecer el valor proporcional de la cantidad asegurada, por los que se hayan ubicados en el territorio veracruzano, se tomará como base el 75% del valor actual real de los inmuebles y el que estimativamente sea imputable a los inmuebles que correspondan siempre que la cuota respectiva no resulte mayor que la que se calcule también sobre el 75% de la cantidad materia del embargo.
 
-X.-Por la modificación o rectificación de documentos ya registrados, en que no se aumentó el importe de las obligaciones pecuniarias, el 25% del total de los derechos que corresponderían al Estado por la inscripción de las escrituras primordiales y de las que, en su caso hubieren modificado aquellos en cualquier sentido, aplicándose las cuotas vigentes.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 1991)</small>
+
+X.- Por la modificación o rectificación de documentos ya registrados en que no se aumentó el importe de las obligaciones pecuniarias, el 15% del total de los derechos que corresponderían al Estado por la inscripción de las escrituras primordiales y de las que, en su caso, hubieren modificado aquéllos en cualquier sentido aplicándose las cuotas vigentes.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
 Cuando las rectificaciones sean de aumento a las obligaciones contraídas con anterioridad, los derechos se cobrarán sobre la diferencia en demasía que resulte de tales rectificaciones aplicando la fracción que corresponda en el presente título.
 
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
 XI.-Por toda anotación o cancelación cuando no sea de las que deben hacerse al mismo tiempo como consecuencia de la inscripción. 1 salario mínimo
 
-XII.-Por la expedición de certificados de gravámenes o libertad de éstos, de inscripciones de inmuebles, de afectación agraria, de no inscripción de inmuebles y de limitación de dominio.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
-2 salarios mínimos
+XII.- Por la expedición de certificados de gravámenes o libertad de éstos, de inscripciones de inmuebles, de afectación agraria, de no inscripción de inmuebles y de limitación de dominio.
+
+4 salarios mínimos
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
 a).-Por el de no poseer bienes. 0.50 salario mínimo
 
-b).-Por cualquier otro que se expida y que no este comprendido anteriormente.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
-2 salarios mínimos
+b) Por cualquier otro que se expida y que no esté comprendido anteriormente.
+
+4 salarios mínimos
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
 c).-Por la expedición de copias certificadas, por cada hoja. 0.25 salario mínimo
 
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
 XIII.-Los documentos otorgados fuera del Estado pagaran un 25 % adicional sobre las cuotas señaladas en este artículo.
 
-XIV.-Por cada inscripción de documentos cuyo valor sea determinado, si la operación se refiere a inmuebles o derechos que tengan un valor fiscal, la cuota que en el caso corresponda se basará en este y cuando el valor de las operaciones no pueda determinarse en esta forma según la importancia del documento de a 2 salarios mínimos
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+
+XIV.- Por cada inscripción de documentos cuyo valor sea indeterminado, si la operación se refiere a inmuebles o derechos que tengan un valor fiscal, la cuota que en el caso corresponda se basará en éste y cuando el valor de las operaciones no pueda determinarse en esta forma.
 
 4 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
 XV.-Se exceptúan del pago de los derechos del Registro Público de la Propiedad a que se refiere este artículo:
 
@@ -957,27 +1073,129 @@ i).-Las inscripciones de los títulos a que se refiere el artículo siete del De
 
 j).-Las inscripciones preventivas a que se refiere el artículo 2951 del Código Civil del Estado.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
-### CAPITULO QUINTO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR
+###### ARTICULO 46-A.
 
-LA DIRECCION GENERAL DE GOBERNACION
+Por los servicios prestados por la Secretaría General de Gobierno, a través de la Inspección y Archivo General de Notarías, se causarán y pagarán los derechos siguientes:
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1985)</small>
+I.- Por la autorización de cada Libro de Protocolo Notarial
+
+1 salario mínimo
+
+II.-Por cada inscripción de testamento en el Libro de Registro de Disposiciones Testamentarias.
+
+2 salarios mínimos
+
+III.-Por la expedición de Patente de Aspirante al Ejercicio del Notariado.
+
+20 salarios mínimos
+
+IV.-Por la expedición de autorización para ejercer como Notario Adscrito.
+
+10 salarios mínimos
+
+V.-Por la expedición de Nombramiento de Notario Titular.
+
+50 salarios mínimos
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 46-B.
+
+Por los servicios que presta la Editora de Gobierno del Estado, se causarán y pagarán los derechos siguientes:
+
+I.- Publicaciones:
+
+a).- Edicto de interés pecuniario, como: las prescripciones positivas, denuncias de juicio sucesorio, aceptación de herencia, remates, convocatorias para fraccionamientos. Palabra por inserción.
+
+$ 150.00
+
+b).-Edicto de Interés Social, como: cambio de nombre, póliza de defunción. Palabra por inserción.
+
+$ 100.00
+
+c) Cortes de caja, balances o cualquier documento de formación especial. Por plana.
+
+6 salarios mínimos
+
+II.-Ventas:
+
+a).-Gaceta extraordinaria de 1 a 24 planas.
+
+1 salario mínimo
+
+b).-Número extraordinario.
+
+2.5 salarios mínimos
+
+c).-Alcances de 1 a 24 planas.
+
+1 salario mínimo
+
+d).-Alcances de 24 a 72 planas.
+
+1.5 salarios mínimos
+
+e).-Alcances de 72 a 216 planas.
+
+2 salarios mínimos
+
+f).-Por copia de Gaceta.
+
+0.10 de salario mínimo
+
+> <small>(REFORMADA SU DENOMINACION. G.O. 24 DE DICIEMBRED E 1991)</small>
+
+### CAPITULO QUINTO. DE LOS DERECHOS PRESTADOS POR
+
+LA SECRETARIA DE FINANZAS Y PLANEACION
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 47.
 
-Por los servicios prestados por la Secretaría de Finanzas y Planeación del Estado, se causarán y pagarán los derechos siguientes:
+Por servicios prestados por la Dirección General de Gobernación, se causarán y pagarán los derechos siguientes:
 
-I.-Del Departamento de Catastro.
+I.-Por legalización de firmas que comprenden:
 
-a).-Por la expedición de certificados de valor catastral vigente. 3 salarios mínimos
+a).-Certificados de Registro Civil.
 
-b).-Por la expedición de constancias no especificadas 3 salarios mínimos
+0.50 salario mínimo
 
-c).-Por la certificación de planos expedidos por el Departamento independientemente del precio que se señale por la venta del mismo. 3 salarios mínimos
+b).-Testimonios notariales y escrituras públicas.
 
-II.-Por la certificación de documentos públicos que se hayan sido expedidos por la Secretaría de Finanzas y Planeación, por hoja. 0.25 salarios mínimos
+1 salario mínimo
+
+c).-Firmas de funcionarios de Gobierno del Estado.
+
+1 salario mínimo
+
+II.-Por registro de exhortos de trámite.
+
+1 salario mínimo
+
+III.-Por diligenciación de exhortos de trámite.
+
+2 salarios mínimos
+
+IV.-Por la expedición de constancias sobre antecedentes penales en el Casillero Judicial.
+
+0.50 salario mínimo
+
+V.-Por la conformidad para:
+
+A).-Que las personas morales adquieran, posean o administren fincas rústicas para el cumplimiento de su objeto social.
+
+30 salarios mínimos
+
+B).-El establecimiento de clubes de caza, tiro y otros de naturaleza similar.
+
+30 salarios mínimos
+
+C).-El uso y almacenamiento de explosivos.
+
+30 salarios mínimos
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
@@ -989,55 +1207,63 @@ DIRECCION GENERAL DE COMUNICACIONES
 
 DEPARTAMENTO DE TELECOMUNICACIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 48.
 
 Por los servicios prestados por la Dirección General de Tránsito y Transporte, se causarán y cobrarán los derechos siguientes:
 
-I.- Expedición de Licencia de Chofer, tipo A, para conducir vehículos de motor dedicados al Servicio Público de Pasajeros, de acuerdo con el Reglamento de Tránsito y Transporte, incluyendo examen médico y pericial.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+
+I.-Expedición de Licencia de chofer, tipo "A" para conducir vehículos de motor dedicados al Servicio Público de Pasajeros, de acuerdo con el Reglamento de Tránsito y Transporte, previo examen médico y pericial.
 
 8 salarios mínimos
 
-Resello Bianual
+Canje Bianual
 
 3 salarios mínimos
 
-II.-Expedición de Licencia de Chofer, tipo B, para conducir toda clase de vehículos de motor de Servicio Público de Carga y Particular, de acuerdo con el Reglamento de Tránsito y Transporte, incluyendo examen médico y pericial.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
-7 salario mínimos
+II.-Expedición de Licencia de Chofer, tipo "B" para conducir toda clase de vehículos de motor de Servicio Público de Carga y Particular, de acuerdo con el Reglamento de Tránsito y Transporte, previo examen médico y pericial.
 
-Resello Bianual
+7 salarios mínimos
+
+Canje Bianual
 
 3 salarios mínimos
 
-III.-Expedición de Licencia de Automovilista, tipo C, para conducir únicamente automóviles de Servicio Particular, de acuerdo con el Reglamento de Tránsito y Transporte, incluyendo examen
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
-médico y pericial.
+III.-Expedición de Licencia de Automovilista, tipo "C" para conducir únicamente automóviles de Servicio Particular, de acuerdo con el Reglamento de Tránsito y Transporte, previo examen médico pericial.
 
-6 salario mínimos
+6 salarios mínimos
 
-Resello Bianual
+Canje Bianual
+
+2 salarios mínimos
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+
+IV.-Expedición de Licencia de Motociclista, tipo "D" para conducir vehículos de dos o tres ruedas, de acuerdo con el Reglamento de Tránsito y Transporte, previo examen médico y pericial.
+
+4 salarios mínimos
+
+Canje Bianual
 
 2 salarios mínimos
 
-IV.-Expedición de Licencia de Motociclista, tipo D, para conducir vehículos de motor de dos o tres ruedas, de acuerdo con el Reglamento de Tránsito y Transporte, incluyendo examen médico y pericial.
-
-4 salario mínimos
-
-Resello Bianual
-
-2 salarios mínimos
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
 
 V.-Expedición de Duplicados de cualquier tipo de Licencias de las señaladas en las fracciones anteriores de este artículo.
 
 4 salarios mínimos
 
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
+
 VI.-Por la expedición de los siguientes permisos:
 
-A).-Permisos especiales para conducir hasta por 180 días renovables, a personas mayores de
-
-16 años y menores de 18.
+A).-Permisos especiales para conducir hasta por 180 días renovables, a personas mayores de 16 años y menores de 18.
 
 4 salarios mínimos.
 
@@ -1079,29 +1305,43 @@ G).-Permiso especial a particular para circular por 30 días con el parabrisas d
 
 1 salario mínimo
 
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
+
 VII.-Por Servicios de control vehicular:
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
 A).-Dotación de placas para todo tipo de vehículos.
 
+8 salarios mínimos
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+
+B).-Reposición de una placa.
+
 4 salarios mínimos
 
-B).-Por la reposición de una placa.
-
-2 salarios mínimos
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
 C).-Canje anual de engomado y tarjeta de circulación.
 
+4 salarios mínimos
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+
+D).-Canje anual de placa y tarjeta de circulación para motocicleta.
+
 2 salarios mínimos
 
-D).-Canje anual de tarjeta de circulación para motocicleta.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+
+E).-Baja de vehículos correspondientes a la misma localidad.
 
 1 salario mínimo
 
-E).-Baja de placas correspondientes a la misma localidad.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
-1 salario mínimo
-
-F).-Baja de placas correspondientes a otra Delegación de Tránsito o Entidad Federativa.
+F).-Baja de vehículos correspondientes a otra Delegación de Tránsito o Entidad Federativa.
 
 8 salarios mínimos
 
@@ -1109,19 +1349,23 @@ G).-Alta de vehículo, sin presentar la baja correspondiente.
 
 20 salarios mínimos
 
-H).-Falta de entrega de placas en el trámite de baja.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
-Por placa
+H).-Falta de entrega de placas en el tramite de baja definitiva.
 
-2 salarios mínimos
+Por placa 2 salarios mínimos
 
-I).-Falta de entrega de tarjeta de circulación en el trámite de baja.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+
+I).-Falta de entrega de tarjeta de circulación en el trámite de: Baja Definitiva o Cambio de: Domicilio; Propietario; Motor; Servicio; Entidad o de vehículo.
 
 2 salarios mínimos
 
 J).-Alta o Baja extemporánea del vehículo.
 
 2 salarios mínimos
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
 
 VIII.-Por servicios de Transporte Público.
 
@@ -1145,13 +1389,29 @@ E).-Expedición de Tarifa oficial para el Cobro de Servicio Público de Pasajero
 
 1 salario mínimo
 
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+
+F).-Expedición de permisos para circular por trámites pendientes.
+
+Por día 0.50 salario mínimo
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+
+G).-Expedición de permisos temporales.
+
+Por día 0.50 salarios mínimo
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
+
 IX.-Por la Prestación de otros Servicios:
 
 A).-Duplicado de Tarjeta de Circulación.
 
 2 salarios mínimos
 
-B).-Expedición de constancia y certificados diversos.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+
+B).-Expedición de Constancias y Certificados Médicos y de cualquier otra naturaleza.
 
 1 salario mínimo
 
@@ -1165,13 +1425,25 @@ D).-Por la utilización de grúas oficiales para el retiro de vehículos acciden
 
 4 salarios mínimos
 
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+
+E).-Por la utilización de servicio oficial de depósito y custodia de vehículos accidentados, infraccionados o por orden judicial.
+
+Por día 0.20 salario mínimo
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
+
 X.-Por el otorgamiento de concesión para prestar el servicio publico de transporte.
 
 Hasta 1000 salarios mínimos
 
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
+
 XI.-Por la transmisión de los derechos de concesión para prestar el servicio público de transporte.
 
 Hasta 150 salarios mínimos
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
 
 XII.-Por el otorgamiento de permiso para prestar el servicio de grúas.
 
@@ -1183,6 +1455,8 @@ Revalidación anual
 
 30 salarios mínimos
 
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
+
 XIII.- Por la autorización para prestar el servicio de depósito y custodia de vehículos, de acuerdo con el reglamento de tránsito y Transporte.
 
 60 salarios mínimos
@@ -1190,6 +1464,8 @@ XIII.- Por la autorización para prestar el servicio de depósito y custodia de 
 Revalidación anual
 
 30 salarios mínimos
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
 ### CAPITULO SEPTIMO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL
 
@@ -1199,47 +1475,25 @@ PODER JUDICIAL DEL ESTADO
 
 ###### ARTICULO 49.
 
-Por servicios prestados por la Dirección General de Gobernación, se causarán y pagarán los derechos siguientes:
+Por los servicios prestados por la Secretaría de Finanzas y Planeación del Estado, se causarán y pagarán los derechos siguientes:
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+I.-Del Departamento de Catastro.
 
-I.-Por legalización de firmas que comprenden:
+a).-Por la expedición de certificados de valor catastral vigente.
 
-a).-Certificados de Registro Civil. 0.50 salario mínimo
+3 salarios mínimos
 
-b).-Testimonios notariales y escrituras públicas. 1 salario mínimo
+b).-Por la expedición de constancias no especificadas.
 
-c).-Firmas de funcionarios de Gobierno del Estado. 1 salario mínimo
+3 salarios mínimos
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+c).-.Por la certificación de planos expedidos por el Departamento independientemente del precio que señale por la venta del mismo.
 
-II.-Por registro de exhortos de trámite. 1 salario mínimo
+3 salarios mínimos
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+II.-Por la certificación de documentos públicos que hayan sido expedidos por la Secretaría de Finanzas y Planeación por hoja.
 
-III.-Por diligenciación de exhortos de trámite. 1 salario mínimo
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
-
-IV.-Por la expedición de constancias sobre antecedentes penales en el Casillero Judicial.
-
-0.50 salario mínimo
-
-> <small>(ADICIONADA. G.O. 29 DE DICIEMBRE DE 1990)</small>
-
-V.- Por la conformidad para:
-
-A).-Que las personas morales adquieran, posean o administren fincas rústicas para el cumplimiento de su objeto social.
-
-30 salarios mínimos
-
-B).-El establecimiento de clubes de caza, tiro y otros de naturaleza similar.
-
-30 salarios mínimos
-
-C).-El uso y almacenamiento de explosivos.
-
-30 salarios mínimos
+0.25 salario mínimo
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 29 DE DICIEMBRE DE 1990)</small>
 
@@ -1251,79 +1505,71 @@ DE ENSEÑANZA MEDIA
 
 ###### ARTICULO 50.
 
-Por los servicios prestados por la Secretaría de Comunicaciones, Dirección General de Comunicaciones, Departamento de Telecomunicaciones se causarán y pagarán los derechos siguientes:
+Por los servicios telegráficos telefónicos y radiotelefónicos que preste la Secretaría de Comunicaciones, a través de su red de telecomunicaciones del Estado, se causarán los derechos conforme a las siguientes tarifas:
 
-I.- Por los servicios telefónicos que presta la Secretaría a través de su red de telecomunicaciones del Estado, se causarán los derechos conforme a la siguiente:
+I.- Conferencias telefónicas:
 
-T A R I F A :
+a).- Casetas telefónicas en un hilo.
 
-Conferencias telefónicas:
+3 minutos $350.00
 
-a).-Casetas telefónicas en un hilo.
+Minuto excedente $150.00
 
-3 minutos $ 300.00
+b).- Casetas telefónicas en dos hilos.
 
-minutos excedentes $ 100.00
+3 minutos $600.00
 
-b).-Casetas telefónicas en dos hilos
+Minuto excedente $200.00
 
-3 minutos $ 500.00
+c).- Casetas radiotelefónicas de Gobierno.
 
-minuto excedente $ 150.00
+3 minutos $750.00
 
-c).-Caseta radiotelefónicas de Gobierno.
+Minuto excedente $250.00
 
-3 minutos $ 750.00
+d).- Caseta Radiotelefónica de S.O.S
 
-minuto excedente $ 250.00
+3 minutos $700.00
 
-d).-Casetas radiotelefónicas de SOS.
+Minuto excedente $250.00
 
-3 minutos $ 600.00
+II.-Telegramas:
 
-minuto excedente $ 200.00
+a).- Ordinarios y urbanos.
 
-Telegramas:
+10 palabras $1,500.00
 
-Ordinarios y urbanos
+Palabra excedente $150.00
 
-10 palabras $ 1,500.00
+b).-Urgentes.
 
-palabra excedente $ 150.00
+10 palabras $3,000.00
 
-Urgentes
+Palabra excedente $300.00
 
-10 palabras $ 3,000.00
+III.-Abonados:
 
-palabra excedente $ 300.00
+a).- Telefónicos en un hilo comunal, mensualmente:
 
-Abonados:
+Oficina $3,000.00
 
-1) Telefónicos en un hilo comunal
+Particular 4,000.00
 
-Mensualmente:
+b).- Telefónicos en dos hilos comunal, mensualmente:
 
-a) Oficina $ 2,000.00
+Oficina $5,000.00
 
-b) particular $ 3,000.00
+Particular $7,000.00
 
-2) Telefónicos en dos hilos comunal
+c).- Telefónicos en dos hilos directos:
 
-Mensualmente:
+Mensualmente $8,000.00
 
-a) Oficina $ 4,000.00
+d).-Suscriptores Urbanos:
 
-b) Particular $ 6,000.00
+Anualmente $24,000.00
 
-3).-Telefónicos en dos hilos directos
-
-Mensualmente:
-
-Suscriptores urbanos:
-
-Anualmente $ 24,000.00
-
-Depósito $ 10,000.00
+Depósito $10,000.00
 
 ### CAPITULO NOVENO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA
 
@@ -1543,29 +1789,465 @@ Por los servicios prestados por la Dirección General de Asuntos Ecológicos, se
 
 I.- Por la verificación en materia de impacto ambiental para la autorización de los proyectos de obras o actividades.
 
-A).-Por la recepción y evaluación del informe preventivo 10 salarios mínimos
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
-B).-Por la recepción y evaluación de la manifestación de impacto ambiental.
+A).- Por concepto de recepción, evaluación y autorización del informe preventivo.
 
-15 salarios mínimos
+USO/RANGO
 
-C).-Por la inscripción de prestadores de servicios que realicen estudios de impacto ambiental.
+De 1 a 5,000 M2
 
-30 salarios mínimos
+Salarios mínimos.
+
+Habitacional Residencial 1°, 2° y 3° orden 15
+
+Interés social 10
+
+Popular 10
+
+Campestre Habitacional 10
+
+Industrial 30
+
+Comercial 30
+
+Servicios 20
+
+USO/RANGO
+
+De 5,001 a 10,000 M2
+
+Salarios mínimos
+
+Habitacional Residencial 1°, 2° y 3° orden 20
+
+Interés social 15
+
+Popular 10
+
+Campestre Habitacional 15
+
+Industrial 35
+
+Comercial 35
+
+Servicios 25
+
+USO/RANGO
+
+De 10 001 a 30,000 M2
+
+Salarios mínimos
+
+Habitacional Residencial 1°, 2° y 3° orden 25
+
+Interés social 20
+
+Popular 15
+
+Campestre Habitacional 20
+
+Industrial 40
+
+Comercial 40
+
+Servicios 30
+
+USO/RANGO
+
+De 30,001 a 50,000 M2
+
+Salarios mínimos
+
+Habitacional Residencial 1°, 2° y 3° orden 30
+
+Interés social 25
+
+Popular 20
+
+Campestre Habitacional 25
+
+Industrial 45
+
+Comercial 45
+
+Servicios 35
+
+USO/RANGO
+
+De 50,001 a 100,000 M2
+
+Salarios mínimos
+
+Habitacional Residencial 1°, 2° y 3° orden 35
+
+Interés social 30
+
+Popular 25
+
+Campestre Habitacional 30
+
+Industrial 50
+
+Comercial 50
+
+Servicios 40
+
+USO/RANGO
+
+Más de 100,000 M2
+
+Salarios mínimos
+
+Habitacional Residencial 1°, 2° y 3° orden 40
+
+Interés social 35
+
+Popular 30
+
+Campestre Habitacional 35
+
+Industrial 55
+
+Comercial 55
+
+Servicios 45
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+
+B).-Por concepto de recepción, evaluación y actualización de la manifestación de Impacto Ambiental.
+
+USO/RANGO
+
+De 1 a 5,000 M2
+
+Salarios mínimos
+
+Habitacional Residencial 1°, 2° y 3° orden 20
+
+Interés social 15
+
+Popular 15
+
+Campestre Habitacional 15
+
+Industrial 35
+
+Comercial 35
+
+Servicios 25
+
+USO/RANGO
+
+De 5,001 a 10,000 M2
+
+Salarios mínimos
+
+Habitacional Residencial 1°, 2° y 3° orden 25
+
+Interés social 20
+
+Popular 15
+
+Campestre Habitacional 20
+
+Industrial 40
+
+Comercial 40
+
+Servicios 30
+
+USO/RANGO
+
+De 10,001 a 30,000 M2
+
+Salarios mínimos
+
+Habitacional Residencial 1°, 2° y 3° orden 30
+
+Interés social 25
+
+Popular 20
+
+Campestre Habitacional 25
+
+Industrial 45
+
+Comercial 45
+
+Servicios 35
+
+USO/RANGO
+
+De 30,001 a 50,000 M2
+
+Salarios mínimos
+
+Habitacional Residencial 1°, 2° y 3° orden 35
+
+Interés social 30
+
+Popular 25
+
+Campestre Habitacional 30
+
+Industrial 50
+
+Comercial 50
+
+Servicios 40
+
+USO/RANGO
+
+De 50,001 a 100,000 M2
+
+Salarios mínimos
+
+Habitacional Residencial 1°, 2° y 3° orden 45
+
+Interés social 40
+
+Popular 35
+
+Campestre Habitacional 40
+
+Industrial 60
+
+Comercial 60
+
+Servicios 50
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+
+C).- Por la inscripción de prestadores de servicios que realicen estudios de impacto ambiental.
+
+40 salarios mínimos.
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
 D).-Por refrendo anual de la inscripción al padrón de prestadores de servicios.
 
-15 salarios mínimos
+20 salarios mínimos
 
-II.-Verificación vehicular de emisión de contaminación atmosférica.
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
-A).-Por verificación de vehículos con motor a gasolina, incluyendo motocicletas.
+E).- Por copia certificada de documentos.
 
-1.5 salarios mínimos
+Por hoja 0.25 salario mínimo
 
-B).-Por verificación a vehículos con motor a diesel.
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
-3 salarios mínimos
+F).- Por visita de inspección locales y/o foráneas con reporte fotográfico para emitir dictámenes técnicos en materia de impacto ambiental.
+
+USO/RANGO
+
+Salarios mínimos
+
+Zonas
+
+A B C
+
+Habitacional Residencial de 1°, 2° y 3° orden 8 10 12
+
+Interés Social 6 8 10
+
+Popular 4 6 8
+
+Campestre Habitacional 6 8 10
+
+Industrial 10 12 14
+
+Comercial 10 12 14
+
+Servicios 10 12 14
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+
+G).- Por concepto de recepción, evaluación y autorización del proyecto del sistema de tratamiento de aguas residuales.
+
+USO/RANGO
+
+De 5 a 50
+
+Lotes/Hab. Uni. o Multifam.
+
+Habitacionales Salarios mínimos
+
+Primer orden 20
+
+Segundo orden 15
+
+Tercer orden 15
+
+De interés social 15
+
+Populares 15
+
+USO/RANGO
+
+De 51 a 150
+
+Lotes/Hab. Uni. o Multifam.
+
+Habitacionales Salarios mínimos
+
+Primer orden 25
+
+Segundo orden 20
+
+Tercer orden 20
+
+De interés social 20
+
+Populares 20
+
+USO/RANGO
+
+De 151 a 300
+
+Lotes/Hab. Uni. o Multifam.
+
+Habitacionales Salarios mínimos
+
+Primer orden 30
+
+Segundo orden 25
+
+Tercer orden 25
+
+De interés social 25
+
+Populares 25
+
+USO/RANGO
+
+De 301 a 500
+
+Lotes/Hab. Uni. o Multifam.
+
+Habitacionales Salarios mínimos
+
+Primer orden 35
+
+Segundo orden 30
+
+Tercer orden 30
+
+De interés social 30
+
+Populares 30
+
+USO/RANGO
+
+De 501 a 1,000
+
+Lotes/Hab. Uni. o Multifam.
+
+Habitacionales Salarios mínimos
+
+Primer orden 40
+
+Segundo orden 35
+
+Tercer orden 35
+
+De interés social 35
+
+Populares 35
+
+USO/RANGO
+
+De más de 1,000
+
+Lotes/Hab. Uni. o Multifam.
+
+Habitacionales Salarios mínimos
+
+Primer orden 45
+
+Segundo orden 40
+
+Tercer orden 40
+
+De interés social 40
+
+Populares 40
+
+Fraccionamientos
+
+Salarios mínimos
+
+Campestres habitacionales 15
+
+Campestres Agropecuarios 20
+
+Industriales:
+
+Pequeña Industria 40
+
+Mediana Industria 50
+
+Gran Industria 60
+
+USO/RANGO
+
+De 1 a 5,000 M2
+
+Salarios Mínimos
+
+Comercial 35
+
+Servicios 25
+
+USO/RANGO
+
+De 5,001 a 10,000 M2
+
+Salarios Mínimos
+
+Comercial 40
+
+Servicios 30
+
+USO/RANGO
+
+De 10,001 a 30,000 M2
+
+Salarios Mínimos
+
+Comercial 45
+
+Servicios 35
+
+USO/RANGO
+
+De 30,001 a 50,000 M2
+
+Salarios Mínimos
+
+Comercial 50
+
+Servicios 40
+
+USO/RANGO
+
+De 50,001 a 100,000 M2
+
+Salarios Mínimos
+
+Comercial 55
+
+Servicios 45
+
+USO/RANGO
+
+Más de 100,000 M2
+
+Salarios Mínimos
+
+Comercial 60
+
+Servicios 50
 
 > <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
 
@@ -1605,13 +2287,9 @@ USO/RANGO 1 a 5,000 M2.
 
 SALARIOS MININOS
 
-Residencial
+Residencial 1º y 2°, Orden 25
 
-1º y 2°, Orden 25
-
-Residencial
-
-3er. Orden (medio) 20
+Residencial 3er. Orden (medio) 20
 
 Interés Social 15
 
@@ -2460,3 +3138,13 @@ Se derogan todas las disposiciones que se opongan a la presente Ley.
 ###### ARTICULO TERCERO.
 
 Las Licencias que se hayan expedido con anterioridad a la entrada en vigor de la presente Ley y que tengan vencimiento con posterioridad, deberán ser canjeadas en los términos del artículo 48 a la fecha de su vencimiento.
+
+G.O. 24 DE DICIEMBRE DE 1991.
+
+###### ARTICULO PRIMERO.
+
+El presente ordenamiento entrará en vigor el día primero de enero de mil novecientos noventa y dos, previa su publicación en la 'Gaceta Oficial' del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a este ordenamiento.
