@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "1994-09-02"
+last_updated: "1995-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1995.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1655,7 +1655,11 @@ V.- Cuando lo cometa el dueño o alguno de su familia en la casa del primero, co
 
 VI.- Cuando lo cometan los dueños, dependientes, encargados o criados de empresas o establecimientos comerciales, en los lugares en que presten sus servicios al público, y en los bienes de los huéspedes o clientes, y
 
-VII.- Cuando se cometa por los obreros, artesanos, aprendices o discípulos, en la casa, taller o escuela en que habitualmente trabaje o aprendan, o en la habitación, oficina, bodega, u otro lugar al que tengan libre entrada con el carácter indicado.
+VII.- Cuando se cometa por los obreros, artesanos, aprendices o discípulos, en la casa, taller o escuela en que habitualmente trabaje o aprendan, o en la habitación, oficina, bodega, u otro lugar al que tengan libre entrada con el carácter indicado;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 1995)</small>
+
+VIII.- Cuando el bien materia del delito lo constituya un vehículo de motor cualquiera que sea su tipo.
 
 ### CAPITULO III. TRAFICO DE MENORES
 
@@ -3078,3 +3082,9 @@ P.O. 2 DE SEPTIEMBRE DE 1994.
 PRIMERO.- Las presentes Reformas y Adiciones al Código Penal y de Procedimientos Penales entrarán en vigor, a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes reformas y adiciones.
+
+P.O. 16 DE JUNIO DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a los quince días de su publicación en el Periódico Oficial del Estado de Baja California.
