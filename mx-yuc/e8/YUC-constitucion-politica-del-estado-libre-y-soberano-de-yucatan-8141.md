@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1978-09-15"
+last_updated: "1979-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE SEPTIEMBRE DE 1978.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 1979.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -89,7 +89,9 @@ Son Yucatecos:
 
 I.- todos los nacidos dentro o fuera del territorio del Estado, de padres yucatecos;
 
-II.- los nacionales originarios de las demás Entidades de la República Mexicana, que hubiesen residido en el Estado seis meses consecutivos; y
+> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 1979)</small>
+
+II.- Los nacionales originarios de las demás Entidades de la República Mexicana, que hubiesen residido en el Estado cinco años consecutivos; y
 
 III.- los extranjeros que se naturalicen con arreglo a las Leyes de la República y que hubieren residido en el Estado seis meses consecutivos.
 
@@ -263,19 +265,19 @@ El Congreso del Estado de Yucatán se compondrá de representantes electos cada 
 
 Las personas que hubiesen desempeñado las funciones de Diputado no podrán ser reelectos para el período inmediato siguiente. Los Diputados Suplentes podrán ser electos para el período inmediato siguiente con el carácter de Propietario, siempre que no hubieren estado en ejercicio; pero los Propietarios no podrán ser electos para dicho período ni con el carácter de Suplentes.
 
-> <small>(REFORMADO, D.O. 26 DE JUNIO DE 1978)</small>
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 21.
 
-El Congreso del Estado se integrará con trece Diputados electos según el principio de votación mayoritaria relativa, en igual número de Distritos Electorales y hasta con tres Diputados que serán designados según el principio de representación proporcional.
+El Congreso del Estado se integrará con trece Diputados electos según el principio de votación mayoritaria relativa, en igual número de Distritos Electorales y hasta con cinco Diputados que serán designados según el principio de representación proporcional.
 
 La demarcación territorial de los trece Distritos Electorales será la que resulte de dividir la población total del Estado entre los Distritos señalados.
 
 Para acreditar Diputados por el principio de representación proporcional se observarán las siguientes bases y lo que en lo particular disponga la Ley.
 
-a) que los Partidos Políticos que los postulen obtengan cuando menor (sic) el uno y medio por ciento de la votación total del Estado;
+a) que los Partidos Políticos que los postulen obtengan cuando menos el uno y medio por ciento de la votación total del Estado;
 
-b) Que los mismos Partidos hayan postulado también candidatos en, por lo menos, seis Distritos Electorales;
+b) que los mismos Partidos hayan postulado también candidatos en, por lo menos, seis Distritos Electorales;
 
 c) que los propios Partidos no hayan acreditado dos o más Diputados de mayoría relativa, pudiendo obtener hasta dos de representación proporcional, siempre que no hubieren obtenido alguno de mayoría relativa.
 
@@ -287,7 +289,9 @@ Para ser Diputado, se requiere:
 
 I.- ser ciudadano mexicano por nacimiento y tener además las calidades de ciudadano yucateco en el ejercicio de sus derechos;
 
-II.- tener veinticinco años cumplidos el día de la elección;
+> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 1979)</small>
+
+II.- tener veintún años cumplidos el día de la elección;
 
 III.- No ser Ministro de ningún culto;
 
@@ -297,17 +301,19 @@ V.- no ser Gobernador del Estado, ni Magistrado del Tribunal Superior de Justici
 
 VI.- haber residido en el Estado los dos años inmediatamente anteriores a la elección. La vecindad no se pierde por desempeñar comisiones oficiales procedentes del Gobierno del Estado o de las Instituciones dependientes de éste. Tampoco se pierde por desempeñar los cargos de Diputado al Congreso de la Unión o de Senador.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(ADICIONADA, D.O. 24 DE DICIEMBRE DE 1979)</small>
+
+VII.- no tener antecedentes penales.
+
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 23.
 
-El cargo de Diputado es incompatible con cualquier cargo, comisión o empleo público de elección popular.
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+El cargo de Diputado es incompatible con cualquier cargo, comisión o empleo público.
 
 ###### Artículo 24.
 
-Los Diputados propietarios desde el día de su elección hasta aquél en que concluyan su encargo, y los suplentes, durante el tiempo en que estén en ejercicio, no podrán ser nombrados por el Gobernador del Estado, sin previa autorización del Congreso, para algún empleo por el cual se perciba sueldo del Erario Público.
+(DEROGADO, D.O. 24 DE DICIEMBRE DE 1979)
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -351,7 +357,9 @@ Son atribuciones del Congreso:
 
 I.- formar nuevos municipios dentro de los límites de los existentes, siendo necesario al efecto:
 
-a) que la fracción o fracciones que pidan erigirse en municipio cuenten con una población de quinientos vecinos por lo menos, mayores de edad, que reúnan las condiciones que disponga la Ley del Municipio Libre del Estado;
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 1979)</small>
+
+a) Que la fracción o fracciones que pidan erigirse en municipio cuenten con una población de dos mil vecinos por lo menos, mayores de edad, que reúnan las condiciones que disponga la Ley del Municipio Libre del Estado;
 
 b) que se compruebe ante el Congreso que tienen los elementos bastantes para proveer a su existencia autónoma;
 
@@ -631,6 +639,10 @@ VII.- no ser Secretario de Gobierno, de Asuntos Educativos y Sociales, Oficial M
 
 VIII.- no estar comprendido en alguna de las causas de incapacidad establecidas en el artículo 48.
 
+> <small>(ADICIONADA, D.O. 24 DE DICIEMBRE DE 1979)</small>
+
+IX.- no tener antecedentes penales.
+
 > <small>(REFORMADO, D.O.30 DE SEPTIEMBRE DE 1974)</small>
 
 ###### Artículo 47.
@@ -673,11 +685,11 @@ Cuando la falta sea temporal, y no exceda de sesenta días, el Secretario de Gob
 
 Si la falta del Gobernador fuere absoluta y faltaren tres años o más para terminar el período constitucional, el Congreso convocará inmediatamente para la elección del Gobernador, la que se verificará dentro de dos meses y el nuevamente electo, ejercerá sus funciones hasta terminar el período constitucional. Si faltaren menos de tres años, el nombrado con el carácter de interino continuará hasta concluir el sexenio.
 
-> <small>(REFORMADO, D.O. 6 DE OCTUBRE DE 1943)</small>
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 53.
 
-Nunca podrá ser electo para el periodo inmediato siguiente el ciudadano que bajo cualquier denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del periodo.
+Nunca podrá ser electo para el periodo inmediato siguiente el ciudadano que, bajo cualquier denominación, supla las faltas temporales del Gobernador, si ha desempeñado el cargo en los últimos seis meses del periodo.
 
 > <small>(REFORMADO, D.O.27 DE ENERO DE 1976)</small>
 
@@ -815,7 +827,7 @@ Las faltas del Secretario de Gobierno serán suplidas por el Secretario de Asunt
 
 Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia, en los Juzgados de Primera Instancia y en los demás establecidos o que en adelante establezcan las leyes.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 1979)</small>
 
 ## TITULO SEXTO. Del Poder Judicial
 
@@ -823,7 +835,7 @@ Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior d
 
 ###### Artículo 64.
 
-El Tribunal Superior de Justicia se compondrá de tres Magistrados y funcionará en Tribunal Pleno o dividido en Salas, de la manera que establezca la Ley. Habrá además tres Magistrados suplentes.
+El Tribunal Superior de Justicia se compondrá de seis Magistrados y funcionará en Tribunal Pleno o dividido en Salas, de la manera que establezca la Ley. Habrá además seis Magistrados Suplentes.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -848,6 +860,10 @@ IV.- ser Abogado con Título oficial;
 V.- No ser Ministro de ningún culto; y
 
 VI.- haber ejercido la abogacía cinco años o cuatro la Judicatura.
+
+> <small>(ADICIONADA, D.O. 24 DE DICIEMBRE DE 1979)</small>
+
+VII.- No tener antecedentes penales.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -917,9 +933,9 @@ I.- hacer uso del derecho de iniciar Leyes que le confiere esta Constitución;
 
 II.- ejercer las funciones de Jurado que le confiere el artículo 100 de esta Constitución;
 
-> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 1961)</small>
+> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 1979)</small>
 
-III.- nombrar y remover a los Jueces de Primera Instancia, a los miembros el Tribunal de Menores, a los Jueces de Paz, a los Secretarios, Diligencieros y demás empleados subalternos de la Administración de Justicia;
+III.- nombrar y remover a los Jueces de Primera Instancia, a los miembros de Tribunal de Menores, a los Jueces de Paz, a los Secretarios, a los Actuarios y demás empleados subalternos de la Administración de Justicia;
 
 IV.- admitir las renuncias que de sus encargos hagan los funcionarios y empleados referidos en la fracción anterior, así como conceder licencias a los mismos;
 
@@ -1205,11 +1221,11 @@ Todo funcionario o empleado público del Estado o de los municipios, sin excepci
 
 La responsabilidad del Gobernador, Secretario de Gobierno y demás funcionarios superiores de la administración pública, no excusa la de los subalternos que obedezcan órdenes de aquéllos dirigidas a suspender o retardar las elecciones populares, la instalación del Congreso o el libre ejercicio de las funciones de éste.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+(REFORMADO, D.O. 24 DE DICIEMBRE DE 1979) (F. DE E., D.O. 4 DE ENERO DE 1980)
 
 ###### Artículo 107.
 
-Todos los contratos que el Gobierno o los municipios tengan que de celebrar, para la ejecución de obras públicas, serán adjudicados en subasta, mediante convocatoria, y para que se presenten proposiciones en sobre cerrado, que será abierto en junta pública.
+Los contratos que el Gobierno o los Municipios hayan de celebrar, con motivo de la ejecución de obras públicas, serán dados a conocer, mediante convocatoria, para que se presenten proposiciones en sobre cerrado, que será abierto en junta pública, en la cual los contratos se adjudicarán en subasta.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1540,6 +1556,10 @@ UNICO.- El presente Decreto entrará en vigor el dia siguiente del de su publica
 D.O. 15 DE SEPTIEMBRE DE 1978.
 
 UNICO.- Este Decreto comenzará a regir el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 24 DE DICIEMBRE DE 1979.
+
+UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
 
 ###### ARTICULO PRIMERO.
 
