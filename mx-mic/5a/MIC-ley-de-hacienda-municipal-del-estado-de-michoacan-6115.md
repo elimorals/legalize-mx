@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-municipal-del-estado-de-michoacan-6115"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1991-12-30"
+last_updated: "1992-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6115&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1992.
 
 Ley publicada en Sección Segunda del Periódico Oficial del Estado de Michoacán, el sábado 31 de diciembre de 1983.
 
@@ -97,7 +97,9 @@ Son sujetos del Impuesto Predial:
 
 I. Los propietarios, copropietarios, condóminos y poseedores de predios;
 
-II.- Los fideicomitentes y los fideicomisarios, según el caso;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+II.- Los poseedores de predios;
 
 III.- Los titulares de los derechos de propiedad o de posesión de los predios fideicomitidos;
 
@@ -129,37 +131,39 @@ VI.- Los funcionarios y empleados públicos que autoricen algún acto jurídico 
 
 #### Sección Tercera. De la Base
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 6o.
 
-La base del Impuesto Predial será la siguiente:
+La base del Impuesto predial tanto de predios urbanos como rústicos será el valor catastral registrado.
 
-> <small>(REFORMADA, P.O 20 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O 31 DE DICIEMBRE DE 1992)</small>
 
-I. Tratándose de predios urbanos y rústicos, el mayor de los siguientes:
+I. La base de este impuesto podrá modificarse por:
 
-> <small>(REFORMADA, P.O 20 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O 31 DE DICIEMBRE DE 1992)</small>
 
-a) El valor catastral registrado o el que se registre como consecuencia de avalúos que practique la Tesorería General del Estado, conforme a la Ley de Catastro del Estado de Michoacán.
+a) El valor determinado mediante avalúo catastral practicado por la Tesorería General, conforme a la Ley de Catastro del Estado de Michoacán.
 
-> <small>(REFORMADA, P.O 20 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O 31 DE DICIEMBRE DE 1992)</small>
 
-b) El valor de la operación de transmisión de dominio si es posterior al señalamiento del valor catastral o el de avalúo que en su caso determine perito autorizado. En ambos casos este valor será ratificado o rectificado por la Tesorería General del Estado, en los términos de la Ley de Catastro del Estado de Michoacán, en un plazo que no excederá de cuatro meses, contados a partir de la fecha de su registro catastral.
+b) El valor determinado para efectos del impuesto sobre Adquisición de Inmuebles en los términos del artículo 42 de esta Ley.
+
+En este caso el valor será ratificado o rectificado por la Tesorería General del Estado, mediante avalúo técnico en los términos de la Ley de Catastro, en un plazo que no excederá de cuatro meses, contados a partir de la fecha del registro catastral, y su vigencia será a partir de la misma.
+
+No obstante lo establecido en el párrafo anterior, en los casos de adquisicion por causa de muerte, de la nuda propiedad, del usufructo y de parte de los derechos de propiedad de un inmueble, no se tomarán en cuenta dichos valores, sino el de avalúo practicado por la Tesorería General del Estado.
 
 c) (DEROGADA, P.O. 20 DE DICIEMBRE DE 1990)
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-II. Tratándose de condominios, la Tesorería General del Estado, determinará la base del impuesto, mediante avalúos catastrales que practique a cada apartamento, vivienda o local, conforme a la Ley de Catastro del Estado de Michoacán. Dichos avalúos podrán practicarse a partir de la fecha en que se haya autorizado preventivamente la escritura de constitución del condominio.
+II. Cuando surjan nuevos predios con motivo de la constitución de condominios, conjuntos habitacionales, fraccionamientos o subdivisiones, la Tesorería General del Estado determinará la base de este impuesto, mediante avalúos que practique conforme a la Ley de Catastro del Estado de Michoacán, a partir de la autorización expedida por autoridad competente. Tratándose de condominios, los avalúos se practicarán a partir de la fecha en que se haya autorizado preventivamente la escritura de constitución correspondiente.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O 31 DE DICIEMBRE DE 1992)</small>
 
-Si los condominios se constituyen sin estar terminada su construcción la base de este impuesto será el valor catastral del total del terreno. A partir de la fecha de terminación de su construcción, la base de este impuesto se determinará conforme al primer párrafo de esta fracción.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
-
-Los avalúos que practique la Tesorería General del Estado, para determinar la base de este impuesto, surtirán efectos a partir del siguiente bimestre a aquel en que se notifiquen y los valores catastrales que se determinen, tendrán vigencia de un año. Asimismo tendrá vigencia de un año, la base de este impuesto que se determine conforme al artículo 7o. de esta Ley y su vigencia iniciará a partir del siguiente bimestre a aquel en que haya vencido el avalúo que le dio origen o en que haya vencido la nueva base.
+Los avalúos que practique la Tesorería General del Estado, para determinar la base de este impuesto, surtirán efectos a partir del siguiente bimestre a aquél en que se notifiquen y el valor que se determine conforme a éste tendrá vigencia hasta el 31 de diciembre del año siguiente a aquél en que se notifiquen. La base de este impuesto que se determine conforme al artículo 7º de esta Ley, tendrá vigencia de un año.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
@@ -171,13 +175,17 @@ Independientemente de lo establecido en este artículo, la base para la determin
 
 Independientemente del valor que se considere como base de este impuesto en los términos del artículo anterior, ésta se incrementará cada año, sin que ello constituya revaluación de los predios en los términos de la Ley de Catastro del Estado de Michoacán, y sin necesidad de que estos nuevos valores sean notificados a los contribuyentes, para que tengan previa validez, en la siguiente forma:
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-A lo que resulte de multiplicar dicha base, por el factor que se obtenga de dividir el Indice Nacional de Precios al Consumidor, que publique el Banco de México, del segundo mes del bimestre en que los avalúos hayan vencido, entre el Indice Nacional de Precios al Consumidor del segundo mes del bimestre en que hayan sido notificados.
+A lo que resulte de multiplicar la base vigente el año anterior, por el factor que se obtenga de dividir el Indice Nacional de Precios al Consumidor correspondiente al mes de noviembre de dicho año, entre el Indice Nacional de Precios al Consumidor del mes de noviembre del año precedente, que publique el Banco de México.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-La base que resulte conforme al párrafo anterior, se incrementará cada año en los términos del primer párrafo de este artículo, a lo que resulte de multiplicar dicha base por el factor que se obtenga de dividir el lndice Nacional de Precios al Consumidor que publique el Banco de México, del mes del vencimiento, entre el Indice Nacional de Precios al Consumidor del mismo mes del año precedente.
+El resultado de la operación anterior se ajustará a la unidad monetaria más próxima.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+Se exime de la actualización a que se refiere el presente artículo, a los predios a los que se les haya notificado avalúo técnico o hayan sido objeto de transmisión de dominio durante el ejercicio inmediato anterior.
 
 ###### ARTICULO 8o.
 
@@ -227,19 +235,21 @@ B) Los predios que perteneciendo a particulares, estén destinados a un servicio
 
 C) Los predios propiedad de asociaciones, fundaciones e instituciones de beneficencia pública o privada y asociaciones deportivas o sociales que no tengan fines lucrativos, siempre que dichos inmuebles estén destinados directamente a los fines de las mismas.
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-D) Los predios cuyo valor catastral no exceda del equivalente a 10 veces el salario mínimo general elevado al año, vigente al 31 de diciembre del año inmediato anterior, de la zona económica a que corresponda el Estado de Michoacán y pertenezcan a:
+D) Los predios que pertenezcan a:
 
-a) Veteranos de la revolución
+a) Veteranos de la Revolución o a su cónyuge;
 
-b) Personas incapacitadas físicamente para trabajar
+b) Personas incapacitadas físicamente para trabajar, y
 
-c) Jubilados y pensionados, siempre y cuando no perciban ingresos por otros conceptos.
+c) Jubilados y pensionados o a su cónyuge, siempre y cuando no perciban ingresos por otros conceptos.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
+Para los efectos de este inciso, el pago de la cuota mínima anual procederá siempre y cuando solo posean un predio.
 
-Para los efectos a que se refieren los subincisos a), b) y c) del inciso D) de este artículo, el pago de la cuota mínima anual, procederá siempre y cuando se trate de un solo precio.
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+E) Predios con restricciones de uso de suelo, por disposición oficial.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
@@ -287,11 +297,11 @@ La Tesorería Municipal determinará el monto del impuesto, de conformidad con l
 
 Este impuesto es anual y se dividirá en seis partes iguales que se pagarán bimestralmente, dentro del bimestre que corresponda.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 18.
 
-El pago del Impuesto Predial podrá efectuarse totalmente, dentro de los meses de enero y febrero de cada año, sin que ello libere del pago de las diferencias que resulten con motivo del cambio de la base, como consecuencia de avalúo catastral o de su incremento en los términos de los artículos 6o. y 7o. de esta Ley.
+El pago del impuesto podrá efectuarse totalmente dentro de los meses de enero y febrero de cada año, sin que ello libere del pago de las diferencias que resulten con motivo del cambio de la base, en los términos de los artículos 6o. de esta Ley.
 
 En el caso de la cuota mínima del impuesto que señale la Ley de Ingresos para los Municipios del Estado de Michoacán, su pago deberá efectuarse en una sola exhibición dentro de los meses de enero y febrero de cada año.
 
@@ -313,11 +323,11 @@ En consecuencia, el procedimiento administrativo de ejecución, que establece el
 
 En esta disposición, no quedan comprendidas las mutas (sic) que se impongan cuando se incurra en infracciones al presente Capítulo, pues dichas sanciones se considerarán personales para todos los efectos legales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 22.
 
-Los notarios públicos no podrán autorizar en forma definitiva escrituras en que se hagan constar contratos o resoluciones judiciales o administrativas, cuyo objeto sea la transmisión de la propiedad, la posesión o derechos reales sobre predios ubicados en el Estado, mientras no se les exhiba constancia de no adeudo de este impuesto, expedidas por la Tesorería Municipal donde se ubique el predio.
+Los notarios públicos no podrán autorizar en forma definitiva escrituras en que se hagan constar contratos o resoluciones judiciales o administrativas, cuyo objeto sea la transmisión de la propiedad, o derechos reales sobre predios ubicados en el Estado, mientras no se les exhiba constancia de no adeudo de este impuesto, expedidas por la Tesorería Municipal donde se ubique el predio.
 
 Las constancias de no adeudo que se expidan a los Notarios Públicos, tendrán vigencia hasta la fecha de pago del impuesto que en ellas se mencione.
 
@@ -367,7 +377,7 @@ Cuando en las manifestaciones o avisos exigidos, no se expresen los datos o no s
 
 Si transcurre dicho plazo y no se expresan los datos o no se presentan los documentos o planos a que se refiere el párrafo anterior, la Tesorería Municipal no tomará en cuenta las manifestaciones o avisos, sin perjuicio de imponer al infractor las sanciones que procedan.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 30.
 
@@ -443,11 +453,11 @@ REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 1986)
 
 #### Sección Primera. Del Objeto
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 38.
 
-Es objeto del impuesto sobre adquisición de inmuebles, la adquisición que se derive de:
+Es objeto del impuesto sobre adquisición de inmuebles, la adquisición de éstos que se derive de:
 
 I. Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal, siempre que sean inmuebles propiedad de los copropietarios o de los cónyuges;
 
@@ -513,9 +523,9 @@ III. Los demás funcionarios y empleados que inscriban o registren esta clase de
 
 IV. Los peritos valuadores autorizados que no apliquen correctamente en la valuación de predios los valores unitarios aprobados, atendiendo a la clasificación del terreno y construcción de que se trate, por las cantidades dejadas de recaudar.
 
-> <small>(REFORMADO SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-#### Sección Tercera. De la Base y Tasa
+#### Sección Tercera. De la Base
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
@@ -523,13 +533,21 @@ IV. Los peritos valuadores autorizados que no apliquen correctamente en la valua
 
 La base gravable del Impuesto sobre Adquisición de Inmuebles, será el valor que resulte mayor entre el de avalúo practicado por perito autorizado, el consignado en el testimonio en que se haga constar el acto transmitivo del dominio, el catastral registrado o el que se registre como consecuencia de rectificación del valor de operación o el de avalúo practicado por perito autorizado, dentro de los cuatro meses siguientes, contados a partir de la fecha del registro catastral de éstos.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-Para los efectos de este impuesto, se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos, del 50% del valor de la propiedad, determinado conforme al párrafo anterior.
+Para los efectos de este Impuesto, se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos, del 50% del valor de la propiedad, determinado conforme al párrafo anterior; asimismo, el valor de los derechos de copropiedad será equivalente al valor proporcional del inmueble de que se trate.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-El impuesto se calculará aplicando la tasa del 2% al valor del inmueble después de reducirlo en una vez el salario mínimo general elevado al año, de la zona económica a que corresponda el Estado de Michoacán. Tratándose de adquisiciones de vivienda mediante crédito de interés social, la reducción será de dos veces el referido salario.
+El impuesto se calculará aplicando la tasa del 2% al valor del inmueble después de reducirlo en el equivalente a una vez el salario mínimo general elevado al año, de la zona económica a que corresponda el Estado de Michoacán.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+Tratándose de adquisiciones de vivienda, la reducción a que se refiere el párrafo anterior será de dos veces; si la vivienda es de interés social o popular, dicha reducción será de tres veces el referido salario. También se efectuará la reducción de tres veces dicho salario tratándose de adquisición de bienes hereditarios.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+Para los efectos del párrafo anterior, se entiende por vivienda de interés social o popular aquella cuyo valor en los términos del primer párrafo de este artículo, no exceda de 20 veces el salario mínimo general elevado al año, de la zona económica a que corresponda el Estado de Michoacán.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
@@ -563,11 +581,11 @@ IV. Tratándose de condominios, la reducción se hará por cada uno de los apart
 
 V. No se considerarán departamentos habitacionales los que, por sus características originales, se destinen a servicios domésticos o de portería, aún cuando se utilicen para otros fines.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 44.
 
-Para los efectos del Impuesto sobre Adquisición de Inmuebles, el avalúo que practique perito autorizado a que se refiere el artículo 42 de esta Ley, no podrá tener una antigüedad mayor de seis meses desde la fecha de su formulación.
+Para los efectos del Impuesto sobre Adquisición de Inmuebles, el avalúo que practique perito autorizado a que se refiere el artículo 42 de esta Ley, deberá elaborarse considerando los valores unitarios vigentes a la fecha a que se refiere el artículo 46 de esta Ley, excepto cuando la adquisición del bien provenga por causa de muerte, un cuyo caso se aplicarán los valores vigentes en la fecha del fallecimiento del autor de la herencia.
 
 Dichos avalúos deberán comprender los valores tanto del terreno como de las construcciones y demás accesorios que tuviere en su caso, los que por ningún motivo serán inferiores a los que se refiere la Ley de Catastro del Estado.
 
@@ -627,11 +645,11 @@ Asimismo deberá anexarse a la declaración, el avalúo practicado por la Tesore
 
 Cuando lo estime necesario, la Tesorería Municipal podrá solicitar de los notarios públicos o de los declarantes, que le proporcionen una copia autorizada de la escritura en que se hubiera hecho constar la transmisión de dominio de que se trate.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 46.
 
-Las declaraciones a que se refiere el artículo anterior, se presentarán en las formas oficiales que aprueba la Tesorería Municipal, dentro del plazo de quince días hábiles contados a partir de:
+Las declaraciones a que se refiere el artículo anterior, se presentarán en las formas oficiales aprobadas para efectos del artículo 42 de la Ley de Catastro del Estado, dentro del plazo de 15 días hábiles contador a partir de:
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -657,11 +675,11 @@ En los contratos celebrados fuera del Estado, pero en la República, en relació
 
 #### Sección Quinta. De las Exenciones
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 49.
 
-Están exentos del pago del Impuesto sobre Adquisición de Inmuebles, las adquisiciones de bienes inmuebles que realice la Federación, el Estado y los Municipios para formar parte del dominio público; los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso, y los que adquieran los estados extranjeros en caso de reciprocidad.
+Están exentos del pago del Impuesto sobre Adquisición de Inmuebles, las adquisiciones de bienes inmuebles que realicen la Federación, el Estado y los Municipios para formar parte del dominio público; los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso, los que adquieran los estados extranjeros en caso de reciprocidad, los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero, así como las adquisiciones que realicen las asociaciones religiosas constituidas en los términos de la Ley de la materio, (sic) siempre que en este último caso, la adquisición se realice dentro de los seis meses siguientes de su constitución.
 
 #### Sección Sexta. Disposiciones Generales
 
@@ -1165,7 +1183,7 @@ Es objeto de este derecho el otorgamiento, por parte del Ayuntamiento, de licenc
 
 ###### ARTICULO 125.
 
-Son sujetos de este derecho las personas físicas o morales que obtengan licencias o autorización para fijar o distribuir propaganda, promover ventas de mercancías y colocar anuncios de todo tipo en cualquier lugar del Municipio, siendo solidariamente responsable del pago de los propietarios o poseedores de predios que ostenten dichos anuncios.
+Son sujetos de este derecho las personas físicas o morales que obtengan licencias o autorización para fijar o distribuir propaganda, promover ventas de mercancías y colocar anuncios de todo tipo en cualquier lugar del Municipio, siendo solidariamente responsable del pago, los propietarios o poseedores de predios que ostenten dichos anuncios.
 
 #### Sección Tercera. Del Pago del Derecho
 
@@ -1733,9 +1751,13 @@ Para los efectos a que se refiere el penúltimo párrafo del artículo 6o. de es
 
 Para los efectos de lo dispuesto en el Artículo 7o. de esta Ley, para los predios cuyos avalúos hayan sido notificados hasta diciembre de 1990, la base de este impuesto se incrementará a lo que resulte de multiplicar ésta, por lo que se obtenga de dividir el Indice Nacional de Precios al Consumidor del segundo mes del bimestre en que los avalúos hayan vencido, entre el Indice Nacional de Precios al Consumidor del mismo mes del año anterior. A partir del incremento a las bases, a que se refiere este Artículo, la vigencia de ésta será la que señala el Artículo 6o. de dicha Ley.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO CUARTO.
 
-Durante los años de 1991, 1992 y 1993, se aplicarán las tasas del 8%, 6% y 4% respectivamente, en lugar de la tasa establecida en el Artículo 42 de esta Ley. Durante los años referidos, la reducción del salario mínimo será de 4 veces, 3 veces y dos veces respectivamente, en lugar de la reducción establecida en dicho artículo 42. Tratándose de adquisición de vivienda mediante crédito de interés social, la reducción durante dichos años será de 8 veces, 6 veces y 4 veces respectivamente, en lugar de la establecida en dicho artículo.
+Para los efectos del Artículo 42 de la Ley de Hacienda Municipal, durante el año de 1993, se aplicará la tasa del 4% en lugar de la establecida en dicho artículo.
+
+Durante ese año las reducciones de salario mínimo general a que se refiere dicho artículo, será de 2 veces; cuando se trate de vivienda, de 3 veces; y, si la vivienda es de interés social o popular, dicha reducción será del equivalente a 5 veces el referido salario.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -1746,3 +1768,19 @@ Durante los años de 1992 y 1993, además de los requisitos previstos en el Art�
 P.O. 30 DE DICIEMBRE DE 1991.
 
 UNICO. El Presente decreto entrará en vigor el día primero de enero de 1992, previa publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1992.
+
+DECRETO NUM 16.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1992.
+
+DECRETO NUM 18.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
