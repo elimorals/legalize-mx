@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "1987-12-31"
+last_updated: "1988-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 1987.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE ENERO DE 1988. REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 2 DE MARZO DE 1987.
 
@@ -398,9 +398,21 @@ Cuando las leyes establezcan que las contribuciones se pagan mediante declaraci�
 
 Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales, deberán pagarse recargos en concepto de indemnización al fisco federal por la falta de pago oportuno. Dichos recargos se calcularán conforme a una tasa que será 50% mayor de la tasa que mediante ley fije anualmente el Congreso de la Unión, tomando en consideración el Costo Porcentual Promedio de Captación de Recursos del Sistema Bancario, proporcionado por el Banco de México.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
-Los recargos se causarán hasta por cinco años y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización a que se refiere el cuarto párrafo de este artículo, los gastos de ejecución y las multas por infracción a disposiciones fiscales. Cuando el pago hubiera sido menor al que corresponda, los recargos se computarán sobre la diferencia. Los recargos se causarán por cada mes o fracción que transcurra a partir del día en que debió hacerse el pago y hasta que el mismo se efectué.
+Los recargos se causarán hasta por cinco años y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización a que se refiere el párrafo séptimo de este artículo, los gastos de ejecución y las multas por infracción a disposiciones fiscales.
+
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
+En los casos de garantía de obligaciones fiscales a cargo de terceros, los recargos se causarán sobre el monto de lo requerido y hasta el límite de lo garantizado, cuando no se pague dentro del plazo legal.
+
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
+Cuando el pago hubiera sido menor al que corresponda, los recargos se computarán sobre la diferencia.
+
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
+Los recargos se causarán por cada mes o fracción que transcurra a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -928,7 +940,9 @@ Cuando el contador público no dé cumplimiento a las disposiciones referidas en
 
 En el caso de que con motivo de sus facultades de comprobación, las autoridades fiscales soliciten éstos informes o documentos del contribuyente, responsable solidario o tercero, se estará a lo siguiente:
 
-I. Se tendrán los siguientes plazos para su presentación:
+(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
+(SIC) Se tendrán los siguientes plazos para su presentación:
 
 a). Los libros y registros que formen parte de su contabilidad, solicitados en el curso de una visita, deberán presentarse de inmediato, así como los diagramas y el diseño del sistema de registro electrónico, en su caso.
 
@@ -938,7 +952,7 @@ c). Quince días contados a partir del siguiente a aquél en que se le notificó
 
 Los plazos a que se refiere este inciso se podrán ampliar por las autoridades fiscales por diez días más, cuando se trate de informes cuyo contenido sea difícil de proporcionar o de difícil obtención.
 
-II. Se tendrán por consentidos los hechos consignados en forma circunstanciada en las actas parciales levantadas en el curso de una visita domiciliaria, cuando respecto de los mismos se haya solicitado libros y registros que formen parte de su contabilidad, así como documentos que deba tener en su poder, en los términos de este artículo, si antes del cierre del acta final no los presenta o señala el lugar donde se encuentran, o si no se inconforma contra dichos hechos, siempre que entre la fecha del cierre del acta parcial respectiva y la del cierre del acta final hayan transcurrido cuando menos diez días.
+II. (DEROGADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -1452,6 +1466,54 @@ III. No pagar las contribuciones dentro del plazo que establecen las disposicion
 
 IV. No efectuar en los términos de las disposiciones fiscales los pagos provisionales de una contribución.
 
+presentar declaraciones, solicitudes o avisos, así como de expedir constancias a que se refiere el artículo 81, se impondrán las siguientes multas:
+
+I. Para la señalada en la fracción I:
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1986)</small>
+
+a). Tratándose de declaraciones, la mayor que resulte entre $5,500.00 o el 10% de las contribuciones declaradas en su caso. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, sobre las mismas se le aplicará también la multa a que se refiere este inciso.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+b). Por presentar una declaración, solicitud, aviso o constancia, fuera de los plazos señalados en los requerimientos:
+
+1. El doble de la que correspondió por la omisión de la declaración, solicitud, aviso o constancia por la que se hizo el requerimiento, cuando el documento requerido se presente dentro de los seis días siguientes a aquél en que venció el plazo señalado en el propio requerimiento.
+
+2. El doble de la señalada en el subinciso anterior, cuando la presentación se haga entre el séptimo y el duodécimo día siguiente a aquél en que venció el plazo señalado en dicho requerimiento.
+
+3. El doble de la señalada en el subinciso anterior, cuando la presentación se haga después del duodécimo día siguiente al de vencimiento del plazo señalado en dicho requerimiento.
+
+En caso de incumplimiento al requerimiento formulado por la omisión, se aplicará la multa señalada en el subinciso 3 que antecede.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
+
+c). De $13,000.00 en los demás documentos.
+
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
+
+II. Respecto de la señalada en la fracción II:
+
+a). De $6,700.00 por no poner el nombre o ponerlo equivocadamente.
+
+b). De $3,400.00 por no poner el domicilio o ponerlo equivocadamente.
+
+c). De $700.00 por cada dato no asentado o asentado incorrectamente. Siempre que se omita la presentación de anexos, se calculará la multa en los términos de este inciso por cada dato que contenga el anexo no presentado.
+
+d). De $6,700.00 en los demás casos.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+III. Tratándose de la señalada en la fracción III, la que resulte mayor entre $13,000.00 o el 2% de las contribuciones no pagadas, por cada requerimiento.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+
+IV. Para la señalada en la fracción IV, el 20% del pago provisional no efectuado.
+
 ###### Artículo 82.
 
 A quien cometa las infracciones relacionadas con la obligación de presentar declaraciones, solicitudes o avisos, así como de expedir constancias a que se refiere el artículo 81, se impondrán las siguientes multas:
@@ -1912,7 +1974,7 @@ I. El de revocación.
 
 II. El de oposición al procedimiento administrativo de ejecución.
 
-III. El de nulidad de notificaciones.
+III. (DEROGADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -1925,6 +1987,10 @@ I. Determinen contribuciones o accesorios.
 II. Nieguen la devolución de cantidades que procedan conforme a la Ley.
 
 III. Siendo diversas de las anteriores, dicten las autoridades aduaneras.
+
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
+No procederá el recurso de revocación contra las resoluciones que decidan el procedimiento administrativo de investigación y audiencia.
 
 ###### Artículo 118.
 
@@ -1944,11 +2010,13 @@ IV. Determinen el valor de los bienes embargados a que se refiere el artículo 1
 
 ###### Artículo 119.
 
-El recurso de nulidad de notificaciones procederá en contra de las que se hagan en contravención de las disposiciones legales.
+(DEROGADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
+(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 120.
 
-La interposición del recurso de revocación será optativa para el interesado antes de acudir al Tribunal Fiscal de la Federación; los demás recursos administrativos deberán agotarse previamente a la promoción de juicio ante dicho Tribunal.
+La interposición del recurso de revocación será optativa para el interesado antes de acudir al Tribunal Fiscal de la Federación. El de oposición al procedimiento administrativo de ejecución deberá agotarse previamente a la promoción del juicio ante dicho Tribunal.
 
 Cuando un recurso se interponga ante autoridad fiscal incompetente, ésta lo turnará a la que sea competente.
 
@@ -2024,6 +2092,14 @@ IV. Que se hayan consentido, entendiéndose por consentimiento el de aquellos co
 
 V. Que sean conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa diferente.
 
+(ADICIONADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
+VI. En caso de que no se amplíe el recurso administrativo o si en la ampliación no se expresa agravio alguno, tratándose de lo previsto por la fracción II del artículo 129 de este Código.
+
+(ADICIONADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
+VII. Si son revocados los actos por la autoridad.
+
 ###### Artículo 125.
 
 El interesado podrá optar por impugnar un acto a través del recurso de revocación o promover directamente contra dicho acto, juicio ante el Tribunal Fiscal de la Federación. Deberá intentar la misma vía elegida si pretende impugnar un acto administrativo que sea antecedente o consecuente de otro, a excepción de resoluciones dictadas en cumplimiento de las emitidas en recursos administrativos.
@@ -2034,9 +2110,17 @@ Si la resolución dictada en el recurso de revocación se combate ante el Tribun
 
 El recurso de oposición al procedimiento administrativo de ejecución se hará valer ante la oficina ejecutora y no podrá discutirse en el mismo la validez del acto administrativo en que se haya determinado el crédito fiscal.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, REMITIRSE AL ARTICULO UNICO TRANSITORIO DEL DECRETO QUE SE INDICA.</small>
+
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
+No procederá este recurso contra actos que tengan por objeto hacer efectivas fianzas otorgadas en garantía de obligaciones fiscales a cargo de terceros.
+
+(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
 ###### Artículo 127.
 
-Cuando el recurso de oposición al procedimiento administrativo de ejecución se interponga porque éste no se ajustó a la ley, las violaciones cometidas antes de la etapa del remate sólo podrán hacerse valer hasta el momento de la convocatoria en primera almoneda, salvo que se trate de actos de ejecución sobre bienes legalmente inembargables o de actos de imposible reparación material, en cuyo caso el recurso podrá interponerse contra el acta en que conste la diligencia de embargo.
+Cuando el recurso de oposición al procedimiento administrativo de ejecución se interponga porque éste no se ajustó a la ley, las violaciones cometidas antes del remate sólo podrán hacerse valer hasta el momento de la convocatoria en primera almoneda, salvo que se trate de actos de ejecución sobre bienes legalmente inembargables, de actos de imposible reparación material o de lo previsto por el artículo 129, casos en que el plazo para interponer el recurso se computará a partir del día siguiente al en que surta efectos la notificación del requerimiento de pago o del día siguiente al de la diligencia de embargo.
 
 Si las violaciones tuvieren lugar con posterioridad a la mencionada convocatoria o se tratare de venta de bienes fuera de subasta, el recurso se hará valer contra la resolución que finque el remate o la que autorice la venta fuera de subasta.
 
@@ -2046,19 +2130,31 @@ Si las violaciones tuvieren lugar con posterioridad a la mencionada convocatoria
 
 El tercero que afirme ser propietario de los bienes o negociaciones, o titular de los derechos embargados, podrá hacer valer el recurso de oposición al procedimiento administrativo de ejecución en cualquier tiempo antes de que se finque el remate, se enajenen fuera de remate o se adjudiquen los bienes a favor del fisco federal. El tercero que afirme tener derecho a que los créditos a su favor se cubran preferentemente a los fiscales federales, lo hará valer en cualquier tiempo antes de que se haya aplicado el importe del remate a cubrir el crédito fiscal.
 
+(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
 #### Sección Segunda. Del recurso de revocación
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 129.
 
-La interposición del recurso de nulidad de notificaciones suspenderá los plazos para el ejercicio tanto de las facultades de las autoridades fiscales, como de los derechos de los particulares, hasta en tanto se resuelva el recurso.
+Cuando se alegue que un acto administrativo no fue notificado o que lo fue ilegalmente siempre que se trate de los recurribles conforme a los artículos 117 y 118 se estará a las reglas siguientes:
 
-La declaratoria de nulidad de la notificación, traerá como consecuencia la nulidad de las actuaciones hechas con base en la notificación anulada y que tengan relación con ella.
+I. Si el particular afirma conocer el acto administrativo, la impugnación contra la notificación se hará valer mediante la interposición del recurso administrativo que proceda contra dicho acto, en el que manifestará la fecha en que lo conoció.
 
-En tanto se resuelve este recurso, quedará en suspenso el término legal para impugnar la resolución de fondo.
+En caso de que también impugne el acto administrativo, los agravios se expresarán en el citado recurso, conjuntamente con los que se formulen contra la notificación.
 
-Cuando ya se haya iniciado juicio contencioso, será improcedente este recurso y se hará valer mediante ampliación de la demanda respectiva.
+II. Si el particular niega conocer el acto, manifestará tal desconocimiento interponiendo el recurso administrativo ante la autoridad fiscal competente para notificar dicho acto. La citada autoridad le dará a conocer el acto junto con la notificación que del mismo se hubiere practicado, para lo cual el particular señalará en el escrito del propio recurso, el domicilio en que se le debe dar a conocer y el nombre de la persona facultada al efecto. Si no hace alguno de los señalamientos mencionados, la autoridad citada dará a conocer el acto y la notificación por estrados.
+
+El particular tendrá un plazo de cuarenta y cinco días a partir del siguiente al en que la autoridad se los haya dado a conocer, para ampliar el recurso administrativo, impugnando el acto y su notificación o sólo la notificación.
+
+III. La autoridad competente para resolver el recurso administrativo estudiará los agravios expresados contra la notificación, previamente al examen de la impugnación que, en su caso, se haya hecho del acto administrativo.
+
+IV. Si se resuelve que no hubo notificación o que fue ilegal, tendrá al recurrente como sabedor del acto administrativo desde la fecha en que manifestó conocerlo o en que se le dio a conocer en los términos de la fracción II, quedando sin efectos todo lo actuado en base a aquélla, y procederá al estudio de la impugnación que, en su caso, hubiese formulado en contra de dicho acto.
+
+Si resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación contra el acto se interpuso extemporáneamente, desechará dicho recurso.
+
+En el caso de actos regulados por otras leyes federales, la impugnación de la notificación efectuada por autoridades fiscales se hará mediante el recurso administrativo que, en su caso, establezcan dichas leyes y de acuerdo con lo previsto por este artículo.
 
 #### Sección Tercera. Del recurso de oposición al procedimiento administrativo de ejecución
 
@@ -2098,7 +2194,9 @@ La resolución expresará con claridad los actos que se modifiquen y si la modif
 
 La resolución que ponga fin al recurso podrá:
 
-I. Desecharlo por improcedente.
+(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
+I. Desecharlo por improcedente o sobreseerlo, en su caso.
 
 II. Confirmar el acto impugnado.
 
@@ -2114,13 +2212,13 @@ V. Modificar el acto impugnado o dictar uno nuevo que lo sustituya, cuando el re
 
 Si la resolución ordena realizar un determinado acto o iniciar la reposición del procedimiento, deberá cumplirse en un plazo de cuatro meses aún cuando haya transcurrido el plazo que señala el artículo 67 de este Código.
 
-#### Sección Cuarta. Del recurso de nulidad de notificaciones
+#### Sección Cuarta. De la Impugnación de las Notificaciones
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ### CAPITULO I. Disposiciones Generales
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 134.
 
@@ -2162,9 +2260,11 @@ Tratándose de actos relativos al procedimiento administrativo de ejecución, el
 
 Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán a cargo de quien incurrió en el incumplimiento los honorarios que establezca el reglamento de este Código.
 
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
 ###### Artículo 138.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1982)
+Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa de diez veces el salario mínimo general diario del área geográfica correspondiente al Distrito Federal.
 
 ###### Artículo 139.
 
@@ -2228,6 +2328,20 @@ Las garantías constituidas para asegurar el interés fiscal a que se refieren l
 
 Si la garantía consiste en depósito de dinero en institución nacional de crédito autorizada, una vez que el crédito fiscal quede firme se ordenará su aplicación por la Secretaría de Hacienda y Crédito Público.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO Y LOS INCISOS SIGUIENTES, REMITIRSE AL ARTICULO UNICO TRANSITORIO DEL DECRETO EN CITA.</small>
+
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
+Tratándose de fianza a favor de la Federación, otorgada para garantizar obligaciones fiscales a cargo de terceros, al hacerse exigible, se aplicará el procedimiento administrativo de ejecución con las siguientes modalidades:
+
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
+a). La autoridad ejecutora requerirá de pago a la afianzadora, acompañando copia de los documentos que justifiquen el crédito garantizado y su exigibilidad. Para ello la afianzadora designará, en cada una de las regiones competencia de las Salas Regionales del Tribunal Fiscal de la Federación, un apoderado para recibir requerimientos de pago y el domicilio para dicho efecto, debiendo informar de los cambios que se produzcan dentro de los quince días siguientes al en que ocurran. La citada información se proporcionará a la Secretaría de Hacienda y Crédito Público, misma que se publicará en el Diario Oficial de la Federación para conocimiento de las autoridades ejecutoras. Se notificará el requerimiento por estrados en la (sic) regiones donde no se haga alguno de los señalamientos mencionados.
+
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
+b). Si no se paga dentro del mes siguiente a la fecha en que surta efectos la notificación del requerimiento, la propia ejecutora ordenará a la autoridad competente de la Secretaría de Hacienda y Crédito Público que remate, en bolsa, valores propiedad de la afianzadora bastantes para cubrir el importe de lo requerido y hasta el límite de lo garantizado, y le envíe de inmediato su producto.
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
 ###### Artículo 144.
@@ -2256,7 +2370,7 @@ En caso de negativa o violación a la suspensión del procedimiento administrati
 
 ### CAPITULO II. De la Improcedencia y del Sobreseimiento
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 #### Sección Quinta. Del trámite y resolución de los recursos
 
@@ -2790,7 +2904,7 @@ En caso de conflicto, el remanente se depositará en institución de crédito au
 
 ###### Artículo 197.
 
-Los juicios que se promueven ante el Tribunal Fiscal de la Federación de acuerdo con la competencia que le señala su Ley Orgánica, se sustanciarán y resolverán con arreglo al procedimiento que determine este Código, pudiendo aplicarse el Código Federal de Procedimientos Civiles a falta de disposición expresa y siempre que la disposición que se pretenda aplicar supletoriamente se avenga al procedimiento contencioso que establece este Código.
+Los juicios que se promuevan ante el Tribunal Fiscal de la Federación se regirán por las disposiciones de este Título. A falta de disposición expresa se aplicará supletoriamente el Código Federal de Procedimientos Civiles, siempre que se refiera a instituciones previstas en este Código y que la disposición supletoria se avenga al procedimiento contencioso que el mismo establece.
 
 ###### Artículo 198.
 
@@ -2806,13 +2920,15 @@ a). La autoridad que dictó la resolución impugnada.
 
 b). El particular a quien favorezca la resolución cuya modificación o nulidad pida la autoridad administrativa.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
-III. El titular de la Secretaría de Estado u organismo descentralizado del que dependa la autoridad mencionada en la fracción anterior. En todo caso, la Secretaría de Hacienda y Crédito Público será parte en los juicios en que se controvierta el interés fiscal de la Federación.
+III. El titular de la dependencia o entidad de la Administración Pública Federal, Procuraduría General de la República o Procuraduría General de Justicia del Distrito Federal, de la que dependa la autoridad mencionada en la fracción anterior. En todo caso, la Secretaría de Hacienda y Crédito Público será parte en los juicios en que se controviertan actos de autoridades federativas coordinadas, emitidos con fundamento en convenios o acuerdos en materia de coordinación en ingresos federales.
+
+Dentro del mismo plazo que corresponda a la autoridad demandada, la Secretaría de Hacienda y Crédito Público podrá apersonarse como parte en los otros juicios en que se controvierta el interés fiscal de la Federación.
 
 IV. El tercero que tenga un derecho incompatible con la pretensión del demandante.
 
-Podrá apersonarse en el juicio como coadyuvante de las autoridades administrativas, quien tenga interés directo en la modificación o anulación de un acto favorable a un particular o en la confirmación de uno que le es desfavorable.
+(DEROGADO ULTIMO PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 199.
 
@@ -2824,7 +2940,9 @@ Ante el Tribunal Fiscal de la Federación no procederá la gestión de negocios.
 
 La representación de los particulares se otorgará en escritura pública o carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante notario o ante los secretarios del Tribunal Fiscal de la Federación, sin perjuicio de lo que disponga la legislación de profesiones.
 
-La representación de la autoridades (sic) corresponderá a la unidad administrativa encargada de su defensa jurídica.
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
+La representación de las autoridades corresponderá a la unidad administrativa encargada de su defensa jurídica, según lo disponga el Ejecutivo Federal en el reglamento o decreto respectivo; o conforme lo establezcan las disposiciones locales, tratándose de las autoridades de las entidades federativas coordinadas.
 
 > <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
 
@@ -2836,7 +2954,7 @@ En los juicios que se tramiten ante el Tribunal Fiscal de la Federación no habr
 
 ###### Artículo 202.
 
-Es improcedente el juicio ante el Tribunal Fiscal de la Federación en los casos y contra los actos siguientes:
+Es improcedente el juicio ante el Tribunal Fiscal de la Federación en los casos, por las causales y contra los actos siguientes:
 
 I. Que no afecten los intereses jurídicos del demandante.
 
@@ -2868,13 +2986,19 @@ XI. Cuando de las constancias de autos apareciere claramente que no existe el ac
 
 XII. En los demás casos en que la improcedencia resulte de alguna disposición de este Código o de las leyes fiscales especiales.
 
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
+La procedencia del juicio será examinada aun de oficio.
+
+(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
 ### CAPITULO IV. De la Demanda
 
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 203.
 
-Procede el sobreseimiento del juicio:
+Procede el sobreseimiento:
 
 I. Por desistimiento del demandante.
 
@@ -2900,7 +3024,9 @@ Los magistrados del Tribunal Fiscal de la Federación estarán impedidos para co
 
 I. Tienen interés personal en el negocio.
 
-II. Son parientes consanguíneos, afines o civiles de alguna de las partes o de sus patronos o representantes, en línea recta sin limitación de grado, dentro del cuarto grado en la colateral por consanguinidad y en el segundo de la colateral por afinidad.
+(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
+II. Sean parientes consanguíneos, afines o civiles de alguna de las partes o de sus patronos o representantes, en línea recta sin limitación de grado y en línea transversal dentro del cuarto grado por consanguinidad y segundo por afinidad.
 
 III. Han sido patronos o apoderados en el mismo negocio.
 
@@ -2914,19 +3040,27 @@ VI. Figuran como parte en un juicio similar, pendiente de resolución.
 
 VII. Están en una situación que pueda afectar su imparcialidad en forma análoga o más grave que las mencionadas.
 
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
+Los peritos del Tribunal estarán impedidos para dictaminar en los casos a que se refiere este artículo.
+
 ###### Artículo 205.
 
 Los magistrados tienen el deber de excusarse del conocimiento de los negocios en que ocurra alguno de los impedimentos señalados en el artículo anterior, expresando concretamente en qué consiste el impedimento.
 
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
 ###### Artículo 206.
 
-Manifestada por un magistrado la causa de impedimento, la Sala Superior calificará la excusa y cuando proceda designará quién deba sustituir al magistrado impedido.
+Manifestada por un magistrado la causa de impedimento, el Presidente de la Sala Regional turnará el asunto a la Superior, que calificará la excusa y, de ser fundada, designará a quien deba sustituir al magistrado impedido.
 
 ### CAPITULO VI. De los Incidentes
 
+(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
 ###### Artículo 207.
 
-La demanda deberá ser por escrito y presentarse directamente ante la sala regional en cuya circunscripción radique la autoridad que emitió la resolución, dentro de los cuarenta y cinco días siguientes a aquél en que haya surtido efectos la notificación del acto impugnado o en que el afectado haya tenido conocimiento de él o de su ejecución, o se haya ostentado sabedor del mismo cuando no exista notificación legalmente hecha.
+La demanda se presentará por escrito directamente ante la Sala Regional en cuya circunscripción radique la autoridad que emitió la resolución impugnada, dentro de los cuarenta y cinco días siguientes a aquél en que haya surtido efectos la notificación de ésta.
 
 > <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
 
@@ -2960,9 +3094,9 @@ VI. La expresión de los agravios que le cause el acto impugnado.
 
 VII. El nombre y domicilio del tercero interesado, cuando lo haya.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
-Cuando se omitan los datos previstos en las fracciones I, II, III y VII el magistrado instructor requerirá mediante notificación personal al demandante para que los proporcione en el plazo de cinco días, apercibiéndolo que de no hacerlo en tiempo se tendrá por no presentada la demanda.
+Cuando se omitan los datos previstos en las fracciones II, III y VII, el magistrado instructor requerirá mediante notificación personal al demandante para que los proporcione en el plazo de cinco días, apercibiéndolo que de no hacerlo en tiempo se tendrá por no presentada la demanda. Si se omiten los datos de la fracción I, el requerimiento se hará mediante notificación por lista.
 
 ###### Artículo 209.
 
@@ -2998,15 +3132,39 @@ Cuando no se adjunten a la demanda los documentos a que se refiere este precepto
 
 > <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
+Artículo 209 BIS.- Cuando se alegue que el acto administrativo no fue notificado o que lo fue ilegalmente, siempre que se trate de los impugnables en el juicio contencioso administrativo, se estará a las reglas siguientes:
+
+I. Si el demandante afirma conocer el acto administrativo, la impugnación contra la notificación se hará valer en la demanda, en la que manifestará la fecha en que lo conoció.
+
+En caso de que tembién (sic) impugne el acto administrativo, los conceptos de nulidad se expresarán en la demanda, conjuntamente con los que se formulen contra la notificación.
+
+II. Si el actor manifiesta que no conoce el acto administrativo que pretende impugnar, así lo expresará en su demanda, señalando la autoridad a quien atribuye el acto, su notificación o su ejecución. En este caso, al contestar la demanda, la autoridad acompañará constancia del acto administrativo y de su notificación, mismos que el actor podrá combatir mediante ampliación de la demanda.
+
+III. El Tribunal estudiará los conceptos de nulidad expresados contra la notificación, previamente al examen de la impugnación del acto administrativo.
+
+Si resuelve que no hubo notificación o que fue ilegal, considerará que el actor fue sabedor del acto administrativo desde la fecha en que se le dio a conocer en los términos de la fracción II, quedando sin efectos todo lo actuado en base a aquélla, y procederá al estudio de la impugnación que, en su caso, se hubiese formulado contra dicho acto.
+
+Si resuelve que la notificación fue legalmente practicada, y como consecuencia de ello la demanda fue presentada extemporáneamente, sobreseerá el juicio en relación con el acto administrativo combatido.
+
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 210.
 
-Cuando se demande la nulidad de una negativa ficta o el actor no haya conocido los fundamentos o motivos de la resolución impugnada sino hasta que la demanda fue contestada, así como en el caso previsto en el último párrafo del artículo 129 se podrá ampliar la demanda dentro de los cuarenta y cinco días siguientes al en que surta efectos el acuerdo recaído a la contestación de la misma.
+Se podrá ampliar la demanda, dentro de los cuarenta y cinco días siguientes al en que surta efectos la notificación del acuerdo que admita la contestación de la misma, en los casos siguientes:
+
+I. Cuando se impugne una negativa ficta;
+
+II. Contra el acto principal del que derive el impugnado en la demanda, así como su notificación, cuando se den a conocer en la contestación;
+
+III. En los casos previstos por el artículo 209 BIS.
+
+(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 211.
 
-El tercero o el coadyuvante dentro de los cuarenta y cinco días siguientes a aquél en que secorra (sic) traslado de la demanda, podrá apersonarse en juicio, mediante escrito que contendrá los requisitos de contestación o de la demanda, según sea el caso, así como la justificación de su derecho para intervenir en el asunto.
+El tercero, dentro de los cuarenta y cinco días siguientes a aquél en que se corra traslado de la demanda, podrá apersonarse en juicio, mediante escrito que contendrá los requisitos de la demanda o de la contestación, según sea el caso, así como la justificación de su derecho para intervenir en el asunto.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -3040,7 +3198,7 @@ V. Las pruebas que ofrezca.
 
 En caso de que se ofrezca prueba pericial o testimonial, se precisarán los hechos sobre los que deban versar y se señalarán los nombres y domicilios del perito o de los testigos. Sin estos señalamientos se tendrán por no ofrecidas dichas pruebas.
 
-VI. Nombre y domicilio del coadyuvante cuando lo haya.
+VI. (DEROGADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -3050,7 +3208,9 @@ Para los efectos de este artículo, será aplicable lo dispuesto en el último p
 
 El demandado deberá adjuntar a su contestación:
 
-I. Copias de la misma y de los documentos que acompañe para el demandante, para el tercero señalado en la demanda y para la coadyuvante, en su caso.
+(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
+I. Copias de la misma y de los documentos que acompañe para el demandante y para el tercero señalado en la demanda.
 
 II. El documento en que acredite su personalidad cuando el demandado sea un particular y no gestione en nombre propio.
 
@@ -3084,11 +3244,11 @@ Cuando haya contradicciones entre los fundamentos de hecho y de derecho dados en
 
 ### CAPITULO VIII. Del Cierre de la Instrucción
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 217.
 
-En el procedimiento contencioso administrativo sólo serán de previo y especial pronunciamiento:
+En el juicio contencioso administrativo sólo serán de previo y especial pronunciamiento:
 
 I. La incompetencia en razón del territorio.
 
@@ -3098,7 +3258,13 @@ III. El de nulidad de notificaciones.
 
 IV. El de interrupción por causa de muerte o disolución.
 
-Mientras estén pendientes de resolución los demás incidentes a que se refiere este Capítulo, el juicio continuará hasta que se cierre la instrucción. Si el incidente hecho valer es notoriamente frívolo e improcedente se impondrá a quien lo promueva una multa hasta el equivalente del salario mínimo general de la zona económica correspondiente al Distrito Federal, elevado a un trimestre.
+(ADICIONADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
+V. La recusación por causa de impedimento.
+
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
+Cuando la promoción del incidente sea frívola e improcedente se impondrá a quien lo promueva una multa hasta de cincuenta veces el salario mínimo general diario vigente en el área geográfica correspondiente al Distrito Federal.
 
 ###### Artículo 218.
 
@@ -3126,7 +3292,7 @@ III. Independientemente de que las partes y los agravios sean o no diversos, se 
 
 ###### Artículo 220.
 
-Las partes podrán hacer valer el incidente a que se refiere el artículo anterior, hasta antes de que se cierre la instrucción.
+(DEROGADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 221.
 
@@ -3150,61 +3316,75 @@ Las promociones de nulidad notoriamente infundadas se desecharán de plano.
 
 Si se admite la promoción, se dará vista a las demás partes por el término de cinco días para que expongan lo que a su derecho convenga; transcurrido dicho plazo, el magistrado instructor dictará resolución.
 
-Si se declara la nulidad la sala ordenará reponer el procedimiento desde la fecha de la notificación anulada. Asimismo, se impondrá una multa al actuario, equivalente hasta dos veces el salario mínimo general de la zona económica correspondiente al Distrito Federal, elevado al mes, sin que exceda del 30% de su sueldo mensual, el actuario podrá ser destituido de su cargo, sin responsabilidad para el Estado en caso de reincidencia.
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
+Si se declara la nulidad, la Sala ordenará reponer la notificación anulada y las actuaciones posteriores. Asimismo, se impondrá una multa al actuario, equivalente a diez veces el salario mínimo general diario del área geográfica correspondiente al Distrito Federal, sin que exceda del 30% de su sueldo mensual. El actuario podrá ser destituido de su cargo, sin responsabilidad para el Estado en caso de reincidencia.
+
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 224.
 
-La interrupción por causa de muerte o disolución se tramitará ante el magistrado instructor y procederá cuando antes de que en el juicio se cierre la instrucción, ocurra cualquiera de los siguientes supuestos:
-
-I. Muera una persona que sea parte en el juicio.
-
-II. Se presente cualquiera de las causales legales de disolución de una persona moral, siempre que sea particular y parte demandada.
-
-El incidente se tramitará aún de oficio.
-
-El procedimiento se reanudará cuando se apersone a juicio el causahabiente de la parte desaparecida o su representante, o si habiendo transcurrido un año a partir de la fecha en que se decretó la suspensión no se apersonan a juicio, caso en el cual las modificaciones se harán por lista.
+La interrupción por causa de muerte o disolución procederá y se tramitará, conforme a lo previsto en el Código Federal de Procedimientos Civiles.
 
 ###### Artículo 225.
 
 Las partes podrán recusar a los magistrados o a los peritos del Tribunal, cuando estén en alguno de los casos de impedimento a que se refiere el artículo 204 de este Código.
 
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
 ###### Artículo 226.
 
-La recusación de magistrados se hará valer hasta antes de que se cierre la instrucción en el juicio, mediante escrito dirigido al Presidente del Tribunal Fiscal de la Federación y acompañando las pruebas que se ofrezcan. El Presidente dentro de los tres días siguientes a la fecha en que se presentó la promoción, pedirá un informe al magistrado recusado, quien deberá rendirlo en igual plazo; la falta de dicho informe establece la presunción de ser cierta la causa de recusación.
+La recusación de magistrados se promoverá ante la Sala Superior, mediante escrito que se presente en la Sala Regional respectiva, al que se acompañarán las pruebas que se ofrezcan. El presidente de ésta, dentro de los cinco días siguientes, enviará a la Sala Superior el escrito de recusación, junto con un informe que el magistrado recusado debe rendir. A falta de informe se presumirá cierto el impedimento. Si la Sala Superior declara fundada la recusación, el magistrado será sustituido en los términos de la Ley orgánica del Tribunal Fiscal de la Federación.
 
-Si se declara fundada la recusación, el magistrado será sustituido en los términos de la Ley Orgánica del Tribunal Fiscal.
+Los magistrados que conozcan de una recusación son irrecusables para ese solo efecto.
 
-La recusación a un perito del Tribunal se tramitará y resolverá en los términos de este artículo, excepto que el escrito se dirigirá al Presidente de la sala de que se trate, dentro de los seis días siguientes a aquel en que cada parte tenga conocimiento de que ha rendido su dictamen pericial.
+La recusación del perito del Tribunal se promoverá ante el magistrado instructor, dentro de los seis días siguientes a la fecha en que surta efectos la notificación del acuerdo por el que se le designe.
 
-Las menciones en este artículo al magistrado recusado serán aplicables al perito.
+El instructor pedirá al perito recusado que rinda un informe dentro de los tres días siguientes. A falta de informe se presumirá cierto el impedimento. Si la Sala encuentra fundada la recusación substituirá al perito.
 
-Los magistrados que conozcan de una recusación son irrecusables para ese sólo efecto.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 227.
 
-Los particulares podrán promover en cualquier tiempo el incidente de suspensión de la ejecución, cuando la autoridad ejecutora niegue la suspensión, rechace la garantía ofrecida o reinicie la ejecución, ante el magistrado instructor que esté conociendo del asunto, acompañando copia del documento en que se haga constar la garantía y copia de aquellos en que conste la iniciación del juicio.
+Los particulares podrán promover el incidente de suspensión de la ejecución, cuando la autoridad ejecutora niegue la suspensión, rechace la garantía ofrecida o reinicie la ejecución, ante el magistrado instructor de la Sala Regional que conozca del asunto o que haya conocido del mismo en la primera instancia, acompañando copia de los documentos en que se haga constar el ofrecimiento y, en su caso, otorgamiento de la garantía, así como de la solicitud de suspensión presentada ante la ejecutora y, si lo hubiere, la documentación en que conste la negativa de la suspensión, el rechazo de la garantía o el reinicio de la ejecución.
 
-Las autoridades fiscales podrán promover el mismo incidente en relación al otorgamiento de la suspensión cuando no se ajuste a la ley.
+Con los mismos trámites del incidente previsto en el párrafo anterior, las autoridades fiscales podrán impugnar el otorgamiento de la suspensión cuando no se ajuste a la ley.
 
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+El incidente previsto en este artículo podrá promoverse hasta que se dicte sentencia o resolución firme de la Sala Regional, de la Sala Superior o del Tribunal Colegiado de Circuito, en su caso. Mientras no se dicte la misma, la Sala Regional podrá modificar o revocar el auto que haya decretado o negado la suspensión, cuando ocurra un hecho superveniente que lo justifique.
+
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 228.
 
-Promovido el incidente a que se refiere el artículo anterior, se ordenará a la autoridad que haya negado la suspensión, rechazado la garantía o reiniciado la ejecución, suspenda ésta y rinda un informe en un plazo de tres días. Asimismo, la apercibirá de que si no suspende desde luego la ejecución o si no rinde el informe o si no se refiere específicamente a los hechos, se tendrán éstos por ciertos y se declarará fundado el incidente respectivo.
+En el auto que admita el incidente a que se refiere el artículo 227, el magistrado instructor ordenará correr traslado a la autoridad a quien se impute el acto, pidiéndole un informe que deberá rendir en un plazo de tres días. Asimismo, podrá decretar la suspensión provisional de la ejecución. Si la autoridad ejecutora no rinde el informe o si éste no se refiere específicamente a los hechos que le impute el promovente, se tendrán éstos por ciertos.
 
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+Dentro del plazo de cinco días a partir de que haya recibido el informe, o de que haya vencido el término para presentarlo, la Sala dictará resolución en la que decrete o niegue la suspensión del procedimiento administrativo de ejecución o decida sobre la admisión de la garantía ofrecida.
 
-En un plazo de cinco días, la sala dictará la resolución que corresponda. Si la autoridad no da cumplimiento a lo ordenado, se impondrá al funcionario responsable del incumplimiento una multa de uno a tres tantos del equivalente al salario mínimo general de la zona económica correspondiente al Distrito Federal, elevado al mes.
+Si la autoridad no da cumplimiento a la orden de suspensión o de admisión de la garantía, la Sala Regional declarará la nulidad de las actuaciones realizadas con violación a la misma e impondrá a la autoridad renuente una multa de uno a tres tantos del salario mínimo general del área geográfica correspondiente al Distrito Federal, elevado al mes.
 
-Si el incidente es promovido por la autoridad, por haberse concedido indebidamente una suspensión, se tramitará lo conducente en los términos de este precepto.
+> <small>(F. DE E., D.O.F. 19 DE FEBRERO DE 1988)</small>
+
+Si el incidente es promovido por la autoridad por haberse concedido indebidamente una suspensión, se tramitará lo conducente en los términos de este precepto.
+
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
+Artículo 228 BIS.- Cuando se promueva alguno de los incidentes previstos en el artículo 217, se suspenderá el juicio en el principal hasta que se dicte la resolución correspondiente.
+
+Los incidentes a que se refieren las fracciones I, II, IV y V de dicho artículo únicamente podrán promoverse hasta antes de que quede cerrada la instrucción, en los términos del artículo 235 de este Código.
+
+Cuando se promuevan incidentes que no sean de previo y especial pronunciamiento, continuará el trámite del proceso.
+
+Si no está previsto algún trámite especial, los incidentes se substanciarán corriendo traslado de la promoción a las partes por el término de tres días. Con el escrito por el que se promueva el incidente o se desahogue el traslado concedido, se ofrecerán las pruebas pertinentes y se presentarán los documentos, los cuestionarios e interrogatorios de testigos y peritos, siendo aplicables para las pruebas pericial y testimonial las reglas relativas del principal.
+
+Los autos que admitan la demanda, la contestación, la intervención del tercero perjudicado o alguna prueba, podrán ser objetados por las partes, mediante escrito que presentarán en el plazo de cinco días; objeción que se decidirá en la resolución que ponga fin al juicio o en la sentencia respectiva.
 
 ###### Artículo 229.
 
 Cuando alguna de las partes sostenga la falsedad de un documento, incluyendo las promociones y actuaciones en juicio, el incidente se podrá hacer valer ante el magistrado instructor hasta antes de que se cierre la instrucción del juicio. La sala resolverá sobre la autenticidad del documento exclusivamente para efectos de dicho juicio.
 
 ### CAPITULO IX. De la Sentencia
+
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 230.
 
@@ -3270,21 +3450,27 @@ Cuando por el enlace de las pruebas rendidas y de las presunciones formadas, la 
 
 ###### Artículo 235.
 
-El magistrado instructor, diez días después de que se haya contestado la demanda o su ampliación, se hayan desahogado las pruebas o practicada la diligencia que hubiese ordenado, notificará a las partes que tienen un término de cinco días para que formulen alegatos por escrito, vencido el cual declarará cerrada la instrucción. No podrá cerrarse la instrucción mientras esté pendiente de resolver algún incidente de previo y especial pronunciamiento.
+El magistrado instructor, diez días después de que haya concluído la sustanciación del juicio y no existiere ninguna cuestión pendiente que impida su resolución, notificará por lista a las partes que tienen un término de cinco días para formular alegatos por escrito. Los alegatos presentados en tiempo deberán ser considerados al dictar sentencia.
+
+Al vencer el plazo de cinco días a que se refiere el párrafo anterior, con alegatos o sin ellos, quedará cerrada la instrucción, sin necesidad de declaratoria expresa.
 
 ### CAPITULO XI. De las Notificaciones y del Cómputo de los Términos
 
 ###### Artículo 236.
 
-La sentencia se pronunciará por unanimidad o mayoría de votos de los magistrados integrantes de la sala, dentro de los cuarenta y cinco días siguientes a aquel en que se cierre la instrucción en el juicio. Para este efecto el magistrado instructor formulará el proyecto respectivo dentro de los treinta días siguientes al cierre de la instrucción. Para dictar resolución en los casos de sobreseimiento por alguna de las causas previstas en el artículo 203 de este Código, no será necesario que se hubiese cerrado la instrucción.
+La sentencia se pronunciará por unanimidad o mayoría de votos de los magistrados integrantes de la Sala, dentro de los sesenta días siguientes a aquél en que se cierre la instrucción en el juicio. Para este efecto el magistrado instructor formulará el proyecto respectivo dentro de los cuarenta y cinco días siguientes al cierre de la instrucción. Para dictar resolución en los casos de sobreseimiento por alguna de las causas previstas en el artículo 203 de este Código, no será necesario que se hubiese cerrado la instrucción.
 
-Cuando la mayoría de los magistrados estén de acuerdo con el proyecto, el magistrado disidente podrá limitarse a expresar que vota en contra del proyecto, o formular voto particular razonado, pero lo deberá formular en un plazo que no excederá de diez días, transcurridos los cuales si no lo hace perderá ese derecho y deberá devolver el expediente; en caso de que no lo devuelva incurrirá en responsabilidad.
+Cuando la mayoría de los magistrados estén de acuerdo con el proyecto, el magistrado disidente podrá limitarse a expresar que vota en contra del proyecto o formular voto particular razonado, el que deberá presentar en un plazo que no exceda de diez días.
 
-Si el proyecto del magistrado instructor no fue aceptado por los otros magistrados de la sala, el secretario de aquélla engrosará el fallo con los argumentos de la mayoría y el proyecto podrá quedar como voto particular del instructor.
+Si el proyecto no fue aceptado por los otros magistrados de la Sala, el magistrado instructor engrosará el fallo con los argumentos de la mayoría y el proyecto podrá quedar como voto particular.
 
 ###### Artículo 237.
 
 Las sentencias del Tribunal Fiscal se fundarán en derecho y examinarán todos y cada uno de los puntos controvertidos del acto impugnado, teniendo la facultad de invocar hechos notorios.
+
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
+Cuando se hagan valer diversos conceptos de nulidad por omisión de formalidades o violaciones de procedimiento, la sentencia o resolución de la Sala deberá examinar y resolver cada uno, aun cuando considere fundado alguno de ellos.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
@@ -3332,6 +3518,46 @@ En caso de que se interponga recurso, se suspenderá el efecto de la sentencia h
 
 El Tribunal Fiscal de la Federación declarará la nulidad para el efecto de que se emita nueva resolución cuando se esté en alguno de los supuestos previstos en las fracciones II y III, y en su caso, V, del Artículo 238 de este Código.
 
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
+Artículo 239 BIS.- La Sala Superior del Tribunal Fiscal de la Federación, de oficio o a petición fundada de la Sala Regional correspondiente o de la Secretaría de Hacienda y Crédito Público, podrá resolver los juicios que por sus características especiales así lo ameriten.
+
+Revisten estas características los juicios en que:
+
+I. El valor del negocio exceda de cien veces el salario mínimo general vigente para el área geográfica del Distrito Federal, elevado al año.
+
+II. Para su resolución sea necesario establecer, por primera vez, la interpretación directa de una ley o fijar el alcance de los elementos constitutivos de una contribución.
+
+Si la Sala Superior decide ejercer de oficio la facultad a que este artículo se refiere, lo comunicará a la Sala Regional antes de que ésta admita la contestación de la demanda.
+
+La petición de la citada Secretaría podrá presentarse antes de que se acuerde dicha admisión, en escrito dirigido a la Sala Superior, por conducto de la Sala Regional respectiva, y acompañado de las constancias necesarias.
+
+Cuando la Sala Regional proponga que un asunto sea resuelto por la Sala Superior, acordará enviar a ésta la petición, en el auto que admita la contestación de la demanda.
+
+Los acuerdos de la Sala Superior que admitan la petición o que de oficio decidan resolver el juicio, serán notificados personalmente a las partes por la Sala Regional. Al efectuar la notificación, se les requerirá que señalen domicilio para recibir notificaciones en la sede de la Sala Superior, así como que designen persona autorizada para recibirlas o, en el caso de las autoridades, que señalen a su representante en dicha sede, apercibiendo a las propias partes que de no hacerlo, la resolución que dicte la Sala Superior les será notificada por lista.
+
+Una vez cerrada la instrucción del juicio, la Sala Regional remitirá el expediente original a la Sala Superior. Recibido éste, el Presidente de la Sala Superior designará magistrado ponente.
+
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
+Artículo 239 TER.- En los casos de incumplimiento de sentencia firme, la parte afectada podrá ocurrir en queja, por una sola vez, ante la Sala Regional que instruyó en primera instancia el juicio en que se dictó la sentencia, de acuerdo con las siguientes reglas:
+
+I. Procederá contra la indebida repetición de un acto o resolución anulado; así como cuando en el acto o resolución emitido para cumplimentar una sentencia, se incurra en exceso o defecto en su cumplimiento. No procederá respecto de actos negativos de la autoridad administrativa.
+
+II. Se interpondrá por escrito ante el magistrado que actuó como instructor, dentro de los quince días siguientes al día en que surta efectos la notificación del acto o resolución que la provoca. En dicho escrito se expresarán las razones por las que se considera que hubo exceso o defecto en el cumplimiento de la sentencia, o bien repetición del acto o resolución anulado.
+
+El magistrado instructor pedirá un informe a la autoridad a quien se impute el incumplimiento de la sentencia, que deberá rendir dentro del plazo de cinco días, en el que, en su caso, se justificará el acto o resolución que provocó la queja. Vencido dicho plazo, con informe o sin él, el magistrado instructor dará cuenta a la Sala, la que resolverá dentro de cinco días.
+
+III. En caso de que haya repetición del acto anulado, la Sala hará la declaratoria correspondiente, dejando sin efectos el acto repetido, y la notificará al funcionario responsable de la repetición, ordenándole que se abstenga de incurrir en nuevas repeticiones.
+
+La resolución a que se refiere esta fracción se notificará también al superior del funcionario responsable, para que proceda jerárquicamente, y la Sala impondrá a éste una multa hasta de noventa veces el salario mínimo general diario vigente en el área geográfica correspondiente al Distrito Federal.
+
+IV. Si la Sala resuelve que hubo exceso o defecto en el cumplimiento de la sentencia, dejará sin efectos el acto o resolución que provocó la queja y concederá al funcionario responsable veinte días para que dé el cumplimiento debido al fallo, señalando la forma y términos, precisados en la sentencia, conforme a los cuales deberá cumplir.
+
+V. Durante el trámite de la queja se suspenderá el procedimiento administrativo de ejecución, si se solicita ante la oficina ejecutora y se garantiza el interés fiscal en los términos del artículo 144.
+
+A quien promueva una queja frívola e improcedente se le impondrá una multa hasta de noventa veces el salario mínimo general diario vigente en el área geográfica correspondiente al Distrito Federal.
+
 ###### Artículo 240.
 
 Las partes podrán formular excitativa de justicia ante la Sala Superior, si el magistrado instructor no formula el proyecto respectivo dentro del plazo señalado en este Código.
@@ -3346,11 +3572,13 @@ Cuando un magistrado, en dos ocasiones hubiera sido sustituido conforme a este p
 
 ### CAPITULO XII. De la Jurisprudencia
 
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
 #### Sección Cuarta. Del remate
 
 ###### Artículo 242.
 
-El recurso de reclamación procederá ante la sala regional en contra de las resoluciones del magistrado instructor que admitan o desechen la demanda, la contestación o las pruebas, que decreten o nieguen el sobreseimiento del juicio o aquellas que admitan o rechacen la intervención del coadyuvante o del tercero. La reclamación se interpondrá dentro de los cinco días siguientes a aquél en que surta efectos la notificación respectiva y tendrá por objeto subsanar, en su caso, las violaciones cometidas y dictar la resolución que en derecho corresponde.
+El recurso de reclamación procederá ante la Sala Regional, en contra de las resoluciones del magistrado instructor que desechen la demanda, la contestación o alguna prueba, que decreten el sobreseimiento del juicio o aquellas que rechacen la intervención del tercero. La reclamación se interpondrá dentro de los cinco días siguientes a aquél en que surta efectos la notificación respectiva.
 
 ###### Artículo 243.
 
@@ -3360,59 +3588,59 @@ Interpuesto el recurso a que se refiere el artículo anterior, el magistrado ins
 
 Cuando la reclamación se interponga en contra del acuerdo que sobresea el juicio antes de que se hubiera cerrado la instrucción, en caso de desistimiento del demandante, no será necesario dar vista a la contraparte.
 
+(DEROGADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
 #### Sección Primera. De la reclamación
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 245.
 
-Contra resoluciones de las salas regionales, violatorias de la jurisprudencia del Tribunal, la parte perjudicada podrá ocurrir en queja ante la Sala Superior dentro de los quince días siguientes a aquél en que surta efectos la notificación respectiva.
+(DEROGADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 246.
 
-El recurso de queja se interpondrá ante la sala regional que corresponda, mediante escrito dirigido al Presidente del Tribunal o directamente ante el mismo, acompañando las copias necesarias para el traslado a las demás partes y, en su caso, para la sala regional.
-
-La sala regional turnará el escrito al Presidente del Tribunal, quien estará facultado para desechar las quejas notoriamente improcedentes o extemporáneas. En el auto en que se admita el recurso, se designará magistrado instructor y se correrá traslado a las demás partes por el término de cinco días para que expongan lo que a su derecho convenga; transcurrido este plazo se considerará integrado el expediente, aún cuando no se haya desahogado el traslado y se turnará al magistrado que se hubiese designado como instructor para que proceda a formular el proyecto respectivo en un plazo que no excederá de un mes a partir del día en que haya recibido el expediente del juicio.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+(DEROGADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 247.
 
-La Sala Superior revocará la resolución si encuentra fundados los agravios, a menos de que considere deba subsistir por otros motivos legales o porque resuelva modificar su jurisprudencia.
+(DEROGADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
-#### Sección Tercera. De la revisión
+(REFORMADA SU NUMERACION [N. DE E. ANTES SECCION TERCERA], D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+#### Sección Segunda (sic). De la revisión
+
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 #### Sección Segunda. De la queja
 
 ###### Artículo 248.
 
-Las resoluciones de las Salas Regionales que decreten o nieguen sobreseimientos y las sentencias definitivas, serán recurribles en revisión por las autoridades ante la Sala Superior, por violaciones procesales cometidas durante el procedimiento siempre que afecten las defensas del recurrente y trasciendan al sentido del fallo, o por violaciones cometidas en las propias resoluciones, cuando el interés del negocio exceda de cien veces el salario mínimo general diario de la zona económica correspondiente al Distrito Federal, vigente al momento de su emisión.
+Las resoluciones de las Salas Regionales que decreten o nieguen sobreseimientos y las sentencias definitivas, podrán ser impugnadas por la autoridad, a través de la unidad administrativa encargada de su defensa jurídica, interponiendo el recurso de revisión ante el Tribunal Colegiado de Circuito competente en la sede de la Sala Regional respectiva, mediante escrito que presente ante esta última dentro del término de quince días siguientes al día en que surta efectos su notificación, por violaciones procesales cometidas durante el juicio, siempre que afecten las defensas del recurrente y trasciendan al sentido del fallo, o por violaciones cometidas en las propias resoluciones o sentencias; cuando la cuantía del asunto exceda de tres mil quinientas veces el salario mínimo general diario del área geográfica correspondiente al Distrito Federal, vigente en el momento de su emisión.
 
-Cuando la cuantía sea indeterminada, el recurso procederá cuando el negocio sea de importancia y trascendencia, a juicio del titular de la Secretaría de Estado, Departamento Administrativo u organismo descentralizado a que el asunto corresponda.
+En el caso de contribuciones que deban determinarse o cubrirse por períodos inferiores a doce meses, para determinar la cuantía del asunto se considerará el monto que resulte de dividir el importe de la contribución entre el número de meses comprendidos en el período que corresponda y multiplicar el cociente por doce.
 
-La Secretaría de Hacienda y Crédito Público podrá interponer el recurso cualquiera que sea el monto del negocio, en los casos en que se controvierta el interés fiscal de la Federación y el asunto sea de importancia y trascendencia a juicio del titular de la citada Secretaría.
+Cuando la cuantía sea inferior a la que corresponda conforme al primer párrafo o sea indeterminada, el recurso procederá cuando el negocio sea de importancia y trascendencia, debiendo el recurrente razonar esa circunstancia para efectos de la admisión del recurso. En materia de aportaciones de seguridad social, se presume que tienen importancia y trascendencia los asuntos que versen sobre la determinación de sujetos obligados, de conceptos que integran la base de cotización y del grado de riesgo de las empresas para los efectos del seguro de riesgos del trabajo.
+
+La Secretaría de Hacienda y Crédito Público podrá interponer el recurso, cuando la resolución o sentencia afecte el interés fiscal de la Federación y, a su juicio, el asunto tenga importancia, independientemente de su monto, por tratarse de la interpretación de leyes o reglamentos, de las formalidades esenciales del procedimiento, o por fijar el alcance de los elementos constitutivos de una contribución.
+
+El recurso de revisión también será procedente contra las resoluciones o sentencias que dicte la Sala Superior del Tribunal, en los casos a que se refiere el Artículo 239 BIS.
+
+En los juicios que versen sobre resoluciones de las autoridades fiscales de las entidades federativas coordinadas en ingresos federales, el recurso sólo podrá ser interpuesto por la Secretaría de Hacienda y Crédito Público.
+
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 249.
 
-El recurso a que se refiere el artículo que antecede deberá ser interpuesto precisamente en escrito dirigido al Presidente del Tribunal, dentro del plazo de quince días siguientes a aquel en que surta efectos la notificación de la resolución que se impugna. El escrito será firmado por el titular de la Secretaría de Estado, Departamento Administrativo o por los directores o jefes de los organismos descentralizados, según corresponda y en caso de ausencia, por quienes legalmente deban sustituirlo.
+Si el particular interpuso amparo directo contra la misma resolución o sentencia impugnada mediante el recurso de revisión, el Tribunal Colegiado de Circuito que conozca del amparo resolverá el citado recurso, lo cual tendrá lugar en la misma sesión en que decida el amparo.
 
-Al recibirse el recurso se designará al magistrado instructor, el que admitirá el recurso, si procede, y mandará correr traslado a la parte contraria por el término de cinco días, para que exponga lo que a su derecho convenga. Vencido dicho término, el magistrado instructor, dentro del plazo de un mes, formulará el proyecto de resolución que se someterá a la Sala Superior.
-
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+(DEROGADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 #### Sección Cuarta. De la Revisión Fiscal
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
-
 ###### Artículo 250.
 
-Contra las resoluciones de la Sala Superior a que se refiere el artículo 249 de este Código, las autoridades podrán interponer el recurso de revisión fiscal ante la Suprema Corte de Justicia de la Nación, dentro del plazo de los quince días siguientes a aquel en que surta efectos la notificación respectiva, mediante escrito dirigido al Presidente de la Segunda Sala, que deberá ser firmado por el titular de la Secretaría de Estado, Departamento Administrativo u organismo descentralizado, y en caso de ausencia, por quien legalmente deba sustituilo (sic). En dicho escrito deberán exponerse las razones que determinen la importancia y la trascendencia del asunto de que se trate. Si el valor del negocio excede de cuarenta veces el salario mínimo elevado al año, conforme a la regla especificada en el artículo 3o. Bis de la Ley de Amparo, se considerará que tiene las características requeridas para ser objeto del recurso.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-Cuando se trate de contribuciones que deban determinarse o cubrirse por períodos inferiores a un año, para determinar la cuantía del asunto se considerará el monto que resulte de dividir el importe de la contribución entre el número de meses comprendidos en el período de que se trata y multiplicar el cociente por doce.
+(DEROGADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 251.
 
@@ -3436,7 +3664,9 @@ II. La que mande citar a los testigos o a un tercero.
 
 III. El requerimiento a la parte que debe cumplirlo.
 
-IV. El auto que declare cerrada la instrucción.
+(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+
+IV. El auto de la Sala Regional que dé a conocer a las partes que el juicio será resuelto por la Sala Superior.
 
 V. La resolución de sobreseimiento.
 
@@ -3450,9 +3680,7 @@ La lista a que se refiere este artículo contendrá nombre de la persona, expedi
 
 Las notificaciones que deban hacerse a las autoridades administrativas se harán siempre por oficio o por vía telegráfica en casos urgentes.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-La notificación de la sentencia definitiva, así como la de las resoluciones de las Salas Regionales que decreten o nieguen sobreseimientos, además de efectuarse a los órganos representativos de la autoridad, se harán al titular de la Secretaría de Estado, Departamento Administrativo u organismo descentralizado, precisamente en su sede.
+(DEROGADO SEGUNDO PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 255.
 
@@ -3484,23 +3712,37 @@ IV. Cuando los plazos se fijen por mes o por año, sin especificar que sean de c
 
 ###### Artículo 259.
 
-La jurisprudencia del Tribunal Fiscal de la Federación será establecida por la Sala Superior y será obligatoria para la misma y para las salas regionales y sólo la Sala Superior podrá variarla.
+Las tesis contenidas en las sentencias que dicten las Salas Regionales del Tribunal Fiscal de la Federación constituirán precedente para la Sala que las haya sustentado, así como para las otras que conozcan de casos iguales, cuando hayan sido publicadas en la Revista del Tribunal.
+
+Las tesis que sustente la Sala Superior al resolver los juicios con características especiales, a que se refiere el artículo 239 BIS, constituirán precedente para el Tribunal, a partir de su publicación en la citada Revista.
+
+La Sala de que se trate aprobará la tesis que constituye precedente, la síntesis y el rubro, así como la numeración que le corresponda en el orden de los que haya dictado, hecho lo cual la Sala Superior ordenará su publicación en la Revista del Tribunal.
+
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 260.
 
-La jurisprudencia se forma en los siguientes casos:
+Cuando las Salas Regionales sustenten un criterio distinto al de un precedente, expresarán en la sentencia las razones por las que dejan de aplicarlo y enviarán a la Sala Superior copia de la misma para que resuelva el que deba prevalecer.
 
-I. Al resolver las contradicciones entre las sentencias dictadas por las salas regionales y que hayan sido aprobadas lo menos por seis de los magistrados que integran la Sala Superior.
+En caso de contradicción de sentencias, cualquiera de los magistrados del Tribunal, la Secretaría de Hacienda y Crédito Público o las partes en los juicios en que tales tesis se sustentaron, podrán denunciarla ante la Sala Superior para que ésta decida cual tesis debe prevalecer.
 
-II. Si al resolver el recurso de queja interpuesto en contra de una sentencia de la sala regional, la Sala Superior decide modificarla.
+La resolución que pronuncie la Sala Superior en los casos a que este artículo se refiere, sólo tendrá efectos para fijar jurisprudencia y no afectará las resoluciones dictadas en los juicios correspondientes.
 
-III. Cuando la Sala Superior haya dictado en el recurso de revisión tres sentencias consecutivas no interrumpidas por otra en contrario, sustentando el mismo criterio y que hayan sido aprobadas lo menos por seis de los magistrados.
-
-En estos casos, el magistrado instructor propondrá a la Sala Superior, la tesis jurisprudencial, la síntesis y el rubro correspondiente a fin de que se aprueben. Una vez aprobados, ordenarán su publicación en la Revista del Tribunal.
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 261.
 
-Los magistrados, las autoridades o cualquier particular podrán dirigirse al Presidente del Tribunal denunciando la contradicción entre las sentencias dictadas por las salas regionales. Al recibir la denuncia el Presidente del Tribunal designará por turno a un magistrado para que formule la ponencia sobre si existe contradicción y, en su caso, proponga a la Sala Superior el criterio que deba prevalecer, el cual no modificará los derechos u obligaciones que deriven de las sentencias.
+Al recibir la sentencia que deje de aplicar algún precedente o la denuncia de contradicción, la Sala Superior establecerá la tesis que deba prevalecer, misma que constituirá jurisprudencia obligatoria para el Tribunal, siempre que se apegue a la jurisprudencia que, en su caso, hayan formado los tribunales del Poder Judicial de la Federación.
+
+También constituirá jurisprudencia la tesis sostenida por la Sala Superior al resolver los juicios con características especiales, previstos en el artículo 239 BIS, siempre que se sustente en tres resoluciones no interrumpidas por otra en contrario y cumpla con el requisito señalado por el párrafo anterior.
+
+La Sala Superior deberá aprobar la tesis jurisprudencial, la síntesis y el rubro que corresponda, y ordenará su publicación en la Revista del Tribunal. Una vez formada la jurisprudencia respectiva señalará también la numeración progresiva que le corresponda.
+
+Los Magistrados de la Sala Superior podrán proponer a ésta que modifique su jurisprudencia, cuando haya razones fundadas que lo justifiquen. Las Salas Regionales también podrán proponer la modificación, expresando a la Sala Superior los razonamientos que sustenten la propuesta.
+
+> <small>(F. DE E., D.O.F. 19 DE FEBRERO DE 1988)</small>
+
+Cuando una Sala Regional dicte una resolución o sentencia contraviniendo la jurisprudencia del Tribunal, la Sala Superior solicitará a los Magistrados que hayan votado a favor de dicha resolución o sentencia que le rindan un informe y, una vez confirmado el incumplimiento, los apercibirá y, en caso de reincidencia, les aplicará la sanción administrativa que corresponda, en los términos de la Ley de la materia.
 
 ## TRANSITORIOS
 
@@ -3739,3 +3981,45 @@ Durante el año de 1988, para los efectos del segundo párrafo del artículo 70 
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor el día 1o. de enero de 1988.
+
+D.O.F. 5 DE ENERO DE 1988.
+
+REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988.
+
+Disposiciones Transitorias
+
+> <small>(F. DE E., D.O.F. 19 DE FEBRERO DE 1988)</small>
+
+Para efectos de lo establecido por el Artículo Primero de este Decreto, se estará a las siguientes disposiciones transitorias:
+
+PRIMERA.- Los recargos previstos en el párrafo tercero adicionado al artículo 21 del Código Fiscal de la Federación, en los casos de garantías de obligaciones fiscales a cargo de terceros, se causarán respecto de aquellas que se otorguen a partir de la vigencia de este Decreto.
+
+SEGUNDA.- Los procedimientos, trámites y recursos administrativos, así como los incidentes, recursos de reclamación y trámites en el juicio contencioso administrativo, que se hubieren iniciado antes de la vigencia de este Decreto, continuarán su sustanciación y se resolverán conforme a las disposiciones legales vigentes a la fecha en que se iniciaron.
+
+Cuando antes de la vigencia de este Decreto haya comenzado a correr el plazo para la interposición de algún medio de defensa, éste se interpondrá, sustanciará y resolverá conforme a las disposiciones vigentes en la fecha en que dichos plazos se iniciaron.
+
+TERCERA.- En los juicios en trámite a la fecha de la vigencia de este Decreto, podrá interponer el recurso de revisión la unidad administrativa encargada de la defensa jurídica de la autoridad, que tenga reconocida la representación en el juicio correspondiente o que haya venido actuando en el mismo con dicha representación.
+
+CUARTA.- La Sala Superior del Tribunal Fiscal de la Federación continuará el trámite y resolverá los recursos de revisión que las autoridades hubieren interpuesto con anterioridad a la vigencia de este Decreto.
+
+> <small>(F. DE E., D.O.F. 19 DE FEBRERO DE 1988)</small>
+
+Contra las resoluciones definitivas que dicte la Sala Superior en los recursos de revisión a que se refiere el párrafo anterior, procederá el recurso de revisión fiscal conforme a lo ordenado por el Código Fiscal de la Federación en las disposiciones que por virtud de este Decreto se reforman, el que será resuelto por los Tribunales Colegiados de Circuito conforme al procedimiento previsto para la revisión en amparo indirecto.
+
+QUINTA.- La Sala Superior del Tribunal Fiscal de la Federación continuará el trámite hasta la resolución definitiva de los recursos de queja interpuestos con anterioridad a la vigencia de este Decreto, concretándose, al resolver, a decidir si son o no fundados los agravios, pero sin que la resolución forme jurisprudencia.
+
+> <small>(F. DE E., D.O.F. 19 DE FEBRERO DE 1988)</small>
+
+SEXTA.- Los juicios en que, a la fecha de iniciación de vigencia de este Decreto, no hubiere concluido el término para la interposición del recurso de revisión o el de revisión fiscal, previstos por las disposiciones que se reforman, y éstos no se presentaron, las autoridades interpondrán el recurso de revisión establecido por el artículo 248 del Código Fiscal de la Federación, reformado por este Decreto, ante el Tribunal Colegiado de Circuito que corresponda, antes del vencimiento.
+
+SEPTIMA.- La representación de las autoridades en todas las instancias del juicio se tendrá por acreditada, si habiéndose iniciado éste antes de la vigencia de este Decreto, al presentarse la contestación de la demanda, se satisfacen los requisitos que con anterioridad fueron exigidos para acreditarla. En estos casos, si de conformidad con las disposiciones legales, surgiere otro representante con posterioridad, la sustitución se acreditará en el juicio por la autoridad.
+
+OCTAVA.- La jurisprudencia que haya establecido la Sala Superior del Tribunal Fiscal de la Federación antes de la fecha en que rija este Decreto, conservará su vigencia, pero podrá ser modificada en los casos y términos que señalan las leyes.
+
+## TRANSITORIO
+
+> <small>(F. DE E., D.O.F. 19 DE FEBRERO DE 1988)</small>
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el 15 de enero de 1988, excepto las adiciones de un segundo párrafo al artículo 126 y de un párrafo final y los incisos a) y b) al artículo 143 del Código Fiscal de la Federación, establecidas por el ARTICULO PRIMERO, así como lo dispuesto por el ARTICULO TERCERO de este Decreto, que entrarán en vigor el 30 de junio de 1988.
