@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2004-07-30"
+last_updated: "2004-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE AGOSTO DE 2004.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1234,11 +1234,11 @@ Incurrirán en responsabilidad, y se harán acreedores a las sanciones que la le
 
 Los diputados y senadores que no concurran a una sesión, sin causa justificada o sin permiso de la Cámara respectiva, no tendrán derecho a la dieta correspondiente al día en que falten.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2004)</small>
 
 ###### Art. 65.
 
-El Congreso se reunirá a partir del 1o. de septiembre de cada año, para celebrar un primer período de sesiones ordinarias y a partir del 15 de marzo de cada año para celebrar un segundo período de sesiones ordinarias.
+El Congreso se reunirá a partir del 1o. de septiembre de cada año, para celebrar un primer período de sesiones ordinarias y a partir del 1o. de febrero de cada año para celebrar un segundo período de sesiones ordinarias.
 
 > <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 1986)</small>
 
@@ -5023,6 +5023,12 @@ D.O.F. 22 DE JULIO DE 2004.
 D.O.F. 30 DE JULIO DE 2004.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE AGOSTO DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Al entrar en vigor el presente decreto, deberán impulsarse las reformas y adiciones a la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos y demás disposiciones legales aplicables en la materia.
 
 ###### ARTICULO PRIMERO.
 
