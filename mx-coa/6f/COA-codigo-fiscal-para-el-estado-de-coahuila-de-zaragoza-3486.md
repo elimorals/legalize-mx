@@ -4,7 +4,7 @@ identifier: "COA-codigo-fiscal-para-el-estado-de-coahuila-de-zaragoza-3486"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-10-19"
-last_updated: "1994-12-27"
+last_updated: "1995-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1995.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 19 de octubre de 1990.
 
@@ -75,9 +75,11 @@ Los recargos, las sanciones, los gastos de ejecución y la indemnización a que 
 
 Son impuestos las contribuciones establecidas en la ley con carácter general y obligatorio, a cargo de las personas físicas, morales o unidades económicas, cuya situación o actuación jurídica o de hecho coincida con la que la ley señale como hecho generador del mismo.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 6.
 
-Derechos son las contribuciones establecidas en la ley por el uso o aprovechamiento de los bienes del dominio público del Estado, así como por recibir servicios que presta el Estado en sus funciones de Derecho Público, excepto cuando se presten por organismo descentralizados. También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del Estado.
+Derechos son las contribuciones establecidas en la ley por el uso o aprovechamiento de los bienes del dominio público del Estado, así como por recibir servicios que presta el Estado en sus funciones de Derecho Público. También son derechos las contribuciones a cargo de los órganos públicos desconcentrados por prestar servicios exclusivos del Estado.
 
 ###### ARTICULO 7.
 
@@ -89,9 +91,11 @@ II.- A cargo de quienes se benefician específicamente con la ejecución de algu
 
 III.- A cargo de quienes por la realización de actividades dañen o deterioren instalaciones, infraestructura caminera, hidráulica y de servicios, de uso comunitario y beneficio social, que sean propiedad del Estado, de dominio público o uso común, que se determinarán de acuerdo con la cuantificación de los daños o deterioros causados.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 8.
 
-Son productos las contribuciones que percibe el Estado por los servicios que preste en sus funciones de derecho privado, así como el uso, aprovechamiento o enajenación de bienes del dominio público o privado.
+Son productos las contribuciones que percibe el Estado por los servicios que preste en sus funciones de derecho privado, así como el uso, aprovechamiento o enajenación de bienes del dominio privado.
 
 ###### ARTICULO 9.
 
@@ -363,6 +367,10 @@ IX.- Proporcionar a las autoridades fiscales los datos, informes, antecedentes y
 
 X.- Conservar por cinco años, la documentación relacionada con obligaciones o créditos fiscales a su cargo;
 
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 1995)</small>
+
+XI.- Dar de baja las placas de identificación vehicular en el momento en que el contribuyente enajene el vehículo de su propiedad, en el entendido de que no operará la baja de referencia en caso de que el contribuyente cuente con créditos fiscales pendientes de pago.
+
 ###### ARTICULO 33.
 
 Toda persona estará obligada, a requerimiento de las autoridades fiscales, a exhibir la documentación, la correspondencia y a proporcionar todo tipo de datos e informes que se refieran a las operaciones realizadas con los sujetos pasivos de un gravamen.
@@ -415,7 +423,13 @@ El pago de los créditos fiscales deberá hacerse en la fecha o dentro del plazo
 
 I.- Si es a las autoridades a las que corresponde formular la liquidación, dentro de los 15 días siguientes a la fecha en que haya surtido efectos la notificación de la misma; y
 
-II.- Si se trata de obligaciones derivadas de contratos o concesiones que no señalen la fecha de pago, éste deberá hacerse dentro de los 15 días siguientes a la fecha de su celebración u otorgamiento.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1995)</small>
+
+II.- Si es a los sujetos pasivos o responsables solidarios a quienes corresponde determinar en cantidad líquida la prestación; dentro de los veinte días siguientes al nacimiento de la obligación fiscal; y
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 1995)</small>
+
+III.- Si se trata de obligaciones derivadas de contratos o concesiones que no señalen la fecha de pago, éste deberá hacerse dentro de los quince días siguientes a la fecha de su celebración u otorgamiento.
 
 ###### ARTICULO 39.
 
@@ -428,6 +442,18 @@ El pago de los créditos fiscales se hará en las oficinas recaudadoras de la Se
 ###### ARTICULO 41.
 
 El pago podrá hacerse por cualquier persona, pero el comprobante oficial se expedirá invariablemente a nombre del sujeto pasivo del crédito fiscal.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1995)</small>
+
+ARTICULO 41 BIS.- Cuando el crédito fiscal esté constituido por diversos conceptos, los pagos que haga el deudor se aplicarán en el orden siguiente:
+
+I.- Los gastos de ejecución;
+
+II.- Los recargos;
+
+III.- Las multas;
+
+IV.- Los impuestos, derechos, contribuciones especiales, productos, participaciones e ingresos extraordinarios.
 
 > <small>(F. DE E., P.O. 12 DE MARZO DE 1991)</small>
 
@@ -979,6 +1005,22 @@ XVI.- No dar aviso a la Secretaría de Finanzas si se llevase a cabo la enajenac
 
 XVII.- No dar aviso del cambio de domicilio en los términos del artículo 46 de la Ley de Hacienda para el Estado.
 
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 1995)</small>
+
+XVIII.- No presentar el aviso de baja en las oficinas recaudadoras de la Secretaría de Finanzas, dentro de los plazos establecidos en las disposiciones fiscales, de las placas de identificación vehicular en el momento en que los contribuyentes enajenen los vehículos de su propiedad.
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 1995)</small>
+
+XIX.- No adquirir las placas de identificación vehicular dentro de los plazos establecidos en las disposiciones fiscales.
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 1995)</small>
+
+XX.- No contar con la licencia y la autorización anual correspondiente para la colocación de anuncios publicitarios.
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 1995)</small>
+
+XXI.- No dar aviso de cambio de domicilio de los establecimientos en donde se enajenen bebidas alcohólicas o presten servicios que incluyan al expendio de dichas bebidas, así como el cambio del nombre del titular de los derechos de la licencia para el funcionamiento de dichos establecimientos.
+
 ###### ARTICULO 92.
 
 Son infracciones cuya responsabilidad corresponde a los jueces, encargados de los registros públicos, notarios, corredores y en general a los funcionarios que tengan fe pública:
@@ -1069,7 +1111,9 @@ ARTICULO 94 BIS.- Las infracciones señaladas en los artículos 91, 92, 93 y 94 
 
 I.- De uno a diez salarios mínimos, en los casos contenidos en los artículos:
 
-91.- Fracciones llI, IV y XIl.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1995)</small>
+
+91.- Fracciones llI, IV, XII, XVIII Y XIX.
 
 92.- Fracción l;
 
@@ -1097,19 +1141,25 @@ III.- De sesenta a cien salarios mínimos, en los casos contenidos en los artíc
 
 IV.- De cien a trescientos salarios mínimos, en los casos contenidos en los artículos:
 
-91.- Fracciones XIII, XV; XVI y XVII
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1995)</small>
+
+91.- Fracciones XIII, XV, XVI, XVII y XX;
 
 92.- Fracciones IX, X y XI;
 
 V.- De cien a doscientos salarios mínimos, en los casos contenidos en el artículo 91, fracciones l, II y VII, cuando no pueda precisarse el monto de la prestación fiscal omitida; de lo contrario, la multa será de uno a tres tantos del importe de la prestación fiscal omitida.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 1995)</small>
 
-ARTICULO 94 TER.- A las personas físicas o morales en cuyos establecimientos se expendan bebidas alcohólicas sin contar con la licencia en vigor o debidamente refrendada, se les impondrá una multa por el equivalente a tres veces el salario mínimo vigente en la entidad elevado al año.
+ARTICULO 94 TER.- A las personas físicas o morales que tengan establecimientos en donde se enajenen bebidas alcohólicas o se presten servicios que incluyan el expendio de dichas bebidas, sin contar con la licencia correspondiente y la autorización anual en vigor, se les impondrá una multa por el equivalente a tres veces el salario mínimo vigente en la entidad elevado al año.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 Las autoridades fiscales deberán clausurar los establecimientos que expendan bebidas alcohólicas cuando no estén amparados con una licencia en vigor o debidamente refrendada.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1995)</small>
+
+Las personas físicas o morales que cometan las infracciones establecidas en el artículo 91 fracción XXI, se les impondrá una multa por el equivalente al 25% de la tarifa establecida en la Ley de Hacienda para el Estado, por la expedición de la licencia de conformidad con el tipo de establecimiento de que se trate, independientemente de que proceda la cancelación de la misma.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1993)</small>
 
@@ -1299,6 +1349,12 @@ Las notificaciones se podrán hacer en las oficinas de las autoridades fiscales,
 
 Cuando una notificación se haga en forma distinta a la señalada en los artículos anteriores, serán nulificadas de oficio o a petición de parte por la autoridad fiscal que la emitió, previa investigación y comprobación necesarias.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1995)</small>
+
+ARTICULO 118 BIS.- Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causará a cargo de quien incurrió en el incumplimiento la cantidad equivalente a dos días de salario mínimo vigente en la entidad, por concepto de honorarios de notificación.
+
+Para los efectos de este artículo, la autoridad recaudadora los determinará conjuntamente con la notificación y se pagará al cumplir con el requerimiento.
+
 ### CAPITULO SEGUNDO
 
 #### SECCION PRIMERA. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
@@ -1339,7 +1395,9 @@ El embargo de bienes raíces, de derechos reales o de negociaciones de cualquier
 
 Cuando los bienes raíces, derechos reales o negociaciones queden comprendidos en la jurisdicción de dos o más oficinas del registro público que corresponda, en todas ellas se inscribirá el embargo.
 
-Si la exigibilidad se origina por cese de la prórroga, de la autorización para pagar en parcialidades, por error aritmético en las declaraciones, o por la situación prevista en los artículos 59 y 60 de este Código, el deudor podrá efectuar el pago dentro de los seis días hábiles siguientes a la fecha en que surta sus efectos la notificación del requerimiento.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1995)</small>
+
+Si la exigibilidad se origina por cese de la prórroga, de la autorización para pagar en parcialidades, por error aritmético en las declaraciones, el deudor podrá efectuar el pago dentro de los seis días hábiles siguientes a la fecha en que surta sus efectos la notificación del requerimiento.
 
 ###### ARTICULO 123.
 
@@ -1916,3 +1974,13 @@ El presente Decreto entrará en vigor a partir del 1º. de enero de 1995.
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se oponga al presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 1995.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
