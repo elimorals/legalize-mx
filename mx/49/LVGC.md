@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1944-07-07"
+last_updated: "1944-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE JULIO DE 1944.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE AGOSTO DE 1944.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -268,9 +268,11 @@ Cualquiera operación que se hiciere contra lo preceptuado en este artículo, se
 
 Las acciones, obligaciones o bonos emitidos por las empresas de vías generales de comunicación y medios de transporte que fueren adquiridos por un Gobierno o Estado extranjeros, desde el momento de la adquisición quedará sin efecto ni valor alguno para el tenedor de ellos.
 
+> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1944)</small>
+
 ###### ARTICULO 20.
 
-En las concesiones se fijarán las bases a que deben sujetarse las empresas de vías generales de comunicación para establecer las tarifas de los servicios que presten al público. Con sujeción a dichas bases, la Secretaría de Comunicaciones podrá modificar las tarifas, cuando el interés público lo exija, oyendo previamente a las empresas afectadas y siempre que al hacerlo no se comprometa la costeabilidad misma de la explotación.
+En las concesiones se fijarán las bases a que deben sujetarse las empresas de vías generales de comunicación, para establecer las tarifas de los servicios que prestan al público. Con sujeción a dichas bases, la Secretaría de Comunicaciones y Obras Públicas podrá modificar las tarifas, cuando el interés público lo exija, oyendo previamente a las empresas afectadas y siempre que al hacerlo, no se comprometa la costeabilidad misma de la explotación. Cuando las empresas interesadas lo soliciten, y siempre que justifiquen ampliamente la necesidad de la medida, la propia Secretaría de Comunicaciones y Obras Públicas podrá modificar las tarifas rebasando los tipos máximos que para el efecto se hayan señalado en las concesiones.
 
 ### CAPITULO IV. Derechos de expropiación, uso de bienes nacionales y otras franquicias
 
@@ -4123,6 +4125,10 @@ Esta ley entrará en vigor el día de su publicación en el "Diario Oficial" de 
 D.O.F. 7 DE JULIO DE 1944.
 
 DECRETO QUE MODIFICA EL ARTICULO 24 DE LA LEY DE VIAS GENERALES DE COMUNICACION DE 31 (SIC) DE DICIEMBRE DE 1939
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 10 DE AGOSTO DE 1944.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
