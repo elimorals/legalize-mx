@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-de-los-servidores-publicos-del-11825"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-23"
-last_updated: "2002-02-12"
+last_updated: "2002-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2002.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 1997.
 
@@ -513,21 +513,33 @@ El juez de primera instancia, el ministerio público o la autoridad municipal re
 
 Para la práctica de las diligencias, todas las comunicaciones se entregarán personalmente o, en su defecto, se enviarán por correo, en pieza certificada y con acuse de recibo.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2002)</small>
+
 ###### Artículo 52.
 
-Los diputados miembros del Congreso y los empleados integrantes del órgano técnico jurídico de estudio y cuenta que hayan de intervenir en algún acto dentro del procedimiento, podrán excusarse y ser recusados, sólo cuando tuvieren con el denunciado o con el denunciante alguno de los siguientes vínculos:
+Los diputados miembros del Congreso y los empleados integrantes del órgano técnico jurídico de estudio y cuenta, que hayan de intervenir en algún acto dentro del procedimiento, deberán excusarse y en su caso ser recusados, sólo cuando tuvieren con el denunciado o con el denunciante alguno de los siguientes vínculos:
 
 I. Parentesco hasta el cuarto grado en cualquier línea;
 
 II. Amistad estrecha;
 
-III. Enemistad manifiesta; o
+III. Enemistad manifiesta;
 
-IV. Ser denunciante o defensor en el procedimiento de que se trate.
+IV. Ser denunciante o defensor en el procedimiento de que se trate;
+
+V. Relación laboral de subordinación;
+
+VI. Ser acreedor, deudor, socio, arrendador o arrendatario, dependiente o principal, de alguno de los interesados;
+
+VII. Ser o haber sido tutor o curador de alguno de los interesados, o administrador de sus bienes por cualquier título; o
+
+VIII. Ser heredero, legatario, donatario o fiador de alguno de los interesados, si el funcionario ha aceptado la herencia o el legado o ha hecho alguna manifestación en ese sentido;
+
+> <small>(F. DE E. P.O. 19 DE NOVIEMBRE DE 2002)</small>
 
 Sólo con expresión de causa podrá recusarse a cualquiera de los diputados o a los miembros del órgano técnico jurídico de estudio y cuenta del Congreso del Estado que deban participar en actos del procedimiento.
 
-La recusación podrá hacerse valer por escrito presentado por el servidor público denunciado, desde el momento en que es emplazado, hasta la fecha en que se cite para la audiencia en la que el Congreso se erigirá en jurado de sentencia, en el caso de juicio político, o en jurado de procedencia, en los casos de declaración de procedencia de juicio penal.
+La recusación podrá hacerse valer por escrito presentado por el servidor público denunciado, cualquier miembro de la Comisión de Responsabilidades o por el denunciante, desde el momento en que el denunciado es emplazado, hasta la fecha en que se cite para la audiencia en la que el Congreso se erigirá en jurado de sentencia, en el caso de juicio político, o en jurado de procedencia, en los casos de declaración de procedencia de juicio penal.
 
 ###### Artículo 53.
 
@@ -555,9 +567,11 @@ Si la acumulación fuere procedente, la Comisión de Responsabilidades formular�
 
 Tanto la Comisión de Responsabilidades como la Asamblea del Congreso podrán disponer las medidas de apercibimiento que consideren necesarias, mediante acuerdo de la mayoría de sus miembros presentes en la sesión o junta interna donde se tome la determinación.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2002)</small>
+
 ###### Artículo 58.
 
-En ningún caso tendrán derecho de voto los diputados que hubieren presentado la denuncia contra el servidor público sujeto a proceso; tampoco podrán hacerlo los diputados que hayan aceptado el cargo de defensor, aún cuando renuncien a éste después de haberlo ejercido.
+En ningún caso tendrán derecho de voto los diputados que hubieren presentado la denuncia contra el servidor público sujeto a proceso; tampoco podrán hacerlo los diputados que hayan aceptado el cargo de defensor, aún cuando renuncien a éste después de haberlo ejercido, ni aquellos cuya excusa o recusación haya sido declarada procedente.
 
 ###### Artículo 59.
 
@@ -638,6 +652,10 @@ Recibir las promociones de carácter administrativo, que les sean presentadas a 
 XXV. Abstenerse de imponer condiciones, prestaciones u obligaciones que no estén previstas en las leyes o reglamentos;
 
 XXVI. Presentar con oportunidad y veracidad la declaración de situación patrimonial ante los organismos competentes, quienes estén obligados a ello en los términos que señala esta ley; y
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2002)</small>
+
+XXVII. Los funcionarios encargados de la Hacienda Pública Estatal y Municipal, que no realicen la presentación y entrega de las cuentas públicas dentro de los plazos establecidos, se harán acreedores a las sanciones previstas por la ley; y
 
 XXVII. Las demás que le impongan las leyes y reglamentos.
 
@@ -927,7 +945,9 @@ La declaración de situación patrimonial deberá de presentarse en los siguient
 
 I. La inicial, dentro de los sesenta días naturales siguientes a la toma de posesión;
 
-II. La anual, durante el mes de mayo de cada año, salvo que en ese mismo año hubiese ingresado a un cargo obligado a presentar la declaración señalada en la fracción anterior; y
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2002)</small>
+
+II. La anual, durante los meses de enero a mayo de cada año, salvo que en ese mismo año hubiese ingresado a un cargo obligado a presentar la declaración señalada en la fracción anterior; y
 
 III. La final, dentro de los treinta días naturales siguientes a la conclusión del encargo.
 
@@ -1086,3 +1106,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 TERCERO.- Para el ejercicio fiscal del 2002, el Comité Técnico de Valoración Salarial del Estado de Jalisco y sus Municipios, será convocado de inmediato, para que a más tardar el 31 de marzo del 2002, evalúe las percepciones aprobadas en los presupuestos respectivos, sin que esta evaluación pueda afectar las prestaciones ya aprobadas.
+
+P.O. 12 DE OCTUBRE DE 2002.
+
+Único.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
