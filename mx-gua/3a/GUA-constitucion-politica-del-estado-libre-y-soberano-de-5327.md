@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1992-09-11"
+last_updated: "1994-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 1994.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -107,9 +107,41 @@ Las Leyes respectivas, determinarán las profesiones que requerirán de Título 
 
 La imposición de las penas corresponde exclusivamente a la Autoridad Judicial competente en orden a su jurisdicción. La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial, la cual está bajo la autoridad y mando inmediato de aquél.
 
-La Policía Judicial sólo podrá ejercer las funciones que le otorga la Ley por órdenes expresas del Ministerio Público, quien a su vez sólo podrá emitirlas en base a una averiguación legalmente instaurada o por mandamiento judicial, hecha excepción de los casos de flagrante delito.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1994)</small>
 
-Queda estrictamente prohibido detener a las personas para fines de investigación, salvo el caso de flagrante delito.
+La Policía Judicial sólo podrá ejercer las funciones que le otorga la Ley por órdenes expresas del Ministerio Público, quien a su vez sólo podrá emitirlas con base a una averiguación legalmente instaurada o por mandamiento judicial, hecha excepción de los casos urgentes y de flagrante delito.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1994)</small>
+
+No podrá librarse orden de aprehensión sino por la autoridad judicial y sin que preceda denuncia, acusación o querella de un hecho determinado que la Ley señale como delito, sancionado con pena privativa de libertad y existan datos que acrediten los elementos que integran el tipo penal y la probable responsabilidad del indiciado.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 1994)</small>
+
+En los casos de delito flagrante, cualquier persona puede detener al indiciado poniéndolo sin demora a disposición de la autoridad inmediata y ésta, con la misma prontitud a la del Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 1994)</small>
+
+Sólo en casos urgentes, cuando se trate de delito grave así calificado por la Ley y ante el riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia, siempre y cuando no se pueda ocurrir ante la autoridad judicial por cualquier circunstancia, el Ministerio Público podrá, bajo su responsabilidad, ordenar su detención, fundando y expresando los indicios que motiven su proceder.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 1994)</small>
+
+En casos de urgencia o flagrancia, el Juez que reciba la consignación del detenido deberá inmediatamente ratificar la detención o decretar la libertad con las reservas de Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 1994)</small>
+
+En todo proceso de orden penal, tendrá el inculpado las siguientes garantías:
+
+I.- El derecho a la libertad provisional bajo caución, siempre y cuando se garantice el monto estimado de la reparación del daño que pudiera imponérsele al inculpado y no se trate de delitos en que por su gravedad la Ley expresamente prohiba conceder este beneficio;
+
+II.- No podrá ser obligado a declarar, queda prohibida y será sancionada por la Ley penal, toda incomunicación, intimidación o tortura, la confesión rendida ante cualquier autoridad distinta del Ministerio Público o del Juez, o ante éstos sin la asistencia de su defensor carecerá de todo valor probatorio.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 1994)</small>
+
+En todo proceso penal, la víctima o el ofendido por algún delito, tendrá derecho a recibir asesoría jurídica, a que se le satisfaga la reparación del daño cuando proceda, a coadyuvar con el Ministerio Público, a que se le preste atención médica de urgencia cuando lo requiera, y los demás que señalen las leyes.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 1994)</small>
+
+La entrega de indiciados, procesados o sentenciados, así como el aseguramiento y entrega de objetos, instrumentos y productos del delito, atendiendo a la autoridad de cualquier Entidad Federativa y el Distrito Federal, se realizarán con la intervención de la Procuraduría General de Justicia del Estado, en los términos de los convenios de colaboración que para tal efecto se celebren.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1974,3 +2006,13 @@ P.O. 11 DE SEPTIEMBRE DE 1992.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE AGOSTO DE 1994.
+
+###### ARTICULO PRIMERO.
+
+EL PRESENTE DECRETO ENTRARA EN VIGOR EL CUARTO DIA SIGUIENTE AL DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
+
+###### ARTICULO SEGUNDO.
+
+LO PREVISTO EN LA FRACCION I DEL ARTICULO QUE REFORMA ESTE DECRETO, ENTRARA EN VIGOR EL DIA 3 DE SEPTIEMBRE DE 1994.
