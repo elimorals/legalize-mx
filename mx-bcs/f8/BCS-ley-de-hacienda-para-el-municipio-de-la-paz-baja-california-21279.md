@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-la-paz-baja-california-212
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2003-12-31"
+last_updated: "2004-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE LA PAZ, BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de marzo de 2001.
 
@@ -183,9 +183,11 @@ VI. Los fiduciarios, fideicomitentes y beneficiarios de bienes inmuebles fideico
 
 Es obligación de los sujetos pasivos del impuesto predial, en un plazo de quince días al de su acusación, inscribirse como tales, por escrito, en el registro catastral del lugar donde se ubique el inmueble objeto del gravamen catastral, manifestando las características y valores de los mismos, que éste último requiera.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 19.
 
-Son sujetos por deuda ajena y responsabilidad solidaria, los propietarios de predios que prometidos los hubieran vendido con reserva de dominio. Los sujetos del impuesto deberán exhibir constancia de no existencia de adeudos fiscales, como requisito previo a su solicitud de licencia de construcción, ampliación, demolición, reconstrucción de cualquier clase, lotificación, subdivisión o fusión de predios, deslindes, alineamientos, autorizaciones al uso de suelo, terminación de obra, o al solicitar la licencia para iniciar o refrendar cualquier tipo de giro comercial, turístico o industrial, cual fuera su actividad, así como manifestaciones de contratos de arrendamiento.
+Son sujetos por deuda ajena y responsabilidad solidaria, los propietarios de predios que prometidos los hubieran vendido con reserva de dominio. Los sujetos del impuesto deberán exhibir constancia de no existencia de adeudos fiscales, como requisito previo a su solicitud de licencia de construcción, ampliación, demolición, reconstrucción de cualquier clase, lotificación, subdivisión o fusión de predios, deslindes, alineamientos, autorizaciones al uso de suelo, terminación de obra, certificados de medidas y colindancias, registro de propiedad, registro de planos, o al solicitar la licencia para iniciar o refrendar cualquier tipo de giro comercial, turístico o industrial, cual fuera su actividad, así como manifestaciones de contratos de arrendamiento.
 
 ###### Artículo 20.
 
@@ -383,9 +385,11 @@ Son objeto de este impuesto, los ingresos que se obtengan por concepto de cobro 
 
 Igualmente es objeto de este impuesto, la explotación de billares, boliches, mesas de dominó, y otros juegos de estrado, squash, tenis, balnearios, salones de baile, discotecas, bailes públicos, kermeses, verbenas, ferias, juegos mecánicos, juegos eléctricos, electrónicos, automáticos, tragamonedas, musicales, equipos de sonido y otros similares, así como la realización de cualquiera otra actividad que tienda a proporcionar diversión al público.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 33.
 
-Son sujetos de este impuesto, las personas físicas, personas morales o unidades económicas, que perciban los ingresos por la realización de las actividades a que se refiere el artículo anterior.
+Son sujetos de este impuesto, las personas físicas, personas morales o unidades económicas, que perciban los ingresos por la realización de las actividades a que se refiere el artículo anterior, quienes se sujetarán a lo establecido en lo conducente, por el reglamento de espectáculos públicos y demás disposiciones relativas.
 
 ###### Artículo 34.
 
@@ -1177,7 +1181,11 @@ SERVICIO INDUSTRIAL Y TURÍSTICO
 
 Consumo mensual en metros cúbicos.
 
-Hasta 50M3 (cuota mínima) 10.5 días de salario mínimo
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+Hasta 24 M3 (cuota mínima) 5.0 días de salario mínimo.
+
+Hasta 50 M3 (cuota mínima) 10.5 días de salario mínimo
 
 Hasta 100 M3 24.6 días de salario mínimo.
 
@@ -1341,9 +1349,9 @@ II. Registro de Adopción:
 
 a) En horas hábiles en la oficina. 5 salarios mínimos
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-b) Reconocimientos. 1 salario mínimo.
+b) Reconocimientos. 2 salarios mínimos.
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1355,13 +1363,21 @@ b) En horas hábiles fuera de la oficina. 15 salarios mínimos
 
 c) En horas inhábiles fuera de la oficina. 25 salarios mínimos
 
-d) Registro de matrimonios contraído por extranjeros en horas hábiles en la oficina. 2 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-e) Registro de matrimonios contraídos por extranjeros en horas inhábiles. 20 salarios mínimos
+d) Registro de matrimonios contraído por extranjeros en horas hábiles en la oficina. 6 salarios mínimos
 
-f) Registro de matrimonios contraídos por extranjero con ciudadano mexicano(a), en horas hábiles. 2 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-g) Registro de matrimonios contraídos por extranjero con ciudadano mexicano(a), en horas inhábiles. 20 salarios mínimos
+e) Registro de matrimonios contraídos por extranjeros en horas inhábiles. 30 salarios mínimos
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+f) Registro de matrimonios contraídos por extranjero con ciudadano mexicano(a), en horas hábiles. 6 salarios mínimos
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+g) Registro de matrimonios contraídos por extranjero con ciudadano mexicano(a), en horas inhábiles. 30 salarios mínimos
 
 h) Por asiento de resolución judicial de cambio de régimen matrimonial. 5 salarios mínimos
 
@@ -1383,9 +1399,15 @@ a) Constancia por cada exhumación 4 salarios mínimos.
 
 b) Constancia de reinhumación 4 salarios mínimos
 
-c) Traslado de cadáver o restos áridos dentro del país. 3 salarios mínimos.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+c) Traslado de cadáver o restos áridos dentro del país. 5 salarios mínimos.
 
 d) Traslado de cadáver o restos áridos fuera del País. 8 salarios mínimos
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+e) Traslado de cadáver o restos áridos dentro del Estado. 3 salarios mínimos.
 
 IX. Inhumación c/ incineración de cadáver o de miembro amputado: 3 salarios mínimos
 
@@ -1442,6 +1464,14 @@ c) Construcción de tres gavetas 60 salarios mínimos
 d) Construcción de cuatro gavetas 80 salarios mínimos
 
 e) Construcción de gaveta para infante 10 salarios mínimos
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+f) Sellamiento de fosas y reposición. 7 salarios mínimos.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+h) (sic) Venta de losas para sellamiento. 1 salario mínimo c/u
 
 IV. Fosa común exenta
 
@@ -1539,7 +1569,9 @@ f) Servicios funerarios sin ataúd: con servicio de: Preparación de cuerpo, sal
 
 III. Servicios Adicionales
 
-Servicio funerario sin ataúd, traslado Fuera del Estado 100 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+a) Servicio funerario sin ataúd, Traslado Fuera del Estado 100 salarios mínimos
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
@@ -1554,6 +1586,10 @@ Completa para adulto 100 salarios mínimos
 Por miembro amputado 47 salarios mínimos
 
 Completa para infante 47 salarios mínimos
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+Cremación de restos áridos 76.5 salarios mínimos.
 
 d) Alquiler de nichos por diez años 60 salarios mínimos
 
@@ -1588,6 +1624,40 @@ h) Renta de salas de velación:
 Sala de velación principal por 24 horas. 50 salarios mínimos
 
 Sala de velación por 24 horas. 36 salarios mínimos
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+i) Venta de urnas.
+
+1.- Urna infantil. 8.5 salarios mínimos
+
+2.- Urna mármol 12.5 salarios mínimos
+
+3.- Urna cubo mármol 17 salarios mínimos
+
+4.- Urna alternativa 17 salarios mínimos
+
+5.- Urna de mármol alternativa 21 salarios mínimos
+
+6.- Urna jarquin de mármol 21 salarios mínimos
+
+7.- Urna maple 25.5 salarios mínimos
+
+8.- Urna Metálica 34 salarios mínimos
+
+9.- Urna de columnas 42 salarios mínimos
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+j) Renta de ataúd metálico 25 salarios mínimos
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+k) Renta de nichos por 10 años 60 salarios mínimos
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+l) Ataúd especial 68 salarios mínimos
 
 ### CAPÍTULO X. SERVICIOS DE RASTROS
 
@@ -1634,6 +1704,10 @@ El alineamiento de predios sobre vía pública y la expedición de número ofici
 TARIFA:
 
 Hasta 20 metros lineales. 3 salarios mínimos
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+Por alineamientos que se realicen a solicitud de particulares, fuera de la ciudad de La Paz, se pagará una cuota adicional de 0.25 del salario mínimo por kilómetro cuadrado.
 
 Por metro lineal adicional. 10% del salario mínimo
 
@@ -1764,6 +1838,10 @@ II. Licencia de automovilista (por 3 años) 7 salarios mínimos
 III. Licencia de motociclista (por 3 años) 3.5 salario mínimo
 
 IV. Permisos para conducir a menores:
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+V. Reposición por robo o extravío de licencia: 50 % del costo dentro del primer año de expedición, 30% del costo dentro del segundo o tercer año de expedición.
 
 Jóvenes mayores de 16 y menores De 18 años (máximo 90 días), previo curso de manejo. 2 salarios mínimos
 
@@ -2101,7 +2179,7 @@ VIII. Baile popular. 40 salarios mínimos.
 
 IX. Conciertos musicales masivos. 80 salarios mínimos.
 
-X. Carreras de caballos. 40 salarios mínmos.
+X. Carreras de caballos. 40 salarios mínimos.
 
 XI. Peleas de gallos. 30 salarios mínimos
 
@@ -2503,7 +2581,7 @@ b) Contratos de crédito a los que se refieren los artículos 67 fracción VI y 
 
 c) Estatutos de personas morales extranjeras, de conformidad con lo dispuesto en la Ley General de Sociedades Mercantiles y en la Ley de Inversión Extranjera.
 
-V. Reducción en el pago de derechos por expedición de licencias de construcción a las que se refiere el Capítulo Cuarto del Título Tercero de la presente Ley y en el pago de derechos por conexión a la redes de agua potable y alcantarillado a los que se refieren los artículos 76 y 77 de la presente Ley y demás disposiciones legales aplicables; y
+V. Reducción en el pago de derechos por expedición de licencias de construcción a las que se refiere el Capítulo Cuarto del Título Tercero de la presente Ley y en el pago de derechos por conexión a las redes de agua potable y alcantarillado a los que se refieren los artículos 76 y 77 de la presente Ley y demás disposiciones legales aplicables; y
 
 VI. El acreditamiento del monto total de la adquisición de predios donde el sujeto beneficiario vaya a realizar sus actividades económicas contra el pago de derechos de cooperación que le correspondiera cubrir en la ejecución de obras públicas que realice el Municipio en esos predios, establecidos en el Capítulo Sexto del Título Segundo de la presente Ley.
 
@@ -2632,3 +2710,13 @@ Artículo Único.- El presente decreto entrará en vigor al día siguiente de su
 B.O. 31 DE DICIEMBRE DE 2003.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+P.O. 31 DE DICIEMBRE DE 2004.
+
+###### ARTICULO PRIMERO
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTICULO SEGUNDO
+
+Se derogan todas aquellas disposiciones que se opongan al presente decreto.
