@@ -4,7 +4,7 @@ identifier: "HID-ley-del-sistema-de-transporte-para-el-estado-de-hidalgo-22011"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-06"
-last_updated: "2001-08-06"
+last_updated: "2004-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2004.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el 6 de agosto de 2001.
 
@@ -47,9 +47,11 @@ QUE CONTIENE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social, su observancia es de carácter general y obligatorio en el Territorio del Estado y tiene por objeto regular el sistema de transporte, el registro de vehículos y los servicios que operan en las vías públicas de Jurisdicción Estatal.
+La presente Ley, es de orden público e interés social, su observancia y aplicación es de carácter general y obligatorio en el Territorio del Estado, tiene por objeto registrar, así como regular los servicios de transporte, auxiliares y conexos que operan en las vías públicas de Jurisdicción Estatal.
 
 ###### Artículo 2.
 
@@ -77,13 +79,19 @@ I. CARRETERA.- La vía pública planeada y diseñada técnicamente para comunica
 
 II. CAMINO.- La vía pública que tiene por objeto comunicar a dos o más centros de población rural entre sí o con una ciudad y en el que circulan personas, semovientes y vehículos;
 
-III. VEHÍCULO O UNIDAD.- Todo artefacto diseñado y construido por el hombre, que tenga por objeto el traslado y transporte de personas o bienes;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+III. TRANSPORTE.- El conjunto de operaciones y medios, para trasladar a personas y bienes, a cambio del pago de una remuneración económica;
 
 IV. OPERADOR.- La persona que conduce un vehículo del servicio de transporte;
 
-V. USUARIO.- La persona que hace uso del servicio de transporte en las vías públicas de Jurisdicción Estatal, a cambio del pago de la tarifa;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
 
-VI. CIRCULACIÓN.- La actividad que implica el tránsito de vehículos, que operan el traslado y transporte de personas y bienes en las vías públicas del Estado;
+V. USUARIO.- La persona que utiliza el servicio de transporte en las vías de Jurisdicción Estatal, a cambio del pago de una remuneración económica, prevista en las tarifas previamente autorizadas;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+VI. CIRCULACIÓN.- El movimiento de vehículos que operan para el traslado de personas y de bienes en las vías públicas del Estado;
 
 VII. DERECHO DE VÍA.- La franja de terreno afecta a una vía pública, en ambos lados de la misma, con las medidas determinadas por el reglamento de la autoridad correspondiente;
 
@@ -91,13 +99,17 @@ VIII. INSTITUTO.- Al Instituto Estatal de Transporte;
 
 IX. JUNTA.- A la Junta de Gobierno del Instituto Estatal de Transporte;
 
-X. SECRETARIO EJECUTIVO.- Al Secretario Ejecutivo del Instituto Estatal de Transporte,
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+X. DIRECTOR GENERAL.- Al Director General del Instituto Estatal de Transporte;
 
 XI. SISTEMA DE TRANSPORTE.- El que integran los medios y modos de transporte y los servicios auxiliares y conexos;
 
 XII. SERVICIO DE TRANSPORTE.- El que se presta a través de la concesión o el permiso correspondiente;
 
-XIII. ENROLAMIENTO.- Es la prestación coordinada del servicio colectivo con ruta fija a que quedan sujetos los concesionarios, en cuanto a los intervalos de paso a que estarán obligadas las unidades que cubran un mismo itinerario o derrotero sean o no propiedad de un mismo concesionario;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+XIII. ENROLAMIENTO.- Es la prestación coordinada del servicio colectivo con ruta fija a que quedan sujetos los concesionarios en cuanto a los intervalos de paso a que estarán obligadas las unidades que cubran un mismo itinerario, sean o no propiedad de un mismo concesionario;
 
 XIV. INTERCAMBIO DE EQUIPOS.- Es la rotación de unidades registradas ante el Instituto, para que estas presten servicio indistintamente en las rutas que tiene autorizadas un concesionario; o bien, aquel que se realiza entre automóviles de alquiler de sitio, de acuerdo a esta Ley;
 
@@ -107,9 +119,15 @@ XVI. CONCESIONARIO.- Es la persona física o moral facultada por el Estado para 
 
 XVII. PERMISO.- Es la facultad otorgada por el Estado, por la que se autoriza a una persona física o moral para prestar los servicios de transporte señalados en esta Ley que no sean materia de concesión;
 
-XVIII. EXTINCIÓN DE LA CONCESIÓN.- La facultad del Ejecutivo del Estado, para declarar la extinción de la concesión por haberse cumplido el plazo por el que fue otorgada y
+XVIII. (DEROGADA, P.O. 19 DE ABRIL DE 2004)
 
-XIX. CANCELACIÓN.- La facultad a cargo del Ejecutivo del Estado, mediante la cual se cancela la concesión o permiso.
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+XIX. REVOCACIÓN.- Acto jurídico administrativo por el cual el Director General del Instituto, por acuerdo de la Junta de Gobierno, deja sin efectos la concesión o el permiso y
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+XX. NORMA OFICIAL MEXICANA.- La regulación técnica de observancia obligatoria, expedida por las Dependencias competentes, que tiene como finalidad, establecer reglas, especificaciones, atributos, directrices, características o prescripciones aplicables a un producto, así como aquellas relativas a terminología, simbología, embalaje, marcado o etiquetado y las que se refieren a su cumplimiento o aplicación.
 
 ### CAPÍTULO II. DE LA JURISDICCIÓN Y COMPETENCIA
 
@@ -131,9 +149,11 @@ IV. Las demás que señale esta Ley y otras disposiciones legales aplicables.
 
 ### CAPÍTULO III. DEL INSTITUTO ESTATAL DE TRANSPORTE
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+
 ###### Artículo 7.
 
-Se crea el Instituto Estatal de Transporte, como un Organismo Público Descentralizado de la Administración Pública del Estado de Hidalgo, con personalidad jurídica y patrimonio propios, con domicilio en la Ciudad de Pachuca, Hidalgo y contará con Unidades Administrativas Regionales en el Territorio del Estado.
+Se crea el Instituto Estatal de Transporte, como un Organismo Descentralizado de la Administración Pública del Estado de Hidalgo, con personalidad jurídica y patrimonio propios, con domicilio en la capital del Estado, quien podrá contar con Unidades Administrativas Regionales en el Territorio del Estado.
 
 ###### Artículo 8.
 
@@ -145,7 +165,9 @@ II. Vincular la infraestructura vial, de transporte y servicios conexos al creci
 
 III. Fomentar la investigación en materia de sistemas de vialidad y transporte, así como compilar, divulgar e intercambiar información especializada;
 
-IV. Generar la estadística relacionada con el sistema de transporte e implementar los Registros Estatal de Vehículos y Público de Concesionarios, Permisionarios y Operadores del servicio de transporte;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+IV. Generar la estadística relacionada con el Sistema Estatal del Transporte e implementar el Registro de Concesionarios, Permisionarios y Operadores del Servicio de Transporte;
 
 V. Identificar la demanda de transporte, fincando la explotación del servicio en atención a los principios de orden, crecimiento cuantitativo y cualitativo y a la oferta existente, privilegiando la satisfacción social;
 
@@ -159,9 +181,11 @@ IX. Regular la prestación del servicio de transporte y de los servicios auxilia
 
 X. Planear, determinar y satisfacer las necesidades del servicio público de transporte de la población.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ABRIL DE 2004)</small>
+
 ###### Artículo 9.
 
-Son facultades y obligaciones del Instituto:
+Son atribuciones del Instituto:
 
 I. Normar, implementar y conducir las políticas, planes y programas relativos al desarrollo del sistema de transporte y su explotación;
 
@@ -173,7 +197,9 @@ IV. Promover la participación de los sectores social y privado de la Entidad en
 
 V. Coordinarse con la Federación, los Estados, el Distrito Federal y los Municipios, para el cumplimiento de sus funciones;
 
-VI. Formular y proponer al Gobernador del Estado la celebración de Convenios con los tres niveles de la Administración Pública, tendientes a la planeación, operación y control del sistema de transporte;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+VI. Proponer a la Junta de Gobierno, la celebración de Convenios con los tres niveles de la Administración Pública, tendientes a la planeación, operación y control del Sistema del Transporte Público;
 
 VII. Promover ante el Gobernador del Estado las reformas, adiciones y derogaciones a las leyes de la materia; así como las que estén encaminadas a la homologación de leyes y reglamentos con la Legislación Federal, en materia de transporte, servicios auxiliares y conexos;
 
@@ -189,7 +215,7 @@ XII. Promover las acciones necesarias para que las vialidades peatonales se mant
 
 XIII. Solicitar la información que sea necesaria para el Sistema de Información de Transporte, a las Dependencias y Entidades Estatales que la genere, así como empresas, organizaciones y personas físicas vinculadas con el transporte; las cuales deberán proporcionarla con la periodicidad y en los términos que el Instituto señale;
 
-XIV. Formular los programas que se requieran para el registro de información estadística, relativos al transporte particular y al sistema de transporte;
+XIV. (DEROGADA, P.O. 19 DE ABRIL DE 2004)
 
 XV. Realizar o contratar estudios financieros que determinen las inversiones, costos, tarifas y todas las operaciones relativas al servicio de transporte;
 
@@ -199,9 +225,13 @@ XVII. Vigilar la prestación y operación del servicio de transporte y de los se
 
 XVIII. Diseñar programas de seguridad y prevención de accidentes en carreteras y vialidades dirigidos a operadores, concesionarios y usuarios, coadyuvando en las acciones que lleven a cabo los tres niveles de Gobierno;
 
-XIX. Implementar los requisitos necesarios para la elaboración de placas metálicas de identificación, calcomanías y engomados para los vehículos que se solicite matricular en el Estado; así como expedir las ordenes de pago derivadas de las cantidades que el estado deba percibir por este concepto, a través de las oficinas recaudadoras correspondientes;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
 
-XX. Coordinarse con los Municipios, de conformidad con las leyes de la materia, en la planeación, control y administración del sistema de transporte;
+XIX. Coordinarse con la Secretaría de Finanzas y Administración del Ejecutivo del Estado, para expedir las autorizaciones para el canje de placas;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+XX. De conformidad con las Leyes de la materia, establecer mecanismos de coordinación con los Municipios, a efecto de que éstos colaboren en la planeación del Sistema de Transporte;
 
 XXI. Otorgar las concesiones y permisos materia de esta Ley prefiriendo, en igualdad de condiciones, a los solicitantes que ofrezcan y garanticen el mejor servicio al público usuario, tomando en cuenta la calidad del equipo e instalaciones de servicios auxiliares y conexos;
 
@@ -209,11 +239,15 @@ XXII. Autorizar la renovación de las concesiones y permisos;
 
 XXIII. Autorizar la transferencia de las concesiones;
 
-XXIV. Establecer y en su caso, modificar las ubicaciones, modalidades, número de unidades, los derroteros de las rutas y los emplazamientos de los sitios que operen o estén situados en las vías de Jurisdicción Estatal, previo el dictamen técnico correspondiente;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
 
-XXV. Revocar o cancelar las concesiones conferidas, en los términos del capítulo respectivo de esta Ley;
+XXIV. Establecer y en su caso, modificar las ubicaciones, modalidades, número de unidades, los itinerarios de las rutas y los emplazamientos de los sitios que operen o estén situados en las vías de Jurisdicción Estatal, previo el dictamen técnico correspondiente;
 
-XXVI. Revocar o cancelar los permisos conferidos, en términos del capítulo respectivo de esta Ley;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+XXV. Revocar las concesiones y permisos otorgados, en los términos de esta Ley;
+
+XXVI. (DEROGADA, P.O. 19 DE ABRIL DE 2004)
 
 XXVII. Determinar, de acuerdo con las necesidades de las Regiones de la Entidad, el número y la extensión de las rutas en que estarán divididos los caminos de Jurisdicción Estatal; así como la clase o clases de servicio y el número de unidades que en cada ruta deberán operar;
 
@@ -229,7 +263,9 @@ La administración del Instituto estará a cargo de:
 
 I. La Junta de Gobierno y
 
-II. El Secretario Ejecutivo.
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+II. El Director General.
 
 ###### Artículo 11.
 
@@ -267,9 +303,11 @@ Los acuerdos tomados en las sesiones serán válidos, cuando en ellas se encuent
 
 Se podrán integrar a la Junta de Gobierno, con voz pero sin voto, previa invitación, los representantes de las Dependencias Federales, Estatales o Municipales, cuando se trate algún asunto en el que por su competencia deban participar.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+
 ###### Artículo 13.
 
-Para efectos del funcionamiento del Instituto, la Junta podrá acordar la realización de todas las acciones inherentes a su objeto, con base en los lineamientos y prioridades que establezca el Plan Estatal de Desarrollo, los Programas Sectoriales e Institucionales y las disposiciones legales aplicables; asimismo, podrá delegar sus facultades en el Secretario Ejecutivo, mediante los acuerdos respectivos.
+Para efectos del funcionamiento del Instituto, la Junta podrá acordar la realización de todas las acciones inherentes a su objeto, con base en los lineamientos y prioridades que establezca el Plan Estatal de Desarrollo, los Programas Sectoriales e Institucionales y las disposiciones legales aplicables; asimismo podrá delegar sus facultades en el Director General, mediante los Acuerdos respectivos.
 
 ###### Artículo 14.
 
@@ -291,19 +329,27 @@ VII. Nombrar y remover a propuesta del Secretario Ejecutivo, a los servidores p�
 
 VIII. Vigilar la estricta observancia de las bases para la adquisición, arrendamiento y enajenación de bienes muebles e inmuebles que el Instituto requiera para la prestación de sus servicios, en los términos de las leyes aplicables;
 
-IX. Analizar y aprobar, en su caso, los informes anuales que rinda el Secretario Ejecutivo, con la intervención que corresponda al Comisario;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+IX. Analizar y aprobar, en su caso, los Informes Anuales que rinda el Director General, con la intervención que corresponda a la Secretaría de Contraloría;
 
 X. Fijar y ajustar las tarifas relacionadas con los servicios que produzca o preste el Instituto; así como, determinar el monto a recaudar por concepto de derechos, con excepción de aquellos que se determinen por acuerdo del Gobernador del Estado;
 
 XI. Aprobar la constitución de reservas de los excedentes económicos del Instituto y proponer al Gobernador del Estado su aplicación;
 
-XII. Aprobar el programa estatal para el desarrollo integral del transporte, que deberá proponerle el Secretario Ejecutivo;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+XII. Aprobar el Programa Estatal para el Desarrollo Integral de Transporte, que deberá proponerle el Director General;
 
 XIII. Acordar la apertura de plazas para otorgar concesiones relacionadas con la prestación del servicio de transporte, en cualquiera de sus modalidades; así como, determinar el cierre de las mismas cuando los estudios determinen que en algún Municipio del Estado, el número de concesiones existentes es suficiente para cubrir las necesidades de movilidad de la población;
 
-XIV. Acordar la suspensión del otorgamiento de permisos para el servicio privado, complementario y los servicios conexos;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
 
-XV. Turnar al Ejecutivo las propuestas para el otorgamiento de concesiones y permisos, cuando a su juicio sea procedente que de (sic) emita y siempre que se haya cumplido con las formalidades esenciales del procedimiento aplicable a cada caso; para que, de ser aprobadas por el Gobernador del Estado, proceda a emitir los títulos de concesión y las autorizaciones relativas a la prestación del servicio público de transporte en cualquiera de sus modalidades, así como los títulos relativos a los servicios privado, complementario y los servicios conexos;
+XIV. Acordar la suspensión del otorgamiento de concesiones y permisos, para el servicio público y los servicios conexos;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+XV. Acordar con el Ejecutivo del Estado, la emisión de títulos de las concesiones o permisos relativos al Sistema de Transporte, cuando se satisfagan los requisitos exigidos por esta Ley y su Reglamento y
 
 XVI. Establecer las bases para la celebración de los concursos relacionados con el servicio público de transporte, considerando la infraestructura vial, la demanda de transporte, el nivel económico de la zona, las características de los centros generadores y las de los centros atractores de viajes;
 
@@ -315,9 +361,11 @@ XIX. Autorizar la contratación de servicios de consultoría externa, para la el
 
 XX. Las demás que le otorgue esta Ley y demás ordenamientos legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ABRIL DE 2004)</small>
+
 ###### Artículo 15.
 
-El Secretario Ejecutivo del Instituto será designado por el Gobernador Constitucional del Estado y tendrá las facultades y obligaciones siguientes:
+El Director General, será designado por el Gobernador Constitucional del Estado y tendrá las atribuciones siguientes:
 
 I. Administrar y representar legalmente al Instituto y llevar a cabo todos los actos jurídicos necesarios para el cumplimiento de su objeto, de conformidad con los lineamientos que establezca la Junta;
 
@@ -351,9 +399,13 @@ XV. Dar seguimiento a las políticas y formular los programas para la organizaci
 
 XVI. Implementar las acciones necesarias para la vigilancia y el debido cumplimiento de la prestación del servicio de transporte y los servicios auxiliares y conexos;
 
-XVII. Tramitar la renovación, transferencia, modificación, cancelación o revocación de las concesiones materia de esta Ley, sancionando los documentos respectivos;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
 
-XVIII. Tramitar la renovación, modificación, cancelación o revocación de los permisos materia de esta Ley, sancionando los documentos respectivos;
+XVII. Tramitar la renovación, transferencia, modificación y revocación de concesiones materia de esta Ley, emitiendo las resoluciones respectivas;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+XVIII. Tramitar la renovación, modificación y revocación de los permisos materia de esta Ley, emitiendo las resoluciones respectivas y
 
 XIX. Proponer a la Junta de Gobierno los criterios aplicables para el otorgamiento de concesiones y permisos;
 
@@ -415,155 +467,93 @@ El Comisario evaluará el desempeño global y por áreas específicas del Instit
 
 Las relaciones de trabajo entre el Instituto y su personal se regirán por la Ley de los Trabajadores al Servicio de los Gobiernos Estatal y Municipales, así como de los Organismos Descentralizados del Estado de Hidalgo.
 
-### CAPÍTULO IV. DEL REGISTRO DE LOS VEHÍCULOS PARA SU CIRCULACIÓN EN LAS VÍAS PÚBLICAS ESTATALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE ABRIL DE 2004)</small>
+
+### CAPÍTULO IV. DEL REGISTRO DE VEHÍCULOS DEL SERVICIO DE TRANSPORTE PARA SU CIRCULACIÓN EN LAS VÍAS PUBLICAS ESTATALES
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 21.
 
-Independientemente de lo que dispongan otros ordenamientos, para que un vehículo pueda circular en las vías públicas de Jurisdicción Estatal, debe estar inscrito y ser matriculado por el Instituto.
+Todo vehículo destinado al servicio de transporte, debe contar con póliza vigente de seguro o su equivalente, la cual deberá ser suficiente para amparar la cobertura de daños a terceros, al operador, los usuarios y/o la carga que transporta de acuerdo a la modalidad que se traten la reparación de daños al medio ambiente y la ecología.
 
-En el Estado de Hidalgo podrán circular unidades que hayan sido matriculadas en otras Entidades, siempre que las mismas no contravengan disposiciones de orden público.
-
-Todo vehículo destinado al servicio de transporte debe contar con póliza vigente de seguro o su equivalente, la cual deberá ser suficiente y amparar la cobertura de daños a terceros, al operador, los usuarios y/o la carga que transporten; considerando, de acuerdo a la modalidad de que se trate, la reparación de daños al medio ambiente y la ecología.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 22.
 
-Para los efectos de esta Ley, los vehículos se clasifican:
+Para los efectos de esta Ley, son vehículos del servicio de transporte, los autorizados para el traslado de personas y de bienes, previa concesión o permiso emitido por el Instituto.
 
-Por el uso al que se destinan en:
-
-I. PARTICULARES: Son aquellos cuyos propietarios emplean para el traslado de personas y transporte de bienes, por los cuales no se genera lucro, actos de comercio o intercambio de servicios.
-
-II. DEL SERVICIO DE TRANSPORTE: Que tienen por objeto la satisfacción de la demanda para el traslado de personas y el transporte de bienes; previa concesión o permiso emitido por el Instituto y
-
-III. DE SERVICIO OFICIAL: En este servicio quedan comprendidos los que el Gobierno del Estado y los Gobiernos Municipales destinan al cumplimiento de sus fines; en todo caso, se identificarán con las matrículas de serie especial que se determinen.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 23.
 
 El registro de vehículos se solicitará ante el Instituto, mediante el llenado y presentación del formato oficial.
 
-Dicho registro conlleva la asignación de las placas, del engomado de la unidad y la tarjeta de circulación, que serán para uso individual, intransferible y exclusivo del vehículo.
+El registro queda sujeto al cumplimiento de los requisitos respectivos y al pago de derechos.
 
-El otorgamiento de placas queda sujeto al pago de los derechos respectivos y a que el solicitante no adeude al Erario Público cantidad alguna, por la comisión de infracciones relativas a esta Ley o a las leyes de tránsito.
+El otorgamiento de placas, queda sujeto al pago de los derechos respectivos y a que el solicitante no adeude al Erario Público cantidad alguna, por la comisión de infracciones relativas a esta Ley.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 24.
 
-Los formatos a que alude el Artículo anterior contendrán, los siguientes datos:
-
-I. Nombre completo o razón social del propietario;
-
-II. Registro federal de contribuyentes;
-
-III. Domicilio del propietario, especificando colonia y código postal;
-
-IV. Datos del vehículo, comprendiendo marca, tipo, modelo, número de motor, número de serie, capacidad, tipo de combustible y servicio al que se destina;
-
-V. Número de las placas de circulación;
-
-VI. Especificación del trámite de alta, baja o cambio de propietario;
-
-VII. Lugar, fecha y espacio para la firma del propietario o representante legal y
-
-VIII. Los demás que señale el Instituto.
+El formato a que alude el Artículo anterior, será proporcionado por el Instituto, con los requisitos que al efecto establezca el Reglamento.
 
 ###### Artículo 25.
 
-El propietario deberá presentar el formato de solicitud de alta, modificación o baja junto con el original y copias de la documentación que a continuación se señala:
+(DEROGADO, P.O. 19 DE ABRIL DE 2004)
 
-I. Factura del vehículo la cual, en su caso, debe ostentar debidamente inserta la cesión de derechos;
-
-II. Comprobante de pago del impuesto sobre tenencia de vehículos del último ejercicio fiscal;
-
-III. Tarjeta de circulación, en su caso;
-
-IV. Constancia de revista, si se trata de vehículos del servicio de transporte;
-
-V. De la autorización respectiva, emitida por autoridad competente, cuando se trate de vehículos que se ocupen para la carga o el transporte de materiales, materias, sustancias y residuos peligrosos o tóxicos;
-
-VI. De la autorización respectiva, emitida por autoridad competente, cuando se trate de vehículos que ocupen para la combustión interna de sus motores cualquier sustancia distinta a la gasolina o el diesel;
-
-VII. De la constancia expedida por la autoridad competente, con la que se demuestre que el vehículo de procedencia extranjera que se desea dar de alta, tiene legal permanencia en el País;
-
-VIII. Comprobante de domicilio e identificación oficial vigente con fotografía y firma;
-
-IX. Cuando se trate de vehículos provenientes de otras entidades de la República deberán exhibirse, cuando menos, los dos últimos recibos que acrediten el entero de los derechos de control vehicular y el pago del impuesto sobre uso y tenencia de automóviles y
-
-X. En su caso, hacer entrega de las placas respectivas, cuando se trate de una baja o canje.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 26.
 
-Todo propietario de un vehículo que haya sido inscrito en el registro, tiene la obligación de manifestar ante el Instituto el cambio de su domicilio.
+Cuando el concesionario o permisionario del servicio de transporte cambie de domicilio, tendrá la obligación de manifestarlo al Instituto, dentro de los quince días siguientes a que esto ocurra.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 27.
 
-Toda persona que adquiera un vehículo inscrito en el Estado de Hidalgo, tiene la obligación de efectuar el cambio de propietario, en un plazo no mayor de treinta días, computados a partir del hecho; en este supuesto deberá efectuar el pago de los derechos respectivos.
+Las personas que tengan autorizado y registrado un vehículo para la prestación de servicio de transporte y lo enajene, deberá hacerlo del conocimiento del Instituto dentro de los diez días hábiles siguientes.
 
-En caso de incumplimiento será motivo del pago de una multa por el importe de dos días de salario mínimo vigente en el Estado, más el de los derechos respectivos al propio trámite.
+El incumplimiento será motivo del pago de una multa por el importe de diez días de salario mínimo vigente en el Estado, más el de los derechos respectivos al propio trámite.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 28.
 
-La sustitución del chasis o del motor de un vehículo, deberá notificarse en un plazo de treinta días, contados a partir de la fecha en que esto suceda; a efecto de que el Instituto expida una nueva tarjeta de circulación.
+La situación del chasis o del motor de un vehículo de servicio de transporte, deberá notificarse al Instituto para su registro, dentro de los treinta días contados a partir de que esto suceda, a efecto de que se realice la inspección vehicular y se autorice la expedición de la nueva tarjeta de circulación.
 
-Los propietarios de vehículos particulares están obligados al cumplimiento de esta disposición; en caso contrario, se les sancionará con una multa equivalente al importe de un día de salario mínimo vigente en la Entidad, más el pago de los derechos respectivos al propio trámite.
+Los propietarios de los vehículos de servicio de transporte, están obligados al cumplimiento de esta disposición; en caso contrario, se le sancionará con una multa equivalente al importe de cinco días de salario mínimo vigente en el Estado.
 
-Toda modificación realizada para utilizar un combustible distinto a la gasolina o el diesel, sin contar con la autorización correspondiente, será sancionada mediante la imposición de una multa equivalente al importe de treinta días de salario mínimo vigente en la Entidad.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 29.
 
-Se exceptúan de la inscripción o alta en el registro del Instituto los vehículos de propulsión o tracción humana que se asemejen a los siguientes:
+No será permitida la prestación del servicio de transporte, en vehículos que no reúnan las características y especificaciones de funcionalidad, seguridad, comodidad e higiene que previo dictamen técnico determine el Instituto.
 
-a) Las bicicletas y triciclos cuando sean de tracción humana y
-
-b) Los carros de mano destinados al expendio de alimentos preparados o naturales en la vía pública, siempre que éstos no excedan los 2.5 metros de largo y 1.5 metros de ancho; los diablitos, carretillas vehículos tirados por semovientes destinados al acarreo o transporte de productos del campo, los vehículos destinados a competencias deportivas, siempre que vayan montados en un remolque y los tractores y demás implementos agrícolas que a éstos se les añadan para las labores del campo.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 30.
 
-La tarjeta de circulación contendrá:
+La tarjeta de circulación de los vehículos del servicio de transporte tendrán insertas además de las especificaciones que determine la Norma Oficial Mexicana, las que proponga el Instituto.
 
-I. Nombre completo o razón social del propietario;
-
-II. Domicilio del propietario, señalando colonia, código postal y en su caso, número telefónico;
-
-III. Tipo de servicio;
-
-IV. Las placas del vehículo;
-
-V. Marca y tipo del vehículo;
-
-VI. Número de serie;
-
-VII. Número de motor;
-
-VIII. Servicio al que se destina;
-
-IX. Número económico, sitio o ruta asignada y número de concesión o permiso, en caso de que se trate de un vehículo de servicio de transporte;
-
-X. Capacidad en ocupantes y peso bruto vehicular autorizado;
-
-XI. Tipo de combustible que consume;
-
-XII. Número de folio;
-
-XIII. Fecha de expedición y sello del Instituto;
-
-XIV. Fecha de expiración de la propia tarjeta y
-
-XV. Lugar de expedición.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 31.
 
-Las placas de circulación serán troqueladas y contendrán el número, las abreviaturas de la Entidad y de la palabra México; igualmente, detentarán el distintivo que señale la Dependencia correspondiente del Gobierno Federal y tendrán el color que se designe para el período de su vigencia.
+Las placas de circulación de los vehículos del servicio de transporte, contarán con características y especificaciones técnicas que al efecto determinen la Secretaría de Finanzas y Administración conjuntamente con el Instituto, en apego a las disposiciones de la Norma Oficial Mexicana.
 
-Las placas de los vehículos de servicio particular y del servicio de transporte detentarán las características que determine el Instituto.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 32.
 
-Los engomados contendrán los mismos datos de las placas y éstos deberán coincidir con la tarjeta de circulación y ostentar el año de su vigencia, el emblema del Gobierno del Estado y la Leyenda Hidalgo.
+Los engomados contendrán los mismos datos de las placas y éstos deberán coincidir con los de la tarjeta de circulación, sus especificaciones deberán ser de conformidad con la Norma Oficial Mexicana.
 
-Las características básicas que se han señalado son de carácter enunciativo y quedan sujetas a las especificaciones, modificaciones y temporalidades que establezca el Instituto, en concordancia con la norma oficial mexicana del rubro.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 33.
 
-Si los propietarios de los vehículos llegaren a extraviar o les fuere robado cualquiera de los objetos o documentos descritos en los Artículos anteriores, podrán solicitar la reposición de los mismos al Instituto; para ello, será indispensable que presenten los documentos y cumplan con los requisitos que a continuación se detallan:
+Si extraviasen o les fueren robadas las placas, el engomado o la tarjeta de circulación, los concesionarios o permisionarios del servicio de transporte, deberán dar aviso y solicitar al Instituto, la autorización para la reposición correspondiente ante la Secretaría de Finanzas; para ello será indispensable que cumplan con los siguientes requisitos:
 
 I. Solicitud por escrito en el formato respectivo;
 
@@ -577,25 +567,27 @@ V. Los originales de las constancias de no infracción que expidan las Autoridad
 
 VI. El comprobante del pago de derechos que se generen por reposición.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+
 ###### Artículo 34.
 
-Se concede a los propietarios de vehículos nuevos que vayan a ser inscritos en el Registro Estatal, un plazo de treinta días naturales para la formalización del hecho; durante ese lapso podrán circular por las vías públicas de Jurisdicción Estatal sin tarjeta de circulación, sin placas y sin engomado. Para ello, deberán ostentar en sus unidades el permiso provisional para circular que les extienda el Instituto, mismo que no excederá del plazo previamente señalado.
-
-Si el propietario no realiza el registro de la unidad dentro de los treinta días concedidos en el permiso o bien lo hace una vez caducados los efectos del mismo, se le impondrá una multa equivalente a dos días de salario mínimo vigente en la Entidad.
+Ningún vehículo del servicio de transporte, podrá circular sin placas o con una sola de ellas.
 
 ###### Artículo 35.
 
-Previo pago de los derechos correspondientes, se otorgará a las agencias expendedoras de vehículos, placas de demostración a efecto de que se puedan trasladar dentro del Territorio del Estado.
+(DEROGADO, P.O. 19 DE ABRIL DE 2004)
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 36.
 
-El Instituto proporcionará a las autoridades y dependencias que se lo soliciten información de los vehículos inscritos en el registro a su cargo; la información considerará los cambios, modificaciones o incidencias que el mismo observe.
+la información contenida en el Registro del Instituto, podrá ser proporcionada a las Autoridades competentes, cuando así lo soliciten en el cumplimiento de sus funciones.
 
-El Instituto proporcionará información del registro a los particulares que se lo soliciten, previo pago de los derechos respectivos, equivalentes al importe de medio día de salario mínimo vigente en el Estado.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 37.
 
-Las placas de circulación de los vehículos, se fijarán únicamente en la unidad autorizada; su colocación debe permitir la lectura normal e inmediata de las mismas y además:
+Las placas de circulación de los vehículos del servicio de transporte, se fijarán únicamente en la unidad autorizada; su colocación debe permitir su observación normal e inmediata de las mismas y además:
 
 I. Queda prohibido colocar en sus inmediaciones objetos o dispositivos que imposibiliten o dificulten su correcta apreciación a la vista;
 
@@ -605,13 +597,13 @@ III. Queda prohibido imponer en un vehículo placas de circulación que no sean 
 
 IV. Los engomados y las calcomanías fiscales deben colocarse en el medallón de las unidades, a modo de que permitan su fácil lectura y en forma que no obstruyan la visibilidad del conductor.
 
-Cualquier prestador del servicio de transporte que sea intervenido y se le sorprenda utilizando las placas asignadas a un vehículo distinto, será sancionado en términos de esta Ley; independientemente de lo anterior, le serán retiradas las placas y no podrá continuar con el servicio.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+
+Cualquier prestador del servicio de transporte que sea sorprendido utilizando las placas asignadas a un vehículo distinto, será sancionado en términos de esta Ley; independientemente de lo anterior, le serán retiradas las placas y no podrá continuar con el servicio.
 
 ###### Artículo 38.
 
-El canje de placas, la entrega de tarjetas de circulación y de engomados, se ajustará a las disposiciones y periodicidad que determine el Instituto.
-
-A las personas que no cumplan oportunamente con la realización del canje de placas o el pago de derechos de control vehicular, se les impondrá el pago de una multa por el importe de cinco días de salario mínimo; independientemente del pago de los derechos, recargos y actualizaciones correspondientes.
+(DEROGADO, P.O. 19 DE ABRIL DE 2004)
 
 ### CAPÍTULO V. DEL SERVICIO DE TRANSPORTE
 
@@ -621,9 +613,11 @@ Es facultad del Gobernador del Estado otorgar concesiones para la prestación de
 
 Las concesiones se concederán a las personas que cumplan previamente con las formalidades y requisitos establecidos en este ordenamiento y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+
 ###### Artículo 40.
 
-Las concesiones facultan a su titular para explotar las vías públicas de Jurisdicción Estatal, señalándole obligaciones específicas y se supeditan a la facultad de revocación, cancelación o modificación que puede ejercer el Instituto en los casos señalados en esta Ley.
+Las concesiones y permisos facultan a su Titular, para utilizar las vías públicas de Jurisdicción Estatal, imponiéndole condiciones especificas a la modalidad del servicio de que se trate y se supeditan a los supuestos de cancelación o modificación que pueda ejercer el Instituto en los casos señalados en esta Ley.
 
 ###### Artículo 41.
 
@@ -633,21 +627,23 @@ Los permisos se otorgarán a las personas que cumplan previamente con las formal
 
 ###### Artículo 42.
 
-Los permisos facultan a su titular para utilizar las vías públicas de Jurisdicción Estatal, imponiéndole condiciones específicas a la modalidad del servicio de que se trate y se supeditan a la facultad de revocación, cancelación o modificación que puede ejercer el Instituto en los casos señalados en esta ley.
+(DEROGADO, P.O. 19 DE ABRIL DE 2004)
 
-Los dictámenes técnicos que emita el Instituto, determinarán el número de permisos que se otorgarán a los solicitantes.
-
-El servicio de transporte privado y el complementario lo prestarán las personas permisionadas.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 43.
 
-Toda concesión, permiso o autorización relativa al transporte otorgada por servidores públicos que carezcan de competencia para ello; o bien que perjudiquen el interés público y/o que sean emitidas en contravención a lo dispuesto por esta Ley y demás disposiciones aplicables, son nulos de pleno derecho y se denunciará el hecho ante el Ministerio Público.
+Toda concesión y permiso a que se refiere la presente Ley, que sea otorgada por quien carezca de facultad para ello o que sea emitida en contravención a lo dispuesto por este ordenamiento y demás disposiciones aplicables, será declarada nula de pleno derecho.
+
+En caso de resoluciones o títulos que consignen el otorgamiento de concesiones o permisos para presentar el servicio de transporte en cualesquiera de sus modalidades, que se encuentren alterados, duplicados o falsificados total o parcialmente, serán declarados inexistentes, se cancelará su registro y se denunciará el hecho ante el Ministerio Público.
 
 ### CAPÍTULO VI. DE LAS MODALIDADES DEL SERVICIO DE TRANSPORTE
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+
 ###### Artículo 44.
 
-El servicio de transporte de pasajeros y bienes se clasifica en público, privado y complementario.
+El servicio de transporte de personas y bienes, se clasifica en público y privado y se prestará previo el otorgamiento de la concesión o permiso que emita el Instituto en términos de esta Ley.
 
 ###### Artículo 45.
 
@@ -661,7 +657,9 @@ Para que las personas físicas o morales puedan llevar a cabo la prestación del
 
 El servicio público de transporte de pasajeros tendrá las modalidades siguientes:
 
-A) Colectivo con ruta fija: Es todo aquel que sigue un itinerario o derrotero urbano, suburbano, interurbano y rural y que se presta en unidades con capacidad de 8 o más pasajeros.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ABRIL DE 2004)</small>
+
+A) Colectivo con ruta fija: Es todo aquél que sigue un itinerario urbano, suburbano, interurbano o rural, que se presta en unidades con capacidad de ocho o más pasajeros.
 
 Este se subdivide en:
 
@@ -687,33 +685,41 @@ Tomando en consideración el emplazamiento de los sitios, en las zonas urbanas y
 
 Este servicio se subdivide en:
 
-1. Individual de Sitio: Es aquel que se ubica en el punto específicamente predeterminado y autorizado de un centro generador de viajes y traslada al usuario desde ese mismo lugar al punto que le señala; hecho lo anterior, debe regresar vacío a su sitio.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
-Para la prestación de este servicio se autorizarán únicamente unidades tipo sedan de 2 o 4 puertas con capacidad máxima de 5 ocupantes; o en su caso, unidades tipo vagoneta de 5 puertas, con capacidad hasta de 5 ocupantes.
+1. Individual de sitio: Es aquél que se ubica en el punto específicamente predeterminado y autorizado de un centro generador de viajes y traslada al usuario desde ese mismo lugar al punto que le solicite; hecho lo anterior, debe regresar vacío a su sitio.
 
-2. Individual libre: Es el automóvil de alquiler específicamente autorizado por el Instituto, que no tiene sitio y que circula sin derrotero o rumbo fijo dentro de los límites de la zona o lugar autorizado; trasladando al usuario al punto o puntos que éste señala.
+Para la prestación de este servicio, se autorizarán únicamente unidades tipo sedan de cuatro puertas, con capacidad máxima de cinco ocupantes o unidades tipo vagoneta de cinco puertas, con capacidad hasta de cinco ocupantes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ABRIL DE 2004)</small>
+
+2. Individual libre: Es el automóvil de alquiler específicamente autorizado por el Instituto, que no tiene sitio y que circula sin itinerario o rumbo fijo dentro de los límites de la zona o lugar autorizado; trasladando al usuario al punto o puntos que éste solicite.
 
 En el caso de viajes que tengan como destino una zona distinta, deberá dejar el pasaje en el lugar de que se trate y regresar vacío a la zona de operación concesionada.
 
-Para la prestación de este servicio se autorizarán unidades tipo sedan de 2 o 4 puertas, con capacidad máxima de 5 ocupantes; o unidades tipo vagoneta de 5 puertas, con capacidad hasta de 5 ocupantes.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
-3. Radiotaxi: Es el automóvil de alquiler específicamente autorizado por el Instituto, que el usuario contrata telefónicamente y se despacha mediante servicios de radio, trasladando al usuario al punto o puntos que le señala; éste no tiene sitio y circula sin derrotero o rumbo fijo dentro de los límites de la zona o lugar autorizado.
+Para la prestación de este servicio, se autorizarán unidades tipo sedán de cuatro puertas, con capacidad máxima de cinco ocupantes o unidades tipo vagoneta de cinco puertas, con capacidad hasta de cinco ocupantes.
 
-Para la prestación de este servicio se autorizarán unidades tipo sedán de 2 o 4 puertas, con capacidad máxima de 5 ocupantes; o unidades tipo vagoneta de 5 puertas, con capacidad hasta de 5 ocupantes.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
-C) Transporte confinado y semiconfinado: Es aquel que está compuesto por los modos de transporte que operan en vialidades reservadas o con derecho de vía exclusivo. El Instituto determinará las reglas de operación y el tipo de vehículo con que se prestará.
+3. Radio Taxi: Es el automóvil de alquiler específicamente autorizado por el Instituto, que el usuario contrata telefónicamente y se despacha mediante servicios de radio, trasladando al usuario al punto o puntos que le señala; éste no tiene sitio y circula sin itinerario o rumbo fijo dentro de los límites de la zona o lugar autorizado.
 
-D) Transporte lacustre y fluvial: Es aquel que se presta sobre la superficie de los cuerpos de agua, que sean de Jurisdicción Estatal. El Instituto determinará el tipo de vehículos y las reglas de operación a que deberá sujetarse.
+Para la prestación de este servicio, se autorizarán unidades tipo sedán de cuatro puertas, con capacidad máxima de cinco ocupantes o unidades tipo vagoneta de cinco puertas, con capacidad hasta de cinco ocupantes.
+
+C) (DEROGADO, P.O. 19 DE ABRIL DE 2004)
+
+D) (DEROGADO, P.O. 19 DE ABRIL DE 2004)
 
 ###### Artículo 47.
 
-El servicio público de transporte de bienes se limita al transporte de Agua Potable en Pipa, el cual es el que realizan los concesionarios para satisfacer la necesidad social del ramo y que se efectúa en vehículos especializados.
+(DEROGADO, P.O. 19 DE ABRIL DE 2004)
 
-Su ubicación y tarifas dependerán de los estudios técnicos que emita el Instituto, de la opinión de la Comisión Estatal del Agua y Alcantarillado y de los Servicios Públicos de Salud de Hidalgo.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 48.
 
-El servicio privado es el destinado al traslado de estudiantes, turistas, empleados o enfermos que están directamente vinculados con la actividad de las personas que lo realizan, previo permiso del Instituto y se divide en:
+Para la prestación de los siguientes servicios, se requerirá de permiso otorgado por el Instituto Estatal de Transporte:
 
 A) Escolar: Es el servicio que los centros educativos asentados en el Territorio del Estado ofrecen a su núcleo estudiantil y que realizan directamente en vehículos de su propiedad, para la recolección y traslado de los alumnos inscritos en su centro educativo.
 
@@ -723,6 +729,18 @@ Este servicio comprenden (sic):
 
 2. De educación Especial: Es el que se destina al traslado de alumnos discapacitados o de centros de educación especial. El reglamento determinará las características de operación, el tipo de vehículo y las medidas de seguridad a que estarán sujetos.
 
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2004)</small>
+
+En este tipo de servicio, los usuarios en contraprestación al traslado, realizan el pago de la tarifa previamente autorizada por el Instituto.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2004)</small>
+
+El otorgamiento de permisos para este tipo de servicio, quedará exento de pago, cuando el solicitante sea una Institución Educativa que no perciba remuneración alguna, por dicho servicio.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2004)</small>
+
+El Reglamento determinará las características de operación, el tipo de vehículo y las medidas de seguridad a que estarán sujetos.
+
 B) Empleados: Es el que realizan directamente los Empresarios o Sindicatos asentados en el Territorio del Estado, en vehículos de su propiedad, como prestación a sus trabajadores o agremiados, para la recolección y traslado de los mismos desde los centros de población hasta las instalaciones de las empresas. Este tipo de transporte sigue la ruta asignada, en los horarios e intervalos que se manifiestan a la autoridad.
 
 C) Turístico: Es el que ofrecen directamente los propietarios de dichos giros comerciales a los paseantes, en vehículos de su propiedad, como parte de sus paquetes o promociones.
@@ -731,27 +749,15 @@ Dicho servicio, atendiendo a su operación y tipo de vehículo, se clasificará 
 
 D) Hospitalario: Es el que los centros hospitalarios, asistenciales o laboratorios realizan en vehículos de su propiedad, los cuales destinan para el traslado de sus pacientes; este servicio se presta en vehículos especiales, que deberán contar con personal capacitado para el servicio al que se destina y con los aditamentos y adaptaciones necesarias.
 
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2004)</small>
+
+El otorgamiento de permisos para la prestación del servicio hospitalario, a que se refiere el inciso anterior, quedará exento de pago, cuando el solicitante sea una Institución Pública o de interés público, que no perciba remuneración alguna por dicho servicio.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+
 ###### Artículo 49.
 
-El servicio complementario comprende el traslado de personas o bienes a través de un tercero, destinados a una actividad industrial, comercial, educativa o turística.
-
-Para que las personas físicas o morales puedan ejecutar este servicio requieren de contar con permiso previo del Instituto.
-
-Este servicio comprende:
-
-I. Transporte Complementario de carga:
-
-a) Materiales para la industria de la construcción y minerales a granel, cuya tarifa será homóloga a la que emita la Secretaría de Comunicaciones y Transportes del Gobierno Federal;
-
-b) Agua no potable, cuya tarifa será homóloga a la que emita la Secretaría de Comunicaciones y Transportes del Gobierno Federal;
-
-c) Arrastre y salvamento;
-
-d) Carga ligera y
-
-e) Valores y/o Mensajería.
-
-II. Transporte Complementario de Personas:
+Requieren de contar con permiso previo del Instituto, las personas físicas o morales que pretendan efectuar los siguientes servicios de transporte:
 
 a) De empleados;
 
@@ -759,19 +765,31 @@ b) De escolares;
 
 c) Turístico;
 
-d) Hospitalario y
+d) Hospitalario;
 
-e) Servicios funerarios.
+e) Servicios Funerarios;
 
-Lo previsto en las dos fracciones que anteceden, se sujetará a las disposiciones reglamentarias y técnicas que determine el Instituto.
+f) Materiales para la industria de la construcción y minerales a granel, agua potable y no potable en pipa, cuya tarifa será homologada a la que emita la Secretaría de Comunicaciones y Transportes del Gobierno Federal;
+
+g) Arrastre y salvamento;
+
+h) Carga Ligera e
+
+i) Valores y mensajería.
+
+Los servicios señalados en los incisos a) a, d), son los que se podrán prestar a través de un tercero.
 
 ###### Artículo 50.
 
 A cargo del Instituto estará la elaboración de los dictámenes técnicos, que determinarán la viabilidad de otorgar permisos para cualquiera de los servicios anteriormente referidos; los estudios precisarán las condiciones de operación y las reglas generales a que quedará sujeta la ubicación y la prestación.
 
-Los vehículos del servicio privado y complementario no podrán utilizar la vía pública para ofrecer y contratar los servicios que presten; aunado a lo anterior, deben ostentar la leyenda, según el caso, de "Transporte Privado" o "Transporte Complementario", la modalidad, uso y el nombre o razón social de la empresa a que corresponden.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
-### CAPÍTULO VII. DE LA EXPEDICIÓN DE TARJETONES PARA OPERAR VEHÍCULOS DEL SERVICIO PÚBLICO
+Los vehículos destinados para la prestación de los servicios a que se refieren los Artículos 48 y 49 de esta Ley, deberán tener un lugar específico, autorizado por el Instituto para contratarse; aunado a lo anterior, deberán ostentar la leyenda de modalidad, uso, nombre y en su caso, razón social de la empresa a que corresponden.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE ABRIL DE 2004)</small>
+
+### CAPÍTULO VII. DE LA EXPEDICIÓN DE TARJETONES PARA OPERAR VEHÍCULOS DEL SERVICIO DE TRANSPORTE
 
 ###### Artículo 51.
 
@@ -829,11 +847,13 @@ V. Fecha de expedición y conclusión de la vigencia y
 
 VI. Los demás datos que señale el Instituto.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+
 ###### Artículo 56.
 
-El titular del tarjetón contará con un plazo de diez días hábiles posteriores a su vencimiento, para gestionar el trámite de renovación.
+El titular del tarjetón a que se refiere el Artículo 55 de esta Ley, deberá acreditar el curso de actualización correspondiente, a efecto de que se renove el mismo.
 
-Para la reposición del tarjetón, el titular acreditará fehacientemente el robo o extravío, destrucción o caducidad del mismo; el Instituto verificará en sus archivos si el documento extraviado gozaba de vigencia, reponiéndolo al beneficiario, previo pago de los derechos respectivos.
+Cuando el titular del tarjetón acreditare fehacientemente el extravío, destrucción o posible robo; el Instituto verificará en sus archivos si el documento gozaba de vigencia, reponiéndolo, previo pago de los derechos respectivos.
 
 En los casos anteriores, al obtener el nuevo tarjetón, los beneficiarios conservarán la antigüedad que posean en los registros.
 
@@ -867,17 +887,21 @@ El Instituto, ejercerá las acciones correspondientes para el cumplimiento de es
 
 ### CAPÍTULO VIII. DE LAS CONCESIONES
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+
 ###### Artículo 59.
 
-Para que las personas físicas o morales presten el servicio público de transporte en cualquiera de sus modalidades, requerirán de la concesión otorgada por el Instituto Estatal de Transporte.
+Para que las personas físicas o morales presten el servicio de transporte en cualquiera de sus modalidades, requerirán de la concesión o permiso otorgados por el Instituto.
 
-Los inspectores del Instituto y el personal de la Dirección General de Seguridad Pública y Tránsito del Estado dentro de sus atribuciones, están facultados para impedir la prestación del servicio público de transporte cuando los vehículos carezcan de documentos que acrediten fehacientemente que están autorizados para ello.
+El titular acreditará el extravío, destrucción o posible robo, para la reposición de la concesión o el permiso.
 
 ###### Artículo 60.
 
 Las concesiones se otorgarán por 30 años, terminada la vigencia, de acuerdo a lo señalado en esta Ley, el Instituto podrá o no renovarlas.
 
-Si el concesionario no efectúa el pago de los derechos, la concesión se revocará de pleno derecho.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+
+Si el concesionario no presenta comprobantes de los pagos anuales o no efectúa el pago de los derechos, la concesión se revocará.
 
 El período de vigencia se determinará tomando en consideración, entre otros aspectos, la rentabilidad en el servicio y la necesidad social que le da origen, determinados por medio del dictamen técnico emitido por el Instituto.
 
@@ -903,11 +927,15 @@ Queda reservada al Instituto la facultad de ejercer la organización, integraci�
 
 Las sociedades que conforme al Artículo 117 de esta Ley constituyan los concesionarios, previa aprobación del Proyecto de Acta Constitutiva por el Instituto, serán responsables por el incumplimiento de sus socios, en todo lo relativo a las prevenciones señaladas en esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ABRIL DE 2004)</small>
+
 ###### Artículo 66.
 
-Cuando el Instituto determine que existe la necesidad de incrementar o ampliar la infraestructura del servicio público de transporte, procederá de acuerdo a las siguientes formalidades:
+Cuando el Instituto determine que existe la necesidad de incrementar o ampliar el parque vehicular del servicio de transporte, procederá de acuerdo a las siguientes formalidades:
 
-I. En igualdad de condiciones, si de acuerdo al dictamen técnico se requieren hasta cinco concesiones para hacer factible el traslado de personas o agua potable, se preferirá a los hidalguenses mayores de edad que lo hayan solicitado y que cumplan con los siguientes criterios:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ABRIL DE 2004)</small>
+
+I. En igualdad de condiciones, si de acuerdo al dictamen técnico se requieren hasta cinco concesiones para hacer factible el traslado de personas, se preferirá a los hidalguenses mayores de edad que lo hayan solicitado y que cumplan con los siguientes criterios:
 
 a) La residencia del solicitante, en función al lugar materia de la necesidad;
 
@@ -921,7 +949,9 @@ e) Que el interesado cuente con un vehículo que no exceda los cinco años de an
 
 f) Que el solicitante se encuentre al corriente en el pago de sus obligaciones fiscales.
 
-II. Si de acuerdo al estudio técnico, la necesidad social requiere de más de cinco concesiones para hacer factible el traslado de personas o agua potable, se procederá a la invitación pública de los prestadores inscritos en el Registro Estatal de Concesionarios, Permisionarios y Operadores del Servicio de Transporte, así como a los Hidalguenses que cumplan con los siguientes criterios:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ABRIL DE 2004)</small>
+
+II. Si de acuerdo al estudio técnico, la necesidad social requiere de más de cinco concesiones para hacer factible el traslado de personas, se procederá a la invitación pública de los prestadores inscritos en el Registro Estatal de Concesionarios, Permisionarios y Operadores del Servicio de Transporte, así como a los hidalguenses que cumplan con los siguientes criterios:
 
 a) Ser persona moral constituida de acuerdo a las leyes mexicanas e integrada por Hidalguenses, con residencia en el lugar en donde operarán las concesiones;
 
@@ -937,11 +967,13 @@ f) Que la empresa se encuentre al corriente en el pago de sus obligaciones fisca
 
 g) Las demás que señalen las bases de cada concurso y que sean necesarios para garantizar la correcta, eficaz, ininterrumpida y eficiente prestación del servicio.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+
 ###### Artículo 67.
 
-Las unidades destinadas al servicio de transporte deben reunir las especificaciones técnicas y las condiciones de seguridad, comodidad y eficiencia de conformidad con las disposiciones emitidas por el Instituto.
+Las unidades destinadas al servicio de transporte, deben reunir las especificaciones técnicas y las condiciones de seguridad, higiene, comodidad y eficiencia, de conformidad con las disposiciones emitidas por el Instituto.
 
-Con excepción de los casos que específicamente detalla esta Ley, el servicio público de transporte deberá prestarse en vehículos con una antigüedad no mayor de diez años a la fecha de autorización para la prestación del servicio.
+Con excepción de los casos que específicamente detalla esta Ley, el servicio de transporte deberá prestarse en vehículos con una antigüedad no mayor de diez años a la fecha de fabricación del vehículo.
 
 ###### Artículo 68.
 
@@ -949,37 +981,37 @@ Corresponde al Instituto, emitir las bases para adjudicar la prestación del ser
 
 Las bases determinarán las formalidades y especificaciones técnicas, jurídicas, económicas y de infraestructura requeridas por el Instituto para la asignación de la concesión.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+
 ###### Artículo 69.
 
-A la disolución, liquidación, quiebra o modificación del objeto de la sociedad, los derechos derivados de las concesiones se cancelarán o revocarán.
+A la disolución, liquidación, quiebra de la sociedad, los derechos derivados de las concesiones o permisos se revocarán.
 
-A la constitución de la sociedad, se insertará en los estatutos sociales esta disposición.
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE ABRIL DE 2004)</small>
 
-### CAPÍTULO IX. DEL OTORGAMIENTO DE PERMISOS PARA LOS SERVICIOS DEL TRANSPORTE PRIVADO Y COMPLEMENTARIO
+### CAPÍTULO IX. DEL OTORGAMIENTO DE PERMISOS PARA LOS SERVICIOS DE TRANSPORTE PRIVADO
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 70.
 
-Para la prestación del servicio de transporte privado o complementario se requiere de previo permiso otorgado por el Instituto.
+Para la prestación de los servicios a que se refieren los Artículos 48 y 49 de la presente Ley, las personas físicas o morales solicitarán el otorgamiento de los permisos correspondientes, siempre que acrediten los requisitos que para tal efecto establezca el Reglamento.
 
-Los inspectores del Instituto y el personal de la Dirección General de Seguridad Pública y Tránsito del Estado dentro de sus atribuciones, están facultados para impedir la prestación del servicio cuando los vehículos carezcan de documentos que acrediten fehacientemente que están autorizados para ello.
+Ninguna persona física puede ser titular de más de cinco permisos, para la prestación de cualquiera de los servicios mencionados en el presente Artículo.
 
-Las personas morales, por conducto de sus apoderados legales, podrán solicitar este tipo de permisos, siempre que acrediten:
+Las personas morales no estarán sujetas a la limitante anteriormente mencionada, siempre y cuando cumplan con los requisitos que señala la presente Ley y los demás ordenamientos aplicables al caso.
 
-I. Tener su domicilio social en el Territorio del Estado y
+Los permisos que se otorguen a las personas morales, se derivarán de los resultados del estudio técnico, previo pago de derechos correspondientes.
 
-II. Que hayan sido constituidas con apego a las leyes mexicanas y que dentro del objeto social se considere la actividad que se solicita permisionar.
+La presentación y admisión de las solicitudes, implica que concluido el trámite correspondiente, el Instituto emitirá la resolución respectiva; la cual podrá ser en el sentido de otorgar o negar el permiso solicitado.
 
-El número de permisos que se otorguen a las personas morales, se derivará de los resultados del estudio técnico correspondiente.
+En ningún caso, la vigencia de los permisos mencionados excederá de tres años.
 
-Las solicitudes de permiso para la prestación del servicio privado o complementario de transporte en sus diversas modalidades, deberán presentarse por los interesados ante el Instituto, acompañándolas de la totalidad de los documentos y requisitos que el mismo determine.
-
-La presentación y admisión de las solicitudes implica que, concluido el trámite correspondiente, el Instituto emitirá la resolución respectiva; la cual podrá ser en el sentido de otorgar o negar el permiso solicitado.
-
-En ningún caso, la vigencia de los permisos de transporte privado excederá de tres años y el complementario de diez años; previa satisfacción de los requisitos que determine el Instituto y el respectivo pago anual de los derechos equivalentes al importe de diez días de salario mínimo vigente en la Entidad.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 71.
 
-No se recibirá solicitud alguna para el otorgamiento de permisos relativos al transporte privado o complementario, sin que se garantice su tramitación mediante cheque certificado o de caja expedido en favor del Instituto, por la cantidad equivalente a diez días de salario mínimo vigente en la Entidad.
+No se recibirá solicitud alguna para el otorgamiento de permisos, sin que se garantice su tramitación mediante cheque certificado o de caja, expedido en favor de la Oficina Recaudadora correspondiente, por la cantidad, que al efecto establezca la tarifa vigente.
 
 La garantía depositada se devolverá al interesado cuando se emita la resolución respectiva.
 
@@ -1001,7 +1033,9 @@ I. Cuando el peticionario sea extranjero o cuando, habiendo solicitado el trámi
 
 II. Cuando hayan sido tramitadas con documentos alterados o información falsa y
 
-III. Cuando no cumplan con todas y cada una de las disposiciones establecidas por esta Ley y demás disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+III. Cuando no cumplan las disposiciones establecidas por esta Ley y demás disposiciones legales aplicables.
 
 En el reverso del original y de las copias, el Instituto hará constar la improcedencia de la solicitud, devolviéndose una copia al interesado.
 
@@ -1029,31 +1063,43 @@ Toda la documentación con la que se pretenda acreditar los derechos inherentes 
 
 Cuando se satisfagan los requisitos anteriores y se cumpla en los plazos establecidos, se entregará el permiso, la cédula y las placas respectivas al titular, lo que se hará del conocimiento oficial de la Dirección General de Seguridad Pública y Tránsito, de la Secretaría de Finanzas y de la Contraloría del Estado.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+
 ###### Artículo 81.
 
-El formato del permiso contendrá el tipo de servicio que autoriza, la vigencia, el vehículo autorizado, el número de expediente y de inventario, ubicación de las instalaciones, nombre, domicilio, fotografía y demás información relativa al permisionario; así como las firmas autógrafas del Secretario Ejecutivo del Instituto.
+El formato del permiso, contendrá el tipo de servicio que autoriza, la vigencia, el vehículo autorizado, el número de expediente y de inventario, ubicación de las instalaciones, nombre, domicilio, fotografía y demás información relativa al permisionario; así como la firma autógrafa del Director General del Instituto.
 
 ###### Artículo 82.
 
 El pago de los derechos inherentes a la titularidad de los permisos será anual, evaluándose las condiciones físico-mecánicas y de servicio del vehículo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ABRIL DE 2004)</small>
+
 ###### Artículo 83.
 
-A la disolución, liquidación, quiebra o modificación del objeto de la sociedad o a la muerte del permisionario, los derechos derivados de los permisos se cancelarán o revocarán.
+A la disolución, liquidación, quiebra de la sociedad o a la muerte del permisionario, los derechos derivados de los permisos se revocarán.
 
 A la constitución de la sociedad, se insertará en los estatutos sociales esta disposición.
 
 ### CAPÍTULO X. DE LA RENOVACIÓN DE LAS CONCESIONES Y PERMISOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ABRIL DE 2004)</small>
+
 ###### Artículo 84.
 
-La solicitud de renovación deberá presentarse ante el Instituto, dentro de los noventa días naturales anteriores al vencimiento de la concesión; la renovación se tramitará previa exhibición de la garantía de trámite, mediante cheque certificado o de caja expedido a favor del Instituto, por la cantidad equivalente a cincuenta días de salario mínimo vigente en el Estado.
+La solicitud de renovación deberá presentarse ante el Instituto, dentro de los noventa días naturales anteriores al vencimiento de la concesión o permiso; la renovación se tramitará previa exhibición de la garantía mediante cheque certificado o de caja, expedido a favor de la Oficina Recaudadora correspondiente, por la cantidad equivalente a cincuenta días de salario mínimo vigente en el Estado.
 
-La vigencia de la renovación será por treinta años.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
-Si la solicitud de renovación se interpone dentro de los noventa días siguientes al vencimiento de la concesión, el promovente será sancionado con el importe de una multa equivalente a setenta y cinco días de salario mínimo vigente en la Entidad; realizado el pago de la sanción mencionada, se procederá al trámite solicitado.
+La vigencia de la renovación de la concesión, será por treinta años.
 
-Si la solicitud se presenta fuera del plazo señalado en el párrafo anterior, el Instituto iniciará el procedimiento administrativo necesario para cancelar la concesión, cumpliendo con las formalidades previstas en el capítulo respectivo de esta Ley.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+
+Si la solicitud de renovación se interpone dentro de los noventa días siguientes al vencimiento de la concesión, el promovente será sancionado con el importe de una multa equivalente a sesenta y cinco días de salario mínimo vigente en la Entidad; realizado el pago de la sanción mencionada, se procederá al trámite solicitado.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+
+Si la solicitud se presenta fuera del plazo señalado en el párrafo anterior, el Instituto iniciará el procedimiento administrativo necesario para revocar la concesión, cumpliendo con las formalidades previstas en el Capítulo respectivo de esta Ley.
 
 Para la renovación de los permisos se seguirán las reglas anteriormente descritas.
 
@@ -1109,27 +1155,17 @@ Negada la renovación de la concesión o permiso, no se permitirá seguir presta
 
 ### CAPÍTULO XI. DE LA TRANSFERENCIA DE LAS CONCESIONES
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+
 ###### Artículo 89.
 
-Las concesiones son inalienables, imprescriptibles e inembargables y no son objeto de actos de comercio.
+Las concesiones son imprescriptibles e inembargables y no son objeto de actos de comercio.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 90.
 
-Los derechos derivados de las concesiones serán transmisibles:
-
-A) Por causa de fallecimiento, por la incapacidad física o mental del titular, por declaración judicial de ausencia o presunción de muerte; o bien, en cualquier tiempo, si el concesionario desea transmitir sus derechos a las siguientes personas:
-
-El cónyuge o a falta de éste, la persona con quien el concesionario haya vivido en concubinato y que acredite este hecho fehacientemente y
-
-Los descendientes y ascendientes en línea recta consanguínea, atendiendo a éste orden.
-
-B) Si transcurridos tres años desde que se inició con la prestación del servicio, el concesionario desea transmitir sus derechos al operador que tenga registrado ante el Instituto o a otro concesionario de la misma ruta o sitio.
-
-C) Cuando se trate de transmitir la titularidad de la concesión, en favor de la sociedad que se pretenda constituir en términos del Artículo 117.
-
-Cualquier solicitud de transferencia presentada por persona distinta a las señaladas en las incisos anteriores, será improcedente y los derechos derivados de la concesión volverán al Estado.
-
-Quien solicite la transferencia, deberá acreditar que cuenta con todos y cada uno de los medios necesarios para prestar el servicio, que cumple con los requisitos señalados en esta Ley y que resulta persona idónea para adquirir la calidad de concesionario. Si el solicitante no resulta persona idónea, se rechazará el trámite y los derechos volverán al Estado.
+Los derechos derivados de las concesiones, serán transferibles, previo el cumplimiento de los requisitos que señale esta Ley y su Reglamento.
 
 ###### Artículo 91.
 
@@ -1147,15 +1183,21 @@ La solicitud de transferencia no procederá fuera de los casos previstos en las 
 
 La persona beneficiada con la transferencia, adquirirá la titularidad de la concesión y queda obligada a sujetarse a las disposiciones contenidas en esta Ley y demás disposiciones legales aplicables.
 
-### CAPÍTULO XII. DE LAS AUTORIZACIONES EVENTUALES Y PROVISIONALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE ABRIL DE 2004)</small>
+
+### CAPÍTULO XII. DE LAS AUTORIZACIONES EVENTUALES Y COMPLEMENTARIAS
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 93.
 
-El Instituto podrá otorgar autorizaciones para prestar el servicio de transporte, previo cumplimiento de las disposiciones previstas en esta Ley.
+El Instituto podrá otorgar autorizaciones, para prestar el servicio de transporte eventual o complementario, previo cumplimiento de las disposiciones previstas en esta Ley y demás ordenamientos aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 94.
 
-En lo referente al servicio público de transporte de pasajeros, solamente se podrán otorgar:
+En lo referente al servicio de transporte público, se podrán otorgar:
 
 A. Autorizaciones eventuales en los casos siguientes:
 
@@ -1163,21 +1205,25 @@ I. Cuando exista una demanda extraordinaria de transporte o cuando se sucedan fe
 
 II. Cuando una vía de comunicación se cierre y no sea posible efectuar el servicio de manera permanente y regular en los términos concesionados.
 
-B. Autorizaciones provisionales en los casos siguientes:
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
-I. Para complementar las autorizaciones relativas al servicio de transporte público de pasajeros, que hayan sido emitidas por las autoridades federales competentes; siempre que ello sea de paso, que no implique el ascenso y descenso de pasajeros en tramos carreteros de Jurisdicción Estatal y que tenga por finalidad el perfeccionamiento de dicha autorización y
+B.- Autorizaciones complementarias, en los casos siguientes:
 
-II. Para complementar las autorizaciones relativas al servicio de transporte público de pasajeros, que hayan sido emitidas por Autoridades de las Entidades colindantes con el Estado de Hidalgo; siempre que ello sea de paso y que no implique el ascenso y descenso de pasajeros en tramos carreteros de Jurisdicción Estatal. En caso de interés social, mediante Convenios de Colaboración y reciprocidad, se definirá la forma en que dicho transporte puede efectuarse.
+I. Para complementar los permisos relativos al servicio de transporte que hayan sido emitidos por las Autoridades Federales competentes, se estará siempre a lo que señale el dictamen técnico que al efecto emita el Instituto y
 
-Quien preste los servicios señalados en los incisos A y B, sin contar con la autorización respectiva, será sancionado en términos de esta Ley.
+II. Para complementar las concesiones o permisos relativas al servicio de transporte que hayan sido emitidas por Autoridades competentes de Entidades colindantes con el Estado de Hidalgo, se estará siempre a lo que señale el dictamen técnico que al efecto emita el Instituto. En caso de interés social, mediante Convenios de Colaboración y reciprocidad, se definirá la forma en que dicho transporte pueda efectuarse.
+
+Quien preste cualquiera de los servicios señalados anteriormente, sin contar con la autorización respectiva, será sancionado con una multa equivalente al importe de trescientos días de salario mínimo vigente en la Entidad.
 
 ###### Artículo 95.
 
 Atendiendo al interés público, el Instituto podrá ordenar o autorizar eventualmente la prestación de un servicio distinto al concesionado, de acuerdo a las modalidades que señala esta Ley.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+
 ###### Artículo 96.
 
-Los términos de las autorizaciones eventuales y provisionales serán acordes al dictamen técnico que emita el Instituto y su vigencia podrá ser hasta de un año; al vencimiento del plazo, el Instituto analizará y dictaminará la necesidad de renovarlas, revocarlas o modificarlas.
+La vigencia de las autorizaciones eventuales, durará hasta la conclusión de la necesidad que les dió origen y las autorizaciones complementarias hasta por un año, al vencimiento de éstas, el Instituto analizará y dictaminará la necesidad de renovarlas, modificarlas o revocarlas.
 
 ### CAPÍTULO XIII. DEL PROCEDIMIENTO
 
@@ -1227,9 +1273,11 @@ Los documentos presentados pueden ser objetados explicando los motivos de la obj
 
 La omisión de las copias motivará el requerimiento al presentante del escrito y documentos, para que subsane esta omisión en el término de tres días hábiles posteriores a la notificación de este requerimiento, con el apercibimiento de rechazar el escrito en caso de no hacerlo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ABRIL DE 2004)</small>
+
 ###### Artículo 105.
 
-En su primer escrito, el interesado señalará domicilio en el lugar del tramite de su asunto, advertido que en caso de no hacerlo se le notificará por medio de lista, aun las notificaciones personales.
+En su primer escrito, el interesado señalará domicilio para recibir notificaciones en el lugar donde residan las instalaciones del Instituto, advertido que en caso de no hacerlo, se le notificará por medio de lista fijada en el tablero que para tal efecto destine el Organismo, aún las notificaciones personales.
 
 Se entienden por personales las notificaciones que se hagan al interesado personalmente por el notificador del Instituto en el domicilio señalado para oír y recibir notificaciones y en caso de no encontrarlo, el notificador le dejará cita de espera para el día siguiente en hora hábil y no hallándolo presente se entenderá la notificación con la persona mayor de edad que se encuentre en el domicilio.
 
@@ -1251,9 +1299,11 @@ V. En los demás casos que la Ley lo disponga.
 
 El emplazamiento se hará personalmente en el domicilio o lugar de trabajo del llamado al procedimiento por el notificador y de no encontrarlo, le dejará cita de espera para el día siguiente en hora hábil; si tampoco lo hallare, entenderá la diligencia con la persona que se encuentre, dejándole el instructivo y copias correspondientes.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+
 ###### Artículo 107.
 
-Los términos empezarán a correr desde el día siguiente a aquel en que se hubieren hecho al emplazamiento o notificación y siempre se computarán por días hábiles.
+Los plazos a que se refiere esta Ley y su Reglamento, empezarán a correr al día hábil siguiente de la notificación, salvo disposición expresa en contrario.
 
 ###### Artículo 108.
 
@@ -1277,19 +1327,25 @@ Al concluir el desahogo de pruebas, se abrirá de inmediato el periodo de alegat
 
 Todas las pruebas tienen valor de indicio, que en su conjunto norman el criterio lógico jurídico para otorgarles el valor de prueba plena, excepto las de actuaciones, la confesión expresa, la inspección ocular y la de documentos públicos que tendrán valor de prueba plena.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+
 ###### Artículo 113.
 
-Para la interposición de recursos ante el Instituto, se estará a lo dispuesto por la Ley de la materia.
+Para la interposición de recursos ante el Instituto, se estará a lo dispuesto por la Ley Estatal del Procedimiento Administrativo.
 
 ### CAPÍTULO XIV. DE LAS RUTAS, ITINERARIOS, HORARIOS Y TARIFAS
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+
 ###### Artículo 114.
 
-Las rutas serán establecidas previo análisis de la demanda e infraestructura vial existente en cada región; los concesionarios están obligados a sujetarse y respetar las rutas que se les asignen.
+Las rutas serán establecidas previo análisis de la demanda de servicio, de la infraestructura vial y del parque vehicular existente en cada región; los concesionarios están obligados a sujetarse y respetar las rutas que se les concesionen.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 115.
 
-Una vez asignada la ruta, el concesionario deberá prestar el servicio de manera ininterrumpida, de acuerdo al horario establecido.
+Una vez asignada la ruta, el concesionario deberá prestar el servicio de manera ininterrumpida, de acuerdo al horario de servicio, frecuencia e intervalo de paso.
 
 ###### Artículo 116.
 
@@ -1299,9 +1355,11 @@ Todos los vehículos que presten el servicio de transporte, deben cumplir con la
 
 Previa autorización del Instituto, los concesionarios que presten idénticos servicios en una ruta, podrán constituir sociedades para la explotación conjunta; los estatutos sociales especificarán la forma de transmisión de la concesión, pudiendo ser en goce o en titularidad. En tal caso, las sociedades y sus representantes son solidariamente responsables de cada uno de los integrantes de la misma respecto a las actividades propias del objeto social.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+
 ###### Artículo 118.
 
-Los itinerarios, derroteros y los horarios se fijarán de acuerdo a la demanda, la vialidad existente y la longitud de la ruta, tomando en cuenta la localización de los lugares de ascenso y descenso obligatorios en los puntos intermedios.
+Los itinerarios y los horarios se fijarán de acuerdo a la demanda, la vialidad existente y la longitud de la ruta, tomando en cuenta la localización de los lugares de ascenso y descenso obligatorios en los puntos intermedios.
 
 ###### Artículo 119.
 
@@ -1321,9 +1379,11 @@ En las rutas en que sea autorizado el intercambio de equipos, se deberá cumplir
 
 Los concesionarios que lleven a cabo el intercambio de equipos sin contar con autorización del Instituto serán sancionados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ABRIL DE 2004)</small>
+
 ###### Artículo 121.
 
-Para fijar y aprobar los itinerarios, derroteros y los horarios se tomará en consideración lo siguiente:
+Para fijar y aprobar los itinerarios y horarios, se tomará en consideración lo siguiente:
 
 I. La demanda;
 
@@ -1333,21 +1393,29 @@ III. Las velocidades máximas permisibles y
 
 IV. El número de unidades autorizadas para la prestación del servicio.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+
 ###### Artículo 122.
 
-Los itinerarios y derroteros deberán contener el número de ruta de que se trate, la denominación de las vialidades por las que debe circular la unidad, el tiempo de recorrido entre lugares de ascenso y descenso y el nombre de los puntos en que se haga parada, con indicación del horario y las distancias.
+Los itinerarios deberán contener el número de ruta de que se trate, la denominación de las vialidades por las que debe circular la unidad, el tiempo de recorrido entre lugares de ascenso y descenso y el nombre de los puntos en que deba hacerse parada, con indicación del horario y las distancias.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 123.
 
-Los itinerarios, derroteros, los intervalos de paso y los horarios serán determinados por el Instituto, de acuerdo al dictamen técnico respectivo.
+Los itinerarios, intervalos de paso y los horarios, serán determinados por el Instituto de acuerdo al dictamen técnico respectivo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 124.
 
-Las tarifas del servicio público de transporte de pasajeros, que emita en (sic) Instituto especificarán el precio y las condiciones a que están sujetas.
+Las tarifas del servicio de transporte que emita el Instituto, especificarán el costo y las condiciones a que están sujetas.
 
 Para la autorización de las tarifas, se tomarán en consideración los siguientes aspectos:
 
-I. La superficie de rodamiento y las pendientes de los caminos o calles a los que esté sujeto el itinerario o derrotero correspondiente;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+I. La superficie de rodamiento y las pendientes de los caminos o calles a los que esté sujeto el itinerario correspondiente;
 
 II. El costo en la operación de la prestación del servicio y la demanda, en todos los casos se calculará que la banda marginal de utilidad permita que el concesionario obtenga una ganancia;
 
@@ -1355,7 +1423,9 @@ III. Los incrementos salariales y el desarrollo económico de la zona o lugar de
 
 IV. El área afecta a la circulación de unidades de servicio individual de sitio, libre y radiotaxi se dividirá en zonas, en función de las distancias por recorrer y la demanda.
 
-La revisión de las tarifas se llevará a cabo a petición del concesionario y su modificación se derivará de los resultados que arrojen los estudios correspondientes.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+
+La revisión de las tarifas, se llevará a cabo a petición del concesionario o permisionario y su modificación se derivará de los resultados que arrojen los estudios correspondientes.
 
 ###### Artículo 125.
 
@@ -1385,11 +1455,17 @@ En ningún caso los vehículos destinados a prestar el servicio público de tran
 
 ### CAPÍTULO XV. DE LA INSPECCIÓN VEHICULAR
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ABRIL DE 2004)</small>
+
 ###### Artículo 129.
 
-Todo vehículo autorizado para prestar el servicio público, privado o complementario podrá ser inspeccionado cuando circule por las vías públicas de Jurisdicción Estatal.
+Todo vehículo que preste el servicio de transporte, podrá ser inspeccionado cuando circule por las vías públicas de Jurisdicción Estatal.
 
 Independientemente de ello, será verificado anualmente para certificar que reúne las condiciones físicas y mecánicas necesarias para el eficaz funcionamiento de la unidad y la aptitud para el servicio al que es destinado.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2004)</small>
+
+Los Inspectores del Instituto Estatal de Transporte y el Personal de la Dirección General de Seguridad Pública y Tránsito del Estado, dentro de sus atribuciones, están facultados para impedir la prestación del servicio de transporte, cuando los vehículos no cumplan con las condiciones de eficiencia, seguridad, comodidad o carezcan de documentos que acrediten fehacientemente que están autorizados para ello.
 
 ###### Artículo 130.
 
@@ -1407,9 +1483,11 @@ III. Para efectos de la fracción anterior, el Instituto concederá un plazo de 
 
 Quien pretenda modernizar el parque vehicular sustituyendo el vehículo autorizado o los que en cumplimiento a los extremos de este Ordenamiento deban reemplazarlo, presentarán solicitud por escrito ante el Instituto, anexando la documentación con la que acrediten la propiedad o los derechos sobre el automotor sustituto.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+
 ###### Artículo 132.
 
-Cuando el concesionario sufra la pérdida total o el robo de la unidad registrada para la prestación del servicio, el Instituto podrá autorizar el reemplazo temporal de la unidad por otra que satisfaga los requisitos de seguridad y operación que el servicio requiera.
+Cuando el concesionario o permisionario sufra la pérdida total o denuncie el robo de la unidad registrada para la prestación del servicio, el Instituto podrá autorizar la sustitución temporal de la unidad, por otra que satisfaga los requisitos de seguridad y operación que el servicio requiera.
 
 ### CAPÍTULO XVII. DE LOS SERVICIOS AUXILIARES Y CONEXOS
 
@@ -1439,21 +1517,33 @@ VII. La elaboración y comercialización de boletos multimodales o multiviajes d
 
 VIII. Los demás que señale el Instituto.
 
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2004)</small>
+
+El pago de derechos por el otorgamiento de concesiones para explotar este tipo de servicio, será de acuerdo a la tarifa respectiva.
+
 ###### Artículo 135.
 
 Los servicios conexos son los que complementan la operación del servicio de transporte y su prestación requiere de permiso emitido por el Instituto.
 
 Constituyen servicios conexos:
 
-I. Las centrales de radio, las del servicio telefónico y las que por cualquier otro medio de comunicación se destinen para coordinar el proceso de solicitud y despacho de los servicios público, privado y complementario;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+I. Las centrales de radio, las del servicio telefónico y las que por cualquier otro medio de comunicación se destinen para coordinar el proceso de solicitud y despacho del servicio público;
 
 II. La instalación de paraderos y cobertizos destinados a los usuarios del servicio público;
 
 III. Los terrenos e instalaciones destinados al depósito de los vehículos del servicio complementario;
 
-IV. Los servicios publicitarios y los de promoción visual, que se efectúen por medio de o en las unidades de los servicios público, privado y complementario y
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+IV. Los servicios publicitarios y los de promoción visual que se efectúen por medio de o en las unidades del servicio de transporte y
 
 V. Los demás que determine el Instituto.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2004)</small>
+
+El pago de derechos por el otorgamiento de permisos para explotar este tipo de servicio, será de acuerdo a la tarifa correspondiente.
 
 ### CAPÍTULO XVIII. DE LOS TRANSPORTISTAS
 
@@ -1505,11 +1595,15 @@ Los concesionarios y permisionarios deben cumplir con las siguientes obligacione
 
 I. Transportar exclusivamente a las personas o bienes que estén obligados a trasladar, en términos de la concesión o permiso respectivo;
 
-II. Efectuar el servicio de transporte público en la totalidad de la ruta especificada en la concesión, recorriendo el itinerario o derrotero detallado en el dictamen técnico, conforme a los intervalos de paso, los horarios aprobados y las tarifas autorizadas; respetando las disposiciones de circulación en las vías públicas de Jurisdicción Estatal;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+II. Efectuar el servicio de transporte público en la totalidad de la ruta especificada en la concesión, recorriendo el itinerario detallado en el dictamen técnico, conforme a los intervalos de paso, los horarios aprobados y las tarifas autorizadas; respetando las disposiciones de circulación en las vías públicas de Jurisdicción Estatal;
 
 III. Utilizar únicamente los vehículos autorizados y abstenerse de prestar el servicio con unidades distintas o que no satisfagan las condiciones de seguridad, higiene, capacidad, peso y demás especificaciones relativas a la concesión o permiso conferido;
 
-IV. Sustituir los vehículos que temporalmente retiren del servicio, por otros de la misma capacidad y características;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+IV. Sustituir los vehículos que temporalmente retiren del servicio, por otros de la misma capacidad y características, con aprobación expresa del Instituto;
 
 V. Contar con la infraestructura y los servicios auxiliares y conexos determinados por el Instituto, cuando los estudios técnicos establezcan la obligatoriedad de ello, en razón de la importancia que conlleve la prestación del servicio;
 
@@ -1541,7 +1635,13 @@ XVIII. Efectuar los descuentos preferenciales a las personas mayores de 60 años
 
 XIX. Abstenerse de efectuar o fomentar prácticas monopólicas, en términos del Artículo 28 de la Constitución Política de los Estados Unidos Mexicanos y
 
-XX. Las demás que les precisa esta Ley y los demás ordenamientos legales aplicables.
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+XX. Contratar únicamente choferes que cuenten con tarjetón de operador del servicio de transporte, expedido por el Instituto y
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+XXI. Las demás que establezca esta Ley y su Reglamento.
 
 ###### Artículo 140.
 
@@ -1549,7 +1649,9 @@ Queda prohibido a los concesionarios, a los permisionarios y a sus operadores:
 
 I. Transportar en el interior del vehículo equipaje que por su peso o volumen, ocasione molestias a los pasajeros;
 
-II. Transportar artículos sujetos a cuarentena;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+II. Transportar bienes sujetos a cuarentena;
 
 III. Transportar materias, materiales o sustancias peligrosas, sin contar con autorización emitida por la autoridad competente;
 
@@ -1591,7 +1693,11 @@ XXI. Incurrir en actos violentos o en actos tendientes a alterar el orden y la p
 
 XXII. Interrumpir en forma parcial o total la prestación del servicio y
 
-XXIII. Participar o incurrir en la comisión de delitos en contra de la estabilidad económica del Estado, en términos del Código Penal vigente.
+XXIII. Participar o incurrir en la comisión de delitos en contra de la estabilidad económica del Estado, en términos del Código Penal vigente;
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+XXIV. Prestar el servicio público de transporte en la ruta, sitio o Municipio, en forma distinta para el que haya sido autorizado por el Instituto.
 
 ### CAPÍTULO XIX. DE LOS USUARIOS DEL SERVICIO DE TRANSPORTE
 
@@ -1657,27 +1763,39 @@ El Instituto ejercerá directa y permanentemente la vigilancia del sistema de tr
 
 El Instituto contará con una Unidad Administrativa encargada de supervisar el servicio de transporte y los servicios auxiliares y conexos, la cual tendrá las siguientes funciones:
 
-a) Vigilar el cumplimiento de esta Ley, en todo lo relativo al servicio que presten los concesionarios, permisionarios y operadores de los servicios público, privado y complementario de transporte;
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+
+a) Vigilar el cumplimiento de esta Ley, en todo lo relativo al servicio que presten los concesionarios, permisionarios y operadores de los servicios de transporte;
 
 b) Vigilar el cumplimiento de esta Ley en todo lo referente a los servicios auxiliares y conexos;
 
-c) Hacer constar mediante los documentos respectivos, los actos u omisiones en que incurran los prestadores de los servicios público, privado complementario, servicios auxiliares y conexos, expidiendo las boletas de infracción respectivas y obteniendo de los infractores las garantías que aseguren el cumplimiento de las sanciones a que se hagan acreedores y
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
-d) Las demás que les confieran esta Ley y reglamentos correspondientes.
+c) Hacer constar mediante los documentos respectivos, los actos u omisiones en que incurran los prestadores de los servicios de transporte, auxiliares y conexos, expidiendo las boletas de infracción respectivas y obteniendo de los infractores, las garantías que aseguren el cumplimiento de las sanciones a que se hagan acreedores y
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+
+d) Las demás que les confieran esta Ley y su Reglamento.
 
 ###### Artículo 144.
 
 Los inspectores del Instituto, previa identificación y orden debidamente fundada y motivada, podrán realizar visitas al domicilio señalado por el concesionario o permisionario a fin de verificar el cumplimiento de las disposiciones de esta Ley.
 
-Las visitas se circunscribirán a verificar el estado de la unidad con que se presta el servicio, a los papeles relacionados a la concesión o permiso y/o a las actividades propias a la prestación de los servicios auxiliares y conexos.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
-La visita será previamente notificada al interesado, señalando el día y hora en que se practicará y el objeto de la misma.
+Los inspectores, deberán verificar el estado de la unidad con que se presta el servicio, los documentos relacionados a la concesión o permiso y a las actividades propias a la prestación de los servicios auxiliares y conexos.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+
+La visita podrá ser previamente notificada al interesado, señalando el día y hora en que se practicará y el objeto de la misma.
 
 ###### Artículo 145.
 
 Concluida la visita de inspección, se levantará acta debidamente circunstanciada, en presencia de dos testigos propuestos por la persona que haya atendido la visita, o por el inspector si aquella se hubiere negado a designarlos, haciéndose constar lo siguiente:
 
-I. Hora, día, mes y año en que se practica la visita;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+I. Hora y fecha en que se practica la visita;
 
 II. Ubicación del lugar donde se practica la misma;
 
@@ -1685,9 +1803,13 @@ III. Fecha de la orden de visita, así como los datos de identificación del ins
 
 IV. Objeto de la visita;
 
-V. Nombre y/o personalidad jurídica de quien atendió la visita;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
 
-VI. Declaración de la persona que atendió la visita o su negativa a permitirla;
+V. Nombre de quien atendió la visita;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+VI. Declaración de la persona que atienda la visita o se niegue a permitirla, en su caso, se asentará razón de la negativa a firmar por parte de las personas que hayan intervenido en la visita, dicha negativa no invalida el Acta correspondiente;
 
 VII. Síntesis descriptiva sobre la visita, asentando los hechos, datos y omisiones derivados del objeto de la misma;
 
@@ -1703,11 +1825,11 @@ Una vez elaborada el acta, el inspector proporcionará una copia de la misma a l
 
 El original del acta se integrará al expediente correspondiente.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+
 ###### Artículo 147.
 
-El visitado contará con un plazo de diez días hábiles, a fin de que presente la información requerida o faltante; así también, dentro del mismo plazo podrá presentar las pruebas y defensas que estime conducentes.
-
-Con vista en ellas o a falta de su presentación, el Instituto dictará la resolución que corresponda; en caso de que el visitado deba ser sancionado, atendiendo a la gravedad de la falta, se le aplicará cualquiera de las sanciones establecidas en el Artículo 148.
+El concesionario o permisionario, contará con un plazo de diez días hábiles, a fin de que presente la información requerida o faltante; así también, dentro del mismo plazo podrá presentar las pruebas y defensas que estime conducentes. Con vista en ellas o a falta de su presentación, el Instituto dictará la resolución que corresponda.
 
 ### CAPÍTULO XXI. DE LAS SANCIONES
 
@@ -1719,31 +1841,43 @@ I. Amonestación;
 
 II. Multa y
 
-III. Revocación o cancelación de la concesión o permiso.
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+III. Suspensión del servicio hasta por noventa días y
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+IV. Revocación de la concesión o permiso.
 
 ###### Artículo 149.
 
 Se amonestará por escrito en el caso de que se infrinjan por primera vez los preceptos contenidos en los Artículos 37 fracciones I, II y IV; 67 segundo párrafo; 116, 136 párrafo segundo; 137, 139 fracciones II, VI, VII, VIII, IX, X, XI, XII, XVI y XVII; 140 fracciones I, V, XI, XII, XV y XVII.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ABRIL DE 2004)</small>
+
 ###### Artículo 150.
 
-Se impondrá directamente una multa equivalente hasta por el importe de 150 días de salario mínimo vigente en la Entidad, en el caso de infracciones a lo previsto por los Artículos 21, 28, 37 fracción III; 88, 94, 114, 115, 119, 120, 127, 128, 130, 131, 139 fracciones I, III, IV, V, XIII, XIV, XV y XVIII y 140 fracciones II, VI, VII, IX, X, XIII, XIV, XVI, XVIII, XIX, XX y XXII.
+Se impondrá multa hasta por el importe de 150 días de salario mínimo vigente en la Entidad, en caso de infringir lo previsto por los Artículos 28; 37 fracción III; 88; 94; 114; 115; 119; 120; 127; 128; 130; 131; 139 fracciones I, III, IV, V, XIII, XIV, XV, XVIII y XX y 140 fracciones II, VI, VII, IX, X, XIII, XIV, XVI, XVIII, XIX, XX, XXII y XXIV.
 
 La multa será impuesta también a quienes reincidan en infringir lo señalado por los Artículos 37 fracciones I, II y IV; 67 segundo párrafo; 116; 137; 139 fracciones II, VI, VII, VIII, IX, X, XI, XII, XVI, XVII; 140 fracciones I, V, XI, XII, XV, XVII; 136 segundo párrafo.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+
 ###### Artículo 151.
 
-Se impondrá la revocación de la concesión o permiso en caso de incurrir en lo previsto en los Artículos 89 y 139 fracción XIX y 140 fracciones III, IV, VIII, IX, XXI y XXIII.
+Se suspenderá hasta por noventa días naturales en la prestación del servicio, al concesionario o permisionario que infrinja los Artículos 89; 139 fracción XIX y 140 fracciones III, IV, VIII, XXI y XXIII.
 
-La revocación se impondrá también a quienes reincidan en infringir los Artículos 21; 37 en cualquiera de sus fracciones; 67 segundo párrafo, 94; 116; 119; 120; 136 segundo párrafo, 139 fracciones I, II, III, IV, V, IX, XIII, XIV, XV; 140 fracciones II, IX, X, XI y XXII.
+Se revocará la concesión o el permiso, a quienes por segunda ocasión infrinjan los Artículos 37 en cualquiera de sus fracciones; 67 segundo párrafo; 94; 116; 119; 120; 136 segundo párrafo; 139 fracciones I, II, III, IV, V, IX, XIII, XIV, XV y 140 fracciones II, IX, X, XI y XXII.
 
 ###### Artículo 152.
 
 Toda persona que altere o falsifique las placas reglamentarias o los documentos relativos a la inmatriculación de los vehículos, será sancionado con la aplicación de una multa equivalente al importe de trescientos días de salario mínimo vigente en la Entidad; aunado a lo anterior, de los hechos se dará conocimiento al Ministerio Público, para los efectos procedentes.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+
 ###### Artículo 153.
 
-Queda prohibido prestar el servicio público de transporte sin contar con la concesión correspondiente; los infractores serán sancionados mediante la imposición de una multa equivalente al importe de trescientos días de salario mínimo vigente en la Entidad, con absoluta independencia de las sanciones que les resulten aplicables por otros ordenamientos.
+Queda prohibido, prestar el servicio de transporte sin contar con la concesión o permiso correspondiente; los infractores serán sancionados mediante la imposición de una multa equivalente al importe de trescientos días de salario mínimo vigente en la Entidad, con independencia de las sanciones que les resulten aplicables por otros ordenamientos.
 
 ###### Artículo 154.
 
@@ -1751,7 +1885,7 @@ Está prohibido prestar el servicio público de transporte en bicicletas, tricic
 
 ###### Artículo 155.
 
-Queda prohibido prestar el servicio privado o el complementario sin contar con el permiso correspondiente; los infractores serán sancionados mediante la imposición de una multa equivalente al importe de trescientos días de salario mínimo vigente en la Entidad, con absoluta independencia de las sanciones que les resulten aplicables por otros ordenamientos.
+(DEROGADO, P.O. 19 DE ABRIL DE 2004)
 
 ###### Artículo 156.
 
@@ -1767,111 +1901,33 @@ En todo lo no previsto en las sanciones que anteceden y que esta Ley contemple c
 
 ### CAPÍTULO XXII. DEL CONSEJO CONSULTIVO DE TRANSPORTE
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+
 ###### Artículo 159.
 
-Se crea el Consejo Consultivo de Transporte como el Órgano Colegiado, de carácter deliberativo y propositivo, que tiene por objeto promover las acciones relativas al mejoramiento en la prestación del servicio público de transporte.
+Se crea el Consejo Consultivo de Transporte como Organo Colegiado de carácter deliberativo, que tiene por objeto, coadyuvar en las acciones relativas al mejoramiento en la prestación del servicio público de transporte, el cual funcionará en los términos que establezca el Reglamento de esta Ley.
 
-El Consejo tendrá las atribuciones siguientes:
-
-I. Recibir, analizar y emitir opinión por escrito ante las autoridades competentes relativas a los comentarios, estudios, propuestas y demandas que en materia de vialidad y transporte le presente cualquier persona o grupo de la comunidad;
-
-II. Promover y apoyar la investigación académica, que pueda contribuir a la solución de los problemas Estatales, Regionales y Municipales en materia de vialidad y transporte;
-
-III. Formular propuestas encaminadas al sustancial desarrollo del Transporte en el Estado;
-
-IV. Conocer, estudiar, evaluar y dar seguimiento a las propuestas, sugerencias y planteamientos que formule la sociedad, que sean relativos al mejoramiento en la prestación del servicio;
-
-V. Coordinar acciones específicas para abatir los índices de siniestralidad en la red carretera del Estado, proponiendo medidas para mejorar las condiciones de seguridad en la prestación de los servicios público, privado y complementario;
-
-VI. Coordinarse con la Comisión Consultiva del Transporte Federal para el desarrollo de los planes y programas que puedan constituir un apoyo sustancial para el desarrollo del sector;
-
-VII. Proponer procedimientos y criterios técnicos, relacionados al cálculo de las tarifas del servicio de transporte;
-
-VIII. Proponer la entrega de reconocimientos, por méritos o estímulos a los prestadores del servicio de transporte;
-
-IX. Revisar denuncias o quejas sobre irregularidades relativas a la prestación del servicio de transporte;
-
-X. Auxiliar a las autoridades competentes en el ejercicio de sus tareas y participar en las actividades tendientes al buen desempeño de los prestadores del servicio;
-
-XI. Conocer y opinar sobre políticas en materia de transporte y vialidad y
-
-XII. Las demás que le encomiende el Gobernador del Estado y el Instituto.
+El Consejo Consultivo de Transporte, sesionará a convocatoria del Director General del Instituto, quien presidirá sus reuniones.
 
 ###### Artículo 160.
 
-El Consejo se integra por:
-
-I. Un Presidente, designado por el Gobernador del Estado;
-
-II. Un Secretario Técnico, designado por la Junta;
-
-III. Catorce miembros operativos permanentes, que serán representantes de las Secretarías, Dependencias y Organismos relacionados con la materia y
-
-IV. Diez Vocales permanentes, representantes de:
-
-A. La Asociación Estatal de Padres de Familia;
-
-B. La Delegación de la Cámara Nacional de la Industria de la Construcción;
-
-C. La Delegación de la Cámara Nacional de Comercio, Servicios y Turismo;
-
-D. La Delegación de la Cámara Nacional de la Industria de la Transformación;
-
-E. La Delegación de la Cámara Nacional de Autotransporte de Pasaje y Turismo;
-
-F. La Delegación de la Cámara Nacional de Autotransporte de Carga;
-
-G. La Federación de Trabajadores del Volante del Estado de Hidalgo;
-
-H. La Federación de Uniones de Trabajadores del Volante;
-
-I. La Unión de Taxistas del Estado de Hidalgo;
-
-J. Un representante por cada una de las organizaciones de transportistas, que cuenten con representación y carácter estatal, que se creen en lo futuro y que sean admitidas por el Consejo y
-
-K. Un representante de la Comisión Especial de Comunicaciones y Transportes del Poder Legislativo del Estado.
-
-V. Los Presidentes Municipales y los Diputados Locales, tendrán la calidad de miembros itinerantes y serán invitados por el Presidente del Consejo, cuando en el seno del mismo existan asuntos a tratar relativos a su Municipio y/o Distrito, respectivamente y
-
-VI. Los representantes de las dependencias federales tendrán la calidad de miembros itinerantes y serán invitados por el Presidente del Consejo, cuando en el seno de la comisión existan asuntos relativos a las mismas.
-
-A propuesta del Consejo, el Presidente formulará invitación a:
-
-a) Los miembros de la sociedad cuya actividad esté vinculada con el servicio de transporte y la vialidad;
-
-b) Los servidores públicos cuyas funciones sean acordes con las del Consejo;
-
-c) A las instituciones que tengan por objeto social el fomento a las actividades educativas, culturales, turísticas, de asistencia social y que se interesen en coadyuvar con los propósitos y fines de los programas del Instituto;
-
-d) Aquellos ciudadanos que realicen actividades relacionadas con el tema, conforme a los usos y costumbres de sus lugares de origen;
-
-e) A los propietarios o Directores de los medios de comunicación;
-
-f) A los representantes de los clubes de servicio y demás Organismos sociales intermedios;
-
-g) A los representantes de los Colegios de Profesionistas y
-
-h) A los representes de la banca de desarrollo.
+(DEROGADO, P.O. 19 DE ABRIL DE 2004)
 
 ###### Artículo 161.
 
-Todos los miembros del Consejo, en sus ausencias, serán representados por el suplente que hayan acreditado ante el Secretario Técnico; los votos emitidos por los suplentes tendrán la misma validez que los emitidos por los miembros titulares.
+(DEROGADO, P.O. 19 DE ABRIL DE 2004)
 
 ###### Artículo 162.
 
-Los acuerdos del Consejo tendrán validez, cuando sean emitidos por las tres cuartas partes de sus miembros presentes.
+(DEROGADO, P.O. 19 DE ABRIL DE 2004)
 
 ###### Artículo 163.
 
-Habrá quórum legal cuando en el seno del Consejo se encuentren reunidas las dos terceras partes de sus integrantes.
-
-El Consejo sesionará semestralmente de manera ordinaria; en caso de que existan asuntos de sumo interés o pendientes de evaluación, se reunirán de manera extraordinaria.
-
-Las convocatorias se harán por conducto del Secretario Técnico, quien fungirá como moderador y encargado del seguimiento de los Acuerdos del Consejo; al Secretario Técnico corresponde levantar las actas de las reuniones.
+(DEROGADO, P.O. 19 DE ABRIL DE 2004)
 
 ###### Artículo 164.
 
-El funcionamiento interno del Consejo será materia del reglamento que el mismo elabore y apruebe; en caso de empate, tendrán voto de calidad el Presidente y el Secretario General.
+(DEROGADO, P.O. 19 DE ABRIL DE 2004)
 
 ## TRANSITORIOS
 
@@ -1924,3 +1980,11 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO:
 
 LIC. MANUEL ANGEL NUÑEZ SOTO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE ABRIL DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
