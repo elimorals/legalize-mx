@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-los-servicios-de-seguridad-privada-para-el-34306"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-10-08"
-last_updated: "2003-10-08"
+last_updated: "2004-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34306&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO DE LOS SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2004.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 8 de octubre de 2003.
 
@@ -69,7 +69,11 @@ VIII. Autorización.- El permiso otorgado por la Secretaría a una persona físi
 
 IX. Revalidación.- El acto administrativo por el que la autoridad ratifica la validez de la autorización;
 
-X. Amonestación.- Sanción por la cual la Dirección advierte a los prestadoras (sic) del servicio, la omisión o falta en el cumplimiento de sus obligaciones y restricciones de este reglamento y demás ordenamientos jurídicos aplicables.
+X. Amonestación.- Sanción por la cual la Dirección advierte a los prestadoras (sic) del servicio, la omisión o falta en el cumplimiento de sus obligaciones y restricciones de este reglamento y demás ordenamientos jurídicos aplicables;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2004)</small>
+
+XI. Servicios de Seguridad Privada.- Se consideran como Servicios de Seguridad Privada, las funciones que desarrollan las personas físicas o morales que por sí o por conducto de terceros, tengan por objeto la protección o vigilancia de inmuebles e instalaciones; protección o vigilancia de bienes, incluyendo su traslado; establecimiento y operación de sistemas y equipos de seguridad; localización e información de personas física o morales y bienes; y, en general, los relacionados con toda actividad vinculada con los servicios de seguridad privada, así como aquellas que proporcionen asesorías en materia de prevención de riesgo de seguridad en las instalaciones de empresas o negociaciones.
 
 ###### Artículo 4°.
 
@@ -676,3 +680,11 @@ Cuarto.- Se concede a los Prestadores de los Servicios Privados de Seguridad, un
 DADO en Palacio de Gobierno, Sede del Poder Ejecutivo del Estado libre y soberano de Nayarit, en Tepic, su Capital, a los 5 cinco días del mes de Septiembre del año 2003 dos mil tres.
 
 C.P. Antonio Echevarría Domínguez, Gobernador Constitucional del Estado.- Rúbrica- Lic. Adán Meza Barajas, Secretario General de Gobierno.- Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 11 DE SEPTIEMBRE DE 2004.
+
+PRIMERO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se concede a las empresas o negociaciones que tengan en su establecimiento personal que ejerza funciones de seguridad privada, un término de sesenta días hábiles, contados a partir de la fecha de entrada en vigor del presente decreto, para que soliciten la autorización y registro correspondiente.
