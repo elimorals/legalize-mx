@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-de-la-ley-de-educacion-preparatoria-del-estado-3832"
 country: "mx"
 rank: "reglamento"
 publication_date: "1943-05-27"
-last_updated: "1944-12-30"
+last_updated: "1945-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO DE LA LEY DE EDUCACION PREPARATORIA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1944.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 1945.
 
 Reglamento publicado en la Segunda Sección de Periódico Oficial del Estado de Campeche, el jueves 27 de mayo de 1943.
 
@@ -85,19 +85,25 @@ El “Horario de Clases” deberá fijarse en las tablas de avisos de las escuel
 
 ### CAPITULO II. Del Calendario
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1945)</small>
+
 ###### Art. 8°.
 
-El año escolar se contará del primero de septiembre al treinta y uno de agosto del año civil siguiente, y comprenderá tres períodos:
+El año escolar se contará del primero de octubre al treinta de septiembre del año civil siguiente, y comprenderá tres períodos:
 
-a).- De trabajo escolar: del 1° de septiembre hasta el 10 de junio;
+a).- De trabajo escolar: del 1o. de octubre hasta el 10 de julio;
 
-b).- De exámenes generales: del 11 al 30 de junio;
+b).- De exámenes generales: del 11 al 31º de julio;
 
-c).- De vacaciones de fin de cursos: los meses de julio y agosto.
+c).- De vacaciones de fin de cursos: los meses de agosto y septiembre.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1945)</small>
 
 ###### Art. 9°.
 
 Las vacaciones parciales, así como los días en que deban ser suspendidas las labores escolares, se regirán por el Calendario de las escuelas primarias oficiales.
+
+Las labores oficiales escolares podrán suspenderse, además, por disposición de los directores respectivos de las escuelas preparatorias oficiales del Estado, cuando lo juzguen necesario y bajo su responsabilidad.
 
 ### CAPITULO III. De los planes y programas de estudios
 
@@ -541,11 +547,13 @@ Se entiende por curso, para los efectos de este Reglamento, el conjunto de asign
 
 ### CAPITULO IX. De las inscripciones
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1945)</small>
+
 ###### Art. 48.
 
-El período de inscripciones queda comprendido entre el 15 de agosto y el 15 de septiembre de cada año.
+El período de inscripciones queda comprendido entre el 1o. y el 30 de septiembre de cada año.
 
-Fuera de este período no podrá aceptarse la inscripción de ningún estudiante sino por acuerdo del Gobernador del Estado, y siempre que no haya trascurrido el primer trimestre de trabajo escolar.
+Fuera de este período no podrá aceptarse la inscripción de ningún estudiante si no por acuerdo del Gobierno del Estado y siempre que no haya trausenrrido (sic) el primer mes de trabajo escolar.
 
 ###### Art. 49.
 
@@ -825,11 +833,13 @@ Si no obtuvieren nota aprobatoria en ellos o no los sustentaren, perderán sus d
 
 Exámenes de revaloración son los que se conceden a ex-alumnos de alguna de las escuelas preparatorias oficiales del Estado, de la Federación o de las de los demás Estados, que, por cambios o diferencias en los planes de estudios, no puedan ingresar como alumnos al año inmediato por deber asignaturas de curso o cursos anteriores.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1945)</small>
+
 ###### Art. 86.
 
-Habrá en cada año escolar un período de exámenes de revalorización, para que los estudiantes comprendidos en el caso a que se refiere el artículo anterior puedan regularizar su situación presentando exámenes de las materias que adeudan e ingresar como alumnos al curso inmediato.
+Habrá en cada año escolar un período de exámenes de revaloración, para que los estudiantes comprendidos en el caso a que se refiere el artículo anterior puedan regularizar su situación presentando exámenes de las materias que adeudan e ingresar como alumnos al curso inmediato.
 
-Este período quedará comprendido entre el 1° de septiembre y el 30 de noviembre, inclusive.
+Este período quedará comprendido entre el 1o. y el 30° de septiembre.
 
 ###### Art. 87.
 
@@ -1376,3 +1386,7 @@ Dado en el Palacio de Poder Ejecutivo del Estado, en Campeche a los trece días 
 P.O. 30 DE DICIEMBRE DE 1944.
 
 UNICO.- El presente decreto entrará en vigor desde la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE AGOSTO DE 1945.
+
+Unico.- El presente decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
