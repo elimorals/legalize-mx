@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1997-05-21"
+last_updated: "1998-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 1998.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -36,6 +36,8 @@ CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON.
 ## TITULO I.
 
 De los Derechos del Hombre.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ## TITULO II
 
@@ -1475,7 +1477,9 @@ El censo electoral a que se refiere el art. 45 se levantará desde la próxima e
 
 ###### Art. 1o.
 
-El Pueblo Nuevoleonés reconoce que los derechos del hombre son la base y el objeto de las instituciones sociales. En consecuencia, declara que todas las leyes y todas las autoridades del Estado deben respetar y sostener las garantías que otorga la presente Constitución.
+El pueblo nuevoleonés reconoce que los derechos del ser humano son la base y el objeto de las instituciones sociales. En consecuencia, declara que todas las leyes y todas las autoridades del Estado deben respetar y sostener las garantías que otorga la presente Constitución.
+
+El varón y la mujer son iguales ante la Ley. Ésta protegerá la integración y el desarrollo de la familia.
 
 ###### Art. 2o.
 
@@ -2276,3 +2280,7 @@ DECRETO NUMERO 273, QUE DEROGA EL ARTICULO 130.
 P.O. 21 DE MAYO DE 1997.
 
 UNICO:- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE SEPTIEMBRE DE 1998.
+
+Único. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
