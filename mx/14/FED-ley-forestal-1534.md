@@ -4,7 +4,7 @@ identifier: "FED-ley-forestal-1534"
 country: "mx"
 rank: "ley"
 publication_date: "1926-04-24"
-last_updated: "1928-02-07"
+last_updated: "1934-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1926-04-05"
 
 LEY FORESTAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE FEBRERO DE 1928.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE ENERO DE 1934.
 
 Ley publicada en el Número 45 del Diario Oficial, el sábado 24 de abril de 1926
 
@@ -189,9 +189,11 @@ Queda prohibido el empleo de maderas de continua renovación, tales como durmien
 
 Todas las empresas de transportes, cualesquiera que sean su denominación y categoría, están obligadas a no recibir maderas para su embarque o transporte, que no vayan amparadas por las guías forestales respectivas expedidas por la Secretaría de Agricultura y Fomento, o empleados federales autorizados, de acuerdo con el reglamento respectivo.
 
+> <small>(REFORMADO, D.O. 15 DE ENERO DE 1934)</small>
+
 ###### ARTICULO 32.
 
-Queda prohibida la explotación de maderas con fines industriales o comerciales, en las que la labra se haga por el sistema a hacha; por lo tanto, será obligatoria a todos los explotadores, la labra a sierra.
+El Ejecutivo pondrá en práctica las medidas que juzgue adecuadas para que paulatinamente cese en las explotaciones forestales el sistema del labrado a hacha, para ser substituído por el de labrado a sierra.
 
 ###### ARTICULO 33.
 
@@ -251,9 +253,15 @@ El Ejecutivo de la Unión reglamentará el ingreso, jerarquía, atribuciones, fu
 
 ### CAPITULO I. De los impuestos
 
+> <small>(REFORMADO, D.O. 15 DE ENERO DE 1934)</small>
+
 ###### ARTICULO 44.
 
-Las explotaciones forestales de carácter comercial o industrial, causarán un impuesto progresivo, que se fijará en proporción directa sobre el valor y monto de los productos extraídos, de acuerdo con los reglamentos respectivos que el Ejecutivo dicte.
+Las explotaciones forestales de carácter comercial e industrial causarán los impuestos y derechos que fijen las leyes.
+
+Una ley especial que expedirá el Ejecutivo, determinará la forma y términos en que el impuesto habrá de causarse teniendo en cuanta no sólo el aspecto fiscal, sino las circunstancias derivadas de la forma, lugares y condiciones en que la explotación se efectúe.
+
+Las leyes, decretos y tarifas respectivas, de acuerdo con lo dispuesto por los artículos 3o. y 4o. de la Ley de Ingresos para el ejercicio fiscal de 1934, requerirán indispensablemente, el refrendo de los ciudadanos Secretarios de Agricultura y Fomento y de Hacienda y Crédito Público.
 
 ###### ARTICULO 45.
 
@@ -436,3 +444,11 @@ México, 21 de abril de 1926.-El Secretario de Estado y del Despacho de Gobernac
 D.O. 7 DE FEBRERO DE 1928.
 
 > <small>[N. DE E. EL "DECRETO QUE REFORMA EL ARTÍCULO 69 DE LA LEY FORESTAL DE 5 DE ABRIL DE 1926", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2 DEL CÓDIGO CIVIL DEL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.]</small>
+
+D.O. 15 DE ENERO DE 1934.
+
+> <small>[N. DE E. SE TRANSCRIBE EL ARTÍCULO 2o. DEL "DECRETO QUE REFORMA LOS ARTÍCULOS 32 Y 44 DE LA LEY FORESTAL VIGENTE" QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+###### ARTICULO 2o.
+
+Las presentes reformas surtirán sus efectos desde el día de su publicación en el "Diario Oficial" de la Federación.
