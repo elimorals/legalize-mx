@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1972-07-06"
+last_updated: "1973-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 1972.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE1973.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -525,9 +525,11 @@ II.- Dar la resolución que corresponda, aprobando, reformando o reprobando las 
 
 III.- Computar los votos emitidos en las elecciones de Diputados y de Gobernador del Estado, calificar la elección y hacer la declaración de los electos, en los términos de la ley; así como tomarles la protesta legal, lo mismo que a los Magistrados del Tribunal de Justicia del Estado;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1928)</small>
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 1973)</small>
 
-IV.- Exigir a la Contraloría que rinda cuenta sobre la recaudación e inversión de los caudales públicos, de acuerdo con la ley especial que reglamente el funcionamiento de la misma Contraloría.
+IV.- Exigir de la Contraloría que dé cuenta sobre la recaudación e inversión de los caudales públicos de acuerdo con la ley que reglamente el funcionamiento de la misma Contraloría, especialmente en lo que se refiere al informe trimestral que sobre tal recaudación e inversión deberá rendir el C. Gobernador del Estado.
+
+La Legislatura, dentro del período ordinario de sesiones en que se dé por la Contraloría el informe a que alude el párrafo anterior o en el período inmediato siguiente si se hubiera presentado durante un receso, aprobará ó reprobará la cuenta presentada, expresando en el segundo caso las razones que para ello estime pertinentes.
 
 V.- Expedir en su caso la convocatoria para elecciones:
 
@@ -1101,9 +1103,11 @@ De la Contaduría General de Hacienda del Estado.
 
 Se establece en el Estado el Departamento de Contraloría cuya organización y funcionamiento se determinarán en la ley respectiva.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 1973)</small>
+
 ###### Art. 74.
 
-El Contador General de Hacienda, en los términos que señale el Reglamento respectivo, rendirá cada año un informe pormenorizado al Congreso, sobre las cuentas presentadas por el Ejecutivo, haciendo en él las observaciones que estime pertinentes.
+El Contador General de Hacienda, en los términos que señale el Reglamento respectivo, rendirá trimestralmente al Congreso un informe pormenorizado sobre las cuentas presentadas por el Ejecutivo, haciendo en él las observaciones que estime pertinentes.
 
 ## TITULO NOVENO
 
@@ -1397,9 +1401,9 @@ XIV.- Excitar a la Diputación Permanente para que convoque a la Legislatura a s
 
 XV.- Proponer a la Legislatura, cada año, las Leyes de Ingresos del año próximo, tanto del Estado, como de los Municipios y los Presupuestos de Egresos del primero, y presentarle la cuenta del año anterior para su revisión;
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 1972)</small>
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 1973)</small>
 
-XVI.- Rendir anualmente a la Legislatura del Estado el informe a que se refiere el Articulo 50 de esta Constitución.
+XVI.- Remitir trimestralmente al Congreso a través de la Contaduría General de Hacienda, un informe detallado y documentado de la recaudación e inversión que se haya hecho de los caudales públicos a efecto de que, satisfecho el requisito que establece el articulo 74, se dicte la resolución que previene la fracción IV del articulo 63.- (sic) Independientemente de la obligación que este precepto impone, se cumplirá con la que señala el artículo 50 de esta misma Constitución.
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1928)</small>
 
@@ -1700,3 +1704,7 @@ UNICO.- La presente Ley surtirá efectos a partir de la fecha de su publicación
 P.O. 6 DE JULIO DE 1972
 
 UNICO.- La presente Ley entrará en vigor en la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE MARZO DE 1973
+
+UNICO.- Esta Ley entrará en vigor en la fecha de su publicación en el Periódico Oficial del Estado.
