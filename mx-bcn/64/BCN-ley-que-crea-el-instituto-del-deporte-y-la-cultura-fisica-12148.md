@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-crea-el-instituto-del-deporte-y-la-cultura-fisica-12148
 country: "mx"
 rank: "ley"
 publication_date: "1997-08-08"
-last_updated: "1997-08-08"
+last_updated: "2002-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12148&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY QUE CREA EL INSTITUTO DEL DEPORTE Y LA CULTURA FISICA DE BAJA CALIFORNIA -ANTES LEY QUE CREA EL INSTITUTO DE LA JUVENTUD Y DEL DEPORTE DE BAJA CALIFORNIA-
 
-LEY QUE CREA EL INSTITUTO DE LA JUVENTUD Y DEL DEPORTE DE BAJA CALIFORNIA
+LEY QUE CREA EL INSTITUTO DEL DEPORTE Y LA CULTURA FISICA DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 8 de agosto de 1997.
 
@@ -37,25 +37,33 @@ LA H. XV LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORN
 
 UNICO.- Se ratifica el dictamen número 62 de la Comisión de Legislación y Puntos Constitucionales, aprobado por la XV Legislatura Constitucional en fecha 10 de abril de 1997, que contiene el proyecto de decreto de la Ley que crea el Instituto de la Juventud y del Deporte de Baja California, y se modifica el contenido de los artículos 2° en su párrafo segundo y 3° fracción XVII, de acuerdo a las observaciones que el Ejecutivo del Estado en su oportunidad señaló; en virtud de lo anterior, queda en los siguientes términos:
 
-LEY QUE CREA EL INSTITUTO DE LA JUVENTUD Y DEL DEPORTE DE BAJA CALIFORNIA
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE ENERO DE 2002)</small>
+
+LEY QUE CREA EL INSTITUTO DEL DEPORTE Y LA CULTURA FISICA DE BAJA CALIFORNIA
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2002)</small>
+
 ###### Artículo 1°.
 
-Se crea el Instituto de la Juventud y del Deporte de Baja California, como un organismo público descentralizado, con personalidad jurídica y patrimonio propio, con domicilio en la ciudad de Mexicali.
+Se crea el Instituto del Deporte y la Cultura Física de Baja California, como un organismo público descentralizado, con personalidad jurídica y patrimonio propio, con domicilio en la ciudad de Mexicali.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ENERO DE 2002)</small>
 
 ###### Artículo 2°.
 
-El Instituto de la Juventud y del Deporte de Baja California, tendrá como objetivo general coordinar el Sistema Estatal del Deporte y la Cultura Física, con la participación que corresponda a las dependencias y entidades de la administración pública y de las organizaciones del sector social y privado.
+El Instituto del Deporte y la Cultura Física de Baja California, tendrá como objetivo general coordinar el Sistema Estatal del Deporte y la Cultura Física, con la participación que corresponda a las dependencias y entidades de la administración pública y de las organizaciones del sector social y privado.
 
 Para la eficiente atención de sus asuntos, el Instituto contará con las delegaciones que considere necesarias, a través de las cuales operará los programas y prioridades que señala el Artículo 6 de la Ley Estatal del Deporte y la Cultura Física, y se coordinarán con las entidades deportivas de los gobiernos municipales para la atención de las prioridades que para este ámbito señala el Artículo 29 de la misma Ley.
 
 ### CAPITULO SEGUNDO. DE LAS ATRIBUCIONES DEL INSTITUTO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ENERO DE 2002)</small>
+
 ###### Artículo 3°.
 
-El Instituto de la Juventud y del Deporte de Baja California tendrá las siguientes atribuciones:
+El Instituto del Deporte y la Cultura Física de Baja California tendrá las siguientes atribuciones:
 
 I. Promover y ejecutar la política del deporte y la cultura física en el Estado;
 
@@ -69,19 +77,25 @@ V. Promover la concertación de acciones con instituciones de carácter público
 
 VI. Proponer mecanismos de coordinación ante autoridades federales y gobiernos estatales, para concertar convenios que tiendan al desarrollo deportivo de la población de Baja California;
 
-VII. Promover ante los municipios de la entidad, la concertación de acciones que procuren el desarrollo en forma integral del deporte y la cultura física, fomentando la organización y participación de la comunidad en dichas disciplinas;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2002)</small>
+
+VII. Promover ante los municipios de la entidad, la concertación de acciones que procuren el desarrollo en forma integral del deporte y la cultura física, fomentando la creación de organismos municipales para atender y regular el deporte popular en el ámbito de su competencia, asimismo para la administración de las instalaciones deportivas con programas de mantenimiento y construcción de las mismas; fomentando la organización y participación de la comunidad en dichas disciplinas;
 
 VIII. Fomentar las relaciones de cooperación con organismos deportivos privados, municipales, estatales, federales e internacionales;
 
 IX. Proponer y llevar a cabo programas de capacitación en materia deportiva;
 
-X. Diseñar y proponer criterios para asegurar la uniformidad y congruencia entre los programas de deporte y la cultura física del sector público y privado;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2002)</small>
+
+X. Diseñar y proponer criterios para asegurar la uniformidad y congruencia entre los programas de deporte y la cultura física del sector público y privado, determinando los requerimientos necesarios para fortalecer el Sistema Estatal del Deporte, así como planear, programar, aprobar, ejecutar y dar seguimiento a los medios para satisfacerlos, conforme a la exigencia de la dinámica social;
 
 XI. Procurar servicios y realizar programas deportivos por sí, o en colaboración con el sector público y privado;
 
 XII. Intervenir directamente en la organización, administración y control económico de las competencias o torneos estatales y nacionales que se celebren en el Estado cuando sean de carácter oficial;
 
-XIII. Crear y conceder becas, reconocimientos, premios y trofeos como estímulos para el deportista o asociación deportiva que destaque en la práctica, organización, o apoyo al deporte;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2002)</small>
+
+XIII. Promover la constitución de un fondo estatal para el desarrollo del deporte, crear y conceder becas, reconocimientos, premios y trofeos como estímulos para el deportista o asociación deportiva que se destaque en la práctica, organización, o apoyo al deporte;
 
 XIV. Organizar desfiles atléticos y todo género de eventos deportivos;
 
@@ -89,13 +103,17 @@ XV. Administrar y controlar las aportaciones económicas que reciba de la admini
 
 XVI. Procurar entre instituciones públicas, privadas, organismos deportivos y deportistas, la unidad de sus fines, con el objeto de que la actividad deportiva se rija por esta ley, así como por las disposiciones que de ella emanen, y
 
-XVII. Procurar aportaciones estatales, federales o privadas para la adquisición o distribución de material y apoyo para el fomento del deporte popular y escolar en las poblaciones rurales y urbanas a través de los comités deportivos y los consejos para el desarrollo del deporte extraescolar (CONDEBA Y CONADEMS), respectivamente, o en su caso, a través de los Municipios.
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2002)</small>
+
+XVII. Procurar aportaciones estatales, federales, o privadas para la adquisición o distribución de material y apoyo para el fomento del deporte popular y escolar en las poblaciones rurales y urbanas, a través de los comités deportivos, de las delegaciones del deporte en cada municipio y los consejos para el desarrollo del deporte extraescolar (CONDEBA Y CONADEMS), respectivamente, o en su caso, a través de los Municipios.
 
 ### CAPITULO TERCERO. ESTRUCTURA ORGANICA DEL INSTITUTO
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2002)</small>
+
 ###### Artículo 4°.
 
-El Instituto de la Juventud y del Deporte se regirá por una Junta Directiva.
+El Instituto del Deporte y la Cultura Física se regirá por una Junta Directiva.
 
 ###### Artículo 5°.
 
@@ -105,13 +123,19 @@ I. Secretaría General de Gobierno;
 
 II. Oficialía Mayor de Gobierno;
 
-III. Secretaría de Finanzas;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2002)</small>
 
-IV. Secretaría de Planeación y Presupuesto;
+III. Secretaría de Planeación y Finanzas;
 
-V. Unidad de Coordinación General de la Política de Desarrollo Social, y
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2002)</small>
 
-VI. Dirección de Control y Evaluación Gubernamental.
+IV. Secretaría de Desarrollo Social; y
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2002)</small>
+
+V. Dirección de Control y Evaluación Gubernamental.
+
+VI. (DEROGADA, P.O. 11 DE ENERO DE 2002)
 
 La Junta Directiva podrá invitar a organizaciones deportivas u otras autoridades a las reuniones que realice cuando así lo considere oportuno, mismas que participarán con voz, pero sin voto.
 
@@ -143,7 +167,9 @@ III. Elaborar el reglamento interno del Instituto;
 
 IV. Examinar y en su caso aprobar, los planes, programas, y proyectos de presupuestos anuales de ingresos y egresos del Instituto;
 
-V. Nombrar al Director General y otorgarle poderes generales y especiales necesarios para cumplimentar los objetivos del Instituto de la Juventud y del Deporte de Baja California, con las limitaciones que establezcan las disposiciones legales aplicables, así como las que considere necesario determinar;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2002)</small>
+
+V. Nombrar al Director General y otorgarle poderes generales y especiales para cumplimentar los objetivos del Instituto del Deporte y la Cultura Física de Baja California, con las limitaciones que establezcan las disposiciones legales aplicables, así como las que considere necesario determinar;
 
 VI. Conocer y en su caso aprobar los informes que le rinda el director general del Instituto;
 
@@ -185,9 +211,11 @@ X. Las demás que determine la Junta Directiva y las disposiciones legales y apl
 
 ### CAPITULO CUARTO. PATRIMONIO DEL INSTITUTO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ENERO DE 2002)</small>
+
 ###### Artículo 13.
 
-El patrimonio del Instituto de la Juventud y del Deporte de Baja California, se constituirá:
+El patrimonio del Instituto del Deporte y la cultura Física de Baja California, se constituirá:
 
 I. Con los subsidios que otorgue el gobierno del Estado y que estén considerados en el presupuesto de egresos correspondiente;
 
@@ -242,3 +270,11 @@ HECTOR TERAN TERAN.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 RODOLFO VALDEZ GUTIERREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE ENERO DE 2002.
+
+PRIMERO.- Las presentes modificaciones y reformas entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Para todos los efectos legales correspondientes, la denominación del Instituto de la Juventud y el Deporte de Baja California, se entenderá como Instituto del Deporte y la Cultura Física de Baja California, una vez que entren en vigor estas modificaciones y reformas.
