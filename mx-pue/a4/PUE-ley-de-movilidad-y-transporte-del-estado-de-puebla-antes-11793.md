@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-movilidad-y-transporte-del-estado-de-puebla-antes-11793"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-18"
-last_updated: "1998-04-13"
+last_updated: "2001-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "PUE"
 
 LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE ABRIL DE 1998.]</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2001.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de marzo de 1998.
 
@@ -221,9 +219,11 @@ LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA
 
 La presente Ley es de interés social y de orden público, de observancia general en el Estado de Puebla y tiene por objeto regular todo lo relacionado con el Servicio Público de Transporte y el Servicio Mercantil y sus Servicios Auxiliares.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2001)</small>
+
 ###### ARTICULO 2.
 
-La autoridad competente para la interpretación, aplicación y observancia de la presente Ley y sus Reglamentos es la Secretaría de Comunicaciones y Transportes del Estado de Puebla.
+La autoridad competente para la interpretación y observación de la presente Ley y sus Reglamentos, es la Secretaría de Comunicaciones y Transportes del Estado de Puebla, la cual en todo caso, deberá aplicar como criterio fundamental, lo que sea más conveniente para el servicio público y sus usuarios, promoviendo la participación social en la planeación, operación y supervisión del transporte.
 
 ###### ARTICULO 3.
 
@@ -293,13 +293,17 @@ IV.- Proponer al Secretario, para su autorización las normas técnicas, operati
 
 V.- Las demás que le otorgue la presente Ley y sus Reglamentos.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2001)</small>
+
 ###### ARTICULO 8.
 
-La Secretaría, contará con Supervisores para vigilar, controlar y ejecutar las disposiciones de la presente Ley y sus Reglamentos.
+La Secretaría, contará con Supervisores para vigilar, controlar y ejecutar las disposiciones de la presente Ley y sus Reglamentos; así como, podrá convenir con otras dependencias y entidades de la Administración Pública Federal, Estatal o Municipal, la coparticipación en dichas funciones.
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2001)</small>
 
 ###### ARTICULO 9.
 
-Para los efectos de esta Ley y sus Reglamentos, se entienden por Supervisores, los servidores públicos adscritos a la Secretaría de Comunicaciones y Transportes del Estado de Puebla, que tienen a su cargo supervisar, vigilar y levantar las infracciones al Servicio Público de Transporte y al Servicio Mercantil, sus Servicios Auxiliares y a los prestadores de los mismos.
+Para los efectos de esta Ley y sus Reglamentos, se entiende por Supervisores, a los servidores públicos adscritos a la Secretaría de Comunicaciones y Transportes del Estado de Puebla y a los designados en los términos de los convenios a que hace referencia el artículo anterior y que tengan a su cargo las atribuciones señaladas en el artículo 10 de esta Ley.
 
 ###### ARTICULO 10.
 
@@ -313,7 +317,13 @@ III.- Practicar inspecciones y revistas a los vehículos del Servicio Público d
 
 IV.- Ejecutar las disposiciones que sobre la materia emitan las autoridades del transporte del Estado, y
 
-V.- Las demás que les confieran la presente Ley y sus Reglamentos.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2001)</small>
+
+V.- Retirar de la circulación a los vehículos que no cumplan con los requisitos establecidos en la presente Ley y sus Reglamentos, y
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2001)</small>
+
+VI.- Las demás que les confieran la presente Ley y sus Reglamentos.
 
 ###### ARTICULO 11.
 
@@ -459,9 +469,11 @@ Giro Restringido, es aquél que se presta en vehículos que requieren tener cond
 
 Los vehículos destinados a la prestación del Servicio Público de Transporte y del Servicio Mercantil, además de cumplir con lo establecido en la presente Ley, cuando así lo requiera la autoridad competente, deberán acreditar la vigencia de la concesión o del permiso correspondiente.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2001)</small>
+
 ###### ARTICULO 36.
 
-Para que un vehículo del Servicio Público de Transporte y del Servicio Mercantil, pueda circular por la infraestructura vial del Estado, deberá estar provisto de los siguientes documentos: placas, tarjeta de circulación, calcomanías y, en su caso, tarjetón de concesión o permiso. Además tendrá que reunir los requisitos de funcionalidad, seguridad y comodidad que señale esta Ley y sus Reglamentos. Tratándose de las unidades del Servicio Público de Transporte y Servicio Mercantil, tendrán que llevar los colores reglamentarios además de las especificaciones relativas a su identificación.
+Para que un vehículo del Servicio Público del Transporte y del Servicio Mercantil, pueda circular por la infraestructura vial del Estado, deberá contar con los siguientes documentos: Placas vigentes, tarjeta de circulación, calcomanías y, en su caso, tarjetón de concesión o permiso. Además, estará obligado a reunir los requisitos de funcionalidad, seguridad y comodidad que señala esta Ley y sus Reglamentos. Tratándose de las unidades del Servicio Público del Transporte y del Servicio Mercantil, tendrá que llevar los colores reglamentarios además de cumplir con las especificaciones relativas a su identificación.
 
 ###### ARTICULO 37.
 
@@ -471,9 +483,11 @@ Todo vehículo que circule en la infraestructura vial del Estado, deberá contar
 
 Los vehículos del Servicio Público de Transporte y del Servicio Mercantil emplacados en el Estado, deberán de estar protegidos por un seguro que cubra los daños causados a sus ocupantes y a terceros.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2001)</small>
+
 ###### ARTICULO 39.
 
-La emisión de los formatos relacionados con el Servicio Público de Transporte y el Servicio Mercantil, corresponderán a la Secretaría en coordinación con la Secretaría de Finanzas.
+La emisión de los formatos relacionados con el Servicio Público del Transporte y del Servicio Mercantil, corresponderá a la Secretaría, en coordinación con la Secretaría de Finanzas y Desarrollo Social del Estado.
 
 ###### ARTICULO 40.
 
@@ -501,15 +515,23 @@ Los tipos de licencia que expida la Secretaría son:
 
 I.- LICENCIA PROVISIONAL PARA AUTOMOVILISTA Y MOTOCICLISTA.- Se otorga a personas de los dieciséis a los dieciocho años, previa presentación de la carta responsiva del padre o tutor legalmente ratificadas. Así como a quienes, siendo mayores de dieciocho años, estén aprendiendo a conducir, estas licencias tendrán vigencia de seis meses;
 
-II.- LICENCIA DE AUTOMOVILISTA.- Se otorga a partir de los dieciocho años cumplidos, es de uso particular, la requieren los conductores de automóviles o vehículos de su pertenencia o de propiedad ajena, que no presten servicios al público y que por consiguiente no reciban retribución alguna. Tendrá una vigencia de tres, cinco y diez años, de acuerdo con la normatividad aplicable;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2001)</small>
 
-III.- LICENCIA DE MOTOCICLISTA.- La requieren los conductores de estos vehículos de dos, tres o cuatro ruedas o, derivados de los mismos, las cuales se otorgarán a partir de los dieciocho años cumplidos. Tendrá una vigencia de tres, cinco y diez años;
+II.- LICENCIA DE AUTOMOVILISTA.- Se otorga a los conductores de automóviles o vehículos, propios o ajenos, que no presten servicios remunerados al público y hayan cumplido dieciocho años de edad. Tendrá una vigencia de tres y cinco años, de acuerdo con la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2001)</small>
+
+III.- LICENCIA DE MOTOCICLISTA.- Se otorga a los conductores de vehículos de dos, tres o cuatro ruedas o, derivados de los mismos y que hayan cumplido dieciocho años de edad. Tendrán una vigencia de tres y cinco años;
 
 IV.- LICENCIA PARA CHOFER PARTICULAR.- La requieren los conductores de toda clase de vehículos particulares;
 
 V.- LICENCIA DE CHOFER PARA EL SERVICIO PUBLICO Y EL SERVICIO MERCANTIL.- La requieren los conductores de vehículos destinados al Servicio Público de Transporte y al Servicio Mercantil, sin menoscabo de conducir toda clase de vehículos y tendrá una vigencia de tres años, y
 
 VI.- LICENCIA TEMPORAL DE ENTRENAMIENTO DE CHOFER DEL SERVICIO PUBLICO Y DEL SERVICIO MERCANTIL.- Esta se otorgará a partir de los dieciocho años y tendrá una vigencia de seis meses, otorgándose hasta por cuatro veces consecutivas y le serán aplicables en lo conducente lo establecido por las fracciones anteriores.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2001)</small>
+
+Las licencias a que hace referencia este artículo, son de uso personal e intransferible.
 
 ###### ARTICULO 45.
 
@@ -607,7 +629,9 @@ III.- Declaración bajo protesta de decir verdad, manifestando si es titular de 
 
 IV.- Precisar los puntos correspondientes a la ruta, el Municipio o los municipios que comprenda. Tratándose del Servicio Público de Transporte Urbano, señalar las calles del recorrido, así como los lugares donde se pretenda ubicar la base, terminal o sitio;
 
-V.- Garantía que otorga a favor de la Secretaría de Finanzas, para asegurar la continuidad de los trámites correspondientes;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2001)</small>
+
+V.- Garantía que se otorga a favor de la Secretaría de Finanzas y Desarrollo Social del Estado, para asegurar la continuidad de los trámites correspondientes;
 
 VI.- El seguro de viajero que se obliga a contratar, a fin de proteger a los usuarios y terceros sobre cualquier riesgo que puedan sufrir con motivo de la prestación del servicio, y
 
@@ -667,9 +691,15 @@ X.- Facultades de las autoridades con relación a la vigilancia y control del se
 
 XI.- Lugar y fecha de expedición y firma de la autoridad concedente.
 
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2001)</small>
+
+XII.- Nombre del beneficiario y/o beneficiarios substitutos.
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2001)</small>
+
 ###### ARTICULO 66.
 
-En igualdad de circunstancias respecto de otros solicitantes se estará a lo que dispone la presente Ley; se procurará dar preferencia a las personas físicas y/o morales que actualmente prestan el servicio y siempre que cuenten con las mejores condiciones técnicas, financieras y de operación necesarias para la prestación del mismo.
+En igualdad de circunstancias respecto de otros solicitantes, se procurará dar preferencia a las personas físicas y/o morales que cuenten con las mejores condiciones técnicas, financieras y de operación necesarias para la prestación del mismo.
 
 ###### ARTICULO 67.
 
@@ -683,9 +713,11 @@ Las personas físicas que aspiren a prestar el Servicio Público de Transporte, 
 
 Las personas morales debidamente constituidas, que aspiren a prestar el Servicio Público de Transporte, se les otorgarán el número de concesiones para satisfacer el servicio de que se trate, previo estudio técnico que al efecto realice la Secretaría.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2001)</small>
+
 ###### ARTICULO 70.
 
-Las concesiones que se otorguen a las personas físicas o morales para prestar el Servicio Público de Transporte, tendrán una vigencia indefinida. Lo anterior no libera al concesionario de realizar el trámite anual que deberá efectuar en las oficinas recaudadoras de la Secretaría de Finanzas, en términos de la Ley de Ingresos del Estado.
+Las concesiones que se otorguen a las personas físicas o morales para prestar el Servicio Público del Transporte, tendrán una vigencia indefinida, sin embargo, la autoridad o la comisión respectiva certificará cada tres años, la validez de las mismas. Lo anterior, no libera al concesionario de realizar el correspondiente pago anual, el que se deberá efectuar en las oficinas recaudadoras de la Secretaría de Finanzas y Desarrollo Social del Estado.
 
 ###### ARTICULO 71.
 
@@ -733,9 +765,11 @@ X.- Giros Restringidos, y
 
 XI.- El transporte Especial.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2001)</small>
+
 ###### ARTICULO 76.
 
-Los requisitos que deberán reunir los interesados para obtener los permisos, serán los que se establecen en los artículos 61 fracciones I, II, VI y VII y 62 fracciones I, II, III, VI, VII y VIII de esta Ley.
+Los requisitos que deberán reunir los interesados para obtener los permisos, serán los que se establecen en los artículos 61 y 62 de esta Ley.
 
 ###### ARTICULO 77.
 
@@ -745,9 +779,11 @@ Los permisos para el Servicio de Transporte en Automóviles de Alquiler o Taxis 
 
 Las personas morales debidamente constituidas que aspiren a prestar el Servicio de Transporte con Automóviles de Alquiler, se les otorgará los permisos para satisfacer el servicio de que se trate, previo estudio que determine la Secretaría.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2001)</small>
+
 ###### ARTICULO 79.
 
-Los permisos a que hace referencia la presente Ley tendrán una vigencia de un año, con excepción del Servicio de Transporte con automóviles de alquiler, los de materiales para construcción o diversos, los de carga ligera y mudanzas cuya duración será indefinida. Lo anterior no libera al permisionario de realizar el trámite correspondiente a través del pago anual que deberá efectuar en las oficinas recaudadoras de la Secretaría de Finanzas, en términos de la Ley de Ingresos del Estado.
+Los permisos a que hace referencia la presente Ley tendrán una vigencia de un año, con la excepción del Servicio del Transporte con Automóviles del Servicio de Alquiler, los de materiales para construcción o diversos, los de carga ligera o mudanzas cuya duración será indefinida. Lo anterior no libera al permisionario de realizar el trámite correspondiente a través del pago anual que deberá efectuar en las oficinas recaudadoras de la Secretaría de Finanzas y Desarrollo Social del Estado, según lo señalado por la Ley de Ingresos del Estado.
 
 ###### ARTICULO 80.
 
@@ -779,17 +815,21 @@ Cuando con posterioridad al registro del vehículo del Servicio Público de Tran
 
 Los concesionarios y los permisionarios tendrán, en todo tiempo, la obligación de capacitarse, así como la de proporcionar a sus conductores la capacitación y el adiestramiento necesarios para lograr que la prestación de los servicios a su cargo sean eficientes, seguros y con apego a las disposiciones de la presente Ley y sus Reglamentos.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2001)</small>
+
 ###### ARTICULO 86.
 
-Los concesionarios y los permisionarios, se obligan a que los conductores de sus unidades tengan vigente la licencia correspondiente, así como los tarjetones de identificación; pues la inobservancia de esta disposición, tendrá como resultado la aplicación de la sanción procedente.
+Los concesionarios y los permisionarios, se obligan a que los conductores de sus unidades, tengan vigente la licencia y los certificados de capacitación correspondientes, así como, los tarjetones de identificación; la inobservancia de esta disposición, tendrá como resultado la aplicación de la sanción a que haya lugar.
 
 ###### ARTICULO 87.
 
 Los concesionarios y los permisionarios del Servicio Público de Transporte y del Servicio Mercantil, deberán cumplir, en todo tiempo, con la revista vehicular cuando así lo determine la Secretaría.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2001)</small>
+
 ###### ARTICULO 88.
 
-Los concesionarios y los permisionarios del Servicio Público de Transporte y del Servicio Mercantil y sus Servicios Auxiliares, están obligados a proporcionar, en todo tiempo, a los Supervisores designados por la Secretaría, los datos, informes y documentos relativos a la prestación del servicio que les sean requeridos; así como a permitir el acceso a las instalaciones de los servicios auxiliares, en términos de la orden escrita de supervisión emitida por la Secretaría.
+Los concesionarios y los permisionarios del Servicio Público del Transporte y del Servicio Mercantil y sus Servicios Auxiliares, están obligados a proporcionar, en todo tiempo, a los Supervisores, los datos, informes y documentos relativos a la prestación del servicio que les sean requeridos; así como, a permitir el acceso a las instalaciones de los Servicios Auxiliares, en términos de la orden escrita de supervisión emitida por la Secretaría.
 
 ###### ARTICULO 89.
 
@@ -925,9 +965,11 @@ La Secretaría determinará los requisitos y condiciones para concesionar los de
 
 La Secretaría promoverá la realización de los cursos de capacitación y adiestramiento, para todos aquellos conductores de vehículos destinados a la prestación del Servicio Público de Transporte y del Servicio Mercantil.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2001)</small>
+
 ###### ARTICULO 115.
 
-Los interesados en operar un centro de capacitación y adiestramiento para los conductores de los vehículos del Servicio Público de Transporte y del Servicio Mercantil, deberán contar con la concesión otorgada por la Secretaría; en la cual se establecerán los requisitos inherentes, así como los planes y programas de capacitación y adiestramiento correspondientes.
+Los interesados en operar un centro de capacitación y adiestramiento para los conductores de los vehículos del Servicio Público del Transporte y del Servicio Mercantil, deberán contar con la concesión otorgada por la Secretaría, en la cual se establecerán los requisitos inherentes; así como los planes y programas de capacitación y adiestramiento correspondientes de acuerdo a lo establecido en la fracción IX del artículo 4 del Decreto que crea el Instituto de Capacitación y Desarrollo de la Secretaría de Comunicaciones y Transportes del Estado.
 
 ## TITULO SEXTO. DEL REGIMEN DE LAS TARIFAS, ITINERARIOS, FRECUENCIAS DE PASO Y HORARIOS EN EL SERVICIO PUBLICO DE TRANSPORTE Y EL SERVICIO MERCANTIL
 
@@ -1039,9 +1081,11 @@ Para el caso de que un vehículo no autorizado, utilice colores, número económ
 
 Cuando un conductor del Servicio Público de Transporte y del Servicio Mercantil, acumule seis infracciones de cualquier naturaleza, en el período de un año, contado a partir de la primera, será considerado reincidente, y podrá ser privado temporal o definitivamente de la licencia de conducir y del tarjetón de identificación del conductor, en términos de lo dispuesto por la presente Ley y sus Reglamentos.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2001)</small>
+
 ###### ARTICULO 138.
 
-El pago de las multas impuestas por concepto de infracciones al transporte, se efectuarán ante las Oficinas Recaudadoras o las que autorice para tal efecto la Secretaría de Finanzas.
+El pago de las multas impuestas por concepto de infracciones a los ordenamientos relativos al transporte público, se efectuará ante las oficinas recaudadoras o las que autorice para tal efecto la Secretaría de Finanzas y Desarrollo Social del Estado.
 
 ###### ARTICULO 139.
 
@@ -1096,3 +1140,19 @@ En tanto no se expidan los Reglamentos de esta Ley, estarán vigentes las dispos
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza a los trece días del mes de marzo de mil novecientos noventa y ocho.- Diputado Presidente.- WENCESLAO HERRERA COYAC.- Rúbrica.- Diputado Secretario.- ROBERTO ARTURO SARMIENTO BELTRAN.- Rúbrica.- Diputado Secretario.- BERNABE FELIX FORTUNATO MARMOLEJO OREA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los trece días del mes de marzo de mil novecientos noventa y ocho.- El Gobernador Constitucional del Estado.- LICENCIADO MANUEL BARTLETT DIAZ.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO CARLOS MANUEL MEZA VIVEROS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE ENERO DE 2001.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las licencias de automovilistas y motociclistas que hubieren sido expedidas con anterioridad por un plazo de diez años y que actualmente tengan vigencia, continuarán hasta su extinción.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
