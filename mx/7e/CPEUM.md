@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2003-09-29"
+last_updated: "2003-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE OCTUBRE DE 2003.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1216,11 +1216,11 @@ El Presidente de cada Cámara velará por el respeto al fuero constitucional de 
 
 Los diputados y senadores propietarios durante el período de su encargo, no podrán desempeñar ninguna otra comisión o empleo de la Federación o de los Estados por los cuales se disfrute sueldo, sin licencia previa de la Cámara respectiva; pero entonces cesarán en sus funciones representativas, mientras dure la nueva ocupación. La misma regla se observará con los diputados y senadores suplentes, cuando estuviesen en ejercicio. La infracción de esta disposición será castigada con la pérdida del carácter de diputado o senador.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE OCTUBRE DE 2003)</small>
 
 ###### Art. 63.
 
-Las Cámaras no pueden abrir sus sesiones ni ejercer su cargo sin la concurrencia, en cada una de ellas, de más de la mitad del número total de sus miembros; pero los presentes de una y otra deberán reunirse el día señalado por la ley y compeler a los ausentes a que concurran dentro de los treinta días siguientes, con la advertencia de que si no lo hiciesen se entenderá por ese sólo hecho, que no aceptan su encargo, llamándose luego a los suplentes, los que deberán presentarse en un plazo igual, y si tampoco lo hiciesen, se declarará vacante el puesto y se convocará a nuevas elecciones.
+Las Cámaras no pueden abrir sus sesiones ni ejercer su cargo sin la concurrencia, en cada una de ellas, de más de la mitad del número total de sus miembros; pero los presentes de una y otra deberán reunirse el día señalado por la ley y compeler a los ausentes a que concurran dentro de los treinta días siguientes, con la advertencia de que si no lo hiciesen se entenderá por ese solo hecho, que no aceptan su encargo, llamándose luego a los suplentes, los que deberán presentarse en un plazo igual, y si tampoco lo hiciesen, se declarará vacante el puesto. Tanto las vacantes de diputados y senadores del Congreso de la Unión que se presenten al inicio de la legislatura, como las que ocurran durante su ejercicio, se cubrirán: la vacante de diputados y senadores del Congreso de la Unión por el principio de mayoría relativa, la Cámara respectiva convocará a elecciones extraordinarias de conformidad con lo que dispone la fracción IV del artículo 77 de esta Constitución; la vacante de miembros de la Cámara de Diputados electos por el principio de representación proporcional, será cubierta por la fórmula de candidatos del mismo partido que siga en el orden de la lista regional respectiva, después de habérsele asignado los diputados que le hubieren correspondido; la vacante de miembros de la Cámara de Senadores electos por el principio de representación proporcional, será cubierta por aquella fórmula de candidatos del mismo partido que siga en el orden de lista nacional, después de habérsele asignado los senadores que le hubieren correspondido; y la vacante de miembros de la Cámara de Senadores electos por el principio de primera minoría, será cubierta por la fórmula de candidatos del mismo partido que para la entidad federativa de que se trate se haya registrado en segundo lugar de la lista correspondiente.
 
 Se entiende también que los diputados o senadores que falten diez días consecutivos, sin causa justificada o sin previa licencia del presidente de su respectiva Cámara, con la cual se dará conocimiento a ésta, renuncian a concurrir hasta el período inmediato, llamándose desde luego a los suplentes.
 
@@ -1644,9 +1644,9 @@ II.- Comunicarse en la Cámara colegisladora y con el Ejecutivo de la Unión, po
 
 III.- Nombrar los empleados de su secretaría y hacer el reglamento interior de la misma.
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, D.O.F. 29 DE OCTUBRE DE 2003)</small>
 
-IV.- Expedir convocatoria para elecciones extraordinarias con el fin de cubrir las vacantes de sus respectivos miembros. En el caso de la Cámara de Diputados, las vacantes de sus miembros electos por el principio de representación proporcional, deberán ser cubiertas por aquellos candidatos del mismo partido que sigan en el orden de la lista regional respectiva, después de habérsele asignado los diputados que le hubieren correspondido.
+IV.- Expedir convocatoria, dentro del término de 30 días a partir de que ocurra la vacante, para elecciones extraordinarias que deberán celebrarse dentro de los 90 días siguientes, con el fin de cubrir las vacantes de sus miembros a que se refiere el artículo 63 de esta Constitución, en el caso de vacantes de diputados y senadores del Congreso de la Unión por el principio de mayoría relativa, salvo que la vacante ocurra dentro del año final del ejercicio del legislador correspondiente.
 
 #### SECCION IV.
 
@@ -4997,6 +4997,10 @@ Octavo.- Al entrar en vigor el presente Decreto, deberán impulsarse las reforma
 D.O.F. 29 DE SEPTIEMBRE DE 2003.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE OCTUBRE DE 2003.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTICULO PRIMERO.
 
