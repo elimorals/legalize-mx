@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1980-01-25"
+last_updated: "1980-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 1980.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -449,7 +449,9 @@ XXXIX.- Legislar sobre franquicias a la industria.
 
 XL.- Elegir la Diputación Permanente.
 
-XLI.- Ejercer las facultades a que se refieren los artículos 23, 24,40, 52, 86 fracción V, y las demás que esta Constitución o las leyes le conceden.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 1980)</small>
+
+XLI.- Formular las leyes que reglamenten los Artículos de esta Constitución, interpretando fielmente su contenido
 
 > <small>(ADICIONADA, P.O. 3 DE JUNIO DE 1967)</small>
 
@@ -1029,9 +1031,11 @@ Los Ayuntamientos no podrán acordar remuneración alguna para sus miembros sin 
 
 Dentro de los primeros ocho días de cada mes los Ayuntamientos rendirán al Ejecutivo un informe detallado de su gestión administrativa del mes anterior.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE ENERO DE 1980)</small>
+
 ###### Art. 131.
 
-Quedan facultados los Ayuntamientos para formar su Reglamento interior y los demás necesarios para el buen servicio, ajustándose a las bases generales a que se refiere la fracción V del art. 63 de esta Constitución.
+Quedan facultados los Ayuntamientos para promulgar su Reglamento Interior y los demás necesarios para el buen servicio, ajustándose a las bases generales a que se refiere la Fracción V del Artículo 63 de esta Constitución, así como para tener la participación que se les asignen las Leyes.
 
 ###### Art. 132.
 
@@ -1401,6 +1405,10 @@ El Estado de Nuevo León y sus Municipios tienen derecho para adquirir, poseer y
 
 Una Ley del Congreso establecerá; la extensión máxima de terreno de que pueda ser dueño un individuo o sociedad e indicará la forma y términos en que se ha de fraccionar la excedente. La misma Ley determinará el modo de disolver las comunidades y organizará el patrimonio de la familia.
 
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 1980)</small>
+
+El Congreso del Estado podrá legislar en materia de Asentamientos Humanos y Desarrollo Urbano, contemplando el interés de la Sociedad en su conjunto, previendo el mejor uso del suelo, la atmósfera y las aguas, cuidando su conservación y estableciendo adecuadas provisiones, usos, reservas territoriales y orientando el destino de tierras, aguas y bosques de jurisdicción estatal a fin de garantizar a la población un mejor desarrollo urbano, imponiendo a la propiedad privada las modalidades que dicte el interés público.
+
 ###### Art. 24.
 
 No habrá monopolio ni estancos ni prohibiciones a título de protección a la industria, ni exención de impuestos que constituyan una ventaja exclusiva e indebida a favor de una o varias personas determinadas, o con perjuicio del público en general o de alguna clase social.
@@ -1627,7 +1635,7 @@ P.O. 14 DE SEPTIEMBRE DE 1979.
 
 DECRETO NUMERO 254
 
-UNICO:- El presente Decreto entrará en vigor el siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
 
 P.O. 14 DE SEPTIEMBRE DE 1979.
 
@@ -1642,3 +1650,7 @@ UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicaci�
 P.O. 25 DE ENERO DE 1980.
 
 UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE ENERO DE 1980.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
