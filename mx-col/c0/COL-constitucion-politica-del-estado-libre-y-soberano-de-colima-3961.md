@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2004-06-19"
+last_updated: "2004-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 2004.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -1819,11 +1819,15 @@ Al concluir el período en que fueron electos los Funcionarios a que se refiere 
 
 Nunca se impondrán préstamos forzosos ni por las oficinas se hará gasto alguno que no conste en los presupuestos o que sea aprobado por el Congreso. La infracción de este artículo hace responsables tanto a las autoridades que lo ordenen como a los empleados que lo obedezcan.
 
-> <small>(REFORMADO, P. O. 11 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 144.
 
-El Gobernador del Estado, los Magistrados del Supremo Tribunal de Justicia, los Diputados Locales, Presidentes Municipales, Síndicos, Regidores, así como todos los servidores públicos, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será determinada anual y equitativamente en los presupuestos de egresos del Gobierno del Estado y municipios o en los de las dependencias paraestatales o paramunicipales, según corresponda.
+El Gobernador del Estado, los Magistrados del Supremo Tribunal de Justicia, los Consejeros Electorales del Instituto Electoral del Estado, los Magistrados del Tribunal Electoral, los Magistrados del Tribunal de los (sic) Contencioso Administrativo, los Magistrados del Tribunal de Arbitraje y Escalafón, los titulares de los organismos públicos autónomos del Estado, los Diputados Locales, Presidentes Municipales, Síndicos, Regidores, así como todos los servidores públicos, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será determinada anual y equitativamente en los presupuestos de egresos del Gobierno del Estado y municipios o en los de las entidades paraestatales, paramunicipales, o autónomas según corresponda.
+
+Durante el período para el que fueron electos o durante el tiempo que dure su encargo, el Gobernador, los diputados locales y los munícipes, no podrán recibir ningún tipo de remuneración extraordinaria con cargo al presupuesto de egresos, por concepto de bono, o gratificación
+
+Las disposiciones anteriores se aplicarán a los magistrados del Supremo Tribunal de Justicia del Estado, a los magistrados de los Tribunales Electoral, Contencioso Administrativo y de Arbitraje y Escalafón del Estado, así como a los Consejeros Electorales del Instituto Electoral del Estado y a los servidores públicos desde el nivel de secretario, titular de organismos públicos descentralizados, desconcentrados y autónomos del Estado y hasta el nivel de Directores de área, en la administración pública estatal, o sus equivalentes en la administración pública municipal y Paramunicipal, así como de las áreas y dependencias administrativas de los Poderes Legislativo y Judicial del Estado.
 
 ###### Artículo 145.
 
@@ -2600,3 +2604,7 @@ P.O. 19 DE JUNIO DE 2004.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
 
 SEGUNDO.- La revisión y fiscalización de las cuentas públicas estatal y municipales correspondientes al ejercicio fiscal 2003, se sujetará a las bases y disposiciones constitucionales del sistema anual de rendición de cuentas establecidas antes de la presente reforma.
+
+P.O. 18 DE SEPTIEMBRE DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
