@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-registro-civil-del-estado-de-baja-3232"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-05-10"
-last_updated: "1983-05-10"
+last_updated: "2000-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL REGISTRO CIVIL DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2000.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 10 de mayo de 1983.
 
@@ -519,6 +519,22 @@ Los Oficiales del Registro Civil, serán suplidos en sus faltas temporales, que 
 
 Tratándose de faltas mayores de un mes del Jefe del Departamento del Registro Civil y de los Oficiales del Registro Civil, se requerirá licencia, la cual será concedida por el Ejecutivo del Estado, quien designará a la persona que los substituya en forma interina.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE FEBRERO DEL 2000)</small>
+
+### CAPITULO XIV. DE LAS ACTAS DE NACIMIENTO RELATIVAS A LA ADOPCION PLENA
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DEL 2000)</small>
+
+###### ARTICULO 70.
+
+Las Oficialías del Registro Civil expedirán el acta a que hace referencia el artículo 86 del Código Civil del Estado, una vez que tengan conocimiento de la resolución judicial que autoriza la adopción plena con sujeción a las indicaciones señaladas en el artículo antes referido.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DEL 2000)</small>
+
+###### ARTICULO 71.
+
+Previa a la expedición del acta a que hace referencia el presente capítulo y de conformidad con el artículo 86 del Código Civil del Estado, los Oficiales del Registro Civil, efectuarán la anotación correspondiente en el acta que se contiene en el Libro de Registro de nacimiento del adoptado en la cual se contengan los datos sobre sus padres y parientes consanguíneos remitiéndose en tal circunstancia dicho documento para los efectos de ser integrado al expediente del juzgado que autorizó la adopción plena.
+
 T R A N S I T O R I O S :
 
 ###### ARTICULO PRIMERO.
@@ -558,3 +574,9 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 PROFR. MARCO ANTONIO BOLAÑOS CACHO.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE FEBRERO DEL 2000.
+
+UNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
