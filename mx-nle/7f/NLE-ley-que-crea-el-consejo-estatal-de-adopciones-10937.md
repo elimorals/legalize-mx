@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-consejo-estatal-de-adopciones-10937"
 country: "mx"
 rank: "ley"
 publication_date: "1996-02-09"
-last_updated: "1997-01-22"
+last_updated: "1997-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10937&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL CONSEJO ESTATAL DE ADOPCIONES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 9 de febrero de 1996.
 
@@ -63,29 +63,35 @@ VIII.- Elaborar su Reglamento Interno; y
 
 IX.- Las demás que le confiera ésta y otras leyes.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1997)</small>
+
 ###### Artículo 3o.
 
-El Consejo Estatal de Adopciones estará integrado por las instituciones públicas y privadas que cuenten con un programa de adopciones y lo hayan operado durante un plazo no menor de doce meses, así como por aquéllas que aún no teniendo programa de adopción tengan en custodia menores que puedan ser sujetos de adopción; además de las anteriores por:
+El Consejo Estatal de Adopciones se integrará por:
 
-I.- Un Presidente Honorario, que será el Gobernador del Estado;
+I.- Un Presidente honorario, que será el Gobernador del Estado;
 
-II.- Un Presidente Ejecutivo, que será el Director General del Sistema para el Desarrollo Integral de la Familia del Estado;
+II.- El Secretario General de Gobierno;
 
-III.- Un Secretario Técnico, que será el titular de la Procuraduría de la de la Defensa del Menor y la Familia;
+III.- El Procurador General de Justicia;
 
-IV.- Sistema Estatal para el Desarrollo Integral de la Familia;
+IV.- El Secretario de Desarrollo Social;
 
-V.- Secretaría General de Gobierno;
+V.- Un Presidente Ejecutivo, que será el Director General del Sistema para el Desarrollo Integral de la Familia;
 
-VI.- Procuraduría General de Justicia en el Estado;
+VI.- Un Secretario Técnico, que será el Titular de la Procuraduría de la Defensa del Menor y la Familia;
 
-VII.- Secretaría de Desarrollo Social; y
+VII.- Un representante del Sistema para el Desarrollo Integral de la Familia distinto a los previstos en las fracciones V y VI de este Artículo y que será designado por el Director General del Sistema para el Desarrollo Integral de la Familia;
 
-VIII.- Comisión Estatal de Derechos Humanos.
+VIII.- El Presidente de la Comisión Estatal de Derechos Humanos;
 
-Tratándose de instituciones privadas el número de miembros del Consejo será hasta de cinco.
+IX.- Los representantes de la (sic) instituciones públicas y privadas que cuenten con un programa de adopciones y lo hayan operado durante un plazo no menor de doce meses o quien sin tener un programa de adopción tengan en custodia menores que puedan ser sujetos de ello; y
 
-Cada institución deberá informar por escrito al Consejo el nombre del representante y el de su suplente, igual formalidad deberá observarse en caso de substitución, los cargos de estos representantes serán honoríficos.
+X.- Los representantes de las asociaciones civiles constituidas por adoptantes o adoptados, o ambos, cuyo objeto social sea promover y proteger la institución de adopción, así como asesorar, orientar y brindar apoyo a sus integrantes, a quienes se encuentren en proceso de adopción, y a las instituciones públicas y privadas que tengan fines similares o que se vinculen a ellas.
+
+Los representantes de las instituciones y asociaciones privadas a que se refieren las Fracciones IX y X de este Artículo podrán ser hasta cinco, y serán elegidos por los demás integrantes del Consejo, conforme al procedimiento regulado en su Reglamento Interior.
+
+Cada integrante propietario del Consejo designará a su suplente, informándolo, por escrito al Presidente Ejecutivo, observándose la misma formalidad en caso de substitución. Los integrantes del Consejo desempeñarán sus funciones en forma honorífica.
 
 ###### Artículo 4o.
 
@@ -180,3 +186,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 En relación a las adiciones que se mencionan en el artículo quinto de este Decreto, las instituciones ya establecidas deberán cumplir con todas las obligaciones señaladas en el mismo, en un plazo no mayor de treinta días a partir de su vigencia y el Consejo Estatal de Adopciones dará a conocer los formatos e instructivos a través de los que se proporcionará la información, lo cual deberá hacerse en un plazo no mayor de diez días a partir de la iniciación de la vigencia de este Decreto.
+
+P.O. 18 DE JUNIO DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
