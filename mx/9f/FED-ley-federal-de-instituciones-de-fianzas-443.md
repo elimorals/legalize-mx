@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-instituciones-de-fianzas-443"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1950-12-29"
-last_updated: "1974-12-23"
+last_updated: "1975-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=443&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1950-12-26"
 
 LEY FEDERAL DE INSTITUCIONES DE FIANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE ENERO DE 1975.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1950.
 
@@ -368,6 +368,24 @@ XII.- Muebles necesarios para su servicio.
 XIII.- Gastos anticipados, los de establecimiento y primera organización.
 
 XIV.- Bienes diversos de los indicados en las fracciones anteriores que la institución adquiera con motivo de sus créditos.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 1975)</small>
+
+###### ARTICULO 40 Bis.
+
+Las operaciones con valores inscritos en el Registro Nacional de Valores e Intermediarios, que realicen las instituciones de fianzas en los términos previstos por esta ley, deberán llevarse a cabo con la intermediación de agentes de valores.
+
+La Secretaría de Hacienda y Crédito Público podrá exceptuar del requisito establecido en el primer párrafo de este artículo, a las operaciones que se efectúen:
+
+a).- En cumplimiento de disposiciones de política monetaria o crediticia.
+
+b).- Para financiar empresas de nueva creación o ampliaciones a las existentes;
+
+c).- Para transferir proporciones importantes del capital de empresas;
+
+d).- Para otros propósitos a los cuales no se adecúen los mecanismos normales del mercado.
+
+La Secretaría de Hacienda y Crédito Público, para resolver sobre las excepciones previstas en este artículo, oirá al Banco de México, S. A., a la Comisión Nacional Bancaria y de Seguros o a la Comisión Nacional de Valores, según que la materia corresponda al ámbito de alguna o algunas de las entidades citadas.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
@@ -1302,3 +1320,25 @@ D.O.F. 23 DE DICIEMBRE DE 1974.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 2 DE ENERO DE 1975.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
+
+.
+
+###### ARTICULO CUARTO.
+
+Transcurrido un plazo de noventa días naturales contados a partir de aquél en que entre en vigor este Decreto, las sociedades que se encuentren concesionadas para efectuar exclusivamente operaciones de depósito de ahorro o fiduciarias, o ambas deberán de abstenerse de celebrar nuevas operaciones.
+
+###### ARTICULO QUINTO.
+
+Los bonos financieros que se encuentren en circulación a la fecha en que entre en vigor el presente Decreto, mantendrán la preferencia y garantías específicas en los términos de las disposiciones que se reforman o derogan.
+
+###### ARTICULO SEXTO.
+
+Se concede un plazo de ciento ochenta días para que las instituciones de crédito, las de seguros y las de fianzas, lleven a cabo sus operaciones con valores inscritos en el Registro Nacional de Valores e Intermediarios, en los términos del primer párrafo, de los artículos 138 bis 8 de la Ley General de Instituciones de Crédito y Organizaciones Auxiliares, 32 bis de la Ley General de instituciones de Seguros, y 40 bis de la Ley Federal de Instituciones de Fianzas.
