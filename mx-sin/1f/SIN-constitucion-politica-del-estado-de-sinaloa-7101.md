@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1968-12-12"
+last_updated: "1970-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 1968.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 1970.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -79,7 +79,9 @@ Art. 8º Son ciudadanos sinaloenses:
 
 Los hombres y mujeres nacidos en el Estado, así como los ciudadanos mexicanos avecinados en Sinaloa por más de dos años consecutivos, si no han declarado ante el Ejecutivo del Estado, que desean conservar su calidad de origen; y que reúnan además los siguientes requisitos:
 
-I. Haber cumplido 18 años, siendo casados, o 21 si no lo son, y
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 1970)</small>
+
+I. Haber cumplido los dieciocho años y
 
 II. Tener un modo honesto de vivir.
 
@@ -1860,3 +1862,9 @@ UNICO.- El Presente Decreto empezará a surtir sus efectos a partir de la fecha 
 P.O. 12 DE DICIEMBRE DE 1968.
 
 UNICO.- El presente Decreto comenzará a surtir sus efectos legales tres días después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 17 DE MARZO DE 1970.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
