@@ -4,7 +4,7 @@ identifier: "FED-ley-forestal-111"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-22"
-last_updated: "1992-12-22"
+last_updated: "1996-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-12-17"
 
 LEY FORESTAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE DICIEMBRE DE 1996
 
 Ley publicada en el Diario Oficial de la Federación el martes 22 de diciembre de 1992.
 
@@ -525,7 +525,7 @@ La Secretaría y, en su caso, la Secretaría de Desarrollo Social, en sus respec
 
 ###### Artículo 58.
 
-A quien transporte, comercie o transforme madera en rollo procedente de aprovechamientos para los cuales no se haya autorizado un programa de manejo, se impondrá pena de tres meses a cinco años de prisión y multa por el equivalente de cien a diez mil días de salario mínimo general vigente en el Distrito Federal al momento en que se cometa el delito.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS AL CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL, D.O.F. 13 DE DICIEMBRE DE 1996)
 
 ## TRANSITORIOS
 
@@ -539,7 +539,7 @@ CUARTO. Los permisos de aprovechamiento otorgados bajo la vigencia de la ley que
 
 QUINTO. El Registro Forestal Nacional deberá entrar en funciones en un plazo que no exceda de ocho meses, contado a partir de que entre en vigor la presente ley.
 
-SEXTO. Las organizaciones y técnicos que presten servicios técnico forestales, así como los responsables de centros de almacenamientos y transformación de materias primas forestales, deberán solicitar la inscripción de los mismos en el Registro Forestal Nacional, en un plazo de tres meses, contado a partir de que éste inicie sus funciones. En tanto inicia sus funciones el Registro, quien pretenda instalar un centro de almacenamiento o transformación deberá notificarlo a la Secretaría.
+SEXTO. Las organizaciones y técnicos que presten servicios técnico forestales, así como los responsables de centros de almacenamiento y transformación de materias primas forestales, deberán solicitar la inscripción de los mismos en el Registro Forestal Nacional, en un plazo de tres meses, contado a partir de que éste inicie sus funciones. En tanto inicia sus funciones el Registro, quien pretenda instalar un centro de almacenamiento o transformación deberá notificarlo a la Secretaría.
 
 SEPTIMO. La Secretaría deberá poner en operación el sistema de marqueo a que se refiere el artículo 20 de esta ley, en un plazo no mayor a seis meses contado a partir de que entre en vigor la presente ley.
 
@@ -552,3 +552,15 @@ NOVENO. El consejo técnico consultivo nacional forestal, deberá constituirse e
 México, D.F., a 9 de diciembre de 1992.- Dip. Guillermo Pacheco Pulido, Presidente.- Sen. Carlos Sales Gutiérrez, Presidente.- Dip. Luis Pérez Díaz, Secretario.- Sen. Ramón Serrano Ahumada, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecisiete días del mes de diciembre de 1992.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 13 DE DICIEMBRE DE 1996.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan los artículos del 183 al 187 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente; el artículo 58 de la Ley Forestal; y los artículos 30 y 31 de la Ley Federal de Caza.
