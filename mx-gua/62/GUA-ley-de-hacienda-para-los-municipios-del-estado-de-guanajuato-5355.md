@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-los-municipios-del-estado-de-guanajuato-53
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-26"
-last_updated: "1990-03-20"
+last_updated: "1990-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1990.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 26 de diciembre de 1989.
 
@@ -1507,13 +1507,15 @@ I.- Mediante el valor manifestado por los contribuyentes de sus inmuebles, aplic
 
 II.- Por avalúo practicado por peritos autorizados por la Tesorería Municipal; en tanto son valuados, el valor con que se encuentren registrados;
 
-III.- Tratándose de inmuebles rentados o subarrendados, el valor más alto que resulte de comparar el valor fiscal registrado, que el de capitalización de las rentas y el de avalúo practicado por la Tesorería Municipal;
-
-La capitalización de rentas se obtiene multiplicando el importe de la última renta mensual por 100.
+III.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 1990)
 
 ###### ARTICULO 163.
 
 Siempre que la base para la liquidación del Impuesto Sobre Traslación de Dominio resultare mayor que el valor fiscal registrado, se tendrá como base para el pago del impuesto predial, y surtirá efectos a partir del bimestre siguiente al en que se causó Impuesto.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1990)</small>
+
+Tratándose de inmuebles destinados a casa-habitación de interés social, la base para el pago del impuesto predial, se determinará mediante avalúo practicado por Perito Fiscal autorizado por la Tesorería Municipal.
 
 ###### ARTICULO 164.
 
@@ -1533,9 +1535,7 @@ II.- La terminación de nuevas construcciones, reconstrucciones o la ampliación
 
 III.- La división, fusión o demolición de inmuebles;
 
-IV.- El arrendamiento y subarrendamiento celebrados en relación con los inmuebles objeto del impuesto, anexando copias de los contratos relativos.
-
-Cuando se estipule diversas rentas por determinados períodos de tiempo, también habrá obligación de declarar la nueva renta.
+IV.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 1990)
 
 V.- Cualquier modificación que altere el valor fiscal de los inmuebles o los datos de su empadronamiento.
 
@@ -1545,9 +1545,11 @@ Dichas manifestaciones deberán presentarse en las formas oficiales establecidas
 
 Todo inmueble deberá estar inscrito en los padrones fiscales. La violación de esta disposición, motivará que además de la aplicación de las sanciones que autoriza esta Ley, se haga el cobro del importe del Impuesto correspondiente a cinco años fiscales anteriores a la fecha en que fuere descubierta la infracción.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 168.
 
-El valor fiscal de los inmuebles, sólo podrá ser modificado, por la manifestación del valor de los inmuebles del contribuyente; cuando se produzca un cambio en cuanto al nombre del contribuyente, en cuanto a las condiciones del arrendamiento, a las características del inmueble; o por otra circunstancia que origine una alteración de su valor con motivo de la ejecución de obras públicas, así como la reconstrucción o rehabilitación de dichas obras.
+El valor fiscal de los inmuebles, solo podrá ser modificado, por la manifestación del valor de los inmuebles de los contribuyentes; cuando se produzca un cambio en cuanto al nombre del contribuyente, a las características del inmueble; o por otra circunstancia que origine una alteración de su valor con motivo de la ejecución de obras públicas, así como en la reconstrucción o rehabilitación de dichas obras.
 
 No habiendo alguna de las causas anteriores, el valor fiscal solo podrá ser modificado por avalúo, si han transcurrido cuando menos cinco años fiscales desde la fecha en que haya surtido efectos el anterior. Dicho avalúo entrará en vigor a partir del bimestre siguiente a la fecha en que se notifique.
 
@@ -1617,6 +1619,10 @@ IV.- Existan inmuebles ocultos a la acción fiscal.
 
 Están obligados al pago de este Impuesto las personas físicas o morales que transmiten o adquieren por cualquier título o causa, bienes inmuebles ubicados en el Estado, así como los derechos reales vinculados a los mismos.
 
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1990)</small>
+
+No se pagará este Impuesto tratándose de adquisiciones de inmuebles que haga la Federación, el Estado y los Municipios para formar parte del dominio público.
+
 ###### ARTICULO 180.
 
 La base de este impuesto será el valor más alto entre el Fiscal registrado, en su caso, el de operación y el pericial realizado por peritos fiscales autorizados por la Tesorería Municipal correspondiente con antigüedad no mayor de seis meses.
@@ -1678,6 +1684,10 @@ III.- Cuando la división de cosa común no tenga como resultado tipificar cualq
 ###### ARTICULO 188.
 
 Este Impuesto se causa sobre el valor total del inmueble que resulte más alto entre el de la operación, el fiscal registrado y el que arroje el avalúo practicado por perito fiscal autorizado por la Tesorería Municipal correspondiente.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1990)</small>
+
+Cuando el inmueble relativo a la operación no hubiese sufrido división en los dos últimos años, únicamente se calculará el impuesto sobre la parte enajenada.
 
 ###### ARTICULO 189.
 
@@ -2190,3 +2200,13 @@ P.O. 20 DE MARZO DE 1990.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE DICIEMBRE DE 1990.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los bienes inmuebles que a la fecha de entrada en vigor del presente Decreto estén tributando sobre la base de rentabilidad, lo seguirán haciendo en función de la misma, hasta en tanto se practique el avalúo correspondiente.
