@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-proteccion-civil-16135"
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-05-12"
-last_updated: "2000-05-12"
+last_updated: "2001-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16135&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPC"
 
 LEY GENERAL DE PROTECCION CIVIL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 2001.
 
 Ley publicada en la Sección Primera del Diario Oficial de la Federación, el viernes 12 de mayo de 2000.
 
@@ -206,17 +206,21 @@ XI. Suscribir convenios de colaboración administrativa con las entidades federa
 
 XII. Participar en la evaluación y cuantificación de los daños cuando así lo determinen las disposiciones específicas aplicables;
 
-XIII. Manejar el Fondo Revolvente para la adquisición de suministros de auxilio en situaciones de emergencia y de desastre;
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2001)</small>
 
-XIV. Proponer la adquisición de equipo especializado de transporte, de comunicación, alertamiento y atención de desastres con cargo al Fondo de Desastres;
+XIII. Solicitar recursos del Fondo de Desastres para la prevención y atención de desastres;
 
-XV. Emitir las Normas Oficiales Mexicanas en materia de Protección Civil;
+XIV. Manejar el Fondo Revolvente para la adquisición de suministros de auxilio en situaciones de emergencia y de desastre;
 
-XVI. Desarrollar y actualizar el Atlas Nacional de Riesgos;
+XV. Proponer la adquisición de equipo especializado de transporte, de comunicación, alertamiento y atención de desastres con cargo al Fondo de Desastres;
 
-XVII. Gestionar ante las autoridades correspondientes, la incorporación de la materia de protección civil en el sistema educativo nacional, y
+XVI. Emitir las Normas Oficiales Mexicanas en materia de Protección Civil;
 
-XVIII. Las demás que la ley le señale o le asignen el Presidente de la República y el Consejo Nacional.
+XVII. Desarrollar y actualizar el Atlas Nacional de Riesgos;
+
+XVIII. Gestionar ante las autoridades correspondientes, la incorporación de la materia de protección civil en el sistema educativo nacional, y
+
+XIX. Las demás que la ley le señale o le asignen el Presidente de la República y el Consejo Nacional.
 
 ###### Artículo 13.
 
@@ -388,15 +392,39 @@ I. Realizar las acciones de emergencia para dar atención a las necesidades prio
 
 II. Consolidar, reestructurar, o en su caso, reconstruir los monumentos arqueológicos y los inmuebles artísticos e históricos que tengan acuerdo de destino, se encuentren bajo custodia de ésta o dedicados al culto público, de conformidad con las leyes y demás disposiciones de la materia, y
 
-III. Los demás que determinen las leyes, reglamentos y demás disposiciones administrativas.
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2001)</small>
+
+III. Destinar recursos del Fondo de Desastres autorizado para la atención de emergencias y desastres, en la realización de acciones preventivas, ante circunstancias que valorarán los órganos administrativos correspondientes que se deriven de lo dispuesto en el primer párrafo del artículo 32 de este ordenamiento; y
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2001)</small>
+
+IV. Las demás que determinen las leyes, reglamentos y otras disposiciones administrativas.
 
 ###### Artículo 31.
 
 La coordinación de acciones en materia de atención de desastres se apoyará en los convenios que al efecto celebre la Federación, a través de la Secretaría de Gobernación con cada una de las entidades federativas.
 
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2001)</small>
+
+En los mismos términos del párrafo anterior, se suscribirán convenios con la finalidad de obtener recursos para acciones preventivas, y establecer las bases y compromisos de su adecuada utilización.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 32.
 
-Esta Ley, el Presupuesto de Egresos de la Federación, así como las demás disposiciones administrativas en la materia, regularán los medios, formalidades y demás requisitos para acceder y hacer uso de los recursos financieros tendientes a la atención de los desastres.
+Esta Ley, el Presupuesto de Egresos de la Federación, así como las disposiciones administrativas en la materia regularán los medios, formalidades y demás requisitos para acceder y hacer uso de los recursos financieros tendiente a la prevención y atención de desastres.
+
+Los recursos financieros que se destinen para acciones preventivas a que hace referencia la fracción III del artículo 30 del presente ordenamiento, serán tomados en un 20 por ciento del remanente no ejercido del año anterior destinados a la atención de desastres.
+
+Si el año del ejercicio respectivo no quedara remanente alguno, se podrá utilizar hasta un 20 por ciento de la cantidad que del fideicomiso correspondiente, a juicio de la instancia facultada para utilizarlo, se determine para acciones preventivas.
+
+Los recursos para prevención a que alude este artículo, serán administrados en un fideicomiso preventivo a cargo de la Secretaría de Gobernación.
+
+Para efectos de la autorización da recursos a entidades federativas, destinadas a la realización de acciones preventivas, la instancia facultada verificará el cumplimiento de los siguientes requisitos:
+
+a) La notificación técnica, de la autoridad federal respectiva, que sustente la necesidad y urgencia de la acción o acciones a realizar; y
+
+b) Que las condiciones que originen la asignación de recursos, no se hayan incorporado a los programas y acciones de prevención, con cargo al presupuesto de las propias entidades federativas.
 
 ###### Artículo 33.
 
@@ -416,9 +444,11 @@ I. Los gobiernos de las entidades federativas cuando la atención de los daños 
 
 II. Las dependencias o entidades federales.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 36.
 
-Las disposiciones administrativas establecerán los procedimientos y demás requisitos para la emisión de las declaratorias de emergencia y de desastre.
+Las disposiciones administrativas establecerán los procedimientos y demás requisitos para le emisión de las declaratorias de emergencia y de desastre así como del acceso a recursos para la realización de las acciones preventivas previstas en el presente Capítulo.
 
 ###### Artículo 37.
 
@@ -459,3 +489,13 @@ TERCERO.- Se derogan todas aquellas disposiciones que se opongan al contenido de
 México, D.F., a 29 de abril de 2000.- Dip. Francisco José Paoli Bolio, Presidente.- Sen. Dionisio Pérez Jácome, Vicepresidente en funciones.- Dip. Marta Laura Carranza Aguayo, Secretario.- Sen. Raúl Juárez Valencia, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los ocho días del mes de mayo de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 29 DE DICIEMBRE DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Para efecto de la realización de acciones preventivas, con cargo al remanente del fondo de desastres, este mecanismo operará a partir del año 2002, de los recursos asignados al mismo en el Presupuesto de Egresos de la Federación para el ejercicio del año 2001.
+
+TERCERO.- En tanto se expiden las disposiciones administrativas que regulan la asignación de recursos del fondo de desastres pera acciones preventivas a que se refiere el presente Decreto, se aplicarán en lo conducente las Reglas de Operación del Fondo del Desastres.
