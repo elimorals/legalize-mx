@@ -4,7 +4,7 @@ identifier: "LSAR"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-23"
-last_updated: "2004-01-28"
+last_updated: "2005-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2613&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSAR"
 
 LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE ENERO DE 2005.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 23 de mayo de 1996.
 
@@ -77,6 +77,10 @@ VI. Institutos de Seguridad Social, a los institutos Mexicano del Seguro Social,
 VII. Leyes de Seguridad Social, a las leyes del Seguro Social, del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
 VIII. Nexo patrimonial, el que tenga una persona física o moral, que directa o indirectamente a través de la participación en el capital social o por cualquier título tenga la facultad de determinar el manejo de una sociedad;
+
+> <small>(ADICIONADA, D.O.F. 11 DE ENERO DE 2005)</small>
+
+VIII bis. Partes Independientes, a las personas morales que no tengan nexo patrimonial con una administradora;
 
 > <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -140,7 +144,7 @@ La Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y 
 
 VIII. Administrar y operar, en su caso, la Base de Datos Nacional SAR;
 
-lX. Imponer multas y sanciones, así como emitir opinión a la autoridad competente en materia de los delitos previstos en esta ley;
+IX. Imponer multas y sanciones, así como emitir opinión a la autoridad competente en materia de los delitos previstos en esta ley;
 
 X. Actuar como órgano de consulta de las dependencias y entidades públicas, en todo lo relativo a los sistemas de ahorro para el retiro, con excepción de la materia fiscal;
 
@@ -520,7 +524,7 @@ IV. Informar a la Comisión los nombramientos de los miembros de su consejo de a
 
 El capital social de las administradoras estará formado por acciones de la serie "A", que representarán cuando menos el 51% de dicho capital. El 49% restante del capital social podrá integrarse indistinta o conjuntamente por acciones de las series "A" y "B".
 
-Las acciones representativas de la serie "A (sic) únicamente podrán ser adquiridas por:
+Las acciones representativas de la serie "A" únicamente podrán ser adquiridas por:
 
 I. Personas físicas mexicanas; y
 
@@ -694,7 +698,9 @@ Las comisiones por administración de las cuentas individuales podrán cobrarse 
 
 Las administradoras podrán cobrar comisiones distintas por cada una de las sociedades de inversión que operen.
 
-Cada administradora deberá cobrar las comisiones sobre bases uniformes, cobrando las mismas comisiones por servicios similares prestados en sociedades de inversión del mismo tipo, sin discriminar contra trabajador alguno, sin perjuicio de los incentivos que se otorguen a los propios trabajadores por permanencia o por ahorro voluntario.
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2005)</small>
+
+Cada administradora deberá cobrar las comisiones sobre bases uniformes, cobrando las mismas comisiones por servicios similares prestados en sociedades de inversión del mismo tipo, sin discriminar contra trabajador alguno, sin perjuicio de los incentivos que se otorguen a los propios trabajadores por permanencia o por ahorro voluntario. La permanencia se deberá contar a partir de la primera apertura de la cuenta individual del trabajador en cualquier administradora.
 
 Las administradoras deberán presentar a la Junta de Gobierno de la Comisión su estructura de comisiones para su autorización, la cual, una vez analizada la solicitud, podrá exigir aclaraciones, adecuaciones o en su caso denegar la autorización respectiva si las comisiones sometidas a su autorización son excesivas conforme a los criterios que determine la Junta de Gobierno para los intereses de los trabajadores o se encuentran fuera de los parámetros del mercado. La propia Junta de Gobierno de la Comisión emitirá criterios o recomendaciones sobre el nivel y estructura de las comisiones. Asimismo, la Junta de Gobierno deberá resolver expresamente, fundando y motivando, sobre la autorización solicitada dentro del plazo previsto en el artículo 119 de esta ley.
 
@@ -1026,7 +1032,9 @@ e) El monto del beneficio, daños o perjuicios económicos derivados de la infra
 
 Las administradoras y sociedades de inversión ajustarán sus programas de publicidad, campañas de promoción y toda la documentación de divulgación e información que dirijan a los trabajadores y al público en general a esta ley y a las disposiciones de carácter general que expida la Comisión.
 
-La Comisión podrá obligar a las administradoras y a las sociedades de inversión a modificar o suspender su publicidad cuando ésta no se ajuste a las reglas generales que la misma hubiere dictado, para lo cual la Comisión deberá proceder conforme a lo siguiente:
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2005)</small>
+
+La Comisión obligará a las administradoras y a las sociedades de inversión a modificar o suspender su publicidad cuando ésta no se ajuste a las reglas generales que la misma hubiere dictado, para lo cual la Comisión deberá proceder conforme a lo siguiente:
 
 I. Notificará personalmente al interesado la determinación de que se trate;
 
@@ -1108,7 +1116,9 @@ Las empresas operadoras tendrán como objeto exclusivo:
 
 I. Administrar la Base de Datos Nacional SAR;
 
-II. Promover un ordenado proceso de elección de administradora por los trabajadores;
+> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2005)</small>
+
+II. Promover un ordenado proceso de elección de administradora y de retiro de recursos por los trabajadores, a efecto de lo cual deberán desarrollar sistemas informáticos y de telecomunicaciones para llevar el control de los procesos;
 
 III. Coadyuvar al proceso de localización de los trabajadores para permitir un ordenado traspaso de las cuentas individuales de estos últimos de una administradora a otra;
 
@@ -1203,6 +1213,18 @@ Previo a la declaración de revocación de la concesión para la operación de l
 Las administradoras deberán sujetar sus relaciones con los grupos y entidades financieras con las que tengan vínculos patrimoniales, así como con las demás entidades que integran el sistema financiero mexicano a lo dispuesto por el presente capítulo, debiendo en todo momento evitar todo tipo de operaciones que impliquen un posible conflicto de interés.
 
 A tal efecto, la Comisión está facultada para establecer las medidas tendientes a evitar el uso indebido de información privilegiada y los conflictos de interés en la administración de los recursos derivados de los sistemas de ahorro para el retiro por las administradoras, teniendo en todo tiempo como objeto primordial, la protección de los intereses de los trabajadores.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2005)</small>
+
+ARTICULO 64 bis.- Las administradoras que celebren actos con empresas con las que tengan nexo patrimonial, deberán pactar los precios o montos de contraprestación de la misma forma que lo hubieran hecho partes independientes en actos comparables, aplicando los elementos de comparación y la metodología que emita la Comisión.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2005)</small>
+
+ARTICULO 64 ter.- Los contralores normativos de las administradoras, deberán contar con un estudio realizado por un tercero independiente para verificar que se cumpla con lo señalado en el artículo 64 bis.
+
+El contralor normativo deberá informar el resultado de dicho estudio al consejo de administración de la administradora, para que éste último tome las medidas que considere pertinentes.
+
+Si en el estudio realizado por el tercero independiente se determinara que los precios o montos de contraprestación pactados no corresponden a los que se hubieran acordado por partes independientes en actos comparables, el contralor normativo deberá informar este hecho a la Comisión.
 
 ###### ARTICULO 65.
 
@@ -1312,7 +1334,9 @@ Las aportaciones complementarias de retiro sólo podrán retirarse cuando el tra
 
 Las administradoras estarán obligadas a abrir la cuenta individual o a aceptar el traspaso de dicha cuenta, de aquellos trabajadores afiliados que cumpliendo con las disposiciones aplicables, soliciten su apertura de cuenta. En ningún caso podrán hacer discriminación de trabajadores.
 
-El traspaso de la cuenta individual de un trabajador afiliado a una administradora diferente a la que opera dicha cuenta, podrá solicitarse una vez transcurrido un año calendario contado a partir de que el trabajador se registró o de la última ocasión en que haya ejercitado su derecho al traspaso. Asimismo, los trabajadores afiliados podrán traspasar su cuenta individual cuando se modifique el régimen de inversión o de comisiones, o la administradora entre en estado de disolución, o se fusione con otra administradora. En el caso de fusión entre administradoras, el derecho de traspaso sólo corresponderá a los trabajadores afiliados que se encuentren registrados en la administradora fusionada.
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2005)</small>
+
+El traspaso de la cuenta individual de un trabajador afiliado a una administradora diferente a la que opera dicha cuenta, podrá solicitarse una vez transcurrido un año calendario contado a partir de que el trabajador se registró o de la última ocasión en que haya ejercitado su derecho al traspaso. Asimismo, los trabajadores afiliados podrán traspasar su cuenta individual cuando se modifique el régimen de inversión o de comisiones, o la administradora entre en estado de disolución, o se fusione con otra administradora o dichos trabajadores elijan una administradora que cobre comisiones más bajas conforme a los criterios y condiciones que prevea el reglamento de esta Ley. En el caso de fusión entre administradoras, el derecho de traspaso sólo corresponderá a los trabajadores afiliados que se encuentren registrados en la administradora fusionada.
 
 El derecho de los trabajadores afiliados para invertir los recursos de su cuenta individual en otra sociedad de inversión, que sea operada por la misma administradora que se encuentre operando dicha cuenta, podrá ser ejercitado en cualquier tiempo, siempre que reúnan los requisitos para invertir en dicha sociedad de inversión.
 
@@ -1400,7 +1424,9 @@ Los recursos depositados en la cuenta concentradora se invertirán en valores o 
 
 Los recursos de los trabajadores afiliados que no elijan administradora serán enviados a las administradoras que cobren las comisiones más bajas de conformidad con los criterios de la Junta de Gobierno para preservar el equilibrio en los Sistemas de Ahorro para el Retiro, las cuales les deberán abrir una cuenta individual y colocar sus recursos en una sociedad de inversión cuya cartera esté integrada por valores que preserven el valor adquisitivo de los ahorros de los trabajadores, con la periodicidad que determine la Comisión.
 
-Los trabajadores a los que se les designe administradora de conformidad con lo dispuesto en este artículo, podrán traspasar sus recursos a otra administradora, sin que les sea aplicable el límite de un traspaso anual previsto por la Ley del Seguro Social.
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2005)</small>
+
+Los trabajadores a los que se les designe administradora de conformidad con lo dispuesto en este artículo, podrán traspasar sus recursos a otra administradora, en los términos previstos en el artículo 74.
 
 ###### ARTICULO 77.
 
@@ -1414,7 +1440,9 @@ La recepción, depósito y retiros de los recursos de las cuentas individuales d
 
 Asimismo, tratándose de los recursos a que se refieren los artículos 74 bis a 74 quinquies, los procesos a que se refiere el párrafo anterior se deberán sujetar a las reglas que determine la Comisión y a lo que se pacte en los contratos de administración de fondos para el retiro.
 
-En el contrato de administración de fondos para el retiro que celebren las administradoras con los trabajadores, se podrá pactar el uso de equipos y sistemas automatizados o de telecomunicación, siempre que se establezca lo siguiente:
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2005)</small>
+
+En el contrato de administración de fondos para el retiro que celebren las administradoras con los trabajadores, se deberá pactar el uso de equipos y sistemas automatizados o de telecomunicación, siempre que se establezca lo siguiente:
 
 I. Las bases para determinar las operaciones y servicios cuya prestación se pacte;
 
@@ -1658,7 +1686,17 @@ Las infracciones a que se refiere este artículo se sancionarán como sigue:
 
 I. Multa de doscientos a quinientos días de salario a la institución de crédito o administradora que no utilice para la apertura de cuentas individuales, la documentación que al efecto determinen las disposiciones aplicables, o en su caso, no se ajuste al procedimiento y a las características que regulan el procedimiento de registro de trabajadores previsto en esta ley y en las disposiciones que de ella emanen;
 
-II. Multa de diez a cien días de salario a la institución de crédito o administradora que no proporcione información a los trabajadores sobre el estado que guardan sus cuentas individuales, en los términos, periodicidad y forma que al efecto establezcan las disposiciones aplicables;
+> <small>(ADICIONADA, D.O.F. 11 DE ENERO DE 2005)</small>
+
+I bis. Multa de cien a mil días de salario por cada cuenta individual a la administradora que registre a un trabajador o solicite el traspaso de la cuenta individual de un trabajador, sin su consentimiento, o cuando se haya obtenido el consentimiento del trabajador mediante dolo, mala fe o cualquier otra conducta similar, así como cuando el registro o traspaso se lleve a cabo mediante la utilización de documentos falsos o alterados o mediante la falsificación de documentos o firmas, o mediante la entrega de alguna contraprestación o beneficio;
+
+> <small>(ADICIONADA, D.O.F. 11 DE ENERO DE 2005)</small>
+
+I ter. Por cada acto que celebren las administradoras con empresas con las que tengan nexo patrimonial, en el cual el precio o monto de la contraprestación pactada a cargo de la administradora sea superior a la que hubieren acordado partes independientes según lo señala el artículo 64 bis de esta Ley, se aplicará una multa del 80% al 90% de la diferencia pagada por la administradora, respecto al precio promedio acordado por partes independientes que conste en el estudio realizado por un tercero independiente;
+
+> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2005)</small>
+
+II. Multa de cien a mil días de salario por cada cuenta individual, a la institución de crédito o administradora que no proporcione información a los trabajadores sobre el estado que guardan sus cuentas individuales, en los términos, periodicidad y forma que al efecto establezcan las disposiciones aplicables, así como cuando la institución de crédito o la administradora no atienda los trámites relacionados con las cuentas individuales;
 
 III. Multa de cien a quinientos días de salario a la institución de crédito o administradora que al recibir recursos, y que disponiendo de la información y documentación necesaria para ello, no realicen la individualización de dichos recursos en el plazo establecido al efecto o ésta se efectúe en forma errónea. Para tal efecto se entenderá como individualización el proceso mediante el cual el participante en los sistemas de ahorro para el retiro que corresponda, con base en las aportaciones de recursos que efectúen los patrones, el Estado y los trabajadores en su caso, así como en los rendimientos financieros que se generen, determina el monto de recursos que corresponde a cada trabajador, para su abono en las subcuentas que correspondan y que integran las cuentas individuales propiedad de los trabajadores;
 
@@ -1694,7 +1732,9 @@ XV. Multa de dos mil quinientos a cinco mil días de salario a la institución d
 
 XVI. Multa de un mil a seis mil días de salario a la administradora, sociedad de inversión o empresa operadora que omitan o no lleven su contabilidad de conformidad a lo previsto en la presente ley y en las disposiciones de carácter general que para tal efecto expida la Comisión o bien, que lleven su contabilidad conforme a la normatividad aplicable, pero que registren cantidades distintas a las que correspondan;
 
-XVII. Multa de trescientos a tres mil días de salario a la institución de crédito, administradora o empresa operadora, que cobre comisiones por los servicios que preste en materia de los sistemas de ahorro para el retiro por importes superiores a los ofrecidos conforme a las disposiciones aplicables.
+> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2005)</small>
+
+XVII. Multa de un mil a veinte mil días de salario a la institución de crédito, administradora o empresa operadora, que cobre comisiones por los servicios que preste en materia de los sistemas de ahorro para el retiro por importes superiores a los ofrecidos conforme a las disposiciones aplicables.
 
 Igual sanción se impondrá a la administradora que calcule erróneamente las comisiones por cobrar;
 
@@ -1728,11 +1768,33 @@ XXVIII. Las infracciones a cualesquiera de las normas de esta Ley, de las leyes 
 
 Si las multas a que se refiere esta ley son impuestas a alguno de los participantes en los sistemas de ahorro para el retiro, la Comisión también podrá imponer una multa de cien a cinco mil días de salario a cada uno de los consejeros, directores, administradores, funcionarios, apoderados, agentes, empleados y demás personas que en razón de sus actos hayan ocasionado o intervenido para que la sociedad incurriera en la irregularidad motivo de la sanción impuesta.
 
-> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2005)</small>
 
-ARTICULO 100 bis.- La Comisión se abstendrá de imponer alguna de las sanciones previstas en el artículo 100 de esta ley a los participantes en los sistemas de ahorro para el retiro, en aquellos casos en que éstos, de manera espontánea, corrijan las omisiones o contravenciones a las normas aplicables en materia de los sistemas de ahorro para el retiro, en que hubieren incurrido o en su caso presenten ante la Comisión un programa de corrección, cuando de la aplicación de los programas de autorregulación el Contralor Normativo detecte irregularidades en el desarrollo de algún proceso en el que intervenga otro participante en los sistemas de ahorro para el retiro y para que se lleve a cabo la corrección, se requiera dar aviso al otro participante.
+###### ARTICULO 100-A.
 
-Los participantes que de manera espontánea corrijan las omisiones o contravenciones a que se refiere el párrafo anterior, deberán comunicar dicha situación a la Comisión, por conducto del Contralor Normativo o, en los casos en que no estén obligados a contar con éste, por un funcionario autorizado por la Comisión para estos efectos dentro de los tres días hábiles siguientes a la fecha en que se realice dicha corrección, con la finalidad de que la Comisión tome conocimiento de la misma.
+La administradora que sea sancionada en términos de lo dispuesto en la fracción I bis del artículo que antecede, sin perjuicio de la imposición de la sanción pecuniaria que resulte procedente, deberá resarcir los daños y perjuicios ocasionados al trabajador indebidamente registrado o cuya cuenta individual fue indebidamente traspasada, mediante la realización de lo siguiente:
+
+I. La devolución de todas las comisiones cobradas al trabajador afectado, y
+
+II. El pago, mediante abono de la suma correspondiente en la cuenta individual del trabajador afectado, de la cantidad que resulte como diferencia entre los rendimientos obtenidos por dicha cuenta individual durante el tiempo en que fue administrada por la administradora infractora y el monto de los rendimientos que hubiera obtenido si sus recursos se hubieran invertido en la sociedad o sociedades de inversión que, durante dicho tiempo, hayan otorgado los rendimientos de gestión más altos de las sociedades de inversión de acuerdo a la información publicada en la página de Internet de la Comisión.
+
+El monto de tal resarcimiento deberá ser determinado en cantidad líquida y ordenado por la Comisión en la misma resolución.
+
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2005)</small>
+
+ARTICULO 100 bis.- La Comisión impondrá una multa consistente en la cantidad que represente el 25% de la multa mínima prevista en esta Ley a los participantes en los sistemas de ahorro para el retiro por la omisión o contravención que corresponda, en aquellos casos en que de la aplicación de los programas de autorregulación el Contralor Normativo detecte irregularidades en el desarrollo de algún proceso y se presente ante la Comisión un programa de corrección que corrija las omisiones o contravenciones a las normas aplicables en materia de los sistemas de ahorro para el retiro, en que hubieren incurrido.
+
+Lo establecido en el presente artículo, no eximirá a los participantes en los sistemas de ahorro para el retiro de su obligación de resarcir los daños y perjuicios que se causen a los trabajadores, por las omisiones o contravenciones a lo previsto en esta Ley y demás disposiciones aplicables.
+
+Los participantes que corrijan alguna de las omisiones o contravenciones a que se refiere el artículo 100 de esta Ley, deberán comunicar dicha situación a la Comisión dentro de los tres días hábiles siguientes a la fecha en que se realice dicha corrección, con la finalidad de que la Comisión tome conocimiento de la misma.
+
+El programa de corrección previsto en el presente artículo, no procederá en los siguientes casos:
+
+a) Incumplimiento al régimen de inversión de las sociedades de inversión;
+
+b) Cobro de comisiones que excedan el monto autorizado por la Comisión, y
+
+c) Cuando las administradoras no proporcionen la información a que estén obligadas o no atiendan los trámites solicitados directamente por los trabajadores respecto de las cuentas individuales, conforme a lo previsto en esta Ley y demás disposiciones aplicables.
 
 > <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -1742,13 +1804,19 @@ Los programas de corrección deberán reunir los requisitos que mediante disposi
 
 En caso de que el programa de corrección presentado no cumpla con los requisitos señalados en dichas disposiciones o no se cumpla, la Comisión impondrá la sanción correspondiente, aumentando el monto de ésta en un 20%.
 
-> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 11 DE ENERO DE 2005)</small>
 
-ARTICULO 100 quáter.- El beneficio de no-imposición de sanciones previsto en los artículos 100 bis y 100 ter, no será aplicable en caso de que las irregularidades hayan sido detectadas por la Comisión, en ejercicio de sus facultades de inspección y vigilancia, antes de la corrección espontánea o presentación del programa de corrección, según el caso.
+ARTICULO 100 quáter.- El beneficio previsto en los artículos 100 bis y 100 ter, no será aplicable en caso de que las irregularidades hayan sido detectadas por la Comisión, en ejercicio de sus facultades de inspección y vigilancia, antes de la presentación del programa de corrección.
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
 Se entenderá que la irregularidad fue detectada previamente por la Comisión, en el caso de las facultades de vigilancia, cuando se haya notificado al participante la irregularidad.
 
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
+
 En el caso de las facultades de inspección, se entenderá que la irregularidad fue detectada previamente por la Comisión cuando haya sido corregida con posterioridad a que se haya notificado una orden de visita de inspección, o haya mediado requerimiento y se refiera al objeto de la visita.
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
 En ningún caso la aplicación del beneficio previsto por este artículo, eximirá a las administradoras de su obligación de resarcir los daños y perjuicios, que en su caso, se causen a los trabajadores afectados por la infracción de que se trate.
 
@@ -1892,7 +1960,7 @@ Las mencionadas multas podrán ser impuestas, tanto a las administradoras, como 
 
 Los servidores públicos de la Secretaría de Hacienda y Crédito Público y de la Comisión, las administradoras, sus miembros del consejo de administración, administradores, directivos, funcionarios, empleados y apoderados, deberán abstenerse de dar noticia de los reportes y demás documentación e información a que se refiere este artículo, a personas o autoridades distintas a las facultadas expresamente en los ordenamientos relativos para requerir, recibir o conservar tal documentación e información. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
 
-### CAPITULO VIlI. Del Procedimiento de Conciliación y Arbitraje
+### CAPITULO VIII. Del Procedimiento de Conciliación y Arbitraje
 
 ###### ARTICULO 109.
 
@@ -1904,11 +1972,25 @@ Los servidores públicos de la Secretaría de Hacienda y Crédito Público y de 
 
 ### CAPITULO IX. De las Disposiciones Generales
 
-> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 111.
 
-Para efectos de las notificaciones, el recurso de revocación, las sanciones pecuniarias, el procedimiento de ejecución de las multas impuestas, la disminución en el pago y la garantía que deban otorgar las personas y sociedades que impugnen dichas multas, se estará a lo dispuesto por esta ley y supletoriamente a lo previsto en el Código Fiscal de la Federación y en lo no previsto por éste, se estará a lo previsto en el Código Federal de Procedimientos Civiles.
+Las notificaciones de los actos administrativos de la Comisión se harán:
+
+I. Personalmente o por correo certificado o electrónico, con acuse de recibo, cuando se trate de citatorios, notificaciones, incluyendo las de inicio de visitas de inspección, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos;
+
+II. Por correo ordinario o electrónico o por telegrama, cuando se trate de actos distintos de los señalados en la fracción anterior;
+
+III. Por estrados o por correo electrónico, cuando la persona a quien deba notificarse desaparezca, se oponga a la diligencia de notificación o no tenga su domicilio en el lugar que haya notificado a la Comisión;
+
+IV. Por edictos, únicamente en el caso de que se ignore el domicilio o correo electrónico de la persona a quien deba notificarse o que éste o su representante no se encuentren en territorio nacional;
+
+V. Por instructivo, solamente en los casos y con las formalidades a que se refiere el Código Fiscal de la Federación.
+
+En el caso de notificaciones por correo electrónico al buzón designado al efecto, el acuse de recibo consistirá en el documento que transmita automáticamente dicho buzón al recibir el documento digital.
+
+Para efectos de las notificaciones que se realicen por medios diferentes al correo electrónico, el recurso de revocación, las sanciones pecuniarias, el procedimiento de ejecución de las multas impuestas, la disminución en el pago y la garantía que deban otorgar las personas y sociedades que impugnen dichas multas, se estará a lo dispuesto por esta Ley y supletoriamente a lo previsto en el Código Fiscal de la Federación y en lo no previsto por éste, se estará a lo previsto en el Código Federal de Procedimientos Civiles.
 
 ###### ARTICULO 112.
 
@@ -1956,19 +2038,29 @@ Las disposiciones de esta ley no deberán interpretarse como de carácter fiscal
 
 Las relaciones entre las administradoras y empresas operadoras, con sus empleados, se regirán por lo dispuesto en el apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y en la Ley Federal del Trabajo.
 
-> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 11 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 119.
 
-Salvo que en las disposiciones específicas se establezca otro plazo, éste no podrá exceder de cuatro meses para que la Comisión resuelva lo que corresponda. Transcurrido el plazo aplicable, se entenderán las resoluciones en sentido negativo al promovente, a menos que en las disposiciones aplicables se prevea lo contrario. A petición del interesado, se deberá expedir constancia de tal circunstancia, dentro de los dos días hábiles siguientes a la presentación de la solicitud respectiva ante la Comisión, conforme al Reglamento Interior de ésta; igual constancia deberá expedirse cuando las disposiciones específicas prevean que transcurrido el plazo aplicable la resolución deba entenderse en sentido positivo. De no expedirse la constancia mencionada dentro del plazo citado, se fincará, en su caso, la responsabilidad que resulte aplicable.
+Salvo que en las disposiciones específicas se establezca otro plazo, éste no podrá exceder de cuatro meses para que la Comisión resuelva lo que corresponda. Transcurrido el plazo aplicable, se entenderán las resoluciones en sentido positivo al promovente, a menos que en las disposiciones aplicables se prevea lo contrario. A petición del interesado, se deberá expedir constancia de tal circunstancia, dentro de los dos días hábiles siguientes a la presentación de la solicitud respectiva ante la Comisión, conforme al Reglamento Interior de ésta. De no expedirse la constancia mencionada dentro del plazo citado, se fincará, en su caso, la responsabilidad que resulte aplicable.
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
 Los requisitos de presentación y plazos, así como otra información relevante aplicables a las promociones que realicen los participantes en los sistemas de ahorro para el retiro, deberán precisarse en disposiciones de carácter general.
 
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
+
 Cuando el escrito inicial no contenga los datos o no cumpla con los requisitos previstos en las disposiciones aplicables, la Comisión deberá prevenir al interesado, por escrito y por una sola vez, para que dentro de un término que no podrá ser menor de diez días hábiles subsane la omisión. Salvo que en las disposiciones específicas se establezca otro plazo, dicha prevención deberá hacerse a más tardar dentro de la mitad del plazo de respuesta de la Comisión y, cuando éste no sea expreso, dentro de los veinte días hábiles siguientes a la presentación del escrito inicial.
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
 Notificada la prevención, se suspenderá el plazo para que la Comisión resuelva y se reanudará a partir del día hábil inmediato siguiente a aquél en que el interesado conteste. En el supuesto de que no se desahogue la prevención en el término señalado, la Comisión desechará el escrito inicial.
 
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
+
 Si la Comisión no hace el requerimiento de información dentro del plazo correspondiente, no podrá rechazar el escrito inicial por incompleto.
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
 Salvo disposición expresa en contrario, los plazos para que la Comisión conteste empezarán a correr el día hábil inmediato siguiente a la presentación del escrito correspondiente.
 
@@ -2004,9 +2096,9 @@ Un representante de los trabajadores o los patrones presidirá, alternativamente
 
 ## TRANSITORIOS
 
-###### ARTICULO PRIMERO.
+###### ARTÍCULO PRIMERO.
 
-El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto el artículo 76 de la Ley de los Sistemas de Ahorro para el Retiro, que entrará en vigor el día primero de enero de 2001.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTICULO SEGUNDO.
 
@@ -2044,7 +2136,7 @@ La cuenta concentradora será una cuenta abierta a nombre del Instituto Mexicano
 
 Los recursos depositados en la cuenta concentradora se invertirán en valores o créditos a cargo del Gobierno Federal, y otorgarán un rendimiento que determinará la Secretaría de Hacienda y Crédito Público, misma que establecerá las demás características de esta cuenta.
 
-Durante el año de 1997, la cuenta concentradora causará intereses a una tasa de dos por ciento anual, pagaderos mensualmente mediante su reinversión en las cuentas individuales. El cálculo de estos intereses se hará sobre el saldo promedio diario mensual de las cuentas individuales, ajustado en una cantidad igual a la resultante de aplicar a dicho saldo, la variación porcentual del lndice Nacional de Precios al Consumidor publicado por el Banco de México, correspondiente al mes inmediato anterior al del ajuste.
+Durante el año de 1997, la cuenta concentradora causará intereses a una tasa de dos por ciento anual, pagaderos mensualmente mediante su reinversión en las cuentas individuales. El cálculo de estos intereses se hará sobre el saldo promedio diario mensual de las cuentas individuales, ajustado en una cantidad igual a la resultante de aplicar a dicho saldo, la variación porcentual del Indice Nacional de Precios al Consumidor publicado por el Banco de México, correspondiente al mes inmediato anterior al del ajuste.
 
 El trabajador podrá solicitar información sobre sus recursos de conformidad con el Reglamento de la Ley de los Sistemas de Ahorro para el Retiro.
 
@@ -2066,9 +2158,9 @@ Los restantes recursos acumulados en la subcuenta del seguro de retiro, cesantí
 
 El Presidente de la Comisión, previo acuerdo de la Junta de Gobierno, podrá autorizar la salida voluntaria de los sistemas de ahorro para el retiro de las instituciones de crédito que por ministerio de ley participen en los sistemas de ahorro para el retiro, siempre y cuando se cumplan los siguientes requisitos:
 
-l. Que exista solicitud por escrito de la persona interesada dirigida a la Comisión, en la cual aquélla exponga las causas o motivos por los cuales solicita la autorización para dejar de participar en los sistemas de ahorro para el retiro, acompañando las pruebas que considere convenientes en apoyo de su solicitud;
+I. Que exista solicitud por escrito de la persona interesada dirigida a la Comisión, en la cual aquélla exponga las causas o motivos por los cuales solicita la autorización para dejar de participar en los sistemas de ahorro para el retiro, acompañando las pruebas que considere convenientes en apoyo de su solicitud;
 
-Il. Que a juicio de la Junta de Gobierno de la Comisión existan circunstancias económicas, jurídicas, técnicas u operativas que justifiquen la salida de los sistemas de ahorro para el retiro de la institución de crédito de que se trate; y
+II. Que a juicio de la Junta de Gobierno de la Comisión existan circunstancias económicas, jurídicas, técnicas u operativas que justifiquen la salida de los sistemas de ahorro para el retiro de la institución de crédito de que se trate; y
 
 III. Que los intereses de los trabajadores no sufran daño ni perjuicio alguno con motivo de la salida de los sistemas de ahorro para el retiro de la institución de crédito de que se trate.
 
@@ -2235,3 +2327,27 @@ A partir del día primero de enero de 2003 las instituciones de crédito deberá
 D.O.F. 28 DE ENERO DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 11 DE ENERO DE 2005.
+
+###### ARTÍCULO SEGUNDO.
+
+Los acuerdos, circulares, reglas de carácter general, acuerdos delegatorios y demás disposiciones y actos administrativos de carácter general, expedidos por la Comisión Nacional del Sistema de Ahorro para el Retiro antes de la entrada en vigor del presente Decreto, continuarán en vigor y conservarán plena validez y eficacia jurídica, en lo que no se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los incumplimientos, infracciones y contravenciones a lo dispuesto en las leyes del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, en materia de los sistemas de ahorro para el retiro, así como a lo establecido en la Ley de los Sistemas de Ahorro para el Retiro, su reglamento y demás disposiciones normativas que emanen de los mencionados ordenamientos legales, ocurridos antes de la entrada en vigor del presente Decreto serán sancionados por la Comisión Nacional del Sistema de Ahorro para el Retiro conforme a las disposiciones normativas vigentes en la fecha en que tuvieron lugar.
+
+###### ARTÍCULO CUARTO.
+
+Lo dispuesto en el artículo 37 respecto a que la permanencia para efectos de los incentivos en comisiones se contará a partir de la primera apertura de la cuenta individual del trabajador en cualquier administradora, será aplicable a partir de la entrada en vigor del presente Decreto.
+
+A los trabajadores que a partir de la fecha de entrada en vigor del presente Decreto traspasen su cuenta individual, la administradora receptora de la cuenta deberá reconocerles su permanencia, para efectos de los incentivos en comisiones, en los términos establecidos en el artículo 37 que se reforma.
+
+A los trabajadores que se encuentren registrados en una Administradora a la fecha de entrada en vigor del presente Decreto y permanezcan en ella no les será aplicable obligatoriamente el incentivo por permanencia en los términos establecidos en el artículo 37 que se reforma. Sin perjuicio de lo anterior, las Administradoras podrán otorgar voluntariamente dicho incentivo a todos los trabajadores que tengan registrados.
+
+Las Administradoras que a la fecha de entrada en vigor del presente Decreto ofrezcan incentivos por permanencia a los trabajadores en sus estructuras de comisiones, deberán aplicar dichos incentivos en los términos dispuestos por este artículo, o presentar una nueva estructura de comisiones a la autorización de la Comisión.
+
+###### ARTÍCULO QUINTO.
+
+Los trabajadores, en términos de lo dispuesto por el artículo 74 que se reforma, podrán solicitar el traspaso de su cuenta individual a una Administradora que les cobre comisiones más bajas a partir de la entrada en vigor del presente Decreto.
