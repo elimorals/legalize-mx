@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-trabajadores-al-servicio-del-estado-de-puebla-7738"
 country: "mx"
 rank: "ley"
 publication_date: "1966-11-18"
-last_updated: "1973-02-01"
+last_updated: "1983-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 1983.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Puebla, el viernes 18 de noviembre de 1966.
 
@@ -45,11 +45,13 @@ T I T U L O P R I M E R O
 
 Disposiciones Generales.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 1972)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1983)</small>
 
 ###### ARTICULO 1o.
 
-La presente Ley es de observancia general para los titulares de los departamentos Legislativo, Ejecutivo y Judicial del Estado, y para todos los trabajadores de base al servicio de los mismos departamentos.
+La presente Ley es de observancia general para los Titulares y Trabajadores de las Dependencias de los Poderes Legislativo, Ejecutivo y Judicial del Estado, y para los de los Organismos Descentralizados creados por la Legislatura de la Entidad, que tengan a su cargo la prestación de servicios públicos.
+
+Los derechos, prerrogativas, atribuciones, obligaciones y responsabilidades previstas por esta Ley para el Estado y sus trabajadores, se entenderán establecidos también para los Organismos Descentralizados a que se refiere el párrafo anterior y para sus trabajadores, con las modalidades que se pacten en los contratos de trabajo respectivos.
 
 ###### ARTICULO 2o.
 
@@ -176,6 +178,10 @@ El Secretario del Tribunal Superior de Justicia y los Secretarios de las Salas.
 El Secretario Particular del C. Presidente del Tribunal.
 
 El Chofer del Presidente del Tribunal Superior.
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 1983)</small>
+
+IV.- Los demás que realicen funciones de dirección, inspección, vigilancia y fiscalización, cuando tengan carácter general.
 
 ###### ARTICULO 8o.
 
@@ -1010,3 +1016,9 @@ SEGUNDO.- Todas las disposiciones legales que se opongan al presente Decreto que
 P.O. 1 DE FEBRERO DE 1973.
 
 UNICO.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE AGOSTO DE 1983.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
