@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "1965-01-13"
+last_updated: "1968-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ENERO DE 1965.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 1968.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -2467,6 +2467,10 @@ Serán aplicables a la libertad bajo protesta, las disposiciones contenidas en e
 
 Será igualmente puesto en libertad bajo protesta el inculpado, sin los requisitos del artículo anterior, cuando cumpla la pena impuesta en primera instancia, estando pendiente el recurso de apelación. Los tribunales acordarán de oficio la libertad de que trata este artículo.
 
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 1968)</small>
+
+El Ministerio Público, previa autorización del Procurador General de la República, podrá promover, asimismo, sin los requisitos del artículo anterior y cualquiera que sea el estado que guarde el proceso, la libertad bajo protesta, cuando se trate de Delitos contra la Seguridad Interior de la Nación, o de Conspiración para cometerlos.
+
 ###### ARTICULO 420.
 
 El auto en que se conceda la libertad bajo protesta, no surtirá sus efectos hasta que el inculpado proteste formalmente presentarse ante el tribunal que conozca del asunto siempre que se le ordene.
@@ -3398,3 +3402,7 @@ Las audiencias en los procesos del orden federal que se celebren dentro de la vi
 D.O.F. 13 DE ENERO DE 1965.
 
 UNICO.- Este decreto entrará en vigor dentro de los tres días siguientes de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 21 DE DICIEMBRE DE 1968.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
