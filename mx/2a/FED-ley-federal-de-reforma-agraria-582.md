@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-reforma-agraria-582"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1971-04-16"
-last_updated: "1975-01-03"
+last_updated: "1976-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=582&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1971-03-22"
 
 LEY FEDERAL DE REFORMA AGRARIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE ENERO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE JUNIO DE 1976.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 16 de abril de 1971.
 
@@ -1145,11 +1145,11 @@ Si la expropiación de las aguas implica la desaparición de la productividad de
 
 Las expropiaciones de bienes ejidales y comunales para obras de servicios social o público a que se refieren las fracciones I, II, III y IV del artículo 112 de esta ley, solo procederán a favor de los gobiernos federal, local o municipal, o de los organismos públicos descentralizados del gobierno federal, los que ocuparán los predios expropiados mediante el pago o depósito del importe de la indemnización correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 1976)</small>
 
 ###### ARTICULO 117.
 
-Las expropiaciones de bienes ejidales o comunales que tengan por objeto crear fraccionamientos urbanos o suburbanos, se harán indistintamente a favor del Banco Nacional de Obras y Servicios Públicos, S. A., del Instituto Nacional para el Desarrollo de la Comunidad Rural y de la Vivienda Popular, o del Departamento del Distrito Federal y, cuando el objeto sea la regularización de las áreas en donde existan asentamientos humanos irregulares se harán en su caso, en favor de la Comisión para la Regularización de la Tenencia de la Tierra, según se determine en el Decreto respectivo, el cual podrá facultar a dichas dependencias para efectuar el fraccionamiento y venta de los lotes urbanizados o regularizados. Hechas las deducciones por concepto de intereses y gastos de administración en los términos del artículo siguiente, las utilidades quedarán a favor del Fondo Nacional de Fomento Ejidal, el que entregará a los ejidatarios afectados la proporción dispuesta en el artículo 122.
+Las expropiaciones de bienes ejidales o comunales que tengan por objeto crear fraccionamientos urbanos o suburbanos, se harán indistintamente a favor del Banco Nacional de Obras y Servicios Públicos, S. A., del Instituto Nacional para el Desarrollo de la Comunidad Rural y de la Vivienda Popular o del Departamento del Distrito Federal, y, cuando el objeto sea la regularización de las áreas en donde existan asentamientos humanos irregulares se harán, en su caso, en favor de la Comisión para la Regularización de la Tenencia de la Tierra, según se determine en el Decreto respectivo, el cual podrá facultar a dichas dependencias para efectuar el fraccionamiento y venta de los lotes urbanizados o regularizados. Hechas las deducciones por concepto de intereses y gastos de administración en los términos del artículo siguiente, las utilidades quedarán a favor del Fideicomiso de Apoyo a la Industria Rural, el que entregará a los ejidatarios afectados la proporción dispuesta en el artículo 122.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
 
@@ -1227,9 +1227,17 @@ El Fondo Nacional de Fomento Ejidal está obligado a ejecutar en el término de 
 
 En tanto se realizan los planes de inversión, el Fondo debe proporcionar a los ejidatarios de los intereses que produzca el monto de la indemnización, las sumas necesarias para su subsistencia.
 
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 1976)</small>
+
 ###### ARTICULO 126.
 
-Cuando los bienes expropiados se destinen a un fin distinto del señalado en el decreto respectivo, o cuando en un plazo de cinco años no cumplan la función asignada, pasarán a ser propiedad del Fondo Nacional de Fomento Ejidal y no podrá reclamarse la devolución de las sumas o bienes que se hayan entregado por concepto de indemnización.
+Cuando los bienes expropiados se destinen a un fin distinto del señalado en el Decreto respectivo, o cuando en un plazo de cinco años no cumplan la función asignada, pasarán a incrementar el patrimonio del Fideicomiso de Apoyo a la Industria Rural, y no podrá reclamarse la devolución de las sumas o bienes que se hayan entregado por concepto de indemnización.
+
+El Fideicomiso de Apoyo a la Industria Rural tendrá por objeto apoyar financieramente las actividades industriales de ejidos y comunidades, y funcionará en los términos de las normas y modalidades que el Ejecutivo Federal determine en el Contrato de Fideicomiso respectivo.
+
+Este Fideicomiso contará con un Comité Técnico de Inversión de Fondos, integrado por un representante propietario y un suplente, de las Secretarías de Hacienda y Crédito Público de la Reforma Agraria, de Industria y Comercio, así como de la Financiera Nacional de Industria Rural, S. A., y un representante del Sector Campesino que será designado por el Ejecutivo Federal.
+
+Este Comité será presidido por el Director General de la Financiera de Industria Rural, S. A.
 
 ###### ARTICULO 127.
 
@@ -1247,11 +1255,11 @@ Los titulares de las dependencias y organismos oficiales, que dentro de sus atri
 
 Las prerrogativas, derechos preferentes, formas de organización y garantías económicas y sociales que se establecen en este libro, se mencionen o no expresamente, se entenderán otorgados por igual a ejidatarios, comuneros y pequeños propietarios de predios equivalentes a la unidad mínima de dotación individual en los ejidos.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 1976)</small>
 
 ###### ARTICULO 130.
 
-Los ejidos provisionales o definitivos y las comunidades podrán explotarse en forma individual o colectiva. La explotación colectiva de todo un ejido sólo podrá ser acordada o revocada por el Presidente de la República, previa elaboración de los estudios técnicos necesarios por la Secretaría de la Reforma Agraria; en todo caso deberá mediar solicitud de los núcleos interesados aprobada en Asamblea General por las dos terceras partes de sus integrantes con excepción de los casos a que se refiere el Artículo 131.
+Los ejidos provisionales o definitivos y las comunidades podrán explotarse en forma colectiva o individual. La explotación colectiva de todo un ejido, sólo podrá ser acordada o revocada por el Presidente de la República, cuando de los trabajos técnicos y económicos que practique la Secretaría de la Reforma Agraria, a petición de parte o de oficio, se compruebe que es conveniente dicha explotación; en este último caso, se oirá la opinión de los núcleos interesados.
 
 ###### ARTICULO 131.
 
@@ -1409,9 +1417,11 @@ Los ejidos y comunidades estarán obligados a la conservación y cuidado de los 
 
 ### CAPITULO TERCERO. Crédito para Ejidos y Comunidades
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 1976)</small>
+
 ###### ARTICULO 155.
 
-El crédito deberá proporcionarse a los ejidos preferentemente por los bancos del sistema nacional de crédito oficial y las demás instituciones similares que se lleguen a establecer, de acuerdo con sus respectivas leyes; por las financieras oficiales y el Fondo Nacional de Fomento Ejidal, cuando se les encomiende alguna actividad de organización de la producción agropecuaria o de industrias conexas con la producción ejidal y por las instituciones descentralizadas del Estado a las que se les encomiende el suministro de créditos.
+Las Instituciones del sistema oficial de crédito rural deberán atender las necesidades crediticias de ejidos y comunidades en forma preferente y conforme al orden establecido en el Artículo 59 de la Ley General de Crédito Rural. El crédito de las instituciones de crédito privadas para ejidos y comunidades, deberá ajustarse a las reglas que establezca la Secretaría de Hacienda y Crédito Público.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
 
@@ -1497,77 +1507,55 @@ V.- Obras de asistencia social de emergencia.
 
 Queda absolutamente prohibido el empleo de fondos para fines religiosos o políticos. Sólo puede disponerse de recursos pertenecientes al fondo común, con acuerdo de la Asamblea y previa aprobación del Comité Técnico y de Inversión de Fondos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 1976)</small>
 
 ###### ARTICULO 166.
 
-El fondo común de los ejidos y comunidades deberá depositarse en las oficinas del Banco de México, S. A., o en sus corresponsables, para concentrarse al Fondo Nacional de Fomento Ejidal. El Comisariado lo depositará con intervención del Consejo de Vigilancia y dará aviso del depósito al Fondo Nacional de Fomento Ejidal y a la primera Asamblea General que se efectúe en el ejido después del depósito, notificandolo asimismo y por escrito a la Secretaría de la Reforma Agraria y a su Delegado en la Entidad.
+El fondo común de los ejidos y comunidades deberá depositarse en las oficinas del Banco de México, S. A., o en sus corresponsales para concentrarse en la Financiera Nacional de Industria Rural, S. A. El comisariado lo depositará con la intervención del Consejo de Vigilancia y dará aviso del depósito de la Financiera Nacional de Industria Rural, S. A., y a la primera asamblea general que se efectúe en el ejido después del depósito, notificándolo asimismo y por escrito a la Secretaría de la Reforma Agraria y a su Delegado en la entidad.
 
-Por su parte el Banco de México, S. A., informará diariamente al Fondo Nacional de Fomento Ejidal de los depósitos recibidos. Los depósitos que reciba el Banco de México, S. A., por conducto de sus oficinas o corresponsales, deberá acreditarlos debidamente a la Institución Tesorera, en un plazo no mayor de cinco días a partir de la fecha del depósito realizado en sus respectivas oficinas o corresponsales; a su vez, la Institución Tesorera dispondrá de un plazo no mayor de cinco días a partir de la fecha en que reciba el dinero del Banco, para acreditar los depósitos en la cuenta de cada ejido.
+Por su parte, el Banco de México, S. A., informará diariamente a la Financiera Nacional de Industria Rural, S. A., de los depósitos recibidos. Los depósitos que reciba el Banco de México, S. A., por conducto de sus oficinas o corresponsales, deberá de acreditarlos debidamente en un plazo no mayor de cinco días a partir de la fecha del depósito realizado en sus respectivas oficinas o corresponsales.
 
-En el caso de un Banco Oficial que financie a un ejido o comunidad que sea miembro del Fondo Nacional de Fomento Ejidal, este Banco podrá recibir preferentemente los depósitos de los fondos comunes para los efectos señalados en este artículo.
+En el caso de un Banco Oficial que financie a un ejido o comunidad que sea miembro de la Financiera Nacional de Industria Rural, S. A., este Banco podrá recibir preferentemente los depósitos de los fondos comunes para los efectos señalados en este artículo.
 
 ### CAPITULO QUINTO. Fondo Nacional de Fomento Ejidal
 
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 1976)</small>
+
 ###### ARTICULO 167.
 
-El Fondo Nacional de Fomento Ejidal se crea para financiar la realización de los programas y planes de fomento económico y social precisamente para los ejidos y comunidades depositantes, hasta por el monto de sus respectivos depósitos, conforme a lo dispuesto en el artículo 165, en la forma y con los requisitos que se establezcan en el reglamento que al efecto se expida.
+El Fondo Nacional de Fomento Ejidal, es un Fideicomiso Público que tendrá por objeto el manejo de los fondos comunes ejidales y los aplicará a los fines establecidos en el Artículo 165 y demás relativos de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 6 DE MAYO DE 1972)</small>
+ARTICULO 167 BIS.- (DEROGADO, D.O.F. 29 DE JUNIO DE 1976)
 
-Cuando la inversión lo amerite y lo demanden las necesidades del ejido o la comunidad, el Fondo Nacional de Fomento Ejidal podrá otorgar financiamiento para la realización de programas y planes de fomento económico y social en exceso al monto de los fondos comunes depositados; asimismo podrá financiar a ejidos y comunidades que no tengan calidad de cuenta-habientes del Fondo, pero no podrá aplicar en ninguno de estos dos últimos casos los recursos a que se refiere la fracción I del artículo 168, a efecto de garantizar que cada ejido o comunidad integrante del Fondo, pueda disponer totalmente de sus respectivas aportaciones.
-
-> <small>(ADICIONADO, D.O.F. 6 DE MAYO DE 1972)</small>
-
-ARTICULO 167 BIS.- El Fondo Nacional de Fomento Ejidal, como entidad con personalidad jurídica y patrimonio propio, canalizará la inversión de sus recursos y las asignaciones económicas especiales que determine el Gobierno Federal, preferentemente a la realización de programas de fomento económico en ejidos y comunidades, para el incremento de la producción agropecuaria de éstos; al establecimiento de industrias que transformen dicha producción y la comercialicen; y a la constitución de empresas ejidales que extraigan o elaboren materiales para construcción de viviendas.
-
-Dentro de las industrias ejidales que financie el Fondo para extraer o transformar productos destinados a la construcción, se considerarán en primer término para recibir financiamientos, aquéllas que establezcan plantas industriales para la fabricación de viviendas.
-
-Tratándose de obras de beneficio social, el Fondo dará prioridad al financiamiento de programas de mejoramiento y construcción de la vivienda en ejidos y comunidades, a cuyo efecto coordinará su acción con los organismos competentes.
-
-El Fondo Nacional de Fomento Ejidal captará y administrará los recursos del ejido, provenientes de la regularización de zonas urbanas y opinará en los procedimientos relativos a dicha regularización.
-
-Para adquirir, construir, o mejorar la vivienda de ejidatarios y comuneros, el Fondo gestionará y otorgará garantías, créditos y financiamientos con los recursos disponibles para este objeto y los que reciba adicionalmente.
-
-En el desarrollo de estos programas se utilizará preferentemente la mano de obra de los propios campesinos, cuidando de no interferir las labores normales de su producción agropecuaria.
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 1976)</small>
 
 ###### ARTICULO 168.
 
-El Fondo Nacional de Fomento Ejidal se integrará con los siguientes recursos:
+El Fideicomiso Fondo Nacional de Fomento Ejidal se integrará con los siguientes recursos:
 
-I.- Fondos comunes ejidales;
+I.- Fondos Comunales Ejidales;
 
 II.- Remanentes que queden de las indemnizaciones en efectivo por expropiación de terrenos ejidales, después de la adquisición de las tierras que deban entregarse al núcleo de población o a los ejidatarios afectados, o de la creación de fuentes permanentes de trabajo para los mismos, en compensación de los bienes expropiados;
 
-III.- Remanentes de las utilidades que obtengan las instituciones a que se refiere el artículo 117 de esta Ley, de los fraccionamientos urbanos, suburbanos e industriales, realizados en terrenos ejidales y comunales, después de otorgar la compensación correspondiente a los núcleos agrarios o a los ejidatarios afectados en los términos de esta Ley;
+III.- Aportaciones del Gobierno Federal, de los Estados y de los Municipios;
 
-IV.- Intereses derivados de las operaciones que se realicen en el Fondo o con la inversión de sus disponibilidades;
+IV.- Cuotas de solidaridad que acuerden los sindicatos obreros para el sector campesino.
 
-V.- Fondos que obtengan mediante la suscripción de Bonos Agrícolas, obligaciones y cédulas en los términos de Ley;
+V.- Los demás recursos que obtengan por cualquier otro concepto.
 
-VI.- Recursos financieros que capte con la garantía de los recursos propios del Fondo;
-
-VII.- Aportaciones del Gobierno Federal, de los Estados y de los Municipios;
-
-VIII.- Cuotas de solidaridad que acuerden los Sindicatos Obreros para el sector campesino; y
-
-IX.- Los demás recursos que obtenga por cualquier otro concepto.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 1976)</small>
 
 ###### ARTICULO 169.
 
-Se constituye el Comité Técnico y de Inversión de Fondos, para el manejo exclusivo y permanente del Fondo Nacional de Fomento Ejidal, integrado con representantes de la Secretaría de la Reforma Agraria y de las Secretarías de Agricultura y Ganadería, Hacienda y Crédito Público, industria y Comercio, de la Nacional Financiera, S. A., y del sector campesino ejidal, este último nombrado por el Ejecutivo Federal.
+Se constituye el Comité Técnico y de Inversión de Fondos, para el manejo exclusivo y permanente del Fideicomiso Fondo Nacional de Fomento Ejidal, integrado con un representante propietario y un suplente de las Secretarías de la Reforma Agraria, Agricultura y Ganadería, Hacienda y Crédito Público, Industria y Comercio, Financiera Nacional de Industria Rural, S. A., y del sector campesino ejidal que será designado por el Ejecutivo.
 
-El Comité Técnico y de Inversión de Fondos, estará presidido por el Delegado Fiduciario Especial, designado por la Nacional Financiera, S. A., como Institución Fiduciaria, previo acuerdo del Ejecutivo Federal, mismo que fungirá como Director General del Fondo Nacional de Fomento Ejidal.
+El Comité Técnico y de Inversión de Fondos estará presidido por el Director General de la Financiera Nacional de Industria Rural, S. A.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 1976)</small>
 
 ###### ARTICULO 170.
 
-El Fondo Nacional de Fomento Ejidal se entregará en fideicomiso a la Nacional Financiera, S. A., para que esta institución lo represente en los términos de su Reglamento, del contrato del fideicomiso que se celebre y de las normas de operación que formule el Comité Técnico y de Inversión de Fondos, con aprobación de la Secretaría de la Reforma Agraria y la Secretaría de Hacienda y Crédito Público, así como a lo dispuesto por esta Ley.
-
-Asimismo, la Nacional Financiera, S. A., actuará como institución tesorera y agente financiero del Fondo, teniendo la obligación de rendir cuentas mensualmente al Fondo Nacional de Fomento Ejidal por conducto del Comité Técnico y de Inversión de Fondos, el que a su vez informará de la realización de los programas que haya autorizado y de los estados de cuenta a los ejidos depositantes.
+El Fideicomiso Fondo Nacional de Fomento Ejidal tendrá como Institución Fiduciaria a la Financiera Nacional de Industria Rural S. A., la que lo representará en los términos de Ley y del Contrato de Fideicomiso correspondiente, así como de las reglas de operación que formule el Comité Técnico y de Inversión de Fondos.
 
 ### CAPITULO SEXTO. Comercialización y distribución
 
@@ -3854,3 +3842,33 @@ D.O.F. 3 DE ENERO DE 1975.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 29 DE JUNIO DE 1976.
+
+###### ARTICULO PRIMERO.
+
+El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, procederá a la liquidación de Patrimonio del Organismo Descentralizado Fondo Nacional de Fomento Ejidal, y a través de la Secretaría del Patrimonio Nacional, de común acuerdo con las Secretarías de Hacienda y Crédito Público y de la Reforma Agraria determinará que bienes y derechos deben aportarse a la Financiera Nacional de Industria Rural, S. A., así como el destino de los activos y de los bienes muebles e inmuebles que no se transfieran a la citada financiera.
+
+###### ARTICULO SEGUNDO.
+
+El propio Ejecutivo Federal por conducto de la Secretaría de Hacienda y Crédito Público procurará otorgar al personal de base del organismo descentralizado Fondo Nacional de Fomento Ejidal, plazas equivalentes en categoría y sueldo a las que se encuentre desempeñado, adscribiendolo de acuerdo con sus funciones a las dependencias que corresponda. En las relaciones jurídicas con las personas que presten servicio al citado organismo, no comprendidos en la primera parte de este artículo, se sujetarán a las disposiciones legales aplicables y a los términos de su contratación.
+
+###### ARTICULO TERCERO.
+
+Nacional Financiera, S. A. continuará como fiduciaria del Fondo Nacional de Fomento Ejidal e institución tesorera de los fondos comunes ejidales hasta en tanto se organice la Financiera Nacional de Industria Rural, S. A.
+
+###### ARTICULO CUARTO.
+
+Las Secretarías de Hacienda y Crédito Público y de la Reforma Agraria, así como Nacional Financiera, S. A. y Financiera Nacional de Industria Rural, S. A., llevará a cabo todos los actos jurídicos y administrativos para que en un término perentorio se realice la transferencia de los fondos comunes de ejido y comunidades.
+
+###### ARTICULO QUINTO.
+
+Los bienes que de acuerdo con los Decretos Expropiatorios en vigor deban revertir por las causas señaladas en los mismos, a favor del organismo descentralizado Fondo Nacional de Fomento Ejidal, se harán en favor del Fideicomiso de Apoyo a la Industria Rural, a partir de la entrada en vigor del presente Decreto.
+
+###### ARTICULO SEXTO.
+
+Se deroga el Artículo 167 Bis de la Ley Federal de Reforma Agraria, así como todas las demás disposiciones legales en lo que se opongan al presente Decreto.
+
+###### ARTICULO SEPTIMO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
