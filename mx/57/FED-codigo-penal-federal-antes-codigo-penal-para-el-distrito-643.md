@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1999-05-18"
+last_updated: "2000-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE MAYO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 2000.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -2099,9 +2099,9 @@ Al que quebrante los sellos puestos por orden de la autoridad pública se le apl
 
 Cuando de común acuerdo, quebrantaren las partes interesadas en un negocio civil los sellos puestos por la autoridad pública, pagarán una multa de veinte a doscientos pesos.
 
-### CAPITULO II. Corrupción de menores e incapaces
+### Capítulo II. Corrupción de menores e incapaces. Pornografía infantil y prostitución sexual de menores
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 189.
 
@@ -2339,19 +2339,43 @@ En caso de reincidencia, además de las sanciones previstas en este artículo, s
 
 No se sancionarán las conductas que tengan un fin de investigación o divulgación científico, artístico o técnico.
 
-(REFORMADA SU DENOMINACION, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADA, D.O.F. 4 DE ENERO DE 1989)
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 201.
 
-Al que procure o facilite la corrupción de un menor de dieciséis años de edad o de quien no tenga capacidad para comprender el significado del hecho, mediante actos de exhibicionismo corporal, lascivos o sexuales, o lo induzca a la práctica de la mendicidad, la ebriedad, al consumo de narcóticos, a la prostitución, al homosexualismo, a formar parte de una asociación delictuosa, o a cometer cualquier delito, se le aplicarán de tres a ocho años de prisión y de cincuenta a doscientos días multa.
+Comete el delito de corrupción de menores, el que induzca, procure, facilite u obligue a un menor de dieciocho años de edad o a quien no tenga capacidad para comprender el significado del hecho, a realizar actos de exhibicionismo corporal, lascivos o sexuales, prostitución, ebriedad, consumo de narcóticos, prácticas sexuales o a cometer hechos delictuosos. Al autor de este delito se le aplicarán de cinco a diez años de prisión y de quinientos a dos mil días multa.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+Al que obligue o induzca a la práctica de la mendicidad, se le impondrá de tres a ocho años de prisión y de cincuenta a doscientos días multa.
 
-Cuando de la práctica reiterada de los actos de corrupción el menor o incapaz adquiera los hábitos del alcoholismo, farmacodependencia, se dedique a la prostitución, a prácticas homosexuales, o a formar parte de una asociación delictuosa, la pena será de cinco a diez años de prisión y de cien a cuatrocientos días multa.
+No se entenderá por corrupción de menores los programas preventivos, educativos o de cualquier índole que diseñen e impartan las instituciones públicas, privadas o sociales que tengan por objeto la educación sexual, educación sobre función reproductiva, la prevención de enfermedades de transmisión sexual y el embarazo de adolescentes, siempre que estén aprobados por la autoridad competente.
 
-(REFORMADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
+Cuando de la práctica reiterada de los actos de corrupción el menor o incapaz adquiera los hábitos del alcoholismo, farmacodependencia, se dedique a la prostitución o a formar parte de una asociación delictuosa, la pena será de siete a doce años de prisión y de trescientos a seiscientos días multa.
 
-Si además de los delitos previstos en este capítulo resultase cometido otro, se aplicarán las reglas de acumulación.
+Si además de los delitos previstos en este capítulo resultase cometido otro, se aplicarán las reglas de la acumulación.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 2000)</small>
+
+ARTICULO 201 BIS.- Al que procure o facilite por cualquier medio el que uno o más menores de dieciocho años, con o sin su consentimiento, lo o los obligue o induzca a realizar actos de exhibicionismo corporal, lascivos o sexuales, con el objeto y fin de videograbarlos, fotografiarlos o exhibirlos mediante anuncios impresos o electrónicos, con o sin el fin de obtener un lucro, se le impondrán de cinco a diez años de prisión y de mil a dos mil días multa.
+
+Al que fije, grabe, imprima actos de exhibicionismo corporal, lascivos o sexuales en que participen uno o más menores de dieciocho años, se le impondrá la pena de diez a catorce años de prisión y de quinientos a tres mil días multa. La misma pena se impondrá a quien con fines de lucro o sin él, elabore, reproduzca, venda, arriende, exponga, publicite o transmita el material a que se refieren las acciones anteriores.
+
+Se impondrá prisión de ocho a dieciséis años y de tres mil a diez mil días multa, así como el decomiso de los objetos, instrumentos y productos del delito, a quien por sí o a través de terceros, dirija, administre o supervise cualquier tipo de asociación delictuosa con el propósito de que se realicen las conductas previstas en los dos párrafos anteriores con menores de dieciocho años.
+
+Para los efectos de este artículo se entiende por pornografía infantil, la representación sexualmente explícita de imágenes de menores de dieciocho años.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 2000)</small>
+
+ARTICULO 201 BIS 1.- Si el delito de corrupción de menores o de quien no tenga capacidad para comprender el resultado del hecho o el de pornografía infantil es cometido por quien se valiese de una función pública que tuviese, se le impondrá hasta una tercera parte más de las penas a que se refieren los artículos 201 y 201 bis y destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñarlo, hasta por un tiempo igual al de la pena impuesta para ejercer otro.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 2000)</small>
+
+ARTICULO 201 BIS 2.- Si el delito es cometido con un menor de dieciséis años de edad, las penas aumentarán hasta una tercera parte más de las sanciones a que se refieren los artículos 201 y 201 bis. Si el delito se comete con menor de doce años de edad, las penas aumentarán hasta una mitad de las sanciones a que se refieren los artículos 201 y 201 bis de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 2000)</small>
+
+ARTICULO 201 BIS 3.- Al que promueva, publicite, invite, facilite o gestione por cualquier medio a persona o personas a que viaje al interior o exterior del territorio nacional y que tenga como propósito, tener relaciones sexuales con menores de dieciocho años de edad, se le impondrá una pena de cinco a catorce años de prisión y de cien a dos mil días multa.
+
+Las mismas penas se impondrán a quien realice las acciones a que se refiere el párrafo anterior, con el fin de que persona o personas obtengan relaciones sexuales con menores de dieciocho años.
 
 > <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
@@ -2377,6 +2401,10 @@ Para los efectos de este precepto se considerará como empleado en la cantina, t
 
 Las sanciones que señalan los artículos anteriores se duplicarán cuando el delincuente tenga parentesco por consanguinidad, por afinidad o civil o habite en el mismo domicilio con la víctima, aunque no existiera parentesco alguno, así como por el tutor o curador; asimismo perderá la patria potestad respecto de todos sus descendientes, el derecho a alimentos que le correspondieran por su relación con la víctima y el derecho que pudiera tener respecto a los bienes de ésta.
 
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 2000)</small>
+
+Cuando el delito sea cometido por un miembro o miembros de la delincuencia organizada se aplicará, la pena de diez a quince años de prisión y de mil a cinco mil días de multa.
+
 ### CAPITULO VI. Concusión
 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
@@ -2385,7 +2413,7 @@ Las sanciones que señalan los artículos anteriores se duplicarán cuando el de
 
 Los delincuentes de que se trata en este capítulo quedarán inhabilitados para ser tutores y curadores.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2000)</small>
 
 ### CAPITULO VII. Intimidación
 
@@ -2393,11 +2421,9 @@ Los delincuentes de que se trata en este capítulo quedarán inhabilitados para 
 
 ###### ARTICULO 205.
 
-Al que promueva, facilite, consiga o entregue a una persona para que ejerza la prostitución dentro o fuera del país, se le impondrá prisión de dos a nueve años y de cien a quinientos días multa.
+Al que promueva, facilite, consiga o entregue a una persona para que ejerza la prostitución dentro o fuera del territorio nacional, se le impondrá prisión de cinco a doce años y de cien a mil días de multa.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE ENERO DE 1984)</small>
-
-Si se emplease violencia o el agente se valiese de una función pública que tuviere, la pena se agravará hasta en una mitad más.
+Si se emplease violencia o el agente se valiese de la función pública que tuviere, la pena se aumentará hasta una mitad.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE ENERO DE 1984)</small>
 
@@ -2421,7 +2447,7 @@ II.- Al que induzca o solicite a una persona para que con otra, comercie sexualm
 
 III.- Al que regentee, administre o sostenga directa o indirectamente, prostíbulos, casas de cita o lugares de concurrencia expresamente dedicados a explotar la prostitución, u obtenga cualquier beneficio con sus productos.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2000)</small>
 
 ### CAPITULO IX. Tráfico de Influencia
 
@@ -2429,7 +2455,7 @@ III.- Al que regentee, administre o sostenga directa o indirectamente, prostíbu
 
 ###### ARTICULO 208.
 
-Cuando la persona cuyo cuerpo sea explotado por medio del comercio carnal, sea menor de edad, se aplicará al que encubra, concierte o permita dicho comercio, pena de seis a diez años de prisión y de diez a veinte días multa.
+Al que promueva, encubra, concierte o permita el comercio carnal de un menor de dieciocho años se le aplicará pena de ocho a doce años de prisión y de cien a mil días multa.
 
 ###### ARTICULO 209.
 
@@ -5864,3 +5890,7 @@ D.O.F. 18 DE MAYO DE 1999.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las menciones que en otras disposiciones de carácter federal se hagan al Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, se entenderán referidas al Código Penal Federal.
+
+D.O.F. 4 DE ENERO DE 2000.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
