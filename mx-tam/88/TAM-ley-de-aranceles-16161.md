@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aranceles-16161"
 country: "mx"
 rank: "ley"
 publication_date: "1901-06-25"
-last_updated: "1901-06-25"
+last_updated: "1937-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "TAM"
 
 LEY DE ARANCELES
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 1937.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el 7 de junio de 1901.
 
@@ -32,149 +32,275 @@ Que el Congreso del mismo estado ha decretado lo siguiente:
 
 LEY DE ARANCELES
 
-### CAPITULO I. DISPOSICIONES GENERALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE ENERO DE 1937)</small>
+
+### CAPITULO I. HONORARIOS DE LOS ABOGADOS
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1937)</small>
 
 ###### Art. 1o.
 
-Los honorarios de los profesionistas pueden arreglarse de común acuerdo entre el que presta y el que recibe los servicios, de conformidad con lo dispuesto en el artículo 2407 del Código Civil de Estado.
+Los abogados cobraran:
+
+I.- Por vista o lectura de documentos, papeles o expedientes de cualquiera clase, siempre que no pasen de veinticinco fojas, $ 10.00 diez pesos.
+
+Si excedieren de veinticinco fojas, por cada una de exceso $ 0.25.
+
+Si la vista se hace fuera de su despacho, se duplicarán las cuotas anteriores.
+
+II.- Por cada conferencia o consulta verbal, en su despacho, por cada hora o fracción $ 10.00 diez pesos.
+
+III.- Por cada consulta por escrito, según la importancia del asunto, las dificultades técnicas del negocio y su extensión, desde $50.00 cincuenta pesos, a $500.00 quinientos pesos.
+
+IV.- por intervención en las audiencias, juntas o cualquier otra diligencia judicial o administrativa, o ante cualquier funcionario o autoridad por cada hora o fracción, $ 20.00 veinte pesos.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1937)</small>
 
 ###### Art. 2o.
 
-Los honorarios mencionados se regularán conforme a las disposiciones de este Arancel:
+En los negocios judiciales cuyo interés no exceda de $ 500.00 quinientos pesos por todos sus trabajos, desde la demanda y sus preliminares, hasta la sentencia definitiva o convenio desde un 10% hasta un 25% del valor fijado en la demanda, según la importancia técnica del juicio. Los honorarios de ejecución se regularán conforme a las cuotas del presente Arancel, reducidas en un 50%.
 
-I.- Cuando no haya el arreglo a que se refiere el artículo anterior.
+En los negocios judiciales, cuyo interés pase de $ 500.00 quinientos pesos pero no exceda de $ 1000.00 un mil pesos, se duplicarán las cuotas antes dichas.
 
-II.- Cuando los servicios se hayan de pagar conforme a la ley, ó por disposición judicial por un tercero que no ha consentido en el arreglo.
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1937)</small>
 
 ###### Art. 3o.
 
-En caso de condenación en costas en los negocios judiciales, la parte que obtuvo sólo podrá exigir de su contrincante por razón de honorarios, el pago de los que se hayan causado conforme á estos aranceles, aun cuando ella hubiere pagado mayor cantidad, y ya sea que haya contrato ó no.
+En los negocios judiciales, cuyo interés pase de $ 1,000.00 pero que no excedan de $ 3,000.00 se cobrarán.
+
+I.- Por estudio del negocio para plantear la demanda, $50.00 cincuenta pesos.
+
+II.- Por el escrito de demanda, hasta un 3% del importe de la suerte principal. El escrito de réplica se considerará que forma parte de la demanda.
+
+III.- Por el escrito de contestación de la demanda en lo principal, siempre que se hagan valer excepciones perentorias que se basen en razonamientos expresos en el mismo escrito se cobrarán en los mismos términos de la fracción anterior. Se considera el escrito de dúplica forma parte de la contestación.
+
+IV.- Si en la contestación de la demanda se alegaren excepciones dilatorias o incompetencia, se cobrará el 50% de la fracción anterior.
+
+V.- Por la lectura de escritos o promociones presentados de contrario, por foja, $ 2.50 dos pesos cincuenta centavos.
+
+VI.- Por cada escrito en que se inicie un trámite $ 10.00 diez pesos.
+
+VII.- Cuentas de administración de depositario, síndico, etc. por hoja $10.00 diez pesos.
+
+VIII.- Por el escrito que se promueva un incidente o recurso del que deba conocer el mismo Juez de los autos o se evacúe el traslado o vista de promociones de la contraria, $ 20.00 veinte pesos.
+
+IX.- Por cada escrito proponiendo pruebas, $ 10.00 diez pesos.
+
+X.- Por cada interrogatorio de posiciones a la contraria, de preguntas o repreguntas a los testigos, o cuestionarios a los peritos, por hoja $ 10.00 diez pesos.
+
+XI.- Por asistencia a juntas, audiencias o diligencias en el local del Juzgado, por cada hora o fracción, $ 20.00 veinte pesos.
+
+XII.- Por asistencia a cualquier diligencia fuera del Juzgado por cada hora o fracción, desde $ 20.00 veinte pesos hasta $ 30.00 treinta pesos.
+
+XIII.- Por cada notificación o visita de proveído, $ 5.00 cinco pesos.
+
+XIV.- Por notificación o vista de sentencias $ 10.00 diez pesos.
+
+Las cuotas a que se refieren las dos fracciones que anteceden se cobrarán solo cuando conste en autos que el Abogado fue notificado directamente por el actuario. En cualquier otro caso, por cada notificación, se cobrará $ 2.00 siempre que la promoción posterior revele que el Abogado tuvo conocimiento del proveído o sentencia relativos.
+
+XV.- Por los alegatos en lo principal, según la importancia o dificultad del caso, de $ 25.00 veinticinco pesos a $100.00 cien pesos.
+
+XVI.- Por los alegatos en incidentes o recursos, el 50% de lo fijado en la fracción anterior.
+
+En los casos de las dos últimas fracciones, el Abogado podrá cobrar, además, las cuotas fijadas en el artículo 1o. fracciones I y IV.
+
+XVII.- Por el escrito de agravios, o contestación de los mismos, en la apelación, 50% de lo fijado en la fracción II de este articulo.
+
+XVIII.- Por las demás gestiones que hiciere, no cotizadas en el presente Arancel, en cada instancia del juicio, $ 25.00 veinticinco pesos.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1937)</small>
 
 ###### Art. 4o.
 
-Todos los casos no previstos en estos aranceles, los ilustrará el Juez con el juicio de dos peritos facultativos en los trabajos de que se trate. Si la profesión ó arte de que se trate no estuvieren reglamentados, podrá nombrar empíricos para el efecto.
+Si el valor del negocio excede de tres mil pesos, se cobrará lo siguiente:
+
+I.- Si no excede de $ 5,000.00 se aumentarán en un 25% cada una de las cuotas fijadas en el artículo anterior.
+
+II.- Si pasa de $ 5,000.00 pero no de $10,000.00 se aumentarán en un 50% las cuotas del artículo anterior.
+
+III.- Si excede de $ 10,000.00 pero no de 50,000.00 se duplicarán las cuotas del artículo que precede.
+
+IV.- Pasando de $ 50,000.00 se cobrarán las cuotas señaladas en la fracción anterior, hasta dicha suma, con un aumento de 50% por cada $ 10,000.00 o fracción de exceso.
+
+En los casos de este artículo no se cobrarán con el aumento que el mismo se refiere, las cuotas señaladas en las fracciones, II, III y IV del artículo 3o.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1937)</small>
 
 ###### Art. 5o.
 
-En los lugares donde no hubiere peritos titulados, y se presentare el caso de oír su dictamen conforme se previene en el artículo anterior, en ese caso el Juez se procurará el dictamen por medio de exhorto dirigido á los lugares donde los haya, haciendo el nombramiento ya directamente ó por delegación al Juez requerido.
+En los negocios de cuantía indeterminada, se estará a lo dispuesto por los artículos 1o. y 3o. sin perjuicio de aplicarse también las reglas del artículo 4o. cundo se determine la cuantía del negocio.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1937)</small>
 
 ###### Art. 6o.
 
-El dictamen se rendirá dentro del tercero (sic) día de aceptado el nombramiento por los peritos, á menos que el Juez crea necesario ampliar el término.
+En los juicios de concurso, liquidación judicial o quiebra el abogado del síndico podrá cobrar:
+
+I.- Por la tramitación general del juicio en lo principal y sus incidentes, los honorarios que devengue conforme a las disposiciones aplicables de los artículos 3o. y 4o.
+
+II.- Por cada dictamen individual sobre examen y reconocimiento de créditos de $ 10.00 a $ 30.00.
+
+III.- Por el estado general de créditos, de $ 50.00 cincuenta pesos a $ 500.00 quinientos pesos.
+
+IV.- Por el dictamen o proyecto sobre graduación, de $ 50.00 cincuenta pesos a $ 5000.00 (sic) quinientos pesos.
+
+V.- Por la intervención en los juicios no acumulados en los que versen sobre admisión, exclusión, graduación, preferencia o simulación de créditos, y en cualesquiera otros que se sigan por o contra la masa común, los honorarios que correspondan conforme a los artículos 2o., 3o. y 4o.
+
+Si el síndico fuere abogado y él mismo hiciere los trabajos indicados, percibirá los honorarios que le correspondan conforme a otras leyes y si éstas nada previenen o no realizare bienes, tendrá derecho a los fijados en el presente artículo.
+
+Los honorarios que se causen conforme a este artículo serán pagados de la masa de la quiebra, liquidación o del concurso.
+
+Los interventores cobrarán, sean o no abogados, de acuerdo con los preceptos aplicables de los artículos 2o, 3o y 4o.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1937)</small>
 
 ###### Art. 7o.
 
-Estos aranceles tendrán su aplicación solamente á los casos de servicios prestados por profesionistas que tengan título legalmente reconocido en el Estado, excepto en lo relativo á profesiones u oficios, de los cuales no se expida título por no estar reglamentados.
+En los juicios sucesorios, los abogados podrán cobrar:
+
+I.- Por la redacción y presentación del escrito para radicar el juicio sucesorio, de $ 20.00 veinte pesos a $ 500.00 quinientos pesos, según la importancia de la sucesión.
+
+II.- por tramitación general del juicio, en lo principal y sus sncidentes (sic), los honorarios que devenguen conforme a las disposiciones de los artículos 2º., 3º., y 4o.
+
+III.- Por la formación de inventarios cobrarán el 1% sobre el valor del activo inventariado.
+
+IV.- Por la revisión y presentación de las cuentas de administración y liquidación de la herencia y examen de comprobantes, el 10% de la cuota fijada en la fracción anterior.
+
+V.- Por las cuentas de división y partición incluyéndose la vista de documentos y hasta el otorgamiento de las hijuelas, cobrarán el 6% sobre los primeros mil pesos o menos; el 2% sobre los $9,000.00 siguientes, y el 1% sobre el exceso hasta $ 50,000.00 y el medio por ciento sobre todo lo que exceda de las cantidades anteriores.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1937)</small>
 
 ###### Art. 8o.
 
-En los juicios cuyo interés sea menor de cien pesos, los honorarios de los abogados se regularán por el Juez de los autos, según el trabajo emprendido é interés del negocio, sin que puedan exceder en ningún caso del tercio del valor de éste.
+Por su intervención en los juicios en que la sucesión sea parte en pro o en contra, tendrán derecho a cobrar los honorarios que correspondan a esos juicios.
+
+Si el Abogado fuere nombrado interventor o albacea judicial, tendrá derecho al cobro, en su caso, de los honorarios fijados en el presente articulo y el articulo anterior, además de los que le correspondan por su nombramiento conforme a los artículos relativos del Código Civil y de Procedimientos Civiles.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1937)</small>
 
 ###### Art. 9o.
 
-Cuando el interés de negocio pase de cien pesos, mas no de quinientos, se cobrarán:
+Por los juicios de amparo en patrocinen al quejoso o al tercero perjudicado, cobrarán las cuotas fijadas en los artículos 2º., 3º. y 4º. de este Arancel, siempre que se trate de negocios de cuantía determinada, considerando el escrito de queja como el de demanda.
 
-I.- Por la demanda ó contestación, ocho pesos.
+En los amparos penales y en los que no fuere posible determinar el interés pecuniario que se verse, se aplicarán las reglas fijadas en el artículo 5o. de este Arancel.
 
-II..- Por las promociones incidentales ó las de prueba, cuatro pesos.
+Además de las cuotas antes fijadas, por lo que respecta al negocio en lo principal, tendrán derecho a cobrar las determinadas en las disposiciones relativas precedentes por los trabajos que llevan a cabo en los incidentes de suspensión, quejas y demás artículos que surjan en los amparos.
 
-III.- Por cualesquiera otras promociones que no sean sobre trámites, un peso cincuenta centavos;
+Por la interposición de recurso de súplica y expresión de agravios, o contestación de éstos, cobrarán las mismas cuotas señaladas en las fracciones II y III de el artículo 3o y su correlativo del 5o.
 
-IV. Por las que se refieran á trámites, un peso.
+Si con motivo de un negocio civil o mercantil se interpusiere amparo, y en definitiva se negare éste o se declarare improcedente, el colitigante del quejoso tendrá derecho a promover ante el Juez o Tribunal que conozca o haya conocido del negocio civil o mercantil, el correspondiente incidente de costas causadas a propósito del amparo, que serán a cargo del quejoso. El Juez o Tribunal mencionados, harán la condenación respectiva y las costas serán reguladas de acuerdo con las disposiciones de este Arancel.
 
-V. Por los alegatos o apuntes, desde diez a treinta pesos, según la magnitud del trabajo y su mérito científico, a juicio del Juez.
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1937)</small>
 
 ###### Art. 10.
 
-En los negocios que excedan de quinientos pesos y no de mil, cobrarán como en el artículo anterior, con excepción de las fracciones I, II y V, en que podrán aumentar el cincuenta por ciento de los honorarios en ella expresados.
+Si en un juicio civil o mercantil hubiere condenación de costas y los escritos y ocursos relativos no estuvieren firmados por abogado alguno, pero pudiere comprobarse plenamente la intervención de éste, y sus gestiones en el negocio, la regulación de costas, se hará de acuerdo a este Arancel.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1937)</small>
 
 ###### Art. 11.
 
-Cuando el interés del negocio sea de mil a cinco mil pesos, se abonarán a los abogados los honorarios que fija el artículo 9º. excepto en los casos de las fracciones I, II y V, en que podrán cobrar los que para esos mismos casos señala el artículo anterior, con un aumento del cincuenta por ciento sobre el monto que resulte.
+Los abogados que intervengan en juicios civiles o mercantiles, por derecho propio, cobrarán los honorarios que fija el presente Arancel, aun cuando no sean patrocinados por otro abogado.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1937)</small>
 
 ###### Art. 12.
 
-Los mismos honorarios que señala el artículo precedente, se abonarán en los juicios cuyo valor no pueda estimarse en dinero.
+Los abogados que intervengan como defensores o por parte de los denunciantes en las causas criminales, tendrán derecho a cobrar los honorarios especificados en el articulo 1o. de este Arancel y además los que se causen con arreglo de los siguientes artículos.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1937)</small>
 
 ###### Art. 13.
 
-Si el valor del negocio excede de cinco mil pesos, podrán cobrar:
+Por solicitar y obtener la libertad bajo caución, de $ 10.00 (diez pesos) a $ 100.00 (cien pesos) si la pena corporal que corresponda al delito por el que se encuentre detenido el inculpado no excede de un año. En caso contrario, por cada año de exceso, tendrá derecho a cobrar $10.00 diez pesos más.
 
-I.- Por la demanda o por contestación, cincuenta pesos.
-
-II.- Por las promociones incidentales o de prueba, veinte pesos.
-
-III. Por las demás que no sean las de mero trámite, cuatro pesos.
-
-IV. Por los alegatos o puntos, desde sesenta a cuatrocientos pesos, conforme a las reglas establecidas en el artículo 9o.
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1937)</small>
 
 ###### Art. 14.
 
-En los incidentes se cobrará la mitad de los honorarios que fijan los artículos anteriores.
+Por solicitar y obtener libertad absoluta por desvanecimiento de datos, o bajo protesta, tendrá derecho a cobrar las cuotas del artículo anterior, si la pena corporal señalada al delito no excede de un año. En caso contrario, tendrá derecho a percibir $ 25.00 (veinticinco pesos) más por cada año de exceso.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1937)</small>
 
 ###### Art. 15.
 
-Por la facción (sic) de participaciones o divisiones de herencias, cobrarán los abogados el cinco por ciento sobre el capital inventariado, en cuanto no exceda de mil pesos; si excediere de este valor, se les abonará el dos y medio por ciento sobre el exceso, hasta diez mil pesos, y el uno por ciento en lo que pase esta cantidad.
+Por solicitar y obtener la libertad preparatoria e indulto necesario o por gracia, de $ 50.00 (cincuenta pesos) a $ 300.00 (trescientos pesos.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1937)</small>
 
 ###### Art. 16.
 
-Tres pesos cobrarán por cada consulta verbal que se les hiciere sobre cualquier asunto profesional, siempre que el tiempo empleado en ella no exceda de una hora, y si excediere podrá cobrar además la misma cantidad por cada hora o fracción de exceso. En las consultas por escrito tendrá derecho a que se les abone lo que les corresponda, conforme a las reglas establecidas en los artículos del 8º al 13, atendido el objeto de la consulta.
+Por la defensa ante el Jurado Popular, $ 300.00 (trescientos pesos) si la pena que corresponda al delito por el que acusa el Ministerio Público, no excede de tres años de prisión ordinaria. En caso contrario, por cada año de exceso $ 100.00 (cien pesos) sin que los honorarios puedan exceder de $ 1,000.00 (un mil pesos.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1937)</small>
 
 ###### Art. 17.
 
-Cuando un abogado saliere del lugar de su residencia, podrá cobrar diez centavos por cada kilómetro que recorra, ya sea de ida o de vuelta, siempre que hiciere el viaje por ferrocarril, y veinticinco centavos por kilómetro cuando lo hiciere en coche o de cualquier otro modo. Además se le abonarán diez pesos por cada día que dure su ausencia y los honorarios de las promociones que hiciere, conforme a este Arancel.
+Por la defensa ante los Jueces de derecho de $ 25.00 (veinticinco pesos) a $ 100.00 (cien pesos ) si se celebra en una sola audiencia. En caso contrario, de $ 25.00 (veinticinco pesos) a $ 50.00 (cincuenta pesos) por cada nueva audiencia.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1937)</small>
 
 ###### Art. 18.
 
-Por la lectura de autos y examen para tomar apuntes, cobrarán a razón de diez centavos por cada foja, y tres pesos por hora por su asistencia a audiencias, almonedas o a juntas de cualquiera especie, sin perjuicio de los honorarios que correspondan a sus promociones. Si la audiencia fuere de alegatos y en ella se produjeren estos verbalmente, deberán cobrarse además los honorarios respectivos según las reglas establecidas.
+Por formular el pliego de conclusiones de $ 25.00 veinticinco pesos a $ 100.00 cien pesos, si la pena corporal no excede de tres años, en caso contrario de $ 50.00 cincuenta pesos a $ 200.00 doscientos pesos.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1937)</small>
 
 ###### Art. 19.
 
-Cuando los abogados asistan con los interesados a recibir notificaciones, cobrarán por cada una un peso, y tres si en ella hicieren alguna exposición.
+Por la defensa del procesado en la vista de segunda instancia en lo principal hasta $ 50.00 cincuenta pesos si la pena correspondiente al delito no excede de un año, y por cada año de exceso hasta $ 50.00 cincuenta pesos más.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1937)</small>
 
 ###### Art. 20.
 
-En las transacciones, se les abonará el seis por ciento sobre el monto del negocio, en capitales que no excedan de diez mil pesos; por el exceso se les abonará además el cuatro por ciento si el importe del negocio no pasare de cincuenta mil pesos; si el interés del negocio excediere de cincuenta mil pesos; y no de doscientos mil pesos, se les abonará además del valor que resulte conforme a las dos bases anteriores, el tres por ciento por la cantidad excedente a la de cincuenta mil; y si tal importe del negocio excediera de doscientos mil, por ese exceso se les abonará el dos por ciento, además también del valor resultante por virtud de las anteriores bases.
+En los negocios administrativos queda al arbitrio del abogado que haya prestado sus servicios, sujetarse para cobrar el importe de éstos, a las regulaciones establecidas por este Arancel o al juicio de peritos. Estos serán nombrados uno por cada parte y el tercero por el Juez que conozca del juicio sobre honorarios, de acuerdo con las disposiciones relativas del Código de Procedimientos Civiles.
 
-Cuando el negocio fuere apreciable en dinero, fijará el Juez el honorario que estimare justo, ilustrándose con un juicio de peritos, y atendiendo a la importancia del asunto, ventajas obtenidas por la parte y trabajo emprendido para llevar la transación (sic) a término. Los peritos se nombrarán en el orden establecido en los artículos 4o, 5o y 6o.
+Los peritos en el caso del artículo anterior deberán tomar en consideración, para fundar su dictamen, las circunstancias a que se refiere el artículo 2408 del Código, Civil, que hayan concurrido en el caso.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1937)</small>
 
 ###### Art. 21.
 
-Cuando los abogados intervengan en negocios criminales, cobrarán:
+Si se tratare de concesiones meramente graciosas, debiendo entenderse por tales las que una autoridad administrativa pueda abstenerse de otorgar sin necesidad de expresar el fundamento de su negativa, el profesionista cobrará el diez por ciento sobre el valor de la concesión que obtenga, como único honorario por todos sus trabajos.
 
-I.- Por escrito de acusación, cuatro pesos.
-
-II.- Por las promociones de prueba y las accidentales, dos pesos.
-
-III.- Por asentar conclusiones o hacer la defensa del reo, desde diez a cien pesos, a juicio del Juez, según el mérito científico del trabajo.
-
-Los actos no gravados en las anteriores fracciones y que sean de la naturaleza de los expresados por negocios civiles, se estimarán con el valor fijado para éstos.
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1937)</small>
 
 ###### Art. 22.
 
-En los negocios administrativos o cualesquiera otros no judiciales que se encomienden a los abogados, se normarán los honorarios, a falta de convenio con el interesado, por lo que el Juez estime justo, ilustrándose con un juicio de peritos, nombrados éstos conforme se dispone en los artículos 4o, 5o y 6o.
+Tratándose de concesiones no comprendidas en el artículo que antecede, si el profesionista no opta por sujetarse al juicio pericial, sus honorarios se regularán al artículo primero de este Arancel con excepción del escrito inicial de cualquier procedimiento administrativo, que se cuotizará como demanda en forma, con arreglo a los artículos 3o. y 4o. de este Arancel. Además cobrará los honorarios que señalan los mismos artículos.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1937)</small>
 
 ###### Art. 23.
 
-En los negocios de comunidades podrán cobrar un cincuenta por ciento más de los honorarios fijados en este Arancel.
+Si la concesión otorgada no tiene valor determinado, éste se fijará, para solo los efectos del cobro de honorarios, por prueba pericial que se rendirá conforme al artículo 20, segunda parte, de este arancel. Si el abogado y el cliente hubieren fijado, en convenio escrito la cuantía en que estimen el negocio para los efectos arancelarios, los tribunales aceptarán esa cuantía como indiscutible.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1937)</small>
 
 ###### Art. 24.
 
-Cuando los abogados gestionen en los negocios como apoderados o procuradores, cobrarán además de los honorarios que les asigna este Capítulo, los que les correspondan como apoderados, según las disposiciones del siguiente.
+Por la redacción de cualquiera minuta o convenio que por voluntad de las partes o disposición de la Ley hayan de ser elevados a escritura pública o póliza ante Corredor, cobrarán el 2 % del valor del negocio, si su cuantía no pasa de $10,000.00; el 1 % además del anterior, por la cantidad que excediere, hasta $50,000.00 y el medio por ciento por el exceso sea cual fuere. Igual cobro hará por los convenios que se celebren en juicio. Si en el convenio no se expresare un valor determinado, éste se fijará pericialmente; si el contrato fuere privado, estos honorarios se reducirían a la mitad.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1937)</small>
 
 ###### Art. 25.
 
-En el caso de que un trabajo tenga asignados honorarios en ambos Capítulos, no se podrán cargar los que señalan uno y otro, sino simplemente los de éste.
+En las transacciones, cobrarán los abogados del dos al diez por ciento sobre el importe de la misma, sin perjuicio de los honorarios que por sus servicios hubieren devengado. Si el interesado celebrase por sí solo la transacción en el curso de un juicio, y sin intervención de su abogado, se abonará a éste una cuarta parte de los honorarios dichos; cuando el negocio no fuere apreciado en dinero, se cobrará lo que se estime justo a juicio de peritos, atendida la importancia del asunto, ventajas obtenidas y trabajo emprendido para llevar a término la transacción.
 
-###### Art. 26
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1937)</small>
 
-En los juicios escritos, tendrán derecho a que se les abone el trabajo de escribiente, a razón de setenta y cinco centavos el pliego.
+###### Art. 26.
+
+Cuando un abogado saliere del lugar de residencia devengará, además de los honorarios que le correspondan conforme a las disposiciones aplicables de este Arancel, de $ 20.00 a $ 100.00 diarios desde el día de su salida hasta el de su regreso, ambos inclusive considerándose éstos completos. Los gastos de transporte y estancia del abogado, serán de cuenta del cliente.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1937)</small>
 
 ###### Art. 27.
 
-A fin de facilitar la liquidación de los honorarios, los abogados firmarán, en unión de sus patrocinados, los ocursos que hagan, así como las notificaciones y demás diligencias en que intervengan.
+Cuando los abogados fueren nombrados peritos para valuar servicios de su misma profesión, créditos litigiosos o cualquiera otras acciones o derechos, cobrarán un 2% sobre el importe del avalúo si éste no excede de $ 50,000.00; un 1% además, por el excedente hasta $ 100,000.00 y un medio por ciento además, por lo que pase de esta cantidad.- En los avalúos podrán cobrar también los honorarios que le correspondan, conforme al artículo 1o, fracción I.
 
-### CAPITULO II. HONORARIOS DE LOS ABOGADOS
+### CAPITULO III (SIC). De los Honorarios de los Apoderados o Procuradores
 
 ###### Art. 28.
 
@@ -204,7 +330,7 @@ Rige respecto de los apoderados la disposición del art. 19.
 
 Cuando la parte siga personalmente su negocio, podrá cobrar los honorarios que corresponden a los apoderados sin perjuicio de que si fuere abogado pueda cobrar los que por este carácter le correspondan.
 
-### CAPITULO III. De los Honorarios de los Apoderados o Procuradores
+### CAPITULO IV. DE LOS HONORARIOS DE LOS NOTARIOS
 
 ###### Art. 35.
 
@@ -258,7 +384,7 @@ El importe de timbres, gastos de escribiente, a razón de treinta y siete y medi
 
 Los notarios al pasar la cuenta de sus honorarios y gastos citaran siempre respecto de los primeros, la fracción de este Arancel en que la funden.
 
-### CAPITULO IV. DE LOS HONORARIOS DE LOS NOTARIOS
+### CAPITULO V. DE LOS HONORARIOS DE LOS MEDICOS
 
 ###### Art. 38.
 
@@ -320,7 +446,7 @@ Por inspecciones en cadáveres exhumados, de ochenta a trescientos pesos.
 
 Por investigación de venenos en cadáveres, ó en líquidos que provengan de organismo, del veinte a cien pesos.
 
-### CAPITULO V. DE LOS HONORARIOS DE LOS MEDICOS
+### CAPITULO VI. DE LOS HONORARIOS DE LOS CIRUJANOS
 
 ###### Art. 52.
 
@@ -354,7 +480,7 @@ Para los efectos de los artículos anteriores, se entiende por ayudante el médi
 
 Los honorarios por viajes del cirujano, se regularán según lo establecido en la parte final del art. 46.
 
-### CAPITULO VI. DE LOS HONORARIOS DE LOS CIRUJANOS
+### CAPITULO VII. HONORARIOS DE LOS PARTEROS
 
 ###### Art. 60.
 
@@ -364,7 +490,7 @@ Las visitas ulteriores, se cobrarán como expresa el art. 39.
 
 ###### Art. 61.
 
-En los partos distósicos el médico cobrará de cuarenta a ochenta pesos, según la importancia del caso, si practica solamente la versión por maniobras externas, internas ó combinadas la extracción manual o con el forceps, extracción de secundinas, taponamientos y otros trabajos de análoga importancia
+En los partos distósicos el médico cobrará de cuarenta a ochenta pesos, según la importancia del caso, si practica solamente la versión por maniobras externas, internas ó combinadas la extracción manual o con el forceps, extracción de secundinas, taponamientos y otros trabajos de análoga importancia.
 
 De ochenta a ciento cincuenta pesos, si hubiere que hacer embriotomía, y de ciento cincuenta a trescientos si se practicaren operaciones de mayor importancia. En estos casos la asistencia ulterior hasta por nueve días queda comprendida en el precio, y las visitas siguientes se cobraran conforme al art. 39.
 
@@ -374,13 +500,13 @@ Los parteros que no sean médicos cobrarán por la asistencia de un parto antós
 
 ###### Art. 63.
 
-Los precios que se señalan en este capítulo y los dos precedentes excepto los referentes a rabajos en cadáveres, pueden aumentarse hasta el doble, cuando se trate de enfermedades notoriamente contagiosas.
+Los precios que se señalan en este capítulo y los dos precedentes excepto los referentes a trabajos en cadáveres, pueden aumentarse hasta el doble, cuando se trate de enfermedades notoriamente contagiosas.
 
 ###### Art. 64.
 
 Los honorarios por viaje de los parteros, se regularan conforme a lo dispuesto en la parte final del art. 46.
 
-### CAPITULO VII. HONORARIOS DE LOS PARTEROS
+### CAPITULO VIII. HONORARIOS DE LOS DENTISTAS
 
 ###### Art. 65.
 
@@ -438,7 +564,9 @@ Por limpiar la dentadura, de dos a diez pesos.
 
 Por otras pequeñas operaciones de la boca, no especificadas, de dos a diez pesos.
 
-### CAPITULO VIII. HONORARIOS DE LOS DENTISTAS
+### CAPITULO IX
+
+Honorarios de los Farmacéuticos, Químicos y Ensayadores.
 
 ###### Art. 79.
 
@@ -494,9 +622,7 @@ Por análisis cualitativo de productos minerales, si se determina una sola subst
 
 Por análisis cualitativo y cuantitativo de productos minerales, tres pesos si se determina una sola substancia, y un peso cincuenta centavos por cada una más que se determine.
 
-### CAPITULO IX
-
-Honorarios de los Farmacéuticos, Químicos y Ensayadores.
+### CAPITULO X. DE LOS HONORARIOS PARA INGENIEROS CIVILES, AGRÓNOMOS Y ARQUITECTOS
 
 ###### Art. 93.
 
@@ -742,7 +868,9 @@ El interesado debe proporcionar la gente de servicio necesaria para que el ingen
 
 Cuando los peritos tengan que salir del lugar de su residencia para hacer algún trabajo, se les pagara además de los honorarios que les correspondan según los artículos anteriores, cinco pesos por cada uno de los días que dure su ausencia, más veinticinco centavos por cada kilometro que recorran, ya sea de ida o de vuelta si el viaje se hace por camino ordinario o diez centavos por cada kilómetro si se hace por ferrocarril.
 
-### CAPITULO X. DE LOS HONORARIOS PARA INGENIEROS CIVILES, AGRÓNOMOS Y ARQUITECTOS
+### CAPITULO XI
+
+De los Honorarios de los Ingenieros de Minas y Beneficiadores.
 
 ###### Art. 118.
 
@@ -766,7 +894,7 @@ Si tuvieren que hacer algún reconocimiento de veta para buscar su identidad ó 
 
 ###### Art. 123.
 
-En todos los casos de los Artículos anteriores si el perito tuviere que salir fuera de su residencia más de cuatro kilómetros, percibirá por cada uno de los excedentes veinticinco centavos de ida y otro tanto de vuelta , a no ser que el viaje se efectúe en ferrocarril, en cuyo caso solo cobrara diez centavos por kilometro.
+En todos los casos de los Artículos anteriores si el perito tuviere que salir fuera de su residencia más de cuatro kilómetros, percibirá por cada uno de los excedentes veinticinco centavos de ida y otro tanto de vuelta, a no ser que el viaje se efectúe en ferrocarril, en cuyo caso solo cobrara diez centavos por kilometro.
 
 ###### Art. 124.
 
@@ -784,9 +912,7 @@ Cuando valuaren algunas minas cobraran dos pesos por hora de las que ocupen en e
 
 Los peritos beneficiadores en cualquiera operación que se les encargue en las haciendas o zangarros de beneficiar metales, cobraran cinco pesos por cada día de lo que ocuparen.
 
-### CAPITULO XI
-
-De los Honorarios de los Ingenieros de Minas y Beneficiadores.
+### CAPITULO XII
 
 #### SECCION I. DE LOS PERITOS VALUADORES
 
@@ -834,7 +960,7 @@ Por cada diligencia en que intervengan recibirán dos pesos, siempre que no pase
 
 En las traducciones que hicieren por escrito, cobraran a peso la foja, mas lo escrito a razón de setenta y cinco centavos pliego.
 
-### CAPITULO XII
+### CAPITULO XIII. DE LOS HONORARIOS DE LOS DEPOSITARIOS
 
 ###### Art. 138.
 
@@ -858,8 +984,6 @@ Los depositarios de fincas rústicas como que ejercen las mismas facultades y de
 
 ### CAPITULO XIV
 
-### CAPITULO XIII. DE LOS HONORARIOS DE LOS DEPOSITARIOS
-
 ###### Art. 143.
 
 Quedan existentes todas las disposiciones que en el Estado han regido sobre la materia, en cuanto no se opongan a las de esta ley.
@@ -871,3 +995,15 @@ Esta ley comenzara a regir el día 1o. de octubre del año en curso.
 Salón de sesiones del H. Congreso del Estado. C. Victoria, Junio 7 de 1901-Zeferino Romero, diputados presidente.- A. C. Guzmán, diputado secretario.- Antonio Fernández, diputado secretario.
 
 Por tanto, mando se imprima, publique y se le dé el debido cumplimiento.
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ARANCEL.
+
+P.O. 23 DE ENERO DE 1937.
+
+###### Art. 1o.
+
+Este decreto entrará en vigor desde el día de su publicación en el Periódico Oficial del Estado.
+
+###### Art. 2o.
+
+Se derogan desde esta fecha todas las disposiciones vigentes que se opongan a lo mandado en este Decreto.
