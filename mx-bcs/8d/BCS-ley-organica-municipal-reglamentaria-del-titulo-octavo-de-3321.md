@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-municipal-reglamentaria-del-titulo-octavo-de-3321"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-31"
-last_updated: "1988-12-31"
+last_updated: "1989-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA MUNICIPAL REGLAMENTARIA DEL TITULO OCTAVO DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE OCTUBRE DE 1989.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 31 de diciembre de 1976.
 
@@ -97,17 +97,15 @@ Esta Ley Orgánica Municipal es obligatoria para todos los habitantes de los mun
 
 ### CAPITULO PRIMERO. DE LOS AYUNTAMIENTOS
 
-> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 1989)</small>
 
 ###### Artículo 11.
 
-El Gobierno de cada Municipio estará encomendado a un Ayuntamiento que se integrará con un Presidente, un Síndico y ocho Regidores electos por sufragio universal, directo libre y secreto mediante el sistema de mayoría relativa y hasta con un Regidor electo por el sistema de Representación Proporcional.
+El Gobierno de cada Municipio estará encomendado a un Ayuntamiento que se integrará por un Presidente, un Síndico y diez Regidores electos por sufragio universal, directo, libre y secreto, mediante el sistema de mayoría relativa y hasta con dos Regidores electos por el Principio de Representación Proporcional, con las siguientes excepciones: El Ayuntamiento de Comondú, que se integrará con un Presidente, un Síndico y doce Regidores electos por el Sistema de Mayoría Relativa y hasta con tres Regidores electos por el Principio de Representación Proporcional y; el Ayuntamiento de la Capital del Estado, que se integrará con un Presidente, un Síndico y catorce Regidores electos por el Sistema de Mayoría Relativa y hasta con cuatro por el Principio de Representación Proporcional, en los términos que señala la Ley Electoral del Estado.
 
-En el caso de los Municipios del Estado que rebasen en su población total la cantidad de 50,000 habitantes, tendrán derecho a que se les asignen hasta dos Regidores más, electos por el sistema de Mayoría Relativa y uno más, electo por el principio de Representación Proporcional, con excepción del Ayuntamiento de la Capital del Estado, el cual se integrará con un Presidente, un Síndico y doce Regidores electos por el sistema de Mayoría Relativa y hasta con tres Regidores electos por el principio de Representación Proporcional, en los términos que señala la Ley Electoral del Estado.
+Por cada miembro Propietario del Ayuntamiento, habrá un Suplente.
 
-Por cada miembro propietario del Ayuntamiento habrá un suplente.
-
-Cada Ayuntamiento será electo para un período de tres años de ejercicio en sus cargos y se renovará en su totalidad al terminar el mismo.
+Cada Ayuntamiento será electo para un Período de tres años de ejercicio en sus cargos y se renovará en su totalidad al terminar el mismo.
 
 ###### Artículo 12.
 
@@ -1368,6 +1366,12 @@ B.O. 20 DE FEBRERO DE 1988.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 B.O. 31 DE DICIEMBRE DE 1988.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 31 DE OCTUBRE DE 1989.
 
 ###### ARTICULO UNICO.
 
