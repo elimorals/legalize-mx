@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-instituciones-y-procesos-electorales-del-estado-de-20104
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-30"
-last_updated: "2003-11-14"
+last_updated: "2004-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el lunes 30 de octubre de 2000.
 
@@ -3545,7 +3545,7 @@ Los partidos políticos o coaliciones, dentro del plazo señalado en este Artíc
 
 De la solicitud de registro de candidatos a diputados, se enviará copia al Consejo Estatal Electoral.
 
-> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2003) (F. DE E., P.O. 2 DE ENERO DE 2004)
 
 En ningún caso, un partido político o coalición podrá registrar más de dos candidatos a Diputados por ambos principios, con excepción de los señalados en la fracción II del Artículo 29 de esta Ley.
 
@@ -4329,6 +4329,10 @@ En caso de existir coaliciones, el emblema de la coalición sólo aparecerá en 
 
 Cuando no se hubiere registrado candidatos, fórmulas o planillas por algún partido político y en caso de coaliciones, los espacios que en las boletas corresponderían a dichos partidos políticos o partidos políticos coaligados, serán asignados en el orden que corresponda.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+ARTÍCULO 336 BIS.- A fin de otorgar a todos los electores, entre ellos aquellas personas que cuenten con discapacidad visual, condiciones de igualdad que garanticen que el ejercicio de su derecho al voto se realizará de manera universal, libre, secreta, directa, personal e intransferible, se pondrán a disposición de los electores débiles visuales e invidentes, si así lo desean, mascarillas impresas en sistema braille, para que ejerzan personalmente su derecho al sufragio.
+
 ###### ARTÍCULO 337.
 
 En caso de cancelación del registro, o sustitución de uno o más candidatos, no habrá modificación a las boletas si éstas ya estuvieran impresas. En todo caso, los votos contarán para los partidos políticos y los candidatos que estén legalmente registrados ante los Consejos del Instituto Estatal Electoral.
@@ -4377,9 +4381,9 @@ II. La relación de los representantes generales acreditados por cada partido po
 
 III. La relación de los representantes de los partidos registrados para la casilla;
 
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
-IV. Las boletas para cada elección, en número igual al de los electores que figuren en la Lista Nominal de Electores con imagen para cada casilla de la sección electoral, y el dato de los folios correspondientes;
+IV. Las boletas para cada elección, en número igual al de los electores que figuren en la Lista Nominal de Electores con imagen para cada casilla de la sección electoral, y el dato de los folios correspondientes; y una mascarilla impresa en sistema braille;
 
 > <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
 
@@ -4591,9 +4595,19 @@ II. El Presidente le entregará las boletas de las elecciones para que librement
 
 III. Aquellos electores que no sepan leer o que se encuentren discapacitados para marcar las boletas, podrán hacerse asistir por una persona de su confianza que les acompañe;
 
-IV. El elector depositará las boletas en las urnas correspondientes, y
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
-V. El Secretario de la casilla anotará la palabra "votó" e imprimirá la huella digital del pulgar derecho del elector en el Listado Nominal de Electores con imagen correspondiente y procederá a:
+IV. Cuando se presente una persona con discapacidad visual ante la Mesa Directiva de Casilla, el Presidente de la misma le hará saber la disponibilidad de las mascarillas impresas en sistema braille y le consultará si desea hacer uso de ellas, enseguida, el Presidente colocará la boleta electoral dentro de la mascarilla correspondiente. Si la persona con discapacidad visual así lo solicitara, el funcionario de casilla procederá a leerle, en riguroso orden en el que aparecen en la boleta electoral, los nombres de los candidatos de mayoría así como de los partidos por lo que contienden.
+
+En caso de no solicitar la mascarilla, la persona con discapacidad visual podrá, según establece la fracción anterior, ser asistida por persona de su confianza que lo acompañe.
+
+Una vez entregada la boleta electoral y, en su caso, la mascarilla correspondiente, un funcionario de la Mesa Directiva o la persona de su confianza a que hace referencia el párrafo anterior, conducirán a la persona con discapacidad visual hasta las mamparas para que ésta ejerza su derecho al voto de manera personal, libre y secreta.
+
+Después de que la persona con discapacidad visual haya marcado la boleta electoral, si ésta lo solicita, el funcionario de casilla o el acompañante de confianza le conducirán hacia donde se encuentran colocadas las urnas;
+
+V.- El elector depositará las boletas en las urnas correspondientes, y
+
+VI. El Secretario de la casilla anotará la palabra "votó" e imprimirá la huella digital del pulgar derecho del elector en el Listado Nominal de Electores con imagen correspondiente y procederá a:
 
 a) Marcar la Credencial Estatal de Elector del ciudadano que ha ejercido su derecho de voto;
 
@@ -6490,3 +6504,9 @@ Las presentes reformas y adiciones entrarán en vigor el día de su publicación
 ###### ARTICULO TERCERO.
 
 Los reglamentos interiores de los Consejos Electorales y Direcciones Generales del Instituto Estatal Electoral en vigor, deberán adecuarse, a más tardar el mes de marzo del 2004.
+
+P.O. 10 DE DICIEMBRE DE 2004.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas entrarán en vigor el primero de noviembre de 2004.
