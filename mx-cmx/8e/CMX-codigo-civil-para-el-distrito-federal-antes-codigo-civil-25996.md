@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1966-12-30"
+last_updated: "1970-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1966.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE ENERO DE 1970.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -200,6 +200,8 @@ Se tiene derecho de designar un domicilio convencional para el cumplimiento de d
 ## TITULO QUINTO. Del matrimonio
 
 ### CAPITULO III. De las actas de reconocimiento de hijos naturales
+
+> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 1970)</small>
 
 ###### ARTICULO 35.
 
@@ -397,21 +399,19 @@ En el acta de nacimiento de gemelos el Oficial del Registro Civil hará constar 
 
 ###### ARTICULO 77.
 
-Si el padre o la madre de un hijo natural, o ambos, lo reconocieren al presentarlo dentro del término de la ley para que se registre su nacimiento, el acta de éste contendrá los requisitos establecidos en los artículos anteriores, con expresión de ser el hijo natural, y de los nombres del progenitor que lo reconozca. Esta acta surtirá los efectos del reconocimiento legal.
+Si el padre o la madre de un hijo natural, o ambos, lo presentaren para que se registre su nacimiento, el acta surtirá todos los efectos del reconocimiento legal, respecto del progenitor compareciente.
+
+> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 1970)</small>
 
 ###### ARTICULO 78.
 
-Si el reconocimiento del hijo natural se hiciere después de haber sido registrado su nacimiento, se formará acta separada en la que, además de los requisitos a que se refiere el artículo que precede, se observarán los siguientes, en sus respectivos casos:
+Si el reconocimiento del hijo natural se hiciere después de haber sido registrado su nacimiento, se formará acta separada.
 
-I.- Si el hijo es mayor de edad, se expresará en el acta su consentimiento para ser reconocido;
-
-II.- Si el hijo es menor de edad, pero mayor de catorce años, se expresará su consentimiento y el de su tutor;
-
-III.- Si el hijo es menor de catorce años, se expresará sólo el consentimiento del tutor.
+> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 1970)</small>
 
 ###### ARTICULO 79.
 
-Lo dispuesto en el artículo anterior se observará también cuando se haya omitido la presentación para el registro del nacimiento del hijo natural, o esa presentación se haya después del término de la ley.
+El reconocimiento del hijo natural mayor de edad requiere el consentimiento expreso de éste en el acta relativa.
 
 ###### ARTICULO 80.
 
@@ -1755,7 +1755,7 @@ La esposa que, sin culpa suya, se vea obligada a vivir separada de su marido, po
 
 ### CAPITULO V. De la adopción
 
-> <small>(DEROGADO [N. DE E. REFORMADO], D.O.F. 31 DE MARZO DE 1938)</small>
+> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 1970)</small>
 
 ### CAPITULO I. De los efectos de la patria potestad respecto de la persona de los hijos
 
@@ -1959,9 +1959,11 @@ Pueden reconocer a sus hijos, los que tengan la edad exigida para contraer matri
 
 El menor de edad no puede reconocer a un hijo sin el consentimiento del que o de los que ejerzan sobre él la patria potestad, o de la persona bajo cuya tutela se encuentre, o a falta de ésta, sin la autorización judicial.
 
+> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 1970)</small>
+
 ###### ARTICULO 363.
 
-No obstante, el reconocimiento hecho por un menor es revocable si prueba que sufrió engaño al hacerlo, pudiendo intentar la revocación hasta cuatro años después de la mayor edad.
+El reconocimiento hecho por un menor es anulable si prueba que sufrió error o engaño al hacerlo, pudiendo intentar la acción hasta cuatro años después de la mayor edad.
 
 ###### ARTICULO 364.
 
@@ -1979,9 +1981,17 @@ El reconocimiento hecho por uno de los padres, produce efectos respecto de él y
 
 El reconocimiento no es revocable por el que lo hizo, y si se ha hecho en testamento, cuando éste se revoque, no se tiene por revocado el reconocimiento.
 
+> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 1970)</small>
+
 ###### ARTICULO 368.
 
-El reconocimiento puede ser contradicho por un tercero interesado. El heredero que resulte perjudicado puede contradecir el reconocimiento dentro del año siguiente a la muerte del que lo hizo.
+El Ministerio Público tendrá acción contradictoria del reconocimiento de un menor de edad, cuando se hubiere efectuado en perjuicio del menor.
+
+La misma acción tendrá el progenitor que reclame para sí tal carácter con exclusión de quien hubiere hecho el reconocimiento indebidamente o para el solo efecto de la exclusión.
+
+El tercero afectado por obligaciones derivadas del reconocimiento ilegalmente efectuado podrá contradecirlo en vía de excepción.
+
+En ningún caso procede impugnar el reconocimiento por causa de herencia para privar de ella al menor reconocido.
 
 ###### ARTICULO 369.
 
@@ -2103,11 +2113,21 @@ III.- A percibir la porción hereditaria y los alimentos que fije la ley.
 
 ###### ARTICULO 390.
 
-Los mayores de treinta años en pleno ejercicio de sus derechos y que no tengan descendientes, pueden adoptar a un menor o a un incapacitado, aun cuando sea mayor de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y que la adopción sea benéfica a éste.
+El mayor de veinticinco años, libre de matrimonio, en pleno ejercicio de sus derechos, puede adoptar uno o más menores o a un incapacitado, aun cuando éste sea mayor de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y que acredite además:
+
+I.- Que tiene medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como de hijo propio, según las circunstancias de la persona que trata de adoptar;
+
+II.- Que la adopción es benéfica para la persona que trata de adoptarse; y
+
+III.- Que el adoptante es persona de buenas costumbres.
+
+Cuando circunstancias especiales lo aconsejen, el juez puede autorizar la adopción de dos o más incapacitados o de menores e incapacitados simultáneamente.
+
+> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 1970)</small>
 
 ###### ARTICULO 391.
 
-El marido y la mujer podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo.
+El marido y la mujer podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo y aunque sólo uno de los cónyuges cumpla el requisito de la edad a que se refiere el artículo anterior, pero siempre y cuando la diferencia de edad entre cualquiera de los adoptantes y el adoptado sea de diecisiete años cuando menos.
 
 ###### ARTICULO 392.
 
@@ -2125,6 +2145,10 @@ El menor o el incapacitado que hayan sido adoptados, podrán impugnar la adopci�
 
 El que adopta tendrá respecto de la persona y bienes del adoptado, los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 17 DE ENERO DE 1970)</small>
+
+El adoptante podrá darle nombre y sus apellidos al adoptado, haciéndose las anotaciones correspondientes en el acta de adopción.
+
 ###### ARTICULO 396.
 
 El adoptado tendrá para con la persona o personas que lo adopten los mismos derechos y obligaciones que tiene un hijo.
@@ -2137,15 +2161,19 @@ I.- El que ejerce la patria potestad sobre el menor que se trata de adoptar;
 
 II.- El tutor del que se va a adoptar;
 
-III.- Las personas que hayan acogido al que se pretende adoptar y lo traten como a hijo cuando no hubiere quien ejerza la patria potestad sobre él ni tenga tutor;
+> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 1970)</small>
+
+III.- La persona que haya acogido durante seis meses al que se pretende adoptar y lo trate como a hijo, cuando no hubiere quien ejerza la patria potestad sobre él ni tenga tutor;
 
 IV.- El Ministerio Público del lugar del domicilio del adoptado, cuando éste no tenga padres conocidos, ni tutor, ni persona que ostensiblemente le imparta su protección y lo haya acogido como hijo.
 
 Si el menor que se va a adoptar tiene más de catorce años, también se necesita su consentimiento para la adopción.
 
+> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 1970)</small>
+
 ###### ARTICULO 398.
 
-Si el tutor o el Ministerio Público, sin causa justificada, no consienten en la adopción, podrá suplir el consentimiento el Presidente Municipal del lugar en que resida el incapacitado, cuando encontraré que la adopción es notoriamente conveniente para los intereses morales y materiales de éste.
+Si el tutor o el Ministerio Público no consienten en la adopción, deberán expresar la causa en que se funden, la que el juez calificará tomando en cuenta los intereses del menor o incapacitado.
 
 ###### ARTICULO 399.
 
@@ -2163,9 +2191,11 @@ El juez que apruebe la adopción remitirá copia de las diligencias respectivas 
 
 Los derechos y obligaciones que nacen de la adopción, así como el parentesco que de ella resulte, se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos de matrimonio, respecto de los cuales se observará lo que dispone el artículo 157.
 
+> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 1970)</small>
+
 ###### ARTICULO 403.
 
-Los derechos y obligaciones que resultan del parentesco natural, no se extinguen por la adopción, excepto la patria potestad que será transferida al padre adoptivo.
+Los derechos y obligaciones que resultan del parentesco natural, no se extinguen por la adopción, excepto la patria potestad, que será transferida al adoptante, salvo que en su caso esté casado con alguno de los progenitores del adoptado, porque entonces se ejercerá por ambos cónyuges.
 
 ###### ARTICULO 404.
 
@@ -2175,7 +2205,9 @@ La adopción producirá sus efectos aunque sobrevengan hijos al adoptante.
 
 La adopción puede revocarse:
 
-I.- Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, es necesario que consientan en la revocación las personas que prestaron su consentimiento, conforme al artículo 397.
+> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 1970)</small>
+
+I.- Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, se oirá a las personas que prestaron su consentimiento conforme al artículo 397, cuando fueren de domicilio conocido, y a falta de ellas, al representante del Ministerio Público y al Consejo de Tutelas;
 
 II.- Por ingratitud del adoptado.
 
@@ -2183,9 +2215,13 @@ II.- Por ingratitud del adoptado.
 
 Para los efectos de la fracción II del artículo anterior, se considera ingrato al adoptado:
 
-I.- Si comete algún delito que merezca una pena mayor de un año de prisión contra la persona, la honra o los bienes del adoptante, de su cónyuge, de sus ascendientes o descendientes.
+> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 1970)</small>
 
-II.- Si el adoptado acusa judicialmente al adoptante de algún delito grave que pudiera ser perseguido de oficio, aunque lo pruebe, a no ser que hubiere sido cometido contra el mismo adoptado, su cónyuge, sus ascendientes o descendientes.
+I.- Si comete algún delito intencional contra la persona, la honra o los bienes del adoptante, de su cónyuge, de sus ascendientes o descendientes;
+
+> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 1970)</small>
+
+II.- Si el adoptado formula denuncia o querella contra el adoptante, por algún delito aunque se pruebe, a no ser que hubiere sido cometido contra el mismo adoptado, su cónyuge, sus ascendientes o descendientes;
 
 III.- Si el adoptado rehusa dar alimentos al adoptante que ha caído en pobreza.
 
@@ -2799,7 +2835,9 @@ VI.- Los que tengan sesenta años cumplidos;
 
 VII.- Los que tengan a su cargo otra tutela o curaduría;
 
-VIII.- Las mujeres, cuando por su falta de ilustración, por su inexperiencia en los negocios, por su timidez o por otra causa igualmente grave a juicio del juez, no estén en aptitud de desempeñar convenientemente la tutela.
+> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 1970)</small>
+
+VIII.- Los que por su inexperiencia en los negocios o por causa grave, a juicio del Juez, no estén en aptitud de desempeñar convenientemente la tutela.
 
 ###### ARTICULO 512.
 
@@ -11700,3 +11738,17 @@ D.O.F. 30 DE DICIEMBRE DE 1966.
 Primero.- El presente Decreto entrará en vigos (sic) tres días después de su publicación en el "Diario Oficial" de la Federación.
 
 SEGUNDO (sic).- Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+D.O.F. 17 DE ENERO DE 1970.
+
+DECRETO QUE REFORMA LOS ARTICULOS 77, 78, 79, 363, 368, 390, 391, 397 FRACCION III, 398, 403, 405 FRACCION I Y 406 FRACCIONES I Y II DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+UNICO.- Este Decreto entrará en vigor tres días después de la fecha de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 17 DE ENERO DE 1970.
+
+DECRETO QUE REFORMA LA FRACCION VIII DEL ARTICULO 511 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+###### ARTICULO UNICO.
+
+La presente reforma entrará en vigor al tercer día de su publicación en el "Diario Oficial" de la Federación.
