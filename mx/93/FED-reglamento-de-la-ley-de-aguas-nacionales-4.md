@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-aguas-nacionales-4"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-01-12"
-last_updated: "1997-12-10"
+last_updated: "2001-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-01-11"
 
 REGLAMENTO DE LA LEY DE AGUAS NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE OCTUBRE DE 2001.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación el miércoles 12 de enero de 1994.
 
@@ -241,7 +241,7 @@ X. Observar lo dispuesto en las normas de racionalidad, austeridad y disciplina 
 
 XI. Presidir el comité consultivo nacional de normalización del sector agua, así como el comité de evaluación para la acreditación y certificación del mismo sector, en los términos de la Ley Federal sobre Metrología y Normalización, y expedir las normas oficiales mexicanas aprobadas que sean competencia de "La Comisión" y cuya expedición por ley no corresponda a otra dependencia.
 
-XII. Presidir el Instituto Mexicano de Tecnología del Agua;
+XII. (DEROGADA POR EL ARTICULO CUARTO TRANSITORIO DEL DECRETO POR EL QUE SE CREA EL INSTITUTO MEXICANO DE TECNOLOGIA DEL AGUA, D.O.F. 30 DE OCTUBRE DE 2001)
 
 XIII. Establecer y aplicar, una vez que haya sido sancionada por el Consejo Técnico, la forma en la que se distribuirán los fondos provenientes de las multas impuestas por "La Comisión", previstos en las leyes respectivas y en el presente "Reglamento";
 
@@ -2224,3 +2224,13 @@ D.O.F. 10 DE DICIEMBRE DE 1997.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Para efectos del artículo 72 del Reglamento, "La Comisión" efectuará los estudios técnicos para determinar la factibilidad de las transmisiones de derechos en zonas de veda establecidas por los Decretos o Reglamentos existentes, en un plazo máximo de 180 días hábiles contados a partir de la entrada en vigor del presente Decreto, a fin de poder expedir los acuerdos respectivos.
+
+D.O.F. 30 DE OCTUBRE DE 2001.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL REGLAMENTO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+...
+
+TERCERO.- Se derogan el inciso b) de la fracción XXIX del artículo 2, la última parte del segundo párrafo del artículo 42, así como los artículos 61 y 62 del Reglamento Interior de la Secretaría de Medio Ambiente y Recursos Naturales, publicado en el Diario Oficial de la Federación el 4 de junio de 2001, 14 fracción XII del Reglamento de la Ley de Aguas Nacionales, publicado en el Diario Oficial de la Federación el 12 de enero de 1994, y las demás disposiciones que se opongan al presente.
