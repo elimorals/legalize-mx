@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "1991-01-08"
+last_updated: "1991-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE ENERO DE 1991.
-
-(REPUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE ENERO DE 1991).
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1991.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -3627,11 +3625,9 @@ Los tribunales federales para menores en las demás Entidades federativas, conoc
 
 En las Entidades federativas donde hubiere dos o más tribunales para menores, conocerá del caso el que hubiere prevenido.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
 ###### ARTICULO 503.
 
-En todo lo relativo al procedimiento, medidas y ejecución de éstas, los tribunales federales para menores y las demás personas y autoridades que deban intervenir, se ajustarán a lo previsto en la Ley que crea el Consejo Tutelar para Menores Infractores del Distrito Federal.
+(DEROGADO POR EL ARTICULO TRANSITORIO TERCERO DE LA LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES, PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL, D.O.F. 24 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 504.
 
@@ -4174,3 +4170,11 @@ D.O.F. 8 DE ENERO DE 1991.
 REPUBLICADO, D.O.F. 9 DE ENERO DE 1991.
 
 UNICO.- El presente decreto entrará en vigor a partir del primero de febrero de 1991.
+
+D.O.F. 24 DE DICIEMBRE DE 1991.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+PRIMERO.- La presente Ley entrará en vigor a los sesenta días siguientes a su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- Se derogan los artículos 119 a 122, del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal; 73 a 78 de la Ley Orgánica del Poder Judicial de la Federación, y 503 del Código Federal de Procedimientos Penales; así como los artículos 673 y 674, fracciones II y X, del Código de Procedimientos Penales para el Distrito Federal, únicamente por lo que hace a menores infractores.
