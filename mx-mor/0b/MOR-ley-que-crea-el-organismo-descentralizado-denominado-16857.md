@@ -4,7 +4,7 @@ identifier: "MOR-ley-que-crea-el-organismo-descentralizado-denominado-16857"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-21"
-last_updated: "1999-10-27"
+last_updated: "2003-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY QUE CREA EL ORGANISMO DESCENTRALIZADO DENOMINADO "HOSPITAL DEL NIÑO MORELENSE"
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 1999.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 27 DE OCTUBRE DE 1999.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 21 de julio de 1999.
 
@@ -47,9 +45,11 @@ LEY QUE CREA EL ORGANISMO DESCENTRALIZADO DENOMINADO "HOSPITAL DEL NIÑO MORELEN
 
 ## TÍTULO I. NATURALEZA Y OBJETO
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2003)</small>
+
 ###### ARTÍCULO 1.
 
-Se crea el Organismo Público Descentralizado del Gobierno del Estado de Morelos, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Bienestar Social, a través de los Servicios de Salud, denominado "Hospital del Niño Morelense", con domicilio en la Ciudad de Cuernavaca, Morelos.
+Se crea el Organismo Público Descentralizado del Gobierno del Estado de Morelos, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Salud, a través de los Servicios de Salud, denominado "Hospital del Niño Morelense", con domicilio en la Ciudad de Cuernavaca, Morelos.
 
 ###### ARTÍCULO 2.
 
@@ -133,7 +133,7 @@ Para el desarrollo de sus actividades, el "Hospital del Niño Morelense" contar�
 
 La Junta Directiva será el órgano supremo del "Hospital del Niño Morelense" y se integrará por los siguientes miembros:
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2003)</small>
 
 I. El Secretario de Salud;
 
@@ -151,7 +151,9 @@ VII. El Presidente del Patronato;
 
 Por cada miembro propietario, habrá un suplente.
 
-La Junta Directiva será presidida por el Secretario de Bienestar Social, y contará con un Secretario Técnico que será el Titular de los Servicios de Salud en el Estado, quien presidirá la Junta en ausencia del presidente.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2003)</small>
+
+La Junta Directiva será presidida por el Secretario de Salud, y contará con un Secretario Técnico que será el Titular de los Servicios de Salud en el Estado, quien presidirá la Junta en ausencia del presidente.
 
 Los cargos de los integrantes de la Junta serán honoríficos.
 
@@ -350,3 +352,11 @@ P.O. 20 DE OCTUBRE DE 1999.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO QUE DEJA SIN EFECTO LA PUBLICACIÓN DE LA FE DE ERRATAS A LA LEY QUE CREA EL ORGANISMO DESCENTRALIZADO DENOMINADO "HOSPITAL DEL NIÑO MORELENSE", PUBLICADO EN EL P.O. NÚMERO 4006, DE FECHA 6 DE OCTUBRE DE 1999".]
 
 ÚNICO.- El presente Acuerdo administrativo iniciará su vigencia a partir de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado.
+
+P.O. 15 DE ENERO DE 2003.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO OCHOCIENTOS TRECE. POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY QUE CREA EL ORGANISMO DESCENTRALIZADO DENOMINADO HOSPITAL DEL NIÑO MORELENSE”.]
+
+PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto el (sic) los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
