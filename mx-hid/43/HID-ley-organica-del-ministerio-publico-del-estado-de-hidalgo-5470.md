@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-ministerio-publico-del-estado-de-hidalgo-5470"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-02-08"
-last_updated: "1988-02-08"
+last_updated: "1990-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5470&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 1990.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 8 de febrero de 1988.
 
@@ -475,7 +475,7 @@ El Director de Administración tendrá las siguientes atribuciones:
 
 I.- Tramitar nombramientos, ascensos, renuncias, remociones, licencias, vacaciones y documentos de identificación del personal de la Procuraduría;
 
-II.- Dotar de los recursos materiales a las distintas oficinas de la Procuraduría, según sus necesidades y posibilidades presupuestales;
+II.- Dotar de los recursos materiales a las distintas oficinas de la Procuraduría, según sus necesidades y posibilidades presupuestales ;
 
 III.- Manejar las partidas correspondientes y administrar los gastos con acuerdo del Procurador;
 
@@ -683,6 +683,8 @@ Los servidores y empleados del Ministerio Público son responsables por los deli
 
 PRIMERO.- Esta Ley entrará en vigor a los 45 días siguientes a su publicación en el Periódico Oficial del Gobierno del Estado.
 
+> <small>N. DE E. SE ABROGAN POR ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO, PUBLICADO EN EL P.O. EL 9 DE JUNIO DE 1990, LOS CAPITULOS PRIMERO Y SEGUNDO DEL TITULO CUARTO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO PARA EL ESTADO, PUBLICADA EN EL P.O. EL 8 DE DICIEMBRE DE 1980.</small>
+
 SEGUNDO.- Se abroga la Ley Orgánica del Ministerio Público del Estado de Hidalgo, publicada en el Periódico Oficial del Estado de Fecha 8 de diciembre de 1980, con excepción de los capítulos Primero y Segundo del Título Cuarto.
 
 AL EJECUTIVO DE LA ENTIDAD PARA SU SANCION, PUBLICACION Y CUMPLIMIENTO.- DADO EN LA SALA DE SESIONES DEL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO, EN LA CIUDAD DE PACHUCA DE SOTO, HGO., A LOS TREINTA DIAS DEL MES DE DICIEMBRE DEL AÑO DE MIL NOVECIENTOS OCHENTA Y SIETE.
@@ -694,3 +696,13 @@ Por lo tanto mando se imprima, publique y circule para su debido cumplimiento, e
 Dado en el Palacio del Poder Ejecutivo, en la ciudad de Pachuca de Soto, Estado de Hidalgo, a los treinta días del mes de diciembre de mil novecientos ochenta y siete.
 
 El Gobernador Constitucional del Estado.- LIC. ADOLFO LUGO VERDUZCO.- El Secretario de Gobernación.- LIC. ERNESTO GIL ELORDUY.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE JUNIO DE 1990.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- Este Código entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+CUARTO.- Se abrogan los capítulos primero y segundo del título cuarto de la Ley Orgánica del Ministerio Público para el Estado de Hidalgo, publicada en el Periódico Oficial de fecha 8 de diciembre de 1980, que contienen el procedimiento de averiguación previa y que permanecen en vigor por disposición del artículo segundo transitorio de la vigente Ley Orgánica del Ministerio Público, publicada en el Periódico Oficial de fecha 8 de febrero de 1988.
