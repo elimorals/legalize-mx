@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2000-09-01"
+last_updated: "2002-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 2002.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -48,11 +48,11 @@ DE LA SOBERANIA, INDEPENDENCIA, TERRITORIO, Y FORMA DE GOBIERNO DEL ESTADO Y DE 
 
 El Estado de Morelos, es libre, Soberano e Independiente. Con los límites geográficos legalmente reconocidos, es parte integrante de los Estado Unidos Mexicanos, y en consecuencia, adopta para su régimen interior la forma de Gobierno republicano, representativo y popular; tendrá como base de su organización política y administrativa, el Municipio Libre, siendo su Capital la ciudad de Cuernavaca.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2002)</small>
 
 ###### Artículo 2.
 
-El Estado de Morelos reconoce y asegura a todos sus habitantes, el goce de las garantías individuales y sociales contenidas en la Constitución Política de los Estados Unidos Mexicanos y en la presente Constitución y, acorde con su tradición libertaria, declara de interés público la aplicación de los artículos 27 y 123 de la Constitución fundamental de la República y su legislación derivada.
+En el Estado de Morelos, sus autoridades reconocen y aseguran a todo individuo el goce de las garantías individuales y sociales contenidas en la Constitución Política de los Estados Unidos Mexicanos y en la presente Constitución y acorde con su tradición libertaria, declara de interés público la aplicación de los artículos 27 y 123 de la Constitución fundamental de la República y su legislación derivada.
 
 ### CAPITULO II.
 
@@ -250,6 +250,10 @@ f).- A no ser utilizado en el trabajo, sino hasta haber cumplido catorce años d
 
 III.- Los ancianos tienen derecho de acuerdo con la dignidad humana a un albergue decoroso e higiénico y a la atención y cuidado de su salud, alimentación y debido esparcimiento, de parte de sus familiares.
 
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2002)</small>
+
+Asimismo, los morelenses tienen el derecho de contar con las oportunidades y condiciones necesarias para su desarrollo físico y mental, en el ámbito de las diferentes disciplinas y niveles del deporte.
+
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 1 DE OCTUBRE DE 1999)</small>
 
 ### CAPITULO IV.
@@ -430,7 +434,7 @@ B).- La ley fijará los criterios para determinar los límites a las erogaciones
 
 (REFORMADA, P.O. 1 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
 
-III.- La organización, dirección y vigilancia de las elecciones en el Estado y los procesos plebiscitarios y de referéndum estarán a cargo de un organismo público autónomo denominado Instituto Estatal Electoral, autoridad en la materia, en cuya integración participan los Poderes Ejecutivo y Legislativo del Estado, los Partidos Políticos y los ciudadanos. Tendrá carácter permanente, personalidad jurídica y patrimonio propios, así como las facultades que le señale la presente Constitución y la ley. El Consejo de Participación Ciudadana coadyuvará con el Instituto Estatal Electoral en la calificación de procedencia o improcedencia de las solicitudes de plebiscito o referéndum que se presenten.
+III.- La organización, dirección y vigilancia de las elecciones en el Estado y los procesos plebiscitarios y de referéndum, estarán a cargo de un organismo público autónomo denominado Instituto Estatal Electoral, autoridad en la materia, en cuya integración participan los Poderes Ejecutivo y Legislativo del Estado, los Partidos Políticos y los ciudadanos. Tendrá carácter permanente, personalidad jurídica y patrimonio propios, así como las facultades que le señale la presente Constitución y la ley. El Consejo de Participación Ciudadana coadyuvará con el Instituto Estatal Electoral en la calificación de procedencia o improcedencia de las solicitudes de plebiscito o referéndum que se presenten.
 
 El Instituto Estatal Electoral dispondrá de los medios necesarios para brindar el servicio profesional electoral.
 
@@ -484,7 +488,7 @@ Los Magistrados del Tribunal Estatal Electoral durarán en su encargo un períod
 
 Los Magistrados del Tribunal Estatal Electoral, serán designados por el Congreso del Estado, mediante el voto de las dos terceras partes de los Diputados que integren la Legislatura.
 
-(REFORMADO, P. O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., P. O. 29 DE NOVIEMBRE DE 2000)
+(REFORMADO, P. O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., P. O. 24 DE NOVIEMBRE DE 2000)
 
 Para dar cumplimiento a lo dispuesto en el párrafo anterior, se conformará una comisión calificadora integrada por tantos diputados como grupos parlamentarios integren el Congreso del Estado; esta Comisión emitirá una convocatoria pública y previo el análisis que haga de los aspirantes remitirá la propuesta al pleno del Congreso.
 
@@ -768,7 +772,7 @@ b).- Por cada seis días de trabajo, disfrutará el trabajador de un día de des
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-c).- Los trabajadores gozarán anualmente de dos períodos vacacionales de diez días hábiles y de noventa días de salario como aguinaldo.
+c).- Los trabajadores gozarán anualmente de dos períodos vacacionales de diez días hábiles y de noventa días de salario como aguinaldo;
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -782,7 +786,7 @@ g).- La designación del personal se hará mediante sistemas que permitan apreci
 
 h).- Los trabajadores gozarán de derechos de escalafón a fin de que los derechos se otorguen en función de los conocimientos, aptitudes y antigüedad.
 
-i).- Los trabajadores sólo podrán ser suspendidos a cesados por causa justificada, en los términos que fije la Ley.
+i).- Los trabajadores sólo podrán ser suspendidos o cesados por causa justificada, en los términos que fije la Ley.
 
 En caso de separación injustificada tendrán derecho a optar por la reinstalación en su trabajo o por la indemnización correspondiente, previo el procedimiento legal.
 
@@ -876,7 +880,7 @@ XXXVII.- Designar a los Magistrados del Tribunal Superior de Justicia de entre l
 
 (ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., 29 DE NOVIEMBRE DE 2000)
 
-Las designaciones a que alude esta fracción, deberán reunir el voto aprobatorio previsto en el Artículo 44 de la presente Constitución.
+Las designaciones a que alude esta fracción, deberán reunir el voto aprobatorio previsto en el Artículo 44 de la presente Constitución;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -942,9 +946,9 @@ LIII.- Aprobar por mayoría simple de los integrantes de la Legislatura, la soli
 
 LIV.- Solicitar al Consejo de Participación Ciudadana y al Instituto Estatal Electoral se lleven a cabo los procesos de referéndum y plebiscito.
 
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2002)</small>
 
-LV.- Incoar el procedimiento sobre responsabilidades políticas y de declaración de procedencia a los servidores públicos señalados en los artículos 136 y 137 de esta Constitución; determinar las responsabilidades administrativas a que alude el artículo 141 de este ordenamiento y la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos, a los servidores públicos estatales y municipales, sea que presten sus servicios en la Administración Central o en cualquier organismo auxiliar, cuando éstas se deriven de los actos de fiscalización a los recursos humanos, materiales y financieros, plan o planes, y programas tanto del erario público estatal como de los municipales, así como de las quejas y denuncias ciudadanas que se presenten por violación a los principios de imparcialidad, probidad, profesionalismo, honestidad, eficiencia, lealtad y austeridad en el servicio público y en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado e iniciar los juicios civiles o las querellas o denuncias respectivas, considerando la excepción prevista en el artículo 145 de esta Constitución.
+LV.- Incoar el procedimiento sobre responsabilidades políticas y de declaración de procedencia a los servidores públicos señalados en los artículos 136 y 137 de esta Constitución; determinar las responsabilidades administrativas a que alude el artículo 141 de este ordenamiento y la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos, a los servidores públicos estatales y municipales, sea que presten sus servicios en la Administración Central o en cualquier organismo auxiliar, cuando éstas se deriven de los actos de fiscalización a los recursos humanos, materiales y financieros, plan o planes, y programas tanto del erario público estatal como de los municipales, e iniciar los juicios civiles o las querellas o denuncias respectivas, considerando la excepción prevista en el artículo 145 de esta Constitución.
 
 Esta atribución podrá ser ejercida por la Contaduría Mayor de Hacienda del Poder Legislativo o por la Comisión, órgano o dependencia que el mismo determine.
 
@@ -986,7 +990,7 @@ b).- Cuando abandone sus funciones por un lapso de quince días consecutivos sin
 
 c).- Cuando deje de asistir consecutivamente a cinco Sesiones de Cabildo sin causa justificada;
 
-d).- Cuando reiteradamente abuse de su Autoridad en perjuicio de la Comunidad y del Ayuntamiento,
+d).- Cuando reiteradamente abuse de su Autoridad en perjuicio de la Comunidad y del Ayuntamiento;
 
 e).- Por omisión reiterada en el cumplimiento de sus funciones;
 
@@ -1120,7 +1124,7 @@ B.- Cuando sea necesario para el cumplimiento de alguna ley general.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-C.- En los casos de falta absoluta del Gobernador, o cuando tenga que separarse de sus funciones por más de un mes
+C.- En los casos de falta absoluta del Gobernador, o cuando tenga que separarse de sus funciones por más de un mes.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -1310,7 +1314,7 @@ VII.- Conceder o negar indulto con arreglo a la Ley, a los reos sentenciados por
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 1992)</small>
 
-VIII.- Imponer como corrección, arresto hasta por treinta y seis horas o multa; pero si el infractor no pagare la multa que se le hubiere impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
+VIII.- Imponer como corrección, arresto hasta por treinta y seis horas o multa; pero si el infractor no pagare la multa que se le hubiere impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas;
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -1382,7 +1386,7 @@ XXIII.- Proporcionar a los Tribunales el auxilio necesario para el ejercicio de 
 
 XXIV.- Coadyuvar y vigilar al cumplimiento del libre ejercicio ciudadano del voto, sea en los procesos electorales, o en las demás formas de participación ciudadana establecidas en el artículo 19 bis de esta Constitución, apoyando a los organismos electorales con los recursos y la infraestructura necesaria para el pleno desarrollo de sus funciones.
 
-El apoyo de recursos financieros adicionales, invariablemente requerirá aprobación del Congreso del Estado.
+El apoyo de recursos financieros adicionales, invariablemente requerirá aprobación del Congreso del Estado;
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -2154,6 +2158,12 @@ Los recursos que integran la hacienda municipal serán ejercidos en forma direct
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
+### CAPITULO I.
+
+DE LA OBSERVANCIA, REFORMAS E INVIOLABILIDAD DE ESTA CONSTITUCION.
+
+(REFORMADO, P.O. 4 DE AGOSTO DE 1965) (F. DE E. P.O. 11 DE AGOSTO DE 1965)
+
 ###### Artículo 116.
 
 La Ley de División Territorial Municipal fijará los límites de cada Municipio, así como las poblaciones que tendrán la calidad de cabeceras municipales en las que residirán los Ayuntamientos. La misma ley señalará los requisitos para la creación de las subdivisiones territoriales de los propios Municipios, que se denominarán secciones municipales dentro de la zona urbana y Ayudantías Municipales en los poblados foráneos.
@@ -2183,6 +2193,12 @@ En lo conducente y de conformidad a los fines señalados en el párrafo tercero 
 X.- Cuando dos o más centros urbanos situados en territorios municipales del Estado u otras Entidades Federativas, formen o tiendan a formar una continuidad demográfica, la federación, las Entidades Federativas y los Municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros con apego a la ley federal de la materia.
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+### CAPITULO II.
+
+DE LAS REFORMAS A LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2002)</small>
 
 ###### Artículo 117.
 
@@ -2216,7 +2232,7 @@ I.- Determinar las bases generales de la administración pública municipal y de
 
 II.- Las normas de aplicación general para celebrar los convenios relativos a la coordinación o asociación con otros Municipios del Estado, para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan; así como, cuando a juicio del Ayuntamiento sea necesaria la celebración de convenios con el Poder Ejecutivo del Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio municipio;
 
-III.- El modo y términos en que se autorice la asunción de algunas de las funciones relacionadas a la administración de alguno de los ingresos públicos municipales, por el Ejecutivo del Estado; o bien, las funciones relacionadas a la administración de alguno de los ingresos estatales por el Ayuntamiento en el ámbito territorial y jurisdiccional del municipio,
+III.- El modo y términos en que se autorice la asunción de algunas de las funciones relacionadas a la administración de alguno de los ingresos públicos municipales, por el Ejecutivo del Estado; o bien, las funciones relacionadas a la administración de alguno de los ingresos estatales por el Ayuntamiento en el ámbito territorial y jurisdiccional del municipio;
 
 IV.- El modo y términos en que el Ayuntamiento puede celebrar con el Poder Ejecutivo del Estado, a efecto de que éste último asuma la prestación de alguna de sus funciones, la ejecución y operación de obras; incluida la asunción del Ayuntamiento de alguna de las funciones del Poder Ejecutivo del Estado o la ejecución y operación de obras Estatales en el ámbito territorial del Municipio;
 
@@ -2372,9 +2388,9 @@ La presentación se hará ante el propio Congreso del Estado.
 
 ## TITULO OCTAVO.
 
-DE LA OBSERVANCIA, REFORMAS E INVIOLABILIDAD DE LA CONSTITUCION.
+DE LA OBSERVANCIA Y REFORMAS DE LAS CONSTITUCIONES FEDERAL Y LOCAL.
 
-(REFORMADO, P.O. 4 DE AGOSTO DE 1965) (F. DE E. P.O. 11 DE AGOSTO DE 1965)
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2002)</small>
 
 ###### Artículo 134.
 
@@ -2466,6 +2482,8 @@ La responsabilidad administrativa en que incurran los Secretarios de las Salas, 
 
 Se concede acción popular para denunciar ante las Autoridades correspondientes los actos u omisiones que realicen los Servidores Públicos que les originen responsabilidad alguna en los términos del presente Título.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 147.
 
 Esta Constitución puede ser adicionada o reformada con los requisitos siguientes:
@@ -2487,6 +2505,12 @@ En caso de invasión o perturbación grave de la paz o del orden público, el Ej
 ###### Artículo 150.
 
 Esta Constitución no perderá su fuerza y vigor aun cuando por alguna rebelión se interrumpa su observancia. En caso de que por cualquier trastorno público se establezca en el Estado un Gobierno contrario a los principios que ella sanciona, tan luego como el pueblo recobre su libertad, se restablecerá su observancia, y con arreglo a ella y a las Leyes que en su virtud se hubieren expedido, serán juzgados, tanto los que hubieren figurado en el Gobierno emanado de la rebelión, como los que hubieren cooperado a ésta.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 21 DE AGOSTO DE 2002)</small>
+
+###### Artículo 151.
+
+Para el ejercicio de la facultad que el artículo 135 de la Constitución Política de los Estados Unidos Mexicanos, confiere a la legislatura local, las minutas correspondientes de reforma o adición aprobadas por el Congreso de la Unión, deberán aprobarse mediante votación nominal de las dos terceras partes de los miembros de la Cámara presentes.
 
 T R A N S I T O R I O S.
 
@@ -2796,7 +2820,7 @@ P.O. 1 DE FEBRERO DE 1989.
 
 ###### ARTICULO PRIMERO.
 
-Envíese copia del presente Decreto, a los treinta y tres Ayuntamientos que conforman nuestra Entidad Federativa, para los efectos a que hacen referencia los Artículos 147 Fracción I, de la Constitución Política Local, y 81 de la Ley Orgánica del Congreso del Estado.
+Envíese copia del presente Decreto, a los treinta y tres Ayuntamientos que conforman nuestra Entidad Federativa, para los efectos a que hacen referencia los Artículos 147 Fracción I, de la Constitución Política Local, y 81, de la Ley Orgánica del Congreso del Estado.
 
 ###### ARTICULO SEGUNDO.
 
@@ -3009,3 +3033,57 @@ CUARTO.- El Congreso del Estado deberá expedir la Ley o Decreto de Ley, que reg
 > <small>(F. DE E., 29 DE NOVIEMBRE DE 2000)</small>
 
 QUINTO.- Las disposiciones contenidas en el artículo 19-bis, en su apartado de adición, iniciará su vigencia el día primero de octubre del año dos mil.
+
+P.O. 21 DE AGOSTO DE 2002.
+
+DECRETO NUMERO 624
+
+> <small>(F. DE E., P.O. 4 DE SEPTIEMBRE DE 2002)</small>
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto que reforma la fracción LV del artículo 40 de la Constitución Política del Estado Libre y Soberano de Morelos, iniciará su vigencia, previa aprobación del Constituyente Permanente, a partir del día siguiente en que el Congreso del Estado haga el cómputo de los Ayuntamientos, en los términos de lo dispuesto por la fracción II del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, siempre que resulte favorable, emitiéndose la declaratoria correspondiente.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 21 DE AGOSTO DE 2002.
+
+DECRETO NUMERO 625
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto que reforma el artículo 2 de la Constitución Política del Estado Libre y Soberano de Morelos, iniciará su vigencia, previa aprobación del Constituyente Permanente, a partir del día siguiente en que el Congreso del Estado haga el cómputo de los Ayuntamientos, en los términos de lo dispuesto por la fracción II del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, siempre que resulte favorable, emitiéndose la declaratoria correspondiente.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 21 DE AGOSTO DE 2002.
+
+DECRETO NUMERO 626
+
+> <small>(F. DE E., P.O. 4 DE SEPTIEMBRE DE 2002)</small>
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto que reforma y adiciona la denominación del Título Octavo de la Constitución Política del Estado Libre y Soberano de Morelos, iniciará su vigencia, previa aprobación del Constituyente Permanente, a partir del día siguiente en que el Congreso del Estado haga el cómputo de los Ayuntamientos, en los términos de lo dispuesto por la fracción II del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, siempre que resulte favorable, emitiéndose la declaratoria correspondiente.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 21 DE AGOSTO DE 2002.
+
+DECRETO NUMERO 628
+
+> <small>(F. DE E., P.O. 4 DE SEPTIEMBRE DE 2002)</small>
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto que adiciona un último párrafo al artículo 19 de la Constitución Política del Estado Libre y Soberano de Morelos, iniciará su vigencia, previa aprobación del Constituyente Permanente, a partir del día siguiente en que el Congreso del Estado haga el cómputo de los Ayuntamientos, en los términos de lo dispuesto por la fracción II del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, siempre que resulte favorable, emitiéndose la declaratoria correspondiente.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
