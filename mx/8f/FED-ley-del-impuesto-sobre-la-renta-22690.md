@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-renta-22690"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-01"
-last_updated: "2002-12-30"
+last_updated: "2003-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22690&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISR"
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 1 de enero de 2002.
 
@@ -188,6 +188,10 @@ En las operaciones de factoraje financiero, se considerará interés la ganancia
 
 En los contratos de arrendamiento financiero, se considera interés la diferencia entre el total de pagos y el monto original de la inversión.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+
+La cesión de derechos sobre los ingresos por otorgar el uso o goce temporal de inmuebles, se considerará como una operación de financiamiento; la cantidad que se obtenga por la cesión se tratará como préstamo, debiendo acumularse las rentas devengadas conforme al contrato, aún cuando éstas se cobren por el adquirente de los derechos. La contraprestación pagada por la cesión se tratará como crédito o deuda, según sea el caso, y la diferencia con las rentas tendrá el tratamiento de interés. El importe del crédito o deuda generará el ajuste anual por inflación en los términos del Capítulo III del Título II de esta Ley, el que será acumulable o deducible, según sea el caso, considerando para su cuantificación, la tasa de descuento que se haya tomado para la cesión del derecho, el total de las rentas que abarca la cesión, el valor que se pague por dichas rentas y el plazo que se hubiera determinado en el contrato, en los términos que establezca el Reglamento de esta Ley.
+
 Cuando los créditos, deudas, operaciones o el importe de los pagos de los contratos de arrendamiento financiero, se ajusten mediante la aplicación de índices, factores o de cualquier otra forma, inclusive mediante el uso de unidades de inversión, se considerará el ajuste como parte del interés.
 
 Se dará el tratamiento que esta Ley establece para los intereses, a las ganancias o pérdidas cambiarias, devengadas por la fluctuación de la moneda extranjera, incluyendo las correspondientes al principal y al interés mismo. La pérdida cambiaria no podrá exceder de la que resultaría de considerar el tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana establecido por el Banco de México, que al efecto se publique en el Diario Oficial de la Federación, correspondiente al día en que se sufra la pérdida.
@@ -284,9 +288,7 @@ Tratándose del segundo ejercicio fiscal, el primer pago provisional comprender�
 
 Cuando en el último ejercicio de doce meses no resulte coeficiente de utilidad conforme a lo dispuesto en esta fracción, se aplicará el correspondiente al último ejercicio de doce meses por el que se tenga dicho coeficiente, sin que ese ejercicio sea anterior en más de cinco años a aquél por el que se deban efectuar los pagos provisionales.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-Para los efectos del cálculo del coeficiente de utilidad a que se refiere esta fracción, los contribuyentes deberán aumentar o disminuir, según se trate, de la utilidad o pérdida fiscal que se deba considerar para determinar el coeficiente de utilidad, los conceptos de deducción o acumulación que tengan un efecto fiscal distinto al que tenían en el ejercicio al que corresponda el coeficiente de que se trate, excepto en los casos en que esta Ley señale un tratamiento distinto a lo señalado en este párrafo.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 II. La utilidad fiscal para el pago provisional se determinará multiplicando el coeficiente de utilidad que corresponda conforme a la fracción anterior, por los ingresos nominales correspondientes al periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que se refiere el pago.
 
@@ -798,9 +800,7 @@ I. Los pagos por impuesto sobre la renta a cargo del propio contribuyente o de t
 
 Tampoco serán deducibles las cantidades que entregue el contribuyente en su carácter de retenedor a las personas que le presten servicios personales subordinados provenientes del crédito al salario a que se refieren los artículos 115 y 116 de esta Ley, así como los accesorios de las contribuciones, a excepción de los recargos que hubiere pagado efectivamente, inclusive mediante compensación.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-Lo dispuesto en esta fracción no será aplicable tratándose de las cantidades que el contribuyente entere conjuntamente con las retenciones que efectúe en el caso previsto en el último párrafo del artículo 115 de esta Ley.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -2098,7 +2098,7 @@ Tratándose de intereses que se deriven de créditos otorgados a personas morale
 
 I. El deudor formule por escrito promesa incondicional de pago parcial o total del crédito recibido, a una fecha determinable en cualquier momento por el acreedor.
 
-II. Los intereses no sean deducibles conforme a lo establecido en la fracción XIV del artículo 31de esta Ley.
+II. Los intereses no sean deducibles conforme a lo establecido en la fracción XIV del artículo 31 de esta Ley.
 
 III. Que en el caso de incumplimiento por el deudor, el acreedor tenga derecho a intervenir en la dirección o administración de la sociedad deudora.
 
@@ -2490,11 +2490,9 @@ IX. La cuota de seguridad social de los trabajadores pagada por los patrones.
 
 X. Los que obtengan las personas que han estado sujetas a una relación laboral en el momento de su separación, por concepto de primas de antigüedad, retiro e indemnizaciones u otros pagos, así como los obtenidos con cargo a la subcuenta del seguro de retiro o a la subcuenta de retiro, cesantía en edad avanzada y vejez, previstas en la Ley del Seguro Social y los que obtengan los trabajadores al servicio del Estado con cargo a la cuenta individual del sistema de ahorro para el retiro, prevista en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, hasta por el equivalente a noventa veces el salario mínimo general del área geográfica del contribuyente por cada año de servicio o de contribución en el caso de la subcuenta del seguro de retiro, de la subcuenta de retiro, cesantía en edad avanzada y vejez o de la cuenta individual del sistema de ahorro para el retiro. Los años de servicio serán los que se hubieran considerado para el cálculo de los conceptos mencionados. Toda fracción de más de seis meses se considerará un año completo. Por el excedente se pagará el impuesto en los términos de este Título.
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+
 XI. Las gratificaciones que reciban los trabajadores de sus patrones, durante un año de calendario, hasta el equivalente del salario mínimo general del área geográfica del trabajador elevado a 30 días, cuando dichas gratificaciones se otorguen en forma general; así como las primas vacacionales que otorguen los patrones durante el año de calendario a sus trabajadores en forma general y la participación de los trabajadores en las utilidades de las empresas, hasta por el equivalente a 15 días de salario mínimo general del área geográfica del trabajador, por cada uno de los conceptos señalados. Tratándose de primas dominicales hasta por el equivalente de un salario mínimo general del área geográfica del trabajador por cada domingo que se labore.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-En el caso de los trabajadores sujetos a condiciones generales de trabajo, de la Federación y de las Entidades Federativas, las gratificaciones que se otorguen anualmente o con diferente periodicidad a la mensual, en cualquier momento del año de calendario, de conformidad con las actividades y el servicio que desempeñen, siempre y cuando sean de carácter general, incluyendo, entre otras, al aguinaldo y a la prima vacacional.
 
 Por el excedente de los ingresos a que se refiere esta fracción se pagará el impuesto en los términos de este Título.
 
@@ -2742,9 +2740,7 @@ $ $ $
 
 En los casos en que, de conformidad con lo dispuesto en el segundo párrafo de este artículo, el impuesto a cargo del contribuyente que se obtenga de la aplicación de la tarifa del artículo 113 de esta Ley disminuido con el subsidio que, en su caso, resulte aplicable, sea menor que el crédito al salario mensual, el retenedor deberá entregar al contribuyente la diferencia que se obtenga. El retenedor podrá acreditar contra el impuesto sobre la renta a su cargo o del retenido a terceros, las cantidades que entregue a los contribuyentes en los términos de este párrafo, conforme a los requisitos que fije el Reglamento de esta Ley. Los ingresos que perciban los contribuyentes derivados del crédito al salario mensual no se considerarán para determinar la proporción de subsidio acreditable a que se refiere el artículo 114 de esta Ley y no serán acumulables ni formarán parte del cálculo de la base gravable de cualquier otra contribución por no tratarse de una remuneración al trabajo personal subordinado.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-Las personas que ejerzan la opción de no pagar el impuesto sustitutivo del crédito al salario, deberán enterar conjuntamente con las retenciones que efectúen a los contribuyentes a que se refiere el primer párrafo de este artículo, un monto equivalente al crédito al salario mensual que hubiesen calculado conforme a la tabla contenida en este artículo para todos sus trabajadores, sin que dicho monto exceda del impuesto sustitutivo del crédito al salario causado en el mes de que se trate.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -3249,6 +3245,10 @@ Los pagos a que se refiere esta fracción, se enterarán ante las oficinas autor
 Para los efectos de esta fracción, cuando los contribuyentes a que se refiere esta Sección tengan establecimientos, sucursales o agencias, en dos o más Entidades Federativas, enterarán los pagos mensuales en cada Entidad considerando el impuesto que resulte por los ingresos obtenidos en la misma.
 
 El Servicio de Administración Tributaria y, en su caso, las Entidades Federativas con las que se celebre convenio de coordinación para la administración del impuesto establecido en esta Sección, podrán ampliar los periodos de pago, a bimestral, trimestral o semestral, tomando en consideración la rama de actividad o la circunscripción territorial, de los contribuyentes.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+
+Las Entidades Federativas con las que se celebre convenio de coordinación para la administración del impuesto establecido en esta Sección, podrán estimar el ingreso gravable del contribuyente y determinar cuotas fijas para cobrar el impuesto respectivo.
 
 VII. Tratándose de las erogaciones por concepto de salarios, los contribuyentes deberán efectuar la retención y el entero por concepto del impuesto sobre la renta de sus trabajadores, conforme a las disposiciones previstas en esta Ley y su Reglamento. Esta obligación podrá no ser aplicada hasta por tres trabajadores cuyo salario no exceda del salario mínimo general del área geográfica del contribuyente elevado al año.
 
@@ -3860,9 +3860,7 @@ I. Los pagos por impuesto sobre la renta a cargo del propio contribuyente o de t
 
 Tampoco serán deducibles las cantidades que entregue el contribuyente en su carácter de retenedor a las personas que le presten servicios personales subordinados provenientes del crédito al salario a que se refieren los artículos 115 y 116 de esta Ley, así como los accesorios de las contribuciones, a excepción de los recargos que hubiere pagado efectivamente, inclusive mediante compensación.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-Lo dispuesto en esta fracción no será aplicable tratándose de las cantidades que el contribuyente entere conjuntamente con las retenciones que efectúe en el caso previsto en el último párrafo del artículo 115 de esta Ley.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 II. Las inversiones en casas habitación, en comedores que por su naturaleza no estén a disposición de todos los trabajadores de la empresa, en aviones y embarcaciones, que no tengan concesión o permiso del Gobierno Federal para ser explotados comercialmente ni los pagos por el uso o goce temporal de dichos bienes.
 
@@ -4184,14 +4182,6 @@ El impuesto sobre la utilidad a que se refiere este artículo se enterará por e
 
 Cuando la persona que efectúe los pagos a que se refiere este artículo sea residente en el extranjero, el contribuyente enterará el impuesto mediante declaración que presentará, en las oficinas autorizadas, dentro de los 15 días siguientes a la obtención del ingreso.
 
-###### Artículo 188.
-
-En los ingresos por otorgar el uso o goce temporal de bienes muebles, se considerará que la fuente de riqueza se encuentra en territorio nacional, cuando los bienes muebles destinados a actividades comerciales, industriales, agrícolas, ganaderas y de pesca, se utilicen en el país. Se presume salvo prueba en contrario, que los bienes muebles se destinan a estas actividades y se utilizan en el país, cuando el que usa o goza el bien es residente en México o residente en el extranjero con establecimiento permanente en territorio nacional. En el caso de que los bienes muebles se destinen a actividades distintas de las anteriores, cuando en el país se haga la entrega material de los bienes muebles.
-
-El impuesto se determinará aplicando la tasa del 25% sobre el ingreso obtenido, sin deducción alguna, debiendo efectuar la retención las personas que hagan los pagos. Tratándose de contenedores, así como de aviones y embarcaciones que tengan concesión o permiso del Gobierno Federal para ser explotados comercialmente, el impuesto se determinará aplicando la tasa del 5% siempre que dichos bienes sean utilizados directamente por el arrendatario en la transportación de pasajeros o bienes.
-
-Lo dispuesto en este precepto no es aplicable a los bienes muebles a que se refieren los artículos 198 y 200 de esta Ley.
-
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 188
@@ -4199,6 +4189,14 @@ Lo dispuesto en este precepto no es aplicable a los bienes muebles a que se refi
 Bis. En los ingresos derivados de contratos de fletamento, se considerará que la fuente de riqueza se encuentra en territorio nacional, cuando las embarcaciones fletadas realicen navegación de cabotaje en territorio nacional.
 
 El impuesto se determinará aplicando la tasa del 10% sobre el ingreso obtenido, sin deducción alguna, debiendo efectuar la retención la persona que haga los pagos.
+
+###### Artículo 188.
+
+En los ingresos por otorgar el uso o goce temporal de bienes muebles, se considerará que la fuente de riqueza se encuentra en territorio nacional, cuando los bienes muebles destinados a actividades comerciales, industriales, agrícolas, ganaderas y de pesca, se utilicen en el país. Se presume salvo prueba en contrario, que los bienes muebles se destinan a estas actividades y se utilizan en el país, cuando el que usa o goza el bien es residente en México o residente en el extranjero con establecimiento permanente en territorio nacional. En el caso de que los bienes muebles se destinen a actividades distintas de las anteriores, cuando en el país se haga la entrega material de los bienes muebles.
+
+El impuesto se determinará aplicando la tasa del 25% sobre el ingreso obtenido, sin deducción alguna, debiendo efectuar la retención las personas que hagan los pagos. Tratándose de contenedores, así como de aviones y embarcaciones que tengan concesión o permiso del Gobierno Federal para ser explotados comercialmente, el impuesto se determinará aplicando la tasa del 5% siempre que dichos bienes sean utilizados directamente por el arrendatario en la transportación de pasajeros o bienes.
+
+Lo dispuesto en este precepto no es aplicable a los bienes muebles a que se refieren los artículos 198 y 200 de esta Ley.
 
 ###### Artículo 189.
 
@@ -4784,11 +4782,7 @@ En lugar de considerar el valor de las mercancías, así como de las materias pr
 
 5. No deberán considerarse los gastos extraordinarios o no recurrentes de la operación conforme a principios de contabilidad generalmente aceptados. No se consideran gastos extraordinarios aquellos respecto de los cuales se hayan creado reservas y provisiones en los términos de los citados principios de contabilidad generalmente aceptados y para los cuales la empresa maquiladora cuente con fondos líquidos expresamente destinados para efectuar su pago. Cuando los contribuyentes no hubiesen creado las reservas y provisiones citadas y para los cuales la empresa maquiladora cuente con fondos líquidos expresamente para efectuar su pago, tampoco considerarán como gastos extraordinarios los pagos que efectúen por los conceptos respecto de los cuales se debieron constituir las reservas o provisiones citadas.
 
-6. No considerarán dentro de los costos y gastos a que se refiere esta Sección las cantidades pagadas por concepto de Impuesto Sustitutivo del Crédito al Salario.
-
-Cuando las empresas maquiladoras ejerzan la opción de no pagar el Impuesto Sustitutivo del Crédito al Salario, no considerarán dentro de dichos costos y gastos, el monto del crédito al salario que no se disminuya contra el impuesto sobre la renta con motivo del ejercicio de la opción citada.
-
-Lo dispuesto en este inciso será aplicable siempre que el residente en el extranjero reembolse al costo a la empresa maquiladora los pagos que se efectúen por los conceptos citados en los párrafos anteriores.
+6. (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2003)
 
 Los conceptos a que se refiere este numeral se deberán considerar en su valor histórico sin actualización por inflación, con excepción de lo dispuesto en el numeral 2 de este inciso.
 
@@ -4953,6 +4947,62 @@ Para los efectos de las fracciones I y III de este artículo, cuando sea impar e
 ###### Artículo 222.
 
 El patrón que contrate a personas que padezcan discapacidad motriz y para superarla requieran usar permanentemente prótesis, muletas o sillas de ruedas; mental; auditiva; de lenguaje en un ochenta por ciento o más de la capacidad normal o tratándose de invidentes, podrá deducir del impuesto a su cargo, una cantidad igual al veinte por ciento de la cantidad pagada por concepto de salario a su trabajador discapacitado, siempre y cuando el patrón esté cumpliendo respecto de dichos trabajadores con la obligación contenida en el artículo 12 de la Ley del Seguro Social y además obtengan del Instituto Mexicano del Seguro Social el certificado de incapacidad del trabajador.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+
+###### Artículo 223.
+
+Con el propósito de fomentar el mercado inmobiliario mexicano, los fideicomisos cuya única actividad sea la construcción o adquisición de inmuebles que se destinen a su enajenación o a la concesión del uso o goce, así como la adquisición del derecho para percibir ingresos por otorgar dicho uso o goce, estarán a lo siguiente:
+
+I. La fiduciaria y los fideicomisarios no efectuarán los pagos provisionales a que se refiere el artículo 13 de esta Ley, por los ingresos que obtenga el fideicomiso.
+
+II. Para determinar la ganancia por la enajenación de los certificados de participación que emitan los fideicomisos a que se refiere este artículo, los contribuyentes disminuirán del ingreso obtenido por la enajenación del certificado de que se trate, el costo promedio que corresponda a dicho certificado.
+
+El costo promedio incluirá todos los certificados que tenga el contribuyente del mismo fideicomiso en la fecha de la enajenación, aun cuando no los enajene en su totalidad.
+
+El costo promedio se determinará dividiendo el costo de la totalidad de los certificados propiedad del contribuyente correspondientes a un mismo fideicomiso, entre el número total de certificados que tenga el contribuyente a la fecha de la enajenación.
+
+Tratándose de enajenaciones subsecuentes, el costo promedio de todos los certificados de participación propiedad del contribuyente por los que ya se hubiera calculado dicho costo, se adicionará con el costo de los certificados que se adquieran con posterioridad, la cantidad que resulte se dividirá entre el número total de certificados que tenga el contribuyente a la fecha de la enajenación de que se trate y el resultado se considerará como costo promedio de los certificados a la citada fecha.
+
+III. Cuando los fideicomitentes aporten bienes inmuebles al fideicomiso podrán considerar que no hay enajenación, siempre que la fiduciaria otorgue su uso o goce temporal al mismo fideicomitente que aportó el bien inmueble y se cumpla con lo siguiente:
+
+a) Deberán suspender la deducción de la inversión del inmueble que hubiesen aportado al fideicomiso.
+
+b) El fideicomitente sólo podrá deducir las rentas que pague por el otorgamiento del uso o goce del inmueble hasta por el equivalente al 12% anual del valor fiscal del inmueble.
+
+c) En el caso de que la fiduciaria enajene un bien inmueble aportado en los términos de esta fracción, el fideicomitente pagará el impuesto correspondiente a la ganancia realizada entre el valor fiscal del inmueble y el valor que tenía dicho inmueble en el momento de su aportación. La fiduciaria considerará la ganancia que en su caso se genere entre el valor del inmueble en el momento de su aportación y el valor de enajenación.
+
+d) Si el fideicomitente enajena los certificados de participación que en su caso emita el fideicomiso por la aportación del inmueble, calculará su costo a valor fiscal del inmueble.
+
+Para los efectos de lo dispuesto en esta fracción, el valor fiscal es el monto original de la inversión del terreno y el saldo pendiente por deducir de las construcciones, actualizados hasta el mes en el que se hubieran aportado al fideicomiso.
+
+Cuando el fideicomitente hubiera pagado el impuesto a que se refiere el inciso c) de esta fracción, el valor fiscal correspondiente a los certificados obtenidos con motivo de la aportación del inmueble, será el valor del inmueble en el momento de su aportación.
+
+IV. Los fondos de pensiones y jubilaciones a los que se refiere el artículo 179 de la (sic) esta Ley que sean fideicomisarios, podrán aplicar lo dispuesto por el Título II o Título V de esta Ley, según corresponda, por los ingresos que perciban de la operación del fideicomiso.
+
+V. Tratándose de los fondos de pensiones y jubilaciones a que se refiere el artículo 33 de esta Ley, podrán invertir hasta un 10% de sus reservas en los certificados de participación de los fideicomisos a que se refiere este artículo y los mismos se computarán dentro del 70% a que se refiere la fracción II del citado artículo 33 de esta Ley.
+
+VI. En el caso de fideicomisarios personas físicas y residentes en el extranjero distintos a los fondos de pensiones y jubilaciones a que se refiere el artículo 179 de la Ley, cuando enajenen los certificados de participación que en su caso emita el fideicomiso, deberán considerar el ingreso que perciban por la enajenación, como proveniente de inversiones inmobiliarias y deberán calcular y pagar el impuesto correspondiente, aplicando lo dispuesto en el Título IV o Título V de dicha Ley, según se trate, para la enajenación de inmuebles.
+
+Para los efectos del párrafo anterior, se considerará como monto original de la inversión el valor de la inversión que hubiera efectuado al fideicomiso y las reinversiones como mejoras a los propios inmuebles.
+
+VII. Las personas morales que tributen en los términos del Título II de esta Ley, acumularán a sus demás ingresos en el ejercicio, la parte de la utilidad fiscal que les corresponda en la operación del fideicomiso o, en su caso, deducirán la parte de la pérdida fiscal que les corresponda, con la información que para tales efectos les entregue la fiduciaria.
+
+En el caso de que las personas morales a que se refiere esta fracción enajenen los certificados de participación que en su caso emita el fideicomiso, deberán considerar el ingreso que perciban por la enajenación, como proveniente de inversiones inmobiliarias y deberán calcular y pagar el impuesto correspondiente, aplicando lo dispuesto en el Título II de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+
+###### Artículo 224.
+
+Los fideicomisos a que se refiere el artículo anterior, deberán cumplir con los siguientes requisitos:
+
+I. Estar constituidos de conformidad con las leyes mexicanas.
+
+II. Que su objeto sea la construcción o adquisición de inmuebles que se destinen a su enajenación o la concesión del uso o goce, así como la adquisición del derecho para percibir ingresos por otorgar dicho uso o goce.
+
+III. Que el patrimonio del fideicomiso se invierta cuando menos en el 70%, en el objeto a que se refiere la fracción anterior y el remanente en valores a cargo del Gobierno Federal inscritos en el Registro Nacional de Valores e Intermediarios o en acciones de sociedades de inversión en instrumentos de deuda.
+
+IV. Que se cumplan los requisitos de información que mediante reglas de carácter general establezca el Servicio de Administración Tributaria.
 
 Disposiciones Transitorias de la Ley del Impuesto sobre la Renta
 
@@ -5882,45 +5932,7 @@ LXXXIX. A partir de la fecha en que entre en vigor la Ley del Impuesto Sobre la 
 
 XC. Para efectos del artículo 32 de la Ley del Impuesto sobre la Renta, la deducibilidad de la Participación de los Trabajadores en las Utilidades, será conciderada (sic) en el caso de que la expectativa de crecimiento en los criterios generales de política económica para el ejercicio de 2003 estimen un crecimiento superior al 3% del Producto Interno Bruto.
 
-Artículo Tercero. Del impuesto sustitutivo del crédito al salario.
-
-Único. Están obligadas al pago del impuesto sustitutivo del crédito al salario establecido en este artículo, las personas físicas y las morales que realicen erogaciones por la prestación de un servicio personal subordinado en territorio nacional, conforme a lo siguiente:
-
-Se consideran erogaciones por la prestación de un servicio personal subordinado, los salarios y demás prestaciones en efectivo o en especie que sean pagadas por la persona física o moral a quienes les presten un servicio personal subordinado. Para estos efectos, también se considerarán erogaciones por la prestación de un servicio personal subordinado aquellas erogaciones que para los efectos de la Ley del Impuesto sobre la Renta se consideran ingresos asimilados a salarios.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-El impuesto establecido en este artículo se determinará aplicando al total de las erogaciones realizadas por la prestación de un servicio personal subordinado, la tasa del 4%.
-
-El impuesto establecido en este artículo se calculará por ejercicios fiscales y se causará en el momento en que se realicen las erogaciones por la prestación de un servicio personal subordinado.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-El impuesto del ejercicio, deducidos los pagos provisionales del mismo, se pagará mediante declaración que se presentará ante las oficinas autorizadas, en las mismas fechas de pago que las establecidas para el impuesto sobre la renta.
-
-Los contribuyentes de este impuesto efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio mediante declaración que presentarán ante las oficinas autorizadas a más tardar el día 17 del mes inmediato siguiente a aquél en el que se realicen dichas erogaciones. El pago provisional se calculará aplicando la tasa establecida en el párrafo tercero de este artículo sobre el total de las erogaciones efectuadas en el mes al que corresponda el pago.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-Los contribuyentes a que hace referencia este artículo podrán optar por no pagar el impuesto sustitutivo del crédito al salario a que se refiere el mismo, siempre que cumplan con lo dispuesto en el último párrafo del artículo 115 de la Ley del Impuesto sobre la Renta, durante todos los meses del ejercicio en el que se ejerza la citada opción.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-Cuando el monto del crédito al salario pagado a los trabajadores en los términos de la Ley del Impuesto sobre la Renta sea mayor que el impuesto causado en los términos de este artículo, los contribuyentes que ejerzan la opción a que se refiere el párrafo anterior podrán disminuir del impuesto sobre la renta a su cargo o del retenido a terceros, únicamente el monto en el que dicho crédito exceda del impuesto causado en los términos de este artículo, siempre y cuando, además, se cumplan los requisitos que para tales efectos establece el artículo 119 de la Ley del Impuesto sobre la Renta.
-
-Para los efectos de este artículo, se considera como una sola persona moral el conjunto de aquellas que reúna alguna de las características que se señalan a continuación, caso en el cual cada una de estas personas morales deberá pagar el impuesto establecido en este artículo por la totalidad del monto erogado por la prestación de un servicio personal subordinado:
-
-a) Que sean poseídas por una misma persona física o moral en más del 50% de las acciones o partes sociales con derecho a voto de las mismas.
-
-b) Cuando una misma persona física o moral ejerza control efectivo de ellas, aun cuando no determinen resultado fiscal consolidado. Se entiende que existe control efectivo, cuando se dé alguno de los siguientes supuestos:
-
-1. Cuando las actividades mercantiles de la sociedad de que se trate se realizan preponderantemente con la sociedad controladora o las controladas.
-
-2. Cuando la controladora o las controladas tengan junto con otras personas físicas o morales vinculadas con ellas, una participación superior al 50% en las acciones con derecho a voto de la sociedad de que se trate. En el caso de residentes en el extranjero, sólo se considerarán cuando residan en algún país con el que se tenga acuerdo amplio de intercambio de información.
-
-3. Cuando la controladora o las controladas tengan una inversión en la sociedad de que se trate, de tal magnitud que de hecho les permita ejercer una influencia preponderante en las operaciones de la empresa.
-
-Para los efectos de este numeral, se consideran sociedades controladoras o controladas las que en los términos de la Ley del Impuesto sobre la Renta se consideren como tales.
+Artículo Tercero. (DEROGADO POR ARTICULO CUARTO DE LAS DISPOSICIONES DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO SOBRE LA RENTA DEL DECRETO QUE REFORMA DIVERSAS DISPOSICIONES FISCALES, D.O.F. 31 DE DICIEMBRE DE 2003)
 
 Disposiciones Transitorias del impuesto sustitutivo del crédito al salario
 
@@ -6237,3 +6249,29 @@ Cuando el monto del crédito al salario pagado a los trabajadores en los términ
 ## Transitorio
 
 Único. El presente Decreto entrará en vigor el 1o. de enero de 2003.
+
+D.O.F. 31 DE DICIEMBRE DE 2003.
+
+ARTÍCULOS TRANSITORIOS DEL ARTÍCULO SEGUNDO RELATIVO A LA LEY DEL IMPUESTO SOBRE LA RENTA
+
+ÚNICO.- Tratándose del convenio a que se refiere el párrafo último del artículo 139 de la presente Ley y con la finalidad de promover la equidad, fortalecer el esquema de federalismo y fortalecer las finanzas públicas, la Federación deberá establecer estímulos a las Entidades Federativas y los Municipios sobre la ampliación de la base de contribuyentes por el cobro que motivará el citado convenio.
+
+Los Municipios y las Entidades Federativas que celebren el convenio recibirán una participación del 100% de la recaudación del impuesto a que se refiere el convenio mencionado en el artículo 139 de la Ley del Impuesto sobre la Renta distribuido en partes iguales.
+
+Disposición de vigencia anual de la Ley del Impuesto sobre la Renta
+
+###### ARTÍCULO TERCERO.
+
+Para los efectos de lo dispuesto en la fracción I, inciso a), numeral 2, del artículo 195 de la Ley del Impuesto sobre la Renta, durante el ejercicio de 2004, los intereses a que hace referencia dicha fracción podrán estar sujetos a una tasa de 4.9%, siempre que el beneficiario efectivo de los intereses mencionados en este artículo sea residente de un país con el que se encuentre en vigor un tratado para evitar la doble tributación y se cumplan los requisitos previstos en dicho tratado para aplicar las tasas que en el mismo se prevean para este tipo de intereses.
+
+Impuesto Sustitutivo del Crédito al Salario
+
+###### ARTÍCULO CUARTO.
+
+Se deroga el Artículo Tercero del Impuesto Sustitutivo del Crédito al Salario del Decreto por el que se expide la Ley del Impuesto sobre la Renta publicado en el Diario Oficial de la Federación el 1 de enero de 2002.
+
+## TRANSITORIOS
+
+PRIMERO. El presente Decreto entrará en vigor a partir del 1 de enero de 2004.
+
+SEGUNDO. Para los efectos de lo dispuesto en el artículo 2-C de la Ley del Impuesto al Valor Agregado, los pagos correspondientes a los meses de enero, febrero, marzo y abril del 2004, se pagarán durante el mes de mayo de dicho año.
