@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-urbano-del-estado-de-san-luis-potosi-21373"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-07"
-last_updated: "2003-02-01"
+last_updated: "2003-09-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 2003.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de octubre de 2000.
 
@@ -2255,9 +2255,19 @@ I. Que se ubiquen a una distancia de resguardo mínima de ciento cincuenta metro
 
 II. Que se ubiquen a una distancia de resguardo de un kilómetro, contado a partir de los límites de propiedad del predio en cuestión, de la industria de alto riesgo que emplee productos químicos, soldadura o gas, se dedique a la fundición o utilice fuego o combustión;
 
-III. Que se ubiquen a una distancia de resguardo de dos kilómetros, contados a partir de los límites de otra que se encuentre previamente autorizada su construcción o en funcionamiento;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
+
+III. Que se ubiquen a una distancia de resguardo de dos kilómetros a la redonda, contados a partir de los límites de otra que se encuentre previamente autorizada su construcción o en funcionamiento.
+
+Se podrá aprobar la instalación y funcionamiento de sólo una Estación de Servicio denominada Gasolinera dentro de la propiedad de un centro comercial, sin perjuicio de lo establecido en el párrafo anterior, siempre y cuando éste cumpla con el mínimo de estacionamientos permitidos por la legislación en la materia, y sea factible la instalación de la Estación de Servicio denominada Gasolinera dentro de los Planes de Desarrollo Urbano Municipales.
+
+Aquellos centros de población que cuenten con menos de cien mil habitantes, no estarán sujetos a lo dispuesto en esta fracción.
 
 IV. Que tratándose de carreteras se ubiquen a una distancia de treinta kilómetros de otra que se encuentre previamente autorizada su construcción o en funcionamiento, sobre la misma vialidad o carril contrario;
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
+
+Aquellos centros de población de menos de veinte mil habitantes que se encuentren a una distancia menor de treinta kilómetros, uno del otro, no estarán sujetos a lo dispuesto en esta fracción.
 
 V. Que tratándose de autopistas en las que exista camellón o muro de contención de por medio, se ubiquen a una distancia de treinta kilómetros de otra que se encuentre previamente autorizada su construcción o en funcionamiento sobre la misma vialidad, y
 
@@ -3624,3 +3634,9 @@ P.O. 1 DE FEBRERO DE 2003.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones y ordenamientos legales que se opongan al presente Decreto.
+
+P.O. 16 DE SEPTIEMBRE DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones y ordenamientos legales que se opongan a este Decreto.
