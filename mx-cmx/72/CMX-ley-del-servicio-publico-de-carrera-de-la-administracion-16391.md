@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-servicio-publico-de-carrera-de-la-administracion-16391"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-13"
-last_updated: "2000-06-13"
+last_updated: "2002-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16391&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-06-05"
 
 LEY DEL SERVICIO PUBLICO DE CARRERA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE ENERO DE 2002.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 13 de junio de 2000.
 
@@ -46,9 +46,11 @@ LEY DEL SERVICIO PÚBLICO DE CARRERA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO
 
 ### Capítulo Único. Del Objeto, Ámbito de Aplicación, Principios y Sujetos de la Ley
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE ENERO DE 2002)</small>
+
 ###### Artículo 1°.
 
-La presente Ley es de orden público y de observancia general y tiene por objeto establecer el Servicio Público de Carrera de la Administración Pública del Distrito Federal.
+La presente Ley es de orden público y de observancia general y tiene por objeto establecer y normar el Servicio Público de Carrera de la Administración Pública del Distrito Federal.
 
 El Servicio Público de Carrera es el instrumento para la profesionalización de los servidores públicos de la Administración Pública del Distrito Federal que señala la presente Ley; se sustenta en el mérito, la igualdad de oportunidades y el desarrollo permanente, con el propósito de que la Administración Pública cumpla con sus programas y alcance sus metas con base en la actuación de personal calificado que preste servicios de calidad, con imparcialidad, libre de prejuicios, con lealtad a la institución, de manera continua, uniforme, regular y permanente, para satisfacer las necesidades y responder a las demandas de los habitantes del Distrito Federal.
 
@@ -58,7 +60,9 @@ La organización y desarrollo del Servicio Público de Carrera se llevará a cab
 
 Esta Ley es de aplicación obligatoria para la Administración Pública Central y Desconcentrada del Distrito Federal.
 
-Las Entidades de la Administración Pública Paraestatal contarán con sistemas propios de Servicio Público de Carrera. Tales sistemas observarán en lo conducente, los principios generales establecidos en esta Ley.
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
+
+Las Entidades de la Administración Pública Paraestatal contarán con sistemas propios de Servicio Público de Carrera.
 
 ###### Artículo 3°.
 
@@ -80,17 +84,45 @@ VII. Plaza: La posición individual de trabajo que no puede ser ocupada por más
 
 VIII. Principios: Los principios generales rectores del Sistema que son el mérito, la igualdad de oportunidades, la legalidad, la honradez, la lealtad, la imparcialidad, la eficiencia, la profesionalización y la eficacia;
 
-IX. Programa Operativo Específico: El emitido por los Comités, que establece el diseño y la implementación de acciones del Servicio Público de Carrera al interior de cada dependencia, unidad administrativa u órgano desconcentrado;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
 
-X. Programa Operativo Global: El emitido por el Consejo y que establece las políticas, estrategias y líneas de acción a que debe sujetarse el Sistema;
+IX. Capacidad: Habilidad para realizar las funciones asignadas a través de la estructuración de programas y procesos de trabajo para el cumplimiento de los objetivos;
 
-XI. Puesto: La unidad impersonal de trabajo que se caracteriza por tener tareas y deberes específicos, lo cual le asigna un grado de responsabilidad. Pueden existir una o varias plazas que correspondan al mismo puesto;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
 
-XII. Servidor Público de Carrera: Los Servidores Públicos que ocupen los puestos que se precisan en el Artículo 5°, de la presente Ley;
+X. Desempeño: Rendimiento alcanzado al cumplir con los programas, objetivos y metas establecidos en el ejercicio de las funciones asignadas;
 
-XIII. Sistema: El Sistema Integral del Servicio Público de Carrera de la Administración Pública del Distrito Federal, y
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
 
-XIV. Tabulador: El Tabulador General del Servicio Público de Carrera de la Administración Pública del Distrito Federal.
+XI. Mérito: Cualidades, habilidades y acciones que hacen al Servidor Público de Carrera merecedor del puesto que ocupa o de la promoción de que sea sujeto dentro del Servicio Público de Carrera;
+
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
+
+XII. Programa Operativo Específico: El emitido por los Comités, que establece el diseño y la implementación de acciones del Servicio Público de Carrera al interior de cada dependencia, unidad administrativa u órgano desconcentrado;
+
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
+
+XIII. Programa Operativo Global: El emitido por el Consejo y que establece las políticas, estrategias y líneas de acción a que debe sujetarse el Sistema;
+
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
+
+XIV. Puesto: La unidad impersonal de trabajo que se caracteriza por tener tareas y deberes específicos, lo cual le asigna un grado de responsabilidad. Pueden existir una o varias plazas que correspondan al mismo puesto;
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
+
+XV. Personal de confianza: Para los efectos de la Ley, aquel que ocupe alguno de los puestos descritos en el artículo 5 de la misma;
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
+
+XVI. Servidor Público de Carrera: Los Servidores Públicos que ocupen los puestos que se precisan en el artículo 5, de la presente Ley;
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
+
+XVII. Sistema: El Sistema Integral del Servicio Público de Carrera de la Administración Pública del Distrito Federal; y
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
+
+XVIII. Tabulador: El Tabulador General del Servicio Público de Carrera de la Administración Pública del Distrito Federal.
 
 ###### Artículo 4°.
 
@@ -122,15 +154,15 @@ No serán considerados como Servidores Públicos de Carrera de la Administració
 
 I. Los electos por vía de sufragio, directa o indirectamente;
 
-II. Los de libre designación, entendidos como aquellos que designe el Jefe de Gobierno del Distrito Federal o los titulares de las dependencias, unidades administrativas u órganos desconcentrados, en uso de sus facultades legales y reglamentarias, y de acuerdo a lo dispuesto por la presente Ley y por las disposiciones jurídicas y administrativas que de ella se deriven;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
+
+II. Los de libre designación, entendidos como aquellos que designe el Jefe de Gobierno del Distrito Federal o los titulares de las dependencias, unidades administrativas u órganos desconcentrados, en uso de sus facultades legales y reglamentarias, siempre que no se contravenga lo dispuesto por la presente Ley y por las disposiciones jurídicas y administrativas que de ella se deriven;
 
 III. Los de la Secretaría de Seguridad Publica y de la Procuraduría General de Justicia del Distrito Federal;
 
 IV. Los del magisterio que dependan de la Administración Pública del Distrito Federal y que estén comprendidos en el Sistema de Carrera Magisterial;
 
-V. El personal médico, paramédico y enfermeras que están adscritos a la Administración Pública del Distrito
-
-Federal y que tengan un sistema escalafonario;
+V. El personal médico, paramédico y enfermeras que están adscritos a la Administración Pública del Distrito Federal y que tengan un sistema escalafonario;
 
 VI. El personal que sea sindicalizado y que labore en la Administración Pública del Distrito Federal;
 
@@ -156,7 +188,7 @@ El Programa General de Desarrollo del Distrito Federal, y los programas que de �
 
 El Consejo, podrá acordar la implementación de instrumentos de participación ciudadana, de conformidad con la ley de la materia y con la normatividad aplicable, a efecto de diseñar e implementar las acciones y políticas para mejorar el Sistema.
 
-## TÍTULO SEGUNDO. DEL SERVICIO PÚBLICO DE CARRERA DE LA ADMIINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
+## TÍTULO SEGUNDO. DEL SERVICIO PÚBLICO DE CARRERA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
 ### Capítulo Primero. De las Bases de Organización del Servicio Público de Carrera
 
@@ -168,7 +200,9 @@ I. El Sistema;
 
 II. El Catálogo, que define los perfiles, niveles y puntuación de los puestos comprendidos en el Sistema, que será expedido por el Oficial Mayor, previa opinión del Consejo, con base en la lista de puestos que para tal efecto establezca el Reglamento;
 
-III. El Tabulador, que es el instrumento técnico en el que se fijan y ordenan por el nivel salarial las remuneraciones para los puestos señalados en el artículo 5° de esta Ley, y descrito en el Catálogo, con una estructura salarial equitativa, que ofrezca un esquema de remuneración acorde a las exigencias de profesionalización de los Servidores Públicos de Carrera. Este tabulador será elaborado por la Secretaría de Finanzas y autorizado por la Oficialía Mayor, previa opinión del Consejo; con base en la lista de puestos que para tal efecto establezca el Reglamento;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
+
+III. El Tabulador, que es el instrumento técnico en el que se fijan y ordenan por el nivel salarial las remuneraciones para los puestos señalados en el artículo 5° de esta Ley, y descrito en el Catálogo, con una estructura salarial equitativa, que ofrezca un esquema de remuneración acorde a las exigencias de profesionalización de los Servidores Públicos de Carrera. Este tabulador será elaborado y autorizado por la Oficialía Mayor, previa opinión del Consejo; con base en la lista de puestos que para tal efecto establezca el reglamento;
 
 IV. La estabilidad y seguridad administrativa de los Servidores Públicos de Carrera, así como el establecimiento de reglas claras, justas y equitativas para su ingreso, desarrollo, y profesionalización, promoviendo así la responsabilidad, eficiencia y eficacia en el servicio público;
 
@@ -382,9 +416,11 @@ VII. Recibir y registrar los dictámenes y resoluciones que emitan el Consejo y 
 
 VIII. Las demás que establezca la presente Ley y las disposiciones jurídicas y administrativas que de ella se deriven.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE ENERO DE 2002)</small>
+
 ###### Artículo 29.
 
-El Consejo contará con un órgano de apoyo encargado de las siguientes funciones:
+El Consejo contará con un órgano de apoyo que dependerá de la Oficialía Mayor, encargado de las siguientes funciones:
 
 I. Diseñar e implementar los programas de profesionalización para los Servidores Públicos de Carrera de la Administración Pública del Distrito Federal, de acuerdo a las necesidades de las dependencias, órganos desconcentrados y unidades administrativas; así como a las directrices que dicte el Consejo, y a las solicitudes de los Comités;
 
@@ -474,15 +510,15 @@ II. Un curso básico de formación y las prácticas que determine el órgano aux
 
 III. Los cursos especiales y exámenes específicos que se dispongan.
 
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
+
 ###### Artículo 38.
 
-La implementación de la fase de selección estará a cargo del órgano auxiliar del Consejo, previa solicitud del Comité correspondiente.
+La implementación de la fase de selección estará a cargo del órgano auxiliar del Consejo, previa solicitud del Comité correspondiente. Esta fase en ningún caso excederá de seis meses.
 
 ###### Artículo 39.
 
-Los aspirantes que estén en la fase de selección podrán recibir un estipendio durante el tiempo que dure esta fase, que en ningún caso excederá de seis meses.
-
-El Comité determinará si en un proceso de selección se otorgarán estipendios a los aspirantes, y previo dictamen de la Secretaría de Finanzas se establecerán los montos y condiciones correspondientes. Dichos montos y condiciones deberán ser fijados desde la convocatoria respectiva.
+(DEROGADO, G.O. 31 DE ENERO DE 2002)
 
 ###### Artículo 40.
 
@@ -544,7 +580,9 @@ II. En los casos de los puestos señalados en las fracciones I, II y III del art
 
 La profesionalización de los Servidores Públicos de Carrera tiene por objeto fomentar su formación, a fin de que cuenten con las aptitudes, conocimientos, habilidades, y destrezas para desempeñar la función pública con calidad y eficiencia.
 
-La profesionalización se llevará cabo a través de los siguientes programas:
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
+
+La profesionalización se llevará a cabo a través de los siguientes programas:
 
 I. Actualización, y
 
@@ -728,7 +766,9 @@ Son causas de baja del Servicio Público de Carrera;
 
 I. Dejar de participar sin causa justificada en los cursos que al efecto se establezcan;
 
-II. Dejar de prestar el Servicio Público sin causa justificada por más de seis meses;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
+
+II. Dejar de prestar el Servicio Público sin causa justificada por cinco días consecutivos;
 
 III. La renuncia al cargo, empleo o comisión que ocupe;
 
@@ -752,7 +792,9 @@ II. El resultado de la evaluación practicada a sus exámenes;
 
 III. La resolución de baja del Servidor Público de Carrera; y
 
-IV. La resolución que niegue el ingreso al Servicio Público de Carrera.
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
+
+IV. La resolución que niegue el ingreso o reingreso al Servicio Público de Carrera.
 
 ###### Artículo 78.
 
@@ -762,18 +804,34 @@ En contra de las resoluciones que dicte el Consejo en los recursos de inconformi
 
 ## TRANSITORIOS
 
-PRMERO. La presente Ley entrará en vigor el 1° de enero del 2001. Las disposiciones contenidas en los Títulos Tercero, Cuarto, Quinto, Sexto entrarán en vigor el 1° de Julio del 2001.
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
+
+PRIMERO. La presente Ley entrará en vigor el 1° de enero de 2001. Los procedimientos descritos en los Títulos Tercero, Cuarto y Quinto de la Ley, entrarán en vigor el 1° de julio de 2004.
 
 SEGUNDO. El Consejo Directivo del Sistema Integral del Servicio Público de Carrera de la Administración Pública del Distrito Federal, deberá quedar instalado a más tardar 90 días después de la entrada en vigor de la presente Ley. Los Comités Técnicos de las Dependencias, Unidades Administrativas u Organos Desconcentrados, deberán quedar instalados a más tardar 60 días después de instalado el Consejo. En la instalación, no será necesario que los servidores que integren los Comités sean de carrera, aunque sí deberán tener los puestos y funciones que se señalan en el artículo 23 de esta Ley.
 
-TERCERO. El Catálogo y Tabulador a que aluden las fracciones II y III del artículo 10 de esta Ley deberán presentarse para su opinión al Consejo Directivo a más tardar 90 días después de instalado el Consejo.
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
 
-CUARTO. Los Servidores Públicos que al 1° de Julio del 2001 se encuentren desempeñando algunos de los puestos a que aluden el artículo 5° de esta Ley podrán cumplir con lo dispuesto en las fracciones I y II del artículo 37 y, una vez satisfecho ese requisito, se les expedirá el nombramiento respectivo en términos de lo dispuesto por los artículos 45 y 46, párrafos primero y tercero. En estos casos no se exigirá lo requerido en el artículo 32, fracción IV, de esta Ley.
+TERCERO. El Catálogo y Tabulador a que aluden las fracciones II y III del artículo 10 de esta Ley deberán presentarse para su opinión al Consejo Directivo a más tardar el 30 de enero del 2004.
 
-QUINTO. Las vacantes que se den a partir del 1° de Julio del año 2001 invariablemente se sujetarán a los procedimientos de ingreso y promoción establecidos en la misma.
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
+
+CUARTO. Los servidores públicos que al 1° de julio del 2004 se encuentren desempeñando alguno de los puestos a los que alude el artículo 5° de esta Ley, podrán cumplir con lo dispuesto en las fracciones I y II del artículo 37 y, una vez satisfecho este requisito, se les expedirá el nombramiento respectivo en términos de lo dispuesto por los artículos 45 y 46, párrafos primero y tercero. En estos casos no se exigirá lo requerido por el artículo 32, fracción IV, de esta Ley.
+
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
+
+QUINTO. Las vacantes que se den a partir del 1° de julio del 2004 se sujetarán a los procedimientos de ingreso y promoción establecidos en la Ley.
 
 SEXTO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 Salón de sesiones de la Asamblea Legislativa del Distrito Federal, a 28 de abril de dos mil.- POR LA MESA DIRECTIVA.- DIP. MARIA DE LOS ANGELES CORREA DE LUCIO, PRESIDENTA.- DIP. ELVIRA ALBARRAN RODRIGUEZ, SECRETARIA.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia de la Jefa de Gobierno del Distrito Federal, en la Ciudad de México, a los cinco días del mes de junio de dos mil.- LA JEFA DE GOBIERNO DEL DISTRITO FEDERAL, ROSARIO ROBLES BERLANGA.- FIRMA.- EL SECRETARIO DE GOBIERNO, LEONEL GODOY RANGEL.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 31 DE ENERO DE 2002.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión será publicado en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a lo establecido en el presente Decreto.
