@@ -4,7 +4,7 @@ identifier: "LGOAAC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1985-01-14"
-last_updated: "1995-11-17"
+last_updated: "1996-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=317&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGOAAC"
 
 LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE NOVIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 1996.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de enero de 1985.
 
@@ -214,7 +214,7 @@ Sólo podrá revocarse el nombramiento de estos consejeros cuando se revoque el 
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-VI.- El número de administradores no podrá ser inferior de cinco, salvo el caso de uniones de crédito en que no será inferior a siete, y en ambos casos actuarán constituidos en consejo de administración;
+VI. El número de administradores no podrá ser inferior de cinco, salvo el caso de uniones de crédito en que no será inferior a siete, y en ambos casos actuarán constituidos en consejo de administración;
 
 > <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -264,9 +264,15 @@ Las leyes mercantiles, los usos mercantiles imperantes entre las organizaciones 
 
 ### CAPITULO I. De los Almacenes Generales de Depósito
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE ABRIL DE 1996)</small>
+
 ###### ARTICULO 11.
 
-Los almacenes generales de depósito tendrán por objeto el almacenamiento, guarda o conservación de bienes o mercancías y la expedición de certificados de depósito y bonos de prenda. También podrán realizar la transformación de las mercancías depositadas a fin de aumentar el valor de éstas, sin variar esencialmente su naturaleza. Sólo los almacenes generales de depósito estarán facultados para expedir certificados de depósito y bonos de prenda.
+Los almacenes generales de depósito tendrán por objeto el almacenamiento, guarda o conservación, manejo, control, distribución o comercialización de bienes o mercancías bajo su custodia o que se encuentren en tránsito, amparados por certificados de depósito y el otorgamiento de financiamientos con garantía de los mismos. También podrán realizar procesos de incorporación de valor agregado, así como la transformación, reparación y ensamble de las mercancías depositadas a fin de aumentar su valor, sin variar esencialmente su naturaleza. Sólo los almacenes estarán facultados para expedir certificados de depósito y bonos de prenda.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 1996)</small>
+
+Los almacenes facultados para recibir mercancías destinadas al régimen de depósito fiscal, podrán efectuar en relación a esas mercancías, los procesos antes mencionados en los términos de la Ley Aduanera.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -274,19 +280,25 @@ Los certificados podrán expedirse con o sin bonos de prenda, según lo solicite
 
 El bono o bonos expedidos podrán ir adheridos al certificado o separados de él.
 
-Los almacenes llevarán un registro de los certificados y bonos de prenda que se expidan, en el que se anotarán todos los datos contenidos en dichos títulos, incluyendo los derivados del aviso de la institución de crédito que intervenga en la primera negociación del bono.
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1996)</small>
+
+Los almacenes llevarán un registro de los certificados y bonos de prenda que se expidan, en el que se anotarán todos los datos contenidos en dichos títulos, incluyendo en su caso, los derivados del aviso de la institución de crédito que intervenga en la primera negociación del bono. Este registro deberá instrumentarse conforme a las reglas de carácter general que emita la Comisión Nacional Bancaria y de Valores.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 Los almacenes generales de depósito podrán expedir certificados de depósito por mercancías en tránsito, en bodegas o en ambos supuestos, siempre y cuando esta circunstancia se mencione en el cuerpo del certificado. Estas mercancías deberán ser aseguradas en tránsito por conducto del almacén que expida los certificados respectivos, el cual deberá asumir la responsabilidad del traslado hasta la bodega de destino, en donde seguirá siendo depositario de la mercancía hasta el rescate de los certificados de depósito y los bonos de prenda, en el caso de que los productos hayan sido pignorados.
 
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 1996)</small>
+
+Para los efectos de aseguramiento de la mercancía en tránsito, según se prevé en el párrafo que antecede, el almacén podrá contratar directamente el seguro respectivo, apareciendo como beneficiario en la póliza que al efecto fuere expedida por la compañía aseguradora correspondiente, o bien en el caso de mercancía previamente asegurada, podrá obtener el endoso en su favor de la póliza respectiva.
+
 Los documentos de embarque deberán estar expedidos o endosados a los almacenes.
 
 Además de las actividades señaladas en los párrafos anteriores, los almacenes generales de depósito podrán realizar las siguientes actividades:
 
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-I. Prestar servicios de comercialización y transporte de bienes o mercancías, sin que éstos constituyan su actividad preponderante;
+I. Prestar servicios de guarda o conservación, manejo, control, distribución, transportación y comercialización, así como los demás relacionados con el almacenamiento, de bienes o mercancías, que se encuentren bajo su custodia, sin que éstos constituyan su actividad preponderante;
 
 > <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -294,41 +306,53 @@ II. Certificar la calidad así como valuar los bienes o mercancías;
 
 III. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
 
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-IV. Empacar y envasar los bienes y mercancías recibidos en depósito por cuenta de los depositantes o titulares de los certificados de depósito así como colocar los marbetes respectivos;
+IV. Empacar y envasar los bienes y mercancías recibidos en depósito por cuenta de los depositantes o titulares de los certificados de depósito, así como colocar los marbetes, sellos o etiquetas respectivos;
 
-> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-V. Otorgar financiamientos con garantía de bienes o mercancías almacenados en bodegas de su propiedad o en bodegas arrendadas que administren directamente y que estén amparados con bonos de prenda;
+V. Otorgar financiamientos con garantía de bienes o mercancías almacenados en bodegas de su propiedad o en bodegas arrendadas que administren directamente y que estén amparados con bonos de prenda, así como sobre mercancías en tránsito amparadas con certificados de depósito;
 
 > <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
 VI. Obtener préstamos y créditos de instituciones de crédito, de seguros y de fianzas del país o de entidades financieras del exterior, destinados al cumplimiento de su objeto social;
 
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1996)</small>
+
+VII. Emitir obligaciones subordinadas y demás títulos de crédito, en serie o en masa, para su colocación entre el gran público inversionista;
+
 > <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
-VII. Emitir obligaciones subordinadas y demás títulos de crédito, en serie o en masa, para su colocación entre el gran público inversionista; y
+VIII. Descontar, dar en garantía o negociar los títulos de crédito y afectar los derechos provenientes de los contratos de financiamiento que realicen con sus clientes o de las operaciones autorizadas a los almacenes generales de depósito, con las personas de las que reciban financiamiento en términos de la fracción VI anterior así como afectar en fideicomiso irrevocable los títulos de crédito y los derechos provenientes de los contratos de financiamiento que celebren con sus clientes a efecto de garantizar el pago de las emisiones a que se refiere la fracción VII de este artículo;
 
-> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 1993)</small>
+> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-VIII. Descontar, dar en garantía o negociar los títulos de crédito y afectar los derechos provenientes de los contratos de financiamiento que realicen con sus clientes o de las operaciones autorizadas a los almacenes generales de depósito, con las personas de las que reciban financiamiento en términos de la fracción VI anterior así como afectar en fideicomiso irrevocable los títulos de crédito y los derechos provenientes de los contratos de financiamiento que celebren con sus clientes a efecto de garantizar el pago de las emisiones a que se refiere la fracción VII de este artículo.
+IX. Gestionar por cuenta y nombre de los depositantes, el otorgamiento de garantías en favor del fisco federal, respecto de las mercancías almacenadas por los mismos, a fin de garantizar el pago de los impuestos, conforme a los procedimientos establecidos en la Ley Aduanera;
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 15 DE JULIO DE 1993)</small>
+> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 1996)</small>
+
+X. Prestar servicios de depósito fiscal, así como cualesquier otros expresamente autorizados a los almacenes generales de depósito en los términos de la Ley Aduanera; y
+
+> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 1996)</small>
+
+XI. Las demás operaciones análogas y conexas que, mediante reglas de carácter general, autorice la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria y de Valores.
+
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1996)</small>
 
 ###### ARTICULO 12.
 
-Los almacenes generales de depósito podrán ser de dos clases:
+Los almacenes generales de depósito podrán ser de tres clases:
 
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
+I.- Los que se destinen a recibir en depósito bienes o mercancías de cualquier clase y realicen las demás actividades a que se refiere esta Ley, a excepción del régimen de depósito fiscal y otorgamiento de financiamientos;
 
-I. Los que se destinen a recibir en depósito bienes o mercancías de cualquier clase, por los que se hayan pagado los impuestos correspondientes; y
+II.- Los que además de estar facultados en los términos señalados en la fracción anterior, lo estén también para recibir mercancías destinadas al régimen de depósito fiscal, y
 
-II. Los que además de estar facultados en los términos señalados en la fracción anterior, lo estén también para recibir mercancías destinadas al régimen de depósito fiscal.
+III.- Los que además de estar facultados en los términos de alguna de las fracciones anteriores, otorguen financiamientos conforme a lo previsto en esta Ley, debiendo sujetarse a los requerimientos mínimos de capitalización que al efecto establezca la Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general.
 
-En todo caso, deberán sujetarse a las disposiciones correspondientes que prevé la Ley Aduanera, sobre las mercancías que no podrán ser objeto del régimen de depósito fiscal y las medidas de control que deban implantar para mantener una separación material completa de los lugares que se destinan para el depósito, manejo y custodia de las mercancías sometidas a este régimen.
+Tratándose de los almacenes a que se refieren las fracciones II y en su caso III de este artículo, deberán sujetarse a las disposiciones correspondientes que prevé la Ley Aduanera, sobre las mercancías que no podrán ser objeto del régimen de depósito fiscal y las medidas de control que deban implantar para mantener aislada la mercancía sometida a este régimen, conforme a lo que establezca la mencionada Ley.
 
-La Secretaría de Hacienda y Crédito Público, en una lista que al efecto formule para conocimiento de los almacenes, señalará expresamente los productos, bienes o mercancías que no podrán ser objeto de su depósito fiscal en los almacenes a que se refiere esta fracción.
+La Secretaría de Hacienda y Crédito Público, en una lista que al efecto formule para conocimiento de los almacenes, señalará expresamente los productos, bienes o mercancías que no podrán ser objeto de su depósito fiscal en los almacenes a que se refieren las fracciones II y en su caso III.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -354,19 +378,21 @@ Los almacenes generales de depósito que hayan de recibir mercancías destinadas
 
 El capital y reservas de capital de los almacenes generales de depósito deberá estar invertido:
 
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
 I. En el establecimiento de bodegas, plantas de transformación y oficinas propias de la organización; en el acondicionamiento de bodegas ajenas cuyo uso adquiera el almacén en los términos de esta Ley; en el equipo de transporte, maquinaria, útiles, herramienta y equipo necesario para su funcionamiento; en acciones de sociedades que se organicen exclusivamente para adquirir el dominio y administrar edificios, y siempre que en algún edificio propiedad de esa sociedad tenga establecida o establezca su oficina principal o alguna sucursal o dependencia el almacén general de depósito accionista; y en acciones de las sociedades a que se refiere el artículo 68 de esta Ley. La inversión en acciones y los requisitos que deban satisfacer las sociedades a que se refiere esta fracción, se sujetarán a las reglas generales que dicte la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria.
 
-> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-El importe total de estas inversiones, menos la parte insoluta de los créditos que reciban los almacenes para el mismo fin, no deberá ser inferior al setenta por ciento de la suma del capital pagado y reservas de capital.
+La Secretaría de Hacienda y Crédito Público establecerá mediante disposiciones de carácter general, el importe total de estas inversiones en relación a la suma del capital pagado y reservas de capital.
 
 > <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 1993)</small>
 
 Los almacenes generales de depósito deberán contar con los locales propios para bodegas, desde el inicio de sus operaciones así como con la superficie y capacidad mínima obligatorias que se fijen para cada nivel, en las reglas que al efecto expida la Secretaría de Hacienda y Crédito Público;
 
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-II. En financiamientos con garantía de bienes o mercancías depositados, amparados con bonos de prenda; en anticipos con garantía de los bienes y mercancías depositados, que se destinen al pago de empaques, fletes, seguros, impuestos a la importación o a la exportación y operaciones de transformación de esos mismos bienes y mercancías, haciéndose constar el anticipo en los títulos relativos que expidan los almacenes; y
+II. En financiamientos con garantía de bienes o mercancías depositados, amparados con bonos de prenda; en anticipos con garantía de los bienes y mercancías depositados, que se destinen en pago de empaques, fletes, seguros, impuestos a la importación o a la exportación y operaciones de transformación de esos mismos bienes y mercancías, haciéndose constar el anticipo en los títulos relativos que expidan los almacenes; en cartera de créditos prendarios, y en inventarios de las mercancías que comercialicen; y
 
 III. En monedas circulantes en la República o en depósitos a la vista o a plazo en el Banco de México o en instituciones de crédito, o en certificados de depósito bancario, o en saldos bancarios en cuenta de cualquier clase, o en créditos expresados en letras de cambio, pagarés y demás documentos mercantiles con una firma, al menos, de institución de crédito y siempre que sea a plazo no superior a ciento ochenta días, o también en letras, pagarés y demás documentos mercantiles que procedan a operaciones de compraventa de mercancías efectivamente realizadas, a plazo no mayor de noventa días, así como en valores de renta fija aprobados para el efecto por la Comisión Nacional de Valores.
 
@@ -440,9 +466,11 @@ Asimismo, se suspenderá en sus funciones al bodeguero habilitado y no podrá se
 
 Los almacenes generales de depósito podrán actuar como corresponsales de instituciones de crédito, así como de otros almacenes generales de depósito o de empresas de servicios complementarios a éstos, nacionales o extranjeros, en operaciones relacionadas con las que les son propias; también podrán conceder corresponsalías a dichas instituciones, almacenes o empresas en las operaciones antes citadas; tomar seguro por cuenta ajena por las mercancías depositadas; gestionar la negociación de bonos de prenda por cuenta de sus depositantes; efectuar el embarque de las mercancías, tramitando los documentos correspondientes y prestar todos los servicios técnicos necesarios a la conservación y salubridad de las mercancías.
 
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1996)</small>
+
 ###### ARTICULO 20.
 
-Los almacenes generales de depósito podrán dar el (sic) arrendamiento alguno o algunos de sus locales, previa autorización de la Comisión Nacional Bancaria, quien la otorgará cuando a su juicio concurran circunstancias que justifiquen la solicitud, señalando las condiciones qu (sic) en su caso se deban cumplir.
+Los almacenes generales de depósito podrán dar en arrendamiento alguno o algunos de sus locales, cuando concurran circunstancias que lo justifiquen, así como asignar áreas en sus bodegas propias y arrendadas, al almacenamiento exclusivo de mercancías recibidas para su custodia por un mismo depositante y, por ende no amparadas por certificado de depósito, previo aviso dado a la Comisión Nacional Bancaria y de Valores, siempre y cuando dichas actividades no constituyan una actividad preponderante.
 
 ###### ARTICULO 21.
 
@@ -466,9 +494,13 @@ III. Los remates se harán en las oficinas o bodegas del almacén en presencia d
 
 IV. Será postura legal, a falta de estimación fijada al efecto en el certificado de depósito, la que cubra al contado el importe del adeudo que hubiere en favor de los almacenes y, en su caso, el del préstamo que el bono o los bonos de prenda garanticen, teniendo los almacenes, si no hubiera postor, derecho a adjudicarse las mercancías o efectos por la postura legal; y
 
-V. Cuando no hubiere postor ni los almacenes se adjudicaren las mercancías o efectos rematados, podrán proceder a nuevas almonedas, previo el aviso respectivo, haciendo en cada una de ellas un descuento del 50% sobre el precio fijado como base para la almoneda anterior.
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-Cuando el producto de la venta de la mercancía o bienes depositados no baste a cubrir el adeudo a favor de los almacenes generales de depósito, por el saldo insoluto, éstos tendrán expeditas sus acciones en la vía legal correspondiente contra el depositante original.
+V.- Cuando no hubiere postor, ni los almacenes se adjudicaren las mercancías o efectos rematados, podrán proceder a nuevas almonedas, previo el aviso respectivo, haciendo en cada una de ellas un descuento no mayor del cincuenta por ciento sobre el precio fijado como base para la almoneda anterior.
+
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1996)</small>
+
+Cuando el producto de la venta de la mercancía o bienes depositados no baste para cubrir el adeudo a favor de los almacenes generales de depósito, por el saldo insoluto, éstos tendrán acción a través de la vía ejecutiva mercantil para reclamar al depositante original, el pago del adeudo existente. El convenio de depósito correspondiente junto con el estado de cuenta certificado por el contador del almacén de que se trate, será título ejecutivo sin necesidad de reconocimiento de firma ni de otro requisito.
 
 > <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -673,6 +705,12 @@ Las arrendadoras financieras, sin perjuicio de mantener el capital mínimo previ
 > <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 Para efectos de este artículo, la Secretaría de Hacienda y Crédito Público, oyendo previamente a la Comisión Nacional Bancaria y al Banco de México, señalará los conceptos que se considerarán integrantes del capital contable de las arrendadoras financieras.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 1996)</small>
+
+###### ARTICULO 37-C.
+
+El importe máximo de las responsabilidades a favor de una arrendadora financiera y a cargo de una sola persona o grupo de personas que, por nexos patrimoniales o de responsabilidad, constituyan riesgos comunes, no excederá de los límites que determine la Secretaría de Hacienda y Crédito Público, oyendo a la Comisión Nacional Bancaria y de Valores.
 
 ###### ARTICULO 38.
 
@@ -1054,7 +1092,7 @@ Cuando las inversiones hechas en los términos de la fracción VI del artículo 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 3 DE ENERO DE 1990)</small>
 
-### CAPITULO III Bis. De las empresas de factoraje financiero
+### CapItulo III Bis. De las empresas de factoraje financiero
 
 > <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -1080,7 +1118,7 @@ V. Constituir depósitos, a la vista y a plazo, en instituciones de crédito del
 
 VI. Adquirir bienes muebles o inmuebles destinados a sus oficinas o necesarios para su operación;
 
-VII. Adquirir acciones de sociedades que se organicen exclusivamente para prestarles servicios, así como para adquirir el dominio y administrar inmuebles en los cuales las empresas de factoraje financiero, tengan establecidas o establezcan su oficina principal, alguna sucursal o una agencia;
+VIl. Adquirir acciones de sociedades que se organicen exclusivamente para prestarles servicios, así como para adquirir el dominio y administrar inmuebles en los cuales las empresas de factoraje financiero, tengan establecidas o establezcan su oficina principal, alguna sucursal o una agencia;
 
 VIII. Prestar servicios de administración y cobranza de derechos de crédito;
 
@@ -1340,7 +1378,9 @@ La solicitud de autorización para constituirse y operar como Filial deberá cum
 
 > <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
-ArtIculo 45 Bis 7.- El capital social de las Filiales estará representado por dos series de acciones. Cuando menos el cincuenta y uno por ciento del capital social de las Filiales se integrará por acciones de la Serie "F". El cuarenta y nueve por ciento restante del capital social podrá integrarse indistinta o conjuntamente por acciones Serie "F" y "B".
+###### ARTICULO 45 Bis 7.
+
+El capital social de las Filiales estará representado por dos series de acciones. Cuando menos el cincuenta y uno por ciento del capital social de las Filiales se integrará por acciones de la Serie "F". El cuarenta y nueve por ciento restante del capital social podrá integrarse indistinta o conjuntamente por acciones Serie "F" y "B".
 
 La totalidad de las acciones Serie "F" deberán ser propiedad en todo momento de una Institución Financiera del Exterior, directa o indirectamente, o de una Sociedad Controladora Filial. Las acciones Serie "B" que no sean propiedad de dicha Institución Financiera del Exterior o Sociedad Controladora Filial, estarán sujetas a lo dispuesto por las fracciones III y IV del artículo 8o. de esta Ley.
 
@@ -1350,13 +1390,7 @@ Las Filiales no podrán emitir acciones de voto limitado.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
-###### ARTICULO 45 Bis 7.
-
-El capital social de las Filiales deberá estar integrado por una sola serie de acciones. Una Institución Financiera del Exterior, directa o indirectamente, o una Sociedad Controladora Filial deberá ser en todo momento propietaria de acciones que representen cuando menos el noventa y nueve por ciento del capital social de la Filial.
-
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
-
-###### Articulo 45 Bis 8.
+###### ARTICULO 45 Bis 8.
 
 Las acciones Serie "F" de una Filial sólo podrán ser enajenadas previa autorización de la Secretaría de Hacienda y Crédito Público.
 
@@ -1396,17 +1430,13 @@ Las Filiales no podrán emitir obligaciones subordinadas, salvo para ser adquiri
 
 > <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
-ArtIculo 45 Bis 11.- El consejo de administración de las Filiales estará integrado por lo menos por cinco consejeros, de entre los cuales la mayoría deberá residir en territorio nacional. Su nombramiento deberá hacerse en asamblea especial para cada serie de acciones. A las asambleas que se reúnan con ese fin, así como aquéllas que tengan el propósito de designar comisarios por cada serie de acciones, les serán aplicables, en lo conducente, las disposiciones para las asambleas generales ordinarias previstas en la Ley General de Sociedades Mercantiles.
+###### ARTICULO 45 Bis 11.
+
+El consejo de administración de las Filiales estará integrado por lo menos por cinco consejeros, de entre los cuales la mayoría deberá residir en territorio nacional. Su nombramiento deberá hacerse en asamblea especial para cada serie de acciones. A las asambleas que se reúnan con ese fin, así como aquéllas que tengan el propósito de designar comisarios por cada serie de acciones, les serán aplicables, en lo conducente, las disposiciones para las asambleas generales ordinarias previstas en la Ley General de Sociedades Mercantiles.
 
 Los propietarios de las acciones Serie "B", en su caso, tendrán derecho a nombrar cuando menos un consejero. Sólo podrá revocarse el nombramiento de los consejeros de minoría, cuando se revoque el de todos los demás de la misma serie.
 
 El presidente del consejo deberá elegirse de entre los propietarios de la Serie "F", y tendrá voto de calidad en caso de empate. Por los propietarios se nombrarán suplentes, los cuales podrán suplir indistintamente a cualesquiera de los propietarios, en el entendido de que dentro de cada sesión, un suplente sólo podrá representar a un propietario.
-
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
-
-###### ARTICULO 45 Bis 11.
-
-El consejo de administración de las Filiales estará integrado por lo menos por cinco consejeros, de entre los cuales la mayoría deberá residir en territorio nacional.
 
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
@@ -1416,13 +1446,9 @@ Los directores generales de las Filiales deberán residir en territorio nacional
 
 > <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
-ArtIculo 45 Bis 13.- El órgano de vigilancia de las Filiales estará integrado por lo menos por un comisario designado por los accionistas de la Serie "F" y, en su caso, un comisario nombrado por los accionistas de la Serie "B", y sus respectivos suplentes.
-
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
-
 ###### ARTICULO 45 Bis 13.
 
-El órgano de vigilancia de las Filiales estará integrado por lo menos por un comisario nombrado por la Institución Financiera del Exterior o por la Sociedad Controladora Filial propietaria de las acciones representativas del capital social de la Filial.
+El órgano de vigilancia de las Filiales estará integrado por lo menos por un comisario designado por los accionistas de la Serie "F" y, en su caso, un comisario nombrado por los accionistas de la Serie "B", y sus respectivos suplentes.
 
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
@@ -1522,7 +1548,7 @@ Las hipotecas a que se refiere este artículo deberán ser inscritas en el Regis
 
 Será aplicable en lo pertinente a las hipotecas a que se refiere este artículo, lo dispuesto en el artículo 214 de la Ley General de Títulos y Operaciones de Crédito.
 
-> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 15 DE julio DE 1993)</small>
 
 ###### ARTICULO 51.
 
@@ -1854,7 +1880,7 @@ Bis.- (DEROGADO, D.O.F. 15 DE JULIO DE 1993)
 
 ### CAPITULO II. De la Revocación y Liquidación
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE JULIO DE 1993)</small>
+(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE JULIO DE 1993))
 
 ###### ARTICULO 78.
 
@@ -2098,11 +2124,11 @@ VI. Si la sociedad no realiza las funciones, ni lleva a cabo las operaciones par
 
 > <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
 
-VII.- Si sus administradores han intervenido en operaciones que infrinjan las disposiciones financieras y cambiarias; y
+VII. Si sus administradores han intervenido en operaciones que infrinjan las disposiciones financieras y cambiarias; y
 
 > <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
 
-VIII.- En cualquier otro establecido por la Ley.
+VIII. En cualquier otro establecido por la Ley.
 
 > <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -2565,3 +2591,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 QUINTO.- Lo establecido en los artículos segundo y tercero transitorios del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley para Regular las Agrupaciones Financieras, Ley de Instituciones de Crédito, Ley General de Organizaciones y Actividades Auxiliares del Crédito, Ley del Mercado de Valores, Ley de Sociedades de Inversión, Ley General de Instituciones y Sociedades Mutualistas de Seguros y Ley Federal de Instituciones de Fianzas, publicado en el Diario Oficial de la Federación el 23 de diciembre de 1993, no es aplicable a las sociedades financieras de objeto limitado, arrendadoras financieras, empresas de factoraje financiero e instituciones de seguros, filiales, que resulten de las adquisiciones que sean autorizadas por la Secretaría de Hacienda y Crédito Público.
 
 SEXTO.- Las sociedades financieras de objeto limitado, organizaciones auxiliares del crédito, casas de cambio, instituciones de seguros e instituciones de fianzas, deberán efectuar, en su caso, los actos corporativos necesarios para ajustar sus estatutos a lo dispuesto por el presente Decreto, dentro de un plazo máximo de ciento veinte días contado a partir del inicio de la vigencia del mismo.
+
+D.O.F. 30 DE ABRIL DE 1996.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- En tanto la Secretaría de Hacienda y Crédito Público emite las disposiciones de carácter general a que se refiere el párrafo segundo de la fracción I del artículo 15 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, seguirá observándose el texto anteriormente aplicable.
