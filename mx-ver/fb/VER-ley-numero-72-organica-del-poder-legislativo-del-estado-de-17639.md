@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2003-07-25"
+last_updated: "2003-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE JULIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE NOVIEMBRE DE 2003.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -396,6 +396,10 @@ Los integrantes de la Mesa Directiva en sus ausencias, serán suplidos de la sig
 El presidente, por el vicepresidente; pero si faltare a tres sesiones consecutivas sin causa justificada que califique el pleno, el vicepresidente ejercerá las atribuciones de aquél, en tanto se elige al presidente que cumplirá con el periodo para el que fue electa la Mesa Directiva.
 
 El vicepresidente o el secretario, por el diputado que, según el caso, elija el Pleno y que desempeñará el cargo únicamente por la sesión o sesiones de que se trate; pero si alguno faltare a tres sesiones consecutivas sin causa justificada que califique el Pleno, éste hará la elección del diputado que, según el caso, desempeñará el cargo por las demás sesiones.
+
+> <small>(ADICIONADO, G.O. 5 DE NOVIEMBRE DE 2003)</small>
+
+En las ausencias definitivas del presidente, vicepresidente o secretario de la Mesa Directiva, el Pleno elegirá al sustituto, para concluir el periodo respectivo.
 
 ###### Artículo 21.
 
@@ -1134,3 +1138,9 @@ G.O. 25 DE ABRIL DE 2003.
 G.O. 25 DE JULIO DE 2003.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+G.O. 5 DE NOVIEMBRE DE 2003.
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
