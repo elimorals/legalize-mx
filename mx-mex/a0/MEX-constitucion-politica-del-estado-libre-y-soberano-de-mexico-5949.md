@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1994-01-05"
+last_updated: "1994-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE FEBRERO DE 1994.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -985,9 +985,9 @@ VII. Decretar la expropiación por causa de utilidad pública de acuerdo con lo 
 
 VIII. Fijar en cada caso la extensión de terrenos que puedan poseer, adquirir o administrar las sociedades comerciales por acciones, para los establecimientos o servicios que sean objeto de su institución, dentro de los lineamientos previstos por el artículo 27, párrafo séptimo, fracción IV de la Constitución Federal.
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1994)</small>
 
-IX.- Conceder el indulto necesario y con arreglo a las leyes, conmutar la pena capital, las privativas de libertad, las impuestas por delitos políticos y conceder o negar el indulto por gracia, hasta de la tercera parte de la pena impuesta por los Tribunales.
+IX.- Conceder el indulto necesario y con arreglo a las leyes, conmutar las penas privativas de libertad y conceder el indulto por gracia.
 
 X. Mandar personalmente las fuerzas del Estado y movilizarlas según las necesidades públicas;
 
@@ -2682,3 +2682,9 @@ P.O. 5 DE ENERO DE 1994
 PRIMERO.- Publíquese el presente Decreto en la "Gaceta el Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+P.O. 1 DE FEBRERO DE 1994
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta del Gobierno.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta del Gobierno.
