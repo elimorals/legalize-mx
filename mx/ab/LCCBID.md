@@ -4,7 +4,7 @@ identifier: "LCCBID"
 country: "mx"
 rank: "ley"
 publication_date: "1959-12-19"
-last_updated: "1983-12-01"
+last_updated: "1986-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=436&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCCBID"
 
 LEY QUE ESTABLECE BASES PARA LA EJECUCION EN MEXICO, POR EL PODER EJECUTIVO FEDERAL, DEL CONVENIO CONSTITUTIVO DEL BANCO INTERAMERICANO DE DESARROLLO.
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ENERO DE 1986.
 
 Ley publicada en el Diario Oficial de la Federación el sábado 19 de diciembre de 1959.
 
@@ -54,33 +54,39 @@ El Banco de México queda autorizado para efectuar, con la garantía del Gobiern
 
 El Banco de México queda autorizado para efectuar, con la garantía del Gobierno Federal, aportaciones adicionales hasta el equivalente de 28.000,000 (veintiocho millones) de dólares de los Estados Unidos de América, para cubrir la cuota de la contribución de México al Fondo de Operaciones Especiales a que se refiere el Artículo IV del Convenio Constitutivo de dicho Organismo.
 
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
+
 ###### ARTICULO 4o.
 
-El Banco de México, S. A., será la única entidad autorizada para tratar todo lo relativo al Banco Interamericano de Desarrollo, así como para operar con dicho Organismo y ejercitar al respecto toda clase de facultades.
+La Secretaría de Hacienda y Crédito Público será la única dependencia autorizada para tratar todo lo relativo al Banco Interamericano de Desarrollo y ejercer al respecto todo (sic) clase de facultades.
 
 ###### ARTICULO 5o.
 
 El Banco de México, S. A., será el depositario en México de las disponibilidades del Banco Interamericano, de conformidad con el artículo XIV sección 4a. del Convenio Constitutivo del citado Organismo.
 
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
+
 ###### ARTICULO 6o.
 
-El Gobierno Federal garantizará al Banco de México la suscripción de acciones o partes sociales del Banco Interamericano, así como todas las operaciones que el Banco de México, S. A., realice con dicho Organismo, en forma tal que el Banco de México, S. A. nunca resienta pérdida alguna con motivo de dicha suscripción y operaciones.
+El Gobierno Federal garantizará al Banco de México la suscripción de acciones o partes sociales del Banco Interamericano de Desarrollo, así como las operaciones que celebren con este último los agentes financieros, autorizados por el propio Gobierno Federal.
+
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
 
 ###### ARTICULO 7o.
 
-El Banco de México, S. A., con la aprobación del Secretario de Hacienda y Crédito Público, designará un Gobernador Propietario y un Gobernador Suplente que fungirán con tal carácter en el Banco Interamericano de Desarrollo.
+El Secretario de Hacienda y Crédito Público será el Gobernador Propietario y Designará a un Gobernador Suplente que fungirá con tal carácter en el Banco Interamericano de Desarrollo.
+
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
 
 ###### ARTICULO 8o.
 
-El Gobernador y su suplente mencionados en el artículo anterior, podrán durar en su encargo cinco años y ser nombrados nuevamente.
+La designación del Gobernador Suplente será por un período de cinco años, pudiendo ser revocada antes de ese término u otorgada para un nuevo período.
 
-El mismo Gobernador del Banco Internacional de Reconstrucción y Fomento y del Fondo Monetario Internacional puede serlo también del Banco Interamericano de Desarrollo.
-
-El Banco de México, S. A., con la aprobación del Secretario de Hacienda y Crédito Público, podrá revocar las designaciones a que se refiere el artículo 7o. de esta Ley.
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
 
 ###### ARTICULO 9o.
 
-El Gobernador y su Suplente tendrán plenas facultades en el desempeño de sus cargos, salvo las restricciones que con la aprobación de la Secretaría de Hacienda y Crédito Público establezca concretamente el Banco de México, S. A.
+El Gobernador Suplente tendrá las facultades del Propietario en el caso de ausencia de éste, salvo las restricciones que establezca la secretaría de Hacienda y Crédito Público.
 
 ###### ARTICULO 10.
 
@@ -88,7 +94,9 @@ El Estado Mexicano reconoce la personalidad jurídica del Banco Interamericano d
 
 Los tribunales federales serán los únicos competentes para conocer de los negocios en que sea parte el Banco Interamericano de Desarrollo, sus funcionarios o empleados residentes en México o que en alguna forma puedan afectar bienes propiedad de dicha institución.
 
-Los tribunales en ningún caso podrán dictar mandamientos coercitivos en contra del Banco Interamericano de Desarrollo, contra sus funcionarios y empleados en su calidad de tales, o que en alguna forma afecten los bienes de este Organismo.
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
+
+En ningún caso los tribunales dictarán providencias precautorias sobre los bienes del Banco Interamericano de Desarrollo y sólo podrán dictar mandamiento de embargo o ejecución, cuando exista sentencia ejecutoriada en su contra.
 
 ###### ARTICULO 11.
 
@@ -149,3 +157,9 @@ D.O.F. 1 DE DICIEMBRE DE 1983.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE ENERO DE 1986.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
