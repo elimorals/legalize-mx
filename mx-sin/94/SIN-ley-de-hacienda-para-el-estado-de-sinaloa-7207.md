@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1983-08-03"
+last_updated: "1984-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 1984.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -2831,39 +2831,43 @@ ART. 300.- Las formas oficiales numeradas valoradas utilizables para copias cert
 
 ART. 301.- Causan derechos fiscales las publicaciones de interés particular que se hagan en el Periódico Oficial del Gobierno del Estado, las suscripciones, la venta de números sueltos y los edictos de remate de la Secretaría de Finanzas, de la Sub-Secretaría de Ingresos y de las Oficinas Recaudadoras. Estos últimos se agregarán a los gastos del procedimiento de ejecución cuando las Oficinas Recaudadoras ejerzan la acción económica-coactiva.
 
-ART. 302.- Las publicaciones, ventas y suscripciones a que se refiere el artículo anterior, quedarán sujetas a la siguiente:
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1984)</small>
+
+ART. 302.- Los derechos a que se refiere el Artículo anterior, estarán sujetos a la siguiente:
 
 T A R I F A
 
 I.- Por la publicación:
 
-a).- De edictos, avisos, solicitud de ruta, modificación de ampliación de ruta, aumentos de unidades y cualquiera otra publicación similar de interés particular, por palabra y por cada publicación $ 1.00
+a).- De edictos, Avisos, Solicitud de Ruta, Modificación o Ampliación de ésta, Aumentos de Unidades y cualquiera otra similar de interés particular, por palabra y por cada publicación $ 2.00
 
-b).- De convocatorias, balances, liquidaciones y similares por plana 1,200.00
+b).- De Convocatorias, Balances, Liquidaciones y similares, por plana 2,000.00
 
-c).- De edictos de remate provenientes de la Sub-Secretaría de Ingresos y de las Oficinas Recaudadoras, por plana 500.00
+c).- De edictos de remate provenientes de la Sub-Secretaría de Ingresos y de las Oficinas Recaudadoras, por plana 1,200.00
 
 II.- Por la suscripción:
 
-a).- Por un año en el país 450.00
+a).- De un año en el País 2,500.00
 
-b).- Por un año en el extranjero 700.00
+b).- De un año, en el Extranjero 5,000.00
 
 III.- Por la venta de cada número del Periódico Oficial:
 
-a).- Del día 5.00
+a).- Del día 10.00
 
-b).- Atrasado del año corriente 8.00
+b).- Atrasado, del año corriente 15.00
 
-c).- Atrasado de años anteriores 15.00
+c).- Atrasado, de años anteriores 25.00
 
-d).- De dos o más secciones, independientemente de la cuota que proceda conforme a los tres incisos precedentes 15.00
+d).- De dos o más secciones, independientemente de la cuota que proceda conforme a los tres incisos anteriores 25.00
 
-e).- En copias fotostáticas de ediciones agotadas, por página 10.00
+e).- En fotocopias de ediciones agotadas, por página 20.00
 
-f).- De edición especial que contenga como suplemento-Leyes encuadernadas 60.00
+f).- De edición especial que contenga Leyes encuadernadas, como suplemento 150.00
 
-IV.- Por la venta de cada ejemplar de la Ley de Ingresos y Presupuesto de Egresos 100.00.
+g) Que contenga la Ley de Ingresos de los Municipios 50.00
+
+IV.- Por la venta de cada ejemplar de la Ley de Ingresos y Presupuesto de Egresos 150.00
 
 ART. 303.- Las cuotas a que se refiere el Artículo 302 son aplicadas únicamente a las palabras que forman el cuerpo del documento incluyendo las contenidas en el sello, timbres y su cancelación, fechas, firmas y denominaciones que la encabecen. Cuando se trate de documentos que contengan operaciones de contabilidad, tales como balances, facturas, o cuentas, se cobrará por plana, de acuerdo con la tarifa señalada en el Artículo anterior.
 
@@ -2919,29 +2923,29 @@ T A R I F A:
 
 I.- Por cada vehículo que se registre para su circulación y tránsito incluyendo el juego de placas aprobadas por la Secretaría de Comunicaciones y Transportes, tarjeta de circulación y calcamonía (sic), por el período de vigencia autorizado por dicha Secretaría del Estado, se cubrirán las siguientes cuotas:
 
-> <small>(REFORMADO, P. O. 16 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1984)</small>
 
-a).- Juego de placas de servicio particular por dos años $ 600.00
+a).- Juego de placas de servicio particular por dos años $ 1,400.00
 
-> <small>(REFORMADO, P. O. 16 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1984)</small>
 
-b).- Juego de placas de servicio público local, por dos años $ 650.00
+b).- Juego de placas de servicio público local por dos años 1,500.00
 
-> <small>(REFORMADO, P. O. 16 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1984)</small>
 
-c).- Juego de placas de servicio de demostración, por dos años $ 1,000.00
+c).- Juego de placas de demostración por dos años 2,000.00
 
 d).- Reposición de cada juego de placas, durante el segundo año, se cubrirá el 50% de la cuota que corresponda entre las fijadas en los tres incisos anteriores.
 
-> <small>(REFORMADO, P. O. 16 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1984)</small>
 
-e).- Juego de placas para motocicletas, por un año $ 250.00
+e).- Juego de placas para motocicletas, por un año 600.00
 
 f).- Registro de cada vehículo que porte placas expedidad (sic) por otras entidades de la república o en el Extranjero, por un año 100.00
 
-> <small>(REFORMADO, P. O. 16 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1984)</small>
 
-g).- Revista semestral del vehículo $ 80.00
+g).- Revista Semestral por un año 175.00
 
 h).- Permiso provisional para la circulación de maquinaria agrícola y equipo móvil diversos a los previstos en los incisos anteriores, según sea el tamaño, de $ 15.00 a $ 30.00 diarios.
 
@@ -3043,9 +3047,9 @@ XVI.- Por cada constancia que no esté comprendida en las fracciones anteriores,
 
 XVII.- Por expedición de bajas de placas 50.00
 
-> <small>(REFORMADO, P. O. 16 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1984)</small>
 
-XVIII.- Por cada placa de remolque, por dos años $ 550.00
+XVIII.- Por cada placa de remolque, por dos años 2,000.00
 
 XIX.- Por cada estudio socio-económico que se efectúe de acuerdo con la Ley General de Tránsito, se cobrará una cuota de $ 600.00 a $ 5,000.00, considerando el costo del estudio.
 
@@ -5364,5 +5368,21 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 3 DE AGOSTO DE 1983.
 
 ###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 2 DE ENERO DE 1984.
+
+DECRETO NO. 9, QUE REFORMA EL ART. 302.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 2 DE ENERO DE 1984.
+
+DECRETO NO. 14, QUE REFORMA EL ART. 310.
+
+###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Sinaloa".
