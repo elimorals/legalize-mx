@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-atencion-integral-para-personas-con-discapacidad-en-1456
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-11"
-last_updated: "1998-02-11"
+last_updated: "2001-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ATENCION INTEGRAL PARA PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 11 de febrero de 1998.
 
@@ -79,13 +79,17 @@ Equiparación de oportunidades: Proceso mediante el cual, el nivel físico, la v
 
 Prevención: La adopción de medidas tendientes a impedir que se produzcan deficiencias físicas y mentales.
 
-Secretaría: Secretaría de Bienestar Social.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2001)</small>
+
+Secretaría: A la dependencia de la administración central o descentralizada encargada de coordinar y dirigir la política de salud.
 
 Organismo Coordinador: El Consejo Coordinador de Atención Integral para Personas con Discapacidad.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 4.
 
-La aplicación de esta Ley compete a la Secretaría de Bienestar Social, al Sistema para el Desarrollo Integral de la Familia del Estado de Morelos y a los municipios, dentro del ámbito de la competencia, con la participación del sector privado y social de la entidad.
+La aplicación de esta Ley compete a la Secretaría, al Sistema para el desarrollo Integral de la Familia del Estado de Morelos y a los municipios dentro del ámbito de la competencia, con la participación del sector privado y social de la entidad.
 
 ## TITULO SEGUNDO. ORGANISMO COORDINADOR
 
@@ -95,23 +99,77 @@ La aplicación de esta Ley compete a la Secretaría de Bienestar Social, al Sist
 
 Se crea el Consejo Coordinador de Atención Integral para Personas con Discapacidad, como un organismo responsable encargado de proponer a las instituciones encargadas de su aplicación, las acciones, los planes y programas específicos de concertación, planeación y promoción, que garanticen las condiciones favorables para el desarrollo de las personas con discapacidad.
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2001)</small>
+
+Para el cumplimiento de los objetivos del Organismo Coordinador, éste podrá recibir subsidios, subvenciones, aportaciones, bienes y demás ingresos que las dependencias y entidades del Gobierno federal y Estatal o Municipal le otorguen; así como también podrá recibir las aportaciones, donaciones, legados y demás liberalidades de personas físicas o morales que deseen aportar. Para la administración y vigilancia del patrimonio que se integre de las aportaciones antes citadas, se deberá constituir un patronato, mismo que se integrará en los términos que para tal efecto se señale en el reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2001)</small>
+
+El Consejo sesionará ordinariamente, por lo menos cada tres meses, o extraordinariamente en cualquier tiempo a solicitud del Coordinador del Consejo a falta de éste del secretario técnico.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2001)</small>
+
+Para el desarrollo de la sesión y que no sea previsto en esta Ley y su reglamento se aplicará supletoriamente el Código Civil y Procesal Civil del Estado de Morelos en lo conducente.
+
 ###### ARTICULO 6.
 
 El Consejo estará integrado por:
 
-I.- Un Coordinador General nombrado por el Ejecutivo del Estado, debiendo recaer el nombramiento de entre una terna propuesta por el propio Consejo.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2001)</small>
 
-II.- Un Secretario Técnico, electo por el Consejo.
+I.- Un Coordinador General nombrado por el Ejecutivo del Estado, durará en el cargo tres años, quien podrá ser removido del cargo por causa grave, calificada por el Organismo Coordinador, debiendo recaer el nombramiento de entre una terna propuesta por el propio Organismo Coordinador;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2001)</small>
+
+II.- Un Secretario Técnico que durará un año, electo por propio Consejo, con posibilidad de reelección, período que no deberá ser mayor al del Coordinador General, que será de tres años;
 
 III.- 8 vocales representantes de las dependencias y entidades de la Administración Pública Estatal, encargadas de dar atención y servicios públicos a las personas con discapacidad; y,
 
-IV.- 8 vocales representantes de las organizaciones privadas que sobre discapacidad existan en el Estado.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2001)</small>
+
+IV.- 8 vocales representantes de las organizaciones privadas que sobre discapacidad, existan en el Estado, dos de éstas serán de representación regional, salvo que no existieran o no quisieran participar; representación que tendrá una duración de tres años en el cargo pudiendo ser removidos del mismo, por razón debidamente fundada por el Organismo Coordinador; con la posibilidad de un período de reelección.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2001)</small>
+
+Para proceder al registro de las organizaciones privadas será requisito indispensable que éstas, en reunión pública y por el voto mayoritario, entendiéndose al equivalente del 50 más uno, designen a las 8 organizaciones privadas que deban ser representantes ante el Consejo, para lo cual se deberán observar las siguientes reglas:
+
+a).- Será previa convocatoria que lance el Sistema para el Desarrollo Integral de la Familia en el Estado, con 15 días de anticipación, publicándose en los periódicos de mayor circulación.
+
+b).- Para que proceda en el registro deberá acreditar jurídicamente la legal constitución de la organización privada con las constancias actualizadas que así lo determinen y que se encuentren conformadas por un mínimo de 20 integrantes.
+
+c).- Deberán además contar al día del registro con una antigüedad mínima de tres años de constituidas legalmente.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2001)</small>
+
+ARTICULO 6 a.- Los integrantes del Consejo tendrán las funciones siguientes:
+
+I.- Asistir a las sesiones;
+
+II.- Proponer los asuntos que deban formar parte de la orden del día;
+
+III.- Revisar, analizar, proponer y, en su caso, votar los asuntos que sean sometidos a consideración del Consejo;
+
+IV.- Integrar, en su caso, los grupos de trabajo que se constituyan para la realización de las tareas específicas;
+
+V.- Representar y hacer cumplir ante las Dependencias, entidades o Instituciones Gubernamentales, los acuerdos adoptados por el Consejo que incidan en el ámbito de competencia de las mismas;
+
+VI.- Recibir de las autoridades a que se refiere esta Ley; incluyendo al DIF, al Coordinador General, y del Secretario Técnico la información administrativa que requiera sobre el cumplimiento de esta Ley;
+
+VII.- Aprobar el programa e informe anual de actividades del Coordinador General del consejo; y
+
+VIII.- Conocer y resolver los demás asuntos que se deriven de esta Ley y su reglamento, así como los que encomiende el propio Consejo.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2001)</small>
+
+ARTICULO 6 b.- El Coordinador General, al igual que los miembros permanentes deberán designar un suplente que los representará, el cual debe acreditarse ante el Secretario Técnico. En caso de falta de Coordinador General, será el Secretario Técnico quien supla su ausencia. Los casos no previstos en la Ley y el reglamento serán resueltos por el propio consejo.
 
 ### CAPITULO II. DE LAS ATRIBUCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 7.
 
-La Secretaría de Bienestar Social además de las establecidas por la Ley Orgánica de la Administración Pública, tendrá las siguientes atribuciones.
+La Secretaría, además de las establecidas por la Ley Orgánica de la Administración Pública tendrán las siguientes atribuciones:
 
 I.- Impulsar las acciones necesarias para desarrollar los programas que se establezcan y lograr la atención integral y desarrollo de las personas con discapacidad;
 
@@ -177,7 +235,9 @@ VI.- Promover la participación del sector privado en la captación de recursos 
 
 VII.- Recibir, analizar y enviar a las instancias competentes las quejas y sugerencias de las personas con discapacidad en relación con la atención que reciban de las instituciones públicas;
 
-VIII.- Rendir ante la Secretaría de Bienestar Social los informes anuales y los que le sean requeridos en cuanto al desempeño de sus funciones, programas y metas alcanzadas;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2001)</small>
+
+VIII.- Rendir ante la Secretaría los informes anuales y los que le sean requeridos en cuanto al desempeño de sus funciones, programas y metas alcanzadas;
 
 IX.- Conocer el manejo del presupuesto que se destina anualmente a programas y acciones en el rubro de discapacidad, las cuotas de recuperación, además de los gastos erogados y del flujo de efectivo;
 
@@ -189,17 +249,27 @@ XI.- Sesionar por lo menos una vez cada tres meses.
 
 El Coordinador General, será el representante del Consejo Coordinador, ejecutor de las acciones, planes y programas específicos de concertación, planeación y promoción que adopte el Consejo.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 11.
 
-Son facultades y obligaciones del Secretario Técnico, las siguientes:
+El Secretario Técnico del Consejo tendrá las funciones siguientes:
 
-I.- Convocar previo acuerdo con el Coordinador General, a las sesiones ordinarias y extraordinarias del Consejo.
+I.- Asistir a las Sesiones del Consejo con derecho a voz, pero no a voto;
 
-II.- Actuar en las sesiones con el carácter de secretario.
+II.- Suplir en sus ausencias al Coordinar General y su suplente, con derecho a voz pero sin derecho a voto;
 
-III.- Preparar la orden del día de todas las sesiones del Consejo, declarar la existencia del quórum legal para sesionar, dar fe de todo lo actuado en ellas, levantar las actas correspondientes y autorizarlas conjuntamente con el Coordinador General, y
+III.- Formular el programa de trabajo del Consejo;
 
-IV.- Auxiliar al Consejo y al Coordinador General en el ejercicio de sus atribuciones.
+IV.- Remitir a los miembros del Consejo las convocatorias para las sesiones, con un mínimo de ocho días de anticipación, así como elaborar el orden del día, verificar que se integre el quórum y levantar el acta respectiva de cada sesión; con un mínimo de 8 días naturales;
+
+V.- Dar seguimiento a los acuerdos tomados en el seno del Consejo e informar al mismo de su grado de avance;
+
+VI.- Coordinar las actividades de trabajo;
+
+VII.- Someter al Consejo para su aprobación en la última sesión del año, el calendario de sesiones del año subsecuente; y
+
+VIII.- Las demás que sean necesarias para el cumplimiento de sus funciones.
 
 ## TITULO TERCERO. SERVICIOS DE ATENCION
 
@@ -379,17 +449,23 @@ El Instituto de Cultura del Estado promoverá de acuerdo a las actividades de la
 
 ### CAPITULO I. DE LAS COMUNICACIONES Y TRANSPORTES
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 39.
 
-El Ejecutivo del Estado promoverá la adopción de medidas de adecuación de los medios de transporte público y las vías de comunicación para las personas con discapacidad, garantizando su derecho de libre tránsito en espacios públicos, abiertos y cerrados, en los siguientes aspectos:
+Las personas con discapacidad, en materia de tránsito y transporte, tendrán las prerrogativas siguientes:
 
-A).- Para el ascenso y descenso a las unidades, deberán adaptarse con rampas, elevadores y mecanismos especiales;
+I.- Las estaciones terminales y rutas de transporte público de pasajeros, deberán contar con zonas reservadas en la vía pública, debidamente señalizadas para el ascenso y descenso exclusivo de personas con discapacidad, así como el disfrute de las instalaciones;
 
-B).- Se reservará un espacio o asiento preferente dentro de las unidades, distinguiéndolo con el logotipo universal de las personas con discapacidad.
+II.- El uso de asientos exclusivos que para tal efecto determine la autoridad competente en los diversos medios de transporte público; y
 
-C).- Para facilitar el acceso a los ciegos con sus perros guías y/o sus implementos a los lugares y transportes públicos; y
+III.- Ocupar los espacios de uso exclusivo en los estacionamientos de servicio al público que sean destinados para personas con discapacidad. Dichos lugares deben estar diseñados de acuerdo a requerimientos específicos y encontrarse claramente señalados;
 
-D).- Se realizarán programas de difusión y capacitación a los conductores, concientizándolos y sensibilizándolos en la atención a personas con discapacidad.
+IV.- Los invidentes que necesiten perros guías, para poder acceder a lugares públicos y todo tipo de transporte deben de asegurarlos con un bozal; y
+
+V.- El servicio público de transporte deberá equipar el 5% de sus unidades con mecanismos que faciliten el acceso a personas con discapacidad y equipo de apoyo;
+
+Para el cumplimiento de lo dispuesto en esta Ley relativa a las calcomanías, la Dirección General de Tránsito y Transportes o su equivalente, otorgará previa solicitud de los interesados, calcomanías distintivas que deberán fijarse en el parabrisas, medallón y placa de identificación de los vehículos en que viajen personas con discapacidad. Esta calcomanía será cambiada anualmente, será gratuita y se llevará un registro y control de las mismas.
 
 ###### ARTICULO 40.
 
@@ -445,9 +521,11 @@ El Ejecutivo del Estado, otorgará estímulos y el reconocimiento al mérito ciu
 
 ### CAPITULO I. DE LAS INFRACCIONES Y SANCIONES
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 50.
 
-La inobservancia a los preceptos de esta Ley, su reglamento y disposiciones que de ella emanen, constituyen infracción y serán sancionadas administrativamente a petición de parte o de oficio, por la Secretaría de Bienestar Social.
+La inobservancia a los preceptos de esta Ley, su reglamento y disposiciones que de ella emanen, constituyen infracción y serán sancionadas administrativamente a petición de parte o de oficio, por la Secretaría.
 
 ###### ARTICULO 51.
 
@@ -459,19 +537,31 @@ II.- Los prestadores del servicio de transporte público, en cualquiera de sus m
 
 III.- Los empresarios, administradores y organizadores de espectáculos públicos que omitan reservar espacios o dar facilidades de acceso para las personas con discapacidad o bien que lo hagan discriminatoriamente.
 
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2001)</small>
+
+IV.- Los actos u omisiones de servidores públicos que contravengan las disposiciones contenidas en esta Ley serán causa de responsabilidad administrativa y se sancionarán conforme a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 52.
 
-Las infracciones a que se refiere el artículo 51 se sancionarán con:
+Para los efectos de la presente Ley, la autoridad, a petición de parte o de oficio, independientemente de lo preceptuado por otras disposiciones legales, aplicará las siguientes sanciones:
 
-I.- Multa equivalente de 10 a 50 veces el salario mínimo vigente en la entidad a quienes cometan la infracción a que se refiere la fracción I del artículo 51;
+I.- Multa equivalente de 10 a 50 veces el salario mínimo vigente en el Estado de Morelos, a quienes ocupen indebidamente los espacios de estacionamiento preferencial o bien obstruyan las rampas o accesos para personas con discapacidad;
 
-II.- Multa equivalente de 50 a 100 veces el salario mínimo vigente en la entidad en el caso de las personas que cometan la infracción a que se refiere la fracción II del artículo 51;
+II.- Multa equivalente de 50 a 100 veces el salario mínimo vigente en el Estado de Morelos, a los prestadores de servicio en cualquier modalidad del servicio de transporte público que nieguen u obstaculicen el uso del servicio, de acuerdo a lo dispuesto por la presente Ley;
 
-III.- Multa equivalente de 100 a 250 veces el salario mínimo vigente en la entidad a quienes cometan la infracción a que se refiere la fracción III del artículo 51; y
+III.- Multa equivalente de 150 a 250 veces el salario mínimo vigente en el Estado de Morelos, a los empresarios, administradores y organizadores de espectáculos públicos que omitan o ubiquen discriminatoriamente los espacios reservados, así como las facilidades de acceso para personas con discapacidad.
 
-IV.- Clausura temporal o definitiva, parcial o total, del establecimiento o local, según se trate.
+En caso de incurrir el infractor en tres ocasiones en la misma falta, se procederá a la clausura o cancelación temporal o definitiva para el funcionamiento de la empresa, negociación o sucursal según sea el caso, para el caso del servicio público de transporte con o sin itinerario se podrá cancelar la concesión correspondiente de acuerdo a la gravedad que determine la autoridad competente;
 
-Para sancionar las faltas anteriores, se calificarán las infracciones tomando en consideración la gravedad de la falta, las condiciones económicas del infractor y la reincidencia.
+IV.- Multa equivalente de 250 a 300 veces el salario mínimo vigente en el Estado de Morelos, de acuerdo a la gravedad se procederá a la clausura de aquellas empresas, constructoras de conjuntos habitacionales que no brinden las facilidades arquitectónicamente previstas por la presente Ley; y
+
+V.- Multa equivalente de 100 a 150 veces el salario mínimo vigente en el Estado de Morelos, a propietarios de restaurantes y centros comerciales que no brinden las facilidades arquitectónicas previstas por esta Ley.
+
+En caso de reincidencia se aplicará lo estipulado en el segundo párrafo de la fracción III de este artículo.
+
+Contra las resoluciones en las que se impongan sanciones contenidas en esta Ley, procederá el recurso de inconformidad previsto en esta Ley. Las sanciones administrativas se impondrán sin perjuicio de las penas que correspondan en caso de la comisión de delitos.
 
 ###### ARTICULO 53.
 
@@ -493,9 +583,11 @@ En el caso de que la transgresión pueda constituir un delito, los hechos se har
 
 Contra las resoluciones de las autoridades en que se impongan las sanciones contenidas en esta Ley, procederá el recurso de inconformidad, que se interpondrá dentro de los quince días hábiles siguientes a la fecha de su notificación.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 57.
 
-El recurso de inconformidad se interpondrá por escrito ante el titular de la Secretaría de Bienestar Social.
+El recurso de inconformidad se interpondrá por escrito ante el titular de la Secretaría.
 
 ###### ARTICULO 58.
 
@@ -596,3 +688,15 @@ SECRETARIO GENERAL DE GOBIERNO
 JORGE MORALES BARUD
 
 RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE OCTUBRE DE 2001.
+
+Artículo Primero.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación e iniciación de vigencia en el Periódico Oficial del Estado denominado "Tierra y Libertad".
+
+Artículo Segundo.- El presente Decreto iniciará su vigencia el día siguiente a su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Estado.
+
+Artículo Tercero.- Para la integración del Consejo Coordinador de Atención Integral para Personas con Discapacidad a que se refiere el artículo 6, para lo cual y a partir de la iniciación de la vigencia de la presente iniciativa, el titular del Poder Ejecutivo cuenta con un período improrrogable de 45 días para que a través del Sistema para el Desarrollo Integral de la Familia en el Estado, convoque a los representantes de la dependencias y entidades de la Administración Pública estatal, y a las organizaciones privadas, para proceder a la nueva integración del Consejo Coordinador de Atención Integral para Personas con Discapacidad.
+
+Artículo Cuarto.- A partir de la iniciación de la vigencia del presente Decreto queda sin efectos el nombramiento de los integrantes del Consejo Coordinador de Atención Integral para Personas con Discapacidad electo al amparo de la Ley de Atención para personas con Discapacidad en el Estado publicada en el Periódico Oficial número 3901 de fecha 11 de febrero de 1998.
