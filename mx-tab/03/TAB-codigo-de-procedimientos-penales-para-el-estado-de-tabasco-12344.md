@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-procedimientos-penales-para-el-estado-de-tabasco-1234
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-22"
-last_updated: "1997-02-22"
+last_updated: "1998-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 1998.
 
 Código publicado en el Periódico Oficial del Estado de Tabasco, el 22 de febrero de 1997.
 
@@ -181,6 +181,14 @@ En lo que respecta a la competencia por razón del territorio, es competente el 
 
 Podrá conocer de los delitos permanentes y continuados cualquiera de los juzgadores dentro de cuya circunscripción se hubiesen ejecutado actos que por si solos constituyan delito o en los que éste hubiera producido sus efectos.
 
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1998)</small>
+
+También será competente para conocer de un asunto, un Juez distinto al del lugar de la comisión del delito o donde se hubiesen producido sus efectos, si por razones de seguridad en las prisiones, atendiendo a las características del hecho imputado, a las circunstancias personales del inculpado y a otras que impidan garantizar el desarrollo adecuado del proceso, el Ministerio Público considera necesario llevar el ejercicio de la acción penal ante otro Juez.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1998)</small>
+
+Lo anterior es igualmente aplicable para los casos en que, por las mismas razones, la autoridad judicial de oficio o a petición del Ministerio Público, estime necesario trasladar a un procesado a algún centro de reclusión de máxima seguridad en los que será competente el Tribunal del lugar en que se ubica dicho centro.
+
 ###### ARTÍCULO 22.
 
 Los conflictos de competencia que surjan entre los tribunales del Estado y los órganos jurisdiccionales de la Federación o de otras entidades federativas, serán resueltos en los términos previstos por la Ley Orgánica del Poder Judicial de la Federación. Los que se susciten entre tribunales del Estado, lo serán por el Tribunal Superior de Justicia, mediante el procedimiento previsto en este Código.
@@ -209,9 +217,11 @@ A quien deba intervenir en un procedimiento penal y no conozca suficientemente e
 
 En estos casos, la falta de intérprete o traductor se sancionará con la nulidad del acto, independientemente de que los participantes hubiesen otorgado su conformidad para actuar sin la asistencia de aquéllos. Asimismo, se sancionará al servidor público que debió hacer u ordenar la designación de esos auxiliares, en la forma que dispongan las normas sobre responsabilidades de servidores públicos.
 
+(REFORMADO, P.O. 21 DE FEBRERO DE 1998)(F. DE E., P.O. 28 DE FEBRERO DE 1998)
+
 ###### ARTÍCULO 27.
 
-Las diligencias se desarrollarán en la sede oficial de la autoridad que las presida o practique. Si por la naturaleza de las actuaciones es necesario realizarlas en otro lugar, se declarará así en el mandamiento que lo disponga, expresando los motivos para la designación de lugar, y se dejará constancia además en el acta que se levante para documentar dichas actuaciones. La transgresión de estas normas, independientemente de la conformidad que hubiesen manifestado los participantes, se sancionará en la forma prevista por el artículo precedente.
+Las diligencias se desarrollarán en la sede oficial de la autoridad que las presida o practique, a no ser que por la naturaleza de las actuaciones se estime necesario realizarlas en otro lugar, de ser así se hará la declaración correspondiente, expresando los motivos para la designación del lugar, y se dejará constancia además en el acta que se levante para documentar dichas actuaciones. La transgresión de estas normas, independientemente de la conformidad que hubiesen manifestado los participantes, se sancionará en la forma prevista por el artículo precedente.
 
 ###### ARTÍCULO 28.
 
@@ -241,9 +251,11 @@ Los autos que contengan resoluciones de mero trámite deberán dictarse dentro d
 
 Las autoridades que presidan o practiquen una diligencia actuarán asistidas de secretario o de dos testigos, cuando no dispongan de aquél. De lo contrario, la actuación será nula, aunque la consientan quienes en ella intervengan.
 
+(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 1998)(F. DE E., P.O. 28 DE FEBRERO DE 1998)
+
 ###### ARTÍCULO 33.
 
-Las promociones que se hagan por escrito deberán estar firmadas por su autor o llevar la huella dactilar de éste, y deberán ser ratificadas por el mismo. Cuando se estime necesario, se podrá ordenar la ratificación de las promociones.
+Las promociones que se hagan por escrito deberán estar firmadas por su autor o llevar la huella dactilar de éste, si son objetadas deberán ser ratificadas por el mismo. Independientemente de lo anterior, cuando se estime necesario, también se podrá ordenar la ratificación de las promociones.
 
 Los secretarios deberán dar cuenta de las promociones dentro de veinticuatro horas a partir de la presentación de éstas. Para tal efecto se hará constar en el expediente, de ser posible con reloj marcador, la fecha y la hora en que se presente o formule una promoción.
 
@@ -711,9 +723,11 @@ Cuando por cualquier motivo no pueda obtenerse la concurrencia de alguno de los 
 
 Son públicos los documentos a los que el Código de Procedimientos Civiles del Estado o cualesquiera otras leyes locales o federales atribuyan esa naturaleza. Asimismo, lo son aquéllos que con tal carácter procedan del extranjero. Se deberá contar con la legalización de éstos, cuando el documento se transmita por la vía diplomática, si ello implica acreditación del carácter público del documento conforme a la ley extranjera aplicable.
 
+(REFORMADO, P.O. 21 DE FEBRERO DE 1998)(F. DE E., P.O. 28 DE FEBRERO DE 1998)
+
 ###### ARTÍCULO 103.
 
-Los documentos privados son aquellos que no reúnen las características a las que se refiere el artículo anterior. Deberán ser reconocidos por la persona a quien se atribuya ser su autor, o se cotejarán, para acreditar su validez en el procedimiento, con otros reconocidos o indubitables. Para tal fin, se mostrarán íntegros a la persona señalada como autor del documento.
+Los documentos privados son aquellos que no reúnen las características a las que se refiere el artículo anterior. Cuando el Ministerio Público o el Juez lo estimen pertinente o sean objetados, deberán ser reconocidos por la persona a quien se atribuya ser su autor, o se cotejarán, para acreditar su validez en el procedimiento, con otros reconocidos o indubitables. Para tal fin, se mostrarán íntegros a la persona señalada como autor del documento.
 
 ###### ARTÍCULO 104.
 
@@ -843,7 +857,9 @@ XI. Adulterio previsto en el artículo 222. Podrá querellarse el cónyuge ofend
 
 XII. Ejercicio indebido del propio derecho, al que alude el artículo 282; y
 
-XIII. Delitos contra el patrimonio de las personas previstos en el Título Décimo del Libro Segundo del Código Penal, excepto el abigeato, las operaciones con recursos de procedencia ilícita y aquéllos en los que concurran calificativas.
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 1998)</small>
+
+XIII. Delitos contra el patrimonio de las personas previstos en el Título Décimo del Libro Segundo del Código Penal, excepto el abigeato, las operaciones con recursos de procedencia ilícita, aquellos en los que concurran calificativas y los dolosos cometidos contra instituciones públicas.
 
 ###### ARTÍCULO 116.
 
@@ -911,9 +927,11 @@ En la averiguación previa, el Ministerio Público recibirá las pruebas que el 
 
 Cuando una autoridad distinta del Ministerio Público practique actuaciones de averiguación previa en auxilio del órgano investigador, por encomienda de éste o por ministerio de ley, deberá remitir a aquél todo lo actuado y poner a su disposición a los detenidos, en su caso, sin demora.
 
+(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 1998)(F. DE E., P.O. 28 DE FEBRERO DE 1998)
+
 ###### ARTÍCULO 127.
 
-Si el Ministerio Público estima necesario el arraigo del indiciado, lo solicitará al órgano jurisdiccional. Este resolverá lo que proceda, previa audiencia del indiciado. El arraigado otorgará garantía patrimonial de sujetarse a las condiciones inherentes a esa medida. El juzgador fijará el monto de la garantía según las características del caso. La constitución de aquélla se hará, en lo conducente, conforme a las disposiciones de este Código sobre caución para el disfrute de la libertad provisional. Si el arraigado no constituye la garantía, el juzgador dispondrá que se integre con afectación de bienes inmuebles o muebles que pertenezcan al indiciado, o de una parte de las percepciones que éste reciba por cualquier título jurídico.
+Si el Ministerio Público estima necesario el arraigo del indiciado, lo solicitará fundada y motivadamente al órgano jurisdiccional. Este resolverá lo que proceda. Si se decreta el arraigo, el afectado podrá ocurrir al Juez para alegar lo que a su derecho corresponda. El Juez en una sola audiencia escuchará al Ministerio Público y determinará si mantiene la medida o la levanta. El arraigado otorgará garantía patrimonial de sujetarse a las condiciones inherentes a esa medida. El juzgador fijará el monto de la garantía según las características del caso. La constitución de aquélla se hará, en lo conducente, conforme a las disposiciones de este Código sobre caución para el disfrute de la libertad provisional. Si el arraigado no constituye la garantía, el juzgador dispondrá que se integre con afectación de bienes inmuebles o muebles que pertenezcan al indiciado, o de una parte de las percepciones que éste reciba por cualquier título jurídico.
 
 El arraigo implica vigilancia del arraigado por parte de la autoridad, y se prolongará por el tiempo estrictamente indispensable para que se integre debidamente la averiguación. No podrá exceder de treinta días, prorrogables por igual periodo, a petición motivada del Ministerio Público.
 
@@ -1059,6 +1077,10 @@ a) Los perseguibles de oficio y sancionados con más de ocho años de prisión, 
 
 b) Los cometidos por reincidentes, perseguibles de oficio y sancionados con más de cuatro años de prisión, en el término medio de la punibilidad respectiva, así como los realizados con alguna calificativa prevista por la ley;
 
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1998)</small>
+
+c) La tentativa punible de ilícitos graves también tendrá esa característica, independientemente del término medio aritmético de la punibilidad correspondiente a dicha tentativa.
+
 II. Existe riesgo de que el indiciado pretenda sustraerse a la acción de la justicia. La calificación del riesgo se fundará en los siguientes elementos: gravedad y consecuencias del delito, circunstancias en que fue cometido, características y antecedentes del indiciado, y condiciones y actitud del ofendido; y
 
 III. No es posible obtener inmediatamente orden judicial de aprehensión, tomando en cuenta la hora, el lugar y las circunstancias, entre éstas y el hecho de que la averiguación no esté concluida y no sea posible, por lo tanto, proceder a la consignación y solicitar orden de aprehensión.
@@ -1120,6 +1142,10 @@ Asimismo, cuando haya detenido examinará el juzgador la legitimidad de la deten
 Satisfechos los requisitos previstos por el artículo 16 de la Constitución General de la República, el Juez expedirá orden de aprehensión, fundada y motivada, citando la jurisprudencia aplicable, con la clasificación de los hechos delictuosos por los que se dispone la captura. Para el cambio de clasificación de los hechos en el curso del proceso, se estará a lo previsto en este Código. Cuando se modifique dicha clasificación, el juzgador lo hará saber al inculpado y le explicará las características de la nueva clasificación establecida.
 
 Quien ejecute la orden de aprehensión debe poner al aprehendido físicamente a disposición de su Juez sin dilación alguna y bajo su más estricta responsabilidad, dejando constancia del tiempo transcurrido y de las incidencias presentadas, en caso de haberlas, entre el momento de la captura y aquél en que se pone al sujeto a disposición del Juez.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1998)</small>
+
+Cuando la persona que se deba aprehender se encuentre recluida en lugar distinto al de residencia del Juez, se tendrá por cumplida la orden cuando se haga de su conocimiento esta circunstancia por la Policía Judicial. Hecho esto, el Juez requerirá inmediatamente auxilio del Juez que resida en el lugar donde se encuentre el detenido para que le tome su declaración preparatoria y resuelva la situación jurídica.
 
 ###### ARTÍCULO 156.
 
@@ -1205,7 +1231,9 @@ Cuando se trate de delitos perseguibles por querella, el juzgador podrá promove
 
 Dentro de setenta y dos horas contadas desde el momento en que el inculpado quedó a disposición de la autoridad judicial, y una vez tomada la declaración preparatoria, en caso de que el inculpado quisiere rendirla, se dictará auto de formal prisión si quedaron acreditados los elementos del tipo penal y la probable responsabilidad del inculpado. Para ello se estará a lo dispuesto en el artículo 137.
 
-El plazo previsto en el párrafo anterior se ampliará una sola vez por otras setenta y dos horas, exclusivamente cuando el inculpado o su defensor lo soliciten verbalmente o por escrito, antes de que transcurran las primeras setenta y dos horas, por convenir así para el desahogo de pruebas que el solicitante proponga. De la ampliación del plazo se notificará al encargado de la institución en la que se halle detenido el inculpado.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 1998)</small>
+
+El plazo previsto en el párrafo anterior se ampliará una sola vez por otras 72 horas, exclusivamente cuando el inculpado o su defensor lo soliciten durante las primeras 48 horas siguientes a su puesta a disposición ante el Juez, por convenir así para el desahogo de pruebas que el solicitante proponga. De la ampliación del plazo se notificará al encargado de la Institución en la que se halle detenido el inculpado.
 
 En el transcurso del período de ampliación, el Ministerio Público puede hacer las promociones correspondientes al interés social que representa, sólo en relación con las nuevas pruebas o alegaciones propuestas por el inculpado o su defensor.
 
@@ -1353,9 +1381,11 @@ La resolución definitiva sólo surtirá efectos en lo que respecta a los hechos
 
 ### CAPÍTULO I. REGLAS GENERALES
 
+(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 1998)(F. DE E., P.O. 28 DE FEBRERO DE 1998)
+
 ###### ARTÍCULO 190.
 
-Las resoluciones jurisdiccionales sólo son impugnables en los casos y términos previstos por la ley. Están legitimados para impugnar, con las salvedades que ésta dispone, quienes sean parte en el proceso, así como el ofendido y su asesor legal cuando aquél coadyuva con el Ministerio Público en el procedimiento principal, por lo que respecta a puntos relevantes para el ejercicio de sus derechos, independientemente de las facultades de impugnación que tiene dentro del procedimiento especial de reparación.
+Las resoluciones jurisdiccionales sólo son impugnables en los casos y términos previstos por la ley. Están legitimados para impugnar, con las salvedades que ésta dispone, quienes sean parte en el proceso, así como el ofendido y su asesor legal en el procedimiento principal, por lo que respecta a puntos relevantes para el ejercicio de sus derechos, independientemente de las facultades de impugnación que tiene dentro del procedimiento especial de reparación.
 
 Quien impugna puede desistir del recurso interpuesto.
 
@@ -1427,7 +1457,9 @@ Si el Juez estima fundada la impugnación, sustituirá la resolución impugnada,
 
 Son apelables por ambas partes:
 
-I. Las sentencias, salvo las dictadas en los casos en que la ley dispone que se aplique una sanción no privativa de libertad o alternativa, o autorice la sustitución de la privativa de libertad, cuando el juzgador hubiese resuelto favorablemente dicha sustitución;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 1998)</small>
+
+I. Las sentencias;
 
 II. Las resoluciones cuyo efecto sea el sobreseimiento, con excepción de los casos en que no sea apelable la sentencia;
 
@@ -1445,7 +1477,9 @@ Son apelables por el Ministerio Público los autos en que se niegue la orden de 
 
 La apelación se interpondrá por la parte que se considere agraviada por la resolución que se impugna, ante el órgano que dictó la resolución impugnada, en el acto mismo de notificación de ésta o dentro de los tres días siguientes a la fecha en que la notificación surta sus efectos si se trata de auto, y cinco si se trata de sentencia, por escrito o en comparecencia.
 
-Cuando el ofendido o sus derechohabientes participen en el proceso en calidad de coadyuvantes, podrán apelar contra la sentencia sólo en el caso de que afecte necesariamente su interés jurídico.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 1998)</small>
+
+El ofendido o sus derechohabientes, podrán apelar contra la sentencia sólo en el caso de que afecte necesariamente su interés jurídico. Los agravios se harán valer al apelar o en la vista del asunto.
 
 Los agravios se harán valer al apelar o en la vista del asunto.
 
@@ -2028,3 +2062,11 @@ LIC. ROBERTO MADRAZO PINTADO
 LIC. VÍCTOR MANUEL BARCELÓ RODRÍGUEZ
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 21 DE FEBRERO DE 1998.
+
+PRIMERO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Quedan sin efecto las disposiciones que se opongan a lo ordenado en el presente decreto.
