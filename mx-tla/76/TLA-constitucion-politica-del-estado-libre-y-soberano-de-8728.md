@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1995-10-13"
+last_updated: "1995-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 1995.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -537,7 +537,9 @@ III.- Al Partido Político que cumpla con lo dispuesto en las dos fracciones ant
 
 IV.- En ningún caso un partido político podrá contar con más de veinte Diputados por ambos principios;
 
-V.- El Partido Político que haya obtenido el triunfo en más del sesenta por ciento de los distritos Uninominales o haya obtenido más del sesenta por ciento de la votación emitida tendrá derecho a que se le asignen Diputados por el principio de representación proporcional, hasta que el número de número de Diputados sea igual al porcentaje de los distritos en que triunfó o a su porcentaje de votación emitida, sin rebasar el límite señalado en la fracción anterior.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1995)</small>
+
+V. El Partido Político que haya obtenido más del sesenta por ciento de la votación emitida, tendrá derecho a que se le asignen Diputados por el principio de Representación Proporcional, hasta que el número de Diputados sea igual al porcentaje de la votación emitida, sin rebasar el límite señalado en la fracción anterior.
 
 VI.- Ningún partido político que obtenga menos del sesenta por ciento de la votación emitida podrá constar con más de diecinueve Diputados por ambos principios; y,
 
@@ -1896,3 +1898,9 @@ P.O. 13 DE OCTUBRE DE 1995.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE NOVIEMBRE DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
