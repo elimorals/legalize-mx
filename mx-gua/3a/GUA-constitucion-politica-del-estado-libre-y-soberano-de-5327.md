@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1979-11-22"
+last_updated: "1980-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 1980.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -477,7 +477,9 @@ No pueden ser Diputados a la Legislatura del Estado:
 
 I.- El Gobernador del Estado, cualquiera que sea su denominación, el origen y la forma de su designación;
 
-II.- El Secretario General del Gobierno, el Oficial Mayor, el Tesorero General del Estado, el Procurador General de Justicia, y los Magistrados del Supremo Tribunal de Justicia, a no ser que se separen definitivamente de sus cargos cuando menos noventa días antes de la fecha en que deban efectuarse las elecciones;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 1980)</small>
+
+II.- El Secretario General del Gobierno; el Secretario de Finanzas; el Secretario de Programación; el Secretario de Fomento Económico y Social; el Secretario de Desarrollo Urbano y Obras Públicas; el Secretario de Educación y Servicios Sociales; el Procurador General de Justicia; el Oficial Mayor y los Magistrados del Supremo Tribunal de Justicia, a no ser que se separen definitivamente de sus cargos cuando menos noventa días antes de la fecha en que deban efectuarse las elecciones;
 
 III.- Los militares en servicio activo en el Estado y los ciudadanos que tengan mando de fuerzas regulares o irregulares y de policía en el distrito electoral respectivo, dentro de los noventa días anteriores a la elección o cuando ésta se efectúe;
 
@@ -525,7 +527,9 @@ El primer período de sesiones podrá prorrogarse hasta por un mes.
 
 Durante el período de sesiones que se inicie el 15 de septiembre, la Legislatura se ocupará de los asuntos siguientes:
 
-I.- Examinar y aprobar en su caso, el Presupuesto General de Egresos del año siguiente, que presente el Gobernador, y decretar los impuestos necesarios para cubrirlo;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 1980)</small>
+
+I.- Examinar y aprobar, en su caso, el presupuesto de egresos de la Administración Pública del Estado del año siguiente, que presente el Gobernador del Estado, por conducto de la Secretaría de Programción (sic) y decretar los ingresos necesarios para cubrirlo;
 
 II.- Estudiar, discutir y votar las iniciativas de ley o decreto que le sean presentadas, y
 
@@ -537,7 +541,9 @@ III.- Los demás asuntos que le sean sometidos a su consideración.
 
 Durante el segundo período se ocupará de:
 
-I.- Examinar y calificar la Cuenta Pública que le será presentada por el Ejecutivo Local en los primeros cinco días del período de sesiones. El examen no se limitará a revisar si los gastos se hicieron conforme a las partidas del Presupuesto de Egresos, sino a verificar también la exactitud y justificación de tales gastos y, en su caso, a la determinación de las responsabilidades a que hubiere lugar;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 1980)</small>
+
+I.- Recibir la Cuenta Pública que le será presentada por el Gobernador del Estado, por conducto de la Secretaría de Finanzas, en los primeros cinco días del período de sesiones. El examen y calificación a que la misma debe someterse con posterioridad, no se limitará a revisar si los gastos se hicieron conforme a las partidas del Presupuesto de Egresos de la Administración Pública del Estado, sino a verificar también su exactitud y justificación y, en su caso, a la determinación de las responsabilidades a que hubiere lugar;
 
 II.- Estudiar, discutir y votar las iniciativas de ley o decretos que le sean presentadas, y
 
@@ -745,7 +751,9 @@ V.- No ser militar en servicio activo o ciudadano con mando de fuerzas, regulare
 
 VI.- No ser Secretario de Estado, Jefe de Departamento del Distrito Federal, Ministro de la Suprema Corte de Justicia, ni Procurador General de Justicia de la Nación, en funciones dentro de los ciento ochenta días anteriores a la fecha de la elección;
 
-VII.- No ser Magistrado del Supremo Tribunal de Justicia del Estado, ni Procurador General de Justicia, Secretario General, Oficial Mayor o Tesorero General del Estado, en funciones dentro de los ciento ochenta días anteriores a la fecha de la elección;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 1980)</small>
+
+VII.- No ser Magistrado del Supremo Tribunal de Justicia del Estado, ni Procurador General de Justicia, ni Secretario General del Gobierno, ni Oficial Mayor, ni Secretario de Finanzas, en funciones dentro de los ciento ochenta días anteriores a la fecha de la elección;
 
 VIII.- No estar comprendido en las prohibiciones establecidas en el artículo siguiente.
 
@@ -837,7 +845,9 @@ VIII.- Concurrir a la apertura de los períodos ordinarios de sesiones de la Leg
 
 IX.- Acordar que los funcionarios del Poder Ejecutivo comparezcan ante la Legislatura en los casos en que ésta así lo solicite, cuando se discuta o estudie un negocio relativo a sus funciones;
 
-X.- Nombrar y remover al Secretario General del Gobierno, al Oficial Mayor, al Tesorero General del Estado, al Procurador General de Justicia, y a todos los funcionarios y empleados del Poder Ejecutivo, cuyo nombramiento o remoción no esté determinado de otro modo en esta Constitución o en las leyes;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 1980)</small>
+
+X.- Nombrar y remover al Secretario General del Gobierno, al Oficial Mayor, al Secretario de Finanpas (sic), al Secretario de Programación, al Secretario de Fomento Económico y Social, al Secretario de Educación y Servicios Sociales, al Secretario de Desarrollo Urbano y Obras Públicas, al Procurador General de Justicia, y a todos los funcionarios y empleados del Poder Ejecutivo;
 
 XI.- Nombrar en los términos del Artículo 86 de esta Constitución a los Magistrados que integran el Supremo Tribunal de Justicia del Estado, conceder las licencias que excedan de dos meses y conocer de sus renuncias;
 
@@ -1119,11 +1129,11 @@ I.- Los ingresos que determine su Ley de Ingresos, y demás normas aplicables, y
 
 II.- Los ingresos que adquiera por subsidio, participaciones, legados, donaciones o cualesquiera otra causa.
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1980)</small>
 
 ###### ARTICULO 105.
 
-El cobro y administración de los caudales públicos competen a la Tesorería General del Estado. El personal de dicha dependencia tendrá las facultades y obligaciones señaladas por las leyes sobre la materia.
+El cobro y administración de los caudales públicos competen a la Secretaría de Finanzas. El personal de dicha dependencia tendrá las facultades y obligaciones señaladas por las leyes sobre la materia.
 
 > <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
 
@@ -1385,7 +1395,7 @@ El Tesorero satisfará los mismos requisitos del Secretario y deberá otorgar la
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1980)</small>
 
 ###### ARTICULO 133.
 
@@ -1403,7 +1413,7 @@ En todo lo concerniente a la organización interna de los municipios, atribucion
 
 ###### ARTICULO 135.
 
-El Gobernador del Estado, los Diputados a la Legislatura, los Magistrados del Supremo Tribunal de Justicia, el Secretario General del Gobierno, el Oficial Mayor, el Tesorero General, el Procurador General de Justicia y los demás altos funcionarios que señale la Ley Orgánica del Poder Ejecutivo, serán responsables por los delitos comunes o por las faltas que cometan durante el desempeño de sus cargos o con motivo de éstos.
+El Gobernador del Estado, los Diputados a la Legislatura, los Magistrados del Supremo Tribunal de Justicia, el Secretario General del Gobierno, el Oficial Mayor, el Secretario de Finanzas, el Secretario de Programación, el Secretario de Fomento Económico y Social, el Secretario de Educación y Servicios Sociales, el Secretario de Desarrollo Urbano y Obras Públicas, el Procurador General de Justicia y los demás altos funcionarios que señale la Ley Orgánica del Poder Ejecutivo, serán responsables por los delitos comunes o por las faltas que cometan durante el desempeño de sus cargos o con motivo de éstos.
 
 > <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
 
@@ -1820,3 +1830,17 @@ P.O. 22 DE NOVIEMBRE DE 1979.
 ###### ARTICULO UNICO.
 
 Este decreto surtirá efectos el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE AGOSTO DE 1980.
+
+###### ARTICULO PRIMERO.
+
+Las reformas a la Constitución Política del Estado de Guanajuato que se contiene en este Decreto, surtirán efectos el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las atribuciones, facultades y disposiciones que en la Legislación vigente en el Estado se confieren a las diversas dependencias del Poder Ejecutivo o a sus titulares, conforme a las anteriores denominaciones se asignan expresamente a las nuevas dependencias y titulares a que se refiere la Ley Orgánica del Poder Ejecutivo.
+
+###### ARTICULO TERCERO.
+
+En consecuencia, la Secretaría de Finanzas, la Secretaría de Desarrollo Urbano y Obras Públicas y la Secretaría de Educación y Servicios Sociales, tendrán todas las facultades, atribuciones y responsabilidades que correspondían a la Tesorería General del Estado, a la Dirección General de Obras Públicas y a la Dirección General de Educación Pública, respectivamente, salvo las que expresamente se confieren en la vigente Ley Orgánica del Poder Ejecutivo a cualquier otra dependencia.
