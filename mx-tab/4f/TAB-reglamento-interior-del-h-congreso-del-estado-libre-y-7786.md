@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-h-congreso-del-estado-libre-y-7786"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-08-28"
-last_updated: "1997-12-31"
+last_updated: "1998-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7786&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1998.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 28 de agosto de 1993.
 
@@ -295,13 +295,15 @@ Cuando el Congreso celebre sesiones extraordinarias, la Comisión Permanente con
 
 ### CAPITULO VIII. FRACCIONES PARLAMENTARIAS
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### ARTICULO 45.
 
-Cada Fracción Parlamentaria se integrará con dos o más Diputados y se tendrán por constituidas cuando presenten:
+Cada fracción parlamentaria se integrará con uno o más Diputados y se tendrán por constituidas cuando presenten:
 
-a) Acta en que conste la decisión de sus miembros de constituirse en Fracción Parlamentaria, especificando nombre de su Partido Político y lista de integrantes; y
+a). Acta en que conste la decisión de su miembro o miembros de constituirse en fracción parlamentaria, especificando nombre de su partido político y lista de integrantes; y
 
-b) Nombre del Diputado que haya sido electo Coordinador, de conformidad a lo que establezcan, en su caso, los documentos básicos de su partido y, en su defecto, por los Diputados de su Fracción Parlamentaria.
+b). Nombre del Diputado que resulte ser coordinador, de conformidad a lo que establezcan, en su caso, los documentos básicos de su partido y, en su defecto, a lo que decidan el o los Diputados de la fracción parlamentaria.
 
 ###### ARTICULO 46.
 
@@ -961,131 +963,31 @@ IV. Las demás que le señalen el Presidente de la Gran Comisión, la Mesa Direc
 
 ### CAPITULO XIX. DEL CEREMONIAL
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
-
 ###### ARTICULO 111.
 
-Corresponde a la Dirección de Petición, Gestoría y Quejas:
-
-I. Gestionar ante las tres instancias de Gobierno, las peticiones y quejas de la ciudadanía, como apoyo a las actividades de los Diputados;
-
-II. Realizar todas las actividades encaminadas al cumplimiento de los Acuerdos de Coordinación, que celebren la Gran Comisión y los Diputados, con las dependencias del Gobierno Federal, Estatal y Municipal;
-
-III. Recopilar los programas operativos anuales, Estatales y Municipales, así como los diversos convenios celebrados por las instancias Federal, Estatal y Municipal del Gobierno; y
-
-IV. Las demás que le señalen el Presidente de la Gran Comisión, la Comisión Permanente de Petición, Gestoría y Quejas y el Oficial Mayor.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+En las sesiones el Presidente del Congreso ocupará el lugar central del presídium, a su izquierda tomará asiento el Secretario, a su derecha el Vice-Presidente y seguidamente el Pro-Secretario. Los demás Diputados ocuparán los curules sin preferencia alguna.
 
 ###### ARTICULO 112.
 
-Corresponde a la Dirección de Administración:
+Cuando asista el Presidente Constitucional de los Estados Unidos Mexicanos o su representante, ocupará el lugar situado a la derecha del Presidente del Congreso, y el Gobernador del Estado el de la izquierda; a la derecha del Presidente de la República, tomará asiento el Presidente del Tribunal Superior de Justicia y a la izquierda del Gobernador, el Diputado Secretario. El Vice-Presidente y el Pro-Secretario ocuparán sus lugares en el nivel superior del presídium o a los lados.
 
-I. Auxiliar al Oficial Mayor en seleccionar, contratar, tramitar nombramientos, renuncias y licencias; así como en vigilar el desarrollo y tener el control Administrativo del personal que preste sus servicios al Congreso;
-
-II. Auxiliar al Oficial en la realización de los trámites necesarios para el otorgamiento de las prestaciones económicas y sociales a que tengan derecho los empleados del Congreso;
-
-III. Presentar a la consideración del Oficial Mayor, el Programa de Capacitación y Desarrollo Profesional del personal;
-
-IV. Apoyar al Oficial Mayor en la tramitación de adquisiciones, servicios y suministros a las áreas administrativas;
-
-V. Coordinar la prestación de los servicios de Correspondencia, Archivo, Transportación, Intendencia, Fotocopiado y Mensajería;
-
-VI. Proporcionar vigilancia, mantenimiento y conservación de los bienes muebles e inmuebles propiedad del Congreso;
-
-VII. Notificar al personal a través de circular, que la falta de asistencia injustificada y cualquier violación al contrato de trabajo, se sancionará conforme a la Ley y que cuatro retardos durante un mes, se considera un día de falta injustificada, mismo que se descontará del sueldo; y
-
-VIII. Las demás que le señale el Presidente de la Gran Comisión o el propio Oficial Mayor;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+Cuando sólo asista el Gobernador del Estado o su representante, ocupará el asiento ubicado a la derecha del Presidente del Congreso y el Presidente del Tribunal Superior de Justicia o su representante el de la izquierda.
 
 ###### ARTICULO 113.
 
-Corresponde a la Dirección de Finanzas:
-
-I. Elaborar el Presupuesto Anual del Poder Legislativo, bajo la supervisión del Oficial Mayor;
-
-II. Tramitar ante la Secretaría de Planeación y Finanzas, el cobro de los fondos del Presupuesto;
-
-III. Recibir, proveer y controlar los recursos financieros;
-
-IV. Pagar los sueldos, salarios y demás prestaciones al personal que labora en el Congreso, así como efectuar los pagos a los Proveedores de artículos y servicios que se requieran;
-
-V. Elaborar la información correspondiente a la Cuenta Pública del Congreso y remitirla a la Contaduría Mayor de Hacienda;
-
-VI. Informar mensualmente al Presidente de la Gran Comisión por conducto del Oficial Mayor, el estado que guardan los recursos financieros; y
-
-VII. Las demás que le señalen el Presidente de la Gran Comisión y el Oficial Mayor.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+Al entrar y salir del salón de sesiones el Presidente de la República o el Gobernador del EStado (sic) o ambos, el público asistente y los miembros del Congreso se pondrán de pie; excepto, el Presidente del Congreso que permanecerá en su asiento, salvo que se entone el Himno Nacional, en tal caso, deberá ponerse de pie.
 
 ###### ARTICULO 114.
 
-Corresponde a la Dirección de Comunicación Social y Relaciones Públicas:
-
-I. Diseñar el Proyecto de Programa de Comunicación Social del Congreso, para dar a conocer las actividades que se lleven a cabo y auxiliar a los Diputados en sus relaciones con los medios de comunicación;
-
-II. Proporcionar toda la información relacionada con las actividades legislativas que se le solicite, manteniendo al día el archivo correspondiente;
-
-III. Asistir a todas las reuniones y llevar un archivo de grabación magnetofónica, filmaciones, notas periodísticas y fotografías;
-
-IV. Reunir el material informativo necesario para la elaboración de la revista mensual del Congreso, así como la organización de exposiciones de carácter cultural;
-
-V. Dirigir las relaciones públicas de la Legislatura;
-
-VI. Contar con un directorio oficial actualizado;
-
-VII. Llevar a cabo eventos culturales, cívicos, sociales, homenajes y aniversarios luctuosos, que busquen el mantenimiento de las buenas relaciones públicas del Congreso; y
-
-VIII. Las demás que le señalen el Presidente de la Gran Comisión, la Mesa Directiva o el Oficial Mayor.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+Cuando se trate de la protesta constitucional que deba reunir algún funcionario ante el Congreso, los Diputados y demás asistentes permanecerán de pie.
 
 ###### ARTICULO 115.
 
-Son obligaciones y atribuciones del Contador Mayor de Hacienda:
-
-I. Llevar el Registro y control de los bienes muebles e inmuebles propiedad del Estado, Municipios, Organismos e Instituciones que manejen fondos y valores públicos así como de los nombramientos de los Servidores Públicos;
-
-II. Fijar las normas, procedimientos y sistemas internos para inspeccionar la Hacienda Pública del Estado y de los Municipios, a través de la revisión, glosa y auditoría de las cuentas públicas. La auditoría, revisión y glosa se hará a los registros de las operaciones derivadas de la aplicación de las Leyes de Ingresos y del ejercicio de los presupuestos de egresos, de los poderes del Estado y los Municipios;
-
-III. Controlar el ejercicio presupuestal de la Hacienda Estatal y Municipal, formular pliego de observaciones a los Tres Poderes del Estado y a los Municipios, que surjan del Proceso de revisión, glosa y auditoría de las cuentas públicas y la supervisión física de inversiones en obras;
-
-IV. Practicar auditorías contables, presupuestales y administrativas en las oficinas de la Hacienda Pública Estatal y Municipal;
-
-V. Revisar contabilidad de las dependencias del Estado, Organismos o Instituciones que manejen fondos públicos;
-
-VI. Participar en la evaluación y autoevaluación del ejercicio presupuestal que realicen los Ayuntamientos o Concejos Municipales;
-
-VII. Circularizar y verificar a proveedores y contratistas por adquisiciones y prestaciones de servicios, para conocer la legalidad de las operaciones;
-
-VIII. Supervisar que las entidades sujetas a cuenta pública realicen sus operaciones con estricto apego a las Leyes de Ingresos, Presupuestos de Egresos, Programas y Subprogramas aprobados;
-
-IX. Recibir del Estado, Municipios, Organismos e Instituciones que manejen fondos y valores públicos, la información relativa a las cuentas públicas;
-
-X. Presentar, en los términos del artículo 38 de la Ley Orgánica del Poder Legislativo a la Comisión Inspectora de Hacienda del Congreso, los informes anuales de la revisión, glosa y auditoría de las cuentas públicas de los Tres Poderes del Estado y de los Municipios, para que, con fundamento en dichos informes técnico contables, la Comisión Inspectora de Hacienda rinda al Congreso, los dictámenes correspondientes a las cuentas públicas;
-
-XI. Para lo previsto en las fracciones II, III y V se deberá contar con la autorización de la Comisión Inspectora de Hacienda, a la que informará de los resultados de la misma; y
-
-XII. Las demás que le competan conforme a las disposiciones legales.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+Cuando algún integrante del Congreso enferme de gravedad, el Presidente nombrará una comisión de Diputados para que lo visiten cuantas veces sea necesario.
 
 ###### ARTICULO 116.
 
-El Subcontador Mayor de Hacienda, tendrá las siguientes atribuciones:
-
-I. Coordinar y supervisar las funciones de las unidades Administrativas dependientes de la Contaduría Mayor de Hacienda;
-
-II. Coordinar y supervisar la elaboración del anteproyecto de Presupuesto de la Contaduría Mayor de Hacienda y remitirlo a la Oficialía Mayor, para integrarse al Proyecto Anual de Presupuesto del Poder Legislativo;
-
-III. Coordinar y supervisar los estudios y proyectos, así como la elaboración de los informes previo y de resultados sobre la revisión y glosa de las cuentas públicas;
-
-IV. Coordinar el programa de auditorías a las dependencias y Entidades Públicas;
-
-V. Editar el Órgano de Información de la Contaduría Mayor de Hacienda, así como otras publicaciones; y
-
-VI. Las demás que le señale el Contador Mayor de Hacienda.
+En caso de fallecimiento será trasladado el féretro al recinto del Congreso, en donde se instalará la capilla ardiente, obligándose todos los Diputados a hacer honores póstumos y asistir al sepelio. El Presidente y el Secretario harán circular esquelas luctuosas participándolo a los Poderes Ejecutivo y Judicial, para que concurran al acto; en los recesos corresponderá a la Comisión Permanente cumplir con la anterior.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
@@ -1318,3 +1220,9 @@ P.O. 31 DE DICIEMBRE DE 1997.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+P.O. 17 DE ENERO DE 1998.
+
+###### ARTICULO ÚNICO.
+
+La presente reforma entrará en vigor a partir del momento de su aprobación; publíquese en el Periódico Oficial del Estado.
