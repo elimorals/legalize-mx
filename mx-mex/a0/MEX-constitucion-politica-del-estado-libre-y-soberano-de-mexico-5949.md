@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1945-10-17"
+last_updated: "1946-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE OCTUBRE DE 1945.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE ABRIL DE 1946.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -403,11 +403,11 @@ Toda resolución que dicte la Legislatura, tendrá el carácter de ley, decreto,
 
 #### SECCION SEGUNDA. DE LA INSTALACION DE LA LEGISLATURA
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1929)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1946)</small>
 
 ###### Art. 44.
 
-La Legislatura se renovará en su totalidad cada cuatro años, sin que por ningún motivo el mandato por virtud del cual funcionen sus miembros pueda prorrogarse más allá de ese período.
+La Legislatura se renovará en su totalidad, cada tres años; sin que por ningún motivo el mandato por virtud del cual funcionen sus miembros, pueda prorrogarse más allá de este período de tiempo.
 
 ###### Art. 45.
 
@@ -1946,3 +1946,9 @@ Este decreto entrará en vigor el día de su publicación en la "Gaceta del Gobi
 G.G. 17 DE OCTUBRE DE 1945.
 
 Este Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
+
+G.G. 20 DE ABRIL DE 1946.
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
