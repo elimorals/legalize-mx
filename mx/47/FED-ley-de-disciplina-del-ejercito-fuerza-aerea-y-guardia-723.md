@@ -4,7 +4,7 @@ identifier: "FED-ley-de-disciplina-del-ejercito-fuerza-aerea-y-guardia-723"
 country: "mx"
 rank: "ley"
 publication_date: "1926-03-15"
-last_updated: "1926-03-15"
+last_updated: "1934-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=723&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1926-03-11"
 
 LEY DE DISCIPLINA DEL EJERCITO Y DE LA ARMADA NACIONALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE ENERO DE 1934.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 15 de marzo de 1926.
 
@@ -225,7 +225,7 @@ b).- Para los oficiales, el cambio de Cuerpo o de comisión, y el arresto hasta 
 
 ###### ARTICULO 38o.
 
-La suspensión y la destitución serán impuestas por el Tribunal competente, al militar que sea consignado por el Consejo de Honor. La situación del sentenciado en uno u otro caso, será la que fija la Ley Penal Militar.
+(DEROGADO POR EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA VARIAS LEYES DEL RAMO DE GUERRA, FIJANDO REGLAS PARA EL REINGRESO AL EJERCITO O ARMADA NACIONALES, D.O.F. 16 DE ENERO DE 1934)
 
 ###### ARTICULO 39o.
 
@@ -254,3 +254,19 @@ Lo que comunico a usted para su publicación y demás efectos.
 Sufragio Efectivo. No Reelección.
 
 México, 13 de marzo de 1926.- El Secretario de Estado y del Despacho de Gobernación, A. Tejeda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 16 DE ENERO DE 1934.
+
+###### ARTICULO 1°.
+
+Se derogan los artículos 4° de la Ordenanza General del Ejército de fecha 11 de diciembre de 1911, 38 de la Ley de Disciplina del Ejército y Armada Nacionales de 11 de marzo de 1926 y 6° de la Ley Orgánica del Ejército y Armada Nacionales de la citada fecha de 11 de marzo de 1926, en cuanto se opongan a esta Ley.
+
+###### ARTICULO 2°.
+
+Los militares que tengan más de seis años de estar separados del Ejército por virtud de licencia ilimitada, gozarán de un plazo de seis meses para manifestar su deseo de reingresar al mismo, a fin de no quedar comprendidos en las disposiciones del artículo 5°; pero no podrán usar de esta prerrogativa los militares que se encuentren en los casos a que se refiere el artículo 8°.
+
+###### ARTICULO 3°.
+
+La presente ley comenzará a regir desde la fecha de su promulgación.
