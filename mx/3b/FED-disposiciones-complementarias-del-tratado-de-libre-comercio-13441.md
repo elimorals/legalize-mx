@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2004-11-12"
+last_updated: "2004-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,23 +18,25 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-DECRETO POR EL QUE SE ESTABLECE EL ARANCEL-CUPO PARA LA IMPORTACION DE AZUCAR
+ACUERDO POR EL QUE SE REFORMA EL DIVERSO POR EL QUE SE DAN A CONOCER LOS CUPOS MINIMOS PARA IMPORTAR EN EL PERIODO 2004-2007 DENTRO DEL ARANCEL-CUOTA ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMÉRICA DEL NORTE, MAIZ EXCEPTO PARA SIEMBRA, ORIGINARIO DE LOS ESTADOS UNIDOS DE AMERICA O DE CANADA.
 
-Decreto publicado en el Diario Oficial de la Federación, el viernes 12 de noviembre de 2004.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
-
-VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31, 34 y 35 de la Ley Orgánica de la Administración Pública Federal, y 4o., fracción I, 12, 13 y 14 de la Ley de Comercio Exterior, y
+FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en los artículos 302 párrafo 4 del Tratado de Libre Comercio de América del Norte; 4o. fracción III, 5o. fracción V, 6o., 14, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 de su Reglamento, 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el azúcar es un bien de consumo básico, utilizado en diversos procesos de producción y considerado un artículo de primera necesidad;
+Que el 31 de diciembre de 2003 se publicó en el Diario Oficial de la Federación Acuerdo por el que se dan a conocer los cupos mínimos para importar en el periodo 2004-2007 dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, maíz excepto para siembra, originario de los Estados Unidos de América o de Canadá, modificado mediante diverso dado a conocer en el mismo órgano informativo el 5 de agosto de 2004;
 
-Que la oferta nacional de azúcar podría llegar a ser insuficiente, dado que en los últimos meses del año, su producción nacional es baja, lo que ocasionaría expectativas de desabasto del endulzante y una posibilidad de aumento en su precio, y
+Que el artículo 302 párrafo 4 del propio tratado, establece que cada una de las partes podrá adoptar o mantener medidas sobre las importaciones con el fin de asignar el cupo de importaciones realizadas según una cuota mediante aranceles (arancel-cuota) establecido en el Anexo 302.2, siempre y cuando tales medidas no tengan efectos comerciales restrictivos sobre las importaciones adicionales a los derivados de la imposición del arancel-cuota;
 
-Que por lo anterior, es necesario contar con un esquema alterno de abastecimiento de azúcar para el mercado nacional, que permita resolver de manera expedita los posibles problemas de desabasto de azúcar que se pudieran presentar en el país, a fin de garantizar para la industria nacional que lo utiliza en sus procesos productivos fuentes de suministro adicionales y a precios competitivos, he tenido a bien expedir el siguiente
+Que el procedimiento de asignación de los cupos de importación referidos, es un instrumento de la política sectorial para promover las corrientes comerciales entre las Partes;
 
-DECRETO
+Que derivado de los requerimientos actuales de las cadenas productivas, es necesario adoptar acciones que permitan prevenir situaciones de desabasto de maíz, en apoyo de las empresas que utilizan este producto como materia prima en sus procesos productivos, y
+
+Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+
+ACUERDO POR EL QUE SE REFORMA EL DIVERSO POR EL QUE SE DAN A CONOCER LOS CUPOS MINIMOS PARA IMPORTAR EN EL PERIODO 2004-2007 DENTRO DEL ARANCEL-CUOTA ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, MAIZ EXCEPTO PARA SIEMBRA, ORIGINARIO DE LOS ESTADOS UNIDOS DE AMERICA O DE CANADA
 
 ###### ARTICULO 1o.
 
@@ -72,13 +74,51 @@ Los cupos mínimos para importar maíz, excepto para siembra en el periodo 2004-
 
 (VEASE ARCHIVO ANEXO)
 
-###### ARTÍCULO ÚNICO.
+###### ARTICULO UNICO.
 
-Se establece el arancel-cupo, expresado en dólares de los Estados Unidos de América por kilogramo, para la importación de azúcar, según se indica en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se señalan:
+Se reforma el cuadro de criterios de asignación de maíz amarillo y maíz blanco del artículo tercero y se sustituye la hoja de requisitos a que se hace referencia en el artículo quinto del Acuerdo por el que se dan a conocer los cupos mínimos para importar en el periodo 2004-2007 dentro del
+
+arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, maíz excepto para siembra, originario de los Estados Unidos de América o de Canadá, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2003 y su modificación publicada en el mismo órgano informativo el 5 de agosto de 2004, para quedar como sigue:
+
+“ARTICULO TERCERO.- . . .
+
+a) . . .
+
+b) . . .
+
+c) . . .
+
+d) . . .
+
+e) . . .
+
+f) . . .
+
+. . .
+
+Maíz Amarillo:
+
+. . .
 
 (VEASE ARCHIVO ANEXO)
 
-Lo dispuesto en este artículo sólo será aplicable a las mercancías que cuenten con un certificado de cupo expedido por la Secretaría de Economía, conforme a los Acuerdos que para tal efecto se publiquen en el Diario Oficial de la Federación.
+. . .
+
+Maíz Blanco:
+
+La asignación de maíz blanco será otorgada por la Dirección General de Comercio Exterior, previo dictamen favorable de la Dirección General de Industrias Básicas de esta Secretaría, quien lo emitirá conjuntamente con la opinión de la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA, para las personas físicas o morales de las industrias harinera y molinera de nixtamal, ubicadas en los estados de Baja California, Coahuila, Chiapas, Nuevo León, Tamaulipas, Veracruz y Yucatán y aquellos estados considerados en la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente para la asignación de la cuota mínima de importación de maíz blanco, conforme al criterio de asignación, apertura de ventanilla y vigencia de los certificados que se detallan a continuación:
+
+(VEASE ARCHIVO ANEXO)
+
+El dictamen para las industrias harinera y molinera de nixtamal, será emitido por la Dirección General de Comercio Exterior previo dictamen favorable de la Dirección General de Industrias Básicas de esta Secretaría, quien lo emitirá conjuntamente con la opinión de la Dirección General de Desarrollo de Mercados, de Apoyos y Servicios a la Comercialización Agropecuaria ASERCA/SAGARPA de la Secretaría de Agricultura, Ganadería Desarrollo Rural, Pesca y Alimentación, dentro de los siete días hábiles siguientes a la fecha en que la Dirección General de Industrias Básicas haya recibido de la Dirección General de Comercio Exterior para su dictamen, las solicitudes debidamente requisitadas. En todos los casos se deberá señalar el monto y plazo para ejercer la asignación, así como las condiciones a que deben sujetarse los beneficiarios.
+
+Los reportes de consumos auditados que se mencionan en el presente artículo deberán ser emitidos y firmados por un auditor externo registrado ante la Secretaría de Hacienda y Crédito Público (SHCP), debiendo indicar su número de registro correspondiente y rubricar todas las hojas y anexos, en su caso, que integren dichos reportes.
+
+La mercancía no podrá ser comercializada en el mismo estado físico en que se importe.
+
+Para la distribución del cupo y el monto a asignar se utilizará como referencia las cifras o estadísticas de los mercados de granos de la Secretaría de Economía (SE) y de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación (SAGARPA).
+
+Para la aplicación de los criterios que se mencionan en este artículo, la Dirección General de Comercio Exterior, podrá solicitar la interpretación de la Dirección General de Industrias Básicas.
 
 ### CAPITULO I - DISPOSICIONES GENERALES
 
@@ -380,6 +420,28 @@ Las disposiciones del presente Decreto no liberan del cumplimiento de las restri
 
 ## TRANSITORIO
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+UNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2007.
 
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de noviembre de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
+México, D.F., a 25 de noviembre de 2004.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
+
+SECRETARIA DE ECONOMIA
+
+DIRECCION GENERAL DE COMERCIO EXTERIOR
+
+DIRECCION DE OPERACION DE CUPOS DE IMPORTACION Y EXPORTACION
+
+2005-2007
+
+REQUISITOS PARA LA ASIGNACION DEL CUPO DE IMPORTACION DE
+
+MAIZ, EXCEPTO PARA SIEMBRA (BLANCO)
+
+1005.90.04
+
+ORIGINARIO DE LOS ESTADOS UNIDOS DE AMERICA O DE CANADA
+
+TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
+
+ASIGNACION DIRECTA
+
+(VEASE ARCHIVO ANEXO)
