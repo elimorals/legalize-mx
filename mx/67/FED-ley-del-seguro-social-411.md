@@ -4,7 +4,7 @@ identifier: "FED-ley-del-seguro-social-411"
 country: "mx"
 rank: "ley"
 publication_date: "1973-03-12"
-last_updated: "1974-12-23"
+last_updated: "1974-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=411&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1974.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 12 de marzo de 1973.
 
@@ -126,7 +126,9 @@ V.- Los ejidatarios, comuneros, colonos y pequeños propietarios no comprendidos
 
 VI.- Los patrones personas físicas con trabajadores asegurados a su servicio, cuando no estén ya asegurados en los términos de esta Ley.
 
-El Ejecutivo Federal, a propuesta del Instituto, determinará, por decreto, las modalidades y fecha de implantación del Seguro Social en favor de los sujetos de aseguramiento comprendidos en este artículo, así como de los trabajadores domésticos.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE 1974)</small>
+
+El Ejecutivo Federal, a Propuesta del Instituto, determinará por Decreto, las modalidades y fecha de incorporación obligatoria al Régimen del Seguro Social, de los sujetos de aseguramiento comprendidos en este Artículo, así como de los trabajadores domésticos.
 
 ###### ARTICULO 14.
 
@@ -274,15 +276,15 @@ f) Los pagos por tiempo extraordinario, salvo cuando este tipo de servicios est�
 
 De acuerdo con el salario base de cotización que perciban los asegurados, quedarán comprendidos en alguno de los siguientes grupos:
 
-Salario Diario
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE 1974)</small>
+
+Salario
+
+Diario
 
 Grupo Más de Promedio Hasta
 
-K $ ----- $ 26.40 $ 30.00
-
-L 30.00 35.00 40.00
-
-M 40.00 45.00 50.00
+M $-.- $45.00 $50.00
 
 N 50.00 60.00 70.00
 
@@ -298,15 +300,15 @@ T 170.00 195.00 220.00
 
 U 220.00 250.00 280.00
 
-W 280.00 ---- ----
+W 280.00 … …
 
 En el caso de sujetos no asalariados comprendidos en el artículo 12, la base de cotización se determinará en razón al ingreso promedio anual.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE 1974)</small>
+
 ###### ARTICULO 34.
 
-En el caso de salarios de $ 280.00 diarios en adelante, comprendido en el grupo "W", se establece un límite superior equivalente a diez veces el salario mínimo general que rija en el Distrito Federal.
-
-Las modificaciones que se deriven del incremento del salario mínimo, surtirán efectos a partir del primer bimestre del año respectivo.
+En el caso de salarlos de $280.00 diarios en adelante, comprendidos en el grupo “W”, se establece un límite superior equivalente a diez veces el salar mínimo general que fija en el Distrito Federal.
 
 ###### ARTICULO 35.
 
@@ -336,13 +338,17 @@ I.- En los casos de la fracción II del artículo 35, si las ausencias del traba
 
 Para este efecto, el número de semanas de cada bimestre se obtendrá dividiendo entre siete el número de días de salario percibido incluidos en el período de pago de cuotas. Hecha la división, si existiera un sobrante de días mayor a tres, éste se considerará como otra semana completa, no tomándose en cuenta el exceso si el número de días fuera de tres o menos. Respecto a las demás semanas para completar el bimestre de cotización, en las que hubo ausentismo, sólo se pagará la cuota correspondiente al seguro de Enfermedades y maternidad.
 
-Si las ausencias del trabajador son por períodos mayores de quince días consecutivos, el patrón quedará liberado del pago de las cuotas obreropatronales, siempre y cuando proceda en los términos del artículo 43;
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE 1974)</small>
+
+Sí las ausencias del trabajador son por períodos de quince días consecutivos o mayores, el patrón quedará liberado del pago de las cuotas obrero patronales, siempre y cuando proceda en los términos del Artículo 43;
 
 II.- En los casos de las fracciones II y III del artículo 36, se seguirán las mismas reglas de la fracción anterior;
 
 III.- En el caso de ausencias de trabajadores comprendidos en la fracción III del artículo 35, cualquiera que sea la naturaleza del salario que perciban, el reglamento determinará lo procedente conforme al criterio sustentado en las bases anteriores; y
 
-IV.- Tratándose de ausencias amparadas por incapacidades médicas expedidas por el Instituto no se cubrirán en ningún caso las cuotas obreropatronales.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE 1974)</small>
+
+IV.- Tratándose de ausencias amparadas por incapacidades médicas expedidas por el Instituto no se cubrirán en ningún caso las cuotas obrero patronales y dichos períodos se considerarán como cotizados para todos los efectos legales en favor del trabajador.
 
 ###### ARTICULO 38.
 
@@ -354,6 +360,10 @@ Cuando la alimentación no cubra los tres alimentos, sino uno o dos de éstos, p
 
 En el caso de que el asegurado preste servicios a varios patrones se le clasificará, para el disfrute de prestaciones en dinero, en el grupo correspondiente a la suma de los salarios percibidos en los distintos empleos. Los patrones cubrirán separadamente los aportes a que estén obligados con base en el salario que cada uno de ellos pague al asegurado.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+Cuando la suma de los salarios que percibe un trabajador llegue o sobrepase el límite superior establecido en el Artículo 34 de esta Ley, a petición de los patrones, éstos cubrirán los aportes del salario máximo de cotización, pagando entre ellos la parte proporcional que resulte entre el salario que cubre individualmente y la suma total de los salarios que percibe el trabajador.
+
 ###### ARTICULO 40.
 
 Cuando encontrándose el asegurado al servicio de un mismo patrón se modifique el salario estipulado, se estará a lo siguiente:
@@ -362,13 +372,17 @@ I.- En los casos previstos en la fracción I del artículo 36, el patrón estar�
 
 II.- En los casos previstos en la fracción II del artículo 36, los patrones estarán obligados a comunicar al Instituto, dentro del mes de enero siguiente, la modificación del salario promedio obtenido, cuando implique cambio de grupo de cotización del trabajador; y
 
-III.- En los casos previstos en la fracción III del artículo 36, si se modifican los elementos fijos del salario y ello implica cambio de grupo dentro del cual el asegurado se encuentra cotizando, el patrón deberá presentar el aviso de modificación dentro de los cinco días siguientes a la fecha en que surta efectos dicha modificación. Si al concluir el año calendario respectivo los elementos variables que integran el salario implican una modificación en el grupo de cotización del asegurado, el patrón presentará al Instituto el aviso de modificación dentro del mes de enero siguiente. El salario diario se determinará dividiendo el importe total de los ingresos variables obtenidos en el año calendario anterior, entre el número de días de salario devengado y sumando su resultando a los elementos fijos del salario diario.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+III.- En los casos previstos en la fracción III del Artículo 36, si se modifican los elementos fijos del salario y ello implica cambio del grupo dentro del cual el asegurado se encuentra cotizando, el patrón deberá presentar el aviso de modificación dentro de los cinco días siguientes de la fecha en que cambie el salarlo. Si al concluir el año calendario respectivo los elementos variables que integran el salario implican una modificación en el grupo de cotización del asegurado, el patrón presentará al Instituto el aviso de modificación dentro del mes de enero siguiente. El salario diario se determinará dividiendo el importe total de los ingresos variables obtenidos en el año calendario anterior, entre el número de días de salarlo devengado y sumando su resultado a los elementos fijos del salario diario.
 
 En todos los casos previstos en este artículo, si la modificación se origina por revisión del contrato colectivo, se comunicará al Instituto dentro de los treinta y cinco días siguientes a su otorgamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 41.
 
-Los cambios de grupo de cotización derivados de las modificaciones de salario señaladas en el artículo anterior, surtirán efectos, tanto para la cotización como para las prestaciones en dinero, a partir del siguiente bimestre a la fecha en que ocurrió el cambio, con excepción de las modificaciones bianuales al salario mínimo, las que surtirán efectos precisamente a partir del primer bimestre del año respectivo.
+Los cambios de grupo de cotización derivados de las modificaciones del salarlo señaladas en el Artículo anterior, surtirán efectos, tanto para la cotización como para las prestadores en dinero, a partir del siguiente bimestre a la fecha en que ocurrió el cambio, con excepción de las modificaciones que por Ley deben efectuarse al salario mínimo las cuales surtirán efectos a partir de la fecha en que entren en vigor.
 
 En el caso de los trabajadores inscritos en el grupo "W", el patrón estará obligado a comunicar al Instituto cualquier cambio de salario, hasta el límite superior señalado en el artículo 34, dentro de los cinco días siguientes a dicha modificación.
 
@@ -532,31 +546,29 @@ El goce de este subsidio se otorgará al asegurado entre tanto no se declare que
 
 II.- Al ser declarada la incapacidad permanente total del asegurado, éste recibirá una pensión mensual de acuerdo con la siguiente tabla:
 
-Salario Diario
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-Pensión
+Salario
+
+Diario Pensión
 
 Grupo Más de Promedio Hasta Mensual
 
-K $ ----- $ 26.40 $ 30.00 $ 633.60
+M $-.- $45.00 $50.00 $1 080.00
 
-L 30.00 35.00 40.00 840.00
+N 50.00 60.00 70.00 1 440.00
 
-M 40.00 45.00 50.00 1,080.00
+O 70.00 75.00 80.00 1 800.00
 
-N 50.00 60.00 70.00 1,440.00
+P 80.00 90.00 100.00 2 025.00
 
-O 70.00 75.00 80.00 1,800.00
+R 100.00 115.00 130.00 2 587.50
 
-P 80.00 90.00 100.00 2,025.00
+S 130.00 150.00 170.00 3 375.00
 
-R 100.00 115.00 130.00 2,587.50
+T 170.00 195.00 220.00 4 095.00
 
-S 130.00 150.00 170.00 3,375.00
-
-T 170.00 195.00 220.00 4,095.00
-
-U 220.00 250.00 280.00 5,250.00
+U 220.00 250.00 280.00 5 250.00
 
 W 280.00 -.- -.- -.-
 
@@ -566,7 +578,15 @@ Los trabajadores incorporados al sistema de porcentaje sobre el salario conforme
 
 El ochenta por ciento del salario cuando éste sea hasta de $80.00 diarios, el setenta y cinco por ciento cuando alcance hasta $170.00 diarios y el setenta por ciento para salarios superiores a esta última cantidad;
 
-III.- Si la incapacidad declarada es permanente parcial, el asegurado recibirá una pensión calculada conforme a la tabla de valuación de incapacidad contenida en la Ley Federal del Trabajo, tomando como base el monto de la pensión que correspondería a la incapacidad permanente total. El tanto por ciento de la incapacidad se fijará entre el máximo y el mínimo establecidos en dicha tabla; teniendo en cuenta la edad del trabajador, la importancia de la incapacidad, si ésta es absoluta para el ejercicio de su profesión aún cuando quede habilitado para dedicarse a otra, o que simplemente hayan disminuido sus aptitudes para el desempeño de la misma o para ejercer actividades remuneradas semejantes a su profesión u oficio. Si el monto de la pensión mensual resulta inferior a doscientos pesos, se pagará a opción del asegurado, en sustitución de la misma, una indemnización global equivalente a cinco anualidades de la pensión que le hubiese correspondido.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+III.- Sí la incapacidad declarada es permanente parcial, el asegurado recibirá una pensión calculada conforme a la tabla de valuación de incapacidad contenida en la Ley Federal del Trabajo, tomando como base el monto de la pensión que correspondería a la incapacidad permanente total. El tanto por ciento de la incapacidad se fijará entre el máximo y el mínimo establecidos en dicha tabla; teniendo en cuenta la edad del trabajador, la importancia de la incapacidad, si ésta es absoluta para el ejercicio de su profesión aun cuando quede habilitado para dedicarse a otra, o que simplemente hayan disminuido sus aptitudes para el desempeño de la misma o para ejercer actividades remuneradas semejantes a su profesión u oficio.
+
+Si la valuación definitiva de la incapacidad fuese de hasta el 15%, se pagará al asegurado, en sustitución de la pensión, una indemnización global equivalente a cinco anualidades de la pensión que le hubiese correspondido.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+IV.- EI Instituto otorgará a los pensionados por incapacidad permanente total y parcial con un mínimo de cincuenta por ciento de incapacidad, un aguinaldo anual equivalente a quince días del importe de la pensión que perciban.
 
 ###### ARTICULO 66.
 
@@ -608,15 +628,29 @@ III.- A cada uno de los huérfanos que lo sean de padre o madre, que se encuentr
 
 IV.- A cada uno de los huérfanos que lo sean de padre o madre, menores de dieciséis años, se les otorgará una pensión equivalente al veinte por ciento de la que hubiera correspondido al asegurado tratándose de incapacidad permanente total. Esta pensión se extinguirá cuando el huérfano cumpla dieciséis años.
 
-Podrá otorgarse o extenderse el goce de esta pensión, en los términos del reglamento respectivo, a los huérfanos mayores del dieciséis años, hasta una edad máxima de veinticinco años, cuando se encuentren estudiando en planteles del sistema educativo nacional, tomando en consideración las condiciones económicas, familiares y personales del beneficiario y siempre que no sea sujeto del régimen del seguro obligatorio;
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-V.- A cada uno de los huérfanos cuando lo sean de padre y madre, menores de dieciséis años o hasta veinticinco años si se encuentran estudiando en los planteles a que se refiere la fracción anterior, se les otorgará una pensión equivalente al treinta por ciento de la que hubiere correspondido al asegurado tratándose de incapacidad permanente total.
+Deberá otorgarse o extenderse el goce de esta pensión, en los términos del reglamento respectivo, a los huérfanos mayores de dieciséis años, hasta una edad máxima de veinticinco años, cuando se encuentren estudiando en planteles del sistema educativo nacional, tomando en consideración las condiciones económicas, familiares y personales del beneficiario y siempre que no sea sujeto del régimen del seguro obligatorio;
 
-A cada uno de los huérfanos que lo sean de padre y madre y que se encuentren totalmente incapacitados, se les otorgará una pensión equivalente al treinta por ciento de la que hubiere correspondido al asegurado tratándose de incapacidad permanente total.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-El derecho al goce de las pensiones a que se refieren los dos párrafos anteriores, se extinguirá en los mismos términos expresados en las fracciones III y IV de este precepto.
+V.- En el caso de las dos fracciones anteriores, si posteriormente falleciere el otro progenitor, la pensión de orfandad se aumentará del veinte al treinta por ciento, a partir de la fecha del fallecimiento del segundo progenitor y se extinguirá en los términos establecidos en las mismas fracciones;
 
-Al término de la pensión de orfandad establecida en las fracciones III, IV y V de este artículo, se otorgará al huérfano un pago adicional de tres mensualidades de la pensión que disfrutaba.
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+VI.- A cada uno de los huérfanos cuando lo sean de padre y madre, menores de dieciséis años o hasta veinticinco años si se encuentran estudiando en los planteles del sistema educativo nacional o en tanto se encuentren totalmente incapacitados debido a una enfermedad crónica, defecto físico o psíquico, se les otorgará una pensión equivalente al treinta por ciento de la que hubiere correspondido al asegurado tratándose de incapacidad permanente total.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+El derecho al goce de las pensiones a que se refiere el párrafo anterior, se extinguirá en los mismos términos expresados en las fracciones III y IV de este precepto.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+Al término de las pensiones de orfandad establecidas en este artículo, se otorgará al huérfano un pago adicional de tres mensualidades de la pensión que disfrutaba.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+A las personas señaladas en las fracciones II a VI de este Artículo, así como a los ascendientes pensionados en los términos del Artículo 73, se les otorgará un aguinaldo anual equivalente a quince días del importe de la pensión que perciban.
 
 ###### ARTICULO 72.
 
@@ -790,13 +824,25 @@ d).- Viudez, orfandad o ascendencia;
 
 III.- La esposa del asegurado o, a falta de ésta, la mujer con quien ha hecho vida marital durante los cinco años anteriores a la enfermedad, o con la que haya procreado hijos, siempre que ambos permanezcan libres de matrimonio. Si el asegurado tiene varias concubinas ninguna de ellas tendrá derecho a la protección;
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+Del mismo derecho gozará, cuando se encuentre totalmente incapacitado para trabajar, el esposo de la asegurada o, a falta de éste el concubino si reúne los requisitos del párrafo anterior;
+
 IV.- La esposa del pensionado en los términos de los incisos a), b) y c) de la fracción II. A falta de esposa, la concubina si se reúnen los requisitos de la fracción III;
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+Del mismo derecho gozará, cuando se encuentre totalmente incapacitado para trabajar, el esposo de la pensionada o, a falta de éste, el concubino si reúne los requisitos de la fracción III;
 
 V.- Los hijos menores de dieciséis años del asegurado y de los pensionados en los términos consignados en la fracción anterior;
 
-VI.- Los hijos del asegurado hasta la edad de veintiún años cuando realicen estudios en planteles del sistema educativo nacional;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-VII.- Los hijos mayores de dieciséis años de los pensionados por invalidez, vejez y cesantía en edad avanzada, que se encuentran disfrutando de asignaciones familiares;
+VI.- Los hijos del asegurado hasta la edad de veinticinco años cuando realicen estudios en planteles del sistema educativo nacional o, si no pueden mantenerse por su propio trabajo debido a una enfermedad crónica, defecto físico o psíquico, hasta en tanto no desaparezca la incapacidad que padecen;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+VII.- Los hijos mayores de dieciséis años de los pensionados por invalidez, vejez y cesantía en edad avanzada, que se encuentren disfrutando de asignaciones familiares, así como los de los pensionados por incapacidad permanente total o parcial con un mínimo del cincuenta por ciento de incapacidad en los mismos casos y condiciones establecidos en el Artículo 156;
 
 VIII.- El padre y la madre del asegurado que vivan en el hogar de éste; y
 
@@ -862,7 +908,9 @@ Si al concluir el período de cincuenta y dos semanas previsto en el artículo a
 
 Las prestaciones en especie que señala el artículo 99, se otorgarán también a los demás sujetos protegidos por este ramo del seguro que se mencionan en el artículo 92.
 
-Los padres del asegurado fallecido conservarán el derecho a los servicios que señala el artículo 99.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+Los padres del asegurado o pensionado fallecido, conservarán el derecho a los servicios que señale el Artículo 99.
 
 ###### ARTICULO 102.
 
@@ -896,17 +944,15 @@ Los trabajadores eventuales percibirán el subsidio cuando tengan cubiertas seis
 
 El subsidio en dinero se otorgará conforme a la tabla siguiente:
 
-Salario Diario
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-Subsidio
+Diario
+
+Salario Diario Subsidio
 
 Grupo Más de Promedio Hasta Diario
 
-K $ --.-- $ 26.40 $ 30.00 $ 15.84
-
-L 30.00 35.00 40.00 21.00
-
-M 40.00 45.00 50.00 27.00
+M $-.- $45.00 $50.00 $27.00
 
 N 50.00 60.00 70.00 36.00
 
@@ -922,11 +968,9 @@ T 170.00 195.00 220.00 117.00
 
 U 220.00 250.00 280.00 150.00
 
-W 280.00 Hasta el límite el 60% del
+W 280.00 Hasta el límite superior El 60% del salario
 
-superior salario de
-
-establecido de (sic) cotización
+establecido. de cotización.
 
 Los trabajadores incorporados al sistema de porcentaje sobre salario percibirán un subsidio del sesenta por ciento del último salario diario registrado.
 
@@ -984,17 +1028,15 @@ Los recursos necesarios para cubrir las prestaciones y los gastos administrativo
 
 A los patrones y a los trabajadores les corresponde cubrir para el seguro de Enfermedades y maternidad, las cuotas que señala la siguiente tabla:
 
-Salario Diario Cuotas semanales
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-del del
+Cuotas Semanales
+
+Salario Diario del del
 
 Grupo Más de Promedio Hasta Patrón Trabajador
 
-K $ --- $ 26.40 $ 30.00 $10.40 $ 4.16
-
-L 30.00 35.00 40.00 13.78 5.51
-
-M 40.00 45.00 50.00 17.73 7.09
+M -.- $45.00 $50.00 17.73 $7.09
 
 N 50.00 60.00 70.00 23.63 9.45
 
@@ -1010,9 +1052,9 @@ T 170.00 195.00 220.00 76.78 30.71
 
 U 220.00 250.00 280.00 98.44 39.38
 
-W 280.00 ---.--- ---.--- 5.625% 2.250%
+W 280.00 -.- -.- 5.625% 2.250%
 
-sobre el salario
+Sobre el salario
 
 de cotización.
 
@@ -1298,9 +1340,15 @@ La viuda o concubina pensionada que contraiga matrimonio, recibirá una suma glo
 
 Tendrán derecho a recibir la pensión de orfandad cada uno de los hijos menores de dieciséis años, cuando mueran el padre o la madre, si éstos disfrutaban de pensión de invalidez, de vejez o de cesantía en edad avanzada, o al fallecer como asegurados tuviesen acreditado el pago al Instituto de un mínimo de ciento cincuenta cotizaciones semanales.
 
-El Instituto puede prorrogar la pensión de orfandad, después de alcanzar el huérfano la edad de dieciséis años y hasta la edad de veinticinco, si se encuentra estudiando en planteles del sistema educativo nacional, tomando en consideración las condiciones económicas, familiares y personales del beneficiario, siempre que no sea sujeto del régimen obligatorio del Seguro Social.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+El Instituto prorrogará la pensión de orfandad, después de alcanzar el huérfano la edad de dieciséis años y hasta la edad de veinticinco sí se encuentra estudiando en planteles del sistema educativo nacional, tomando en consideración las condiciones económicas, familiares y personales del beneficiario, siempre que no sea sujeto del régimen obligatorio del Seguro Social.
 
 Si el hijo mayor de dieciséis años no puede mantenerse por su propio trabajo, debido a una enfermedad crónica, defecto físico o psíquico tendrá derecho a seguir recibiendo la pensión de orfandad, en tanto no desaparezca la incapacidad que padece.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+El Instituto concederá en los términos de este Artículo, la pensión de orfandad a los huérfanos mayores de 16 años, si cumplen con las condiciones mencionadas.
 
 ###### ARTICULO 157.
 
@@ -1366,9 +1414,15 @@ Las asignaciones familiares cesarán con la muerte del familiar que la originó 
 
 Las asignaciones familiares concedidas para los hijos del pensionado con motivo de no poderse mantener por sí mismos, debido a inhabilitación para trabajar por enfermedad crónica, física o psíquica, podrán continuarse pagando hasta en tanto no desaparezca la inhabilitación.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+El Instituto concederá en los términos de este Artículo, las asignaciones familiares a los hijos de pensionados mayores de 16 años, si cumplen con las condiciones mencionadas.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 165.
 
-Las asignaciones familiares que se otorguen no serán tomadas en cuenta para calcular las pensiones de viudez, de orfandad o de ascendientes, ni la ayuda para gastos de matrimonio.
+Las asignaciones familiares y las ayudas asistenciales que se otorguen, no serán tomadas en cuenta para calcular el aguinaldo anual, la ayuda para gastos de matrimonio o las pensiones de viudez, de orfandad o de ascendientes.
 
 ###### ARTICULO 166.
 
@@ -1382,41 +1436,37 @@ Las pensiones anuales de invalidez y de vejez se compondrán de una cuantía bá
 
 La cuantía básica y los incrementos serán calculados conforme a la siguiente tabla:
 
-Salario Diario Cuantía Incremento
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-Básica Anual a la
+Salario Cuantía Incremento
+
+Diario Básica Anual a la
 
 Grupo Más de Promedio Hasta Anual Cuantía
 
-Básica
+M $-.- $ 45.00 $ 50.00 $7 371.00 $ 245.70
 
-K $ -.- $ 26.40 $ 30.00 $ 4,324.32 $ 144.14
+N 50.00 60.00 70.00 9 828.00 327.60
 
-L 30.00 35.00 40.00 5,733.00 191.10
+O 70.00 75.00 80.00 12 285.00 409.50
 
-M 40.00 45.00 50.00 7,371.00 245.70
+P 80.00 90.00 100.00 13 104.00 491.40
 
-N 50.00 60.00 70.00 8,736.00 327.60
+R 100.00 115.00 130.00 16 744.00 627.90
 
-O 70.00 75.00 80.00 10,920.00 409.50
+S 130.00 150.00 170.00 21 840.00 819.00
 
-P 80.00 90.00 100.00 12,448.80 442.26
+T 170.00 $195.00 220.00 26 972.40 958.23
 
-R 100.00 115.00 130.00 15,906.80 563.11
+U 220.00 250.00 280.00 34 580.00 1 228.50
 
-S 130.00 150.00 170.00 20,748.00 737.10
+W 280.00 35% 1.25%
 
-T 170.00 195.00 220.00 24,843.00 887.25
+Hasta el límite superior Del salario Del salario
 
-U 220.00 250.00 280.00 31,850.00 1,137.50
+establecido. de de
 
-W 280.00 Hasta el límite superior 35% del 1.25% del
-
-establecido. salario salario
-
-de de
-
-cotización cotización
+cotización. cotización.
 
 Para efectos de determinar la cuantía básica anual de la pensión y sus incrementos, se considera como salario diario, el promedio correspondiente a las últimas doscientas cincuenta semanas de cotización. Si el asegurado no tuviere reconocidas las doscientas cincuenta semanas señaladas, se tomarán las que tuviere acreditadas, siempre que sean suficientes para el otorgamiento de una pensión por invalidez o por muerte.
 
@@ -1430,21 +1480,31 @@ b).- Con más de veintiséis semanas reconocidas se tiene derecho al cien por ci
 
 Los trabajadores incorporados al sistema de porcentaje a que se refiere al artículo 47 de esta Ley, percibirán pensión sobre su salario diario base de cálculo, en los siguientes términos:
 
-1) Cuando sea hasta de $50.00, la cuantía básica será del cuarenta y cinco por ciento y los incrementos anuales del uno y medio por ciento del salario diario.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-2) Si es superior a $50.00 y hasta $80.00, la cuantía básica será del cuarenta por ciento y los incrementos anuales del uno y medio por ciento de dicho salario.
+1).- Cuando sea hasta de $80.00, la cuantía básica será del cuarenta y cinco por ciento y los incrementos anuales del uno y medio por ciento del salario diario.
 
-> <small>(F. DE E., D.O.F. 27 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-3) Cuando sea superior a $80.00 y hasta $170.00, la cuantía básica será del treinta y ocho por ciento y los incrementos anuales de 1.35% del referido salario.
+2).- Si es superior a $80.00 y hasta $170.00, la cuantía básica será del cuarenta por ciento y los incrementos anuales del uno y medio por ciento de dicho salario.
 
-4) De ser superior a $170.00, la cuantía básica será del treinta y cinco por ciento y los incrementos anuales del 1.25% del propio salario.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-El monto de la cuantía básica de una pensión no podrá ser menor al que correspondiese a un salario del grupo anterior.
+3).- Cuando sea superior a $170.00 y hasta $280.00, la cuantía básica será del treinta y ocho por ciento y los incrementos anuales del 1.35% del referido salario.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+4).- De ser superior a $280.00, la cuantía básica será del treinta y cinco por ciento y los incrementos anuales del 1.25% del propio salario.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+El Instituto otorgará a los pensionados comprendidos en este capítulo, un aguinaldo anual equivalente a quince días del importe de la pensión que perciban.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 168.
 
-En ningún caso la pensión de invalidez, de vejez o de cesantía en edad avanzada, podrá ser inferior a $600.00 mensuales.
+La pensión de invalidez, de vejez o de cesantía en edad avanzada no podrá ser inferior a ochocientos cincuenta pesos mensuales.
 
 ###### ARTICULO 169.
 
@@ -1576,21 +1636,15 @@ Los recursos necesario para cubrir las prestaciones y los gastos administrativos
 
 A los patrones y a los trabajadores les corresponde cubrir, para los seguros a que se refiere este capítulo, las cuotas que señala la tabla siguiente:
 
-> <small>(F. DE E., D.O.F. 27 DE MARZO DE 1973)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-Salario Diario
+Salario Cuotas Semanales
 
-Grupo Más de Promedio Hasta Cuotas Cuotas
+diario del del
 
-Semanales Semanales
+Grupo Más de Promedio Hasta patrón trabajador
 
-del Patrón del Trabajador
-
-K $ -.- $ 26.40 $ 30.00 $ 6.93 $ 2.77
-
-L 30.00 35.00 40.00 9.20 3.68
-
-M 40.00 45.00 50.00 11.83 4.73
+M 45.00 50.00 11.83 4.73
 
 N 50.00 60.00 70.00 15.75 6.30
 
@@ -1608,7 +1662,9 @@ U 220.00 250.00 280.00 65.63 26.25
 
 W 280.00 -.- -.- 3.75% 1.50%
 
-Sobre salario de cotización.
+Sobre el salario de
+
+cotización.
 
 Los patrones y trabajadores incorporados al sistema de porcentaje sobre salario conforme al artículo 47 de esta Ley, cubrirán las cuotas del 3.75% y 1.50% sobre el salario, respectivamente.
 
@@ -2439,3 +2495,55 @@ D.O.F. 23 DE DICIEMBRE DE 1974.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 1974.
+
+###### ARTICULO PRIMERO.
+
+Las pensiones por incapacidad permanente total, por invalidez, por vejez y por cesantía en edad avanzada en curso de pago al entrar en vigor este Decreto, inferiores a ochocientos cincuenta pesos mensuales, serán aumentadas a esta cantidad a partir del 1o. de diciembre de 1974. Las pensiones de viudez, de orfandad y de ascendientes se incrementarán en la proporción correspondiente.
+
+Para los efectos del párrafo anterior y en relación a las revisiones quinquenales a que se refieren los Artículos 75, 76, 172 y 173 de la Ley, las pensiones por incapacidad permanente total, por invalidez, por vejez y por cesantía en edad avanzada, inferiores a setecientos setenta y dos pesos cincuenta centavos mensuales al 30 de noviembre de 1974, se tendrán por revisadas a la fecha en que entre en vigor este Decreto y serán incrementadas a ochocientos cincuenta pesos mensuales a partir del propio día 1º. de diciembre de 1974. Igual regla se aplicará a las pensiones de viudez, orfandad y ascendientes en la proporción que corresponda.
+
+###### ARTICULO SEGUNDO.
+
+Las pensiones por incapacidad permanente parcial en curso de pago al entrar en vigor este Decreto con un mínimo del cincuenta por ciento de valuación que hubiesen sido calculadas tomando como base pensiones por incapacidad permanente total con cuantía inferior a ochocientos cincuenta pesos mensuales, deberán recalcularse considerando esta última cuantía y pagarse con los nuevos importes que resulten a partir del 1o. de diciembre de 1974.
+
+Para fines de la revisión quinquenal a que se refiere el Artículo 75 de la Ley, estas pensiones se tendrán también por revisadas en la fecha en que entre en vigor este Decreto, si su cuantía vigente con anterioridad se derivó de pensiones por incapacidad permanente total con cuantía inferior a setecientos setenta y dos pesos cincuenta centavos mensuales.
+
+###### ARTICULO TERCERO.
+
+Las pensiones por incapacidad permanente total, por invalidez, por vejez y cesantía en edad avanzada que a la techa en que fueron revisadas por primera vez en los términos de los Artículos 75, 76, 172 y 173 de la Ley tenían diez o más años de haberse otorgado, deberán recalcularse para que se les reconozcan los diversos incrementos relativos a los quinquenios vencidos a la fecha de su primera revisión. Si el importe de la pensión así recalculado resultase inferior a ochocientos cincuenta pesos mensuales, se otorgará esta cuantía en los términos del Artículo Primero Transitorio, pero si el importe fuese mayor, se cubrirá la pensión con este nuevo importe a partir del 1o. de diciembre de 1974.
+
+Las mismas reglas se aplicarán, en la proporción correspondiente, a las pensiones de viudez de orfandad y de ascendientes.
+
+###### ARTICULO CUARTO.
+
+Las pensiones de los seguros de invalidez, vejez, cesantía, en edad avanzada y muerte en curso de pago a la fecha en que entre en vigor este Decreto, serán revisadas para aplicarles las cuantías básicas, incrementos anuales, asignaciones familiares y ayudas asistenciales establecidas en el mismo, a partir del 1o. de enero de 1975.
+
+ARTICULO QUlNTO.- Las pensiones por incapacidad permanente parcial en curso de pago al entrar en vigor este Decreto con valuación hasta del quince por ciento, serán sustituidas por indemnizaciones globales equivalentes a cinco anualidades de su importe.
+
+###### ARTICULO SEXTO.
+
+El aguinaldo anual a que se refieren los Artículos 65 fracción IV, 71 y 167, correspondiente a 1974, se cubrirá en el mes de enero de 1975 tomando como base la cuantía vigente en noviembre de 1974. El aguinaldo será proporcional al tiempo devengado de la pensión durante los doce meses anteriores.
+
+En lo sucesivo el aguinaldo deberá pagarse por el Instituto Mexicano del Seguro Social en el mes de noviembre de cada año.
+
+###### ARTICULO SEPTIMO.
+
+Los trabajadores que por percibir salario mínimo inferior a cuarenta pesos diarios se encuentren inscritos en los grupos "K" y "L" al entrar en vigor este Decreto, continuarán registrados en esos grupos para los efectos del pago de cuotas y disfrute de las prestaciones en dinero, hasta en tanto el salario mínimo regional no exceda de cuarenta pesos diarios, caso en el cual quedarán incluidos en el grupo "M".
+
+###### ARTICULO OCTAVO.
+
+Los convenios celebrados entre el Instituto y los patrones, con la representación de los trabajadores, para cotizar bajó el sistema de grupos fijos y semanas completas continuarán en vigor, salvo aquéllos en los que se hubiese pactado un grupo de cotización inferior al que corresponda al salario mínimo regional vigente.
+
+###### ARTICULO NOVENO.
+
+Los asegurados en continuación voluntaria que a la fecha de iniciación de la vigencia de este Decreto se encuentren registrados en grupos de cotización inferiores al "M", tendrán derecho a optar por continuar en el mismo grupo en que se encuentran inscritos o registrarse en el grupo "M". En este último caso, el asegurado en continuación voluntaria deberá presentar la solicitud respectiva en el primer bimestre de 1975.
+
+###### ARTICULO DECIMO.
+
+EI Instituto Mexicano del Seguro Social deberá efectuar el pago de las mejorías económicas consignadas en el mismo en un plazo no mayor de noventa días, a partir de la entrada en vigor de este Decreto.
+
+###### ARTICULO DECIMO PRIMERO.
+
+EI presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
