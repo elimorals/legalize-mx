@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-3552"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-11"
-last_updated: "2003-12-24"
+last_updated: "2004-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 11 de diciembre de 1992.
 
@@ -393,7 +393,7 @@ El traslado del impuesto a que se refiere este artículo no se considerará viol
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
 
-#### SECCION CUARTA. DE LA TASA
+#### SECCION QUINTA. DEL PAGO
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
 
@@ -417,7 +417,7 @@ El monto del impuesto se determinará aplicando a la base gravable a que alude e
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
 
-#### SECCION QUINTA. DEL PAGO
+#### SECCION CUARTA. DE LA TASA
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
 
@@ -473,7 +473,7 @@ III.- Se imposibilite, por cualquier medio, el conocimiento de las operaciones d
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
-#### SECCION QUINTA. DEL PAGO
+#### SECCION TERCERA. DE LA BASE
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
@@ -483,9 +483,7 @@ Es objeto de este impuesto, la obtención de premios derivados de loterías, rif
 
 No se considerará como premio el reintegro correspondiente al billete o boleto que permitió participar en la lotería, rifa o sorteo.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2003)</small>
-
-#### SECCION PRIMERA. DEL OBJETO
+#### SECCION QUINTA. DEL PAGO
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
@@ -509,7 +507,7 @@ Cuando no se desglose y compruebe a satisfacción de la autoridad fiscal el valo
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
-#### SECCION TERCERA. DE LA BASE
+#### SECCION SEXTA. DE LAS OBLIGACIONES
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
@@ -531,7 +529,7 @@ Las personas físicas o morales que retengan este impuesto, realizarán el enter
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
-#### SECCION SEXTA. DE LAS OBLIGACIONES
+#### SECCION PRIMERA. DEL OBJETO
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
@@ -544,6 +542,8 @@ I.- Presentar ante las autoridades fiscales competentes, los avisos y declaracio
 II.- Retener y enterar, en su caso, el impuesto que se cause conforme a estas disposiciones y proporcionar cuando así lo solicite el interesado, constancia de retención del impuesto a la persona que obtenga el premio.
 
 III.- Conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria del pago del impuesto que corresponda.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
 ## TITULO TERCERO. DE LOS DERECHOS
 
@@ -955,6 +955,10 @@ b) Por inscripción y venta de bases 9 a 35
 
 II.- Por el registro al padrón de proveedores, contratistas y prestadores de servicio pagarán anualmente 6
 
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+III.- Por la suscripción de contrato de otorgamiento y constitución de hipoteca condicionado al cumplimiento del beneficio para garantizar la libertad provisional bajo caución, que celebren los garantes hipotecarios a favor del Estado de Campeche y/o Secretaría de Finanzas y Administración, los garantes pagarán un 3.5 por ciento del monto total de la caución fijada por la autoridad judicial.
+
 C.- SECRETARIA DE LA CONTRALORIA:
 
 I.- Por el ingreso a concursos sobre el monto del costo estimado, se pagarán los siguientes derechos:
@@ -1249,383 +1253,17 @@ II.- Por el ingreso que perciban por los servicios que prestan los organismos, d
 
 a) (DEROGADO, P.O. 9 DE JUNIO DE 1999)
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 b) INSTITUTO CAMPECHANO
 
-Inscripciones Importes en Pesos
+(VER TABLA ANEXA)
 
-Concepto
+En el caso del Ex Templo San José y la Sala de Arte Domingo Pérez Piña, tratándose de exhibiciones que excedan las 24 hrs. y con un mínimo de 7 días, se aplicará el costo diario y a partir del segundo día en adelante se aplicará una tarifa convencional de $300.00 cuota diaria sin derecho a aire acondicionado.
 
-Preparatoria Licenciatura
+En los eventos que se utiliza personal para la operación del equipo y control de instalaciones en días no laborables tales como sábados, domingos y días festivos, se aplicará una cuota de $300.00 por cada técnico que participe por evento.
 
-Inscripción
-
-200 210
-
-Colegiatura Mensual
-
-140 160
-
-Servicio Deportivo
-
-80
-
-Material de Apoyo
-
-80
-
-Servicio Médico Dental
-
-80 80
-
-Credencial
-
-50 50
-
-Seguro de Vida
-
-50 50
-
-Mantenimiento y Reparación de Equipo de Cómputo
-
-100 100
-
-Curso de Introducción
-
-200 250
-
-Exámenes
-
-Concepto
-
-Preparatoria Licenciatura Postgrado
-
-Examen de Admisión
-
-310 310 615
-
-Extraordinario
-
-180 190
-
-Título de Suficiencia
-
-190 200
-
-Profesional
-
-845 2420
-
-Semiescolarizado
-
-155
-
-Especial de Regularización Plan Estudio
-
-230 310
-
-Remediales
-
-350 500
-
-Recuperación de Pasantía
-
-400
-
-Asesoría
-
-55
-
-Certificado, Constancia y Carta de Buena Conducta
-
-Concepto
-
-Preparatoria Licenciatura Postgrado
-
-Expedición de Certificado de Estudios
-
-250 320 725
-
-Expedición de Constancia de Estudios y Carta de Buena Conducta
-
-160 170 230
-
-Constancia Provisional
-
-30 30 30
-
-Expedición de Títulos y Grados
-
-Concepto
-
-Licenciatura Postgrado
-
-Expedición Acta de Grado
-
-220 385
-
-Trámite de Firmas
-
-240 485
-
-Derecho Hoja de Piel
-
-240 270
-
-Elaboración del documento que corresponda
-
-330 440
-
-Revisión de Tesis, Carta de Pasantes, Diplomas y Servicio Social
-
-Concepto
-
-Preparatoria Licenciatura Postgrado
-
-Derecho Revisión de Tesis
-
-600
-
-Derecho Expedición de Diploma
-
-160
-
-Derecho Expedición de Carta de Pasante
-
-200 610
-
-Derecho Expedición de Servicio Social
-
-160 460
-
-Revalidación de Estudios
-
-Concepto
-
-Preparatoria Licenciatura
-
-Alumnos Foráneos
-
-260 260
-
-Procedimiento de Titulación
-
-Concepto Costo
-
-*Examen General de Conocimiento 3650
-
-Seminarios:
-
-Inscripción 1210
-
-Costo por materia (mínimo 3) 1210
-
-*El alumno que cubra este costo, queda exento de pago del examen profesional.
-
-Postgrado, Maestría y Diplomado
-
-Concepto Postgrado
-
-Inscripción 3300
-
-Costo por Materia 2200
-
-Credencial 60
-
-Otros cursos
-
-Concepto
-
-Estudiantes del Foráneos
-
-Instituto Campechano
-
-o hijos de trabajadores
-
-del Instituto
-
-Inglés (Laboratorio)
-
-Inscripción
-
-100 200
-
-Colegiatura
-
-65 130
-
-Credencial (Opcional)
-
-55 55
-
-Difusión Cultural
-
-Cursos Talleres
-
-Inscripción
-
-65 130
-
-Colegiatura
-
-55 110
-
-Credencial
-
-55 55
-
-Seguro de Vida
-
-45 45
-
-Servicios de Cómputo
-
-Concepto
-
-Estudiantes del Foráneos
-
-Instituto Campechano
-
-o hijos de trabajadores
-
-del Instituto
-
-Cursos:
-
-Fox Inicial
-
-600 1200
-
-Fox Intermedio
-
-900 1800
-
-Diseño de Página
-
-1000 2000
-
-Herramientas Internet
-
-385 770
-
-Power Point
-
-450 900
-
-Excel 97
-
-450 900
-
-Word (97)
-
-450 900
-
-Corel Draw 8
-
-600 1200
-
-Windows 95/98
-
-450 900
-
-Renta de equipos:
-
-Computadora hora-máquina
-
-A 10 B 20
-
-Impresiones por hoja:
-
-Matriz
-
-2 4
-
-Láser
-
-3.5 7
-
-Color
-
-4.5 9
-
-A.- Solo para casos administrativos y docentes
-
-B.- La sala sólo se alquilará por la capacidad instalada
-
-Otros trámites
-
-Concepto
-
-Preparatoria Licenciatura Postgrado
-
-Constancia de Pago
-
-30 30 30
-
-Duplicado de Credencial
-
-55 55 55
-
-Escuelas Incorporadas
-
-Concepto Costo
-
-Incorporación de escuelas 6100
-
-Registro de inscripción por alumno 150
-
-Legalización de firmas en Certificado 250
-
-Legalización de firmas en Carta de Buena Conducta 200
-
-Alquiler de Areas Culturales
-
-Concepto
-
-Costo por hora Costo diario
-
-Base de 5 horas mínimo, de excederse por ensayos se cobrará las horas adicionales por uso
-
-Aula Magna "Benito Juárez", usando todo el servicio eléctrico
-
-300 1650
-
-Sala de Arte "Domingo Pérez Piña", servicio eléctrico de entrada y 1 sala
-
-150 1000
-
-Sala de Arte "Domingo Pérez Piña", servicio de todas las salas
-
-250 2000
-
-Teatro "Ricardo Hernández Cárdenas", usando todo el servicio eléctrico
-
-400 2500
-
-Derecho de Piso
-
-400
-
-Extemplo de "San José"
-
-2500
-
-En el caso del Ex Templo San José y la Sala de Arte Domingo Pérez Piña, tratándose de exhibiciones que excedan las 24 hrs. y con un mínimo de 7 días, se aplicará el costo diario y a partir del segundo día en adelante se aplicará una tarifa convencional de $200.00 cuota diaria sin derecho a aire acondicionado.
-
-En los eventos que se utilice personal para la operación del equipo y control de instalaciones en días no laborables tales como sábados, domingos y días festivos, se aplicará una cuota de $250.00 por cada técnico que participe por evento.
-
-Renta de Neverías
-
-Concepto Importe Mensual
-
-Educación Artística 880
-
-Edificio Central 3300
-
-Areas de Guadalupe 2970
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
+(VER TABLA ANEXA)
 
 El pago de los derechos antes mencionados, deberán ser cubiertos en las oficinas recaudadoras de la Secretaría de Finanzas y Administración, las que expedirán el comprobante correspondiente, mismo que deberá ser presentado ante la autoridad respectiva, previamente a la obtención del servicio.
 
@@ -1707,17 +1345,41 @@ Las licencias para el funcionamiento, distribución y comercialización de bebid
 
 T A R I F A
 
-Salarios Mínimos Generales Diarios Vigentes
+Salarios Mínimos Generales
 
-I.- Cabaret o Centro Nocturno, Bar, Cantina 48
+Diarios Vigentes
 
-II.- Discoteca, Salón Cerveza, Salón de Baile, Restaurant con venta de bebidas alcohólicas, Distribuidora, Bodega, Almacén, Hotel, Motel, Salón de Billar, Boliche 41
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
-III.- Vinatería, Licorería, Supermercado, Minisuper, Tienda de Abarrotes, Agencia, Subagencia, Depósito, Expendio, Botanero 34
+I.- Cabaret o Centro Nocturno, Bar, Cantina 58
 
-IV.- Lonchería, Cocktelería, Taquería 28
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
-V.- Centro Recreativo y Deportivo, Casino, Club Social, otros 22
+II.- Discoteca, Salón Cerveza, Salón de Baile,
+
+Restaurant con venta de Bebidas alcohólicas,
+
+Distribuidora, Bodega, Almacén, Hotel,
+
+Motel, Salón de Billar, Boliche 49
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+III.- Vinaterías, Licorería, Supermercado, Minisuper,
+
+Tienda de Abarrotes, Agencia, Subagencia, Depósito,
+
+Expendio, Botanero 41
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+IV.- Lonchería, Cocktelería, Taquería 34
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+V.- Centro Recreativo y Deportivo, Casino, Club Social,
+
+otros 26
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 1997)</small>
 
@@ -1731,13 +1393,13 @@ La cesión o transferencia de los derechos de las licencias para el funcionamien
 
 Por la autorización de modificaciones, como son cambio de domicilio, ampliación de giro, reposiciones o duplicados de las licencias para el funcionamiento, distribución y comercialización de bebidas alcohólicas, se causarán y pagarán derechos de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado, conforme a la siguiente:
 
-T A R I F A
+T A R I F A Salarios Mínimos
 
-Salarios Mínimos Generales Diarios Vigentes
+Generales Diarios Vigentes
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
-I.- Por cambio de domicilio de la Licencia 648
+I.- Por cambio de domicilio de la Licencia 778
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
@@ -2160,3 +1822,9 @@ P.O. 24 DE DICIEMBRE DE 2003.
 Primero.- El presente decreto entrara en vigor el día 1 de enero de 2004, previa su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 23 DE DICIEMBRE DE 2004.
+
+PRIMERO.- El presente decreto, entrará en vigor el día uno de enero del año dos mil cinco, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
