@@ -4,7 +4,7 @@ identifier: "LFTSE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1963-12-28"
-last_updated: "1967-01-20"
+last_updated: "1972-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFTSE"
 
 LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTICULO 123 CONSTITUCIONAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE ENERO DE 1967.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1972.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 28 de diciembre de 1963.
 
@@ -286,7 +286,13 @@ IV.- De los descuentos ordenados por autoridad judicial competente, para cubrir 
 
 V.- De cubrir obligaciones a cargo del trabajador, en las que haya consentido, derivadas de la adquisición o del uso de habitaciones legalmente consideras (sic) como baratas, siempre que la afectación se haga mediante fideicomiso en institución nacional de crédito autorizada al efecto.
 
-El monto total de los descuentos no podrá exceder del treinta por ciento del importe del salario total, excepto en los casos a que se refieren las fracciones III, IV y V de este artículo.
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1972)</small>
+
+VI.- Del pago de abonos para cubrir préstamos provenientes del fondo de la vivienda destinados a la adquisición, construcción, reparación o mejoras de casas habitación o al pago de pasivos adquiridos por estos conceptos. Estos descuentos deberán haber sido aceptados libremente por el trabajador y no podrán exceder del 20% del salario.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1972)</small>
+
+El monto total de los descuentos no podrá exceder del treinta por ciento del importe del salario total, excepto en los casos a que se refieren las fracciones III, IV, V y VI de este artículo.
 
 ###### ARTICULO 39.
 
@@ -337,6 +343,12 @@ e) Establecimiento de centros para vacaciones y para recuperación, de guarderí
 f) Establecimiento de escuelas de Administración Pública en las que se impartan los cursos necesarios para que los trabajadores puedan adquirir los conocimientos para obtener ascensos conforme al escalafón y procurar el mantenimiento de su aptitud profesional.
 
 g) Propiciar cualquier medida que permita a los trabajadores de su Dependencia, el arrendamiento o la compra de habitaciones baratas.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1972)</small>
+
+h) Constitución de depósitos en favor de los trabajadores con aportaciones sobre sus suelos básicos o salarios, para integrar un fondo de la vivienda a fin de establecer sistemas de financiamiento que permitan otorgar a éstos, crédito barato y suficiente para que adquieran en propiedad o condominio, habitaciones cómodas e higiénicas; para construirlas, repararlas o mejorarlas o para el pago de pasivos adquiridos por dichos conceptos.
+
+Las aportaciones que se hagan a dicho fondo serán enteradas al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, cuya Ley regulará los procedimientos y formas conforme a los cuales se otorgarán y adjudicarán los créditos correspondientes.
 
 VII.- Proporcionar a los trabajadores que no estén incorporados al régimen de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, las prestaciones sociales a que tengan derecho de acuerdo con la ley y los reglamentos en vigor;
 
@@ -1187,3 +1199,13 @@ D.O.F. 20 DE ENERO DE 1967.
 DECRETO QUE REFORMA LA FRACCION I DEL ARTICULO 46 DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO "B" DEL ARTICULO 123 CONSTITUCIONAL.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 28 DE DICIEMBRE DE 1972.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas y adiciones entrarán en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+La obligación de enterar las aportaciones a que se refiere el inciso h), de la fracción VI del artículo 43, empezará a cumplirse a partir del 1o. de septiembre de 1972.
