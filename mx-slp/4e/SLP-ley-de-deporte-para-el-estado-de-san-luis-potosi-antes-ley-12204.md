@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-deporte-para-el-estado-de-san-luis-potosi-antes-ley-1220
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-26"
-last_updated: "1996-08-26"
+last_updated: "2001-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ESTATAL DEL DEPORTE DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 26 de agosto de 1996.
 
@@ -176,6 +176,10 @@ I.- Planear, programar, presupuestar, establecer y coordinar las actividades dep
 II.- Fomentar programas municipales de carácter deportivo dentro del Sistema Estatal del Deporte, de acuerdo al Programa Estatal elaborado por el Instituto Potosino de la Juventud y el Deporte; y
 
 III.- Otorgar estímulos, premios o apoyos económicos a dependencias, organizaciones deportivas, instituciones, entrenadores, investigadores y deportistas que se destaquen en la promoción, organización y práctica de disciplinas deportivas que estén incorporadas al Sistema Estatal del Deporte.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Los municipios del Estado podrán asociarse entre sí o con municipios de otras Entidades Federativas en materia de deporte, previo acuerdo de sus Cabildos y la autorización del Congreso del Estado, en los casos en que corresponda conforme a la ley.
 
 ###### ARTICULO 14.
 
@@ -572,3 +576,11 @@ LIC. HORACIO SANCHEZ UNZUETA.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. FERNANDO SILVA NIETO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE MARZO DE 2001.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
