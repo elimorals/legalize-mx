@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1962-06-09"
+last_updated: "1965-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 1962.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 1965.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -87,7 +87,7 @@ II.- Asistir en los días y horas designados por el Ayuntamiento del lugar en qu
 
 III.- Alistarse y servir en la Guardia Nacional conforme a la ley orgánica respectiva, para asegurar y defender la independencia, el territorio, el honor, los derechos e intereses de la Patria y del Estado, así como la tranquilidad y el orden interiores.
 
-IV.- Contribuir para los gastos públicos, así de la Federación como del Estado y Municipio en que residan, de manera la proporcional y equitativa que dispongan las leyes, inscribiéndose en las Oficinas recaudadoras respectivas, manifestando el valor real de sus propiedades o la importancia de la profesión o giro de que subsistan.
+IV.- Contribuir para los gastos públicos, así de la Federación como del Estado y Municipio en que residan, de la manera proporcional y equitativa que dispongan las leyes, inscribiéndose en las Oficinas recaudadoras respectivas, manifestando el valor real de sus propiedades o la importancia de la profesión o giro de que subsistan.
 
 V.- Honrar la memoria de sus grandes hombres, cumplir y vigilar el cumplimiento de las leyes y procurar, por todos los medios lícitos que estén a su alcance, el engrandecimiento y prosperidad del Estado.
 
@@ -357,7 +357,9 @@ XXXI.- Organizar el sistema penal sobre la base del trabajo como medio de regene
 
 XXXII.- Expedir las leyes sobre el Trabajo, conforme a las bases que establece la Constitución Federal en su título "Del Trabajo y de la Previsión Social."
 
-XXXIII.- Expedir la ley general de Enseñanza Primaria Elemental y Superior, la cual deberá ser uniforme en todo el Estado y estará sujeta a las bases que determina el art. 3o. de esta Constitución.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 1965)</small>
+
+XXXII.- Autorizar la contratación de empréstitos, cuando en garantía se afecten ingresos o bienes del Estado.
 
 XXXIV.- Formar su Reglamento Interior y tomar las providencias necesarias para hacer concurrir a los Diputados ausentes y corregir las faltas u omisiones de los presentes.
 
@@ -541,7 +543,9 @@ III.- Nombrar los Jefes de las Oficinas de su dependencia y a los empleados suba
 
 IV.- Cuidar de que la Justicia se administre pronta y cumplidamente por los Tribunales del Estado y de que se ejecuten las sentencias, prestando a aquéllos el auxilio que necesiten para el mejor ejercicio de sus funciones. Esta inspección no lo autoriza a intervenir directa ni indirectamente en el examen de los juicios pendientes, ni disponer en manera alguna de las personas de los reos.
 
-V.- Disponer la inversión de los caudales públicos del Estado en los distintos ramos de su administración, previa ley o decreto del Congreso.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE MAYO DE 1965)</small>
+
+V.- Disponer la inversión de los caudales públicos del Estado en los distintos ramos de su administración, previa ley o decreto del Congreso y contratar créditos para fines de regulación de fluctuaciones presupuestales o para la ejecución de obras públicas; garantizar las obligaciones que contraigan los organismos descentralizados y los Ayuntamientos del Estado, y descontar efectos de comercio que obren en la cartera de la Hacienda Pública. El Ejecutivo dará cuenta anualmente al Congreso del Estado de los términos en que ejerzan las autorizaciones anteriores.
 
 VI.- Ejercer la superior inspección, no sólo de la Hacienda Pública del Estado, sino de todos los fondos Municipales; y velar por su recaudación, custodia, administración e inversión. Esta inspección se hará de acuerdo con las leyes del Municipio Libre.
 
@@ -565,9 +569,9 @@ XV.- Visitar, dentro del período de su Gobierno, todos los pueblos del Estado p
 
 XVI.- Pasar al Procurador de Justicia los asuntos que deban ventilarse ante los Tribunales para que ejercite las atribuciones de su ministerio.
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 1949)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 1965)</small>
 
-XVII.- Nombrar, mediante terna que le presente el respectivo Ayuntamiento, a los Registradores de la Propiedad.
+XVII.- Nombrar y remover libremente al C. Director General del Registro Público de la Propiedad del Estado y a los Registradores Públicos de la Propiedad.
 
 XVIII.- Suspender provisionalmente hasta por quince días a los Presidentes Municipales que abusen de sus facultades, pudiendo ocurrir éstos a la Legislatura o Diputación Permanente a reclamar sus derechos. El Gobernador dará cuentas a la Legislatura o Diputación Permanente después de que use de esta facultad, acompañando los justificantes respectivos.
 
@@ -1255,10 +1259,6 @@ En el Estado de Nuevo León la libertad del hombre no tiene más límite que la 
 
 Esta Ley comenzará a surtir sus efectos el día primero de enero de 1928.
 
-###### ARTICULO SEGUNDO
-
-En los Ayuntamientos donde faltare algún Regidor o Síndico, el día primero de enero de 1928, lo designarán los mismos, de conformidad con el artículo 124 de la Constitución Política Local, para estar en todo de acuerdo con el Art. 2° de la Ley de Gobierno Interior de los Municipios reformada.
-
 P.O. 28 DE ABRIL DE 1928.
 
 DECRETO NÚMERO 60
@@ -1284,6 +1284,62 @@ P.O. 12 DE MAYO DE 1937.
 UNICO:- Las anteriores reformas no afectarán la elección que se verificará el domingo 25 del próximo mes de julio del presente año, para Diputados Federales y Locales, así como Miembros del Supremo Tribunal de Justicia del Estado.
 
 P.O. 22 DE JULIO DE 1942.
+
+###### ARTICULO SEGUNDO.
+
+Estas reformas empezarán a regir el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1942.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+
+P.O. 23 DE JUNIO DE 1943.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL "DECRETO No. 73 INTERPRETACIÓN AUTÉNTICA DEL INCISO b) DEL ARTÍCULO 84 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO:— De los términos del Decreto Número 40 publicado en el Periódico Oficial de 22 de Julio de 1942, reformando los Artículos 46, 48, 49, 84, 90, 91 y 123 de la Constitución Política del Estado; de la redacción específica del Inciso b) del artículo 84 y del sentido general del Decreto, se entiende que la prohibición que establece dicha disposición legal se refiere a los períodos constitucionales de seis años que empezarán a contar a partir del 4 de Octubre de 1949; pues para el próximo que se inicie el 4 de Octubre de 1943 rigen las reglas contenidas en la Fracción III, Inciso b) del Artículo 115 de la Constitución General de la República.
+
+SEGUNDO: — En consecuencia: A contar del 4 de Octubre de 1946, nadie que haya ocupado el puesto de Gobernador provisional o interinamente, o con cualquier otro carácter durante los segundos tres años de un período Gubernamental podrá ser electo para ese mismo cargo en el período Constitucional inmediato.
+
+TERCERO :— En la forma que antecede queda interpretada Jurídicamente la disposición contenida en el Inciso b) del Artículo 84 de la Constitución Política del Estado y fijado su alcance por el H. Congreso Local.
+
+P.O. 30 DE ABRIL DE 1947.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+
+P.O. 29 DE SEPTIEMBRE DE 1948.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+
+P.O. 11 DE MAYO DE 1949.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+
+P.O. 6 DE JUNIO DE 1951.
+
+(REPUBLICADO, P.O. 4 DE JULIO DE 1951)
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+
+P.O. 30 DE ABRIL DE 1952.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+
+P.O. 28 DE ABRIL DE 1954.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+
+P.O. 21 DE MAYO DE 1960.
+
+UNICO.- Este decreto comenzará a surtir sus efectos el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JUNIO DE 1962.
+
+UNICO:- Este Decreto comenzará a surtir sus efectos una vez hecha su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE MAYO DE 1965.
+
+UNICO:- Este decreto entrará en vigor el día de su publicación en el PERIODICO OFICIAL del Estado.
 
 ###### ARTICULO SEGUNDO.
 
