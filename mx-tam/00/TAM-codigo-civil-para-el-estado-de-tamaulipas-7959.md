@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2001-06-05"
+last_updated: "2001-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2001.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -8021,7 +8021,13 @@ SEGUNDA PARTE
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-ART. 2342.- La propiedad de bienes inmuebles, los gravámenes reales constituidos sobre ella, y los actos que establezcan modalidades referentes al derecho de propiedad de dichos bienes o su ejercicio, serán inscritos como lo dispone este Título en la Oficina del registro Público de la Propiedad, establecida en la Capital del Estado. También se inscribirán los actos cuyo registro ordene la ley.
+> <small>(REFORMADO, P.O. DE 24 OCTUBRE DE 2001)</small>
+
+ART. 2342.- La propiedad de bienes inmuebles, los gravámenes constituidos sobre ellos y los actos que establezcan modalidades al derecho de propiedad de dichos bienes o su ejercicio, serán inscritos como lo dispone este Título, en la Oficina del Registro Público de la Propiedad y del Comercio. También se inscribirán los actos cuyos registros ordene la ley.
+
+El Registro será público. Los encargados del mismo tienen la obligación de permitir a las personas que lo soliciten, que se enteren de los asientos que obren en los folios del Registro Público de la Propiedad y del Comercio, y de los documentos relacionados con las inscripciones que ésten archivados. También tienen la obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los folios del Registro Público de la Propiedad y del Comercio, así como
+
+certificaciones de existir o no asientos relativos a los bienes que se señalen.
 
 ART. 2343.- Ninguna inscripción puede hacerse si no consta que el que la pretende es actual dueño de los bienes, tiene derecho para exigir el registro o procede con poder legal del propietario.
 
@@ -8033,15 +8039,17 @@ II.- Que se lleven convenientemente legalizados conforme a lo que se disponga en
 
 III.- Que si fueren sentencias su ejecución haya sido ordenada por la autoridad judicial que corresponda.
 
-ART. 2345.- El Registro será público. Los encargados de la oficina tienen la obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones constantes en los libros del Registro, y de los documentos relacionados con las inscripciones, que estén archivados. También tienen obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los libros del Registro; así como certificaciones de no existir asientos de ninguna especie o de especie determinada, sobre bienes señalados o a cargo de ciertas personas. No obstante la disposición anterior deberá observarse lo dispuesto en el artículo 2648.
+ART. 2345.- (DEROGADO, P.O. DE 24 OCTUBRE DE 2001)
 
-ART. 2346.- La Oficina del Registro Público dependerá directamente del Ejecutivo del Estado, el cual tendrá facultades para reglamentar lo referente a la eficacia del servicio.
+> <small>(REFORMADO, P.O. DE 24 OCTUBRE DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1987)</small>
+ART. 2346.- El Registro Público de la Propiedad y del Comercio es una Institucion dependiente del Poder Ejecutivo del Estado en los términos que señale la Ley Orgánica de la Administración Pública y tendrá su sede en la capital del Estado.
 
-ART. 2347.- El presupuesto de egresos, de acuerdo con las necesidades del servicio, determinará el personal asignado a la Oficina del Registro Público de la Propiedad, no pudiendo faltar un Director , un Subdirector y un Secretario.
+El Ejecutivo tendrá facultades para reglamentar lo referente a la eficacia del servicio y para ordenar el establecimiento y funcionamiento de oficinas de atención municipal o regional en función de las demandas registrales de la sociedad.
 
-Las atribuciones y obligaciones de los servidores públicos a que se refiere el párrafo anterior, estarán determinadas en la Ley del Registro Público de la Propiedad sin perjuicio de las señaladas en este Código.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2001)</small>
+
+ART. 2347.- El Registro Público de la Propiedad y del Comercio funcionará conforme al sistema y métodos que determine el reglamento, en el que se establecerán los requisitos necesarios para desempeñar los cargos que requiera su funcionamiento, debiendo contar cuando menos con un Director, un Subdirector y un Secretario.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 1987)</small>
 
@@ -8083,9 +8091,19 @@ VII.- Las demás que se deriven de la ley.
 
 ART. 2352.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 1987)
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. DE 24 OCTUBRE DE 2001)</small>
 
-ART. 2353.- El Director y el Subdirector del Registro Público de la Propiedad serán responsables de los daños y perjuicios que ocasione cualquier acto u omisión indebidos al servicio.
+ART. 2353.- Los servidores públicos del Registro Público de la Propiedad y del Comercio, además de las penas que les sean aplicables por los delitos en que puedan incurrir, responderán civilmente de los daños y perjuicios a que dieran lugar, cuando:
+
+I.- Rehusen admitir el título, o no practiquen el asiento de presentación por el orden de entrada del documento o del aviso a que se refiere el artículo 2366 de este codigo;
+
+II.- Practiquen algún asiento indebidamente o rehusen practicarlo sin motivo fundado;
+
+III.- Retarden, sin causa justificada, la práctica del asiento a que dé lugar el documento inscribible;
+
+IV.- Cometan errores, inexactitudes u omisiones en los asientos que practiquen o en los certificados que expidan; y
+
+V.- No expidan los certificados en el término reglamentario.
 
 ART. 2354.- En caso de negativa de registro, podrán ocurrir los interesados ante el Juez de Primera Instancia de su vecindad, quien resolverá en juicio lo que corresponda. En dicho juicio figurará como demandado el Director del Registro Público de la Propiedad, y como terceros interesados las personas a quienes pueda afectar el registro. Si el acto se realizó fuera del territorio del Estado, el juicio a que se refiere este artículo se promoverá en el Primer Distrito Judicial.
 
@@ -8175,13 +8193,23 @@ En el caso de embargo precautorio, juicio ejecutivo o hipotecario contra bienes 
 
 ART. 2365.- No pueden los bienes raíces o los derechos reales impuestos sobre los mismos, aparecer inscritos a la vez en favor de dos o más personas distintas, a menos que éstas sean copartícipes.
 
-ART. 2366.- Los actos y contratos que fueron participados al Registro Público dentro de las veinticuatro horas de celebrados, e inscritos dentro del mes siguiente a su celebración, producirán efectos contra tercero desde la fecha del título respectivo. En caso contrario sólo producirá efecto desde la fecha del registro.
+> <small>(REFORMADO, P.O. DE 24 OCTUBRE DE 2001)</small>
+
+ART. 2366.- Cuando vaya a otorgarse una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión de bienes raíces, o cualquier derecho real sobre los mismos, o que sin serlo sea inscribible, el Notario o autoridad ante quien se haga el otorgamiento, deberá solicitar al Registro Público de la Propiedad y del Comercio certificado sobre la existencia o inexistencia de gravámenes en relación con la misma. En dicha solicitud, que surtirá efectos de aviso preventivo, se deberá mencionar la operación e inmueble de que se trate, los nombres de los contratantes y el respectivo antecedente registral. El registrador, con esta solicitud y sin cobro de derechos por este concepto, practicará inmediatamente la nota de presentación en la parte respectiva de folio correspondiente, nota que tendrá vigencia por un término de 30 días naturales a partir de la fecha de presentación de la solictud.
+
+Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo precedente, el Notario o autoridad ante quien se otorgó dará aviso preventivo acerca de la operación de que se trate al Registro Público de la Propiedad y del Comercio, dentro de las cuarenta y ocho horas siguientes y contendrá además de los datos mencionados en el párrafo anterior, la fecha de la escritura y de su firma. El registrador, con el aviso citado y sin cobro de derecho alguno practicará de inmediato la nota de la presentación correspondiente, la cuál tendrá una vigencia de noventa días naturales a partir de la fecha de presentación de aviso. Si éste se dá dentro del término de 30 días a que se contrae el párrafo anterior, sus efectos preventivos se retrotraerán a la fecha de presentación de la solicitud a que se refiere el mismo párrafo; en caso contario, solo surtirá efectos desde la fecha en que fue presentado y según el número de entrada que le corresponda.
+
+Si el testimonio respectivo se presentare al Registro Público de la Propiedad y del Comercio dentro de cualquiera de los términos que señalan los dos párrafos anteriores, su inscripción surtirá efectos contra terceros desde la fecha de presentación del aviso y con arreglo a su número
+
+de entrada. Si el documento se presentara fenecidos los referidos plazos, su registro solo surtirá efectos desde la fecha de presentación.
+
+Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo primero de este artículo fuere privado, deberá dar el aviso preventivo, con vigencia por noventa días, el Notario, el registrador o la autoridad que se haya cerciorado de la autenticidad de las firmas y de la voluntad de las partes, en cuyo caso el mencionado aviso surtirá los mismos efectos que el dado por los Notarios en el caso de los instrumentos públicos. Si el contrato se ratificara ante el registrador, éste deberá practicar de inmediato el aviso preventivo a que este precepto se refiere.
 
 ART. 2367.- Si el acto registrado se anula o rescinde en virtud de sentencia, se anotará ésta dentro de treinta días contados desde que causó ejecutoria, al margen del registro respectivo; de lo contrario sólo producirá su efecto con relación a tercero desde el día en que fuere anotado.
 
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
+(REFORMADO, P.O. 24 DE OCTUBRE DE 2001) (F. DE E., P.O. 24 DE SEPTIEMBRE DE 2002)
 
-ART. 2368.- Una vez que se firme una escritura o documento en que se adquiera, transmita, modifique o extinga la propiedad o posesión de bienes raíces o en que se haga constar un crédito que tenga preferencia desde que sea registrado, el notario que la autorice dará al Registro un aviso en el que conste la finca de que se trate, la indicación de que se ha transmitido, o modificado su dominio o se ha constituido o transmitido, modificado o extinguido el derecho real sobre ella, los nombres de los interesados en la operación, la fecha de la escritura y la de su firma e indicación del número, legajo y sección en que estuviere inscrita la propiedad en el Registro. Podrá hacerse este aviso por telegrama si se reside fuera de la Capital. El Registrador, con el aviso del Notario, hará inmediatamente una anotación preventiva al margen de la inscripción de propiedad. Si dentro del mes siguiente a la fecha en que se hubiere firmado la escritura se presentare el testimonio o documento respectivo, su inscripción surtirá efecto contra tercero desde la fecha de la anotación preventiva, la cual se citará en el Registro definitivo. Si el testimonio o documento se presenta después, su registro sólo surtirá efectos desde la fecha de la presentación. Esta disposición se aplica no sólo a las escrituras públicas sino también a las privadas.
+ART. 2368.- La inscripción definitiva de un derecho que haya sido anotado previamente, surtirá sus efectos desde la fecha en que la anotación los produjo.
 
 ART. 2369.- Los testamentos ológrafos no producirán efectos si no son depositados en el Registro.
 
@@ -9655,7 +9683,7 @@ ART. 2828.- El heredero cuyos bienes hereditarios fueren embargados, o contra qu
 
 ART. 2829.- Las particiones pueden rescindirse o anularse por las mismas causas que los contratos.
 
-ART. 2830.- El heredero preterido tiene derecho de pedir la nulidad de la partición. Decretada ésta, se hará una nueva partición para que reciba la parte que le corresponda.
+ART. 2830.- El heredero preferido tiene derecho de pedir la nulidad de la partición. Decretada ésta, se hará una nueva partición para que reciba la parte que le corresponda.
 
 ART. 2831.- La partición hecha con un heredero falso es nula en cuanto tenga relación con él, y la parte que se le aplicó se distribuirá entre los herederos.
 
@@ -9872,3 +9900,17 @@ P.O. 5 DE JUNIO DE 2001
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE OCTUBRE DE 2001
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Ejecutivo del Estado deberá expedir y publicar el Reglamento del Registro Público de la Propiedad y del Comercio, en un término no mayor de treinta días, contados a partir de la fecha de publicación del presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Se abroga la Ley del Registro Público de la Propiedad de Tamaulipas, expedida mediante Decreto de fecha 25 de enero de 1927, publicado en el periódico Oficial número 10, de fecha 2 de febrero de 1927, y sus reformas, con efectos a partir de la fecha de publicación del Reglamento a que se refiere el Artículo Transitorio anterior.
