@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-89-2001-del-pleno-del-consejo-de-la-62784"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-12-13"
-last_updated: "2002-03-26"
+last_updated: "2002-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62784&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-12-07"
 
 ACUERDO GENERAL 89/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACION, RESIDENCIA, COMPETENCIA, FECHA DE INICIO DE FUNCIONAMIENTO Y JURISDICCION TERRITORIAL DEL TERCER TRIBUNAL COLEGIADO EN MATERIA CIVIL DEL CUARTO CIRCUITO, CON RESIDENCIA EN MONTERREY, NUEVO LEON; ASI COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS EN MATERIA CIVIL DEL MENCIONADO CIRCUITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE MARZO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: . 5 DE JUNIO DE 2002.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 13 de diciembre de 2001.
 
@@ -55,7 +55,7 @@ TERCERO.- Los dos tribunales colegiados en materia civil que están en funciones
 
 CUARTO.- Desde la fecha indicada en el punto segundo precedente, la Oficina de Correspondencia Común de los Tribunales Colegiados en Materia Civil del Cuarto Circuito, con residencia en Monterrey, Nuevo León, lo será también del nuevo órgano jurisdiccional.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/14/2002, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 26 DE MARZO DE 2002, SE PRORROGA EL PLAZO DE EXCLUSION DE TURNO DE NUEVOS ASUNTOS AL PRIMER Y SEGUNDO TRIBUNALES COLEGIADOS EN MATERIA CIVIL DEL CUARTO CIRCUITO, POR EL LAPSO DE DOS MESES, DEL 1 DE ABRIL AL 31 DE MAYO DE 2002.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/19/2002, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 5 DE JUNIO DE 2002, SE PRORROGA DEL PLAZO DE EXCLUSION DEL TURNO DE ASUNTOS NUEVOS AL PRIMER Y SEGUNDO TRIBUNALES COLEGIADOS EN MATERIA CIVIL DEL CUARTO CIRCUITO, CON RESIDENCIA EN MONTERREY, NUEVO LEON, POR UN LAPSO DE VEINTE DIAS, DEL 1 AL 20 DE JUNIO DE 2002.</small>
 
 QUINTO.- A partir del catorce de diciembre de dos mil uno, los nuevos asuntos que se presenten en la Oficina de Correspondencia Común de los Tribunales Colegiados en Materia Civil del Cuarto Circuito, con residencia en Monterrey, Nuevo León, serán del conocimiento del Tercer Tribunal Colegiado en Materia Civil del propio Circuito; con excepción de aquellos asuntos que tengan relación con los que se encuentran en trámite en los tribunales colegiados en materia civil actualmente en funciones en el Circuito y residencia mencionados, en cuyo caso se turnarán a los respectivos órganos jurisdiccionales, con el propósito de evitar el pronunciamiento de resoluciones contradictorias; y las demás excepciones que procedan conforme a lo dispuesto en el Acuerdo General 50/2001 del Pleno del Consejo de la Judicatura Federal.
 
@@ -88,3 +88,9 @@ D.O.F. 26 DE MARZO DE 2002.
 PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 5 DE JUNIO DE 2002.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
