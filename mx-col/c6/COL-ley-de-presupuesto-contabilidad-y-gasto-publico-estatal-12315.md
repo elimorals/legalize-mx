@@ -4,7 +4,7 @@ identifier: "COL-ley-de-presupuesto-contabilidad-y-gasto-publico-estatal-12315"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-02"
-last_updated: "1998-01-17"
+last_updated: "2002-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12315&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO ESTATAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2002.
+
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, SERVICIOS Y ARRENDAMIENTOS DEL SECTOR PUBLICO EN EL ESTADO DE COLIMA, SE DEROGAN LAS DISPOSICIONES DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO ESTATAL EN MATERIA DE ADQUISICIONES, SERVICIOS Y ARRENDAMIENTOS Y TODAS AQUELLAS QUE SE OPONGAN AL PRESENTE ORDENAMIENTO, P.O. 15 DE JUNIO DE 2002.</small>
 
 Ley publicada en el Periódico Oficial "El Estado de Colima" el sábado 2 de septiembre de 1995.
 
@@ -542,3 +544,27 @@ Dado en Palacio de Gobierno, a los treinta y un días del mes de agosto de mil n
 P.O. 17 DE ENERO DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 15 DE JUNIO DE 2002.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a los 30 días de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones de la Ley de Presupuesto, Contabilidad y Gasto Público Estatal en materia de adquisiciones, servicios y arrendamientos y todas aquéllas que se opongan al presente ordenamiento.
+
+###### ARTICULO TERCERO.
+
+Las disposiciones administrativas y reglamentos expedidos en esta materia, vigentes al momento de la publicación de este ordenamiento, se seguirán aplicando en todo lo que no se opongan a la presente Ley, en tanto se expiden las que deban sustituirlas.
+
+###### ARTICULO CUARTO.
+
+Los titulares de las dependencias constituirán los comités y expedirán los reglamentos a que se refiere el artículo 22 de esta Ley en un plazo no mayor de 90 días, contados a partir del día siguiente en que entre en vigor el presente ordenamiento.
+
+###### ARTICULO QUINTO.
+
+Los procedimientos de contratación, de aplicación de sanciones y de inconformidades, así como los demás asuntos que se encuentren en trámite o pendientes de resolución, se tramitarán y resolverán conforme a las disposiciones vigentes al momento en el que se iniciaron.
+
+Los contratos de adquisiciones, arrendamientos y prestación de servicios de cualquier naturaleza que se encuentren vigentes al entrar en vigor esta Ley, continuarán rigiéndose por las disposiciones vigentes en el momento en que se celebraron.
