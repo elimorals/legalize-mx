@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1997-01-22"
+last_updated: "1997-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 1997.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -681,13 +681,11 @@ Los hechos y actos del estado civil del propio Oficial, de su cónyuge, ascendie
 
 Las declaraciones de nacimiento se harán presentando al niño ante el Oficial del Registro Civil o solicitando la comparecencia del mismo al lugar donde se encuentre aquél. Esta presentación no tendrá lugar cuando exista el certificado de nacido vivo a que se refiere el artículo siguiente, cuyo documento será suficiente para el registro.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
 
 ###### Art. 58.
 
-Tienen obligación de declarar el nacimiento, el padre y la madre o cualquiera de ellos dentro de los sesenta días de ocurrido. A falta de los padres, están obligados a hacerlo los abuelos, por la línea materna en primer término y después los de la paterna. Los médicos, cirujanos o matronas que hubieren asistido al parto, tienen obligación de asentar en el certificado de nacido vivo las huellas digitales de esté y de la madre y deberán dar aviso del nacimiento al Oficial del Registro Civil dentro de los tres días siguientes mediante la entrega del certificado de nacido vivo o certificado de defunción fetal o del producto, de acuerdo con las formas expedidas por la Dirección del Registro Civil. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
-
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
+Tienen obligación de declarar el nacimiento, el padre y la madre o cualquiera de ellos dentro de los sesenta días de ocurrido. A falta de los padres, están obligados a hacerlo los abuelos. Los médicos, cirujanos o matronas que hubieren asistido al parto, tienen obligación de dar aviso del nacimiento al Oficial del Registro Civil dentro de los tres días siguientes mediante la entrega del certificado de nacido vivo o certificado de defunción fetal o del producto, de acuerdo con las formas expedidas por la dirección del Registro Civil. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
 
 Recibido el aviso, el Oficial del Registro Civil, en observancia a lo dispuesto por el artículo 337, levantará el acta de nacimiento conforme a las disposiciones relativas, o expedirá la orden de inhumación.
 
@@ -1095,6 +1093,8 @@ El Oficial del Registro Civil que sin motivo justificado retarde la celebración
 
 ### CAPITULO III. DE LOS DERECHOS Y OBLIGACIONES QUE NACEN DEL MATRIMONIO
 
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
+
 ###### Art. 114.
 
 Ejecutoriada la sentencia de divorcio, el Juez remitirá copia certificada de ella al Oficial del Registro Civil que corresponda, quien levantará el acta respectiva.
@@ -1335,19 +1335,23 @@ Si el matrimonio no se celebra, tienen derecho los prometidos de exigir la devol
 
 El matrimonio debe celebrarse ante los funcionarios que establece la ley y con las formalidades que ella exige.
 
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
+
 ###### Art. 147.
 
-Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
+El matrimonio es la unión legítima de un solo hombre y una sola mujer, para procurar su ayuda mutua, guardarse fidelidad, perpetuar la especie y crear entre ellos una comunidad de vida permanente.
+
+Cualquiera condición contraria a estos fines se tendrá por no puesta.
 
 ###### Art. 148.
 
 Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce. Los Presidentes Municipales pueden conceder dispensa de edad por causas graves y justificadas.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1970)</small>
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
 
 ###### Art. 149.
 
-El hijo o la hija que no haya cumplido dieciocho años, no pueden contraer matrimonio sin consentimiento de su padre y de su madre, si vivieren ambos o del que sobreviva. Este derecho lo tiene la madre, aunque haya contraído segundas nupcias, si el hijo vive con ella. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos paternos, si vivieren ambos, o del que sobreviva; a falta o por imposibilidad de los abuelos paternos, si los dos existieren, o del que sobreviva, se requiere el consentimiento de los abuelos maternos.
+El menor que no haya cumplido dieciocho años, no puede contraer matrimonio sin consentimiento de quien o quienes ejerzan sobre él la patria potestad o la tutela.
 
 ###### Art. 150.
 
@@ -1411,9 +1415,11 @@ El adoptante no puede contraer matrimonio con el adoptado o sus descendientes, e
 
 En la adopción plena se deberá de estar a los impedimentos previstos en el artículo anterior.
 
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
+
 ###### Art. 158.
 
-La mujer no puede contraer nuevo matrimonio sino hasta pasados trescientos días después de la disolución del anterior, a menos que dentro de ese plazo diere a luz un hijo. En los casos de nulidad o de divorcio, puede contarse este tiempo desde que se interrumpió la cohabitación.
+La mujer no puede contraer nuevo matrimonio sino hasta pasados trescientos días después de la disolución del anterior, a menos que dentro de ese plazo diere a luz un hijo o cuente por lo menos con dos certificados de ingravidez expedidos por médicos distintos. En los casos de nulidad o de divorcio, puede contarse este tiempo desde que se interrumpió la cohabitación.
 
 ###### Art. 159.
 
@@ -1433,15 +1439,29 @@ Los efectos jurídicos de los matrimonios celebrados en el extranjero por mexica
 
 ###### Art. 162.
 
-Los cónyuges están obligados a contribuir cada uno por su parte a los fines del matrimonio y a socorrerse mutuamente.
+Los cónyuges están obligados a contribuir cada uno por su parte a los fines del matrimonio.
+
+Los cónyuges tienen derecho a decidir de común acuerdo y de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos.
+
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
 
 ###### Art. 163.
 
-La mujer debe vivir al lado de su marido. Los tribunales, con conocimiento de causa, eximirán a la mujer de esta obligación cuando el marido traslade su domicilio a país extranjero, a no ser que lo haga en servicio de la patria, o cuando se establezca en un lugar insalubre o indecoroso.
+Los cónyuges deben vivir juntos en el domicilio conyugal que de común acuerdo establezcan.
+
+Se entiende por domicilio conyugal el lugar en el que los cónyuges residen habitualmente con facultades de disposición y gobierno propios, y donde se den las condiciones para que se cumplan las obligaciones inherentes al matrimonio y a los hijos.
+
+Se presume el común acuerdo de los cónyuges cuando se dan los supuestos del párrafo anterior por más de tres meses consecutivos sin que exista oposición expresa de alguno de ellos.
+
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
 
 ###### Art. 164.
 
-El marido debe dar alimentos a la mujer y hacer todos los gastos necesarios para el sostenimiento del hogar; pero si la mujer tuviere bienes propios o desempeñare algún trabajo, o ejerciere alguna profesión, oficio o comercio, deberá también contribuir para los gastos de la familia, siempre que la parte que le corresponda no exceda de la mitad de dichos gastos, a no ser que el marido estuviere imposibilitado para trabajar y careciere de bienes propios, pues entonces todos los gastos serán de cuenta de la mujer y se cubrirán con bienes de ella.
+Los cónyuges contribuirán económicamente al sostenimiento del hogar, a tal efecto solventarán sus alimentos y los de sus hijos, sin perjuicio de distribuirse la carga económica en la forma y proporción que acuerden según sus posibilidades.
+
+No tiene la obligación que impone este artículo el cónyuge que carezca de bienes propios y esté imposibilitado para trabajar, ni el que por convenio expreso o tácito con el otro, se ocupe de las labores del hogar o del cuidado de los hijos, en cuyo caso el otro solventará íntegramente esos conceptos.
+
+Los demás derechos y obligaciones que nacen del matrimonio serán siempre iguales para los cónyuges e independientes de su aportación económica al sostenimiento del hogar.
 
 ###### Art. 165.
 
@@ -1451,27 +1471,31 @@ La mujer tendrá siempre derecho preferente sobre los productos de los bienes de
 
 El marido tendrá el derecho que a la mujer concede el artículo anterior, en los casos en que ésta tenga obligación de contribuir en todo o en parte para los gastos de la familia y del hogar.
 
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
+
 ###### Art. 167.
 
-El marido y la mujer tendrán en el hogar autoridad y consideraciones iguales; por lo tanto, de común acuerdo arreglarán todo lo relativo a la educación y establecimiento de los hijos y a la administración de los bienes que a éstos pertenezcan.
+Los cónyuges tendrán en el hogar autoridad y consideraciones iguales; por lo tanto, resolverán de común acuerdo todo lo conducente al manejo del hogar, a la formación, la educación y el cuidado de los hijos y a la administración de los bienes que a éstos pertenezcan.
 
-En caso de que el marido y la mujer no estuvieren conformes sobre alguno de los puntos indicados, el Juez de lo Civil correspondiente procurará avenirlos, y si no lo lograre, resolverá, sin forma de juicio, lo que fuere mas conveniente a los intereses de los hijos.
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
 
 ###### Art. 168.
 
-Estará a cargo de la mujer la dirección y cuidado de los trabajos del hogar.
+Los cónyuges podrán desempeñar cualquier actividad, empleo, profesión, industria, oficio o comercio de su preferencia. Cualquiera de ellos podrá oponerse a que el otro desempeñe la actividad de que se trate, sólo cuando ésta dañe a la familia o ponga en peligro su estabilidad.
+
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
 
 ###### Art. 169.
 
-La mujer podrá desempeñar un empleo, ejercer una profesión, industria, oficio o comercio, cuando ello no perjudique a la misión que le impone el artículo anterior.
+En caso de que los cónyuges no logren el común acuerdo que se requiere en los artículos contenidos en el presente capítulo, el juez procurará avenirlos, y si no fuere posible, resolverá, previa audiencia de los interesados y con el correspondiente ofrecimiento y desahogo de pruebas, lo que fuere más conveniente al bienestar de los hijos, si los hubiere, o de los cónyuges en caso de no haberlos.
 
 ###### Art. 170.
 
-El marido podrá oponerse a que la mujer se dedique a las actividades a que se refiere el artículo anterior, siempre que subvenga a todas las necesidades del hogar y funde la oposición en causas graves y justificadas.
+(DEROGADO, P.O. 5 DE FEBRERO DE 1997)
 
 ###### Art. 171.
 
-En caso de que la mujer insista en usar de los derechos que le concede el artículo 169, no obstante de que el marido se los rehuse apoyado en lo dispuesto en el artículo anterior, el juez respectivo resolverá lo que sea procedente.
+(DEROGADO, P.O. 5 DE FEBRERO DE 1997)
 
 ###### Art. 172.
 
@@ -1891,17 +1915,15 @@ La buena fé se presume; para destruir esta presunción se requiere prueba plena
 
 Si la demanda de nulidad fuere entablada por uno solo de los cónyuges, desde luego se dictarán las medidas provisionales que establece el artículo 282.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
 
 ###### Art. 259.
 
-Luego que la sentencia sobre nulidad cause ejecutoria, los hijos varones mayores de cinco años, quedarán al cuidado del padre, y las hijas al cuidado de la madre, si de parte de ambos cónyuges hubiere habido buena fe; lo anterior no constituye impedimento para que acuerden mutuamente en que todos los hijos queden bajo el cuidado de uno de ellos, previo convenio, del que se dará vista al Ministerio Público y se sancionará por el Juez tomando siempre en cuenta, aquellas circunstancias que favorezcan a los hijos.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1982)</small>
+Luego que la sentencia sobre nulidad cause ejecutoria, el padre y la madre acordarán la forma y términos de la custodia de los hijos. El Juez podrá oponerse a este acuerdo cuando según las circunstancias del caso, el bienestar de los hijos resulte perjudicado, debiendo tener en cuenta lo establecido por el artículo 414 bis.
 
 ###### Art. 260.
 
-Si uno solo de los cónyuges ha procedido de buena fe, quedarán todos los hijos bajo su cuidado, a menos que se hubiese celebrado convenio con el otro cónyuge en los términos y condiciones del artículo anterior; pero siempre, y aún tratándose de divorcio, las hijas e hijos menores de cinco años, se mantendrán al cuidado de la madre hasta que cumplan esta edad, a menos que la madre se dedicare a la prostitución, al lenocinio, hubiere contraído el hábito de embriagarse, tuviere alguna enfermedad contagiosa, o por su conducta antisocial ofreciere peligro grave para la salud o la moralidad de sus hijos.
+(DEROGADO, P.O. 5 DE FEBRERO DE 1997)
 
 ###### Art. 261.
 
@@ -1929,7 +1951,9 @@ Es ilícito pero no nulo el matrimonio:
 
 I.- Cuando se ha contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa;
 
-II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 159, y cuando se celebre sin que hayan transcurrido los términos fijados en los artículos 158 y 289.
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 1997)</small>
+
+II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 159, y cuando se celebre contraviniendo lo dispuesto en los artículos 158 y 289.
 
 ###### Art. 265.
 
@@ -2015,7 +2039,9 @@ I.- Designación de personal a quien sean confiados los hijos del matrimonio, ta
 
 II.- El modo de subvenir a las necesidades de los hijos, tanto durante el procedimiento como después de ejecutoriado el divorcio;
 
-III.- La casa que servirá de habitación a la mujer durante el procedimiento;
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 1997)</small>
+
+III.- La casa que servirá de habitación a cada uno de los cónyuges durante el procedimiento;
 
 IV.- La cantidad que a título de alimentos un cónyuge debe pagar al otro durante el procedimiento, la forma de hacer el pago y la garantía que debe darse para asegurarlo;
 
@@ -2311,13 +2337,17 @@ I.- Los hijos nacidos después de ciento ochenta días contados desde la celebra
 
 II.- Los hijos nacidos dentro de los 300 días siguientes a la disolución del matrimonio, ya provenga ésta de nulidad del contrato, de muerte del marido o de divorcio. Este término se contará en los casos de divorcio o nulidad, desde que de hecho quedaron separados los cónyuges por orden judicial.
 
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
+
 ###### Art. 325.
 
-Contra esta presunción no se admite otra prueba que la de haber sido físicamente imposible al marido tener acceso carnal con su mujer, en los primeros ciento veinte días de los trescientos que han precedido al nacimiento.
+Contra esta presunción no se admite otra prueba que la de haber sido físicamente imposible al marido tener acceso carnal con su mujer, en los primeros ciento veinte días de los trescientos que han precedido al nacimiento, o que aun habiéndolo tenido existan razones biológicas o fisiológicas plenamente comprobadas que imposibiliten la concepción.
+
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
 
 ###### Art. 326.
 
-El marido no podrá desconocer a los hijos, alegando adulterio de la madre, aunque ésta declare que no son hijos de su esposo, a no ser que el nacimiento se le haya ocultado, o que demuestre que durante los diez meses que precedieron al nacimiento no tuvo acceso carnal con su esposa.
+El marido no podrá desconocer a los hijos, alegando adulterio de la madre, aunque ésta declare que no son hijos de su esposo, a no ser que el nacimiento se le haya ocultado, o que demuestre que durante los diez meses que precedieron al nacimiento no tuvo acceso carnal con su esposa, o que aun habiéndolo tenido existan razones biológicas o fisiológicas plenamente comprobadas que imposibiliten la concepción.
 
 ###### Art. 327.
 
@@ -2327,7 +2357,9 @@ El marido podrá desconocer al hijo nacido después de trescientos días contado
 
 El marido no podrá desconocer que es padre del hijo nacido dentro de los ciento ochenta días siguientes a la celebración del matrimonio:
 
-I.- Si se probare que supo antes de casarse el embarazo de su futura consorte; para esto se requiere un principio de prueba por escrito;
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 1997)</small>
+
+I.- Si se probare que supo antes de casarse el embarazo de su futura consorte;
 
 II.- Si concurrió al levantamiento del acta de nacimiento y ésta fue firmada por él, o contiene su declaración de no saber firmar;
 
@@ -2573,21 +2605,27 @@ Si el hijo reconocido es menor, puede reclamar contra el reconocimiento cuando l
 
 El término para deducir esta acción será de dos años, que comenzará a correr desde que el hijo sea mayor de edad, si antes de serlo tuvo noticia del reconocimiento; y si no la tenía, desde la fecha en que la adquirió.
 
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
+
 ###### Art. 378.
 
-La mujer que cuida o ha cuidado de la lactancia de un niño, a quien le ha dado su nombre o permitido que lo lleve; que públicamente lo ha presentado como hijo suyo y ha proveído a su educación y subsistencia, podrá contradecir el reconocimiento que un hombre haya hecho o pretenda hacer de ese niño. En este caso, no se le podrá separar de su lado, a menos que consienta en entregarlo o que fuere obligada a hacer la entrega por sentencia ejecutoriada. El término para contradecir el reconocimiento será el de sesenta días, contados desde que tuvo conocimiento de él.
+La persona que cumpliendo con la edad establecida en el artículo 361 y que cuida o ha cuidado de la lactancia de un menor o le ha dado su nombre o permitido que lo lleve; que públicamente lo ha presentado como hijo suyo y ha proveído a su educación y subsistencia, podrá contradecir el reconocimiento que otra persona haya hecho o pretenda hacer de ese menor. En este caso, no se le podrá separar de su lado, a menos que consienta en entregarlo o que fuere obligada a hacer la entrega por sentencia ejecutoriada. El término para contradecir el reconocimiento será el de sesenta días, contados desde que tuvo conocimiento de él.
 
 ###### Art. 379.
 
 Cuando la madre contradiga el reconocimiento hecho sin su consentimiento, quedará aquél sin efecto, y la cuestión relativa a la paternidad se resolverá en el juicio contradictorio correspondiente.
 
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
+
 ###### Art. 380.
 
-Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo acto, convendrán cual de los dos ejercerá sobre él la patria potestad; y en caso de que no lo hicieren, el juez de Primera Instancia del lugar, oyendo a los padres y al Ministerio Público, resolverá lo que creyere mas conveniente a los intereses del menor.
+Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo acto, convendrán cual de los dos ejercerá sobre él la custodia; y en caso de que no lo hicieren, el Juez oyendo a los padres y al Ministerio Público, resolverá lo que creyere más conveniente al bienestar del menor.
+
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
 
 ###### Art. 381.
 
-En caso de que el reconocimiento se efectúe sucesivamente por los padres que no viven juntos, ejercerá la patria potestad el que primero hubiere reconocido, salvo que se conviniere otra cosa entre los padres, y siempre que el juez de Primera Instancia del lugar no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Ministerio Público.
+En caso de que el reconocimiento se efectúe sucesivamente por los padres que no viven juntos, ejercerá la custodia el que primero lo hubiere reconocido, salvo que se conviniere otra cosa entre los padres, y siempre que el juez no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Ministerio Público.
 
 ###### Art. 382.
 
@@ -2613,9 +2651,11 @@ II.- Los nacidos dentro de los trescientos días siguientes al en que cesó la v
 
 La posesión de estado, para los efectos de la fracción II del artículo 382, se justificará demostrando por los medios ordinarios de prueba, que el hijo ha sido tratado por el presunto padre, o por su familia, como hijo del primero, y que éste ha proveído a su subsistencia, educación y establecimiento.
 
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
+
 ###### Art. 385.
 
-Está permitido al hijo nacido fuera de matrimonio y a sus descendientes, investigar la maternidad, la cual puede probarse por cualquiera de los medios ordinarios; pero la indagación no será permitida cuando tenga por objeto atribuir el hijo a una mujer casada.
+Está permitido al hijo nacido fuera de matrimonio y a sus descendientes, investigar la maternidad, la cual puede probarse por cualquiera de los medios ordinarios; pero la indagación no será permitida cuando tenga por objeto atribuir el hijo, a mujer casada si éste nació dentro de los períodos comprometidos en el artículo 324.
 
 ###### Art. 386.
 
@@ -3019,35 +3059,43 @@ Los hijos menores de edad no emancipados, están bajo la patria potestad mientra
 
 La patria potestad se ejerce sobre la persona y los bienes de los hijos.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
 
 ###### Art. 414.
 
-La patria potestad sobre los hijos de Matrimonio se ejerce:
+La patria potestad se ejerce por el padre y la madre conjuntamente. Solamente por falta o impedimento de éstos, corresponderá a los abuelos. Si sólo faltare alguna de las dos personas a quienes corresponde ejercer la patria potestad, la que quede continuará en el ejercicio de ese derecho.
 
-I.- Por el padre y la madre.
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1997)</small>
 
-II.- Por el abuelo y la abuela maternos.
+###### Art. 414 Bis.
 
-III.- Por el abuelo y la abuela paternos.
+La madre tendrá en todos los casos en que no viva con el padre de sus hijos, el derecho preferente de mantener a su cuidado a los que fueren menores de siete años, a menos que se dedicare a la prostitución, al lenocinio, hubiere contraído el hábito de embriagarse, tuviere alguna enfermedad contagiosa, o por su conducta antisocial ofreciere peligro grave para la salud o la moralidad de sus hijos.
+
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
 
 ###### Art. 415.
 
-Cuando los dos progenitores han reconocido al hijo nacido fuera de matrimonio y viven juntos, ejercerán ambos la patria potestad.
+En el caso del artículo 414, los abuelos a quienes les corresponde la patria potestad convendrán entre ellos, si la ejercerán los de la línea paterna o materna.
 
-Si viven separados, se observará en su caso lo dispuesto en los artículos 380 y 381.
+Si no se pusieren de acuerdo decidirá el Juez oyendo a los ascendientes, conforme a lo establecido en el artículo 418.
+
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
 
 ###### Art. 416.
 
-En los casos previstos en los artículos 380 y 381, cuando por cualquiera circunstancia deja de ejercer la patria potestad alguno de los padres, entrará a ejercerla el otro.
+Cuando los dos progenitores han reconocido al hijo nacido fuera de matrimonio y viven juntos, ejercerán ambos la patria potestad. Si viven separados, se observará respecto a la custodia del hijo, lo dispuesto en los Artículos 380 y 381.
+
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
 
 ###### Art. 417.
 
-Cuando los padres del hijo nacido fuera de matrimonio que vivían juntos se separen, continuará ejerciendo la patria potestad, en caso de que no se pongan de acuerdo sobre ese punto, el progenitor que designe el juez, teniendo siempre en cuenta los intereses del hijo.
+Cuando los padres del hijo nacido dentro o fuera de matrimonio que vivían juntos se separen, ambos seguirán ejerciendo la patria potestad, pero resolverán de común acuerdo sobre su custodia. En caso de no lograr el acuerdo, el Juez resolverá oyendo a las partes, conforme lo establecido en el artículo 418. Cuando la separación se de en virtud de divorcio o nulidad de matrimonio deberá estarse a lo estipulado en sus respectivos capítulos.
+
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
 
 ###### Art. 418.
 
-A falta de padres, ejercerán la patria potestad sobre el hijo reconocido, los demás ascendientes a que se refieren las fracciones II y III del artículo 414.
+En todos los casos en que se requiera la intervención judicial para decidir sobre la patria potestad y la custodia de los menores sujetos a ellas, deberá oírseles si han cumplido doce años; y se resolverá lo que sea más conveniente a su bienestar. Lo mismo se observará en los asuntos relativos a la formación y educación de los menores.
 
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -3055,9 +3103,13 @@ A falta de padres, ejercerán la patria potestad sobre el hijo reconocido, los d
 
 La patria potestad sobre el hijo adoptivo la ejercerán en la adopción semiplena únicamente los adoptantes, salvo lo previsto en el artículo 295. En la adopción plena, se estará a lo dispuesto por el artículo 414.
 
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
+
 ###### Art. 420.
 
-Solamente por falta o impedimento de todos los llamados preferentemente, entrarán al ejercicio de la patria potestad los que sigan en el orden establecido en los artículos anteriores. Si solo faltare alguna de las dos personas a quienes corresponde ejercer la patria potestad, la que quede continuará en el ejercicio de ese derecho.
+Los ascendientes que ejerzan la patria potestad en forma conjunta, tendrán autoridad y consideraciones iguales en dicho ejercicio; por lo tanto, de común acuerdo arreglarán todo lo relativo a la formación y educación de los menores y a la administración de los bienes que a éstos pertenezcan.
+
+En caso de que los ascendientes no logren el común acuerdo, el juez procurará avenirlos y si no fuere posible resolverá, previa audiencia de los interesados, lo que fuere más conveniente al bienestar de los menores.
 
 ###### Art. 421.
 
@@ -3081,19 +3133,29 @@ Los jueces tienen la facultad de tomar las medidas necesarias para impedir que u
 
 El que está sujeto a la patria potestad no puede comparecer en juicio, ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejerzan aquel derecho. En caso de irracional disenso, resolverá el juez.
 
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1997)</small>
+
+###### Art. 424 Bis.
+
+Por causas supervinientes que afecten al bienestar del menor, el Juez, a petición de parte interesada, o del Ministerio Público podrá en todo tiempo resolver o modificar las resoluciones respecto a la patria potestad o custodia de los menores sujetos a ellas.
+
 ### CAPITULO VII. DE LAS PERSONAS INHABILES PARA EL DESEMPEÑO DE LA TUTELA Y DE LAS QUE DEBEN SER SEPARADAS DE ELLA
 
 ###### Art. 425.
 
 Los que ejercen la patria potestad son legítimos representantes de los que están bajo de ella, y tienen la administración legal de los bienes que les pertenecen, conforme a las prescripciones de este Código.
 
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
+
 ###### Art. 426.
 
-Cuando la patria potestad se ejerza a la vez por el padre y por la madre, o por el abuelo y la abuela, o por los adoptantes, el administrador de los bienes será el varón; pero consultará en todos los negocios a su consorte, y requerirá su consentimiento expreso para los actos mas importantes de la administración.
+Cuando la patria potestad sea ejercida por dos ascendientes del menor, éstos acordarán quien de ellos será el administrador de sus bienes; pero siempre consultará al otro, y requerirá su consentimiento expreso para los actos más importantes de la administración.
+
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
 
 ###### Art. 427.
 
-La persona que ejerza la patria potestad representará también a los hijos en juicio; pero no podrá celebrar ningún arreglo para terminarlo, si no es con el consentimiento expreso de su consorte, y con la autorización judicial cuando la ley lo requiera expresamente.
+El administrador de los bienes de sus descendientes representará también a éstos en juicio; pero no podrá celebrar ningún convenio para terminarlo, si no es con el consentimiento expreso del otro ascendiente que también ejerza la patria potestad.
 
 ###### Art. 428.
 
@@ -3217,13 +3279,17 @@ B).- Cuando sea mayor de un año, por un período de dos meses; y
 
 V.- Por abandono ocasional o negligencia que ponga en peligro su integridad física o su salud, cualquiera que sea la edad del menor, si esta circunstancia se prolonga hasta por tres meses.
 
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
+
 ###### Art. 445.
 
-La madre o abuela que pase a segundas nupcias, no pierde por este hecho la patria potestad.
+El ascendiente que pase a ulteriores nupcias, no pierde por este hecho la patria potestad.
+
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
 
 ###### Art. 446.
 
-El nuevo marido no ejercerá la patria potestad sobre los hijos del matrimonio anterior.
+El cónyuge no ejercerá la patria potestad sobre los descendientes de su consorte habidos con persona distinta.
 
 ###### Art. 447.
 
@@ -3295,9 +3361,11 @@ El que se rehusare sin causa legal a desempeñar el cargo de tutor, es responsab
 
 La tutela se desempeñará por el tutor con intervención del curador, del juez y del Consejo Local de Tutelas, en los términos establecidos en este Código.
 
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
+
 ###### Art. 455.
 
-Ningún incapaz puede tener a un mismo tiempo mas de un tutor y de un curador definitivos.
+Ningún incapaz puede tener a un mismo tiempo más de un tutor y de un curador definitivos salvo el caso del artículo 489.
 
 ###### Art. 456.
 
@@ -3349,7 +3417,7 @@ Los hijos menores de un incapacitado quedarán bajo la patria potestad del ascen
 
 ###### Art. 466.
 
-El cargo de tutor del demente, idiota, imbécil, sordo-mudo, ebrio consuetudinario y de los que habitualmente abusen de las drogas enervantes, durará el tiempo que subsista la interdicción, cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge sólo tendrá obligación de desempeñar ese cargo mientras conserve su caráctr (sic) de cónyuge. Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercerla.
+El cargo de tutor del demente, idiota, imbécil, sordo-mudo, ebrio consuetudinario y de los que habitualmente abusen de las drogas enervantes, durará el tiempo que subsista la interdicción, cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge solo tendrá obligación de desempeñar ese cargo mientras conserve su caráctr (sic) de cónyuge. Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercerla.
 
 ###### Art. 467.
 
@@ -3387,11 +3455,11 @@ El que en su testamento, aunque sea un menor no emancipado, deje bienes, ya sea 
 
 Si fueren varios los menores podrá nombrárseles un tutor común, o conferirse a persona diferente la tutela de cada uno de ellos, observándose, en su caso, lo dispuesto en el artículo 457.
 
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
+
 ###### Art. 475.
 
-El padre que ejerza la tutela de un hijo sujeto a interdicción por incapacidad intelectual, puede nombrarle tutor testamentario si la madre ha fallecido o no puede legalmente ejercer la tutela.
-
-La madre, en su caso, podrá hacer el nombramiento de que trata este artículo.
+El padre o la madre que sobreviva en el ejercicio de la tutela legítima de su hijo incapacitado, puede nombrarle tutor testamentario.
 
 ###### Art. 476.
 
@@ -3457,13 +3525,25 @@ Los hijos mayores de edad son tutores de su padre o madre viudos.
 
 Cuando haya dos o mas hijos, será preferido el que viva en compañía del padre o de la madre; y siendo varios los que estén en el mismo caso, el juez elegirá al que le parezca más apto.
 
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
+
 ###### Art. 489.
 
-El padre, y por muerte o incapacidad de éste, la madre, son de derecho tutores de sus hijos, solteros o viudos, cuando ellos no tengan hijos que puedan desempeñar la tutela.
+Los padres son de derecho tutores de sus hijos, solteros o viudos, cuando ellos no tengan hijos que puedan desempeñar la tutela. Si viven juntos, ambos ejercerán la tutela, si viven separados, de común acuerdo decidirán quien de ellos cuidará al incapacitado, y quien administrará sus bienes, pero siempre consultará al otro y requerirá su consentimiento expreso para los actos más importantes de la administración. En caso de no ponerse de acuerdo sobre quien ejercerá la tutela, el Juez resolverá lo que mas convenga al incapacitado.
+
+El administrador de los bienes del incapacitado lo representará también en juicio; pero no podrá celebrar ningún convenio para terminarlo, si no es con el consentimiento expreso del otro ascendiente que también ejerza la tutela.
+
+A falta o por imposibilidad de uno de los padres, el otro continuará en el desempeño de la tutela.
+
+En caso de nulidad o divorcio se seguirán los mismos principios que en materia de patria potestad y custodia señalan los Artículos 259 y 283.
+
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
 
 ###### Art. 490.
 
-A falta de tutor testamentario y de persona que con arreglo a los artículos anteriores deba desempeñar la tutela, serán llamados a ella sucesivamente: el abuelo paterno, el materno, los hermanos del incapacitado y los demás colaterales a que se refiere la fracción II del artículo 483; observándose, en su caso, lo que dispone el artículo 484.
+A falta de tutor testamentario y de persona que con arreglo a los artículos anteriores deba desempeñar la tutela, serán llamados a ella sucesivamente: los abuelos maternos y paternos, los hermanos del incapacitado y los demás colaterales a que se refiere la fracción segunda del Artículo 483; observándose, en su caso, lo que dispone el Artículo 484.
+
+El ejercicio de la tutela por los abuelos, se regirá por lo dispuesto en el artículo anterior.
 
 ###### Art. 491.
 
@@ -3665,7 +3745,9 @@ VI.- Los que tengan sesenta años cumplidos;
 
 VII.- Los que tengan a su cargo otra tutela o curaduría;
 
-VIII.- Las mujeres, cuando por su falta de ilustración, por su inexperiencia en los negocios, por su timidez o por otra causa igualmente grave a juicio del juez, no estén en aptitud de desempeñar convenientemente la tutela.
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 1997)</small>
+
+VIII.- Las personas que por su falta de ilustración, por su inexperiencia en los negocios, por su timidez o por otra causa igualmente grave a juicio del juez, no estén en aptitud de desempeñar convenientemente la tutela.
 
 ###### Art. 512.
 
@@ -15868,6 +15950,10 @@ El presente Decreto entrará en vigor al día de su publicación en el Periódic
 ###### ARTICULO SEGUNDO.
 
 En relación a las adiciones que se mencionan en el artículo quinto de este Decreto, las instituciones ya establecidas deberán cumplir con todas las obligaciones señaladas en el mismo, en un plazo no mayor de treinta días a partir de su vigencia y el Consejo Estatal de Adopciones dará a conocer los formatos e instructivos a través de los que se proporcionará la información, lo cual deberá hacerse en un plazo no mayor de diez días a partir de la iniciación de la vigencia de este Decreto.
+
+P.O. 5 DE FEBRERO DE 1997.
+
+UNICO:- Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### ARTICULO TERCERO.
 
