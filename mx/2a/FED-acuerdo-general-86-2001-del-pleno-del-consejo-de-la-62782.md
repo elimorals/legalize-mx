@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-86-2001-del-pleno-del-consejo-de-la-62782"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-12-13"
-last_updated: "2002-04-04"
+last_updated: "2002-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62782&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-12-07"
 
 ACUERDO GENERAL 86/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACION, RESIDENCIA, COMPETENCIA, FECHA DE INICIO DE FUNCIONAMIENTO Y JURISDICCION TERRITORIAL DEL DECIMOTERCER TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO, DEL DECIMOCUARTO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO Y DEL DECIMOQUINTO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO, CON RESIDENCIA EN EL DISTRITO FEDERAL; ASI COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS EN MATERIA DE TRABAJO DEL MENCIONADO CIRCUITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ABRIL DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JUNIO DE 2002.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 13 de diciembre de 2001.
 
@@ -55,7 +55,7 @@ TERCERO.- Los doce tribunales colegiados en materia de trabajo que están en fun
 
 CUARTO.- Desde la fecha indicada en el punto segundo precedente, la Oficina de Correspondencia Común de los Tribunales Colegiados en Materia de Trabajo del Primer Circuito, con residencia en el Distrito Federal, lo será también de los nuevos órganos jurisdiccionales.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/16/2002, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 4 DE ABRIL DE 2002, SE PRORROGA EL PLAZO DE EXCLUSION DE TURNO DE NUEVOS ASUNTOS AL OCTAVO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO, CON RESIDENCIA EN EL DISTRITO FEDERAL, POR EL LAPSO DE DOS MESES, DEL 1 AL 31 DE MAYO DE 2002.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/18/2002, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 5 DE JUNIO DE 2002, SE PRORROGA DEL PLAZO DE EXCLUSION DEL TURNO DE ASUNTOS NUEVOS AL OCTAVO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO, CON RESIDENCIA EN EL DISTRITO FEDERAL, POR UN LAPSO DE UN MES, DEL 1 AL 30 DE JUNIO DE 2002.</small>
 
 QUINTO.- A partir del catorce de diciembre de dos mil uno, los nuevos asuntos que se presenten en la Oficina de Correspondencia Común de los Tribunales Colegiados en Materia de Trabajo del Primer Circuito, con residencia en el Distrito Federal, se distribuirán conforme al sistema computarizado que se utiliza para esos efectos, entre los tribunales colegiados Primero, Tercero, Sexto, Séptimo, Noveno, Decimosegundo, Decimotercero, Decimocuarto y Decimoquinto, todos en materia de trabajo del propio Circuito; con excepción de aquellos asuntos que tengan relación con los que se encuentran en trámite en los tribunales colegiados en materia de trabajo actualmente en funciones en el Circuito y sede mencionados, en cuyo caso se turnarán a los respectivos órganos jurisdiccionales, con el propósito de evitar el pronunciamiento de resoluciones contradictorias; y las demás excepciones que procedan conforme a lo dispuesto en el Acuerdo General 50/2001 del Pleno del Consejo de la Judicatura Federal.
 
@@ -96,6 +96,12 @@ SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 4 DE ABRIL DE 2002.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 5 DE JUNIO DE 2002.
 
 PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 
