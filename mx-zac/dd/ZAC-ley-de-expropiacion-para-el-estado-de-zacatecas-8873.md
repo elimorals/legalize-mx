@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-expropiacion-para-el-estado-de-zacatecas-8873"
 country: "mx"
 rank: "ley"
 publication_date: "1944-09-23"
-last_updated: "1958-10-04"
+last_updated: "1965-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE EXPROPIACION PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 1958.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 1965.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 23 de sptiembre de 1944.
 
@@ -95,9 +95,11 @@ Los propietarios afectados podrán interponer, dentro de los quince días hábil
 
 Si concluido el término de quince días a que se refiere el artículo anterior, no se interpone el recurso que el mismo establece, o en casos de inminente necesidad o de graves consecuencias, a juicio del Ejecutivo, éste procederá a la ocupación del bien afectado, o impondrá las limitaciones de dominio que procedan.
 
-###### ARTICULO 6o.
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 1965)</small>
 
-El precio que deba fijarse como indemnización a la cosa expropiada se basará en el valor con ésta figure en el Catastro del Estado; pero si el propietario no ha presentado las manifestaciones correspondientes o no se ha llegado a fijar dicho valor de acuerdo con la Ley respectiva, y en cualquier otro caso, el expediente se turnará al Juez de Primera Instancia, en cuya jurisdicción territorial se encuentre ubicado el bien de que se trate para que fije la indemnización de acuerdo con las siguientes disposiciones.
+###### ARTICULO 6.
+
+El precio que deba fijarse como indemnización a la cosa expropiada se basará en el valor fiscal con que ésta figure en el Catastro del Estado; pero si el propietario no ha presentado las manifestaciones correspondientes o no se ha llegado a fijar dicho valor de acuerdo con la Ley respectiva, y en cualquier otro caso, el expediente se turnará al Juez de Primera Instancia, en cuya jurisdicción territorial se encuentre ubicado el bien de que se trate para que fije la indemnización de acuerdo con las siguientes disposiciones.
 
 ###### ARTICULO 7o.
 
@@ -158,5 +160,9 @@ LEOBARDO REYNOSO.- EL Srio. General de Gobierno, Lic. Roberto del Real.- Rúbric
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 4 DE OCTUBRE DE 1958
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE MARZO DE 1965
 
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
