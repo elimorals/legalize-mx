@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "1991-11-21"
+last_updated: "1992-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE NOVIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JULIO DE 1992.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1978.
 
@@ -146,6 +146,10 @@ b).- Jarabes o concentrados para preparar refrescos que se expendan en envases a
 
 c).- Los que le sea aplicable la tasa del 0 %
 
+> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 1992)</small>
+
+d).- Caviar, salmón ahumado y angulas.
+
 II.- Medicinas de patente.
 
 > <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
@@ -226,11 +230,9 @@ Los contribuyentes sujetos al régimen establecido en el Título II-A o en la Se
 
 El impuesto se calculará por ejercicios fiscales, salvo los casos señalados en el artículo 33 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 21 DE NOVIEMBRE DE 1991.</small>
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
 
-> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
-
-Los contribuyentes efectuarán pagos provisionales mediante declaración que presentarán ante las oficinas autorizadas a más tardar el día 17 de cada uno de los meses del ejercicio, salvo que se trate de contribuyentes de la Sección II del Capítulo VI del Título IV de la Ley del Impuesto sobre la Renta, quienes efectuarán pagos provisionales trimestrales por los mismos períodos y en las mismas fechas de pago que las establecidas para el impuesto sobre la renta.
+Los contribuyentes efectuarán pagos provisionales mediante declaración que presentarán ante las oficinas autorizadas por los mismos periodos y en las mismas fechas de pago que las establecidas para el impuesto sobre la renta.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -914,8 +916,6 @@ IV.- Intereses, los títulos de crédito y los productos o rendimientos derivado
 
 V.- El uso o goce temporal de casa habitación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 21 DE NOVIEMBRE DE 1991.</small>
-
 > <small>(ADICIONADA, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
 
 VI.- Espectáculos públicos consistentes en obras de teatro y funciones de circo o cine, que en su conjunto superen un gravamen a nivel local del 8 % calculado sobre el ingreso total que derive de dichas actividades.
@@ -1317,3 +1317,17 @@ TERCERO.- El saldo a favor que, en su caso, se derive de la reducción de la tas
 La cantidad del saldo a favor que no se hubiera podido compensar, podrá solicitarse en devolución.
 
 No será aplicable lo previsto en este artículo por los actos o actividades sujetos a la tasa del 0%.
+
+D.O.F. 20 DE JULIO DE 1992.
+
+DISPOSICION TRANSITORIA DE LA LEY DEL IMPUESTO AL VALOR AGREGADO
+
+###### ARTICULO DECIMO TERCERO.
+
+Lo dispuesto en el ARTICULO UNICO de las DISPOSICIONES DE VIGENCIA ANUAL del Decreto que Reforma, Adiciona y Deroga Diversas Disposiciones de la Ley del Impuesto al Valor Agregado, publicado en el Diario Oficial de la Federación el 21 de noviembre de 1991, no será aplicable a lo dispuesto en el artículo 2o-B, fracción I, inciso d) del presente Decreto, por lo que la enajenación e importación de los alimentos citados en el artículo 2o-B, fracción I, inciso d), estarán gravados a la tasa del 10% a partir de la entrada en vigor del presente Decreto.
+
+## TRANSITORIO
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
