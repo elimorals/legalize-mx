@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-procedimientos-civiles-para-el-estado-de-durango-4706
 country: "mx"
 rank: "codigo"
 publication_date: "1948-08-22"
-last_updated: "1971-01-07"
+last_updated: "1977-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 1977.
 
 Código publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 22, jueves 26 y domingo 29 de agosto; jueves 2, domingo 5, jueves 9, domingo 12, jueves 16, domingo 19, jueves 23, domingo 26 y jueves 30 de septiembre; domingo 3, jueves 7, domingo 10, jueves 14, domingo 17 y jueves 21 de octubre de 1948.
 
@@ -5629,19 +5629,19 @@ DE LA JUSTICIA DE PAZ.
 
 Los juzgados municipales y auxiliares sujetarán sus procedimientos a lo dispuesto en este Título.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1977)</small>
+
 ###### ARTICULO 930.
 
-Los jueces auxiliares y municipales conocerán de los juicios cuya cuantía no exceda de trescientos pesos.
+Los Juzgados Municipales y Auxiliares conocerán de los juicios cuya cuantía no exceda de mil pesos.
 
-Para estimar el interés del negocio se atenderá a lo que el actor demande. Los réditos, daños y perjuicios no será tenidos en consideración si son posteriores a la presentación de la demanda aún cuando se reclame en ella.
-
-Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas se computará el importe de las pensiones en un año a no ser que se tratare de prestaciones vencidas, en cuyo caso se estará a lo dispuesto en la primera parte de este artículo.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1977)</small>
 
 ###### ARTICULO 931.
 
-Si se dudare del valor de la cosa demandada o del interés del pleito antes de expedirse la cita para el demandado, el juez oirá el dictamen de un perito que él mismo nombrará a costa del actor.
+Si se dudara del valor de la cosa demandada o del interés del pleito de expedirse la cita para el demandado, el Juez oirá el dictamen de un perito que él mismo nombrará a costa del actor.
 
-Aún cuando esto se hubiere hecho, el demandado en el acto del juicio podrá pedir que se declare que el negocio no es de la jurisdicción de paz por exceder de trescientos pesos su cuantía y, en tal caso, el juez oirá lo que ambas partes expongan y la opinión de los peritos que presente, resolviendo en seguida. Si declarare ser competente se continuará la audiencia como lo establecen los artículos 948 y 951.
+Aún cuando esto se hubiere hecho, el demandado en el acto del juicio podrá pedir que se declare que el negocio no es de la jurisdicción de paz por exceder de mil pesos su cuantía, y, en tal caso, el Juez oirá lo que ambas partes expongan y la opinión de los peritos que presente, resolviendo en seguida si declarare ser competente se continuará la audiencia como lo establecen los Artículos 948 y 951.
 
 ###### ARTICULO 932.
 
@@ -5739,7 +5739,9 @@ I.- Expondrán oralmente sus pretensiones por su orden, el actor su demanda y el
 
 II.- Las partes pueden hacerse mutuamente las preguntas que quieran, interrogar a los testigos y peritos y en general, presentar todas las pruebas que se puedan rendir desde luego;
 
-III.- Todas las acciones y excepciones o defensas se harán valer en el acto mismo de la audiencia sin substanciar artículo o incidente de previo pronunciamiento. Si de lo que expongan o prueben las partes resultare demostrada la procedencia de una excepción dilatoria, el juez la declarará así desde luego y dará por terminada la audiencia. Ante los jueces municipales y auxiliares, sólo se admitirá reconvención hasta por trescientos pesos;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 1977)</small>
+
+III.- Todas las acciones y excepciones o defensas se harán valer en el acto mismo de la audiencia sin substanciar artículo o incidente de previo pronunciamiento. Si de lo que expongan o prueben las partes resultare demostrada la procedencia de una excepción dilatoria, el Juez lo declarará así desde luego y dará por terminada la audiencia. Ante los Jueces municipales y auxiliares, sólo se admitirá renovación hasta por mil pesos;
 
 IV.- El juez podrá hacer libremente las preguntas que juzgue oportunas a cuantas personas estuvieren presentes en la audiencia, carear a las partes entre sí o con los testigos y a éstos, los unos con los otros, examinar documentos, objetos o lugares y hacerlos reconocer por peritos;
 
@@ -5930,3 +5932,21 @@ Dado en el Palacio del Poder Ejecutivo del Estado, en Victoria de Durango, Duran
 P.O. 7 DE ENERO DE 1971.
 
 UNICO.- El presente Decreto surtirá sus efectos tres días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 1977.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día ocho de Julio de mil novecientos setenta y siete.
+
+###### ARTICULO SEGUNDO.
+
+Las presentes reformas y adiciones se aplicarán solo a los asuntos que se inicien a partir de la vigencia de este Decreto.
+
+###### ARTICULO TERCERO.
+
+Para determinar la competencia por razón de cuantía, se aplicarán las disposiciones vigentes en la fecha de la presentación de la demanda.
+
+###### ARTICULO CUARTO.
+
+Se derogan las disposiciones que se opongan a este Decreto.
