@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-renta-478"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1986-12-31"
+last_updated: "1987-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=478&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,25 +20,29 @@ abbreviation: "LISR"
 ---
 # LEY DEL IMPUESTO SOBRE LA RENTA
 
-LEY DEL IMPUESTO SOBRE LA RENTA
+LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1986.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2020.
 
-Ley publicada en el Diario Oficial de la Federación, el Martes 30 de Diciembre de 1980.
+Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 17 de enero de 2009.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+AMALIA D. GARCÍA MEDINA, Gobernadora del Estado de Zacatecas, a sus habitantes hago saber:
 
-JOSE LOPEZ PORTILLO, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
+Que los DIPUTADOS SECRETARIOS de la Honorable Quincuagésima Novena Legislatura del Estado, se han servido dirigirme el siguiente:
 
-Que el H. Congreso de la Unión se ha servido dirigirme el siguiente
+DECRETO # 242
 
-DECRETO:
+LA HONORABLE QUINCUAGÉSIMA NOVENA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS, EN NOMBRE DEL PUEBLO, DECRETA
 
-"El Congreso de los Estados Unidos Mexicanos, decreta:
+RESULTANDO PRIMERO.-.
 
-LEY DEL IMPUESTO SOBRE LA RENTA
+Por todo lo anteriormente expuesto y fundado, y con apoyo además en lo previsto por los artículos 65, fracción I de la Constitución Política del Estado; 140 y 141 del Reglamento General del Poder Legislativo, en nombre del Pueblo es de decretarse y se
 
-## TITULO I. Disposiciones Generales
+DECRETA
+
+LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS
+
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1o.
 
@@ -218,75 +222,55 @@ Los pagos provisionales a que se refiere este artículo se calcularán de acuerd
 
 Los fideicomisarios o, en su caso, el fideicomitente responderán por el incumplimiento de las obligaciones que por su cuenta deba cumplir la fiduciaria.
 
-## TITULO II. De las Sociedades Mercantiles
+## TÍTULO SEGUNDO. DE LOS DERECHOS Y OBLIGACIONES DE LOS SUJETOS DEL DESARROLLO SOCIAL
 
-Disposiciones Generales
+###### Artículo 10.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+Sin perjuicio de lo establecido en otros ordenamientos, se reconoce el derecho a:
 
-###### ARTICULO 10.
+I. La salud;
 
-Las sociedades mercantiles deberán calcular el impuesto sobre la renta, aplicando al resultado fiscal obtenido en el ejercicio la tasa del 35%.
+II. La educación;
 
-El resultado fiscal del ejercicio se determinará como sigue:
+III. La alimentación y nutrición adecuada;
 
-I.- Se obtendrá la utilidad fiscal disminuyendo de la totalidad de los ingresos acumulables obtenidos en el ejercicio, las deducciones autorizadas por este Título.
+IV. La vivienda;
 
-II.- A la utilidad fiscal del ejercicio se le disminuirán, en su caso, las pérdidas fiscales pendientes de aplicar de otros ejercicios.
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
 
-El impuesto del ejercicio se pagará mediante declaración que presentarán ante las oficinas autorizadas, dentro de los tres meses siguientes a la fecha en que termine el ejercicio fiscal.
+V. Un medio ambiente sano;
 
-###### ARTICULO 11.
+VI. La no discriminación;
 
-(DEROGADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)
+VII. El trabajo y la seguridad social;
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
 
-> <small>(DEROGADO TERCER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+VIII. El acceso al agua y servicios públicos;
 
-Dentro del mes siguiente a la fecha en que termine la liquidación de una sociedad, el liquidador deberá presentar la declaración final del ejercicio de liquidación; cuando no sea posible efectuar la liquidación total del activo dentro de los seis meses siguientes a la fecha en que la sociedad entró en liquidación, el liquidador deberá presentar declaraciones semestrales, dentro del mes siguiente a aquél en que termine cada semestre, en tanto se lleve a cabo la liquidación total del activo. En las declaraciones semestrales el liquidador determinará el impuesto correspondiente al periodo transcurrido desde el inicio de la liquidación y acreditará los pagos efectuados con las declaraciones; en estas declaraciones no se considerarán los activos de establecimientos ubicados en el extranjero. La última declaración será la del ejercicio de liquidación, incluirá los activos de establecimientos ubicados en el extranjero y se deberá presentar dentro del mes siguiente a aquél en que termine la liquidación aún cuando no hayan transcurrido seis meses desde la última declaración semestral.
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
 
-> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1986)</small>
+IX. La igualdad;
 
-###### ARTICULO 12.
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2019)</small>
 
-Los contribuyentes efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio, a más tardar el día 7 del mes inmediato posterior a aquél al que corresponda el pago, conforme a las bases que a continuación se señalan:
+X. A una familia;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2019)</small>
 
-I.- Se calculará el coeficiente de utilidad correspondiente al último ejercicio de 12 meses por el que se hubiera o debió haberse presentado declaración, sumando a la utilidad fiscal o restando a la pérdida fiscal, según sea el caso, el importe de las deducciones a que se refieren los artículos 22 fracción IX y 51 de esta Ley; a la cantidad así obtenida se le restarán los ingresos por dividendos o utilidades percibidos durante el mismo período. El resultado se dividirá entre la cantidad que resulte de restar a los ingresos del mismo ejercicio, los dividendos o utilidades percibidos en el citado ejercicio.
+XI. A la recreación y la cultura, y
 
-Tratándose del segundo ejercicio fiscal, el primer pago provisional comprenderá el primero, el segundo y el tercer mes del ejercicio, y se considerará el coeficiente de utilidad fiscal del primer ejercicio, aun cuando no hubiera sido de doce meses.
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2019)</small>
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+XII. A una vida libre de violencia.
 
-II.- Se obtendrá la utilidad fiscal para el pago provisional, restando el total de los ingresos obtenidos entre el inicio del ejercicio y el último día del mes a que corresponda el pago, los ingresos por dividendos o utilidades obtenidos y el importe de la deducción del artículo 51 de esta Ley, correspondientes al mismo período. A la diferencia se aplicará el coeficiente de utilidad que resulte conforme al primer párrafo de la fracción anterior.
+###### Artículo 11.
 
-Para los efectos del párrafo anterior se considerará como importe de la deducción del artículo 51 de esta Ley, la cantidad que resulte de aplicar el porciento que corresponda en los términos de dicho artículo al monto original de la inversión multiplicado por el factor de actualización correspondiente al período comprendido entre el mes en que se adquirió el bien y el mes en que se comience a utilizar el bien de que se trate o al primer mes del ejercicio siguiente cuando se opte por efectuar la deducción en dicho ejercicio.
+Toda persona tiene derecho a ser beneficiada por los programas de desarrollo social y formar parte en los órganos de participación ciudadana relacionados con la materia, siempre y cuando cumplan con los requisitos que para el caso se establezcan en las disposiciones legales aplicables.
 
-Al resultado obtenido conforme al párrafo primero de esta fracción se le sumará o restará, según sea el caso, la diferencia que se obtenga de restar a los ingresos por dividendos obtenidos entre la fecha del inicio del ejercicio y el último día del mes al que corresponda el pago, los dividendos o utilidades que hubiera pagado en el mismo período, salvo los conceptos comprendidos en las fracciones IV, V, VI y VII del artículo 120 de esta Ley.
+###### Artículo 12.
 
-Cuando los ingresos por dividendos o utilidades percibidos durante el último ejercicio de doce meses sean iguales o mayores que la utilidad fiscal adicionada o la pérdida fiscal disminuida, con el importe de las deducciones señaladas en el primer párrafo de la fracción anterior, se determinará la utilidad fiscal para el pago provisional en los términos del párrafo anterior.
-
-Para los efectos de lo dispuesto en esta fracción se considerarán como intereses acumulables y ganancia inflacionaria del mes, en los términos del artículo 7o.- B de esta Ley, los que resulten de aplicar el factor de ajuste mensual del mes inmediato anterior en lugar del factor correspondiente al del mes por el que se efectúe el pago provisional.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-III.- Los pagos provisionales serán las cantidades que resulten de aplicar la tasa establecida en el artículo 10 de esta Ley sobre la utilidad fiscal que se determine en los términos de la fracción que antecede, pudiendo acreditarse contra el impuesto a pagar los pagos provisionales del mismo ejercicio efectuados con anterioridad.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-En el ejercicio de iniciación de operaciones, excepto en los supuestos a que se refieren los artículos 8o., 9o. y 161 de esta Ley, y en el caso del ejercicio inmediato siguiente al de iniciación de operaciones, cuando este último sea irregular y se hubiera obtenido pérdida fiscal, sin considerar las deducciones de los artículos 22 fracción IX y 51 de la misma Ley, los pagos provisionales serán la cantidad que resulte de aplicar la tasa establecida en el artículo 10 de esta Ley sobre los ingresos por dividendos o utilidades percibidos en el período al cual corresponda el pago provisional de que se trate.
-
-Para calcular los pagos provisionales no se considerarán los ingresos atribuibles a los establecimientos de los contribuyentes ubicados en el extranjero. Tratándose del ejercicio de liquidación de una sociedad, los pagos provisionales se harán conforme a lo dispuesto en el artículo 11 de esta Ley.
-
-Los dividendos o utilidades distribuidos en acciones de la sociedad de que se trate o los que se reinviertan dentro de los treinta días siguientes a su distribución en la suscripción o pago de aumento de capital de dicha sociedad, no deberán incluirse como ingresos o restarse para fines de este artículo.
-
-Con el propósito de que los pagos provisionales mantengan relación con el impuesto definitivo a pagar, el monto de los mismos se podrá disminuir, cuando proceda, en los casos y cumpliendo los requisitos que señale el Reglamento de esta Ley.
-
-Los contribuyentes deberán presentar las declaraciones de pago provisional, aun cuando no haya cantidad a enterar.
-
-> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 1986)</small>
+Toda persona o grupo social en situación de vulnerabilidad, marginación o pobreza, tendrá derecho y preferencia a recibir los apoyos y a beneficiarse de los planes, programas y acciones de desarrollo social, para superar su situación y contar con mejor calidad de vida.
 
 ###### ARTICULO 12-A.
 
@@ -302,67 +286,221 @@ II.- Cuando la pérdida fiscal pendiente de disminuir de ejercicios anteriores, 
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-###### ARTICULO 13.
+###### Artículo 13.
 
-Las sociedades mercantiles podrán reducir el impuesto determinado en los términos del artículo 10 de esta Ley, como sigue:
+Las o los particulares, organismos, instituciones y representantes de los sectores social, académico y privado, podrán participar corresponsablemente en la elaboración de las políticas compensatorias y asistenciales que coadyuven al desarrollo social del Estado.
 
-I.- 40%, si los contribuyentes están dedicados exclusivamente a la agricultura, ganadería, pesca o silvicultura.
+###### Artículo 14.
 
-II.- 25%, si los contribuyentes a que se refiere la fracción anterior, industrializan sus productos.
+Las o los beneficiarios de los programas de desarrollo social tienen los siguientes derechos:
 
-III.- 25%, si los contribuyentes a que se refiere la fracción I de este Artículo, realizan actividades comerciales o industriales en las que obtengan como máximo el 50% de sus ingresos brutos.
+I. Recibir un trato respetuoso, digno, oportuno y con calidad;
 
-IV.- 50%, si los contribuyentes están dedicados exclusivamente a la edición de libros. Cuando no se dediquen exclusivamente a esta actividad, calcularán la reducción del 50% sobre el monto del impuesto que corresponda de los ingresos por la edición de libros, en los términos del Reglamento de esta Ley.
+II. Acceder a la información sobre los programas de desarrollo social que promueva la Federación, el Estado y los Municipios, su normatividad, sus reglas de operación, recursos, cobertura y beneficios;
 
-Los contribuyentes que perciban ingresos por dividendos o utilidades de otras sociedades mercantiles, determinarán las reducciones a que se refiere este artículo, disminuyendo de su resultado fiscal los ingresos por dividendos o utilidades distribuidas que hubieran percibido en el ejercicio y aplicando; en su caso, a la diferencia la tasa establecida en el artículo 10 de esta Ley, sobre el resultado así obtenido se calcularán las reducciones correspondientes, las cuales se restarán del impuesto que resulte de aplicar la tasa establecida en el artículo 10 de esta Ley, al resultado fiscal sin reducción alguna.
+III. Tener la garantía de reserva y privacidad de la información personal que manejen las dependencias y entidades;
 
-###### ARTICULO 14.
+IV. Presentar quejas y denuncias ante las instancias correspondientes, por cualquier incumplimiento de las disposiciones de esta Ley;
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1986)
+V. Recibir los servicios, prestaciones y apoyos de los programas de desarrollo social conforme a sus reglas de operación, salvo que les sean suspendidos por resolución administrativa o judicial debidamente fundada y motivada;
 
-### CAPITULO I. De los Ingresos
+VI. Presentar su solicitud de inclusión en el padrón;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+VII. Participar de manera corresponsable en los programas de desarrollo social;
 
-###### ARTICULO 15.
+VIII. Proporcionar la información socioeconómica que les sea requerida por las autoridades, en los términos que establezca la normatividad correspondiente, y
 
-Las sociedades mercantiles residentes en el país, acumularán la totalidad de los ingresos en efectivo, en bienes, en servicio, en crédito o de cualquier otro tipo, que obtengan en el ejercicio, inclusive los provenientes de sus establecimientos en el extranjero. La ganancia inflacionaria es el ingreso que obtienen los contribuyentes por la disminución real de sus deudas. El ingreso por concepto de dividendos o utilidades, se acumulará hasta el ejercicio en que se perciba en efectivo o en bienes.
+IX. Las demás que establezcan los programas de desarrollo social, así como otras disposiciones legales aplicables.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+### Capítulo Único. Disposiciones preliminares
 
-Para los efectos de esta Ley, no se consideran ingresos:
+###### Artículo 1.
 
-I.- Los que obtengan el contribuyente por aumento de capital, por pago de la pérdida por sus accionistas, por primas obtenidas por la colocación de acciones que emita la propia sociedad o por utilizar para valuar sus acciones el método de participación.
+La presente Ley es de orden público, interés social y de observancia general en el Estado de Zacatecas y tiene por objeto garantizar el ejercicio pleno de los derechos sociales consagrados en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales celebrados por el Estado Mexicano, la Ley General de Desarrollo Social y la Constitución Política del Estado.
 
-II.- Los que obtenga con motivo de la revaluación de bienes de su activo fijo y de su capital o de otros conceptos que reflejen el efecto de la inflación en los estados financieros de la sociedad. Tampoco se considerarán ingresos los dividendos recibidos mediante la entrega de acciones provenientes de la capitalización de alguno de los conceptos a que se refiere esta fracción y por las primas obtenidas por la colocación de acciones.
+###### Artículo 2.
 
-Las sociedades mercantiles residentes en el extranjero que tengan uno o varios establecimientos permanentes en el país acumularán la totalidad de los ingresos atribuibles a dichos establecimientos. No se considerará ingreso atribuible a un establecimiento permanente la simple remesa que obtenga de la oficina central de la sociedad o de otro establecimiento de ésta.
+Esta Ley tiene por objeto:
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
 
-Los ingresos por dividendos distribuidos mediante la entrega de acciones de la misma sociedad que los distribuye o los que se reinviertan dentro de los 30 días siguientes a su distribución en la suscripción o pago de aumento de capital en la misma sociedad que los distribuyó, se acumularán en el ejercicio en que se reembolsen por reducción de capital o por liquidación de la persona moral de que se trate.
+I. Cumplir con la responsabilidad social del Estado y Municipios, asumiendo plenamente las obligaciones constitucionales en materia de desarrollo social y humano, para que la población pueda gozar de sus derechos sociales universales;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
 
-###### ARTICULO 16.
+II. Garantizar el acceso igualitario a todas las personas al desarrollo social en el marco de sus derechos humanos y a beneficiarse de los programas que se construyan para ese fin, incluyendo las medidas especiales de carácter temporal o compensatorias;
 
-Los contribuyentes que realicen enajenaciones a plazo en los términos del Código Fiscal de la Federación, o que obtengan ingresos provenientes de contratos de arrendamiento financiero, podrán optar por acumular el total del precio pactado como ingreso obtenido en el ejercicio, o bien, considerar como ingreso acumulable el que efectivamente les hubiera sido pagado durante el mismo. Cuando el contribuyente opte por considerar como ingreso acumulable por las enajenaciones a plazo que realice, el que efectivamente les hubiera sido pagado, dicha opción también la podrá ejercer por los intereses que deriven de dichas enajenaciones.
+III. Combatir con eficiencia la pobreza, la marginación y la exclusión social;
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
 
-Cuando el contribuyente enajene documentos pendientes de cobro provenientes de contratos de arrendamiento financiero o de enajenación a plazo o cuando los dé en pagos a los socios con motivo de liquidación o reducción de capital, deberá considerar como ingreso acumulable en el ejercicio en que esto suceda, la cantidad pendiente de cobrar.
+IV. Implementar acciones a favor de la igualdad de oportunidades promoviendo la equidad social para las personas que se encuentren en situación de vulnerabilidad, exclusión social, discriminación motivada por el origen étnico, nacional, el sexo, el género, la edad, las discapacidades, la condición social o económica, las condiciones de salud, la orientación sexual, el estado civil, el trabajo desempeñado, la raza, las opiniones políticas o creencias religiosas, la migración o cualquier otra que atente contra la dignidad humana;
 
-El contribuyente que desee cambiar su opción deberá presentar aviso ante las autoridades fiscales. Tratándose del segundo y posteriores cambios deberán transcurrir cuando menos cinco años desde el último cambio, para que éste se pueda efectuar con la simple presentación de un aviso; cuando el cambio se quiera realizar antes de que transcurran los cinco años se deberá cumplir con los requisitos y condiciones que establezca el reglamento de esta Ley.
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+V. Establecer las bases para un desarrollo social y humano integral, garantizando la evaluación del impacto de los programas de desarrollo social;
 
-En el caso de incumplimiento de contratos de arrendamiento financiero o de contratos de enajenación de bienes a plazo en los términos de este artículo, cuando el arrendador o el enajenante según sea el caso, recuperen el bien deberán acumular como ingreso, las cantidades recibidas del arrendatario o comprador, deduciendo las que le hubiera devuelto conforme al contrato respectivo, así como las que ya hubiera acumulado con anterioridad.
+VI. Garantizar la inclusión social y determinar las bases para la promoción y participación social y para su vinculación con los programas, estrategias y recursos gubernamentales para el desarrollo social, y
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+VII. Asegurar la transparencia y rendición de cuentas en la ejecución de los programas y aplicación de los recursos para el desarrollo social a través de mecanismos de supervisión, verificación, control y acceso a la información pública.
 
-En el caso de contratos de arrendamiento financiero, también serán ingresos acumulables los que deriven de cualquiera de las opciones a que se refiere el Código Fiscal de la Federación. Dichos ingresos serán acumulables en el ejercicio en que sean exigibles.
+###### Artículo 3.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+Queda prohibida cualquier práctica discriminatoria en la prestación de los bienes y servicios contenidos en los programas de desarrollo social.
+
+###### Artículo 4.
+
+Para efecto del cumplimiento del objeto establecido en los artículos anteriores, esta Ley regula:
+
+I. La competencia del Poder Ejecutivo y de los Municipios en materia de desarrollo social;
+
+II. Las bases para la planeación, organización, ejecución, control y evaluación de la política estatal y municipal de desarrollo social, de conformidad con los lineamientos de la política nacional en la materia;
+
+III. La organización del Sistema Estatal de Desarrollo Social, en el que participan el gobierno estatal y los municipios y éstos en coordinación con la federación, con la finalidad de disminuir la desigualdad social y generar un desarrollo integral de los habitantes del Estado;
+
+IV. Los derechos y obligaciones de las o los beneficiarios de programas de desarrollo social;
+
+V. Las bases para fomentar y consolidar la organización y participación de las o los particulares, organismos, instituciones y representantes del sector social, académico y privado en las políticas de desarrollo social;
+
+VI. La creación de los órganos que en la misma se establecen;
+
+VII. La definición de los principios y lineamientos generales a los que deben sujetarse las políticas de desarrollo social;
+
+VIII. El fomento al sector social de la economía;
+
+IX. La garantía de la prestación de los bienes y servicios contenidos en los programas sociales, dando prioridad a las personas o grupos sociales en condiciones de pobreza, marginación, en situación de vulnerabilidad y con enfoque de género;
+
+X. La promoción del establecimiento de instrumentos de acceso a la justicia, a través de la denuncia popular, en materia de desarrollo social, y
+
+XI. La coordinación y armonización de la política estatal y municipal de desarrollo social, en el marco de la política nacional de desarrollo social.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+###### Artículo 5.
+
+La aplicación de la presente Ley corresponde al Ejecutivo del Estado por conducto de la Secretaría de Desarrollo Social, el Consejo Estatal, los Consejos Regionales de Desarrollo Social, la Comisión Intersecretarial de Desarrollo Social, el Subcomité Sectorial de Desarrollo Social y a los Ayuntamientos, en el ámbito de sus respectivas competencias; así como las que les corresponden, de acuerdo a sus atribuciones a la Legislatura del Estado.
+
+###### Artículo 6.
+
+Para los efectos de esta Ley se entiende por:
+
+I. Ley: La Ley de Desarrollo Social para el Estado y Municipios de Zacatecas;
+
+II. Desarrollo social: Es el proceso de crecimiento integral a través de mecanismos y políticas públicas para el mejoramiento de las condiciones de vida de la población mediante la incorporación plena de los individuos, grupos y sectores de la sociedad, comunidades y regiones al desenvolvimiento integral y sustentable de sus capacidades productivas y su calidad de vida, así como la creación de oportunidades sociales, la erradicación de la desigualdad, la exclusión e inequidad social entre los individuos y grupos;
+
+III. Beneficiarios: Aquellas personas que forman parte de la población atendida por los programas de desarrollo social, que cumplen los requisitos de la normatividad correspondiente;
+
+IV. Consejo Estatal: El Consejo Estatal de Desarrollo Social;
+
+V. Comisión Intersecretarial: La Comisión Intersecretarial de Desarrollo Social;
+
+VI. Desigualdad social: El resultado de una distribución inequitativa del ingreso, la propiedad, el gasto público, el acceso a bienes y servicios, el ejercicio de los derechos, la práctica de las libertades y el poder político entre las diferentes clases y grupos sociales;
+
+VII. Grupos sociales en situación de vulnerabilidad: Aquellos núcleos de población y personas que por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo o discriminación que les impiden alcanzar mejores niveles de vida y, requieren de la atención e inversión del gobierno para lograr su bienestar;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VIII. Secretaría: La Secretaría de Desarrollo Social;
+
+IX. Sistema: El Sistema Estatal de Desarrollo Social;
+
+X. Organizaciones: Las agrupaciones civiles y sociales, legalmente constituidas, en las que participan personas o grupos sociales con el propósito de realizar actividades relacionadas con el desarrollo social;
+
+XI. Programa: El Programa Estatal de Desarrollo Social;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XII. Padrón: Relación oficial de beneficiarios que incluye a las personas atendidas por los programas estatales de desarrollo social;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XIII. Pobreza: La incapacidad de un individuo o un hogar de satisfacer de manera digna y suficiente sus necesidades básicas, y
+
+XIV. (DEROGADA, P.O. 26 DE OCTUBRE DE 2019)
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2019)</small>
+
+XV. Sector social de la economía: sistema socioeconómico creado por organismos de propiedad social que participan en cualquiera de las fases del proceso productivo, basados en relaciones de solidaridad, cooperación, reciprocidad e igualdad de género, privilegiando al trabajo y al ser humano, conformados y administrados en forma asociativa, con el objeto de satisfacer las necesidades de sus integrantes y comunidades donde se desarrollan.
+
+###### Artículo 7.
+
+La política de desarrollo social se sujetará a los siguientes principios:
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
+
+I. Universalidad: El reconocimiento de todas las personas como titulares de los derechos humanos y al desarrollo social y humano;
+
+II. Libertad: Es la capacidad de las personas para elegir los medios para su desarrollo personal, así como para participar en el desarrollo social;
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
+
+III. Justicia distributiva: Garantiza que toda persona reciba de manera equitativa los beneficios del desarrollo conforme a sus necesidades con especial atención a los grupos en situación de vulnerabilidad;
+
+IV. Solidaridad: Es la colaboración entre personas, grupos sociales y órdenes de gobierno, de manera corresponsable para el mejoramiento de la calidad de vida de la sociedad;
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
+
+V. Integralidad: Es la articulación y complementariedad de programas y acciones de gobierno que conjunten los diferentes beneficios sociales para favorecer el desarrollo social y humano de manera integral;
+
+VI. Participación social: Es el derecho de las personas y organizaciones a intervenir e integrarse, individual o colectivamente, en la formulación, ejecución y evaluación de las políticas, programas y acciones del desarrollo social;
+
+VII. Equidad: La promoción del acceso de los sujetos del desarrollo social a los programas y acciones de manera proporcional a su situación de marginación, pobreza o vulnerabilidad;
+
+VIII. Sustentabilidad: Es la preservación del equilibrio ecológico y el aprovechamiento de los recursos naturales, para mejorar la calidad de vida y la productividad de las personas, sin comprometer la satisfacción de las necesidades de las generaciones futuras;
+
+IX. Subsidiariedad: Es el reconocimiento de los derechos y obligaciones que permiten a una persona o comunidad con mayor grado de desarrollo que otro, proteger, apoyar y ayudar a éste último en sus tareas para que supere su situación de marginación, pobreza o vulnerabilidad y alcance su desarrollo integral;
+
+X. Exigibilidad: Es el derecho de las personas a que, a través de un conjunto de normas y procedimientos, los derechos sociales sean progresivamente exigibles de acuerdo a la disposición presupuestal;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2019)</small>
+
+XI. Diversidad: Es el reconocimiento en términos de origen étnico, género, edad, discapacidades, condición social, condiciones de salud, religión, preferencias, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2019)</small>
+
+XII. Transparencia: La información relativa al desarrollo social y los recursos públicos que se apliquen en este rubro es pública en los términos de las leyes en la materia. Las autoridades garantizarán que la información gubernamental sea objetiva, oportuna, sistemática y veraz, y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2019)</small>
+
+XIII. Interés Superior de la Niñez: De conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de los Derechos de Niñas, Niños y Adolescentes, la Ley General de Desarrollo Social, los tratados internacionales aplicables de los que el Estado Mexicano sea parte y la Constitución Política del Estado Libre y Soberano de Zacatecas.
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2019)</small>
+
+XIII (SIC). Transversalidad: Modelo organizativo de carácter horizontal que busca la integración, la coordinación y cooperación interinstitucional e intersectorial, caracterizada por plantear objetivos asumidos por todos los sectores de la administración pública pero que no son propios de ninguno de ellos sino de carácter general del conjunto institucional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+###### Artículo 8.
+
+Para efectos administrativos, en caso de duda sobre la interpretación y aplicación de la presente Ley y su Reglamento, se estará a lo que resuelva el Poder Ejecutivo por conducto de la Secretaría.
+
+En el ámbito municipal y para los mismos efectos, se estará a lo que determine el Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 9.
+
+En lo no previsto en la presente Ley, se aplicarán en forma supletoria la Ley de Planeación del Estado de Zacatecas y sus Municipios, la Ley de Asistencia Social del Estado de Zacatecas y demás disposiciones aplicables.
+
+###### Artículo 15.
+
+Las o los beneficiarios de los programas de desarrollo social tienen las siguientes obligaciones:
+
+I. Participar de manera responsable en los programas y acciones de desarrollo social a que tengan acceso;
+
+II. Proporcionar la información socioeconómica y general que les soliciten las autoridades, de conformidad con las reglas de operación de los programas de desarrollo social;
+
+III. Informar a las instancias correspondientes cuando sea beneficiario de dos o más programas de desarrollo social, ya sean federales, estatales o municipales;
+
+IV. Cumplir con la normatividad y requisitos de los programas de desarrollo social, y
+
+V. Las demás que establezcan los programas de desarrollo social, así como otras disposiciones legales aplicables.
+
+###### Artículo 16.
+
+Corresponde al Poder Ejecutivo del Estado, por conducto de la Secretaría y a los Ayuntamientos, por conducto de los presidentes municipales, en el ámbito de sus respectivas competencias, vigilar el cumplimiento de la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 16-A.
 
@@ -376,453 +514,303 @@ Tratándose de contratos de obra pública, celebrados por la Administración Pú
 
 Los intereses provenientes de los contratos a que se refieren los párrafos anteriores de este artículo, se acumularán cuando se devenguen.
 
-###### ARTICULO 17.
+###### Artículo 17.
 
-Para los efectos de este Título se consideran ingresos acumulables, además de los señalados en otros artículos de esta Ley, los siguientes:
+La coordinación del Sistema compete a la Secretaría, con la concurrencia de las dependencias y entidades de la administración pública estatal y municipal, así como de las organizaciones. La Secretaría diseñará y ejecutará, previa aprobación de la Unidad de Planeación del Titular del Poder Ejecutivo, las políticas generales de desarrollo social. Al efecto coordinará y promoverá la celebración de convenios en la materia.
 
-I.- Los ingresos determinados, inclusive presuntivamente por la Secretaría de Hacienda y Crédito Público, en los casos en que proceda conforme a las leyes.
+La Secretaría coordinará la correspondencia entre el Programa y los programas sectoriales, promoviendo que la planeación sea congruente, objetiva y participativa.
 
-II.- La diferencia entre el monto original de la inversión disminuido por las deducciones efectuadas sobre dicho monto, en su caso, y el valor que conforme al avalúo practicado por persona autorizada por la Secretaría de Hacienda y Crédito Público tenga en la fecha en que se transfiera su propiedad por pago en especie.
+###### Artículo 18.
 
-III.- La diferencia entre los inventarios final e inicial de un ejercicio, cuando el inventario final fuere el mayor tratándose de contribuyentes dedicados a la ganadería.
+Los Ayuntamientos formularán, aprobarán y aplicarán sus propios programas de desarrollo social, los cuales deberán estar en concordancia con el Plan Nacional y Estatal de Desarrollo, el Programa y los programas regionales, sectoriales y especiales.
 
-IV.- Los que provengan de construcciones, instalaciones o mejoras permanentes en inmuebles, que de conformidad con los contratos por los que se otorgó su uso o goce queden a beneficio del propietario. El ingreso se entenderá que se obtiene al término del contrato y en el monto que a esa fecha tengan las inversiones conforme al avalúo que practique persona autorizada por la Secretaría de Hacienda y Crédito Público.
+###### Artículo 19.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+Corresponde al Poder Ejecutivo del Estado, por conducto de la Secretaría:
 
-V.- La ganancia derivada de la enajenación de activos fijos y terrenos, títulos valor, acciones, partes sociales o certificados de aportación patrimonial emitidos por sociedades nacionales de crédito, así como la ganancia realizada que derive de fusión, liquidación o reducción de capital de sociedades en la que el contribuyente sea socio o accionista.
+I. Establecer, coordinar y operar el Sistema;
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
 
-En los casos de reducción de capital o de liquidación de sociedades mercantiles residentes en México o en el extranjero, el ingreso se determinará aplicando lo dispuesto en la fracción II del artículo 120 y el artículo 120-A de esta Ley.
+II. Proyectar la planeación estatal del desarrollo social con una perspectiva de derechos humanos y de género;
 
-VI.- Los pagos que se perciban por recuperación do un crédito deducido por incobrable.
+III. Formular y vigilar la ejecución del Programa, en coordinación con las dependencias y entidades de la administración pública estatal relacionadas con la materia;
 
-VII.- La cantidad que se recupere por seguros, fianzas o responsabilidades a cargo de terceros, tratándose de pérdidas de bienes del contribuyente.
+IV. Actuar como instancia coordinadora y articuladora de la política estatal de desarrollo social;
 
-VIII.- Las cantidades que el contribuyente obtenga como indemnización para resarcirlo de la disminución que en su productividad haya causado la muerte, accidente o enfermedad de técnicos o dirigentes.
+V. Participar en el Sistema Nacional de Desarrollo Social de conformidad con la Ley General de Desarrollo Social;
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+VI. Promover la celebración de convenios con dependencias y entidades del Ejecutivo Federal, los Municipios y organizaciones, así como de organismos internacionales con vocación de desarrollo social, para la instrumentación de los programas relacionados con el desarrollo social;
 
-IX.- Las cantidades que perciban los contribuyentes que celebren contratos de obra inmueble o mueble, así como los que enajenen lotes en fraccionamientos por concepto de anticipos a cuenta del pago, depósito o en cualquier otra forma para garantizarle el cumplimiento de cualquier obligación, inclusive cuando la entrega material del bien enajenado o la prestación del servicio de que se trate, se realice con posterioridad a la fecha en que se perciban las cantidades a que se refiere esta fracción.
+VII. Promover el desarrollo social estableciendo acciones de concertación con las o los particulares; organizaciones, instituciones y representantes de los sectores social, académico y privado;
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+VIII. Incluir anualmente en el proyecto de presupuesto de egresos del Estado, los recursos necesarios para la ejecución y cumplimiento de las metas y objetivos del Programa;
 
-X.- Los intereses y la ganancia inflacionaria, acumulables en los términos del artículo 7o.- B de esta Ley.
+IX. Ejercer los fondos y recursos federales descentralizados o convenidos, así como informar a la Secretaría de Desarrollo Social del Gobierno Federal, sobre el avance y resultado de su ejercicio;
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+X. Promover la realización de estudios sobre los problemas de marginación, vulnerabilidad y pobreza que se suscitan en el Estado, así como fomentar la participación de las instituciones académicas y de investigación en la elaboración y ejecución de la política estatal de desarrollo social;
 
-###### ARTICULO 18.
+XI. Generar y apoyar instrumentos de financiamiento popular y de proyectos productivos para el desarrollo social;
 
-Para determinar la ganancia por enajenación de terrenos cuyo valor de adquisición no se hubiera deducido en los términos de la fracción II del artículo 22 de esta Ley, y de acciones que se coloquen entre el gran público inversionista conforme a las reglas generales que al efecto expida la Secretaría de Hacienda y Crédito Público, los contribuyentes podrán ajustar el monto original de la inversión aplicándole el factor correspondiente, conforme al número de años transcurridos entre su adquisición y su enajenación de acuerdo con la tabla de ajuste que al efecto establezca anualmente el Congreso de la Unión.
+XII. Determinar a través de la declaratoria correspondiente, las zonas de atención prioritaria en el Estado;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+XIII. Promover la intervención de los municipios en el diseño y ejecución de los programas de desarrollo social;
 
-###### ARTICULO 19.
+XIV. Integrar, coordinar y mantener actualizado el Padrón;
 
-Para determinar la ganancia por enajenación de acciones, partes sociales o certificados de aportación patrimonial emitidos por las sociedades nacionales de crédito, los contribuyentes ajustarán el monto original de la inversión conforme al siguiente procedimiento:
+XV. Promover la realización, validar y difundir, las reglas de operación de los programas de desarrollo social;
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+XVI. Recibir propuestas de la población sobre problemas o posibles soluciones en la materia, con el objeto de que sean integrados al Programa;
 
-I.- Se le sumarán las utilidades o se restarán las pérdidas por acción, de cada uno de los ejercicios transcurridos entre la fecha de adquisición y la de enajenación, ajustando las utilidades o las pérdidas de cada ejercicio en los términos del artículo anterior, considerando los años transcurridos entre el ejercicio de que se trate y la fecha de enajenación. Para la aplicación de esta fracción únicamente se considerará la utilidad o pérdida de ejercicios terminados.
+XVII. Vigilar que los recursos públicos que se destinen al desarrollo social se ejerzan con honradez, transparencia y equidad;
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+XVIII. Realizar una evaluación anual de impacto del Programa;
 
-II.- Al resultado obtenido conforme a la fracción anterior se le restarán las utilidades por acción distribuidas, ajustadas en los términos del artículo anterior correspondientes a los años transcurridos entre la fecha en que fueron cobradas y la fecha de la enajenación de la acción; cuando estas utilidades excedan al resultado obtenido conforme a la fracción anterior, el excedente formará parte de la ganancia.
+XIX. Mantener informada a la población y al Consejo Estatal, acerca de los logros, avances y alternativas, así como de los problemas o soluciones en materia de desarrollo social;
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+XX. Dictar las disposiciones administrativas que sean necesarias para el adecuado cumplimiento de la presente Ley, y
 
-Para los efectos de este artículo cuando la adquisición de las acciones o partes sociales haya sido anterior al 1o. de enero de 1975, únicamente se considerarán las utilidades o las pérdidas que correspondan al periodo transcurrido entre esa fecha y la de enajenación.
+XXI. Las demás que le confiera la presente Ley, su Reglamento y demás disposiciones legales aplicables.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+###### Artículo 20.
 
-En el caso a que se refiere la fracción I de este artículo se considerará la utilidad fiscal disminuida con el importe del impuesto sobre la renta que corresponda a la sociedad en el ejercicio de que se trate y con la participación en las utilidades de los trabajadores en el mismo ejercicio. Por lo que se refiere a la pérdida se considerará la diferencia que resulte de disminuir de la totalidad de los ingresos acumulables obtenidos en el ejercicio, las deducciones autorizadas por esta Ley, excepto la establecida en la fracción IX del artículo 22 de la citada Ley.
+Corresponde a los Ayuntamientos:
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+I. Proyectar y coordinar la planeación municipal del desarrollo social;
 
-Tratándose de acciones emitidas por sociedades controladoras que optaron por el régimen de resultado fiscal consolidado, la ganancia de capital se determinará conforme a lo dispuesto por el artículo 57 K fracción II de esta Ley.
+II. Formular, dirigir, instrumentar, coordinar y articular la política municipal de desarrollo social;
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+III. Participar en el Sistema Nacional de Desarrollo Social de conformidad con la Ley General de Desarrollo Social;
 
-En el caso de contribuyentes que hayan optado por determinar su impuesto sobre la renta conforme a bases especiales de tributación, considerarán como unidad fiscal del ejercicio de que se trate la misma base que sirve para determinar la participación de utilidades a los trabajadores.
+IV. Formular, aprobar y aplicar sus propios programas de desarrollo social, en concordancia con los Sistemas Nacional y Estatal de Desarrollo Social;
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+V. Celebrar convenios con las dependencias y entidades del Ejecutivo Federal, la o el Ejecutivo del Estado y organizaciones, así como de organismos internacionales con vocación de desarrollo social, cuando proceda, para la instrumentación de los programas relacionados con el desarrollo social;
 
-Las sociedades mercantiles deberán proporcionar a los socios que se lo soliciten, constancia con la información necesaria para determinar el ajuste a que se refiere este artículo. Tratándose de acciones inscritas en el Registro Nacional de Valores e Intermediarios, la sociedad emisora de las acciones, independientemente de la obligación de dar constancia a los accionistas, deberá proporcionar la información a la Comisión Nacional de Valores en la forma y términos que señalen las autoridades fiscales.
+VI. Coordinar acciones de desarrollo social con los Municipios del Estado, así como con Municipios de otras entidades federativas, éstos últimos, previa aprobación de las legislaturas locales correspondientes;
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+VII. Colaborar con las dependencias y entidades de la administración pública estatal y, en su caso, federal, en la formulación, instrumentación, control, seguimiento, evaluación y actualización de los programas de desarrollo social, en los términos de las disposiciones legales aplicables;
 
-Para los efectos de la fracción II de este artículo se entenderá por utilidades distribuidas por acción, parte social o certificado de aportación patrimonial, las que obtenga el socio, accionista o titular del certificado, ya sea en efectivo, en acciones o en cualquier otro bien inclusive las que deriven de superávit por revaluación de activos o por cualquier otra causa.
+VIII. Promover el desarrollo social en el Municipio, fomentando acciones de concertación con las o los particulares, organizaciones, instituciones y representantes del sector social, académico y privado;
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+IX. Ejercer los recursos en la materia tanto federales como estatales, descentralizados o convenidos, en los términos de las leyes aplicables, así como informar a las dependencias y entidades correspondientes, sobre el avance y los resultados generados con los mismos;
 
-En el caso de utilidades distribuidas en acciones provenientes de capitalización, que sean de las que se colocan entre el gran público inversionista y se coticen en bolsa de valores, se considerará como valor antes de los ajustes a que se refieren este artículo y el anterior, el de mercado considerando el primer hecho en bolsa del día que se opere la acción ex cupón; este mismo valor se considerará como utilidad distribuida para los efectos de fracción II de este artículo.
+X. Promover y ejecutar instrumentos de financiamiento popular y proyectos productivos relacionados con el desarrollo social;
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+XI. Realizar y mantener actualizado el diagnóstico y evaluación de los problemas relacionados al desarrollo social, así como sus indicadores;
 
-Para los efectos de este Título en el caso de acciones emitidas por capitalización el monto original de la inversión, antes de los ajustes establecidos por este artículo y el anterior, será igual al valor nominal de las acciones.
+XII. Proporcionar la información que requiera el Consejo Estatal, con la finalidad de evaluar el Programa Municipal de Desarrollo Social;
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+XIII. Integrar, coordinar y mantener actualizado el Padrón Municipal;
 
-Los ajustes a que se refiere este artículo se efectuarán sin perjuicio de los ajustes que en su caso procedan conforme al artículo 18 de esta Ley.
+XIV. Promover la realización de estudios sobre los problemas de marginación, vulnerabilidad y pobreza que se suscitan en el Municipio, así como fomentar la participación de las instituciones académicas y de investigación en la planeación, ejecución y evaluación de la política municipal de desarrollo social;
 
-###### ARTICULO 20.
+XV. Dictar las disposiciones administrativas que sean necesarias para el adecuado cumplimiento de la presente Ley;
 
-Para determinar la ganancia por la enajenación de bienes cuya inversión es parcialmente deducible en los términos de la fracción II del artículo 46 de esta Ley, se considerará la diferencia entre el monto original de la inversión deducible disminuido por las deducciones efectuadas sobre dicho monto y el precio en que se enajenen los bienes.
+XVI. Diseñar y coordinar los programas y apoyos en las zonas de atención prioritaria en el Municipio, en coordinación con el Estado y la Federación;
 
-Tratándose de bienes cuya inversión no es deducible en los términos de la fracción III del artículo 46 de esta Ley, se considerará como ganancia el precio obtenido por su enajenación.
+XVII. Incluir anualmente en el presupuesto de egresos del Municipio, los recursos necesarios para la ejecución y cumplimiento de las metas y objetivos del Programa Municipal de Desarrollo Social, procurando que no sean inferiores en términos reales al ejercicio fiscal anterior;
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+XVIII. Recibir propuestas de la población sobre problemas o posibles soluciones en la materia, con el objeto de que sean integrados al Programa Municipal de Desarrollo Social;
 
-###### ARTICULO 21.
+XIX. Mantener informada a la población y al Consejo Estatal, acerca de los logros, avances y alternativas, así como de los problemas o soluciones en materia de desarrollo social, y
 
-Para los efectos de este Título no se considerará ingreso acumulable, los impuestos que trasladen los contribuyentes en los términos de Ley.
+XX. Las demás que le confiera la presente Ley, los reglamentos municipales en la materia y demás disposiciones legales aplicables.
 
-### CAPITULO II. De las Deducciones
+###### Artículo 21.
+
+La Política Estatal de Desarrollo Social, comprende el Programa, las acciones, las medidas especiales de carácter temporal o compensatorias, directrices, líneas de acción contenidos en el mismo y los convenios que celebre el Poder Ejecutivo del Estado con otras instancias, encaminados a impulsar el desarrollo social.
+
+La política municipal de desarrollo social, comprende los programas municipales de desarrollo social, las acciones, las medidas especiales de carácter temporal o compensatorias, directrices, líneas de acción contenidos en el mismo y los convenios que celebre el gobierno municipal respectivo con otras autoridades.
+
+### Capítulo I. De los Derechos
 
 #### SECCION I. De las Deducciones en General
 
-###### ARTICULO 22.
+###### Artículo 22.
 
-Los contribuyentes podrán efectuar las deducciones siguientes:
+La política estatal y municipal de desarrollo social, tiene los siguientes objetivos:
 
-I.- Las devoluciones, descuentos o bonificaciones.
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+I. Propiciar las condiciones que aseguren el disfrute de los derechos sociales, individuales o colectivos, garantizando el acceso a los programas de desarrollo social, la igualdad de oportunidades, a las medidas especiales de carácter temporal o compensatorias, encaminadas a erradicar la marginación, discriminación, vulnerabilidad, pobreza y la exclusión social;
 
-II.- Las compras de mercancías; así como de materias primas, productos semiterminados o terminados que utilice el contribuyente para producir otras mercancías. No se incluirán los activos fijos, los títulos valor excepto aquéllos que representen la propiedad de mercancías, ni los terrenos, salvo que tratándose de estos últimos la actividad del contribuyente consista en la enajenación de inmuebles.
+II. Generar oportunidades de desarrollo integral, con equidad y procurando las mejores condiciones de vida para los habitantes del Estado;
 
-III.- Los gastos.
+III. Promover un desarrollo económico con sentido social que propicie y conserve el empleo, el autoempleo, el cooperativismo y las empresas sociales, tendiente a elevar el ingreso y mejorar su distribución;
 
-IV.- Las inversiones.
+IV. Fortalecer el desarrollo estatal, regional y municipal equilibrado, así como el de las zonas de atención prioritaria, con especial atención en las micro-regiones y las cadenas productivas;
 
-V.- La diferencia entre los inventarios final e inicial de un ejercicio, cuando el inventario inicial fuere el mayor, tratándose de contribuyentes dedicados a la ganadería.
+V. Promover acciones y programas de desarrollo social con enfoque de género;
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+VI. Fomentar el desarrollo de las familias como célula básica de la sociedad, especialmente en las comunidades o regiones con mayores índices de marginación, vulnerabilidad o pobreza;
 
-VI.- Los créditos incobrables y las pérdidas por caso fortuito, fuerza mayor o por enajenación de bienes distintos a los que se refiere la fracción II de este artículo.
+VII. Coordinar esfuerzos, objetivos, estrategias y acciones entre los diversos órdenes de gobierno, para lograr la integralidad, sustentabilidad y sostenibilidad del desarrollo social;
 
-VII.- Las aportaciones para fondos destinados a investigación y desarrollo de tecnología en los términos del artículo 27 de esta Ley.
+VIII. Fomentar la igualdad de oportunidades y aprovechar la capacidad productiva de los habitantes del Estado, considerando las potencialidades regionales y municipales;
 
-VIII.- La creación o incremento de reservas para fondos de pensiones o jubilaciones del personal complementarias a las que establece la Ley del Seguro Social y de primas de antigüedad constituidas en los términos de esta Ley.
+IX. Establecer programas especiales para atender a los grupos sociales en situación de marginación, vulnerabilidad y pobreza con enfoque de género, y
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+X. Promover y garantizar formas propias de organización y participación de la sociedad en la formulación, instrumentación, control, seguimiento, evaluación y actualización de los programas y políticas de desarrollo social.
 
-IX.- Los dividendos o utilidades distribuidos en efectivo o en bienes en el ejercicio por el contribuyente, incluyendo los demás conceptos que de conformidad con esta Ley se consideran dividendos, correspondientes a ejercicios anteriores, sin que para estos últimos sean aplicables los requisitos que para la deducibilidad de los primeros establece esta Ley. Los dividendos a que se refiere la fracción II del artículo 152 de esta Ley, se deducirán en el ejercicio en que se generen. En ningún caso serán deducibles los dividendos o utilidades distribuidos en efectivo o en bienes incluyendo los reembolsos generados por revaluación de activos y de su capital o de otros conceptos que reflejen el efecto de la inflación en los estados financieros de la sociedad.
+###### Artículo 23.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+La política de desarrollo social debe incluir, por lo menos, las siguientes vertientes:
 
-En los casos en que la ganancia se distribuya mediante aumento de partes sociales o entrega de acciones, por concepto de capitalización de reservas o pago de utilidades, o bien cuando dentro de los 30 días siguientes a su distribución se reinvierta en la suscripción o pago de aumento de capital en la misma sociedad, la deducción se efectuará en el ejercicio en el que se pague el reembolso, por reducción de capital o por liquidación de la sociedad.
+I. La superación de la pobreza a través de los derechos señalados en el artículo 10 de esta Ley, así como del empleo, autoempleo, el impulso a los proyectos productivos, la infraestructura social básica y la capacitación, entre otros;
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+II. El desarrollo regional y municipal, y
 
-X.- Los intereses y la pérdida inflacionaria determinados conforme a lo dispuesto en el artículo 7o.-B de esta Ley.
+III. La promoción de la participación ciudadana en el desarrollo social.
 
-###### ARTICULO 23.
+###### Artículo 24.
 
-Tratándose de sociedades mercantiles residentes en el extranjero que tengan uno o varios establecimientos permanentes en el país, podrán efectuar las deducciones que correspondan a las actividades del establecimiento permanente, ya sea las erogadas en México o en cualquiera otra parte, siempre que no se prorrateen con la oficina central o con sus establecimientos, cuando alguno de ellos se encuentre en el extranjero y se cumplan los requisitos establecidos por esta Ley y su reglamento.
+La planeación es el proceso por el cual se establecen las prioridades, los objetivos, las previsiones básicas, los resultados, los indicadores, las evaluaciones y metas que se pretenden alcanzar en materia de desarrollo social.
 
-No serán deducibles las remesas que efectúe el establecimiento permanente ubicado en México a la oficina central de la sociedad o a otro establecimiento de ésta en el extranjero, aun cuando dichas remesas se hagan a título de regalías, honorarios, o pagos similares a cambio del derecho de utilizar patentes u otros derechos, o a título de comisiones por servicios concretos o por gestiones hechas o por intereses por dinero enviado al establecimiento permanente.
+La planeación del desarrollo social estará a cargo del Poder Ejecutivo del Estado y de los Municipios, en el ámbito de sus respectivas competencias, en concordancia con la política nacional y estatal de desarrollo social.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+###### Artículo 25.
 
-Los establecimientos permanentes de empresas residentes en el extranjero que se dediquen al aerotransporte internacional, en lugar de las deducciones establecidas en las fracciones I a VI del artículo 22 de esta Ley, efectuaran la deducción de la parte proporcional del gasto promedio que por sus operaciones haya tenido en el mismo ejercicio dicha empresa, considerando la oficina central y todos sus establecimientos.
+En el Plan Estatal de Desarrollo y los planes municipales de desarrollo, deberá integrarse un apartado con los objetivos, las directrices y las metas sobre desarrollo social y contendrán como mínimo lo siguiente:
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+I. El diagnóstico del desarrollo social en el Estado, su situación económica y sus índices de pobreza, considerando entre otros, factores de sexo, edad y entorno socioeconómico, así como la identificación de los problemas a superar desde el ámbito sectorial y grupos de población, y
 
-Para los efectos del párrafo anterior el gasto promedio se determinará dividiendo la utilidad obtenida en el ejercicio por la empresa en todos sus establecimientos antes del pago del impuesto sobre la renta, entre el total de ingresos percibidos en el mismo ejercicio; el cociente se restará de la unidad y el resultado será el factor de gasto aplicable a los ingresos atribuibles al establecimiento en México.
+II. Las estrategias y líneas de acción que se implementarán para superar las problemáticas relativas al desarrollo social.
 
-###### ARTICULO 24.
+###### Artículo 26.
 
-Las deducciones autorizadas en este Título deberán reunir los siguientes requisitos:
+El Programa y los programas municipales de desarrollo social contendrán como mínimo, además de lo señalado en el artículo anterior, lo siguiente:
 
-I.- Que sean estrictamente indispensables para los fines de la actividad empresarial, salvo que se trate de donativos otorgados para obras o servicios públicos, a instituciones asistenciales o de beneficencia autorizadas conforme a las Leyes de la materia e instituciones de investigación científica y tecnológica inscritas en el Registro Nacional de Instituciones Científicas y Tecnológicas y que satisfagan los requisitos de control fiscal que para el efecto establezca la Secretaría de Hacienda y Crédito Público.
+I. Los esquemas de atención para los grupos sociales en situación de marginación, vulnerabilidad y pobreza con enfoque de género;
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+II. Los programas y proyectos de desarrollo social con sus objetivos generales;
 
-Tratándose de donativos otorgados a instituciones que proporcionan el servicio público de enseñanza, siempre que sean establecimientos públicos o de propiedad de particulares que tengan autorización o reconocimiento de validez oficial de estudios en los términos de la Ley Federal de Educación y se trate de donaciones no onerosas ni remunerativas, conforme a las reglas generales que al efecto determine la Secretaría de Educación Pública.
+III. Las metas y objetivos específicos que se pretenden alcanzar en el corto, mediano y largo plazo, así como sus líneas de acción;
 
-II.- Que cuando esta Ley permita la deducción de inversiones se proceda en los términos de la Sección III de este Capítulo.
+IV. Los programas operativos anuales, en los cuales quedarán asentados los métodos, formas y líneas de acción para la aplicación de los programas de desarrollo social;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+V. Las políticas sectoriales y por grupos de población;
 
-III.- Que se comprueben con documentación que reúna los requisitos que señalen las disposiciones fiscales relativas a la identidad y domicilio de quien los expida, así como de quien adquirió el bien de que se trate o recibió el servicio, y que en el caso de contribuyentes que en el ejercicio inmediato anterior hubieran obtenido ingresos acumulables superiores a cien millones de pesos, efectúen mediante cheque nominativo del contribuyente, los pagos en dinero cuyo monto exceda de dos veces el salario mínimo general de su zona económica vigente el 1o. de enero del año de que se trate, elevado al mes, excepto cuando dichos pagos se hagan por la prestación de un servicio personal subordinado. La Secretaría de Hacienda y Crédito Público podrá liberar de la obligación de pagar las erogaciones con cheques nominativos a que se refiere este párrafo cuando las mismas se efectúen en poblaciones sin servicios bancarios o en zonas rurales.
+VI. Los criterios y estrategias de colaboración y corresponsabilidad con las o los particulares, organismos, instituciones y representantes de los sectores social, académico y privado;
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+VII. Las prioridades en materia de desarrollo social, así como las condiciones mínimas aceptables en las áreas de educación, salud, nutrición e infraestructura social básica que requieren los habitantes del Estado;
 
-Que tratándose de la distribución de dividen dos o utilidades en efectivo, se paguen con cheque nominativo no negociable del contribuyente, expedido a nombre del accionista o socio y se cumpla con las obligaciones de retención e información que respecto de dichos dividendos o utilidades establece esta Ley.
+VIII. La metodología y los indicadores para la evaluación de los resultados;
 
-IV.- Que estén debidamente registradas en contabilidad.
+IX. Los puntos de convergencia con otros planes o programas que estén vinculados con el desarrollo social, y
 
-V.- Que se cumplan las obligaciones establecidas en esta Ley en materia de retención y entero de impuestos a cargo de terceros o que, en su caso, se recabe de éstos copia de los documentos en que conste el pago de dichos impuestos.
+X. Las demás que se establezcan en otras disposiciones legales aplicables.
 
-VI.- Que cuando los pagos cuya deducción se pretenda, se efectúen a personas obligadas a solicitar su inscripción en el registro federal de contribuyentes, se proporcione la clave respectiva en la documentación comprobatoria.
+###### Artículo 27.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+La planeación se concretará a través del Programa y los programas municipales de desarrollo social, que en su conjunto constituyen el instrumento rector de la planeación en esta materia.
 
-VII.- Que cuando los pagos cuya deducción se pretenda se hagan a contribuyentes que causen el impuesto al valor agregado, dicho impuesto se traslade en forma expresa y por separado en los comprobantes.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2019)</small>
 
-Los contribuyentes del impuesto especial sobre producción y servicios por enajenación de bienes, no podrán deducir los pagos cuando éstos se hayan hecho por la adquisición de esos mismos bienes y no se haya trasladado dicho impuesto en forma expresa y por separado en los comprobantes. Tratándose de pagos por la prestación de servicios por los que se cause el impuesto especial sobre producción y servicios, éstos no serán deducibles cuando se haya trasladado en forma expresa y por separado el mencionado impuesto.
+###### Artículo 28.
 
-VIII.- Que en caso de intereses por capitales tomados en préstamo, éstos se hayan invertido en los fines del negocio. Cuando el contribuyente otorgue préstamos a terceros, sólo serán deducibles los intereses que se devenguen de capitales tomados en préstamo, hasta por el monto de la tasa más baja de los intereses estipulados en los préstamos a terceros en la porción del préstamo que se hubiera hecho a éstos; si en alguna de estas operaciones no se estipularan intereses, no procederá la deducción respecto al monto proporcional de los préstamos hechos a terceros. Estas últimas limitaciones no rigen para instituciones de crédito y organizaciones auxiliares, en la realización de las operaciones propias de su objeto.
+El Programa Estatal será elaborado por la Secretaría, en congruencia con el Plan Estatal de Desarrollo y la política de desarrollo social del Estado y de acuerdo con lo establecido en la Ley de Planeación del Estado de Zacatecas y sus Municipios.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-IX.- Que tratándose de pagos que a la vez sean ingresos de los señalados en los Capítulos II, III y VII del Título IV de esta Ley, así como en el caso de donativos, sólo se deduzcan cuando hayan sido efectivamente erogados en el ejercicio de que se trate; los pagos que a la vez sean ingresos en los términos del Capítulo I de dicho Título, se podrán deducir cuando hayan sido erogados a más tardar en la fecha en que se deba presentar la declaración del citado ejercicio. Sólo se entenderán como efectivamente erogados cuando hayan sido pagados en efectivo, en cheque girado contra la cuenta del contribuyente o en otros bienes que no sean títulos de crédito.
-
-X.- Que tratándose de honorarios o gratificaciones a administradores, comisarios, directores, gerentes generales o miembros del consejo directivo, de vigilancia, consultivos o de cualquiera otra índole, se determinen en cuanto a monto total y percepción mensual, o por asistencia, afectando en la misma forma los resultados del contribuyente y satisfagan los supuestos siguientes:
-
-a).- Que el importe anual establecido para cada persona no sea superior al sueldo anual devengado por el funcionario de mayor jerarquía de la sociedad.
-
-b).- Que el importe total de los honorarios o gratificaciones establecidas, no sea superior al monto de los sueldos y salarios anuales devengados por el personal del contribuyente; y
-
-c).- Que no excedan del 10% del monto total de las otras deducciones del ejercicio.
-
-XI.- Que tratándose de asistencia técnica, de transferencia de tecnología o de regalías pagadas a personas residentes en el extranjero, se compruebe ante la Secretaría de Hacienda y Crédito Público que quien proporciona los conocimientos, cuenta con elementos técnicos propios para ello; que se preste en forma directa y no a través de terceros y que no consista en la simple posibilidad de obtenerla, sino en servicios que efectivamente se lleven a cabo y que el contrato que dé origen a las erogaciones a que esta fracción se refiere, se encuentre debidamente inscrito en el Registro Nacional de Transferencia de Tecnología, cuando en los términos de la Ley de la materia, sea de los que deban registrarse.
-
-XII.- Que cuando se trate de gastos de previsión social, las prestaciones correspondientes se destinen jubilaciones, fallecimientos, invalidez, servicios médicos y hospitalarios, subsidios por incapacidad, becas educacionales para los trabajadores o sus hijos fondos de ahorro, guarderías infantiles o actividades culturales y deportivas y otras de naturaleza análoga.
-
-Dichas prestaciones deberán otorgarse en forma general en beneficio de todos los trabajadores.
-
-En todos los casos deberán establecerse planes conforme a los plazos y requisitos que se fijen en el reglamento de esta Ley.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-XIII.- Que los pagos de primas por seguros o fianzas se hagan a instituciones mexicanas y correspondan a conceptos que esta Ley señala como deducibles o que en otras leyes se establezca la obligación de contratarlos y siempre que durante la vigencia de la póliza no se otorguen préstamos por parte de la aseguradora al contratante, a los beneficiarios o asegurados, con garantía de las sumas aseguradas o de las primas pagadas. Si los seguros tienen por objeto otorgar beneficios a los trabajadores deberá observarse lo dispuesto en la fracción anterior. Si mediante el seguro se trata de resarcir al contribuyente de la disminución que en su productividad pudiera causar la muerte, accidente o enfermedad de técnicos o dirigentes, la deducción de las primas procederá siempre que el seguro se establezca en un plan en el cual se determine el procedimiento para fijar el monto de la prestación y satisfaga los plazos y requisitos que se fijen en disposiciones de carácter general.
-
-XIV.- Que los pagos por el uso o goce temporal de inmuebles se refieran exclusivamente a los destinados a los fines específicos del negocio. La Secretaría de Hacienda y Crédito Público estará facultada para practicar u ordenar el avalúo del inmueble y, en este caso sólo se admitirá como deducible la cantidad que corresponda a un rendimiento bruto hasta del 16% anual sobre el valor de avalúo,
-
-XV.- Que el costo de adquisición declarado por el contribuyente corresponda al de mercado. Cuando exceda del precio de mercado no será deducible el excedente.
-
-XVI.- Que en el caco de compras de importación se compruebe que se cumplieron los requisitos legales para su importación. Sólo se aceptará como importe de dichas compras el que haya sido declarado con motivo de la importación.
-
-XVII.- Que tratándose de pérdidas por créditos incobrables, se consideren realizadas cuando se consuma el plazo de prescripción que corresponda, o antes, si fuera notoria la imposibilidad práctica de cobro.
-
-XVIII.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1986)
-
-XIX.- Que tratándose de remuneraciones a empleados o a terceros que estén condicionadas al cobro de los abonos en las enajenaciones a plazos o en los contratos de arrendamiento financiero en los que hayan intervenido, se deduzcan en el ejercicio en que dichos abonos o ingresos se cobren, siempre que se satisfagan los demás requisitos de esta Ley.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-XX.- Que tratándose de pagos por el uso o goce temporal de automóviles o de motocicletas, sólo se deduzca como máximo, el equivalente a catorce veces o a siete veces el salario mínimo general correspondiente al Distrito Federal, respectivamente, por día de uso o goce de cada automóvil o motocicleta.
-
-XXI.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1983)
-
-XXII.- Que al realizar las operaciones correspondientes o a más tardar el día en que el contribuyente deba presentar su declaración, se reúnan los requisitos que para cada deducción en particular establece esta Ley.
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-XXIII.- Que tratándose de pagos efectuados a comisionistas y mediadores residentes en el extranjero, se cumpla con los requisitos de información y documentación que señale el reglamento de esta Ley.
-
-###### ARTICULO 25.
-
-No serán deducibles:
-
-I.- Los pagos por impuesto sobre la renta a cargo del propio contribuyente o de terceros, ni los de contribuciones en la parte subsidiada o que originalmente correspondan a terceros, conforme a las disposiciones relativas. Tratándose de aportaciones al Instituto Mexicano del Seguro Social sólo serán deducibles las cuotas obreras pagadas por los patrones, correspondientes a trabajadores de salario mínimo general para una o varias zonas económicas.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-II.- Los gastos que se realicen en relación con las inversiones que no sean deducibles conforme a este Capítulo. En el caso de automóviles y motocicletas, se podrán deducir en la proporción que el límite máximo del monto original de la inversión a que se refiere la fracción II del artículo 46 de esta Ley, represente en el valor de adquisición de los mismos.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-III.- Las cantidades que tengan el carácter de participación en la utilidad del contribuyente o estén condicionadas a la obtención de ésta, ya sea que correspondan a trabajadores, a miembros del consejo de administración, a obligacionistas o a otros. No quedan comprendidos en esta fracción los dividendos o utilidades a que se refiere la fracción IX del artículo 22 de esta Ley.
-
-IV.- Los obsequios, atenciones y otros gastos de naturaleza análoga con excepción de aquéllos que estén directamente relacionados con la enajenación de productos o la prestación de servicios y que sean ofrecidos a los clientes en forma general.
-
-V.- Los gastos de representación.
-
-VI.- Los viáticos o gastos de viaje, en el país, o en el extranjero, cuando no se destinen al hospedaje, alimentación, transporte, uso o goce temporal de automóviles y pago de kilometraje, de la persona beneficiaria del viático o cuando se apliquen dentro de una faja de 50 kilómetros que circunde al establecimiento del contribuyente. Las personas a favor de las cuales se realice la erogación, deben tener relación de trabajo con el contribuyente en los términos del Capítulo I del Título IV de esta Ley o deben estar prestando servicios profesionales.
-
-VII.- Las sanciones, indemnizaciones por daños y perjuicios, recargos o penas convencionales. Las indemnizaciones por daños y perjuicios y las penas convencionales, podrán deducirse cuando la Ley imponga la obligación de pagarlas por provenir de riesgos creados, responsabilidad objetiva, caso fortuito, fuerza mayor o por actos de terceros, salvo que los daños y los perjuicios o la causa que dio origen a la pena convencional, se hayan originado por culpa imputable al contribuyente.
-
-VIII.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1982)
-
-IX.- Las provisiones para creación o incremento de reservas complementarias de activo o de pasivo que se constituyan con cargo a los costos o gastos del ejercicio, con excepción de las relacionadas con las inversiones deducibles en los términos de esta Ley y las que representen pasivos exigibles y definidos en cuanto a beneficiario y a monto.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-Los pagos que se hagan con cargo a las reservas deducibles en los términos de esta fracción, deberán efectuarse dentro de los cuatro ejercicios siguientes a aquel en que se constituya la reserva y reunir, en su caso, los requisitos establecidos en la fracción III del artículo 24 de esta Ley.
-
-X.- Las reservas que se creen para indemnizaciones al personal, para pagos de antigüedad o cualquiera otras de naturaleza análoga, con excepción de las que se constituyan en los términos de esta Ley.
-
-XI.- Las primas o sobreprecio sobre el valor nominal que el contribuyente pague por el reembolso de las acciones que emita.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-XII.- Las pérdidas por caso fortuito, fuerza mayor o por enajenación de bienes, cuando el valor de adquisición de los mismos no corresponda al de mercado en el momento en que se adquirieron dichos bienes por el enajenante.
-
-XIII.- El crédito comercial aun cuando sea adquirido de terceros.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-XIV.- Los pagos por el uso o goce temporal de casas habitación, aviones y embarcaciones que no tengan concesión o permiso del Gobierno Federal para ser explotados comercialmente, sólo serán deducibles en los casos en que reúnan los requisitos que señale el reglamento de esta Ley. Tratándose de casas de recreo, en ningún caso serán deducibles.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-XV.- Las pérdidas derivadas de la enajenación, por caso fortuito o fuerza mayor de los activos cuya inversión no es deducible conforme a lo dispuesto por esta Ley.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-Las pérdidas derivadas de la enajenación de automóviles y motocicletas, sólo serán deducibles en la parte proporcional en que se haya podido deducir el monto original de la inversión. La pérdida se determinará conforme a lo dispuesto por el artículo 20 de esta Ley.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-XVI.- Los pagos por concepto de impuesto al valor agregado o del impuesto especial sobre producción y servicios, que el contribuyente hubiese efectuado y el que le hubieran trasladado. No se aplicará lo dispuesto en esta fracción, cuando el contribuyente no tenga derecho a acreditar o solicitar la devolución de los mencionados impuestos que le hubieran sido trasladados o que hubiese pagado con motivo de la importación de lo bienes o servicios que correspondan a gastos o inversiones deducibles en los términos de esta Ley.
-
-Tampoco será deducible el impuesto al valor agregado ni el impuesto especial sobre producción y servicios que le hubieran trasladado al contribuyente ni el que hubiese pagado con motivo de la importación de bienes o servicios, cuando la erogación que dio origen al traslado o al pago no sea deducible en los términos de esta Ley, o el que esté incluido en créditos incobrables con motivo de haber ejercido la opción a que se refiere el artículo 12 de la Ley del Impuesto al Valor Agregado.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-XVII.- Las pérdidas que deriven de fusión reducción de capital o liquidación de sociedades en las que el contribuyente hubiera adquirido acciones, partes sociales o certificados de aportación patrimonial de las sociedades nacionales de crédito.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-XVIII.- Las pérdidas que provengan de enajenación de acciones, partes sociales, obligaciones y otros valores mobiliarios, salvo que su adquisición y enajenación se efectúen dando cumplimiento a los requisitos establecidos por la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general.
-
-XIX.- Los gastos que se hagan en el extranjero a prorrata con quienes no sean contribuyentes del impuesto sobre la renta en los términos de los Títulos II ó IV de esta Ley.
-
-###### ARTICULO 26.
-
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1986)
-
-###### ARTICULO 27.
-
-Los contribuyentes podrán deducir las aportaciones para fondos destinados a investigación y desarrollo de tecnología, siempre que cumplan con las siguientes reglas:
-
-I.- Las aportaciones deberán entregarse en fideicomiso irrevocable, ante institución de crédito autorizada para operar en la República y no podrán exceder del 1% de los ingresos que obtenga el contribuyente en el ejercicio.
-
-II.- El fideicomiso deberá destinarse a la investigación y desarrollo de tecnología, pudiendo invertir en la adquisición de activos fijos solo cuando estén directa y exclusivamente relacionados con la ejecución de los programas de investigación y desarrollo.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-III.- No podrán disponer para fines diversos, de las aportaciones entregadas en fideicomiso ni de sus rendimientos o de los bienes de activo fijo que en su caso adquieran. Si dispusieran de ellos para fines diversos, cubrirán sobre la cantidad respectiva impuesto a la tasa establecida en el artículo 10 de esta Ley.
-
-IV.- Deberán cumplir con los requisitos de información que señale el reglamento de esta Ley.
-
-El por ciento a que se refiere la fracción I de este artículo, podrá variarse cuando el contribuyente cumpla con los requisitos y condiciones que fije el reglamento de esta Ley.
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-Para los efectos de este artículo, se considera como tecnología, los bienes y derechos a que se refiere el artículo 156 de esta Ley, excepto derechos de autor, películas cinematográficas, grabaciones de radio y televisión y publicidad. Los programas de capacitación a personal y los de control de calidad, sólo se considerarán tecnología cuando tengan el carácter de complementarios de los conceptos que conforme a este párrafo también tengan dicho carácter.
-
-###### ARTICULO 28.
-
-Las reservas para fondo de pensiones o jubilaciones de personal, complementarias a las que establece la Ley del Seguro Social y de primas de antigüedad, se ajustarán a las siguientes reglas:
-
-I.- Deberán crearse y calcularse en los términos y con los requisitos que fije el reglamento de esta Ley y repartirse uniformemente en varios ejercicios.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-II.- La reserva deberá invertirse cuando menos en un 30% en bonos emitidos por la Federación, o en certificados de participación que las instituciones nacionales de crédito emitan con el carácter de fiduciarias de fideicomisos que tengan por objeto la promoción bursátil y satisfagan los requisitos que se establezcan en reglas generales que emita la Secretaría de Hacienda y Crédito Público. La diferencia deberá invertirse en valores aprobados por la Comisión Nacional de Valores, como objeto de inversión de las reservas técnicas de las Instituciones de Seguros, o bien, la diferencia podrá invertirse en la adquisición o construcción de casas para trabajadores del contribuyente que tengan las características de vivienda de interés social, o en préstamos para los mismos fines, de acuerdo con las disposiciones reglamentarias.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-III.- Los bienes que formen el fondo así como los rendimientos que se obtengan con motivo de la inversión, deberán afectarse en fideicomiso irrevocable, en institución de crédito autorizada para operar en la República, o ser manejados por instituciones o por sociedades mutualistas de seguros o por casas de bolsa, con concesión o autorización para operar en el país, de conformidad con las reglas generales que dicte la Secretaría de Hacienda y Crédito Público. Los rendimientos que se obtengan con motivo de la inversión no serán ingresos acumulables.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-IV.- El contribuyente únicamente podrá disponer de los bienes y valores a que se refiere la fracción II de este artículo, para el pago de pensiones o jubilaciones y de primas de antigüedad al personal. Si dispusiere de ellos, o de sus rendimientos para fines diversos, cubrirá sobre la cantidad respectiva impuesto a la tasa establecida en el artículo 10 de esta Ley.
-
-> <small>(DEROGADA LA SECCION Y SU DENOMINACION, PASANDO LOS ARTICULOS 29, 30 Y 31 DE ESTA SECCION A FORMAR PARTE DE LA SECCION I, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2019)</small>
 
 #### SECCION II. Del Costo
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-###### ARTICULO 29.
+###### Artículo 29.
 
-Los establecimientos permanentes ubicados en México de contribuyentes residentes en el extranjero, considerarán como valor de las mercancías que reciban de la oficina central o de otro establecimiento del contribuyente ubicado en el extranjero, el que sea menor del precio consignado en la factura o el precio oficial que se considere para efecto del impuesto general de importación de dicha mercancía, sin perjuicio de las facultades a que se refiere el artículo 65 de esta Ley.
+Los programas municipales de desarrollo social serán emitidos por los Ayuntamientos, en congruencia con el Plan Estatal de Desarrollo, los planes municipales de desarrollo, de conformidad con la Ley Orgánica del Municipio del Estado de Zacatecas y la Ley de Planeación del Estado de Zacatecas y sus Municipios.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+###### Artículo 30.
 
-###### ARTICULO 30.
+Para la formulación de los programas de desarrollo social, se deberá contar con:
 
-Los contribuyentes que celebren contratos de arrendamiento financiero y que opten por acumular como ingresos en el ejercicio, los pagos efectivamente cobrados durante el mismo, calcularán la deducción a que se refiere la fracción II del artículo 22 de esta Ley por cada bien, conforme a lo siguiente.
+I. El diagnóstico focalizado sobre las zonas de atención prioritaria;
 
-I.- Al término de cada ejercicio, el contribuyente calculará el porciento que representa el ingreso percibido en dicho ejercicio por el contrato de arrendamiento financiero que corresponda, respecto del total de pagos pactados por el plazo inicial forzoso. Tanto el ingreso como los pagos pactados, no incluirán los intereses derivados del contrato de arrendamiento.
+II. Los principios de la política de desarrollo social establecidos en la presente Ley;
 
-II.- El valor de adquisición de los bienes objeto de los contratos, a que se refiere la fracción anterior, se ajustará en cada ejercicio multiplicándolo por el factor de actualización correspondiente al período comprendido entre el mes en que se adquirieron y el sexto mes del ejercicio en que se acumulen los ingresos derivados de esos contratos.
+III. La inclusión de las dependencias y entidades y sus respectivas unidades administrativas responsables de la operación de los programas de desarrollo social;
 
-III.- La deducción a que se refiere la fracción II del artículo 22 de esta Ley que se hará en cada ejercicio por los bienes objeto de contratos de arrendamiento financiero a que se refiere este artículo, será la que se obtenga de aplicar el porciento que resulte conforme a la fracción I de este artículo, al valor de adquisición del bien de que se trate, ajustado en los términos de la fracción anterior.
+IV. Los lineamientos para la instrumentación, control, seguimiento, evaluación y actualización de los programas de desarrollo social, y
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+V. Las estrategias de coordinación y concertación de acciones para el desarrollo social.
 
-###### ARTICULO 31.
+###### Artículo 31.
 
-Los contribuyentes que celebren contratos de obra inmueble, así como los fraccionadores de lotes que obtengan los ingresos por esos bienes en varios ejercicios, podrán deducir las erogaciones relativas a dichos contratos, en los ejercicios en que obtengan los ingresos, en la misma proporción que los percibidos en el ejercicio representen respecto del ingreso total.
+Los municipios podrán ejecutar programas, recursos y acciones de desarrollo social en coordinación con los gobiernos federal y estatal, al efecto, establecerán las líneas de acción y recursos en los convenios que para el efecto celebren.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+###### Artículo 32.
 
-Para los efectos del párrafo anterior, el contribuyente podrá estimar el monto de las erogaciones en las que incurrirá en futuros ejercicios en relación con el ingreso que perciba. En los casos en los que varíen los elementos considerados para formular la estimación, el contribuyente deberá ajustar en el ejercicio en el que ocurra dicha variación, el monto de las erogaciones estimadas deducidas en ejercicios anteriores, si del ajuste resulta que las erogaciones estimadas que fueron deducidas en ejercicios anteriores exceden en un 10% a las determinadas conforme a la nueva estimación, o a la entrega de la obra, sobre la diferencia se pagarán recargos en los términos de Ley a partir del día en que se presentó o debió presentarse la declaración del ejercicio en que empezó a deducir las erogaciones de que se trate.
+Para la formulación de los programas de desarrollo social son prioritarios:
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+I. Los programas dirigidos a personas en condiciones de marginación, vulnerabilidad o pobreza, con enfoque de género;
 
-Los contribuyentes ajustarán en cada ejercicio el valor de adquisición de los terrenos y de los bienes que necesiten para construir la obra objeto de esos contratos, multiplicándolo por el factor de actualización correspondiente al período comprendido entre el mes en que se adquirieron y el sexto mes del ejercicio en que se acumulen los ingresos derivados de esos contratos.
+II. Los programas de educación obligatoria, laica y gratuita;
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+III. Las campañas de prevención y control de enfermedades transmisibles y los programas de atención médica;
 
-Lo dispuesto en este artículo no es aplicable tratándose de inversiones, las cuales se deducirán en los términos establecidos en esta Ley.
+IV. Los programas dirigidos a zonas de atención prioritaria;
 
-###### ARTICULO 32.
+V. Los programas y acciones públicas para asegurar la alimentación y nutrición materno-infantil;
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1986)
+VI. Los programas de abasto social de productos básicos;
 
-###### ARTICULO 33.
+VII. Los programas de vivienda;
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1986)
+VIII. Los programas y fondos públicos destinados a la generación y conservación del empleo, a las actividades productivas sociales y a las empresas del sector social de la economía;
 
-###### ARTICULO 34.
+IX. Los programas y obras de infraestructura para agua potable, drenaje, electrificación, caminos y otras vías de comunicación, saneamiento ambiental y equipamiento urbano, y
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1986)
+X. Los programas para la protección del ambiente y la preservación de los recursos naturales.
 
-###### ARTICULO 35.
+###### Artículo 33.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1986)
+La o el Ejecutivo del Estado dentro de los 60 días naturales siguientes a la aprobación del presupuesto de egresos del Estado, deberá elaborar y publicar en el Periódico Oficial, Órgano del Gobierno del Estado, así como en su página electrónica, las reglas de operación de los programas de desarrollo social.
 
-###### ARTICULO 36.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2019)</small>
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1986)
+###### Artículo 34.
 
-###### ARTICULO 37.
+La o el Ejecutivo del Estado y los Ayuntamientos, dentro de ese mismo plazo, difundirán los programas presupuestarios anuales en materia de desarrollo social y la normatividad respectiva, de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Estado de Zacatecas.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1986)
+###### Artículo 35.
 
-###### ARTICULO 38.
+Los Ayuntamientos en el mismo plazo que señala el artículo 33 de esta Ley, publicarán en el Periódico Oficial, Órgano del Gobierno del Estado, en su página electrónica, en caso de tenerla y en un lugar visible de la Presidencia Municipal, el monto y la distribución de los recursos que les fueron destinados para la implementación de los programas de desarrollo social.
 
-(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1983)
+Además de las obligaciones señaladas en el párrafo anterior, la o el Ejecutivo del Estado y los Ayuntamientos, a través de los medios de comunicación masiva, implementarán campañas para que la población conozca las reglas de operación y los beneficios de los programas de desarrollo social.
 
-###### ARTICULO 39.
+###### Artículo 36.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1986)
+La publicidad e información de los programas de desarrollo social que emita la o el Ejecutivo del Estado o los Ayuntamientos, deberá identificarse con el escudo estatal o toponímico municipal correspondiente y tendrá la siguiente leyenda: “Este programa es público y ajeno a cualquier partido político. Queda prohibido el uso para fines distintos al desarrollo social o para promoción personal”.
 
-###### ARTICULO 40.
+###### Artículo 37.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1986)
+Cuando en una comunidad se encuentre habitando una población indígena, aún y cuando sea de manera temporal, las autoridades municipales podrán, en caso de ser necesario, difundir en la lengua o dialecto respectivo, lo concerniente a los programas de desarrollo social que se estén implementando en el Municipio de que se trate.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 38.
+
+La Secretaría en coordinación con el Instituto para la Atención e Inclusión de las Personas con Discapacidad del Estado de Zacatecas, promoverán la publicación en sistema braille, de los programas de desarrollo social y contarán con personal capacitado para dar asesoría sobre los mismos a las personas con discapacidad visual y auditiva.
+
+###### Artículo 39.
+
+Las políticas públicas y recursos destinados al desarrollo social son de interés público y se sujetarán a las disposiciones contenidas en la presente Ley.
+
+###### Artículo 40.
+
+Las partidas presupuestales contenidas en el presupuesto de egresos del Estado y de los Municipios, no podrán ser inferiores al ejercicio fiscal anterior y deberán incrementarse cuando menos, en la misma proporción en el que se proyecte el crecimiento del producto interno bruto y en congruencia con la disponibilidad de recursos proyectados por la Legislatura del Estado y los Ayuntamientos, según corresponda.
 
 #### SECCION III. De las Inversiones
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-###### ARTICULO 41.
+###### Artículo 41.
 
-Las inversiones únicamente se podrán deducir mediante la aplicación en cada ejercicio, de los porcientos máximos autorizados por esta Ley al monto original de la inversión, con las limitaciones en deducciones, que en su caso, establezca esta Ley. Tratándose de ejercicios irregulares, la deducción correspondiente se efectuará en el porciento que represente el número de meses completos del ejercicio en los que el bien haya sido utilizado por el contribuyente, respecto de doce meses. Cuando el bien se comience a utilizar después de iniciado el ejercicio y en el que se termine su deducción, ésta se efectuará con las mismas reglas que se aplican para los ejercicios irregulares.
+Los recursos estatales y municipales presupuestados para los programas de desarrollo social, podrán ser complementados con recursos provenientes del gobierno federal o de organizaciones, fondos internacionales, donativos o los generados por cualquier acto jurídico.
 
-El monto original de la inversión comprende además del precio del bien, los impuestos efectivamente pagados con motivo de la adquisición o importación del mismo a excepción del impuesto al valor agregado, así como las erogaciones por concepto de derechos, fletes, transportes, acarreos, seguros contra riesgos en la transportación, manejo, comisiones sobre compras y honorarios a agentes aduanales.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-El contribuyente podrá aplicar porcientos menores a los autorizados por esta Ley. En este caso el porciento elegido será obligatorio y únicamente se podrá cambiar, sin exceder del máximo autorizado, presentando aviso ante las autoridades fiscales. Tratándose del segundo y posteriores cambios deberán transcurrir cuando menos cinco años desde el último cambio, para que éste se pueda efectuar con la simple presentación de un aviso; cuando el cambio se quiera realizar antes de que transcurran los cinco años se deberá cumplir con los requisitos que establezca el reglamento de esta Ley.
-
-La Secretaría de Hacienda y Crédito Público con fines de fomento económico podrá autorizar que se apliquen porcientos mayores a los señalados por esta Ley. La autorización se hará mediante acuerdos de carácter general, que señalen las regiones o ramas de actividad y los activos que podrán gozar del beneficio, los métodos aplicables, los porcientos máximos, el plazo de su vigencia y las obligaciones que deban cumplir los interesados. Los beneficiarios deberán obtener el acuerdo concreto de las autoridades fiscales.
-
-Las inversiones empezarán a deducirse, a elección del contribuyente, a partir del ejercicio en que se inicie la utilización de los bienes o desde el ejercicio siguiente. El contribuyente podrá no iniciar la deducción de las inversiones para efectos fiscales, a partir de que se inicien los plazos a que se refiere este párrafo. En este caso podrá hacerlo con posterioridad, perdiendo el derecho a deducir las cantidades correspondientes a los ejercicios transcurridos, calculadas aplicando los porcientos máximos autorizados por esta Ley.
-
-Cuando el contribuyente enajene los bienes o cuando éstos dejen de ser útiles para obtener los ingresos, deducirá en el ejercicio en que esto ocurra la parte aún no deducida. En el caso en que los bienes dejen de ser útiles para obtener los ingresos, el contribuyente deberá presentar aviso ante las autoridades fiscales y mantener sin deducción un peso en sus registros. Lo dispuesto en este párrafo no es aplicable a los casos señalados en el artículo 20 de esta Ley.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE OCTUBRE DE 2019)</small>
 
 ###### ARTICULO 41-A.
 
@@ -846,419 +834,143 @@ Tratándose de ejercicios irregulares, los contribuyentes podrán revaluar las i
 
 La opción a que se refiere este artículo, se deberá ejercer desde el primer ejercicio.
 
-###### ARTICULO 42.
+###### Artículo 42.
 
-Para los efectos de esta Ley se consideran inversiones los activos fijos, los gastos y cargos diferidos y las erogaciones realizadas en períodos preoperativos, cuyo concepto se señala a continuación.
+La o el Ejecutivo del Estado y los Ayuntamientos, por sí o en concurrencia con el gobierno federal, para estimular el desarrollo de las actividades productivas de beneficio social, tendrán las siguientes facultades:
 
-Activo fijo es el conjunto de bienes tangibles que utilicen los contribuyentes para la realización de actividades empresariales y que se demeriten por el uso en el servicio del contribuyente y por el transcurso del tiempo. La adquisición o fabricación de estos bienes tendrá siempre como finalidad la utilización de los mismos para el desarrollo de las actividades del contribuyente, y no con la finalidad de ser enajenados dentro del curso normal de sus operaciones.
+I. Identificar oportunidades de inversión y realizar las gestiones necesarias para que se instalen en el Estado empresas que generen empleo con enfoque social;
 
-Gastos diferidos son los activos intangibles representados por bienes o derechos que permitan reducir costos de operación o mejorar la calidad o aceptación de un producto por un período limitado, inferior a la duración de la empresa.
+II. Promover las actividades productivas, el empleo y el cooperativismo, como medios para generar ingresos para los grupos en situación de marginación, vulnerabilidad y pobreza con enfoque de género;
 
-Cargos diferidos son aquéllos que reúnan los requisitos señalados en el párrafo anterior, pero cuyo beneficio sea por un período ilimitado que dependerá de la duración de la empresa.
+III. Fomentar la organización de personas, familias y grupos sociales en proyectos productivos;
 
-Erogaciones realizadas en periodos preoperativos, son aquéllas que tienen por objeto la investigación y desarrollo relacionados con el diseño, elaboración mejoramiento, empaque o distribución de un producto, así como con la prestación de un servicio; siempre que las erogaciones se efectúen antes de que el contribuyente enajene sus productos o preste sus servicios, en forma constante. Tratándose de industrias extractivas estas erogaciones son las relacionadas con la exploración para la localización y cuantificación de nuevos yacimientos susceptibles de explotarse.
+IV. Promover alternativas de financiamiento y créditos para la creación de microempresas y pequeños negocios, en especial en las zonas de atención prioritaria, así como gestionar y, en su caso, aportar recursos como capital de riesgo para dar viabilidad a las empresas sociales;
 
-###### ARTICULO 43.
+V. Fomentar dentro del sector privado y empresarial del Estado, el sentido social procurando que participen activamente en los programas de desarrollo social, y
 
-Los porcientos máximos autorizados tratándose de gastos y cargos diferidos, así como para las erogaciones realizadas en periodos preoperativos son los siguientes:
+VI. Promover el encadenamiento productivo de las empresas sociales con los mercados de consumo establecidos en las zonas turísticas del Estado.
 
-I.- 5% para cargos diferidos.
+###### Artículo 43.
 
-II.- 10% para:
+Para promover el desarrollo integral de las familias asentadas en las regiones con mayor grado de marginación, la o el Ejecutivo del Estado promoverá el fomento de incentivos en las empresas que se instalen en las zonas de atención prioritaria, los cuales consistirán en:
 
-a).- Erogaciones realizadas en períodos preoperativos.
+I. Programas especiales de capacitación;
 
-b).- Regalías por patentes de invención o de mejoras, marcas, nombres comerciales, por dibujos o modelos planos, fórmulas o procedimientos, por informaciones relativas a experiencias industriales, comerciales y científicas y en general por asistencia técnica o transferencia de tecnología, así como para otros gastos diferidos.
+II. Otorgamiento de becas y apoyo financiero para programas de capacitación y adiestramiento;
 
-En caso de que el beneficio de las inversiones a que se refiere la fracción II de este artículo se concrete en el mismo ejercicio en que se realizó la erogación, la deducción podrá efectuarse en su totalidad en dicho ejercicio.
+III. Aportación estatal para obras de infraestructura pública, así como para la creación, instalación o mejoramiento de servicios públicos;
 
-Tratándose de contribuyentes que se dediquen a la explotación de yacimientos de mineral, podrán optar por deducir las erogaciones realizadas en períodos preoperativos, en el ejercicio en que los mismos se realicen. Dicha opción deberá ejercerse para todos los gastos preoperativos que correspondan a cada yacimiento en el ejercicio de que se trate.
+IV. Programas para promover exportaciones, y
 
-###### ARTICULO 44.
+V. Apoyo para que puedan participar en ferias y eventos nacionales e internacionales.
 
-Los por cientos máximos autorizados, tratándose de activos fijos por tipo de bien son los siguientes:
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2019)</small>
 
-I.- 5% para construcciones.
+###### Artículo 43 Bis.
 
-II.- 6% para ferrocarriles, carros de ferrocarril, locomotoras y embarcaciones.
+De conformidad con el artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, la Ley de la Economía Social y Solidaria, Reglamentaria del párrafo octavo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, la Ley General de Desarrollo Social y la presente Ley, el Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus competencias, promoverán la organización de personas, familias y grupos sociales, con el objeto de promover proyectos productivos; identificar oportunidades de inversión y brindar capacitación, asistencia técnica y asesoría para la organización y el diseño de proyectos y apoyo legal para la realización de estas actividades.
 
-III.- 10% para mobiliario y equipo de oficina.
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2019)</small>
 
-IV.- 11% para autobuses.
+###### Artículo 43 Ter.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+La política estatal y municipal de desarrollo social deberá integrar entre sus estrategias el fomento al sector social de la economía y para tal efecto deberá:
 
-V.- Tratándose de aviones:
+I. Impulsar el desarrollo de formas asociativas entre la ciudadanía, así como a sus formas de organización, para lo cual, establecerá políticas públicas específicas para promover su integración y desarrollo;
 
-a) 25% para los dedicados a la aerofumigación agrícola.
+II. Promover proyectos de apoyo a las actividades productivas del sector social de la economía que generen empleos e ingresos que beneficien a la comunidad, destinando recursos públicos para brindarles capacitación, asistencia técnica y asesoría legal;
 
-b) 17% para los demás.
+III. Integrar programas que cuenten con recursos para dar viabilidad a las empresas sociales y solidarias en apoyo de personas, familias y organizaciones cuyo objeto sea el financiamiento de proyectos de desarrollo social;
 
-VI.- 20% para automóviles, camiones de carga, tractocamiones y remolques, a excepción de los utilizados en la industria de la construcción.
+IV. Generar proyectos para impulsar la cooperación, entre las organizaciones, asociaciones o empresas sindicales o cooperativas del sector social de la economía, a fin de establecer redes de colaboración entre ellas y, con ello, crear circuitos y polos productivos, y
 
-VII.- Tratándose de equipo de cómputo electrónico:
+V. Establecer campañas de difusión para dar a conocer entre un mayor número de personas, la existencia de iniciativas y proyectos productivos de las organizaciones y entidades que integran al sector social de la economía, a efecto de que puedan participar, formar parte de ellas y promoverlas.
 
-a) 25% para equipo consistente en una máquina o grupo de máquinas interconectadas conteniendo unidades de entrada, almacenamiento, computación, control y unidades de salida usando circuitos electrónicos en los elementos principales para ejecutar operaciones aritméticas o lógicas en forma automática por medio de instrucciones programadas, almacenadas internamente o controladas externamente.
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2019)</small>
 
-b) 12% para equipo periférico del contenido en el inciso anterior de esta fracción, perforadoras de tarjetas, verificadoras, tabuladoras, clasificadoras intercaladoras y. demás que no queden comprendidas en dicho inciso.
+###### Artículo 43 Quáter.
 
-VIII.- 35% para los siguientes bienes:
+El sector social de la economía se integra por las formas de organización social siguientes:
 
-a) Dados, troqueles, moldes matrices y herramental.
+I. Ejidos;
 
-b) Equipo destinado a prevenir y controlar la contaminación ambiental en cumplimiento de las disposiciones legales respectivas.
+II. Comunidades;
 
-c) Equipo destinado directamente a la investigación de nuevos productos o desarrollo de tecnología en el país.
+III. Organizaciones de trabajadores;
 
-d) Equipo destinado para la conversión a consumo de combustóleo y gas natural en las sociedades que realicen actividades industriales.
+IV. Sociedades Cooperativas;
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+V. Empresas que pertenezcan mayoritaria o exclusivamente a los trabajadores, y
 
-IX.- 100% para semovientes y vegetales.
+VI. En general, de todas las formas de organización social para la producción, distribución y consumo de bienes y servicios socialmente necesarios.
 
-###### ARTICULO 45.
+###### Artículo 44.
 
-Los porcientos máximos autorizados para maquinaria y equipo distintos de los señalados en el artículo anterior, son los siguientes:
+En el presupuesto de egresos del Estado y en los presupuestos de los Municipios, se podrán constituir Fondos de Contingencia Social, en los que se contendrán previsiones para garantizar que los recursos sean utilizados como respuesta a fenómenos naturales, económicos y presupuestales imprevistos.
 
-I.- 3% para producción de energía eléctrica o su distribución; transportes eléctricos.
+Los recursos del Fondo en ningún caso podrán ser destinados a fines distintos al desarrollo social.
 
-II.- 5% para molienda de granos; producción de azúcar y derivados; de aceites comestibles; transportación marítima, fluvial y lacustre.
+###### Artículo 45.
 
-III.- 6% para producción de metal, obtenido en primer proceso; productos de tabaco y derivados de carbón natural.
+Los Fondos de Contingencia Social podrán conformarse, además, con recursos que aporten los organismos internacionales, las organizaciones, los sectores social, académico y privado y las o los particulares.
 
-IV.- 7% para fabricación de pulpa, papel y productos similares; petróleo y gas natural.
+###### Artículo 46.
 
-V.- 8% para fabricación de vehículos de motor y sus partes; construcción de ferrocarriles y navíos; fabricación de productos de metal, de maquinaria y de instrumentos profesionales y científicos; producción de alimentos y bebidas, excepto granos, azúcar, aceites comestibles y derivados.
+El Sistema Estatal de Desarrollo Social, es un mecanismo permanente de concurrencia, colaboración, coordinación y concertación de los gobiernos estatal y municipales, así como de los sectores social, académico y privado, que tiene por objeto:
 
-VI.- 9% para curtido de piel y fabricación de artículos de piel de productos químicos, petroquímicos y farmacobiológicos; de productos de caucho y de productos plásticos; impresión y publicación.
+I. Integrar la participación de los sectores público, social, académico y privado, en el cumplimiento de los objetivos, estrategias y prioridades de la política estatal de desarrollo social;
 
-VII.- 11% para la fabricación de ropa; fabricación de productos textiles, acabado, teñido y estampado.
+II. Establecer la colaboración entre las dependencias y entidades de la administración pública estatal y municipal, en la formulación, ejecución e instrumentación de programas, acciones e inversiones en materia de desarrollo social;
 
-VIII.- 12% para construcción de aeronaves, compañías de transporte terrestre de carga y de pasajeros.
+III. Promover la concurrencia, vinculación y congruencia de los planes, programas, acciones e inversiones de los gobiernos estatal y municipales, con los objetivos, estrategias y prioridades de la política estatal de desarrollo social;
 
-IX.- 16% para compañías de transportes aéreo, transmisión por radio y televisión.
+IV. Fomentar la participación de las personas, familias y organizaciones en el desarrollo social;
 
-X.- 25% para la industria de la construcción, incluyendo automóviles, camiones de carga, tractocamiones y remolques.
+V. Impulsar la desconcentración y descentralización de los recursos y acciones para el desarrollo social, y la rendición de cuentas, y
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+VI. Vigilar que los recursos asignados al desarrollo social sean ejercidos con honradez, oportunidad, transparencia y equidad, garantizando la rendición de cuentas de la política de desarrollo social.
 
-XI.- 25% para actividades de agricultura, ganadería, de pesca o silvicultura.
+###### Artículo 47.
 
-XII.- 10% para otras actividades no especificadas en este artículo.
+El Sistema se integra por el Consejo Estatal, los Consejos Regionales de Desarrollo Social, la Comisión Intersecretarial y el Subcomité Sectorial de Desarrollo Social.
 
-En caso de que el contribuyente se dedique a dos o más actividades de las señaladas, aplicará el por ciento que le corresponda a la actividad en la que hubiera obtenido más ingresos en el ejercicio inmediato anterior.
+Los Municipios podrán constituir Consejos Municipales de Desarrollo Social, de acuerdo a las bases señaladas en la presente Ley.
 
-###### ARTICULO 46.
+###### Artículo 48.
 
-La deducción de las inversiones se sujetará a las reglas siguientes:
+El Consejo Estatal de Desarrollo Social, es un órgano consultivo de participación ciudadana y de carácter permanente, que coadyuvará en la planeación, instrumentación y evaluación de la política de desarrollo social y tiene por objeto consolidar la integralidad sobre bases de coordinación, colaboración y concertación de estrategias y programas de desarrollo social.
 
-I.- Las reparaciones así como las adaptaciones a las instalaciones se considerarán inversiones siempre que impliquen adiciones o mejoras al activo fijo.
+###### Artículo 49.
 
-En ningún caso se considerarán inversiones los gastos por concepto de conservación, mantenimiento y reparación que se eroguen con el objeto de mantener el bien de que se trate en condiciones de operación.
+El Consejo Estatal estará integrado por:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-II.- Las inversiones en automóviles sólo serán deducibles cuando sea uno para la persona que lo necesite estrictamente para el desempeño de sus funciones y siempre que tenga relación de trabajo con el contribuyente en los términos del artículo 78 de esta Ley. En el caso de automóviles la deducción se calculará considerando como monto original máximo de la inversión, una cantidad equivalente a diez veces el salario mínimo general correspondiente al Distrito Federal, a la fecha de adquisición multiplicada por 365. Tratándose de motocicletas el monto original máximo de la inversión será una cantidad equivalente a cinco veces el salario mínimo general correspondiente al Distrito Federal, a la fecha de adquisición multiplicada por 365. Tratándose de motocicletas el monto original máximo de la inversión será una cantidad equivalente a cinco veces el salario mínimo general correspondiente al Distrito Federal, a la fecha de adquisición multiplicada por 365.
+I. La o el Secretario de Desarrollo Social, quien lo presidirá;
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+II. Una o un Secretario Técnico nombrado por el titular de la dependencia señalada en el párrafo anterior;
 
-III.- Las inversiones en casas habitación, aviones y embarcaciones que no tengan concesión o permiso del Gobierno Federal para ser explotados comercialmente, sólo serán deducibles en los casos que reúnan los requisitos que señale el reglamento de esta Ley.
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2015)</small>
 
-Las inversiones en casas de recreo en ningún caso serán deducibles.
+III. El Presidente o la Presidenta de la comisión en materia de Desarrollo Social de la Legislatura del Estado;
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+IV. Cuatro consejeros o consejeras ciudadanos que participen en organizaciones con enfoque de desarrollo social;
 
-IV.- En el caso de bienes adquiridos por fusión, los valores sujetos a deducción no deberán ser superiores a los valores pendientes de deducir en la sociedad fusionada.
+V. Cuatro consejeros o consejeras ciudadanos que cuenten con estudios, investigaciones o experiencia académica en el área del desarrollo social, y
 
-V.- Los descuentos, primas, comisiones y demás gastos relacionados con la emisión de obligaciones incluyendo las emitidas por instituciones de crédito, se deducirán anualmente en proporción a las obligaciones pagadas durante cada ejercicio. Cuando las obligaciones se rediman mediante un solo pago, los gastos se deducirán por partes iguales durante los ejercicios que transcurran hasta que se efectúe el pago.
+VI. Cuatro consejeros o consejeras ciudadanos que participen en cámaras o agrupaciones del sector privado, preferentemente en empresas con enfoque social.
 
-VI.- La deducción de la inversión en cada película cinematográfica, la efectuarán los productores aplicando el importe total de los ingresos obtenidos por su exhibición. Si transcurridos tres ejercicios a partir de la fecha en que se inició la exhibición no hubiera quedado deducida la inversión, el remanente se deducirá por partes iguales en los dos ejercicios siguientes.
+Por cada miembro del Consejo se nombrará una o un suplente, quien en caso de ausencia del titular, podrá asistir a las sesiones con todas las facultades inherentes al cargo, debiéndose integrar por ambos géneros.
 
-VII.- Las construcciones instalaciones o mejoras permanentes en activos fijos tangibles, propiedad de terceros que de conformidad con los contratos de arrendamiento o de concesión respectivos queden a beneficio del propietario y se hayan efectuado a partir de la fecha de celebración de los contratos mencionados, se deducirán en los términos de esta Sección. Cuando la terminación del contrato ocurra sin que las inversiones deducibles hayan sido fiscalmente redimidas, el valor por redimir podrá deducirse en la declaración del ejercicio respectivo previo aviso presentado ante las autoridades fiscales.
+###### Artículo 50.
 
-VIII.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1986)
+Las o los miembros del Consejo Estatal a que se refieren las fracciones III, IV y V del artículo anterior, serán elegidos por la Secretaría de entre las o los candidatos que presenten las redes de organizaciones, instituciones de asistencia privada, instituciones de educación superior y organismos empresariales.
 
-###### ARTICULO 47.
+###### Artículo 51.
 
-Las pérdidas de bienes del contribuyente por caso fortuito o fuerza mayor, que no se reflejen en el inventario, serán deducibles en el ejercicio en que ocurran. La pérdida será igual a la cantidad pendiente de deducir a la fecha en que se sufra. La cantidad que se recupere se acumulará en los términos de la fracción VII del artículo 17 de esta Ley.
+Las o los consejeros ciudadanos durarán en su cargo dos años, sin posibilidades de ser nombrados para otro periodo. El nombramiento será de carácter honorífico y las o los ciudadanos que lo ocupen no deberán tener filiación política con ningún partido político ni ocupar cargo alguno dentro de la administración pública federal, estatal o municipal.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-Cuando el contribuyente reinvierta la cantidad recuperada en la adquisición de bienes, de naturaleza análoga a los que perdió, o bien para redimir pasivos por la adquisición de dichos bienes, únicamente acumulará la parte de la cantidad recuperada no reinvertida o no utilizada para redimir pasivo. La cantidad reinvertida que provenga de la recuperación sólo podrá deducirse mediante la aplicación del porciento autorizado por esta Ley sobre el monto original de la inversión del bien que se perdió y hasta por la cantidad que de este monto estaba pendiente de deducirse a la fecha de sufrir la pérdida.
-
-Si el contribuyente invierte cantidades adicionales a las recuperadas, considerará a éstas como una inversión diferente.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-La reinversión a que se refiere este precepto, deberá efectuarse en el ejercicio en que se obtenga la recuperación o en el siguiente, a elección del contribuyente. Este plazo se podrá prorrogar en los términos y con los requisitos que fije el reglamento de esta Ley. En el caso de que las cantidades recuperadas no se reinviertan en el último ejercicio en el que pudieron haberse reinvertido, se acumularán a los demás ingresos obtenidos en ese ejercicio.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-###### ARTICULO 48.
-
-Tratándose de contratos de arrendamiento financiero, se considerará como monto original de la inversión, la cantidad que resulte de aplicarse al total de pagos convenidos para el término forzoso inicial del contrato el por ciento que conforme al cuadro contenido en ese artículo corresponda, según el número de años de plazo inicial forzoso del contrato y la tasa de interés aplicable al primer año del plazo pactado; cuando varíe la tasa aplicable al primer año se considerará el promedio de dicho año.
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-TASA DE INTERES
-
-Número de años 110% 115% 120%
-
-del plazo inicial Hasta 105% Monto original
-
-forzoso del contrato de la inversión
-
-% % % %
-
-1 49 48 47 45
-
-2 36 35 34 33
-
-3 28 27 26 25
-
-4 22 22 21 20
-
-5 19 18 17 16
-
-6 16 15 14 14
-
-7 14 13 12 12
-
-8 12 11 11 10
-
-9 11 10 10 9
-
-10 10 9 9 8
-
-11 9 8 8 8
-
-12 8 8 7 7
-
-13 7 7 7 6
-
-14 7 6 6 6
-
-15 6 6 6 6
-
-16 6 6 5 5
-
-17 6 5 5 5
-
-18 5 5 5 5
-
-19 5 5 5 4
-
-20 5 5 4 4
-
-de 21 a 25 4 4 4 4
-
-de 26 a 30 3 3 3 3
-
-más de 30 3 3 3 2
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-TASA DE INTERES
-
-Número de años 130% 135% 140%
-
-del plazo inicial Hasta 125% Monto original
-
-forzoso del contrato de la inversión
-
-% % % %
-
-1 44 43 43 42
-
-2 32 31 30 30
-
-3 24 24 23 22
-
-4 19 19 18 17
-
-5 16 15 15 14
-
-6 13 13 12 12
-
-7 11 11 11 10
-
-8 10 10 9 9
-
-9 9 9 8 8
-
-10 8 8 7 7
-
-11 7 7 7 6
-
-12 7 6 6 6
-
-13 6 6 6 5
-
-14 6 5 5 5
-
-15 5 5 5 5
-
-16 5 5 5 4
-
-17 5 5 4 4
-
-18 4 4 4 4
-
-19 4 4 4 4
-
-20 4 4 4 4
-
-de 21 a 25 4 3 3 3
-
-de 26 a 30 3 3 3 3
-
-Más de 30 2 2 2 2
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-TASA DE INTERES
-
-Número de años 150% 155% 160%
-
-del plazo inicial Hasta 145% Monto original
-
-forzoso del contrato de la inversión
-
-% % % %
-
-1 41 40 39 38
-
-2 29 28 27 27
-
-3 21 21 20 20
-
-4 17 16 16 15
-
-5 14 13 13 12
-
-6 11 11 11 10
-
-7 10 10 9 9
-
-8 9 8 8 8
-
-9 8 7 7 7
-
-10 7 7 6 6
-
-11 6 6 6 6
-
-12 6 6 5 5
-
-13 5 5 5 5
-
-14 5 5 5 4
-
-15 5 4 4 4
-
-16 4 4 4 4
-
-17 4 4 4 4
-
-18 4 4 4 3
-
-19 4 4 3 3
-
-20 3 3 3 3
-
-de 21 a 25 3 3 3 3
-
-de 26 a 30 2 2 2 2
-
-Más de 30 2 2 2 2
-
-Cuando el arrendador sea un residente en el extranjero para efectos de la aplicación del cuadro contenido en este artículo, se considerará que el interés fijado para determinar los pagos correspondientes al primer año de plazo, es el interés por operaciones interbancarias que rija en el mercado de Londres (LIBOR) al momento de celebrar el contrato.
-
-> <small>(F. DE E., D.O.F. 26 DEMARZO DE 1981)</small>
-
-Cuando la tasa de interés pactada no coincida exactamente con alguno de los por cientos de tasa de interés establecidos en el cuadro contenido en este artículo, para determinar el por ciento aplicable, se considerará la tasa de interés más próxima al interés pactado. Si este último tiene la misma proximidad a dos tasas de interés, se considerará la más alta.
-
-Cuando el plazo pactado corresponda a un número determinado de años completos y a una fracción de año, dicha fracción se considerará como un año completo cuando la misma exceda de seis meses.
-
-###### ARTICULO 49.
-
-El saldo que se obtenga después de restar al total de pagos convenidos para el plazo inicial forzoso del contrato, la cantidad que resulte de aplicar a dichos pagos el por ciento de monto original de la inversión que corresponda conforme al cuadro establecido en el artículo 48 de esta Ley, se deducirá en anualidades iguales durante el plazo inicial del contrato. Esta deducción se ajustará cuando varíe la tasa de interés aplicable al primer año de plazo.
-
-Si el contrato concluyere antes del plazo pactado, se deberá considerar como partida deducible en el ejercicio de la diferencia entre los pagos efectuados y las cantidades deducidas en los términos del párrafo anterior.
-
-###### ARTICULO 50.
-
-Cuando en los contratos de arrendamiento financiero, se haga uso de alguna de sus opciones, para la deducción de las inversiones relacionadas con dichos contratos, se observará lo siguiente:
-
-I.- Si se opta por transferir la propiedad del bien objeto del contrato mediante el pago de una cantidad determinada, o bien, por prorrogar el contrato por un plazo cierto, el importe de la opción se considerará complemento del monto original de la inversión, por lo que se deducirá en el por ciento que resulte de dividir el importe de la opción entre el número de años que falten para terminar de deducir el monto original de la inversión.
-
-II.- Si se obtiene participación por la enajenación de los bienes a terceros, deberá considerarse como deducible la diferencia entre los pagos efectuados y las cantidades ya deducidas menos el ingreso obtenido por la participación en la enajenación a terceros.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-###### ARTICULO 51.
-
-Los contribuyentes de este Título, podrán optar por efectuar la deducción inmediata de la inversión de bienes nuevos de activo fijo, deduciendo en el ejercicio en que se inicie la utilización de los mismos o en el ejercicio siguiente, la cantidad que resulte de aplicar únicamente los porcientos que se establecen en este artículo al monto original de la inversión. La parte de dicho monto que exceda de la cantidad que resulte de aplicar al mismo el porciento que se autoriza en este artículo, no será deducible en ningún caso.
-
-Los porcientos que se podrán aplicar para deducir las inversiones a que se refiere este artículo, son los que a continuación se señalan:
-
-I.- Los porcientos por tipo de bien serán:
-
-a).- 51% para construcciones.
-
-b).- 56% para ferrocarriles, carros de ferrocarril, locomotoras y embarcaciones.
-
-c).- 71% para autobuses.
-
-d).- 84% tratándose de aviones dedicados a la aerofumigación agrícola.
-
-e).- 79% para los demás aviones.
-
-f).- 81% para automóviles, camiones de carga, tractocamiones, remolques, a excepción de los utilizados en la industria de la construcción.
-
-g).- 87% tratándose de dados, troqueles, moldes, matrices y herramental, equipo destinado a prevenir y controlar la contaminación ambiental en cumplimiento de las disposiciones legales respectivas, equipo destinado directamente a la investigación de nuevos productos o desarrollo de tecnología en el país, así como equipo destinado para la conversión o consumo de combustóleo y gas natural en las sociedades que realicen actividades industriales.
-
-h).- 93% para semovientes y vegetales.
-
-i).- Tratándose de equipo de cómputo electrónico:
-
-1.- 84% para equipo consistente en una máquina o grupo de máquinas interconectadas conteniendo unidades de entrada, almacenamiento, computación, control y unidades de salida, usando circuitos electrónicos en los elementos principales para ejecutar operaciones aritméticas o lógicas en forma automática por medio de instrucciones programadas, almacenadas internamente o controladas externamente.
-
-2.- 73% para equipo periférico del contenido en el subinciso anterior; perforadoras de tarjetas, verificadoras, tabuladoras, clasificadoras, intercaladoras y demás que no quedan comprendidas en dicho subinciso.
-
-II.- Los porcientos aplicables para maquinaria y equipo distintos de los señalados en la fracción anterior, son los siguientes:
-
-a).- 36% para producción de energía eléctrica o su distribución; transportes eléctricos.
-
-b).- 51% para molienda de grano; producción de azúcar y derivados; de aceites comestibles; transportación marítima; fluvial y lacustre.
-
-c).- 56% para producción de metal, obtenido en primer proceso; productos de tabaco y derivados de carbón natural.
-
-d).- 61% para fabricación de pulpa, papel y productos similares; petróleo y gas natural.
-
-e).- 63% para fabricación de vehículos de motor y sus partes; construcción de ferrocarriles y navíos; fabricación de productos de metal, de maquinaria y de instrumentos profesionales y científicos; producción de alimentos y bebidas; excepto granos, azúcar, aceites comestibles y derivados.
-
-f).- 67% para curtido de piel y fabricación de artículos de piel; de productos químicos, petroquímicos y farmacobiológicos; de productos de caucho y de productos plásticos; impresión y publicación.
-
-g).- 71% para la fabricación de ropa, fabricación de productos textiles, acabado, teñido y estampado.
-
-h).- 73% para construcción de aeronaves, compañías de transporte terrestre, de carga y de pasajeros.
-
-i).- 79% para compañías de transporte aéreo, transmisión por radio y televisión.
-
-j).- 84% para la industria de la construcción, incluyendo automóviles, camiones de carga, tractocamiones y remolques.
-
-k).- 84% para actividades de agricultura, ganadería, de pesca o silvicultura.
-
-l).- 69% para otras actividades no especificadas en esta fracción.
-
-En caso de que el contribuyente se dedique a dos o más actividades de las señaladas en esta fracción, aplicará el porciento que le corresponda a la actividad en la que hubiera obtenido más ingresos en el ejercicio inmediato anterior.
-
-La opción a que se refiere este artículo no podrá ejercerse respecto de los bienes que se adquieran mediante arrendamiento financiero, o cuando se trate de mobiliario y equipo de oficina.
-
-Para los efectos de este artículo se consideran bienes nuevos los que se utilizan por primera vez en México.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+Las o los consejeros ciudadanos tendrán voz y voto en las sesiones y en caso de empate, el titular de la Secretaría tendrá voto de calidad.
 
 ###### ARTICULO 51-A.
 
@@ -1276,23 +988,11 @@ TABLA
 
 (REUBICADO [N. DE E. ANTES SECCION IV], D.O.F. 31 DE DICIEMBRE DE 1986)
 
-### CAPITULO II-A. De los Ingresos y de las Deducciones para Instituciones de Crédito, de Seguros y de Fianzas
+### Capítulo II. De las Obligaciones
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+###### Artículo 52.
 
-###### ARTICULO 52.
-
-Las instituciones de crédito considerarán ingresos acumulables los que se establecen en el Capítulo I de este Título, excepto los señalados en la fracción X del artículo 17 de esta Ley.
-
-Los contribuyentes a que se refiere este artículo considerarán además, ingresos acumulables:
-
-I.- Los intereses devengados en el ejercicio, sin el ajuste del artículo 7o.-B de esta Ley. Para los efectos de esta fracción, no se le dará el tratamiento de interés a la utilidad cambiaria.
-
-Tratándose de los intereses que perciban por la inversión de su capital pagado y de las reservas que señale la Secretaría de Hacienda y Crédito Público, los ingresos acumulables se determinarán en los términos del artículo 7o.- B de esta Ley.
-
-II.- Tratándose de deudas o créditos en moneda extrajera, acumularán la utilidad que en su caso resulte de la fluctuación de dichas monedas, en el ejercicio en que las deudas o créditos sean exigibles conforme al plazo pactado originalmente, en los casos en que las deudas o los créditos en moneda extranjera se paguen o se cobren con posterioridad a la fecha de su exigibilidad, las utilidades que se originen en ese lapso por la fluctuación de dichas monedas, serán acumulables en el ejercicio en que se efectúen el pago del adeudo o el cobro del crédito.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+El Consejo Estatal podrá invitar a servidores públicos de la administración pública estatal, cuya función se encuentre estrechamente relacionada con el tema a tratarse.
 
 ###### ARTICULO 52-A.
 
@@ -1312,71 +1012,133 @@ En los casos en que las deudas o créditos en moneda extranjera se paguen o se c
 
 > <small>(F. DE E., D.O.F. 26 DEMARZO DE 1981)</small>
 
-###### ARTICULO 53.
+###### Artículo 53.
 
-Las instituciones de seguros harán las deducciones a que se refiere este Capítulo dentro de las que considerarán la creación o incremento de las siguientes reservas:
+Corresponde al Consejo Estatal:
 
-I.- Las de riesgos en curso y por obligaciones pendientes de cumplir por siniestros y por vencimientos.
+I. Proponer políticas públicas de desarrollo social bajo los criterios de integralidad y transversalidad;
 
-II.- La de compensaciones adicionales de los agentes de seguros, previa autorización de la Comisión Nacional Bancaria y de Seguros.
+II. Emitir opiniones y formular propuestas sobre la aplicación y orientación de la política estatal y municipal de desarrollo social;
 
-III.- La de previsión.
+III. Opinar sobre los presupuestos de desarrollo social destinados a las dependencias y entidades estatales y municipales;
 
-Cuando al término de un ejercicio proceda disminuir las reservas a que se refiere este artículo en relación con las constituidas en el ejercicio inmediato anterior, la diferencia se acumulará como ingreso en el ejercicio en que proceda la disminución.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-También serán deducibles los llamados dividendos o intereses que como procedimiento de ajuste de primas paguen o compensen las instituciones a sus asegurados, de conformidad con las pólizas respectivas.
+IV. Proponer criterios para la instrumentación y ejecución de las políticas y programas de desarrollo social en los ámbitos estatal y municipal;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+V. Analizar y proponer esquemas alternativos de financiamiento para los programas de desarrollo social;
 
-###### ARTICULO 54.
+VI. Promover el intercambio de experiencias en materia de desarrollo social;
 
-Las instituciones de fianzas harán las deducciones a que se refiere este Capítulo, dentro de las que considerarán la creación o incremento, efectuados previa revisión de la Comisión Nacional Bancaria y de Seguros, de las siguientes reservas:
+VII. Proponer el fomento y ejecución de programas y acciones en el marco del Plan Estatal de Desarrollo, el Programa, los programas municipales;
 
-I.- La de fianzas en vigor.
+VIII. Revisar el marco jurídico del desarrollo social y, en su caso, proponer las reformas correspondientes;
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+IX. Revisar la propuesta de reglas que deban regir la participación social que haga la Secretaría;
 
-II.- La de contingencia.
+X. Proponer mecanismos de financiamiento y distribución de los recursos para el desarrollo social del Estado y Municipios;
 
-Cuando al término de un ejercicio proceda disminuir las reservas a que se refiere este artículo en relación con las constituidas en el ejercicio inmediato anterior, la diferencia se acumulará como ingreso en el ejercicio en que proceda la disminución.
+XI. Promover acciones de capacitación para servidores públicos en materia de desarrollo social, así como la creación de grupos de trabajo;
 
-### CAPITULO III
+XII. Sugerir las actividades que estime necesarias y convenientes para el funcionamiento adecuado del Sistema;
 
-De las Pérdidas.
+XIII. Opinar sobre la aplicación de los programas federales, estatales y municipales de desarrollo social;
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+XIV. Fomentar la participación ciudadana en la elaboración y ejecución de las políticas de desarrollo social, así como proponer mecanismos de consulta con los diversos sectores en el Estado;
 
-###### ARTICULO 55.
+XV. Integrar comisiones, grupos de trabajo y observatorios ciudadanos permanentes para analizar aspectos específicos del desarrollo social, y
 
-La pérdida fiscal será la diferencia entre los ingresos acumulables del ejercicio y las deducciones autorizadas por esta Ley, cuando el monto de estas últimas sea mayor que los ingresos.
+XVI. Las demás que le confiera la presente Ley y otras disposiciones aplicables.
 
-La pérdida fiscal ocurrida en un ejercicio podrá disminuirse de la utilidad fiscal de los cinco ejercicios siguientes. Cuando el contribuyente no disminuya en un ejercicio la pérdida fiscal de otros ejercicios, pudiéndolo haber hecho conforme a este artículo, perderá el derecho a hacerlo en ejercicios posteriores hasta por la cantidad en que pudo haberlo efectuado.
+###### Artículo 54.
 
-Para los efectos del párrafo anterior el monto de la pérdida fiscal se ajustará multiplicando la perdida fiscal pendiente de disminuir de ejercicios anteriores por el factor de actualización correspondiente al periodo comprendido entre el último mes del ejercicio inmediato anterior a aquél en que se disminuirá la pérdida fiscal, y el último mes del ejercicio en que ocurrió dicha pérdida.
+La organización y funcionamiento del Consejo Estatal, se establecerá en el Reglamento de esta Ley.
 
-El derecho para disminuir pérdidas es personal del contribuyente que las sufra y no podrá ser transmitido a otra persona, ni como consecuencia de fusión.
+### Capítulo Único. De sus Facultades
 
-###### ARTICULO 56.
+###### Artículo 55.
 
-No se disminuirá la pérdida fiscal o parte de ella, que provenga de fusión o liquidación de sociedades en las que el contribuyente sea socio o accionista.
+La o el Ejecutivo del Estado impulsará la creación de los Consejos Regionales de Desarrollo Social, los cuales se constituirán de conformidad con las siguientes bases:
 
-> <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+I. Cada uno será presidido por una o un representante de la Secretaría;
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+II. Estarán integrados por un máximo de catorce consejeras o consejeros ciudadanos, mismos que no deberán tener filiación política con ningún partido político ni ocupar cargo alguno dentro de la administración pública federal, estatal o municipal;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+III. Deberán integrarse, tomando en consideración a ciudadanas o ciudadanos de ambos géneros de todos los Municipios;
 
-###### ARTICULO 57.
+IV. Las y los consejeros deberán ser residentes de la región y serán elegidos por la Secretaría de entre los candidatos que presenten las redes de organizaciones, instituciones de asistencia privada, instituciones de educación superior y organismos empresariales establecidos en la región de que se trate;
 
-En los casos de fusión, la sociedad fusionante sólo podrá disminuir su pérdida fiscal ajustada pendiente al momento de la fusión con cargo a la utilidad fiscal ajustada correspondiente a la explotación de los mismos giros en los que se produjo la pérdida.
+V. El nombramiento será de carácter honorífico y las o los ciudadanos que lo ocupen no deberán tener filiación política con ningún partido político, ni ocupar cargo alguno dentro de la administración pública federal, estatal o municipal;
 
-La sociedad fusionante que se encuentre en este caso deberá llevar sus registros contables en tal forma que el control de sus pérdidas en cada giro se pueda ejercer individualmente respecto de cada ejercicio, así como de cada nuevo giro que se incorpore al negocio. Por lo que se refiere a los gastos no identificables, éstos deberán aplicarse en la parte proporcional que representen en función de los ingresos obtenidos propios de la actividad. Esta aplicación deberá hacerse con los mismos criterios para cada ejercicio.
+VI. Las o los consejeros ciudadanos durarán en su cargo dos años, sin posibilidades de ser nombrados para otro periodo, y
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+VII. Las demás que establezca el Reglamento de la presente Ley y demás disposiciones aplicables.
 
-### CAPITULO IV. De las Sociedades Mercantiles Controladoras
+###### Artículo 56.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+La Comisión Intersecretarial es el instrumento de coordinación, apoyo y vinculación de las acciones del Ejecutivo del Estado, para garantizar la integralidad en el diseño y ejecución de la política estatal de desarrollo social.
+
+###### Artículo 57.
+
+La Comisión Intersecretarial estará integrada por:
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+I. El titular del Ejecutivo del Estado, quien la presidirá;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+II. El titular de la Secretaría, quien tendrá a cargo la coordinación ejecutiva y sustituirá al Ejecutivo en sus ausencias;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+III. El titular de la Secretaría de Finanzas;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+IV. El titular de la Secretaría de Educación;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2019)</small>
+
+V. El titular de la Secretaría de Obras Públicas;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+VI. El Titular de la Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VII. El titular de la Secretaría del Campo;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VIII. El titular de la Secretaría de Economía;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+IX. El titular de la Secretaría de Turismo;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+X. La titular de la Secretaría de las Mujeres;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XI. El Director General del Instituto Zacatecano de Cultura "Ramón López Velarde";
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2019)</small>
+
+XII. El titular de la Secretaría de Salud, y
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+XIII. El Director General del Instituto de la Juventud del Estado.
+
+Podrán ser invitados a participar, con derecho a voz, los titulares de otras dependencias y entidades de la administración pública estatal y federal. La Comisión Intersecretarial sesionará cuando menos una vez por bimestre.
+
+### Capítulo Único
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 57-A.
 
@@ -1640,217 +1402,123 @@ IV.- De la suma de partidas a que se refiere la fracción II de este artículo s
 
 > <small>(REFORMADA SU NUMERACION, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
-### CAPITULO V. De las Obligaciones de las Sociedades Mercantiles
+### Capítulo Único
 
-###### ARTICULO 58.
+###### Artículo 58.
 
-Los contribuyentes que obtengan Ingresos de los señalados en este Título, además de las obligaciones establecidas en otros artículos de esta Ley, tendrán las siguientes:
+La Comisión Intersecretarial tendrá las siguientes facultades:
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+I. Proponer políticas públicas de desarrollo social bajo los criterios de integralidad y transversalidad;
 
-I.- Llevar la contabilidad de conformidad con el Código Fiscal de la Federación, su Reglamento y el Reglamento de esta Ley y efectuar los registros en la misma. Cuando se realicen operaciones en moneda extranjera, deberán registrarse al tipo de cambio aplicable en la fecha en que se concierten.
+II. Proponer criterios para la planeación y ejecución de políticas y programas de desarrollo social en los ámbitos estatal y municipal;
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+III. Recomendar mecanismos para garantizar la correspondencia entre la política estatal de desarrollo social, con la de los municipios.
 
-II.- Expedir comprobantes por las actividades que realicen y conservar una copia de los mismos a disposición de la Secretaría de Hacienda y Crédito Público.
+IV. Proponer programas y acciones en el marco del Plan Estatal de Desarrollo, el Programa, los programas municipales en la materia, así como de los programas regionales, sectoriales y especiales;
 
-III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1986)
+V. Formular propuestas sobre la aplicación y orientación de la política estatal y municipal de desarrollo social;
 
-IV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1986)
+VI. Proponer las partidas y montos del gasto social que deban integrarse en el proyecto de presupuesto de egresos del Estado, así como emitir opiniones sobre los presupuestos de las dependencias y entidades de la administración pública estatal relacionados con el desarrollo social;
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+VII. Proponer alternativas para una mejor coordinación con los gobiernos federal y municipal, así como esquemas de financiamiento para los programas de desarrollo social;
 
-V.- Llevar registro de las acciones o de los certificados de aportación patrimonial adquiridos por el contribuyente, distinguiendo los emitidos por cada sociedad y las series que concedan diversos derechos, así como considerar a las acciones a certificados de aportación patrimonial que en su caso se enajenen como los primeros que se adquirieron.
+VIII. Revisar el orden jurídico en la materia y, en su caso, proponer las modificaciones correspondientes;
 
-VI.- Llevar un registro de las utilidades de cada ejercicio en donde se identifique el ejercicio en que se generaron dichas utilidades, distinguiendo las capitalizadas de las demás, y considerar a las primeras que se distribuyan o que se reembolsen como las primeras que se generaron.
+IX. Emitir opinión sobre la capacitación de servidores públicos en materia de desarrollo social, así como para la creación de grupos de trabajo sobre el particular;
 
-VII.- Formular un estado de posición financiera y levantar inventario de existencias a la fecha en que termine el ejercicio, de acuerdo con las disposiciones reglamentarias respectivas.
+X. Formular opiniones para fortalecer el funcionamiento del Sistema;
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+XI. Opinar sobre la aplicación de programas federales, estatales y municipales de desarrollo social, y
 
-VIII.- Presentar declaración en la que se determine el resultado fiscal del ejercicio y el monto del impuesto de este, ante las oficinas autorizadas dentro de los tres meses siguientes a la fecha en que termine dicho ejercicio. En dicha declaración también se determinarán la utilidad fiscal y el monto que corresponda a la participación de los trabajadores en las utilidades de la empresa.
+XII. Las demás que le confiera la presente Ley y otros ordenamientos.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+###### Artículo 59.
 
-En el caso de fusión de sociedades, la sociedad que subsista o la que surja con motivo de la fusión, presentará la declaración del ejercicio de la sociedad o sociedades que desaparezcan.
+El Subcomité Sectorial de Desarrollo Social, constituido en el seno del Comité de Planeación para el Desarrollo del Estado de Zacatecas, tendrá por objeto, analizar y proponer programas y acciones y servir como ente de consulta, opinión, asesoría y vinculación del Consejo Estatal y la Comisión Intersecretarial.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+###### Artículo 60.
 
-IX.- Llevar un registro de deudas, créditos y efectivo en moneda extranjera en el que se distinga por moneda de cada país y por tipo de cuenta, considerando, tratándose de efectivo y de créditos exigibles a la vista, a los primeros que se enajenen como los últimos que se adquirieron.
+El Subcomité Sectorial de Desarrollo Social estará integrado por:
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+I. Un coordinador o coordinadora, que será designado por el o la Titular del Poder Ejecutivo del Estado;
 
-X.- Presentar en el mes de febrero de cada año ante las oficinas autorizadas, declaración en la que proporcionen información de las operaciones efectuadas en el año de calendario anterior con los cincuenta principales clientes y con los cincuenta principales proveedores. Deberán proporcionar, además, en su caso, información de las personas a las que les hubieran efectuado retenciones de impuesto sobre la renta en el mismo año de calendario.
+II. Una o un Secretario Técnico, que será un servidor público designado por el coordinador o coordinadora, y
 
-Cuando el contribuyente lleve su contabilidad mediante el sistema de registro electrónico, la información a que se refiere esta fracción deberá proporcionarse en dispositivos magnéticos procesados en los términos que señale la Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general. Dichos dispositivos serán devueltos al contribuyente por las autoridades fiscales dentro de los seis meses siguientes a su presentación. Tratándose de contribuyentes que lleven su contabilidad mediante sistema manual o mecanizado o cuando su equipo de cómputo no pueda procesar los dispositivos en los términos señalados por la mencionada Secretaría, la información deberá proporcionarse en las formas que al efecto apruebe dicha dependencia.
+III. Las o los titulares de las dependencias y entidades de la administración pública estatal, cuyas facultades se relacionen con el desarrollo social.
 
-Tratándose de las declaraciones a que se refieren los artículos 83 fracción V, 86 último párrafo, 92 tercer párrafo y 123 fracción III de esta Ley, la información sobre las retenciones efectuadas y las personas a las cuales las hicieron, deberá proporcionarse también en dispositivos magnéticos procesados en los términos del párrafo anterior.
+A invitación expresa de la o el coordinador del Subcomité, podrán asistir a las sesiones del mismo, las o los delegados federales en el Estado que tengan relación con el desarrollo social; las o los Presidentes Municipales correspondientes, cuando se trate de acciones o programas a ejecutarse en su Municipio y los representantes de instituciones y organismos sociales, académicos o empresariales.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+### Capítulo Único
 
-Los contribuyentes que se dediquen a la realización de actividades agrícolas, ganaderas o de pesca, no estarán obligados a cumplir con lo dispuesto en las fracciones III y IV de este artículo ni a levantar el inventario de existencias a que se refiere la fracción VII del mismo, por lo que se refiere a dichas actividades.
+###### Artículo 61.
 
-###### ARTICULO 59.
+El Subcomité Sectorial de Desarrollo Social tendrá las siguientes facultades:
 
-Los contribuyentes residentes en el país que tengan establecimientos en el extranjero, además de las obligaciones establecidas en otros artículos de esta Ley, tendrán las siguientes:
+I. Proponer los criterios, bases y principios para la planeación de la política estatal de desarrollo social;
 
-I.- Llevarán los libros de contabilidad y registros que correspondan al establecimiento en el extranjero, en los términos que señale esta Ley y su reglamento. Los asientos correspondientes podrán efectuarse de acuerdo con lo siguiente:
+II. Recomendar estrategias, acciones y medidas para fortalecer el proceso de planeación en materia de desarrollo social, en los ámbitos estatal, regional, municipal y comunitario;
 
-a).- En idioma español o en el oficial del país donde se encuentren dichos establecimientos. Si los asientos correspondientes se hacen en idioma distinto al español deberá proporcionarse traducción autorizada a las autoridades fiscales cuando éstas así lo requieran en el ejercicio de sus facultades de comprobación.
+III. Asesorar al o la Titular del Ejecutivo y a las o los Presidentes Municipales en materia de desarrollo social;
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+IV. Apoyar en la promoción y cumplimiento de la política estatal de desarrollo social;
 
-b).- Registrando las operaciones en moneda nacional o en la moneda de curso legal en el país donde se encuentren dichos establecimientos. Si se registra en moneda distinta de la nacional, la conversión podrá hacerse, a elección del contribuyente, por cada operación o conforme al tipo de cambio que tenga la moneda extranjera en México al último día de cada mes de calendario.
+V. Proponer y propiciar la colaboración y concertación de organismos públicos, privados y sociales, nacionales y extranjeros, en el desarrollo social;
 
-II.- Los libros, registros y documentos comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con sus obligaciones fiscales, relacionados únicamente con el establecimiento en el extranjero, podrán conservarse en dicho establecimiento durante el término que para tal efecto señalan esta Ley y el Código Fiscal de la Federación, siempre que se cumplan los requisitos y condiciones que fije el reglamento de esta Ley.
+VI. Proponer la realización de estudios sobre los niveles de desarrollo social en el Estado, detectando las zonas marginadas y los segmentos de la población que requieren de mayores apoyos;
 
-###### ARTICULO 60.
+VII. Solicitar a las dependencias y entidades de la administración pública estatal y municipal, relacionadas con el desarrollo social, información sobre los programas y acciones que realicen en esta materia;
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1986)
+VIII. Emitir opinión respecto de la determinación y modificación de las zonas de atención prioritaria;
 
-> <small>(REFORMADA SU NUMERACION, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+IX. Proponer la celebración de convenios con los gobiernos de los tres órdenes de gobierno, así como de los sectores social, académico y privado nacionales y extranjeros;
 
-### CAPITULO VI. De las Facultades de las Autoridades Fiscales
+X. Informar a la opinión pública sobre los aspectos de interés general relativos a la política estatal de desarrollo social, así como promover mecanismos de consulta;
 
-###### ARTICULO 61.
+XI. Integrar en su interior, las comisiones y grupos de trabajo que sean necesarios para el ejercicio de sus funciones, y
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)
+XII. Recomendar medidas para hacer compatible la política estatal de desarrollo social con las de los municipios;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+###### Artículo 62.
 
-###### ARTICULO 62.
+Los nombramientos del Subcomité Sectorial de Desarrollo Social, serán de carácter honorario, por lo que no recibirán retribución alguna por su desempeño, con excepción de los señalados en las fracciones I y II del artículo 60 de esta Ley.
 
-La Secretaría de Hacienda y Crédito Público para determinar presuntivamente la utilidad fiscal de los contribuyentes podrá aplicar a los ingresos brutos declarados o determinados presuntivamente, el coeficiente del 15% o el que corresponda tratándose de alguna de las actividades que a continuación se indican:
+###### Artículo 63.
 
-I.- Se aplicará el 3% a los siguientes giros:
+La Secretaría deberá prestar al Subcomité Sectorial de Desarrollo Social, la colaboración necesaria para el ejercicio de sus funciones.
 
-Comerciales: Gasolina, petróleo y otros combustibles de origen mineral.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2019)</small>
 
-II.- Se aplicará el 5% en los siguientes casos:
+###### Artículo 64.
 
-Comerciales: Abarrotes con venta de granos, semillas y chiles secos, azúcar, carnes en estado natural; cereales y granos en general; leches naturales, masa para tortillas de maíz, pan de precio popular; billetes de lotería, espectáculos en campos deportivos y teatros.
+Los Ayuntamientos podrán constituir Subcomités Municipales de Desarrollo Social, de conformidad con la Ley de Planeación del Estado de Zacatecas y sus Municipios y las disposiciones reglamentarias que para el efecto expidan.
 
-Industriales: Masa para tortillas de maíz, pan de precio popular y sombreros de palma y paja.
+###### Artículo 65.
 
-Agrícolas: Cereales y granos en general.
+La organización y funcionamiento del Subcomité Sectorial de Desarrollo Social, se establecerá en el Reglamento de esta Ley.
 
-Ganaderas: Producción de leches naturales.
+###### Artículo 66.
 
-III.- Se aplicará el 10% a los giros siguientes:
+La o el Ejecutivo del Estado y los Municipios, a fin de garantizar el derecho de la sociedad, las o los beneficiarios y las o los particulares, a participar de manera activa y corresponsable en la planeación, programación, ejecución, evaluación y supervisión de la política estatal de desarrollo social, deberán:
 
-Comerciales: Abarrotes con venta de vinos y licores de producción nacional, salchichonería, café para consumo nacional, dulces, confites, bombones y chocolates de precio popular; legumbres, nieves y helados, pan fino, galletas y pastas alimenticias, cerveza y detergentes, libros, papeles y artículos de escritorio, confecciones, telas y artículos de algodón, artículos para deportes, pieles y cueros, productos obtenidos del mar, lagos y ríos, substancias y productos químicos o farmacéuticos, velas y veladoras; cemento, cal y arena, explosivos; ferreterías, y tlapalería; fierro y acero, pinturas y barnices, vidrio y otros materiales para construcción, llantas y cámaras, automóviles, camiones, piezas de repuesto y otros artículos del ramo, con excepción de accesorios, espectáculos en arenas y cines.
+I. Establecer las formas y requisitos para participar en los consejos y órganos consultivos, así como en la planeación y evaluación de la política social;
 
-Industriales: Azúcar, leches naturales; aceites vegetales; café para consumo nacional; dulces, confites, bombones y chocolates de precio popular; maquila en molienda de nixtamal, molienda de trigo y arroz; pan fino, galletas y pastas alimenticias; jabones corrientes y detergentes; confecciones, telas y artículos de algodón; artículos para deportes; pieles y cueros; calzado de todas clases; explosivos, armas y municiones; fiero y acero; construcción de inmuebles; pintura y barnices, vidrio y otros materiales para construcción; muebles de madera corriente; extracción de gomas y resinas; velas y veladoras; imprenta, litografía y encuadernación.
+II. Realizar consultas públicas periódicas para verificar la calidad de los programas y servicios de desarrollo social, así como para captar las propuestas y sugerencias respectivas, y
 
-Agrícolas: Café para consumo nacional y legumbres.
+III. Las demás que consideren necesarias para la promoción de la participación ciudadana.
 
-Pesca: Productos obtenidos del mar, lagos y ríos.
+## TÍTULO TERCERO. DE LAS FACULTADES DE LAS AUTORIDADES
 
-IV.- Se aplicará el 20% a los siguientes giros:
+###### Artículo 67.
 
-Comerciales: Dulces, confites, bombones y chocolates finos; accesorios para automóviles; alquiler de películas; artefactos de polietileno de hule natural y sintético; cabarets y cantinas; casas y terrenos; instrumentos musicales, discos y artículos del ramo; joyería y relojería.
+Las organizaciones, en los términos de la Ley de Fomento a las Actividades realizadas por Organizaciones de la Sociedad Civil en el Estado de Zacatecas y sus Municipios, podrán recibir recursos públicos para realizar actividades relacionadas al desarrollo social.
 
-Industriales: Dulces, bombones, confites y chocolates finos; explotación y refinación de sal; cerveza, alcohol, perfumes y esencias, cosméticos y otros productos de tocador; instrumentos musicales, discos y artículos del ramo; joyería y relojería; extracción de maderas finas; extracción de metales; papel y artículos de papel; plantas minero metalúrgicas; artefactos de polietileno, de hule natural o sintético; llantas y cámaras; automóviles, camiones, piezas de repuesto y otros artículos del ramo.
+## TÍTULO CUARTO. DE LA POLÍTICA DE DESARROLLO SOCIAL
 
-V.- En los siguientes casos se aplicará el 25%.
+###### Artículo 68.
 
-Comerciales: Restaurantes y agencias funerarias.
+Las o los particulares, las o los beneficiarios, las organizaciones y las instituciones, podrán presentar denuncia popular ante la Secretaría de la Función Pública del Gobierno del Estado y los órganos de control interno de los municipios, sobre hechos, actos u omisiones, que produzcan o puedan producir daños al ejercicio de los derechos establecidos en la presente Ley o demás ordenamientos relacionados con el desarrollo social.
 
-VI.- Se aplicará el 30% a los giros siguientes:
-
-Comerciales: Comisionistas y otorgamiento del uso o goce temporal de inmuebles.
-
-Industriales: Fraccionamiento y fábricas de cemento.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-Para obtener el resultado fiscal, se restará a la utilidad fiscal determinada conforme a lo dispuesto en este artículo, las pérdidas fiscales pendientes de disminuir de otros ejercicios.
-
-###### ARTICULO 63.
-
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)
-
-###### ARTICULO 64.
-
-La Secretaría de Hacienda y Crédito Público podrá determinar presuntivamente el precio en que los contribuyentes adquieran o enajenen bienes, así como el monto de la contraprestación en el caso de operaciones distintas de enajenación, en los siguientes casos:
-
-I.- Cuando las operaciones de que se trate se pacten a menos del precio
-
-II.- Cuando la enajenación de los bienes se realice al costo o a menos del costo, salvo que el contribuyente compruebe que la enajenación se hizo al precio de mercado en la fecha de la operación, o que los bienes sufrieron demérito o existieron circunstancias que determinaron la necesidad de efectuar la enajenación en estas condiciones.
-
-III.- Cuando se trate de operaciones de importación o exportación, o en general se trate de pagos al extranjero.
-
-IV.- Cuando se trate de operaciones celebradas entre empresas residentes en el país, si una de ellas pose interés en los negocios o bienes de la otra o bien si existen intereses comunes entre ambas o inclusive cuando una tercera empresa tiene interés en los negocios o bienes de aquéllas.
-
-###### ARTICULO 65.
-
-En los casos a que se refiere el artículo anterior y en el caso de establecimientos permanentes ubicados en México de contribuyentes residentes en el extranjero que envíen o reciban bienes de su oficina central o de otro establecimiento del contribuyente ubicado en el extranjero la Secretaría de Hacienda y Crédito Público para determinar presuntivamente el costo de los bienes, el precio de adquisición o de enajenación de los bienes o en su caso el monto de la contraprestación, podrá considerar lo siguiente:
-
-I.- Los precios corrientes en el mercado interior o exterior y en defecto de éstos el de avalúo que practiquen u ordenen practicar las autoridades fiscales.
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-II.- El costo de los bienes incrementado con el por ciento de utilidad bruta con que opera el contribuyente, determinado de conformidad con el Código Fiscal de la Federación.
-
-III.- El precio en que una persona enajene bienes adquiridos del contribuyente, disminuido con el coeficiente que para determinar la utilidad fiscal de dicha persona lo correspondería conforme al artículo 62 de esta Ley.
-
-###### ARTICULO 66.
-
-Tratándose de intereses pagados por una empresa residente en el país a una empresa residente en el extranjero, cuando una de ellas posee interés en los negocios o bienes de la otra, o bien si existen intereses comunes entre ambas o inclusive cuando una tercera empresa tiene interés en los negocios o bienes de aquéllas, la Secretaría de Hacienda y Crédito Público podrá considerar para efectos de esta Ley, que los intereses tendrán el tratamiento fiscal de dividendos cuando se dé alguno de los supuestos que a continuación se señalan:
-
-I.- Que el deudor formule por escrito promesa incondicional de pago parcial o total del crédito recibido, a una fecha determinable en cualquier momento por el acreedor.
-
-II.- Que el crédito sea convertible en acciones o partes sociales del deudor, salvo que se cumpla con las condiciones y requisitos que fije el reglamento.
-
-III.- Que en caso de incumplimiento por el deudor, el acreedor tenga derecho a intervenir en la dirección o administración de la sociedad deudora.
-
-IV.- Que los intereses que deba pagar el deudor estén condicionados a la obtención de utilidades o que su monto se fije con base en dichas utilidades.
-
-## TITULO III. De las Personas Morales con Fines no Lucrativos
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-###### ARTICULO 67.
-
-La Secretaría de Hacienda y Crédito Público, tratándose de establecimientos ubicados en el extranjero de contribuyentes residentes en el país, podrá presumir ciertos los ingresos determinados por autoridades fiscales extranjeras, salvo prueba en contrario.
-
-## TITULO IV. DE LAS PERSONAS FISICAS
-
-DISPOSICIONES GENERALES
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-###### ARTICULO 68.
-
-Para los efectos de esta Ley, se consideran personas morales con fines no lucrativos las sociedades y asociaciones civiles, las sociedades cooperativas, las sociedades de inversión y en general las personas morales distintas de las comprendidas en el Título II de esta Ley. Las personas morales con fines no lucrativos no son contribuyentes del Impuesto Sobre la Renta, salvo lo dispuesto en el último párrafo del Artículo 73 de esta Ley, y sus integrantes deberán considerar como ingresos sujetos a dicho impuesto, los que obtenga las citadas personas morales inclusive aquéllos que no han sido distribuidos, siempre que se trate de remanente distribuible en los términos de este Título.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-Las personas morales con fines no lucrativos, determinarán el remanente distribuible de un año de calendario correspondiente a sus integrantes, sumando los ingresos obtenidos en ese periodo, a excepción de los señalados en el artículo 77 de esta Ley y de aquéllos por los que se haya pagado impuesto definitivo, y efectuando las deducciones respectivas, para ello aplicarán las disposiciones del Título IV de la presente Ley.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-Tratándose de los ingresos por enajenación de bienes a que se refiere el Capítulo IV del Título IV de la presente Ley, únicamente se incluirá en el remanente distribuible, la parte de esos ingresos que es acumulable en los términos de las citadas disposiciones, los integrantes personas físicas quedan obligados a pagar el impuesto por la parte no acumulable conforme a las mencionadas disposiciones.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-Cuando alguno de los integrantes de las personas morales con fines no lucrativos sea contribuyente en los términos del Título II de esta Ley, sumará la parte del remanente distribuible que le corresponda la parte proporcional de los ingresos que no se consideraron para determinar dicho remanente, a excepción de los señalados en el último párrafo del artículo 15 de esta Ley.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-Cuando todos los integrantes sean contribuyentes del Título II de esta Ley, el remanente distribuible se calculará sumando los ingresos y efectuando las deducciones que correspondan en los términos de las disposiciones de dicho Título II.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-Los integrantes de las personas morales con fines no lucrativos no considerarán como ingresos los reembolsos que éstas les hagan de las aportaciones que hayan efectuado.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-Las personas físicas y las personas morales con fines no lucrativos, integrantes de otras personas morales considerarán percibido el remanente distribuible y, en su caso, el ingreso no acumulable por enajenación de bienes, en el año de calendario en que lo obtenga la persona moral. Tratándose de los integrantes a que se refiere el Título II de esta Ley, considerarán percibido el remanente distribuible y, en su caso, los ingresos señalados en el último párrafo del artículo 15 de esta Ley, en el ejercicio fiscal que corresponda al mes de diciembre del año de calendario en que la persona moral con fines no lucrativos lo obtuvo.
-
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+La denuncia popular podrá ser anónima y se sujetará únicamente a lo dispuesto en la legislación aplicable en materia de responsabilidades administrativas.
 
 ###### ARTICULO 68-A.
 
@@ -1866,99 +1534,23 @@ Las personas morales con fines no lucrativos o las sociedades mercantiles, no ac
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE ABRIL DE 1986)</small>
 
-###### ARTICULO 69.
+###### Artículo 69.
 
-Las personas morales con fines no lucrativos efectuarán pagos provisionales a cuenta del impuesto anual de sus integrantes a más tardar el día 15 de los meses de mayo, septiembre y enero del siguiente año, mediante declaración que presentarán ante las oficinas autorizadas. El pago provisional será el 20% de la diferencia que resulte de disminuir a los ingreso del cuatrimestre anterior, el monto de las deducciones que corresponda conforme al Titulo IV. Para este efecto considerarán, en su caso, tantos salarios mínimos generales de una o varias zonas económicas, como integrantes personas físicas tenga la persona moral. No se efectuará esta deducción por los integrantes que obtengan ingresos en el cuatrimestre de los señalados en el Capítulo I del Título IV de esta Ley.
+Toda denuncia tendrá una respuesta por escrito. Los requisitos que deberán contener las mismas, los términos y los procedimientos se establecerán en el Reglamento de la presente Ley.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+## TÍTULO DÉCIMO. DE LOS PADRONES DE BENEFICIARIOS DE LOS PROGRAMAS DE DESARROLLO SOCIAL
 
-Cuando la actividad de la persona moral de que se trate consista preponderantemente en prestación de servicios personales independientes, para determinar el pago provisional aplicará la tarifa del artículo 86 de esta Ley a la parte que corresponda a cada uno de sus integrantes de la diferencia entre los ingresos y deducciones a que se refiere el párrafo anterior y la suma de los resultados que correspondan a cada uno de ellos, será el pago provisional a efectuar.
+###### Artículo 70.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+Para fomentar la transparencia, la equidad y la eficacia de los programas de desarrollo social, la o el Ejecutivo del Estado y los Ayuntamientos, en sus respectivos ámbitos de competencia, integrarán sus padrones de beneficiarios.
 
-Las personas morales que efectúen pagos por la prestación de servicios personales independientes a las personas señaladas en el párrafo que antecede, o cuando efectúen pagos por la concesión del uso o goce temporal de inmuebles a personas morales con fines no lucrativos, deberán retener como pago provisional el 10% sobre el monto de los mismos, sin deducción alguna, debiendo proporcionar constancia de la retención; dichas retenciones deberán enterarse, en su caso, conjuntamente con las señaladas en el artículo 80 de esta Ley. El impuesto retenido en los términos de este párrafo podrá acreditarse contra los pagos provisionales que deban efectuar las personas morales a las que se les hizo la retención.
+###### Artículo 71.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+El Padrón, es la relación oficial de beneficiarios que incluye a las personas atendidas por los programas de desarrollo social.
 
-Las personas que efectúen las retenciones a que se refiere el párrafo anterior, deberán presentar declaración ante las oficinas autorizadas, en el mes de febrero de cada año, proporcionando la información correspondiente de las personas a las que les hubieran efectuado retenciones en el año de calendario anterior.
+Los padrones deberán ser publicados anualmente en el Periódico Oficial, Órgano del Gobierno del Estado, así como en otros medios de comunicación.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-Las sociedades de inversión efectuarán pagos provisionales en los términos de este artículo pagando por los ingresos por dividendos o utilidades que perciban, el 42% sin deducción alguna.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-Para el efecto de determinar el pago provisional no se incluirán los ingresos provenientes de fuente de riqueza ubicada en el extranjero, ni los ingresos señalados en el artículo 77 de esta Ley, ni los ingresos por enajenación de bienes, dividendos, intereses y premios siempre que, en su caso, el pago correspondiente se efectúe en los términos de los artículos 103, 121, 126 y 130 de esta Ley.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-Quedan relevadas de presentar declaraciones provisionales las personas morales con fines no lucrativos, cuyo remanente distribuible en el año de calendario inmediato anterior no hubiera excedido de cuatro veces el salario mínimo general de la zona económica correspondiente al domicilio de la persona moral, elevado al año, así como las personas morales a que se refieren los artículos 70 y 73 de esta Ley, y las sociedades cooperativas de producción.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-El monto de los pagos provisionales podrá acreditarse por cada integrante, al presentar su declaración anual, en la parte que le corresponda.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-Las sociedades de inversión acreditarán contra el impuesto que deban retener por los dividendos o utilidades que distribuyan a sus integrantes, el que hubieran cubierto como pago provisional en los términos del primer párrafo de este artículo en la proporción que los dividendos o utilidades repartidos representen respecto de los cobrados por la sociedad en el mismo ejercicio.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-Cuando las sociedades cooperativas de producción efectúen pagos a sus miembros por concepto de rendimientos incluyendo los anticipos, deberán cumplir con las obligaciones establecidas en el artículo 83 de esta Ley.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-###### ARTICULO 70.
-
-Los integrantes de las personas morales con fines no lucrativos a que se refiere este artículo, considerarán como remanente distribuible únicamente los ingresos que éstas les entreguen en efectivo o en bienes, siempre que en este último caso, tratándose de personas físicas excedan de la cantidad a que se refiere la fracción XXIV del artículo 77 de esta Ley.
-
-Las personas morales cuyos integrantes gozarán de este beneficio son las siguientes.
-
-I.- Sindicatos obreros y los organismos que los agrupen.
-
-II.- Asociaciones patronales.
-
-III.- Cámaras de Comercio, Industria, Agricultura, Ganadería o Pesca, así como los organismos que las agrupen.
-
-IV.- Colegios de profesionales y los organismos que los agrupen.
-
-V.- Asociaciones, cooperativas, sociedades, uniones o, mutualidades y otros organismos semejantes, en los términos de la Ley Federal de Reforma Agraria, de la Ley General de Crédito Rural y demás ordenamientos aplicables en materia de crédito rural y agrícola.
-
-VI.- Instituciones de asistencia o de beneficencia autorizadas por las leyes de la materia.
-
-VII.- Sociedades cooperativas de consumo.
-
-VIII.- Organismos que conforme a la Ley agrupen, a las sociedades cooperativas, ya sea de productores o de consumo.
-
-IX.- Sociedades mutualistas que no operen con terceros, siempre que no realicen gastos para la adquisición de negocios, tales como premios, comisiones y otros semejantes.
-
-X.- Sociedades o asociaciones de carácter civil que se dediquen a la enseñanza, con autorización o con reconocimiento de validez oficial de estudios en los términos de la Ley Federal de Educación.
-
-XI.- Asociaciones o sociedades civiles organizadas con fines científicos, políticos, religiosos, culturales o deportivos.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-XII.- Las instituciones o sociedades civiles constituidas únicamente con el objeto de administrar fondos o cajas de ahorro.
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-XIII.- Asociaciones de padres de familia constituidas y registradas en los términos del Reglamento de Asociaciones de Padres de Familia de la Ley Federal de Educación.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-Las personas morales a que se refieren las fracciones V, VI, VII, IX, X y XI de este artículo considerarán remanente distribuible, aún cuando no lo hayan entregado en efectivo o en bienes a sus integrantes o socios, el importe de las omisiones de ingresos o las compras no realizadas e indebidamente registradas, las erogaciones que efectúen y no sean deducibles en los términos de esta Ley y beneficien a sus integrantes, los préstamos que hagan a sus socios o integrantes o a los cónyuges, ascendientes o descendientes en línea recta de dichos socios o integrantes, con excepción de aquéllos que reúnan los requisitos señalados en la fracción IV del artículo 120 de esta Ley. Tratándose de préstamos que en los términos de este párrafo se consideren remanente distribuible, su importe se disminuirá de los remanentes distribuibles que la persona moral distribuya a sus socios o integrantes.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-En el caso de que se determine remanente distribuible en los términos del párrafo anterior, la persona moral de que se trate deberá hacer la retención del impuesto aplicando la tasa del 55% sobre dicho remanente distribuible.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-###### ARTICULO 71.
-
-En el caso de sociedades cooperativas de producción, los ingresos que de las mismas perciban sus socios se asimilarán a ingresos por salarios en los términos del Capítulo I del Título IV de esta Ley. Los ingresos en crédito que obtengan los cooperativistas se declararán y se calculará el impuesto que les corresponda hasta el año de calendario en que sean cobrados.
-
-> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+Los Ayuntamientos deberán difundir masivamente dicha información, además de colocar reproducciones impresas en lugares visibles de los principales edificios públicos del municipio correspondiente.
 
 ###### ARTICULO 71-A.
 
@@ -1974,99 +1566,29 @@ No serán ingresos acumulables para los integrantes personas físicas de las soc
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
-###### ARTICULO 72.
+###### Artículo 72.
 
-Las personas morales con fines no lucrativos además de las obligaciones establecidas en otros artículos de esta Ley, tendrán las siguientes:
+La o el Ejecutivo del Estado y los Ayuntamientos, deberán mantener los padrones actualizados.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+###### Artículo 73.
 
-I.- Llevar sistemas contables de conformidad con el Código Fiscal de la Federación, su reglamento y el reglamento de esta Ley y efectuar registros en los mismos.
+Los padrones serán integrados, coordinados y actualizados por la Secretaría y los Ayuntamientos, según corresponda.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+La o el Ejecutivo del Estado a través de la Secretaría y los Ayuntamientos por conducto de la dependencia competente, darán a conocer y publicarán anualmente en el Periódico Oficial, Órgano del Gobierno del Estado, los lineamientos generales para la integración y actualización del Padrón.
 
-II.- Expedir comprobantes que acrediten las enajenaciones que efectúen, los servicios que presten o el otorgamiento del uso o goce temporal de bienes y conservar una copia de los mismos a disposición de la Secretaría de Hacienda y Crédito Público, los que deberán reunir los requisitos que fijen las disposiciones fiscales respectivas.
+TÍTULO DECIMOPRIMERO
 
-III.- Presentar en las oficinas autorizadas en el mes de marzo de cada año, declaración en la que se determine el remanente distribuible, el ingreso no acumulable por enajenación de bienes, la proporción que de estos conceptos corresponda a cada integrante y las bases para determinar la participación en el siguiente año de calendario; cuando hubiere modificación a las bases, éstas se harán del conocimiento de las autoridades fiscales dentro de los quince días siguientes a la fecha en que se acuerden. Con esta declaración en su caso, se pagará el impuesto a que se refiere el artículo 153 de esta Ley.
+## TÍTULO QUINTO. DE LA PLANEACIÓN DEL DESARROLLO SOCIAL EN EL ESTADO
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+###### Artículo 74.
 
-Cuando los integrantes sean contribuyentes en los términos del Título II de esta Ley, en la declaración se deberá considerar, además, la parte proporcional que les corresponda de los ingresos que no se hayan considerado para determinar el remanente distribuible a excepción de los señalados en el último párrafo del artículo 15 de esta Ley, así como la parte proporcional del impuesto que se haya pagado por dichos ingresos.
+La evaluación de la política estatal de desarrollo social, estará a cargo del Consejo Estatal y tiene por objeto, revisar periódicamente el cumplimiento de los planes, programas y acciones de la política estatal de desarrollo social, para subsanarlos, modificarlos, adicionarlos o reorientarlos.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2013)</small>
 
-Asimismo, deberán presentar en el mes de febrero de cada año ante las oficinas autorizadas, declaración en la que proporcionen información de las operaciones efectuadas en el año de calendario anterior, con los cincuenta principales clientes y con los cincuenta principales proveedores. Deberán proporcionar, además, en su caso, información de las personas a las que les hubieran efectuado retenciones de impuesto sobre la renta en el mismo año de calendario.
+La evaluación se llevará a cabo de conformidad a las disposiciones que emita la Unidad de Planeación del Titular del Poder Ejecutivo.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-Cuando la persona moral de que se trate lleve su contabilidad mediante el sistema de registro electrónico, la información a que se refiere el párrafo anterior deberá proporcionarse en dispositivos magnéticos procesados en los términos que señale la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general. Dichos dispositivos serán devueltos al contribuyente por las autoridades fiscales dentro de los seis meses siguientes a su presentación. Tratándose de las personas morales a que se refiere este Título, que lleven su contabilidad mediante sistema manual o mecanizado o cuando su equipo de cómputo no pueda procesar los dispositivos en los términos señalados por la mencionada Secretaría, la información deberá proporcionarse en las formas que al efecto apruebe dicha dependencia.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-Tratándose de las declaraciones a que se refieren los artículos 69 cuarto párrafo, 83 fracción V, 86 último párrafo, 92 tercer párrafo y 123 fracción III de esta Ley, la información sobre las retenciones efectuadas y las personas a las cuales las hicieron, deberá proporcionarse también en dispositivos magnéticos procesados en los términos del párrafo anterior.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-IV.- Proporcionar a sus integrantes, constancia en la que se señale el monto del remanente distribuible, del ingreso no acumulable por enajenación de bienes que a cada uno de ellos corresponda y del monto de los pagos provisionales acreditables. La constancia deberá proporcionarse a más tardar en el mes de febrero del siguiente año.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-Cuando los integrantes sean contribuyentes en los términos del Título II de esta Ley, la constancia deberá señalar, además de los datos a que se refiere el párrafo anterior, la parte proporcional que les corresponda de aquellos ingresos que no se hayan considerado para determinar el remanente distribuible, a excepción de los señalados en el último párrafo del artículo 15 de esta Ley, así como la parte proporcional del impuesto que se haya pagado por dichos ingresos.
-
-V.- Retener y enterar el impuesto y exigir documentación que reúna requisitos fiscales, cuando hagan pagos a terceros y estén obligados a ello en los términos de esta Ley.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-Quedan relevadas de cumplir con las obligaciones establecidas en las fracciones I y II de este artículo, los sindicatos obreros y los organismos que los agrupen; excepto por aquellas actividades que de realizarse por otra persona quedarían comprendidas en el artículo 16 del Código Fiscal de la Federación. Asimismo quedan relevadas de cumplir con las obligaciones a que se refieren las fracciones III y IV de este artículo las personas señaladas en el artículo 70 de esta Ley que no determinen remanente distribuible.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-Tratándose de las personas a que se refieren las fracciones V a XII del citado artículo, presentarán declaración anual en la que informarán a la Secretaría de Hacienda y Crédito Público, de los ingresos obtenidos y de las erogaciones efectuadas. Dicha declaración deberá presentarse a más tardar en el mes de marzo de cada año.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-Cuando se disuelva una persona moral con fines no lucrativos, las obligaciones a que se refieren las fracciones III y IV y el antepenúltimo párrafo de este artículo, se deberán cumplir dentro de los tres meses siguientes a la disolución.
-
-###### ARTICULO 73.
-
-Los partidos y asociaciones políticas y legalmente reconocidos, sólo tendrán las obligaciones de retener y enterar el impuesto y exigir documentación que reúna requisitos fiscales, cuando hagan pagos a terceros y estén obligados a ello en términos de Ley. A sus miembros se les dará el tratamiento contenido en el primer párrafo del artículo 70 de esta Ley.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-La Federación, los Estados, los Municipios y los organismos descentralizados cuyas actividades no sean preponderantemente empresariales, que a éstos pertenezcan sólo tendrán las obligaciones a que se refiere el primer párrafo de este artículo.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-Quedan comprendidos en el párrafo anterior los organismos descentralizados que se dedican preponderantemente a la prestación de servicios públicos, con excepción de bancos.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-Las personas a que se refiere este artículo y las señaladas en el artículo 70 de esta Ley, serán contribuyentes del impuesto sobre la renta cuando perciban ingresos por concepto de dividendos o utilidades pagados por sociedades residentes en el país. En estos casos la retención que se les efectúe en los términos del artículo 123 fracción II de esta Ley, tendrá el carácter de pago definitivo.
-
-## TITULO V
-
-De los residentes en el extranjero con ingresos provenientes de fuente de riqueza ubicada en territorio Nacional.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-###### ARTICULO 74.
-
-Están obligadas al pago del impuesto establecido en este Título, las personas físicas residentes en México que obtengan ingresos en efectivo, en bienes o en crédito, así como por los ingresos en servicio en los casos que señale esta Ley. También están obligadas al pago del impuesto las personas físicas residentes en el extranjero que realicen actividades empresariales en el país a través de un establecimiento permanente, por los ingresos atribuibles a dicho establecimiento.
-
-No se consideran ingresos obtenidos por los contribuyentes, los rendimientos de bienes entregados en fideicomiso, en tanto dichos rendimientos únicamente se destinen a fines científicos, políticos o religiosos o a los establecimientos de enseñanza y a las instituciones de asistencia o de beneficencia, señalados en la fracción IV del artículo 140 de esta Ley.
-
-Cuando las personas tengan deudas o créditos en moneda extranjera y obtengan utilidades derivadas de la fluctuación de dichas monedas, considerarán como ingresos dichas utilidades, al cumplirse las deudas o satisfacerse los créditos, en el año de calendario en que esto ocurra.
-
-Se consideran ingresos obtenidos por las personas físicas los que les correspondan conforme al Título III de esta Ley. en este caso los pagos provisionales se harán en los términos de dicho Título, a excepción de los ingresos a que se refieren los Capítulos IV, VII, VIII y IX de este Título, en que se estará a lo dispuesto en los mismos.
-
-Tratándose de ingresos provenientes de fuente de riqueza ubicada en el extranjero, los contribuyentes no los considerarán para los efectos de pagos provisionales de este impuesto, salvo lo previsto en el artículo 80 de esta Ley.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-Cuando los ingresos a que se refieren los Capítulos VIII y IX de este Título, los reciban los contribuyentes señalados en el Título II o las personas morales con fines no lucrativos mencionadas en las fracciones I a XIII del artículo 70 y en el artículo 73, de la propia Ley, no se efectuará la retención del impuesto señalada en los Capítulos de referencia.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-Las personas físicas residentes en el país que cambien su residencia durante un año de calendario a otro país, considerarán los pagos provisionales efectuados como pago definitivo del impuesto y no podrán presentar declaración anual.
+Artículos 75.- El Consejo Estatal podrá emitir convocatorias para que organismos evaluadores independientes, que podrán ser instituciones de educación superior, de investigación científica u organizaciones de la sociedad civil, evalúen la política estatal de desarrollo social.
 
 ###### ARTICULO 75.
 
@@ -2082,171 +1604,49 @@ IV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1982)
 
 Cuando el contribuyente no presente declaración anual estando obligado a ello, se aplicará este precepto como si la hubiera presentado sin ingresos.
 
-###### ARTICULO 76.
+###### Artículo 76.
 
-Cuando los ingresos de las personas físicas deriven de bienes en copropiedad, deberá designarse a uno de los copropietarios como representante común, el cual deberá llevar los libros, expedir y recabar la documentación que determinen las disposiciones fiscales, conservar los libros y documentación referidos y cumplir con las obligaciones en materia de retención de impuestos a que se refiere esta Ley.
+Los programas sociales deberán incluir los indicadores de resultados, de gestión y de servicios, para medir su cobertura, calidad e impacto. Las dependencias y entidades estatales y municipales, deberán proporcionar toda la información y las facilidades para la realización de las evaluaciones.
 
-Cuando dos o más contribuyentes sean copropietarios de una negociación, se estará a lo dispuesto en el artículo 113.
+Los indicadores de resultados deberán reflejar el cumplimiento de los objetivos y metas de los programas de desarrollo social.
 
-Los copropietarios responderán solidariamente por el incumplimiento del representante común.
+###### Artículo 77.
 
-Lo dispuesto en los párrafos anteriores es aplicable a los integrantes de la sociedad conyugal.
+Los indicadores de resultados deberán contener, entre otros, los siguientes apartados:
 
-El representante legal de la sucesión pagará en cada año de calendario el impuesto por cuenta de los herederos o legatarios, considerando el ingreso en forma conjunta, hasta que se haya dado por finalizada la liquidación de la sucesión. El pago efectuado en esta forma se considerará como definitivo, salvo que los herederos o legatarios opten por acumular los ingresos respectivos que les correspondan, en cuyo caso podrán acreditar la parte proporcional de impuesto pagado.
+I. Cumplimiento de los objetivos;
 
-###### ARTICULO 77.
+II. Cumplimiento de los principios de la política estatal de desarrollo social;
 
-No se pagará el impuesto sobre la renta por la obtención de los siguientes ingresos:
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+III. Cobertura y número de beneficiarios, clasificando mujeres en situación de vulnerabilidad;
 
-I.- Las remuneraciones por concepto de tiempo extraordinario hasta el límite establecido en la Ley Federal del Trabajo, así como las prestaciones distintas del salario, que reciban los trabajadores de salario mínimo general para una o varias zonas económicas, calculadas sobre la base de dicho salario, cuando no excedan de los mínimos señalados por la legislación laboral. Por el excedente se pagará el impuesto en los términos de este Título.
+IV. Procedimientos debidamente documentados;
 
-II.- Las indemnizaciones por riesgos o enfermedades, que se concedan de acuerdo con las leyes o contratos de trabajo respectivos.
+V. Presupuesto destinado;
 
-III.- Las jubilaciones, pensiones y haberes de retiro, en los casos de invalidez, cesantía, vejez, retiro y muerte, cuyo monto diario no exceda de nueve veces el salario mínimo general de la zona económica del contribuyente. Por el excedente se pagará el impuesto en los términos de este Título.
+VI. Impacto social y beneficio;
 
-IV.- Los percibidos con motivo del reembolso de gastos médicos, dentales, hospitalarios y de funeral, que se concedan de manera general, de acuerdo con las leyes o contratos de trabajo.
+VII. Calidad en los servicios;
 
-V.- Las prestaciones de seguridad social que otorguen las instituciones públicas.
+VIII. Conocimiento de la población de los programas de desarrollo social;
 
-VI.- Los percibidos con motivo de subsidio por Incapacidad, becas educacionales para los trabajadores o sus hijos, guarderías infantiles, actividades culturales y deportivas, y otras prestaciones de previsión social, de naturaleza análoga, que se concedan de manera general, de acuerdo con las leyes o por contratos de trabajo.
+IX. Mejora en la calidad de vida de las familias;
 
-VII.- La entrega de los depósitos constituídos en el Instituto del Fondo Nacional de la Vivienda para los Trabajadores o en los demás institutos de seguridad social, en términos de Ley, así como las casas habitación proporcionadas a los trabajadores, inclusive por las empresas cuando se reúnan los requisitos de deducibilidad del Título II o, en su caso, de este Título.
+X. Oportunidad de acceso a los programas de desarrollo social;
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+XI. Disminución de los índices de marginación;
 
-VIII.- Los provenientes de cajas de ahorro de trabajadores y de fondos de ahorro establecidos por las empresas cuando reúnan los requisitos de deducibilidad del Título II o, en su caso, de este Título; así como por los ingresos a que se refiere el artículo 78-A de este ordenamiento cuando se trate de préstamos concedidos de manera general a los trabajadores sindicalizados comprendidos en los Apartados A y B del artículo 123 Constitucional, incluyendo a los Trabajadores al Servicio de los Estados y de los Municipios.
+XII. Opinión de las o los beneficiados, y
 
-IX.- La cuota de seguridad social de los trabajadores pagada por los patrones.
+XIII. Las demás que sean necesarias para el cumplimiento de la presente Ley.
 
-X.- Los que obtengan las personas que han estado sujetas a una relación laboral, en el momento de su separación, por concepto de primas de antigüedad, retiro e indemnizaciones u otros pagos, hasta por el equivalente a noventa veces el salario mínimo general de la zona económica del contribuyente por cada año de servicio. Los años de servicio serán los que se hubieran considerado para el cálculo de los conceptos mencionados. Toda fracción de más de seis meses se considerará un año completo. Por el excedente se pagará el impuesto en los términos de este Título.
+### Capítulo I. De los Recursos para el Desarrollo Social
 
-XI.- Las gratificaciones que reciban los trabajadores de sus patrones, durante un año de calendario, hasta el equivalente del salario mínimo general de la zona económica del trabajador elevado a 30 días, cuando dichas gratificaciones se otorguen en forma general, pagando por el excedente el impuesto en los términos de este Título.
+###### Artículo 78.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-XII.- Las remuneraciones por servicios personales subordinados que perciban los extranjeros, en los siguientes casos:
-
-a) Los agentes diplomáticos.
-
-b) Los agentes consulares, en el ejercicio de sus funciones, en casos de reciprocidad.
-
-c) Los empleados de embajadas, legaciones y consulados extranjeros, que sean nacionales de los países representados, siempre que exista reciprocidad.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-d).- Los miembros de delegaciones oficiales, en caso de reciprocidad, cuando representen países extranjeros.
-
-e) Los miembros de delegaciones científicas y humanitarias.
-
-f) Los representantes, funcionarios y empleados de los organismos internacionales con sede u oficina en México, cuando así lo establezcan los tratados o convenios.
-
-g) Los técnicos extranjeros contratados por el Gobierno Federal, cuando así se prevea en los acuerdos concertados entre México y el país de que dependan.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-XIII.- Los percibidos para gastos de representación y viáticos, cuando sean ofectivamente (sic) derogados en servicio del patrón y se compruebe esta circunstancia con documentación de terceros que reúnan los requisitos fiscales.
-
-XIV.- Los que provengan de contratos de arrendamiento prorrogados por disposición de Ley (rentas congeladas).
-
-XV.- Los derivados de la enajenación de casa habitación siempre que se reúnan los siguientes requisitos:
-
-a) Que el contribuyente haya habitado el inmueble cuando menos los dos últimos años anteriores a la enajenación.
-
-b) Que el importe de la enajenación se invierta en territorio nacional, dentro del año siguiente, en la adquisición o construcción de casas habitación de su propiedad, en la que establezca su domicilio o destine para arrendamiento, siempre que en este último caso se encuentren ubicadas dentro de las zonas de desarrollo que señala el reglamento de esta Ley. Si sólo se invierte parte del importe obtenido, por la parte proporcional no invertida se pagará el impuesto en los términos de este Título.
-
-Para que no se esté obligado a pagar el impuesto por los ingresos a que se refiere esta fracción o para que se amplíe el plazo de inversión a 2 años, se deberá cumplir con los requisitos que señale el reglamento de esta Ley. Tampoco se estará obligado al pago del impuesto cuando el contribuyente invierta el importe de la enajenación para pagar deudas contraídas en la adquisición de casas habitación que reúnan los requisitos señalados en el párrafo anterior, siempre que la adquisición se hubiere efectuado dentro del año inmediato anterior a la fecha de la enajenación.
-
-XVI.- Los obtenidos con motivo de la enajenación de títulos valor, cuando la operación se realice en el país a través de bolsa de valores autorizada y siempre que dichos valores sean de los que se coloquen entre el gran público inversionista, conforme a las reglas generales que al efecto expida la Secretaría de Hacienda y Crédito Público.
-
-XVII.- Los provenientes de la enajenación de bienes muebles, excluyendo las partes sociales, los títulos valor y las inversiones del contribuyente cuando en un año de calendario la diferencia entre el total de la enajenación y el costo comprobado de las adquisiciones, no exceda de tres veces el salario mínimo general de la zona económica del contribuyente elevado al año. Por la utilidad que exceda se pagará el impuesto en los términos de este Titulo.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-XVIII.- Los que obtengan los ejidatarios y comuneros, por la producción agropecuaria, silvícola o pesquera y en caso de los que perciban los pequeños propietarios, colonos y nacionaleros con predios rurales que no excedan de la unidad de dotación ejidal, por su producción mixta agropecuaria, silvícola o pesquera, en la que la actividad agrícola represente la mayoría del ingreso, cuando los perciban como miembros de asociaciones, cooperativas, sociedades, uniones, mutualidades u otros organismos semejantes, en los términos del (sic) Ley Federal de Reforma Agraria, de la Ley General de Crédito Rural y demás ordenamientos aplicables en materia de crédito rural y agrícola
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-XIX.- Los intereses pagados por instituciones de crédito, siempre que los mismos correspondan a depósitos de ahorro efectuados por un monto que no exceda del equivalente al doble del salario mínimo general de la zona económica del Distrito Federal, elevado al año, y la tasa de interés pagada no sea mayor que la que fije anualmente el Congreso de la Unión.
-
-XX.- Los intereses recibidos por bonos y obligaciones que emitan instituciones de crédito internacionales, de las que forme parte el gobierno mexicano o alguna institución nacional de crédito.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-XXI.- Los intereses provenientes de bonos emitidos por el Gobierno Federal o por sus agentes financieros, en moneda, extranjera, en los que se establezca la franquicia de este impuesto, así como los intereses provenientes de certificados de tesorería que el mismo emita.
-
-XXII.- Las cantidades que paguen las instituciones de seguros a los asegurados y beneficiarios con motivo de pólizas contratadas, siempre que no se trate de seguros relacionados con bienes de activo fijo.
-
-XXIII.- Los que se reciban por herencia o legado.
-
-XXIV.- Los que se reciban como donativos:
-
-a) Entre cónyuges o entre ascendientes y descendientes en línea recta, cualquiera que sea su monto.
-
-b) Los demás donativos, siempre que el valor total de los recibidos en un año de calendario no exceda de tres veces el salario mínimo general de la zona económica del contribuyente elevado al año. Por el excedente se pagará impuesto en los términos de este Título.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-Para los efectos del inciso b) de esta fracción, se considerará donativo, el remanente distribuible en bienes que se obtenga de las personas morales a que se refieren los artículos 70 y 73 de esta Ley. Lo dispuesto en este párrafo no será aplicable a los integrantes de sociedades cooperativas.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-XXV.- Los que se obtengan por concepto de loterías, rifas, sorteos o concursos, a que se refiere el Capítulo IX de esta Ley, siempre que el valor de cada premio no exceda de $500.00, así como los premios obtenidos con motivo de un concurso científico, artístico o literario, abierto al público en general o bien a determinado gremio o grupo de profesionales.
-
-XXVI.- Las indemnizaciones por daños que no excedan al valor de mercado del bien de que se trate.
-
-Por el excedente se pagará el impuesto en los términos de este Título.
-
-XXVII.- Los percibidos en concepto de alimentos en los términos de Ley.
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-XXVIII.- Los derivados de regalías que perciban los autores por permitir a terceros el uso o la explotación de los derechos de autor respecto de obras musicales y literarias incluyendo las técnicas, científicas y en general todas las obras escritas, por las que ya se haya pagado el derecho por registro de autores y que estén registradas en México ante la autoridad competente, salvo en los siguientes casos:
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-XXIX.- Los impuestos que se trasladen por el contribuyente en los términos de ley.
-
-Lo dispuesto en las fracciones XVI, XVII, XXII y XXVI de este artículo, no será aplicable tratándose de ingresos por las actividades empresariales a que se refiere el Capítulo VI de este Título.
-
-No se podrán hacer deducciones que correspondan a aquellos ingresos por los que no se está obligado al pago del impuesto en los términos de este artículo.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-La exención contenida en la fracción VI de este artículo se limitará cuando la suma de los ingresos por la prestación de servicios personales subordinados y el monto de esta exención exceda de una cantidad equivalente a siete veces el salario mínimo general de la zona económica del contribuyente, elevado al año; cuando dicha suma exceda de la cantidad citada, solamente se considerará como ingreso no sujeto al pago del impuesto por los conceptos mencionados en la fracción de referencia, un monto hasta de un salario mínimo general de la zona económica del contribuyente, elevado al año. Esta limitación en ningún caso deberá dar como resultado que la suma de los ingresos por la prestación de servicios personales subordinados y el importe de la exención prevista en la fracción citada, sea inferior a siete veces el salario mínimo general de la zona económica del contribuyente, elevado al año.
-
-### CAPITULO I. DE LOS INGRESOS POR SALARIOS Y EN GENERAL POR LA PRESTACION DE UN SERVICIO PERSONAL SUBORDINADO
-
-###### ARTICULO 78.
-
-Se consideran ingresos por la prestación de un servicio personal subordinado, los salarios y demás prestaciones que deriven de una relación laboral, incluyendo la participación de los trabajadores en las utilidades de las empresas y las prestaciones percibidas como consecuencia de la terminación de la relación laboral. Para los efectos de este impuesto se asimilan a estos ingresos los siguientes.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-I.- Las remuneraciones y demás prestaciones, obtenidas por los funcionarios y trabajadores de la Federación, las entidades federativas y los municipios, aun cuando sean por concepto de gastos no sujetos a comprobación, así como los obtenidos por los miembros de las fuerzas armadas.
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-II.- Los rendimientos que obtengan los miembros de las sociedades cooperativas de producción, incluyendo los anticipos.
-
-III.- Los honorarios a miembros de consejos directivos, de vigilancia, consultivos o de cualquier otra índole, así como los honorarios a administradores, comisarios y gerentes generales.
-
-IV.- Los honorarios a personas que presten servicios preponderantemente a un prestatario, siempre que los mismos se lleven a cabo en las instalaciones de este último.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-Para los efectos del párrafo anterior se entiende que una persona presta servicios preponderantemente a un prestatario, cuando los ingresos que hubiera percibido de dicho prestatario en el año de calendario inmediato anterior, representen más del 50% del total de los obtenidos por los conceptos a que se refiere el artículo 84 de esta Ley.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-Antes de que se efectúe el primer pago de honorarios en el año de calendario de que se trate, las personas a que se refiere esta fracción deberán comunicar por escrito al prestatario en cuyas instalaciones se realice la prestación del servicio, si los ingresos que obtuvieron de dicho prestatario en el año inmediato anterior excedieron del 50% del total de los percibidos en dicho año de calendario por los conceptos a que se refiere el artículo 84 de esta Ley. En su caso de que se omita dicha comunicación, el prestatario estará obligado a efectuar las retenciones correspondientes.
-
-Se estima que estos ingresos los obtiene en su totalidad quien realiza el trabajo. Para los efectos de este Capítulo, los ingresos en crédito se declararán y se calculará el impuesto que les corresponda hasta el año de calendario en que sean cobrados.
-
-No se considerarán ingresos en bienes, los servicios de comedor y comida proporcionados a los trabajadores; así como el uso de bienes que el patrón proporcione a los trabajadores para el desempeño de las actividades propias de éstos y que estén de acuerdo con la naturaleza del trabajo prestado.
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+El Consejo Estatal es el órgano facultado para aprobar los indicadores a que se refieren los artículos anteriores.
 
 ###### ARTICULO 78-A.
 
@@ -2254,127 +1654,111 @@ Para los efectos de este Capítulo se consideran ingresos en servicios por la pr
 
 Los ingresos a que se refiere este artículo se consideran obtenidos mensualmente y se determinarán aplicando al total del préstamo, disminuido con la parte que del mismo se haya reembolsado, la tasa que resulte conforme al párrafo anterior en la parte que corresponda al mes de que se trate.
 
-###### ARTICULO 79.
+###### Artículo 79.
 
-Cuando se obtengan ingresos por concepto de primas de antigüedad, retiro e indemnizaciones u otros pagos, por separación, se calculará el impuesto anual, conforme a las siguientes reglas:
+Las evaluaciones a que se refiere el presente Capítulo, se realizarán en dos etapas:
 
-I.- Del total de percepciones por este concepto, se separará una cantidad igual al último sueldo mensual ordinario, la cual se sumará a los demás ingresos por los que se deba pagar el impuesto en el año de calendario de que se trate y se calculará, en los términos de este Título, el impuesto correspondiente a dichos ingresos. Cuando el total de las percepciones sean inferiores al último sueldo mensual ordinario, éstas se sumarán en su totalidad a los demás ingresos por los que se deba pagar el impuesto y no se aplicará la fracción II de este artículo.
+I. La primera etapa, corresponderá a los nueve meses iniciales del ejercicio fiscal que corresponda, sus resultados servirán de base para la programación y presupuestación del ejercicio fiscal siguiente, así como para el mejoramiento de los programas de desarrollo social y la determinación de las zonas de atención prioritaria, y
 
-II.- Al total de percepciones por este concepto se restará una cantidad igual al último sueldo mensual ordinario y al resultado se aplicará la tasa que correspondió al impuesto que señala la fracción anterior. El impuesto que resulte se sumará al calculado conforme a la fracción que antecede.
+II. La segunda etapa abarcará el ejercicio completo y sus resultados serán complementarios para la programación y presupuestación de los siguientes ejercicios fiscales.
 
-La Tasa a que se refiere la fracción II se calculará dividiendo el impuesto señalado en la fracción I entre la cantidad a la cual se le aplicó la tarifa del artículo 141; el cociente se multiplica por cien y el producto se expresa en porciento.
+###### Artículo 80.
 
-###### ARTICULO 80.
+Los resultados de las evaluaciones serán publicados en el Periódico Oficial, Órgano del Gobierno del Estado y deberán ser entregados a la Legislatura del Estado, a la Secretaría y al Consejo Estatal.
 
-Quienes hagan pagos por los conceptos a que se refiere este Capítulo están obligados a efectuar retenciones y enteros mensuales que tendrán el carácter de pagos provisionales a cuenta del impuesto anual.
+###### Artículo 81.
 
-La retención se calculará deduciendo de la totalidad de ingresos obtenidos en un mes de calendario, el salario mínimo general de la zona económica del contribuyente multiplicado por el número de días a que corresponda el pago, y aplicándole al resultado la siguiente:
+El Consejo Estatal, de acuerdo al resultado de las evaluaciones, podrá emitir sugerencias y recomendaciones a las dependencias y entidades estatales y municipales relacionadas con el desarrollo social.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+TÍTULO DECIMOSEGUNDO
 
-TARIFA
+DE LAS ZONAS DE ATENCIÓN PRIORITARIA
 
-(VEASE TABLA ANEXA)
+###### Artículo 82.
 
-Quienes hagan pagos por concepto de gratificación anual, participación de utilidades, primas dominicales y primas vacacionales, podrán efectuar la retención del impuesto de conformidad con las reglas que al efecto dicte la Secretaría de Hacienda y Crédito Público; en dichas reglas se preverá que la retención se pueda hacer sobre los demás ingresos obtenidos durante el año de calendario.
+Se consideran zonas de atención prioritaria, las comunidades, pueblos o regiones, sean de carácter predominantemente rural o urbano, cuya población registre índices de pobreza, marginación indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos para el desarrollo social establecidos en esta Ley. Su determinación se orientará por los criterios de resultados que para el efecto defina el Consejo Estatal y deberá, en todo tiempo, promover la eficacia cuantitativa y cualitativa de los ejecutores de la política estatal de desarrollo social.
 
-Quienes hagan las retenciones podrán optar por considerar en vez del salario mínimo general de la zona económica del contribuyente calculado al mes, la cuota diaria de este mismo salario multiplicado por 30.4, respecto de los trabajadores que obtengan ingresos superiores al mínimo y su pago corresponda a todo un mes.
+TÍTULO DECIMOTERCERO
 
-Tratándose de honorarios a miembros de consejos directivos, de vigilancia, consultivos o de cualquier otra índole, así como de los honorarios a administradores, comisarios y gerentes generales, la retención y entero a que se refiere este artículo, no podrá ser inferior al 30% sobre su monto, salvo que exista, además, relación de trabajo con el retenedor en cuyo caso se procederá en los términos del párrafo segundo de este artículo.
+DE LA DEFINICIÓN Y MEDICIÓN DE LA POBREZA
 
-Las personas que hagan pagos por los conceptos a que se refiere el artículo 79, efectuarán la retención aplicando al ingreso total por este concepto, una tasa que se calculará dividiendo el impuesto correspondiente al último sueldo mensual ordinario, entre dicho sueldo, el cociente se multiplicará por cien y el producto se expresará en por ciento. Cuando los pagos por estos conceptos sean inferiores el último sueldo mensual ordinario, la retención se calculará aplicándole la tarifa de este artículo.
+###### Artículo 83.
 
-> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1986)</small>
+Los lineamientos y criterios que establezca el Consejo Estatal para la definición, identificación y medición de la pobreza, son de aplicación obligatoria para las dependencias y entidades de la administración pública que participen en la ejecución de los programas de desarrollo social, y deberán utilizar la información estadística e indicadores que genere el Instituto Nacional de Estadística y Geografía y la Secretaría, independientemente de otros datos que se estime conveniente y contendrán al menos los siguientes indicadores:
 
-Las personas morales a que se refiere el Título II de esta Ley obligadas a efectuar pagos provisionales en los términos del artículo 69 de esta misma Ley y las personas físicas, enterarán bimestralmente las retenciones a que se refiere este artículo a más tardar el día 15 de los meses de marzo, mayo, julio, septiembre, noviembre y enero del siguiente año, mediante declaración que presentarán ante las oficinas autorizadas.
+I. Ingreso corriente per cápita;
 
-> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1986)</small>
+II. Rezago educativo promedio en el hogar;
 
-Los contribuyentes que presenten servicios subordinados a personas no obligadas a efectuar la retención, de conformidad con el párrafo final del artículo 83 de esta Ley, y los que obtengan ingresos provenientes del extranjero por estos conceptos, calcularán su pago provisional en los términos de este concepto y lo enterarán bimestralmente a más tardar el día 15 de los meses de marzo, mayo, julio, septiembre, noviembre y enero del siguiente año, mediante declaración que presentarán ante las oficinas autorizadas.
+III. Acceso a los servicios de salud;
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+IV. Acceso a la seguridad social;
 
-Tratándose de contribuyentes con ingresos mensuales superiores a una cantidad equivalente a siete veces el salario mínimo general de la zona económica del contribuyente, elevado al mes, que además obtengan ingresos de los señalados en la fracción VI del artículo 77 de esta Ley, se efectuará la retención correspondiente a estos últimos ingresos, siempre que los obtenidos en un mes excedan del salario mínimo general de la zona económica del contribuyente, elevado al mes. En todo caso, en la determinación anual del impuesto se harán los ajustes que correspondan, tomando en cuenta lo dispuesto en el último párrafo del artículo citado.
+V. Calidad y espacios de la vivienda;
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+VI. Acceso a los servicios básicos en la vivienda;
 
-Quienes concedan los préstamos a que se refiere el artículo 78-A de esta Ley, deberán efectuar las retenciones de impuesto que correspondan por los ingresos que derivan de dichos préstamos, sobre los pagos en efectivo que por salarios hagan a la persona de que se trate.
+VII. Acceso a la alimentación, y
 
-###### ARTICULO 81.
+VIII. Grado de cohesión social.
 
-Las personas obligadas a efectuar retenciones en los términos del artículo anterior, calcularán cada año el impuesto anual de cada una de las personas que les hubieren prestado servicios personales subordinados.
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2015)</small>
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+IX. El grado de accesibilidad a carretera pavimentada.
 
-El impuesto anual se determinará restando de la totalidad de los ingresos obtenidos en un año de calendario, por los conceptos a que se refiere este Capítulo, el salario mínimo general de la zona económica del contribuyente elevado al año, y aplicándole al resultado la tarifa del artículo 141. Al impuesto se le restará el importe de los pagos provisionales efectuados y la diferencia que resulte a cargo del contribuyente se enterará a más tardar en el mes de febrero siguiente al año de calendario de que se trate, ante las oficinas autorizadas. Las diferencias que resulten a favor de cada contribuyente deberán ser compensadas en la retención del mes de diciembre y en las retenciones sucesivas, a más tardar dentro del año calendario posterior. El contribuyente podrá solicitar a las autoridades fiscales la devolución de las cantidades no compensadas.
+TÍTULO DECIMOCUARTO
 
-No se hará el cálculo del impuesto anual en los siguientes casos:
+DE LAS RESPONSABILIDADES
 
-I.- Cuando se trate de contribuyentes que hayan dejado de prestar servicios antes del 1o. de diciembre del año de que se trate.
+### Capítulo II. Del Fomento a las Actividades Productivas relacionadas con el Sector Social de la Economía
 
-II.- A quienes únicamente hayan devengado un salario mínimo general de la zona económica del contribuyente elevado al año.
+###### Artículo 84.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+Las infracciones a la presente Ley serán sancionadas de conformidad con lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas y los demás ordenamientos aplicables en materia.
 
-III.- A quienes hayan obtenido ingresos anuales por los conceptos a que se refiere este Capítulo que excedan de una cantidad equivalente a cinco veces el salario mínimo general que corresponda a la zona económica del Distrito Federal, elevado al año.
+T R A N S I T O R I O S
 
-IV.- A quienes comuniquen por escrito al retenedor que presentarán declaración anual.
+Artículo primero.- La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
-Para determinar la zona económica del contribuyente se atenderá al lugar donde se encuentre su casa-habitación al 31 de diciembre del año de que se trate, o al último día de trabajo, cuando haya dejado de prestar servicios durante el mes de diciembre.
+Artículo segundo.- Se abroga la Ley de Desarrollo Social para el Estado de Zacatecas, publicada en Suplemento al número 56 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 14 de julio del año 2004.
 
-###### ARTICULO 82.
+Artículo tercero.- Dentro de los sesenta días naturales siguientes a la entrada en vigor de este ordenamiento, la o el Titular del Ejecutivo deberá publicar el Reglamento de la presente Ley.
 
-Los contribuyentes que obtengan ingresos de los señalados en este Capítulo, además do efectuar los pagos de este impuesto, tendrán las siguientes obligaciones:
+En el mismo plazo deberá reformarse el Reglamento Interior de la Secretaría de Planeación y Desarrollo Regional, para adecuarlo a lo establecido en esta Ley.
 
-I.- Solicitar su inscripción en el Registro Federal de Contribuyentes y proporcionar su clave de registro al empleador.
+Los manuales de organización, de procedimientos y de servicios al público de la Secretaría, deberán publicarse en la citada Gaceta gubernamental dentro de los noventa días naturales siguientes contados a partir de la publicación del Reglamento de la Ley.
 
-II.- Solicitar las constancias a que se refiere la fracción III del artículo 83 y proporcionarlas al empleador dentro del mes siguiente a aquél en que se inicie la prestación del servicio, o en su caso, al empleador que vaya a efectuar el cálculo del impuesto definitivo o acompañarlas a su declaración anual. No solicitará la constancia al empleador que haga la liquidación del año.
+Artículo cuarto.- El Programa deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de la presente Ley.
 
-III.- Presentar declaración anual en los siguientes casos:
+Artículo quinto.- Dentro de los sesenta días siguientes a la entrada en vigor de esta Ley, la o el Titular del Ejecutivo del Estado deberá designar al Coordinador del Subcomité Sectorial de Desarrollo Social.
 
-a).- Cuando obtengan ingresos distintos de los señalados en este Capítulo, salvo lo dispuesto en el artículo 128 de esta Ley.
+Artículo sexto.- A partir del presupuesto de egresos del Estado para el ejercicio fiscal 2009, deberán incluirse las partidas presupuestales correspondientes para el desarrollo social.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+Artículo séptimo.- Se derogan todas las disposiciones que se opongan a la presente Ley.
 
-b) Cuando obtengan ingresos anuales por los conceptos a que se refiere este Capítulo que excedan de una cantidad equivalente a cinco veces el salario mínimo general que corresponda a la zona económica del Distrito Federal, elevado al año.
+COMUNÍQUESE AL EJECUTIVO DEL ESTADO PARA SU PROMULGACIÓN Y PUBLICACIÓN.
 
-c).- Cuando dejen de prestar servicios a más tardar el 31 de diciembre del año de que se trate o cuando a dicha fecha se presten servicios a dos o más empleadores.
+D A D O en la Sala de Sesiones de la Honorable Quincuagésima Novena Legislatura del Estado a los veintiséis días del mes de Noviembre del año dos mil ocho.- Diputado Presidente.- FÉLIX VÁZQUEZ ACUÑA. Diputados Secretarios.- JORGE LUIS RINCÓN GÓMEZ y LUIS RIGOBERTO CASTAÑEDA ESPINOSA.- Rúbricas.
 
-d).- Cuando obtengan ingresos, por los conceptos que se refiere este Capítulo, de fuente de riqueza ubicada en el extranjero o provenientes de personas no obligadas a efectuar las retenciones del artículo 80 de esta Ley.
+Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
-###### ARTICULO 83.
+DADO en el Despacho del Poder Ejecutivo del Estado, a los veintiséis días del mes de Diciembre del año dos mil ocho.
 
-Quienes hagan pagos por los conceptos a que se refiere este Capítulo, tendrán las siguientes obligaciones:
+A t e n t a m e n t e .
 
-I.- Efectuar las retenciones señaladas en el artículo 80.
+"EL TRABAJO TODO LO VENCE".
 
-II.- Calcular el impuesto anual de las personas que les hubieren prestado servicios subordinados, en los términos del artículo 81.
+LA GOBERNADORA DEL ESTADO DE ZACATECAS
 
-III.- Proporcionar a las personas que les hubieran prestado servicios personales subordinados, constancias de remuneraciones cubiertas y de retenciones efectuadas en el año de calendario de que se trate.
+AMALIA D. GARCÍA MEDINA.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+EL SECRETARIO GENERAL DE GOBIERNO
 
-Las constancias deberán proporcionarse a más tardar el 31 de enero de cada año. En los casos de retiro del trabajador se proporcionarán dentro del mes siguiente a aquél en que ocurra la separación.
+LIC. CARLOS PINTO NÚÑEZ.
 
-IV.- Solicitar, en su caso, las constancias a que se refiere la fracción anterior, a las personas que contraten para prestar servicios subordinados, a más tardar dentro del mes siguiente a aquél en que se inicio la prestación del servicio y cerciorarse que estén inscritos en el Registro Federal de Contribuyentes.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-V.- Presentar ante las oficinas autorizadas en el mes de febrero de cada año declaración, proporcionando información sobre el nombre, clave de registro federal de contribuyentes, remuneraciones cubiertas, retenciones efectuadas y en su caso, el monto del impuesto anual, correspondientes a cada una de las personas que les hubieran prestado servicios en el año de calendario anterior. La información contenida en las constancias que reciban de conformidad con la fracción IV de este artículo, se incorporará en la misma declaración.
-
-En los casos en que una sociedad sea fusionada o entre en liquidación, la declaración que debe presentarse conforme a lo previsto en la fracción V de este artículo, se efectuará dentro del mes siguiente a aquél en que se termine anticipadamente el ejercicio.
-
-Quedan exceptuados de las obligaciones señaladas en este artículo los organismos internacionales cuando así lo establezcan los tratados o convenios respectivos, así como los Estados extranjeros.
-
-### CAPITULO II. De los Ingresos por Honorarios y en General por la Prestación de un Servicio Personal Independiente
-
-###### ARTICULO 84.
-
-Se consideran ingresos por la prestación de un servicio personal independiente, las remuneraciones que deriven de servicios cuyos ingresos no estén considerados en el Capítulo I de este Título. Se entiende que los ingresos por la prestación de un servicio personal independiente los obtiene en su totalidad quien presta el servicio.
-
-Las personas que enajenen obras de arte hechas por ellas, así como los agentes de instituciones de crédito, de seguros, de fianzas o de valores, los promotores de valores y quienes obtengan ingresos mediante la explotación de una patente aduanal, cuando no presten servicios personales subordinados, calcularán el impuesto correspondiente en los términos de este Capítulo, inclusive cuando su actividad sea comercial.
-
-Para los efectos de este Capítulo, los ingresos en Crédito se declararán y se calculará el impuesto que les corresponda hasta el año de calendario en que sean cobrados.
+P.O. 23 DE MARZO DE 2013.
 
 ###### ARTICULO 85.
 
@@ -2432,7 +1816,7 @@ IV.- Presentar declaraciones provisionales y anual, en los términos de esta Ley
 
 Quienes obtengan en forma esporádica ingresos de los señalados en este Capítulo, deducirán, en su declaración anual únicamente los gastos directamente relacionados con su obtención y cubrirán como pago provisional a cuenta del impuesto anual, el 20% de los honorarios percibidos sin deducción alguna. El pago provisional se hará mediante declaración que presentarán ante las oficinas autorizadas dentro de los 15 días siguientes a la obtención del ingreso. Estos contribuyentes quedan relevados de la obligación de llevar libros y registros así como de presentar declaraciones provisionales.
 
-### CAPITULO III. De los Ingresos por Arrendamiento y en General por Otorgar el Uso o Goce Temporal de Inmuebles
+### Capítulo III. De los Fondos de Contingencia Social
 
 ###### ARTICULO 89.
 
@@ -2528,9 +1912,7 @@ IV.- Presentar declaraciones provisionales y anual en los términos de esta Ley.
 
 Cuando los ingresos a que se refiere este Capítulo sean percibidos a través de operaciones de fideicomiso, será la institución fiduciaria quien lleve los libros, expida los recibos y efectúe los pagos provisionales. Las personas a las que correspondan los rendimientos deberán solicitar a la institución fiduciaria la constancia a que se refiere el último párrafo del artículo anterior, la que deberán acompañar a su declaración anual.
 
-### CAPITULO IV. De los Ingresos por Enajenación de Bienes
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+### Capítulo I. Del Sistema
 
 ###### ARTICULO 95.
 
@@ -2682,7 +2064,7 @@ Los contribuyentes que obtengan ingresos por la cesión de derechos de certifica
 
 Las personas morales a que se refiere el Título III de esta Ley que enajenen bienes, efectuarán pagos provisionales por cuenta de sus integrantes, en los términos de este artículo, excepto cuando se trate de las personas morales a que se refieren las fracciones I a XIII del artículo 70 y el artículo 73, de esta Ley.
 
-### CAPITULO V. De los Ingresos por Adquisición de Bienes
+### Capítulo II. Del Consejo Estatal de Desarrollo Social
 
 ###### ARTICULO 104.
 
@@ -2722,9 +2104,7 @@ Los contribuyentes que obtengan ingresos de los señalados en este Capítulo, cu
 
 En operaciones consignadas en escritura pública, en las que el valor del bien de que se trate se determine mediante avalúo, el pago provisional se hará mediante declaración, que se presentará dentro de los quince días siguientes a la fecha en que se firme la escritura o minuta. Los notarios, corredores, jueces y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad y lo enterarán mediante la citada declaración en las oficinas autorizadas.
 
-### CAPITULO VI. De los Ingresos por Actividades Empresariales
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+### Capítulo III. De los Consejos Regionales de Desarrollo Social
 
 #### SECCION I. De las Deducciones en General
 
@@ -3156,7 +2536,7 @@ BIS.- Las autoridades fiscales tendrán las mismas facultades contenidas en el C
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-### CAPITULO VII. De los Ingresos por Dividendos y en General por las Ganancias Distribuidas por Sociedades Mercantiles
+### Capítulo IV. De la Comisión Intersecretarial de Desarrollo Social
 
 ###### ARTICULO 120.
 
@@ -3326,7 +2706,7 @@ III.- Solicitar a más tardar el 31 de enero del año posterior a aquél en que 
 
 IV.- Acompañar a su declaración anual, la constancia a que se refiere la fracción anterior.
 
-### CAPITULO VIII. De los Ingresos por Intereses
+### Capítulo V. Del Subcomité Sectorial de Desarrollo Social
 
 ###### ARTICULO 125.
 
@@ -3392,7 +2772,7 @@ III.- Acompañar a su declaración anual la constancia mencionada en la fracció
 
 Los contribuyentes que en un año de calendario perciban los intereses a que se refiere este Capítulo, sin que excedan de $200,000.00 más un salario mínimo general de la zona económica del contribuyente elevado al año, o que obtengan ingresos hasta por el monto de la cantidad anterior, por concepto de estos intereses más las remuneraciones a que se refiere el Capítulo I de este Título, no estarán obligados a presentar declaración anual por el hecho de percibir los ingresos a que se refiere este Capítulo, aun cuando hayan optado por el régimen de títulos nominativos.
 
-### CAPITULO IX. De los Ingresos por Obtención de Premios
+### Capítulo I. Disposiciones preliminares
 
 ###### ARTICULO 129.
 
@@ -3430,7 +2810,9 @@ II.- Proporcionar, cuando así lo solicite el interesado, constancia de ingreso 
 
 III.- Conservar de conformidad con lo previsto en el Código Fiscal de la Federación, la documentación relacionada con las constancias y las retenciones de impuesto.
 
-### CAPITULO X. De los Demás Ingresos que Obtengan las Personas Físicas
+### Capítulo II. De la denuncia ciudadana
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 132.
 
@@ -3518,7 +2900,7 @@ Tratándose de los ingresos a que se refiere la fracción X del artículo 133 se
 
 Cuando las personas que efectúen los pagos a que se refiere la fracción XI del artículo 133 de esta Ley, paguen al contribuyente, además, ingresos de los señalados en el Capítulo I de este Título, los ingresos a que se refiere la citada fracción XI, se considerarán como salarios para los efectos de este Título.
 
-### CAPITULO XI. De los Requisitos de las Deducciones
+### Capítulo Único. De los Padrones
 
 ###### ARTICULO 136.
 
@@ -3670,9 +3052,7 @@ Cuando el bien se comience a utilizar después de iniciado el año, la deducció
 
 Cuando no se pueda separar del costo del inmueble, la parte que corresponda a construcciones, se considerará como costo del terreno el 20% del total.
 
-### CAPITULO XII. De la Declaración Anual
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+### Capítulo Único. De la Evaluación
 
 ###### ARTICULO 139.
 
@@ -3744,7 +3124,7 @@ III.- 25%, si los contribuyentes a que se refiere la fracción I de este artícu
 
 IV.- 50%, si los contribuyentes están dedicados exclusivamente a la edición de libros. Cuando no se dediquen exclusivamente a esta actividad, calcularán la reducción del 50% sobre el monto del impuesto que corresponda de los ingresos por la edición de libros, en los términos del reglamento de esta Ley.
 
-## TITULO VI. De los estímulos fiscales
+## TÍTULO SEXTO. DE LA DIFUSIÓN DE LOS PROGRAMAS DE DESARROLLO SOCIAL
 
 ###### ARTICULO 144.
 
@@ -4094,9 +3474,7 @@ VII.- Premios que deriven de la celebración de loterías, rifas, sorteos o jueg
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-## TITULO VII. Del Sistema Tradicional del Impuesto sobre la Renta a las Actividades Empresariales
-
-(REUBICADO [N. DE E. ANTES ARTICULO 10], D.O.F. 31 DE DICIEMBRE DE 1986)
+## TÍTULO SÉPTIMO. DEL FOMENTO AL DESARROLLO SOCIAL
 
 ###### ARTICULO 163.
 
@@ -4134,25 +3512,7 @@ Las personas que hubieran contraído matrimonio bajo régimen de la sociedad con
 
 > <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-## TITULO VIII. Del Mecanismo de Transición del Impuesto sobre la Renta a las Actividades Empresariales
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-ARTICULO 801 (SIC).- Las sociedades mercantiles aplicarán, por separado, las disposiciones contenidas en los Títulos II y VII de la Ley. El impuesto conjunto del ejercicio será la cantidad que resulte de sumar los montos de impuesto determinados de conformidad con cada Título en las siguientes proporciones:
-
-En el año de
-
-Calendario Título II Título VII
-
-1987 20% 80%
-
-1988 40% 60%
-
-1989 60% 40%
-
-1990 80% 20%
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+## TÍTULO OCTAVO. DEL SISTEMA ESTATAL DE DESARROLLO SOCIAL
 
 ###### ARTICULO 10
 
@@ -4324,9 +3684,7 @@ Cuando el impuesto acreditable se encuentre dentro de los límites a que se refi
 
 (REUBICADO [N. DE E. ANTES CAPITULO I DEL TITULO II], D.O.F. 31 DE DICIEMBRE DE 1986)
 
-### CAPITULO I. De los Ingresos
-
-(REUBICADO [N. DE E. ANTES ARTICULO 15], D.O.F. 31 DE DICIEMBRE DE 1986)
+### Capítulo Único
 
 ###### ARTICULO 15
 
@@ -4452,9 +3810,7 @@ BIS.- Para los efectos de este Título no se considerará ingreso acumulable, lo
 
 (REUBICADO [N. DE E. ANTES CAPITULO II DE TITULO II], D.O.F. 31 DE DICIEMBRE DE 1986)
 
-### CAPITULO II. De las Deducciones
-
-(REUBICADA [N. DE E. ANTES SECCION I DEL CAPITULO II DEL TITULO II], D.O.F. 31 DE DICIEMBRE DE 1986)
+### Capítulo Único
 
 #### SECCION IV. De las Deducciones para Instituciones de Crédito, de Seguros y de Fianzas
 
@@ -5620,11 +4976,7 @@ Cuando al término de un ejercicio proceda disminuir las reservas a que se refie
 
 (REUBICADO [N. DE E. ANTES CAPITULO III DEL TITULO II], D.O.F. 31 DE DICIEMBRE DE 1986)
 
-### CAPITULO III
-
-De las Pérdidas.
-
-(REUBICADO, REFORMADO PRIMER PARRAFO [N. DE E. ANTES ARTICULO 55], D.O.F. 31 DE DICIEMBRE DE 1986)
+### Capítulo Único
 
 ###### ARTICULO 55
 
@@ -6224,6 +5576,8 @@ Los contribuyentes a que se refiere este artículo deberán informar a la oficin
 
 (REUBICADO [N. DE E. ANTES ARTICULO 119], D.O.F. 31 DE DICIEMBRE DE 1986)
 
+## TÍTULO NOVENO. DE LA PARTICIPACIÓN SOCIAL
+
 ###### ARTICULO 802.
 
 Las sociedades mercantiles cuyo ejercicio no coincida con el año de calendario podrán anticipar al 31 de diciembre de 1986 la fecha de terminación de su ejercicio iniciado en dicho año, mediante aviso a la autoridad recaudadora correspondiente a su domicilio presentado, a más tardar el último día de marzo de 1987.
@@ -6422,47 +5776,69 @@ Lo dispuesto en el párrafo anterior es aplicable a las opciones iguales que con
 
 ## TRANSITORIOS
 
-###### ARTICULO PRIMERO.
+###### ARTÍCULO PRIMERO.
 
-Esta Ley entrara en vigor en toda la República el día 1o. de enero de 1981.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
 
-###### ARTICULO SEGUNDO.
+###### ARTÍCULO SEGUNDO.
 
-Se abrogan la Ley del Impuesto sobre la Renta de 30 de diciembre de 1964 y la Ley Federal del Impuesto sobre Loterías, Rifas, Sorteos y Juegos Permitidos de 30 de diciembre de 1947. El reglamento de la Ley del Impuesto sobre la Renta, de 30 de septiembre de 1977, continuará aplicándose en lo que no se oponga a la presente Ley, hasta que se expida un nuevo reglamento.
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
 
-Las obligaciones derivadas de las Leyes que se abrogan conforme a este artículo, que hubieran nacido por la realización, durante su vigencia, de las situaciones jurídicas o de hecho previstas en dichas leyes deberán ser cumplidas en las formas y plazos establecidos en dichos ordenamientos.
+###### ARTÍCULO TERCERO.
 
-###### ARTICULO TERCERO.
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
 
-A partir de la fecha en que entre en vigor esta Ley, quedan sin efectos las disposiciones administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieran otorgado a título particular, que contravengan o se opongan a lo preceptuado en esta Ley.
+###### ARTÍCULO CUARTO.
 
-###### ARTICULO CUARTO.
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
 
-Los contribuyentes que con anterioridad al 1o. de enero de 1981 estaban sujetos al Impuesto sobre la Renta establecido en la Ley que se abroga, no considerarán interrumpidos los ejercicios, resultados y consecuencias fiscales, correspondientes a periodos comprendidos hasta el 31 de diciembre de 1980, por lo que dichos contribuyentes, entre otras consecuencias, estarán a los siguiente:
+P.O. 19 DE AGOSTO DE 2015.
 
-I.- Cuando su ejercicio no coincida con el año de calendario, no considerarán que su ejercicio termina anticipadamente el 31 de diciembre de 1980.
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
-II.- Los contribuyentes que con anterioridad al 1o. de enero de 1981 hubieran iniciado sus actividades, no considerarán como nuevo inicio de actividades, la fecha de entrada en vigor de esta Ley.
+SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
 
-III.- Tratándose de pagos provisionales que correspondan a ejercicios que concluirán durante 1981, los mismos se harán cumpliendo con lo dispuesto en la presente Ley, cuyas disposiciones son coincidentes con las de la Ley que se abroga.
+P.O. 21 DE FEBRERO DE 2018.
 
-IV.- Las personas morales a que se refiere el Título II de esta Ley y las personas físicas que realicen actividades empresariales que no efectúen sus pagos mediante cuota fija, para efectos de calcular sus pagos provisionales durante 1981, determinarán el factor de utilidad fiscal, dividiendo el ingreso global gravable correspondiente al ejercicio iniciado durante 1980, entre los ingresos acumulables del mismo ejercicio.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 218 SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO URBANO DEL ESTADO DE ZACATECAS, LEY DE DESARROLLO METROPOLITANO DEL ESTADO DE ZACATECAS, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE ZACATECAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS Y LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS, EN MATERIA DE DESARROLLO URBANO, RESPECTO DE LAS ATRIBUCIONES DE LA SECRETARÍA DE DESARROLLO URBANO, VIVIENDA Y ORDENAMIENTO TERRITORIAL".]
 
-V.- Los contribuyentes que conforme a la Ley de Fomento de Industrias Nuevas y Necesarias se encuentren gozando de reducción del Impuesto sobre la Renta, sobre la utilidad derivada de algunos de los artículos que elaboren, procederán como sigue:
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
-a).- Calcularán el impuesto resultante de aplicar la tarifa contenida en el artículo 13 de la Ley, al total de su utilidad fiscal, incluyendo la utilidad sujeta a reducción.
+Artículo Segundo. Se derogan todas las disposiciones que contravengan al presente Decreto.
 
-b).- Calcularán el impuesto que corresponda a la parte de la utilidad fiscal por la que gocen de reducción de impuesto para lo cual aplicaran a dicha parte, nuevamente la tarifa mencionada.
+P.O. 26 DE JUNIO DE 2019.
 
-c).- Aplicarán el por ciento correspondiente de reducción de impuesto a la cantidad determinada conforme al inciso que antecede.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 132.- POR EL CUAL SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 7 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS”.]
 
-Las diferencias entre las cantidades calculadas conforme a los incisos a) y b) de esta fracción será el impuesto causado.
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de (sic) Gobierno del Estado de Zacatecas.
 
-VI.- Los gastos realizados con anterioridad al 31 de diciembre de 1980 que conforme a la Ley del Impuesto sobre la Renta vigente hasta esa fecha estaban sujetos al régimen de amortización, continuarán amortizándose bajo dicho régimen hasta su deducción total.
+Artículo segundo. Se derogan las disposiciones que contravengan este Decreto.
 
-VII.- Los contribuyentes que hubieran sufrido perdidas fiscales en ejercicios terminados con anterioridad al 1o. de enero de 1981, podrán amortizar dichas pérdidas para efectos del Impuesto sobre la Renta, dentro de los cuatro ejercicios siguientes a aquél en que se sufrieron. La pérdida fiscal correspondiente al ejercicio iniciado durante 1980 se podrá amortizar contra los resultados del ejercicio inmediato anterior a aquel en que se produjo.
+P.O. 24 DE AGOSTO DE 2019.
 
-VIII.- Los contribuyentes menores que hubieran venido tributando a cuota a partir del 1o. de enero de 1981 continuarán efectuado sus pagos bimestrales por la misma cantidad mientras no sea modificada por las autoridades competentes.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 163.- MEDIANTE EL CUAL SE REFORMA, ADICIONA Y DEROGO DIVERSAS DISPOSICIONES DEL (SIC) LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+Artículo segundo. Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 26 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 166.- MEDIANTE EL CUAL SE REFORMA LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+Artículo segundo. Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 19 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 296.- SE REFORMA EL ARTÍCULO 68 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+Artículo segundo. En tanto se reforma la Ley Orgánica del Municipio del Estado de Zacatecas, para constituir los órganos de control interno de los municipios, conocerán de dichas denuncias, en el ámbito de su competencia, las Contralorías Municipales a que se refiere el artículo 104 del citado ordenamiento.
+
+Artículo tercero. Se derogan las disposiciones que contravengan este Decreto.
 
 ###### ARTICULO QUINTO.
 
