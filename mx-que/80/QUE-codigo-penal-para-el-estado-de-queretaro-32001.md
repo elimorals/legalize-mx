@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "1991-12-31"
+last_updated: "1992-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 1992.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987.
 
@@ -159,7 +159,7 @@ De igual forma responderá el que ofrezca auxiliar o auxilie al delincuente por 
 
 Cuando sin acuerdo previo ni adherencia, varias personas intervengan en la comisión de un delito y se precise el daño que cada uno causó, se les sancionará por el que cada quien produjo.
 
-Si no se precisa la causación específica, se aplicará a todos la pena prevista por el Artículo 84 de esta Ley.
+Si no se precisa la causación específica,, se aplicará a todos la pena prevista por el Artículo 84 de esta Ley.
 
 ###### ARTICULO 18.
 
@@ -617,6 +617,8 @@ Si el inculpado no puede otorgar la garantía, ésta será substituída (sic) po
 
 ### CAPITULO I. REGLAS GENERALES
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1992)</small>
+
 ### CAPITULO II. PUNIBILIDAD EN CASO DE EXCESO
 
 ## TITULO CUARTO. APLICACION DE PENAS Y
@@ -627,13 +629,19 @@ MEDIDAS DE SEGURIDAD
 
 ###### ARTICULO 68.
 
-El Órgano Jurisdiccional fijará la pena dentro de los limites señalados para cada delito, teniendo en cuenta los aspectos objetivos y subjetivos del hecho punible, la lesión o peligro del bien jurídico; las circunstancias de modo, tiempo y lugar; los motivos determinantes; las demás condiciones del sujeto activo y de la víctima, en la medida en que hayan influido en la comisión del delito, y las que determinen la gravedad del delito y la culpabilidad del sujeto.
+El Organo Jurisdiccional fijará la pena dentro de los límites señalados para cada delito, teniendo en cuenta los aspectos objetivos y subjetivos del hecho punible; la lesión o puesta en peligro del bien jurídico; las circunstancias de modo, tiempo y lugar; los motivos determinantes; las demás condiciones del sujeto activo y de la víctima, en la medida en que hayan influido en la comisión del delito, y las que determinen la gravedad ilícita y la culpabilidad del sujeto.
 
-El órgano jurisdiccional ordenará de oficio la realización de los estudios criminológicos interdisciplinarios del imputado y tomará conocimiento directo de éste, del ofendido y de la ejecución del hecho en la medida requerida para cada caso.
+Cuando se trate de punibilidad alternativa, el Juez podrá imponer, motivando su resolución, la sanción privativa de libertad sólo cuando ello sea ineludible a los fines de la justicia, prevención general y prevención especial.
+
+En aquellos delitos que tengan señaladas pena privativa de libertad en forma alternativa con cualquier otra, en todo caso se impondrá la de prisión al imputado cuando este haya cometido con anterioridad delito doloso o preterintencional y por el cual se haya dictado sentencia condenatoria ejecutoriada, o existiendo acumulación de expedientes, resulte responsable de los delitos a que se refieren los expedientes acumulados.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1992)</small>
 
 ###### ARTICULO 69.
 
-Cuando el imputado, con motivo de la comisión del delito, hubiere sufrido consecuencias graves en su persona, que hicieren notoriamente innecesaria e irracional la imposición de una pena privativa o restrictiva de libertad, el órgano jurisdiccional oyendo el parecer del Procurador General de Justicia del Estado, al dictar sentencia podrá otorgar perdón sólo por lo que respecta a las penas mencionadas en este artículo.
+Cuando el imputado, con motivo de la comisión del delito hubiere sufrido consecuencias graves en su persona, o que por su senilidad o su precario estado de salud permanente fuere notoriamente innecesaria e irracional la imposición de una pena privativa o restrictiva de libertad, el Juez, de oficio o a petición de parte, y oyendo el parecer del Procurador General de Justicia del Estado que tendrá carácter de mera opinión, al dictar sentencia, podrá otorgar perdón o substituirla por una medida de seguridad que no podrá exceder en su duración, del máximo de la pena privativa de (sic) restrictiva de la libertad substituida. En estos casos, el Juez se apoyará siempre en dictámenes de peritos.
+
+El perdón judicial o la substitución de la pena privativa o restrictiva de libertad, no exime al imputado del pago de reparación de daños y perjuicios ni de la multa en su caso.
 
 ###### ARTICULO 70.
 
@@ -733,6 +741,8 @@ En el caso de autoría indeterminada, se impondrá como pena hasta las tres cuar
 
 ### CAPITULO XI. CONMUTACION DE SANCIONES
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1992)</small>
+
 ###### ARTICULO 85.
 
 Cuando se cometa algún delito por pandilla, se aplicará a los que intervengan en su comisión además de las penas que le correspondan por el o los delitos cometidos, de tres meses a tres años de prisión.
@@ -763,17 +773,15 @@ III.- En los casos en que se declare la prohibición de realizar determinadas op
 
 ###### ARTICULO 87.
 
-La prisión podrá ser conmutada, a juicio del órgano jurisdiccional, cuando se paguen o garanticen, por cualquier medio, a satisfacción de aquél, la reparación del daño y los perjuicios causados, apreciando lo dispuesto en los Artículos 29 y 68 de esta Ley, en los términos siguientes:
+La prisión podrá ser substituída a juicio del Organo Jurisdiccional, cuando se paguen o garanticen por cualquier medio, los daños y perjuicios causados, apreciando lo dispuesto en el Artículo 68 de esta Ley en los términos siguientes:
 
-I.- Cuando no exceda de un año, por multa o trabajo en favor de la comunidad, y
+I.- Por trabajos en favor de la comunidad o semilibertad cuando la pena impuesta no exceda de cinco años.
 
-II.- Cuando no exceda de tres años, por tratamiento en libertad o semilibertad.
+II.- Por tratamiento en libertad, si la prisión no excede de cuatro años; o
 
-Para los efectos de la conmutación por multa, se requerirá que e imputado satisfaga los requisitos siguientes:
+III.- Por multa si la prisión no excede de tres años.
 
-a).- Que el reo sea primerizo, y
-
-b).- Que dada la naturaleza del delito, la personalidad del delincuente, su vida anterior y su conducta posterior a aquél, se pueda suponer fundadamente que no cometerá uno nuevo.
+Para efectos de la substitución se requiere que el reo satisfaga los requisitos señalados en las fracciones I, II, y III del artículo 88.
 
 ### CAPITULO I. EXTINCION PENAL
 
@@ -787,7 +795,9 @@ II.- Que tenga modo honesto de vivir y haya observado buena conducta con anterio
 
 III.- Que durante el proceso no se haya sustraido a la acción judicial.
 
-IV.- Que la duración de la pena no exceda de tres años.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1992)</small>
+
+IV.- Que la pena de prisión impuesta, no exceda de cuatro años;
 
 V.- Que haya pagado la reparación de los daños y perjuicios y la multa.
 
@@ -1543,7 +1553,7 @@ Igual sanción se aplicará al que cometa robo de documentos que contengan oblig
 
 ###### ARTICULO 185.
 
-La pena que corresponda al robo simple se reducirá hasta la mitad al que halle en lugar público un bien mostrenco, se apodere de él y no lo entregue a la autoridad que correponda (sic) dentro del término señalado en el Código Civil.
+La pena que corresponda al robo simple se reducirá hasta la mitad al que halle en lugar público un bien mostrenco, se apodere de él y no lo entregue a la autoridad que corresponda (sic) dentro del término señalado en el Código Civil.
 
 No habrá lugar a la disminución a que se refiere este Artículo, si al que se apoderó de la cosa le fuere reclamada por quien tenga derecho a ella y se rehúse a entregarla.
 
@@ -1741,7 +1751,7 @@ Al que con ánimo de lucro después de la ejecución de un delito y sin haber pa
 
 Al que hubiese adquirido u ocultado el producto del delito sin conocimiento de su ilegítima procedencia, por no poner el cuidado necesario para asegurarse de que la persona de quien lo recibió tenía derecho para disponer de aquél, se le aplicará hasta la mitad de las penas señaladas en el Artículo anterior.
 
-La misma pena prevista en el primer párrafo de este artículo se impondrá al que no procure por los medios lícitos que tenga a su alcance impedir la consumación de los delitos que sabe van a cometer o se estén cometiendo.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 4 DE JUNIO DE 1992)</small>
 
 ###### ARTICULO 206.
 
@@ -1749,9 +1759,13 @@ En los casos de los delitos previstos por este Título, no se aplicará pena alg
 
 Lo dispuesto en el párrafo anterior no será aplicado tratándose de delitos en que el agente sea servidor público, si se aprovecha del cargo para cometerlos.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1992)</small>
+
 ###### ARTICULO 207.
 
-Los delitos previstos en ente Título se perseguirán de oficio, con excepción del delito de abuso de confianza que será por querella de la parte ofendida, así como los delitos reglamentados en este Título cuando sean cometidos por un ascendiente, descendiente, hermano, cónyuge, concubina o concubinario, adoptante o adoptado y pariente por afinidad así como los terceros que hubieren intervenido en su ejecución con aquéllos.
+Los delitos previstos en los Capítulos Tercero, Cuarto, Quinto, Sexto, Octavo y Noveno de este Título, solo se perseguirán por querella de la parte ofendida.
+
+Los delitos previstos en los Capítulos Primero y Segundo del presente Título, sólo se perseguirán por querella del ofendido cuando el sujeto activo sea ascendiente, descendiente, hermano, cónyuge, concubina o concubinario, adoptante o adoptado o pariente por afinidad de aquél. Igual requisito de procedibilidad se requerirá para perseguir a los terceros que hubieren intervenido en el hecho.
 
 ###### ARTICULO 208.
 
@@ -2758,3 +2772,17 @@ La presente Ley entrará en vigor el día siguiente de su publicación en el Per
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan a la presente.
+
+P.O. 4 DE JUNIO DE 1992
+
+###### ARTICULO PRIMERO.
+
+Se derogan todas las disposiciones que se opongan a las reformas y adiciones a los Artículos 68, 69, 87, 88 fracción IV, 205 y 207 del Código Penal vigente en el Estado.
+
+###### ARTICULO SEGUNDO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "La Sombra de Arteaga".
+
+###### ARTICULO TERCERO.
+
+No será exigible el requisito de querella incorporado con motivo de las reformas al artículo 207 del Código Penal para el Estado, en los procedimientos ya instaurados o resueltos el día en que entre en vigor esta Ley.
