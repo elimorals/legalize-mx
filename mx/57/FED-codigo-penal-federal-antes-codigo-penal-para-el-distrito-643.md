@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1996-12-24"
+last_updated: "1997-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE MAYO DE 1997.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -1121,7 +1121,7 @@ Cuando sean varios los ofendidos y cada uno pueda ejercer separadamente la facul
 
 > <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
 
-El perdón sólo beneficia al inculpado en cuyo favor se otorga, a menos que el ofendido o el legitimado para otorgarlo, hubiese obtenido la satisfacción de sus intereses o derechos, caso en el cual beneficiará a todos los inculpados y al encubridor.
+El perdón sólo beneficia al inculpado en cuyo favor se otorga, a menos que el ofendido o el legitimado para otorgarlo, hubiese obtenido la satisfacción de sus intereses o derechos caso en el cual beneficiará a todos los inculpados y al encubridor.
 
 > <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -4995,7 +4995,11 @@ I. Al que especule en cualquier forma con los libros de texto gratuitos que dist
 
 II. Al editor, productor o grabador que a sabiendas produzca más números de ejemplares de una obra protegida por la Ley Federal del Derecho de Autor, que los autorizados por el titular de los derechos;
 
-III. A quien produzca, fabrique, importe, venda, almacene, transporte, distribuya o arriende obras protegidas por la Ley Federal del Derecho de Autor en forma dolosa, a escala comercial y sin autorización del titular de los derechos, y
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 1997)</small>
+
+III. A quien produzca, reproduzca, importe, almacene, transporte, distribuya, venda o arriende copias de obras, fonogramas, videogramas o libros, protegidos por la Ley Federal del Derecho de Autor, en forma dolosa, a escala comercial y sin la autorización que en los términos de la citada Ley deba otorgar el titular de los derechos de autor o de los derechos conexos.
+
+Las mismas sanciones se impondrán a quien use en forma dolosa, a escala comercial y sin la autorización correspondiente obras protegidas por la mencionada Ley; y
 
 IV. A quien fabrique con fines de lucro un dispositivo o sistema cuya finalidad sea desactivar los dispositivos electrónicos de protección de un programa de computación.
 
@@ -5566,3 +5570,7 @@ D.O.F. 24 DE DICIEMBRE DE 1996.
 PRIMERO.- El artículo Segundo del presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. Los artículos Primero y Tercero entrarán en vigor noventa días después de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- A las personas que hubieren cometido delitos contemplados en la Ley Federal de Derechos de Autor publicada en el Diario Oficial de la Federación el 29 de diciembre de 1956, con anterioridad a la entrada en vigor del presente Decreto, les serán aplicables las sanciones vigentes al momento en que se hubieren realizado dichas conductas. Al efecto, los artículos 135 a 144 de dicha ley, seguirán vigentes y se aplicarán a la persecución, sanción y ejecución de sentencias por hechos ejecutados hasta antes de la entrada en vigor del Título Vigésimo Sexto que se adiciona al Código Penal para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal por este Decreto.
+
+D.O.F. 19 DE MAYO DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
