@@ -4,7 +4,7 @@ identifier: "LCF"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-27"
-last_updated: "1989-12-28"
+last_updated: "1990-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=692&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCF"
 
 LEY DE COORDINACION FISCAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 1990.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 27 de diciembre de 1978.
 
@@ -50,29 +50,59 @@ Cuando en esta Ley se utilice la expresión "entidades", ésta se referirá a lo
 
 La Secretaría de Hacienda y Crédito Público celebrará convenio con los Estados que soliciten adherirse al Sistema Nacional de Coordinación Fiscal que establece esta Ley. Dichos Estados y el Distrito Federal participarán en el total de impuestos federales y en los otros ingresos que señale esta Ley mediante la distribución de los fondos que en la misma se establecen.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 2o.
 
-El Fondo General de Participaciones se constituirá con el 18.1% de la recaudación federal participable que obtenga la Federación en un ejercicio.
+El Fondo General de Participaciones se constituirá con el 18.51% de la recaudación federal participable que obtenga la Federación en un ejercicio.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 La recaudación federal participable será la que obtenga la Federación por todos sus impuestos, así como por los derechos sobre hidrocarburos y de minería disminuidos con el total de las devoluciones por los mismos conceptos.
 
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+
 No se incluirán en la recaudación federal participable, los impuestos adicionales del 3% sobre el impuesto general de exportación de petróleo crudo, gas natural y sus derivados y del 2% en las demás exportaciones; ni tampoco los derechos adicionales o extraordinarios, sobre los hidrocarburos.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+Tampoco se incluirá en la recaudación federal participable el impuesto sobre tenencia o uso de vehículos de aquellas entidades que hubieran celebrado convenios de colaboración administrativa en materia de este impuesto.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 El Fondo General de Participaciones se distribuirá conforme a lo siguiente:
 
-I.- El 50% del mismo, en proporción directa al número de habitantes que tenga cada entidad en el ejercicio de que se trate.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+I.- El 45.17% del mismo, en proporción directa al número de habitantes que tenga cada entidad en el ejercicio de que se trate.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 El número de habitantes se tomará de la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, al iniciarse cada ejercicio.
 
-II.- El 50% restante, en los términos del artículo 3o. de esta Ley.
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-El Fondo General de Participaciones se adicionará con un 0.5% de la recaudación federal participable en el ejercicio. De este 0.5% participarán las entidades federativas y sus municipios cuando aquéllas se coordinen en materia de derechos. El Fondo no se adicionará con la parte que correspondería a las entidades no coordinadas en derechos. Asimismo, el Fondo se incrementará con el porciento que represente, en la recaudación federal participable, los ingresos en un ejercicio de las contribuciones locales o municipales que las entidades convengan con la Secretaría de Hacienda y Crédito Público, en derogar o dejar en suspenso.
+II. El 45.17%, en los términos del artículo 3o. de esta Ley.
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+III.- El 9.66% restante, se distribuirá en proporción inversa a las participaciones por habitante que tenga cada entidad, éstas son el resultado de la suma de las participaciones a que se refieren las fracciones I y II de este artículo en el ejercicio de que se trate.
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+El Fondo General de Participaciones se adicionará con un 0.5% de la recaudación federal participable en el ejercicio. Del 0.5% participarán las Entidades Federativas y los Municipios, cuando aquéllas se coordinen en materia de derechos, distribuyéndose entre dichas entidades conforme al coeficiente efectivo del Fondo General de Participaciones que le corresponda para el ejercicio en que se calcula. El Fondo no se adicionará con la parte que correspondería a las entidades no coordinadas en Derechos. Asimismo, el Fondo se incrementará con el porciento que represente, en la recaudación federal participable, los ingresos en un ejercicio de las contribuciones locales o municipales que las entidades convengan con la Secretaría de Hacienda y Crédito Público, en derogar o dejar en suspenso.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+También se adicionará al Fondo General un monto equivalente al 80% del impuesto recaudado en 1989 por las entidades federativas, por concepto de las bases especiales de tributación. Dicho monto se actualizará en los términos del artículo 17-A del Código Fiscal de la Federación, desde el sexto mes de 1989 hasta el sexto mes del ejercicio en el que se efectúe la distribución. Este monto se dividirá entre doce y se distribuirá mensualmente a las entidades, en la proporción que representa la recaudación de estas bases de cada entidad, respecto del 80% de la recaudación por bases especiales de tributación en el año de 1989.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 Adicionalmente, las entidades participarán en los accesorios de las contribuciones que forman parte de la recaudación federal participable, que se señalen en los convenios respectivos. En los productos de la Federación relacionados con bienes o bosques, que las leyes definen como nacionales, ubicados en el territorio de cada entidad, ésta recibirá el 50% de su monto, cuando provenga de venta o arrendamiento de terrenos nacionales o de la explotación de tales terrenos o de bosques nacionales.
 
-Los Estados que estén adheridos al Sistema Nacional de Coordinación Fiscal y se encuentren coordinados con la Federación en el impuesto sobre adquisición de inmuebles, participarán adicionalmente del 80% de la recaudación que se obtenga en su territorio del impuesto sobre tenencia o uso de vehículos, en la parte que colaboren en la recaudación de dicho impuesto. De esta participación corresponderá, cuando menos, el 20% a los municipios de la entidad que se distribuirá entre ellos en la forma que determine la legislatura respectiva.
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+Las entidades federativas que estén adheridas al Sistema Nacional de Coordinación Fiscal, que se encuentren coordinadas con la Federación en el impuesto sobre adquisición de inmuebles y que hubieran celebrado con la misma convenios de colaboración administrativa en materia del impuesto sobre tenencia o uso de vehículos, participarán del 100% de la recaudación que se obtenga por concepto de este último impuesto. De esta participación corresponderá, cuando menos, el 20% a los municipios de la entidad que se distribuirá entre ellos en la forma que determine la legislatura respectiva.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -90,43 +120,55 @@ II.- 3.17% del derecho adicional sobre hidrocarburos que se exporten, excluyendo
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-III.- 0.42% de la recaudación federal participable que obtenga la Federación por concepto de impuestos, así como por los derechos sobre minería y sobre hidrocarburos, con exclusión del derecho extraordinario sobre los mismos, en la siguiente forma:
+III.- 0.42% de la recaudación federal participable que obtenga la Federación por concepto de impuestos, así como por los derechos sobre minería y sobre hidrocarburos con exclusión del derecho extraordinario sobre los mismos en la siguiente forma:
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 1.- El 30% se destinará a formar un Fondo de Fomento Municipal.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-2.- El 70% incrementará dicho Fondo de Fomento Municipal y sólo corresponderá a los Estados que se coordinen en materia de derechos.
+2.- El 70% incrementará dicho Fondo de Fomento Municipal y sólo corresponderá a las entidades que se coordinen en materia de Derechos.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-El Fondo de Fomento Municipal se distribuirá entre los Estados en proporción inversa a la participación por habitante que tenga cada entidad en el Fondo General de Participaciones en el ejercicio de que se trate.
+El Fondo de Fomento Municipal se distribuirá entre las entidades mediante la aplicación del coeficiente de participación que se determinará para cada uno de ellos conforme a la siguiente fórmula:
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+(VEASE ARCHIVO ANEXO)
 
-Los Estados entregarán íntegramente a sus Municipios las cantidades que reciban del Fondo de Fomento Municipal, de acuerdo con lo que establezcan las legislaturas locales, garantizando que no sea menor a lo recaudado por los conceptos que se dejan de recibir.
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+Los Estados entregarán íntegramente a sus municipios las cantidades que reciban del Fondo de Fomento Municipal, de acuerdo con lo que establezcan las legislaturas locales, garantizando que no sea menor a lo recaudado por los conceptos que se dejan de recibir por la coordinación en materia de derechos.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 Las cantidades que correspondan a los municipios en los términos de las fracciones I y II, se pagarán por la Federación directamente a dichos municipios.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 3o.
 
-La cantidad que a cada entidad corresponda en el 50% del Fondo General de Participaciones a que se refiere la fracción II del artículo 2o. de esta Ley, se obtendrá mediante la aplicación del coeficiente que se determine conforme a las siguientes fracciones:
+La cantidad que a cada entidad federativa corresponda en la parte del Fondo General de Participaciones a que se refiere la fracción II del artículo 2o. de esta Ley, se obtendrá mediante la aplicación del coeficiente de participación que se determinará conforme a la siguiente fórmula:
 
-I.- Las participaciones en el 50% del fondo que correspondieron a la entidad en el año anterior a aquél para el cual se efectúe el cálculo, se multiplicarán por el monto de las contribuciones asignables de la entidad en el mismo año y el resultado se dividirá entre las contribuciones asignables de la entidad en el segundo año anterior.
+(VEASE ARCHIVO ANEXO)
 
-II.- Se sumarán los resultados que se obtengan de acuerdo a la fracción anterior, calculados para todas las entidades, y se determinará el porciento, que el resultado que corresponda a cada una de ellas, represente en el total. Este tanto porciento será la proporción en que cada entidad participará en esta parte del Fondo General de Participaciones en el año para el que se efectúe el cálculo.
+Los impuestos asignables a que se refiere este artículo son los impuestos federales sobre automóviles nuevos, sobre tenencia o uso de vehículos y especial sobre producción y servicios.
 
-Las contribuciones asignables a que se refiere este artículo son los impuestos federales de automóviles nuevos, tenencia o uso de vehículos y especial sobre producción y servicios en los conceptos de petrolíferos, aguas envasadas, bebidas alcohólicas, cerveza y tabacos labrados. Asimismo, se consideran contribuciones asignables el predial y los derechos de agua.
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 4o.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+Se crea una reserva de contingencia consistente en un monto equivalente al 0.25% de la recaudación federal participable de cada ejercicio. El 50% de dicha reserva será distribuida cuatrimestralmente y el 50% restante se entregará al cierre del ejercicio fiscal, y se utilizará para apoyar a aquellas entidades cuya participación total en los Fondos General y de Fomento Municipal no alcance el crecimiento experimentado por la recaudación federal participable del año respecto a la de 1990. La reserva se distribuirá para garantizar un crecimiento en las participaciones igual a la de la recaudación federal participable.
+
+La distribución de la reserva de contingencia comenzará con la entidad que tenga el coeficiente de participación efectiva menor y continuará hacia la que tenga el mayor, hasta agotarse.
+
+El coeficiente de participación efectiva a que se refiere el párrafo anterior será el que resulte de dividir las participaciones efectivamente percibidas por cada entidad, entre el total de las participaciones pagadas en el ejercicio de que se trate.
+
+De la reserva a que se refiere el primer párrafo de este artículo, los Estados participarán a su (sic) municipios, como mínimo, una cantidad equivalente a la proporción que represente el conjunto de participaciones a sus municipios del total de participaciones de la entidad. En el conjunto de participaciones a los municipios, no se incluirán aquéllas a que se refieren las fracciones I y II del artículo 2o-A de esta Ley.
+
+Adicionalmente, se crea una reserva de compensación para las entidades federativas que sean afectadas por el cambio en la fórmula de participaciones. Esta reserva se formará con el remanente del 0.5% de la recaudación federal participable, a la que hace referencia el párrafo siguiente a la fracción III del artículo 2o., así como con el que se deriva de la parte del Fondo de Fomento Municipal, a que se refiere el artículo 2o-A fracción III, inciso 2, de esta Ley.
+
+El monto en que la entidad federativa de que se trate se vea afectada, se determinará restando de las participaciones que le hubieran correspondido, de conformidad con las disposiciones en vigor al 31 de diciembre de 1990, la participación efectiva de la entidad en el año que corresponda. La distribución de la reserva de compensación se hará de la entidad que se vea menos afectada hacia aquélla más afectada hasta agotarse, aplicándose anualmente al cierre de cada ejercicio fiscal.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -170,9 +212,9 @@ Cada cuatro meses la Federación realizará un ajuste de las participaciones, ef
 
 A más tardar dentro de los cinco meses siguientes al cierre de cada ejercicio fiscal, ésta determinará las participaciones que correspondan a la recaudación obtenida en el ejercicio, aplicará las cantidades que hubiera afectado provisionalmente a los Fondos y formulará de inmediato las liquidaciones que procedan.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-Durante los primeros meses de cada ejercicio, las participaciones en el Fondo General a que se refiere la fracción II del artículo 2o. de esta Ley, se calcularán provisionalmente con los coeficientes del ejercicio inmediato anterior, en tanto se cuente con la información necesaria para calcular los nuevos coeficientes.
+Durante los primeros meses de cada ejercicio, las participaciones en el Fondo General a que se refiere la fracción II del artículo 2o. y en el Fondo de Fomento Municipal que establece la fracción III del artículo 2o-A de esta Ley, se calcularán provisionalmente con los coeficientes del ejercicio inmediato anterior, en tanto se cuente con la información necesaria para calcular los nuevos coeficientes.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -180,7 +222,7 @@ Durante los primeros meses de cada ejercicio, las participaciones en el Fondo Ge
 
 Para los efectos de las participaciones a que esta Ley se refiere, las Entidades, los Municipios y la Federación estarán al resultado de la determinación y cobro, que hubieren efectuado de créditos fiscales derivados de la aplicación de leyes sobre ingresos federales.
 
-Sólo la Federación otorgará estímulos fiscales en relación con los ingresos federales, los cuales afectarán exclusivamente la percepción neta de la Federación. Las entidades no otorgarán estímulos en relación con las participaciones que reciban en ingresos federales.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -200,9 +242,9 @@ Las obligaciones de los Municipios se registrarán cuando cuenten con la garant�
 
 La Secretaría de Hacienda y Crédito Público efectuará pagos de las obligaciones garantizadas con afectación de participaciones siguiendo el orden cronológico de su inscripción.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-La compensación entre el derecho de las entidades y de los municipios a recibir participaciones y las obligaciones que tengan con la Federación, sólo podrán llevarse a cabo si existe acuerdo entre las partes interesadas o cuando esta Ley así lo autorice. Las deudas del estado derivadas de ajustes en participaciones o por sanciones por no cumplir metas pactadas con la Federación en materia de administración de impuestos, no están sujetas a lo dispuesto en el primer párrafo de este artículo y serán objeto de compensación.
+No estarán sujetas a lo dispuesto en el primer párrafo de este artículo las compensaciones que se requieran efectuar a las entidades como consecuencia de ajustes en participaciones o de descuentos originados del incumplimiento de metas pactadas con la Federación en materia de administración de impuestos.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -298,23 +340,41 @@ La Secretaría de Hacienda y Crédito Público comunicará esta resolución a la
 
 Las cantidades en que se reduzcan las participaciones de una entidad, en los términos de este precepto, incrementarán el Fondo General de Participaciones en el siguiente año, conforme a lo establecido en la fracción I del artículo 2o. de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 11-A.
 
-Las personas que resulten afectadas por resoluciones de una entidad federativa que falten al cumplimiento del acuerdo o del convenio celebrado con la Secretaría de Hacienda y Crédito Público en materia de coordinación fiscal, podrán presentar en cualquier tiempo recurso de inconformidad ante la Secretaría de Hacienda y Crédito Público.
+Las personas que resulten afectadas por incumplimiento de las disposiciones del Sistema Nacional de Coordinación Fiscal, de las de coordinación en materia de derechos o de adquisición de inmuebles, podrán presentar en cualquier tiempo recurso de inconformidad ante la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+El recurso de inconformidad, podrá presentarse por un conjunto de contribuyentes que tengan un representante común. Para estos efectos los sindicatos, las cámaras de comercio y de industria y sus confederaciones, podrán fungir como representantes.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 El recurso de inconformidad se tramitará conforme a las disposiciones que sobre el recurso de revocación establece el Código Fiscal de la Federación, con las siguientes modalidades:
 
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+
 I.- La Secretaría de Hacienda y Crédito Público oirá a la entidad de que se trate.
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 II.- La Secretaría de Hacienda y Crédito Público solicitará un dictamen técnico a la Junta de Coordinación Fiscal.
 
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+
 III.- El plazo para resolver el recurso será de un mes a partir de la fecha en que la Secretaría de Hacienda y Crédito Público reciba el dictamen a que se refiere la fracción anterior.
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 IV.- La resolución podrá ordenar a la Tesorería de la Federación la devolución de las cantidades indebidamente cobradas, con cargo a las participaciones de la entidad. A estas devoluciones les será aplicable lo que al respecto establece el Código Fiscal de la Federación.
 
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+
 La resolución podrá ser impugnada ante el Tribunal Fiscal de la Federación por los promoventes del recurso.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 Las entidades federativas podrán ocurrir ante la Suprema Corte de Justicia de la Nación, en los términos del artículo 12 de esta Ley.
 
@@ -372,9 +432,9 @@ La recaudación de los ingresos federales se hará por las oficinas autorizadas 
 
 Cuando la entidad recaude ingresos federales, los concentrará directamente a dicha Secretaría y rendirá cuenta pormenorizada de recaudación. La Secretaría, también directamente, hará el pago a las entidades de las cantidades que les correspondan en el Fondo establecido en el artículo 2o. y pondrá a su disposición la información correspondiente. Se podrá establecer, si existe acuerdo entre las partes interesadas, un procedimiento de compensación permanente.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-Como excepción a lo dispuesto en el párrafo anterior, las Entidades, sin perjuicio de rendir su cuenta comprobada por la totalidad de la recaudación que efectúen y de las cantidades que reciban del impuesto al valor agregado, sólo concentrarán a la Secretaría de Hacienda y Crédito Público el 20% del impuesto sobre tenencia o uso de vehículos, cuando estén coordinadas con la Federación en materia de adquisición de inmuebles.
+Las entidades coordinadas con la Federación en materia de tenencia o uso de vehículos deberán rendir cuenta comprobada por la totalidad de la recaudación que efectúen de este impuesto.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -785,5 +845,31 @@ La presente Ley entrará en vigor el día 1o. de enero de 1990.
 ###### ARTICULO SEGUNDO.
 
 Quedan sin efectos las disposiciones administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieran otorgado a título particular, que contravengan o se opongan a lo preceptuado en esta Ley.
+
+D.O.F. 26 DE DICIEMBRE DE 1990.
+
+DISPOSICIONES TRANSITORIAS
+
+###### ARTICULO SEPTIMO.
+
+Para los efectos de lo dispuesto por el ARTICULO QUINTO de esta Ley, se estará a las siguientes disposiciones transitorias:
+
+I.- Durante los años de 1991 a 1993, en lugar de los porcientos a que se refieren las fracciones I y II del Artículo 2o. de esta Ley, se aplicarán los siguientes:
+
+AÑO FRACCION I FRACCION II
+
+1991 18.05% 72.29%
+
+1992 27.10% 63.24%
+
+1993 36.15% 54.19%
+
+II.- Para efectos de lo establecido por el artículo 3o. de la Ley de Coordinación Fiscal, en el año de 1991 se incluirá dentro de los impuestos asignables a que se refiere dicho artículo el impuesto especial sobre producción y servicios en el concepto de gasolina, referido a los años de 1988 y 1989, en lugar del de petrolíferos, referido al de 1989 y 1990.
+
+III.- A partir de 1991, el Distrito Federal participará del Fondo de Fomento Municipal. Para tal efecto, se adicionará éste con recursos federales con la proporción de la recaudación federal participable que represente en dicho año, la cantidad de ciento ochenta mil millones de pesos. Esta proporción pasará a ser parte integrante del Fondo de Fomento Municipal, siguiendo la misma suerte de éste y será la base a partir de la cual se constituirá el coeficiente de participaciones de la entidad mencionada en dicho año. A partir de 1992, la participación del Distrito Federal en el Fondo citado se determinará conforme a lo dispuesto por el artículo 2o.-A de la Ley de Coordinación Fiscal.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1991. ...
 
 ## TRANSITORIO
