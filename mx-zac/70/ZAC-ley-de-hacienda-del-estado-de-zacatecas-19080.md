@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-del-estado-de-zacatecas-19080"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2002-12-14"
+last_updated: "2003-01-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre del 2000.
 
@@ -243,9 +243,11 @@ Es objeto de este impuesto, el entero de los impuestos y derechos propios del Es
 
 DEL SUJETO
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 1 DE ENERO DE 2003)</small>
+
 ###### ARTICULO 22.
 
-Son sujetos del impuesto, los contribuyentes afectos al pago de impuestos o derechos del Estado.
+Son sujetos del impuesto, los contribuyentes afectos al pago de impuestos o derechos del Estado, así como los del impuesto sobre tenencia o uso de vehículos federal, que realicen el pago en el Estado.
 
 DE LA BASE
 
@@ -269,9 +271,11 @@ El impuesto se calculará aplicando a la base determinada, la tasa establecida e
 
 El pago deberá hacerse al momento de enterar los impuestos o derechos correspondientes.
 
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+
 ###### ARTICULO 27.
 
-Este impuesto será destinado a subsidiar a la Universidad Autónoma de Zacatecas.
+Este impuesto será destinado a la Universidad Autónoma de Zacatecas.
 
 ### CAPITULO IV. DEL IMPUESTO SOBRE NOMINAS
 
@@ -427,31 +431,27 @@ i) Las integradoras de comercialización de productos agrícolas zacatecanos que
 
 DE LAS OBLIGACIONES
 
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+
 ###### ARTICULO 34.
 
 Los contribuyentes de este impuesto, tendrán las siguientes obligaciones, además de las señaladas en este capítulo:
 
-1) Presentar aviso de inscripción en la oficina recaudadora de rentas del Estado más cercana a su domicilio, dentro de los veinte días naturales siguientes a la fecha en que inicie las actividades por las cuales deba efectuar el pago de este impuesto, en las formas autorizadas para tal efecto.
+I. Presentar aviso de inscripción en la oficina recaudadora de rentas del Estado más cercana a su domicilio, dentro de los veinte días naturales siguientes a la fecha en que inicie las actividades por las cuales deba efectuar el pago de este impuesto, en las formas autorizadas para tal efecto.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+II. Presentar ante las mismas autoridades y dentro de los quince días naturales siguientes, los avisos de cambio de nombre o razón social, domicilio, actividad, suspensión de actividades o clausura.
 
-2) Presentar ante las mismas autoridades y dentro de los quince días naturales siguientes, los avisos de cambio de nombre o razón social, domicilio, actividad, suspensión de actividades o clausura.
+III. Presentar las declaraciones correspondientes aún cuando no exista cantidad a pagar.
 
-3) Presentar las declaraciones correspondientes aún cuando no exista cantidad a pagar, a excepción de los sujetos descritos en la fracción I del artículo 31 de esta ley.
+IV. Proporcionar los documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al respecto.
 
-4) Proporcionar los documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al respecto.
+V. Los sujetos señalados en el artículo 29 que para efectos de impuestos federales tengan su domicilio fiscal en otra entidad federativa, pero que efectúen pagos en el Estado por remuneraciones al trabajo personal subordinado, deberán registrar como domicilio fiscal estatal el lugar donde se origine dicha contraprestación, cumpliendo con las obligaciones señaladas en este capítulo. En el caso de que tenga más de una sucursal en el Estado, el domicilio fiscal de todas las sucursales ubicadas en el Estado, será en donde la sucursal que tenga mayor erogación por concepto de contraprestación laboral.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+VI. Registrar en contabilidad y conservar la documentación comprobatoria, nóminas, listas de raya o cualquier otro medio de captura de información relacionado con este impuesto por un período de cinco años, a partir de la fecha en que se presentaron o debieron haberse presentado las declaraciones con ellas relacionadas.
 
-5) Los sujetos señalados en el artículo 29 para efectos de impuestos federales tengan su domicilio fiscal en otra entidad federativa, pero que efectúen pagos en el Estado por remuneraciones al trabajo personal subordinado, deberán registrar como domicilio fiscal estatal el lugar donde se origine dicha contraprestación, cumpliendo con las obligaciones señaladas en este capítulo. En el caso de que tenga más de una sucursal en el Estado, el domicilio fiscal de todas las sucursales ubicadas en el Estado será en donde se ubique la sucursal que tenga mayor erogación por concepto de contraprestación laboral.
+VII. Cuando los contribuyentes detecten diferencias en sus pagos, deberán presentar declaraciones complementarias para corregir las diferencias.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE ENERO DE 2002)</small>
-
-6) Registrar en contabilidad y Conservar la documentación comprobatoria, nóminas, listas de raya o cualquier otro medio de captura de información relacionado con este impuesto por un período de cinco años, a partir de la fecha en que se presentaron o debieron haberse presentado las declaraciones con ellas relacionadas.
-
-7) Cuando los contribuyentes detecten diferencias en sus pagos, deberán presentar declaraciones complementarias para corregir las diferencias.
-
-8) Los sujetos de este impuesto que tengan una o más sucursales dentro del Estado, presentarán una sola declaración en la que concentrarán la totalidad de las erogaciones gravadas.
+VIII. Los sujetos de este impuesto que tengan una o más sucursales dentro del Estado, presentarán una sola declaración en la que concentrarán la totalidad de las erogaciones gravadas.
 
 ### CAPITULO V. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
@@ -481,11 +481,17 @@ Las autoridades competentes no autorizarán registros de vehículos, matrículas
 
 Son responsables solidarios del pago de este impuesto:
 
-1.- Quienes por cualquier título adquieran la propiedad, tenencia o uso del vehículo, por el adeudo del impuesto que en su caso existiera.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
 
-2.- Quienes reciban en consignación o comisión para su enajenación vehículos, por el adeudo del impuesto que exista en su caso.
+I. Quienes por cualquier título adquieran la propiedad, tenencia o uso del vehículo, por el adeudo del impuesto que en su caso existiera.
 
-3.- Las personas que en el ejercicio de sus funciones, autoricen altas o cambios de placas, sin cerciorarse del pago del impuesto.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+
+II. Quienes reciban en consignación o comisión para su enajenación vehículos, por el adeudo del impuesto que exista en su caso.
+
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+
+III. Las personas que en el ejercicio de sus funciones, autoricen altas o cambios de placas, sin cerciorarse del pago del impuesto.
 
 DEL PAGO
 
@@ -507,17 +513,19 @@ El pago de este impuesto deberá efectuarse anualmente dentro de los tres primer
 
 ## TITULO III. DE LOS DERECHOS
 
-### CAPITULO II. SERVICIOS DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO Y CORDINACION GENERAL JURIDICA
+### CAPITULO II. SERVICIOS DE LA SECRETARIA GENERAL DE GOBIERNO Y DE LA COORDINACION GENERAL JURIDICA
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 40.
 
 Los derechos por la prestación de servicios públicos se causarán en el momento en que el particular solicite la prestación del servicio, o en el momento en que se provoque por parte del Estado, el gasto que deba ser remunerado por aquél, salvo que la ley disponga cosa distinta.
 
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+
 ###### ARTICULO 41.
 
-El importe de los derechos se determinará de acuerdo con las cuotas que señale esta misma Ley, y será cubierto en la oficina recaudadora de la jurisdicción donde se preste el servicio, o en las instituciones de crédito autorizadas.
+Los derechos se determinarán de acuerdo con las cuotas e importes que señala esta misma Ley, y serán cubiertos en la oficina recaudadora de la jurisdicción en donde se preste el servicio, o en las instituciones de crédito autorizadas.
 
 ###### ARTICULO 42.
 
@@ -535,7 +543,7 @@ La Federación, los municipios, los organismos públicos de seguridad social, de
 
 Las certificaciones que soliciten las autoridades para surtir efectos probatorios en juicios penales o amparos, y las que expidan las autoridades judiciales con el mismo fin, están exentas del pago de derechos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE ENERO DE 2003)</small>
 
 ### CAPITULO III. SERVICIOS DE LA SECRETARÍA DE FINANZAS
 
@@ -543,69 +551,141 @@ Las certificaciones que soliciten las autoridades para surtir efectos probatorio
 
 Los servicios que preste la Secretaría General de Gobierno por concepto de:
 
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+
 I. Expedición de certificados de:
 
-a) Remisión parcial de la pena 1 cuota;
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-b) Libertad condicional 1 cuota;
+a) Remisión parcial de la pena 2 cuotas;
 
-c) Indulto 5 cuotas;
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+
+b) Libertad condicional 2 cuotas;
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+
+c) Indulto 10 cuotas;
+
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 2003)</small>
+
+d) Preliberaciones 2 cuotas
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
 II. Legalización de las firmas ológrafas de Servidores Públicos y de Notarios Públicos:
 
-a) Certificado de estudio 1 cuota
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-b) Título profesional 1 cuota
+a) Certificado de estudio 2 cuotas
 
-c) De cualquier materia 1 cuota
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-d) De notarios públicos 1 cuota
+b) Título profesional 2 cuotas
 
-e) De exhortos 1 cuota
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+
+c) De cualquier materia 2 cuotas
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+
+d) De notarios públicos 2 cuotas
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+
+e) De exhortos 2 cuotas
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
 III. Emisión de opinión relativa a juegos y sorteos: 37 cuotas;
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(ADICIONADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 46
 
 BIS.- Los servicios que preste la Coordinación General Jurídica a través de:
 
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2002)</small>
+
 I. La Dirección de Fraccionamientos:
 
-a) Expedición de Título 5 cuotas;
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2002)</small>
 
-b) Constancia para Procampo 0 cuotas;
+a) Expedición de Título 5 cuotas
 
-c) Autorización para crédito con banco 1.5 cuotas;
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2002)</small>
 
-d) Adjudicaciones 5% Avalúo Catastral;
+b) Constancia para Procampo 0 cuotas
 
-e) Copia certificada del título 5 cuotas;
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2002)</small>
 
-f) Copia simple año 2001 $2.90 siguiente: $1.50;
+c) Autorización para crédito con banco 1.5 cuotas
 
-g) Copia simple año 2000 $4.40 siguiente: $1.40;
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2002)</small>
 
-h) Copia simple año 1999 $5.43 siguiente: $1.50;
+d) Adjudicaciones 5% avalúo catastral;
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2002)</small>
+
+e) Copia certificada del título 5 cuotas
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+
+f) Copia simple año 2002 $3.20
+
+siguiente: $1.70
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+
+g) Copia simple año 2001 $4.80
+
+siguiente: $1.70
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+
+h) Copia simple año 2000 $ 6.00
+
+siguiente: $1.70
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2002)</small>
 
 i) Copia simple de título 2 cuotas;
 
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2002)</small>
+
 j) Por cambio de uso de suelo 1.5 cuotas;
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2002)</small>
 
 k) Copia certificada simple (de una a cinco) 2 cuotas;
 
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2002)</small>
+
 II. La Dirección del Registro Civil:
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2002)</small>
 
 a) Expedición de acta 1 cuota;
 
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2002)</small>
+
 b) Expedición de constancia de inexistencia 1 cuota;
 
-c) Expedición de segundo testimonio 1 cuota por hoja;
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2002)</small>
+
+c) Expedición de segundo testimonio 1 cuota por hoja
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2002)</small>
 
 d) Certificación del protocolo de los notarios 1 cuota por libro;
 
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2002)</small>
+
 e) Expedición de copia certificada 1 cuota por hoja;
+
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 2003)</small>
+
+f) Remisión de actas a personas radicadas fuera del Estado 4 cuotas.
 
 ### CAPITULO IV. SERVICIOS DE CATASTRO
 
@@ -675,11 +755,15 @@ Por cada foja: 1 cuota;
 
 Los derechos a que se refiere este artículo, cuando sean tramitados por contribuyentes con establecimientos o locales en los que se expendan bebidas alcohólicas para su consumo dentro de los mismos, se incrementarán en un 10%.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2003)</small>
+
 ###### ARTICULO 48.
 
-Los servicios que presten por concepto de:
+Los servicios que se presten por concepto de:
 
-I. Registro y expedición de placas incluyendo calcomanía y tarjeta de circulación con vigencia al 31 de marzo del año siguiente para:
+> <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PÁRRAFO], P.O. 1 DE ENERO DE 2003)</small>
+
+I. Registro y expedición de placas incluyendo calcomanías y tarjeta de circulación con vigencia al 31 de marzo del año siguiente, deberá efectuarse durante los primeros tres meses del mencionado año para:
 
 a) Vehículo de servicio particular 13 cuotas;
 
@@ -707,63 +791,63 @@ Los propietarios de unidades que se encuentran registradas en el padrón estatal
 
 Cuando no se cubra la contribución dentro del plazo señalado, deberán pagarse recargos y actualización por concepto de indemnización a la Hacienda Pública Estatal por falta de pago oportuno, de conformidad con la Ley de Ingresos del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PARRAFO, P.O. 1 DE ENERO DE 2003)</small>
 
 ###### ARTICULO 49.
 
-El refrendo de la tarjeta de circulación y expedición de calcomanía con vigencia al 31 de marzo del año siguiente, deberá efectuarse durante los primeros tres meses del mencionado año, para:
+El refrendo de la tarjeta de circulación y expedición de calcomanía con vigencia al 31 de marzo del año siguiente, deberá efectuarse durante los primeros tres meses del ejercicio por el cual se está cubriendo el derecho de refrendo, para:
 
 I. Vehículos de servicio particular:
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-a) Modelos 2002 12 cuotas;
+a) Modelos 2003 12 cuotas;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-b) Modelos 2001 11 cuotas;
+b) Modelos 2002 11 cuotas;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-c) Modelos 2000 10 cuotas;
+c) Modelos 2001 10 cuotas;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-d) Modelos 1999 9 cuotas;
+d) Modelos 2000 9 cuotas;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-e) Modelos 1998 8 cuotas;
+e) Modelos 1999 8 cuotas;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-f) Modelos 1997 y anteriores 7 cuotas;
+f) Modelos 1998 y anteriores 7 cuotas;
 
 II. Vehículos de servicio público:
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-a) Modelos 2002 12 cuotas;
+a) Modelos 2003 12 cuotas;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-b) Modelos 2001 11 cuotas;
+b) Modelos 2002 11 cuotas;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-c) Modelos 2000 10 cuotas;
+c) Modelos 2001 10 cuotas;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-d) Modelos 1999 9 cuotas;
+d) Modelos 2000 9 cuotas;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-e) Modelos 1998 8 cuotas;
+e) Modelos 1999 8 cuotas;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-f) Modelos 1997 y anteriores 7 cuotas;
+f) Modelos 1998 y anteriores 7 cuotas;
 
 III. Remolques 5 cuotas;
 
@@ -797,7 +881,7 @@ d) Tratándose de terrenos rústicos cuyo valor se encuentre entre 4 y 8 veces e
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-e) Tratándose de predio con construcción, cuyo valor no exceda al equivalente a 7 veces el salario mínimo general vigente elevado al año. (valor catastral asignado a la vivienda popular) 6 cuotas;
+e) Tratándose de predio con construcción, cuyo valor no exceda al equivalente a 7 veces el salario mínimo general vigente elevado al año.(valor catastral asignado a la vivienda popular) 6 cuotas;
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
@@ -897,9 +981,9 @@ excedente. 1 cuota 1 cuota 1 cuota
 
 k) Si el levantamiento topográfico se solicita con curvas de nivel, se tasará el doble de lo que resulte la clasificación del terreno que le corresponda;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-l) Cuando el levantamiento topográfico que se solicite deba realizarse a una distancia mayor a un radio de 30 Kms. de la ciudad de Zacatecas, se cobrará por cada kilómetro adicional $ 4.00;
+l) Cuando el levantamiento topográfico que se solicite deba realizarse a una distancia mayor a un radio de 30 kilómetros de la ciudad de Zacatecas, se cobrará por cada kilómetro adicional $ 4.40;
 
 V. Elaboración del plano que tenga por objeto el servicio a que se refiere la fracción anterior:
 
@@ -931,7 +1015,11 @@ c) Plano manzanero de zonas urbanas de las cabeceras municipales de: Morelos, Vi
 
 Ortega, Chalchihuites, Fco. R. Murguía, Concepción del Oro, Cuauhtémoc, Tepechitlán y Trancoso. 24 cuotas
 
-d) Plano manzanero de zonas urbanas de las cabeceras municipales de: Apozol, Apulco, Atolinga, Benito Juárez, Jiménez del Téul, García de la Cadena, Genaro Codina, Gral. Enrique Estrada, Gral. Joaquín Amaro, Gral. Pánfilo Natera, Huanusco, Momax, Moyahua de Estrada, Mazapil, Melchor Ocampo, Mezquital del Oro, Noria de Angeles, Pánuco, El Salvador, Susticacán, Vetagrande, Villa Hidalgo y Villa González Ortega. 15 cuotas
+d) Plano manzanero de zonas urbanas de las cabeceras municipales de: Apozol, Apulco, Atolinga, Benito Juárez, Jiménez del Téul, García de la Cadena, Genaro Codina, Gral.
+
+Enrique Estrada, Gral. Joaquín Amaro, Gral. Pánfilo Natera, Huanusco, Momax, Moyahua de Estrada, Mazapil, Melchor Ocampo, Mezquital del Oro, Noria de Angeles, Pánuco, El
+
+Salvador, Susticacán, Vetagrande, Villa Hidalgo y Villa González Ortega. 15 cuotas
 
 e) Plano del Estado de Zacatecas con la división política de los Municipios, vías de comunicación y localización de poblaciones. 32 cuotas
 
@@ -957,13 +1045,17 @@ XI. Expedición de copia de título de propiedad o de otro existente en los arch
 
 a) Certificadas hasta cinco fojas: 5 cuotas
 
-Por cada foja excedente $ 15.00
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+
+Por cada foja excedente $ 16.50
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
 b) Simples, hasta 5 fojas: 2 cuotas
 
-Por cada foja excedente $ 15.00
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+
+Por cada foja excedente $ 16.50
 
 XII. Verificación física de inmueble 10 cuotas;
 
@@ -987,7 +1079,7 @@ I. Calificación Registral, por testimonio o documento ½ cuota
 
 II. Inscripción de documentos relativos a bienes inmuebles:
 
-> <small>(ADICIONADO, [N. DE E. REFORMADO] P.O. 2 DE ENERO DE 2002)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE ENERO DE 2002)</small>
 
 a) Tratándose de inmuebles con valor de hasta siete veces el salario
 
@@ -995,7 +1087,7 @@ mínimo vigente elevado al año, se cubrirá la tarifa mínima general por
 
 inmueble equivalente a: 12 cuotas
 
-> <small>(ADICIONADO, [N. DE E. REFORMADO] P.O. 2 DE ENERO DE 2002)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE ENERO DE 2002)</small>
 
 b) Tratándose de inmuebles cuyo valor se sitúe entre las 7.0 y 14.0 veces el
 
@@ -1175,11 +1267,15 @@ Expedición de copia de título de propiedad o de cualquier otro documento exist
 
 I. Certificadas hasta cinco fojas: 5 cuotas
 
-Por cada foja excedente $ 15.00
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+
+Por cada foja excedente $ 16.50
 
 II. Simples, hasta cinco fojas: 2 cuotas
 
-Por cada foja excedente $ 10.00
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+
+Por cada foja excedente $ 11.00
 
 ###### ARTICULO 56.
 
@@ -1213,91 +1309,101 @@ I. Otorgamiento de licencia con vigencia de un año para fraccionar, lotificar o
 
 a) De interés social:
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-1.- De 1-00-00 a 5-00-00 has, por m2 $ 0.28
+1.- De 1-00-00 a 5-00-00 has, por m2 vendible $ 0.30;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-2.- De 5-00-01 has, en adelante por m2 $ 0.45
+2.- De 5-00-01 has, en adelante por m2 vendible $ 0.50;
 
 b) Habitaciones de tipo medio:
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-1.- De 1.00.01 has, en adelante por m2 $ 0.45
+1.- De 1.00.01 has, en adelante por m2 vendible $ 0.50;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-c) Habitacional residencial, por m2 $ 1.17;
+c) Habitacional residencial, por m2 vendible $ 1.30;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-d) Habitacional campestre, por m2 $ 1.17;
+d) Habitacional campestre, por m2 vendible $ 1.30;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
 e) Comercial y zonas destinadas al comercio en los fraccionamientos
 
-habitacionales, por m2 $ 1.45;
+habitacionales, por m2 vendible $ 1.60;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-f) Granja de explotación agropecuaria, por m 2 $ 1.45;
+f) Granja de explotación agropecuaria, por m2 vendible $ 1.60;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-g) Funerario o cementerio, por m3 del volumen de las fosas o gavetas.$ 4.86;
+g) Funerario o cementerio, por m3 del volumen de las fosas o gavetas $ 5.30;
+
+> <small>[N. DE E. ESTE PARRAFO NO FUE ABROGADO EXPRESAMENTE POR EL LEGISLADOR, P.O. 1 DE ENERO DE 2003]</small>
 
 Cuando las obras autorizadas no se ejecuten dentro de la vigencia de la autorización, se deberá solicitar el refrendo de la misma debiendo cubrirse los derechos en términos de este artículo como si se tratare de una inicial;
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
-II. Expedición de dictamen para diligencia de información Ad-Perpetuam
+II. Expedición de dictamen para diligencia de información Ad-Perpetuam;
 
 a) Rústicos:
 
-1.- Hasta 1-00-00 Has. 9 cuotas
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-2.- De 1-00-01 Has; en adelante, se aumentará por hectárea o fracción 4.5 cuotas.
+1.- Hasta 1-00-00 Has 10 cuotas;
 
-> <small>(REFORMADO P.O. 14 DE DICIEMBRE DE 2002)</small>
+2.- De 1-00-01 Has en adelante, se aumentará por hectárea o fracción 4.5 cuotas.
 
-b) Urbano, por m2 $1.50;
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+
+b) Urbano, por m2 $2.00;
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
-III.- Expedición de constancia estatal de compatibilidad urbanística 4 cuotas
+III.- Expedición de constancia estatal de compatibilidad urbanística 4 cuotas;
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-IV. Registro de director responsable de obra, con vigencia de un año: 16 cuotas.
+IV. Registro de director responsable de obra, con vigencia de un año: 16 cuotas;
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
-V. Revalidación anual de registro de director responsable de obra: 8 cuotas.
+V. Revalidación anual de registro de director responsable de obra: 8 cuotas;
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2003)</small>
+
+VI. Por cada copia de expediente de documentos de Programas y Esquemas de Desarrollo Urbano o de Fraccionamientos Urbanos Autorizados 1 cuota;
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2003)</small>
+
+VII. Por cada copia heliográfica de planos de Programas y Esquemas de Desarrollo Urbano o de Fraccionamientos Urbanos Autorizados 3 cuotas.
 
 ###### ARTICULO 59.
 
 Los servicios prestados por concepto de inscripción a concurso: 34 cuotas;
 
-> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
 
-I. Por cada disco magnético que se proporcione a los concursantes: $7.00
+I. Por cada disco magnético que se proporcione a los concursantes: $7.70;
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
 
-II.Por cada foja de la base y demás documentos que se proporcionen
+II. Por cada foja de la base y demás documentos que se proporcionen a los concursantes: $ 3.40;
 
-a los concursantes: $ 3.10 c/u;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+III. Por cada copia heliográfica de los planos que se proporcionen: $1.50;
 
-III.Por cada copia heliográfica de los planos que se proporcionen: $1.35 cada uno;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
 
-> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2002)</small>
-
-IV.Sobre tamaño legal para cada paquete de concurso: 2.50
+IV. Sobre tamaño legal para cada paquete de concurso: $2.80;
 
 > <small>(ADICIONADA, P.O. 2 DE ENERO DE 2002)</small>
 
@@ -1339,49 +1445,49 @@ b) Tipo medio básico $ 8.00
 
 III. Expedición de duplicados de certificados de estudios de:
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-a) Primaria o secundaria $ 20.00
+a) Primaria o secundaria $ 22.00;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-b) Academias $ 25.00
+b) Academias $ 27.50;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-c) Nivel medio superior $ 25.00
+c) Nivel medio superior $ 27.50;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-d) De tipo superior $ 35.00
+d) De tipo superior $ 38.50.
 
 IV. Práctica de examen extraordinario por materia:
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-a) De educación secundaria $ 7.50
+a) De educación secundaria $ 8.30;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-b) De nivel medio superior o academias $ 10.00
+b) De nivel medio superior o academias $ 11.00;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-c) De tipo superior $ 15.00
+c) De tipo superior $ 16.50.
 
 V. Exámenes a título de suficiencia:
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-a) De educación primaria $ 15.00
+a) De educación primaria $ 16.50;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-b) De educación secundaria, por materia $ 10.00
+b) De educación secundaria, por materia $ 11.00;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-c) De tipo superior, por materia $ 25.00
+c) De tipo superior, por materia $ 27.50.
 
 VI. Exámenes profesionales que sustenten los egresados de escuelas del Estado:
 
@@ -1393,19 +1499,19 @@ a) De centros de capacitación para el trabajo o academias 1 cuota
 
 b) De idiomas 1 cuota
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-c) De tipo superior $50.00;
+c) De tipo superior $55.00;
 
 VII. Revalidación de estudios de:
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-a) Primaria $ 10.00
+a) Primaria $ 11.00;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-b) Secundaria, por grado $ 25.00
+b) Secundaria, por grado $ 27.50;
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
@@ -1415,35 +1521,31 @@ c) Tipo medio superior 6 cuotas
 
 d) Tipo superior 16 cuotas
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
 
-VIII. Forma de certificado o boleta de evaluación extra a la dotación ordinaria,
+VIII. Forma de certificado o boleta de evaluación extra a la dotación ordinaria, por cada una: $ 5.50;
 
-por cada una: $ 5.00;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
-
-IX. Expedición de copias certificadas de documentos,
-
-por cada foja tamaño carta u oficio $ 10.00;
+IX. Expedición de copias certificadas de documentos, por cada foja tamaño carta u oficio $ 11.00.
 
 X. Reposición de certificados:
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-a) De primaria o secundaria $ 30.00
+a) De primaria o secundaria $ 33.00;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-b) De tipo medio superior o academias $ 45.00
+b) De tipo medio superior o academias $ 49.50;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-c) De tipo superior $ 60.00
+c) De tipo superior $ 66.00;
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
 
-XI. Compulsa de documentos, por foja: $ 7.00;
+XI. Compulsa de documentos, por foja: $ 7.70;
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
@@ -1461,41 +1563,41 @@ XIV. Por solicitud, estudio y resolución del trámite de reconocimiento de vali
 
 XV. Acreditación y certificación de conocimiento de tipo elemental:
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-a) Completo $ 20.00
+a) Completo $ 22.00;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-b) Por área $ 10.00
+b) Por área $ 11.00;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-c) Por grado $ 5.00;
+c) Por grado $ 5.50.
 
 XVI. Acreditación y certificación de conocimiento, por materia de:
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-a) Secundaria $ 10.50
+a) Secundaria $ 11.50;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-b) Preparatoria $ 15.00
+b) Preparatoria $ 16.50;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-c) Tipo superior $ 25.00
+c) Tipo superior $ 27.50.
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
 
-XVII. Revisión de certificados de estudios, por grado escolar $ 5.00;
+XVII. Revisión de certificados de estudios, por grado escolar $ 5.50;
 
 XVIII. Equivalencia de estudios:
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-a) Secundaria, por grado $ 25.00
+a) Secundaria, por grado $ 27.50;
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
@@ -1507,31 +1609,29 @@ c) Tipo superior 16 cuotas
 
 XIX. Inspección y vigilancia de establecimientos educativos particulares, por alumno inscrito en cada ejercicio escolar:
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-a) De tipo inicial y preescolar $ 4.00
+a) De tipo inicial y preescolar $ 4.50;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-b) De tipo elemental $ 6.00
+b) De tipo elemental $ 6.50;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-c) De tipo medio, academias comerciales o centros de capacitación
+c) De tipo medio, academias comerciales o centros de capacitación para el trabajo $9.00;
 
-para el trabajo $8.00
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
-
-d) De tipo superior $ 11.00
+d) De tipo superior $ 12.00;
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
 XX. Registro de colegio de profesionistas 28 cuotas;
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
 
-XXI. Registro de títulos profesionales $ 15.00
+XXI. Registro de títulos profesionales $ 16.50.
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
@@ -1539,13 +1639,13 @@ XXII. Autorización provisional para ejercer como pasante 3 cuotas;
 
 XXIII. Legalización de certificados:
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-a) Secundaria $ 25.00
+a) Secundaria $ 27.50;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-b) Medio superior $ 35.00
+b) Medio superior $ 38.50;
 
 > <small>(ADICIONADA, P.O. 2 DE ENERO DE 2002)</small>
 
@@ -1555,19 +1655,25 @@ XXIV. Por solicitud, estudio y resolución del trámite de autorización para im
 
 XXV. Por solicitud, estudio y resolución del trámite de cambio a planes y programas de estudio de tipo superior con reconocimiento de validez oficial. 59 cuotas.
 
-### CAPITULO X. SERVICIOS DE SEGURIDAD PUBLICA Y VIALIDAD
+### CAPITULO X. SERVICIOS DE LA DIRECCION DE TRANSPORTE PUBLICO Y VIALIDAD
 
 ###### ARTICULO 63.
 
 Los servicios prestados por concepto de:
 
-I. Autorización de traslado de cadáver: $ 20.00
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+
+I. Autorización de traslado de cadáver: $ 22.00
 
 II. Otorgamiento a proveedores de las bases para concurso de
 
 a) Adquisiciones, hasta 10 fojas: 12 cuotas
 
-b) Por cada foja adicional $ 25.00.
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+
+b) Por cada foja adicional $ 27.50
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE ENERO DE 2003)</small>
 
 ### CAPITULO XI. SERVICIOS DEL INSTITUTO DE ECOLOGIA Y MEDIO AMBIENTE
 
@@ -1577,35 +1683,53 @@ Los servicios prestados por concepto de:
 
 I. Por expedición de licencia de manejo, incluido el examen médico para tal efecto:
 
-a) Operador de servicio público 6 cuotas;
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-b) Chofer 4 cuotas;
+a) Operador de servicio público 7 cuotas;
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-c) Chofer (plastificada) 6 cuotas;
+b) Chofer 9 cuotas;
 
-d) Automovilista 3 cuotas;
+> <small>(REFORMADO [N. DE E. ANTES INCISO D], P.O. 1 DE ENERO DE 2003)</small>
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2002)</small>
+c) Automovilista 4 cuotas;
 
-e) Automovilista (plastificada) 6 cuotas;
+> <small>(REFORMADO [N. DE E. ANTES INCISO E], P.O. 1 DE ENERO DE 2003)</small>
 
-f) Motociclista 2 cuotas
+d) Automovilista (plastificada) 8 cuotas;
 
-II. Examen médico a conductores de vehículo que participen en un hecho de tránsito: 1 cuota;
+> <small>(REFORMADO [N. DE E. ANTES INCISO F], P.O. 1 DE ENERO DE 2003)</small>
 
-> <small>(ADICIONADA, [N. DE E. REFORMADA] P.O. 2 DE ENERO DE 2002)</small>
+e) Motociclista 3 cuotas;
 
-III. Expedición de permiso provisional de manejo para mayores de 16 años y menores de 18 años incluido certificado médico, hasta por 90 días: 1 cuota;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 2003)</small>
 
-IV. Vehículo depositado en los recintos de tránsito, por día: $ 2.10;
+II. Examen médico a conductores de vehículo:
 
-V. Gafetes para operadores del servicio público 5 cuotas;
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 2003)</small>
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+a) Examen médico a conductores de vehículos que participen en un hecho de tránsito aplicándose (etílico) 3 cuotas;
 
-VI. Por servicio de grúa 4 cuotas;
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 2003)</small>
+
+b) Toxicológico 6 cuotas.
+
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+
+III. Expedición de permiso provisional de manejo para mayores de 16 años y menores de 18 años incluido certificado médico, hasta por 90 días: 2 cuotas;
+
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+
+IV. Vehículo depositado en los recintos de tránsito, por día: $ 25.00;
+
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+
+V. Gafetes para operadores del servicio público 6 cuotas;
+
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+
+VI. Por servicio de grúa 5 cuotas;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2002)</small>
 
@@ -1615,27 +1739,55 @@ VII. Expedición de permiso para circular sin placas:
 
 a) Por 5 días
 
-- Servicio Público: 3 cuotas;
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-- Servicio Particular: 2 cuotas;
+1. Servicio Público: 5 cuotas;
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+
+2. Servicio Particular: 3 cuotas.
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
 b) Por 10 días
 
-- Servicio Público: 5 cuotas;
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-- Servicio Particular: 4 cuotas;
+1. Servicio Público: 7 cuotas;
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+
+2. Servicio Particular: 5 cuotas.
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
 c) Por 15 días
 
-- Servicio Público: 7 cuotas;
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-- Servicio Particular: 6 cuotas.
+1. Servicio Público: 9 cuotas;
 
-Los permisos expedidos no podrán otorgarse por más de 30 días naturales.
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+
+2. Servicio Particular: 7 cuotas.
+
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 2003)</small>
+
+d) Por treinta días:
+
+1. Servicio Particular: 14 cuotas;
+
+2. Servicio Público: 16 cuotas.
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2003)</small>
+
+VIII. Permiso para carga y descarga:
+
+a) Por un día 3 cuotas;
+
+b) Por treinta días 11 cuotas.
+
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 1 DE ENERO DE 2003)</small>
 
 ###### ARTICULO 65.
 
@@ -1643,43 +1795,57 @@ La revisión operativa de unidades de servicio público de pasajeros y carga:
 
 I. Servicio público de transporte colectivo urbano y suburbano, por unidad:
 
-a) Iniciación 201 cuotas
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+a) Iniciación 240 cuotas;
 
-b) Año posterior 8 cuotas
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+
+b) Año posterior 10 cuotas.
 
 II. Servicio público de transporte colectivo foráneo, por unidad:
 
-a) Iniciación 193 cuotas
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+a) Iniciación 230 cuotas;
 
-b) Año posterior 8 cuotas;
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+
+b) Año posterior 10 cuotas.
 
 III. Servicio público de taxi, por unidad
 
-a) Iniciación 153 cuotas
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+a) Iniciación 184 cuotas;
 
-b) Año posterior 8 cuotas;
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+
+b) Año posterior 10 cuotas.
 
 IV. Servicio público de transporte turístico, por unidad:
 
-a) Iniciación 102 cuotas
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+a) Iniciación 122 cuotas;
 
-b) Año posterior 8 cuotas;
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+
+b) Año posterior 10 cuotas.
 
 V. Servicio público de arrendamiento, hasta por 10 unidades:
 
-a) Iniciación 153 cuotas
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-b) Por cada unidad excedente de las 10 primeras. 51 cuotas
+a) Iniciación 208 cuotas;
 
-c) Año posterior 12 cuotas;
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+
+b) Por cada unidad excedente de las 10 primeras 54 cuotas;
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+
+c) Año posterior 14 cuotas.
 
 VI. Servicio público de transporte proporcionado por agencia funeraria, de carga de materiales, de carga liviana y de grúa, por unidad:
 
@@ -1689,19 +1855,23 @@ a) Iniciación 121 cuotas
 
 b) Año posterior 8 cuotas
 
-VII. Certificación de servicio público: 1 cuota;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+
+VII. Certificación de servicio público: 3 cuotas;
 
 VIII. Revisión operativa de:
 
-> <small>(REFORMADAO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-a) Cambio de vehículo 2 cuotas;
+a) Cambio de vehículo 4 cuotas;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-b) Cambio ruta 10 cuotas;
+b) Cambio ruta 12 cuotas;
 
-c) Ampliación de ruta 4 cuotas.
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+
+c) Ampliación de ruta 6 cuotas.
 
 ### CAPITULO XII. OTROS DERECHOS
 
@@ -1709,43 +1879,47 @@ c) Ampliación de ruta 4 cuotas.
 
 Por la evaluación y emisión de dictamen de impacto ambiental:
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
 
-I. Informe preventivo 28 cuotas
+I. Informe preventivo 29 cuotas;
 
-II. Informe definitivo
+II. Informe definitivo;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-a) Tipo general 51 cuotas
+a) Tipo general 52 cuotas;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-b) Tipo Intermedio 72 cuotas
+b) Tipo Intermedio 73 cuotas;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-c) Tipo específico 147 cuotas
+c) Tipo específico 148 cuotas.
 
 ###### ARTICULO 67.
 
 Por la prestación de los siguientes servicios:
 
-I. Reproducción de material didáctico, ecológico y ambiental $ 1.15 por foja
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
 
-II. Reproducción de material informático ecológico y ambiental en disco flexible $11.50 c/u;
+I. Reproducción de material didáctico, ecológico y ambiental $ 1.30 por foja;
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
 
-III. Reproducción de material informático ecológico y ambiental en disco compacto 2.5 cuotas c/u;
+II. Reproducción de material informático ecológico y ambiental en disco flexible $12.70 c/u;
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
 
-IV. Información de planos con información ecológica y ambiental 6 cuotas c/u;
+III. Reproducción de material con información ecológico-ambiental en disco compacto 2.5 cuotas c/u;
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
 
-V. Reproducción de planos con información ecológica y ambiental 2.5 cuotas c/u;
+IV. Información de planos con información ecológico-ambiental 6 cuotas c/u;
+
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+
+V. Reproducción de planos con información ecológico-ambiental 2.5 cuotas c/u;
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
@@ -1757,7 +1931,7 @@ VII. Registro en el Padrón de Prestadores de Servicio Ecológico y ambiental 42
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
-VIII. Reproducción en plotter 3.5 cuotas
+VIII. Reproducción en plotter 3.5 cuotas.
 
 ### CAPÍTULO ÚNICO
 
@@ -1771,17 +1945,25 @@ Las copias certificadas, constancias y certificaciones de cualquier naturaleza q
 
 I. La primera foja relativa a asuntos correspondientes:
 
-a) Al año en curso; $ 2.75
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-b) Al año anterior; $ 4.18
+a) Al año en curso 1 cuota;
 
-c) A más de dos años anteriores; $ 5.17
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-d) Por cada foja excedente correspondiente a asuntos de cualquier año; $ 1.43;
+b) Al año anterior 2 cuotas;
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+
+c) A más de dos años anteriores 3 cuotas;
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+
+d) Por cada foja excedente correspondiente a asuntos de cualquier año $ 10.00.
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
-II. Certificado de no antecedentes penales 1 cuota
+II. Certificado de no antecedentes penales 1 cuota.
 
 ## TITULO IV. DE LOS PRODUCTOS
 
@@ -1924,3 +2106,9 @@ P.O. 14 DE DICIEMBRE DE 2002.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Zacatecas.
 
 SEGUNDO.- Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 1 DE ENERO DE 2003.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
