@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "1972-12-24"
+last_updated: "1975-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1972.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1975.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -103,9 +103,13 @@ ART. 22.- El tercero obligado a la evicción, deberá ser citado a juicio oportu
 
 ART. 23.- El tercero que, aduciendo derecho propio intente excluir los derechos del actor y del demandado o los del primero solamente, tiene la facultad de concurrir al pleito, con arreglo a las disposiciones que este Código establece para las tercerías.
 
-ART. 24.- Las acciones de estado civil tienen por objeto las cuestiones relativas al nacimiento, defunción, matrimonio o nulidad de éste, filiación, reconocimiento, emancipación, tutela, adopción, divorcio y ausencia; o atacar el contenido de las constancias del Registro Civil para que se anulen o rectifiquen. Las decisiones judiciales recaídas en el ejercicio de acciones de estado civil, perjudican aun a los que no litigaron.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-Las acciones de estado civil fundadas en la posesión de estado, producirán el efecto de que se ampare o restituya a quien la disfrute contra cualquier perturbador.
+ART. 24.- Las acciones de estado civil tienen por objeto las cuestiones relativas al nacimiento, defunción, matrimonio o nulidad de éste, filiación, reconocimiento, tutela, adopción, divorcio y ausencia; o atacar el contenido de las constancias del Registro Civil para que se anulen o rectifiquen.
+
+Las decisiones judiciales recaídas en el ejercicio de acciones de estado civil, perjudica aún a los que no litigaron.
+
+Las acciones de estado civil fundadas en la posesión de estado, producirán el efecto de que se ampare o restituya a quien las disfrute contra cualquier perturbador.
 
 ART. 25.- Las acciones personales se deducirán para exigir el cumplimiento de una obligación personal, ya sea de dar, de hacer o no hacer determinado acto.
 
@@ -825,43 +829,61 @@ ART. 200.- Podrá también prepararse el juicio ejecutivo con el reconocimiento,
 
 El notario hará constar el reconocimiento al pie del documento mismo, asentando si la persona que reconoce es apoderado del deudor y la cláusula relativa.
 
-### CAPITULO III. Del Depósito de Personas como Acto Prejudicial
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE JULIO DE 1975)</small>
 
-ART. 201.- La mujer casada que viviendo al lado del marido intente demandarlo o acusarlo puede pedir su depósito.
+### CAPITULO III. Separación de personas como actos prejudiciales
 
-ART. 202.- El marido que viviendo con su mujer intente demandarla o acusarla, debe pedir previamente su depósito. En este caso deberá ser oída la mujer.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-ART. 203.- Sólo los jueces de primera instancia podrán decretar el depósito de que habla el artículo anterior, a no ser que, por circunstancias especiales, no pueda ocurrirse a juez competente, pues entonces el juez del lugar donde la cónyuge se encuentre podrá decretar el depósito provisionalmente, remitiendo las diligencias al competente y poniendo la persona a su disposición.
+ART. 201.- Cuando un cónyuge intente demanlar (sic), denunciar o querellarse contra su otro cónyuge, puede solicitar su separación al Juez de Primera Instancia del domicilio conyugal.
 
-ART. 204.- Presentada la solicitud, el juez hará que se le ratifique sin que esté presente el otro cónyuge. Hecha la ratificación designará desde luego la persona que haya de encargarse del depósito y, trasladándose al domicilio del marido, dispondrá que en el acto se entregue a la mujer la cama y toda su ropa. Si hubiese cuestión sobre cuáles ropas deban entregarse, el juez, teniendo en cuenta las circunstancias de las personas, resolverá de plano y sin ulterior recurso, las que haya de llevar la interesada.
+ART. 202.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-La mujer podrá presentar solicitud de depósito verbalmente y si la urgencia del caso amerita, el juez deberá proceder con toda rapidez.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-ART. 205.- Practicado todo lo que queda prevenido en los artículos anteriores, el juez personalmente extraerá a la mujer de la casa del marido y la llevará a casa del depositario.
+ART. 203.- Sólo los Jueces de Primera Instancia del domicilio conyugal podrán decretar la separación de que habla el Artículo anterior, a no ser que por circunstancias especiales no pueda ocurrirse a éste, pues entonces el Juez del lugar podrá decretar la separación provisionalmente remitiendo las diligencias al competente.
 
-ART. 206.- En el mismo acto de la diligencia intimará el juez al marido que no moleste a su mujer ni al depositario, bajo apercibimiento de procederse contra él a lo que hubiere lugar.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-Independientemente de lo anterior, el juez puede dictar las medidas que estime prudentes a efecto de evitar las molestias contra la mujer y depositario.
+ART. 204.- La solicitud puede ser escrita o verbal, en la que se expresarán las causas en que se funda, el domicilio para su habitación, la existencia de hijos menores y las demás circunstancias del caso.
 
-ART. 207.- La casa donde se deposite a la mujer casada será designada por ésta, y el juez confirmará esa designación si lo creyere conveniente, o la hará en caso de que la mujer no haga uso de este derecho, debiendo ser el depositario persona de notoria honorabilidad y buenas costumbres.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-ART. 208.- Si los consortes tuvieren hijos menores de edad, se pondrán éstos al cuidado de la persona que de común acuerdo hubieren designado; en defecto de ese acuerdo el juez resolverá provisionalmente, debiendo en todo caso quedar al cuidado de la madre los hijos menores de siete años.
+ART. 205.- El Juez podrá, si lo estima conveniente, practicar las diilgencias (sic) que a su juicio sean necesarias antes de dictar la resolución.
 
-Cualquiera reclamación de los consortes sobre el depósito de los hijos se sustanciará y decidirá en forma incidental, sin ulterior recurso.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-ART. 209.- Al día siguiente de constituído el depósito, mandará el juez intimar al marido o a la mujer en su caso, apercibiéndolos de que si dentro de diez días no acreditan haber intentado la demanda o la acusación, se levantará el depósito y será restituída la mujer a la casa de su marido.
+ART. 206.- Presentada la solicitud, el Juez sin más trámite salvo lo dispuesto en el Artículo anterior, resolverá sobre su procedencia y si la concediere, dictará las disposiciones pertinentes para que se efectúe materialmente la separación atendiendo a las circunstancias de cada caso en lo particular.
 
-Esta providencia se notificará en forma legal a la mujer y al marido.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-ART. 210.- Al depositario se dará copia certificada de la constitución del depósito para su resguardo.
+ART. 207.- El Juez podrá variar las disposiciones decretadas cuando exista causa justa que lo amerite o en vista de lo que los cónyuges, de común acuerdo o individualmente lo soliciten, si lo estiman pertinente según las circunstancias del caso.
 
-ART. 211.- El término señalado para la duración del depósito podrá prorrogarse si se acreditare que por causa no imputable a la mujer, cuando ésta lo solicitó, ha sido imposible intentar la acción contra el marido.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-ART. 212.- Las pretensiones que puedan formularse por la mujer, por el marido o por el depositario sobre variación del depósito, o cualesquiera otras cuestiones a que éste pueda dar lugar, se substanciarán en la forma incidental.
+ART. 208.- En la resolución se señalará el término de que dispondrá el solicitante para presentar la demanda o la acusación, que podrá ser hasta de quince días hábiles contados a partir del día siguiente de efectuada la separación. A juicio del Juez podrá concederse por una sola vez prórroga por igual término.
 
-ART. 213.- No acreditándose haberse intentado la demanda o la acusación dentro del término señalado, levantará el juez el depósito y restituirá a la mujer a la casa del marido.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-ART. 214.- Si el Juez que decretó el depósito no fuere el que deba conocer del negocio principal, remitirá las diligencias practicadas al que fuere competente, quien confirmará el nombramiento de depositario o hará otro, siguiendo el juicio su curso legal.
+ART. 209.- En la misma resolución ordenará la notificación al otro cónyuge, previniéndolo que se abstenga de impedir la separación o causar molestias a su cónyuge, bajo el apercibimiento de procederse en su contra en los términos a que hubiere lugar.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+
+ART. 210.- El Juez determinará la situación de los hijos menores atendiendo a las circunstancias del caso, tomando en cuenta las obligaciones señaladas en el Artículo 150 del Código Civil y las propuestas, si las hubiere, de los cónyuges.
+
+ART. 211.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+
+ART. 212.- La inconformidad de alguno de los cónyuges sobre la resolución o disposiciones decretadas, se resolverá en la vía incidental.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+
+ART. 213.- Si al vencimiento del plazo concedido no se acredita al Juez que se ha presentado la demanda, la denuncia o la querella, cesarán los efectos de la separación, quedando obligado el cónyuge a regresar al domicilio conyugal dentro de las 24 horas siguientes.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+
+ART. 214.- Si el Juez que decretó la separación no fuera el que debe conocer del negocio principal, remitirá las diligencias practicadas al que fuere competente, quien confirmará, en su caso, la decisión dictada con motivo de la separación, siguiendo el juicio su curso legal.
 
 ### CAPITULO IV. De la Preparación del Juicio Arbitral
 
@@ -2065,7 +2087,9 @@ ART. 553.- El juez examinará la solicitud y el convenio y si encuentra que ést
 
 ART. 554.- Si el convenio no contiene todos los puntos enumerados en el artículo 232 del Código Civil o no están expresados claramente, el juez prevendrá a los solicitantes que los precisen y aclaren en un término prudente que concederá al efecto, el que en ningún caso excederá de diez días, apercibiéndolos de que si no lo hacen de común acuerdo se les tendrá por desistidos de su solicitud de divorcio.
 
-ART. 555.- Llenados los requisitos de que se habla en los artículos anteriores, el juez, después de dictar las medidas convenientes para asegurar la situación de los hijos menores o incapacitados, de la mujer y los alimentos de aquéllos y los que un cónyuge deba dar al otro mientras dure el procedimiento, dará vista de la solicitud y de los demás documentos al ciudadano Agente del Ministerio Público, mandando entregarle las copias simples, para que dentro de un término no mayor de diez días manifieste en forma expresa su conformidad o inconformidad, respecto de la solicitud y del convenio, así como las razones en que se funde.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+
+ART. 555.- Llenados los requisitos de que se habla en los artículos anteriores, el Juez, después de dictar las medidas convenientes para asegurar la situación de los hijos menores o incapacitados, la separación de los cónyuges, de los alimentos de aquellos y los que un cónyuge debe dar al otro mientras dure el procedimiento, dará vista de la solicitud y de los demás documentos al representante del Ministerio Público, mandando entregarle las copias simples, para que dentro de un término no mayor de diez días manifieste en forma expresa su conformidad o inconformidad respecto de la solicitud y del convenio, así como las razones en que se funde.
 
 ART. 556.- Si el Ministerio Público se opone a la solicitud o a la aprobación del convenio, se dará vista de lo que exprese a los cónyuges y una vez llenadas las exigencias del representante de la sociedad o cuando ambos esposos insistan en su solicitud por estimarla arreglada a la Ley, el juez traerá los autos a la vista y resolverá si es o no fundada la oposición. En este último caso, declarará también improcedente la solicitud de divorcio.
 
@@ -3173,6 +3197,8 @@ ART. 874.- La impugnación de la adopción y su revocación, en los casos de los
 
 ART. 875.- Cuando se apruebe la adopción o se deje sin efecto, el juez cumplirá lo que previenen los artículos 361 y 370 del Código Civil.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE JULIO DE 1975)</small>
+
 #### Sección III. Del Nombramiento de Curador y Discernimiento del Cargo
 
 ART. 840.- Una vez acreditado el nombramiento de curador, hecho por la persona facultada para ello por la Ley u otorgado por el juez en los casos en que deba hacerlo, se hará saber la designación al nombrado y se procederá a discernirle el cargo, observándose en lo conducente las disposiciones de la Sección anterior.
@@ -3231,7 +3257,7 @@ ART. 856.- En todos los casos en que el tutor necesite para un acto cualquiera l
 
 ART. 857.- La remoción de los tutores y curadores, no es materia de jurisdicción voluntaria. La admisión de las excusas se hará, previa su justificación, con audiencia del curador y del Ministerio Público, si se trata del tutor, o con la de éste y el Ministerio Público, si se tratare de la del curador.
 
-### CAPITULO V. De la Excusa y Pérdida de la Patria Potestad y de la Emancipación
+### CAPITULO V. De la Excusa y Pérdida de la Patria Potestad
 
 ART. 876.- La renuncia o excusa de la patria potestad se presentará por escrito ante el juez del domicilio del menor expresando los motivos en que se funde, y si hay otro ascendiente en quien deba recaer aquélla o si el menor tiene otros parientes a quienes corresponda la tutela legítima.
 
@@ -3243,67 +3269,41 @@ ART. 879.- La oposición se resolverá en forma incidental, debiendo el juez dic
 
 ART. 880.- El ascendiente que pierda la patria potestad en ningún caso podrá ser llamado a la tutela del menor.
 
-ART. 881.- El que solicite la emancipación en los casos del artículo 588 del Código Civil, elevará su solicitud al juez de su domicilio, acompañando los justificantes de:
+ART. 881.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-I.- La edad que tenga el menor;
+ART. 882.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-II.- Estar el menor en aptitud para el manejo de sus intereses;
+ART. 883.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-III.- Observar el incapacitado buena conducta.
-
-Los hechos a que se refieren las dos últimas fracciones podrán acreditarse con información testimonial.
-
-ART. 882.- El juez oirá en forma de incidente al padre o tutor y al Ministerio Público y, sin más trámite, dictará resolución en la que autorice o niegue la emancipación.
-
-De este último auto no cabe recurso alguno y el que la conceda será apelable en ambos efectos.
-
-ART. 883.- De las resoluciones en que se conceda la emancipación se remitirá copia certificada al Oficial del Registro Civil para los efectos de los artículos 86 y 87 del Código Civil.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE JULIO DE 1975)</small>
 
 ### CAPITULO VI. De la Habilitación de Edad para Contratar y para Comparecer en Juicio
 
-ART. 884.- El menor que pretenda ser habilitado de edad se presentará por escrito al juez de su domicilio, acompañando los documentos que justifiquen:
+ART. 884.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-I.- Que no está sujeto a patria potestad;
+ART. 885.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-II.- Que es mayor de dieciocho años;
+ART. 886.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-III.- Que observa buena conducta y tiene aptitud para administrar sus bienes, en los términos que fija el artículo 588 del Código Civil.
+ART. 887.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-En el mismo escrito se especificará si pide la habilitación para litigar, para administrar sus bienes o para ambos fines.
+ART. 888.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-Para la justificación de los hechos a que se refieren las fracciones I y III puede admitirse información de testigos.
+ART. 889.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-ART. 885.- Presentada la solicitud, se mandará publicar por tres veces consecutivas en el Periódico Oficial y en algún otro de los de mayor circulación, a juicio del juez.
+ART. 890.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-ART. 886.- Hechas las publicaciones y rendida la información en su caso, se correrá traslado por tres días a cada uno, al Ministerio Público y al tutor del menor, si lo tuviere y no teniéndolo, al tutor interino que se le nombre al efecto. Evacuado el traslado, el juez dictará su resolución, que será apelable en ambos efectos.
+ART. 891.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-ART. 887.- En caso de oposición se substanciará el correspondiente juicio.
+ART. 892.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-ART. 888.- Necesita habilitación para comparecer en juicio el menor:
+ART. 893.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-I.- Cuando el padre o ascendiente que ejerce la patria potestad estén ausentes, sin que haya probabilidad de su próxima vuelta y sea el negocio de suma urgencia a juicio del juez;
+ART. 894.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-II.- Cuando se ignore el paradero del padre o ascendiente;
+ART. 895.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-III.- Cuando el que ejerce la patria potestad se niega a representar en juicio al hijo o descendiente.
-
-Respecto de la mujer casada se observará lo dispuesto en el Capítulo II, Título V, Libro Primero del Código Civil.
-
-ART. 889.- Sólo podrá concederse al menor habilitación para litigar, cuando fuere demandado, o cuando se le siga grave perjuicio de no promover la demanda para la cual se pida la habilitación.
-
-ART. 890.- En todo caso de habilitación se citará a audiencia verbal al padre, pudiendo el juez conceder la habilitación si no compareciere. Siempre será oído el Ministerio Público.
-
-ART. 891.- Cuando la habilitación para litigar se conceda a un menor de edad, se le proveerá de tutor y curador con arreglo a las prescripciones del Código Civil; si no estuviere emancipado.
-
-ART. 892.- Los menores emancipados, no necesitan licencia judicial para presentarse en juicio; pero cuando lo hicieren sin la intervención del tutor, y en su caso, sin la del curador, se les exigirá que los nombren con arreglo a las prescripciones del Código Civil, y si no lo hacen luego que sean requeridos para ello, el juez los nombrará de oficio.
-
-ART. 893.- No necesita de habilitación el hijo para litigar contra su padre; pero será representado por un tutor especial, conforme al artículo 400 del Código Civil.
-
-ART. 894.- Cuando se pida la habilitación por negarse el padre a representar en juicio al hijo para la defensa de sus derechos, el juez, previa información del hecho, podrá conceder la autorización.
-
-ART. 895.- Cuando antes de haberse otorgado la habilitación que se haya concedido, compareciere el padre oponiéndose a ella, será oído conforme al artículo 890, y el juez dictará su resolución dentro del tercer día.
-
-ART. 896.- Si la resolución fuere concediendo la habilitación y el padre insistiere en su oposición, se substanciará el respectivo juicio como está prevenido para los incidentes; pero la habilitación continuará surtiendo sus efectos. Lo mismo se observará si el padre compareciere después de concedida la habilitación, oponiéndose a ella.
+ART. 896.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
 ### CAPITULO VII. De los Procedimientos Judiciales para suplir el consentimiento de los Ascendientes y Tutores para contraer Matrimonio
 
@@ -3333,7 +3333,9 @@ I.- De menores o incapacitados sujetos a patria potestad o a tutela, si son malt
 
 II.- De huérfanos o incapacitados que queden en el abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren;
 
-III.- De mujer menor de edad que deseando contraer matrimonio necesite acudir a la autoridad judicial para que supla el consentimiento de sus padres o tutores.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1975)</small>
+
+III.- El menor de edad que deseando contraer matrimonio necesite acudir a la autoridad judicial para que supla el consentimiento de sus padres o tutores.
 
 ART. 904.- En los casos de la fracción I del artículo anterior, para decretar el depósito será necesario:
 
@@ -3355,13 +3357,17 @@ ART. 908.- Verificado el depósito, en el caso de los artículos que preceden, s
 
 ART. 909.- Inmediatamente que tuviere noticia un juez de que algún huérfano, menor o incapacitado, se hallare en el caso de que habla la fracción II del artículo 903, procederá a depositarlo donde estime conveniente, adoptando respecto de sus bienes, las precauciones oportunas para evitar abusos de todo género y dispondrá que se provea al interesado de tutor conforme a derecho.
 
-ART. 910.- En el caso de la fracción III del artículo 903, recibida la solicitud de depósito, que deberá ser hecha por escrito, el juez se trasladará al domicilio de la menor y si ésta ratifica la solicitud, prevendrá al ascendiente o tutor que designe depositario. Sobre esta designación se oirá a la menor y si no se opone o el juez estima infundada la oposición confirmará el nombramiento. Si considera fundada la oposición hará el juez el nombramiento de la persona que estime conveniente.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+
+ART. 910.- En el caso de la Fracción III del Artículo 903, recibida la solicitud de depósito, que deberá ser hecha por escrito, el Juez se trasladará al domicilio del menor y si éste ratifica la solicitud, prevendrá al ascendiente o tutor que designe depositario. Sobre la designación se oirá al menor y si no se opone o el Juez estima infundada la oposición confirmará el nombramiento. Si considera fundada la oposición hará el Juez el nombramiento de la persona que estima conveniente.
 
 ART. 911.- Hecho el nombramiento del depositario el juez practicará el depósito como se dispone en los artículos 906 y 907.
 
 ART. 912.- Durará el depósito mientras se verifique el matrimonio, salvo que el juez niegue la autorización para contraerlo o que la depositada desista de sus pretensiones.
 
-En los dos últimos casos el juez volverá a la mujer a casa de las personas bajo cuya potestad se encontraba, extendiéndose la correspondiente diligencia en el expediente formado para el depósito.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+
+En los dos últimos casos el Juez volverá al menor a casa de las personas bajo cuya patria potestad se encontraba, extendiéndose la correspondiente diligencia en el expediente formado para el depósito.
 
 ART. 913.- En las diligencias de que trata este Capítulo se oirá precisamente al Ministerio Público y contra las resoluciones que se dicten no procederá ningún recurso.
 
@@ -3849,7 +3855,9 @@ ART. 1036.- Quedan exceptuados de embargo:
 
 I.- Los bienes que constituyan el patrimonio de la familia, desde su inscripción en el Registro Público de la Propiedad en los términos que establece el Código Civil;
 
-II.- El lecho cuotidiano (sic), los vestidos y los muebles de uso ordinario del deudor, de su mujer y de sus hijos y en general los bienes a que se refiere el artículo 177 del Código Civil;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1975)</small>
+
+II.- El lecho cotidiano, los vestidos y los muebles del uso ordinario del deudor, de su cónyuge o de sus hijos no siendo de lujo, a juicio del Juez, y en general los bienes a que se refiere el Artículo 177 del Código Civil.
 
 III.- Los instrumentos, aparatos y útiles necesarios para el arte u oficio a que el deudor esté dedicado;
 
@@ -4276,3 +4284,9 @@ P.O. 24 DE DICIEMBRE DE 1972.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las Leyes y disposiciones que se opongan a este Decreto.
+
+P.O. 20 DE JULIO DE 1975.
+
+PRIMERO.- El presente Decreto deroga los anteriores que se le opusieren.
+
+SEGUNDO.- Este Decreto entrará en vigor diez días después de la fecha de su publicación en el Periódico Oficial.
