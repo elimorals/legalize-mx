@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ejecucion-de-sanciones-privativas-y-medidas-11879"
 country: "mx"
 rank: "ley"
 publication_date: "1973-01-27"
-last_updated: "1973-01-27"
+last_updated: "1996-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11879&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y MEDIDAS RESTRICTIVAS DE LIBERTAD, PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de enero de 1973.
 
@@ -163,7 +163,7 @@ Los establecimientos de reclusión destinados a prisión preventiva o ejecución
 
 Los internos enfermos mentales serán enviados a establecimientos especializados, y si éstos no existen o no reúnen las condiciones de seguridad que amerita la peligrosidad de aquellos, se organizarán dentro de los establecimientos, anexos psiquiátricos en los que se aplicará el tratamiento médico adecuado.
 
-Los internos sordomudos serán recluídos en escuelas o establecimientos especiales para su educación, pero en los casos del párrafo que antecede podrán estar separados en una sección especial.
+Los internos sordomudos serán recluidos en escuelas o establecimientos especiales para su educación, pero en los casos del párrafo que antecede podrán estar separados en una sección especial.
 
 ###### ARTICULO 22.
 
@@ -267,9 +267,15 @@ La visita íntima tiene por objeto principal el mantenimiento de las relaciones 
 
 VI.- Correspondencia.
 
-###### Articulo 38.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 1996)</small>
 
-La correspondencia expedida por los internos o la que se dirija a éstos, podrá ser interceptada y abierta antes de su entrega a la Oficina de Correos o cuando ya ha dejado de circular por la estafeta postal, pudiendo vedarse el conocimiento de su contenido al interno sólo por razones de seguridad o de tratamiento. La comunicación telefónica se permitirá en casos necesarios y urgentes a juicio de la Dirección y de acuerdo con el Reglamento.
+###### Artículo 38.
+
+Los Directores de los Centros Penitenciarios, podrán interceptar y abrir la correspondencia expedida o recibida por los internos de los Centros de Readaptación Social, antes de que ésta haya sido entregada a la oficina de correos o cuando ya haya dejado de circular por estafeta postal. La apertura de la correspondencia se hará inmediatamente después de recibida y siempre en presencia del interno remitente o destinatario sin que en ningún caso pueda impedírsele el conocimiento de su contenido.
+
+Si el contenido de la correspondencia transgrediera las normas disciplinarias o afectara la seguridad del Centro de Readaptación Social, la autoridad penitenciaria actuará conforme a lo establecido en el artículo 54, de esta Ley; y en caso de que se cometiera delito o se realizaran actos tendientes a su comisión, el Director del Centro de Readaptación Social o quien legalmente lo substituya en su ausencia, lo hará del conocimiento del Ministerio Público.
+
+La comunicación telefónica y por telefax solo será por medios convencionales y en aparatos públicos, cualquier otro medio de comunicación electrónica bidireccional quedará prohibida.
 
 VII.- Información.
 
@@ -866,3 +872,11 @@ EL SECRETARIO GENERAL DEL DESPACHO,
 LIC. AGUSTIN MARQUEZ URIBE.- Rúbrica.
 
 Al C.....
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE JULIO DE 1996.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
