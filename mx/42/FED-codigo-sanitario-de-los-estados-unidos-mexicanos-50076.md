@@ -4,7 +4,7 @@ identifier: "FED-codigo-sanitario-de-los-estados-unidos-mexicanos-50076"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-31"
-last_updated: "1934-08-31"
+last_updated: "1936-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50076&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-20"
 
 CÓDIGO SANITARIO DE LOS ESTADOS UNIDOS MEXICANOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE MARZO DE 1936.
 
 Código publicado en la Sección Segunda al Número 53, del Diario Oficial, el viernes 31 de agosto de 1934.
 
@@ -359,25 +359,47 @@ Para alcanzar los fines que señalan los artículos anteriores, el Departamento 
 
 #### SECCION SEGUNDA. Propaganda de higiene
 
+> <small>(REFORMADO, D.O. 24 DE MARZO DE 1936)</small>
+
 ###### ARTICULO 51.
 
-El Departamento de Salubridad Pública, dictando las medidas conducentes, evitará la propaganda que se haga por medio de toda clase de publicaciones, impresos, avisos, rótulos, radio-difusión, etc., por la que, a juicio del mismo Departamento:
+El Departamento de Salubridad Pública, dictará las medidas necesarias para evitar la propaganda que se haga por medio de toda clase de publicaciones, impresos, avisos, rótulos, radiodifusión, cinematógrafo, etc., por la que a juicio del mismo Departamento de Salubridad:
 
-I.- Se engañe al público sobre la calidad, pureza, conservación, propiedades, usos, etc., de comestibles, bebidas, medicinas, aparatos, útiles, instalaciones sanitarias, etc.;
+I.- Se engañe al público sobre la calidad, pureza, conservación, propiedad, usos, etc., de comestibles y bebidas, medicinas, aparatos, útiles e instalaciones sanitarias, procedimientos diversos de embellecimiento, prevención de enfermedades o curación de las mismas, recomendadas en sanatorios, hospitales, consultorios, institutos de belleza, etc.;
 
-II.- Infunda o trate de infundir prácticas contrarias a la salubridad o a la higiene;
+II.- Se desvirtúen o contraríen en alguna forma las disposiciones que dicte el Departamento de Salubridad en materia educativa de higiene o porfilaxis (sic), así como su propaganda;
 
-III.- Contraríe en alguna forma las disposiciones que dicte el Departamento de Salubridad sobre educación higiénica y propaganda de higiene.
+III.- Se aconsejen prácticas contrarias a la salubridad e higiene.
 
-La propaganda de higiene hecha por particulares, usando de los medios de publicidad indicados, deberá ser aprobada previamente por el Departamento de Salubridad Pública.
+> <small>(ADICIONADO, D.O. 24 DE MARZO DE 1936)</small>
+
+ARTICULO 51 BIS.- La propaganda cultural médica en la que se usen los medios de publicidad indicados en el artículo anterior, no podrá ser aprovechada para fines comerciales.
+
+Los textos de propaganda comercial de carácter médico o higiénico, deberán ser sometidos a la aprobación previa del Departamento de Salubridad.
+
+> <small>(REFORMADO, D.O. 24 DE MARZO DE 1936)</small>
 
 ###### ARTICULO 52.
 
-El Departamento de Salubridad Pública impedirá la publicación de sus resoluciones o la referencia a ellas que se pretenda llevar a cabo con fines comerciales.
+El Departamento de Salubridad Pública, en cualquier momento, suspenderá toda publicidad que se aparte del texto expresamente aprobado.
+
+> <small>(ADICIONADO, D.O. 24 DE MARZO DE 1936)</small>
+
+ARTICULO 52 BIS 1.- El Departamento de Salubridad cancelará toda autorización de publicidad, cuando a juicio del mismo, no esté ya de acuerdo con el programa de la ciencia.
+
+> <small>(ADICIONADO, D.O. 24 DE MARZO DE 1936)</small>
+
+ARTICULO 52 BIS 2.- El Departamento de Salubridad Pública impedirá la publicación de sus resoluciones o la referencia a ellas que se pretenda llevar a cabo con fines comerciales, salvo la leyenda de aprobación o de número de registro, cuando disposiciones especiales así lo exijan.
+
+> <small>(REFORMADO, D.O. 24 DE MARZO DE 1936)</small>
 
 ###### ARTICULO 53.
 
-Las autoridades auxiliares de la administración sanitaria federal a que se refiere el artículo 19 de este Código, colaborarán eficazmente en todo lo que se relacione con el servicio de educación y propaganda de higiene.
+Las autoridades auxiliares de la Administración Sanitaria Federal, a que se refiere el artículo 19 de este Código, colaborarán eficazmente en todo lo que se relacione con el Servicio de Educación y Propaganda de Higiene.
+
+> <small>(ADICIONADO, D.O. 24 DE MARZO DE 1936)</small>
+
+ARTICULO 53 BIS.- El Departamento de Salubridad Pública dictará las disposiciones reglamentarias contenidas en los artículos anteriores.
 
 #### SECCION TERCERA. Instituciones de higiene
 
@@ -731,7 +753,7 @@ I.- Los nombres de los pasajeros y tripulantes, con expresión, respecto de cada
 
 II.- Los nombres de los tripulantes que pretendan bajar a tierra y estén legalmente capacitados para ello;
 
-III.- Los nombres de los pasajeros que vengan enfermos, con expresión de su enfermedad, bajo la fe del médico de a bordo, quien firmará dicha constancia en unión del capitán;
+III. - Los nombres de los pasajeros que vengan enfermos, con expresión de su enfermedad, bajo la fe del médico de a bordo, quien firmará dicha constancia en unión del capitán;
 
 IV.- Los nombres de los pasajeros sospechosos de padecer alguna de las enfermedades señaladas en el artículo 106 y los datos que el propio capitán haya obtenido a fin de determinar si dichos pasajeros se encuentran comprendidos en alguno de los casos de las fracciones III, IV, V y VI del mismo artículo;
 
@@ -923,7 +945,7 @@ V.- La desinfección de habitaciones, ropas y toda clase de objetos expuestos a 
 
 VI.- La destrucción de animales vectores;
 
-VII.- El establecimiento de estaciones sanitarias en los lugares que determine el Departamento de Salubridad, para la inspección de pasajeros, equipajes, mercancías, vehículos, etc., qué puedan ser considerados como portadores de gérmenes;
+VII.- El establecimiento de estaciones sanitarias en los lugares que determine el Departamento de Salubridad, para la inspección de pasajeros, equipajes, mercancías, vehículos; etc., qué puedan ser considerados como portadores de gérmenes;
 
 VIII.- Las demás que se determinen por este Código, sus reglamentos y por el Consejo de Salubridad General o el Departamento.
 
@@ -2953,7 +2975,7 @@ El Departamento de Salubridad será, en todo caso, la autoridad ejecutora de esa
 
 ###### ARTICULO 472.
 
-El Consejo, en uso de la facultad que le concede la Regla 1ª.de la fracción XVI del artículo 73 de la Constitución General de la República, podrá dictar disposiciones en materia de salubridad, de observancia general en el país, que cumplirán y harán cumplir las autoridades sanitarias de los Estados.
+El Consejo, en uso de la facultad que le concede la Regla 1ª de la fracción XVI del artículo 73 de la Constitución General de la República, podrá dictar disposiciones en materia de salubridad, de observancia general en el país, que cumplirán y harán cumplir las autoridades sanitarias de los Estados.
 
 El Departamento vigilará el exacto cumplimiento de esas disposiciones.
 
@@ -3181,7 +3203,7 @@ Además de los casos de clausura que consignen los reglamentos, y sin perjuicio 
 
 ###### ARTICULO 1°.
 
-Este Código comenzará a regir a los treinta días de su publicación en el "Diario Oficial" de la Federación.
+Este Código comenzará a regir a los treinta días de su publicación en el “Diario Oficial” de la Federación.
 
 ###### ARTICULO 2°.
 
@@ -3193,10 +3215,16 @@ En tanto no se expidan los reglamentos de que trata este Código, continuarán e
 
 Para su publicación y observancia, promulgo el presente Código Sanitario, en la residencia del Poder Ejecutivo Federal, en la ciudad de México, a los veinte días del mes de agosto de mil novecientos treinta y cuatro.
 
--A.L. Rodríguez.- Rúbrica.- El Jefe del Departamento de Salubridad Pública, Dr. Manuel F. Madrazo.- Rúbrica.- Al C. Subsecretario de Gobernación, Encargado del Despacho.- Presente."
+-A.L. Rodríguez.- Rúbrica.- El Jefe del Departamento de Salubridad Pública, Dr. Manuel F. Madrazo.- Rúbrica.- Al C. Subsecretario de Gobernación, Encargado del Despacho.- Presente.”
 
 Lo que comunico a usted para su publicación y demás fines.
 
 Sufragio Efectivo. No Reelección
 
 México, D.F., a 28 de agosto de 1934.- El Subsecretario de Gobernación, Encargado del Despacho, Juan G. Cabral.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 24 DE MARZO DE 1936.
+
+> <small>[N. DE E. EL “DECRETO QUE REFORMA VARIOS ARTÍCULOS DEL CÓDIGO SANITARIO DE LOS ESTADOS UNIDOS MEXICANOS”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN, Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL”.]</small>
