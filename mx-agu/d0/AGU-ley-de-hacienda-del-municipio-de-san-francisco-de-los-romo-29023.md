@@ -1,0 +1,1314 @@
+---
+title: "LEY DE HACIENDA DEL MUNICIPIO DE SAN FRANCISCO DE LOS ROMO, AGUASCALIENTES"
+identifier: "AGU-ley-de-hacienda-del-municipio-de-san-francisco-de-los-romo-29023"
+country: "mx"
+rank: "ley"
+publication_date: "1995-07-16"
+last_updated: "1995-07-16"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29023&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-agu"
+scjn_id: "29023"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "SUPLEMENTO AL No.. 29"
+reform_count: "11"
+scjn_last_update: "2025-12-26"
+issue_date: "1995-07-11"
+municipality: "San Francisco de los Romo"
+municipality_inegi: "01011"
+state: "AGU"
+---
+# LEY DE HACIENDA DEL MUNICIPIO DE SAN FRANCISCO DE LOS ROMO, AGUASCALIENTES
+
+LEY DE HACIENDA DEL MUNICIPIO DE SAN FRANCISCO DE LOS ROMO, AGS.
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1995.
+
+GOBIERNO DEL ESTADO
+
+OTTO GRANADOS ROLDAN, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes sabed:
+
+Que por el H. Congreso del Estado, se me ha comunicado lo siguiente:
+
+El H. Congreso del Estado en sesión ordinaria celebrada hoy, tuvo a bien expedir el siguiente Decreto:
+
+"NUMERO 211
+
+La H. LV Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de las facultades que le conceden los Artículos 27 fracción I, 32 y 35 de la Constitución Política Local, en nombre del pueblo, decreta:
+
+LEY DE HACIENDA DEL MUNICIPIO DE SAN FRANCISCO DE LOS ROMO, AGS.
+
+### CAPITULO I. De la Hacienda Pública Municipal
+
+###### ARTICULO 1o.
+
+Para atender las necesidades y la prestación de los servicios públicos del Municipio de San Francisco de los Romo, el Ayuntamiento percibirá los Impuestos, Derechos, Aprovechamientos y Participaciones a que se refiere la Ley de Ingresos del propio Municipio en los términos que reglamenta este Ordenamiento.
+
+###### ARTICULO 2o.
+
+La Hacienda Pública del Municipio de San Francisco de los Romo se administrará libremente por el Ayuntamiento y el único órgano facultado para recibir los ingresos y canalizar los egresos, será la Dirección de Finanzas y sus cajas recaudadoras.
+
+###### ARTICULO 3o.
+
+Son impuestos, las prestaciones en dinero o en especie que fije la Ley, con carácter general y obligatorio, a cargo de personas físicas y morales, para cubrir los gastos públicos y demás obligaciones a cargo del Ayuntamiento.
+
+###### ARTICULO 4o.
+
+Son derechos las contraprestaciones establecidas en la Ley, por los servicios que presta el Municipio en sus funciones de derecho público, así como por el uso o aprovechamiento de los bienes del dominio público del Municipio.
+
+###### ARTICULO 5o.
+
+Son productos los ingresos que percibe el Municipio por actividades que no corresponden a sus funciones propias de derecho público, así como la explotación o venta de sus bienes patrimoniales, de dominio privado.
+
+###### ARTICULO 6o.
+
+Son aprovechamientos los recargos, las multas y los demás ingresos de derecho público que percibe el Municipio no clasificables como impuestos, contribuciones especiales, derechos especiales, productos y participaciones.
+
+###### ARTICULO 7o.
+
+Son participaciones los recursos provenientes de las Entidades Federales y/o Estatales, señalados en la Leyes Fiscales y los Convenios celebrados al tenor de las mismas.
+
+###### ARTICULO 8o.
+
+Los acuerdos, disposiciones generales, reglamentos o convenios fiscales que se celebren por las autoridades competentes, deberán ajustarse al tenor de esta Ley, requisito sin el cual, carecerán de validez y serán nulos en pleno derecho.
+
+###### ARTICULO 9o.
+
+La Hacienda Pública Municipal no puede afectarse a un fin específico. En el caso de que sea necesario establecer una tributación especial, se requiere la declaración expresa del Congreso del Estado, siempre y cuando medie una causa de orden público.
+
+###### ARTICULO 10.
+
+A excepción de los ingresos provenientes de aprovechamientos, ninguna autoridad fiscal del Municipio puede modificar la cuantía de los créditos hacendarios a favor del Ayuntamiento.
+
+Sólo el Presidente Municipal está facultado para modificar el monto de un crédito fiscal proveniente de aprovechamiento.
+
+###### ARTICULO 11.
+
+Los créditos hacendarios a favor del Ayuntamiento, deberán liquidarse en los términos señalados por esta Ley. El Presidente Municipal podrá acordar el otorgamiento de un plazo o plazos mayores a los previstos por este Ordenamientos sin que la concesión exceda al ejercicio fiscal correspondiente, exigiendo que se garantice previamente el interés fiscal, por el tiempo que dure la prórroga.
+
+###### ARTICULO 12.
+
+El Director de Finanzas queda facultado para aplicar el procedimiento administrativo de ejecución que previene el Código Fiscal del Estado.
+
+###### ARTICULO 13.
+
+En lo no previsto por este Ordenamiento, tanto sustantiva como adjetivamente, se estará a la Ley de Coordinación Fiscal y los convenios celebrados conforme a la misma por el Gobierno del Estado de Aguascalientes; a la Ley de Hacienda del Estado, Código Fiscal del Estado, los Principios Generales del Derecho y la Jurisprudencia.
+
+Las Autoridades Fiscales del Municipio podrán aplicar la analogía para resolver situaciones de procedimiento fiscal.
+
+###### ARTICULO 14.
+
+En todos los casos en que se haga necesario utilizar medios de apremio, deberá escucharse al particular en su defensa, concediéndose un término de veinticuatro horas, cuando menos, a partir de que se haya efectuado la notificación.
+
+### CAPITULO II. De las Autoridades Fiscales Municipales
+
+###### ARTICULO 15.
+
+El orden jurídico fiscal del Municipio estará formado por:
+
+I.- La Ley de Ingresos del Municipio;
+
+II.- La Ley de Hacienda Municipal;
+
+III.- El Presupuesto de Egresos del Municipio;
+
+IV.- Los Decretos que autoricen los ingresos extraordinarios o especiales; y
+
+V.- Los Reglamentos que organicen los servicios administrativos necesarios para la recaudación y control de los ingresos y egresos.
+
+###### ARTICULO 16.
+
+Son Autoridades Fiscales del Municipio:
+
+I.- El Ayuntamiento;
+
+II.- El Presidente Municipal;
+
+III.- El Regidor del Ramo;
+
+IV.- El Síndico Hacendario;
+
+V.- El Director de Finanzas;
+
+VI.- El Delegado Municipal; y
+
+VII.- El Comisario Municipal.
+
+Las Autoridades Fiscales del Estado podrán coordinarse con las del Municipio, para el mejor cumplimiento de esta Ley y la de Ingresos Municipal, en cuyo caso, se les considerará Autoridades Fiscales Municipales y ejercerán las atribuciones de la Dirección de Administración y Finanzas que se les señalen en los convenios y acuerdos respectivos, por lo que en contra de los actos que realicen, cuando actúen en los términos de este precepto, sólo procederán los recursos y medios de defensa establecidos en esta Ley.
+
+###### ARTICULO 17.
+
+Son atribuciones del Ayuntamiento:
+
+I.- Expedir los Reglamentos administrativos, acuerdos y disposiciones generales indispensables para proveer la mejor administración de la Hacienda Pública;
+
+II.- Antes de remitir los cortes de caja al Congreso del Estado, resolver sobre ellos, teniendo en cuenta el dictamen que sobre los mismos rinda el Regidor Comisionado de Hacienda;
+
+III.- Celebrar convenios con los gobiernos federal y estatales para la recaudación y cobro de las contribuciones; y
+
+IV.- Los demás que otorgue la Ley.
+
+###### ARTICULO 18.
+
+Son facultades del Presidente Municipal:
+
+I.- Representar la Hacienda Pública Municipal;
+
+II.- Vigilar que la aplicación de esta Ley y demás ordenamientos fiscales, se haga con estricto apego a sus disposiciones;
+
+III.- Ejecutar las resoluciones del Ayuntamiento en materia hacendaria;
+
+IV.- Acordar las modalidades que para el pago de créditos fiscales, proponga la Ley;
+
+V.- Acordar el otorgamiento de un plazo o plazos mayores a los previstos en este ordenamiento para el pago de los créditos fiscales a favor del Ayuntamiento, concesión que no podrá exceder al ejercicio fiscal correspondiente, exigiendo previamente se garantice el interés fiscal del Municipio;
+
+VI.- Establecer mediante convenio una cuota fija como importe del pago de un impuesto o un derecho que deba calcularse por medio de la tasa, siempre y cuando no sea posible su liquidación en los términos previstos por esta Ley o cuando no compense el sostenimiento del interventor, o recaudador que sea indispensable designar;
+
+VII.- Condonar parcialmente las multas por infracciones a las disposiciones fiscales, debiendo recaer acuerdo escrito debidamente motivado sobre el particular;
+
+VIII.- Acordar las medidas necesarias para la creación de mejores sistemas administrativos que faciliten al contribuyente el pago de sus contribuciones;
+
+IX.- Ordenar se practiquen visitas domiciliarias;
+
+X.- Condonar las multas administrativas, únicamente cuando el infractor sea persona insolvente o cuando la infracción sea leve y no haya mediado mala fe ni intención de eludir las obligaciones correspondientes; y
+
+XI.- Las demás que le confieren las leyes y reglamentos respectivos.
+
+###### ARTICULO 19.
+
+El Síndico Hacendario tiene las siguiente atribuciones:
+
+I.- Vigilar y gestionar la buena marcha de la Hacienda Municipal;
+
+II.- Asistir a las almonedas públicas que tengan por objeto a un bien perteneciente a la Hacienda Pública Municipal;
+
+III.- Revisar periódicamente las relaciones de rezagos, para que sean liquidados;
+
+IV.-Revisar y firmas los cortes de caja formulados por la Dirección de Administración y Finanzas; y
+
+V.- Las demás que otorgue la Ley.
+
+###### ARTICULO 20.
+
+El Regidor Comisionado de Hacienda goza de las siguientes atribuciones:
+
+I.- Vigilar la marcha administrativa de la recaudación y proporcionar al Ayuntamiento las medidas que estime convenientes para mejorarla;
+
+II.- Analizar los cortes de caja formulados por la Dirección de Finanzas, dictaminando lo conducente; y
+
+III.- Los demás que le confieren las leyes y reglamentos respectivos.
+
+###### ARTICULO 21.
+
+Son facultades del Director de Finanzas:
+
+I.- Designar a los empleados necesarios para ejecutar el cobro de los créditos fiscales municipales;
+
+II.- Establecer los lugares y señalar los horarios en que debieran hacer los pagos los contribuyentes;
+
+III.- Elaborar las formas y fórmulas de solicitudes, liquidación, cobros, requerimientos o cualquier otro documento necesario para una buena recaudación;
+
+IV.- Abrir las cuentas bancarias necesarias para guardar y (sic) administración del erario público municipal;
+
+V.- Intervenir en los juicios de carácter fiscal en cualquier otro procedimiento que se ventile ante los tribunales, cuando tenga interés la Hacienda Pública Municipal;
+
+VI.- Proponer al Ayuntamiento los proyectos de reglamentos administrativos internos conducentes a mejorar la organización de la Dirección de Finanzas;
+
+VII.- Someter al acuerdo del Presidente Municipal las solicitudes de prórrogas de plazo para el pago de créditos fiscales o cualquiera otro (sic) modalidad procedente;
+
+VIII.- Determinar la cuantía de los créditos fiscales explicando al contribuyente la razón del concepto y su desglose;
+
+IX.- Elaborar los cortes de caja en los primeros quince días de cada mes; respecto al mes inmediato anterior;
+
+X.- Demandar la preferencia de créditos fiscales sobre otros, en colaboración con el Síndico;
+
+XI.- Fincar obligaciones solidarias en los términos de Ley;
+
+XII.- Ordenar y practicar la intervención de negociaciones con cargo a la caja del contribuyente;
+
+XIII.- Decretar embargo y convocar remates;
+
+XIV.- Con acuerdo del Presidente Municipal, realizar inversiones no riesgozas (sic) con los capitales del Ayuntamiento que no se emplearon en sus funciones propias de Derecho Político, con el objeto de que produzcan un interés que los incremente.
+
+XV.- Sellar establecimientos y cajas;
+
+XVI.- Aceptar garantías de crédito;
+
+XVII.- Notificar;
+
+XVIII.- Requerir;
+
+XIX.- Exigir a los contribuyentes que garanticen el pago de los créditos fiscales;
+
+XX.- Aplicar el procedimiento económico coactivo que previene esta Ley;
+
+XXI.- Vigilar el cumplimiento de las disposiciones contenidas en las leyes fiscales municipales contenidas en las leyes fiscales municipales, y en especial para ordenar:
+
+a).- Se verifique que los contribuyentes municipales cumplan correctamente las disposiciones fiscales y municipales y, en su caso que omitan total o parcialmente el cumplimiento de las mismas se procederá a hacer efectivo el cobro de lo omitido, sin perjuicio de las sanciones a que haya lugar.
+
+b).- La práctica de auditorías a los contribuyentes así como la obtención de los datos e informes que obtengan información con el objeto de la misma.
+
+c).- Se exija en el domicilio de los contribuyentes la exhibición de los elementos comprobatorios de sus operaciones; y
+
+d).- Se efectúen toda clase de investigaciones con los datos, informes o documentos solicitados a los contribuyentes o a los terceros.
+
+XXII.- Determinar la existencia de obligaciones fiscales, dar las bases para su liquidación o fijarlas en cantidad líquida, cerciorarse del cumplimiento de las disposiciones fiscales, y comprobar la comisión de infracciones a dichas disposiciones, para tal efecto, podrá ordenar:
+
+a).- Practicar revisiones en el establecimiento o dependencias de los sujetos pasivos, de los responsables solidarios y de los terceros;
+
+b).- Se proceda a la verificación física, clasificación, valuación o comprobación de toda clase de bienes;
+
+c).- Se solicite de los sujetos pasivos, responsables solidarios o terceros, datos o informes relacionados con el cumplimiento de las disposiciones fiscales;
+
+d).- Se recabe de los servidores públicos y de los federativos los informes y datos que posean con motivo de sus funciones;
+
+e).- Emplear cualquiera de los siguientes medios de apremio, que juzgue eficaz, para hacer cumplir sus determinaciones:
+
+1.- La multa de uno a 30 días de salario mínimo general vigente, la cual se aumentará hasta 50 en caso de reincidencia;
+
+2.- El auxilio de la fuerza pública;
+
+f).- Se embarguen precautoriamente los bienes, el establecimiento y negocios cuando el contribuyente no atienda tres requerimientos de la autoridad, con una misma omisión. El embargo quedará sin efecto, cuando el contribuyente cumpla con la obligación de que se trate, o transcurridos dos meses de practicado el embargo, si la obligación no es cumplida y las autoridades fiscales no inician el ejercicio de sus facultades de comprobación;
+
+g).- Allegarse las pruebas necesarias para denunciar al Ministerio Público la posible omisión de delitos fiscales, en su caso, para formular la querella respectiva. Las actuaciones que practique el personal autorizado de la Secretaría de Finanzas, tendrá el mismo valor probatorio que la Ley relativa concede a las actas de la Policía Judicial, la propia Secretaría será coadyuvante del Ministerio Público en términos del Código de Procedimientos Penales para el Estado de Aguascalientes;
+
+h).- Comprobar los ingresos de los contribuyentes. A este efecto se presumirá salvo prueba en contrario que la información contenida en los libros, registros, sistemas de contabilidad, documentación comprobatoria y correspondencia que se encuentre en poder del contribuyente, corresponden a operaciones celebradas por él, aun cuando aparezca sin su nombre o a nombre de otra persona;
+
+i).- Determinar estimativamente la base gravable o el monto de los ingresos en el caso de que los contribuyentes no puedan comprobar los correspondientes al período objeto de la revisión. En este caso la determinación será efectuada con base en los elementos de que dispongan las autoridades fiscales a la base gravable o ingreso estimado presuntivamente, se aplicará la tarifa, tasa o cuota que corresponda.
+
+Lo dispuesto en este inciso no modifica los procedimientos para determinar o estimar los ingresos de los contribuyentes que contengan otras disposiciones fiscales.
+
+XXIII.- Las demás que le otorguen otras leyes o disposiciones fiscales.
+
+###### ARTICULO 22.
+
+Son facultades de los Delegados y Comisarios Municipales:
+
+I.- Ejercer la vigilancia que demande el cumplimiento de las leyes fiscales, reglamentos, instructivos, circulares y demás disposiciones aplicables;
+
+II.- Recaudar los fondos provenientes del cumplimiento de las disposiciones municipales, que deba percibir el erario municipal a nombre propio o por cuenta ajena, previa autorización del Secretario de Finanzas;
+
+III.- Concertar los ingresos recaudados en los términos y plazos que fije el Secretario de Finanzas;
+
+IV.- Poner a consideración del Secretario de Finanzas las directrices, normas y criterios técnicos en materia de ingresos, así como evaluarlos, además de rendirle los informes que éste solicite; y
+
+V.- En general, ejecutar las facultades que expresamente les reconozcan las disposiciones fiscales y las que el Secretario de Finanzas les confiera.
+
+###### ARTICULO 23.
+
+Previo acuerdo respectivo, el Secretario de Finanzas puede delegar sus funciones de inspección, intervención y recaudación al servidor o servidores públicos que considere conveniente.
+
+###### ARTICULO 24.
+
+El Director de Finanzas está facultado para ordenar la verificación de los datos que los contribuyentes están obligados a proporcionar, para cuantificar concretamente el monto del crédito fiscal del caso.
+
+###### ARTICULO 25.
+
+Independientemente de la facultad de aplicar el procedimiento económico-coactivo, el Director de Finanzas está facultado para aplicar las medidas de apremio necesario para lograr la liquidación de los créditos fiscales. Tales medidas consisten en la amonestación, el apercibimiento, la multa y la clausura o cancelación.
+
+###### ARTICULO 26.
+
+Los acuerdos tomados por el Director de Finanzas con base en las facultades expresas que le otorga la Ley, tiene carácter obligatorio para los contribuyentes.
+
+### CAPITULO III. De la Obligación Fiscal y sus Modalidades
+
+###### ARTICULO 27.
+
+La obligación fiscal es la relación que existe entre la persona física y moral y la Hacienda Pública Municipal en virtud de la cual, al actualizarse los extremos de una disposición hacendaria convierte al primero en deudor del Ayuntamiento.
+
+###### ARTICULO 28.
+
+Para los efectos de esta Ley, la obligación fiscal nace en el momento en que el contribuyente se ubica dentro de la hipótesis jurídica y sólo se extingue mediante pago, sin perjuicio de las causas especiales previstas expresamente por la Ley.
+
+###### ARTICULO 29.
+
+Son obligaciones de los contribuyentes:
+
+I.- Obtener su licencia de funcionamiento mediante la presentación de su solicitud de empadronamiento ante la Secretaría de Finanzas, dentro de los quince días siguientes a la fecha de iniciación de sus operaciones. Los giros reglamentarios deberán obtener de la autoridad municipal competente, autorización previa para inicio de operaciones.
+
+Cuando un mismo contribuyente tenga diversos establecimientos, sucursales, bodegas o dependencias, deberá obtener licencia de funcionamiento en cada una de ellas, por separado, mediante el empadronamiento respectivo.
+
+Para los efectos de este Artículo se considera como fecha de iniciación de operaciones, aquélla en que se efectúe la apertura del establecimiento, o en la que el contribuyente obtenga el primer ingreso.
+
+II.- Dar aviso oportuno de cualquier modificación, trátese de un aumento de giro de capital, traspaso, cambio de domicilio, cambio de denominación o clausura;
+
+III.- Quienes realizan actividades eventuales deberán obtener autorización del Presidente Municipal, con base a ello solicitar la determinación de créditos fiscales a que están obligados;
+
+IV.- Utilizar las formas elaboradas por la Secretaría de Finanzas, para comparecer, solicitar o liquidar créditos fiscales;
+
+V.- Pagar los impuestos, derechos, productos o aprovechamientos, en forma y términos que establecen las leyes respectivas;
+
+VI.- Proporcionar a la Secretaría de Finanzas y otras autoridades competentes, todos los documentos e informes que requieran, dentro del plazo que para ello fija la dependencia solicitante;
+
+VII.- Recibir las visitas de investigación ordenadas por la autoridad competente, y en su caso proporcionar a las mismas, los libros, datos, informes, documentos y demás requisitos que le soliciten, para el desempeño de sus funciones;
+
+VIII.- Colocar en lugar visible del establecimiento la licencia municipal, para el funcionamiento en giro, así como la placa o tarjeta de inscripción relativa;
+
+IX.- Aceptar la intervención del Secretario de Finanzas a través de las personas que al efecto designa;
+
+X.- Los contribuyentes sujetos a pagos periódicos presentarán al efectuar sus pagos el recibo anterior y en su caso de ser requerido para ello, hasta los tres últimos;
+
+Los contribuyentes que no cumplan con las obligaciones señaladas en esta Ley, serán sujetos de las sanciones, que, en su caso señalen las Leyes Municipales.
+
+###### ARTICULO 30.
+
+El crédito fiscal es la obligación determinada en cantidad líquida y deberá pagarse en la fecha o dentro del plazo señalado en las disposiciones respectivas.
+
+A falta de disposición legal expresa, el pago deberá hacerse;
+
+I.- Las obligaciones fiscales de carácter anual deberán liquidarse dentro de los primeros dos meses del año fiscal respectivo;
+
+II.- Los créditos fiscales que deban liquidarse en forma mensual, deberán cubrirse dentro de los primeros quince días del mes de que se trate;
+
+III.- Los comerciantes ambulantes, los semifijos y los que ocupan vía pública deberán liquidar sus créditos fiscales diariamente al recaudador que al efecto designe el Director de Finanzas;
+
+IV.- Los créditos originados por Derechos de prestación de servicio público dado por la autoridad, deberán pagarse por anticipado salvo aquellos en que su monto sólo pueda determinarse después de recibida la prestación; y
+
+V.- Las personas físicas o morales que ofrezcan espectáculos y diversiones públicas, pagarán sus obligaciones fiscales al interventor que designe el Director de Finanzas, en el momento en que concluye cada función o período de espectáculos o diversión.
+
+###### ARTICULO 31.
+
+Para que una autorización o licencia expedida por la Presidencia Municipal y que apareje el nacimiento de una obligación fiscal o surta efectos, deberá ir acompañada del comprobante de pago respectivo.
+
+###### ARTICULO 32.
+
+El incumplimiento de las obligaciones señaladas por esta Ley, trae aparejada la imposición de una sanción económica hasta tres tantos del monto total del crédito hacendario de que se trate.
+
+###### ARTICULO 33.
+
+La extemporaneidad en el pago de crédito accesorio que, como recargo, podrá ser hasta del cien por ciento del monto total del adeudo.
+
+###### ARTICULO 34.
+
+Tratándose de conceptos fiscales integrados por suerte principal y accesorios, el pago de los mismos deberá abonarse en primer término a los accesorios y el sobrante, a liquidación de la suerte principal.
+
+###### ARTICULO 35.
+
+Son responsables solidarios;
+
+I.- Los que en términos de esta Ley, están obligados al pago de la misma prestación fiscal;
+
+II.- Quienes de manera voluntaria y expresa, se obliguen a responder solidariamente;
+
+III.- Los copropietarios, los condominios, los coposeedores o las partícipes en derechos mancomunados, respecto de los créditos fiscales derivados del bien o derecho común y hasta el monto del valor de éste. Por excedente de los créditos fiscales, cada uno quedará obligado en la proporción que le corresponde en el bien o derecho mancomunado.
+
+IV.- Las personas obligadas por la Ley a cerciorarse de créditos fiscales, siempre que estén facultadas para autorizar actos que den origen a los mismos;
+
+V.- Y los legatarios y los donatarios a título particular, respecto de los créditos fiscales que se hubiesen causado en relación con los bienes legados y donados, hasta por el monto de éstos.
+
+VI.- Los servidores públicos así como los Notarios y Corredores Públicos que autoricen algún acto jurídico, expidan testimonios, den trámite a algún documento en que se consignen actos convenidos, contratos y operaciones si no que se cercioran de que se ha cubierto total o parcialmente los impuestos, contribuciones especiales o derechos, o no den cumplimiento a las disposiciones correspondientes que regulen el pago de gravámenes, independientemente de que se harán acreedores a la imposición de sanciones previstas por esta Ley;
+
+VII.- Los terceros que, para garantizar obligaciones fiscales de otros constituyan depósitos, prenda o hipoteca o permitan el secuestro de bienes de su propiedad, hasta por el valor de los otorgados en garantía;
+
+VIII.- Respecto del pago de créditos fiscales derivados de la propiedad o posesión de bienes inmuebles, o de operaciones de cualquier naturaleza, relativa a los mismos;
+
+a).- El deudor, el transmitente, el adquirente o el comisionisa (sic) según sea el caso;
+
+b).- Los promitentes vendedores, así como quienes vendan con reserva de dominio o sujetos a condición;
+
+c).- Los nudo (sic) propietarios;
+
+d).- Los fiduciarios;
+
+e).- Los concesionados o quienes no siendo propietarios tengan la explotación de las plantas de beneficio de los establecimientos mineros o metalúrgicos;
+
+f).- Los adquirentes de predios, en relación al impuesto y sus accesorios insolutos a la fecha de la adquisición. En todo caso, los predios quedarán preferentemente afectos al pago del impuesto y sus accesorios, independientemente de quien detente la propiedad o posesión de los mismos;
+
+g).- Cuando se construya al amparo de una licencia municipal, a nombre de determinada persona distinta de quien aparezca como adquirente en el acto o contrato traslativo celebrado con la fraccionadora o propietaria, el constructor será el responsable del impuesto sobre adquisición del inmueble causado con motivo del contrato celebrado con la persona a nombre de quien se autorizó la licencia para construir, ya que para los efectos de este impuesto se considera que hubo una operación traslativa de propiedad, por sola circunstancia de que la licencia de construcción se solicite y escriba a nombre de una persona, que posteriormente, no aparezca como adquirente, en un contrato celebrado con la fraccionadora o con el propietario salvo prueba en contrario;
+
+IX.- Los comisionistas, respecto de los créditos fiscales a cargo de sus comitentes, derivados de operaciones motivo del contrato de comisión y los comitentes por los créditos fiscales a cargo de los comisionistas, por las operaciones relativas al mismo contrato; y
+
+X.- Las demás personas que señalen las leyes fiscales.
+
+En los casos de responsabilidad solidaria los responsables quedan obligados a cubrir la totalidad de los créditos fiscales y por lo tanto el fisco puede exigir en cualquiera de ellos simultánea o separadamente el cumplimiento de las obligaciones fiscales.
+
+###### ARTICULO 36.
+
+El Director de Finanzas está facultado para exigir a los contribuyentes que garanticen el pago de los créditos fiscales, cuando exista temor fundado de que posteriormente no se haga.
+
+Si requerido para garantizar, el contribuyente no otorga la garantía del caso en un plazo de tres días, se procederá a embargar precautoriamente, exclusivamente como medio de garantía.
+
+###### ARTICULO 37.
+
+Para los efectos fiscales se considerará domicilio de los sujetos pasivos y responsables solidarios al que establezca las leyes, los siguientes:
+
+I.- Tratándose de personas físicas;
+
+a).- La casa que habitan;
+
+b).- El lugar en que habitualmente realicen actividades o tengan bienes que den lugar a obligaciones fiscales en todo lo que se relacione con éstas. En dichos casos las autoridades fiscales podrán considerar también como domicilio, la casa habitación de la persona física;
+
+c).- A la falta de domicilio en los términos indicados en los incisos anteriores, el lugar en que se encuentre;
+
+II.- En el caso de las personas morales;
+
+a).- El lugar en que esté ubicado el negocio o donde se encuentre establecida la administración del mismo a elección de las autoridades fiscales;
+
+b).- A falta de los anteriores, el lugar en que se hubiese realizado el hecho generador de la obligación fiscal; y
+
+III.- Tratándose de personas físicas o morales residentes fuera del Municipio que realicen actividades gravadas dentro de su territorio a través de representantes, el domicilio del representante.
+
+###### ARTICULO 38.
+
+La obligación fiscal se extingue por cualquier otra situación jurídica que surta los efectos del pago.
+
+###### ARTICULO 39.
+
+Las autoridades fiscales están obligadas a ajustarse a los términos de este Título, salvo las excepciones o modalidades previstas en los Títulos siguientes.
+
+## TITULO SEGUNDO (SIC). DE LOS IMPUESTOS
+
+### CAPITULO I. Del Impuesto a la Propiedad Raíz
+
+#### SECCION PRIMERA. DEL OBJETO
+
+###### ARTICULO 40.
+
+Es objeto de este impuesto, según el caso, la propiedad, la copropiedad, la posesión y el usufructo de predios, así como las construcciones edificadas sobre los mismos.
+
+#### SECCION SEGUNDA. DE LOS SUJETOS
+
+###### ARTICULO 41.
+
+Son sujetos de este impuesto:
+
+I.- Los propietarios, copropietarios y condominios (sic) de predios;
+
+II.- Los titulares de certificados de participación inmobiliaria o de cualquier otro título similar;
+
+III.- Los fideicomitentes y los fideicomisarios, según sea el caso;
+
+IV.- Los titulares de los derechos agrarios sobre la propiedad ejidal o comunal, de conformidad con lo establecido en la Ley Federal de Reforma Agraria;
+
+V.- Quienes tengan la posesión de título de dueño o útil de predios;
+
+VI.- Los poseedores que por cualquier título tengan la concesión, uso y goce de predios del dominio del Estado, de sus Municipios o de la Federación;
+
+VII.- Los poseedores de bienes vacantes, mientras los detecten;
+
+VIII.- Los usufructuarios; y
+
+IX.- Los propietarios de predios donde se ubiquen plantas de beneficio, establecimientos mineros y metalúrgicos en términos de la Legislación de la materia.
+
+#### SECCION TERCERA. DE LA RESPONSABILIDAD SOLIDARIA
+
+###### ARTICULO 42.
+
+Responden solidariamente del pago del impuesto a la propiedad raíz:
+
+I.- Los promitentes vendedores, quienes vendan con reserva de dominio o sujetos a condición;
+
+II.- Los nudo-propietarios; (sic)
+
+III.- Los fiduciarios respecto de los bienes sujetos al fideicomiso;
+
+IV.- Los concesionarios, o quienes no siendo propietarios, tengan la explotación de las plantas de beneficio de los establecimientos mineros o metalúrgicos;
+
+V.- Los adquirentes de predios en relación al impuesto y sus accesorios insolutos a la fecha de la adquisición; en todo caso los predios quedarán preferentemente afectados al pago del impuesto y sus accesorios, independientemente de quien detente la propiedad o posesión de los mismos; y
+
+VI.- Los funcionarios y empleados públicos que autoricen algún acto jurídico o den trámite a algún documento sin que se esté al corriente en el pago de este impuesto y sus accesorios, independientemente de las sanciones en su contra.
+
+#### SECCION CUARTA. DE LA BASE
+
+###### ARTICULO 43.
+
+Será base para el pago de este impuesto, el valor catastral de los predios o de las construcciones, en su costo. En cuanto a los predios o construcción que no tengan valores catastrales, servirá de base el valor con que se encuentren fiscalmente empadronadas o el valor de operaciones de traslado de dominio que se registre, aún tratándose de ventas con reserva de dominio, éste es mayor que aquellos.
+
+La base del impuesto se cambiará:
+
+I.- Cuando se realice alguna de las causas que establece la Ley de Catastro del Estado, para practicar nuevo avalúo;
+
+II.- Cuando por cualquier circunstancia el predio sufra demérito al 25% del valor catastral o registrado;
+
+III.- Cuando por cualquier circunstancia la base con que esté tributado un predio sea inferior al valor que le correspondería en una libre transacción comercial; y
+
+IV.- Cuando con motivo de la aplicación de las tablas de valores, se practique un avalúo que se acerque más al valor comercial.
+
+###### ARTICULO 44.
+
+Cuando no sea posible determinar el valor catastral aplicable al inmueble la Dirección de Finanzas, con apoyo en los elementos de que disponga, determinará el valor que sirva de base el que deberá ser lo más apegado posible a su valor comercial, el valor así determinado surtirá los efectos de valor catastral.
+
+###### ARTICULO 45.
+
+La nueva base surtirá efecto:
+
+I.- A partir del bimestre siguiente a aquél en que se produzca, acto o contrato que le dé origen;
+
+II.- A partir del bimestre siguiente al en que se notifique el nuevo avalúo, cuando éste sea efectuado por haber transcurrido el plazo de dos y de cuatro años, según se trate de predios urbanos rústicos; y
+
+III.- Por cualquiera de las circunstancias a que se refiere la Ley de Catastro del Estado.
+
+#### SECCION QUINTA. DEL PAGO
+
+###### ARTICULO 46.
+
+Este impuesto se liquidará de conformidad con las cuotas y tasas, que al efecto señale la Ley de Ingresos del Municipio.
+
+###### ARTICULO 47.
+
+Este Impuesto se pagará en forma anual dentro del período comprendido del mes de enero al último día hábil del mes de marzo.
+
+###### ARTICULO 48.
+
+Para la determinación del Impuesto a la Propiedad Raíz correspondiente a predios en general cuya venta se opere mediante el sistema de fraccionamiento, se aplicarán las tasas correspondientes a predios sin construir que les sean relativas conforme a la Ley de Ingresos Municipal, debiéndose determinar bimestralmente la base fiscal, de acuerdo al siguiente procedimiento:
+
+I.- Se obtendrá la suma de los siguientes valores;
+
+a).- El de adquisición o aportación del predio, obtenido en los términos de la Ley de Catastro del Estado, con deducción de un 15% correspondiente a las áreas de donación municipal; y
+
+b).- El del costo, integrados todos sus elementos con las modificaciones o adiciones efectuadas en el bimestre de que se trate;
+
+II.- De la suma obtenida, se restará al precio de costo el importe de las fracciones vendidas en el mismo bimestre;
+
+III.- La diferencia resultante, constituirá la Base Fiscal correspondiente al bimestre;
+
+IV.- La cantidad obtenida por la diferencia a que se refiere la fracción II, para un bimestre determinado, representará el valor de adquisición o aportación del predio para el bimestre siguiente;
+
+V.- En el bimestre en que se efectúe la entrega del fraccionamiento al Municipio, se disminuirá de la suma obtenida a que se refiere la fracción I, el importe al precio de costo de las calles; y
+
+VI.- Una vez entregado al Municipio el fraccionamiento, las partes del mismo que no se hayan vendido, se reputarán como propiedad del fraccionamiento, y a partir de ese momento se les dará el tratamiento señalado en la Ley de Catastro del Estado, y en esta Ley.
+
+###### ARTICULO 49.
+
+Los sujetos del impuesto a que se refiere el Artículo anterior, podrán optar por sujetarse al siguiente sistema de tributación:
+
+I.- La Base Fiscal la constituirá el valor de adquisición o aportación del predio, determinado en los términos de la Ley de Catastro del Estado. En base permanecerá constante y por tanto no sufrirá ni aumentos ni disminuciones, desde la iniciación del fraccionamiento y hasta su entrega al Municipio;
+
+II.- La tasa aplicable sobre la base determinada conforme al punto anterior, será del 12 al millar anual;
+
+III.- El pago del impuesto deberá efectuarse por anualidades anticipadas;
+
+a).- Tratándose de fraccionamientos en fase preventiva, en el mes siguiente al de su iniciación, cubriendo el sector bimestre del año de su constitución;
+
+b).- En tratándose de fraccionamientos en operación, durante los meses de enero y febrero de cada año; y
+
+IV.- Una vez entregado al Municipio el fraccionamiento, las partes del mismo que no se hayan vendido se reputarán como propiedad del fraccionamiento, y a partir de ese momento se les dará el tratamiento señalado en la Ley de Catastro del Estado y en la presente Ley.
+
+###### ARTICULO 50.
+
+Tratándose de propiedad ejidal tributarán en los términos de lo establecido en el Artículo 106 de la Ley Federal de la Reforma Agraria.
+
+Tratándose de ejidos y comunidades agrarias, el pago del impuesto podrá efectuarse dentro del plazo general a que se refiere el párrafo de este Artículo, o bien anualidades vencidas durante el mes de enero del año siguiente al en que corresponda el pago.
+
+#### SECCION SEXTA. DE LAS DEFINICIONES
+
+###### ARTICULO 51.
+
+Para los efectos de este impuesto, se estará a las definiciones que sobre diversos conceptos previene la Ley de Catastro del Estado.
+
+#### SECCION SEPTIMA. DE LA LIQUIDACION
+
+###### ARTICULO 52.
+
+La Dirección de Finanzas deberá determinar el monto del impuesto, de conformidad con las respectivas bases, tasas o cuotas que al efecto establezca esta Ley, y la Ley de Ingresos del Municipio.
+
+###### ARTICULO 53.
+
+Tratándose de cementerios, el impuesto a pagar durante el año, se liquidará sobre el valor catastral de la parte que no hubiese sido enajenada el mes de enero del ejercicio que se trate. A este efecto durante el primer mes de cada año, los sujetos del impuesto manifestarán la superficie que hubieren vendido el año anterior.
+
+###### ARTICULO 54.
+
+En los casos de excedencias o de predios no empadronados de construcciones, reconstrucciones o de ampliaciones no manifestadas, la liquidación comprenderá cinco años anteriores a la fecha de su descubrimiento por cualquier causa o motivo, salvo que el contribuyente pruebe que tales hechos u omisiones datan de fecha más reciente.
+
+También se impondrá al propietario o poseedor del inmueble una multa de cinco hasta diez veces del valor del impuesto anual en la fecha de su descubrimiento.
+
+En caso de que la excedencia no rebase el 10% de la superficie total del inmueble, no se cobrará la multa a que se refiere el párrafo anterior.
+
+#### SECCION OCTAVA. DE LAS EXENCIONES
+
+###### ARTICULO 55.
+
+Quedan exceptuados de pago de este impuesto, los bienes de dominio público de la Federación, de los Estados y de los Municipios.
+
+#### SECCION NOVENA. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
+
+###### ARTICULO 56.
+
+Para los efectos de esta Ley, los sujetos de este impuesto están obligados a presentar los avisos correspondientes, dentro de los 45 días naturales siguientes al en que se celebren o se realicen según el caso, los contratos, permisos, hechos o actos siguientes:
+
+I.- De compra-venta, venta con reserva de dominio, promesa de venta o cualquier otro traslativo de dominio de bienes inmuebles;
+
+II.- De construcción, reconstrucción, ampliación, modificación, demolición de construcciones ya existentes; y
+
+III.- De fusión, subdivisión y fraccionamiento de predios.
+
+Se tendrá por cumplida esta obligación, respecto de la fracción I, con la presentación de los avisos exigidos por esta Ley, para el pago del impuesto sobre adquisición de inmuebles, y para las fracciones II y III, con los avisos que señala la Ley de Catastro del Estado.
+
+###### ARTICULO 57.
+
+Los sujetos del impuesto deberán manifestar a la Dirección de Finanzas sus cambios de domicilio, dentro de los quince días siguientes a aquél en que se efectúen; si no lo hicieren, se tendrá como domicilio, para todos los efectos legales, el que hubieren señalado anteriormente o, en su defecto, el predio mismo.
+
+###### ARTICULO 58.
+
+Las autoridades judiciales o administrativas previamente al remate del inmueble, recabarán de la Dirección de Finanzas un informe sobre los créditos fiscales que con motivo de tal inmueble se hayan originado hasta la fecha de la subasta.
+
+Si de tal informe apareciere algún crédito fiscal insoluto, la autoridad retendrá del producto del remate la cantidad suficiente a cubrirlo, remitiéndola inmediatamente a la Dirección de Finanzas para que ésta extienda y envía el recibo correspondiente, que será entregado al adquirente del inmueble.
+
+###### ARTICULO 59.
+
+Cuando en las manifestaciones o avisos exigidos no se expresen los datos o no se acompañen los documentos o planos también requeridos, las autoridades fiscales darán un plazo de quince días para que se corrija la omisión, que se contará a partir de la fecha en que los interesados reciban el requerimiento.
+
+Si transcurrido dicho plazo no se expresan los datos o no se presentan los documentos o planos requeridos, la Dirección de Finanzas no tomará en cuenta las manifestaciones o avisos sin perjuicio de imponer al infractor las sanciones que procedan.
+
+### CAPITULO II. Del Impuesto Sobre Adquisición de Inmuebles
+
+DEL OBJETO
+
+###### ARTICULO 60.
+
+El valor del inmueble será el que resulte mayor entre el valor de adquisición o el valor catastral del mismo, disminuido con el valor que se tome como base para calcular el impuesto a que se refiere esta Ley en su última adquisición, siempre que la misma se hubiera efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto.
+
+Para los efectos de esta Ley se entiende por adquisición la que se derive de:
+
+I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades, a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal, siempre que sean inmuebles de propiedad de los copropietarios o de los cónyuges.
+
+II.- La compra-venta en la que el vendedor se reserva la propiedad aun cuando la transferencia de ésta opere con posterioridad;
+
+III.- La promesa de adquirir, cuando se pacte que el futuro comprador entrará en posesión de los bienes o que el futuro vendedor recibirá el precio de la venta o parte de él, antes de que se celebre el contrato prometido;
+
+IV.- La cesión de derechos del comprador o del futuro comprador en los casos de las fracciones II y III que anteceden;
+
+V.- Fusión y escisión de propiedades;
+
+VI.- La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles;
+
+VII.- Constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la extinción del usufructo temporal;
+
+VIII.- Prescripción positiva;
+
+IX.- La cesión de derechos del heredero, legatario o copropietario, en la parte relativa y en proporción a los inmuebles.
+
+Se entenderá como cesión de derechos la renuncia de la herencia o legado efectuado después de la declaratoria de herederos o legatarios;
+
+X.- Enajenación a través de fideicomiso; y
+
+XI.- La división de la copropiedad y la disolución de la sociedad conyugal, por la parte que se adquiera en demasía del porciento que le correspondía al propietario o cónyuge.
+
+En las permutas se considerará que se efectúan dos adquisiciones.
+
+Cuando con motivo de la adquisición, el adquirente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
+
+En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino el del avalúo a que se refiere este Artículo.
+
+DE LOS SUJETOS
+
+###### ARTICULO 61.
+
+Están obligados al pago de este impuesto las personas físicas o morales que adquieran inmuebles que consistan en el suelo y las construcciones adheridas a él, ubicadas en el Municipio, por cualesquiera de las figuras enumeradas en el Artículo 63 de esta Ley.
+
+###### ARTICULO 62.
+
+Será base para el pago de este impuesto: El valor de operación del inmueble, actualizado, desde la fecha de adquisición.
+
+Para actualizar el valor de la operación, se dividirá el índice nacional de precios al consumidor del mes en que se otorgue la escritura o se requiera de pago, entre el índice nacional de precios al consumidor del mes en que se efectuó la adquisición, la cantidad que resulte se multiplicará por el precio pactado o valor de operación.
+
+Las autoridades fiscales estarán facultadas para practicar avalúo del inmueble referido a la fecha de adquisición y compararlo con el valor de la operación. En caso de resultar el del precio pactado, el impuesto se calculará sobre el avalúo de la autoridad fiscal actualizado desde la fecha de adquisición.
+
+Cuando no se pacte el precio, el impuesto se determinará en base al avalúo que practique la autoridad fiscal.
+
+Para determinar el pago de este impuesto se aplicará una exención al valor que resulte del inmueble, en los siguientes casos:
+
+I.- De cinco veces el salario mínimo general vigente en el Municipio de San Francisco de los Romo, elevado al año cuando el inmueble esté construido;
+
+II.- De dos y medios veces el salario mínimo general vigente en el Municipio de San Francisco de los Romo elevado al año cuando el inmueble no tenga construcción alguna o sólo se encuentre bardeado;
+
+III.- De quince veces el salario mínimo general vigente en el Municipio de San Francisco de los Romo elevado al año, cuando se trate de un inmueble popular, de uso habitacional.
+
+Para los efectos de esta Ley se entiende por inmueble de tipo popular, aquél que se ubica en fraccionamientos autorizados como de tipo popular o de interés social, cuya superficie de terreno sea inferior a ciento veinte metros cuadrados y la construcción no sea mayor de sesenta metros cuadrados;
+
+IV.- De cinco veces el salario mínimo general vigente en el Municipio de San Francisco de los Romo elevado al año cuando se trate de terrenos dedicados a la explotación agropecuaria.
+
+Para los fines de esta Ley se considerará que el usufructo y la nuda propiedad tienen el valor, cada uno de ellos del 50% del valor de la propiedad.
+
+DE LA TASA
+
+###### ARTICULO 63.
+
+Este impuesto se liquidará y recaudará de conformidad con las cuotas y tasas que al efecto señale la Ley de Ingresos del Municipio.
+
+###### ARTICULO 64.
+
+El pago del impuesto deberá hacerse dentro de los quince días siguientes a aquél en el que se realice cualquiera de los supuestos que a continuación se señalan:
+
+I.- Cuando se constituye o se adquiera el usufructo o la nuda propiedad. En el caso de usufructo temporal, cuando se extinga.
+
+II.- A la adjudicación de los bienes de la sucesión o a los tres años de la muerte del autor de la misma, si transcurrido dicho plazo no se hubiera llevado a cabo la adjudicación, así como al cederse los derechos hereditarios, o al enajenarse bienes por la sucesión.
+
+En estos dos últimos casos, el impuesto correspondiente a la adquisición por causa de muerte, se causará en el momento en que se realice la sesión o la enajenación, independientemente del que se cause por el cesionario o por el adquirente.
+
+III.- Tratándose de adquisiciones efectuadas a través de fideicomiso, cuando se realicen los supuestos de enajenación en los términos del Código Fiscal de la Federación.
+
+IV.- Al protocolizarse o inscribirse el reconocimiento judicial de la prescripción positiva.
+
+V.- En los casos no previstos en las fracciones anteriores cuando los actos de que se trate se eleven a escritura pública o se inscriban en registro público, para poder surtir efectos, ante terceros en los términos del derecho común; y si no están sujetos a esta formalidad, al adquirente el dominio conforme a las leyes.
+
+El contribuyente podrá pagar el impuesto por anticipado.
+
+DE LAS EXENCIONES
+
+###### ARTICULO 65.
+
+No se pagará el impuesto establecido en esta Ley:
+
+I.- En las adquisiciones de inmuebles que hagan la Federación, los Estados y Municipios para formar parte del dominio público, y los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso y las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero; y
+
+II.- En las transmisiones de bienes y derechos que por rescisión del contrato vuelvan estos al enajenante.
+
+DE LA RESPONSABILIDAD SOLIDARIA
+
+###### ARTICULO 66.
+
+En las adquisiciones que se hagan constar en escritura pública los notarios, jueces, corredores y demás fedatarios, que por disposición legal tengan funciones notariales, harán contar el impuesto en la escritura y lo enterarán mediante declaración en la oficina autorizada que corresponda en el domicilio por todas las adquisiciones aun cuando no haya impuesto a enterar.
+
+Los fedatarios no estarán obligados a enterar el impuesto cuando consignen en escrituras públicas, operaciones por las que ya se hubiera pagado el impuesto y acompañen a su declaración copia de aquélla con la que se efectuó dicho pago.
+
+El enajenante responde solidariamente del impuesto que deba pagar el adquirente.
+
+DE LAS OBLIGACIONES DE TERCEROS
+
+###### ARTICULO 67.
+
+Para los efectos del Artículo 66, los notarios públicos o quienes hagan sus veces y los funcionarios públicos, deberán dar aviso a la Dirección de Finanzas de los actos o contratos en que intervengan y que resulten gravados con este impuesto.
+
+Los particulares tendrán la misma obligación, tratándose de escrituras otorgadas fuera del Estado.
+
+###### ARTICULO 68.
+
+Los avisos a que se refiere el Artículo anterior, se harán en las formas aprobadas por las autoridades fiscales, debiendo proporcionar datos que las mismas indiquen.
+
+Tratándose de operaciones sobre inmuebles se acompañarán el plano catastral con superficie, medidas y colindancias actualizadas y certificado que acredite que el inmueble se encuentra al corriente del pago de sus obligaciones fiscales.
+
+Estos documentos deberán contener los datos actualizados hasta el mes en que los jueces y notario (sic) autoricen la escritura, actos o contratos.
+
+###### ARTICULO 69.
+
+Los avisos deberán presentarse ante la autoridad fiscal dentro de los treinta días siguientes a la fecha del documento en que se haga constar el acto o contrato.
+
+Cuando en los avisos o manifestaciones no se acompañe la documentación requerida, las autoridades fiscales concederán un término de quince días para que se corrija la omisión que se contará a partir de la fecha en que los interesados reciban el requerimiento.
+
+Si transcurrido dicho término no se presenta la documentación requerida se tendrán por no presentadas dichas manifestaciones o avisos, sin perjuicio de imponer al infractor las sanciones que precedan.
+
+###### ARTICULO 70.
+
+Los notarios o quienes hagan sus veces, los registradores y las autoridades competentes, no expedirán testimonio, ni registrarán o darán trámite a actos o contratos en que intervengan, o documentos que se les presenten, si no se les comprueba el pago de este impuesto.
+
+En todo caso el margen de la matriz y en los testimonios deberá asentarse la constancia de pago a la que éste no se causa.
+
+### CAPITULO III. Del Impuesto Sobre Juegos Permitidos, Espectáculos Públicos y Aparatos Mecánicos o Electromecánicos Accionados con Monedas y Fichas
+
+#### SECCION PRIMERA. DEL OBJETO
+
+###### ARTICULO 71.
+
+Es el objeto de este impuesto la propiedad, posesión y explotación de juegos, espectáculos y aparatos mecánicos, electrónicos, accionados por monedas o fichas.
+
+#### SECCION SEGUNDA. DE LOS SUJETOS
+
+###### ARTICULO 72.
+
+Son los sujetos de este impuesto, las personas físicas o morales que ostenten la propiedad, la explotación de juegos, espectáculos públicos y aparatos mecánicos o electromecánicos mencionados en el artículo anterior.
+
+#### SECCION TERCERA. DE LA BASE
+
+###### ARTICULO 73.
+
+La base para determinar el monto del impuesto, serán los ingresos globales percibidos por el período de explotación autorizado por el Ayuntamiento.
+
+#### SECCION CUARTA. DEL PAGO
+
+###### ARTICULO 74.
+
+El impuesto a que se refiere el presente capítulo se liquidará sobre las cuotas y tasas que al efecto señalen en la Ley de Ingresos, al cerrarse la taquilla, caja o al obtener del Ayuntamiento el permiso correspondiente, de conformidad con las siguientes reglas:
+
+I.- Tratándose de diversiones o espectáculos en los que el boletaje se expenda fuera de la taquilla con anterioridad a la fecha en que se realice el evento, sobre el número total de los boletos vendidos, debiendo el empresario mostrar al interventor el boletaje no utilizado, a efecto de que se calcule el número total de los vendidos;
+
+II.- Tratándose de juegos con premiso, tales como rifas, loterías, concursos o sorteos, el impuesto será liquidado con una anticipación de cinco días, respecto de la fecha en que han de celebrarse.
+
+En el caso de que, celebrada la actividad gravada, no se haya cubierto el crédito fiscal en términos de este artículo, la Dirección de Finanzas podrá ordenar la retención del o los premios como garantía del pago del crédito fiscal sin perjuicio de que se aplique el procedimiento económico coactivo.
+
+III.- Tratándose de impuesto cobrable por cuota, deberá liquidarse con tres días de anticipación a la fecha en que se ofrezca la diversión, juego o espectáculo, motivo del gravamen;
+
+IV.- Tratándose de juegos, aparatos mecánicos y/o electrónicos accionados por monedas o fichas que se exploten en forma temporal y mediante permiso otorgado por el Ayuntamiento, el impuesto se liquidará por anticipado y al momento de obtener el permiso de referencia;
+
+V.- Tratándose de contribuyentes habituales del presente impuesto el pago lo realizarán por anualidades adelantadas; y
+
+VI.- Las cantidades que se paguen por el derecho a reservar localidades en los espectáculos gravados por este capítulo, se considerarán como sobre precios de las entradas y causarán el impuesto de acuerdo con las tasas y cuotas que al efecto se fijen en la Ley de Ingresos del Municipio.
+
+#### SECCION QUINTA. OBLIGACIONES DE LOS CONTRIBUYENTES
+
+###### ARTICULO 75.
+
+Las empresas de espectáculos o diversiones públicas deberán otorgar fianza, a satisfacción de la Dirección de Finanzas, cuando soliciten su permiso, la que perderán en caso de cancelar. Asimismo exhibirán ante la Dirección de Finanzas el boletaje que se utilizará para permitir el acceso al público a efecto de que sea autorizado y sellado.
+
+En caso de que sorprenda un boletaje no autorizado por la Dirección de Finanzas, se impondrá al referido empresario una infracción consistente en el importe de diez a quinientos días de salario mínimo vigente en el Municipio al momento de cometerse la violación.
+
+###### ARTICULO 76.
+
+Los contribuyentes que utilicen sistemas mecánicos o electrónicos para la venta de boletaje que se utilice para permitir el acceso del público están obligados a permitir la inspección de las mismas por parte de los inspectores o interventores nombrados por la Dirección de Finanzas.
+
+#### SECCION SEXTA. DE LA RESPONSABILIDAD SOLIDARIA
+
+###### ARTICULO 77.
+
+Los propietarios de los inmuebles donde se autoricen a las empresas para celebrar espectáculos o diversiones públicas, son solidariamente responsables de los créditos fiscales que causen dichos eventos, por lo que deberán exigir a los empresarios que exhiban la autorización municipal y en su caso el comprobante de garantía que el Director de Finanzas les expida.
+
+### CAPITULO I. Por Empadronamiento, Expedición o Modificación de Licencias
+
+## TITULO TERCERO. DE LOS DERECHOS
+
+### CAPITULO II. Los Servicios Prestados por Autoridades de Obras Públicas
+
+## TITULO CUARTO. DE LOS PRODUCTOS
+
+### CAPITULO III. Por los Servicios Prestados por Subdivisión, Fusión y Relotificación
+
+#### SECCION UNICA
+
+###### ARTICULO 78.
+
+El empadronamiento, la expedición o la modificación de las Licencias Municipales que anualmente están obligados a obtener todos los giros mercantiles, industriales o de servicios, representantes, peritos valuadores y en construcción, comisionistas, etc., constituyen las prestaciones objeto de los Derechos a que se refiere este Capítulo.
+
+En virtud de la coordinación existente en materia de Derechos entre el Estado de Aguascalientes y la Federación, los contribuyentes no pagarán derechos por las prestaciones que se refiere este Artículo.
+
+###### ARTICULO 79.
+
+Los contribuyentes a que se refiere este Capítulo están obligados a cubrir las obligaciones señaladas en el Artículo 29 de esta Ley.
+
+###### ARTICULO 80.
+
+Las sucursales, agencias o bodegas con venta directa al público, también requieren licencia.
+
+### CAPITULO IV. De la Prestación del Servicio de Agua Potable
+
+#### SECCION UNICA
+
+###### ARTICULO 81.
+
+Por los servicios prestados por las oficinas de Obras Públicas, o departamentos competentes, deberán pagarse Derechos previamente a la prestación del servicio, en los términos que establezca la Ley de Ingresos del Municipio.
+
+Para que cualquier autorización obtenga plena validez, será requisito indispensable acompañar el comprobante de pago correspondiente.
+
+### CAPITULO V. De Servicios por la Conexión de Albañales
+
+#### SECCION UNICA
+
+###### ARTICULO 82.
+
+La prestación de servicios por Subdivisión, Fusión y Relotificación, causarán Derechos que se liquidarán de conformidad con las cuotas que al efecto señale la Ley de Ingresos del Municipio.
+
+###### ARTICULO 83.
+
+La prestación de este servicio apareja un derecho que deberá liquidarse en la forma y términos previstos en la Ley de Ingresos del Municipio.
+
+### CAPITULO VI. De Servicios Prestados a Predios sin Bardear
+
+#### SECCION UNICA
+
+###### ARTICULO 84.
+
+Son contribuyentes de este Derecho, las personas físicas o morales que detenten, cualquiera que sea su título, el predio o la construcción de la prestación del servicio de agua potable.
+
+###### ARTICULO 85.
+
+Para los efectos de esta Ley, se considera objeto del servicio de agua potable, todo predio o construcción en que haya sido instalado. Las personas que sucesivamente detenten el predio construcción, se consideran deudores de la Hacienda Pública del Municipio, en los casos en que se suscite morosidad en el pago de Derechos respectivo.
+
+###### ARTICULO 86.
+
+La prestación del servicio de agua potable deberá solicitarse en la forma y términos que prevenga el Bando Municipal mediante la celebración del contrato de prestación de servicios, con las implicaciones previstas por la Ley.
+
+###### ARTICULO 87.
+
+Los propietarios, poseedores, arrendatarios o encargados del predio o establecimiento, se considerarán depositarios del aparato medidor de consumo de agua potable y como tal, están obligados a guardar de él en los términos que previene la Ley sin perjuicio de la responsabilidad objetiva que se les pueda fincar.
+
+###### ARTICULO 88.
+
+Los propietarios o poseedores cualquiera que sea su título, de un predio o construcción objeto de la prestación del servicio de agua potable, son objetivamente responsables de los créditos fiscales no liquidados por el propietario o poseedor anterior.
+
+Los notarios y funcionarios públicos con ingerencia en operaciones jurídicas de traslado de dominio, no deberán autorizarlo sin que previamente se muestre el recibo de pago por el servicio de agua potable.
+
+###### ARTICULO 89.
+
+Las personas físicas o morales, que en los términos del Bando Municipal, estén obligadas a solicitar las prestaciones del servicio de agua potable, deberán hacerlo en la forma y términos que al efecto disponga el Director de Finanzas y surtirá los efectos de contrato de prestación de servicios, con las implicaciones jurídicas del caso. Debiendo además liquidar previamente en la Comisión de Agua Potable y Alcantarillado, lo señalado en el Artículo 15 de la Ley de Ingresos.
+
+### CAPITULO VII. De los Fraccionamientos
+
+#### SECCION UNICA
+
+###### ARTICULO 90.
+
+Por el servicio que preste el Municipio para la conexión de albañales de los predios con las tuberías de saneamiento o atarjeas en la vía pública, se causarán independientemente de los derechos de conexión estipulados en la Ley de Ingresos Municipal, derechos equivalentes al costo del servicio, que comprenderá el valor de los materiales empleados y la mano de obra.
+
+###### ARTICULO 91.
+
+Es contribuyente de los derechos a que se refiere el artículo anterior, el propietario y/o poseedor del predio cuyo albañal deba ser conectado con la atarjea; en caso de que lo haga una persona distinta del propietario y/o poseedor, estos deberán manifestar su consentimiento.
+
+###### ARTICULO 92.
+
+Los derechos a que se refiere esta capítulo, se causarán conforme a las cuotas que en cada caso fije el Municipio, teniendo en cuenta el costo de los materiales y la mano de obra y deberán de pagarse en la Comisión de Agua Potable y Alcantarillado antes que se preste el servicio.
+
+Los mencionados Derechos se causarán sin perjuicio de los que correspondan por la reparación del pavimento, los cuales deberán ser pagados también por el contribuyente antes que se preste el servicio, en la misma Comisión de Agua Potable y Alcantarillado de acuerdo a lo que para tal fin dispone la Ley de Ingresos del Municipio.
+
+### CAPÍTULO VIII. Por Servicios de Recepción de Basura en Contenedores y Transportación de Materiales
+
+#### SECCION UNICA
+
+###### ARTICULO 93.
+
+Los propietarios de predios sin bardear, ubicados dentro del perímetro urbano, están obligados a retribuir al Ayuntamiento por el servicio de limpia.
+
+###### ARTICULO 94.
+
+El Derecho a que se refiere este Capítulo, se determinará y liquidará conforme a la cuota que al efecto señale la Ley de Ingresos Municipal.
+
+###### ARTICULO 95.
+
+Los fraccionamientos y desarrollos habitacionales que no hayan sido enterados a la responsabilidad Municipal y las empresas comerciales, industriales y de servicios, deberá retribuir los servicios de aseo público y recolección de desechos de acuerdo al gasto generado por días de servicio, horario y volúmenes desplazados.
+
+### CAPITULO IX. Por los Servicios Prestados en el Rastro Municipal
+
+### CAPITULO X. Por el Uso y Prestación de Servicios y Cementerios
+
+#### SECCION UNICA
+
+###### ARTICULO 96.
+
+Los fraccionamientos deberán cubrir derechos sobre el precio de venta de lotes fraccionados, mismos que deberán liquidarse de acuerdo a la tarifa que al efecto señale la Ley de Ingresos Municipal.
+
+###### ARTICULO 97.
+
+Juntamente con la autorización deberán cubrirse las cantidades determinadas con base en la Ley de Ingresos Municipal, en calidad de anticipo en base a los precios de venta autorizados, que se ajustarán al precio de venta real en el momento de celebrarse el contrato de compraventa.
+
+Para lograr lo anterior, deberán remitir copia de contrato de compraventa a la Dirección de Finanzas dentro de los diez días siguientes al de su celebración.
+
+###### ARTICULO 98.
+
+Los fraccionadores tienen obligación de ceder el título gratuito al Municipio para destinarlo a parques, mercados, escuelas, puestos de policía u otros servicios públicos similares, el por ciento de donación que establece el Artículo de la Ley de Fraccionamiento, Relotificación, Fusión y Subdivisión de Terrenos del Estado de Aguascalientes.
+
+### CAPITULO XI. Por Expedición de Certificados, Certificaciones, Legalizaciones, Actas y Copias de Documentos
+
+###### ARTICULO 99.
+
+El servicio de recepción de basura en contenedores se pagará por quienes habitan las viviendas a las que beneficie su instalación, entregando por una sola vez o en la forma que convengan con el Ayuntamiento, la cantidad de dinero que se determine conforme al costo del recipiente en el momento de su instalación y al número de viviendas beneficiadas. El de transportación de materiales y objetos se pagará por quienes lo soliciten entregando la cantidad de dinero que se determine conforme a lo que establezca la Ley de Ingresos.
+
+#### SECCION UNICA
+
+###### ARTICULO 100.
+
+Objeto de los Derechos a que se refiere este Capítulo la prestación de los servicios que se proporcionen en los Rastros Municipales.
+
+###### ARTICULO 101.
+
+Los servicios que prestan los Rastros Municipales, causarán derechos de conformidad con las tarifas que al efecto señale la Ley de Ingresos del Municipio.
+
+###### ARTICULO 102.
+
+Por la autorización del sacrificio de ganado en mataderos particulares que funcionen con permiso, se aplicará el 50% de las cuotas que al efecto señale la Ley de Ingresos Municipal.
+
+###### ARTICULO 103.
+
+Todos los derechos estipulados en este Capítulo, deberán pagarse antes de que se presten los servicios, en la Dirección de Finanzas o en sus oficinas recaudadoras autorizadas, en los lugares donde se presten tales servicios.
+
+###### ARTICULO 104.
+
+Los administradores o encargados del Rastro Municipal o lugares autorizados para el servicio de ganado, no permitirán la salida de la carne o pieles de los animales sacrificados, si previamente y con el recibo oficial respectivo no se comprueba que se pagaron los Derechos correspondientes por los servicios que se hayan prestado.
+
+### CAPITULO XII. Por Cooperación para Obras Públicas
+
+#### SECCION UNICA
+
+###### ARTICULO 105.
+
+Por la prestación de servicios en los Panteones Municipales, se causarán los derechos que al efecto se señalen en la Ley de Ingresos del Municipio, tales servicios consistirán en:
+
+I.- Expedición de permisos para uso de fosas;
+
+II.- Inhumaciones;
+
+III.- Expedición de duplicados de servicios;
+
+IV.- Expedición de duplicados de permisos;
+
+V.- Autorización de traspasos de fosas;
+
+VI.- Traslado de cadáveres; y
+
+VII.- Servicios especiales.
+
+En los panteones únicamente se causarán los derechos relativos a los servicios a que se refieren las fracciones II, III, V y VI de este Artículo.
+
+###### ARTICULO 106.
+
+Cuando se trate de cadáveres de personas que en vida hubiesen sido notoriamente indigentes y no hubiere quien (sic) interese en ellos, su inhumación se hará gratuitamente en el panteón que señale el Municipio.
+
+###### ARTICULO 107.
+
+En los casos de cadáveres de personas cuyos deudos carezcan de recursos, podrá eximirse total o parcialmente del pago de los Derechos de Arrendamiento por cinco años; excavaciones e inhumaciones que establece este Capítulo.
+
+###### ARTICULO 108.
+
+Cuando se trate de panteones localizados en las Delegaciones Municipales, todas las cuotas especificadas en la Ley de Ingresos, se causarán a razón de un 50%.
+
+###### ARTICULO 109.
+
+En los casos de cadáveres de personas hasta de ocho años de edad, deberán cubrirse los Derechos a que se refiere la Ley de Ingresos Municipal, con deducción de un 30% a excepción de venta y arrendamiento de fosas y gavetas.
+
+### CAPITULO XIII. Por los Servicios Prestados por la Dirección de Seguridad Pública y Tránsito
+
+#### SECCION UNICA
+
+###### ARTICULO 110.
+
+Será objeto de los Derechos a que se refiere este Capítulo, la expedición por parte de funcionarios o empleados del Municipio, de toda clase de Certificaciones, Actas, Legalizaciones y Copias de Documentos existentes en los archivos de las oficinas municipales.
+
+###### ARTICULO 111.
+
+Los Derechos que establece el Artículo anterior, se fijarán tomando en cuenta el número de hojas en que se hagan constar los certificados, certificaciones, actas, legalizaciones y copias, además de mayor o menor dificultad y tiempo que tenga que emplearse en la búsqueda del documento que ha de copiarse o sea necesario consultar.
+
+###### ARTICULO 112.
+
+Los Derechos a que se refiere este Capítulo se causarán y liquidarán de acuerdo a las tarifas que al efecto establece la Ley de Ingresos del Municipio.
+
+### CAPITULO I
+
+#### SECCION UNICA
+
+###### ARTICULO 113.
+
+Es objeto de los Derechos de Cooperación para Obras Públicas la realización por parte del Municipio, de las siguientes obras:
+
+I.- Instalación de tuberías y distribución de agua potable;
+
+II.- Instalación de atarjeas;
+
+III.- Construcción de pavimentos;
+
+IV.- Construcción de banquetas; y
+
+V.- Instalación de alumbrado público.
+
+###### ARTICULO 114.
+
+Para que se causen los derechos de cooperación a que se refiere el artículo anterior, será necesario que los predios beneficiados se encuentren en las siguientes circunstancias:
+
+I.- Si son exteriores, tener frente que dé a la calle donde se hubieren ejecutado las obras; y
+
+II.- Sin (sic) son interiores, tener acceso a la calle en que se hubieren ejecutado las obras, en virtud de alguna servidumbre de paso.
+
+###### ARTICULO 115.
+
+De conformidad con el objeto de los derechos a que se refiere el presente Capítulo, están obligados al pago de los mismos:
+
+I.- Los propietarios de los predios que tengan frente a la calle donde se ejecutan las obras;
+
+II.- Los poseedores de los predios a que se refiere la fracción anterior, cuando no existan propietarios o no sean conocidos, cuando el predio está sustraído a la posesión del propietario contra su voluntad, o cuando la posesión se derive de contratos de promesa de venta, de venta con reserva de dominio o de cualquier otro acto similar; y
+
+III.- Los propietarios y/o poseedores de predios a que se refiere la fracción II del Artículo anterior siempre y cuando (sic) poseedores se encuentren en alguno de los casos que señala la fracción II que antecede.
+
+###### ARTICULO 116.
+
+Cada propietario y/o poseedor, cubrirá por cooperación:
+
+I.- El costo del pavimento comprendido al frente del predio hasta el eje de la calle;
+
+Dentro del costo del pavimento se comprende no solamente el del pavimento tal; sino también de las obras preparatorias, como movimiento de terracerías, preparación de base y además obras necesarias;
+
+II.- La derrama proporcional al frente del predio por el cubo de la esquina;
+
+III.- El costo de la construcción, reposición o reparación que se distribuirá entre todos los predios ubicados en la zona beneficiada en proporción a los frentes de cada uno;
+
+IV.- El costo total de las obras de agua y drenaje, el cual se destinará entre todos los predios ubicados en la zona beneficiada en proporción de la superficie de cada uno;
+
+Se considerará como parte del costo, el precio de relleno, consolidación de las cepas y reposición del pavimento.
+
+Las tomas domiciliarias se pagarán por separado conforme lo previsto en la Ley de Ingresos; y
+
+V.- La proporción correspondiente de las obras de alumbrado público con relación al frente del predio beneficiado.
+
+###### ARTICULO 117.
+
+Las cuotas que en los términos de la Ley corresponda cubrir a particulares beneficiados con las obras por cooperación, tendrán el carácter de créditos fiscales objetivos como gravámenes reales los inmuebles afectados, pudiendo hacerse la inscripción correspondiente en el Registro Público de la Propiedad sin costo alguno y serán efectivos al vencerse los plazos concedidos.
+
+###### ARTICULO 118.
+
+Los Notarios Públicos no autorizarán, ni los Registradores inscribirán actos o contratos que impliquen transmisión o desmembración del dominio, constitución de servidumbre o garantías reales en relación con inmuebles afectados al pago de cooperación o que el adquirente se hace cargo de dicho pago. De lo contrario, los Notarios y Registradores serán solidariamente responsables del pago de los derechos comprendidos en el presente Capítulo.
+
+En la Dirección de Catastro del Estado, no se dará trámite a las operaciones de transmisión de dominio, cuando los propietarios de las fincas de que se trate no estén al corriente en el pago de Derechos por Cooperación.
+
+###### ARTICULO 119.
+
+Los derechos de cooperación para obras públicas se causarán conforme a lo que al efecto señale la Ley de Ingresos.
+
+###### ARTICULO 120.
+
+Para la determinación de los Derechos por concepto de las obras de urbanización que se realicen, se observarán las siguientes reglas:
+
+I.- Cuando se trate de instalación de atarjeas o tuberías para distribución de agua potable. Si la atarjea o tubería presta servicios a los predios de ambas aceras de la calle, los propietarios o poseedores de estos están obligados a pagar la contribución;
+
+II.- Tratándose de obras de pavimentación del arroyo de la calle, la contribución se causará por propietarios o poseedores de los predios ubicados a uno y otro lado de la misma;
+
+III.- En el caso de construcción de banquetas, causarán el derecho correspondiente, los propietarios de los predios ubicados en el lado de la calle en que se construya la banqueta; y
+
+IV.- Por instalación de las obras de alumbrado público estarán obligados al pago de los derechos correspondientes, los propietarios o poseedores de los predios ubicados en ambas aceras.
+
+###### ARTICULO 121.
+
+Estos derechos por cooperación de obras públicas se determinará una vez obtenido el costo por materiales y mano de obra, creando así un valor unitario por metro cuadrado cuando se trate de pavimentación de arroyos y banquetas y por metro lineal tratándose de alumbrado.
+
+### CAPITULO II. Enajenación de Bienes e Inmuebles Pertenecientes al Patrimonio Municipal
+
+#### SECCION UNICA
+
+###### ARTICULO 122.
+
+Los servicios prestados por la Dirección de Seguridad Pública y Vialidad, serán retribuidos conforme a las tarifas que al efecto señale la Ley de Ingresos del Municipio.
+
+### CAPITULO III. De la Renta o Beneficio de Bienes Propiedad del Municipio
+
+### CAPITULO IV. Otros Productos
+
+#### SECCION UNICA
+
+### CAPITULO UNICO
+
+## TITULO QUINTO. APROVECHAMIENTOS
+
+### CAPITULO UNICO
+
+#### SECCION UNICA
+
+###### ARTICULO 123.
+
+Quedan comprendidos dentro de esta clasificación los ingresos que obtenga el Fisco Municipal por concepto de:
+
+I.- Enajenación de bienes muebles e inmuebles pertenecientes al patrimonio municipal;
+
+II.- Renta o beneficio de bienes propiedad del Municipio; y
+
+III.- Otros productos.
+
+### CAPITULO UNICO
+
+###### ARTICULO 124.
+
+La enajenación de los bienes muebles o inmuebles propiedad del Municipio, sólo podrá llevarse a cabo cuando se cumplan previamente los requisitos establecidos en la Constitución Política del Estado y lo aprueben el Ayuntamiento y el Congreso del Estado.
+
+###### ARTICULO 125.
+
+Las rentas o beneficio por el uso y goce de inmuebles municipales, o de cualquier otro que forme parte de la Hacienda Municipal, se determinará conforme a las bases que señale el Ayuntamiento.
+
+###### ARTICULO 126.
+
+Las tarifas por los cobros a que se refiere el artículo anterior, se causarán en los términos que al efecto señale la Ley de Ingresos Municipal.
+
+###### ARTICULO 127.
+
+Tienen este carácter los ingresos que se obtengan por los siguientes conceptos:
+
+I.- Venta de papelería especial;
+
+II.- Venta de placas para vehículos que no sean de combustión;
+
+III.- Por establecimientos y empresas que dependan del Municipio;
+
+IV.- Por los ingresos de los parques públicos y sus instalaciones;
+
+V.- Por el uso de estacionamiento propiedad del Municipio;
+
+VI.- Por renta de locales propiedad municipal;
+
+VII.- Por créditos a favor del Municipio;
+
+VIII.- Los que obtengan por la venta de bienes mostrencos y abandonados;
+
+IX.- Por estacionamiento de vehículos en la vía pública en aquellos lugares donde existan aparatos marcadores de tiempo (estacionómetros); y
+
+X.- Los que se obtengan de la venta de objetos recogidos por el Departamento de Limpia, por desechos sólidos del Rastro Municipal y carne decomisada por inspección sanitaria, etc.
+
+###### ARTICULO 128.
+
+Para la percepción de estos ingresos se estará a lo dispuesto, según el caso en la Ley de Ingresos del Municipio, en los contratos o concesiones respectivas, o en las escrituras constitutivas o decretos que den nacimiento de los establecimientos o empresas municipales y en defecto de ellos, en las disposiciones legales que le sean aplicables.
+
+## TITULO SEXTO. PARTICIPACIONES
+
+###### ARTICULO 129.
+
+Quedan comprendidos dentro de esta clasificación los ingresos que obtenga el Municipio por concepto de:
+
+I.- Recargos;
+
+II.- Multas por violación a Leyes Federales, a esta Ley, a los Reglamentos vigentes y a las disposiciones y circulares del Ayuntamiento de la Presidente (sic) Municipal;
+
+III.- Rezagos;
+
+IV.- Gastos de Ejecución;
+
+V.- Gastos de Cobranza;
+
+VI.- Subsidios;
+
+VII.- Donativos a favor del Municipio;
+
+VIII.- Garantías; y
+
+IX.- Otros no especificados.
+
+## TITULO SEPTIMO. OTROS INGRESOS
+
+###### ARTICULO 130.
+
+Quedan comprendidos dentro de esta clasificación, los ingresos que obtenga el Municipio por concepto de participaciones Federales y Estatales, de conformidad a lo dispuesto en las Leyes que las concedan y en los convenios que, en su caso se celebren o se hayan celebrado, así como las que se fijen a diversos patrones u organismos legales constituidos y que legalmente dependan del Ayuntamiento.
+
+###### ARTICULO 131.
+
+Las participaciones que por el cobro de multas federales correspondan al Municipio, de conformidad con el Convenio de Colaboración Administrativa en Materia Fiscal Federal.
+
+###### ARTICULO 132.
+
+Las participaciones fijadas a los patrones u organismos diversos será conforme a lo establecido en las disposiciones legales relativas a su constitución o a los convenios que celebren con el Ayuntamiento.
+
+###### ARTICULO 133.
+
+Lo constituyen los ingresos provenientes de:
+
+Impuestos, Derechos y demás ingresos causados en ejercicios fiscales anteriores, pendientes de liquidación y/o pago.
+
+TRANSITORIO:
+
+###### ARTICULO UNICO.
+
+La presente Ley de Hacienda entrerá (sic) en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Al Ejecutivo para su sanción.
+
+Dado en el salón de sesiones del H. Congreso del Estado a los veinte días del mes de junio de mil novecientos noventa y cinco.- D.P., Profr. Raúl Rangel Macías.- D. S., Ma. Guadalupe Torres Villaseñor.- D.S., J. Jesús Muñiz Candelas.- Rúbricas".
+
+Y tenemos el honor de comunicarlo a usted para su conocimiento y efectos legales consiguientes, reiterándole las seguridades de nuestra consideración distinguida.
+
+SUFRAGIO EFECTIVO. NO REELECCIÓN.
+
+DIPUTADO PRESIDENTE,
+
+Profr. Raúl Rangel Macías.
+
+DIPUTADA SECRETARIA,
+
+Ma. Guadalupe Torres Villaseñor.
+
+DIPUTADO SECRETARIO,
+
+J. Jesús Muñiz Candelas.
+
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Aguascalientes, Ags., 11 de julio de 1995.
+
+Otto Granados Roldán.
+
+EL SECRETARIO GENERAL DE GOBIERNO,
+
+Lic. Efrén González Cuellar.
