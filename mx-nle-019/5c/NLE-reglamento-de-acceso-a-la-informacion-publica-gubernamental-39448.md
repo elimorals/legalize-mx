@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-acceso-a-la-informacion-publica-gubernamental-394
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-14"
-last_updated: "2004-04-14"
+last_updated: "2005-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 14 de abril de 2004.
 
@@ -65,17 +65,19 @@ El ejercicio del derecho al acceso a la información pública gubernamental del 
 
 Se entenderá por información pública, toda aquella que establece el artículo 7 de la Ley de la materia.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2005)</small>
+
 ###### Artículo 6.
 
-La Comisión supervisará que las dependencias administrativas municipales, en forma permanente, tengan en un lugar visible del recinto de la autoridad, o en un documento que se proporcionará gratuitamente a las personas interesadas, los datos principales de su organización y funcionamiento, consignando obligatoriamente los siguientes datos de la respectiva dependencia municipal:
+La Comisión supervisará que las dependencias administrativas municipales, en forma permanente, tengan en un lugar visible del recinto de la autoridad, o en un documento que se proporcionará gratuitamente a las personas interesadas, los datos principales de su organización y funcionamiento, consignado obligatoriamente los siguientes datos de la respectiva dependencia municipal:
 
 I. Su estructura orgánica;
 
 II. Las atribuciones, responsabilidades y facultades;
 
-III. El directorio de servidores públicos, desde el nivel de secretaría hasta jefaturas y/o coordinaciones, que incluirá el nombre, cargo, nivel del puesto en la estructura orgánica, número telefónico, domicilio oficial para recibir correspondencia y, en caso de contar con ellos, el número de fax y la dirección electrónica;
+III. El directorio de servidores públicos, desde el nivel de secretaria hasta jefaturas y/o coordinaciones, que incluirá el nombre, cargo, nivel de puesto en la estructura orgánica, número telefónico, domicilio oficial para recibir correspondencia y, en caso de contar con ellos, el número de fax y de dirección electrónica;
 
-IV. El domicilio de la Dependencia o entidad, además de la dirección electrónica donde podrán recibirse las solicitudes para obtener la información;
+IV. El domicilio de la Dependencia o entidad, así como su dirección electrónica;
 
 V. Las metas y objetivos de conformidad con sus programas operativos;
 
@@ -127,11 +129,11 @@ III. La información deberá presentarse de manera clara y completa, de forma ta
 
 IV. El mismo sitio de Internet deberá contener las direcciones electrónicas, los domicilios para recibir correspondencia y los números telefónicos de la Coordinación Administrativa de cada dependencia administrativa municipal, de los servidores públicos habilitados y del responsable del sitio mencionado.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2005)</small>
+
 ###### Artículo 10.
 
-El gobierno municipal deberá adecuar al menos un espacio físico y contar con personal para atender y orientar al público en materia de acceso a la información. En este mismo espacio deberán existir equipos informáticos con acceso a Internet para que los particulares puedan consultar la información que se encuentre publicada en el sitio correspondiente de la dependencia administrativa municipal, así como para presentar por medios electrónicos las solicitudes que se refiere este Reglamento.
-
-De igual forma deberá existir el equipo necesario para que los particulares puedan obtener impresiones de la información que se encuentre en el referido sitio de Internet, atendiendo a lo establecido en los artículos 29, 30, 31 y 32 de este Reglamento.
+El gobierno municipal deberá adecuarse al menos un espacio físico y contar con personal para atender y orientar al público en materia de acceso a la información. En este mismo espacio deberán existir equipos informáticos con acceso a Internet para que los particulares puedan consultar la información que se encuentre publicada en el sitio correspondiente de la dependencia administrativa municipal.
 
 ###### Artículo 11.
 
@@ -143,11 +145,13 @@ Los titulares de las dependencias administrativas municipales serán los respons
 
 Los particulares podrán informar a la Comisión sobre la negativa o prestación deficiente del servicio, así como la falta de actualización de la información a que se refiere el artículo anterior. La Comisión recomendará a la Secretaría de Contraloría las medidas conducentes para asegurar y mejorar dichos servicios, y propiciará que se informe al interesado lo conducente.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2005)</small>
+
 ###### Artículo 13.
 
 La información relativa al presupuesto de las dependencias administrativas municipales y los informes sobre su ejecución, será publicada por la Secretaría de Finanzas y Tesorería Municipal, para lo cual esta Secretaría podrá emitir disposiciones generales.
 
-La periodicidad con que se actualice la información que se publique no podrá ser menor a aquélla con la cual el R. Ayuntamiento deba informar al H. Congreso del Estado en los términos de la Ley Orgánica de la Administración Pública Municipal.
+La periodicidad con que se actualice la información a que se refiere este artículo será aquélla con la cual el R. Ayuntamiento deba informar al H. Congreso del Estado en los términos de la Ley Orgánica de la Administración Pública Municipal.
 
 ###### Artículo 14.
 
@@ -263,11 +267,13 @@ Tratándose de información contenida en publicaciones oficiales, la autoridad p
 
 Cuando se trate de información contenida en medios de fácil o irreparable deterioro, sólo se proporcionará de manera fidedigna o autentificada, razonando la autoridad estas circunstancias.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2005)</small>
+
 ###### Artículo 28.
 
-La autoridad proporcionará la información en un plazo que no podrá exceder de quince días hábiles, siguientes a la solicitud y al pago en su caso, de los derechos derivados de la reproducción en los casos que éstos procedan.
+La autoridad proporcionará la información en un plazo que no podrá exceder de diez días hábiles, siguientes a la solicitud y al pago en su caso, de los derechos derivados de la reproducción en los casos que estos procedan.
 
-Cuando medien circunstancias que no permitan proporcionar la información dentro de dicho plazo, éste podrá prorrogarse por única vez hasta por otros quince días hábiles, lo que la autoridad deberá hacer del conocimiento del peticionario mediante escrito debidamente fundado y motivado.
+Cuando medien circunstancias que no permitan proporcionar la información dentro de dicho plazo, éste podrá prorrogarse por única vez hasta por otros diez días hábiles, lo que la autoridad deberá hacer del conocimiento del peticionario mediante escrito debidamente fundado y motivado.
 
 ### CAPÍTULO IV. COSTOS POR REPRODUCCIÓN Y ENVÍO DE LA INFORMACIÓN
 
@@ -431,9 +437,11 @@ Cuando la autoridad resuelva que, conforme a la Ley de Acceso a la Información 
 
 La falta de respuesta por parte de la autoridad y el transcurso del plazo en que se debe proporcionar la información solicitada, permite establecer que la misma fue negada, haciendo acreedor al servidor público responsable, si procede, de las sanciones administrativas previstas en la Ley de la materia.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2005)</small>
+
 ###### Artículo 56.
 
-Cuando la autoridad no responda en el plazo señalado de quince días hábiles, entregue información distinta a la solicitada o se niegue a proporcionarla total o parcialmente, será potestativo para el peticionario interponer Recurso de Reconsideración ante la propia autoridad dentro de los diez días hábiles siguientes, o acudir directamente ante la Comisión de Acceso a la Información Pública del Estado, a solicitar que determine si la información debe considerarse como pública y en su caso se le entregue dicha información.
+Cuando la autoridad no responda en el plazo señalado de diez días hábiles, entregue información distinta a la solicitada o se niegue a proporcionarla total o parcialmente, será potestativo para el peticionario interponer Recurso de Reconsideración ante la propia autoridad dentro de los diez días hábiles siguientes, o acudir directamente ante la Comisión de Acceso a la Información Pública del Estado, a solicitar que determine si la información debe considerarse como pública y en su caso se le entregue dicha información.
 
 ###### Artículo 57.
 
@@ -506,3 +514,9 @@ C. LIC. JAVIER M. ZAMBRANO ELIZONDO
 SECRETARIO DEL R. AYUNTAMIENTO. RUBRICAS.
 
 Dado en el Despacho del C. Presidente Municipal de San Pedro Garza García, Nuevo León, a los 18-Diez y ocho días del mes de Marzo del 2004- dos mil cuatro.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 26 DE ENERO DE 2005.
+
+Artículo Único.- Las reformas por modificación, el Reglamento de Acceso a la Información Pública Gubernamental del Municipio de San Pedro Garza García, N.L. publicado en el Periódico Oficial del Estado, número 51 de fecha 14 de abril del año 2004, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose hacer su posterior publicación en la Gaceta Municipal.
