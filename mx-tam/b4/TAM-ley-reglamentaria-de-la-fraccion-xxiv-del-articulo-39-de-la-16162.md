@@ -4,7 +4,7 @@ identifier: "TAM-ley-reglamentaria-de-la-fraccion-xxiv-del-articulo-39-de-la-161
 country: "mx"
 rank: "ley"
 publication_date: "1953-01-03"
-last_updated: "1953-11-25"
+last_updated: "2004-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY REGLAMENTARIA DE LA FRACCION XXIV DEL ARTICULO 39 DE LA LEY ORGANICA MUNICIPAL VIGENTE EN EL ESTADO SOBRE LA CREACION Y FUNCIONAMIENTO DE LAS JUNTAS DE MEJORAMIENTO MORAL, CIVICO Y MATERIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 1953.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO DEL DECRETO NO. 723, PUBLICADO EN EL PERIODICO OFICIAL EL 12 DE MAYO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial, el 3 de enero de 1953.
 
@@ -104,3 +106,13 @@ N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRET
 P.O. 25 DE NOVIEMBRE DE 1953
 
 TRANSITORIO UNICO.- Este Decreto comenzará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE MAYO DE 2004.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las Juntas de Mejoramiento Moral, Cívico o Material que estuvieren en ejercicio conforme a las disposiciones referidas en la ley que se abroga, deberán continuar en funcionamiento hasta el 31 de diciembre del presente año.
