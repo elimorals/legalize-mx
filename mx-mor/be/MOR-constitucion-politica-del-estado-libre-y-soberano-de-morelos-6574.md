@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1979-01-02"
+last_updated: "1980-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 1980.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -464,7 +464,7 @@ XIII.- Decretar las contribuciones que deben formar la Hacienda Municipal, las q
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 1979)</small>
 
-XIV.- Autorizar la venta, hipoteca o cualquiera otro gravámen de bienes raíces del Estado o de los Municipios, así como todos los actos o contratos que comprometen dichos bienes en uso o concesión en favor de particulares y de organismos públicos.
+XIV.- Autorizar la venta, hipoteca o cualquier otro gravámen de bienes raíces del Estado o de los Municipios, así como todos los actos o contratos que comprometen dichos bienes en uso o concesión en favor de particulares y de organismos públicos.
 
 XV.- Fijar, según las necesidades locales, el número máximo de Ministros de los cultos que puede permitirse en el Estado.
 
@@ -668,7 +668,7 @@ Tampoco podrán hacerlas al Decreto de convocatoria que expida la Diputación Pe
 
 DE LOS SECRETARIOS.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1980)</small>
 
 ###### Artículo 53.
 
@@ -978,7 +978,9 @@ DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
 ###### Artículo 74.
 
-Para el despacho de los negocios encomendados al Ejecutivo habrá un Secretario de Gobierno, un Secretario de Finanzas, un Secretario de Programación y Presupuesto, un Secretario de Asentamientos Humanos y Obras Públicas y un Secretario del Desarrollo Agropecuario.
+Para el despacho de los negocios encomendados al Ejecutivo habrá un Secretario de Gobierno, un Secretario de Finanzas, un Secretario de Programación y Presupuesto, un Secretario de Asentamientos Humanos y Obras Públicas, un Secretario de Desarrollo Agropecuario y un Secretario de Desarrollo y Fomento Industrial.
+
+La Ley correspondiente determinará las atribuciones y funciones de cada uno de los Secretarios del despacho.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
 
@@ -1815,3 +1817,11 @@ Dentro del plazo de 30 días a partir de la vigencia del presente Decreto, se ex
 ###### ARTICULO TERCERO.
 
 Remítase el presente Decreto al Ejecutivo del Estado, para los efectos a que se refiere la fracción XVII del Artículo 70 de la Constitución Política Local.
+
+P.O. 25 DE JUNIO DE 1980.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a las prescripciones contenidas en el presente Decreto.
+
+Artículo Tercero.- Remítase el presente Decreto al Ejecutivo del Estado, para los efectos a que se refiere la Fracción XVII del Artículo 70 de la Constitución Política Local.
