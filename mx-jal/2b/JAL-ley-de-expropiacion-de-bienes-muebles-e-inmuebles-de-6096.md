@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-expropiacion-de-bienes-muebles-e-inmuebles-de-6096"
 country: "mx"
 rank: "ley"
 publication_date: "1923-05-16"
-last_updated: "1990-04-12"
+last_updated: "1993-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EXPROPIACION DE BIENES MUEBLES E INMUEBLES DE PROPIEDAD PRIVADA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el miércoles 16 de mayo de 1923.
 
@@ -47,19 +47,49 @@ Hay utilidad pública en las expropiaciones de bienes que se destinen a:
 
 I. El establecimiento, explotación o conservación de un servicio público.
 
-II. La apertura, alineamiento o ampliación de calles, calzadas y caminos.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 1993)</small>
 
-III. La construcción de hospitales, escuelas parques, jardines, campos deportivos de uso público, hospicios, asilos, cementerios, rastros, teatros de propiedad pública, fundos, fraccionamientos o urbanizaciones destinados a construir casas para obreros, obras de irrigación para aprovechamiento de aguas del Estado o de particulares, canales, edificios públicos.
+II. La defensa, conservación desarrollo y aprovechamiento de elementos naturales susceptibles de explotación;
 
-IV. La creación o mejoramiento de centros de población.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 1993)</small>
 
-V. La defensa, conservación desarrollo o aprovechamiento de elementos naturales susceptibles de explotación.
+III. El establecimiento, conservación y desarrollo de áreas naturales protegidas conforme a las declaratorias previstas en la Ley Estatal del Equilibrio Ecológico y Protección al Ambiente;
 
-VI. La creación, fomento o conservación de empresas para beneficio de la colectividad.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 1993)</small>
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 12 DE ENERO DE 1978)</small>
+IV. La apertura, alineamiento o ampliación de vías públicas;
 
-VII. También hay utilidad pública en la consecución de los medios y elementos necesarios para la realización de las obras de interés social, en los casos a que se refieren las fracciones anteriores de este artículo y las enumeradas en el artículo 43 de la Ley de Asentamientos Humanos del Estado, por medio de la sub-utilización de las obras construidas con fines productivos o por medio de la venta de parte de los bienes expropiados. En este caso, la indemnización será el valor de la cosa tasada conforme avalúo técnico; en los términos del artículo 7o. Fracción XXIV de la Ley de Asentamientos Humanos del Estado de Jalisco, las resoluciones expropiatorias fijarán los términos y modalidades de las operaciones de venta y sub-utilización.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 1993)</small>
+
+V. La fundación de centros de población, conforme a las declaratorias de provisiones de tierras contenidas en el decreto que expida el Congreso del Estado de acuerdo a la Ley de Desarrollo Urbano del Estado de Jalisco;
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 1993)</small>
+
+VI. La ejecución de acciones de conservación, mejoramiento y de crecimiento en los cetros (sic) de población previstas en los planes parciales que se expidan a fin de dar cumplimiento a los programas y planes de desarrollo urbano, en los casos previstos en la Ley de Desarrollo Urbano del Estado de jalisco.
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 1993)</small>
+
+VII. La creación de reservas territoriales que satisfagan las necesidades del suelo urbano para la fundación, conservación y crecimiento de los centros de población, así como para la vivienda, su infraestructura y su equipamiento, como se dispone en la Ley de Desarrollo Urbano del Estado de Jalisco;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JULIO DE 1993)</small>
+
+VIII. La construcción de hospitales, escuelas, parques, jardines, campos deportivos de uso público, hospicios, asilos, cementerios, rastros, teatros de propiedad pública, edificios públicos y otras obras de equipamiento urbano;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JULIO DE 1993)</small>
+
+IX. La construcción de obras de riego para aprovechamiento de aguas del Estado o de particulares, canales y otras obras de infraestructura rural;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JULIO DE 1993)</small>
+
+X. La creación, fomento o conservación de empresas para beneficio de la colectividad; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JULIO DE 1993)</small>
+
+XI. Los demás casos previstos por las leyes especiales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE JULIO DE 1993)</small>
+
+También hay utilidad pública para la consecución de los medios y elementos necesarios para la realización de las obras de interés social, en los casos a que se refieren las fracciones anteriores de este artículo, por medio de la subutilización de las obras construidas con fines productivos o por medio de la venta de parte de los bienes expropiados. En este caso la indemnización será el valor de la cosa tasada conforme avalúo comercial que practique un perito valuador registrado en la Comisión Nacional Bancaria, en la comisión Nacional de Valores o en la Comisión de Avalúos de Bienes Nacionales y, las resoluciones expropiatorias, fijarán los términos y modalidades de las operaciones de venta y subutilización.
 
 > <small>(REFORMADO, P.O. 29 DE ENERO DE 1983)</small>
 
@@ -232,3 +262,9 @@ Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 12 DE ABRIL DE 1990.
 
 Unico. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 22 DE JULIO DE 1993.
+
+Primero.- Esta reforma entrará en vigor a los sesenta días de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
