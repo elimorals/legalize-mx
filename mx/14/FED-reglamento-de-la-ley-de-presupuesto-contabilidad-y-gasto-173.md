@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-presupuesto-contabilidad-y-gasto-173"
 country: "mx"
 rank: "reglamento"
 publication_date: "1981-11-18"
-last_updated: "1990-05-16"
+last_updated: "1996-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1981-11-13"
 
 REGLAMENTO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE MAYO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE AGOSTO DE 1996.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de noviembre de 1981.
 
@@ -45,7 +45,9 @@ En el presente Reglamento se entenderá por:
 
 LEY: La Ley de Presupuesto, Contabilidad y Gasto Público Federal;
 
-SECRETARIA: La Secretaría de Programación y Presupuesto;
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1996)</small>
+
+SECRETARIA: La Secretaría de Hacienda y Crédito Público;
 
 ENTIDADES: Las comprendidas por el artículo 2o. de la Ley;
 
@@ -71,7 +73,9 @@ II. Establecer los procedimientos administrativos que les permitan contar oportu
 
 III. Aplicar las disposiciones que emita la Secretaría y, cuando corresponda, los lineamientos de la entidad coordinadora del sector respectiva;
 
-IV. Proporcionar la información en la forma y plazos que determine la Secretaría, y
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1996)</small>
+
+IV. Proporcionar la información en la forma y plazos que determine la Secretaría y la Secretaría de Contraloría y Desarrollo Administrativo, en el ámbito de sus respectivas competencias, y
 
 V. Realizar las demás actividades que determina este Reglamento.
 
@@ -85,7 +89,9 @@ II. Aplicar las normas y procedimientos metodológicos que dicte la Secretaría;
 
 III. Vigilar que las entidades coordinadas cumplan con lo dispuesto en este Reglamento y con las políticas, normas y lineamientos que establezca la Secretaría, así como las que expida la propia entidad coordinadora de sector;
 
-IV. Captar, analizar, integrar, en su caso validar, y remitir a la Secretaría, en los términos que ésta establezca, la información de sus entidades coordinadas así como la documentación que les fuere solicitada, y
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1996)</small>
+
+IV. Captar, analizar, integrar, en su caso validar, y remitir a la Secretaría y la Secretaría de Contraloría y Desarrollo Administrativo, en el ámbito de sus respectivas competencias, en los términos que ésta (sic) establezca, la información de sus entidades coordinadas así como la documentación que les fuere solicitada, y
 
 V. Observar los demás lineamientos que establece este Reglamento.
 
@@ -93,9 +99,11 @@ V. Observar los demás lineamientos que establece este Reglamento.
 
 Las actividades que señala este Reglamento a las entidades coordinadoras de sector, las realizará la Secretaría respecto de las entidades no agrupadas en un sector determinado.
 
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1996)</small>
+
 ###### ARTICULO 7o.
 
-La Secretaría será la única facultada para interpretar el presente Reglamento en la esfera administrativa.
+La Secretaría y la Secretaría de Contraloría y Desarrollo Administrativo, en el ámbito de sus respectivas competencias será la única facultada (sic) para interpretar el presente Reglamento en la esfera administrativa.
 
 ## TITULO SEGUNDO. De la Programación-Presupuestación
 
@@ -217,9 +225,17 @@ V. La interdependencia inter e intrasectorial con otros programas y proyectos;
 
 VI. El lugar o lugares geográficos de su realización y las unidades administrativas responsables ejecutoras;
 
-VII. El período total de ejecución y la previsión de recursos para la puesta en operación de los programas y proyectos, y
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1996)</small>
 
-VIII.- Las demás previsiones que determine la Secretaría.
+VII. El período total de ejecución y la previsión de recursos para la puesta en operación de los programas y proyectos;
+
+> <small>(ADICIONADA, D.O.F. 20 DE AGOSTO DE 1996)</small>
+
+VIII. El señalamiento expreso, en un apartado especial, de los proyectos de inversión a que se refiere el párrafo segundo del artículo 30 de la Ley, que en los términos de este Reglamento, haya autorizado la Secretaría, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 20 DE AGOSTO DE 1996)</small>
+
+IX. Las demás previsiones que determine la Secretaría.
 
 ###### ARTICULO 18.
 
@@ -256,6 +272,10 @@ III. Las normas y lineamientos que dicte la Secretaría para la conducción de l
 IV. Los lineamientos específicos adicionales que establezcan las entidades coordinadoras de sector a las entidades coordinadas y que deberán ser congruentes con los que dicte la Secretaría, y
 
 V. Las demás normas que dicte la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 1996)</small>
+
+En los anteproyectos de presupuesto que remitan las entidades, deberán incluir, en su caso, un apartado especial con el enunciado, descripción, monto y las autorizaciones que la Secretaría haya otorgado respecto de los proyectos de inversión a que se refiere el párrafo segundo del artículo 30 de la Ley.
 
 ###### ARTICULO 22.
 
@@ -387,6 +407,60 @@ Tratándose del programa de inversiones, coordinado con los Gobiernos Estatales,
 
 En todos los casos, las autorizaciones que otorgue la Secretaría en los términos de este artículo, así como los compromisos que con base en dichas autorizaciones contraigan las entidades, estarán condicionadas a la aprobación del presupuesto de egresos correspondiente por la Cámara de Diputados del Congreso de la Unión.
 
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 1996)</small>
+
+ARTICULO 38 A.- En el caso de los proyectos a que se refiere el párrafo segundo del artículo 30 de la Ley las entidades deberán presentar cada uno de ellos a la Secretaría a fin de recabar, en su caso, la autorización correspondiente.
+
+La Secretaría sólo podrá autorizar aquellos proyectos en el que los riesgos de operación y de contratación que las entidades asuman, sean congruentes con las condiciones financieras que se establezcan en los mismos, considerando las condiciones imperantes para operaciones semejantes en los mercados financieros internacionales.
+
+Las solicitudes de autorización que al efecto presenten las entidades, deberán cumplir con los siguientes requisitos:
+
+1. La justificación, conforme a los programas sectoriales o institucionales que corresponda a la entidad solicitante, de que el programa que contenga el proyecto en análisis se considera estratégico o prioritario de acuerdo a lo establecido en los artículos 25 y 28 párrafo cuarto de la Constitución Política de los Estados Unidos Mexicanos y la Ley de Planeación.
+
+2. La presentación de un documento que contenga:
+
+a) Una descripción detallada del proyecto;
+
+b) Los fines que con su desarrollo se pretendan obtener; y
+
+c) Las fuentes de financiamiento que se van a utilizar y los términos, condiciones, etapas de desarrollo, tasas de interés y los demás costos directos o indirectos que represente el servicio integral de las obligaciones que en consecuencia puedan contraerse;
+
+3. Una descripción general de los esquemas e instrumentos jurídicos que se utilizarían para la concreción de los financiamientos correspondientes, y cualquier otro acto o hecho asociado a ellos que pudiera representar obligaciones de cualquier tipo, directas, contingentes o cualquier otro riesgo financiero u operativo para el Gobierno Federal o a una o más de las entidades a que se refieren las fracciones IV a VIII del artículo 2o. de la Ley que pudieran representarles un costo;
+
+4. El detalle de los flujos de recursos que el proyecto podrá generar, su monto y periodicidad, así como la forma en que se dará congruencia y eficacia al cumplimiento de las obligaciones que el proyecto implique y el calendario de pagos que al efecto se establezca;
+
+5. La demostración de que las obligaciones de pago contenidas en el calendario financiero del proyecto, se ajustan a lo previsto en este reglamento;
+
+6. El análisis de las fuentes alternativas de financiamiento que el proyecto pudiera tener y el razonamiento de que la propuesta es la alternativa más conveniente para el Gobierno Federal en los tiempos y condiciones en que se desarrolle, desde un punto de vista técnico y financiero;
+
+7.- Los demás que para la mejor comprensión y dimensionamiento del proyecto, sus efectos, implicaciones o riesgos de cualquier índole, requiera la Secretaría.
+
+La solicitud de autorización deberá presentarse a la Secretaría directamente por las entidades a que se refieren las fracciones IV y V, del artículo 2o. de la Ley y aquéllas que no estén coordinadas dentro de un sector, y por conducto de la coordinadora sectorial correspondiente, en el caso de las comprendidas en las fracciones VI a VIII del mencionado numeral.
+
+Cuando a juicio de la Secretaría, la solicitud presentada se ajusta a lo dispuesto por este Reglamento, la propia Secretaría junto con la coordinadora sectorial correspondiente, deberá remitirla para su consideración a la comisión intersecretarial que determine el Presidente de la República.
+
+El dictamen que al efecto emita dicha comisión, considerará especialmente la importancia y necesidad del proyecto; los efectos que podría tener la no realización del proyecto; los riesgos de cualquier índole que el mismo podrá razonablemente representar;
+
+las condiciones de crédito público en que se desarrolle y el impacto que respecto del mismo pudiera tener, y establecerá las condiciones en que la Secretaría otorgará, en su caso, la autorización correspondiente.
+
+La citada Comisión dará preferencia a proyectos que cuenten con fuentes de financiamiento especiales en razón de la naturaleza de la inversión, tales como el caso de créditos otorgados por proveedores o contratistas directamente o por instituciones que financien en condiciones preferenciales de plazo, tasa de interés u otras, la adquisición de bienes, equipos, derechos o tecnología y rechazará, salvo justificación expresa a su juicio, aquéllos que innecesariamente afecten las fuentes generales de crédito con que cuente la Federación.
+
+Sólo de manera excepcional dicha comisión podrá considerar como fuente de generación de recursos de un proyecto, los subsidios que de acuerdo al Presupuesto de Egresos de la Federación se hubieran otorgado para apoyar el desarrollo de actividades prioritarias, que permitan proporcionar a los consumidores bienes y servicios básicos a precios y tarifas por debajo de los del mercado, o de los costos de producción.
+
+En este último caso, la Secretaría establecerá la forma en que deberá distribuirse en el tiempo el monto de los subsidios otorgados, a efecto de dar congruencia y equilibrio presupuestario al servicio de las obligaciones de pago que correspondan a un proyecto, en el conjunto de los que bajo tales esquemas autorice.
+
+La Secretaría, previo dictamen favorable de la citada comisión intersecretarial, otorgará las autorizaciones correspondientes y podrá establecer, a su juicio, condiciones específicas adicionales con base en su competencia legal.
+
+Durante el plazo de amortización de un proyecto autorizado en los términos de este Artículo, las entidades deberán tramitar, en el ejercicio fiscal previo, una autorización especial de inversión pública para el pago de las obligaciones inherentes que correspondan al presupuesto de egresos del ejercicio fiscal de que se trate y el del año siguiente.
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 1996)</small>
+
+ARTICULO 38 B.- El Presupuesto de Egresos de la Federación comprenderá un apartado especial en el que se presenten los proyectos a que se refiere el segundo párrafo del artículo 30 de la Ley, y aquellos contratados anteriormente cuya amortización deba realizarse en el mismo, en los términos de los calendarios financieros correspondientes, así como las previsiones de gasto público que se destinarán al cumplimiento de las obligaciones a que den lugar, en los términos de este reglamento.
+
+Las previsiones de gasto público referidas en el párrafo anterior, deberán establecerse para cada año por montos equivalentes a los ingresos netos disponibles, una vez cubiertas las erogaciones necesarias para obtenerlos, mismos que deberán ser medidos en términos de los flujos de efectivo que se estime generará cada proyecto durante el lapso que dure su financiamiento.
+
+Las entidades no podrán realizar y la Secretaría no autorizará más proyectos de financiamiento de los referidos en este artículo, que aquéllos que hayan incluido en el señalado apartado especial del Presupuestos de Egresos de la Federación correspondiente al ejercicio de que se trate.
+
 ### CAPITULO II. Del Ejercicio y Pago
 
 ###### ARTICULO 39.
@@ -481,9 +555,11 @@ I. Con cargo a los programas y, en su caso, los subprogramas, proyectos y unidad
 
 II. Con sujeción a los capítulos y conceptos del Clasificador por Objeto del Gasto que expida la Secretaría. Las entidades comprendidas en las fracciones III a V del artículo 2o. de la Ley, deberán ajustarse además, al texto de las partidas contenidas en dicho clasificador.
 
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1996)</small>
+
 ###### ARTICULO 50.
 
-A la Secretaría le corresponderá vigilar que las afectaciones a los presupuestos aprobados se realicen conforme a las disposiciones legales aplicables y a las normas que ésta misma dicte, para lo cual las entidades estarán obligadas a proporcionarle la información que les solicite y permitirle la práctica de visitas y auditorías.
+A la Secretaría y la Secretaría de Contraloría y Desarrollo Administrativo, en el ámbito de sus respectivas competencias le corresponderá (sic) vigilar que las afectaciones a los presupuestos aprobados se realicen conforme a las disposiciones legales aplicables y a las normas que ésta misma dicte, para lo cual las entidades estarán obligadas a proporcionarle la información que les solicite y permitirle la práctica de visitas y auditorías.
 
 ###### ARTICULO 51.
 
@@ -503,7 +579,9 @@ II. Apegarse a las necesidades de personal que requiera el desarrollo de sus pro
 
 III. Tratándose de personal que desempeñe otro o más cargos en las entidades, verificar que éstos sean compatibles.
 
-IV. Que la correspondiente asignación de remuneraciones se sujete en su caso a los catálogos, tabuladores, cuotas y tarifas que expida la Secretaría, y
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1996)</small>
+
+IV. Que la correspondiente asignación de remuneraciones se sujete en su caso a los catálogos, tabuladores, cuotas y tarifas que expida la Secretaría y la Secretaría de Contraloría y Desarrollo Administrativo, en el ámbito de sus respectivas competencias, y
 
 V. Llevar un registro de su personal con base en el nombramiento, filiación y las normas que dicte la Secretaría de conformidad con el artículo 33 de la Ley.
 
@@ -685,7 +763,9 @@ VI. Las garantías que se otorguen con relación a las obras públicas se sujeta
 
 VII. En lo no previsto en las fracciones anteriores al Código Fiscal de la Federación y, supletoriamente, a la Ley de la Tesorería de la Federación y al Código Civil para el Distrito Federal en materia común y para toda la República en materia federal, y
 
-VIII. Las demás disposiciones que emita la Secretaría.
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1996)</small>
+
+VIII. Las demás disposiciones que emita la Secretaría y la Secretaría de Contraloría y Desarrollo Administrativo, en el ámbito de sus respectivas competencias.
 
 ###### ARTICULO 72.
 
@@ -927,6 +1007,10 @@ IV. La contabilización de los pagos correspondientes al pasivo flotante o circu
 
 Las entidades comprendidas en las fracciones I a V del artículo 2o. de la Ley registrarán en cuentas específicas los movimientos de sus fondos asignados, tanto los administrados por las propias entidades como los radicados en la Tesorería de la Federación.
 
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 1996)</small>
+
+ARTICULO 108 A.- Para el registro de las operaciones correspondientes a los proyectos a que se refiere el párrafo segundo del artículo 30 de la Ley las entidades deberán presentar, tanto en la etapa de programación-presupuestación, como en su reporte de cuenta pública, el estado de cuenta relativo a cada una de ellas, así como de los pasivos directos y contingentes que al efecto se hayan contraído y la proyección de sus pagos hasta su total terminación.
+
 ###### ARTICULO 109.
 
 Las entidades mencionadas en las fracciones I a V del artículo 2o. de la Ley contabilizarán los movimientos y existencias de sus almacenes, mediante el sistema denominado "Inventarios Perpetuos" u otro que, a solicitud debidamente justificada por la entidad, autorice expresamente la Secretaría.
@@ -1117,7 +1201,7 @@ II. Información para integrar el apartado de Resultados Generales;
 
 III. Información para integrar los Estados Programáticos, y
 
-IV. Otra información complementaria que solicite la Secretaría.
+IV. Otra información complementaria que solicite la Secretaría
 
 ###### ARTICULO 124.
 
@@ -1161,9 +1245,11 @@ La información que para efectos de formulación de la Cuenta Pública deban pro
 
 Asimismo, dicha información deberá estar respaldada por dictamen de contador público.
 
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1996)</small>
+
 ###### ARTICULO 127.
 
-Las entidades señaladas en las fracciones VI a VIII del artículo 2o. de la Ley deberán proporcionar al contador público designado por la Secretaría para realizar la auditoría externa la información a dictaminar, a más tardar el quince de febrero del año siguiente al cual se refieran las cifras.
+Las entidades señaladas en las fracciones VI a VIII del artículo 2o. de la Ley deberán proporcionar al contador público designado por la Secretaría de Contraloría y Desarrollo Administrativo para realizar la auditoría externa la información a dictaminar, a más tardar el quince de febrero del año siguiente al cual se refieran las cifras.
 
 ###### ARTICULO 128.
 
@@ -1195,25 +1281,35 @@ I. La contabilidad que conforme a la Ley y al presente Reglamento lleven las ent
 
 II. La observación de los hechos, las conclusiones y recomendaciones y, en general, los informes y resultados de las auditorías y visitas practicadas;
 
-III. Los análisis de las evaluaciones que en materia de Presupuesto y Gasto Público Federal realicen las entidades coordinadoras de sector y las entidades conforme a los criterios que la Secretaría fije para el efecto, y
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1996)</small>
 
-IV. Las demás fuentes y medios que la Secretaría juzgue apropiados para este fin.
+III. Los análisis de las evaluaciones que en materia de Presupuesto y Gasto Público Federal realicen las entidades coordinadoras de sector y las entidades conforme a los criterios que la Secretaría y la Secretaría de Contraloría y Desarrollo Administrativo, en el ámbito de sus respectivas competencias fije (sic) para el efecto, y
+
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1996)</small>
+
+IV. Las demás fuentes y medios que la Secretaría y la Secretaría de Contraloría y Desarrollo Administrativo, en el ámbito de sus respectivas competencias juzgue (sic) apropiados para este fin.
 
 ###### ARTICULO 132.
 
 La fiscalización, el seguimiento y la medición a que se refiere el artículo 130 del presente Reglamento, se realizarán en la forma siguiente:
 
-I. En reuniones entre la Secretaría y las entidades coordinadoras de sector y, en su caso, las entidades coordinadas; y entre la Secretaría y entidades no coordinadas, en plazos que no sean mayores a un bimestre;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1996)</small>
+
+I. En reuniones entre la Secretaría y la Secretaría de Contraloría y Desarrollo Administrativo, en el ámbito de sus respectivas competencias y las entidades coordinadoras de sector y, en su caso, las entidades coordinadas; y entre la Secretaría y la Secretaría de Contraloría y Desarrollo Administrativo, en el ámbito de sus respectivas competencias y entidades no coordinadas, en plazos que no sean mayores a un bimestre;
 
 II. En reuniones entre las entidades coordinadoras de sector y entidades coordinadas, en los mismos términos de la fracción anterior;
 
 III. Mediante visitas y auditorías que se efectúen en los términos del Capítulo II del presente Título, y
 
-IV. Por medio de los sistemas de seguimiento de realizaciones financieras y de metas que determine la Secretaría.
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1996)</small>
+
+IV. Por medio de los sistemas de seguimiento de realizaciones financieras y de metas que determine la Secretaría y la Secretaría de Contraloría y Desarrollo Administrativo, en el ámbito de sus respectivas competencias.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE AGOSTO DE 1996)</small>
 
 ###### ARTICULO 133.
 
-Con base en las conclusiones, informes y dictámenes que se deriven de las acciones comprendidas en el artículo anterior, la Secretaría y las entidades, de conformidad con el presente Reglamento efectuarán, según el caso, las siguientes actividades:
+Con base en las conclusiones, informes y dictámenes que se deriven de las acciones comprendidas en el artículo anterior, la Secretaría de Contraloría y Desarrollo Administrativo y las entidades, de conformidad con el presente Reglamento efectuarán, según el caso, las siguientes actividades:
 
 I. Aplicación de medidas correctivas a las normas, lineamientos, sistemas y demás instrumentos utilizados en el manejo del gasto público federal;
 
@@ -1233,11 +1329,13 @@ Las auditorías al gasto público federal serán un mecanismo coadyuvante para c
 
 Las auditorías al gasto público federal tendrán por objetivo examinar las operaciones, cualesquiera que sea su naturaleza, de las entidades de la Administración Pública Federal, con el propósito de verificar si los estados financieros presentan razonablemente la situación financiera, si la utilización de los recursos se ha realizado en forma eficiente, si los objetivos y metas se lograron de manera eficaz y congruente y si en el desarrollo de las actividades se ha cumplido con las disposiciones legales vigentes.
 
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1996)</small>
+
 ###### ARTICULO 136.
 
-Las auditorías al gasto público federal podrán ser de tipo financiero, operacional, de resultado de programas y de legalidad, las cuales deberán ser efectuadas, en lo interno, por el personal facultado de las propias entidades y, en lo externo, por la Secretaría y los auditores que esta última designe.
+Las auditorías al gasto público federal podrán ser de tipo financiero, operacional, de resultado de programas y de legalidad, las cuales deberán ser efectuadas, en lo interno, por el personal facultado de las propias entidades y, en lo externo, por la Secretaría de Contraloría y Desarrollo Administrativo y los auditores que esta última designe.
 
-Estas auditorías se realizarán de conformidad con las normas, lineamientos y demás disposiciones que dicte la Secretaría.
+Estas auditorías se realizarán de conformidad con las normas, lineamientos y demás disposiciones que dicte la Secretaría de Contraloría y Desarrollo Administrativo.
 
 ###### ARTICULO 137.
 
@@ -1267,15 +1365,21 @@ VII. Analizar y opinar sobre la información que produzca la entidad para efecto
 
 VIII. Promover la capacitación del personal de auditoría, y
 
-IX. Las demás que determinen el Titular de la entidad y la Secretaría.
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1996)</small>
+
+IX. Las demás que determinen el Titular de la entidad y la Secretaría de Contraloría y Desarrollo Administrativo.
+
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1996)</small>
 
 ###### ARTICULO 139.
 
-Las entidades comprendidas en las fracciones VI a VIII del artículo 2o. de la Ley, que consideren innecesario el establecimiento del órgano de auditoría interna, deberán solicitar a la Secretaría el acuerdo correspondiente, previa opinión de la entidad coordinadora de sector respectiva.
+Las entidades comprendidas en las fracciones VI a VIII del artículo 2o. de la Ley, que consideren innecesario el establecimiento del órgano de auditoría interna, deberán solicitar a la Secretaría de Contraloría y Desarrollo Administrativo el acuerdo correspondiente, previa opinión de la entidad coordinadora de sector respectiva.
+
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1996)</small>
 
 ###### ARTICULO 140.
 
-Los programas mínimos que en su caso fije la Secretaría en los términos de la Ley se harán del conocimiento de las entidades dentro de los primeros noventa días del ejercicio fiscal y establecerán las revisiones que los órganos de auditoría interna realizarán de los aspectos prioritarios que a nivel global, sectorial e institucional apruebe el Ejecutivo Federal.
+Los programas mínimos que en su caso fije la Secretaría de Contraloría y Desarrollo Administrativo en los términos de la Ley se harán del conocimiento de las entidades dentro de los primeros noventa días del ejercicio fiscal y establecerán las revisiones que los órganos de auditoría interna realizarán de los aspectos prioritarios que a nivel global, sectorial e institucional apruebe el Ejecutivo Federal.
 
 ###### ARTICULO 141.
 
@@ -1289,25 +1393,35 @@ III. Los períodos estimados de realización, y
 
 IV. Los días-hombre a utilizar.
 
-Dichos programas deberán ser presentados a la Secretaría para su aprobación dentro de los sesenta días posteriores a la fijación de los programas mínimos. En el caso de las entidades comprendidas en las fracciones VI a VIII del artículo 2o. de la Ley, dichos programas deberán contar con la conformidad del coordinador de sector respectivo.
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1996)</small>
+
+Dichos programas deberán ser presentados a la Secretaría de Contraloría y Desarrollo Administrativo para su aprobación dentro de los sesenta días posteriores a la fijación de los programas mínimos. En el caso de las entidades comprendidas en las fracciones VI a VIII del artículo 2o. de la Ley, dichos programas deberán contar con la conformidad del coordinador de sector respectivo.
+
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1996)</small>
 
 ###### ARTICULO 142.
 
-Cuando los programas anuales de auditorías no reúnan los requisitos de contenido establecidos en los programas mínimos, la Secretaría hará del conocimiento de los órganos de auditoría interna y, en su caso, de la entidad coordinadora de sector respectiva tales deficiencias, a efecto de que éstas se corrijan.
+Cuando los programas anuales de auditorías no reúnan los requisitos de contenido establecidos en los programas mínimos, la Secretaría de Contraloría y Desarrollo Administrativo hará del conocimiento de los órganos de auditoría interna y, en su caso, de la entidad coordinadora de sector respectiva tales deficiencias, a efecto de que éstas se corrijan.
+
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1996)</small>
 
 ###### ARTICULO 143.
 
-Los órganos de auditoría interna, en el transcurso del año, podrán modificar el contenido de sus programas anuales de auditoría, siempre y cuando no afecten lo establecido en los programas mínimos, debiendo comunicar las modificaciones a la Secretaría y, en el caso de las entidades comprendidas en las fracciones VI a VIII del artículo 2o. de la Ley, también a la entidad coordinadora de sector correspondiente.
+Los órganos de auditoría interna, en el transcurso del año, podrán modificar el contenido de sus programas anuales de auditoría, siempre y cuando no afecten lo establecido en los programas mínimos, debiendo comunicar las modificaciones a la Secretaría de Contraloría y Desarrollo Administrativo y, en el caso de las entidades comprendidas en las fracciones VI a VIII del artículo 2o. de la Ley, también a la entidad coordinadora de sector correspondiente.
 
-Asimismo, la Secretaría podrá adecuar el contenido del programa mínimo de auditoría, informando de ello a la entidad afectada y, en el caso de las entidades señaladas en el párrafo anterior, a la entidad coordinadora de sector respectiva.
+Asimismo, la Secretaría de Contraloría y Desarrollo Administrativo podrá adecuar el contenido del programa mínimo de auditoría, informando de ello a la entidad afectada y, en el caso de las entidades señaladas en el párrafo anterior, a la entidad coordinadora de sector respectiva.
+
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1969)</small>
 
 ###### ARTICULO 144.
 
-Los órganos de auditoría interna deberán elaborar y mantener actualizados los manuales de normas, políticas, guías y procedimientos de auditoría y los manuales y guías de revisión para la práctica de auditorías especiales, así como el programa de capacitación permanente de auditorías, debiendo enviar a la Secretaría los documentos correspondientes y su actualización a más tardar el treinta y uno de marzo de cada año.
+Los órganos de auditoría interna deberán elaborar y mantener actualizados los manuales de normas, políticas, guías y procedimientos de auditoría y los manuales y guías de revisión para la práctica de auditorías especiales, así como el programa de capacitación permanente de auditorías, debiendo enviar a la Secretaría de Contraloría y Desarrollo Administrativo los documentos correspondientes y su actualización a más tardar el treinta y uno de marzo de cada año.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE AGOSTO DE 1996)</small>
 
 ###### ARTICULO 145.
 
-Los órganos de auditoría interna, por cada una de las auditorías que se practiquen, elaborarán un informe sobre el resultado de las mismas, de conformidad con las normas que dicte la Secretaría; estos informes se darán a conocer a los titulares de las entidades auditadas para que, en su caso, acuerden la adoptación (sic) de medidas tendientes mejorar su gestión y el control interno, así como a corregir las desviaciones y deficiencias que se hubieren encontrado.
+Los órganos de auditoría interna, por cada una de las auditorías que se practiquen, elaborarán un informe sobre el resultado de las mismas, de conformidad con las normas que dicte la Secretaría de Contraloría y Desarrollo Administrativo; estos informes se darán a conocer a los titulares de las entidades auditadas para que, en su caso, acuerden la adoptación (sic) de medidas tendientes mejorar su gestión y el control interno, así como a corregir las desviaciones y deficiencias que se hubieren encontrado.
 
 Si como resultado de las auditorías se detectan irregularidades que afecten a la Hacienda Pública Federal, a la del Departamento del Distrito Federal o al patrimonio de las entidades comprendidas en las fracciones VI a VIII del artículo 2o. de la Ley, se procederá en los términos del Capítulo IV del presente Título.
 
@@ -1315,9 +1429,11 @@ Si como resultado de las auditorías se detectan irregularidades que afecten a l
 
 Los órganos de auditoría interna deberán llevar un control de las observaciones y recomendaciones derivadas de la auditoría, debiendo efectuar el seguimiento sobre el cumplimiento de las medidas correctivas que se hubieran acordado.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE AGOSTO DE 1996)</small>
+
 ###### ARTICULO 147.
 
-Las entidades, a través de sus órganos internos de auditoría, deberán enviar a la Secretaría en la forma y términos que ésta indique, los siguientes documentos:
+Las entidades, a través de sus órganos internos de auditoría, deberán enviar a la Secretaría de Contraloría y Desarrollo Administrativo en la forma y términos que ésta indique, los siguientes documentos:
 
 I. Bimestralmente, un informe sobre el avance del cumplimiento de su programa anual de auditoría;
 
@@ -1331,15 +1447,19 @@ c) Informes de las observaciones derivadas de las auditorías, y
 
 d) Informes sobre el seguimiento de las medidas correctivas aprobadas por el Titular de la entidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE AGOSTO DE 1996)</small>
+
 ###### ARTICULO 148.
 
-La Secretaría podrá realizar en los términos del artículo 37 de la Ley visitas y auditorías a las entidades, con objeto de vigilar el adecuado cumplimiento de las normas, lineamientos, informes y programas mínimos que hayan sido establecidos; así como para analizar el funcionamiento de los órganos de auditoría interna.
+La Secretaría de Contraloría y Desarrollo Administrativo podrá realizar en los términos del artículo 37 de la Ley visitas y auditorías a las entidades, con objeto de vigilar el adecuado cumplimiento de las normas, lineamientos, informes y programas mínimos que hayan sido establecidos; así como para analizar el funcionamiento de los órganos de auditoría interna.
 
 Las entidades coordinadoras de sector, en el ejercicio de las atribuciones que les confiere el artículo 6o. de la Ley, podrán realizar visitas a sus entidades coordinadas para los mismos efectos.
 
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1996)</small>
+
 ###### ARTICULO 149.
 
-Las entidades comprendidas en las fracciones VI a VIII del artículo 2o. de la Ley, deberán proporcionar en los términos del artículo 41 de la misma, los informes, documentos y, en general, todos aquellos datos que permitan la realización de las visitas y auditorías que determine efectuar a la Secretaría, así como de las visitas que ordene la entidad coordinadora de sector respectiva.
+Las entidades comprendidas en las fracciones VI a VIII del artículo 2o. de la Ley, deberán proporcionar en los términos del artículo 41 de la misma, los informes, documentos y, en general, todos aquellos datos que permitan la realización de las visitas y auditorías que determine efectuar a la Secretaría de Contraloría y Desarrollo Administrativo, así como de las visitas que ordene la entidad coordinadora de sector respectiva.
 
 ###### ARTICULO 150.
 
@@ -1361,7 +1481,9 @@ IV. Se levantará acta o formulará informe en los que se harán constar los hec
 
 Las personas que practiquen la visita, al levantar el acta respectiva deberán recabar las firmas de las personas que en ella intervinieron y entregarán un ejemplar de la misma al funcionario con quien entendieron la visita. Si se negaren a firmar, se hará constar en el acta, sin que esta circunstancia afecte el valor probatorio del documento, y
 
-V. De las actas referidas en este artículo que levanten las entidades coordinadoras de sector, se remitirá copia a la Secretaría.
+> <small>(REFORMADA, D.O.F. 10 DE AGOSTO DE 1996)</small>
+
+V. De las actas referidas en este artículo que levanten las entidades coordinadoras de sector, se remitirá copia a la Secretaría de Contraloría y Desarrollo Administrativo.
 
 ### CAPITULO III. De las adecuaciones Presupuestarias
 
@@ -1377,7 +1499,9 @@ II. Las adecuaciones a los calendarios financieros y de metas autorizados.
 
 Las adecuaciones presupuestarias se realizarán siempre que permitan un mejor cumplimiento de los objetivos de los programas a cargo de las entidades y se fundamentarán en:
 
-I. El análisis y evaluación que de las realizaciones financieras y de metas lleven a cabo la Secretaría y las entidades. Dicho análisis se sustentará en las normas y lineamientos que expida la Secretaría para el seguimiento y control del gasto público federal, y
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1996)</small>
+
+I. El análisis y evaluación que de las realizaciones financieras y de metas lleven a cabo la Secretaría y la Secretaría de Contraloría y Desarrollo Administrativo, en el ámbito de sus respectivas competencias y las entidades. Dicho análisis se sustentará en las normas y lineamientos que expida la Secretaría y la Secretaría de Contraloría y Desarrollo Administrativo, en el ámbito de sus respectivas competencias para el seguimiento y control del gasto público federal, y
 
 II. Las situaciones coyunturales, contingentes o extraordinarias que incidan en el desarrollo de los programas.
 
@@ -1417,9 +1541,11 @@ Para tales efectos, las revisiones correspondientes a las solicitudes las realiz
 
 ### CAPITULO IV. De las Responsabilidades
 
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1996)</small>
+
 ###### ARTICULO 156.
 
-La Secretaría constituirá de manera definitiva las responsabilidades que procedan con base en la Ley y en los términos de este Reglamento.
+La Secretaría de Contraloría y Desarrollo Administrativo constituirá de manera definitiva las responsabilidades que procedan con base en la Ley y en los términos de este Reglamento.
 
 ###### ARTICULO 157.
 
@@ -1431,9 +1557,11 @@ A los particulares que intervinieran en las irregularidades mencionadas, les ser
 
 Las irregularidades que den origen a las responsabilidades a que se refieren los artículos anteriores, se consignarán en un documento que se denominará Pliego de Responsabilidades.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE AGOSTO DE 1996)</small>
+
 ###### ARTICULO 159.
 
-Las medidas operativas que sobre responsabilidades dicte la Secretaría en las que señale los sistemas y procedimientos para su fincamiento, las dará a conocer a la (sic) entidades a fin de que sean aplicadas por sus unidades de auditoría interna o de contabilidad.
+Las medidas operativas que sobre responsabilidades dicte la Secretaría de Contraloría y Desarrollo Administrativo en las que señale los sistemas y procedimientos para su fincamiento, las dará a conocer a la (sic) entidades a fin de que sean aplicadas por sus unidades de auditoría interna o de contabilidad.
 
 Respecto de las entidades citadas en las fracciones VI a VIII del artículo 2o. de la Ley, se comunicarán por conducto de la entidad coordinadora de sector correspondiente.
 
@@ -1449,13 +1577,17 @@ Las irregularidades que afecten a la Hacienda Pública Federal, a la del Departa
 
 En la glosa quedarán comprendidas la revisión, depuración y liquidación de las cuentas rendidas, verificadsa (sic) numéricas, legal y contablemente, aplicando las disposiciones e instrucciones especiales que se establezcan, así como la comprobación que posteriormente se hiciera de las mismas.
 
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1996)</small>
+
 ###### ARTICULO 162.
 
-Si con motivo de las auditorías, visitas o investigaciones que practique la Secretaría aparecieran irregularidades, formulará las observaciones que proceda, mismas que remitirá a las entidades o a los coordinadores de sector correspondientes para su solventación o, de lo contrario, dichas entidades elaborarán el pliego preventivo de responsabilidades.
+Si con motivo de las auditorías, visitas o investigaciones que practique la Secretaría de Contraloría y Desarrollo Administrativo aparecieran irregularidades, formulará las observaciones que proceda, mismas que remitirá a las entidades o a los coordinadores de sector correspondientes para su solventación o, de lo contrario, dichas entidades elaborarán el pliego preventivo de responsabilidades.
+
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1996)</small>
 
 ###### ARTICULO 163.
 
-Las entidades y los coordinadores de sector o cualquier otra autoridad competente, formularán los pliegos preventivos de responsabilidades en la forma y términos que establezca la Secretaría.
+Las entidades y los coordinadores de sector o cualquier otra autoridad competente, formularán los pliegos preventivos de responsabilidades en la forma y términos que establezca la Secretaría de Contraloría y Desarrollo Administrativo.
 
 ###### ARTICULO 164.
 
@@ -1473,19 +1605,25 @@ Contabilizado el pliego preventivo de responsabilidades, las entidades o los coo
 
 Los pliegos que formule el Departamento del Distrito Federal como entidad o como coordinador de sector, los remitirá a su Tesorería para los efectos de notificación y embargo precautorio, en su caso.
 
-Del resultado de dichas gestiones, tanto la Tesorería de la Federación como la del Departamento del Distrito Federal, informarán a la Secretaría oportunamente.
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1996)</small>
+
+Del resultado de dichas gestiones, tanto la Tesorería de la Federación como la del Departamento del Distrito Federal, informarán a la Secretaría de Contraloría y Desarrollo Administrativo oportunamente.
 
 ###### ARTICULO 167.
 
 El embargo precautorio podrá substituirse por cualquier otra garantía, con autorización de la Tesorería de la Federación o la del Departamento del Distrito Federal.
 
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1996)</small>
+
 ###### ARTICULO 168.
 
-Simultáneamente a la remisión a las Tesorerías respectivas, se enviará a la Secretaría una copia del mencionado pliego acompañando el expediente que contenga las actuaciones y documentos que sirvieron de base para su elaboración, a efecto de que la propia Secretaría constituya de manera definitiva las responsabilidades que procedan.
+Simultáneamente a la remisión a las Tesorerías respectivas, se enviará a la Secretaría de Contraloría y Desarrollo Administrativo una copia del mencionado pliego acompañando el expediente que contenga las actuaciones y documentos que sirvieron de base para su elaboración, a efecto de que la propia Secretaría constituya de manera definitiva las responsabilidades que procedan.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE AGOSTO DE 1996)</small>
 
 ###### ARTICULO 169.
 
-El o los responsables podrán inconformarse en contra de los hechos que dieron origen al pliego preventivo de responsabilidades, mediate (sic) escrito que deberán presentar ante la Secretaría dentro de los veinte días hábiles siguientes al de su notificación, en el que expresarán las razones de su inconformidad y podrán ofrecer únicamente las pruebas documentales que estimen pertinentes, acompañándolas o rindiéndolas dentro de los quince días hábiles siguientes al de la presentación de su escrito, actuaciones que la Secretaría deberá tomar en cuenta el calificar el pliego.
+El o los responsables podrán inconformarse en contra de los hechos que dieron origen al pliego preventivo de responsabilidades, mediate (sic) escrito que deberán presentar ante la Secretaría de Contraloría y Desarrollo Administrativo dentro de los veinte días hábiles siguientes al de su notificación, en el que expresarán las razones de su inconformidad y podrán ofrecer únicamente las pruebas documentales que estimen pertinentes, acompañándolas o rindiéndolas dentro de los quince días hábiles siguientes al de la presentación de su escrito, actuaciones que la Secretaría de Contraloría y Desarrollo Administrativo deberá tomar en cuenta el calificar el pliego.
 
 Cuando el o los responsables no hagan uso de los derechos que se establecen, se les tendrá por conformes con los hechos asentados en el pliego.
 
@@ -1501,59 +1639,83 @@ Cuando se descubran faltantes de bienes de inventario, se fomulará el pliego pr
 
 En ambos casos, la calificación de dichos pliegos se sujetará a lo dispuesto en el artículo 173 de este Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE AGOSTO DE 1996)</small>
+
 ###### ARTICULO 172.
 
-La Secretaría calificará invariablemente los pliegos preventivos de responsabilidades que reciba, confirmándolos, modificándolos o cancelándolos.
+La Secretaría de Contraloría y Desarrollo Administrativo calificará invariablemente los pliegos preventivos de responsabilidades que reciba, confirmándolos, modificándolos o cancelándolos.
 
 Tratándose de los pliegos de observaciones que remita la Contaduría Mayor de Hacienda, se procederá a constituir la responsabilidad respectiva, cuando las entidades informen que dichos pliegos no fueron solventados.
 
-La Secretaría se coordinará con la Contaduría Mayor de Hacienda para establecer las medidas administrativas convenientes que permitan constituir en forma expedita las responsabilidades derivadas de los pliegos de observaciones.
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1996)</small>
+
+La Secretaría de Contraloría y Desarrollo Administrativo se coordinará con la Contaduría Mayor de Hacienda para establecer las medidas administrativas convenientes que permitan constituir en forma expedita las responsabilidades derivadas de los pliegos de observaciones.
+
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1996)</small>
 
 ###### ARTICULO 173.
 
-La Secretaría al confirmar los pliegos preventivos de responsabilidades a que se refiere el artículo 171 de este Reglamento, deberá tomar como base para su cuantificación, el valor efectivo de los bienes que señale la entidad que por ley tenga asignado mantener el avalúo de los bienes muebles nacionales.
+La Secretaría de Contraloría y Desarrollo Administrativo al confirmar los pliegos preventivos de responsabilidades a que se refiere el artículo 171 de este Reglamento, deberá tomar como base para su cuantificación, el valor efectivo de los bienes que señale la entidad que por ley tenga asignado mantener el avalúo de los bienes muebles nacionales.
+
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1996)</small>
 
 ###### ARTICULO 174.
 
-La Secretaría constituirá las responsabilidades a que haya lugar dentro de un plazo improrrogable de sesenta días hábiles, contado a partir de la fecha en que reciba los pliegos preventivos con su expediente debidamente integrado.
+La Secretaría de Contraloría y Desarrollo Administrativo constituirá las responsabilidades a que haya lugar dentro de un plazo improrrogable de sesenta días hábiles, contado a partir de la fecha en que reciba los pliegos preventivos con su expediente debidamente integrado.
 
-El mismo plazo se establece para el fincamiento de responsabilidades que deriven de los hechos que se descubran en las visitas, auditorías o investigaciones que practique la propia Secretaría y que se computará a partir de la fecha en que concluyan las mismas.
+El mismo plazo se establece para el fincamiento de responsabilidades que deriven de los hechos que se descubran en las visitas, auditorías o investigaciones que practique la propia Secretaría de Contraloría y Desarrollo Administrativo y que se computará a partir de la fecha en que concluyan las mismas.
+
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1996)</small>
 
 ###### ARTICULO 175.
 
-Calificado el pliego preventivo, la Secretaría, cuando proceda, fincará el pliego de responsabilidades debidamente fundado y motivado, determinando en cantidad líquida el daño o perjuicio causado, el o los sujetos responsables, así como las clases de responsabilidades en que se hubiere incurrido.
+Calificado el pliego preventivo, la Secretaría de Contraloría y Desarrollo Administrativo, cuando proceda, fincará el pliego de responsabilidades debidamente fundado y motivado, determinando en cantidad líquida el daño o perjuicio causado, el o los sujetos responsables, así como las clases de responsabilidades en que se hubiere incurrido.
 
-La Secretaría remitirá el pliego de responsabilidades a la Tesorería de la Federación o a la Tesorería del Departamento del Distrito Federal, según proceda, para el efecto de su notificación y se concederá, al o a los sujetos responsables un término de quince días para que se cubra o, en su caso, por tratarse de créditos fiscales, para que se hagan efectivos en los términos de la Ley, mediante el procedimiento administrativo de ejecución respectivo, debiendo informar dichas autoridades a la Secretaría el resultado de sus actuaciones.
+La Secretaría de Contraloría y Desarrollo Administrativo remitirá el pliego de responsabilidades a la Tesorería de la Federación o a la Tesorería del Departamento del Distrito Federal, según proceda, para el efecto de su notificación y se concederá, al o a los sujetos responsables un término de quince días para que se cubra o, en su caso, por tratarse de créditos fiscales, para que se hagan efectivos en los términos de la Ley, mediante el procedimiento administrativo de ejecución respectivo, debiendo informar dichas autoridades a la Secretaría de Contraloría y Desarrollo Administrativo el resultado de sus actuaciones.
+
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1996)</small>
 
 ###### ARTICULO 176.
 
-Cuando se descubran irregularidades que por naturaleza e importancia impliquen en forma fehaciente un grave daño o perjuicio de urgente reparación, las entidades o los coordinadores de sector lo harán del conocimiento de la Secretaría para que ésta de inmediato finque la responsabilidad correspondiente, sin que sea necesaria la formulación del pliego preventivo.
+Cuando se descubran irregularidades que por naturaleza e importancia impliquen en forma fehaciente un grave daño o perjuicio de urgente reparación, las entidades o los coordinadores de sector lo harán del conocimiento de la Secretaría de Contraloría y Desarrollo Administrativo para que ésta de inmediato finque la responsabilidad correspondiente, sin que sea necesaria la formulación del pliego preventivo.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE AGOSTO DE 1996)</small>
 
 ###### ARTICULO 177.
 
-Cuando las irregularidades sean imputables a los funcionarios de la Federación mencionados en el artículo 108 Constitucional, las entidades no levantarán el pliego preventivo de responsabilidades, sino que darán a conocer las irregularidades a la Secretaría para que su Titular las someta a consideración del Presidente de la República y se le dé el tratamiento que legalmente proceda.
+Cuando las irregularidades sean imputables a los funcionarios de la Federación mencionados en el artículo 108 Constitucional, las entidades no levantarán el pliego preventivo de responsabilidades, sino que darán a conocer las irregularidades a la Secretaría de Contraloría y Desarrollo Administrativo para que su Titular las someta a consideración del Presidente de la República y se le dé el tratamiento que legalmente proceda.
 
 Igual procedimiento se observará cuando quien aparezca como responsable desempeñe el cargo de Jefe de Departamento Administrativo, o de Subsecretario u Oficial Mayor de una Secretaría de Estado o de Secretario General u Oficial Mayor de un Departamento Administrativo.
 
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1996)</small>
+
 ###### ARTICULO 178.
 
-A quienes se les hubiesen fincado pliegos de responsabilidades cuyo importe no exceda de $ 5,000.00 y se ubiquen en el supuesto del primer párrafo del artículo 48 de la Ley, podrán solicitar que se les dipense (sic) de su pago, a través de un escrito dirigido a la Secretaría, para que ésta dentro de un término de noventa días resuelva lo procedente.
+A quienes se les hubiesen fincado pliegos de responsabilidades cuyo importe no exceda de $ 5,000.00 y se ubiquen en el supuesto del primer párrafo del artículo 48 de la Ley, podrán solicitar que se les dipense (sic) de su pago, a través de un escrito dirigido a la Secretaría de Contraloría y Desarrollo Administrativo, para que ésta dentro de un término de noventa días resuelva lo procedente.
+
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1996)</small>
 
 ###### ARTICULO 179.
 
-La Secretaría podrá cancelar los pliegos de responsabilidades cuyo importe no exceda de $10,000.00, tomando en consideración los informes sobre el resultado de las gestiones para el cobro del pliego, que le proporcione la Tesorería de la Federación o la del Departamento del Distrito Federal de acuerdo con su intervención señalada en el artículo 175 de este Reglamento.
+La Secretaría de Contraloría y Desarrollo Administrativo podrá cancelar los pliegos de responsabilidades cuyo importe no exceda de $10,000.00, tomando en consideración los informes sobre el resultado de las gestiones para el cobro del pliego, que le proporcione la Tesorería de la Federación o la del Departamento del Distrito Federal de acuerdo con su intervención señalada en el artículo 175 de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1996)</small>
 
 ###### ARTICULO 180.
 
-Para los efectos de cancelación de créditos mayores de $10,000.00 a que se refiere la Ley, se proporcionará al Titular de la Secretaría el expediente con todos los elementos necesarios para fundar la propuesta de cancelación respectiva.
+Para los efectos de cancelación de créditos mayores de $10,000.00 a que se refiere la Ley, se proporcionará al Titular de la Secretaría de Contraloría y Desarrollo Administrativo el expediente con todos los elementos necesarios para fundar la propuesta de cancelación respectiva.
+
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1996)</small>
 
 ###### ARTICULO 181.
 
-Las dispensas o cancelaciones de las responsabilidades que efectúe la Secretaría de acuerdo con los artículos procedentes, las dará a conocer a quienes hayan levantado los pliegos preventivos que les dieron origen, a fin de que se hagan los ajustes contables correspondientes.
+Las dispensas o cancelaciones de las responsabilidades que efectúe la Secretaría de Contraloría y Desarrollo Administrativo de acuerdo con los artículos procedentes, las dará a conocer a quienes hayan levantado los pliegos preventivos que les dieron origen, a fin de que se hagan los ajustes contables correspondientes.
+
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1996)</small>
 
 ###### ARTICULO 182.
 
-Cuando agotado el procedimiento de cobro, no se logre resarcir a la Hacienda Pública Federal del daño o perjuicio causados, la Secretaría, en los casos procedentes, solicitará del Fondo para Indemnizaciones al Erario Federal el pago supletorio.
+Cuando agotado el procedimiento de cobro, no se logre resarcir a la Hacienda Pública Federal del daño o perjuicio causados, la Secretaría de Contraloría y Desarrollo Administrativo, en los casos procedentes, solicitará del Fondo para Indemnizaciones al Erario Federal el pago supletorio.
 
 ###### ARTICULO 183.
 
@@ -1565,7 +1727,9 @@ Las responsabilidades se extinguirán también por los siguientes medios:
 
 I. Por Pago;
 
-II. Por reintegro del bien motivo de la responsabilidad, previa aceptación de la Secretaría;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1996)</small>
+
+II. Por reintegro del bien motivo de la responsabilidad, previa aceptación de la Secretaría de Contraloría y Desarrollo Administrativo;
 
 III. Por sentencia dictada por autoridad competente que deje sin efecto la responsabilidad constituida;
 
@@ -1573,11 +1737,15 @@ IV. Por pago supletorio del Fondo para Indemnizaciones al Erario Federal, de acu
 
 V. Por prescripción declarada por autoridad competente, y
 
-VI. Por resolución favorable de la Secretaría.
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1996)</small>
+
+VI. Por resolución favorable de la Secretaría de Contraloría y Desarrollo Administrativo.
+
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1996)</small>
 
 ###### ARTICULO 185.
 
-La Secretaría decidirá sobre la aplicación de las correcciones disciplinarias a que se refiere el artículo 49 de la Ley, en cuanto a su monto y naturaleza.
+La Secretaría de Contraloría y Desarrollo Administrativo decidirá sobre la aplicación de las correcciones disciplinarias a que se refiere el artículo 49 de la Ley, en cuanto a su monto y naturaleza.
 
 ###### ARTICULO 186.
 
@@ -1606,3 +1774,11 @@ D.O.F. 16 DE MAYO DE 1990.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- La Secretaría de Programación y Presupuesto en un plazo que no excederá de cuarenta y cinco días hábiles contados a partir de la vigencia del presente Decreto, expedirá el instructivo a que se refiere el artículo 54 de este ordenamiento, el cual será publicado en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE AGOSTO DE 1996.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los programas de las entidades a que se refiere el Reglamento que se reforma y adiciona, contenidos en el Presupuesto de Egresos de la Federación, publicado en el Diario Oficial de la Federación el 22 de diciembre de 1995, que cumplan con los requisitos a que se refieren los artículos 30, segundo párrafo, de la Ley de Presupuestos, Contabilidad y Gasto Público Federal y 18, tercer párrafo, de la Ley General de Deuda Pública, podrán ser sujetos del tratamiento presupuestal que se establece en los artículos que se reforman y adicionan mediante este Decreto, siempre y cuando cumplan con las condiciones señaladas en el mismo y que el monto de gastos de inversión que tengan que ejercerse en los años de 1996 y 1997 no excedan las previsiones totales que para el Presupuesto de Egresos de la Federación para el ejercicio de 1996, les hayan sido establecidas por la Cámara de Diputados del Congreso de la Unión.
+
+Tercero.- La comisión intersecretarial a que se refiere el artículo 38-A que se adiciona en el Reglamento a que se refiere este Decreto, será la Comisión Intersecretarial de Gasto Financiamiento, creada por Acuerdo del Ejecutivo Federal publicado en el Diario Oficial de la Federación el 29 de agosto de 1979 y modificado por última vez por acuerdo publicado en el mismo periódico oficial el 2 de septiembre de 1994, la que ejercerá las atribuciones a que se refiere ese artículo.
