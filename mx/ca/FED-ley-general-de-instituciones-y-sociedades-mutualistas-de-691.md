@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "1983-12-27"
+last_updated: "1985-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE ENERO DE 1985.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -84,6 +84,14 @@ II.- Se prohíbe contratar con empresas extranjeras:
 III.- Sin embargo, cuando ninguna de las empresas aseguradoras facultadas para operar en el país, pueda o estime conveniente realizar determinada operación de seguro que se le hubiere propuesto, la Secretaría de Hacienda y Crédito Público, previa comprobación de estas circunstancias, podrá discrecionalmente otorgar una autorización específica para que la persona que necesite el seguro lo contrate exclusivamente a través de una institución de seguros, con una empresa extranjera; y
 
 IV.- Se prohíbe a toda persona la intermediación en las operaciones a que se refieren las fracciones I y II que anteceden.
+
+> <small>(ADICIONADO, D.O.F. 14 DE ENERO DE 1985)</small>
+
+Los contratos concertados contra las prohibiciones de este artículo, no producirán efecto legal alguno, sin perjuicio del derecho del contratante o asegurado de pedir el reintegro de las primas pagadas e independientemente de las responsabilidades en que incurra la persona o entidad de que se trate, frente al contratante, asegurado o beneficiario o sus causahabientes, de buena fe y de las sanciones a que se haga acreedora dicha persona o entidad en los términos de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 14 DE ENERO DE 1985)</small>
+
+Lo dispuesto en el párrafo anterior no es aplicable a los seguros contratados con la autorización específica de la Secretaría de Hacienda y Crédito Público, a que se refiere este artículo.
 
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
 
@@ -197,11 +205,11 @@ Las instituciones aseguradoras que formen un consorcio, se obligarán en los té
 
 Los seguros de grupo o de empresa y popular, así como los que la ley establezca como obligatorios, los practicarán las instituciones y sociedades mutualistas de seguros de acuerdo con esta Ley y las demás disposiciones legales y administrativas respectivas.
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 13.
 
-Las asociaciones de personas que sin expedir pólizas o contratos, concedan a sus miembros seguros en caso de muerte, beneficios en los de accidentes y enfermedades o indemnizaciones por daños, podrán operar sin sujetarse a los requisitos exigidos por la presente Ley, pero deberán someterse a las reglas generales que expida la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros, donde se fijarán las bases para que, cuando proceda por el número de asociados, por la frecuencia e importancia de los seguros que concedan y de los siniestros pagados, la misma Secretaría ordene a estas asociaciones que se ajusten a la presente Ley, convirtiéndose en sociedades mutualistas de seguros.
+Las asociaciones de personas que sin expedir pólizas o contratos, concedan a sus miembros seguros en caso de muerte, beneficios en los de accidentes y enfermedades o indemnizaciones por daños, con excepción de las coberturas de naturaleza catastrófica, o de alto riesgo por monto o acumulaciones podrán operar sin sujetarse a los requisitos exigidos por la presente Ley, pero deberán someterse a las reglas generales que expida la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros, donde se fijarán las bases para que, cuando proceda por el número de asociados, por la frecuencia e importancia de los seguros que concedan y de los siniestros pagados, la misma Secretaría ordene a estas asociaciones que se ajusten a la presente Ley, convirtiéndose en sociedades mutualistas de seguros.
 
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
 
@@ -209,11 +217,11 @@ Las asociaciones de personas que sin expedir pólizas o contratos, concedan a su
 
 Mientras las instituciones y sociedades mutualistas de seguros, no sean puestas en liquidación o declaradas en quiebra, se considerarán de acreditada solvencia y no estarán obligadas, por tanto, a constituir depósitos o fianzas legales, hecha excepción de las responsabilidades que puedan derivarles de juicios laborales, de amparo o por créditos fiscales.
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 15.
 
-La adquisición del control del 10% o más de acciones representativas del capital social de una institución de seguros, o de una o más sociedades que a su vez controlen una o varias instituciones de seguros, mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, deberá someterse a la previa autorización de la Secretaría de Hacienda y Crédito Público, la que la otorgará o negará discrecionalmente oyendo la opinión de la Comisión Nacional Bancaria y de Seguros.
+La adquisición del control del 10%, o más de acciones representativas del capital pagado de una institución de seguros, o de una de las sociedades a que se refiere el inciso b) de la fracción II del artículo 29 de esta Ley, mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, deberá someterse a la previa autorización de la Secretaría de Hacienda y Crédito Público, la que la otorgará o negará discrecionalmente oyendo la opinión de la Comisión Nacional Bancaria y de Seguros.
 
 (REFORMADO, D.O.F. 7 DE ENERO DE 1981) (F. DE E., D.O.F. 26 DE MARZO DE 1981)
 
@@ -315,17 +323,17 @@ Las personas de que se trata se ajustarán a las reglas mencionadas, se someter�
 
 Las reglas generales que dicte la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros, señalarán los requisitos que deban reunir las personas de referencia, pero en ningún caso podrá autorizarse a quienes, por su posición o por cualquier circunstancia puedan ejercer coacción para contratar reaseguros. Dichas reglas señalarán también los casos en que los intermediarios de cita no puedan intervenir, cuando su participación en la contratación de un reaseguro pueda implicar situaciones de coacción o falta a las prácticas profesionales generalmente aceptadas.
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 27.
 
-La Secretaría de Hacienda y Crédito Público llevará el Registro General de Reaseguradoras Extranjeras de acuerdo con lo dispuesto en esta Ley y en las reglas de carácter general que al efecto dicte la propia Secretaría oyendo la opinión de la Comisión Nacional Bancaria y de Seguros.
+La Secretaría de Hacienda y Crédito Público llevará el Registro General de Reaseguradoras Extranjeras, de acuerdo con lo dispuesto en esta Ley y en las reglas de carácter general que al efecto dicte la propia Secretaría, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros.
 
 La inscripción en el Registro de que se trata la otorgará o negará discrecionalmente la Secretaría de Hacienda y Crédito Público, oyendo a la Comisión Nacional Bancaria y de Seguros, a las reaseguradoras de primer orden del exterior que, a su juicio, reúnan requisitos de solvencia y estabilidad para efectuar las operaciones y cumplir los objetivos a que se refiere el artículo 37 de esta Ley.
 
 Los interesados deberán presentar a la Secretaría de Hacienda y Crédito Público los informes que ésta les solicite respecto a la situación financiera de la reaseguradora, al cumplimiento de los requisitos que para operar exija la ley del país de su domicilio, a las operaciones con instituciones mexicanas, y los demás necesarios para comprobar los requisitos señalados en el párrafo anterior.
 
-Las reaseguradoras registradas deberán sujetarse a las directrices de política general que en materia aseguradora señale la Secretaría de Hacienda y Crédito Público. La Comisión Nacional Bancaria y de Seguros podrá fijar los límites a que deberán someterse las reaseguradoras sobre las responsabilidades que acepten del sistema asegurador mexicano, con el fin de propiciar una adecuada diversificación de riesgos por reaseguradoras, operaciones y ramos.
+Las reaseguradoras registradas deberán sujetarse a las directrices de política general que en materia aseguradora señale la Secretaría de Hacienda y Crédito Público.
 
 La inscripción en el Registro podrá ser cancelada discrecionalmente por la Secretaría de Hacienda y Crédito Público, cuando a su juicio, la reaseguradora deje de satisfacer o de cumplir los requisitos u obligaciones establecidos por las disposiciones legales y administrativas aplicables.
 
@@ -367,13 +375,35 @@ Las cantidades que por concepto de primas u otro similar paguen los suscriptores
 
 En ningún momento podrán participar en forma alguna en el capital de estas sociedades, gobiernos o dependencias oficiales extranjeros, entidades financieras del exterior, o agrupaciones de personas extranjeras, físicas o morales, sea cual fuere la forma que revistan, directamente o a través de interpósita persona;
 
+> <small>(ADICIONADA, D.O.F. 14 DE ENERO DE 1985)</small>
+
+I bis.- No podrán participar en el capital social de dichas instituciones de seguros, directamente o a través de interpósita persona:
+
+a). Instituciones de crédito;
+
+b). Otras instituciones de seguros, salvo que adquieran acciones conforme a lo previsto en programas aprobados por la Secretaría de Hacienda y Crédito Público, conducentes a su fusión; y
+
+c). Sociedades mutualistas de seguros, instituciones de fianzas, casas de bolsa y organizaciones auxiliares del crédito;
+
 II.- Ninguna persona física o moral podrá ser propietaria de más del 15% del capital pagado de una institución de seguros, excepto:
 
-a).- Las sociedades que sean o puedan llegar a ser propietarias de acciones de una o varias instituciones de Seguros. Estas sociedades estarán sometidas a la inspección y vigilancia de la Comisión Nacional Bancaria y de Seguros y les será aplicable al igual que a sus accionistas, lo dispuesto en esta fracción y las fracciones I último párrafo y III de este artículo, así como las fracciones III y IV del artículo 138 de esta Ley, debiendo establecerlo así en sus estatutos sociales.
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
-Las personas que aporten acciones de una o varias instituciones de Seguros al capital de una de las sociedades a que se refiere este inciso podrán mantener la participación que resulte en el capital de la misma, por el valor de las acciones que cada uno de ellos aporte;
+a). La Administración Pública Federal;
 
-b).- Los accionistas de instituciones de seguros fusionantes o fusionadas, siempre y cuando la participación de cada uno de ellos en el capital de la institución fusionante o que resulte de la fusión, no exceda de la participación porcentual que a esos mismos accionistas les corresponda en el capital consolidado de las instituciones involucradas en la fusión respectiva, de conformidad con lo que para la valuación y el canje de acciones se pacte en el convenio de fusión;
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
+
+b). Las sociedades que sean o que puedan llegar a ser propietarias de acciones de una institución de seguros. Estas sociedades estarán sometidas a la inspección y vigilancia de la Comisión Nacional Bancaria y de Seguros y les será aplicable al igual que a sus accionistas, lo dispuesto en esta fracción y las fracciones I último párrafo y III de este artículo, así como las fracciones III y IV del artículo 139 de esta Ley.
+
+Las personas que aporten acciones de una o varias instituciones de seguros al capital de una de las sociedades a que se refiere este inciso, podrán mantener la participación que resulte en el capital de la misma, por el valor de las acciones que cada una de ellas aporte.
+
+Dichas sociedades no podrán ser propietarias de acciones de más de una institución de seguros, salvo que se trate de instituciones concesionadas para realizar operaciones de seguro directo distintas, sin considerar las de accidentes y enfermedades, caso en el que podrán adquirir hasta dos, o que se trate de institución que opere exclusivamente reaseguro, o que pretendan fusionarse conforme a programas aprobados por la Secretaría de Hacienda y Crédito Público, previa autorización que con carácter transitorio podrá otorgar esa Dependencia.
+
+En el capital de las señaladas sociedades no podrán participar directa o indirectamente, otra sociedad del mismo tipo, instituciones de crédito, de seguros, de fianzas, organizaciones auxiliares del crédito, casas de bolsa, así como aquellas sociedades que la Secretaría de Hacienda y Crédito Público señale mediante disposiciones de carácter general, como incompatibles en razón de sus actividades.
+
+Las sociedades a que se refiere este inciso no podrán adquirir directa o indirectamente acciones representativas del capital de organizaciones auxiliares del crédito o instituciones de fianzas.
+
+Lo dispuesto en esta fracción deberá hacerse constar en los estatutos de las sociedades correspondientes;
 
 c).- Las personas que adquieran acciones conforme a lo previsto en programas aprobados por la Secretaría de Hacienda y Crédito Público, conducentes a la fusión de instituciones de seguros, a quienes, excepcionalmente la mencionada Secretaría podrá otorgarles la autorización relativa, con carácter temporal, por un plazo no mayor de cinco años, sin que la participación total de cada uno de ellos exceda del 30% del capital pagado de la institución de que se trate;
 
@@ -381,9 +411,17 @@ d).- Las instituciones de seguros, cuando adquieran acciones por cuenta propia c
 
 e).- Las instituciones de crédito cuando, previa autorización de la Secretaría de Hacienda y Crédito Público, adquieran acciones actuando como fiduciarias en fideicomisos que no se utilicen como medio para contravenir los porcentajes máximos de tenencia de acciones permitidos por esta Ley.
 
-Las personas que en los términos de esta fracción lleguen a ser propietarias de más del 15% del capital pagado de una institución de seguros o de una sociedad de las comprendidas en el inciso a) de esta fracción deberán obtener certificado de la Comisión Nacional Bancaria y de Seguros, en el que se hará constar el porcentaje correspondiente;
+> <small>(ADICIONADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
-III.- Para participar en asambleas de accionistas de instituciones de seguros o de sociedades de las comprendidas en el inciso a) de la fracción anterior, deberán cumplirse los siguientes requisitos:
+f). Los accionistas de instituciones de seguros fusionantes o fusionadas, siempre y cuando la participación de cada uno de ellos en el capital de la institución fusionante o que resulte de la fusión no exceda de la participación porcentual que a esos mismos accionistas les corresponda en el capital consolidado de las instituciones involucradas en la fusión respectiva, de conformidad con lo que para la valuación y el canje de acciones se pacte en el convenio de fusión;
+
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
+
+Las personas que en los términos de esta fracción lleguen a ser propietarias de más del 15% del capital pagado de una institución de seguros o de una sociedad de las comprendidas en el inciso b) de esta fracción, deberán obtener certificado de la Comisión Nacional Bancaria y de Seguros, en el que se hará constar el porcentaje correspondiente;
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE ENERO DE 1985)</small>
+
+III. Para participar en asambleas de accionistas de instituciones de seguros o de sociedades de las comprendidas en el inciso b) de la fracción anterior, deberán cumplirse los siguientes requisitos:
 
 > <small>(F. DE E., D.O.F. 26 DE MARZO DE 1981)</small>
 
@@ -397,7 +435,9 @@ Los escrutadores estarán obligados a cerciorarse de la observancia de lo dispue
 
 La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros, estará facultada para dictar reglas de carácter general con vistas a procurar el estricto cumplimiento de lo dispuesto en esta fracción y la que antecede.
 
-Tratándose de fideicomisos y reportos sobre acciones de instituciones de seguros o de sociedades de las comprendidas en el inciso a) de la fracción anterior, la misma Secretaría determinará mediante reglas de carácter general, la forma en que dichas acciones deban computarse para efectos de los límites a que se refiere este artículo en su fracción II, tomando en cuenta los derechos que respecto a tales acciones puedan ejercerse;
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
+
+Tratándose de fideicomisos y reportos sobre acciones de instituciones de seguros o de sociedades de las comprendidas en el inciso b) de la fracción anterior, la misma Secretaría determinará mediante reglas de carácter general, la forma en que dichas acciones deban computarse para efectos de los límites a que se refiere este artículo en su fracción II, tomando en cuenta los derechos que respecto a tales acciones puedan ejercerse;
 
 IV.- Podrá estipularse que la duración de la sociedad sea indefinida; pero no podrá ser inferior a 30 años. La sociedad sólo podrá tener por objeto el funcionamiento como institución de seguros, en los términos de esta Ley;
 
@@ -437,11 +477,21 @@ Las instituciones de seguros realizarán su objeto social por medio de uno o má
 
 Las resoluciones de remoción o suspensión podrán ser recurridas ante la Secretaría de Hacienda y Crédito Público, dentro de los quince días que sigan a la fecha en que la misma se hubiera notificado. La Secretaría de Hacienda y Crédito Público podrá revocar, modificar o confirmar, la resolución recurrida con audiencia de las partes.
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 32.
 
-Los comisarios propietarios o suplentes de las instituciones de seguros, no podrán ser empleados ni funcionarios de las empresas que controlen los accionistas mayoritarios de la institución, los miembros de su consejo de administración, propietarios o suplentes, sus directores generales, o gerentes. El nombramiento de comisarios sólo podrá recaer en personas que reúnan los requisitos que fije la Comisión Nacional Bancaria y de Seguros.
+No podrán ser comisarios propietarios o suplentes de las instituciones de seguros:
+
+I.- Sus directores generales o gerentes;
+
+II.- Los miembros de sus consejos de administración, propietarios o suplentes;
+
+lII.- Los funcionarios o empleados de instituciones de crédito, de seguros, de fianzas, organizaciones auxiliares del crédito y casas de bolsa; y
+
+IV.- Los miembros del consejo de administración, propietarios o suplentes, directores generales, gerentes o auditores externos de las sociedades que a su vez controlen a la institución de seguros de que se trate, o de las empresas controladas por los accionistas mayoritarios de la misma.
+
+El nombramiento de comisarios sólo podrá recaer en personas que reúnan los requisitos que fije la Comisión Nacional Bancaria y de Seguros, mediante reglas de carácter general.
 
 ###### ARTICULO 32 Bis.
 
@@ -477,7 +527,9 @@ II.- Constituir e invertir las reservas previstas en la Ley;
 
 III.- Administrar las sumas que por concepto de dividendos o indemnizaciones les confíen los asegurados o sus beneficiarios;
 
-IV.- Administrar las reservas para fondos de pensiones o jubilaciones del personal, complementarias a las que establece la Ley del Seguro Social y de primas de antigüedad;
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1985)</small>
+
+IV.- Administrar las reservas para fondos de pensiones o jubilaciones del personal complementarias a las que establece la Ley del Seguro Social y de primas de antigüedad, así como las correspondientes a los contratos de seguros que tengan como base planes de pensiones relacionados con la edad, jubilación o retiro de personas a que se refiere el segundo párrafo de la fracción I del artículo 8o. de esta Ley;
 
 V.- Administrar las reservas retenidas a instituciones del país y del extranjero, correspondientes a las operaciones de reaseguro que hayan cedido;
 
@@ -513,7 +565,9 @@ II.- El importe de su capital pagado y reservas de capital deberá mantenerse in
 
 III.- Los recursos que con motivo de sus operaciones mantengan las instituciones deberán invertirse conforme a lo dispuesto por el artículo 56 y, en su caso, el 57 de esta Ley;
 
-IV.- La administración de reservas para fondos de pensiones o jubilaciones de personal, complementarias a las que establece la Ley del Seguro Social y de primas de antigüedad, sólo podrán efectuarla las instituciones concesionadas para realizar las operaciones a que se refiere la fracción I del artículo 7o. de esta Ley, y su inversión se ajustará a las disposiciones legales y administrativas aplicables;
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1985)</small>
+
+IV.- Las operaciones de administración a que se refieren las fracciones III y IV del artículo 34 de la presente Ley, sólo podrán efectuarlas las instituciones concesionadas para realizar las operaciones que menciona la fracción I del artículo 7o. de esta Ley, y su inversión se ajustará a las disposiciones legales y administrativas aplicables;
 
 V.- Las reservas a que se refiere la fracción V del artículo 34 de esta Ley, deberán invertirse en el país y de acuerdo a lo dispuesto por los artículos 56 y 57 de esta Ley;
 
@@ -581,6 +635,18 @@ Las tarifas de primas y extraprimas, los procedimientos para calcular las tablas
 
 Las tarifas y las bases para el cálculo de primas y reservas, deberán ser suficientes para garantizar el cumplimiento de las obligaciones que contraigan las instituciones con los asegurados. Todas las estipulaciones que contengan los contratos en las diversas operaciones y ramos de seguros, incluyendo las reglas establecidas para determinar el importe de las primas, su devolución y el pago de dividendos en las pólizas en que se contrate ese beneficio, se aplicarán sin excepción a todos los riesgos de la misma clase.
 
+> <small>(ADICIONADO, D.O.F. 14 DE ENERO DE 1985)</small>
+
+El contrato celebrado por una institución de seguros en contravención a lo dispuesto en este artículo es anulable, pero la acción sólo puede ser ejercida por el contratante, asegurado o el beneficiario o por sus causahabientes, contra la institución de seguros y nunca por ésta contra aquéllos.
+
+> <small>(ADICIONADO, D.O.F. 14 DE ENERO DE 1985)</small>
+
+Cuando se otorgue una cobertura en contravención a este artículo que dé lugar al cobro de una prima inferior a la que debería cubrirse por el riesgo de que se trate, la Comisión Nacional Bancaria y de Seguros, concederá a la institución un plazo de diez días a partir de la fecha de notificación, para que exponga lo que su derecho convenga, y si dicha Comisión determina que ha quedado comprobada la falta de alguna de las aprobaciones a que se refiere el presente artículo, ordenará a la infractora que dentro del término que señale, no mayor de treinta días naturales, corrija el documento de que se trate manteniendo la vigencia de la póliza hasta su terminación a su costo, no pudiendo, en su caso, renovarse la póliza en las mismas condiciones.
+
+> <small>(ADICIONADO, D.O.F. 14 DE ENERO DE 1985)</small>
+
+En las coberturas de vida o de accidentes y enfermedades en que se cobre una prima superior a la aprobada por la Comisión Nacional Bancaria y de Seguros, ésta, ajustándose al procedimiento citado en el párrafo anterior y si determina que ha quedado comprobada la falta de alguna de las aprobaciones a que alude el presente artículo, lo comunicará al contratante, asegurado o beneficiario o sus causahabientes, para que en un plazo de diez días a partir de la fecha de notificación, determine si se le devuelve el exceso cobrado y su rendimiento, o se aumenta la suma asegurada; en caso de que no determine nada en el referido plazo, la Comisión ordenará a la institución la devolución del exceso cobrado y su rendimiento; tratándose de coberturas de daños la Comisión, previamente dará vista al interesado y ordenará a la institución que devuelva el exceso cobrado y su rendimiento.
+
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
 
 ###### ARTICULO 37.
@@ -603,11 +669,11 @@ d).- El desarrollo de políticas adecuadas para la cesión y aceptación de reas
 
 e).- La conveniencia de dispersar los riesgos que por su naturaleza catastrófica puedan provocar una inadecuada acumulación de responsabilidades y afectar la estabilidad del sistema asegurador.
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 38.
 
-Las instituciones deberán practicar las operaciones de reaseguro tanto en su carácter de cedentes como de cesionarias, en términos que les permitan una adecuada diversificación de los riesgos que asuman. A tal efecto, se abstendrán de realizar dichas operaciones con sus sucursales o aquellas instituciones que constituyan riesgos comunes por sus nexos patrimoniales o de responsabilidad.
+Las instituciones deberán practicar las operaciones de reaseguro tanto en su carácter de cedentes como de cesionarias, en términos que les permitan una adecuada diversificación de los riesgos que asuman. A tal efecto, se abstendrán de realizar dichas operaciones con aquellas instituciones que constituyan riesgos comunes por sus nexos patrimoniales o de responsabilidad.
 
 La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros, podrá determinar las instituciones que deban considerarse para estos efectos, que constituyen riesgos comunes.
 
@@ -619,11 +685,13 @@ La Comisión Nacional Bancaria y de Seguros fijará para cada operación, ramo o
 
 La propia Comisión podrá señalar partidas de otros gastos que, exclusivamente para los efectos del párrafo anterior, deberán considerarse dentro del límite correspondiente.
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 40.
 
-La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros, mediante disposiciones de carácter general, fijará el volumen máximo de las primas de seguro o reaseguro que una institución puede emitir y de reaseguro que pueda ceder, con la intervención de un solo agente o intermediario. Lo dispuesto en este artículo no será aplicable a los agentes que presten sus servicios a las instituciones mediante una relación de trabajo.
+Las instituciones de seguros deberán diversificar los conductos de colocación de seguros, a fin de evitar situaciones de dependencia o coacción de un agente, intermediario, contratante, asegurado o beneficiario.
+
+A ese efecto, la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros, mediante disposiciones de carácter general, fijará el volumen máximo de las primas de seguro o reaseguro que una institución pueda emitir y de reaseguro que pueda ceder, en razón de uno solo de los señalados conductos o con la intervención de un solo agente o intermediario. Lo dispuesto en este párrafo no será aplicable a los agentes que presten sus servicios a las instituciones mediante una relación de trabajo.
 
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
 
@@ -713,11 +781,19 @@ En ningún caso la reserva matemática de primas será menor de la que resulte d
 
 II.- Para los seguros de vida temporales a un año, la parte de la prima neta no devengada a la fecha de la valuación, dentro del período de cada año en vigor;
 
-III.- Para las operaciones de accidentes y enfermedades y de daños, la cantidad que resulte de aplicar el porcentaje que determine la Secretaría de Hacienda y Crédito Público no superior al 45% del total de las primas emitidas durante el año, correspondientes a las obligaciones asumidas por seguros y reaseguro, menos cancelaciones y devoluciones, tomando en cuenta el principio de prima no devengada;
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1985)</small>
+
+III. Para las operaciones de accidentes y enfermedades y de daños, a excepción de los seguros de naturaleza catastrófica afectos a reservas especiales:
+
+a). En el seguro directo, el importe de la prima no devengada a la fecha de la valuación, correspondiente a las pólizas en vigor. Para fines de cálculo, se deducirá el costo de adquisición autorizado por la Comisión Nacional Bancaria y de Seguros y se utilizará el procedimiento que apruebe la Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general; y
+
+b). En operaciones de reaseguro, el importe que por este concepto reporte la cedente, previa autorización de la Comisión Nacional Bancaria y de Seguros, o en su defecto se aplicará el principio de prima no devengada de acuerdo con el inciso anterior;
 
 IV.- Para los seguros de daños que por su naturaleza catastrófica puedan provocar una acumulación de responsabilidades y que, para los efectos de esta fracción clasifique la Secretaría de Hacienda y Crédito Público, la cantidad que resulte de aplicar los porcentajes que determine la propia Secretaría para cada cobertura, mediante reglas de carácter general, del total de las primas emitidas durante el año correspondientes a las obligaciones asumidas por seguros y reaseguro, menos cancelaciones y devoluciones. Esta reserva será acumulativa en el porcentaje que corresponda a primas de retención y sólo podrá afectarse en caso de siniestros previa autorización de la Comisión Nacional Bancaria y de Seguros;
 
-V.- Para otros planes de seguros que tengan características especiales, las que establezcan repartos periódicos de utilidades o beneficios adicionales, y los que se contraten con personas que tengan ocupación peligrosa o pobreza de salud al suscribir el contrato, las que determine la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general; y
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1985)</small>
+
+V.- Para otros planes de seguros que tengan características especiales, los que establezcan beneficios adicionales, y los que se contraten con personas que tengan ocupación peligrosa o pobreza de salud al suscribir el contrato, las que determine la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general; y
 
 VI.- Para las operaciones de reaseguro aceptado del extranjero, la que señale la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, tomando en cuenta la situación del mercado internacional y los principios previstos en este artículo.
 
@@ -741,7 +817,9 @@ Si durante dos años consecutivos, el interés medio neto percibido de las inver
 
 Las reservas para obligaciones pendientes de cumplir serán:
 
-I.- Por pólizas vencidas y por siniestros ocurridos, el importe total de las sumas que deba desembolsar la institución, al verificarse la eventualidad prevista en el contrato, debiendo estimarse conforme a las bases siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE ENERO DE 1985)</small>
+
+I.- Por pólizas vencidas, por siniestros ocurridos, y por repartos periódicos de utilidades, el importe total de las sumas que deba desembolsar la institución, al verificarse la eventualidad prevista en el contrato, debiendo estimarse conforme a las bases siguientes:
 
 a).- Para las operaciones de vida, las sumas aseguradas en las pólizas respectivas, con los ajustes que procedan, de acuerdo con las condiciones del contrato. En obligaciones pagaderas a plazos, el valor presente de los pagos futuros, calculado al tipo de interés que fije la Secretaría de Hacienda y Crédito Público. Tratándose de rentas, el monto de las que estén vencidas y no se hayan cobrado;
 
@@ -759,21 +837,29 @@ d).- Si se trata del supuesto del artículo 135 de esta Ley, la cantidad que des
 
 Las reservas a que se refieren los incisos a), b) y c) de esta fracción, deberán constituirse inmediatamente después de que se hayan hecho las estimaciones correspondientes y la reserva a que se refiere el inciso d), conforme a lo dispuesto por el artículo 135 citado.
 
-La Comisión Nacional Bancaria y de Seguros podrá, en cualquier momento, abocarse de oficio al conocimiento de un siniestro y mandar constituir la reserva que corresponda;
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
+
+La Comisión Nacional Bancaria y de Seguros podrá, en cualquier momento, abocarse de oficio al conocimiento de un siniestro y mandar constituir e invertir la reserva que corresponda;
+
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1985)</small>
 
 II.- Por siniestros ocurridos y no reportados, las sumas que autorice anualmente la Comisión Nacional Bancaria y de Seguros, considerando la experiencia de siniestralidad de la institución y las estimaciones que ésta hubiere hecho de siniestros en los que tenga evidencias y razonables posibilidades de responsabilidad para la misma.
 
-Esta reserva se constituirá en todo caso dentro de los límites que señale la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros, mediante reglas de carácter general, con la cantidad que resulte de aplicar los porcentajes mínimo y máximo de las primas netas que al efecto establezca, y sólo podrá afectarse para cubrir siniestros ocurridos en el ejercicio inmediato anterior, para los cuales no se haya constituido reserva en los términos de la fracción I de este artículo por causas no imputables a la institución; y
+Esta reserva se constituirá en todo caso dentro de los límites que señale la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros, mediante reglas de carácter general, con la cantidad que resulte de aplicar los porcentajes mínimo y máximo de las primas netas que al efecto establezca, y sólo podrá afectarse para cubrir siniestros para los cuales no se haya constituido reserva en los términos de la fracción I de este artículo por causas no imputables a la institución, ocurridos en el ejercicio inmediato anterior o previa autorización de la Comisión Nacional Bancaria y de Seguros, tratándose de otros ejercicios; y
 
 III.- Por las operaciones de que trata la fracción III del artículo 34 de esta Ley, la reserva se calculará teniendo en cuenta los intereses acumulados.
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 51.
 
-La reserva de previsión se constituirá con las cantidades que resulten de aplicar un porcentaje que no será superior al 1% a las primas emitidas durante el año, deduciendo las cedidas por concepto de reaseguro, para las operaciones de vida; ni superior al 4% a las primas correspondientes a las pólizas expedidas durante el año deduciendo las cedidas por concepto de reaseguro, las devoluciones y las cancelaciones, para las demás operaciones. La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros, determinará el porcentaje aplicable en los términos del presente artículo, mediante reglas de carácter general, tomando en cuenta el análisis estadístico de la siniestralidad registrada en años anteriores.
+La reserva de previsión se constituirá con las cantidades que resulten de aplicar un porcentaje que no será superior al 3% a las primas emitidas durante el año, deduciendo las cedidas por concepto de reaseguro, para las operaciones de vida; ni superior al 10% a las primas correspondientes a las pólizas expedidas durante el año deduciendo las cedidas por concepto de reaseguro, las devoluciones y las cancelaciones, para las demás operaciones. La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros, determinará el porcentaje aplicable en los términos del presente artículo, mediante reglas de carácter general, tomando en cuenta el análisis estadístico de la siniestralidad registrada en años anteriores.
+
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
 
 Esta reserva será acumulativa, y sólo podrá afectarse conforme a las bases y requisitos que determine la Comisión Nacional Bancaria y de Seguros, cuando la siniestralidad de retención presente características extraordinarias en una o varias operaciones o ramos, así como en caso de déficit de las demás reservas técnicas de la institución en los términos previstos en el artículo 73 de esta Ley. Las cantidades dispuestas deberán reponerse conforme a las bases que determine la propia Comisión Nacional Bancaria y de Seguros.
+
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
 
 La Comisión Nacional Bancaria y de Seguros podrá autorizar que temporalmente deje de incrementarse esta reserva con el total o parte de las cantidades a que se refiere el primer párrafo de este artículo cuando, a su juicio, el monto de la misma reserva de una institución sea suficiente para cubrir las posibles pérdidas por desviaciones estadísticas conforme a su experiencia de siniestralidad y siempre que la institución presente una sana situación financiera y mantenga cuando menos el capital neto que exige el artículo 60 de esta Ley.
 
@@ -805,9 +891,9 @@ I.- El monto de las reservas determinado conforme al artículo 53 de esta Ley, s
 
 II.- Las reservas para obligaciones pendientes de cumplir a que se refiere la fracción I del artículo 50, deberán calcularse y registrarse en los términos previstos por dicha fracción.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
-Si la reserva fue constituida por orden de la Comisión Nacional Bancaria y de Seguros en el caso previsto en la fracción I inciso c) del artículo 135 de esta Ley, los productos de la inversión de la reserva quedarán siempre en beneficio del reclamante si el cobro resultare procedente, deduciendo de dichos productos el monto de los intereses que haya pagado la institución de acuerdo a la resolución correspondiente, si éste fuere menor; y
+Si la reserva fue constituida e invertida por orden de la Comisión Nacional Bancaria y de Seguros en el caso previsto en la fracción I, inciso c) del artículo 135 de esta Ley, los productos de la inversión de la reserva quedarán siempre en beneficio del reclamante si el cobro resultare procedente, deduciendo de dichos productos el monto de los intereses que haya pagado la institución de acuerdo a la resolución correspondiente, si éste fuere menor; y
 
 III.- La inversión de las reservas y de los incrementos periódicos, deberá ajustarse a las proporciones y demás requisitos que exige esta Ley, y efectuarse en el término que al efecto señale la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros.
 
@@ -909,7 +995,9 @@ c).- El adecuado apoyo de recursos patrimoniales, en relación a los riesgos fin
 
 Las inversiones con cargo al capital pagado y reservas de capital de las instituciones de seguros organizadas como sociedades anónimas, se sujetarán a las disposiciones siguientes:
 
-I.- No excederá del 40% del capital pagado y reservas de capital el importe de las inversiones en mobiliario y equipo, así como en inmuebles, derechos reales que no sean de garantía, y acciones de las sociedades que se organicen exclusivamente para adquirir el dominio y administrar edificios.
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1985)</small>
+
+I.- No excederá del 60% del capital pagado y reservas de capital el importe de las inversiones en mobiliario y equipo, así como en inmuebles, derechos reales que no sean de garantía, y acciones de las sociedades que se organicen exclusivamente para adquirir el dominio y administrar edificios.
 
 Los bienes y derechos reales que señala esta fracción, así como los inmuebles propiedad de las sociedades mencionadas, deberán estar destinados al establecimiento de las oficinas de la institución. La inversión en acciones y los requisitos que deban satisfacer las sociedades a que se refiere esta fracción, se sujetarán a las reglas generales que dicte la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros.
 
@@ -917,7 +1005,7 @@ La citada Comisión podrá aumentar temporalmente en casos individuales este por
 
 II.- El importe de los gastos de establecimiento y organización, así como la suma de los saldos a cargo de agentes e intermediarios, documentos por cobrar y deudores diversos, no excederá de los límites que, mediante reglas de carácter general, señale la Secretaría de Hacienda y Crédito Público;
 
-III.- La inversión en acciones de instituciones de seguros, no podrá ser mayor del 20% de la suma de capital pagado y reservas de capital de la inversora y sólo podrá hacerse con los excedentes de esta suma sobre su capital mínimo legal;
+III.- (DEROGADA, D.O.F. 14 DE ENERO DE 1985)
 
 IV.- El importe de la inversión en acciones de instituciones concesionadas para operar exclusivamente el reaseguro, no excederá del límite que mediante reglas de carácter general señale la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros;
 
@@ -950,6 +1038,10 @@ VIII.- Otorgar avales, fianzas o cauciones;
 IX.- Comerciar en mercancías de cualquier clase;
 
 X.- Entrar en sociedades de responsabilidad ilimitada y explotar por su cuenta minas, plantas metalúrgicas, establecimientos mercantiles o industriales o fincas rústicas sin perjuicio de la facultad de poseer bonos, obligaciones, acciones u otros títulos de dichas empresas conforme a lo previsto en esta Ley. La Comisión Nacional Bancaria y de Seguros, podrá autorizar que continúen su explotación cuando las reciban en adjudicación o pago de adeudos, o para aseguramiento de los ya concertados, o al ejercitar los derechos que les confieran las operaciones que celebren conforme a esta Ley sin exceder los plazos a que se refiere la fracción siguiente;
+
+> <small>(ADICIONADA, D.O.F. 14 DE ENERO DE 1985)</small>
+
+X bis.- Seguir frente al público políticas operativas y de servicios comunes con instituciones de fianzas, almacenes generales de depósito, arrendadoras financieras o casas de bolsa u ostentarse como grupo con ellos;
 
 XI.- Adquirir bienes, títulos o valores que no deban conservar en su activo.
 
@@ -987,15 +1079,15 @@ Las inversiones de las reservas técnicas y de las operaciones a que se refiere 
 
 Cuando las inversiones a que se refiere el artículo anterior se efectúen en créditos con garantía hipotecaria o fiduciaria sobre bienes inmuebles, así como en inmuebles urbanos, se hará constar en las escrituras respectivas que esa inversión queda afecta a las reservas técnicas u operaciones mencionadas en dicho artículo.
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 65.
 
-Las instituciones de seguros requerirán autorización de la Secretaría de Hacienda y Crédito Público, para el establecimiento, cambio de ubicación y clausura de cualquier clase de oficinas, ya sea en el país o en el extranjero.
+Las instituciones de seguros requerirán autorización previa de la Secretaría de Hacienda y Crédito Público, para el establecimiento, cambio de ubicación y clausura de cualquier clase de oficinas, ya sea en el país o en el extranjero.
 
-Para proporcionar servicio al público dentro del territorio nacional, las mismas instituciones de seguros sólo podrán establecer, además de sus oficinas principales, sucursales o agencias. Estas últimas sujetarán sus operaciones y funcionamiento a las reglas de carácter general que para el efecto expida la Secretaría de Hacienda y Crédito Público.
+Para proporcionar servicio al público dentro del territorio nacional, las mismas instituciones de seguros sólo podrán establecer, además de sus oficinas principales, sucursales u oficinas de servicio. Estas últimas sujetarán sus operaciones y funcionamiento a las reglas de carácter general que para el efecto expida la Secretaría de Hacienda y Crédito Público.
 
-La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros, otorgará o negará discrecionalmente las autorizaciones a que se refiere este artículo.
+La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros, otorgará o negará discrecionalmente las autorizaciones a que se refiere este artículo. No será necesaria la formalidad de la opinión a que alude este párrafo, cuando se trate del cambio de ubicación de cualquier clase de oficinas en la misma plaza o del establecimiento en el país, de oficinas que no proporcionen servicio al público.
 
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
 
@@ -1005,7 +1097,9 @@ El traspaso de la cartera de una institución a otra y la fusión de dos o más 
 
 En el caso de traspaso de cartera de una institución a otra, la cedente deberá comunicar por correo certificado con acuse de recibo, al último domicilio conocido de todos sus asegurados o sus causahabientes la situación de que se trate, para que en el término de noventa días naturales manifiesten lo que a su derecho convenga, otorgando su conformidad al traspaso o solicitando la liquidación o cancelación de sus pólizas con la cesionaria.
 
-De igual manera, las instituciones que se encuentren en el supuesto anterior, deberán publicar avisos en su oficina matriz, sucursales y agencias, en el "Diario Oficial" de la Federación y en dos de los periódicos de mayor circulación en la plaza donde se encuentre su domicilio social, informando el traspaso de cartera. Dichos avisos surtirán efectos de notificaciones a los asegurados o sus causahabientes, cuyo domicilio sea distinto al último señalado.
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
+
+De igual manera las instituciones que se encuentren en el supuesto anterior, deberán publicar avisos en su oficina matriz, sucursales y oficinas de servicio, en el Diario Oficial de la Federación y en dos de los periódicos de mayor circulación en la plaza donde se encuentre su domicilio social, informando el traspaso de cartera. Dichos avisos surtirán efectos de notificación a los asegurados o sus causahabientes, cuyo domicilio sea distinto al último señalado.
 
 La Secretaría de Hacienda y Crédito Público, tomando en cuenta lo manifestado por los asegurados o sus causahabientes, y una vez que se haya acreditado el cumplimiento de los requisitos anteriores, resolverá sobre la procedencia de la fusión o el traspaso correspondiente. El contrato de traspaso deberá inscribirse en todo caso, en el Registro Público de Comercio.
 
@@ -1043,13 +1137,13 @@ Las instituciones de seguros requerirán de autorización previa de la Secretar�
 
 Las instituciones de seguros estarán obligadas a obtener la previa aprobación de la Comisión Nacional Bancaria y de Seguros, para cualquier clase de propaganda o publicación que pretendan efectuar relacionada con sus operaciones, ya sea en territorio nacional o en el extranjero.
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 72.
 
-Las instituciones de seguros sólo podrán cerrar sus puertas y suspender sus operaciones en los días que autorice al efecto el reglamento que anualmente aprobará la Comisión Nacional Bancaria y de Seguros.
+Las instituciones de seguros sólo podrán cerrar sus puertas y suspender sus operaciones en lo (sic) días que al efecto autorice anualmente la Comisión Nacional Bancaria y de Seguros.
 
-Los días autorizados en los términos de este artículo se considerarán inhábiles para todos los efectos legales.
+Los días autorizados en los términos de este artículo se considerarán inhábiles para los efectos de las operaciones que están facultadas a practicar las instituciones de seguros en los términos de sus concesiones respectivas.
 
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
 
@@ -1097,9 +1191,9 @@ VI.- Cuando por causas imputables a la institución no aparezca debida y oportun
 
 VII.- Si la institución obra sin consentimiento de la Secretaría de Hacienda y Crédito Público o de la Comisión Nacional Bancaria y de Seguros, en los casos en que la ley exija ese consentimiento;
 
-> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1985)</small>
 
-VIII.- Si la institución no constituye, dentro de los diez días de haber sido notificada, las reservas para obligaciones pendientes de cumplir, que se ordenen de acuerdo con lo dispuesto por la fracción I inciso c) del artículo 135 de esta Ley; y
+VIII.- Si la institución no constituye e invierte, dentro de los diez días de haber sido notificada, la reserva específica para obligaciones pendientes de cumplir, que se ordene de acuerdo con lo dispuesto por la fracción I, inciso c) del artículo 135 de esta Ley; y
 
 IX.- Si se disuelve, quiebra o entra en estado de liquidación, salvo que el procedimiento respectivo termine por rehabilitación y la Comisión Nacional Bancaria y de Seguros opine favorablemente a que continúe con la concesión.
 
@@ -1115,11 +1209,11 @@ La declaración de revocación se inscribirá en el Registro Público de Comerci
 
 Las instituciones de seguros concesionadas para practicar exclusivamente el reaseguro, ajustarán sus operaciones a lo dispuesto en el presente Título, con las modalidades que establezcan la Secretaría de Hacienda y Crédito Público y la Comisión Nacional Bancaria y de Seguros en uso de las facultades que a cada una corresponde, y tomando en cuenta la naturaleza y características de operación propias de este tipo de instituciones.
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 77.
 
-Las instituciones de seguros concesionadas para practicar exclusivamente el reaseguro, no podrán administrar las sumas y fondos a que se refieren las fracciones III y IV del artículo 34 de esta Ley.
+Las instituciones de seguros concesionadas para practicar exclusivamente el reaseguro, no podrán realizar las operaciones a que se refieren las fracciones III y IV del Artículo 34 de esta Ley.
 
 ###### ARTICULO 77 Bis.
 
@@ -1335,6 +1429,18 @@ Los procedimientos para calcular las cuotas de los mutualizados, las tablas de v
 
 Todas las estipulaciones que contengan los contratos en las diversas operaciones y ramos de seguros, incluyendo las reglas establecidas para determinar el importe de las cuotas, su devolución y el pago de dividendos en las pólizas en que se contrate ese beneficio, se aplicarán sin excepción a todos los riesgos de la misma clase.
 
+> <small>(ADICIONADO, D.O.F. 14 DE ENERO DE 1985)</small>
+
+El contrato celebrado por una sociedad mutualista de seguros en contravención a lo dispuesto en este artículo es anulable, pero la acción sólo puede ser ejercida por el mutualizado, beneficiario o por sus causahabientes, contra la propia sociedad mutualista de seguros y nunca por ésta contra aquéllos.
+
+> <small>(ADICIONADO, D.O.F. 14 DE ENERO DE 1985)</small>
+
+Cuando se otorgue una cobertura en contravención a este artículo que dé lugar al cobro de una prima inferior a la que debería cubrirse por el riesgo de que se trate, la Comisión Nacional Bancaria y de Seguros, concederá a la mutualista un plazo de diez días a partir de la fecha de notificación; para que exponga lo que a su derecho convenga, si dicha Comisión determina que ha quedado comprobada la falta de alguna de las aprobaciones a que se refiere el presente artículo, ordenará a la infractora que dentro del término que señale, no mayor de treinta días naturales, corrija el documento de que se trate manteniendo la vigencia de la póliza hasta su terminación a su costo, no pudiendo, en su caso, renovarse la póliza en las mismas condiciones.
+
+> <small>(ADICIONADO, D.O.F. 14 DE ENERO DE 1985)</small>
+
+En las coberturas de vida o de accidentes y enfermedades en que se cobre una prima superior a la aprobada por la Comisión Nacional Bancaria y de Seguros, ésta, ajustándose al procedimiento citado en el párrafo anterior y si determina que ha quedado comprobada la falta de alguna de las aprobaciones a que alude el presente artículo, lo comunicará al mutualizado, beneficiario o sus causahabientes, para que en un plazo de diez días a partir de la fecha de notificación, determine si se le devuelve el exceso cobrado y su rendimiento, o se aumenta la suma asegurada en caso de que no determine nada en el referido plazo, la Comisión ordenará a la mutualista la devolución del exceso cobrado y su rendimiento; tratándose de coberturas de daños la Comisión, previamente dará vista al interesado y ordenará a la mutualista que devuelva el exceso cobrado y su rendimiento.
+
 ###### ARTICULO 85 Bis.
 
 (DEROGADO, D.O.F. 7 DE ENERO DE 1981)
@@ -1395,7 +1501,9 @@ A las sociedades mutualistas de seguros les estará prohibido:
 
 I.- Tomar a su cargo total o parcialmente riesgos en reaseguro;
 
-II.- Administrar reservas para fondos de pensiones o jubilaciones del personal de otras entidades, complementarias a las que establece la Ley del Seguro Social y de Primas de antigüedad;
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1985)</small>
+
+II.- Administrar las reservas para fondos de pensiones, jubilaciones del personal de otras entidades, complementarias a las que establece la Ley del Seguro Social y de primas de antigüedad, así como las correspondientes a los contratos de seguros que tengan como base planes de pensiones relacionadas con la edad, jubilación o retiro de personas a que se refiere el segundo párrafo de la fracción I del artículo 8o. de esta Ley;
 
 III.- Efectuar inversiones en el extranjero;
 
@@ -1433,11 +1541,11 @@ XV.- Repartir remanentes con los fondos de las reservas que hayan constituido po
 
 Tampoco podrán repartir remanentes sin haber constituido debidamente tales reservas o mientras haya déficit en las mismas, ni en el caso a que se refiere el artículo 105 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 94.
 
-Las sociedades mutualistas de seguros sólo podrán establecer oficinas en el país. Para el establecimiento, cambio de ubicación y clausura de cualquier clase de oficinas, requerirán autorización previa de la Secretaría de Hacienda y Crédito Público, quien la otorgará o negará discrecionalmente oyendo la opinión de la Comisión Nacional Bancaria y de Seguros.
+Las sociedades mutualistas de seguros sólo podrán establecer oficinas en el país. Para el establecimiento, cambio de ubicación y clausura de cualquier clase de oficinas, requerirán autorización previa de la Secretaría de Hacienda y Crédito Público, quien la otorgará o negará discrecionalmente oyendo la opinión de la Comisión Nacional Bancaria y de Seguros. No será necesaria la formalidad de la opinión a que alude este artículo, cuando se trate del cambio de ubicación de cualquier clase de oficinas.
 
 (REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 7 DE ENERO DE 1981)
 
@@ -1449,11 +1557,11 @@ Las sociedades mutualistas de seguros sólo podrán establecer oficinas en el pa
 
 El traspaso de la cartera de una sociedad mutualista de seguros a otra y la fusión de dos o más sociedades mutualistas, se efectuarán conforme a lo dispuesto por el artículo 66 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 96.
 
-Es aplicable a las sociedades mutualistas de seguros, lo dispuesto por los artículos 63, 64, 67, 68, 69 y 71 de esta Ley.
+Es aplicable a las sociedades mutualistas de seguros, lo dispuesto por los artículos 63, 64, 67, 68, 69, 71 y 72 de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
 
@@ -1475,9 +1583,9 @@ VI.- Cuando por causas imputables a la sociedad no aparezcan debida y oportuname
 
 VII.- Si la sociedad obra sin consentimiento de la Secretaría de Hacienda y Crédito Público o de la Comisión Nacional Bancaria y de Seguros, en los casos en que la Ley exija ese consentimiento;
 
-> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
-VIII.- Si la sociedad no constituye, dentro de los diez días de haber sido notificada, las reservas para las obligaciones pendientes de cumplir, que se ordenen de acuerdo con lo dispuesto por la fracción I, inciso c) del artículo 135 de esta Ley; y
+VIII.- Si la sociedad no constituye e invierte; dentro de los diez días de haber sido notificada, la reserva específica para obligaciones pendientes de cumplir, que se ordene de acuerdo con lo dispuesto por la fracción I, inciso c) del artículo 135 de esta Ley; y
 
 IX.- Si se disuelve, quiebra o entra en estado de liquidación, salvo que el procedimiento respectivo termine por rehabilitación y la Comisión Nacional Bancaria y de Seguros opine favorablemente a que continúe con la autorización.
 
@@ -1499,7 +1607,7 @@ En caso de reclamaciones de los mutualizados contra la sociedad, con motivo del 
 
 ### CAPITULO II. De la inspección y vigilancia
 
-(REFORMADO, D.O.F. 7 DE ENERO DE 1981) (F. DE E., D.O.F. 26 DE MARZO DE 1981)
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 99.
 
@@ -1575,21 +1683,19 @@ Las operaciones en moneda extranjera que practiquen las instituciones y sociedad
 
 Los libros de contabilidad y los registros a que se refiere esta Ley, deberán conservarse disponibles en las oficinas de la institución o sociedad mutualista de seguros y no podrán retardarse en sus asientos por más de 15 y 5 días, respectivamente. El registro de siniestros y vencimientos deberá llevarse al día.
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 105.
 
-Las instituciones y sociedades mutualistas de seguros, deberán publicar sus estados financieros anuales en el "Diario Oficial" de la Federación y en un diario de los de mayor circulación, según el modelo establecido por la Comisión Nacional Bancaria y de Seguros, dentro de los cuatro meses siguientes a su fecha. Tales publicaciones serán bajo la estricta responsabilidad de los administradores y comisarios de la institución o sociedad que hayan aprobado y dictaminado la autenticidad de los datos contenidos en dichos Estados contables. Ellos deberán cuidar de que éstos revelen efectivamente la verdadera situación financiera de la sociedad y quedarán sujetos a las sanciones correspondientes en el caso de que las publicaciones no se ajusten a esa situación.
+La Comisión Nacional Bancaria y de Seguros, queda facultada para establecer la forma y términos en que las instituciones y sociedades mutualistas de seguros deberán presentar y publicar sus estados financieros anuales; éstos deberán ser presentados junto con la información que deberán remitirle al efecto, dentro de los treinta días naturales siguientes al cierre del ejercicio. La publicación de tales estados financieros será bajo la estricta responsabilidad de los administradores y comisarios de la institución o sociedad mutualista que hayan sancionado y dictaminado la autenticidad de los datos contenidos en dichos estados contables. Ellos deberán cuidar de que éstos revelen efectivamente la verdadera situación financiera de la sociedad y quedarán sujetos a las sanciones correspondientes en el caso de que las publicaciones no se ajusten a esa situación.
 
-Sin perjuicio de lo anterior, la Comisión Nacional Bancaria y de Seguros, al revisar los estados financieros ordenará modificaciones o correcciones que, a su juicio, fueren fundamentales para ameritar su publicación, podrá acordar que se publique con las modificaciones pertinentes y, en su caso, esta publicación se hará dentro de los quince días siguientes a la notificación del acuerdo respectivo. En ningún otro caso podrán hacerse segundas publicaciones.
+La Comisión Nacional Bancaria y de Seguros, al revisar los estados financieros ordenará modificaciones o correcciones que, a su juicio, fueren fundamentales para ameritar su publicación, podrá acordar que se publique con las modificaciones pertinentes y, en su caso, esta publicación se hará dentro de los quince días siguientes a la notificación del acuerdo respectivo. En ningún otro caso podrán efectuarse segundas publicaciones.
 
-La revisión que la Comisión Nacional Bancaria y de Seguros realice, no tendrá efectos de carácter fiscal, y sólo se entenderá referida a las funciones de inspección y vigilancia que dicha Comisión ejerce.
+La revisión de la citada Comisión, no producirá efectos de carácter fiscal.
 
-Los estados financieros anuales deberán ser presentados a la Comisión Nacional Bancaria y de Seguros dentro de los treinta días siguientes al cierre del ejercicio correspondiente; asimismo, dentro del mes siguiente a la presentación del balance deberán enviar una copia certificada del acta de la junta del consejo de administración en que hayan sido aprobados, para estos efectos, junto con los documentos justificativos y un informe general sobre la marcha de los negocios de la sociedad, así como del dictamen del comisario con las observaciones propuestas que considere pertinentes, el cual deberá incluir una conclusión debidamente razonada de la situación financiera de la sociedad.
+Los auditores externos que dictaminen los estados financieros de las empresas de seguros, deberán reunir los requisitos que fije la Comisión Nacional Bancaria y de Seguros y suministrarle a ésta los informes y demás elementos de juicio, en los que sustenten sus dictámenes y conclusiones. Cuando las instituciones, y sociedades mutualistas de seguros estén facultadas para practicar operaciones de vida, estarán obligadas, además, a enviarle a la citada Comisión el dictamen de un actuario independiente a quien le serán aplicables los requisitos y condiciones señalados en este párrafo, sobre la valuación de la reserva matemática de primas correspondientes a las pólizas en vigor.
 
-Dentro del mes siguiente a la presentación de los estados financieros anuales, las instituciones y sociedades mutualistas de seguros, estarán obligadas a enviar a dicha comisión, informes y dictámenes sobre los mismos, de sus auditores, quienes además de reunir los requisitos que fije la Comisión Nacional Bancaria y de Seguros, deberán suministrar a esta los informes y demás elementos de juicio, en los que sustenten sus dictámenes y conclusiones.
-
-Las instituciones de seguros no podrán pagar los dividendos decretados por sus asambleas generales de accionistas, ni participaciones sobre utilidades, y las sociedades mutualistas de seguros no podrán repartir ningún remanente entre los mutualizados, antes de la aprobación de los estados financieros. Sin embargo, la Comisión Nacional Bancaria y de Seguros, discrecionalmente, podrá autorizar el reparto parcial de dichas utilidades o remanentes, en vista de la información y documentación que se le presenten.
+Las instituciones de seguros no podrán pagar los dividendos decretados por sus asambleas generales de accionistas, y las sociedades mutualistas de seguros no podrán repartir ningún remanente entre los mutualizados, antes de dar por concluida la revisión de los estados financieros. Sin embargo, la Comisión Nacional Bancaria y de Seguros, discrecionalmente, podrá autorizar el reparto parcial de dichos dividendos o remanentes, en vista de la información y documentación que se le presenten.
 
 Los repartos efectuados en contravención a lo dispuesto en el párrafo anterior, deberán ser restituidos a la sociedad. Serán solidariamente responsables a este respecto los accionistas o mutualizados que los hayan percibido y los administradores y funcionarios que los hayan pagado.
 
@@ -1601,11 +1707,11 @@ Los repartos efectuados en contravención a lo dispuesto en el párrafo anterior
 
 ###### ARTICULO 106.
 
-La inspección y vigilancia de las instituciones y de las sociedades mutualistas de seguros queda confiada a la Comisión Nacional Bancaria y de Seguros, la que además de las facultades y obligaciones que le atribuye esta Ley, se regirá para esos efectos en materia de seguros y respecto de las instituciones y sociedades mencionadas, de acuerdo con lo previsto por el Título V de la Ley General de Instituciones de Crédito y Organizaciones Auxiliares, relativo a la inspección y vigilancia.
+La inspección y vigilancia de las instituciones y de las sociedades mutualistas de seguros, queda confiada a la Comisión Nacional Bancaria y de Seguros, la que además de las facultades y obligaciones que le atribuye esta Ley, se regirá para esos efectos en materia de seguros y respecto de las instituciones y sociedades mencionadas, por las disposiciones relativas a la inspección y vigilancia de la Ley Reglamentaria del Servicio Público de Banca y Crédito.
+
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
 
 La Comisión Nacional Bancaria y de Seguros ejercerá, respecto a los síndicos y a los liquidadores, las funciones de vigilancia que tiene atribuidas en relación a las instituciones y sociedades mutualistas de seguros.
-
-> <small>(DEROGADO TERCER, CUARTO, QUINTO, SEXTO, SEPTIMO Y OCTAVO PARRAFO POR ARTICULO TRIGESIMO TRANSITORIO DE LEY QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA FISCAL, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
 
@@ -1729,8 +1835,6 @@ Cuando la Comisión Nacional Bancaria y de Seguros acuerde levantar la intervenc
 
 ### CAPITULO I. De las relaciones fiscales
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1978)</small>
-
 ###### ARTICULO 119.
 
 Las instituciones y sociedades mutualistas de seguros serán declaradas en estado de disolución, en cualquiera de los siguientes casos:
@@ -1851,31 +1955,19 @@ Sus honorarios serán fijados en el momento de su designación por la Secretarí
 
 ### CAPITULO III. De las infracciones y delitos
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 132.
 
-Los Estados, el Distrito Federal y los Municipios, sólo podrán gravar a las instituciones de seguros, con los siguientes impuestos:
-
-I.- Predial, que se cause sobre los inmuebles de su propiedad, en las mismas condiciones en que se cause por los demás obligados al pago de este impuesto.
-
-II.- Impuestos que causen dichos inmuebles, en razón de pavimentos, atarjeas y limpia, en las mismas condiciones en que deban pagarlos los demás causantes.
-
-III.- Traslación de dominio de bienes inmuebles.
+(DEROGADO, D.O.F. 14 DE ENERO DE 1985)
 
 ###### ARTICULO 133.
 
 (DEROGADO, D.O.F. 7 DE ENERO DE 1981)
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1978)</small>
-
 ###### ARTICULO 134.
 
-Las instituciones de seguros estarán sujetas al pago de impuestos, derechos, cooperaciones y gravámenes referidos a la mejoría específica de la propiedad raíz a consecuencia de la realización de obras públicas, o para la ejecución, conservación o mantenimiento de este tipo de obras, así como de todos los derechos que correspondan por la prestación de servicios públicos de la Federación, de los Estados y de los Municipios en las mismas condiciones en que deban pagarlos los demás causantes. Sin embargo, los créditos hipotecarios, refaccionarios o de habilitación o avío, así como las afectaciones en garantía, no podrán devengar como impuesto o derechos de inscripción en el Registro, sea de la Propiedad, de Hipotecas o de Comercio, o de Crédito, cantidad que exceda del 0.25% sobre el importe de la operación por una vez. La cancelación de las inscripciones no causará derecho alguno. Para los efectos de este artículo el Distrito Federal se equiparará a los Estados.
-
-Cuando la operación haya de inscribirse en varias entidades federativas, los impuestos o derechos se dividirán entre dichas entidades en la proporción que corresponda, atendiendo al valor fiscal de los bienes situados en cada una de ellas, y sin que nunca la suma de lo pagado exceda de la cuota antes señalada.
-
-Lo dispuesto en este artículo aprovechará lo mismo a las instituciones que a las personas que con ellas contraten. Los impuestos o derechos de registro que en él se autorizan deberán ser cubiertos por quien solicite la inscripción.
+(DEROGADO, D.O.F. 14 DE ENERO DE 1985)
 
 ###### ARTICULO 135.
 
@@ -1947,7 +2039,7 @@ IX.- Si alguna de las partes no estuviere de acuerdo en designar árbitro a la C
 
 En materia jurisdiccional:
 
-> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 I.- Los tribunales no darán entrada a demanda alguna contra una empresa de seguros si el actor en ella no afirma bajo protesta de decir verdad, que ante la Comisión Nacional Bancaria y de Seguros se agotó el procedimiento conciliatorio a que se refiere la fracción I del artículo anterior.
 
@@ -1955,23 +2047,17 @@ I.- Los tribunales no darán entrada a demanda alguna contra una empresa de segu
 
 En cualquier momento en que aparezca que no se agotó el procedimiento conciliatorio, deberá sobreseerse la instancia e imponer al actor las costas originadas por el procedimiento.
 
-> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1985)</small>
 
-II.- La omisión del procedimiento conciliatorio en la vía administrativa constituye además una excepción dilatoria que puede interponerse por la compañía demandada.
+II.- La omisión del procedimiento conciliatorio en la vía administrativa constituye, además, una excepción dilatoria que puede interponerse por la empresa de seguros demandada; y
 
-> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 1981)</small>
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1985)</small>
 
-III.- El juez de los autos comunicará a la Secretaría de Hacienda y Crédito Público la sentencia ejecutoria que se dicte en el procedimiento, y la Secretaría, al recibir la notificación requerirá a la institución aseguradora, si hubiere sido condenada, para que compruebe dentro de las setenta y dos horas siguientes, haber pagado las prestaciones a que hubiere sido condenada, y en caso de omitir la comprobación, la Secretaría de Hacienda mandará pagar a la persona, en cuyo favor se hubiere dictado la sentencia, del monto de la reserva constituida en los términos del artículo anterior. Si no fuere suficiente, la misma Secretaría de Hacienda y Crédito Público ordenará el remate en bolsa de los valores depositados en los términos de esta Ley y si ellos estuvieren afectos a las reservas de la institución de seguros, deberá reponerlos en los términos que esta Ley señala para la reconstitución de las reservas;
+III.- El juez de los autos comunicará a la Secretaría de Hacienda y Crédito Público la sentencia ejecutoria que se dicte en el procedimiento, para que se constate su cumplimiento o, en su caso, provea al mismo; la Secretaría, al recibir la notificación requerirá a la empresa de seguros, si hubiere sido condenada, para que compruebe dentro de las setenta y dos horas siguientes, haber pagado las prestaciones a que hubiere sido condenada, y en caso de omitir la comprobación, dicha Secretaría impondrá a la empresa de seguros una multa hasta por el importe de lo condenado, sin perjuicio de mandar pagar a la persona, en cuyo favor se hubiere dictado la sentencia, del monto de la reserva constituida e invertida en los términos del artículo anterior. Si no fuere suficiente, la misma Secretaría de Hacienda y Crédito Público ordenará el remate en bolsa de los valores depositados en los términos de esta Ley, y si ellos estuvieren afectos a las reservas de la empresa de seguros, ésta deberá reponerlos en los términos que esta Ley señala para la reconstitución de las reservas.
 
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1952)</small>
+IV.- (DEROGADA, D.O.F. 14 DE ENERO DE 1985)
 
-IV.- Los contratos concertados contra las prohibiciones del artículo 3°, no producirán efecto legal alguno, sin perjuicio del derecho del asegurado de pedir el reintegro de las primas pagadas.
-
-Esta disposición no es aplicable a los seguros contratados con la autorización específica de la Secretaría de Hacienda y Crédito Público a que se refiere el mismo artículo 3°.
-
-> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 1981)</small>
-
-V.- El contrato celebrado por una institución de seguros en contravención a las tarifas o a las condiciones de póliza aprobadas en los términos de esta Ley, es anulable, pero la acción sólo puede ser ejercida por el asegurado o el beneficiario o por sus causahabientes, contra la institución de seguros y nunca por ésta contra aquéllos.
+V.- (DEROGADA, D.O.F. 14 DE ENERO DE 1985)
 
 > <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
@@ -1985,167 +2071,141 @@ Si en el momento de contratar un seguro de vida o con posterioridad, presenta el
 
 ###### ARTICULO 138.
 
-Las infracciones a la presente Ley se sancionarán administrativamente por la Secretaría de Hacienda y Crédito Público en la forma siguiente:
+Las multas correspondientes a sanciones por las infracciones previstas en esta Ley serán impuestas administrativamente por la Secretaría de Hacienda y Crédito Público a razón de días de salario, a menos que en la propia Ley se disponga otra forma de sanción. Para calcular el importe de las multas a que se refiere el artículo siguiente, se tendrá como base el salario mínimo general vigente en el Distrito Federal, al momento de cometerse la infracción correspondiente.
 
-I.- Multa por cantidad equivalente hasta por el 50% del importe de los documentos que sean aceptados al cobro por instituciones de crédito que operen en la República, cuando tales documentos provengan de instituciones de seguros no concesionadas o de sociedades mutualistas de seguros no autorizadas de acuerdo con esta Ley, que tengan por objeto el cobro de primas.
-
-II.- Multa de $20,000.00 a $100,000.00 por violación al artículo 20 de la Ley. En este caso la Secretaría de Hacienda y Crédito Público la impondrá al propietario y a cada uno de los administradores o miembros del consejo de administración, directores o gerentes del establecimiento o de la sociedad, y además, será clausurado administrativamente por la Comisión Nacional Bancaria y de Seguros hasta que el nombre, denominación o razón social sea cambiado.
-
-III.- Pérdida de la participación de capital de que se trate en favor del Gobierno Federal o revocación de la concesión respectiva en los términos del artículo 75 de esta Ley, a juicio de la Secretaría de Hacienda y Crédito Público y según la gravedad del caso, cuando se viole lo dispuesto en la fracción I del artículo 29 de la propia Ley.
-
-IV.- Multa por el importe equivalente al 10% del valor de las acciones que excedan del porcentaje permitido o de las acciones con que se participe en la asamblea, según el caso, conforme valuación que de esas mismas acciones se haga de acuerdo con las reglas previstas en la fracción III del artículo 99 de esta Ley, a las personas que infringiendo lo dispuesto en la fracción II del artículo 29 de la misma Ley, lleguen a ser propietarias de acciones de una institución de seguros o de una sociedad de las comprendidas en el inciso a) de dicha fracción en exceso de los porcentajes permitidos, así como las que al participar en asamblea incurran en falsedad al hacer las manifestaciones a que se refieren los incisos a) y b) de la fracción III del citado artículo 29.
-
-En este caso los infractores tendrán un plazo de tres meses contado a partir de la imposición de la referida multa para corregir tal situación, vencido el cual, si no lo han hecho, podrá imponérseles nueva sanción por tres tantos del importe de la multa anterior. La Secretaría de Hacienda y Crédito Público podrá seguir imponiendo multas sucesivas al infractor por tres tantos de la multa que antecede, cuantas veces, vencidos plazos iguales al señalado, deje de corregir la situación irregular.
-
-V.- Multa hasta de $100,000.00 o la pérdida de su cargo, según la gravedad del caso, a los notarios, registradores o corredores que autoricen las escrituras o que inscriban actos en que se consigne alguna operación de las que esta Ley prohibe expresamente, o para celebrar la cual no esté facultado alguno de los otorgantes.
-
-VI.- Multa por la violación por parte de las instituciones o sociedades mutualistas de seguros, de las normas de la presente Ley o de los reglamentos o disposiciones administrativas que deriven de la misma conforme a lo siguiente:
-
-A.- Cuando las infracciones consistan en realizar operaciones prohibidas o en exceder los porcentajes máximos determinados por esta Ley, así como en no mantener los porcentajes mínimos que se exigen, serán penadas con multa que se determinará sobre el importe de la operación y sobre el exceso o el defecto de los porcentajes fijados, respectivamente, sin exceder del 4% de las reservas correspondientes o del capital pagado o fondo social cuando el porcentaje no se refiera a aquellas o se trate de operaciones prohibidas.
-
-B.- Cuando las infracciones no puedan determinarse conforme al párrafo anterior, se castigarán con multa hasta del 1% del capital pagado o fondo social de la institución o sociedad mutualista de seguros.
-
-> <small>(F. DE E., D.O.F. 26 DE MARZO DE 1981)</small>
-
-VII.- Multa de $10,000.00 a $100,000.00 a la institución de seguros, a sus empleados o a los agentes que en alguna forma ofrezcan o hagan descuentos o reducción de primas u otorguen algún otro beneficio no estipulado en la póliza, como aliciente para tomar o conservar un contrato de seguro.
-
-VIII.- Multa de $10,000.00 a $100,000.00, independientemente de las responsabilidades civiles o penales en que incurran, a los agentes de seguros, o funcionarios o empleados de una institución o sociedad mutualista de seguros, que proporcionen datos falsos o detrimentes o adversos respecto a las instituciones o sociedades mutualistas de seguros o que en cualquier forma hicieren competencia desleal a instituciones o sociedades mutualistas de seguros.
-
-> <small>(F. DE E., D.O.F. 26 DE MARZO DE 1981)</small>
-
-IX.- Multa de $10,000.00 a $100,000.00 a las instituciones o sociedades mutualistas de seguros y oficinas de representación de entidades reaseguradoras del extranjero, los agentes y ajustadores de seguros y los intermediarios de reaseguro, por la propaganda o publicación que hagan en contravención a lo dispuesto por el artículo 71 de esta Ley.
-
-> <small>(F. DE E., D.O.F. 26 DE MARZO DE 1981)</small>
-
-X.- Multa de $10,000.00 a $100,000.00 al agente de seguros, intermediario de reaseguro, ajustador de seguros o representante de una entidad reaseguradora del exterior, que opere sin la autorización que exige esta Ley.
-
-A las instituciones de seguros que celebren operaciones con la intervención de personas que se ostenten como agentes de seguros, intermediarios de reaseguro, ajustadores de seguros o representantes de una entidad reaseguradora del exterior, sin estar autorizados para actuar como tales, se les aplicará una multa de $50,000.00 a $200,000.00.
-
-> <small>(F. DE E., D.O.F. 26 DE MARZO DE 1981)</small>
-
-XI.- Multa de $10,000.00 a $100,000.00 si la infracción a cualquiera de las disposiciones de esta Ley, de su Reglamento y de las disposiciones administrativas que deriven de la misma, no tiene sanción especialmente señalada en este ordenamiento. Si se tratare de una institución o sociedad mutualista de seguros, la multa se impondrá tanto a dicha institución o sociedad mutualista de seguros como a cada uno de los consejeros, directores, administradores, funcionarios, apoderados, agentes o empleados que resulten autores o responsables de la infracción. La reincidencia se castigará con multa doble a la precedente.
-
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 139.
 
-Serán sancionadas las violaciones a lo dispuesto en el artículo 3o. de esta Ley, conforme a lo siguiente:
+Las sanciones correspondientes a las infracciones previstas en esta Ley, serán impuestas administrativamente por la Secretaría de Hacienda y Crédito Público de acuerdo a lo siguiente:
 
-I.- Con prisión de seis meses a diez años y multa hasta de $500,000.00, cuando se trate de las fracciones I y IV; y
+I.- Multa por cantidad equivalente hasta por el 50% del importe de los documentos que sean aceptados al cobro por instituciones de crédito que operen en la República, cuando tales documentos provengan de instituciones de seguros nos (sic) concesionadas o de sociedades mutualistas de seguros no autorizadas de acuerdo con esta Ley, que tengan por objeto el cobro de primas;
 
-II.- Con prisión de seis meses a seis años y multa hasta de $300,000.00, cuando se trate de la fracción II.
+II.- Multa de 1,000 a 5,000 días de salario, por violación al artículo 20 de esta Ley. En este caso la Secretaría de Hacienda y Crédito Público la impondrá al propietario y a cada uno de los administradores o miembros del consejo de administración, directores o gerentes del establecimiento o de la sociedad, y además, será clausurado administrativamente por la Comisión Nacional Bancaria y de Seguros hasta que el nombre, denominación o razón social sea cambiado;
 
-En los casos previstos en este artículo se procederá por querella de la Secretaría de Hacienda y Crédito Público, la que escuchará la opinión de la Comisión Nacional Bancaria y de Seguros.
+III.- Pérdida de la participación del capital de que se trate en favor del Gobierno Federal cuando se viole lo dispuesto en el último párrafo de la fracción I del artículo 29 de esta Ley;
+
+IV.- Multa por el importe equivalente al 10% del valor de las acciones que excedan del porcentaje permitido o de las acciones con que se participe en la asamblea, según el caso, conforme valuación que de esas mismas acciones se haga de acuerdo con las reglas previstas en la fracción III del artículo 99 de esta Ley, a las personas que infringiendo lo dispuesto en las fracciones I bis y II del artículo 29 de la misma Ley, lleguen a ser propietarias de acciones de una institución de seguros o de una sociedad de las comprendidas en el inciso b) de la citada fracción II, en exceso de los porcentajes permitidos, así como las que al participar en asamblea incurran en falsedad al hacer las manifestaciones a que se refieren los incisos a) y b) de la fracción III del citado artículo 29.
+
+En este caso los infractores tendrán un plazo de tres meses contado a partir de la imposición de la referida multa para corregir tal situación vencido el cual, si no lo han hecho, podrá imponérseles nueva sanción por tres tantos del importe de la multa anterior. La Secretaría de Hacienda y Crédito Público podrá seguir imponiendo multas sucesivas al infractor por tres tantos de la multa que antecede, cuantas veces, vencidos plazos iguales al señalado, deje de corregir la situación irregular;
+
+V.- Multa de 500 a 5,000 días de salario, o la pérdida de su cargo, según la gravedad del caso, a los notarios, registradores o corredores que autoricen las escrituras o que inscriban actos en que se consigne alguna operación de las que esta Ley prohibe expresamente, o para celebrar la cual no esté facultado alguno de los otorgantes;
+
+VI.- Multa por la violación por parte de las instituciones o sociedades mutualistas de seguros, de las normas de la presente Ley conforme a lo siguiente:
+
+a). Cuando las infracciones consistan en realizar operaciones prohibidas o en exceder los porcentajes máximos determinados por esta Ley, así como en no mantener los porcentajes mínimos que se exigen, serán penadas con multa que se determinará sobre el importe de la operación y sobre el exceso o el defecto de los porcentajes fijados, respectivamente, sin exceder del 4% de las reservas correspondientes o del capital pagado o fondo social cuando el porcentaje no se refiera a aquéllas o se trate de operaciones prohibidas.
+
+b). Cuando las infracciones no puedan determinarse conforme al párrafo anterior, se castigarán con multa hasta del 1% del capital pagado o fondo social de la institución o sociedad mutualista de seguros;
+
+VII.- Multa de 20 a 5,000 días de salario, a la institución de seguros, a sus empleados o los agentes de seguros que en alguna forma ofrezcan o hagan descuentos o reducción de primas u otorguen algún otro beneficio no estipulado en la póliza, como aliciente para tomar o conservar un contrato de seguro;
+
+VIII.- Multa de 250 a 2.500 días de salario independientemente de las responsabilidades civiles o penales en que incurran, a los agentes de seguros o funcionarios o empleados de una institución o sociedad mutualista de seguros, que proporcionen datos falsos o detrimentes o adversos, respecto a las instituciones o sociedades mutualistas de seguros o que en cualquier forma hicieren competencia desleal a instituciones o sociedades mutualistas de seguros;
+
+IX.- Multa de 500 a 5,000 días de salario independientemente de las responsabilidades civiles o penales en que incurran, a los auditores y actuarios que oculten, omitan o disimulen datos importantes en los informes y dictámenes a que se refiere el artículo 105 de esta Ley, o falseen los mismos;
+
+X.- Multa de 20 a 500 días de salario, a las instituciones o sociedades mutualistas de seguros u oficinas de representación de entidades reaseguradoras del extranjero, los agentes y ajustadores de seguros y los intermediarios de reaseguro, por la propaganda o publicación que hagan en contravención a lo dispuesto por el artículo 71 de esta Ley;
+
+XI.- Multa de 100 a 1,000 días de salario, al agente de seguros, intermediario de reaseguro, ajustador de seguros o representante de una entidad reaseguradora del exterior, que opere sin la autorización que exige esta Ley;
+
+A las instituciones de seguros que celebren operaciones con la intervención de personas que se ostenten como agentes de seguros, intermediarios de reaseguro, ajustadores de seguros o representantes de una entidad reaseguradora del exterior, sin estar autorizados para actuar como tales, se les aplicará una multa de 25 a 5,000 días de salario; y
+
+XII.- Multa de 20 a 5,000 días de salario, si las disposiciones violadas de esta Ley, no tienen sanción especialmente señalada en este ordenamiento. Si se tratara de una institución o sociedad mutualista de seguros, la multa se impondrá tanto a dicha institución o sociedad mutualista de seguros como a cada uno de los consejeros, directores, administradores, funcionarios, apoderados, agentes o empleados que resulten autores o responsables de la infracción. La reincidencia se podrá castigar con multa hasta por el doble de la precedente.
 
 ARTICULO 139 bis.- (DEROGADO, D.O.F. 7 DE ENERO DE 1981)
 
-(REFORMADO, D.O.F. 7 DE ENERO DE 1981) (F. DE E., D.O.F. 26 DE MARZO DE 1981)
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 140.
 
-Se impondrán las mismas penas señaladas en el artículo anterior a cada uno de los directores, gerentes, administradores o miembros del consejo de administración y a los representantes y agentes en general de personas morales que practiquen habitualmente las operaciones ilícitas a que aluden las fracciones I, II y IV del citado artículo 3o. de la Ley.
+Para proceder penalmente por los delitos previstos en los artículos 141, 142, 143, 144, 145 y 146 de esta Ley, será necesario que la Secretaría de Hacienda y Crédito Público formule petición, previa opinión de la Comisión Nacional Bancaria y de Seguros.
 
-> <small>(F. DE E., D.O.F. 26 DE MARZO DE 1981)</small>
+Las multas previstas en los artículos 141, 142, 143 y 145 de esta Ley, se impondrán a razón de días de salario. Para calcular su importe se tendrá como base el salario mínimo general vigente en el Distrito Federal al momento de realizarse la conducta sancionada.
 
-Cuando todos los actos que concurran a la celebración del contrato, incluyendo los de intermediación, se hubieren efectuado fuera del territorio nacional, se considerará, con excepción del caso previsto en el inciso 1) de la fracción II del artículo 3o. de la Ley, que el delito se comete por el solo hecho de registrar el pago de las primas en la contabilidad que dentro del territorio mexicano se lleve por el asegurado, por el tomador del seguro o por cualquier otro interesado en el mismo, o bien, porque cualquiera de esas personas realice en México algún acto que signifique cumplimiento de obligaciones o deberes, o ejercicio de derechos, derivados del contrato celebrado en el extranjero.
-
-Es excluyente de responsabilidad penal por desobediencia a la prohibición contenida en la fracción I del artículo 3o. de esta Ley. La ignorancia de que a una institución de seguros se hubiera revocado la concesión o a una sociedad mutualista la autorización, que originalmente tuviera para operar o de que, por cualquiera otra causa, se hubieran extinguido o suspendido sus efectos antes de contratar con ella, ignorancia que se presumirá en el tomador del seguro y en el asegurado o sus causahabientes, pero no en el intermediario.
-
-> <small>(F. DE E., D.O.F. 26 DE MARZO DE 1981)</small>
-
-La empresa o negociación que haya efectuado la operación u operaciones activas de seguros que prohibe la fracción I del referido artículo 3o., será intervenida administrativamente por la Comisión Nacional Bancaria y de Seguros, hasta que la operación u operaciones ilícitas, se corrija.
-
-En los casos previstos en este artículo se procederá por querella de la Secretaría de Hacienda y Crédito Público, la que escuchará la opinión de la Comisión Nacional Bancaria y de Seguros.
-
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 141.
 
-Serán sancionados con multa de $50,000.00 a $500,000.00 y prisión de seis meses a seis años:
+Serán sancionadas las violaciones a lo dispuesto en el artículo 3o. de esta Ley, conforme a lo siguiente:
 
-I.- Los consejeros, directores, auxiliares o empleados de una institución o sociedad mutualista de seguros que intencionalmente inscriban datos falsos en la contabilidad o que produzcan datos falsos de los documento o informes que deban proporcionar a la Secretaría de Hacienda y Crédito Público, a la institución u organismo que ésta determine conforme al artículo 57 de esta Ley o a la Comisión Nacional Bancaria y de Seguros; y
+I.- Con prisión de seis meses, a diez años y multa de 250 a 2,500 días de salario, a quienes, en contravención a lo dispuesto por las fracciones I y IV de este artículo practiquen operaciones activas de seguros o a quienes actúen como intermediarios en las operaciones que dichas personas realicen; y
 
-II.- Los inspectores y empleados de la Comisión Nacional Bancaria y de Seguros encargados de la vigilancia e inspección que intencionalmente presenten informes inexactos, oculten, omitan, o disimulen datos importantes de sus informes.
+II.- Con prisión de seis meses a seis años y multa de 150 a 1,500 días de salario, a las personas que contraten con empresas extranjeras, los seguros a que se refiere la fracción II del señalado artículo 3o.
 
-En los casos previstos en este artículo se procederá por querella de la Secretaría de Hacienda y Crédito Público, la que escuchará la opinión de la Comisión Nacional Bancaria y de Seguros.
+Se considerarán comprendidos dentro de los supuestos señalados en las dos fracciones anteriores y, consecuentemente, sujetos a las mismas sanciones los directores, gerentes, administradores o miembros del consejo de administración y los representantes y agentes en general de personas morales que practiquen habitualmente las operaciones ilícitas a que aluden las fracciones I, II y IV del citado artículo 3o. de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
+Cuando todos los actos que concurran a la celebración del contrato, incluyendo los de intermediación, se hubieren efectuado fuera del territorio nacional, se considerará, con excepción del caso previsto en el inciso 1) de la fracción II del artículo 3o. de esta Ley, que el delito se comete por el solo hecho de registrar el pago de las primas en la contabilidad que dentro del territorio mexicano se lleve por el asegurado, por el tomador del seguro o por cualquier otro interesado en el mismo, o bien, porque cualquiera de esas personas realice en México algún acto que signifique cumplimiento de obligaciones o deberes o ejercicio de derechos, derivados del contrato celebrado en el extranjero.
+
+Es excluyente de responsabilidad penal por desobediencia a la prohibición contenida en la fracción I del artículo 3o. de esta Ley, la ignorancia de que a una institución de seguros se hubiera revocado la concesión o a una sociedad mutualista la autorización, que originalmente tuviera para operar o de que, por cualquier otra causa se hubieran extinguido o suspendido sus efectos antes de contratar con ella, ignorancia que se presumirá en el tomador del seguro y en el asegurado o sus causahabientes, pero no en el intermediario.
+
+La empresa o negociación que haya efectuado la operación u operaciones activas de seguros que prohibe la fracción I del referido artículo 3o., será intervenida administrativamente por la Comisión Nacional Bancaria y de Seguros, hasta que la operación u operaciones ilícitas se corrijan.
+
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 142.
 
-Serán sancionados con multa de $50,000.00 a $500,000.00 y prisión de seis meses a diez años, a los consejeros, directores o empleados de una institución o sociedad mutualista de seguros:
+Se impondrá pena de prisión de seis meses a seis años y multa de 100 a 1,000 días de salario, al agente o al médico que dolosamente, o con ánimo de lucrar oculte a la empresa aseguradora, la existencia de hechos cuyo conocimiento habría impedido la celebración de un contrato de seguro. Igual sanción se aplicará al médico que suscriba un examen destinado a servir de base para la contratación de un seguro con una persona o entidad no facultada para funcionar en los términos de esta Ley, como institución o sociedad mutualista de seguros.
 
-I.- Que retiren en forma que no sea autorizada por esta Ley o graven o enajenen los bienes, créditos o valores en que estén invertidas las reservas, o cometan cualesquier (sic) otros actos que tengan por efecto disminuir la seguridad y garantía de dichos bienes;
-
-II.- Que en sus informes, cuentas o exposiciones a las asambleas generales de accionistas o de mutualizados, falseen en forma grave la situación de la empresa;
-
-III.- Que repartan utilidades o remanentes en oposición a las prescripciones de esta Ley, independientemente de la acción para que los accionistas que las reciban las devuelvan en un término no mayor de 3O días; y
-
-IV.- Que incurran en la violación de cualquiera de las prohibiciones que establecen los artículos 62 fracción XII y 93 fracción XIV de esta Ley.
-
-Las penas previstas en este artículo se aplicarán también a quienes a sabiendas hayan celebrado el negocio con la institución o sociedad mutualista de seguros, si se trata de personas físicas, o a quienes hayan representado a las sociedades participantes.
-
-> <small>(F. DE E., D.O.F. 26 DE MARZO DE 1981)</small>
-
-En los casos previstos en este artículo se procederá por querella de la Secretaría de Hacienda y Crédito Público, la que escuchará la opinión de la Comisión Nacional Bancaria y de Seguros.
-
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 143.
 
-Serán sancionados con prisión de seis meses a diez años, los funcionarios y los empleados de las instituciones y sociedades mutualistas de seguros:
+Se impondrá pena de prisión de seis meses a diez años y multa de 200 a 1,500 días de salario a los consejeros, comisarios, directores, funcionarios o empleados de una institución o sociedad mutualista de seguros:
+
+I.- Que retiren en forma que no sea autorizada por esta Ley o graven o enajenen los bienes, créditos o valores en que estén invertidas las reservas o cometan cualesquiera otros actos que tengan por efecto disminuir la seguridad y garantía de dichos bienes;
+
+II.- Que en sus informes, cuentas o exposiciones a las asambleas generales de accionistas o de mutualizados, falseen en forma grave la situación de la empresa;
+
+III.- Que repartan dividendos o remanentes en oposición a las prescripciones de esta Ley, independientemente de la acción para que los accionistas que las reciban las devuelvan en un término no mayor de treinta días;
+
+IV.- Que incurran en la violación de cualquiera de las prohibiciones que establecen los artículos 62 fracción XII y 93 fracción XIV de esta Ley; y
+
+V.- Que intencionalmente inscriban datos falsos en la contabilidad o que produzcan datos falsos de los documentos o informes que deban proporcionar a la Secretaría de Hacienda y Crédito Público, a la institución u organismo que esta determine conforme al artículo 57 de esta Ley o a la Comisión Nacional Bancaria y de Seguros.
+
+Las penas previstas en este artículo se aplicarán también, en su caso, a quienes a sabiendas hayan celebrado el negocio con la institución o sociedad mutualista de seguros, si se trata de personas físicas o a quienes hayan representado a las sociedades participantes.
+
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
+
+###### ARTICULO 144.
+
+Los funcionarios o empleados de instituciones de seguros y sociedades mutualistas que, con independencia de los cargos e intereses fijados por la institución o sociedad mutualista respectiva, por sí o por interpósita persona hayan obtenido de los sujetos de crédito, beneficios personales por su participación en el trámite u otorgamiento del crédito, serán sancionados con prisión de tres meses a tres años cuando la dádiva no sea valuable, o no exceda de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito y de dos a seis años de prisión cuando la dádiva exceda de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito.
+
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
+
+###### ARTICULO 145.
+
+Se impondrá pena de prisión de seis meses a diez años y multa de 500 a 5,000 días de salario a:
+
+I.- Las personas que, con el propósito de obtener un préstamo proporcionen a una institución o sociedad mutualista de seguros, datos falsos sobre el monto de activos o pasivos, de una entidad o persona física o moral, si como consecuencia de ello resulta quebranto patrimonial para la institución o sociedad mutualista;
+
+II.- Los funcionarios de una institución o sociedad mutualista de seguros que, conociendo la falsedad sobre el monto de los activos o pasivos, de una entidad o persona física o moral, concedan el préstamo a que se refiere la fracción anterior, produciéndose los resultados que se indican en la misma;
+
+III.- Las personas que para obtener préstamos de una institución o sociedad mutualista de seguros presenten avalúos que no correspondan a la realidad, de manera que el valor real de los bienes que ofrecen en garantía sea inferior al importe del crédito, resultando quebranto patrimonial para la institución o sociedad mutualista;
+
+IV.- Los acreditados que desvíen un crédito concedido por alguna institución o sociedad mutualista de seguros a fines distintos para los que se otorgó, si dicha finalidad fue determinante para el otorgamiento del crédito o de condiciones preferenciales en el mismo; y
+
+V.- Los funcionarios de la institución o sociedad mutualista de seguros que, conociendo los vicios que señala la fracción III de este artículo, concedan el préstamo, si el monto de la alteración hubiere sido determinante para concederlo y se produce quebranto patrimonial para la institución o sociedad mutualista.
+
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
+
+###### ARTICULO 146.
+
+Se impondrá pena de prisión de dos a diez años a los funcionarios y empleados de las instituciones y sociedades mutualistas de seguros:
 
 I.- Que omitan registrar en los términos del artículo 100 de esta Ley, las operaciones efectuadas por la institución o sociedad mutualista de que se trate, o que mediante maniobras alteren los registros para ocultar la verdadera naturaleza de las operaciones realizadas afectando la composición de activos, pasivos, cuentas contingentes o resultados;
 
-II.- Que falsifiquen, alteren, simulen o, a sabiendas, realicen operaciones que resulten en quebranto patrimonial de la institución o sociedad mutualista en la que presten sus servicios.
+II.- Que falsifiquen, alteren, simulen, o, a sabiendas, realicen operaciones que resulten en quebranto patrimonial de la institución o sociedad mutualista en la que presten sus servicios;
 
 III.- Que otorguen préstamos a sociedades constituidas con el propósito de obtener financiamiento a sabiendas de que las mismas no han integrado el capital que registren las actas constitutivas correspondientes;
 
 IV.- Que otorguen préstamos a personas físicas o morales cuyo estado de insolvencia les sea conocido, si resulta previsible al realizar la operación que carecen de capacidad económica para pagar o responder por el importe de las sumas acreditadas, produciendo quebrantos patrimoniales a la institución o sociedad mutualista;
 
-V.- Que renueven créditos vencidos parcial o totalmente a las personas físicas o morales a que se refiere la fracción IV anterior;
+V.- Que renueven créditos vencidos parcial o totalmente a las personas físicas o morales a que se refiere la fracción anterior;
 
-VI.- Que para liberar a un deudor, otorguen créditos a una o varias personas físicas o morales, que se encuentren en estado de insolvencia, sustituyendo en los registros de la institución o sociedad mutualista respectiva unos activos por otros; o
+VI.- Que para liberar a un deudor, otorguen créditos a una o varias personas físicas o morales, que se encuentren en estado de insolvencia, sustituyendo en los registros de la institución o sociedad mutualista respectiva unos activos por otros;
 
 VII.- Que, a sabiendas, permitan a un deudor desviar el importe del préstamo en beneficio de terceros, reduciendo notoriamente su capacidad para pagar o responder por el importe del crédito y, como consecuencia de ello, resulte quebranto patrimonial a la institución o sociedad mutualista; y
 
-VIII.- Que, a sabiendas, presenten a la Comisión Nacional Bancaria y de Seguros datos falsos sobre la solvencia del deudor o sobre el valor de las garantías que protegen los créditos, imposibilitándola a adoptar las medidas necesarias para que se realicen los ajustes correspondientes en los registros de la institución o sociedad mutualista respectiva.
-
-En los casos previstos en este artículo, se procederá por querella de la Secretaría de Hacienda y Crédito Público, la que escuchará la opinión de la Comisión Nacional Bancaria y de Seguros.
-
-(REFORMADO, D.O.F. 7 DE ENERO DE 1981) (F. DE E., D.O.F. 26 DE MARZO DE 1981)
-
-###### ARTICULO 144.
-
-Serán sancionados con multa hasta de $1.000,000.00 y prisión de seis meses a diez años:
-
-I.- Las personas que, con el propósito de obtener un préstamo proporcionen a una institución o sociedad mutualista de seguros, datos falsos sobre el monto de activos o pasivos de una entidad o persona física o moral, si como consecuencia de ello resulta quebranto patrimonial para la institución o sociedad mutualista;
-
-II.- Los funcionarios de una institución o sociedad mutualista de seguros que, conociendo la falsedad sobre el monto de los activos o pasivos, concedan el préstamo a que se refiere la fracción anterior, produciéndose los resultados que se indican en la misma.
-
-> <small>(F. DE E., D.O.F. 26 DE MARZO DE 1981)</small>
-
-III.- Las personas que para obtener préstamos de una institución o sociedad mutualista de seguros presenten avalúos que no correspondan a la realidad, de manera que el valor real de los bienes que ofrecen en garantía sea inferior al importe del crédito, resultando quebranto patrimonial para la institución o sociedad mutualista; y
-
-IV.- Los funcionarios de la institución o sociedad mutualista de seguros que, conociendo los vicios que señala la fracción anterior, concedan el préstamo, si el monto de la alteración hubiere sido determinante para concederlo y se produce quebranto patrimonial para la institución o sociedad mutualista.
-
-En estos casos se procederá por querella de la Secretaría de Hacienda y Crédito Público, la que escuchará a la Comisión Nacional Bancaria y de Seguros.
-
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
-
-###### ARTICULO 145.
-
-Serán sancionados con multas hasta de $100,000.00 y prisión de seis meses a seis años, los funcionarios y empleados de instituciones y sociedades mutualistas de seguros que, con independencia de los cargos e intereses fijados por la institución o sociedad mutualista respectiva, por si o por interpósita persona hayan obtenido de los sujetos de crédito beneficios económicos personales por su participación en el trámite u otorgamiento de crédito.
-
-En los casos previstos en este artículo se procederá por querella de la Secretaría de Hacienda y Crédito Público, la que escuchará la opinión de la Comisión Nacional Bancaria y de Seguros.
-
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
-
-###### ARTICULO 146.
-
-Será sancionado con multa de $10,000.00 a $100,000.00 y prisión de seis meses a seis años, el médico que suscriba un examen destinado a servir de base para la contratación de un seguro con una institución o sociedad mutualista de seguros no facultada para funcionar en los términos de esta Ley. Igual pena se aplicará al agente o al médico que dolosamente, o con ánimo de lucrar oculte a la empresa aseguradora, la existencia de hechos cuyo conocimiento habría impedido la celebración del contrato de seguro.
-
-En los casos previstos en este artículo se procederá por querella de la Secretaría de Hacienda y Crédito Público, la que escuchará la opinión de la Comisión Nacional Bancaria y de Seguros.
+VIII.- Que, a sabiendas, presenten a la Comisión Nacional Bancaria y de Seguros, datos falsos sobre la solvencia del deudor o sobre el valor de las garantías que protegen los créditos, imposibilitándola a adoptar las medidas necesarias para que se realicen los ajustes correspondientes en los registros de la institución o sociedad mutualista respectiva.
 
 ## TRANSITORIOS
 
@@ -2524,3 +2584,27 @@ El presente Decreto entrará en vigor el día 1o. de enero de 1984.
 ###### ARTICULO SEGUNDO.
 
 Los juicios arbitrales que al momento de la iniciación de la vigencia del presente Decreto se estén tramitando ante la Comisión Nacional Bancaria y de Seguros conforme a lo dispuesto con el texto anterior del artículo 135 de la Ley General de Instituciones de Seguros, se continuarán conforme a lo dispuesto por éste, pero las partes, de común acuerdo, podrán solicitar a la Comisión Nacional Bancaria y de Seguros que a partir de la fase procesal siguiente a la que se esté desahogando, se apliquen los términos que para el juicio arbitral de estricto derecho señala el artículo 135 que se reforma.
+
+D.O.F. 14 DE ENERO DE 1985.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan los artículos 61 fracción III, 132, 134 y 136, fracciones IV y V de la Ley General de Instituciones de Seguros.
+
+###### ARTICULO TERCERO.
+
+En caso de que en el primer año de implantado el procedimiento a que se refiere el artículo 47, fracción III de esta Ley, para la reserva de riesgos en curso, se produjera al cierre del ejercicio del mismo año una liberación por resultar superior la del año anterior, el importe de los recursos correspondientes a tal diferencia deberá traspasarse a la reserva de previsión.
+
+###### ARTICULO CUARTO.
+
+Las instituciones de seguros que a la fecha en que entre en vigor este Decreto, cuenten con agencias establecidas de acuerdo a la correspondiente autorización de la Secretaría de Hacienda y Crédito Público, continuarán operándolas pero ahora con el carácter de oficinas de servicio debiendo abstenerse de designarlas con denominación diversa.
+
+Las disposiciones administrativas vigentes que se hubiesen dictado anteriormente a la fecha en que entre en vigor este Decreto, para regular a las agencias de las instituciones de seguros, les seguirán siendo aplicables a las oficinas de servicio.
+
+###### ARTICULO QUINTO.
+
+Para el trámite de las infracciones cometidas antes de la vigencia del presente Decreto, se seguirá observando lo dispuesto por los textos anteriormente aplicables de esta Ley.
