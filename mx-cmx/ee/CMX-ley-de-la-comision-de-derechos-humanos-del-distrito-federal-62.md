@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-comision-de-derechos-humanos-del-distrito-federal-62"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-22"
-last_updated: "2003-01-14"
+last_updated: "2003-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1993-06-21"
 
 LEY DE LA COMISION DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE ENERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes el 22 de junio de 1993.
 
@@ -136,23 +136,41 @@ Para hacer el nombramiento, la Asamblea Legislativa del Distrito Federal, por co
 
 La o el Presidente de la Comisión de Derechos Humanos del Distrito Federal durará en su cargo cuatro años, pudiendo ser nombrado y confirmado en su caso, solamente para un segundo período en los términos del artículo anterior.
 
-> <small>(REFORMADO, G.O. 16 DE MAYO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTÍCULO 11.
 
-El Consejo de la Comisión de Derechos Humanos del Distrito Federal estará integrado por diez ciudadanos, entre hombres y mujeres que gocen de reconocido prestigio dentro de la sociedad, y cuando menos siete de ellos no deberán ocupar ningún cargo, comisión o empleo como servidor público. Al frente de este organismo estará el Presidente de la Comisión.
+El Consejo de la Comisión de Derechos Humanos del Distrito Federal estará integrado por diez ciudadanos y ciudadanas que gocen de reconocido prestigio dentro de la sociedad por su labor en la promoción, estudio o difusión de los derechos humanos. Al menos siete consejeros no deberán ocupar ningún cargo, comisión o empleo como servidor público. Al frente de este órgano estará el Presidente de la Comisión.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2002)</small>
 
 El cargo de miembro del Consejo tendrá carácter honorario, con excepción del de su Presidente.
 
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2002)</small>
+
 En ningún caso, la integración del Consejo excederá del 60% de personas del mismo sexo.
 
-Cada año deberá ser sustituido el integrante de mayor antigüedad en el Consejo.
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2003)</small>
+
+Cada año deberán ser sustituidos los dos miembros de mayor antigüedad del Consejo.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2002)</small>
 
 Esta sustitución se realizará independientemente de las extraordinarias que deban efectuarse en caso de que por cualquier motivo, algún miembro del Consejo no concluya el periodo para el cual fue nombrado.
 
-Bajo ninguna circunstancia un Consejero podrá durar en su encargo un término mayo (sic) de diez años en forma continua.
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2003)</small>
+
+Los consejeros no podrán durar en el cargo más de cinco años, a menos que sean reelectos sólo para un segundo periodo inmediato. Bajo ninguna circunstancia cualquier consejero que haya renunciado a su cargo podrá ser electo nuevamente como miembro del Consejo.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2003)</small>
+
+Si es el caso, durante el proceso de sustitución se valorará el desempeño de los Consejeros que puedan ser reelectos, de manera que en el dictamen aprobado por la Asamblea Legislativa del Distrito Federal que se emita al efecto, se establecerá si se reeligió o sustituyó a los consejeros que concluyeron su encargo.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2002)</small>
 
 De ocurrir una sustitución extraordinaria de algún Consejero, el que resultase electo será considerado el Consejero de menor antigüedad y se incorporará a la lista de sustituciones en ese carácter.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2002)</small>
 
 En el supuesto de que la Asamblea Legislativa del Distrito Federal nombre a dos o más integrantes del Consejo al mismo tiempo, la Comisión de Derechos Humanos de la Asamblea Legislativa del Distrito Federal realizará un (sic) insaculación para conocer el orden en el que serán sustituidos.
 
@@ -170,7 +188,7 @@ Las y los visitadores generales serán nombrados y removidos libremente por la o
 
 I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
-II. -Ser mayor de treinta años de edad, el día de su nombramiento;
+II. - Ser mayor de treinta años de edad, el día de su nombramiento;
 
 III.- No haber sido condenado por delito intencional o doloso, y
 
@@ -813,3 +831,13 @@ Tercero.- En un plazo de 60 días naturales, el Consejo de la Comisión de Derec
 Cuarto.- Hasta en tanto no se realicen las adecuaciones mencionadas en el artículo anterior, será aplicable el Reglamento Interno vigente en lo que no se oponga al presente decreto.
 
 Quinto.- Publíquese el presente decreto en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 23 DE DICIEMBRE DE 2003.
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Artículo Segundo. Publíquese en el Diario Oficial de la Federación para su mayor difusión.
+
+Artículo Tercero. Con objeto de no vulnerar los derechos adquiridos de los actuales integrantes del Consejo de la Comisión de Derechos Humanos del Distrito Federal, las dos sustituciones ordinarias anuales, así como la duración del encargo hasta por un periodo de cinco años, se aplicarán a partir de las sustituciones o reelecciones posteriores a la entrada en vigor del presente decreto.
+
+Artículo Cuarto. En caso de que la Asamblea Legislativa del Distrito Federal elija a más de un integrante del Consejo de la Comisión de Derechos Humanos del Distrito Federal y en tanto se regulariza la sustitución o reelección de dos consejeros en los términos de la presente reforma, la Comisión de Derechos Humanos de dicha Asamblea realizará una insaculación para determinar el orden en que deberán ser sustituidos, de tal manera que un consejero sea sustituido o reelecto dentro de cinco años, el siguiente dentro de cuatro y así sucesivamente.
