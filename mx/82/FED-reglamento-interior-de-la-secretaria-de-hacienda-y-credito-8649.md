@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-hacienda-y-credito-8649
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-09-11"
-last_updated: "2001-03-22"
+last_updated: "2001-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8649&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-09-06"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 2001.
 
 Reglamento publicado en el Diario Oficial de la Federación el miércoles 11 de septiembre de 1996.
 
@@ -171,7 +171,9 @@ XII. 4 Dirección General Adjunta de Estudios Estratégicos, Planeación y Vincu
 
 XIII. Dirección Técnica de Tratados Internacionales;
 
-XIV. (DEROGADA, D.O.F. 22 DE MARZO DE 2001)
+> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 2001)</small>
+
+XIV. Dirección General Adjunta de Investigación de Operaciones.
 
 XV. Unidad de Inversiones y de Desincorporación de Entidades Paraestatales;
 
@@ -731,9 +733,7 @@ LI. Instrumentar acciones para el intercambio de conocimientos técnicos con los
 
 LII. Fungir como enlace entre la Secretaría y las diversas dependencias y entidades del Ejecutivo Federal o unidades de los organismos internacionales, en los asuntos de su competencia;
 
-> <small>(ADICIONADA, D.O.F. 22 DE MARZO DE 2001)</small>
-
-LIII. Suscribir o rubricar, en su caso, dentro del ámbito de sus facultades, todos aquellos documentos que le requiera el Secretario;
+LIII. (DEROGADA, D.O.F. 30 DE ABRIL DE 2001)
 
 > <small>(ADICIONADA, D.O.F. 22 DE MARZO DE 2001)</small>
 
@@ -1127,9 +1127,7 @@ XV. Formular, para aprobación superior, las políticas y los programas globales
 
 XVI. Participar en el análisis y evaluación de los aspectos financieros de las entidades paraestatales, cuando corresponda, y proponer las medidas que procedan;
 
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
-
-XVII. Establecer las políticas relativas al Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios, de conformidad con la legislación aplicable;
+XVII. (DEROGADA, D.O.F. 24 DE DICIEMBRE DE 2001)
 
 > <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
 
@@ -2425,9 +2423,33 @@ IX. Conocer de la problemática y opiniones vertidas por los diversos grupos o s
 
 X. Servir de enlace entre la Secretaría y las unidades administrativas de la Secretaría de Relaciones Exteriores, en el ámbito de su competencia.
 
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 2001)</small>
+
 ###### Artículo 59.
 
-(DEROGADO, D.O.F. 30 DE JUNIO DE 1997)
+Compete a la Dirección General Adjunta de Investigación de Operaciones, ejercer las atribuciones siguientes:
+
+I. Establecer los sistemas, métodos y procedimientos en las materias de su competencia, salvo aquellos que competa establecer a otra unidad administrativa de la Secretaría;
+
+II. Evaluar la operación en las materias de su competencia, y proponer, en su caso, las medidas que procedan;
+
+III. Notificar las resoluciones que dicte, los citatorios, requerimientos, solicitudes de informes y otros actos administrativos, así como sus actos relacionados con el ejercicio de las facultades;
+
+IV. Solicitar y coordinarse con las autoridades fiscales competentes para la práctica de los actos de fiscalización que sean necesarios con motivo del ejercicio de las facultades conferidas conforme a este artículo;
+
+V. Designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia;
+
+VI. Participar en la formulación de políticas y en los programas de investigación, así como estudiar e investigar las pruebas, constancias, documentación e informes sobre la comisión de las conductas ilícitas previstas en el Artículo 400-Bis del Código Penal Federal y demás disposiciones afines, integrando los expedientes respectivos, para hacerlo del conocimiento de la Procuraduría Fiscal de la Federación, para que ésta formule las querellas o denuncias que, en su caso, procedan;
+
+VII. Aplicar las disposiciones de carácter general que emitan las unidades administrativas competentes de la Secretaría para prevenir y detectar actos u omisiones, con recursos, derechos o bienes que procedan o representen el producto de un probable delito;
+
+VIII. Intervenir en la obtención, análisis y estudio de la información y documentación que se solicite por parte de las autoridades competentes de los países con los que se tengan celebrados convenios o tratados en las materias de su competencia;
+
+IX. Expedir certificaciones de los expedientes relativos a los asuntos de su competencia;
+
+X. Participar en la formulación y ejecutar los convenios o tratados en los asuntos de su competencia, y
+
+XI. Recibir, capturar y analizar, de conformidad con las disposiciones de carácter general que emitan las unidades administrativas competentes de la Secretaría, la información contenida en los reportes que están obligadas a presentar las instituciones de sistema financiero relacionados con sus clientes y usuarios, y en las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera.
 
 ###### Artículo 60.
 
@@ -2441,33 +2463,31 @@ Compete a la Unidad de Inversiones y de Desincorporación de Entidades Paraestat
 
 I. Establecer criterios para la formulación de programas y proyectos de inversión multianuales a nivel nacional, sectorial y regional, a partir de los objetivos, prioridades y estrategias del Plan Nacional de Desarrollo, así como para la participación de los sectores social y privado, cuando se trate de inversiones concertadas con el sector público;
 
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2001)</small>
 
-II. Asesorar y apoyar a las áreas competentes de la Secretaría, así como a las dependencias y entidades que lo requieran, en la presentación, evaluación o gestión de nuevos programas y proyectos de inversión;
+II. Asesorar y apoyar a las áreas competentes de la Secretaría, así como a las dependencias y entidades que lo requieran, en la presentación, evaluación o gestión de programas y proyectos de inversión;
 
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2001)</small>
 
-III. Analizar y proponer, en coordinación con dependencias y entidades, esquemas de financiamiento interno y externo para los nuevos programas y proyectos multianuales de inversión, atendiendo a las circunstancias coyunturales y orientando la participación de los sectores público, privado y social;
+III. Analizar y proponer, en coordinación con dependencias y entidades, esquemas de financiamiento interno y externo para los programas y proyectos multianuales de inversión, atendiendo a las circunstancias coyunturales y orientando la participación de los sectores público, privado y social;
 
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2001)</small>
 
-IV. Dictaminar la evaluación de los nuevos programas y proyectos de inversión pública multianuales de las dependencias y entidades de la administración pública federal, para considerar su inclusión en el proyecto de Presupuesto de Egresos de la Federación;
+IV. Dictaminar la evaluación de los nuevos programas y proyectos de inversión pública multianuales y, respecto de aquellos dictaminados favorablemente por la propia Unidad, evaluar sus avances y proponer, en su caso, las alternativas de modificación que se requieran para su revalidación, reorientación y optimización;
 
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2001)</small>
 
-V. Proponer la normatividad correspondiente a la iniciación de nuevos programas y proyectos de inversión, prevista en el Presupuesto de Egresos de la Federación;
+V. Proponer la normatividad correspondiente a la inclusión de programas y proyectos de inversión, en el proyecto Presupuesto de Egresos de la Federación;
 
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2001)</small>
 
-VI. Diseñar, operar y mantener el registro de la cartera de nuevos programas y proyectos de inversión y proporcionar a las dependencias y entidades de la administración pública federal apoyo informativo en materia de inversión;
+VI. Diseñar, operar y mantener el registro de la cartera de programas y proyectos de inversión y proporcionar a las dependencias y entidades de la administración pública federal apoyo informativo en materia de inversión;
 
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2001)</small>
 
-VII. Verificar, en coordinación con las instancias competentes, la congruencia de los nuevos programas y proyectos de inversión con el Plan Nacional de Desarrollo y con los programas respectivos;
+VII. Verificar, en coordinación con las instancias competentes, la congruencia de los programas y proyectos de inversión con el Plan Nacional de Desarrollo y con los programas respectivos;
 
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
-
-VIII. Efectuar el seguimiento de los nuevos programas y proyectos de inversión dictaminados favorablemente, evaluar sus avances y proponer, en su caso, las alternativas de modificación que se requieran para su revalidación, reorientación y optimización;
+VIII. (DEROGADA, D.O.F. 30 DE ABRIL DE 2001)
 
 IX. Coordinar, supervisar, controlar y ejecutar los procesos que el Secretario o la Comisión Intersecretarial de Desincorporación le encomienden para la enajenación de los títulos representativos del capital social de las empresas en las que el Gobierno Federal participe, ya sea directamente o a través de entidades paraestatales, así como de aquellos otros activos susceptibles de ser utilizados como unidades económicas con fines productivos;
 
@@ -2539,13 +2559,19 @@ Compete a la Unidad de Servicio Civil:
 
 I. Diseñar, coordinar, supervisar y evaluar el sistema de servicio civil de carrera, así como captar, analizar e integrar la información básica necesaria;
 
-II. Expedir normas y emitir dictámenes en materia de catálogos de puestos, tabuladores de sueldos, sistemas escalafonarios, pago de remuneraciones, prestaciones, servicios personales y, en general, sobre administración y desarrollo de personal, así como operar el sistema de información y registro correspondientes;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2001)</small>
+
+II. Expedir normas en materia de catálogos de puestos, tabuladores de sueldos, sistemas escalafonarios, pago de remuneraciones, prestaciones, servicios personales y, en general, sobre administración y desarrollo de personal, así como operar el sistema de información y registro respectivos y, en su caso, emitir los dictámenes que en dichas materias corresponda;
 
 III. Fijar las políticas generales para el establecimiento y revisión de las condiciones generales de trabajo de las dependencias y entidades y diseñar los procedimientos para la integración, reubicación y reasignación de personal;
 
-IV. Establecer políticas y expedir normas sobre las estructuras ocupacionales y registrar éstas, así como para racionalizar el aprovechamiento y magnitud de la fuerza de trabajo de las dependencias y entidades;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2001)</small>
 
-V. Autorizar y registrar, conjuntamente con la Secretaría de Contraloría y Desarrollo Administrativo en el ámbito de sus respectivas competencias, las propuestas de estructuras orgánicas y ocupacionales de las dependencias y entidades de la administración pública federal, así como sus modificaciones;
+IV. Establecer políticas y expedir normas sobre las estructuras ocupacionales para racionalizar el aprovechamiento y magnitud de la fuerza de trabajo de las dependencias y entidades;
+
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2001)</small>
+
+V. Autorizar y registrar, conjuntamente con la Secretaría de Contraloría y Desarrollo Administrativo en el ámbito de sus respectivas competencias, las estructuras orgánicas y ocupacionales de las dependencias y entidades de la administración pública federal, así como sus modificaciones;
 
 VI. Estudiar y emitir resoluciones, en los términos de las disposiciones legales aplicables, sobre beneficios con cargo al erario federal, respecto de pensiones, haberes de retiro, jubilaciones y compensaciones;
 
@@ -2557,7 +2583,9 @@ IX. Diseñar y proponer, con la participación que corresponda a las demás áre
 
 X. Promover, con la participación que corresponda a las demás áreas de la Secretaría, los programas de modernización administrativa en materia de organización, desconcentración, descentralización, sectorización y sistemas con las dependencias y entidades; evaluar los avances de la modernización de la administración pública federal y proporcionar asesoría y apoyo técnico en estas materias;
 
-XI. Dictaminar, en coordinación con las áreas competentes de la Secretaría, sobre la viabilidad y conveniencia de las propuestas a los cambios de organización que determinen los titulares de las dependencias y entidades de la administración pública federal, que impliquen modificaciones a su estructura orgánica básica y que deban reflejarse en su reglamento interior, así como registrar las estructuras organizacionales de las dependencias y entidades, y
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2001)</small>
+
+XI. Verificar, en coordinación con las áreas competentes de la Secretaría, que los cambios de organización de las dependencias y entidades de la administración pública federal, que impliquen modificaciones a su estructura orgánica básica, se lleven a cabo de conformidad con las disposiciones aplicables, y
 
 XII. Resolver los asuntos que las disposiciones legales que integren el régimen de los servidores públicos y las estructuras orgánicas y ocupacionales de las dependencias y entidades de la administración pública federal atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables del Secretario.
 
@@ -3939,9 +3967,9 @@ XXI. Instrumentar acciones para el intercambio de conocimientos técnicos con lo
 
 XXII. Fungir como enlace entre la Secretaría y las diversas dependencias y entidades del Ejecutivo Federal o unidades de los organismos internacionales, en los asuntos de su competencia;
 
-> <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2001)</small>
 
-XXIII. Denunciar o querellarse ante el Ministerio Público, por la comisión de las conductas ilícitas previstas en el artículo 400 Bis del Código Penal Federal y demás disposiciones relacionadas con operaciones con dinero o bienes de actividades ilícitas o en las que sea necesario que la Secretaría presente denuncia, querella o petición para proceder penalmente, una vez que el Servicio de Administración Tributaria le haya remitido las pruebas, constancias y demás documentación que sean necesarias para su formulación, así como coadyuvar con las autoridades competentes, en representación de la Secretaría, en los procedimientos penales de que se trate;
+XXIII. Denunciar o querellarse ante el Ministerio Público, por la comisión de las conductas ilícitas previstas en el artículo 400 Bis del Código Penal Federal y demás disposiciones relacionadas con operaciones con dinero o bienes de actividades ilícitas o en las que sea necesario que la Secretaría presente denuncia, querella o petición para proceder penalmente, una vez que la unidad administrativa competente de la Secretaría le haya remitido las pruebas, constancias y demás documentación que sean necesarias para su formulación, así como coadyuvar con las autoridades competentes, en representación de la Secretaría, en los procedimientos penales de que se trate;
 
 XXIV. (DEROGADA, D.O.F. 22 DE MARZO DE 2001)
 
@@ -4091,7 +4119,9 @@ Compete a la Dirección General de Delitos Financieros y de Operaciones con Recu
 
 I. Estudiar y recabar las pruebas, constancias, documentación e informes sobre la comisión de delitos previstos en las leyes que rigen a las instituciones de crédito, de seguros y fianzas, a las organizaciones y actividades auxiliares del crédito, al mercado de valores, al sistema de ahorro para el retiro y demás instituciones que integren el sistema financiero y las relativas a la comisión de delitos de los servidores públicos de las entidades del sector coordinado por la Secretaría, así como de otros hechos delictuosos en que ésta resulte ofendida, o de aquéllos en los que tenga interés;
 
-II. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior de este artículo, que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello, y proponer la petición de sobreseimiento del proceso u otorgar el perdón en los casos que proceda; asimismo, denunciar o querellarse respecto de la comisión de las conductas ilícitas previstas en el artículo 400 Bis del Código Penal Federal y demás disposiciones relacionadas con operaciones con dinero o bienes de actividades ilícitas o en las que sea necesario que la Secretaría presente denuncia, querella o petición para proceder penalmente, una vez que el Servicio de Administración Tributaria le haya remitido las pruebas, constancias y demás documentación que sean necesarias para su formulación;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2001)</small>
+
+II. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior de este artículo, que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello, y proponer la petición de sobreseimiento del proceso u otorgar el perdón en los casos que proceda; asimismo, denunciar o querellarse respecto de la comisión de las conductas ilícitas previstas en el artículo 400 Bis del Código Penal Federal y demás disposiciones relacionadas con operaciones con dinero o bienes de actividades ilícitas o en las que sea necesario que la Secretaría presente denuncia, querella o petición para proceder penalmente, una vez que la unidad administrativa competente de la Secretaría le haya remitido las pruebas, constancias y demás documentación que sean necesarias para su formulación;
 
 III. Coadyuvar con las autoridades competentes, en representación de la Secretaría, en los procedimientos penales relativos a los hechos delictuosos a que se refieren las fracciones I y II de este artículo;
 
@@ -4147,7 +4177,9 @@ IX. Acordar con el Director General de Delitos Financieros y de Operaciones con 
 
 Compete a la Dirección de Operaciones con Recursos de Procedencia Ilícita:
 
-I. Estudiar las pruebas, constancias, documentación e informes que le sean proporcionados por el Servicio de Administración Tributaria sobre la comisión de las conductas ilícitas previstas en el artículo 400 Bis del Código Penal Federal y demás disposiciones relacionadas con operaciones con dinero o bienes de actividades ilícitas o en las que sea necesario que la Secretaría presente denuncia, querella o petición para proceder penalmente, integrando los expedientes relativos, así como denunciar o querellarse en los casos que proceda, una vez que el Servicio de Administración Tributaria le haya remitido las pruebas, constancias y demás documentación que sean necesarias para su formulación y, coadyuvar con las autoridades competentes, en representación de la Secretaría, en los procedimientos penales de que se trate;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2001)</small>
+
+I. Estudiar las pruebas, constancias, documentación e informes que le sean proporcionados por la unidad administrativa competente de la Secretaría, sobre la comisión de las conductas ilícitas previstas en el artículo 400 Bis del Código Penal Federal y demás disposiciones relacionadas con operaciones con dinero o bienes de actividades ilícitas o en las que sea necesario que la Secretaría presente denuncia, querella o petición para proceder penalmente, integrando los expedientes relativos, así como denunciar o querellarse en los casos que proceda, una vez que la unidad administrativa competente de la Secretaría le haya remitido las pruebas, constancias y demás documentación que sean necesarias para su formulación y, coadyuvar con las autoridades competentes, en representación de la Secretaría, en los procedimientos penales de que se trate;
 
 II. Coadyuvar con las autoridades competentes, en representación de la Secretaría, en los procedimientos penales relativos a los hechos delictuosos a que se refiere la fracción I de este artículo;
 
@@ -5221,11 +5253,11 @@ IX. Certificar copias de documentos que obren en los archivos del Instituto.
 
 El Instituto Nacional de Estadística, Geografía e Informática cuenta con una Contraloría Interna, órgano interno de control, al frente de la cual el Contralor Interno designado en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de auditoría, quejas y responsabilidades designados en los mismos términos.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1997)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1997)</small>
 
 Dichos servidores públicos ejercerán las atribuciones a que se refiere el artículo 98-A de este Reglamento en el ámbito de competencia del Instituto.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1997)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1997)</small>
 
 El Instituto proporcionará al Contralor Interno los recursos humanos y materiales que requiera para la atención de los asuntos a su cargo. Asimismo los servidores públicos del Instituto están obligados a proporcionarle el auxilio que requiera para el desempeño de sus facultades.
 
@@ -5400,3 +5432,19 @@ Cuarto. Cuando en este decreto se dé una denominación nueva o distinta a algun
 En relación con el personal, los expedientes en trámite, el archivo, el mobiliario y en general el equipo que aquélla haya utilizado, los mismos pasarán a la nueva unidad o unidades competentes, distribuyéndose, en su caso, de conformidad con el ámbito de facultades que a cada una corresponda, con la participación que, en su caso, competa al Oficial Mayor de la Secretaría.
 
 Quinto. Las referencias que se hacen y las atribuciones que se otorgan a la Procuraduría Fiscal de la Federación y a la Subprocuraduría Fiscal Federal de Investigaciones en leyes, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones que se relacionen con las conductas ilícitas previstas en el artículo 400-Bis del Código Penal Federal, así como otras relacionadas con operaciones con dinero o bienes de actividades ilícitas, se entenderán hechas a las Direcciones Generales de Banca y Ahorro y de Seguros y Valores, en términos del Transitorio Segundo del presente Decreto, así como al Servicio de Administración Tributaria de acuerdo a las facultades que tenga otorgadas en esa materia, sin menoscabo del ejercicio de las facultades que les correspondan a la Procuraduría Fiscal de la Federación y la Subprocuraduría Fiscal Federal de Investigaciones, en el ámbito de sus respectivas competencias.
+
+D.O.F. 30 DE ABRIL DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los Oficiales Mayores de las dependencias y sus equivalentes en las entidades de la Administración Pública Federal serán responsables de elaborar la evaluación socioeconómica de todos sus programas y proyectos de inversión pública y solicitar la inclusión de éstos en la Cartera de Programas y Proyectos de Inversión, conforme a las disposiciones que para tal efecto emita la Secretaría de Hacienda y Crédito Público, por conducto de la Unidad de Inversiones y de Desincorporación de Entidades Paraestatales; asimismo, serán responsables de emitir los dictámenes administrativos relacionados con las modificaciones a las estructuras orgánicas y ocupacionales, así como de las plantillas de personal operativo de las dependencias y entidades, conforme a las disposiciones que establezcan el Manual de Normas Presupuestarias para la Administración Pública Federal, y las demás que para tal efecto emitan las Secretarías de Hacienda y Crédito Público y de Contraloría y Desarrollo Administrativo, en el ámbito de sus respectivas competencias.
+
+Para la debida aplicación de lo dispuesto en el párrafo anterior, la Secretaría de Hacienda y Crédito Público emitirá, dentro de los cinco días hábiles siguientes a la publicación de este Decreto, las modificaciones correspondientes al Manual de Normas Presupuestarias para la Administración Pública Federal.
+
+TERCERO.- Las solicitudes que en materia de modificaciones a las estructuras orgánicas y ocupacionales y a las plantillas de personal operativo de las dependencias y entidades de la Administración Pública Federal, así como de dictamen de los proyectos de inversión que se encuentren en trámite ante la Secretaría de Hacienda y Crédito Público a la fecha de entrada en vigor del presente Decreto, se atenderán conforme al Manual de Normas Presupuestarias para la Administración Pública Federal modificado de acuerdo con lo dispuesto en el transitorio anterior, salvo que el solicitante manifieste por escrito y dentro de los quince días siguientes a dicha entrada en vigor, su intención de continuar con el trámite conforme a las disposiciones vigentes en la fecha de su presentación.
+
+CUARTO.- Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite en la Administración Central de Investigación de Operaciones del Servicio de Administración Tributaria, serán tramitados hasta su conclusión por la Dirección General Adjunta de Investigación de Operaciones de la Secretaría de Hacienda y Crédito Público.
+
+El personal, expedientes, archivo, mobiliario y, en general, equipo de la Administración Central de Investigación de Operaciones del Servicio de Administración Tributaria pasarán a la Dirección General Adjunta de Investigación de Operaciones de la Secretaría de Hacienda y Crédito Público.
+
+QUINTO.- Quedan sin efecto, a partir de la entrada en vigor de este Decreto, las disposiciones administrativas que se opongan al mismo.
