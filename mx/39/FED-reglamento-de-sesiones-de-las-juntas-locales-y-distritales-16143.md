@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-sesiones-de-las-juntas-locales-y-distritales-1614
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-05-15"
-last_updated: "2000-05-15"
+last_updated: "2000-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16143&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-04-27"
 
 REGLAMENTO DE SESIONES DE LAS JUNTAS LOCALES Y DISTRITALES EJECUTIVAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JUNIO DE 2000.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 15 de mayo de 2000.
 
@@ -95,6 +95,8 @@ b) Los documentos que se refieren en el párrafo cuatro del presente artículo, 
 
 5. En el caso de la Junta Distrital, legalizar los documentos y expedir las copias certificadas de los mismos que le sean solicitadas y en el de la Junta Local, instruir al Vocal Secretario para los mismos efectos.
 
+> <small>(REFORMADO, D.O.F. 20 DE JUNIO DE 2000)</small>
+
 ARTICULO 5
 
 ATRIBUCIONES DE LOS VOCALES SECRETARIOS DE LAS JUNTAS LOCALES Y DISTRITALES
@@ -107,29 +109,27 @@ a) Convocar, por instrucciones del Vocal Ejecutivo, a las sesiones.
 
 b) Preparar el orden del día de las sesiones y someterla a la consideración del Vocal Ejecutivo de la Junta, así como elaborar las respectivas convocatorias.
 
-c) Ordenar que se impriman y circulen en los plazos a que se refieren los artículos ocho y nueve del presente reglamento, entre los integrantes de la Junta y en proceso electoral a los integrantes del Consejo respectivo, los documentos y anexos necesarios para la comprensión y discusión de los asuntos contenidos en el orden del día.
+c) Ordenar que se impriman y circulen en los plazos a que se refieren los artículos ocho y nueve del presente reglamento, entre los integrantes de la Junta, los documentos y anexos necesarios para la comprensión y discusión de los asuntos contenidos en el orden del día.
 
-d) Enviar a los Consejeros Electorales y a los representantes de los partidos políticos que así lo soliciten, los documentos y anexos a que se refiere el artículo 9, párrafo 2 del presente reglamento.
+d) Llevar el registro de asistencia a las sesiones de los miembros de la Junta correspondiente.
 
-e) Llevar el registro de asistencia a las sesiones de los miembros de la Junta correspondiente.
+e) Declarar la existencia del quórum legal.
 
-f) Declarar la existencia del quórum legal.
+f) Levantar el acta de las sesiones y someterla en la siguiente sesión ordinaria a la aprobación de los integrantes de la Junta respectiva, tomando en cuenta las observaciones realizadas a la misma por sus integrantes.
 
-g) Levantar el acta de las sesiones y someterla en la siguiente sesión ordinaria a la aprobación de los integrantes de la Junta respectiva, tomando en cuenta las observaciones realizadas a la misma por sus integrantes.
+g) Dar cuenta de los escritos presentados a la Junta correspondiente.
 
-h) Dar cuenta de los escritos presentados a la Junta correspondiente.
+h) Tomar las votaciones de los integrantes de la Junta respectiva y dar a conocer el resultado de las mismas.
 
-i) Tomar las votaciones de los integrantes de la Junta respectiva y dar a conocer el resultado de las mismas.
+i) Informar sobre el cumplimiento de los acuerdos y resoluciones de la Junta correspondiente.
 
-j) Informar sobre el cumplimiento de los acuerdos y resoluciones de la Junta correspondiente.
+j) Firmar, junto con el Vocal Ejecutivo de la Junta, todos los acuerdos y resoluciones que ésta emita.
 
-k) Firmar, junto con el Vocal Ejecutivo de la Junta, todos los acuerdos y resoluciones que ésta emita.
+k) Llevar el archivo, registro de las actas y acuerdos y resoluciones aprobadas por la Junta.
 
-l) Llevar el archivo, registro de las actas y acuerdos y resoluciones aprobadas por la Junta.
+l) Dar fe de lo actuado en las sesiones.
 
-m) Dar fe de lo actuado en las sesiones.
-
-n) Las demás que le sean conferidas por el Código Federal de Instituciones y Procedimientos Electorales, el presente reglamento, el Consejo General, la Junta General Ejecutiva y la Junta respectiva.
+m) Las demás que le sean conferidas por el Código Federal de Instituciones y Procedimientos Electorales, el presente reglamento, el Consejo General, la Junta General Ejecutiva y la Junta respectiva.
 
 3. En el caso de la Junta Local, legalizar los documentos y expedir las copias certificadas de los mismos cuando así lo instruya el Vocal Ejecutivo.
 
@@ -179,6 +179,8 @@ CONVOCATORIA A SESION EXTRAORDINARIA
 
 2. Tratándose de las sesiones extraordinarias, la convocatoria deberá realizarse por lo menos con dos días de anticipación. Sin embargo, en aquellos casos en que los Vocales Ejecutivos de las Juntas lo consideren de extrema urgencia o gravedad, podrán convocar a sesión extraordinaria fuera del plazo señalado e incluso no será necesaria convocatoria por escrito cuando se encuentren presentes en un mismo local todos los miembros de la Junta correspondiente.
 
+> <small>(REFORMADO, D.O.F. 20 DE JUNIO DE 2000)</small>
+
 ARTICULO 9
 
 CONTENIDO DE LA CONVOCATORIA
@@ -187,19 +189,17 @@ CONTENIDO DE LA CONVOCATORIA
 
 2. Los miembros de las Juntas deberán remitir a los Vocales Secretarios los documentos y anexos indispensables con por lo menos veinticuatro horas de anticipación a la fecha de expedición de la convocatoria, a excepción de los informes que se presentarán con al menos 48 horas de anticipación a la celebración de la sesión tratándose de ordinarias y de 24 horas tratándose de extraordinarias.
 
-La convocatoria y orden del día serán difundidos a los integrantes de la Junta respectiva, y durante el proceso electoral, a los miembros de los Consejos respectivos en los plazos a que se refieren los párrafos 1 y 2 del artículo anterior.
-
-3. Los Consejeros Electorales y representantes de partidos políticos que así lo requieran podrán solicitar a los Vocales Secretarios, copia de los documentos y anexos necesarios contenidos en el orden del día dentro de las 48 horas anteriores a la celebración de la sesión respectiva.
+La convocatoria y orden del día serán difundidos a los integrantes de la Junta respectiva, en los plazos a que se refieren los párrafos 1 y 2 del artículo anterior.
 
 INCLUSION DE NUEVOS ASUNTOS EN EL ORDEN DEL DIA
 
-4. Recibida la convocatoria a una sesión ordinaria o extraordinaria, cualquier integrante de la Junta podrá solicitar al Vocal Secretario que corresponda, la inclusión de un asunto en el orden del día de la sesión, siempre y cuando la solicitud se formule con una anticipación de tres días, tratándose de sesiones ordinarias, o de un día, tratándose de sesiones extraordinarias, a la fecha señalada para su celebración, acompañando su solicitud con los documentos necesarios para su discusión. En tal caso el Vocal Secretario, remitirá a los integrantes de la Junta correspondiente, un nuevo orden del día que contenga los asuntos que se vayan agregando al original y los documentos necesarios para su discusión, a más tardar al día siguiente de que se haya realizado la solicitud de inclusión. Ninguna solicitud que se reciba fuera del plazo señalado en este párrafo podrá ser incorporada al orden del día de la sesión de que se trate.
+3. Recibida la convocatoria a una sesión ordinaria o extraordinaria, cualquier integrante de la Junta podrá solicitar al Vocal Secretario que corresponda, la inclusión de un asunto en el orden del día de la sesión, siempre y cuando la solicitud se formule con una anticipación de tres días, tratándose de sesiones ordinarias, o de un día, tratándose de sesiones extraordinarias, a la fecha señalada para su celebración, acompañando su solicitud con los documentos necesarios para su discusión. En tal caso el Vocal Secretario, remitirá a los integrantes de la Junta correspondiente, un nuevo orden del día que contenga los asuntos que se vayan agregando al original y los documentos necesarios para su discusión, a más tardar al día siguiente de que se haya realizado la solicitud de inclusión. Ninguna solicitud que se reciba fuera del plazo señalado en este párrafo podrá ser incorporada al orden del día de la sesión de que se trate.
 
 ASUNTOS GENERALES
 
-5. Los integrantes de las Juntas podrán solicitar la discusión en "Asuntos Generales" de puntos que no requieran examen previo de documentos, o que sean de obvia y urgente resolución, pero única y exclusivamente en sesiones ordinarias.
+4. Los integrantes de las Juntas podrán solicitar la discusión en "Asuntos Generales" de puntos que no requieran examen previo de documentos, o que sean de obvia y urgente resolución, pero única y exclusivamente en sesiones ordinarias.
 
-6. El Vocal Secretario de la Junta dará cuenta a la Junta Ejecutiva correspondiente de dichas solicitudes a fin de que ésta decida, sin debate, si se discuten en la sesión o se difieren para una posterior.
+5. El Vocal Secretario de la Junta dará cuenta a la Junta Ejecutiva correspondiente de dichas solicitudes a fin de que ésta decida, sin debate, si se discuten en la sesión o se difieren para una posterior.
 
 V. DE LA INSTALACION Y DESARROLLO DE LA SESION
 
@@ -325,13 +325,13 @@ PROCEDIMIENTO PARA LA VOTACION
 
 VIII. DE LA PUBLICACION DE LOS ACUERDOS Y RESOLUCIONES
 
+> <small>(REFORMADO, D.O.F. 20 DE JUNIO DE 2000)</small>
+
 ARTICULO 19
 
 PUBLICACION DE ACUERDOS Y RESOLUCIONES
 
 1. Las Juntas Locales y Distritales ordenarán la publicación en sus estrados de todos los acuerdos y resoluciones que aprueben.
-
-2. Los Vocales Secretarios notificarán y enviarán copia de los acuerdos y resoluciones aprobados a los miembros de los Consejos respectivos, durante los procesos electorales, en un plazo no mayor a las 48 horas siguientes a su aprobación.
 
 IX. DE LAS ACTAS DE LAS SESIONES
 
@@ -354,3 +354,9 @@ SEGUNDO.- ESTE REGLAMENTO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU APROBACION.
 TERCERO.- PUBLIQUESE EL PRESENTE ACUERDO EN EL DIARIO OFICIAL DE LA FEDERACION.
 
 EL PRESENTE ACUERDO FUE APROBADO EN SESION ORDINARIA DEL CONSEJO GENERAL CELEBRADA EL 27 DE ABRIL DE 2000.- EL CONSEJERO PRESIDENTE DEL CONSEJO GENERAL, JOSE WOLDENBERG KARAKOWSKY.- RUBRICA.- EL SECRETARIO DEL CONSEJO GENERAL, FERNANDO ZERTUCHE MUÑOZ.- RUBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 20 DE JUNIO DE 2000.
+
+PRIMERO.- Las modificaciones al presente reglamento entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
