@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "1995-06-10"
+last_updated: "1999-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 1999.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -435,9 +435,9 @@ XI.- Formular y remitir al Congreso, por conducto del Ejecutivo, para su estudio
 
 XII.- Vigilar que se recauden con toda oportunidad los ingresos municipales.
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 1994)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1999)</small>
 
-XIII.- Enviar anualmente en la segunda quincena del mes de marzo al Congreso, por conducto del Ejecutivo, las cuentas y comprobantes de recaudación y aplicación de los fondos públicos en el año inmediato anterior, así como las cuentas e informes contables y financieros dentro de los primeros quince días hábiles del mes siguiente. Las Cuentas Públicas correspondientes al último año de la elección constitucional de Ayuntamientos, deberán ser presentadas a más tardar el día quince de diciembre.
+XIII.- Enviar anualmente en la segunda quincena del mes de marzo al Congreso, las cuentas y comprobantes de recaudación y aplicación de los fondos en el año inmediato anterior, así como las cuentas e informes contables y financieros mensuales dentro de los primeros quince días del mes siguiente. Las Cuentas Públicas correspondientes al último año del período constitucional de Ayuntamientos, deberán ser presentadas a más tardar el día quince de diciembre.
 
 XIV.- Aprobar anualmente el presupuesto de egresos del Municipio con base en sus ingresos disponibles y de conformidad con los planes y programas de desarrollo económico y social, y los convenios y acuerdos de coordinación que celebren en los términos de este Código. Las remuneraciones al personal no excederán de los límites señalados en el Título III de este Código.
 
@@ -765,7 +765,9 @@ III.- Organizar la contabilidad de la Tesorería y sus dependencias.
 
 IV.- Comunicar diariamente al Presidente Municipal y a la Comisión de Hacienda, Presupuesto y Gasto Público, del movimiento de caudales y existencia en caja.
 
-V.- Remitir al Congreso del Estado, por conducto del Ejecutivo, las cuentas, informes contables y financieros mensuales, dentro de los primeros quince días hábiles del mes siguiente.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1999)</small>
+
+V.- Remitir al Congreso del Estado las cuentas, informes contables y financieros mensuales, dentro de los primeros quince días del mes siguiente.
 
 VI.- Vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones fiscales.
 
@@ -2718,3 +2720,9 @@ P.O. 10 DE JUNIO DE 1995.
 ###### ARTICULO UNICO.
 
 El presente Decreto, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE FEBRERO DE 1999.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
