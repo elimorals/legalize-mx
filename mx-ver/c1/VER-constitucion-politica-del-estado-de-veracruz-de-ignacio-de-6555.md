@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1995-05-25"
+last_updated: "1996-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE MAYO DE 1995.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE NOVIEMBRE DE 1996.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -603,19 +603,11 @@ Los trabajos para la instalación de la Legislatura, en su primer período de se
 
 El día de la instalación y antes del acto, los Diputados harán formal protesta de guardar esta Constitución y la General de la República, mirando en todo por el bien del Estado. Igual protesta se exigirá a los que no hayan asistido a la instalación, cuando se presenten a desempeñar su encargo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO, G.O. 12 DE OCTUBRE DE 1993)</small>
 
 ###### Artículo 60.
 
-El Gobernador del Estado y el Presidente del Tribunal Superior de Justicia, leerán, cada uno de ellos, ante la Legislatura, los días 25 y 15 de octubre respectivamente, un informe anual, en el que expondrán, en términos generales el desarrollo de las labores encomendadas a los Poderes Ejecutivo y Judicial.
-
-> <small>(REFORMADO, G.O. 29 DE OCTUBRE DE 1981)</small>
-
-A dichos informes dará contestación el Presidente de la Legislatura.
-
-> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
-
-Si el Gobernador no pudiere concurrir por hallarse enfermo o por otra causa justificada, dará lectura a su Informe el Secretario General de Gobierno.
+El Gobernador del Estado presentará, ante la Legislatura, el día 30 de noviembre, un informe por escrito de las actividades realizadas por el Poder Ejecutivo en el año correspondiente. Este informe será analizado por la Legislatura en sesiones subsecuentes, a las que podrán concurrir los Secretarios del Despacho, para ampliar o detallar aspectos relacionados con sus ramos.
 
 > <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 1950)</small>
 
@@ -1309,9 +1301,9 @@ En cualquier tiempo, la Legislatura del Estado o la Diputación Permanente, podr
 
 El ejercicio del Poder Judicial del Estado se deposita en los órganos a que se refiere el Artículo 36 de esta Constitución.
 
-> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, G.O. 12 DE OCTUBRE DE 1993)</small>
 
-El Tribunal Superior de Justicia estará integrado por 16 Magistrados Numerarios y 4 Supernumerarios; funcionará en Pleno o en Salas, según lo determine la Ley Orgánica y será presidido por un Magistrado que no integrará Sala, sino en los casos expresamente establecidos en la propia ley y designado por el Tribunal en Pleno, en la primera sesión del mes de diciembre de cada año, pudiendo ser reelecto; en sus faltas temporales, no mayores de treinta días, será sustituido por el Magistrado que él designe, pero si excediere de ese término, la designación la hará el Tribunal en Pleno. Los Magistrados Supernumerarios suplirán en sus ausencias a los Numerarios y además, tendrán el carácter de Visitadores Judiciales. Cada Magistrado del Tribunal Superior al entrar a ejercer su cargo, protestará ante la Legislatura y en los recesos de ésta, ante la Diputación Permanente, guardar y hacer guardar la Constitución Federal, la particular del Estado y las leyes que de ellas emanen, mirando en todo por la prosperidad y bienestar del Estado, así como impartir recta y pronta justicia.
+El Tribunal Superior de Justicia estará integrado por 16 Magistrados Numerarios y 4 Supernumerarios; funcionará en Pleno o en Salas, según lo determine la Ley Orgánica; y será presidido por un Magistrado que no integrará Sala sino en los casos expresamente establecidos en la propia ley y designado por el Tribunal en Pleno, en la segunda sesión del mes de diciembre de cada año, pudiendo ser reelecto; en sus faltas temporales no mayores de treinta días, será sustituido por el Magistrado que él designe, pero si excediere de ese término, la designación la hará el Tribunal en Pleno. Los Magistrados Supernumerarios suplirán en sus ausencias a los Numerarios y además, tendrán el carácter de Visitadores Judiciales. Cada Magistrado del Tribunal Superior, al entrar a ejercer su cargo, protestará ante la Legislatura y, en los recesos de ésta, ante la Diputación Permanente: guardar y hacer guardar la Constitución Federal, la Particular del Estado y las leyes que de ella emanen, mirando en todo por la prosperidad y bienestar del Estado, así como impartir recta y pronta justicia.
 
 > <small>(REFORMADO, G.O. 19 DE ENERO DE 1988)</small>
 
@@ -1320,6 +1312,10 @@ Los Jueces de Primera Instancia y los Menores, protestarán en los mismos térmi
 > <small>(ADICIONADO, G.O. 19 DE ENERO DE 1988)</small>
 
 Los Jueces Municipales protestarán ante los Jueces Primeros o únicos Menores o de Primera Instancia, y los auxiliares ante los Jueces Municipales.
+
+> <small>(ADICIONADO, G.O. 12 DE OCTUBRE DE 1993)</small>
+
+El Magistrado Presidente del Tribunal Superior de Justicia presentará ante el Pleno de este Organismo y demás integrantes del Poder Judicial, en la primera sesión de diciembre, un informe por escrito de las actividades realizadas por este Poder en el año correspondiente. Este informe se entregará a la Legislatura del Estado.
 
 > <small>(REFORMADO, G.O. 21 y 23 DE DICIEMBRE DE 1944)</small>
 
@@ -1837,17 +1833,23 @@ XXX. Así mismo serán consideradas de utilidad social, las sociedades cooperati
 
 Esta Constitución no perderá su fuerza y vigor, aun cuando por alguna rebelión se interrumpa su observancia.
 
-> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO, G.O. 9 DE NOVIEMBRE DE 1996)</small>
 
 ###### Artículo 130.
 
-La Constitución puede ser adicionada y reformada, a propuesta del Ejecutivo del Estado y de la mitad más uno de los representantes que integren la Legislatura, para que las adiciones y reformas lleguen a ser parte de la misma, se requiere del voto de las dos terceras partes del número total de Diputados Electos.
+La presente Constitución puede ser adicionada o reformada a iniciativa del Gobernador del estado, de los diputados de la Legislatura estatal, de los diputados y senadores ante el Congreso de la Unión electos en la entidad; así como del Tribunal Superior de Justicia y de los ayuntamientos, en lo tocante a sus respectivos ramos.
 
-La Legislatura no podrá deliberar sin la concurrencia de las dos terceras partes de sus miembros.
+Para que el proyecto de adiciones o reformas llegue a formar parte de la Constitución se requiere el voto aprobatorio de las dos tercera partes de los integrantes de la Legislatura y de la mayoría de los ayuntamientos de la entidad.
+
+La Legislatura, o la Diputación Permanente en su caso, hará el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobadas las adiciones o reformas.
+
+Si el proyecto no fuese aprobado por la mayoría de los ayuntamientos, volverá a ser examinado por la Legislatura en el siguiente periodo ordinario de sesiones y, de resultar aprobado por las dos terceras partes de sus integrantes, se hará la declaratoria correspondiente y se enviará al Gobernador del estado para los efectos del Artículo 131 de esta Constitución.
+
+> <small>(REFORMADO, G.O. 9 DE NOVIEMBRE DE 1996)</small>
 
 ###### Artículo 131.
 
-Las leyes fundamentales no necesitan la sanción del Poder Ejecutivo.
+Las adiciones o reformas aprobadas deberán enviarse al Gobernador del estado para su promulgación.
 
 ###### Artículo 132.
 
@@ -2247,6 +2249,16 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en la
 
 Se derogan todas las disposiciones que se opongan a este ordenamiento.
 
+G.O. 12 DE OCTUBRE DE 1993.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial", Órgano del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a las reformas a que se refiere el presente decreto.
+
 G.O. 16 DE DICIEMBRE DE 1993.
 
 ###### ARTICULO PRIMERO.
@@ -2291,10 +2303,6 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 
-###### ARTICULO PRIMERO.
+G.O. 9 DE NOVIEMBRE DE 1996.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial', Organo del Gobierno del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+UNICO. La presente Ley entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial" del Estado.
