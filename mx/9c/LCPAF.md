@@ -4,7 +4,7 @@ identifier: "LCPAF"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-22"
-last_updated: "1993-12-22"
+last_updated: "1999-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCPAF"
 
 LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1999.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 22 de diciembre de 1993.
 
@@ -114,13 +114,15 @@ II. Construir y conservar directamente caminos y puentes;
 
 III. Otorgar las concesiones y permisos a que se refiere esta Ley; vigilar su cumplimiento y resolver sobre su revocación o terminación en su caso;
 
-IV. Vigilar, verificar e inspeccionar los caminos y puentes, los servicios de autotransporte y sus servicios auxiliares;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1999)</small>
+
+IV. Vigilar, verificar e inspeccionar que los caminos y puentes, así como los servicios de autotransporte y sus servicios auxiliares, cumplan con los aspectos técnicos y normativos correspondientes;
 
 V. Determinar las características y especificaciones técnicas de los caminos y puentes;
 
 VI. Expedir las normas oficiales mexicanas de caminos y puentes así como de vehículos de autotransporte y sus servicios auxiliares;
 
-VII. Establecer y organizar un cuerpo de vigilancia, de seguridad y auxilio para los usuarios de los caminos y puentes, de los servicios de autotransporte y sus servicios auxiliares;
+VII. (DEROGADA, D.O.F. 4 DE ENERO DE 1999)
 
 VIII. Establecer las bases generales de regulación tarifaria; y
 
@@ -797,3 +799,27 @@ Las garantías a que se refieren los artículos 62 y primer párrafo del 68, ent
 México, D.F., a 13 de diciembre de 1993.- Dip. Cuauhtémoc López Sánchez, Presidente.- Sen. Eduardo Robledo Rincón, Presidente.- Dip. Sergio González Santa Cruz, Secretario.- Sen. Jorge Rodríguez León, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los quince días del mes de diciembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 4 DE ENERO DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los siguientes transitorios.
+
+SEGUNDO.- La organización de la Policía Federal Preventiva durará un máximo de sesenta días contados a partir de la entrada en vigor del presente Decreto, lapso en el que no ejercerá las atribuciones conferidas por este Decreto, las cuales corresponderán a las policías administrativas que han venido realizándolas con fundamento en disposiciones de la Ley Orgánica de la Administración Pública Federal, la Ley General de Población, la Ley de Vías Generales de Comunicación y los demás ordenamientos reformados por este Decreto.
+
+TERCERO.- Se faculta al Ejecutivo Federal para dictar los acuerdos que estime necesarios, con el fin de que las atribuciones de la institución policial previstas en el artículo 4 de la Ley de la Policía Federal Preventiva, sean asumidas con la gradualidad que permita asegurar la continuidad de las respectivas funciones y puedan llevarse a cabo las transferencias de recursos humanos, materiales y financieros de las policías administrativas cuya competencia corresponderá a la Policía Federal Preventiva, sin detrimento de la eficacia de los servicios.
+
+Para ese solo efecto y en los términos de los acuerdos correspondientes, que deberán publicarse en el Diario Oficial de la Federación, las policías administrativas existentes hasta la fecha de entrada en vigor de esta Ley, una, varias o todas, según sea el caso, seguirán cumpliendo con sus atribuciones en los términos de los ordenamientos legales y reglamentarios respectivos, hasta por un plazo no mayor de veinticuatro meses contados a partir de la entrada en vigor del presente Decreto, en el entendido de que la coordinación entre ellas deberá quedar a cargo del Comisionado de la Policía Federal Preventiva, a partir de su nombramiento.
+
+Los miembros de las policías administrativas antes citadas exclusivamente podrán formar parte de la Policía Federal Preventiva si cumplen con los requisitos que establece la Ley para su ingreso o permanencia.
+
+CUARTO.- Los derechos de los miembros de las policías administrativas de Migración, Fiscal Federal y Federal de Caminos, serán respetados conforme a las disposiciones legales aplicables.
+
+QUINTO.- Las menciones a la Policía de Migración y a la Policía Federal de Caminos que aparezcan en otros ordenamientos, se entenderán referidas a la Policía Federal Preventiva.
+
+Las menciones a la Policía Fiscal Federal que aparezcan en cualquier ordenamiento legal, se entenderán referidas a la Unidad de Apoyo para la Inspección Fiscal y Aduanera.
+
+SEXTO.- El Ejecutivo Federal publicará en el Diario Oficial de la Federación el Reglamento Interior de la Policía Federal Preventiva, dentro del año siguiente a la entrada en vigor del presente Decreto.
+
+SÉPTIMO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
