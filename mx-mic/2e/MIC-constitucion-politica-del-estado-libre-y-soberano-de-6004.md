@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1965-12-27"
+last_updated: "1967-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1965.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 1967.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -835,13 +835,13 @@ El Poder Judicial no podrá ejercer otras funciones que las de juzgar y hacer qu
 
 #### SECCION I. De la Integración y Funcionamiento del Supremo Tribunal
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1967)</small>
 
 ###### Artículo 70.
 
-El Supremo Tribunal de Justicia se compondrá de cinco magistrados propietarios, y funcionará en Tribunal Pleno o en Salas Unitarias, en los términos que disponga la ley. Habrá además, cinco magistrados supernumerarios.
+El Supremo Tribunal de Justicia estará integrado por un número no menor de siete Magistrados propietarios y funcionará en Tribunal Pleno o en Salas Unitarias, Civiles y Penales, en los términos que disponga la Ley. Habrá, además, el mismo número de Magistrados supernumerarios.
 
-La Ley Orgánica del Poder Judicial distribuirá las competencias señalando las funciones que correspondan al Presidente, al Pleno y a las Salas Unitarias.
+La Ley Orgánica del Poder Judicial fijará el número de Magistrados y distribuirá las competencias señalando las funciones que correspondan al Presidente, al Pleno y a las Salas Unitarias.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1806,3 +1806,9 @@ P.O. 27 DE DICIEMBRE DE 1965.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor, a los 3 días de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE ABRIL DE 1967.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al mismo tiempo que la Nueva Ley Orgánica del Poder Judicial del Estado, que habrá de expedirse como consecuencia de la presente reforma.
