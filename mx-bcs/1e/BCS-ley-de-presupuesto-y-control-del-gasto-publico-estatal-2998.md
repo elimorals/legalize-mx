@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-presupuesto-y-control-del-gasto-publico-estatal-2998"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-20"
-last_updated: "1984-02-20"
+last_updated: "1984-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE PRESUPUESTO Y CONTROL DEL GASTO PUBLICO ESTATAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE DICIEMBRE DE 1984.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 20 de febrero de 1984.
 
@@ -44,6 +44,8 @@ LEY DE PRESUPUESTO Y CONTROL DEL GASTO PUBLICO ESTATAL.
 ###### ARTICULO 1°.
 
 El presupuesto, la contabilidad y el gasto público Estatal se norman y regulan por las disposiciones de esta Ley, la que será aplicada por el Ejecutivo Estatal a través de la Secretaría de Finanzas.
+
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1984)</small>
 
 ###### ARTICULO 2°.
 
@@ -67,33 +69,17 @@ VIII. SECRETARIA DE ASENTAMIENTOS HUMANOS Y OBRAS PUBLICAS
 
 IX. PROCURADURIA GENERAL DE JUSTICIA
 
-X. SERVICIOS GENERALES DEL GOBIERNO DEL ESTADO
+X. CONTRALORIA GENERAL
 
-XI. OBRAS PUBLICAS Y CONSTRUCCIONES
+XI. SERVICIOS GENERALES DEL GOBIERNO DEL ESTADO
 
-XII. SUBSIDIOS Y PARTICIPACIONES A MUNICIPIOS
+XII. OBRAS PUBLICAS Y CONSTRUCCIONES
 
-XIII. DEUDA PUBLICA
+XIII. SUBSIDIOS Y PARTICIPACIONES A MUNICIPIOS
 
-XIV. SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
+XIV. DEUDA PUBLICA
 
-XV. COMISION DE AGUA POTABLE Y ALCANTARILLADO
-
-XVI. PATRONATO DE PROMOTORES VOLUNTARIOS
-
-XVII. INSTITUTO DE LA PRODUCTIVIDAD INDUSTRIAL, COMERCIAL Y TURISTICA DE BAJA CALIFORNIA SUR
-
-XVIII. COMISION AGRARIA MIXTA
-
-XIX. COMISION ESTATAL ELECTORAL
-
-XX. INSTITUTO DE LA VIVIENDA
-
-XXI. ESCUELA NORMAL SUPERIOR
-
-XXII. CONTRALORIA GENERAL
-
-A los Poderes, Instituciones, Dependencias, Organismos, Empresas de Participación Estatal, Comisiones, Comités, Patronatos y Juntas se les denominará genéricamente en esta Ley como "Entidades", salvo mención expresa.
+XV. ORGANISMOS DESCENTRALIZADOS Y PROGRAMAS INSTITUCIONALES
 
 ###### ARTICULO 3°.
 
@@ -157,9 +143,11 @@ Para la formulación del Proyecto de Presupuesto de Egresos del Estado, las Enti
 
 Las Entidades remitirán su respectivo anteproyecto a la Secretaría de Finanzas, con sujeción a las normas, montos y plazos que el Ejecutivo establezca por medio de la propia Secretaría.
 
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1984)</small>
+
 ###### ARTICULO 17.
 
-La Secretaría de Finanzas queda facultada para formular el Proyecto de Presupuesto de las Entidades, cuando le sea presentado en los plazos que al efecto se les hubiere señalado.
+La Secretaría de Finanzas queda facultada para formular el Proyecto de Presupuesto de las Entidades cuando no le sea presentado en los plazos que al efecto se les hubiere señalado.
 
 ###### ARTICULO 18.
 
@@ -382,3 +370,11 @@ ALBERTO ANDRES ALVARADO ARAMBURO.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ANTONIO BENJAMIN MANRIQUEZ GULUARTE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 10 DE DICIEMBRE DE 1984.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
