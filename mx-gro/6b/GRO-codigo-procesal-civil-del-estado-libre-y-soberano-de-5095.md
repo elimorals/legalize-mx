@@ -4,7 +4,7 @@ identifier: "GRO-codigo-procesal-civil-del-estado-libre-y-soberano-de-5095"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-26"
-last_updated: "1998-01-06"
+last_updated: "1999-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO PROCESAL CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NUMERO 364
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 1999.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 26 de marzo de 1993.
 
@@ -269,6 +269,10 @@ VII. El del lugar en que se hizo una inscripción en el Registro Público de la 
 
 VIII. En los actos de jurisdicción voluntaria, salvo disposición contraria de la ley, es juzgador competente el del domicilio del que promueve; pero, si se trata de bienes raíces, lo es del lugar en que estén ubicados, observándose, en lo aplicable, lo dispuesto en la fracción III.
 
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+
+IX. El del domicilio del actor o del demandado a elección del primero, en los juicios que versen sobre alimentos o violencia intrafamiliar.
+
 Cuando haya varios tribunales competentes, conforme a las reglas anteriores, en caso de conflicto de competencia, se decidirá en favor del que haya prevenido en el conocimiento.
 
 ###### Artículo 32.
@@ -292,6 +296,10 @@ Regla de competencia en actos preparatorios a juicio. Para conocer de los actos 
 ###### Artículo 36.
 
 Reglas de competencia en providencias cautelares. Para conocer de las providencias cautelares será competente el juzgador que lo sea para conocer de la demanda principal. Si el expediente estuviere en segunda instancia, será competente para dictar la providencia precautoria; el juzgador que conoció de ellos en primera instancia. En caso de urgencia puede dictarla el del lugar donde se halle la persona o el bien objeto de la providencia y efectuada, se remitirán las actuaciones al competente.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+
+Artículo 36 BIS.- Reglas de competencia en violencia intrafamiliar. Para conocer de la violencia intrafamiliar será competente el Juez que lo sea para conocer de la demanda principal. Por las repercusiones propias de la violencia intrafamiliar, podrá recibir la comparecencia cualquier Juzgador, efectuada ésta remitirá las actuaciones al competente.
 
 ###### Artículo 37.
 
@@ -963,11 +971,15 @@ Derechos de los patronos o mandatarios. Los patronos o mandatarios de las partes
 
 Costas con motivo de apelación. En caso de apelación será condenada en las costas de ambas instancias, sin tener en cuenta la declaración a este respecto formulada en la primera, la parte contra la cual hayan recaído dos sentencias adversas siempre que estas sean conformes. Cuando no concurran estas circunstancias en la sentencia de segunda instancia se hará la condena en costas con sujeción a las reglas de los artículos anteriores.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+
 ###### Artículo 111.
 
-Asuntos en los que no se causarán costas. No se condenará en costas a ninguna de las partes:
+Asuntos en los que no se causarán gastos y costas. No se condenará en gastos y costas a ninguna de las partes.
 
-I. En los procesos que versen sobre estado civil y sobre cuestiones familiares; y
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+
+I. En los procesos que versen cuestiones familiares a excepción de los juicios de alimentos, divorcio necesario tratándose del cónyuge culpable, reconocimiento de la paternidad y violencia intrafamiliar; y
 
 II. En los asuntos de la competencia de los jueces de paz.
 
@@ -1034,6 +1046,10 @@ Guarda de los documentos originales. Las partes podrán pedir que los documentos
 Recibo de escritos y documentos. El tribunal o juzgado, por conducto del empleado que se autorice al efecto, hará constar el día y la hora en que se presente un escrito, y una razón de los documentos que se anexen. Los interesados pueden presentar una copia simple de sus escritos, a fin de que se les devuelva con la anotación de la fecha y hora de presentación, así como de los documentos que se anexan, sellada y firmada por el empleado que la reciba en el tribunal. El secretario deberá dar cuenta del escrito, a más tardar dentro de las veinticuatro horas siguientes, bajo pena de multa de hasta veinte veces el salario mínimo general, sin perjuicio de otras penas que merezca conforme a las leyes.
 
 En los lugares donde se establezca una Oficialía de Partes Común, los escritos iniciales de demanda deberán presentarse ante dicha oficialía, lo mismo los escritos subsecuentes que se presenten fuera de las horas de labores de los juzgadores, pero dentro de horas hábiles.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+
+Tratándose de los supuestos relativos a solicitudes y demandas por comparecencia incluyendo la de violencia intrafamiliar, el Juez receptor después de dictar las medidas cautelares procedentes, remitirá a la Oficialía de Partes Común el escrito por comparecencia a fin de que ésta lo turne al Juzgado correspondiente.
 
 ###### Artículo 123.
 
@@ -1631,35 +1647,61 @@ El notario se limitará a hacer el ofrecimiento y expedir al deudor la certifica
 
 ### CAPITULO IV. SEPARACION DE PERSONAS
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+
 ###### Artículo 196.
 
-Juez competente. El que intenta demandar o denunciar o querellarse contra su cónyuge, puede solicitar su separación al juez de primera instancia, donde los cónyuges estén haciendo vida marital. Sólo que por circunstancias especiales no pueda ocurrirse al juez de primera instancia competente, el juez del lugar podrá decretar la separación provisionalmente, remitiendo las diligencias al competente.
+Juez competente. El que intenta demandar o denunciar o querellarse contra su cónyuge, puede solicitar su separación al Juez de Primera Instancia, donde los cónyuges estén haciendo vida marital. En los casos de violencia intrafamiliar el agredido o su representante, tratándose de menor o incapaz, podrá solicitar al Juez de Primera Instancia, la separación del agresor del lugar donde cohabitan. Sólo que por circunstancias especiales no pueda ocurrirse al Juez de Primera competente, el Juez del lugar podrá decretar la separación provisionalmente, remitiendo las diligencias al competente.
 
 ###### Artículo 197.
 
 Solicitud y medidas provisionales que pueden decretarse. La solicitud puede ser escrita o verbal, en la que se señalarán las causas en que se funde, el domicilio para su habitación, la existencia de hijos menores y las demás circunstancias del caso.
 
-El juzgador podrá si lo estima conveniente, practicar las diligencias que a su juicio sean necesarias antes de dictar la resolución.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+
+El juzgador podrá si lo estima conveniente, practicar las diligencias que a su juicio sean necesarias antes de dictar la resolución. En los casos de violencia intrafamiliar deberá considerar los dictámenes u opiniones realizadas por las Instituciones Públicas o Privadas dedicadas a atender los asuntos de esta índole, debiendo valorarlas debidamente.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
 
 ###### Artículo 198.
 
-Facultades de la autoridad judicial. Presentada la solicitud, el juzgador sin más trámite, salvo lo dispuesto por el artículo anterior, resolverá sobre su procedencia y si concediere la separación, dictará las disposiciones pertinentes para que se efectúe materialmente, atendiendo a las circunstancias de cada caso en particular, pudiendo variar las disposiciones decretadas cuando exista causa justificada que lo amerite, en vista de lo que los cónyuges de común acuerdo o individualmente le soliciten.
+Facultades de la autoridad judicial. Presentada la solicitud, el Juzgador sin más trámite, salvo lo dispuesto por el artículo anterior, resolverá sobre su procedencia y si concediere la separación, dictará las disposiciones pertinentes, para que se efectúe materialmente, atendiendo a las circunstancias de cada caso particular, pudiendo variar las disposiciones decretadas cuando exista causa justificada que lo amerite, en vista de lo que las partes de común acuerdo o individualmente le soliciten.
 
 ###### Artículo 199.
 
 Otras determinaciones que deberá tomar el juzgador al decretar la separación judicial. En la resolución se señalará el término de que dispondrá el solicitante para presentar la demanda, denuncia o querella, que podrá ser hasta de quince días hábiles contados a partir del día siguiente de efectuada la separación. A juicio del juzgador podrá concederse por una sola vez una prórroga por igual término.
 
-En la misma resolución ordenará la notificación al otro cónyuge, previniéndole que se abstenga de impedir la separación o causar molestias a su cónyuge, bajo apercibimiento de procederse en su contra en los términos a que hubiere lugar.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
 
-El juzgador determinará la situación de los hijos menores atendiendo a las circunstancias del caso, tomando en cuenta las obligaciones señaladas en el Código Civil, Ley de Divorcio del Estado, así como las propuestas de los cónyuges, si las hubiere.
+En la misma resolución ordenará la notificación al otro cónyuge o al agresor tratándose de violencia intrafamiliar, previniéndole que se abstenga de impedir la separación o causar molestias al solicitante, bajo apercibimiento de procederse en su contra en los términos a que hubiere lugar.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+
+El Juez al proveer cualquier medida cautelar provisional relativa a la familia, tomando en cuenta el interés superior de los menores, las circunstancias socioeconómicas, así como las aptitudes física y moral de los padres, determinará a cual de ellos confía el cuidado y atención de los mismos. En cuyo caso, decretará la permanencia de los menores y el progenitor designado en su domicilio habitual o a falta de éste, en el que señale el designado, con exclusión del otro padre.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+
+En el supuesto de que ninguno de los padres esté en condiciones psico-emocionales de ejercer la custodia, los hijos menores o con discapacidad, se confiarán a una Institución especializada o persona idónea, quiénes tendrán los deberes de un tutor provisional. El Juez deberá además, adoptar las medidas pertinentes para que los menores puedan mantener relaciones personales y contacto directo con ambos padres de modo regular, salvo que éste resulte contrario al interés superior de los menores, durante el tiempo que dure la medida cautelar.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+
+Lo anterior deberá decretarse sin perjuicio de las obligaciones señaladas en el Código Civil, Ley de Divorcio del Estado, así como las propuestas de los cónyuges, si las hubiere.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+
+Artículo 199 BIS.- Reincorporación de los menores a la residencia habitual. Cuando los menores de dieciséis años de edad sean sustraídos o retenidos ilícitamente en un lugar distinto al de su residencia habitual, el cónyuge que haya obtenido para sí la guarda y custodia provisional o definitiva de los hijos, podrá solicitar al Juzgador que conozca del asunto la reincorporación de los menores mediante incidente por cuerda separada, observándose para tal efecto lo dispuesto por el Título Quinto Libro Segundo del presente Código, pudiendo el Juzgador decretar provisionalmente el depósito de los menores ante el Sistema Estatal para el Desarrollo Integral de la Familia.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
 
 ###### Artículo 200.
 
-Inconformidad. Si se presentare inconformidad por alguno de los interesados sobre la resolución o disposiciones decretadas, el juzgador citará a una audiencia que deberá celebrarse en el término de tres días, en la que oirá a los cónyuges y dictará la resolución que corresponda, sin ulterior recurso.
+Inconformidad. Si se presentare inconformidad por alguno de los interesados sobre la resolución o disposiciones decretadas, el juzgador citará a una audiencia que deberá celebrarse en el término de tres días, en la que oirá a las partes y dictará la resolución que corresponda, sin ulterior recurso.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
 
 ###### Artículo 201.
 
-Terminación de la separación judicial. Si al vencimiento del plazo concedido no se acredita al juzgador que se ha presentado la demanda, denuncia o querella, cesarán los efectos de la separación, debiendo volver las cosas al estado que guardaban antes de decretarse la medida. Si uno de los cónyuges se separó, tendrá en todo tiempo el derecho de volver al domicilio conyugal.
+Terminación de la separación judicial. Si al vencimiento del plazo concedido no se acredita al Juzgador que se ha presentado la demanda, denuncia o querella, cesarán los efectos de la separación, debiendo volver las cosas al estado que guardaban antes de decretarse la medida. Si una de las partes se separó, tendrá en todo tiempo el derecho de volver al domicilio conyugal o lugar donde cohabitaban.
 
 ###### Artículo 202.
 
@@ -3221,7 +3263,9 @@ I. Sólo podrá admitirse la apelación en el efecto suspensivo, en los siguient
 
 a) Cuando la Ley de una manera expresa ordene que la apelación se admita con este efecto;
 
-b) Contra las sentencias que se dicten en los juicios que versen sobre divorcio o nulidad de matrimonio y demás cuestiones de familia o estado de las personas, salvo disposición en contrario;
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+
+b) Contra las sentencias que se dicten en los juicios que versen sobre divorcio o nulidad de matrimonio, violencia intrafamiliar y demás cuestiones de familia o estado de las personas, salvo disposición en contrario;
 
 c) Contra las sentencias interlocutorias que paralicen o pongan término al juicio, haciendo imposible su continuación;
 
@@ -4467,9 +4511,11 @@ Irrecusabilidad de los jueces de paz. Los jueces de paz no son recusables; pero 
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+
 ###### Artículo 520.
 
-Orden público de los asuntos del orden familiar. Todos los asuntos inherentes a la familia se considerarán de orden público, por constituir la base de la integración de la sociedad. Por tanto, en todos los asuntos que trata este título deberá tener intervención el Ministerio Público y el Sistema para el Desarrollo Integral de la Familia.
+Orden público de los asuntos del orden familiar. Todos los asuntos inherentes a la familia se considerarán de orden público por constituir la base de la integración de la sociedad, estando facultado el juzgador para decretar las medidas cautelares que tiendan a preservarla y a proteger a sus miembros dentro de los lineamientos legales previstos en el Libro Segundo Título Primero Capítulos IV y VI de este Código. Por tanto, en todos los asuntos que trate este Título deberá tener intervención el Ministerio Público y el Sistema Estatal para el Desarrollo Integral de la Familia.
 
 ###### Artículo 521.
 
@@ -4795,7 +4841,65 @@ Tramitación del juicio. El juicio sobre rectificación se tramitará en la vía
 
 Una vez ejecutoriada la sentencia, se comunicará a la oficina Estatal del Registro Civil y al Oficial del Registro Civil respectivo, para que haga referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
 
-### CAPITULO VIII. JUICIO DE ALIMENTOS
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+
+### CAPITULO VIII BIS. VIOLENCIA INTRAFAMILIAR
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+
+Artículo 566 A.- Solicitud. Tratándose de violencia intrafamiliar la solicitud de intervención judicial podrá presentarse por escrito o expresarse por comparecencia personal ante el Juzgador, en ella se expondrá de manera breve y concisa los hechos que se trate. Con las copias respectivas de la solicitud escrita o comparecencia y de los documentos que en su caso se presentan como pruebas se correrá traslado al demandado señalándose el día y hora en que deberán comparecer dentro del término de nueve días al Juzgado para la práctica de audiencia y valoración de pruebas. En las comparecencias o solicitud presentadas las partes deberán ofrecer las pruebas respectivas, sin más limitación que no sean contrarias a la moral o estén prohibidas por la ley.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+
+Artículo 566 B.- Competencia. Para conocer de la violencia intrafamiliar será competente el del domicilio del actor o del demandado a elección del primero. Por las repercusiones propias de la violencia intrafamiliar, podrá recibir la comparecencia cualquier Juzgador el que una vez que la haya recibido y dictado las medidas cautelares, remitirá las actuaciones al competente.
+
+En auxilio de los Jueces de Primera Instancia podrán recibir la solicitud los Jueces de Paz, quienes una vez que la hayan recibido y dictado en su caso las medidas cautelares, las remitirán al Juez de Primera Instancia de su adcripción.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+
+Artículo 566 C.- Las partes. Las partes de la violencia intrafamiliar son: la víctima y el victimario, entendiéndose por éste al sujeto que realice cualquier acto u omisión recurrente e intencional, realizado con el fin de dominar, someter o controlar o maltratar física, verbal, psico-emocional o sexualmente a cualquiera de las siguientes víctimas, independientemente de que pueda o no producir otro delito:
+
+I.- Su cónyuge;
+
+II.- La pareja a la que esté unida fuera de matrimonio;
+
+III.- Sus parientes consanguíneos en línea recta ascendente o descendente, sin limitación de grados;
+
+IV.- Sus parientes consanguíneos colaterales, hasta el cuarto;
+
+V.- Sus parientes por afinidad;
+
+VI.- Sus parientes consanguíneos hasta el cuarto grado, de la pareja a la que esté unida fuera de matrimonio;
+
+VII.- Sus parientes civiles, ya sea que se trate del adoptante o adoptado;
+
+VIII.- Cualquier otro miembro de la familia, ya sea menor de edad, incapaz, discapacitado o anciano, que esté sujeto a su patria potestad, custodia, guarda, protección, educación, instrucción o cuidado; y,
+
+IX.- La persona con la que tuvo relación conyugal, de concubinato o de pareja unida fuera de matrimonio, en época anterior.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+
+Artículo 566 D.- Legitimación activa. Podrá solicitar la intervención judicial el receptor de la violencia intrafamiliar, tratándose de menor o incapaz su representante legal.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+
+Artículo 566 E.- Medidas cautelares. Al admitirse la solicitud o comparecencia, el Juez dictará las medidas cautelares que correspondan, pudiendo ser entre otras:
+
+a).- Separación de personas;
+
+b).- Prohibición de ir a lugar determinado; y
+
+c).- Prevención al presunto victimario de que no moleste al agredido.
+
+En auxilio de los Jueces de Primera Instancia podrán dictar las medidas cautelares provisionales los Jueces de Paz.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+
+Artículo 566 F.- Tramitación del Juicio. En la práctica de audiencia y valoración de pruebas, ésta se realizará con o sin asistencia de las partes; en ella el agresor manifestará lo que a su derecho corresponda y ofrecerá las pruebas que corroboren su dicho. En caso de no comparecer se darán por ciertos los hechos aludidos por la víctima.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+
+Artículo 566 G.- Resolución. Dentro de los tres días siguientes a la celebración de la audiencia el Juez valorando las pruebas ofrecidas, el contenido de los informes que al respecto hayan sido elaborados por las Instituciones Públicas o Privadas facultadas para ello y escuchando al Ministerio Público, dictará resolución pronunciando las medidas de protección al receptor de la violencia intrafamiliar o dejando firmes las ya pronunciadas, las formas de tratamiento a practicar al agresor para su rehabilitación y todo aquello que conforme a derecho proceda.
 
 ###### Artículo 563.
 
@@ -4821,11 +4925,11 @@ Sentencia. La sentencia se pronunciará de manera breve y concisa, en el mismo m
 
 Las resoluciones sobre alimentos que fueren apeladas, se ejecutarán sin fianza.
 
-### CAPITULO I. INTERDICTOS
+### CAPITULO VIII. JUICIO DE ALIMENTOS
 
 ## TITULO TERCERO. JUICIOS SOBRE POSESION Y PROPIEDAD
 
-### CAPITULO II. JUICIO SOBRE POSESION DEFINITIVA
+### CAPITULO I. INTERDICTOS
 
 ###### Artículo 567.
 
@@ -4893,7 +4997,7 @@ Compete la misma acción a quienes tengan derecho privado o público de paso por
 
 El juzgador que conozca del negocio podrá, mediante fianza que otorgue el actor para responder de los daños y perjuicios que se causen al demandado, ordenar desde luego y sin esperar la sentencia, que el demandado suspenda la obra o realice las obras indispensables para evitar daños al actor.
 
-### CAPITULO III. JUICIO REIVINDICATORIO
+### CAPITULO II. JUICIO SOBRE POSESION DEFINITIVA
 
 ###### Artículo 580.
 
@@ -4949,7 +5053,7 @@ Tramitación del juicio. Las acciones plenarias de posesión se ventilarán en j
 
 Efectos de la sentencia. El actor o el demandado que resulten vencidos en un juicio plenario sobre posesión, perderán la definitiva en beneficio de su contraparte y quedarán impedidos legalmente para hacer uso de interdictos sobre los bienes que fueron objeto del litigio.
 
-### CAPITULO I. JUICIO EJECUTIVO
+### CAPITULO III. JUICIO REIVINDICATORIO
 
 ###### Artículo 588.
 
@@ -5019,9 +5123,7 @@ Vía procedente. Los juicios sobre reivindicación se ventilarán en la vía ord
 
 ## TITULO CUARTO. JUICIOS EJECUTIVOS
 
-### CAPITULO II. JUICIO ESPECIAL HIPOTECARIO
-
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 1998)</small>
+### CAPITULO I. JUICIO EJECUTIVO
 
 ###### Artículo 595.
 
@@ -5091,7 +5193,9 @@ Derecho del deudor de consignar el importe de la deuda a resultas del juicio. Cu
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 6 DE ENERO DE 1998)</small>
 
-### CAPITULO III. JUICIO ESPECIAL DE DESAHUCIO
+### CAPITULO II. JUICIO ESPECIAL HIPOTECARIO
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 1998)</small>
 
 ###### Artículo 603.
 
@@ -5191,7 +5295,7 @@ VI. Obtenido el valor del avalúo, según el caso que corresponda de acuerdo a l
 
 VII. El auto aprobatorio del remate y las demás resoluciones que se dicten en esta vía especial hipotecaria podrán ser apeladas sólo en efecto devolutivo y en ningún caso podrá suspenderse el procedimiento.
 
-### CAPITULO I. REGLAS GENERALES
+### CAPITULO III. JUICIO ESPECIAL DE DESAHUCIO
 
 ###### Artículo 612.
 
@@ -5263,7 +5367,7 @@ Diligencia de lanzamiento. La diligencia de lanzamiento se entenderá con el eje
 
 ## TITULO QUINTO. CONCURSOS
 
-### CAPITULO II. RECONOCIMIENTO Y GRADUACION DE CREDITOS
+### CAPITULO I. REGLAS GENERALES
 
 ###### Artículo 621.
 
@@ -5355,7 +5459,7 @@ II. Presentar dentro de los cinco días de la notificación del auto que declar�
 
 III. Se abstendrá de seguir administrando sus bienes, así como de continuar cualquier otra administración que por ley le corresponda.
 
-### CAPITULO III. ADMINISTRACION DEL CONCURSO
+### CAPITULO II. RECONOCIMIENTO Y GRADUACION DE CREDITOS
 
 ###### Artículo 631.
 
@@ -5417,7 +5521,7 @@ Si hubiere algún remanente, se entregará al concursado.
 
 Concurso especial de acreedores hipotecarios. Si hubiere varios acreedores hipotecarios garantizados con los mismos bienes, puede formar un concurso especial entre ellos, y serán pagados por el orden de fechas con que se otorgaron las hipotecas. Si éstas se registraron dentro del término legal, o según el orden en que se hayan registrado los gravámenes, si la inscripción se hizo fuera del término de ley. Cuando en el concurso sólo hubiere acreedores hipotecarios, se nombrará síndico al acreedor hipotecario primero en tiempo, quien litigará en representación de los demás, observándose lo dispuesto en los artículos precedentes.
 
-### CAPITULO IV. DEUDOR COMUN
+### CAPITULO III. ADMINISTRACION DEL CONCURSO
 
 ###### Artículo 639.
 
@@ -5453,7 +5557,7 @@ Cuenta mensual del estado de la administración. El síndico deberá presentar, 
 
 Remoción del síndico. El síndico será removido de plano si dejare de rendir la cuenta mensual, o de caucionar su manejo. En los demás casos, la remoción se tramitará incidentalmente.
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO IV. DEUDOR COMUN
 
 ###### Artículo 646.
 
@@ -5481,7 +5585,7 @@ La demanda incidental de rehabilitación se presentará ante el mismo juzgador q
 
 ## TITULO SEXTO. SUCESIONES
 
-### CAPITULO II. TESTAMENTARIAS
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### Artículo 648.
 
@@ -5643,7 +5747,7 @@ IV. Sección cuarta, llamada "De partición". Contendrá el proyecto de distribu
 
 Los procedimientos de las secciones segunda y cuarta son comunes para todos los juicios. Las secciones tercera y cuarta podrán omitirse cuando el heredero sea único y a la vez desempeña el cargo de albacea.
 
-### CAPITULO III. INTESTADOS
+### CAPITULO II. TESTAMENTARIAS
 
 ###### Artículo 665.
 
@@ -5689,7 +5793,7 @@ Las cuestiones que no afecten la validez del testamento, o la capacidad para her
 
 Trámites posteriores del juicio testamentario. Una vez celebrada la audiencia a que se refiere el artículo anterior y dictadas las resoluciones que correspondan, los trámites de juicio testamentario serán los mismos que los establecidos por los artículos siguientes, respecto a las secciones de inventarios, administración y partición.
 
-### CAPITULO IV. INVENTARIO
+### CAPITULO III. INTESTADOS
 
 ###### Artículo 671.
 
@@ -5777,7 +5881,7 @@ Efecto de la declaración de heredero. La declaración de los herederos de un in
 
 Renuncia a la junta y designación del albacea. Cuando todos los interesados estén conformes o el heredero sea único, podrán renunciar a la junta y hacer por escrito la designación de albacea. El heredero único será siempre nombrado albacea.
 
-### CAPITULO V. AVALUO
+### CAPITULO IV. INVENTARIO
 
 ###### Artículo 680.
 
@@ -5839,7 +5943,7 @@ El inventario perjudica a los que lo hicieron y a los que lo aprobaron.
 
 Aprobado el inventario por el juzgador o por el consentimiento de todos los interesados, no puede reformarse sino por error o dolo declarados por sentencia definitiva pronunciada en juicio; pero siempre se entenderá aprobado con la reserva de que si aparecieren nuevos bienes o deudas, se agreguen como corresponda.
 
-### CAPITULO VI. ADMINISTRACION
+### CAPITULO V. AVALUO
 
 ###### Artículo 688.
 
@@ -5875,7 +5979,7 @@ Realización simultánea del inventario y avalúo. El inventario y avalúo se ha
 
 Oposición del avalúo. La oposición a los avalúos se tramitará de acuerdo con las reglas establecidas en el artículo 685.
 
-### CAPITULO VII. LIQUIDACION Y PARTICION DE LA HERENCIA
+### CAPITULO VI. ADMINISTRACION
 
 ###### Artículo 693.
 
@@ -5963,7 +6067,7 @@ VIII. Si todos los interesados aprobaren la cuenta, o no la impugnaren, el juzga
 
 IX. El auto que apruebe o repruebe la cuenta será apelable en el efecto devolutivo.
 
-### CAPITULO VIII. TRANSMISION HEREDITARIA DEL PATRIMONIO FAMILIAR
+### CAPITULO VII. LIQUIDACION Y PARTICION DE LA HERENCIA
 
 ###### Artículo 699.
 
@@ -6069,7 +6173,7 @@ VI. La firma de todos los interesados o la firma en rebeldía por el juzgador.
 
 Apelación de la sentencia. La sentencia que apruebe o repruebe la partición, es apelable en el efecto suspensivo.
 
-### CAPITULO IX. TRAMITACION ANTE NOTARIOS
+### CAPITULO VIII. TRANSMISION HEREDITARIA DEL PATRIMONIO FAMILIAR
 
 ###### Artículo 710.
 
@@ -6095,7 +6199,7 @@ VII. El acta o actas en que consten las adjudicaciones servirán de título a lo
 
 VIII. La transmisión de los bienes del patrimonio familiar estará exenta de impuestos, cualquiera que sea su naturaleza.
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO IX. TRAMITACION ANTE NOTARIOS
 
 ###### Artículo 712.
 
@@ -6311,7 +6415,7 @@ Intervención de los juzgadores de primera instancia. Es competente para todos l
 
 ## TITULO OCTAVO. PROCEDIMIENTOS EN JURISDICCION VOLUNTARIA
 
-### CAPITULO II. ADOPCION
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### Artículo 742.
 
@@ -6379,7 +6483,7 @@ Substanciación de la apelación. La substanciación de las apelaciones en los p
 
 Costas. Las costas que se ocasionen en los procedimientos judiciales no contenciosos son a cargo del promovente.
 
-### CAPITULO III. NOMBRAMIENTO DE TUTORES Y CURADORES
+### CAPITULO II. ADOPCION
 
 ###### Artículo 752.
 
@@ -6403,7 +6507,7 @@ Para acreditar cualquier hecho relativo a la conveniencia de la revocación, pue
 
 Impugnación de la resolución. La impugnación de la adopción y la revocación, se tramitarán en juicio contradictorio.
 
-### CAPITULO IV. AUTORIZACION PARA VENDER Y GRAVAR BIENES Y TRANSIGIR DERECHOS DE MENORES, INCAPACITADOS Y AUSENTES
+### CAPITULO III. NOMBRAMIENTO DE TUTORES Y CURADORES
 
 ###### Artículo 756.
 
@@ -6477,7 +6581,7 @@ Separación del tutor. Cuando del examen de la cuenta resulten motivos graves pa
 
 Los tutores y curadores no pueden ser removidos sin que se siga el juicio contradictorio de que habla este artículo, ni tampoco pueden aceptarse sus excusas sin que se substancie el incidente respectivo.
 
-### CAPITULO V. DECLARACION DE AUSENCIA O DE PRESUNCION DE MUERTE
+### CAPITULO IV. AUTORIZACION PARA VENDER Y GRAVAR BIENES Y TRANSIGIR DERECHOS DE MENORES, INCAPACITADOS Y AUSENTES
 
 ###### Artículo 766.
 
@@ -6523,7 +6627,7 @@ Solicitud para recibir préstamo a nombre del menor o incapacitado o para realiz
 
 En igual forma se procederá para llevar a cabo transacciones sobre bienes o derechos que pertenezcan a menores o incapacitados, y para dar en arrendamiento por más de cinco años sus bienes.
 
-### CAPITULO VI. INFORMACIONES AD PERPETUAM
+### CAPITULO V. DECLARACION DE AUSENCIA O DE PRESUNCION DE MUERTE
 
 ###### Artículo 772.
 
@@ -6563,7 +6667,7 @@ Facultades del Ministerio Público. El Ministerio Público velará por los inter
 
 Reglas aplicables a los bienes de los ausentes. Las reglas del capítulo anterior serán aplicables en lo conducente para el gravamen, enajenación, transacción y arrendamiento por más de cinco años, de bienes pertenecientes a ausentes.
 
-### CAPITULO VII. APEO O DESLINDE
+### CAPITULO VI. INFORMACIONES AD PERPETUAM
 
 ###### Artículo 778.
 
@@ -6596,6 +6700,8 @@ i) De la sentencia de segunda instancia deberán publicarse los puntos resolutiv
 j) En caso de oposición, el juez del conocimiento debe dar vista a las partes, y acto seguido, deberá sobreseer las diligencias de jurisdicción voluntaria como asunto debidamente concluído; y
 
 k) Las informaciones se protocolizarán en el protocolo del notario que designe el promovente, quien dará al interesado el testimonio respectivo para su inscripción en el Registro Público de la Propiedad.
+
+### CAPITULO VII. APEO O DESLINDE
 
 ###### Artículo 779.
 
@@ -6720,3 +6826,9 @@ El presente Decreto entrará en vigor a los tres días siguiente de su publicaci
 Todos los créditos con garantía hipotecaria contraídos con anterioridad a la entrada en vigor del presente Decreto, se regirán conforme a las normas civiles y procesales civiles vigentes al momento de la contratación de los mismos.
 
 Lo dispuesto en el párrafo anterior también se observará tratándose de las reestructuraciones, renegociaciones o nuevos convenios de deuda o crédito que tengan como antecedente un crédito hipotecario, que se efectúen con posterioridad a la entrada en vigor del presente Decreto.
+
+P.O. 9 DE NOVIEMBRE DE 1999.
+
+PRIMERO.- El presente Decreto que reforma, adiciona y deroga diversas disposiciones del Código Penal del Estado de Guerrero; del Código de Procedimientos Penales para el Estado de Guerrero; del Código Civil del Estado de Guerrero; del Código Procesal Civil del Estado Libre y Soberano de Guerrero; de la Ley de Divorcio del Estado de Guerrero; y de la Ley Orgánica del Poder Judicial del Estado de Guerrero, entrará en vigor al día siguiente después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los asuntos pendientes al entrar en vigor este Decreto se sujetarán a las disposiciones anteriores.
