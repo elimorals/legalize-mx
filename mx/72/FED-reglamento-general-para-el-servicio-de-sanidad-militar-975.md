@@ -4,7 +4,7 @@ identifier: "FED-reglamento-general-para-el-servicio-de-sanidad-militar-975"
 country: "mx"
 rank: "reglamento"
 publication_date: "1942-09-23"
-last_updated: "1942-09-23"
+last_updated: "1951-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=975&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1942-07-10"
 
 REGLAMENTO GENERAL PARA EL SERVICIO DE SANIDAD MILITAR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. CONFORME AL DECRETO PUBLICADO EN EL D.O.F. DE 9 DE MARZO DE 1951, LOS MEDICOS MILITARES COMISIONADOS PARA REALIZAR ESTUDIOS EN EL EXTRANJERO ESTARAN OBLIGADOS A SERVIR EN EL EJERCITO 1 O 2 AÑOS, SI EL COSTO DE LOS ESTUDIOS CORRE A CARGO DEL INTERESADO O DEL PRESUPUESTO DE LA SECRETARIA, RESPECTIVAMENTE; BENEFICIO QUE SE CONCEDERA POR UNA SOLA VEZ A LOS INTERESADOS, DEBIENDO ELABORAR LA TESIS CORRESPONDIENTE.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE MARZO DE 1951.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 23 de septiembre de 1942.
 
@@ -2407,4 +2409,30 @@ ESCALON FIJO DEL HOSPITAL DE REGION
 
 Determinará sus componentes la Dirección de Sanidad.
 
-> <small>N. DE E. VEASE IMAGENES EN LA SEGUNDA SECCION DEL D.O.F. DE 23 DE SEPTIEMBRE DE 1942, PAGINAS DE LA 22 A LA 24.</small>
+> <small>N. DE E. VEASE IMAGENES EN LA SEGUNDA SECCION DEL D.O. DE 23 DE SEPTIEMBRE DE 1942, PAGINAS DE LA 22 A LA 24.</small>
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 9 DE MARZO DE 1951.
+
+SE TRANSCRIBEN LOS ARTICULOS DEL DECRETO DE REFORMA QUE SE RELACIONAN CON EL REGLAMENTO.
+
+###### ARTICULO 2°.
+
+Se adiciona el Reglamento de Sanidad Militar en el sentido de que los médicos militares que sean comisionados para realizar estudios en el extranjero y cuyas erogaciones estén a cargo del Presupuesto de la Secretaría de la Defensa Nacional, estarán obligados a servir en el Ejército dos años o más como tiempo de servicio adicional por cada uno de los que permanezcan comisionados. En el caso de que sean comisionados, cubriendo los propios interesados el costo de sus estudios en el extranjero, estarán obligados a servir en el Ejército un año más como tiempo de servicio adicional por cada uno que permanezca en la citada comisión.
+
+El consentimiento de los interesados deberá ser dado en forma expresa por escrito.
+
+###### ARTICULO 3°.
+
+Se adicionan los Reglamentos de la Escuela Médico Militar y el de Sanidad Militar, en el sentido de que el beneficio de comisión para realizar estudios en el extranjero, a que se contrae el presente decreto, se concederá por una sola vez a los interesados y siempre que hayan prestado servicios precisamente en unidades de tropa, como médicos, por un tiempo no menor de un año; y en todo caso la Dirección de Sanidad Militar estará facultada para opinar sobre la conveniencia e inconveniencia, al buen servicio, de realizar los estudios en el extranjero, de los médicos militares que resultasen designados para ello, debiendo proponer lo conducente.
+
+###### ARTICULO 4°.
+
+Los médicos militares al terminar sus estudios en el extranjero y al presentarse a la Dirección de Sanidad a recibir órdenes de nuevo destino, tendrán la obligación de elaborar una tesis relacionada con la especialidad y conocimientos que hayan obtenido; proponiendo las aplicaciones de estos conocimientos al servicio del Ejército en un plazo razonable que será fijado por la propia Dirección.
+
+TRAN SITORIO:
+
+###### ARTICULO UNICO.
+
+Este decreto comenzará a regir a partir de la fecha de su publicación en el "Diario Oficial" de la Federación, quedando derogadas todas las disposiciones en vigor, que a él se opongan.
