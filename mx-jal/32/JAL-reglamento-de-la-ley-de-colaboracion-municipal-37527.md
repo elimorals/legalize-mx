@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-colaboracion-municipal-37527"
 country: "mx"
 rank: "reglamento"
 publication_date: "1950-10-24"
-last_updated: "1954-04-15"
+last_updated: "1956-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY DE COLABORACIÓN MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 1954.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 1956.
 
 Reglamento publicado en el Periódico Oficial del Estado de Jalisco, el martes 24 de octubre de 1950.
 
@@ -71,11 +71,17 @@ III.- Empedrados.
 
 6.- Se autoriza al Ejecutivo del Estado para que, en los casos que lo estime pertinente, otorgue su aval a los contratos de obra que celebre el Consejo.
 
-7.- Los contratos que el Consejo otorgue en ejercicio de las facultades que le confieren los artículos tercero fracción VIII y séptimo de la Ley, serán publicados en el Periódico Oficial del Estado, dentro de los diez días siguientes a su perfeccionamiento.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1956)</small>
 
-8.- En ejercicio de las atribuciones que el artículo 24 de la Ley confiere a la Dirección de Obras Públicas del Ayuntamiento, este organismo, mediante el servicio de residencias, verificará que en todo momento se ajusten los pavimentos a las normas de calidad que hubiere establecido el Consejo.
+7.- Los contratos que el Consejo otorgue en ejercicio de las facultades que le confieren los artículos 3o. fracción VIII y 7o. De la Ley, serán publicados en extracto, en el Periódico Oficial del Estado, dentro de los diez días siguientes a su perfeccionamiento.
 
-9.- Antes de proceder a la pavimentación de una calle o avenida, o de una zona para la que se haya acordado el mismo tipo de pavimento, el Consejo citará a los propietarios afectados a una junta en la que se les informará ampliamente sobre los diversos aspectos de la obra, así como sobre los contratos que se hubiesen propalado para la construcción de los pavimentos.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1956)</small>
+
+8.- En ejercicio de las atribuciones que el artículo 24 de la Ley confiere a la Dirección de Obras Públicas del Ayuntamiento, este organismo, mediante el servicio de residencias verificará que en todo momento se ajusten, las diversas obras a que se refiere el artículo 1o. a las normas de calidad que se hubieren establecido de acuerdo con el artículo 3o.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1956)</small>
+
+9.- Antes de proceder a las obras mencionadas en el artículo 1o. en una calle o avenida o en una zona, el Consejo citará a los propietarios afectados a una junta en la que se les informará ampliamente sobre los diversos aspectos de la obra u obras así como los contratos que se hubieren propalado para la construcción de las mismas.
 
 10.- Las citaciones a las juntas se harán mediante avisos que se publicarán cuando menos una vez en el Periódico Oficial del Estado y en uno de los diarios comerciales de la ciudad.
 
@@ -85,9 +91,9 @@ III.- Empedrados.
 
 Los interesados podrán concurrir personalmente o bien por medio de Apoderado acreditado con simple carta poder.
 
-> <small>(F. DE E., P.O. 7 DE DICIEMBRE DE 1950)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1956)</small>
 
-13.- Se tendrán por aprobadas las resoluciones del Consejo en todos los aspectos de la pavimentación cuando:
+13.- Se tendrán por aprobadas las resoluciones de la Junta en todos los aspectos de la obra u obras cuando:
 
 I. Ningún propietario concurra a la Junta.
 
@@ -95,7 +101,7 @@ II. La mayoría de los que concurran otorguen su conformidad.
 
 III. La mayoría de los que concurran se opongan a cualquiera de los aspectos; pero los opositores representen menos del cincuenta por ciento de los propietarios comprendidos en la zona.
 
-IV. Habiéndose formulado oposición, no se exhiba oportunamente el escrito de que habla el artículo 15.
+IV. Habiéndose formulado oposición, no se exhiba oportunamente el escrito de que habla el artículo 15o.
 
 > <small>(F. DE E., P.O. 7 DE DICIEMBRE DE 1950)</small>
 
@@ -123,7 +129,9 @@ V.- El costo total de las obras de agua y drenaje, el cual se distribuirá entre
 
 Las tomas domiciliarias se pagarán por separado, conforme a las disposiciones de la Ley de Ingresos. Dentro del costo del pavimento se comprende no sólo el del propiamente tal, sino también el de las obras preparatorias, como movimiento de terracerías, preparación de base, etcétera.
 
-18.- Se encomienda a los organismos hacendarios del Estado el control y la recaudación de los créditos fiscales derivados de la cooperación a que se refiere el artículo procedente.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1956)</small>
+
+18.- Se encomienda a los organismos hacendarios del Estado o a la Tesorería Municipal, en los términos del artículo 16 de la Ley, el control y la recaudación de los créditos fiscales derivados de la cooperación a que se refiere el artículo procedente.
 
 19.- El importe de la cooperación a cargo de cada propietario se cubrirá:
 
@@ -135,7 +143,9 @@ III. En exhibiciones mensuales de $ 100.00, cuando su importe sea superior a $ 5
 
 IV. En dieciocho mensualidades iguales, cuando su importe exceda de $ 1,800.00.
 
-20.- Los pagos se efectuarán en la Delegación de Hacienda, por mensualidades anticipadas, dentro de los primeros quince días de cada mes, a partir de la fecha en que la propia oficina determine; pero no antes de que los pavimentos se encuentren ya en formal proceso de construcción en la zona correspondiente al cooperador.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1956)</small>
+
+20.- Los pagos se efectuarán en la Delegación de Hacienda o en la Tesorería Municipal, según el caso, por mensualidades anticipadas dentro de los primeros quince días de cada mes a partir de la fecha en que la propia oficina determiné pero no antes de que la obra u obras se encuentren ya en formal proceso de construcción en la zona correspondiente al cooperador.
 
 21.- La falta de pago de tres mensualidades consecutivas, hará exigible la totalidad del crédito fiscal.
 
@@ -143,33 +153,37 @@ IV. En dieciocho mensualidades iguales, cuando su importe exceda de $ 1,800.00.
 
 23.- Las demoras en los pagos generarán recargos, en los términos establecidos en las Leyes del Estado para los demás créditos fiscales.
 
-24.- El Delegado de Hacienda no percibirá honorarios sobre la recaudación; pero en los casos en que se instauren procedimientos de apremio, se aplicarán las cuotas ordinarias por gastos de cobranza.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1956)</small>
+
+24.- El Delegado de Hacienda o el Tesorero Municipal no percibirán honorarios sobre la recaudación, pero en los casos en que se instauren procedimientos de apremio, se aplicarán las cuotas ordinarias por gastos de cobranza.
 
 25.- El producto de las recaudaciones será puesto a disposición del Consejo, el cual podrá retirarlo mediante órdenes de pago que expida con las formalidades previstas en el artículo séptimo de la Ley.
 
-26.- El Consejo podrá estipular en garantía, en los contratos que otorgue para la construcción de los pavimentos, que la recaudación de las cooperaciones sea delegada en fideicomiso a una institución de crédito. Pero el otorgamiento de esta garantía, será incompatible con el aval del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1956)</small>
+
+26.- EI Consejo podrá estipular en garantía, en los contratos que otorgue para la construcción de las obras a que se refiere el artículo 1o. de la Ley, que la recaudación de las cooperaciones, sea delegada en fedeicomiso (sic) a una institución de crédito. Pero el otorgamiento de esta garantía, será incompatible con el aval del Gobierno del Estado.
 
 27.- En el Catastro no se dará trámite a las operaciones de transmisión de dominio cuando, estándose en el caso previsto en el artículo 20 de la Ley, las fincas de que se trate no estén al corriente en los pagos.
 
 28.- El Consejo, actuando con la investidura de organismo fiscal que le atribuye el artículo noveno de la Ley, propondrá la cantidad líquida, que conforme a las bases establecidas en la Ley y en este Reglamento, corresponda pagar a cada cooperador.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 1954)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1956)</small>
 
-29.- El Delegado de Hacienda notificará al cooperador la proposición del Consejo, mediante un instructivo que cuando menos exprese:
+29.- El Delegado de Hacienda o el Tesorero Municipal en su caso, notificarán al cooperador la proposición del Consejo, mediante un instructivo que cuando menos exprese:
 
-A.- El nombre del propietario.
+A.- EI nombre del propietario.
 
 B.- La ubicación del predio.
 
-C.- La extensión de su frente a la calle.
+C.- La extensión del frente.
 
-D.- La superficie del predio cuando sea necesario.
+D.- La extensión de la superficie a su cargo.
 
-E.- La extensión de la obra a su cargo.
+E.- El costo del pavimento por metro cuadrado.
 
-F.- El costo unitario de la misma.
+F.- La participación en la derrama de cubo.
 
-G.- La participación de la derrama por el cubo de la esquina, o la obra, extraordinaria.
+G.- En su caso, el cargo por guarniciones.
 
 H.- El importe líquido total de la cooperación.
 
@@ -181,11 +195,17 @@ J.- La fecha de iniciación de los pagos.
 
 31.- Si el cooperador se inconforma con la liquidación, será citado a una audiencia ante el funcionario que el Presidente del Consejo designe. En ella se oirán sus objeciones, se le recibirán las pruebas que ofrezca y se escuchará el alegato que formule.
 
-Dentro de los tres días siguientes, el Presidente del Consejo dictará su resolución definitiva, la cual será comunicada al Departamento de Economía y Hacienda para los efectos de la recaudación.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1956)</small>
 
-32.- Los escritos de inconformidad se presentarán por conducto del Jefe del Departamento de Economía y Hacienda.
+Dentro de los tres días siguientes, el Presidente del Consejo dictará su resolución definitiva la cual será comunicada al Departamento de Economía y Hacienda o a la Tesorería Municipal según el caso, para los efectos de la recaudación.
 
-33.- Dentro del procedimiento que se instituye en los artículos anteriores, se aplicarán en lo conducente los preceptos de carácter procesal contenidos en el Código Hacendario.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1956)</small>
+
+32.- Los escritos de inconformidad se presentarán por conducto del Jefe del Departamento de Economía y Hacienda o del Tesorero Municipal en su caso, según quien haya notificado.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1956)</small>
+
+33.- Dentro del procedimiento que se instituye en los artículos anteriores, se aplicarán en lo conducente los preceptos de carácter procesal contenidos en el Código Hacendario y en su caso, los prevenidos en la Ley de Hacienda Municipal.
 
 34.- Operará la rescisión prevista en el artículo 28 de la Ley de Mejoramiento Urbano respecto de los contratos de arrendamiento relativos a predios que resulten afectos a la cooperación.
 
@@ -232,3 +252,9 @@ P.O. 15 DE ABRIL DE 1954.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 5937 POR EL QUE “SE REFORMA EL DECRETO 5575 EXPEDIDO POR LA XXXIX LEGISLATURA DEL ESTADO, EN LOS ARTÍCULOS 1, 2, 3, 17, Y 29 DEL REGLAMENTO DE LA LEY DE COLABORACIÓN MUNICIPAL”.]
 
 UNICO.- Esta Ley entrará en vigor el día de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+P.O. 31 DE MARZO DE 1956.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 7049.- REFORMANDO ARTÍCULOS DEL REGLAMENTO DE LA LEY DE COLABORACIÓN MUNICIPAL”.]
+
+UNICO.- Esta Ley comenzará a surtir sus efectos el día de su publicación en el Periódico Oficial “El Estado de Jalisco”.
