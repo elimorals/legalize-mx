@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-las-comisiones-estatales-de-servicios-publicos-del-3841"
 country: "mx"
 rank: "ley"
 publication_date: "1979-02-10"
-last_updated: "1992-05-20"
+last_updated: "2000-11-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3841&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LAS COMISIONES ESTATALES DE SERVICIOS PUBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 2000.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 10 de febrero de 1979.
 
@@ -83,9 +83,13 @@ I.- El Gobernador del Estado.
 
 II.- El Secretario de Asentamientos Humanos y Obras Públicas.
 
-III.- El Secretario de Finanzas.
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2000)</small>
 
-IV.- El Secretario de Planeación y Presupuesto.
+III.- El Secretario de Planeación y Finanzas.
+
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2000)</small>
+
+IV.- Un representante ciudadano, que será seleccionado por el Gobernador del Estado de la Terna que proponga el cabildo del Municipio correspondiente.
 
 V.- Dos representantes de la Iniciativa Privada que serán seleccionados por el Gobernador del Estado de las ternas que proponga la Cámara de Comercio y la Delegación de la Cámara Nacional de la Industria de Transformación del Municipio correspondiente.
 
@@ -300,3 +304,9 @@ La Comisión Estatal de Servicios Públicos de Tecate deberá asumir las obligac
 ###### ARTICULO QUINTO.
 
 Las presentes disposiciones entran en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Baja California.
+
+P.O. 3 DE NOVIEMBRE DE 2000.
+
+###### ARTICULO UNICO.
+
+La presente Reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
