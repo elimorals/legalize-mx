@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "1993-06-03"
+last_updated: "1994-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 1994.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -1777,7 +1777,11 @@ XVII.- El reconocimiento hecho por la mujer casada, sin el consentimiento del ma
 
 XVIII.- Negarse la mujer a acompañar al marido cuando éste traslade su domicilio a otro punto del territorio nacional, y esté separada de él por más de seis meses, a no ser que se le hubiera eximido de ello con areglo (sic) a lo dispuesto en el artículo 174;
 
-XIX.- Negarse la mujer a acompañar al marido cuando éste traslade su domicilio al extranjero, y esté separada de él por el término de un año, sin que se le hubiera eximido de ello de acuerdo con la disposición citada en la fracción anterior.
+XIX.- Negarse la mujer a acompañar al marido cuando éste traslade su domicilio al extranjero, y esté separada de él por el término de un año, sin que se le hubiera eximido de ello de acuerdo con la disposición citada en la fracción anterior;
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
+
+XX.- La separación de los cónyuges por más de dos años, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualesquiera de ellos.
 
 ###### Art. 288.
 
@@ -1859,7 +1863,9 @@ Cuarta.- En todo caso los hijos y las hijas menores de cinco años quedarán al 
 
 Quinta.- En el caso de las fracciones VI y VII del artículo 287, los hijos quedarán en poder del cónyuge sano; pero el consorte enfermo conservará los demás derechos sobre la persona y bienes de sus hijos.
 
-Sexta.- (DEROGADA, P.O. 28 DE ABRIL DE 1981)
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
+
+Sexta.- En el caso de la fracción XX del artículo 287 ambos padres conservarán el ejercicio de la patria potestad sobre sus hijos menores, pero el juez gozará de las más amplias facultades para resolver todo lo relativo a la custodia y cuidado de aquellos, debiendo obtener durante el juicio, de oficio, los elementos de juicio necesarios para ello.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
 
@@ -1888,6 +1894,10 @@ Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes
 ###### Art. 304.
 
 En los casos de divorcio, el juez, tomando en cuenta las circunstancias del caso, y entre ellas la capacidad para trabajar de los cónyuges y su situación económica, sentenciará al culpable al pago de alimentos en favor del inocente. Este derecho lo disfrutará en tanto viva honestamente y no contraiga nupcias. Además, cuando por el divorcio se originen daños o perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
+
+En el caso de la fracción XX del artículo 287 ninguno de los cónyuges tendrá derecho a alimentos o a la indemnización prevista en el párrafo anterior. La obligación alimentaria únicamente la tendrán ambos para con sus hijos en los términos previstos por este Código.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1981)</small>
 
@@ -15592,6 +15602,12 @@ P.O. 3 DE JUNIO DE 1993.
 PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 27 DE SEPTIEMBRE DE 1994.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan a las contenidas en este decreto.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 207 POR EL QUE "ARTICULO UNICO.- ART. 2902".]
 
