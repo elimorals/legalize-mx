@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2001-01-15"
+last_updated: "2001-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2001.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -161,11 +161,27 @@ V. Por disposición expresa de autoridad judicial en sentencia que haya causado 
 
 VI. En los demás casos que las leyes determinen.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1937)</small>
+> <small>(ADICIONADO, P.O. 09 DE MAYO DE 2001)</small>
+
+Una vez suspendida o perdida la calidad de ciudadano sinaloense, sólo se recobrará en la forma y términos que previene esta Constitución o la Ley respectiva.
+
+> <small>(REFORMADO, P.O. 09 DE MAYO DE 2001)</small>
 
 ###### Art. 13.
 
-Una vez suspendida o perdida la calidad de ciudadano sinaloense, sólo se recobrará en la forma y términos que previene esta Constitución o la Ley respectiva.
+El varón y la mujer son iguales ante la ley. La familia constituye la base fundamental de la sociedad. Los niños y las niñas deberán ser objeto de especial protección. Las personas de la tercera edad y los discapacitados deben recibir apoyo permanente. Toda medida o disposición en favor de la familia y de la niñez, se considerará de orden público.
+
+La ley garantizará que la mujer no sea objeto de discriminación y que tenga los mismos derechos y obligaciones que el varón, en la vida política, social, económica y cultural del Estado, con el fin de que desarrolle sus potencialidades.
+
+Todos los niños y las niñas, nacidos de matrimonio o fuera de él, tienen derecho a igual protección, a la satisfacción de sus necesidades y a la salud física y mental. Las autoridades deberán dictar las disposiciones que se requieran para el cumplimiento de esos propósitos.
+
+> <small>(F. DE E., P.O. 21 DE MAYO DE 2001)</small>
+
+Los ascendientes, tutores y custodios tienen el deber de garantizar los derechos señalados en el párrafo anterior a fin de que lleven una vida digna en el seno de la familia. El Estado les otorgará facilidades a aquellos para que cumplan con lo señalado en este párrafo.
+
+Los gobiernos estatal y municipales establecerán un sistema permanente de apoyo a las personas de la tercera edad para permitirles una vida digna y decorosa; y, promoverán la habilitación, rehabilitación e integración de los discapacitados con el objeto de facilitar su pleno desarrollo.
+
+El Estado de Sinaloa, tiene una composición pluricultural y reconoce el derecho a preservar la forma de vida de sus pueblos indígenas, y elevar el bienestar social de sus integrantes. La ley protegerá y promoverá el desarrollo de sus lenguas, culturas, religión, la educación bilingüe, usos, costumbres, tradiciones, prácticas democráticas, patrimonio étnico y artesanal, medio ambiente, recursos, medicina tradicional y formas específicas de organización social, y garantizará a sus integrantes el efectivo acceso a la jurisdicción del Estado.
 
 ### CAPITULO III. DE LAS ELECCIONES
 
@@ -2716,6 +2732,12 @@ Artículo Segundo.- La fracción III del artículo 95 adicionada por este decret
 Los Magistrados que se encuentren en la hipótesis señalada en el primer párrafo de este artículo, serán sustituidos cada doce meses a partir de esa fecha, iniciando con el de mayor tiempo efectivo en el desempeño del cargo de Magistrado y así sucesivamente hasta concluir su aplicación.
 
 Artículo Tercero.- Los magistrados actualmente en funciones que ya hubieren cumplido más de 30 años de servicios en el Poder Judicial del Estado, a los que se refiere la fracción II del artículo que es objeto de la reforma, y los que a partir del 01 de enero del 2002 se encuentren en la hipótesis de la fracción III del artículo que es objeto de la reforma, tendrán derecho a la pensión por retiro a que se refiere el último párrafo del propio artículo 95 de la Constitución Política del Estado de Sinaloa y los artículos 90 y 91 de la Ley Orgánica del Poder Judicial del Estado de Sinaloa.
+
+P.O. 09 DE MAYO DE 2001.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 ###### ARTÍCULO PRIMERO.
 
