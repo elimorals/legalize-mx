@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "1990-06-09"
+last_updated: "1995-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO PENAL PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 1995.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -209,7 +209,7 @@ Hay concurso ideal o formal cuando con una sola conducta dolosa, culposa o prete
 
 Hay concurso real o material cuando con pluralidad de conductas dolosas, culposas o preterintencionales se cometen varios delitos.
 
-En caso de concurso de delitos se estará a lo dispuesto en el artículo 105 de este Código.
+En caso de concurso de delitos se estará a los dispuesto en el artículo 105 de este Código.
 
 ### CAPITULO V. REINCIDENCIA
 
@@ -1305,6 +1305,8 @@ Si el agente espontáneamente pone en libertad a la víctima dentro de los tres 
 
 ### CAPITULO V. ASALTO
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1995)</small>
+
 ### CAPITULO VI. ALLANAMIENTO DE MORADA
 
 ###### ARTICULO 166.
@@ -1371,11 +1373,23 @@ Si el amenazador cumple su amenaza, se acumulará a la sanción de ésta, la del
 
 ###### ARTICULO 173.
 
-Al que en lugar solitario o desprotegido haga uso de la violencia sobre una persona, con el propósito de causarle un mal, obtener un lucro o exigir su asentimiento para cualquier fin, se le impondrá prisión de uno a seis años y multa de 10 a 50 días.
+Al que en lugar solitario y desprotegido, haga uso de la violencia sobre una o más personas, con el propósito de causarles un mal o exigir su asentimiento para cualquier fin ilícito u obtener un lucro de cualquier índole, se le impondrá prisión de cuatro a diez años y multa de 20 a 100 días.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 174.
 
-Si el asalto se verificare de noche o fueren más de dos asaltantes la pena podrá aumentarse hasta una tercera parte más.
+La misma punibilidad del artículo que antecede, se impondrá a quien, haciendo uso de la violencia sobre una o más personas, con el propósito de causarles un mal o exigir su asentimiento para cualquier fin ilícito u obtener un lucro de cualquier índole, la acometa:
+
+I.- En casa habitación o sus accesorias, comprendiendo también los lugares de habitación móviles;
+
+II.- Encontrándose en un vehículo particular o de transporte público; o
+
+III.- En local comercial o cualquier tipo de oficinas abiertos al público.
+
+La punibilidad señalada en éste y el anterior artículo, se aumentará hasta una mitad, cuando fueren dos o más los asaltantes, se verificare de noche, o bien, el o los agentes del delito sean o hayan sido miembros de alguna corporación policial o de las fuerzas armadas.
+
+Las punibilidades a que refiere este capítulo, se aplicarán sin perjuicio de las que correspondan por la tipificación de otros delitos.
 
 ### CAPITULO IV. ESTUPRO
 
@@ -1440,6 +1454,8 @@ Al que sin consentimiento de una mujer mayor de edad, o con el consentimiento de
 Al que sin el consentimiento de una persona y sin el propósito de llegar a la cópula, ejecute en ella un acto erótico sexual o la obligue a ejecutarlo, se le impondrá prisión de tres meses a un año o multa de 5 a 40 días. Si se empleare violencia se impondrá la pena de seis meses a dos años de prisión y multa de 20 a 60 días.
 
 ### CAPITULO III. ABUSO DE CONFIANZA
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 184.
 
@@ -1565,7 +1581,9 @@ I.- Si el valor de lo robado no excede de cincuenta veces el salario, la pena ap
 
 II.- Prisión de seis meses a tres años y multa de 10 a 180 días cuando el valor de lo robado sea de cincuenta a quinientas veces el salario;
 
-III.- Prisión de dos a cinco años y multa de 30 a 100 días, cuando el valor de lo robado sea de quinientas a mil veces el salario; y
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1995)</small>
+
+III.- Prisión de dos a cinco años y multa de 30 a 240 días, cuando el valor de lo robado sea quinientas a mil veces el salario mínimo;
 
 IV.- Prisión de tres a siete años y multa de 50 a 300 días, cuando el valor de lo robado exceda de mil veces el salario.
 
@@ -1585,21 +1603,25 @@ Al que se le imputare el hecho de haberse apoderado de una cosa mueble ajena, si
 
 Se aumentarán hasta en una mitad más las penas previstas en los artículos anteriores, si el robo se realiza:
 
-I.- Con violencia contra la persona robada o sobre otra que la acompañe, o cuando se ejerza violencia para proporcionarse la fuga o defender lo robado;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1995)</small>
 
-II.- Se realice en lugar cerrado, habitado o destinado para habitación o sus dependencias, comprendiendo no sólo los que están fijos en la tierra, sino también móviles;
+I.- Ejerciendo violencia para darse a la fuga o defender lo robado;
 
-III.- Acometiendo a la víctima encontrándose ésta en un vehículo particular o de transporte público;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1995)</small>
+
+II.- En lugar cerrado, cualesquiera que fuere su destino o utilidad;
+
+III.- (DEROGADA, P.O. 4 DE DICIEMBRE DE 1995)
 
 IV.- Aprovechando la consternación que una desgracia privada cause al ofendido o a su familia; o a las condiciones de confusión que se produzcan por catástrofe o desorden público;
 
-V.- Por intervención de tres o más personas;
+V.- (DEROGADA, P.O. 4 DE DICIEMBRE DE 1995)
 
-VI.- Mediante el uso de armas u otros medios peligrosos;
+VI.- (DEROGADA, P.O. 4 DE DICIEMBRE DE 1995)
 
-VII.- En contra de una oficina recaudadora u otra en que se conserven caudales, o en contra de las personas que las custodian, manejan o transportan;
+VII.- (DEROGADA, P.O. 4 DE DICIEMBRE DE 1995)
 
-VIII.- En el local comercial abierto al público;
+VIII.- (DEROGADA, P.O. 4 DE DICIEMBRE DE 1995)
 
 IX.- Respecto de vehículos estacionados en la vía pública o en otro lugar destinado a su guarda o reparación;
 
@@ -1649,7 +1671,7 @@ III.- Expida certificados falsos para obtener guías, simulando ventas, o haga c
 
 ###### ARTICULO 211.
 
-Al que con perjuicio de tercero, disponga para sí o para otro, de una cosa mueble ajena, de la cual se le haya transmitido la tenencia pero no el dominio, se le impondrán las penas del robo.
+Al que con perjuicio de alguien, disponga para si o para otro, de una cosa ajena mueble, de la cual se le haya transmitido la tenencia pero no el dominio, se le impondrá la punibilidad prevista por el artículo 203 de este Código, conforme al monto de lo abusado.
 
 ###### ARTICULO 212.
 
@@ -2089,6 +2111,8 @@ III.- Públicamente invite a otro al comercio carnal.
 
 ### CAPITULO VIII. PECULADO
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 277.
 
 Los profesionistas o técnicos que en el ejercicio de sus actividades incumplan sus obligaciones sobre la materia, resultando daño o no en agravio de otro, se les impondrá prisión de tres meses a un año y la suspensión profesional o técnica de tres meses a tres años, sin perjuicio de las penas que resulten por la comisión de otros delitos.
@@ -2337,7 +2361,13 @@ Se impondrá de tres meses a cinco años de prisión y de 20 a 150 días multa, 
 
 ###### ARTICULO 308.
 
-Al servidor público que para sí o para otro se apropie de dinero, valores, fincas o cualquier otra cosa perteneciente a los poderes, dependencias o entidades de la administración pública del Estado, o a un particular, si por razón de su cargo los hubiere recibido en administración, en depósito o por otra causa, se le impondrá de seis meses a ocho años de prisión y de 20 a 200 días multa.
+Al servidor público que para sí o para otro, se apropie de dinero, valores o cualquier otro bien perteneciente a los Poderes, Dependencias o Entidades de la Administración Pública del Estado o de los Municipios, o a un particular, si por razón de su cargo, los hubiere recibido en administración, en depósito o por cualesquiera otra causa, se le aplicará la siguiente punibilidad:
+
+I.- Prisión de uno a cinco años y multa de 20 a 300 días, cuando el valor de lo apropiado ilícitamente sea de hasta mil veces el salario mínimo;
+
+II.- Prisión de tres a ocho años y multa de 30 a 400 días, cuando el valor de lo apropiado ilícitamente sea de mil uno a cinco mil veces el salario mínimo; o
+
+III.- Prisión de cinco a doce años y multa de 30 a 500 días, cuando el valor de lo apropiado ilícitamente exceda de cinco mil veces el salario mínimo.
 
 ### CAPITULO I. DELITOS CONTRA EL TRABAJO Y LA PREVISION SOCIAL
 
@@ -2752,3 +2782,9 @@ EL SECRETARIO DE GOBERNACION.
 LIC. ERNESTO GIL ELORDUY.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 4 DE DICIEMBRE DE 1995.
+
+UNICO.- EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE AL DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO DE HIDALGO.
