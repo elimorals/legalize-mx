@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1975-03-17"
+last_updated: "1976-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE FEBRERO DE 1975.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL EL 17 DE MARZO DE 1975.</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE FEBRERO DE 1976.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -266,7 +264,9 @@ La propiedad de las tierras y aguas comprendidas dentro de los límites del terr
 
 Las expropiaciones sólo podrán hacerse por causa de utilidad pública y mediante indemnización.
 
-La Nación tendrá en todo tiempo el derecho de imponer a la propiedad privada las modalidades que dicte el interés público, así como el de regular el aprovechamiento de los elementos naturales susceptibles de apropiación, para hacer una distribución equitativa de la riqueza pública y para cuidar de su conservación. Con este objeto, se dictarán las medidas necesarias para el fraccionamiento de los latifundios; para el desarrollo de la pequeña propiedad agrícola en explotación; para la creación de nuevos centros de población agrícola con las tierras y aguas que les sean indispensables; para el fomento de la agricultura y para evitar la destrucción de los elementos naturales y los daños que la propiedad pueda sufrir en perjuicio de la sociedad. Los núcleos de población que carezcan de tierras y aguas o no las tengan en cantidad suficiente para las necesidades de su población, tendrán derecho a que se les dote de ellas, tomándolas de las propiedades inmediatas, respetando siempre la pequeña propiedad agrícola en explotación.
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 1976)</small>
+
+La Nación tendrá en todo tiempo el derecho de imponer a la propiedad privada las modalidades que dicte el interés público, así como el de regular, en beneficio social, el aprovechamiento de los elementos naturales susceptibles de apropiación, con objeto de hacer una distribución equitativa de la riqueza pública, cuidar de su conservación, lograr el desarrollo equilibrado del país y el mejoramiento de las condiciones de vida de la población rural y urbana. En consecuencia, se dictarán las medidas necesarias para ordenar los asentamientos humanos y establecer adecuadas provisiones, usos, reservas y destinos de tierras, aguas y bosques, a efecto de ejecutar obras públicas y de planear y regular la fundación, conservación, mejoramiento y crecimiento de los centros de población; para el fraccionamiento de los latifundios; para disponer, en los términos de la Ley Reglamentaria, la organización y explotación colectiva de los ejidos y comunidades; para el desarrollo de la pequeña propiedad agrícola en explotación; para la creación de nuevos centros de población agrícola con tierras y aguas que les sean indispensables; para el fomento de la agricultura y para evitar la destrucción de los elementos naturales y los daños que la propiedad pueda sufrir en perjuicio de la sociedad. Los núcleos de población que carezcan de tierras y aguas o no las tengan en cantidad suficiente para las necesidades de su población, tendrán derecho a que se les dote de ellas, tomándolas de las propiedades inmediatas, respetando siempre la pequeña propiedad agrícola en explotación.
 
 > <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1960)</small>
 
@@ -283,6 +283,10 @@ En los casos a que se refieren los dos párrafos anteriores, el dominio de la Na
 > <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 6 DE FEBRERO DE 1975)</small>
 
 Corresponde también a la Nación el aprovechamiento de los combustibles nucleares para la generación de energía nuclear y la regulación de sus aplicaciones en otros propósitos. El uso de la energía nuclear sólo podrá tener fines pacíficos.
+
+> <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 1976)</small>
+
+La Nación ejerce en una zona económica exclusiva situada fuera del mar territorial y adyacente a éste, los derechos de soberanía y las jurisdicciones que determinen las leyes del Congreso. La zona económica exclusiva se extenderá a doscientas millas náuticas, medidas a partir de la línea de base desde la cual se mide el mar territorial. En aquellos casos en que esa extensión produzca superposición con las zonas económicas exclusivas de otros Estados, la delimitación de las respectivas zonas se hará en la medida en que resulte necesario, mediante acuerdo con estos Estados.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE ENERO DE 1960)</small>
 
@@ -1064,6 +1068,10 @@ Las entidades federativas participarán en el rendimiento de estas contribucione
 
 XXIX-B.- Para legislar sobre las características y uso de la Bandera, Escudo e Himno Nacionales.
 
+> <small>(ADICIONADA, D.O.F. 6 DE FEBRERO DE 1976)</small>
+
+XXIX-C.- Para expedir las leyes que establezcan la concurrencia del Gobierno Federal, de los Estados y de los Municipios, en el ámbito de sus respectivas competencias, en materia de asentamientos humanos, con objeto de cumplir los fines previstos en el párrafo tercero del artículo 27 de esta Constitución.
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
 XXX.- Para expedir todas las leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los Poderes de la Unión.
@@ -1773,6 +1781,14 @@ El número de representantes en las Legislaturas de los Estados será proporcion
 > <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
 
 Los diputados a las Legislaturas de los Estados no podrán ser reelectos para el período inmediato. Los diputados suplentes podrán se electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio, pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
+
+> <small>(ADICIONADA, D.O.F. 6 DE FEBRERO DE 1976)</small>
+
+IV.- Los Estados y Municipios, en el ámbito de sus competencias, expedirán las leyes, reglamentos y disposiciones administrativas que sean necesarias para cumplir con los fines señalados en el párrafo tercero del artículo 27 de esta Constitución en lo que se refiere a los centros urbanos y de acuerdo con la Ley Federal de la materia.
+
+> <small>(ADICIONADA, D.O.F. 6 DE FEBRERO DE 1976)</small>
+
+V.- Cuando dos o más centros urbanos situados en territorios municipales de dos o más Entidades Federativas formen o tiendan a formar una continuidad geográfica, la Federación, las Entidades Federativas y los Municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros con apego a la Ley Federal de la materia.
 
 ###### Art. 116.
 
@@ -2949,3 +2965,17 @@ En los juicios de amparo pendientes de resolución ante la Suprema Corte de Just
 ###### ARTICULO TERCERO.
 
 Se faculta a la Suprema Corte de Justicia de la Nación para dictar las medidas necesarias para la efectividad e inmediato cumplimiento de la presente reforma.
+
+D.O.F. 6 DE FEBRERO DE 1976.
+
+DECRETO QUE ADICIONA DESPUES DEL PARRAFO SEPTIMO EL ARTICULO 27.
+
+UNICO.- El presente Decreto entrará en vigor ciento veinte días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 6 DE FEBRERO DE 1976.
+
+DECRETO QUE REFORMA EL PARRAFO TERCERO DEL ARTICULO 27, SE ADICIONA LA FRACCION XXIX-C DEL ARTICULO 73 Y LAS FRACCIONES IV Y V DEL ARTICULO 115.
+
+PRIMERO.- Las presentes reformas y adiciones entrarán en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
+
+SEGUNDO.- El Congreso Federal y las Legislaturas Locales, deberán expedir en el plazo de un año, las leyes reglamentarias previstas en las anteriores reformas y adiciones.
