@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interno-de-la-comision-de-derechos-humanos-del-5436"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-05-30"
-last_updated: "1994-05-30"
+last_updated: "1998-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 REGLAMENTO INTERNO DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 1998.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de mayo de 1994.
 
@@ -81,9 +81,11 @@ Las funciones y atribuciones de la Comisión son las que establece el artículo 
 
 ### CAPITULO II. COMPETENCIA EN MATERIA DE PRESUNTAS VIOLACIONES A DERECHOS HUMANOS
 
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 1998)</small>
+
 ###### ARTICULO 11º.
 
-La Comisión tendrá competencia en todo el Estado de Hidalgo, para conocer quejas por presuntas violaciones a los Derechos Humanos cuando fueren imputadas a autoridades, funcionarios y servidores públicos estatales o municipales.
+La Comisión tendrá competencia para conocer de las quejas por presuntas violaciones a los derechos humanos, cuando fueren imputadas a autoridades, funcionarios y servidores públicos estatales o municipales.
 
 ###### ARTICULO 12º.
 
@@ -123,7 +125,9 @@ I.- El Consejo
 
 II.- La Presidencia
 
-III.- La Visitaduría y
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 1998)</small>
+
+III.- Las Visitadurías
 
 IV.- La Secretaría Técnica
 
@@ -133,7 +137,9 @@ IV.- La Secretaría Técnica
 
 El Consejo tendrá competencia para establecer los lineamientos generales de actuación y los programas anuales de trabajo del Organismo. Las funciones del Consejo son las que se establecen en el artículo 16 de la Ley.
 
-El Presidente de la Comisión lo será también del Consejo. Los cargos de los demás miembros del Consejo serán honorarios. A excepción de su Presidente, cada año deberá ser substituido el miembro del Consejo de mayor antigüedad.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 1998)</small>
+
+El Presidente de la Comisión lo será también del Consejo. Los cargos de los demás miembros del Consejo serán honorarios. El Consejero que deba ser substituido continuará en funciones hasta que el nombrado, para substituirlo, tome posesión de su cargo.
 
 ###### ARTICULO 18º.
 
@@ -165,81 +171,93 @@ Se requerirá como quórum para llevar a cabo la sesión del Consejo, la asisten
 
 La Presidencia es el órgano ejecutivo de la Comisión; está a cargo de un Presidente a quien corresponde realizar, en los términos establecidos por la Ley, las funciones directivas del Organismo del cual es su representante legal.
 
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 1998)</small>
+
 ###### ARTICULO 25º.
 
-La Visitaduría y la Secretaría Técnica son órganos auxiliares de la Presidencia de la Comisión y dependerán directamente de élla, realizando sus funciones en los términos de la Ley y de acuerdo con las instrucciones que al efecto gire la propia Presidencia de la Comisión.
+Las Visitadurías y la Secretaría Técnica son órganos auxiliares de la Presidencia de la Comisión y dependerán directamente de ella, realizando sus funciones en los términos de la ley y de acuerdo con las instrucciones que al efecto le gire la propia presidencia.
 
 ###### ARTICULO 26º.
 
 El nombramiento del Presidente de la Comisión, los requisitos que deba reunir para ocupar el cargo, la duración en el cargo, el procedimiento de destitución y el régimen jurídico que como funcionario le es aplicable, son los que se establecen en los artículos 17, 18, 19, 20, 21 y 22 de la Ley.
 
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 1998)</small>
+
 ###### ARTICULO 27º.
 
-Durante las ausencias temporales del Presidente de la Comisión, sus funciones y su representación legal serán cubiertas por el Visitador, y si él también se encontrara ausente, lo serán por el Secretario Técnico.
+Durante las ausencias temporales del Presidente de la Comisión, sus funciones y su representación legal serán cubiertas por el Primer Visitador y si él también se encontrara ausente, lo serán por el Segundo.
 
 ###### ARTICULO 28º.
 
 Con las excepciones establecidas en la Ley y este Reglamento, corresponde al Presidente de la Comisión nombrar y remover libremente a todo el personal del Organismo.
 
-### CAPITULO IV. DE LA VISITADURIA
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MARZO DE 1998)</small>
+
+### CAPITULO IV. DE LAS VISITADURIAS
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 29º.
 
-La Comisión contará con un Visitador.
+La Comisión contará con las Visitadurías que se considere (sic) necesarias para el cumplimiento de sus funciones y serán denominadas, según el orden de su establecimiento, como Primera Visitaduría, Segunda Visitaduría, Etc.
 
-El Visitador dependerá directamente del Presidente de la Comisión y será nombrado por el Gobernador del Estado, a propuesta del Presidente de la Comisión. Los requisitos para ser Visitador son los que establece el artículo 18 de la Ley. El régimen legal al que queda sujeto el Visitador es el que se establece en los artículos 31 y 32 de la Ley.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 30º.
 
-Las funciones del Visitador son las que señala el artículo 26 de la Ley.
+Los Visitadores dependerán directamente del Presidente de la Comisión y serán nombrados por el Gobernador del Estado a propuesta del Presidente de la Comisión.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 31º.
 
-Para el despacho de los asuntos, la Visitaduría contará con:
+Las funciones de los Visitadores son las que señala el Artículo 26 de la Ley.
 
-I.- Una Dirección de Orientación, Quejas y Gestión.
-
-II.- Una Dirección de Procedimientos, Dictámenes y Resoluciones.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 32º.
 
-La Dirección de Orientación, Quejas y Gestión se encuentra adscrita al Visitador; su titular estará subordinado a él: será nombrado y removido libremente por el Presidente de la Comisión y tendrá las siguientes funciones:
+Para el despacho de los asuntos, cada Visitador contará con un Director de la Visitaduría.
 
-I.- Recibir y registrar las quejas por presuntas violaciones a Derechos Humanos que se presenten directamente por los quejosos o agraviados en las oficinas de la Comisión.
-
-II.- Recibir y registrar las quejas por presuntas violaciones a Derechos Humanos que lleguen a la Comisión mediante correspondencia, incluyendo carta, telegrama o telefax, y acusar recibo de su recepción.
-
-III.- Realizar las labores de orientación al público cuando de la queja que directamente se presente se desprenda fehacientemente que no se trata de violaciones a Derechos Humanos. La orientación deberá realizarse de modo tal, que a la persona atendida se le expliquen la naturaleza de su problema y las posibles formas de solución, y se le proporcionen los datos del funcionario público ante quien pueda acudir, así como el domicilio y, en su caso, teléfono de éste último.
-
-IV.- Asignar número de expediente a las quejas presuntamente violatorias de Derechos Humanos y registrarlas conforme al procedimiento que para tal efecto se establezca.
-
-V.- Operar y administrar el banco de datos en el que se registren todas las acciones llevadas a cabo por la Comisión en cada caso, desde la recepción de la queja hasta la conclusión del expediente.
-
-VI.- Coordinar sus labores con el responsable de la Visitaduría, otorgando y solicitando los informes que resulten indispensables.
-
-VII.- Informar a los quejosos los datos generales sobre los avances de los expedientes de queja, realizando tal función en coordinación con el Visitador de la Comisión.
-
-VIII.- Administrar el archivo general de la Comisión en cuanto a los expedientes de queja.
-
-IX.- Las demás que le encomiende el Presidente de la Comisión y el Visitador.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 33º.
 
-Para el cumplimiento de sus funciones, la Dirección de Orientación, Quejas y Gestión contará con el personal profesional, técnico y administrativo que requiera.
+Cada Director estará adscrito a un Visitador y su titular subordinado a él; los Directores serán nombrados y removidos libremente por el Presidente de la Comisión.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 34º.
 
-La Dirección de Procedimientos, Dictámenes y Resoluciones, se encuentra adscrita al Visitador; su titular estará subordinado a él y será nombrado y removido libremente por el Presidente de la Comisión, y tendrá las siguientes funciones:
+Los Directores tendrán las siguientes funciones:
 
-I.- Tramitar el expediente de las quejas e investigaciones de oficio, solicitando informes a las autoridades señaladas como presuntamente responsables, recibir y desahogar las pruebas que ofrezcan las partes, y efectuar las inspecciones e investigaciones que se estimen conducentes para el esclarecimiento de los hechos.
+I. Recibir y registrar las quejas, por presuntas violaciones a Derechos Humanos, que se presente (sic) directamente por lo (sic) quejosos o agraviados en las oficinas de la Comisión.
 
-II.- Formular y presentar al Visitador los proyectos de dictámenes, recomendaciones u observaciones por los que se den a conocer los resultados de los procedimientos, informando en su caso, sobre la Comisión de violaciones a los Derechos Humanos, así como el nombre y cargo de quien o quienes las hayan llevado a cabo.
+II. Recibir y registrar las quejas, por presuntas violaciones a derechos humanos, que lleguen a la Comisión mediante correspondencia, incluyendo carta, telegrama o telefax, y acusar recibo de su recepción.
 
-III.- Las demás que le encomiende el Presidente de la Comisión y el Visitador.
+III. Realizar las labores de orientación al público cuando la queja que directamente se presente se desprenda fehacientemente que no se trata de violaciones a Derechos Humanos. La orientación deberá realizarse de modo tal, que a la persona atendida, se le expliquen la naturaleza de su problema y las posibles formas de solución y se le proporcionen los datos del funcionario público ante quien pueda acudir, así como el domicilio y, en su caso, el teléfono de éste último.
+
+IV. Asignar número de expediente a las quejas presuntamente violatorias de Derechos Humanos y registrarlas conforme al procedimiento que para tal efecto se establezca.
+
+V. Tramitar el expediente de las quejas e investigaciones de oficio, solicitando informes a las autoridades señaladas como presuntamente responsables; recibir y desahogar las pruebas que ofrezcan las partes y efectuar las inspecciones e investigaciones que se estimen conducentes para el esclarecimiento de los hechos.
+
+VI. Formular y presentar, al Visitador al que estén adscritos, los proyectos de dictámenes, recomendaciones y observaciones por los que se den a conocer los resultados de los procedimientos, informando en su caso, sobre la comisión de violaciones a los Derechos Humanos, así como el nombre y cargo de quien o quienes las hayan llevado a cabo.
+
+VII. Alimentar el banco de datos en el que se registren todas las acciones llevadas a cabo en cada caso, desde la recepción de la queja hasta la conclusión del expediente.
+
+VIII. Coordinar sus labores, con el responsable de la Visitaduría, otorgando y solicitando los informes que resulten indispensables.
+
+IX. Informar a los quejosos los datos generales sobre los avances de los expedientes de queja, realizando tal función en coordinación con el Visitador a que estén adscritos.
+
+X. Administrar el archivo general de la Comisión, en cuanto a los expedientes de queja.
+
+XI. Las demás que le encomienden el Presidente de la Comisión y el Visitador de su adscripción.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 35º.
 
-Para el cumplimiento de sus funciones, la Dirección de Procedimientos, Dictámenes y Resoluciones contará con el personal profesional, técnico y administrativo que requiera.
+Para el cumplimiento de sus funciones, cada Dirección contará con el personal profesional, técnico y administrativo que requiera.
 
 ### CAPITULO V. DE LA SECRETARIA TECNICA
 
@@ -441,7 +459,9 @@ Si del resultado de la investigación se acredita la violación a Derechos Human
 
 El envío de la Recomendación no impedirá que la Comisión pueda solicitar la aplicación de las responsabilidades administrativas correspondientes en contra del funcionario respectivo.
 
-Si al concluir la investigación no se acredita violación de Derechos Humanos alguna, se hará del conocimiento del quejoso y, en su caso, se le orientará. En esta específica situación, no habrá lugar a elaborar Documento de No Responsabilidad a la autoridad.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 1998)</small>
+
+Si al concluir la investigación no se acredita violación de derechos humanos alguna, se hará del conocimiento del quejoso y, en su caso, se le orientará, remitiéndose el expediente al archivo, salvo que la autoridad involucrada solicite, dentro del término de 5 días, que se emita el Acuerdo de no Responsabilidad correspondiente.
 
 ###### ARTICULO 66º.
 
@@ -483,9 +503,11 @@ Cuando la autoridad o servidor público no acepte la propuesta de conciliación 
 
 ### CAPITULO V. DE LAS CAUSAS DE CONCLUSION DE LOS EXPEDIENTES DE QUEJA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MARZO DE 1998)</small>
+
 ###### ARTICULO 75º.
 
-Los expedientes de queja que hubieren sido abiertos podrán ser concluídos por las siguientes causas:
+los expedientes de queja que hubieren sido abiertos podrán ser concluidos por las siguientes causas:
 
 I.- Por incompetencia de la Comisión para conocer de la queja planteada;
 
@@ -499,9 +521,13 @@ V.- Por desistimiento del quejoso;
 
 VI.- Por falta de interés del quejoso en la continuación del procedimiento;
 
-VII.- Por haberse dictado anteriormente un acuerdo de acumulación de expedientes; y
+VII.- Por haberse dictado anteriormente un acuerdo de acumulación de expedientes; y (sic)
 
 VIII.- Por haberse solucionado la queja mediante los procedimientos de conciliación o durante el trámite respectivo;
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 1998)</small>
+
+IX.- Por ser extemporánea la interposición de la queja.
 
 ###### ARTICULO 76º.
 
@@ -536,6 +562,10 @@ VI.- Los asuntos de la competencia de la Comisión Nacional de Derechos Humanos 
 VII.- Asuntos que vulneren su autonomía y su autoridad moral.
 
 VIII.- Consultas que le formulen autoridades, particulares u otras Entidades sobre la interpretación de las disposiciones constitucionales o de otros ordenamientos legales.
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 1998)</small>
+
+IX.- Asuntos en los que, en contra de los hechos invocados como violatorios, proceda algún recurso o juicio mediante el cual puedan ser revocados o modificados, cuando sean dictados en un procedimiento jurisdiccional o administrativo.
 
 ###### ARTICULO 79º.
 
@@ -674,3 +704,11 @@ C. LIC. MARIO PFEIFFER CRUZ
 PRESIDENTE DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 19 DE SEPTIEMBRE DE 2003.
+
+Primero.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Publíquese las presentes reformas en el Periódico Oficial del gobierno del Estado.
