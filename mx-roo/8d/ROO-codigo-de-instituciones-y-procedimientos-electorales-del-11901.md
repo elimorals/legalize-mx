@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-instituciones-y-procedimientos-electorales-del-11901"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-09-20"
-last_updated: "1998-07-10"
+last_updated: "2001-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 2001.
 
 Código publicado en el Periódico Oficial el 20 de Septiembre de 1995.
 
@@ -577,47 +577,29 @@ XI.- Las demás que le confiera este Código.
 
 ### CAPITULO VIII. DEL FINANCIAMIENTO PUBLICO Y PRIVADO
 
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MAYO DE 2001)</small>
 
 ###### Artículo 42.
 
 Los Partidos Políticos tendrán derecho al financiamiento público estatal de sus actividades, independientemente de las demás prerrogativas otorgadas en este Código, conforme a las disposiciones siguientes:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 1998)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2001)</small>
 
-I.- Para el sostenimiento de actividades ordinarias permanentes, se aplicarán las siguientes bases:
+I.- El financiamiento público anual para el sostenimiento de sus actividades ordinarias permanentes, se determinará multiplicando el número de ciudadanos inscritos en el padrón electoral estatal con corte al mes de octubre del año inmediato anterior al del ejercicio presupuestal correspondiente, por el 40% de un salario mínimo general vigente en el Estado.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 1998)</small>
+- El 30% de la cantidad total que resulte, se entregará en forma igualitaria, a los partidos políticos que hayan obtenido el mínimo de 2.5% de la votación válida emitida, en el proceso electoral inmediato anterior.
 
-a).- El Consejo General del Consejo Estatal Electoral determinará anualmente, con base en los estudios que le presente el Consejero Presidente, los costos mínimos de una campaña para diputado, de una para ayuntamiento y para la de Gobernador del Estado, tomando como base los costos mínimos establecidos por el propio Consejo General y aprobados para el año inmediato anterior. El Consejo General podrá, una vez concluido el proceso electoral ordinario, revisar los elementos o factores conforme a los cuales se hubiesen fijado los costos mínimos de campaña y las cantidades que en su caso determinen para cada partido político, serán suministradas conforme al calendario presupuestal que se apruebe anualmente;
+- El 70% restante, se distribuirá según el porcentaje de la votación estatal emitida, que hubiese obtenido cada partido político que haya registrado como mínimo el 2.5% de la votación total válida emitida en el proceso electoral local inmediato anterior, de acuerdo al calendario que establezca el Consejo General del Consejo Estatal Electoral.
 
-b).- El costo mínimo de una campaña para diputado, será multiplicado por el total de diputados a elegir y por el número de Partidos Políticos con representación en la Legislatura del Estado;
+Las cantidades que en su caso se determinen para cada Partido, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente.
 
-c).- El costo mínimo de una campaña para ayuntamiento, será multiplicado por el total de ayuntamientos a elegir y por el número de Partidos Políticos con representación en todos los ayuntamientos;
-
-d).- El costo mínimo de gastos de campaña para Gobernador del Estado, se calculará con base a lo siguiente: El costo mínimo de gastos de campaña para diputado se multiplicará por el total de diputados a elegir por el principio de mayoría relativa, dividido entre los días que dura la campaña para diputado por este principio, multiplicándolo por los días que dura la campaña para Gobernador;
-
-e).- La suma del resultado de las operaciones señaladas en los incisos anteriores, según corresponda, constituye el financiamiento público anual a los Partidos Políticos por sus actividades ordinarias permanentes y se distribuirá de la siguiente manera:
-
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 1998)</small>
-
-- El 30% de la cantidad total que resulte, se entregará en forma igualitaria, a los Partidos Políticos que hayan obtenido el mínimo de 2.5% de la votación válida emitida, en el proceso electoral inmediato anterior.
-
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 1998)</small>
-
-- El 70% restante, se distribuirá según el porcentaje de la votación estatal emitida, que hubiese obtenido cada Partido Político que haya obtenido como mínimo el 2.5% de la votación total válida emitida en el proceso electoral inmediato anterior, de acuerdo al calendario que establezca el Consejo General del Consejo Estatal Electoral.
-
-f).- (DEROGADO, P.O. 10 DE JULIO DE 1998)
-
-g).- Las cantidades que en su caso se determinen para cada Partido, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente; y
-
-h).- Cada Partido Político deberá destinar anualmente por lo menos el 2 % del financiamiento público que reciba, para el desarrollo de sus fundaciones o institutos de investigación.
+Cada partido político deberá destinar anualmente por lo menos el 2 % del financiamiento público que reciba, para el desarrollo de sus fundaciones o institutos de investigación.
 
 II.- Para gastos de campaña:
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MAYO DE 2001)</small>
 
-a).- En el año de la elección, a cada Partido Político se le otorgará para gastos de campaña, un monto equivalente al 50% del financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda ese año; y
+a).- En el año de la elección, a cada Partido Político se le otorgará para gastos de campaña, una cantidad igual al monto del financiamiento público que le corresponda a cada partido político por las actividades ordinarias en ese año; y
 
 Para acceder a este financiamiento, deberán inscribir candidatos en por lo menos el 50% de los procesos electorales.
 
@@ -4713,12 +4695,20 @@ P.O. 10 DE JULIO DE 1998.
 
 PRIMERO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-> <small>(F. DE E., P.O. 24 DE JULIO DE 1998)</small>
+SEGUNDO.- (DEROGADO, P.O. 30 DE MAYO DE 2001)
 
-SEGUNDO.- Por única vez, se prorroga el Artículo Segundo Transitorio del Decreto Número 53 publicado en el Periódico Oficial del Gobierno del Estado, de fecha 14 de marzo de 1997, para que surta efectos a partir del día 10 de octubre del año 2001, en virtud de no contar con elementos suficientes para aplicar las disposiciones que sobre financiamiento público ordinario se encuentran contenidas en el Artículo 42 Fracción I incisos a), b), c) y d) de este Código. Para financiamiento público ordinario a los partidos políticos se otorgará el 50% del monto resultante de multiplicar un salario mínimo general vigente en el Estado de Quintana Roo por el número de ciudadanos registrados en el patrón (sic) electoral estatal vigente al 10 de Octubre de 1998. Este financiamiento se otorgará en tres anualidades y en los términos del inciso e) párrafos segundo y tercero de la fracción I del referido 42 del Código Electoral vigente.
-
-TERCERO.- Por única vez se deja sin efecto el inciso a) de la fracción II del Artículo 42 del Código Electoral vigente, y se otorgará un financiamiento público para gastos de campaña, del 50% que resulte de multiplicar un salario mínimo general vigente en el Estado de Quintana Roo por los ciudadanos registrados en el padrón electoral vigente al 10 de Octubre de 1998, y que se distribuirá en los términos del inciso e) párrafos segundo y tercero de la fracción I del referido artículo 42 del Código Electoral vigente.
+TERCERO.- (DEROGADO, P.O. 30 DE MAYO DE 2001)
 
 CUARTO.- Se derogan las disposiciones que se opongan al presente decreto.
 
 QUINTO.- Los actuales Consejeros Ciudadanos integrantes del Consejo Estatal Electoral y de los Consejos Distritales, así como los Consejeros Presidentes de los mismos y los actuales Magistrados del Tribunal Estatal Electoral, propietarios y suplentes, concluirán en su encargo al instalarse el Consejo General del Consejo Estatal Electoral, los Consejos Distritales y el Tribunal Electoral del Poder Judicial el Estado, respectivamente, a que se refiere este decreto.
+
+P.O. 30 DE MAYO DE 2001.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado, previa la declaración de aprobación de la reforma constitucional que se propone en el propio dictamen.
+
+###### ARTICULO SEGUNDO.
+
+El financiamiento público estatal para el sostenimiento de las actividades ordinarias permanentes de los partidos políticos, previsto en el presente Decreto, será aplicable de manera retroactiva a partir del mes de enero del año en curso, debiendo el Consejo General del Consejo Estatal Electoral hacer las estimaciones conducentes, conforme a los elementos aprobados mediante este Decreto.
