@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "1998-06-12"
+last_updated: "1998-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 1998.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -942,6 +942,10 @@ V.- Cuando el reo hubiere sido condenado por los mismos hechos en dos juicios di
 ###### Artículo 106.
 
 Extinción por perdón del ofendido.- El perdón del ofendido o del legitimado para otorgarlo, extingue la pretensión punitiva respecto de los delitos que solamente pueden perseguirse por querella, siempre que se conceda antes de dictarse sentencia de segunda instancia y el imputado no se oponga a su otorgamiento, una vez otorgado el perdón, éste no podrá revocarse.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO 1998)</small>
+
+También extinguen la pretensión punitiva, los convenios judiciales celebrados entre el ofendido y el procesado, sancionados por el Juez Penal de la causa, en los delitos mencionados en el párrafo anterior.
 
 ###### Artículo 107.
 
@@ -3370,3 +3374,9 @@ P.O. 12 DE JUNIO DE 1998.
 ###### ARTÍCULO UNICO.
 
 Las presentes reformas al Código Penal para el Estado de Baja California, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, órgano de Gobierno del Estado.
+
+P.O. 28 DE AGOSTO DE 1998.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
