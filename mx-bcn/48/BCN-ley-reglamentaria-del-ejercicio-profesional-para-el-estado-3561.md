@@ -4,7 +4,7 @@ identifier: "BCN-ley-reglamentaria-del-ejercicio-profesional-para-el-estado-3561
 country: "mx"
 rank: "ley"
 publication_date: "1957-07-10"
-last_updated: "1969-10-10"
+last_updated: "1969-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY REGLAMENTARIA DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 1969.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NO. 67, PUBLICADO EN EL P.O. DE 10 DE NOVIEMBRE DE 1969, SE ABROGA EL DECRETO NO. 127 DE FECHA 3 DE SEPTIEMBRE DE 1965, QUE FUE PUBLICADO EN EL P.O. NO. 31 DEL 10 DE OCTUBRE DEL PRESENTE AÑO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 1969.
 
 Ley publicada en el Segundo Alcance al Periódico Oficial, el miércoles 10 de julio de 1957.
 
@@ -124,6 +126,8 @@ Tal título y certificados o diplomas, serán inscritos en el registro respectiv
 ###### ARTICULO 7o.
 
 El ejercicio de las profesiones es de interés público y se sujetará a los mandamientos de esta Ley. En caso de conflicto entre los intereses particulares de los profesionistas y los de la sociedad, la presente ley se interpretará siempre en favor de las exigencias de esta última, si no hubiere precepto expreso para resolver el conflicto.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NO. 67, PUBLICADO EN EL P.O. DE 10 DE NOVIEMBRE DE 1969, SE ABROGA EL PRESENTE ARTÍCULO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 1969)</small>
 
@@ -642,3 +646,9 @@ P.O. 10 DE OCTUBRE DE 1969.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 10 DE NOVIEMBRE DE 1969.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se expongan en el presente Decreto.
