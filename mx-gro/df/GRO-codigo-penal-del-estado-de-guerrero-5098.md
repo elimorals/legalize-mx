@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-del-estado-de-guerrero-5098"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-14"
-last_updated: "1991-11-22"
+last_updated: "1993-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO PENAL DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 1993.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 14 de noviembre de 1986.
 
@@ -421,7 +421,17 @@ Toda sentencia de condena que imponga alguna sanción de las previstas en las fr
 
 El juez considerará además la condición de mujeres con hijos menores de 23 años que acrediten que están realizando estudios en instituciones legalmente autorizadas, y que demuestren fehacientemente que se dedican a una actividad lícita; indígenas monolingües, trabajadores o jornaleros, asalariados o no, que tengan dependientes económicos y cuya remuneración no sea superior al salario mínimo general de la zona, y que comprueben tener un modo honesto de vivir.
 
-57.- Cuando con motivo del delito el agente hubiese sufrido consecuencias graves en su persona, que hicieren notoriamente innecesaria e irracional la imposición de una pena privativa o restrictiva de libertad, el juez podrá prescindir de ella.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1993)</small>
+
+57.- Cuando por haber sufrido el sujeto activo consecuencias graves en su persona o por su senilidad o su precario estado de salud, fuere notoriamente innecesaria e irracional la imposición de una pena privativa o restrictiva de libertad, el juez, de oficio o a petición de parte, y apoyado en dictámenes de peritos, podrá prescindir de ella o substituirla por una medida de seguridad.
+
+También podrá prescindir de tal pena, o suspender motivadamente su ejecución, cuando no exceda de cuatro años, descontando en su caso el tiempo durante el cual el sentenciado sufrió prisión preventiva, siempre que se cumpla con los siguientes requisitos:
+
+I.- Que el sentenciado no haya sido condenado con anterioridad por delito intencional y haya observado buena conducta antes y después del hecho punible;
+
+II.- Que por antecedentes personales y modo honesto de vivir así como por la naturaleza y las modalidades del delito, a criterio del Juez o Tribunal, se presuma que el sentenciado no volverá a delinquir, y
+
+III.- Que se obligue al sentenciado a residir en determinado lugar y a desempeñar en el plazo que se le fije, un empleo, profesión u ocupación lícitos.
 
 58.- Cuando este Código prevea la disminución o el aumento de una pena con referencia a otra, aquélla se fijará aplicando la disminución o el aumento a los términos mínimo y máximo de la punibilidad que sirva como referencia, sin que en ningún caso se puedan rebasar los extremos establecidos en el Título III del Libro Primero.
 
@@ -483,9 +493,13 @@ Tratándose de concurso real, se impondrá la penalidad correspondiente al delit
 
 71.- La prisión podrá ser sustituída, a juicio del juez, cuando se paguen o garanticen a su satisfacción la multa y la reparación de los daños y perjuicios causados, observando en lo procedente lo dispuesto por el artículo 56 y sujetándose a las siguientes reglas:
 
-I.- Cuando no exceda de un año, por multa o trabajo en favor de la comunidad;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1993)</small>
 
-II.- Cuando no exceda de tres años, por tratamiento en libertad, semilibertad, trabajo en favor de la comunidad o multa;
+I.- Por trabajo en favor de la comunidad o semilibertad, cuando la pena impuesta no exceda de 5 años;
+
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1993)</small>
+
+II.- Por tratamiento en libertad, si la prisión no excede de 4 años, o por multa si la prisión no excede de 3 años;
 
 III.- Para los efectos de la sustitución, se requerirá que el reo satisfaga, además, los requisitos señalados en las fracciones I y II del artículo siguiente.
 
@@ -687,7 +701,9 @@ La prescripción de la potestad de ejecutar las demás penas y medidas de seguri
 
 I.- De tres a seis meses o de diez a treinta días multa, si tardan en sanar hasta quince días;
 
-II.- De tres meses a dos años, si tardan en sanar más de quince días;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1993)</small>
+
+II.- De tres meses a dos años, o multa de 60 a 270 días de salario, si tardan en sanar más de 15 días;
 
 III.- De uno a cuatro años, cuando dejen cicatriz en la cara perpetuamente notable;
 
@@ -702,6 +718,10 @@ VII.- De cuatro a seis años, si causan incapacidad por más de un año o perman
 VIII.- De tres a diez años, si producen la pérdida de cualquier función orgánica, miembro, órgano o facultad, o causen una enfermedad cierta o probablemente incurable o deformidad incorregible.
 
 Además de las penas de prisión señaladas en este artículo, se impondrán de diez a cien días multa, excepto en el caso previsto por la fracción I.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 1993)</small>
+
+El delito previsto en este artículo y sancionado en la primera y segunda fracción, se perseguirá a petición de la parte ofendida.
 
 106.- Cuando las lesiones sean inferidas por el agente en agravio de un menor o incapaz sujeto a su patria potestad, tutela o custodia, se aumentarán hasta en una tercera parte las penas que correspondan por las lesiones causadas.
 
@@ -791,7 +811,9 @@ III.- Cuando a juicio de dos médicos exista razón suficiente para suponer que 
 
 ### CAPITULO III. OMISION DE AUXILIO A ATROPELLADOS
 
-124.- Al que habiendo atropellado a una persona, no le preste auxilio o solicite la asistencia que requiera pudiendo hacerlo, se le aplicará prisión de tres meses a dos años.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1993)</small>
+
+124.- Al que habiendo atropellado a una persona, no le preste auxilio o solicite la asistencia que requiera, pudiendo hacerlo, se le aplicará prisión de 3 meses a 2 años o multa de 30 a 90 días de salario.
 
 ### CAPITULO UNICO. EXPOSICION DE INCAPACES
 
@@ -865,7 +887,11 @@ Si espontáneamente se pusiere en libertad al ofendido dentro de los tres días 
 
 ### CAPITULO I. AMENAZAS
 
-134.- Al que amenace a otro con causarle daño en alguno de sus bienes jurídicos o en los de un tercero con quien el ofendido tenga vínculos de amor, amistad, parentesco, gratitud o cualquier otro, se le impondrá prisión de tres meses a dos años y trabajo en favor de la comunidad hasta por seis meses.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1993)</small>
+
+134.- Al que amenace a otro con causarle daño en alguno de sus bienes jurídicos o en los de un tercero con quien el ofendido tenga vínculos de amor, amistad, parentesco, gratitud o cualquier otro, se le impondrá prisión de 3 meses a 2 años o multa de 180 a 360 días de salario y trabajo en favor de la comunidad hasta por 6 meses.
+
+El delito previsto en este artículo se perseguirá a petición de la parte ofendida.
 
 ### CAPITULO II. ASALTO
 
@@ -959,7 +985,9 @@ Igual pena se aplicará al que imponga la misma condición a que se refiere el p
 
 ### CAPITULO II. DIFAMACION
 
-151.- Al que mediante comunicación dolosa, impute a una persona física o colectiva un hecho que cause a ésta descrédito, deshonra o afecte su reputación, se le impondrá prisión de seis meses a tres años y de diez a cincuenta días multa.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 1993)</small>
+
+151.- Al que mediante comunicación dolosa, impute a una persona física o colectiva un hecho que cause a ésta descrédito, deshonra o afecte su reputación se le impondrá prisión de 6 meses a 3 años o multa de 180 a 360 días de salario.
 
 No se sancionará al inculpado de difamación:
 
@@ -977,7 +1005,9 @@ III.- En el trámite de algún asunto y relacionado con éste, se presente un es
 
 ### CAPITULO III. CALUMNIA
 
-153.- Al que impute falsamente a otro un hecho que la ley califique como delito, a sabiendas de que éste no existe o de que el imputado no es responsable del mismo, se le impondrá prisión de seis meses a tres años y de diez a cincuenta días multa.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1993)</small>
+
+153.- Al que impute falsamente a otro un hecho que la Ley califique como delito, a sabiendas de que este no existe o de que el imputado no es responsable del mismo, se le impondrá prisión de 6 meses a 3 años o multa de 180 a 360 días de salario.
 
 154.- Cuando esté pendiente el proceso seguido por un delito imputado calumniosamente, no correrá la prescripción para la persecución de la calumnia, o en su caso, se suspenderá el procedimiento iniciado por esta última hasta que se dicte resolución irrevocable que ponga fin al primer proceso.
 
@@ -1043,7 +1073,9 @@ l.- Se apodere de una cosa propia, si ésta se halla por cualquier título legí
 
 II.- Aproveche energía eléctrica o algún fluído, sin consentimiento de la persona que legalmente pueda disponer de aquéllos.
 
-166.- Al que se apodere de una cosa mueble ajena, sin consentimiento del dueño o legítimo poseedor y acredite haberla tomado con carácter temporal y no para apropiársela o venderla, se le aplicarán de tres meses a un año de prisión, siempre que justifique no haberse negado a devolverla si se le requirió para ello. Como reparación del daño, además, pagará al ofendido el doble del alquiler, arrendamiento o intereses de la cosa usada.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1993)</small>
+
+166.- Al que se apodere de una cosa mueble ajena, sin consentimiento del dueño o legítimo poseedor y acredite haberla tomado con carácter temporal y no para apropiársela o venderla, se le aplicarán de 3 meses a 1 año de prisión o multa de 30 a 90 días de salario, siempre que justifique no haberse negado a devolverla si se le requirió para ello. Como reparación del daño, además, pagará al ofendido el doble del alquiler, arrendamiento o intereses de la cosa usada.
 
 ### CAPITULO II. ABIGEATO
 
@@ -1071,7 +1103,9 @@ IV.- Comercie con animales, pieles o cueros robados o que tuvieran borrada o alt
 
 169.- Al que con perjuicio de alguien, disponga para sí o para otro, de cualquier cosa mueble ajena, de la que se le haya transmitido la tenencia pero no el dominio, se le impondrán las siguientes penas:
 
-I.- Prisión de tres meses a un año y hasta treinta días multa, cuando el monto de lo dispuesto no exceda de cien veces el salario;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1993)</small>
+
+I.- Prisión de tres meses a un año o multa de 30 a 90 días de salario, cuando el monto de lo dispuesto no exceda de 100 veces el salario;
 
 II.- Prisión de uno a cuatro años y de treinta a ciento veinte días multa, si el monto excede de cien pero no de mil veces el salario, y
 
@@ -1082,6 +1116,10 @@ III.- Prisión de cuatro a diez años y de ciento veinte a trescientos días mul
 ### CAPITULO IV. FRAUDE
 
 171.- Al que engañando a alguien o aprovechándose del error en que éste se encuentra, obtenga ilícitamente alguna cosa ajena o alcance un lucro indebido para sí o para otro, se le impondrán las penas del artículo 163, pero si el monto de lo defraudado excede de mil veces el salario, se aplicarán de seis a quince años de prisión y de trescientos a quinientos días multa.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 1993)</small>
+
+El delito previsto en este artículo se sancionará con prisión de tres meses a un año o de 30 a 180 días multa, cuando el valor de lo defraudado no exceda de 50 veces del salario.
 
 > <small>(ADICIONADO, P.O. 27 DE JULIO DE 1990)</small>
 
@@ -1169,7 +1207,9 @@ Se aplicarán las mismas sanciones señaladas en el párrafo anterior, al que da
 
 ### CAPITULO X. ENCUBRIMIENTO POR RECEPTACION
 
-181.- Al que con ánimo de lucro, después de la ejecución de un delito y sin haber participado en éste, adquiera, reciba u oculte el producto de aquél, a sabiendas de esta circunstancia, o al que ayude a otro para los mismos fines, se le aplicará prisión de seis meses a tres años y de quince a noventa días multa.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 1993)</small>
+
+181.- Al que con ánimo de lucro, después de la ejecución de un delito y sin haber participado en éste, adquiera, reciba u oculte el producto de aquel a sabiendas de estas circunstancias, o al que ayude a otro para los mismos fines se le aplicará prisión de 3 meses a 3 años y de 15 a 90 días de multa.
 
 Al que en las circunstancias arriba expresadas adquiera, reciba u oculte ganado robado, se le aplicarán las sanciones del robo simple o del abigeato según sea la procedencia de aquél, pero en ningún caso podrán ser inferiores a las previstas en el párrafo anterior.
 
@@ -1249,7 +1289,9 @@ VIII.- Declare falsamente el fallecimiento de una persona en el acta respectiva.
 
 ### CAPITULO V. BIGAMIA
 
-193.- Al que contraiga nuevo matrimonio, sin hallarse legítimamente disuelto el anterior, se le impondrá prisión de seis meses a tres años y hasta ciento cincuenta días multa.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1993)</small>
+
+193.- Al que contraiga nuevo matrimonio, sin hallarse legítimamente disuelto el anterior, se le impondrá prisión de 6 meses a 3 años o multa de 180 a 360 días de salario.
 
 ### CAPITULO VI. INCESTO
 
@@ -1285,7 +1327,9 @@ Si el infractor fuere médico o se dedicase al expendio y venta de medicamentos 
 
 ### CAPITULO II. ARMAS PROHIBIDAS
 
-196.- A quien porte, fabrique, importe o acopie sin un fin lícito instrumentos que sólo puedan ser utilizados para agredir y que no tengan aplicación en actividades laborales o recreativas, se le impondrá prisión de tres meses a un año, hasta veinticinco días multa y decomiso.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 1993)</small>
+
+196.- A quien porte, fabrique, importe o acopie sin un fin lícito instrumentos que solo puedan ser utilizados para agredir y que no tengan aplicación en actividades laborales o recreativas, se le impondrá prisión de 3 meses a 1 año o multa de 180 a 360 días de salario y decomiso.
 
 Los servidores públicos podrán portar las armas necesarias para el ejercicio de su cargo, sujetándose a la reglamentación respectiva.
 
@@ -1333,9 +1377,11 @@ En ambos casos se estará a lo dispuesto en el artículo 207.
 
 ### CAPITULO III. VIOLACION DE CORRESPONDENCIA
 
-209.- Al que dolosamente abra o intercepte una comunicación escrita que no esté dirigida a él, se le impondrá prisión de tres meses a un año.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1993)</small>
 
-Lo dispuesto en el párrafo anterior no comprende a los que ejerciendo la patria potestad, la tutela o la custodia, abran o intercepten las comunicaciones escritas dirigidas a sus hijos menores de edad o a las personas que se hallen bajo su tutela o guarda.
+209.- Al que dolosamente abra o intercepte una comunicación escrita que no esté dirigida a él, se le impondrá prisión de 3 meses a 1 año o multa de 10 a 30 días de salario.
+
+El delito previsto en este artículo se perseguirá a petición de la parte ofendida.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE JULIO DE 1990)</small>
 
@@ -1355,7 +1401,9 @@ Al que use indebidamente cualquiera de los objetos arriba señalados, se le apli
 
 ### CAPITULO II. FALSIFICACION Y USO INDEBIDO DE DOCUMENTOS
 
-211.- Se impondrá prisión de tres meses a tres años y de quince a noventa días multa, al que para obtener un beneficio o para causar un daño:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 1993)</small>
+
+211.- Se impondrá prisión de 3 meses a 3 años o de 180 a 360 días de multa, al que para obtener un beneficio o para causar un daño:
 
 I.- Falsifique o altere un documento público o privado;
 
@@ -1364,6 +1412,10 @@ II.- Inserte o haga insertar en un documento público o privado hechos falsos co
 III.- Aproveche la firma o huella digital estampada en un documento en blanco, estableciendo una obligación o liberación o la estampe en otro documento que pueda comprometer bienes jurídicos ajenos, o
 
 IV.- Se atribuya, al extender un documento, o atribuya a un tercero un nombre, investidura, título, calidad o circunstancia que no tenga y que sea necesaria para la validez del acto. Igual pena se aplicará al tercero si se actúa en su representación o con su consentimiento.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 1993)</small>
+
+El delito previsto en este artículo se perseguirá a petición de la parte ofendida.
 
 212.- Las mismas penas previstas en el artículo anterior se impondrán al que, con los mismos fines:
 
@@ -1417,7 +1469,9 @@ Si se emplease violencia o el agente se valiese de una función pública que tuv
 
 ### CAPITULO UNICO. DELITOS CONTRA EL RESPETO A LOS MUERTOS Y CONTRA LAS NORMAS DE INHUMACION Y EXHUMACION
 
-220.- Se aplicará prisión de tres meses a tres años, al que ilegítimamente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 1993)</small>
+
+220.- Se aplicará prisión de 3 meses a 3 años o multa de 30 a 90 días de salario al que ilegítimamente:
 
 I.- Destruya, mutile, oculte, traslade, incinere, sepulte, exhume o haga uso de un cadáver o restos humanos, o
 
@@ -1447,7 +1501,9 @@ VI.- Abandone sin causa justificada a la persona de cuya asistencia esté encarg
 
 VII.- Certifique falsamente que una persona tiene una enfermedad u otro impedimento bastante para dispensarla de cumplir una obligación que la ley le impone para adquirir algún derecho.
 
-224.- Se impondrá prisión de tres meses a dos años y hasta cincuenta días multa, a los directores, encargados o administradores de hospitales, sanatorios, clínicas, dispensarios, enfermerías o cualquier otro centro de salud, cuando:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 1993)</small>
+
+224.- Se impondrá prisión de 3 meses a 2 años o multa hasta de 100 días de salario a los directores, encargados o administradores de Hospitales, Sanatorios, Clínicas, Dispensarios o cualquier otro centro de salud, cuando:
 
 I.- Impidan la salida de un paciente, cuando éste o sus familiares lo soliciten, aduciendo adeudos de cualquier índole;
 
@@ -1687,33 +1743,45 @@ II.- Indebidamente solicite o promueva alguna resolución o la realización de c
 
 ### CAPITULO IV. FALSEDAD ANTE AUTORIDAD
 
-257.- Al que teniendo la obligación legal de conducirse con verdad en un acto ante la autoridad, lo haga falsamente u ocultando la verdad, se le impondrán de tres meses a dos años de prisión y hasta cincuenta días multa.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 1993)</small>
+
+257.- Al que teniendo la obligación legal de conducirse con verdad en un acto ante la autoridad lo haga falsamente u ocultando la verdad, se le impondrán de 3 meses a 2 años de prisión o multa de 60 a 270 días de salario.
 
 Si el agente se retractare de sus declaraciones falsas antes de que se pronuncie resolución, la pena de prisión no excederá de seis meses.
 
-258.- Al que presente testigos falsos conociendo esta circunstancia o logre que un testigo, perito, intérprete o traductor falte a la verdad o la oculte al ser examinado por la autoridad pública en el ejercicio de sus funciones, se le impondrá prisión de seis meses a tres años y de diez a sesenta días multa.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 1993)</small>
+
+258.- Al que presente testigos falsos conociendo estas circunstancias o logre que un testigo, perito, intérprete o traductor falte a la verdad o la oculte al ser examinado por la autoridad pública en el ejercicio de sus funciones, se le impondrá prisión de 6 meses a 3 años o multa de 30 a 180 días de salario.
 
 Además de las penas a que se refiere el artículo anterior, el perito, intérprete o traductor sufrirá inhabilitación para desempeñar sus funciones hasta por dos años.
 
 ### CAPITULO V. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
 
-259.- Al que sin causa legítima rehusare prestar un servicio al que la ley obligue o desobedeciere un mandato legítimo de la autoridad, se le impondrá prisión de tres meses a un año y hasta veinte días multa.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1993)</small>
 
-260.- Al que debiendo declarar ante la autoridad y sin que le beneficien las excepciones legales se niegue a otorgar la protesta de Ley o a declarar, se le impondrán de tres meses a un año de prisión y hasta veinte días multa.
+259.- Al que sin causa legítima rehusare prestar un servicio al que la Ley obligue o desobedeciere un mandato legítimo de la autoridad, se le impondrá prisión de 3 meses a un año o multa de 30 a 180 días de salario.
 
-261.- Al que por medio de amenazas o de violencia se oponga, a que la autoridad pública o sus agentes ejerzan alguna de sus funciones en forma legal o resista el cumplimiento de un mandato de autoridad que satisfaga todos los requisitos legales, se le aplicará prisión de uno a dos años y de veinte a cuarenta días multa.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1993)</small>
+
+260.- Al que debiendo declarar ante la autoridad sin que le beneficien las excepciones legales se niegue a otorgar la protesta de Ley o a declarar, se le impondrá de 3 meses a un año de prisión o multa de 30 a 90 días de salario.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1993)</small>
+
+261.- Al que por medio de amenazas o violencia se oponga, a que la autoridad pública o sus agentes ejerzan alguna de sus funciones en forma legal o resista el cumplimiento de un mandato de autoridad que satisfaga todos los requisitos legales se le aplicará prisión de uno a dos años o multa de 60 a 270 días de salario.
 
 262.- Al que por medio de la violencia obligue a la autoridad a que realice un acto o ejerza alguna función oficial sin los requisitos legales u otro que no esté en sus atribuciones, se le impondrá prisión de uno a tres años y de veinte a sesenta días multa.
 
-263.- Al que procure con actos materiales impedir la ejecución de una obra o trabajo públicos, dispuestos por la autoridad competente con los requisitos legales o con su autorización, se le aplicarán de tres meses a un año de prisión hasta veinte días multa.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1993)</small>
 
-Cuando el delito se cometa por varias personas de común acuerdo, se les aplicará prisión de uno a dos años y de veinte a cuarenta días multa. Si se usare violencia, las penas se aumentarán hasta en una mitad más.
+263.- Cuando varias personas de común acuerdo procuren, con actos materiales, impedir la ejecución de una obra, o trabajos públicos mandados hacer con los requisitos legales de la autoridad competente, o con su autorización, serán castigados con tres meses a un año de prisión si solo se hiciere una simple oposición material sin violencia a las personas. Habiéndola, podrá extenderse la pena hasta dos años de prisión.
 
 264.- Cuando la ley autorice el empleo del apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumarán los delitos de resistencia y desobediencia cuando se hubiere empleado algún medio de apremio.
 
 ### CAPITULO VI. QUEBRANTAMIENTO DE SELLOS
 
-265.- Al que indebidamente destruya, retire, oculte o de cualquier otro modo quebrante los sellos puestos por orden legítima de la autoridad competente, se le aplicará prisión de tres meses a un año y hasta quince días multa.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1993)</small>
+
+265.- Al que indebidamente destruya, retire, oculte o de cualquier otro modo quebrante los sellos puestos por orden legítima de la autoridad competente, se le aplicará prisión de 3 meses a un año o multa de 30 a 90 días de salario.
 
 ### CAPITULO VII. INSULTOS A LA AUTORIDAD
 
@@ -1721,7 +1789,9 @@ Cuando el delito se cometa por varias personas de común acuerdo, se les aplicar
 
 ### CAPITULO VIII. USURPACION DE FUNCIONES PUBLICAS
 
-267.- Al que indebidamente se atribuya y ejerza funciones propias de un servidor público, se le aplicarán de seis meses a cinco años de prisión y de veinte a cien días multa.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1993)</small>
+
+267.- Al que indebidamente se atribuya y ejerza funciones de un servidor público se le aplicarán de seis meses a cinco años de prisión o multa de 180 a 360 días de salario.
 
 ### CAPITULO IX. USO INDEBIDO DE UNIFORMES OFICIALES Y CONDECORACIONES
 
@@ -1865,13 +1935,17 @@ La excusa no favorecerá a quien obre por motivos reprobables o emplee medios de
 
 ### CAPITULO VII. EJERCICIO INDEBIDO DEL PROPIO DERECHO
 
-287.- Al que empleare violencia para hacer efectivo un derecho o pretendido derecho que deba ejercitar, se le aplicará prisión de tres meses a un año.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 1993)</small>
+
+287.- Al que empleare violencia para hacer efectivo un derecho o pretendido derecho que deba ejercitar se le aplicará prisión de tres meses a un año o multa de 30 a 90 días de salario.
 
 Este delito sólo podrá perseguirse por querella de la parte ofendida.
 
 ### CAPITULO VIII. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
 
-288.- Se impondrá prisión de tres meses a tres años, de veinte a doscientos días multa, suspensión hasta por tres años para ejercer la abogacía, en su caso, y hasta por el doble si reincidiere, a quien:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 1993)</small>
+
+288.- Se impondrá prisión de 3 meses a 3 años o multa de 180 a 360 días de salario, suspensión hasta por 3 años para ejercer la abogacía, en su caso, y hasta por el doble si reincidiere, a quien:
 
 I.- Asista o ayude a dos o más contendientes o partes con intereses opuestos en un mismo negocio o negocios conexos, o acepte el patrocinio de alguno y admita después el de la parte contraria;
 
@@ -1956,3 +2030,7 @@ P.O. 22 DE NOVIEMBRE DE 1991.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 19 DE FEBRERO DE 1993.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Guerrero.
