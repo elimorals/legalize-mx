@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-municipal-del-estado-de-nayarit-11037"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-28"
-last_updated: "1991-12-21"
+last_updated: "1992-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1992.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 28 de diciembre de 1983.
 
@@ -141,7 +141,9 @@ La determinación, liquidación, recaudación y cobro de los ingresos municipale
 
 Es objeto de este Impuesto:
 
-I. La propiedad de predios Urbanos y Rústicos
+> <small>(REFORMADA, P. O. 26 DE DICIEMBRE DE 1992)</small>
+
+I. La propiedad de Predios Urbanos, Suburbanos y Rústicos;
 
 II. La propiedad en condominio
 
@@ -163,6 +165,10 @@ d) Cuando siendo propiedad del Estado o de sus Municipios, de la Federación o d
 
 VII. Las construcciones ubicadas en fundos legales y en zonas de urbanización en los Ejidos.
 
+> <small>(ADICIONADA, P. O. 26 DE DICIEMBRE DE 1992)</small>
+
+VIII. La Pequeña Propiedad.
+
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 16.
@@ -177,7 +183,9 @@ No es objeto del impuesto predial la propiedad o posesión de predios que corres
 
 Son sujetos de este impuesto:
 
-I. Los propietarios de predios urbanos y rústicos, los ejidatarios y los propietarios de plantas de beneficios y establecimientos metalúrgicos.
+> <small>(REFORMADA, P. O. 26 DE DICIEMBRE DE 1992)</small>
+
+I. Los propietarios de Predios Urbanos, Suburbanos y Rústicos, los Ejidatarios, los Pequeños Propietarios y los propietarios de plantas de beneficio y establecimientos metalúrgicos;
 
 II. Los poseedores de predios urbanos y rústicos en el caso de la fracción VI del artículo 15.
 
@@ -185,7 +193,9 @@ III. Los fideicomitentes mientras sean poseedores del predio objeto del fideicom
 
 IV. Los poseedores o propietarios de construcciones ubicadas en fundos legales y en zonas de urbanización de los Ejidos.
 
-V. El titular de los derechos agrarios sobre la propiedad ejidal o comunal de conformidad con la Ley Federal de la Reforma Agraria.
+> <small>(REFORMADA, P. O. 26 DE DICIEMBRE DE 1992)</small>
+
+V. El titular de los derechos agrarios sobre la propiedad ejidal o comunal de conformidad con la Ley Agraria;
 
 VI. Con responsabilidad solidaria objetiva, los adquirentes por cualquier título de predios urbanos y rústicos.
 
@@ -203,7 +213,7 @@ e) El nudo propietario cuando se trate de un bien dado en usufructo.
 
 f) El representante legal de asociaciones, sociedades y comunidades, respecto de los predios que por cualquier título posean.
 
-g) Tratándose de predios rústicos destinados a la agricultura, acuacultura, ganadería, porcicultura y avicultura, responderán solidariamente del pago del impuesto predial los adquirientes de productos que se generen en las actividades señaladas anteriormente, así como las personas físicas o morales que por cualquier título funjan como intermediarios o mediadores entre productores o adquirientes.
+g) (DEROGADO, P. O. 26 DE DICIEMBRE DE 1992)
 
 VIII. El comisariado ejidal, con responsabilidad solidaria por el núcleo de población.
 
@@ -221,17 +231,13 @@ II. El valor en que aparezcan registrados.
 
 III. El valor de la maquinaria y equipo en caso de plantas de beneficio y establecimientos metalúrgicos.
 
-IV. Tratándose de predios rústicos:
+IV. (DEROGADA, P. O. 26 DE DICIEMBRE DE 1992)
 
-a) Los destinados a la agricultura, acuacultura, ganadería, porcicultura y avicultura, conforme el valor de su producción anual comercializada.
-
-b) Los que por algún motivo no obtengan producción en un año determinado la base de éste impuesto será la referida en las fracciones I y II de este artículo.
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 19.
 
-En el caso de la fracción III del artículo anterior la autoridad competente determinará el valor que sirva de base, el que deberá ser lo más apegado posible a su valor comercial. El valor así determinado surtirá efecto de valor catastral.
+En el caso de la Fracción II del Artículo anterior la autoridad competente determinará el valor equivalente, tomando en consideración los documentos de propiedad o posesión que, durante los meses de enero y febrero deberán presentar ante la autoridad competente, los sujetos afectos a este gravamen. El valor así determinado surtirá efecto de valor catastral.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
 
@@ -287,11 +293,11 @@ IX. Cuando las construcciones de un predio sean demolidas o hubieren quedado en 
 
 Las causas de modificación de la base del impuesto que se señalan en las fracciones I y IX del presente artículo deberán ser notificadas por el contribuyente o por el responsable solidario a la Tesorería Municipal dentro de los quince días siguientes contados a partir de la fecha en que se haya producido la causa.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 23.
 
-En el caso de la Fracción III del artículo anterior, la modificación se hará tomando como base el valor que resulte más alto entre el de operación, el bancario y el catastral. En caso de las otras fracciones las modificaciones se llevarán a cabo en los términos del artículo 19 de esta Ley.
+En el caso de la Fracción III del Artículo anterior, la modificación se hará tomando como base el valor que resulte más alto entre el de operación, el del avalúo bancario y el avalúo catastral. En caso de las otras fracciones las modificaciones se llevarán a cabo en los términos del Artículo 19 de ésta Ley.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
 
@@ -363,45 +369,23 @@ El impuesto predial se causará y pagará de acuerdo con las tasas, tarifas y ba
 
 #### SECCION SEXTA. DEL PAGO DEL IMPUESTO Y OBLIGACIONES
 
-> <small>(REFORMADO, P.O.21 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 34.
 
 Los contribuyentes y responsables solidarios del pago de este impuesto, según sea el caso tendrán las obligaciones siguientes:
 
-I.- PREDIOS O FINCAS URBANAS
+I). Presentar avisos, documentos, declaraciones que señalen la Ley de Catastro, así como las que le soliciten las autoridades fiscales para la determinación del impuesto.
 
-a). Presentar avisos, documentos, declaraciones que señalen la Ley de Catastro, así como las que le soliciten las autoridades fiscales para la determinación del impuesto.
-
-b). Pagar el impuesto a su cargo en la oficina recaudadora que corresponda a la ubicación de los predios por bimestres, durante los primeros quince días de los meses de enero, marzo, mayo, julio, septiembre y noviembre.
+II). Pagar el impuesto a su cargo en la oficina recaudadora que corresponda a la ubicación de los predios por bimestres, durante los primeros quince días de los meses de enero, marzo, mayo, julio, septiembre y noviembre.
 
 El pago podrá hacerse por anualidad, con una bonificación del cinco por ciento, para lo cual los interesados deberán presentar una solicitud por escrito a la Tesorería Municipal en un plazo que terminará el 31 de enero de cada año, en este caso el pago se hará a más tardar el último día hábil del mes de febrero.
 
 El pago por anualidad anticipada del impuesto predial no impide el cobro de diferencias que debe hacer la Tesorería Municipal por cambio de las bases gravables o alteración de la cuota del mismo.
 
-No obstante lo anterior el pago de las cuotas mínimas que señalen las Leyes de Ingresos de los Municipios se hará en una sola exhibición en el mes de enero de cada año, sin bonificación alguna.
+No obstante lo anterior, el pago de las cuotas mínimas que señalen las Leyes de Ingresos de los Municipios se hará en una sola exhibición en el mes de enero de cada año, sin bonificación alguna.
 
-II.- PREDIOS RUSTICOS.-
-
-a) Pagar el impuesto en la oficina recaudadora a cuya jurisdicción corresponda el lugar de procedencia de los productos agrícolas, ganaderos, porcícolas, avícolas y acuícolas.
-
-El impuesto deberá pagarse al salir los productos del predio rústico de origen o el efectuarse la primera venta. En caso de que los productos se destinen para su uso dentro del propio predio o sean almacenados dentro de éste, el impuesto se cubrirá en un plazo máximo de 30 días después de haberse efectuado la cosecha.
-
-b) Los productores deberán recabar y conservar por el término de 5 años, los recibos o documentos mediante los cuales se compruebe que los impuestos causados fueron debidamente cubiertos de conformidad con las demás disposiciones establecidas.
-
-c) Los adquirentes de la producción agrícola, acuícola, ganadería, porcícola y avícola, así como los intermediarios o mediadores entre éstos y los productores, adicionalmente se sujetarán a lo siguiente:
-
-1.- Deberán registrarse en las oficinas recaudadoras de su jurisdicción, debiendo efectuar dicho registro dentro de los diez días hábiles siguientes a la fecha de iniciación de sus operaciones.
-
-2.- Presentar dentro de los cinco días posteriores a cada quincena, una declaración de los productos comprados durante este periodo.
-
-3.- Acompañarán a la declaración a que se refiere el párrafo anterior, copia de los recibos o constancias de pago de los impuestos respectivos.
-
-4.- Darán de baja su registro ante la oficina recaudadora, dentro de los diez días siguientes a la fecha de terminación de sus operaciones.
-
-5.- Podrán realizar en una sola exhibición del pago del impuesto correspondiente al producto obtenido de varios productores previa autorización de la autoridad competente, cuando se siga este procedimiento estarán obligados a proporcionar a cada uno de los productores constancia escrita del pago del impuesto. En dicha constancia deberá indicarse el número y la fecha de recibo de pago así como el mes a que corresponda la declaración en que se certifica por la oficina recaudadora la presentación del mencionado recibo.
-
-Lo que se recaude por los conceptos a que se refiere esta fracción, serán destinados única y exclusivamente para la inversión pública, en el medio rural y en el Municipio correspondiente, para lo cual se llevará una cuenta especial en la que verifiquen el escrupuloso manejo de éstos fondos, los Comités de Planeación Municipal o en su caso la Secretaría de Planeación y Desarrollo del Estado, otorgándose la participación al Ayuntamiento correspondiente.
+II. (DEROGADA, P.O. 26 DE DICIEMBRE DE 1992)
 
 (REUBICADA, P.O. 21 DE DICIEMBRE DE 1991)
 
@@ -433,7 +417,9 @@ III. Los edificios dedicados en las fincas rústicas o fábricas o cualesquiera 
 
 SE DENOMINA PREDIO RUSTICO
 
-I. Todas las propiedades rurales ubicadas fuera del perímetro o fundo legal de las poblaciones, tales como haciendas, ranchos, granjas, parcelas, huertas, montes y demás predios, con o sin habitaciones, dedicadas o adecuadas para la explotación agrícola o pecuaria.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1992)</small>
+
+I. Todas las propiedades rurales ubicadas fuera del perímetro o fundo legal de las poblaciones, tales como haciendas, ranchos, granjas, parcelas, huertas, montes y demás predios, con o sin habitaciones, dedicadas o adecuadas para la explotación agropecuaria.
 
 II. Los ejidos y comunidades cualesquiera que sea el estado de la posesión, ya sea que se disfruten en común o individualmente por parcelas.
 
@@ -747,6 +733,8 @@ P.O. 21 DE DICIEMBRE DE 1991.
 
 UNICO.- El presente Decreto entrará en vigor el día 1º. de enero de 1992, previa publicación en el Periódico Oficial, Organo del Gobierno del Estado de Nayarit.
 
+P.O. 26 DE DICIEMBRE DE 1992
+
 ###### ARTICULO PRIMERO.
 
 Durante los años de 1991, 1992 y 1993, se aplicarán las tasas del 8%, 6% y 4% respectivamente, en el lugar de la tasa establecida en el Artículo 40 de la ley de Hacienda Municipal para el Estado de Nayarit.
@@ -754,3 +742,15 @@ Durante los años de 1991, 1992 y 1993, se aplicarán las tasas del 8%, 6% y 4% 
 ###### ARTICULO SEGUNDO.
 
 Las presentes disposiciones derogan todas aquellas que se opongan a los términos expresamente contenidos en este Decreto.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas y cada una de las disposiciones que se opongan al contenido del presente Decreto. No obstante, los causantes podrán convenir con la autoridad fiscal competente el pago del Impuesto Predial sobre la base de la producción agropecuaria en la proporción al efecto se concerte.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1º de Enero de 1993, previa publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Por lo que concierne al Impuesto sobre Adquisición de Bienes Inmuebles, en tratándose de operaciones traslativas de dominio de predios suburbanos o ubicadas en zonas turísticas, la autoridad competente mandará se practiquen avalúos especiales para los efectos procedentes.
