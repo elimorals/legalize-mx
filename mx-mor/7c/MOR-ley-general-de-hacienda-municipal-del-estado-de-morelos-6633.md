@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-municipal-del-estado-de-morelos-6633"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "1984-01-04"
+last_updated: "1986-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,29 +21,69 @@ state: "MOR"
 ---
 # LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS
 
-LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS 1984
+LEY DE TRANSPORTE PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE DICIEMBRE DE 2013.
 
-Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
+Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 8 de marzo de 2002.
 
-Al margen izquierdo un escudo nacional que dice: Estados Unidos Mexicanos.- Gobierno del Estado Libre y Soberano de Morelos.- Poder Ejecutivo.
+EL C. ARMANDO LOPEZ NOGALES, Gobernador Constitucional del Estado Libre y Soberano de Sonora, a sus habitantes sabed:
 
-LAURO ORTEGA MARTINEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, A SUS HABITANTES SABED:
+Que el H. Congreso del Estado, se ha servido dirigirme la siguiente
 
-Que el H. Congreso del Estado se ha servido enviarme para su Promulgación lo siguiente:
+LEY:
 
-LA H. XLII LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN USO DE LA FACULTAD QUE EXPRESAMENTE LE CONFIERE LA FRACCION II DEL ARTICULO 40, DE LA CONSTITUCION POLITICA DEL ESTADO, HA TENIDO A BIEN EXPEDIR:
+NUMERO 149
 
-LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS 1984
+EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SONORA, EN NOMBRE DEL PUEBLO, TIENE A BIEN DECRETAR LA SIGUIENTE
+
+LEY DE TRANSPORTE PARA EL ESTADO DE SONORA
 
 # LIBRO PRIMERO. DE LA RELACION TRIBUTARIA
 
-## TITULO PRIMERO
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPITULO UNICO
+### CAPITULO I. DE LA NATURALEZA Y OBJETO DE LA LEY
 
-DISPOSICIONES GENERALES.
+###### Artículo 1.
+
+Las disposiciones de la presente Ley son de orden público y de interés social.
+
+###### Artículo 2.
+
+La presente Ley tiene como objeto:
+
+I.- Establecer las bases para planear, regular, administrar, controlar y supervisar el servicio público de transporte;
+
+II.- Definir la competencia y atribuciones del Ejecutivo del Estado y de los ayuntamientos, la coordinación entre ambos órdenes de gobierno y, la integración y administración del Sistema de Transporte Estatal; y
+
+III.- Establecer los procedimientos administrativos a que deberán sujetarse los actores que intervengan en la prestación del servicio público y privado de Transporte, los usuarios y las autoridades, en el ejercicio de sus atribuciones y en el ámbito de su competencia, así como los recursos administrativos o medios de defensa.
+
+###### Artículo 3.
+
+El interés público y social que la presente Ley tutela, se define en los principios básicos siguientes:
+
+I.- El transporte en general, es de los factores fundamentales que promueven el desarrollo productivo, económico y social de la Entidad, de lo que deriva la responsabilidad del Estado y los Municipios, asegurar se preste con la eficiencia y eficacia que demanden las necesidades de la población, debiendo al efecto, proveer por cuantos medios estén a su alcance, las medidas y acciones que garanticen su desarrollo;
+
+II.- El transporte colectivo de personas, es el medio de traslado mas usado diariamente por la mayoría de la población, con el propósito de ocurrir a los centros de trabajo, de prestación de servicios educativos, salud, comercio, recreación, entre muchos más, significando la fuente y vida de la actividad económica y social de la entidad, de lo que deviene, que este servicio sea básico y de primera necesidad para la sociedad sonorense, por tanto, la trascendente e ineludible responsabilidad del Estado y los Municipios, en las respectivas esferas de su competencia, de velar y preservar que el servicio público de transporte se preste en forma continua, uniforme, regular, permanente, segura, digna y acorde a las exigencias de la actividad social y productiva de la población, cuidando que el medio ambiente, la ecología y el patrimonio cultural e histórico de los sonorenses no sea afectado;
+
+III.- Los usuarios del servicio público de transporte, son los destinatarios de la prestación de este servicio; por lo que es imperativo que sus necesidades de traslación, forma, condiciones, calidad, accesibilidad y oportunidad sean el centro y punto de partida del Ejecutivo del Estado y de los Municipios, en las esferas de su competencia, para planear, organizar, ejecutar y evaluar la prestación del servicio público de transporte; acogiendo tal premisa esta Ley para establecer y garantizar los derechos y obligaciones de los usuarios del servicio; y
+
+IV.- El Servicio de transporte público que tiene derecho a recibir el usuario, debe estar fincado en el pago de una cuota o tarifa justa y razonable, que conjugue el interés del destinatario del servicio, con la inversión y costo de la prestación; en caso que se concesione, el Estado debe garantizar al concesionario, la ganancia mínima que haga económicamente redituable la prestación del servicio, sin perjuicio de su obligación de salvaguardar los principios antes consignados y evitar que se generen prácticas monopólicas o de concentración por los concesionarios de este servicio público.
+
+###### Artículo 4.
+
+Para los efectos de esta Ley, se considera servicio público de transporte la actividad mediante la cual, con apego a los principios señalados en el artículo precedente, el Ejecutivo del Estado con la participación de los Municipios en sus respectivas competencias y ámbitos territoriales, satisface por sí o a través de concesionarios, las necesidades de movilización o traslado de personas y cosas por las calles, caminos y carreteras municipales y estatales en el territorio del Estado, que se ofrece al público en general, mediante el pago de una retribución en numerario.
+
+El servicio particular o privado de transporte, es el traslado de personas y cosas que efectúa la persona física o moral propietaria de la o las unidades, con motivo de sus actividades económicas, productivas y de servicios, el cual no se ofrece al público.
+
+###### Artículo 5.
+
+La prestación del servicio público de transporte es una función del Estado, que se ejerce a través del Poder Ejecutivo Estatal con la participación de los Municipios en los términos previstos en esta Ley.
+
+###### Artículo 6.
+
+En los procedimientos establecidos en esta Ley, se aplicará supletoriamente el Código de Procedimientos Civiles para el Estado de Sonora.
 
 ###### ARTICULO 1o.
 
@@ -83,3149 +123,2159 @@ Son Participaciones los ingresos que derivan del rendimiento de impuestos y dere
 
 Las Leyes y demás disposiciones tributarias o fiscales de carácter general entrarán en vigor el décimo quinto día siguiente al de su publicación en el Periódico Oficial del Estado, salvo que en ellas se establezca una vigencia distinta, en los plazos sobre la vigencia a que este artículo se refiere, se computarán los días inhábiles.
 
-###### ARTICULO 10.
+###### Artículo 10.
 
-No podrá exigirse pago alguno que no se encuentre previsto en este ordenamiento, en la Ley de Ingresos del Estado, Ley de Ingresos del Municipio o en una Ley especial que haya sido previamente formulada y notificada su liquidación al contribuyente.
+Son atribuciones del Secretario de Infraestructura Urbana y Ecología en materia de Transporte, las siguientes:
 
-Cuando se establezca un nuevo gravamen en este ordenamiento, en la Ley de Ingresos del Municipio o en alguna Ley especial, para que entre en vigor en el Ejercicio en el que se aprueba por la Legislatura local o en el siguiente, no será necesario que se incluya en la Ley de Ingresos correspondiente al Ejercicio en que entra en vigor.
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
 
-###### ARTICULO 11.
+I.- Proponer al Titular del Poder Ejecutivo del Estado, el proyecto de Programa Estatal del Transporte donde se especifiquen los objetivos, prioridades, políticas, metas, estrategias y líneas de acción en materia de transporte público, con la participación que esta Ley otorga a los ayuntamientos y de conformidad con la Ley de Planeación del Estado de Sonora y con la participación de la Comisión Municipal Reguladora del Transporte Colectivo Urbano en los municipios que exista;
 
-La aplicación de las Leyes y demás disposiciones tributarias o fiscales estará a cargo del Presidente Municipal, quien ejercerá estas facultades por conducto de la Tesorería Municipal.
+II.- Formular y conducir, de acuerdo al Programa Estatal del Transporte, la política del sector en la entidad;
 
-###### ARTICULO 12.
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
 
-Las Leyes tributarias expedidas, serán de aplicación estricta.
+III.- Coordinar, la evaluación anual del Programa Estatal del Transporte con la participación de los ayuntamientos del Estado, proponiendo al Titular del Ejecutivo Estatal, las modificaciones de conformidad con los datos que arroje la misma y con la participación de la Comisión Municipal Reguladora del Transporte Colectivo Urbano en los municipios que exista;
 
-Cuando los vocablos contenidos en la presente Ley y demás disposiciones fiscales o tributarias de carácter general, tengan más de una acepción, se estará en primer término, a la de carácter gramatical y a falta de ésta, a la de carácter técnico jurídico, buscando en todo caso, el equilibrio que debe existir entre los intereses del Municipio y de los particulares.
+IV.- Promover e impulsar la constitución de figuras asociativas entre los concesionarios de acuerdo con las leyes de la materia, siempre que no implique actos de monopolio o concentración, para optimizar y eficientar el servicio público de transporte concesionado, así como abaratar su costo de operación;
 
-###### ARTICULO 13.
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
 
-La ignorancia de las Leyes, Reglamentos y demás disposiciones fiscales de observancia general, debidamente promulgadas y publicadas, no excusa de su cumplimiento. Sin embargo, en todos los casos en los que el incumplimiento de las obligaciones fiscales pueda atribuirse al alejamiento de las vías de comunicación o a incultura de los habitantes de una región, a insuficiencia económica y a otras causas excluyentes de mala fe, el Presidente Municipal podrá conceder en forma general o en forma especial, términos adicionales para el cumplimiento de las obligaciones fiscales y podrá eximir a los infractores de las sanciones correspondientes a reducir éstas.
+V.- Celebrar convenios con ayuntamientos, organismos públicos y privados, y concesionarios, a fin de definir y acordar acciones de inspección, vigilancia y mejoramiento de los servicios públicos de transporte, con excepción de los municipios en donde exista Comisión Municipal Reguladora del Transporte Colectivo Urbano que realizará estas funciones en el ámbito de su municipio para este tipo de transporte;
 
-## TITULO SEGUNDO. DE LAS OBLIGACIONES TRIBUTARIAS
+VI.- Resolver la suspensión del servicio público de transporte, previa observancia del procedimiento establecido en esta Ley;
 
-### CAPITULO PRIMERO. DE LOS SUJETOS Y DEL DOMICILIO
+VII.- Resolver los procedimientos administrativos y recursos promovidos ante la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología;
 
-###### ARTICULO 14.
+VIII.- Resolver sobre las solicitudes de los concesionarios relativas a la cesión o gravamen de las concesiones, previa substanciación del procedimiento respectivo, siempre que tales actos sean para mejorar la prestación del servicio concesionado;
 
-Sujeto pasivo de un crédito fiscal es la persona física o moral, mexicana o extranjera que, de acuerdo con las Leyes, está obligada al pago de una prestación determinada al físico (sic) municipal.
+IX.- Hacer cumplir sus decisiones y resoluciones que conforme a esta Ley emita, por sí o por conducto de la Delegación Regional que corresponda, quién podrá solicitar, cuando el caso lo amerite, el auxilio de la fuerza pública;
 
-También es sujeto pasivo cualquier agrupación que constituya una unidad económica diversa de la de sus miembros. Para la aplicación de las Leyes fiscales, se asimilan estas agrupaciones a las personas morales.
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
 
-###### ARTICULO 15.
+X.- Aplicar sanciones y medidas de seguridad de conformidad a lo establecido en esta Ley, por si o a través de las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano;
 
-Son responsables solidarios:
+XI.- Expedir los lineamientos y normas técnicas de la materia;
 
-I.- Quienes en los términos de las Leyes estén obligados al pago de la misma prestación fiscal;
+XII.- Aprobar los programas anuales de capacitación, actualización y adiestramiento para los operadores y demás personal que participa en la prestación del servicio público de transporte, en su caso, a los concesionarios, de conformidad con el Programa Estatal de Transporte; y
 
-II.- Quienes manifiesten su voluntad de asumir responsabilidad solidaria;
+XII.- Las demás que le confieran esta Ley y sus reglamentos, y las que le deleguen el Titular del Poder Ejecutivo del Estado.
 
-III.- Los copropietarios, los coposeedores o los participantes en derechos mancomunados, respecto de los créditos fiscales derivados del bien o derecho en común y hasta el monto del valor de éste. Por el excedente de los créditos fiscales cada uno quedará obligado en la proporción que le corresponda en el bien o derecho mancomunado;
+###### Artículo 11.
 
-IV.- Las personas a quien se imponga la obligación de retener o recaudar créditos fiscales a cargo de terceros;
+La Secretaría de Infraestructura Urbana y Ecología, contará con una Unidad Administrativa, que tendrá las funciones siguientes:
 
-V.- Quienes deban recabar documentos en los que conste el pago si no cumplen con esta obligación;
+I.- Expedir el título que ampare la concesión a favor del concesionario;
 
-VI.- Los propietarios de negociaciones comerciales, industriales, agrícolas, ganaderas, pesqueras y mineras, créditos o concesiones respecto de las prestaciones fiscales que en cualquier tiempo se hubieran causado en relación con dichas negociaciones, créditos o concesiones, sin que la responsabilidad exceda del valor de los bienes, salvo que se demuestre, proceder fraudulentamente con el fisco municipal, en cuyo caso su responsabilidad solidaria se establecerá hasta por el total del crédito fiscal más sus accesorios;
+II.- Otorgar permisos del servicio privado o particular de transporte, con la debida participación de los ayuntamientos cuando afecte su ámbito territorial, previa observancia del procedimiento que esta Ley previene;
 
-VII.- Los legatarios y los donatarios a título particular respecto de los créditos fiscales que se hubieren causado en relación con los bienes legados o donados, hasta por el monto de éstos;
+III.- Substanciar, hasta ponerlo en estado de resolución, el procedimiento para otorgar concesiones con arreglo a lo que esta Ley dispone y la convocatoria pública lanzada para tal efecto;
 
-VIII.- Los terceros que para garantizar obligaciones fiscales ajenas, constituyan depósito, prenda o hipoteca o permitan el secuestro de bienes, hasta por el valor de los dados en garantía cuando así fuere pactado;
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
 
-IX.- Los funcionarios públicos, Notarios y Corredores Públicos que autoricen algún acto jurídico o den trámite a algún documento si no se cercioran de que se han cubierto los impuestos o derechos respectivos, o no den cumplimiento a las disposiciones correspondientes que regulan el pago de gravamen;
+IV.- Substanciar, de oficio o a petición de las Delegaciones Regionales, de los ayuntamientos o de parte interesada, hasta ponerlo en estado de resolución, el procedimiento administrativo, respecto a:
 
-X.- Los adquirentes de propiedades en fraccionamientos regulares, y;
+a) Los asuntos relacionados con la prestación del servicio público de transporte y del servicio privado o particular de transporte;
 
-XI.- Las demás que señalen las Leyes.
+b) El cambio o modificación de rutas;
 
-###### ARTICULO 16.
+c) El cumplimiento y modificación de horarios;
 
-Están exentos de pagos de impuestos y contribuciones especiales los bienes del dominio público de la Federación, de los Estados y de los Municipios.
+d) El cambio y sustitución de unidades; y
 
-###### ARTICULO 17.
+e) La cesión o gravamen de las concesiones.
 
-Para los efectos fiscales se considera como domicilio de los sujetos pasivos o responsables solidarios el que establezcan las Leyes tributarias y en su defecto, los siguientes:
+Esta facultad se asigna a las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano en donde existan;
 
-I.- De las personas físicas:
+V.- Substanciar, hasta ponerlos en estado de resolución, los recursos o medios de defensa promovidos por las partes interesadas;
 
-El lugar donde se encuentra establecido el principal asiento de su negocio o actividad; a falta de éste, su casa habitación; a falta de los dos anteriores, el lugar en que se hubiere realizado el hecho generador del crédito fiscal.
+VI.- Coordinar y proveer de apoyo técnico a los Delegados Regionales y vigilar el buen desempeño de sus funciones;
 
-II.- Tratándose de personas morales; unidades económicas o agrupaciones en general:
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
 
-El lugar en que esté establecida su administración principal, en su defecto en (sic) lugar en que se encuentre su principal establecimiento; y a falta de éstos, el lugar en que se hubiere realizado el hecho generador del crédito fiscal.
+VII.- Realizar conjuntamente con los ayuntamientos, de oficio o a petición de éstos, los estudios técnicos y socioeconómicos de necesidades de servicio público de transporte, para ser sometidos a la aprobación, o en su caso, rechazo por parte del Ayuntamiento que corresponda, en razón de la demarcación territorial.
 
-III.- Tratándose de personas físicas, morales, unidades económicas o agrupaciones en general, residentes o establecidos fuera de la Entidad, que realicen actividades gravadas en el Municipio a través de terceros, cualquiera que sea el nombre con el que se les designe, se considerará como su domicilio el de esas terceras personas.
+Esta facultad se asigna a las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano en donde existan para este tipo de transporte;
 
-### CAPITULO SEGUNDO. DEL NACIMIENTO DE LAS PRESTACIONES Y DETERMINACION DE LOS CREDITOS FISCALES
+VIII.- Formular el anteproyecto de Programa Estatal de Transporte con la participación de los ayuntamientos, donde se establezcan los objetivos, metas, estrategias y líneas de acción en materia de transporte público, previéndose los sistemas integrales de rutas de transporte de carácter municipal, intermunicipal y estatal, debiendo considerar por lo menos, que los itinerarios mejoren el servicio, abaraten los costos, den mayor fluidez al tránsito y preserven el medio ambiente, la ecología y el patrimonio cultural e histórico de la entidad;
 
-###### ARTICULO 18.
+IX.- Autorizar prórroga para la iniciación del servicio concesionado;
 
-Las prestaciones fiscales nacen en el momento en que se realice el hecho previsto en esta Ley.
+X.- Presentar al Secretario de Infraestructura Urbana y Ecología, el proyecto de programa anual de capacitación, actualización y adiestramiento para los operadores y demás personal que participa en la prestación del servicio público de transporte, en su caso, el de los concesionarios de conformidad con el Programa Estatal de Transporte, las políticas y lineamientos emitidas por el Secretario, así como coordinar su ejecución con los Delegados Regionales, autoridades municipales y consejos consultivos;
 
-Dichas prestaciones se determinarán y liquidarán conforme a las disposiciones vigentes en el momento de su nacimiento, pero les serán aplicables las normas sobre procedimientos que se expidan con posterioridad.
+XI.- Coordinar el funcionamiento del Registro Público de Transporte del Estado, de acuerdo a lo que establece esta Ley y sus reglamentos;
 
-###### ARTICULO 19.
+XII.- Proponer al Secretario, los proyectos de los reglamentos, lineamientos y normas relativos a los sistemas generales de control de la prestación del servicio público de transporte y particularmente en el de pasaje urbano, respecto de los ingresos provenientes de la recaudación en la prestación del servicio, entrega de boletos y horarios;
 
-La declaración de la existencia de prestaciones tributarias y su determinación en cantidad líquida lo harán los sujetos pasivos o responsables solidarios, salvo que este ordenamiento señale expresamente que la determinación corresponda a la autoridad.
+XIII.- Proponer al Secretario, el proyecto de reglamento del Registro Público de Transporte del Estado;
 
-###### ARTICULO 20.
+XIV.- Expedir permisos eventuales de servicio público de transporte; y
 
-Cuando en atención a la naturaleza y características de las operaciones que realicen los sujetos pasivos no sea posible dentro de los procedimientos ordinarios precisar con exactitud el ingreso o actividad gravable, la Tesorería del Municipio procederá en los términos de los Artículos 58 y 61 de esta Ley.
+> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 2013)</small>
 
-El caso de oposición del causante, se estará a lo dispuesto en el Artículo 59 de esta Ley.
+XV.- Elaborar obligatoriamente los Planes Operativos de Servicio a las que habrá de apegarse la prestación del servicio público de transporte en la modalidad de pasaje urbano, incorporando en el mismo las características de sustentabilidad, confort y calidad que determine el Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora.
 
-### CAPITULO TERCERO. DE LA EXTINCION DE LOS CREDITOS FISCALES
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 23 DE DICIEMBRE DE 2013)</small>
 
-###### ARTICULO 21.
+XVI.- Informar a los concesionarios correspondientes del Plan Operativo de Servicio y características de sustentabilidad, confort y calidad a las que deberán apegarse para la prestación del servicio público de transporte.
 
-El crédito fiscal es la prestación determinada en cantidad líquida y debe pagarse en la fecha o dentro del plazo señalado en las disposiciones respectivas.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 23 DE DICIEMBRE DE 2013)</small>
 
-A falta de disposición expresa, el pago deberá hacerse dentro de los quince días naturales siguientes:
+XVII.- Las que asigne el Secretario y las demás que le confiera esta Ley y sus reglamentos.
 
-I.- Al nacimiento de la prestación, si corresponde a los sujetos pasivos o responsables solidarios el determinar en cantidad líquida; y
+###### Artículo 12.
 
-II.- A la fecha de la notificación de la liquidación si corresponde a la autoridad el formularla.
+La Secretaría de Infraestructura Urbana y Ecología, para el cumplimiento de sus funciones, contará con Delegaciones Regionales, cuya organización y funcionamiento se regularán en el reglamento correspondiente.
 
-###### ARTICULO 22.
+Las Delegaciones Regionales de Transporte contarán con un Delegado Regional que será designado y removido en los términos de la Ley Orgánica del Poder Ejecutivo del Estado.
 
-La falta de pago de un crédito fiscal en la fecha o plazo establecido en las disposiciones respectivas, determina que el mismo sea exigible.
+###### Artículo 13.
 
-###### ARTICULO 23.
+El Delegado Regional de Transporte, en su demarcación territorial, tendrá las siguientes funciones y atribuciones:
 
-El Presidente Municipal podrá conceder prórroga para el pago de los créditos fiscales o autorización para que sean cubiertos en parcialidades cuando se trate de situaciones excepcionales, casos en los cuales el término podrá ser hasta tres años, previo acuerdo de Cabildo.
+I.- Representar al Titular del Poder Ejecutivo del Estado, en materia de transporte de acuerdo a las facultades que esta Ley establece;
 
-###### ARTICULO 24.
+II.- Ejecutar el programa anual de capacitación, actualización y adiestramiento para los operadores y demás personal que participa en la prestación del servicio público de transporte, en su caso, a los concesionarios con objeto de mejorar la prestación del mismo;
 
-En los casos a que se refiere el precepto anterior deberá garantizarse el crédito fiscal, salvo cuando, en relación con el monto del crédito fiscal, sea notoria la amplia solvencia del deudor o existan situaciones excepcionales que justifiquen la dispensa.
+III.- Verificar que se hayan inscrito en el Registro Público de Transporte del Estado: concesiones, concesionarios, permisos, permisionarios, operadores y unidades del servicio de transporte público, en general, los actos, resoluciones, medidas y sanciones que afecten, extingan o modifiquen los derechos y obligaciones de los actores del transporte de conformidad con esta Ley y sus reglamentos;
 
-Durante los plazos concedidos se causarán intereses conforme a la tasa que fije esta Ley, o de la que fije anualmente la Ley de Ingresos del Municipio, cualquiera que sea mayor de las dos.
+IV.- Expedir a los operadores del Servicio Público de Transporte Estatal, constancias previa aprobación de los cursos de capacitación, actualización y adiestramiento y de los exámenes físicos, psíquicos y de pericia que establezca esta Ley y sus reglamentos, para adquirir el derecho a ser inscritos en el Registro Público de Transporte del Estado;
 
-###### ARTICULO 25.
+V.- Expedir los permisos emergentes, del servicio público de transporte, en los términos y condiciones que establece esta Ley y sus reglamentos;
 
-Cesará la prórroga o la autorización para pagar en parcialidades y el crédito fiscal será inmediatamente exigible:
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
 
-I.- Cuando desaparezca o resulte insuficiente la garantía del crédito;
+VI.- Acordar con los concesionarios, dando la debida participación a los ayuntamientos que afecte su ámbito territorial, el establecimiento de cobertizos en los lugares de ascenso y descenso de pasaje y demás medidas que mejoren la calidad y eficiencia del servicio público de transporte estatal.
 
-II.- Cuando el deudor sea declarado en quiebra o solicite su liquidación judicial;
+Esta facultad se asigna a las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano en donde existan;
 
-III.- Cuando deje de cubrirse alguna de las parcialidades; y
+VII.- Intervenir y conciliar en los conflictos que, con motivo de la prestación del servicio público de transporte estatal se susciten, cuando la naturaleza de los mismos lo requiera;
 
-IV.- Cuando el interesado, durante la prórroga o la autorización incurra en incumplimiento de pagos derivados de este ordenamiento.
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
 
-###### ARTICULO 26.
+VIII.- Vigilar, en el servicio público de transporte, que los concesionarios cumplan con las condiciones de legalidad, así como de higiene, comodidad y seguridad que correspondan a la categoría del servicio, de acuerdo con los términos de su concesión.
 
-Cuando no se pague un crédito fiscal en la fecha o dentro del plazo señalado en las disposiciones respectivas, deberán cubrirse recargos por concepto de indemnización al fisco municipal por la falta de pago oportuno.
+Esta facultad se asigna a las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano en donde existan para este tipo de transporte;
 
-La tasa de los recargos será del doble de la que se fije conforme a lo dispuesto por el Artículo 24 de este Ordenamiento debiendo causarse por cada mes o fracción que transcurra a partir de la fecha de exigibilidad hasta que se efectúe el pago. Los recargos no excederán de 200% del importe del crédito fiscal de que se trate.
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
 
-Los créditos retenidos que no se enteren con puntualidad, causarán recargos que ascenderán hasta el 300% del importe del crédito fiscal de que se trate.
+IX.- Fijar plazo razonable, para que los concesionarios mejoren las condiciones de higiene, comodidad, seguridad, calidad y eficiencia de acuerdo con los términos de la concesión, cuando de la inspección que se realice conforme a esta Ley, se constate el deterioro en la prestación del servicio.
 
-###### ARTICULO 27.
+Esta facultad se asigna a las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano en donde existan para este tipo de transporte;
 
-El pago de los créditos fiscales deberá hacerse en efectivo, salvo que las disposiciones aplicables establezcan que se haga en especie.
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
 
-###### ARTICULO 28.
+X.- Suspender la circulación de los vehículos autorizados cuando no reúnan las condiciones mínimas de comodidad, seguridad, higiene o vida útil que se requieran para la prestación del servicio público de transporte; asimismo, autorizar la reanudación de la circulación, una vez que se cumplan las condiciones que requiere el servicio.
 
-Los giros postales, telegráficos o bancarios y los cheques certificados se admitirán como efectivo, excepcionalmente se aceptará como medio de pago los cheques de cuentas personales de los contribuyentes, pero la falta de pago a su presentación por la institución a cuyo cargo se hubiere librado, por causa imputable al librador, dará derecho a la Tesorería Municipal a exigir el pago del importe del mismo y una indemnización del 20% del importe del cheque, sin menoscabo del pago de los recargos correspondientes.
+Esta facultad se asigna a las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano en donde existan para este tipo de transporte;
 
-La indemnización, el importe del cheque y los recargos se harán efectivos mediante el procedimiento administrativo de ejecución.
+XI.- Impedir la circulación de los vehículos que se encuentren prestando el servicio público de transporte, si éste o su operador, no se encuentran inscritos en el Registro Público de Transporte del Estado;
 
-###### ARTICULO 29.
+XII.- Inspeccionar y vigilar, la prestación del servicio público y privado de transporte, de conformidad con los procedimientos que esta Ley establece;
 
-Cuando el crédito fiscal esté constituido por diversos conceptos, los pagos que haga el deudor se aplicarán conforme al siguiente orden:
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
 
-I.- Los gastos de ejecución;
+XIII.- Aplicar medidas e imponer las sanciones por las infracciones que se cometan a la presente Ley, previa la observancia del procedimiento respectivo.
 
-II.- Los recargos y multas; y
+Esta facultad se asigna a las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano en donde existan para este tipo de transporte;
 
-III.- Los impuestos, contribuciones especiales y derechos, distintos a los señalados en las fracciones anteriores.
+XIV.- Hacer cumplir las decisiones y resoluciones que conforme a esta Ley se emita, pudiendo solicitar, cuando el caso lo amerite, el auxilio de la fuerza pública; y
 
-###### ARTICULO 30.
+XV.- Las que le sean delegadas y las demás que le confieran esta Ley y sus reglamentos.
 
-Podrá hacerse el pago de créditos tributarios bajo protesta cuando la persona que lo haga lo entere con inconformidad e intente, en su oportunidad, los recursos o medios de defensa respectivos.
+## TITULO SEGUNDO. DE LA EXPLOTACION DE VIAS PUBLICAS
 
-Las autoridades, a solicitud del interesado expresada en el momento de hacer el pago, deberán hacer constar que el pago se hizo bajo protesto, a falta de esta constancia, bastará que el interesado, previa o simultáneamente al pago, exprese por escrito a la oficina receptora del Municipio que el pago se efectuó bajo protesto.
+### CAPITULO II. DE LAS AUTORIDADES DE TRANSPORTE
 
-###### ARTICULO 31.
+> <small>(REFORMADO, B.O. 25 DE MARZO DE 2011)</small>
 
-El protesto quedará sin efecto y el pago se considerará definitivo, desde la fecha en que se hizo el entero respectivo, cuando no se intenten los medios de defensa respectivos, o fueren rechazados, o sobreseidos, o cuando la resolución que cause estado reconozca la procedencia del pago.
+###### Artículo 7.
 
-###### ARTICULO 32.
+Son autoridades de transporte, las siguientes:
 
-El fisco municipal estará obligado a devolver las cantidades que hubieren sido pagadas indebidamente, cuando el pago de lo indebido haya tenido su origen en la autodeterminación del sujeto pasivo y que éste formule la reclamación respectiva.
+I.- En el ámbito estatal:
 
-###### ARTICULO 33.
+a).- El Titular del Poder Ejecutivo;
 
-Cuando el pago hubiese sido hecho bajo protesto como inconformidad de la resolución de la autoridad, que determine la existencia de un crédito fiscal, lo fije en cantidad líquida o de las bases para su liquidación; el derecho a la devolución nace cuando dicha resolución quede insubsistente.
+b).- El Secretario de Infraestructura Urbana y Ecología;
 
-###### ARTICULO 34.
+c).- El Titular de la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología;
 
-Cuando el sujeto pasivo haya enterado cantidades derivadas de operacions (sic) que no produjeron los ingresos que se gravaron o cuando se hayan enterado cantidades en exceso de las que legalmente se estaba obligado, y siempre que no haya habido repercusión o translación del crédito fiscal, tendrá derecho a la devolución de dichas cantidades.
+d).- Los Delegados Regionales de Transporte; y
 
-###### ARTICULO 35.
+e).- Los Inspectores de Transporte del Estado.
 
-Para que se haga la devolución de cantidades pagadas indebidamente, será necesario:
+II.- En el ámbito municipal:
 
-I.- Que se dicte acuerdo de la Tesorería Municipal;
+a).- Los ayuntamientos de los Municipios del Estado o la Dependencia que los mismos determinen; y
 
-II.- Que el derecho a reclamar la devolución no se haya extinguido.
+b).- Los Inspectores de Transporte Municipal.
 
-###### ARTICULO 36.
+III.- Las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano donde se integren.
 
-Procede la compensación cuando tanto el Municipio como el sujeto pasivo son acreedores y deudores recíprocos por la aplicación de un mismo gravamen y siempre que las deudas del primero sean líquidas y exigibles. La compensación deberá autorizarse por la Tesorería del Municipio a petición del interesado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 23 DE DICIEMBRE DE 2013)</small>
 
-Cuando los créditos y las deudas no procedan de la aplicación de los mismos gravámenes, la Tesorería del Municipio apreciará discrecionalmente la conveniencia de autorizar la compensación.
+IV. El Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora.
 
-###### ARTICULO 37.
+###### Artículo 14.
 
-Procederá la condonación total o parcial de créditos fiscales cuando se haya afectado o trate de impedirse se afecte la situación de alguna región del Municipio o de alguna rama de las actividades económicas.
+Los ayuntamientos del Estado, en el servicio público y privado de transporte en sus respectivos territorios, tendrán las siguientes facultades:
 
-El Presidente Municipal, mediante disposiciones de carácter general determinará el monto o porcentaje de los créditos que se condonen, los sujetos que gozarán del beneficio, la región o las ramas favorecidas, así como los requisitos que deban satisfacerse y el período de vigencia de los beneficios.
+I.- Aprobar o rechazar, en su caso, dentro de un plazo que no exceda de treinta días hábiles, los estudios técnicos y socioeconómicos que le sean turnados por la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, para determinar las necesidades de transporte en su municipio, para los efectos que establecen las fracciones VIII y IX del artículo 9 de esta Ley, si transcurrido dicho plazo no se emite el acuerdo respectivo, se entenderá que se rechazan los estudios turnados;
 
-El Presidente Municipal, a través de la Tesorería del Municipio queda facultado para:
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
 
-I.- Reducir la base gravable de las contribuciones, cuando lo estime conveniente como medida de equilibrio fiscal, cuando se trate de ampliación o creación de fuentes de trabajo y previo acuerdo de cabildo.
+II.- Solicitar a la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, realice los estudios técnicos y socioeconómicos para determinar las necesidades de servicio público de transporte dentro de su territorio, y participar en la elaboración de los mismos, o en su caso, en aquellos estudios que la propia Unidad inicie de oficio.
 
-II.- Celebrar convenios de regularización fiscal por ejercicios anteriores, con lo que podrá condonar total o parcialmente la aplicación de recargos y sanciones a los infractores de la legislación tributaria.
+Cuando existan Comisiones Municipales Reguladoras del Transporte Colectivo Urbano estas realizarán los estudios para el tipo de transporte correspondiente;
 
-III.- Cancelar en la vía administrativa las exenciones y franquicias fiscales, cuando previa audiencia con el contribuyente, quede comprobado que éste ha dejado de dar cumplimiento a los requisitos condicionales del otorgamiento de ellas.
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
 
-###### ARTICULO 38.
+III.- Ejecutar, en coordinación con el Consejo Consultivo Municipal, el programa anual de capacitación, actualización y adiestramiento para los operadores y demás personal que participa en la prestación del Servicio Público de Transporte Municipal, en su caso, a los concesionarios con objeto de mejorar la prestación del mismo, de acuerdo con los lineamientos aprobados en el programa estatal de capacitación, actualización y adiestramiento del año de su ejecución.
 
-Las multas que hubieren quedado firmes deberán ser condonadas totalmente si por pruebas presentadas ante las autoridades administrativas o jurisdiccionales, en su caso, demuestre que no se cometió la infracción.
+Esta facultad se asigna a las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano en donde existan para ese tipo de transporte;
 
-###### ARTICULO 39.
+IV.- Verificar que se hayan inscrito en el Registro Público de Transporte del Estado, respecto de su municipio: concesiones, concesionarios, permisos, permisionarios, operadores y unidades del servicio de transporte público, en general, los actos, resoluciones, medidas y sanciones que afecten, extingan o modifiquen los derechos y obligaciones de los actores del transporte de conformidad con esta Ley y sus reglamentos;
 
-Las multas por infracción a las disposiciones tributarias podrán ser condonadas parcialmente por la Tesorería Municipal, quien apreciará discrecionalmente los motivos que tuvo la autoridad que impuso la sanción y las demás circunstancias del caso.
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
 
-###### ARTICULO 40.
+V.- Expedir a los operadores del Servicio Público de Transporte Municipal, constancias previa aprobación de los cursos de capacitación y exámenes físicos, psíquicos y de pericia que establezca esta Ley y sus reglamentos, para adquirir el derecho de ser inscritos en el Registro Público de Transporte del Estado.
 
-Las facultades del fisco municipal para determinar la existencia de obligaciones tributarias, señalar las bases de su liquidación o fijarlas en cantidad líquida, para imponer sanciones por infracción a las disposiciones fiscales, así como las facultades de verificar el cumplimiento o incumplimiento de dichas disposiciones y los créditos tributarios a favor del mismo fisco por impuestos, contribuciones especiales y derechos, así como los accesorios de éstos y multas de naturaleza tributaria, se extinguen por prescripción o término de cinco años, debiendo de mediar en todo caso, petición expresa y fundada por escrito del contribuyente.
+Esta facultad se asigna a las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano en donde existan para ese tipo de transporte;
 
-###### ARTICULO 41.
+VI.- Acordar con los concesionarios el establecimiento de cobertizos en los lugares de ascenso y descenso de pasaje y demás medidas que mejoren la calidad y eficiencia del servicio publico de transporte municipal;
 
-El término de la prescripción empezará a correr a partir:
+VII.- Intervenir y conciliar en los conflictos que, con motivo de la prestación del servicio público de transporte municipal se susciten, cuando la naturaleza de los mismos lo requiera;
 
-I.- Del día siguiente al en que hubiese vencido el plazo establecido por las disposiciones fiscales para presentar declaraciones, manifestaciones o avisos.
+VIII.- Vigilar, en el servicio público de transporte, que los concesionarios cumplan con las condiciones de legalidad, así como de higiene, comodidad y seguridad que correspondan a la categoría del servicio, de acuerdo con los términos de su concesión;
 
-II.- Del día siguiente al en que se produjo el hecho generador del crédito fiscal, si no existiera obligación de presentar declaraciones, manifestaciones o avisos.
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
 
-III.- Del día siguiente al en que se hubiere cometido la infracción a las disposiciones fiscales; pero si la infracción fuere de carácter continuo, el término correrá a partir del día siguiente en que hubiere cesado; y
+IX.- Fijar plazo razonable, para que los concesionarios del servicio público de transporte, mejoren las condiciones de higiene, comodidad, seguridad, calidad y eficiencia de acuerdo con los términos de la concesión, cuando de la inspección que se realice conforme a esta Ley, se constate el deterioro en la prestación del servicio.
 
-IV.- Del día en que el crédito pudo ser legalmente exigido.
+Esta facultad se asigna a las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano en donde existan para ese tipo de transporte;
 
-###### ARTICULO 42.
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
 
-El término de la prescripción se interrumpe en favor del fisco:
+X.- Suspender la circulación de las unidades autorizadas cuando no reúnan las condiciones mínimas de comodidad, seguridad, higiene o vida útil que se requieran para la prestación del servicio público de transporte, notificando de inmediato a la Delegación Regional o a la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología. Asimismo, autorizar la reanudación de la circulación, una vez que se cumplan las condiciones que requiere el servicio.
 
-I.- Por cualquier gestión de la autoridad tendiente a la determinación del crédito, a la investigación de infracciones, a la imposición de sanciones o al cobro de los créditos y multas, siempre que haya sido notificada o hecha saber al deudor o infractor; y
+La suspensión se realizará por solicitud o a través de las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano en donde existan para ese tipo de transporte;
 
-II.- Por cualquier acto del deudor o del infractor, expreso o tácito, reconociendo la existencia del crédito; de los hechos constitutivos de las infracciones, o de las sanciones.
+XI.- Impedir la circulación de los vehículos que se encuentren prestando el servicio público de transporte, si éste o su operador, no se encuentran inscritos en el Registro Público de Transporte del Estado;
 
-###### ARTICULO 43.
+XII.- Inspeccionar y vigilar, la prestación del servicio público y privado de transporte, a través de la dependencia que designe, observando los procedimientos que esta Ley establece;
 
-La obligación del fisco para devolver cantidades pagadas indebidamente, prescribe en el término de dos años.
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
 
-El plazo se interrumpe por cualquier gestión del particular ante la autoridad fiscal tendiente a la determinación o cobro de dichas cantidades, o por cualquier acto de la autoridad en que se reconozca la existencia de las cantidades que se reclaman.
+XIII.- Aplicar, por conducto de la dependencia que designe, previa observancia del procedimiento, las medidas y sanciones que establece la presente Ley.
 
-###### ARTICULO 44.
+La aplicación se hará a solicitud de, o a través de las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano en donde existan para ese tipo de transporte;
 
-De los requisitos señalados en los dos artículos anteriores deberán existir constancia por escrito.
+XIV.- Brindar en el momento que lo solicite el auxilio de la fuerza pública a la Autoridad de Transporte que se lo solicite, con la finalidad de hacer cumplir las decisiones y resoluciones que conforme a esta Ley se emitan;
 
-###### ARTICULO 45.
+XV.- Hacer uso de la fuerza pública, cuando el caso lo amerite, para aplicar las medidas de seguridad y hacer efectivas las sanciones que conforme a esta Ley se apliquen;
 
-Prescribe en cinco años la obligación de conservar a disposición de las autoridades fiscales los libros de contabilidad, los registros y documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con los pagos o enteros de los créditos fiscales.
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
 
-###### ARTICULO 46.
+XVI.- Opinar sobre la determinación y modificación de las tarifas de los servicios públicos de transporte que se presten dentro de su demarcación territorial.
 
-La cancelación de créditos tributarios de las cuentas públicas por incosteabilidad del cobro o por insolvencia del deudor, no libera a éste de su obligación.
+Esta facultad se asigna a las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano en donde existan para ese tipo de transporte;
 
-## TITULO TERCERO. DE LOS DERECHOS Y OBLIGACIONES DE LOS SUJETOS
+XVII.- Intervenir en la formulación y aplicación de los programas estatales de transporte público, cuando afecten su ámbito territorial, en los términos que lo previene esta Ley;
 
-### CAPITULO PRIMERO. DE LOS SUJETOS PASIVOS Y RESPONSABLES SOLIDARIOS
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
 
-###### ARTICULO 47.
+XVIII.- Establecer mediante convenio con el Gobierno del Estado la constitución de una Comisión Municipal Reguladora del Transporte Colectivo Urbano, cuando así lo consideren conveniente ambas partes. Para delegar en ella las facultades de estudio, investigación, establecimiento de rutas, horarios y estándares de calidad del transporte colectivo urbano;
 
-Los interesados directamente en situaciones reales y concretas que planteen consulta sobre la aplicación o interpretación de las disposiciones tributarias, tendrán derecho a que las autoridades competentes dicten resolución sobre tales consultas.
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
 
-###### ARTICULO 48.
+XIX.- Celebrar con el Ejecutivo Estatal, convenios, a fin de definir y acordar acciones de inspección, vigilancia y mejoramiento de los servicios públicos de transporte.
 
-Toda consulta o petición que se formule a las autoridades fiscales deberá ser resuelta en el plazo que esta Ley fija, o a la falta de término establecido, en noventa días.
+En el convenio de creación de las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano en donde existan se acordarán las acciones de inspección, vigilancia y mejoramiento para ese tipo de transporte;
 
-###### ARTICULO 49.
+XX.- Coordinarse, anualmente con la Secretaría de Infraestructura Urbana y Ecología y la Unidad Administrativa competente, para participar en la evaluación del Programa Estatal de Transporte, proponiendo al Titular del Poder Ejecutivo del Estado, los ajustes necesarios en los términos de la Ley de Planeación del Estado de Sonora; y
 
-Las resoluciones a los particulares no podrán ser revocados o nulificadas por las autoridades en perjuicio de los interesados, salvo que expresamente se contemple en la resolución correspondiente, o que mediante disposiciones generales se revoquen resoluciones anteriores que afecten a la hacienda municipal.
+XXI.- Las demás que señale esta Ley y sus reglamentos.
 
-###### ARTICULO 50.
+###### Artículo 15.
 
-Los sujetos que habitualmente tengan obligación de pagar, retener o recaudar impuestos, deberán inscribirse en el registro municipal de contribuyentes, dentro de los quince días hábiles siguientes al inicio de sus actividades, salvo que las leyes tributarias señalen otro plazo.
+Las disposiciones de este capítulo tienen por objeto establecer las normas y principios conforme a las cuales se llevará a cabo la integración y aplicación del Sistema Estatal de Transporte en el Estado y encauzar las actividades de la administración pública estatal y municipal en materia de transporte, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, esta Ley y de manera supletoria, la Ley de Planeación del Estado de Sonora.
 
-Quedan exceptuadas de la obligación de inscribirse, los sujetos a que alude el Artículo 16 de este Ordenamiento, sin menoscabo de la obligación de retener o de recaudar créditos tributarios en los casos que lo dispongan las Leyes.
+###### Artículo 16.
 
-###### ARTICULO 51.
+Los elementos integrales del Sistema Estatal de Transporte en el Estado serán:
 
-Quienes deban registrarse lo harán en las tesorerías municipales de su localidad, las que deberán proporcionarles su cédula de registro.
+I.- Un proceso de planeación integral del transporte, que comprende el conjunto de actividades encaminadas a articular las demandas sociales a través de un proceso que las identifique, las capte, las sistematice y las traduzca en decisiones y acciones de gobierno, que permitan la formulación, instrumentación, control y evaluación del Programa Estatal de Transporte;
 
-La cédula de registro que se les otorgue deberá estar colocada en lugar visible del establecimiento y a falta de este conservarse en el domicilio fiscal del interesado, debiendo citarse en toda promoción que se haga ante las autoridades fiscales.
+II.- Una estructura institucional constituida por la Secretaría de Infraestructura Urbana y Ecología, la Unidad Administrativa competente de la Secretaría y las Delegaciones Regionales de Transporte, mismos que serán los responsables de la formulación, control y evaluación del Programa Estatal de Transporte, con la participación de los ayuntamientos.
 
-La Tesorería Municipal, conforme a disposiciones reglamentarias, tendrá a su cargo el registro de los sujetos pasivos y de los responsables solidarios, conforme a la técnica que considere adecuada.
+> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 2013)</small>
 
-###### ARTICULO 52.
+III.- Una infraestructura de apoyo conformada por el Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora, los Consejos Consultivos Estatal y Municipales, y las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano que, de conformidad con esta Ley, integren sus esfuerzos de acuerdos a las funciones que se le consagran en esta Ley.
 
-Los sujetos pasivos y los responsables solidarios darán aviso a la Tesorería Municipal dentro de los quince días hábiles siguientes a aquel en que ocurran los siguientes cambios:
+###### Artículo 17.
 
-I.- Del domicilio, excepción hecha de quienes sólo causen impuestos que deban ser retenidos o recaudados;
+El Sistema Estatal de Transporte se plasmará en los siguientes documentos:
 
-II.- De razón o denominación social, al que acompañarán copia de la escritura correspondiente;
+I.- El Programa Estatal de Transporte, que se deriva del Plan Estatal de Desarrollo; y
 
-III.- De sus actividades, o bien, cuando aumenten o disminuyan el giro de las mismas;
+II.- Los Convenios de Coordinación que se celebren entre el Ejecutivo del Estado, a través de la Secretaría de Infraestructura Urbana y Ecología, y los Municipios.
 
-IV.- De la suspensión temporal de las actividades y de la reanudación de las mismas; y
+### CAPITULO III. DE LA COMPETENCIA ESTATAL Y MUNICIPAL
 
-V.- De traspaso de la negociación, clausura definitiva, liquidación o cesación de operaciones.
+###### Artículo 8.
 
-###### ARTICULO 53.
+En la aplicación de esta Ley y los reglamentos que de ella emanen, concurrirán el Ejecutivo del Estado y los ayuntamientos, en los ámbitos de sus respectivas competencias y de conformidad con las atribuciones que este ordenamiento les establece.
 
-En tratándose de los avisos a que alude la fracción V del Artículo anterior, se deberá señalar el lugar donde se conservarán a disposición de las autoridades fiscales, los libros de contabilidad, registros y documentación comprobatoria de sus operaciones.
+###### Artículo 9.
 
-En caso de cambio de dicho lugar, deberá igualmente presentarse aviso respectivo.
+Son atribuciones del Titular del Poder Ejecutivo del Estado en materia de transporte, las siguientes:
 
-###### ARTICULO 54.
+I.- Aprobar, el Programa Estatal del Transporte;
 
-Los sujetos pasivos y los responsables solidarios que tengan obligación de presentar avisos, declaraciones o manifestaciones lo harán dentro del plazo que señalen las Leyes y a falta de término, lo harán dentro de los quince días hágiles (sic) siguientes a la realización del hecho de que se trate, debiendo devolverse al interesado una copia sellada de su escrito.
+II.- Expedir los reglamentos de esta Ley;
 
-Los avisos, declaraciones o manifestaciones se harán en las formas oficiales que deberá proporcionar la Tesorería Municipal.
+III.- Integrar y administrar el Sistema de Transporte del Estado;
 
-###### ARTICULO 55.
+IV.- Prestar, por conducto de organismos públicos descentralizados que se creen para tal fin, el servicio público de transporte, en los términos de esta Ley;
 
-Los sujetos pasivos están obligados a llevar los libros de contabilidad y registro que satisfagan las siguientes reglas:
+V.- Administrar a través de organismos públicos descentralizados que se forme para tal objeto, centrales y terminales del servicio público y privado del transporte, en los términos de esta Ley;
 
-I.- Los registros contables previamente a su utilización deberán estar autorizados por la Tesorería Municipal;
+VI.- Autorizar sistemas relativos al servicio público y privado de transporte, distintos a los contemplados en la presente Ley, conforme a las condiciones y necesidades que presente la demanda del servicio público de transporte, de conformidad con el o los estudios técnicos y socioeconómicos aprobados por los ayuntamientos respectivos;
 
-II.- Los asientos en la contabilidad deberán efectuarse dentro de los sesenta días naturales siguientes a la fecha en que se realicen las operaciones respectivas;
+VII.- Participar o constituir sociedades que tengan por objeto tanto la prestación del servicio público de transporte, como los servicios auxiliares y conexos para mejorar la eficiencia y eficacia en beneficio de los usuarios;
 
-III.- Los registros y documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con los pagos o enteros de los créditos tributarios, deberán conservarse en el domicilio del sujeto por un plazo de cinco años. En caso de clausura, traspaso o liquidación, el plazo se contará a partir de la fecha de las mismas; y
+VIII.- Satisfacer las necesidades del servicio público de transporte por sí o, en su caso, resolver la concesión de la prestación del mismo, en base a los estudios técnicos y socioeconómicos realizados por la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, conjuntamente con los ayuntamientos, previa aprobación de estos últimos. La responsabilidad originaria de realizar los estudios compete a la Unidad Administrativa de la Secretaría de Infraestructura Urbana y Ecología, debiendo iniciarlos de oficio o a petición del Ayuntamiento competente según la demarcación territorial, quien a su vez, tiene la facultad de participar o no en la elaboración de dichos estudios;
 
-IV.- Llevar los registros y libros especiales que señale este ordenamiento.
+IX.- Emitir convocatoria pública, cuando se haya resuelto otorgar en concesión la prestación del servicio público de transporte, de conformidad con el estudio técnico y socioeconómico aprobado por el Ayuntamiento respectivo en los términos de la fracción anterior;
 
-###### ARTICULO 56.
+X.- Otorgar las concesiones previa observancia del procedimiento que previene esta Ley y ordenar su registro respectivo y publicación en el Boletín Oficial del Gobierno del Estado;
 
-Los sujetos pasivos que están obligados a registrarse deberán señalar al presentar su aviso de iniciación de actividades, el nombre de la persona o despacho que prestándoles sus servicios de manera independiente sea responsable de llevar su contabilidad o del cumplimiento de sus obligaciones tributarias, así como dar aviso del cambio de esa persona física o moral, dentro de los quince días hábiles siguientes a aquel en que ello ocurra.
+XI.- Celebrar convenios con las autoridades federales, estatales y municipales, para mejorar la prestación del servicio público de transporte;
 
-### CAPITULO SEGUNDO. DE LAS AUTORIDADES
+XII.- Decretar y disponer, provisional o definitivamente, con observancia a los procedimientos establecidos en esta Ley, la intervención del Estado en la prestación de los servicios públicos de transporte concesionado, cuando así lo exija el orden público o el interés social;
 
-###### ARTICULO 57.
+XIII.- Revocar las concesiones otorgadas, previa observancia del procedimiento establecido en esta Ley;
 
-La Tesorería Municipal promoverá la colaboración de los organismos de contribuyentes y de los Colegios de Profesionistas para el estudio de los problemas de carácter general que aquejan a los particulares en el cumplimiento de sus obligaciones tributarias y buscar la solución de los mismos.
+XIV.- Reglamentar y controlar el funcionamiento del Registro Público de Transporte del Estado, y garantizar eficazmente la publicidad de los actos relacionados con el transporte y particularmente, las concesiones, concesionarios, permisos, permisionarios, operadores y unidades del servicio de transporte público y en general los actos, resoluciones, medidas y sanciones que afecten, extingan o modifiquen los derechos y obligaciones de los actores del transporte; y
 
-###### ARTICULO 58.
+> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 2013)</small>
 
-Queda facultada la Tesorería Municipal para cerciorarse del cumplimiento de las obligaciones tributarias y determinar, en su caso, los créditos fiscales omitidos. Para ello, podrá:
+XV.- Fomentar y promover la intermodalidad en el transporte público de personas, previo estudio técnico de movilidad que determine está necesidad y las ventajas para los usuarios; al establecerse interconexiones entre sistemas de transporte o esquemas de transporte público intermodal, deberán considerarse en su caso a los concesionarios existentes de las líneas o rutas involucradas, en la concesión y operación de estos sistemas.
 
-I.- Practicar visitas domiciliarias a los sujetos pasivos y responsables solidarios o terceros relacionados con ellos para la revisión de su contabilidad y documentación relacionada con las operaciones gravadas, bienes y mercancías; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 23 DE DICIEMBRE DE 2013)</small>
 
-II.- Solicitar a los sujetos pasivos, responsables solidarios o terceros, información relacionada con el cumplimiento de las obligaciones tributarias.
+XVI.- Las demás que le confieran esta Ley y sus reglamentos.
 
-###### ARTICULO 59.
+###### Artículo 18.
 
-La Tesorería Municipal para hacer cumplir sus determinaciones, podrá aplicar multas de apremio de $1,000.00 a $50,000.00 y si persiste la desobediencia, podrá consignar los hechos ante la autoridad competente, por desobediencia a un mandato legítimo de autoridad.
+El Programa Estatal de Transporte se sujetará a las previsiones contenidas en el Plan Estatal de Desarrollo y especificará los objetivos, prioridades y políticas que regirán el desempeño de las autoridades del transporte en la Entidad. Asimismo, contendrá las estimaciones de recursos y determinaciones sobre sus lineamientos y responsables de ejecución.
 
-###### ARTICULO 60.
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 23 DE DICIEMBRE DE 2013)</small>
 
-Para la comprobación de la situación tributaria del sujeto pasivo se presumirá, salvo prueba en contrario:
+El Programa Estatal de Transporte contendrá los Planes Operativos de Servicio y las características de sustentabilidad, confort y calidad a las que habrá de apegarse la prestación del servicio público de transporte en la modalidad de pasaje urbano.
 
-I.- Que todo libro, registros, documentación comprobatoria de ingresos o egresos y correspondencia que se encuentre en su poder, corresponde a operaciones celebradas por él;
+###### Artículo 19.
 
-II.- Que las diferencias entre los activos registrados en contabilidad y las existencias reales corresponden a ingresos o actividades gravables del último ejercicio que se revisa. Para esta comprobación, la autoridad fiscal municipal se asistirá del personal técnico que se requiera.
+El Programa y los subprogramas serán evaluados anualmente, en los términos de la Ley de Planeación del Estado.
 
-###### ARTICULO 61.
+###### Artículo 20.
 
-Cuando por causas imputables al sujeto pasivo no sea posible determinar su situación tributaria, la Tesorería Municipal la estimará tomando en consideración:
+Una vez aprobados, el Programa y los subprogramas serán obligatorios para las dependencias de la administración pública estatal.
 
-Los impuestos pagados a la Federación o al Estado; la renta del local que ocupa la negociación, despacho o establecimiento, importe de la energía eléctrica consumida, número de empleados que tenga a su servicio y sueldos pagados, libros, documentos e informes que le proporcione el contribuyente, las razones que exponga y pruebas que aporte, y en general, todos aquellos datos conducentes a la determinación de los ingresos realmente percibidos.
+### CAPITULO IV. DEL SISTEMA ESTATAL DE TRANSPORTE
 
-Se incurre en esta causal de estimación:
+###### Artículo 21.
 
-I.- Cuando los libros de contabilidad o registros autorizados se encuentren en blanco, extraviados o atrasados en los términos del Artículo 55 Fracción II de esta Ley.
+La Coordinación de la ejecución del Programa y los subprogramas, estará a cargo de la Secretaría de Infraestructura Urbana y Ecología, con la participación de los ayuntamientos, en los términos que lo establece esta Ley y el propio programa, al efecto, se celebrarán con los Municipios los convenios respectivos.
 
-II.- Cuando no exista documentación que respalde lo que consignan los libros o registros autorizados.
+###### Artículo 22.
 
-III.- Cuando se omita registrar todas las operaciones.
+El Ejecutivo Estatal, podrá convenir con el Ejecutivo Federal o con los ayuntamientos de los Municipios del Estado, satisfaciendo las formalidades que en cada caso procedan, la coordinación que se requiera a efecto de que participen en el desarrollo integral del transporte en el Estado; además, coadyuven en el ámbito de sus respectivas jurisdicciones, a la consecución de los objetivos y metas del Programa Estatal de Transporte.
 
-IV.- Cuando se lleve doble juego de libros de contabilidad o registros con anotaciones distintas, en perjuicio del fisco a los que consignen los autorizados; y
+###### Artículo 23.
 
-V.- Cuando el sujeto pasivo se niegue a proporcionar información o documentación que permita determinar su situación tributaria.
+El Ejecutivo Estatal ordenará la publicación, en el Boletín Oficial del Gobierno del Estado, de los convenios que suscriba con el Gobierno Federal o con los ayuntamientos.
 
-Lo dispuesto en este precepto no modifica los procedimientos para determinar o estimar la situación fiscal de los sujetos pasivos que contienen otras disposiciones tributarias.
+> <small>(REFORMADA SU DENOMINACION, B.O. 25 DE MARZO DE 2011)</small>
 
-###### ARTICULO 62.
+###### Artículo 24.
 
-Para verificar el cumplimiento de las obligaciones tributarias a cargo de los sujetos pasivos o responsables solidarios la Tesorería Municipal podrá ordenar la práctica de visitas domiciliarias, las que se sujetarán a lo siguiente:
+Los Ayuntamientos y el Gobierno del Estado, de mutuo acuerdo, podrán celebrar convenios para el establecimiento de Comisiones Municipales Reguladoras del Transporte Colectivo Urbano en su Municipio que estarán integrados por:
 
-I.- La orden de visita deberá constar por escrito, estar firmada por el Tesorero Municipal y contendrá:
+I.- Tres representantes designados por el Gobierno del Estado, entre ellos uno designado como presidente;
 
-a).- El nombre de la persona o personas que deban recibir la visita y el lugar donde ésta deba llevarse a cabo. Cuando se ignore el nombre de la o las personas que deban ser visitadas se señalarán datos suficientes que permitan su identificación.
+II.- Tres representantes designados por el Gobierno municipal;
 
-b).- El nombre de la persona o personas que practicarán las diligencias, las cuales podrán ser sustituidas por la autoridad que expidió la orden, y en este caso se comunicará por escrito al visitado el nombre de los sustitutos, la visita podrá ser realizada conjunta o indistintamente por las personas facultadas para practicar las diligencias.
+III.- Tres representantes electos por los cocesionarios y en caso de existir una empresa integradora participarán el Presidente, el Vicepresidente y el primer comisario de la empresa que presta el servicio;
 
-c).- Las contribuciones de cuya verificación se trate y, en su caso los ejercicios, a los que deberá limitarse la visita. La visita podrá ser de carácter general para verificar el cumplimiento de las disposiciones tributarias durante cierto tiempo o bien, concretarse únicamente a determinados aspectos.
+IV.- Un representante designado por la Cámara de Comercio del Municipio;
 
-II.- Al iniciarse la visita se entregará la orden al visitado o a su representante y si no estuvieren presentes, a quien se encuentre en el lugar en que debe practicarse la diligencia se le dejará citatorio para que el mencionado visitado o su representante legal los espere a hora determinada del día siguiente para recibir la orden de visita; si no lo hicieren, la visita se iniciará con quien se encuentre en el lugar visitado, los visitadores acreditarán su personalidad.
+V.- Un representante designado por la Cámara de la Industria de la Transformación del Municipio;
 
-Cuando exista peligro de que el visitado o su representante legal se ausenten o puedan realizar maniobras para impedir el inicio o desarrollo de la diligencia, los visitadores podrán proceder al aseguramiento de la contabilidad.
+VI.- Un representante de la Asociación o Unión de Usuarios en caso de existir en el Municipio; y
 
-III.- Los libros, registros y documentos serán examinados en los domicilios, indicados en la orden de visita. Para tal efecto, el visitado representante legal, deberá mantenerlos a disposición de los visitadores desde el momento de la iniciación de la visita hasta su terminación. La Tesorería Municipal tomará las medidas necesarias para el cumplimiento de este precepto, inclusive el secuestro de libros, registros y documentos para examinarlos en las oficinas de la autoridad fiscal, cuando así se requiera. En este último caso, se levantará acta parcial al respecto.
+VII.- Un Secretario Técnico designado de común acuerdo entre el Municipio y el Gobierno del Estado, con voz sin derecho a voto.
 
-En los libros, registros y documentos, se pondrá la razón circunstanciada haciendo constar las infracciones u omisiones en que hubiera incurrido el causante y que firmarán las personas que intervienen en la visita:
+El Convenio establecerá específicamente los funcionarios que integrarán por parte del Municipio y el Gobierno del Estado buscando que la Comisión tenga la mayor permanencia y estabilidad posible.
 
-a).- Cuando únicamente existan libros, registros o sistemas de contabilidad que no estén autorizados;
+Podrán participar como invitados permanentes sin derecho a voto el titular de la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología y el Presidente Municipal.
 
-b).- Cuando se encuentren libros, registros o sistemas de contabilidad autorizados que estén en blanco; y
+La Comisión tomará sus decisiones por mayoría de votos y en caso de empate el Presidente tendrá voto de calidad, deberá sesionar al menos una vez cada tres meses.
 
-c).- Cuando se encuentren libros, registros o sistemas de contabilidad cuyos asientos o datos no coincidan con los de los autorizados.
+> <small>(REFORMADO, B.O. 25 DE MARZO DE 2011)</small>
 
-IV.- Los visitadores harán constar en el acta los hechos u omisiones observados y al concluir la visita, cerrarán el acta haciendo constar los resultados en forma circunstanciada. Las opiniones de los visitadores sobre el cumplimiento o incumplimiento de las disposiciones tributarias o sobre la situación financiera del visitado, no producirán efecto de resolución tributaria.
+###### Artículo 25.
 
-V.- El visitado o la persona con la que se entiende la diligencia, los testigos y los visitadores firmarán el acta.
+La Comisión Municipal Reguladora del Transporte Colectivo Urbano tendrá las siguientes funciones:
 
-Si el visitado o los testigos se niegan a firmar, así lo harán constar los visitadores, sin que esta circunstancia afecte el valor probatorio del documento. Un ejemplar del acta se entregará en todo caso al visitado o la persona con la que se entienda la diligencia.
+I.- La realización de los estudios e investigaciones que permitan implementar decisiones que mejoren la prestación del servicio público de transporte en su modalidad de pasaje urbano en el Municipio;
 
-VI.- Con las mismas formalidades indicadas en la fracción anterior, se levantarán actas parciales o complementarias para hacer constar hechos concretos en el curso de una visita o después de su conclusión; y
+II.- Establecimiento, modificación, ampliación o cancelación de rutas;
 
-VII.- El visitado o quien lo represente, deberá expresar por escrito dentro de los 45 días naturales siguientes al cierre del acta final, ante la Tesorería Municipal, las razones de su inconformidad, expresada en forma circunstanciada; acompañando las pruebas pertinentes, las que deberán rendir simultáneamente a su inconformidad; el plazo para rendir pruebas podrá ampliarse a instancia justificada del interesado a juicio de la autoridad competente, para darle oportunidad de presentar pruebas supervenientes. Si tampoco se ofrecen éstas, se tendrá al visitado por conforme con los hechos asentados de su conclusión.
+III.- (DEROGADA, B.O. 23 DE DICIEMBRE DE 2013)
 
-###### ARTICULO 63.
+IV.- Realización de estudios técnicos en el Municipio para conocer sobre los costos del transporte, sus ingresos y tarifas de equilibrio;
 
-Los hechos afirmados en los dictámenes que formulen Contadores Públicos sobre los estados financieros y su relación con las declaraciones tributarias se presumirán ciertos, salvo prueba en contrario; si se reúnen los siguientes requisitos:
+V.- Inspección y vigilancia de la prestación del servicio público de transporte en su modalidad de pasaje urbano;
 
-I.- Que el Contador Público que dictamine esté registrado en la Tesorería Municipal.
+VI.- Emitir opinión en torno a la modificación de tarifas y solicitar adecuaciones cuando sus estudios así lo indiquen;
 
-Se inscribirá para estos efectos a las personas que tengan título de Contador Público registrado en la Dirección General de Profesiones de la Secretaría de Educación Pública o en la Dirección de Educación Pública del Estado y que sean miembros de algún cuerpo colegiado de contadores.
+VII.- Aplicación de Sanciones dentro del marco de la normatividad correspondiente;
 
-II.- Que el dictamen se formule de acuerdo con las disposiciones tributarias, y en su defecto, conforme a las normas y procedimientos de auditoría generalmente aceptados. La Tesorería Municipal podrá cerciorarse mediante revisión o pruebas selectivas del cumplimiento de esta fracción.
+VIII.- Hacer propuestas al Ayuntamiento y al Gobierno del Estado en torno a modificaciones viales y obras de pavimentación y vialidad;
 
-III.- Que el Contador Público emita conjuntamento (sic) con su dictamen un informe sobre la revisión de la situación fiscal del contribuyente en el que consigne bajo protesta de decir verdad, los datos y requisitos que fijen en materia tributaria esta Ley y otras disposiciones fiscales tanto federales, estatales como municipales.
+IX.- Establecer las paradas autorizadas para el servicio público de transporte en su modalidad de pasaje urbano; y
 
-Las opiniones e interpretaciones contenidas en los dictámenes serán aceptados o rechazados razonada y fundadamente por la Tesorería Municipal, para determinar la situación de los sujetos pasivos o responsables solidarios y expedir las liquidaciones de impuestos omitidos que corresponde, en forma proporcional y equitativa.
+X.- Las demás que establezca esta ley.
 
-###### ARTICULO 64.
+###### Artículo 26.
 
-Cuando el causante niegue lisa y llanamente los hechos que motiven los actos y resoluciones que dicte la autoridad fiscal, corresponde a esta el allegarse pruebas conducentes de acuerdo con las facultades que esta Ley le concede para precisar la situación del contribuyente a fin de que pueda fundamentar sus determinaciones, a menos que la negativa implique una afirmación; en este caso, la carga de la prueba corresponde al contribuyente.
+(DEROGADO, B.O. 25 DE MARZO DE 2011)
 
-###### ARTICULO 65.
+###### Artículo 27.
 
-El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados.
+(DEROGADO, B.O. 25 DE MARZO DE 2011)
 
-Dicha reserva no comprenderá los casos que señalen las Leyes tributarias y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales, a las autoridades judiciales en procesos del orden penal o a los tribunales competentes que conozcan de pensiones alimenticias y en general, a otras autoridades cuando para ello exista disposición expresa en cualquier ordenamiento, que imponga al fisco municipal la obligación de proporcionar los datos o informes solicitados.
+###### Artículo 28.
 
-### CAPITULO TERCERO. DE LOS TERCEROS
+(DEROGADO, B.O. 25 DE MARZO DE 2011)
 
-###### ARTICULO 66.
+###### Artículo 29.
 
-La representación de la personalidad del contribuyente se acreditará en términos de la legislación aplicable según su naturaleza, en caso de que exista disposición expresa, se acreditará conforme al derecho común, pero los sujetos pasivos podrán autorizar mediante poder notarial, a la persona o personas que a su nombre reciban notificaciones, ofrezcan y rindan pruebas e interpongan recursos dentro del procedimiento administrativo.
+(DEROGADO, B.O. 25 DE MARZO DE 2011)
 
-###### ARTICULO 67.
+###### Artículo 30.
 
-Las personas o Empresas que tengan o hayan tenido relaciones financieras o bancarias con los negocios de sujetos pasivos o responsables solidarios, están obligados a exhibir ante las autoridades fiscales los asientos de contabilidad, la documentación y la correspondencia que se refiere a las operaciones realizadas con aquellos, así como a proporcionar toda información que en relación con dichas personas se les solicite.
+(DEROGADO, B.O. 25 DE MARZO DE 2011)
 
-###### ARTICULO 68.
+###### Artículo 31.
 
-Las autoridades que tengan o hayan tenido relaciones con alguno o algunos de los sujetos pasivos o responsables solidarios, deberán auxiliar a la Tesorería Municipal suministrándole los informes y datos que solicite para la aplicación de las Leyes tributarias.
+(DEROGADO, B.O. 25 DE MARZO DE 2011)
 
-###### ARTICULO 69.
+###### Artículo 32.
 
-Es obligación de las personas o despachos que tengan a su cargo la contabilidad de los sujetos pasivos llevarlos en el orden en que consignen todas las operaciones que se celebren, así como de dar oportuno cumplimiento de las obligaciones tributarias a cargo de dichos sujetos.
+(DEROGADO, B.O. 25 DE MARZO DE 2011)
 
-## TITULO CUARTO. DE LAS OMISIONES
+###### Artículo 33.
 
-### CAPITULO PRIMERO. DE LAS INFRACCIONES
+(DEROGADO, B.O. 25 DE MARZO DE 2011)
 
-###### ARTICULO 70.
+###### Artículo 34.
 
-Son infracciones cuya responsabilidad recae sobre los sujetos pasivos:
+(DEROGADO, B.O. 25 DE MARZO DE 2011)
 
-I.- No cumplir con las obligaciones que señalan las disposiciones tributarias de inscribirse o hacerlo fuera de los plazos legales;
+###### Artículo 35.
 
-II.- No citar su número de registro de contribuyentes en las declaraciones, manifestaciones o avisos, promociones, solicitudes o gestiones que hagan ante cualquiera oficina o autoridades;
+(DEROGADO, B.O. 25 DE MARZO DE 2011)
 
-III.- Obtener o usar más de un número de registro de contribuyentes para el cumplimiento de las obligaciones a su cargo;
+###### Artículo 36.
 
-IV.- Utilizar interpósita persona para manifestar negociaciones propias para percibir ingresos gravables, dejando de pagar los impuestos correspondientes;
+(DEROGADO, B.O. 25 DE MARZO DE 2011)
 
-V.- No obtener oportunamente los permisos, placas, tarjetas de registro, libros o cualquier otro documento exigido por las Leyes Fiscales o no tenerlos en lugar que señalan dichas disposiciones;
+###### Artículo 37.
 
-VI.- No devolver oportunamente a las autoridades que se determinen en las Leyes tributarias, los comprobantes de pago de una prestación tributaria, libros, placas, tarjetas, boletas, o cualquier otro documento cuya devolución sea exigida por dichas leyes;
+El Titular del Poder Ejecutivo del Estado y los ayuntamientos promoverán e impulsarán entre los concesionarios, de acuerdo con las leyes de la materia, la integración de empresas y asociaciones de transporte, siempre que no constituyan actos monopólicos o de concentración, con el fin de hacer más rentables, optimizar y eficientar el servicio público de transporte.
 
-VII.- Producir, fabricar, transformar, almacenar o expeder (sic) artículos gravados y prestar servicios gravados sin cumplir con las obligaciones que establezcan las leyes tributarias;
+###### Artículo 38.
 
-VIII.- Favorecer en cualquier forma al contribuyente para que eluda total o parcialmente sus obligaciones fiscales, permitir, sacar o mandar sacar de las fábricas, almacenes, bodegas o de las zonas señaladas por las leyes tributarias, artículos o productos, sin haberse cumplido previamente las obligaciones tributarias relativas;
+Las autoridades del transporte brindarán orientación a los concesionarios para la constitución de las empresas de transporte y la modernización de las mismas.
 
-IX.- Transportar o almacenar productos o efectos gravados por las Leyes tributarias sin haber cumplido con las disposiciones que para esos casos establezcan las leyes;
+Asimismo, podrán constituir un fondo a efecto de que los concesionarios tengan acceso a financiamiento para mejorar el servicio público de transporte, mediante la constitución de asociaciones.
 
-X.- No presentar para su autorización o hacerlo extemporáneamente, los libros o sistemas de contabilidad, cuando lo exijan las disposiciones tributarias;
+###### Artículo 39.
 
-XI.- No llevar los sistemas de contabilidad que requieran las disposiciones tributarias, llevarlos en forma distinta como éstas disponen; no hacer los asientos correspondientes a las operaciones efectuadas, hacerlos incompletos, o inexactos, o fuera de los plazos respectivos;
+Los concesionarios constituidos en empresas podrán asociarse en uniones u otras figuras asociativas para:
 
-XII.- Hacer, mandar hacer o permitir en su contabilidad, anotaciones, asientos, cuentas, nombres o cantidades o datos falsos, alterar raspar o tachar en perjuicio del fisco cualquiera anotación, asiento o constancia hecha en la contabilidad, o mandar o consentir que se hagan esas, alteraciones, raspaduras o tachaduras;
+I.- Gestionar y promover ante las instancias y autoridades correspondientes del sector público, programas y apoyos para sus asociados con el objeto de mejorar la prestación del servicio público de transporte;
 
-XIII.- Destruir o inutilizar los libros o registros contables, cuando no haya transcurrido el plazo durante el cual conforme a la Ley los deben conservar;
+II.- Promover y fomentar la adopción de las nuevas tecnologías en la materia, con el fin de aumentar la calidad del servicio público de transporte;
 
-XIV.- Llevar doble juego de libros con anotaciones distintas a los libros autorizados;
+III.- Fomentar entre sus asociados la debida capacitación y especialización, a fin de modernizar las empresas y prestar más eficientemente el servicio público de transporte;
 
-XV.- No conservar los libros, documentos o correspondencia que le sean dejados en calidad de depositario, por los visitados, al estarse practicando visitas domiciliarias;
+IV.- Gestionar la adquisición de insumos, refacciones y demás servicios que requieran las unidades de transporte a precios preferenciales de mercado;
 
-XVI.- Faltar a la obligación de extender recibos facturas, o cualesquiera otros documentos que señalen las Leyes tributarias. No exigirlos cuando tengan obligación de hacerlo. No consignar por escrito los actos, contratos o convenios que de acuerdo con las disposiciones tributarias deban constar en esa forma;
+V.- Fomentar mecanismos de ahorro e inversión que permitan la capitalización de sus asociados.
 
-XVII.- No presentar o no proporcionar, o hacerlo extemporáneamente los avisos, declaraciones, solicitudes, datos, informes, copias, libros o documentos que exijan las disposiciones fiscales. No comprobarlos o aclararlos en tiempo cuando las autoridades tributarias lo soliciten;
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 23 DE DICIEMBRE DE 2013)</small>
 
-XVIII.- Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, libros y documentos a que se refiere la Fracción anterior, falsificados, alterados, incompletos, con errores, que traigan consigo la evasión de una prestación tributaria;
+VI. Contratar Empresas Operadoras de Transporte dando aviso oportuno al Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora, así como a la Dirección de Transporte del Estado de Sonora;
 
-XIX.- No pagar los impuestos, contribuciones y derechos, dentro de los plazos señalados por las leyes tributarias;
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 23 DE DICIEMBRE DE 2013)</small>
 
-XX.- Eludir el pago de las prestaciones fiscales como consecuencia de inexactitud, simulaciones, falsificaciones y otras maniobras;
+VII. Contratar Empresas Operadoras de Recaudo dando aviso oportuno al Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora, así como a la Dirección General de Transporte del Estado de Sonora; y
 
-XXI.- Declarar ingresos menores de los percibidos; hacer deducciones falsas; ocultar y omitir bienes existencias que deban figurar en los inventarios en su caso, listarlos a precios inferiores a los reales; no practicar los inventarios y balances que prevengan las disposiciones tributarias o hacerlo fuera de los plazos que éstas dispongan;
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 23 DE DICIEMBRE DE 2013)</small>
 
-XXII.- Resistirse por cualquier medio a las visitas de inspección; no suministrar los datos e informes que legalmente puedan exigir los inspectores; no mostrar los sistemas de contabilidad; documentos registros o impedir el acceso a los almacenes, depósitos, bodegas o cualquiera otra dependencia, y en general, negarse a proporcionar los elementos que se requieran para comprobar la situación tributaria del visitado, en relación con el objeto de la visita; y
+VIII. Contratar e instruir fideicomisos de administración.
 
-XXIII.- Faltar en cualquiera otra forma no prevista en las fracciones anteriores al cumplimiento de las obligaciones que les imponen esta Ley y cualquiera otra disposición tributaria, inclusive destruir los sellos oficiales colocados por las autoridades o tratar de impedir que se logren los propósitos para los que fueron colocados.
+###### Artículo 40.
 
-###### ARTICULO 71.
+El Titular del Poder Ejecutivo del Estado y los ayuntamientos darán preferencia a las empresas y asociaciones de transporte que tengan como objeto alguno de los supuestos señalados en el artículo anterior, para el otorgamiento de apoyos y estímulos fiscales, de conformidad con los programas que en la materia se establezcan y de acuerdo con lo dispuesto en las leyes fiscales respectivas.
 
-Son infracciones cuya responsabilidad recae sobre los responsables solidarios:
+###### Artículo 41.
 
-I.- No cumplir las obligaciones que señalan las disposiciones tributarias de inscribirse o registrarse;
+Los requisitos para que las empresas y asociaciones a que se refiere este capítulo, tengan acceso a los apoyos estatales y municipales, se establecerán en los ordenamientos correspondientes.
 
-II.- No presentar, o hacerlo extemporáneamente, los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, copias, libros o documentos que exijan las disposiciones tributarias, no comprobarlos y aclararlos cuando las autoridades tributarias lo soliciten;
+###### Artículo 42.
 
-III.- Presentar los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, copias, libros y documentos a que se refiere la fracción anterior, falsificados, alterados, incompletos, con errores, que traigan consigo la evasión de una prestación tributaria;
+El servicio de transporte puede ser público y privado, en las modalidades de pasaje y carga; su prestación se regulará por las disposiciones de esta Ley y sus reglamentos.
 
-IV.- No enterar, dentro de los plazos que establezcan las disposiciones tributarias, el importe de prestaciones tributarias retenidas, recaudadas o que se debieron retener y recaudar;
+###### Artículo 43.
 
-V.- No cerciorarse, al transportar artículos gravados, del pago de los créditos tributarios que se hayan causado, cuando las disposiciones legales impongan esa obligación o efectuar el transporte sin la documentación que exijan esas disposiciones;
+El servicio público de transporte podrá prestarse en las modalidades de pasaje y carga, en los siguientes sistemas:
 
-VI.- Resistirse por cualquier medio a las visitas de inspección; no suministrar los datos e informes que legalmente pueden exigir los visitadores; no mostrar los sistemas de contabilidad, documentos, registros e impedir el acceso a los almacenes, depósitos, bodegas y cualquiera otra dependencia, y en general no proporcionar los elementos que se requieran para cumplir con el objeto de la visita; y
+I.- Pasaje:
 
-VII.- Faltar en cualquiera otra forma no prevista en las fracciones anteriores, al cumplimiento de las obligaciones que impone esta Ley y cualquiera otra disposición tributaria, inclusive destruir los sellos oficiales colocados por las autoridades o tratar de impedir que se logren los propósitos para los que fueron colocados.
+a) Urbano.- Servicio que se presta dentro del perímetro urbanizado de los centros de población del estado, con paradas y horario de servicios fijos;
 
-ARTICULO 71 BIS.- Son infracciones a cargo de personas que tengan fe pública:
+b) Suburbano.- Servicio que se presta partiendo de un centro de población a sus lugares aledaños, pero siempre dentro del espacio territorial de un municipio, con paradas, terminales y horarios fijos;
 
-I.- Autorizar, asentar en el protocolo, en el libro de registro escrituras, minutas, actos o contratos, sin cumplir o cerciorarse previamente de que se han cumplido las disposiciones tributarias o sin dar los avisos que prevengan las leyes;
+c) Foráneo.- Servicio que se presta por vías de jurisdicción estatal de una población a otra, en municipios diferentes, con paradas, terminales y horarios fijos;
 
-II.- Extender a las personas a que se refiere la fracción anterior constancia de haberse cumplido con las disposiciones tributarias en los actos en que intervengan, cuando no proceda su otorgamiento;
+d) Exclusivo de turismo.- Servicio que se presta a pasajeros cuya finalidad exclusiva o fundamental sea el esparcimiento o el conocimiento de lugares de interés turístico y cultural que existan en la entidad;
 
-III.- No pagar los impuestos, derechos y demás prestaciones fiscales dentro de los plazos señalados y que hubieran recibido como consecuencia de sus funciones.
+e) Automóvil de alquiler.- Servicio que se presta en vehículos cerrados que deberán tener torreta y capacidad de hasta cinco pasajeros;
 
-###### ARTICULO 72.
+f) Automóvil de alquiler colectivo.- Servicio que se presta dentro del perímetro de los centros de población, en vehículos cerrados de dos y cuatro puertas, con capacidad máxima de hasta cinco ocupantes, con horario y ruta fija, la cual no deberá coincidir con las rutas establecidas para el transporte público de pasaje urbano, ni represente competencia desleal al mismo.
 
-Son infracciones cuya responsabilidad recae sobre los terceros:
+g) Especializado de personal.- Servicio que se presta a las personas que viajan a sus centros de trabajo, o cuando su transportación se relaciona con fines laborales, consistiendo dicho servicio en el traslado de su domicilio o lugares predeterminados al centro de trabajo y su retorno al lugar de origen;
 
-I.- Consentir o tolerar que se inscriban a su nombre negociaciones ajenas;
+h) Escolar.- Servicio que se presta a estudiantes y maestros, consistiendo en el traslado de su domicilio o lugares predeterminados a la escuela y viceversa;
 
-II.- Percibir a nombre propio ingresos gravables que correspondan a otra persona cuando esto traiga como consecuencia comisión de créditos tributarios;
+i) Para trabajadores agrícolas.- Servicio que se presta a los trabajadores que viajan a los campos agrícolas a desempeñar sus labores, consistiendo en el traslado de su domicilio o lugares predeterminados al centro de trabajo y su retorno al lugar de origen; e
 
-III.- No presentar, no exhibir los avisos, informes, datos, declaraciones, documentos, o el no hacerlo dentro del plazo fijado por las disposiciones tributarias, o cuando las autoridades las exijan con apoyo de sus facultades legales. No aclararlos cuando las mismas autoridades lo soliciten;
+j) Especializado para personas con discapacidad y de la tercera edad.- Servicio que se presta a las personas que padecen alguna de las discapacidades señaladas en la Ley de Integración Social para las Personas con Discapacidad, y a las personas que tengan sesenta años de edad o más, dentro del perímetro de los centros de población del Estado.
 
-IV.- Presentar los informes, datos y documentos a que se refiere la fracción anterior, incompletos, inexactos, alterados o falsificados;
+II.- Carga:
 
-V.- Autorizar, hacer constar documentos, inventarios, balances, asientos y datos falsos cuando actúen como contadores independientes bajo cualquier función, testigos o peritos;
+a) Regular.- Que comprende productos agrícolas no elaborados, animales vivos, carga que no requiera transporte especializado, materiales para la construcción y minerales no industrializados;
 
-VI.- Asesorar, aconsejar a los sujetos pasivos para evadir el pago de una prestación fiscal o para infringir las disposiciones tributarias; contribuir a la alteración, inscripción de cuentas, asientos o datos falsos en los libros de contabilidad o en los documentos que se expidan, o expedir dictámenes de estados financieros para efectos tributarios que no reflejen la situación tributaria correcta del sujeto pasivo o responsable solidario;
+b) Express.- Que comprende mercancías, enseres, muebles y paquetería; y
 
-VII.- Cooperar en cualquier otra forma no prevista en las fracciones anteriores, en la comisión de infracciones tributarias;
+c) Especializada.- Que comprende la transportación de productos agrícolas elaborados o industrializados, animales procesados e industrializados, productos industrializados para la construcción, productos industrializados de la minería, pesca, agricultura y ganadería, y otros que por su naturaleza y dimensión requieran para su transportación de equipo especial o altamente tecnificado.
 
-VIII.- Adquirir, ocultar, conservar o enajenar, productos, mercancías o artículos a sabiendas de que no se cubrieron los créditos tributarios que en relación con los mismos se hubieran debido pagar;
+###### Artículo 44.
 
-IX.- Destruir los sellos oficiales colocados por los empleados y funcionarios públicos con la finalidad tributaria e impidan por cualquier maniobra que se logre el propósito para el que fueron colocados;
+Para la prestación del servicio público de transporte de pasaje y carga, deberán destinarse los siguientes tipos de vehículos:
 
-X.- Poseer, enajenar, poner en circulación, en su caso, adherir en objetos, para el pago de una prestación fiscal: calcomanías, formas numeradas, placas o tarjetones, a sabiendas de que fueron impresas o gravadas sin autorización de la autoridad tributaria competente o bien de que fueron alteradas en su valor, año de emisión, leyenda o clase;
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 2010)</small>
 
-XI.- Recibir o poseer documentos en los que no se haya cumplido con las disposiciones tributarias;
+I.- Pasaje:
 
-XII.- Tratándose de funcionarios servidores públicos del Municipio, así como de los encargados de servicios públicos u órganos oficiales del mismo:
+a) Transporte urbano, en unidades con capacidad para diez pasajeros como mínimo, equipadas con servicio de aire acondicionado para los pasajeros.
 
-a).- Dar curso a documentos o libros que carezcan en todo o en parte de los requisitos exigidos por las disposiciones tributarias.
+b) Transporte urbano, en unidades con capacidad para diez pasajeros como mínimo, sin servicio de aire acondicionado para los pasajeros.
 
-Esta responsabilidad será exigible aún cuando los funcionarios o empleados no hayan intervenido directamente en el trámite o resolución, si les correspondía hacerlo por razón de su cargo;
+c) Transporte suburbano, foráneo, especializado de personal, escolar y para personas con discapacidad y de la tercera edad, en unidades con capacidad para diez pasajeros como mínimo.
 
-b).- Las personas a que se refiere la fracción anterior que asienten falsamente que se ha dado cumplimiento a las disposiciones tributarias o que se practicaron visitas de inspección, o asentar hechos falsos en las actas relativas, no practicar las visitas de inspección cuando tengan obligación de hacerlo, alterar documentos que estén en su poder por razón a su cargo;
+d) Transporte exclusivo de turismo, en vehículos sedán cuatro puertas y unidades con capacidad para diez pasajeros como mínimo.
 
-c).- Las mismas personas a que se alude en las dos fracciones precedentes, incurran en los siguientes hechos u omisiones:
+e) Automóviles de alquiler, en vehículos sedán de dos y cuatro puertas.
 
-1.- Recibir el pago de una prestación fiscal y no enterar su importe dentro del plazo legal;
+f) Automóviles de alquiler colectivo, en vehículos sedán de dos y cuatro puertas, con capacidad máxima de hasta cinco pasajeros.
 
-2.- No exigir el pago total de las prestaciones tributarias cuando tengan la obligación de hacerlo;
+g) Transporte colectivo de trabajadores agrícolas, en unidades con capacidad de diez pasajeros como mínimo, debidamente adaptadas y equipadas, en los términos que establezcan los reglamentos de esta ley.
 
-3.- Intervenir en la tramitación o resolución de algún asunto cuando tengan impedimento, de acuerdo con las disposiciones tributarias;
+II.- Carga:
 
-4.- Faltar a la obligación de guardar secreto respecto de los asuntos que conozcan, revelar los datos declarados por los contribuyentes o aprovecharse de ellos. Los representantes de causantes que integren juntas calificadoras u órganos semejantes, se asimilan a los empleados o funcionarios públicos;
+a).- Regular.
 
-5.- Exigir bajo el título de cooperación u otros semejantes cualquier prestación que no esté expresamente prevista en la ley aún cuando se aplique a la realización de las funciones propias de su cargo;
+Este servicio deberá prestarse mediante vehículos unitarios de:
 
-6.- Inscribir o registrar documentos, instrumentos, libros, en los que no se hayan cumplido las disposiciones tributarias; y
+Caja.
 
-7.- Extender actas, expedir certificados, legalizar firmas, autorizar libros y documentos sin exigir de los interesados el cumplimiento de las obligaciones tributarias;
+Plataforma.
 
-XIII.- Negarse a proporcionar los elementos que se requieran para comprobar el cumplimiento de las obligaciones tributarias, ya sea por resistirse a las visitas domiciliarias, no suministrar los datos e informes que legalmente puedan exigir los visitadores, no mostrar los libros, documentos, registros, bodegas, depósitos, locales o en cualquier otra forma;
+Redilas.
 
-XIV.- No prestar a las autoridades tributarias el auxilio necesario para la determinación y cobro de una prestación en los casos en que la ley les imponga esa obligación;
+Volteo.
 
-XV.- Violar otras disposiciones tributarias en forma no prevista en las fracciones precedentes; y
+Tratándose de Productos Agrícolas no elaborados, queda prohibida su transportación en plataformas, batangas u otros medios similares.
 
-XVI.- Favorecer a los contribuyentes en cualquier forma para que eludan parcial o totalmente sus obligaciones fiscales.
+b).- Express.
 
-###### ARTICULO 73.
+Este servicio deberá explotarse mediante vehículos unitarios de:
 
-La imposición de las sanciones administrativas por infracción a las disposiciones tributarias compete al tesorero municipal.
+Pick up de caja cerrada (furgoneta).
 
-Los funcionarios y empleados municipales, que en ejercicio de sus funciones conozcan de hechos y omisiones que puedan entrañar infracción a las disposiciones tributarias los comunicarán a la tesorería municipal, dentro de los diez días siguientes a la fecha en que tenga conocimiento de tales hechos u omisiones.
+Camión unitario de caja.
 
-La aplicación de las sanciones administrativas que procedan se harán sin perjuicio de que se exija el pago de las prestaciones tributarias respectivas.
+Camión de redilas.
 
-No procederá la imposición de sanciones administrativas a que hacen referencia los artículos 70, 71 y 72 de esta Ley cuando el contribuyente, el responsable solidario o el tercero, de manera espontánea y sin mediar intervención de autoridad competente subsana la o las omisiones en que hubiere incurrido.
+c).- Especializado.
 
-### CAPITULO SEGUNDO. DE LAS SANCIONES
+Este servicio deberá explotarse mediante vehículos que a continuación se precisan:
 
-###### ARTICULO 74.
+- Camión unitario de:
 
-La aplicación de las sanciones previstas en esta ley se ajustarán a las reglas siguientes:
+Caja.
 
-I.- Las resoluciones en que se impongan sanciones deberán estar debidamente fundadas y motivadas;
+Tanque.
 
-II.- Para determinar la cuantía, se tomarán en cuenta:
+Refrigerador.
 
-a).- La importancia de la infracción;
+Tractocamión.
 
-b).- Los medios empleados para cometerla;
+Redilas.
 
-c).- La capacidad económica del infractor y las demás condiciones personales que se acrediten; y
+- Remolque y semirremolque con:
 
-d).- La conveniencia de destruir prácticas generalizadas, tanto para evadir las prestaciones tributarias como para infringir en cualquier forma las disposiciones fiscales.
+Caja.
 
-III.- Si son varios los responsables, cada uno será sancionado tomando en cuenta lo dispuesto por la fracción anterior;
+Cama baja.
 
-IV.- Cuando por un acto u omisión se infrinjan diversas disposiciones tributarias se aplicará la sanción que corresponda a la infracción más grave;
+Jaula.
 
-V.- En caso de infracciones contínuas y de que no sea posible determinar con exactitud el monto de la prestación evadida, se impondrá multa hasta del triple de la prestación que se determine;
+Plataforma.
 
-VI.- Cuando la infracción no haya tenido ni pueda haber tenido como consecuencia la evasión de créditos tributarios se podrá imponer el mínimo de la sanción, lo anterior no procede para el caso de reincidencia;
+Para postes.
 
-VII.- Cuando las infracciones consistan en hechos u omisiones semejantes, en documentos o libros, y siempre que no hayan tenido como consecuencia la evasión del pago de créditos tributarios, se considerará el conjunto como una sola infracción y se impondrá una multa que no excederá del máximo que fija esta ley para sancionar cada hecho u omisión;
+Refrigerador.
 
-VIII.- Cuando se omite una prestación fiscal que corresponda a los actos y contratos que se hagan constar en escrituras públicas o minutas, la sanción se impondrá exclusivamente a los Notarios y Corredores, y los otorgantes sólo quedarán obligados a pagar los créditos fiscales omitidos. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los interesados, la sanción se aplicará entonces solamente a éstos;
+Tanque.
 
-IX.- Cuando la liquidación de alguna prestación tributaria esté encomendada a servidores públicos municipales, éstos serán responsables de las infracciones que se cometan y se les aplicarán las sanciones que corresponda, quedando los sujetos pasivos únicamente obligados a pagar, la prestación fiscal omitida, excepto en los casos en que esta Ley o alguna otra ley tributaria disponga que no se podrá exigir al sujeto pasivo dicho pago;
+Tolva.
 
-X.- No se impondrán sanciones cuando aún fuera de término, sean pagados espontáneamente los créditos fiscales. No se considera que el entero es espontáneo cuando la omisión sea descubierta por las autoridades fiscales o medie requerimiento, visita, excitativa o cualquiera otra gestión efectuada por las mismas.
+Transporte de automóviles.
 
-### CAPITULO TERCERO. DE LA CONDONACION DE MULTAS
+Grúas.
 
-###### ARTICULO 75.
+###### Artículo 45.
 
-La Tesorería Municipal por conducto de su titular podrá condonar las multas por infracción a las disposiciones fiscales, para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad que impuso la sanción.
+Los sistemas a que se refiere el artículo 43 de esta Ley, deberán prestarse bajo la siguiente clasificación:
 
-###### ARTICULO 76.
+I.- El servicio público de transporte urbano, suburbano y foráneo, será de ruta fija y previamente establecida y serán de ámbito de prestación municipal los dos primeros y estatal el último;
 
-Cuando la comisión de una o varias infracciones origine la omisión total o parcial en el pago de contribuciones incluyendo las retenidas o recaudadas, y sea descubierta por las autoridades fiscales mediante el ejercicio de sus facultades de comprobación, se aplicarán las siguientes multas:
+II.- El servicio de automóvil de alquiler, será sin ruta determinada, con o sin ubicación de sitio y con precisión del ámbito territorial de prestación;
 
-I.- El 50% de las contribuciones omitidas, cuando el infractor las pague junto con sus accesorios antes del cierre del acta final de visita o de que se le notifique el oficio de observaciones. No será aplicable esta fracción cuando en la comisión de la infracción se de alguno de los supuestos de las fracciones III, IV, VIII, XII, XIII, XIV, XV, XVII, XVIII, XX, XXI y XXII del Artículo 70, las Fracciones: III, IV, VI y VII del Artículo 71 y Fracciones: I, II, IV, V, VI, VII, VIII, IX, X, XIII y XIV del Artículo 72, de esta Ley.
+III.- El servicio de automóvil de alquiler colectivo será de horario y ruta fija, la cual no deberá coincidir con las rutas establecidas para el transporte público de pasaje urbano, ni representar competencia desleal al mismo, siendo su prestación de ámbito municipal.
 
-II.- EL 100% de las contribuciones omitidas, cuando el infractor las pague junto con sus accesorios después del cierre del acta final de visita o de que se le haya notificado el oficio de observaciones, pero antes de que las autoridades le notifiquen la resolución que determine el monto de las contribuciones que omitió. No será aplicable esta fracción cuando en la comisión de la infracción se de alguno de los supuestos de las fracciones: III, IV, VIII XII, XIII, XIV, XV, XVII, XVIII, XX, XXI y XXII del Artículo 70, las Rracciones (sic) III, IV, VI, y VII del Artículo 71 y Fracciones: I, II, IV, V, VI, VII, VIII, IX, X, XIII y XIV del Artículo 72, de esta Ley.
+IV.- Por lo que se refiere al transporte público exclusivo de turismo, el servicio será de ámbito estatal sin ruta determinada;
 
-III.- EL 150% de las contribuciones omitidas en los demás casos.
+V.- El servicio de transporte de trabajadores agrícolas y especializado de personal será de ámbito municipal o para municipios determinados, sin ruta determinada; y
 
-Si las autoridades fiscales determinan contribuciones omitidas mayores que las consideradas por el contribuyente para calcular la multa en los términos de las fracciones I y II de este Artículo, aplicarán el por ciento señalado en la fracción III sobre el remanente no pagado de las contribuciones.
+VI.- El servicio de transporte de carga será de ámbito municipal o para municipios determinados, según la naturaleza del servicio que se preste.
 
-El pago de las multas en los términos de las fracciones I y II de este Artículo se podrá efectuar en forma total o parcial por el infractor sin necesidad de que las autoridades dicten resolución al respecto, utilizando para ello las formas especiales que apruebe la tesorería municipal.
+###### Artículo 46.
 
-También se aplicarán las multas a que se refiere este precepto, cuando las infracciones consistan en devoluciones, acreditamientos o compensaciones, indebidos o en cantidad mayor de la que corresponda. En estos casos las multas se calcularán sobre el monto del beneficio indebido.
+Los sistemas de servicio público de transporte de pasaje, podrán realizarse mediante servicios de primera y segunda clase.
 
-###### ARTICULO 77.
+Se entiende por servicio de primera clase, el que se presta mediante vehículos, provistos con asientos acojinados y reclinables, aire acondicionado, calefacción, música estereofónica, sanitario, en su caso, gavetas para equipaje y todos aquellos aditamentos que tiendan a una mayor comodidad del usuario.
 
-En los casos a que se refiere el Artículo anterior, las multas se aumentarán o disminuirán conforme a las siguientes reglas:
+## TITULO TERCERO. DISPOSICIONES ESPECIALES
 
-I.- Se aumentarán:
+### CAPITULO V. DE LAS COMISIONES MUNICIPALES REGULADORAS DEL TRANSPORTE COLECTIVO URBANO Y DE LA PARTICIPACION SOCIAL
 
-a).- En un 20% del monto de las contribuciones omitidas o del beneficio indebido, cada vez que el infractor reincida.
+> <small>(REFORMADO, B.O. 25 DE MARZO DE 2011)</small>
 
-b).- En un 60% del monto de las contribuciones omitidas o del beneficio indebido, cuando en la comisión de la infracción se de alguno de los agravantes señalados en las fracciones: III, IV, VIII, XII, XIII, XIV, XV, XVII, XVIII, XX, XXI, y XXII del Artículo 70, las Fracciones: III, IV, VI y VII del Artículo 71 y Fracciones: I, II, IV, V, VI, VII, VIII, IX, X, XIII y XIV del artículo 72, de esta Ley.
+###### Artículo 47.
 
-c).- En una cantidad igual al 50% del importe de las contribuciones retenidas o recaudadas y no enteradas, cuando se incurra en la agravante a que se refiere la Fracción IV del Artículo 71 de esta Ley.
+Se entiende por servicio de segunda clase, aquél que se presta en vehículos que proporcionan al usuario condiciones aceptables de comodidad, higiene y seguridad.
 
-Tratándose de los casos comprendidos en las Fracciones I y II del Artículo anterior, el aumento de multas, a que se refiere esta fracción, se determinará por la autoridad fiscal correspondiente, aún después de que el infractor hubiera pagado las multas en los términos de los Artículos 70 a 73 inclusive de este Ordenamiento.
+###### Artículo 48.
 
-II.- Se disminuirán:
+Los vehículos destinados al servicio público de transporte de pasaje en los sistemas urbano, suburbano, foráneo, especializado para personas con discapacidad y de la tercera edad, automóviles de alquiler y automóviles de alquiler colectivo deberán observar vida útil por un plazo de diez años, contados a partir del modelo correspondiente a dichas unidades el cual podrá prorrogarse a juicio de la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, previa inspección y dictamen pericial de los vehículos realizada por las Delegaciones Regionales de Transporte, debiendo además, cumplir con las condiciones de seguridad e higiene previstas en esta Ley.
 
-a).- En un 25% del monto de las contribuciones omitidas que hayan sido objeto de dictamen, o del beneficio indebido, si el infractor ha hecho dictaminar por Contador Público autorizado sus estados financieros correspondiente al Ejercicio Fiscal en el cual incurrió en la infracción. Para la aplicación de la reducción contenida en este inciso en los casos de las Fracciones I y II del Artículo anterior, el infractor deberá efectuar el pago en los términos de dichas fracciones y solicitar la devolución del monto de la reducción, acreditando los impuestos de este inciso. No se aplicará lo dispuesto en este inciso cuando exista alguno de los agravantes señalados en las fracciones III, IV, VIII, XII, XIII, XIV, XV, XVII, XVIII, XX, XXI, y XXII del Artículo 70, las Fracciones: III, IV, VI, y VII del Artículo 71 y Fracciones: I, II, IV, V, VI, VII, VIII, IX, X, XIII y XIV del Artículo 72, de esta Ley.
+###### Artículo 49.
 
-b).- En un 20% del monto de la (sic) contribuciones omitidas, o del beneficio indebido, en el caso de la fracción IV del artículo 71 y siempre que el infractor pague o devuelva los mismos con sus accesorios, dentro del mes siguiente a la fecha en que se le notificó la resolución respectiva. Para aplicar la reducción contenida en este inciso no se requiere modificar la resolución que impuso la multa.
+Para la prestación de cualquier servicio público de transporte, se exigirá al solicitante que acredite la propiedad o tenencia legal de la unidad con la cual pretende explotar el servicio.
 
-###### ARTICULO 78.
+###### Artículo 50.
 
-Tratándose de la omisión de contribuciones que hayan derivado de un error aritmético en las declaraciones, se impondrá una multa que será el 20% de las contribuciones omitidas y, en caso de que dichas contribuciones se paguen junto con sus accesorios dentro del mes siguiente a la fecha en que se notificó su determinación, la multa se reducirá a la mitad, sin que para ello se requiera resolución administrativa.
+Toda concesión para la prestación del servicio público de transporte, en calles, caminos y carreteras municipales y estatales situados en el territorio del Estado, debe emanar por resolución del Titular del Poder Ejecutivo del Estado, previa tramitación de la solicitud, conforme al procedimiento establecido por esta Ley y sus reglamentos.
 
-###### ARTICULO 79.
+###### Artículo 51.
 
-Será supletorio de la Ley de Hacienda del Municipio el Código Fiscal de la Federación.
+Tanto las personas físicas como las morales, podrán ser titulares de concesiones de servicio público de transporte, en los términos que se señalan en esta Ley.
 
-### CAPITULO CUARTO. DE LOS DELITOS
+###### Artículo 52.
 
-###### ARTICULO 80.
+Toda persona física tendrá derecho a ser titular de hasta tres concesiones de servicio público de transporte, a su nombre, las cuales ampararán una unidad por concesión.
 
-Comete el delito de defraudación fiscal quien haga uso de engaños o aprovecha errores para omitir total o parcialmente el pago de algún crédito fiscal, use más de un número de registro de contribuyentes o proporcione datos falsos para su inscripción.
+Las personas morales, no podrán ser titulares de más de cinco concesiones por cada socio, amparando una unidad por concesión. Para la transmisión de acciones o partes sociales de una persona moral concesionaria, se requiere previamente de la autorización por escrito de la Secretaría de Infraestructura Urbana y Ecología.
 
-###### ARTICULO 81.
+###### Artículo 53.
 
-También comete delito de defraudación fiscal quien:
+La persona física para obtener concesión de servicio público de transporte, deberá acreditar:
 
-I.- Mediante la simulación de actos jurídicos omita total o parcialmente el pago de los créditos fiscales;
+I.- Ser mexicano;
 
-II.- Consigne en las declaraciones o manifestaciones para efectos fiscales, ingresos menores a los realmente obtenidos o deducciones falsas;
+II.- Mayor de edad;
 
-III.- Proporcione con falsedad a las autoridades fiscales que lo requieran, los datos que obren en su poder y que sean necesarios para determinar la producción, el ingreso gravable o los créditos fiscales que cause;
+III.- No ser titular de más del número de concesiones establecidas en esta Ley;
 
-IV.- Oculte a las autoridades fiscales, total o parcialmente, la producción sujeta a créditos fiscales o el monto de las enajenaciones;
+IV.- No ser servidor público de las administraciones públicas federal, estatal o municipal;
 
-V.- No entere a las autoridades fiscales dentro del plazo del requerimiento que se le haga, las cantidades que haya retenido o recaudado de los sujetos pasivos, por concepto de créditos fiscales;
+V.- No tener relación de parentesco por consanguinidad o por afinidad hasta el cuarto grado con servidores públicos relacionados con el transporte;
 
-VI.- Lleve doble juego de libros, con anotaciones o registro distintos a los de los libros autorizados;
+VI.- No haber sido condenado por delito intencional, o por delito culposo ocasionado con motivo del tránsito de vehículos;
 
-VII.- Destruya, ordene, o permita la destrucción total o parcial dejando ilegibles los libros de contabilidad que prevengan las leyes fiscales; y
+VII.- No haber sido sancionado con la pérdida de la concesión del servicio público de transporte, por causas imputables al concesionario;
 
-VIII.- Utilice pastas o encuadernación de los libros a que se refiere la fracción anterior, para substituir o cambiar las páginas foliadas.
+VIII.- No haber prestado el servicio público de transporte, sin contar con la concesión respectiva; y
 
-###### ARTICULO 82.
+IX.- Acreditar la capacidad técnica necesaria para la prestación del servicio público de transporte.
 
-Para los fines del Artículo 81 podrá tomarse en cuenta el monto del crédito o créditos fiscales defraudados o que se haya intentado defraudar dentro de los cinco ejercicios fiscales anteriores, aún cuando se trate de créditos diferentes y de diversas acciones u omisiones de las previstas en el mismo Artículo.
+###### Artículo 54.
 
-###### ARTICULO 83.
+Las personas morales para obtener concesión deberán acreditar:
 
-Son encubridores de los delitos tipificados en los Artículos 80 y 81, quienes a sabiendas de que la elaboración o el comercio se realizan en las condiciones a que el mismo precepto se refiere, translade (sic), adquieran o permitan el tránsito de los productos o mercancías.
+I.- Que los socios que las integran reúnan los requisitos de las fracciones I al VIII del artículo anterior;
 
-###### ARTICULO 84.
+II.- Que estén debidamente constituidas conforme a las leyes que las rigen;
 
-Comete el delito de uso de calcomanías, formas numeradas o tarjetones falsificados:
+III.- Que su capital social esté representado totalmente por parte (sic) sociales o acciones nominativas;
 
-I.- El particular o el servidor público que a sabiendas de que fueron impresos o grabados sin autorización de la Tesorería Municipal los posea, enajene, ponga en circulación o, en su caso, las adhiera para pretender haber hecho el pago de alguna prestación fiscal; y
+IV.- Que su objeto social contemple la prestación del servicio público de transporte;
 
-II.- El particular o servidor público que los posea, enajene, ponga en circulación o los utilice para el pago de una prestación fiscal, alterados en su valor, año de emisión, leyenda o clase, a sabiendas de esta circunstancia.
+V.- Que su domicilio social se encuentre dentro del Estado;
 
-###### ARTICULO 85.
+VI.- No haber sido sancionadas con la pérdida de concesiones y/o permisos del servicio público de transporte, por causas imputables a la persona moral;
 
-En la averiguación previa a los delitos previstos en los Artículos 80, 81, 82, 83 y 84, se recabará dictamen de peritos designados por la Tesorería Municipal.
+VII.- Que en el acta constitutiva se precise que los socios gozarán del derecho del tanto en los términos de las leyes de la materias (sic) aplicables, así como el término dentro del cual deberá ser ejercido ese derecho, atendiendo a la limitación prevista en el artículo 52 de esta Ley.
 
-###### ARTICULO 86.
+VIII.- Acreditar la capacidad técnica necesaria para la prestación del servicio público de transporte.
 
-También comete delito de defraudación fiscal el Contador Público que al dictaminar para efectos fiscales los estados financieros de un sujeto pasivo; haga constar documentos, inventarios o balances falsos; o suscriba su dictamen sin haber aplicado los procedimientos de auditoría generalmente aceptados, para el examen de los estados financieros.
+###### Artículo 55.
 
-###### ARTICULO 87.
+Para el otorgamiento de concesiones del servicio público de transporte, deberá observarse el siguiente orden preferente:
 
-Para proceder penalmente por los delitos previstos en esta Ley, será necesario que la Tesorería Municipal declare previamente que el fisco ha sufrido o pudo sufrir perjuicio.
+I.- Personas morales que tengan por objeto la prestación del servicio público de transporte, que estén debidamente constituidas, que reúnan las exigencias del artículo 54 de la presente Ley y que estén en condiciones de prestar y garantizar un mejor servicio al público, tanto por la integración de su capital social y contable como por la calidad del equipo e instalaciones complementarias que destinen al servicio; y
 
-###### ARTICULO 88.
+II.- Personas físicas que reúnan los requisitos del artículo 53 de la presente Ley, y en igualdad de circunstancias, se preferirá a los trabajadores asalariados del servicio público de transporte, y entre éstos a los de mayor antigüedad, debiendo acreditarse esta circunstancia con pruebas documentales que sean expidas (sic) por dependencias o instituciones oficiales.
 
-En cuanto a los delitos tipificados en los Artículos 80, 81, 82, 83, 84, 85 y 86, se requerirá querella de la Tesorería Municipal. A la denuncia o querella ante el Ministerio Público, se acompañará la resolución en que se contenga la liquidación de los créditos fiscales omitidos y la relativa a las sanciones administrativas correspondientes.
+En ambos casos la autoridad resolverá el otorgamiento a favor de aquellas personas físicas o morales que mejor garanticen la prestación del servicio.
 
-###### ARTICULO 89.
+Tratándose del otorgamiento de concesiones del servicio público de transporte especializado para personas con discapacidad y de la tercera edad se preferirá a las asociaciones que integren este grupo de personas.
 
-Los procesos por los delitos fiscales a que se refiere el Artículo 88, serán sobreseidos si la Tesorería Municipal lo solicita antes de que el Ministerio Público formule conclusiones.
+###### Artículo 56.
 
-Dicha Tesorería solo podrá pedir sobreseimiento si el procesado para las prestaciones fiscales originadas por el hecho imputado, o si a juicio de la propia Tesorería ha quedado garantizado el interés fiscal del Municipio.
+Cuando coincidan dos o más solicitudes se preferirá a quien mejor reúna, a juicio de la autoridad competente, las exigencias a las que se refiere el artículo anterior y en igualdad de condiciones, se decidirá a la suerte, con la comparecencia de los interesados, previa citación de los mismos.
+
+### CAPITULO VI. DEL FOMENTO DE LAS EMPRESAS Y ASOCIACIONES DEL TRANSPORTE Y DE LOS ESTIMULOS Y APOYOS
+
+###### Artículo 57.
+
+La actuación administrativa en el procedimiento de otorgamiento de concesiones para prestar el servicio público de transporte, se desarrollará con arreglo a los principios de igualdad, publicidad, audiencia, legalidad, imparcialidad, celeridad, eficacia y buena fe.
+
+###### Artículo 58.
+
+El procedimiento para el otorgamiento de concesiones del servicio público de transporte deberá iniciar con la convocatoria que al efecto emita el Titular del Poder Ejecutivo del Estado, de conformidad con los estudios técnicos y socioeconómicos aprobados por el Ayuntamiento de acuerdo a lo previsto en las fracciones VIII y IX del artículo 9 de esta Ley.
+
+La convocatoria deberá publicarse en el Boletín Oficial del Gobierno del Estado y en el o los periódicos de mayor circulación del lugar donde se vaya a prestar el servicio y contendrá:
+
+I.- La localidad o región en la que se busque satisfacer necesidades de transporte público;
+
+II.- Causas o motivos que generan las necesidades de concesionar el servicio público de transporte;
+
+III.- La modalidad, sistema y clase de servicio público de transporte que se requiera satisfacer;
+
+IV.- Determinación de rutas, señalamiento de itinerarios, horarios y ubicación de sitios de los servicios que así lo requieran; así como, el ámbito territorial de su prestación;
+
+V.- La fecha límite de presentación de las solicitudes, no deberá ser menor de 15 días hábiles contados a partir de la publicación de la convocatoria;
+
+VI.- La mención de que las solicitudes de otorgamiento de concesiones deberán presentarse en la Unidad Administrativa competente de la Secretaría o en las Delegaciones Regionales de Transporte, donde se encuentra la necesidad del servicio de transporte público que se requiere satisfacer; y
+
+VII.- La mención de que la resolución del Titular del Poder Ejecutivo sobre el otorgamiento de concesiones será publicada en el Boletín Oficial del Gobierno del Estado y en el o los periódicos de mayor circulación de la localidad o región donde se busca satisfacer las necesidades del servicio, asimismo, que la publicación tendrá los efectos de notificación para los aspirantes a obtener una concesión;
+
+VII.- Los demás aspectos que considere necesario el Titular del Poder Ejecutivo del Estado, en atención a lo prescrito en esta Ley y sus reglamentos.
+
+###### Artículo 59.
+
+Las solicitudes de concesión contendrán:
+
+I.- Nombre o razón social, domicilio para recibir notificaciones y mención de la convocatoria respectiva;
+
+II.- La modalidad, sistema y clase de servicio que pretende se le concesione, así como el número de concesiones; y
+
+III.- La ruta en la que desea prestar el servicio, con inclusión de los puntos intermedios o itinerarios, origen y destino, ubicación de sitio, en su caso, localidades o regiones comprendidas en la prestación del servicio;
+
+A la solicitud deberá acompañarse la documentación relativa a la propiedad del vehículo con el cual se pretenda prestar el servicio solicitado, o en su caso, garantizar la presentación del mismo una vez que sea requerido para ello, así como la manifestación, bajo protesta de decir verdad que reúne los requisitos legales para ser titular de una concesión.
+
+###### Artículo 60.
+
+La solicitud de concesión deberá ser ratificada ante la Unidad Administrativa o la Delegación Regional de Transporte en un plazo no mayor a cinco días contados a partir de la fecha de presentación de la solicitud o mediante la ratificación de firmas realizada ante fedatario público.
+
+###### Artículo 61.
+
+Los interesados al presentar su solicitud deberán acompañar los documentos con los que acrediten los requisitos señalados en los artículos 53 y 54 de esta Ley y, en su caso, la personalidad de los mismos.
+
+Asimismo, deberán proporcionar por duplicado copias de la solicitud y sus anexos.
+
+###### Artículo 62.
+
+Cuando la solicitud no reúna los requisitos señalados en esta Ley, se tendrá por no presentada.
+
+###### Artículo 63.
+
+La Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, a través de las Delegaciones Regionales de Transporte, procederá al registro por riguroso término, de las solicitudes para otorgamiento de concesión en los términos que se señale en el reglamento respectivo, atendiendo la fecha y hora en que fueron presentadas.
+
+###### Artículo 64.
+
+Los terceros que pudieren resultar afectados con las concesiones a otorgarse, se tendrán por notificados con la publicación de la convocatoria expedida, y dentro del mismo plazo otorgado para la presentación de las solicitudes respectivas, podrán comparecer al procedimiento de otorgamiento de concesión a efecto de hacer valer lo que a su derecho convenga.
+
+###### Artículo 65.
+
+Durante el término que señalan los artículos anteriores, los solicitantes y terceros que se consideren afectados podrán acudir ante las Delegaciones Regionales de Transporte para el efecto de que se les proporcione la información que requieran relativa al procedimiento de otorgamiento de concesiones.
+
+### CAPITULO I. DE LAS MODALIDADES Y CLASIFICACION DE LOS SERVICIOS
+
+###### Artículo 66.
+
+Una vez transcurrido el plazo a que se refiere el artículo 64 de la presente Ley, dentro de los sesenta días hábiles siguientes la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, emitirá, con base en el análisis comparativo de las solicitudes presentadas, un dictamen que servirá de fundamento para otorgar las concesiones a los aspirantes que reúnan las condiciones legales, técnicas y económicas especificadas en la convocatoria y garantice, satisfactoriamente, el cumplimiento de las obligaciones establecidas en la presente Ley.
+
+###### Artículo 67.
+
+La resolución definitiva, se emitirá por el Titular del Poder Ejecutivo con base en el dictamen señalado en el artículo anterior, debiendo contener:
+
+I.- Lugar y fecha;
+
+II.- Nombre de los solicitantes y en su caso el del representante legal de las personas morales, así como de los terceros afectados, si los hubiere;
+
+III.- La fijación clara y precisa de los puntos que se deberán resolver y el examen y valoración de las pruebas exhibidas;
+
+IV.- Motivación y fundamentos legales en que se apoya;
+
+V.- Puntos resolutivos;
+
+VI.- El número de concesiones otorgadas a los solicitantes y la fecha de iniciación del servicio; y
+
+VII.- La resolución recaída a los recursos interpuestos por los terceros afectados si se hubieren interpuesto.
+
+###### Artículo 68.
+
+Los puntos resolutivos de la resolución definitiva que pronuncie el Ejecutivo del Estado, se publicarán en el o los periódicos de mayor circulación de la localidad o región dentro de un plazo no mayor de quince días hábiles, surtiendo efectos de notificación a los interesados; para los efectos legales a que haya lugar la publicación de los puntos resolutivos se hará por una sola vez en el Boletín Oficial del Gobierno del Estado.
+
+###### Artículo 69.
+
+Las personas interesadas podrán inconformarse a través del recurso de reconsideración por cualquier acto del procedimiento que contravenga las disposiciones que rigen este Capítulo.
+
+## TITULO CUARTO. DE LA INSPECCION, VIGILANCIA, INFRACCIONES, SANCIONES, MEDIDAS DE SEGURIDAD Y MEDIOS DE DEFENSA
+
+### CAPITULO II. DE LAS CONCESIONES DEL SERVICIO PUBLICO DE TRANSPORTE
+
+###### Artículo 70.
+
+Una vez que el Titular del Poder Ejecutivo del Estado, haya otorgado las concesiones respectivas, la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología expedirá los títulos de concesión, previo pago de los derechos que al efecto establezcan las leyes fiscales respectivas para la prestación de los servicios públicos de transporte concesionados.
+
+###### Artículo 71.
+
+Los títulos de concesión que expida la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, para la prestación de servicios públicos de transporte concesionados, deberán contener:
+
+I.- Nombre y domicilio de la persona física o moral concesionaria;
+
+II.- Modalidad, sistema y clase de servicio concesionado;
+
+III.- Denominación de la ruta, con señalamiento de origen y destino, puntos intermedios, horarios, ubicación y forma de identificación del sitios (sic) y ámbito territorial de prestación;
+
+IV.- Características de la unidad:
+
+a) Marca;
+
+b) Modelo;
+
+c) Tipo;
+
+d) Número de motor; y
+
+e) Número de serie.
+
+V.- Nombre del sucesor, en el caso de las concesiones otorgadas a las personas físicas;
+
+VI.- Síntesis de las obligaciones del concesionario y señalamiento de causas de revocación de la concesión del servicio público; y
+
+VII.- Lugar y fecha de la expedición del título de concesión y número que le corresponda.
+
+###### Artículo 72.
+
+Los títulos de concesión que expida la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, no podrán fijar condiciones contrarias a las que consten en la resolución que emita el Ejecutivo del Estado.
+
+###### Artículo 73.
+
+El procedimiento administrativo de otorgamiento de concesión, respecto de cada solicitante, se extingue por:
+
+I.- Desistimiento;
+
+II.- Muerte, cuando se trate de persona física; y
+
+III.- Disolución de la sociedad, en tratándose de persona moral.
+
+### CAPITULO III. DE LOS REQUISITOS PARA OBTENER CONCESION DE SERVICIO PUBLICO DE TRANSPORTE
+
+###### Artículo 74.
+
+Otorgada la concesión del servicio público de transporte, el titular de la misma deberá iniciar la prestación del servicio en la fecha señalada en la resolución respectiva. Si en la fecha señalada, el concesionario aún no se encuentra en condiciones de prestar el servicio, la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, a través de las Delegaciones Regionales de Transporte, podrá prorrogar el mismo por una sola vez.
+
+Previamente a la iniciación de la prestación del servicio público y cuando la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, a través de las Delegaciones Regionales de Transporte y los ayuntamientos, así lo determinen, durante la prestación del mismo, el concesionario se sujetará a la calificación de las unidades para establecer si éstas reúnen los requisitos de seguridad, comodidad e higiene y vida útil, de conformidad con el procedimiento previsto en el reglamento respectivo, así como las condiciones de control de contaminantes a que se refiere la Ley del Equilibrio Ecológico y la Protección al Ambiente para el Estado de Sonora.
+
+En caso de que no cumpla con las condiciones a que se refiere la última parte del párrafo anterior, se dará conocimiento a la autoridad competente para los efectos conducentes.
+
+### CAPITULO IV. DEL ORDEN PREFERENTE PARA EL OTORGAMIENTO DE CONCESIONES DEL SERVICIO PUBLICO DE TRANSPORTE
+
+###### Artículo 75.
+
+El concesionario deberá prestar el servicio en los términos del artículo 4o. de esta Ley.
+
+Cuando por caso fortuito o fuerza mayor sea imposible cumplir con la prestación del servicio, el concesionario podrá suspender el mismo en toda la ruta o en parte de ella por todo el tiempo que duren las causas. Dicha suspensión deberá comunicarla en un término de cuarenta y ocho horas a la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología o a la Delegación Regional del Transporte correspondiente. Si de la inspección que se realice al efecto, se desprende que la suspensión no se justifica, la autoridad de transporte ordenará al concesionario que reanude el servicio en un término de veinticuatro horas, apercibiéndosele que en caso de no hacerlo se le aplicará la suspensión de la prestación del servicio público de transporte hasta por 30 días a juicio de la autoridad de transporte. Si aún con la sanción impuesta insistiere en no reanudar el servicio, se iniciará el procedimiento de revocación de su concesión.
+
+###### Artículo 76.
+
+El Ejecutivo del Estado podrá hacerse cargo del servicio público de transporte concesionado en los siguientes casos:
+
+I.- En forma definitiva, cuando así lo exija el interés público y social; y
+
+II.- En forma provisional, cuando exista una grave alteración al orden público y la paz social que impida y obstaculice seriamente la normal prestación del servicio público de transporte. La intervención del Estado cesará cuando se restablezcan el orden público y la paz social alterados y el concesionario reanudará la prestación del servicio.
+
+Cuando el Estado en la prestación del servicio utilice el equipo de los concesionarios, en el caso de la fracción I del presente artículo, éstos deberán recibir la indemnización correspondiente, cuyo monto se determinará con base en el estudio técnico y del valor del equipo que al efecto que realice la Comisión Estatal de Bienes y Concesiones; en el supuesto de la fracción II del presente artículo, deberá destinar los ingresos obtenidos por la prestación del servicio a la operación y mantenimiento del equipo respectivo y a los gastos de administración, y el remanente se entregará a los concesionarios.
+
+###### Artículo 77.
+
+Son causas para la revocación de las concesiones de servicio público de transporte, las siguientes:
+
+I.- Suspender el servicio público concesionado sin causa justificada en los términos del segundo párrafo del artículo 75 de esta Ley, o por no reanudar el mismo cuando lo ordene la autoridad de transporte competente;
+
+II.- Modificar o alterar, sustancialmente, la naturaleza o condiciones en que se opera el servicio concesionado, sin que previamente se haya obtenido autorización de la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología;
+
+III.- No iniciar la prestación del servicio una vez otorgada la concesión y expedido el título correspondiente, en la fecha a que se refiere la fracción VI del artículo 67 de esta Ley;
+
+IV.- Gravar total o parcialmente, ceder o rentar los derechos de prestación de la concesión, sin autorización de la Secretaría de Infraestructura Urbana y Ecología; asimismo, por permitir, las personas físicas o morales concesionarias, a terceros la prestación del servicio público de transporte, aprovechando su propia concesión;
+
+V.- Reincidir en la violación de las tarifas y horarios; así como hacer cambio de rutas sin autorización;
+
+VI.- Destinar unidades no autorizadas en la prestación de los servicios o transgredir en forma reiterada cualquiera de las condiciones estipuladas en la concesión;
+
+VII.- El cambio de sitio de los concesionarios de automóviles de alquiler, sin la autorización de la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, sin perjuicio de la multa a que se haga acreedor por la infracción cometida;
+
+VIII.- El abandono injustificado de rutas, sitios o radios de acción autorizados para la prestación de los servicios, así como por la invasión de rutas o zonas no autorizadas;
+
+IX.- Reincidir en la prestación del servicio con vehículos que carezcan de los requisitos mínimos de seguridad, comodidad e higiene y vida útil para la prestación del servicio público;
+
+X.- La falta de pago de los derechos correspondientes al otorgamiento de concesión para la prestación del servicio público de transporte y a su revisión anual;
+
+XI.- No tener vigente, el concesionario de servicio público de transporte de pasaje, el seguro de viajero y de daños a terceros;
+
+XII.- No establecer centrales o terminales o no hacer uso de las autorizadas por el Titular del Poder Ejecutivo del Estado;
+
+XIII.- Prestar el servicio público sin placas de circulación, o con éstas vencidas o alteradas;
+
+XIV.- Comprobarse que se presentaron documentos falsos para obtener la concesión;
+
+XV.- No cubrir las indemnizaciones por daños o perjuicios que se originen a la administración pública, a los usuarios, peatones, conductores o terceros, con motivo de la prestación del servicio público de transporte; y
+
+XVI.- Las demás que se señalen en esta Ley y sus reglamentos respectivos.
+
+###### Artículo 78.
+
+El procedimiento de revocación de la concesión otorgada se iniciará de oficio, a solicitud de los ayuntamientos o a petición de cualquier persona interesada, el cual deberá notificarse en forma personal al concesionario, a efecto de que dentro del plazo de cinco días hábiles, contados a partir del día siguiente al de la notificación, manifieste lo que a su interés convenga.
+
+El escrito de solicitud de inicio de procedimiento podrá interponerse ante la Unidad Administrativa de la Secretaría de Infraestructura Urbana y Ecología o en las Delegaciones Regionales de Transporte, quienes a su vez, remitirán inmediatamente el escrito a la citada Unidad Administrativa, cuando el procedimiento es iniciado por un particular, la autoridad del transporte que reciba el escrito, deberá citar al promovente, para que en un plazo no mayor de cinco días, lleve a cabo la ratificación correspondiente ante dicha autoridad, o bien podrá hacerlo antes de la presentación del escrito ante fedatario público.
+
+En los escritos de solicitud de inicio del procedimiento y con el que comparezca el concesionario, deberán ofrecerse las pruebas que acrediten, en cada caso, las causales de revocación y los hechos en que fundare la defensa.
+
+El procedimiento a que se refiere este artículo se substanciará ante la Unidad Administrativa de la Secretaría de Infraestructura Urbana y Ecología.
+
+###### Artículo 79.
+
+Dentro de los diez días hábiles siguientes al vencimiento del plazo a que se refiere el primer párrafo del artículo anterior, las pruebas que se hubieren ofrecido y que ameriten preparación, se desahogarán en el lugar, día y hora que fije la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología.
+
+### CAPITULO V. DEL PROCEDIMIENTO PARA EL OTORGAMIENTO DE CONCESIONES DEL SERVICIO PUBLICO DE TRANSPORTE
+
+###### Artículo 80.
+
+Una vez que se hubieren desahogado las pruebas ofrecidas, la Unidad Administrativa competente turnará el expediente respectivo al Secretario de Infraestructura Urbana y Ecología, para que lo ponga a disposición del Titular del Poder Ejecutivo del Estado, a efecto de que emita la resolución correspondiente, la cual deberá notificarse personalmente a los interesados.
+
+###### Artículo 81.
+
+En caso de que la resolución consista en revocar la concesión a su titular, los puntos resolutivos de la misma deberán publicarse en el Boletín Oficial del Gobierno del Estado.
+
+###### Artículo 82.
+
+Contra la resolución que revoca la vigencia de una concesión procede el recurso de reconsideración descrito en la presente Ley.
+
+###### Artículo 83.
+
+El Titular de la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, podrá otorgar permisos eventuales para satisfacer las necesidades transitorias de transporte público, en los siguientes casos:
+
+I.- En el servicio público de transporte de pasaje, cuando por alguna causa transitoria no sean suficientes los servicios establecidos de forma permanente, para satisfacer la demanda;
+
+II.- Cuando la unidad concesionada no se presente en el lugar y horarios establecidos para la prestación del servicio público, tratándose de los sistemas urbano, suburbano y foráneo;
+
+III.- Cuando la unidad concesionada no reúna los requisitos de seguridad, comodidad, higiene y vida útil y en tanto se tramite y autorice el cambio de unidad correspondiente; y
+
+IV.- En el servicio público de carga, cuando exista una demanda extraordinaria de transportación.
+
+Los permisos eventuales se otorgarán hasta por un plazo de sesenta días naturales, podrán ser prorrogables hasta por dos períodos iguales consecutivos.
+
+###### Artículo 84.
+
+El Delegado Regional de Transporte podrá otorgar a los concesionarios del servicio público permisos emergentes hasta por el término de sesenta días, cuando las unidades consideradas en el título de concesión sufran alguna descompostura mecánica o se encuentren en servicio de mantenimiento, pudiendo prorrogarse por un período igual, siempre que se demuestre la necesidad de tal prorroga.
+
+Las unidades que se utilicen en los permisos emergentes deberán reunir los requisitos mínimos de seguridad, comodidad e higiene contemplados en el capítulo I del Título Segundo de esta Ley.
+
+###### Artículo 85.
+
+Una vez recibidas las solicitudes a que se refieren los artículos anteriores, y reunidos los requisitos señalados en los artículos 53 y 54 de la presente Ley, para el caso de los solicitantes de permisos eventuales, la Unidad Administrativa competente de la Secretaría de Infraestructura urbana y Ecología, dentro de las veinticuatro horas siguientes, resolverá lo conducente.
+
+###### Artículo 86.
+
+Los permisos eventuales y emergentes se otorgarán previo el pago de los derechos que al efecto establezcan las leyes fiscales.
+
+###### Artículo 87.
+
+Tarifa es la contraprestación a cargo del usuario por el uso de los diferentes servicios públicos de transporte a que se refiere esta Ley.
+
+Las tarifas y sus reglas de aplicación se determinarán procurando que respondan siempre a un criterio técnico uniforme, igual para casos similares y diversificados de acuerdo con la zona o región donde habrán de prestarse los servicios, por la diferenciación de la situación económica y las condiciones de comodidad, seguridad e higiene en que se presta el servicio en los lugares respectivos.
+
+Las tarifas y sus reglas de aplicación se determinarán tomando en cuenta los Planes Operativos de Servicio correspondiente y los lineamientos y normas técnicas de calidad emitidas por el Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora, para garantizar la propia sustentabilidad del servicio.
+
+> <small>(REFORMADO, B.O. 23 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 88.
+
+El Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora autorizará y publicará las tarifas que correspondan al servicio público de transporte, debiendo establecer tarifas especiales para estudiantes, personas con discapacidad y adultos mayores que utilicen el servicio público de transporte en zonas urbanas y suburbanas, mismas que se aplicarán siempre que se identifiquen con la credencial correspondiente que establezca el propio Consejo Ciudadano.
+
+Las credenciales de identificación de usuarios con derecho a tarifas especiales serán expedidas por el Ejecutivo del Estado, de acuerdo a los requisitos, criterios y procedimientos que establezca y determine el Consejo Ciudadano, buscando garantizar con ello que los beneficios de las tarifas especiales sean efectivamente dirigidos a los grupos de usuarios que establece el presente artículo.
+
+El Ejecutivo Estatal, de conformidad a sus facultades y atribuciones, podrá establecer subsidios directos a los usuarios que por su condición socio económica lo requieran, de acuerdo a los programas sociales que considere, haciendo llegar de esta forma directamente a los usuarios este beneficio, en este caso los usuarios deberán cubrir al prestador del servicio la tarifa completa que corresponda.
+
+Por otra parte el Ejecutivo Estatal podrá establecer a su vez, programas de subsidio al costo de operación de los sistemas de transporte que considere, para lo cual deberá informar al Consejo Ciudadano el importe destinado para que este sea considerado en la determinación de la tarifa correspondiente, en tal caso los recursos deberán ser aportados previamente por El Ejecutivo Estatal a un Fideicomiso de Administración que sea constituido por el Consejo Ciudadano, y a través del cual se harán llegar estos recursos directamente a los prestadores del servicio que sea subsidiado, en función del servicio prestado.
+
+La tarifa autorizada para el sistema de automóvil de alquiler podrá ser cubierta en forma individual o colectiva por los usuarios.
+
+En el caso de la tarifa del automóvil de alquiler colectivo será cubierta en forma individual.
+
+> <small>(REFORMADO, B.O. 23 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 89.
+
+El Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora deberá actualizar las tarifas del transporte público, de acuerdo a lo siguiente:
+
+I. Con apego a lo establecido en el Artículo 90 de esta Ley, para las tarifas aplicables al servicio de transporte público urbano:
+
+a. En las ciudades que cuentan con sistemas de pago electrónico por lo menos una vez al año o cuando varíen sustancialmente las condiciones socioeconómicas que le dieron origen.
+
+b. Para el resto de las ciudades, cuando varíen sustancialmente las condiciones socioeconómicas que le dieron origen;
+
+c. Específicamente para los estudiantes de instituciones educativas reconocidas por la Secretaría de Educación y Cultura cuyos programas de estudio sean escolarizados y de acuerdo a los lineamientos que establezca el Consejo Ciudadano, para los dos primeros viajes diarios y durante los periodos de clases establecidos en el calendario oficial de la Secretaría de Educación y Cultura excepto sábados y domingos, se deberá establecerse (sic) una tarifa especial extraordinaria con un descuento del 100%; lo anterior en beneficio de estudiantes de todas las ciudades en las que se preste el servicio público de transporte urbano; por lo que deberá considerarse lo anterior en los procedimientos técnicos que establece el artículo 90.
+
+II. Para el resto de las modalidades de transporte, cada vez que varíen sustancialmente las condiciones socioeconómicas que le dieron origen, elaborando los estudios técnicos necesarios, debiendo considerar en éstos los siguientes indicadores: el tipo, modalidad, sistema y características de servicio, los incrementos al salario mínimo general vigente en la región, los incrementos al precio unitario del energético que se utilice, los incrementos en los costos directos e indirectos que incidan en la prestación del servicio, los ingresos que perciben los concesionarios por la prestación del servicio público de transporte, así como cualquier otro concepto de ingreso. En la elaboración de los estudios técnicos deberán tomarse en cuenta los estudios técnicos de los concesionarios, si los hubiere. Una vez realizados los estudios técnicos a que se refiere el artículo anterior, deberá resolver sobre el incremento de las tarifas del servicio público de transporte.
+
+> <small>(REFORMADO, B.O. 23 DE DICIEMBRE DE 2013)</small>
 
 ## TITULO QUINTO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
-### CAPITULO UNICO
+### CAPITULO VI. DE LA REVOCACIÓN DE LAS CONCESIONES DE SERVICIO PUBLICO DE TRANSPORTE
 
-###### ARTICULO 90.
+###### Artículo 90.
 
-Se estará a lo dispuesto por el Titulo Quinto de la Ley de Hacienda del Estado en vigor y supletoriamente a lo dispuesto en el Código Fiscal de la Federación.
+Para la determinación de las tarifas del transporte público urbano, el Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora, aplicará los lineamientos, disposiciones, conceptos y procedimientos siguientes:
+
+I. Operadora de Recaudo: Persona física o moral contratada por los concesionarios con la finalidad de desarrollar las actividades de recaudo de la tarifa que los usuarios pagan por el servicio. En ningún caso, el Operador de Recaudo que contraten los concesionarios podrá ser una dependencia, entidad u organismo público del Gobierno Municipal, Estatal o Federal, así como tampoco funcionarios y empleados de gobierno, ni personas físicas con parentesco por consanguinidad o por afinidad hasta el cuarto grado con funcionarios y empleados de gobierno; o personas morales cuyos socios sean funcionarios o empleados de gobierno o tengan parentesco por consanguinidad o por afinidad hasta el cuarto grado con funcionarios y empleados de gobierno.
+
+II. Operadora de Servicio: Personal (sic) física o moral, contratada por los concesionarios con la finalidad de desarrollar las actividades de despacho, operación y supervisión del servicio. En ningún caso, el Operador de Servicio que contraten los concesionarios podrá ser una dependencia, entidad u organismo público del Gobierno Municipal, Estatal o Federal, así como tampoco funcionarios y empleados de gobierno, ni personas físicas con parentesco por consanguinidad o por afinidad hasta el cuarto grado con funcionarios y empleados de gobierno; o personas morales cuyos socios sean funcionarios o empleados de gobierno o tengan parentesco por consanguinidad o por afinidad hasta el cuarto grado con funcionarios y empleados de gobierno.
+
+III. Fideicomiso de Administración: Fideicomiso contratado por los concesionarios, para el manejo de los ingresos, bajo los principios de transparencia, rendición de cuentas y sustentabilidad. En ningún caso, el Fideicomiso de Administración podrá ser un fideicomiso público, y la participación de las dependencias, entidades u organismos autónomos o públicos de los Gobiernos Municipal, Estatal o Federal, estará limitada a actividades de asistencia y supervisión y en ningún caso de decisión o instrucción.
+
+IV. Tarifa Técnica: Es el costo directo real por viaje en un sistema de transporte:
+
+El Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora, calculará la Tarifa Técnica considerando adicionalmente un porcentaje razonable de costos indirectos y utilidad de los concesionarios, así como el efecto de establecer tarifas especiales para determinados tipos de usuarios; según la siguiente fórmula:
+
+> <small>N. DE E. VÉASE FÓRMULA EN EL B.O. DE 23 DE DICIEMBRE DE 2013, PÁGINA 5.</small>
+
+Proyección de costos anuales: Es la proyección anual de los costos directos en que incurrirá el concesionario, para llevar a cabo el Plan de (sic) Operativo de Servicio con el nivel de confort y calidad, que establezcan la Autoridad de Transporte y el propio Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora, mismos que incluyen específicamente:
+
+1. Combustible.
+
+2. Sueldos de Chofer u Operador de la Unidad, incluyendo carga y pasivo laboral correspondiente.
+
+3. Costo de capital, que incluye depreciación de la unidad y equipo instalado, así como el costo financiero correspondiente.
+
+4. Costo de mantenimiento preventivo y correctivo de la unidad de transporte.
+
+5. Logística de operación y despacho.
+
+Kilómetros a recorrer: Es la cantidad de kilómetros que deben recorrer las unidades de transporte para cumplir con el Plan Operativo de Servicio establecido.
+
+> <small>N. DE E. VÉASE FÓRMULA EN EL B.O. DE 23 DE DICIEMBRE DE 2013, PÁGINA 6.</small>
+
+Proyección de Aforo: Es la proyección de viajes o abordos que se estima realizarán los usuarios durante el desarrollo del Plan Operativo de Servicio.
+
+% Costos Indirectos = Es un porcentaje razonable del Costo Directo por Kilómetro, que considera en la tarifa técnica los gastos de:
+
+1. Administración General.
+
+2. Recaudo.
+
+% Utilidad Concesionario = Es un porcentaje razonable del Costo Directo por Kilómetro, que establece en la tarifa técnica, de acuerdo al artículo tercero de esta Ley, el margen de utilidad de los concesionarios;
+
+% Especial = Es el efecto de establecer tarifas especiales para estudiantes, personas de la tercera edad y con discapacidad; el cual se calcula con la siguiente formula:
+
+> <small>N. DE E. VÉASE FÓRMULA EN EL B.O. DE 23 DE DICIEMBRE DE 2013, PÁGINA 6.</small>
+
+Dónde: % TE, es el porcentaje estimado de la proyección de aforo que corresponde a viajes realizados por los usuarios con tarifa especial; y % D es el porcentaje de descuento establecido para la tarifa especial correspondiente respecto de la tarifa normal.
+
+V. Para determinar la Tarifa Técnica, previamente es necesario que se determine por la Autoridad de Transporte competente el Plan Operativo de Servicio y las características de confort y calidad, mismas que deben notificarse al Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora, quien deberá establecer el Costo Directo por Kilómetro, el Índice de Pasajeros por Kilómetro, el porcentaje del Aforo que corresponde a cada tarifa especial y el porcentaje de descuento que se aplicará a estas tarifas especiales.
+
+El Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora, para determinar la Tarifa Técnica debe observar lo siguiente:
+
+I. En las ciudades donde al menos el 50% de los concesionarios hayan contratado Operadoras de Recaudo y de Servicio:
+
+a. La Autoridad de Transporte competente deberá informar por escrito a los concesionarios el Plan Operativo de Servicio y las características de confort y calidad a las que deberán apegarse en la prestación del mismo.
+
+Posteriormente el Consejo Ciudadano deberá solicitar y los concesionarios deberán proporcionar a través de las operadoras correspondientes, la siguiente información a fin de determinar las tarifas aplicables:
+
+1. Proyección anual de costos que corresponda al Plan Operativo de Servicio establecido y a las características de confort y calidad deseadas.
+
+2. Proyección anual de aforo y porcentaje estimado de viajes para cada tarifa especial que se desee establecer.
+
+II. En el resto de las ciudades el Consejo Ciudadano deberá efectuar por su cuenta los estudios y análisis correspondientes.
+
+VI. Tarifa Usuario: La Tarifa Usuario, será la contraprestación a cargo del usuario por el uso del servicio de transporte, la cual será igual a la suma de la tarifa técnica más la contribución al Fondo de Contingencia (FCi) que podrá establecer y administrar el Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora, en términos de los lineamientos y normas técnicas que emita;
+
+> <small>N. DE E. VÉASE FÓRMULA EN EL B.O. DE 23 DE DICIEMBRE DE 2013, PÁGINA 7.</small>
+
+Tarifa Especial E1 = Tarifa Especial aplicable a estudiantes pasajes primero y segundo.
+
+Tarifa Especial E2 = Tarifa Especial aplicable a estudiantes pasaje tercero en adelante.
+
+Tarifa Especial E3 = Tarifa Especial aplicable a tercera edad.
+
+Tarifa Especial E4 = Tarifa Especial aplicable a discapacidad.
+
+VII. En las ciudades donde los concesionarios cuenten con sistemas de pago electrónico, como tarjetas prepago, de débito o crédito, para que los usuarios paguen la tarifa correspondiente, el Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora podrá establecer tarifas diferenciadas por tipo de pago, aprovechando de esta forma a favor del usuario la tecnología establecida.
+
+VIII. La tarifa técnica deberá calcularse dos veces al año:
+
+a. En el mes de diciembre como resultado de las proyecciones correspondientes al Plan Operativo Anual de Servicio a desarrollarse en el año posterior.
+
+b. En el mes de agosto como ejercicio de seguimiento y verificación.
+
+Los resultados de los cálculos y actualizaciones de la tarifa técnica, el Consejo Ciudadano deberá notificarlos a la Autoridad de Transporte y a los Concesionarios.
+
+IX. La Tarifa Usuario deberá actualizarse con la temporalidad que establece el Artículo 89 de la presente Ley, considerando como una variación sustancial de las condiciones económicas, incrementos mayores del 15% en la tarifa técnica.
+
+Las actualizaciones de la Tarifa Usuario deben informarse ampliamente a los usuarios, mediante programas de difusión y su publicación en el Boletín Oficial del Gobierno del Estado.
+
+El Consejo Ciudadano deberá establecer mecanismos de actualización interanuales, para el caso de incrementos sustanciales en los costos de operación.
 
 # LIBRO SEGUNDO. DE LOS INGRESOS TRIBUTARIOS
 
 ## TITULO PRIMERO
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+### CAPITULO I. DE LOS PERMISOS EVENTUALES Y EMERGENTES DEL SERVICIO PUBLICO DE TRANSPORTE
 
-###### ARTICULO 91.
+###### Artículo 91.
 
-Los ingresos que se establecen en este libro se regularán por lo que el mismo señale y en lo no previsto se aplicará supletoriamente el libro primero de esta Ley.
+Los concesionarios del servicio público de transporte podrán celebrar convenios con organizaciones magisteriales, estudiantiles, de trabajadores, de personas con discapacidad o de la tercera edad, agrupaciones turísticas u otras, para la aplicación de tarifas especiales.
 
-###### ARTICULO 92.
+###### Artículo 92.
 
-Cuando en esta Ley se tomen como base para el pago de los créditos a cargo de los sujetos pasivos los ingresos, se entiende que quedan comprendidos tanto los que se perciban en efectivo como en especie, salvo declaración expresa en contrario.
+Para los efectos de la presente Ley, se entiende por parada, sitio, terminal y central, lo siguiente:
+
+I.- Parada: Zona de ascenso y descenso de pasaje para transporte urbano, suburbano y foráneo en las vías públicas;
+
+II.- Sitio: El lugar de la vía pública donde se estacionan vehículos destinados al servicio público de transporte, no sujetos a itinerarios previamente establecidos y al cual el usuario pueda acudir para la contratación de estos servicios;
+
+III.- Terminal: El lugar donde los concesionarios de servicio público de transporte, dan atención a los usuarios, concentrando sus unidades y unificando varios sitios o paradas; y
+
+IV.- Central: El lugar donde se ubiquen dos o más terminales.
 
 ## TITULO SEGUNDO. DE LOS IMPUESTOS
 
-### CAPITULO PRIMERO. DEL IMPUESTO SOBRE TRASLACION DE DOMINIO
+### CAPITULO II. DE LAS TARIFAS Y SU PROCEDIMIENTO
 
-###### ARTICULO 93.
+> <small>(REFORMADO, B.O. 23 DE DICIEMBRE DE 2013)</small>
 
-Es objeto de este impuesto la traslación de dominio de bienes muebles e inmuebles que no contravengan las disposiciones de la Ley Federal de impuesto al valor agregado y que estén comprendidas en las siguientes fracciones:
+###### Artículo 93.
 
-I.- La enajenación de bienes y la compraventa con reserva de dominio;
+Cuando los concesionarios de automóviles de alquiler pretendan reubicar la asignación del sitio, deberán formular solicitud al Titular de la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, quien lo substanciará hasta ponerlo en estado de resolución.
 
-II.- La promesa de enajenación de bienes;
+Una vez recibida la solicitud, el Titular de la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, dentro del término de cinco días hábiles, notificará a los terceros que pudiesen resultar afectados, a fin de que en un término de diez días aleguen lo que a su derecho convenga y vencido el término, pondrá el asunto en estado de resolución, formulando el proyecto de conformidad con las disposiciones que establece la Ley de Desarrollo Urbano para el Estado de Sonora, Ley de Tránsito del Estado, así como los demás ordenamientos fiscales aplicable, el cual será presentado al Secretario de Infraestructura Urbana y Ecología para que emita la resolución sobre el particular.
 
-III.- La adjudicación de bienes en pago;
+### CAPITULO III. DE LAS PARADAS, SITIOS, TERMINALES Y CENTRALES
 
-IV.- La adquisición de bienes por prescripción;
+###### Artículo 94.
 
-V.- La adjudicación de bienes por remate o postor o fuera de subasta;
+El Titular del Poder Ejecutivo del Estado, podrá otorgar concesiones para el establecimiento de centrales y terminales destinadas a la explotación de los servicios públicos de transporte, para tal efecto, deberá atender un procedimiento similar al señalado en el Capítulo Quinto del Título Segundo de la presente Ley.
 
-VI.- La aportación de bienes inmuebles que se haga a sociedad mercantil, asociación o sociedad civil; y a la fusión;
+###### Artículo 95.
 
-VII.- La adjudicación o dación en pago de bienes inmuebles por liquidación de una sociedad mercantil, asociación o sociedad civil;
+Las personas interesadas en obtener una concesión para explotar centrales o terminales de pasaje, deberán reunir los siguientes requisitos:
 
-VIII.- La donación de bienes;
+I.- Los señalados en los artículos 53 y 54 de esta Ley, tratándose de personas físicas o morales, respectivamente;
 
-IX.- La cesión de derechos reales o personales;
+II.- Presentar plano de las instalaciones, su ubicación y el programa de obra respectivo;
 
-X.- EL acto constitutivo de fideicomiso cuando se afecte un bien inmueble o más de uno;
+III.- Tener capital destinado al establecimiento del servicio y las especificaciones de las inversiones; y
 
-XI.- La cesión, transmisión o aportación de derechos de fideicomitente o de fideicomisario, cuando en el fideicomiso el objeto del mismo sean bienes inmuebles o derechos reales;
+IV.- Otorgar depósito en efectivo o garantía equivalente que deberá constituir el solicitante en el Banco de México o cualquier institución de crédito a disposición de la Secretaría de Finanzas del Estado, que garantice que cumplirá con las condiciones especificadas en la concesión, en caso de que esta le sea otorgada. Este depósito o garantía se hará efectivo a favor del Gobierno del Estado si el interesado no cumple con las condiciones especificadas en la concesión, dentro del término de treinta días, contados a partir de su inicio de operación de la terminal o central, prorrogables por una sola vez, a juicio de la Secretaría de Infraestructura Urbana y Ecología. Dicha garantía será calculada con base en la importancia de las instalaciones proyectadas y el beneficio social que generará su capacidad económica.
 
-XII.- La adjudicación de bienes por sucesión testamentaria e intestamentaria;
+###### Artículo 96.
 
-XIII.- Cualquier otro acto que conlleve la transmisión de los derechos o propiedad, cualquiera que sea la denominación con que se le designe.
+Las solicitudes con sus anexos, se presentarán ante la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, quien deberá atender el procedimiento señalado en el Capítulo Quinto del Título Segundo de la presente Ley.
 
-### CAPITULO SEGUNDO. DE LOS IMPUESTOS A LA EXPLOTACION DE JUEGOS, ESPECTACULOS, DIVERSIONES, LOTERIA Y LA OBTENCION DE PREMIOS EN APUESTAS PERMITIDAS
+###### Artículo 97.
 
-###### ARTICULO 94.
+La resolución deberá notificarse personalmente a los solicitantes, por conducto de la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, y sus puntos resolutivos se publicarán por una sola vez en el Boletín Oficial del Gobierno del Estado.
 
-En las fracciones I, II, III, IV, V, VIII, IX, XII y XIII del Artículo anterior queda comprendido todo lo concerniente a bienes muebles e inmuebles.
+###### Artículo 98.
 
-###### ARTICULO 95.
+Las concesiones para la explotación de centrales y terminales tendrán una duración no mayor de veinticinco años, pudiendo ser prorrogados hasta por un término igual, por resolución del Titular del Poder Ejecutivo del Estado, a través de la Secretaría de Infraestructura Urbana y Ecología, a solicitud del interesado y siempre que éste haya cumplido con las obligaciones establecidas en esta Ley, no hayan variado las condiciones bajo las cuales se otorgó la concesión y no existan terceros interesados en obtener la concesión para explotar esa central o terminal.
 
-El impuesto se causa en el momento en que se realicen las operaciones gravadas, aún cuando sean a plazo o a crédito, sin incluir el sobreprecio, los intereses o cualquier otra prestación que lo aumente, lo cual queda gravado con otras disposiciones fiscales.
+En caso de que se presente un tercero interesado en explotar una concesión sobre una central o terminal cuyo plazo se encuentre por vencer, dentro de los treinta días anteriores al citado vencimiento, podrá solicitar al Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Infraestructura Urbana y Ecología, se inicie el procedimiento señalado en el Capítulo Quinto del Título Segundo de la presente Ley, a fin de que se concesione, la central o terminal, a la persona que mejor garantice las condiciones legales, técnicas y económicas en la prestación del servicio.
 
-###### ARTICULO 96.
+###### Artículo 99.
 
-Son sujetos de impuesto:
+Las concesiones se revocarán por las siguientes causas:
 
-I.- Las partes en la enajenación, promesa de enajenación de bienes, compra-venta con reserva de dominio, cualquiera que sea la denominación con que se le designe;
+I.- Por modificar o alterar sustancialmente la naturaleza o condiciones en que se opera el servicio, las instalaciones o su ubicación, sin previa autorización de las autoridades de transporte y en detrimento de la calidad del servicio;
 
-II.- El adjudicatario, en la adjudicación o dación en pago;
+II.- Por no cumplir oportunamente con el pago de los derechos correspondientes por el otorgamiento de la concesión;
 
-III.- El adquirente, en la prescripción;
+III.- Por gravar o transferir, parcial o totalmente, la concesión sin autorización de las autoridades de transporte;
 
-IV.- El donatario, en la donación;
+IV.- Por interrumpir, en todo o en parte, el servicio sin previa autorización por escrito de las autoridades de transporte;
 
-V.- El cesionario, en la cesión;
+V.- Por incumplimiento de algunas de las obligaciones contenidas en esta Ley o en la concesión; y
 
-VI.- El fideicomitente y el fideicomisario, en la constitución del fideicomiso;
+VI.- Por arrendar o ceder los derechos de explotación sin autorización de las autoridades de transporte competente.
 
-VII.- El aportador, en la aportación; y
+###### Artículo 100.
 
-VIII.- El heredero, en la sucesión testamentaria.
+En los casos en que proceda, la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, de oficio o a petición de persona interesada, iniciará el procedimiento de revocación de la concesión para la explotación de centrales y terminales de pasaje y carga, otorgando al concesionario un plazo de treinta días hábiles para que manifieste lo que a su derecho convenga y aporte las pruebas que estime convenientes para su defensa.
 
-###### ARTICULO 97.
+Transcurrido el término señalado en el párrafo anterior y analizados los argumentos y constancias presentadas por el afectado, la Secretaría de Infraestructura Urbana y Ecología emitirá la resolución definitiva.
 
-La base del impuesto será:
+La resolución deberá notificarse personalmente a los interesados y sus puntos resolutivos se publicarán por una sola vez en el Boletín Oficial del Gobierno del Estado, sólo en aquellos casos que proceda la revocación.
 
-I.- Para los bienes muebles: el valor más alto entre el que tengan en el mercado y el de la factura o del acto o contrato de que derive la traslación de dominio; y
+###### Artículo 101.
 
-II.- Para los bienes inmuebles: el valor que resulte mayor entre el avalúo que con tal motivo formule la Tesorería Municipal o la Dirección General de Catastro, el valor de la operación y el avalúo practicado por una sociedad nacional de crédito.
+Los concesionarios y permisionarios del servicio público de transporte, están obligados a vigilar y asegurar que el manejo y control de sus vehículos quede encomendado sólo a conductores que posean licencia de operador de servicio público y además cuenten con las condiciones físico-mentales adecuadas, las que comprobarán con los exámenes correspondientes, así como experiencia y capacitación, que acreditarán con los cursos que hubiesen recibido.
 
-###### ARTICULO 98.
+Para contribuir al logro de condiciones óptimas de operación y para eficientar la prestación del servicio público de transporte, los concesionarios del transporte de pasaje urbano, podrán contar con despachadores o controladores en sus rutas respectivas, cuya designación deberá ser comunicada por éstos a las autoridades de transporte en el Estado y Municipio correspondiente.
 
-El impuesto se causará conforme a la siguiente:
+Los despachadores o controladores designados conforme al presente artículo, deberán colaborar con las acciones que, en los términos de la presente Ley, realicen las autoridades de transporte.
 
-TARIFA
+###### Artículo 102.
 
-I.- De bienes inmuebles urbanos y muebles sobre el crédito comercial del establecimiento traspasado según lo estime la Tesorería Municipal Ad-valorem, de 1 a 4%.
+Los concesionarios y permisionarios, para prestar el servicio público de transporte, están obligados a:
 
-II.- Inmuebles rústicos 2.5%.
+I.- Prestar el servicio sujetándose estrictamente a los términos de su concesión o permiso;
 
-III.- Cuando se trate de adquisiciones por prescripción:
+II.- Dar, y así exigirlo a su personal, un trato correcto, respetuoso y con consideración a los usuarios del servicio público, particularmente a las personas con discapacidad y de la tercera edad;
 
-a).- Si se sigue el procedimiento judicial, 5%.
+III.- Cumplir y, en su caso, hacer cumplir a los operadores con los horarios, sitios, rutas, itinerarios y tarifas aprobadas;
 
-b).- Si se sigue el procedimiento administrativo de acuerdo con la Ley de Regularización de la Pequeña Propiedad Rural (CORETT), 1.5%.
+IV.- Cumplir oportunamente con el pago de los derechos correspondientes por el otorgamiento de la concesión, permisos eventuales y su revalidación anual;
 
-IV.- En los casos a que se refiere (sic) las Fracciones X y XI del Artículo 93, se seguirán las reglas siguientes:
+V.- Que las unidades destinadas a la prestación del servicio público de transporte, satisfagan los requisitos, vida útil y condiciones señaladas en la presente Ley y sus Reglamentos;
 
-a).- Cuando los bienes inmuebles deban enajenarse al fideicomisario sin transmitirse en propiedad al fiduciario, se depositará en la Tesorería Municipal el monto del impuesto que correspondería al valor de los inmuebles al constituirse el fideicomiso al ser transmitidos al fideicomisario se causará el impuesto sobre el valor que tengan en esa fecha procediéndose a pagar o devolver la diferencia que resulte.
+VI.- Prestar servicios de emergencia, cuando así se requiera, en los casos de catástrofes y calamidades que afecten poblaciones situadas dentro de las localidades o regiones donde los concesionarios o permisionarios presten sus servicios;
 
-b).- Cuando los inmuebles sean transmitidos en propiedad al fiduciario, el impuesto se causará al constituirse el fideicomiso sobre el valor que tengan en esa fecha.
+VII.- Establecer, en coordinación con las autoridades de transporte, cobertizos en las áreas determinadas de ascenso y descenso de pasaje;
 
-c).- La transmisión de derechos que haga un fideicomitente a otro fideicomitente o un fideicomisario a otro fideicomisario causará el impuesto sobre la base del valor de los inmuebles al efectuarse cada transmisión, la cual se tendrá por realizada, sin que se admita prueba en contrario, en los casos de sustitución de los fideicomitentes o fideicomisarios.
+VIII.- Exhibir en lugar visible y en forma permanente la tarifa autorizada, tanto en los vehículos como en los sitios, terminales y centrales, en los términos que se señalen en el reglamento respectivo;
 
-d).- Cuando se trate de sucesiones y el fideicomiso afecte derechos hereditarios sobre bienes inmuebles para su transmisión al fideicomisario que no sea heredero, se aplicará lo dispuesto en las fracciones I o II según el caso.
+IX.- Cuando se trate del servicio de transporte público de pasaje, contratar y mantener vigente el seguro de viajero y de daños a terceros;
 
-El impuesto mínimo que se causará por la traslación de un predio urbano o sub-urbano será de $2,500.00 y por la traslación de un predio rústico, será de $1,250.00.
+X.- Cumplir con los programas de capacitación y actualización anuales del servicio público de transporte, aprobados por las autoridades del transporte;
 
-###### ARTICULO 99.
+XI.- Tratándose del transporte urbano, suburbano y foráneo, adecuar sus unidades con cuando menos dos asientos y demás condiciones necesarias para personas con discapacidad y de la tercera edad, en los términos de la Ley de Integración Social para Personas con Discapacidad del Estado de Sonora;
 
-Son responsables solidarios en el pago del impuesto:
+> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2010)</small>
 
-I.- Los contratantes que este capítulo no señale como sujetos pasivos.
+XI BIS.- Tratándose de las unidades a las que se refiere el inciso a) de la fracción I del artículo 44 de esta ley, éstas deberán prestar su servicio con los equipos de aire acondicionado encendidos y en correcto funcionamiento, en el periodo comprendido del primero de mayo al treinta de septiembre de cada año, en los términos y condiciones que al efecto señale el reglamento correspondiente;
 
-II.- Los Notarios, Corredores Públicos, Jueces y demás Fedatarios que por disposición legal tengan funciones notariales, cuando autoricen los actos o contratos sin que se encuentre cubierta la prestación fiscal respectiva; y
+> <small>(ADICIONADA, B.O. 23 DE DICIEMBRE DE 2013)</small>
 
-III.- Los funcionarios públicos de la Federación, del Estado o de sus Municipios, por los gravámenes omitidos en escritos presentados ante ellos, donde consten actos, contratos o documentos que aludan a operaciones gravadas por este impuesto si no los consignan a la Tesorería Municipal dentro de los treinta días siguientes a la presentación.
+XI TER.- Tratándose del transporte urbano y suburbano, y en aquellas rutas o líneas de transporte que coincidan con rutas ciclistas establecidas por la autoridad competente, considerar la adecuación de las unidades con un portabicicletas con capacidad mínima para 2 bicicletas. Se entenderá por portabicicletas a la estructura instalada en la unidad, la cual sirva para transportar las bicicletas de los usuarios. El uso del portabicicletas no generara un costo mayor ni adicional al usuario.
 
-###### ARTICULO 100.
+XII.- Colaborar con la labor de las autoridades de transporte;
 
-No causan este impuesto.
+XIII.- Acatar las disposiciones de la presente Ley y su reglamento, la Ley de Integración Social para las Personas con Discapacidad, la Ley del Equilibrio Ecológico y la Protección a (sic) Ambiente, en materia de transporte, la Ley de Tránsito del Estado y, en general, todas las disposiciones que para la optimización del servicio público de transporte determinen las autoridades de la materia;
 
-I.- Los ingresos, operaciones o actividades gravadas con otro impuesto establecido en esta Ley.
+XIV.- Responder ante la autoridad estatal o municipal competente, de las faltas o infracciones en que incurran por sí mismos o por conducto de las personas de quienes se sirvan como operadores;
 
-###### ARTICULO 101.
+XV.- Vigilar que los vehículos del servicio público de transporte sean abastecidos de combustible sin pasaje a bordo;
 
-El impuesto deberá pagarse en la Tesorería Municipal del lugar de la ubicación de los bienes.
+XVI.- Vigilar que se mantenga el equipo de sonido de la unidad en un volumen moderado que no cause molestias a los usuarios del servicio público;
 
-###### ARTICULO 102.
+XVII.- No abandonar o permitir el abandono de la ruta antes del horario establecido, en tratándose del servicio de transporte público urbano;
 
-El pago del impuesto se hará dentro de los quince días siguientes a la operación, para los efectos de este artículo se considerará realizada la operación en los casos de informaciones testimoniales de dominio quince días naturales después de ser notificada la resolución correspondiente.
+XVIII.- Respetar la tarifa especial para estudiantes, personas con discapacidad y de la tercera edad, en el servicio público de transporte de pasaje urbano, suburbano y foráneo; y
 
-###### ARTICULO 103.
+XIX.- Las demás que señale la presente Ley y sus Reglamentos.
 
-Los Notarios o Jueces que actúen por Receptoría, exigirán la comprobación del pago del impuesto antes de autorizar las escrituras en que conste la operación así como la autoridad que lo expidió.
+###### Artículo 103.
 
-###### ARTICULO 104.
+Los concesionarios del servicio público de transporte de automóviles de alquiler y de automóviles de alquiler colectivo, están obligados a observar las disposiciones contenidas en las fracciones I, II, III, IV, V, VI, IX, X, XI XIII, XIV, XV y XIX del artículo anterior, y además a:
 
-Cuando el acto, contrato o promesa obre en documento privado al hacerse el pago del impuesto se presentará un tanto el contrato a la Tesorería Municipal.
+I.- Impedir que en los lugares señalados para el sitio se hagan reparaciones mayores a los vehículos;
 
-###### ARTICULO 105.
+II.- Vigilar que los vehículos se estacionen precisamente dentro de la zona señalada al efecto;
 
-El encargado del Registro Público de la Propiedad no registrará la operación de traslación de dominio si no se le comprueba el pago del impuesto.
+III.- Fijar en un lugar visible del sitio, una señal informativa en la que aparezca escrito el número que se haya asignado al sitio;
 
-###### ARTICULO 106.
+IV.- Conservar limpia el área designada para el sitio y las aceras correspondientes;
 
-Cuando las operaciones se celebren fuera del Municipio, sobre los bienes situados dentro de sus límites, el impuesto se pagará antes de ratificarse el contrato ante Notario si debe llenarse este requisito o en caso contrario antes de inscribir la escritura o contrato en el Registro Público. Si el contrato o promesa no debe ser registrado, el impuesto se pagará dentro de los treinta días naturales siguientes a la celebración de la operación.
+V.- Presentar en lugares visibles al público las tarifas autorizadas;
 
-###### ARTICULO 107.
+VI.- Cubrir los derechos que al efecto establezcan los ordenamientos municipales respectivos, por concepto de estacionamiento exclusivo; y
 
-Por la promesa de enajenación de bienes que establecen las Fracciones II y XIII del Artículo 93 de esta Ley, el impuesto se liquidará una sola vez, siempre y cuando la persona del promitente comprador original. Toda cesión de derechos posterior se equipara a una nueva operación de traslación de dominio y causa el impuesto a que este capítulo se refiere.
+VII.- En el caso de los automóviles de alquiler colectivo, deberán observar lo dispuesto en la fracción XVII del artículo anterior.
 
-### CAPITULO TERCERO. DEL IMPUESTO ADICIONAL
+VII.- Las demás señaladas en la presente Ley y sus Reglamentos.
 
-###### ARTICULO 108.
+###### Artículo 104.
 
-Es objeto de este impuesto: la explotación de juegos, espectáculos, diversiones, loterías y la obtención de premios en apuestas permitidas.
+La publicidad de productos comerciales y la fijación de cualquier clase de propaganda en los vehículos con los cuales se preste el servicio público de transporte, deberá ser sometida en todo caso a la sanción y aprobación de la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, a través de las Delegaciones Regionales de Transporte, la cual por ningún motivo autorizará publicidad o propaganda que lesionen la moral o las buenas costumbres, y señalará los espacios que deberán ser destinados a la identificación de la unidad, los mensajes de carácter social y de publicidad y propaganda.
 
-###### ARTICULO 109.
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2013)</small>
 
-Son sujetos de este impuesto, quienes exploten los juegos, espectáculos, diversiones y quienes perciban los premios de loterías y apuestas permitidas.
+La unidad administrativa competente de la Secretaría, deberá de promover que en cada unidad de transporte urbano y sub urbano se coloque en la parte posterior, propaganda permanente que fomente una cultura de respeto hacia los peatones y ciclistas, la cual deberá ser lo suficientemente visible para los conductores de vehículos.
 
-###### ARTICULO 110.
+###### Artículo 105.
 
-Tienen obligación de retener y enterar el impuesto, quienes hagan el pago del premio obtenido.
+La concesión otorga a su titular, los siguientes derechos:
 
-###### ARTICULO 111.
+I.- Prestar el servicio concesionado;
 
-Son responsables solidarios en el pago de los impuestos quienes organicen, manejen, patrocinen o intervengan, sea cuales fueren el nombre y función con el que lo hagan, en las actividades comprendidas en el artículo 108.
+II.- Cobrar a los usuarios las tarifas autorizadas;
 
-###### ARTICULO 112.
+III.- Proponer a las autoridades de transporte, medidas que tiendan a mejorar el servicio y el aprovechamiento correcto de sus equipos e instalaciones;
 
-La base para el pago del impuesto sobre juegos será por mesa o clase de juego, debiendo liquidarse por bimestre, en pago anticipado, dentro de los primeros quince días naturales del primer mes de cada bimestre, de acuerdo con la siguiente tarifa:
+IV.- Obtener de las autoridades, el auxilio necesario para el ejercicio de los derechos que se confieren en las fracciones anteriores, para remover cualquier obstáculo, o impedimento en la prestación de los servicios o evitar competencia desleal;
 
-I.- Mesas de billar o de boliche por cada una: $750.00.
+V.- Nombrar sucesor. En caso de muerte del concesionario y que el sucesor designado sea menor de edad, podrá ser titular de la concesión, pero no podrá cederla hasta en tanto no cumpla la mayoría de edad. De no existir sucesor, deberá otorgarse la concesión a favor del cónyuge, concubina o concubinario supérstite, o en su defecto, al heredero que le corresponda según el Código Civil para el Estado de Sonora.
 
-II.- Juegos de dominó, ajedrez, damas, cubilete, dados, y similares por cada juego: $200.00.
+En caso de imposibilidad física o de otra naturaleza grave que les impida desempeñar personalmente el servicio concesionado, la Secretaría de Infraestructura Urbana y Ecología podrá autorizar el usufructo de la concesión al sucesor designado, en términos del párrafo anterior, hasta en tanto subsista la causa que generó la imposibilidad mencionada;
 
-III.- Otros no especificados, por cada uno: $300.00.
+VI.- Las personas físicas y morales, podrán ceder los derechos de prestación del servicio que ampara su concesión, cumpliendo todas las obligaciones que la misma le fija, debiendo además, tener la autorización de la Secretaría de Infraestructura Urbana y Ecología, y la persona a quien se pretende ceder, acredite los requisitos establecidos en la presente Ley para ser concesionario de servicio público de transporte.
 
-###### ARTICULO 113.
+Los concesionarios del servicio público de transporte, sólo podrán dar en arrendamiento los derechos de prestación del servicio, cuando lo autorice la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología y sólo en los siguientes supuestos:
 
-No se causará este impuesto en los Clubes de servicio y en los establecimientos en los que su licencia permita el uso gratuito de mesas y equipo de juegos.
+a).- Haber adquirido la concesión por sucesión del cónyuge o concubino;
 
-###### ARTICULO 114.
+b).- Ser menor de edad, hasta el cumplimiento de la mayoría de edad; y
 
-Es base del impuesto:
+c).- Ser discapacitado, siempre que la discapacidad sea por causa superveniente a la fecha de otorgamiento de la concesión, siempre que la misma le impida cumplir con la prestación del servicio.
 
-Tasa o cuota Fija mensual
+###### Artículo 106.
 
-I.- De espectáculos.
+Para ser operador del servicio público de transporte se requiere:
 
-A.- Cinematográficos:
+I.- Tener licencia vigente de operador de transporte público;
 
-a).- Sobre el ingreso bruto:15%
+II.- No estar imposibilitado para el desempeño de la función de operador por resolución judicial; y
 
-b).- Instalados en vehículos, por función: de $150.00 a $650.00
+III.- Aprobar los cursos de capacitación, actualización y adiestramiento, así como los exámenes psicométrico y físico que practique la autoridad correspondiente.
 
-c).- Funciones extraordinarias en horario diferente al autorizado.
+###### Artículo 107.
 
-Sobre el ingreso bruto: 5%
+Los operadores del servicio público de transporte tendrán los siguientes derechos:
 
-B.- Teatro, variedades y otros similares por función sobre el ingreso bruto: del 15%
+I.- Ser tratado con consideración y respeto, tanto por los concesionarios como por los usuarios y autoridades de transporte;
 
-C.- CIRCO:
+II.- Se le expida la licencia de operador una vez cubiertos los requisitos previstos en esta Ley, en la Ley de Tránsito y su reglamento correspondiente; y
 
-Por función sobre el ingreso bruto:15%
+III.- Negar el servicio a personas que se encuentren bajo la influencia de bebidas embriagantes, sustancias tóxicas, drogas o enervantes; y
 
-D.- FESTIVALES TAURINOS:
+IV.- Las demás que se señalen en el reglamento respectivo.
 
-a).- Corridas de toros, sobre el ingreso bruto:15%
+### CAPITULO IV. DEL PROCEDIMIENTO PARA EL OTORGAMIENTO Y REVOCACION DE CONCESIONES PARA LA EXPLOTACION DE CENTRALES Y TERMINALES
 
-b).- Novilladas, sobre el ingreso bruto:15%
+###### Artículo 108.
 
-E.- LUCHA LIBRE Y BOX, SOBRE EL INGRESO BRUTO: 15%
+Los operadores del servicio público de transporte tendrán las siguientes obligaciones:
 
-F.- GALLOS DE PELEA:
+I.- Dar un trato correcto, respetuoso y con consideración a los usuarios del servicio público, particularmente a las personas con discapacidad y de la tercera edad;
 
-a).- Sobre la entrada bruta: 15%
+II.- Cumplir con los horarios, sitios, rutas, itinerarios y tarifas aprobadas;
 
-b).- Sobre apuestas liquidadas: 15%
+III.- En tratándose del sistema de automóvil de alquiler, deberá respetar la voluntad del usuario de hacer uso exclusivo de la unidad;
 
-G.- DEPORTIVOS, FUTBOL, BEISBOL Y OTROS ESPECTACULOS SIMILARES, SOBRE LA ENTRADA BRUTA: 15%
+IV.- Asistir a los cursos de capacitación, actualización y adiestramiento que imparta la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, con el fin de brindar un mejor servicio a los usuarios del servicio público de transporte;
 
-II.- DIVERSIONES:
+V.- Obedecer a los usuarios cuando éstos le soliciten el descenso de la unidad, siempre y cuando sea en zona autorizada;
 
-A.- BAILES:
+VI.- Iniciar la marcha de la unidad cuando el usuario se encuentre sentado o haya bajado totalmente y se encuentre separado de la misma y ésta ya tenga cerradas las puertas;
 
-a).- Cuando se celebren en lugares públicos o privados si se cobra por la entrada en cualquier forma de venta (boletos o de invitaciones, cuotas, donativos, cooperación, guardarropa, reservaciones de mesas, por piezas que se baile, por rifas, venta de objetos, etc.) 15% sobre los ingresos brutos que otorgan sin que el monto del impuesto sea inferior de $2,000.00.
+VII.- No transportar mayor número de personas que las que expresamente autoriza para cada servicio la presente Ley y sus reglamentos;
 
-b).- Cuando se celebre en lugares públicos o privados si no se cobra por la entrada y los gastos se sufraguen por los organizadores o por los asistentes del 15% sobre el total de los gastos, pero sin que el monto del impuesto sea inferior a $3,000.00.
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
 
-III.- APARATOS FONOELECTROMECANICOS:
+VIII.- Entregar al usuario el boleto una vez cubierta la tarifa correspondiente, con excepción del uso de tarjetas de prepago;
 
-A.- Por cada aparato, cuota anual $2,000.00
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
 
-B.- Aparatos de sonido:
+IX.- Aceptar el pago de la tarifa especial para estudiantes, personas con discapacidad y de la tercera edad, en tratándose del servicio público de transporte urbano y suburbano de pasaje, siempre que se identifiquen con la credencial correspondiente, expedida por la autoridad que designe el Ejecutivo Estatal para tal efecto;
 
-a).- De instalación fija cuota mensual de: $100.00 a $300.00
+X.- Mantener en buen estado y limpia la unidad con la que se presta el servicio público de transporte e informar oportunamente al concesionario las deficiencias de la misma;
 
-b).- Instalados en vehículos cuota mensual de: $100.00 a $300.00
+XI.- No fumar ni ingerir alimentos en el interior de la unidad durante la prestación del servicio público de transporte;
 
-c).- En ferias, verbenas, etc. cuota diaria de: $100.00 a $300.00
+XII.- No ingerir bebidas alcohólicas, ni hacer uso de drogas, enervantes o cualquier sustancia tóxica, ni estar bajo sus efectos durante el horario de servicio;
 
-IV.- SORTEOS O RIFAS.
+XIII.- Traer el uniforme de operador de los servicios públicos de transporte urbano, cuando se encuentre laborando;
 
-Sobre el ingreso bruto: 10%
+XIV.- Mantener el equipo de sonido de la unidad en un volumen moderado que no cause molestias a los usuarios del servicio público;
 
-V.- Otros espectáculos, diversiones o juegos no especificados sobre sus ingresos brutos: 20%
+XV.- No traer ayudante o boletero en el interior de la unidad;
 
-VI.- Loterías, instaladas en locales permanentes o puestos semifijos: diario de: $75.00 a $300.00
+XVI.- No cargar combustible con pasajeros a bordo de la unidad;
 
-VII.- Por la obtención de premios en sorteos, loterías o rifas, sobre el ingreso bruto o valor del premio obtenido: 6%
+XVII.- No abandonar la ruta antes del horario establecido, en tratándose del servicio de transporte público urbano y de automóviles de alquiler colectivo;
 
-###### ARTICULO 115.
+XVIII.- Portar la licencia que lo acredite como operador del servicio público de transporte y la identificación personal que para esos efectos expida la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, debiendo estar a la vista del público en las horas de servicio;
 
-Los contribuyentes del impuesto fijado en el Artículo anterior comprendidos en las fracciones I, inciso A subincisos a), lo pagarán dentro de los primeros quince días naturales del mes posterior; los comprendidos en las Fracciones I, incisos A, subincisos b) y c), B, C, D, E, F y G, II incisos A, Fracción III inciso B subincisos (sic) c), V y VI, lo cubrirán el día de la función; los comprendidos en la Fracción III incisos B subincisos a) y b) lo cubrirán en la primera quincena del respectivo mes; los comprendidos en la Fracción IV y VII, lo pagarán al inicio de la semana anterior a los sorteos o rifas; y los comprendidos en la Fracción III inciso A dentro de los primeros dos meses del año.
+XIX.- Inscribirse y mantener actualizada su inscripción en el Registro Público de Transporte del Estado;
 
-Las cuotas a que se refiere este Artículo se cubrirán: si es anual dentro de los dos primeros meses del año, si es mensual dentro de los primeros quince días naturales del mes.
+XX.- Colaborar con la labor de los inspectores de transporte;
 
-###### ARTICULO 116.
+XXI.- Acatar las disposiciones de la presente Ley y sus reglamentos, la Ley de Integración Social para las Personas con Discapacidad, en materia de transporte, la Ley de Tránsito del Estado, así como la Ley del Equilibrio Ecológico y la Protección al Ambiente para el Estado de Sonora y, en general, todas las disposiciones que para la optimización del servicio público de transporte determinen las autoridades de la materia; y
 
-Los explotadores de juegos con apuestas permitidas deberán retener el impuesto a cargo de los sujetos que obtengan los premios, sea en dinero o en especie, y enterarlo dentro de los cinco días naturales siguientes a la celebración del evento.
+XXII.- Las demás que se señalen en el reglamento respectivo.
 
-###### ARTICULO 117.
+###### Artículo 109.
 
-Los organizadores de sorteos, rifas o loterías al iniciar la distribución o venta de las participaciones, deberán presentar a la Tesorería Municipal una manifestación en la que comprobarán haber cumplido con los requisitos federales y locales.
+Al operador que incumpla con las obligaciones que se señalan en el artículo que antecede, se le aplicarán las sanciones previstas en el Capítulo II del Título Cuarto de esta Ley.
 
-###### ARTICULO 118.
+###### Artículo 110.
 
-Están exentos del pago:
+Los operadores del transporte público, en caso de provocaciones y agresiones de personas o grupos, que impidan la prestación del servicio público, deberán dar aviso de inmediato a las autoridades competentes o solicitar el auxilio de la fuerza pública.
 
-I.- La lotería nacional y pronósticos deportivos para la asistencia pública.
+###### Artículo 111.
 
-II.- Los que causen impuestos federales participables.
+Los operadores de vehículos destinados al transporte de carga, deberán verificar que en las unidades no se transporte mayor peso que el que corresponda a la capacidad y condiciones físicas y mecánicas de las mismas.
 
-Sin embargo deberán cumplir con las obligaciones de retención que éste u otros impuestos les impongan.
+###### Artículo 112.
 
-### CAPITULO UNICO. CONTRIBUCIONES DE COOPERACION PARA OBRAS PUBLICAS
+Los usuarios o pasajeros tienen derecho a:
 
-###### ARTICULO 119.
+I.- Hacer uso del servicio público de transporte, previo pago de la tarifa correspondiente;
 
-Es objeto del impuesto adicional la realización de pagos por concepto de impuestos y derechos municipales previstos en la Ley de Ingresos del Municipio.
+II.- Ocupar hasta el término de su viaje los asientos que les sean asignados, aun cuando los abandonen momentáneamente en las terminales o centrales, tratándose de servicio foráneo.
 
-###### ARTICULO 120.
+III.- En el caso de las personas con discapacidad y de la tercer edad, a que se les respeten los asientos destinados para ellos, en los términos de la Ley respectiva;
 
-Son sujetos del impuesto adicional quienes tengan a su cargo, directa o solidariamente, los pagos a que se refiere el Artículo anterior.
+IV.- Exigir a los operadores y concesionarios de las unidades, la observancia de lo dispuesto en la presente Ley y sus reglamentos;
 
-###### ARTICULO 121.
+V.- Que se le admitan en vehículos de servicio público de transporte urbano, suburbano y foráneo por concepto de equipaje y libre de porte por cada boleto:
 
-Es base del impuesto los pagos por concepto de impuestos y derechos previstos en la Ley de Ingresos del Municipio.
+a) Urbano, un máximo de 15 kilogramos; y
 
-###### ARTICULO 122.
+b) Suburbano y foráneo, un máximo de 35 kilogramos.
 
-La tasa general del impuesto será del 25% sobre la base que señala el Artículo 121 y su aplicación se hará según lo dispone el Artículo 123 de esta Ley.
+Por cada kilogramo que exceda, se pagará una cuota en base a la tarifa autorizada;
 
-###### ARTICULO 123.
+VI.- Exigir que se les otorgue un comprobante de etiqueta amparando el equipaje en rutas suburbanas y foráneas;
 
-El impuesto adicional referido a:
+VII.- Exigir, en caso de pérdida comprobada, tratándose de rutas suburbanas y foráneas, el pago del valor de su equipaje, de conformidad con lo que establece la Ley Federal del Consumidor;
 
-a).- Impuesto de traslado de dominio, así como de los derechos sobre fraccionamientos se aplicará como sigue:
+VIII.- A que el concesionario cumpla con el pago de los daños y cubra los gastos si se trata de lesiones físicas al usuarios, que resulten de algún percance o accidente en el que participe la unidad en el transcurso de la prestación del servicio público de transporte de pasajeros;
 
-15% para apoyo a la educación.
+IX.- Denunciar ante las autoridades del transporte las deficiencias o irregularidades en la prestación del servicio público de transporte, y hacer uso de los medios de defensa contenidos en esta Ley; y
 
-5% Pro-Universidad.
+X.- Que se respete la tarifa aprobada, a los estudiantes, personas de la tercera edad y discapacitados.
 
-5% para fondo de fomento a la industrialización.
+###### Artículo 113.
 
-a) (sic).- Los demás impuestos y derechos.
+El pasajero que no pueda presentar el recibo que le hubiere sido expedido al entregar su equipaje, sólo podrá retirarlo si justifica plenamente que es de su propiedad.
 
-25% General para el Municipio.
+###### Artículo 114.
 
-###### ARTICULO 124.
+Los usuarios o pasajeros del servicio público de transporte tendrán las siguientes obligaciones:
 
-El entero del impuesto se hará en el momento en que se realicen los pagos objeto del gravamen.
+I.- Abstenerse de utilizar el servicio público de transporte cuando se encontraren en notorio estado de ebriedad o bajo la influencia de estupefacientes o psicotrópicos;
 
-###### ARTICULO 125.
+II.- Abstenerse de ejecutar o hacer ejecutar a bordo de la unidad actos que atenten contra la tranquilidad, comodidad, seguridad o integridad de los usuarios o que contravengan disposiciones legales o reglamentarias;
 
-Este impuesto no será objeto de reducción, su aplicación se hará sobre la base del crédito principal.
+III.- Solicitar el descenso de las unidades de transporte público para subir o bajar de las mismas con la anticipación debida en los lugares autorizados;
+
+IV.- Abstenerse de ejecutar o hacer ejecutar actos contra el buen estado las unidades de transporte público y los cobertizos que se establezcan en los lugares de ascenso y descenso de pasaje;
+
+V.- Ceder cuando así se le solicite los asientos destinados a las personas con discapacidad o de la tercera edad;
+
+VI.- No fumar dentro de las unidades de transporte público; y
+
+VII.- Las demás señaladas en la presente Ley y sus Reglamentos.
+
+En los casos a que se refieren las fracciones I, II, IV y VI, el conductor podrá auxiliarse de las corporaciones policiales de la localidad para su cumplimiento.
+
+###### Artículo 115.
+
+Para los fines del contrato de transportación de mercancías que celebren los concesionarios de transporte y el usuario del servicio, se designará a los primeros, el porteador y al segundo, el remitente.
+
+###### Artículo 116.
+
+La carta de porte deberá ajustarse al modelo que apruebe la Secretaría de Infraestructura Urbana y Ecología, quien asignará la clave correspondiente para su identificación.
+
+###### Artículo 117.
+
+Los concesionarios de transporte público de pasaje suburbano y foráneo, podrán prestar el servicio de paquetería y encargos, previa autorización en la concesión, por la Secretaría de Infraestructura Urbana y Ecología.
+
+###### Artículo 118.
+
+El porteador podrá exigir el pago por adelantado de los fletes cuando el valor comercial de los artículos, no garantice el importe del servicio; igual procedimiento se observará tratándose de mercancías de fácil descomposición, de animales vivos, de la carga que deba dejarse en tránsito en la carretera, en lugares donde el porteador no tenga oficina.
+
+Cuando el transporte se hubiere concertado como flete por cobrar, la entrega de la mercancía se hará contra el pago del flete, pudiendo el porteador retenerla mientras no se satisfaga éste.
+
+### CAPITULO V. DE LOS DERECHOS Y OBLIGACIONES DE LOS CONCESIONARIOS Y PERMISIONARIOS
+
+###### Artículo 119.
+
+El remitente deberá proveer al porteador de todos aquellos documentos que exijan las leyes y los reglamentos para efectuar el transporte. En caso de no cumplirse con estos requisitos el porteador está facultado a rehusar el servicio.
+
+###### Artículo 120.
+
+Las personas físicas o morales que fueren propietarias de vehículos de transporte de personas o de cosas y decidieren destinarlos para su exclusivo servicio, deberán obtener permiso particular o privado de transporte de la Secretaría de Infraestructura Urbana y Ecología.
+
+Se exceptúan de este requisito a las personas físicas o morales, que utilicen vehículos cuya capacidad de carga no exceda de una tonelada.
+
+En el caso de los productores agrícolas que mediante el arrendamiento o cualquier otra figura jurídica usufructúe la tierra propiedad de terceros, para transportar la cosecha de sus productos deberán contratar el servicio público concesionado de transporte de carga.
+
+###### Artículo 121.
+
+La solicitud de servicio particular o privado de transporte deberá contener los siguientes requisitos:
+
+I.- Nombre y dirección del solicitante;
+
+II.- Actividad a que se dedica;
+
+III.- Personas, mercancías, materiales, maquinaria, materia prima y procesada, animales y otros, que en razón de su actividad requieran transportar; y
+
+IV.- Características del o los vehículos que se utilizarán.
+
+###### Artículo 122.
+
+Los solicitantes deberán acreditar:
+
+I.- La propiedad del o los vehículos, y que éstos forman parte del activo fijo de la empresa, de sus correspondientes valores; y
+
+II.- Que se encuentra al corriente en el cumplimiento de sus obligaciones fiscales en el Estado.
+
+###### Artículo 123.
+
+Los productores del sector agropecuario deberán acreditar que los vehículos que destinen para su exclusivo servicio formen parte del activo fijo de sus empresas; pero deberán acreditar fehacientemente su actividad y precisar el lugar de explotación agrícola o pecuaria.
+
+###### Artículo 124.
+
+A las empresas constructoras y a las de compra y venta de materiales para la construcción, se les autorizará el servicio particular o privado de transporte cuando acrediten fehacientemente los requisitos señalados en los artículos 121 y 122 de esta Ley, y sea evidente la insuficiencia del servicio público de transporte de carga regular, específicamente en el tipo de productos que se requiera transportar.
+
+###### Artículo 125.
+
+Cuando se trate de instituciones educativas, los vehículos destinados para la transportación deberán reunir, además de las exigencias contempladas por la Ley de Tránsito del Estado, los siguientes requisitos:
+
+I.- Pintar de color amarillo y negro en el exterior;
+
+II.- En la parte delantera y posterior, leyenda de transporte escolar;
+
+III.- En los costados, leyenda de la institución a la que sirve; y
+
+IV.- Vida útil de acuerdo al artículo 48 del presente ordenamiento.
 
 ## TITULO TERCERO. DE LAS CONTRIBUCIONES ESPECIALES
 
-### CAPITULO PRIMERO. POR PERMISOS PARA EL FUNCIONAMIENTO DE APARATOS FONOELECTROMECANICOS O ELECTRONICOS
+### CAPITULO VI. DE LOS DERECHOS Y OBLIGACIONES DE LOS OPERADORES DEL SERVICIO PUBLICO DE TRANSPORTE
 
-###### ARTICULO 126.
+###### Artículo 126.
 
-Los propietarios o poseedores de predios, en su caso, pagarán las cuotas de cooperación que establece este título, por la ejecución de las obras públicas de urbanización siguientes:
+Los permisos estarán en vigor mientras no desaparezcan las condiciones y requisitos que se exigen para la expedición de los mismos. La destrucción o deterioro grave, así como el arrendamiento de los vehículos destinados a este servicio, darán lugar a la revocación de los permisos.
 
-I.- Tubería de distribución de agua potable;
+En caso de enajenación de los vehículos, deberán notificarse las altas y bajas de los mismos, a la Secretaría de Infraestructura Urbana y Ecología, con el fin de que el permiso continúe vigente, haciéndose la modificación correspondiente.
 
-II.- Drenaje sanitario;
+###### Artículo 127.
 
-III.- Gas;
+Los permisos particulares o privados se otorgarán previo el pago de los derechos que al efecto establezcan las leyes fiscales.
 
-IV.- Pavimento o rehabilitación de pavimento;
+###### Artículo 128.
 
-V.- Guarniciones;
-
-VI.- Banquetas;
-
-VII.- Alumbrado público;
-
-VIII.- Tomas domiciliarias de servicio de agua potable; drenaje sanitario y de gas.
-
-Para que causen las cuotas de cooperación indicadas, será necesario que los predios se encuentren en las siguientes circunstancias:
-
-I.- Si son exteriores, tener frente a la calle donde se ejecuten las obras;
-
-II.- Sin son interiores, tener acceso mediante servidumbre de paso a la calle donde se ejecuten las obras.
-
-###### ARTICULO 127.
-
-Sujetos: están obligados a cubrir cuotas de cooperación:
-
-I.- Los propietarios de predios beneficiados;
-
-II.- Los poseedores de predios beneficiados, cuando no exista propietario;
-
-III.- Cuando la propiedad o la posesión estén en litigio, quien resulte propietario.
-
-Cuando se trate de edificios sujetos al régimen de propiedad en condominio, divididos en pisos, departamentos, viviendas o locales, se considerará que la totalidad del predio se beneficia con la obra de construcción o reconstrucción; la parte de la construcción a cargo de cada propietario se determinará dividiendo el monto que corresponde a todo el inmueble, entre la superficie cubierta de construcción que resulte de sumar la de todos los pisos, exceptuando la que se destine a servicios de uso común, multiplicando ese cociente por el número de metros que corresponda al piso, departamento, vivienda o local de que se trate.
-
-###### ARTICULO 128.
-
-Las cuotas de cooperación para obras públicas conforme a las siguientes reglas:
-
-A.- Por metro lineal de frente cuando se trate de las siguientes:
-
-OBRAS:
-
-a).- Instalación de tubería de distribución de agua potable;
-
-b).- Instalación de tubería para drenaje sanitario;
-
-c).- Instalación de tubería para gas;
-
-d).- Construcción de guarnición de concreto hidráulico;
-
-e).- Instalación de Alumbrado Público.
-
-Cuando se trate de predios ubicados en esquinas, sólo se cobrará en proporción a los metros lineales del frente mayor tratándose de las obras requeridas en los incisos a), b), y c).
-
-B.- Por metros cuadrados, en función del frente o frentes de los predios beneficiados, cuando se trate de las siguientes obras:
-
-a).- Pavimentos o rehabilitación de pavimentos;
-
-b).- Construcción o reconstrucción de banquetas y guarniciones.
-
-C.- Por unidad, cuando se trate de las siguientes obras:
-
-a).- Tomas domiciliarias de agua;
-
-b).- Tomas domiciliarias de drenaje sanitario;
-
-c).- Tomas domiciliarias de gas.
-
-El monto de las cuotas, en cada caso concreto deben pagarse, distribuyendo el costo de la obra y estará sujeto a las reglamentaciones respectivas. Para los efectos de este título cuando se trate de obras de pavimentación o repavimentación, su duración mínima será de diez años, y en consecuencia, no se podrá acordar un nuevo cobro por el mismo concepto antes de este plazo.
-
-Las contribuciones deberán ser pagadas al inicio de la obra o dentro del plazo en que se realice.
-
-La Tesorería Municipal, formulará y notificará oportunamente al contribuyente la liquidación de las contribuciones de cooperación que resulten a su cargo.
-
-D.- En los casos de fraccionamientos, condominios, conjuntos habitacionales, divisiones y subdivisiones, la cuota de cooperación será de: $3,000.00 por cada lote, condominio, departamento, división y subdivisión que acuerde la autoridad municipal encargada de Fraccionamientos.
+El Registro Público de Transporte del Estado, a cargo de la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, tiene por objeto controlar y ordenar el servicio público de transporte mediante la inscripción de los actos relacionados con la prestación de dicho servicio, en los términos que se señalen en esta Ley y en el reglamento respectivo.
 
 ## TITULO CUARTO. DERECHOS
 
-### CAPITULO SEGUNDO. POR PERMISOS PARA EL FUNCIONAMIENTO DE JUEGOS
+### CAPITULO VII. DE LOS DERECHOS Y OBLIGACIONES DE LOS USUARIOS DEL SERVICIO PUBLICO DE TRANSPORTE
 
-###### ARTICULO 129.
+###### Artículo 129.
 
-Causa este derecho el uso, con fines lucrativos, de aparatos mecánicos, electromecánicos y electrónicos. Se considera que tienen esos fines cuando los aparatos se tengan en establecimientos comerciales para dar un servicio adicional a la clientela, para ser mas atractiva la prestación de sus servicios o la venta de sus mercancías.
+El Registro, para el adecuado cumplimiento de su objetivo, se dividirá en las siguientes secciones:
 
-###### ARTICULO 130.
+> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 2013)</small>
 
-Los sujetos de este impuesto estarán obligados a empadronarse en la Tesorería Municipal del H. Ayuntamiento, utilizando las formas autorizadas por la misma, dentro de los diez días hábiles siguientes a aquel en que se inicie el uso de los aparatos contemplados en este capítulo. El empadronamiento deberá hacerse por cada uno de los aparatos que requieran del permiso establecido en este capítulo.
+I.- De los concesionarios y las empresas o asociaciones que éstos formen en términos de esta Ley y permisionarios;
 
-###### ARTICULO 131.
+II.- De las concesiones y permisos eventuales;
 
-Los movimientos que se hagan en estos aparatos como bajas, altas o cambios de domicilio deberán ser declaradas ante la Tesorería Municipal, dentro de los diez días hábiles siguientes a aquel en que ocurra el hecho, en forma individual por cada aparato y en las formas autorizadas por la Tesorería Municipal.
+III.- De vehículos y demás medios afectos al servicio público; y
 
-###### ARTICULO 132.
+IV.- De los operadores.
 
-Los permisos expedidos para el funcionamiento de cada aparato, causarán derechos de acuerdo con la siguiente tarifa mensual:
+En el Registro se inscribirán los actos, documentos y demás datos relativos a las secciones que lo integran.
 
-Aparatos, como radios, tocadiscos, tocacintas, receptores o reproductores, televisores y similares, usados con fines de lucro o que se utilicen para propaganda o publicidad comercial: $500.00
+###### Artículo 130.
 
-Sinfonolas: 1,500.00
+Los concesionarios y permisionarios deberán registrar los vehículos que destinen a la prestación del servicio de transporte de que se trate.
 
-Aparatos para marcar el peso: 300.00
+Los operadores deberán inscribirse en el Registro Público de Transporte del Estado, anexando copia de su licencia de operador, de la constancia con la que acredite haber aprobado los cursos de capacitación, actualización y adiestramiento, así como una constancia signada por el concesionario para el cual presta sus servicios.
 
-Arrendamiento de:
+###### Artículo 131.
 
-Aparatos receptores o reproductores tocadiscos, tocacintas, televisores y similares, por permiso mensual: 500.00
+Ningún vehículo del servicio público de transporte podrá circular en las vías públicas si no se encuentra inscrito en el Registro Público de Transporte del Estado. Las autoridades estatales y municipales competentes están facultadas para impedir la circulación de los vehículos en mención.
 
-Aparatos fonoelectromecánicos: 300.00
+###### Artículo 132.
 
-Aparatos mecánicos: 200.00
+Cualquier persona podrá solicitar constancias e información contenidas en el Registro Público de Transporte del Estado, previo pago de los derechos correspondientes.
 
-Aparatos para juegos electromecánicos: 300.00
+###### Artículo 133.
 
-Aparatos para juegos electrónicos: 500.00
+El objeto del presente capítulo consiste en atender y comprobar el exacto cumplimiento de las disposiciones emanadas de la presente Ley y sus reglamentos respectivos, mediante la ejecución de medidas y la aplicación de sanciones que aseguren la adecuada prestación del servicio público y privado de transporte.
 
-Aparatos similares no especificados: 300.00.
+### CAPITULO VIII. DE LA CARTA PORTE Y DEL SERVICIO DE PAQUETERIA
 
-###### ARTICULO 133.
+###### Artículo 134.
 
-La Tesorería Municipal, sólo otorgará el permiso correspondiente siempre que se garantice el crédito fiscal correspondiente a seis meses de funcionamiento, bien sea mediante depósito en efectivo, billete de depósito de Nacional Financiera o entrega de una fianza expedida por Compañía autorizada, con duración mínima de un año calendario. En este último caso la fianza sólo podrá ser cancelada previo aviso escrito de la Tesorería Municipal.
+Las Delegaciones Regionales de Transporte, así como los ayuntamientos y la Dependencia que hayan designado, deberán contar con un cuerpo de inspectores que tendrá a su cargo la vigilancia y (sic) inspección del debido cumplimiento de las disposiciones de la presente Ley y sus reglamentos.
 
-### CAPITULO TERCERO. POR MANTENIMIENTO DE DRENAJE
+> <small>(REFORMADO, B.O. 25 DE MARZO DE 2011)</small>
 
-###### ARTICULO 134.
+###### Artículo 135.
 
-Son causantes de este derechos las personas físicas o morales, propietarios o poseedores de juegos permitidos.
+En materia de inspección y vigilancia, concurrirán las Delegaciones Regionales y los Ayuntamientos en el servicio público y privado de transporte, los ayuntamientos, serán competentes dentro de su ámbito territorial. Para el servicio público de transporte en su modalidad de pasaje urbano concurrirán las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano, cuando existan.
 
-###### ARTICULO 135.
+###### Artículo 136.
 
-Para obtener el permiso del funcionamiento de juegos permitidos, los propietarios de los mismos deberá (sic) liquidar lo siguiente:
+Se consideran labores de inspección y vigilancia, mismas que serán ejercidas conforme a la competencia determinada en el artículo anterior, las siguientes:
 
-a).- Iniciación de operaciones de cada aparato de: $1,000.00 a $3,000.00
+I.- Vigilar el cumplimiento y aplicación de horarios, itinerarios, sitios, rutas, tarifas y demás disposiciones que señalen el título concesión, esta Ley y su reglamento;
 
-b).- Por revalidación del permiso anual de cada aparato: 500.00 a $2,000.00
+II.- Inspeccionar las condiciones de seguridad, comodidad e higiene de las terminales y vehículos destinados a la prestación del servicio público de transporte;
 
-c).- Por reposición del permiso en caso de extravío, por cada ocasión: 500.00.
+III.- Vigilar e informar a la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, sobre los (sic) cesiones y ventas de concesiones o permisos del servicio público o privado de transporte, que se originen sin autorización de la misma;
 
-###### ARTICULO 136.
+IV.- Vigilar que los concesionarios no permitan la prestación del servicio público de transporte por medio de terceros, aprovechando su propia concesión;
 
-Los causantes contemplados en el Artículo 197, deberán liquidar los derechos ahí establecidos dentro de los primeros 15 días calendario de cada año, en los casos comprendidos en el inciso "a", y en el caso del inciso "b", liquidarán los derechos al ser autorizado el funcionamiento de sus aparatos y en el caso del inciso "c", liquidarán sus derechos al solicitar la reposición respectiva.
+V.- Inspeccionar que los concesionarios mantengan los documentos de la concesión vigentes y al corriente del pago de los derechos respectivos;
 
-###### ARTICULO 137.
+VI.- Vigilar que los titulares o usufructuarios de las concesiones observen los criterios y normas ecológicas aplicables a los vehículos destinados a la prestación del servicio público de transporte;
 
-Los causantes comprendidos en este capítulo, deberán registrarse en el padrón municipal dentro de los diez días hábiles siguientes al de iniciación de sus operaciones, utilizando para tal efecto las formas aprobadas por la Tesorería Municipal.
+VII.- Vigilar que los operadores del servicio público de transporte se encuentren en condiciones físicas y psicológicas aptas para la operación de las unidades;
 
-### CAPITULO CUARTO. POR SERVICIO DE RECOLECCION DE BASURA
+VIII.- Vigilar que los concesionarios inicien la prestación del servicio público en la fecha autorizada en la concesión o, en su caso, en la prorroga autorizada conforme a esta Ley;
 
-###### ARTICULO 138.
+IX.- Verificar que los titulares de las concesiones cuenten con un seguro vigente de viajero y de daños a terceros;
 
-Son contribuyentes de este derecho los propietarios o poseedores de predios urbanos que tengan albañales conectados al sistema municipal de drenaje o con descarga a barrancas naturales dentro del área territorial del Municipio.
+X.- Requerir a concesionarios y permisionarios la documentación relativa a su concesión o permiso;
 
-###### ARTICULO 139.
+XI.- Solicitar, cuando sea procedente, a los operadores de vehículos afectos a la prestación del servicio público de transporte, la presentación de los documentos que autoricen al vehículo para prestar el servicio público, así como el de su operación;
 
-Los derechos por este servicio público se causarán de acuerdo con la siguiente tarifa:
+XII.- Requerir la documentación que acredite haber aprobado la revisión mecánica y de emisión de gases no contaminantes de los vehículos destinados a la prestación del servicio público de transporte; y
 
-a).- Por metro lineal de frente a la vía pública o por el derecho de paso en los casos de predios interiores no fraccionados, por cada nivel de construcción: $10.00.
+XIII.- Las demás que señale esta Ley y sus Reglamentos.
 
-b).- En los casos de condominios horizontales se considerará como frente a la vía pública, los frentes de cada unidad habitacional a las vías de acceso comunes de acuerdo con la subdivisión aprobada, por cada nivel de construcción: $10.00.
+###### Artículo 137.
 
-c).- En los casos de condominios verticales, se considerará como frente el total de la colindancia del predio a la vía pública y se cubrirá el derecho por cada nivel de construcción a razón de: $10.00.
+Los concesionarios, permisionarios, así como los operadores de los vehículos afectos al servicio público de transporte, deberán permitir a las autoridades de transporte correspondiente, el acceso a las instalaciones, terminales y vehículos, asimismo deberán proporcionar los informes, documentos y demás datos necesarios para el cumplimiento de sus atribuciones.
 
-###### ARTICULO 140.
+> <small>(REFORMADO, B.O. 25 DE MARZO DE 2011)</small>
 
-Los derechos consignados en este capítulo, serán cubiertos en forma bimestral, dentro de los primeros quince días de cada mes, en los meses de enero, marzo, mayo, julio, septiembre y noviembre.
+### CAPITULO IX. DEL SERVICIO PARTICULAR O PRIVADO DE TRANSPORTE
 
-### CAPITULO QUINTO. POR MANTENIMIENTO DE ALUMBRADO PUBLICO
+###### Artículo 138.
 
-###### ARTICULO 141.
+Las Delegaciones Regionales de Transporte, los ayuntamientos y las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano, a través de sus cuerpos de inspectores, debidamente acreditado, podrán, en cualquier momento y las veces que sea necesario, realizar visitas de inspección y verificación a los concesionarios y permisionarios, a fin de dar cumplimiento a lo prescrito por el artículo 133 de esta Ley.
 
-Son contribuyentes de este derecho, las personas físicas o morales, propietarios o poseedores de predios urbanos del Municipio, que deban recibir el servicio de recolección de basura, sin importar la frecuencia del mismo.
+###### Artículo 139.
 
-###### ARTICULO 142.
+Las Delegaciones Regionales de Transporte y los ayuntamientos, a través de sus cuerpos de inspectores, podrán requerir a los prestadores del servicio público y privado del transporte en sus domicilios, establecimientos, bases de servicio, terminales, centrales o en el lugar donde se encuentren, para que exhiban toda documentación relacionada con la concesión o permiso otorgado, así como datos e informes, bienes y demás elementos necesarios para el cumplimento de sus atribuciones contempladas en la presente Ley y sus reglamentos.
 
-Por el servicio de recolección de basura y aseo público prestados por el H. Ayuntamiento, se causarán derechos conforme a la siguiente tarifa:
+###### Artículo 140.
 
-a).- Predios construidos, por cada metro lineal de frente a la vía pública bimestralmente: $10.00.
+En caso de que manifiesten desobediencia o negativa a un requerimiento de la autoridad de transporte, los concesionarios o permisionarios del sistema público y privado de transporte se harán acreedores a las sanciones señaladas en la presente Título de esta Ley.
 
-b).- Predios baldíos sin barda o solo cercados, bimestralmente por cada metro lineal de derechos: $12.00.
+### CAPITULO X. DEL REGISTRO PUBLICO DE TRANSPORTE DEL ESTADO
 
-c).- Las Empresas o establecimientos comerciales que requieran servicio especial para el desalojo de su basura, pagarán por cada tonelada (o su parte proporcional): $1,500.00.
+###### Artículo 141.
 
-d).- Las distribuidoras, comisionistas, y otras empresas cuyos productos o artículos generen basura o desperdicio diariamente de: $100.00 a $500.00.
+Todo acto de visita de inspección y vigilancia que realicen los inspectores a los concesionarios y permisionarios del servicio público y privado de transporte se sujetará a las siguientes formalidades:
 
-e).- Los usuarios que tiren directamente su basura en el relleno sanitario; pagarán el 50% de las cuotas fijadas.
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
 
-###### ARTICULO 143.
+I.- Los actos de inspecciones, visitas y vigilancia deberán cumplirse en el lugar o lugares indicados en la orden expedida por la autoridad competente, cuyo objeto será el estipulado en la misma, Cuando existan centros de monitoreo satelital de las unidades de transporte urbano, éstos se constituirán en lugares permanentes de inspección y vigilancia, deberá tener acceso permanente un representante de los concesionarios y podrá utilizarse la evidencia electrónica para el establecimiento de sanciones;
 
-Serán consideradas como vía pública, las vías de acceso a los predios, los pagos de este derecho se harán conforme a lo dispuesto en el Artículo 140 de esta Ley.
+II.- Si las personas físicas o los representantes legales de las morales concesionarias o permisionarias no se encontraran presentes en el lugar indicado para ello, se dejará citatorio a la persona que se encuentre, para que la persona que se pretende visitar espere a la hora determinada del día siguiente, con el objeto de efectuar la orden de visita que se trate y en caso de inasistencia, se realizará con quien se encuentre en ese lugar;
 
-### CAPITULO SEXTO. POR SERVICIO DE PANTEONES
+III.- El o los inspectores del transporte que se presenten deberán identificarse con credencial oficial expedida por la Autoridad de Transporte competente ante la o las personas con quien se actúa en la diligencia, haciéndolo constar para ello en el acta respectiva;
 
-###### ARTICULO 144.
+IV.- A las personas que se les verifique deberán permitir el acceso a los inspectores del transporte al lugar objeto de la diligencia, así como proporcionar los datos e informes requeridos, en términos de la presente Ley y sus reglamentos;
 
-Son contribuyentes de este derecho las personas físicas o morales propietarias o poseedoras de predios urbanos ubicados en el área territorial del Municipio, sin importar que el alumbrado público, se encuentre o no ubicado precisamente frente a su predio, ya que el rendimiento de esta cuota será aplicada al mantenimiento del servicio que se presta en todo el Municipio.
+V.- Para el desarrollo de la visita, el requerido designará dos testigos con identificación oficial para que acredite plena identificación, y a falta de estos, el inspector lo hará en su rebeldía, haciendo constar tal situación en la acta respectiva;
 
-###### ARTICULO 145.
+VI.- El o los inspectores harán entrega de una copia del acta levantada, donde se asienten los hechos derivados de la actuación; y
 
-El servicio de mantenimiento de alumbrado público se causará en razón al tipo de lámparas que existan en cada caso por metro lineal de frente a la vía pública, de acuerdo a la siguiente cuota bimestral:
+VII.- No afectará la validez de lo actuado en la diligencia, la negativa de firmar el acta por los concesionarios, permisionarios, o persona con quien se haya realizado la diligencia, así como los testigos que presenciaron las actuaciones, lo que deberá hacerse constar en la misma. El acta es válida con la firma de uno solo de los inspectores, aún cuando actúen dos o más.
 
-Lámpara de luz incandescente: $6.00.
+En el acto de la diligencia, los requeridos podrán formular las observaciones que consideren procedentes y aportar las pruebas necesarias; o dentro del término de cinco días hábiles siguientes a la fecha de la conclusión de la diligencia que corresponda.
 
-Lámpara de vapor de sodio: 8.00.
+###### Artículo 142.
 
-Lámpara de vapor de mercurio: 10.00.
+El acta que al efecto se levante deberá estar circunstanciada y por ello deberá contener:
 
-###### ARTICULO 146.
+I.- Nombre, cargo de quien emitió la orden de inspección o verificación, el número de oficio en que se contiene y firma autógrafa del servidor público que emite la orden de visita;
 
-El pago de derechos establecidos en este capítulo se harán conforme a lo dispuesto en el Artículo 140 de esta Ley.
+II.- El nombre, denominación o razón social del sujeto de la diligencia, en su caso, con quien se entendió la misma;
 
-### CAPITULO SEPTIMO. POR SERVICIOS DEL REGISTRO CIVIL
+III.- El lugar, hora, día, mes, año, en que se haya realizado la actuación;
 
-###### ARTICULO 147.
+IV.- Nombre y domicilio de las personas que hayan testificado los hechos de las actuaciones;
 
-Los servicios prestados en los panteones de propiedad municipal causarán derechos de acuerdo con las siguientes tarifas:
+V.- El nombre del o los Inspectores que practicaron la diligencia;
 
-A.- INHUMACIONES:
+VI.- El objeto de la diligencia;
 
-a).- Por cada cadáver en fosa rentada por 7 años.
+VII.- Los hechos u omisiones que se hubieren conocido por los inspectores;
 
-Primera clase de $2,000.00 a $10,000.00.
+VIII.- En su caso, las expresiones de la o las persona que se refiere (sic) en la parte final del artículo anterior de esta Ley; y
 
-Segunda clase de 1,500.00 a 7,500.00.
+IX.- Un apartado de lectura y cierre del acta en la que se haga constar que se dio lectura y se explicó el alcance y contenido del acta a los sujetos de la diligencia; además de que los concesionarios o permisionarios disponen de cinco días hábiles para formular observaciones y presentar pruebas relacionadas con el contenido de la diligencia de que se trate.
 
-Tercera clase de 1,000.00 a 5,000.00.
+> <small>(REFORMADO, B.O. 25 DE MARZO DE 2011)</small>
 
-Cuarta clase de 500.00 a 2,500.00.
+###### Artículo 143.
 
-Indigentes: Exentos.
+Cuando los inspectores del transporte, por motivo del ejercicio de sus atribuciones, tengan conocimiento de una infracción a las disposiciones de la presente Ley o sus reglamentos, asentarán dichas circunstancias en las actas respectivas para el conocimiento de la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, o en su caso a la autoridad municipal competente, o de la Comisión Municipal Reguladora del Transporte Colectivo Urbano correspondiente, a fin de que, según corresponda, se dicten las medidas y apliquen las sanciones establecidas en esta Ley.
 
-b).- Por cada cadáver en fosa a perpetuidad.
+### CAPITULO I. DE LA INSPECCION Y VIGILANCIA
 
-Primera clase de $5,000.00 a $20,000.00.
+###### Artículo 144.
 
-Segunda clase de 4,000.00 a 15,000.00.
+Los inspectores del transporte tienen estrictamente prohibido recibir alguna gratificación o dádivas con el propósito de omitir o alterar la información de las actuaciones de las diligencias; en caso de comprobarse una situación de este tipo, serán destituidos del encargo, quedando sujetos a las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios de Sonora.
 
-Tercera clase de 3,000.00 a 10,000.00.
+###### Artículo 145.
 
-Cuarta clase de 2,000.00 a 7,500.00.
+Las Delegaciones Regionales y los ayuntamientos para dar exacto cumplimiento a las disposiciones de la presente Ley y sus Reglamentos, podrán solicitar el auxilio de otras autoridades competentes a fin de obtener cualquier información o documentos relacionados con las visitas de inspección.
 
-c).- Refrendos.
+###### Artículo 146.
 
-Por derechos de refrendos se pagarán cada 7 años la cuota vigente al momento del refrendo en la categoría correspondiente.
+Se consideran infracciones a la presente Ley, las siguientes:
 
-La falta de pago oportuno de un refrendo, extingue el derecho del titular, los refrendos se entienden por inhumaciones de un sólo cadáver.
+A.- Que pueden ser cometidas por los Concesionarios o Permisionarios:
 
-B.- EXHUMACIONES:
+I.- Prestar el servicio público de transporte con concesión o permiso que no estén inscritos en el Registro Público de Transporte del Estado;
 
-1.- Exhumaciones transcurrido el término de la Ley para efectuar alguna otra inhumación en fosa o para el traslado de los restos a algún otro sitio del mismo panteón. $1,000.00 a $3,000.00.
+II.- Continuar ejerciendo los derechos derivados de una concesión o permiso habiendo sido éstos revocados;
 
-2.- Exhumación y reinhumación de un cadáver en la misma fosa a pedimento de parte y previa orden judicial: $500.00 a $2,000.00.
+III.- Dañar, destruir u obstruir las vías públicas del Estado o de los municipios;
 
-3.- Por orden judicial dictada de oficio. Exenta.
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
 
-a).- Traslado de cadáveres o restos:
+IV.- Establecer rutas, sitios, itinerarios y horarios diversos a los autorizados en la concesión o por la Comisión Municipal Reguladora del Transporte Colectivo Urbano; asimismo, establecer tarifas diversas a las autorizadas conforme a lo dispuesto en los artículo 88, 89 y 90 de esta Ley;
 
-1.- Autorización del traslado de un cadáver fuera del Estado. $2,000.00 a $5,000.00.
+V.- No dar o no exigir a su personal, el trato correcto, respetuoso y considerado a los usuarios del servicio público, particularmente a las personas con discapacidad y de la tercera edad;
 
-2.- Autorización del traslado de un cadáver o restos a cementerios del Municipio. $500.00 a $2,000.00.
+VI.- No cumplir oportunamente con el pago de los derechos correspondientes por el otorgamiento de la concesión, permisos eventuales y su revalidación anual;
 
-3.- Autorización del traslado de un cadáver o restos dentro del Estado. $2,000.00 a $4,000.00
+VII.- Que las unidades destinadas a la prestación del servicio público de transporte, no cumplan los requisitos y condiciones señaladas en la presente Ley y sus Reglamentos;
 
-4.- Derechos de internación de un cadáver al Municipio. $500.00 a $2,000.00.
+VIII.- No prestar servicios de emergencia, cuando así le sea requerido por la autoridad competente de transporte, en los casos de catástrofes y calamidades que afecten poblaciones situadas dentro de las localidades o regiones donde los concesionarios o permisionarios presten sus servicios;
 
-b).- Nichos u osarios:
+IX.- No exhibir en lugar visible y en forma permanente la tarifa autorizada, en los vehículos, sitios, terminales y centrales, en los términos que se señalen en el reglamento respectivo;
 
-1.- La adquisición a perpetuidad de un nicho para la conservación de los restos $1,000.00 a $3,000.00.
+X.- Cuando se trate del servicio de transporte público de pasaje, no contratar y mantener vigente el seguro de viajero y de daños a terceros;
 
-2.- Conservación de los restos en un osario común $200.00 a $500.00.
+XI.- No cumplir con los programas de capacitación, actualización y adiestramiento para los prestadores del servicio público de transporte, a fin de brindar un mejor servicio;
 
-C) SERVICIOS DIVERSOS:
+XII.- Tratándose del transporte urbano, suburbano y foráneo, el no adecuar sus unidades con cuando menos dos asientos y demás condiciones necesarias para personas con discapacidad y de la tercera edad, en los términos de la Ley de Integración Social para Personas con Discapacidad del Estado de Sonora;
 
-1.- Inhumaciones después de las 18:00 horas, además de la tarifa señalada $2,000.00 a $4,000.00.
+XIII.- Permitir que el operador abastezca la unidad del servicio público de transporte de combustible con pasaje a bordo;
 
-2.- Uso de capilla ardiente: Exento.
+XIV.- Hacer o permitir que en los lugares señalados para el sitio se hagan reparaciones mayores a los vehículos;
 
-3.- Uso del depósito de cadáveres por 24 horas o fracción: $200.00 a $500.00.
+XV.- Establecer el sitio fuera del lugar asignado en la concesión;
 
-D) OTROS SERVICIOS:
+XVI.- No fijar en un lugar visible del sitio, su identificación oficial;
 
-1.- Limpieza y cuidado de monumentos sepulcrales por año o fracción:
+XVII.- No conservar limpia el área designada para el sitio y las aceras correspondientes;
 
-Primera clase: $1,000.00 a $3,000.00.
+XVIII.- No cubrir los derechos que al efecto establezcan los ordenamientos municipales respectivos, por concepto de estacionamiento exclusivo;
 
-Segunda clase: 500.00 a 2,000.00.
+XIX.- Fijar o permitir publicidad de productos comerciales o cualquier clase de propaganda en los vehículos destinados a la prestación el servicio público de transporte, sin autorización de la Secretaría de Infraestructura Urbana y Ecología;
 
-Tercera clase: 300.00 a 1,500.00.
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
 
-2.- Por autorización de construcción de monumentos de:
+XX.- No aceptar el pago de la tarifa especial para estudiantes, personas con discapacidad y adultos mayores, en tratándose del servicio público de transporte urbano y suburbano de pasaje, cuando se hayan identificado con la credencial correspondiente, expedida por la autoridad que designe el Ejecutivo Estatal para tal efecto; y
 
-a).- Tabique o cemento $1,000.00 a $3,000.00.
+XXI.- Las demás previstas en la presente Ley.
 
-b).- Granito 2,000.00 a 4,000.00.
+B.- Que pueden ser cometidas por los Operadores del Transporte Público:
 
-c).- Mármol 5,000.00 a 8,000.00.
+I.- No dar un trato correcto, respetuoso y considerado a los usuarios del servicio público, particularmente a las personas con discapacidad y de la tercera edad;
 
-d).- De material no especificado 8,500.00 a 10,000.00.
+II.- No cumplir con los horarios, sitios, rutas, itinerarios y tarifas aprobadas;
 
-e).- Construcción de capillas 10,000.00 a 15,000.00.
+III.- En tratándose del sistema de automóvil de alquiler, no respetar la voluntad del usuario de hacer uso exclusivo de la unidad;
 
-3.- Derechos de limpieza y mantenimiento por fosa individual, anualmente $500.00 a $2,000.00.
+IV.- No asistir a los cursos de capacitación, actualización y adiestramiento que imparta la Unidad Administrativa de la Secretaría de Infraestructura Urbana y Ecología, con el fin de brindar un mejor servicio a los usuarios del servicio público de transporte;
 
-### CAPITULO OCTAVO. POR MATANZA DE GANADO
+V.- No obedecer a los usuarios cuando estos soliciten descender del vehículo, siempre y cuando sea en lugar autorizado;
 
-###### ARTICULO 148.
+VI.- Iniciar la marcha de la unidad sin que el usuario se encuentre sentado o haya bajado totalmente de la unidad, o bien tenga las puertas abiertas;
 
-Por servicios del registro civil, se causarán conforme a la siguiente:
+VII.- Transportar mayor número de personas que las que expresamente autoriza para cada servicio la presente Ley y sus reglamentos;
 
-TARIFA
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
 
-I.- EXPEDICION DE COPIAS DE ACTAS DEL REGISTRO CIVIL, INCLUYENDO PAPEL SELLADO, POR CADA HOJA:
+VIII.- No entregar al usuario el boleto una vez cubierta la tarifa correspondiente con excepción del uso de tarjetas de prepago;
 
-a).- Ordinarias: $200.00
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
 
-b).- Urgentes: 300.00
+IX.- No aceptar el pago de la tarifa especial para estudiantes, personas con discapacidad y adultos mayores, en tratándose del servicio público de transporte urbano y suburbano de pasaje, siempre que se identifiquen con la credencial correspondiente, expedida por la autoridad que designe el Ejecutivo Estatal para tal efecto;
 
-II.- REGISTRO DE NACIMIENTOS:
+X.- No mantener en buen estado y limpia la unidad con la que se presta el servicio público de transporte;
 
-a).- Dentro de la Oficina del Registro Civil: $250.00
+XI.- Por fumar o ingerir alimentos en el interior de la unidad durante la prestación del servicio público urbano de pasaje;
 
-b).- Fuera de la Oficina del Registro Civil: 600.00
+XII.- Ingerir bebidas alcohólicas, hacer uso de drogas, enervantes o cualquier sustancia tóxica o estar bajo sus efectos durante el horario de servicio;
 
-c).- Por cada año de extemporaneidad, a partir de la fecha de ocurrido el mismo: 50.00
+XIII.- No vestir el uniforme de operador de los servicios públicos de transporte urbano, cuando se encuentre laborando;
 
-d).- Registro de reconocimiento de hijos: 1,000.00
+XIV.- Utilizar el equipo de sonido de la unidad en un volumen que cause molestias a los usuarios del servicio público;
 
-e).- Registro de adopciones: 2,000.00
+XV.- Traer ayudante o boletero en el interior de la unidad;
 
-III.- MATRIMONIOS:
+XVI.- Cargar combustible con pasajeros a bordo de la unidad;
 
-a).- En la Oficina del Registro Civil: 1,500.00
+XVII.- No portar la licencia que lo acredite como operador del servicio público de transporte y la identificación personal que para esos efectos expide la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, debiendo estar a la vista del público en las horas de servicio;
 
-b).- En la Oficina del Registro Civil, en horas extraordinarias, en días hábiles: 2,000.00
+XVIII.- No inscribirse o no mantener actualizada su inscripción en el Registro Público de Transporte del Estado;
 
-c).- En domicilios particulares:
+XIX.- No colaborar con la labor de los inspectores de transporte; y
 
-1).- En días hábiles: 3,000.00
+XX.- Las demás que se señalen en esta Ley.
 
-2).- Sábados, domingos y días festivos: 3,500.00
+C.- Que pueden ser cometidas por los permisionarios del servicio privado:
 
-IV.- DIVORCIOS:
+I.- Dejar de reunir las condiciones y requisitos que exige esta Ley para el otorgamiento del permiso para el servicio privado de transporte;
 
-a).- Si se trata de casos comprendidos en el Artículo No. 207 del Código Civil: 2,500.00
+II.- La destrucción o deterioro grave del vehículo; y
 
-V.- Si los actos del Registro Civil se efectúan fuera de horas hábiles, tendrán los Oficiales del Registro Civil de la Municipalidad la percepción del 20% de los derechos causados.
+III.- No prestar el servicio en los términos del permiso correspondiente;
 
-VI.- Habilitación de edad: 1,000.00
+### CAPITULO II. DE LAS INFRACCIONES Y SANCIONES
 
-El Presidente Municipal, podrá exceptuar el pago de la habilitación de edad, en los casos que estime justificados.
+###### Artículo 147.
 
-VII.- Anotaciones marginales por orden administrativa de la Dirección del Registro Civil del Estado: 1,000.00
+Las infracciones en las que incurran los servidores públicos encargados de aplicar o vigilar el cumplimiento de esta Ley, serán sancionadas en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
 
-VIII.- Anotaciones marginales a actas del Registro Civil por orden judicial: 1,500.00
+### CAPITULO III. DE LAS MEDIDAS DE SEGURIDAD
 
-IX.- Expedición de certificados de inexistencia: 1,000.00.
+###### Artículo 148.
 
-### CAPITULO NOVENO. POR ESTANCIA DE GANADO
+Las infracciones a la presente Ley y sus reglamentos, se sancionarán con:
 
-###### ARTICULO 149.
+I.- Amonestación;
 
-Los servicios de sacrificio y de inspección sanitaria que se proporcionen en el Rastro Municipal, así como la autorización de mataderos particulares, estarán sujetos a las siguientes tarifas para el pago de los derechos correspondientes:
+II.- Apercibimiento;
 
-I.- SACRIFICIO
+III.- Multa;
 
-1.- Bovino de 50 kgs. en adelante $450.00
+IV.- Suspensión de la prestación del servicio público de transporte; y
 
-2.- Ternera hasta de 45 kgs. 200.00
+V.- Revocación de concesiones y permisos para los servicios público y privado de transporte.
 
-3.- Porcino 250.00
+> <small>(REFORMADO, B.O. 25 DE MARZO DE 2011)</small>
 
-4.- Ovino, caprino 200.00
+### CAPITULO IV. DE LOS MEDIOS DE DEFENSA
 
-5.- Equino, asnal, mular, etc. 400.00
+###### Artículo 149.
 
-6.- Conejo y otros 20.00
+Las sanciones establecidas en el artículo anterior serán aplicadas conforme a su competencia, por la Secretaría de Infraestructura Urbana y Ecología, las Delegaciones Regionales, los ayuntamientos y en su caso por las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano, en los términos que esta Ley establece.
 
-7.- Aves sacrificadas. 10.00
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 25 DE MARZO DE 2011)</small>
 
-II.- INSPECCION SANITARIA EN EL RASTRO
+###### Artículo 150.
 
-1.- Bovino 100.00
+Las Delegaciones Regionales, los ayuntamientos y las Comisiones Municipales Reguladoras del Transporte Colectivo, en sus respectivas competencias, podrán aplicar las sanciones establecidas en las fracciones l, II y III del artículo 148 de esta Ley, en los siguientes supuestos:
 
-2.- Ternera 50.00
+a) Amonestación:
 
-3.- Porcino 100.00
+En los previstos en las fracciones V, VI, VII, XI, XII, XIV, XV, XVI, XVII, XVIII y XX del inciso a), así como las fracciones I, III, IV, V, VIII, X, XI, XIII, XIV, XV, XVI, XIX y XX del inciso b), del artículo 146 de esta Ley, cuando se cometan por primera ocasión;
 
-4.- Ovino, caprino 80.00
+b) Apercibimiento:
 
-5.- Equino, asnal, mular, etc. 100.00
+Cuando se cometen por segunda ocasión los supuestos previstos en las fracciones I, III, IV, V, VI, VII, IX, XI, XII, XIV, XV, XVI, XVII, XVIII y XX del inciso a), así como los supuestos previstos en todas las fracciones del inciso b) del artículo 146 de esta Ley, con excepción de la Fracción XII de este inciso, en la cual, el apercibimiento (sic) llevará a cabo en la primera ocasión que se actualice el supuesto contemplado en ella;
 
-6.- Conejo y otros 40.00
+c) Multa:
 
-7.- Aves 4.00
-
-8.- Sellado de aves en los expendios por ave 5.00.
-
-###### ARTICULO 150.
-
-Los mataderos particulares que funcionen con permiso del H. Ayuntamiento pagarán sobre las tarifas anteriores el 100%.
+Cuando se cometan por primera vez los supuestos previstos en las fracciones I, II, III, IV, V, VI, VII, IX, XIII, XVII, XVIII y XX del inciso a), así como los previstos en las fracciones III, IV, V, VI, VII, IX, XI, XII, XV, XVI, XVII, XVIII y XX del mismo inciso, cuando se cometan por segunda ocasión; asimismo, los supuestos previstos en las fracciones I, II, VI, VII, IX, XI, XVII y XVIII del inciso b), cuando se cometen por primera vez; además, los supuestos de las fracciones I a XVIII del mismo inciso, cuando se cometen por segunda ocasión, todos del artículo 146 de esta Ley.
 
 ### CAPITULO DECIMO. POR REGISTRO DE FIERROS
 
-###### ARTICULO 151.
+###### Artículo 151.
 
-Los derechos por servicios de uso de básculas pesadas de pieles, desplumes de aves, estancia de ganado y la venta de sub-productos, se pagará de la manera siguiente:
+La Secretaría de Infraestructura Urbana y Ecología, previa la sustanciación del procedimiento respectivo por parte de la Unidad Administrativa competente de la misma Secretaría, atendiendo a la gravedad de la falta, podrá imponer las sanciones a que se refiere el artículo 148 de esta Ley, y en particular las siguientes:
 
-I.- USO DE BASCULAS:
+a) Suspensión de la prestación del servicio público de transporte:
 
-1.- Ganado bovino, por cabeza $50.00
+Cuando se cometan por primera vez los supuestos previstos en las fracciones I, III y IV del inciso a), además los previstos en las fracciones V, VII, IX, X, XII, XIII, XIV, XV y XVI del mismo inciso, cuando se cometan dos o más veces; asimismo, cuando se cometan por segunda vez o más los supuestos de las fracciones I, II, III, V, VI, VII, VIII, IX, X, XIII, XIV, XV, XVI, XVII y XVIII del inciso b), así como cuando se actualice por primera vez el supuesto de la fracción XII del mismo inciso, todos del artículo 146 de esta Ley.
 
-2.- Terneras, porcinos, ovicaprinos 30.00
+b) Revocación de las concesiones o permisos para la prestación de los servicios público o privado de transporte:
 
-II.- PESADA DE PIELES:
+Cuando una vez apercibidos en los términos del artículo anterior, se actualicen las fracciones I, III, IV, VI, VII, XI, XII, XVII y XX del inciso a), así como en el momento en que se actualice por primera vez la fracción VIII del mismo; además, cuando una vez apercibidos, se actualicen los supuestos de las fracciones II, VI, VIII, XII y XVIII del inciso b), todos del artículo 146 de la presente Ley.
 
-1.- Por piel 50.00
-
-III. POR DESPLUME DE AVES:
-
-1.- Cada una 2.00
-
-IV.- DE PISO, PASADAS 24 HORAS DEL DESEMBARCO, DIARIAMENTE POR CABEZA:
-
-1.- Ganado vacuno $120.00
-
-2.- Ternera, porcino, ovicaprino 60.00
-
-3.- Ganado no especificado 3.00
-
-Cuando cualquier animal permanezca más de tres días sin ser sacrificado, pagará por cada día adicional de estancia en las corraletas, el 100% de las tarifas anteriores.
-
-V.- VENTA DE SUB-PRODUCTOS:
-
-1.- Harina de sangre, por kilogramo $20.00
-
-2.- Estiércol, por viaje de 6 M3. 1,500.00
-
-3.- No especificados. A criterio de la Autoridad Fiscal Municipal correspondiente.
+También se aplicará la revocación en los casos consignados en el capítulo VI, del Título II de esta Ley.
 
 ### CAPITULO DECIMO PRIMERO. POR SELLO DE CARNES
 
-###### ARTICULO 152.
+###### Artículo 152.
 
-Los derechos por registro de fierros, marca de ganado, así como compra venta del mismo, se causarán como sigue:
-
-Por cada figura que se inscriba para errar ganado, se pagará la siguiente tarifa:
-
-1.- Por el registro inicial personal. $600.00.
-
-2.- Por la revalidación anual de registro. 500.00.
-
-3.- Por el registro de marca de sangre anualmente. 200.00.
-
-DERECHOS SOBRE COMPRA-VENTA DE GANADO
-
-1.- Legalización de compra-venta de ganado vacuno caballar o asnal por cabeza. $80.00
-
-2.- Otro tipo de ganado. 60.00
-
-3.- Sobre capitales de cría de ganado siempre que sea mayor de. 1,000.00
-
-se pagará anualmente el 12 al millar.
+La suspensión de la prestación del servicio público de transporte, procederá hasta por el término de treinta días a juicio de la Secretaría de Infraestructura Urbana y Ecología.
 
 ### CAPITULO DECIMO SEGUNDO. POR DERECHOS PARA EL USO DE CORRAL MUNICIPAL
 
-###### ARTICULO 153.
+###### Artículo 153.
 
-Se causarán derechos por sellos de carnes excepto los productos naturales o industrializados que provengan de rastros (T.I.F.), tipo de inspección federal, siempre y cuando ésto sea demostrado con documentos de embarque.
+La multa será la que se establezca en las leyes de Ingresos de la (sic) autoridades competentes, las cuales no podrá ser mayor al equivalente a cien veces el salario mínimo general vigente en la zona donde se cometa la infracción.
 
-En todos los demás casos cuando se introduzcan al Municipio, carnes o pieles (acompañadas o no de carne), deberá acreditase que proceden de animales sacrificados fuera de la circunscripción territorial del Municipio y que, por tanto no se cause el impuesto de matanza de ganado y previo el pago de los derechos respectivos se presentará el servicio de sello de carnes, según lo dispuesto en la fracción siguiente:
-
-I.- Por servicio de resello e inscripción sanitaria para carnes provenientes de otros lugares, por kilogramo de peso o fracción:
-
-a).- Bovino, porcino y ovicaprino $4.00 a $10.00
-
-b).- Aves. 4.00 a 10.00
-
-c).- Carnes elaboradas e industrializadas que provengan de otros lugares. 6.00 a 10.00
-
-d).- Pieles que provengan de otros lugares por kilogramo de peso. 2.00 a 5.00
-
-II.- El pago de los derechos de sello de carne se acreditará con los recibos oficiales que expedirán los Recaudadores o Delegados de la Tesorería Municipal, que solo serán válidos en la fecha de su expedición.
-
-El servicio de sello se prestará en el Rastro Municipal o en lugares para ello autorizados. Si el interesado solicita que el servicio se preste en otra parte por causas justificadas, pagará el 25% adicional sobre la tarifa establecida.
+En caso de reincidencia se duplicará la multa. Para los efectos de esta Ley, se entiende por reincidencia la comisión de las infracciones previstas en la misma en tres ocasiones o más, en un plazo de tres meses.
 
 ### CAPITULO DECIMO TERCERO
 
 POR LA AUTORIZACION INICIAL A TRAVES DEL REGISTRO, REVALIDACION ANUAL O REPOSICION DE TARJETAS DEL MISMO, A ESTABLECIMIENTOS COMERCIALES, INDUSTRIALES Y DE PRESTACION DE SERVICIOS
 
-###### ARTICULO 154.
+###### Artículo 154.
 
-Se causarán derechos por el uso del corral municipal, consistente en la conducción, transportación, depósito de semovientes o de bienes abonados en la vía pública, o cuyo depósito sea ordenado por autoridad competente a la siguiente tarifa:
+Al imponer una sanción, la autoridad correspondiente fundará y motivará su resolución considerando lo siguiente:
 
-I.- Por conducción de semovientes, según la especie y la distancia hasta el corral, de: $100.00 a $2,000.00
+I.- Los daños y perjuicios que se hayan ocasionado o pudieren ocasionarse;
 
-II.- Por estancia diaria de cada animal: 100.00 a 200.00
+II.- La gravedad de la infracción;
 
-III.- Alimentación diaria por cada animal: 100.00 a 200.00
+III.- El carácter intencional o no de la acción u omisión constitutiva de la infracción; y
 
-IV.- Por transporte de semovientes y otros bienes, según su clase, peso y distancia de: 100.00 a 2,000.00
-
-V.- Por depósito diario, por cada metro cuadrado que se ocupe: 15.00 a 40.00
-
-Independientemente de los derechos anteriores, los propietarios o poseedores de los semovientes, pagarán los gastos especiales de conservación o protección que estos requieran y las sanciones procedentes.
-
-Si los semovientes u otros bienes no son retirados del corral previo pago de los derechos y gastos, dentro del plazo que rijan las disposiciones reglamentarias, la Tesorería Municipal acordará y ejecutará su venta fuera de remate, con la sola exigencia de un avalúo pericial: del producto de la venta se hará el pago de los derechos, gastos de alimentación, conservación y protección, así mismo como de los gastos del procedimiento de ejecución y pondrá el remanente a disposición de quien compruebe su derecho al mismo o de la autoridad judicial o administrativa que hubiere ordenado su retención.
+IV.- La reincidencia del infractor.
 
 ### CAPITULO DECIMO CUARTO. POR FUNCIONAMIENTO EN HORAS EXTRAS DE ESTABLECIMIENTOS COMERCIALES, APARATOS MECANICOS O ELECTROMECANICOS, SEAN DE MUSICA O NO
 
-###### ARTICULO 155.
+###### Artículo 155.
 
-Con objeto de vigilar por el correcto funcionamiento de los establecimientos mercantiles, industriales o de prestación de servicios en general, sólo el H. Ayuntamiento podrá conceder autorización para el funcionamiento y registro de los mismos, a solicitud por escrito de la persona física o moral interesada, en la inteligencia de que dicha autorización podrá ser negada cuando la actividad sea ilícita o atente contra el bien de la comunidad.
+Tratándose de la amonestación, se procederá a realizar las anotaciones correspondientes en el Registro Público de Transporte del Estado.
 
-Dichas solicitudes deberán ser presentadas cuando menos con cinco días hábiles de anticipación al inicio de sus operaciones, y la resolución se emitirá dentro de los tres días hábiles siguientes a la presentación.
+###### Artículo 156.
 
-###### ARTICULO 156.
+La Secretaría de Infraestructura Urbana y Ecología, las Delegaciones Regionales y los ayuntamientos, en sus respectivos ámbitos de competencia, vigilarán el cumplimiento de las disposiciones de esta Ley y sus reglamentos, debiendo adoptar, en su caso, las medidas de seguridad que se establecen en el presente capítulo.
 
-Las cuotas del registro y de revalidación anual, relativas a establecimientos comerciales, industriales y de prestación de servicios se causarán conforme a la siguiente:
+###### Artículo 157.
 
-ABARROTES SIN VENTA DE VINOS Y LICORES, TIENDAS DE.
+Se consideran medidas de seguridad la adopción y ejecución de disposiciones que dicten las autoridades mencionadas en el artículo anterior, en el ámbito de su competencia, tendientes a la protección del interés público y social, y al aseguramiento de la prestación continua, uniforme, regular, permanente, segura y digna del servicio público de transporte a la comunidad.
 
-Expedición incluyendo registro una sola vez $7,000.00 a $10,000.00
+Las medidas de seguridad son de carácter coactivo y de inmediata ejecución, y se aplicarán sin perjuicio de las sanciones que en su caso correspondan.
 
-Revalidación de registro anual 4,000.00 a 6,000.00
+###### Artículo 158.
 
-Reposición cada vez 4,000.00 a 6,000.00
+Se consideran como medidas de seguridad las siguientes:
 
-AVES VIVAS COMPRA VENTA DE.
+I.- Detención de la unidad en que se presta el servicio público;
 
-Expedición incluyendo registro una sola vez 3,000.00 a 7,000.00
+II.- Suspensión de la Prestación del Servicio Público; y
 
-Revalidación de registro anual 2,000.00 a 4,000.00
-
-Reposición cada vez 2,000.00 a 4,000.00
-
-AGENCIAS DISTRIBUIDORAS, DEPOSITOS Y COMISIONISTAS DE PRODUCTOS ALIMENTICIOS.
-
-Expedición incluyendo registro una sola vez $30,000.00 a $50,000.00
-
-Revalidación de registro anual 15,000.00 a 25,000.00
-
-Reposición cada vez 3,000.00
-
-ACADEMIAS DE BAILE.
-
-Expedición incluyendo registro una sola vez 6,000.00
-
-Revalidación de registro anual 3,000.00 a 4,500.00
-
-Reposición cada vez 2,000.00
-
-ARMERIAS.
-
-Expedición incluyendo registro una sola vez 7,500.00
-
-Revalidación de registro anual 3,000.00 a 6,000.00
-
-Reposición cada vez. 2,000.00
-
-ARTICULOS FOTOGRAFICOS Y DE INGENIERIA.
-
-Expedición incluyendo registro una sola vez. 7,000.00
-
-Revalidación de registro anual 4,000.00
-
-Reposición cada vez 4,000.00
-
-ABARROTES CON VENTA DE VINOS Y LICORES EN BOTELLA CERRADA TIENDA DE.
-
-Expedición incluyendo registro una sola vez $20,000.00 a $25,000.00
-
-Revalidación de registro anual 10,000.00 a 14,000.00
-
-Reposición cada vez 7,000.00
-
-APARATOS ELECTRICOS, TELEVISORES, RADIOS Y MAQUINAS DE COSER.
-
-Expedición incluyendo registro una sola vez $8,000.00 a 20,000.00
-
-Revalidación de registro anual 5,000.00 a 15,000.00
-
-Reposición cada vez 4,000.00
-
-AGENCIAS, DESPACHOS DE GESTION DE NEGOCIOS DE CONTADORES Y ABOGADOS.
-
-Expedición incluyendo registro una sola vez $6,000.00
-
-Revalidación de registro anual 3,000.00
-
-Reposición cada vez 3,000.00
-
-BODEGAS DIVERSAS.
-
-Expedición incluyendo registro una sola vez 6,000.00
-
-Revalidación de registro anual 3,000.00
-
-Reposición cada vez 3,000.00
-
-BOTICAS VETERINARIAS.
-
-Expedición incluyendo registro una sola vez 10,000.00
-
-Revalidación de registro anual 4,000.00 a $9,000.00
-
-Reposición cada vez 3,000.00
-
-BANCOS DE SANGRE.
-
-Expedición incluyendo registro una sola vez 6,000.00
-
-Revalidación de registro anual 3,000.00
-
-Reposición cada vez 3,000.00
-
-BAÑOS PUBLICOS.
-
-Expedición incluyendo registro una sola vez 7,000.00
-
-Revalidación de registro anual 5,000.00
-
-Reposición cada vez 5,000.00
-
-CAFETERIAS CON VENTA O SIN VENTA DE PAN PARA EL CONSUMO INTERIOR EN EL GIRO Y NEVERIAS CON SERVICIO DE MESA Y CON AUTOSERVICIO.
-
-Expedición incluyendo registro una sola vez $6,000.00
-
-Revalidación de registro anual 3,000.00
-
-Reposición cada vez 3,000.00
-
-CABARETS Y DISCOTEQUES.
-
-Expedición incluyendo registro una sola vez 60,000.00 a $100,000.00
-
-Revalidación de registro anual 20,000.00 a 40,000.00
-
-Reposición cada vez 20,000.00 a (sic)
-
-CANTINAS, SALONES DE BAILE Y ESTABLECIMIENTOS SIMILARES.
-
-Expedición incluyendo registro una sola vez $ 40,000.00 a 60,000.00
-
-Revalidación de registro anual 15,000.00 a 35,000.00
-
-Reposición cada vez 10,000.00
-
-CERVEZAS NACIONALES AGENCIAS DISTRIBUIDORAS.
-
-Expedición incluyendo registro una sola vez 30,000.00 a 50,000.00
-
-Revalidación de registro anual 20,000.00 a 30,000.00
-
-Reposición cada vez 12,000.00 a (sic)
-
-CARNICERIAS, VISCERAS, POLLO, CARNES FRIAS.
-
-Expedición incluyendo registro una sola vez 6,000.00 a 10,000.00
-
-Revalidación de registro anual 3,000.00 a 6,000.00
-
-Reposición cada vez 3,000.00
-
-CASAS DE ASISTENCIA, CASA DE HUESPEDES, BUNGALOWS, POSADAS Y ESTABLECIMIENTOS SIMILARES.
-
-Expedición incluyendo registro una sola vez $16,000.00 a $20,000.00
-
-Revalidación de registro anual 5,000.00 a 10,000.00
-
-Reposición cada vez 3,000.00 a 10,000.00
-
-CARBONERIAS Y EXPENDIOS DE PETROLEOS.
-
-Expedición incluyendo registro una sola vez 1,500.00
-
-Revalidación de registro anual 1,200.00
-
-Reposición cada vez 1,200.00
-
-CLUBES DEPORTIVOS CON CANCHA DE TENIS, FRONTENIS, SQUASH Y SIMILARES.
-
-Expedición incluyendo registro una sola vez $10,000.00 a $50,000.00
-
-Revalidación de registro anual 5,000.00 a 25,000.00
-
-Reposición cada vez 5,000.00
-
-CLINICAS, SANATORIOS Y HOSPITALES.
-
-Expedición incluyendo registro una sola vez 20,000.00 a 50,000.00
-
-Revalidación de registro anual $12,000.00 a $20,000.00
-
-Reposición cada vez 5,000.00
-
-CLINICAS VETERINARIAS.
-
-Expedición incluyendo registro una sola vez 6,000.00
-
-Revalidación de registro anual 3,500.00
-
-Reposición cada vez 3,500.00
-
-CERERIAS, VELAS DECORATIVAS Y ARTICULOS RELIGIOSOS.
-
-Expedición incluyendo registro una sola vez 3,000.00
-
-Revalidación de registro anual 2,000.00
-
-Reposición cada vez 2,000.00
-
-CERRAJERIAS.
-
-Expedición incluyendo registro una sola vez 4,000.00 a 8,000.00
-
-Revalidación de registro anual 3,000.00 a 6,000.00
-
-Reposición cada vez 3,000.00
-
-CRISTALERIAS, LOZA, PELTRE, PLASTICOS Y ALUMINIOS.
-
-Expedición incluyendo registro una sola vez 5,000.00 a 10,000.00
-
-Revalidación de registro anual 4,000.00 a 8,000.00
-
-Reposición cada vez 4,000.00 a (sic)
-
-CUADROS Y ARTICULOS DECORATIVOS.
-
-Expedición incluyendo registro una sola vez 6,000.00
-
-Revalidación de registro anual 3,000.00
-
-Reposición cada vez 3,000.00
-
-CAJONES DE ROPA HECHA, TELAS Y BLANCOS.
-
-Expedición incluyendo registro una sola vez 6,000.00 a 10,000.00
-
-Revalidación de registro anual 3,000.00 a 6,000.00
-
-Reposición cada vez 3,000.00 a (sic)
-
-CANTERAS, YESERIAS Y CALERAS.
-
-Expedición incluyendo registro una sola vez 10,000.00 a 20,000.00
-
-Revalidación de registro anual 5,000.00 a 15,000.00
-
-Reposición cada vez 4,000.00 a (sic)
-
-COMPAÑIAS CONSTRUCTORAS.
-
-Expedición incluyendo registro una sola vez 20,000.00 a 50,000.00
-
-Revalidación de registro anual 15,000.00 a 30,000.00
-
-Reposición cada vez 10,000.00
-
-COMPAÑIAS DE FRACCIONAMIENTOS DE TERRENOS.
-
-Expedición incluyendo registro una sola vez 25,000.00 a 50,000.00
-
-Revalidación de registro anual 20,000.00 a 30,000.00
-
-Reposición cada vez 10,000.00
-
-COMISIONISTAS Y ADMINISTRACION DE BIENES RAICES.
-
-Expedición incluyendo registro una sola vez 15,000.00
-
-Revalidación de registro anual 10,000.00 a 15,000.00
-
-Reposición cada vez 5,000.00
-
-CARROS DE SONIDO.
-
-Expedición incluyendo registro una sola vez 3,000.00
-
-Revalidación de registro anual 2,000.00
-
-Reposición cada vez 2,000.00
-
-DEPARTAMENTOS AMUEBLADOS.
-
-Expedición incluyendo registro una sola vez 6,000.00
-
-Revalidación de registro anual 3,000.00
-
-Reposición cada vez 3,000.00
-
-DISTRIBUCION DE MOTOCICLETAS, BICICLETAS Y SUS REFACCIONES.
-
-Expedición incluyendo registro una sola vez $10,000.00
-
-Revalidación de registro anual 4,000.00 a 8,000.00
-
-Reposición cada vez 4,000.00
-
-DISTRIBUIDORAS AUTORIZADAS DE LLANTAS, CAMARAS Y SIMILARES.
-
-Expedición incluyendo registro una sola vez $15,000.00 a 25,000.00
-
-Revalidación de registro anual $10,000.00 a $25,000.00
-
-Reposición cada vez 4,000.00
-
-DISCOTECAS Y ACCESORIOS MUSICALES.
-
-Expedición incluyendo registro una sola vez 6,000.00
-
-Revalidación de registro anual 3,000.00
-
-Reposición cada vez 3,000.00
-
-DISTRIBUIDORAS DE GASES, COMBUSTIBLES, INDUSTRIALES Y DOMESTICOS.
-
-Expedición incluyendo registro una sola vez $25,000.00
-
-Revalidación de registro anual 10,000.00 a 15,000.00
-
-Reposición cada vez 5,000.00
-
-EXPENDIOS DE CARNITAS, MANTECA, BARBACOA Y CHICHARRON.
-
-Expedición incluyendo registro una sola vez $6,000.00
-
-Revalidación de registro anual 3,000.00
-
-Reposición cada vez 3,000.00
-
-EXPENDIO DE HUEVO, LECHE Y SUS DERIVADOS.
-
-Expedición incluyendo registro una sola vez 4,000.00
-
-Revalidación de registro anual 2,000.00
-
-Reposición cada vez 2,000.00
-
-EXPEDICION DE MARISCOS Y PESCADOS.
-
-Expedición incluyendo registro una sola vez 6,000.00 a 20,000.00
-
-Revalidación de registro anual 5,000.00 a 15,000.00
-
-Reposición cada vez 5,000.00
-
-EXPENDIO DE GELATINAS.
-
-Expedición incluyendo registro una sola vez 1,500.00
-
-Revalidación de registro anual 500.00
-
-Reposición cada vez 500.00
-
-EMBOTELLADORAS, DISTRIBUIDORAS, DEPOSITOS Y COMISIONISTAS.
-
-Expedición incluyendo registro una sola vez $20,000.00 a 30,000.00
-
-Revalidación de registro anual 10,000.00 a 20,000.00
-
-Reposición cada vez 6,000.00
-
-EXPENDIOS DE LOTERIAS, PRONOSTICOS DEPORTIVOS Y BUFETES DE POLICIA PRIVADA.
-
-Expedición incluyendo registro $6,000.00
-
-Revalidación de registro anual 3,000.00
-
-Reposición cada vez 3,000.00
-
-ESTABLECIMIENTOS DE COMPRA VENTA DE ABONOS FERTILIZANTES, INSECTICIDAS E IMPLEMENTOS AGRICOLAS.
-
-Expedición incluyendo registro una sola vez $12,000.00
-
-Revalidación de registro anual 6,000.00 a $12,000.00
-
-Reposición cada vez 3,000.00
-
-ESTABLECIMIENTOS DE ORDEÑA.
-
-Expedición incluyendo registro una sola vez 3,000.00
-
-Revalidación de registro anual 1,500.00
-
-Reposición una sola vez 1,500.00
-
-ESTABLECIMIENTOS DE COMPRA-VENTA Y DISTRIBUCION DE AUTOS Y CAMIONES CON VENTA DE REFACCIONES Y SERVICIOS DE TALLER.
-
-Expedición incluyendo registro anual una sola vez $80,000.00 a 100,000.00
-
-Revalidación de registro anual 30,000.00 a 65,000.00
-
-Reposición una sola vez 10,000.00 a (sic)
-
-ESTABLECIMIENTOS DE COMPRA-VENTA Y DISTRIBUCION DE AUTOS Y CAMIONES SIN VENTA DE REFACCIONES Y SERVICIOS DE TALLER.
-
-Expedición incluyendo registro anual una sola vez $50,000.00 a (sic)
-
-Revalidación de registro anual 18,000.00 a $40,000.00
-
-Reposición una sola vez 6,000.00
-
-ESTABLECIMIENTO DE REFACCIONES, ACCESORIOS, LUBRICANTES Y GRASAS AUTOMOTRICES.
-
-Expedición incluyendo registro una sola vez $15,000.00 a $35,000.00
-
-Revalidación de registro anual 10,000.00 a 30,000.00
-
-Reposición una sola vez 4,000.00
-
-ESTABLECIMIENTOS DE COMPRA-VENTA DE PAPEL, VIDRIOS, MATERIALES DE DESECHOS INDUSTRIALES.
-
-Expedición incluyendo registro anual una sola vez $6,000.00
-
-Revalidación de registro anual 3,000.00
-
-Reposición una sola vez 1,500.00
-
-ESTUDIOS FOTOGRAFICOS, FOTOGRAFIAS, REVELADOS, HELIOGRAFICAS, FOTOSTATICAS Y SIMILARES.
-
-Expedición incluyendo registro una sola vez $6,000.00 a $10,000.00
-
-Revalidación de registro anual 3,000.00 a 8,000.00
-
-Reposición una sola vez 3,000.00
-
-EXPENDIOS DE PERIODICOS, REVISTAS, NOVELAS Y CUENTOS.
-
-Expedición incluyendo registro una sola vez $3,000.00
-
-Revalidación de registro anual 2,000.00
-
-Reposición una sola vez 2,000.00
-
-EXPENDIO DE MIEL DE COLMENA.
-
-Expedición incluyendo registro una sola vez 3,000.00
-
-Revalidación de registro anual 1,500.00
-
-Reposición una sola vez 1,500.00
-
-EQUIPOS Y MUEBLES PARA OFICINA.
-
-Expedición incluyendo registro una sola vez 8,000.00 a 50,000.00
-
-Revalidación de registro anual 4,000.00 a 20,000.00
-
-Reposición una sola vez 4,000.00
-
-ESCRITORIOS PUBLICOS.
-
-Expedición incluyendo registro una sola vez 3,000.00
-
-Revalidación de registro una sola vez 2,000.00
-
-Reposición una sola vez 1,500.00
-
-ESTABLECIMIENTOS PRIVADOS DE ENSEÑANZA NO INCORPORADOS A LA SECRETARIA DE EDUCACION PUBLICA.
-
-Expedición incluyendo registro una sola vez $25,000.00
-
-Revalidación de registro anual 12,000.00 a $18,000.00
-
-Reposición una sola vez 6,000.00
-
-ESTABLECIMIENTOS PRIVADOS DE ENSEÑANZA INCORPORADOS A LA SECRETARIA DE EDUCACION PUBLICA.
-
-Expedición incluyendo registro una sola vez $20,000.00
-
-Revalidación de registro anual 10,000.00 a $15,000.00
-
-Reposición una sola vez 5,000.00
-
-ESTACIONAMIENTO PARA AUTOMOVILES.
-
-Expedición incluyendo registro una sola vez 9,000.00 a 15,000.00
-
-Revalidación de registro anual 3,000.00 a 10,000.00
-
-Reposición una sola vez 3,000.00
-
-ESTABLECIMIENTO CON VENTA DE ARTICULOS DIVERSOS COMO ARTICULOS DE PIEL, PERFUMERIAS, ROPA, ETC.
-
-Expedición incluyendo registro una sola vez $10,000.00 a $25,000.00
-
-Revalidación de registro anual 10,000.00 a 20,000.00
-
-Reposición una sola vez 3,000.00 a 5,000.00
-
-EXPENDIOS DE HIELO Y AGUA PURIFICADA.
-
-Expedición incluyendo registro una sola vez 4,000.00
-
-Revalidación de registro anual 2,000.00
-
-Reposición una sola vez 2,000.00
-
-ESTABLECIMIENTOS COMERCIALES CON MATERIAL DE CONSTRUCCION MADERAS Y ARTICULOS DE FERRETERIA.
-
-Expedición incluyendo registro $30,000.00 a $50,000.00
-
-Revalidación de registro anual 15,000.00 a 30,000.00
-
-Reposición una sola vez 5,000.00
-
-EMPRESAS PARTICULARES QUE EXPLOTEN RECURSOS NATURALES DENTRO DEL MUNICIPIO, MEDIANTE CONCESION FEDERAL O ESTATAL, PAGARAN SUS DERECHOS CONFORME A LA SIGUIENTE TARIFA.
-
-Expedición $25,000.00 a $80,000.00
-
-Revalidación 15,000.00 a 25,000.00
-
-Reposición 10,000.00
-
-En situaciones especiales el pago será el que acuerde el H. Ayuntamiento en Cabildo.
-
-FONDAS Y LONCHERIAS CON VENTA DE CERVEZA EXCLUSIVAMENTE EN LOS ALIMENTOS.
-
-Expedición de registro anual $20,000.00 a $40,000.00
-
-Revalidación de registro anual 15,000.00 a 30,000.00
-
-Reposición una sola vez 5,000.00
-
-FONDAS Y LONCHERIAS SIN VENTA DE CERVEZA.
-
-Expedición de registro anual 6,000.00
-
-Revalidación de registro anual 3,000.00
-
-Reposición una sola vez 3,000.00
-
-FABRICAS Y EXPENDIO DE PAN Y PASTELERIAS.
-
-Expedición incluyendo registro una sola vez 6,000.00 a 15,000.00
-
-Revalidación de registro anual 3,000.00 a 12,000.00
-
-Reposición una sola vez 3,000.00
-
-FABRICAS DE LLANTAS PARA AUTOMOVILES, TRACTORES, MOTOCICLETAS, AERONAVES Y SIMILARES.
-
-Expedición incluyendo registro una sola vez $30,000.00 a $50,000.00
-
-Revalidación de registro anual 15,000.00 a 25,000.00
-
-Reposición una sola vez 10,000.00
-
-FABRICAS Y RECONSTRUCTORAS DE MAQUINARIA INDUSTRIAL Y AGRICOLA.
-
-Expedición incluyendo registro una sola vez $15,000.00
-
-Revalidación de registro anual 10,000.00
-
-Reposición una sola vez 4,000.00
-
-FLORERIAS Y VIVEROS.
-
-Expedición incluyendo registro anual una vez 10,000.00 a 15,000.00
-
-Revalidación de registro anual 3,000.00 a 8,000.00
-
-Reposición una sola vez 3,000.00
-
-FORRAJERIAS.
-
-Expedición incluyendo registro anual una vez 8,000.00 a 15,000.00
-
-Revalidación de registro anual 4,000.00 a 8,000.00
-
-Reposición una sola vez 4,000.00
-
-FABRICAS DE HIELO.
-
-Expedición incluyendo registro anual una vez 20,000.00 a 30,000.00
-
-Revalidación de registro anual 12,000.00 a 20,000.00
-
-Reposición una sola vez 6,000.00
-
-FABRICAS DE NIEVE, PALETAS Y HELADOS.
-
-Expedición incluyendo registro anual una vez 10,000.00 a 12,000.00
-
-Revalidación de registro anual 5,000.00 a 10,000.00
-
-Reposición una sola vez 3,000.00
-
-FARMACIAS, BOTICAS, ETC.
-
-Expedición incluyendo registro anual una vez 12,000.00 a 20,000.00
-
-Revalidación de registro anual 4,000.00 a 12,000.00
-
-Reposición una sola vez 4,000.00
-
-FABRICAS DE JABON, DETERGENTES Y VELADORAS.
-
-Expedición $15,000.00 a 30,000.00
-
-Revalidación 12,000.00 a 15,000.00
-
-Reposición 5,000.00
-
-FABRICAS DE CABLES QUE SEAN CONDUCTORES DE ELECTRICIDAD.
-
-Expedición $30,000.00 a 50,000.00
-
-Revalidación 20,000.00 a 30,000.00
-
-Reposición 6,000.00
-
-FERRETERIAS CON MATERIALES DE CONSTRUCCION.
-
-Expedición $20,000.00 a $50,000.00
-
-Revalidación 10,000.00 a 30,000.00
-
-Reposición 8,000.00
-
-FABRICAS DE MOSAICOS, LOSETAS.
-
-Expedición 15,000.00 a 30,000.00
-
-Revalidación 8,000.00 a 15,000.00
-
-Reposición 4,000.00
-
-FABRICAS Y TALLERES DE MUEBLES Y ARTESANIAS, ARTICULOS ARTISTICOS Y DECORATIVOS, ESCULTURALES Y MONUMENTOS.
-
-Expedición $10,000.00 a $20,000.00
-
-Revalidación 8,000.00 a 10,000.00
-
-Reposición 2,5000.00 (sic)
-
-FUNERARIAS Y FUNERALES.
-
-Expedición 20,000.00 a 50,000.00
-
-Revalidación 6,000.00 a 25,000.00
-
-Reposición 5,000.00
-
-GASOLINERIAS.
-
-Expedición 20,000.00 a 50,000.00
-
-Revalidación 15,000.00 a 45,000.00
-
-Reposición 10,000.00
-
-GRANJAS Y PLANTAS AVICOLAS, PORCINAS Y SIMILARES.
-
-Expedición 6,000.00 a 30,000.00
-
-Revalidación 10,000.00 a 25,000.00
-
-Reposición 3,000.00
-
-GIMNASIOS.
-
-Expedición 6,000.00
-
-Revalidación 3,000.00
-
-Reposición 3,000.00
-
-HOTELES, MOTELES Y ESTACIONAMIENTOS SIMILARES.
-
-Expedición 30,000.00 a 100,000.00
-
-Revalidación 12,000.00 a 30,000.00
-
-Reposición 10,000.00
-
-IMPRENTAS, EDITORES, LITOGRAFIAS, OFFSET, SELLOS DE GOMA.
-
-Expedición $6,000.00 a 15,000.00
-
-Revalidación 3,000.00 a 15,000.00
-
-Reposición 3,000.00
-
-INGENIOS AZUCAREROS.
-
-Expedición 200,000.00 a 500,000.00
-
-Revalidación 150,000.00 a 300,000.00
-
-Reposición 150,000.00
-
-JOYERIAS, PLATERIAS, RELOJERIAS Y TIENDAS DE ARTICULOS DE LUJO.
-
-Expedición $25,000.00 a 50,000.00
-
-Revalidación 10,000.00 a 20,000.00
-
-Reposición 4,000.00 a (sic)
-
-JARCERIAS Y SIMILARES.
-
-Expedición 3,000.00
-
-Revalidación 1,500.00
-
-Reposición 1,500.00
-
-LAVANDERIAS, TINTORERIAS, PLANCHADURIAS, AGENCIAS DE RECIBO Y ENTREGA DE ROPA.
-
-Expedición $6,000.00 a $12,000.00
-
-Revalidación 3,000.00 a 10,000.00
-
-Reposición 3,000.00
-
-LAVANDERIAS AUTOMATICAS.
-
-Expedición 8,000.00 a 20,000.00
-
-Revalidación $4,000.00 a $15,000.00
-
-Reposición 4,000.00
-
-LABORATORIOS DE DIAGNOSTICOS, CLINICAS Y RADIOGRAFIAS.
-
-Expedición $15,000.00 a 30,000.00
-
-Revalidación 10,000.00 a 15,000.00
-
-Reposición 4,000.00
-
-MOLINOS DE NIXTAMAL Y EXPENDIOS DE MASA.
-
-Expedición 3,000.00
-
-Revalidación 1,800.00
-
-Reposición 1,800.00
-
-MAQUINARIA Y EQUIPO INDUSTRIAL, AGRICOLA, HERRAMIENTAS Y ACCESORIOS.
-
-Expedición $10,000.00
-
-Revalidación 5,000.00
-
-Reposición 5,000.00
-
-MERCERIAS Y BONETERIAS.
-
-Expedición 4,000.00 a $10,000.00
-
-Revalidación 2,000.00 a 6,000.00
-
-Reposición 2,000.00 a 3,000.00
-
-MATERIAS PRIMAS PARA LA ELABORACION DE NIEVES, PALETAS Y GELATINAS.
-
-Expedición $10,000.00 a 20,000.00
-
-Revalidación 5,000.00 a 12,000.00
-
-Reposición 5,000.00 a (sic)
-
-MUEBLERIAS CON VENTA DE MUEBLES DE OFICINA, APARATOS ELECTRONICOS, MUEBLES PARA EL HOGAR Y COLCHONES.
-
-Expedición $25,000.00 a $50,000.00
-
-Revalidación 20,000.00 a 40,000.00
-
-Reposición 20,000.00 a (sic)
-
-MISCELANEAS Y DULCERIAS.
-
-Expedición 6,000.00
-
-Revalidación 3,000.00
-
-Reposición 3,000.00
-
-MADERERIAS Y SIMILARES.
-
-Expedición 20,000.00 a 50,000.00
-
-Revalidación 10,000.00 a 20,000.00
-
-Reposición 5,000.00
-
-MUEBLES Y ARTICULOS PARA EL HOGAR.
-
-Expedición 10,000.00 a 20,000.00
-
-Revalidación 5,000.00 a 10,000.00
-
-Reposición 3,500.00
-
-MOLINOS DE ARROZ, EMPACADORAS DE FRUTAS.
-
-Expedición 16,000.00 a 40,000.00
-
-Revalidación 10,000.00 a 20,000.00
-
-Reposición 8,000.00
-
-OBRADORES, TOSTADORES Y MOLINOS DE CAFE.
-
-Expedición 10,000.00 a 30,000.00
-
-Revalidación 5,000.00 a 10,000.00
-
-Reposición 3,000.00
-
-OPTICAS.
-
-Expedición 10,000.00 a 25,000.00
-
-Revalidación 10,000.00 a 15,000.00
-
-Reposición 4,000.00
-
-PINTURAS, BARNICES, ESMALTES E IMPERMEABILIZANTES.
-
-Expedición 15,000.00 a 30,000.00
-
-Revalidación 5,000.00 a 15,000.00
-
-Reposición 5,000.00
-
-PRODUCTOS PRENSADOS DE CONCRETO.
-
-Expedición $10,000.00 a $25,000.00
-
-Revalidación 4,000.00 a 10,000.00
-
-Reposición 4,000.00
-
-HORNOS DE TABIQUE, LADRILLO Y TEJA INDUSTRIALIZADO.
-
-Expedición 15,000.00 a 30,000.00
-
-Revalidación 5,000.00 a 15,000.00
-
-Reposición 4,000.00
-
-PAPELERIAS, LIBRERIAS, ARTICULOS ESCOLARES, DISTRIBUCION DE REVISTAS, PERIODICOS Y PUBLICACIONES.
-
-Expedición $12,000.00 a $25,000.00
-
-Revalidación 6,000.00 a 12,000.00
-
-Reposición 3,000.00
-
-PRESTACIONES DE SERVICIOS NO ESPECIFICADOS.
-
-Expedición 6,000.00
-
-Revalidación 3,000.00
-
-Reposición 3,000.00
-
-RESTAURANT CON VENTA DE VINOS DE MESA Y CERVEZAS, EXCLUSIVAMENTE CON ALIMENTOS.
-
-Expedición $12,000.00 a $50,000.00
-
-Revalidación 10,000.00 a 20,000.00
-
-Reposición 5,000.00
-
-RESTAURANT EN HOTELES CON SERVICIO DE CANTINA O BAR.
-
-Expedición $40,000.00 a 80,000.00
-
-Revalidación 30,000.00 a 50,000.00
-
-Reposición 5,000.00
-
-REFRESQUERIAS, NEVERIAS, JUGOS Y LICUADOS.
-
-Expedición 10,000.00 a 30,000.00
-
-Revalidación 3,000.00 a 10,000.00
-
-Reposición 2,000.00
-
-SALCHICHONERIAS, ULTRAMARINOS Y ROSTICERIAS SIN VENTA DE CERVEZA, VINOS Y LICORES.
-
-Expedición $6,000.00 a $12,000.00
-
-Revalidación 3,000.00 a 10,000.00
-
-Reposición 3,000.00
-
-SUPER PANADERIAS.
-
-Expedición 15,000.00 a 20,000.00
-
-Revalidación 5,000.00 a 15,000.00
-
-Reposición 5,000.00 a (sic)
-
-SUPERMERCADOS Y TIENDAS DE AUTOSERVICIO.
-
-Expedición 40,000.00 a 80,000.00
-
-Revalidación 30,000.00 a 50,000.00
-
-Reposición 5,000.00
-
-SALONES DE FIESTA.
-
-Expedición 10,000.00 a 30,000.00
-
-Revalidación 6,000.00 a 20,000.00
-
-Reposición 6,000.00
-
-SALONES DE BOLICHE.
-
-Expedición 10,000.00 a 25,000.00
-
-Revalidación 5,000.00 a 20,000.00
-
-Reposición 5,000.00
-
-SANITARIOS PUBLICOS.
-
-Expedición 3,000.00
-
-Revalidación 2,000.00
-
-Reposición 2,000.00
-
-SALONES DE BELLEZA Y PELUQUERIAS.
-
-Expedición $6,000.00 a $10,000.00
-
-Revalidación 3,000.00 a 9,000.00
-
-Reposición 3,000.00
-
-SARAPERIAS Y REBOCERIAS.
-
-Expedición 3,000.00
-
-Revalidación 2,000.00
-
-Reposición 2,000.00
-
-SALAS DE PROYECCIONES DE PELICULAS Y TEATROS.
-
-Expedición 30,000.00 a 80,000.00
-
-Revalidación 25,000.00 a 50,000.00
-
-Reposición 8,000.00
-
-SUPERFARMACIAS, PERFUMERIAS Y PRODUCTOS DE BELLEZA.
-
-Expedición $12,000.00 a 25,000.00
-
-Revalidación 10,000.00 a 20,000.00
-
-Reposición 8,000.00
-
-TORTILLERIAS AUTOMATICAS Y MANUALES.
-
-Expedición 6,000.00 a 10,000.00
-
-Revalidación 3,000.00 a 6,000.00
-
-Reposición 3,000.00
-
-TIENDAS DE FIERROS Y MUEBLES USADOS.
-
-Expedición 8,000.00 a 10,000.00
-
-Revalidación 4,000.00 a 8,000.00
-
-Reposición 4,000.00
-
-TIENDAS DE REGALOS Y ARTICULOS DE FANTASIA.
-
-Expedición 10,000.00 a 15,000.00
-
-Revalidación 3,000.00 a 10,000.00
-
-Reposición 3,000.00
-
-TIENDAS DE CURIOSIDADES, SOMBREROS DE PALMA, CANASTAS Y HUARACHES.
-
-Expedición $10,000.00 a 15,000.00
-
-Revalidación 3,000.00 a 10,000.00
-
-Reposición 2,000.00
-
-TIENDAS DE ROPA HECHA, TELAS, CALCETINES, BLANCOS Y SIMILARES.
-
-Expedición $10,000.00 a 20,000.00
-
-Revalidación 3,000.00 a 10,000.00
-
-Reposición 3,000.00
-
-TENDAJON CON VENTA DE CERVEZA EN BOTELLA CERRADA.
-
-Expedición 10,000.00 a 20,000.00
-
-Revalidación 8,000.00 a 15,000.00
-
-Reposición 5,000.00
-
-TENDAJON CON VENTA DE CERVEZA EN BOTELLA ABIERTA.
-
-Expedición 20,000.00 a 40,000.00
-
-Revalidación 10,000.00 a 20,000.00
-
-Reposición 5,000.00
-
-TRANSPORTES DE PASAJEROS EN GENERAL.
-
-Expedición 10,000.00 a 50,000.00
-
-Revalidación 5,000.00 a 40,000.00
-
-Reposición 5,000.00 a 15,000.00
-
-TLAPALERIAS, MATERIAL ELECTRICO, Y ARTICULOS DE PLOMERIA EN GENERAL.
-
-Expedición $10,000.00 a $25,000.00
-
-Revalidación 5,000.00 a 15,000.00
-
-Reposición 5,000.00
-
-TALLERES ELECTROMECANICOS, ELECTRONICOS DE:
-
-CARPINTERIA
-
-CROMADO
-
-CURTIDURIA
-
-CRISTALERIA
-
-CONFECCION DE BRASIERES, BORDADOS, CAMISAS, COSTURAS, ESTAMPADOS, PANTALONES, VESTIDOS
-
-HERRERIA, HUARACHES
-
-HOJALATERIA
-
-HILADOS
-
-EBANISTERIA
-
-PINTURA
-
-PLATERIA Y JOYERIA
-
-SOLDADURA
-
-TAPICERIA
-
-TALABARTERIA
-
-TELAS
-
-TEJIDOS
-
-REPARACION DE:
-
-AUTOMOVILES Y CAMIONES
-
-APARATOS ELECTRONICOS
-
-AIRE ACONDICIONADO
-
-CALZADO
-
-COLCHONES
-
-ESTUFAS
-
-LAVADORAS
-
-MAQUINAS DE COCER (SIC)
-
-MAQUINAS CALCULADORAS
-
-MAQUINAS DE ESCRIBIR
-
-MAQUINAS SUMADORAS
-
-MOFLES
-
-MOTOCICLETAS
-
-REFRIGERADORES
-
-Expedición $5,000.00 a $20,000.00
-
-Revalidación 3,000.00 a 15,000.00
-
-Reposición 3,000.00
-
-VINATERIAS Y LONJAS DE DISTRIBUCION CON VENTA DE VINOS Y LICORES.
-
-Expedición $10,000.00 a 25,000.00
-
-Revalidación 6,000.00 a 10,000.00
-
-Reposición 3,000.00
-
-VENTA DE ALMONEDA.
-
-Expedición 10,000.00
-
-Revalidación 4,000.00
-
-Reposición 4,000.00
-
-VULCANIZADORAS, RENOVADORAS, ALINEACION Y BALANCEO Y REPARACION.
-
-Expedición $15,000.00 a 20,000.00
-
-Revalidación 5,000.00 a 15,000.00
-
-Reposición 4,000.00
-
-VIDRIERIAS, LUNAS, CORTINAS Y PERSIANAS.
-
-Expedición 15,000.00 a 25,000.00
-
-Revalidación 10,000.00 a 15,000.00
-
-Reposición 5,000.00
-
-VEHICULOS DE TRANSPORTES, MUDANZAS Y FLETES.
-
-Expedición $10,000.00 a 15,000.00
-
-Revalidación 4,000.00 a 10,000.00
-
-Reposición 4,000.00
-
-ZAPATERIAS, SANDALIAS Y SIMILARES.
-
-Expedición 8,000.00 a 20,000.00
-
-Revalidación 5,000.00 a 15,000.00
-
-Reposición 5,000.00
-
-GIROS NO ESPECIFICADOS.
-
-Expedición $2,000.00 a $50,000.00
-
-Revalidación 1,000.00 a 25,000.00
-
-Reposición 1,000.00 a 10,000.00
-
-COMERCIANTES MAYORISTAS EN ROPA Y SIMILARES, ASI COMO OTROS GIROS COMERCIALES QUE SE ESTABLEZCAN EN TIANGUIS MUNICIPALES O EN VIAS PUBLICAS, SEÑALADOS ESPECIFICAMENTE POR EL H. AYUNTAMIENTO:
-
-Expedición $10,000.00 a $40,000.00
-
-Revalidación anual 8,000.00 a 15,000.00
-
-Reposición cada vez 3,000.00
-
-El Presidente Municipal realizará a través de la dependencia que le corresponda, el censo de contribuyentes a efecto de que éstos cumplan con sus deberes fiscales. El Ayuntamiento no reconocerá el traspaso efectuado entre personas físicas y morales de licencias autorizadas para el expendio y venta de bebidas alcohólicas.
-
-###### ARTICULO 157.
-
-El pago de los derechos establecidos en este capítulo deberá liquidarse de acuerdo con lo siguiente:
-
-a).- El importe del registro inicial de operaciones dentro de los diez días posteriores a la autorización.
-
-b).- La revalidación anual del registro, dentro del mes de enero de cada año.
-
-c).- La reposición del registro, al presentar su solicitud de reposición.
-
-###### ARTICULO 158.
-
-El Presidente municipal, para los efectos de equidad y de justicia contributiva a que se refiere la fracción IV del Artículo 31 de la Constitución Política de los Estados Unidos Mexicanos, concederá de acuerdo a sus facultades y previa inspección, los subsidios a la cuota que establece este capítulo, cuando la situación económica, ubicación, giro o circunstancias similares de los establecimientos así lo ameriten, y podrá conceder que el pago se haga en parcialidades.
+III.- La intervención provisional en la prestación del servicio público de transporte, en el supuesto de la fracción II del artículo 76 de esta Ley.
 
 ### CAPITULO DECIMO QUINTO. POR LEGALIZACION DE FIRMAS, CERTIFICADOS, CERTIFICACIONES Y COPIAS CERTIFICADAS SIMPLES
 
-###### ARTICULO 159.
+###### Artículo 159.
 
-Son causantes de este derecho los establecimientos comerciales, y los propietarios o poseedores de aparatos mecánicos, electromecánicos o electrónicos, sean de música o no, establecidos dentro del territorio del Municipio y que funcionen fuera del horario reglamentario (de 9.00 a 21.00 horas).
+Los Delegados Regionales y los ayuntamientos en sus respectivos ámbitos de competencia, con base en los resultados de la visita de inspección o del informe de la misma, podrán dictar las medidas de seguridad previstas en las fracciones I y II del artículo anterior, para corregir las irregularidades que se hubiesen encontrado. Dichas medidas tendrán la duración estrictamente necesaria para la corrección de las irregularidades respectivas.
 
-###### ARTICULO 160.
+###### Artículo 160.
 
-El derecho contemplado en este capítulo será determinado de acuerdo con la siguiente tarifa:
+La Secretaría de Infraestructura Urbana y Ecología, en el ámbito de su competencia, al resolver los procedimientos administrativos, el recurso de reconsideración o bien, con base a los resultados de la visita de inspección o del informe de la misma, podrán dictar las medidas de seguridad previstas en el artículo 158 de esta Ley, para corregir las irregularidades que se hubiesen encontrado. Dichas medidas tendrán la duración estrictamente necesaria para la corrección de las irregularidades respectivas.
 
-a).- Si se trata de establecimientos que no expendan bebidas alcohólicas, por cada o fracción de: $20.00 a $50.00
+###### Artículo 161.
 
-b).- Para establecimientos con venta de cerveza y/o bebidas alcohólicas por cada hora o fracción de: 100.00 a 200.00
+Las autoridades encargadas de aplicar las medidas de seguridad, deberán sujetarse a los siguientes criterios:
 
-c).- Para centros nocturnos con música viva de: 150.00 a 300.00
+I.- Fundarán y motivarán sus resoluciones en términos de los artículos 14 y 16 de la Constitución Política de los Estados Unidos Mexicanos.
 
-d).- Para discoteques y otros centros nocturnos por cada hora o fracción de: 150.00 a 300.00
+II.- Se considerará la trascendencia de la situación que se trate y los intereses que se afecten o dejen de afectarse, en caso de aplicarse la medida.
 
-e).- Otros no especificados, por hora diaria: 30.00.
+III.- La resolución que se adopte, se hará saber al interesado, dentro de un plazo no mayor de cinco días naturales, contados a partir de la fecha en que se dicte la resolución.
 
-###### ARTICULO 161.
+###### Artículo 162.
 
-El funcionamiento de establecimientos comerciales y aparatos mecánicos, electromecánicos o electrónicos en horas extras requerirá previa autorización expresa del C. Presidente Municipal.
-
-###### ARTICULO 162.
-
-Los causantes de este derecho, deberán cubrir su importe al H. Ayuntamiento dentro de los primeros cinco días de cada mes en forma anticipada, cubriendo su importe por meses completos.
-
-Aquellos causantes que por la naturaleza de su giro requieran de horario especial para su funcionamiento, harán el planteamiento por escrito ante la Autoridad Municipal, la cual, previa inspección determinará lo procedente.
+Los interesados afectados por los actos y resoluciones de las autoridades de transporte podrán, a su elección, interponer el recurso de reconsideración previsto en esta Ley o intentar el juicio correspondiente ante el Tribunal de lo Contencioso Administrativo del Estado dentro del plazo de 15 días o el establecido en la Ley del Tribunal de lo Contencioso Administrativo. El recurso de reconsideración tendrá por objeto que la Secretaría de Infraestructura Urbana y Ecología confirme, modifique, revoque o anule el acto administrativo recurrido.
 
 ### CAPITULO DECIMO SEXTO. POR LICENCIAS DIVERSAS
 
-###### ARTICULO 163.
+###### Artículo 163.
 
-Los derechos por concepto de legalización de firmas, certificaciones y expedición de copias de documentos por funcionarios y empleados del Gobierno Municipal se causarán conforme a la siguiente:
+El término para interponer el recurso de reconsideración ante la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, será de quince días hábiles, contados a partir del día siguiente que surta sus efectos la notificación de la resolución que se recurra, o de que el recurrente tenga conocimiento de dicha resolución.
 
-TARIFA:
+El o los afectados podrán interponer el recurso en las Delegaciones Regionales, quienes de inmediato deberán remitir el escrito a la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología.
 
-I.- Legalización de firmas: $400.00
+###### Artículo 164.
 
-II.- Certificaciones de firmas en actas constitutivas de sociedades cooperativas: 400.00
+El procedimiento del recurso de reconsideración será instruido, hasta el estado de resolución, por el Titular de la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología.
 
-III.- Certificaciones de estado regular: 400.00
+###### Artículo 165.
 
-IV.- Certificados a Ministros de las distintas sectas religiosas: 400.00
+En el escrito de interposición del recurso de reconsideración, el interesado deberá cumplir con los siguientes requisitos:
 
-Si los Ministros no estuviesen autorizados para oficiar, se negará la certificación solicitada, pero se pagará por gastos administrativos la misma cuota.
+I.- El nombre del recurrente y del tercero perjudicado si lo hubiere, así como el lugar que señale para oír y recibir notificaciones y documentos, y el nombre de la persona para oírlas y recibirlas;
 
-V.- Certificados del estado de la cuenta del contribuyente por cada impuesto, derecho o contribución que comprenda: 400.00
+II.- Precisar el acto o resolución administrativa que impugna, así como la fecha en que fué notificado de la misma o bien tuvo conocimiento de ésta;
 
-VI.- Certificado de "NO ADEUDO" por cada impuesto, derecho o contribución que comprenda: 400.00
+III.- Señalar a la autoridad emisora de la resolución que recurre;
 
-VII.- Certificado de "NO ADEUDO" por concepto de multas: 400.00
+IV.- La descripción de los hechos, antecedentes de la resolución que se recurre;
 
-VIII.- Certificado sobre productos de la propiedad raíz:
+V.- Los agravios que le causan y los argumentos de derecho en contra de la resolución que se recurre;
 
-A.- Por un período no mayor de cinco años: 400.00
+VI.- Las pruebas que se ofrezcan, relacionándolas con los hechos que se mencionen; y
 
-B.- Por un período que no exceda de cinco años, por cada año excedente: 100.00
-
-IX.- Certificados de valor fiscal de predios:
-
-A.- Los expedidos por las oficinas rentísticas o catastrales: 500.00
-
-B.- Los expedidos por las mismas oficinas para acreditar valores o antecedentes fiscales de un predio en años anteriores: 500.00
-
-En los casos comprendidos en este inciso se pagará además, por la búsqueda de datos para la expedición del certificado un derecho de: $400.00.
-
-X.- Certificados de fechas de pago de créditos fiscales: $400.00
-
-XI.- Copias certificadas de documentos en tamaño que no exceda de 35 centímetros de ancho, por plana:
-
-A.- A dos espacios: $400.00
-
-B.- A un espacio: 400.00
-
-XII.- Copias certificadas de documentos que excedan del tamaño indicado en la fracción anterior, por plana:
-
-A.- A dos espacios: $400.00
-
-B.- A un espacio: 500.00
-
-XIII.- Duplicados autógrafos, al carbón de los documentos mencionados, en las Fracciones XI y XII, el 50% de las cuotas respectivas.
-
-XV (SIC).- Copias certificadas de sentencias de divorcios: $1,000.00.
-
-XVI.- Cualquiera otra certificación que se expida, distinta de las expresadas: $500.00.
-
-Para la legalización de firmas y expedición de certificaciones, certificados y copias de documentos comprendidos en las fracciones anteriores, deberán cubrirse previamente los derechos respectivos.
-
-###### ARTICULO 164.
-
-La legalización de firmas, certificados, certificaciones y copias certificadas que soliciten con carácter de urgencia (menos de 24 horas), causarán el triple de la correspondiente cuota fijada por la tarifa.
-
-###### ARTICULO 165.
-
-Los certificados, certificaciones y copias certificadas que expidan las dependencias del Gobierno Municipal, deberán formularse en el papel especial autorizado.
+VII.- La ratificación de firmas ante la propia autoridad en un lapso no mayor a cinco días, contados a partir de la fecha de interposición del mismo o ratificadas las firmas ante fedatario público.
 
 ### CAPITULO DECIMO SEPTIMO. POR LICENCIAS, INSPECCIONES, REVISIONES Y SUPERVISIONES OTORGADAS Y EJECUTADAS POR EL DEPARTAMENTO DE LICENCIAS DE CONSTRUCCION
 
-###### ARTICULO 166.
+###### Artículo 166.
 
-La celebración de cualquier tipo de evento de acuerdo con la legislación fiscal vigente, requiere ser autorizado por la autoridad municipal, previo a su desarrollo.
+Con el escrito de interposición del recurso de reconsideración deberán acompañarse los siguientes documentos:
 
-###### ARTICULO 167.
+I.- Los documentos que acrediten la personalidad del promovente, cuando actúe a nombre de otro o de persona moral;
 
-Para otorgar la autorización a que se refiere el Artículo 166, la persona física o moral o unidad económica que pretenda desarrollarlos, estará obligada a cubrir los derechos correspondientes de acuerdo con la siguiente tarifa:
+II.- El documento en que conste el acto o la resolución recurrida, cuando dicha actuación haya sido por escrito;
 
-I.- Serenatas o similares, por evento: $150.00
+III.- La constancia de notificación del acto impugnado o la manifestación bajo protesta de decir verdad de la fecha en que tuvo conocimiento de la resolución; y
 
-II.- Para el ejercicio de oficios que requieran licencia o permiso de acuerdo con los reglamentos municipales, como aseadores de calzado, fotógrafos, estibadores, billeteros y similares, mensualmente de: $100.00 a 300.00
+IV.- Las pruebas que se acompañen.
 
-III.- Grupos de mariachis o conjuntos musicales, mensual de: 1,500.00 a 3,000.00
+###### Artículo 167.
 
-IV.- Por la celebración en el Municipio de loterías, rifas o sorteos de cualquier clase, ya sea de dinero o de otros bienes, por cada evento de: $200.00 a 8,000.00
+En caso de que el recurrente no cumpliera con alguno de los requisitos o no presente los documentos que señalan los dos artículos anteriores, el Titular de la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, deberá prevenirlo por escrito por una vez para que en el término de cinco días hábiles siguientes a la notificación personal subsane la irregularidad. Si transcurrido dicho plazo el recurrente no desahoga en sus términos la prevención, el recurso se tendrá por no interpuesto.
 
-V.- Para el expendio de bebidas alcohólicas en bailes, espectáculos, ferias y otros eventos ocasionales, diariamente de: $2,000.00 a 10,000.00
+Si el escrito de interposición del recurso no aparece firmado por el interesado, o por quien debe hacerlo, se tendrá por no interpuesto.
 
-En aquellos casos en que el evento de que se trate propicie el establecimiento de comercios en los que sea natural una generación especial de basura, se cobrará una cuota del 25% sobre el valor de la licencia.
+###### Artículo 168.
 
-###### ARTICULO 168.
+El interesado podrá solicitar la suspensión del acto administrativo recurrido en cualquier momento, hasta antes de que se resuelva el recurso de reconsideración.
 
-Los causantes de estos derechos deberán enterarlos en la Tesorería Municipal, de acuerdo con las siguientes disposiciones:
-
-a).- A los indicados en las fracciones I, IV y V del Artículo anterior al recibir la licencia o autorización para desarrollar el evento; y
-
-b).- Los indicados en las Fracciones II y III, dentro de los primeros diez días de cada mes, en forma anticipada.
+El Titular de la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología deberá acordar, en su caso, el otorgamiento de la suspensión o la denegación de la misma, dentro de los cinco días hábiles siguientes a su solicitud.
 
 ### CAPITULO DECIMO OCTAVO. POR PUBLICIDAD Y ANUNCIOS EN LA VIA PUBLICA
 
-###### ARTICULO 169.
+###### Artículo 169.
 
-Son causantes de este derecho, las personas físicas o morales o unidades económicas que desarrollen por cuenta propia o de terceros, construcciones nuevas, reconstrucciones, ampliaciones o cualquiera obra de interés particular, dentro del área territorial del Municipio.
+Al resolver sobre la suspensión deberá señalarse, en su caso, las garantías necesarias para cubrir los daños y perjuicios que pudieran ocasionarse con dicha suspensión.
+
+En los casos que proceda la suspensión pero pueda ocasionar daños o perjuicios a terceros, el interesado deberá otorgar garantía bastante para reparar el daño e indemnizar los perjuicios que se ocasionen con dicha medida.
 
 ### CAPITULO DECIMO NOVENO. POR ESTACIONAMIENTO Y APROVECHAMIENTO DE LA VIA PUBLICA
 
-###### ARTICULO 170.
+###### Artículo 170.
 
-Los causantes de este derecho, lo liquidarán en la Tesorería Municipal, de acuerdo con la calificación emitida por el departamento de licencias de construcción en apego a las siguientes tarifas:
+No se otorgará la suspensión en aquellos casos en que se cause perjuicio al interés social, se contravengan disposiciones de orden público o se deje sin materia el procedimiento.
 
-I.- Construcciones nuevas, reconstrucciones, ampliaciones o cualquiera otra obra de interés particular que no exceda de 40 M2. de superficie, ya sea interior o exterior según el tipo de construcción, conforme las siguientes estimaciones y porcentajes sobre el valor total de las obras:
+###### Artículo 171.
 
-Construcción popular $8,000.00/M2 1%
+Los recurrentes a quienes se otorgue la suspensión del acto o la resolución administrativa, deberán garantizar en alguna de las formas siguientes:
 
-Construcción media 13,000.00/M2 2%
+I.- Billete de depósito expedido por la institución autorizada; o
 
-Construcción residencial 25,000.00/M2 2%
+II.- Fianza expedida por institución respectiva.
 
-Construcción de lujo: según estimación 3%
+###### Artículo 172.
 
-II.- Construcciones nuevas, reconstrucciones y modificaciones de diversas clases de edificación de acuerdo con lo siguiente:
+La suspensión sólo tendrá como efecto que las cosas se mantengan en el estado en que se encuentran, en tanto se pronuncia la resolución al recurso.
 
-a).- Destinadas a espectáculos como teatros, cines, plazas de toros y similares, sobre el valor de la obra: 3%.
+###### Artículo 173.
 
-b).- Realizaciones en los mercados municipales dependiendo de sus características se aplicará una cuota de: $5,000.00 a $10,000.00.
+La suspensión podrá revocarse por el Titular de la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, si se modifican las condiciones bajo las cuales se otorgó.
 
-III.- Construcciones nuevas, reconstrucciones y remodelaciones de diversas clases de casa habitación con superficie mayor de 40 M2 considerando la superficie total, misma que se determinará sumando las superficies parciales cubiertas de cada uno de los pisos de que consta, por metro cuadrado o fracciones conforme a lo siguiente:
+###### Artículo 174.
 
-a).- Con estructura metálica: $35.00/M2
+Recibido el recurso por el Titular de la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, en un término de tres días hábiles, deberá proveer sobre la admisión, prevención o desechamiento del recurso, lo cual deberá notificársele al recurrente personalmente. Si se admite el recurso a trámite se concederá una dilación probatoria por el término de diez días. Concluido este período, se abrirá uno para alegatos por el término de cinco días. Agotada esta última etapa, el Titular de la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología elaborará un dictamen y lo turnará con las constancias respectivas al Secretario de Infraestructura Urbana y Ecología para su resolución.
 
-b).- Con estructura de concreto: 30.00/M2
+###### Artículo 175.
 
-c).- Otro tipo de estructura: 19.00/M2
+Se desechará por improcedente el recurso cuando se interponga:
 
-d).- Reconstrucción: 15.00/M2
+I.- Contra actos administrativos que sean materia de otro recurso que se encuentre pendiente de resolución y que haya sido promovido por el mismo recurrente por el propio acto impugnado;
 
-IV.- Ocupación de la vía pública con escombros o materiales de construcción, por día: $15.00/M3.
+II.- Contra actos que no afecten los intereses legítimos del promovente;
 
-Quedan exentas las reparaciones exteriores tales como resanes y pintura, a menos que se utilice la vía pública con tapiales, escombros, etc., en cuyo caso pagarán derechos de acuerdo con lo establecido en este inciso.
+III.- Contra actos consumados de modo irreparable;
 
-V.- Demoliciones parciales por M2. de construcción $15.00 a $20.00/M2
+IV.- Contra actos consentidos expresamente;
 
-VI.- Construcción de:
+V.- Cuando el recurso sea interpuesto fuera del término previsto por esta Ley; o
 
-a).- Fosa séptica $1,500.00
+VI.- Cuando se esté tramitando ante los tribunales algún recurso o medio de defensa legal interpuesto por el promovente, que pueda tener por efecto modificar, revocar o nulificar el acto respectivo.
 
-b).- Pozo de absorción hasta 10M3. 1,500.00
+###### Artículo 176.
 
-c).- Cisterna hasta de 10M3. 1,300.00
+Será sobreseído el recurso cuando:
 
-d).- Cisterna por cada M3. que exceda de 10M3. 130.00
+I.- El promovente se desista expresamente;
 
-e).- Pisos de estacionamientos o piezas de acceso por M2. 20.00
+II.- El interesado fallezca durante el procedimiento, si el acto o resolución impugnados sólo afecta a su persona;
 
-f).- Pisos de canchas deportivas cualquiera que sea su material por M2. 80.00
+III.- Durante el procedimiento sobrevenga alguna de las causas de improcedencia a que se refiere el artículo anterior;
 
-VII.- Nivelación de terracería por metro cuadrado 10.00
+IV.- Hayan cesado los efectos del acto impugnado;
 
-VIII.- Excavaciones de terracería para disminuir el nivel, por metro cúbico: $10.00
+V.- Falte el objeto o materia del acto; o
 
-IX.- Construcción de albercas por metro cúbico: 150.00
+VI.- No se probare la existencia del acto impugnado.
 
-La licencia será valida por el tiempo que en ella se establezca, en caso de prórroga el pago de derechos se hará con base en el tiempo adicional requerido y en el originalmente autorizado. En ningún caso el resultado podrá ser menor de $50.00 diarios, sin perjuicio de la aplicación de sanciones cuando la prórroga no haya sido solicitada en tiempo.
+###### Artículo 177.
 
-Si al hacer la inspección final resultan especificaciones diversas a las propuestas, se negará el permiso de ocupación hasta que se cubran las diferencias correspondientes.
+El Secretario de Infraestructura Urbana y Ecología deberá emitir la resolución al recurso dentro de los diez días hábiles siguientes a aquél en que fenezca el período de alegatos.
 
-X.- Uso de explosivos por M3. $300.00
+###### Artículo 178.
 
-XI.- Por autorización y señalamiento de aforo máximo en edificios deportivos centros de reunión y salas de espectáculos:
+La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente, teniendo la autoridad competente la facultad de invocar hechos notorios; pero cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado, bastará con el examen de dicho punto.
 
-a) Expedición de placa: $2,500.00
+La autoridad, en beneficio del recurrente, podrá corregir los errores que advierta en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios, así como los demás razonamientos del recurrente, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en el recurso.
 
-b) Revisión y supervisión anual: 1,700.00
+Si la resolución ordena realizar un determinado acto o iniciar la reposición del procedimiento, deberá cumplirse en un plazo de 10 días hábiles contados a partir de que se haya dictado dicha resolución.
 
-XII.- Por aprobación de planos para construcción por M2. de superficie cubierta: 25.00
+###### Artículo 179.
 
-XIII.- Por alineamiento oficial por metro lineal de frente a la vía pública:
+El Secretario de Infraestructura Urbana y Ecología, al resolver el recurso podrá:
 
-a).- De 1M. a 10M. 25.00
+I.- Declararlo improcedente o sobreseerlo;
 
-b).- De 10.01M. a 20M. 30.00
+II.- Confirmar el acto impugnado;
 
-c).- De 20.01M. a 50M. 35.00
+III.- Declarar la nulidad del acto impugnado o revocarlo; o
 
-d).- De 50.01M. en adelante 25.00
-
-e).- Números oficiales en el alineamiento por cada número: 200.00
-
-f).- Constancia de número oficial cada una 350.00
-
-g).- Cualquier otro tipo de constancia 350.00
-
-Las licencias de alineamiento de predios expedidas por el Municipio, tendrán vigencia de un año.
-
-XIV.- Aprobación de proyectos a fraccionamientos o sub-división de predios por M2. $12.00 a $17.00
-
-XV.- Aprobación a modificaciones de proyectos de fraccionamientos o sub-divisiones original por M2. $5.00.
-
-XVI.- Fusión de predios por M2. $3.00.
-
-XVII.- Condominios horizontales y verticales por aprobación del régimen por M2. $12.00 a $17.00.
-
-XVIII.- Por supervisión de proyectos a obras de urbanización sobre el costo del 2% al 4%.
-
-XIX.-. Licencias para colocar tapiales, derribo de árboles, demolición de guarniciones y de camellón, causarán derechos como sigue:
-
-a).- Colocar tapiales en vía pública por metro lineal por semana de $10.00 a $15.00.
-
-b).- Derribo de árboles en la vía pública de 5 a 15 cms. de diámetro $330.00.
-
-De 16 a 40 cms. en adelante $850.00.
-
-De 40 cms. en adelante $1,100.00.
-
-c).- Demolición de guarnición para acceso de vehículos por metro lineal $500.00.
-
-d).- Demolición de camellón para acceso y retorno de vehículos por metro lineal de frente a la vía pública $2,500.00.
-
-XX.- Servicios de señalamiento oficial de predios por cada ocasión: $500.00.
-
-XXI.- Inspección final a la construcción para otorgar el oficio de ocupación por M2. $10.00 a $15.00.
-
-XXII.- Apertura de banquetas, reconstrucciones de las mismas u otros trabajos similares a la vía pública por M2. diariamente $25.00.
-
-XXIII.- Instalación de tuberías ocultas en la vía pública para los servicios de agua potable o de drenaje conductos para la instalación telefónica, de luz, o cualquier otra clase de servicio, por metro lineal, por el número de días que dure la obra y con la obligación de reparar de inmediato el pavimento, diariamente de $14.00 a $20.00
-
-Si el causante no hace las reparaciones inmediatas o si las hace y no están acordes a las especificaciones que señala el Municipio, este se hará cargo de ellas por cuenta del solicitante.
-
-Por perforación de pozos previa autorización de la S.A.R.H., se pagará por cada uno:
-
-a).- Para fraccionamiento: $40,000.00.
-
-b).- Para uso particular: $30,000.00.
-
-c).- Por cada litro por segundo de aforo previa verificación de la presidencia Municipal, exclusivamente para fraccionamientos, por una sola vez: $30,000.00.
-
-XXIV.- Permiso para la explotación de arena, tierra y materiales similares por M3. extraído: $10.00.
-
-XXV.- Instalación de calderas de vapor por una sola vez: $1,000.00.
-
-XXVI.- Instalación de elevadores una sola vez: $2,500.00.
-
-Inspección semestral: $1,250.00.
-
-XXVII.- Conexiones de albañal y excavaciones en la vía pública para conectar drenaje o agua potable será aplicable a la siguiente tarifa:
-
-A.- Conexiones del albañal domiciliario al colector general.
-
-1).- Por casa habitación $1,500.00.
-
-2).- Por departamento en edificios habitacionales $1,200.00.
-
-3).- En edificios o unidades para oficinas o comercios, por despacho $1,000.00.
-
-4).- Por oficina o comercio $1,000.00.
-
-5).- Por hotel o restaurante $2,000.00.
-
-B.- Conexión para fraccionamiento por descarga de: $50,000.00 a $150,000.00.
-
-Por lote: ANCHURA: $1,500.00.
-
-C.- Excavación de cepas 60m. 61m. a 1.10M.
-
-En pavimento de concreto 400.00Ml. 600.00Ml.
-
-D.- En pavimento asfáltico $274.00 Ml. 350.00 Ml.
-
-E.- En pavimento pétreo 200.00 Ml. 255.00 Ml.
-
-F.- En terracería: 70.00Ml. 100.00Ml.
-
-G.- Conexión de agua potable sobre la superficie del predio, por M2. o fracción, una sola vez: $20.00.
-
-XXVIII.- Otras actividades de la construcción no especificadas:
-
-Tarifa convencional que fije la autoridad fiscal municipal correspondiente.
-
-###### ARTICULO 171.
-
-Por el acotamiento de predios ubicados en el área territorial del Municipio, se causarán derechos de acuerdo con la siguiente tarifa:
-
-I.- De 0 a 500M2. por M2. $4.00
-
-II.- De 0 a 5,000M2. por M2. 3.00
-
-III.- De 0 a 10,000M2. por M2. 2.00
-
-IV.- De 0 a más de 10,000M2. por M2. 1.00
-
-###### ARTICULO 172.
-
-Por la regularización de construcciones, a través de la autorización de planos o la emisión de licencias de construcción para obras en proceso cuando se trate de vivienda popular o de interés social, se pagará el 50% de las tarifas aplicables. Cuando se reúnen estos requisitos, el contribuyente pagará el total de las tarifas más las sanciones que procedan.
-
-###### ARTICULO 173.
-
-Los predios urbanos ubicados en el Municipio deberán estar bardeados, por lo que se considera de interés público la construcción de bardas. Esta obligación es a cargo de los propietarios o poseedores de predios no edificados.
-
-###### ARTICULO 174.
-
-Las bardas deben ser construidas con cualquier tipo de material distinto a madera, cartón, alambre de púas y otros similares, con una altura mínima de 2M. con la firmeza necesaria que garantice su estabilidad. Además deberán presentar buen aspecto.
-
-###### ARTICULO 175.
-
-Los derechos que se originen por la construcción de bardas se calcularán de acuerdo con la siguiente tarifa:
-
-a).- Hasta una altura de 2.00M. x Ml. $20.00
-
-b).- Hasta una altura de 2.50M. x MI. 45.00
-
-c).- Hasta una altura de 5.00M. x Ml. 70.00
-
-d).- Por la demolición de bardas x Ml. 10.00
-
-###### ARTICULO 176.
-
-Las bardas que se construyen, deberán ajustarse al alineamiento señalado para tal efecto por la Dirección de Obras Públicas Municipales ya que en caso de no apegarse a dicho señalamiento, previo requerimiento, el H. Ayuntamiento procederá a su demolición y reconstrucción, lo cual será a cargo del propietario o poseedor.
-
-###### ARTICULO 177.
-
-El H. Ayuntamiento está facultado para construir a costa de los propietarios o poseedores, la barda de los predios baldíos que no cuentan con ella, en un término de 90 días computados a partir de la fecha en que sean requeridos dichos propietarios o poseedores.
-
-###### ARTICULO 178.
-
-El adeudo por la construcción de bardas hechas por el H. Ayuntamiento deberá ser liquidado en la Tesorería Municipal, dentro de los tres primeros meses siguientes a la terminación de la obra.
-
-Los causantes de este derecho que liquiden el adeudo de contado, tendrán derecho a la aplicación de un 10% de descuento siempre y cuando el pago se efectúe dentro de los 15 días posteriores a la notificación de su adeudo.
-
-###### ARTICULO 179.
-
-La acción del H. Ayuntamiento para el cobro de los derechos de construcción de bardas, y la reconstrucción de las mismas, en su caso, es preferente a cualquier otra y afecta directamente al predio que reciba el servicio y se ejercitará mediante el procedimiento económico coactivo de ejecución establecido en esta Ley.
+IV.- Modificar u ordenar la modificación del acto impugnado o dictar u ordenar expedir uno nuevo que lo sustituya, cuando el recurso interpuesto sea total o parcialmente resuelto a favor del recurrente; u ordenar la reposición del procedimiento administrativo.
 
 ### CAPITULO VIGESIMO. POR INSPECCION Y VIGILANCIA
 
-###### ARTICULO 180.
+###### Artículo 180.
 
-Son causantes de este derecho, las personas físicas, morales o unidades económicas que en inmueble de su propiedad o arrendado, establezcan anuncios comerciales o publicitarios. Serán responsables solidarios los propietarios de los inmuebles utilizados.
+Contra la resolución que recaiga al recurso de reconsideración dictado por el Secretario de Infraestructura Urbana y Ecología procede el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo.
 
 ###### ARTICULO 181.
 
@@ -3551,30 +2601,80 @@ III.- Créditos que le sean otorgados por la Banca Nacionalizada siempre y cuand
 
 ## TRANSITORIOS
 
-PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+###### ARTICULO PRIMERO.
 
-SEGUNDO.- Las Leyes de Ingresos de los Municipios del Estado para el año de 1984, tienen vigencia hasta el 31 de diciembre del mismo año, sin perjuicio de las adiciones y reformas que puedan hacérseles durante su vigencia.
+La presente Ley entrará en vigor a partir del siguiente día de su publicación en el Boletín Oficial del Gobierno del Estado.
 
-TERCERO.- En la fecha de vigencia de esta Ley quedará derogada la Ley de Hacienda Municipal de fecha 24 de noviembre de 1965, publicada en el Periódico Oficial número 2206, con sus reformas y adiciones. En la misma fecha de vigencia de esta Ley quedarán derogadas las demás Leyes y disposiciones de observancia general, en lo que se opongan a este ordenamiento.
+###### ARTICULO QUINTO.
 
-CUARTO.- Remítase la presente Ley al Ejecutivo del Estado para los efectos de la Fracción XVII, del Artículo 70 de la Constitución Política Local.
+El titular del Poder Ejecutivo deberá expedir, dentro del término de ciento ochenta días siguientes a la entrada en vigencia de la presente Ley, el Reglamento del Registro Público de Transporte del Estado y dentro de ciento veinte días, contados a partir de la misma fecha anterior, los Reglamentos de Capacitación, de Inspección y Vigilancia, del Consejo Consultivo del Transporte del Estado de Sonora y del Funcionamiento Interior de la Unidad Administrativa de la Secretaría de Infraestructura Urbana y Ecología creada por disposición de esta Ley.
 
-Salón de Sesiones del H. Congreso del Estado, a los treinta días del mes de diciembre de mil novecientos ochenta y tres.- DIPUTADA PRESIDENTA.- Profra. Gloria Ulloa Villanueva.- DIPUTADA SECRETARIA.- Eleazar Jiménez Alonso.- DIPUTADO SECRETARIO.- Sergio Bernadez González.- Rúbricas.
+###### ARTICULO SEXTO.
 
-Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+Las personas a quienes se les haya autorizado concesión para prestar el servicio público de transporte en la modalidad de pasaje, en los sistemas de transporte de trabajadores agrícolas y especializado de personal, así como en la modalidad de carga, deberán presentarse ante la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, dentro del término de noventa días contados a partir de la entrada en vigor del (sic) esta Ley, para llevar a cabo la regularización de sus concesiones, teniendo en cuenta el ámbito territorial de la prestación del servicio que se les haya autorizado, con el entendido de que si no se presentare en el plazo señalado, se revocará su concesión.
 
-Dado en la Residencia del Poder Ejecutivo en la Ciudad de Cuernavaca, Capital del Estado de Morelos, a los cuatro días del mes de enero de mil novecientos ochenta y cuatro.
+###### ARTICULO SEPTIMO.
 
-SUFRAGIO EFECTIVO. NO REELECION
+En tanto se expiden los reglamentos de la materia, las labores de inspección y vigilancia, así como de sanción serán realizadas por la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología. En tanto los Ayuntamientos expiden el reglamento de inspección y vigilancia que regirá su ámbito territorial, la aplicación de sanciones que se originen de las funciones de inspección y vigilancia serán competencia del propio Ayuntamiento.
 
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
+###### ARTICULO OCTAVO.
 
-Dr. Lauro Ortega Martínez
+Una vez expedidos los reglamentos respectivos, se concede un plazo máximo de treinta días para la instalación del Consejo Consultivo Estatal y los Consejos Consultivos Municipales, a fin de dar efectivo cumplimiento a las disposiciones derivadas de esta Ley.
 
-Rúbrica
+###### ARTICULO NOVENO.
 
-EL SECRETARIO GENERAL DE GOBIERNO
+Hasta en tanto el Congreso del Estado apruebe las tarifas en los términos previstos en esta Ley, se seguirán aplicando las que autorizó la Dirección General de Transporte en los términos de la Ley que se abroga de conformidad con el segundo transitorio de la presente Ley.
 
-Lic. David Jiménez González
+###### ARTICULO DECIMO.
 
-Rúbrica
+Para la implementación en los municipios del Estado del nuevo sistema de transporte público, previsto por el artículo 43, fracción I inciso f), denominado automóvil de alquiler colectivo, se requiere le (sic) elaboración de los estudios técnicos y socioeconómicos previstos en el artículo 9, fracción VIII, de la presente Ley, para los efectos que la misma señala.
+
+COMUNIQUESE AL TITULAR DEL PODER EJECUTIVO PARA SU SANCION Y PROMULGACION.- SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- HERMOSILLO, SONORA, A 1 DE MARZO DE 2002.- AL MARGEN CENTRAL DERECHO UN SELLO CON EL ESCUDO NACIONAL QUE DICE: ESTADOS UNIDOS MEXICANOS.- H. CONGRESO DEL ESTADO DE SONORA.- DIPUTADO PRESIDENTE.- C. JESUS AVILA GODOY.- RUBRICA.- DIPUTADO SECRETARIO.- C. HELEODORO PACHECO VASQUEZ.- RUBRICA.- DIPUTADA SECRETARIA.- C.M. VIOLA CORRELLA MANZANILLA.- RUBRICA.-
+
+POR TANTO, MANDO SE PUBLIQUE EN EL BOLETIN OFICIAL DEL ESTADO Y SE LE DE EL DEBIDO CUMPLIMIENTO.- PALACIO DE GOBIERNO, HERMOSILLO, SONORA, OCHO DE MARZO DEL DOS MIL DOS.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- ARMANDO LOPEZ NOGALES.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- OSCAR LOPEZ VUCOVICH.- RUBRICA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 26 DE JUNIO DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 8 DE JULIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado deberá realizar las adecuaciones pertinentes al reglamento de la Ley de Transporte para el Estado de Sonora, en un plazo no mayor a 60 días hábiles, contado a partir de la entrada en vigor del presente decreto.
+
+B.O. 25 DE MARZO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 23 DE DICIEMBRE DE 2013.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley 120 de Transporte para el Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado, número 6, Sección I, de fecha 20 de julio de 1992; asimismo se deroga la fracción III del artículo 23 de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora, así como todas aquellas disposiciones que se opongan a la presente Ley.
+
+###### ARTICULO TERCERO.
+
+Los procedimientos de otorgamiento y cancelación de concesiones, reubicación de sitio y todos aquellos que tengan por objeto modificación a los términos de concesiones, que se encuentren en trámite a la entrada en vigor de la presente Ley, se resolverán conforme a las disposiciones de la Ley 120 de Transporte para el Estado de Sonora que se abroga.
+
+###### ARTICULO CUARTO.
+
+Una vez que la presente Ley entre en vigor, no se recibirán solicitudes de concesión en tanto no se publique convocatoria pública en los términos que lo previene esta Ley.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Para la aplicación de la Tarifa Especial Extraordinaria que describe el Artículo 89, fracción I, inciso c; en aquellas ciudades cuyos servicios de transporte público urbano no cuenten con los sistemas tecnológicos adecuados para el control en el otorgamiento de este beneficio a los estudiantes; el Ejecutivo Estatal deberá establecer los programas de modernización tecnológica que sean necesarios en un plazo no mayor a 210 días naturales a partir de la publicación de la presente Ley; con la finalidad de que todos los estudiantes en el Estado de Sonora accedan al beneficio de esta Tarifa Especial Extraordinaria.
+
+El Ejecutivo Estatal una vez establecidos los controles tecnológicos adecuados en cada ciudad, deberá informarlo al Consejo Ciudadano, a fin de que éste considere los porcentajes de descuento que establece la Tarifa Especial Extraordinaria en la fórmula para la determinación de la Tarifa Técnica, y por consecuencia se realicen los ajustes necesarios en la Tarifa al Usuario.
