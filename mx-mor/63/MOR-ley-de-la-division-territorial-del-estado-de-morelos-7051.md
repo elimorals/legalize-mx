@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-la-division-territorial-del-estado-de-morelos-7051"
 country: "mx"
 rank: "ley"
 publication_date: "1932-12-18"
-last_updated: "1938-07-24"
+last_updated: "1938-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LA DIVISIÓN TERRITORIAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 1938.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 1938.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el domingo 18 de diciembre de 1932.
 
@@ -37,11 +37,11 @@ Ley de la División Territorial del Estado de Morelos
 
 En el Estado de Morelos el Municipio Libre se considera como la base de la división territorial del mismo.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1938)</small>
+
 ###### Art. 2.
 
-El Estado se divide en los 29 Municipios siguientes, los cuales conservarán los límites que actualmente tienen, con jurisdicción en los pueblos que esta misma Ley señala y que, para los efectos de la Ley Orgánica Municipal vigente, serán considerados como secciones Municipales, las que conservarán también sus límites actuales.
-
-Amacuzac, Atlatlahucan, Axochiapan, Ayala, Coatlán, Cuautla, Cuernavaca, Emiliano Zapata, Huitzilac, Jantetelco, Jiutepec, Jojutla, Jonacatepec, Mazatepec, Miacatlán, Ocuituco, Puente de Ixtla, Tepalcingo, Tepoztlán, Tetecala, Tlalnepantla, Tlaltizapán, Tlaquiltenango, Tlayacapan, Totolapan, Xochitepec, Yautepec, Yecapixtla y Zacualpan.
+El Estado se divide en los treinta y dos Munisipios (sic) siguientes: Amacuzac, Atlatlahucan, Axochiapan Ayala, Coatlán del Río, Cuautla, Cuernavaca, Emiliano Zapata, Huitzilac, Jantetelco, Jiutepec, Jojutla, Jonacatepec, Mazatepec, Miacatlán, Ocuituco, Puente de Ixtla, Temixco, Tepalcingo, Tepoztlán, Tetecala, Tetela del Volcán, Tlanepantla, Tlaltizapán, Tlaquiltenango Tlayacapan, Totolapan, Xochitepec, Yautepec, Yecapixtla, Zacatepec Morelos y Zacualpan.
 
 ###### Art. 3.
 
@@ -149,9 +149,11 @@ Corresponden a la jurisdicción del Municipio de Tlaltizapán, los siguientes ce
 
 Corresponden a la jurisdicción del Municipio de Tlaltizapán, los siguientes centros de población: Acamilpa, Amador Salazar, Barranca Honda, Bonifacio García, Hidalgo, Huatecalco, Los Copales, Pueblo Nuevo, Temilpa, Temimilcingo, Ticumán, Tlaltizapan, Cabecera del Municipio, Treinta y Zaragoza.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1938)</small>
+
 ###### Art. 26.
 
-Corresponden a la jurisdicción del Municipio de Tlayacapan, los siguientes centros de población: Amatlipac, Cuautempa, Los Laureles y Tlayacapan Cabecera del Municipio.
+Corresponden a la jurisdicción del Municipio de Tlaquiltenango, los siguientes centros de población: Ajuchitlán, Calabazal Coaxitlán, Chimalacatlán, Huautla, Huaxtla, Huixaxtla, La Era, La Mezquitera, Lorenzo Vázquez, Los Elotes, Los Hornos, Nexpa, Pala, Quilamula, Rancho Viejo, Santiopa, Tlaquiltenango, Cabecera del Municipio, Xicatlacotla y Xochipala.
 
 ###### Art. 27.
 
@@ -218,3 +220,7 @@ Tercero.- Se convoca a Elecciones Extraordinarias en el Municipio de Tetela del 
 P.O. 24 DE JULIO DE 1938.
 
 UNICO.- Remítase al Ejecutivo del Estado para los efectos de la fracción I del artículo 71 de la Constitución Política Local.
+
+P.O. 25 DE DICIEMBRE DE 1938.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 7 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MORELOS.
