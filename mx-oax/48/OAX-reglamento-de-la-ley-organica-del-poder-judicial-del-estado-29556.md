@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-de-la-ley-organica-del-poder-judicial-del-estado-295
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-12-11"
-last_updated: "1999-12-11"
+last_updated: "2004-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29556&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2004.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 11 de diciembre de 1999.
 
@@ -357,23 +357,57 @@ III.- Tener amistad o enemistad con alguna de las partes.
 
 Los Peritos que encontrándose en alguno de los supuestos a que se refiere el artículo anterior, no se excusen de conocer de los asuntos en que se les haya designado Peritos, serán sancionados en los términos que prevé la Ley Orgánica del Poder Judicial del Estado por faltas a la función pública encomendada.
 
-### CAPÍTULO II. DE LA DEFENSORÍA DE OFICIO
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE JUNIO DE 2004)</small>
+
+### CAPÍTULO II. DEL CENTRO DE MEDIACIÓN JUDICIAL
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 43.
 
-Los Defensores de Oficio serán nombrados por el Presidente del Tribunal Superior de Justicia del Estado, previa satisfacción de los requisitos exigidos por el artículo 49 de la Ley Orgánica del Poder Judicial del Estado.
+La Dirección del Centro de mediación Judicial estará a cargo de un Profesionista en Derecho o Comunicación y/o Psicología y deberá satisfacer los siguientes requisitos:
+
+I. Ser mexicano en el pleno ejercicio de sus derechos políticos y civiles.
+
+II. Tener cuando menos treinta años de edad en la fecha de su nombramiento y dos años de ejercicio profesional como mínimo.
+
+III. Contar con experiencia en su formación de origen, además de capacitación y experiencia en mediación.
+
+IV. Pertenecer preferentemente al Poder Judicial del Estado y no haber sido condenado por la comisión de algún delito, excepto culposo por tránsito de vehículo, salvo que se haya cometido bajo los influjos del alcohol o de alguna droga enervante.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 44.
 
-Los Defensores de Oficio serán asignados a los Tribunales de Primera y Segunda Instancia del Estado por la Secretaria General de Acuerdos, previa autorización del Presidente del Tribunal Superior de Justicia del Estado.
+Para ser mediador se requiere:
+
+I. Ser mexicano en pleno ejercicio de sus derechos políticos y civiles.
+
+II. Tener cuando menos veinticinco años de edad en la fecha de su nombramiento, título y cédula profesional de Licenciado en Derecho, comunicación y/o Psicología, expedidos por Institución Educativa y Autoridad legalmente facultada para ello; exceptuándose de esta obligación las personas que justifiquen haber dado servicio a su comunidad por tres años en cuestiones de resolución de conflictos.
+
+III. No haber sido condenado por la comisión de algún delito culposo por tránsito de vehículo, salvo que se haya cometido bajo los influjos de alcohol o de alguna droga enervante.
+
+IV. Pertenecer preferentemente al Poder Judicial del Estado y contar con una experiencia mínima en el ejercicio jurisdiccional de dos años.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 45.
 
-Los Defensores de Oficio podrán ser rotados de un Distrito Judicial a otro o en el mismo Distrito Judicial, según las necesidades del servicio o cuando lo determine la Presidencia del Tribunal Superior de Justicia del Estado.
+Para desempeñarse como Titular en el área de Trabajo Social deberán satisfacer los siguientes requisitos:
+
+I. Ser mexicano en el pleno ejercicio de sus derechos políticos y civiles.
+
+II. Tener cuando menos veinticinco años de edad en la fecha de su nombramiento, título y cédula profesional en Trabajo Social, expedidos por Institución Educativa y Autoridad legalmente facultada para ello.
+
+III. Contar con experiencia en Servicios de Mediación.
+
+IV. No haber sido condenado por la comisión de algún delito culposo por tránsito de vehículo, salvo que se haya cometido bajo los influjos de alcohol o de alguna droga enervante.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 46.
 
-Los Defensores de Oficio deberán rendir a la Secretaría General de Acuerdos, en forma mensual, o cuando para ello sean requeridos, un informe de las actividades que realizan en cumplimiento de sus funciones en los Tribunales de su adscripción.
+Para ser invitador se requieren los mismos requisitos del Artículo anterior, excepto el de la edad y del grado profesional pues bastará tener cuando menos veintidós años de edad en la fecha de su nombramiento y ser pasante de la Licenciatura en Derecho, pero se dará preferencia en iguales circunstancias a quien ostente titulo y cédula profesional.
 
 ## TÍTULO QUINTO. DE LA ADMINISTRACIÓN INTERNA
 
@@ -1100,3 +1134,11 @@ INDICE
 ### Capítulo V. DEL PREMIO AL MÉRITO JUDICIAL
 
 ## TRANSITORIOS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 11 DE JUNIO DE 2004.
+
+PRIMERO.- Publíquese el presente acuerdo por una vez en el Periódico Oficial del Gobierno del Estado, así como el Boletín del Poder Judicial del Estado.
+
+SEGUNDO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
