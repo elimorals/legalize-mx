@@ -4,7 +4,7 @@ identifier: "COL-ley-de-pensiones-civiles-para-el-estado-de-colima-4421"
 country: "mx"
 rank: "ley"
 publication_date: "1962-12-29"
-last_updated: "1962-12-29"
+last_updated: "1965-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PENSIONES CIVILES PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 1965.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 29 de diciembre de 1962.
 
@@ -128,6 +128,10 @@ k).- Iniciar las reformas a la presente Ley cuando lo amerite.
 l).- Realizar toda clase de actos u operaciones autorizadas por esta Ley o que para la mejor administración o gobierno fueren necesarios.
 
 m).- Celebrar sesiones ordinarias, cuando menos una vez al mes, y extraordinarias cuando fuere necesario.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
+
+n).- Gestionar y obtener empréstitos de Instituciones Bancarias, para destinar su importe a la construcción de viviendas para sus derecho-habientes.
 
 ###### Art. 11.
 
@@ -287,13 +291,17 @@ PRESTAMOS HIPOTECARIOS
 
 Se conderán (sic) préstamos con garantía hipotecaria a empleados y funcionarios acogidos a esta Ley, que tengan más de seis meses de servicio, debiendo ser dicha garantía en primer lugar, y sobre fincas urbanas.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
 ###### Art. 36.
 
-El importe de cada préstamo no excederá de veinte mil pesos, salvo casos especiales que considere el Consejo.
+El importe de cada préstamo no excederá de treinta mil pesos, salvo casos especiales que considere el Consejo.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
 ###### Art. 37.
 
-El plazo máximo para el pago del capital e intereses, será de diez años y deberá cubrirse mediante amortizaciones quincenales, que incluirán capital e intereses.
+El plazo máximo para el pago del capital e intereses, será de quince años y deberá cubrirse mediante amortizaciones quincenales que incluirán capital e intereses.
 
 ###### Art. 38.
 
@@ -490,3 +498,9 @@ Salón de Sesiones del H. Congreso del Estado.- Colima, Col., Diciembre 28 de 19
 Por tanto mando se imprima, publique, circule y observe.-
 
 Palacio de Gobierno.- Colima, Col., Diciembre 28 de 1962.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FRANCISCO VELASCO CURIEL.- Rúbrica.- EL SECRETARIO GRAL. DE GOBIERNO, LIC. JULIO SANTA ANA E.- Rúbrica.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE MAYO DE 1965.
+
+UNICO.- Este Decreto empezará a surtir sus efectos a partir del día siguiente de su publicación en el Periódico Oficial.
