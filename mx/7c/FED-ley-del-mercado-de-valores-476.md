@@ -4,7 +4,7 @@ identifier: "FED-ley-del-mercado-de-valores-476"
 country: "mx"
 rank: "ley"
 publication_date: "1975-01-02"
-last_updated: "1975-01-02"
+last_updated: "1977-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=476&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMV"
 
 LEY DEL MERCADO DE VALORES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE NOVIEMBRE DE 1977.
 
 Ley publicada en el Diario Oficial de la Federación el jueves 2 de enero de 1975.
 
@@ -236,7 +236,9 @@ V.- Las análogas o complementarias de las anteriores, que les sean autorizadas 
 
 Los agentes a que se refiere el artículo 23, con la salvedad contenida en el párrafo siguiente, no podrán realizar ninguna operación con valores con quienes tengan participación en su capital social. Los agentes, en cuyo capital social participen bancos de depósito o sociedades financieras, no podrán realizar operación alguna en la que actúe por cuenta propia cualquiera institución de crédito.
 
-Los agentes citados en último término podrán operar con instituciones de crédito cuando éstas: actúen en el desempeño de fideicomisos, mandatos y comisiones o realicen otras operaciones por cuenta ajena; tomen montos importantes de títulos, directamente de sus emisores o bien de alguno o algunos de sus titulares, para la subsecuente colocación diversificada de aquéllos entre el público; u operen con títulos de crédito emitidos por las propias instituciones, excepto acciones.
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 28 DE NOVIEMBRE DE 1977)</small>
+
+Los agentes citados en último término podrán operar con instituciones de crédito cuando éstas: actúen en el desempeño de fideicomisos, mandatos y comisiones o realicen otras operaciones por cuenta ajena; tomen montos importantes de títulos, directamente de sus emisores o bien de alguno o algunos de sus titulares para la subsecuente colocación diversificada de aquéllos entre el público; u operen con Certificados de Tesorería de la Federación o con títulos de crédito emitidos por las propias instituciones, excepto acciones.
 
 ###### ARTICULO 25.
 
@@ -332,9 +334,9 @@ d).- Las operaciones en bolsa de los socios que sean personas morales deberán s
 
 e).- Las acciones deberán mantenerse depositadas en la propia bolsa, en garantía de la gestión del socio correspondiente.
 
-> <small>(F. DE E., D.O.F. 10 DE FEBRERO DE 1975)</small>
+(ADICIONADO [N. DE E. REFORMADO], D.O.F. 28 DE NOVIEMBRE DE 1977).
 
-f).- Los socios de las bolsas no deberán operar fuera de éstas los valores inscritos en las mismas.
+f).- Los socios de las bolsas no deberán operar fuera de éstas los valores inscritos en ellas. La Comisión Nacional de Valores podrá determinar las operaciones con Certificados de Tesorería de la Federación que, sin ser concertadas en bolsa, deban considerarse como realizadas a través de la misma. El ejercicio de esta facultad queda sujeto a que en las operaciones respectivas sean registradas en bolsa y dadas a conocer al público, conforme a las disposiciones de carácter general que dicha Comisión establezca, previa consulta en la Secretaría de Hacienda y Crédito Público.
 
 ###### ARTICULO 32.
 
@@ -629,6 +631,18 @@ Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en la pres
 México, D. F., 29 de diciembre de 1974.- "Año de la República Federal y del Senado".- Píndaro Urióstegui Miranda, D. P.- Francisco Luna Kan, S. P.- Jaime Coutiño Esquinca, D. S.- Agustín Ruíz Soto, S. S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos setenta y cuatro.- "Año de la República Federal y del Senado".- Luis Echeverría Alvarez.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José López Portillo.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 28 DE NOVIEMBRE DE 1977.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Decreto del 28 de diciembre de 1962, que autoriza al Ejecutivo Federal para emitir Bonos de Tesorería.
 
 ###### ARTICULO 1o.
 
