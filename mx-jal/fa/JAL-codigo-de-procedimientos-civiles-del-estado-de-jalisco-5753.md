@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "1970-08-27"
+last_updated: "1971-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 1971.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -5032,6 +5032,8 @@ Al cumplir el síndico lo que se dispone en el artículo 783, presentará tambi�
 
 De la Adopción.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1971)</small>
+
 ###### ARTICULO 817.
 
 Inmediatamente que el Juez tenga conocimiento de la muerte del autor de una herencia, sin perjuicio de lo dispuesto en el artículo 195 del Código Civil, y mientras se presentan los interesados, procederá con intervención del Ministerio Público a asegurar los bienes:
@@ -6244,7 +6246,7 @@ Disposiciones Relativas a Otros Actos de Jurisdicción Voluntaria.
 
 El que pretenda adoptar a alguna persona deberá acreditar:
 
-I.- Que es mayor de cuarenta años y tiene por lo menos diecisiete años más de edad que la persona que trata de adoptar;
+I.- Que es mayor de 25 años y tiene por lo menos 17 años más de edad que la persona que trata de adoptar;
 
 II.- Que no tiene descendientes;
 
@@ -6254,7 +6256,7 @@ IV.- Que la adopción es benéfica para la persona que trata de adoptarse;
 
 V.- Que el adoptante es persona de buenas costumbres.
 
-En la promoción inicial deberá manifestarse: el nombre y edad del menor o incapacitado, el nombre y domicilio de quienes ejercen sobre él la patria potestad o la tutela y, en su caso, el de la persona o institución de beneficencia que lo tenga acogido.
+En la promoción inicial deberá manifestarse; el nombre y edad del menor o incapacitado, el nombre y domicilio de quienes ejercen sobre él la patria potestad o la tutela y, en su caso, el de la persona o institución de beneficencia que lo tenga acogido.
 
 ###### ARTICULO 1028.
 
@@ -6757,3 +6759,7 @@ P.O. 27 DE AGOSTO DE 1970.
 PRIMERO.- Las disposiciones contenidas en el presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO.- Los juicios cuya demanda haya sido admitida con anterioridad a la vigencia de las presentes reformas se tramitarán con base en los dispositivos que quedan abrogados o derogados por ellas.
+
+P.O. 25 DE MAYO DE 1971.
+
+UNICO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
