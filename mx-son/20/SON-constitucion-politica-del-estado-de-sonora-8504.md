@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1977-02-19"
+last_updated: "1977-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE FEBRERO DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 18 DE JUNIO DE 1977.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -561,7 +561,7 @@ VII. Para dictar leyes relativas a la salubridad pública del Estado.
 
 VIII. Para dictar leyes encaminadas a combatir el alcoholismo en el Estado.
 
-IX. Para determinar el número máximo de ministros de cultos religiosos que puedan ejercer su ministerio en el Estado en las condiciones del artículo 130 de la Constitución General de la República.
+IX. Para determinar el número máximo de ministros de cultos religiosos que puedan ejercer su ministerio en el Estado, en las condiciones del artículo 130 de la Constitución General de la República.
 
 X. Para reglamentar el funcionamiento del Municipio Libre como base de la división territorial y de la organización política y administrativa del Estado.
 
@@ -763,9 +763,9 @@ III. Tener treinta años cumplidos, por lo menos, el día de la elección.
 
 IV. No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
 
-> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADA, B.O. 18 DE JUNIO DE 1977)</small>
 
-V. No haber sido Magistrado del Supremo Tribunal, Procurador General de Justicia, Secretario o Subsecretario de Gobierno, Tesorero General del Estado, ni militar en servicio activo ni haber tenido mando de fuerzas dentro del Estado, en el año inmediatamente anterior al día de la elección.
+V. No haber sido Magistrado del Supremo Tribunal o del Tribunal de lo Contencioso Administrativo, Procurador General de Justicia, Secretario o Subsecretario de Gobierno, Tesorero General del Estado, ni militar en servicio activo ni haber tenido mando de fuerzas dentro del Estado, en los seis meses inmediatamente anteriores al día de la elección.
 
 VI. No haber figurado, directa o indirectamente, en alguna asonada, motín o cuartelazo.
 
@@ -877,9 +877,13 @@ XIII. En caso de invasión o de conmoción interior, tomar, de acuerdo con el Co
 
 XIV. En caso de sublevación o de trastorno interior en el Estado, excitar, de acuerdo con el Congreso o de la Diputación Permanente, a los Poderes Federales a que ministren la protección debida, si los elementos de que dispone el Estado no fueren bastantes para restablecer el orden.
 
-XV. Excitar a los ayuntamientos y presidentes municipales en los casos en que a su juicio fuere necesario para el mejoramiento de los distintos ramos de la administración de los municipios.
+> <small>(REFORMADA, B.O. 18 DE JUNIO DE 1977)</small>
 
-XVI. Dar órdenes a los presidentes municipales y comisarios sobre los asuntos relativos a los ramos cuya administración general en el Estado corresponda al Ejecutivo, conforme a las leyes reglamentarias respectivas.
+XV. Auxiliar, a solicitud de sus Ayuntamientos, a los Municipios de la entidad a fin de mejorar la ejecución de obras, la prestación de servicios o cualquier otro propósito del que se derive un mejoramiento de la administración y fortalecimiento de autonomía municipal.
+
+> <small>(REFORMADA, B.O. 18 DE JUNIO DE 1977)</small>
+
+XVI. Celebrar convenios con el Ejército Federal y con los Ayuntamientos de la entidad, de los que se deriven la ejecución de obras, la prestación de servicios o el mejoramiento común de la Hacienda Pública, así como el cumplimiento de cualquier propósito de beneficio colectivo.
 
 XVII. Declarar la utilidad pública y decretar la expropiación, de acuerdo con lo prevenido en el artículo 27 de la Constitución General, ajustando sus procedimientos a las leyes correspondientes.
 
@@ -967,11 +971,17 @@ XII. Disponer en ningún caso, bajo ningún pretexto, de los bienes considerados
 
 XIII. Conceder licencias para juegos de azar.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 18 DE JUNIO DE 1977)</small>
 
 ###### Artículo 81.
 
-Para el despacho de los negocios que esta Constitución encomienda al Ejecutivo habrá un Secretario de Gobierno. Para ocupar este puesto son necesarios los mismos requisitos que para ser Gobernador.
+Para el despacho de los negocios que esta Constitución encomienda al Ejecutivo, habrá un Secretario General de Gobierno, quien tendrá las facultades y obligaciones que le confieren esta Constitución y la Ley Orgánica del Poder Ejecutivo del Estado.
+
+Para ocupar este cargo, son necesarios los mismos requisitos que para ser Gobernador.
+
+Además, habrá un Subsecretario de Gobierno, quien auxiliará en sus funciones y suplirá en sus ausencias temporales al Secretario General de Gobierno y tendrá las facultades y obligaciones que le señale la Ley Orgánica del Poder Ejecutivo del Estado.
+
+Además de los funcionarios anteriores y los que establezca esta Constitución, habrá el número de funcionarios y dependencias que señalen la Ley Orgánica del Poder Ejecutivo y el Presupuesto de Egresos.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -979,11 +989,7 @@ Para el despacho de los negocios que esta Constitución encomienda al Ejecutivo 
 
 Todas las leyes, decretos, reglamentos, circulares, acuerdos y órdenes que suscriba el Gobernador deberán en todo caso ser autorizados con la firma del Secretario de Gobierno y comunicados por éste. Los documentos que el Gobernador suscriba en ejercicio de sus funciones constitucionales, así como los despachos que expida, deberán ir refrendados por el Secretario de Gobierno y sin este requisito no surtirán efectos legales.
 
-> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1975)</small>
-
-Artículo 82 A. Para auxiliar al Secretario de Gobierno en sus funciones y para substituirlo en sus faltas temporales, habrá un Subsecretario de Gobierno con las atribuciones que le asigne la Ley Orgánica del Poder Ejecutivo del Estado. El Subsecretario deberá llenar los mismos requisitos que se exigen para el Secretario de Gobierno.
-
-Habrá además un Oficial Mayor de la Secretaría con las facultades que le asigne la propia Ley Orgánica del Poder Ejecutivo del Estado.
+Articulo 82 A. (DEROGADO, B.O. 18 DE JUNIO DE 1977)
 
 #### SECCION I.
 
@@ -1009,11 +1015,11 @@ La Tesorería General estará a cargo de un Tesorero, dependiente del Poder Ejec
 
 Para la recaudación de las contribuciones y para el pago de los gastos, el Tesorero General deberá sujetarse estrictamente a las leyes de presupuestos y demás relativas.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 18 DE JUNIO DE 1977)</small>
 
 ###### Artículo 86.
 
-Todos los pagos que efectúe el Tesorero General se harán mediante orden escrita y firmada por el Gobernador y por el Secretario de Gobierno, en la que deberá expresarse la partida del presupuesto a cargo de la cual se hace el pago, pues las asignaciones respectivas se aplicarán únicamente al objeto a que están destinadas.
+Todos los egresos que efectúe el Tesorero General del Estado, se harán con la aprobación escrita del Gobernador, con cargo a las partidas presupuestales correspondientes, en la forma que establezca la ley reglamentaria respectiva.
 
 ###### Artículo 87.
 
@@ -1543,11 +1549,11 @@ En los casos de este artículo las resoluciones del Gran Jurado y la declaració
 
 No gozan de fuero constitucional los funcionarios indicados en el Artículo anterior por los delitos oficiales, faltas u omisiones en que incurran en el desempeño de algún empleo, cargo o comisión pública que hayan aceptado durante el período en que conforme a la Ley se disfrute del fuero. Lo mismo sucederá respecto a los delitos comunes que cometan durante el desempeño de dicho empleo, cargo o comisión. Para que la causa pueda iniciarse cuando el funcionario haya vuelto a ejercer sus funciones propias, deberá procederse con arreglo a lo dispuesto en el Artículo anterior.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 18 DE JUNIO DE 1977)</small>
 
 ###### Artículo 146.
 
-Para proceder contra el Oficial Mayor de la Secretaría de Gobierno, jueces de primera instancia, presidentes municipales, concejales de los ayuntamiento y Agentes del Ministerio Público, ya se trate de delitos comunes u oficiales, será precisa la previa declaración de haber lugar a formación de causa que hará el Supremo Tribunal de Justicia. Los jueces locales y menores gozarán de la inmunidad que este artículo concede; pero la declaración de haber lugar a formación de causa será hecha por el juez de primera instancia del ramo penal respectivo.
+Para proceder contra los Jueces de Primera Instancia, Presidentes Municipales, Concejales de los Ayuntamientos y Agentes del Ministerio Público, ya se trate de delitos comunes u oficiales, será precisa la previa declaración de haber lugar a formación de causa que hará el Supremo Tribunal de Justicia. Los Jueces Locales y Menores gozarán de la inmunidad que este artículo concede; pero la declaración de haber lugar o formación de causa será hecha por el Juez de Primera Instancia del Ramo Penal respectivo.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -1958,6 +1964,10 @@ UNICO.- Esta ley entrará en vigor a partir de su publicación en el Boletín Of
 B.O. 19 DE FEBRERO DE 1977.
 
 UNICO.- Esta ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado.
+
+B.O. 18 DE JUNIO DE 1977.
+
+UNICO.- Esta ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
