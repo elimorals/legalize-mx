@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2000-10-05"
+last_updated: "2000-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2000.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -4347,7 +4347,13 @@ V. La pequeña propiedad en los Términos de la Ley Agraria.
 
 El patrimonio de familia puede ser constituido por cualesquiera de los miembros de ésta, entendiéndose por familia para los efectos de este capítulo a todo grupo de personas que habitan una misma casa, se encuentren unidos por vínculo de matrimonio o concubinato o lazos de parentesco consanguíneo y que por la ley o voluntariamente, tengan unidad en la administración del hogar.
 
-Para los efectos de este artículo se entiende por concubinato el estado en el cual el varón y la mujer viven como si fueran cónyuges, libres de matrimonio.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2000)</small>
+
+Para los efectos de este artículo, se entiende por concubinato el estado por el cual un hombre y una mujer solteros viven como si fueran cónyuges, durante cinco años o más. Se considera también concubinato cuando transcurridos tres años de iniciada esa unión, hubieren procreado entre sí algún hijo.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2000)</small>
+
+Se considerará que existe el concubinato, siempre y cuando la pareja se haya establecido en un mismo domicilio, a partir de ese momento no se den separaciones físicas por un tiempo mayor de seis meses y hayan transcurrido los plazos del párrafo anterior.
 
 ###### Art. 779.
 
@@ -16988,3 +16994,7 @@ P.O. 23 DE SEPTIEMBRE DE 2000.
 P.O. 5 DE OCTUBRE DE 2000.
 
 ÚNICO.- Este decreto entrará en vigor a los sesenta días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 14 DE DICIEMBRE DE 2000.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
