@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-2-1996-del-tribunal-pleno-de-la-suprema-41046"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1996-06-26"
-last_updated: "1996-06-26"
+last_updated: "2004-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41046&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1996-06-17"
 
 ACUERDO DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, DEL DIECISIETE DE JUNIO DE MIL NOVECIENTOS NOVENTA Y SEIS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL ACUERDO NUMERO 2/2003, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL S.J.F.G., TOMO XVII, FEBRERO DE 2003, PAGINA 1179, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACION Y SU GACETA: ABROGADO.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 26 de junio de 1996.
 
@@ -90,3 +92,15 @@ SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en e
 El Presidente de la Suprema Corte de Justicia de la Nación, Ministro José Vicente Aguinaco Alemán.- Rúbrica.- El Secretario General de Acuerdos, José Javier Aguilar Domínguez.- Rúbrica.
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que este Acuerdo 2/1996, relativo a la creación e integración de Comités de carácter consultivo y de apoyo a la Presidencia de la Suprema Corte de Justicia de la Nación, fue emitido por el Tribunal Pleno en Sesión Privada de diecisiete de junio de mil novecientos noventa y seis, por unanimidad de once votos de los señores ministros: Presidente José Vicente Aguinaco Alemán, Sergio Salvador Aguirre Anguiano, Mariano Azuela Güitrón, Juventino V. Castro y Castro, Juan Díaz Romero, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Guillermo I. Ortiz Mayagoita, Humberto Román Palacios, Olga M. Sánchez Cordero y Juan N. Silva Meza.- México, Distrito Federal, a diecisiete de junio de mil novecientos noventa y seis.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+S.J.F.G., TOMO XVII, FEBRERO DE 2003, PAGINA 1179.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- En el mes de enero de dos mil cuatro se evaluarán los resultados del acuerdo y se remitirán las conclusiones, en su caso, al Comité de Acuerdos y Reglamentos para que proceda en consecuencia.
+
+TERCERO.- Se abroga el Acuerdo General Plenario Número 2/1996, y todos aquellos acuerdos plenarios o administrativos que se opongan al presente.
+
+CUARTO.- Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta.
