@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1967-11-29"
+last_updated: "1970-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 1967.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 1970.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -124,15 +124,17 @@ Lo dispuesto en este artículo y en la fracción segunda del Artículo anterior,
 
 Los morelenses en igualdad de circunstancias serán preferidos a quienes no lo sean para toda clase de concesiones, empleos o comisiones públicas del Estado y de los Municipios.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1970)</small>
 
 ###### Artículo 13.
 
-Son ciudadanos del Estado los varones y mujeres que teniendo la calidad de morelenses, reúnan además, los siguientes requisitos:
+Son ciudadanos del Estado los varones y mujeres que, teniendo la calidad de morelenses, reúnan, además, los siguientes requisitos:
 
-I.- Haber cumplido 18 años siendo casados y 21 si no lo son.
+I.- Haber cumplido 18 años, y
 
 II.- Tener un modo honesto de vivir.
+
+III.- Residir habitualmente en el territorio del Estado.
 
 ###### Artículo 14.
 
@@ -630,7 +632,7 @@ B.- Cuando sea necesario para el cumplimiento de alguna ley general.
 
 C.- En los casos de falta absoluta del Gobernador, o cuando tenga que separase de sus funciones por más de dos meses.
 
-D.- Cuando alguno de los funcionarios a que se refiere el artículo 40, fracción XL, hubiere cometido un delito grave; entendiéndose por tal el que sea castigado con la pena de prisión o la destitución del cargo.
+D.- Cuando alguno de los funcionarios a que se refiere el artículo 40, fracción XL, hubiere cometido un delito grave; entendiéndose por tal el que sea castigado con la pena de prisión o la de destitución del cargo.
 
 E.- Cuando lo pida el Ejecutivo del Estado.
 
@@ -1617,3 +1619,9 @@ Primero.- El término Constitucional de los tres Magistrados del Tribunal Superi
 Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Tercero.- Remítase el presente Decreto al Ejecutivo del Estado, para los efectos del Artículo 70 Fracción XVII de la Constitución Política Local.
+
+P.O. 11 DE MARZO DE 1970.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Remítase el presente Decreto al Ejecutivo del Estado, para los efectos a que se contrae la Fracción XVII del Artículo 70 de la Constitución Política Local.
