@@ -4,7 +4,7 @@ identifier: "HID-codigo-civil-para-el-estado-de-hidalgo-40095"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-08"
-last_updated: "1987-01-01"
+last_updated: "1991-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO CIVIL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 1991.
 
 Código publicado en el Apéndice al Número 38 del Periódico Oficial del Estado de Hidalgo, el 8 de octubre de 1940.
 
@@ -11109,27 +11109,39 @@ De las Ventas Judiciales.
 
 El contrato de compra-venta no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1991)</small>
+
 ###### Art. 2299.
 
-La venta de un inmueble que tenga un valor hasta de un mil pesos, podrá hacerse en instrumento privado que firmarán el vendedor y el comprador ante dos testigos.
+Tratándose de inmuebles, su venta se hará en escritura pública, por regla general.
+
+Los contratos de compraventa sobre bienes inmuebles cuyo valor no exceda del equivalente de trescientos sesenta y cinco veces el salario mínimo general diario vigente en el lugar en que se ubique dicho bien, conforme a avalúo practicado por perito con reconocimiento oficial, así como la constitución de gravámenes reales o su transmisión, para garantizar el precio de tales compraventas, podrán hacerse constar por escrito, en documento que firmen los contratantes ante dos testigos, las firmas de todos los cuales se ratifiquen ante Notario Público, Juez competente o Registrador Público de la Propiedad del mismo lugar.
 
 ###### Art. 2300.
 
 Si alguno de los contratantes no supiere escribir, firmará a su nombre y ruego otra persona con capacidad legal, no pudiendo firmar con ese carácter ninguno de los testigos, observándose lo dispuesto en el párrafo segundo del artículo 1818.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1991)</small>
+
 ###### Art. 2301.
 
-De dicho documento se formarán tres tantos originales uno para el comprador, otro para el vendedor y otro para el Registro Público.
+Del documento a que se refiere el segundo párrafo del Artículo 2299, se firmarán tres ejemplares originales, uno para el comprador, otro para el vendedor y otro para el Registro Público.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1991)</small>
 
 ###### Art. 2302.
 
-Si el valor del inmueble excede de un mil pesos su venta se hará en escritura pública.
+Los contratos de compraventa por los que el Gobierno del Estado de Hidalgo o alguno de los Gobiernos Municipales en el Estado, o instituciones oficiales de la Federación, del Estado o de los Municipios que participen en programas o acciones para la regularización de la tenencia de la tierra, enajenen bienes inmuebles por un valor de hasta tres mil seiscientos cincuenta veces el monto del salario mínimo general diario vigente en el lugar de ubicación del bien, podrán otorgarse por escrito, en documento que firmarán los servidores públicos competentes por el Gobierno o institución oficial, y sus contratantes, o bien en el protocolo abierto que lleven los notarios conforme a la ley de la materia, reduciéndose en este último caso el arancel notarial en la proporción que señale la disposición reglamentaria aplicable.
+
+Cuando no intervenga fedatario y quien participare en la compraventa fuere una institución oficial de las que menciona este precepto, su representante acreditará debidamente su personalidad y facultades ante el Registrador Público de la Propiedad que inscriba la operación, quien hará constar los datos respectivos en la partida registral.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1991)</small>
 
 ###### Art. 2303.
 
-Tratándose de bienes ya inscritos en el Registro y cuyo valor no exceda de un mil pesos, cuando la venta sea al contado puede hacerse transmitiendo el dominio por endoso puesto en el certificado de propiedad que el registrador tiene obligación de expedir al vendedor a cuyo favor estén inscritos los bienes.
+Tratándose de bienes ya inscritos en el Registro y cuyo valor no exceda del equivalente de trescientas sesenta y cinco veces el salario mínimo general diario vigente en el lugar en que se ubiquen, conforme a avalúo practicado por perito con reconocimiento oficial, cuando la venta sea al contado, puede hacerse trasmitiendo el dominio por endoso puesto en el certificado de propiedad que el Registrador tiene obligación de expedir al vendedor a cuyo favor estén inscritos los bienes.
 
-El endoso será ratificado ante el registrador, quien tiene obligación de cerciorarse de la identidad de las partes y de la autenticidad de las firmas, y previa comprobación de que están cubiertos los impuestos correspondientes a la compra-venta realizada en esta forma, hará una nueva inscripción de los bienes vendidos en favor del comprador, debiendo quedar en el Registro un tanto original firmado por las partes.
+El endoso será ratificado ante el Registrador, quien tiene la obligación de cerciorarse de la identidad de las partes y de la autenticidad de las firmas, previa comprobación de que están cubiertos los impuestos correspondientes a la compraventa realizada en esta forma, hará una nueva inscripción de los bienes vendidos, en favor del comprador, debiendo quedar en el Registro un tanto original firmado por las partes.
 
 ###### Art. 2304.
 
@@ -15256,3 +15268,9 @@ Este Código iniciará su vigencia quince días después de su publicación en e
 P.O. 1 DE ENERO DE 1987.
 
 UNICO.- Estas reformas surtirán sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE JUNIO DE 1991.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Hidalgo.
+
+SEGUNDO.- Los trámites de formalización y registro de contratos de compraventa pendientes, podrán continuarse en los términos de las normas vigentes hasta antes de que entre en vigor este Decreto, o ajustarse al nuevo precepto materia del mismo.
