@@ -4,7 +4,7 @@ identifier: "JAL-ley-electoral-del-estado-de-jalisco-15428"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-29"
-last_updated: "2002-08-17"
+last_updated: "2002-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ELECTORAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 2002.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 29 de abril de 1997.
 
@@ -163,7 +163,9 @@ VII. Los demás que señale esta ley.
 
 Es derecho exclusivo de los ciudadanos mexicanos, participar como observadores en las actividades electorales en toda la entidad, en la forma y términos que al efecto determine el Consejo Electoral del Estado para cada proceso electoral, de acuerdo con las siguientes bases:
 
-I. Podrán participar sólo cuando hayan obtenido oportunamente su registro ante el Consejo Electoral del Estado o ante las comisiones distritales electorales;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
+
+I. Podrán participar sólo cuando hayan obtenido oportunamente su registro ante el Consejo Electoral del Estado, ante las comisiones distritales electorales, o de acuerdo al convenio que para el efecto se celebre con el Instituto Federal Electoral;
 
 II. Los ciudadanos que pretendan actuar como observadores en los procesos electorales del Estado deberán señalar en el escrito de solicitud de registro lo siguiente:
 
@@ -186,6 +188,10 @@ c) No ser ni haber sido candidato a puesto de elección popular en los últimos 
 d) Contar con credencial para votar con fotografía; y
 
 e) Asistir a los cursos de preparación e información que imparta el Consejo Electoral del Estado o las comisiones distritales electorales.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
+El Consejo Electoral del Estado, podrá celebrar convenios con el Instituto Federal Electoral, para los efectos de simplificar los procesos de registro, acreditación y capacitación de observadores electorales.
 
 ###### Artículo 11.
 
@@ -553,9 +559,11 @@ IV. En los municipios en que la población exceda de quinientos mil habitantes, 
 
 #### Sección Primera. De los Derechos de los Partidos Políticos
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 43.
 
-Las elecciones ordinarias para diputados por los principios de mayoría relativa y de representación proporcional; Gobernador y munícipes, deberán celebrarse el segundo domingo de noviembre del año que corresponda.
+Las elecciones ordinarias para diputados por los principios de mayoría relativa y de representación proporcional; Gobernador y munícipes, deberán celebrarse el primer domingo de julio del año que corresponda.
 
 ###### Artículo 44.
 
@@ -813,9 +821,9 @@ Son prerrogativas de los partidos políticos:
 
 I. Gozar de exención de los impuestos y derechos que expresamente se señalen por las leyes respectivas;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
 
-II. Utilizar los espacios físicos de uso común y de acceso público, previa autorización para la colocación de su propaganda política. Se entiende por lugares de uso común y de acceso público, las propiedades del Gobierno Federal, Estatal y Municipal, susceptibles de ser utilizadas para la colocación de propaganda política. Estos espacios serán sorteados entre los partidos políticos registrados, conforme al procedimiento que acuerde el Consejo Estatal Electoral;
+II. Utilizar los espacios físicos de uso común y de acceso público, previa autorización para la colocación de su propaganda política. Se entiende por lugares de uso común y de acceso público, las propiedades del Gobierno Federal, Estatal y Municipal, susceptibles de ser utilizadas para la colocación de propaganda política. Estos espacios serán sorteados entre los partidos políticos registrados, conforme al procedimiento que acuerde el Consejo Estatal Electoral, y al convenio que para el efecto se celebre con el Instituto Federal Electoral;
 
 III. Convenir con los poseedores de bienes inmuebles la fijación de propaganda en lugares de propiedad privada;
 
@@ -887,7 +895,9 @@ El Consejo Electoral del Estado y sus órganos respectivos, podrán ordenar el r
 
 Los partidos políticos deberán suspender la celebración de mítines, reuniones públicas o cualquier otro acto de propaganda política y abstenerse de fijar propaganda el día de la elección y los tres días anteriores al de la jornada electoral.
 
-A su vez, durante los cinco días anteriores al de la jornada electoral y en la fecha de las elecciones, queda prohibido difundir los resultados de cualquier tipo de encuesta o sondeo sobre las preferencias electorales de los ciudadanos, las que podrán darse a conocer una vez cerradas las casillas.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
+A su vez, durante los ocho días anteriores al de la jornada electoral y en la fecha de las elecciones, queda prohibido difundir los resultados de cualquier tipo de encuesta o sondeo sobre las preferencias electorales de los ciudadanos, las que podrán darse a conocer una vez cerradas las casillas.
 
 ###### Artículo 71.
 
@@ -1377,15 +1387,19 @@ III. Un representante con derecho a voz por cada uno de los partidos políticos 
 
 IV. Un Secretario con derecho a voz que será designado por el Pleno del Consejo, a propuesta de su Presidente.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 125.
 
-El Consejo Electoral del Estado exhortará al Poder Legislativo y a los partidos políticos acreditados o registrados para que, entre el día primero y el 14 de junio del año de la elección, designen a sus representantes ante dicho organismo. Si no lo hicieren dentro de dicho término, los podrán acreditar con posterioridad, sin que tengan derecho a combatir los actos o resoluciones dictados por el organismo electoral con antelación a dicha acreditación.
+El Consejo Electoral del Estado exhortará al Poder Legislativo y a los partidos políticos acreditados o registrados para que, entre el día 26 de diciembre del año anterior a la elección y el 9 de enero del año de la elección, designen a sus representantes ante dicho organismo. Si no lo hicieren dentro de dicho término, los podrán acreditar con posterioridad, sin que tengan derecho a combatir los actos o resoluciones dictados por el organismo electoral con antelación a dicha acreditación.
 
 ### Capítulo IV. De las Sesiones y Atribuciones del Pleno del Consejo Electoral del Estado
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 126.
 
-El Pleno del Consejo Electoral del Estado iniciará sus funciones a más tardar el día 20 de junio del año de la elección con el objeto de preparar el proceso electoral, debiendo publicar, en el Periódico Oficial "El Estado de Jalisco", la forma como quedó integrado y su domicilio legal, dentro de los cinco días posteriores.
+El Pleno del Consejo Electoral del Estado iniciará sus funciones a más tardar el día 10 de enero del año de la elección con el objeto de preparar el proceso electoral, debiendo publicar, en el Periódico Oficial "El Estado de Jalisco", la forma como quedó integrado y su domicilio legal, dentro de los cinco días posteriores.
 
 ###### Artículo 127.
 
@@ -1453,7 +1467,9 @@ V. Investigar por los medios legales pertinentes, cualquier hecho relacionado co
 
 VI. Resolver y en su caso, registrar los convenios de coalición que celebren los partidos y agrupaciones políticas, en los términos de lo dispuesto en esta ley;
 
-VII. Aprobar y publicar, antes del día 14 de junio del año de la elección, la división del territorio del Estado en distritos y secciones electorales, ajustándose a lo dispuesto en la Constitución Política del Estado y en el presente ordenamiento legal;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
+
+VII. Aprobar y publicar, a más tardar el 9 de enero del año de la elección, la división del territorio del Estado en distritos y secciones electorales, ajustándose a lo dispuesto en la Constitución Política del Estado y en el presente ordenamiento legal;
 
 VIII. Aprobar y publicar el nhúmero (sic), ámbito y magnitud de la o las circunscripciones plurinominales, para cada elección de dipuatos (sic) por el principio de representación proporcional;
 
@@ -1477,7 +1493,9 @@ XVII. Registrar y aprobar las candidaturas al cargo de Gobernador del Estado;
 
 XVIII. Efectuar el cómputo electoral de la elección de diputados por el principio de representación proporcional y aplicar la fórmula correspondiente para la distribución de curules entre los partidos políticos que hubiesen obtenido ese derecho, calificar la elección y expedir la constancia respectiva;
 
-XIX. Efectuar el cómputo general de la elección de Gobernador del Estado, expedir y registrar la constancia de mayoría de votos y remitir al Tribunal Electoral los expedientes que contengan la documentación electoral correspondiente, adjuntando un informe detallado sobre los hechos que puedan influir en la substanciación de los juicios y recursos interpuestos en dicha elección;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
+
+XIX. Efectuar el cómputo general de la elección de Gobernador del Estado, expedir y registrar la constancia de mayoría de votos y remitir al Tribunal Electoral los expedientes que contengan la documentación electoral correspondiente, adjuntando un informe circunstanciado sobre los hechos que puedan influir en la substanciación de los medios de impugnación interpuestos;
 
 XXI (SIC). Calificar las elecciones de munícipes en el Estado y expedir las constancias de mayoría respectivas;
 
@@ -1496,6 +1514,8 @@ XXVI. Aplicar las sanciones que correspondan conforme a las disposiciones previs
 XXVII. Aprobar anualmente, a más tardar en el mes de julio de cada año, el proyecto de presupuesto de egresos del propio Consejo, el cual será propuesto por su Presidente;
 
 XXVIII. Aprobar anualmente en el mes de julio, el informe que rinda el Presidente del propio Consejo, respecto del ejercicio del presupuesto de egresos del año anterior;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
 
 XXIX. Aprobar el texto de la convocatoria para la celebración de las elecciones que contempla el presente ordenamiento, misma que será elaborada por el Presidente del Consejo Electoral;
 
@@ -1521,7 +1541,9 @@ XXXIX. Aprobar su reglamento interior y el estatuto del servicio profesional ele
 
 XL. Realizar pruebas al líquido indeleble, antes y durante la jornada electoral;
 
-XLI. Pedir al Tribunal Electoral, información sobre las resoluciones dictadas en los juicios de inconformidad o en los recursos de apelación y reconsideración;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
+
+XLI. Pedir a los órganos jurisdiccionales en materia electoral, información sobre las sentencias y resoluciones dictadas en los medios de impugnación;
 
 XLII. Expedir la documentación necesaria que acredite los cargos a los que fueron electos los diputados, Gobernador y munícipes;
 
@@ -1541,9 +1563,15 @@ XLIX. Establecer en su reglamento interior y en los acuerdos correspondientes, l
 
 L. Realizar la planeación de programas de educación y capacitación cívico-electoral y evaluar la ejecución de los mismos;
 
-LI. Celebrar convenios con instituciones públicas y privadas con objeto de lograr su colaboración para el cumplimiento de los fines del Consejo; y
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
 
-LII. Las demás que le sean conferidas por este ordenamiento y demás leyes aplicables.
+LI. Celebrar convenios con organismos públicos y privados con objeto de lograr su colaboración para el cumplimiento de los fines del Consejo;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2002)</small>
+
+LII. Celebrar convenios con el Instituto Federal Electoral, en las materias que sea necesario realizarlos, para el mejor desarrollo de los procesos electorales. Así como coordinarse con el Registro Federal de Electores, para que, en términos del convenio respectivo, se entregue al Consejo Electoral del Estado toda la información relativa al Padrón Electoral y las listas nominales de electores, y mantenga permanentemente actualizada la información; y
+
+LIII. Las demás que le sean conferidas por este ordenamiento y demás leyes aplicables.
 
 ### Capítulo V. De los Consejeros Electorales, Bases y Requisitos para su Designación
 
@@ -1635,7 +1663,9 @@ I. Representar al Consejo Electoral con facultades de apoderado para pleitos y c
 
 II. Presidir y conducir las sesiones del Consejo Electoral y citar a sesiones ordinarias. Convocar a las extraordinarias que se requieran, así como a los demás órganos del Consejo Electoral, en caso de negativa de éstos;
 
-III. Proponer ante Pleno del Consejo, al ciudadano que fungirá como Secretario de dicho organismo. La destitución del Secretario será atribución exclusiva del Presidente;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
+
+III. Proponer ante el Pleno del Consejo, al ciudadano que fungirá como Secretario de dicho organismo. La destitución del Secretario será atribución exclusiva del Presidente;
 
 IV. Proponer ante el Consejo Electoral, a los ciudadanos que fungirán como directores Administrativos de dicho organismo;
 
@@ -1663,7 +1693,9 @@ XIII. Proponer ante el Pleno del Consejo, a los integrantes de la Comisión de E
 
 XIV. Proponer ante el Consejo Electoral del Estado, a los integrantes de la Comisión Revisora del financiamiento de los partidos políticos;
 
-XV. Expedir convocatoria, a más tardar el día 30 de junio del año de la elección, para allegarse propuestas de candidatos a comisionados electorales para las comisiones distritales y municipales electorales, debiendo publicar la misma en uno de los periódicos de mayor circulación en el Estado;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
+
+XV. Expedir convocatoria, a más tardar el día 23 de enero del año de la elección, para allegarse propuestas de candidatos a comisionados electorales para las comisiones distritales y municipales electorales, debiendo publicar la misma en uno de los periódicos de mayor circulación en el Estado;
 
 XVI. Hacer la entrega del financiamiento público a los partidos políticos, en la forma y términos que determine el Consejo Electoral del Estado;
 
@@ -1811,9 +1843,15 @@ Las comisiones distritales y municipales electorales son los órganos del Consej
 
 En cada una de las cabeceras distritales y municipales se instalará una Comisión Distrital o Municipal Electoral, respectivamente.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2002)</small>
 
-Las comisiones distritales iniciarán sus funciones a más tardar el 15 de julio y las comisiones municipales a más tardar el 15 de octubre, ambas del año de la elección.
+Las comisiones distritales iniciarán sus funciones a más tardar el 1º de febrero del año de la elección, y sus funciones terminarán una vez concluidos los trabajos concernientes a la elección en su respectivo distrito.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
+Las comisiones municipales iniciarán sus funciones a más tardar el último domingo de junio del año de la elección, y cerrarán sus instalaciones diez días después de haber terminado el cómputo que le corresponde realizar de acuerdo a lo establecido en esta ley, sin perjuicio de las funciones de los comisionados quienes terminarán una vez concluidos los trabajos concernientes a la elección en su respectivo municipio.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2002)</small>
 
 El Consejo Electoral del Estado acordará los lugares en que habrán de instalarse las comisiones distritales comprendidas en la zona metropolitana de Guadalajara.
 
@@ -1941,7 +1979,11 @@ II. Recibir las solicitudes de registro de las fórmulas de candidatos a diputad
 
 III. Registrar a los ciudadanos mexicanos para participar como observadores durante el proceso electoral, en el distrito respectivo;
 
-IV. Aprobar el proyecto de ubicación de casillas presentado por el Comisionado Presidente;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
+
+IV. Aprobar el proyecto de ubicación de casillas presentado por el Comisionado Presidente.
+
+Al celebrarse convenio con el Instituto Federal Electoral en los términos establecidos en esta ley, éste prevalecerá sobre las disposiciones contenidas en la presente fracción;
 
 V. Designar por insaculación, a los ciudadanos que deban fungir como presidentes, secretarios y escrutadores propietarios y suplentes de las mesas directivas de casilla;
 
@@ -1955,7 +1997,9 @@ IX. Realizar supletoriamente, el miércoles siguiente al día de la elección, l
 
 X. Efectuar el cómputo distrital de la elección de diputados por el principio de representación proporcional y la de Gobernador del Estado, enviando al Consejo Electoral la respectiva documentación;
 
-XI. Recibir las demandas de juicio de inconformidad que se presenten en contra del cómputo, calificación y expedición de constancias de la elección de diputados por el principio de mayoría relativa y remitirlas al Tribunal Electoral;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
+
+XI. Recibir las demandas de juicio de inconformidad que se presenten en contra del cómputo, calificación y expedición de constancias de la elección de diputados por el principio de mayoría relativa y remitirlas al Tribunal Electoral en un plazo máximo de veinticuatro horas anexando informe;
 
 XII. Organizar e impartir los cursos de capacitación a los ciudadanos designados como funcionarios de las mesas directivas de casilla;
 
@@ -2057,9 +2101,13 @@ Las mesas directivas de casilla, como autoridades, durante la jornada electoral,
 
 En cada sección electoral se instalará una casilla para recibir la votación el día de la jornada electoral, con excepción de lo dispuesto en esta ley.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 169.
 
-Las mesas directivas de casilla se integrarán con un Presidente, un Secretario, dos escrutadores y tres suplentes generales.
+Las mesas directivas de casilla se integrarán con un Presidente, un Secretario, un escrutador y tres suplentes generales.
+
+El Presidente, Secretario y Escrutador, podrán actuar como tales en la sección que les corresponda. Para efectos de emitir su voto, deberán hacerlo en la casilla que les corresponda según el listado nominal.
 
 ###### Artículo 170.
 
@@ -2143,9 +2191,11 @@ VI. Anotar el resultado del escrutinio al efectuar los cómputos de los votos em
 
 VII. Las demás que le confieran esta ley y el Presidente de la mesa directiva de casilla.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 175.
 
-Los escrutadores de las mesas directivas de casilla tienen las siguientes atribuciones:
+El escrutador de las mesas directivas de casilla tiene las siguientes atribuciones:
 
 I. Contar el número de electores que votaron en la casilla, de acuerdo con los listados nominales;
 
@@ -2265,9 +2315,11 @@ La Dirección del Registro Estatal de Electores proveerá lo necesario para que 
 
 #### Sección Cuarta. De la Actualización del Catálogo General de Electores y del Padrón Electoral
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 188.
 
-A fin de actualizar el Catálogo General de Electores y el padrón electoral, el Consejo Electoral del Estado, a través de la Dirección del Registro Estatal de Electores realizará anualmente, a partir del día 1o. de abril y hasta el 15 de junio siguiente, una campaña intensa para convocar y orientar a la ciudadanía a cumplir con las obligaciones a que se refieren las dos fracciones siguientes:
+A fin de actualizar el Catálogo General de Electores y el padrón electoral, el Consejo Electoral del Estado, a través de la Dirección del Registro Estatal de Electores realizará anualmente, a partir del día 1° de octubre y hasta el 15 de enero siguiente, una campaña intensa para convocar y orientar a la ciudadanía a cumplir con las obligaciones a que se refieren las dos fracciones siguientes:
 
 I. Durante el periodo de actualización deberán acudir ante las oficinas de la Dirección del Registro Estatal de Electores en los lugares que ésta determine, para ser incorporados al Catálogo General de Electores, todos aquellos ciudadanos que:
 
@@ -2289,11 +2341,13 @@ Los ciudadanos, al acudir voluntariamente a darse de alta o dar aviso de cambio 
 
 Los partidos políticos y los medios de comunicación deberán coadyuvar con el Consejo Electoral del Estado en las tareas de orientación ciudadana.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 189.
 
-Los ciudadanos deberán solicitar su incorporación en el Catálogo General de Electores, o en su caso, su inscripción en el padrón electoral, en períodos distintos a los de actualización a que se refiere el artículo anterior, desde el día siguiente al de la elección, hasta el día 15 de mayo del año de la siguiente elección ordinaria.
+Los ciudadanos podrán solicitar su incorporación en el Catálogo General de Electores, o en su caso, su inscripción en el padrón electoral, en períodos distintos a los de actualización a que se refiere el artículo anterior, desde el día siguiente al de la elección, hasta el día 15 de enero del año de la siguiente elección ordinaria.
 
-Los mexicanos residentes en la entidad que en el año de la elección cumplan los (sic) la mayoría de edad entre el 16 de mayo y el día de los comicios, deberán solicitar su inscripción a más tardar el día 15 del citado mes de mayo.
+Los mexicanos residentes en la entidad que en el año de la elección cumplan los la mayoría de edad entre el 16 de enero y el día de los comicios, deberán solicitar su inscripción a más tardar el día 15 del citado mes de enero.
 
 ###### Artículo 190.
 
@@ -2347,15 +2401,17 @@ III. Consideren haber sido indebidamente incluidos o excluidos de la lista nomin
 
 En los casos a que se refiere el párrafo anterior, la solicitud de expedición o de rectificación se presentará en cualquier tiempo durante los dos años previos al del proceso electoral.
 
-En el año de la elección, los ciudadanos que se encuentren en el supuesto de la fracción I de este artículo, podrán presentar solicitud de expedición de credencial para votar con fotografía hasta el día quince del mes de junio. En los casos previstos en las fracciones II y III de este artículo, los ciudadanos podrán presentar solicitud de rectificación a más tardar el día quince de julio.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
+En el año de la elección, los ciudadanos que se encuentren en el supuesto de la fracción I de este artículo, podrán presentar solicitud de expedición de credencial para votar con fotografía hasta el último día del mes de febrero. En los casos previstos en las fracciones II y III de este artículo, los ciudadanos podrán presentar solicitud de rectificación a más tardar el día 14 de abril.
 
 En las oficinas del Registro Estatal de Electores existirán a disposición de los ciudadanos los formatos necesarios para la presentación de la solicitud respectiva.
 
 La oficina ante la que se haya solicitado la expedición de credencial o la rectificación, resolverá sobre la procedencia o improcedencia de la misma dentro de un plazo de veinte días naturales.
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2002)</small>
 
-La resolución que declare improcedente la solicitud de expedición de credencial, de rectificación, o la falta de respuesta en tiempo, será recurrible en los términos señalados en esta Ley. Para tal efecto, los ciudadanos interesados tendrán a su disposición en las oficinas del Registro Estatal de Electores y en el propio Tribunal Electoral, los formatos necesarios para la interposición del recurso respectivo.
+La resolución que declare improcedente la solicitud de expedición de credencial, de rectificación, o la falta de respuesta en tiempo, será recurrible ante el Tribunal Electoral mediante el recurso de apelación. Para tal efecto, los ciudadanos interesados tendrán a su disposición en las oficinas del Registro Estatal de Electores y en el propio Tribunal Electoral, los formatos necesarios para la interposición del recurso respectivo.
 
 La resolución recaída a la solicitud de expedición de credencial o de rectificación, será notificada personalmente al ciudadano si éste comparece ante la oficina responsable de la inscripción o, en su caso, por telegrama o correo certificado.
 
@@ -2369,9 +2425,11 @@ La técnica censal parcial tendrá por objeto recabar la información básica de
 
 Las comités de vigilancia podrán solicitar a la Dirección del Registro Estatal de Electores o a las delegaciones distritales o municipales, según corresponda, sometan a consideración del Consejo Electoral el acuerdo para que se aplique en una sección o distrito la técnica censal parcial.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 196.
 
-Las credenciales para votar con fotografía que se expidan conforme a lo establecido en el presente ordenamiento, estarán a disposición de los interesados hasta el quince de junio del año de la elección.
+Las credenciales para votar con fotografía que se expidan conforme a lo establecido en el presente ordenamiento, estarán a disposición de los interesados hasta el 31 de marzo del año de la elección.
 
 #### Sección Quinta. De las Listas Nominales de Electores y de su Revisión
 
@@ -2385,41 +2443,55 @@ Cada sección tendrá como mínimo cincuenta electores y como máximo mil quinie
 
 El fraccionamiento o fusión en secciones electorales estará sujeto a la revisión de la división del territorio estatal en distritos electorales, en los términos del artículo 19 de la Constitución Política del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 198.
 
-La Dirección del Registro Estatal de Electores entregará, a más tardar el 15 de junio, a las comisiones distritales y municipales, las listas nominales de electores, a efecto de que sean exhibidas por veinte días naturales.
+La Dirección del Registro Estatal de Electores entregará, a más tardar el 26 de marzo, a las comisiones distritales y municipales, las listas nominales de electores, a efecto de que sean exhibidas por veinte días naturales.
 
 La exhibición de las listas nominales de electores se hará en las secciones electorales correspondientes, encontrándose ordenadas alfabéticamente y clasificadas por municipio, distrito y secciones.
 
 Las listas nominales de electores que se entreguen a los partidos políticos serán para su uso exclusivo y no podrán destinarse a finalidad u objeto distinto al de revisión del padrón electoral. Cuando un partido político no desee conservarlas, deberá reintegrarlas al Consejo Electoral del Estado.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 199.
 
-Una vez recibidas y acreditadas las observaciones pertinentes, las comisiones municipales devolverán a las comisiones distritales las listas nominales, sin que en ningún caso la entrega pueda exceder del 20 de julio de cada año.
+Una vez recibidas y acreditadas las observaciones pertinentes, las comisiones municipales devolverán a las comisiones distritales las listas nominales, sin que en ningún caso la entrega pueda exceder del 20 de abril de cada año.
 
-Las comisiones distritales remitirán al Consejo Electoral las listas nominales, a más tardar el día 24 de julio de cada año.
+Las comisiones distritales remitirán al Consejo Electoral las listas nominales, a más tardar el día 23 de abril de cada año.
 
-Las observaciones procedentes serán aplicadas a las listas del padrón electoral haciéndose las modificaciones del caso.
+El Consejo Electoral del Estado, tomará las medidas pertinentes a fin de que las observaciones procedentes sean aplicadas a las listas del padrón electoral haciéndose las modificaciones del caso.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 2002)</small>
 
 ###### Artículo 200.
 
-Los partidos políticos tendrán a su disposición, para su revisión, las listas nominales de electores en las oficinas de la Dirección del Registro Estatal de Electores durante treinta días naturales a partir del 15 de junio, en cada uno de los dos años anteriores al de la celebración de elecciones.
+Los partidos políticos tendrán a su disposición, para su revisión, las listas nominales de electores en las oficinas de la Dirección del Registro Estatal de Electores durante veinte días naturales a partir del 25 de marzo, en cada uno de los dos años anteriores al de la celebración de elecciones.
 
 Durante el plazo establecido en el párrafo anterior, los partidos políticos podrán formular por escrito, ante la Dirección del Registro Estatal de Electores, sus observaciones sobre los ciudadanos incluidos o excluidos indebidamente de las listas nominales.
 
-La Dirección del Registro Estatal de Electores examinará las observaciones de los partidos políticos haciendo, en su caso, las modificaciones que conforme a derecho hubiere lugar, informando de las mismas al Comité Estatal de Vigilancia y al Consejo Electoral del Estado a más tardar el día 30 de agosto.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2002)</small>
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
+La Dirección del Registro Estatal de Electores examinará las observaciones de los partidos políticos haciendo, en su caso, las modificaciones que conforme a derecho hubiere lugar, informando de las mismas al Comité Estatal de Vigilancia y al Consejo Electoral del Estado a más tardar el día 23 de abril.
 
-Los partidos políticos podrán impugnar ante el Tribunal Electoral el informe a que se refiere el párrafo anterior. En el recurso de Apelación que se interponga se deberá acreditar que se hicieron valer en tiempo y forma las observaciones a que se refiere el párrafo segundo de este artículo, señalándose hechos y casos concretos e individualizados, mismos que deben estar comprendidos en las observaciones originalmente formuladas. De no cumplirse con dichos requisitos, independientemente de los demás que señale la legislación aplicable, el recurso será desechado por notoriamente improcedente.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
+Los partidos políticos podrán impugnar ante el Tribunal Electoral el informe a que se refiere el párrafo anterior. En el recurso de apelación que se interponga se deberá acreditar que se hicieron valer en tiempo y forma las observaciones a que se refiere el párrafo segundo de este artículo, señalándose hechos y casos concretos e individualizados, mismos que deben estar comprendidos en las observaciones originalmente formuladas. De no cumplirse con dichos requisitos, independientemente de los demás que señale la legislación aplicable, el recurso será desechado por notoriamente improcedente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 2002)</small>
 
 ###### Artículo 201.
 
-El día 15 de junio del año en que se deba celebrar el proceso electoral ordinario, la Dirección del Registro Estatal de Electores entregará a cada uno de los partidos políticos, copia de las listas nominales de electores, ordenadas alfabéticamente y por secciones correspondientes a cada uno de los distritos electorales, que deberá incluir a todos aquellos ciudadanos que hubiesen obtenido su credencial para votar con fotografía al día 15 de mayo del año de la elección. Las listas nominales de los ciudadanos que hubiesen obtenido su credencial entre el 16 de mayo y el 15 de junio, serán entregadas a los partidos políticos a más tardar el día último del propio mes de junio del año de la elección.
+El día 25 de marzo del año en que se deba celebrar el proceso electoral ordinario, la Dirección del Registro Estatal de Electores entregará a cada uno de los partidos políticos, copia de las listas nominales de electores, ordenadas alfabéticamente y por secciones correspondientes a cada uno de los distritos electorales, que deberá incluir a todos aquellos ciudadanos que hubiesen obtenido su credencial para votar con fotografía al día 15 de febrero del año de la elección. Las listas nominales de los ciudadanos que hubiesen obtenido su credencial posteriormente, serán entregadas a los partidos políticos a más tardar el día último del propio mes de febrero del año de la elección.
 
-Los partidos políticos podrán formular observaciones a dichas listas, señalando hechos y casos concretos e individualizados, dentro de los treinta días siguientes a la recepción de las mismas.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2002)</small>
 
-De las observaciones formuladas por los partidos políticos se harán las modificaciones a que hubiere lugar y se informará al Consejo Electoral del Estado y al Comité Estatal de Vigilancia a más tardar el 30 de agosto.
+Los partidos políticos podrán formular observaciones a dichas listas, señalando hechos y casos concretos e individualizados, hasta el 14 de abril inclusive del año de la elección.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
+De las observaciones formuladas por los partidos políticos se harán las modificaciones a que hubiere lugar y se informará al Consejo Electoral del Estado y al Comité Estatal de Vigilancia a más tardar el 14 de mayo.
 
 Los partidos políticos podrán impugnar ante el Tribunal Electoral el informe a que se refiere el párrafo anterior, en los términos que establecen el presente ordenamiento y la ley de la materia.
 
@@ -2521,7 +2593,9 @@ IV. Folio; y
 
 V. Los elementos técnicos de seguridad que acuerde el Consejo Electoral.
 
-A más tardar el día 31 de agosto del año en que se celebren las elecciones, los ciudadanos cuya credencial para votar con fotografía se hubiera extraviado o sufrido algún deterioro grave, deberán solicitar su reposición ante la oficina del Registro Estatal de Electores correspondiente a su domicilio.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
+A más tardar el último día del mes de febrero del año en que se celebren las elecciones, los ciudadanos cuya credencial para votar con fotografía se hubiera extraviado o sufrido algún deterioro grave, deberán solicitar su reposición ante la oficina del Registro Estatal de Electores correspondiente a su domicilio.
 
 #### Sección Séptima. Del Comité Estatal de Vigilancia y de los Comités Distritales de Vigilancia
 
@@ -2639,11 +2713,13 @@ III. Atender la solicitudes de los integrantes del Consejo Electoral y de los pa
 
 IV. Las demás que le confieran el Director del Registro Estatal de Electores, el Pleno del Consejo Electoral y la presente ley.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 216.
 
-Para los efectos de lo dispuesto en este capítulo y por acuerdo del Consejo Electoral del Estado, el Titular del Poder Ejecutivo del Estado, conjuntamente con el Presidente del Consejo Electoral del Estado, podrá celebrar convenio con el Director General del Instituto Federal Electoral para utilizar el catálogo general de electores, el padrón electoral, listado nominal y credencial para votar con fotografía, así como los demás datos, seccionamientos y todos los elementos necesarios para el desarrollo del proceso electoral en el Estado.
+Para los efectos de lo dispuesto en este capítulo y por acuerdo del Consejo Electoral del Estado, el Presidente del organismo, podrá celebrar convenio con el Director General del Instituto Federal Electoral para utilizar el catálogo general de electores, el padrón electoral, listado nominal y credencial para votar con fotografía, así como los demás datos, seccionamientos y todos los elementos necesarios para el desarrollo del proceso electoral en el Estado.
 
-El convenio deberá sujetarse a los preceptos y plazos señalados en esta ley, y a lo establecido en el Código Federal de Instituciones y Procedimientos Electorales. En todo caso, el Consejo Electoral del Estado, podrá formular sugerencias al Titular del Poder Ejecutivo, sobre algunos aspectos que deben incluirse en dicho documento tendientes a dar cumplimiento a las funciones que por imperativo legal debe realizar.
+El convenio deberá sujetarse a los preceptos y plazos señalados en esta ley, y a lo establecido en el Código Federal de Instituciones y Procedimientos Electorales.
 
 ### Capítulo XII. Del Servicio Profesional Electoral
 
@@ -2797,7 +2873,11 @@ VI. La elaboración y entrega de la documentación y material electoral.
 
 (Sic) 225.- Para los efectos de la presente ley, se entenderá por distrito electoral uninominal, la demarcación geográfica comprendida en el territorio del Estado de Jalisco y aprobada por el Consejo Electoral, dentro de la cual se votará por las fórmulas registradas para elegir diputados por el principio de mayoría relativa.
 
-Artículo 225 (sic).- El Consejo Electoral del Estado a más tardar el día 14 de junio del año de la elección, aprobará la división del territorio del Estado en veinte distritos electorales uninominales y en el número de secciones electorales que resulten convenientes para el apropiado desarrollo del proceso electoral.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
+###### Artículo 225
+
+Bis.- El Consejo Electoral del Estado a más tardar el día 9 de enero del año de la elección, aprobará la división del territorio del Estado en veinte distritos electorales uninominales y en el número de secciones electorales que resulten convenientes para el apropiado desarrollo del proceso electoral.
 
 ### Capítulo III. De la o las Circunscripciones Plurinominales Electorales
 
@@ -2807,13 +2887,15 @@ Para los efectos de la presente ley, se entiende por circunscripción plurinomin
 
 ### Capítulo IV. Del Inicio del Proceso Electoral
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
 ### Capítulo V. Del Registro de Candidatos para las Elecciones de Diputados por los Principios de Mayoría Relativa y de Representación Proporcional, Gobernador y Munícipes
 
 ###### Artículo 227.
 
-El Consejo Electoral del Estado, publicará a más tardar el día 1º de agosto del año de la elección, en el Periódico Oficial "El Estado de Jalisco", la convocatoria y avisos para las elecciones de diputados por los principios de mayoría relativa y de representación proporcional, de munícipes y de Gobernador cuando corresponda.
+El Consejo Electoral del Estado, publicará a más tardar el día 30 de enero del año de la elección, en el Periódico Oficial "El Estado de Jalisco", la convocatoria y avisos para las elecciones de diputados por los principios de mayoría relativa y de representación proporcional, de munícipes y de Gobernador cuando corresponda.
 
-El Proceso electoral comenzará con la publicación de la convocatoria a que se refiere este artículo.
+El Proceso electoral comenzará con la publicación de la convocatoria a que se refiere este artículo y concluye con el dictamen y declaración de validez de la elección respectiva. En todo caso, la conclusión será una vez que los Tribunales hayan resuelto el último de los medios de impugnación que se hubieran interpuesto, o cuando se tenga constancia de que no se presentó ninguno.
 
 ###### Artículo 228.
 
@@ -2833,13 +2915,21 @@ Los partidos políticos no podrán registrar candidatos propios para aquellas el
 
 El término para el registro de candidatos, en el proceso electoral, será el siguiente:
 
-I. Para diputados por el principio de mayoría relativa, del día 1.º al día 17 de agosto inclusive, del año de la elección;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
 
-II. Para diputados por el principio de representación proporcional, del día 1.º al día 25 de agosto inclusive, del año de la elección;
+I. Para diputados por el principio de mayoría relativa, del día 1º al 15 de abril inclusive, del año de la elección;
 
-III. Para Gobernador, del día 1.º al día 17 de agosto inclusive, del año de la elección; y
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
 
-IV. Para planillas de munícipes, del día 1.º al día 30 de agosto inclusive, del año de la elección.
+II. Para diputados por el principio de representación proporcional, del día 16 al 30 de abril inclusive, del año de la elección;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
+
+III. Para Gobernador, del día 30 de enero al 15 de febrero inclusive, del año de la elección; y
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
+
+IV. Para planillas de munícipes, del día 1º al 31 de marzo inclusive, del año de la elección.
 
 ###### Artículo 232.
 
@@ -2899,11 +2989,21 @@ Las comisiones distritales y municipales electorales comunicarán al Consejo Ele
 
 El Consejo Electoral del Estado celebrará sesiones, para resolver sobre las solicitudes de registro de candidatos presentadas a más tardar en las siguientes fechas:
 
-I. El día 22 de agosto del año de la elección, con respecto de las fórmulas de candidatos a diputados por el principio de mayoría relativa y de las candidaturas para el cargo de Gobernador;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
 
-II. El día 30 de agosto del año de la elección con respecto a las listas de candidatos a diputados por el principio de representación proporcional; y
+I. El día 19 de abril del año de la elección, con respecto de las fórmulas de candidatos a diputados por el principio de mayoría relativa;
 
-III. El día 4 de septiembre del año de la elección, con respecto a las planillas para munícipes.
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
+
+II. El día 15 de mayo del año de la elección con respecto a las listas de candidatos a diputados por el principio de representación proporcional;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
+
+III. El día 15 de abril, con respecto a las planillas para munícipes; y
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2002)</small>
+
+IV. El último día de febrero del año de la elección, con respecto a las candidaturas para Gobernador.
 
 Cualquier solicitud o documentación presentada fuera de los plazos a que se refiere esta ley, será desechada de plano por el Consejo Electoral del Estado, sin concederse el registro correspondiente.
 
@@ -2911,9 +3011,11 @@ La negativa del registro de una candidatura, sólo podrá ser recurrida por el p
 
 El Consejo Electoral del Estado, comunicará de inmediato, a las comisiones distritales y municipales electorales, las determinaciones que haya tomado sobre las solicitudes de registro de candidatos presentadas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 241.
 
-El Consejo Electoral del Estado dará aviso a más tardar el día 10 de septiembre del año de la elección, a las comisiones distritales y municipales electorales de los registros aprobados.
+El Consejo Electoral del Estado dará aviso de los registros aprobados a las comisiones distritales y municipales electorales a más tardar el 20 de mayo del día de la elección. En el supuesto de que la comisiones municipales electorales sean instaladas posterior a dicha fecha, el aviso a que se refiere este artículo deberá hacerse a mas tardar el día de su instalación.
 
 Asimismo, dentro del plazo señalado en el párrafo anterior, publicará por una sola vez en el periódico oficial "El Estado de Jalisco", una relación completa de los candidatos registrados para las elecciones a diputados por ambos principios, Gobernador y munícipes, de que se trate.
 
@@ -2951,7 +3053,13 @@ En toda sección electoral por cada setecientos cincuenta electores o fracción 
 
 Cuando no exista un local que permita la instalación en un mismo sitio de las casillas necesarias, se ubicarán éstas en lugares diversos atendiendo a la concentración y distribución de los electores en la sección.
 
-Asimismo, cuando las condiciones geográficas de una sección hagan difícil el acceso de todos los electores residentes en ella a un mismo sitio, podrá acordarse la instalación de casillas en lugares que ofrezcan un fácil acceso a los electores, en un número máximo por distrito electoral, que acordará el Consejo Electoral del Estado. Dichas casillas dispondrán de las boletas estrictamente necesarias para que los ciudadanos que residan en esos lugares emitan su voto.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
+Asimismo, cuando las condiciones geográficas de una sección hagan difícil el acceso de todos los electores residentes en ella a un mismo sitio, podrá acordarse la instalación de casillas en lugares que ofrezcan un fácil acceso a los electores, en un número máximo por distrito electoral, que acordará el Consejo Electoral del Estado, de acuerdo a lo que establezca el convenio que se celebre para el efecto con el Instituto Federal Electoral. Dichas casillas dispondrán de las boletas estrictamente necesarias para que los ciudadanos que residan en esos lugares emitan su voto.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
+Para la ubicación de las casillas, el Consejo Electoral del Estado podrá celebrar convenio con el Instituto Federal Electoral, a fin de establecer el proceso de ubicación de las casillas.
 
 ###### Artículo 247.
 
@@ -2961,41 +3069,57 @@ En el caso de que el número de ciudadanos inscritos en el listado nominal de el
 
 En las secciones que acuerde el Consejo Electoral del Estado, podrán instalarse las casillas especiales que contempla el presente ordenamiento legal.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 249.
 
-En cada casilla se procurará la instalación de mamparas donde los votantes puedan decidir el sentido de su sufragio. El diseño y ubicación de estas mamparas en las casillas se hará de manera que garanticen plenamente el secreto del voto.
+En cada casilla se procurará la instalación de mamparas donde los votantes puedan decidir el sentido de su sufragio. El diseño, dotación y ubicación de estas mamparas en las casillas se hará de manera que garanticen plenamente el secreto del voto, y podrá celebrarse convenio con el Instituto Federal Electoral, para tales efectos.
 
 ###### Artículo 250.
 
 El procedimiento para designar a los integrantes de las mesas directivas de casilla se sujetará a las siguientes disposiciones:
 
-I. Recibida la información del número de empadronados en las secciones comprendidas en el distrito electoral uninominal de que se trate, la Comisión Distrital Electoral respectiva celebrará, a más tardar el día 24 de agosto del año de la elección, una sesión en la que su Presidente presentará al pleno de la Comisión el proyecto del número de casillas a instalarse, para su aprobación;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
 
-II. A más tardar, el 25 de agosto del año de la elección, el Consejo Electoral realizará un sorteo, mediante el cual se obtendrá un mes del año, que servirá como base para seleccionar al azar a los ciudadanos nacidos en el mes referido de los listados nominales.
+I. Recibida la información del número de empadronados en las secciones comprendidas en el distrito electoral uninominal de que se trate, la Comisión Distrital Electoral respectiva celebrará, a más tardar el día 18 de marzo del año de la elección, una sesión en la que su Presidente presentará al pleno de la Comisión el proyecto del número de casillas a instalarse, para su aprobación;
 
-Una vez hecho lo anterior, las comisiones distritales seleccionarán al azar a un 15% de ciudadanos de cada sección electoral, el número de ciudadanos insaculados no podrá ser menor a cincuenta, salvo acuerdo del Consejo Electoral del Estado;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
 
-III. Si tomando la base referida en la fracción anterior no se logra obtener el porcentaje o el número de ciudadanos que se señala, se procederá a seleccionar al azar a los ciudadanos nacidos en el mes siguiente al sorteado inicialmente, este procedimiento se repetirá hasta cubrir con lo establecido en la fracción II de este artículo;
+II. A más tardar, el 19 de marzo del año de la elección, el Consejo Electoral realizará un sorteo, mediante el cual se obtendrá un mes del año, que servirá como base para seleccionar al azar a los ciudadanos nacidos en el mes referido de los listados nominales, el cual no podrá ser de los meses que se hayan sorteado en el proceso electoral federal.
 
-IV. A los ciudadanos seleccionados se les impartirá un curso de capacitación. Se excuirán (sic) del mismo los que estén física o legalmente impedidos para desempeñar el cargo;
+Una vez hecho lo anterior, las comisiones distritales seleccionarán al azar a un 10% de ciudadanos de cada sección electoral, el número de ciudadanos insaculados no podrá ser menor a cincuenta, salvo acuerdo del Consejo Electoral del Estado;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
+
+III. Si tomando la base referida en la fracción anterior no se logra obtener el porcentaje o el número de ciudadanos que se señala, se procederá a seleccionar al azar a los ciudadanos nacidos en el mes siguiente al sorteado inicialmente, siempre y cuando no coincida con los meses sorteados para el proceso federal, este procedimiento se repetirá hasta cubrir con lo establecido en la fracción II de este artículo;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
+
+IV. A los ciudadanos seleccionados se les impartirá un curso de capacitación. Se excluirán del mismo los que estén física o legalmente impedidos para desempeñar el cargo;
 
 V. Las comisiones distritales electorales harán una relación de aquéllos que hubieren acreditado la capacitación correspondiente;
 
-VI. El Consejo Electoral realizará un segundo sorteo, a más tardar el 25 de septiembre del año de la elección con el objeto de obtener una letra del alfabeto, que servirá de base para que las comisiones distritales realicen una segunda selección aleatoria, que se establece en la fracción siguiente;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
+
+VI. El Consejo Electoral realizará un segundo sorteo, a más tardar el 19 de abril del año de la elección con el objeto de obtener una letra del alfabeto, que servirá de base para que las comisiones distritales realicen una segunda selección aleatoria, que se establece en la fracción siguiente;
 
 VII. De la relación referida en la fracción V de este artículo, las comisiones distritales procederán a seleccionar al azar a aquellos ciudadanos cuyo apellido inicie con la letra sorteada por el Consejo Electoral, en los términos de la fracción anterior, obteniéndose así a los ciudadanos que fungirán como funcionarios de casilla; de no obtenerse la totalidad de funcionarios a designar con base en la letra sorteada, se procederá a seleccionar al azar de la letra siguiente, este procedimiento se repetirá hasta obtener la totalidad de los funcionarios de casilla por designar;
 
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
+
 VIII. Las comisiones distritales procederán a impartir un segundo curso de capacitación a los funcionarios de casilla.
 
-Si a más tardar el 25 de octubre del año de la elección no se pudieren integrar las mesas directivas de casilla con los ciudadanos seleccionados aleatoriamente, el Presidente de la Comisión propondrá a la Comisión Distrital Electoral para su aprobación, a los ciudadanos para integrar las casillas restantes, con base en los lineamientos que determine el Consejo Electoral del Estado;
+Si a más tardar el 9 de junio del año de la elección no se pudieren integrar las mesas directivas de casilla con los ciudadanos seleccionados aleatoriamente, el Presidente de la Comisión propondrá a la Comisión Distrital Electoral para su aprobación, a los ciudadanos para integrar las casillas restantes, con base en los lineamientos que determine el Consejo Electoral del Estado;
 
 IX. Las comisiones distritales notificarán personalmente a los integrantes de la casilla sus respectivos nombramientos; y
 
 X. Los representantes de los partidos políticos podrán vigilar el desarrollo del procedimiento previsto por este artículo.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 251.
 
-A partir de la fecha de instalación de la Comisión Distrital Electoral, su Presidente podrá iniciar la localización de lugares para instalar las casillas electorales y recibir las propuestas presentadas para tal fin por los partidos políticos o coaliciones en su caso.
+A partir de la fecha de instalación de la Comisión Distrital Electoral, su Presidente podrá iniciar la localización de lugares para instalar las casillas electorales y recibir las propuestas presentadas para tal fin por los partidos políticos o coaliciones en su caso, tomando siempre en cuenta lo que para el efecto se determine en el convenio celebrado con el Instituto Federal Electoral.
 
 ###### Artículo 252.
 
@@ -3007,6 +3131,10 @@ II. Permitir la instalación de mamparas que aseguren el secreto en la emisión 
 
 Para la ubicación de las casillas, se preferirán en caso de reunir los requisitos señalados por las fracciones I y II de este artículo, los locales ocupados por escuelas y edificios públicos.
 
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
+Para efectos de lo anterior se estará a lo establecido en el convenio que se celebre con el Instituto Federal Electoral.
+
 ###### Artículo 253.
 
 No podrán instalarse casillas electorales:
@@ -3017,39 +3145,61 @@ II. En establecimientos fabriles, templos o locales destinados al culto religios
 
 III. En locales ocupados por cantinas, centros de vicio o similares.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 254.
 
-El Presidente de la Comisión Distrital entregará a los comisionados ciudadanos y a los representantes de los partidos políticos acreditados ante la comisión, una lista de ubicación de casillas, a más tardar el 15 de octubre del año de la elección. Los representantes de los partidos políticos podrán verificar si la ubicación de casillas no contraviene lo dispuesto en el artículo anterior y podrán hacer las observaciones correspondientes en un plazo que no excederá de diez días, a partir de que les fueron entregadas las listas referidas.
+El Presidente de la Comisión Distrital entregará a los comisionados ciudadanos y a los representantes de los partidos políticos acreditados ante la comisión, una lista de ubicación de casillas, a más tardar el 20 de abril del año de la elección. Los representantes de los partidos políticos podrán verificar si la ubicación de casillas no contraviene lo dispuesto en el artículo anterior y podrán hacer las observaciones correspondientes en un plazo que no excederá de diez días, a partir de que les fueron entregadas las listas referidas.
 
-La Comisión Distrital Electoral publicará a más tardar el primer domingo de noviembre del año de la elección y de acuerdo al procedimiento establecido en el artículo anterior, las listas de casillas, su ubicación y los nombres de sus integrantes, con las modificaciones que hubiesen procedido.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
+La Comisión Distrital Electoral publicará a más tardar el último domingo de junio del año de la elección y de acuerdo al procedimiento establecido en el artículo anterior, las listas de casillas, su ubicación y los nombres de sus integrantes, con las modificaciones que hubiesen procedido.
 
 La publicación de las listas de los integrantes de las mesas directivas de casilla, así como la ubicación de éstas se fijarán en los edificios y lugares públicos más concurridos. Debiéndose publicar por lo menos en uno de los diarios de mayor circulación en el Estado.
 
 El Secretario de la Comisión Distrital Electoral entregará una copia de la lista a cada uno de los representantes de los partidos políticos, haciendo constar este acto.
 
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
+Al celebrarse convenio con el Instituto Federal Electoral en los términos establecidos en esta ley, éste prevalecerá sobre las disposiciones contenidas en el presente artículo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 255.
 
-Si verificada la publicación a que alude el artículo anterior, ocurrieren causas supervenientes fundadas, el Presidente de la Comisión Distrital Electoral podrá hacer los cambios que se requieran, informando a los integrantes de la Comisión de que se trate.
+Si verificada la publicación a que alude el artículo anterior, ocurrieren causas supervenientes fundadas, el Presidente de la Comisión Distrital Electoral podrá solicitar conforme al convenio celebrado con el Instituto Federal electoral, se hagan los cambios que se requieran, informando a los integrantes de la Comisión de que se trate.
 
 En el caso de cambio de la ubicación de las casillas electorales, mandará fijar avisos en los lugares excluidos indicando el nuevo domicilio.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 256.
 
-El Consejo Electoral del Estado acordará la instalación de casillas especiales, para la recepción del voto de los electores que se encuentren transitoriamente fuera de la sección señalada en su credencial para votar con fotografía.
+El Consejo Electoral del Estado acordará la instalación de casillas especiales, para la recepción del voto de los electores que se encuentren transitoriamente fuera de la sección señalada en su credencial para votar con fotografía, de conformidad al convenio que se celebre para el efecto con el Instituto Federal Electoral.
 
 ###### Artículo 257.
 
 Para la integración de las mesas directivas y ubicación de las casillas especiales, se aplicarán las reglas establecidas en el presente capítulo.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 258.
 
-En cada distrito electoral se instalará por lo menos una casilla especial sin que puedan ser más de cinco en el mismo distrito. En el caso de los municipios donde se encuentre más de una Comisión Distrital, el número de casillas especiales a instalarse no podrá ser mayor de cinco en el mismo municipio.
+En cada distrito electoral se instalarán hasta cinco casillas especiales. En el caso de los municipios donde se encuentre más de una Comisión Distrital, el número de casillas especiales a instalarse no podrá ser mayor de cinco en el mismo municipio.
+
+Al celebrarse convenio con el Instituto Federal Electoral en los términos establecidos en eta ley, éste prevalecerá sobre las disposiciones contenidas en el presente artículo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 2002)</small>
 
 ###### Artículo 259.
 
-Las casillas especiales tendrán 200 boletas por elección, adicionalmente las boletas necesarias para que los funcionarios de casilla y los representantes de los partidos o coaliciones ante la casilla puedan emitir su sufragio.
+Las casillas especiales tendrán 300 boletas por elección, adicionalmente las boletas necesarias para que los funcionarios de casilla y los representantes de los partidos o coaliciones ante la casilla puedan emitir su sufragio.
 
 El Consejo Electoral podrá establecer casillas extraordinarias en aquellos lugares en que se encuentren radicados regimientos, fuerzas armadas y de seguridad, donde sólo podrán votar los miembros de dichas corporaciones.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
+Al celebrarse convenio con el Instituto Federal Electoral en los términos establecidos en esta ley, éste prevalecerá sobre las disposiciones contenidas en el presente artículo.
 
 ### Capítulo IX. De la Documentación y Material Electoral
 
@@ -3057,11 +3207,33 @@ El Consejo Electoral podrá establecer casillas extraordinarias en aquellos luga
 
 Los partidos políticos o coaliciones tendrán derecho a nombrar a dos representantes propietarios y a un suplente, ante cada mesa directiva de casilla.
 
-Los representantes a que se refiere este artículo, podrán votar en la casilla electoral ante la que previamente hubiesen sido acreditados.
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
+Las personas que actúen como representantes de partido para el proceso federal, podrán actuar como tales en la casilla de la elección local, siempre y cuando hubieran sido acreditados ante el Consejo Electoral del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
+Si a las diez horas del día de la elección no hubiese llegado algún representante de casilla acreditado por un partido político, el representante de el mismo partido que esté fungiendo en la casilla correspondiente de la elección federal debidamente acreditado podrá registrare como tal en la casilla de la elección local con el nombramiento que al efecto le expida el Instituto Federal Electoral, y tendrá los mismos derechos y reglas de actuación que establece esta Ley para los representantes de casilla.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
+En caso de que posteriormente llegare el representante de casilla acreditado, el que ocupa su lugar ya no tendrá derecho a intervenir en la casilla para la elección estatal.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
+Lo anterior sólo será posible siempre y cuando los partidos políticos hayan registrado representantes en la casilla correspondiente, haciéndose las anotaciones respectivas en la hoja de incidentes.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
+Los representantes que estén en funciones, podrán votar en la casilla electoral ante la que previamente hubiesen sido acreditados, siempre y cuando la credencial para votar tenga domicilio dentro del Estado de Jalisco.
 
 ###### Artículo 261.
 
 Los partidos políticos o coaliciones igualmente podrán acreditar, en cada uno de los distritos electorales uninominales, un representante general por cada diez casillas electorales ubicadas en zonas urbanas y uno por cada cinco casillas en zonas rurales.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
+Los Representantes Generales acreditados por el Instituto Federal electoral, no podrán intervenir en la casilla de la elección local, si no estuviesen acreditados por el Consejo Electoral del Estado.
 
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2000)</small>
 
@@ -3093,7 +3265,9 @@ IV. Número del distrito electoral uninominal, municipio y casilla, en su caso;
 
 V. Domicilio del representante;
 
-VI. Clave de elector de la credencial para votar con fotografía;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
+
+VI. Clave de elector de la credencial para votar con fotografía cuyo domicilio se deberá encontrar dentro del Estado de Jalisco;
 
 VII. Firma del representante; y
 
@@ -3261,9 +3435,11 @@ A la recepción de la documentación y material electoral a que se refieren las 
 
 Durante el día de la elección se levantará el acta de la jornada electoral que contendrá los datos comunes a todas las elecciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 275.
 
-El segundo domingo del mes de noviembre del año de la elección ordinaria, a las siete horas con treinta minutos, los ciudadanos nombrados presidentes, secretarios y escrutadores propietarios, de mesas directivas de casilla, procederán a su instalación en presencia de los representantes de los partidos políticos o coaliciones que concurran, levantando en el acta el apartado correspondiente a la instalación, el que será firmado por todos los funcionarios y representantes, haciéndose constar los incidentes ocurridos.
+El primer domingo de julio del año de la elección ordinaria, a las ocho horas, los ciudadanos nombrados presidentes, secretarios y escrutadores propietarios, de mesas directivas de casilla, procederán a su instalación en presencia de los representantes de los partidos políticos o coaliciones que concurran, levantando en el acta el apartado correspondiente a la instalación, el que será firmado por todos los funcionarios y representantes, haciéndose constar los incidentes ocurridos.
 
 Los representantes de los partidos políticos o coaliciones, previamente deberán identificarse con la credencial para votar y entregar copia de su acreditación al presidente de la mesa directiva de casilla, quien deberá cerciorarse de que los datos incluidos en la acreditación concuerden con los de la credencial de elector. La copia formará parte del expediente electoral que se integrará al término del escrutinio y cómputo.
 
@@ -3319,7 +3495,9 @@ De no instalarse la casilla conforme a lo establecido en los artículos anterior
 
 I. Si a las ocho horas con quince minutos no están presentes alguno o algunos de los funcionarios propietarios, actuarán en su lugar los respectivos suplentes, o a falta de alguno de ellos lo deberá suplir cualquiera de los suplentes que quedaran disponibles;
 
-II. Si conforme a la fracción anterior, no pudiesen ser substituido el presidente, el secretario o ambos, serán suplidos por uno de los escrutadores o sus suplentes;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
+
+II. Si conforme a la fracción anterior, no pudiesen (sic) ser substituido el presidente, será suplido por el secretario, y éste por el escrutador o los suplentes generales;
 
 III. Si no se hubiesen completado los funcionarios de casilla después de los procedimientos anteriores, una vez cubierto el puesto de presidente, éste designará de entre los electores que se encuentren formados para votar, a quienes habrán de suplirlos;
 
@@ -3348,6 +3526,10 @@ III. Se advierta, al momento de la instalación de la casilla electoral, que és
 IV. Las condiciones del local no permitan asegurar la libertad o el secreto del voto; el libre acceso de los electores, o bien, no ofrezcan condiciones que garanticen seguridad para la realización de las actividades electorales o resguarden a los funcionarios de casilla o a los votantes de las inclemencias del tiempo. En este caso, será necesario que los funcionarios y representantes presentes de los partidos políticos o coaliciones tomen el acuerdo correspondiente; y
 
 V. La Comisión Municipal Electoral así lo disponga, por causas de fuerza mayor o caso fortuito y se notifique al presidente de la casilla; en el caso de los municipios en los que se encuentre más de una Comisión Distrital, la facultad establecida en esta fracción la ejercerá la Comisión Distrital Electoral correspondiente.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
+Cuando exista alguna de las causas anteriores, el Presidente de la Mesa Directiva acordará con su homólogo de la elección federal, la nueva ubicación de la casilla. En ningún caso la ubicación de la casilla podrá estar a más de treinta metros de distancia de donde se reubique la casilla federal.
 
 ###### Artículo 283.
 
@@ -3407,9 +3589,19 @@ Para identificar a los electores que ya hubiesen votado, el Secretario de la cas
 
 I. Marcar la credencial para votar con fotografía en el lugar indicado para ello;
 
-II. Impregnar con líquido indeleble el dedo pulgar del elector; y
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
+
+II. Impregnar con líquido indeleble el dedo pulgar izquierdo del elector; y
 
 III. Acto seguido, el Presidente de la casilla devolverá su credencial para votar con fotografía al elector.
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
+
+III. Acto seguido, el Presidente de la casilla devolverá su credencial para votar con fotografía al elector; y
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2002)</small>
+
+IV. El Secretario procederá a poner la palabra "votó" en la lista nominal correspondiente.
 
 ###### Artículo 291.
 
@@ -3545,13 +3737,19 @@ El escrutinio y cómputo de cada elección se realizará conforme a las reglas s
 
 I. El Secretario de la mesa directiva de la casilla contará las boletas sobrantes; las inutilizará por medio de dos rayas diagonales y anotará el número de éstas en el acta final del escrutinio y cómputo;
 
-II. El Primer Escrutador contará el número de electores que votaron conforme al listado nominal de la casilla;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
+
+II. El Escrutador contará el número de electores que votaron conforme al listado nominal de la casilla;
 
 III. El Secretario abrirá la urna, sacará las boletas depositadas por los electores y mostrará a los presentes que la urna quedó vacía;
 
-IV. El Segundo Escrutador contará las boletas extraídas de la urna;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
 
-V. El Presidente, auxiliado por los escrutadores, clasificará las boletas para determinar:
+IV. El Escrutador contará las boletas extraídas de la urna;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
+
+V. El Presidente, auxiliado por el escrutador, clasificará las boletas para determinar:
 
 a) El número de votos emitidos a favor de cada uno de los partidos políticos o candidatos; y
 
@@ -3642,6 +3840,12 @@ Los presidentes de las mesas directivas de casilla, fiarán (sic) avisos en luga
 ###### Artículo 316.
 
 Concluidas por los funcionarios de la mesa directiva de casilla las operaciones establecidas en los artículos anteriores, el Secretario levantará constancia de la hora de clausura de la casilla y el nombre de los funcionarios y representantes que harán la entrega del paquete que contenga los expedientes. La constancia será firmada por los funcionarios de la casilla y los representantes de los partidos que desearen hacerlo.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
+En caso de que el cierre de la casilla fuera antes de las dieciocho horas, por las causas que establece esta misma Ley, y siguiera funcionando la casilla federal, la mesa directiva procederá a buscar un lugar donde pueda realizar el conteo dentro del mismo domicilio donde se encuentre la casilla, en caso de no existir un lugar propicio, deberá esperarse al cierre de la relativa a la elección federal para iniciar el conteo; todo lo anterior deberá anotarse en la hoja de incidentes.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2002)</small>
 
 Un (sic) vez clausuradas las casillas, los presidentes de las mismas, bajo su responsabilidad harán llegar a la Comisión Distrital o Municipal Electoral que corresponda los paquetes y los expedientes de casilla dentro de los plazos siguientes, contados a partir de la hora de clausura:
 
@@ -4033,13 +4237,17 @@ VIII. Se haya recibido la votación en fecha distinta a la señalada para la cel
 
 IX. Se haya realizado, sin causa justificada, el escrutinio y cómputo en local diferente al determinado por el órgano electoral correspondiente;
 
-X. Hubieran existido irregularidades graves y no reparables durante la jornada electoral o en las actas de escrutinio y cómputo que, en forma evidente y a juicio de la Sala competente del Tribunal Electoral, pongan en duda la certeza de la votación;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
+
+X. Hubieren existido irregularidades graves y no reparables durante la jornada electoral, o en las actas de escrutinio y cómputo que, en forma evidente y a juicio del tribunal electoral, pongan en duda la certeza de la votación;
 
 XI. Se hubieren instalado en lugar oculto las urnas electorales durante la jornada electoral;
 
 XII. Los funcionarios de casilla hayan negado a los representantes de los partidos políticos el derecho de interponer escritos de protesta; y
 
-XIII. Alguna persona ajena a la mesa directiva de casilla usurpe las funciones del Presidente, Secretario o Escrutadores.
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
+
+XIII. Alguna persona ajena a la mesa directiva de casilla usurpe las funciones del Presidente, Secretario o Escrutador.
 
 ###### Artículo 356.
 
@@ -4131,11 +4339,15 @@ II. Habiendo obtenido oportunamente su credencial para votar con fotografía, no
 
 III. Considere haber sido indebidamente incluido o excluido de la lista nominal de electores de la sección correspondiente a su domicilio. En los casos a que se refiere esta fracción, la solicitud de expedición o de rectificación se presentará en cualquier tiempo durante los dos años previos al del proceso electoral.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 367.
 
-En el año de la elección los ciudadanos que se encuentren en el supuesto de la fracción I del artículo anterior, podrán presentar solicitud de expedición de credencial para votar con fotografía hasta el día 10 de septiembre del año de la elección.
+En el año de la elección los ciudadanos que se encuentren en el supuesto de la fracción I del artículo anterior, podrán presentar solicitud de expedición de credencial para votar con fotografía hasta el día último del mes de febrero del año de la elección.
 
-En los casos previstos en las fracciones II y III del artículo anterior, los ciudadanos podrán presentar solicitud de rectificación a más tardar el día 25 de septiembre del año de la elección.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2002)</small>
+
+En los casos previstos en las fracciones II y III del artículo anterior, los ciudadanos podrán presentar solicitud de rectificación a más tardar el día 14 de abril del año de la elección.
 
 En las oficinas del Registro Estatal de Electores, existirán a disposición de los ciudadanos los formatos necesarios para la presentación de la solicitud respectiva.
 
@@ -4858,3 +5070,7 @@ P.O. 17 DE AGOSTO DE 2002.
 PRIMERO.- El presente decreto entrará en vigor a (sic) día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO.- Aquellos procedimientos iniciados, antes de la vigencia del presente decreto, continuarán su substanciación conforme a las reglas vigentes antes de la reforma.
+
+P.O. 20 DE AGOSTO DE 2002.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
