@@ -4,7 +4,7 @@ identifier: "PUE-ley-general-de-bienes-del-estado-7707"
 country: "mx"
 rank: "ley_general"
 publication_date: "1973-12-25"
-last_updated: "1973-12-25"
+last_updated: "1991-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7707&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY GENERAL DE BIENES DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el martes 25 de diciembre de 1973.
 
@@ -319,9 +319,11 @@ Cuando se trate de permutar bienes estatales, los que deba recibir el Gobierno s
 
 La infracción de cualquiera de los preceptos anteriores, provocará la nulidad de la enajenación. También estarán sujetas a ellos para su validez, las enajenaciones que los establecimientos públicos y empresas en que el Estado tenga interés, hagan (sic) de inmuebles adquiridos del Gobierno del Estado por cualquier título durante los cinco años anteriores.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 40.
 
-Los bienes de dominio privado pueden ser objeto de todos los contratos que regula el derecho común, se exceptúan solamente los de comodato y las de donaciones a que se refiere el artículo 33 de esta Ley.
+Los Bienes del Dominio Privado pueden ser objeto de todos los contratos que regulan el Derecho Común.
 
 ###### ARTICULO 41.
 
@@ -424,3 +426,9 @@ El Secretario General de Gobierno,
 LIC. EDUARDO LANGLE MARTINEZ
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE DICIEMBRE DE 1991.
+
+TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
