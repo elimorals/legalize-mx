@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1962-11-01"
+last_updated: "1965-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 1962.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1965.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -1589,11 +1589,11 @@ Ningún individuo podrá desempeñar, a la vez, dos cargos de elección popular;
 
 El cargo de Gobernador prefiere a cualquier otro.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965)</small>
 
 ###### Artículo 156.
 
-Todos los funcionarios de elección popular a excepción de aquellos cuyo cargo es consejil, recibirán una compensación por sus servicios, que será determinada por la ley y pagada por los fondos públicos. Esta compensación no es renunciable y la ley que la aumente o disminuya no podrá tener lugar durante el período en que el funcionario esté ejerciendo su encargo.
+Todos los funcionarios de elección popular, a excepción de aquellos cuyo cargo es consejil, recibirán una compensación por sus servicios, que será determinada por la Ley y pagada por los fondos públicos. Esta compensación no es renunciable.
 
 > <small>(REFORMADO, P.O. 01 DE NOVIEMBRE DE 1962)</small>
 
@@ -1800,3 +1800,9 @@ P.O. 1 DE NOVIEMBRE DE 1962.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor, a los quince días de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 1965.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor, a los 3 días de su publicación en el Periódico Oficial del Estado.
