@@ -4,7 +4,7 @@ identifier: "LIEPS"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1992-07-20"
+last_updated: "1993-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=447&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIEPS"
 
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JULIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE DICIEMBRE DE 1993.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el martes 30 de diciembre de 1980.
 
@@ -74,39 +74,41 @@ C).- (DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1990)
 
 > <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
 
-D).- Cerveza y bebidas refrescantes con una graduación alcohólica de hasta 6º G.L. .......... 19%
+D).- Cerveza y bebidas refrescantes con una graduación alcohólica de hasta 6º G.L..... 19%
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 E).- Bebidas alcohólicas:
 
-1.- Con una graduación de hasta 13.5º G.L. ........... 1.5%
+1.- Con una graduación de hasta 13.5º G.L. .......... 1.5%
 
 2.- Con una graduación de más de 13.5º y hasta 20º G.L. .......... 30%
 
 > <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
 
-F).- El alcohol, aguardiente y bebidas alcohólicas no comprendidas en el inciso anterior, así como sus concentrados .......... 44.5%
+F).- El alcohol, aguardiente y bebidas alcohólicas no comprendidas en el inciso anterior, así como sus concentrados ......... 44.5%
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-G).- Gas avión .......... 50%
+G).- (DEROGADO, D.O.F. 3 DE DICIEMBRE DE 1993)
 
 H).- Tabacos labrados:
 
-1.- Cigarros .......... 139.3%
+1.- Cigarros ........... 139.3%
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 2.- Cigarros populares sin filtro elaborados con tabacos obscuros con tamaño máximo de 77 milímetros de longitud, cuyo precio máximo al público al 1o. de enero de cada año, no exceda de la cantidad que establezca el Congreso de la Unión, así como puros y otros tabacos labrados .......... 20.9%
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
-I).- Gasolinas ........... 60%
+I).- Gasolinas: La tasa que resulte para el mes de que se trate en los términos de los artículos 2o-A y 2o-B de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
-J).- Diesel .......... 20%
+J).- Diesel: La tasa que resulte para el mes de que se trate en los términos de los artículos 2o-A y 2o-B de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+
+K).- Gas natural para combustión automotriz .......... 60%
 
 II.- En la prestación de los siguientes servicios:
 
@@ -126,6 +128,46 @@ C).- Comisión, mediación, agencia, representación, correduría, consignación
 
 III.- En la exportación definitiva en los términos de la legislación aduanera de los bienes a que se refiere la fracción I de este artículo, siempre que se efectúe a países con una tasa del impuesto sobre la renta aplicable a personas morales superior al 30%, así como en la enajenación de bienes que la citada legislación aduanera establece como importación temporal realizada por personas residentes en el país a empresas de comercio exterior .......... 0%
 
+> <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 2o.-A.
+
+La tasa aplicable en cada mes para la enajenación de gasolinas o diesel será la que resulte para cada agencia de ventas de Petróleos Mexicanos conforme a lo siguiente:
+
+I.- El precio de referencia ajustado por calidad, cuando proceda, que se determine para el combustible de que se trate de acuerdo con la fracción VI de este artículo, se adicionará con el costo neto de transporte a la agencia de ventas de que se trate en el periodo comprendido del día 26 del segundo mes anterior al día 25 del mes inmediato anterior a aquel por el que se calcule la tasa, sin incluir, en este último caso, el impuesto al valor agregado.
+
+II.- Se multiplicará por el factor de 0.8741 para gasolinas, diesel automotriz y diesel sin, por 0.9615 para diesel industrial y por 0.9434 para diesel marino, el monto que se obtenga de adicionar a la comisión que haya pagado Petróleos Mexicanos a los expendios autorizados por el combustible de que se trate en el periodo citado, los costos netos de transporte del combustible de la agencia de ventas de que trate al establecimiento del expendedor incurridos durante dicho periodo, sin incluir, en ambos casos, el impuesto al valor agregado.
+
+III.- Se multiplicará por el factor de 0.7947 para gasolinas, diesel automotriz y diesel sin, por 0.8741 para el diesel industrial y por 0.8576 para el diesel marino, el precio de venta al público del combustible de que se trate vigente en la zona geográfica correspondiente en el periodo citado.
+
+IV.- El monto que resulte conforme a la fracción III se disminuirá con las cantidades obtenidas conforme a las fracciones I y II de este artículo.
+
+V.- La cantidad determinada conforme a la fracción IV se dividirá entre el monto que se obtuvo conforme a la fracción I de este artículo y el resultado se multiplicará por 100. El porcentaje que se obtenga será la tasa aplicable al combustible de que se trate que enajene la agencia correspondiente durante el mes por el que se calcula la tasa.
+
+VI.- El precio de referencia para cada uno de los combustibles a que se refiere la fracción I de este artículo, será el promedio de las cotizaciones del día 26 del segundo mes anterior al día 25 del mes inmediato anterior a aquél por el que se calcula la tasa, convertidas a nuevos pesos con el promedio del tipo de cambio de venta del dólar de los Estados Unidos de América que publica el Banco de México en el Diario Oficial de la Federación, como sigue:
+
+a).- Gasolinas: el promedio del precio spot de la gasolina regular sin plomo vigente en la Costa del Golfo de los Estados Unidos de América.
+
+b).- Diesel automotriz: el promedio del precio spot "fuel oil" número 2, 0.2% de azufre, vigente en la Costa del Golfo de los Estados Unidos de América.
+
+c).- Diesel sin: el promedio del precio spot "fuel oil" número 2, 0.05% de azufre, vigente en la Costa del Golfo o en la Costa Oeste, Los Angeles, California, de los Estados Unidos de América.
+
+d).- Diesel industrial en la Costa del Golfo: el promedio del precio spot "fuel oil" número 2, 0.2% de azufre, vigente en la Costa del Golfo de los Estados Unidos de América.
+
+e).- Diesel industrial en la Costa del Pacífico: el promedio del precio spot "fuel oil" número 2, 0.5% de azufre, vigente en la Costa Oeste, Los Angeles, California, de los Estados Unidos de América.
+
+f).- Diesel marino en la Costa del Golfo: el promedio del precio spot del "marine diesel", vigente en Houston, Texas, de los Estados Unidos de América.
+
+g).- Diesel marino en la Costa del Pacífico: el promedio del precio spot del "marine diesel", vigente en Los Angeles, California, de los Estados Unidos de América.
+
+La Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general, dará a conocer los elementos para determinar los precios de referencia, los ajustes por calidad, los costos netos de transporte y la comisión a los expendios autorizados a que se refiere este artículo. La citada dependencia realizará mensualmente las operaciones aritméticas para calcular las tasas aplicables para cada combustible y en cada agencia de ventas de Petróleos Mexicanos y las publicará en el Diario Oficial de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 2o.-B.
+
+La tasa aplicable para la importación de gasolinas o diesel será la menor de las que resulten para la enajenación del combustible de que se trate en los términos del artículo 2o-A de esta Ley, vigente en el mes en que se realice la importación.
+
 ###### ARTICULO 3o.
 
 Para los efectos de esta Ley se entiende por:
@@ -144,11 +186,17 @@ IV.- Cerveza, la bebida fermentada, elaborada con malta de cebada, lúpulo, leva
 
 V.- Bebidas alcohólicas, las que a la temperatura de 15° centígrados tengan una graduación alcohólica de más de 3° G. L., hasta 55° G. L., incluyendo al aguardiente y a los concentrados de bebidas alcohólicas aun cuando tengan una graduación alcohólica mayor.
 
-VI.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1989)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
-VII.- (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 1991)
+VI.- Gas natural para combustión automotriz, el gas natural extraído del subsuelo o de cualquier otra fuente, que se destine a la carburación automotriz.
 
-VIII.- (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 1991)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+
+VII.- Diesel industrial, el combustible líquido derivado del petróleo crudo que se obtiene por procedimientos de destilación y conversión que no se utilice para la carburación automotriz.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+
+VIII.- Diesel marino, el combustible líquido derivado del petróleo crudo que se obtiene por procedimientos de destilación y conversión que se utilice exclusivamente como combustible en los vehículos marinos.
 
 IX.- (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 1991)
 
@@ -162,9 +210,7 @@ XI.- Tabacos labrados, los cigarros, los puros y los tabacos cernidos, picados, 
 
 XII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-XIII.- Gas avión, el combustible para avión que no contenga dicloruro de etileno y su punto de congelación sea inferior a menos de 60° centígrados.
+XIII.- (DEROGADA, D.O.F. 3 DE DICIEMBRE DE 1993)
 
 XIV.- (DEROGADA, D.O.F. 20 DE JULIO DE 1992)
 
@@ -196,9 +242,9 @@ I.- Que se trate de contribuyentes que causen el impuesto en relación con el qu
 
 II.- Que los bienes se enajenen o exporten sin haber modificado su estado, forma o composición, salvo que se trate de bebidas alcohólicas a granel o de sus concentrados.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
-Petróleos Mexicanos sólo podrá acreditar el impuesto por las importaciones de gas avión y petrolíferos a que se refieren los incisos G) e I) de la fracción I del artículo 2o. de esta Ley.
+Petróleos Mexicanos y sus organismos subsidiarios podrán acreditar el impuesto por las importaciones de gasolinas, diesel y gas natural para combustión automotriz.
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -213,6 +259,16 @@ IV.- Que tratándose del impuesto trasladado por la enajenación de alcohol, el 
 Se entenderá por traslado del impuesto el cobro o cargo que el contribuyente debe efectuar de un monto equivalente al impuesto establecido en esta Ley. No se considerará acreditable el impuesto que se traslade sin tener esta obligación.
 
 El derecho al acreditamiento es personal para los contribuyentes de este impuesto y no podrá ser transmitido por acto entre vivos, excepto tratándose de fusión de sociedades.
+
+> <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 4o.-A.
+
+Las personas que adquieran diesel industrial o marino para su consumo final podrán acreditar el impuesto especial sobre producción y servicios que Petróleos Mexicanos y sus organismos subsidiarios hayan causado por la enajenación de estos combustibles. Para estos efectos, el monto que dichas personas podrán acreditar será el que se señale expresamente y por separado en el comprobante correspondiente.
+
+En los casos en que los combustibles citados se adquieran de agencias o distribuidores autorizados, el impuesto que las personas antes mencionadas podrán acreditar, será el que se señale en forma expresa y por separado en el comprobante que les expidan dichas agencias o distribuidores y que deberá ser igual al que Petróleos Mexicanos y sus organismos subsidiarios hayan causado por la enajenación a dichas agencias o distribuidores del combustible de que se trate, en la parte que corresponda al combustible que las mencionadas agencias o distribuidores comercialicen a esas personas.
+
+El acreditamiento antes mencionado podrá efectuarse contra las contribuciones federales que al efecto determine la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general. En ningún caso procederá la devolución de las cantidades acreditables a que se refiere este artículo.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -288,9 +344,7 @@ Tampoco se pagará este impuesto en la enajenación al público en general de be
 
 V.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-VI.- Gas avión, a excepción de las que realice Petróleos Mexicanos.
+VI.- (DEROGADA, D.O.F. 3 DE DICIEMBRE DE 1993)
 
 VII.- (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 1991)
 
@@ -328,9 +382,13 @@ Para calcular el impuesto tratándose de enajenaciones se considerará como valo
 
 Cuando con motivo de la enajenación de bienes sujetos al pago de este impuesto se convenga además del precio por dicha enajenación el pago de cantidades adicionales al mismo por concepto de publicidad o cualquier otro, que en su defecto se hubieran tenido que realizar por parte del enajenante, dichas erogaciones formarán parte del valor o precio pactado.
 
-> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
-Los productores o importadores de cigarros, gasolinas o diesel, para calcular el impuesto por la enajenación de esos bienes considerarán como valor el precio de venta al detallista en el caso de cigarros o a los expendios autorizados en los otros casos. Este impuesto no se pagará por las enajenaciones subsecuentes.
+Los productores o importadores de cigarros para calcular el impuesto por la enajenación de esos bienes considerarán como valor el precio de venta al detallista. Tratándose de la enajenación de los combustibles a que se refieren los incisos I) y J) de la fracción I del artículo 2o. de esta Ley, los productores o importadores para calcular el impuesto por la enajenación de esos bienes considerarán como valor el precio a que se refiere la fracción I, del artículo 2o-A de esta Ley, multiplicado por el factor de 1.144 para gasolinas, diesel automotriz y diesel sin, por 1.04 para el diesel industrial y por 1.06 para el diesel marino.
+
+> <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+
+El impuesto a que se refiere el párrafo anterior no se pagará por las enajenaciones subsecuentes.
 
 Los intereses moratorios y las penas convencionales, darán lugar al pago de este impuesto en el mes en que se paguen.
 
@@ -364,9 +422,11 @@ V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1982)
 
 VI.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1982)
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 14.
 
-Para calcular el impuesto tratándose de importación de bienes, se considerará el valor que se utilice para los fines del impuesto general de importación, adicionado con el monto de este último impuesto y de los demás que se tengan que pagar con motivo de la importación, a excepción del impuesto al valor agregado.
+Para calcular el impuesto tratándose de importación de bienes, se considerará el valor que se utilice para los fines del impuesto general de importación, adicionado con el monto de las contribuciones y aprovechamientos que se tengan que pagar con motivo de la importación, a excepción del impuesto al valor agregado.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -418,9 +478,9 @@ II.- Expedir comprobantes trasladando en los mismos expresamente y por separado,
 
 Los comerciantes que la mayor parte del importe de sus enajenaciones proviene de las que realiza al público en general, en el comprobante que expidan no trasladarán expresamente y por separado el impuesto establecido en esta Ley, salvo que así lo solicite el adquirente; asimismo, deberán ofrecer los bienes incluyendo el impuesto en el precio.
 
-> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
-Cuando se trate de enajenación de gasolinas y diesel, así como de la prestación de servicios gravados por esta Ley, en el comprobante que se expida, en ningún caso se hará la separación expresa del monto de este impuesto, debiendo ofrecer las gasolinas y diesel o los servicios incluyendo el impuesto en el precio o contraprestación.
+Cuando se trate de enajenación de gasolinas, gas natural y del diesel a que se refiere la fracción XVII del artículo 3o. así como de la prestación de servicios gravados por esta Ley, en el comprobante que se expida, en ningún caso se hará la separación expresa del monto de este impuesto debiendo ofrecerse estos bienes o servicios incluyendo el impuesto en el precio o contraprestación. Tratándose de la enajenación de diesel industrial y marino a que se refieren las fracciones VII y VIII, del artículo 3o. de esta Ley, Petróleos Mexicanos y sus organismos subsidiarios o sus agencias o distribuidores autorizados, deberán desglosar expresamente y por separado en el comprobante correspondiente el impuesto especial sobre producción y servicios que Petróleos Mexicanos y sus organismos subsidiarios hubieran causado por la enajenación de que se trate.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -1111,5 +1171,33 @@ DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SE
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE DICIEMBRE DE 1993.
+
+DISPOSICION TRANSITORIA DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
+
+###### ARTICULO DECIMO.
+
+Las personas que hayan adquirido para su consumo diesel industrial o marino a que se refieren las fracciones VII y VIII del artículo 3o., durante el periodo comprendido del 1o. de octubre al 31 de diciembre de 1993, podrán efectuar el acreditamiento de un monto equivalente al impuesto especial sobre producción y servicios, que Petróleos Mexicanos y sus organismos subsidiarios hayan causado por la enajenación de dicho combustible. Para estos efectos, el impuesto especial sobre producción y servicios que se podrá acreditar será el que resulte de multiplicar el precio de adquisición del citado combustible que conste en el comprobante correspondiente, incluido el impuesto al valor agregado, por el factor de 0.1515.
+
+El acreditamiento antes mencionado podrá efectuarse contra las contribuciones federales que al efecto determine la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general. En ningún caso procederá la devolución de las cantidades acreditables a que se refiere el párrafo anterior.
+
+DISPOSICIONES DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
+
+###### ARTICULO DECIMO PRIMERO.
+
+Durante el año de 1994 y para efectos del artículo 2o., fracción I, inciso H), subinciso 2) de la Ley del Impuesto Especial sobre Producción y Servicios, son cigarros populares sin filtro los que al 1o. de enero de 1994 tengan un precio máximo al público que no exceda de 8 centavos de nuevos pesos por cigarro.
+
+###### ARTICULO DECIMO SEGUNDO.
+
+Durante el año de 1994, se aplicará al gas natural para combustión automotriz la tasa del 50%, en lugar de la del 60% a que se refiere el inciso K) de la fracción I del artículo 2o. de la Ley del Impuesto Especial sobre Producción y Servicios.
+
+###### ARTICULO DECIMO TERCERO.
+
+Durante el año de 1994, se prorroga la vigencia de la fracción V del ARTICULO DECIMO PRIMERO de las DISPOSICIONES DE VIGENCIA ANUAL de la Ley que Reforma, Adiciona y Deroga Diversas Disposiciones Fiscales para 1992 y las modificaciones a dicha fracción, publicadas en el Diario Oficial de la Federación el 20 de julio de 1992.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1994.
 
 ## TRANSITORIO
