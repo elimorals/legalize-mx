@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-y-de-cabildo-del-ayuntamiento-de-tijuana-262
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-13"
-last_updated: "2004-01-09"
+last_updated: "2004-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO Y DE CABILDO DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2004.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 13 de septiembre de 2002.
 
@@ -727,6 +727,10 @@ XVII.- Comisión Reguladora de Bebidas Alcohólicas.
 
 XVIII.- Comisión de Equidad y Género.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+
+XX (SIC).- Comisión de Derechos Humanos y Grupos Vulnerables.
+
 Para efectos de crear nuevas Comisiones permanentes, deberá procederse a la reforma del present (sic) Reglamento.
 
 ###### ARTICULO 80.
@@ -1023,6 +1027,20 @@ IV.- Impulsar proyectos normativos y acciones que fortalezcan las condiciones de
 
 V.- En general, aquellas que el Cabildo le encomiende.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+
+ARTICULO 96 TER.- La Comisión de Derechos Humanos y Grupos Vulnerables, tiene las siguientes atribuciones:
+
+I.- Vigilar la elaboración y actualización de programas en materia de protección de los Derechos Humanos;
+
+II.- Proponer al Cabildo o al Presidente Municipal, normatividad o programas y acciones a favor de grupos vulnerables.
+
+III.- Participar en representación del Ayuntamiento en los foros o reuniones que realicen los organismos no gubernamentales y las autoridades tanto extranjeras como locales en asuntos relacionados con la protección de los Derechos Humanos;
+
+IV.- Dictaminar respecto de los proyectos de convenios en los que el Ayuntamiento deberá participar institucionalmente con otros niveles de gobierno en asuntos relacionados con los derechos humanos y el mejoramiento de la calidad de vida de los grupos vulnerables, y
+
+V.- En general, aquellas que el Cabildo le encomiende.
+
 > <small>(REFORMADO, P.O. 9 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 97.
@@ -1232,3 +1250,9 @@ P.O. 9 DE ENERO DE 2004.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones u ordenamientos que contravengan a la presente reforma.
+
+P.O. 31 DE DICIEMBRE DE 2004.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberá publicarse en el periódico de mayor circulación en la localidad para el conocimiento de los vecinos.
+
+SEGUNDO.- Se abrogan todas las disposiciones que se opongan a las presentes disposiciones.
