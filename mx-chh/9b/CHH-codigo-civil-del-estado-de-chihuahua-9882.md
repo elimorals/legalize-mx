@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "1998-09-30"
+last_updated: "1999-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1999.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -39,51 +39,109 @@ CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
 DISPOSICIONES PRELIMINARES
 
-###### Artículo 1°.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
 
-Las Leyes Civiles del Estado son iguales para todos y obligan a los habitantes del mismo, así como a los transeúntes, cualquiera que sea su nacionalidad.
+1°.- Las Leyes del Estado son iguales para todos, se aplican y obligan a sus habitantes así como a los transeúntes, cualquiera que sea su nacionalidad. Igualmente se aplican a los actos celebrados dentro de su territorio y aquellos que, celebrados fuera de él, se sometan a sus leyes, salvo que los mismos provean la aplicación de leyes de otra jurisdicción, tomando siempre en cuenta los tratados y convenios internacionales en que México sea parte.
 
-2°.- La capacidad jurídica es igual para el hombre y para la mujer. En consecuencia, la mujer no queda sometida a restricción en la adquisición y ejercicio de sus derechos civiles, salvo los casos previstos por la Ley.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
 
-3°.- Las leyes, decretos, reglamentos y otras disposiciones de observancia general obligan, en la Capital del Estado, desde el día siguiente al de su publicación en el Periódico Oficial y, en los demás lugares, a los veinte días de hecha aquélla.
+2°.- La capacidad jurídica es igual para el hombre y la mujer.
 
-4°.- Si la ley, reglamento o disposición de observancia general fija el día en que debe comenzar a regir, obliga desde ese día, con tal de que su publicación haya sido anterior.
+(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999) (F. DE E., 2 DE FEBRERO DE 2000)
 
-5°.- A ninguna ley ni disposición gubernativa se dará efecto retroactivo en perjuicio de persona alguna.
+3°.- Las leyes, decretos, reglamentos y otras disposiciones de observancia general obligan desde el día siguiente de su publicación en el Periódico Oficial del Estado. Sin embargo, si en las mismas disposiciones aparece el día en que deben comenzar a regir, obligan desde ese día, siempre que su publicación haya sido anterior.
 
-6°.- La voluntad de los particulares no puede eximir de la observancia de la ley, ni alterarla o modificarla. Sólo pueden renunciarse los derechos privados que no afecten directamente al interés público, cuando la renuncia no perjudique derechos de terceros.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
 
-7°- La renuncia autorizada en el artículo anterior no produce efecto alguno si no se hace en términos claros y precisos, de tal suerte que no quede duda del derecho que se renuncia.
+4°.- A ninguna ley, decreto reglamento o disposición de observancia general se dará efecto retroactivo en perjuicio de persona alguna.
 
-8°.- Los actos ejecutados contra el tenor de las leyes prohibitivas o de interés público serán nulos, excepto en los casos en que la ley ordene lo contrario.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
 
-9°.- La ley sólo queda abrogada, o derogada, por otra posterior que así lo declare expresamente, o que contenga disposiciones incompatibles con la ley anterior.
+5°.- La voluntad de las partes en un acto jurídico no puede eximir de la observancia a la ley, ni alterarla o modificarla. Sólo son renunciables los derechos de interés privado, no así los que afectan al interés público, siempre y cuando la renuncia no perjudique derechos de terceros.
 
-10.- Contra la observancia de la Ley no puede alegarse desuso, costumbre o práctica en contrario.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
 
-11.- Las leyes que establecen excepción a las reglas generales, no son aplicables a caso alguno que no esté expresamente especificado en las mismas leyes.
+6°.- La renuncia en los términos del artículo anterior debe hacerse en términos claros y precisos a efecto de que no quede duda del derecho que se renuncia. De no ser así, la misma se tendrá por no hecha.
 
-12.- Las leyes del Estado, incluyendo las que se refieren al Estado y capacidad de las personas, se aplican a todos los habitantes del mismo, sean nacionales o extranjeros, estén domiciliados dentro de su jurisdicción territorial o sean transeúntes.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
 
-13.- Los efectos jurídicos de actos y contratos celebrados fuera del Estado que deban ser ejecutados en territorio del mismo, se regirán por las disposiciones de este Código y demás leyes locales relativas.
+7°.- Los actos que celebren las partes en contra de leyes prohibitivas o de orden público serán nulos en forma absoluta, excepto que en la propia ley se disponga lo contrario. Los que atenten contra leyes de otro tipo se sujetarán a lo dispuesto por este Código en el Capítulo respectivo.
 
-14.- Los bienes inmuebles sitos en el Estado y los bienes muebles que se encuentren dentro de su territorio, se regirán por las disposiciones de este Código y demás leyes relativas.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
 
-15.- Los actos jurídicos, en todo lo relativo a su forma, se regirán por las leyes del lugar donde pasen. Sin embargo, los residentes fuera del Estado, sean mexicanos o extranjeros, podrán sujetar a las formalidades prescritas por este Código, los actos que hayan de tener ejecución o efectos dentro del territorio de Chihuahua.
+8°.- Los actos jurídicos, en todo lo relativo a su forma se sujetarán a las leyes del lugar donde se celebren. Los residentes fuera del Estado, sean mexicanos o extranjeros, que celebren actos cuya ejecución o efectos se produzcan dentro del territorio del Estado, podrán sujetarlos a las formalidades prescritas por este Código; por ese sólo hecho, se entienden sometidos a las disposiciones del mismo y a las demás leyes locales relativas.
 
-16.- Los habitantes del Estado tienen obligación de ejercer sus actividades y de usar y disponer de sus bienes en forma que no perjudique a la colectividad, bajo las sanciones establecidas en este Código y en las leyes relativas.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
 
-17.- Cuando alguno explotando la suma ignorancia, notoria inexperiencia o extrema miseria de otro, obtiene un lucro excesivo que sea evidentemente desproporcionado a lo que él por su parte se obliga, el perjudicado tiene derecho a pedir la rescisión del contrato, o, de ser imposible, la reducción equitativa de su obligación.
+9°.- Lo previsto en el artículo anterior también será aplicable a la constitución, régimen y extinción de derechos reales sobre inmuebles, así como a los contratos de arrendamiento y uso temporal de tales bienes.
 
-El derecho concedido en este artículo dura un año.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
 
-18.- El silencio, obscuridad o insuficiencia de la ley, no autoriza a los jueces o tribunales para dejar de resolver una controversia.
+10.- Los bienes muebles e inmuebles se regirán por el derecho del lugar de su ubicación, aunque sus titulares sean extranjeros.
 
-19.- Las controversias judiciales del orden civil deberán resolverse conforme a la letra de la ley o a su interpretación jurídica. A falta de ley se resolverán conforme a los principios generales de derecho.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
 
-20.- Cuando haya conflicto de derechos, a falta de ley expresa que sea aplicable, la controversia se decidirá a favor del que trate de evitarse perjuicios y no a favor del que pretenda obtener lucro. Si el conflicto fuere entre derechos iguales o de la misma especie, se decidirá observando la mayor igualdad posible entre los interesados.
+11.- Salvo lo previsto en los artículos anteriores, los efectos jurídicos de los actos y contratos se regirán por el derecho del lugar en donde deban ejecutarse, a menos de que las partes hubieren designado válidamente la aplicación de otro derecho.
 
-21.- La ignorancia de las leyes no excusa su cumplimiento, pero los jueces teniendo en cuenta el notorio atraso intelectual de algunos individuos, su apartamiento de las vías de comunicación o su miserable situación económica, podrán, con audiencia del Ministerio Público, eximirlos de las sanciones en que hubieren incurrido por la falta de cumplimiento de la ley que ignoraban, o, de ser posible, concederles un plazo para que la cumplan, siempre que no se trate de leyes que afecten directamente al interés público.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
+
+12.- La ley sólo queda abrogada o derogada, por otra posterior que así lo declare expresamente, o que contenga disposiciones incompatibles con la ley anterior.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
+
+13.- Contra la observancia de la ley no puede alegarse ignorancia, desuso, costumbre o práctica en contrario.
+
+Cuando los jueces se percaten del notorio atraso intelectual de algún individuo, su miserable situación económica o su notable incomunicación dentro del territorio del Estado, podrán, con audiencia del Ministerio Público, eximirlos de las responsabilidades en que hubieren incurrido por el incumplimiento a la ley que en concreto ignoraban o, en su caso, conceder un plazo razonable para que den cumplimiento, siempre y cuando no se trate de leyes de orden público. En ningún caso la exención podrá implicar el incumplimiento mismo de la ley.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
+
+14.- Las leyes que establezcan excepciones a las reglas generales sólo son aplicables en los casos y negocios a que expresamente se refieren.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
+
+15.- Para la aplicación del derecho extranjero y el de otra Entidad Federativa, se observarán las siguientes reglas:
+
+I.- No deberá contener disposiciones o efectos contrarios a principios de orden público mexicano;
+
+II.- No deberá implicar la intención de evadir artificiosamente principios fundamentales de derecho mexicano;
+
+III.- El juez tiene obligación de informarse sobre el texto, vigencia, sentido y alcance legal, como lo haría el juez extranjero correspondiente;
+
+IV.- No será impedimento para su aplicación que en el derecho mexicano no se prevea alguna institución o procedimiento relativos a la figura extranjera aplicable si existe alguna análoga en el derecho mexicano, a menos que se encuentre expresamente prohibida o que sin estarlo pugne con otras disposiciones;
+
+V.- Cuando diversos derechos regulen diferentes aspectos de una misma relación jurídica, se procurará su aplicación armónica, encaminada a realizar los fines que cada uno de los derechos persiga. En caso de dificultad para la aplicación simultánea, se deberá resolver aplicando la equidad;
+
+VI.- El derecho sustantivo se aplicará, a menos que las circunstancias del caso permitan tomar en cuenta de manera excepcional las normas de ese derecho que admitan la aplicación del derecho mexicano o de un tercer Estado; y
+
+VII.- Las cuestiones previas, preliminares o incidentales que deriven de una principal, no deberán resolverse necesariamente aplicando el derecho que regule a esta última.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
+
+16.- El silencio, obscuridad o insuficiencia de la ley no autoriza a los jueces o tribunales a dejar de resolver una controversia.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
+
+17.- Los habitantes del Estado deberán ejercer sus actividades, usar o disponer de sus bienes en forma que no perjudiquen a la colectividad, bajo pena de que se les apliquen las sanciones establecidas en este Código y en las leyes relativas.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
+
+18.- Las controversias judiciales de orden civil deberán resolverse conforme a la letra de la ley o a su interpretación jurídica. A falta de ley, se resolverán de acuerdo a los principios generales de derecho.
+
+El uso o costumbre del lugar también se aplicarán en forma supletoria cuando la propia ley, la voluntad de las partes o las circunstancias del caso lo permitan.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
+
+19.- Cuando se presente conflicto de derechos, de la misma especie o de igual interés para las partes, el juez deberá decidir observando la mayor igualdad posible entre los interesados.
+
+A falta de ley expresa, la controversia se decidirá a favor del que trate de evitarse perjuicios frente a quien pretenda obtener un lucro.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
+
+20.- La familia, como institución que permite y fomenta la convivencia de sus miembros a través de la permanencia y estabilidad de las relaciones de las personas que la integran en razón del matrimonio, concubinato o parentesco, es la base del orden social, por lo que el Estado garantiza su protección, constitución y autoridad como fundamento primordial de la sociedad, considerándose de orden público. Para ello, el Gobierno del Estado promoverá la organización social y económica de la familia sustentada en los vínculos antes mencionados.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
+
+21.- Cuando en las leyes se aluda al salario mínimo, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
 
 # LIBRO PRIMERO. DE LAS PERSONAS
 
@@ -93,7 +151,7 @@ El derecho concedido en este artículo dura un año.
 
 > <small>(F. DE E., P.O. 29 DE JULIO DE 2000)</small>
 
-23.- La minoría edad, el estado de interdicción y las demás incapacidades establecidas por la ley, son restricciones a la personalidad jurídica; pero los incapaces pueden ejecutar sus derechos o contraer obligaciones por medio de sus representantes.
+23.- La minoría de edad, el estado de interdicción y las demás incapacidades establecidas por la ley, son restricciones a la personalidad jurídica; pero los incapaces pueden ejecutar sus derechos o contraer obligaciones por medio de sus representantes.
 
 24.- El mayor de edad tiene la facultad de disponer libremente de su persona y sus bienes, salvo las limitaciones que establece la ley.
 
@@ -2167,7 +2225,7 @@ Se exceptúan de lo dispuesto en el párrafo anterior los casos en que el error 
 
 530.- Si se hubiere omitido listar algunos bienes en el inventario, el menor mismo, antes o después de la mayor edad, y el curador o cualquier pariente, pueden ocurrir al Juez, pidiendo que los bienes omitidos se listen y el Juez oído el parecer del tutor, determinará en justicia.
 
-531.- El tutor, dentro del primer mes de ejercer su cargo fijará, con aprobación del Juez, la cantidad que haya de invertirse en gastos de administración y el número y sueldos de los dependientes necesarios. Ni el número ni el sueldo de los empleado, podrá aumentarse después, sino con aprobación judicial.
+531.- El tutor, dentro del primer mes de ejercer su cargo fijará, con aprobación del Juez, la cantidad que haya de invertirse en gastos de administración y el número y sueldos de los dependientes necesarios. Ni el número ni el sueldo de los empleados, podrá aumentarse después, sino con aprobación judicial.
 
 532.- Lo dispuesto en el artículo anterior no liberta al tutor de justificar, al rendir sus cuentas, que efectivamente han sido gastadas dichas sumas en sus respectivos objetos.
 
@@ -2771,7 +2829,7 @@ XIII.- El material rodante de los ferrocarriles, las líneas telefónicas y tele
 
 730.- En general, son bienes muebles, todos los demás no considerados por la ley como inmuebles.
 
-731.- Cuando en una disposición de la ley o en los actos y contratos se use de la palabras BIENES MUEBLES, se comprenderán bajo esa denominación los enumerados en los artículos anteriores.
+731.- Cuando en una disposición de la ley o en los actos y contratos se use de las palabras BIENES MUEBLES, se comprenderán bajo esa denominación los enumerados en los artículos anteriores.
 
 732.- Cuando se use de las palabras muebles o bienes muebles de una casa, se comprenderán los que formen el ajuar y utensilios de ésta y que sirven exclusiva y propiamente para el uso y trato ordinario de una familia, según las circunstancias de las personas que la integren. En consecuencia, no se comprenderán, el dinero, los documentos y papeles, las colecciones científicas y artísticas, los libros y sus estantes, las medallas, las armas, los instrumentos de arte y oficios, las joyas, ninguna clase de ropa de uso, los granos, caldos, mercancías y demás cosas similares.
 
@@ -2793,7 +2851,7 @@ Los no fungibles son los que no pueden ser substituidos por otros de la misma es
 
 739.- Los bienes de uso común son inalienables e imprescriptibles. Pueden aprovecharse de ellos todos los habitantes, con las restricciones establecidas por la ley; pero para aprovechamientos especiales se necesita concesión otorgada con los requisitos que prevengan las leyes respectivas.
 
-740.- Los que estorben el aprovechamiento de los bienes de uso común, quedan sujetos a la penas correspondientes, a pagar los daños y perjuicios causados y a la pérdida de las obras que hubieren ejecutado.
+740.- Los que estorben el aprovechamiento de los bienes de uso común, quedan sujetos a las penas correspondientes, a pagar los daños y perjuicios causados y a la pérdida de las obras que hubieren ejecutado.
 
 741.- Los bienes destinados a un servicio público y los bienes propios pertenecen en pleno dominio a la Federación, a los Estados o a los Municipios; pero los primeros son inalienables e imprescriptibles, mientras no se les desafecte del servicio público a que se hallen destinados.
 
@@ -5741,7 +5799,7 @@ I.- La cosa que el obligado debe dar;
 
 II.- El hecho que el obligado debe hacer o no hacer.
 
-1719.- La cosa objeto del contrato debe: 1° Existir en la naturaleza. 2° ser determinada o determinable en cuanto a su especie. 3° Estar en el comercio.
+1719.- La cosa objeto del contrato debe: 1° Existir en la naturaleza. 2° Ser determinada o determinable en cuanto a su especie. 3° Estar en el comercio.
 
 1720.- Las cosas futuras pueden ser objeto de un contrato. Sin embargo, no puede serlo la herencia de una persona viva, aun cuando ésta preste su consentimiento.
 
@@ -7389,9 +7447,9 @@ El arrendamiento no puede exceder de diez años para las fincas destinadas a hab
 
 2305.- El arrendamiento debe otorgarse por escrito cuando la renta pase de cien pesos anuales.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 1979)</small>
 
-2306.- Si el predio fuere rústico y la renta pasare de setenta mil pesos anuales, el contrato se otorgará en escritura pública.
+2306.- Si el predio fuere rústico y la renta pasare de doce mil quinientos pesos anuales, el contrato se otorgará en escritura pública.
 
 2307.- El contrato de arrendamiento no se rescinde por la muerte del arrendador ni del arrendatario, salvo convenio en otro sentido.
 
@@ -7787,7 +7845,7 @@ III.- En carta poder sin ratificación de firmas.
 
 Cuando el mandato haya sido verbal debe ratificarse por escrito antes de que concluya el negocio para que se dio.
 
-2452.- El mandato puede ser general o especial. Son generales los contenido, en los tres primeros párrafos del artículo 2453. Cualquier otro mandato tendrá el carácter de especial.
+2452.- El mandato puede ser general o especial. Son generales los contenidos, en los tres primeros párrafos del artículo 2453. Cualquier otro mandato tendrá el carácter de especial.
 
 2453.- En todos los poderes generales para pleitos y cobranzas, bastará que se diga que se otorga con todas las facultades generales y las especiales que requieran cláusula especial conforme a la ley, para que se entiendan conferidos sin limitación alguna.
 
@@ -9552,3 +9610,7 @@ P.O. 30 DE SEPTIEMBRE DE 1998.
 ###### ARTICULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE DICIEMBRE DE 1999.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
