@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1928-04-28"
+last_updated: "1928-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 1928.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 1928.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -357,7 +357,9 @@ XXXVII.- Conocer de la nulidad de elecciones conforme a la ley.
 
 XXXVIII.- Conceder amnistía por delitos políticos, previo acuerdo de las dos terceras partes de los miembros de la Legislatura.
 
-XXXIX.- Otorgar o no concesiones a las compañías o particulares que lo soliciten.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 1928)</small>
+
+XXXIX.- Legislar sobre franquicias a la Industria y otorgar concesiones que no impliquen exención o reducción de impuestos, a Empresas de Servicios Públicos.
 
 XL.- Elegir la Diputación Permanente.
 
@@ -1216,5 +1218,9 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 28 DE ABRIL DE 1928.
 
 DECRETO NÚMERO 62.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+
+P.O. 12 DE MAYO DE 1928.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
