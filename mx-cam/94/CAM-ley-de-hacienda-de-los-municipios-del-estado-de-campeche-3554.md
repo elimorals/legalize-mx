@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-de-los-municipios-del-estado-de-campeche-3554"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-04"
-last_updated: "1995-12-26"
+last_updated: "1997-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 4 de diciembre de 1993.
 
@@ -133,7 +133,9 @@ Para los efectos de esta ley, en aquellos casos en que la tarifa aparezca clasif
 
 2.- Carmen; y
 
-3.- Calkiní, Champotón, Hecelchakán, Hopelchén, Palizada, Tenabo y Escárcega.
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1997)</small>
+
+3.- Calakmul, Calkiní, Champotón, Escárcega, Hecelchakán, Hopelchén, Palizada y Tenabo.
 
 ###### ARTICULO 17.
 
@@ -1782,3 +1784,9 @@ P.O. 26 DE DICIEMBRE DE 1995.
 Primero.- El presente decreto entrará en vigor el día primero de Enero de mil novecientos noventa y seis.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido de este decreto.
+
+P.O. 15 DE ENERO DE 1997.
+
+PRIMERO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido de este decreto.
