@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-penales-para-el-estado-de-4832"
 country: "mx"
 rank: "codigo"
 publication_date: "1959-04-02"
-last_updated: "2000-11-17"
+last_updated: "2001-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DEL 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DEL 2001.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 2 de abril de 1959.
 
@@ -1501,11 +1501,9 @@ III.- Que por razón de la hora, lugar o circunstancia, no pueda ocurrir ante au
 
 La violación de esta disposición hará penalmente responsable al Ministerio Público que decrete indebidamente la detención y el sujeto será puesto en inmediata libertad.
 
-Se consideran como delitos graves, para todos los efectos legales, los previstos en los siguientes artículos del Código Penal para el Estado de Guanajuato:
+> <small>(DEROGADO PENULTIMO PARRAFO POR ARTICULO QUINTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DEL 2001)</small>
 
-> <small>(F. DE E., P.O. 2 DE SEPTIEMBRE DE 1994)</small>
-
-Rebelión previsto por el artículo 138; peculado previsto por el artículo 146 y sancionado conforme al artículo 266 párrafo cuarto; evasión presos previsto por el artículo 163 segundo párrafo; tráfico de menores previsto por el artículo 199-Bis párrafos primero, segundo y quinto; homicidio previsto por el artículo 201 con relación al 202, 204, 219 y 17; lesiones previsto por el artículo 210; tortura previsto por el artículo 215-Bis; homicidio culposo previsto por el primer párrafo del artículo 218 con relación al 181; homicidio en razón de parentesco o relación previsto por el artículo 219, así como en grado de tentativa relacionado con el artículo 17; infanticidio previsto por el artículo 221; aborto previsto por el artículo 222 y sancionado por el artículo 225; secuestro previsto por el artículo 238, así como en grado de tentativa relacionado con el artículo 17; asalto a población, previsto por el artículo 246; violación previsto por los artículos 249, 250, 251 y 251-Bis; robo calificado previsto por los artículos 265 y 268 sancionado por el artículo 266 párrafos tercero o cuarto; robo de ganado previsto por los artículos 273 o 274 sancionado por el artículo 266 párrafo cuarto, salvo lo dispuesto en el último párrafo del artículo 266; despojo previsto por el artículo 286; daños dolosos previsto por el artículo 289; y extorsión previsto por el artículo 291.
+> <small>(DEROGADO ULTIMO PARRAFO POR ARTICULO QUINTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DEL 2001)</small>
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 1994)</small>
 
@@ -4020,3 +4018,13 @@ Para los efectos de los artículos reformados, los asuntos que se encuentren en 
 P.O. 17 DE NOVIEMBRE DEL 2000.
 
 Artículo Único.- El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE NOVIEMBRE DEL 2001.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+Artículo Primero.- Este Código entrará en vigor el 1º primero de enero del 2002 dos mil dos, previa publicación, junto con su dictamen, en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Quinto.- Se deroga el penúltimo y último párrafos del artículo 183 ciento ochenta y tres del Código de Procedimientos Penales para el Estado de Guanajuato. Toda referencia al catálogo de delitos graves que alguna disposición realice se entenderá que se hace al artículo 11 once de este Código.
+
+Artículo Séptimo.- Quedan vigentes las disposiciones de carácter penal contenidas en otros ordenamientos, en todo lo que no se oponga a este Código.
