@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-5455"
 country: "mx"
 rank: "ley"
 publication_date: "1990-12-29"
-last_updated: "1996-12-31"
+last_updated: "1997-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 29 de diciembre de 1990.
 
@@ -789,7 +789,9 @@ Es objeto de este impuesto, las erogaciones en dinero o en especie por concepto 
 
 Para los efectos de este impuesto, se consideran erogaciones destinadas a remunerar el trabajo personal subordinado, los salarios y demás prestaciones que se deriven de una relación laboral.
 
-Son también objeto de este impuesto, los pagos realizados a los administradores, comisarios o miembros de los consejos directivos y de vigilancia de toda clase de sociedades y asociaciones.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE DICIEMBRE DE 1997)</small>
+
+Son también objeto de este impuesto, los pagos realizados a los administradores, comisarios o miembros de los consejos directivos y de vigilancia de toda clase de sociedades y asociaciones, así como, los rendimientos que se repartan de acuerdo al trabajo aportado, por cada socio, durante el año en las sociedades cooperativas de productores.
 
 > <small>(F. DE E., P.O. 1 DE MARZO DE 1991)</small>
 
@@ -1773,9 +1775,9 @@ B) Por las siguientes copias certificadas..................$ 5.00
 
 C) Por copias simples (no certificadas).....................$ 3.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1997)</small>
 
-XIX Sustitución de vehículos que presten el servicio establecido en este articulo, y ;.....$345.00
+XIX. Sustitución de vehículos que presten el servicio establecido en este articulo:.....$40.00
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -1784,6 +1786,10 @@ XX. Por el cambio de modalidad que se realicen a las concesiones a que hacen ref
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 XXI. Por la reposición de la concesión del servicio público de transporte en cualquiera de sus modalidades................................$ 250.00
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1997)</small>
+
+XXII.- Por la autorización para emplacar y reemplacar la concesión..............................................................................$ 1,000.00
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
@@ -1832,6 +1838,28 @@ B)Por cada hoja excedente $ 9.00
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 VI. Por expedición de constancias de inscripción o de no inscripción de testamentos..$24.00
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 91-A.
+
+Los derechos por la prestación de los servicios del Estado, a través de la Dirección de enlace con la Secretaría de Relaciones Exteriores, se causarán y pagarán de
+
+la siguiente forma:
+
+I.- Por la tramitación para la expedición o renovación de pasaportes ..................$ 20.00
+
+II. Por la tramitación de registro de constitución de sociedades ...........................$ 25.00
+
+III. Por la tramitación para registro de avisos notariales.........................................$ 20.00
+
+IV. Por la tramitación de permisos para la adquisición de bienes inmuebles dentro de la zona restringida para extranjeros..........................................................................$ 30.00
+
+V. Por la tramitación de certificados de nacionalidad.............................................$ 20.00
+
+VI. Por la expedición de copias fotostáticas:
+
+Por cada hoja................................................................................................................$ 3.00
 
 ARTICULO 91 BIS.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1996)
 
@@ -1897,9 +1925,9 @@ B) Por cada hoja excedente $ 4.00
 
 VIII. De los vehículos particulares:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1997)</small>
 
-A) alta y canje de placas. $ 65.00
+A) Alta de placas. $ 77.00
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
@@ -1907,7 +1935,7 @@ b) Reposición del registro anual de control vehicular. $ 42.00
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-c) bajas. $ 24.00
+c) Bajas. $ 24.00
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
@@ -1915,7 +1943,7 @@ d) Reposición de tarjetas de circulación. $ 24.00
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-e) placas de remolque. $ 65.00
+e) Placas de remolque. $ 65.00
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
@@ -1933,17 +1961,21 @@ h) Permiso provisional para circular sin placas $ 60.00
 
 I) Expedición de placas para vehículo antiguo $ 42.00
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1997)</small>
 
-J) El canje extemporáneo de placas y engomado, dará lugar al cobro de intereses moratorios conforme a lo dispuesto por la Ley de Ingresos del Estado.
+J) El canje extemporáneo de placas y engomado, dará lugar al cobro de recargos conforme a lo dispuesto por la Ley de Ingresos del Estado.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1997)</small>
+
+K).- Canje de placas $ 77.00
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
 IX. De los vehículos de servicio publico:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1997)</small>
 
-A) Alta y canje de placas $ 100.00
+A) Alta de placas $ 77.00
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
@@ -1963,11 +1995,17 @@ e) Reposición de tarjeta de circulación. $ 30.00
 
 f) Expedición del registro anual de control vehicular. $ 50.00
 
-g) el canje extemporáneo de placas, dará lugar al cobro de intereses moratorios conforme a lo dispuesto por la Ley de Ingresos del Estado.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1997)</small>
+
+g) El canje de placas. $ 77.00
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1997)</small>
+
+H) El canje extemporáneo de placas y engomado, dará lugar al cobro de recargos conforme a lo dispuesto por la Ley de Ingresos del Estado.
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-X. el pago de los derechos a que se refieren las fracciones I y II, deberán hacerse de la siguiente manera:
+X. El pago de los derechos a que se refieren las fracciones I y II, deberán hacerse de la siguiente manera:
 
 A) Tratándose de altas y bajas de vehículos particulares y del servicio publico, se pagaran dentro de los 15 días hábiles siguientes en que se adquiera o enajene el vehículo.
 
@@ -2230,6 +2268,10 @@ XXX. Todas las personas físicas o morales que construyan viviendas de interés 
 REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
 
 XXXI. Restitución fotogrametrica esc. 1: 1,000 con vuelo actualizado "1990" de 54 hectáreas con curvas de nivel a un metro en heliografica formato 90 x 60 cms., por pieza........................... $ 1, 150.00
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1997)</small>
+
+XXXII.- Copia de plano de la localidad en papel bond formato de 90 X 60 cms., por cada pieza..........................................................$ 50.00
 
 ###### ARTICULO 95.
 
@@ -2499,9 +2541,11 @@ II. Al comercio y a la industria.
 
 III. Sobre Productos de Capitales.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO CUARTO.
 
-Continúa suspendido el cobro de los Derechos Estatales que señala el Decreto Número 120 de fecha 29 de junio de 1983, publicado en el Periódico Oficial del Estado de fecha 4 de julio de 1983, en virtud de estar en vigor la Coordinación de la materia de Derechos suscrito por el Estado de Hidalgo y la Secretaría de Hacienda y Crédito Público, salvo los derechos por uso de estacionamiento de vehículos y de uso de la vía pública por comerciantes ambulantes con puestos fijos o semifijos, de acuerdo a lo establecido en la fracción III del Articulo 10-A de la Ley de Coordinación Fiscal Federal.
+En tanto se encuentren en vigor los convenios de adhesión al Sistema Nacional de Coordinación Fiscal y de Colaboración Administrativa en Materia Fiscal Federal, se suspenderán los impuestos sobre productos agrícolas y ganaderos, al comercio y a la industria y sobre productos de capitales.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -2558,5 +2602,11 @@ TERCERO.- Se derogan todas las disposiciones que se opongan al contenido del pre
 P.O. 31 DE DICIEMBRE DE 1996.
 
 PRIMERO.- El presente decreto entrará en vigor el día 1° de enero de 1997, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente decreto.
+
+P.O. 30 DE DICIEMBRE DE 1997.
+
+PRIMERO.- El presente decreto entrará en vigor el día 1° de enero de 1998, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente decreto.
