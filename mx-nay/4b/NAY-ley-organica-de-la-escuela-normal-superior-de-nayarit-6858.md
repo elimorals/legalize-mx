@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-escuela-normal-superior-de-nayarit-6858"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1974-03-02"
-last_updated: "1976-05-22"
+last_updated: "1987-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6858&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGANICA DE LA ESCUELA NORMAL SUPERIOR DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 1976.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 1987.
 
 Ley Publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit el sábado 2 de marzo de 1974.
 
@@ -43,9 +43,11 @@ LEY ORGANICA DE LA ESCUELA NORMAL SUPERIOR DE NAYARIT.
 
 DE LA PERSONALIDAD Y FINES.
 
+> <small>(REFORMADO, P.O.16 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 1o.
 
-La Escuela Normal Superior de Nayarit, es una Institución dependiente de la Dirección General de Educación y Cultura del Estado, con planes y programas similares a los de la Secretaria de Educación Pública.
+La Escuela Normal Superior de Nayarit, es una Institución dependiente de la Secretaría de Fomento Educativo del Estado, con personalidad jurídica propia de acuerdo a la estructura administrativa, planes y programas establecidos en el sistema educativo.
 
 ###### ARTICULO 2o.
 
@@ -81,9 +83,11 @@ Son Autoridades de la Escuela Normal Superior de Nayarit, en el siguiente orden 
 
 3o. Los Sub-Directores Técnico y Administrativo.
 
+> <small>(REFORMADO, P.O.16 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 4o.
 
-La Asamblea de Gobierno estará integrada por el Director de la Escuela Normal Superior de Nayarit, quien será su Presidente, por los Sub-Directores Técnicos y Administrativo, por un representante de la Asociación de Maestros, por un representante de la Sociedad de Alumnos, por cuatro representantes Maestros por especialidades, por cuatro representantes alumnos por especialidades y por un representante del Personal Técnico, Administrativo y Manual, por cada propietario se elegirá un suplente.
+La Asamblea de Gobierno estará integrada por el Director de la Escuela Normal Superior de Nayarit, quien será su Presidente, por los Subdirectores Técnico y Administrativo, que fungirán como Secretarios, así como de dos Representantes de Maestros y Alumnos por cada Especialidad y Area correspondiente. Por cada propietario se elegirá su suplente.
 
 ###### ARTICULO 5o.
 
@@ -95,13 +99,11 @@ Los acuerdos de la Asamblea de Gobierno se tomarán por mayoría de votos.
 
 ###### ARTICULO 7o.
 
-La Autoridad Máxima de la Escuela Normal Superior de Nayarit, será la Asamblea de Gobierno y tendrá las siguientes atribuciones:
+La autoridad máxima de la Escuela Normal Superior de Nayarit, será la Asamblea de Gobierno y tendrá las siguientes atribuciones:
 
 I. Expedir las Normas Legales reglamentarias y disposiciones generales encaminadas a la mejor organización y funcionamiento académico, técnico y administrativo de la Escuela.
 
-II. Elaborar, modificar y aprobar los planes de estudios, programas, métodos y procedimientos de
-
-enseñanza .
+II. Elaborar, modificar y aprobar los planes de estudios, programas, métodos y procedimientos de enseñanza .
 
 > <small>(REFORMADA, P.O.22 DE MAYO DE 1976)</small>
 
@@ -113,13 +115,15 @@ V. Conocer y sancionar anualmente el Plan de Arbitrios y el presupuesto de egres
 
 VI. Resolver en última instancia, los problemas que afectan la vida y la buena marcha de la Institución, aplicar las sanciones por violación a está Ley.
 
-VII. Acordar estímulos y recompensas al Personal Docente, Técnico y Administrativo, así como a los Alumnos, que a su juicio lo merezcan, por su actividades académicas y extraescolares.xtraescolares.
+VII. Acordar estímulos y recompensas al Personal Docente, Técnico y Administrativo, así como a los Alumnos, que a su juicio lo merezcan, por su actividades académicas y extraescolares.
 
 ###### ARTICULO 8o.
 
 Para ser Director de la Escuela Normal Superior de Nayarit, se requiere:
 
-I. Poseer Título de Maestro que acredite estudios realizados en alguna Escuela Normal Superior Oficial o Facultad Universitaria;
+> <small>(REFORMADA, P.O.16 DE MAYO DE 1987)</small>
+
+I. Poseer Título de Maestro que acredite estudios realizados en alguna Escuela Normal Superior correspondiente al Sistema Oficial;
 
 II. Haber presentado un mínimo de tres años de servicios como Catedrático de la Escuela Normal Superior de Nayarit;
 
@@ -280,3 +284,7 @@ Lic. Héctor Velázquez Rodríguez.- Rúbrica.
 P.O. 22 DE MAYO DE 1976
 
 UNICO.- El presente Decreto entrará en vigor desde la fecha de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+P.O. 16 DE MAYO DE 1987.
+
+UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
