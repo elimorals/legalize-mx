@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-ley-de-catastro-inmobiliario-del-estado-de-273
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-12-02"
-last_updated: "1997-07-11"
+last_updated: "2000-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA LEY DEL CATASTRO INMOBILIARIO DEL ESTADO DE BAJA CALIFORNIA PARA EL MUNICIPIO DE TIJUANA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 2000.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 2 de diciembre de 1994.
 
@@ -49,7 +49,9 @@ I.- La Ley: la Ley de Catastro Inmobiliario del Estado de Baja California.
 
 II.- La Tesorería: la Tesorería Municipal.
 
-III.- La Dirección: la Dirección de Catastro.
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2000)</small>
+
+III.- La Dirección: La Dirección de Administración Urbana.
 
 IV.- El Titular: el titular de la dependencia municipal responsable del catastro.
 
@@ -64,6 +66,22 @@ VIII.- Área Urbanizada: son los suelos que habiendo sido rústicos o previament
 IX.- Perito Deslindador: profesional facultado para elaborar trabajos topográficos, con registro vigente ante la Dirección.
 
 X.- Perito Valuador Catastral: profesional facultado para elaborar trabajos de valuación, con registro vigente ante la Dirección.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE SEPTIEMBRE DE 2000)</small>
+
+XI.- Padrón: Es el registro oficial de peritos autorizados que lleva acabo la Dirección, que han cumplido con las especificaciones y condiciones que establece el presente Reglamento.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE SEPTIEMBRE DE 2000)</small>
+
+XII.- Levantamientos Topográficos: Es el procedimiento topográfico mediante el cual se localizan y fijan los linderos físicos de un predio.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE SEPTIEMBRE DE 2000)</small>
+
+XIII.- Deslinde Catastral: Es la acción de medir y señalar físicamente en el terreno, los límites jurídicos de un predio, partiendo de un origen establecido en los antecedentes de propiedad del mismo o en planos autorizados por la autoridad competente y que señale los linderos físicos existentes.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE SEPTIEMBRE DE 2000)</small>
+
+XIV.- Certificación de Polígonos Catastrales: Es la Constancia de los datos declarados que obran en los archivos de la dirección, que definen los linderos de un predio mayor de 5,000 m2.
 
 ###### ARTICULO 4.
 
@@ -365,15 +383,11 @@ El valor de la construcción será el producto de multiplicar el valor unitario 
 
 La Dirección podrá elaborar avalúos para los fines establecidos en la Ley, con personal adscrito, o a través de peritos valuadores con registro vigente en el padrón que al efecto lleve la Dirección.
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 49.
 
-Para ser perito valuador para los efectos de este reglamento, se requiere:
-
-a) Contar con registro vigente de la Comisión Nacional Bancaria con la especialidad de Inmuebles.
-
-b) Solicitar y obtener su inscripción al padrón correspondiente en la Dirección.
-
-c) Poseer Título Profesional, a nivel de licenciatura en profesión afín a la valuación inmobiliaria debidamente registrado en el Estado.
+Para ser perito valuador para los efectos de este Reglamento se requiere contar con el registro vigente de perito fiscal Municipal en la especialidad de inmuebles que se lleva en la Tesorería del Municipio de Tijuana.
 
 ### CAPITULO TERCERO. DE LOS SERVICIOS TOPOGRAFICOS
 
@@ -389,47 +403,189 @@ La Dirección realizará los trabajos que se requieran para la obtención y actu
 
 Los trabajos topográficos que desarrolle la Dirección deberán estar debidamente referidos al Sistema Estatal de Coordenadas.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 53.
 
-En materia de cartografía, la Dirección prestara al público en general, los siguientes servicios:
+En materia de cartografía, la Dirección prestará al publico en general, los siguientes servicios:
 
-I.- Deslinde predial de la propiedad publica o privada, consistente en la fijación en el campo de los vértices que definen la poligonal que delimita la descripción legal de la misma.
+I. Deslinde Catastral de la propiedad pública o privada.
 
-II.- levantamiento topográfico, consistente en la localización en campo de los linderos de un predio detectando diferencias con la definición legal.
+II. Levantamiento topográfico.
 
-III.- Constancia de datos cartográficos, consistente en un documento en que se establecen los datos cartográficos con que se encuentra registrado un predio.
+III. Constancia de datos cartográficos.
 
-IV.- Certificación de polígonos, consistente en la verificación de la veracidad de los datos declarados, que definen los linderos de un predio.
+IV. Certificación de polígonos catastrales.
 
-Los servicios y trabajos topográficos anteriormente enumerados deberán ser elaborados conforme a la NORMA TECNICA que realice la Dirección de Catastro Conjuntamente con los Colegios Relacionados en la Materia y; que deberá ser expedida y autorizada por la Sindicatura Municipal.
-
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 54.
 
-La Dirección elaborara los trabajos y servicios topográficos con su propio personal, o a través de peritos con registro vigente en el padrón que al efecto lleve la Dirección.
+La Dirección elaborará los trabajos y servicios topográficos con el personal adscrito, o a través de peritos con registro vigente en el padrón que al efecto lleve la Dirección, los cuales serán realizados bajo las siguientes bases:
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 1997)</small>
+I. Todo levantamiento topográfico, deslinde catastral, rectificación o aclaración de linderos de predios que pretenden realizarse dentro del territorio del Municipio de Tijuana, Baja California, será comunicado a la Dirección, la que procederá a indicar los puntos de referencia o vértices geodésicos establecidos por el sistema estatal de coordenadas a que deberán ligarse; o en su caso y a falta de esto, deberá ligarse a ejes, cordones, o por lo menos a dos puntos físicos de fácil identificación e inamovibles.
 
-### CAPITULO PRIMERO. DE LAS OBLIGACIONES DE LOS PARTICULARES
+II. Los equipos de medición topográficos y geodésicos que se utilicen para realizar los trabajos mencionados en el párrafo anterior,' deberán contar con certificado de calibración vigente.
+
+III. Cuando el predio o área objeto de operaciones catastrales colinde o que pueda ser afectado por la existencia de propiedad pública, zona federal marítima terrestre, por arroyos, ríos, esteros, lagunas, presas, canales, drenes,' acueductos, carreteras, autopistas o derecho de vía, líneas de transmisión de energía eléctrica, estaciones y subestaciones eléctricas ductos o planta de almacenamiento de petróleo o sus derivados, vías de ferrocarril, monumentos arqueológicos, históricos o artísticos, aeropuertos e inmuebles destinados por la Federación, Estado o Municipio a un servicio público, La Dirección proporcionará los límites oficiales establecidos por la autoridad competente, identificando los derechos de vía, zona federal, mojoneras y delimitación de predio.
+
+IV. La Dirección no podrá autorizar ni certificar, los planos o deslindes de predios o áreas cuando alguna autoridad judicial así lo determine.
+
+V. Dado el cúmulo de expedientes relativos a peritajes no concluidos, éstos se resguardarán en el archivo de la Dirección por el periodo de cuarenta y cinco días, transcurrido éste término se remitirán al archivo general del Ayuntamiento.
+
+Los planos y productos cartográficos resultantes de los deslindes catastrales y levantamientos topográficos, se presentarán en dos originales y una copia. La certificación de polígonos catastrales se presentan en dos originales, una copia y archivo digitalizado para su autorización y certificación, mediante solicitud o formato firmado por el propietario, poseedor o representante legal, debiendo contener los datos y características establecidas en el manual de procedimientos técnicos para levantamiento y deslindes que emita la Dirección.
+
+La autorización o certificación es' por parte de la Dirección, no debiendo excederse ésta de un plazo de 15 días naturales después de la última revisión.
+
+VI. Los levantamientos topográficos, deslindes y planos catastrales, estarán a cargo de profesionistas especializados en la materia, quiénes realizarán dicho trabajo en campo. En la eventualidad de que el perito no cumpla, la Dirección realizará el trabajo en deslindes y levantamientos menores de 5,000 metros cuadrados.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2000)</small>
+
+### CAPITULO CUARTO. DE LOS PERITOS DESLINDADORES
+
+> <small>(REFORMADO Y REUBICADO, P.O. 8 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 55.
 
-Para ser perito deslindador se requiere:
+Para realizar trabajos, servicios topográficos y deslindes para efectos catastrales, los interesados deberán obtener autorización de la Dirección como peritos deslindadores.
 
-a).- Ser Ingeniero Topógrafo en sus distintas ramas o de alguna carrera afín a la topografía.
-
-b).- Aprobar los exámenes de conocimientos a los que hace referencia la Norma Técnica correspondiente.
-
-c).- Cumplir con la Norma Técnica autorizada para tal fin.
+> <small>(REFORMADO Y REUBICADO, P.O. 8 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 56.
 
-A la notificación a que están obligados los propietarios o poseedores legítimos de inmuebles ubicados en el Municipio, cuando adquieren ese carácter, deberán anexar copia simple de la documentación que ampare su declaración, o en copia certificada de dicho documento cuando la Dirección así lo exija. La notificación se hará por escrito, mediante un comunicado que redacte el obligado, o utilizando las formas que al efecto implemente la Dirección, con la información siguiente:
+La Dirección llevará un padrón de peritos que cuenten con autorización para la realización de trabajos topográficos, servicios topográficos y deslindes para efectos catastrales.
 
-a) Nombre completo o razón social del propietario o poseedor. En el caso de mujeres casadas, el nombre de soltera y el de casada.
+> <small>(REFORMADO Y REUBICADO, P.O. 8 DE SEPTIEMBRE DE 2000)</small>
+
+###### ARTICULO 57.
+
+Para obtener la autorización, el registro y/o revalidación como perito deslindador deberá satisfacer los siguientes requisitos:
+
+I. Acreditar que posee Título Profesional a nivel licenciatura con cédula estatal.
+
+II. Acreditar como mínimo 3 años de experiencia en el ejercicio profesional de trabajos topográficos, de deslindes de predios, rectificación o aclaración de linderos.
+
+III. Acreditar mediante exámenes teóricos y prácticos, que posee conocimientos de la Ley de Desarrollo Urbano, Ley de Catastro Inmobiliario, Ley de Hacienda Municipal, así como del Reglamento de la Ley del Catastro Inmobiliario del Estado de Baja California para el Municipio de Tijuana, Normas Técnicas y manuales operativos emitidos por la autoridad conforme a las leyes y reglamentos relativos. En el caso de peritos autorizados, éstos deberán presentar examen de actualización cada tres años.
+
+IV. No haber sido condenado por sentencia ejecutoriada por delito intencional con motivo del ejercicio de su profesión.
+
+V. Acreditar su inscripción en el Registro Federal de Contribuyentes.
+
+VI. Realizar el pago de los derechos de inscripción o revalidación en el padrón de peritos deslindadores.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 8 DE SEPTIEMBRE DE 2000)</small>
+
+###### ARTICULO 58.
+
+La Dirección para expedir la autorización de peritos deslindadores y/o revalidación y ordenar su registro en el padrón tendrá las siguientes atribuciones:
+
+I. Verificar que los aspirantes a obtener el registro de peritos cumplan con los requisitos establecidos en este reglamento.
+
+II. Otorgar o revalidar de acuerdo a lo establecido en este reglamento el registro correspondiente.
+
+III. Llevar un registro de los trabajos topográficos, operaciones de deslindes catastrales o levantamientos topográficos y certificación de polígonos que realice cada perito autorizado.
+
+IV. Elaborar el calendario para la evaluación de los conocimientos a que se refiere el artículo 57, fracción III de este reglamento y emitir en un plazo no mayor de quince días naturales, después de la presentación de los exámenes, la lista de peritos resultante. La Dirección tendrá la facultad de otorgar o negar la autorización del registro o revalidación que corresponda, en el caso de negativa, ésta lo hará del conocimiento del interesado para que éste interponga el recurso a que se refiere la Ley Orgánica de la Administración Pública Municipal del Estado de Baja California y el Reglamento de Administración de Justicia para el Municipio de Tijuana, Baja California.
+
+V. Supervisar, cuando lo estime conveniente, la actuación de los peritos durante y después del proceso de ejecución de los trabajos que desarrollen.
+
+VI. Verificar que los trabajos de los peritos se realicen conforme a las especificaciones y normas técnicas contenidas en los manuales e instructivos catastrales, reservándose el derecho de ejercitar la facultad de comprobación de dichos trabajos cuando así lo estime conveniente.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 8 DE SEPTIEMBRE DE 2000)</small>
+
+###### ARTICULO 59.
+
+Los exámenes teóricos y prácticos a que se refieren los artículos 57, fracción III y 58, fracción IV, del presente reglamento se realizarán convocando a las agrupaciones e instituciones educativas relacionadas con la materia para integrar el jurado, éste tendrá el carácter de honorario y se integrará por un mínimo de tres y un máximo de cinco sinodales, el presidente siempre será el titular de la dirección o la persona que lo represente.
+
+El jurado deberá quedar integrado por lo menos quince días antes de la fecha fijada para la celebración del examen.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 8 DE SEPTIEMBRE DE 2000)</small>
+
+###### ARTICULO 60.
+
+Son obligaciones de los peritos deslindadores registrados:
+
+I. Dirigir, supervisar y llevar a cabo los trabajos topográficos que le sean encomendados, asegurándose de que se realicen conforme a las normas, manuales e instructivos catastrales.
+
+II. Suscribir los planos, memorias y documentos que resulten, con su nombre, domicilio fiscal, numero de cédula profesional estatal y número de registro en el padrón municipal de peritos.
+
+III. Elaborar y. entregar al propietario o poseedor y a la Dirección al término de cada trabajo, los planos y memorias técnicas que contengan la descripción detallada del inmueble de que se trate.
+
+IV. Desarrollar la operación catastral encomendada, observando las reglas establecidas en el artículo 26 de la Ley del catastro Inmobiliario del Estado de Baja California, y los procedimientos técnicos elaborados por esta Dirección. Responder de cualquier violación a las disposiciones de las leyes y reglamentos relativos a su trabajo y especialidad.
+
+V. Responder ante los particulares civilmente por el mal desempeño en su trabajo.
+
+VI. Revalidar su registro durante los meses de enero y febrero de cada año de acuerdo el (sic) procedimiento establecido en este reglamento y conforme al calendario que establezca la Dirección.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE SEPTIEMBRE DE 2000)</small>
+
+###### ARTICULO 61.
+
+Los peritos que incumplan con las obligaciones que establece el presente reglamento, independientemente de otro tipo de acciones que entablen los particulares por incumplimiento de sus obligaciones, se harán acreedores a las siguientes sanciones:
+
+1. Amonestación por escrito.
+
+2. Multa; que podrá oscilar entre diez a cincuenta salarios mínimos vigentes en la entidad de acuerdo a la gravedad de la falta.
+
+3. Suspensión temporal de la lista según la gravedad del caso.
+
+4. Cancelación del nombramiento como perito auxiliar de la Administración Pública Municipal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE SEPTIEMBRE DE 2000)</small>
+
+###### ARTICULO 62.
+
+Las sanciones anteriores se impondrán por la propia Dirección, quien deberá fundar y motivar las resoluciones respectivas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE SEPTIEMBRE DE 2000)</small>
+
+###### ARTICULO 63.
+
+Procede suspensión del nombramiento hasta por seis meses:
+
+a) Cuando un perito presente productos cartográficos ante la Dirección y éstos le sean devueltos por incumplimiento al artículo 26 de la Ley y 54 de este reglamento, y al manual de procedimientos técnicos para levantamientos topográficos y deslindes catastrales para el Municipio de Tijuana, hasta en tres ocasiones distintas en un periodo de 6 meses, siempre y cuando éstas le hayan sido previamente notificadas.
+
+Se considera incumplimiento a los articulas 26 de la Ley y 54 del Reglamento, el que la Dirección comunique al perito alguna omisión, falta de información o deficiencia técnica en los productos cartográficos presentados, y el perito no realice la corrección indicada en la segunda presentación del documento.
+
+b) En los casos en que la Dirección, previa consulta con el Consejo, así lo determinen.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE SEPTIEMBRE DE 2000)</small>
+
+###### ARTICULO 64.
+
+El nombramiento perito auxiliar deslindador podrá cancelarse por las siguientes causas:
+
+I. Cuando el perito haya obtenido su inscripción proporcionando datos falsos o documentos alterados, Se cancelara el registro, previa revocación de la autorización.
+
+II. Cuando personal a su cargo o el mismo sea sorprendido sustrayendo, alterando o destruyendo documentos contenidos en los expedientes catastrales.
+
+III. Cuando el perito incurra en dos suspensiones por lo indicado en párrafo primero del artículo anterior se cancelara su registro previa notificación.
+
+IV. Cuando por queja de un contribuyente debidamente documentada sobre la actuación de un perito por falta a la ética y la moral, previa presentación de los argumentos que considere pertinentes el perito relacionados con la queja en su contra, si la autoridad catastral comprueba la misma.
+
+V. Cuando el perito incurra reiteradamente en violaciones a la Ley del catastro inmobiliario y al Reglamento, que la Dirección considere graves.
+
+VI. Cuando exista resolución judicial en que se determine que el perito actúo indebidamente.
+
+VII. En los casos en que la Dirección, previa consulta con el Consejo, así lo determinen.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE SEPTIEMBRE DE 2000)</small>
+
+###### ARTICULO 65.
+
+La Dirección para imposición de las sanciones previstas en el artículo anterior, lo hará del conocimiento del interesado, para que de considerarlo y dentro del plazo que establece la Ley Orgánica de la Administración Pública Municipal del Estado de Baja California y el Reglamento para la Administración de .Justicia para el Municipio de Tijuana, Baja California, interponga el recurso correspondiente.
+
+## TITULO QUINTO. DE LAS OBLIGACIONES
+
+### CAPITULO PRIMERO. DE LAS OBLIGACIONES DE LOS PARTICULARES
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE SEPTIEMBRE DE 2000)</small>
+
+###### ARTICULO 66.
+
+A la notificación a que están obligados los propietarios o poseedores legítimos de inmuebles ubicados en el Municipio, cuando adquieren ese carácter; deberán anexar copia simple de la documentación que ampare su declaración o en copia certificada de dicho documento cuando la Dirección así lo exija. La notificación .se hará por escrito, mediante un comunicado que redacte el obligado, o utilizando las formas que al efecto implemente la Dirección, con la información siguiente:
+
+a) Nombre completa o razón social del propietario o poseedor. En el caso de mujeres casadas, el nombre de soltera y el de casada.
 
 b) Nombre completo de copropietarios.
 
@@ -441,31 +597,33 @@ e) Número Telefónico del interesado para información, opcional.
 
 f) Uso actual del inmueble.
 
-###### ARTICULO 57.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE SEPTIEMBRE DE 2000)</small>
 
-La notificación a que están obligados los propietarios o poseedores de bienes inmuebles, cuando realicen cualquier modificación a los elementos que caractericen al bien inmueble, se hará mediante un comunicado que redacte el obligado, o en los formatos que al efecto implemente la Dirección, anexando copia de la documentación que describa la modificación, e informando la clave catastral con que se encuentra registrado.
+###### ARTICULO 67.
 
-###### ARTICULO 58.
+La notificación a que están obligados los propietarios o poseedores de bienes inmuebles, cuando realicen cualquier modificación a los elementos que caractericen al bien inmueble, se hará mediante un' comunicado que redacte el obligado, o en los formatos que al efecto implemente la Dirección, anexando copia de la documentación que describa la modificación, e informando la clave catastral con que se 'encuentra registrado.
 
-El acta de trabajos topográficos que requieran los Notarios o funcionarios que actúen con fe pública en el otorgamiento de contratos o actos que transmitan el dominio de un bien inmueble, será la correspondiente a levantamiento topográfico o a certificación de polígono.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE SEPTIEMBRE DE 2000)</small>
 
-###### ARTICULO 59.
+###### ARTICULO 68.
 
-Las sanciones a que se refiere el artículo 54 en relación con el artículo 53 de la Ley, serán aplicadas por la Dirección de Catastro del Ayuntamiento de Tijuana.
-
-###### ARTICULO 60.
-
-Conocerá del recurso administrativo de revocación, la autoridad que emita el acto impugnado y se estará en lo adjetivo a los términos de los artículos 171, 172, 173 y 174 de la Ley Orgánica de la Administración Pública Municipal.
-
-T R A N S I T O R I O S
-
-## TITULO QUINTO. DE LAS OBLIGACIONES
+El acta de los trabajos topográficos que requieran los Notarios o funcionarios que actúen con fe pública en el otorgamiento de contratos o actos que transmitan el dominio de un bien inmueble, será la correspondiente a levantamientos topográficos, deslindes catastrales, certificación de polígonos o constancia de datos cartográficos.
 
 ### CAPITULO SEGUNDO. SANCIONES Y RECURSOS
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 1997)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE SEPTIEMBRE DE 2000)</small>
 
-ARTICULO 59 Las sanciones a que se refiere el artículo 54 de la Ley en relación con el artículo 53 de la misma serán aplicadas por la Dirección de Catastro Municipal sin perjuicio de las sanciones aplicables a las que se hicieran acreedores los peritos de acuerdo a lo establecido por la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+###### ARTICULO 69.
+
+Las sanciones a que se refiere el artículo 54 de la Ley en relación con el artículo 53 de la misma serán aplicadas por la Dirección sin perjuicio de las sanciones aplicables a las que se hicieran acreedores los peritos de acuerdo a lo establecido por la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE SEPTIEMBRE DE 2000)</small>
+
+###### ARTICULO 70.
+
+Conocerá del recurso administrativo de revocación, la autoridad que emita. El acto impugnado y se estará en lo adjetivo a los términos de los artículos 171, 172, 173 Y 174 dé la Ley Orgánica de la Administración Pública Municipal.
+
+T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
 
@@ -504,3 +662,11 @@ P.O. 11 DE JULIO DE 1997.
 PRIMERO.- Las presentes reformas, entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- La Norma Técnica deberá ser expedida en un término no mayor de 30 días naturales a partir de la publicación de las presentes reformas en el Periódico Oficial del Estado.
+
+P.O. 8 DE SEPTIEMBRE DE 2000.
+
+PRIMERO. El presente acuerdo entra en vigor al día siguiente de su publicación en el periódico Oficial del Estado y deberá publicarse en un periódico de mayor circulación en la localidad para conocimiento de la población.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a la presente reforma.
+
+TERCERO. Las personas que actualmente integran la lista de peritos deslindadores a que se refiere el artículo 57, deberán presentar examen de actualización de acuerdo al calendario que para el año 2001 establezca la Dirección de Administración Urbana.
