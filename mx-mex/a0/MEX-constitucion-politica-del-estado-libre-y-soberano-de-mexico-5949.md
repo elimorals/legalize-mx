@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1917-11-10"
+last_updated: "1921-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE OCTUBRE DE 1921.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -309,13 +309,17 @@ Los Diputados que no concurran a una sesión de la Legislatura sin permiso de el
 
 La Legislatura no podrá abrir sus sesiones ni ejercer su cometido, sin la concurrencia de más de la mitad del número total de sus miembros.
 
+> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 1921)</small>
+
 ###### Art. 54.
 
-El segundo período de sesiones ordinarias se destinará, de preferencia, a la discusión y aprobación de los Presupuestos de Ingresos y Egresos del Estado, que presente el Ejecutivo, así como de los proyectos de Presupuestos de Ingresos Municipales que formulen los Municipios y que remitan por conducto del mismo Ejecutivo.
+El primer período de sesiones ordinarias se destinará de preferencia, a la discusión y aprobación de los presupuestos de Ingresos y Egresos del Estado, que presente el Ejecutivo así como de los proyectos de presupuestos de Ingresos Municipales que formulen los Municipios y que remitan por conducto del mismo Ejecutivo.
+
+> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 1921)</small>
 
 ###### Art. 55.
 
-El primer período de sesiones se destinará, de preferencia, a la revisión y calificación de las cuentas de inversión de las rentas del Estado y de los Municipios, relativas al año anterior.
+El segundo período de sesiones se destinará de preferencia a la revisión y calificación de las cuentas de inversión de las rentas del Estado y de los Municipios, relativas al año anterior.
 
 ###### Art. 56.
 
@@ -651,9 +655,13 @@ III. Cuidar de que las elecciones constitucionales se hagan en el tiempo señala
 
 IV. Concurrir a la apertura de cada período de sesiones ordinarias y extraordinarias de la Legislatura, para informar en el primer caso, acerca del estado que guarda la administración pública, y en el segundo, acerca de los motivos en que se haya fundado la convocatoria a sesiones extraordinarias cuando él haya pedido la convocación. Si la convocatoria se ha hecho a iniciativa de la Comisión permanente, el Gobernador asistirá a la apertura de esas sesiones, para el solo efecto de hacer constar, que, por su parte, cumplió con el precepto Constitucional contenido en la fracción IX de este artículo;
 
-V. Presentar cada año a la Legislatura, en los primeros diez días del segundo período de sus sesiones ordinarias, los proyectos de Presupuesto de Ingresos y Egresos generales del Estado, que deberán regir en el año fiscal inmediato siguiente y en el primero, la cuenta de gastos del inmediato anterior;
+> <small>(REFORMADA, G.G. 26 DE OCTUBRE DE 1921)</small>
 
-VI. Presentar a la Legislatura, en los primeros diez días del segundo período de sus sesiones ordinarias, los proyectos de Presupuesto de Ingresos Municipales, que le remitan los Municipios y que deberán regir en el año fiscal próximo;
+V. Presentar cada año a la Legislatura en los primeros diez días del primer período de sus sesiones ordinarias, los proyectos de presupuestos de Ingresos y Egresos generales del Estado, que deberán regir en el año fiscal inmediato siguiente; y en el segundo, la cuenta de gastos del inmediato anterior, a más tardar el 31 de marzo.
+
+> <small>(REFORMADA, G.G. 26 DE OCTUBRE DE 1921)</small>
+
+VI. Presentar a la Legislatura en los primeros diez días del primer período de sus sesiones ordinarias, los proyectos de presupuestos de Ingresos Municipales, que le remitan los Municipios, y que deberán regir en el año fiscal próximo.
 
 VII. Presentar a la Legislatura, al terminar su período Constitucional, una memoria sobre el estado de los negocios públicos, expresando cuales sean las deficiencias que note en la administración y cuales las medidas que en su concepto deban aplicarse, para subsanarlas;
 
@@ -683,9 +691,13 @@ XIX. Nombrar el representante que le concierne en las juntas de Conciliación y 
 
 XX. Fomentar la organización de instituciones de utilidad social para infundir o inculcar la previsión popular;
 
-XXI. Asumir, por medio del Consejo General Universitario, la dirección técnica de todos los establecimientos oficiales de educación pública en el Estado, los que funcionarán con arreglo a las leyes respectivas;
+> <small>(REFORMADA, G.G. 26 DE OCTUBRE DE 1921)</small>
 
-XXII. Asumir, por medio del Consejo General Universitario, la dirección administrativa de los establecimientos de enseñanza que deban ser a cargo de los fondos generales del Estado;
+XXI.- Asumir por medio de la Dirección de Educación Pública que establece el artículo 223 de esta Constitución, la dirección técnica de todos los establecimientos oficiales de Educación Pública en el Estado, los que funcionarán con arreglo a las leyes respectivas.
+
+> <small>(REFORMADA, G.G. 26 DE OCTUBRE DE 1921)</small>
+
+XXII.- Asumir, por el mismo conducto, la Dirección Administrativa de los Establecimientos de Enseñanza que deben ser sostenidos por los fondos generales del Estado.
 
 XXIII. Asumir la representación política y civil del Municipio para los efectos de los artículos 12, 15 y 17 de esta Constitución;
 
@@ -979,21 +991,21 @@ III. Los ministros de cualquier culto.
 
 Los Ayuntamientos desempeñarán dos series de funciones: las de legislación para el régimen, gobierno y administración del Municipio, y las de inspección concernientes al cumplimiento de las disposiciones legislativas que dicten.
 
+> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 1921)</small>
+
 ###### Art. 143.
 
-Durante el mes de enero de cada año, el Ayuntamiento se erigirá en funciones legislativas, para los efectos siguientes:
+Durante los meses de enero y agosto de cada año, el Ayuntamiento se erigirá en funciones legislativas para los efectos siguientes:
 
-I. Para expedir la Ley Municipal que deberá contener todas las disposiciones que requieren el régimen, el gobierno y la administración del Municipio y que se llamará Bando de Policía y Buen Gobierno;
+I.- En el mes de enero, para expedir la Ley Municipal que deberá contener todas las disposiciones que requieren el régimen, el gobierno y la administración del Municipio y que se llamará BANDO DE POLICIA Y BUEN GOBIERNO, así como para formular las iniciativas de Ley que crea necesario dirigir a la H. Legislatura del Estado, para bien del Municipio.
 
-II. Para expedir la Ley Municipal del Presupuesto de Egresos que deberá regir en el año fiscal inmediato siguiente;
+II. En el mes de agosto, para expedir la Ley Municipal del Presupuesto de Egresos que deberá regir en el año fiscal inmediato, y para formular la iniciativa del Presupuesto de sus Ingresos que deberá remitir a la Legislatura del Estado.
 
-III. Para formular la iniciativa del Presupuesto de sus Ingresos que deberá remitir a la Legislatura del Estado;
-
-IV. Para formular todas las demás iniciativas de Ley que crea necesario dirigir a la Legislatura del Estado, para bien del Municipio.
+> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 1921)</small>
 
 ###### Art. 144.
 
-Terminado el período de sus funciones legislativas el Ayuntamiento entrará en sus funciones de inspección para cuidar de que se cumplan las disposiciones del Bando de Policía y Buen Gobierno, nombrando al efecto las Comisiones necesarias integradas por los miembros que lo constituyan.
+Terminado el primer período de sus funciones legislativas, el Ayuntamiento entrará en sus funciones de inspección para cuidar de que se cumplan las disposiciones del Bando de Policía y Buen Gobierno, nombrando al efecto las comisiones necesarias integradas por los miembros que lo constituyan.
 
 ###### Art. 145.
 
@@ -1153,9 +1165,11 @@ Los bienes raíces de beneficencia e instrucción pública que puedan conservan 
 
 ### CAPITULO PRIMERO. DE LA DIVISION GENERAL DE LAS CONTRIBUCIONES
 
+> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 1921)</small>
+
 ###### Art. 176.
 
-En el Estado las contribuciones se dividirán en las territoriales y relativas a servicios de carácter general que se dedicarán a las atenciones del Gobierno del mismo; y las de consumo y relativas a servicios de carácter local que se destinarán a las atenciones de los Municipios.
+En el Estado las contribuciones de dividirán en territoriales y relativas al servicio de carácter general, contando también los impuestos sobre ventas de artículos de consumo o de bienes muebles que se dedicarán a las atenciones del Gobierno del mismo y las relativas a servicios de carácter local, así como las provenientes de terrenos llamados de común repartimiento y las causadas por ventas al menudeo de bebidas embriagantes en expendios y pulquerías, que se destinarán a las atenciones de los Municipios.
 
 ###### Art. 124.
 
@@ -1191,9 +1205,11 @@ La Tesorería General estará a cargo de un Tesorero dependiente del Poder Ejecu
 
 Para la recaudación de las contribuciones y para el pago de los gastos, el Tesorero General deberá sujetarse estrictamente a las leyes de presupuestos y demás relativas.
 
+> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 1921)</small>
+
 ###### Art. 181.
 
-Entre los gastos a que se refiere el artículo anterior, se considerarán todos los relativos a la administración de justicia del Estado, inclusive la alimentación de los reos que estén a disposición de sus Tribunales.
+Entre los gastos a que se refiere el artículo anterior, se considerarán todos los relativos a la administración de justicia del Estado, inclusive la alimentación de los reos que estén a disposición de sus Tribunales, y los clasificados como "Gastos Generales del Distrito," que comprenden exclusivamente los servicios de cárcel y hospital de los mismos.
 
 ###### Art. 182.
 
@@ -1299,7 +1315,7 @@ De acuerdo con lo prevenido en los párrafos tercero y undécimo del artículo 2
 
 ###### Art. 204.
 
-Las fincas rústicas cuya extensión superficial exceda de los límites que marca el artículo anterior, con excepción de las comunidades a que se refiere la fracción VI del párrafo séptimo del artículo 27 de la Constitución Federal, pagarán en todo caso por el exceso referido, un impuesto de superficie, que no será menor de sesenta centavos anuales por hectárea, en despoblado, y de dos pesos por hectárea, dentro de un círculo de cuatro kilómetros de radio en torno del centro de la plaza principal de todo poblado de más de mil habitantes.
+(DEROGADO, G.G. 26 DE OCTUBRE DE 1921)
 
 ###### Art. 205.
 
@@ -1397,25 +1413,29 @@ DISPOSICIONES FUNDAMENTALES DEL ENJUICIAMIENTO CIVIL DEL ESTADO.
 
 ###### Art. 222.
 
-La educación pública en el Estado de México, se impartirá desde el año escolar de 1918, por medio del sistema universitario, que asegure, por una parte, la unidad de dicha educación desde las primeras letras hasta los más altos estudios, y por otra, la independencia del profesorado.
+La Educación Pública en el Estado de México, estará regida desde el primero de enero de mil novecientos vintidós (sic) por una "Dirección de Educación Pública."
+
+> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 1921)</small>
 
 ###### Art. 223.
 
-La educación pública impartida por el sistema universitario, será dirigida por un Consejo General Universitario, que será nombrado libremente por el Ejecutivo; los Consejeros durarán en su encargo cuatro años.
-
-El Presidente del Consejo será nombrado por elección de entre los miembros del mismo, se renovará cada año pudiendo ser reelecto por una sola vez y tendrá las funciones ejecutivas que la ley determine.
+La Dirección de Educación Pública estará a cargo de un Director, nombrando y removido libremente por el Ejecutivo, que será de preferencia profesor de Instrucción Superior titulado en el Estado y tendrá por atribuciones las que la ley respectiva le señale.
 
 ###### Art. 224.
 
 La educación popular estará a cargo del Estado y de los Municipios.
 
+> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 1921)</small>
+
 ###### Art. 225.
 
-La educación popular primaria obligatoria se divide en dos grados: rudimentario y elemental. El rudimentario estará a cargo de los fondos municipales, con el objeto de hacer efectiva la enseñanza rural, teniendo por base que en todo poblado donde haya más de veinticinco niños, deberá establecerse una escuela de ese grado, salvo lo dispuesto en la fracción XII del artículo 123 de la Constitución Federal. El grado elemental estará a cargo de los fondos generales del Estado.
+La educación popular primaria obligatoria, se divide en dos grados: rudimentaria y elemental, quedando ambos grados de enseñanza, a cargo de los fondos generales del Estado teniendo por base que en todo poblado donde haya más de veinticinco niños, deberá establecerse una Escuela de grado rudimentario, salvo lo dispuesto en la fracción XII del artículo 123 de la Constitución Federal.
+
+> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 1921)</small>
 
 ###### Art. 226.
 
-Corresponden al Consejo General Universitario la dirección técnica de todos los establecimientos oficiales de educación popular; tendrá además, la administración directa de todos los establecimientos que son a cargo de los fondos del Estado.
+Corresponde al Director de Educación Pública, la Dirección técnica de todos los Establecimientos educativos, oficiales y particulares, y tendrá además a su cargo la Administración directa de los planteles educacionales que son a cargo del Erario Público, sin perjuicio de lo prevenido en las fracciones XXI y XXII del artículo 89.
 
 ###### Art. 227.
 
@@ -1430,6 +1450,8 @@ La enseñanza primaria a que se refiere el artículo 225, es obligatoria para to
 La enseñanza Normal será protegida preferentemente por el Estado, como un medio de cumplir con la obligación ineludible que tienen tanto él como el Municipio, de impartir y difundir la enseñanza primaria obligatoria. Se establecerán escuelas "Prácticas Normales" a cargo de los Ayuntamientos. Una ley determinará la organización de dichas escuelas.
 
 ### CAPITULO PRIMERO. DE LA EDUCACION PUBLICA EN GENERAL
+
+> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 1921)</small>
 
 ###### Art. 230.
 
@@ -1512,6 +1534,32 @@ GRAL. AGUSTIN MILLAN.
 El Secretario General del Gobierno.
 
 Lic. ANDRES MOLINA ENRIQUEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 26 DE OCTUBRE DE 1921.
+
+DECRETO NUMERO 3, POR EL QUE SE REFORMAN LOS ARTICULOS 54 Y 55, ASI COMO LAS FRACCIONES V Y VI DEL 89 DE LA CONSTITUCION POLITICA DEL ESTADO, DE 8 DE NOVIEMBRE DE 1917.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+
+G.G. 26 DE OCTUBRE DE 1921.
+
+DECRETO NUMERO 4, POR EL QUE SE REFORMAN LOS ARTICULOS 89 FRACCIONES XXI Y XXII, 176, 222, 223, 225 Y 226 DE LA CONSTITUCION POLITICA DEL ESTADO.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+
+G.G. 26 DE OCTUBRE DE 1921.
+
+DECRETO NUMERO 5, POR EL QUE SE REFORMA EL ARTICULO 181 DE LA CONSTITUCION POLITICA DEL ESTADO.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+
+G.G. 26 DE OCTUBRE DE 1921.
+
+DECRETO NUMERO 6, POR EL QUE SE REFORMA EL ARTICULO 181 DE LA CONSTITUCION POLITICA DEL ESTADO.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
 
 ### CAPITULO TERCERO. BASES DE ORGANIZACIÓN DE LA HACIENDA PUBLICA DE LOS MUNICIPIOS
 
