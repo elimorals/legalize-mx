@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-85-2000-del-pleno-del-consejo-de-la-63448"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-12-05"
-last_updated: "2000-12-05"
+last_updated: "2001-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63448&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-11-24"
 
 ACUERDO GENERAL 85/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACION, FECHA DE INICIO DE FUNCIONAMIENTO Y JURISDICCION TERRITORIAL DEL QUINTO TRIBUNAL COLEGIADO DEL DECIMOSEXTO CIRCUITO, CON RESIDENCIA EN LEON, GUANAJUATO, ASI COMO A LAS REGLAS DE TURNO Y SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS DE LOS TRIBUNALES COLEGIADOS DEL MENCIONADO CIRCUITO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE FEBRERO DE 2001.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 5 de diciembre de 2000.
 
@@ -59,6 +59,8 @@ La jurisdicción territorial de los órganos jurisdiccionales citados en este pu
 
 QUINTO.- Desde la fecha señalada en el punto segundo precedente, la Oficialía de Partes Común de los Tribunales Colegiados del Decimosexto Circuito, con residencia en la ciudad de Guanajuato, lo será también del nuevo órgano jurisdiccional.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO NUMERO CCNO/1/2001 DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 2 DE FEBRERO DE 2001, SE PRORROGA POR EL LAPSO DE UN MES QUE COMPRENDE DEL 3 DE FEBRERO AL 2 DE MARZO DE 2001, EL PLAZO ESTABLECIDO EN EL PRESENTE PUNTO.</small>
+
 SEXTO.- Los nuevos asuntos que se presenten en la Oficialía de Partes Común del dos de enero al dos de febrero de dos mil uno, serán del conocimiento del Quinto Tribunal Colegiado del Decimosexto Circuito, con residencia en León, Guanajuato, con las salvedades que procedan del Acuerdo General 29/2000, del Pleno del Consejo de la Judicatura Federal y de las quejas a que se refiere la fracción XI del artículo 95 de la Ley de Amparo emanadas de los Juzgados con residencia en Celaya y en la capital del Estado. Concluido ese período, los nuevos asuntos se distribuirán entre los cinco Tribunales Colegiados del Decimosexto Circuito, con las salvedades antes señaladas.
 
 SEPTIMO.- Se modifica el Acuerdo General 16/1998, del Pleno del Consejo de la Judicatura Federal, de veinte de mayo de mil novecientos noventa y ocho, en el inciso 1, de su apartado XVI.- DECIMOSEXTO CIRCUITO, del punto SEGUNDO, para quedar como sigue:
@@ -90,3 +92,11 @@ PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 85/2000, relativo a la denominación, fecha de inicio de funcionamiento y jurisdicción territorial del Quinto Tribunal Colegiado del Decimosexto Circuito, con residencia en León, Guanajuato, así como a las reglas de turno y sistema de recepción y distribución de asuntos de los Tribunales Colegiados del mencionado Circuito, fue aprobado por el Pleno del Consejo de la Judicatura Federal, en sesión extraordinaria de veinticuatro de noviembre de dos mil, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, Enrique Sánchez Bringas, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a veinticuatro de noviembre de dos mil.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 2 DE FEBRERO DE 2001.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
