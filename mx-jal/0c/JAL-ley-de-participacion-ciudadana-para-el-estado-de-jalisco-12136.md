@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-participacion-ciudadana-para-el-estado-de-jalisco-12136"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-07"
-last_updated: "1998-03-07"
+last_updated: "1999-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12136&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PARTICIPACION CIUDADANA PARA EL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 1999.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de marzo de 1998.
 
@@ -95,9 +95,11 @@ Cuando la solicitud sea presentada por el titular del Poder Ejecutivo o el Congr
 
 ### CAPÍTULO II. DEL PLEBISCITO
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
+
 ###### Artículo 9.
 
-El Congreso del Estado, con la aprobación de cuando menos las dos terceras partes de sus integrantes, podrán solicitar al Consejo Electoral someta a plebiscito o decisiones del Gobernador, considerados como trascendentales para el orden público o el interés social del Estado, con excepción del nombramiento o destitución de los titulares de secretarías o dependencias del Ejecutivo.
+El Congreso del Estado, con la aprobación de cuando menos las dos terceras partes de sus integrantes, podrán solicitar al Consejo Electoral del estado someta a plebiscito las decisiones o actos del Gobernador, durante los treinta días anteriores o posteriores a su inicio, considerados como trascendentales para el orden público o el interés social del estado, con excepción del nombramiento de los titulares de las secretarías o dependencias del ejecutivo.
 
 ###### Artículo 10.
 
@@ -213,9 +215,9 @@ IV. Cuando el acto objeto del procedimiento de plebiscito se haya consumado y no
 
 V. Cuando el acto no se ha realizado o no se pretenda realizar por las autoridades señaladas en el escrito de solicitud;
 
-VI. Cuando la exposición de motivos sea frívola, no contenga una relación directa causa-efecto entre los motivos expuestos y el acto administrativo o que sea inverosímil o subjetiva;
+VI. Cuando la exposición de motivos sea frívola, no contenga una relación directa causa-efecto entre los motivos expuestos y el acto administrativo o que sea inverosímil o subjetiva.
 
-VII. Cuando el escrito de solicitud sea insultante o atente contra la dignidad de las instituciones jurídicas o sea ilegible;
+VII. Cuando el escrito de solicitud sea insultante o atente contra la dignidad de las instituciones jurídicas o sea ilegible.
 
 VIII. Cuando la solicitud respectiva no cumpla con todas las formalidades que se establecen en el presente ordenamiento.
 
@@ -223,7 +225,7 @@ VIII. Cuando la solicitud respectiva no cumpla con todas las formalidades que se
 
 Son causas de improcedencia de la solicitud del procedimiento de referéndum:
 
-I. Que la ley materia del referéndum, no esté contemplada en el artículo 3, del presente ordenamiento;
+I. Que la ley materia del referéndum, no esté contemplada en el artículo 3, del presente ordenamiento.
 
 II. Cuando el escrito de solicitud se haya presentado en forma extemporánea;
 
@@ -233,11 +235,11 @@ IV. Que la ley, el reglamento o el decreto objeto del procedimiento de referénd
 
 V. Que la ley, el reglamento o el decreto no exista o las autoridades señaladas en el escrito de solicitud no lo hayan emitido;
 
-VI. Que la exposición de motivos sea frívola, no contenga una relación directa causa-efecto entre los motivos expuestos y la ley, el reglamento o el decreto o que sea inverosímil o subjetiva;
+VI. Que la exposición de motivos sea frívola, no contenga una relación directa causa-efecto entre los motivos expuestos y la ley, el reglamento o el decreto o que sea inverosímil o subjetiva.
 
-VII. Que el escrito de solicitud sea insultante, atente contra la dignidad de las instituciones jurídicas o sea ilegible;
+VII. Que el escrito de solicitud sea insultante, atente contra la dignidad de las instituciones jurídicas o sea ilegible.
 
-VIII. Que la solicitud respectiva no cumpla con todas las formalidades que se establecen en el presente ordenamiento.
+VIII. Que la solicitud respectiva no cumpla con todas las formalidades que se establecen en el presente ordenamiento;
 
 ###### Artículo 23.
 
@@ -267,7 +269,7 @@ IX. El número de electores que tiene derecho a participar, así como el porcent
 
 X. Normatividad y bases a las que se ajusta la consulta;
 
-XI. Consecuencias de los resultados que arrojaría la consulta;
+XI. Consecuencias de los resultados que arrojaría la consulta.
 
 XII. Las demás disposiciones reglamentarias del procedimiento respectivo y particular que consideren pertinentes.
 
@@ -295,7 +297,7 @@ Las mesas directivas se integrarán de conformidad a lo que establece la Ley Ele
 
 ###### Artículo 29.
 
-El Consejo Electoral, de conformidad con las necesidades particulares y específicas de cada procedimiento, decidirá el número y ubicación de las casillas electorales, debiendo establecerse cuando menos una casilla por cada cinco secciones electorales contenidas en el área territorial donde se aplicará el procedimiento.
+El Consejo Electoral, de conformidad con las necesidades particulares y específicas de cada procedimiento, decidirá el numero y ubicación de las casillas electorales, debiendo establecerse cuando menos una casilla por cada cinco secciones electorales contenidas en el área territorial donde se aplicará el procedimiento.
 
 ###### Artículo 30.
 
@@ -457,9 +459,15 @@ El Congreso del Estado podrá desechar de plano toda Iniciativa Popular que no s
 
 ### CAPÍTULO III. DE LOS REQUISITOS DE LA INICIATIVA POPULAR
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
+
 ###### Artículo 55.
 
-La Iniciativa Popular deberá dirigirse al H. Congreso del Estado y se Presentará en la Oficialía de Partes del Poder Legislativo debiendo contener como requisitos indispensables:
+El proyecto de iniciativa popular, deberá ser registrado ante el Consejo Electoral y se pondrá a disposición de cualquier ciudadano que lo solicite, se publicará en el Periódico Oficial "El Estado de Jalisco" dentro de los quince días siguientes a que el Consejo emita el acuerdo, de manera fundada y motivada, de la procedencia o improcedencia de la solicitud, y en por lo menos uno de los diarios de mayor circulación estatal para que los ciudadanos tengan conocimiento pleno de la misma y puedan decidir con certeza de convencimiento, si apoyan o no dicho proyecto.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
+
+Dicha iniciativa deberá dirigirse al H. Congreso del Estado, en hojas foliadas y selladas por el Consejo Electoral y se presentará en la Oficialía de partes del Poder Legislativo debiendo contener como requisitos indispensables:
 
 I. El nombre, firma, número de folio de la credencial de elector, clave de elector y sección de los electores solicitantes de quienes la suscriben, debiendo ser estos al menos el 0.5% del total de los ciudadanos inscritos en el Registro Nacional de Ciudadanos correspondiente al Estado de Jalisco;
 
@@ -473,9 +481,11 @@ V. Proyecto en el que se especifique claramente el texto sugerido para reformar 
 
 VI. Los artículos transitorios que deba contener la Iniciativa Popular.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
+
 ###### Artículo 56.
 
-Para toda Iniciativa Popular deberán observarse las reglas de interés general y no debe afectarse el orden público, evitando las injurias y términos que denigren a la sociedad o a un sector de ella, de lo contrario, quienes suscriban la Iniciativa Popular se harán acreedores, por conducto de su representante, a una multa desde 250 hasta 500 días de salario mínimo general vigente en la zona, mismos que depositarán en la Oficialía Mayor del Congreso del Estado y este lo destinará a una Institución de Beneficencia Pública.
+Para toda iniciativa popular deberán observarse las reglas de interés general y no debe afectarse el orden público, evitando las injurias y términos que denigren, a la autoridad, a la sociedad o a un sector de ella, de lo contrario se tendrá por no interpuesta.
 
 ###### Artículo 57.
 
@@ -485,9 +495,11 @@ La falta de cualquiera de los requisitos a que se refiere este capítulo, es mot
 
 Una vez recibida la Iniciativa Popular, el pleno del Congreso del Estado la turnará a la Comisión que corresponda de acuerdo con la materia de que se trate.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
+
 ###### Artículo 59.
 
-El Congreso del Estado tiene un plazo de dos meses a partir del día en que fue turnada a la comisión competente para emitir el dictamen respectivo, siendo este término improrrogable.
+El Congreso del estado tiene un plazo de dos meses para aprobar o rechazar la iniciativa a partir del día en que fue recibida por las comisiones, siendo éste término improrrogable.
 
 ## TITULO QUINTO. DE LOS RECURSOS
 
@@ -526,3 +538,9 @@ Ing. Alberto Cárdenas Jiménez
 El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE SEPTIEMBRE DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
