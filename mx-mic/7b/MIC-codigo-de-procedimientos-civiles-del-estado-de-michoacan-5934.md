@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-civiles-del-estado-de-michoacan-5934"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1998-12-10"
+last_updated: "1998-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1998.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el 30 de julio de 1936.
 
@@ -4655,7 +4655,9 @@ XI. La acción para declarar extinguidas las obligaciones, por pago, prescripci�
 
 XII. Las acciones relativas a servidumbres legales o que consten en instrumentos públicos;
 
-XIII. La constitución de hipoteca necesaria;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1998)</small>
+
+XIII. Las acciones que se basen en un título hipotecario;
 
 XIV. La pérdida de la patria potestad, y
 
@@ -5139,9 +5141,115 @@ Si procediere la acción de interdicto para retener o recobrar la posesión, la 
 
 El vencido en interdicto para retener o recobrar la posesión podrá después usar del juicio plenario de posesión o del juicio de propiedad. El vencido en cualquiera de estos juicios no puede usar del interdicto respecto de la misma cosa.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 1998)</small>
 
-### CAPITULO I. De la revocación
+### CAPITULO V. Del juicio sumario hipotecario
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+
+Artículo 686 (a). Para que el juicio que tenga por objeto el pago o la prelación de un crédito hipotecario se siga según las reglas del presente Capítulo, es requisito indispensable que el crédito conste en escritura pública o escrito privado según corresponda en los términos de la legislación común, y registrado en el Registro Público de la Propiedad y que sea de plazo cumplido, o que éste sea exigible en los términos pactados o bien conforme a las disposiciones legales aplicables.
+
+También procederá el juicio hipotecario sin necesidad de que el contrato esté inscrito en el Registro Público de la Propiedad, cuando.
+
+I. El juicio se entable entre quienes contrataron la hipoteca;
+
+II. El bien se encuentre inscrito en favor del demandado; y,
+
+III. No exista embargo o gravamen en favor de tercero, inscrito cuando menos treinta días anteriores al de la presentación de la demanda.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+
+Artículo 686 (b). Presentado el escrito de demanda, acompañado del instrumento respectivo, el juez, si se encuentra que se reúnen los requisitos fijados por el artículo anterior, en un plazo no mayor de tres días, admitirá la misma y mandará anotar la demanda en el Registro Público de la Propiedad y que se emplace corriendo traslado con las copias simples de ésta al deudor, para que dentro del término de tres días ocurra a contestarla y a oponer las excepciones que tuviere, mismas que en ningún caso suspenderán el procedimiento.
+
+Tratándose de las excepciones de pago, compensación, remisión o quita, oferta de no cobrar o espera, novación de contrato, litispendencia, conexidad y cosa juzgada, sólo se admitirán cuando se funden en prueba documental.
+
+El juez bajo su más estricta responsabilidad revisará escrupulosamente la contestación de la demanda y desechará de plano las excepciones en que sea necesario exhibir documento y el mismo no se acompañe. Sin embargo, si el demandado manifiesta que dichos documentos no se encuentran en su poder, podrá presentarlos dentro del término de quince días que establece el artículo 631 de este Código.
+
+La reconvención sólo será procedente cuando se funde en el mismo documento base de la acción o se refiera a su nulidad. En cualquier otro caso se desechará de plano.
+
+Si hubiere reconvención se correrá traslado de ésta a la actora principal para que la conteste dentro de los tres días siguientes, y en el proveído le dará vista, en su caso, con las excepciones opuestas para que manifieste lo que a su derecho corresponda.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+
+Artículo 686 (c). Tanto en la demanda como en la contestación a la misma, y en su caso, en la reconvención y en la contestación a ésta, las partes tienen la obligación de ser precisas, indicando en los hechos si sucedieron ante testigos, citando los nombres y apellidos de éstos y presentando todos los documentos relacionados con tales hechos. En los mismos escritos las partes deben ofrecer todas sus pruebas, relacionándolas con los hechos que se pretendan probar. El juez resolverá sobre la admisión y desechamiento de pruebas, según proceda, en el auto que recaiga de las promociones en que se ofrezcan. En el caso de que las pruebas ofrecidas sean contra la moral y el derecho, sobre hechos que no han sido controvertidos por las partes, sobre hechos imposibles o notoriamente inverosímiles, o no se hayan relacionado con los mismos, el juez las desechará. Las pruebas que se admitan se desahogarán dentro del término de prueba de quince días improrrogable, contado a partir de que el juicio se abra a prueba.
+
+En caso de allanamiento total de la demanda, si el deudor no hace valer defensas ni opone excepciones o las opone en forma distinta a lo señalado en este Capítulo o fuera del término concedido para ello, se pronunciará la sentencia definitiva dentro del término señalado en el artículo 633 de este Código.
+
+Con el escrito de contestación a la demanda y no encontrándose en ninguno de los supuestos del párrafo que antecede, se dará vista al actor, para que dentro del término de tres días, manifieste lo que a su derecho convenga.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+
+Artículo 686 (d). Si en el documento base de la acción hipotecaria, se advierte que hay otros acreedores hipotecarios anteriores, el juez mandará notificarles la existencia del juicio para que manifiesten lo que a su derecho corresponda.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+
+Artículo 686 (e). La demanda se anotará en el Registro Público de la Propiedad, a cuyo efecto el actor exhibirá un tanto más de dicha demanda, documentos base de la acción y en su caso, de aquellos con que justifique su representación, para que previo cotejo con sus originales se certifiquen por el secretario, haciendo constar que se expiden para efectos de que la parte interesada inscriba su demanda, a quien se le entregarán para tal fin, debiendo hacer las gestiones en el Registro.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+
+Artículo 686 (f). Si el inmueble hipotecado no se haya en el lugar del juicio, se deberá girar exhorto al juez de la ubicación, para que ordene el registro de la demanda como se previene en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+
+Artículo 686 (g). Anotada la demanda en el Registro Público de la Propiedad, no podrá verificarse en el inmueble hipotecado ningún embargo, toma de posesión, diligencia precautoria o cualquier otra que entorpezca el curso del juicio, sino en virtud de sentencia ejecutoriada relativa al mismo inmueble, debidamente registrada y anterior en fecha a la inscripción de la referida demanda o en razón de providencia precautoria solicitada ante el juez por acreedor con mejor derecho, en fecha anterior a la de inscripción de la demanda.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+
+Artículo 686 (h). En la diligencia de emplazamiento se le requerirá al deudor para que manifieste si acepta o no la responsabilidad de depositario, y de aceptarla, contraerá la obligación de depositario judicial respecto del inmueble hipotecado, de sus frutos y de todos los objetos que con arreglo al contrato y conforme al Código Civil, deban, considerarse como inmovilizados y formando parte del inmueble, de los cuales se formará inventario para agregarlo a los autos.
+
+Para efecto del inventario, el deudor queda obligado a dar todas las facilidades para su formación y en caso de desobediencia, el juez lo compelerá por los medios de apremio que le autoriza la ley.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+
+Artículo 686 (i). Si la diligencia que se señala en el artículo anterior no se atendiere directamente con el deudor, éste deberá dentro de los tres días siguientes manifestar si acepta o no la responsabilidad de depositario, entendiéndose que no la acepta si no hace esta manifestación. En caso de que el demandado no acepte la responsabilidad de depositario, el actor podrá pedir que se le entregue la tenencia material del inmueble hipotecado, en los términos que se establecen en el siguiente párrafo.
+
+El deudor que no haya aceptado la responsabilidad de depositario deberá dentro del término de treinta días entregar desde luego la tenencia material del inmueble al actor, para tal efecto, y en su caso, el juez deberá aplicar las medidas de apremio que señala la ley.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+
+Artículo 686 (j). La preparación de las pruebas quedará a cargo de las partes, por lo que deberán presentar a los testigos, peritos y demás pruebas que les hayan sido admitidas y solo en caso de que existan periciales contradictorias de ambas partes, el juez en auxilio de las mismas, nombrará a un perito tercero en discordia. Las pruebas salvo la del perito tercero en discordia se desahogarán dentro del término de prueba que señala el artículo 686 (c).
+
+Si llamado un testigo, perito o solicitado un documento, que hayan sido admitidos como prueba y no se desahogaren a mas tardar en el término que señala el artículo 686 (c), se declararán desiertas por causa imputable al oferente.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+
+Artículo 686 (k). Si el demandado confesare las pretensiones del actor, el juez le concederá un término de gracia de treinta días al resolver en definitiva el asunto, para desocupar la vivienda y lo eximirá del pago de gastos y costas que se hubiesen originado.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+
+Artículo 686 (l). Concluido el término de prueba, el juez pondrá los autos a la vista de las partes por el término de tres días comunes, para que aleguen lo que a su derecho corresponda. Concluido dicho termino, se citará para sentencia la que se pronunciará en un término de cinco días.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+
+Artículo 686 (m). Para el remate, se tendrá como precio del bien hipotecado, el que señale el avalúo que presente la persona que las partes hayan convenido para tal efecto en el momento de la constitución de la hipoteca; o, en su caso, de no haberse acordado, se procederá de la forma siguiente:
+
+I. Cada parte tendrá derecho de exhibir, dentro de los cinco días siguientes a que sea ejecutable la sentencia, avalúo de la finca hipotecada, practicado por un corredor público, una institución de crédito o por perito valuador oficial, los cuales en ningún caso podrán tener el carácter de parte o de interesada en el juicio;
+
+II. En el caso de que alguna de las partes deje de exhibir el avalúo dentro del plazo señalado en la fracción I de este artículo, se entenderá su conformidad con el avalúo que haya exhibido su contraria;
+
+III. En el supuesto de que ninguna de las partes exhiba el avalúo dentro del plazo señalado en la fracción I de este artículo, cualquiera de ellas lo podrá presentar posteriormente, considerándose como base para el remate el primero en tiempo;
+
+IV. Si las dos partes exhibieren los avalúos en el plazo a que se refiere la fracción I de este artículo y los valores determinados de cada uno de ellos no coincidieren, se tomará como base para el remate el promedio de ambos avalúos siempre y cuando no exista un veintiocho por ciento de diferencia entre el más bajo y el más alto; en cuyo caso el juez ordenará se practique nuevo avalúo por el corredor público o la institución bancaria que al efecto señale;
+
+V. La vigencia del valor que se obtenga por avalúos será de seis meses, para que se lleve a cabo la primera almoneda de remate. Si entre ésta y las subsecuentes mediara un término mayor de seis meses se deberán actualizar los valores;
+
+VI. Obtenido el valor del avalúo, según el caso que corresponda de acuerdo a las fracciones anteriores, se procederá a rematar el inmueble en los términos del Título Décimo Primero Capítulo II de este Código; y,
+
+VII. La resolución que recaiga al remate solo podrá ser apelable en sentido devolutivo.
+
+En caso de existir un recurso de apelación pendiente de resolución, el acto de remate sólo podrá llevarse a cabo si la parte apelada garantiza mediante billete de depósito o fianza los posibles daños y perjuicios que pudiere causar a su contraria, para tal efecto, el juez deberá fijar previo al auto de remate el monto de la garantía, considerando para ello el valor del inmueble a rematar.
+
+La garantía se devolverá a quien la haya otorgado, quince días hábiles después de confirmada la sentencia o cuando las modificaciones hechas no afecten el fondo del negocio, en caso contrario se mandará hacer efectiva la garantía en favor del demandado.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+
+Artículo 686 (n). En el caso de la adjudicación prevista en el segundo párrafo del artículo 2742 del Código Civil del Estado, se deberá solicitar avalúo del bien para fijar el precio que corresponda a la cosa en el momento de exigirse el pago, debiéndose aplicar en lo conducente lo señalado en el artículo 686 (m) de este Código. La venta se hará de la manera que se hubiere convenido, y a falta de convenio, por medio de corredores. El deudor puede oponerse a la adjudicación alegando las excepciones que tuviere, y esta oposición se substanciará incidentalmente.
+
+También pueden oponerse a la venta los acreedores hipotecarios posteriores, alegando prescripción de la acción hipotecaria.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+
+Artículo 686 (ñ). Las resoluciones que se dicten en esta vía sumaria hipotecaria, podrán ser apeladas solo en efecto devolutivo, y en ningún caso podrá suspenderse el procedimiento.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -5149,7 +5257,7 @@ El vencido en interdicto para retener o recobrar la posesión podrá después us
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO II. De la apelación
+### CAPITULO I. De la revocación
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -5195,7 +5303,7 @@ La interposición del recurso suspende los efectos del auto recurrido.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO III. De la queja
+### CAPITULO II. De la apelación
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -5423,7 +5531,7 @@ La revisión de las sentencias recaídas en los juicios sobre rectificación de 
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO UNICO
+### CAPITULO III. De la queja
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -5475,7 +5583,7 @@ El recurso de queja contra los jueces sólo procede en las causas apelables, a n
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1981)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
 ###### Artículo 735.
 
@@ -5543,9 +5651,9 @@ En ningún caso la sentencia pronunciada en el juicio de responsabilidad civil a
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO I. De la ejecución de las sentencias dictadas por las salas del tribunal y por los jueces del Estado
+### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1981)</small>
 
 ###### Artículo 744.
 
@@ -5609,7 +5717,7 @@ La declaración de caducidad en primera instancia no procederá en los juicios u
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO II. De la ejecución de las sentencias y resoluciones dictadas por los jueces de los otros Estados de la Federación, del Distrito Federal y Territorios
+### CAPITULO I. De la ejecución de las sentencias dictadas por las salas del tribunal y por los jueces del Estado
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -5815,7 +5923,7 @@ Presentado el proyecto de partición, quedará en la secretaría a la vista de l
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO III. De la ejecución de las sentencias y demás resoluciones dictadas por tribunales extranjeros
+### CAPITULO II. De la ejecución de las sentencias y resoluciones dictadas por los jueces de los otros Estados de la Federación, del Distrito Federal y Territorios
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -5849,7 +5957,7 @@ El juez que reciba despacho u orden de su superior para ejecutar cualquiera dili
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO I. Del secuestro judicial
+### CAPITULO III. De la ejecución de las sentencias y demás resoluciones dictadas por tribunales extranjeros
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -5947,7 +6055,7 @@ Del secuestro y de los remates
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO II. De los remates
+### CAPITULO I. Del secuestro judicial
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -6341,7 +6449,7 @@ Lo dispuesto en este capítulo es aplicable a todos los casos de secuestro judic
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO I. De los incidentes en general
+### CAPITULO II. De los remates
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -6645,7 +6753,7 @@ De los incidentes
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO II. De los incidentes obstativos
+### CAPITULO I. De los incidentes en general
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -6769,7 +6877,7 @@ Si el incidente se promoviere en segunda instancia, no tendrá recurso alguno la
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO III. De la acumulación de autos
+### CAPITULO II. De los incidentes obstativos
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -6833,7 +6941,7 @@ Las disposiciones de este capítulo son aplicables a todos los casos de embargo,
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO I. De las tercerías coadyuvantes
+### CAPITULO III. De la acumulación de autos
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -6971,7 +7079,7 @@ De las tercerías
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO II. De las tercerías excluyentes
+### CAPITULO I. De las tercerías coadyuvantes
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -7031,7 +7139,7 @@ Si la tercería coadyuvante se interpone ante un juez municipal y el interés de
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO UNICO
+### CAPITULO II. De las tercerías excluyentes
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -7113,7 +7221,7 @@ Del juicio arbitral
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO I. Reglas generales
+### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -7357,7 +7465,7 @@ De los concursos
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO II. De la rectificación y graduación de créditos
+### CAPITULO I. Reglas generales
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -7425,7 +7533,7 @@ Son apelables en el efecto devolutivo los autos dictados durante la tramitación
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO III. De la administración del concurso
+### CAPITULO II. De la rectificación y graduación de créditos
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -7545,7 +7653,7 @@ Cuando al hacerse una cesión de bienes sólo hubiera acreedores hipotecarios, s
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO IV. Reglas comunes al deudor
+### CAPITULO III. De la administración del concurso
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -7601,9 +7709,9 @@ Será removido mediante los trámites establecidos para los incidentes, por mal 
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO IV. Reglas comunes al deudor
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 1950)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
 ###### Artículo 1020.
 
@@ -7629,9 +7737,9 @@ De los juicios de sucesión
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO II. De las testamentarías
+### CAPITULO I. Disposiciones generales
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 1950)</small>
 
 ###### Artículo 1022.
 
@@ -7905,7 +8013,7 @@ Los autos de sobreseimiento que se dicten en los casos de los dos artículos ant
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO III. De los intestados
+### CAPITULO II. De las testamentarías
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -7963,7 +8071,7 @@ Serán respetadas las reglas que los testadores hayan establecidos para el inven
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO IV. Del inventario y avalúo
+### CAPITULO III. De los intestados
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -8011,7 +8119,7 @@ La declaración de herederos de un intestado surte el efecto de tener por legít
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO V. De la administración
+### CAPITULO IV. Del inventario y avalúo
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -8187,7 +8295,7 @@ El avalúo de los bienes servirá de base para fijar definitivamente la competen
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO VI. De la rendición de cuentas
+### CAPITULO V. De la administración
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -8327,7 +8435,7 @@ Concluídos y aprobados el inventario y avalúo de los bienes, el albacea proced
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO VII. De la liquidación y partición de la herencia
+### CAPITULO VI. De la rendición de cuentas
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -8379,7 +8487,7 @@ Pasado ese término, se citará a las partes a una audiencia que celebrará dent
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO VIII. De la transmisión hereditaria del patrimonio familiar
+### CAPITULO VII. De la liquidación y partición de la herencia
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -8667,7 +8775,7 @@ La sentencia que apruebe o repruebe la partición es apelable en ambos efectos, 
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO IX. De la tramitación por Notarios
+### CAPITULO VIII. De la transmisión hereditaria del patrimonio familiar
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -8689,7 +8797,7 @@ V. El acta o actas en que consten las adjudicaciones pueden servir de título a 
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO X. Del testamento público cerrado
+### CAPITULO IX. De la tramitación por Notarios
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -8709,7 +8817,7 @@ V. En caso de oposición de algún aspirante a la herencia, o de algún acreedor
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO XI. Declaración de ser formal el testamento ológrafo
+### CAPITULO X. Del testamento público cerrado
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -8737,7 +8845,7 @@ Si se presentaren dos o más testamentos cerrados, ya sean de una misma fecha, o
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO XII. Declaración de ser formal el testamento privado
+### CAPITULO XI. Declaración de ser formal el testamento ológrafo
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -8759,7 +8867,7 @@ Si para la debida identificación fuere necesario reconocer la firma por no exis
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO XIII. Del testamento militar
+### CAPITULO XII. Declaración de ser formal el testamento privado
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -8821,7 +8929,7 @@ La protocolización del testamento privado se hará en los términos del artícu
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO XIV. Del testamento marítimo
+### CAPITULO XIII. Del testamento militar
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -8839,7 +8947,7 @@ En lo demás, se observará lo dispuesto en el capítulo que antecede.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO XV. Del testamento hecho en país extranjero
+### CAPITULO XIV. Del testamento marítimo
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -8861,7 +8969,7 @@ Para el examen de los testigos que hayan autorizado el testamento, siempre que n
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO XV. Del testamento hecho en país extranjero
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -8889,7 +8997,7 @@ De la jurisdicción voluntaria
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO II. Del nombramiento de tutores y curadores y discernimiento de estos cargos
+### CAPITULO I. Disposiciones generales
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -8979,7 +9087,7 @@ Cuando los herederos o el juez hagan uso de la facultad que les conceden los art
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO III. De la emancipación
+### CAPITULO II. Del nombramiento de tutores y curadores y discernimiento de estos cargos
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -9369,7 +9477,7 @@ Los tutores o curadores no pueden ser removidos de plano, aun cuando sea a solic
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO IV. De los procedimientos judiciales para suplir el consentimiento de los ascendientes o tutores para contraer matrimonio
+### CAPITULO III. De la emancipación
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -9399,7 +9507,7 @@ Las actas en que conste la emancipación, se remitirán en copia certificada al 
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO V. De las habilitaciones para comparecer en juicio
+### CAPITULO IV. De los procedimientos judiciales para suplir el consentimiento de los ascendientes o tutores para contraer matrimonio
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -9457,7 +9565,7 @@ En la substanciación de las diligencias de que trata este capítulo, se oirá p
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO VI. Del depósito de las personas
+### CAPITULO V. De las habilitaciones para comparecer en juicio
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -9521,7 +9629,7 @@ Si el padre compareciere después de concedida la habilitación, oponiéndose a 
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO VII. De los alimentos provisionales
+### CAPITULO VI. Del depósito de las personas
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -9651,7 +9759,7 @@ Cuando por encargo de la autoridad política, proceda el juez al depósito, se t
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO VIII. De la venta de bienes de menores, incapacitados y ausentes, y transacción sobre sus derechos
+### CAPITULO VII. De los alimentos provisionales
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -9719,7 +9827,7 @@ Las cuestiones que se promuevan sobre la cantidad de los alimentos, se decidirá
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO IX. De las informaciones ad-perpetuam
+### CAPITULO VIII. De la venta de bienes de menores, incapacitados y ausentes, y transacción sobre sus derechos
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -9825,7 +9933,7 @@ La venta de bienes indivisos pertenecientes a mayores y menores de edad, se har�
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO X. De la adopción
+### CAPITULO IX. De las informaciones ad-perpetuam
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -9945,7 +10053,7 @@ Comprobada debidamente la posesión la aprobará el Juez y mandará inscribir ta
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO XI. Del apeo o deslinde y amojonamiento
+### CAPITULO X. De la adopción
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -9989,7 +10097,7 @@ La impugnación de la adopción y su revocación, en los casos de los artículos
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO XII. Del reconocimiento de los hijos naturales y de la manera de subsanar la omisión del registro de nacimiento
+### CAPITULO XI. Del apeo o deslinde y amojonamiento
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -10061,7 +10169,7 @@ Si no hubiere acuerdo, el juez se abstendrá de hacer declaración alguna en cua
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO XIII. Del divorcio por mutuo consentimiento
+### CAPITULO XII. Del reconocimiento de los hijos naturales y de la manera de subsanar la omisión del registro de nacimiento
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -10081,7 +10189,7 @@ De las diligencias a que se refiere el artículo anterior se levantará el acta 
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO XIV. Disposiciones complementarias
+### CAPITULO XIII. Del divorcio por mutuo consentimiento
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -10143,7 +10251,7 @@ Ejecutoriada la resolución de divorcio, el tribunal mandará remitir copia de e
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO XIV. Disposiciones complementarias
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -10169,7 +10277,7 @@ De la Justicia Municipal
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO II. De los emplazamientos y citaciones
+### CAPITULO I. Disposiciones generales
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -10279,9 +10387,9 @@ Los jueces no son recusables; pero deben excusarse cuando estén impedidos, y en
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO III. Del juicio
+### CAPITULO II. De los emplazamientos y citaciones
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
 ###### Artículo 1364.
 
@@ -10355,9 +10463,9 @@ El que se presente como actor o como reo usando el nombre de otro para hacerse p
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO IV. De la ejecución de las sentencias
+### CAPITULO III. Del juicio
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 1373.
 
@@ -10421,7 +10529,9 @@ En los negocios de una cuantía menor a veinticinco días de salario mínimo gen
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
-### CAPITULO XIV. Disposiciones complementarias
+### CAPITULO IV. De la ejecución de las sentencias
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
 ###### Artículo 1380.
 
@@ -10636,3 +10746,17 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan a las previstas por este Decreto.
+
+P.O. 21 DE DICIEMBRE DE 1998.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto no será aplicable a los asuntos iniciados antes de su entrada en vigor, así como a los contratos de hipoteca celebrados con anterioridad, por lo tanto, la substanciación de los juicios hipotecarios que se encuentren en trámite o que se inicien en relación a estos contratos, continuarán de conformidad a los preceptos que dejen de tener vigencia.
+
+###### ARTICULO TERCERO.
+
+Para los efectos procedentes de las reformas contenidas en este decreto, se entenderán por derogadas las disposiciones que se opongan al mismo.
