@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1952-01-05"
+last_updated: "1956-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 1952.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 1956.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -215,15 +215,17 @@ IV. Opinar en asuntos políticos y tomar parte activa en la cosa (sic) pública,
 
 V. Formar parte de la Guardia Nacional para la defensa del territorio y de las instituciones de la República y del Estado, en los términos que prescriban las leyes.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 17 DE NOVIEMBRE DE 1956)</small>
+
 ###### ARTICULO 24.
 
-Son prerrogativas del ciudadano:
+Son prerrogativas de los ciudadanos hombres y mujeres:
 
-I. Votar en las elecciones populares;
+I.- Votar en las elecciones populares.
 
-II. Ser votado para los cargos de elección popular y ser promovido a cualquier empleo o comisión, conforme a las leyes;
+II.- Ser votados para los cargos de elección popular y ser promovidos a cualquier empleo o comisión conforme a las leyes.
 
-III. Alistarse en la Guardia Nacional para la defensa del territorio y de las instituciones de la República y del Estado, en los términos que prescriban las leyes.
+III.- Alistarse en la guardia nacional para la defensa del territorio y de las instituciones de la República y del Estado, en los términos que prescriben las leyes.
 
 ###### ARTICULO 25.
 
@@ -1530,3 +1532,7 @@ UNICO.- La presente reforma entrará en vigor el día de su publicación en el P
 P.O. 5 DE ENERO DE 1952.
 
 Unico.- Los Concejales que resulten electos en las elecciones municipales que se efectúen en el mes de diciembre de 1952, por esta única vez, durarán en su encargo cuatro años.
+
+P.O. 17 DE NOVIEMBRE DE 1956.
+
+Unico.- El presente decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
