@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-reglamentaria-del-articulo-27-1303"
 country: "mx"
 rank: "reglamento"
 publication_date: "1959-08-25"
-last_updated: "1959-08-25"
+last_updated: "1971-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1303&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1959-08-24"
 
 REGLAMENTO DE LA LEY REGLAMENTARIA DEL ARTICULO 27 CONSTITUCIONAL EN EL RAMO DEL PETROLEO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE FEBRERO DE 1971.
 
 Reglamento publicado en la Sección Segunda del Diario Oficial de la Federación, el martes 25 de agosto de 1959.
 
@@ -203,33 +203,29 @@ Los particulares que deseen utilizar derivados básicos de refinación para prod
 
 Las Secretarías resolverán conjuntamente después de oír a Petróleos Mexicanos.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 9 DE FEBRERO DE 1971)</small>
+
 ### CAPITULO VIII. Petroquímica
 
 ###### ARTICULO 26.
 
-La petroquímica consiste en la elaboración de compuestos no comprendidos dentro de los productos básicos genéricos de refinación a que se refiere el artículo 23, a partir total o parcialmente de hidrocarburos naturales del petróleo o de hidrocarburos que sean productos o subproductos de las operaciones de refinación.
-
-> <small>(F. DE E., D.O.F. 24 DE SEPTIEMBRE DE 1959)</small>
+(DEROGADO, D.O.F. 9 DE FEBRERO DE 1971)
 
 ###### ARTICULO 27.
 
-Corresponde a la Nación por conducto de Petróleos Mexicanos o de organismos o empresas subsidiarias de dicha Institución o asociadas a las mismas, creados por el Estado, en los que no podrán tener participación de ninguna especie los particulares, la elaboración de los productos que sean susceptibles de servir como materias primas industriales básicas, que sean resultado de los procesos petroquímicos fundados en la primera transformación química importante o en el primer proceso físico importante que se efectúe a partir de productos o subproductos de refinación o de hidrocarburos naturales del petróleo, o tengan un interés económico-social fundamental para el Estado.
-
-> <small>(F. DE E., D.O.F. 24 DE SEPTIEMBRE DE 1959)</small>
+(DEROGADO, D.O.F. 9 DE FEBRERO DE 1971)
 
 ###### ARTICULO 28.
 
-La elaboración de productos que sean resultado de los procesos petroquímicos subsecuentes a los señalados en el artículo anterior, constituye el campo en que podrán operar indistintamente y en forma no exclusiva, la Nación, la iniciativa privada sola, o asociada con la Nación, por conducto de Petróleos Mexicanos o de organismos o empresas subsidiarios de dicha Institución, o asociados a la misma, creados por el Estado.
-
-> <small>(F. DE E., D.O.F. 24 DE SEPTIEMBRE DE 1959)</small>
+(DEROGADO, D.O.F. 9 DE FEBRERO DE 1971)
 
 ###### ARTICULO 29.
 
-Los casos de duda sobre si la elaboración de un producto determinado queda o no dentro del campo de acción reservado en forma exclusiva a la Nación, serán decididos por acuerdo expreso del Ejecutivo Federal, con intervención de las Secretarías del Patrimonio Nacional y de Industria y Comercio, oyendo previamente a Petróleos Mexicanos.
+(DEROGADO, D.O.F. 9 DE FEBRERO DE 1971)
 
 ###### ARTICULO 30.
 
-Los permisos a particulares para la elaboración de productos de la industria petroquímica a que se refiere el artículo 28, se otorgarán por acuerdo expreso del Ejecutivo Federal con intervención de las Secretarías del Patrimonio Nacional y de Industria y Comercio, previa opinión de Petróleos Mexicanos. El otorgamiento de los permisos se ajustará en su caso a lo mandado por el Decreto de 29 de junio de 1944 y demás disposiciones legales aplicables en materia de inversiones extranjeras.
+(DEROGADO, D.O.F. 9 DE FEBRERO DE 1971)
 
 > <small>(F. DE E., D.O.F. 24 DE SEPTIEMBRE DE 1959)</small>
 
@@ -580,3 +576,27 @@ Se abroga el Reglamento de la Ley Reglamentaria del artículo 27 constitucional 
 El presente Reglamento entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Reglamento en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veinticuatro días del mes de agosto de mil novecientos cincuenta y nueve.- Adolfo López Mateos.- Rúbrica.- El Secretario del Patrimonio Nacional, Eduardo Bustamante.- Rúbrica.- El Secretario de Industria y Comercio, Raúl Salinas Lozano.- Rúbrica.- El Secretario de la Presidencia, Donato Miranda Fonseca.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 9 DE FEBRERO DE 1971.
+
+###### ARTICULO PRIMERO.
+
+La Secretaría de Hacienda y Crédito Público proveerá, conforme a las solicitudes que le presente la del Patrimonio Nacional, los fondos presupuestales que requiera la instalación y operación de la Comisión Petroquímica Mexicana, y en su oportunidad se incluirán las partidas que correspondan en el Presupuestos de Egresos de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan el Capítulo VIII del Reglamento de la Ley Reglamentaria del artículo 27 Constitucional en el Ramo del Petróleo de fecha 24 de agosto de 1959 y el Acuerdo de 13 de enero de 1960 publicado en el "Diario Oficial" de la Federación el 9 de abril de 1960.
+
+###### ARTICULO TERCERO.
+
+Los permisos para la elaboración de los productos petroquímicos expedidos por las Secretarías del Patrimonio Nacional y de Industria y Comercio de acuerdo con el Reglamento de la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo, continuarán en vigor en los términos en que fueron expedidos, pero cualquier modificación a los mismos deberá regirse por el presente Reglamento.
+
+###### ARTICULO CUARTO.
+
+La referencia a la "Comisión para el Estudio de la Industria Petroquímica" contenida en los permisos a los que se refiere el artículo tercero anterior, se considerará en lo sucesivo referido a la "Comisión Petroquímica Mexicana" que establece el Capítulo II de este Reglamento.
+
+###### ARTICULO QUINTO.
+
+El presente Reglamento entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
