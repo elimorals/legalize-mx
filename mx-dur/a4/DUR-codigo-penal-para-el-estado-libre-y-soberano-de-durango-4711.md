@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-4711"
 country: "mx"
 rank: "codigo"
 publication_date: "1991-08-22"
-last_updated: "1997-12-11"
+last_updated: "2000-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2000.
 
 Código publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 22 de agosto de 1991.
 
@@ -1697,6 +1697,32 @@ Se impondrá de seis meses a un año de prisión y de tres a ciento cincuenta d�
 
 Se impondrá de seis meses a seis años de prisión y de cien a quinientos días-multa, al que trafique ilegalmente con terrenos, los fraccione o divida en lotes, cualquiera que sea su régimen de propiedad, transfiera o prometa transferir la propiedad, la posesión o cualquier otro derecho, careciendo del previo permiso de la autoridad administrativa correspondiente o cuando teniéndolo no cumpla con los requisitos prometidos. Este delito se sancionará aún en el caso de falta de pago total o parcial.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2000)</small>
+
+### CAPITULO VII. DE LOS DELITOS DE VENTA CLANDESTINA DE BEBIDAS
+
+CON CONTENIDO ALCOHOLICO
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2000)</small>
+
+###### ARTICULO 201 Bis.
+
+Se impondrá prisión de uno a cuatro años y multa de trescientos a mil días de salario mínimo vigente en el Estado, al que venda bebidas alchólicas (sic) sin haber obtenido la licencia a que se refiere el artículo primero de la Ley para el Expendio de Bebidas Alcohólicas para el Estado de Durango.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2000)</small>
+
+ARTICULO 201 Bis A.- Se impondrán de uno a cinco años de prisión, y multa de trescientos a mil días de salario mínimo vigente en el Estado, al servidor público que realice, encubra o favorezca la venta o distribución de bebidas alcohólicas, en las formas a que se refiere el artículo 201 Bis de esta ley.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2000)</small>
+
+ARTICULO 201 Bis B.- A quienes cometan en forma reiterada algunos de los delitos señalados en el presente capítulo, se les impondrá de tres a siete años de prisión y multa de trescientos a mil días de salario mínimo vigente en el Estado.
+
+Se considera que cometen en forma reiterada alguno de los delitos de este capítulo, aquellos que hayan sido anteriormente sentenciados por alguno de ellos.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2000)</small>
+
+ARTICULO 201 Bis C.- En el caso de los delitos precisados en este capítulo, independientemente de las sanciones que corresponda, procederá el decomiso de los instrumentos, objetos y productos del delito.
+
 SUBTITULO SEGUNDO
 
 DELITOS CONTRA LA SEGURIDAD DE LAS VIAS DE COMUNICACION
@@ -1704,8 +1730,6 @@ DELITOS CONTRA LA SEGURIDAD DE LAS VIAS DE COMUNICACION
 Y MEDIOS DE TRANSPORTE
 
 ### CAPITULO I. ATAQUES A LAS VIAS DE COMUNICACION Y MEDIOS DE TRANSPORTE
-
-### CAPITULO II. DELITOS COMETIDOS POR CONDUCTORES DE VEHICULOS DE MOTOR
 
 ###### ARTICULO 202.
 
@@ -1731,7 +1755,7 @@ Se impondrá de seis meses a tres años de prisión y de cinco a quince días-mu
 
 Se impondrá de quince a treinta años de prisión al que, para la ejecución de los hechos de que hablan los respectivos artículos anteriores, se valga de explosivos.
 
-### CAPITULO III. VIOLACION DE CORRESPONDENCIA
+### CAPITULO II. DELITOS COMETIDOS POR CONDUCTORES DE VEHICULOS DE MOTOR
 
 ###### ARTICULO 208.
 
@@ -1739,7 +1763,7 @@ Se impondrá de tres días a un año de prisión, de tres a setenta y cinco día
 
 Se impondrá de uno a tres años de prisión, de veinte a doscientos días-multa y suspensión hasta por un año o pérdida del derecho de manejar, si este delito se comete por conductores de vehículos de transporte público de pasajeros, de transporte escolar o de transporte de personal en servicio.
 
-### CAPITULO I. DELITOS CONTRA LA RIQUEZA FORESTAL DEL ESTADO
+### CAPITULO III. VIOLACION DE CORRESPONDENCIA
 
 ###### ARTICULO 209.
 
@@ -1759,7 +1783,7 @@ SUBTITULO TERCERO
 
 DELITOS CONTRA LA ECONOMIA PUBLICA ESTATAL
 
-### CAPITULO II. DELITOS CONTRA EL CONSUMO
+### CAPITULO I. DELITOS CONTRA LA RIQUEZA FORESTAL DEL ESTADO
 
 ###### ARTICULO 212.
 
@@ -1779,7 +1803,7 @@ Se impondrá prisión de un mes a dos años al que no exhiba la documentación c
 
 Se decomisarán en beneficio del Estado los productos explotados, transportados o adquiridos ilegalmente así como los instrumentos de explotación y medio de transporte.
 
-### CAPITULO III. DELITOS CONTRA EL TRABAJO Y LA PREVISION SOCIAL
+### CAPITULO II. DELITOS CONTRA EL CONSUMO
 
 ###### ARTICULO 214.
 
@@ -1799,7 +1823,7 @@ I.- Al que elabore o comercie con comestibles, bebidas o medicinas de tal modo q
 
 II.- Al que oculte, sustraiga, venda o compre efectos que la autoridad competente haya mandado destruír por ser nocivos a la salud.
 
-### CAPITULO IV. DELITOS CONTRA LA ECOLOGIA
+### CAPITULO III. DELITOS CONTRA EL TRABAJO Y LA PREVISION SOCIAL
 
 ###### ARTICULO 217.
 
@@ -1825,7 +1849,7 @@ VIII.- No proporcione a sus trabajadores la capacitación y adiestramiento, una 
 
 Se impondrá de uno a cinco años de prisión y de tres a trescientos cincuenta días-multa, al patrón que con el solo propósito de eludir el cumplimiento de las obligaciones que le impone la Ley Federal del Trabajo, impute indebidamente a uno o más de sus trabajadores, la comisión de un delito o falta.
 
-### CAPITULO I. ULTRAJES A LA MORAL
+### CAPITULO IV. DELITOS CONTRA LA ECOLOGIA
 
 ###### ARTICULO 219.
 
@@ -1835,7 +1859,7 @@ SUBTITULO CUARTO
 
 DELITOS CONTRA LA MORAL PUBLICA
 
-### CAPITULO II. CORRUPCION DE MENORES
+### CAPITULO I. ULTRAJES A LA MORAL
 
 ###### ARTICULO 220.
 
@@ -1847,7 +1871,7 @@ II.- Al que ejecute o haga ejecutar por otro, en público exhibiciones obscenas;
 
 III.- Al que públicamente invite a otro al comercio carnal.
 
-### CAPITULO III. LENOCINIO Y TRATA DE PERSONAS
+### CAPITULO II. CORRUPCION DE MENORES
 
 ###### ARTICULO 221.
 
@@ -1873,7 +1897,7 @@ Las sanciones que señalan los artículos anteriores se duplicarán cuando el de
 
 Los delincuentes de que se trata este Capítulo quedarán inhabilitados para ser tutores o curadores.
 
-### CAPITULO IV. PROVOCACION DE UN DELITO Y APOLOGIA DE ESTE O DE ALGUN VICIO
+### CAPITULO III. LENOCINIO Y TRATA DE PERSONAS
 
 ###### ARTICULO 225.
 
@@ -1893,7 +1917,7 @@ III.- Al que regenteé, administre o sostenga directa o indirectamente prostítb
 
 Se impondrá de cuatro a nueve años de prisión y de cien a quinientos días-multa, al que promueva, facilite, consiga o entregue a una persona para que ejerza la prostitución dentro o fuera del país. Si se emplease violencia o el inculpado se valiese de una función pública que tuviere, la pena se incrementará hasta una mitad más.
 
-### CAPITULO I. DELITOS CONTRA EL ESTADO CIVIL DE LAS PERSONAS
+### CAPITULO IV. PROVOCACION DE UN DELITO Y APOLOGIA DE ESTE O DE ALGUN VICIO
 
 ###### ARTICULO 228.
 
@@ -1905,7 +1929,7 @@ SUBTITULO QUINTO
 
 DELITOS CONTRA LA FAMILIA
 
-### CAPITULO II. MATRIMONIOS ILEGALES
+### CAPITULO I. DELITOS CONTRA EL ESTADO CIVIL DE LAS PERSONAS
 
 ###### ARTICULO 229.
 
@@ -1915,15 +1939,13 @@ Se impondrá de seis meses a seis años de prisión y de cincuenta a cuatrocient
 
 El que cometa alguno de los delitos expresados en el artículo anterior, perderá el derecho de heredar que tuviere respecto de las personas a quienes por la comisión del delito se perjudique en sus derechos de familia.
 
-### CAPITULO III. BIGAMIA
+### CAPITULO II. MATRIMONIOS ILEGALES
 
 ###### ARTICULO 231.
 
 Se impndrá (sic) de tres meses a dos años de prisión y de tres a doscientos quince días-multa, al que contraiga o autorice matrimonio con conocimiento de la existencia de un impedimento, o sin que hayan transcurrido los términos suspensivos para contraer matrimonio que señala la Ley Civil.
 
-### CAPITULO IV. ABANDONO DE LOS FAMILIARES
-
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+### CAPITULO III. BIGAMIA
 
 ###### ARTICULO 232.
 
@@ -1939,7 +1961,9 @@ Se impondrá hasta la mitad de las penas previstas en el artículo anterior, a l
 
 El término para la prescripción de la bigamia, empezará a correr desde que uno de los dos matrimonios haya quedado disuelto por la muerte de uno de los cónyuges, o que el segundo haya sido declarado nulo. El término de la prescripción del matrimonio ilegal empieza a correr desde la disolución del matrimonio o por la muerte de alguno de los cónyuges.
 
-### CAPITULO V. INCESTO
+### CAPITULO IV. ABANDONO DE LOS FAMILIARES
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 235.
 
@@ -1965,13 +1989,13 @@ La pena se reducirá hasta la cuarta parte de la prevista en el párrafo anterio
 
 Además de las sanciones señaladas, se privará de los derechos de la patria potestad, tutela o custodia, en su caso, a quienes teniendo el ejercicio de éstos, cometan el delito a que se refiere el presente artículo.
 
-### CAPITULO VI. ADULTERIO
+### CAPITULO V. INCESTO
 
 ###### ARTICULO 238.
 
 Se impondrá de tres a seis años de prisión y de veinte a doscientos días-multa, a los ascendientes que tengan cópula con sus descendientes. La pena aplicable a estos últimos será de uno a tres años de prisión. Se impondrá esta última sanción en caso de incesto entre hermanos.
 
-### CAPITULO UNICO
+### CAPITULO VI. ADULTERIO
 
 ###### ARTICULO 239.
 
@@ -1991,7 +2015,7 @@ DELITO CONTRA EL RESPETO A LOS MUERTOS
 
 Y VIOLACION A LAS LEYES DE INHUMACION Y EXHUMACION
 
-### CAPITULO I. LESIONES
+### CAPITULO UNICO
 
 ###### ARTICULO 242.
 
@@ -2017,7 +2041,7 @@ SUBTITULO PRIMERO
 
 DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
 
-### CAPITULO II. HOMICIDIO
+### CAPITULO I. LESIONES
 
 ###### ARTICULO 245.
 
@@ -2067,7 +2091,7 @@ Al que ejerciendo la patria protestad o la tutela, infiera lesiones a los menore
 
 Se impondrá pena que no exceda de la mitad de la que correspondería conforme a las disposiciones de este Capítulo, a las lesiones inferidas mediante alguna de las circunstancias a que alude el Artículo 259.
 
-### CAPITULO III. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
+### CAPITULO II. HOMICIDIO
 
 ###### ARTICULO 254.
 
@@ -2107,7 +2131,7 @@ II.- En vindicación próxima de una ofensa grave causada al autor del delito, s
 
 III.- Por móviles de piedad, mediante súplicas notorias y reiteradas de la víctima, ante la inutilidad de todo auxilio para salvar su vida.
 
-### CAPITULO IV. AUXILIO O INDUCCION AL SUICIDIO
+### CAPITULO III. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
 
 ###### ARTICULO 260.
 
@@ -2131,9 +2155,7 @@ Hay traición cuando se emplea la perfidia, violando la fé o la seguridad que e
 
 Cuando dos o más personas realicen sobre otra u otras actos idóneos para lesionarlas o matarlas y este resultado se produzca ignorándose quien o quienes de los que intervienen lo produjeron, a todos se impondrá como pena de los dos tercios a los cinco sextos de la que corresponda al delito simple intencional.
 
-### CAPITULO V. PARRICIDIO
-
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+### CAPITULO IV. AUXILIO O INDUCCION AL SUICIDIO
 
 ###### ARTICULO 264.
 
@@ -2143,7 +2165,9 @@ Se impondrá de uno a diez años de prisión y de cincuenta a quinientos días-m
 
 Se impondrá de diez a quince años de prisión y de cien a quinientos días-multa, al auxiliar o instigador si el suicida fuera menor de edad o enajenado mental.
 
-### CAPITULO VI. INFANTICIDIO
+### CAPITULO V. PARRICIDIO
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 266.
 
@@ -2151,7 +2175,7 @@ Se impondrá de veinte a cincuenta años de prisión al que dolosamente prive de
 
 Se impondrá de veinte a treinta años de prisión al que dolosamente prive de la vida al cónyuge o cualquier descendiente en línea recta, sea legítimo o natural, sabiendo el inculpado del parentesco.
 
-### CAPITULO VII. ABORTO
+### CAPITULO VI. INFANTICIDIO
 
 ###### ARTICULO 267.
 
@@ -2175,7 +2199,7 @@ IV.- Que el infante no sea legítimo.
 
 Si en el infanticidio tuviere participación un médico cirujano, comadrona o partera, además de la pena privativa que corresponde, se le suspenderá de uno a tres años en el ejercicio de su profesión.
 
-### CAPITULO I. PELIGRO DE CONTAGIO
+### CAPITULO VII. ABORTO
 
 ###### ARTICULO 270.
 
@@ -2209,7 +2233,7 @@ SUBTITULO SEGUNDO
 
 DELITOS DE PELIGRO CONTRA LAS PERSONAS
 
-### CAPITULO II. DISPARO DE ARMA DE FUEGO Y ATAQUE PELIGROSO
+### CAPITULO I. PELIGRO DE CONTAGIO
 
 ###### ARTICULO 273.
 
@@ -2217,7 +2241,7 @@ Al que sabiendo que padece enfermedad grave y en período infectante ponga en pe
 
 Igual sanción se impondrá a las personas que ejerciendo la patria potestad, tutela o guarda de un infante que padezca alguna de las enfermedades a que se refiere el párrafo anterior, permitan que sea amamantado por persona distinta de la madre, si conocen la existencia de la enfermedad. Tratándose de Síndrome de Inmuno-Deficiencia Adquirida, sífilis o cualquier otra enfermedad venérea y el peligro de contagio se realiza por medio de contacto sexual, la pena será de dos a seis años de prisión. Entre cónyuge o concubinos, sólo se procederá por querella del ofendido.
 
-### CAPITULO III. OMISION DE CUIDADO
+### CAPITULO II. DISPARO DE ARMA DE FUEGO Y ATAQUE PELIGROSO
 
 ###### ARTICULO 274.
 
@@ -2229,27 +2253,25 @@ II.- Al que ataque a alguien de tal manera que, en razón del arma empleada, de 
 
 Este artículo sólo se aplicará cuando no se causare daño, o los hechos no constituyan tentativa de homicidio, en caso contrario, se impondrán las penas del delito consumado en grado de tentativa que resultare.
 
-### CAPITULO IV. OMISION DE AUXILIO
+### CAPITULO III. OMISION DE CUIDADO
 
 ###### ARTICULO 275.
 
 Se impondrá de un mes a dos años de prisión y de tres a trescientos días-multa, privando además de la patria potestad o de la tutela, al que abandone a una persona incapaz de valerse por sí misma teniendo la obligación de cuidarla. Si el inculpado fuere ascendiente o tutor del ofendido, se le privará además del derecho de heredar respecto a la persona abandonada.
 
-### CAPITULO V. OMISION DE AUXILIO A LESIONADOS
+### CAPITULO IV. OMISION DE AUXILIO
 
 ###### ARTICULO 276.
 
 Se impondrá de tres días a seis meses de prisión y de tres a treinta y cinco días-multa, al que omita auxiliar a una persona que por cualquier circunstancia, estuviese amenazada de un peligro, cuando pudiera hacerlo sin riesgo alguno, o al que no estando en condiciones de llevarlo a cabo no diere inmediato aviso a la autoridad.
 
-### CAPITULO VI. DISPOSICIONES GENERALES
+### CAPITULO V. OMISION DE AUXILIO A LESIONADOS
 
 ###### ARTICULO 277.
 
 Se impondrá de uno a seis meses de prisión y de tres a treinta y cinco días-multa, al conductor de un vehículo cualquiera o jinete que deje en estado de abandono, sin prestarle ni facilitarle asistencia a la persona a quien lesionó sin dolo o dejare de avisar inmediatamente a la autoridad.
 
-### CAPITULO I. PRIVACION DE LIBERTAD
-
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+### CAPITULO VI. DISPOSICIONES GENERALES
 
 ###### ARTICULO 278.
 
@@ -2259,7 +2281,7 @@ SUBTITULO TERCERO
 
 DELITOS CONTRA LA LIBERTAD Y SEGURIDAD
 
-### CAPITULO II. SECUESTRO
+### CAPITULO I. PRIVACION DE LIBERTAD
 
 > <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
 
@@ -2273,7 +2295,7 @@ II.- Al particular que por cualquier medio obligue a una persona a prestarle tra
 
 III.- Al particular que por medio de la violencia o la coacción impida a una persona ejecutar un acto lícito o la obligue a ejecutar lo que no quiere, sea lícito o ilícito.
 
-### CAPITULO III. ROBO DE INFANTE
+### CAPITULO II. SECUESTRO
 
 > <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
 
@@ -2297,7 +2319,9 @@ Se equipara al secuestro y se impondrán las penas señaladas en este artículo,
 
 Siendo el secuestro un delito de los que se persiguen de oficio, la autoridad tendrá en todos los casos la obligación de intervenir en la investigación de los hechos y persecución del inculpado, tan pronto como tenga conocimiento del ilícito y aún cuando el ofendido o sus familiares se opongan a ello, se impondrá de tres meses a tres años de prisión y de veinte a doscientos días-multa a los servidores públicos que teniendo el deber de hacerlo, no procedan en los términos de esta disposición.
 
-### CAPITULO IV. RAPTO
+### CAPITULO III. ROBO DE INFANTE
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 281.
 
@@ -2305,7 +2329,7 @@ Se impondrá de diez a cincuenta años de prisión a quien siendo un extraño a 
 
 Se impondrá de tres meses a cuatro años de prisión si el menor es restituido espontáneamente a su familia o a la autoridad dentro de tres días y sin causar perjuicio. Se impondrá de seis meses a seis años de prisión si se causare perjuicio.
 
-### CAPITULO V. EXTORSION
+### CAPITULO IV. RAPTO
 
 ###### ARTICULO 282.
 
@@ -2321,15 +2345,15 @@ Si la persona raptada fuere menor de edad, se procederá contra el raptor, por q
 
 Cuando el rapto se acompañe con otro delito perseguible de oficio, si se procederá contra el raptor, por este último.
 
-### CAPITULO VI. ASALTO
-
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+### CAPITULO V. EXTORSION
 
 ###### ARTICULO 284.
 
 Se impondrá de seis meses a ocho años de prisión y de cien a quinientos días-multa, al que sin derecho obligue a otro a hacer, tolerar o dejar de hacer algo, obteniendo un lucro para sí o para otro.
 
-### CAPITULO VII. ALLANAMIENTO DE MORADA
+### CAPITULO VI. ASALTO
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 285.
 
@@ -2339,7 +2363,7 @@ Se impondrá de tres a ocho años de prisión y de cuarenta a trescientos días-
 
 La pena será de diez a treinta años de prisión para el que en caminos o carreteras haga uso de la violencia en contra de los ocupantes de un vehículo, ya sea de transporte público o particular. Si los salteadores atacaren una población se aplicarán de veinte a treinta años de prisión a los cabecillas o jefes y de quince a veinte años a los demás.
 
-### CAPITULO VIII. AMENAZAS
+### CAPITULO VII. ALLANAMIENTO DE MORADA
 
 ###### ARTICULO 286.
 
@@ -2353,7 +2377,7 @@ b).- De cinco a once años de prisión y de veinte a cuatrocientos días-multa, 
 
 c).- De siete a quince años de prisión y de treinta a quinientos días-multa, si lo cometen dos o más personas.
 
-### CAPITULO IX. CHANTAJE
+### CAPITULO VIII. AMENAZAS
 
 ###### ARTICULO 287.
 
@@ -2385,7 +2409,7 @@ Si el amenazador consigue lo que se propone, se observarán las reglas siguiente
 
 2a.- Si exigió que el amenazado cometiera un delito, se acumulará a la sanción de la amenaza, la que corresponda por su participación en el delito que resulte.
 
-### CAPITULO I. ABUSOS DESHONESTOS
+### CAPITULO IX. CHANTAJE
 
 ###### ARTICULO 290.
 
@@ -2397,7 +2421,7 @@ SUBTITULO CUARTO
 
 DELITOS CONTRA LA LIBERTAD E INEXPERIENCIA SEXUAL
 
-### CAPITULO II. ESTUPRO
+### CAPITULO I. ABUSOS DESHONESTOS
 
 ###### ARTICULO 291.
 
@@ -2409,7 +2433,7 @@ Si se hiciera uso de violencia física o moral, la pena será de tres a cinco a�
 
 Al que ejecute un acto sexual, sin el propósito de llegar a la cópula, en una persona menor de doce años o en persona que por cualquier causa no pueda resistirla, o la obligue a ejecutarla, se le impondrá una pena de tres a cinco años de prisión y hasta de cien días-multa.
 
-### CAPITULO III. VIOLACION
+### CAPITULO II. ESTUPRO
 
 ###### ARTICULO 293.
 
@@ -2425,7 +2449,7 @@ La reparación del daño en los casos de estupro, comprenderá el pago de alimen
 
 Dicho pago se hará en la forma y términos que la Ley Civil fije para los casos de divorcio.
 
-### CAPITULO I. INJURIAS
+### CAPITULO III. VIOLACION
 
 ###### ARTICULO 296.
 
@@ -2459,7 +2483,7 @@ SUBTITULO QUINTO
 
 DELITOS CONTRA LA REPUTACION DE LA PERSONA
 
-### CAPITULO II. DIFAMACION
+### CAPITULO I. INJURIAS
 
 ###### ARTICULO 302.
 
@@ -2473,7 +2497,7 @@ Se impondrá de tres días a seis meses de prisión y de tres a treinta y cinco 
 
 Se impondrá de tres días a tres años de prisión y de veinte a doscientos quince días-multa, cuando las injurias o los golpes que no causen lesión, se infieran a un ascendiente consanguíneo en línea recta.
 
-### CAPITULO III. CALUMNIA
+### CAPITULO II. DIFAMACION
 
 ###### ARTICULO 305.
 
@@ -2505,7 +2529,7 @@ IV.- Cuando fuere periodista en ejercicio de sus funciones y no faltare a la ver
 
 Lo prevenido en la fracción III del artículo anterior, no comprende el caso en que la imputación sea calumniosa o se extienda a personas extrañas al litigio, o envuelva hechos que no se relacionen con el negocio de que se trata. Si así fuere, se impondrán las sanciones de la injuria, de la difamación o de la calumnia.
 
-### CAPITULO IV. DISPOSICIONES GENERALES
+### CAPITULO III. CALUMNIA
 
 ###### ARTICULO 309.
 
@@ -2517,7 +2541,7 @@ A la pena señalada se le agregará la publicación de sentencia a título de re
 
 No se admitirá prueba de la imputación al inculpado de calumnia, cuando exista sentencia ejecutoria que haya absuelto al calumniado del mismo delito que aquél le impute.
 
-### CAPITULO I. ROBO
+### CAPITULO IV. DISPOSICIONES GENERALES
 
 ###### ARTICULO 311.
 
@@ -2541,7 +2565,7 @@ Si éstos no fueren conocidos o no estuvieren domiciliados en el Estado, o estuv
 
 ## TITULO CUARTO. DELITOS CONTRA EL PATRIMONIO
 
-### CAPITULO II. ABIGEATO
+### CAPITULO I. ROBO
 
 ###### ARTICULO 314.
 
@@ -2647,7 +2671,7 @@ V.- Cuando se cometa por los obreros, artesanos o discípulos, en la casa, talle
 
 VI.- Cuando el robo se efectúe por 2 o más personas.
 
-### CAPITULO III. ABUSO DE CONFIANZA
+### CAPITULO II. ABIGEATO
 
 ###### ARTICULO 328.
 
@@ -2685,7 +2709,7 @@ A los que cambien, vendan, compren, comercien carne en canal o pieles y no tomen
 
 Es aplicable al delito de abigeato lo dispuesto en el Artículo 325 de este Código.
 
-### CAPITULO IV. FRAUDE
+### CAPITULO III. ABUSO DE CONFIANZA
 
 ###### ARTICULO 334.
 
@@ -2711,9 +2735,7 @@ III.- Retenga la cosa que estuviera obligado a entregar, si la hubiera recibido 
 
 El delito previsto en este Capítulo solamente se perseguirá por querella de la parte ofendida. Para estimar la cuantía del abuso de confianza se estará a lo dispuesto en el Artículo 318.
 
-### CAPITULO IV BIS. USURA
-
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+### CAPITULO IV. FRAUDE
 
 ###### ARTICULO 337.
 
@@ -2805,13 +2827,15 @@ Son aplicables al fraude, los Artículos 324 y 325 de este Ordenamiento.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO V. DESPOJO
+### CAPITULO IV BIS. USURA
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 340 Bis.
 
 Al que obtenga de otra persona ventajas usurarias por medio de contratos o convenios, en los cuales se estipulen réditos o lucros superiores a los usuales en el mercado, se impondrá de 1 a 9 años de prisión y multa equivalente hasta de dos tantos de los intereses devengados en exceso.
 
-### CAPITULO VI. DAÑO EN LOS BIENES
+### CAPITULO V. DESPOJO
 
 ###### ARTICULO 341.
 
@@ -2825,7 +2849,7 @@ III.- Al que en términos de las fracciones anteriores, distraiga sin derecho el
 
 Se impondrá de seis a doce años de prisión y de cien a quinientos días-multa, a los autores intelectuales a quienes dirijan la invasión y a quienes instiguen a la ocupación de la cosa, cuando el despojo se realice por dos o más personas. Si al realizarse el despojo se cometen otros delitos, aún sin la participación física de los autores intelectuales, de quienes dirijan la invasión e instigadores, se considerará a éstos, inculpados de los delitos cometidos.
 
-### CAPITULO VII. DELITOS CONTRA LA SEGURIDAD DE LA PROPIEDAD Y LA POSESION DE INMUEBLES Y LIMITES DE CRECIMIENTO DE LOS CENTROS DE POBLACION
+### CAPITULO VI. DAÑO EN LOS BIENES
 
 ###### ARTICULO 342.
 
@@ -2841,9 +2865,7 @@ Se impondrá de cinco a diez años de prisión y de tres a trescientos cincuenta
 
 Si además de los daños directos, resulta consumado algún otro delito, se aplicarán las reglas del concurso de delitos.
 
-### CAPITULO VIII. TRANSFERENCIA ILEGAL DE BIENES SUJETOS A
-
-REGIMEN EJIDAL O COMUNAL
+### CAPITULO VII. DELITOS CONTRA LA SEGURIDAD DE LA PROPIEDAD Y LA POSESION DE INMUEBLES Y LIMITES DE CRECIMIENTO DE LOS CENTROS DE POBLACION
 
 ###### ARTICULO 345.
 
@@ -2857,7 +2879,9 @@ Se impondrá de seis meses a dos años de prisión y de seis a setenta días-mul
 
 Se impondrá de tres días a un mes de prisión y de tres a diez días-multa, al que sin permiso y fuera de los casos en que la Ley lo permita, entre en un predio cercado.
 
-### CAPITULO UNICO. DE LA PREVENCION Y SANCION DE LA TORTURA
+### CAPITULO VIII. TRANSFERENCIA ILEGAL DE BIENES SUJETOS A
+
+REGIMEN EJIDAL O COMUNAL
 
 ###### ARTICULO 348.
 
@@ -2865,7 +2889,7 @@ Se impondrá de seis meses a diez años de prisión y de cien a quinientos días
 
 ## TITULO QUINTO
 
-### CAPITULO UNICO. DELITOS ELECTORALES
+### CAPITULO UNICO. DE LA PREVENCION Y SANCION DE LA TORTURA
 
 ###### ARTICULO 349.
 
@@ -2896,6 +2920,8 @@ Ninguna declaración que haya sido obtenida mediante tortura, podrá invocarse c
 Cualquier autoridad que conozca de un hecho de tortura, está obligado a denunciarla de inmediato.
 
 ## TITULO SEXTO
+
+### CAPITULO UNICO. DELITOS ELECTORALES
 
 ###### ARTICULO 355.
 
@@ -3174,3 +3200,9 @@ SEGUNDO.- Se abroga el Decreto No. 216, aprobado por esta H. Legislatura Local, 
 P.O. 11 DE DICIEMBRE DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE JUNIO DE 2000.
+
+PRIMERO.- El presente Decreto entrará en vigor a los tres días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
