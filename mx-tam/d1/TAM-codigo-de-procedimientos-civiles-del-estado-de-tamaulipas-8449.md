@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-civiles-del-estado-de-tamaulipas-8449"
 country: "mx"
 rank: "codigo"
 publication_date: "1961-10-04"
-last_updated: "1999-06-05"
+last_updated: "2001-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2001.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el 4 de octubre de 1961.
 
@@ -243,7 +243,7 @@ La infracción a lo dispuesto en este Artículo se sancionará con multa hasta p
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
-El Pleno del Supremo Tribunal de Justicia, o el magistrado, en su caso, impondrá dicha corrección cuando de autos no conste que el inferior cumplió con esa obligación.
+El Pleno del Supremo Tribunal de Justicia o el magistrado, en su caso, impondrá dicha corrección cuando de autos no conste que el inferior cumplió con esa obligación.
 
 ###### ARTICULO 24.
 
@@ -1449,7 +1449,7 @@ I.- Si el juez ante quien se promueve se considera competente para conocer del j
 
 Si la resolución fuere negando su competencia, será apelable en ambos efectos;
 
-II.- Si el juez reconoce su competencia mandará librar oficio requeriendo al que estime incompetente para que se abstenga de conocer del negocio y remitirá, desde luego, las actuaciones respectivas al superior, haciéndolo saber al interesado;
+II.- Si el juez reconoce su competencia mandará librar oficio requiriendo al que estime incompetente para que se abstenga de conocer del negocio y remitirá, desde luego, las actuaciones respectivas al superior, haciéndolo saber al interesado;
 
 III.- Luego que el juez requerido reciba el oficio inhibitorio, acordará la suspensión del procedimiento, y remitirá inmediatamente los autos originales al superior, con citación de las partes;
 
@@ -1499,7 +1499,7 @@ III.- Si fuere pariente por consanguinidad o afinidad, del abogado de alguna de 
 
 > <small>(F. DE E., P.O. 4 DE OCTUBRE DE 1961)</small>
 
-IV.- Cuando él, su cónyuge o alguno de sus hijos, haya sido judicialmente declarado heredero o legatario, o sea donante, donatario, socio, acreedor, deudor, fiador, fiado, arrendador, arrendatario, principal, dependiente, comensal, habitual de alguna de las partes, o administrador actual de sus bienes;
+IV.- Cuando él, su cónyuge o alguno de sus hijos, haya sido judicialmente declarado heredero o legatario, o sea donante, donatario, socio, acreedor, deudor, fiador, fiado, arrendador, arrendatario, principal, dependiente, comensal habitual de alguna de las partes, o administrador actual de sus bienes;
 
 V.- Si ha hecho promesa o amenazas, o ha manifestado de otro modo su enemistad o enojo existentes al momento del litigio;
 
@@ -1615,7 +1615,7 @@ Toda recusación se interpondrá ante el magistrado o juez que conozca del negoc
 
 Los magistrados y jueces que conozcan de una recusación, son irrecusables para ese solo efecto.
 
-El emplazamiento de que se habla en este artículo se considerará hecho directamente por el superior que deba sustanciar la recusación, por cuyo motivo cualquier notificación que deba hacerse al recusante, aun la radicación de los autos, surtirá efectos por medio de la lista de acuerdos, a menos que oportunamente ocurra personalmente, o designe abogado en el lugar donde radique el superior.
+El emplazamiento de que se habla en este artículo se considerará hecho directamente por el superior que deba sustanciar la recusación, por cuyo motivo cualquier notificación que deba hacerse al recusante, aun la radicación de los autos, surtirá efectos por medio de la listas de acuerdos, a menos que oportunamente ocurra personalmente, o designe abogado en el lugar donde radique el superior.
 
 ###### ARTICULO 220.
 
@@ -4009,7 +4009,7 @@ Recibida la demanda, el juez dispondrá lo siguiente:
 
 I.- Que se notifique al Ministerio Público;
 
-II.- Nombrar al incapacitado un tutor interino. Se designará por su orden, para tal efecto, al cónyuge, padre, madre, abuelos, o hermanos del incapacitado; si no los hubiere, se nombrará persona de reconocida honorabilidad, que además no tenga relación de amistad o comunidad de intereses con el promovente;
+II.- Nombrar al incapacitado un tutor interino. Se designará por su orden, para tal efecto, al cónyuge, padre, madre, abuelos o hermanos del incapacitado; si no los hubiere, se nombrará persona de reconocida honorabilidad, que además no tenga relación de amistad o comunidad de intereses con el promovente;
 
 III.- Si se trata de demencia dispondrá que dos psiquiatras, o si no los hay en el lugar, que dos peritos médicos examinen al incapacitado y emitan opinión acerca de sus condiciones. Si se está en alguno de los demás casos a que se refiere la primera parte del artículo 568, para el diagnostico únicamente se recurrirá a los médicos. En cualquiera de estas situaciones, el tutor puede nombrar otro para que tome parte en el examen y se oiga su dictamen. Puede el juez, además, requerir opinión preliminar a aquéllos;
 
@@ -5689,7 +5689,9 @@ III.- El comprobante del parentesco o lazo del denunciante con el autor de la su
 
 Presentada la denuncia con sus anexos, el juez, si la encuentra arreglada a derecho, decretará la radicación del juicio sucesorio. Si la denuncia fuere irregular o no viniere acompañada de los documentos exigidos por la ley, se mandará corregir o completar.
 
-La radicación en todos los casos se hará del conocimiento de los representantes del fisco y del Ministerio Público, cumpliéndose además con lo que dispongan las leyes fiscales.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2001)</small>
+
+La radicación en todos los casos se hará del conocimiento de los representantes de la Beneficencia Pública y del Ministerio Público, cumpliéndose además con lo que dispongan las leyes fiscales.
 
 ###### ARTICULO 761.
 
@@ -5735,9 +5737,11 @@ III.- Cuando corresponda heredar al Estado;
 
 IV.- En todos los juicios, mientras no haya reconocimiento o declaración de herederos.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2001)</small>
+
 ###### ARTICULO 765.
 
-El representante del Fisco tendrá la intervención que le asigne las leyes fiscales.
+El representante de la Beneficencia Pública tendrá la intervención que le asignen las leyes en los casos en que se trate de los bienes provenientes de una sucesión intestamentaria.
 
 ###### ARTICULO 766.
 
@@ -5953,19 +5957,23 @@ Hecha la denuncia por las personas a que se refieren los dos artículos anterior
 
 Durante los quince días a que se refiere el artículo anterior, podrán presentarse todos los interesados a la herencia, acompañando los documentos con que justifiquen su parentesco.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2001)</small>
+
 ###### ARTICULO 790.
 
-Concluído el término de quince días, el juez pondrá los autos a disposición de los interesados y de los representantes del Ministerio Público y del fisco, por el término de diez días, dentro de los cuales cada uno de los interesados o todos en común presentarán escrito reconociéndose entre sí o impugnando los derechos de uno o más de los presentados y manifestando a quien dan su voto para albacea.
+Concluido el término de quince días, el juez pondrá los autos a disposición de los interesados, del Ministerio Público y del representante de la Beneficencia Pública por el término de diez días, dentro de los cuales cada uno de los interesados o todos en común presentarán escrito reconociéndose entre sí o impugnando los derechos de uno o más de los presentados y manifestando a quién dan su voto para albacea.
 
 ###### ARTICULO 791.
 
 El juez, pasados los diez días de que habla la parte final del artículo anterior y hayan o no alegado los interesados, pronunciará sentencia.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2001)</small>
+
 ###### ARTICULO 792.
 
-En la sentencia el juez declarará herederos a los que hubieren justificado su parentesco con el autor de la sucesión y si ninguno lo hubiere justificado declarará heredero al fisco.
+En la sentencia, el juez declarará herederos a los que hubieren justificado su parentesco con el autor de la sucesión y si ninguno lo hubiere justificado, declarará heredera a la Beneficencia Pública.
 
-En la misma sentencia se resolverá quien es el albacea, que será nombrado por el juez de entre los herederos declarados, si ninguno hubiere obtenido mayoría de votos. Si el fisco fuere el heredero su representante será nombrado albacea.
+En la misma sentencia se resolverá quién será el albacea, que será nombrado por el juez de entre los herederos declarados, si ninguno hubiere obtenido mayoría de votos. Si la Beneficencia Pública fuere la heredera, su representante será nombrado albacea.
 
 ###### ARTICULO 793.
 
@@ -6037,9 +6045,11 @@ El inventario perjudica a los que lo hicieren y a los que le aprobaron.
 
 Aprobado el inventario por el juez o por el consentimiento de todos los interesados, no puede reformarse sino por error o dolo declarados por sentencia pronunciada en juicio sumario; pero siempre se entenderá aprobado con la reserva de que si aparecieren nuevos bienes o deudas, se agreguen como corresponda.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2001)</small>
+
 ###### ARTICULO 803.
 
-El representante del fisco tendrá la intervención que le asignen las leyes fiscales, en todo lo relativo al inventario y avalúo.
+El representante de la Beneficencia Pública tendrá la intervención que le asignen las leyes, en todo lo relativo al inventario y avalúo.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
@@ -6071,9 +6081,13 @@ Para los casos en que debe ocurrirse al avalúo pericial, se observarán las sig
 
 I.- En las ciudades en donde los haya, el perito que se nombre podrá ser un contador público titulado, o la persona que designe el juez. Para el caso de tratarse de bienes inmuebles, se practicará por cualquiera institución de crédito por conducto de su departamento fiduciario, y de no existir ésta en el lugar, el juez designará la persona que deba formularlo;
 
-II.- Si algún interesado nombra un perito por su cuenta, los representantes de los fiscos federal y local podrán nombrar por su parte alguno de los peritos a que se refiere la fracción anterior; y,
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2001)</small>
 
-III.- Si los avalúos de los peritos nombrados por los interesados y el representante del fisco no coinciden, se ocurrirá a un tercer perito que será designado por el juez de los autos, quien lo nombrará eligiéndolo precisamente entre los que se mencionan en la fracción I.
+II.- Si algún interesado nombra un perito por su cuenta, los representantes de la Beneficencia Pública Federal y Estatal podrán nombrar por su parte alguno de los peritos a que se refiere la Fracción anterior.
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2001)</small>
+
+III.- Si los avalúos de los peritos nombrados por los interesados y el representante de la Beneficencia Pública no coinciden, se ocurrirá a un tercer perito, que será designado por el juez de los autos, quien lo nombrará eligiéndose precisamente de entre los que se mencionan en la fracción I.
 
 ###### ARTICULO 807.
 
@@ -6317,7 +6331,9 @@ IV.- Presentado el inventario, el juez convocará a una junta a los interesados,
 
 V.- Todas las resoluciones se harán constar en actas y no se requieren peticiones escritas de parte interesada para la tramitación del juicio;
 
-VI.- Se dará copia del escrito de denuncia al representante del fisco; pero no se le concederá ninguna intervención si aparece que los únicos bienes propiedad de la sucesión son los que constituyen el patrimonio familiar;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2001)</small>
+
+VI.- Se dará copia del escrito de denuncia al representante de la Beneficencia Pública; pero no se le concederá ninguna intervención si aparece que los únicos bienes propiedad de la sucesión son los que constituyen el patrimonio familiar.
 
 VII.- El acta o actas en que consten las adjudicaciones servirán de título a los interesados y deberán registrarse; y,
 
@@ -6337,7 +6353,7 @@ El notario dará a conocer estas declaraciones por medio de dos publicaciones qu
 
 ###### ARTICULO 831.
 
-La tramitación de intestamentarías ante notario no podrá iniciarse sino hasta que la autoridad judicial haya hecho la declaración de herederos, y siempre que todos los interesados mayores de edad, lo pidan de común acuerdo, no exista controversia y los intereses del fisco estén garantizados, sin perjuicio de lo que se dispone en el artículo siguiente.
+La tramitación de intestamentarías ante notario no podrá iniciarse sino hasta que la autoridad judicial haya hecho la declaración de herederos, y siempre que todos los interesados sean mayores de edad, lo pidan de común acuerdo, no exista controversia y los intereses del fisco estén garantizados, sin perjuicio de lo que se dispone en el artículo siguiente.
 
 ###### ARTICULO 832.
 
@@ -7075,7 +7091,7 @@ En los casos a que se refiere el artículo anterior, se suspenderá la ejecució
 
 ###### ARTICULO 943.
 
-No obstante la admisión de la apelación en ambos efectos, el que obtuvo sentencia favorable de condena puede pedir que se efectúe embargo provisional para el aseguramiento de lo sentenciado y de las medidas que puedan garantizar la ejecución. Estas medidas provisionales sólo se llevarán a cabo si se otorga caución suficiente para garantizar la reposición de las cosas al estado que guardaban antes de la ejecución de la medida, así como los daños y perjuicios que se ocasionen a la contraparte, pero sin que se requiera prueba para acreditar su necesidad. Si la resolución contiene una parte que se refiera a alimentos, en esta parte se ejecutará sin requerirse fianza. El remate o adjudicación no podrán llevarse adelante, pero sí podrán tener verificativo las diligencias previas como avalúo, incidentes de liquidación de sentencia y otras similares. En caso de que a petición de alguna parte se lleven a cabo estas medidas de aseguramiento, y posteriormente se revocare la sentencia, la parte que las pidió indemnizará a la otra de los daños y perjuicios que le hubiere ocasionado con el embargo o medidas provisionales, y también la compensará íntegramente en caso de que la cosa embargada no le fuese restituída; en uno y otro caso se hará efectiva la caución.
+No obstante la admisión de la apelación en ambos efectos, el que obtuvo sentencia favorable de condena puede pedir que se efectúe embargo provisional para el aseguramiento de lo sentenciado y de las medidas que puedan garantizar la ejecución. Estas medidas provisionales sólo se llevarán a cabo si se otorga caución suficiente para garantizar la reposición de las cosas al estado que guardaban antes de la ejecución de la medida, así como los daños y perjuicios que se ocasionen a la contraparte, pero sin que se requiera prueba para acreditar su necesidad. Si la resolución contiene una parte que se refiera a alimentos, en esta parte se ejecutará sin requerirse fianza. El remate o adjudicación no podrán llevarse adelante, pero sí podrán tener verificativo las diligencias previas como avalúo, incidentes de liquidación de sentencia y otras similares. En caso de que a petición de alguna parte se lleven a cabo estas medidas de aseguramiento, y posteriormente se revocare la sentencia, la parte que las pidió indemnizará a la otra de los daños y perjuicios que le hubiere ocasionado con el embargo o medidas provisionales, y también la compensará íntegramente en caso de que la cosa embargada no le fuese restituida; en uno y otro caso se hará efectiva la caución.
 
 ###### ARTICULO 944.
 
@@ -7211,7 +7227,7 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 
 Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, a los dos días del mes de febrero de mil novecientos sesenta y uno.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.
 
 P.O. 18 DE SEPTIEMBRE DE 1963
 
@@ -7270,3 +7286,9 @@ P.O. 5 DE JUNIO DE 1999.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE ABRIL DE 2001
+
+###### ARTICULO UNICO.
+
+El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
