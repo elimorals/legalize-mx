@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-los-comites-locales-de-caminos-vecinales-en-el-9964"
 country: "mx"
 rank: "ley"
 publication_date: "1975-01-01"
-last_updated: "1975-01-01"
+last_updated: "1983-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "SIN"
 
 LEY DE LOS COMITES LOCALES DE CAMINOS VECINALES EN EL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA SEGUNDA SECCION DEL PERIODICO OFICIAL: 27 DE JUNIO DE 1983.
 
 Ley publicada en la Tercera Sección del Periódico Oficial "El Estado de Sinaloa", el miércoles 1 de enero de 1975.
 
-GOBIERNO DEL ESTADO LIBRE Y SOBERANO DE SINALOA
+GOBIERNO DEL ESTADO LIBRE Y SOBERANO DE SINALOA.
 
 El Ciudadano ALFONSO G. CALDERON VELARDE, Gobernador Constitucional del Estado Libre y Soberano de Sinaloa, a sus habitantes hace saber:
 
@@ -53,7 +53,9 @@ I.- Comité de Caminos Vecinales número 1, con jurisdicción en los Municipios 
 
 II.- Comité de Caminos Vecinales número 2, con jurisdicción en los municipios de Guasave, Sinaloa de Leyva, Salvador Alvarado, Angostura y Mocorito; con residencia en la ciudad de Guasave;
 
-III.- Comité de Caminos Vecinales número 3, con jurisdicción en los Municipios de Badiraguato, Culiacán, Elota y Cosalá, con residencia en la ciudad de Culiacán Rosales; y,
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1983)</small>
+
+III.- Comité de Caminos Vecinales Número 3, con jurisdicción en los Municipios de Badiraguato, Culiacán, Navolato, Elota, Cosalá, con residencia en la ciudad de Culiacán Rosales; y,
 
 IV.- Comité de Caminos Vecinales número 4, con jurisdicción en los municipios de San Ignacio, Mazatlán, Concordia, Rosario y Escuinapa; con residencia en la ciudad de El Rosario.
 
@@ -262,3 +264,15 @@ ALFONSO G. CALDERON VELARDE
 El Secretario de Finanzas del Estado
 
 C.P. ROBERTO WONG LEAL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.</small>
+
+P.O. 27 DE JUNIO DE 1983.
+
+###### ARTICULO CUARTO.
+
+El Comité de Caminos Vecinales Número 3, en la aplicación de la Ley que lo rige y se adiciona en virtud de este Decreto, deberá estimar dentro de las funciones y planes de trabajo que le son inherentes, que a partir del 1o. de enero de 1984, se iniciará la actuación administrativa y política del Municipio de Navolato.
+
+###### ARTICULO QUINTO.
+
+El presente Decreto surtirá sus efectos a partir de su publicación en el Periódico Oficial "El Estado de Sinaloa".
