@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-de-transito-de-vehiculos-en-el-estado-de-durango-508
 country: "mx"
 rank: "reglamento"
 publication_date: "1948-12-30"
-last_updated: "1948-12-30"
+last_updated: "1951-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5084&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 REGLAMENTO DE TRANSITO DE VEHICULOS EN EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 1951.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el jueves 30 de diciembre de 1948.
 
@@ -79,7 +79,7 @@ PERMISOS.
 
 ###### ARTICULO 11.
 
-El Ejecutivo del Estado expedirá los permisos para el establecimiento de líneas, rutas y sitios.
+EI Ejecutivo del Estado expedirá los permisos para el establecimiento de líneas, rutas y sitios.
 
 ###### ARTICULO 12.
 
@@ -267,9 +267,11 @@ Los vehículos podrán ser estacionados antes de un cruzamiento, en caminos, a u
 
 Los conductores procurarán llevar a los vehículos a la extrema derecha del camino, en los casos en que por descompostura momentánea no puedan continuar su marcha, debiendo poner las señales respectivas.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1951)</small>
+
 ###### ARTICULO 45.
 
-Los vehículos, para hacer alto o estacionarse, lo harán en su extrema derecha.
+Los vehículos, para hacer alto o estacionarse, lo harán en su extrema derecha en las calles y avenidas en que el tránsito es en doble sentido, y en las de un sólo, el estacionamiento se hará a la extrema izquierda.
 
 ###### ARTICULO 46.
 
@@ -335,9 +337,11 @@ Toda carga cuya longitud sobresalga de la parte posterior del vehículo deberá 
 
 Queda absolutamente prohibido el transporte de materiales explosivos, si antes no se han llenado los requisitos que para el caso señale el Departamento Central de Tránsito.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1951)</small>
+
 ###### ARTICULO 62.
 
-Invariablemente deberá estar colocado a su extrema derecha y en posición paralela a las calles o caminos, todo vehículo de carga.
+Todo vehículo de carga deberá estacionarse a su extrema derecha, salvo en las calles en que el tránsito sea en un sólo sentido, en cuyo caso el estacionamiento se hará a la izquierda. En ambos casos el vehículo se estacionará en posición paralela a la calle o camino.
 
 ###### ARTICULO 63.
 
@@ -391,7 +395,7 @@ Las bajas de los vehículos se solicitarán en las Oficinas de Tránsito que cor
 
 Las Oficinas de Tránsito expedirán las bajas de los vehículos cuando éstos sean retirados de la circulación en territorio del Estado.
 
-### CAPITULO VIII.
+### CAPITULO VIlI.
 
 SANCIONES.
 
@@ -666,6 +670,12 @@ No cerrarlo al entrar a la población. $ 5.00 $ 100.00
 ESTACIONAMIENTO.
 
 Hacerlo a su izquierda. $ 10.00 $ 50.00
+
+> <small>(ADICIONADO, 24 DE JUNIO DE 1951)</small>
+
+Hacerlo a la derecha en las calles en que el
+
+tránsito sea en un solo sentido. $ 10.00 $ 50.00
 
 En doble fila. $ 10.00 $ 50.00
 
@@ -1038,3 +1048,9 @@ TERCERO.- Queda derogado el Reglamento de Tránsito expedido el 27 de octubre de
 CUARTO.- Este Reglamento entrará en vigor desde la fecha de su publicación en el Periódico Oficial del Estado.
 
 Victoria de Durango, Dgo., a 30 de diciembre de 1948.- El Secretario General de Gobierno, Lic. Fernando Arenas.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE JUNIO DE 1951.
+
+UNICO.- Estas reformas entrarán en vigor desde la fecha de su publicación en el Periódico Oficial del Estado.
