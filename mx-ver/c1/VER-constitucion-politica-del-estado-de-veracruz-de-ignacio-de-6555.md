@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1971-07-01"
+last_updated: "1971-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE JULIO DE 1971.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE NOVIEMBRE DE 1971.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -741,7 +741,7 @@ V. Cada año los Municipios remitirán a la Legislatura para su revisión y apro
 
 DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
-> <small>(REFORMADO, G.O. 21 y 23 DE NOVIEMBRE DE 1944)</small>
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 1971)</small>
 
 ###### Artículo 91.
 
@@ -769,9 +769,9 @@ Se reputará aprobado por el Poder Ejecutivo todo proyecto no devuelto con obser
 
 ###### Artículo 95.
 
-El Tribunal Superior de Justicia estará integrado por diez Magistrados numerarios y cuatro supernumerarios; funcionará en Pleno o en Salas, según lo determine la Ley, y será presidido por un Magistrado que no formará Sala sino en los casos expresamente señalados. El Presidente será designado por el Tribunal en Pleno, en la primera sesión del mes de diciembre de cada año, pudiendo ser reelecto; en sus faltas temporales será substituído por el Magistrado que él designe. Los Magistrados supernumerarios suplirán las faltas de los numerarios. Cada Magistrado del Tribunal Superior, al entrar a ejercer su cargo, protestará ante la Legislatura, y en los recesos de ésta ante la Diputación Permanente, guardar y hacer guardar la Constitución Federal, la Particular del Estado y las leyes que de ellas emanen, mirando en todo por la prosperidad y bien del Estado, así como impartir recta y pronta justicia.
+El Tribunal Superior de Justicia estará integrado en Trece Magistrados Numerarios y Dos Supernumerarios; funcionará en pleno o en Salas, según lo determine la Ley, y será presidido por un Magistrado que no formará Sala sino en los casos expresamente señalados. El Presidente será designado por el Tribunal en Pleno, en la Primera Sesión del mes de diciembre de cada año, pudiendo ser reelecto; en sus faltas temporales será substituido por el Magistrado que él designe. Los Magistrados Supernumerarios suplirán las faltas de los Numerarios. Cada Magistrado del Tribunal Superior, al entrar a ejercer su cargo, protestará ante la Legislatura, y en los recesos de ésta ante la Diputación Permanente, guardar y hacer guardar la Constitución Federal, la Particular del Estado y las Leyes que de ellas emanen, mirando en todo por la prosperidad y bien del Estado, así como impartir recta y pronta justicia.
 
-Los Jueces de Primera Instancia protestarán en los mismos términos, ante el Presidente del Tribunal Superior o ante la Autoridad Judicial que el mismo Presidente designe. Los Jueces Municipales y los Auxiliares, protestarán, respectivamente ante los Jueces Primeros o Unicos de Primera Instancia y ante los Jueces Municipales Primeros o Unicos.
+Los Jueces de Primera Instancia protestarán en los mismos términos, ante el Presidente del Tribunal Superior o ante la Autoridad Judicial que el mismo Presidente designe. Los Jueces Municipales y los Auxiliares, protestarán respectivamente ante los Jueces Primeros o Unicos de Primera Instancia y ante los Jueces Municipales Primeros o Unicos.
 
 > <small>(REFORMADO, G.O. 21 y 23 DE DICIEMBRE DE 1944)</small>
 
@@ -1450,3 +1450,13 @@ Las reformas mencionadas al principio, entrarán en vigor desde la fecha de su p
 G.O. 1 DE JULIO DE 1971.
 
 UNICO.- Resérvese esta reforma para conocimiento de la próxima XLIX Legislatura del Estado, para los efectos del artículo 130 de la Constitución Política Local.
+
+G.O. 27 DE NOVIEMBRE DE 1971.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor el día 1°. de enero de 1972.
+
+###### ARTICULO SEGUNDO.
+
+Envíese al Ejecutivo del Estado para su publicación en la "Gaceta Oficial" del Estado.
