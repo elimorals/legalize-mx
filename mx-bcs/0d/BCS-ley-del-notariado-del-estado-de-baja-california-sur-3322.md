@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-notariado-del-estado-de-baja-california-sur-3322"
 country: "mx"
 rank: "ley"
 publication_date: "1977-12-31"
-last_updated: "1985-07-10"
+last_updated: "1993-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DEL NOTARIADO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JUNIO DE 1993.
 
 Ley publicada en Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1977.
 
@@ -67,11 +67,11 @@ Notario es la persona a quien el Ejecutivo del Estado haya otorgado nombramiento
 
 La función notarial se ejerce en el Estado por los Notarios Titulares de una Notaría de número y por quienes deban substituirlos conforme a esta Ley.
 
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 6o.
 
-En el Estado de Baja California Sur, habrá los Notarios que requiera el interés público a juicio del Ejecutivo.
+En el Estado de Baja California Sur, habrá un notario por cada veinticinco mil habitantes, pero se podrá crear una notaría en el municipio o ciudad que no tenga esa población, siempre y cuando a juicio del Ejecutivo sean necesarios los servicios de un notario en el lugar.
 
 > <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
 
@@ -93,13 +93,17 @@ La supervisión de la función notarial está a cargo del Ejecutivo.
 
 Del ingreso a la función Notarial.
 
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1993)</small>
+
 ###### ARTICULO 10o.
 
-Para ser notario se requiere el nombramiento otorgado por el Gobernador del Estado.
+Para ser aspirante de notario y notario, se requiere de patente otorgada por el Gobernador del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 11.
 
-Para ser aspirante al nombramiento de Notario, deberán llenarse los siguientes requisitos:
+Para obtener la patente de aspirante de notario se requiere:
 
 I. Ser mexicano por nacimiento, mayor de 25 años y menor de 60;
 
@@ -107,15 +111,63 @@ II. Ser ciudadano del Estado y tener una residencia efectiva en el mismo cuando 
 
 III. Estar legalmente autorizado para ejercer como profesional del Derecho, con anterioridad de dos años a la fecha del otorgamiento de la Patente;
 
-IV. Ser de conducta honorable;
+> <small>(REFORMADA, B.O. 10 DE JUNIO DE 1993)</small>
 
-V. Aprobar el examen que marca el Reglamento, a menos que se trate de los casos de excepción previstos en el mismo;
+IV. No haber sido condenado por sentencia ejecutoriada, por delito intencional.
 
-> <small>(REFORMADA, B.O. 10 DE JULIO DE 1985)</small>
+> <small>(REFORMADA, B.O. 10 DE JUNIO DE 1993)</small>
 
-VI. Comprobar que durante un año, en forma ininterrumpida, ha practicado bajo la dirección y responsabilidad de un Notario en ejercicio en Baja California Sur, quien deberá cerciorarse de que el interesado cuenta, al iniciar su práctica, con título profesional de abogado;
+V. Aprobar el examen que marca esta ley;
 
-VII. Los demás que marque el Reglamento u otras leyes.
+> <small>(REFORMADA, B.O. 10 DE JUNIO DE 1993)</small>
+
+VI. Comprobar que durante dos años, en forma ininterrumpida, ha practicado bajo la dirección y responsabilidad de un notario en ejercicio en Baja California Sur, quien deberá cerciorarse de que el interesado cuenta, al iniciar su práctica con título de abogado;
+
+> <small>(REFORMADA, B.O. 10 DE JUNIO DE 1993)</small>
+
+VII. No padecer enfermedad permanente que limite las facultades intelectuales, ni impedimento físico que se oponga a las funciones del notario;
+
+> <small>(ADICIONADA, B.O. 10 DE JUNIO DE 1993)</small>
+
+VIII. Estar en pleno goce de sus derechos civiles, y
+
+> <small>(ADICIONADA, B.O. 10 DE JUNIO DE 1993)</small>
+
+IX. No haber sido separado definitivamente por sanción del ejercicio del notariado dentro de la República Mexicana.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 1993)</small>
+
+ARTICULO 11 C. El jurado, de tres miembros, se integrará por el presidente del Consejo de Notarios o por el secretario si aquél tiene impedimento y los restantes serán insaculados por el solicitante, entre los notarios titulares del Estado, una vez que haya sido fijada la fecha del examen, ante el secretario del Consejo de Notarios, no pudiendo formar parte del jurado los notarios en cuya Notaría hubiese hecho su práctica el sustentante.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 1993)</small>
+
+ARTICULO 11 A. El que pretenda examen de aspirante de notario, presentará solicitud al Gobernador del Estado, acreditando los requisitos que establece el artículo 11 de esta ley; asimismo enviará una copia de la solicitud y documentos al Consejo de la Asociación de Notarios, quien opinará ante el Ejecutivo del Estado, en un plazo que no excederá de diez días hábiles contados a la fecha de su recepción, si se reúnen los requisitos mencionados.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 1993)</small>
+
+ARTICULO 11 B. Una vez recibida la opinión del Consejo de Notarios, si el Ejecutivo considera procedente la petición de examen, señalará lugar, día y hora para tal efecto, dándose aviso de ello al Consejo de Notarios y al interesado.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 1993)</small>
+
+ARTICULO 11 D. El examen versará sobre teoría y práctica notariales.
+
+El Consejo de Notarios tendrá preparados temarios que contemplen un mínimo de diez temas teóricos e igual número de temas prácticos sobre actos notariales.
+
+Para la celebración del examen sobre el aspecto teórico, el sustentante extraerá, al azar, tres temas, de los cuales seleccionará uno, a fin de que el examen se desarrolle sobre el elegido.
+
+Para el examen sobre el aspecto de práctica notarial, el sustentante extraerá otros tres temas de los que el jurado, por mayoría, elegirá uno, a fin de que el sustentante, desarrolle el mismo elaborando un proyecto sobre el instrumento notarial correspondiente; así como sus implicaciones administrativas. Para este examen se otorgarán al sustentante facilidades de consulta de los ordenamientos legales conducentes.
+
+Concluido el acto, se calificará su resultado con el voto individual y secreto de los sinodales, cuya mayoría o unanimidad determinará la aprobación o reprobación respectiva.
+
+Del resultado del examen se dará aviso al Ejecutivo del Estado para efecto del otorgamiento o negativa de la patente a aspirante de notario. La patente se publicará en el Boletín Oficial del Gobierno del Estado.
+
+A quien resulte reprobado en el examen o al que no se presente sin causa justificada, no se le concederá nueva oportunidad de examinarse, hasta que transcurra un año de la fecha de la celebración del mismo.
+
+En el caso de justificarse la inasistencia, previa solicitud del interesado, se señalará nuevo día y hora para la realización del examen, el cual se efectuará por el jurado previamente designado.
+
+La existencia de causas de impedimento, o incapacidad para el desempeño de las funciones notariales, privará al aspirante del derecho de sustentar el examen, o en su caso, de los efectos de la patente obtenida.
+
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1993)</small>
 
 ### CAPITULO TERCERO
 
@@ -123,7 +175,47 @@ De los derechos, obligaciones e impedimentos de los Notarios.
 
 ###### ARTICULO 12.
 
-Podrá otorgarse nombramiento cuando se cree una nueva notaría o alguna de las existentes quede vacante. Para tal efecto el Ejecutivo del Estado ordenará se publique un aviso en el Boletín Oficial, convocando a los aspirantes que pretendan obtener por oposición el nombramiento de notario, para que presenten solicitud y acrediten llenar los requisitos en los términos y plazos que marque el reglamento.
+Para obtener la patente de notario, se requiere, además de los requisitos mencionados en las fracciones I, II, III, IV, VII, VIII y IX del artículo 11 de esta ley:
+
+I. Haber obtenido la patente de aspirante de notario;
+
+II. Haber sido aprobado con la mejor calificación en el examen de oposición que contempla esta ley;
+
+III. No haber sido servidor público de la Federación, del Estado o de los municipios, con dos años de anterioridad a la fecha de presentación del examen de oposición.
+
+Para los efectos de esta disposición, se considerarán servidores públicos los mencionados en el artículo 108 primer párrafo de la Constitución Política de los Estados Unidos Mexicanos y 156 de la Constitución Política del Estado de Baja California Sur, y
+
+IV. No estar comprendido en los supuestos de incompatibilidad a que esta ley se refiere.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 1993)</small>
+
+ARTICULO 12 C. El examen de oposición a que se refiere el artículo que antecede, consistirá en dos pruebas, una práctica y otra teórica; para este efecto, el jurado dispondrá de un temario del que cada uno de los sustentantes sacará al azar un tema, sobre el que versará su examen, debiendo proporcionarles el presidente del jurado las bases para el desarrollo.
+
+La prueba práctica notarial, se desarrollará por escrito en forma simultánea, durante el tiempo que fijará el jurado al iniciarse la misma; será común para todos los concurrentes al examen, otorgándoseles las facilidades de consulta de los ordenamientos legales relativos. Concluidas las pruebas, se recogerán y serán firmadas por los sustentantes.
+
+La prueba teórica se desarrollará verbalmente, en forma sucesiva y separada, por cada uno de los sustentantes, apegándose a las preguntas del jurado respecto al tema correspondiente.
+
+El jurado, en forma secreta, procederá a la calificación, determinando quién obtuvo la mayor puntuación, para que se le otorgue la patente de notario.
+
+Si su calificación en este examen fuese inferior a 70 puntos dentro de la escala de 1 a 100, ningún aspirante podrá obtener la patente de notario.
+
+El jurado tendrá la facultad de declarar desierto el resultado del examen ante la falta de calidad de todas las pruebas.
+
+El Secretario del jurado será el sinodal de menor edad, quien, al término del examen, procederá a levantar acta circunstanciada del mismo, que firmarán todos los integrantes del jurado y los sustentantes que quisieren hacerlo.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 1993)</small>
+
+ARTICULO 12 D. El presidente del Consejo de Notarios comunicará al Gobernador del Estado el resultado del examen, adjuntando el dictamen del jurado a efecto de que, en su caso, otorgue la patente a quien corresponda y respecto a la cual se convocó para la oposición, o si se declaró desierto el resultado, se proceda a convocar de nuevo.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 1993)</small>
+
+ARTICULO 12 A. Cuando se declare vacante una Notaría o se cree una nueva, el Ejecutivo del Estado convocará, mediante una sola publicación en el periódico de mayor circulación en la Entidad y en el Boletín Oficial del Gobierno del Estado, al examen de oposición, a quienes tengan patente de aspirante de notario, para que en el término de diez días hábiles manifiesten su interés en presentar dicho examen, acreditando llenar los requisitos de ley, ante el Gobernador del Estado y el Consejo de Notarios.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 1993)</small>
+
+ARTICULO 12 B. El Gobernador del Estado, dentro de los diez días hábiles siguientes a la conclusión del término que se menciona en el artículo anterior, fijará día, hora y lugar para la realización del examen de oposición, que deberá ser dentro de un plazo de treinta días hábiles, determinando además si los solicitantes reúnen los requisitos de ley, y lo hará del conocimiento de los interesados y del Consejo de Notarios. El jurado se integrará de la manera prevista en el artículo 11 C de esta Ley.
+
+El Consejo de Notarios, si considera que alguno de los solicitantes no reúne los requisitos legales, lo hará del conocimiento del Ejecutivo, para que éste resuelva lo conducente.
 
 > <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
 
@@ -151,9 +243,9 @@ Para el inicio de sus funciones el notario debe:
 
 I. Rendir la protesta ante el Gobernador del Estado;
 
-> <small>(REFORMADA, B.O. 10 DE JULIO DE 1985)</small>
+> <small>(REFORMADA, B.O. 10 DE JUNIO DE 1993)</small>
 
-II. Otorgar fianza, depósito en efectivo o hipoteca ante el Ejecutivo, por la cantidad de doscientos cincuenta mil pesos;
+II. Otorgar fianza, depósito en efectivo o hipoteca ante el Ejecutivo del Estado por la cantidad equivalente a cuarenta y seis años de salario mínimo vigente en el Estado, a la fecha del otorgamiento. Dicha garantía deberá mantenerse vigente y actualizarse cada dos años, en la misma proporción al salario mínimo que rija en esa fecha;
 
 III. Proveerse en su costa del sello y protocolo, debiéndose (sic) éstos reunir las características que marca esta Ley;
 
@@ -217,7 +309,9 @@ j) Desempeñar empleos, cargos o comisiones públicas, previa licencia de ley o 
 
 III. El notario puede excusar de actuar:
 
-a) En días festivos y horas que no sean de oficina, salvo que se trate de testamento y otro caso de urgencia inaplazable;
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1993)</small>
+
+a). En días festivos y horas que no sean de oficina, salvo que se trate del otorgamiento de testamento, casos de extrema urgencia o de interés social o político. Si el notario considera que no se encuentra en esos supuestos, lo hará saber por escrito al solicitante del servicio en ese momento, para efecto de la responsabilidad en que pudiere incurrir;
 
 b) Si alguna circunstancia le impide encargarse del asunto que se le encomiende y hay otra notaría en la localidad;
 
@@ -235,7 +329,9 @@ VIII. Expedir y autorizar testimonios, copias o impresos fotográficos o similar
 
 IX. Asistir a la clausura de su protocolo y a la entrega de su notaría si es suspendido o cesado;
 
-X. Pertenecer al Consejo de Notarios y ocupar puestos de su Directiva, si es elegido para ello;
+> <small>(REFORMADA, B.O. 10 DE JUNIO DE 1993)</small>
+
+X. Pertenecer a la Asociación de Notarios y ocupar puestos en su directiva, si es elegido para ello; y
 
 XI. Que las inspecciones que practiquen en su notaría sean en días y horas hábiles, en su presencia y que el acta que se levante de ellas contenga las declaraciones y razones que crea conveniente exponer.
 
@@ -283,21 +379,21 @@ De la separación y de la suplencia de los notarios.
 
 Los Notarios podrán separarse del ejercicio de sus funciones o ausentarse del lugar de su residencia hasta por treinta días sucesivos o alternados en cada semestre, dando aviso al Ejecutivo del Estado, al Archivo General de Notarías, al Consejo de Notarios y a quien deba suplirlos, salvo cuando dicha ausencia no sea mayor de tres días hábiles.
 
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 24.
 
-Los Notarios del Estado deberán celebrar convenios entre sí para suplirse recíprocamente en sus faltas temporales, relativas al Artículo que antecede.
+Los notarios del Estado podrán celebrar entre ellos mismos o con los notarios adscritos, convenios para suplirse recíprocamente en sus faltas temporales o en los casos de licencia.
 
-Dicho convenio deberá celebrarse dentro de los treinta días hábiles siguientes al inicio de sus funciones.
+Los convenios deberán celebrarse dentro de los treinta días hábiles siguientes al inicio de sus funciones, sin que un notario de número pueda suplir a más de un notario titular a la vez. Los convenios podrán substituirse las veces que lo requiera el interés público.
 
-Un Notario de Número no podrá suplir a más de un Notario Titular a la vez. De no existir Notario Titular que pueda hacer la suplencia será hecha por el Juez de Primera Instancia.
+Si los notarios no celebran convenios de suplencia dentro del plazo que se les concede, el Ejecutivo determinará en cada caso, la forma de llevarse a cabo ésta, y las personas que deban suplirse entre sí. El suplente podrá ser un Juez de Primera Instancia del Ramo Civil, en los lugares donde no exista otro notario.
 
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 25.
 
-Si los Notarios no celebran convenios de suplencia dentro del plazo que se les concede, el Ejecutivo determinará la forma de llevar a cabo ésta y las personas que deban suplirse entre sí.
+Cada notario titular tiene derecho para proponer al Ejecutivo del Estado a un aspirante al Notariado para que sea designado como su notario adscrito, a efecto de que lo supla en sus faltas temporales o en los casos de licencia, expidiéndole en su caso el Gobernador del Estado nombramiento, si el propuesto llena los requisitos de ley.
 
 ###### ARTICULO 26.
 
@@ -313,13 +409,13 @@ Los notarios tienen derecho a solicitar y obtener del Ejecutivo del Estado, lice
 
 Si se trata de licencia para desempeñar un cargo o empleo público, el Notario solicitará la licencia para separarse de la función notarial por todo el tiempo que dure su encargo, la que será concedida a juicio del Ejecutivo. Si el cargo es de elección popular, no podrá negarse dicha licencia.
 
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 29.
 
-Las suplencias de los Notarios Titulares en los casos de licencia, serán cubiertas por otro Notario Titular, un Juez de Primera Instancia o por un Licenciado en Derecho que reúna los requisitos previstos en las Fracciones I, II, III y IV del Artículo once de esta Ley, designado en su caso por el Ejecutivo.
+Los notarios adscritos, recibirán nombramiento del Gobernador del Estado, si reúnen al momento de su designación, los requisitos previstos en el artículo 11 de esta ley.
 
-El Ejecutivo otorgará al Suplente el nombramiento correspondiente cuya vigencia será por el tiempo en que el titular se encuentre separado de la Notaría y sin que genere para el suplente derecho alguno.
+El suplente o adscrito actuará sólo en las ausencias temporales o en los casos de licencia del notario titular, previa notificación de éste por escrito al Ejecutivo del Estado, al Archivo General de Notarías y al Consejo de Notarios.
 
 > <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
 
@@ -423,13 +519,19 @@ III. Que no haya queja pendiente de resolución, que importe responsabilidad pec
 
 Del Protocolo y de los Testimonios.
 
+> <small>(REFORMADA SU DENOMINACION, B.O. 10 DE JUNIO DE 1993)</small>
+
 ### CAPITULO PRIMERO
 
-De la apertura del Protocolo.
+Del Protocolo.
 
 ###### ARTICULO 43.
 
 Se llama protocolo el libro o conjunto de libros en los que el notario asienta las escrituras públicas y las actas, que respectivamente contengan los actos, o hechos jurídicos sometidos a su autorización.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 1993)</small>
+
+Los Notarios en el Estado podrán llevar el sistema de protocolo cerrado o protocolo abierto, sin que puedan llevar los dos simultáneamente.
 
 ###### ARTICULO 44.
 
@@ -465,17 +567,35 @@ El uso de estos libros debe hacerse por el orden riguroso de la numeración de l
 
 Tanto los libros del protocolo de cada notaría como las escrituras y actas de la misma, estarán numerados progresivamente a partir del primero de la notaría sin que la numeración se interrumpa por los cambios, del titular de la misma, ni cuando no pase alguna escritura o acta.
 
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1993)</small>
+
 ###### ARTICULO 50.
 
-Además de los libros a que se refiere el artículo anterior, cada notario llevará otro juego de tantos libros como lo autorice el Ejecutivo, para consignar en él exclusivamente las operaciones en que el Gobierno del Estado, los Organismos Públicos Descentralizados o Coordinados de carácter estatal o municipal de la entidad sean partes. Este protocolo especial se regirá por las disposiciones legales que norman el ordinario.
+Además de los libros del protocolo a que se refiere el artículo 49, cada notario llevará otro juego de tantos libros como lo autorice el Ejecutivo, para consignar en él exclusivamente las operaciones en que sean partes el gobierno del Estado, los Organismos Públicos Descentralizados o Coordinados de carácter Estatal o Municipal de la Entidad. Asimismo se podrán autorizar libros especiales para destinarlos al otorgamiento de escrituras que celebren instituciones oficiales promotoras de vivienda o de regulación de la tenencia de la tierra.
+
+Para la prestación de estos servicios, se dará intervención al Consejo de Notarios para el efecto de que los contratos correspondientes sean distribuidos equitativamente y proporcionalmente entre los miembros.
+
+Estos protocolos se regirán por las disposiciones legales establecidas en esta ley para el protocolo ordinario y protocolo abierto.
+
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 51.
 
-Al comenzar a hacer uso de una hoja, en su frente, al lado izquierdo y en la parte superior se pondrá el sello del Notario.
+Se entiende por protocolo abierto, la colección de escrituras y actas autorizadas por el notario, ordenadas cronológica y numéricamente, foliadas en orden progresivo, encuadernadas en uno o más tomos, formando parte del protocolo, los libros de documentos, los índices y apéndices.
+
+El notario utilizará para asentar las actas, escrituras y certificaciones, hojas foliadas, selladas y perforadas. Dichas hojas serán de papel de buena calidad y llevarán inserto al frente el nombre del notario, número de la Notaría y su lugar de residencia. En su caso, llevarán el nombre del notario asociado o del notario adscrito en funciones o encargado del despacho. Las hojas deberán tener las mismas características señaladas para el protocolo ordinario. Deberán estar autorizadas por el Archivo General de Notarías y por el Consejo de Notarios.
+
+Se redactarán en los términos que establece esta ley y al reunirse un máximo de ciento cincuenta hojas, se encuadernarán y empastarán sólidamente.
+
+Es optativo para el Notario llevar uno u otro sistema de protocolo.
+
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 52.
 
-Toda escritura o acta deberá comenzar a principio de página y el espacio que hubiere quedado en blanco después del sello de autorización definitiva, se cruzará con líneas de tinta fuertemente grabadas.
+Toda escritura o acta se deberá comenzar a principio de página y el espacio que hubiere quedado en blanco después del sello de autorización definitiva, se cruzará con líneas fuertemente grabadas.
+
+Al comenzar a hacer uso de una hoja, en su frente, al lado izquierdo y en la parte superior se pondrá el sello del notario.
 
 ###### ARTICULO 53.
 
@@ -511,9 +631,11 @@ Los documentos del apéndice no podrán desglosarse, los conservará el notario 
 
 Los notarios podrán expedir copias certificadas de los documentos que obren en el apéndice, a los interesados. A personas extrañas solamente podrán expedirse por mandato judicial.
 
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1993)</small>
+
 ###### ARTICULO 59.
 
-Los notarios tendrán obligación de llevar un índice por duplicado de todos los instrumentos que autoricen en cada libro o juego de libros de su protocolo. Este índice se llevará por orden alfabético de apellidos de cada otorgante y de su representante, con expresión del número de la escritura o acta, naturaleza del acto o hecho, página, volumen y fecha. Cuando se haga entrega del libro o juego de libros al archivo general de notarías, se entregará un ejemplar de su índice y el otro lo conservará la notaría.
+De todo instrumento público, el notario formará un duplicado por separado, que deberán firmar los que en él hubiesen intervenido. El duplicado será un ejemplar idéntico al instrumento público, con igual numeración.
 
 ###### ARTICULO 60.
 
@@ -523,9 +645,11 @@ Una vez puesta la certificación de clausura en un protocolo por el notario, lo 
 
 De las escrituras.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JUNIO DE 1993)</small>
+
 ###### ARTICULO 61.
 
-Escritura es el instrumento original que el notario asienta en el protocolo para hacer constar un acto jurídico y que está autorizado con la firma y sello del notario.
+Escritura es el instrumento original que el notario asienta en el protocolo para hacer constar un acto jurídico y que debidamente firmado por los otorgantes es autorizado con la firma y sello del notario.
 
 Se tendrá como parte de la escritura el documento en que se consigne el contrato o acto de que se trata, siempre que, firmado por el notario y por las partes que en él intervengan, en cada una de sus hojas se agregue el "Apéndice", llene los requisitos que señala este capítulo y en el protocolo se levante una acta en la que se haga un extracto del documento, indicando sus elementos esenciales. En este caso, la escritura se integrará por dicha acta y por el documento que se agregue al "Apéndice", y en el que se consigne el contrato o acto jurídico de que se trata. Del documento a que se refiere este párrafo se presentarán tantas copias cuantas partes intervengan en el contrato, para que cada una de ellas conserve una firmada también por el notario y por las partes en cada una de las hojas de que se componga.
 
@@ -603,11 +727,11 @@ Si las partes quisieran hacer alguna adición o variación, antes de que firme e
 
 Firmada la escritura por los otorgantes o los testigos e intérpretes en su caso, inmediatamente será autorizada por el notario preventivamente, con la razón "ante mí", su firma completa y su sello.
 
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1993)</small>
+
 ###### ARTICULO 72.
 
-El notario deberá autorizar definitivamente la escritura cuando se le compruebe que están pagados los derechos y los impuestos que causara el acto al fisco del Estado y al Federal, y si hubiere cumplido con cualquier otro requisito que conforme a las leyes sea necesario, para la autorización de la escritura.
-
-La autorización definitiva se pondrá al pie de la escritura inmediatamente después de la autorización preventiva y contendrá la fecha y lugar en que haya y la firma y sello del notario, así como las demás menciones que prescriban otras leyes.
+Firmada la escritura por las partes y autorizada preventivamente por el notario, si no se garantiza el interés fiscal, lo hará del conocimiento, por escrito, a la autoridad que corresponda dentro de los treinta días hábiles siguientes, salvo que la ley fiscal correspondiente contenga diferente disposición.
 
 ###### ARTICULO 73.
 
@@ -653,9 +777,11 @@ Los jueces ante quienes se denuncia un interesado de oficio recabarán del archi
 
 De las actas.
 
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1993)</small>
+
 ###### ARTICULO 82.
 
-Acta notarial es el instrumento original en que se hace constar un hecho, debiendo asentarse en el protocolo y autorizarse con la firma y sello del notario.
+Para el mejor desempeño de sus funciones, el notario podrá valerse de los sistemas de comunicación telefónica, fax, microondas, satélites, sistemas de computación e impresión, grabación, video, fotografía y en general, cualquier medio idóneo para hacer constar los hechos.
 
 ###### ARTICULO 83.
 
@@ -691,25 +817,35 @@ d) El notario autorizará el acta aún cuando no haya sido firmada por el intere
 
 Las notificaciones que la ley permita hacer por medio de notario, deberán ser hechas directamente por éste a la persona que deba ser notificada. También podrá hacerlas por medio de instructivo que contenga la relación suscinta (sic) del objeto de la notificación, siempre que la primera busca no se encuentre a la persona que debe ser notificada; pero cerciorándose de que dicha persona tiene su domicilio en la casa donde se le busca y haciéndose constar en el acta el nombre de la persona que recibe el instructivo si lo diere.
 
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1993)</small>
+
 ###### ARTICULO 87.
 
-En lo que se refiere a la certificación de firmas, figurará no sólo en el acta, sino también en las certificaciones que de ella se expidan, y el notario hará constar que ante él se pusieron las firmas y que conoce a las personas que firmaron, agregando una copia del documento, también firmada por los comparecientes, al apéndice.
+En lo que se refiere a la certificación de firmas, el notario no requerirá levantar acta en el protocolo, sino tan solo realizar la certificación al calce del documento, haciendo constar que ante él se pusieron las firmas, que conoce a las personas que firmaron o en su caso, que se identificaron y sellando cada una de sus hojas, entregará el original a los otorgantes y conservará un ejemplar en su archivo, también firmado por los comparecientes.
+
+Dicha certificación de firmas sólo se autorizará en los casos en que las leyes vigentes en el lugar en donde se vaya a utilizar el documento, no establezcan formalidad para la validez del acto.
+
+La copia del documento ratificado lo conservará el notario, formando un legajo con todos los documentos ratificados.
 
 ###### ARTICULO 88.
 
 Tratándose de cotejo de una copia o acta de partida parroquial con su original, en el acta se insertará el contenido de aquélla y el notario hará constar que concuerda con su original exactamente y especificará las diferencias que hubiere encontrado. En la copia de la partida hará constar el notario que fue cotejada con su original y el resultado del cotejo.
 
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1993)</small>
+
 ###### ARTICULO 89.
 
-Cuando se trate de cotejo de copias fotostáticas o similares con su original, se presentarán al notario, quien en el acta hará constar que las copias son fiel reproducción del documento, el cual devolverá al interesado con las copias ya certificadas, menos una, que agregará al apéndice.
+Cuando se trate de cotejo de copias fotostáticas o similares con su original, el notario sin necesidad de asentamiento en el protocolo, hará constar que las copias son fiel reproducción del documento, las que devolverá al interesado con las copias certificadas, conservando una, la que pasará a formar parte del legajo de copias certificadas.
 
 ###### ARTICULO 90.
 
 En las actas de protocolización hará constar el notario que el documento o las diligencias judiciales, cuya naturaleza indicará, las agrega al apéndice en el legajo marcado con el número del acta y bajo la letra que le corresponde. No se podrá protocolizar el documento cuyo contenido sea contrario a las leyes de orden público o a las buenas costumbres.
 
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1993)</small>
+
 ###### ARTICULO 91.
 
-Los documentos extranjeros sólo podrán protocolizarse en el Estado, en virtud de mandamiento judicial que así lo ordene.
+Los documentos redactados en idioma distinto al español sólo podrán protocolizarse en el Estado, previa traducción de perito oficial intérprete, autorizado por el Tribunal Superior de Justicia del Estado.
 
 ###### ARTICULO 92.
 
@@ -909,35 +1045,135 @@ El titular del archivo general de Notarías usará un sello igual al de los nota
 
 El titular del archivo general de Notarías será personalmente responsable de la custodia y conservación de los protocolos, sellos y demás libros, papeles y documentos a su cargo.
 
+> <small>(REFORMADA SU DENOMINACION, B.O. 10 DE JUNIO DE 1993)</small>
+
 ### CAPITULO SEGUNDO
 
-Del Consejo de Notarios.
+De la Asociación de Notarios.
+
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 121.
 
-En el Estado habrá un solo Consejo de Notarios, al que podrán (sic) pertenecer todo notario del Estado, sea cual fuere su calidad.
+En el Estado habrá una sola Asociación de Notarios, a la que pertenecerán todos los notarios de la Entidad, sea cual fuere su calidad, y será el órgano de representación y defensa de los legítimos intereses de los notarios del Estado, y garantía de defensa de la sociedad, por medio de la exigencia y el compromiso de un servicio notarial competente, eficaz, digno y responsable.
+
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 122.
 
-El Consejo de Notarios será dirigido y representado por un Presidente, un Secretario y un Tesorero.
+La dirección, administración y representación de la Asociación de Notarios del Estado, estará a cargo del Consejo de Notarios, que se integrará por un presidente, un vicepresidente, un secretario, un tesorero y los consejeros suplentes que determine la asamblea.
+
+Los miembros del Consejo durarán en funciones un año y podrán ser reelectos para el mismo cargo, por una sola ocasión.
+
+El Consejo será designado en asamblea general por mayoría de votos, que se emitirán en forma personal, directa y escrita, por cada miembro de la Asociación. La elección se celebrará el primer sábado del mes de diciembre de cada año, en el lugar y hora señalados y comunicados de manera fehaciente por la Asociación.
+
+Para que la asamblea pueda celebrarse, deberán estar presentes, cuando menos el cincuenta y un por ciento de los miembros de la Asociación.
+
+Si no hubiera quórum, la asamblea se realizará el siguiente sábado, en el mismo lugar y hora, con el número de notarios que asistan.
+
+El desempeño del cargo de consejero será gratuito y no será renunciable sin causa justificada, la cesación en el ejercicio del notario producirá automáticamente la del cargo.
+
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 123.
 
-La elección de la Directiva del Consejo se hará conforme lo dispuesto en su Reglamento.
+ATRIBUCIONES:
+
+a). Son atribuciones del Consejo de Notarios:
+
+I. Auxiliar al Gobierno del Estado, en la vigilancia y cumplimiento de esta ley y demás disposiciones relativas, promoviendo ante el ejecutivo las reformas que estime pertinentes a la legislación notarial;
+
+II. Implementar todas las medidas tendientes al buen logro de la prestación del servicio social por el Notariado Sudcaliforniano.
+
+III. Preparar, organizar e impartir, con el apoyo de los miembros de la Asociación de Notarios, los cursos de capacitación notarial a que se refiere esta ley;
+
+IV. Preparar y actualizar temarios de exámenes de capacitación, de aspirantes a notario y de oposición;
+
+V. Participar en los procedimientos de exámenes de aspirante al notariado y de notario, en los términos que marca esta Ley;
+
+VI. Resolver las consultas que le hicieren las autoridades y los notarios, así como resolver las diferencias que surjan entre éstos y los particulares, respecto a la aplicación de la presente ley;
+
+VII. Elaborar sus Estatutos y Reglamento Interno, con base en esta ley;
+
+VIII. Convocar a asambleas de la Asociación, ordinarias o extraordinarias;
+
+IX. Representar a la Asociación, como su apoderado general para pleitos y cobranzas, para actos de administración y dominio, con todas las facultades generales y las especiales que requieren cláusula especial, conforme a la ley, en los términos de los artículos 2554 y 2587, del Código Civil vigente en el Estado de Baja California Sur;
+
+X. Celebrar, en representación de los notarios del Estado, convenios de vigencia general para la prestación de servicios y su retribución;
+
+XI. Delegar sus facultades en uno o varios consejeros, conferir poderes y revocar los que se hubiesen otorgado;
+
+XII. Resolver las quejas por presuntas infracciones de competencia en razón de la materia al certificar hechos, previa audiencia de las partes;
+
+XIII. Dispensar de la aplicación del arancel, en actuación concreta, previa solicitud fundada de cualquier notario en ejercicio, siempre y cuando no exista riesgo de violación a lo dispuesto en la presente ley; y
+
+XIV. Las demás que las leyes establezcan.
+
+b). Son atribuciones del presidente de la Asociación de Notarios o de quien haga sus veces:
+
+I. Convocar a las asambleas de la Asociación y a juntas del Consejo;
+
+II. Presidir las sesiones tanto de la Asociación como del Consejo;
+
+III. Ejecutar las resoluciones de la Asociación y del Consejo, para lo cual tendrá la firma social;
+
+IV. Promover el cumplimiento de los acuerdos de la asamblea y del Consejo de Notarios;
+
+V. Autorizar los libros del protocolo, previa la autorización de la autoridad correspondiente;
+
+VI. Vigilar la recaudación y aplicación de los fondos que constituyen el patrimonio de la Asociación;
+
+VII. Rendir informe de las actividades del ejercicio, y
+
+VIII. Las demás que le confieren los estatutos y el Reglamento Interno de la Asociación.
+
+c). Son atribuciones del vice-presidente del Consejo:
+
+I. Sustituir al presidente en la (sic) faltas temporales o definitivas;
+
+II. Autorizar los libros del protocolo del presidente, previa la autorización de la autoridad correspondiente;
+
+III. Cumplir con las comisiones que le encomiende el presidente del Consejo;
+
+IV. Coordinar las comisiones permanentes que acuerde la Asamblea;
+
+V. Las demás que le confieran los estatutos de la Asociación y el Reglamento Interior del Consejo.
+
+d). Son atribuciones del secretario del Consejo, o de quien haga sus veces:
+
+I. Dar cuenta al presidente de los asuntos y comunicar los acuerdos;
+
+II. Suscribir, con el presidente, las convocatorias para la celebración de asambleas de la Asociación o juntas de Consejo;
+
+III. Redactar las actas de sesiones de la Asociación y del Consejo;
+
+IV. Llevar la correspondencia, libros de registro, archivo y cuidar la biblioteca de la Asociación, y
+
+V. Las demás que le confieran los estatutos y el Reglamento Interior del Consejo.
+
+e). Son atribuciones del tesorero, o de quien haga sus veces:
+
+I. Recaudar las cuotas de los miembros de la Asociación;
+
+II. Efectuar pagos, previo acuerdo del presidente del Consejo, o de quien legalmente hiciere sus veces;
+
+III. Llevar la contabilidad de la Asociación;
+
+IV. Rendir cuentas al término de cada ejercicio, y
+
+V. Las demás que le confieren los estatutos y el Reglamento Interior de la Asociación.
+
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 124.
 
-Son atribuciones del Consejo de Notarios:
+Se designarán por el Consejo o por la asamblea, las comisiones asesoras permanentes o especiales, que fungirán específicamente en las áreas de trabajo que se les asigne y podrán concurrir con voz, pero sin voto, a las sesiones del Consejo.
 
-I. Auxiliar al Gobierno del Estado en la vigilancia sobre el cumplimiento de esta Ley y las disposiciones que dicte en materia de notariado;
-
-II. Estudiar los asuntos que le encomiende el Ejecutivo del Estado;
-
-III. Pugnar por la superación de la función notarial.
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 125.
 
-El Consejo de Notarios formulará su propio Reglamento Interior.
+Los notarios estarán obligados a cubrir a la Asociación de Notarios por adelantado, una cuota equivalente a quince días de salario mínimo por protocolo que se les autorice.
 
 ### CAPITULO TERCERO
 
@@ -1104,3 +1340,9 @@ B.O. 10 DE JULIO DE 1985.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el siguiente día al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE JUNIO DE 1993.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el siguiente día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
