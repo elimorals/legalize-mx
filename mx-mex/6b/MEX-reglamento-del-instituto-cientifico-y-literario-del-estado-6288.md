@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-instituto-cientifico-y-literario-del-estado-6288
 country: "mx"
 rank: "reglamento"
 publication_date: "1940-02-28"
-last_updated: "1940-02-28"
+last_updated: "1943-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTODEL INSTITUTO CIENTIFICO Y LITERARIO DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE ENERO DE 1943.
 
 Reglamento publicado en la Gaceta del Gobierno del Estado de México, el miércoles 28 de febrero de 1940.
 
@@ -42,6 +42,20 @@ DEL CONSEJO DIRECTIVO
 ###### Artículo 2°.
 
 Integrarán el Consejo Directivo, dos representantes profesores y dos representantes alumnos, por cada uno de los ciclos de Educación establecidos en el Instituto; un representante de los empleados administrativos; un representante de los padres de familia, sin voto, pero si con voz, en las asambleas correspondientes; y el Director del Establecimiento como Presidente nato del mismo Consejo
+
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 1943)</small>
+
+###### Art. 3º.
+
+Los Representantes de que habla el artículo anterior, serán designados en la Junta que celebre el día en que las labores escolares se reanuden, de la manera siguiente:
+
+a).- La Junta General de Profesores designará sus respectivos representantes, en votación secreta.
+
+b).- Los Representantes del Sector Estudiantil serán los alumnos del ultimo año de cada Ciclo, que hayan obtenido el mejor promedio de calificaciones en el año lectivo anterior. En caso de que haya alumnos con igual promedio, de entre ellos hará la elección el Director del Plantel, tomando en cuenta los promedios de calificaciones obtenidas en los años anteriores, la conducta y demás antecedentes de los alumnos.
+
+c).-Por separado los empleados administrativos designarán su representante.
+
+d).- La Secretaría del plantel dará aviso oportuno a la Sociedad de Padres de Familia con el fin de que designe su representante.
 
 ###### Artículo 4°.
 
@@ -65,9 +79,11 @@ DEL CONSEJO TÉCNICO
 
 El Consejo Técnico intervendrá, exclusivamente, en los asuntos técnicos que se relacionen con los Ciclos Preparatorio y Profesional, así como con el servicio social. Estará formado por un representante maestro y un representante alumno, por cada uno de los ciclos y cada una de las carreras profesionales que existan o se establezcan en el Colegio. También el Director de éste presidirá las sesiones del Cuerpo.
 
-###### Artículo 7°.
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 1943)</small>
 
-Los profesores y alumnos de cada bachillerato y de cada carrera, en pleno, nombrarán a sus representantes, ante el Consejo Técnico; pero la designación estudiantil deberá ser promovida y comunicada por conducto de la Sociedad de Alumnos. Todos los miembros del Consejo tendrán, en las sesiones, voz y voto. Este, en lo que corresponde al Director presidente, sólo será de calidad.
+###### Art. 7º.
+
+Los profesores de cada bachillerato y de cada carrera, en pleno, designarán a su representante ante el Consejo Técnico; los representantes del Sector Estudiantil serán los alumnos del último año que en cada Bachillerato o Carrera hayan obtenido el mejor promedio de calificaciones en el año lectivo anterior, en caso de que haya alumnos con iguales promedios se procederá conforme al inciso b) del articulo 3º.
 
 ###### Artículo 8°.
 
@@ -101,15 +117,17 @@ EI Consejo Técnico solicitará la ayuda de cualesquiera de los Profesores del I
 
 DEL DIRECTOR
 
-###### Artículo 15.
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 1943)</small>
 
-El Director es la autoridad ejecutiva del Instituto, así como el representante legal de éste. Será nombrado por el Ejecutivo del Estado a propuesta del Consejo Directivo aprobada cuando menos por la mayoría de los Consejeros. En igual forma podrá ser solicitada la remoción del mismo Director siempre que el procedimiento obedezca a cualquiera de las causas siguientes:
+###### Art. 15.
 
-I.- Por ineptitud evidente para mantener la disciplina, o por sustentar principios u observar conducta contrarios al artículo tercero del Decreto de 13 de enero de 1940.
+EI Director de la Autoridad Ejecutiva del Instituto, así como el representante legal de éste. Será nombrado por el Ejecutivo del Estado, de una Terna que le será propuesta por el Consejo Directivo. Durará en su encargo dos años, y antes de ese lapso sólo podrá ser removido a solicitud del mismo Consejo cuando ocurra cualquiera de las causas siguientes:
 
-II.- Por realizar, en presencia de los alumnos, actos que deban ser considerados como reveladores de un vicio grave, o por la comisión de algún delito de los que se castigan con pena corporal.
+l.- Por Ineptitud evidente para mantener la disciplina, o por sustentar principios u observar conducta contrarios al Artículo 3º. del Decreto de 13 de enero de 1940.
 
-III.- Por faltar al cumplimiento de sus obligaciones o por obrar con violaciones graves a la Ley Orgánica del Plantel, así como a sus reformas y reglamentos.
+II.- Por realizar en prescencia (sic) de los alumnos, actos que deban ser considerados como reveladores de un vicio grave, o por comisión de algún delito de los que se castigan con pena corporal.
+
+III.- Por faltar al cumplimiento de sus obligaciones o por obrar con violaciones graves a la Ley Orgánica del Plantel, así como a sus reformas o reglamentos.
 
 IV.- Por dedicarse a actividades políticas dentro del Plantel.
 
@@ -143,9 +161,11 @@ XII.- Ejecutar las disposiciones dictadas por los órganos del Plantel.
 
 XIII.- Todas las demás facultades que le asigne el Reglamento de las Escuelas Secundarias, así como el que expresamente le deleguen el Ejecutivo y los Consejos del Colegio.
 
-###### Artículo 17.
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 1943)</small>
 
-En las faltas temporales del Director que excedan de cinco días y en las definitivas será el Consejo Directivo quién proponga al Gobierno del Estado la persona que deba sustituirlo.
+###### Art. 17.
+
+En las faltas temporales del director que excedan de cinco días y en las definitivas será el Consejo Directivo quien proponga al Gobierno del Estado la persona que deba substituirlo, en la forma establecida por el artículo 15.
 
 DE LOS PROFESORES
 
@@ -535,9 +555,11 @@ La reunión de todos los profesores, incluyendo a los Preparadores y Ayudantes, 
 
 Es obligatoria la asistencia de todos los Profesores, Preparadores y Ayudantes, a las Juntas Generales de Profesores; y por su falta no justificada, incurrirán en la sanción que señala el artículo 73 de este mismo Reglamento.
 
-###### Artículo 79.
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 1943)</small>
 
-El día de la apertura de labores, una vez terminada la ceremonia que señala el artículo 61 de este Reglamento, la Junta General de Profesores, la Sociedad de Alumnos, la Asociación de Empleados Administrativos y la Sociedad de Padres de Familia, procederán a elegir a sus representantes respectivos, que serán los que integren los Consejos Técnico y Directivo, y en la forma que este mismo Reglamento ordena.
+###### Art. 79.
+
+El día de apertura de labores, una vez terminada la ceremonia que señala el artículo 61 de este Reglamento, la Junta General de Profesores y la Asociación de Empleados Administrativos procederán a elegir a sus representantes respectivos en los Consejos Directivo y Técnico se elegirán a los representantes del sector Estudiantil; y se dará cuenta con la designación de la Asociación de Padres de Familia, tomando desde luego posesión de sus puestos los que hubieren sido electos o designados para formar parte de los respectivos consejos.
 
 ###### Artículo 80.
 
@@ -585,14 +607,8 @@ El Secretario General de Gobierno.
 
 Lic. JUAN FERNANDEZ ALBARRAN
 
-###### Artículo 3°.
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
-Los representantes de que habla el artículo anterior, serán designados en la Junta que se celebre el día en que las labores escolares se reanuden, de la manera siguiente:
+G.G. 30 DE ENERO DE 1943.
 
-a).- La Junta General de Profesores, en la sesión a que alude el cuerpo de este artículo, designará sus respectivos representantes.
-
-b).- Los representantes del sector estudiantil serán designados por la Sociedad de Alumnos en pleno y pertenecerán a distintos años de cada ciclo.
-
-c).- Separados de los Profesores, de los alumnos y de los padres de familia, los empleados administrativos designarán a su representante.
-
-d).- La Secretaría del Plantel dará aviso oportuno a la Sociedad de Padres de Familia, con el fin de que ésta, el día de la reapertura de los cursos escolares, designe también a aquel de sus miembros que haya de representar ante el Consejo.
+Estas reformas entrarán en vigor el día de su publicación en la Gaceta del Gobierno.
