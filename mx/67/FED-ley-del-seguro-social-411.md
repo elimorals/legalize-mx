@@ -4,7 +4,7 @@ identifier: "FED-ley-del-seguro-social-411"
 country: "mx"
 rank: "ley"
 publication_date: "1973-03-12"
-last_updated: "1976-12-31"
+last_updated: "1979-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=411&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1976.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE NOVIEMBRE DE 1979.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 12 de marzo de 1973.
 
@@ -1500,11 +1500,11 @@ Los trabajadores incorporados al sistema de porcentaje a que se refiere al artí
 
 El Instituto otorgará a los pensionados comprendidos en este capítulo, un aguinaldo anual equivalente a quince días del importe de la pensión que perciban.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1976)</small>
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1979)</small>
 
 ###### ARTICULO 168.
 
-La pensión de invalidez, de vejez o de cesantía en edad avanzada, no podrá ser inferior a mil pesos mensuales.
+La pensión de invalidez, de vejez o de cesantía en edad avanzada, no podrá ser inferior a mil seiscientos pesos mensuales.
 
 ###### ARTICULO 169.
 
@@ -2585,3 +2585,23 @@ Las pensiones por incapacidad permanente, total o parcial, que se encontraren re
 ###### ARTICULO SEPTIMO.
 
 El Instituto Mexicano del Seguro Social deberá efectuar el pago de las mejorías económicas consignadas en los artículos Segundo y Cuarto Transitorios de este Decreto, en un plazo no mayor de sesenta días a partir de la entrada en vigor del mismo.
+
+D.O.F. 26 DE NOVIEMBRE DE 1979.
+
+###### ARTICULO PRIMERO.
+
+Las pensiones por incapacidad permanente total, de invalidez, de vejez y de cesantía en edad avanzada ya otorgadas, inferiores a la cuantía mínima que establece esta reforma, se incrementarán hasta igualar esa cuantía a partir del 1o. de julio de 1979.
+
+Las pensiones de viudez, orfandad y de ascendientes, se incrementarán en la proporción que en cada caso corresponda.
+
+###### ARTICULO SEGUNDO.
+
+Las pensiones por incapacidad permanente parcial en curso de pago al día inmediato anterior a la fecha, en que entre en vigor este Decreto, con un mínimo del 50% de valuación, se incrementarán a partir del 1o. de julio de 1979, en la misma proporción en que se aumentaría, en los términos del artículo transitorio anterior, la pensión por incapacidad permanente total que sirvió de base para su cálculo.
+
+###### ARTICULO TERCERO.
+
+EI Instituto Mexicano del Seguro Social hará efectivas las mejorías derivadas del artículo transitorio anterior, en un plazo no mayor de sesenta días, a partir de la entrada en vigor de este Decreto.
+
+###### ARTICULO CUARTO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el "Diario Oficial" de la Federación.
