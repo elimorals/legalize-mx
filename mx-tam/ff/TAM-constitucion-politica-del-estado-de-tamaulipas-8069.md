@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1953-12-12"
+last_updated: "1954-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 1953.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 1954.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -73,9 +73,15 @@ III. Los hijos de padres tamaulipecos nacidos fuera del territorio del Estado y 
 
 ### CAPITULO III. De los Ciudadanos
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 1954)</small>
+
 ###### Art. 6o.
 
-Son ciudadanos del Estado los tamaulipecos de diez y ocho años de edad, si son casados o viudos, y los de veintiuno cualquiera que sea su estado civil, siempre que unos y otros tengan un modo honesto de vivir.
+Son Ciudadanos del Estado, los varones y mujeres que, teniendo la calidad de Tamaulipecos, reúnan además, los siguientes requisitos:
+
+I.- Haber cumplido 18 años, siendo casados, o 21 si no lo son.
+
+II.- Tener un modo honesto de vivir.
 
 ###### Art. 7o.
 
@@ -501,7 +507,7 @@ XIII. Expedir leyes para la jubilación de los maestros de instrucción pública
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
-XIV. Decretar pensiones en favor de las familias de los que hayan prestado servicios eminentes al Estado y a los empleados del mismo por jubilación.
+XIV.- Decretar pensiones en favor de las familias de los que hayan prestado servicios eminentes al Estado y a los empleados del mismo por jubilación.
 
 XV. Iniciar ante el Congreso General las leyes y decretos que sean de la competencia del Poder Legislativo de la Federación, así como la (sic) reformas o derogación de unas y otras, y secundar cuando lo estime conveniente, las iniciativas hechas por las Legislaturas de otros Estados.
 
@@ -1571,7 +1577,7 @@ Las cuentas del Gobierno y Municipales correspondientes al tiempo que no ha habi
 
 Dado en el Salón de Sesiones del H. Congreso del Estado de Tamaulipas, a los veintisiete días del mes de enero de mil novecientos veintiuno.
 
-Por el Décimocuarto Distrito Electoral, Donaciano de Lassaulx, Diputado Vicepresidente.
+Por el Décimocuarto Distrito Electoral, Donaciano de Lassaulx, Diputado Presidente.
 
 Por el Segundo Distrito Electoral, Ing. José F. Montesinos, Diputado Vicepresidente.
 
@@ -1766,3 +1772,7 @@ P.O. 12 DE DICIEMBRE DE 1953.
 > <small>(F. DE E. 19 DE DICIEMBRE DE 1953)</small>
 
 UNICO.-Este Decreto comenzará a surtir sus efectos a partir de la fecha de su expedición.
+
+P.O. 3 DE MARZO DE 1954.
+
+Transitorio:- Esta reforma comenzará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
