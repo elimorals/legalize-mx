@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-la-penitenciaria-del-estado-de-chihuahua-6612"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-05-25"
-last_updated: "1996-05-25"
+last_updated: "1998-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6612&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CHH"
 
 REGLAMENTO DE LA PENITENCIARIA DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 1998.
 
-Reglamento publicado en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 25 de mayo de 1996.
+Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 25 de mayo de 1996.
 
 REGLAMENTO DE LA PENITENCIARIA DEL ESTADO
 
@@ -111,6 +111,10 @@ Area de Procesados.- Es la destinada a los internos a los cuales se les está si
 
 Area de Sentenciados.- Es la destinada a los internos en contra de los cuales se haya dictado sentencia firme que los condene a permanecer privados de su libertad, los procesados no tendrán acceso al área de sentenciados ni éstos a la de procesados, ni siquiera a pretexto de la comisión de un nuevo delito, en cuyo caso, el sentenciado deberá seguir permaneciendo en dicha área.
 
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 1998)</small>
+
+Area de sentenciados Unidad de Bajo Riesgo.- La destinada a los internos de la misma situación jurídica del párrafo inmediato anterior y que de acuerdo con el estudio correspondiente del Consejo, exhiban un perfil de bajo riesgo.
+
 De Internos bajo protección.- Es la destinada a alojar a los internos que debido a su actuación en el exterior puedan ser sujetos de agresión en su perjuicio si fuesen destinados a los dormitorios de la población común.
 
 De Segregados.- Es la destinada a alojar temporalmente a los internos contra los cuales se establece la sanción prevista en la fracción IV y VI del Artículo 61, por contravenir alguna de las hipótesis previstas en el artículo 58 de este reglamento.
@@ -131,7 +135,7 @@ Area formativa.- Que comprende la escuela, biblioteca y talleres de capacitació
 
 Centro Femenil.- Es la destinada a alojar a las mujeres que se encuentran privadas de su libertad.
 
-Y de inimputable.- Es el área para alojar a los internos ininputables (sic), entendiéndose por ésto al interno que no reune los requisitos síquicos mínimos para valorar y dirigir su conducta.
+Y de inimputable.- Es el área para alojar a los internos ininputables, entendiéndose por ésto al interno que no reune los requisitos síquicos mínimos para valorar y dirigir su conducta.
 
 Las 10 últimas se encontrarán subdivididas en áreas de procesados y sentenciados, bien sea por su ubicación física o por su horario de labores en lugares tales como la escuela.
 
@@ -809,7 +813,9 @@ La Dirección dispondrá la forma de traslado y la escolta que lo acompañe, as�
 
 ### CAPITULO XV. DE LAS NORMAS ESPECIALES APLICABLES A LOS PROCESADOS Y SENTENCIADOS
 
-MODULO DE ALTA SEGURIDAD Y DE INTERNOS BAJO PROTECCION Y DE SEGREGADOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE JUNIO DE 1998)</small>
+
+MODULO DE ALTA SEGURIDAD Y DE INTERNOS BAJO PROTECCION, DE SEGREGADOS Y LA UNIDAD DE BAJO RIESGO
 
 ###### ARTICULO 104.
 
@@ -832,6 +838,12 @@ En el módulo de alta seguridad se prestará la atención técnica, médica, de 
 Con base en las acciones que desarrollen las secciones técnicas y de seguridad, se realizará seguimiento de los internos de los módulos de alta seguridad y segregados, y se hará su reclasificación, y en su caso, su asignación de habitación en las áreas de procesados o sentenciados de la población común, la cual, sólo podrá ser ordenada por el Director.
 
 Sin descuidar la seguridad extrema que requieren estos módulos, se instrumentará así mismo la capacitación para el trabajo y las propias labores de los internos
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 108
+
+Bis.- En la Unidad de Bajo Riesgo, serán alojados aquellos internos sentenciados en forma ejecutoriada que de acuerdo con el perfil que exhiban su valoración del Consejo Técnico Interdisciplinario, sean considerados en ese nivel. Tendrá su sede en el local de la antigua Penitenciaria del Estado, donde será aplicable en lo conducente el presente Reglamento.
 
 ### CAPITULO XVI. NORMAS ESPECIALES APLICABLES A MUJERES
 
@@ -866,3 +878,9 @@ SECRETARIO DE GOBIERNO
 LIC. JOSE L. FRANCO CARRILLO
 
 EFE (SIC) DEL DEPTO. DE GOBERNACION
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 6 DE JUNIO DE 1998.
+
+Estas adiciones al Reglamento entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
