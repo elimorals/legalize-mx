@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "1991-01-07"
+last_updated: "1991-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE ENERO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE NOVIEMBRE DE 1991.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -59,9 +59,11 @@ Integran la administración pública directa las siguientes dependencias: Secret
 
 Componen la administración pública paraestatal las siguientes entidades: organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones civiles asimiladas a dichas empresas en los términos de la presente Ley y fideicomisos públicos.
 
+> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+
 ###### ARTICULO 4o.
 
-El titular del Poder Ejecutivo del Estado tendrá directamente adscritas la Secretaría Particular, la Ayudantía y la Representación del Gobierno del Estado en el Distrito Federal. Además, podrá contar con las unidades de asesoría, de apoyo técnico y de coordinación de actividades prioritarias que se determinen de acuerdo con el presupuesto de egresos. Las atribuciones de estas unidades se especificarán en los ordenamientos jurídicos respectivos.
+El titular del Poder Ejecutivo del Estado tendrá directamente adscritas la Secretaría Particular, la Ayudantía y las Representaciones del Gobierno del Estado en el Distrito Federal y en otras localidades del Estado. Además, podrá contar con las unidades de asesoría, de apoyo técnico y de coordinación de actividades prioritarias que se determinen de acuerdo con el presupuesto de egresos. Las atribuciones de estas unidades se especificarán en los ordenamientos jurídicos respectivos.
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
@@ -159,9 +161,11 @@ Cuando exista duda respecto de la competencia de las dependencias para la atenci
 
 ### CAPITULO II. DE LA COMPETENCIA DE LAS DEPENDENCIAS DE LA ADMINISTRACION PUBLICA DIRECTA
 
+> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+
 ###### ARTICULO 21.
 
-El Procurador General de Justicia es representante legal del Poder Ejecutivo del Estado. La organización, funcionamiento, jurisdicción, competencia, facultades y obligaciones de la institución del Ministerio Público, se regirá por lo dispuesto en la Constitución Política del Estado, en la Ley Orgánica del Ministerio Público y en las demás leyes.
+El Procurador General de Justicia es representante legal del Poder Ejecutivo del Estado. La organización, funcionamiento, jurisdicción, competencia, facultades y obligaciones de la institución del Ministerio Público, se regirán por lo dispuesto en la Constitución Política del Estado, en la Ley Orgánica respectiva y en las demás leyes.
 
 ###### ARTICULO 22.
 
@@ -169,19 +173,27 @@ Para el estudio, planeación y despacho de los negocios del orden administrativo
 
 I.- Secretaría de Gobierno.
 
-II.- Secretaría de Planeación del Desarrollo.
+> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+
+II.- Secretaría de Planeación del Desarrollo y Gasto Público.
 
 III.- Tesorería General del Estado.
 
 IV.- Secretaría de la Contraloría General del Estado.
 
-V.- Secretaría de Fomento Educativo y Cultura.
+> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+
+V.- Secretaría de Educación y Cultura.
 
 VI.- Secretaría de Salud Pública.
 
-VII.- Secretaría de Infraestructura y Desarrollo Urbano.
+> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
 
-VIII.- Secretaría de Fomento Industrial y Comercio.
+VII.- Secretaría de Infraestructura Urbana y Ecología.
+
+> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+
+VIII.- Secretaría de Desarrollo Económico y Productividad.
 
 > <small>(REFORMADA, B.O. 28 DE MARZO DE 1988)</small>
 
@@ -192,6 +204,8 @@ X.- Secretaría de Fomento Ganadero.
 XI.- Secretaría de Fomento al Turismo.
 
 XII.- Oficialía Mayor.
+
+> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
 
 XIII.- Procuraduría General de Justicia del Estado de Sonora.
 
@@ -209,9 +223,13 @@ III.- Vigilar el cumplimiento y aplicación de la legislación estatal en materi
 
 IV.- Proporcionar asesoría jurídica a las dependencias del Ejecutivo del Estado.
 
-V.- Proponer al Ejecutivo del Estado los programas relativos a la protección de los habitantes, al orden público, a la prevención de delitos y a la readaptación social de los delincuentes.
+> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
 
-VI.- Administrar los Centros de Readaptación Social.
+V.- Conducir las actividades del Ejecutivo Estatal en materia de protección civil y, en los términos que señalen las leyes, las relativas al orden y a la tranquilidad públicos, así como a la prevención de delitos y de faltas de policía y buen gobierno.
+
+> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+
+VI.- Proponer al Ejecutivo del Estado los programas relativos a la readaptación social de los delincuentes y administrar los Centros de Readaptación Social.
 
 VII.- Vigilar el cumplimiento de la ley que crea el Consejo Tutelar de Menores del Estado de Sonora.
 
@@ -227,7 +245,9 @@ XII.- Vigilar el cumplimiento de la Ley de Profesiones del Estado y organizar su
 
 XIII.- Intervenir en la integración de las Juntas para el Progreso y Bienestar en la Entidad, así como coordinar, supervisar y vigilar sus programas.
 
-XIV.- Intervenir y ejercer la vigilancia que en materia electoral le señalen las leyes y los convenios que para este efecto se celebren.
+> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+
+XIV.- Fomentar el desarrollo político, e intervenir y ejercer la vigilancia que en materia electoral le señalen las leyes y los convenios que para este efecto se celebren.
 
 XV.- Vigilar, en auxilio de las autoridades federales y municipales, el cumplimiento de las leyes en materia de cultos.
 
@@ -237,17 +257,13 @@ XVII.- Intervenir en los procedimientos de expropiación por causa de utilidad p
 
 XVIII.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 1986)
 
-> <small>(REFORMADA, B.O. 28 DE MARZO DE 1988)</small>
+> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
 
-XIX.- Proponer las políticas que en materia de tenencia de la tierra, sean facultad del Gobernador del Estado.
+XIX.- Coordinar y vigilar el cumplimiento de las disposiciones en materia de notariado e imponer las sanciones por infracciones a las mismas, sin perjuicio de las atribuciones constitucionales del Ministerio Público; asimismo, administrar el Archivo de Notarías y autorizar los protocolos que deban utilizar los Notarios Públicos.
 
-> <small>(ADICIONADA, B.O. 28 DE MARZO DE 1988)</small>
+XX.- (DEROGADA, B.O. 7 DE NOVIEMBRE DE 1991)
 
-XX.- Auxiliar al Gobernador del Estado, en el ejercicio de las atribuciones que a ésta le confiere la legislación agraria.
-
-> <small>(ADICIONADA, B.O. 28 DE MARZO DE 1988)</small>
-
-XXI.- Promover y realizar, por sí o en coordinación con las dependencias y entidades competentes, acciones en materia de análisis de la problemática agraria, de organización y capacitación campesina.
+XXI.- (DEROGADO, B.O. 7 DE NOVIEMBRE DE 1991)
 
 > <small>(ADICIONADA, B.O. 28 DE MARZO DE 1988)</small>
 
@@ -255,9 +271,11 @@ XXII.- Las demás que le señalan la Constitución Política del Estado, las ley
 
 Los Subsecretarios de Gobierno tendrán las facultades y obligaciones que les señale el Reglamento Interior y suplirán al Secretario en el orden de precedencia que se fije en el mismo Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+
 ###### ARTICULO 24.
 
-A la Secretaría de Planeación del Desarrollo le corresponden las facultades y obligaciones siguientes:
+A la Secretaría de Planeación del Desarrollo y Gasto Público le corresponden las facultades y obligaciones siguientes:
 
 I.- Proyectar y coordinar las actividades de planeación del desarrollo estatal, así como promover las acciones que de su instrumentación se deriven.
 
@@ -283,6 +301,18 @@ XI.- Autorizar a las dependencias y entidades de la administración pública est
 
 XII.- Autorizar, previo acuerdo con el Gobernador, las ampliaciones y reducciones de los recursos asignados a los programas a cargo de las dependencias y de las entidades incorporadas al presupuesto de egresos del Estado. Asimismo, opinar, a solicitud de la coordinadora de sector, sobre las modificaciones presupuestales de las entidades no incorporadas al presupuesto de egresos mencionado.
 
+> <small>(ADICIONADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+
+XII-A.- Realizar los trámites y registros que requiera la vigilancia, seguimiento y evaluación del ejercicio del gasto público estatal y del presupuesto de egresos.
+
+> <small>(ADICIONADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+
+XII-B.- Autorizar el pago de los gastos que afecten el Presupuesto de Egresos del Estado, de conformidad con los programas, presupuestos y calendarios financieros aprobados.
+
+> <small>(ADICIONADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+
+XII-C.- Establecer y operar el sistema de contabilidad gubernamental del Gobierno del Estado, con excepción de la contabilidad de las entidades de la administración pública paraestatal no incorporadas al Presupuesto de Egresos del Estado.
+
 XIII.- Verificar que los subsidios y transferencias de fondos, realizados por el Ejecutivo del Estado, con cargo a su propio presupuesto, a favor de los Municipios o de instituciones de los sectores social y privado, se apliquen en los términos establecidos en los programas aprobados al efecto.
 
 XIV.- Normar la planeación, programación, presupuestación, ejecución y evaluación de las obras públicas que realicen o contraten las dependencias y entidades de la administración pública estatal, conforme a las leyes respectivas.
@@ -301,15 +331,17 @@ XIX.- Establecer las normas y procedimientos para la organización y funcionamie
 
 XX.- Normar y coordinar los servicios de informática de las dependencias y entidades de la administración pública estatal, así como establecer las especificaciones técnicas para la selección, adquisición y arrendamiento de los equipos de computación relacionados con el Sistema Estatal de Información y vigilar el cumplimiento de las mismas.
 
-XXI.- Integrar conjuntamente con la Tesorería General del Estado la Cuenta Pública del Gobierno del Estado.
+> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+
+XXI.- Integrar la Cuenta Pública del Gobierno del Estado y someterla a la consideración del Gobernador para los efectos constitucionales correspondientes.
 
 XXII.- Integrar la información necesaria para la formulación del informe que, sobre el estado que guarda la administración pública, debe rendir el Gobernador del Estado.
 
 XXIII.- Asesorar a los Municipios del Estado en la instrumentación de métodos y sistemas de planeación, programación, presupuestación, evaluación e informática.
 
-> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
 
-XXIV.- Autorizar en consulta con la Secretaría de la Contraloría General del Estado, los catálogos de cuentas para la contabilidad del gasto público estatal de las entidades no incorporadas al presupuesto de egresos, así como emitir las normas e instructivos que regulen el registro contable del referido gasto y consolidar los estados financieros que emanen de las contabilidades señaladas.
+XXIV.- Autorizar en consulta con la Secretaría de la Contraloría General del Estado, los catálogos de cuentas para la contabilidad del gasto público estatal de las entidades, y consolidar los estados financieros que emanen de las contabilidades de las mismas.
 
 > <small>(ADICIONADA, B.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -325,11 +357,11 @@ II.- Recaudar los impuestos, derechos, productos y aprovechamientos y las contri
 
 III.- Determinar los criterios y montos de los estímulos fiscales, estudiar y proyectar sus efectos en los ingresos del Estado y evaluar los resultados conforme a sus objetivos.
 
-IV.- Proyectar y calcular los ingresos del Estado, considerando las necesidades del gasto público estatal que prevea la Secretaría de Planeación del Desarrollo, la utilización del crédito público y la sanidad financiera de la administración pública estatal.
+> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
 
-> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1989)</small>
+IV.- Proyectar y calcular los ingresos del Estado, considerando las necesidades del gasto público estatal que prevea la Secretaría de Planeación del Desarrollo y Gasto Público, la utilización razonable del crédito público y la sanidad financiera de la administración pública estatal.
 
-V.- Registrar la contabilidad general del Gobierno del Estado, con excepción de la contabilidad de las entidades de la Administración Pública Paraestatal no incorporadas al presupuesto de egresos del Estado, y consolidar los estados financieros que emanen de las contabilidades de las entidades incorporadas en el referido presupuesto.
+V.- (DEROGADA, B.O. 7 DE NOVIEMBRE DE 1991)
 
 VI.- Registrar las operaciones en que se haga uso del crédito público.
 
@@ -337,9 +369,13 @@ VII.- Ejecutar los convenios que en materia impositiva se celebren con la Federa
 
 VIII.- Vigilar el estricto cumplimiento de las leyes, reglamentos y otras disposiciones de carácter fiscal; practicar visitas de inspección y auditorias a causantes en los términos de los ordenamientos hacendarios correspondientes.
 
-IX.- Custodiar los fondos y valores del Estado y los que reciba para fines específicos.
+> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
 
-X.- Suscribir los documentos para el pago de los gastos conforme a los programas y presupuestos aprobados, así como los demás relativos al ejercicio de sus atribuciones.
+IX.- Concentrar en la Pagaduría General del Gobierno del Estado, y custodiar por conducto de ésta, todos los fondos, valores e ingresos del Estado, así como los que se reciban para fines específicos, y establecer y operar los registros necesarios que provean la información de la concentración diaria.
+
+> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+
+X.- Cubrir con cargo a las partidas respectivas del Presupuesto de Egresos del Estado, las órdenes de pago correspondientes que se expidan en el ejercicio del gasto público estatal.
 
 XI.- Representar a la Hacienda Pública por delegación del Gobernador del Estado, en los términos de la fracción XIX del Artículo 79 de la Constitución Política Local.
 
@@ -349,7 +385,9 @@ XIII.- Proporcionar la asesoría que le sea solicitada por los Ayuntamientos y l
 
 XIV.- Efectuar los estudios técnicos catastrales, fijar los valores de los predios localizados en el territorio del Estado y mantener actualizado el valor de los mismos, con apoyo de los Municipios en los términos de los convenios respectivos.
 
-XV.- Elaborar e integrar, conjuntamente con la Secretaría de Planeación del Desarrollo, la Cuenta Pública del Gobierno del Estado y someterla a la consideración del Gobernador para los efectos constitucionales correspondientes.
+> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+
+XV.- Organizar y vigilar el ejercicio de las funciones del Registro Público de la Propiedad, sin perjuicio de las atribuciones constitucionales del Ministerio Público.
 
 > <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
@@ -417,9 +455,11 @@ XIX.- Proporcionar asesoría a los ayuntamientos, en las materias de control gub
 
 XX.- Las demás que le señalen las leyes y reglamentos vigentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+
 ###### ARTICULO 27.
 
-A la Secretaría de Fomento Educativo y Cultura le corresponden las facultades y obligaciones siguientes:
+A la Secretaría de Educación y Cultura le corresponden las facultades y obligaciones siguientes:
 
 I.- Proponer las políticas y ejecutar los programas relativos al fomento de la educación, la cultura, la recreación y la investigación.
 
@@ -519,9 +559,11 @@ XXII.- Promover, organizar y participar en conferencias, convenciones, encuentro
 
 XIII.- Las demás que le confieran las leyes y reglamentos vigentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+
 ###### ARTICULO 29.
 
-A la Secretaría de Infraestructura y Desarrollo Urbano le corresponden las facultades y obligaciones siguientes:
+A la Secretaría de Infraestructura Urbana y Ecología le corresponden las facultades y obligaciones siguientes:
 
 I.- Proponer las políticas y ejecutar los programas relativos a asentamientos humanos, equipamiento urbano, agua potable y alcantarillado, vivienda, ecología y comunicaciones.
 
@@ -567,9 +609,11 @@ XVII.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 1986)
 
 XVIII.- Las demás que le señalen las leyes y reglamentos vigentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+
 ###### ARTICULO 30.
 
-A la Secretaría de Fomento Industrial y Comercio le corresponden las facultades y obligaciones siguientes:
+A la Secretaría de Desarrollo Económico y Productividad le correspondan las facultades y obligaciones siguientes:
 
 I.- Proponer las políticas y ejecutar los programas relativos al fomento de la industria, el comercio, la minería y la pesca.
 
@@ -589,7 +633,9 @@ VIII.- Fomentar y apoyar las acciones e inversiones tendientes a la racional exp
 
 IX.- Promover y apoyar el desarrollo de la infraestructura pesquera, la racional explotación y el consumo de los recursos pesqueros.
 
-X.- Fomentar la organización y constitución de toda clase de sociedades cooperativas, así como otorgar la asistencia técnica y administrativa correspondiente.
+> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+
+X.- Promover, orientar y fomentar el desarrollo de una política estatal de productividad en el Estado, apoyando la realización de estudios y proyectos que tiendan a este objeto, considerando todas las formas de organización social.
 
 XI.- Promover y apoyar la investigación tecnológica industrial, minera y pesquera, así como fomentar su divulgación.
 
@@ -597,7 +643,9 @@ XII.- Promover que los créditos destinados a la industria, minería, pesca y co
 
 XIII.- Organizar y patrocinar exposiciones, ferias y congresos de carácter industrial, comercial, artesanal, minero y pesquero.
 
-XIV.- Asesorar a los Municipios en materia industrial, comercial, minera, pesquera, artesanal y de fomento cooperativo, cuando así lo soliciten los Ayuntamientos.
+> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+
+XIV.- Asesorar a los Municipios en materia industrial, comercial, turística, minera, pesquera y artesanal, cuando así lo soliciten los Ayuntamientos.
 
 XV.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 1986)
 
@@ -623,11 +671,15 @@ VI.- Fomentar y apoyar la conservación y preservación de suelos agrícolas y �
 
 VII.- Formular el inventario de los recursos e infraestructura agrícola, frutícola y forestal existentes en el Estado, promoviendo su explotación racional y eficiente.
 
-VIII.- Promover y apoyar la industrialización de los productos agrícolas, frutícolas y forestales que se generen en la Entidad, en coordinación con la Secretaría de Fomento Industrial y de Comercio.
+> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+
+VIII.- Promover y apoyar la industrialización y comercialización de los productos agrícolas, frutícolas y forestales que se generen en la Entidad, en coordinación con la Secretaría de Desarrollo Económico y Productividad.
 
 IX.- Fomentar y controlar los servicios agrícolas que establezca el Estado, tales como: distribución de semillas mejoradas, fertilizantes, árboles frutales y centrales de maquinaria, entre otros.
 
-X.- Fomentar programas de reforestación en coordinación con la Secretaría de Infraestructura y Desarrollo Urbano.
+> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+
+X.- Fomentar programas de reforestación en coordinación con la Secretaría de Infraestructura Urbana y Ecología.
 
 XI.- Proponer, apoyar y ejecutar la realización de obras de infraestructura agrícola, en cooperación con el Gobierno Federal, los Municipios y las organizaciones de productores.
 
@@ -671,7 +723,9 @@ V.- Promover que el crédito ganadero se oriente hacia los renglones prioritario
 
 VI.- Proponer, apoyar y ejecutar las obras y servicios pecuarios, por sí o en cooperación con el Gobierno Federal y con los Gobiernos Municipales, así como con la participación de los productores.
 
-VII.- Aplicar y cumplir las disposiciones de las Leyes de Ganadería del Estado de Sonora y de Fomento y Defensa de la Ganadería.
+> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+
+VII.- Aplicar y cumplir las disposiciones de la Ley de Ganadería para el Estado de Sonora.
 
 VIII.- Realizar campañas permanentes para prevenir y combatir las plagas y enfermedades que atacan a las especies animales del Estado.
 
@@ -771,9 +825,13 @@ XV.- (DEROGADA, B.O. 19 DE JUNIO DE 1989)
 
 XVI.- (DEROGADA, B.O. 19 DE JUNIO DE 1989)
 
-XVII.- Coordinar y vigilar el cumplimiento de las disposiciones en materia de notariado e imponer las sanciones por infracciones a las mismas, sin perjuicio de las atribuciones constitucionales del Ministerio Público; administrar el Archivo de Notarías y autorizar los protocolos que deban utilizar los Notarios Públicos.
+> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
 
-XVIII.- Organizar y vigilar el ejercicio de las funciones del Registro Civil y del Registro Público de la Propiedad y de Comercio, sin perjuicio de las atribuciones constitucionales del Ministerio Público.
+XVII.- Organizar, conducir y supervisar los eventos especiales y actos cívicos que lleve a cabo el Gobierno del Estado.
+
+> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+
+XVIII.- Organizar y vigilar el ejercicio de las funciones del Registro Civil, sin perjuicio de las atribuciones constitucionales del Ministerio Público.
 
 XIX.- Llevar el registro de autógrafos y legalizar las firmas de funcionarios del Estado, de los Municipios, de las instituciones educativas y, en general, de las personas que expidan documentos públicos.
 
@@ -811,11 +869,11 @@ La administración de los organismos descentralizados estará a cargo de un órg
 
 El órgano de gobierno será presidido por el titular de la dependencia coordinadora del sector, en el que se encuentre agrupado el organismo descentralizado cuando por disposición expresa del ordenamiento jurídico que cree el citado organismo, dicha presidencia no corresponda al titular del Poder Ejecutivo.
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 1991)</small>
 
 ###### ARTICULO 38.
 
-La Tesorería General del Estado y la Secretaría de Planeación del Desarrollo, tendrán miembros en los órganos de gobierno de los organismos descentralizados. También participarán, en dichos órganos, las otras dependencias y entidades, en la medida que tengan relación con el objeto del organismo descentralizado de que se trate.
+La Tesorería General del Estado y la Secretaría de Planeación del Desarrollo y Gasto Público, tendrán miembros en los órganos de gobierno de los organismos descentralizados. También participarán, en dichos órganos, las otras dependencias y entidades, en la medida que tengan relación con el objeto del organismo descentralizado de que se trate.
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
@@ -859,11 +917,11 @@ Los fideicomisos públicos deberán contar con una estructura orgánica análoga
 
 En los contratos constitutivos de fideicomisos públicos, cuando el fideicomitente sea el Gobierno del Estado, se deberá reservar a éste, la facultad expresa de revocarlos, sin perjuicio de los derechos que correspondan a los fideicomisarios o a terceros, salvo que se trate de fideicomisos constituidos por mandato de la Ley, que la naturaleza de su objeto no lo permita o que se constituyan con recursos de las entidades paraestatales.
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 1991)</small>
 
 ###### ARTICULO 44.
 
-La Secretaría de Planeación del Desarrollo, previa opinión de la dependencia coordinadora del sector respectivo, propondrá al Gobernador del Estado, para su determinación, la fusión, disolución, liquidación o extinción de las entidades de la administración pública paraestatal, cuando dejen de cumplir el objeto o fin para los que fueron creadas, o cuando su funcionamiento no responda a las estrategias y orientaciones del Plan Estatal de Desarrollo y de los programas derivados de éste, o en caso de que su operación resulte contraria al interés público.
+La Secretaria de Planeación del Desarrollo y Gasto Público, previa opinión de la dependencia coordinadora del sector respectivo, propondrá el Gobernador del Estado, para su determinación, la fusión, disolución, liquidación o extinción de las entidades de la administración pública paraestatal, cuando dejen de cumplir el objeto o fin para los que fueron creadas, o cuando su funcionamiento no responda a las estrategias y orientaciones del Plan Estatal de Desarrollo y de los programas derivados de éste, o en caso de que su operación resulte contraria al interés público.
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
@@ -917,7 +975,9 @@ Dichos programas, que constituirán la asunción de compromisos que deben alcanz
 
 Las entidades a que se refiere este Título, para cada ejercicio fiscal, deberán elaborar, conforme a los lineamientos generales que establezca la Tesorería General del Estado, sus programas financieros, los cuales deberán expresar, enunciativamente, los fondos propios, las aportaciones de capital y la contratación de créditos. Estos programas deberán contener, además, los criterios conforme a los cuales se ejecutarán los mismos en cuanto a montos, costos reales, plazos, garantías y avales.
 
-Asimismo, dichas entidades deberán formular, a parir de sus programas anuales, sus presupuestos anuales de egresos. En estas actividades, las entidades de la administración pública paraestatal se sujetarán a las proyecciones y cálculos que en ejercicio de sus facultades, realice la Secretaría de Planeación del Desarrollo, y a los lineamientos generales que en materia de gasto establezca dicha dependencia.
+> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+
+Asimismo, dichas entidades deberán formular, a partir de sus programas anuales, sus presupuestos anuales de egresos. En estas actividades, las entidades de la administración pública paraestatal se sujetarán a las proyecciones y cálculos que en ejercicio de sus facultades, realice la Secretaría de Planeación del Desarrollo y Gasto Público, y a los lineamientos generales que en materia de gasto establezca dicha dependencia.
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
@@ -933,11 +993,11 @@ Sin perjuicio de lo dispuesto en otros ordenamientos jurídicos, las entidades a
 
 Por lo que se refiere a la percepción de subsidios y transferencias, los recibirán de la Tesorería General del Estado en los términos que se fijen en los presupuestos de egresos anuales del Estado, debiendo manejarlos y administrarlos por sus propios órganos, y sujetarse a los controles e informes respectivos, de conformidad con los ordenamientos aplicables.
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 1991)</small>
 
 ###### ARTICULO 53.
 
-Las relaciones entre el Ejecutivo Estatal y las entidades, para fines de congruencia global de la administración pública paraestatal, con el Sistema Estatal de Planeación Democrática y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación se llevarán a cabo en la forma y términos que dispongan los ordenamientos jurídicos respectivos, por conducto de la Tesorería General del Estado y las Secretarías de Planeación del Desarrollo y de la Contraloría General del Estado, sin perjuicio de las atribuciones que competen a las coordinadoras del sector.
+Las relaciones entre el Ejecutivo Estatal y las entidades, para fines de congruencia global de la administración pública paraestatal, con el Sistema Estatal de Planeación Democrática y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación se llevarán a cabo en la forma y términos que dispongan los ordenamientos jurídicos respectivos, por conducto de la Tesorería General del Estado y de las Secretarías de Planeación del Desarrollo y Gasto Público y de la Contraloría General del Estado, sin perjuicio de las atribuciones que competen a las coordinadoras de sector.
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
@@ -953,11 +1013,11 @@ Los señalados reglamentos interiores establecerán las bases de organización d
 
 En su operación, las entidades de la administración pública paraestatal deberán proporcionar, a las demás entidades del sector donde se encuentren agrupadas, la información y datos que les soliciten, así como los que les requieran las dependencias de la administración pública directa.
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+(REFORMADO PRIMER PARRAFO, B.O. 7 DE NOVIEMBRE DE 1991)(F. DE E., B.O. 15 DE ABRIL DE 1992)
 
 ###### ARTICULO 56.
 
-Las entidades a que se refiere esta Ley, deberán inscribirse en el registro de la administración pública paraestatal que llevará la Secretaría de Planeación del Desarrollo.
+Las entidades a que se refiere esta Ley, deberán inscribirse en el registro de la administración pública paraestatal que llevará la Secretaría de Planeación del Desarrollo y Gasto Público.
 
 Los Directores Generales de dichas entidades, o sus equivalentes, que no cumplan con esta obligación, serán responsables en los términos de la Ley.
 
@@ -1148,3 +1208,15 @@ B.O. 7 DE ENERO DE 1991.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 7 DE NOVIEMBRE DE 1991.
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las facultades otorgadas por cualquier ordenamiento jurídico a las Secretarías de Planeación del Desarrollo, de Fomento Educativo y Cultura, de Infraestructura y Desarrollo Urbano y de Fomento Industrial y Comercio, se entenderán conferidas, respectivamente, a las Secretarías de Planeación del Desarrollo y Gasto Público, de Educación y Cultura, de Infraestructura Urbana y Ecología y de Desarrollo Económico y Productividad, denominación que a cada una de dichas dependencias asigna esta ley.
+
+Igualmente, las funciones y recursos humanos, materiales y financieros, relacionados con las atribuciones que por virtud de esta ley, se transfieren a una dependencia diversa a la que anteriormente estaban asignados, pasarán a la dependencia competente conforme a este ordenamiento.
