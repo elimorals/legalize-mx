@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1979-02-03"
+last_updated: "1979-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 3 DE FEBRERO DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1979.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976
 
@@ -135,9 +135,11 @@ TARIFA
 
 A) Pequeña Propiedad.
 
-a) Tasa: Por terrenos de cultivo, 8 al millar anual sobre el valor catastral de los mismos, ya se trate de riego o de temporal.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
-b) Tasa: Por terrenos de agostadero, al año, por hectárea primera categoría $0.1925; tercera categoría $o. 1225.
+a) Tasa: Por terrenos de cultivos y de agostadero, el 8 al millar anual sobre el valor catastral de los mismos.
+
+b) (DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)
 
 B) Terrenos de Superficie indeterminada.
 
@@ -157,7 +159,9 @@ V.- Tratándose de predios rústicos, ejidales, comunales, aprovechados para la 
 
 VI.- Tratándose de plantas de beneficio y establecimientos metalúrgicos, se aplicará el 5 al millar anual sobre el valor de las fincas de la maquinaria.
 
-En ningún caso el impuesto será menor de $20.00 al año.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
+En ningún caso el impuesto será menor de $60.00 al año.
 
 ###### Artículo 11.
 
@@ -289,9 +293,13 @@ El valor catastral será determinado por la Tesorería General del Estado, el cu
 
 Todos los predios del Estado, aún los que estén beneficiados por las exenciones, deberán ser objeto del avalúo; excepto los predios rústicos ejidales aprovechados para la producción agropecuaria.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
-La Tesorería General del Estado formulará tablas generales de valores para unidades tipo de edificación y planos de cada ciudad con valores de calle, para ser aplicados a los respectivos lotes tipo. La determinación del lote tipo, se hará de acuerdo con la naturaleza de la región, destino de los predios y sus dimensiones dominantes, pudiéndose hacer divisiones de cada región en secciones con tipos diferentes en cada una. Las tablas y planos a que se refiere este apartado, deberán publicarse en el Boletín Oficial del Estado y entrar en vigor a partir de la fecha que se señale en cada uno de los acuerdos respectivos.
+La Tesorería General del Estado formulará las tablas generales de valores para unidades tipo de edificación y planos de cada ciudad con valores de calle, para ser aplicados a los respectivos lotes tipo. La determinación del lote tipo, se hará de acuerdo con la naturaleza de la región, destino de los predios y sus dimensiones dominantes, pudiendo hacer divisiones de cada región en secciones con tipos diferentes en cada una. Así mismo, elaborará la tabla conteniendo las clasificaciones y valores para los predios rústicos de acuerdo con las categorías y clases que sean necesarias, considerando separadamente las tierras agrícolas abiertas al cultivo, con riego por gravedad, por bombeo o de temporal, de las de agostadero.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 31 DE DICIEMBRE DE 1979)</small>
+
+Las tablas y planos a que se refiere este Artículo, deberán publicarse en el Boletín Oficial del Estado y entrar en vigor a partir de la fecha que se señale en cada uno de los acuerdos respectivos.
 
 ###### Artículo 17.
 
@@ -717,41 +725,45 @@ b).- Que no exista inconformidad alguna pendiente de resolver, en relación con 
 
 Expedido un certificado de no adeudo de un predio, la Tesorería General del Estado no podrá cobrar al causante Impuesto predial alguno que se hubiere causado con anterioridad a la fecha de la expedición del certificado, sin perjuicio de la responsabilidad en que hubiere incurrido el empleado que lo pidió.
 
-### Capítulo Segundo. Del Impuesto Estatal sobre Ingresos Mercantiles
+> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
+### Capítulo Segundo. Del Impuesto General al Comercio, Industria y Prestación de Servicios
 
 Del Objeto
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
 ###### Artículo 69.
 
-El Impuesto sobre Ingresos Mercantiles grava, en los términos del artículo 81 de la Ley Federal del Impuesto sobre Ingresos Mercantiles y la base de tercera del Convenio de Coordinación celebrado entre el estado de Sonora y la Secretaría de Hacienda y Crédito Público, los ingresos que se obtengan:
+Es objeto del Impuesto General al Comercio, Industria y Prestación de Servicios, en los términos de la Ley del Impuesto al Valor Agregado, los ingresos que se obtengan:
 
-I.- Por enajenación de bienes;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
-II.- Por prestación de servicios;
+I.- Por enajenación de Bienes.
 
-III.- Por arrendamiento de bienes;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
-IV.- Por distribución de bienes; y
+II.- Por Prestación de Servicios.
 
-V.- Por bienes producidos en el Estado, cuando los ingresos se perciban fuera de la Entidad.
+III.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
+
+IV.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
+
+V.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
 ###### Artículo 70.
 
 Son ingresos gravados en los términos de la fracción I del Artículo 69 de este capítulo:
 
-I.- Los obtenidos en puestos ubicados en la vía pública y en los mercados públicos, que reúnan los siguientes requisitos:
+I.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
-a).- Que causen los derechos municipales de mercados;
-
-b).- Que no enajenen bebidas que contengan alcohol; excepto cerveza en envase cerrado; y
-
-c).- Que su activo en mercancías no exceda de $ 20,000.00 teniendo en cuenta las existencias en el puesto y las guardadas en el domicilio del propietario o en bodega o en cualquier otro local.
-
-II.- Los que perciban los vendedores ambulantes;
+II.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
 III.- Los que procedan de la enajenación de los siguientes artículos:
 
-a).- Maíz, frijol, arroz, trigo, café, ajonjolí, cártamo, soya, algodonero, avena, cacao, cebada y calabaza, siempre que no se modifique su forma, estado o composición;
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
+a).- Vegetales no industrializados, en operación de segunda o ulteriores manos;
 
 b).- Azúcar, mascabado, piloncillo y sal;
 
@@ -759,61 +771,59 @@ c).- Carnes en estado natural, frescas, refrigeradas o congeladas, destinadas a 
 
 d).- Pescados y mariscos en estado natural, frescos, refrigerados o congelados, siempre que no se consuman en el establecimiento que los expende;
 
-e).- Aves de corral y huevo, en operaciones subsecuentes a las de primera mano;
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
-f).- Legumbres, verduras y frutas en estado natural, siempre que no se modifique su forma, estado o composición, en operaciones subsecuentes a las de primera mano;
+e).- Huevo, en operaciones subsecuentes a las de primera mano;
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1977)</small>
+f).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)
 
-g).- Tortillas, masa de nixtamal, harina de maíz, pan, excepto pastel, y pastas alimenticias sin relleno en ventas de primera mano que produzcan los propios fabricantes que las expendan;
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
+g).- Tortillas, masa, harina y pan, sean de maíz o trigo. En tratándose de harina de trigo sólo se gravarán operaciones de segunda o ulteriores manos;
 
 h).- Leche natural, condensada, evaporada, deshidratada o enlatada;
 
 i).- Carbón vegetal;
 
-j).- Huaraches y sombreros de palma;
+j).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)
 
-k).- Aguas purificadas, destiladas o potables, no gaseosas ni compuestas, así como hielo con excepción del anhídrido carbónico;
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
+k).- Aguas purificadas, destiladas, o potables, no gaseosas ni compuestas, excepto hielo;
 
 l).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1977)
 
-> <small>(ADICIONADA, B.O. 4 DE JUNIO DE 1977)</small>
+ll).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)
 
-II).- Gas industrial, excepto el anhídrido carbónico;
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
-m).- Otros artículos alimenticios que no causen el impuesto Federal sobre Ingresos Mercantiles.
+m).- Animales, siempre que no estén gravados con impuestos estatales sobre la producción, explotación o venta de primera mano, alimentos balanceados para éstos, incluyendo las materias primas necesarias para producirlos, y productos de medicina veterinaria;
 
-IV.- Los ingresos obtenidos en los establecimientos comúnmente denominados tendajones, estanquillos o misceláneas, que reúnan los requisitos siguientes:
+IV.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
-a).- Que estén atendidos directamente por el propietario;
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
-b).- Que su activo no exceda de $ 20,000.00 ni sus ventas anuales de $ 60,000.00;
-
-c).- Que preferentemente enajenen productos alimenticios;
-
-d).- Que las ventas se efectúen directamente al consumidor;
-
-e).- Que no expendan bebidas alcohólicas, excepto cerveza.
+V.- Los obtenidos por la enajenación de embarcaciones destinadas a la explotación pesquera, maquinaria y equipo que únicamente sean susceptibles de ser utilizados en la agricultura, ganadería y pesca, así como los fertilizantes, defoliantes, insecticidas, herbicidas, fungicidas y otros similares. No quedan comprendidas en esta fracción, la maquinaria y equipo utilizados en la industrialización de productos agrícolas, ganaderos y de pesca.
 
 ###### Artículo 71.
 
 Son ingresos gravados en los términos de la Fracción II del artículo 69 de ésta (sic) capítulo:
 
-I.- Los obtenidos por la maquila de nixtamal y prestación de servicio de: pasteurización de leche;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
-II.- Los que perciban los talleres de manufacturas, reposición o compostura, ubicados en puestos semifijos o fijos en el interior o exterior de los mercados públicos y talleres familiares que se exploten en lugares que también se usen como casa habitación, que reúnan los requisitos siguientes:
+I.- Los obtenidos por la maquila de harina o masa, de maíz o trigo y los de pasteurización de leche
 
-a).- Que la herramienta y maquinaria que usen, así como el valor de las materias primas o materiales accesorios que empleen, sean de su propiedad y no excedan de $ 20,000.00; y
+II.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
-b).- Que no ocupen personas que estén sujetas a contrato de trabajo y que los mismos sean atendidos personalmente por el propietario.
+III.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
-III.- Los obtenidos en los cafés, fondas, loncherías y cocinas económicas, que reúnan los requisitos siguientes:
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
-a).- Que su activo no exceda de $ 20,000.00, ni sus ventas anuales de $ 60,000.00; y
+IV.- Los obtenidos por las empresas porteadoras de personas, que operen con concesión estatal o municipal;
 
-b).- Que no expandan bebidas alcohólicas, excepto cerveza.
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
-IV.- Los obtenidos por las empresas porteadoras de personas o cosas que operen con concesión estatal o municipal.
+V.- Los que proceden de servicios prestados directamente a los agricultores o ganaderos, por concepto de perforaciones de pozos, alumbramiento y formación de retenes de agua, desmontes y caminos en el interior de las fincas, preparación de terrenos, riego y fumigación agrícola; cosecha y recolección; así como vacunación, desinfección e inseminación artificial de ganado, siempre que sean indispensables para la realización de actividades agrícolas o ganaderas.
 
 ###### Artículo 72.
 
@@ -847,13 +857,13 @@ De las Tasas
 
 La tasa del impuesto será:
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
-I.- De 1.4% para los ingresos comprendidos en los Artículos 70, excepción de los señalados en el inciso k) y ll) de la fracción III, y 71, excepción de los señalados en la fracción IV; y
+I.- Del 1.4% para los ingresos comprendidos en los artículos 70, excepción de los señalados en el inciso k) de la fracción III, y 71, excepción de los señalados en la fracción IV; y
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
-II.- De 1.8% para los ingresos a que aluden los Artículos 70, en su fracción III inciso k) y ll), y 71 en su fracción IV.
+II.- De 1.8% para los ingresos a que aluden los artículos 70 en su fracción III inciso k), y 71 en su fracción IV.
 
 ###### Artículo 78.
 
@@ -865,21 +875,7 @@ De los Ingresos Exentos
 
 ###### Artículo 79.
 
-No causan impuesto:
-
-I.- Los ingresos que provengan de la edición, impresión, venta o alquiler de libros, periódicos, revistas o de láminas geográficas, anatómicas o artísticas y de música impresa;
-
-II.- Los ingresos obtenidos por las Sociedades Cooperativas de Consumo, únicamente con motivo de la enajenaciones hechas a sus socios;
-
-III.- Los ingresos percibidos por los contratistas de obra a precio alzado de inmuebles para obras públicas, derivado de contratos celebrados con la federación, el Estado de Sonora, sus municipios, organismos descentralizados y empresas de participación estatal;
-
-IV.- Los ingresos obtenidos por establecimientos penitenciarios;
-
-V.- Los ingresos obtenidos en los establecimientos de beneficencia siempre que acrediten que cuando menos el 10% de sus pacientes recibieron los servicios, suministro de medicina y atención médica en forma gratuitos;
-
-VI.- Los ingresos que perciban las escuelas privadas por concepto de inscripciones y colegiaturas; y
-
-VII.- Los ingresos obtenidos por la primera enajenación de mercancías siempre que estén gravados con impuestos federales en los que participe o se encuentre coordinada la entidad o estatales sobre la producción explotación o venta de primera mano, que sean enajenados, sin someterlos a nuevos procedimientos de elaboración, transformación o adaptación y que conserven el mismo estado y condiciones en que fueron gravados por los impuestos citados.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)
 
 ###### Artículo 80.
 
@@ -1007,45 +1003,57 @@ Los miembros de los Consejos de administración, comisarios, representantes gene
 
 Los adquirentes o usufructuarios, por cualquier título de establecimientos en los cuales se perciban ingresos gravados por este impuesto, tienen responsabilidad solidaria de los créditos insolutos.
 
-### Capítulo Tercero. De los Impuestos Especiales a la Industria y el Comercio
+> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
-#### Sección Primera. Impuestos del despepite de Algodón
+### Capítulo Tercero. Impuestos Especiales a la Industria y al Comercio
 
-> <small>(REFORMADO, B.O. 4 DE JUNIO DE 1977)</small>
+> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
+#### Sección Primera. Impuestos a la Enajenación de Primera mano de semilla de algodón
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 100.
 
-Es objeto de este impuesto el despepite de algodón en hueso efectuado por las empresas despepitadoras; la enajenación de primera mano de semilla de algodón, incluyendo la efectuada por estas empresas y la que las mismas aprovechen para su industrialización.
+Es objeto de este impuesto la enajenación de primera mano de semilla de algodón; incluyendo la efectuada por las empresas despepitadoras y la que las mismas aprovechen para su industrialización.
 
-Tratándose del despepite de algodón, el rendimiento de algodón pluma será realmente producido por las empresas despepitadoras.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 101.
 
-Son sujeto de este impuesto las empresas despepitadoras y responsables solidarios los propietarios del algodón pluma y los adquirentes de las semillas.
+Son sujetos de este impuesto, las personas físicas, morales y las unidades económicas que enajenen semilla de algodón.
+
+Son responsables solidarios, los adquirentes por cualquier título de la semilla de algodón.
 
 ###### Artículo 102.
 
 La tasa del Impuesto será:
 
-I.- De $170.00 por cada mil kilogramos de algodón pluma producido, conforme a lo establecido en el segundo párrafo del artículo 100.
+I.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
-II.- De 2% sobre el ingreso bruto percibido por la enajenación de la semilla de algodón o sobre el valor de la semilla industrializada por las propias empresas despepitadoras.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
+II.- De 2% sobre el ingreso bruto percibido por la enajenación de la semilla de algodón o sobre el valor de la semilla industrializada por las empresas despepitadoras.
 
 ###### Artículo 103.
 
-Los municipios del Estado tendrán derecho a percibir el 18% de la participación de este impuesto que se distribuirá exclusivamente entre los mismos municipios, en los términos del artículo siguiente.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)
 
 ###### Artículo 104.
 
-Los municipios productores de algodón participarán en el rendimiento del impuesto con el 50% restante del 18% mencionado. Al municipio en donde se encuentre ubicada la planta y produzca el algodón que en ella se consuma, corresponderá íntegramente el 18% del rendimiento del impuesto.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 105.
 
-El pago del impuesto se hará dentro de los días 1o. al 20 de cada mes siguiente en que obtenga el rendimiento del algodón pluma o en que perciba el ingreso gravado.
+El pago del Impuesto se hará dentro de los días 1o. al 20 del mes siguiente a aquel en que se perciba el ingreso gravado.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 106.
 
-Son obligaciones de los sujetos del impuesto las que señala el artículo 127 y afectos al pago los bienes que señale el Artículo 128.
+Son obligaciones a cargo de los sujetos de este impuesto las contenidas en el Artículo 113 y afectos al pago los bienes que señale el Artículo 113 Bis.
 
 #### Sección Segunda. Del Impuesto sobre producción de Harina de Trigo
 
@@ -1075,9 +1083,29 @@ Los municipios productores de harina de trigo participarán con el 18% sobre el 
 
 El pago del impuesto deberá efectuarse mediante declaración presentada dentro de los días 1o. al 20 de cada mes siguiente al mes en que se efectuó la producción.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
 ###### Artículo 113.
 
-Son obligaciones de los sujetos del impuesto las que señala el artículo 127 y afectos al pago del impuesto los bienes que señala el artículo 128.
+Son obligaciones a cargo de los sujetos de este impuesto y de los que alude el Artículo 106, las siguientes:
+
+I.- Registrarse en la oficina recaudadora de su jurisdicción dentro de los diez días siguientes a la iniciación de sus operaciones;
+
+II.- Presentar ante la misma oficina y dentro del mismo plazo, un informe de la capacidad abstracta de producción de la maquinaria o equipo a utilizar, atendiendo a la materia prima que se emplee;
+
+III.- Expedir de un talonario de recibos numerados autorizados por la oficina receptora correspondiente, un recibo cuando perciban productos comprendidos en este capítulo para su guarda o maquila;
+
+IV.- Exhibir, cuando lo requiera la Tesorería General del Estado, la documentación o informes que con respecto a los impuestos comprendidos en este Capítulo, exijan que se lleven por las Leyes Fiscales Federales;
+
+V.- Dar aviso de clausura, traspaso y cambio de nombre, razón social o domicilio, dentro de los diez días siguientes a la realización de estos actos; y
+
+VI.- Las demás que impongan otras disposiciones fiscales.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
+###### Artículo 113 Bis.
+
+Los edificios, terrenos, maquinarias y en general todos los bienes de las empresas, quedan afectos al pago del impuesto correspondiente de este Capítulo.
 
 #### Sección Tercera. Del Impuesto sobre producción de Arroz
 
@@ -1355,9 +1383,11 @@ Son obligaciones de los sujetos del impuesto empadronarse en la oficina receptor
 
 #### Sección Primera. Del Impuesto Sobre Producción Agrícola
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
 ###### Artículo 151.
 
-El impuesto sobre Producción Agrícola, grava los productos no industrializados de los ranchos, granjas o fincas agrícolas, con excepción de las flores cultivadas.
+El impuesto sobre Producción agrícola, grava los productos no industrializados de los ranchos, granjas o fincas agrícolas.
 
 ###### Artículo 152.
 
@@ -1451,7 +1481,9 @@ II.- Dar aviso por escrito a la Oficina Recaudadora de su jurisdicción dentro d
 
 III.- Presentar una manifestación dentro de los treinta días siguientes a la fecha en que se levanten las cosechas, expresando la producción obtenida y los datos que sean necesarios para la determinación y control del Impuesto, conforme a las formas aprobadas por la Tesorería General del Estado;
 
-IV.- Pagar el impuesto sobre los productos obtenidos, dentro de los treinta días siguientes a la fecha en que se levante la cosecha. La Tesorería General del Estado y las Oficinas Recaudadoras podrá conceder en determinada región o a algún causante determinado, un plazo mayor del señalado en esta fracción, cuando existan causas que lo justifiquen;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
+IV.- Pagar el Impuesto sobre los productos obtenidos dentro del mes siguiente a la fecha en que se levante la cosecha. La tesorería General del Estado, podrá conceder en determinada región ó a algún causante determinado, un plazo mayor del señalado en esta fracción, cuando existan causas que lo justifiquen;
 
 V.- Presentar a la Oficina Recaudadora la factura o documentación en que conste la enajenación de los productos o su envío por cualquier concepto fuera del lugar de producción. La presentación debe hacerse dentro de los cinco días siguientes a la operación si el producto queda dentro del Estado, o el mismo día del embarque si va a remitirse fuera de la entidad. La Oficina recaudadora hará la anotación respectiva en sus padrones, en los que debe constar el número que corresponda a cada causante y la producción sobre la que se pago el impuesto. En caso de que la producción vendida o remitida fuera del lugar de producción, exceda a la registrada, se exigirá al causante el impuesto omitido con recargos y la multa que proceda; y
 
@@ -1465,7 +1497,9 @@ I.- A empadronarse en la Oficina Receptora de su jurisdicción;
 
 II.- A cerciorarse, al recibir el producto, de que se ha pagado el impuesto correspondiente y, de no acreditarse ello, a recaudarlo, expidiendo el recibo de acuerdo con las normas establecidas. Tratándose de productos de procedencia ejidal, para comprobar su exención, a exigir certificado del Comisariado Ejidal respectivo, debidamente requisitado; y
 
-III.- A presentar a la Oficina recaudadora de su jurisdicción, dentro de los primeros veinte días de cada mes una manifestación por cuadruplicado, de los productos recibidos durante el mes anterior, enterando el importe del impuesto recaudado.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
+III.- A presentar a la oficina recaudadora de su jurisdicción, dentro de los días 1o. al 20 de cada mes una manifestación por cuadruplicado de los productos recibidos durante el mes anterior, enterando el importe del impuesto recaudado.
 
 Esta manifestación deberá contener los siguientes datos:
 
@@ -1481,25 +1515,41 @@ e).- Fecha en la que el propietario pagó el impuesto de producción y el númer
 
 f).- La cantidad en kilogramos de las ventas que realice delos (sic) productos naturales o elaborados, señalando expresamente los que se destinen al interior del Estado y los que se envíen fuera.
 
-#### Sección Segunda. Del Impuesto a la Enajenación, Sacrificio y Tenencia de Ganado
+> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
+#### Sección Segunda. Del Impuesto a la Producción, Sacrificio y Tenencia de Ganado
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 160.
 
-Es objeto del Impuesto la producción, sacrificio y tenencia de ganado, en los términos de esta Ley, a excepción hecha de toros y novillos de lidia.
+Es objeto del Impuesto, la producción, sacrificio y tenencia de ganado, en los términos de esta Ley.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 161.
 
-Son sujetos del impuesto las personas que enajenen ganado, así como los que lo introduzcan a los rastros para su sacrificio o posean ganado gravado por este impuesto.
+Son sujetos del Impuesto, las personas físicas, morales y unidades económicas que se dediquen a la producción de ganado, así como los que lo introduzcan a los rastros para su sacrificio o posean gravado por este Impuesto.
 
-Son solidarios responsables en el pago del Impuesto, los adquirentes del ganado y los que realicen el sacrificio del mismo.
+Son responsables solidarios en el pago del Impuesto, los adquirentes del ganado y los que realicen el sacrificio del mismo.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 162.
 
-La base del Impuesto es el valor que tiene el animal que se enajena o sacrifica.
+La base del Impuesto será el valor de mercado del semoviente:
+
+A).- En la fecha del sacrificio.
+
+B).- En el momento de movilización fuera de su lugar de producción.
+
+C).- Al momento de salir de la entidad, por cualquier causa.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 163.
 
-Lastasasdel (sic) impuesto son las que determina la siguiente:
+La tasa del Impuesto son las que determina la siguiente:
 
 TARIFA:
 
@@ -1509,7 +1559,9 @@ AD-Valorem
 
 %
 
-I.- Por enajenación o sacrificio de ganado:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
+I.- Por la producción o sacrificio de ganado por cabeza.
 
 a).- Novillos, toros y bueyes 2.5
 
@@ -1545,9 +1597,11 @@ II.- Por tenencia de Ganado Asnal y Equino se pagará anualmente, por semoviente
 
 Los Municipios participarán en el rendimiento de este impuesto, con el 10% cuyo importe se distribuirá conforme al último censo ganadero del Estado.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
 ###### Artículo 165.
 
-En tratándose de enajenación de ganado, el Impuesto se cubrirá dentro de los tres días siguientes a la celebración de la operación.
+En tratándose de producción de ganado, el impuesto se cubrirá dentro de los tres días siguientes a la salida de su lugar de origen, salvo en los casos de movilización de ganado dentro de la Entidad, efectuada o realizada entre productores que se encuentren registrados en el Departamento de Ganadería del Estado y tenga marcas de herrar y sangre registradas, así como cuando se compruebe que dicha movilización obedece exclusivamente a razones de pastoreo dentro del mismo Estado.
 
 ###### Artículo 166.
 
@@ -1563,15 +1617,17 @@ En tratándose de la tenencia de ganado asnal y equino, se pagará la cuota en e
 
 El pago del Impuesto deberá efectuarse en la Oficina Receptora de la Tesorería General del Estado, correspondiente al domicilio del contribuyente o del responsable solidario.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
 ###### Artículo 169.
 
-Se presume, salvo prueba en contrario, que hay enajenación de ganado, cuando este se movilice fuera del lugar que se considere asiento de su producción.
+Se equipara a la producción y por tanto sujeta al pago de impuesto respectivo, la permanencia en el Estado por un plazo mayor de treinta días, de ganado procedente de otros lugares.
 
 ###### Artículo 170.
 
 No causan este impuesto:
 
-I.- La enajenación de ganado entre los ganaderos que estén registrados en el Departamento de Ganadería del Estado y tengan marcas de herrar y de sangre registradas;
+I.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
 II.- El sacrificio que se haga en los ranchos para consumo de sus propietarios y trabajadores, siempre que respecto de estos últimos el suministro de carne no forme parte de su salario, y
 
@@ -1581,7 +1637,9 @@ a).- Sean propiedad de ejidatarios;
 
 b).- Sean hatos de equinos de buena calidad y los sementales finos registrados y destinados a la reproducción de esta especie y de mulares; y
 
-c).- Sean enajenados o sacrificados en los rastros o fuera de ellos.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
+c).- Sean sacrificados en los rastros o fuera de ellos
 
 > <small>(REFORMADO, B.O. 19 DE FEBRERO DE 1977)</small>
 
@@ -1603,11 +1661,11 @@ Los Presidentes Municipales, Comisarios de Policía, Inspectores de Ganado, Enca
 
 Las Oficinas Recaudadoras, al recibir aviso o tener conocimiento directo de que se han sacrificado reses, movilizando semovientes o celebrado alguno de los actos o contratos gravados sin que se haya cubierto el impuesto, iniciarán inmediatamente el procedimiento económico coactivo, decretando sin demora el embargo precautorio de los semovientes o de otros bienes del causante, que sean suficientes para garantizar el duplo del impuesto omitido, depositándolos con la persona y en el lugar que estimen convenientes.
 
-> <small>(F. DE E., B.O. 22 DE ENERO DE 1977)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 175.
 
-Los Inspectores de Ganado, Visitadores de Hacienda y demás Empleados Fiscales, tendrán una participación de 25% sobre los ingresos que se obtengan por las multas impuestas a los causantes de este impuesto, en los casos en que su percepción se deba a aviso o consignación de ellos a las oficinas recaudadoras.
+Los inspectores de ganado y demás empleados del Estado, tendrán una participación de 25% sobre los ingresos que se obtengan por las multas impuestas a los causantes de este impuesto, en los casos en que su percepción se deba a aviso o consignación de ellos a las oficinas recaudadoras.
 
 La Tesorería les cubrirá la cantidad correspondiente mediante la presentación de un recibo que debe contener el visto bueno de la Oficina que obtuvo el ingreso.
 
@@ -1673,15 +1731,15 @@ Los sujetos de este impuesto deberán pagarlo dentro de los días 1o. al 20 del 
 
 Los sujetos de este impuesto deberán registrarse en la oficina recaudadora de su domicilio, dentro de los diez días siguientes a la iniciación de sus operaciones.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, B.O. 31 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
-#### Sección Cuarta. Del Impuesto a la Apicultura
+#### Sección Cuarta. Del Impuesto a la Producción Apícola
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 182 Bis.
 
-Es objeto de este impuesto, la enajenación de primera mano de los productos de plantas o granjas apícolas.
+Es objeto de este impuesto, la producción de las plantas o granjas apícolas.
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1977)</small>
 
@@ -1689,23 +1747,23 @@ Es objeto de este impuesto, la enajenación de primera mano de los productos de 
 
 Son sujetos de este impuesto los propietarios de las plantas o granjas apícolas.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 182 Bis 2.
 
-La base del Impuesto es el valor de la enajenación de primera mano que realicen los apicultores.
+La base del impuesto es el valor de la producción que obtengan los apicultores.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 182 Bis 3.
 
-La tasa del Impuesto será de 1.8% sobre el valor de la enajenación.
+La tasa del impuesto será de 1.8% sobre el valor de la producción.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 182 Bis 4.
 
-Los sujetos de este impuesto deberán pagarlo dentro de los días 1o. al 20 del mes siguiente a la enajenación de lo gravado por este impuesto, mediante la presentación de una declaración.
+Los sujetos de este impuesto deberán pagarlo dentro de los días 1o. al 20 del mes siguiente a aquel en que se realice la operación gravada por este impuesto, mediante la presentación de una declaración.
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1977)</small>
 
@@ -1725,27 +1783,37 @@ I.- La enajenación de bienes;
 
 II.- La promesa de enajenación de bienes;
 
-III.- La adjudicación de bienes en pago;
+III.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
 IV.- La adquisición de bienes por prescripción;
 
-V.- La adjudicación de bienes por remate a postor o fuera de subasta;
+V.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
-VI.- La aportación de bienes inmuebles que se haga a sociedad mercantil, asociación o sociedad civil;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
-VII.- La adjudicación o dación en pago de bienes inmuebles por liquidación de una sociedad mercantil, asociación o sociedad civil;
+VI.- La transmisión de la propiedad de bienes inmuebles que se haga a sociedad mercantil, asociación o sociedad civil, así como en los casos de fusión de sociedades;
 
-VIII.- La donación de bienes;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
-IX.- La cesión de derechos reales o personales;
+VII.- Dación en pago de bienes inmuebles;
 
-X.- El acto constitutivo de fideicomiso cuando se afecte un bien inmueble o más de uno; y
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
-XI.- La cesión, transmisión o aportación de derechos de fideicomitente o de fideicomisario, cuando en el fideicomiso el objeto del mismo sean bienes inmuebles o derechos reales.
+VIII.- La donación de bienes muebles e inmuebles, salvo cuando el donativo no sea deducible para los fines del Impuesto sobre la Renta;
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
+IX.- La cesión de derechos reales o personales, únicamente cuando se realicen en caso de muerte o por fusión de sociedades;
+
+X.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)
+
+XI.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 184.
 
-En las fracciones I, II, III, IV, V y VIII del artículo anterior queda comprendido todo lo concerniente a bienes muebles e inmuebles.
+En las fracciones I, II y IV del Artículo anterior queda comprendido todo lo concerniente a bienes muebles usados en operaciones celebradas entre particulares, e inmuebles (sic).
 
 ###### Artículo 185.
 
@@ -1757,7 +1825,9 @@ Son sujetos de este impuesto:
 
 I.- Las partes en la enajenación o promesa de enajenación de bienes;
 
-II.- El adjudicatario, en la adjudicación o dación en pago;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
+II.- El acreedor en la dación en pago;
 
 III.- El adquirente, en la prescripción;
 
@@ -1765,9 +1835,7 @@ IV.- El donatario, en la donación;
 
 V.- El cesionario, en la cesión;
 
-> <small>(F. DE E., B.O. 22 DE ENERO DE 1977)</small>
-
-VI.- El fideicomitente y el fideicomisario, en la constitución del fideicomiso; y
+VI.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
 VII.- El aportador en la aportación.
 
@@ -1819,13 +1887,11 @@ No causan este impuesto:
 
 I.- Los ingresos, operaciones o actividades gravadas con otros impuestos establecidos en esta Ley;
 
-II.- La adjudicación de bienes por sucesión;
+II.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 4 DE JUNIO DE 1977)</small>
+III.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
-III.- La adjudicación de bienes por disolución de la sociedad conyugal y legal;
-
-IV.- La trasmisión de partes sociales y de títulos de créditos en general;
+IV.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
 > <small>(F. DE E., B.O. 22 DE ENERO DE 1977)</small>
 
@@ -1835,7 +1901,7 @@ VI.- Cuando se trate de la trasmisión de derechos reales sobre inmuebles, disti
 
 VII.- Los contratos traslativos de dominio que realicen las instituciones de beneficencia privada, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, El Instituto Promotor de la Vivienda Popular en el Estado de Sonora, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado al Servicio de la Federación y el Instituto Nacional del Desarrollo de la Comunidad, siempre y cuando los bienes a que se refieran se apliquen efectivamente al cumplimiento de los fines propios de dichas instituciones; y
 
-VIII.- Los actos constitutivos de fideicomiso de administración, de garantía o testamentario.
+VIII.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
 ###### Artículo 192.
 
@@ -1867,19 +1933,27 @@ Cuando las operaciones se celebren fuera del Estado, sobre bienes situados dentr
 
 Es objeto del Impuesto la percepción de ingresos por concepto de:
 
-I.- Intereses provenientes de toda clase de actos, convenios o contratos.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
-II.- Las prestaciones que se obtengan con motivo del otorgamiento de fianzas, cuando éstas no se otorguen por instituciones legalmente autorizadas;
+I.- Intereses provenientes de toda clase de actos, convenios o contratos celebrados entre particulares;
 
-III.- Regalías o retribuciones de todas clases, proveniente de la explotación de patentes de invención o de marcas comerciales, industriales, ganaderas, agrícolas o de pesca;
+II.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
-IV.- Arrendamiento o subarrendamiento de negociaciones comerciales, industriales, ganaderas, agrícolas y de pesca.
+III.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
+
+> <small>(REFORMADA PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
+IV.- Arrendamiento o subarrendamiento de negociaciones ganaderas, agrícolas y de pesca.
 
 Se entiende por negociación un conjunto de bienes organizados en tal forma, con fines de lucro, en que sólo se requiera el elemento humano y los gastos de administración indispensables para que produzca ingresos.
 
-Cuando los propietarios o poseedores de bienes constitutivos de una negociación comercial, industrial, ganadera, agrícola o de pesca, los arrienden por separado a una misma persona, física o moral, el arrendamiento se reputará, para los efectos de este impuesto, como arrendamiento de negociación. Esta regla se observará aun cuando el arrendatario adquiera alguno o algunos de los bienes que integra la negociación u otros distintos para agregarlos a ella. El impuesto se calculará sobre el importe total de las rentas;
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
-V.- El subarrendamiento de bienes inmuebles.
+Cuando los propietarios o poseedores de bienes constitutivos de una negociación ganadera, agrícola o de pesca, los arrienden por separado a una misma persona física o moral, el arrendamiento se reputará, para los efectos de este impuesto, como arrendamiento de negociación. Esta regla se observará aun cuando el arrendatario adquiera alguno o algunos de los bienes que integra (sic) la negociación u otros distintos para agregarlos a ella. El impuesto se calculará sobre el importe total de las rentas;
+
+> <small>(REFORMADA PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
+V.- El subarrendamiento de bienes inmuebles, destinados exclusivamente para casa-habitación.
 
 En el caso de esta fracción para determinar la base gravable, se observarán las siguientes reglas:
 
@@ -1887,9 +1961,9 @@ a).- Cuando el bien se subarriende en su totalidad, el impuesto se causará sobr
 
 b).- Cuando el arrendatario dé en subarriendo sólo parte del bien arrendado, el impuesto se pagará sobre la diferencia entre la renta que pague el arrendador y que corresponda a la parte subarrendada y la renta que perciba el subarrendatario;
 
-VI.- Por la explotación de máquinas jugadoras;
+VI.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
-VII.- Indemnizaciones o penas convencionales que pacten los contratantes, sin que importe el nombre con que se les designe; y
+VII.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
 VIII.- De inversiones u operaciones de cualquier clase siempre que las mismas no se encuentren gravadas conforme a otras disposiciones de esta Ley, ni expresamente exceptuadas por la misma.
 
@@ -1915,15 +1989,17 @@ I.- Del arrendamiento de inmuebles;
 
 II.- De valores mobiliarios o de Renta Fija expedidos por instituciones de créditos;
 
-III.- De operaciones mercantiles por las cuales se causa el impuesto Federal o Estatal Sobre Ingresos Mercantiles;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
-IV.- De operaciones celebradas con empresas o instituciones de crédito y organizaciones auxiliares, instituciones de seguros o fianzas, que solamente la Federación pueda gravar.
+III.- De operaciones por las cuales se causa el Impuesto al Valor Agregado o el Impuesto General al Comercio, Industria y Prestación de Servicios;
 
-No queda comprendido en esta exención los pagos por conceptos de intereses provenientes de operación de fideicomiso o inversiones que sean a cargo de personas distintas a las mencionadas en el párrafo anterior; y
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
+IV.- De operaciones celebradas con empresas o instituciones de crédito y organizaciones auxiliares, instituciones de seguros o fianzas, que solamente la Federación puede gravar.
 
 V.- De dividendos.
 
-Las exenciones en el pago de este impuesto de que disfruten las instituciones de crédito, de seguros o de fianzas y las organizaciones auxiliares de crédito, no comprenden los casos de fideicomisos o cualesquiera otras operaciones de inversión en las que el pago de intereses y percepciones se haga por conducto de dichas instituciones si no son a cargo de estas.
+> <small>(DEROGADO ULTIMO PARRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 203.
 
@@ -1939,17 +2015,7 @@ Las quitas o remisiones de adeudos que comprendan la totalidad o parte de los in
 
 ###### Artículo 205.
 
-En los casos de adjudicación de bienes en el pago créditos que incluyan ingresos por alguno de los conceptos a que se refiere este título, se observarán las siguientes reglas:
-
-I.- Si la adjudicación se hace al acreedor o a un tercero, previo los trámites judiciales respectivos, se considerará que aquél percibió la totalidad de los intereses vencidos hasta la fecha de la adjudicación y el impuesto se cobrará sobre el monto total de ellos, siempre que el valor del bien adjudicado alcance a cubrir la suerte principal y los réditos devengados;
-
-II.- Si en el caso de la fracción anterior el bien adjudicado sólo bastare para cubrir el importe principal del adeudo, no se causará el importe cuando el acreedor declare en el acto de la adjudicación no reservare derechos contra el deudor;
-
-III.- Si en el caso de la fracción I el valor del bien adjudicado alcanza para cubrir el monto de la suerte principal y una parte de los intereses, sólo sobre el monto de éstos, que resulte cubierto, se causará el importe si el acreedor no se reserva ningunos derechos (sic) contra el deudor, pues si se lo reserva se causará también el impuesto sobre los intereses no cubiertos, cuando obtenga el pago de los mismos;
-
-IV.- Si en el caso de las fracciones II y III, el bien adjudicado no cubre el monto total de los intereses, conforme al valor que a los bienes se haya dado en la adjudicación, la Tesorería General del Estado tendrá facultad para mandar valuar dichos bienes, a fin de conocer el monto real de las percepciones obtenidas y, de acuerdo con ellas, hacer el cobro del impuesto correspondiente;
-
-V.- Si la adjudicación al acreedor se hiciere por convenio, deberá considerarse en todo caso, que percibió la totalidad de los intereses, causándose el impuesto sobre los mismos.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)
 
 ###### Artículo 206.
 
@@ -2016,6 +2082,8 @@ Los Notarios, Jueces y Encargados del Registro Público de la Propiedad que no d
 ### Capítulo Sexto. De los Impuestos Sobre Productos del Trabajo
 
 #### Sección Tercera. Del Impuesto al Ejercicio de Profesiones Liberales, Artísticas e Innominadas
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 213.
 
@@ -2207,17 +2275,21 @@ Las oficinas receptoras, cuando lo estimen conveniente, podrán exigir el pago d
 
 ###### Artículo 236.
 
-Es objeto de este impuesto, la percepción de ingresos derivados del ejercicio de una profesión, arte, oficio o actividad técnica, deportiva o cultural, cuando se ejerza sin estar bajo la Dirección y Dependencia de un tercero.
+Es objeto de este impuesto, la percepción de ingresos derivados del ejercicio de una actividad profesional, cuando su prestación requiera título conforme a las Leyes; así como los percibidos por artistas, locutores, toreros o deportistas, cuando realicen actividades cinematográficas, teatrales, de radiodifusión, de variedades, taurinas o deportivas; y los obtenidos por corredores y agentes de bolsa y seguros.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 237.
 
-Son sujetos de este impuesto, las personas físicas que ejerzan en forma independiente o cuando ejerzan organizados en agrupaciones profesionales, sociedades o asociaciones civiles, y realicen actividades comprendidas en el Artículo anterior.
+Son sujetos de este impuesto, las personas físicas que ejercen en forma independiente u organizados en agrupaciones profesionales, sociedades o asociaciones civiles y realicen actividades comprendidas en el Artículo anterior.
 
 Para los efectos de este Impuesto se considerará el ingreso exclusivamente de quien lo perciba.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
 ###### Artículo 238.
 
-Será base de este impuesto, losingresosnetos (sic) que se perciban en el ejercicio de la profesión, arte u oficio, considerando como tales los ingresos obtenidos menos las deducciones por gastos de operación que a continuación se anuncian:
+Será base de este impuesto, el ingreso neto que perciban los sujetos del mismo, siendo éste la diferencia que resulte entre los ingresos brutos percibidos y las deducciones por gastos de operación que a continuación se enuncian:
 
 1o.- El importe de los siguientes por cientos mensuales, sobre el monto de la inversión original:
 
@@ -2237,7 +2309,9 @@ c).- .83% para depreciación de inversiones en maquinaria, equipo y bienes muebl
 
 d).- 1.66% para depreciación de automóviles y otros equipos de transporte.
 
-2o.- Los gastos estrictamente indispensables para el ejercicio de la profesión, arte, oficio o actividad de que se trate.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
+2.- Los gastos estrictamente indispensables para el ejercicio de la actividad de que se trate, únicamente hasta el monto total de los ingresos mensuales percibidos.
 
 Estas deducciones no las podrán efectuar los causantes organizados en Asociaciones o Sociedades de carácter civil, cuando estas personas morales las hayan realizado.
 
@@ -2263,7 +2337,7 @@ No causan este impuesto:
 
 I.- Las remuneraciones que perciban los técnicos extranjeros contratados por la Federación, el Estado de Sonora o por los Municipios; y
 
-II.- Las remuneraciones que perciban los sujetos que al día último del mes de la imposición tengan cumplido más de 65 años de edad, su ingreso bruto no exceda de $3,000.00 mensuales y no realicen ninguna otra actividad gravada por esta Ley.
+II.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
 ###### Artículo 242.
 
@@ -2301,7 +2375,11 @@ III.- Cuando no se lleven o no exhiban a requerimiento de la autoridad competent
 
 IV.- Cuando los libros de contabilidad se encuentren en blanco, o atrazados (sic), o no expidan los documentos que establecen las Leyes Fiscales Federales que les sean aplicables;
 
-V.- Cuando se opongan u obstaculicen la iniciación o desarrollo de una visita domiciliaria ordenada por la Tesorería General del Estado.
+V.- Cuando se opongan u obstaculicen la iniciación o desarrollo de una visita domiciliaria ordenada por la Tesorería General del Estado;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
+VI.- Cuando de las revisiones hechas a sus declaraciones, se encuentren omisiones superiores a un 3% de lo declarado.
 
 ### Capítulo Séptimo. Del Impuesto para el Sostenimiento de la Universidad de Sonora
 
@@ -2311,7 +2389,7 @@ Es objeto de este impuesto:
 
 I.- La realización de pagos por concepto de ingresos previstos en la Ley de Ingresos del Estado; y
 
-II.- La realización de pagos de gravámenes Federales comprendidos en los Convenios de Coordinación celebrados y en los que posteriormente se celebren, con la Secretaría de Hacienda y Crédito Público.
+II.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
 ###### Artículo 247.
 
@@ -2323,7 +2401,7 @@ Es base del impuesto:
 
 I.- En la situación prevista en la fracción I del Artículo 246, el monto total; y
 
-II.- En la situación prevista en la fracción II del Artículo 246, la participación que al Estado corresponda.
+II.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
 ###### Artículo 249.
 
@@ -2657,35 +2735,49 @@ VI.- Obras de reconstrucción, las que sustituyan total o parcialmente, a obras 
 
 A cargo de los ganaderos, se causaran las siguientes cuotas, que manejará el propio Comité:
 
-a).- Para el Fomento Ganadero y para la Campaña contra
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
-el abigeato en partes iguales por cada operación traslativa
+a).- Para el fomento ganadero y para la campaña
 
-de dominio y sacrificio de ganado bovino, por cabeza $15.00
+contra el abigeato en partes iguales, por cada
 
-b).- En la operación traslativa de dominio de ganado caballar
+operación traslativa de dominio y sacrificio de ganado
 
-y mular, por una sola vez, por cabeza 10.00
+bovino, por cabeza $15.00
 
-c).- En la operación traslativa de dominio de ganado asnal
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
-y porcino, por una sola vez, por cabeza 5.00
+b).- En la operación traslativa de dominio y sacrificio
 
-d).- En la operación traslativa de dominio de ganado caprino
+de ganado caballar y mular, por cabeza $10
 
-y ovino, pagarán por una sola vez, por cabeza 2.00
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
+c).- En la operación traslativa de dominio y sacrificio
+
+de ganado asnal y porcino, por cabeza $5.00
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
+d).- En la operación traslativa de dominio y sacrificio
+
+de ganado caprino y ovino, por cabeza $2.00
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 285.
 
-A cargo de los engordadores y para cubrir los gastos de servicio de clasificación de carnes, se cobrará, por cada kilo de carne en canal: $0.06
+A cargo de los engordadores y para cubrir los gastos de servicio de clasificación de carnes, se cobrará, por cada kilo de carne en canal $0.10.
 
 ###### Artículo 286.
 
 La Administración del rastro o planta empacadora en que se sacrifique el ganado procedente de corrales de engorda, actuará como retenedor de la contribución que antecede, exigiendo su pago antes de permitir la salida de carne de su establecimiento. Esta contribución solamente se causará por el sacrificio de ganado procedente de corrales de engorda y praderas irrigadas.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
 ###### Artículo 287.
 
-Para la conservación de caminos en las zonas ganaderas se causará en la operación traslativa de dominio, por una sola vez, de ganado bovino, por cabeza: $5.00; cuota ésta que será manejada por el Comité Estatal de Fomento y Defensa de la Ganadería.
+Para la conservación de caminos en las zonas ganaderas, se causará, en la operación traslativa de dominio y sacrificio de ganado bovino, por cabeza $5.00, cuota ésta que será manejada por el Comité Estatal de Fomento y Defensa de Ganadería.
 
 ###### Artículo 288.
 
@@ -2711,11 +2803,11 @@ c).- Otros Productos 10% sobre el impuesto.
 
 B).- PRODUCCION INDUSTRIAL:
 
-a).- Algodón Pluma $7.60 por tonelada.
+a).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)
 
 b).- Harina de trigo $1.20 Por tonelada
 
-c).- Arroz elaborado $1.35 por tonelada
+c).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)
 
 ###### Artículo 291.
 
@@ -2731,7 +2823,11 @@ Toda la recaudación que por concepto de ésta contribución se obtenga en cada 
 
 ### Capítulo Segundo. Servicios de Empadronamiento
 
-### Capítulo Tercero. Servicios por la Inscripción o Revalidación Anual de Permisos para la fabricación y Expendios de Bebidas de Bajo y Alto Contenido Alcohólico
+### Capítulo Tercero
+
+Servicios por la Inscripción y Revalidación de Permisos para la fabricación y expendio de bebidas de bajo y alto contenido alcohólico y expedición de licencias eventuales
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ### Capítulo Cuarto. Servicios de Ganadería
 
@@ -2837,15 +2933,17 @@ III.- Lo señalado en la fracción III, a los Comités locales de Caminos Vecina
 
 IV.- Lo señalado en la fracción IV, a la Unión Ganadera Regional de Sonora.
 
-> <small>(REFORMADO, B.O. 27 DE JULIO DE 1977)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 295.
 
-Para la realización del Programa de Carreteras Estatales que desarrollará el Gobierno del Estado por cabeza de ganado que se sacrifique $50.00 moneda nacional, de acuerdo con el Convenio celebrado por el Gobierno del Estado y la Unión Ganadera Regional de Sonora, que fenece el 31 de agosto de 1979. Idéntica cuota se cubrirá por una sola vez, por cada cabeza que salga del predio, en los eventos a que se refiere el convenio de referencia.
+Para la realización del Programa de Carreteras Estatales que desarrollará el Gobierno del Estado, por cabeza de ganado que salga del predio o se sacrifique, $50, 00.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 296.
 
-Estas contribuciones se recaudarán en la misma forma y simultáneamente con los impuestos normales respectivos sobre enajenación o sacrificio de ganado vacuno y sobre producción agrícola.
+Estas contribuciones se recaudarán en la misma forma y simultáneamente con los impuestos normales respectivos sobre producción y sacrificio de ganado vacuno y sobre producción agrícola.
 
 ## TITULO CUARTO. De los Derechos
 
@@ -2873,45 +2971,133 @@ El pago de los derechos se efectuará al momento de la prestación del servicio,
 
 Los derechos por servicios de empadronamiento a que se refieren diversos preceptos del Código Fiscal del Estado de Sonora y de esta Ley de Hacienda, causarán una cuota de $ 25.00.
 
+> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
 ### Capitulo Séptimo. Servicios por Registro de Documentos, Planos, Expedición de Pasaportes, Certificados, Permisos y Autorizaciones
 
 ###### Artículo 302.
 
-Estos derechos se cubrirán y se causarán por la inscripción o revalidación de acuerdo con su categoría y ubicación, en los términos siguientes:
+Estos derechos se cubrirán y causarán por la inscripción y revalidación de permisos, y expedición de licencias eventuales, de acuerdo con su categoría y ubicación, en los términos siguientes:
 
-I.- Almacenes y depósitos de vinos y Licores, de $1,250.00 a $7,500.00
+I.- Almacenes, depósitos y expendios de vinos
 
-II.- Expendios, Cabarets, Cantinas y Fabricas de licores en general, de $1,000.00 a 5,000.00
+y licores, de $2,500.00 a $15,000.00
 
-III.- Expendios anexos a Super Mercados, de $700.00 a 2,500.00
+II.- Cabarets, cantinas y fábricas de licores
 
-IV.- Expendios en que solamente se enajenen bebidas tales como vermouth, aperitales, anizados, vinos generosos, cremas, sidras, vinos de uva para mesa, tintos, rosados y blancos, de $1,000.00 a 3,000.00
+en general, de $2,000.00 a $10,000.00
 
-V.- Cantinas en que solamente se expendan bebidas tales como vermouth, aperitales, anizados, vinos generosos, cremas, sidras, vinos de uva para mesa, tintos, rosados y blancos, de $1,000.00 a 4,000.00
+III.- Expendios de vinos y licores anexos a
 
-VI.- Cantinas anexas a restaurantes, que expendan bebidas tales como vermouth, aperitales, anizados, vinos generosos, cremas, sidras, vinos de uva para mesa, tintos, rosados y blancos, de $1,000.00 a 3,000.00
+supermercados, de $2,000.00 a $8,000.00
 
-VII.- Venta de vinos y licores en restaurantes, de $1,500.00 a 5,000.00
+IV.- Expendios en que solamente se enajenen
 
-VIII.- Cantinas anexas a restaurantes, de $1,500.00 a 5,000.00
+bebidas tales como vermouth, aperitales,
 
-IX.- Venta de vinos de mesa nacionales en Restaurantes, de $200.00 a 500.00
+anisados, vinos generosos, cremas, sidras,
 
-X.- Cantinas anexas a restaurantes donde sólo se expendan vinos de mesa nacionales, de $300.00 a 1,000.00
+vinos de uva para mesa, tintos, rosados
 
-XI.- Los expendios, almacenes y depósitos de bebidas de bajo contenido alcohólico, etc., en general, así como las fabricas de cerveza, pagarán anualmente y sin adicionales, de $100.00 a 200.00
+y blancos de $2,000.00 a $6,000. 00
 
-XII.- Los expendios exclusivamente de bebidas de bajo contenido alcohólico anexos a restaurantes, refresquerías y billares, etc., de $100.00 a 200.00
+V.- Cantinas en que solamente se expendan
 
-En este renglón no se causarán adicionales.
+bebidas tales como vermouth, aperitales,
+
+anisados, vinos generosos, cremas, sidras,
+
+vinos de uva para mesa, tintos, rosados
+
+y blancos de $2,000.00 a $8,000.00
+
+VI.- Cantinas anexas a restaurantes, que
+
+expendan bebidas tales como vermouth,
+
+aperitales, anisados, vinos generosos,
+
+cremas, sidras, vinos de uva para mesa,
+
+tintos, rosados y blancos de $2,000.00 a $6,000.00
+
+VII.- Venta de vinos y licores en restaurantes,
+
+de $3,000.00 a $10,000.00
+
+VIII.- Cantinas anexas a restaurantes,
+
+de $3,000.00 a $10,000.00
+
+IX.- Venta de vino de mesa en restaurantes,
+
+que expendan bebidas tales como Vermouth,
+
+aperitales, anisados, vinos generosos, cremas,
+
+sidras, vinos de uva para mesa, tintos,
+
+rosados y blancos, de $2,000.00 a $6,000.00
+
+X.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)
+
+XI.- Los expendios, almacenes y depósitos de
+
+bebidas de bajo contenido alcohólico, etc., así
+
+como fábricas de cerveza pagarán,
+
+de $1,000.00 a $5,000.00
+
+XII.- Los expendios exclusivamente de bebidas
+
+de bajo contenido alcohólico, anexos a
+
+restaurantes, refresquerías y billares, etc.,
+
+de $1,000.00 a $5,000.00
+
+XIII.- Venta exclusivamente de bebidas de
+
+bajo contenido alcohólico en restaurantes,
+
+de $500.00 a $2,000.00
+
+XIV.- Venta de bebidas de bajo contenido
+
+alcohólico en envase cerrado, en abarrotes
+
+y supermercados de $500.00 a $2,000.00
+
+XV.- Por la expedición o inscripción de licencias
+
+para la venta y consumo de bebidas de alto y
+
+bajo contenido alcohólico, se pagará
+
+de $10,000.00 a $100,000.00
+
+Tratándose de abarrotes y supermercados
+
+pagarán de $1,000.00 a $10,000.00
+
+XVI.- Por la expedición de licencias eventuales
+
+para la venta y consumo de bebidas de alto y
+
+bajo contenido alcohólico, se pagará previamente
+
+a su otorgamiento, de $200.00 a $10,000.00
 
 ###### Artículo 303.
 
 Las negociaciones que inicien sus actividades en el presente año, pagarán una cuota proporcional al tiempo que disfruten de los servicios.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
 ###### Artículo 304.
 
-Los derechos de inscripción se pagarán dentro de los quince días siguientes al otorgamiento del permiso. Los derechos de revalidación se pagarán dentro del mes de Enero.
+Los derechos de inscripción o expedición se pagarán dentro de los quince días siguientes al otorgamiento del permiso. Las cuotas por los derechos de revalidación serán semestrales y se pagarán durante los meses de Enero y Julio de cada año.
 
 ###### Artículo 305.
 
@@ -2957,6 +3143,8 @@ b).- Revalidación de marcas 25.00
 
 ### Capítulo Noveno. Servicios por Registro de Automóviles, Licencias para Manejar y Resellos
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
 ###### Artículo 308.
 
 Los derechos por este concepto importan las cuotas que siguen:
@@ -2984,6 +3172,8 @@ cualquiera que sea la profesión o especialidad 600.00
 del punto anterior, por cada prórroga 200.00
 
 ### Capítulo Décimo. Derechos por Servicios en materia de Autotransportes y Otros
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 309.
 
@@ -3163,9 +3353,9 @@ a los avisos anteriores, por cada palabra 1.50
 
 ###### Artículo 312.
 
-Según acuerdo de la secretaría de Comunicaciones y Transportes publicado en el Diario Oficial número 32 de fecha 15 de Octubre de 1975 y Decreto Presidencial del 12 de Enero de 1972, las placas tipo único para todos los vehículos, se clasifican en los siguientes grupos y se expedirán bianualmente, conforme a las especificaciones y tarifas que siguen:
+Las placas tipo único para todos los vehículos, se clasifican en los siguientes grupos y serán bianuales, aplicándose por su expedición, canje o transferencia, las tarifas que siguen conforme a sus especificaciones:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 1.- DE TRANSPORTE PRIVADO: Que deberán
 
@@ -3175,13 +3365,13 @@ para uso particular. Estas placas solicitadas
 
 durante el primer año del bienio, causaran
 
-una cuota de $60.00
+una cuota de $320.00
 
 Cuando se soliciten durante el segundo año del
 
-bienio 80.00
+bienio 160.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 2.- DE SERVICIO PUBLICO LOCAL: Que deberán
 
@@ -3191,11 +3381,11 @@ se utilicen para prestar servicio de transporte de
 
 personas o cosas dentro del Estado. Cuando
 
-soliciten dentro del primer año del bienio 100.00
+soliciten dentro del primer año del bienio 250.00
 
 Cuando se soliciten dentro del segundo año del
 
-bienio 50.00
+bienio 125.00
 
 3.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1977)
 
@@ -3231,11 +3421,25 @@ Los derechos por expedición de licencias para conducir, así como resellos de l
 
 1.- LICENCIAS:
 
-a).- De automovilistas cuota anual $100.00
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
-b).- DE chofer cuota anual 80.00
+a).- De automovilistas de acuerdo a su vigencia, como sigue:
 
-c).- De motociclista cuota anual 50.00
+2 años $300.00
+
+3 años $400.00
+
+4 años $500.00
+
+5 años $600.00
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
+b).- De chofer, cuota anual $100.00
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
+c).- De motociclista, cuota anual $80.00
 
 2.- RESELLOS O REVALIDACION:
 
@@ -3247,11 +3451,17 @@ c).- De motociclista. Anualmente 25.00
 
 3.- PERMISOS:
 
-a).- De automovilistas. Por cada diez días o fracción 75.00
+a).- De automovilistas. Por cada diez
 
-b).- DE chofer. Por cada diez días o fracción 50.00
+días o fracción 75.00
 
-c).- De motociclista. Por cada diez días o fracción 25.00
+b).- DE chofer. Por cada diez días o
+
+fracción 50.00
+
+c).- De motociclista. Por cada diez
+
+días o fracción 25.00
 
 ###### Artículo 317.
 
@@ -3293,63 +3503,89 @@ A las reposiciones de licencias se les aplicará el mismo importe de los derecho
 
 ###### Artículo 320.
 
-los servicios de la Dirección Jurídica del Estado y/o el Comité de Consulta y Vigilancia del Servicio Público de Autotransportes, que presten a los particulares, causarán el pago de derechos conforme a las especificaciones y tarifas siguientes:
+Los derechos por los servicios en materia de autotransportes, prestados a los particulares por la Dependencia respectiva, se causarán conforme a las especificaciones y tarifas siguientes:
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 1.- Por el otorgamiento de concesiones Estatales
 
 para el servicio público de Autotransportes de
 
-pasajeros $5,000.00
+pasajeros $6,000.00
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 2.- Por el otorgamiento de concesiones Estatales para
 
-el servicio público de carga 2,500.00
+el servicio público de carga 3,000.00
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 3.- Por el otorgamiento de concesiones para el
 
-servicio público mixto (carga y pasajeros) 7,500.00
+servicio público mixto (carga y pasajeros) 8,500.00
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 4.- Por la revalidación anual de las concesiones de
 
-servicio público de pasajeros 1,500.00
+servicio público de pasajeros 2,000.00
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 5.- Por la revalidación anual de las concesiones de
 
-servicio público de carga 500.00
+servicio público de carga 1,000.00
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 6.- Por la revalidación anual de las concesiones
 
-Estatales para servicio público mixto 2,000.00
+Estatales para servicio público mixto 2,500.00
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 7.- Por la expedición de permisos temporales de
 
-servicio público de pasajeros, de carga o mixtos 1,000.00
+servicio público de pasajeros, de carga o mixtos 1,500.00
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 8.- Por autorización de vehículos de emergencia
 
-para los concesionarios de pasajeros, por unidad 1,000.00
+para los concesionarios de pasajeros, por unidad 1,500.00
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 9.- Por autorización de vehículos de emergencia
 
-para los concesionarios de carga, por unidad 250.00
+para los concesionarios de carga, por unidad 500.00
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 10.- Por autorización de vehículos de emergencia
 
-para los concesionarios mixtos, por unidad 1,250.00
+para los concesionarios mixtos, por unidad 1,500.00
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 11.- Por autorización de altas y bajas de unidades
 
-concesionadas, por unidad 500.00
+concesionadas, por unidad 750.00
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 12.- Por estudios realizados a solicitud de particulares
 
 para determinar las necesidades del servicio público de
 
-pasajeros, de carga o mixtos 10,000.00
+pasajeros, de carga o mixtos 15,000.00
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 13.- Por estudios y autorización en su caso de aumento
 
-de tarifas para vehículos concesionados 5,000.00
+de tarifas para vehículos concesionados 7,500.00
 
 14.- Otros de $1,000.00 a $10,000.00
 
@@ -3689,103 +3925,11 @@ Las tarifas de este Capítulo cuando comprendan dos o más cuotas y ya sean espe
 
 Se exceptúan de los derechos a que se refiere este Capítulo, al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, de la Federación y el Instituto Promotor de la Vivienda Popular en el Estado.
 
+> <small>(DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+
 ###### Artículo 324.
 
-Están obligados al pago de éstos derechos la negociaciones que por encontrarse sometidas a regímenes de salubridad reciban servicio de vigilancia directamente del Gobierno del Estado, o a través de las Dependencias Federales facultadas al efecto, y se cobrará de acuerdo con la siguiente
-
-TARIFA
-
-I.- Establecimientos con ingresos anuales hasta
-
-de $26,000.00, pagarán $35.00
-
-II.- Establecimientos con ingresos anuales hasta
-
-de $60,000.00, pagarán 100.00
-
-III.- Establecimientos con ingresos anuales hasta
-
-de $150,000.00, pagarán 175.00
-
-IV.- Establecimientos con ingresos anuales hasta
-
-de $300,000.00, pagarán 350.00
-
-V.- Establecimientos con ingresos anuales hasta
-
-de $600,000.00, pagarán 500.00
-
-VI.- Establecimiento con ingresos anuales mayores
-
-de $60,000.00, pagarán 800.00
-
-VII.- Almacenes y Depósitos de vinos y licores pagarán
-
-en general de acuerdo con su ubicación y categoría,
-
-de $2,187.50 a 9,375.00
-
-VIII.- Expendios, cabarets, cantinas y fábricas de licores
-
-en general, pagarán de acuerdo con su categoría y
-
-ubicación, de $625.00 a 3,750.00
-
-IX.- Expendios anexos a Super Mercados de $625.00 a 2,500.00
-
-X.- Expendios en que solamente se enajenen bebidas
-
-tales como vermouth, aperitales, anizados, vinos
-
-generosos, cremas, sidras, vinos de uva para mesa,
-
-tintos, rosados y blancos. de 375.00 a 2,500.00
-
-XI.- Cantinas en que solamente se expendan bebidas
-
-tales como vermouth, aperitales, anizados, vinos
-
-generosos, cremas, sidras, vinos de uva para mesa,
-
-tintos, rosados y blancos, de $250.00 a 3,750.00
-
-XII.- Cantinas, anexas a restaurantes, que expendan
-
-bebidas tales como vermouth, aperitales, vinos
-
-generosos, cremas, sidras, vinos de uva para mesa,
-
-tintos, rosados y blancos de $125.00 a 2,500.00
-
-XIII.- Venta de vinos y licores en restaurantes,
-
-de $500.00 a 5,000.00
-
-XIV.- Cantinas anexas a Restaurantes, de $500.00 a 5,000.00
-
-XV.- Venta de vinos de mesa nacionales en restaurantes,
-
-de $250.00 a 1,875.00
-
-XVI.- Cantinas anexas a restaurantes en donde sólo se
-
-expendan vinos de mesa nacionales de $375.00 a 1,250.00
-
-XVII.- Los expendios, almacenes y Depósitos de bebidas
-
-de bajo contenido alcohólico, etc., en general, así como
-
-las fábricas de cerveza, pagarán anualmente y sin
-
-adicionales de $100.00 a 200.00
-
-Las negociaciones que en el presente año inicien sus
-
-operaciones o cambien de domicilio, pagarán una cuota
-
-proporcional a los meses que disfruten de estos servicios.
-
-También causarán estos derechos, los comitentes que operen a través de comisionistas.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)
 
 ###### Artículo 325.
 
@@ -3976,3 +4120,11 @@ UNICO.- Esta Ley entrará en vigor el día primero de Enero de 1978, previa publ
 B.O. 3 DE FEBRERO DE 1979.
 
 UNICO.- Esta Ley entrará en vigor el día 1o. de Enero de 1979, previa publicación en el Boletín Oficial del Estado.
+
+B.O. 31 DE DICIEMBRE DE 1979.
+
+PRIMERO: Esta Ley entrará en vigor, el día 1o. de Enero de 1980, previa publicación en el Boletín Oficial del Estado.
+
+SEGUNDO: A partir de la fecha en que entren en vigor las reformas, supresiones y adiciones a que esta Ley se refiere, quedan sin efecto las disposiciones administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieran otorgado a título particular, que contravengan o se opongan a los preceptuados (sic) en dichos reformas o adiciones.
+
+TERCERO: Los impuestos, derechos, contribuciones causados conforme a las disposiciones vigentes con anterioridad a la fecha en que entre en vigor la presente Ley, deberán ser pagados en el monto, forma y plazos establecidos en dichas disposiciones.
