@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-5-89-del-tribunal-en-pleno-de-la-suprema-corte-de-63706
 country: "mx"
 rank: "acuerdo"
 publication_date: "1989-07-24"
-last_updated: "1990-03-12"
+last_updated: "1990-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63706&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1989-07-04"
 
 ACUERDO No. 5/89, DEL TRIBUNAL EN PLENO DEL DIA CUATRO DE JULIO DE MIL NOVECIENTOS OCHENTA Y NUEVE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MARZO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE OCTUBRE DE 1990.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 24 de julio de 1989.
 
@@ -55,555 +55,599 @@ TERCERO.- Para los efectos de este acuerdo, los Tribunales Federales de la Repú
 
 Las veinte inspectorías especializadas se distribuirán entre los ministros de las Salas numerarias, de acuerdo con la materia que les corresponde.
 
-CUARTO.- Las inspectorías especializadas son las siguientes
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO NUMERO 8/90 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 30 DE OCTUBRE DE 1990)</small>
 
-PARA SER DISTRIBUIDAS ENTRE LOS MINISTROS DE LA PRIMERA SALA
+CUARTO.- Las inspectorías especializadas quedarán de la siguiente manera:
 
-Inspectoría Especializada No. 1
+INSPECTORIA ESPECIALIZADA No. 1
 
-1. Primer Tribunal Colegiado en Materia Penal del Primer Circuito, con residencia en México, Distrito Federal.
+1.- Primer Tribunal Colegiado en Materia Penal del Primer Circuito, con residencia en México, Distrito Federal.
 
-2. Juzgado Primero de Distrito en Materia Penal en el Distrito Federal, con residencia en la ciudad de México.
+2.- Juzgado Primero de Distrito en Materia Penal en el Distrito Federal, con residencia en la ciudad de México.
 
-3. Juzgado Segundo de Distrito en Materia Penal en el Distrito Federal, con residencia en la ciudad de México.
+3.- Juzgado Segundo de Distrito en Materia Penal en el Distrito Federal, con residencia en la ciudad de México.
 
-4. Juzgado Tercero de Distrito en Materia Penal en el Distrito Federal, con residencia en la ciudad de México.
+4.- Juzgado Tercero de Distrito en Materia Penal en el Distrito Federal con residencia en la ciudad de México.
 
-Inspectoría Especializada No. 2
+INSPECTORIA ESPECIALIZADA No. 2
 
-1. Segundo Tribunal Colegiado en Materia Penal del Primer Circuito, con residencia en México, Distrito Federal.
+1.- Segundo Tribunal Colegiado en Materia Penal del Primer Circuito, con residencia en México, Distrito Federal.
 
-2. Juzgado Cuarto de Distrito en Materia Penal en el Distrito Federal, con residencia en la ciudad de México.
+2.- Tercer Tribunal Colegiado en Materia Penal del Primer Circuito, con residencia en México, Distrito Federal.
 
-3. Juzgado Quinto de Distrito en Materia Penal en el Distrito Federal, con residencia en la ciudad de México.
+3.- Juzgado Cuarto de Distrito en Materia Penal en el Distrito Federal, con residencia en la ciudad de México.
 
-4. Juzgado Sexto de Distrito en Materia Penal en el Distrito Federal, con residencia en la ciudad de México.
+4.- Juzgado Quinto de Distrito en Materia Penal en el Distrito Federal, con residencia en la ciudad de México.
 
-Inspectoría Especializada No. 3
+5.- Juzgado Sexto de Distrito en Materia Penal en el Distrito Federal, con residencia en la ciudad de México.
 
-1. Primer Tribunal Unitario del Primer Circuito, con residencia en México, Distrito Federal.
+6.- Juzgado Décimo Primero de Distrito en Materia Penal en el Distrito Federal, con residencia en la ciudad de México.
 
-2. Juzgado Séptimo de Distrito en Materia Penal en el Distrito Federal, con residencia en la ciudad de México.
+INSPECTORIA ESPECIALIZADA No. 3
 
-3. Juzgado Octavo de Distrito en Materia Penal en el Distrito Federal, con residencia en la ciudad de México.
+1.- Primer Tribunal Unitario del Primer Circuito, con residencia en México, Distrito Federal.
 
-4. Juzgado Noveno de Distrito en Materia Penal en el Distrito Federal, con residencia en la ciudad de México.
+2.- Juzgado Séptimo de Distrito en Materia Penal en el Distrito Federal, con residencia en la ciudad de México.
 
-5. Juzgado Décimo de Distrito en Materia Penal en el Distrito Federal, con residencia en la ciudad de México.
+3.- Juzgado Octavo de Distrito en Materia Penal en el Distrito Federal, con residencia en la ciudad de México.
 
-Inspectoría Especializada No. 4
+4.- Juzgado Noveno de Distrito en Materia Penal en el Distrito Federal, con residencia en la ciudad de México.
 
-1. Tribunal Colegiado en Materia Penal del Tercer Circuito, con residencia en Guadalajara, Jalisco.
+5.- Juzgado Décimo de Distrito en Materia Penal en el Distrito Federal, con residencia en la ciudad de México.
 
-2. Juzgado Primero de Distrito en Materia Penal en el Estado de Jalisco, con residencia en la ciudad de Guadalajara.
+INSPECTORIA ESPECIALIZADA No. 4
 
-3. Juzgado Segundo de Distrito en Materia Penal en el Estado de Jalisco, con residencia en la ciudad de Guadalajara.
+1.- Tribunal Colegiado en Materia Penal del Tercer Circuito, con residencia en Guadalajara, Jalisco.
 
-4. Juzgado Tercero de Distrito en Materia Penal en el Estado de Jalisco, con residencia en la ciudad de Guadalajara.
+2.- Juzgado Primero de Distrito en Materia Penal en el estado de Jalisco, con residencia en la ciudad de Guadalajara.
 
-Inspectoría Especializada No. 5
+3.- Juzgado Segundo de Distrito en Materia Penal en el estado de Jalisco, con residencia en la ciudad de Guadalajara.
 
-1. Primer Tribunal Unitario del Tercer Circuito, con residencia en Guadalajara, Jalisco.
+4.- Juzgado Tercero de Distrito en Materia Penal en el estado de Jalisco, con residencia en la ciudad de Guadalajara.
 
-2. Juzgado Cuarto de Distrito en Materia Penal en el Estado de Jalisco, con residencia en la ciudad de Guadalajara.
+5.- Juzgado Décimo Segundo de Distrito en Materia Penal en el Distrito Federal, con residencia en la ciudad de México.
 
-3. Juzgado Quinto de Distrito en Materia Penal en el Estado de Jalisco, con residencia en la ciudad de Guadalajara.
+INSPECTORIA ESPECIALIZADA No. 5
 
-4. Juzgado Sexto de Distrito en Materia Penal en el Estado de Jalisco, con residencia en la ciudad de Guadalajara.
+1.- Primer Tribunal Unitario del Tercer Circuito, con residencia en Guadalajara, Jalisco.
 
-PARA SER DISTRIBUIDOS ENTRE LOS MINISTROS DE LA SEGUNDA SALA
+2.- Juzgado Cuarto de Distrito en Materia Penal en el estado de Jalisco, con residencia en la ciudad de Guadalajara.
 
-Inspectoría Especializada No. 6
+3.- Juzgado Quinto de Distrito en Materia Penal en el estado de Jalisco, con residencia en la ciudad de Guadalajara.
 
-1. Primer Tribunal Colegiado en Materia Administrativa del Primer Circuito, con residencia en México, Distrito Federal.
+4.- Juzgado Sexto de Distrito en Materia Penal en el estado de Jalisco, con residencia en la ciudad de Guadalajara.
 
-2. Juzgado Primero de Distrito en Materia Administrativa en el Distrito Federal, con residencia en la ciudad de México.
+5.- Juzgado Séptimo de Distrito en Materia Penal en el estado de Jalisco, con residencia en la ciudad de Guadalajara.
 
-3. Juzgado Segundo de Distrito en Materia Administrativa en el Distrito Federal, con residencia en la ciudad de México.
+INSPECTORIA ESPECIALIZADA No. 6
 
-4. Juzgado Tercero de Distrito en Materia Administrativa en el Distrito Federal, con residencia en la ciudad de México.
+1.- Primer Tribunal Colegiado en Materia Administrativa del Primer Circuito, con residencia en México, Distrito Federal.
 
-Inspectoría Especializada No. 7
+2.- Juzgado Primero de Distrito en Materia Administrativa en el Distrito Federal, con residencia en la ciudad de México.
 
-1. Segundo Tribunal Colegiado en Materia Administrativa del Primer Circuito, con residencia en México, Distrito Federal.
+3.- Juzgado Segundo de Distrito en Materia Administrativa en el Distrito Federal, con residencia en la ciudad de México.
 
-2. Juzgado Cuarto de Distrito en Materia Administrativa en el Distrito Federal, con residencia en la ciudad de México.
+4.- Juzgado Tercero de Distrito en Materia Administrativa en el Distrito Federal, con residencia en la ciudad de México.
 
-3. Juzgado Quinto de Distrito en Materia Administrativa en el Distrito Federal, con residencia en la ciudad de México.
+INSPECTORIA ESPECIALIZADA No. 7
 
-4. Juzgado Sexto de Distrito en Materia Administrativa en el Distrito Federal, con residencia en la ciudad de México.
+1.- Segundo Tribunal Colegiado en Materia Administrativa del Primer Circuito, con residencia en México, Distrito Federal.
 
-Inspectoría Especializada No. 8
+2.- Juzgado Cuarto de Distrito en Materia Administrativa en el Distrito Federal, con residencia en la ciudad de México.
 
-1. Tercer Tribunal Colegiado en Materia Administrativa del Primer Circuito, con residencia en México, Distrito Federal.
+3.- Juzgado Quinto de Distrito en Materia Administrativa en el Distrito Federal, con residencia en la ciudad de México.
 
-2. Juzgado Séptimo de Distrito en Materia Administrativa en el Distrito. Federal, con residencia en la ciudad de México.
+4.- Juzgado Sexto de Distrito en Materia Administrativa en el Distrito Federal, con residencia en la ciudad de México.
 
-3. Juzgado Octavo de Distrito en Materia Administrativa en el Distrito Federal, con residencia en la ciudad de México.
+INSPECTORIA ESPECIALIZADA No. 8
 
-4. Juzgado Noveno de Distrito en Materia Administrativa en el Distrito Federal, con residencia en la ciudad de México.
+1.- Tercer Tribunal Colegiado en Materia Administrativa del Primer Circuito, con residencia en México, Distrito Federal.
 
-Inspectoría Especializada No. 9
+2.- Juzgado Séptimo de Distrito en Materia Administrativa en el Distrito Federal, con residencia en la ciudad de México.
 
-1. Cuarto Tribunal Colegiado en Materia Administrativa del Primer Circuito, con residencia en México, Distrito Federal.
+3.- Juzgado Octavo de Distrito en Materia Administrativa en el Distrito Federal, con residencia en la ciudad de México.
 
-2. Quinto Tribunal Colegiado en Materia Administrativa del Primer Circuito, con residencia en México, Distrito Federal.
+4.- Juzgado Noveno de Distrito en Materia Administrativa en el Distrito Federal, con residencia en la ciudad de México.
 
-3. Sexto Tribunal Colegiado en Materia Administrativa del Primer Circuito, con residencia en México, Distrito Federal.
+INSPECTORIA ESPECIALIZADA No. 9
 
-4. Juzgado Décimo en Materia Administrativa en el Distrito Federal, con residencia en la ciudad de México.
+1.- Cuarto Tribunal Colegiado en Materia Administrativa del Primer Circuito, con residencia en México, Distrito Federal.
 
-Inspectoría Especializada No. 10
+2.- Quinto Tribunal Colegiado en Materia Administrativa del Primer Circuito, con residencia en México, Distrito Federal.
 
-1. Primer Tribunal Colegiado en Materia Administrativa del Tercer Circuito, con residencia en Guadalajara, Jalisco.
+3.-Sexto Tribunal Colegiado en Materia Administrativa del Primer Circuito, con residencia en México, Distrito Federal.
 
-2. Segundo Tribunal Colegiado en Materia Administrativa del Tercer Circuito, con residencia en Guadalajara, Jalisco.
+4.- Juzgado Décimo de Distrito en Materia Administrativa en el Distrito Federal, con residencia en la ciudad de México.
 
-3. Juzgado Primero de Distrito en Materia Administrativa en el Estado de Jalisco, con residencia en la ciudad de Guadalajara.
+INSPECTORIA ESPECIALIZADA No. 10
 
-4. Juzgado Segundo de Distrito en Materia Administrativa en el Estado de Jalisco, con residencia en la ciudad de Guadalajara.
+1.- Primer Tribunal Colegiado en Materia Administrativa del Tercer Circuito, con residencia en Guadalajara, Jalisco.
 
-5. Juzgado de Distrito en Materia Agraria en el Estado de Jalisco, con residencia en la ciudad de Guadalajara.
+2.- Segundo Tribunal Colegiado en Materia Administrativa del Tercer Circuito, con residencia en Guadalajara, Jalisco.
 
-PARA SER DISTRIBUIDOS ENTRE LOS MINISTROS DE LA TERCERA SALA
+3.- Juzgado Primero de Distrito en Materia Administrativa en el estado de Jalisco, con residencia en la ciudad de Guadalajara.
 
-Inspectoría Especializada No. 11
+4.- Juzgado Segundo de Distrito en Materia Administrativa en el estado de Jalisco, con residencia en la ciudad de Guadalajara.
 
-1. Primer Tribunal Colegiado en Materia Civil del Primer Circuito, con residencia en México, Distrito Federal.
+5.- Juzgado Tercero de Distrito en Materia Administrativa en el estado de Jalisco, con residencia en la ciudad de Guadalajara.
 
-2. Segundo Tribunal Colegiado en Materia Civil del Primer Circuito, con residencia en México, Distrito Federal.
+INSPECTORIA ESPECIALIZADA No. 11
 
-3. Juzgado Primero de Distrito en Materia Civil en el Distrito Federal, con residencia en la ciudad de México.
+1.- Primer Tribunal Colegiado en Materia Civil del Primer Circuito, con residencia en México, Distrito Federal.
 
-4. Juzgado Segundo de Distrito en Materia Civil en el Distrito Federal, con residencia en la ciudad de México.
+2.- Segundo Tribunal Colegiado en Materia Civil del Primer Circuito, con residencia en México, Distrito Federal.
 
-Inspectoría Especializada No. 12
+3.- Juzgado Primero de Distrito en Materia Civil en el Distrito Federal, con residencia en la ciudad de México.
 
-1. Tercer Tribunal Colegiado en Materia Civil del Primer Circuito, con residencia en México, Distrito Federal.
+4.- Juzgado Segundo de Distrito en Materia Civil en el Distrito Federal, con residencia en la ciudad de México.
 
-2. Cuarto Tribunal Colegiado en Materia Civil del Primer Circuito, con residencia en México, Distrito Federal.
+INSPECTORIA ESPECIALIZADA No. 12
 
-3. Juzgado Tercero de Distrito en Materia Civil en el Distrito Federal, con residencia en la ciudad de México.
+1.- Tercer Tribunal Colegiado en Materia Civil del Primer Circuito, con residencia en México, Distrito Federal.
 
-4. Juzgado Cuarto de Distrito en Materia Civil en el Distrito Federal, con residencia en la ciudad de México.
+2.- Cuarto Tribunal Colegiado en Materia Civil del Primer Circuito, con residencia en México, Distrito Federal.
 
-Inspectoría Especializada No. 13
+3.- Juzgado Tercero de Distrito en Materia Civil en el Distrito Federal, con residencia en la ciudad de México.
 
-1. Quinto Tribunal Colegiado en Materia Civil del Primer Circuito, con residencia en México, Distrito Federal.
+4.- Juzgado Cuarto de Distrito en Materia Civil en el Distrito Federal, con residencia en la ciudad de México.
 
-2. Segundo Tribunal Unitario del Primer Circuito, con residencia en México, Distrito Federal.
+INSPECTORIA ESPECIALIZADA No. 13
 
-3. Juzgado Quinto de Distrito en Materia Civil en el Distrito Federal, con residencia en la ciudad de México.
+1.- Quinto Tribunal Colegiado en Materia Civil del Primer Circuito, con residencia en México, Distrito Federal.
 
-4. Juzgado Sexto de Distrito en Materia Civil en el Distrito Federal, con residencia en la ciudad de México.
+2.- Segundo Tribunal Unitario del Primer Circuito, con residencia en México, Distrito Federal.
 
-Inspectoría Especializada No. 14
+3.- Juzgado Quinto de Distrito en Materia Civil en el Distrito Federal, con residencia en la ciudad de México.
 
-1. Primer Tribunal Colegiado en Materia Civil del Tercer Circuito, con residencia en Guadalajara, Jalisco.
+4.- Juzgado Sexto de Distrito en Materia Civil en el Distrito Federal, con residencia en la ciudad de México.
 
-2. Tercer Tribunal Unitario del Tercer Circuito, con residencia en Guadalajara, Jalisco.
+INSPECTORIA ESPECIALIZADA No. 14
 
-3. Juzgado Primero de Distrito en Materia Civil en el Estado de Jalisco, con residencia en la ciudad de Guadalajara.
+1.- Sexto Tribunal Colegiado en Materia Civil del Primer Circuito, con residencia en México, Distrito Federal.
 
-4. Juzgado Segundo de Distrito en Materia Civil en el Estado de Jalisco, con residencia en la ciudad de Guadalajara.
+2.- Primer Tribunal Colegiado en Materia Civil del Tercer Circuito, con residencia en Guadalajara, Jalisco.
 
-Inspectoría Especializada No. 15
+3.- Tercer Tribunal Unitario del Tercer Circuito, con residencia en Guadalajara, Jalisco.
 
-1. Segundo Tribunal Colegiado en Materia Civil del Tercer Circuito, con residencia en Guadalajara, Jalisco.
+4.- Juzgado Primero de Distrito en Materia Civil en el estado de Jalisco, con residencia en la ciudad de Guadalajara.
 
-2. Tercer Tribunal Colegiado en Materia Civil del Tercer Circuito, con residencia en Guadalajara, Jalisco.
+5.- Juzgado Segundo de Distrito en Materia Civil en el estado de Jalisco, con residencia en la ciudad de Guadalajara.
 
-3. Tercer Tribunal Unitario del Primer Circuito, con residencia en México, Distrito Federal.
+INSPECTORIA ESPECIALIZADA No. 15
 
-4. Segundo Tribunal Unitario del Tercer Circuito, con residencia en Guadalajara, Jalisco.
+1.- Segundo Tribunal Colegiado en Materia Civil del Tercer Circuito, con residencia en Guadalajara, Jalisco.
 
-5. Juzgado de Distrito en el Estado de Colima, con residencia en la ciudad de Colima.
+2.- Tercer Tribunal Colegiado en Materia Civil del Tercer Circuito, con residencia en Guadalajara, Jalisco.
 
-PARA SER DISTRIBUIDOS ENTRE LOS MINISTROS DE LA CUARTA SALA
+3.- Segundo Tribunal Unitario del Tercer Circuito, con residencia en Guadalajara, Jalisco.
 
-Inspectoría Especializada No. 16
+4.- Tercer Tribunal Unitario del Primer Circuito, con residencia en México, Distrito Federal.
 
-1. Primer Tribunal Colegiado en Materia Laboral del Primer Circuito, con residencia en México, Distrito Federal.
+5.- Juzgado de Distrito en el estado de Colima, con residencia en la ciudad de Colima.
 
-2. Juzgado Primero de Distrito en Materia Laboral en el Distrito Federal, con residencia en la ciudad de México.
+INSPECTORIA ESPECIALIZADA No. 16
 
-Inspectoría Especializada No. 17
+1.- Primer Tribunal Colegiado en Materia Laboral del Primer Circuito, con residencia en México, Distrito Federal.
 
-1. Segundo Tribunal Colegiado en Materia Laboral del Primer Circuito, con residencia en México, Distrito Federal.
+2.- Juzgado Primero de Distrito en Materia Laboral en el Distrito Federal, con residencia en la ciudad de México.
 
-2. Juzgado Segundo de Distrito en Materia Laboral en el Distrito Federal, con residencia en la ciudad de México.
+INSPECTORIA ESPECIALIZADA No. 17
 
-Inspectoría Especializada No. 18
+1.- Segundo Tribunal Colegiado en Materia Laboral del Primer Circuito, con residencia en México, Distrito Federal.
 
-1. Tercer Tribunal Colegiado en Materia Laboral del Primer Circuito, con residencia en México, Distrito Federal.
+2.- Juzgado Segundo de Distrito en Materia Laboral en el Distrito Federal, con residencia en la ciudad de México.
 
-2. Juzgado Tercero de Distrito en Materia Laboral en el Distrito Federal, con residencia en la ciudad de México.
+INSPECTORIA ESPECIALIZADA No. 18
 
-Inspectoría Especializada No. 19
+1.- Tercer Tribunal Colegiado en Materia Laboral del Primer Circuito, con residencia en México, Distrito Federal.
 
-1. Cuarto Tribunal Colegiado en Materia Laboral del Primer Circuito, con residencia en México, Distrito Federal.
+2.- Cuarto Tribunal Colegiado en Materia Laboral del Primer Circuito, con residencia en México, Distrito Federal.
 
-2. Quinto Tribunal Colegiado en Materia Laboral del Primer Circuito, con residencia en México, Distrito Federal.
+INSPECTORIA ESPECIALIZADA No. 19
 
-3. Sexto Tribunal Colegiado en Materia Laboral del Primer Circuito, con residencia en México, Distrito Federal.
+1.- Quinto Tribunal Colegiado en Materia Laboral del Primer Circuito, con residencia en México, Distrito Federal.
 
-Inspectoría Especializada No. 20
+2.- Sexto Tribunal Colegiado en Materia Laboral del Primer Circuito, con residencia en México, Distrito Federal.
 
-1. Séptimo Tribunal Colegiado en Materia Laboral del Primer Circuito, con residencia en México, Distrito Federal.
+INSPECTORIA ESPECIALIZADA No. 20
 
-2. Tribunal Colegiado en Materia Laboral del Tercer Circuito, con residencia en Guadalajara, Jalisco.
+1.- Séptimo Tribunal Colegiado en Materia Laboral del Primer Circuito, con residencia en México, Distrito Federal.
 
-QUINTO.- Las inspectorías generales son las siguientes:
+2.- Tribunal Colegiado en Materia Laboral del Tercer Circuito, con residencia en Guadalajara, Jalisco.
 
-Primera Inspectoría General
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO 8/90 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 30 DE OCTUBRE DE 1990)</small>
 
-1. Primer Tribunal Colegiado del Segundo Circuito, con residencia en Toluca, estado de México.
+QUINTO.- Las inspectorías generales serán las siguientes:
 
-2. Segundo Tribunal Colegiado del Segundo Circuito, con residencia en Toluca, estado de México.
+PRIMERA INSPECTORIA GENERAL
 
-3. Juzgado Primero de Distrito en el Estado de México, con residencia en la ciudad de Toluca.
+1.- Primer Tribunal Colegiado del Segundo Circuito, con residencia en Toluca, estado de México.
 
-4. Juzgado Tercero de Distrito en el Estado de México, con residencia en Naucalpan.
+2.- Segundo Tribunal Colegiado del Segundo Circuito, con residencia en Toluca, estado de México.
 
-5. Juzgado de Distrito en el Estado de Hidalgo, con residencia en la ciudad de Pachuca.
+3.- Juzgado Primero de Distrito en el estado de México, con residencia en la ciudad de Toluca.
 
-Segunda Inspectoría General
+4.- Juzgado Tercero de Distrito en el estado de México, con residencia en Naucalpan de Juárez.
 
-1. Tercer Tribunal Colegiado del Segundo Circuito, con residencia en Toluca, estado de México.
+5.- Juzgado Cuarto de Distrito en el estado de México, con residencia en Naucalpan de Juárez.
 
-2. Tribunal Unitario del Segundo Circuito, con residencia en Toluca, estado de México.
+6.- Juzgado Primero de Distrito en el estado de Hidalgo, con residencia en la ciudad de Pachuca.
 
-3. Juzgado Segundo de Distrito en el estado de México, con residencia en la ciudad de Toluca.
+7.- Juzgado Segundo de Distrito en el estado de Hidalgo, con residencia en la ciudad de Pachuca.
 
-4. Juzgado Cuarto de Distrito en el estado de México, con residencia en Naucalpan.
+SEGUNDA INSPECTORIA GENERAL
 
-5. Juzgado Quinto de Distrito en el estado de México, con residencia en Tlalnepantla.
+1.- Tercer Tribunal Colegiado del Segundo Circuito, con residencia en Toluca, estado de México.
 
-6. Juzgado Sexto de Distrito en el estado de México, con residencia en Ciudad Nezahualcóyotl.
+2.- Primer Tribunal Unitario del Segundo Circuito, con residencia, en Toluca, estado de México.
 
-> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO NUMERO 2/90 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 12 DE MARZO DE 1990)</small>
+3.- Juzgado Segundo de Distrito en el estado de México, con residencia en la ciudad de Toluca.
 
-7. Juzgado Séptimo de Distrito en el estado de México, con residencia en Ciudad Nezahualcóyotl.
+4.- Juzgado Quinto de Distrito en el estado de México, con residencia en la ciudad de Tlalnepantla.
 
-Tercera Inspectoría General
+5.- Juzgado Sexto de Distrito en el estado de México, con residencia en Ciudad Nezahualcóyotl.
 
-1. Primer Tribunal Colegiado del Cuarto Circuito, con residencia en Monterrey, Nuevo León.
+6.- Juzgado Séptimo de Distrito en el estado de México, con residencia en Ciudad Nezahualcóyotl.
 
-2. Segundo Tribunal Colegiado del Cuarto Circuito, con residencia en Monterrey, Nuevo León.
+TERCERA INSPECTORIA GENERAL
 
-3. Juzgado Primero de Distrito en el estado de Nuevo León, con residencia en la ciudad de Monterrey.
+1.- Primer Tribunal Colegiado del Cuarto Circuito, con residencia en Monterrey, Nuevo León.
 
-4. Juzgado Segundo de Distrito en el estado de Nuevo León, con residencia en la ciudad de Monterrey.
+2.- Juzgado Primero de Distrito en el estado de Nuevo León, con residencia en la ciudad de Monterrey.
 
-5. Juzgado Tercero de Distrito en el estado de Nuevo León, con residencia en la ciudad de Monterrey.
+3.- Juzgado Segundo de Distrito en el estado de Nuevo León, con residencia en la ciudad de Monterrey.
 
-6. Juzgado Segundo de Distrito en el estado de Tamaulipas, con residencia en la ciudad de Nuevo Laredo.
+4.- Segundo Tribunal Unitario del Décimo Noveno Circuito, con residencia en Ciudad Victoria, Tamaulipas.
 
-Cuarta Inspectoría General
+5.- Juzgado Segundo de Distrito en el estado de Tamaulipas, con residencia en la ciudad de Nuevo Laredo.
 
-1. Tercer Tribunal Colegiado del Cuarto Circuito, con residencia en Monterrey, Nuevo León.
+6.- Juzgado Tercero de Distrito en el estado de Tamaulipas, con residencia en la ciudad de Nuevo Laredo.
 
-2. Tribunal Unitario del Cuarto Circuito, con residencia en Monterrey, Nuevo León.
+7.- Juzgado Sexto de Distrito en el estado de Tamaulipas, con residencia en Ciudad Reynosa.
 
-3. Juzgado Cuarto de Distrito en el Estado de Nuevo León, con residencia en la ciudad de Monterrey.
+8.- Juzgado Séptimo de Distrito en el estado de Tamaulipas, con residencia en Ciudad Reynosa.
 
-4. Juzgado Quinto de Distrito en el Estado de Nuevo León, con residencia en la ciudad de Monterrey.
+CUARTA INSPECTORIA GENERAL
 
-5. Juzgado Sexto de Distrito en el estado de Nuevo León, con residencia en la ciudad de Monterrey.
+1.- Segundo Tribunal Colegiado del Cuarto Circuito, con residencia en Monterrey, Nuevo León.
 
-6. Juzgado Tercero de Distrito en el estado de Tamaulipas, con residencia en la ciudad de Nuevo Laredo.
+2.- Tercer Tribunal Colegiado del Cuarto Circuito, con residencia en Monterrey, Nuevo León.
 
-Quinta Inspectoría General
+3.- Tribunal Unitario del Cuarto Circuito, con residencia en Monterrey, Nuevo León.
 
-1. Primer Tribunal Colegiado del Quinto Circuito, con residencia en Hermosillo, Sonora.
+4.- Juzgado Tercero de Distrito en el estado de Nuevo León, con residencia en la ciudad de Monterrey.
 
-2. Tribunal Unitario del Quinto Circuito, con residencia en Hermosillo, Sonora.
+5.- Juzgado Cuarto de Distrito en el estado de Nuevo León, con residencia en la ciudad de Monterrey.
 
-3. Juzgado Primero de Distrito en el Estado de Sonora, con residencia en la ciudad de Hermosillo.
+6.- Juzgado Quinto de Distrito en el estado de Nuevo León, con residencia en la ciudad de Monterrey.
 
-4. Juzgado Quinto de Distrito en el Estado de Sonora, con residencia en Ciudad Obregón.
+7.- Juzgado Sexto de Distrito en el estado de Nuevo León, con residencia en la ciudad de Monterrey.
 
-5. Juzgado de Distrito en Materia Agraria en el Estado de Sonora, con residencia en la ciudad de Hermosillo.
+QUINTA INSPECTORIA GENERAL
 
-Sexta Inspectoría General
+1.- Primer Tribunal Colegiado del Quinto Circuito, con residencia en Hermosillo, Sonora.
 
-1. Segundo Tribunal Colegiado del Quinto Circuito, con residencia en Hermosillo, Sonora.
+2.- Primer Tribunal Unitario del Quinto Circuito, con residencia, en Hermosillo, Sonora.
 
-2. Juzgado Segundo de Distrito en el Estado de Sonora, con residencia en la ciudad de Hermosillo.
+3.- Juzgado Primero de Distrito en el estado de Sonora, con residencia en la ciudad de Hermosillo.
 
-3. Juzgado Tercero de Distrito en el Estado de Sonora, con residencia en la ciudad de Nogales.
+4.- Juzgado Quinto de Distrito en el estado de Sonora, con residencia en Ciudad Obregón.
 
-4. Juzgado Cuarto de Distrito en el Estado de Sonora, con residencia en la ciudad de Nogales.
+5.- Juzgado Sexto de Distrito en el estado de Sonora, con residencia en la ciudad de Hermosillo.
 
-Séptima Inspectoría General
+6.- Juzgado Quinto de Distrito en el estado de Baja California, con residencia en la ciudad de Tijuana.
 
-1. Primer Tribunal Colegiado del Sexto Circuito, con residencia en Puebla, Puebla.
+7.- Juzgado Sexto de Distrito en el estado de Baja California, con residencia en la ciudad de Tijuana.
 
-2. Segundo Tribunal Colegiado del Sexto Circuito, con residencia en Puebla, Puebla.
+SEXTA INSPECTORIA GENERAL
 
-3. Juzgado Primero de Distrito en el Estado de Puebla, con residencia en la ciudad de Puebla.
+1.- Segundo Tribunal Colegiado del Quinto Circuito, con residencia en Hermosillo, Sonora.
 
-4. Juzgado Segundo de Distrito en el Estado de Puebla, con residencia en la ciudad de Puebla.
+2.- Segundo Tribunal Unitario del Quinto Circuito, con residencia en Hermosillo, Sonora.
 
-5. Juzgado Tercero de Distrito en el Estado de Puebla, con residencia en la ciudad de Puebla.
+3.- Juzgado Segundo de Distrito en el estado de Sonora, con residencia en la ciudad de Hermosillo.
 
-Octava Inspectoría General
+4.- Juzgado Tercero de Distrito en el estado de Sonora, con residencia en la ciudad de Nogales.
 
-1. Tercer Tribunal Colegiado del Sexto Circuito, con residencia en Puebla, Puebla.
+5.- Juzgado Cuarto de Distrito en el estado de Sonora, con residencia en la ciudad de Nogales.
 
-2. Tribunal Unitario del Sexto Circuito, con residencia en Puebla, Puebla.
+SEPTIMA INSPECTORIA GENERAL
 
-3. Juzgado de Distrito en el Estado de Tlaxcala, con residencia en la ciudad de Tlaxcala.
+1.- Primer Tribunal Colegiado del Sexto Circuito, con residencia en Puebla, Puebla.
 
-4. Juzgado Cuarto de Distrito en el Estado de Puebla, con residencia en la ciudad de Puebla.
+2.- Segundo Tribunal Colegiado del Sexto Circuito, con residencia en Puebla, Puebla.
 
-5. Juzgado Quinto de Distrito en el Estado de Puebla, con residencia en la ciudad de Puebla.
+3.- Juzgado Primero de Distrito en el estado de Puebla, con residencia en la ciudad de Puebla.
 
-Novena Inspectoría General
+4.- Juzgado Segundo de Distrito en el estado de Puebla, con residencia en la ciudad de Puebla.
 
-1. Primer Tribunal Colegiado del Séptimo Circuito, con residencia en Veracruz, Veracruz.
+5.- Juzgado Tercero de Distrito en el estado de Puebla, con residencia en la ciudad de Puebla.
 
-2. Segundo Tribunal Colegiado del Séptimo Circuito, con residencia en Veracruz, Veracruz.
+OCTAVA INSPECTORIA GENERAL
 
-3. Tribunal Unitario del Séptimo Circuito, con residencia en Veracruz, Veracruz.
+1.- Tercer Tribunal Colegiado del Sexto Circuito, con residencia en Puebla, Puebla.
 
-4. Juzgado Primero de Distrito en el Estado de Veracruz, con residencia en la ciudad de Jalapa.
+2.- Tribunal Unitario del Sexto Circuito, con residencia en Puebla, Puebla.
 
-5. Juzgado Segundo de Distrito en el Estado de Veracruz, con residencia en el puerto de Veracruz.
+3.- Segundo Tribunal Unitario del Segundo Circuito, con residencia en Nezahualcóyotl, Estado de México.
 
-6. Juzgado Tercero de Distrito en el Estado de Veracruz, con residencia en el puerto de Veracruz.
+4.- Juzgado Cuarto de Distrito en el estado de Puebla, con residencia en la ciudad de Puebla.
 
-7. Juzgado Quinto de Distrito en el Estado de Veracruz, con residencia en la ciudad de Tuxpan.
+5.- Juzgado Quinto de Distrito en el estado de Puebla, con residencia en la ciudad de Puebla.
 
-Décima Inspectoría General
+6.- Juzgado de Distrito en el estado de Tlaxcala, con residencia en la ciudad de Tlaxcala.
 
-1. Tribunal Colegiado del Octavo Circuito, con residencia en Torreón, Coahuila.
+NOVENA INSPECTORIA GENERAL
 
-2. Tribunal Unitario del Octavo Circuito, con residencia en Torreón, Coahuila.
+1.- Primer Tribunal Colegiado del Séptimo Circuito, con residencia en Veracruz, Veracruz.
 
-3. Juzgado Primero de Distrito en el Estado de Durango, con residencia en la ciudad de Durango.
+2.- Segundo Tribunal Colegiado del Séptimo Circuito, con residencia en Veracruz, Veracruz.
 
-4. Juzgado Segundo de Distrito en el Estado de Durango, con residencia en la ciudad de Durango.
+3.- Tercer Tribunal Colegiado del Séptimo Circuito, con residencia en Jalapa, Veracruz.
 
-5. Juzgado Primero de Distrito en La Laguna, con residencia en la ciudad de Torreón, Coahuila.
+4.- Cuarto Tribunal Colegiado del Séptimo Circuito, con residencia en Jalapa, Veracruz.
 
-6. Juzgado Segundo de Distrito en La Laguna, con residencia en la ciudad de Torreón, Coahuila.
+5.- Tribunal Unitario del Séptimo Circuito, con residencia en Veracruz, Veracruz.
 
-Undécima Inspectoría General
+6.- Juzgado Primero de Distrito en el estado de Veracruz, con residencia en la ciudad de Jalapa.
 
-1. Juzgado Primero de Distrito en el Estado de Coahuila, con residencia en la ciudad de Saltillo.
+7.- Juzgado Segundo de Distrito en el estado de Veracruz, con residencia en el Puerto de Veracruz.
 
-2. Juzgado Segundo de Distrito en el Estado de Coahuila, con residencia en la ciudad de Saltillo.
+8.- Juzgado Tercero de Distrito en el estado de Veracruz, con residencia en el Puerto de Veracruz.
 
-3. Juzgado Tercero de Distrito en el Estado de Coahuila, con residencia en la ciudad de Piedras Negras.
+9.- Juzgado Quinto de Distrito en el estado de Veracruz, con residencia en la ciudad de Tuxpan.
 
-4. Juzgado Cuarto de Distrito en el Estado de Coahuila, con residencia en la ciudad de Monclova.
+DECIMA INSPECTORIA GENERAL
 
-5. Juzgado Primero de Distrito en el Estado de Querétaro, con residencia en la ciudad de Querétaro.
+1.- Primer Tribunal Colegiado del Octavo Circuito, con residencia en Torreón, Coahuila.
 
-6. Juzgado Segundo de Distrito en el Estado de Querétaro, con residencia en la ciudad de Querétaro.
+2.- Segundo Tribunal Colegiado del Octavo Circuito, con residencia en Torreón, Coahuila.
 
-Duodécima Inspectoría General
+3.- Tribunal Unitario del Octavo Circuito, con residencia en Torreón, Coahuila.
 
-1. Primer Tribunal Colegiado del Noveno Circuito, con residencia en San Luis Potosí, San Luis Potosí.
+4.- Juzgado Primero de Distrito en La Laguna, con residencia en la ciudad de Torreón, Coahuila.
 
-2. Juzgado Primero de Distrito en el Estado de San Luis Potosí, con residencia en la ciudad de San Luis Potosí.
+5.- Juzgado Segundo de Distrito en La Laguna, con residencia en la ciudad de Torreón, Coahuila.
 
-3. Juzgado Segundo de Distrito en el Estado de San Luis Potosí, con residencia en la ciudad de San Luis Potosí.
+6.- Juzgado Primero de Distrito en el estado de Durango, con residencia en la ciudad de Durango.
 
-4. Juzgado Tercero de Distrito en el Estado de San Luis Potosí, con residencia en la ciudad de San Luis Potosí.
+7.- Juzgado Segundo de Distrito en el estado de Durango, con residencia en la ciudad de Durango.
 
-5. Juzgado Cuarto de Distrito en el Estado de San Luis Potosí, con residencia en la ciudad de San Luis Potosí.
+UNDECIMA INSPECTORIA GENERAL
 
-6. Primer Tribunal Colegiado del Décimo Sexto Circuito, con residencia en Guanajuato, Guanajuato.
+1.- Juzgado Primero de Distrito en el estado de Coahuila, con residencia en la ciudad de Saltillo.
 
-7. Tribunal Unitario del Décimo Sexto Circuito, con residencia en Guanajuato, Guanajuato.
+2.- Juzgado Segundo de Distrito en el estado de Coahuila, con residencia en la ciudad de Saltillo.
 
-8. Segundo Tribunal Colegiado del Décimo Sexto Circuito, con residencia en Guanajuato, Guanajuato.
+3.- Juzgado Tercero de Distrito en el estado de Coahuila, con residencia en la ciudad de Piedras Negras.
 
-Décima Tercera Inspectoría General
+4.- Juzgado Cuarto de Distrito en el estado de Coahuila, con residencia en la ciudad de Monclova.
 
-1. Segundo Tribunal Colegiado del Noveno Circuito, con residencia en San Luis Potosí, San Luis Potosí
+5.- Juzgado Primero de Distrito en el estado de Querétaro, con residencia en la ciudad de Querétaro.
 
-2. Tribunal Unitario del Noveno Circuito, con residencia en San Luis Potosí, San Luis Potosí.
+6.- Juzgado Segundo de Distrito en el estado de Querétaro, con residencia en la ciudad de Querétaro.
 
-3. Juzgado de Distrito en el Estado de Aguascalientes, con residencia en la ciudad de Aguascalientes.
+DUODECIMA INSPECTORIA GENERAL
 
-4. Juzgado de Distrito en el Estado de Zacatecas, con residencia en la ciudad de Zacatecas.
+1.- Primer Tribunal Colegiado del Noveno Circuito, con residencia en San Luis Potosí.
 
-5. Juzgado Primero de Distrito en el Estado de Guanajuato, con residencia en la ciudad de Guanajuato.
+2.- Juzgado Primero de Distrito en el estado de San Luis Potosí, con residencia en la ciudad de San Luis Potosí.
 
-6. Juzgado Segundo de Distrito en el Estado de Guanajuato, con residencia en la ciudad de Guanajuato.
+3.- Juzgado Segundo de Distrito en el estado de San Luis Potosí, con residencia en la ciudad de San Luis Potosí.
 
-7. Juzgado Tercero de Distrito en el Estado de Guanajuato, con residencia en la ciudad de León.
+4.- Juzgado Tercero de Distrito en el estado de San Luis Potosí, con residencia en la ciudad de San Luis Potosí.
 
-Décimo Cuarta Inspectoría General
+5.- Juzgado Cuarto de Distrito en el estado de San Luis Potosí, con residencia en la ciudad de San Luis Potosí.
 
-1. Tribunal Colegiado del Décimo Circuito, con residencia en Villahermosa, Tabasco.
+6.- Primer Tribunal Colegiado del Décimo Sexto Circuito, con residencia en Guanajuato, Guanajuato.
 
-2 Tribunal Unitario del Décimo Circuito, con residencia en Villahermosa, Tabasco.
+7.- Segundo Tribunal Colegiado del Décimo Sexto Circuito, con residencia en Guanajuato, Guanajuato.
 
-3. Juzgado Primero de Distrito en el Estado de Tabasco, con residencia en la ciudad de Villahermosa.
+8.- Tribunal Unitario del Décimo Sexto Circuito, con residencia en Guanajuato, Guanajuato.
 
-4. Juzgado Segundo de Distrito en el estado de Tabasco, con residencia en la ciudad de Villahermosa.
+DECIMA TERCERA INSPECTORIA GENERAL
 
-5. Juzgado Cuarto de Distrito en el estado de Veracruz, con residencia en la ciudad de Coatzacoalcos.
+1.- Segundo Tribunal Colegiado del Noveno Circuito, con residencia en San Luis Potosí, San Luis Potosí.
 
-6. Juzgado de Distrito en el estado de Campeche, con residencia en la ciudad de Campeche.
+2.- Tribunal Unitario del Noveno Circuito, con residencia en San Luis Potosí, San Luis Potosí.
 
-Décima Quinta Inspectoría General
+3.- Juzgado de Distrito en el estado de Aguascalientes, con residencia en la ciudad de Aguascalientes.
 
-1. Primer Tribunal Colegiado del Décimo Primer Circuito, con residencia en Morelia, Michoacán.
+4.- Juzgado Primero de Distrito en el estado de Zacatecas, con residencia en la ciudad de Zacatecas.
 
-2. Segundo Tribunal Colegiado del Décimo Primer Circuito, con residencia en Morelia, Michoacán.
+5.- Juzgado Segundo de Distrito en el estado de Zacatecas, con residencia en la ciudad de Zacatecas.
 
-3. Tribunal Unitario del Décimo Primer Circuito, con residencia en Morelia, Michoacán.
+6.- Juzgado Primero de Distrito en el estado de Guanajuato, con residencia en la ciudad de Guanajuato.
 
-4. Juzgado Primero de Distrito en el Estado de Michoacán, con residencia en la ciudad de Morelia.
+7.- Juzgado Segundo de Distrito en el estado de Guanajuato, con residencia en la ciudad de Guanajuato.
 
-5. Juzgado Segundo de Distrito en el Estado de Michoacán, con residencia en la ciudad de Morelia.
+8.- Juzgado Tercero de Distrito en el estado de Guanajuato, con residencia en la ciudad de León.
 
-6. Juzgado Tercero de Distrito en el Estado de Michoacán, con residencia en la ciudad de Morelia.
+DECIMA CUARTA INSPECTORIA GENERAL
 
-Decimasexta Inspectoría General
+1.- Tribunal Colegiado del Décimo Circuito, con residencia en Villahermosa, Tabasco.
 
-1. Primer Tribunal Colegiado del Decimosegundo Circuito, con residencia en Mazatlán, Sinaloa.
+2.- Tribunal Unitario del Décimo Circuito, con residencia en Villahermosa, Tabasco.
 
-2. Primer Tribunal Unitario del Decimosegundo Circuito, con residencia en Mazatlán, Sinaloa.
+3.- Juzgado Primero de Distrito en el estado de Tabasco, con residencia en la ciudad de Villahermosa.
 
-3. Juzgado Primero de Distrito en el estado de Sinaloa, con residencia en la ciudad de Culiacán.
+4.- Juzgado Segundo de Distrito en el estado de Tabasco, con residencia en la ciudad de Villahermosa.
 
-4. Juzgado Segundo de Distrito en el estado de Sinaloa, con residencia en la ciudad de Culiacán.
+5.- Juzgado Tercero de Distrito en el estado de Tabasco, con residencia en la ciudad de Villahermosa.
 
-5. Juzgado de Distrito en el estado de Baja California Sur, con residencia en la ciudad de La Paz.
+6.- Juzgado Cuarto de Distrito en el estado de Veracruz, con residencia en la ciudad de Coatzacoalcos.
 
-6. Juzgado de Distrito en el estado de Nayarit, con residencia en la ciudad de Tepic.
+7.- Juzgado Primero de Distrito en el estado de Campeche, con residencia en la ciudad de Campeche.
 
-Décima Séptima Inspectoría General
+8.- Juzgado Segundo de Distrito en el estado de Campeche, con residencia en la ciudad de Campeche.
 
-1. Segundo Tribunal Colegiado del Décimo Segundo Circuito, con residencia en Mazatlán, Sinaloa.
+DECIMA QUINTA INSPECTORIA GENERAL
 
-2. Segundo Tribunal Unitario del Décimo Segundo Circuito, con residencia en Mazatlán, Sinaloa.
+1.- Primer Tribunal Colegiado del Décimo Primer Circuito, con residencia en Morelia, Michoacán.
 
-3. Juzgado Tercero de Distrito en el Estado de Sinaloa, con residencia en la ciudad de Los Mochis.
+2.- Segundo Tribunal Colegiado del Décimo Primer Circuito, con residencia en Morelia, Michoacán.
 
-4. Juzgado Cuarto de Distrito en el estado de Sinaloa, con residencia en la ciudad de Los Mochis.
+3.- Tribunal Unitario del Décimo Primer Circuito, con residencia en Morelia, Michoacán.
 
-5. Juzgado Quinto de Distrito en el estado de Sinaloa, con residencia en la ciudad de Mazatlán.
+4.- Juzgado Primero de Distrito en el estado de Michoacán, con residencia en la ciudad Morelia.
 
-6. Juzgado Sexto de Distrito en el estado de Sinaloa, con residencia en la ciudad de Mazatlán.
+5.- Juzgado Segundo de Distrito en el estado de Michoacán, con residencia en la ciudad de Morelia.
 
-Décima Octava Inspectoría General
+6.- Juzgado Tercero de Distrito en el estado de Michoacán, con residencia en la ciudad de Morelia.
 
-1. Tribunal Colegiado del Décimo Tercer Circuito, con residencia en Oaxaca, Oaxaca.
+7.- Juzgado Cuarto de Distrito en el estado de Michoacán, con residencia en la ciudad de Uruapan.
 
-2. Tribunal Unitario del Décimo Tercer Circuito, con residencia en Oaxaca, Oaxaca.
+DECIMA SEXTA INSPECTORIA GENERAL
 
-3. Juzgado Primero de Distrito en el estado de Oaxaca, con residencia en la ciudad de Oaxaca.
+1.- Primer Tribunal Colegiado del Décimo Segundo Circuito, con residencia en Mazatlán, Sinaloa.
 
-4. Juzgado Segundo de Distrito en el estado de Oaxaca, con residencia en la ciudad de Oaxaca.
+2.- Primer Tribunal Unitario del Décimo Segundo Circuito, con residencia en Mazatlán Sinaloa.
 
-5. Juzgado Tercero de Distrito en el estado de Oaxaca, con residencia en la ciudad de Oaxaca.
+3.- Tercer Tribunal Unitario del Décimo Segundo Circuito, con residencia en Mazatlán, Sinaloa.
 
-6. Juzgado Cuarto de Distrito en el estado de Oaxaca, con residencia en la ciudad de Oaxaca.
+4.- Juzgado Primero de Distrito en el estado de Sinaloa, con residencia en la ciudad de Culiacán.
 
-7. Juzgado Quinto de Distrito en el estado de Oaxaca, con residencia en la ciudad de Salina Cruz.
+5.- Juzgado Segundo de Distrito en el estado de Sinaloa, con residencia en la ciudad de Culiacán.
 
-Décima Novena Inspectoría General
+6.- Juzgado de Distrito en el estado de Baja California Sur, con residencia en la ciudad de La Paz.
 
-1. Tribunal Colegiado del Décimo Cuarto Circuito, con residencia en Mérida, Yucatán.
+7.- Juzgado de Distrito en el estado de Nayarit, con residencia en la ciudad de Tepic.
 
-2. Tribunal Unitario del Décimo Cuarto Circuito, con residencia en Mérida, Yucatán.
+DECIMA SEPTIMA INSPECTORIA GENERAL.
 
-3. Juzgado Primero de Distrito en el estado de Yucatán, con residencia en la ciudad de Mérida.
+1.- Segundo Tribunal Colegiado del Décimo Segundo Circuito, con residencia en Mazatlán, Sinaloa.
 
-4. Juzgado Segundo de Distrito en el estado de Yucatán, con residencia en la ciudad de Mérida.
+2.- Segundo Tribunal Unitario del Décimo Segundo Circuito, con residencia en Mazatlán, Sinaloa.
 
-5. Juzgado de Distrito en el estado de Quintana Roo, con residencia en la ciudad de Chetumal.
+3.- Juzgado Tercero de Distrito en el estado de Sinaloa, con residencia en la ciudad de Los Mochis.
 
-Vigésima Inspectoría General
+4.- Juzgado Cuarto de Distrito en el estado de Sinaloa, con residencia en la ciudad de Los Mochis.
 
-1. Primer Tribunal Colegiado del Décimo Quinto Circuito, con residencia en Mexicali, Baja California.
+5.- Juzgado Quinto de Distrito en el estado de Sinaloa, con residencia en la ciudad de Mazatlán.
 
-2. Segundo Tribunal Colegiado del Décimo Quinto Circuito, con residencia en Mexicali, Baja California.
+6.- Juzgado Sexto de Distrito en el estado de Sinaloa, con residencia en la ciudad de Mazatlán.
 
-3. Tribunal Unitario del Décimo Quinto Circuito, con residencia en Mexicali, Baja California.
+DECIMA OCTAVA INSPECTORIA GENERAL
 
-4. Juzgado Primero de Distrito en el estado de Baja California, con residencia en la ciudad de Mexicali.
+1.- Tribunal Colegiado del Décimo Tercer Circuito, con residencia en Oaxaca, Oaxaca.
 
-5. Juzgado Segundo de Distrito en el estado de Baja California, con residencia en la ciudad de Mexicali.
+2.- Tribunal Unitario del Décimo Tercer Circuito, con residencia en Oaxaca, Oaxaca.
 
-6. Juzgado Tercero de Distrito en el estado de Baja California, con residencia en la ciudad de Tijuana.
+3.- Juzgado Primero de Distrito en el estado de Oaxaca, con residencia en la ciudad de Oaxaca.
 
-7. Juzgado Cuarto de Distrito en el estado de Baja California, con residencia en la ciudad de Tijuana.
+4.- Juzgado Segundo de Distrito en el estado de Oaxaca, con residencia en la ciudad de Oaxaca.
 
-8. Juzgado Quinto de Distrito en el estado de Baja California, con residencia en la ciudad de Tijuana.
+5.- Juzgado Tercero de Distrito en el estado de Oaxaca, con residencia en la ciudad de Oaxaca.
 
-Vigésima Primera Inspectoría General
+6.- Juzgado Cuarto de Distrito en el estado de Oaxaca, con residencia en la ciudad de Oaxaca.
 
-1. Primer Tribunal Colegiado del Décimo Séptimo Circuito, con residencia en Chihuahua, Chihuahua.
+7.- Juzgado Quinto de Distrito en el estado de Oaxaca, con residencia en la ciudad de Salina Cruz.
 
-2. Segundo Tribunal Colegiado del Décimo Séptimo Circuito, con residencia en Chihuahua, Chihuahua.
+DECIMA NOVENA INSPECTORIA GENERAL
 
-3. Tribunal Unitario del Décimo Séptimo Circuito, con residencia en Chihuahua, Chihuahua.
+1.- Tribunal Colegiado del Décimo Cuarto Circuito, con residencia en Mérida, Yucatán.
 
-4. Juzgado Primero de Distrito en el estado de Chihuahua, con residencia en la ciudad de Chihuahua.
+2.- Tribunal Unitario del Décimo Cuarto Circuito, con residencia en Mérida, Yucatán.
 
-5. Juzgado Segundo de Distrito en el estado de Chihuahua, con residencia en la ciudad de Chihuahua.
+3.- Juzgado Primero de Distrito en el estado de Yucatán, con residencia en la ciudad de Mérida.
 
-6. Juzgado Tercero de Distrito en el estado de Chihuahua, con residencia en Ciudad Juárez.
+4.- Juzgado Segundo de Distrito en el estado de Yucatán, con residencia en la ciudad de Mérida.
 
-7. Juzgado Cuarto de Distrito en el estado de Chihuahua, con residencia en Ciudad Juárez.
+5.- Juzgado de Distrito en el estado de Quintana Roo, con residencia en la Ciudad de Chetumal.
 
-Vigésima Segunda Inspectoría General
+VIGESIMA INSPECTORIA GENERAL
 
-1. Tribunal Colegiado del Décimo Octavo Circuito, con residencia en Cuernavaca, Morelos.
+1.- Primer Tribunal Colegiado del Décimo Quinto Circuito, con residencia en Mexicali, Baja California.
 
-2. Tribunal Unitario del Décimo Octavo Circuito, con residencia en Cuernavaca, Morelos.
+2.- Segundo Tribunal Colegiado del Décimo Quinto Circuito, con residencia en Mexicali, Baja California.
 
-3. Juzgado Primero de Distrito en el estado de Morelos, con residencia en la ciudad de Cuernavaca.
+3.- Tribunal Unitario del Décimo Quinto Circuito, con residencia en Mexicali, Baja California.
 
-4. Juzgado Segundo de Distrito en el estado de Morelos, con residencia en la ciudad de Cuernavaca.
+4.- Juzgado Primero de Distrito en el estado de Baja California, con residencia en la ciudad de Mexicali.
 
-5. Juzgado Tercero de Distrito en el estado de Morelos, con residencia en la ciudad de Cuernavaca.
+5.- Juzgado Segundo de Distrito en el estado de Baja California, con residencia en la ciudad de Mexicali.
 
-Vigésima Tercera Inspectoría General
+6.- Juzgado Tercero de Distrito en el estado de Baja California, con residencia en la ciudad de Tijuana.
 
-1. Tribunal Colegiado del Décimo Noveno Circuito, con residencia en Ciudad Victoria, Tamaulipas.
+7.- Juzgado Cuarto de Distrito en el estado de Baja California, con residencia en la ciudad de Tijuana.
 
-2. Tribunal Unitario del Décimo Noveno Circuito, con residencia en Ciudad Victoria, Tamaulipas.
+VIGESIMA PRIMERA INSPECTORIA GENERAL
 
-3. Juzgado Primero de Distrito en el estado de Tamaulipas, con residencia en Ciudad Victoria.
+1.- Primer Tribunal Colegiado del Décimo Séptimo Circuito, con residencia en Chihuahua, Chihuahua.
 
-4. Juzgado Quinto de Distrito en el estado de Tamaulipas, con residencia en la ciudad de Tampico.
+2.- Segundo Tribunal Colegiado del Décimo Séptimo Circuito, con residencia en Chihuahua, Chihuahua.
 
-5. Juzgado Cuarto de Distrito en el estado de Tamaulipas, con residencia en la ciudad de Matamoros.
+3.- Primer Tribunal Unitario del Décimo Séptimo Circuito, con residencia en Chihuahua, Chihuahua.
 
-6. Juzgado Sexto de Distrito en el estado de Tamaulipas, con residencia en la ciudad de Reynosa.
+4.- Juzgado Primero de Distrito en el estado de Chihuahua, con residencia en la ciudad de Chihuahua.
 
-Vigésima Cuarta Inspectoría General
+5.- Juzgado Segundo de Distrito en el estado de Chihuahua, con residencia en la ciudad de Chihuahua.
 
-1. Tribunal Colegiado del Vigésimo Circuito, con residencia en Tuxtla Gutiérrez, Chiapas.
+6.- Juzgado Cuarto de Distrito en el estado de Chihuahua, con residencia en Ciudad Juárez.
 
-2. Tribunal Unitario del Vigésimo Circuito, con residencia en Tuxtla Gutiérrez, Chiapas.
+7.- Juzgado Quinto de Distrito en el estado de Chihuahua, con residencia en Ciudad Juárez.
 
-3. Juzgado Primero de Distrito en el estado de Chiapas, con residencia en la ciudad de Tuxtla Gutiérrez.
+8.- Juzgado Sexto de Distrito en el estado de Chihuahua, con residencia en Ciudad Juárez.
 
-4. Juzgado Segundo de Distrito en el estado de Chiapas, con residencia en la ciudad de Tuxtla Gutiérrez.
+VIGESIMA SEGUNDA INSPECTORIA GENERAL
 
-5. Juzgado Tercero de Distrito en el estado de Chiapas, con residencia en la ciudad de Tapachula.
+1.- Tribunal Colegiado del Décimo Octavo Circuito, con residencia en Cuernavaca, Morelos.
 
-Vigésima Quinta Inspectoría General
+2.- Tribunal Unitario del Décimo Octavo Circuito, con residencia en Cuernavaca, Morelos.
 
-1. Tribunal Colegiado del Vigésimo Primer Circuito, con residencia en Chilpancingo, Guerrero.
+3.- Juzgado Primero de Distrito en el estado de Morelos, con residencia en la ciudad de Cuernavaca.
 
-2. Tribunal Unitario del Vigésimo Primer Circuito, con residencia en Chilpancingo, Guerrero.
+4.- Juzgado Segundo de Distrito en el estado de Morelos, con residencia en la ciudad de Cuernavaca.
 
-3. Juzgado Primero de Distrito en el estado de Guerrero, con residencia en la ciudad de Chilpancingo.
+5.- Juzgado Tercero de Distrito en el estado de Morelos, con residencia en la ciudad de Cuernavaca.
 
-4. Juzgado Segundo de Distrito en el estado de Guerrero, con residencia en la ciudad de Acapulco.
+6.- Segundo Tribunal Unitario del Décimo Séptimo Circuito, con residencia en Chihuahua.
 
-5. Juzgado Tercero de Distrito en el estado de Guerrero, con residencia en la ciudad de Acapulco.
+7.- Juzgado Tercero de Distrito en el estado de Chihuahua, con residencia en la ciudad de Chihuahua.
+
+VIGESIMA TERCERA INSPECTORIA GENERAL
+
+1.- Primer Tribunal Colegiado del Décimo Noveno Circuito, con residencia, en Ciudad Victoria, Tamaulipas.
+
+2.- Segundo Tribunal Colegiado del Décimo Noveno Circuito, con residencia en Ciudad Victoria, Tamaulipas.
+
+3.- Primer Tribunal Unitario del Décimo Noveno Circuito, con residencia en Ciudad Victoria, Tamaulipas.
+
+4.- Juzgado Primero de Distrito en el estado de Tamaulipas, con residencia en Ciudad Victoria.
+
+5.- Juzgado Cuarto de Distrito en el estado de Tamaulipas, con residencia en la ciudad de Matamoros.
+
+6.- Juzgado Quinto de Distrito en el estado de Tamaulipas, con residencia en la ciudad de Matamoros.
+
+7.- Juzgado Octavo de Distrito en el estado de Tamaulipas, con residencia en la ciudad de Tampico.
+
+VIGESIMA CUARTA INSPECTORIA GENERAL
+
+1.- Tribunal Colegiado del Vigésimo Circuito, con residencia en Tuxtla Gutiérrez, Chiapas.
+
+2.- Tribunal Unitario del Vigésimo Circuito, con residencia en Tuxtla Gutiérrez, Chiapas.
+
+3.- Juzgado Primero de Distrito en el estado de Chiapas, con residencia en la ciudad de Tuxtla Gutiérrez.
+
+4.- Juzgado Segundo de Distrito en el estado de Chiapas, con residencia en la ciudad de Tuxtla Gutiérrez.
+
+5.- Juzgado Tercero de Distrito en el estado de Chiapas, con residencia en Tapachula.
+
+6.- Juzgado Cuarto de Distrito en el estado de Chiapas, con residencia en Tapachula.
+
+VIGESIMA QUINTA INSPECTORIA GENERAL
+
+1.- Primer Tribunal Colegiado del Vigésimo Primer Circuito, con residencia en Chilpancingo, Guerrero.
+
+2.- Segundo Tribunal Colegiado del Vigésimo Primer Circuito, con residencia en Chilpancingo, Guerrero.
+
+3.- Tribunal Unitario del Vigésimo Primer Circuito, con residencia en Chilpancingo, Guerrero.
+
+4.- Juzgado Primero de Distrito en el estado de Guerrero, con residencia en la ciudad de Chilpancingo.
+
+5.- Juzgado Segundo de Distrito en el estado de Guerrero, con residencia en la ciudad de Acapulco.
+
+6.- Juzgado Tercero de Distrito en el estado de Guerrero, con residencia en la ciudad de Acapulco.
 
 SEXTO.- Las Inspectorías Especializadas se sortearán entre los ministros numerarios en las Salas respectivas.
 
@@ -646,3 +690,689 @@ D.O.F. 12 DE MARZO DE 1990.
 PRIMERO.- Publíquese este acuerdo en el Diario oficial de la Federación y en los órganos del Semanario Judicial de la Federación.
 
 SEGUNDO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+D.O.F. 30 DE OCTUBRE DE 1990.
+
+PRIMERO.- Este acuerdo entrará en vigor en la fecha de su aprobación por el Tribunal Pleno.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en los órganos del Semanario Judicial de la Federación, haciéndose del conocimiento también de todos los magistrados de Circuito y jueces de Distrito.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE LA LISTA DE MINISTROS Y DE LAS INSPECTORIAS GENERAL Y ESPECIALIZADAS.</small>
+
+LISTA DE MINISTROS Y DE LAS INSPECTORIAS GENERAL Y ESPECIALIZADAS QUE LES CORRESPONDEN
+
+Primera Inspectoría General
+
+Ministro Miguel Angel García Domínguez.
+
+1.- Primer Tribunal Colegiado del Segundo Circuito, con residencia en la ciudad de Toluca, estado de México.
+
+2.- Segundo Tribunal Colegiado del Segundo Circuito, con residencia en la ciudad de Toluca, Estado de México.
+
+3.- Juzgado Primero de Distrito en el Estado de México, con residencia en la ciudad de Toluca.
+
+4.- Juzgado Tercero de Distrito en el estado de México, con residencia en la ciudad de Naucalpan de Juárez.
+
+5.- Juzgado Cuarto de Distrito en el estado de México, con residencia en la ciudad de Naucalpan de Juárez.
+
+6.- Juzgado Primero de Distrito en el estado de Hidalgo, con residencia en la ciudad de Pachuca.
+
+7.- Juzgado Segundo de Distrito en el estado de Hidalgo, con residencia en la ciudad de Pachuca.
+
+Segunda Inspectoría General
+
+Ministro José Antonio Llanos Duarte
+
+1.- Tercer Tribunal Colegiado del Segundo Circuito, con residencia en la ciudad de Toluca, estado de México.
+
+2.- Primer Tribunal Unitario del Segundo Circuito, con residencia en la ciudad de Toluca, Estado de México.
+
+3.- Juzgado Segundo de Distrito en el Estado de México, con residencia en la ciudad de Toluca.
+
+4.- Juzgado Quinto de Distrito en el estado de México, con residencia en la ciudad de Tlalnepantla.
+
+5.- Juzgado Sexto de Distrito en el estado de México, con residencia en la Ciudad de Nezahualcóyotl.
+
+6.- Juzgado Séptimo de Distrito en el estado de México, con residencia en Ciudad Nezahualcóyotl.
+
+Tercera Inspectoría General
+
+Ministra Fausta Moreno Fores
+
+1.- Primer Tribunal Colegiado del Cuarto Circuito, con residencia en la ciudad de Monterrey, Nuevo León.
+
+2.- Juzgado Primero de Distrito en el estado de Nuevo León, con residencia en la ciudad de Monterrey.
+
+3.- Juzgado Segundo de Distrito en el estado de Nuevo León, con residencia en la ciudad de Monterrey.
+
+4.- Segundo Tribunal Unitario del Décimo Noveno Circuito, con residencia en Ciudad Victoria, Tamaulipas.
+
+5.- Juzgado Segundo de Distrito en el estado de Tamaulipas, con residencia en la ciudad de Nuevo Laredo.
+
+6.- Juzgado Tercero de Distrito en el estado de Tamaulipas, con residencia en la ciudad de Nuevo Laredo.
+
+7.- Juzgado Sexto de Distrito en el estado de Tamaulipas, con residencia en Ciudad Reynosa.
+
+8.- Juzgado Séptimo de Distrito en el estado de Tamaulipas, con residencia en Ciudad Reynosa.
+
+Cuarta Inspectoría General
+
+Ministra Martha Chávez Padrón
+
+1.- Segundo Tribunal Colegiado del Cuarto Circuito, con residencia en la ciudad de Monterrey, Nuevo León.
+
+2.- Tercer Tribunal Colegiado del Cuarto Circuito, con residencia en la ciudad de Monterrey, Nuevo León.
+
+3.- Tribunal Unitario del Cuarto Circuito, con residencia en la ciudad de Monterrey, Nuevo León.
+
+4.- Juzgado Tercero de Distrito en el estado de Nuevo León, con residencia en la ciudad de Monterrey.
+
+5.- Juzgado Cuarto de Distrito en el estado de Nuevo León, con residencia en la ciudad de Monterrey.
+
+6.- Juzgado Quinto de Distrito en el estado de Nuevo León, con residencia en la ciudad de Monterrey.
+
+7.- Juzgado Sexto de Distrito en el estado de Nuevo León, con residencia en la ciudad de Monterrey.
+
+Quinta Inspectoría General
+
+Ministro Carlos García Vázquez
+
+1.- Primer Tribunal Colegiado del Quinto Circuito, con residencia en la ciudad de Hermosillo, Sonora.
+
+2.- Primer Tribunal Unitario del Quinto Circuito, con residencia en la ciudad de Hermosillo, Sonora.
+
+3.- Juzgado Primero de Distrito en el estado de Sonora, con residencia en la ciudad de Hermosillo.
+
+4.- Juzgado Quinto de Distrito en el estado de Sonora, con residencia en Ciudad Obregón.
+
+5.- Juzgado Sexto de Distrito en el estado de Sonora, con residencia en la ciudad de Hermosillo.
+
+6.- Juzgado Quinto de Distrito en el estado de Baja California, con residencia en la ciudad de Tijuana.
+
+7.- Juzgado Sexto de Distrito en el estado de Baja California, con residencia en la ciudad de Tijuana.
+
+Sexta Inspectoría General
+
+Ministro Mariano Azuela Guitrón
+
+1.- Segundo Tribunal Colegiado del Quinto Circuito, con residencia en la ciudad de Hermosillo, Sonora.
+
+2.- Segundo Tribunal Unitario del Quinto Circuito, con residencia en la ciudad de Hermosillo, Sonora.
+
+3.- Juzgado Segundo de Distrito en el estado de Sonora, con residencia en la ciudad de Hermosillo.
+
+4.- Juzgado Tercero de Distrito en el estado de Sonora, con residencia en la ciudad de Nogales.
+
+5.- Juzgado Cuarto de Distrito en el estado de Sonora, con residencia en la ciudad de Nogales.
+
+Séptima Inspectoría General
+
+Ministro Salvador Rocha Díaz
+
+1.- Primer Tribunal Colegiado del Sexto Circuito, con residencia en la ciudad de Puebla, Puebla.
+
+2.- Segundo Tribunal Colegiado del Sexto Circuito, con residencia en la ciudad de Puebla, Puebla.
+
+3.- Juzgado Primero de Distrito en el estado de Puebla, con residencia en la ciudad de Puebla.
+
+4.- Juzgado Segundo de Distrito en el estado de Puebla, con residencia en la ciudad de Puebla.
+
+5.- Juzgado Tercero de Distrito en el estado de Puebla, con residencia en la ciudad de Puebla.
+
+OCTAVA INSPECTORIA GENERAL
+
+Ministro Luis Gutiérrrez Vidal
+
+1.- Tercer Tribunal Colegiado del Sexto Circuito, con residencia en la ciudad de Puebla, Puebla.
+
+2.- Tribunal Unitario del Sexto Circuito, con residencia en la ciudad de Puebla, Puebla.
+
+3.- Segundo Tribunal Unitario del Segundo Circuito, con residencia la (sic) Ciudad Nezahualcóyotl, Estado de México.
+
+4.- Juzgado Cuarto de Distrito en el estado de Puebla, con residencia en la ciudad de Puebla.
+
+5.- Juzgado Quinto de Distrito en el estado de Puebla, con residencia en la ciudad de Puebla.
+
+6.- Juzgado de Distrito en el estado de Tlaxcala, con residencia en la ciudad de Tlaxcala.
+
+NOVENA INSPECTORIA GENERAL
+
+Ministro Juan Díaz Romero
+
+1.- Primer Tribunal Colegiado del Séptimo Circuito, con residencia en la ciudad de Veracruz, Veracruz.
+
+2.- Segundo Tribunal Colegiado del Séptimo Circuito, con residencia en la ciudad de Veracruz, Veracruz.
+
+3.- Tercer Tribunal Colegiado del Séptimo Circuito, con residencia en la ciudad de Jalapa, Veracruz.
+
+4.- Cuarto Tribunal Colegiado del Séptimo Circuito, con residencia en la ciudad de Jalapa, Veracruz.
+
+5.- Tribunal Unitario del Séptimo Circuito, con residencia en la ciudad de Veracruz, Veracruz.
+
+6.- Juzgado Primero de Distrito en el estado de Veracruz, con residencia en el puerto de Veracruz.
+
+7.- Juzgado Segundo de Distrito en el estado de Veracruz, con residencia en el Puerto de Veracruz.
+
+8.- Juzgado Tercero de Distrito en el estado de Veracruz, con residencia en el Puerto de Veracruz.
+
+9.- Juzgado Quinto de Distrito en el estado de Veracruz, con residencia en la ciudad de Tuxpan.
+
+DECIMA INSPECTORIA GENERAL
+
+Ministro José Martínez Delgado
+
+1.- Primer Tribunal Colegiado del Octavo Circuito, con residencia en la ciudad de Torreón, Coahuila.
+
+2.- Segundo Tribunal Colegiado del Octavo Circuito, con residencia en la ciudad de Torreón, Coahuila.
+
+3.- Tribunal Unitario del Octavo Circuito, con residencia en la ciudad de torreón, Coahuila.
+
+4.- Juzgado Primero de Distrito en La Laguna, con residencia en la ciudad de Torreón, Coahuila.
+
+5.- Juzgado Segundo de Distrito en La Lagunera, con residencia en la ciudad de Torreón, Coahuila.
+
+6.- Juzgado Primero de Distrito en el estado de Durango, con residencia en la ciudad de Durango.
+
+7.- Juzgado Segundo de Distrito en el estado de Durango, con residencia en la ciudad de Durango.
+
+UNDECIMA INSPECTORIA GENERAL
+
+Ministro Ignacio Magaña Cárdenas
+
+1.- Juzgado Primero de Distrito en el estado de Coahuila, con residencia en la ciudad de Saltillo.
+
+2.- Juzgado Segundo de Distrito en el estado de Coahuila, con residencia en la ciudad de Saltillo.
+
+3.- Juzgado Tercero de Distrito en el estado de Coahuila, con residencia en la ciudad de Piedras Negras.
+
+4.- Juzgado Cuarto de Distrito en el estado de Coahuila, con residencia en la ciudad de Monclova.
+
+5.- Juzgado Primero de Distrito en el estado de Querétaro, con residencia en la ciudad de Querétaro.
+
+6.- Juzgado Segundo de Distrito en el estado de Querétaro con residencia en la ciudad de Querétaro.
+
+DUODECIMA INSPECTORA GENERAL
+
+Ministro Atanacio González Martínez
+
+1.- Primer Tribunal Colegiado del Noveno Circuito, con residencia en la ciudad de San Luis Potosí, San Luis Potosí.
+
+2.- Juzgado Primero de Distrito en el estado de San Luis Potosí, con residencia en la ciudad de San Luis Potosí.
+
+3.- Juzgado Segundo de Distrito en el estado de San Luis Potosí, con residencia en la ciudad de San Luis Potosí.
+
+4.- Juzgado Tercero de Distrito en el estado de San Luis Potosí, con residencia en la ciudad de San Luis Potosí.
+
+5.- Juzgado Cuarto de Distrito en el estado de San Luis Potosí, con residencia en la ciudad de San Luis Potosí.
+
+6.- Primer Tribunal Colegiado del Décimo Sexto Circuito, con residencia en la ciudad de Guanajuato, Guanajuato.
+
+7.- Segundo Tribunal Colegiado del Décimo Sexto Circuito, con residencia en la ciudad de Guanajuato, Guanajuato.
+
+8.- Tribunal Unitario del Décimo Sexto Circuito, con residencia en la ciudad de Guanajuato, Guanajuato.
+
+DECIMA TERCERA INSPECTORIA GENERAL
+
+Ministro Ulises Schmill Ordóñez
+
+1.- Segundo Tribunal Colegiado del Noveno Circuito, con residencia en la ciudad de San Luis Potosí, San Luis Potosí.
+
+2.- Tribunal Unitario del Noveno Circuito, con residencia en la ciudad de San Luis Potosí, San Luis Potosí.
+
+3.- Juzgado de Distrito en el estado de Aguascalientes, con residencia en la ciudad de Aguascalientes.
+
+4.- Juzgado Primero de Distrito en el estado de Zacatecas, con residencia en la ciudad de Zacatecas.
+
+5.- Juzgado Segundo de Distrito en el estado de Zacatecas, con residencia en la ciudad de Zacatecas.
+
+6.- Juzgado Primero de Distrito en el estado de Guanajuato, con residencia en Guanajuato.
+
+7.- Juzgado Segundo de Distrito en el estado de Guanajuato, con residencia en Guanajuato.
+
+8.- Juzgado Tercero de Distrito en el estado de Guanajuato, con residencia en León.
+
+DECIMA CUARTA INSPECTORIA GENERAL
+
+Ministro Sergio Hugo Chapital Gutiérrez
+
+1.- Tribunal Colegiado del Décimo Circuito, con residencia en la ciudad de Villahermosa, Tabasco.
+
+2.- Tribunal Unitario del Décimo Circuito, con residencia en la ciudad de Villahermosa, Tabasco.
+
+3.- Juzgado Primero de Distrito en el estado de Tabasco, con residencia en la ciudad de Villahermosa.
+
+4.- Juzgado Segundo de Distrito en el estado de Tabasco, con residencia en la ciudad de Villahermosa.
+
+5.- Juzgado Tercero de Distrito en el estado de Tabasco, con residencia en la ciudad de Villahermosa.
+
+6.- Juzgado Cuarto de Distrito en el estado de Veracruz, con residencia en la ciudad de Coatzacoalcos.
+
+7.- Juzgado Primero de Distrito en el estado de Campeche, con residencia en la ciudad de Campeche.
+
+8.- Juzgado Segundo de Distrito en el estado de Campeche, con residencia en la ciudad de Campeche.
+
+DECIMA QUINTA INSPECTORIA GENERAL
+
+Ministra Victoria Adato Green
+
+1.- Primer Tribunal Colegiado del Décimo Primer Circuito, con residencia en la ciudad de Morelia, Michoacán.
+
+2.- Segundo Tribunal Colegiado del Décimo Primer Circuito, con residencia en la ciudad de Morelia, Michoacán.
+
+3.- Tribunal Unitario del Décimo Primer Circuito, con residencia en la ciudad de Morelia, Michoacán.
+
+4.- Juzgado Primero de Distrito en el estado de Michoacán, con residencia en la ciudad de Morelia.
+
+5.- Juzgado Segundo de Distrito en el estado de Michoacán, con residencia en la ciudad de Morelia.
+
+6.- Juzgado Tercero de Distrito en el estado de Michoacán, con residencia en la ciudad de Morelia.
+
+7.- Juzgado Cuarto de Distrito en el estado de Michoacán, con residencia en la ciudad de Uruapan.
+
+DECIMA SEXTA INSPECTORIA GENERAL
+
+Ministro Carlos de Silva Nava
+
+1.- Primer Tribunal Colegiado del Décimo Segundo Circuito, con residencia en la ciudad de Mazatlán, Sinaloa.
+
+2.- Primer Tribunal Unitario del Décimo Segundo Circuito, con residencia en la ciudad de Mazatlán, Sinaloa.
+
+3.- Tercer Tribunal Unitario del Décimo Segundo Circuito, con residencia en la ciudad de Mazatlán, Sinaloa.
+
+4.- Juzgado Primero de Distrito en el estado de Sinaloa, con residencia en la ciudad de Culiacán.
+
+5.- Juzgado Segundo de Distrito en el estado de Sinaloa, con residencia en la ciudad de Culiacán.
+
+6.- Juzgado de Distrito en el estado de Baja California Sur, con residencia en la ciudad de La Paz.
+
+7.- Juzgado de Distrito en el estado de Nayarit, con residencia en la ciudad de Tepic.
+
+DECIMA SEPTIMA INSPECTORIA GENERAL
+
+Ministro Noé Castañón León
+
+1.- Segundo Tribunal Colegiado del Décimo Segundo Circuito, con residencia en la ciudad de Mazatlán, Sinaloa.
+
+2.- Segundo Tribunal Unitario del Décimo Segundo Circuito, con residencia en la ciudad de Mazatlán, Sinaloa.
+
+3.- Juzgado Tercero de Distrito en el estado de Sinaloa, con residencia en la ciudad de Los Mochis.
+
+4.- Juzgado Cuarto de Distrito en el estado de Sinaloa, con residencia en la ciudad de Los Mochis.
+
+5.- Juzgado Quinto de Distrito en el estado de Sinaloa, con residencia en la ciudad de Mazatlán.
+
+6.- Juzgado Sexto de Distrito en el estado de Sinaloa, con residencia en la ciudad de Mazatlán.
+
+DECIMA OCTAVA INSPECTORIA GENERAL
+
+Ministra Clementina Gil de Lester
+
+1.- Tribunal Colegiado del Décimo Tercer Circuito, con residencia en la ciudad de Oaxaca, Oaxaca.
+
+2.- Tribunal Unitario del Décimo Tercer Circuito, con residencia en la ciudad de Oaxaca, Oaxaca.
+
+3.- Juzgado Primero de Distrito en el estado de Oaxaca, con residencia en la ciudad de Oaxaca.
+
+4.- Juzgado Segundo de Distrito en el estado de Oaxaca, con residencia en la ciudad de Oaxaca.
+
+5.- Juzgado Tercero de Distrito en el estado de Oaxaca, con residencia en la ciudad de Oaxaca.
+
+6.- Juzgado Cuarto de Distrito en el estado de Oaxaca, con residencia en la ciudad de Oaxaca.
+
+7.- Juzgado Quinto de Distrito en el estado de Oaxaca, con residencia en la ciudad de Salina Cruz.
+
+DECIMA NOVENA INSPECTORIA GENERAL
+
+Ministro Santiago Rodríguez Roldán
+
+1.- Tribunal Colegiado del Décimo Cuarto Circuito, con residencia en la ciudad de Mérida, Yucatán.
+
+2.- Tribunal Unitario del Décimo Cuarto Circuito, con residencia en la ciudad de Mérida, Yucatán.
+
+3.- Juzgado Primero de Distrito en el estado de Yucatán, con residencia en la ciudad de Mérida.
+
+4.- Juzgado Segundo de Distrito en el estado de Yucatán, con residencia en la ciudad de Mérida.
+
+5.- Juzgado de Distrito en el estado de Quintana Roo, con residencia en ciudad Chetumal.
+
+VIGESIMA INSPECTORIA GENERAL
+
+Ministro José Manuel Villagordoa Lozano
+
+1.- Primer Tribunal Colegiado del Décimo Quinto Circuito, con residencia en la ciudad de Mexicali, Baja California.
+
+2.- Segundo Tribunal Colegiado del Décimo Quinto Circuito, con residencia en la ciudad de Mexicali, Baja California.
+
+3.- Tribunal Unitario del Décimo Quinto Circuito, con residencia en la ciudad de Mexicali, Baja California.
+
+4.- Juzgado Primero de Distrito en el estado de Baja California, con residencia en la ciudad de Mexicali.
+
+5.- Juzgado Segundo de Distrito en el estado de Baja California, con residencia en la ciudad de Mexicali.
+
+6.- Juzgado Tercero de Distrito en el estado de Baja California, con residencia en la ciudad de Tijuana.
+
+7.- Juzgado Cuarto de Distrito en el estado de Baja California, con residencia en la ciudad de Tijuana.
+
+VIGESIMA PRIMERA INSPECTORIA GENERAL
+
+Ministro Guillermo Guzmán Orozco
+
+1.- Primer Tribunal Colegiado del Décimo Séptimo Circuito, con residencia en la ciudad de Chihuahua, Chihuahua.
+
+2.- Segundo Tribunal Colegiado del Décimo Séptimo Circuito, con residencia en la ciudad de Chihuahua, Chihuahua.
+
+3.- Primer Tribunal Unitario del Décimo Séptimo Circuito, con residencia en la ciudad de Chihuahua, Chihuahua.
+
+4.- Juzgado Primero de Distrito en el estado de Chihuahua, con residencia en la ciudad de Chihuahua.
+
+5.- Juzgado Segundo de Distrito en el estado de Chihuahua, con residencia en la ciudad de Chihuahua.
+
+6.- Juzgado Cuarto de Distrito en el estado de Chihuahua, con residencia en Ciudad Juárez.
+
+7.- Juzgado Quinto de Distrito en el estado de Chihuahua, con residencia en Ciudad Juárez.
+
+8.- Juzgado Sexto de Distrito en el estado de Chihuahua, con residencia en Ciudad Juárez.
+
+VIGESIMA SEGUNDA INSPECTORIA GENERAL
+
+Ministra Irma Cué Sarquís
+
+1.- Tribunal Colegiado del Décimo Octavo Circuito, con residencia en la ciudad de Cuernavaca, Morelos.
+
+2.- Tribunal Unitario del Décimo Octavo Circuito, con residencia en la ciudad de Cuernavaca, Morelos.
+
+3.- Juzgado Primero de Distrito en el estado de Morelos, con residencia en la ciudad de Cuernavaca.
+
+4.- Juzgado Segundo de Distrito en el estado de Morelos, con residencia en la ciudad de Cuernavaca.
+
+5.- Juzgado Tercero de Distrito en el estado de Morelos, con residencia en la ciudad de Cuernavaca.
+
+6.- Segundo Tribunal Unitario del Décimo Séptimo Circuito, con residencia en la ciudad de Chihuahua, Chihuahua.
+
+7.- Juzgado Tercero de Distrito en el estado de Chihuahua, con residencia en la ciudad de Chihuahua.
+
+VIGESIMA TERCERA INSPECTORIA GENERAL
+
+Ministro Luis Fernández Doblado
+
+1.- Primer Tribunal Colegiado del Décimo Noveno Circuito, con residencia en Ciudad Victoria, Tamaulipas.
+
+2.- Segundo Tribunal Colegiado del Décimo Noveno Circuito, con residencia en Ciudad Victoria, Tamaulipas.
+
+3.- Primer Tribunal Unitario del Décimo Noveno Circuito, con residencia en Ciudad Victoria, Tamaulipas.
+
+4.- Juzgado Primero de Distrito en el estado de Tamaulipas, con residencia en Ciudad Victoria.
+
+5.- Juzgado Cuarto de Distrito en el estado de Tamaulipas, con residencia en la ciudad de Matamoros.
+
+6.- Juzgado Quinto de Distrito en el estado de Tamaulipas, con residencia en la ciudad de Matamoros.
+
+7.- Juzgado Octavo de Distrito en el estado de Tamaulipas, con residencia en la ciudad de Tampico.
+
+VIGESIMA CUARTA INSPECTORIA GENERAL
+
+Ministro Felipe López Contreras
+
+1.- Tribunal Colegiado del Vigésimo Circuito, con residencia en la ciudad de Tuxtla, Gutiérrez, Chiapas.
+
+2.- Tribunal Unitario del Vigésimo Circuito, con residencia en la ciudad de Tuxtla Gutiérrez, Chiapas.
+
+3.- Juzgado Primero de Distrito en el estado de Chiapas, con residencia en la ciudad de Tuxtla Gutiérrez.
+
+4.- Juzgado Segundo de Distrito en el estado de Chiapas, con residencia en la ciudad de Tuxtla Gutiérrez.
+
+5.- Juzgado Tercero de Distrito en el estado de Chiapas, con residencia en la ciudad de Tapochula.
+
+6.- Juzgado Cuarto de Distrito en el estado de Chiapas, con residencia en la ciudad de Tapachula.
+
+VIGESIMA QUINTA INSPECTORIA GENERAL
+
+Ministro Samuel Alba Leyva
+
+1.- Primer Tribunal Colegiado del Vigésimo Primer Circuito, con residencia en la ciudad de Chilpancingo, Guerrero.
+
+2.- Segundo Tribunal Colegiado del Vigésimo Primer Circuito, con residencia en la ciudad de Chilpancingo, Guerrero.
+
+3.- Tribunal Unitario del Vigésimo Primer Circuito, con residencia en la ciudad de Chilpancingo, Guerrero.
+
+4.- Juzgado Primero de Distrito en el estado de Guerrero, con residencia en la ciudad de Chilpancingo.
+
+5.- Juzgado Segundo de Distrito en el estado de Guerrero, con residencia en la ciudad de Acapulco.
+
+6.- Juzgado Tercero de Distrito en el estado de Guerrero, con residencia en la ciudad de Acapulco.
+
+INSPECTORIA ESPECIALIZADA No. 1
+
+Ministra Clementina Gil de Lester
+
+1.- Primer Tribunal Colegiado en Materia Penal del Primer Circuito, con residencia en la ciudad de México, Distrito Federal.
+
+2.- Juzgado Primero de Distrito en Materia Penal en el Distrito Federal, con residencia en la ciudad de México.
+
+3.- Juzgado Segundo de Distrito en Materia Penal en el Distrito Federal, con residencia en la ciudad de México.
+
+4.- Juzgado Tercero de Distrito en Materia Penal en el Distrito Federal, con residencia en la ciudad de México.
+
+INSPECTORIA ESPECIALIZADA No. 2
+
+Ministro Santiago Rodríguez Roldán
+
+1.- Segundo Tribunal Colegiado en Materia Penal del Primer Circuito, con residencia en la ciudad de México, Distrito Federal.
+
+2.- Tercer Tribunal Colegiado en Materia Penal del Primer Circuito, con residencia en la ciudad de México, Distrito Federal.
+
+3.- Juzgado Cuarto de Distrito en Materia Penal en el Distrito Federal, con residencia en la ciudad de México.
+
+4.- Juzgado Quinto de Distrito en Materia Penal en el Distrito Federal, con residencia en la ciudad de México.
+
+5.- Juzgado Sexto de Distrito en Materia Penal en el Distrito Federal, con residencia en la ciudad de México.
+
+6.- Juzgado Décimo Primero de Distrito en Materia Penal en el Distrito Federal, con residencia en la ciudad de México.
+
+INSPECTORIA ESPECIALIZADA No. 3
+
+Ministra Victoria Adato Green
+
+1.- Primer Tribunal Unitario del Primer Circuito, con residencia en la ciudad de México, Distrito Federal.
+
+2.- Juzgado Séptimo de Distrito en Materia Penal en el Distrito Federal, con residencia en la ciudad de México.
+
+3.- Juzgado Octavo de Distrito en Materia Penal en el Distrito Federal, con residencia en la ciudad de México.
+
+4.- Juzgado Noveno de Distrito en Materia Penal en el Distrito Federal, con residencia en la ciudad de México.
+
+5.- Juzgado Décimo de Distrito en Materia Penal en el Distrito Federal, con residencia en la ciudad de México.
+
+INSPECTORIA ESPECIALIZADA No. 4
+
+Ministro Luis Fernández Doblado
+
+1.- Tribunal Colegiado en Materia Penal del Tercer Circuito, con residencia en la ciudad de Guadalajara, Jalisco.
+
+2.- Juzgado Primero de Distrito en Materia Penal en el estado de Jalisco, con residencia en la ciudad de Guadalajara.
+
+3.- Juzgado Segundo de Distrito en Materia Penal en el estado de Jalisco, con residencia en la ciudad de Guadalajara.
+
+4.- Juzgado Tercero de Distrito en Materia Penal en el estado de Jalisco, con residencia en la ciudad de Guadalajara.
+
+5.- Juzgado Décimo Segundo de Distrito en Materia Penal en el Distrito Federal, con residencia en la ciudad de México.
+
+INSPECTORIA ESPECIALIZADA No. 5
+
+Ministro Samuel Alba Leyva
+
+1.- Primer Tribunal Unitario del Tercer Circuito, con residencia en la ciudad de Guadalajara, Jalisco.
+
+2.- Juzgado Cuarto de Distrito en Materia Penal en el estado de Jalisco, con residencia en la ciudad de Guadalajara.
+
+3.- Juzgado Quinto de Distrito en Materia Penal en el estado de Jalisco, con residencia en la ciudad de Guadalajara.
+
+4.- Juzgado Sexto de Distrito en Materia Penal en el estado de Jalisco, con residencia en la ciudad de Guadalajara.
+
+5.- Juzgado Séptimo de Distrito en Materia Penal en el estado de Jalisco, con residencia en la ciudad de Guadalajara.
+
+INSPECTORIA ESPECIALIZADA No. 6
+
+Ministra Fausta Moreno Flores
+
+1.- Primer Tribunal Colegiado en Materia Administrativa del Primer Circuito, con residencia en la ciudad de México, Distrito Federal.
+
+2.- Juzgado Primero de Distrito en Materia Administrativa en el Distrito Federal, con residencia en la ciudad de México.
+
+3.- Juzgado Segundo de Distrito en Materia Administrativa en el Distrito Federal, con residencia en la ciudad de México.
+
+4.- Juzgado Tercero de Distrito en Materia Administrativa en el Distrito Federal, con residencia en la ciudad de México.
+
+INSPECTORIA ESPECIALIZADA No. 7
+
+Ministro José Manuel Villagordo (sic) Lozano
+
+1.- Segundo Tribunal Colegiado en Materia Administrativa del Primer Circuito, con residencia en la ciudad de México, Distrito Federal.
+
+2.- Juzgado Cuarto de Distrito en Materia Administrativa en el Distrito Federal, con residencia en la ciudad de México.
+
+3.- Juzgado Quinto de Distrito en Materia Administrativa en el Distrito Federal, con residencia en la ciudad de México.
+
+4.- Juzgado Sexto de Distrito en Materia Administrativa en el Distrito Federal, con residencia en la ciudad de México.
+
+INSPECTORIA ESPECIALIZADA No. 8
+
+Ministro Carlos de Silva Nava
+
+1.- Tercer Tribunal Colegiado en Materia Administrativa del Primer Circuito, con residencia en la ciudad de México, Distrito Federal.
+
+2.- Juzgado Séptimo de Distrito en Materia Administrativa en el Distrito Federal, con residencia en la ciudad de México.
+
+3.- Juzgado Octavo de Distrito en Materia Administrativa en el Distrito Federal, con residencia en la ciudad de México.
+
+4.- Juzgado Noveno de Distrito en Materia Administrativa en el Distrito Federal, con residencia en la ciudad de México.
+
+INSPECTORIA ESPECIALIZADA No. 9
+
+Ministro Atanacio González Martínez
+
+1.- Cuarto Tribunal Colegiado en Materia Administrativa del Primer Circuito, con residencia en la ciudad de México, Distrito Federal.
+
+2.- Quinto Tribunal Colegiado en Materia Administrativa del Primer Circuito, con residencia en la ciudad de México, Distrito Federal.
+
+3.- Sexto Tribunal Colegiado en Materia Administrativa del Primer Circuito, con residencia en la ciudad de México, Distrito Federal.
+
+4.- Juzgado Décimo de Distrito en Materia Administrativa en el Distrito Federal, con residencia en la ciudad de México.
+
+INSPECTORIA ESPECIALIZADA No. 10
+
+Ministro Noé Castañón León
+
+1.- Primer Tribunal Colegiado en Materia Administrativa del Tercer Circuito, con residencia en la ciudad de Guadalajara, Jalisco.
+
+2.- Segundo Tribunal Colegiado en Materia Administrativa del Tercer Circuito, con residencia en la ciudad de Guadalajara, Jalisco.
+
+3.- Juzgado Primero de Distrito en Materia Administrativa en el Estado de Jalisco, con residencia en la ciudad de Guadalajara.
+
+4.- Juzgado Segundo de Distrito en Materia Administrativa en el estado de Jalisco, con residencia en la ciudad de Guadalajara.
+
+5.- Juzgado Tercero de Distrito en Materia Administrativa en el estado de Jalisco, con residencia en la ciudad de Guadalajara.
+
+INSPECTORIA ESPECIALIZADA No. 11
+
+Ministro Ignacio Magaña Cárdenas
+
+1.- Primer Tribunal Colegiado en Materia Civil del Primer Circuito, con residencia en la ciudad de México, Distrito Federal.
+
+2.- Segundo Tribunal Colegiado en Materia Civil del Primer Circuito, con residencia en la ciudad de México, Distrito Federal.
+
+3.- Juzgado Primero de Distrito en Materia Civil en el Distrito Federal con residencia en la ciudad de México.
+
+4.- Juzgado Segundo de Distrito en Materia Civil en el Distrito Federal, con residencia en la ciudad de México.
+
+INSPECTORIA ESPECIALIZADA No. 12
+
+Ministro Mariano Azuela Güitrón
+
+1.- Tercer Tribunal Colegiado en Materia Civil del Primer Circuito, con residencia en la ciudad de México, Distrito Federal.
+
+2.- Cuarto Tribunal Colegiado en Materia Civil del Primer Circuito, con residencia en la ciudad de México, Distrito Federal.
+
+3.- Juzgado Tercero de Distrito en Materia Civil en el Distrito Federal, con residencia en la ciudad de México.
+
+4.- Juzgado Cuarto de Distrito en Materia Civil en el Distrito Federal, con residencia en la ciudad de México.
+
+INSPECTORIA ESPECIALIZADA No. 13
+
+Ministro Sergio Hugo Chapital Gutiérrez
+
+1.- Quinto Tribunal Colegiado en Materia Civil del Primer Circuito, con residencia en la ciudad de México, Distrito Federal.
+
+2.- Segundo Tribunal Unitario del Primer Circuito, con residencia en la ciudad de México, Distrito Federal.
+
+3.- Juzgado Quinto de Distrito en Materia Civil en el Distrito Federal, con residencia en la ciudad de México.
+
+4.- Juzgado Sexto de Distrito en Materia Civil en el Distrito Federal, con residencia en la ciudad de México.
+
+INSPECTORIA ESPECIALIZADA No. 14
+
+1.- Sexto Tribunal Colegiado en Materia Civil del Primer Circuito, con residencia en la ciudad de México, Distrito Federal.
+
+2.- Primer Tribunal Colegiado en Materia Civil del Tercer Circuito, con residencia en la ciudad de Guadalajara.
+
+3.- Tercer Tribunal Unitario del Tercer Circuito, con residencia en la ciudad de Guadalajara, Jalisco.
+
+4.- Juzgado Primero de Distrito en Materia Civil en el estado de Jalisco, con residencia en la ciudad de Guadalajara.
+
+5.- Juzgado Segundo de Distrito en Materia Civil en el estado de Jalisco, con residencia en la ciudad de Guadalajara.
+
+INSPECTORIA ESPECIALIZADA No. 15
+
+Ministro José Antonio Llanos Duarte
+
+1.- Segundo Tribunal Colegiado en Materia Civil del Tercer Circuito, con residencia en la ciudad de Guadalajara, Jalisco.
+
+2.- Tercer Tribunal Colegiado en Materia Civil del Tercer Circuito, con residencia en la ciudad de Guadalajara, Jalisco.
+
+3.- Segundo Tribunal Unitario del Tercer Circuito, con residencia en la ciudad de Guadalajara, Jalisco.
+
+4.- Tercer Tribunal Unitario del Primer Circuito, con residencia en la ciudad de México, Distrito Federal.
+
+5.- Juzgado de Distrito en el estado de Colima, con residencia en la ciudad de Colima.
+
+INSPECTORIA ESPECIALIZADA No. 16
+
+Ministro José Martínez Delgado
+
+1.- Primer Tribunal Colegiado en Materia Laboral del Primer Circuito, con residencia en la ciudad de México, Distrito Federal.
+
+2.- Juzgado Primero de Distrito en Materia Laboral en el Distrito Federal, con residencia en la ciudad de México.
+
+INSPECTORIA ESPECIALIZADA No. 17
+
+Ministro Juan Díaz Romero
+
+1.- Segundo Tribunal Colegiado en Materia Laboral del Primer Circuito, con residencia en la ciudad de México, Distrito Federal.
+
+2.- Juzgado Segundo de Distrito en Materia Laboral en el Distrito Federal, con residencia en la ciudad de México.
+
+INSPECTORIA ESPECIALIZADA No. 18
+
+Ministro Ulises Scapell (sic) Ordóñez
+
+1.- Tercer Tribunal Colegiado en Materia Laboral del Primer Circuito, con residencia en la ciudad de México, Distrito Federal.
+
+2.- Cuarto Tribunal Colegiado en Materia Laboral del Primer Circuito, con residencia en la ciudad de México, Distrito Federal.
+
+INSPECTORIA ESPECIALIZADA No. 19
+
+Ministro Carlos García Vázquez
+
+1.- Quinto Tribunal Colegiado en Materia Laboral del Primer Circuito, con residencia en la ciudad de México, Distrito Federal.
+
+2.- Sexto Tribunal Colegiado en Materia Laboral del Primer Circuito, con residencia en la ciudad de México, Distrito Federal.
+
+INSPECTORIA ESPECIALIZADA No. 20
+
+Ministro Felipe López Contreras
+
+1.- Séptimo Tribunal colegiado en Materia Laboral del Primer Circuito, con residencia en la ciudad de México, Distrito Federal.
+
+2.- Tribunal Colegiado en Materia Laboral del Tercer Circuito, con residencia en la ciudad de Guadalajara, Jalisco.
+
+Aprobado por el Tribunal Pleno en Sesión celebrada el día miércoles veintidós de agosto de mil novecientos noventa, por unanimidad de dieciocho votos.- El Secretario General de Acuerdos, José Javier Aguilar Domínguez.- Rúbrica.
