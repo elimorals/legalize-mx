@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "1989-05-03"
+last_updated: "1995-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 1995.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -351,6 +351,14 @@ Quien esté unido en matrimonio podrá comparecer como gestor de su cónyuge sin
 
 El fiador del gestor judicial renunciará todos los beneficios legales, observándose en este caso lo dispuesto en los artículos 2731 y 2736 del Código Civil.
 
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1995)</small>
+
+###### Artículo 52 Bis.
+
+Las partes pueden nombrar para que las representen en juicio, uno o más procuradores judiciales, autorizados para el ejercicio de la abogacía, quienes podrán llevar a cabo en favor de quien los haya designado todos los actos procesales que correspondan a dicha parte, excepto aquellos que impliquen disposición del derecho en litigio, los enumerados en el artículo 2469 del Código Civil y los que conforme a la ley estén reservados personalmente a los interesados.
+
+Para este efecto, bastará que la designación se haga en escrito privado dirigido al juez de la causa, debiendo contener la aceptación del o de los nombrados.
+
 ###### Artículo 53.
 
 Siempre que dos o más personas ejerciten una misma acción u opongan la misma excepción, deberán litigar unidas bajo una misma representación. A este efecto deberán, dentro de tres días, nombrar un procurador judicial que los represente a todos, con las facultades necesarias para la continuación del juicio, o elegir de entre ellos mismos un representante común. Si no nombraren procurador ni hicieren la elección de representante, o no se pusieren de acuerdo en ella, el juez nombrará al representante común escogiendo a alguno de los que hayan sido propuestos; y si nadie lo hubiere sido, a cualquiera de los interesados. El procurador nombrado tendrá las facultades que en su poder le hayan concedido. El representante común tendrá las mismas facultades que si litigara exclusivamente por su propio derecho, excepto las de transigir y comprometer en árbitros, a menos de que expresamente le fueren también concedidas por los interesados.
@@ -371,9 +379,11 @@ Para la tramitación y resolución de los asuntos ante los tribunales ordinarios
 
 Las actuaciones judiciales y los ocursos deberán escribirse en castellano. Los documentos redactados en idioma extranjero deberán acompañarse con la correspondiente traducción al castellano. Las fechas y cantidades se escribirán con letra.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
 ###### Artículo 57.
 
-En las actuaciones judiciales no se emplearán abreviaturas ni se rasparan las frases equivocadas, sobre las que sólo se pondrá una línea delgada que permita la lectura, salvándose al fin con toda precisión el error cometido.
+En las actuaciones judiciales no se emplearán abreviaturas. Toda corrección o enmienda, deberá ser anotada y salvada al final del acta.
 
 ###### Artículo 58.
 
@@ -473,17 +483,17 @@ Para obtener copia certificada de cualquier documento que obre en juicio, se req
 
 Cuando la parte que exhibió un documento en el juicio pidiere la devolución del original, se devolverá éste anotado con las indicaciones necesarias para identificar el juicio en que fué presentado, y si está pendiente o resuelto en definitiva.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1989)</small>
+
 ###### Artículo 72.
 
-Los tribunales no admitirán nunca recursos notoriamente frívolos o improcedentes; los desecharán de plano, sin necesidad de mandarlos hacer saber a la otra parte, ni formar artículo, y en su caso consignarán el hecho al Agente del ministerio Público para que se apliquen las sanciones del Código Penal.
+Los tribunales desecharán de plano los recursos e incidentes notoriamente frívolos e improcedentes, consignando en su caso el hecho al Agente del Ministerio Público que corresponda. Contra el auto que deseche la admisión de un incidente cabe la apelación en efecto devolutivo.
 
-Los incidentes ajenos al negocio principal deberán ser repelidos de oficio por los jueces.
-
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 1989)</small>
 
 ###### Artículo 73.
 
-Los jueces, para hacer cumplir sus determinaciones, pueden emplear cualquiera de los siguientes medios de apremio que juzguen eficaz:
+Los jueces, para hacer cumplir sus determinaciones, pueden indistintamente y sin sujetarse a orden alguno, emplear cualesquiera de los siguientes medios de apremio que juzguen eficaz:
 
 I. La multa hasta por las cantidades a que se refiere el Artículo 62, fracción II, la cual podrá duplicarse en caso de reincidencia;
 
@@ -511,9 +521,11 @@ Las notificaciones hechas en forma distinta a la prevenida en el Capítulo V del
 
 La nulidad de una actuación debe de reclamarse en la actuación subsecuente, pues de lo contrario aquélla queda revalidada de pleno derecho, con excepción de la nulidad por defecto en el emplazamiento.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
 ###### Artículo 78.
 
-Sólo formará artículo de previo y especial pronunciamiento la nulidad de actuaciones por falta de emplazamiento, por falta de citación para la absolución de posiciones y para reconocimiento de documentos, y en los demás casos en que la ley expresamente lo determine. Los incidentes que se susciten con motivo de otras nulidades de actuaciones o de notificaciones se fallarán en la sentencia definitiva.
+Sólo formarán artículo de previo y especial pronunciamiento la nulidad de actuaciones por falta de emplazamiento, los demás supuestos en que la ley expresamente lo determine, y aquellos en que el juez, atendiendo a la naturaleza del caso, lo considere pertinente. Los incidentes que se susciten con motivo de otras nulidades de actuaciones o de notificaciones se fallarán en la sentencia definitiva.
 
 > <small>(REFORMADO, P.O. 3 DE MAYO DE 1989)</small>
 
@@ -591,9 +603,13 @@ Toda sentencia tiene a su favor la presunción de haberse pronunciado según la 
 
 La sentencia firme produce acción y excepción contra los que litigaron y contra terceros llamados legalmente al juicio.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
 ###### Artículo 93.
 
-El tercero puede excepcionarse contra la sentencia firme, pero no contra la que recayó en juicio de estado civil, a menos que alegue colusión de los litigantes para perjudicarlo.
+La cosa juzgada sólo podrá ser materia de contradicción mediante juicio de nulidad por terceros afectados en un derecho dependiente del que ha sido materia de sentencia, si ésta fue producto de dolo o colusión en su perjuicio.
+
+El juicio de nulidad no suspende los efectos de la cosa juzgada que haya sido impugnada, sino hasta que recaiga sentencia firme que la declare nula.
 
 ###### Artículo 94.
 
@@ -611,9 +627,11 @@ A toda demanda o contestación deberá acompañarse necesariamente:
 
 1o. El poder que acredite la personalidad del que comparece en nombre de otro;
 
-2o. El documento o documentos que acrediten el carácter con el que el litigante se presente en juicio, en el caso de tener representación legal de alguna persona o corporación, o cuando el derecho que reclame provenga de habérsele trasmitido por otra persona;
+2o. El documento o documentos que acrediten el carácter con el que el litigante se presente en juicio, en el caso de tener representación legal de alguna persona o corporación, o cuando el derecho que reclame provenga de habérsele transmitido por otra persona;
 
-3o. Una copia en papel común del escrito y de los documentos cuando haya de correrse traslado al colitigante. Si excedieren los documentos de veinticinco fojas, quedarán en la secretaría para que se instruyan las partes.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
+3o. Una copia en papel común del escrito y de los documentos cuando haya de correrse traslado al colitigante.
 
 ###### Artículo 96.
 
@@ -647,23 +665,29 @@ No se admitirá documento alguno después de la citación para sentencia en los 
 
 Esto se entenderá sin perjuicio de la facultad que tienen los tribunales de investigar la verdad sobre los puntos controvertidos de acuerdo con las reglas generales de prueba.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
 ###### Artículo 100.
 
-De todo documento que se presente después del término de prueba se dará traslado a la otra parte para que dentro del tercer día manifieste lo que a su derecho convenga.
+De todo documento que se presente después de la demanda o la contestación, por el actor o demandado, respectivamente, se dará traslado a la otra parte para que dentro del tercer día manifieste lo que a su derecho convenga.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
 
 ###### Artículo 101.
 
-Cuando la impugnación del documento nuevo se refiera a su admisión por no hallarse en ninguno de los casos expresados en el artículo 98 el juez reservará para la definitiva la resolución de lo que estime procedente.
+Cuando la impugnación del documento nuevo se refiera a su admisión, por no hallarse en ninguno de los casos expresados en el artículo 98, de ser atendible, el juez procederá en los términos del último párrafo de dicho precepto, en cuyo caso la resolución será apelable en efecto devolutivo.
+
+Si la objeción se fundare en causa distinta, la resolución de lo que se estime procedente se reservará para la definitiva.
 
 ###### Artículo 102.
 
 Las copias de los escritos y documentos se entregarán a la parte o partes contrarias al notificarles la providencia que haya recaído en el escrito respectivo, o al hacerles la citación o emplazamiento que proceda.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
 ###### Artículo 103.
 
-La omisión de las copias no será motivo para dejar de admitir los escritos y documentos que se presenten en tiempo oportuno. En este caso, el juez señalará, sin ulterior recurso, un término que no excederá de tres días para exhibir las copias, y si no se presentasen en dicho plazo, las hará el secretario a costa de la parte que las omitió.
-
-Se exceptúan de esta disposición los escritos de demanda principal o incidental y los en que se pidan liquidaciones que no serán admitidos si no se acompañan de las copias correspondientes.
+Por regla general cuando se prevea la exhibición de copias para la parte contraria, en el evento de que no se acompañaren el juez señalará un término de tres días para que sean presentadas, bajo el apercibimiento que de no hacerlo el escrito o documento correspondiente no será admitido, sin que contra tal inadmisión proceda recurso alguno.
 
 ### CAPITULO IV.
 
@@ -771,17 +795,17 @@ La notificación de la demanda a las personas morales, se hará por conducto de 
 
 Las notificaciones distintas a las personales se harán por lista de acuerdos, en los términos del Artículo 116 y surten sus efectos al día siguiente de su publicación.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
 ###### Artículo 116.
 
-Es obligación de los jueces, secretarios y demás empleados a quienes la ley encomienda hacer notificaciones, publicar todos los días, antes de las trece horas, en la puerta de sus oficinas o en la tabla de avisos, la lista numerada de los negocios acordados o resueltos, designándose en ella solamente los nombres y apellidos de los interesados y la naturaleza del procedimiento judicial. La lista se hará por triplicado, para que uno de los ejemplares se guarde en el archivo de la oficina para resolver cualquiera duda que se suscite, irá autorizada con el sello y la firma del juez o magistrado en todo caso, y no contendrá entrerrenglonados ni repetición de números. En esa lista no se inscribirán las resoluciones judiciales que tengan por objeto el depósito de personas, el requerimiento de pago, los embargos precautorios, el aseguramiento de bienes u otras diligencias semejantes de carácter reservado a juicio del juez.
+La lista numerada de los negocios acordados o resueltos, se publicará diariamente en la tabla de avisos antes de las catorce horas, designándose en ella solamente los nombres y apellidos de los interesados y la naturaleza del procedimiento judicial. Dicha lista irá autorizada con el sello y la firma del Secretario correspondiente. En ella no se inscribirán las resoluciones judiciales que tengan por objeto el depósito de personas, el requerimiento de pago, los embargos precautorios, el aseguramiento de bienes u otras diligencias semejantes de carácter reservado a juicio del juez.
 
 > <small>(REFORMADO, P.O. 3 DE MAYO DE 1989)</small>
 
 ###### Artículo 117.
 
 Si se probare que no se hizo la notificación personalmente, compareciendo la parte al Tribunal con ese objeto, será responsable el Secretario o la persona que debió hacer aquélla, de los daños y perjuicios y se le impondrá además, cualquiera de las sanciones que prevé el Artículo 62.
-
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 1989)</small>
 
 ###### Artículo 118.
 
@@ -791,11 +815,15 @@ I. El emplazamiento del demandado y del reconvenido y la primera notificación a
 
 II. El auto que mande abrir el juicio a prueba;
 
-III. El auto que admita a trámite un incidente, así como el que lo deseche;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1995)</small>
+
+III. El auto que admita o deseche un incidente, así como el que admita o niegue la admisión de un recurso;
 
 IV. El auto que ordena la cita para absolución de posiciones o reconocimiento de documentos;
 
-V. El requerimiento de un acto o la parte que deba cumplirlo;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1995)</small>
+
+V. El acuerdo que entrañe un apercibimiento o prevención, así como el requerimiento de un acto a la parte que deba cumplirlo;
 
 VI. La sentencia de fondo e interlocutorias;
 
@@ -807,13 +835,13 @@ IX. El auto que apruebe o desapruebe el remate; y
 
 X. En los demás casos que la Ley o el Juez así lo dispongan.
 
-> <small>(ADICIONADO, P.O. 3 DE MAYO DE 1989)</small>
+> <small>(REFORMADO. P.O. 21 DE JULIO DE 1995)</small>
 
 ###### Artículo 118 Bis.
 
-Salvo el emplazamiento para contestar demanda, las notificaciones a que se refiere el artículo anterior se harán conforme a lo dispuesto en el artículo 113 en el domicilio señalado para ese efecto, y no encontrándose el interesado o su autorizado, la misma se hará por instructivo que se entregará a las personas a que se refiere el cuarto párrafo del artículo 114, sin que sea necesario dejar citatorio previo. La notificación hecha al autorizado, surte los mismos efectos que si fuere practicada al interesado.
+Salvo el emplazamiento para contestar demanda, las notificaciones a que se refiere el artículo anterior se harán conforme a lo dispuesto en el artículo 113 en el domicilio señalado para el efecto. No encontrándose el interesado o su autorizado, la misma se hará por instructivo que se entregará a las personas a que se refiere el cuarto párrafo del artículo 114, sin que sea necesario dejar citatorio previo.
 
-Si la casa, despacho o domicilio señalado para oír notificaciones por las partes no existe, está desocupado o permanece cerrado después de dos búsquedas en horas de despacho, se hará constar dicha circunstancia y las notificaciones personales surtirán efectos por medio del instructivo fijado en las puertas del juzgado.
+Si la casa, despacho o domicilio señalado para recibir notificaciones por las partes no existe, está desocupado o permanece cerrado después de dos búsquedas en días sucesivos y en horas de despacho, se hará constar dicha circunstancia y las notificaciones personales surtirán efectos por medio de instructivo fijado en la tabla de avisos del juzgado.
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 1956)</small>
 
@@ -831,13 +859,19 @@ Cuando el demandado resida en el extranjero, se ampliará el término del emplaz
 
 Deben firmar las notificaciones las personas que las hacen y aquéllas a quienes se hagan. Si éstas no quisieren o no supieren firmar, lo hará el secretario o quien haga sus veces, haciendo constar esta circunstancia.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
 ###### Artículo 122.
 
-En los casos de notificación por lista de acuerdos, se pondrá en los autos razón del número y la fecha con que se haya listado el acuerdo respectivo, así como también el momento en que surta todos sus efectos la notificación.
+En los casos de notificación por lista de acuerdos, se pondrá en los autos razón del número y la fecha con que se haya listado el acuerdo respectivo.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
 
 ###### Artículo 123.
 
-Cuando haya de notificarse a una persona residente en otro lugar, comprendido en la jurisdicción del juez que la mande hacer, la notificación se hará por medio de oficio a la autoridad judicial correspondiente, para que ésta haga la notificación en los términos de ley.
+Cuando haya de notificarse a una persona fuera de la jurisdicción del juez de la causa, la notificación se hará por medio de oficio dirigido a la autoridad judicial correspondiente, para que ésta la mande practicar en los términos de ley.
+
+Si el proveído o mandato se dirige a una autoridad, dependencia u órgano oficial, sea dentro o fuera del Estado, el juez podrá enviar directamente el oficio comunicando su resolución.
 
 ###### Artículo 124.
 
@@ -853,15 +887,17 @@ También podrá notificárseles por instructivo utilizando el correo con acuse d
 
 El juez podrá ordenar que las citaciones de que trata este artículo se hagan por conducto de la parte que la haya solicitado y mediante instructivo, debiendo de recabarse la firma de recibido del testigo o perito en la copia que al efecto se expedirá, apercibiendo al interesado que de no hacer la citación será declarada desierta la prueba. Para ordenar la práctica de esta forma de notificación, el Juez hará uso de su prudente arbitrio, considerando las constancias de autos y la conducta procesal de las partes razonando así su resolución.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
 ###### Artículo 126.
 
-También podrán hacerse notificaciones a los abogados de las partes, cuando en autos hayan sido facultados al efecto por sus clientes. La facultad de oír notificaciones autoriza al abogado para promover en contestación de las mismas lo que no perjudique a su cliente, y para alegar o presentar alegados.
+Las partes tienen facultad para autorizar una o varias personas para que reciban notificaciones. En tanto no se revoque dicha designación, las resoluciones que se notifiquen a los autorizados surten los mismos efectos que si fueren practicadas directamente al interesado.
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 1989)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
 
 ###### Artículo 127.
 
-El incidente de nulidad que se promueva por defecto de las notificaciones se substanciará ante el mismo juez o Magistrado que conozca del negocio. Si la parte contraria estuviere conforme, se declarará desde luego la nulidad de lo actuado desde la notificación hecha indebidamente. Si no estuviere conforme se convocará a una audiencia que tendrá verificativo a más tardar dentro de cinco días, en la que los interesados pueden presentar las pruebas que tuvieren. En la misma audiencia se resolverá lo que procediere en justicia. En el caso de que proceda la nulidad, se impondrá al responsable cualquiera de las sanciones del artículo 62.
+El incidente de nulidad de actuaciones se substanciará ante el mismo juzgado o tribunal que conozca del negocio. Si la parte contraria estuviere conforme, se declarará la nulidad correspondiente desde la actuación de que se trate. Si no estuviere conforme, y en caso de que el incidente exigiere prueba, previa solicitud de parte se convocará a una audiencia para su recepción, que tendrá verificativo a más tardar dentro de cinco días. Celebrada la audiencia o de no haberse requerido prueba, el juez resolverá lo que proceda dentro del término de tres días. En caso de que se declare la nulidad, se impondrá al responsable cualesquiera de las sanciones previstas por el artículo 62.
 
 > <small>(REFORMADO, P.O. 3 DE MAYO DE 1989)</small>
 
@@ -889,7 +925,7 @@ En ningún término se contarán los días en que no puedan tener lugar actuacio
 
 ###### Artículo 132.
 
-En los autos se harán constar el día en que comienzan a correr los términos y aquel en que deben de concluir.
+(DEROGADO, P.O. 21 DE JULIO DE 1995)
 
 ###### Artículo 133.
 
@@ -913,9 +949,13 @@ Para fijar la duración de los términos los meses se regularán por el número 
 
 Cuando este Código no señale términos para la práctica de algún acto judicial, o para el ejercicio de algún derecho, se tendrán por señalados los siguientes:
 
-I. Cinco días para interponer el recurso de apelación de sentenca (sic) definitiva;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1995)</small>
 
-II. Tres días para apelar de autos;
+I. Ocho días para apelar de sentencia definitiva;
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1995)</small>
+
+II. Cinco días para apelar de interlocutorias o autos;
 
 III. Tres días para la celebración de juntas, reconocimientos de firmas, exhibición de documentos, dictamen de peritos; a no ser que por circunstancias especiales creyere justo el juez ampliar el término, lo cual podrá hacer por tres días más;
 
@@ -1115,9 +1155,11 @@ Para los actos preparatorios del juicio, será competente el juez que lo fuere p
 
 En las providencias precautorias regirá lo dispuesto en el párrafo anterior. Si los autos estuvieren en segunda instancia, será competente para dictar la providencia precautoria el juez que conoció de ellos en primera instancia. En caso de urgencia, puede dictarla el del lugar donde se hallen la persona o la cosa objeto de la providencia y efectuado se remitirán las actuaciones al competente.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
 ###### Artículo 161.
 
-Cuando en el lugar hubiere varios jueces competentes, conocerá del negocio el que elija el interesado.
+Cuando en el lugar hubiere varios jueces competentes, cualquiera podrá conocer del negocio.
 
 ###### Artículo 162.
 
@@ -1133,7 +1175,9 @@ Las cuestiones de competencia podrán promoverse por inhibitoria o por declinato
 
 La inhibitoria se intentará ante el tribunal a quien se considere competente, pidiéndole que dirija oficio al que se estima no serlo, para que se inhiba y remita los autos.
 
-La declinatoria se propondrá ante el tribunal a quien se considere incompetente, pidiéndole que se abstenga del conocimiento del negocio y remita los autos al considerado competente. Se substanciará conforme al artículo 268.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
+La declinatoria se propondrá ante el tribunal a quien se considere incompetente, pidiéndole que se abstenga del conocimiento del negocio y remita los autos al considerado competente. El juez remitirá los autos a su inmediato superior, emplazando a los interesados para que en un término de cinco días comparezcan ante éste, el cual, en una audiencia en que se reciban las pruebas y alegatos de las partes y del Ministerio Público, resolverá la cuestión mandando sin retardo los autos al juez que estime competente, quien debe hacerlo saber a los litigantes. En este caso la demanda y la contestación se tendrán como presentadas ante éste.
 
 En ningún caso se promoverán de oficio las cuestiones de competencia; pero el juez que se estime incompetente puede inhibirse del conocimiento del negocio, siendo apelable en ambos efectos su resolución y el tribunal de alzada fijará definitivamente la competencia.
 
@@ -1675,9 +1719,11 @@ Ni las multas a que se refiere el artículo anterior, ni el requisito de la fian
 
 Ni el Ministerio Público ni los agentes fiscales estarán obligados a otorgar fianza.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 1995)</small>
+
 ###### Artículo 244.
 
-La providencia de retener la posesión da fin, por sí misma, a la materia de la precautoria.
+La providencia de retener la posesión da fin, por sí misma, a la materia de la precautoria, concluyendo al ser notificado el mandamiento de retener dictado por el juez, debiendo el promovente proceder conforme al artículo 241.
 
 La providencia de obra peligrosa, sin perjuicio de poder promoverse como acto prejudicial o después de iniciado el juicio respectivo, puede también, por sí misma, poner fin al objeto de la precautoria.
 
@@ -1775,9 +1821,11 @@ VII. En su caso el valor de lo demandado.
 
 Presentada la demanda con los documentos y copias necesarias, se correrá traslado de ella a la persona o personas contra quienes se intente, emplazándolas para que la contesten dentro de nueve días.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
 ###### Artículo 260.
 
-Si el juez encuentra que la demanda es obscura o irregular, prevendrá al actor que la aclare, corrija o complete de acuerdo con los artículos anteriores, señalándole en concreto sus defectos, y una vez corregida le dará curso. El juez hará esta prevención por una sola vez y verbalmente. Si no le da curso podrá el promovente acudir en queja.
+Si el juez encuentra que la demanda es obscura o irregular, prevendrá al actor que la aclare, corrija o complete de acuerdo con los artículos anteriores, señalándole en concreto sus defectos, y una vez corregida le dará curso. El juez hará esta prevención por una sola vez y verbalmente. Si no le da curso podrá el promovente interponer el recurso de apelación.
 
 ###### Artículo 261.
 
@@ -1827,11 +1875,11 @@ Se presumirán confesados por el demandado todos los hechos de la demanda a que 
 
 Las excepciones y la reconvención se discutirán al propio tiempo que la demanda y se decidirán en la misma sentencia.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
 ###### Artículo 268.
 
 Si entre las excepciones opuestas hubiere de previo y especial pronunciamiento, se sustanciarán dejando en suspenso el principal. Resueltas que sean, continuará en su caso el curso del juicio.
-
-La declinatoria de jurisdicción se propondrá ante el juez pidiéndole que se abstenga del conocimiento del negocio. El juez remitirá, desde luego, los autos a su inmediato superior, emplazando a los interesados para que en un término de diez días comparezcan ante éste, el cual, en una audiencia en que se reciban las pruebas y alegatos de las partes y del Ministerio Público, resolverá la cuestión y mandará sin retardo los autos al juez que estime competente, quien debe hacerlo saber a los litigantes. En este caso la demanda y la contestación se tendrán como presentadas ante éste.
 
 ###### Artículo 269.
 
@@ -1965,7 +2013,7 @@ Si no se hace relación de las pruebas ofrecidas, en forma precisa, con los punt
 
 ###### Artículo 288.
 
-Las partes deberán ofrecer sus pruebas dentro de un término fatal de diez días, que comenzará a contarse desde el siguiente al en que se notifique la resolución en que se tiene por contestada la demanda.
+Las partes deberán ofrecer sus pruebas dentro de un término fatal de diez días, que comenzará a contarse desde el día siguiente al en que se notifique la resolución que abra el juicio a prueba.
 
 ###### Artículo 289.
 
@@ -2263,9 +2311,13 @@ En el reconocimiento de documentos se observará lo dispuesto en los artículos 
 
 Sólo pueden reconocer un documento privado el que lo firma, el que lo manda extender o el legítimo representante de ellos con poder o cláusula especial. Se exceptúan los casos previstos en los artículos 1441 y 1443 del Código Civil.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
 ###### Artículo 333.
 
-Las partes sólo podrán objetar los documentos dentro de los tres días siguientes a la apertura del término de prueba, tratándose de los presentados hasta entonces. Los exhibidos con posterioridad podrán ser objetados en igual término, contado desde la notificación del auto que ordene su recepción.
+En el procedimiento ordinario, las partes sólo podrán objetar los documentos dentro de los tres días siguientes a la apertura del término de prueba, tratándose de los presentados hasta entonces. Los exhibidos con posterioridad podrán ser objetados en igual término, contado desde la notificación del auto que ordene su recepción.
+
+En el juicio sumario, la objeción podrá hacerse hasta un día antes de la fecha señalada para la audiencia de pruebas y alegatos.
 
 ###### Artículo 334.
 
@@ -2419,9 +2471,11 @@ Para el examen de los testigos no se presentarán interrogatorios escritos. Las 
 
 La protesta y examen de los testigos se hará en presencia de las partes que concurrieren. Interrogará el promovente de la prueba y a continuación los demás litigantes.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
 ###### Artículo 355.
 
-No obstante lo dispuesto en los artículos anteriores, cuando el testigo resida fuera del lugar del juicio, deberá el promovente al ofrecer la prueba presentar sus interrogatorios con las copias respectivas para las otras partes que dentro de tres días pueden presentar sus interrogatorios de repreguntas. Para el examen de los testigos que no residen en el lugar del juicio se librará exhorto en que se incluirán en pliego cerrado las preguntas y repreguntas.
+No obstante lo dispuesto en los artículos anteriores, cuando el testigo resida fuera del lugar del juicio, al ofrecer la prueba deberá el promovente presentar sus interrogatorios con las copias respectivas para la contraria, la que dentro de tres días presentará el pliego de repreguntas correspondiente. Para el examen de los testigos que no residen en el lugar del juicio se librará exhorto en el que se incluirán, en sobre cerrado, las preguntas y repreguntas. La contraparte del oferente puede reservarse el derecho de formular repreguntas directamente ante el juez exhortado.
 
 ###### Artículo 356.
 
@@ -2547,7 +2601,9 @@ Antes de la celebración de la audiencia, las pruebas deberán prepararse con to
 
 I. A citar a las partes a absolver posiciones que formulen las mismas, bajo el apercibimiento de que si no se presentan a declarar serán tenidos por confesos o de ser conducidos por la policía si el juez lo estima conveniente;
 
-II. A citar a los testigos y peritos bajo el apercibimiento de multa o de ser conducidos por la policía, a no ser que la parte que los ofreció se comprometiera a su perjuicio a presentarlos;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1995)</small>
+
+II. A citar a los testigos y peritos bajo el apercibimiento de multa, arresto, o de ser conducidos por la policía, a no ser que la parte que los ofreció se comprometiera a su perjuicio a presentarlos;
 
 III. A dar todas las facilidades necesarias a los peritos para el examen de objetos, documentos, lugares o personas para que rindan su dictamen a la hora de la audiencia;
 
@@ -2571,7 +2627,9 @@ Si en el momento de la celebración de la audiencia se tramitare proceso penal s
 
 Constituido el tribunal en audiencia pública el día y horas señalados al efecto serán llamados por el juez o el secretario los litigantes, peritos, testigos y demás personas que por disposición de la ley deban de intervenir en el juicio y se determinará quiénes deben de permanecer en el salón, quiénes en lugar separado para ser introducidos en su oportunidad y quiénes deben ser inmediatamente citados o traídos para que concurran a la diligencia si no se hallaren presentes.
 
-La audiencia se celebrará concurran o no las partes y estén o no presentes los testigos y peritos y los abogados.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
+La audiencia se celebrará concurran o no las partes y estén o no presentes los testigos, peritos, o abogados, con las pruebas que estén preparadas, dejándose a salvo el derecho de que se designe nuevo día y hora para recibir las pendientes, señalándose al efecto fecha para su continuación, la que tendrá verificativo dentro de los quince días siguientes. En este caso, podrá no seguirse el orden establecido para la recepción de las pruebas.
 
 ###### Artículo 381.
 
@@ -2603,7 +2661,9 @@ No deben asentarse en el acta literalmente preguntas ni respuestas, y sólo en c
 
 Concluida la recepción de las pruebas, el tribunal dispondrá que las partes aleguen por sí o por sus abogados o apoderados, primero el actor y luego el reo; el Ministerio Público alegará también en los casos en que intervenga.
 
-Se concederá el uso de la palabra por dos veces a cada una de las partes, las que procurarán la mayor brevedad y concisión, evitando palabras injuriosas y alusiones a la vida privada y opiniones políticas o religiosas, limitándose a tratar de las acciones y de las excepciones que quedaron fijadas en la clausura del debate preliminar y de las cuestiones incidentales que surgieran. No se podrá hacer uso de la palabra por más de un cuarto de hora cada vez en primera instancia y de media hora en segunda.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
+Se concederá el uso de la palabra por dos veces a cada una de las partes, las que procurarán la mayor brevedad y concisión, limitándose a tratar de las acciones y excepciones a que se contrae el litigio. El juez limitará prudentemente el tiempo que utilice cada una de las partes, evitando en todo caso cualquier disgresión.
 
 ###### Artículo 387.
 
@@ -2646,6 +2706,10 @@ V. Siempre será pública la audiencia, excepto en los casos a que se refiere el
 Si por causas graves hubiere necesidad de prolongar la audiencia durante horas inhábiles, no se requiere providencia de habilitación.
 
 Cuando haya necesidad de diferirla se continuará en las primeras horas hábiles siguientes.
+
+> <small>(REFORMADO, [N DE E. ADICIONADO] P.O. 21 DE JULIO DE 1995)</small>
+
+El hecho de que algunas de las pruebas ofrecidas por las partes no hayan sido debidamente preparadas no será causa suficiente para dejar de celebrar la audiencia, y en este caso el juez podrá mandarlas concluir en audiencia posterior y en un plazo no mayor de quince días, a cuyo efecto deberá ordenar de nuevo su preparación. En esta última audiencia se recibirán las pruebas faltantes, se oirán los alegatos de las partes y se dictará sentencia en los casos que proceda.
 
 ###### Artículo 393.
 
@@ -2765,11 +2829,11 @@ La valorización de las pruebas se hará de acuerdo con el presente capítulo, a
 
 De los Alegatos en el Procedimiento Escrito.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
 ###### Artículo 417.
 
-Concluida la recepción en la forma escrita de las pruebas ofrecidas, se entregarán los autos originales primero al actor y después al reo por seis días a cada uno para que aleguen.
-
-Pasado que sea el término para alegar, serán citadas las partes para sentencia que se pronunciará dentro de ocho días.
+Concluida la recepción de las pruebas ofrecidas, se pondrán los autos a disposición de las partes por seis días comunes para que aleguen. Pasado que sea el período de alegatos, se citará el negocio para sentencia, que se pronunciará dentro de ocho días.
 
 ### CAPITULO IX.
 
@@ -2803,13 +2867,11 @@ II. Las sentencias de que hecha notificación en forma, no se interpone recurso 
 
 III. Las sentencias de que se interpuso recurso, pero no se continuó en forma y término legales o se desistió de él la parte o su mandatario con poder o cláusula especial.
 
-> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 1940)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
 
 ###### Artículo 420.
 
-En los casos a que se refiere la fracción I del artículo anterior, el juez de oficio hará la declaración correspondiente.
-
-En el caso de la fracción II, la declaración se hará sustanciando el artículo con un escrito de cada parte. Los términos serán tres días para contestar y otros tres para dictar la resolución. Si hubiere deserción o desistimiento del recurso, la declaración la hará el tribunal o el juez en su caso.
+En los casos a que se refiere el artículo anterior, la declaración se hará de oficio o a petición de parte, sin necesidad de substanciar artículo.
 
 > <small>(F. DE E., P.O. 22 DE OCTUBRE DE 1940)</small>
 
@@ -2883,9 +2945,11 @@ Del escrito de demanda se corre traslado al demandado por un término no mayor d
 
 En la demanda y la contestación las partes ofrecerán las pruebas declarando los nombres de testigos y peritos y señalando los archivos para la compulsa de aquellos documentos que no tuvieren en su poder.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
 ###### Artículo 427.
 
-Desde el día en que se mande emplazar al reo se fijará día y hora para la audiencia de pruebas y alegatos. Nunca se celebrará la audiencia después de los veinte días del emplazamiento.
+Desde el día en que se mande emplazar al reo se fijará día y hora para la audiencia de pruebas y alegatos, que habrá de verificarse dentro de los veinte días siguientes al del emplazamiento.
 
 ###### Artículo 428.
 
@@ -3035,13 +3099,13 @@ Procede también la acción ejecutiva para recuperar, bajo las mismas condicione
 
 Para que procedan en vía ejecutiva las acciones a que se refieren los tres artículos que preceden, se necesita que los contratos se hayan registrado.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
 ###### Artículo 451.
 
-La demanda se formulará en los términos prevenidos por el juicio ordinario.
+Antes de despachar la ejecución, examinará el juez la personalidad del actor y si la encuentra acreditada, dictará el auto de ejecución si el título perteneciere a alguna de las clases enumeradas en este Capítulo.
 
-Antes de despachar la ejecución, examinará el juez la personalidad del actor y si la encuentra acreditada, dictará el auto de ejecución si el título pertenece a alguna de las clases enumeradas en este Capítulo.
-
-Lo dispuesto en el párrafo anterior no priva al demandado del derecho de impugnar la personalidad del actor al oponerse a la ejecución si tiene razones para ello.
+Lo dispuesto en el párrafo anterior no priva al demandado del derecho de impugnar la personalidad del actor al oponerse a la ejecución, si tuviere razones para ello.
 
 ###### Artículo 452.
 
@@ -3079,9 +3143,11 @@ Si no se supiere el paradero del deudor ni tuviere casa en el lugar, el requerim
 
 Verificado el requerimiento de cualquiera de los modos indicados, se procederá al embargo en la forma prevenida en este Código, a no ser que se hubiere ya practicado con el carácter de provisional, pues entonces quedará éste como definitivo.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
 ###### Artículo 459.
 
-Practicado el embargo o cuando el actor, por no haberse encontrado bienes en que trabar ejecución, se reserve el derecho de señalarlos, se emplazará al deudor para que conteste la demanda dentro de tres días y seguirá el juicio por los demás trámites señalados en el capítulo anterior.
+Practicado el embargo o cuando el actor, por no haberse encontrado bienes en qué trabar ejecución, se reserve el derecho de señalarlos, se emplazará al deudor para que conteste la demanda dentro de cinco días y seguirá el juicio por los demás trámites señalados en el Capítulo anterior.
 
 ###### Artículo 460.
 
@@ -3237,7 +3303,9 @@ De la Ejecución de las Sentencias y demás resoluciones dictadas por los Tribun
 
 La ejecución de sentencia que hubiere causado ejecutoria o que deba llevarse adelante por estar otorgada la fianza correspondiente, se hará por el juez que conoció del negocio en la primera instancia.
 
-La ejecución de los autos firmes que resuelvan un incidente queda a cargo del juez que conozca del principal.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
+La ejecución de las interlocutorias firmes que resuelvan un incidente queda a cargo del juez que conozca del principal.
 
 La ejecución de las transacciones o convenios celebrados en juicios, se hará por el juez que conozca del negocio en la primera instancia, pero no procederá en la vía de apremio si no consta en escritura pública o judicialmente en autos.
 
@@ -3725,9 +3793,11 @@ Toda venta que conforme a la ley deba hacerse en subasta o almoneda, se sujetar�
 
 Todo remate de bienes raíces será público y deberá celebrarse en el Juzgado en que actúe el Juez que fuere competente para la ejecución.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
 ###### Artículo 561.
 
-No podrá procederse al remate de bienes raíces, sin que previamente se haya pedido el Registro Público de la Propiedad certificado de libertad o de los gravámenes del predio y sin que se haya citado a los acreedores que aparezcan de dicho certificado; éste comprenderá los últimos diez años, pero si en autos obrare ya otro certificado, sólo se pedirá al Registro el relativo al período transcurrido desde la fecha de aquel, hasta la en que se decretó la venta. En defecto de los datos que pueda ministrar el Registro Público de la Propiedad, deberá el Juez recabar previamente constancia de la Oficina Catastral respectiva para cerciorarse; al menos por este medio, de que la persona contra quien se pretende fincar el remate, es la misma en cuyo favor estuviere empadronada la finca de que se trata; si esto no fuere así, el remate no se llevará a efecto.
+No podrá procederse al remate de bienes raíces, sin que previamente conste certificado de libertad o de gravámenes del predio, expedido por el Registro Público de la Propiedad y sin que se haya citado a los acreedores que aparezcan de dicho certificado; éste comprenderá los últimos diez años, pero si en autos obrare ya otro certificado, sólo se pedirá al Registro el relativo al período transcurrido desde la fecha de aquél, hasta la en que se anuncie la venta. En defecto de los datos que pueda ministrar el Registro Público de la Propiedad, deberá recabarse previamente constancia de la Oficina Catastral respectiva, para cerciorarse, al menos por ese medio, de que la persona contra quien se pretende fincar el remate, es la misma en cuyo favor estuviere empadronada la finca de que se trata; si esto no fuere así, el remate no se llevará a efecto.
 
 ###### Artículo 562.
 
@@ -3749,21 +3819,27 @@ III. Cuando el estado de los autos lo permita, para nombrar a su costa un perito
 
 El avalúo se practicará observando las reglas establecidas para la prueba pericial y si fueren más de dos los peritos valuadores no habrá necesidad de nombrar terceros en discordia.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
 ###### Artículo 565.
 
-Justipreciados los bienes, si fueren raíces, se anunciará su venta, señalando día para la almoneda por medio de edictos que se publicarán por tres veces, de siete en siete días, en el Periódico Oficial y otro de mayor circulación a juicio del Juez. A petición de cualquiera de las partes, y a su costa, el Juez puede usar, además de los dichos, algún otro medio de publicidad para convocar postores.
+Justipreciados los bienes, si fueren raíces, se anunciará su venta señalando día para la almoneda por medio de edictos que se publicarán por tres veces dentro de un plazo de nueve días, en el periódico oficial y otro de los de mayor circulación a juicio del juez. A petición de cualquiera de las partes y a su costa, el juez puede usar, además de los dichos, algún otro medio de publicidad para convocar postores.
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 1989)</small>
+El edicto de remate ha de contener: la designación del tribunal que ejecuta; nombre o denominación de las partes contendientes en juicio; el número del expediente en que se promueve; una descripción somera del inmueble que se remata y su ubicación; el importe de la postura legal; y el día, hora y lugar de la almoneda.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
 
 ###### Artículo 566.
 
-Antes de aprobarse el remate, podrá el deudor librar sus bienes pagando principal e intereses y perjuicios en su caso, exhibiendo certificado de depósito por la cantidad que prudentemente y en forma provisional califique el Juez para garantizar el pago de las costas. Después de aprobado quedará la venta irrevocable.
+Antes de aprobarse el remate, podrá el deudor librar sus bienes pagando principal y demás prestaciones que se encuentren debidamente liquidadas, consignando además la cantidad que prudentemente y en forma provisional califique el juez, para garantizar el pago de las que no lo estén. Después de aprobado quedará la venta irrevocable.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
 
 ###### Artículo 567.
 
-Si los bienes raíces estuvieren situados en diversos lugares, en todos éstos se publicarán los edictos en los sitios de costumbre y en las puertas de los Juzgados respectivos.
+Si los bienes raíces estuvieren situados en diversos lugares, en todos éstos se publicarán los edictos en la Secretaría de los Ayuntamientos correspondientes y en la tabla de avisos de los juzgados respectivos.
 
-En el caso a que se refiere este artículo, se ampliará el término de publicación de los edictos, concediéndose el que el Juez estime necesario en atención a la distancia y a dificultad de las comunicaciones.
+En el caso a que se refiere este artículo se ampliará el término de publicación de los edictos, concediéndose el que el juez estime necesario en atención a la distancia y a la dificultad de las comunicaciones.
 
 ###### Artículo 568.
 
@@ -3777,9 +3853,11 @@ Para tomar parte en la subasta, los licitadores deberán presentar por escrito s
 
 Se devolverán las consignaciones o (sic) sus respectivos dueños acto continuo al remate, excepto la del mejor postor, que se conservará en depósito como garantía del cumplimiento de su obligación, y en su caso, como parte del precio de la venta.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
 ###### Artículo 570.
 
-El ejecutante podrá tomar parte en la subasta y mejorar las posturas que se hicieren, sin necesidad de consignar el depósito prevenido en el artículo anterior, si el importe de su crédito, reconocido en la sentencia cubre el diez por ciento a que el citado artículo se refiere.
+El ejecutante podrá tomar parte en la subasta y mejorar las posturas que se hicieren, sin necesidad de presentar postura por escrito ni de consignar el depósito prevenido en el artículo anterior, si el importe de su crédito, reconocido en la sentencia, cubre el diez por ciento a que el citado artículo se refiere.
 
 ###### Artículo 571.
 
@@ -3807,9 +3885,11 @@ Desde que se anuncia el remate y durante éste, se pondrán de manifiesto los pl
 
 El Juez ejecutor decidirá de plano toda cuestión que se suscite durante la subasta y de sus resoluciones no se dará más recurso que el de responsabilidad, a menos que la ley disponga otra cosa.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
 ###### Artículo 575.
 
-El día del remate, a la hora señalada, el Juez pasará lista, personalmente, de los postores presentados y concederá media hora para admitir a los demás que se presenten. Concluida la media hora, el Juez declarará que va a procederse al remate y ya no admitirá nuevos postores. Enseguida revisará las propuestas presentadas desechando, desde luego, las que no tengan postura legal y los demás requisitos que menciona el artículo 571.
+El día del remate, a la hora señalada, el juez pasará lista de los postores presentados y revisará las posturas, desechando las que no cumplan con los requisitos del artículo 571. Enseguida declarará que va a procederse al remate y ya no admitirá nuevos postores.
 
 ###### Artículo 576.
 
@@ -3821,13 +3901,11 @@ En caso de que dentro de los cinco minutos que sigan a la pregunta alguno la mej
 
 En cualquier momento en que pasados cinco minutos de hecha la pregunta correspondiente, no se mejore la última postura o puja, declarará el Tribunal fincado el remate en favor del postor que hubiere hecho aquélla.
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 1989)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
 
 ###### Artículo 577.
 
-Dentro de los tres días siguientes al en que se fincó el remate, el Juez de oficio revisará el procedimiento de ejecución y dictará auto aprobando o no el remate. Contra esa resolución se da el recurso de apelación en ambos efectos, siempre que el interés que represente la postura legal exceda de cien días de salario mínimo general vigente en el Estado.
-
-El Tribunal de Alzada sin substanciación alguna decidirá de plano dentro de cinco días de recibidos los autos.
+Dentro de los tres días siguientes al en que se hubiere fincado el remate, el juez de oficio revisará el procedimiento de ejecución y dictará auto aprobando o no el remate. Contra esa resolución procede el recurso de apelación en ambos efectos, siempre que el interés que represente la postura legal exceda de cien días de salario mínimo general vigente en el Estado, pudiendo el tribunal de alzada en este caso suplir la deficiencia de los agravios, siempre que advierta una violación manifiesta del procedimiento ejecutivo que afecte gravemente los derechos del ejecutado.
 
 ###### Artículo 578.
 
@@ -3843,6 +3921,12 @@ La segunda y ulteriores subastas se anunciarán mandando publicar un sólo edict
 
 Si en las subsecuentes subastas, tampoco hubiere licitadores, el actor podrá pedir o la adjudicación por el precio de la postura legal en la almoneda o que se le entreguen en administración los bienes para aplicar su producto al pago de los intereses y extinción del capital y de las costas.
 
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1995)</small>
+
+###### Artículo 580 Bis.
+
+Tratándose de embargo practicado conforme al artículo 549, si la explotación resultare incosteable, en base a los informes del interventor, previa solicitud de parte y con vista por tres días de la contraria, el juez podrá decretar que cesa la intervención, procediéndose al remate de lo embargado.
+
 ###### Artículo 581.
 
 Cualquier liquidación que tenga que hacerse de los gravámenes que afecten a los inmuebles vendidos, gastos de ejecución y demás, se regulará por el Juez con un escrito de cada parte y resolución dentro del tercer día.
@@ -3851,7 +3935,9 @@ Cualquier liquidación que tenga que hacerse de los gravámenes que afecten a lo
 
 Aprobado el remate, al mandar el Juez que se otorgue la escritura de adjudicación, y la entrega de los bienes, prevendrá al comprador que consigne, ya ante el propio Juez o ya ante el notario que va a autorizar la escritura respectiva, el precio del remate.
 
-Si el comprador no consigna el precio en el plazo que el Juez le señale, o por su culpa dejare de tener efecto la venta, se procederá a nueva subasta como si la anterior no se hubiere celebrado y perderá el postor el depósito a que se refiere el artículo 569 en beneficio del ejecutado, pero se aplicará al ejecutarse, si éste lo solicita en abono de su crédito.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
+Si el comprador no consigna el precio en el plazo que el juez le señale, o por su culpa dejare de tener efecto la venta, se procederá a nueva subasta como si la anterior no se hubiere celebrado, perdiendo el postor el depósito a que se refiere el artículo 569, que se aplicará en abono al crédito reclamado por el ejecutante.
 
 ###### Artículo 583.
 
@@ -3911,23 +3997,11 @@ Si en el contrato se ha fijado precio a la finca hipotecada, sin convenio expres
 
 En el remate de bienes muebles se observarán las disposiciones siguientes:
 
-I. Se anunciará su venta por medio de edictos que se publicarán fijándose diariamente, y durante tres días consecutivos, en la puerta del Juzgado y en los tableros y sitios de costumbre, a menos que cualquiera de las partes pida que a su costa se haga también la publicación por algún otro medio;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1995)</small>
 
-II. Si lo pidieren las partes, podrá dispensarse la publicación y mandar hacerse la venta por medio de comisionista o de casa de comercio que expenda objetos o mercancías similares, debiendo hacerse la realización a los precios corrientes en plaza. Si no se consigue dentro de diez días, el juzgado autorizará una rebaja de diez por ciento de los precios fijados y así sucesivamente, cada diez días, hasta lograr la venta. De ésta se deducirán preferentemente los gastos de comisión que serán de cuenta del deudor;
+I. Se anunciará su venta por medio de edictos, que se publicarán fijándose diariamente durante tres días consecutivos, en la tabla de avisos del juzgado y en la Secretaría del Ayuntamiento, a menos que cualquiera de las partes pida que a su costa se haga también la publicación por algún otro medio.
 
-III. Se cuidará que los bienes estén a la vista y si fueren caldos, semillas u objetos semejantes, que se tenga en el juzgado, a disposición de los licitantes, una muestra. En todo caso estarán a la vista los avalúos;
-
-IV. Si en la almoneda no hubiere postores, se adjudicarán al actor, por el importe de la postura legal, los bienes que elija y basten a cubrir su crédito y las costas; y si los bienes fueren de tal naturaleza, que la adjudicación no pueda hacerse sino de todos, también podrá pedirla el acreedor, pero deberá exhibir y entregar de contado el resto del precio, cubierto su crédito y las costas;
-
-V. Si el actor no pidiere la adjudicación, se continuarán sacando a remate los bienes con la retasa correspondiente, anunciándose la venta, cada vez, por medio de un solo edicto;
-
-VI. Efectuada la venta, se entregarán los bienes al adquirente, luego que exhiba el precio y se le extenderá la factura correspondiente, que firmará el ejecutado o el juez en su rebeldía. Lo mismo se observará en el caso de la fracción IV de este artículo;
-
-VII. En todo lo demás se observarán, en lo conducente, las disposiciones de este Capítulo Artículo 592. En el remate de bienes muebles se observarán las disposiciones siguientes:
-
-I. Se anunciará su venta por medio de edictos que se publicarán fijándose diariamente, y durante tres días consecutivos, en la puerta del juzgado y en los tableros y sitios de costumbre, a menos que cualquiera de las partes pida que a su costa se haga también la publicación por algún otro medio;
-
-II. Si lo pidieren las partes, podrá dispensarse la publicación y mandar hacerse la venta por medio de comisionista o de casa de comercio que expenda objetos o mercancías similares, debiendo hacerse la realización a los precios corrientes en plaza. Si no se consigue dentro de diez días, el juzgado autorizará una rebaja de diez por ciento de los precios fijados y así sucesivamente, cada diez días, hasta lograr la venta. De ésta se deducirán preferentemente los gastos de comisión que serán de cuenta del deudor;
+II. Si lo pidieren las partes, podrá dispensarse la publicación y mandar hacerse la venta por medio de comisionista o de casa de comercio que expenda objetos o mercancías similares, debiendo hacerse la realización a los precios corrientes en plaza. Si no se consigue dentro de diez días, el Juzgado autorizará una rebaja de diez por ciento de los precios fijados y así sucesivamente, cada diez días, hasta lograr la venta. De ésta se deducirán preferentemente los gastos de comisión que serán de cuenta del deudor;
 
 III. Se cuidará que los bienes estén a la vista y si fueren caldos, semillas u objetos semejantes, que se tenga en el juzgado, a disposición de los licitantes, una muestra. En todo caso estarán a la vista los avalúos;
 
@@ -4009,7 +4083,7 @@ De las Tercerías.
 
 De los Juicios en Rebeldía.
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 1989)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
 
 ###### Artículo 606.
 
@@ -4127,13 +4201,13 @@ Del Juicio Arbitral.
 
 ###### Artículo 627.
 
-En toda clase de juicios, cerciorado el juzgador que el emplazamiento se ha hecho con apego a derecho y una vez declarada la rebeldía del litigante, las resoluciones que se pronuncien en juicio y citaciones que resulten, se le notificarán por lista de acuerdos, excepto la misma declaración de rebeldía y la sentencia, que se notificarán por instructivo fijado en los estrados o puertas del Juzgado, por instructivo fijado en los estados o puertas del Juzgado, que surtirán sus efectos al día siguiente de su publicación.
+En toda clase de juicios, cerciorado el juzgador que el emplazamiento se ha hecho con apego a derecho y una vez declarada la rebeldía del litigante, las resoluciones que se pronuncien en juicio y citaciones que resulten, se le notificarán por lista de acuerdos, excepto la misma declaración de rebeldía y la sentencia, que se notificarán por instructivo fijado en la tabla de avisos del juzgado, las que surtirán sus efectos al día siguiente de su publicación. En caso de que el declarado rebelde ya hubiere señalado domicilio para recibir notificaciones, el auto respectivo deberá serle notificado personalmente, observándose por lo demás lo previsto en el artículo 118 de este Código.
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 1989)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
 
 ###### Artículo 628.
 
-Se tendrá por rebelde al litigante que después de citado en forma no comparezca al juicio, en los términos de los Artículos 133 y 271 de este Código.
+Se tendrá por rebelde al litigante que después de citado en forma no comparezca al juicio, en los términos de los artículos 133 y 271 de este Código.
 
 ###### Artículo 629.
 
@@ -4341,15 +4415,13 @@ Se publicará un extracto de la demanda por tres veces, de tres en tres días, e
 
 Si transcurrido el término señalado en el artículo anterior, el oficial del Registro Civil no hubiere contestado la demanda se le tendrá por contestada en sentido afirmativo.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
-
 ###### Artículo 666.
 
 Una vez contestada la demanda o dada por contestada en los términos prevenidos, se citará a las partes para el desahogo de pruebas y alegatos debiendo señalarse la audiencia en un plazo no mayor de diez días a partir del en que se tenga por contestada la demanda.
 
-Concluído el desahogo de las pruebas, se presentarán los alegatos en la misma audiencia y previa citación de oficio, se pronunciará sentencia definitiva dentro del término de seis días.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
 
-La sentencia será apelable en ambos efectos, y en el caso del juicio la rectificación de acta, la revisión se hará de oficio.
+Concluido el desahogo de las pruebas, se presentarán los alegatos en la misma audiencia y previa citación de oficio, se pronunciará sentencia definitiva dentro del término de seis días, la cual será apelable en ambos efectos.
 
 > <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
 
@@ -4417,6 +4489,8 @@ De los Recursos.
 
 De la Apelación y Revisión.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
 ###### Artículo 678.
 
 Las sentencias no podrán revocarse por el juez o Tribunal que las dicte.
@@ -4425,11 +4499,11 @@ Las sentencias no podrán revocarse por el juez o Tribunal que las dicte.
 
 Las demás resoluciones que no fueren apelables, pueden ser revocadas por el mismo juez o tribunal que las haya pronunciado.
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 1989)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
 
 ###### Artículo 680.
 
-La revocación debe pedirse por escrito dentro de las veinticuatro horas siguientes a la notificación de la resolución que se impone, dándose vista a la contraria por un término igual a la resolución del Juez deberá pronunciarse dentro del tercer día. Esta resolución no admite más recurso que el de responsabilidad.
+La revocación debe pedirse por escrito dentro de los tres días siguientes a la notificación de la resolución que se impone, dándose vista a la contraparte por un término igual y la resolución del juez deberá pronunciarse dentro del tercer día. Esta resolución no admite más recurso que el de responsabilidad.
 
 ###### Artículo 681.
 
@@ -4447,7 +4521,9 @@ De la Queja.
 
 ###### Artículo 683.
 
-El recurso de apelación tiene por objeto que el tribunal de segunda instancia confirme, revoque o modifique la resolución dictada por el inferior.
+El recurso de apelación tiene por objeto que el tribunal de segunda instancia confirme, revoque o modifique la resolución impugnada.
+
+El tribunal de apelación suplirá la deficiencia de la expresión de agravios, tratándose de menores de edad o mayores incapacitados en cuestiones de orden familiar, cuando se advierta que ha habido en contra del apelante una violación manifiesta de la ley que lo haya dejado sin defensa. No es suplible la falta de agravios.
 
 ###### Artículo 684.
 
@@ -4459,115 +4535,155 @@ No puede apelar el que obtuvo todo lo que pidió; pero el vencedor que no obtuvo
 
 El procurador podrá apelar y continuar el recurso, aunque el poder no tenga cláusula especial para ello.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
 ###### Artículo 686.
 
-La parte que venció puede adherirse a la apelación interpuesta al notificársele su admisión, o dentro de las veinticuatro horas siguientes a esta notificación. En este caso la adhesión al recurso sigue la suerte de éste.
+La parte que venció puede adherirse a la apelación dentro de los cinco días siguientes a su notificación, si se tratare de sentencia definitiva, o dentro de tres en cualquier otro caso, expresando las razones que en su opinión debe atender el tribunal de segunda instancia, acompañando una copia del escrito respectivo para el expediente, cuya omisión motivará que la adhesión se tenga por no interpuesta. La adhesión al recurso sigue la suerte de éste.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
 
 ###### Artículo 687.
 
-La apelación debe interponerse ante el Juez que pronunció la sentencia, ya verbalmente en el acto de notificarse ésta, o por escrito dentro de cinco días improrrogables si la sentencia fuere definitiva, o dentro de tres días si fuere auto. Estos términos se contarán desde el día siguiente a la notificación de la resolución debidamente endosada.
+La apelación debe interponerse por escrito ante el juez que pronunció la resolución, dentro de ocho días si fuere sentencia definitiva, o dentro de cinco si fuere auto o interlocutoria.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
 
 ###### Artículo 688.
 
-El litigante, al interponer la apelación, debe usar de moderación, absteniéndose de denostar al juez; de lo contrario quedará sujeto a la pena impuesta en los artículos 61 y 62.
+El litigante, al interponer la apelación, debe usar de moderación, absteniéndose de denostar al juez; de lo contrario quedará sujeto a las correcciones disciplinarias previstas en los artículos 61 y 62.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
 
 ###### Artículo 689.
 
-Interpuesta la apelación, el juez la admitirá sin substanciación alguna, si la encuentra procedente y expresará si la admite en los efectos devolutivo y suspensivo o sólo en el primero.
+Al interponerse la apelación se precisará la parte de la resolución que motiva la inconformidad, se designará domicilio para recibir notificaciones en segunda instancia, y se expresarán los agravios que en concepto del apelante le irroga la resolución impugnada.
+
+Por expresión de agravios se entienden los razonamientos relacionados con las circunstancias del caso, que tiendan a demostrar una violación a la ley por falta o por indebida aplicación de la misma, o por una interpretación inexacta de ella.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
 
 ###### Artículo 690.
 
-La apelación admitida en ambos efectos, suspende desde luego la ejecución de la sentencia o del auto hasta que éstos causen ejecutoria, y, entre tanto, sólo podrán dictarse las resoluciones que se refieran a administración, custodia y conservación de bienes embargados o intervenidos judicialmente, siempre que la apelación no verse sobre alguno de estos puntos.
+El apelante deberá exhibir una copia del escrito de apelación para el expediente, y otra para el traslado a cada una de las partes apeladas. En caso de que en el escrito apelatorio no se formulen agravios, o no se acompañen las copias relativas, el juez tendrá por no interpuesto el recurso.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
 
 ###### Artículo 691.
 
-La apelación admitida sólo en el efecto devolutivo no suspende la ejecución de la sentencia o del auto apelado.
+La apelación puede admitirse en el efecto devolutivo y suspensivo, o sólo en el primero.
 
-Si el recurso se hubiere interpuesto contra una sentencia, se dejará en el Juzgado copia certificada de ella y de las constancias necesarias, remitiéndose el expediente original al Tribunal de Segunda Instancia.
-
-Si se tratare de un auto se remitirá al Tribunal copia de lo que el apelante señale como conducente, agregándose las constancias que la parte contraria juzgue necesarias, a no ser que el recurrente prefiera esperar la remisión de los autos originales cuando éstos se hallen en estado. Si el apelante dentro del término de tres días no señala al Juzgado las constancias que deban remitirse al Superior, se remitirá solo la resolución recurrida con las constancias que señale la parte apelada. Si ésta dentro de un plazo de tres días no señalare las constancias que le corresponden, se remitirán con la resolución recurrida, solamente las que el apelante hubiere señalado. En la omisión del ejercicio de su derecho por las partes, se remitirá al Superior solamente la misma resolución que motivó el recurso.
-
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 1989)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
 
 ###### Artículo 692.
 
-Salvo los casos expresamente exceptuados en este Código, las sentencias dictadas en juicios cuyo interés exceda de cien días de salario mínimo general vigente en el Estado, son apelables en ambos efectos.
+La apelación admitida sólo en el efecto devolutivo no suspende la ejecución de la resolución apelada.
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 1989)</small>
+Si el recurso se hubiere interpuesto contra una sentencia, se dejará en el juzgado copia certificada de ella y de las constancias necesarias para ejecutarla, remitiéndose el expediente original al tribunal de segunda instancia.
+
+Si se tratare de auto o interlocutoria, en el de admisión se mandará remitir al tribunal copia de la resolución apelada, de sus notificaciones y de las constancias que el juez estime conducentes.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
 
 ###### Artículo 693.
 
-Los autos sólo son apelables cuando tienen fuerza de definitivos y cuando la Ley lo dispone, si además lo fuere la sentencia definitiva del juicio en que se dicten. La apelación en estos casos, será admisible en el efecto o efectos en que lo fuere la que proceda contra la sentencia definitiva, excepto lo que establezca este Código.
+La apelación admitida en ambos efectos suspende la ejecución de la sentencia o del auto, hasta que se resuelva el recurso; entretanto, sólo podrán dictarse las resoluciones que se refieran a la administración, custodia y conservación de bienes embargados o intervenidos judicialmente, siempre que la apelación no verse sobre alguno de estos puntos, o versando, se trate de la conservación de bienes perecederos, en cuyo caso el juez podrá adoptar las medidas necesarias que tiendan a evitar su pérdida o menoscabo.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
+###### Artículo 694.
+
+Salvo los casos expresamente exceptuados en este Código, las sentencias dictadas en juicio cuyo interés exceda de cien días de salario mínimo general vigente en el Estado, son apelables en ambos efectos.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
+###### Artículo 695.
+
+Los autos sólo son apelables cuando tienen fuerza de definitivos y cuando la ley lo dispone, si además lo fuere la sentencia definitiva del juicio en que se dicten. La apelación en estos casos será admisible en el efecto o efectos en que lo fuere la que proceda contra la sentencia definitiva, excepto lo que establezca este Código.
 
 Se dice que el auto tiene fuerza definitiva, cuando cause un gravamen que no pueda repararse en la sentencia.
 
 En los casos en que sea procedente el recurso de apelación en contra del auto admisorio de demanda, conforme a las reglas de este Código, será admisible en efecto devolutivo.
 
-###### Artículo 694.
-
-Si la sentencia constare de varias proposiciones, puede consentirse respecto de unas y apelarse de ellas respecto de otras. En este caso, la instancia versará sólo sobre las proposiciones apeladas.
-
-###### Artículo 695.
-
-Admitida la apelación en sólo el efecto devolutivo, no se ejecutará la sentencia si no se otorga previamente fianza conforme a las reglas siguientes:
-
-I. La calificación de la idoneidad de la fianza será hecha por el juez quien se sujetará, bajo su responsabilidad, a las disposiciones del Código Civil y oyendo previamente al colitigante;
-
-II. La fianza otorgada por el actor comprenderá la devolución de la cosa o cosas que deba percibir, sus frutos e intereses y la indemnización de daños y perjuicios si el superior revoca el fallo;
-
-III. La otorgada por el demandado comprenderá el pago de lo juzgado y sentenciado y su cumplimiento, en el caso de que la sentencia condene a hacer o a no hacer;
-
-IV. La liquidación de los daños y perjuicios se hará en la ejecución de la sentencia.
-
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
 
 ###### Artículo 696.
 
-En el auto en que el Juez admita la apelación conforme a los artículos 689, 692 y 693, mandará emplazar a las partes que se presenten ante el Superior a continuar el recurso y les prevendrá que señalen domicilio para recibir sus notificaciones en el lugar de la residencia del Tribunal.
+Si la sentencia constare de varias proposiciones, puede consentirse respecto de unas y apelarse respecto de otras. En este caso, la instancia versará sólo sobre las proposiciones apeladas.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
 
 ###### Artículo 697.
 
-Si el Supremo Tribunal reside en el lugar del juicio, se fijará al apelante el término de cinco días improrrogables para que se presente a continuar el recurso. Si reside en lugar distinto de aquel en que se pronunció la sentencia, a los cinco días de que se habla en el párrafo anterior, se agregarán los que fueren necesarios atendida la distancia y las demás circunstancias de que se habla en el artículo 134.
+Admitida la apelación en sólo el efecto devolutivo, no se ejecutará la sentencia si no se otorga previamente fianza conforme a las reglas siguientes:
+
+I. La calificación de la idoneidad de la fianza será hecha por el juez quien se sujetará, bajo su responsabilidad, a las disposiciones del Código Civil, oyendo previamente al colitigante;
+
+II. La fianza otorgada por el actor comprenderá la devolución de la cosa o cosas que deba percibir, sus frutos e intereses y la indemnización de daños y perjuicios si el superior revoca el fallo;
+
+III. La otorgada por el demandado, comprenderá el pago de lo juzgado y sentenciado y su cumplimiento, en caso de que la sentencia condene a hacer o a no hacer;
+
+IV. La liquidación de los daños y perjuicios se hará en ejecución de sentencia.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
 
 ###### Artículo 698.
 
-Una vez notificado el auto que admita la apelación en ambos efectos el juez dentro de cuarenta y ocho horas, remitirá los autos al Supremo Tribunal. Si la apelación se admitió sólo en el efecto devolutivo, se observará lo dispuesto en el artículo 691.
+Interpuesta la apelación el juez la admitirá si procede legalmente, mandando correr traslado a la parte contraria con el escrito de expresión de agravios para que los conteste, dentro del término de cinco días si se tratare de sentencia definitiva, o de tres en cualquier otro caso, previniéndola para que señale domicilio para recibir notificaciones en segunda instancia.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
 
 ###### Artículo 699.
 
-El apelante se presentará dentro del término que se le haya designado, a la Sala del Supremo Tribunal, debiendo entonces señalar, en acatamiento a la prevención del artículo 696, domicilio para recibir notificaciones, si no lo hubiere señalado antes.
+Una vez transcurrido el término anterior, dentro de los tres días siguientes el juez remitirá al superior los autos originales o las constancias relativas, así como los escritos de apelación y de contestación de agravios, en su caso.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
 
 ###### Artículo 700.
 
-Llegados los autos al Supremo Tribunal, o en su caso, las constancias relativas para substanciar la apelación, serán turnados desde luego a la Sala, y ésta, si el apelante se hubiere presentado a continuar el recurso, sin necesidad de vista o informes, sino cuando lo estimare necesario, dentro de tres días resolverá sobre la admisión del recurso.
+Recibidas las constancias apelatorias por el tribunal de segunda instancia, se declarará de oficio si la resolución es o no apelable y de serlo, si el recurso fue interpuesto o no en tiempo, así como si el escrito respectivo contiene o no expresión de agravios.
 
-Si se declara inadmisible la apelación en todo efecto, en el mismo auto ordenará que se devuelva el expediente al Inferior y declarará ejecutoriada la resolución apelada. Si declara inadmisible la apelación en ambos efectos, pero admisible en el devolutivo, mandará también devolver los autos al Inferior para el procedimiento prevenido en el Artículo 691. Si admitida la apelación por el Juez en efecto devolutivo, se declara por la Sala admisible en ambos efectos, se requerirá al Inferior por el expediente original, si no se hubiere recibido.
-
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
 
 ###### Artículo 701.
 
-Admitido el recurso en su legal procedencia y recibidas, en su caso, las constancias requeridas para su tramitación, la Sala mandará poner los autos en la Secretaría a disposición del apelante y del apelado, sucesivamente, por seis días para cada una, al primero para que formule sus agravios y al segundo para que los conteste.
+Cuando se declare que la resolución no es apelable, o que no fue interpuesto en tiempo el recurso, no será necesario decidir respecto a la expresión de agravios.
 
-Bastará la enumeración sencilla que haga la parte de los errores o violaciones de derecho que en su concepto, se cometieron en la sentencia, para tener por expresados los agravios.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
 
 ###### Artículo 702.
 
-En el caso de que el apelante no se presente a continuar el recurso dentro del término que le señaló el juez o de que no exprese agravios en el término de ley, se le tendrá por desistido del recurso, haciendo la declaración correspondiente al Superior, previa certificación de la falta de presentación o de la expresión de agravios.
+Si se declara que la resolución recurrida no es apelable o que no fue interpuesto el recurso en tiempo, se devolverán al tribunal que conoce del negocio los autos que hubiere enviado, con testimonio del fallo, para que continúe la tramitación, o para que se proceda a su cumplimiento, en su caso.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
 
 ###### Artículo 703.
 
-Si las partes promueven pruebas, deben ofrecerlas en sus escritos de expresión o contestación de agravios, especificando los hechos sobre que deban recaer, que no podrán ser extraños a la cuestión debatida.
+Si se determina que el escrito del apelante no contiene expresión de agravios, se declarará desierto el recurso y firme la resolución apelada.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
 
 ###### Artículo 704.
+
+Si la apelación admitida en efecto devolutivo se declara admisible en ambos efectos, se prevendrá al tribunal que conoció del negocio que envíe los autos originales.
+
+Cuando la apelación admitida en ambos efectos se declare admisible sólo en el devolutivo, si la resolución recurrida fuere sentencia, se enviará al juzgado de procedencia la copia a que se refiere el segundo párrafo del artículo 692; si fuere auto se devolverán los originales, dejándose en el tribunal copia de las constancias que éste considere necesarias.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
+###### Artículo 705.
+
+Si se confirma la calificación y no hay motivo para desechar el recurso, dentro de los ocho días siguientes al en que quedaren notificadas las partes de la formación del toca, la Sala pronunciará sentencia.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
+###### Artículo 706.
+
+Si las partes pretendieren pruebas para la segunda instancia, deberán ofrecerlas en sus escritos de expresión y contestación de agravios, ante el propio juez del conocimiento.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
+###### Artículo 707.
 
 Sólo podrá otorgarse la admisión de pruebas en la segunda instancia:
 
@@ -4575,27 +4691,11 @@ I. Cuando por cualquiera causa no imputable al que solicitare la prueba, no hubi
 
 II. Cuando hubiere ocurrido algún hecho que importe excepción superveniente.
 
-###### Artículo 705.
-
-Los litigantes podrán pedir, sin necesidad de que el pleito se hubiere recibido a prueba, desde que se pongan los autos a su disposición en la Secretaría del Tribunal, hasta antes de la celebración de la vista, o en su caso de citación para sentencia, que la parte contraria rinda confesión judicial, y podrán hacerlo por una sola vez, con tal de que sea sobre hechos que relacionados con los puntos controvertidos, no hubieren sido objeto de posiciones en la primera instancia. También podrán promover que se reciba prueba documental de los instrumentos a que se refiere el artículo 98.
-
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
-
-###### Artículo 706.
-
-Solicitado el término de prueba, si quien lo solicita es el apelante, el apelado podrá oponerse dentro del término de la contestación de los agravios; y si quien lo pide es el apelado, se le dará conocimiento al apelante, para oponerse si le conviniere, dentro del mismo término que en el caso anterior. Habiendo oposición, se oirá en audiencia verbal a las partes dentro de un término de tres días. Y haya o no oposición, el Tribunal resolverá sobre el punto dentro de los tres días siguientes a la última notificación.
-
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
-
-###### Artículo 707.
-
-Expresados y contestados los agravios, o transcurrido el término de la contestación, sin haberla, o el término de prueba que se hubiere concedido, se citará a las partes a una audiencia con término de diez días, para que aleguen de sus respectivos derechos. Al concluir la audiencia se citará para sentencia, la que pronunciará el Tribunal dentro de los ocho días siguientes.
-
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
 
 ###### Artículo 708.
 
-En los demás juicios, fuera de los ordinarios, la apelación se substanciará como en estos, pero reducidos los términos a tres días para expresar y contestar agravios, a seis días para la audiencia de alegatos y a cinco días para dictarse la resolución.
+En su primer resolución el tribunal de alzada decidirá respecto de la admisibilidad de las pruebas ofrecidas; de rechazarse se procederá en términos del artículo 705; de admitirse, se proveerá su preparación y desahogo, concluido el cual, se concederá a las partes un plazo de tres días para que aleguen, pronunciándose sentencia dentro de los ocho días siguientes.
 
 ###### Artículo 709.
 
@@ -4605,17 +4705,13 @@ En los demás juicios, fuera de los ordinarios, la apelación se substanciará c
 
 (DEROGADO, P.O. 28 DE JUNIO DE 1941)
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
-
 ###### Artículo 711.
 
-Las apelaciones de autos se substanciarán en los mismos términos del Art. 708.
-
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
+(DEROGADO, P.O. 21 DE JULIO DE 1995)
 
 ###### Artículo 712.
 
-Las sentencias que se dicten sobre modificación de actas del estado civil y sobre nulidad de matrimonio, por las causas expresadas en los artículos 241, 242, 248, 249, 250 y 251 del Código Civil, serán revisadas por la Sala del Supremo Tribunal si las partes no promueven apelación. Se resolverá con un escrito de cada parte con término de cinco días, y una audiencia de alegatos dentro de un plazo de ocho días, si las partes la pidieren, dictándose dentro del siguiente igual término, la resolución que corresponda. En la tramitación se considerará como parte interesada al Ministerio Público. Mientras el Tribunal no resuelva, toda ejecución del fallo quedará en suspenso.
+(DEROGADO, P.O. 21 DE JULIO DE 1995)
 
 > <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
 
@@ -4647,7 +4743,9 @@ Al interponer el recurso, el quejoso deberá hacerlo saber al Juez presentándol
 
 El Juez, dentro de los tres días siguientes, remitirá al Superior su informe con justificación y el colitigante, dentro de igual término, que se contará desde que reciba la copia, lo que cuidará el Juez de asentar en el expediente y en el informe, podrá ocurrir al mismo Superior expresando lo que a su derecho convenga.
 
-Recibido el informe del Juez, se oirá en audiencia verbal a las partes dentro del tercero (sic) día, y en los tres días siguientes el Tribunal decidirá confirmando o revocando el auto que hubiere negado la apelación.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
+Recibido el informe del juez, dentro de los tres días siguientes el tribunal decidirá declarando fundada o infundada la queja.
 
 ###### Artículo 717.
 
@@ -5809,9 +5907,11 @@ IV. Cuando lo dispusiere la ley.
 
 Se admitirán cualquiera documentos que se presenten e igualmente las justificaciones que se ofrecieren sin necesidad de citación ni de ninguna otra solemnidad.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+
 ###### Artículo 910.
 
-Si a la solicitud promovida se opusiere alguno que tenga personalidad para hacerlo, el negocio se hará contencioso y se sujetará a los trámites establecidos para el juicio que corresponda.
+Si a la solicitud promovida se opusiere persona con interés jurídico suficiente, el juez declarará improcedente la vía de jurisdicción voluntaria y reservará los derechos de los interesados para que los ejerzan en la forma que procediere.
 
 ###### Artículo 911.
 
@@ -6912,3 +7012,13 @@ P.O. 3 DE MAYO DE 1989.
 ###### ARTICULO UNICO.
 
 Las presentes reformas iniciarán su vigencia a los cuarenta y cinco días de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 21 DE JULIO DE 1995.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas iniciarán su vigencia a los treinta días de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos de revocación y apelación que procedan en contra de las resoluciones dictadas en fecha anterior a la de entrada en vigor del presente Decreto, serán tramitados conforme a las reglas procesales contenidas en las disposiciones legales que dejan de tener vigencia.
