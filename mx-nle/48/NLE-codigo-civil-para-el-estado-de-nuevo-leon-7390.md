@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1951-06-20"
+last_updated: "1955-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 1951.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 1955.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -4895,15 +4895,7 @@ Todo condueño tiene la plena propiedad de la parte alícuota que le corresponde
 
 ###### Art. 948.
 
-Cuando los diferentes pisos de una casa pertenecieren a distintos propietarios, si los títulos de propiedad no arreglan los términos en que deben contribuir a las obras necesarias, se observarán las reglas siguientes:
-
-I.- Las paredes maestras, el tejado o azotea, y las demás cosas de uso común, estarán a cargo de todos los propietarios en proporción al valor de su piso;
-
-II.- Cada propietario costeará el suelo de su piso;
-
-III.- El pavimento del portal, puerta de entrada, patio común y obras de policía, comunes a todos, se costearán a prorrata por todos los propietarios;
-
-IV.- Las escaleras que conduce al piso primero se costeará a prorrata entre todos, excepto el dueño del piso bajo; la que desde el primer piso conduce al segundo, se costeará por todos, excepto por los dueños del piso bajo y del primero, y así sucesivamente.
+(DEROGADO, P.O. 17 DE DICIEMBRE DE 1955)
 
 ###### Art. 949.
 
@@ -5807,7 +5799,7 @@ La prescripción adquirida por el deudor principal, aprovecha siempre a sus fiad
 
 ###### Art. 1145.
 
-El Estado, así como los Ayuntamientos y las otras personas morales, se considerarán como particulares para la prescripción de sus bienes, derechos y acciones que sean susceptibles de propiedad privada.
+El Estado así como los Ayuntamientos y las otras personas morales, se considerarán como particulares para la prescripción de sus bienes, derechos y acciones que sean susceptibles de propiedad privada.
 
 ###### Art. 1146.
 
@@ -14676,3 +14668,9 @@ Se derogan todas las disposiciones que estén en contravención con estas reform
 ###### Art. 2o.
 
 Estas reformas entrarán en vigor tres días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE DICIEMBRE DE 1955.
+
+PRIMERO:- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+SEGUNDO:- Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
