@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1950-05-25"
+last_updated: "1950-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 1950.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1950.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -229,9 +229,9 @@ II. Ser nativo del Distrito Electoral que lo elija, o avecindado en él cuando m
 
 III. Ser mayor de veinticinco años en la fecha de la elección.
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 1950)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1950)</small>
 
-IV. No podrá ser electo y será nula la elección que en su favor recayere: El Gobernador del Estado, el Secretario General de Gobierno del Estado, El Tesorero General del mismo, los Magistrados del Supremo Tribunal de Justicia, los Recaudadores de Rentas, Jueces de Primera Instancia y demás funcionarios que no sean de elección popular por el Distrito en que se extiendan sus respectivas jurisdicciones legales, así como los militares en servicio activo en el Ejército Nacional, o cualquiera otra persona que tenga mando en la policía o gendarmería del Estado o del Municipio en el Distrito Electoral por el cual pretenda elegirse, a menos que todos ellos se hayan separado de su cargo por renuncia del mismo cuando menos tres meses antes del día de la elección.
+IV. No podrá ser electo y será nula la elección que en su favor recayere: El Gobernador del Estado, los Jefes de Departamentos Gubernativos, los Magistrados del Supremo Tribunal de Justicia, los Recaudadores de Rentas, Jueces de Primera Instancia y demás funcionarios que no sean de elección popular por el Distrito en que se extiendan sus respectivas jurisdicciones legales. Así como los militares en servicio activo en el Ejército Nacional, o cualquiera otra persona que tenga mando en la Policía o gendarmería del Estado o del Municipio en el Distrito Electoral por el cual pretenda elegirse, a menos que todos ellos se hayan separado de su cargo por renuncia del mismo cuando menos tres meses antes del día de la elección.
 
 ###### Art. 26.
 
@@ -477,11 +477,11 @@ IX. El Ejecutivo del Estado no podrá hacer observaciones a las resoluciones del
 
 (C.) En los decretos de apertura y clausura de los período (sic) extraordinarios de sesiones.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1934)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1950)</small>
 
 ###### Art. 47.
 
-Toda ley o decreto será promulgado bajo la firma del Presidente y Secretario del Congreso, en la siguiente forma: "El Congreso del Estado Libre y Soberano de Sinaloa, representado por su ...... (número del orden) Legislatura, ha tenido a bien expedir la (o el) siguiente ley...... (número o nombre oficial de la ley o decreto)". Seguirá el texto de la Ley o decreto y al final, el mandato de que se publique y circule para su debida observancia, firmado por el Gobernador del Estado y Secretario General del Gobierno, o por el Tesorero General del Estado en lo que respecta al ramo de Hacienda.
+Toda Ley o Decreto será promulgado bajo la firma del Presidente y Secretario del Congreso, en la siguiente forma: "El Congreso del Estado Libre y Soberano de Sinaloa, representado por su (Número del orden) Legislatura ha tenido a bien expedir la (o el) siguiente Ley.... (número o nombre oficial de la Ley o Decreto"). Seguirá el texto de la Ley o decreto al final, el mandato de que se publique y circule para su debida observancia, firmado por el Gobernador del Estado y por el Jefe del Departamento Gubernativo a quién corresponda.
 
 ###### Art. 48.
 
@@ -545,11 +545,11 @@ La Contaduría Mayor de Hacienda, como asesora técnica de la Comisión de Glosa
 
 Se deposita el ejercicio del Poder Ejecutivo del Estado, en un ciudadano que se denominará "GOBERNADOR CONSTITUCIONAL DEL ESTADO."
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1943)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1950)</small>
 
 ###### Art. 56.
 
-Para ser Gobernador de Estado se requiere:
+Para ser Gobernador del Estado se requiere:
 
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1947)</small>
 
@@ -563,9 +563,9 @@ III. Haber conservado su domicilio en el Estado, seis meses al menos, inmediatam
 
 IV. Haber obtenido la mayoría de sufragios legales. En caso de empate en la votación, se convocará a nuevas elecciones.
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1934)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1950)</small>
 
-V. No haber sido Secretario General de Gobierno del Estado, Tesorero General del mismo, miembro del Supremo Tribunal de Justicia del Estado, Juez de 1ª Instancia, Recaudador de Rentas o Presidente Municipal, ni haber tenido mando de fuerzas de la Federación, del Estado o de algún Municipio, dentro de los seis meses anteriores al día de la elección.
+V. No haber sido Jefe de alguno de los Departamentos Gubernativos, Miembro del Supremo Tribunal de Justicia del Estado, Juez de Primera Instancia, Recaudador de Rentas o Presidente Municipal, ni haber tenido mando de fuerza de la Federación, del Estado o de algún Municipio dentro de los seis meses anteriores al día de la elección.
 
 VI. No haber sido convicto por ningún Tribunal, ni haber figurado directa o indirectamente en alguna azonada, motín a (sic) cuartelazo promovido contra las instituciones de la Nación o del Estado.
 
@@ -579,11 +579,11 @@ VII. Comprobar de conformidad con el Código Civil y demás Leyes sobre la mater
 
 El Gobernador del Estado entrará a ejercer su cargo el día primero de enero del año siguiente al de su elección, durará seis años en su ejercicio y no será reelecto.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1945)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1950)</small>
 
 ###### Art. 58.
 
-Las faltas temporales del Gobernador del Estado, hasta por treinta días, serán suplidas por el Secretario General de Gobierno con el carácter de Encargado del Despacho y las que excedan de tal período serán cubiertas por un Gobernador Interino que nombrará el Congreso por mayoría absoluta de votos de los Diputados presentes. Si este estuviere en receso al ocurrir la falta la Diputación Permanente nombrará uno Provisional.
+Las faltas temporales del Gobernador del Estado, hasta por treinta días, serán suplidas por el Jefe del Departamento de Gobernación con el carácter de Encargado del Despacho y las que excedan de tal período serán cubiertas por un Gobernador Interino que nombrará el Congreso por mayoría absoluta de votos de los Diputados presentes. Si éste estuviere en receso al ocurrir la falta, la Diputación Permanente nombrará uno Provisional.
 
 > <small>(REFORMADO, P.O. 13 DE MAYO DE 1948)</small>
 
@@ -687,45 +687,65 @@ XXIV. I(sic) las demás que le confiera esta Constitución.
 
 #### SECCION I. DE LOS DEPARTAMENTOS GUBERNATIVOS
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1947)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1950)</small>
 
 ###### Art. 66.
 
-Para el estudio y despacho de los negocios determinados en el artículo 65, de esta Constitución y además que por Ley corresponden al Ejecutivo, habrá una Secretaría General de Gobierno y una Tesorería General, Dependencias que funcionarán con las atribuciones que les señalen las Leyes.
+Para el estudio y despacho de los negocios que corresponden al Poder Administrativo del Estado, habrá las siguientes dependencias del Ejecutivo:
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1934)</small>
+Departamento de Gobernación,
+
+Departamento de Hacienda Pública,
+
+Departamento de Educación y Bellas Artes,
+
+Departamento de Promoción Económica y Social,
+
+Departamento de Comunicaciones y Obras Públicas,
+
+Departamento de Agricultura y Ganadería,
+
+Intitución (sic) del Ministerio Público,
+
+Cuerpos de Defensores de Oficio.
+
+Estas dependencias tendrán las funciones que les atribuya la Ley Orgánica y Reglamentaria del Poder Ejecutivo que expida el Congreso del Estado, con excepción de la Institución del Ministerio Público y el Cuerpo de Defensores de Oficio que se regirán por sus respectivas Leyes a que se refieren los artículos 77 y 79 de esta Constitución.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1950)</small>
 
 ###### Art. 67.
 
-Para ser Secretario General del Gobierno o Tesorero General del Estado se requiere: ser ciudadano sinaloense en ejercicio de sus derechos, poseer el grado de instrucción necesaria, a juicio del Gobernador del Estado, tener treinta años cumplidos y los demás requisitos que establezcan las leyes.
+Para ser Jefe de alguno de los Departamentos a que se refiere el artículo anterior, se requiere: ser Ciudadano Sinaloense en ejercicio de sus derechos, poseer el grado de instrucción necesaria, a juicio del Gobernador del Estado, tener treinta años cumplidos y los demás requisitos que establezca la Ley Orgánica y Reglamentaria del Poder Ejecutivo. El Jefe del Departamento de Hacienda Pública será el Tesorero General del Estado y a su cargo estará esta Tesorería sin perjuicio de lo que dispone el artículo 85.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1934)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1950)</small>
 
 ###### Art. 68.
 
-El Secretario General de Gobierno o el Tesorero General del Estado no podrán desempeñar ningún cargo, empleo o comisión oficiales del Estado por las que reciban remuneración, salvo el caso del Ramo de Educación Pública, ni podrán litigar más que en asuntos propios.
+Los Jefes de los Departamentos Gubernametales (sic) especificados en el artículo 66 no podrán desempeñar ningún otro cargo, empleo o comisión oficiales del Estado, de la Federación o de los Municipios, por los que reciban remuneración exceptuándose los de enseñanza y los sanitarios y asistenciales ni podrán litigar más que en asuntos propios.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1934)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1950)</small>
 
 ###### Art. 69.
 
-Para ser válidos los decretos, reglamentos y acuerdos del Gobernador, deberán estar firmados por éste y por el Secretario General del Gobierno, o Tesorero General del Estado en lo que respecta al Ramo de Hacienda o por quienes hagan sus veces conforme a la ley.
+Para ser válidos los decretos, reglamentos, órdenes y acuerdos del Gobernador, deberán estar firmados por el Jefe del Departamento encargado del ramo a que el asunto corresponda o por quién haga sus veces conforme a la Ley. Cuando el asunto comprenda dos o más ramos firmarán todos los Jefes a cuyos Departamentos el asunto competa.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1934)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1950)</small>
 
 ###### Art. 70.
 
-El Secretario General del Gobierno y el Tesorero General serán solidariamente responsables con el Gobernador del Estado por los decretos, reglamentos, circulares o acuerdos que con él firmen.
+Los Jefes de los Departamentos Gubernamentales serán solidariamente responsables con el Gobernador del Estado por los decretos, reglamentos, circulares, órdenes o acuerdos que con él firmen.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1950)</small>
 
 ###### Art. 71.
 
-El Congreso podrá citar a los Jefes de los Departamentos Gubernativos, para que informen cuando se discuta una ley o decreto, o se estudie un negocio relativo a su ramo.
+El Congreso podrá citar a los Jefes de los Departamentos Gubernamentales, para que informe (sic) cuando se discuta una Ley o Decreto, o se estudie un negocio relativo a su ramo.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1934)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1950)</small>
 
 ###### Art. 72.
 
-Cuando el Secretario General del Gobierno o el Tesorero General estimaren ilegal autorizar un acto con su firma, dirigirán por escrito al Gobernador las observaciones necesarias y si éste insistiere, dichos funcionarios obrarán según su propio criterio, remitiendo al Congreso en todo caso, la copia del expediente que sobre el asunto se forme.
+Cuando alguno de los Jefes de Departamentos Gubernativos estimare ilegal autorizar un acto con su firma, dirigirá por escrito al Gobernador las observaciones necesarias, y si éste insistiese, dichos funcionarios obrarán según su propio criterio, remitiendo al Congreso, en todo caso, la copia del expediente que sobre el asunto se forme.
 
 #### SECCION II. DEL MINISTERIO PUBLICO
 
@@ -819,11 +839,11 @@ Ningún pago se hará por las Oficinas Fiscales sin estar expresamente autorizad
 
 No podrá contratarse ningún empréstito, ni contraerse deuda alguna que no sea para cubrir los gastos que originen una invasión extranjera, una rebelión dentro del Estado, o por causa de utilidad pública, a juicio del Congreso. Sólo éste podrá autorizarlo por el voto de las dos terceras partes de la totalidad de sus miembros. Ningún empréstito legalmente contratado, será desconocido por las autoridades del Estado.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1934)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1950)</small>
 
 ###### Art. 85.
 
-El Jefe Supremo y responsable de la Hacienda Pública del Estado, será el Gobernador del mismo, por lo tanto, ningún gasto con cargo a las partidas extraordinarias será cubierto por las Oficinas Fiscales, sin orden firmada por él y el Secretario General del Gobierno o el Tesorero General en su caso.
+El Jefe Supremo y responsable de la Hacienda Pública del Estado, será el Gobernador del mismo, por lo tanto, ningún gasto con cargo a las partidas extraordinarias será cubierto por las Oficinas Fiscales, sin orden firmada por él y el Jefe del Departamento Gubernativo que corresponda.
 
 ###### Art. 86.
 
@@ -1051,11 +1071,11 @@ III. (DEROGADA, P.O. 6 DE OCTUBRE DE 1928)
 
 IV. No tener empleo, cargo o comisión del Estado o Municipio; ni mando de fuerza pública en la Municipalidad, por lo menos tres meses antes del día de la elección.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MAYO DE 1950)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1950)</small>
 
 ###### Art. 116 Bis.
 
-Para ser Presidente Municipal, Propietario y Suplente, respectivamente, además de los requisitos que para ser Regidor se requieren es necesario tener los siguientes:
+Para ser Presidente Municipal, Propietario y Suplente, respectiyamante (sic), además de los requisitos que para ser Regidor se requieren es necesario tener los siguientes:
 
 > <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
 
@@ -1065,9 +1085,9 @@ I. 25 años cumplidos en la fecha de la elección.
 
 II. Haber obtenido mayoría de sufragios legales.
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 1950)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1950)</small>
 
-III. No haber sido Secretario General de Gobierno, Tesorero General del Estado, miembro del Supremo Tribunal de Justicia del mismo, Juez de 1ra. Instancia, Recaudador de Rentas o Presidente Municipal, dentro de la Jurisdicción, ni haber tenido mando de fuerza de la Federación, del Estado o del Municipio dentro de los tres meses anteriores al día de la elección.
+III. No haber sido Jefe de algún Departamento Gubernativo del Ejecutivo del Estado, miembro del Supremo Tribunal de Justicia del mismo, Juez de 1ra. Instancia, Recaudador de Rentas o Presidente Municipal, dentro de la Jurisdicción, ni haber tenido mando de fuerza de la Federación, del Estado o del Municipio dentro de los seis meses anteriores al día de la elección.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE ABRIL DE 1938)</small>
 
@@ -1214,6 +1234,52 @@ Cuando las leyes no señalen término, se entenderá el de diez días para que l
 ###### Art. 143.
 
 En el Estado nadie podrá desempeñar a la vez dos o más cargos de elección popular. Quien en tal caso se viere, tendrá que optar por alguno. Tampoco podrán reunirse en una misma persona, dos o más empleos por lo que se disfrute sueldo, exceptuándose los de enseñanza y beneficencia pública.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1950)</small>
+
+Art. 44 (sic). Los funcionarios y empleados del Estado y Municipios, antes de tomar posesión de sus cargos, otorgarán la protesta de Ley, sin el cual requisito todos sus actos serán ilegales. Las condiciones para protestar, serán las siguientes:
+
+I. La protesta se rinde personal y verbalmente con interpelación o sin ella.
+
+(A).- Para rendir la protesta por interpelación, la autoridad que ha de recibirla, preguntará al que ha de entregarla: "Protestáis guardar y hacer guardar la Constitución Política de la República, la del Estado, y las leyes que de ellas emanen, y cumplir leal y patrióticamente el cargo de ....... que el pueblo (o la autoridad que la confiera) os ha conferido, mirando en todo por el honor y prosperidad de la República y del Estado?" El interpelado contestará: "Sí protesto." Acto continuo, la persona que recibe la protesta dirá: "Si no lo hiciéreis así, la República y el Estado os lo demanden."
+
+(B).- Para rendir la protesta sin interpelación, el que va a protestar dirá: "Protesto cumplir y hacer cumplir la Constitución Política de la República, la del Estado y las leyes que de ellas emanen y desempeñar leal y patrióticamente el cargo de ...... que el pueblo me ha conferido mirando en todo por el honor y prosperidad de la República y del Estado". "Si así no lo hiciere, que la República y el Estado me lo demanden".
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1950)</small>
+
+II. La protesta se pide y se dá por interpelación entre los siguientes funcionarios y empleados:
+
+(1).- A los Diputados de la Legislatura que va a instalarse, les pedirá en grupo la protesta el Presidente de la Diputación Permanente o de la Cámara saliente, si está en período extraordinario de sesiones. En uno y otro caso, el acto se verificará en sesión pública ordinaria o extraordinaria. A los Diputados que se presenten después y a los suplentes que entren en ejercicio, el Presidente de la Cámara les tomará la protesta en la sesión pública que corresponda.
+
+(2).- Al Gobernador y a los Magistrados del Supremo Tribunal de Justicia del Estado, les tomará la protesta en solemne sesión pública, ordinaria o extraordinaria, el Presidente de la Cámara, o en su caso, el de la Diputación Permanente.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1950)</small>
+
+(3).- A los Jefes de los Departamentos Gubernativos al Procurador General de Justicia, al Recaudador de Rentas residente en la Capital y al Jefe de Defensores de oficio, les tomará la protesta el Gobernador del Estado, y ellos a su vez, a los demás empleados de sus dependencias que residan en la capital. En cuanto a los subalternos foráneos de las diversas secciones administrativas del Ejecutivo les tomará la protesta el Presidente Municipal de la jurisdicción en que ejerzan sus cargos.
+
+(4).- Al Secretario y demás empleados del Supremo Tribunal de Justicia y a los Jueces de Primera Instancia, les tomará la protesta el Presidente de aquel alto Cuerpo. Al Secretario y Jueces, ante el Tribunal en pleno acuerdo y para los demás, ante el Secretario. A los Jueces de Primera Instancia que no puedan presentarse ante el Tribunal les tomará la protesta el Presidente Municipal de la cabecera en que residan. A los Jueces Menores les tomará la protesta el de Primera Instancia de su jurisdicción, o en caso de impedimento, el Síndico convecino.
+
+(5).- A los Regidores del Ayuntamiento que va a instalarse, les tomará la protesta en grupo el Presidente del Ayuntamiento saliente en sesión plena de éste. A los Regidores que se presenten después y a los Suplentes que entren en ejercicio, el Presidente en funciones, en la sesión que corresponda.
+
+(6).- Al Secretario, Tesorero y demás empleados Municipales, les tomará la protesta el Presidente del Ayuntamiento, en sesión de éste a los dos primeros y ante el Secretario Municipal a los demás.
+
+(7).- A los Síndicos y Comisarios les tomará la protesta el Presidente Municipal en sesión pública del Ayuntamiento, o los colegas salientes en cualquier caso de impedimento.
+
+III. La protesta se rinde sin previa interpelación:
+
+(1).- Ante la Cámara en sesión pública, por los Presidentes que se nombre el Congreso.
+
+(2).- Ante el Supremo Tribunal de Justicia, en pleno acuerdo por el Presidente del mismo.
+
+(3).- Ante el Ayuntamiento en sesión pública, por los Presidentes Municipales electos por él mismo.
+
+IV. El acto de la protesta se verificará poniéndose en pie todos los presentes, excepto el Gobernador y los Presidentes del Congreso, del Supremo Tribunal de Justicia y de los Ayuntamientos, cuando ante ellos deba rendirse, porque en ese momento son los representantes de la soberanía del pueblo. El que protesta, mientras habla, mantendrá extendido horizontalmente hacia el frente el brazo derecho, con los dedos unidos y el dorso de la mano abierta hacia arriba. Acto continuo, se levantará un acta por duplicado que firmará el otorgante y quien reciba la protesta, con su Secretario respectivo, un tanto de la cual se remitirá a la oficina pagadora por los conductos debidos. Si la protesta se rinde ante el Congreso, el Supremo Tribunal de Justicia o el Ayuntamiento no habrá más acta que la ordinaria de la sesión, dándose conocimiento de ella a quien corresponda, por medio de oficio.
+
+V. En los casos en que por cualquier motivo se altere el orden constitucional en el Estado, están facultados para tomar protesta, a falta de las autoridades designadas en los incisos II y III de este artículo; el Supremo Tribunal de Justicia en pleno acuerdo, el Ayuntamiento de la Capital del Estado, y sucesivamente los demás Cuerpos edilicios por el orden decreciente de la población de sus Municipalidades.
+
+VI. En el caso de que el orden constitucional desaparezca totalmente en el Estado, el Gobernador Interino que designe el Gobierno Federal, rendirá la protesta ante el pueblo del lugar de la residencia oficial para el efecto, previamente convocado.
+
+VII. Es ilegal la protesta rendida ante una autoridad no protestada.
 
 ###### Art. 144.
 
@@ -1678,3 +1744,9 @@ Artículo Unico.-. Este Decreto comenzará a surtir sus efectos a partir de la f
 P.O. 25 DE MAYO DE 1950.
 
 UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1950.
+
+###### ARTICULO UNICO.
+
+En tanto se expide y entra en vigencia la Ley Orgánica y Reglamentaria del Poder Ejecutivo a que este Decreto se refiere, los negocios que el mismo encomienda a los Departamentos de Gobernación, Educación y Bellas Artes, Promoción Económica y Social, Comunicaciones y Obras Públicas y Agricultura y Ganadería, seguirán siendo de la incumbencia de la Secretaría General de Gobierno de acuerdo con su actual Ley Orgánica y por tanto esta Dependencia subsistirá hasta entonces. Los que competen al Départamento (sic) de Hacienda Pública continuarán a cargo de la Tesorería General del Estado de conformidad con las Leyes que la han estado rigiendo hasta la fecha.
