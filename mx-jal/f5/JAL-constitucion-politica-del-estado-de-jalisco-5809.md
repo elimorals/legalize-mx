@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2001-07-17"
+last_updated: "2003-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2003.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -1049,15 +1049,21 @@ En caso de que el Congreso rechace la totalidad de los candidatos propuestos, el
 
 En igualdad de circunstancias, los nombramientos de magistrados serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2003)</small>
 
 ###### Art. 61.
 
-Los magistrados del Supremo Tribunal de Justicia durarán en el ejercicio de su encargo siete años, contados a partir de la fecha en que rindan la protesta de ley, al término de los cuales podrán ser reelectos y, si lo fueren, continuarán en esa función por diez años más, durante los cuales sólo podrán ser privados de su puesto en los términos que establezcan esta Constitución y las leyes, en materia de responsabilidad de los servidores públicos.
+Los magistrados del Supremo Tribunal de Justicia durarán en el ejercicio de su encargo siete años, contados a partir de la fecha en que rindan protesta de ley, al término de los cuales podrán ser ratificados y, si lo fueren, continuarán en esa función por diez años más, durante los cuales sólo podrán ser privados de su puesto en los términos que establezca esta Constitución y las leyes en materia de responsabilidad de los servidores públicos.
 
-Al término de los diecisiete años a que se refiere el párrafo anterior, los magistrados tendrán derecho a un haber por retiro, conforme lo establezca la Ley Orgánica del Poder Judicial.
+Tres meses antes de que concluya el periodo de siete años para el que fue nombrado un magistrado, el Pleno del Supremo Tribunal de Justicia elaborará un dictamen técnico en el que se analice y emita opinión sobre la actuación y desempeño del magistrado. El dictamen técnico, así como el expediente del magistrado será enviado al Congreso del Estado para su estudio.
 
-Los magistrados reelectos para concluir el período de diecisiete años, no podrán en ningún caso volver a ocupar el cargo.
+El Congreso del Estado decide soberanamente sobre la ratificación o no ratificación de los magistrados mediante el voto de las dos terceras partes de los diputados presentes.
+
+Si el Congreso del Estado resuelve la no ratificación, el magistrado cesará en sus funciones a la conclusión del periodo para el que fue designado y se procederá a realizar un nuevo nombramiento en los términos de este capítulo.
+
+Al término de los diecisiete años a que se refiere este artículo, los magistrados tendrán derecho a un haber por retiro, conforme lo establezca la Ley Orgánica del Poder Judicial.
+
+Los magistrados ratificados para concluir el período de diecisiete años no podrán en ningún caso volver a ocupar el cargo.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1175,13 +1181,21 @@ Los magistrados electorales deberán satisfacer los requisitos que señale la le
 
 Los magistrados electorales serán electos por el voto de cuando menos las dos terceras partes de los miembros presentes del Congreso del Estado, con base en la propuesta de candidatos que realicen los grupos parlamentarios, escuchando a los partidos políticos, instituciones de educación superior, colegios de abogados y demás organizaciones sociales y civiles, en la forma y términos que determine la ley.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2003)</small>
 
-Los magistrados electorales durarán en el ejercicio de su encargo cuatro años, contados a partir de la fecha en que rindan la protesta de ley.
+Los magistrados electorales durarán en el ejercicio de su encargo cuatro años, contados a partir de la fecha en que rindan la protesta de ley, al término de los cuales podrán ser ratificados mediante el procedimiento que esta Constitución establece en su artículo 61.
 
-> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2003)</small>
 
-Durante su ejercicio los magistrados electorales sólo podrán ser privados de su empleo en los términos que establezcan esta Constitución y las leyes en materia de responsabilidad de los servidores públicos.
+El Pleno del Tribunal Electoral enviará al Congreso del Estado el dictamen técnico y el expediente del magistrado para su estudio.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2003)</small>
+
+Si los magistrados electorales son ratificados por el Congreso del Estado, continuarán en esa función por cuatro años más, durante los cuales sólo podrán ser privados de su empleo en los términos que establezca esta Constitución y las leyes, en materia de responsabilidad de los servidores públicos.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2003)</small>
+
+Si el Congreso del Estado resuelve la no ratificación, el magistrado cesará en sus funciones a la conclusión del periodo para el que fue designado y se procederá a realizar un nuevo nombramiento en los términos de esta Constitución.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -2298,3 +2312,9 @@ CUARTO.- El Segundo párrafo del artículo 78, de la Ley Orgánica del Poder Jud
 QUINTO.- Se deberán realizar las adecuaciones presupuestales necesarias de acuerdo con las leyes aplicables acorde a nueva estructura del Tribunal Electoral.
 
 SEXTO.- Remítase copia certificada del expediente que se integre con motivo de la presente iniciativa a los 124 Ayuntamientos de la Entidad para los efectos de lo dispuesto por el artículo 117 de la Constitución Política del Estado de Jalisco.
+
+P.O. 13 DE MARZO DE 2003.
+
+PRIMERO. Envíese el presente decreto que contiene reformas a la Constitución Política del Estado de Jalisco, junto con los debates que hubiere provocado a los ayuntamientos del Estado, para los efectos del artículo 117 de la Constitución Política del Estado de Jalisco.
+
+SEGUNDO. El presente decreto que contiene reformas a la Constitución Política del Estado de Jalisco, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
