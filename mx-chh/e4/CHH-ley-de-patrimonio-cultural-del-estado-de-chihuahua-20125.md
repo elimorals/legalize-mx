@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-patrimonio-cultural-del-estado-de-chihuahua-20125"
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-28"
-last_updated: "2001-02-28"
+last_updated: "2003-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20125&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 28 de febrero del 2001.
 
@@ -77,7 +77,9 @@ III. Presupuesto: Los recursos económicos destinados a programas culturales;
 
 IV. Ley: El presente instrumento;
 
-V. Derecho Cultural: El reconocimiento a todo habitante del Estado, para crear, expresar, acceder, expresarse, proteger, asociarse, autoadscribirse y accesar a la cultura;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2003)</small>
+
+V. Derecho Cultural: El reconocimiento a todo habitante del Estado, para crear, expresar, acceder, proteger, asociarse y auto-adscribirse a la cultura;
 
 VI. Patrimonio Cultural Intangible: El conjunto de conocimientos, representaciones y visiones culturales, tradiciones, usos, costumbres, sistema de significados, formas de expresión simbólica y las lenguas del Estado de Chihuahua. Este conjunto de conocimientos y visiones culturales son la base conceptual y primigenia de las manifestaciones materiales de tradición popular y étnica. Es decir, el conjunto de conocimientos y representaciones abstractas son la condición primaria para la representación material del mismo;
 
@@ -95,7 +97,9 @@ c) Naturales: Formaciones geomorfológicas con relevancia biológica, estética 
 
 IX. Zonas Protegidas: Los espacios geográficos unificados que contengan: inmuebles, sitios o elementos naturales con significado histórico y/o artístico, cuya conservación sea de interés para los habitantes del Estado. Estas zonas se dividen en:
 
-a. Zonas con Paisajes Naturales: Los sitios o regiones geográficas que contengan recursos humanos y sus productos, escenarios y monumentos naturales asociados con acontecimientos históricos o que posean relevancia por sus valores estéticos o tradicionales. Además de la geomorfología, la flora y la fauna, estas zonas pueden incluir humedales, estanques, corrientes de agua, fuentes, veredas, escalones, muros, inmuebles, muebles decorativos o utilitarios, entre otros, de acuerdo a su relevancia colectiva.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2003)</small>
+
+a. Zonas con Paisajes Culturales: los sitios o regiones geográficas que contengan recursos humanos y sus productos, escenarios y monumentos naturales asociados con acontecimientos históricos o que posean relevancia por sus valores estéticos o tradicionales. Además de la geomorfología, la flora y la fauna, estas zonas pueden incluir humedales, estanques, corrientes de agua, fuentes, veredas, escalones, muros, inmuebles, muebles decorativos o utilitarios, entre otros, de acuerdo a su relevancia colectiva.
 
 b. Zona Histórica: La extensión territorial en la que se ubican inmuebles con valor histórico sean monumentales o contextuales.
 
@@ -125,7 +129,9 @@ XIII. Acervos contenidos en Museos y Bibliotecas: El Conjunto de bienes muebles 
 
 Manifestaciones artísticas en todas sus variantes tanto tradicionales como contemporáneas.
 
-XIV. Archivos Históricos: Los que se constituyan con aquellos documentos cuyo contenido es de gran trascendencia y digno de memoria, debiendo por tanto hacer permanente su conservación. Serán considerados como parte del patrimonio cultural del Estado y de los Municipios. Se considera archivos históricos a los documentos con treinta años de antigüedad a partir del año en curso;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2003)</small>
+
+XIV. Archivos Históricos: Los que se construyan con aquellos documentos cuyo contenido es de gran trascendencia y digno de memoria, debiendo por tanto hacer permanente su conservación. Serán considerados como parte del patrimonio cultural del Estado y de los Municipios. Se consideran archivos históricos a los documentos con treinta años de antigüedad a partir del año en curso;
 
 XV. Las Lenguas del Estado: Aquellas habladas de manera usual y en su diversidad dialectal por las comunidades culturales que coexisten en el territorio del Estado de Chihuahua;
 
@@ -135,13 +141,19 @@ XVII. Programa del Patrimonio Cultural: El instrumento de planeación anual y de
 
 XVIII. Identificación: El reconocimiento de las características que conforman un bien cultural;
 
-XIX. Investigación: El conjunto de estudios con la finalidad de realizar algún descubrimiento científico o resolver un problema práctico determinado en el ámbito de ciencias como la antropología, arqueología, arquitectura e historia;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2003)</small>
 
-XX. Catalogación: El registro o inventario ordenado del patrimonio cultural con base en un método específico;
+XIX. Investigación: El conjunto de estudios realizados con la finalidad de resolver problemas teóricos o prácticos en el ámbito de las ciencias y la tecnología;
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2003)</small>
+
+XX. Catalogación: El registro ordenado del patrimonio cultural con base en un método específico;
 
 XXI. Revaloración: Volver a dar valor a un bien cultural tangible o intangible a través de acciones definidas y combinadas con el sentido del valor patrimonial para obtener diversos géneros de intervención histórica;
 
-XXII. Revitalización: Volver a dar vida a un bien cultural tangible o intangible. Se dota de este término a elementos arquitectónicos y urbanos que se encuentran abandonados sin alma o vida, dirigiéndose a las condiciones de los bienes; se consideran a procesos de conservación en el sentido del mantenimiento;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2003)</small>
+
+XXII. Revitalización: Volver a dar vida a un bien cultural tangible o intangible. Se aplica este término a elementos arquitectónicos y urbanos que se encuentran abandonados; son considerados así los procesos de conservación en el sentido del mantenimiento;
 
 XXIII. Intervención: La acción de injerencia práctica en materia de conservación;
 
@@ -205,9 +217,19 @@ III. La Ley de Ecología del Estado de Chihuahua;
 
 IV. La Ley General del Sistema de Documentación e información Pública del Estado de Chihuahua;
 
-V. Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos; y,
+V. Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos; y, (sic)
 
-VI. Las demás leyes locales relacionadas con la materia que regula esta Ley.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2003)</small>
+
+VI. Ley Federal de Derechos de Autor;
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2003)</small>
+
+VII. Ley Federal de Invenciones y Marcas;
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2003)</small>
+
+VIII. Las demás leyes locales relacionadas con la materia que regula esta ley.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES Y ORGANOS DE APOYO
 
@@ -279,9 +301,15 @@ V. Coordinar y asociarse con otros municipios de la entidad para el cumplimiento
 
 VI. Promover inversiones y acciones que tiendan a conservar y revitalizar los bienes intangibles y tangibles integrados al patrimonio cultural;
 
-VII. Incluir en el anteproyecto de Ley de Ingresos, los estímulos fiscales que consideren pertinentes a favor de los propietarios o poseedores de bienes culturales ubicados en su municipio que hayan sido declarados patrimonio cultural, así como las partidas presupuestales destinadas a la conservación y protección del patrimonio cultural; y,
+VII. Incluir en el anteproyecto de Ley de Ingresos, los estímulos fiscales que consideren pertinentes a favor de los propietarios o poseedores de bienes culturales ubicados en su municipio que hayan sido declarados patrimonio cultural, así como las partidas presupuestales destinadas a la conservación y protección del patrimonio cultural; y, (sic)
 
-VIII. Las demás que le otorguen este y otros ordenamientos aplicables en la materia.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2003)</small>
+
+VIII. Declarar el Patrimonio Cultural Municipal; y,
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2003)</small>
+
+IX. Las demás que le otorguen éste y otros ordenamientos aplicables en la materia.
 
 #### SECCIÓN TERCERA. DEL INSTITUTO CHIHUAHUENSE DE LA CULTURA
 
@@ -319,7 +347,9 @@ XII. Convocar a la sociedad civil, sectores social y privado, para la integraci�
 
 XIII. Consultar a la sociedad civil para el análisis de propuestas y proyectos de problemáticas relacionados con el patrimonio cultural;
 
-XIV. Proponer a la Secretaría de Educación Pública, incluir dentro de la currícula académica así como en sus programas de extensión, acciones de formación protección y difusión del patrimonio cultural con la participación directa de alumnos, maestros y padres de familia;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2003)</small>
+
+XIV. Proponer a la Secretaría de Educación Pública y a la Secretaría de Educación y Cultura del Gobierno del Estado, incluir dentro de la currícula académica así como en sus programas de extensión, acciones de formación protección y difusión del patrimonio cultural con la participación directa de alumnos, maestros y padres de familia;
 
 XV. Sustanciar el procedimiento de declaratoria al que se refiere la presente Ley y su Reglamento;
 
@@ -327,7 +357,9 @@ XVI. Recibir y sustanciar los recursos de revisión y reconsideración a que se 
 
 XVII. Promover estímulos fiscales, financieros y técnicos para propietarios o poseedores de bienes culturales adscritos al patrimonio cultural del Estado;
 
-XVIII. Elaborar el Programa de Conservación del Patrimonio Cultural del Estado;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2003)</small>
+
+XVIII. Elaborar, ejecutar y dar seguimiento al Programa de Conservación del Patrimonio Cultural del Estado;
 
 XIX. Planear las acciones conducentes para la conservación del Patrimonio Cultural del Estado, que incluirá acciones, políticas y estrategias a seguir;
 
@@ -459,7 +491,9 @@ Son atribuciones del Consejo Estatal de Patrimonio Cultural:
 
 I. Participar en la elaboración del Plan Estatal de Desarrollo, en lo que toca a la materia de patrimonio cultural, en los términos que determina el Capítulo III de la Ley de Planeación del Estado;
 
-II. Proponer al Ichicult las políticas públicas sobre el Patrimonio Cultural del Estado, en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2003)</small>
+
+II. Proponer al Instituto las políticas públicas sobre el Patrimonio Cultural del Estado, en el ámbito de su competencia;
 
 III. Participar, a invitación del Instituto, en la elaboración del presupuesto, los Planes, programas y proyectos en materia de patrimonio cultural;
 
@@ -469,7 +503,9 @@ V. Dictaminar qué bienes culturales pudieran ser declarados patrimonio cultural
 
 VI. Gestionar recursos ante organismos nacionales e internacionales, públicos o privados, para financiar los programas y proyectos de Patrimonio Cultural del Instituto;
 
-VII. Asesorar al Ichicult, cuando éste así se lo requiera, en los diversos procesos y problemáticas en torno al patrimonio cultural;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2003)</small>
+
+VII. Asesorar al Instituto, cuando éste así se lo requiera, en los diversos procesos y problemáticas en torno al patrimonio cultural;
 
 VIII. Consultar a profesionales, especialistas y a la ciudadanía en general en los asuntos del patrimonio cultural;
 
@@ -543,9 +579,11 @@ El funcionamiento del Consejo estará regulado por su propio reglamento.
 
 ### CAPÍTULO III. DEL PATRIMONIO CULTURAL INTANGIBLE
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2003)</small>
+
 ###### ARTÍCULO 31.
 
-El patrimonio cultural intangible será documentado y protegido, mediante programas específicos de investigación, conservación, protección, fomento, capacitación, formación y difusión.
+El patrimonio cultural intangible será documentado y protegido, mediante programas específicos de investigación, conservación, protección, fomento, capacitación y difusión.
 
 ###### ARTÍCULO 32.
 
@@ -591,9 +629,11 @@ La protección del patrimonio étnico podrá también llevarse a cabo a través 
 
 La protección del patrimonio étnico formará parte de una acción global dirigida a la protección del medio natural y el paisaje, así como de las actividades tradicionales de las culturas étnicas.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2003)</small>
+
 ###### ARTÍCULO 41.
 
-El Estado velará porque todos aquellos productos derivados del uso y explotación del patrimonio cultural intangible se respeten y apliquen en beneficio de sus intérpretes, productores y/o autores, creando el Fondo para el Patrimonio Cultural, a partir de la recaudación de los ingresos derivados de los derechos de autor.
+El Estado velará porque todos aquellos productos derivados del uso y explotación del patrimonio cultural intangible se respeten y apliquen en beneficio de sus intérpretes, productores y/o autores, creando el Fondo para el Patrimonio Cultural, a partir de la recaudación de los ingresos derivados del pago de derechos.
 
 ###### ARTÍCULO 42.
 
@@ -647,9 +687,11 @@ Los bienes muebles serán reconocidos como patrimonio cultural en lo individual 
 
 No podrá declararse patrimonio cultural una obra de arte de un artista vivo sin la autorización expresa del autor y/o de su propietario. Esta disposición no se aplicará a obras de arte instaladas en espacios públicos o adquiridas por las instituciones culturales o públicas del Estado.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2003)</small>
+
 ###### ARTÍCULO 51.
 
-La declaración de un mueble como patrimonio cultural requiere del establecimiento de un proceso de registro y declaratoria de acuerdo al capítulo VI de esta Ley.
+La declaración de un bien mueble como patrimonio cultural requiere del establecimiento de un proceso de registro y declaratoria de acuerdo al capítulo VI de esta Ley.
 
 ### CAPÍTULO V. DEL INVENTARIO Y CATALOGO DEL PATRIMONIO CULTURAL
 
@@ -877,7 +919,7 @@ El Programa del Patrimonio Cultural del Estado de Chihuahua, será publicado en 
 
 ###### ARTÍCULO 82.
 
-El Ejecutivo del Estado, a través del Instituto y de conformidad con el programa presupuestal a que se refiere el Artículo 78 de esta ley y con el concurso de fondos públicos y privados, creará un Sistema Anual de Estimulos a Proyectos de Patrimonio Cultural.
+El Ejecutivo del Estado, a través del Instituto y de conformidad con el programa presupuestal a que se refiere el Artículo 78 de esta ley y con el concurso de fondos públicos y privados, creará un Sistema Anual de Estímulos a Proyectos de Patrimonio Cultural.
 
 Para los efectos de la Concesión de los estímulos, se procederá siempre por medio de convocatoria abierta.
 
@@ -1009,7 +1051,9 @@ IV. Formulación de los requerimientos técnicos necesarios que deba cubrir la o
 
 V. Nombramiento del perito asesor y supervisor; y,
 
-VI. Mandamiento de inscripción de la ejecución de la obra autorizada en el Registro Público del Patrimonio Cultural dentro de los siguientes diez días hábiles a su conclusión.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2003)</small>
+
+VI. Mandamiento de inscripción de la ejecución de la obra autorizada en la SECCIÓN SÉPTIMA, DE ASENTAMIENTOS HUMANOS Y DEL PATRIMONIO CULTURAL", dentro de los diez días hábiles siguientes a su conclusión.
 
 ###### ARTÍCULO 98.
 
@@ -1172,3 +1216,11 @@ LIC. VICTOR EMILIO ANCHONDO PAREDES
 EL PROCURADOR GENERAL DE JUSTICIA ENCARGADO DEL DESPACHO DE LA SECRETARIA GENERAL DE GOBIERNO POR MINISTERIO DE LEY
 
 LIC. ARTURO GONZALEZ RASCON
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE JUNIO DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
