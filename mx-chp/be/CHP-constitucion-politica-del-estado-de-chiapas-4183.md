@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1952-11-19"
+last_updated: "1952-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 1952.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 1952.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -905,11 +905,11 @@ El Secretario General es el órgano de comunicación entre el Gobernador y las a
 
 El ejercicio del Poder Judicial se deposita en un Tribunal Superior de Justicia, Jueces de Primera Instancia, Asesores, Jurados, Jueces Municipales y Jueces Rurales, quienes no podrán pertenecer al estado eclesiástico ni ser ministro de algún culto. El Estado se dividirá en los Distritos Judiciales que señale la Ley Orgánica respectiva.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1952)</small>
 
 ###### ARTICULO 55.
 
-El Tribunal Superior de Justicia se compondrá de tres Magistrados de número y cinco Supernumerarios que serán electos por el Congreso del Estado, constituido en Colegio Electoral y con asistencia cuando menos de las dos terceras partes del número total de sus miembros, quienes decidirán de la elección por mayoría absoluta de votos emitidos en escrutinio secreto, a propuesta en terna por el Ejecutivo del Estado.
+El Tribunal Superior de Justicia se compondrá de cinco Magistrados de Número y tres Supernumerarios, que serán electos por el Congreso del Estado, constituído en Colegio Electoral y con asistencia cuando menos de las dos terceras partes del número total de sus miembros, quienes decidirán de la elección por mayoría absoluta de votos emitidos en escrutinio secreto, a propuesta en terna por el Ejecutivo del Estado.
 
 > <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
 
@@ -1468,3 +1468,13 @@ Quedan derogadas todas las Leyes, Decretos y demás disposiciones que se opongan
 ###### Artículo 2o.
 
 Este Decreto comenzará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE NOVIEMBRE DE 1952.
+
+###### Artículo 1o.
+
+Quedan derogadas todas las Leyes, Decretos y demás disposiciones que se opongan a la reforma a que se contrae el presente decreto.
+
+###### Artículo 2o.
+
+Este decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
