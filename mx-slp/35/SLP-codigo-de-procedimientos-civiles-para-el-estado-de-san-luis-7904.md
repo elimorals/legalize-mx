@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "1990-01-26"
+last_updated: "1990-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 1990.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -231,13 +231,17 @@ El acuerdo será reservado.
 
 ART. 58.- Los jueces y magistrados a quienes corresponda, recibirán por sí mismos las declaraciones; y presidirán todos los actos de prueba, bajo su responsabilidad.
 
-ART. 59.- Los jueces y magistrados tienen el deber de mantener el buen orden y exigir que se les guarden el respeto y consideración debidos, corrigiendo en el acto las faltas que se cometieren, con multas que no podrán pasar de veinte pesos en los juzgados menores; de cincuenta en los de primera instancia, y de cien pesos en el Supremo Tribunal. Pueden también emplear el uso de la fuerza pública. Si los hechos llegaren a constituir delitos, se procederá criminalmente contra los que cometieren, con arreglo a lo dispuesto en el Código Penal; consignando al culpable a la autoridad competente, con testimonio de lo conducente.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1990)</small>
+
+ART. 59.- Los Jueces y Magistrados tienen el deber de mantener el buen orden y exigir que se les guarden el respeto y consideraciones debidos, corrigiendo en el acto las faltas que se cometieron con multas que no podrán pasar de cinco días de salario mínimo vigente en la región de los Juzgados Menores; de doce días de salario mínimo vigente en la región de los de Primera Instancia y de veinte días de Salario mínimo vigente en la región, en el Supremo Tribunal. Pueden también emplear el uso de la fuerza pública, si los hechos llegaren a constituir delitos, se procederá criminalmente contra los que los cometieren, con arreglo a lo dispuesto en el Código Penal; consignando al culpable a la autoridad competente, con testimonio de lo conducente.
 
 ART. 60.- Se entenderá corrección disciplinaria:
 
 I.- El apercibimiento o amonestación;
 
-II.- La multa que no exceda de cien pesos, que se duplicará en caso de reincidencia;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 1990)</small>
+
+II.- La multa que no exceda veinte días de salario mínimo vigente en la región, que se duplicará en caso de reincidencia;
 
 III.- La suspensión que no exceda de un mes.
 
@@ -285,7 +289,9 @@ Los incidentes ajenos al negocio principal deberán ser repelidos de oficio por 
 
 ART. 71.- Los jueces, para hacer cumplir sus determinaciones, pueden emplear cualquiera de los siguientes medios de apremio que juzguen eficaz:
 
-I.- La multa desde cinco hasta cien pesos, que se duplicará en caso de reincidencia;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 1990)</small>
+
+I.- La multa desde tres hasta veinte días de salario mínimo vigente en la región, que se duplicará en caso de reincidencia;
 
 II.- El auxilio de la fuerza pública;
 
@@ -305,7 +311,9 @@ ART. 74.- La nulidad de una actuación debe reclamarse en la actuación subsecue
 
 ART. 75.- Las nulidades a que se refiere el artículo anterior se promoverán ante el mismo juez o tribunal que conozca del negocio. Si la parte contraria estuviere conforme, se declarará desde luego la nulidad de lo actuado desde la notificación hecha indebidamente. Si no estuviere conforme, se convocará a una audiencia que tendrá verificativo a más tardar dentro de cinco días, en la que los interesados podrán presentar las pruebas que tuvieren. En la misma audiencia se resolverá lo que procediere en justicia, sin recurso alguno, salvo que se trate de nulidades por falta de emplazamiento, de citación para absolver posiciones o para reconocimiento de documentos, que serán apelables.
 
-En el caso de que proceda la nulidad, se impondrá al responsable una multa de diez a veinticinco pesos y se le condenará al pago de los gastos y costas.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1990)</small>
+
+En el caso de que proceda la nulidad se impondrá al responsable una multa de uno a tres días de salario mínimo vigente en la región y se le condenará al pago de las costas y gastos.
 
 ART. 76.- En cualquier estado del negocio pueden los jueces o tribunales citar a las partes a las juntas que crean convenientes, ya sea para procurar su avenencia o para esclarecer algún punto, sin que se suspendan los términos que estén corriendo. Estas juntas, lo mismo que todas las diligencias, se efectuarán en el juzgado o tribunal, a menos que por su propia naturaleza deban practicarse en otro lugar, o cuando por razón del sexo, edad, enfermedad u otra circunstancia grave de las personas que deban intervenir, el juzgado o tribunal designe lugar diverso.
 
@@ -413,7 +421,9 @@ ART. 104.- Pueden los tribunales acordar que los exhortos y despachos que manden
 
 ### CAPITULO V. De las Notificaciones
 
-ART. 105.- Las notificaciones, citaciones y entrega de expedientes, se efectuarán a más tardar el día siguiente al en que se dicten las resoluciones que las prevengan, siempre que en éstas el juez o tribunal no dispusieren otra cosa. A los infractores de esta disposición se impondrá de plano una multa que no exceda de veinticinco pesos.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1990)</small>
+
+ART. 105.- Las notificaciones, citaciones y entrega de expedientes, se efectuarán a más tardar el día siguiente al en que se dicten las resoluciones que las prevengan, siempre que en éstas el Juez o Tribunal no dispusieren otra cosa. A los infractores de esta disposición se impondrá de plano una multa que no exceda de tres días de salario mínimo vigente en la región.
 
 ART. 106.- Las notificaciones se harán personalmente, por cédula, por lista de acuerdos en los términos de los artículos 117 a 122, por edictos, por correo y por telégrafo, de acuerdo con lo que se dispone en los artículos siguientes.
 
@@ -451,7 +461,9 @@ ART. 113.- Si después que el notificador se hubiere cerciorado de que la person
 
 ART. 114.- Cuando no se conociere el lugar en que la persona que debe notificarse tenga el principal asiento de sus negocios, y en la habitación no se pudiere, conforme al artículo anterior, hacer la notificación, se podrá hacer ésta en el lugar en donde se encuentre.
 
-En este caso, las notificaciones se firmarán por el notificador y por la persona a quien se hiciere. Si ésta no supiere o no pudiere firmar, lo hará a su ruego un testigo. Si no quisiere firmar o presentar testigo que lo haga por ella, firmarán dos testigos requeridos al efecto por el notificador. Estos testigos no podrán negarse a hacerlo, bajo la multa de tres a quince pesos.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1990)</small>
+
+En este caso, las notificaciones se firmarán por el notificador y por la persona a quien se hiciere, si ésta no supiese firmar, lo hará a su ruego, un testigo. Si no quisiere firmar o presentar testigo que lo haga por ella, firmarán dos testigos requeridos al efecto por el notificador. Estos testigos no podrán negarse a hacerlo, bajo la multa de uno a tres días de salario mínimo vigente en la región.
 
 ART. 115.- Cuando se trate de notificar a peritos, a terceros que sirvan de testigos y a personas que no sean parte en el juicio, se puede hacer personalmente por instructivo en sobre cerrado y sellado, conteniendo la determinación del tribunal que mande practicar la diligencia. Estos sobres pueden entregarse por conducto de la policía, de las partes mismas o de los notificadores, recogiéndose la firma del notificado en el mismo sobre, que será devuelto para agregarse a los autos. Las mismas personas pueden ser notificadas también por correo certificado, con acuse de recibo o por telégrafo, en ambos casos a costa del promovente. Cuando se haga por telegrama se enviará por duplicado a la Oficina que ha de transmitirlo, la cual devolverá, con el correspondiente recibo sellado, uno de los ejemplares que se agregará al expediente.
 
@@ -479,7 +491,9 @@ ART. 121.- Los secretarios de los juzgados y de las Salas del Supremo Tribunal, 
 
 Por ningún motivo se incluirán en la lista los negocios o resoluciones de carácter reservado a juicio del tribunal.
 
-ART. 122.- En las salas del tribunal y en los juzgados, los notificadores harán constar en los autos respectivos, la fecha de las listas de acuerdos en que se haya hecho la publicación a que se refiere el artículo anterior, bajo la pena de veinticinco pesos de multa por la primera falta, de cincuenta pesos por la segunda y de suspensión de empleo, hasta por tres meses, por la tercera, sin perjuicio de indemnizar debidamente a la persona que resulte perjudicada por la omisión.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1990)</small>
+
+ART. 122.- En las salas del Tribunal y en los Juzgados, los notificadores harán constar en los autos respectivos la fecha de las listas de acuerdos en que se haya hecho la publicación a que se refiere el artículo anterior, bajo la pena de cinco días de salario mínimo vigente en la región por la primera falta, de diez días de salario mínimo vigente en la región por la segunda y de suspensión de empleo, hasta por tres meses, por la tercera, sin perjuicio de indemnizar debidamente a la persona que resulte perjudicada por la omisión.
 
 ### CAPITULO VI. De los Términos Judiciales
 
@@ -631,7 +645,11 @@ XI.- Para decidir las diferencias conyugales y los juicios de nulidad de matrimo
 
 XII.- En los juicios de divorcio, el tribunal del domicilio conyugal y en caso de abandono de hogar, el del domicilio del cónyuge abandonado;
 
-XIII.- En los juicios sobre rectificación de las actas del estado civil, el de primera instancia del lugar donde se hubiere extendido el acta.
+XIII.- En los juicios sobre rectificación de las actas del estado civil, el de primera instancia del lugar donde se hubiere extendido el acta;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 1990)</small>
+
+XIV.- En los juicios de alimentos, el del domicilio del actor o del demandado, a elección del acreedor alimentario.
 
 ART. 156.- Para determinar la competencia por razón de la cuantía del negocio, se tendrá en cuenta lo que demande el actor. Los réditos, daños o perjuicios no serán tenidos en consideración si son posteriores a la presentación de la demanda, aun cuando se reclamen en ella.
 
@@ -679,9 +697,9 @@ En ambos casos, recibidos los autos en el tribunal que deba dirimir la competenc
 
 Decidida la competencia del tribunal mandará sin retardo los autos al juez declarado competente con testimonio de la sentencia, de la cual remitirá un tanto al estimado incompetente, si lo hubiere. En contra de la resolución dictada en estos casos no procederá ningún recurso.
 
-ART. 167.- El litigante que hubiere optado por uno de los dos medios de promover una competencia, no podrá abandonarlo y recurrir al otro; tampoco podrá emplearlo sucesivamente.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1990)</small>
 
-Cuando no proceda la inhibitoria debe pagar las costas el que la promovió y una indemnización hasta de $300.00, que, según la importancia del negocio, le impondrá el superior en favor del colitigante.
+ART. 167.- Cuando no proceda la inhibitoria debe pagar las costas el que la promovió y una indemnización hasta de quince días de salario mínimo vigente en la región, que, según la importancia del negocio, le impondrá el superior en favor del coligigante (sic).
 
 ART. 168.- La no suspensión de un procedimiento en los casos a que se refiere el artículo 166, producirá la nulidad de lo actuado; y el tribunal será responsable de los daños y perjuicios originados a las partes e incurrirá además en la pena que señala la Ley. No obstante lo anterior, los jueces competidores podrán dictar bajo su responsabilidad las providencias que tuvieren el carácter de urgentes o precautorias, cuya subsistencia quedará pendiente de la resolución que dicte el superior sobre la cuestión jurisdiccional.
 
@@ -721,11 +739,9 @@ XIV.- Si él, su cónyuge o alguno de sus expresados parientes sigue algún proc
 
 XV.- Si es tutor o curador de alguno de los interesados, o no han pasado tres años de haberlo sido.
 
-ART. 170.- Los magistrados, jueces y secretarios tienen el deber de excusarse del conocimiento de los negocios en que ocurra alguna de las causas expresadas en el artículo anterior o cualquiera otra análoga, aun cuando las partes no los recusen.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1990)</small>
 
-Sin perjuicio de las providencias que conforme a este Código deben dictar, tienen la obligación de inhibirse inmediatamente que se avoquen al conocimiento de un negocio de que no deben conocer por impedimento, o dentro de las veinticuatro horas siguientes de que ocurra el hecho que origina el impedimento o de que tengan conocimiento de él.
-
-Cuando un juez o magistrado se excuse sin causa legítima, cualquiera de las partes puede acudir en queja al Presidente del Tribunal, quien encontrando injustificada la abstención podrá imponer una corrección disciplinaria.
+ART. 170.- Cuando el Juez o Magistrado se excusen sin causa legítima, cualquiera de las partes puede acudir en queja al Presidente del Tribunal, quien encontrando injustificada la abstención podrá imponer una corrección disciplinaria y ordenar que el Juez siga conociendo. El Juez que reciba el negocio procedente del presunto Juez Abstenso sin causa legítima, podrá ocurrir en la inconformidad; y si demuestra que la excusa no tuvo causa legítima, el Presidente del Tribunal decretará, en favor del Juez que deba seguir conociendo del negocio, a cargo del que injustificadamente se excusó, un sobresueldo de uno a diez días de salario mínimo vigente en la zona.
 
 ### CAPITULO II. De la Recusación
 
@@ -787,7 +803,9 @@ En los casos a que se refiere este artículo, se remitirá testimonio de la reso
 
 En el Tribunal, queda el Ministro recusado separado del conocimiento del negocio, durante la tramitación señalada en este artículo, debiendo abstenerse de concurrir a la audiencia y a las deliberaciones que se ofrezcan. Para completar la Sala, se llamará al Ministro que corresponda conforme a la Ley; pero si se declara improcedente la recusación volverá aquél al conocimiento del negocio.
 
-ART. 187.- Si se declarare improcedente o no probada la causa de la recusación, se impondrá al recusante una multa de veinte a cincuenta pesos si el recusado fuere un juez menor o alcalde; de cincuenta a doscientos si fuere un juez de primera instancia, y de doscientos a cuatrocientos pesos si fuere un magistrado.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1990)</small>
+
+ART. 187.- Si se declarare improceedente (sic) o no probada la causa de la recusación, se impondrá al recusante una multa de dos a cinco días de salario mínimo vigente en la región, si el recusado fuere un Juez Menor o Alcalde; de cinco a diez días de salario mínimo vigente en la región, si fuere un Juez de Primera Instancia y de diez a veinte días de salario mínimo en la región, si fuere Magistrado.
 
 ART. 188.- Los magistrados y jueces que conozcan de una recusación son irrecusables para sólo este efecto.
 
@@ -985,7 +1003,9 @@ ART. 244.- Si el actor no cumple con lo que se dispone en el artículo precedent
 
 ART. 245.- Si el que ha solicitado la providencia no entablare la demanda dentro del término fijado en este capítulo; si la providencia fuere revocada, o si entablada la demanda fuere absuelto el reo, pagará por vía de indemnización a su contrario:
 
-I.- Una cantidad que no baje de diez pesos ni exceda de cinco mil, a juicio del juez, cuando se trate de providencia de arraigo;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 1990)</small>
+
+I.- Una cantidad que no baje de diez ni exceda de cuarenta días de salario mínimo vigente en la región, a juicio del Juez, cuando se trate de providencia de arraigo;
 
 II.- El veinte por ciento del valor de los bienes secuestrados en los demás casos.
 
@@ -1183,7 +1203,13 @@ III.- Que se designe, en caso de ser prueba instrumental, los archivos públicos
 
 El juez, al calificar la admisibilidad de las pruebas, resolverá sobre el término extraordinario y determinará el monto de la cantidad que el promovente deberá depositar para asegurar el pago de la indemnización en caso de no rendirse la prueba. Sin este depósito no surtirá efectos el término extraordinario concedido.
 
-ART. 294.- El litigante a quien se hubiere concedido la dilación extraordinaria y no rindiere las pruebas que hubiere propuesto, sin justificar que tuvo para ello impedimento bastante a juicio del juez, será condenado, al concluir el período probatorio, a pagar a su contraparte una indemnización de $200.00 doscientos a $2,000.00 dos mil pesos, más daños y perjuicios.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1990)</small>
+
+ART. 294.- El litigante a quien se hubiere concedido la dilación extraordinaria y no rindiere las pruebas que hubiere propuesto, sin justificar el que tuvo para ello impedimento bastante a juicio del Juez, será condenado, al concluir el período probatorio, a pagar a su contraparte una indemnización de diez a treinta días de salario mínimo vigente en la región.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1990)</small>
+
+ART. 294 BIS.- Al litigante que ofreciere pruebas que se pueda apreciar que el propósito es el de retrasar el juicio, se le impondrá una multa que no baje de diez y exceda de cuarenta días de salario mínimo.
 
 ART. 295.- El término extraordinario de prueba será:
 
@@ -1593,9 +1619,9 @@ ART. 410.- Hay cosa juzgada cuando la sentencia causa ejecutoria.
 
 Causan ejecutoria por ministerio de Ley:
 
-> <small>(REFORMADA, P.O. 27 DE ABRIL DE 1978)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 1990)</small>
 
-I.- Las sentencias pronunciadas en juicio cuyo interés no pase de $5,000.00;
+I.- Las sentencias pronunciadas en juicio cuyo interés no pase de diez días de salario mínimo vigente en la región;
 
 II.- Las sentencias de segunda instancia;
 
@@ -1625,7 +1651,9 @@ ART. 413.- El auto en que se declara que una sentencia ha causado o no ejecutori
 
 ART. 414.- Se tramitarán como juicios extraordinarios:
 
-I.- Aquellos cuyo interés no exceda de un mil pesos;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 1990)</small>
+
+I.- Aquellos cuyo interés no exceda de diez días de salario mínimo vigente en la región;
 
 II.- Los que versen sobre el pago o aseguramiento de alimentos;
 
@@ -4139,11 +4167,13 @@ VI.- Efectuada la venta, se entregarán los bienes al adquiriente, luego que exh
 
 VII.- En todo lo demás se observarán, en lo conducente, las disposiciones de este Capítulo.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE JULIO DE 1990)</small>
+
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1990)</small>
 
-ART. 1096.- Los Jueces de Primera Instancia, en los negocios en materia civil, cuya cuantía sea hasta de $10,000.00 diez mil pesos y los menores cuya cuantía no exceda de $5,000.00 cinco mil pesos, procederán conforme a las disposiciones especiales de este Título y en lo no previsto, observarán las reglas generales y disposiciones de este Código.
+ART. 1096.- Los Jueces de Primera Instancia, en los negocios en materia civil, cuya cuantía sea hasta de diez días de salario mínimo vigente en la región y los menores cuya cuantía no exceda de cinco días de salario mínimo vigente en la región, procederán conforme a las disposiciones especiales de este Título y en lo no previsto, observarán las reglas generales y disposiciones de este Código.
 
 ART. 1097.- Cuando el juez, en cualquier estado del negocio, encuentre que no debe seguirse procedimiento especial por exceder de los límites que se fijan en el artículo anterior, continuará el procedimiento en la forma del juicio respectivo.
 
@@ -4203,7 +4233,9 @@ ART. 1111.- Antes de pronunciar el fallo el juez exhortará de nuevo a las parte
 
 ART. 1112.- Las sentencias se dictarán conforme a las reglas generales y la valorización de las pruebas se hará de acuerdo con lo prevenido por el artículo 407.
 
-ART. 1113.- Si a la hora señalada para la celebración de la audiencia a que se refieren los artículos 1100 y 1105 no estuviere presente el actor y sí el demandado, se impondrá a aquél una sanción de uno a diez pesos, que se aplicarán al reo por vía de indemnización y sin que se justifique haber hecho el pago, no se citará de nuevo para el juicio.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1990)</small>
+
+ART. 1113.- Si a la hora señalada para la celebración de la audiencia a que se refieren los Artículos 1100 y 1105 no estuviere presente el actor y sí el demandado se impondrá a aquel una sanción de tres días de salario mínimo vigente en la región, que se aplicará al reo por vía de indemnización y sin que se justifique haber hecho el pago, no se citará de nuevo para el juicio.
 
 ART. 1114.- En el caso del artículo anterior, si el que dejó de concurrir fuere el demandado y no hubiere contestado la demanda, si consta que fué debidamente notificado el emplazamiento, de lo que se cerciorará el juez con especial cuidado, se presumirán confesados los hechos asentados en la demanda y continuará el juicio por sus demás trámites. Cuando el reo se presente en el curso del juicio se continuará con su intervención según el estado en que se halle y no se le admitirá prueba sobre ninguna excepción, si no demostrare el impedimento de caso fortuito o fuerza mayor que le impidiere presentarse a contestar la demanda.
 
@@ -4233,7 +4265,9 @@ Si se promueve revocación se fallará de plano.
 
 ART. 1124.- Las promociones de nulidad de actuaciones por falta o defecto de citación o notificación, se resolverán de plano.
 
-ART. 1125.- En los juicios cuya cantidad no exceda de cien pesos, no habrá condenación en costas ni en multa, a pesar de cualquier pacto en contrario. En los que excedan de cien pesos, se condenará al vencido al pago de un diez por ciento del importe del negocio por toda indemnización, que se aplicará al que obtuvo.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1990)</small>
+
+ART. 1125.- En los juicios cuya cantidad no exceda de dos días de salario mínimo vigente en la región, no habrá condenación de costas ni en multa, a pesar de cualquier pacto contrario, en los que exceden de dos días de salario mínimo vigente en la región, se condenará al vencido al pago de un diez por ciento del importe del negocio por toda indemnización, que se aplicará al que obtuvo.
 
 ART. 1126.- Contra las resoluciones que se dicten en los juicios de que habla este Título no habrá recurso alguno, a excepción hecha de las sentencias dictadas por los jueces no letrados, sin consulta de asesor, en negocios cuyo interés exceda de cien pesos, que admitirá el recurso de revisión, el que deberá interponerse en el acto de la notificación de la sentencia o dentro del término de tres días, contados a partir de aquélla.
 
@@ -4268,92 +4302,6 @@ ART. 1135.- El tercero que considere perjudicados sus derechos al ejecutarse la 
 ART. 1136.- Las disposiciones de este Título se aplicarán también a los juicios sobre actos mercantiles, sin que a ello obsten las disposiciones que en contrario hay en el Código de Comercio.
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 1990)</small>
-
-### CAPITULO I. De las controversias del Orden Familiar
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1137.- Todos los problemas inherentes a la familia se consideran de orden público por constituir aquélla, la base de la integración de la sociedad.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1138.- El Juez de lo Familiar estará facultado para intervenir en los asuntos que afectan a la familia, tratándose de menores y de alimentos, decretando las medidas que tiendan a preservarla y a proteger a sus miembros.
-
-En todos los asuntos del orden familiar los Jueces y Tribunales están obligados a suplir la deficiencia de las partes en sus planteamientos de Derecho, manteniendo, sin embargo, la mayor equidad entre ellos, de modo que no se haga concesión a una sin que se haga lo mismo con la otra parte.
-
-En los mismos asuntos, con la salvedad de las prohibiciones legales relativas a alimentos, el Juez deberá exhortar a los interesados a lograr un avenimiento, resolviendo sus diferencias mediante convenios, con los que pueda evitarse la controversia o darse por terminado el procedimiento.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1139.- No se requieren formalidades especiales para acudir ante el Juez de lo familiar cuando se solicite la declaración, preservación o constitución de un derecho o se alegue la violación del mismo o el desconocimiento de una obligación, tratándose de alimentos, calificación de impedimentos o de matrimonio o de las diferencias que surjan entre marido o mujer sobre administración de bienes comunes, educación de hijos, oposición de maridos, padres y tutores y en general todas las cuestiones familiares semejantes que reclamen la intervención judicial.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1140.- Podrá acudirse al Juez de lo Familiar por escrito o por comparecencia personal en los casos urgentes a que se refiere el artículo anterior, exponiendo de manera breve y concisa los hechos de que se trate. Con las copias respectivas de esa comparecencia y de los documentos que en su caso le presenten se correrá traslado a la parte demandada, la que deberá comparecer, en la misma forma, dentro del término de nueve días, en tales comparecencias las partes deberán ofrecer las pruebas respectivas al ordenarse ese traslado, el Juez deberá señalar día y hora para la celebración de la audiencia respectiva. Tratándose de alimentos, ya sea provisionales o los que se deban por contrato, por testamento o por disposición de la Ley, el Juez fijará a petición del acreedor sin audiencia del deudor y mediante la información que estime necesaria, una pensión alimenticia provisional, meintras (sic) se resuelve el Juicio.
-
-Será optativo para las partes, acudir asesoradas y, en este supuesto, los asesores necesariamente deberán ser Licenciado en Derecho, con cédula profesional. En caso de que una de las partes se encuentre asesorada y la otra no, se solicitarán de inmediato los servicios de un defensor de oficio, el que deberá acudir desde luego a enterarse del asunto disfrutando de un término que no podrá exceder de tres días para hacerlo, por cuya razón, se diferirá la audiencia en un término igual.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1141.- En la audiencia las partes aportarán las pruebas que así procedan y que hayan ofrecido, sin más limitación que no sean contrarias a la moral o estén prohibidas por la Ley.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1142.- La audiencia se practicará con o sin asistencia de las partes. El Juez para resolver el problema que se le plantee, podrá cerciorarse personalmente o con auxilio de trabajadores sociales, de la veracidad de los hechos. Aquellos presentarán el informe correspondiente en la audiencia, y podrán ser interrogados por el Juez y por las partes. Su valoración será conforme a lo dispuesto por el Artículo 407 de este Código. En el fallo se expresarán, en todo caso, los medios de prueba en que se haya fundado el Juez para dictarlo.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1143.- El Juez y las partes podrán interrogar a los testigos con relación a los hechos controvertidos, pudiéndoles hacer todas las preguntas que juzguen procedentes, con la sola limitación a que se refiere el Artículo 1141.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1144.- La audiencia se llevará a cabo dentro de los 30 días contados a partir del auto que ordene el traslado, en la inteligencia de que, la demanda inicial, deberá ser proveída dentro del término de tres días.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1145.- Si por cualquier circunstancia la audiencia no puede celebrarse, ésta se verificará dentro de los ocho días siguientes. Las partes deberán presentar a sus testigos y peritos. De manifestar, bajo protesta de decir verdad, no estar en aptitud de hacerlo, se impondrán al actuario del Juzgado la obligación de citar a los primeros y de hacer saber su cargo a los segundos, citándolos así mismo, para la audiencia respectiva, en la que deberán rendir dictamen. Dicha citación, se hará con apercibimiento de arresto hasta por treinta y dos horas, de no comparecer el testigo o el perito sin causa justificada; y al promovente de la prueba, de imponerle una multa hasta por el equivalente de treinta días de salario mínimo vigente en la región, en caso de que el señalamiento de domicilio resulte inexacto, o de comprobarse que se solicitó la prueba con el propósito de retardar el procedimiento, sin perjuicio de que se denuncie la falsedad resultante. Las partes, en caso de que se ofrezca la prueba confesional, deberán ser citadas con apercibimiento de ser declaradas confesas de las posiciones que se les articulen y sean calificadas de legales, a menos que acrediten justa causa para no asistir.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1146.- La sentencia se pronunciará de manera breve y concisa en el mismo momento de la audiencia, de ser posible o dentro de los ocho días siguientes.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1147.- La apelación deberá intereponerse (sic) en la forma y términos previstos en el Artículo 940.
-
-Cuando la tramitación del Juicio de (sic) haya regido por las disposiciones, generales del Código, igualmente se regirá por estas disposiciones, por lo que toca a los recursos; pero en todo caso, si la parte recurrente careciera de abogado, la propia Sala solicitará la intervención de un defensor de oficio, quien gozará de un plazo de tres días más para enterarse del asunto y a efecto de que haga valer los agravios o cualquier derecho a nombre de la parte que asesore.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1148.- Salvo los casos previstos en el Artículo 948 Bis, en donde el recurso de apelación se admitirá en ambos efectos, en los demás casos, dicho recurso procederá en el efecto devolutivo.
-
-Las resoluciones sobre alimentos que fueren apeladas, se ejecutarán sin fianza.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1149.- Los autos que no fuesen apelables y los decretos, pueden ser revocados por el Juez que los dicta.
-
-Son procedentes en materia de recursos igualmente los demás previstos en este Código y su tramitación se sujetará a las disposiciones generales del mismo y además de los casos ya determinados expresamente en esta Ley, para lo no previsto al respecto, se sujetará a las disposiciones generales correspondientes.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1150.- La recusación no podrá impedir que el Juez adopte las medidas provisionales sobre el depósito de personas, alimentos y menores.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1151.- Ninguna excepción dilatoria podrá impedir que se adopten las referidas medidas. Tanto en este caso como en el del artículo anteror (sic), hasta después de tomadas dichas medidas, se dará el trámite correspondiente a la cuestión planteada.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1152.- Los incidentes se decidirán con un escrito de cada parte y sin suspensión del procedimiento. Si se promueve prueba, deberá ofrecerse en los escritos respectivos, fijando los puntos sobre que verse, y se citará dentro de ocho días, para audiencia indiferible en que se reciba, se oigan brevemente las alegaciones y se dicte la resolución dentro de los tres días siguientes.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1153.- En todo lo no previsto y en cuanto no se opongan a lo ordenado por el presente capítulo, se aplicarán las reglas generales de este Código.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 1990)</small>
-
-## TITULO DECIMO QUINTO. Del Procedimiento en los Negocios cuya cuantía sea hasta de quinientos pesos
 
 ### CAPITULO II. De la Audiencia de Pruebas y Alegatos
 
@@ -4459,6 +4407,92 @@ ART. 1170.- Si por causas graves hubiere necesidad de prolongar la audiencia dur
 
 Cuando haya necesidad de diferirla se continuará en las primeras horas hábiles siguientes.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 1990)</small>
+
+## TITULO DECIMO QUINTO. Del Procedimiento en los Negocios cuya cuantía sea hasta de cinco días de salario mínimo vigente en la región
+
+### CAPITULO I. De las controversias del Orden Familiar
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1137.- Todos los problemas inherentes a la familia se consideran de orden público por constituir aquélla, la base de la integración de la sociedad.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1138.- El Juez de lo Familiar estará facultado para intervenir en los asuntos que afectan a la familia, tratándose de menores y de alimentos, decretando las medidas que tiendan a preservarla y a proteger a sus miembros.
+
+En todos los asuntos del orden familiar los Jueces y Tribunales están obligados a suplir la deficiencia de las partes en sus planteamientos de Derecho, manteniendo, sin embargo, la mayor equidad entre ellos, de modo que no se haga concesión a una sin que se haga lo mismo con la otra parte.
+
+En los mismos asuntos, con la salvedad de las prohibiciones legales relativas a alimentos, el Juez deberá exhortar a los interesados a lograr un avenimiento, resolviendo sus diferencias mediante convenios, con los que pueda evitarse la controversia o darse por terminado el procedimiento.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1139.- No se requieren formalidades especiales para acudir ante el Juez de lo familiar cuando se solicite la declaración, preservación o constitución de un derecho o se alegue la violación del mismo o el desconocimiento de una obligación, tratándose de alimentos, calificación de impedimentos o de matrimonio o de las diferencias que surjan entre marido o mujer sobre administración de bienes comunes, educación de hijos, oposición de maridos, padres y tutores y en general todas las cuestiones familiares semejantes que reclamen la intervención judicial.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1140.- Podrá acudirse al Juez de lo Familiar por escrito o por comparecencia personal en los casos urgentes a que se refiere el artículo anterior, exponiendo de manera breve y concisa los hechos de que se trate. Con las copias respectivas de esa comparecencia y de los documentos que en su caso le presenten se correrá traslado a la parte demandada, la que deberá comparecer, en la misma forma, dentro del término de nueve días, en tales comparecencias las partes deberán ofrecer las pruebas respectivas al ordenarse ese traslado, el Juez deberá señalar día y hora para la celebración de la audiencia respectiva. Tratándose de alimentos, ya sea provisionales o los que se deban por contrato, por testamento o por disposición de la Ley, el Juez fijará a petición del acreedor sin audiencia del deudor y mediante la información que estime necesaria, una pensión alimenticia provisional, meintras (sic) se resuelve el Juicio.
+
+Será optativo para las partes, acudir asesoradas y, en este supuesto, los asesores necesariamente deberán ser Licenciado en Derecho, con cédula profesional. En caso de que una de las partes se encuentre asesorada y la otra no, se solicitarán de inmediato los servicios de un defensor de oficio, el que deberá acudir desde luego a enterarse del asunto disfrutando de un término que no podrá exceder de tres días para hacerlo, por cuya razón, se diferirá la audiencia en un término igual.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1141.- En la audiencia las partes aportarán las pruebas que así procedan y que hayan ofrecido, sin más limitación que no sean contrarias a la moral o estén prohibidas por la Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1142.- La audiencia se practicará con o sin asistencia de las partes. El Juez para resolver el problema que se le plantee, podrá cerciorarse personalmente o con auxilio de trabajadores sociales, de la veracidad de los hechos. Aquellos presentarán el informe correspondiente en la audiencia, y podrán ser interrogados por el Juez y por las partes. Su valoración será conforme a lo dispuesto por el Artículo 407 de este Código. En el fallo se expresarán, en todo caso, los medios de prueba en que se haya fundado el Juez para dictarlo.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1143.- El Juez y las partes podrán interrogar a los testigos con relación a los hechos controvertidos, pudiéndoles hacer todas las preguntas que juzguen procedentes, con la sola limitación a que se refiere el Artículo 1141.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1144.- La audiencia se llevará a cabo dentro de los 30 días contados a partir del auto que ordene el traslado, en la inteligencia de que, la demanda inicial, deberá ser proveída dentro del término de tres días.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1145.- Si por cualquier circunstancia la audiencia no puede celebrarse, ésta se verificará dentro de los ocho días siguientes. Las partes deberán presentar a sus testigos y peritos. De manifestar, bajo protesta de decir verdad, no estar en aptitud de hacerlo, se impondrán al actuario del Juzgado la obligación de citar a los primeros y de hacer saber su cargo a los segundos, citándolos así mismo, para la audiencia respectiva, en la que deberán rendir dictamen. Dicha citación, se hará con apercibimiento de arresto hasta por treinta y dos horas, de no comparecer el testigo o el perito sin causa justificada; y al promovente de la prueba, de imponerle una multa hasta por el equivalente de treinta días de salario mínimo vigente en la región, en caso de que el señalamiento de domicilio resulte inexacto, o de comprobarse que se solicitó la prueba con el propósito de retardar el procedimiento, sin perjuicio de que se denuncie la falsedad resultante. Las partes, en caso de que se ofrezca la prueba confesional, deberán ser citadas con apercibimiento de ser declaradas confesas de las posiciones que se les articulen y sean calificadas de legales, a menos que acrediten justa causa para no asistir.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1146.- La sentencia se pronunciará de manera breve y concisa en el mismo momento de la audiencia, de ser posible o dentro de los ocho días siguientes.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1147.- La apelación deberá intereponerse (sic) en la forma y términos previstos en el Artículo 940.
+
+Cuando la tramitación del Juicio de (sic) haya regido por las disposiciones, generales del Código, igualmente se regirá por estas disposiciones, por lo que toca a los recursos; pero en todo caso, si la parte recurrente careciera de abogado, la propia Sala solicitará la intervención de un defensor de oficio, quien gozará de un plazo de tres días más para enterarse del asunto y a efecto de que haga valer los agravios o cualquier derecho a nombre de la parte que asesore.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1148.- Salvo los casos previstos en el Artículo 948 Bis, en donde el recurso de apelación se admitirá en ambos efectos, en los demás casos, dicho recurso procederá en el efecto devolutivo.
+
+Las resoluciones sobre alimentos que fueren apeladas, se ejecutarán sin fianza.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1149.- Los autos que no fuesen apelables y los decretos, pueden ser revocados por el Juez que los dicta.
+
+Son procedentes en materia de recursos igualmente los demás previstos en este Código y su tramitación se sujetará a las disposiciones generales del mismo y además de los casos ya determinados expresamente en esta Ley, para lo no previsto al respecto, se sujetará a las disposiciones generales correspondientes.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1150.- La recusación no podrá impedir que el Juez adopte las medidas provisionales sobre el depósito de personas, alimentos y menores.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1151.- Ninguna excepción dilatoria podrá impedir que se adopten las referidas medidas. Tanto en este caso como en el del artículo anteror (sic), hasta después de tomadas dichas medidas, se dará el trámite correspondiente a la cuestión planteada.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1152.- Los incidentes se decidirán con un escrito de cada parte y sin suspensión del procedimiento. Si se promueve prueba, deberá ofrecerse en los escritos respectivos, fijando los puntos sobre que verse, y se citará dentro de ocho días, para audiencia indiferible en que se reciba, se oigan brevemente las alegaciones y se dicte la resolución dentro de los tres días siguientes.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1153.- En todo lo no previsto y en cuanto no se opongan a lo ordenado por el presente capítulo, se aplicarán las reglas generales de este Código.
+
 ## TITULO DECIMO SEXTO
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 1990)</small>
@@ -4528,3 +4562,7 @@ Los Jueces Civiles seguirán conociendo de las controversias del orden familiar 
 ###### ARTICULO CUARTO.
 
 Los recursos de apelación pendientes de tramitar al entrar en vigor el presente Decreto se regirán por las disposiciones generales del Código de Procedimientos Civiles, pero la Sala dispondrá el nombramiento de un defensor, para la parte recurrente que carezca abogado, como lo dispone el Artículo 1147 del Capítulo Primero, de las Controversias del Orden Familiar.
+
+P.O. 10 DE JULIO DE 1990.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
