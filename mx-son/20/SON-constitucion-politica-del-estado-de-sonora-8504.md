@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1984-04-09"
+last_updated: "1984-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 9 DE ABRIL DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE JUNIO DE 1984.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -1025,9 +1025,9 @@ XXII. Hacer observaciones por una sola vez en el improrrogable término de diez 
 
 XXIII. Cuidar de que los fondos públicos, en todo caso, estén bien asegurados y de que su recaudación y distribución se hagan con arreglo a la Ley.
 
-> <small>(REFORMADA, B.O. 22 DE ENERO DE 1977)</small>
+> <small>(REFORMADA, B.O. 11 DE JUNIO DE 1984)</small>
 
-XXIV. Nombrar y remover libremente al Secretario y Subsecretario de Gobierno, Procurador General de Justicia y Tesorero General del Estado, y hacer la designación de los Magistrados del Supremo Tribunal de Justicia y el Tribunal de lo Contencioso Administrativo, sometiéndola a la aprobación del Congreso.
+XXIV. Nombrar y remover libremente al Secretario y a los Subsecretarios de Gobierno, Secretarios de Depacho (sic), Procurador General de Justicia, Tesorero General del Estado, Oficial Mayor y Contralor General del Estado, y hacer la designación de los Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo, sometiéndola a la aprobación del Congreso.
 
 XXV. Nombrar a los oficiales del Registro Civil y fijar la demarcación en que deban ejercer sus funciones.
 
@@ -1071,7 +1071,7 @@ XL. Las demás que le asignen las leyes, ya sean federales o del Estado.
 
 Le está prohibido al Gobernador:
 
-I. Mandar inmediata y personalmente en campaña la Guardia Nacional y demás fuerzas del Estado, sin haber obtenido para ello permiso del Congreso, o en su receso, de la Diputación Permanente.
+I. Mandar inmediata y personalmente en campaña la Guardia Nacional y demás fuerzas del Estado, sin haber obtenido para ello permiso de Congreso, o en su receso, de la Diputación Permanente.
 
 > <small>(REFORMADA, B.O. 22 DE ENERO DE 1977)</small>
 
@@ -1107,7 +1107,9 @@ Para el despacho de los asuntos de orden administrativo del Poder Ejecutivo, la 
 
 Habrá un Secretario de Gobierno, quien tendrá las facultades y obligaciones que le confiere esta Constitución y demás leyes. Además, habrá los Secretarios de Despacho, Tesorero General del Estado, Oficial Mayor y demás órganos y unidades que la administración requiera, quienes tendrán las atribuciones que le señalen la Ley Orgánica.
 
-El Subsecretario de Gobierno auxiliará en sus funciones y suplirá en sus ausencias temporales al Secretario de Gobierno y tendrá las facultades y obligaciones que le señale la Ley Orgánica del Poder Ejecutivo.
+> <small>(REFORMADO, B.O. 11 DE JUNIO DE 1984)</small>
+
+Los Subsecretarios de Gobierno auxiliarán en sus funciones y suplirán en sus ausencias temporales al Secretario de Gobierno y tendrán las facultades y obligaciones que les señale la Ley Orgánica del Poder Ejecutivo.
 
 > <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
@@ -1747,11 +1749,13 @@ El Congreso expedirá la Ley de Responsabilidades de los servidores públicos me
 
 I. Responsabilidad política, determinada mediante juicio político, cuando el servidor público, en el ejercicio de sus funciones, incurra en actos u omisiones graves que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. No procede el juicio político por la mera expresión de ideas.
 
-Sólo podrán ser sujetos a juicio político, los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia y los Subprocuradores, el Secretario y Subsecretario de Gobierno, los Secretarios y Subsecretarios de Despacho, el Oficial Mayor, el Tesorero y Subtesorero General del Estado, los Jueces de Primera Instancia, los Agentes del Ministerio Público, los Presidentes Municipales, Regidores, Síndicos, Secretarios y Tesoreros de los Ayuntamientos, así como los Directores Generales o sus equivalentes de las empresas de participación estatal o municipal mayoritarias, sociedades y asociaciones asimiladas a éstas, Fideicomisos Públicos y Organismos Descentralizados del Estado y de los Municipios.
+> <small>(REFORMADO, B.O. 11 DE JUNIO DE 1984)</small>
+
+Sólo podrán ser sujetos a juicio político, los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia y los Subprocuradores, el Secretario y los Subsecretarios de Gobierno, los Secretarios y Subsecretarios de Despacho, el Oficial Mayor, el Contralor General del Estado, el Tesorero General del Estado y los Subtesoreros, los Jueces de Primera Instancia, los Agentes del Ministerio Público, los Presidentes Municipales, Regidores, Síndicos, Secretarios y Tesoreros de los Ayuntamientos, así como los Directores Generales y sus equivalentes de las empresas de participación estatal o municipal mayoritarias, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los Municipios.
 
 Las sanciones consistirán en la destitución del servidor público y, en su caso, la inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
-II. Responsabilidad Penal, cuando los servidores públicos cometan delitos de cualquier naturaleza, que serán perseguidos y sancionados en los términos de la Legislación Penal. Tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, las sanciones deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por esta conducta ilícita. Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+II. Responsabilidad Penal, cuando los servidores públicos cometan delitos de cualquier naturaleza, que serán perseguidos y sancionados en los términos de la Legislación Penal. Tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o causen daños o perjuicios patrimoniales, las sanciones deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por esta conducta ilícita. Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
 Las leyes penales determinarán los casos y circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo o por motivos del mismo, por sí o por interpósita persona, aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. Las leyes sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
 
@@ -1771,19 +1775,29 @@ En el caso de que el Gobernador del Estado, Diputados Locales y Magistrados del 
 
 El procedimiento de juicio político, deberá iniciarse durante el tiempo en que el servidor público desempeñe un empleo, cargo o comisión, o dentro del año siguiente al de la conclusión de sus funciones. La (sic) sanciones correspondientes se aplicarán en un período no mayor de un año, a partir de iniciado el procedimiento.
 
-> <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 11 DE JUNIO DE 1984)</small>
 
 ###### Artículo 146.
 
-Para proceder penalmente contra el Gobernador, Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia, Secretario y Subsecretario de Gobierno, Secretarios de Despacho, Oficial Mayor, Tesorero General del Estado, Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, Jueces de Primera Instancia y Agentes del Ministerio Público, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría absoluta de sus miembros presentes en sesión y por dos terceras partes si se trata del Gobernador, si ha lugar o no proceder contra el inculpado.
+Para proceder penalmente contra el Gobernador, Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia, Secretarios y Subsecretarios de Gobierno, Secretarios de Despacho, Oficial Mayor, Contralor General del Estado, Tesorero General del Estado, Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, Jueces de Primera Instancia y Agentes del Ministerio Público, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría absoluta de sus miembros presentes en sesión y por dos terceras partes si se trata del Gobernador, si ha lugar o no a proceder contra el inculpado.
+
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
 Si la resolución del Congreso fuese negativa, no habrá lugar a procedimiento ulterior; pero podrá formularse acusación ante los Tribunales, cuando el servidor público haya concluído el ejercicio de su encargo, pues la misma no prejuzga sobre los fundamentos de la imputación.
 
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
+
 La declaración del Congreso de que ha lugar a proceder contra el inculpado, hará que éste quede separado de su encargo y sujeto a la jurisdicción de las autoridades competentes. Tratándose de los delitos comprendidos en los Títulos Séptimo y Octavo del Libro Segundo del Código Penal, conocerá en única instancia el Supremo Tribunal de Justicia. En los demás delitos, conocerán de los procesos correspondientes los Juzgados de Primera Instancia.
+
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
 Si el proceso penal culmina con sentencia absolutoria el procesado podrá reasumir su función. Si la sentencia fuere condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
 
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
+
 Para proceder penalmente contra el Gobernador del Estado, Diputados Locales o Magistrados del Supremo Tribunal de Justicia, en los términos del Artículo 111 de la Constitución General de la República, el Congreso del Estado, al recibir de la Cámara de Diputados del Congreso de la Unión la declaración correspondiente, procedrá (sic) conforme a sus atribuciones.
+
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
 La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la Legislación Penal.
 
@@ -1847,7 +1861,7 @@ Ningún individuo debe desempeñar dos cargos de elección popular; pero el elec
 
 ###### Artículo 152.
 
-Jamás podrán reunirse en una persona dos encargos por los que se disfrute sueldo o remuneración; excepto en los ramos de Instrucción y Beneficencia Públicas, ya se considere sólos o unidos a otro ramo.
+Jamás podrán reunirse en una persona dos encargos por los que se disfrute sueldo o remuneración; excepto en los ramos de Instrucción y Beneficencia Públicas, ya se consideren sólos o unidos a otro ramo.
 
 ###### Artículo 153.
 
@@ -2290,6 +2304,12 @@ B.O. 30 DE ENERO DE 1984.
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 B.O. 9 DE ABRIL DE 1984.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 11 DE JUNIO DE 1984.
 
 ###### ARTICULO UNICO.
 
