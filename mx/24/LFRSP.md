@@ -4,7 +4,7 @@ identifier: "LFRSP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1982-12-31"
-last_updated: "1991-01-11"
+last_updated: "1992-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFRSP"
 
 LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE ENERO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE JULIO DE 1992.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 31 de diciembre de 1982.
 
@@ -68,6 +68,10 @@ Las autoridades competentes para aplicar la presente Ley serán:
 
 I.- Las Cámaras de Senadores y Diputados al Congreso de la Unión;
 
+> <small>(ADICIONADA, D.O.F. 21 DE JULIO DE 1992)</small>
+
+I Bis.- La Asamblea de Representantes del Distrito Federal;
+
 > <small>(F. DE E., D.O.F. 10 DE MARZO DE 1983)</small>
 
 II.- La Secretaría de la Contraloría General de la Federación;
@@ -86,9 +90,11 @@ VIII.- Los Tribunales de Trabajo, en los términos de la legislación respectiva
 
 IX.- Los demás órganos jurisdiccionales que determinen las leyes.
 
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 4o.
 
-Los procedimientos para la aplicación de las sanciones a que se refiere el artículo 109 Constitucional se desarrollarán autónomamente, según su naturaleza y por la vía procesal que corresponda, debiendo las autoridades a que alude el artículo anterior turnar las denuncias a quien deba conocer de ellas. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+Cuando los actos u omisiones materia de las acusaciones queden comprendidos en más de uno de los casos sujetos a sanción y previstos en el artículo 109 Constitucional, los procedimientos respectivos se desarrollarán en forma autónoma e independiente según su naturaleza y por la vía procesal que corresponda, debiendo las autoridades a que alude el artículo anterior turnar las denuncias a quien deba conocer de ellas. No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
 
 ## TITULO SEGUNDO. Procedimientos ante el Congreso de la Unión en materia de juicio político y declaración de procedencia
 
@@ -136,15 +142,27 @@ Si la resolución que se dicte en el juicio político es condenatoria, se sancio
 
 ### CAPITULO II. Procedimiento en el Juicio Político
 
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 9o.
 
-El juicio político sólo podrá iniciarse durante el tiempo en que el servidor público desempeñe su empleo, cargo o comisión y dentro de un año después de la conclusión de sus funciones.
+Cualquier ciudadano, bajo su más estricta responsabilidad podrá formular por escrito, denuncia contra un servidor público ante la Cámara de Diputados por las conductas a las que se refiere el artículo 7o., de esta propia Ley y por las conductas que determina el párrafo segundo del artículo 5o. de esta misma Ley, por lo que toca a los Gobernadores de los Estados, Diputados a las Legislaturas Locales y Magistrados de los Tribunales de Justicia Locales.
 
-Las sanciones respectivas se aplicarán en un plazo no mayor de un año a partir de iniciado el procedimiento.
+La denuncia deberá estar apoyada en pruebas documentales o elementos probatorios suficientes para establecer la existencia de la infracción y estar en condiciones de presumir la responsabilidad del denunciado. En caso de que el denunciante no pudiera aportar dichas pruebas por encontrarse éstas en posesión de una autoridad, la Subcomisión de Examen Previo, ante el señalamiento del denunciante, podrá solicitarlas para los efectos conducentes.
+
+Las denuncias anónimas no producirán ningún efecto.
+
+El juicio político sólo podrá iniciarse durante el tiempo en que el servidor público desempeñe su empleo, cargo o comisión, y dentro de un año después de la conclusión de sus funciones.
+
+Las sanciones respectivas se aplicarán en un plazo no mayor de un año, a partir de iniciado el procedimiento.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 10.
 
-Corresponde a la Cámara de Diputados instruir el procedimiento relativo al juicio político, actuando como órgano de acusación, y a la Cámara de Senadores fungir como Jurado de Sentencia.
+Corresponde a la Cámara de Diputados sustanciar el procedimiento relativo al juicio político, actuando como órgano instructor y de acusación, y a la Cámara de Senadores fungir como Jurado de Sentencia.
+
+La Cámara de Diputados sustanciará el procedimiento de juicio político por conducto de las Comisiones Unidas de Gobernación y Puntos Constitucionales y de Justicia, quienes al momento de su instalación designarán a cinco miembros de cada una de ellas para que en unión de sus Presidentes y un Secretario por cada Comisión, integren la Subcomisión de Examen Previo de denuncias de juicios políticos que tendrá competencia exclusiva para los propósitos contenidos en el Capítulo II de esta Ley.
 
 ###### ARTICULO 11.
 
@@ -154,13 +172,25 @@ Aprobada la propuesta a que hace referencia el párrafo anterior, por cada Cáma
 
 Las vacantes que ocurran en la Sección correspondiente de cada Cámara, serán cubiertas por designación que haga la Gran Comisión, de entre los miembros de las Comisiones respectivas.
 
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 12.
 
-Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular por escrito denuncia ante la Cámara de Diputados por las conductas a que se refiere el artículo 7o.; y por lo que toca a los Gobernadores de los Estados, Diputados a las Legislaturas Locales y Magistrados de los Tribunales de Justicia Locales por las que determina el párrafo segundo del artículo 5o. Presentada la denuncia y ratificada dentro de tres días naturales, se turnará de inmediato con la documentación que la acompañe a las Comisiones de Gobernación, Puntos Constitucionales y de Justicia, para que dictaminen si la conducta atribuida corresponde a las enumeradas por aquellos preceptos y si el inculpado está comprendido entre los servidores públicos a que se refiere el artículo 2o., así como si la denuncia es procedente y por lo tanto amerita la incoación del procedimiento.
+La determinación del juicio político se sujetará al siguiente procedimiento:
 
-Una vez acreditados estos elementos, la denuncia se turnará a la Sección Instructora de la Cámara.
+a) El escrito de denuncia se deberá presentar ante la Oficialía Mayor de la Cámara de Diputados y ratificarse ante ella dentro de los tres días naturales siguientes a su presentación;
 
-Las denuncias anónimas no producirán ningún efecto.
+b) Una vez ratificado el escrito, la Oficialía Mayor de la Cámara de Diputados lo turnará a la Subcomisión de Examen Previo de las Comisiones Unidas de Gobernación y Puntos Constitucionales y de Justicia, para la tramitación correspondiente. La Oficialía Mayor deberá dar cuenta de dicho turno a cada una de las coordinaciones de los grupos partidistas representados en la Cámara de Diputados.
+
+c) La Subcomisión de Examen Previo procederá, en un plazo no mayor a treinta días hábiles, a determinar si el denunciado se encuentra entre los servidores públicos a que se refiere el artículo 2o., de esta Ley, así como si la denuncia contiene elementos de prueba que justifiquen que la conducta atribuida corresponde a las enumeradas en el artículo 7o. de la propia Ley, y si los propios elementos de prueba permiten presumir la existencia de la infracción y la probable responsabilidad del denunciado y por tanto, amerita la incoación del procedimiento. En caso contrario la Subcomisión desechará de plano la denuncia presentada.
+
+En caso de la presentación de pruebas supervinientes (sic), la Subcomisión de Examen Previo podrá volver a analizar la denuncia que ya hubiese desechado por insuficiencia de pruebas;
+
+> <small>(F. DE E., D.O.F. 22 DE JULIO DE 1992)</small>
+
+d) La resolución que dicte la Subcomisión de Examen Previo, desechando una denuncia, podrá revisarse por el pleno de las Comisiones Unidas a petición de cualquiera de los Presidentes de las Comisiones o a solicitud, de cuando menos, el diez por ciento de los diputados integrantes de ambas Comisiones, y
+
+e) La resolución que dicte la Subcomisión de Examen Previo declarando procedente la denuncia, será remitida al pleno de las Comisiones Unidas de Gobernación y Puntos Constitucionales y de Justicia para efecto de formular la resolución correspondiente y ordenar se turne a la Sección Instructora de la Cámara.
 
 ###### ARTICULO 13.
 
@@ -190,15 +220,21 @@ Transcurrido el plazo para la presentación de alegatos, se hayan o no entregado
 
 Si de las constancias del procedimiento se desprende la inocencia del encausado, las conclusiones de la Sección Instructora terminarán proponiendo que se declare que no ha lugar a proceder en su contra por la conducta o el hecho materia de la denuncia, que dio origen al procedimiento.
 
-Si de las constancias aparece la probable responsabilidad del servidor público, las conclusiones terminarán proponiendo la aprobación de lo siguiente:
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1992)</small>
+
+Si de las constancias se desprende la responsabilidad del servidor público, las conclusiones terminarán proponiendo la aprobación de lo siguiente:
 
 I.- Que está legalmente comprobada la conducta o el hecho materia de la denuncia;
 
-II.- Que existe probable responsabilidad del encausado;
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1992)</small>
+
+II.- Que se encuentra acreditada la responsabilidad del encausado;
 
 III.- La sanción que deba imponerse de acuerdo con el artículo 8o. de esta Ley, y
 
 IV.- Que en caso de ser aprobadas la (sic) conclusiones, se envíe la declaración correspondiente a la Cámara de Senadores, en concepto de acusación, para los efectos legales respectivos.
+
+> <small>(F. DE E., D.O.F. 22 DE JULIO DE 1992)</small>
 
 De igual manera deberán asentarse en las conclusiones las circunstancias que hubieren concurrido en los hechos.
 
@@ -380,9 +416,11 @@ En todas las cuestiones relativas al procedimiento no previstas en esta Ley, as�
 
 Incurren en responsabilidad administrativa los servidores públicos a que se refiere el artículo 2o. de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 47.
 
-Todo servidor público tendrá las siguientes obligaciones para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben ser observadas en el desempeño de su empleo, cargo o comisión, y cuyo incumplimiento dará lugar al procedimiento y a las sanciones que correspondan, según la naturaleza de la infracción en que se incurra, y sin perjuicio de sus derechos laborales, previstos en las normas específicas que al respecto rijan en el servicio de las Fuerzas Armadas:
+Todo servidor público tendrá las siguientes obligaciones, para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben ser observadas en el desempeño de su empleo, cargo o comisión, y cuyo incumplimiento dará lugar al procedimiento y a las sanciones que correspondan, sin perjuicio de sus derechos laborales, así como de las normas específicas que al respecto rijan en el servicio de las fuerzas armadas:
 
 I.- Cumplir con la máxima diligencia el servicio que le sea encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio o implique abuso o ejercicio indebido de un empleo, cargo o comisión;
 
@@ -398,7 +436,9 @@ VI.- Observar en la dirección de sus inferiores jerárquicos las debidas reglas
 
 VII.- Observar respeto y subordinación legítimas con respecto a sus superiores jerárquicos inmediatos o mediatos, cumpliendo las disposiciones que éstos dicten en el ejercicio de sus atribuciones;
 
-VIII.- Comunicar por escrito al titular de la dependencia o entidad en la que presten sus servicios el incumplimiento de las obligaciones establecidas en este artículo o las dudas fundadas que le suscite la procedencia de las órdenes que reciba;
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1992)</small>
+
+VIII.- Comunicar por escrito al titular de la dependencia o entidad en la que presten sus servicios, las dudas fundadas que le suscite la procedencia de las órdenes que reciba;
 
 IX.- Abstenerse de ejercer las funciones de un empleo, cargo o comisión después de concluido el período para el cual se le designó o de haber cesado, por cualquier otra causa, en el ejercicio de sus funciones;
 
@@ -418,11 +458,15 @@ XVI.- Desempeñar su empleo, cargo o comisión sin obtener o pretender obtener b
 
 XVII.- Abstenerse de intervenir o participar indebidamente en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción de cualquier servidor público, cuando tenga interés personal, familiar o de negocios en el caso, o pueda derivar alguna ventaja o beneficio para él o para las personas a las que se refiere la fracción XIII;
 
-XVIII.- Presentar con oportunidad y veracidad la declaración de situación patrimonial ante la Secretaría de la Contraloría General de la Federación, en los términos que señala la Ley;
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1992)</small>
+
+XVIII.- Presentar con oportunidad y veracidad, las declaraciones de situación patrimonial, en los términos establecidos por esta ley;
 
 XIX.- Atender con diligencia las instrucciones, requerimientos y resoluciones que reciba de la Secretaría de la Contraloría, conforme a la competencia de ésta;
 
-XX.- Informar al superior jerárquico de todo acto, u omisión de los servidores públicos sujetos a su dirección, que pueda implicar inobservancia de las obligaciones a que se refieren las fracciones de este artículo, y en los términos de las normas que al efecto se expidan;
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1992)</small>
+
+XX.- Supervisar que los servidores públicos sujetos a su dirección, cumplan con las disposiciones de este artículo; y denunciar por escrito, ante el superior jerárquico o la contraloría interna, los actos u omisiones que en ejercicio de sus funciones llegare a advertir respecto de cualquier servidor público que pueda ser causa de responsabilidad administrativa en los términos de esta ley, y de las normas que al efecto se expidan;
 
 > <small>(ADICIONADA, D.O.F. 11 DE ENERO DE 1991)</small>
 
@@ -430,7 +474,11 @@ XXI.- Proporcionar en forma oportuna y veraz, toda la información y datos solic
 
 XXII.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público; y
 
-XXIII.- La (sic) demás que le impongan las leyes y reglamentos.
+> <small>(ADICIONADA, D.O.F. 21 DE JULIO DE 1992)</small>
+
+XXIII.- Abstenerse, en ejercicio de sus funciones o con motivo de ellas, de celebrar o autorizar la celebración de pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra pública, con quien desempeñe un empleo, cargo o comisión en el servicio público, o bien con las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Secretaría a propuesta razonada, conforme a las disposiciones legales aplicables, del titular de la dependencia o entidad de que se trate. Por ningún motivo podrá celebrarse pedido o contrato alguno con quien se encuentre inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
+
+XXIV.- La (sic) demás que le impongan las leyes y reglamentos.
 
 Cuando el planteamiento que formule el servidor público a su superior jerárquico deba ser comunicado a la Secretaría de la Contraloría General, el superior procederá a hacerlo sin demora, bajo su estricta responsabilidad, poniendo el trámite en conocimiento del subalterno interesado. Si el superior jerárquico omite la comunicación a la Secretaría de la Contraloría General, el subalterno podrá practicarla directamente informando a su superior acerca de este acto.
 
@@ -458,7 +506,13 @@ Incurre en responsabilidad el servidor público que por sí o por interpósita p
 
 La Suprema Corte de Justicia de la Nación y el Tribunal Superior de Justicia del Distrito Federal establecerán los órganos y sistemas para identificar, investigar y determinar las responsabilidades derivadas del incumplimiento de las obligaciones establecidas en el Artículo 47, así como para aplicar las sanciones establecidas en el presente Capítulo, en los términos de las correspondientes leyes orgánicas del Poder Judicial.
 
-Lo propio harán, conforme a la legislación respectiva y por lo que hace a su competencia, Las (sic) Cámaras de Senadores y Diputados del Congreso de la Unión.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1992)</small>
+
+Lo propio harán, conforme a la legislación respectiva y por lo que hace a su competencia, las Cámaras de Senadores y Diputados del Congreso de la Unión, así como la Asamblea de Representantes del Distrito Federal.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 1992)</small>
+
+Asimismo, y por lo que hace a su competencia, las autoridades jurisdiccionales a que se refieren las fracciones VII a IX del artículo 3o., determinarán los órganos y sistemas para los efectos a que se refiere el párrafo primero, en los términos de su legislación respectiva.
 
 ###### ARTICULO 52.
 
@@ -482,7 +536,17 @@ V.- Sanción económica; e
 
 VI.- Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
 
-Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro o cause daños y perjuicios, será de seis meses a tres años si el monto de aquéllos no excede de cien veces el salario mínimo mensual vigente en el Distrito Federal y de tres años a diez años si excede de dicho límite.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1992)</small>
+
+Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro o cause daños y perjuicios, será de un año hasta diez años si el monto de aquéllos no excede de doscientas veces el salario mínimo mensual vigente en el Distrito Federal, y de diez a veinte años si excede de dicho límite. Este último plazo de inhabilitación también será aplicable por conductas graves de los servidores públicos.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 1992)</small>
+
+Para que una persona que hubiere sido inhabilitada en los términos de ley por un plazo mayor de diez años, pueda volver a desempeñar un empleo, cargo o comisión en el servicio público una vez transcurrido el plazo de la inhabilitación impuesta, se requerirá que el titular de la dependencia o entidad a la que pretenda ingresar, dé aviso a la Secretaría, en forma razonada y justificada, de tal circunstancia.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 1992)</small>
+
+La contravención a lo dispuesto por el párrafo que antecede será causa de responsabilidad administrativa en los términos de esta ley, quedando sin efectos el nombramiento o contrato que en su caso se haya realizado.
 
 ###### ARTICULO 54.
 
@@ -526,9 +590,13 @@ III.- La suspensión del empleo, cargo o comisión durante el período al que se
 
 IV.- La Secretaría promoverá los procedimientos a que hacen referencia las fracciones II y III, demandando la destitución del servidor público responsable o procediendo a la suspensión de éste cuando el superior jerárquico no lo haga. En este caso, la Secretaría desahogará el procedimiento y exhibirá las constancias respectivas al superior jerárquico;
 
-V.- La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público será aplicable por resolución jurisdiccional, que dictará el órgano que corresponda según las leyes aplicables; y
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1992)</small>
 
-VI.- Las sanciones económicas serán aplicadas por el superior jerárquico cuando no excedan de un monto equivalente a cien veces el salario mínimo diario vigente en el Distrito Federal, y por la Secretaría cuando sean superiores a esta cantidad.
+V.- La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público, será aplicable por resolución que dicte la autoridad competente, y
+
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1992)</small>
+
+VI.- Las sanciones económicas serán aplicadas por el superior jerárquico cuando el monto del lucro obtenido o del daño o perjuicio causado, no exceda de cien veces el salario mínimo mensual vigente en el Distrito Federal, y por la Secretaría cuando sean superiores a dicho monto.
 
 ###### ARTICULO 57.
 
@@ -548,9 +616,11 @@ La Secretaría aplicará las sanciones correspondientes a los contralores intern
 
 Incurrirán en responsabilidad administrativa los servidores públicos de las contralorías internas que se abstengan injustificadamente de sancionar a los infractores o que, al hacerlo, no se ajusten a lo previsto por esta Ley. La Secretaría informará de ello al Titular de la dependencia y aplicará las sanciones correspondientes.
 
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 60.
 
-La contraloría interna de cada dependencia será competente para imponer sanciones disciplinarias, excepto las económicas cuyo monto sea superior a cien veces el salario mínimo diario del Distrito Federal, las que están reservadas exclusivamente a la Secretaría, que comunicará los resultados del procedimiento al Titular de la dependencia o entidad. En este último caso, la contraloría interna, previo informe al superior jerárquico, turnará el asunto a la Secretaría.
+La contraloría interna de cada dependencia será competente para imponer, por acuerdo del superior jerárquico, sanciones disciplinarias, excepto las económicas cuyo monto sea superior a doscientas veces el salario mínimo mensual vigente en el Distrito Federal, las que están reservadas exclusivamente a la Secretaría, que comunicará los resultados del procedimiento al titular de la dependencia o entidad. En estos casos, la contraloría interna, previo informe al superior jerárquico, turnará el asunto a la Secretaría.
 
 ###### ARTICULO 61.
 
@@ -574,7 +644,9 @@ También asistirá a la audiencia el representante de la dependencia que para ta
 
 Entre la fecha de la citación y la de la audiencia deberá mediar un plazo no menor de cinco ni mayor de quince días hábiles;
 
-II.- Al concluir la audiencia o dentro de los tres días hábiles siguientes, la Secretaría resolverá sobre la inexistencia de responsabilidad o imponiendo al infractor las sanciones administrativas correspondientes y notificará la resolución dentro de las veinticuatro horas siguientes al interesado, a su jefe inmediato, al representante designado por la dependencia y al superior jerárquico;
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1992)</small>
+
+II.- Desahogadas las pruebas, si las hubiere, la Secretaría resolverá dentro de los treinta días hábiles siguientes, sobre la inexistencia de responsabilidad o imponiendo al infractor las sanciones administrativas correspondientes y notificará la resolución al interesado dentro de las setenta y dos horas, a su jefe inmediato, al representante designado por la dependencia y al superior jerárquico;
 
 III.- Si en la audiencia la Secretaría encontrara que no cuenta con elementos suficientes para resolver o advierta elementos que impliquen nueva responsabilidad administrativa a cargo del presunto responsable o de otras personas, podrá disponer la práctica de investigaciones y citar para otra u otras audiencias; y
 
@@ -606,13 +678,17 @@ Las resoluciones y acuerdos de la Secretaría y de las dependencias durante el p
 
 La Secretaría expedirá constancias que acrediten la no existencia de registro de inhabilitación, que serán exhibidas, para los efectos pertinentes, por las personas que sean requeridas para desempeñar un empleo, cargo o comisión en el servicio público.
 
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 70.
 
-Los sujetos sancionados podrán impugnar ante el Tribunal Fiscal de la Federación las resoluciones administrativas por las que se les impongan las sanciones a que se refiere este Capítulo. Las resoluciones anulatorias dictadas por ese tribunal, que causen ejecutoria, tendrán el efecto de restituir al servidor público en el goce de los derechos de que hubiese sido privado por la ejecución de las sanciones anuladas, sin perjuicio de lo que establecen otras leyes.
+Los servidores públicos sancionados podrán impugnar ante el Tribunal Fiscal de la Federación las resoluciones administrativas por las que se les impongan las sanciones a que se refiere este Capítulo. Las resoluciones anulatorias firmes dictadas por ese Tribunal, tendrán el efecto de que la dependencia o entidad en la que el servidor público preste o haya prestado sus servicios, lo restituya en el goce de los derechos de que hubiese sido privado por la ejecución de las sanciones anuladas, sin perjuicio de lo que establecen otras leyes.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 71.
 
-Las resoluciones que dicte el superior jerárquico, en las que imponga sanciones administrativas, podrán ser impugnadas por el servidor público ante la propia autoridad, mediante recurso de revocación, que se interpondrá dentro de los quince días siguientes a la fecha en que surta efectos la notificación de la resolución recurrida.
+Las resoluciones por las que se impongan sanciones administrativas, podrán ser impugnadas por el servidor público ante la propia autoridad, mediante el recurso de revocación que se interpondrá dentro de los quince días siguientes a la fecha en que surta efectos la notificación de la resolución recurrida.
 
 La tramitación del recurso se sujetará a las normas siguientes:
 
@@ -620,9 +696,11 @@ I.- Se iniciará mediante escrito en el que deberán expresarse los agravios que
 
 II.- La autoridad acordará sobre la admisibilidad del recurso y de las pruebas ofrecidas, desechando de plano las que no fuesen idóneas para desvirtuar los hechos en que se base la resolución.
 
-Las pruebas admitidas se desahogarán en un plazo de cinco días, que a solicitud del servidor público o de la autoridad, podrá ampliarse una sola vez por cinco días más; y
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 21 DE JULIO DE 1992)</small>
 
-III.- Concluido el periodo probatorio, el superior jerárquico emitirá resolución en el acto, o dentro de los tres días siguientes, notificándolo al interesado.
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1992)</small>
+
+III.- Desahogadas las pruebas, si las hubiere, la autoridad emitirá resolución dentro de los treinta días hábiles siguientes, notificándolo al interesado en un plazo no mayor de setenta y dos horas.
 
 ###### ARTICULO 72.
 
@@ -640,9 +718,11 @@ b) Que la ejecución de la resolución recurrida produzca daños o perjuicios de
 
 c) Que la suspensión no traiga como consecuencia la consumación o continuación de actos u omisiones que impliquen perjuicios al interés social o al servicio público.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 73.
 
-El servidor público afectado por las resoluciones administrativas de la Secretaría podrá optar entre interponer el recurso de revocación o impugnarles directamente ante el Tribunal Fiscal de la Federación.
+El servidor público afectado por las resoluciones administrativas que se dicten conforme a esta Ley, podrá optar entre interponer el recurso de revocación o impugnarlas directamente ante el Tribunal Fiscal de la Federación
 
 La resolución que se dicte en el recurso de revocación será también impugnable ante el Tribunal Fiscal de la Federación.
 
@@ -662,9 +742,11 @@ Las sanciones económicas que se impongan constituirán créditos fiscales a fav
 
 Si el servidor público presunto responsable confesare su responsabilidad por el incumplimiento de las obligaciones a que hace referencia la presente Ley, se procederá de inmediato a dictar resolución, a no ser que quien conoce del procedimiento disponga la recepción de pruebas para acreditar la veracidad de la confesión. En caso de que se acepte la plena validez probatoria de la confesión, se impondrá al interesado dos tercios de la sanción aplicable, si es de naturaleza económica, pero en lo que respecta a indemnización, ésta en todo caso deberá ser suficiente para cubrir los daños y perjuicios causados, y siempre deberá restituirse cualquier bien o producto que se hubiese percibido con motivo de la infracción. Quedará a juicio de quien resuelve disponer o no la suspensión, separación o inhabilitación.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 77.
 
-Para el cumplimiento de las atribuciones que le confiere esta Ley, la Secretaría podrá emplear los siguientes medios de apremio:
+Para el cumplimiento de las atribuciones que les confiere esta Ley, la Secretaría y el superior jerárquico podrán emplear los siguientes medios de apremio:
 
 > <small>(F. DE E., D.O.F. 10 DE MARZO DE 1983)</small>
 
@@ -678,23 +760,45 @@ Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que
 
 Las facultades del superior jerárquico y de la Secretaría para imponer las sanciones que esta Ley prevé se sujetarán a lo siguiente:
 
-I.- Prescribirán en tres meses si el beneficio obtenido o el daño causado por el infractor no excede de diez veces el salario mínimo diario vigente en el Distrito Federal, o si la responsabilidad no fuese estimable en dinero. El plazo de prescripción se contará a partir del día siguiente a aquél en que se hubiera incurrido en la responsabilidad o a partir del momento en que hubiese cesado, si fue de carácter contínuo; y
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1992)</small>
+
+I.- Prescribirán en un año si el beneficio obtenido o el daño causado por el infractor no excede de diez veces el salario mínimo mensual vigente en el Distrito Federal, y
 
 II.- En los demás casos prescribirán en tres años.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 1992)</small>
+
+El plazo de prescripción se contará a partir del día siguiente a aquél en que se hubiera incurrido en la responsabilidad o a partir del momento en que hubiese cesado, si fue de carácter continuo.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 1992)</small>
+
+En todos los casos la prescripción a que alude este precepto se interrumpirá al iniciarse el procedimiento administrativo previsto por el artículo 64.
 
 ## TITULO CUARTO
 
 ### CAPITULO UNICO. Registro patrimonial de los servidores públicos
 
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 79.
 
-La Secretaría llevará el registro de la situación patrimonial de los servidores públicos de conformidad con esta Ley y demás disposiciones aplicables.
+La Secretaría llevará el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos de las dependencias y entidades de la Administración Pública Federal, así como de los órganos jurisdiccionales a que se refieren las fracciones VII a IX del artículo 3o., en los términos de esta Ley y demás disposiciones aplicables.
+
+Las atribuciones que este Título otorga a la Secretaría, se confieren en el ámbito de sus respectivas competencias, tanto a la Suprema Corte de Justicia de la Nación y Tribunal Superior de Justicia del Distrito Federal, como a las Cámaras de Senadores y Diputados del Congreso de la Unión y Asamblea de Representantes del Distrito Federal.
+
+Para los efectos del párrafo que antecede, las citadas autoridades conforme a la legislación respectiva, determinarán los órganos encargados de ejercer dichas atribuciones, así como los sistemas que se requieran para tal propósito.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 80.
 
-Tienen la obligación de presentar declaración anual de situación patrimonial ante la Secretaría, bajo protesta de decir verdad:
+Tienen la obligación de presentar declaraciones de situación patrimonial, ante la autoridad competente, conforme a lo dispuesto por el artículo 79, bajo protesta de decir verdad, en los términos que esta Ley señala:
 
 I.- En el Congreso de la Unión: Diputados y Senadores, Oficiales Mayores, Tesoreros y Directores de las Cámaras, y Contador Mayor de Hacienda;
+
+> <small>(ADICIONADA, D.O.F. 21 DE JULIO DE 1992)</small>
+
+I Bis.- En la Asamblea de Representantes del Distrito Federal: Los Representantes, Oficial Mayor, Tesorero y Directores de la misma;
 
 II.- En el Poder Ejecutivo Federal: Todos los funcionarios, desde el nivel de jefes de departamentos hasta el de Presidente de la República, además de los previstos en las fracciones IV, V y IX de este artículo;
 
@@ -708,11 +812,19 @@ VI.- En el Poder Judicial Federal: Ministros de la Suprema Corte de Justicia de 
 
 VII.- En el Poder Judicial del Distrito Federal: Magistrados del Tribunal Superior de Justicia, Jueces, secretarios judiciales y actuarios de cualquier categoría o designación;
 
-VIII.- En los Tribunales Administrativos y del Trabajo: Magistrados, miembros de Junta y secretarios; y
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1992)</small>
+
+VIII.- En el Tribunal Fiscal de la Federación, en los tribunales de trabajo y en los demás órganos jurisdiccionales que determinen las leyes: Magistrados, miembros de junta y secretarios, o sus equivalentes, y
 
 IX.- En la Secretaría de la Contraloría General: Todos los servidores públicos de confianza.
 
-Asimismo, deberán presentar la declaración de la que se trata en este precepto los demás servidores públicos que determinen el Secretario de la Contraloría General y el Procurador General de la República mediante disposiciones generales debidamente motivadas y fundadas.
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 1992)</small>
+
+El servidor público que en su declaración de situación patrimonial faltare a la verdad en relación con lo que es obligatorio manifestar en términos de esta Ley, será suspendido, y cuando por su importancia lo amerite, destituido e inhabilitado de tres meses a tres años.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1992)</small>
+
+Asimismo, deberán presentar las declaraciones a que se refiere este artículo, los demás servidores públicos de las dependencias y entidades de la Administración Pública Federal y de los órganos jurisdiccionales a que se refieren las fracciones VII a IX del artículo 3o., que determine el Secretario de la Contraloría General de la Federación, mediante disposiciones generales debidamente motivadas y fundadas.
 
 ###### ARTICULO 81.
 
@@ -725,6 +837,10 @@ II.- Dentro de los treinta días naturales siguientes a la conclusión del encar
 III.- Durante el mes de mayo de cada año deberá presentarse la declaración de situación patrimonial, acompañada de una copia de la declaración anual presentada por personas físicas para los efectos de la Ley del Impuesto Sobre la Renta, salvo que en ese mismo año se hubiese presentado la declaración a que se refiere la fracción I.
 
 Si transcurrido el plazo a que hace referencia la fracción I, no se hubiese presentado la declaración correspondiente, sin causa justificada, quedará sin efectos el nombramiento respectivo previa declaración de la Secretaría. Lo mismo ocurrirá cuando se omita la declaración contemplada en la fracción III.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 1992)</small>
+
+Para el caso de omisión, sin causa justificada, en la presentación de la declaración a que alude la fracción II, se inhabilitará al infractor por un año.
 
 ###### ARTICULO 82.
 
@@ -809,3 +925,23 @@ En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Consti
 D.O.F. 11 DE ENERO DE 1991.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE JULIO DE 1992.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a lo establecido por este ordenamiento.
+
+###### ARTICULO TERCERO.
+
+La Asamblea de Representantes del Distrito Federal y las autoridades jurisdiccionales a que se refieren las fracciones VII a IX del artículo 3o. de esta Ley, establecerán los órganos y sistemas previstos en el artículo 51 que se reforma, en un plazo que no excederá de sesenta días naturales, contados a partir de la entrada en vigor de este Decreto, realizando las adecuaciones que al efecto procedan en sus reglamentos interiores y manuales de organización.
+
+###### ARTICULO CUARTO.
+
+La Suprema Corte de Justicia de la Nación y el Tribunal Superior de Justicia del Distrito Federal, así como las Cámaras de Senadores y Diputados del Congreso de la Unión y la Asamblea de Representantes del Distrito Federal, establecerán los órganos, sistemas, registros, formatos y demás circunstancias pertinentes que se requieran para ejercer las atribuciones que les confieren, en virtud de esta reforma, los artículos 79 a 90 de la Ley, en un plazo que no excederá de sesenta días naturales contados a partir de la entrada en vigor del presente ordenamiento. Al efecto, la Secretaría de la Contraloría General de la Federación entregará las declaraciones de situación patrimonial que en su oportunidad haya recibido a la autoridad que resulte competente en los términos de este Decreto.
+
+Para los fines de la presentación de las declaraciones de situación patrimonial, las Cámaras del Congreso de la Unión y la Asamblea de Representantes, así como el Pleno de la Suprema Corte de Justicia de la Nación y del Tribunal Superior de Justicia del Distrito Federal, determinarán los órganos que de manera provisional habrán de recibirlas respecto de los servidores públicos que les están adscritos, así como custodiarlas, en tanto se establecen los órganos señalados en el párrafo anterior. Para la presentación de las declaraciones, se podrán utilizar los formatos expedidos por la propia Secretaría.
