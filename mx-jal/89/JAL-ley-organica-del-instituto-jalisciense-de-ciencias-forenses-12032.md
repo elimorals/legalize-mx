@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-jalisciense-de-ciencias-forenses-120
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-02-07"
-last_updated: "2003-08-19"
+last_updated: "2004-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY ORGANICA DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES, DR. JESUS MARIO RIVAS SOUZA -- ANTES LEY ORGANICA DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES --
 
-LEY ORGANICA DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES
+LEY ORGÁNICA DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2004.
 
 Ley publicada en la Sección Segunda, del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -341,6 +341,10 @@ Los servidores públicos adscritos al Instituto que desempeñen funciones técni
 
 Son requisitos del personal encargado de aplicar las normar (sic) técnicas y elaborar los dictámenes periciales, contar con título profesional o especialidad técnica, debidamente acreditada, que lo faculte para ejercer la ciencia o especialidad técnica de que se trate.
 
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+
+Tratándose del personal encargado de elaborar los dictámenes médico-forenses, será requisito tener título profesional de medicina y especialidad en medicina forense acreditada mediante documento con validez oficial.
+
 ###### Artículo 22.
 
 El personal técnico y profesional estará sujeto a responsabilidad por:
@@ -425,8 +429,14 @@ El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 19 DE AGOSTO DE 2003.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 30 DE NOVIEMBRE DE 2004.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El personal que en la actualidad realice dictámenes forenses y no cumpla los requisitos señalados en el presente decreto, tendrá un plazo de tres años, contados a partir de la entrada en vigor del presente decreto, para acreditar la especialidad. Para este efecto el Instituto realizará las gestiones necesarias para proporcionar la capacitación especializada al personal que esté en este supuesto.
