@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-11932"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-30"
-last_updated: "1997-05-28"
+last_updated: "1998-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11932&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PUBLICO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 1998.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 30 de agosto de 1996.
 
@@ -57,9 +57,11 @@ El titular del Ejecutivo del Estado está facultado para emitir el Programa Esta
 
 Los sistemas a que se refiere el párrafo precedente serán operados por el Estado, a través de los organismos específicos que al efecto se constituyan o mediante concesión otorgada a terceros.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 4º.
 
-El titular del Ejecutivo del Estado, por sí o a través de la Secretaría de Obras y Servicios Públicos, podrá establecer modalidades de uso de las concesiones y permisos del transporte público, fijando los itinerarios, tarifas, horarios, frecuencias, sitios, terminales, tipos de vehículos, desplazamiento de enlaces, enrolamientos, fusiones y escisiones o cualquier otra especificación del servicio, atendiendo al interés público.
+El titular del Ejecutivo del Estado, por sí o a través de la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas, podrá establecer modalidades de uso de las concesiones y permisos del transporte público, fijando los itinerarios, tarifas, horarios, frecuencias, sitios, terminales, tipos de vehículos, desplazamiento de enlaces, enrolamientos, fusiones y escisiones o cualquier otra especificación del servicio atendiendo al interés público.
 
 ###### ARTICULO 5º.
 
@@ -85,7 +87,9 @@ I.- El titular del Ejecutivo del Estado;
 
 II.- El Secretario General de Gobierno;
 
-III.- El Secretario de Obras y Servicios Públicos; y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1998)</small>
+
+III.- Secretario de Desarrollo Urbano, Comunicaciones y Obras Públicas; y
 
 IV.- El Director General de Comunicaciones y Transportes.
 
@@ -111,9 +115,11 @@ VII.- Las demás atribuciones que le otorga esta ley.
 
 Es atribución del Secretario General de Gobierno observar que se cumplan los acuerdos y disposiciones que de conformidad con la presente ley, dicte el titular del Ejecutivo en materia de transporte.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 11.
 
-Compete al Secretario de Obras y Servicios Públicos:
+Compete al Secretario de Desarrollo Urbano, Comunicaciones y Obras Públicas:
 
 I.- Aplicar la política general sobre materia de transporte urbano;
 
@@ -149,7 +155,9 @@ Al Director General de Comunicaciones y Transportes, le compete:
 
 I.- Participar en la aplicación de la política y de los programas en materia de transporte;
 
-II.- Coadyuvar con el Secretario de Obras y Servicios Públicos, en la formulación del proyecto del Programa Estatal de Transporte;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1998)</small>
+
+II.- Coadyuvar con el Secretario de Desarrollo Urbano, Comunicaciones y Obras Públicas en la formulación del proyecto del Programa Estatal de Transporte;
 
 III.- Proporcionar la información o la cooperación técnica que le sea requerida internamente o por otras dependencias, de acuerdo con las políticas establecidas al respecto;
 
@@ -157,7 +165,9 @@ IV.- Coordinarse con los titulares de las demás direcciones generales para el m
 
 V.- Controlar los servicios de transporte público de jurisdicción municipal, intermunicipal y estatal y proponer las modalidades que se estimen convenientes;
 
-VI.- Revisar con acuerdo del Secretario de Obras y Servicios Públicos, rutas, itinerarios, horarios, terminales, paraderos, o tablas de distancia y formular los trabajos técnicos correspondientes;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1998)</small>
+
+VI.- Revisar con acuerdo del Secretario de Desarrollo Urbano, Comunicaciones y Obras Públicas, rutas, itinerarios, horarios, terminales, paraderos, o tablas de distancia y formular los trabajos técnicos correspondientes;
 
 VII.- Someter a revisión periódica las condiciones físicas y mecánicas de los vehículos dedicados a la prestación del servicio de transporte público;
 
@@ -247,9 +257,11 @@ Las concesiones para los servicios especiales de transporte y servicio de carga 
 
 El número de concesiones será determinado por el titular del Ejecutivo del Estado, de acuerdo a las necesidades de los usuarios, en congruencia con el desarrollo social y económico de la Entidad, previo estudio que formulen las dependencias y los órganos auxiliares competentes.
 
+(REFORMADO, P.O. 26 DE MAYO DE 1998) (F. DE E., P.O. 24 DE MARZO DE 1999)
+
 ###### ARTICULO 18.
 
-Las concesiones tendrán una vigencia indefinida, pero deberán ser refrendadas anualmente por la Secretaría de Obras y Servicios Públicos, a través de la Dirección General de Comunicaciones y Transportes. La inobservancia de esta disposición será motivo de suspensión.
+Las concesiones tendrán una vigencia indefinida, pero deberán ser refrendadas anualmente por la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas a través de la Dirección General de Comunicaciones y Transportes. La inobservancia de esta disposición será motivo de suspensión.
 
 ###### ARTICULO 19.
 
@@ -279,7 +291,9 @@ La concesión de ruta no implicará la exclusividad de la persona moral sobre la
 
 Las sociedades para la prestación del servicio público de transporte, deberán tener su domicilio social en el Estado y acreditar representante autorizado para responder de cualquier asunto que se relacione con esta ley.
 
-Cualquier modificación al acta constitutiva de tales sociedades deberá ser notificada oportunamente a la Secretaría de Obras y Servicios Públicos del Estado.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1998)</small>
+
+Cualquier modificación al Acta Constitutiva de tales sociedades deberá ser notificada oportunamente a la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas.
 
 ###### ARTICULO 23.
 
@@ -287,7 +301,9 @@ Para obtener una concesión del servicio público del transporte se requiere:
 
 I.- Participar en el concurso que para tal efecto se convoque, conforme a las bases que se señalen en la convocatoria respectiva;
 
-II.- Presentar al titular del Ejecutivo Estatal, por conducto de la Secretaría de Obras y Servicios Públicos del Estado, la solicitud debidamente requisitada dentro del plazo que se señale en la convocatoria;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1998)</small>
+
+II.- Presentar al titular del Ejecutivo Estatal, por conducto de la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas del Estado, la solicitud debidamente requisitada dentro del plazo que se señale en la convocatoria;
 
 III.- Tratándose de personas morales, acreditar la existencia legal de la sociedad y las facultades con que cuenten sus representantes ;
 
@@ -295,7 +311,9 @@ IV.- Demostrar capacidad de inversión para la compra, arrendamiento o financiam
 
 V.- Demostrar capacidad administrativa y técnica para atender satisfactoriamente la prestación del servicio de que se trate;
 
-VI.- Tratándose de personas físicas, someterse al estudio socioeconómico que al efecto practique la Secretaría de Obras y Servicios Públicos; y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1998)</small>
+
+VI.- Tratándose de personas físicas, someterse al estudio socioeconómico que al efecto practique la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas; y
 
 VII.- Cuando se trate de personas que con anterioridad hayan prestado el servicio público de transporte, deberán comprobar que lo prestaron con eficiencia y que no incurrieron en violaciones graves a la ley.
 
@@ -381,9 +399,11 @@ En la tramitación de la impugnación sólo se admitirán las pruebas documental
 
 ### CAPITULO TERCERO. De la expedición de Permisos
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 31.
 
-El titular del Ejecutivo del Estado, por sí o a través de la Secretaría de Obras y Servicios Públicos, podrá expedir permisos provisionales para la prestación del servicio público de transporte únicamente en los siguientes casos:
+.- El titular del Ejecutivo del Estado, por sí o a través de la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas, podrá expedir permisos provisionales para la prestación del servicio público de transporte únicamente en los siguientes casos:
 
 I.- Para la prestación temporal de un servicio especial;
 
@@ -451,9 +471,11 @@ Serán nulas las concesiones que se otorguen fuera del procedimiento de concurso
 
 y nulidad de concesiones
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 34.
 
-A petición de parte interesada o cuando a juicio del titular del Ejecutivo del Estado, existan elementos que hagan presumible la existencia de una causa para cancelar o declarar la nulidad de la concesión, se instaurará el procedimiento respectivo ante la Secretaría de Obras y Servicios Públicos, quien lo tramitará por sí o a través de la Dirección General de Comunicaciones y Transportes, emplazando al titular de la concesión o permiso, a fin de que en un término de cinco días hábiles contados a partir del día siguiente al en que surta efectos la notificación, comparezca ante la autoridad del conocimiento a expresar mediante escrito lo que a su derecho convenga ofreciendo en el mismo acto las pruebas que considere procedentes.
+A petición de parte interesada o cuando a juicio del titular del Ejecutivo del Estado, existan elementos que hagan presumible la existencia de una causa para cancelar o declarar la nulidad de la concesión, se instaurará el procedimiento respectivo ante la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas, quien lo tramitará por sí o a través de la Dirección General de Comunicaciones y Transportes, emplazando al titular de la concesión o permiso, a fin de que en un término de cinco días hábiles contados a partir del día siguiente al en que surta efectos la notificación, comparezca ante la autoridad del conocimiento a expresar mediante escrito lo que a su derecho convenga ofreciendo en el mismo acto las pruebas que considere procedentes.
 
 En la tramitación de este procedimiento serán admisibles todas las pruebas excepto la confesional y las que atenten contra la moral y el derecho.
 
@@ -517,7 +539,9 @@ Lo dispuesto en el párrafo precedente no exime a los concesionarios o permision
 
 Los concesionarios y permisionarios están obligados a asegurar la vida e integridad física de los pasajeros, así como las pertenencias que transporten, mediante pólizas contratadas con compañías aseguradoras legalmente autorizadas. En la misma forma deberán asegurar los daños personales y patrimoniales a terceros.
 
-Los montos de las garantías serán determinados por la Secretaría de Obras y Servicios Públicos.
+> <small>(REFORMADO P.O. 26 DE MAYO DE 1998)</small>
+
+Los montos de las garantías serán determinados por la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas.
 
 ###### ARTICULO 42.
 
@@ -709,7 +733,9 @@ El Consejo Estatal de Transporte es un órgano auxiliar del Poder Ejecutivo del 
 
 El Consejo Estatal de Transporte estará integrado de la siguiente manera:
 
-I.- El Secretaría de Obras y Servicios Públicos;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1998)</small>
+
+I.- El Secretario de Desarrollo Urbano, Comunicaciones y Obras Públicas;
 
 II.- Por el Director General de Comunicaciones y Transportes;
 
@@ -719,17 +745,25 @@ IV.- Por un representante del sector industrial del Estado;
 
 V. Por un representante del sector comercial del Estado;
 
-VI.- por un representante de cada uno de los sindicatos y federaciones que existan constituidos legalmente en la entidad y que determine la Secretaría de Obras y Servicios Públicos;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1998)</small>
+
+VI.- Por un representante de cada uno de los Sindicatos y Federaciones que existan constituidos legalmente en la Entidad y que determine la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas;
 
 VII.- Por un representante de cada una de las organizaciones de concesionarios del transporte público en la entidad;
 
-VIII.- por un representante de las instituciones de educación media, media superior y superior, así como los representantes de las asociaciones de estudiantes de estas instituciones que determine la Secretaría de Obras y Servicios Públicos; y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1998)</small>
 
-IX.- Por un representante de las asociaciones de profesionistas y de ciudadanos que determine la Secretaría de Obras y Servicios Públicos.
+VIII.- Por un representante de las instituciones de Educación Media, Media Superior y Superior, así como los representantes de las Asociaciones de Estudiantes de estas Instituciones que determine la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas; y
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1998)</small>
+
+IX.- Por un representante de las Asociaciones de Profesionistas y de ciudadanos que determine la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 73.
 
-El Consejo será presidido por el Secretario de Obras y Servicios Públicos. El Director de Comunicaciones y Transportes fungirá como Secretario.
+.- El Consejo será presidido por el Secretario de Desarrollo Urbano, Comunicaciones y Obras Públicas. El Director de Comunicaciones y Transportes fungirá como Secretario.
 
 ### CAPITULO SEGUNDO. De las atribuciones del Consejo
 
@@ -847,7 +881,9 @@ IV.- Cancelación de la concesión o permiso.
 
 Las sanciones a que se refieren las fracciones I y II de este artículo, serán impuestas por el Director General de Comunicaciones y Transportes, escuchando previamente al infractor.
 
-En los casos en que proceda la sanción a que se refiere la fracción III de este artículo, será impuesta por la Secretaría de Obras y Servicios Públicos.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1998)</small>
+
+En los casos en que proceda la sanción a que se refiere la fracción III de este artículo, será impuesta por la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas.
 
 Para la imposición de la sanción a que se contrae la fracción IV del presente artículo, se observará el procedimiento establecido por los artículos 34 y 35 de la presente ley, siendo impuesta la misma por el titular del Ejecutivo del Estado.
 
@@ -861,9 +897,11 @@ La infracción a lo dispuesto por el artículo 15 de esta ley, se sancionará co
 
 ### CAPITULO PRIMERO. Del recurso de Revocación
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 85.
 
-Las resoluciones y acuerdos que en materia de transporte público emitan el Secretario de Obras y Servicios Públicos y el Director General de Comunicaciones y Transportes, podrán ser combatidas a través del recurso de revocación que se interponga ante las propias autoridades, dentro del término de tres días hábiles siguientes al en que surta efectos su notificación.
+Las resoluciones y acuerdos que en materia de transporte público emitan el Secretario de Desarrollo Urbano, Comunicaciones y Obras Públicas y el Director General de Comunicaciones y Transportes podrán ser combatidas a través del recurso de revocación que se interponga ante las propias autoridades dentro del término de tres días hábiles siguientes al que surta efecto su notificación.
 
 Las resoluciones y acuerdos que sobre la materia dicten el titular del Ejecutivo del Estado y el Secretario General de Gobierno, serán irrecurribles en los términos de la presente ley.
 
@@ -873,17 +911,21 @@ Al interponer el recurso de revocación, deberá el inconforme formular los agra
 
 Admitido el recurso, la autoridad fijará un término de diez días hábiles para el desahogo de las pruebas calificadas de procedentes y una vez concluido el mismo, pronunciará su resolución dentro de los cinco días hábiles siguientes.
 
-Las resoluciones que emita la Secretaría de Obras y Servicios Públicos con motivo de la interposición del recurso de revocación, serán irrecurribles en los términos de la presente ley.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1998)</small>
+
+Las resoluciones que emita la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas con motivo de la interposición del recurso de revocación, serán irrecurribles en los términos de la presente ley.
 
 ### CAPITULO SEGUNDO. Del recurso de Revisión
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 86.
 
-El fallo que pronuncie la Dirección General de Comunicaciones y Transportes al resolver el recurso de revocación, podrá ser impugnado ante la Secretaría de Obras y Servicios Públicos, mediante el recurso de revisión, dentro de los tres días hábiles siguientes al en que surta efectos su notificación.
+El fallo que pronuncie la Dirección General de Comunicaciones y Transportes al resolver el recurso de revocación, podrá ser impugnado ante la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas, mediante el recurso de revisión, dentro de los tres días hábiles siguientes al en que surta efecto su notificación.
 
-Al interponer el recurso, el inconforme deberá formular los agravios que, a su criterio, le cause la resolución combatida. Admitido el recurso, la Secretaría de Obras y Servicios Públicos podrá pedir los informes que considere pertinentes a la Dirección General de Comunicaciones y Transportes y, en su caso, recibidos los mismos, citará al recurrente a una audiencia de alegatos que deberá celebrarse dentro de los tres días hábiles siguientes a la admisión del recurso.
+Al interponer el recurso, el inconforme deberá formular los agravios, que a su criterio, le cause la resolución combatida. Admitido el recurso, la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas podrá pedir los informes que considere pertinentes a la Dirección General de Comunicaciones y Transportes y en su caso, recibidos los mismos, citará al recurrente a una audiencia de alegatos que deberá celebrarse dentro de los tres días hábiles siguientes a la admisión del recurso.
 
-La Secretaría de Obras y Servicios Públicos emitirá la resolución correspondiente dentro del término de cinco días hábiles siguientes a la celebración de la audiencia de alegatos. En contra de tal resolución no será procedente ningún recurso en términos de la presente ley.
+La Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas emitirá la resolución correspondiente dentro del término de cinco días hábiles siguientes a la celebración de la audiencia de alegatos. En contra de tal resolución no será procedente ningún recurso en términos de la presente ley.
 
 ## TRANSITORIOS
 
@@ -928,3 +970,9 @@ La solicitud para la regularización señalada en los párrafos anteriores, se r
 Unicamente serán válidas las resoluciones de transferencia o regularización que emita el titular del Ejecutivo del Estado durante los seis meses siguientes, contados a partir de la publicación del presente decreto en el Periódico Oficial del Estado.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE MAYO DE 1998.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
