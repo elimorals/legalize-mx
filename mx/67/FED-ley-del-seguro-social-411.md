@@ -4,7 +4,7 @@ identifier: "FED-ley-del-seguro-social-411"
 country: "mx"
 rank: "ley"
 publication_date: "1973-03-12"
-last_updated: "1992-03-12"
+last_updated: "1992-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=411&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE FEBRERO DE 1992.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 12 DE MARZO DE 1992.</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE JUNIO DE 1992.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 12 de marzo de 1973.
 
@@ -1762,13 +1760,17 @@ b) Con más de veintiséis semanas reconocidas se tiene derecho al cien por cien
 
 El Instituto otorgará a los pensionados comprendidos en este capítulo, un aguinaldo anual equivalente a una mensualidad del importe de la pensión que perciban.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 1992)</small>
 
 ###### ARTICULO 168.
 
-La pensión de invalidez, vejez o cesantía en edad avanzada, incluyendo las asignaciones familiares y ayudas asistenciales que en su caso correspondan no podrá ser inferior al ochenta por ciento del Salario Mínimo General que rija para el Distrito Federal.
+La pensión de invalidez, de vejez, o cesantía en edad avanzada incluyendo las asignaciones familiares y ayudas asistenciales que en su caso correspondan, no podrá ser inferior al noventa por ciento del salario mínimo general que rija para el Distrito Federal.
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1990)</small>
 
 El monto determinado conforme al párrafo anterior, servirá de base para calcular las pensiones que se deriven de la muerte tanto del pensionado, como del asegurado, al igual que para fijar la cuantía del aguinaldo anual.
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1990)</small>
 
 La cuantía mínima de las pensiones derivadas de incorporaciones generados por decreto del Ejecutivo Federal o convenios celebrados por el Instituto en los términos de esta Ley, que contengan modalidades de aseguramiento en el ramo de los seguros de invalidez, vejez, cesantía en edad avanzada y muerte, se sujetará lo (sic) establecido en el segundo párrafo del Artículo 172.
 
@@ -3379,3 +3381,11 @@ Durante el período comprendido entre el 1o. de septiembre y el 31 de diciembre 
 ###### ARTICULO NOVENO.
 
 El entero de las aportaciones establecidas en el artículo segundo transitorio, así como de las cuotas correspondientes al seguro de retiro por los bimestres tercero a sexto de 1992, se acreditarán mediante la entrega que los patrones deberán efectuar a cada uno de sus trabajadores, de un comprobante elaborado por los propios patrones, mismos que deberán entregarles junto con el último pago de sueldo de los meses de mayo, julio, septiembre y noviembre de 1992 y enero de 1993, según corresponda conforme al artículo segundo transitorio.
+
+D.O.F. 29 DE JUNIO DE 1992.
+
+Primero. El presente decreto entrará en vigor el día 1o. de enero de 1993.
+
+Segundo. Durante el período comprendido entre el 1o. de junio y el 31 de diciembre de 1992, la pensión de invalidez, vejez, o cesantía en edad avanzada, incluyendo las asignaciones familiares y ayudas asistenciales que en su caso corresponda, no podrá ser inferior al ochenta y cinco por ciento del salario mínimo general que rija para el Distrito Federal.
+
+Tercero. Por única vez y en el presente año, podrá utilizar el Instituto Mexicano del Seguro Social los activos financieros señalados en el artículo 264 de la Ley del Seguro Social, que sean indispensables para financiar los incrementos a que se refiere el transitorio anterior.
