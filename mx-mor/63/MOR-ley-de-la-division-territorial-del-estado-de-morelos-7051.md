@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-la-division-territorial-del-estado-de-morelos-7051"
 country: "mx"
 rank: "ley"
 publication_date: "1932-12-18"
-last_updated: "1936-02-02"
+last_updated: "1936-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LA DIVISIÓN TERRITORIAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 1936.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 1936.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el domingo 18 de diciembre de 1932.
 
@@ -115,9 +115,11 @@ Corresponden a la jurisdicción del Municipio de Ocuituco, los siguientes centro
 
 Corresponden a la jurisdicción del Municipio de Puente de Ixtla, los siguientes centros de población: Ahuehuetzingo, El Coco, El Estudiante, Puente de Ixtla Cabecera del Municipio, La Tigra, Los Algodones, Tilzapotla, Xoxocotla, Vista Hermosa y El Zapote.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1936)</small>
+
 ###### Art. 20.
 
-Corresponden a la jurisdicción del Municipio de Tepalcingo, los siguientes centros de población: Atotonilco, El Limón, El Tepehuaje, Huitchila, Ixtlilco, Ixtlilco el Grande, Los Sauces, Pitzotlán, Tepalcingo Cabecera del Municipio y Zacapalco.
+Corresponden a la jurisdicción del Municipio de Temixco, los siguientes centros de población: Acatlipa, Cuentepec, Pueblo Nuevo del Puente, Temixco Cabecera del Municipio y Tetlama.
 
 ###### Art. 21.
 
@@ -190,5 +192,9 @@ P.O. 26 DE AGOSTO DE 1934.
 UNICO.- Este Decreto comenzará a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
 
 P.O. 2 DE FEBRERO DE 1936.
+
+Unico.- El presente Decreto entrará en vigor desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE MAYO DE 1936.
 
 Unico.- El presente Decreto entrará en vigor desde la fecha de su publicación en el Periódico Oficial del Estado.
