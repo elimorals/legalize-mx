@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-justicia-administrativa-y-del-tribunal-de-lo-5160"
 country: "mx"
 rank: "ley"
 publication_date: "1987-07-07"
-last_updated: "1991-10-11"
+last_updated: "1997-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE JUSTICIA ADMINISTRATIVA Y DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 7 de julio de 1987.
 
@@ -319,9 +319,9 @@ I.- Cuando se recurra una negativa ficta, y
 
 II.- Cuando el actor no conozca los fundamentos o motivos del acto impugnado, sino hasta que la demanda esté contestada.
 
-> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1997)</small>
 
-La ampliación de la demanda deberá presentarse dentro de los quince días siguientes al en que surta efectos la notificación del auto recaído a dicha contestación.
+La ampliación de la demanda deberá presentarse con las pruebas conducentes dentro del término de quince días siguientes al en que surta efectos la notificación del auto recaído a la contestación.
 
 ###### ARTICULO 27.
 
@@ -377,9 +377,11 @@ Contra el desechamiento a que se refiere este Artículo procede el recursos (sic
 
 ### CAPITULO V. DE LA CONTESTACION DE LA DEMANDA
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 30.
 
-Admitida la demanda se correrá traslado de la misma a los demandados, emplazándolos para que la contesten dentro de los diez días hábiles siguientes a aquél en que surta efectos el emplazamiento. El plazo para contestar la ampliación de la demanda será de tres días hábiles siguientes al en que surta efectos la notificación del acuerdo que la admita. En el auto en que se dé entrada a la demanda se señalará fecha para la audiencia dentro de un plazo que no excederá de quince días hábiles y dictará las demás providencias que procedan con arreglo a este ordenamiento. Cuando fueren varias las demandas, el término correrá individualmente.
+Admitida la demanda se correrá traslado de la misma a los demandados, emplazándolos para que contesten dentro de los diez días hábiles siguientes al en que surta sus efectos el emplazamiento y ofrezcan las pruebas conducentes. El plazo para contestar la ampliación de la demanda será de tres días hábiles siguientes al en que surta efectos la notificación del acuerdo que la admita. En el auto en que se dé entrada a la demanda se señalará fecha para la audiencia dentro de un plazo que no excederá de quince días hábiles y dictará las demás providencias que procedan con arreglo a este ordenamiento. Cuando fueren varias las demandadas, el término correrá individualmente.
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1991)</small>
 
@@ -457,9 +459,9 @@ La suspensión otorgada conforme al Artículo anterior, quedará sin efecto si e
 
 Para que surta efecto la caución que ofrezca el tercero, conforme al párrafo anterior, deberá cubrir previamente el costo de la que hubiese otorgado el actor.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1997)</small>
 
-Contra los actos que concedan o nieguen la suspensión y contra el señalamiento de fianzas y contrafianzas, procede el recurso de reclamación mismo que deberá presentarse ante la Sala Superior.
+Contra los actos que concedan o nieguen la suspensión y contra el señalamiento de fianzas y contrafianzas, procede el recurso de reclamación ante la Sala Superior, debiéndose presentar ante la Sala Regional que dictó el auto que se impugne.
 
 ###### ARTICULO 41.
 
@@ -741,35 +743,57 @@ Las sanciones mencionadas en este Capítulo también serán procedentes cuando n
 
 ### CAPITULO XII. DE LOS RECURSOS
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 78.
 
-El recurso de queja es procedente contra actos de las autoridades y organismos demandados, por exceso o defecto de la ejecución del auto en que se haya concedido la suspensión del acto reclamado, así como, por exceso o defecto en la ejecución de la sentencia del Tribunal que haya declarado fundada la pretensión del actor. Este recurso deberá interponerse por escrito ante la Sala que conozca o hubiere conocido del procedimiento, dentro de un plazo de tres días contados a partir del siguiente al en que surta efectos la notificación de la resolución recurrida, acompañando una copia del escrito para cada una de las partes.
+El recurso de queja es procedente contra actos de las autoridades y organismos demandados, por exceso o defecto de la ejecución del auto en que se haya concedido la suspensión del acto reclamado, así como por exceso o defecto en la ejecución de la sentencia del Tribunal que haya declarado fundada la pretensión del actor. Este recurso deberá interponerse por escrito ante la Sala que conozca o hubiere conocido del procedimiento.
 
-Admitido el recurso, la Sala competente requerirá a la autoridad u organismo contra el que se hubiere interpuesto, para que rinda un informe con justificación sobre la materia de la queja, dentro de un término de tres días, y dentro de los tres días siguientes dictará la resolución que proceda. La falta o deficiencia de los informes, establece la presunción de ser ciertos los hechos y hará incurrir a las autoridades omisas en una multa de cinco a treinta días del salario mínimo general vigente en la zona económica que corresponda, que impondrá de plano la Sala que conozca de la queja en la misma resolución que proceda.
+El recurso de queja deberá interponerse dentro de los tres días siguientes al en que se tenga por hecha la notificación de la resolución recurrida.
+
+Admitido el recurso, la Sala requerirá a la autoridad u organismo contra el que se hubiere interpuesto, para que rinda un informe con justificación sobre la materia de la queja dentro de los tres días siguientes, y dictará la resolución que proceda dentro del mismo término. La falta o deficiencia de los informes, establece la presunción de ser ciertos los hechos y hará incurrir a las autoridades omisas en una multa de diez a cincuenta días de salario mínimo general, que impondrá la Sala que conozca de la queja, decretándose en la resolución que emita, sin perjuicio de que se reitere cuantas veces sea necesario la multa impuesta.
 
 ###### ARTICULO 79.
 
 El recursos (sic) de reclamación procede contra los acuerdos de trámite dictados por el Presidente del Tribunal o por los Magistrados de cualquiera de las Salas, así como en los demás casos señalados por esta Ley.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 80.
 
-El recurso se interpondrá con expresión de agravios, dentro del término de tres días contados a partir de la fecha de notificación correspondiente, ante la Sala de adscripción del Magistrado o Presidente que haya dictado el acuerdo recurrido.
+El recurso de reclamación deberá hacerse valer mediante escrito dentro de los tres días siguientes al en que se tenga por hecha la notificación de la resolución respectiva. Dicho recurso debe interponerse ante la Sala que haya dictado el acuerdo impugnado con expresión de agravios.
+
+Tratándose de actos que otorguen o nieguen la suspensión deberá estarse, en lo que proceda, a lo dispuesto en los artículos 40 y 83 de la presente ley.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 81.
 
-El recurso se sustanciará con vista a las partes por un término común de tres días, para que expongan lo que a su derecho convenga y trascurrido (sic) dicho término, la Sala resolverá lo conducente.
+El recurso se substanciará con vista a la parte contraria por el mismo término de tres días, para que exponga lo que a su derecho convenga y transcurrido dicho término, la Sala resolverá lo conducente en un plazo de tres días.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 82.
 
-El recurso de revisión procede contra las resoluciones de las Salas del Tribunal que decreten o nieguen sobreseimiento; las que resuelvan las cuestiones incidentales; las dictadas con motivo de los recursos planteados entre las mismas; las que resuelvan el procedimiento o la cuestión planteada en el fondo, y las que pongan fin a éste, pudiéndose plantear por cualquiera de las partes ante la Sala Superior, con expresión de agravios.
+El recurso de revisión procede contra las resoluciones de las Salas del Tribunal que decreten o nieguen sobreseimiento; las que resuelvan las cuestiones incidentales; las dictadas con motivo de los recursos planteados entre las mismas; las que resuelvan el procedimiento o la cuestión planteada en el fondo, y las que pongan fin a éste.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 83.
 
-El recurso de revisión deberá ser interpuesto por escrito dentro del plazo de diez días siguientes al en que surta sus efectos la notificación de la resolución que se impugne.
+El recurso de revisión deberá interponerse ante la Sala Regional que haya emitido la resolución, a más tardar dentro de los cinco días siguientes al en que surta efectos la notificación de la resolución impugnada.
 
-La Sala Superior, al admitir el recurso, designará al Magistrado ponente y mandará correr traslado del mismo a las demás partes por el término de cinco días, para que expongan lo que a su derecho convenga, y vencido dicho término, el Magistrado ponente formulará el proyecto de resolución y dará cuenta del mismo a la Sala Superior en un plazo de diez días.
+En el escrito de revisión, el recurrente deberá expresar los agravios que le causa la resolución impugnada. Con el escrito de revisión se exhibirá una copia del mismo, para agregarse al expediente y una más para cada una de las partes.
+
+En el mismo escrito, el recurrente deberá designar domicilio en el lugar de ubicación de la Sala Superior del H. Tribunal de lo Contencioso Administrativo del Estado, para oír notificaciones y se practiquen las diligencias que sean necesarias; igualmente la contraparte deberá de cumplir con este requisito procesal. En caso de que no se cumpla con esta prevención, las notificaciones, aún las que conforme a la Ley deban hacerse personalmente, le surtirán efectos al omiso por cédula que se publicará en los estrados de la Sala Superior del Tribunal.
+
+La expresión de agravios deberá contener una relación clara y precisa de los puntos de la resolución recurrida que en concepto del recurrente le causen agravios, y las leyes, interpretación jurídica o principios generales de derecho, que estime han sido violados, ya sea por aplicación inexacta o por falta de aplicación.
+
+Interpuesto el recurso, la Sala examinará si está o no dentro del término establecido, y en su caso, en el auto que lo admita, se emplazará a la parte contraria para que en un término de cinco días dé contestación a los agravios. Hecho lo anterior, se remitirán los autos y el expediente a la Sala Superior para su calificación y resolución correspondiente, en un plazo no mayor de cinco días y en caso de no hacerlo así, se impondrá al Magistrado responsable, una multa hasta por la cantidad de sesenta salarios mínimos generales. En caso de reincidencia podrá reiterarse cuantas veces sea necesario la multa impuesta.
+
+La Sala Superior calificará la admisión del recurso y designará al Magistrado Ponente quien formulará el proyecto de resolución y dará cuenta del mismo al Pleno de la Sala en un plazo de diez días hábiles.
+
+No se admitirá y desechará de plano el recurso, cuando sea interpuesto por la autoridad y ésta no haya dado contestación a la demanda instaurada en su contra.
 
 ### CAPITULO XIII. DE LA JURISPRUDENCIA
 
@@ -995,17 +1019,25 @@ I.- De los procedimientos contenciosos en contra de los actos administrativos qu
 
 II.- De los procedimientos contenciosos en contra de los actos fiscales que dicten, ordenen, ejecuten o traten de ejecutar las autoridades del Poder Ejecutivo, de los Municipios y de los Organismos con funciones administrativas de carácter estatal o municipal;
 
-III.- De los procedimientos que que (sic) impugnen una negativa ficta de las autoridades, en los términos de la Ley aplicable, cuando ésta así lo determine, tanto en la materia administrativa como fiscal;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1997)</small>
 
-IV.- De las quejas por incumplimiento de las sentencias que dicten;
+III.- De los juicios que se promuevan en contra de las resoluciones negativas fictas en materia administrativa y fiscal, que se configuren por el silencio de las autoridades y organismos con funciones administrativas de autoridad, estatales o municipales para dar respuesta a la instancia de un particular en el plazo que la Ley fija y a falta de término, en cuarenta y cinco días.
 
-V.- Del recurso de reclamación en contra de las resoluciones de trámite de la misma Sala;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1997)</small>
 
-VI.- Despachar la correspondencia de las Salas;
+IV.- De los juicios que se promuevan en contra de las resoluciones en las que se impongan sanciones por responsabilidad administrativa a servidores públicos, estatales, municipales y organismos públicos descentralizados.
 
-VII.- Imponer las correcciones disciplinarias correspondientes, y
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1997)</small>
 
-VIII.- Rendir oportunamente al Presidente del Tribunal, un informe anual de sus labores y de las principales resoluciones que hayan dictado.
+V.- De los recursos de queja por incumplimiento de la suspensión otorgada o las sentencias que dicten;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1997)</small>
+
+VI.- Del Recurso de Reclamación en contra de las resoluciones de trámite de la misma Sala.
+
+VII.- (DEROGADA, P.O. 12 DE DICIEMBRE DE 1997)
+
+VIII.- (DEROGADA, P.O. 12 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 109.
 
@@ -1104,3 +1136,7 @@ En cumplimiento a lo dispuesto por el artículo Primero Transitorio de este Decr
 ###### ARTICULO TERCERO.
 
 El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE DICIEMBRE DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
