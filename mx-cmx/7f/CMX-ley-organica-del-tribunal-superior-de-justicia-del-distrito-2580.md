@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-superior-de-justicia-del-distrito-258
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-01-29"
-last_updated: "1997-06-17"
+last_updated: "1999-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2580&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-01-09"
 
 LEY ORGANICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE JUNIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE ENERO DE 1999.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996 y republicada en la Sección Primera del Diario Oficial de la Federación, el miércoles 7 de febrero de 1996.
 
@@ -82,33 +82,41 @@ Los demás servidores públicos y auxiliares de la administración de justicia i
 
 Los árbitros no ejercerán autoridad pública, pero de acuerdo con las reglas y restricciones que fija el Código de Procedimientos Civiles para el Distrito Federal, conocerán, según los términos de los compromisos respectivos, del negocio o negocios civiles que les encomienden los interesados. Para que resulten ejecutables sus fallos, éstos deben ser homologados por la autoridad civil correspondiente, sólo en relación con los requisitos inherentes a su formalidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 21 DE ENERO DE 1999)</small>
+
 ###### Artículo 4o.
 
-Son auxiliares de la administración de justicia:
+Son auxiliares de la administración de justicia y están obligados a cumplir las órdenes que, en el ejercicio de sus atribuciones legales, emitan los jueces y magistrados del tribunal:
 
-I. La Dirección General de Prevención y Readaptación Social;
+> <small>(ADICIONADA, G.O. 21 DE ENERO DE 1999)</small>
 
-II. El Consejo de Menores;
+I. La Subsecretaría de Gobierno del Distrito Federal.
 
-III. El Registro Civil;
+II. La Dirección General de Prevención y Readaptación Social;
 
-IV. El Registro Público de la Propiedad y del Comercio;
+III. El Consejo de Menores;
 
-V. Los Peritos Médico Legistas;
+IV. El Registro Civil;
 
-VI. Los Intérpretes oficiales y demás Peritos en las ramas que les sean encomendadas;
+V. El Registro Público de la Propiedad y del Comercio;
 
-VII. Los Síndicos e Interventores de concursos y quiebras;
+VI. Los Peritos Médico Legistas;
 
-VIII. Los Albaceas, Interventores, Depositarios, Tutores, Curadores y Notarios, en las funciones que les encomienden las leyes correspondientes;
+VII. Los Intérpretes oficiales y demás Peritos en las ramas que les sean encomendadas;
 
-IX. Los Agentes de la Policía Preventiva y Judicial, y
+VIII. Los Síndicos e Interventores de concursos y quiebras;
 
-X. Todos los demás a quienes las leyes les confieran este carácter.
+IX. Los Albaceas, Interventores, Depositarios, Tutores, Curadores y Notarios, en las funciones que les encomienden las leyes correspondientes;
+
+X. Los Agentes de la Policía Preventiva y Judicial, y
+
+XI. Todos los demás a quienes las leyes les confieran este carácter.
 
 Los auxiliares comprendidos en las fracciones III a IX de este artículo están obligados a cumplir las órdenes que, en ejercicio de sus atribuciones legales, emitan los Jueces y Magistrados del Tribunal.
 
-El Jefe del Distrito Federal, facilitará el ejercicio de las funciones a que se refiere éste artículo.
+> <small>(REFORMADO, G.O. 21 DE ENERO DE 1999)</small>
+
+El Jefe de Gobierno del Distrito Federal, facilitará el ejercicio de las funciones a que se refiere éste artículo.
 
 ###### Artículo 5o.
 
@@ -148,11 +156,11 @@ Los Magistrados del Tribunal Superior de Justicia, deberán de rendir la protest
 
 Los Magistrados durarán seis años en el ejercicio de su encargo, podrán ser ratificados y si lo fueren, sólo podrán ser privados de sus puestos en los términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos. Para la ratificación, deberá observarse el mismo procedimiento que para la designación.
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, G.O. 21 DE ENERO DE 1999)</small>
 
 ###### Artículo 12.
 
-El nombramiento de los Jueces de Primera Instancia y de Paz será por un período de seis años, mismo que a su conclusión se puede ampliar por períodos iguales, si el Consejo de la Judicatura del Distrito Federal así lo determina, atendiendo a los antecedentes del servidor de que se trate, conforme a la hoja de servicios que de él se tenga y en relación con el desempeño de las labores encomendadas por la Ley.
+El nombramiento de los Jueces de Primera Instancia y de Paz será por un periodo de seis años, mismo que a su conclusión se puede ampliar por periodos iguales, si el Consejo de la Judicatura del Distrito Federal así lo determina, atendiendo al resultado aprobatorio del examen de actualización, los antecedentes del servidor de que se trate, conforme a la hoja de servicios que de él se tenga y en relación con el desempeño de las labores encomendadas por la Ley.
 
 ###### Artículo 13.
 
@@ -172,7 +180,7 @@ Toda persona que fuere nombrada para desempeñar algún cargo o empleo judicial,
 
 Para ser designado Magistrado se requiere:
 
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 1997)</small>
+> <small>(REFORMADA, G.O. 7 DE JUNIO DE 1997)</small>
 
 I. Ser mexicano por nacimiento, no haber adquirido otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
@@ -202,7 +210,9 @@ II. Tener cuando menos treinta años de edad cumplidos al día de la designació
 
 III. Tener título de Licenciado en Derecho y Cédula Profesional expedida por la autoridad o institución legalmente facultada para ello;
 
-IV. Tener práctica profesional mínima de cinco años contados a partir de la obtención del título profesional en el campo jurídico;
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 1999)</small>
+
+IV. Tener práctica profesional mínima de cinco años, contados a partir de la obtención del título profesional en el campo jurídico, relacionada con el cargo para el que se concursa;
 
 V. Haber residido en el Distrito Federal o en su área Metropolitana durante los dos años anteriores al día de la designación;
 
@@ -210,7 +220,9 @@ VI. Gozar de buena reputación;
 
 VII. No haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo, cualquiera que haya sido la pena, y
 
-VIII. Participar y obtener resultado favorable en el concurso de oposición en los términos que establece esta ley;
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 1999)</small>
+
+VIII. Participar y obtener resultado favorable en el concurso de oposición y en los demás exámenes que establece ésta Ley, en los mismos términos de lo que ésta dispone.
 
 ###### Artículo 18.
 
@@ -230,7 +242,9 @@ V. No haber sido condenado por delito que amerite pena corporal de más de un a�
 
 VI. Tener práctica profesional mínima de cinco años contados a partir de la obtención del Título profesional, y
 
-VII. Participar y obtener resultado favorable en el concurso de oposición en los términos que establece esta Ley;
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 1999)</small>
+
+VII. Participar y obtener resultado favorable en el concurso de oposición y en los demás exámenes que establece ésta ley, en los mismos términos de lo que ésta dispone.
 
 ###### Artículo 19.
 
@@ -544,9 +558,15 @@ V. De la diligenciación de los exhortos, rogatorias, suplicatorias, requisitori
 
 VI. De los demás asuntos que les encomienden las leyes.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 21 DE ENERO DE 1999)</small>
+
 ###### Artículo 51.
 
-Los Juzgados Penales tendrán la competencia y las atribuciones que les confieran las leyes y estarán de turno por su orden mediante el control que lleve la dependencia respectiva, en los términos de esta Ley.
+Los juzgados penales tendrán la competencia y las atribuciones que les confieran las leyes y estarán de turno por su orden, de conformidad con las reglas que expida el Consejo de la Judicatura del Distrito Federal. Estas reglas deberán garantizar objetividad e imparcialidad en los turnos así como equilibrio en las cargas de trabajo entre los distintos juzgados.
+
+> <small>(ADICIONADO, G.O. 21 DE ENERO DE 1999)</small>
+
+La Procuraduría General de Justicia del Distrito Federal remitirá directamente sus consignaciones al juzgado competente, siguiendo estrictamente el orden de los juzgados que estén en turno de acuerdo a la información que al respecto haga de su conocimiento el Consejo de la Judicatura de manera oportuna y sistemática.
 
 ###### Artículo 52.
 
@@ -1414,23 +1434,25 @@ La Oficialía de Partes Común permanecerá abierta durante las horas hábiles a
 
 Dicha Oficialía de Partes también recibirá escritos que se dirijan a las Salas de lo Civil y de lo Familiar del Tribunal Superior de Justicia, fuera del horario de labores.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 21 DE ENERO DE 1999)</small>
+
 ### CAPITULO I. Denominación, Objeto, Integración y Funcionamiento
 
 ###### Artículo 174.
 
-A la Dirección de Turno de Consignaciones Penales le corresponde recibir diariamente las consignaciones que remita la Procuraduría General de Justicia del Distrito Federal, para su distribución a los Juzgados, que se llevará a cabo conforme al reglamento.
+(DEROGADO, G.O. 21 DE ENERO DE 1999)
 
 ###### Artículo 175.
 
-Esta Dirección estará integrada por un Director y el personal de apoyo necesario para su buen funcionamiento.
+(DEROGADO, G.O. 21 DE ENERO DE 1999)
 
 ###### Artículo 176.
 
-El Director de esta dependencia deberá reunir los requisitos señalados en el artículo 17 de esta Ley, con excepción de lo establecido en la fracción IV.
+(DEROGADO, G.O. 21 DE ENERO DE 1999)
 
 ###### Artículo 177.
 
-La Dirección permanecerá abierta en los turnos previstos en los términos señalados por el artículo 51 de esta Ley.
+(DEROGADO, G.O. 21 DE ENERO DE 1999)
 
 ### CAPITULO II. Facultades del Consejo de la Judicatura
 
@@ -1492,9 +1514,11 @@ III. Contar con un grado profesional a nivel de licenciatura y acreditar la expe
 
 IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena privativa de libertad de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
 
+> <small>(REFORMADO, G.O. 21 DE ENERO DE 1999)</small>
+
 ###### Artículo 185.
 
-La designación y remoción del Director General y los funcionarios con los puestos dentro de los dos niveles siguientes a aquél, serán hechas libremente por el Presidente del Consejo de la Judicatura.
+La designación y remoción del Director General y los funcionarios con los puestos con los dos niveles siguientes a aquél, serán hechas por el Consejo de la Judicatura.
 
 ###### Artículo 186.
 
@@ -1546,9 +1570,9 @@ I. Tratándose de concurso interno de oposición el Consejo de la Judicatura emi
 
 La convocatoria señalará el número de plazas sujetas a concurso, el lugar, día y hora en que se llevarán a cabo los exámenes, así como el plazo, lugar de inscripción y demás elementos que se estimen necesarios;
 
-II. Los aspirantes inscritos deberán resolver un examen escrito cuyo contenido versará sobre temas que se relacionen con la función del cargo para el que se concursa.
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 1999)</small>
 
-Dentro de los aspirantes, sólo tendrán derecho a pasar a la siguiente etapa las cinco personas que por cada una de las vacantes sujetas a concurso hayan, obtenido las más altas calificaciones;
+II. Los aspirantes inscritos deberán resolver un examen escrito cuyo contenido versará sobre temas generales del Derecho y los relacionados con la función del cargo para el que se concursa.
 
 III. Los aspirantes seleccionados en términos de la fracción anterior, resolverán los casos prácticos que se les asignen;
 
@@ -1558,7 +1582,13 @@ La calificación final se determinará con el promedio de los puntos que cada mi
 
 Al llevar a cabo su evaluación, el jurado tomará en consideración la antigüedad y desempeño en la función judicial en el Distrito Federal, la experiencia profesional y los cursos de actualización que haya acreditado, en términos del reglamento que dicte el Consejo de la Judicatura. Cuando ningún sustentante alcance el puntaje mínimo requerido, el concurso se declarará desierto, y
 
-V. Concluidos los exámenes orales, se levantará un acta final y el presidente del jurado comunicará el resultado al Consejo de la Judicatura para que éste resuelva sobre la designación correspondiente.
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 1999)</small>
+
+V. Concluidos los exámenes orales, se levantará un acta final y el presidente del jurado comunicará el resultado al Consejo de la Judicatura, el que antes de resolver sobre la designación correspondiente, mandará publicar de inmediato y por un día en por lo menos dos de los diarios de mayor circulación nacional, los nombres de los candidatos, a fin de que dentro de los cinco días siguientes a la última publicación le aporten elementos de juicio.
+
+> <small>(ADICIONADO, G.O. 21 DE ENERO DE 1999)</small>
+
+Además de los exámenes de conocimiento a que se refiere este artículo, a los candidatos se les practicará examen psicométrico.
 
 ###### Artículo 191.
 
@@ -1576,9 +1606,13 @@ El jurado encargado de aplicar los instrumentos de evaluación en los concursos 
 
 I. Un miembro del Consejo de la Judicatura, quien lo presidirá;
 
-II. Un Magistrado ratificado;
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 1999)</small>
 
-III. Un Juez ratificado, y
+II. Un magistrado ratificado, que sea integrante de una sala afín a la materia que se va a examinar;
+
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 1999)</small>
+
+III. Un juez ratificado que ejerza funciones en la materia que se va a examinar y;
 
 IV. Una persona designada por el Instituto de Estudios Judiciales de entre los integrantes de su Comité Académico.
 
@@ -1592,7 +1626,9 @@ I. El desempeño que se haya tenido en el ejercicio de su función;
 
 II. Los resultados de las visitas de inspección;
 
-III. Los diversos cursos de actualización y especialización acreditados de manera fehaciente;
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 1999)</small>
+
+III. Los diversos cursos de actualización y especialización acreditados de manera fehaciente, y tratándose de jueces, también la aprobación del examen de actualización;
 
 IV. No haber sido sancionado por falta grave, con motivo de una queja de carácter administrativo, y
 
@@ -1604,11 +1640,15 @@ V. Los demás que estime pertinentes, siempre que consten en acuerdos generales 
 
 El Consejo de la Judicatura del Distrito Federal, es el órgano encargado de la administración, vigilancia y disciplina del Tribunal Superior de Justicia, de los Juzgados y demás órganos judiciales, en los términos que esta Ley establece.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 21 DE ENERO DE 1999)</small>
+
 ###### Artículo 196.
 
-El Consejo de la Judicatura del Distrito Federal se integra por siete consejeros y funcionará en Pleno y en Comisiones. Para que funcione en Pleno, bastará la presencia de cinco de sus miembros.
+El Consejo de la Judicatura del Distrito Federal se integra por siete consejeros y funcionará en Pleno, en Comisiones y unitariamente. Para que funcione en Pleno, bastará la presencia de cinco de sus miembros.
 
-El presidente del Tribunal Superior de Justicia, también lo será del Consejo de la Judicatura y de sus comisiones.
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 21 DE ENERO DE 1999)</small>
+
+El presidente del Tribunal Superior de Justicia también lo será del Consejo de la Judicatura.
 
 El Consejo de la Judicatura estará integrado además del propio Presidente del Tribunal Superior de Justicia, por un Magistrado, un Juez de Primera Instancia y un Juez de Paz, electos mediante insaculación entre magistrados y jueces ratificados; dos consejeros designados por la Asamblea de Representantes y uno por el Jefe del Distrito Federal. Los tres últimos deberán ser personas que se hayan distinguido por su capacidad, honestidad y honorabilidad en el ejercicio de las actividades jurídicas. Los Consejeros deberán reunir los requisitos que para ser magistrados establece el artículo 16 de esta Ley.
 
@@ -1652,7 +1692,9 @@ Son facultades del Consejo de la Judicatura del Distrito Federal, las siguientes
 
 I. Establecer las directrices para el eficaz cumplimiento de las funciones del Consejo, expidiendo los acuerdos generales procedentes;
 
-II. Emitir opinión al Jefe del Distrito Federal con motivo de las designaciones y ratificaciones de los magistrados;
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 1999)</small>
+
+II. Emitir opinión al Jefe de Gobierno del Distrito Federal con motivo de las designaciones y ratificaciones de los magistrados;
 
 III. Designar a los Jueces del Distrito Federal en los términos que señala esta Ley, así como adscribir a los Jueces y Magistrados.
 
@@ -1664,7 +1706,11 @@ IV. Resolver, por causa justificada, sobre la remoción de Jueces y Magistrados,
 
 V. Vigilar que se cumplan las disposiciones que sobre la carrera judicial señale esta Ley, y aprobar los planes y programas del Instituto de Estudios Judiciales;
 
-VI. Conocer de las quejas que no sean de carácter jurisdiccional, presentadas en contra de actos u omisiones de los miembros del Consejo de la Judicatura, Magistrados, Jueces y demás servidores públicos, haciendo la substanciación correspondiente y, en su caso, imponiendo la medida disciplinaria aplicable;
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 1999)</small>
+
+VI. Conocer y resolver unitariamente de las quejas que no sean de carácter jurisdiccional, presentadas en contra de actos u omisiones de los miembros del Consejo de la Judicatura, Magistrados, Jueces y demás servidores públicos, haciendo la substanciación correspondiente y, en su caso, imponiendo la medida disciplinaria aplicable;
+
+Asimismo, conocer y resolver colegiadamente y en comisión de dos consejeros los procedimientos oficiosos que se tramiten en contra de los actos u omisiones a los que se refiere el párrafo anterior.
 
 VII. Ordenar, por conducto del Presidente del Consejo, cuando se hubiere ejercitado acción penal en contra de un magistrado o un juez en el desempeño de su cargo o con motivo de éste, que sea puesto a disposición del juez que conozca del asunto y previa petición de éste, cumpliendo los requisitos que exige el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos. En su caso, el Consejo podrá adoptar las medidas cautelares que correspondan para evitar que el inculpado se sustraiga a la acción de la justicia. La detención que se practique en contravención a este precepto, será sancionada en los términos que prevenga el Código Penal aplicable;
 
@@ -1672,19 +1718,31 @@ VIII. Pedir al Presidente del Consejo y a sus integrantes el fiel cumplimiento d
 
 IX. Elaborar el presupuesto del Tribunal Superior de Justicia, de los Juzgados y demás órganos judiciales, incluido el Consejo de la Judicatura, dando prioridad al mejoramiento de la impartición de justicia.
 
-> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, G.O. 21 DE ENERO DE 1999)</small>
 
-El presupuesto se deberá remitir al Jefe de Gobierno del Distrito Federal, para que se incorpore, en capítulo por separado, al Proyecto de Presupuesto de Egresos del Distrito Federal, que será sometido a la aprobación de la Asamblea Legislativa de la propia Entidad;
+El presupuesto se deberá remitir al Jefe de Gobierno del Distrito Federal para el sólo efecto de que se incorpore, en capítulo por separado y en los mismos términos formulados por el Consejo de la Judicatura, al Proyecto de Presupuesto de Egresos del Distrito Federal, que será sometido a la aprobación de la Asamblea Legislativa del Distrito Federal.
 
 X. Vigilar que se cumplan las disposiciones legales y administrativas relacionadas con sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales;
 
-XI. Ordenar visitas de carácter administrativo a las Salas y Juzgados con la finalidad de supervisar su funcionamiento, cuando las visitas a los juzgados se hagan directamente por los consejeros, podrán apoyarse en los Magistrados de las Salas a que se encuentren adscritos.
+> <small>(REFORMADA PRIMER PARRAFO, G.O. 21 DE ENERO DE 1999)</small>
+
+XI. Realizar visitas administrativas ordinarias cada tres meses a las Salas y Juzgados con la finalidad de supervisar su funcionamiento. Al efecto los consejeros podrán apoyarse en los magistrados de las Salas que conozcan de la misma materia de adscripción distinta.
+
+> <small>(ADICIONADO, G.O. 21 DE ENERO DE 1999)</small>
+
+Asimismo, de cada visita se elaborará acta circunstanciada en la cual se hará constar el desarrollo de la misma, las quejas o denuncias presentadas en contra de los titulares y demás servidores del órgano de que se trate, las manifestaciones que respecto de la visita o del contenido del acta quisieran realizar los propios titulares o servidores del órgano, la firma del juez que corresponda y la del visitador; en caso de negarse el juez a firmar se hará constar esta situación en la misma y se recabará la firma de dos testigos de asistencia. Los visitadores deberán informar con la debida oportunidad, al titular de la Sala o del Juzgado, de la visita ordinaria de inspección que se vaya a practicar, a fin de que procedan a fijar el correspondiente aviso en los estrados del órgano con una anticipación mínima de 15 días hábiles, para el efecto de que las personas interesadas puedan acudir al momento de la visita y manifestar quejas y denuncias. Si se detectara la posible comisión de algún ilícito en contra de la administración de justicia se dará vista de inmediato al Ministerio Público.
+
+> <small>(ADICIONADO, G.O. 21 DE ENERO DE 1999)</small>
+
+También podrán los Consejeros realizar dichas visitas administrativas sin necesidad de previo aviso, cuando se trate de un medio de prueba dentro del trámite de una queja administrativa o de un procedimiento oficioso, o para verificar objetiva y oportunamente el eficaz funcionamiento de la instancia judicial de que trate.
 
 XII. Designar a un Secretario General del Consejo, el cual asistirá a las sesiones y dará fe de los acuerdos, así como al personal técnico y de apoyo. Las ausencias temporales del Secretario General serán suplidas por el funcionario designado por el Presidente del Consejo, dentro del personal técnico;
 
 XIII. Designar al Jurado que con la cooperación de instituciones públicas o privadas se integrará para el examen que presentarán las personas que deban ejercer los cargos de peritos, en los asuntos que se tramiten ante el Tribunal y dentro de los requisitos que esta Ley señale;
 
-XIV. Nombrar al Director del Archivo Judicial del Distrito Federal, Director de la Oficina de los Anales de Jurisprudencia y Boletín Judicial, Jefe de la Unidad de Trabajo Social, Titular de la Biblioteca, y Director de la Oficialía de Partes Común;
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 1999)</small>
+
+XIV. Nombrar al Director del Archivo Judicial del Distrito Federal, Director de la Oficina de los Anales de Jurisprudencia y Boletín Judicial, Director General de Administración, Director del Instituto de Estudios Judiciales, Jefe de la Unidad de Trabajo Social, Titular de la Biblioteca, y Director de la Oficialía de Partes Común;
 
 XV. Nombrar a los servidores públicos judiciales de base y de confianza, cuya designación no esté reservada a otra autoridad judicial, en los términos de esta Ley;
 
@@ -1702,7 +1760,9 @@ XXI. Elaborar y difundir la información estadística relevante desglosada por r
 
 Acatar las medidas que se implanten para el control administrativo y seguimiento de los expedientes que se tramiten ante ellos, tomando las medidas necesarias para su cumplimiento;
 
-XXII. Dictar todas las medidas necesarias para la organización y funcionamiento de la Oficialía de Partes a que se refiere el artículo 173 de esta ley, y
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 1999)</small>
+
+XXII. Dictar todas las medidas necesarias para la organización y funcionamiento de la Oficialía de Partes a que se refiere el artículo 173 de esta ley, y expedir las reglas de turno ordinario y extraordinario de los juzgados penales, las cuales deberá hacer del conocimiento de Oficina Central de Consignaciones de la Procuraduría General de Justicia del Distrito Federal cuando menos con treinta días de anticipación.
 
 > <small>(ADICIONADA, G.O. 17 DE JUNIO DE 1997)</small>
 
@@ -1730,7 +1790,7 @@ V. Presidir el Pleno del Consejo, sus comisiones y dirigir los debates, conserva
 
 VI. Convocar a sesión extraordinaria cada vez que lo estime necesario, o si así lo piden más de dos consejeros;
 
-VII. Nombrar y remover libremente a los Directores de los organismos siguientes: Dirección General de Administración, Instituto de Estudios Judiciales y Dirección de Turno de Consignaciones Penales;
+VII. (DEROGADA, G.O. 21 DE ENERO DE 1999)
 
 VIII. Proponer al Consejo de la Judicatura el nombramiento y remoción del Director de Consignaciones Civiles;
 
@@ -1799,3 +1859,11 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 G.O. 17 DE JUNIO DE 1997.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 21 DE ENERO DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal, con excepción hecha de lo dispuesto por el artículo Tercero Transitorio del mismo Decreto.
+
+SEGUNDO.- Para su mayor difusión publíquese el presente Decreto en el Diario Oficial de la Federación.
+
+TERCERO.- Las reglas de turno a las que se refieren los artículos 51 y 201, fracción XII del presente Decreto deberán ser expedidas por el Consejo de la Judicatura dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto. En tanto se expidan estas reglas, seguirán vigentes las disposiciones del Capítulo IV del Título Octavo de la Ley Orgánica del Tribunal Superior del (sic) Justicia del Distrito Federal.
