@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-los-servicios-de-salud-de-nayarit-35577"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-13"
-last_updated: "2004-02-21"
+last_updated: "2005-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DE NAYARIT.
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 21 DE FEBRERO DE 2004.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 2005.
 
 Reglamento publicado en la sección novena del Periódico Oficial del Estado, el sábado 13 de diciembre de 2003.
 
@@ -233,8 +231,6 @@ El Director General ejercerá las facultades a que se refieren las fracciones I,
 
 ### CAPITULO VIII. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS DIRECCIONES
 
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 21 DE FEBRERO DE 2004 RECORRIÓ LA NUMERACIÓN PROGRESIVA DE LOS ARTÍCULOS 22 AL 37 EN LUGAR DE LOS 36 QUE ORIGINALMENTE APARECÍAN.]</small>
-
 > <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 21.
@@ -363,71 +359,85 @@ XIII. Dirigir y vigilar la implementación de sistemas tecnológicos que coadyuv
 
 XIV. Coordinar la ejecución y puesta en marcha del Programa de Calidad, Equidad y Desarrollo en Salud, así como en su difusión en el Estado; y
 
-XV. Las demás que le señale el Director General y otras disposiciones, en el ámbito de su competencia.
+(REFORMADA, P.O. 2 DE ABRIL DE 2005) (REPUBLICADA, P.O. 2 DE ABRIL DE 2005)
 
-> <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
+XV.- Coordinar, supervisar y evaluar el desarrollo de los programas y actividades de formación y capacitación de los recursos humanos para la salud mediante el establecimiento de modelos educativos y de atención a la salud;
+
+(REFORMADA, P.O. 2 DE ABRIL DE 2005) (REPUBLICADA, P.O. 2 DE ABRIL DE 2005)
+
+XVI.- Vigilar la asignación de campos clínicos, plazas de internado de pregrado, de servicio social de estudiantes, profesionales y de residencias en coordinación con las entidades del Sector Salud y las instituciones educativas;
+
+(REFORMADA, P.O. 2 DE ABRIL DE 2005) (REPUBLICADA, P.O. 2 DE ABRIL DE 2005)
+
+XVII.- Rendir informes al Director General del organismo de los proyectos de apertura y funcionamiento de las instituciones dedicadas a la formación y desarrollo de recursos humanos para la salud que se establezcan en el Estado;
+
+(REFORMADA, P.O. 2 DE ABRIL DE 2005) (REPUBLICADA, P.O. 2 DE ABRIL DE 2005)
+
+XVIII.- Coordinar el seguimiento de las actividades del Comité Estatal Interinstitucional para la formación y capacitación de recursos humanos e investigación para la salud;
+
+(REFORMADA, P.O. 2 DE ABRIL DE 2005) (REPUBLICADA, P.O. 2 DE ABRIL DE 2005)
+
+XIX.- Dirigir el cumplimiento de los convenios de colaboración que el organismo celebre con instituciones educativas, dependencias y organismos del sector público o privado en materia de educación, capacitación e investigación; y
+
+(REPUBLICADA, P.O. 2 DE ABRIL DE 2005)
+
+XX.- Las demás que le señale el Director General y otras disposiciones, en el ámbito de su competencia.
+
+(REFORMADO, P.O. 2 DE ABRIL DE 2005) (REPUBLICADO, P.O. 2 DE ABRIL DE 2005)
 
 ###### ARTICULO 24.
 
-La Dirección de Servicios de Salud tiene las siguientes atribuciones:
+La Dirección de Servicios de Salud, tiene las siguientes atribuciones:
 
-l. Coordinar, supervisar y evaluar el desarrollo de los programas y actividades de formación y capacitación de los recursos humanos para la salud mediante el establecimiento de modelos educativos y de atención a la salud;
+l. Vigilar el cumplimiento de las normas oficiales mexicanas a que deberá sujetarse la investigación para la salud, especialmente la que se desarrolle en seres humanos;
 
-II. Vigilar la asignación de campos clínicos, plazas de Internado de pregrado, de servido social de estudiantes, profesionales y de residencias en coordinación con las entidades del Sector salud y las instituciones educativas;
+II. Promover, coordinar y evaluar la profesionalización, desarrollo gerencial y actualización permanente del personal institucional y, en su caso, comunitario mediante la capacitación en materia de promoción de (sic) os servicios;
 
-III. Rendir informes al Director General del organismo de los proyectos de apertura y funcionamiento de las instituciones dedicadas a la formación y desarrollo de recursos humanos para las (sic) salud que se establezcan en el Estado;
+III. Desarrollar las estrategias integrales para crear y fortalecer en la población las oportunidades para mejorar, conservar y proteger su salud física, mental y social, a través de la comunicación educativa, la educación para la salud y la participación social organizada y corresponsable;
 
-IV. Vigilar el cumplimiento de las normas oficiales mexicanas a que deberá sujetarse la investigación para la salud, especialmente la que se desarrolle en seres humanos;
+IV. Asesorar, supervisar y evaluar el desempeño, avance, resultado e impacto social de los programas y las acciones de promoción de la salud;
 
-V. Promover, coordinar y evaluar la profesionalización, desarrollo gerencial y actualización permanente del personal Institucional y, en su caso, comunitario mediante la capacitación en materia de promoción de los servidos;
+V. Promover, coordinar y desarrollar investigaciones en materia de promoción de la salud, en coordinación con las unidades administrativas competentes;
 
-VI. Desarrollar las estrategias Integrales para crear y fortalecer en la población las oportunidades para mejorar, conservar y proteger su salud física, mental y social, a través de la comunicación educativa, la educación para la salud y la participación social organizada y corresponsable;
+VI. Fungir como apoyo técnico en la Red Estatal de Municipios por la Salud y brindarle asesoría para su organización y el desarrollo de sus funciones;
 
-VII. Asesorar, supervisar y evaluar el desempeño, avance, resultado e Impacto SociaI de los programas y las acciones de promoción de la salud;
+VII. Difundir y evaluar las políticas y estrategias contendidas en el Programa Estatal de Salud Reproductiva;
 
-VIII. Promover, coordinar y desarrollar Investigaciones en materia de promoción de la salud, en coordinación con las unidades administrativas competentes;
+VIII. Coordinar las investigaciones dirigidas a identificar los problemas que alteran la salud reproductiva de la población, a fin de ampliar los conocimientos sobre sus causas y las estrategias para su prevención, curación y atención efectivas; en coordinación con las unidades administrativas competentes;
 
-IX. Fungir como apoyo técnico en la Red Estatal de Municipios por la Salud y brindarle asesoría para su organización y el desarrollo de sus funciones;
+IX. Promover, en coordinación con la unidad administrativa competente, estudios e investigaciones en materia de adicciones y salud mental;
 
-X. Difundir y evaluar las políticas y estrategias contenidas en el Programa Estatal de Salud Reproductiva;
+X. Coordinar la elaboración de programas en materia de adicciones, salud mental y de atención y control de trastornos mentales y neurológicos y establecer los mecanismos necesarios para mantenerlos actualizados;
 
-XI. Coordinar las investigaciones dirigidas a identificar los problemas que alteran la salud reproductiva de la población, a fin de ampliar los conocimientos sobre sus causas y las estrategias por su prevención, curación y atención efectivas; en coordinación con las unidades administrativas competentes;
+XI. Coadyuvar al establecimiento de medidas para la adecuada operación del Consejo Estatal contra las Adicciones y supervisar los mecanismos necesarios para el seguimiento y cumplimiento de los acuerdos establecidos en las sesiones del mismo, así como otorgar una amplia difusión de sus reuniones;
 
-XII. Promover, en coordinación con la unidad administrativa competente, estudios e Investigaciones en materia de adicciones y salud mental;
+XII. Proponer las medidas de coordinación y cooperación con los comités
 
-XIII. Coordinar la elaboración de los programas en materia de adicciones, salud mental y de atención y control de trastornos mentales y neurológicos y establecer los mecanismos necesarios para mantenerlos actualizados;
+municipales contra las adicciones, para la eficaz ejecución de los programas en materia de adicciones y salud mental;
 
-XIV. Coadyuvar al establecimiento de medidas para la adecuada operación del Consejo Estatal contra las Adicciones y supervisar los mecanismos necesarios para el seguimiento y cumplimiento de los acuerdos establecidos en las sesiones del mismo, así como para otorgar una amplia difusión de sus reuniones;
+XIII. Promover y apoyar la creación de instituciones por los sectores público, social y privado, que atiendan problemas relacionados con las adicciones y la salud mental;
 
-XV. Proponer las medidas de coordinación y cooperación con los comités municipales contra las adicciones, para la eficaz ejecución de los programas en materia de adicciones y salud mental;
+XIV. Vigilar y evaluar la aplicación de la política estatal en materia de atención a la salud del adulto y del anciano, de prevención y control de enfermedades transmisibles y no transmisibles y de accidentes, de atención de urgencias epidemiológicas y desastres, de prevención y tratamiento de la salud bucal;
 
-XVI. Promover y apoyar la creación de instituciones por los sectores público, social y privado, que atiendan problemas relacionados con las adicciones y salud mental;
+XV. Coordinar el Sistema Estatal de Vigilancia Epidemiológica, y coadyuvar en las acciones de vigilancia epidemiológica nacional;
 
-XVII. Vigilar y evaluar la aplicación de la política estatal en materia de atención a la salud del adulto y del anciano, de prevención y control de enfermedades transmisibles y no transmisibles y de accidentes, de atención de urgencias epidemiológicas y desastres, de prevención y tratamiento de la salud bucal;
+XVI. Proponer, coordinar y evaluar los programas de actividades para el control de las enfermedades transmisibles por vectores de otros artrópodos y zoonosis;
 
-XVIII. Coordinar el Sistema Estatal de Vigilancia Epidemiológica, y coadyuvar en las acciones de vigilancia epidemiológica nacional;
+XVII. Proponer, coordinar y evaluar los programas de actividades para el control de accidentes, atención de urgencias, desastres y vigilancia epidemiológica que lleve a cabo el organismo;
 
-XIX. Proponer, coordinar y evaluar los programas de actividades para el control de las enfermedades transmisibles por vectores de otros artrópodos y zoonosis;
+XVIII. Integrar y mantener actualizado el Catalogo Estatal de Fauna Vectorial y de otros artrópodos, que surjan como posibles problemas sanitarios en la Entidad y proponer las acciones conducentes para su control;
 
-XX. Proponer, coordinar y evaluar los programas de actividades para el control de accidentes, atención de urgencias, desastres y vigilancia epidemiológica que lleve a cabo el organismo;
+XIX. Fungir como Secretario Técnico del Consejo Estatal de Vacunación; así como del Consejo Estatal para la prevención y control del Síndrome de la Inmunodeficiencia Adquirida;
 
-XXI. Integrar y mantener actualizado el Catálogo Estatal de Fauna Vectorial y de otros artrópodos, que surjan como posibles problemas sanitarios en la Entidad y proponer las acciones conducentes para su control;
+XX. Aplicar, difundir y evaluar las políticas, estrategias, lineamientos y procedimientos en materia de vacunación para toda la población residente en el Estado de Nayarit;
 
-XXII. Fungir como Secretario Técnico del Consejo Estatal de Vacunación; así como del Consejo Estatal para la prevención y el control del Síndrome de la Inmunodeficiencia Adquirida;
+XXI. Coordinar la promoción en el sector educativo de las acciones para crear una cultura de prevención sobre salud sexual entre la población adolescente;
 
-XXIII. Aplicar, difundir y evaluar las políticas, estrategias, lineamientos y procedimientos en materia de vacunación para toda la población residente en el Estado de Nayarit;
+XXII. Difundir, supervisar y aplicar el desarrollo de las políticas y estrategias nacionales en materia de prevención, atención y control de infecciones por el virus de la inmunodeficiencia humana, el síndrome de la inmunodeficiencia adquirida y las infecciones de transmisión sexual, así como formular el programa operativo en esta área;
 
-XXIV. Coordinar la promoción en el sector educativo de las acciones para crear una cultura de prevención sobre salud sexual entre la población adolescente;
+XXIII. Coordinar el funcionamiento del Centro Estatal de Capacitación para la atención integral de la salud de la mujer, instalado en el Hospital de San Francisco, Nayarit; y
 
-XXV. Difundir, supervisar y aplicar el desarrollo de las políticas y estrategias nacionales en materia de prevención, atención y control de infecciones por el virus de la inmunodeficiencia humana, el síndrome de la inmunodeficiencia adquirida y las infecciones de transmisión sexual, así como formular el programa operativo en esta área;
-
-XXVI. Coordinar el seguimiento de las actividades del Comité Estatal Interistitucional (sic) para la formación y capacitación de recursos humanos e investigación para la salud;
-
-XXVII. Dirigir el cumplimiento de los convenios de colaboración que el organismo celebre con instituciones educativas, dependencias y organismos del sector público o privado en materia de educación, capacitación e investigación;
-
-XXVIII. Coordinar el funcionamiento del Centro Estatal de Capacitación para la atención integral de la Salud de la Mujer, instalado en el Hospital de San Francisco, Nayarit; y
-
-XIX. Las demás que le señale el Director General y otras disposiciones, en el ámbito de su competencia.
+XXIV. Las demás que le señale el Director General y otras disposiciones, en el ámbito de su competencia.
 
 > <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
 
@@ -674,3 +684,9 @@ DIRECTOR GENERAL DE LOS SERVICIOS DE EDUCACION PUBLICA DEL ESTADO DE NAYARIT.
 DR. ROBERTO S. YAÑEZ FRANCO
 
 DIRECTOR GENERAL DE LOS SERVICIOS DE SALUD DE NAYARIT.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE ABRIL DE 2005.
+
+ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial Organo de Gobierno del Estado.
