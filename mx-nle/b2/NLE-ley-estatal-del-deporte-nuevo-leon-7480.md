@@ -4,7 +4,7 @@ identifier: "NLE-ley-estatal-del-deporte-nuevo-leon-7480"
 country: "mx"
 rank: "ley"
 publication_date: "1993-11-17"
-last_updated: "1993-11-26"
+last_updated: "1995-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ESTATAL DEL DEPORTE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 17 de noviembre de 1993.
 
@@ -283,7 +283,9 @@ VII.- Representar a su Club, Asociación, Federación, Municipio, Estado o al Pa
 
 VIII.- Participar en la elaboración del Programa Estatal del Deporte, así como de programas y reglamentos deportivos a convocatoria de la autoridad rectora;
 
-IX.- Ejercer el derecho de voto como miembro de la Asociación u Organización a la que pertenezca, así como desempeñar cargos directivos de representación;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1995)</small>
+
+IX.- Ejercer el derecho de voz y voto como miembro de la Asociación u Organización a la que pertenezca, así como desempeñar cargos directivos de representación;
 
 X.- Obtener de las autoridades correspondientes el registro que lo acredite como deportista;
 
@@ -303,7 +305,9 @@ III.- Asistir a competencias cuando sean requeridos representando dignamente a s
 
 IV.- Participar en las consultas públicas a que se convoque para la elaboración del Programa Estatal del Deporte, así como los programas y reglamentos deportivos de su especialidad;
 
-V.- Ejercer su derecho de voto en el seno de la asociación y organización a la que pertenezcan;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1993)</small>
+
+V.- Ejercer su derecho de voz y voto en el seno de la Asociación u Organización a la que pertenezcan;
 
 VI.- Cuidar y vigilar que las instalaciones en que practiquen su deporte, se conserven en buen estado; y
 
@@ -598,3 +602,7 @@ GUSTAVO ALARCON MARTINEZ
 P.O. 26 DE NOVIEMBRE DE 1993.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE MAYO DE 1995.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Gobierno del Estado.
