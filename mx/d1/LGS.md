@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "1997-05-07"
+last_updated: "2000-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MAYO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE MAYO DE 2000.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación el martes 7 de febrero de 1984.
 
@@ -348,7 +348,9 @@ IX.- Las demás que le correspondan conforme a la fracción XVI del artículo 73
 
 Las bases y modalidades de ejercicio coordinado de las atribuciones de la Federación y de las entidades federativas en la prestación de servicios de salubridad general, se establecerán en los acuerdos de coordinación que suscriba la Secretaría de Salud con los gobiernos de las entidades federativas, en el marco del Convenio Unico de Desarrollo.
 
-La Secretaría de Salud procurará la celebración de acuerdos de coordinación con los gobiernos de las entidades federativas, para la participación de éstos en la prestación de los servicios a que se refieren las fracciones III, XXI, XXII, XXIII, XXIV, XXV, XXVI y XXVII del artículo 3o. de esta Ley.
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+
+La Secretaría de Salud propondrá la celebración de acuerdos de coordinación con los gobiernos de las entidades federativas para la participación de éstos en la prestación de los servicios a que se refieren las fracciones I, III, XXI, XXII, XXIII, XXIV, XXV, XXVI y XXVII del artículo 3o. de esta Ley.
 
 ###### ARTICULO 19.
 
@@ -1694,7 +1696,7 @@ substancias tóxicas o peligrosas
 
 ### CAPITULO I. Disposiciones comunes
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 167.
 
@@ -1798,9 +1800,9 @@ La Secretaría de Salud y los gobiernos de las entidades federativas, en coordin
 
 ## TITULO DECIMO TERCERO. Publicidad
 
-### CAPITULO II. Órganos, tejidos y células
+### CAPITULO II. Donación
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 181.
 
@@ -1836,7 +1838,9 @@ V.- Las demás que determine la propia Secretaría.
 
 ## TITULO DECIMO QUINTO. Sanidad Internacional
 
-### CAPITULO III. Cadáveres
+### CAPITULO III. Trasplantes
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 184 Bis.
 
@@ -1844,9 +1848,9 @@ Se crea el Consejo Nacional Contra las Adicciones, que tendrá por objeto promov
 
 La organización y funcionamiento del Consejo se regirán por las disposiciones que expida el Ejecutivo Federal.
 
-### CAPITULO I. Disposiciones comunes
+### CAPITULO IV. Pérdida de la vida
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 185.
 
@@ -1876,9 +1880,13 @@ IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social,
 
 En el marco del Sistema Nacional de Salud, la Secretaría de Salud coordinará las acciones que se desarrollen contra el alcoholismo y el abuso de bebidas alcohólicas. La coordinación en la adopción de medidas, en los ámbitos federal y local, se llevará a cabo a través de los acuerdos de coordinación que celebre la Secretaría de Salud con los gobiernos de las entidades federativas.
 
-### CAPITULO II. Sanidad en Materia de Migración
+### CAPITULO V. Cadáveres
 
-### CAPITULO III. Sanidad marítima, aérea y terrestre
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
+
+### CAPITULO I. Disposiciones comunes
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 188.
 
@@ -1904,7 +1912,7 @@ En el marco del Sistema Nacional de Salud, la Secretaría de Salud coordinará l
 
 La coordinación en la adopción de medidas en los ámbitos federal y local se llevará a cabo a través de los acuerdos de coordinación que celebre la Secretaría de Salud con los gobiernos de las entidades federativas.
 
-### CAPITULO I. Autorizaciones
+### CAPITULO II. Sanidad en Materia de Migración
 
 ###### ARTICULO 191.
 
@@ -1928,7 +1936,7 @@ Los profesionales de la salud, al prescribir medicamentos que contengan substanc
 
 ## TITULO DECIMO SEXTO. Autorizaciones y certificados
 
-### CAPITULO II. Revocación de autorizaciones sanitarias
+### CAPITULO III. Sanidad marítima, aérea y terrestre
 
 ###### ARTICULO 194.
 
@@ -2132,7 +2140,7 @@ Los envases y embalajes de los productos a que se refiere este título deberán 
 
 La Secretaría de Salud publicará en el Diario Oficial de la Federación las normas oficiales mexicanas que expida y, en caso necesario, las resoluciones sobre otorgamiento y revocación de autorizaciones sanitarias de medicamentos, estupefacientes, substancias psicotrópicas y productos que los contengan, equipos médicos, plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas, así como de las materias primas que se utilicen en su elaboración.
 
-### CAPITULO III. Certificados
+### CAPITULO I. Autorizaciones
 
 ###### ARTICULO 215.
 
@@ -2164,9 +2172,7 @@ La Secretaría de Salud, con base en la composición de los alimentos y bebidas,
 
 Los alimentos o bebidas que se pretendan expender o suministrar al público en presentaciones que sugieran al consumidor que se trate de productos o substancias con características o propiedades terapéuticas, deberán en las etiquetas de los empaques o envases incluir la siguiente leyenda: “Este producto no es un medicamento”, escrito con letra fácilmente legible y en colores contrastantes.
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+### CAPITULO II. Revocación de autorizaciones sanitarias
 
 ###### ARTICULO 217.
 
@@ -2190,9 +2196,7 @@ La Secretaría de Salud, en su caso, publicará en el Diario Oficial de la Feder
 
 En ningún caso y de ninguna forma se podrán expender o suministrar bebidas alcohólicas a menores de edad.
 
-### CAPITULO I. Medidas de Seguridad Sanitaria
-
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+### CAPITULO III. Certificados
 
 ###### ARTICULO 221.
 
@@ -2354,7 +2358,9 @@ Los medicamentos de origen biológico de acción inmunológica ostentarán en su
 
 Quedan prohibidos la venta y suministro de medicamentos con fecha de caducidad vencida.
 
-### CAPITULO II. Sanciones Administrativas
+### CAPITULO UNICO
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 234.
 
@@ -2466,7 +2472,9 @@ Los citados establecimientos recogerán invariablemente las recetas o permisos, 
 
 Los preparados que contengan acetildihidrocodeína, codeína, destropropoxifeno, dihidrocodeína, etilmorfina, folcodina, nicocodina, corcodeína y propiram, que formen parte de la composición de especialidades farmacéuticas, estarán sujetos, para los fines de su preparación, prescripción y venta o suministro al público, a los requisitos que sobre su formulación establezca la Secretaría de Salud.
 
-### CAPITULO III. Procedimiento Para Aplicar las Medidas de Seguridad y Sanciones
+### CAPITULO I. Medidas de Seguridad Sanitaria
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 244.
 
@@ -2950,7 +2958,7 @@ Los medicamentos que tengan incorporadas substancias psicotrópicas que puedan c
 
 Los envases y empaques de las substancias psicotrópicas, para su expendio llevarán etiquetas que, además de los requisitos que determina el artículo 210 de esta Ley, ostenten los que establezcan las disposiciones aplicables a la materia de este Capítulo.
 
-### CAPITULO IV. Recurso de inconformidad
+### CAPITULO II. Sanciones Administrativas
 
 ###### ARTICULO 257.
 
@@ -3018,7 +3026,7 @@ VI.- En los establecimientos señalados en la fracción XII, el Consejo de Salub
 
 En los casos en que resulten afectadas, por acción u omisión, la identidad, pureza, conservación, preparación, dosificación o manufactura de los productos, el responsable del establecimiento y el propietario del mismo responderán solidariamente de las sanciones que correspondan en los términos que señalen esta Ley y demás disposiciones legales aplicables.
 
-### CAPITULO V. Prescripción
+### CAPITULO III. Procedimiento Para Aplicar las Medidas de Seguridad y Sanciones
 
 ###### ARTICULO 262.
 
@@ -3078,9 +3086,7 @@ Los insumos para la salud comprendidos en el artículo 262 de esta ley no podrá
 
 El proceso de los materiales quirúrgicos, de curación y productos higiénicos, quedará sujeto, en lo conducente, a las disposiciones del Capítulo IV de este Título.
 
-### CAPITULO VI. Delitos
-
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+### CAPITULO IV. Recurso de inconformidad
 
 ###### ARTICULO 269.
 
@@ -3105,6 +3111,12 @@ Los productos para adelgazar o engrosar partes del cuerpo o variar las proporcio
 ###### ARTICULO 272.
 
 En las etiquetas de los envases y empaques en los que se presenten los productos a que se refiere este Capítulo, además de lo establecido en el artículo 210 de esta Ley, en lo conducente, figurarán las leyendas que determinen las disposiciones aplicables.
+
+### CAPITULO V. Prescripción
+
+### CAPITULO VI. Delitos
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 273.
 
@@ -3506,7 +3518,7 @@ VII.- En el mensaje no podrán participar personas menores de 25 años, y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 27 DE MAYO DE 1987)</small>
 
-VIII.- En el mensaje deberán apreciarse fácilmente en forma, visual o auditiva, según el medio publicitario que se emplee, las leyendas a que se refieren los artículos 218 y 276 de esta Ley.
+VIII.- En el mensaje deberán apreciarse fácilmente, en forma visual o auditiva, según el medio publicitario que se emplee, las leyendas a que se refieren los artículos 218 y 276 de esta Ley.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -3556,299 +3568,441 @@ Sólo se autorizará la publicidad de medicamentos con base en los fines con que
 
 La Secretaría de Salud determinará en qué casos la publicidad de productos y servicios a que se refiere esta Ley deberá incluir, además de los ya expresados en este Capítulo, otros textos de advertencia de riesgos para la salud.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 26 DE MAYO DE 2000)</small>
 
 TITULO DECIMOCUARTO
 
-Control sanitario de la disposición de órganos, tejidos, células y cadáveres de seres humanos
+Donación, trasplantes y pérdida de la vida
 
 ###### ARTICULO 313.
 
-Compete a la Secretaría de Salud ejercer el control sanitario de la disposición de órganos, tejidos y sus componentes, células y cadáveres de seres humanos. Al efecto, la Secretaría de Salud tendrá a su cargo el Registro Nacional de Transplantes y al Centro Nacional de la Transfusión Sanguínea.
+Compete a la Secretaría de Salud:
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+I. El control sanitario de las donaciones y trasplantes de órganos, tejidos y células de seres humanos, por conducto del órgano desconcentrado centro nacional de trasplantes, y
+
+II. La regulación y el control sanitario sobre cadáveres.
+
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 314.
 
-Para efectos de este título, se entiende por:
+Para efectos de este título se entiende por:
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
+I. Células germinales, a las células reproductoras masculinas y femeninas capaces de dar origen a un embrión;
 
-I.- Disposición de órganos, tejidos y sus componentes, células y cadáveres de seres humanos: El conjunto de actividades relativas a la obtención, análisis, conservación, utilización, preparación, suministro y destino final de órganos, tejidos y sus componentes, células y derivados, productos y cadáveres de seres humanos, incluyendo los de preembriones, embriones y fetos, con fines terapéuticos, de docencia o investigación;
+II. Cadáver, al cuerpo humano en el que se compruebe la presencia de los signos de muerte referidos en la fracción II, del artículo 343 de esta Ley;
 
-II.- Cadáver: El cuerpo humano en el que se haya comprobado la pérdida de la vida;
+III. Componentes, a los órganos, los tejidos, las células y sustancias que forman el cuerpo humano, con excepción de los productos;
 
-III.- Células Germinales: Las células reproductoras masculinas y femeninas capaces de dar origen a un embrión;
+IV. Componentes sanguíneos, a los elementos de la sangre y demás sustancias que la conforman;
 
-IV.- PreEmbrión: El producto de la concepción hasta el término de la segunda semana de gestación;
+V. Destino final, a la conservación permanente, inhumación, incineración, desintegración e inactivación de órganos, tejidos, células y derivados, productos y cadáveres de seres humanos, incluyendo los de embriones y fetos, en condiciones sanitarias permitidas por esta Ley y demás disposiciones aplicables;
 
-V.- Embrión: El producto de la concepción a partir del inicio de la tercera semana de gestación y hasta el término de la décima segunda semana gestacional;
+VI. Disponente, a aquél que conforme a los términos de la ley le corresponde decidir sobre su cuerpo o cualquiera de sus componentes en vida y para después de su muerte;
 
-VI.- Feto: El producto de la concepción a partir de la décima tercera semana de edad gestacional, hasta la expulsión del seno materno;
+VII. Donador o donante, al que tácita o expresamente consiente la disposición de su cuerpo o componentes para su utilización en trasplantes;
 
-VII.- Tejido: Entidad morfológica compuesta por la agrupación de células de la misma naturaleza, ordenadas con regularidad y que desempeñen una misma función;
+VIII. Embrión, al producto de la concepción a partir de ésta, y hasta el término de la duodécima semana gestacional;
 
-VIII.- Organo: Entidad morfológica compuesta por la agrupación de tejidos diferentes que concurren al desempeño del mismo trabajo fisiológico;
+IX. Feto, al producto de la concepción a partir de la decimotercera semana de edad gestacional, hasta la expulsión del seno materno;
 
-IX.- Producto: Todo tejido o substancia excretada o expelida por el cuerpo humano como resultante de procesos fisiológicos normales. Serán considerados productos, para efectos de este título, la placenta y los anexos de la piel, y
+X. Órgano, a la entidad morfológica compuesta por la agrupación de tejidos diferentes que concurren al desempeño de los mismos trabajos fisiológicos;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
+XI. Producto, a todo tejido o sustancia extruida, excretada o expelida por el cuerpo humano como resultante de procesos fisiológicos normales. Serán considerados productos, para efectos de este Título, la placenta y los anexos de la piel;
 
-X.- Destino final: La conservación permanente, inhumación, desintegración e inactivación de órganos, tejidos, células y derivados, productos y cadáveres de seres humanos, incluyendo los de preembriones, embriones y fetos, en condiciones sanitarias permitidas por esta ley y demás disposiciones aplicables.
+XII. Receptor, a la persona que recibe para su uso terapéutico un órgano, tejido, células o productos;
+
+XIII. Tejido, a la entidad morfológica compuesta por la agrupación de células de la misma naturaleza, ordenadas con regularidad y que desempeñen una misma función, y
+
+XIV. Trasplante, a la transferencia de un órgano, tejido o células de una parte del cuerpo a otra, o de un individuo a otro y que se integren al organismo.
+
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 315.
 
-Se considerará como disponente originario, para efectos de este Título, a la persona con respecto a su propio cuerpo y los productos del mismo.
+Los establecimientos de salud que requieren de autorización sanitaria son los dedicados a:
+
+I. La extracción, análisis, conservación, preparación y suministro de órganos, tejidos y células;
+
+II. Los trasplantes de órganos y tejidos;
+
+III. Los bancos de órganos, tejidos y células, y
+
+IV. Los bancos de sangre y servicios de transfusión.
+
+La Secretaría otorgará la autorización a que se refiere el presente artículo a los establecimientos que cuenten con el personal, infraestructura, equipo, instrumental e insumos necesarios para la realización de los actos relativos, conforme a lo que establezcan las disposiciones de esta Ley y demás aplicables.
+
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 316.
 
-Serán disponentes secundarios:
+Los establecimientos a que se refiere el artículo anterior contarán con un responsable sanitario, quien deberá presentar aviso ante la Secretaría de Salud.
 
-I.- El cónyuge, el concubinario, la concubina, los ascendientes, descendientes y los parientes colaterales hasta el segundo grado del disponente originario;
+Los establecimientos en los que se extraigan órganos y tejidos o se realicen trasplantes, adicionalmente, deberán contar con un comité interno de trasplantes y con un coordinador de estas acciones, que serán supervisadas por el comité institucional de bioética respectivo.
 
-II.- A falta de los anteriores, la autoridad sanitaria, y
-
-III.- Los demás a quienes esta Ley y otras disposiciones generales aplicables les confieran tal carácter, con las condiciones y requisitos que se señalen en las mismas.
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 317.
 
-Para la certificación de la pérdida de la vida, deberá comprobarse previamente la existencia de los siguientes signos de muerte:
+Los órganos, tejidos y células no podrán ser sacados del territorio nacional.
 
-I.- La ausencia completa y permanente de conciencia;
+Los permisos para que los tejidos puedan salir del territorio nacional, se concederán siempre y cuando estén satisfechas las necesidades de ellos en el país, salvo casos de urgencia.
 
-II.- La ausencia permanente de respiración espontánea;
-
-III.- La falta de percepción y respuesta a los estímulos externos;
-
-IV.- La ausencia de los reflejos de los pares craneales y de los reflejos medulares;
-
-V.- La atonía de todos los músculos;
-
-VI.- El término de la regulación fisiológica de la temperatura corporal;
-
-VII.- El paro cardiaco irreversible, y
-
-VIII.- Las demás que establezca el reglamento correspondiente.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 318.
 
-La disposición de órganos y tejidos con fines terapéuticos, podrá realizarse de cadáveres en los que se haya certificado la pérdida de la vida en los términos del artículo 317 o de aquellos en que se compruebe la persistencia por seis horas de los signos a que se refieren las fracciones I, II, III, y IV del mismo artículo, y además las siguientes circunstancias:
+Para el control sanitario de los productos y de la disposición del embrión y de las células germinales, se estará a lo dispuesto en esta Ley, en lo que resulte aplicable, y en las demás disposiciones generales que al efecto se expidan.
 
-I.- Electroencefalograma isoeléctrico que no se modifique con estímulo alguno dentro del tiempo indicado, y
-
-II.- Ausencia de antecedentes inmediatos de ingestión de bromuros, barbitúricos, alcohol y otros depresores del sistema nervioso central, o hipotermia.
-
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
-
-Si antes de ese término se presentara un paro cardiaco irreversible, se determinará de inmediato la pérdida de la vida y se expedirá el certificado correspondiente.
-
-La certificación de muerte respectiva será expedida por dos profesionales distintos de los que integren el cuerpo técnico que intervendrá en el trasplante.
-
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 319.
 
-Los establecimientos en los cuales se realicen actos de disposición de órganos, tejidos y sus componentes y células requieren de autorización sanitaria.
+Se considerará disposición ilícita de órganos, tejidos, células y cadáveres de seres humanos, aquella que se efectúe sin estar autorizada por la Ley.
 
-En el caso de los establecimientos en los que se realicen actos relacionados con cadáveres de seres humanos, se deberá presentar el aviso correspondiente a la Secretaría de Salud en los términos de esta ley y demás disposiciones generales aplicables.
-
-Los profesionales responsables de los actos a que se refieren los párrafos anteriores también deberán presentar aviso.
-
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 320.
 
-Se considerará disposición ilícita de órganos, tejidos, células y cadáveres de seres humanos, a aquélla que se realiza en contra de la ley y el orden público.
+Toda persona es disponente de su cuerpo y podrá donarlo, total o parcialmente, para los fines y con los requisitos previstos en el presente Título.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 321.
 
-Los trasplantes de órganos, tejidos y células en seres humanos vivos podrán llevarse a cabo con fines terapéuticos, solamente cuando hayan sido satisfactorios los resultados de las investigaciones realizadas al efecto, representen un riesgo aceptable para la salud y la vida del disponente originario y del receptor, y siempre que existan justificantes de orden terapéutico.
+La donación en materia de órganos, tejidos, células y cadáveres, consiste en el consentimiento tácito o expreso de la persona para que, en vida o después de su muerte, su cuerpo o cualquiera de sus componentes se utilicen para trasplantes.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 322.
 
-Salvo tratándose de la sangre, componentes sanguíneos y células progenitoras hematopoyéticas, la obtención de órganos o tejidos y sus componentes de seres humanos con fines terapéuticos, se hará preferentemente en cadáveres.
+La donación expresa constará por escrito y podrá ser amplia cuando se refiera a la disposición total del cuerpo o limitada cuando sólo se otorgue respecto de determinados componentes.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+En la donación expresa podrá señalarse que ésta se hace a favor de determinadas personas o instituciones. También podrá expresar el donante las circunstancias de modo, lugar y tiempo y cualquier otra que condicione la donación.
+
+La donación expresa, cuando corresponda a mayores de edad con capacidad jurídica, no podrá ser revocada por terceros, pero el donante podrá revocar su consentimiento en cualquier momento, sin responsabilidad de su parte.
+
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 323.
 
-La selección del disponente originario y del receptor de órganos, tejidos y sus componentes y células, para trasplante o transfusión, se hará siempre por prescripción y bajo control médico, en los términos que fije la Secretaría de Salud.
+Se requerirá el consentimiento expreso:
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+I. Para la donación de órganos y tejidos en vida, y
+
+II. Para la donación de sangre, componentes sanguíneos y células progenitoras hematopoyéticas.
+
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 324.
 
-Para efectuar la toma de órganos y tejidos se requiere el consentimiento expreso y por escrito del disponente originario, libre de coacción física o moral, otorgado ante notario o en documento expedido ante dos testigos idóneos y con las demás formalidades que al efecto señalen las disposiciones aplicables.
+Habrá consentimiento tácito del donante cuando no haya manifestado su negativa a que su cuerpo o componentes sean utilizados para trasplantes, siempre y cuando se obtenga también el consentimiento de alguna de las siguientes personas: el o la cónyuge, el concubinario, la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante; conforme a la prelación señalada.
 
-Tratándose de sangre, componentes sanguíneos y células progenitoras hematopoyéticas, bastará el simple consentimiento por escrito del donante.
+El escrito por el que la persona exprese no ser donador, podrá ser privado o público, y deberá estar firmado por éste, o bien, la negativa expresa podrá constar en alguno de los documentos públicos que para este propósito determine la Secretaría de Salud en coordinación con otras autoridades competentes.
 
-El disponente originario podrá revocar el consentimiento en cualquier momento y sin responsabilidad de su parte.
+Las disposiciones reglamentarias determinarán la forma para obtener dicho consentimiento.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JUNIO DE 1991) (F. DE E., D.O.F. 12 DE JULIO DE 1991)
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 325.
 
-Cuando el disponente originario no haya otorgado su consentimiento en vida para la utilización de órganos, tejidos y sus componentes de su cadáver, se requerirá el consentimiento o autorización de los disponentes a que se refiere el artículo 316 de esta ley; excepto cuando la autoridad competente, de conformidad con la ley, ordene la necropsia, en cuyo caso la toma de órganos, tejidos y sus componentes no requerirá de autorización o consentimiento alguno.
+El consentimiento tácito sólo aplicará para la donación de órganos y tejidos una vez que se confirme la pérdida de la vida del disponente.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+En el caso de la donación tácita, los órganos y tejidos sólo podrán extraerse cuando se requieran para fines de trasplantes.
 
-Las disposiciones reglamentarias señalarán los requisitos a que se sujetará la obtención de órganos y tejidos en los casos a que se refiere este artículo.
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 326.
 
-No será válido el consentimiento otorgado por:
+El consentimiento tendrá las siguientes restricciones respecto de las personas que a continuación se indican:
 
-I.- Menores de edad;
+I. El tácito o expreso otorgado por menores de edad, incapaces o por personas que por cualquier circunstancia se encuentren impedidas para expresarlo libremente, no será válido, y
 
-II.- Incapaces, o
+II. El expreso otorgado por una mujer embarazada sólo será admisible si el receptor estuviere en peligro de muerte, y siempre que no implique riesgo para la salud de la mujer o del producto de la concepción.
 
-III.- Personas que por cualquier circunstancia no puedan expresarlo libremente.
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 327.
 
-Cuando el consentimiento provenga de una mujer embarazada, sólo será admisible para la toma de tejidos con fines terapéuticos si el receptor correspondiente estuviere en peligro de muerte, y siempre que no implique riesgo para la salud de la mujer o del producto de la concepción.
+Está prohibido el comercio de órganos, tejidos y células. La donación de éstos con fines de trasplantes, se regirá por principios de altruismo, ausencia de ánimo de lucro y confidencialidad, por lo que su obtención y utilización serán estrictamente a título gratuito.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 328.
 
-Las personas privadas de su libertad podrán otorgar su consentimiento para la utilización de sus órganos y tejidos con fines terapéuticos, solamente cuando el receptor sea cónyuge, concubinario, concubina o familiar del disponente originario de que se trate.
+Sólo en caso de que la pérdida de la vida del donante esté relacionada con la averiguación de un delito, se dará intervención al Ministerio Público y a la autoridad judicial, para la extracción de órganos y tejidos.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 329.
 
-Los establecimientos de salud, previa autorización de la Secretaría de Salud, podrán instalar y mantener para fines terapéuticos: bancos de órganos, tejidos, y sus componentes y de células, los que serán utilizados bajo responsabilidad técnica de la dirección del establecimiento de que se trate y de conformidad con las disposiciones aplicables.
+El Centro Nacional de Trasplantes hará constar el mérito y altruismo del donador y de su familia, mediante la expedición del testimonio correspondiente que los reconozca como benefactores de la sociedad.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 330.
 
-La disposición de sangre, componentes sanguíneos y células progenitoras hematopoyéticas con fines terapéuticos estará a cargo de bancos de sangre y servicios de transfusión, que se instalarán y funcionarán de acuerdo con las disposiciones aplicables y previa autorización de la Secretaría de Salud. La sangre será considerada como tejido.
+Los trasplantes de órganos, tejidos y células en seres humanos vivos podrán llevarse a cabo cuando hayan sido satisfactorios los resultados de las investigaciones realizadas al efecto, representen un riesgo aceptable para la salud y la vida del donante y del receptor, y siempre que existan justificantes de orden terapéutico.
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+Está prohibido:
+
+I. El trasplante de gónadas o tejidos gonadales, y
+
+II. El uso, para cualquier finalidad, de tejidos embrionarios o fetales producto de abortos inducidos.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 331.
 
-La Secretaría de Salud otorgará la autorización a que se refiere el artículo anterior, a los establecimientos que cuenten con el personal técnico y el equipo e instrumental necesario para la obtención, análisis, preservación sanitaria y suministro de la sangre y sus componentes y derivados con fines terapéuticos, y que tengan como responsable a un profesional médico capacitado en la materia.
+La obtención de órganos o tejidos para trasplantes se hará preferentemente de sujetos en los que se haya comprobado la pérdida de la vida.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 332.
 
-La sangre humana, componentes sanguíneos y células progenitoras hematopoyéticas, sólo podrán obtenerse de voluntarios que los proporcionen gratuitamente y en ningún caso podrán ser objeto de actos de comercio.
+La selección del donante y del receptor se hará siempre por prescripción y bajo control médico, en los términos que fije la Secretaría de Salud.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+No se podrán tomar órganos y tejidos para trasplantes de menores de edad vivos, excepto cuando se trate de trasplantes de médula ósea, para lo cual se requerirá el consentimiento expreso de los representantes legales del menor.
+
+Tratándose de menores que han perdido la vida, sólo se podrán tomar sus órganos y tejidos para trasplantes con el consentimiento expreso de los representantes legales del menor.
+
+En el caso de incapaces y otras personas sujetas a interdicción no podrá disponerse de sus componentes, ni en vida ni después de su muerte.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 333.
 
-Los órganos y tejidos de seres humanos, incluyendo la sangre y hemoderivados, no podrán internarse o salir del territorio nacional sin permiso previo de la Secretaría de Salud, aplicándose, en lo conducente, las disposiciones del Capítulo XIII del Título Décimo Segundo de esta Ley.
+Para realizar trasplantes entre vivos, deberán cumplirse los siguientes requisitos respecto del donante:
 
-Los permisos para que la sangre y hemoderivados puedan salir del territorio nacional, se concederán siempre y cuando estén satisfechas las necesidades de ellos en el país, salvo casos de emergencia.
+I. Ser mayor de edad y estar en pleno uso de sus facultades mentales;
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+II. Donar un órgano o parte de él que al ser extraído su función pueda ser compensada por el organismo del donante de forma adecuada y suficientemente segura;
+
+III. Tener compatibilidad aceptable con el receptor;
+
+IV. Recibir información completa sobre los riesgos de la operación y las consecuencias de la extracción del órgano o tejido, por un médico distinto de los que intervendrán en el trasplante;
+
+V. Haber otorgado su consentimiento en forma expresa, en términos del artículo 322 de esta Ley, y
+
+VI. Tener parentesco por consanguinidad, por afinidad o civil o ser cónyuge, concubina o concubinario del receptor. Cuando se trate del trasplante de médula ósea no será necesario este requisito.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 334.
 
-Cualquier órgano o tejido que haya sido desprendido o seccionado por intervención quirúrgica, accidente o hecho ilícito, deberá ser manejado en condiciones higiénicas y su destino final será la incineración, salvo que se requiera para fines terapéuticos, de docencia o de investigación, en cuyo caso los establecimientos de salud podrán disponer de ellos o remitirlos a instituciones docentes autorizadas por la Secretaría de Salud, en los términos de esta ley y demás disposiciones generales aplicables.
+Para realizar trasplantes de donantes que hayan perdido la vida, deberá cumplirse lo siguiente:
+
+I. Comprobar, previamente a la extracción de los órganos y tejidos y por un médico distinto a los que intervendrán en el trasplante o en la obtención de los órganos o tejidos, la pérdida de la vida del donante, en los términos que se precisan en este Título;
+
+II. Existir consentimiento expreso del disponente o no constar su revocación del tácito para la donación de sus órganos y tejidos, y
+
+III. Asegurarse que no exista riesgo sanitario.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 335.
 
-El control sanitario de los productos a que se refiere este Título, se llevará a cabo de conformidad con las disposiciones de esta Ley, en lo conducente, y de las demás disposiciones aplicables.
+Los profesionales de las disciplinas para la salud que intervengan en la extracción de órganos y tejidos o en trasplantes deberán contar con el entrenamiento especializado respectivo, conforme lo determinen las disposiciones reglamentarias aplicables, y estar inscritos en el Registro Nacional de Trasplantes.
+
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 336.
 
-Los cadáveres no pueden ser objeto de propiedad y siempre serán tratados con respeto y consideración.
+Para la asignación de órganos y tejidos de donador no vivo, se tomará en cuenta la gravedad del receptor, la oportunidad del trasplante, los beneficios esperados, la compatibilidad con el receptor y los demás criterios médicos aceptados.
+
+Cuando no exista urgencia o razón médica para asignar preferentemente un órgano o tejido, ésta se sujetará estrictamente a listas que se integrarán con los datos de los mexicanos en espera, y que estarán a cargo del Centro Nacional de Trasplantes.
+
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 337.
 
-Para los efectos de este Título, los cadáveres se clasifican de la siguiente manera:
+Los concesionarios de los diversos medios de transporte otorgarán todas las facilidades que requiera el traslado de órganos y tejidos destinados a trasplantes, conforme a las disposiciones reglamentarias aplicables y las normas oficiales mexicanas que emitan conjuntamente las secretarías de Comunicaciones y Transportes y de Salud.
 
-I.- De personas conocidas, y
+El traslado, la preservación, conservación, manejo, etiquetado, claves de identificación y los costos asociados al manejo de órganos, tejidos y células que se destinen a trasplantes, se ajustarán a lo que establezcan las disposiciones generales aplicables.
 
-II.- De personas desconocidas.
-
-Los cadáveres no reclamados dentro de las setenta y dos horas posteriores al fallecimiento y aquéllos de los que se ignore su identidad, serán considerados como de personas desconocidas.
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 338.
 
-La inhumación o incineración de cadáveres sólo podrá realizarse con la autorización del encargado o del juez del Registro Civil que corresponda, quien se asegurará del fallecimiento y sus causas, y exigirá la presentación del certificado de defunción.
+El Centro Nacional de Trasplantes tendrá a su cargo el Registro Nacional de Trasplantes, el cual integrará y mantendrá actualizada la siguiente información:
+
+I. Los datos de los receptores, de los donadores y fecha del trasplante;
+
+II. Los establecimientos autorizados conforme al artículo 315 de esta Ley;
+
+III. Los profesionales de las disciplinas para la salud que intervengan en trasplantes;
+
+IV. Los pacientes en espera de algún órgano o tejido, integrados en listas estatales y nacional, y
+
+V. Los casos de muerte cerebral.
+
+En los términos que precisen las disposiciones reglamentarias, los establecimientos a que se refiere el artículo 315 de esta Ley y los profesionales de las disciplinas para la salud que intervengan en trasplantes deberán proporcionar la información relativa a las fracciones I, III, IV y V de este artículo.
+
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 339.
 
-Los cadáveres deberán inhumarse, incinerarse o embalsamarse entre las doce y cuarenta y ocho horas siguientes a la muerte, salvo autorización específica de la autoridad sanitaria competente o por disposición del Ministerio Público o de la autoridad judicial.
+El Centro Nacional de Trasplantes, cuya integración y funcionamiento quedará establecido en las disposiciones reglamentarias que para efectos de esta Ley se emitan, así como los Centros Estatales de Trasplantes que establezcan los gobiernos de las entidades federativas, decidirán y vigilarán la asignación de órganos, tejidos y células, dentro de sus respectivos ámbitos de competencia. Asimismo, actuarán coordinadamente en el fomento y promoción de la cultura de la donación, para lo cual, participarán con el Consejo Nacional de Trasplantes, cuyas funciones, integración y organización se determinarán en el reglamento respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+Los centros estatales proporcionarán al Registro Nacional de Trasplantes la información correspondiente a su entidad, y su actualización, en los términos de los acuerdos de coordinación respectivos.
+
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 340.
 
-El depósito y manipulación de cadáveres, excluida la inhumación, deberán efectuarse en establecimientos que reúnan las condiciones sanitarias que fije la Secretaría de Salud en las autorizaciones respectivas.
+El control sanitario de la disposición de sangre lo ejercerá la Secretaría de Salud a través del Centro Nacional de la Transfusión Sanguínea.
 
-La propia Secretaría determinará las técnicas y procedimientos que deberán aplicarse para la conservación de cadáveres.
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 341.
 
-Las autoridades sanitarias competentes ejercerán el control sanitario de las personas que se dediquen a la prestación de servicios funerarios. Asimismo, verificarán que los locales en que se presten los servicios reúnan las condiciones sanitarias exigibles en los términos de los reglamentos correspondientes.
+La disposición de sangre, componentes sanguíneos y células progenitoras hematopoyéticas con fines terapéuticos estará a cargo de bancos de sangre y servicios de transfusión que se instalarán y funcionarán de acuerdo con las disposiciones aplicables. La sangre será considerada como tejido.
 
-La Secretaría de Comercio y Fomento Industrial fijará las tarifas máximas a que deberá sujetarse la prestación de los servicios funerarios.
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 342.
 
-La inhumación e incineración de cadáveres sólo podrá realizarse en lugares autorizados por las autoridades sanitarias competentes.
+Cualquier órgano o tejido que haya sido extraído, desprendido o seccionado por intervención quirúrgica, accidente o hecho ilícito y que sanitariamente constituya un deshecho, deberá ser manejado en condiciones higiénicas y su destino final se hará conforme a las disposiciones generales aplicables, salvo que se requiera para fines terapéuticos, de docencia o de investigación, en cuyo caso los establecimientos de salud podrán disponer de ellos o remitirlos a instituciones docentes autorizadas por la Secretaría de Salud, en los términos de esta Ley y demás disposiciones generales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 343.
 
-La Secretaría de Salud determinará el tiempo mínimo que han de permanecer los restos en las fosas.
+Para efectos de este Título, la pérdida de la vida ocurre cuando:
 
-Mientras ese plazo no termine, sólo podrán verificarse las exhumaciones autorizadas por las autoridades sanitarias y las ordenadas por las judiciales o por el Ministerio Público, mediante los requisitos sanitarios que se fijen, en cada caso, por las primeras.
+I. Se presente la muerte cerebral, o
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+II. Se presenten los siguientes signos de muerte:
+
+a. La ausencia completa y permanente de conciencia;
+
+b. La ausencia permanente de respiración espontánea;
+
+c. La ausencia de los reflejos del tallo cerebral, y
+
+d. El paro cardiaco irreversible.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 344.
 
-La internación y salida de cadáveres del territorio nacional y su traslado de una entidad federativa a otra, sólo podrán hacerse mediante autorización de la Secretaría de Salud y previa satisfacción de los requisitos que establezcan los tratados y convenciones internacionales, los reglamentos de esta Ley y otros previstos en la legislación federal.
+La muerte cerebral se presenta cuando existen los siguientes signos:
+
+I. Pérdida permanente e irreversible de conciencia y de respuesta a estímulos sensoriales;
+
+II. Ausencia de automatismo respiratorio, y
+
+III. Evidencia de daño irreversible del tallo cerebral, manifestado por arreflexia pupilar, ausencia de movimientos oculares en pruebas vestibulares y ausencia de respuesta a estímulos nociceptivos.
+
+Se deberá descartar que dichos signos sean producto de intoxicación aguda por narcóticos, sedantes, barbitúricos o sustancias neurotrópicas.
+
+Los signos señalados en las fracciones anteriores deberán corroborarse por cualquiera de las siguientes pruebas:
+
+I. Angiografía cerebral bilateral que demuestre ausencia de circulación cerebral, o
+
+II. Electroencefalograma que demuestre ausencia total de actividad eléctrica cerebral en dos ocasiones diferentes con espacio de cinco horas.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 345.
 
-Para la práctica de necropsias en cadáveres de seres humanos, se requiere la orden o autorización del disponente secundario correspondiente, de conformidad con lo que establezcan las disposiciones aplicables, salvo que exista orden por escrito del disponente originario.
+No existirá impedimento alguno para que a solicitud o autorización de las siguientes personas: el o la cónyuge, el concubinario, la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante; conforme al orden expresado; se prescinda de los medios artificiales que evitan que en aquel que presenta muerte cerebral comprobada se manifiesten los demás signos de muerte a que se refiere la fracción II del artículo 343.
+
+> <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 346.
 
-Para la utilización de cadáveres de personas conocidas o parte de ellos, con fines de docencia e investigación, se requiere permiso del disponente originario, mismo que no podrá ser revocado por los disponentes secundarios a que se refiere la fracción I del artículo 316 de esta Ley.
+Los cadáveres no pueden ser objeto de propiedad y siempre serán tratados con respeto, dignidad y consideración.
 
-Cuando el disponente originario no haya expresado su voluntad por lo que respecta a la disposición de su cadáver, las personas a que se refiere la fracción I del artículo 316 de esta Ley, podrán consentir en que se destine a la docencia e investigación, en los términos que al efecto señalen las disposiciones aplicables.
-
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
-
-Tratándose de cadáveres de personas desconocidas, las instituciones educativas podrán obtenerlos del Ministerio Público o de establecimientos de prestación de servicios de atención médica o de asistencia social. Para tales efectos, la (sic) instituciones educativas deberán estar autorizadas por la Secretaría de Salud, de conformidad con las disposiciones aplicables.
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 347.
 
-Las instituciones educativas que obtengan cadáveres de personas desconocidas serán depositarias de ellos durante diez días, con objeto de dar oportunidad al cónyuge, concubinario, concubina o familiares para reclamarlos. En este lapso los cadáveres permanecerán en las instituciones y únicamente recibirán el tratamiento para su conservación y el manejo sanitario que señalen las disposiciones respectivas.
+Para los efectos de este Título, los cadáveres se clasifican de la siguiente manera:
 
-Una vez concluido el plazo correspondiente sin reclamación, serán consideradas las instituciones educativas como disponentes secundarios.
+I. De personas conocidas, y
+
+II. De personas desconocidas.
+
+Los cadáveres no reclamados dentro de las setenta y dos horas posteriores a la pérdida de la vida y aquellos de los que se ignore su identidad serán considerados como de personas desconocidas.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 348.
 
-Los cadáveres de personas desconocidas, los no reclamados y los que hayan sido objeto de docencia e investigación, serán inhumados o incinerados.
+La inhumación o incineración de cadáveres sólo podrá realizarse con la autorización del oficial del Registro Civil que corresponda, quien exigirá la presentación del certificado de defunción.
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+Los cadáveres deberán inhumarse, incinerarse o embalsamarse dentro de las cuarenta y ocho horas siguientes a la muerte, salvo autorización específica de la autoridad sanitaria competente o por disposición del Ministerio Público, o de la autoridad judicial.
+
+La inhumación e incineración de cadáveres sólo podrá realizarse en lugares permitidos por las autoridades sanitarias competentes.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 349.
 
-Para el control sanitario de la disposición del preembrión, del embrión y de las células germinales, se estará a lo dispuesto en esta ley, en lo que resulte aplicable, y en las demás disposiciones reglamentarias que al efecto se expidan.
+El depósito y manejo de cadáveres deberán efectuarse en establecimientos que reúnan las condiciones sanitarias que fije la Secretaría de Salud.
+
+La propia Secretaría determinará las técnicas y procedimientos que deberán aplicarse para la conservación de cadáveres.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 350.
 
+Las autoridades sanitarias competentes ejercerán el control sanitario de las personas que se dediquen a la prestación de servicios funerarios. Asimismo, verificarán que los locales en que se presten los servicios reúnan las condiciones sanitarias exigibles en los términos de los reglamentos correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
+
+###### ARTICULO 350 Bis.
+
+La Secretaría de Salud determinará el tiempo mínimo que han de permanecer los restos en las fosas. Mientras el plazo señalado no concluya, sólo podrán efectuarse las exhumaciones que aprueben las autoridades sanitarias y las ordenadas por las judiciales o por el Ministerio Público, previo el cumplimiento de los requisitos sanitarios correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
+
+###### ARTICULO 350 Bis 1.
+
+La internación y salida de cadáveres del territorio nacional sólo podrán realizarse, mediante autorización de la Secretaría de Salud o por orden de la autoridad judicial o del Ministerio Público.
+
+En el caso del traslado de cadáveres entre entidades federativas se requerirá dar aviso a la autoridad sanitaria competente del lugar en donde se haya expedido el certificado de defunción.
+
+> <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
+
+###### ARTICULO 350 Bis 2.
+
+Para la práctica de necropsias en cadáveres de seres humanos se requiere consentimiento del cónyuge, concubinario, concubina, ascendientes, descendientes o de los hermanos, salvo que exista orden por escrito del disponente, o en el caso de la probable comisión de un delito, la orden de la autoridad judicial o el Ministerio Público.
+
+> <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
+
+###### ARTICULO 350 Bis 3.
+
+Para la utilización de cadáveres o parte de ellos de personas conocidas, con fines de docencia e investigación, se requiere el consentimiento del disponente.
+
+Tratándose de cadáveres de personas desconocidas, las instituciones educativas podrán obtenerlos del Ministerio Público o de establecimientos de prestación de servicios de atención médica o de asistencia social. Para tales efectos, las instituciones educativas deberán dar aviso a la Secretaría de Salud, en los términos de esta Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
+
+###### ARTICULO 350 Bis 4.
+
+Las instituciones educativas que obtengan cadáveres de personas desconocidas serán depositarias de ellos durante diez días, con objeto de dar oportunidad al cónyuge, concubinario, concubina o familiares para reclamarlos. En este lapso los cadáveres permanecerán en las instituciones y únicamente recibirán el tratamiento para su conservación y el manejo sanitario que señalen las disposiciones respectivas.
+
+Una vez concluido el plazo correspondiente sin reclamación, las instituciones educativas podrán utilizar el cadáver.
+
+> <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
+
+###### ARTICULO 350 Bis 5.
+
+Los cadáveres de personas desconocidas, los no reclamados y los que se hayan destinado para docencia e investigación, serán inhumados o incinerados.
+
+> <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
+
+###### ARTICULO 350 Bis 6.
+
 Sólo podrá darse destino final a un feto previa expedición del certificado de muerte fetal.
+
+> <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
+
+###### ARTICULO 350 Bis 7.
+
+Los establecimientos en los que se realicen actos relacionados con cadáveres de seres humanos deberán presentar el aviso correspondiente a la Secretaría de Salud en los términos de esta Ley y demás disposiciones generales aplicables, y contarán con un responsable sanitario que también deberá presentar aviso.
 
 ## TITULO DECIMO OCTAVO. Medidas de Seguridad, Sanciones y Delitos
 
@@ -4016,11 +4170,13 @@ III.- La posesión, comercio, importación, distribución, transporte y utilizac
 
 IV.- Los libros de control de estupefacientes o substancias psicotrópicas, así como los actos a que se refiere el artículo 241 de esta Ley;
 
-V.- La internación de cadáveres de seres humanos en el territorio nacional, su traslado de una entidad federativa a otra o al extranjero, y el embalsamamiento;
+> <small>(REFORMADA, D.O.F. 26 DE MAYO DE 2000)</small>
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
+V. La internación de cadáveres de seres humanos en el territorio nacional y su traslado al extranjero, y el embalsamamiento;
 
-VI.- La internación en el territorio nacional o la salida de él, de órganos y tejidos de seres humanos, incluyendo la sangre, componentes sanguíneos, células progenitoras hematopoyéticas y hemoderivados;
+> <small>(REFORMADA, D.O.F. 26 DE MAYO DE 2000)</small>
+
+VI. La internación en el territorio nacional o la salida de él, de tejidos de seres humanos, incluyendo la sangre, componentes sanguíneos y células progenitoras hematopoyéticas y hemoderivados;
 
 VII.- La publicidad relativa a los productos y servicios comprendidos en esta Ley;
 
@@ -4500,23 +4656,23 @@ IV.- La calidad de reincidente del infractor.
 
 V.- El beneficio obtenido por el infractor como resultado de la infracción.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 419.
 
-Se sancionará con multa hasta mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 55, 56, 83, 103, 107, 137, 138, 139, 161, 200 bis, 202, 259, 260, 263, 282 bis-1, 334, 336, 339, 350, 391 y 392 de esta ley.
+Se sancionará con multa hasta mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 55, 56, 83, 103, 107, 137, 138, 139, 161, 200 bis, 202, 259, 260, 263, 282 bis 1, 342, 346, 348, segundo párrafo, 350 bis 6, 391 y 392 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 420.
 
-Se sancionará con multa de mil hasta cuatro mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 75, 121, 127, 142, 147, 149, 153, 198, 200, 204, 233, 241, 258, 265, 267, 304, 306, 307, 308, 319, 329, 330, 340, 342, 343, 344, 345, 346, 373, 376 y 413 de esta ley.
+Se sancionará con multa de mil hasta cuatro mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 75, 121, 127, 142, 147, 149, 153, 198, 200, 204, 233, 241, 258, 265, 267, 304, 306, 307, 308, 315, 341, 348, tercer párrafo, 349, 350 bis, 350 bis 1, 350 bis 2, 350 bis 3, 373, 376 y 413 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 421.
 
-Se sancionará con multa equivalente de cuatro mil hasta diez mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 67, 100, 101, 122, 125, 126, 146, 193, 205, 210, 212, 213, 218, 220, 230, 232, 235, 237, 238, 240, 242, 243, 247, 248, 249, 251, 252, 254, 255, 256, 264, 266, 276, 281, 289, 293, 298, 318, 321, 322, 323, 324, 325, 332, 333, 338, 365, 367, 375, 400 y 411 de esta ley.
+Se sancionará con multa equivalente de cuatro mil hasta diez mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 67, 100, 101, 122, 125, 126, 146, 193, 205, 210, 212, 213, 218, 220, 230, 232, 235, 237, 238, 240, 242, 243, 247, 248, 251, 252, 254, 255, 256, 264, 266, 276, 281, 289, 293, 298, 317, 325, 327, 330, 331, 332, 333, 334, 335, 336, 338, último párrafo, 348, primer párrafo, 365, 367, 375, 400 y 411 de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -4550,7 +4706,7 @@ V.- Cuando en el establecimiento se vendan o suministren estupefacientes sin cum
 
 VI.- Cuando en un establecimiento se vendan o suministren substancias psicotrópicas sin cumplir con los requisitos que señale esta Ley y sus reglamentos, y (sic)
 
-VII.- Cuando se compruebe que las actividades que se realicen en un establecimiento, violan las disposiciones sanitarias, constituyendo un peligro grave para la salud;
+VII.- Cuando se compruebe que las actividades que se realicen en un establecimiento, violan las disposiciones sanitarias, constituyendo un peligro grave para la salud.
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -4794,29 +4950,35 @@ Al que saque o pretenda sacar del territorio nacional, órganos, tejidos y sus c
 
 Si el responsable fuere un profesional, técnico o auxiliar de las disciplinas para la salud, a la pena anterior se añadirá suspensión en el ejercicio de su profesión u oficio hasta por cuatro años.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 462.
 
-Se impondrán de dos a seis años de prisión y multa por el equivalente de veinte a ciento cincuenta días de salario mínimo general vigente en la zona económica de que se trate:
+Se impondrán de cuatro a diez años de prisión y multa por el equivalente de cuatro mil a diez mil días de salario mínimo general vigente en la zona económica de que se trate:
 
 > <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
 
 I.- Al que ilícitamente obtenga, conserve, utilice, prepare o suministre órganos, tejidos y sus componentes, cadáveres o fetos de seres humanos, y (sic)
 
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 26 DE MAYO DE 2000)</small>
 
-II.- Al que comercie con órganos, tejidos incluyendo la sangre, y sus componentes, cadáveres, fetos o restos de seres humanos;
+II.- Al que comercie o realice actos de simulación jurídica que tengan por objeto la intermediación onerosa de órganos, tejidos incluyendo la sangre, cadáveres, fetos o restos de seres humanos, y
 
-III.- Al responsable o empleado del establecimiento donde ocurra un deceso o de locales destinados al depósito de cadáveres, que permitan alguno de los actos a que se refieren las fracciones anteriores o no procuren impedirlos por los medios lícitos que tengan a su alcance.
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
-En el caso de la fracción III, se aplicarán al responsable, además de las otras penas, de tres a ocho años de prisión.
+III.- Al que trasplante un órgano o tejido sin atender las preferencias y el orden establecido en las listas de espera a que se refiere el artículo 336 de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 Si intervinieran profesionales, técnicos o auxiliares de las disciplinas para la salud, se les aplicará, además suspensión de uno a tres años en el ejercicio profesional, técnico o auxiliar y hasta cinco años más, en caso de reincidencia.
 
+> <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
+
+ARTICULO 462 bis.- Al responsable o empleado de un establecimiento donde ocurra un deceso o de locales destinados al depósito de cadáveres, que permita alguno de los actos a que se refieren las fracciones I, II y III del artículo anterior o no procure impedirlos por los medios lícitos que tenga a su alcance, se le impondrá de tres a ocho años de prisión y multa por el equivalente de cuatro mil a diez mil días de salario mínimo general vigente en la zona económica de que se trate.
+
 > <small>(ADICIONADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+Si intervinieran profesionales, técnicos o auxiliares de las disciplinas para la salud, se les aplicará, además, suspensión de uno a tres años en el ejercicio profesional, técnico o auxiliar y hasta cinco años más en caso de reincidencia.
 
 ###### ARTICULO 462 Bis.
 
@@ -4951,3 +5113,19 @@ PRIMERO. El presente Decreto entrará en vigor a los sesenta días siguientes de
 SEGUNDO. Los expedientes en trámite relacionados con las autorizaciones sanitarias, se concluirán en lo que beneficie a los interesados en los términos del presente Decreto.
 
 TERCERO. En tanto se expiden las disposiciones administrativas que se deriven del presente Decreto, seguirán en vigor las que han regido hasta ahora, en lo que no lo contravengan.
+
+D.O.F. 26 DE MAYO DE 2000.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo las disposiciones que a continuación se señalan que entrarán en vigor en los plazos que se indican, contados a partir de la expresada publicación:
+
+I. A los tres meses los artículos 316, segundo párrafo, 322; 323, 324 y 325, y
+
+II. A los doce meses el artículo 336, segundo párrafo.
+
+SEGUNDO. En tanto se expiden las disposiciones administrativas que se deriven del presente Decreto, seguirán en vigor las que han regido hasta ahora, en lo que no lo contravengan.
+
+TERCERO. La Secretaría de Salud, en un plazo no mayor de seis meses contados a partir de la entrada en vigor del presente Decreto, promoverá ante las demás dependencias de la Administración Pública Federal y los gobiernos de las entidades federativas, que se otorguen facilidades para que en los documentos públicos que les corresponda expedir a los particulares, éstos puedan asentar su consentimiento expreso o negativa para la donación de órganos y tejidos.
+
+CUARTO. La Secretaría de Salud, en un plazo no mayor de nueve meses contados a partir de la entrada en vigor del presente Decreto, deberá tener debidamente integrada la información señalada en el artículo 338.
+
+QUINTO. En tanto entra en funciones el Centro Nacional de Trasplantes, la Secretaría de Salud ejercerá las facultades de control sanitario a que se refiere la fracción I del artículo 313 de esta Ley, por conducto de la unidad administrativa que, conforme al Reglamento Interior de esa Dependencia, actualmente tenga a su cargo la vigilancia de los actos de disposición de órganos.
