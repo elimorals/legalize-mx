@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-urbano-del-estado-de-baja-california-2832"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "1996-09-20"
+last_updated: "1998-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 1998.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 24 de junio de 1994.
 
@@ -1673,6 +1673,10 @@ Las acciones de urbanización que se pretendan realizar en las áreas urbanas o 
 
 La incorporación urbana a que se refiere esta Ley, es el procedimiento que permite declarar como suelo urbanizado a los predios rústicos o a los predios intraurbanos no incorporados, para darles las funciones asignadas en su respectivo Plan y Programa de Desarrollo Urbano, conforme a las declaratorias de usos y destinos correspondientes.
 
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+Los predios agrícolas sujetos a la declaratoria de incorporación a suelo urbano y que se destinen para acciones de fraccionamiento, deberán contar con los derechos de uso de agua correspondiente a la superficie afectada, los cuales deberán ser transferidos gratuitamente a la autoridad o entidad gubernamental competente para garantizar y satisfacer el suministro permanente y continuo del servicio de agua potable.
+
 La reincorporación de terrenos se refiere a predios ubicados en zonas ya incorporadas, en espacios determinados para el mejoramiento y que requieran de la ejecución de obras de renovación urbana.
 
 ###### ARTICULO 154.
@@ -2408,3 +2412,9 @@ Este decreto entrará en vigor a partir de los tres días siguientes de su publi
 ###### ARTICULO SEGUNDO.
 
 El Ejecutivo del Estado ordenará que en la elaboración de los programas sectoriales a nivel estatal y regional, se contengan las acciones tendientes a la construcción y adecuación de la infraestructura, el equipamiento y los servicios urbanos que requiera la población discapacitada para su ejecución en todo el Estado, en los términos que establecen las presentes reformas.
+
+P.O. 6 DE NOVIEMBRE DE 1998.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Baja California.
