@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-pensiones-del-estado-de-jalisco-5860"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "1989-05-13"
+last_updated: "1990-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PENSIONES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MAYO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 1990.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -345,13 +345,17 @@ II. Acudir, dentro de los 30 días siguientes al en que se presente la solicitud
 
 III. Dictamen pericial de los médicos designados por la Dirección de Pensiones, que declare el estado de invalidez, el que deberá emitirse dentro de los 30 días siguientes al que se practique el examen.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+
 ###### Artículo 47.
 
-Si el dictamen médico fuere negativo y el afiliado se manifestare inconforme con el mismo, la Dirección de Pensiones someterá el caso al Departamento de Salud del Estado, para su estudio y resolución definitiva.
+Si el dictamen médico fuere negativo y el afiliado se manifestare inconforme con el mismo la Dirección de Pensiones someterá el caso a la Secretaría de Salud y Bienestar Social del Estado, para su estudio y resolución definitiva.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
 
 ###### Artículo 48.
 
-El afiliado que solicite una Pensión por invalidez, y quienes resulten pensionados por la misma causa, están obligados a someterse a los exámenes y tratamientos médicos que la Dirección de Pensiones, a través del Departamento de Salud del Estado, les prescriba; lo anterior es condición para el trámite de su solicitud y el goce de la pensión.
+El afiliado que solicite una pensión por invalidez, y quienes resulten pensionados por la misma causa, están obligados a someterse a los exámenes y tratamientos médicos que la Dirección de Pensiones, a través de la Secretaría de Salud y Bienestar Social del Estado, les prescriba; lo anterior es condición para el trámite de su solicitud y el goce de la pensión.
 
 ###### Artículo 49.
 
@@ -862,5 +866,9 @@ Lic. Héctor F. Castañeda Jiménez
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 13 DE MAYO DE 1989.
+
+Unico.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 7 DE ABRIL DE 1990.
 
 Unico.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
