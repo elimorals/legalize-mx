@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2000-05-10"
+last_updated: "2001-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2000.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2001.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -797,7 +797,9 @@ V. Aprobar, reformar, abrogar o derogar leyes y decretos en todos los ramos de l
 
 VI. Legislar en materia de seguridad pública y tránsito;
 
-VII. Legislar en materia de desarrollo urbano, preservación y restauración del equilibrio ecológico y la protección al ambiente, así como lo concerniente al patrimonio cultural, artístico e histórico;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
+
+VII. Legislar en materia de desarrollo urbano y expedir leyes para preservar y restaurar el equilibrio ecológico y proteger el ambiente, que establezcan la concurrencia de los gobiernos estatal y municipales, en el ámbito de sus respectivas competencias, de conformidad con la Constitución General y la ley reglamentaria correspondiente, así como lo concerniente al patrimonio cultural, artístico e histórico;
 
 VIII. Establecer los requisitos y procedimiento que deberán observarse para la expedición de decretos y resoluciones administrativas referentes a la ordenación del desarrollo urbano, la regularización de asentamientos humanos y la creación de nuevos centros de población, y determinar respecto de estos últimos, los límites correspondientes;
 
@@ -1347,9 +1349,9 @@ II. Iniciar ante la Legislatura las leyes y decretos que tengan por objeto mejor
 
 III. Conocer como Jurado de Sentencia en los casos previstos por el Título VII de esta Constitución;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2000)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
 
-IV. Conocer de las controversias que se susciten entre dos o más Municipios, con excepción de las que se refieran a la materia electoral;
+IV. Dirimir los conflictos que surjan entre los municipios y los Poderes Legislativo y Ejecutivo del Estado, o entre aquéllos, que no sean de los previstos por la fracción XXVIII del artículo 65 de esta Constitución o que se refieran a la materia electoral; sin perjuicio de lo dispuesto en el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos;
 
 V. Nombrar a los demás trabajadores al servicio del Poder Judicial, así como adscribir a Jueces y trabajadores de un Juzgado a otro o a distrito distinto; admitirles sus renuncias; concederles, sin goce de sueldo, las licencias que soliciten para separarse del despacho; destituirlos o suspenderlos hasta por tres meses, previa audiencia del interesado, por causa grave justificada que no dé lugar a que se le enjuicie, e imponerles las sanciones económicas que determinen las leyes;
 
@@ -1647,13 +1649,23 @@ Los límites de los Municipios quedan determinados en la forma que se encuentran
 
 El Estado tiene al Municipio Libre como base de su división territorial y de su organización política y administrativa, conforme a las siguientes bases:
 
-I. Los Municipios que forman el territorio estatal son independientes entre sí, pero podrán convenir acciones de coordinación de alcance intermunicipal y constituir comités de planeación para el desarrollo regional conforme a la ley respectiva;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
 
-II. Cada Municipio será administrado por un Ayuntamiento de elección popular directa que entrará en funciones el día quince de septiembre siguiente a su elección, durará en su cargo tres años y residirá en la cabecera municipal. No habrá ninguna autoridad intermedia entre el Ayuntamiento y el Gobierno del Estado.
+I. Los Municipios que forman el territorio estatal son independientes entre sí, pero podrán previo acuerdo entre sus Cabildos, coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. En este caso y tratándose de la asociación de uno o más municipios con otro u otros de los demás Estados, deberán contar con la aprobación de la Legislatura del Estado.
 
-El Ayuntamiento se integrará con un Presidente Municipal, un Síndico y el número de Regidores que determine la Ley Orgánica del Municipio.
+Asimismo, cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el gobierno del Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de alguna función o servicio municipal, o bien se ejerza o preste coordinadamente entre aquél y el propio municipio.
 
-Por cada integrante del Ayuntamiento con el carácter de propietario se elegirá un suplente;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
+
+II. Cada Municipio será gobernado por un Ayuntamiento de elección popular directa que entrará en funciones el día quince de septiembre siguiente a su elección, durará en su cargo tres años y residirá en la cabecera municipal.
+
+El Ayuntamiento es depositario de la función pública municipal y constituye la primera instancia de gobierno, con el propósito de recoger y atender las necesidades colectivas y sociales, así como para articular y promover el desarrollo integral y sustentable del Municipio.
+
+Los Ayuntamientos crearán las dependencias y entidades de la administración pública municipal necesarias para cumplir con las atribuciones de su competencia.
+
+La competencia que la Constitución Política de los Estados Unidos Mexicanos y esta Constitución otorgan al gobierno municipal, será ejercida exclusivamente por el Ayuntamiento y no habrá autoridad intermedia alguna entre éste y el gobierno del Estado.
+
+El Ayuntamiento se integrará con un Presidente Municipal y el número de Regidores y Síndicos que la ley determine. Por cada integrante del Ayuntamiento con el carácter de propietario se elegirá un suplente.
 
 III. Son requisitos para ser Presidente Municipal, Síndico o Regidor de los Ayuntamientos:
 
@@ -1705,21 +1717,61 @@ El Ayuntamiento es el órgano supremo de Gobierno del Municipio. Está investido
 
 I. Cumplir y hacer cumplir las leyes, decretos y disposiciones federales, estatales y municipales;
 
-II. Adquirir y poseer los bienes necesarios para la prestación de los servicios públicos, conforme lo determinen las leyes;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
 
-III. Administrar libremente su hacienda, la que se integrará con los bienes propios y los conceptos de ingresos que anualmente les fije la Legislatura, y elaborar el presupuesto anual de egresos, el cual se remitirá a la Legislatura para su conocimiento;
+II. Adquirir y poseer los bienes necesarios para la prestación de los servicios públicos conforme lo determine la ley, así mismo tendrá la facultad de decidir previa autorización de la Legislatura en los casos y condiciones que señale la ley, sobre la afectación, uso y destino de sus bienes, los cuales podrá enajenar cuando así lo justifique el interés público y quede debidamente documentado en el dictamen respectivo.
+
+Se requiere el acuerdo de las dos terceras partes de los miembros del Ayuntamiento, para dictar resoluciones administrativas que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al periodo del Ayuntamiento.
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
+
+III. Administrar libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que la Legislatura establezca a su favor y, en todo caso:
+
+a) Percibirán las contribuciones, incluyendo las tasas adicionales que establezca la Legislatura sobre la propiedad inmobiliaria, su fraccionamiento, división, consolidación, traslación y mejora así como las que tengan por base el cambio de valor de los inmuebles:
+
+Los Municipios, previo acuerdo de sus Cabildos, podrán celebrar convenios con el gobierno del Estado para que éste se haga cargo de alguna de las funciones relacionadas con la administración de esas contribuciones;
+
+b) Las participaciones federales, que serán cubiertas por la federación a los municipios con arreglo a las bases, montos y plazos que anualmente determine la Legislatura;
+
+c) Los ingresos derivados de la prestación de servicios públicos a su cargo.
+
+Por ningún medio se podrán establecer exenciones o subsidios en favor de persona o institución alguna respecto de dichas contribuciones. Sólo estarán exentos los bienes de dominio público de la federación, del gobierno del Estado y de los Municipios, salvo que sean utilizados por entidades paraestatales, paramunicipales o por particulares, bajo cualquier título, con fines administrativos o propósitos distintos a su objeto público.
+
+Los Ayuntamientos, en el ámbito de su competencia, propondrán a la Legislatura las tasas, cuotas y tarifas aplicables a impuestos, derechos, aprovechamientos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
+
+La Legislatura aprobará las leyes de ingresos de los Municipios y revisará y fiscalizará sus cuentas públicas. Los presupuestos de egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles.
+
+Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los Ayuntamientos o por quien éstos autoricen conforme a la ley.
 
 IV. Promover el desarrollo político, económico, social y cultural de la población del Municipio;
 
-V. De acuerdo con la ley y las bases normativas establecidas por la Legislatura del Estado, contraer empréstitos, gravar su patrimonio organizar la administración, constituir entidades paramunicipales, y expedir el Bando de Policía y Buen Gobierno, los reglamentos y demás disposiciones administrativas de observancia general dentro de su respectiva jurisdicción;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
+
+V. Los Ayuntamientos tendrán facultades para aprobar, de conformidad con las leyes en materia municipal, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
+
+El objeto de las leyes a que se refiere el párrafo anterior será establecer:
+
+a) Las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación y los órganos para dirimir las controversias entre dicha administración y los particulares, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad;
+
+b) Las normas generales para celebrar convenios de coordinación y de asociación de municipios o entre éstos con el Estado en materia de prestación de funciones y servicios públicos;
+
+c) El procedimiento y condiciones para que el gobierno estatal asuma una función o servicio municipal cuando, al no existir el convenio correspondiente, la Legislatura considere que el Municipio esté imposibilitado para ejercerla o prestarlo, respectivamente; en este caso, será necesaria la solicitud previa del Ayuntamiento respectivo; y
+
+d) Las disposiciones aplicables en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes.
+
+El Tribunal Superior de Justicia, de conformidad con el procedimiento que establezca la ley respectiva, resolverá los conflictos que se presenten entre los municipios y el gobierno del Estado, o entre aquéllos, con motivo de los actos derivados de los incisos b) y c) anteriores y de todos aquéllos.
 
 VI. Prestar los siguientes servicios públicos:
 
-a) Agua potable y alcantarillado;
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
+
+a) Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
 
 b) Alumbrado público;
 
-c) Limpia;
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
+
+c) Limpia, recolección, traslado, tratamiento y disposición final de residuos;
 
 d) Mercados y centrales de abasto;
 
@@ -1727,17 +1779,35 @@ e) Panteones;
 
 f) Rastro;
 
-g) Calles, parques y jardines;
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
 
-h) Seguridad pública y vialidad;
+g) Calles, parques y jardines y su equipamiento;
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
+
+h) Seguridad pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva municipal y tránsito;
 
 i) Protección civil; y
 
-j) Los demás que determine la Legislatura del Estado.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
 
-Cuando las condiciones territoriales y socioeconómicas y la capacidad administrativa y financiera del Municipio lo hagan necesario, los servicios públicos podrán prestarse con el concurso del Estado o por coordinación intermunicipal, mediante los convenios que al efecto se establezcan;
+j) Los demás que la Legislatura del Estado determine, según las condiciones territoriales y socioeconómicas de los municipios, y su capacidad administrativa y financiera.
 
-VII. Mandar la policía y fuerza pública municipales, que estarán a cargo del Presidente Municipal, excepto en el Municipio donde residiere habitual o transitoriamente el Gobernador del Estado;
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
+
+La enajenación de inmuebles que formen parte del patrimonio inmobiliario del municipio, el otorgamiento de concesiones para que los particulares operen una función o presten un servicio público municipal, la suscripción de empréstitos o créditos, la autorización para que la hacienda pública municipal sea ejercida por persona distinta al Ayuntamiento, la celebración de actos o suscripción de convenios que comprometan al municipio por un plazo mayor al período del Ayuntamiento, así como la solicitud para que el gobierno estatal asuma una función o servicio municipal, requerirá de la autorización de la Legislatura y de la mayoría calificada de los miembros que integren el Cabildo respectivo.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2001)</small>
+
+Sin perjuicio de su competencia constitucional, en el desempeño de las funciones o la prestación de los servicios a su cargo, los municipios observarán lo dispuesto por las leyes federales y las que de esta Constitución se deriven.
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
+
+VII. La policía preventiva municipal estará al mando del Presidente Municipal, en los términos del reglamento correspondiente. Aquélla acatará las órdenes que el Gobernador del Estado le transmita en los casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
+
+El Presidente de los Estados Unidos Mexicanos tendrá el mando de la fuerza pública en los Municipios donde resida habitual o transitoriamente.
+
+Los Presidentes Municipales quedan obligados a prestar, previa solicitud de las autoridades electorales, el auxilio de la fuerza pública y los apoyos que requieran para la preservación del orden público en los procesos electorales.
 
 VIII. Fortalecer el gobierno democrático en las comunidades y centros de población; promover la realización de foros para el análisis de los problemas municipales y constituir organismos populares de consulta para la planeación y elaboración de los programas operativos anuales, la participación comunitaria en las tareas del desarrollo municipal y la supervisión de la obra de gobierno, en los términos que señalen las leyes respectivas;
 
@@ -1779,9 +1849,31 @@ El Municipio deberá elaborar su Plan Municipal trianual y sus programas operati
 
 I. Los Planes Municipales de Desarrollo precisarán los objetivos generales, estrategias y prioridades del desarrollo integral del Municipio; contendrán previsiones sobre los recursos que serán asignados a tales fines; determinarán los instrumentos y los responsables de su ejecución; establecerán los lineamientos de política de carácter general, sectorial y de servicios municipales. Sus previsiones se referirán al conjunto de la actividad económica y social y regirán el contenido de los programas operativos anuales en concordancia siempre con los Planes Regional, Estatal y Nacional de Desarrollo;
 
-II. Los Planes Municipales deberán prever, de conformidad con el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, los programas de desarrollo urbano municipal; la creación y administración de reservas territoriales; el control y vigilancia de la utilización del suelo en sus ámbitos territoriales; la regularización de la tenencia de la tierra urbana; la creación y administración de zonas de reserva ecológica. Para tal efecto y de conformidad con lo señalado en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, los Ayuntamientos expedirán los reglamentos y disposiciones administrativos conforme al ordenamiento jurídico de la materia.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
 
-Cuando dos o más centros urbanos se extiendan en territorio de dos o más Municipios y formen o tiendan a formar una continuidad demográfica, el Estado y los Municipios implicados planearán y regularán de manera conjunta y coordinada el desarrollo de los mencionados asentamientos con apego a la ley correspondiente;
+II. Los Municipios, en los términos de las leyes federales y estatales relativas, estarán facultados para:
+
+a) Formular, aprobar y administrar la zonificación y los planes de desarrollo urbano municipal;
+
+b) Participar en la creación y administración de sus reservas territoriales;
+
+c) Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando en el Estado se elaboren proyectos de desarrollo regional se deberá asegurar la participación de los Municipios;
+
+d) Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en sus jurisdicciones territoriales;
+
+e) Intervenir en la regularización de la tenencia de la tierra urbana;
+
+f) Otorgar licencias y permisos para construcciones;
+
+g) Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia;
+
+h) Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial; e
+
+i) Celebrar convenios para la administración y custodia de las zonas federales.
+
+En lo conducente y de conformidad a los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, los Municipios expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
+
+Cuando dos o más centros urbanos situados en territorios de dos o más Municipios, tanto del Estado como de las entidades federativas colindantes, formen o tiendan a formar una continuidad demográfica, la federación, las entidades federativas y los municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros, con apego a las leyes de la materia.
 
 III. Una vez aprobados por el Ayuntamiento el Plan Municipal de Desarrollo y los programas que de él se deriven, serán obligatorios para toda la administración municipal en el ámbito de sus respectivas competencias;
 
@@ -1789,7 +1881,9 @@ IV. Los gobiernos municipales podrán convenir con el Gobierno del Estado la coo
 
 V. El Estado y los Municipios, en los términos de las leyes aplicables, podrán celebrar convenios únicos de desarrollo municipal que comprendan todos los aspectos de carácter económico y social para el desarrollo integral de la comunidad, quedando especialmente comprendido en dichos convenios que el Estado podrá hacerse cargo de algunas de las funciones relacionadas con la administración de las contribuciones fiscales que por ley corresponda a los Municipios; la planeación, ejecución y operación de obras; la prestación de servicios públicos, encomendados legalmente a los Municipios, cuando éstos carezcan de los medios y recursos indispensables para su administración y prestación.
 
-Asimismo, podrán convenir la asunción, por parte de los Municipios, de la administración, ejecución y operación de obras y la prestación de servicios públicos del ámbito del Estado, cuando el desarrollo económico y social lo haga necesario y la capacidad operativa de los Municipios garantice eficiencia.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
+
+Los Municipios podrán convenir con el gobierno del Estado, asumir la prestación de los servicios o el ejercicio de las funciones a las que se refiere el segundo párrafo de la fracción VII del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 121.
 
@@ -1857,7 +1951,9 @@ En caso de falta absoluta del Ayuntamiento en el primer año de su instalación,
 
 Hay falta absoluta de Ayuntamiento cuando no se hubiesen efectuado las elecciones; se hubieran declarado nulas; no se presente el Ayuntamiento a rendir la protesta; por renuncia mayoritaria de sus miembros; por haber sido declarado desaparecido, o por muerte o incapacidad absoluta de la mayoría de sus integrantes.
 
-Si la falta absoluta del Ayuntamiento acontece en los dos últimos años de su ejercicio, la Legislatura nombrará un Concejo Municipal sustituto que termine el periodo y si no se encuentra reunida, la Comisión Permanente nombrará un Concejo Municipal provisional y citará a la Legislatura a periodo extraordinario de sesiones para los efectos indicados.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 1 DE AGOSTO DE 2001)</small>
+
+Si la falta absoluta del Ayuntamiento acontece en los dos últimos años de su ejercicio, la Legislatura nombrará un Concejo Municipal sustituto que termine el periodo y si no se encuentra reunida, la Comisión Permanente nombrará un Concejo Municipal provisional y citará a la Legislatura a periodo extraordinario de sesiones para los efectos indicados. Dichos Concejos se integrarán por un presidente, los síndicos y concejales como Regidores haya tenido el ayuntamiento declarado desaparecido. Debiendo cumplir los requisitos de elegibilidad establecidos por la ley.
 
 Si alguno de los miembros del Ayuntamiento dejare de desempeñar su cargo, será sustituido por su suplente o se procederá según lo disponga la ley.
 
@@ -2308,3 +2404,35 @@ CUARTO.- Los nombramientos que de Magistrado del Tribunal Superior de Justicia l
 QUINTO.- La reforma al párrafo primero del artículo 98 del presente decreto, entrará en vigor el día 31 de enero del año 2001.
 
 SEXTO.- Las reformas al artículo 108 a que se refiere este Decreto, entrarán en vigor el 15 de noviembre del año 2001. En un plazo que no excederá de seis meses, contados a partir de tal fecha, deberá reformarse la Ley Orgánica del Municipio Libre del Estado de Zacatecas, en lo que concierne a juzgados municipales.
+
+P.O. 1 DE AGOSTO DE 2001.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+La Legislatura del Estado deberá realizar las adecuaciones a la leyes secundarias conforme a lo dispuesto en el presente Decreto, a más tardar el 30 de diciembre del 2001.
+
+En tanto se realizan las adecuaciones a que se refiere el párrafo anterior, se continuarán aplicando las disposiciones vigentes.
+
+Los Ayuntamientos deberán adecuar sus reglamentos o expedir los que sean procedentes conforme a lo dispuesto en este Decreto, a más tardar el 31 de marzo del 2002.
+
+###### ARTICULO TERCERO.
+
+De conformidad con el Artículo Tercero Transitorio del Decreto por el que se declara reformado y adicionado el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, los Ayuntamientos que se encuentren en las dos hipótesis previstas deberán hacer manifiesta su voluntad de asumir las funciones y servicios a que dicho Decreto se refiere o, en caso contrario, expresar su negativa, a más tardar el 30 de diciembre del 2001. Para tal efecto, deberán dirigirse por escrito al titular del Poder Ejecutivo Estatal, anexando la copia certificada de la sesión del Cabildo correspondiente en la que se haya tomado la resolución procedente. En caso de que en el plazo a que se refiere este párrafo, los Ayuntamientos respectivos expresen su negativa, se reservan el derecho de manifestar en cualquier momento su voluntad de asumir las funciones o servicios correspondientes.
+
+En tanto se realizan las transferencias a que se refiere este artículo, las funciones y servicios públicos seguirán ejerciéndose o prestándose en los términos y condiciones vigentes.
+
+###### ARTICULO CUARTO.
+
+El gobierno del Estado y los municipios realizarán los actos conducentes a efecto de que los convenios que, en su caso, hubiesen celebrado con anterioridad, se ajusten a lo establecido en este Decreto y a las leyes secundarias.
+
+###### ARTICULO QUINTO.
+
+Antes del inicio del año fiscal del 2002, la Legislatura del Estado, en coordinación con los Ayuntamientos respectivos, adoptará las medidas conducentes a fin de que los valores unitarios de suelo que sirven de base para el cobro de las contribuciones sobre la propiedad inmobiliaria sean equiparables a los valores de mercado de dicha propiedad y procederá, en su caso, a realizar las adecuaciones correspondientes a las tasas aplicables para el cobro de las mencionadas contribuciones, a fin de garantizar su apego a los principios de proporcionalidad y equidad.
+
+###### ARTICULO SEXTO.
+
+En la realización de las acciones conducentes al cumplimiento del presente Decreto, se respetarán los derechos y obligaciones contraídos previamente con terceros, así como los derechos de los trabajadores estatales y municipales.
