@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-adquisiciones-arrendamientos-enajenaciones-y-11784"
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-14"
-last_updated: "1998-02-14"
+last_updated: "2005-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11784&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA ADQUISICIONES, ARRENDAMIENTOS, ENAJENACIONES Y SERVICIOS DEL PODER EJECUTIVO ESTATAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Oaxaca, el sábado 14 de febrero de 1998.
 
@@ -67,9 +67,13 @@ I.- Comisión: Comisión Intersecretarial de Gasto-Financiamiento;
 
 II.- Secretaría: Secretaría de Administración;
 
-III.- Contraloría: Contraloría General del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
 
-IV.- Dependencias: Organismos que integran la Gubernatura, Secretarías, Procuraduría General de Justicia del Estado, Contraloría General del Poder Ejecutivo y Organismos Desconcentrados;
+III.- Contraloría: Secretaría de la Contraloría del Poder Ejecutivo;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+IV.- Dependencias: Organismos que integran la Gubernatura, Secretarías, Procuraduría General de Justicia del Estado del Poder Ejecutivo y Organismos Desconcentrados;
 
 V.- Entidades: Organismos Descentralizados, empresas de participación estatal mayoritaria y aquellas entidades no comprendidas en la Administración Pública Centralizada, creadas por la Legislatura o por decreto del Ejecutivo;
 
@@ -535,9 +539,13 @@ El Vocal "A" será el Coordinador General del Comité Estatal de Planeación par
 
 El Vocal "B" será el Secretario de Finanzas como propietario. El Servidor Público que aquél designe bajo su responsabilidad, será su suplente.
 
-El Vocal "C" será el Secretario de Desarrollo Industrial y Comercial. El Servidor Público que aquél designe bajo su responsabilidad, será su suplente.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
 
-IV.- Un Comisario, que será el Contralor General del Poder Ejecutivo del Estado. El Servidor Público que aquél designe bajo su responsabilidad, será su suplente.
+El Vocal "C" será el Secretario de Economía. El Servidor Público que aquél designe bajo su responsabilidad, será su suplente.
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+IV.- Un Comisario, que será el Secretario de la Contraloría del Poder Ejecutivo del Estado. El Servidor Público que aquél designe bajo su responsabilidad, será su suplente.
 
 El Secretario Técnico y los Vocales A, B y C, tendrán voz y voto, en las sesiones respectivas, el Comisario únicamente voz.
 
@@ -621,7 +629,9 @@ El Vocal "C" será un Representante de la Secretaría de Finanzas, como propieta
 
 El Vocal "D" será el Jefe del Departamento de Recursos Materiales de la entidad de que se trate, o su equivalente, como propietario. El Servidor Público que designe el Titular de la entidad de que se trate, será su suplente.
 
-IV.- Un Comisado, que será el Delegado Contralor de la entidad de que se trate, como propietario. El Servidor Público que designe el Contralor General del Poder Ejecutivo, será su suplente.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+IV.- Un Comisario, que será el Delegado Contralor de la entidad de que se trate, como propietario. El Servidor Público que designe el Secretario de la Contraloría del Poder Ejecutivo, será su suplente.
 
 El Secretario Técnico y los Vocales A, B, C, y D tendrán voz y voto en las sesiones respectivas, el Comisario únicamente voz.
 
@@ -1030,3 +1040,9 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 LIC. HECTOR ANUAR MAFUD MAFUD. Rúbrica.
 
 Al C.....
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 22 DE MARZO DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
