@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "1923-03-26"
+last_updated: "1937-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 1923.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 1937.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -189,9 +189,11 @@ El Poder Legislativo será ejercido por una Asamblea de Diputados que se denomin
 
 De la elección y cualidades de los Diputados.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1937)</small>
+
 ###### Artículo 15º.
 
-El Congreso del Estado se compondrá de representantes nombrados en su totalidad cada dos años por los ciudadanos potosinos.
+El Congreso del Estado se compondrá de Representantes nombrados en su totalidad cada tres años por los Ciudadanos Potosinos.
 
 ###### Artículo 16º.
 
@@ -767,9 +769,11 @@ X.- Ejercer las demás atribuciones que designan las Leyes.
 
 La Ley determinará la organización del Tribunal para el despacho de los negocios comunes o de responsabilidades de que deba conocer, y los términos en que ha de ejercer sus facultades.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1937)</small>
+
 ###### Artículo 73º.
 
-De las causas que hayan de formarse a todo el Tribunal Supremo de Justicia o alguno de sus miembros, conocerá un Tribunal compuesto de triple número de Jueces que nombre el Congreso de fuera de su seno, el primer mes de sus sesiones ordinarias de cada bienio. Este Tribunal conocerá de dichas causas como Jurado de sentencia, siendo su fallo inapelable.
+De las causas que hayan de formarse a todo el Tribunal Supremo de Justicia o a alguno de sus miembros conocerá un Tribunal compuesto del triple número de Jueces que nombre el Congreso de fuera de su seno, el primer mes de sus Sesiones Ordinarias cada tres años.- Este Tribunal conocerá de dichas causas como Jurado de Sentencia, siendo su fallo inapelable.
 
 #### SECCION XI.
 
@@ -948,5 +952,9 @@ JOSE GONZALEZ.
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
 
 P.O. 26 DE MARZO DE 1923.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE SAN LUIS POTOSI.
+
+P.O. 18 DE ABRIL DE 1937.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE SAN LUIS POTOSI.
