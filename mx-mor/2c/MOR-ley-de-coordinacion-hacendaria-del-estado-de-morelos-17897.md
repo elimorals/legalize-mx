@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-coordinacion-hacendaria-del-estado-de-morelos-17897"
 country: "mx"
 rank: "ley"
 publication_date: "2000-08-30"
-last_updated: "2002-12-25"
+last_updated: "2003-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17897&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE COORDINACION HACENDARIA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 30 de agosto de 2000.
 
@@ -353,7 +353,7 @@ El Congreso del Estado a través del órgano técnico de fiscalización, será e
 
 II. (DEROGADO, P.O. 20 DE JULIO DE 2001)
 
-REFORMADO, P.O. 20 DE JULIO DE 2001)
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 29.
 
@@ -361,9 +361,11 @@ Se instituye el Fondo de Aportaciones Estatales para el Desarrollo Económico de
 
 (VEASE ARCHIVO ANEXO)
 
-Los recursos de este fondo que reciban los Municipios se destinarán única y exclusivamente al fomento de actividades agropecuarias y artesanales, en la proporción y conforme a los programas aprobados por el Ayuntamiento, no se podrá utilizar para gasto corriente; su ingreso y su aplicación en el gasto se registrarán en la Cuenta Pública Municipal.
+Los recursos que de este Fondo reciban los municipios invertirán incrementando la productividad económica, única y exclusivamente en infraestructura, equipamiento y capital de trabajo, en las ramas agropecuaria y artesanal; si fuera necesario para apoyar estas áras (sic) podrá ser, en ese caso, lo relacionado al comercio, industria y servicios, en la proporción y conforme a los programas previamente aprobados por el Ayuntamiento; en ningún caso podrá ser utilizado para el pago de nóminas o su equivalente en el gasto corriente o de operación; su ingreso y su aplicación en el gasto lo registrarán en la Cuenta Pública Municipal.
 
-La distribución por Municipio se incluirá en el Presupuesto de Egresos del Gobierno del Estado para cada ejercicio fiscal.
+En caso de desastres naturales o presencia de brotes epidémicos, que pongan en grave riesgo la vida o la salud de los habitantes de la localidad, será factible utilizar los recursos reales y existentes de este Fondo, previa autorización del Cabildo Municipal; en tales casos se dará aviso inmediato a las autoridades competentes y al Congreso del Estado, que valorará tal medida.
+
+La distribución por Municipio se incluirá en el Presupuesto de Egresos del Gobierno del Estado de cada ejercicio fiscal.
 
 ### CAPÍTULO V. DE LA COORDINACIÓN EN MATERIA DE DEUDA PÚBLICA
 
@@ -668,6 +670,16 @@ SEXTO.- A través de su presidencia, la Asamblea Estatal de Funcionarios Hacenda
 SEPTIMO.- En un plazo que no excederá de 90 días naturales a partir de la publicación de este Decreto, se deberán expedir los Reglamentos Interiores de la Comisión Permanente Estatal de Funcionarios Hacendarios y del Instituto de Finanzas Públicas y Federalismo Hacendario.
 
 P.O. 25 DE DICIEMBRE DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto, al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
+
+P.O. 6 DE AGOSTO DE 2003.
 
 ###### ARTÍCULO PRIMERO.
 
