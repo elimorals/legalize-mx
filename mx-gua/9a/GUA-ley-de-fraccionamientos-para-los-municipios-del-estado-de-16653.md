@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-fraccionamientos-para-los-municipios-del-estado-de-16653
 country: "mx"
 rank: "ley"
 publication_date: "1996-07-05"
-last_updated: "2001-07-17"
+last_updated: "2001-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE FRACCIONAMIENTOS PARA LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DEL 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2001.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 5 de julio de 1996.
 
@@ -729,7 +729,7 @@ LAS AUTORIDADES Y SUS ORGANOS AUXILIARES, TENDRAN LA FACULTAD DE ORDENAR VISITAS
 
 ###### ARTICULO 81.
 
-SE IMPONDRAN DE UNO A NUEVE AÑOS DE PRISION Y MULTA DE CIEN A MIL VECES EL IMPORTE DEL SALARIO MINIMO MAS ALTO VIGENTE EN EL ESTADO, A LOS TITULARES O REPRESENTANTES DE FRACCIONAMIENTOS O DE DESARROLLOS EN CONDOMINIO, QUE DOLOSAMENTE RECIBAN DINERO O CUALQUIERA OTRA PRESTACION POR LA CELEBRACION DE UN ACTO O CONTRATO VERBAL O ESCRITO QUE IMPLIQUE LA PROMESA O LA TRANSMISION DE DOMINIO U OTRO DERECHO SOBRE CUALQUIERA DE LOS INMUEBLES A QUE SE REFIERE ESTE ORDENAMIENTO, SIN CONTAR CON EL PERMISO O LA AUTORIZACION PARA TAL EFECTO.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)
 
 ### CAPITULO SEGUNDO
 
@@ -843,16 +843,32 @@ LIC. RAMON MARTIN HUERTA.
 
 P.O. 17 DE JULIO DEL 2001.
 
-DECRETO QUE REFORMA EL ARTICULO 26 DE LA LEY.
-
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 17 DE JULIO DEL 2001.
 
-DECRETO QUE REFORMA EL ARTICULO 8, FRACCION III Y 9 DE LA LEY.
+DECRETO QUE REFORMA EL ARTICULO 26 DE LA LEY.
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE NOVIEMBRE DE 2001.
+
+###### ARTICULO PRIMERO.
+
+Este Código entrará en vigor el 1º primero de enero del 2002 dos mil dos, previa publicación, junto con su dictamen, en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO TERCERO.
+
+Se deroga el artículo 81 ochenta y uno de la Ley de Fraccionamientos para los Municipios del Estado de Guanajuato.
+
+###### ARTICULO SEXTO.
+
+Quedan abrogadas todas las leyes anteriores sobre la materia.
+
+###### ARTICULO SEPTIMO.
+
+Quedan vigentes las disposiciones de carácter penal contenidas en otros ordenamiento, en todo lo que no se oponga a este Código.
