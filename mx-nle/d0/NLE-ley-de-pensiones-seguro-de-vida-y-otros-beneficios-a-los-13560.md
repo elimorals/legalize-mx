@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-pensiones-seguro-de-vida-y-otros-beneficios-a-los-13560"
 country: "mx"
 rank: "ley"
 publication_date: "1950-12-27"
-last_updated: "1950-12-27"
+last_updated: "1977-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PENSIONES, SEGURO DE VIDA Y OTROS BENEFICIOS A LOS VETERANOS DE LA REVOLUCION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 1977.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 27 de diciembre de 1950.
 
@@ -49,7 +49,11 @@ Esta Comisión no gozará de emolumentos especiales y a). Se encargará del estu
 
 ART. 3o.- Los beneficios que el Gobierno del Estado otorgará a los Veteranos en reconocimiento de los servicios prestados a la Revolución Mexicana son los siguientes:
 
-I.- Seguro de vida por la cantidad de $5,000.00 (cinco mil pesos) para cada uno de los Veteranos reconocidos conforme a esta Ley. El Gobierno del Estado podrá hacer préstamos hasta por la cantidad de $500.00 anuales a los Veteranos asegurados, a cuenta del valor de la póliza, cuando lo crea conveniente, y que las malas condiciones del asegurado así lo requieran.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1977)</small>
+
+I.- Seguro de Vida por la cantidad de $10,000.00 (DIEZ MIL PESOS 00/100 M. N.) para cada uno de los Veteranos reconocidos conforme a esta Ley.
+
+El Gobierno del Estado podrá hacer préstamos hasta por la cantidad de $500.00 anuales a los Veteranos asegurados, a cuenta del valor de la Póliza, cuando lo crea conveniente, y que las malas condiciones del asegurado así lo requieran.
 
 II.- Pensión Vitalicia de $100.00 a $300.00 a juicio del Ejecutivo del Edo. cuando sean acreedores a la misma por circunstancias de pobreza, edad avanzada o incapacidad para ganarse la vida. Recibirán este beneficio aunque ocupen puestos públicos o privados, si sus emolumentos por este concepto no exceden de $500.00 mensuales.
 
@@ -114,3 +118,13 @@ IGNACIO MORONES PRIETO
 El Secretario de Gobierno
 
 ALFREDO GARZA RIOS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE NOVIEMBRE DE 1977.
+
+> <small>(F. DE E., P.O. 21 DE NOVIEMBRE DE 1977)</small>
+
+PRIMERO:- Se deroga cualquier disposición contenida en la Ley de Pensiones objeto de esta reforma o cualquier otra que se interponga al cumplimiento de este Decreto.
+
+SEGUNDO:- El Presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
