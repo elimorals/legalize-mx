@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-procuraduria-general-de-justicia-del-12238"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-04-17"
-last_updated: "2001-11-21"
+last_updated: "2004-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 2004.
 
-Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes17 de abril de 1998.
+Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 1998.
 
 HECTOR TERAN TERAN.
 
@@ -271,7 +271,9 @@ XIV.- Agencias del Ministerio Público;
 
 XV.- Jefaturas de Grupo de la Policía Ministerial;
 
-XVI.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2004)</small>
+
+XVI.- Subprocuraduría Contra la Delincuencia Organizada;
 
 XVII.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
@@ -288,6 +290,24 @@ Operarán bajo el régimen de desconcentración pero directamente subordinadas a
 En cada Subprocuraduría de Zona operarán las Agencias del Ministerio Público Investigadoras por razón de la materia, en el número y clasificación que se requieran, conforme a la incidencia delictiva.
 
 De conformidad con las necesidades del servicio, el Procurador podrá establecer oficinas de la Procuraduría y Agencias del Ministerio Público, que se requieran de acuerdo con las disponibilidades presupuestales.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2004)</small>
+
+Las Subprocuradurías de Zona deberán auxiliar a la Subprocuraduría Contra la Delincuencia Organizada para el cumplimiento de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2004)</small>
+
+###### ARTÍCULO 5 Bis.
+
+La Subprocuraduría Contra la Delincuencia Organizada, contará con las atribuciones que establece la Ley Contra la Delincuencia Organizada del Estado de Baja California, esta Ley y su reglamento, y ejercerá su jurisdicción en el territorio del Estado.
+
+El Subprocurador Contra la Delincuencia Organizada tendrá las mismas facultades y obligaciones que se establecen para los Subprocuradores de Zona en el artículo 21 de esta Ley.
+
+Deberá reunir los requisitos que se prevén en el artículo 10 de esta Ley, para ocupar el cargo de Subprocurador.
+
+Los perfiles y requisitos que deberán satisfacer los demás servidores públicos que integren la Subprocuraduría Contra la Delincuencia Organizada, serán los establecidos por el Reglamento de esta Ley.
+
+La Subprocuraduría Contra la Delincuencia Organizada, contará con la estructura y servidores públicos necesarios para el cumplimiento de sus atribuciones, de conformidad a lo establecido por el Reglamento de esta Ley.
 
 > <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
@@ -1442,3 +1462,9 @@ P.O. 21 DE NOVIEMBRE DE 2001.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se otorgará un plazo de noventa días a partir de la entrada en vigor de las presentes reformas, a efecto de que se elabore el reglamento correspondiente y se adecuen todas aquellas normas jurídicas que impliquen impacto alguno en su contenido.
+
+P.O. 16 DE ENERO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas y adiciones entrarán en vigor, al día siguientes de su publicación en el Periódico Oficial del Estado de Baja California.
