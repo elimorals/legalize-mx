@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1998-12-26"
+last_updated: "1999-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 1999.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -667,7 +667,7 @@ X. Fijar las bases a los Ayuntamientos para la contratación de emprésitos;
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
-XI. Suprimir empleos públicos de acuerdo con las disposiciones de la Ley respectiva;
+XI. Suprimir empleos públicos de acuerdo con las disposiciones de la Ley respectiv;
 
 XII. Conceder permisos y decretar honores por servicios eminentes prestados a la Humanidad, a la Patria o al Estado;
 
@@ -699,7 +699,7 @@ XX. Conceder ammistía por delitos cuyo conocimiento corresponde exclusivamente 
 
 XXI. Nombrar y remover a los Magistrados del Supremo Tribunal de Justicia del Estado en los términos que establece la presente Constitución;
 
-XXII. Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General;
+XXII.- Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General;
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 1934)</small>
 
@@ -1061,11 +1061,11 @@ VI.- Los Magistrados del Tribunal Estatal Electoral y los Consejeros Electorales
 
 VII.- Los que estén sujetos a proceso criminal por delito que merezca pena corporal a contar de la fecha del auto de formal prisión.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 1999)</small>
 
 ###### Art. 80.
 
-El día 1 de enero inmediato a la elección entrará el Gobernador a ejercer sus funciones por 6 años y nunca podrá volver a desempeñar ese cargo ni por una nueva elección, ni con el carácter de provisional o interino.
+El día 4 de febrero de 1999 entrará el Gobernador a ejercer sus funciones por el término para el cual fue declarado electo y nunca podrá volver a desempeñar ese cargo ni por nueva elección ni con carácter de provisional o interino.
 
 ###### Art. 81.
 
@@ -1947,7 +1947,7 @@ Conociendo la acusación el Pleno del Supremo Tribunal de Justicia, erigido en J
 
 Las declaraciones y resoluciones del Congreso y del Supremo Tribunal de Justicia son inatacables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O.25 DE OCTUBRE DE 1997)</small>
 
 ###### Art. 152.
 
@@ -2869,13 +2869,15 @@ P.O. 26 DE DICIEMBRE DE 1998.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
+P.O. 20 DE ENERO DE 1999.
+
 ###### ARTICULO PRIMERO.
 
-Esta reforma entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+El presente Decreto entrará en vigor a partir de su expedición.
 
 ###### ARTICULO SEGUNDO.
 
-En los juicios de amparo pendientes de resolución ante la Suprema Corte de Justicia, en los que esté reclamada la inconstitucionalidad de una ley, turnados al ministro relator antes de que entre en vigor esta reforma, para decretar la caducidad de la instancia se requiere que transcurra un término de cien días, incluyendo los inhábiles, sin que el recurrente haya hecho promoción o se haya registrado acto procesal alguno en los autos. Dicho término se contará a partir del día siguiente en que entre en vigor esta reforma.
+El Artículo 80 de la Constitución Política del Estado de Tamaulipas, en los términos que fue reformado mediante el Decreto número 329 de la Quincuagésima Quinta Legislatura de Tamaulipas, publicado en el Periódico Oficial de fecha 10 de junio de 1995, surtirá sus efectos como lo dispone su Artículo Segundo Transitorio.
 
 ###### ARTICULO UNICO.
 
