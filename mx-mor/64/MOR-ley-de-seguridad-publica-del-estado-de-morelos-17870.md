@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-seguridad-publica-del-estado-de-morelos-17870"
 country: "mx"
 rank: "ley"
 publication_date: "2000-08-30"
-last_updated: "2000-08-30"
+last_updated: "2003-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA INTEGRAL DE SEGURIDAD PUBLICA DEL ESTADO DE MORELOS, PUBLICADA EN EL PERIODICO OFICIAL EL 30 DE JULIO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el 30 de agosto de 2000
 
@@ -1196,3 +1198,23 @@ SECRETARIO GENERAL DE GOBIERNO
 VÍCTOR MANUEL SAUCEDO PERDOMO
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE JULIO DE 2003.
+
+Artículo Primero.- Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+Artículo Segundo.- Se abroga la Ley de Seguridad Pública del Estado de Morelos, promulgada el 30 de agosto de 2000, publicada en el Periódico Oficial "Tierra y Libertad" número 4072, así como todas las disposiciones que se opongan a la presente Ley.
+
+Artículo Tercero.- El reglamento de la presente Ley deberá expedirse por el Ejecutivo Estatal en un plazo máximo de sesenta días naturales a partir de la vigencia de esta Ley.
+
+Artículo Cuarto.- Los demás reglamentos a que se refiere esta Ley deberán expedirse en un plazo no mayor de noventa días hábiles siguientes al de su publicación en el Periódico Oficial.
+
+Artículo Quinto.- El Congreso del Estado dispondrá de un plazo no mayor a noventa días para realizar la reforma al Código de Procedimientos Penales para el Estado de Morelos que refiere el artículo 53 de la presente Ley.
+
+Artículo Sexto.- Los juicios que se ventilan actualmente ante los Tribunales Jurisdiccionales, se resolverán conforme a lo dispuesto en la Ley que se abroga.
+
+Artículo Séptimo.- El Consejo Estatal de Seguridad Pública y los Consejos Municipales de Seguridad Pública a que se refiere la presente Ley, deberán ser instalados por el Gobernador del Estado y los Presidentes Municipales, según sea el caso, dentro de los treinta días naturales siguientes a la vigencia del presente ordenamiento, en los términos que el mismo dispone.
+
+Artículo Octavo.- Remítase la presente Ley al Titular del Poder Ejecutivo Estatal para los efectos constitucionales correspondientes.
