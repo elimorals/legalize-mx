@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-hacienda-del-estado-de-oaxaca-19106"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2002-12-31"
+last_updated: "2003-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE HACIENDA DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre del 2000.
 
@@ -59,9 +59,11 @@ La administración y recaudación de todos los ingresos establecidos legalmente 
 
 Cuando en alguna otra ley se dé una denominación distinta a la Secretaría de Finanzas del Gobierno del Estado de Oaxaca o a alguna de las Direcciones, Unidades Administrativas, Departamentos, Oficinas u Organismos Desconcentrados que la integran, se entenderá que dicha disposición legislativa se está refiriendo a la propia Secretaría.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 4.
 
-El pago de los impuestos, derechos, contribuciones de mejoras, productos y aprovechamientos que estén referidos a salarios mínimos, deberán efectuarse tomando como base el último salario mínimo general publicado en el Diario Oficial de la Federación, que corresponda al domicilio del sujeto obligado o responsable solidario, al momento en que se realice la situación jurídica o de hecho prevista en la norma, como hecho generador de la obligación.
+El pago de los impuestos, derechos, contribuciones de mejoras, productos y aprovechamientos que estén referidos a salarios mínimos, deberán efectuarse tomando como base el último salario mínimo general vigente en el Estado de Oaxaca, que corresponda al domicilio del sujeto obligado o responsable solidario, al momento en que se realice la situación jurídica o de hecho prevista en la norma, como hecho generador de la obligación.
 
 ## TITULO SEGUNDO. DE LOS IMPUESTOS
 
@@ -251,7 +253,9 @@ I.- La orden de intervención se notificará al sujeto obligado, su representant
 
 II.- El sujeto obligado, su representante legal o apoderado legal, estará presente durante la celebración del evento y en caso de no hacerlo, el interventor o interventores practicarán la diligencia con quien se encuentre, levantando acta circunstanciada en la que se asentarán los hechos u omisiones conocidos por el interventor, en presencia de dos testigos designados por la persona con quien se entienda la diligencia o en su ausencia o ante su negativa, se nombrarán por el interventor o interventores mencionados.
 
-III.- El interventor procederá a contabilizar los ingresos que por boletos vendidos obtenga el sujeto obligado, así como los ingresos por expendio de bebidas alcohólicas que se realicen durante el evento; procediendo a emitir la liquidación de (sic) impuesto correspondiente, cuyo importe deberá ser cubierto al término del evento al interventor, quien expedirá el recibo oficial que ampare el pago.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+III.- El interventor procederá a contabilizar los ingresos que por boletos vendidos obtenga el sujeto obligado, procediendo a emitir la liquidación de (sic) impuesto correspondiente, cuyo importe deberá ser cubierto al término del evento al interventor, quien expedirá el recibo oficial que ampare el pago.
 
 IV.- En caso de que no se cubra el impuesto que se haya liquidado en términos de la fracción anterior, el interventor estará facultado para proceder a embargar precautoriamente bienes suficientes del sujeto obligado, que garanticen el crédito; sujetándose para tal efecto, a las formalidades que establece el Código Fiscal del Estado.
 
@@ -894,3 +898,7 @@ SEGUNDO.- En lo que se refiere al Impuesto sobre Nóminas y tratándose de perso
 P.O. 31 DE DICIEMBRE DE 2002.
 
 UNICO.- El presente decreto entrará en vigor a partir del día 1 de enero del año 2003, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2004, previa publicación en el Periódico Oficial del Gobierno del Estado.
