@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-1934-1936-1433
 country: "mx"
 rank: "ley_organica"
 publication_date: "1934-08-31"
-last_updated: "1934-11-09"
+last_updated: "1935-01-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1433&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "1934-08-27"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-TEXTO ORIGINAL.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 9 DE NOVIEMBRE DE 1934.]
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE ENERO DE 1935.
 
 Ley publicada en la Sección Tercera del Diario Oficial, el viernes 31 de agosto de 1934.
 
@@ -55,13 +53,17 @@ V.- Por los Tribunales de los Estados, del Distrito y Territorios Federales, en 
 
 ### CAPITULO II. De la Suprema Corte de Justicia
 
+> <small>(REFORMADO, D.O. 1 DE ENERO DE 1935)</small>
+
 ###### ARTICULO 2°
 
-La Suprema Corte de Justicia de la Nación se compondrá de dieciséis Ministros y funcionará en Pleno o en Salas.
+La Suprema Corte de Justicia de la Nación, se compondrá de veintiún ministros y funcionará en Pleno o en Salas.
+
+> <small>(REFORMADO, D.O. 1 DE ENERO DE 1935)</small>
 
 ###### ARTICULO 3°
 
-El Pleno se compondrá de todos los Ministros que integran la Suprema Corte; pero bastará la presencia de once de sus miembros para que pueda funcionar.
+El Pleno se compondrá de todos los Ministros que integran la Suprema Corte; pero bastará la presencia de catorce de sus miembros para que pueda funcionar.
 
 ###### ARTICULO 4°
 
@@ -73,9 +75,11 @@ En caso de empate se resolverá el asunto en la sesión o sesiones siguientes, h
 
 La Suprema Corte de Justicia tendrá un presidente que durará en su encargo un año y podrá ser reelecto.
 
+> <small>(REFORMADO, D.O. 1 DE ENERO DE 1935)</small>
+
 ###### ARTICULO 6°
 
-La Suprema Corte de Justicia tendrá un secretario general de acuerdos, un subsecretario de acuerdos, un secretario de trámite, tres primeros secretarios correspondientes a cada una de las Salas, los secretarios auxiliares necesarios para el despacho, cuatro oficiales mayores, cuatro actuarios, un director del Boletín Judicial Federal, un redactor del Semanario Judicial de la Federación, compilador de leyes vigentes, debiendo ser todos mexicanos, ciudadanos en pleno ejercicio de sus derechos, abogados con título expedido por autoridad o corporación legítimamente facultada para otorgarlo, con práctica profesional no menor de tres años y de reconocida buena conducta. Tendrá, asimismo, la Suprema Corte, los empleados subalternos que determine el Presupuesto.
+La Suprema Corte de Justicia tendrá un Secretario General de Acuerdos, un Subsecretario de Acuerdos, un Secretario de Trámite, cuatro Primeros Secretarios de Acuerdos correspondientes a cada una de las Salas, los Secretarios auxiliares, Oficiales Mayores y actuarios necesarios para el despacho, un Director del Boletín Judicial Federal, un Redactor del Semanario Judicial de la Federación y un Compilador de Leyes vigentes, debiendo ser todos mexicanos ciudadanos en pleno ejercicio de sus derechos, abogados con título oficial expedido por la Facultad de Derecho, dependiente de la Universidad Nacional de México, por las Escuelas Libres de Derecho del Distrito Federal o de los Estados cuyos planes de estudios concuerden fundamentalmente con los de aquélla; por las Escuelas Oficiales de Derecho de los Estados de la República o por las autoridades de éstos legalmente facultadas para hacerlo y en donde existan Escuelas de Derecho; con práctica profesional no menor de tres años y de reconocida buena conducta. La Suprema Corte tendrá asimismo, los empleados subalternos que determine el Presupuesto.
 
 ###### ARTICULO 7°
 
@@ -237,9 +241,11 @@ Los cambios que por razón de la elección de Presidente de la Suprema Corte sea
 
 Fuera del caso a que se refiere el párrafo anterior, sólo podrá designarse a un Ministro para integrar otra Sala, cuando sea absolutamente indispensable en beneficio del servicio, a juicio del Pleno, después de un año de haber sido electo para integrar la Sala a que pertenezca, o cuando por falta temporal que no exceda de un mes de dos miembros de una misma Sala, sea necesario designar a un Ministro de otra Sala para que aquélla pueda funcionar.
 
+> <small>(REFORMADO, D.O. 1 DE ENERO DE 1935)</small>
+
 ###### ARTICULO 15.
 
-La Suprema Corte de Justicia funcionará, además, en tres Salas de cinco Ministros cada una; pero bastará la asistencia de cuatro de ellos para que las Salas puedan funcionar.
+La Suprema Corte de Justicia funcionará, además, en cuatro Salas de cinco Ministros cada una; pero bastará la asistencia de cuatro de ellos para que las Salas puedan funcionar.
 
 ###### ARTICULO 16.
 
@@ -305,25 +311,27 @@ IX.- De las controversias cuya resolución encomiende a la Suprema Corte de Just
 
 X.- De los demás asuntos que la ley le encargue expresamente.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O. 1 DE ENERO DE 1935)</small>
+
 ###### ARTICULO 25.
 
 Corresponde conocer a la Segunda Sala:
 
-> <small>(F. DE E., D.O. 9 DE NOVIEMBRE DE 1934)</small>
+I.- De los recursos que la Ley concede ante la Suprema Corte de Justicia, contra las resoluciones dictadas por los Jueces de Distrito en los juicios de amparo a que se refiere la fracción II del artículo 38 de esta Ley;
 
-I.- De los recursos que la ley conceda ante la Suprema Corte de Justicia, contra las resoluciones dictadas por los Jueces de Distrito en los juicios de amparo a que se refieren las fracciones II a IV del artículo.
+II.- De los juicios de amparo que se promuevan en única instancia contra las sentencias definitivas dictadas por las autoridades judiciales, en las controversias de que tratan las fracciones I y II del mismo artículo 38;
 
-II.- De los juicios de amparo que se promuevan en única instancia contra las sentencias definitivas dictadas por las autoridades judiciales, en las controversias de que tratan las fracciones I y II del mismo artículo 38.
+III.- De las controversias que surjan entre una Entidad Federativa o un particular y la Federación, en que ésta figure como parte actora, en defensa de intereses patrimoniales, siempre que para la procedencia de la acción o de las acciones intentadas, o de la excepción o de las excepciones opuestas, deba decidirse acerca de la legalidad o eficacia de un acto de autoridad, ya sea de la Federación o de algún órgano local;
 
-III.- De las controversias que surjan entre una Entidad Federativa o un particular y la Federación, en que ésta figure como parte actora, en defensa de intereses patrimoniales, siempre que para la procedencia de la acción o de las acciones intentadas, o de la excepción o de las excepciones opuestas, deba decidirse acerca de la legalidad o eficacia de un acto de autoridad, ya sea de la Federación o de algún órgano local.
+IV.- De las controversias que se susciten entre tribunales federales de diversos circuitos con motivo de los asuntos a que se refiere la fracción I del artículo 38 de esta Ley;
 
-IV.- De las controversias que se susciten entre tribunales federales de diversos circuitos con motivo de los asuntos a que se refiere la fracción I del artículo 38 de esta Ley.
+V.- De las competencias que se susciten entre los Jueces de Distrito con motivo de los amparos a que se refieren las fracciones II a IV del artículo 38 de esta Ley;
 
-V.- De las competencias que se susciten entre los Jueces de Distrito con motivo de los amparos a que se refieren las fracciones II a IV del artículo 38 de esta Ley.
+VI.- De los impedimentos y excusas de los Jueces de Distrito en los amparos a que se refieren las fracciones II a IV del artículo 38 de esta Ley y de los impedimentos, excusas y recusaciones de los Magistrados de Circuito en los asuntos de que trata la fracción I del propio artículo 38;
 
-VI.- De los impedimentos y excusas de los Jueces de Distrito en los amparos a que se refieren las fracciones II a IV del artículo 38 de esta Ley y de los impedimentos, excusas y recusaciones de los Magistrados de Circuito en los asuntos de que trata la fracción I del propio artículo 38.
+VII.- De los demás asuntos que la Ley le encargue expresamente.
 
-VII.- De los demás asuntos que la ley le encargue expresamente.
+Se exceptúan de la competencia de esta Sala los asuntos encomendados a la Cuarta por el artículo 26 bis.
 
 ###### ARTICULO 26.
 
@@ -342,6 +350,22 @@ IV.- De las competencias que se susciten entre Juzgados de Distrito, con motivo 
 V.- De los impedimentos y excusas de los Jueces de Distrito en los amparos a que se refiere la fracción anterior y de los impedimentos, excusas y recusaciones de los Magistrados de Circuito en los asuntos del orden civil.
 
 VI.- De los demás asuntos que la ley le encargue expresamente.
+
+> <small>(ADICIONADO, D.O. 1 DE ENERO DE 1935)</small>
+
+ARTICULO 26 BIS.- Corresponde conocer a la Cuarta Sala:
+
+I.- De los recursos que la Ley conceda ante la Suprema Corte de Justicia contra las resoluciones dictadas por los Jueces de Distrito en los juicios de amparo que se promuevan contra Autoridades del Trabajo, ya sean federales o locales.
+
+II.- De los recursos que la Ley conceda ante la propia Suprema Corte de Justicia contra las resoluciones dictadas por los Jueces de Distrito en los amparos pedidos contra leyes y demás disposiciones de observancia general, relativas al Trabajo y Previsión Social, cuando no se reclama acto concreto de aplicación por parte de una autoridad, y siempre que con la simple expedición de aquéllas se cree, modifique o extinga en perjuicio de quejoso una situación concreta de Derecho;
+
+III.- De los recursos en los incidentes de suspensión correspondientes a los juicios de amparo a los cuales se refieren las dos fracciones anteriores; y de las quejas propuestas conforme a los artículos 23 y 52 de la Ley Reglamentaria de los artículos 103 y 104 de la Constitución General o de las que se formulen por defecto o exceso de ejecución dentro del procedimiento de los expresados juicios de amparo;
+
+IV.- De las competencias que se susciten entre los Jueces de Distrito con motivo de los juicios de amparo a que se refieren las fracciones anteriores;
+
+V.- De los impedimentos y excusas de los Jueces de Distrito en los amparos a que se refieren las fracciones I y II de este artículo;
+
+VI.- De los demás asuntos que la Ley le encomienda expresamente.
 
 ###### ARTICULO 27.
 
@@ -393,15 +417,19 @@ VI.- Desempeñar cualquiera otra función administrativa que resulte de la propi
 
 Los Tribunales de Circuito se compondrán de un Magistrado, con el número de secretarios, actuarios y demás empleados que determine el Presupuesto.
 
+> <small>(REFORMADO, D.O. 1 DE ENERO DE 1935)</small>
+
 ###### ARTICULO 30.
 
-Para ser Magistrado de Circuito, se requiere, ser mexicano por nacimiento, en pleno ejercicio de sus derechos, mayor de treinta años, abogado con título expedido por autoridad o corporación legítimamente facultada para ello, ser de buena conducta y tener cinco años, cuando menos, de ejercicio de la profesión.
+Para ser Magistrado de Circuito se requiere:
 
-Para ser secretario o actuario de un Tribunal de Circuito se requiere: ser mexicano en pleno ejercicio de sus derechos, abogado con título expedido por autoridad o corporación legítimamente facultada para ello y de buena conducta. Los secretarios deberán tener veinticinco años cuando menos y los actuarios veintiuno.
+Ser mexicano por nacimiento, en pleno ejercicio de sus derechos, mayor de treinta años, abogado con título expedido por la Facultad de Derecho, dependiente de la Universidad Nacional de México; por las Escuelas Libres de Derecho del Distrito Federal o de los Estados cuyos planes de estudio concuerden fundamentalmente con los de aquélla; por las Escuelas Oficiales de Derecho de los Estados de la República o por las autoridades de éstos, legalmente facultadas para hacerlo y en donde existan Escuelas de Derecho; de buena conducta y tener cinco años, cuando menos, de ejercicio de la profesión.
 
-La Suprema Corte podrá dispensar del requisito del título a los actuarios.
+Para ser Secretario o Actuario de un Tribunal de Circuito, se requieren los mismos requisitos que para ser Magistrado, con excepción de la práctica profesional que no será exigible y de la edad que deberá ser de 25 años, cuando menos, respecto de los Secretarios y de 21, respecto de los Actuarios.
 
-Los secretarios, actuarios y demás empleados de los Tribunales de Circuito, serán nombrados por el Magistrado del tribunal correspondiente.
+La Suprema Corte podrá dispensar el requisito del título a los Actuarios.
+
+Los Secretarios, Actuarios y demás empleados de los Tribunales de Circuito, serán nombrados por el Magistrado del Tribunal correspondiente.
 
 ###### ARTICULO 31.
 
@@ -433,17 +461,17 @@ V.- De los demás asuntos que les encomienden las leyes.
 
 El personal de cada uno de los Juzgados de Distrito se compondrá de un Juez y del número de secretarios, actuarios y demás empleados que determine el Presupuesto.
 
+> <small>(REFORMADO, D.O. 1 DE ENERO DE 1935)</small>
+
 ###### ARTICULO 35.
 
-Para ser Juez de Distrito, se requiere: ser mexicano por nacimiento, en pleno ejercicio de sus derechos; mayor de veinticinco años, abogado con título expedido por autoridad o corporación legalmente facultada para ello; ser de buena conducta y tener tres años cuando menos de ejercer la profesión.
+Para ser Juez de Distrito se requiere:
 
-Los secretarios y actuarios deberán ser mexicanos en pleno ejercicio de sus derechos, mayores de edad, abogados con título expedido por autoridad o corporación legalmente facultada para ello y de buena conducta.
+Ser mexicano por nacimiento, en pleno ejercicio de sus derechos; mayor de 25 años; abogado con título expedido por la Facultad de Derecho, dependiente de la Universidad Nacional de México; por las Escuelas Libres de Derecho del Distrito Federal o de los Estados cuyos planes de estudios concuerden fundamentalmente con los de aquélla; por las Escuelas Oficiales de Derecho de los Estados de la República o por las autoridades de éstos, legalmente facultadas para hacerlo y en donde existan Escuelas de Derecho; ser de buena conducta y tener tres años, cuando menos, de ejercer la profesión.
 
-> <small>(F. DE E., D.O. 9 DE NOVIEMBRE DE 1934)</small>
+Los Secretarios y Actuarios deberán ser mexicanos en pleno ejercicio de sus derechos, mayores de edad y con título oficial, con los requisitos que se exigen en el artículo 30 y de buena conducta. La Suprema Corte podrá dispensar el requisito del título a los Actuarios.
 
-La Suprema Corte podrá dispensar el requisito del título a los actuarios.
-
-Los secretarios, actuarios y demás empleados de los Juzgados de Distrito, serán nombrados por los Jueces de que dependan.
+Los Secretarios, Actuarios y demás empleados de los Juzgados de Distrito, serán nombrados por los Jueces de que dependan.
 
 ###### ARTICULO 36.
 
@@ -893,9 +921,11 @@ Los Magistrados de Circuito y los Jueces de Distrito disfrutarán cada año de d
 
 Los demás empleados del Poder Judicial de la Federación gozarán, durante el año, de dos períodos de vacaciones, que no excederán de quince días cada uno, procurándose que no sean concedidos simultáneamente a todos los de la misma oficina. Fuera de estos casos, los Magistrados de Circuito y los Jueces de Distrito sólo podrán conceder licencias a los empleados que de ellos dependan, por causas justificadas y sin que excedan de diez días.
 
+> <small>(REFORMADO, D.O. 1 DE ENERO DE 1935)</small>
+
 ###### ARTICULO 81.
 
-Los Ministros de la Suprema Corte de Justicia, los Magistrados de Circuito y los Jueces de Distrito a quienes se nombre conforme a las disposiciones constitucionales, permanecerán indefinidamente en sus cargos durante todo el tiempo que observen buena conducta y desempeñen cumplidamente las funciones que les correspondan con arreglo a la ley; y sólo podrán ser separados de ellos, en los términos del párrafo final del artículo 111 de la Constitución, sin perjuicio de exigirles, en su caso, las responsabilidades que fueren procedentes, o mediante el juicio de responsabilidad que corresponda con arreglo a las leyes.
+Los Ministros de la Suprema Corte de Justicia, los Magistrados de Circuito y los Jueces de Distrito a quienes se nombre conforme a las disposiciones constitucionales, durarán en sus encargos seis años, pero podrán ser privados de sus puestos cuando observen mala conducta, en los términos del párrafo final del artículo 111 de la Constitución o previo el juicio de responsabilidad que corresponda con arreglo a las leyes.
 
 ###### ARTICULO 82.
 
@@ -1022,3 +1052,25 @@ Lo que comunico a usted para su conocimiento y demás fines.
 Sufragio Efectivo. No Reelección.
 
 México, D. F., a 29 de agosto de 1934.- El Subsecretario de Gobernación, Encargado del Despacho, Juan G. Cabral.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 1 DE ENERO DE 1935.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
+
+###### ARTICULO 1°.
+
+El presente Decreto entrará en vigor en la fecha de su publicación.
+
+###### ARTICULO 2°.
+
+Todos los asuntos de que éste conociendo actualmente la Segunda Sala de la Suprema Corte de Justicia y que correspondan a la Cuarta Sala, de conformidad con las reformas contenidas en la presente Ley, pasarán al conocimiento y resolución de esta última, a cuyo efecto deberá hacerse la entrega de los expedientes respectivos.
+
+###### ARTICULO 3°.
+
+En tanto se expide una nueva Ley Orgánica del Poder Judicial de la Federación, el Pleno de la Suprema Corte de Justicia podrá disponer que la Primera Sala conozca de juicios de amparo de la competencia de la Tercera, cuando con ello no se perjudiquen las labores de aquélla.
+
+###### ARTICULO 4°.
+
+Se reforma en los términos de la presente Ley, la (sic) Orgánica del Poder Judicial de la Federación, de fecha 29 de agosto de 1934.
