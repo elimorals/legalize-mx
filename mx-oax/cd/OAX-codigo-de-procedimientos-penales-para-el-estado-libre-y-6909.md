@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-penales-para-el-estado-libre-y-6909"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "1994-07-09"
+last_updated: "1994-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 1994.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -187,11 +187,11 @@ En los casos de los dos artículos anteriores el Ministerio Público o la Polic�
 
 Los funcionarios de la policía judicial y, del Ministerio Público podrán citar para que declaren sobre los hechos que se averiguen (sic), a las personas que por cualquier concepto participen en ellos o aparezcan que tengan datos sobre los mismos. En el acta se hará constar quién mencionó a la persona que haya de citarse o por qué motivo el funcionario o agente que practique las diligencias estime conveniente hacer la citación.
 
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1994)</small>
 
-###### Art. 19 Bis
+###### Art. 19 Bis.
 
-- Cuando con motivo de una averiguación previa el Ministerio Público estime necesario el arraigo del indiciado, tomando en cuenta las características del hecho imputado y las circunstancias personales de aquél, recurrirá al órgano jurisdiccional fundando y motivando su petición, para que éste, oyendo al indiciado, resuelva el arraigo con vigilancia de la autoridad, la que ejercerán el Ministerio Público y sus auxiliares. El arraigo se prolongará por el tiempo estrictamente indispensable para la debida integración de la averiguación de que se trate, no pudiendo exceder de treinta días, pero podrá prorrogarse por igual término a petición del Ministerio Público, el Juez resolverá escuchando al Ministerio Público y al arraigado sobre la subsistencia o el levantamiento del arraigo.
+Cuando con motivo de una averiguación previa el Ministerio Público estime necesario el arraigo del indiciado, tomando en cuenta las características del hecho imputado y las circunstancias personales de aquél, recurrirá al órgano jurisdiccional fundando y motivando su petición, para que éste, oyendo al indiciado, resuelva el arraigo con vigilancia de la autoridad, la que ejercerán el Ministerio Público y sus auxiliares. El arraigo se prolongará por el tiempo estrictamente indispensable para la debida integración de la averiguación de que se trate, no pudiendo exceder de treinta días.
 
 ###### Art. 20.
 
@@ -225,49 +225,53 @@ En esos casos el Ministerio Público iniciará desde luego la averiguación prev
 
 La violación de esta disposición hará penalmente responsable al Ministerio Público o funcionario que decrete indebidamente la detención y la persona así detenida será puesta en inmediata libertad.
 
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1994)</small>
 
-Art. 23 Bis A.- En casos urgentes el Ministerio Público podrá bajo su responsabilidad, ordenar por escrito la detención de una persona, fundando y expresando los indicios que acrediten:
+Art. 23 Bis A.- En caso urgente el Ministerio Público podrá bajo su responsabilidad, ordenar por escrito la detención de una persona, fundando y expresando los indicios que acrediten:
 
-A).- Que el indiciado haya intervenido en la comisión de alguno de los delitos señalados como graves en este artículo.
+A) Que el indiciado haya intervenido en la comisión de alguno de los delitos señalados como graves en este artículo.
 
-B).- Que exista riesgo fundado de que el indiciado puede sustraerse a la acción de la justicia; y
+B) Que exista riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia; y
 
-C).- Que por razón de la hora, lugar o cualesquier otra circunstancia, no pueda ocurrir ante autoridad judicial para solicitar la orden de aprehensión.
+C) Que por razón de la hora, lugar o cualquier otra circunstancia, no pueda ocurrir ante autoridad judicial para solicitar la orden de aprehensión.
 
 La violación de esta disposición hará penalmente responsable al Ministerio Público o funcionario que decrete indebidamente la detención y el sujeto será puesto en inmediata libertad.
 
-Se califican como Delitos Graves para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los previstos en los siguientes artículos del Código Penal para el Estado de Oaxaca:
+Se califican como Delitos Graves para todos los efectos legales por afectar de manera importante valores fundamentales de la sociedad, los previstos en los siguientes artículos del Código Penal para el Estado de Oaxaca:
 
-HOMICIDIO POR CULPA GRAVE: Previsto en el segundo párrafo del artículo 69.
+DELITOS CULPOSOS, previstos y penados en la primera parte del segundo párrafo del artículo 69.
 
-EVASIÓN DE PRESOS: Previsto en el artículo 155.
+REBELIÓN, previsto en el artículo 141.
 
-ATAQUE A LAS VIAS DE COMUNICACIÓN: Previsto en los artículos 169, 170, 172.
+EVASIÓN DE PRESOS, previsto en el artículo 155.
 
-CORRUPCIÓN DE MENORES: Previsto en el artículo 195.
+ATAQUES A LAS VIAS DE COMUNICACIÓN, previsto en los artículos 170 y 172.
 
-PECULADO Y CONCUSION: Previsto por los artículos 213 y 215.
+CORRUPCIÓN DE MENORES, previsto en el artículo 195.
 
-ABUSO DE AUTORIDAD: Previsto por el artículo 208 fracciones XXVI y XXXVIII, en relación con los párrafos sexto y séptimo del artículo 209.
+ABUSO DE AUTORIDAD, previsto en el artículo 208 fracciones XXIV y XXXVIII.
 
-ALLANAMIENTO DE MORADA: Previsto en el artículo 267 in fine.
+FALSIFICACIÓN DE SELLOS, LLAVES, CUÑOS, TROQUELES Y MARCAS, previsto en el artículo 224.
 
-VIOLACIÓN: Previsto en los artículos 246, 247 y 248.
+VIOLACIÓN, previsto en los artículos 246, 247 y 248 primero y segundo párrafos.
 
-ASALTO: Previsto en los artículos 268, 269 y 270.
+ASALTO, previsto en los artículos 268, 269 y 270 último párrafo.
 
-HOMICIDIO: Previsto en los artículos 285 en relación al 289, 291, 292, 296 y 299.
+HOMICIDIO, previsto en los artículos 285 en relación con el 289, 290, 291, 292 y 296 segunda y tercera parte.
 
-PARRICIDIO: Previsto en los artículos 306 y 307.
+PARRICIDIO, previsto en el artículo 307.
 
-SECUESTRO: Previsto en el artículo 348, con excepción de la segunda parte de la fracción V.
+INFANTICIDIO, previsto en el artículo 309 primera parte.
 
-ROBO CALIFICADO: Previsto en los artículos 349 en relación con los artículos 353, 354, 355, 359 y 369 fracción VII.
+SECUESTRO, previsto en el artículo 348 con excepción de la segunda parte de la fracción V y del último párrafo de este artículo.
 
-ABIGEATO: Previsto en los artículos 370 en relación al 371, 372, 373, 374 y 375.
+ROBO, previsto en los artículos 349 en relación con los artículos 354, 355, 359, 362 fracción V y 369 fracciones I y VIII.
 
-DESPOJO: Previsto en el artículo 384.
+ABIGEATO, previsto en el artículo 370 en relación con los artículos 372 y 373 fracción III.
+
+DESPOJO, previsto en el artículo 384 en relación con el artículo 386.
+
+TORTURA, previsto en los artículos 2, 3 y 4 de la Ley Estatal para Prevenir y Sancionar la Tortura.
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -891,7 +895,7 @@ Las resoluciones judiciales se dictarán por los Magistrados del Tribunal Superi
 
 Para la validez de la sentencia, y de los autos que no sean de mero trámite dictados por un Tribunal Colegiado, se requerirá, cuando menos, el voto de la mayoría de sus miembros.
 
-Cuando alguno de los componentes del Tribunal Colegiado no estuviere conforme con la resolución de la mayoría, expresará suscintamente las razones de su inconformidad en voto particular, que se agregará al expediente.
+Cuando alguno de los componentes del Tribunal Colegiado no estuviere conforme con la resolución de la mayoría, expresará suscintamente (sic) las razones de su inconformidad en voto particular, que se agregará al expediente.
 
 Los Jueces y Alcaldes no podrán modificar ni variar sus sentencias después de firmadas, ni el Tribunal Superior de Justicia del Estado, después de haberlas votado. Esto se entiende sin perjuicio de la aclaración de sentencia.
 
@@ -1473,6 +1477,8 @@ Al recibirse en un establecimiento de detención a cualquier persona en calidad 
 
 DE LA LIBERTAD BAJO CAUCION.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1994)</small>
+
 ###### Art. 239.
 
 Dentro de las cuarenta y ocho horas contadas desde que un detenido ha quedado a disposición de la autoridad judicial encargada de practicar la instrucción, se procederá a tomarle su declaración preparatoria.
@@ -1631,27 +1637,57 @@ DE LA LIBERTAD POR DESVANECIMIENTO DE DATOS PARA PROCESAR.
 
 ###### Art. 269.
 
-Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, en el momento en que lo solicite, siempre que el término medio aritmético de la sanción corporal correspondiente al delito que se le impute, no exceda de cinco años. En casos de acumulación se deberá atender a la suma de los términos medios de la sanción correspondiente a cada infracción, o al máximo de la señalada al delito de mayor gravedad si aquella suma excediera de este máximo.
+Todo inculpado tendrá derecho, durante la averiguación previa y en el proceso judicial, a ser puesto en libertad bajo caución, inmediatamente que lo solicite, si se reúnen los siguientes requisitos:
+
+I.- Que garantice el monto estimado de la reparación del daño;
+
+Tratándose de delitos que afecten la vida o la integridad corporal, el monto de la reparación no podrá ser menor del que resulte aplicándose las disposiciones relativas de la Ley Federal del Trabajo;
+
+II.- Que garantice las sanciones pecuniarias que en su caso puedan imponérsele;
+
+III.- Que otorgue caución para el cumplimiento de las obligaciones que, en términos de ley, se deriven a su cargo en razón del proceso; y
+
+IV.- Que no se trate de los delitos que por su gravedad están previstos en el artículo 23 Bis A de este Código.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1994)</small>
 
 ###### Art. 270.
 
-Para los efectos del artículo anterior y para todos aquéllos en que la aplicación de los preceptos de éste Código o del Código Penal sea preciso atender al término medio de una sanción, se entenderá que éste es la mitad de la suma de los dos extremos.
+A petición del procesado o su defensor la caución a que se refiere la fracción III del artículo anterior, se reducirá en la proporción que el Juez estime justa y equitativa por cualquiera de las circunstancias siguientes:
+
+I.- El tiempo que el procesado lleve privado de su libertad;
+
+II.- La disminución acreditada de las consecuencias o efectos del delito;
+
+III.- La imposibilidad económica demostrada para otorgar la caución señalada inicialmente, aún con pagos parciales;
+
+IV.- El buen comportamiento observado en el Centro de Reclusión de acuerdo con el informe que rinda el Director o Alcaide del mismo; y
+
+V.- Otras que racionalmente conduzcan a crear seguridad de que no procurará sustraer a la acción de la justicia.
+
+La petición de reducción se tramitará en incidente que se substanciará conforme a las reglas señaladas en los artículos 337, 338 y 339 de este Código.
+
+Las garantías a que se refieren las fracciones I y II del artículo que antecede, sólo podrán ser reducidas, en los términos expuestos en el primer párrafo del presente artículo. Cuando se verifique la circunstancia señalada en la fracción III de este artículo en este caso, si se llegare a acreditar que para obtener la reducción el inculpado simuló su insolvencia, o bien, que con posterioridad a la reducción de la caución recuperó su capacidad económica para cubrir los montos de las garantías inicialmente señaladas, de no restituir a éstas en el plazo que el Juez señale para ese efecto, se le revocará la libertad provisional que tenga concedida.
 
 ###### Art. 271.
 
 La libertad bajo caución podrá pedirse en cualquier tiempo, mientras no se haya dictado sentencia ejecutoria, y se decretará inmediatamente que sean satisfechos los requisitos legales correspondientes. La solicitud de libertad caucional podrá formularse verbalmente o por escrito y se acordará en la misma pieza de autos del proceso.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1994)</small>
+
 ###### Art. 272.
 
-Cuando la solicitud de libertad caucional se formule ante las autoridades que procedieron a la detención del inculpado, dichas autoridades harán constar la petición en el acta de policía judicial, a fin de que, tan luego como el Ministerio Público o el Tribunal reciban la consignación respectiva, acuerden lo procedente a dicha solicitud. El Ministerio Público podrá conceder el beneficio de la libertad caucional a los detenidos que estén a su disposición, sólo cuando se trate de delitos culposos cometidos con motivo del tránsito de vehículos.
+Cuando la solicitud de libertad caucional se formule ante las autoridades que procedieron a la detención del inculpado, dichas autoridades harán constar la petición en el acta de Policía Judicial, a fin de que, tan luego como el Ministerio Público o el Tribunal reciban la consignación respectiva, acuerden lo procedente a dicha solicitud.
 
 ###### Art. 273.
 
 La naturaleza de la caución quedará a elección del inculpado quien al solicitar la libertad manifestará la forma que elige, para los efectos de que el Tribunal o el Ministerio Público en su caso, fijen el monto de la caución a la naturaleza de la ofrecida. En caso de que el inculpado, su representante o su defensor, no hagan la manifestación mencionada, el Tribunal o el Ministerio Público de acuerdo con el artículo siguiente, fijarán las cantidades que correspondan a cada una de las formas de caución.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE AGOSTO DE 1994)</small>
+
 ###### Art. 274.
 
-El monto de la caución se fijará por el Tribunal o el Ministerio Público en su caso, tomando en consideración:
+El monto de la caución a que se refiere la fracción III del artículo 269 será asequible para el inculpado y se fijará tomando en consideración:
 
 I.- Los antecedentes del inculpado;
 
@@ -1667,9 +1703,13 @@ V.- La naturaleza de la garantía que se ofrezca.
 
 La garantía de libertad podrá consistir en depósito en efectivo, en hipotecas o fianza.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE AGOSTO DE 1994)</small>
+
 ###### Art. 276.
 
-La caución consistente en depósito en efectivo, se hará por el inculpado o por terceras personas ante el Tribunal que corresponda y previa razón que se tome en autos, así como en el libro de valores respectivo, se remitirá al fondo para la Administración de Justicia. En los Distritos Foráneos los Jueces remitirán dicho depósito dentro del improrrogable término de veinticuatro horas, mediante giro telegráfico, agregando a los autos el comprobante respectivo y asentando razón de ello en el expediente. El certificado correspondiente que expida el fondo para la administración de Justicia se depositará en la caja de valores del Tribunal que conozca del proceso. Los Jueces de Primera Instancia deberán comunicar de inmediato al Tribunal Superior de Justicia del Estado la recepción de cualquier depósito en efectivo.
+La caución consistente en depósito en efectivo, se hará por el inculpado o por terceras personas ante el Tribunal que corresponda y previa razón que se tome en autos, así como en el libro de valores respectivo y se remitirá al Fondo para la Administración de Justicia. En los distritos foráneos los Jueces remitirán dicho depósito dentro del improrrogable término de veinticuatro horas, mediante giro telegráfico, agregando a los autos el comprobante respectivo y sentando razón de ello en el expediente. El certificado correspondiente que expida se depositará en la caja de valores del Tribunal que conozca del proceso. Los Jueces de Primera Instancia deberán comunicar de inmediato al Tribunal Superior de Justicia del Estado la recepción de cualquier depósito en efectivo.
+
+Cuando la caución a que se refiere este artículo se otorgue ante el Ministerio Público, éste la pondrá a disposición del Tribunal al ejercitar la acción penal, para los efectos del párrafo anterior.
 
 ###### Art. 277.
 
@@ -2177,7 +2217,7 @@ IV.- Para que las presunciones puedan tener valor, se requiere: a).- Que esté p
 
 V.- Cuando la única prueba aportada en autos sea la testimonial, no podrá dársele valor probatorio pleno, sino cuando reúna los siguientes requisitos: a).- Que sean dos cuando menos los testigos que declaren; b).- Que éstos convengan no sólo en la substancia sino también en los accidentes del acto que refieren, o aún cuando no convengan en estos últimos, no modifiquen la esencia del hecho; c).- Que haya oído pronunciar palabras, presenciado el acto, o visto el hecho material sobre qué deponen; d).- Que tengan capacidad legal para declarar; e).- Que dén razón fundada de su dicho;
 
-VI.-Tanto en el caso del artículo anterior, como en cualquier otro, los Tribunales, para apreciar la declaración del testigo tendrán en consideración: a).- Que el testigo sea capaz de declarar; b).- Que por su edad, capacidades física e intelectual, e instrucción, tenga el criterio necesario para juzgar del hecho sobre que declara; c).- Que por su propiedad, independencia de su posición y sus antecedentes personales, tenga completa imparcialidad; d).- Que el hecho de que se trate sea susceptible de ser conocido por medio de los sentidos, y que el testigo lo haya percibido por él mismo y no por induciones (sic) ni referencias de otro; e).- Que la declaración sea clara y precisa, sin duda ni reticencias, ya sobre la substancia del hecho, ya sobre sus circunstancias esenciales; f).- Que el testigo no haya sido obligado a declarar, por fuerza o miedo, ni impulsado por error, engaño o soborno. El apremio judicial no se reputa como fuerza;
+VI.- Tanto en el caso del artículo anterior, como en cualquier otro, los Tribunales, para apreciar la declaración del testigo tendrán en consideración: a).- Que el testigo sea capaz de declarar; b).- Que por su edad, capacidades física e intelectual, e instrucción, tenga el criterio necesario para juzgar del hecho sobre que declara; c).- Que por su propiedad, independencia de su posición y sus antecedentes personales, tenga completa imparcialidad; d).- Que el hecho de que se trate sea susceptible de ser conocido por medio de los sentidos, y que el testigo lo haya percibido por él mismo y no por induciones (sic) ni referencias de otro; e).- Que la declaración sea clara y precisa, sin duda ni reticencias, ya sobre la substancia del hecho, ya sobre sus circunstancias esenciales; f).- Que el testigo no haya sido obligado a declarar, por fuerza o miedo, ni impulsado por error, engaño o soborno. El apremio judicial no se reputa como fuerza;
 
 VII.- Para que los documentos privados puedan tener valor probatorio, deberán ser reconocidos por su autor, o que éste no los haya objetado a pesar de saber que figuran en el proceso.
 
@@ -3438,3 +3478,7 @@ SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicac
 P.O. 9 DE JULIO DE 1994.
 
 UNICO.- Las presentes reformas y adiciones hechas al Código de Procedimientos Penales del Estado de Oaxaca, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE AGOSTO DE 1994.
+
+ÚNICO.- Las presentes reformas, adiciones y derogaciones al Código Penal y Código de Procedimientos Penales del Estado Libre y Soberano de Oaxaca, entrarán en vigor el día cuatro de septiembre de mil novecientos noventa y cuatro previa su publicación en el Periódico Oficial del Gobierno del Estado.
