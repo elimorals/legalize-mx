@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2002-09-28"
+last_updated: "2002-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2002.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -2149,7 +2149,9 @@ Este impuesto, se causará a la tasa del diez por ciento sobre el importe del bo
 
 Es objeto de este impuesto:
 
-I.- La propiedad o posesión de predios urbanos y rústicos;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
+I.- La propiedad o posesión de predios urbanos, suburbanos y rústicos;
 
 II.- La propiedad o posesión de las construcciones permanentes ubicadas en los predios, señalados en la fracción anterior; y
 
@@ -2161,7 +2163,9 @@ Son sujetos de este impuesto:
 
 I.- Con responsabilidad directa:
 
-a).- Los propietarios y poseedores de predios urbanos y rústicos;
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
+a).- Los propietarios y poseedores de predios urbanos, suburbanos y rústicos;
 
 b).- Los copropietarios y los coposeedores de bienes inmuebles sujetos a régimen de copropiedad o condominio y los titulares de certificados de participación inmobiliaria;
 
@@ -2173,7 +2177,9 @@ e).- Los poseedores, que por cualquier título tengan el uso o goce de predios d
 
 II.- Con responsabilidad objetiva:
 
-Los adquirentes por cualquier título de predios urbanos y rústicos.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
+Los adquirientes por cualquier título de predios urbanos, suburbanos y rústicos.
 
 III.- Con responsabilidad solidaria:
 
@@ -2245,11 +2251,17 @@ DE A FIJA
 
 El impuesto a pagar, se determinará sumando a la cuota fija, el importe que resulte, de multiplicar el factor por el excedente del límite inferior de la base.
 
-II.- Tratándose de predios rústicos, aplicando la tasa del 2.00 al millar sobre el valor catastral.
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
+II.- Tratándose de predios suburbanos, se aplicará la tasa autorizada para terrenos rústicos al valor del terreno y la tasa autorizada para terrenos urbanos al valor de la construcción.
+
+III.- Tratándose de predios rústicos, aplicando la tasa del 2.00 al millar sobre el valor catastral.
 
 En ningún caso, el impuesto anual será menor al equivalente de un día de salario mínimo general de la zona en donde se ubique el inmueble.
 
-Para los efectos del pago del impuesto predial en poblaciones de más de 75,000 habitantes, conforme a los censos oficiales, se considerará como predio urbano no edificado aquel cuya superficie construida sea inferior al veinte porciento del terreno, por lo que el impuesto a cargo del contribuyente, se sancionará con un cien porciento mas, del que pagaría de acuerdo a la tarifa aplicable, aumentándose anualmente en veinte puntos porcentuales, respecto de la tarifa original, hasta alcanzar un máximo de doscientos porciento. Este incremento dejará de surtir efectos, al cesar la condición de predio no edificado.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
+Para los efectos del pago del impuesto predial en poblaciones de mas de 75,000 habitantes, conforme a los censos oficiales, se considerará como predio urbano no edificado aquel cuya superficie construida sea inferior al veinte por ciento del terreno, por lo que el impuesto a cargo del contribuyente, se sancionará con un cien por ciento mas, del que pagaría de acuerdo a la tarifa aplicable, aumentándose anualmente, en veinte puntos porcentuales, respecto de la tarifa original, hasta alcanzar un máximo de doscientos por ciento; Este incremento dejará de surtir efectos, al cesar la condición de predio no edificado.
 
 El párrafo anterior no se aplicará:
 
@@ -3278,3 +3290,9 @@ P.O. 28 DE SEPTIEMBRE DE 2002.
 DECRETO No. 378/02 III P.E.
 
 ÚNICO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE NOVIEMBRE DE 2002.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
