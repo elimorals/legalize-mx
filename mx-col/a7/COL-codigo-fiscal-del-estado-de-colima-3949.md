@@ -4,7 +4,7 @@ identifier: "COL-codigo-fiscal-del-estado-de-colima-3949"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-26"
-last_updated: "1984-12-29"
+last_updated: "1986-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO FISCAL DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 1986.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1981.
 
@@ -605,13 +605,13 @@ XIX.- No conservar los libros, documentos y correspondencia que le sean dejados 
 
 XX.- Violar otras disposiciones fiscales en forma no prevista en las fracciones precedentes, multa de $100.00 a $10,000.00
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
 
-XXI.- En el supuesto del Artículo 131 de la Ley de Hacienda del Estado, por cada cabeza de ganado, multa de:
+XXI.- En el supuesto del Artículo 131 de la Ley de Hacienda del Estado, por cada cabeza de ganado multa de:
 
-a).- $ 1,000.00, si es ganado mayor.
+a).- $ 5,000.00 si es ganado mayor.
 
-b).- $ 800.00, si es ganado menor.
+b).- $ 4,000.00 si es ganado menor.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 1982)</small>
 
@@ -1828,3 +1828,7 @@ Este Decreto entrará en vigor tres días después de su Publicación en el Peri
 ###### ARTICULO 2o.
 
 Para efectos de uniformidad en cuanto a terminología con el Código fiscal de la Federación, deberá sustituirse en esta Ley el término Causantes por el de Contribuyentes y el de Secuestro Administrativo por Embargo.
+
+P.O. 5 DE JULIO DE 1986.
+
+UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
