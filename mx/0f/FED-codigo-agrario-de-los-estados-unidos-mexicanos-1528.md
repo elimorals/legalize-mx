@@ -4,7 +4,7 @@ identifier: "FED-codigo-agrario-de-los-estados-unidos-mexicanos-1528"
 country: "mx"
 rank: "codigo"
 publication_date: "1943-04-27"
-last_updated: "1943-04-27"
+last_updated: "1943-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1528&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1942-12-31"
 
 CODIGO AGRARIO DE LOS ESTADOS UNIDOS MEXICANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JULIO DE 1943.
 
 Código publicado en el Diario Oficial de la Federación, el martes 27 de abril de 1943.
 
@@ -870,6 +870,26 @@ II. Las superficies que no excedan de doscientas hectáreas en terrenos de tempo
 III. Hasta ciento cincuenta hectáreas dedicadas al cultivo del algodón, si reciben riego de avenida fluvial o por sistema de bombeo;
 
 IV. Hasta trescientas hectáreas ocupadas con plantaciones de plátano, café, henequén, hule, cocotero, vid, olivo, quina, vainilla, cacao o árboles frutales;
+
+> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 1943)</small>
+
+IV Bis.- Hasta cinco mil hectáreas de terreno dedicados o que se dediquen en lo futuro al cultivo del guayule en los Estados de Aguascalientes, Coahuila, Chihuahua, Durango, Nuevo León, San Luis Potosí y Zacatecas y por el término de cincuenta años prorrogables hasta por veinte años más.
+
+Para que sean inafectables las superficies a que se refiere esta fracción, se requiere:
+
+a).- Que las superficies respecto de las cuales se solicite la inafectabilidad no estén sujetas a afectaciones con motivo de expedientes agrarios en tramitación.
+
+b).- Que dichas superficies, durante los diez años anteriores a la fecha de la solicitud de inafectabilidad, no hayan sido destinadas a ningún uso agrícola.
+
+c).- Que no se trate de guayuleras naturales que pretendan explotarse con la yerba silvestre o mejorando la densidad y extensión de las guayuleras con plantaciones ocasionales, o con el esparcimiento de semilla, sino de un cultivo sistemático que comprenda la construcción de obras de riego, el establecimiento de viveros, el establecimiento de plantaciones ordenadas y el cultivo metódico del guayule de plantación.
+
+d).- Que la explotación del guayule se mantenga ininterrumpida. En el caso de que se interrumpa la explotación por causas imputables al concesionario de la inafectabilidad, cesarán todos los efectos legales de dicha inafectabilidad.
+
+El Departamento Agrario recibirá y tramitará las solicitudes que formulen los interesados y otorgará inafectabilidad condicional siempre y cuando se hayan reunido los requisitos establecidos en los incisos a) y b) de esta fracción, consultando previamente la opinión de la Secretaría de Agricultura y Fomento. Dicha Secretaría fijará las condiciones que deban llenarse para satisfacer los requisitos exigidos en el inciso c) de esta fracción.
+
+Concedida la inafectabilidad condicional a que se refiere el párrafo anterior, la Secretaría de Agricultura y Fomento señalará plazos razonables a los interesados para que inicien los trabajos de desmonte, construcción de obras de riego y preparación de las tierras para el cultivo; y señalará, asimismo, las superficies que anualmente deban ponerse en cultivo de guayule, durante el plazo de inafectabilidad.
+
+Los concesionarios, transcurrido un plazo de veinte años a partir de la fecha en que les fué otorgada la con cesión (sic), podrán, con anuencia de la Secretaría de Agricultura y Fomento, abandonar el cultivo del guayule y, en este caso, tendrán facultad para fraccionar los terrenos declarados inafectables, en los términos de la Ley de Colonización, pero siempre que los fraccionamientos comprendan predios no mayores de cien hectáreas de riego o o (sic) sus equivalentes en terrenos de otras clases.
 
 V. Las superficies sujetas a proceso de reforestación conforme a la Ley o reglamentos forestales. En este caso será indispensable que por el clima, topografía, calidad, altitud, constitución y situación de los terrenos, resulte impropia o anti-económica la explotación agrícola de los mismos.
 
@@ -2706,3 +2726,9 @@ El presente Código entrará en vigor a los quince días de la fecha de su publi
 José Gómez Esparza, D. P.- Esteban García de Alba, S. P.- Mariano Samayoa, D. S.- Fernando Cruz Chávez, S. P.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, D. F., a los treinta y un días del mes de diciembre de mil novecientos cuarenta y dos.- Manuel Avila Camacho.- Rúbrica.- El Jefe del Departamento Agrario, Fernando Foglio Miramontes.- Rúbrica.- El Secretario de Estado y del Despacho de Agricultura y Fomento, Marte R. Gómez.- Rúbrica.- Al C. Lic. Miguel Alemán, Secretario de Gobernación.- Presente.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+D.O.F. 17 DE JULIO DE 1943.
+
+UNICO.- Este decreto entrará en vigor diez días después de su publicación en el Diario Oficial de la Federación.
