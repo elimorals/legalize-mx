@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2002-06-05"
+last_updated: "2002-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE OCTUBRE DE 2002.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -263,6 +263,12 @@ A esta Dirección General estarán adscritas las Direcciones de Disposiciones de
 
 > <small>(REFORMADO, D.O.F. 30 DE JULIO DE 1999)</small>
 
+ARTICULO 14 BIS 1.- La Dirección General de Intermediarios Financieros de Fomento tendrá las atribuciones señaladas en el artículo 25 Bis 1.
+
+A esta Dirección General estará adscrita la Dirección de Intermediarios Financieros de Fomento.
+
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 14 Bis 1.
 
 La Dirección General de Intermediarios Financieros de Fomento tendrá las atribuciones señaladas en el artículo 25 Bis 1.
@@ -321,7 +327,7 @@ III. Emitir la opinión que corresponda dar al Banco cuando la ley lo determine;
 
 > <small>(REFORMADA, D.O.F. 7 DE ABRIL DE 1997)</small>
 
-IV. Expedir las disposiciones relativas a los fideicomisos constituidos en el Banco por encomienda legal, o bien, aquéllos cuyos fines coadyuven al desempeño de sus funciones;
+IV.- Expedir las disposiciones relativas a los fideicomisos constituidos en el Banco por encomienda legal, o bien, aquéllos cuyos fines coadyuven al desempeño de sus funciones;
 
 > <small>(ADICIONADA, D.O.F. 4 DE AGOSTO DE 2000)</small>
 
@@ -333,7 +339,7 @@ VI. Mantener relaciones con organismos e instituciones nacionales e internaciona
 
 > <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 1999)</small>
 
-VII. Expedir las reglas de operación de los fideicomisos de Fomento Económico a que se refiere la fracción I del artículo 25 Bis 1, así como formalizar los instrumentos en que se contengan las operaciones que realicen los fideicomisos a que se refiere esta fracción;
+VII. Emitir las reglas de operación de los fideicomisos de Fomento Económico a que se refiere la fracción I del artículo 25 Bis 1, así como formalizar los instrumentos en que se contengan las operaciones que realicen los fideicomisos a que se refiere esta fracción;
 
 VIII. Participar en los procedimientos de obtención de información y seguimiento de las operaciones realizadas por los intermediarios financieros; así como, en su caso, imponer a éstos las sanciones y medidas correctivas procedentes;
 
@@ -461,7 +467,7 @@ III. Dar seguimiento a la actividad de los intermediarios financieros en los mer
 
 IV. Recabar la información necesaria de los intermediarios financieros, para prever los flujos de divisas.
 
-((REFORMADO, D.O.F. 14 DE OCTUBRE DE 1998)
+> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 20.
 
@@ -643,7 +649,9 @@ IV. Administrar los recursos de la Reserva para Cubrir Obligaciones de Carácter
 
 V. Cumplir con las obligaciones legales y reglamentarias a cargo del Banco, en su carácter de patrón;
 
-VI. Gestionar y controlar los seguros de vida y daños contratados por cuenta del personal del Banco;
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2002)</small>
+
+VI. Contratar los seguros relacionados con los bienes propiedad del Banco o que posea bajo cualquier título, así como gestionar y controlar los seguros de vida y daños contratados por cuenta del personal del Banco;
 
 VII. Vigilar que los créditos otorgados por el Banco a sus trabajadores, se encuentren debidamente garantizados;
 
@@ -765,7 +773,9 @@ El Contralor tendrá las atribuciones siguientes:
 
 I. Comprobar que en la Institución, se dé cumplimiento a lo previsto en la Ley, el presente Reglamento, las Condiciones Generales de Trabajo, la Ley Federal de Responsabilidades de los Servidores Públicos y a las disposiciones relacionadas con dichos ordenamientos;
 
-II. Participar en los órganos colegiados que se constituyan, para conocer de las operaciones a que se refiere el artículo 46, fracción XII de la Ley del Banco de México;
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2002)</small>
+
+II. Llevar el Secretariado de los órganos colegiados que se constituyan para conocer de las operaciones a que se refiere la fracción XII del artículo 46 de la Ley del Banco de México, así como de aquellos otros órganos colegiados en los que el Banco tenga interés;
 
 III. Llevar el registro de firmas autógrafas de los funcionarios del Banco, facultados para ejercer las atribuciones encomendadas a las Direcciones Generales, Direcciones y Contralor, para los efectos de los artículos 8o. y 10 de este Reglamento, así como de los empleados facultados de acuerdo a las resoluciones emitidas en los términos del artículo 11 de dicho ordenamiento, pudiendo expedir constancias de dicho registro;
 
@@ -781,7 +791,7 @@ El Contralor designará al personal que deberá efectuar las notificaciones rela
 
 VI. Verificar que los pagos derivados del ejercicio de los presupuestos de gasto corriente e inversión física y de la adquisición de los insumos necesarios para la producción de billetes y la acuñación de monedas, se efectúen con apego a las disposiciones aplicables y normas emitidas, así como a las condiciones pactadas en los pedidos y contratos;
 
-VII. Contratar los seguros relacionados con los bienes propiedad del Banco o que posea bajo cualquier título;
+VII. (DEROGADA, D.O.F. 9 DE OCTUBRE DE 2002)
 
 VIII. Supervisar el manejo de efectivo, metales y valores, así como de los insumos para la fabricación de billetes;
 
@@ -803,7 +813,9 @@ XV. Auditar las operaciones realizadas por el Banco, incluso en su carácter de 
 
 XVI. Requerir en su caso, a las instituciones en las que el Banco participe económicamente, la información necesaria para cumplir con sus atribuciones, y
 
-XVII. Apoyar en el ámbito de sus atribuciones al auditor externo en las actividades relacionadas con la elaboración de los dictámenes financieros correspondientes.
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2002)</small>
+
+XVII. Apoyar en el ámbito de sus atribuciones al auditor externo en las actividades relacionadas con la elaboración de los dictámenes financieros correspondientes, así como actuar como unidad de enlace con la Auditoría Superior de la Federación, para lo cual podrá celebrar los actos jurídicos que se requieran;
 
 > <small>(ADICIONADA, D.O.F. 5 DE JUNIO DE 2002)</small>
 
@@ -1143,7 +1155,7 @@ D.O.F. 30 DE JULIO DE 1999.
 
 UNICO.- Las presentes reformas y adiciones, entrarán en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación.
 
-D.O.F. 1 DE OCTUBRE DE 1999.
+D.O.F. 1 DE OCTUBRE DE 1999
 
 PRIMERO.- Las presentes reformas entrarán en vigor a partir del día de su publicación en el Diario Oficial de la Federación.
 
@@ -1180,3 +1192,7 @@ UNICO. Las presentes reformas y adiciones, entrarán en vigor a partir de la fec
 D.O.F. 5 DE JUNIO DE 2002.
 
 UNICO. Las presentes reformas, adiciones y derogaciones, entrarán en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE OCTUBRE DE 2002.
+
+UNICO. Las presentes reformas y derogaciones entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
