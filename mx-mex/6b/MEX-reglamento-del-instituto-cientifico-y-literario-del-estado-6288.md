@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-instituto-cientifico-y-literario-del-estado-6288
 country: "mx"
 rank: "reglamento"
 publication_date: "1940-02-28"
-last_updated: "1943-01-30"
+last_updated: "1943-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "MEX"
 
 REGLAMENTODEL INSTITUTO CIENTIFICO Y LITERARIO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE ENERO DE 1943.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE NOVIEMBRE DE 1943.
 
 Reglamento publicado en la Gaceta del Gobierno del Estado de México, el miércoles 28 de febrero de 1940.
 
 WENCESLAO LABRA, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed: que en uso de la facultad que me concede el artículo 25 de la LEY ORGANICA DEL INSTITUTO CIENTIFICO Y LITERARIO DEL ESTADO DE MEXICO, de 13 de enero del año actual, he tenido bien expedir el siguiente:
 
-"REGLAMENTO DEL INSTITUTO CIENTIFICO Y LITERARIO DEL ESTADO"
+"REGLAMENTO DEL INSTITUTO CIENTIFICO Y LITERARIO DEL ESTADO
 
 DEL GOBIERNO DEL INSTITUTO
 
@@ -93,9 +93,13 @@ El Consejo Técnico durará en funciones un año escolar, desde la fecha de su e
 
 El Consejo Técnico está facultado para proponer todo lo relativo a programas, métodos de enseñanza, cuestionarios, elección de libros de texto, y de consulta, para los ciclos preparatorio y profesional. Planeará, además, todo cuanto signifique servicio social que profesores y alumnos están obligados a prestar. Singularmente formará los Planes a que se sujetará la actividad de la Estación Radiodifusora del Plantel, en relación con el importantísimo servicio de que se acaba de hablar.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL DECRETO NO. 8, PUBLICADO EN LA GACETA DEL GOBIERNO EL 10 DE NOVIEMBRE DE 1943, EL PRESENTE ARTICULO QUEDA EN SUSPENSO.</small>
+
 ###### Artículo 10.
 
 El Consejo Técnico dictaminará respecto de los casos relativos a exámenes extraordinarios a título de suficiencia.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL DECRETO NO. 8, PUBLICADO EN LA GACETA DEL GOBIERNO EL 10 DE NOVIEMBRE DE 1943, EL PRESENTE ARTICULO QUEDA EN SUSPENSO.</small>
 
 ###### Artículo 11.
 
@@ -427,9 +431,13 @@ La semana escolar constará de SEIS DIAS; y el número de clases, durante la mis
 
 Las inscripciones para los cursos escolares se llevarán a cabo en la Secretaría del Plantel, del 16 al 31 de enero de cada año. Para la admisión y matricula de alumnos en el Ciclo Preparatorio, se tendrán en cuenta los requisitos que señala el Artículo 40 de este mismo Reglamento, y además los que indique el Consejo Técnico del Plantel. Para los alumnos que ingresen al Ciclo Secundario, se cumplirá con las disposiciones del Reglamento respectivo.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL DECRETO NO. 8, PUBLICADO EN LA GACETA DEL GOBIERNO EL 10 DE NOVIEMBRE DE 1943, EL PRESENTE ARTICULO QUEDA EN SUSPENSO.</small>
+
 ###### Artículo 59.
 
 Los exámenes ordinarios de fin de curso, tendrán lugar en las fechas que, por conducto de la Secretaría, señale la Dirección; y serán sustentados por los alumnos que hayan hecho con regularidad los estudios correspondientes y cumplido los requisitos que señalen la Ley y este Reglamento.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL DECRETO NO. 8, PUBLICADO EN LA GACETA DEL GOBIERNO EL 10 DE NOVIEMBRE DE 1943, EL PRESENTE ARTICULO QUEDA EN SUSPENSO.</small>
 
 ###### Artículo 60.
 
@@ -471,7 +479,11 @@ c).- A título de suficiencia.
 
 Los exámenes ordinarios serán sustentados por los alumnos, como lo previene el artículo 59 de este mismo Reglamento, y deberán verificarse de acuerdo con las siguientes condiciones:
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL DECRETO NO. 8, PUBLICADO EN LA GACETA DEL GOBIERNO EL 10 DE NOVIEMBRE DE 1943, LA PRESENTE FRACCION QUEDA EN SUSPENSO.</small>
+
 I.- Tendrán lugar en las fechas que la Dirección señale por conducto de la Secretaría, dentro del período que va desde el 16 de noviembre al 15 de diciembre del mismo año, pudiendo ampliar este periodo la Dirección o el Consejo Técnico, si así lo estiman conveniente.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL DECRETO NO. 8, PUBLICADO EN LA GACETA DEL GOBIERNO EL 10 DE NOVIEMBRE DE 1943, LA PRESENTE FRACCION QUEDA EN SUSPENSO.</small>
 
 II.- Los exámenes ordinarios se verificarán ante un Jurado integrado por tres sinodales, jurado que deberá ser propuesto a la Dirección, por los respectivos profesores y en el cual actuará como Secretario, el Profesor del Curso y como Presidente y Vocal, las personas que la Dirección o el Consejo Técnico designen.
 
@@ -494,6 +506,8 @@ l.- Los que no pudieron presentar examen ordinario, por causa justificada, a jui
 II.- Los alumnos que en su promedio de calificaciones de los tres reconocimientos trimestrales no hayan alcanzado la calificación de SIETE PUNTOS.
 
 III.- Los alumnos que hubieren sido reprobados en los exámenes ordinarios de fin de curso.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL DECRETO NO. 8, PUBLICADO EN LA GACETA DEL GOBIERNO EL 10 DE NOVIEMBRE DE 1943, EL PRESENTE ARTICULO QUEDA EN SUSPENSO.</small>
 
 ###### Artículo 69.
 
@@ -612,3 +626,13 @@ Lic. JUAN FERNANDEZ ALBARRAN
 G.G. 30 DE ENERO DE 1943.
 
 Estas reformas entrarán en vigor el día de su publicación en la Gaceta del Gobierno.
+
+G.G. 10 DE NOVIEMBRE DE 1943.
+
+ANTE SU IMPORTANCIA SE TRANSCRIBE TEXTUAL ARTICULO PRIMERO DEL DECRETO No. 8
+
+###### ARTICULO PRIMERO.
+
+MIENTRAS SE EXPIDE LA PROXIMA LEY DE AUTONOMIA DEL INSTITUTO CIENTIFICO Y LITERARIO DEL ESTADO, QUEDAN EN SUSPENSO LAS DISPOSICIONES DE LOS ARTICULOS 14, 16 Y 19 DE LA LEY ORGANICA DE DICHO PLANTEL DE 13 DE ENERO DE 1940; LAS DISPOSICIONES DE LOS ARTICULOS 10, 11, 59, 60, 67 FRACCIONES I Y II Y 69 DEL REGLAMENTO DEL MISMO DE 14 DE FEBRERO DE ESE MISMO AÑO EN MATERIA DE EXAMENES ORDINARIOS Y EXTRAORDINARIOS EN LOS CICLOS SECUNDARIO, PREPARATORIO Y PROFESIONAL, ASI COMO LAS DEMAS DISPOSICIONES DE ESAS MISMAS LEYES Y DE LAS DEMAS QUE SE OCUPEN DE ESA MATERIA, POR LO QUE TOCA A LOS CURSOS DE ESTUDIO DURANTE EL CORRIENTE AÑO EN EL ALUDIDO INSTITUTO.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 1.2. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MEXICO.
