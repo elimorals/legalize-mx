@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2000-12-31"
+last_updated: "2001-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE JUNIO DE 2001.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -693,7 +693,7 @@ b).- Las demás que establezca la directiva del Congreso y la Gran Comisión.
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
-XIX.- DE LA COMISIÓN DE EQUIDAD Y GéNERO:
+XIX.- DE LA COMISIÓN DE EQUIDAD Y GÉNERO:
 
 a).- Los que tengan relación con la problemática específica de mujeres y hombres en razón de su género.
 
@@ -1021,11 +1021,15 @@ Si por falta de Quórum no pudiera verificarse esta Sesión Extraordinaria, el P
 
 Son Sesiones Públicas aquellas que se celebren permitiéndose el acceso al público al Recinto Oficial.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 19 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 93.
 
-Son Sesiones Secretas aquellas en que, por tratarse de los casos a que se refiere esta Ley, queda prohibido el acceso al público al Recinto Oficial.
+Son Sesiones Secretas aquellas en las que, por tratarse de los casos a los que se refiere esta Ley, queda prohibido el acceso al público al recinto oficial.
 
-Serán tratados en Sesión Secreta:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 19 DE JUNIO DE 2001)</small>
+
+Serán tratados en sesión secreta:
 
 I.- Las acusaciones que se hagan en contra de los Servidores Públicos.
 
@@ -1040,6 +1044,10 @@ V.- Las que acuerde el Congreso, a moción de sus integrantes o a petición de l
 VI.- En general, los que a juicio del Presidente deban tratarse con reserva, y en los demás casos previstos por esta Ley.
 
 Cuando en una Sesión Secreta se trate un asunto que exija estricta reserva, el Presidente del Congreso consultará a la Asamblea si debe guardarse sigilo, y de resolverse afirmativamente, los presentes estarán obligados a guardarlo.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 2001)</small>
+
+Las Sesiones Secretas se celebraran el último viernes de cada mes durante los Periodos Ordinarios fuera de esos días y de esos periodos, sólo podrá haber Sesión Secreta Extraordinaria por disposición del Presidente del Congreso, de la Diputación Permanente o a moción de uno o mas Diputados.
 
 ###### ARTICULO 94.
 
@@ -1083,15 +1091,29 @@ II.- Escritos memoriales y solicitudes de particulares.
 
 III.- Comunicaciones oficiales.
 
-IV.- Denuncias, pronunciamientos o proposiciones verbales o escritas de los Diputados; las cuales deberán registrarse cuando menos dos horas antes de la señalada para el inicio de la Sesión, ante el Presidente, o en su defecto, ante el Secretario.
+> <small>(REFORMADA, B.O. 19 DE JUNIO DE 2001)</small>
 
-V.- Iniciativas de Ley o Decreto.
+IV.- Pronunciamientos.
 
-VI.- Comparecencias.
+> <small>(ADICIONADA, B.O. 19 DE JUNIO DE 2001)</small>
 
-VII.- Dictámenes en primera lectura.
+V.- Iniciativas de Acuerdo Económico.
 
-VIII.- Dictámenes en segunda lectura, discusión y aprobación en su caso.
+VI.- Iniciativas de Ley o Decreto.
+
+VII.- Comparecencias.
+
+VIII.- Dictámenes en primera lectura.
+
+IX.- Dictámenes en segunda lectura para su discusión y aprobación en su caso.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 2001)</small>
+
+Los asuntos a que se refieren las fracciones IV, V, VI, VIII Y IX deberán registrarse a mas tardar a las tres de la tarde del día anterior a la celebración de la Sesión Ordinaria, ante el Presidente, o en su defecto, ante el Secretario de la Directiva del Congreso del Estado.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 2001)</small>
+
+El orden del día deberá hacerse publico y fijarse en el exterior de la Sala de Sesiones a mas tardar a las seis de la tarde del día anterior a la celebración de la Sesión Ordinaria.
 
 ###### ARTICULO 98.
 
@@ -1145,9 +1167,9 @@ Las resoluciones del Congreso en Materia Electoral y las que se refieran a la ap
 
 Las proposiciones provenientes de los Diputados que tiendan a una resolución que, por su naturaleza, no requiera de la sanción, promulgación y publicación se considerarán iniciativas de acuerdo económico, y se sujetarán a los trámites siguientes:
 
-I.- Se presentarán por escrito y firmadas por sus autores, al Presidente del Congreso y serán leídas una sola vez en las Sesiones en que sean presentadas.
+> <small>(REFORMADA, B.O. 19 DE JUNIO DE 2001)</small>
 
-Podrá su autor, o uno de ellos si fueren varios, exponer los fundamentos y razones de su proposición y proyecto.
+I.- Se presentaran por escrito ante el pleno de la Asamblea, debiendo el presidente del Congreso disponer lo necesario para que sean distribuidas entre todos los Diputados en la Sesión en que vayan a ser presentadas.
 
 II.- Hablarán una sola vez dos miembros del Congreso, uno en pro y otro en contra, prefiriéndose al autor o representante del proyecto o proposición.
 
@@ -1948,3 +1970,7 @@ B.O. 31 DE DICIEMBRE DE 2000.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 19 DE JUNIO DE 2001.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Estado de Baja California Sur.
